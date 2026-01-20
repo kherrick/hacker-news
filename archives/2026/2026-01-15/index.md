@@ -6,6 +6,7 @@
 
 * [2026-01-15, 23:59:06](https://news.ycombinator.com/item?id=46641239) - [All 23-Bit Still Lifes Are Glider Constructible](https://mvr.github.io/posts/xs23.html)
 * [2026-01-15, 23:56:26](https://news.ycombinator.com/item?id=46641216) - [The Alignment Game](https://dmvaldman.github.io/alignment-game/)
+* [2026-01-15, 23:47:32](https://news.ycombinator.com/item?id=46641145) - [King – man + woman is queen; but why? (2017)](https://p.migdal.pl/blog/2017/01/king-man-woman-queen-why/)
 * [2026-01-15, 23:37:42](https://news.ycombinator.com/item?id=46641042) - [Tldraw pauses external contributions due to AI slop](https://github.com/tldraw/tldraw/issues/7695)
 * [2026-01-15, 23:36:40](https://news.ycombinator.com/item?id=46641036) - [From Nevada to Kansas by Glider](https://www.weglide.org/flight/978820)
 * [2026-01-15, 22:43:28](https://news.ycombinator.com/item?id=46640462) - [AWS European Sovereign Cloud](https://aws.eu/)
