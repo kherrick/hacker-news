@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-20, 10:35:47](https://news.ycombinator.com/item?id=46690330) - [UK consulting on bringing in social media ban for under 16s](https://www.bbc.com/news/articles/cgm4xpyxp7lo)
+* [2026-01-20, 10:30:46](https://news.ycombinator.com/item?id=46690295) - [String Theory Can Now Describe a Universe That Has Dark Energy](https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/)
 * [2026-01-20, 07:51:12](https://news.ycombinator.com/item?id=46689065) - [Linux kernel framework for PCIe device emulation, in userspace](https://github.com/cakehonolulu/pciem)
 * [2026-01-20, 07:35:09](https://news.ycombinator.com/item?id=46688971) - [The Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
 * [2026-01-20, 07:32:58](https://news.ycombinator.com/item?id=46688954) - [Giving university exams in the age of chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
@@ -22,7 +22,7 @@
 * [2026-01-19, 07:57:04](https://news.ycombinator.com/item?id=46676081) - [The coming industrialisation of exploit generation with LLMs](https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/)
 * [2026-01-18, 18:20:25](https://news.ycombinator.com/item?id=46670524) - [Prediction markets are ushering in a world in which news becomes about gambling](https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/)
 * [2026-01-17, 21:39:35](https://news.ycombinator.com/item?id=46662390) - [Show HN: E80: an 8-bit CPU in structural VHDL](https://github.com/Stokpan/E80)
-* [2026-01-16, 21:48:40](https://news.ycombinator.com/item?id=46652690) - [I set all 376 Vim options and I'm still a fool](https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/)
+* [2026-01-16, 14:01:12](https://news.ycombinator.com/item?id=46646404) - [The Antarctic Snow Cruiser](https://www.amusingplanet.com/2026/01/the-antarctic-snow-cruiser.html)
 * [2026-01-16, 13:33:17](https://news.ycombinator.com/item?id=46646173) - [Face as a QR Code](https://bookofjoe2.blogspot.com/2025/12/your-face-as-qr-code.html)
 * [2026-01-16, 02:53:21](https://news.ycombinator.com/item?id=46642458) - [British redcoat's lost memoir reveals realities of life as a disabled veteran](https://phys.org/news/2026-01-british-redcoat-lost-memoir-reveals.html)
 * [2026-01-15, 23:47:32](https://news.ycombinator.com/item?id=46641145) - [King – man + woman is queen; but why? (2017)](https://p.migdal.pl/blog/2017/01/king-man-woman-queen-why/)
