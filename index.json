@@ -45,8 +45,18 @@
       "https://news.ycombinator.com/item?id=46686640"
     ],
     [
-      "Porsche Sold More Electrified Cars in Europe in 2025 Than Pure Gas-Powered Cars",
+      "Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars",
       "https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 00:55:49",
+      "https://news.ycombinator.com/item?id=46686607"
+    ],
+    [
+      "Harvard legal scholars debate the state of the U.S. constitution (2025)",
+      "https://www.harvardmagazine.com/social-sciences/is-the-constitution-broken"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "The assistant axis: situating and stabilizing the character of LLMs",
       "https://www.anthropic.com/research/assistant-axis"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 20:51:00",
-      "https://news.ycombinator.com/item?id=46684335"
-    ],
-    [
-      "Simple Sabotage Field Manual (1944) [pdf]",
-      "https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-01-14, 19:38:47",
-      "https://news.ycombinator.com/item?id=46621656"
+      "2026-01-14, 20:00:23",
+      "https://news.ycombinator.com/item?id=46622090"
     ],
     [
-      "Upgrading DrizzleORM logging with AsyncLocalStorage",
-      "https://numeric.substack.com/p/upgrading-drizzleorm-logging-with"
+      "Understanding ZFS Scrubs and Data Integrity",
+      "https://klarasystems.com/articles/understanding-zfs-scrubs-and-data-integrity/"
     ]
   ]
 ]
