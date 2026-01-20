@@ -36,6 +36,7 @@
 * [2026-01-16, 15:02:25](https://news.ycombinator.com/item?id=46647038) - [Cyberattack in Venezuela Demonstrated Precision of U.S. Capabilities](https://www.nytimes.com/2026/01/15/us/politics/cyberattack-venezuela-military.html)
 * [2026-01-16, 14:56:47](https://news.ycombinator.com/item?id=46646970) - [America could have $4 lunch bowls like Japan–but our zoning laws [prevent that]](https://abio.substack.com/p/america-could-have-4-lunch-bowls)
 * [2026-01-16, 14:56:12](https://news.ycombinator.com/item?id=46646958) - [Can You Disable Spotlight and Siri in macOS Tahoe?](https://eclecticlight.co/2026/01/16/can-you-disable-spotlight-and-siri-in-macos-tahoe/)
+* [2026-01-16, 14:48:06](https://news.ycombinator.com/item?id=46646870) - [Benchmarking a Baseline Fully-in-Place Functional Language Compiler [pdf]](https://trendsfp.github.io/papers/tfp26-paper-12.pdf)
 * [2026-01-16, 14:37:49](https://news.ycombinator.com/item?id=46646777) - [Cursor's latest \"browser experiment\" implied success without evidence](https://embedding-shapes.github.io/cursor-implied-success-without-evidence/)
 * [2026-01-16, 14:25:54](https://news.ycombinator.com/item?id=46646645) - [Astro Joining Cloudflare](https://astro.build/blog/joining-cloudflare/)
 * [2026-01-16, 14:09:32](https://news.ycombinator.com/item?id=46646475) - [The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)
