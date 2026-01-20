@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-01-20, 01:58:22",
-      "https://news.ycombinator.com/item?id=46686972"
-    ],
-    [
-      "Go 1.26 Interactive Tour",
-      "https://antonz.org/go-1-26/"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 01:21:35",
       "https://news.ycombinator.com/item?id=46686745"
     ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2026-01-19, 21:35:31",
+      "https://news.ycombinator.com/item?id=46684815"
+    ],
+    [
+      "Targeted Bets: An alternative approach to the job hunt",
+      "https://www.seanmuirhead.com/blog/targeted-bets"
+    ]
+  ],
+  [
+    [
       "2026-01-19, 21:25:16",
       "https://news.ycombinator.com/item?id=46684708"
     ],
@@ -191,12 +191,32 @@
   ],
   [
     [
-      "2026-01-19, 15:15:41",
-      "https://news.ycombinator.com/item?id=46679907"
+      "2026-01-19, 16:36:11",
+      "https://news.ycombinator.com/item?id=46680974"
     ],
     [
-      "CSS Web Components for marketing sites (2024)",
-      "https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/"
+      "Apple testing new App Store design that blurs the line between ads and results",
+      "https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 16:05:50",
+      "https://news.ycombinator.com/item?id=46680515"
+    ],
+    [
+      "The microstructure of wealth transfer in prediction markets",
+      "https://www.jbecker.dev/research/prediction-market-microstructure"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 09:00:14",
+      "https://news.ycombinator.com/item?id=46676554"
+    ],
+    [
+      "I was a top 0.01% Cursor user, then switched to Claude Code 2.0",
+      "https://blog.silennai.com/claude-code"
     ]
   ],
   [
@@ -207,16 +227,6 @@
     [
       "The coming industrialisation of exploit generation with LLMs",
       "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 02:29:25",
-      "https://news.ycombinator.com/item?id=46674433"
-    ],
-    [
-      "San Francisco coyote swims to Alcatraz",
-      "https://www.sfgate.com/local/article/san-francisco-coyote-alcatraz-21302218.php"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2026-01-15, 18:51:34",
+      "https://news.ycombinator.com/item?id=46637283"
+    ],
+    [
+      "Show HN: Munimet.ro – ML-based status page for the local subways in SF",
+      "https://munimet.ro/"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 16:55:16",
       "https://news.ycombinator.com/item?id=46635453"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-01-15, 13:23:33",
-      "https://news.ycombinator.com/item?id=46632120"
-    ],
-    [
-      "Conditions in the Intel 8087 floating-point chip's microcode",
-      "https://www.righto.com/2025/12/8087-microcode-conditions.html"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 10:43:34",
       "https://news.ycombinator.com/item?id=46630718"
     ],
     [
       "Kahan on the 8087 and designing Intel's floating point (2016) [video]",
       "https://www.youtube.com/watch?v=L-QVgbdt_qg"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 20:00:34",
-      "https://news.ycombinator.com/item?id=46622096"
-    ],
-    [
-      "Sending Data over Offline Finding Networks",
-      "https://cc-sw.com/find-my-and-find-hub-network-research/"
     ]
   ],
   [
