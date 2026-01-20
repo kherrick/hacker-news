@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-20, 05:16:14](https://news.ycombinator.com/item?id=46688173) - [X For You Feed Algorithm](https://github.com/xai-org/x-algorithm)
 * [2026-01-20, 05:08:57](https://news.ycombinator.com/item?id=46688122) - [Chatbot Psychosis](https://en.wikipedia.org/wiki/Chatbot_psychosis)
 * [2026-01-20, 03:47:21](https://news.ycombinator.com/item?id=46687705) - [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html)
 * [2026-01-20, 03:26:25](https://news.ycombinator.com/item?id=46687588) - [F-16 Falcon Strike](https://webchrono.pl/F16FalconStrike/index.html)
@@ -23,11 +22,12 @@
 * [2026-01-19, 16:05:50](https://news.ycombinator.com/item?id=46680515) - [The microstructure of wealth transfer in prediction markets](https://www.jbecker.dev/research/prediction-market-microstructure)
 * [2026-01-19, 09:00:14](https://news.ycombinator.com/item?id=46676554) - [I was a top 0.01% Cursor user, then switched to Claude Code 2.0](https://blog.silennai.com/claude-code)
 * [2026-01-19, 07:57:04](https://news.ycombinator.com/item?id=46676081) - [The coming industrialisation of exploit generation with LLMs](https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/)
+* [2026-01-16, 21:48:40](https://news.ycombinator.com/item?id=46652690) - [I set all 376 Vim options and I'm still a fool](https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/)
+* [2026-01-16, 13:33:17](https://news.ycombinator.com/item?id=46646173) - [Face as a QR Code](https://bookofjoe2.blogspot.com/2025/12/your-face-as-qr-code.html)
 * [2026-01-16, 08:00:07](https://news.ycombinator.com/item?id=46644173) - [How we made Python's packaging library 3x faster](https://iscinumpy.dev/post/packaging-faster/)
 * [2026-01-16, 02:53:21](https://news.ycombinator.com/item?id=46642458) - [British redcoat's lost memoir reveals realities of life as a disabled veteran](https://phys.org/news/2026-01-british-redcoat-lost-memoir-reveals.html)
 * [2026-01-15, 23:36:40](https://news.ycombinator.com/item?id=46641036) - [From Nevada to Kansas by Glider](https://www.weglide.org/flight/978820)
 * [2026-01-15, 18:51:34](https://news.ycombinator.com/item?id=46637283) - [Show HN: Munimet.ro – ML-based status page for the local subways in SF](https://munimet.ro/)
-* [2026-01-15, 16:55:16](https://news.ycombinator.com/item?id=46635453) - [Selling SaaS in Japan](https://embedworkflow.com/blog/what-saas-founders-should-know-about-entering-the-japanese-market/)
 * [2026-01-15, 10:43:34](https://news.ycombinator.com/item?id=46630718) - [Kahan on the 8087 and designing Intel's floating point (2016) [video]](https://www.youtube.com/watch?v=L-QVgbdt_qg)
 * [2026-01-14, 20:00:23](https://news.ycombinator.com/item?id=46622090) - [Understanding ZFS Scrubs and Data Integrity](https://klarasystems.com/articles/understanding-zfs-scrubs-and-data-integrity/)
 

@@ -42,6 +42,7 @@
 * [2026-01-16, 13:44:25](https://news.ycombinator.com/item?id=46646263) - [Michelangelo's First Painting, Created When He Was Only 12 or 13 Years Old](https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html)
 * [2026-01-16, 13:40:19](https://news.ycombinator.com/item?id=46646228) - [Show HN: The Analog I – Inducing Recursive Self-Modeling in LLMs [pdf]](https://github.com/philMarcus/Birth-of-a-Mind)
 * [2026-01-16, 13:39:31](https://news.ycombinator.com/item?id=46646226) - [Dev-Owned Testing: Why It Fails in Practice and Succeeds in Theory](https://dl.acm.org/doi/10.1145/3780063.3780066)
+* [2026-01-16, 13:33:17](https://news.ycombinator.com/item?id=46646173) - [Face as a QR Code](https://bookofjoe2.blogspot.com/2025/12/your-face-as-qr-code.html)
 * [2026-01-16, 13:20:20](https://news.ycombinator.com/item?id=46646091) - [psc: The ps utility, with an eBPF twist and container context](https://github.com/loresuso/psc)
 * [2026-01-16, 13:19:03](https://news.ycombinator.com/item?id=46646080) - [Fil-Qt: A Qt Base build with Fil-C experience](https://git.qt.io/cradam/fil-qt)
 * [2026-01-16, 12:58:40](https://news.ycombinator.com/item?id=46645942) - [Show HN: mdto.page – Turn Markdown into a shareable webpage instantly](https://mdto.page)
