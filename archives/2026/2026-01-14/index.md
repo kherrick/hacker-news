@@ -22,6 +22,7 @@
 * [2026-01-14, 20:12:25](https://news.ycombinator.com/item?id=46622328) - [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
 * [2026-01-14, 20:02:36](https://news.ycombinator.com/item?id=46622139) - [Show HN: Harmony – AI notetaker for Discord](https://harmonynotetaker.ai/)
 * [2026-01-14, 20:00:34](https://news.ycombinator.com/item?id=46622096) - [Sending Data over Offline Finding Networks](https://cc-sw.com/find-my-and-find-hub-network-research/)
+* [2026-01-14, 20:00:23](https://news.ycombinator.com/item?id=46622090) - [Understanding ZFS Scrubs and Data Integrity](https://klarasystems.com/articles/understanding-zfs-scrubs-and-data-integrity/)
 * [2026-01-14, 19:53:15](https://news.ycombinator.com/item?id=46621945) - [Why Every Country Should Set 16 as the Minimum Age for Social Media Accounts](https://www.afterbabel.com/p/why-every-country-should-set-16)
 * [2026-01-14, 19:45:21](https://news.ycombinator.com/item?id=46621786) - [Show HN: A fast CLI and MCP server for managing Lambda cloud GPU instances](https://github.com/Strand-AI/lambda-cli)
 * [2026-01-14, 19:39:27](https://news.ycombinator.com/item?id=46621668) - [US to suspend immigrant visa processing for 75 nations, State Department says](https://www.reuters.com/world/us/us-suspend-visa-processing-75-nations-next-week-fox-news-reports-2026-01-14/)
