@@ -18,6 +18,7 @@
 * [2026-01-16, 20:21:50](https://news.ycombinator.com/item?id=46651691) - [Gladys West's vital contributions to GPS technology](https://en.wikipedia.org/wiki/Gladys_West)
 * [2026-01-16, 20:03:10](https://news.ycombinator.com/item?id=46651443) - [Slop Is Everywhere for Those with Eyes to See](https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/)
 * [2026-01-16, 19:17:46](https://news.ycombinator.com/item?id=46650807) - [The wealth of the top% reaches a record $52T](https://www.cnbc.com/2025/10/03/the-wealth-of-the-top-1percent-reaches-a-record-52-trillion.html)
+* [2026-01-16, 19:08:38](https://news.ycombinator.com/item?id=46650682) - [Squishy Go](https://puyogo.app/en/)
 * [2026-01-16, 18:49:29](https://news.ycombinator.com/item?id=46650347) - [Reading across books with Claude Code](https://pieterma.es/syntopic-reading-claude/)
 * [2026-01-16, 18:18:20](https://news.ycombinator.com/item?id=46649813) - [Earth from Space: The Fate of a Giant](https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant)
 * [2026-01-16, 18:15:52](https://news.ycombinator.com/item?id=46649781) - [Graphics In Flatland – 2D ray tracing [video]](https://www.youtube.com/watch?v=WYTOykSqf2Y)

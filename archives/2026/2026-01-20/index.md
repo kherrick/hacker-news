@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 16:03:21](https://news.ycombinator.com/item?id=46693346) - [De-dollarization: Is the US dollar losing its dominance?](https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization)
+* [2026-01-20, 15:56:07](https://news.ycombinator.com/item?id=46693205) - [Nvidia Stock Crash Prediction](https://entropicthoughts.com/nvidia-stock-crash-prediction)
+* [2026-01-20, 15:44:14](https://news.ycombinator.com/item?id=46693021) - [Claude Code is the ChatGPT moment repeated and awful news for software stocks](https://sherwood.news/markets/how-claude-code-is-the-chatgpt-moment-repeated-and-why-thats-awful-news-for/)
 * [2026-01-20, 15:11:45](https://news.ycombinator.com/item?id=46692594) - [Danish pension fund divesting US Treasuries](https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/)
 * [2026-01-20, 14:41:44](https://news.ycombinator.com/item?id=46692284) - [Vibe coding is a hobby. Let me explain](https://medium.com/@wob/vibe-coding-is-a-hobby-let-me-explain-a54949c3b455)
+* [2026-01-20, 14:23:44](https://news.ycombinator.com/item?id=46692116) - [Unconventional PostgreSQL Optimizations](https://hakibenita.com/postgresql-unconventional-optimizations)
 * [2026-01-20, 14:21:03](https://news.ycombinator.com/item?id=46692087) - [Minneapolis software engineers mistaken for ICE agents](https://www.foxnews.com/us/minneapolis-software-engineers-mistaken-ice-agents-eating-lunch-harassed-anti-ice-crowd)
 * [2026-01-20, 14:17:37](https://news.ycombinator.com/item?id=46692052) - [Europe could 'weaponize' $10T of US assets over Greenland](https://www.bloomberg.com/news/articles/2026-01-19/-weaponizing-10-trillion-of-us-assets-is-tough-ask-for-europe)
 * [2026-01-20, 13:51:03](https://news.ycombinator.com/item?id=46691835) - [IP Addresses Through 2025](https://www.potaroo.net/ispcol/2026-01/addr2025.html)
