@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-20, 05:27:12](https://news.ycombinator.com/item?id=46688229) - [Becoming a Whorelord: The Overly Analytical Guide to Escorting (2021)](https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/)
 * [2026-01-20, 05:08:57](https://news.ycombinator.com/item?id=46688122) - [Chatbot Psychosis](https://en.wikipedia.org/wiki/Chatbot_psychosis)
 * [2026-01-20, 03:47:21](https://news.ycombinator.com/item?id=46687705) - [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html)
 * [2026-01-20, 03:26:25](https://news.ycombinator.com/item?id=46687588) - [F-16 Falcon Strike](https://webchrono.pl/F16FalconStrike/index.html)
@@ -26,7 +27,6 @@
 * [2026-01-16, 08:00:07](https://news.ycombinator.com/item?id=46644173) - [How we made Python's packaging library 3x faster](https://iscinumpy.dev/post/packaging-faster/)
 * [2026-01-16, 02:53:21](https://news.ycombinator.com/item?id=46642458) - [British redcoat's lost memoir reveals realities of life as a disabled veteran](https://phys.org/news/2026-01-british-redcoat-lost-memoir-reveals.html)
 * [2026-01-15, 23:36:40](https://news.ycombinator.com/item?id=46641036) - [From Nevada to Kansas by Glider](https://www.weglide.org/flight/978820)
-* [2026-01-15, 18:51:34](https://news.ycombinator.com/item?id=46637283) - [Show HN: Munimet.ro – ML-based status page for the local subways in SF](https://munimet.ro/)
 * [2026-01-15, 16:55:16](https://news.ycombinator.com/item?id=46635453) - [Selling SaaS in Japan](https://embedworkflow.com/blog/what-saas-founders-should-know-about-entering-the-japanese-market/)
 * [2026-01-15, 10:43:34](https://news.ycombinator.com/item?id=46630718) - [Kahan on the 8087 and designing Intel's floating point (2016) [video]](https://www.youtube.com/watch?v=L-QVgbdt_qg)
 * [2026-01-14, 20:00:23](https://news.ycombinator.com/item?id=46622090) - [Understanding ZFS Scrubs and Data Integrity](https://klarasystems.com/articles/understanding-zfs-scrubs-and-data-integrity/)
