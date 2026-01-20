@@ -69,6 +69,7 @@
 * [2026-01-15, 11:08:54](https://news.ycombinator.com/item?id=46630869) - [Show HN: I built a game on my old phone without knowing what I was building](https://www.kikkupico.com/posts/vibe-discovery/)
 * [2026-01-15, 11:01:34](https://news.ycombinator.com/item?id=46630816) - [High-Level Is the Goal](https://bvisness.me/high-level/)
 * [2026-01-15, 10:59:08](https://news.ycombinator.com/item?id=46630798) - [The 3D Software Rendering Technology of 1998's Thief: The Dark Project](https://nothings.org/gamedev/thief_rendering.html)
+* [2026-01-15, 10:43:34](https://news.ycombinator.com/item?id=46630718) - [Kahan on the 8087 and designing Intel's floating point (2016) [video]](https://www.youtube.com/watch?v=L-QVgbdt_qg)
 * [2026-01-15, 09:54:10](https://news.ycombinator.com/item?id=46630369) - [Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout](https://e360.yale.edu/digest/china-renewable-photo-essay)
 * [2026-01-15, 09:00:47](https://news.ycombinator.com/item?id=46629964) - [Python: Tprof, a Targeting Profiler](https://adamj.eu/tech/2026/01/14/python-introducing-tprof/)
 * [2026-01-15, 08:59:27](https://news.ycombinator.com/item?id=46629957) - [Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring](https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer)
