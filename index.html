@@ -142,11 +142,11 @@
             <h4>
               <span>2026-01-20 @ 20:23:55</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46697287"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -182,32 +182,11 @@
             <h4>
               <span>2026-01-20 @ 19:06:56</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46696357"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46696300">
-          <h3>
-            <a
-              class="item"
-              href="https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying"
-              >Without benchmarking LLMs, you're likely overpaying 5-10x</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-20 @ 19:03:25</span
-              ><span class="points-container"
-                >Points: <span class="points">56</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46696300"
-                  >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -222,11 +201,11 @@
             <h4>
               <span>2026-01-20 @ 19:01:30</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46696276"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -242,11 +221,11 @@
             <h4>
               <span>2026-01-20 @ 18:40:19</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46695978"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -263,7 +242,7 @@
             <h4>
               <span>2026-01-20 @ 18:16:09</span
               ><span class="points-container"
-                >Points: <span class="points">217</span></span
+                >Points: <span class="points">226</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46695628"
                   >Comments</a
@@ -282,94 +261,13 @@
             <h4>
               <span>2026-01-20 @ 16:48:59</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46694124"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46693959">
-          <h3>
-            <a class="item" href="https://github.com/mastra-ai/mastra"
-              >Show HN: Mastra 1.0, open-source JavaScript agent framework from
-              the Gatsby devs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-20 @ 16:38:56</span
-              ><span class="points-container"
-                >Points: <span class="points">41</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46693959"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Almost a year ago, we first shared Mastra here (<a
-                  href="https://news.ycombinator.com/item?id=43103073"
-                  >https://news.ycombinator.com/item?id=43103073</a
-                >). It’s kind of fun looking back since we were only a few
-                months into building at the time. The HN community gave a lot of
-                enthusiasm and some helpful feedback.
-              </p>
-              <p>
-                Today, we released Mastra 1.0 in stable, so we wanted to come
-                back and talk about what’s changed.
-              </p>
-              <p>
-                If you’re new to Mastra, it's an open-source TypeScript agent
-                framework that also lets you create multi-agent workflows, run
-                evals, inspect in a local studio, and emit observability.
-              </p>
-              <p>
-                Since our last post, Mastra has grown to over 300k weekly npm
-                downloads and 19.4k GitHub stars. It’s now Apache 2.0 licensed
-                and runs in prod at companies like Replit, PayPal, and Sanity.
-              </p>
-              <p>
-                Agent development is changing quickly, so we’ve added a lot
-                since February:
-              </p>
-              <p>
-                - Native model routing: You can access 600+ models from 40+
-                providers by specifying a model string (e.g.,
-                `openai/gpt-5.2-codex`) with TS autocomplete and fallbacks.
-              </p>
-              <p>
-                - Guardrails: Low-latency input and output processors for prompt
-                injection detection, PII redaction, and content moderation. The
-                tricky thing here was the low-latency part.
-              </p>
-              <p>
-                - Scorers: An async eval primitive for grading agent outputs.
-                Users were asking how they should do evals. We wanted to make it
-                easy to attach to Mastra agents, runnable in Mastra studio, and
-                save results in Mastra storage.
-              </p>
-              <p>
-                - Plus a few other features like AI tracing (per-call costing
-                for Langfuse, Braintrust, etc), memory processors, a
-                `.network()` method that turns any agent into a routing agent,
-                and server adapters to integrate Mastra within an existing
-                Express/Hono server.
-              </p>
-              <p>
-                (That last one took a bit of time, we went down the ESM/CJS
-                bundling rabbithole, ran into lots of monorepo issues, and
-                ultimately opted for a more explicit approach.)
-              </p>
-              <p>
-                Anyway, we'd love for you to try Mastra out and let us know what
-                you think. You can get started with `npm create mastra@latest`.
-              </p>
-              <p>We'll be around and happy to answer any questions!</p>
-            </div>
           </section>
         </section>
         <section id="46693346">
@@ -385,11 +283,11 @@
             <h4>
               <span>2026-01-20 @ 16:03:21</span
               ><span class="points-container"
-                >Points: <span class="points">507</span></span
+                >Points: <span class="points">514</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46693346"
                   >Comments</a
-                ><span class="descendants">: 671</span></span
+                ><span class="descendants">: 684</span></span
               >
             </h4>
           </section>
@@ -406,7 +304,7 @@
             <h4>
               <span>2026-01-20 @ 15:56:07</span
               ><span class="points-container"
-                >Points: <span class="points">270</span></span
+                >Points: <span class="points">276</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46693205"
                   >Comments</a
@@ -427,7 +325,7 @@
             <h4>
               <span>2026-01-20 @ 14:23:44</span
               ><span class="points-container"
-                >Points: <span class="points">205</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46692116"
                   >Comments</a
@@ -452,7 +350,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46691835"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -469,7 +367,7 @@
             <h4>
               <span>2026-01-20 @ 13:34:16</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46691660"
                   >Comments</a
@@ -489,7 +387,7 @@
             <h4>
               <span>2026-01-20 @ 13:10:08</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46691454"
                   >Comments</a
@@ -527,11 +425,11 @@
             <h4>
               <span>2026-01-20 @ 11:58:34</span
               ><span class="points-container"
-                >Points: <span class="points">238</span></span
+                >Points: <span class="points">244</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46690907"
                   >Comments</a
-                ><span class="descendants">: 195</span></span
+                ><span class="descendants">: 197</span></span
               >
             </h4>
           </section>
@@ -546,7 +444,7 @@
             <h4>
               <span>2026-01-20 @ 11:06:54</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46690530"
                   >Comments</a
@@ -568,11 +466,11 @@
             <h4>
               <span>2026-01-20 @ 10:47:25</span
               ><span class="points-container"
-                >Points: <span class="points">410</span></span
+                >Points: <span class="points">418</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46690402"
                   >Comments</a
-                ><span class="descendants">: 201</span></span
+                ><span class="descendants">: 202</span></span
               >
             </h4>
           </section>
@@ -587,7 +485,7 @@
             <h4>
               <span>2026-01-20 @ 07:51:12</span
               ><span class="points-container"
-                >Points: <span class="points">198</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46689065"
                   >Comments</a
@@ -606,11 +504,31 @@
             <h4>
               <span>2026-01-19 @ 23:59:54</span
               ><span class="points-container"
-                >Points: <span class="points">326</span></span
+                >Points: <span class="points">328</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46686273"
                   >Comments</a
                 ><span class="descendants">: 86</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46684958">
+          <h3>
+            <a class="item" href="https://github.com/jordanhubbard/nanolang"
+              >Nanolang: A tiny experimental language designed to be targeted by
+              coding LLMs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-19 @ 21:48:07</span
+              ><span class="points-container"
+                >Points: <span class="points">220</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46684958"
+                  >Comments</a
+                ><span class="descendants">: 177</span></span
               >
             </h4>
           </section>
@@ -639,6 +557,25 @@
                 >https://www.swpc.noaa.gov/products/goes-proton-flux</a
               >
             </div>
+          </section>
+        </section>
+        <section id="46682518">
+          <h3>
+            <a class="item" href="https://jon.bo/posts/nano-texture/"
+              >Notes on Apple's Nano Texture (2025)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-19 @ 18:15:48</span
+              ><span class="points-container"
+                >Points: <span class="points">248</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46682518"
+                  >Comments</a
+                ><span class="descendants">: 128</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="46681611">
@@ -674,11 +611,11 @@
             <h4>
               <span>2026-01-19 @ 07:57:04</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">245</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46676081"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 154</span></span
               >
             </h4>
           </section>
@@ -717,11 +654,11 @@
             <h4>
               <span>2026-01-17 @ 14:00:11</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46658116"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -737,7 +674,7 @@
             <h4>
               <span>2026-01-16 @ 21:37:51</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46652569"
                   >Comments</a
@@ -803,11 +740,11 @@
             <h4>
               <span>2026-01-14 @ 16:52:34</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46618472"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
             <div class="text">
