@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 19:34:48](https://news.ycombinator.com/item?id=46696699) - [OpenAI is rolling out age prediction](https://openai.com/index/our-approach-to-age-prediction/)
+* [2026-01-20, 19:06:56](https://news.ycombinator.com/item?id=46696357) - [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
+* [2026-01-20, 19:06:03](https://news.ycombinator.com/item?id=46696347) - [Much of the World Facing 'Water Bankruptcy,' U.N. Report Warns](https://e360.yale.edu/digest/water-bankruptcy-report)
+* [2026-01-20, 18:41:04](https://news.ycombinator.com/item?id=46695986) - [Immigration Agencies Are Openly Defying Federal Courts](https://lpeproject.org/blog/immigration-agencies-are-openly-defying-federal-courts/)
 * [2026-01-20, 18:31:49](https://news.ycombinator.com/item?id=46695855) - [How Hightouch built their long-running agent harness](https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-running-agent-harness)
 * [2026-01-20, 18:24:35](https://news.ycombinator.com/item?id=46695747) - [Google co-founder reveals that \"many\" of the new hires do not have a degree](https://www.yahoo.com/news/articles/google-cofounder-reveals-tons-recent-231500103.html)
 * [2026-01-20, 18:19:12](https://news.ycombinator.com/item?id=46695673) - [Everyone's a Gangster, Till You Get Bundled in G-Suite](https://twitter.com/keropillay/status/2013454666244481244)
@@ -12,6 +16,7 @@
 * [2026-01-20, 17:40:49](https://news.ycombinator.com/item?id=46695061) - ['This is sell America' – US dollar tumbles as globe flees US assets](https://www.cnbc.com/2026/01/20/sell-america-trade-dollar-treasury-gold-us-trump-greenland.html)
 * [2026-01-20, 17:02:25](https://news.ycombinator.com/item?id=46694378) - [Meta's Legal Team Abandoned Its Ethical Duties](https://www.afterbabel.com/p/how-metas-lawyers-perfected-the-playbook)
 * [2026-01-20, 16:48:59](https://news.ycombinator.com/item?id=46694124) - [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
+* [2026-01-20, 16:38:56](https://news.ycombinator.com/item?id=46693959) - [Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs](https://github.com/mastra-ai/mastra)
 * [2026-01-20, 16:31:51](https://news.ycombinator.com/item?id=46693828) - [The Startup Graveyard](https://www.loot-drop.io/)
 * [2026-01-20, 16:03:21](https://news.ycombinator.com/item?id=46693346) - [De-dollarization: Is the US dollar losing its dominance?](https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization)
 * [2026-01-20, 15:56:07](https://news.ycombinator.com/item?id=46693205) - [Nvidia Stock Crash Prediction](https://entropicthoughts.com/nvidia-stock-crash-prediction)
