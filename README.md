@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-20, 20:23:55](https://news.ycombinator.com/item?id=46697287) - [A scammer's blueprint: How cybercriminals plot to rob a target in a week](https://www.reuters.com/graphics/SOUTHEASTASIA-SCAMS/MANUALS/klpyjlqelvg/)
 * [2026-01-20, 19:32:49](https://news.ycombinator.com/item?id=46696683) - [The secret medieval tunnels that we still don't understand](https://weirdmedievalguys.substack.com/p/the-secret-medieval-tunnels-that)
 * [2026-01-20, 19:06:56](https://news.ycombinator.com/item?id=46696357) - [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
 * [2026-01-20, 19:03:25](https://news.ycombinator.com/item?id=46696300) - [Without benchmarking LLMs, you're likely overpaying 5-10x](https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying)
@@ -26,7 +27,6 @@
 * [2026-01-19, 07:57:04](https://news.ycombinator.com/item?id=46676081) - [The coming industrialisation of exploit generation with LLMs](https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/)
 * [2026-01-18, 18:20:25](https://news.ycombinator.com/item?id=46670524) - [Prediction markets are ushering in a world in which news becomes about gambling](https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/)
 * [2026-01-16, 21:37:51](https://news.ycombinator.com/item?id=46652569) - [Fast Concordance: Instant concordance on a corpus of >1,200 books](https://iafisher.com/concordance/)
-* [2026-01-16, 14:48:06](https://news.ycombinator.com/item?id=46646870) - [Benchmarking a Baseline Fully-in-Place Functional Language Compiler [pdf]](https://trendsfp.github.io/papers/tfp26-paper-12.pdf)
 * [2026-01-15, 23:56:26](https://news.ycombinator.com/item?id=46641216) - [The Alignment Game (2023)](https://dmvaldman.github.io/alignment-game/)
 * [2026-01-15, 07:49:09](https://news.ycombinator.com/item?id=46629399) - [Increasing the performance of WebAssembly Text Format parser by 350%](https://blog.gplane.win/posts/improve-wat-parser-perf.html)
 * [2026-01-14, 16:52:34](https://news.ycombinator.com/item?id=46618472) - [Show HN: wxpath – Declarative web crawling in XPath](https://github.com/rodricios/wxpath)
