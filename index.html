@@ -129,6 +129,65 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46692284">
+          <h3>
+            <a
+              class="item"
+              href="https://medium.com/@wob/vibe-coding-is-a-hobby-let-me-explain-a54949c3b455"
+              >Vibe coding is a hobby. Let me explain</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-20 @ 14:41:44</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46692284"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46692087">
+          <h3>
+            <a
+              class="item"
+              href="https://www.foxnews.com/us/minneapolis-software-engineers-mistaken-ice-agents-eating-lunch-harassed-anti-ice-crowd"
+              >Minneapolis software engineers mistaken for ICE agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-20 @ 14:21:03</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46691835">
+          <h3>
+            <a
+              class="item"
+              href="https://www.potaroo.net/ispcol/2026-01/addr2025.html"
+              >IP Addresses Through 2025</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-20 @ 13:51:03</span
+              ><span class="points-container"
+                >Points: <span class="points">56</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46691835"
+                  >Comments</a
+                ><span class="descendants">: 16</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46691660">
           <h3>
             <a
@@ -141,11 +200,11 @@
             <h4>
               <span>2026-01-20 @ 13:34:16</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46691660"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -161,13 +220,80 @@
             <h4>
               <span>2026-01-20 @ 13:10:08</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46691454"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46691243">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=46691243"
+              >Ask HN: Do you have any evidence that agentic coding works?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-20 @ 12:45:57</span
+              ><span class="points-container"
+                >Points: <span class="points">48</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46691243"
+                  >Comments</a
+                ><span class="descendants">: 35</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Is there real evidence, beyond hype, that agentic coding
+                produces net-positive results? If any of you have actually got
+                it to work, could you share (in detail) how you did it?
+              </p>
+              <p>
+                By "getting it to work" I mean: * creating more value than
+                technical debt, and * producing code that’s structurally sound
+                enough for someone responsible for the architecture to sign off
+                on.
+              </p>
+              <p>
+                Lately I’ve seen a push toward minimal or nonexistent code
+                review, with the claim that we should move from “validating
+                architecture” to “validating behavior.” In practice, this seems
+                to mean: don’t look at the code; if tests and CI pass, ship it.
+                I can’t see how this holds up long-term. My expectation is that
+                you end up with "spaghetti" code that works on the happy path
+                but accumulates subtle, hard-to-debug failures over time.
+              </p>
+              <p>
+                When I tried using Codex on my existing codebases, with or
+                without guardrails, half of my time went into fixing the subtle
+                mistakes it made or the duplication it introduced.
+              </p>
+              <p>
+                Last weekend I tried building an iOS app for pet feeding
+                reminders from scratch. I instructed Codex to research and
+                propose an architectural blueprint for SwiftUI first. Then, I
+                worked with it to write a spec describing what should be
+                implemented and how.
+              </p>
+              <p>
+                The first implementation pass was surprisingly good, although it
+                had a number of bugs. Things went downhill fast, however. I
+                spent the rest of my weekend getting Codex to make things work,
+                fix bugs without introducing new ones, and research best
+                practices instead of making stuff up. Although I made it record
+                new guidelines and guardrails as I found them, things didn't
+                improve. In the end I just gave up.
+              </p>
+              <p>
+                I personally can't accept shipping unreviewed code. It feels
+                wrong. The product has to work, but the code must also be
+                high-quality.
+              </p>
+            </div>
           </section>
         </section>
         <section id="46690920">
@@ -199,11 +325,11 @@
             <h4>
               <span>2026-01-20 @ 11:58:34</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46690907"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 108</span></span
               >
             </h4>
           </section>
@@ -218,11 +344,11 @@
             <h4>
               <span>2026-01-20 @ 11:06:54</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46690530"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
             <div class="text">g(old)</div>
@@ -240,33 +366,11 @@
             <h4>
               <span>2026-01-20 @ 10:47:25</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">172</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46690402"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46690295">
-          <h3>
-            <a
-              class="item"
-              href="https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/"
-              >String theory can now describe a universe that has dark
-              energy?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-20 @ 10:30:46</span
-              ><span class="points-container"
-                >Points: <span class="points">50</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46690295"
-                  >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -281,11 +385,11 @@
             <h4>
               <span>2026-01-20 @ 07:51:12</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46689065"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -302,11 +406,11 @@
             <h4>
               <span>2026-01-20 @ 07:35:09</span
               ><span class="points-container"
-                >Points: <span class="points">404</span></span
+                >Points: <span class="points">421</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46688971"
                   >Comments</a
-                ><span class="descendants">: 217</span></span
+                ><span class="descendants">: 228</span></span
               >
             </h4>
           </section>
@@ -323,11 +427,11 @@
             <h4>
               <span>2026-01-20 @ 07:32:58</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46688954"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 127</span></span
               >
             </h4>
           </section>
@@ -344,52 +448,11 @@
             <h4>
               <span>2026-01-20 @ 03:47:21</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46687705"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46686655">
-          <h3>
-            <a class="item" href="https://lemdro.id/post/lemdro.id/35049920"
-              >Nova Launcher added Facebook and Google Ads tracking</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-20 @ 01:03:52</span
-              ><span class="points-container"
-                >Points: <span class="points">320</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46686655"
-                  >Comments</a
-                ><span class="descendants">: 157</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46686640">
-          <h3>
-            <a
-              class="item"
-              href="https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html"
-              >Porsche sold more electrified cars in Europe in 2025 than pure
-              gas-powered cars</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-20 @ 01:01:36</span
-              ><span class="points-container"
-                >Points: <span class="points">381</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46686640"
-                  >Comments</a
-                ><span class="descendants">: 526</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -406,11 +469,11 @@
             <h4>
               <span>2026-01-20 @ 00:23:01</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46686418"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
             <div class="text">
@@ -432,11 +495,11 @@
             <h4>
               <span>2026-01-19 @ 23:59:54</span
               ><span class="points-container"
-                >Points: <span class="points">266</span></span
+                >Points: <span class="points">275</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46686273"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -453,11 +516,11 @@
             <h4>
               <span>2026-01-19 @ 23:39:57</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46686131"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -473,11 +536,11 @@
             <h4>
               <span>2026-01-19 @ 21:48:07</span
               ><span class="points-container"
-                >Points: <span class="points">186</span></span
+                >Points: <span class="points">193</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46684958"
                   >Comments</a
-                ><span class="descendants">: 140</span></span
+                ><span class="descendants">: 147</span></span
               >
             </h4>
           </section>
@@ -494,11 +557,11 @@
             <h4>
               <span>2026-01-19 @ 21:35:31</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46684815"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -515,11 +578,11 @@
             <h4>
               <span>2026-01-19 @ 20:26:19</span
               ><span class="points-container"
-                >Points: <span class="points">514</span></span
+                >Points: <span class="points">527</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46684056"
                   >Comments</a
-                ><span class="descendants">: 172</span></span
+                ><span class="descendants">: 174</span></span
               >
             </h4>
             <div class="text">
@@ -539,11 +602,11 @@
             <h4>
               <span>2026-01-19 @ 18:15:48</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">218</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46682518"
                   >Comments</a
-                ><span class="descendants">: 114</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
@@ -560,11 +623,11 @@
             <h4>
               <span>2026-01-19 @ 17:13:59</span
               ><span class="points-container"
-                >Points: <span class="points">402</span></span
+                >Points: <span class="points">406</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46681611"
                   >Comments</a
-                ><span class="descendants">: 141</span></span
+                ><span class="descendants">: 142</span></span
               >
             </h4>
           </section>
@@ -582,32 +645,11 @@
             <h4>
               <span>2026-01-19 @ 16:36:11</span
               ><span class="points-container"
-                >Points: <span class="points">475</span></span
+                >Points: <span class="points">491</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46680974"
                   >Comments</a
-                ><span class="descendants">: 386</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46680515">
-          <h3>
-            <a
-              class="item"
-              href="https://www.jbecker.dev/research/prediction-market-microstructure"
-              >The microstructure of wealth transfer in prediction markets</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-19 @ 16:05:50</span
-              ><span class="points-container"
-                >Points: <span class="points">192</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46680515"
-                  >Comments</a
-                ><span class="descendants">: 164</span></span
+                ><span class="descendants">: 395</span></span
               >
             </h4>
           </section>
@@ -624,11 +666,11 @@
             <h4>
               <span>2026-01-19 @ 07:57:04</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46676081"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -646,11 +688,11 @@
             <h4>
               <span>2026-01-18 @ 18:20:25</span
               ><span class="points-container"
-                >Points: <span class="points">357</span></span
+                >Points: <span class="points">367</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46670524"
                   >Comments</a
-                ><span class="descendants">: 355</span></span
+                ><span class="descendants">: 365</span></span
               >
             </h4>
           </section>
@@ -672,7 +714,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46646870"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -690,11 +732,11 @@
             <h4>
               <span>2026-01-16 @ 02:53:21</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46642458"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 112</span></span
               >
             </h4>
           </section>
@@ -732,11 +774,11 @@
             <h4>
               <span>2026-01-15 @ 07:49:09</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46629399"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -753,11 +795,11 @@
             <h4>
               <span>2026-01-14 @ 20:00:23</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46622090"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
