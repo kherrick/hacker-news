@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-01-20, 19:03:25",
+      "https://news.ycombinator.com/item?id=46696300"
+    ],
+    [
+      "Without benchmarking LLMs, you're likely overpaying 5-10x",
+      "https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 19:01:30",
       "https://news.ycombinator.com/item?id=46696276"
     ],
@@ -187,16 +197,6 @@
     [
       "Reticulum, a secure and anonymous mesh networking stack",
       "https://github.com/markqvist/Reticulum"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 21:48:07",
-      "https://news.ycombinator.com/item?id=46684958"
-    ],
-    [
-      "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
-      "https://github.com/jordanhubbard/nanolang"
     ]
   ],
   [
