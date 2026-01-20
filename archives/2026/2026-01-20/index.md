@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
 * [2026-01-20, 03:26:25](https://news.ycombinator.com/item?id=46687588) - [F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE](https://webchrono.pl/F16FalconStrike/index.html)
+* [2026-01-20, 03:14:47](https://news.ycombinator.com/item?id=46687504) - [Show HN: Artificial Ivy in the Browser](https://da.nmcardle.com/grow)
 * [2026-01-20, 01:58:22](https://news.ycombinator.com/item?id=46686972) - [Go 1.26 Interactive Tour](https://antonz.org/go-1-26/)
 * [2026-01-20, 01:21:35](https://news.ycombinator.com/item?id=46686745) - [Legal Structures for Latin American Startups (2021)](https://latamlist.com/legal-structures-for-latin-american-startups/)
 * [2026-01-20, 01:03:52](https://news.ycombinator.com/item?id=46686655) - [Nova Launcher Added Facebook and Google Ads Tracking](https://lemdro.id/post/lemdro.id/35049920)

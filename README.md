@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-20, 03:26:25](https://news.ycombinator.com/item?id=46687588) - [F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE](https://webchrono.pl/F16FalconStrike/index.html)
+* [2026-01-20, 03:14:47](https://news.ycombinator.com/item?id=46687504) - [Show HN: Artificial Ivy in the Browser](https://da.nmcardle.com/grow)
 * [2026-01-20, 01:58:22](https://news.ycombinator.com/item?id=46686972) - [Go 1.26 Interactive Tour](https://antonz.org/go-1-26/)
 * [2026-01-20, 01:21:35](https://news.ycombinator.com/item?id=46686745) - [Legal Structures for Latin American Startups (2021)](https://latamlist.com/legal-structures-for-latin-american-startups/)
 * [2026-01-20, 01:03:52](https://news.ycombinator.com/item?id=46686655) - [Nova Launcher Added Facebook and Google Ads Tracking](https://lemdro.id/post/lemdro.id/35049920)
@@ -17,7 +18,6 @@
 * [2026-01-19, 18:15:48](https://news.ycombinator.com/item?id=46682518) - [Notes on Apple's Nano Texture (2025)](https://jon.bo/posts/nano-texture/)
 * [2026-01-19, 17:47:38](https://news.ycombinator.com/item?id=46682115) - [Show HN: An interactive physics simulator with 1000’s of balls, in your terminal](https://github.com/minimaxir/ballin)
 * [2026-01-19, 17:13:59](https://news.ycombinator.com/item?id=46681611) - [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/)
-* [2026-01-19, 16:10:28](https://news.ycombinator.com/item?id=46680597) - [Show HN: Pipenet – A Modern Alternative to Localtunnel](https://pipenet.dev/)
 * [2026-01-19, 15:15:41](https://news.ycombinator.com/item?id=46679907) - [CSS Web Components for marketing sites (2024)](https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/)
 * [2026-01-19, 07:57:04](https://news.ycombinator.com/item?id=46676081) - [The coming industrialisation of exploit generation with LLMs](https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/)
 * [2026-01-19, 02:29:25](https://news.ycombinator.com/item?id=46674433) - [San Francisco coyote swims to Alcatraz](https://www.sfgate.com/local/article/san-francisco-coyote-alcatraz-21302218.php)
