@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-01-20, 03:26:25",
+      "https://news.ycombinator.com/item?id=46687588"
+    ],
+    [
+      "F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE",
+      "https://webchrono.pl/F16FalconStrike/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 01:58:22",
+      "https://news.ycombinator.com/item?id=46686972"
+    ],
+    [
+      "Go 1.26 Interactive Tour",
+      "https://antonz.org/go-1-26/"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 01:21:35",
+      "https://news.ycombinator.com/item?id=46686745"
+    ],
+    [
+      "Legal Structures for Latin American Startups (2021)",
+      "https://latamlist.com/legal-structures-for-latin-american-startups/"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 01:03:52",
+      "https://news.ycombinator.com/item?id=46686655"
+    ],
+    [
+      "Nova Launcher Added Facebook and Google Ads Tracking",
+      "https://lemdro.id/post/lemdro.id/35049920"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 01:01:36",
       "https://news.ycombinator.com/item?id=46686640"
     ],
     [
       "Porsche Sold More Electrified Cars in Europe in 2025 Than Pure Gas-Powered Cars",
       "https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 00:23:01",
+      "https://news.ycombinator.com/item?id=46686418"
+    ],
+    [
+      "Scaling long-running autonomous coding",
+      "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/"
     ]
   ],
   [
@@ -71,26 +121,6 @@
   ],
   [
     [
-      "2026-01-19, 20:11:25",
-      "https://news.ycombinator.com/item?id=46683858"
-    ],
-    [
-      "Show HN: A creative coding library for making art with desktop windows",
-      "https://github.com/willmeyers/window-art"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 20:09:04",
-      "https://news.ycombinator.com/item?id=46683833"
-    ],
-    [
-      "There's a hidden Android setting that spots fake cell towers",
-      "https://www.howtogeek.com/theres-a-hidden-android-setting-that-spots-fake-cell-towers/"
-    ]
-  ],
-  [
-    [
       "2026-01-19, 19:53:38",
       "https://news.ycombinator.com/item?id=46683645"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-01-19, 17:03:38",
-      "https://news.ycombinator.com/item?id=46681454"
-    ],
-    [
-      "Fix your robots.txt or your site disappears from Google",
-      "https://www.alanwsmith.com/en/37/wa/jz/s1/"
-    ]
-  ],
-  [
-    [
       "2026-01-19, 16:10:28",
       "https://news.ycombinator.com/item?id=46680597"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-01-19, 05:11:24",
-      "https://news.ycombinator.com/item?id=46675271"
-    ],
-    [
-      "Bypassing Gemma and Qwen safety with raw strings",
-      "https://teendifferent.substack.com/p/apply_chat_template-is-the-safety"
-    ]
-  ],
-  [
-    [
       "2026-01-19, 02:29:25",
       "https://news.ycombinator.com/item?id=46674433"
     ],
@@ -207,6 +217,16 @@
     [
       "Graphics In Flatland – 2D ray tracing [video]",
       "https://www.youtube.com/watch?v=WYTOykSqf2Y"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 09:23:08",
+      "https://news.ycombinator.com/item?id=46644640"
+    ],
+    [
+      "Opening the AWS European Sovereign Cloud",
+      "https://aws.amazon.com/blogs/aws/opening-the-aws-european-sovereign-cloud/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2026-01-15, 13:27:09",
-      "https://news.ycombinator.com/item?id=46632184"
-    ],
-    [
-      "Iterative image reconstruction using random cubic bézier strokes",
-      "https://tangled.org/luthenwald.tngl.sh/splined"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 13:23:33",
       "https://news.ycombinator.com/item?id=46632120"
     ],
@@ -287,16 +297,6 @@
     [
       "Upgrading DrizzleORM logging with AsyncLocalStorage",
       "https://numeric.substack.com/p/upgrading-drizzleorm-logging-with"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 16:20:24",
-      "https://news.ycombinator.com/item?id=46617938"
-    ],
-    [
-      "Radicle 1.6.0 – Amaryllis",
-      "https://radicle.xyz/2026/01/14/radicle-1.6.0"
     ]
   ]
 ]
