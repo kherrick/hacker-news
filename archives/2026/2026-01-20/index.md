@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 22:43:03](https://news.ycombinator.com/item?id=46698687) - [Steam \"Offline\" status leaks exact login timestamps (Valve: Won't Fix)](https://xmrcat.org/steam-invisibility-bypass)
 * [2026-01-20, 22:39:26](https://news.ycombinator.com/item?id=46698660) - [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)
+* [2026-01-20, 22:36:23](https://news.ycombinator.com/item?id=46698623) - [Lunar Radio Telescope to Unlock Cosmic Mysteries](https://spectrum.ieee.org/lunar-radio-telescope)
 * [2026-01-20, 22:27:11](https://news.ycombinator.com/item?id=46698539) - [Driver killed and several injured after second train derails near Barcelona](https://www.bbc.com/news/articles/c1m78xl0gmpo)
 * [2026-01-20, 22:18:53](https://news.ycombinator.com/item?id=46698469) - [Provably Unmasking Malicious Behavior Through Execution Traces](https://arxiv.org/abs/2512.13821)
+* [2026-01-20, 22:09:49](https://news.ycombinator.com/item?id=46698370) - [Which AI Lies Best? LLMs play a 1950s betrayal game by John Nash](https://so-long-sucker.vercel.app/)
 * [2026-01-20, 21:36:34](https://news.ycombinator.com/item?id=46698061) - [The challenges of soft delete](https://atlas9.dev/blog/soft-delete.html)
 * [2026-01-20, 21:34:06](https://news.ycombinator.com/item?id=46698038) - [Inside the secret world of Japanese snack bars](https://www.bbc.com/travel/article/20260116-inside-the-secret-world-of-japanese-snack-bars)
 * [2026-01-20, 21:22:19](https://news.ycombinator.com/item?id=46697908) - [Show HN: Agent Skills Leaderboard](https://skills.sh)
@@ -66,6 +69,7 @@
 * [2026-01-20, 05:27:12](https://news.ycombinator.com/item?id=46688229) - [Becoming a Whorelord: The Overly Analytical Guide to Escorting (2021)](https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/)
 * [2026-01-20, 05:16:14](https://news.ycombinator.com/item?id=46688173) - [X For You Feed Algorithm](https://github.com/xai-org/x-algorithm)
 * [2026-01-20, 05:08:57](https://news.ycombinator.com/item?id=46688122) - [Chatbot Psychosis](https://en.wikipedia.org/wiki/Chatbot_psychosis)
+* [2026-01-20, 04:14:12](https://news.ycombinator.com/item?id=46687841) - [RCS for Business](https://developers.google.com/business-communications/rcs-business-messaging)
 * [2026-01-20, 03:47:21](https://news.ycombinator.com/item?id=46687705) - [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html)
 * [2026-01-20, 03:26:25](https://news.ycombinator.com/item?id=46687588) - [F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE](https://webchrono.pl/F16FalconStrike/index.html)
 * [2026-01-20, 03:14:47](https://news.ycombinator.com/item?id=46687504) - [Show HN: Artificial Ivy in the Browser](https://da.nmcardle.com/grow)
