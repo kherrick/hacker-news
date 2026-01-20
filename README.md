@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-20, 10:35:47](https://news.ycombinator.com/item?id=46690330) - [UK consulting on bringing in social media ban for under 16s](https://www.bbc.com/news/articles/cgm4xpyxp7lo)
 * [2026-01-20, 07:51:12](https://news.ycombinator.com/item?id=46689065) - [Linux kernel framework for PCIe device emulation, in userspace](https://github.com/cakehonolulu/pciem)
 * [2026-01-20, 07:35:09](https://news.ycombinator.com/item?id=46688971) - [The Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
 * [2026-01-20, 07:32:58](https://news.ycombinator.com/item?id=46688954) - [Giving university exams in the age of chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
@@ -18,7 +19,6 @@
 * [2026-01-19, 17:13:59](https://news.ycombinator.com/item?id=46681611) - [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/)
 * [2026-01-19, 16:36:11](https://news.ycombinator.com/item?id=46680974) - [Apple testing new App Store design that blurs the line between ads and results](https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/)
 * [2026-01-19, 16:05:50](https://news.ycombinator.com/item?id=46680515) - [The microstructure of wealth transfer in prediction markets](https://www.jbecker.dev/research/prediction-market-microstructure)
-* [2026-01-19, 09:00:14](https://news.ycombinator.com/item?id=46676554) - [I was a top 0.01% Cursor user, then switched to Claude Code 2.0](https://blog.silennai.com/claude-code)
 * [2026-01-19, 07:57:04](https://news.ycombinator.com/item?id=46676081) - [The coming industrialisation of exploit generation with LLMs](https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/)
 * [2026-01-18, 18:20:25](https://news.ycombinator.com/item?id=46670524) - [Prediction markets are ushering in a world in which news becomes about gambling](https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/)
 * [2026-01-17, 21:39:35](https://news.ycombinator.com/item?id=46662390) - [Show HN: E80: an 8-bit CPU in structural VHDL](https://github.com/Stokpan/E80)
