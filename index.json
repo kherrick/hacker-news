@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-01-20, 07:51:12",
+      "https://news.ycombinator.com/item?id=46689065"
+    ],
+    [
+      "Linux kernel framework for PCIe device emulation, in userspace",
+      "https://github.com/cakehonolulu/pciem"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 07:35:09",
       "https://news.ycombinator.com/item?id=46688971"
     ],
@@ -37,16 +47,6 @@
     [
       "Giving University Exams in the Age of Chatbots",
       "https://ploum.net/2026-01-19-exam-with-chatbots.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 05:27:12",
-      "https://news.ycombinator.com/item?id=46688229"
-    ],
-    [
-      "Becoming a Whorelord: The Overly Analytical Guide to Escorting (2021)",
-      "https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-01-16, 08:00:07",
-      "https://news.ycombinator.com/item?id=46644173"
-    ],
-    [
-      "How we made Python's packaging library 3x faster",
-      "https://iscinumpy.dev/post/packaging-faster/"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 02:53:21",
       "https://news.ycombinator.com/item?id=46642458"
     ],
@@ -287,6 +277,16 @@
     [
       "Kahan on the 8087 and designing Intel's floating point (2016) [video]",
       "https://www.youtube.com/watch?v=L-QVgbdt_qg"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 07:49:09",
+      "https://news.ycombinator.com/item?id=46629399"
+    ],
+    [
+      "Increasing the performance of WebAssembly Text Format parser by 350%",
+      "https://blog.gplane.win/posts/improve-wat-parser-perf.html"
     ]
   ],
   [
