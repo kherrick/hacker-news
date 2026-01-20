@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-20, 14:17:37",
+      "https://news.ycombinator.com/item?id=46692052"
+    ],
+    [
+      "Europe could 'weaponize' $10T of US assets over Greenland",
+      "https://www.bloomberg.com/news/articles/2026-01-19/-weaponizing-10-trillion-of-us-assets-is-tough-ask-for-europe"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 13:51:03",
       "https://news.ycombinator.com/item?id=46691835"
     ],
@@ -37,16 +47,6 @@
     [
       "Show HN: Ocrbase – pdf → .md/.json document OCR and structured extraction API",
       "https://github.com/majcheradam/ocrbase"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 12:45:57",
-      "https://news.ycombinator.com/item?id=46691243"
-    ],
-    [
-      "Ask HN: Do you have any evidence that agentic coding works?",
-      "https://news.ycombinator.com/item?id=46691243"
     ]
   ],
   [
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2026-01-20, 10:02:17",
+      "https://news.ycombinator.com/item?id=46690092"
+    ],
+    [
+      "Kiss Launcher – fast launcher for Android",
+      "https://kisslauncher.com/"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 07:51:12",
       "https://news.ycombinator.com/item?id=46689065"
     ],
@@ -127,6 +137,16 @@
     [
       "x86 prefixes and escape opcodes flowchart",
       "https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 01:01:36",
+      "https://news.ycombinator.com/item?id=46686640"
+    ],
+    [
+      "Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars",
+      "https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-01-15, 10:43:34",
-      "https://news.ycombinator.com/item?id=46630718"
-    ],
-    [
-      "Kahan on the 8087 and designing Intel's floating point (2016) [video]",
-      "https://www.youtube.com/watch?v=L-QVgbdt_qg"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 07:49:09",
       "https://news.ycombinator.com/item?id=46629399"
     ],
     [
       "Increasing the performance of WebAssembly Text Format parser by 350%",
       "https://blog.gplane.win/posts/improve-wat-parser-perf.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 20:00:23",
-      "https://news.ycombinator.com/item?id=46622090"
-    ],
-    [
-      "Understanding ZFS Scrubs and Data Integrity",
-      "https://klarasystems.com/articles/understanding-zfs-scrubs-and-data-integrity/"
     ]
   ]
 ]
