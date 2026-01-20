@@ -11,7 +11,6 @@
 * [2026-01-19, 23:59:54](https://news.ycombinator.com/item?id=46686273) - [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
 * [2026-01-19, 23:39:57](https://news.ycombinator.com/item?id=46686131) - [3D printing my laptop ergonomic setup](https://www.ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/)
 * [2026-01-19, 21:48:07](https://news.ycombinator.com/item?id=46684958) - [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
-* [2026-01-19, 21:39:44](https://news.ycombinator.com/item?id=46684862) - [Use Social Media Mindfully](https://danielleheberling.xyz/blog/mindful-social-media/)
 * [2026-01-19, 21:35:31](https://news.ycombinator.com/item?id=46684815) - [Targeted Bets: An alternative approach to the job hunt](https://www.seanmuirhead.com/blog/targeted-bets)
 * [2026-01-19, 21:25:16](https://news.ycombinator.com/item?id=46684708) - [The assistant axis: situating and stabilizing the character of LLMs](https://www.anthropic.com/research/assistant-axis)
 * [2026-01-19, 20:26:19](https://news.ycombinator.com/item?id=46684056) - [Level S4 solar radiation event](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026)
@@ -28,6 +27,7 @@
 * [2026-01-16, 02:53:21](https://news.ycombinator.com/item?id=46642458) - [British redcoat's lost memoir reveals realities of life as a disabled veteran](https://phys.org/news/2026-01-british-redcoat-lost-memoir-reveals.html)
 * [2026-01-15, 23:36:40](https://news.ycombinator.com/item?id=46641036) - [From Nevada to Kansas by Glider](https://www.weglide.org/flight/978820)
 * [2026-01-15, 18:51:34](https://news.ycombinator.com/item?id=46637283) - [Show HN: Munimet.ro – ML-based status page for the local subways in SF](https://munimet.ro/)
+* [2026-01-15, 16:55:16](https://news.ycombinator.com/item?id=46635453) - [Selling SaaS in Japan](https://embedworkflow.com/blog/what-saas-founders-should-know-about-entering-the-japanese-market/)
 * [2026-01-15, 10:43:34](https://news.ycombinator.com/item?id=46630718) - [Kahan on the 8087 and designing Intel's floating point (2016) [video]](https://www.youtube.com/watch?v=L-QVgbdt_qg)
 * [2026-01-14, 20:00:23](https://news.ycombinator.com/item?id=46622090) - [Understanding ZFS Scrubs and Data Integrity](https://klarasystems.com/articles/understanding-zfs-scrubs-and-data-integrity/)
 
