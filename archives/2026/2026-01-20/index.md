@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 08:16:07](https://news.ycombinator.com/item?id=46689204) - [Kraków, Poland in top 5 worst air quality worldwide](https://www.iqair.com/world-air-quality-ranking)
+* [2026-01-20, 08:05:39](https://news.ycombinator.com/item?id=46689143) - [America Is Slow-Walking into a Polymarket Disaster](https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/)
+* [2026-01-20, 07:35:09](https://news.ycombinator.com/item?id=46688971) - [The Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
+* [2026-01-20, 07:32:58](https://news.ycombinator.com/item?id=46688954) - [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
 * [2026-01-20, 05:27:12](https://news.ycombinator.com/item?id=46688229) - [Becoming a Whorelord: The Overly Analytical Guide to Escorting (2021)](https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/)
 * [2026-01-20, 05:16:14](https://news.ycombinator.com/item?id=46688173) - [X For You Feed Algorithm](https://github.com/xai-org/x-algorithm)
 * [2026-01-20, 05:08:57](https://news.ycombinator.com/item?id=46688122) - [Chatbot Psychosis](https://en.wikipedia.org/wiki/Chatbot_psychosis)
