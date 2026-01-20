@@ -2,9 +2,9 @@
 
 * [2026-01-20, 08:16:07](https://news.ycombinator.com/item?id=46689204) - [Kraków, Poland in top 5 worst air quality worldwide](https://www.iqair.com/world-air-quality-ranking)
 * [2026-01-20, 08:05:39](https://news.ycombinator.com/item?id=46689143) - [America Is Slow-Walking into a Polymarket Disaster](https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/)
+* [2026-01-20, 07:51:12](https://news.ycombinator.com/item?id=46689065) - [Linux kernel framework for PCIe device emulation, in userspace](https://github.com/cakehonolulu/pciem)
 * [2026-01-20, 07:35:09](https://news.ycombinator.com/item?id=46688971) - [The Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
 * [2026-01-20, 07:32:58](https://news.ycombinator.com/item?id=46688954) - [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
-* [2026-01-20, 05:27:12](https://news.ycombinator.com/item?id=46688229) - [Becoming a Whorelord: The Overly Analytical Guide to Escorting (2021)](https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/)
 * [2026-01-20, 03:47:21](https://news.ycombinator.com/item?id=46687705) - [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html)
 * [2026-01-20, 03:14:47](https://news.ycombinator.com/item?id=46687504) - [Show HN: Artificial Ivy in the Browser](https://da.nmcardle.com/grow)
 * [2026-01-20, 01:21:35](https://news.ycombinator.com/item?id=46686745) - [Legal Structures for Latin American Startups (2021)](https://latamlist.com/legal-structures-for-latin-american-startups/)
@@ -25,10 +25,10 @@
 * [2026-01-19, 07:57:04](https://news.ycombinator.com/item?id=46676081) - [The coming industrialisation of exploit generation with LLMs](https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/)
 * [2026-01-17, 21:39:35](https://news.ycombinator.com/item?id=46662390) - [Show HN: E80: an 8-bit CPU in structural VHDL](https://github.com/Stokpan/E80)
 * [2026-01-16, 13:33:17](https://news.ycombinator.com/item?id=46646173) - [Face as a QR Code](https://bookofjoe2.blogspot.com/2025/12/your-face-as-qr-code.html)
-* [2026-01-16, 08:00:07](https://news.ycombinator.com/item?id=46644173) - [How we made Python's packaging library 3x faster](https://iscinumpy.dev/post/packaging-faster/)
 * [2026-01-16, 02:53:21](https://news.ycombinator.com/item?id=46642458) - [British redcoat's lost memoir reveals realities of life as a disabled veteran](https://phys.org/news/2026-01-british-redcoat-lost-memoir-reveals.html)
 * [2026-01-15, 23:36:40](https://news.ycombinator.com/item?id=46641036) - [From Nevada to Kansas by Glider](https://www.weglide.org/flight/978820)
 * [2026-01-15, 10:43:34](https://news.ycombinator.com/item?id=46630718) - [Kahan on the 8087 and designing Intel's floating point (2016) [video]](https://www.youtube.com/watch?v=L-QVgbdt_qg)
+* [2026-01-15, 07:49:09](https://news.ycombinator.com/item?id=46629399) - [Increasing the performance of WebAssembly Text Format parser by 350%](https://blog.gplane.win/posts/improve-wat-parser-perf.html)
 * [2026-01-14, 20:00:23](https://news.ycombinator.com/item?id=46622090) - [Understanding ZFS Scrubs and Data Integrity](https://klarasystems.com/articles/understanding-zfs-scrubs-and-data-integrity/)
 
 ## [Archives](archives/index.md)

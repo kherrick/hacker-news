@@ -76,6 +76,7 @@
 * [2026-01-15, 08:23:02](https://news.ycombinator.com/item?id=46629682) - [Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 * [2026-01-15, 08:12:46](https://news.ycombinator.com/item?id=46629610) - [Have Taken Up Farming](https://dylan.gr/1768295794)
 * [2026-01-15, 07:58:23](https://news.ycombinator.com/item?id=46629474) - [A letter to those who fired tech writers because of AI](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+* [2026-01-15, 07:49:09](https://news.ycombinator.com/item?id=46629399) - [Increasing the performance of WebAssembly Text Format parser by 350%](https://blog.gplane.win/posts/improve-wat-parser-perf.html)
 * [2026-01-15, 07:36:15](https://news.ycombinator.com/item?id=46629295) - [Use of Bayesian methodology in clinical trials of drug and biological products [pdf]](https://www.fda.gov/media/190505/download)
 * [2026-01-15, 07:20:02](https://news.ycombinator.com/item?id=46629191) - [Show HN: MailPilot – Freedom to go anywhere while your agents work](https://news.ycombinator.com/item?id=46629191)
 * [2026-01-15, 05:23:18](https://news.ycombinator.com/item?id=46628397) - [Handy – free open source speech-to-text app](https://github.com/cjpais/Handy)
