@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-20, 17:40:49](https://news.ycombinator.com/item?id=46695061) - ['This is sell America' – US dollar tumbles as globe flees US assets](https://www.cnbc.com/2026/01/20/sell-america-trade-dollar-treasury-gold-us-trump-greenland.html)
 * [2026-01-20, 17:02:25](https://news.ycombinator.com/item?id=46694378) - [Meta's Legal Team Abandoned Its Ethical Duties](https://www.afterbabel.com/p/how-metas-lawyers-perfected-the-playbook)
 * [2026-01-20, 16:48:59](https://news.ycombinator.com/item?id=46694124) - [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [2026-01-20, 16:31:51](https://news.ycombinator.com/item?id=46693828) - [The Startup Graveyard](https://www.loot-drop.io/)
@@ -25,7 +26,6 @@
 * [2026-01-19, 16:36:11](https://news.ycombinator.com/item?id=46680974) - [Apple testing new App Store design that blurs the line between ads and results](https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/)
 * [2026-01-19, 07:57:04](https://news.ycombinator.com/item?id=46676081) - [The coming industrialisation of exploit generation with LLMs](https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/)
 * [2026-01-18, 18:20:25](https://news.ycombinator.com/item?id=46670524) - [Prediction markets are ushering in a world in which news becomes about gambling](https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/)
-* [2026-01-16, 19:08:38](https://news.ycombinator.com/item?id=46650682) - [Squishy Go](https://puyogo.app/en/)
 * [2026-01-16, 14:48:06](https://news.ycombinator.com/item?id=46646870) - [Benchmarking a Baseline Fully-in-Place Functional Language Compiler [pdf]](https://trendsfp.github.io/papers/tfp26-paper-12.pdf)
 * [2026-01-16, 13:33:24](https://news.ycombinator.com/item?id=46646174) - [A Pro Meticulously Restores a Damaged Oil Painting [video]](https://www.youtube.com/watch?v=uQbZIyo-SgM)
 * [2026-01-15, 21:50:55](https://news.ycombinator.com/item?id=46639843) - [Nuudel: Non-Tracking Appointment Tool](https://nuudel.digitalcourage.de/)

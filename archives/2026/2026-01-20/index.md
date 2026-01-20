@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 17:40:49](https://news.ycombinator.com/item?id=46695061) - ['This is sell America' – US dollar tumbles as globe flees US assets](https://www.cnbc.com/2026/01/20/sell-america-trade-dollar-treasury-gold-us-trump-greenland.html)
 * [2026-01-20, 17:02:25](https://news.ycombinator.com/item?id=46694378) - [Meta's Legal Team Abandoned Its Ethical Duties](https://www.afterbabel.com/p/how-metas-lawyers-perfected-the-playbook)
 * [2026-01-20, 16:48:59](https://news.ycombinator.com/item?id=46694124) - [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [2026-01-20, 16:31:51](https://news.ycombinator.com/item?id=46693828) - [The Startup Graveyard](https://www.loot-drop.io/)
