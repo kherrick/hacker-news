@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-20, 01:01:36",
+      "https://news.ycombinator.com/item?id=46686640"
+    ],
+    [
+      "Porsche Sold More Electrified Cars in Europe in 2025 Than Pure Gas-Powered Cars",
+      "https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 23:59:54",
+      "https://news.ycombinator.com/item?id=46686273"
+    ],
+    [
+      "Reticulum, a secure and anonymous mesh networking stack",
+      "https://github.com/markqvist/Reticulum"
+    ]
+  ],
+  [
+    [
       "2026-01-19, 21:48:07",
       "https://news.ycombinator.com/item?id=46684958"
     ],
@@ -17,16 +37,6 @@
     [
       "Use Social Media Mindfully",
       "https://danielleheberling.xyz/blog/mindful-social-media/"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 21:35:31",
-      "https://news.ycombinator.com/item?id=46684815"
-    ],
-    [
-      "Targeted Bets: An alternative approach to the job hunt",
-      "https://www.seanmuirhead.com/blog/targeted-bets"
     ]
   ],
   [
@@ -91,26 +101,6 @@
   ],
   [
     [
-      "2026-01-19, 19:17:52",
-      "https://news.ycombinator.com/item?id=46683205"
-    ],
-    [
-      "Letter from a Birmingham Jail (1963)",
-      "https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 18:34:52",
-      "https://news.ycombinator.com/item?id=46682732"
-    ],
-    [
-      "Show HN: Subth.ink – write something and see how many others wrote the same",
-      "https://subth.ink/"
-    ]
-  ],
-  [
-    [
       "2026-01-19, 18:17:07",
       "https://news.ycombinator.com/item?id=46682534"
     ],
@@ -131,21 +121,11 @@
   ],
   [
     [
-      "2026-01-19, 18:00:34",
-      "https://news.ycombinator.com/item?id=46682325"
-    ],
-    [
-      "A Brief History of Ralph",
-      "https://www.humanlayer.dev/blog/brief-history-of-ralph"
-    ]
-  ],
-  [
-    [
       "2026-01-19, 17:47:38",
       "https://news.ycombinator.com/item?id=46682115"
     ],
     [
-      "Show HN: An interactive physics simulator with 1000's of balls, in your terminal",
+      "Show HN: An interactive physics simulator with 1000’s of balls, in your terminal",
       "https://github.com/minimaxir/ballin"
     ]
   ],
@@ -187,16 +167,6 @@
     [
       "CSS Web Components for marketing sites (2024)",
       "https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 15:12:12",
-      "https://news.ycombinator.com/item?id=46679872"
-    ],
-    [
-      "GLM-4.7-Flash",
-      "https://huggingface.co/zai-org/GLM-4.7-Flash"
     ]
   ],
   [
@@ -255,7 +225,7 @@
       "https://news.ycombinator.com/item?id=46642458"
     ],
     [
-      "British redcoat's lost memoir reveals harsh realities of life as a disabled vet",
+      "British redcoat's lost memoir reveals realities of life as a disabled veteran",
       "https://phys.org/news/2026-01-british-redcoat-lost-memoir-reveals.html"
     ]
   ],
@@ -267,6 +237,16 @@
     [
       "From Nevada to Kansas by Glider",
       "https://www.weglide.org/flight/978820"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 16:55:16",
+      "https://news.ycombinator.com/item?id=46635453"
+    ],
+    [
+      "Selling SaaS in Japan",
+      "https://embedworkflow.com/blog/what-saas-founders-should-know-about-entering-the-japanese-market/"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Sending Data over Offline Finding Networks",
       "https://cc-sw.com/find-my-and-find-hub-network-research/"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 19:38:47",
+      "https://news.ycombinator.com/item?id=46621656"
+    ],
+    [
+      "Upgrading DrizzleORM logging with AsyncLocalStorage",
+      "https://numeric.substack.com/p/upgrading-drizzleorm-logging-with"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 16:20:24",
+      "https://news.ycombinator.com/item?id=46617938"
+    ],
+    [
+      "Radicle 1.6.0 – Amaryllis",
+      "https://radicle.xyz/2026/01/14/radicle-1.6.0"
     ]
   ]
 ]
