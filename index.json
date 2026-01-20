@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46698469"
     ],
     [
-      "Provably Unmasking Malicious Behavior Through Execution Traces",
+      "Provably unmasking malicious behavior through execution traces",
       "https://arxiv.org/abs/2512.13821"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46698370"
     ],
     [
-      "Which AI Lies Best? LLMs play a 1950s betrayal game by John Nash",
+      "Which AI Lies Best? A game theory classic designed by John Nash",
       "https://so-long-sucker.vercel.app/"
     ]
   ],
@@ -117,6 +117,16 @@
     [
       "A 26,000-year astronomical monument hidden in plain sight (2019)",
       "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 18:05:03",
+      "https://news.ycombinator.com/item?id=46695467"
+    ],
+    [
+      "Show HN: Fence – Sandbox CLI commands with network/filesystem restrictions",
+      "https://github.com/Use-Tusk/fence"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "I'm addicted to being useful",
       "https://www.seangoedecke.com/addicted-to-being-useful/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 07:51:12",
-      "https://news.ycombinator.com/item?id=46689065"
-    ],
-    [
-      "Linux kernel framework for PCIe device emulation, in userspace",
-      "https://github.com/cakehonolulu/pciem"
     ]
   ],
   [
