@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 16:48:59](https://news.ycombinator.com/item?id=46694124) - [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
+* [2026-01-20, 16:31:51](https://news.ycombinator.com/item?id=46693828) - [The Startup Graveyard](https://www.loot-drop.io/)
 * [2026-01-20, 16:03:21](https://news.ycombinator.com/item?id=46693346) - [De-dollarization: Is the US dollar losing its dominance?](https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization)
 * [2026-01-20, 15:56:07](https://news.ycombinator.com/item?id=46693205) - [Nvidia Stock Crash Prediction](https://entropicthoughts.com/nvidia-stock-crash-prediction)
 * [2026-01-20, 15:44:14](https://news.ycombinator.com/item?id=46693021) - [Claude Code is the ChatGPT moment repeated and awful news for software stocks](https://sherwood.news/markets/how-claude-code-is-the-chatgpt-moment-repeated-and-why-thats-awful-news-for/)

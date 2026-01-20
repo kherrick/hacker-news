@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-20, 16:48:59](https://news.ycombinator.com/item?id=46694124) - [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
+* [2026-01-20, 16:31:51](https://news.ycombinator.com/item?id=46693828) - [The Startup Graveyard](https://www.loot-drop.io/)
 * [2026-01-20, 16:03:21](https://news.ycombinator.com/item?id=46693346) - [De-dollarization: Is the US dollar losing its dominance?](https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization)
 * [2026-01-20, 15:56:07](https://news.ycombinator.com/item?id=46693205) - [Nvidia Stock Crash Prediction](https://entropicthoughts.com/nvidia-stock-crash-prediction)
 * [2026-01-20, 15:44:14](https://news.ycombinator.com/item?id=46693021) - [Claude Code is the ChatGPT moment repeated and awful news for software stocks](https://sherwood.news/markets/how-claude-code-is-the-chatgpt-moment-repeated-and-why-thats-awful-news-for/)
@@ -14,9 +16,7 @@
 * [2026-01-20, 10:47:25](https://news.ycombinator.com/item?id=46690402) - [I'm addicted to being useful](https://www.seangoedecke.com/addicted-to-being-useful/)
 * [2026-01-20, 10:02:17](https://news.ycombinator.com/item?id=46690092) - [Kiss Launcher – fast launcher for Android](https://kisslauncher.com/)
 * [2026-01-20, 07:51:12](https://news.ycombinator.com/item?id=46689065) - [Linux kernel framework for PCIe device emulation, in userspace](https://github.com/cakehonolulu/pciem)
-* [2026-01-20, 07:35:09](https://news.ycombinator.com/item?id=46688971) - [The Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
 * [2026-01-20, 03:47:21](https://news.ycombinator.com/item?id=46687705) - [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html)
-* [2026-01-20, 00:23:01](https://news.ycombinator.com/item?id=46686418) - [Scaling long-running autonomous coding](https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/)
 * [2026-01-19, 23:59:54](https://news.ycombinator.com/item?id=46686273) - [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
 * [2026-01-19, 23:39:57](https://news.ycombinator.com/item?id=46686131) - [3D printing my laptop ergonomic setup](https://www.ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/)
 * [2026-01-19, 21:48:07](https://news.ycombinator.com/item?id=46684958) - [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
