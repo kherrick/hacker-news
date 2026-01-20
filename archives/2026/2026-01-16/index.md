@@ -53,6 +53,7 @@
 * [2026-01-16, 10:19:52](https://news.ycombinator.com/item?id=46644962) - [On Being a Human Being in the Time of Collapse (2022) [pdf]](https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf)
 * [2026-01-16, 09:48:17](https://news.ycombinator.com/item?id=46644779) - [AI Destroys Institutions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
 * [2026-01-16, 09:27:03](https://news.ycombinator.com/item?id=46644661) - [The spectrum of isolation: From bare metal to WebAssembly](https://buildsoftwaresystems.com/post/guide-to-execution-environments/)
+* [2026-01-16, 09:23:08](https://news.ycombinator.com/item?id=46644640) - [Opening the AWS European Sovereign Cloud](https://aws.amazon.com/blogs/aws/opening-the-aws-european-sovereign-cloud/)
 * [2026-01-16, 09:06:45](https://news.ycombinator.com/item?id=46644541) - [pf: Make af-to less magical](https://undeadly.org/cgi?action=article;sid=20260116085115)
 * [2026-01-16, 08:13:18](https://news.ycombinator.com/item?id=46644250) - [Show HN: Hc: an agentless, multi-tenant shell history sink](https://github.com/alessandrocarminati/hc)
 * [2026-01-16, 08:01:02](https://news.ycombinator.com/item?id=46644181) - [Interactive eBPF](https://ebpf.party/)
