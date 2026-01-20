@@ -5,9 +5,12 @@
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
 * [2026-01-20, 19:34:48](https://news.ycombinator.com/item?id=46696699) - [OpenAI is rolling out age prediction](https://openai.com/index/our-approach-to-age-prediction/)
+* [2026-01-20, 19:32:49](https://news.ycombinator.com/item?id=46696683) - [The secret medieval tunnels that we still don't understand](https://weirdmedievalguys.substack.com/p/the-secret-medieval-tunnels-that)
 * [2026-01-20, 19:06:56](https://news.ycombinator.com/item?id=46696357) - [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
 * [2026-01-20, 19:06:03](https://news.ycombinator.com/item?id=46696347) - [Much of the World Facing 'Water Bankruptcy,' U.N. Report Warns](https://e360.yale.edu/digest/water-bankruptcy-report)
+* [2026-01-20, 19:03:25](https://news.ycombinator.com/item?id=46696300) - [Without benchmarking LLMs, you're likely overpaying 5-10x](https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying)
 * [2026-01-20, 18:41:04](https://news.ycombinator.com/item?id=46695986) - [Immigration Agencies Are Openly Defying Federal Courts](https://lpeproject.org/blog/immigration-agencies-are-openly-defying-federal-courts/)
+* [2026-01-20, 18:40:19](https://news.ycombinator.com/item?id=46695978) - [When \"Likers'' Go Private: Engagement with Reputationally Risky Content on X](https://arxiv.org/abs/2601.11140)
 * [2026-01-20, 18:31:49](https://news.ycombinator.com/item?id=46695855) - [How Hightouch built their long-running agent harness](https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-running-agent-harness)
 * [2026-01-20, 18:24:35](https://news.ycombinator.com/item?id=46695747) - [Google co-founder reveals that \"many\" of the new hires do not have a degree](https://www.yahoo.com/news/articles/google-cofounder-reveals-tons-recent-231500103.html)
 * [2026-01-20, 18:19:12](https://news.ycombinator.com/item?id=46695673) - [Everyone's a Gangster, Till You Get Bundled in G-Suite](https://twitter.com/keropillay/status/2013454666244481244)
