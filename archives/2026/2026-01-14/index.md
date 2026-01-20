@@ -52,6 +52,7 @@
 * [2026-01-14, 16:28:53](https://news.ycombinator.com/item?id=46618087) - [The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/)
 * [2026-01-14, 16:26:11](https://news.ycombinator.com/item?id=46618042) - [Claude is good at assembling blocks, but still falls apart at creating them](https://www.approachwithalacrity.com/claude-ne/)
 * [2026-01-14, 16:25:07](https://news.ycombinator.com/item?id=46618027) - [GitHub should charge everyone $1 more per month](https://blog.greg.technology/2025/11/27/github-should-charge-1-dollar-more-per-month.html)
+* [2026-01-14, 16:20:24](https://news.ycombinator.com/item?id=46617938) - [Radicle 1.6.0 – Amaryllis](https://radicle.xyz/2026/01/14/radicle-1.6.0)
 * [2026-01-14, 16:11:47](https://news.ycombinator.com/item?id=46617808) - [Epic fined €1.1M over manipulating children through in app purchases](https://nos.nl/artikel/2598157-maker-fortnite-vangt-bot-bij-rechter-moet-boete-betalen-voor-manipuleren-kinderen)
 * [2026-01-14, 16:07:34](https://news.ycombinator.com/item?id=46617744) - [I built Vector. Now I'm answering the question your observability vendor won't](https://usetero.com/blog/the-question-your-observability-vendor-wont-answer)
 * [2026-01-14, 16:04:53](https://news.ycombinator.com/item?id=46617705) - [Show HN: A 10KiB kernel for cloud apps](https://github.com/ReturnInfinity/BareMetal-Cloud)
