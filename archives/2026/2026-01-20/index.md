@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 15:11:45](https://news.ycombinator.com/item?id=46692594) - [Danish pension fund divesting US Treasuries](https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/)
 * [2026-01-20, 14:41:44](https://news.ycombinator.com/item?id=46692284) - [Vibe coding is a hobby. Let me explain](https://medium.com/@wob/vibe-coding-is-a-hobby-let-me-explain-a54949c3b455)
 * [2026-01-20, 14:21:03](https://news.ycombinator.com/item?id=46692087) - [Minneapolis software engineers mistaken for ICE agents](https://www.foxnews.com/us/minneapolis-software-engineers-mistaken-ice-agents-eating-lunch-harassed-anti-ice-crowd)
 * [2026-01-20, 13:51:03](https://news.ycombinator.com/item?id=46691835) - [IP Addresses Through 2025](https://www.potaroo.net/ispcol/2026-01/addr2025.html)

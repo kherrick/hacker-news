@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-20, 14:41:44](https://news.ycombinator.com/item?id=46692284) - [Vibe coding is a hobby. Let me explain](https://medium.com/@wob/vibe-coding-is-a-hobby-let-me-explain-a54949c3b455)
-* [2026-01-20, 14:21:03](https://news.ycombinator.com/item?id=46692087) - [Minneapolis software engineers mistaken for ICE agents](https://www.foxnews.com/us/minneapolis-software-engineers-mistaken-ice-agents-eating-lunch-harassed-anti-ice-crowd)
+* [2026-01-20, 15:11:45](https://news.ycombinator.com/item?id=46692594) - [Danish pension fund divesting US Treasuries](https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/)
 * [2026-01-20, 13:51:03](https://news.ycombinator.com/item?id=46691835) - [IP Addresses Through 2025](https://www.potaroo.net/ispcol/2026-01/addr2025.html)
 * [2026-01-20, 13:34:16](https://news.ycombinator.com/item?id=46691660) - [The Zen of Reticulum](https://github.com/markqvist/Reticulum/blob/master/Zen%20of%20Reticulum.md)
 * [2026-01-20, 13:10:08](https://news.ycombinator.com/item?id=46691454) - [Show HN: Ocrbase – pdf → .md/.json document OCR and structured extraction API](https://github.com/majcheradam/ocrbase)
@@ -27,6 +26,7 @@
 * [2026-01-18, 18:20:25](https://news.ycombinator.com/item?id=46670524) - [Prediction markets are ushering in a world in which news becomes about gambling](https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/)
 * [2026-01-16, 14:48:06](https://news.ycombinator.com/item?id=46646870) - [Benchmarking a Baseline Fully-in-Place Functional Language Compiler [pdf]](https://trendsfp.github.io/papers/tfp26-paper-12.pdf)
 * [2026-01-16, 02:53:21](https://news.ycombinator.com/item?id=46642458) - [British redcoat's lost memoir reveals realities of life as a disabled veteran](https://phys.org/news/2026-01-british-redcoat-lost-memoir-reveals.html)
+* [2026-01-15, 21:50:55](https://news.ycombinator.com/item?id=46639843) - [Nuudel: Non-Tracking Appointment Tool](https://nuudel.digitalcourage.de/)
 * [2026-01-15, 10:43:34](https://news.ycombinator.com/item?id=46630718) - [Kahan on the 8087 and designing Intel's floating point (2016) [video]](https://www.youtube.com/watch?v=L-QVgbdt_qg)
 * [2026-01-15, 07:49:09](https://news.ycombinator.com/item?id=46629399) - [Increasing the performance of WebAssembly Text Format parser by 350%](https://blog.gplane.win/posts/improve-wat-parser-perf.html)
 * [2026-01-14, 20:00:23](https://news.ycombinator.com/item?id=46622090) - [Understanding ZFS Scrubs and Data Integrity](https://klarasystems.com/articles/understanding-zfs-scrubs-and-data-integrity/)
