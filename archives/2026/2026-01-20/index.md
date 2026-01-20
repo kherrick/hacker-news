@@ -10,6 +10,7 @@
 * [2026-01-20, 19:06:56](https://news.ycombinator.com/item?id=46696357) - [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
 * [2026-01-20, 19:06:03](https://news.ycombinator.com/item?id=46696347) - [Much of the World Facing 'Water Bankruptcy,' U.N. Report Warns](https://e360.yale.edu/digest/water-bankruptcy-report)
 * [2026-01-20, 19:03:25](https://news.ycombinator.com/item?id=46696300) - [Without benchmarking LLMs, you're likely overpaying 5-10x](https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying)
+* [2026-01-20, 19:01:30](https://news.ycombinator.com/item?id=46696276) - [Stewart Brand – Maintenance: Of Everything, Part One](https://press.stripe.com/maintenance-part-one)
 * [2026-01-20, 18:41:04](https://news.ycombinator.com/item?id=46695986) - [Immigration Agencies Are Openly Defying Federal Courts](https://lpeproject.org/blog/immigration-agencies-are-openly-defying-federal-courts/)
 * [2026-01-20, 18:40:19](https://news.ycombinator.com/item?id=46695978) - [When \"Likers'' Go Private: Engagement with Reputationally Risky Content on X](https://arxiv.org/abs/2601.11140)
 * [2026-01-20, 18:31:49](https://news.ycombinator.com/item?id=46695855) - [How Hightouch built their long-running agent harness](https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-running-agent-harness)
