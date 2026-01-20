@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 14:41:44](https://news.ycombinator.com/item?id=46692284) - [Vibe coding is a hobby. Let me explain](https://medium.com/@wob/vibe-coding-is-a-hobby-let-me-explain-a54949c3b455)
+* [2026-01-20, 14:21:03](https://news.ycombinator.com/item?id=46692087) - [Minneapolis software engineers mistaken for ICE agents](https://www.foxnews.com/us/minneapolis-software-engineers-mistaken-ice-agents-eating-lunch-harassed-anti-ice-crowd)
+* [2026-01-20, 13:51:03](https://news.ycombinator.com/item?id=46691835) - [IP Addresses Through 2025](https://www.potaroo.net/ispcol/2026-01/addr2025.html)
 * [2026-01-20, 13:34:16](https://news.ycombinator.com/item?id=46691660) - [The Zen of Reticulum](https://github.com/markqvist/Reticulum/blob/master/Zen%20of%20Reticulum.md)
 * [2026-01-20, 13:10:08](https://news.ycombinator.com/item?id=46691454) - [Show HN: Ocrbase – pdf → .md/.json document OCR and structured extraction API](https://github.com/majcheradam/ocrbase)
+* [2026-01-20, 12:45:57](https://news.ycombinator.com/item?id=46691243) - [Ask HN: Do you have any evidence that agentic coding works?](https://news.ycombinator.com/item?id=46691243)
 * [2026-01-20, 12:00:31](https://news.ycombinator.com/item?id=46690920) - [Channel3 (YC S25) Is Hiring](https://www.ycombinator.com/companies/channel3/jobs/3DIAYYY-backend-engineer)
 * [2026-01-20, 11:58:34](https://news.ycombinator.com/item?id=46690907) - [Running Claude Code dangerously (safely)](https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/)
 * [2026-01-20, 11:06:54](https://news.ycombinator.com/item?id=46690530) - [Show HN: IP over Avian Carriers with Quality of Service](https://www.rfc-editor.org/rfc/rfc2549.html)
