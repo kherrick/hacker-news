@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-20, 22:43:03",
+      "https://news.ycombinator.com/item?id=46698687"
+    ],
+    [
+      "Steam \"Offline\" status leaks exact login timestamps (Valve: Won't Fix)",
+      "https://xmrcat.org/steam-invisibility-bypass"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 22:39:26",
       "https://news.ycombinator.com/item?id=46698660"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2026-01-20, 22:36:23",
+      "https://news.ycombinator.com/item?id=46698623"
+    ],
+    [
+      "Lunar Radio Telescope to Unlock Cosmic Mysteries",
+      "https://spectrum.ieee.org/lunar-radio-telescope"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 22:18:53",
       "https://news.ycombinator.com/item?id=46698469"
     ],
     [
       "Provably Unmasking Malicious Behavior Through Execution Traces",
       "https://arxiv.org/abs/2512.13821"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 22:09:49",
+      "https://news.ycombinator.com/item?id=46698370"
+    ],
+    [
+      "Which AI Lies Best? LLMs play a 1950s betrayal game by John Nash",
+      "https://so-long-sucker.vercel.app/"
     ]
   ],
   [
@@ -51,32 +81,12 @@
   ],
   [
     [
-      "2026-01-20, 20:45:56",
-      "https://news.ycombinator.com/item?id=46697518"
-    ],
-    [
-      "Show HN: On-device browser agent (Qwen) running locally in Chrome",
-      "https://github.com/RunanywhereAI/on-device-browser-agent"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 19:01:30",
       "https://news.ycombinator.com/item?id=46696276"
     ],
     [
       "Maintenance: Of Everything, Part One",
       "https://press.stripe.com/maintenance-part-one"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 18:47:51",
-      "https://news.ycombinator.com/item?id=46696081"
-    ],
-    [
-      "The fix for a segfault that never shipped",
-      "https://www.recall.ai/blog/the-fix-for-a-segfault-that-never-shipped"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "A 26,000-year astronomical monument hidden in plain sight (2019)",
       "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 18:05:03",
-      "https://news.ycombinator.com/item?id=46695467"
-    ],
-    [
-      "Show HN: Fence – Sandbox CLI commands with network/filesystem restrictions",
-      "https://github.com/Use-Tusk/fence"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-01-20, 14:39:06",
-      "https://news.ycombinator.com/item?id=46692250"
-    ],
-    [
-      "Scheme implementation as O'Reilly book via Claude Code",
-      "https://ezzeriesa.notion.site/Scheme-implementation-as-O-Reilly-book-via-Claude-Code-2ee1308b420480ce9b9cd157ee5220fd"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 14:23:44",
       "https://news.ycombinator.com/item?id=46692116"
     ],
@@ -267,6 +257,16 @@
     [
       "Linux kernel framework for PCIe device emulation, in userspace",
       "https://github.com/cakehonolulu/pciem"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 04:14:12",
+      "https://news.ycombinator.com/item?id=46687841"
+    ],
+    [
+      "RCS for Business",
+      "https://developers.google.com/business-communications/rcs-business-messaging"
     ]
   ],
   [
