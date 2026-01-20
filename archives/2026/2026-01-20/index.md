@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 22:27:11](https://news.ycombinator.com/item?id=46698539) - [Driver killed and several injured after second train derails near Barcelona](https://www.bbc.com/news/articles/c1m78xl0gmpo)
+* [2026-01-20, 21:36:34](https://news.ycombinator.com/item?id=46698061) - [The challenges of soft delete](https://atlas9.dev/blog/soft-delete.html)
 * [2026-01-20, 21:34:06](https://news.ycombinator.com/item?id=46698038) - [Inside the secret world of Japanese snack bars](https://www.bbc.com/travel/article/20260116-inside-the-secret-world-of-japanese-snack-bars)
 * [2026-01-20, 20:23:55](https://news.ycombinator.com/item?id=46697287) - [A scammer's blueprint: How cybercriminals plot to rob a target in a week](https://www.reuters.com/graphics/SOUTHEASTASIA-SCAMS/MANUALS/klpyjlqelvg/)
+* [2026-01-20, 20:05:57](https://news.ycombinator.com/item?id=46697075) - [Google Meet Reactions: Reverse Engineering the WebRTC Channel for Emoji](https://www.agilesoftwaredevelopment.com/en/posts/google-meet-reactions-webrtc/)
 * [2026-01-20, 19:34:48](https://news.ycombinator.com/item?id=46696699) - [OpenAI is rolling out age prediction](https://openai.com/index/our-approach-to-age-prediction/)
 * [2026-01-20, 19:32:49](https://news.ycombinator.com/item?id=46696683) - [The secret medieval tunnels that we still don't understand](https://weirdmedievalguys.substack.com/p/the-secret-medieval-tunnels-that)
 * [2026-01-20, 19:06:56](https://news.ycombinator.com/item?id=46696357) - [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
