@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-01-21, 18:31:19",
+      "https://news.ycombinator.com/item?id=46709543"
+    ],
+    [
+      "Show HN: Rails UI",
+      "https://railsui.com/"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 18:20:19",
+      "https://news.ycombinator.com/item?id=46709409"
+    ],
+    [
+      "Tell HN: Amazon has deactivated my seller account. No idea how to move forward",
+      "https://news.ycombinator.com/item?id=46709409"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 18:14:34",
+      "https://news.ycombinator.com/item?id=46709320"
+    ],
+    [
+      "GenAI, the Snake Eating Its Own Tail",
+      "https://www.ybrikman.com/blog/2026/01/21/gen-ai-snake-eating-its-own-tail/"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 18:05:36",
+      "https://news.ycombinator.com/item?id=46709179"
+    ],
+    [
+      "Stanford scientists found a way to regrow cartilage and stop arthritis",
+      "https://www.sciencedaily.com/releases/2026/01/260120000333.htm"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 17:52:17",
+      "https://news.ycombinator.com/item?id=46708990"
+    ],
+    [
+      "Show HN: Company hiring trends and insights from job postings",
+      "https://jobswithgpt.com/company-profiles/"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 17:39:42",
       "https://news.ycombinator.com/item?id=46708807"
     ],
@@ -45,18 +95,18 @@
       "https://news.ycombinator.com/item?id=46708032"
     ],
     [
-      "JPEG XL Demo Page",
+      "JPEG XL Test Page",
       "https://tildeweb.nl/~michiel/jxl/"
     ]
   ],
   [
     [
-      "2026-01-21, 16:14:39",
-      "https://news.ycombinator.com/item?id=46707699"
+      "2026-01-21, 16:04:49",
+      "https://news.ycombinator.com/item?id=46707572"
     ],
     [
-      "Tell HN: Bending Spoons laid off almost everybody at Vimeo yesterday",
-      "https://news.ycombinator.com/item?id=46707699"
+      "Claude's New Constitution",
+      "https://www.anthropic.com/news/claude-new-constitution"
     ]
   ],
   [
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2026-01-21, 12:46:27",
-      "https://news.ycombinator.com/item?id=46704943"
-    ],
-    [
-      "Vibecoding #2",
-      "https://matklad.github.io/2026/01/20/vibecoding-2.html"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 10:49:20",
       "https://news.ycombinator.com/item?id=46703763"
     ],
@@ -167,16 +207,6 @@
     [
       "I Made Zig Compute 33M Satellite Positions in 3 Seconds. No GPU Required",
       "https://atempleton.bearblog.dev/i-made-zig-compute-33-million-satellite-positions-in-3-seconds-no-gpu-required/"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 09:49:34",
-      "https://news.ycombinator.com/item?id=46703301"
-    ],
-    [
-      "SETI@home is in hiberation",
-      "https://setiathome.berkeley.edu/"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2026-01-20, 18:16:09",
-      "https://news.ycombinator.com/item?id=46695628"
-    ],
-    [
-      "A 26,000-year astronomical monument hidden in plain sight (2019)",
-      "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/"
-    ]
-  ],
-  [
-    [
       "2026-01-19, 09:45:55",
       "https://news.ycombinator.com/item?id=46676919"
     ],
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2026-01-18, 08:41:16",
-      "https://news.ycombinator.com/item?id=46665987"
+      "2026-01-19, 06:19:53",
+      "https://news.ycombinator.com/item?id=46675583"
     ],
     [
-      "200 MB RAM FreeBSD desktop",
-      "https://vermaden.wordpress.com/2026/01/18/200-mb-ram-freebsd-desktop/"
+      "Beowulf's opening \"What\" is no interjection",
+      "https://www.poetryfoundation.org/poetry-news/69208/new-research-opening-line-of-beowulf-is-not-what-weve-eternally-thunk"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "RTS for Agents",
       "https://www.getagentcraft.com/"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 23:34:09",
-      "https://news.ycombinator.com/item?id=46641007"
-    ],
-    [
-      "An Unfolding Scientific Revolution in Cosmology",
-      "https://economicsfromthetopdown.com/2026/01/15/an-unfolding-scientific-revolution-in-cosmology/"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 17:48:50",
-      "https://news.ycombinator.com/item?id=46636362"
-    ],
-    [
-      "What Is a PC Compatible?",
-      "https://codon.org.uk/~mjg59/blog/p/what-is-a-pc-compatible/"
     ]
   ]
 ]
