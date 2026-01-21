@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-01-21, 17:00:54",
+      "https://news.ycombinator.com/item?id=46708315"
+    ],
+    [
+      "Autonomous (YC F25, AI-native financial advisor at 0% advisory fees) is hiring",
+      "https://atg.science/"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 16:43:57",
+      "https://news.ycombinator.com/item?id=46708096"
+    ],
+    [
+      "PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts",
+      "https://www.yyzkevin.com/picopcmcia/"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 16:40:17",
+      "https://news.ycombinator.com/item?id=46708060"
+    ],
+    [
+      "European lawmakers suspend U.S. trade deal",
+      "https://www.cnbc.com/2026/01/21/european-lawmakers-suspend-us-trade-deal-amid-greenland-tariff-tensions.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 16:38:26",
+      "https://news.ycombinator.com/item?id=46708032"
+    ],
+    [
+      "JPEG XL Demo Page",
+      "https://tildeweb.nl/~michiel/jxl/"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 16:14:39",
+      "https://news.ycombinator.com/item?id=46707699"
+    ],
+    [
+      "Bending Spoons laid off almost everybody at Vimeo yesterday",
+      "https://news.ycombinator.com/item?id=46707699"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 15:23:18",
+      "https://news.ycombinator.com/item?id=46706947"
+    ],
+    [
+      "SmartOS",
+      "https://docs.smartos.org/"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 15:20:53",
+      "https://news.ycombinator.com/item?id=46706906"
+    ],
+    [
+      "Skip Is Now Free and Open Source",
+      "https://skip.dev/blog/skip-is-free/"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 15:13:29",
       "https://news.ycombinator.com/item?id=46706796"
     ],
@@ -11,32 +81,12 @@
   ],
   [
     [
-      "2026-01-21, 15:04:07",
-      "https://news.ycombinator.com/item?id=46706668"
-    ],
-    [
-      "Show HN: See the carbon impact of your cloud as you code",
-      "https://dashboard.infracost.io/"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 14:54:56",
       "https://news.ycombinator.com/item?id=46706528"
     ],
     [
       "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
       "https://github.com/ChartGPU/ChartGPU"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 14:12:32",
-      "https://news.ycombinator.com/item?id=46705952"
-    ],
-    [
-      "Comic-Con Bans AI Art After Artist Pushback",
-      "https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/"
     ]
   ],
   [
@@ -87,16 +137,6 @@
     [
       "Stories removed from the Hacker News Front Page, updated in real time (2024)",
       "https://github.com/vitoplantamura/HackerNewsRemovals"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 12:02:09",
-      "https://news.ycombinator.com/item?id=46704465"
-    ],
-    [
-      "Hightouch (YC S19) Is Hiring",
-      "https://hightouch.com/careers"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2026-01-21, 04:27:08",
-      "https://news.ycombinator.com/item?id=46701114"
-    ],
-    [
-      "Libbbf: Bound Book Format, A high-performance container for comics and manga",
-      "https://github.com/ef1500/libbbf"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 02:54:32",
       "https://news.ycombinator.com/item?id=46700594"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2026-01-20, 22:09:49",
-      "https://news.ycombinator.com/item?id=46698370"
-    ],
-    [
-      "Which AI Lies Best? A game theory classic designed by John Nash",
-      "https://so-long-sucker.vercel.app/"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 21:36:34",
       "https://news.ycombinator.com/item?id=46698061"
     ],
@@ -227,16 +247,6 @@
     [
       "A 26,000-year astronomical monument hidden in plain sight (2019)",
       "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 16:38:56",
-      "https://news.ycombinator.com/item?id=46693959"
-    ],
-    [
-      "Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs",
-      "https://github.com/mastra-ai/mastra"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "RTS for Agents",
       "https://www.getagentcraft.com/"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 18:19:49",
-      "https://news.ycombinator.com/item?id=46636766"
-    ],
-    [
-      "Finding Matrices that you can multiply wrong, right",
-      "https://www.hgreer.com/BadMatrixMultiply/"
     ]
   ],
   [
