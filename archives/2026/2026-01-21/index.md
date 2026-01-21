@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 11:44:57](https://news.ycombinator.com/item?id=46704312) - [MAGA Delusions of Economic Leverage](https://paulkrugman.substack.com/p/maga-delusions-of-economic-leverage)
 * [2026-01-21, 11:06:42](https://news.ycombinator.com/item?id=46703928) - [Parliament tells Dutch gov't to keep DigiD data out of American hands](https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-hands)
 * [2026-01-21, 11:02:05](https://news.ycombinator.com/item?id=46703877) - [EU inc: a new European company structure](https://ec.europa.eu/commission/presscorner/detail/da/speech_26_150)
 * [2026-01-21, 09:09:57](https://news.ycombinator.com/item?id=46703019) - [Director Gore Verbinski: Unreal Engine is the greatest slip backwards for movie](https://www.pcgamer.com/movies-tv/director-gore-verbinski-says-unreal-engine-is-the-greatest-slip-backwards-for-movie-cgi/)
