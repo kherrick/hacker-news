@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-21, 04:46:28",
+      "https://news.ycombinator.com/item?id=46701239"
+    ],
+    [
+      "Germany Forces Lexus to Remotely Kill Car Heating in Dead of Winter",
+      "https://www.gadgetreview.com/germany-forces-lexus-to-remotely-kill-car-heating-in-dead-of-winter"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 04:27:08",
+      "https://news.ycombinator.com/item?id=46701114"
+    ],
+    [
+      "Libbbf: Bound Book Format, A high-performance container for comics and manga",
+      "https://github.com/ef1500/libbbf"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 03:38:57",
       "https://news.ycombinator.com/item?id=46700809"
     ],
@@ -37,26 +57,6 @@
     [
       "Who owns Rudolph's nose?",
       "https://creativelawcenter.com/copyright-rudolph-reindeer/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 23:26:06",
-      "https://news.ycombinator.com/item?id=46699072"
-    ],
-    [
-      "Claude Chill: Fix Claude Code's flickering in terminal",
-      "https://github.com/davidbeesley/claude-chill"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 22:42:55",
-      "https://news.ycombinator.com/item?id=46698684"
-    ],
-    [
-      "Show HN: Parallel Agentic Search on the Twitter Algorithm",
-      "https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Show HN: Agent Skills Leaderboard",
       "https://skills.sh"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 21:05:02",
-      "https://news.ycombinator.com/item?id=46697735"
-    ],
-    [
-      "Ask HN: Revive a mostly dead Discord server",
-      "https://news.ycombinator.com/item?id=46697735"
     ]
   ],
   [
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2026-01-20, 04:14:12",
-      "https://news.ycombinator.com/item?id=46687841"
-    ],
-    [
-      "RCS for Business",
-      "https://developers.google.com/business-communications/rcs-business-messaging"
-    ]
-  ],
-  [
-    [
       "2026-01-19, 09:19:45",
       "https://news.ycombinator.com/item?id=46676708"
     ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2026-01-18, 00:41:51",
+      "https://news.ycombinator.com/item?id=46663686"
+    ],
+    [
+      "The life of a playboy publisher who shaped 20th-century literature",
+      "https://www.washingtonpost.com/books/2026/01/09/bennett-cerf-biography-nothing-random-feldman-book-review/"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 16:44:45",
       "https://news.ycombinator.com/item?id=46659465"
     ],
     [
       "Apples, Trees, and Quasimodes",
       "https://systemstack.dev/2025/09/humane-computing/"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 21:37:51",
+      "https://news.ycombinator.com/item?id=46652569"
+    ],
+    [
+      "Fast Concordance: Instant concordance on a corpus of >1,200 books",
+      "https://iafisher.com/concordance/"
     ]
   ],
   [
