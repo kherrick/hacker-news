@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-21, 19:13:44](https://news.ycombinator.com/item?id=46710108) - [How are you automating your coding work?](https://news.ycombinator.com/item?id=46710108)
 * [2026-01-21, 18:44:40](https://news.ycombinator.com/item?id=46709727) - [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
 * [2026-01-21, 18:31:58](https://news.ycombinator.com/item?id=46709548) - [TeraWave Satellite Communications Network](https://www.blueorigin.com/terawave)
 * [2026-01-21, 18:31:19](https://news.ycombinator.com/item?id=46709543) - [Show HN: Rails UI](https://railsui.com/)
@@ -25,10 +24,11 @@
 * [2026-01-21, 07:48:06](https://news.ycombinator.com/item?id=46702411) - [Can you slim macOS down?](https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/)
 * [2026-01-21, 02:36:44](https://news.ycombinator.com/item?id=46700503) - [RSS.Social – the latest and best from small sites across the web](https://rss.social/)
 * [2026-01-20, 19:03:25](https://news.ycombinator.com/item?id=46696300) - [Without benchmarking LLMs, you're likely overpaying](https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying)
-* [2026-01-19, 06:19:53](https://news.ycombinator.com/item?id=46675583) - [Beowulf's opening \"What\" is no interjection](https://www.poetryfoundation.org/poetry-news/69208/new-research-opening-line-of-beowulf-is-not-what-weve-eternally-thunk)
+* [2026-01-19, 06:19:53](https://news.ycombinator.com/item?id=46675583) - [Beowulf's opening \"What\" is no interjection (2013)](https://www.poetryfoundation.org/poetry-news/69208/new-research-opening-line-of-beowulf-is-not-what-weve-eternally-thunk)
 * [2026-01-18, 01:29:42](https://news.ycombinator.com/item?id=46663931) - [Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks](https://elliotarledge.com/blog/batmobile)
 * [2026-01-17, 21:57:21](https://news.ycombinator.com/item?id=46662515) - [EmuDevz: A game about developing emulators](https://afska.github.io/emudevz/)
 * [2026-01-17, 21:23:58](https://news.ycombinator.com/item?id=46662247) - [The WebRacket language is a subset of Racket that compiles to WebAssembly](https://github.com/soegaard/webracket)
+* [2026-01-16, 21:02:25](https://news.ycombinator.com/item?id=46652173) - [Letting Claude Play Text Adventures](https://borretti.me/article/letting-claude-play-text-adventures)
 * [2026-01-16, 18:20:15](https://news.ycombinator.com/item?id=46649853) - [RTS for Agents](https://www.getagentcraft.com/)
 
 ## [Archives](archives/index.md)

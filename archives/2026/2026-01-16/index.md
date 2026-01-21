@@ -15,6 +15,7 @@
 * [2026-01-16, 21:39:42](https://news.ycombinator.com/item?id=46652592) - [We're more patient with AI than one another](https://www.uxtopian.com/journal/were-more-patient-with-ai-than-one-another)
 * [2026-01-16, 21:37:51](https://news.ycombinator.com/item?id=46652569) - [Fast Concordance: Instant concordance on a corpus of >1,200 books](https://iafisher.com/concordance/)
 * [2026-01-16, 21:13:48](https://news.ycombinator.com/item?id=46652299) - [The Engineer to Executive Translation Layer](https://refactoring.fm/p/the-engineer-executive-translation)
+* [2026-01-16, 21:02:25](https://news.ycombinator.com/item?id=46652173) - [Letting Claude Play Text Adventures](https://borretti.me/article/letting-claude-play-text-adventures)
 * [2026-01-16, 20:37:31](https://news.ycombinator.com/item?id=46651887) - [LWN is currently under the heaviest scraper attack seen yet](https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO)
 * [2026-01-16, 20:21:50](https://news.ycombinator.com/item?id=46651691) - [Gladys West's vital contributions to GPS technology](https://en.wikipedia.org/wiki/Gladys_West)
 * [2026-01-16, 20:03:10](https://news.ycombinator.com/item?id=46651443) - [Slop Is Everywhere for Those with Eyes to See](https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/)
