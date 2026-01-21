@@ -37,6 +37,7 @@
 * [2026-01-15, 18:04:59](https://news.ycombinator.com/item?id=46636571) - [Ask HN: Anyone have a good solution for modern Mac to legacy SCSI converters?](https://news.ycombinator.com/item?id=46636571)
 * [2026-01-15, 17:55:59](https://news.ycombinator.com/item?id=46636445) - [Denmark's struggle to break up with Silicon Valley](https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/)
 * [2026-01-15, 17:51:24](https://news.ycombinator.com/item?id=46636387) - [CVEs Affecting the Svelte Ecosystem](https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem)
+* [2026-01-15, 17:48:50](https://news.ycombinator.com/item?id=46636362) - [What Is a PC Compatible?](https://codon.org.uk/~mjg59/blog/p/what-is-a-pc-compatible/)
 * [2026-01-15, 17:35:53](https://news.ycombinator.com/item?id=46636193) - [Italy's privacy watchdog, scourge of US big tech, hit by corruption probe](https://www.reuters.com/sustainability/boards-policy-regulation/italys-privacy-watchdog-scourge-us-big-tech-hit-by-corruption-probe-2026-01-15/)
 * [2026-01-15, 17:30:10](https://news.ycombinator.com/item?id=46636093) - [Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console](https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild)
 * [2026-01-15, 17:15:45](https://news.ycombinator.com/item?id=46635810) - [AI Tool Archive](https://aitoolarchive.com/)

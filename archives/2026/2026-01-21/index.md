@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 12:11:11](https://news.ycombinator.com/item?id=46704555) - [Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals)
+* [2026-01-21, 12:02:09](https://news.ycombinator.com/item?id=46704465) - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers)
 * [2026-01-21, 11:44:57](https://news.ycombinator.com/item?id=46704312) - [MAGA Delusions of Economic Leverage](https://paulkrugman.substack.com/p/maga-delusions-of-economic-leverage)
+* [2026-01-21, 11:44:48](https://news.ycombinator.com/item?id=46704310) - [Nukeproof: Manifesto for European Data Sovereignty](https://nukeproof.org/)
+* [2026-01-21, 11:36:09](https://news.ycombinator.com/item?id=46704223) - [The super-slow conversion of the U.S. to metric (2025)](https://www.thefabricator.com/thefabricator/blog/testingmeasuring/the-super-slow-conversion-of-the-us-to-metric)
 * [2026-01-21, 11:06:42](https://news.ycombinator.com/item?id=46703928) - [Parliament tells Dutch gov't to keep DigiD data out of American hands](https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-hands)
 * [2026-01-21, 11:02:05](https://news.ycombinator.com/item?id=46703877) - [EU inc: a new European company structure](https://ec.europa.eu/commission/presscorner/detail/da/speech_26_150)
+* [2026-01-21, 10:49:20](https://news.ycombinator.com/item?id=46703763) - [EU–INC – One Europe. One Standard. – Pan-European Legal Entity](https://www.eu-inc.org/)
+* [2026-01-21, 09:49:34](https://news.ycombinator.com/item?id=46703301) - [SETI Home Is in Hiberation](https://setiathome.berkeley.edu/)
 * [2026-01-21, 09:09:57](https://news.ycombinator.com/item?id=46703019) - [Director Gore Verbinski: Unreal Engine is the greatest slip backwards for movie](https://www.pcgamer.com/movies-tv/director-gore-verbinski-says-unreal-engine-is-the-greatest-slip-backwards-for-movie-cgi/)
 * [2026-01-21, 07:48:06](https://news.ycombinator.com/item?id=46702411) - [Can you slim macOS down?](https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/)
 * [2026-01-21, 07:32:23](https://news.ycombinator.com/item?id=46702280) - [EU Parliament freezes US trade deal ratification](https://www.lemonde.fr/en/international/article/2026/01/20/eu-parliament-freezes-us-trade-deal-after-trump-s-tariff-threats-over-greenland_6749625_4.html)
