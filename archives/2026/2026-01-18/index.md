@@ -60,6 +60,7 @@
 * [2026-01-18, 08:41:16](https://news.ycombinator.com/item?id=46665987) - [200 MB RAM FreeBSD Desktop](https://vermaden.wordpress.com/2026/01/18/200-mb-ram-freebsd-desktop/)
 * [2026-01-18, 08:39:42](https://news.ycombinator.com/item?id=46665967) - [The Walls Are Closing in on Tesla](https://www.planetearthandbeyond.co/p/the-walls-are-closing-in-on-tesla)
 * [2026-01-18, 08:18:36](https://news.ycombinator.com/item?id=46665839) - [A Social Filesystem](https://overreacted.io/a-social-filesystem/)
+* [2026-01-18, 07:59:36](https://news.ycombinator.com/item?id=46665751) - [Hypnosis with Aphantasia](https://aphantasia.com/article/stories/hypnosis-with-aphantasia)
 * [2026-01-18, 07:01:12](https://news.ycombinator.com/item?id=46665453) - [Launching the Handmade Software Foundation](https://handmade.network/blog/p/9106-welcome_to_2026%2521#30623)
 * [2026-01-18, 06:53:36](https://news.ycombinator.com/item?id=46665411) - [Iconify: Library of Open Source Icons](https://icon-sets.iconify.design/)
 * [2026-01-18, 06:47:17](https://news.ycombinator.com/item?id=46665393) - [Show HN: GibRAM an in-memory ephemeral GraphRAG runtime for retrieval](https://github.com/gibram-io/gibram)

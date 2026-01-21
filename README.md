@@ -26,10 +26,10 @@
 * [2026-01-19, 09:19:45](https://news.ycombinator.com/item?id=46676708) - [Building Robust Helm Charts](https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html)
 * [2026-01-19, 06:30:49](https://news.ycombinator.com/item?id=46675630) - [Are arrays functions?](https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html)
 * [2026-01-18, 08:41:16](https://news.ycombinator.com/item?id=46665987) - [200 MB RAM FreeBSD Desktop](https://vermaden.wordpress.com/2026/01/18/200-mb-ram-freebsd-desktop/)
+* [2026-01-18, 07:59:36](https://news.ycombinator.com/item?id=46665751) - [Hypnosis with Aphantasia](https://aphantasia.com/article/stories/hypnosis-with-aphantasia)
 * [2026-01-17, 21:57:21](https://news.ycombinator.com/item?id=46662515) - [EmuDevz: A game about developing emulators](https://afska.github.io/emudevz/)
 * [2026-01-16, 15:27:46](https://news.ycombinator.com/item?id=46647358) - [The GDB JIT Interface](https://bernsteinbear.com/blog/gdb-jit/)
 * [2026-01-15, 21:55:36](https://news.ycombinator.com/item?id=46639897) - [The space and motion of communicating agents (2008) [pdf]](https://www.cl.cam.ac.uk/archive/rm135/Bigraphs-draft.pdf)
-* [2026-01-15, 21:07:30](https://news.ycombinator.com/item?id=46639325) - [Proof of Concept to Test Humanoid Robots](https://thehumanoid.ai/humanoid-and-siemens-completed-a-proof-of-concept-to-test-humanoidrobots-in-industrial-logistics/)
 
 ## [Archives](archives/index.md)
 
