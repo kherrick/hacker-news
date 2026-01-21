@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 15:13:29](https://news.ycombinator.com/item?id=46706796) - [Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets](https://github.com/borenstein/yolo-cage)
+* [2026-01-21, 15:04:07](https://news.ycombinator.com/item?id=46706668) - [Show HN: See the carbon impact of your cloud as you code](https://dashboard.infracost.io/)
 * [2026-01-21, 14:54:56](https://news.ycombinator.com/item?id=46706528) - [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
 * [2026-01-21, 14:12:32](https://news.ycombinator.com/item?id=46705952) - [Comic-Con Bans AI Art After Artist Pushback](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 * [2026-01-21, 14:05:51](https://news.ycombinator.com/item?id=46705870) - [Uber Faces Growing Pressure over Sexual Assault Record](https://www.nytimes.com/2026/01/21/business/uber-scrutiny-sexual-assault.html)
 * [2026-01-21, 13:52:27](https://news.ycombinator.com/item?id=46705715) - [Ireland wants to give its cops spyware, ability to crack encrypted messages](https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/)
 * [2026-01-21, 13:42:53](https://news.ycombinator.com/item?id=46705606) - [AI Destroys Institutions](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+* [2026-01-21, 13:35:41](https://news.ycombinator.com/item?id=46705512) - [The first 100 days as a Renovate maintainer](https://www.jvt.me/posts/2026/01/21/renovate-100-days/)
 * [2026-01-21, 13:25:06](https://news.ycombinator.com/item?id=46705385) - [Canada Announces Divorce from America](https://charlotteclymer.substack.com/p/canada-announces-divorce-from-america)
 * [2026-01-21, 13:08:35](https://news.ycombinator.com/item?id=46705201) - [Nested Code Fences in Markdown](https://susam.net/nested-code-fences.html)
 * [2026-01-21, 12:46:27](https://news.ycombinator.com/item?id=46704943) - [Vibecoding #2](https://matklad.github.io/2026/01/20/vibecoding-2.html)
@@ -20,6 +23,7 @@
 * [2026-01-21, 11:06:42](https://news.ycombinator.com/item?id=46703928) - [Parliament tells Dutch gov't to keep DigiD data out of American hands](https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-hands)
 * [2026-01-21, 11:02:05](https://news.ycombinator.com/item?id=46703877) - [EU inc: a new European company structure](https://ec.europa.eu/commission/presscorner/detail/da/speech_26_150)
 * [2026-01-21, 10:49:20](https://news.ycombinator.com/item?id=46703763) - [EU–INC – One Europe. One Standard. – Pan-European Legal Entity](https://www.eu-inc.org/)
+* [2026-01-21, 09:51:27](https://news.ycombinator.com/item?id=46703317) - [I Made Zig Compute 33M Satellite Positions in 3 Seconds. No GPU Required](https://atempleton.bearblog.dev/i-made-zig-compute-33-million-satellite-positions-in-3-seconds-no-gpu-required/)
 * [2026-01-21, 09:49:34](https://news.ycombinator.com/item?id=46703301) - [SETI Home Is in Hiberation](https://setiathome.berkeley.edu/)
 * [2026-01-21, 09:09:57](https://news.ycombinator.com/item?id=46703019) - [Director Gore Verbinski: Unreal Engine is the greatest slip backwards for movie](https://www.pcgamer.com/movies-tv/director-gore-verbinski-says-unreal-engine-is-the-greatest-slip-backwards-for-movie-cgi/)
 * [2026-01-21, 07:48:06](https://news.ycombinator.com/item?id=46702411) - [Can you slim macOS down?](https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/)
