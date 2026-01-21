@@ -19,6 +19,7 @@
 * [2026-01-16, 20:37:31](https://news.ycombinator.com/item?id=46651887) - [LWN is currently under the heaviest scraper attack seen yet](https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO)
 * [2026-01-16, 20:21:50](https://news.ycombinator.com/item?id=46651691) - [Gladys West's vital contributions to GPS technology](https://en.wikipedia.org/wiki/Gladys_West)
 * [2026-01-16, 20:03:10](https://news.ycombinator.com/item?id=46651443) - [Slop Is Everywhere for Those with Eyes to See](https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/)
+* [2026-01-16, 19:34:00](https://news.ycombinator.com/item?id=46651027) - [Golfing APL/K in 90 Lines of Python](https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python)
 * [2026-01-16, 19:17:46](https://news.ycombinator.com/item?id=46650807) - [The wealth of the top% reaches a record $52T](https://www.cnbc.com/2025/10/03/the-wealth-of-the-top-1percent-reaches-a-record-52-trillion.html)
 * [2026-01-16, 19:08:38](https://news.ycombinator.com/item?id=46650682) - [Squishy Go](https://puyogo.app/en/)
 * [2026-01-16, 18:49:29](https://news.ycombinator.com/item?id=46650347) - [Reading across books with Claude Code](https://pieterma.es/syntopic-reading-claude/)

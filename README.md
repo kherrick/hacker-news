@@ -16,12 +16,11 @@
 * [2026-01-21, 17:21:26](https://news.ycombinator.com/item?id=46708601) - [TrustTunnel: AdGuard VPN protocol goes open-source](https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html)
 * [2026-01-21, 17:20:39](https://news.ycombinator.com/item?id=46708592) - [Open source server code for the BitCraft MMORPG](https://github.com/clockworklabs/BitCraftPublic)
 * [2026-01-21, 17:03:31](https://news.ycombinator.com/item?id=46708351) - [Challenges in join optimization](https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect)
+* [2026-01-21, 16:38:26](https://news.ycombinator.com/item?id=46708032) - [JPEG XL Test Page](https://tildeweb.nl/~michiel/jxl/)
 * [2026-01-21, 16:15:06](https://news.ycombinator.com/item?id=46707708) - [Three types of LLM workloads and how to serve them](https://modal.com/llm-almanac/workloads)
 * [2026-01-21, 16:04:49](https://news.ycombinator.com/item?id=46707572) - [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution)
 * [2026-01-21, 15:20:53](https://news.ycombinator.com/item?id=46706906) - [Skip is now free and open source](https://skip.dev/blog/skip-is-free/)
-* [2026-01-21, 14:56:32](https://news.ycombinator.com/item?id=46706564) - [Show HN: Amazon shopping automation without vision](https://news.ycombinator.com/item?id=46706564)
 * [2026-01-21, 14:54:56](https://news.ycombinator.com/item?id=46706528) - [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
-* [2026-01-21, 14:48:10](https://news.ycombinator.com/item?id=46706442) - [Show HN: UltraContext – A simple context API for AI agents with auto-versioning](https://ultracontext.ai/)
 * [2026-01-21, 14:01:04](https://news.ycombinator.com/item?id=46705830) - [Show HN: Semantic search engine for Studio Ghibli movie](https://ghibli-search.anini.workers.dev/)
 * [2026-01-21, 13:49:07](https://news.ycombinator.com/item?id=46705676) - [Tell HN: 2 years building a kids audio app as a solo dev – lessons learned](https://news.ycombinator.com/item?id=46705676)
 * [2026-01-21, 13:08:35](https://news.ycombinator.com/item?id=46705201) - [Nested code fences in Markdown](https://susam.net/nested-code-fences.html)
@@ -30,6 +29,7 @@
 * [2026-01-17, 21:23:58](https://news.ycombinator.com/item?id=46662247) - [The WebRacket language is a subset of Racket that compiles to WebAssembly](https://github.com/soegaard/webracket)
 * [2026-01-17, 14:03:00](https://news.ycombinator.com/item?id=46658133) - [Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby](https://www.ratatui-ruby.dev/)
 * [2026-01-16, 21:02:25](https://news.ycombinator.com/item?id=46652173) - [Letting Claude play text adventures](https://borretti.me/article/letting-claude-play-text-adventures)
+* [2026-01-16, 19:34:00](https://news.ycombinator.com/item?id=46651027) - [Golfing APL/K in 90 Lines of Python](https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python)
 
 ## [Archives](archives/index.md)
 
