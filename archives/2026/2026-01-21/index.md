@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 18:44:40](https://news.ycombinator.com/item?id=46709727) - [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
+* [2026-01-21, 18:31:58](https://news.ycombinator.com/item?id=46709548) - [TeraWave Satellite Communications Network](https://www.blueorigin.com/terawave)
 * [2026-01-21, 18:31:19](https://news.ycombinator.com/item?id=46709543) - [Show HN: Rails UI](https://railsui.com/)
+* [2026-01-21, 18:29:54](https://news.ycombinator.com/item?id=46709530) - [Hate is a strong word, but I don't like Windows 11](https://blog.urara.pl/hate-is-a-strong-word-but-i-really-really-really-don%27t-like-windows-11)
 * [2026-01-21, 18:20:19](https://news.ycombinator.com/item?id=46709409) - [Tell HN: Amazon has deactivated my seller account. No idea how to move forward](https://news.ycombinator.com/item?id=46709409)
 * [2026-01-21, 18:14:34](https://news.ycombinator.com/item?id=46709320) - [GenAI, the Snake Eating Its Own Tail](https://www.ybrikman.com/blog/2026/01/21/gen-ai-snake-eating-its-own-tail/)
 * [2026-01-21, 18:05:36](https://news.ycombinator.com/item?id=46709179) - [Stanford scientists found a way to regrow cartilage and stop arthritis](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)
 * [2026-01-21, 17:52:17](https://news.ycombinator.com/item?id=46708990) - [Show HN: Company hiring trends and insights from job postings](https://jobswithgpt.com/company-profiles/)
 * [2026-01-21, 17:39:42](https://news.ycombinator.com/item?id=46708807) - [illumos](https://illumos.org/)
+* [2026-01-21, 17:36:09](https://news.ycombinator.com/item?id=46708766) - [Slouching Towards Bethlehem – Joan Didion (1967)](https://www.saturdayeveningpost.com/2017/06/didion/)
 * [2026-01-21, 17:28:03](https://news.ycombinator.com/item?id=46708678) - [Waiting for dawn in search: Search index, Google rulings and impact on Kagi](https://blog.kagi.com/waiting-dawn-search)
 * [2026-01-21, 17:00:54](https://news.ycombinator.com/item?id=46708315) - [Autonomous (YC F25, AI-native financial advisor at 0% advisory fees) is hiring](https://atg.science/)
 * [2026-01-21, 16:43:57](https://news.ycombinator.com/item?id=46708096) - [PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts](https://www.yyzkevin.com/picopcmcia/)
