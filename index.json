@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-01-21, 15:13:29",
+      "https://news.ycombinator.com/item?id=46706796"
+    ],
+    [
+      "Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets",
+      "https://github.com/borenstein/yolo-cage"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 15:04:07",
+      "https://news.ycombinator.com/item?id=46706668"
+    ],
+    [
+      "Show HN: See the carbon impact of your cloud as you code",
+      "https://dashboard.infracost.io/"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 14:54:56",
       "https://news.ycombinator.com/item?id=46706528"
     ],
     [
       "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
       "https://github.com/ChartGPU/ChartGPU"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 14:12:32",
+      "https://news.ycombinator.com/item?id=46705952"
+    ],
+    [
+      "Comic-Con Bans AI Art After Artist Pushback",
+      "https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/"
     ]
   ],
   [
@@ -21,12 +51,12 @@
   ],
   [
     [
-      "2026-01-21, 13:42:53",
-      "https://news.ycombinator.com/item?id=46705606"
+      "2026-01-21, 13:35:41",
+      "https://news.ycombinator.com/item?id=46705512"
     ],
     [
-      "How AI destroys institutions",
-      "https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/"
+      "The first 100 days as a Renovate maintainer",
+      "https://www.jvt.me/posts/2026/01/21/renovate-100-days/"
     ]
   ],
   [
@@ -97,6 +127,16 @@
     [
       "EU–INC – A new pan-European legal entity",
       "https://www.eu-inc.org/"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 09:51:27",
+      "https://news.ycombinator.com/item?id=46703317"
+    ],
+    [
+      "I Made Zig Compute 33M Satellite Positions in 3 Seconds. No GPU Required",
+      "https://atempleton.bearblog.dev/i-made-zig-compute-33-million-satellite-positions-in-3-seconds-no-gpu-required/"
     ]
   ],
   [
@@ -181,26 +221,6 @@
   ],
   [
     [
-      "2026-01-20, 19:06:56",
-      "https://news.ycombinator.com/item?id=46696357"
-    ],
-    [
-      "Instabridge has acquired Nova Launcher",
-      "https://novalauncher.com/nova-is-here-to-stay"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 19:03:38",
-      "https://news.ycombinator.com/item?id=46696303"
-    ],
-    [
-      "IPv6 is not insecure because it lacks a NAT",
-      "https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 18:16:09",
       "https://news.ycombinator.com/item?id=46695628"
     ],
@@ -221,22 +241,12 @@
   ],
   [
     [
-      "2026-01-20, 14:23:44",
-      "https://news.ycombinator.com/item?id=46692116"
+      "2026-01-19, 09:45:55",
+      "https://news.ycombinator.com/item?id=46676919"
     ],
     [
-      "Unconventional PostgreSQL Optimizations",
-      "https://hakibenita.com/postgresql-unconventional-optimizations"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 07:59:36",
-      "https://news.ycombinator.com/item?id=46665751"
-    ],
-    [
-      "Hypnosis with Aphantasia",
-      "https://aphantasia.com/article/stories/hypnosis-with-aphantasia"
+      "TPM on Embedded Systems: Pitfalls and Caveats to Watch Out For",
+      "https://sigma-star.at/blog/2026/01/tpm-on-embedded-systems-pitfalls-and-caveats/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "RTS for Agents",
       "https://www.getagentcraft.com/"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 15:27:46",
-      "https://news.ycombinator.com/item?id=46647358"
-    ],
-    [
-      "The GDB JIT Interface",
-      "https://bernsteinbear.com/blog/gdb-jit/"
     ]
   ],
   [
