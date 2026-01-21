@@ -33,6 +33,7 @@
 * [2026-01-15, 18:35:35](https://news.ycombinator.com/item?id=46637010) - [Dutch experts warn US takeover of DigiD platform poses security risks](https://nltimes.nl/2026/01/15/dutch-experts-warn-us-takeover-digid-platform-poses-national-security-risks)
 * [2026-01-15, 18:25:36](https://news.ycombinator.com/item?id=46636861) - [Ask HN: One IP, multiple unrealistic locations worldwide hitting my website](https://news.ycombinator.com/item?id=46636861)
 * [2026-01-15, 18:21:12](https://news.ycombinator.com/item?id=46636786) - [Show HN: Live Claude permissions using cloud-based decision tables](https://github.com/rulebricks/claude-code-guardrails)
+* [2026-01-15, 18:19:49](https://news.ycombinator.com/item?id=46636766) - [Finding Matrices that you can multiply wrong, right](https://www.hgreer.com/BadMatrixMultiply/)
 * [2026-01-15, 18:17:52](https://news.ycombinator.com/item?id=46636738) - [Zuck#: A programming language for connecting the world. And harvesting it](https://jayzalowitz.github.io/zucksharp/)
 * [2026-01-15, 18:04:59](https://news.ycombinator.com/item?id=46636571) - [Ask HN: Anyone have a good solution for modern Mac to legacy SCSI converters?](https://news.ycombinator.com/item?id=46636571)
 * [2026-01-15, 17:55:59](https://news.ycombinator.com/item?id=46636445) - [Denmark's struggle to break up with Silicon Valley](https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/)

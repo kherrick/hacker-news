@@ -24,11 +24,11 @@
 * [2026-01-20, 16:38:56](https://news.ycombinator.com/item?id=46693959) - [Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs](https://github.com/mastra-ai/mastra)
 * [2026-01-20, 14:23:44](https://news.ycombinator.com/item?id=46692116) - [Unconventional PostgreSQL Optimizations](https://hakibenita.com/postgresql-unconventional-optimizations)
 * [2026-01-18, 08:41:16](https://news.ycombinator.com/item?id=46665987) - [200 MB RAM FreeBSD Desktop](https://vermaden.wordpress.com/2026/01/18/200-mb-ram-freebsd-desktop/)
-* [2026-01-18, 07:59:36](https://news.ycombinator.com/item?id=46665751) - [Hypnosis with Aphantasia](https://aphantasia.com/article/stories/hypnosis-with-aphantasia)
 * [2026-01-18, 01:29:42](https://news.ycombinator.com/item?id=46663931) - [Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks](https://elliotarledge.com/blog/batmobile)
 * [2026-01-17, 21:57:21](https://news.ycombinator.com/item?id=46662515) - [EmuDevz: A game about developing emulators](https://afska.github.io/emudevz/)
 * [2026-01-16, 18:20:15](https://news.ycombinator.com/item?id=46649853) - [RTS for Agents](https://www.getagentcraft.com/)
 * [2026-01-16, 15:27:46](https://news.ycombinator.com/item?id=46647358) - [The GDB JIT Interface](https://bernsteinbear.com/blog/gdb-jit/)
+* [2026-01-15, 18:19:49](https://news.ycombinator.com/item?id=46636766) - [Finding Matrices that you can multiply wrong, right](https://www.hgreer.com/BadMatrixMultiply/)
 * [2026-01-15, 17:48:50](https://news.ycombinator.com/item?id=46636362) - [What Is a PC Compatible?](https://codon.org.uk/~mjg59/blog/p/what-is-a-pc-compatible/)
 
 ## [Archives](archives/index.md)
