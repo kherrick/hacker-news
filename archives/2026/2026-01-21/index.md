@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 20:49:05](https://news.ycombinator.com/item?id=46711346) - [FreeBSD](https://docs.freebsd.org/en/books/handbook/)
+* [2026-01-21, 20:47:01](https://news.ycombinator.com/item?id=46711313) - [Deaths Linked to AI Chatbots](https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots)
 * [2026-01-21, 19:13:44](https://news.ycombinator.com/item?id=46710108) - [How are you automating your coding work?](https://news.ycombinator.com/item?id=46710108)
 * [2026-01-21, 18:44:40](https://news.ycombinator.com/item?id=46709727) - [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
 * [2026-01-21, 18:31:58](https://news.ycombinator.com/item?id=46709548) - [TeraWave Satellite Communications Network](https://www.blueorigin.com/terawave)
