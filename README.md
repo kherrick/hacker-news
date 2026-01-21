@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-21, 07:32:23](https://news.ycombinator.com/item?id=46702280) - [EU Parliament freezes US trade deal ratification](https://www.lemonde.fr/en/international/article/2026/01/20/eu-parliament-freezes-us-trade-deal-after-trump-s-tariff-threats-over-greenland_6749625_4.html)
 * [2026-01-21, 07:00:23](https://news.ycombinator.com/item?id=46702045) - [Infracost (YC W21) Is Hiring Sr Back End Eng (Node.js+SQL) to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql)
 * [2026-01-21, 06:48:56](https://news.ycombinator.com/item?id=46701969) - [The Agentic AI Handbook: Production-Ready Patterns](https://www.nibzard.com/agentic-handbook)
 * [2026-01-21, 06:07:03](https://news.ycombinator.com/item?id=46701733) - [cURL removes bug bounties](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
 * [2026-01-21, 04:27:08](https://news.ycombinator.com/item?id=46701114) - [Libbbf: Bound Book Format, A high-performance container for comics and manga](https://github.com/ef1500/libbbf)
-* [2026-01-21, 03:38:57](https://news.ycombinator.com/item?id=46700809) - [Disaster planning for regular folks (2015)](https://lcamtuf.coredump.cx/prep/index-old.shtml)
 * [2026-01-21, 02:54:32](https://news.ycombinator.com/item?id=46700594) - [Anthropic's original take home assignment open sourced](https://github.com/anthropics/original_performance_takehome)
 * [2026-01-21, 02:36:44](https://news.ycombinator.com/item?id=46700503) - [RSS.Social – the latest and best from small sites across the web](https://rss.social/)
 * [2026-01-21, 00:21:13](https://news.ycombinator.com/item?id=46699597) - [Who owns Rudolph's nose?](https://creativelawcenter.com/copyright-rudolph-reindeer/)
@@ -23,6 +21,7 @@
 * [2026-01-20, 16:48:59](https://news.ycombinator.com/item?id=46694124) - [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [2026-01-20, 16:38:56](https://news.ycombinator.com/item?id=46693959) - [Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs](https://github.com/mastra-ai/mastra)
 * [2026-01-20, 14:23:44](https://news.ycombinator.com/item?id=46692116) - [Unconventional PostgreSQL Optimizations](https://hakibenita.com/postgresql-unconventional-optimizations)
+* [2026-01-20, 13:51:03](https://news.ycombinator.com/item?id=46691835) - [IP Addresses Through 2025](https://www.potaroo.net/ispcol/2026-01/addr2025.html)
 * [2026-01-20, 12:45:57](https://news.ycombinator.com/item?id=46691243) - [Ask HN: Do you have any evidence that agentic coding works?](https://news.ycombinator.com/item?id=46691243)
 * [2026-01-19, 09:19:45](https://news.ycombinator.com/item?id=46676708) - [Building Robust Helm Charts](https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html)
 * [2026-01-19, 06:30:49](https://news.ycombinator.com/item?id=46675630) - [Are arrays functions?](https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html)
@@ -30,6 +29,7 @@
 * [2026-01-17, 16:44:45](https://news.ycombinator.com/item?id=46659465) - [Apples, Trees, and Quasimodes](https://systemstack.dev/2025/09/humane-computing/)
 * [2026-01-16, 15:27:46](https://news.ycombinator.com/item?id=46647358) - [The GDB JIT Interface](https://bernsteinbear.com/blog/gdb-jit/)
 * [2026-01-15, 21:55:36](https://news.ycombinator.com/item?id=46639897) - [The space and motion of communicating agents (2008) [pdf]](https://www.cl.cam.ac.uk/archive/rm135/Bigraphs-draft.pdf)
+* [2026-01-15, 21:07:30](https://news.ycombinator.com/item?id=46639325) - [Proof of Concept to Test Humanoid Robots](https://thehumanoid.ai/humanoid-and-siemens-completed-a-proof-of-concept-to-test-humanoidrobots-in-industrial-logistics/)
 
 ## [Archives](archives/index.md)
 
