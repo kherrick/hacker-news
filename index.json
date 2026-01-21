@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-21, 02:54:32",
+      "https://news.ycombinator.com/item?id=46700594"
+    ],
+    [
+      "Anthropic's original take home assignment open sourced",
+      "https://github.com/anthropics/original_performance_takehome"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 01:37:41",
       "https://news.ycombinator.com/item?id=46700146"
     ],
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2026-01-20, 21:22:19",
+      "https://news.ycombinator.com/item?id=46697908"
+    ],
+    [
+      "Show HN: Agent Skills Leaderboard",
+      "https://skills.sh"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 21:05:02",
       "https://news.ycombinator.com/item?id=46697735"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-01-20, 17:08:43",
-      "https://news.ycombinator.com/item?id=46694482"
-    ],
-    [
-      "'The old order is not coming back,' Carney says in speech at Davos",
-      "https://www.cbc.ca/news/politics/carney-davos-speech-9.7052725"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 16:48:59",
       "https://news.ycombinator.com/item?id=46694124"
     ],
@@ -187,6 +197,26 @@
     [
       "Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs",
       "https://github.com/mastra-ai/mastra"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 15:56:07",
+      "https://news.ycombinator.com/item?id=46693205"
+    ],
+    [
+      "Nvidia Stock Crash Prediction",
+      "https://entropicthoughts.com/nvidia-stock-crash-prediction"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 14:47:50",
+      "https://news.ycombinator.com/item?id=46692347"
+    ],
+    [
+      "Show HN: TopicRadar – Track trending topics across HN, GitHub, ArXiv, and more",
+      "https://apify.com/mick-johnson/topic-radar"
     ]
   ],
   [
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2026-01-20, 11:58:34",
-      "https://news.ycombinator.com/item?id=46690907"
-    ],
-    [
-      "Running Claude Code dangerously (safely)",
-      "https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 10:47:25",
-      "https://news.ycombinator.com/item?id=46690402"
-    ],
-    [
-      "I'm addicted to being useful",
-      "https://www.seangoedecke.com/addicted-to-being-useful/"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 04:14:12",
       "https://news.ycombinator.com/item?id=46687841"
     ],
     [
       "RCS for Business",
       "https://developers.google.com/business-communications/rcs-business-messaging"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 00:23:01",
-      "https://news.ycombinator.com/item?id=46686418"
-    ],
-    [
-      "Scaling long-running autonomous coding",
-      "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-01-16, 02:57:37",
-      "https://news.ycombinator.com/item?id=46642490"
+      "2026-01-16, 15:27:46",
+      "https://news.ycombinator.com/item?id=46647358"
     ],
     [
-      "Show HN: Aventos – An experiment in cheap AI SEO",
-      "https://www.aventos.dev/"
+      "The GDB JIT Interface",
+      "https://bernsteinbear.com/blog/gdb-jit/"
     ]
   ],
   [
