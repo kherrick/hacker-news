@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-01-21, 11:44:57",
-      "https://news.ycombinator.com/item?id=46704312"
+      "2026-01-21, 12:11:11",
+      "https://news.ycombinator.com/item?id=46704555"
     ],
     [
-      "MAGA Delusions of Economic Leverage",
-      "https://paulkrugman.substack.com/p/maga-delusions-of-economic-leverage"
+      "Stories removed from the Hacker News Front Page, updated in real time",
+      "https://github.com/vitoplantamura/HackerNewsRemovals"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 12:02:09",
+      "https://news.ycombinator.com/item?id=46704465"
+    ],
+    [
+      "Hightouch (YC S19) Is Hiring",
+      "https://hightouch.com/careers"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 11:44:48",
+      "https://news.ycombinator.com/item?id=46704310"
+    ],
+    [
+      "Nukeproof: Manifesto for European Data Sovereignty",
+      "https://nukeproof.org/"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 11:36:09",
+      "https://news.ycombinator.com/item?id=46704223"
+    ],
+    [
+      "The super-slow conversion of the U.S. to metric (2025)",
+      "https://www.thefabricator.com/thefabricator/blog/testingmeasuring/the-super-slow-conversion-of-the-us-to-metric"
     ]
   ],
   [
@@ -15,8 +45,28 @@
       "https://news.ycombinator.com/item?id=46703928"
     ],
     [
-      "Parliament tells Dutch gov't to keep DigiD data out of American hands",
+      "Parliament tells Dutch government to keep DigiD data out of American hands",
       "https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-hands"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 10:49:20",
+      "https://news.ycombinator.com/item?id=46703763"
+    ],
+    [
+      "EU–INC – One Europe. One Standard. – Pan-European Legal Entity",
+      "https://www.eu-inc.org/"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 09:49:34",
+      "https://news.ycombinator.com/item?id=46703301"
+    ],
+    [
+      "SETI Home Is in Hiberation",
+      "https://setiathome.berkeley.edu/"
     ]
   ],
   [
@@ -27,26 +77,6 @@
     [
       "The percentage of Show HN posts is increasing, but their scores are decreasing",
       "https://snubi.net/posts/Show-HN/"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 07:00:23",
-      "https://news.ycombinator.com/item?id=46702045"
-    ],
-    [
-      "Infracost (YC W21) Is Hiring Sr Back End Eng (Node.js+SQL) to Shift FinOps Left",
-      "https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 06:48:56",
-      "https://news.ycombinator.com/item?id=46701969"
-    ],
-    [
-      "The Agentic AI Handbook: Production-Ready Patterns",
-      "https://www.nibzard.com/agentic-handbook"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-01-20, 22:36:23",
-      "https://news.ycombinator.com/item?id=46698623"
-    ],
-    [
-      "Lunar Radio Telescope to Unlock Cosmic Mysteries",
-      "https://spectrum.ieee.org/lunar-radio-telescope"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 22:09:49",
       "https://news.ycombinator.com/item?id=46698370"
     ],
@@ -127,16 +147,6 @@
     [
       "The challenges of soft delete",
       "https://atlas9.dev/blog/soft-delete.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 19:34:48",
-      "https://news.ycombinator.com/item?id=46696699"
-    ],
-    [
-      "Our approach to age prediction",
-      "https://openai.com/index/our-approach-to-age-prediction/"
     ]
   ],
   [
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2026-01-20, 12:45:57",
-      "https://news.ycombinator.com/item?id=46691243"
-    ],
-    [
-      "Ask HN: Do you have any evidence that agentic coding works?",
-      "https://news.ycombinator.com/item?id=46691243"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 09:19:45",
-      "https://news.ycombinator.com/item?id=46676708"
-    ],
-    [
-      "Building Robust Helm Charts",
-      "https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html"
-    ]
-  ],
-  [
-    [
       "2026-01-19, 06:30:49",
       "https://news.ycombinator.com/item?id=46675630"
     ],
@@ -297,6 +287,16 @@
     [
       "The space and motion of communicating agents (2008) [pdf]",
       "https://www.cl.cam.ac.uk/archive/rm135/Bigraphs-draft.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 17:48:50",
+      "https://news.ycombinator.com/item?id=46636362"
+    ],
+    [
+      "What Is a PC Compatible?",
+      "https://codon.org.uk/~mjg59/blog/p/what-is-a-pc-compatible/"
     ]
   ]
 ]
