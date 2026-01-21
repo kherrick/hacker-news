@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
 * [2026-01-21, 07:00:23](https://news.ycombinator.com/item?id=46702045) - [Infracost (YC W21) Is Hiring Sr Back End Eng (Node.js+SQL) to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql)
+* [2026-01-21, 06:48:56](https://news.ycombinator.com/item?id=46701969) - [The Agentic AI Handbook: Production-Ready Patterns](https://www.nibzard.com/agentic-handbook)
 * [2026-01-21, 06:07:03](https://news.ycombinator.com/item?id=46701733) - [Curl removes bug bounties because of AI slop](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
 * [2026-01-21, 04:46:28](https://news.ycombinator.com/item?id=46701239) - [Germany Forces Lexus to Remotely Kill Car Heating in Dead of Winter](https://www.gadgetreview.com/germany-forces-lexus-to-remotely-kill-car-heating-in-dead-of-winter)
 * [2026-01-21, 04:27:08](https://news.ycombinator.com/item?id=46701114) - [Libbbf: Bound Book Format, A high-performance container for comics and manga](https://github.com/ef1500/libbbf)

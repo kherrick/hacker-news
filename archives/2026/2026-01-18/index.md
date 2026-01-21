@@ -57,6 +57,7 @@
 * [2026-01-18, 09:35:19](https://news.ycombinator.com/item?id=46666283) - [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
 * [2026-01-18, 09:24:21](https://news.ycombinator.com/item?id=46666221) - [Pentagon readies 1,500 troops to possibly deploy to Minnesota, US media say](https://www.reuters.com/world/us/pentagon-readies-1500-soldiers-possibly-deploy-minnesota-washington-post-reports-2026-01-18/)
 * [2026-01-18, 08:58:40](https://news.ycombinator.com/item?id=46666085) - [Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
+* [2026-01-18, 08:41:16](https://news.ycombinator.com/item?id=46665987) - [200 MB RAM FreeBSD Desktop](https://vermaden.wordpress.com/2026/01/18/200-mb-ram-freebsd-desktop/)
 * [2026-01-18, 08:39:42](https://news.ycombinator.com/item?id=46665967) - [The Walls Are Closing in on Tesla](https://www.planetearthandbeyond.co/p/the-walls-are-closing-in-on-tesla)
 * [2026-01-18, 08:18:36](https://news.ycombinator.com/item?id=46665839) - [A Social Filesystem](https://overreacted.io/a-social-filesystem/)
 * [2026-01-18, 07:01:12](https://news.ycombinator.com/item?id=46665453) - [Launching the Handmade Software Foundation](https://handmade.network/blog/p/9106-welcome_to_2026%2521#30623)
