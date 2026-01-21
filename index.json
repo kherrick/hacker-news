@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-21, 21:26:18",
+      "https://news.ycombinator.com/item?id=46711792"
+    ],
+    [
+      "Jerry (YC S17) Is Hiring",
+      "https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 21:09:35",
+      "https://news.ycombinator.com/item?id=46711589"
+    ],
+    [
+      "Devin Review: AI to Stop Slop",
+      "https://cognition.ai/blog/devin-review"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 21:07:47",
+      "https://news.ycombinator.com/item?id=46711574"
+    ],
+    [
+      "eBay Explicitly Bans AI \"Buy for Me\" Agents in User Agreement Update",
+      "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 20:49:05",
       "https://news.ycombinator.com/item?id=46711346"
     ],
@@ -11,22 +41,22 @@
   ],
   [
     [
-      "2026-01-21, 20:47:01",
-      "https://news.ycombinator.com/item?id=46711313"
+      "2026-01-21, 19:45:21",
+      "https://news.ycombinator.com/item?id=46710569"
     ],
     [
-      "Deaths Linked to AI Chatbots",
-      "https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots"
+      "OpenAI API Logs: Unpatched data exfiltration",
+      "https://www.promptarmor.com/resources/openai-api-logs-unpatched-data-exfiltration"
     ]
   ],
   [
     [
-      "2026-01-21, 19:13:44",
-      "https://news.ycombinator.com/item?id=46710108"
+      "2026-01-21, 19:44:45",
+      "https://news.ycombinator.com/item?id=46710560"
     ],
     [
-      "Ask HN: How are you automating your coding work?",
-      "https://news.ycombinator.com/item?id=46710108"
+      "Magnetic Remote Control of Biology",
+      "https://bsky.app/profile/andrewgyork.bsky.social/post/3mcbrdoftak2l"
     ]
   ],
   [
@@ -101,12 +131,12 @@
   ],
   [
     [
-      "2026-01-21, 17:00:54",
-      "https://news.ycombinator.com/item?id=46708315"
+      "2026-01-21, 17:03:31",
+      "https://news.ycombinator.com/item?id=46708351"
     ],
     [
-      "Autonomous (YC F25) is hiring – AI-native financial advisor at 0% advisory fees",
-      "https://atg.science/"
+      "Challenges in Join Optimization",
+      "https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect"
     ]
   ],
   [
@@ -131,6 +161,16 @@
   ],
   [
     [
+      "2026-01-21, 16:15:06",
+      "https://news.ycombinator.com/item?id=46707708"
+    ],
+    [
+      "Three types of LLM workloads and how to serve them",
+      "https://modal.com/llm-almanac/workloads"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 16:14:39",
       "https://news.ycombinator.com/item?id=46707699"
     ],
@@ -151,12 +191,12 @@
   ],
   [
     [
-      "2026-01-21, 15:23:18",
-      "https://news.ycombinator.com/item?id=46706947"
+      "2026-01-21, 15:52:15",
+      "https://news.ycombinator.com/item?id=46707409"
     ],
     [
-      "SmartOS",
-      "https://docs.smartos.org/"
+      "Show HN: SpeechOS – Wispr Flow-inspired voice input for any web app",
+      "https://www.speechos.ai/"
     ]
   ],
   [
@@ -171,32 +211,32 @@
   ],
   [
     [
-      "2026-01-21, 15:13:29",
-      "https://news.ycombinator.com/item?id=46706796"
-    ],
-    [
-      "Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets",
-      "https://github.com/borenstein/yolo-cage"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 15:04:07",
-      "https://news.ycombinator.com/item?id=46706668"
-    ],
-    [
-      "Show HN: See the carbon impact of your cloud as you code",
-      "https://dashboard.infracost.io/"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 14:54:56",
       "https://news.ycombinator.com/item?id=46706528"
     ],
     [
       "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
       "https://github.com/ChartGPU/ChartGPU"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 14:48:10",
+      "https://news.ycombinator.com/item?id=46706442"
+    ],
+    [
+      "Show HN: UltraContext – A simple context API for AI agents with auto-versioning",
+      "https://ultracontext.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 14:01:04",
+      "https://news.ycombinator.com/item?id=46705830"
+    ],
+    [
+      "Show HN: Semantic search engine for Studio Ghibli movie",
+      "https://ghibli-search.anini.workers.dev/"
     ]
   ],
   [
@@ -211,22 +251,12 @@
   ],
   [
     [
-      "2026-01-21, 10:49:20",
-      "https://news.ycombinator.com/item?id=46703763"
+      "2026-01-21, 09:04:42",
+      "https://news.ycombinator.com/item?id=46702980"
     ],
     [
-      "EU–INC – A new pan-European legal entity",
-      "https://www.eu-inc.org/"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 09:51:27",
-      "https://news.ycombinator.com/item?id=46703317"
-    ],
-    [
-      "I Made Zig Compute 33M Satellite Positions in 3 Seconds. No GPU Required",
-      "https://atempleton.bearblog.dev/i-made-zig-compute-33-million-satellite-positions-in-3-seconds-no-gpu-required/"
+      "I finally got my sway layout to autostart the way I like it",
+      "https://hugues.betakappaphi.com/2026/01/19/sway-layout/"
     ]
   ],
   [
@@ -241,32 +271,12 @@
   ],
   [
     [
-      "2026-01-20, 19:03:25",
-      "https://news.ycombinator.com/item?id=46696300"
+      "2026-01-19, 09:39:02",
+      "https://news.ycombinator.com/item?id=46676861"
     ],
     [
-      "Without benchmarking LLMs, you're likely overpaying",
-      "https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 01:29:42",
-      "https://news.ycombinator.com/item?id=46663931"
-    ],
-    [
-      "Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks",
-      "https://elliotarledge.com/blog/batmobile"
-    ]
-  ],
-  [
-    [
-      "2026-01-17, 21:57:21",
-      "https://news.ycombinator.com/item?id=46662515"
-    ],
-    [
-      "EmuDevz: A game about developing emulators",
-      "https://afska.github.io/emudevz/"
+      "SIMD Programming in Pure Rust",
+      "https://kerkour.com/introduction-rust-simd"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Letting Claude Play Text Adventures",
       "https://borretti.me/article/letting-claude-play-text-adventures"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 18:20:15",
-      "https://news.ycombinator.com/item?id=46649853"
-    ],
-    [
-      "RTS for Agents",
-      "https://www.getagentcraft.com/"
     ]
   ]
 ]
