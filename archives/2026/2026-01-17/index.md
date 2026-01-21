@@ -10,6 +10,7 @@
 * [2026-01-17, 23:38:21](https://news.ycombinator.com/item?id=46663268) - [No knives, only cook knives](https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives)
 * [2026-01-17, 22:47:55](https://news.ycombinator.com/item?id=46662886) - [Texas A&M university is banning Plato, citing his \"gender ideology\"](https://lithub.com/texas-am-is-banning-plato-citing-his-gender-ideology/)
 * [2026-01-17, 22:19:25](https://news.ycombinator.com/item?id=46662662) - [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/)
+* [2026-01-17, 21:57:21](https://news.ycombinator.com/item?id=46662515) - [EmuDevz: A game about developing emulators](https://afska.github.io/emudevz/)
 * [2026-01-17, 21:54:52](https://news.ycombinator.com/item?id=46662503) - [Congress Wants to Hand Your Parenting to Big Tech](https://www.eff.org/deeplinks/2026/01/congress-wants-hand-your-parenting-big-tech)
 * [2026-01-17, 21:40:53](https://news.ycombinator.com/item?id=46662399) - [Show HN: Speed Miners – A tiny RTS resource mini-game](https://speedminers.fun/)
 * [2026-01-17, 21:39:35](https://news.ycombinator.com/item?id=46662390) - [Show HN: E80: an 8-bit CPU in structural VHDL](https://github.com/Stokpan/E80)

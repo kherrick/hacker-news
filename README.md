@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-21, 09:09:57](https://news.ycombinator.com/item?id=46703019) - [Director Gore Verbinski: Unreal Engine is the greatest slip backwards for movie](https://www.pcgamer.com/movies-tv/director-gore-verbinski-says-unreal-engine-is-the-greatest-slip-backwards-for-movie-cgi/)
 * [2026-01-21, 07:00:23](https://news.ycombinator.com/item?id=46702045) - [Infracost (YC W21) Is Hiring Sr Back End Eng (Node.js+SQL) to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql)
 * [2026-01-21, 06:48:56](https://news.ycombinator.com/item?id=46701969) - [The Agentic AI Handbook: Production-Ready Patterns](https://www.nibzard.com/agentic-handbook)
 * [2026-01-21, 06:07:03](https://news.ycombinator.com/item?id=46701733) - [cURL removes bug bounties](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
@@ -9,7 +10,6 @@
 * [2026-01-21, 00:21:13](https://news.ycombinator.com/item?id=46699597) - [Who owns Rudolph's nose?](https://creativelawcenter.com/copyright-rudolph-reindeer/)
 * [2026-01-20, 22:39:26](https://news.ycombinator.com/item?id=46698660) - [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)
 * [2026-01-20, 22:36:23](https://news.ycombinator.com/item?id=46698623) - [Lunar Radio Telescope to Unlock Cosmic Mysteries](https://spectrum.ieee.org/lunar-radio-telescope)
-* [2026-01-20, 22:18:53](https://news.ycombinator.com/item?id=46698469) - [Provably unmasking malicious behavior through execution traces](https://arxiv.org/abs/2512.13821)
 * [2026-01-20, 22:09:49](https://news.ycombinator.com/item?id=46698370) - [Which AI Lies Best? A game theory classic designed by John Nash](https://so-long-sucker.vercel.app/)
 * [2026-01-20, 21:36:34](https://news.ycombinator.com/item?id=46698061) - [The challenges of soft delete](https://atlas9.dev/blog/soft-delete.html)
 * [2026-01-20, 21:22:19](https://news.ycombinator.com/item?id=46697908) - [Show HN: Agent Skills Leaderboard](https://skills.sh)
@@ -26,7 +26,7 @@
 * [2026-01-19, 09:19:45](https://news.ycombinator.com/item?id=46676708) - [Building Robust Helm Charts](https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html)
 * [2026-01-19, 06:30:49](https://news.ycombinator.com/item?id=46675630) - [Are arrays functions?](https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html)
 * [2026-01-18, 08:41:16](https://news.ycombinator.com/item?id=46665987) - [200 MB RAM FreeBSD Desktop](https://vermaden.wordpress.com/2026/01/18/200-mb-ram-freebsd-desktop/)
-* [2026-01-17, 16:44:45](https://news.ycombinator.com/item?id=46659465) - [Apples, Trees, and Quasimodes](https://systemstack.dev/2025/09/humane-computing/)
+* [2026-01-17, 21:57:21](https://news.ycombinator.com/item?id=46662515) - [EmuDevz: A game about developing emulators](https://afska.github.io/emudevz/)
 * [2026-01-16, 15:27:46](https://news.ycombinator.com/item?id=46647358) - [The GDB JIT Interface](https://bernsteinbear.com/blog/gdb-jit/)
 * [2026-01-15, 21:55:36](https://news.ycombinator.com/item?id=46639897) - [The space and motion of communicating agents (2008) [pdf]](https://www.cl.cam.ac.uk/archive/rm135/Bigraphs-draft.pdf)
 * [2026-01-15, 21:07:30](https://news.ycombinator.com/item?id=46639325) - [Proof of Concept to Test Humanoid Robots](https://thehumanoid.ai/humanoid-and-siemens-completed-a-proof-of-concept-to-test-humanoidrobots-in-industrial-logistics/)
