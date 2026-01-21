@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 23:07:11](https://news.ycombinator.com/item?id=46712959) - [The Inflation Trap: Housing replacement costs vs. market value](https://suretyinsights.com/blog/the-inflation-trap-why-your-home-insurance-limit-might-be-too-low)
+* [2026-01-21, 22:54:04](https://news.ycombinator.com/item?id=46712815) - [Take potentially dangerous PDFs, and convert them to safe PDFs](https://github.com/freedomofpress/dangerzone)
 * [2026-01-21, 22:41:45](https://news.ycombinator.com/item?id=46712678) - [Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 * [2026-01-21, 21:40:48](https://news.ycombinator.com/item?id=46711958) - [Show HN: Grov – Multiplayer for AI coding agents](https://github.com/TonyStef/Grov)
 * [2026-01-21, 21:26:18](https://news.ycombinator.com/item?id=46711792) - [Jerry (YC S17) Is Hiring](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace)
