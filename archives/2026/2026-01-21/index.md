@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 13:25:06](https://news.ycombinator.com/item?id=46705385) - [Canada Announces Divorce from America](https://charlotteclymer.substack.com/p/canada-announces-divorce-from-america)
+* [2026-01-21, 13:08:35](https://news.ycombinator.com/item?id=46705201) - [Nested Code Fences in Markdown](https://susam.net/nested-code-fences.html)
+* [2026-01-21, 12:46:27](https://news.ycombinator.com/item?id=46704943) - [Vibecoding #2](https://matklad.github.io/2026/01/20/vibecoding-2.html)
 * [2026-01-21, 12:11:11](https://news.ycombinator.com/item?id=46704555) - [Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals)
 * [2026-01-21, 12:02:09](https://news.ycombinator.com/item?id=46704465) - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers)
 * [2026-01-21, 11:44:57](https://news.ycombinator.com/item?id=46704312) - [MAGA Delusions of Economic Leverage](https://paulkrugman.substack.com/p/maga-delusions-of-economic-leverage)
