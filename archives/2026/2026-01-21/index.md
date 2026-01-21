@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 17:39:42](https://news.ycombinator.com/item?id=46708807) - [illumos](https://illumos.org/)
+* [2026-01-21, 17:28:03](https://news.ycombinator.com/item?id=46708678) - [Waiting for dawn in search: Search index, Google rulings and impact on Kagi](https://blog.kagi.com/waiting-dawn-search)
 * [2026-01-21, 17:00:54](https://news.ycombinator.com/item?id=46708315) - [Autonomous (YC F25, AI-native financial advisor at 0% advisory fees) is hiring](https://atg.science/)
 * [2026-01-21, 16:43:57](https://news.ycombinator.com/item?id=46708096) - [PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts](https://www.yyzkevin.com/picopcmcia/)
 * [2026-01-21, 16:40:17](https://news.ycombinator.com/item?id=46708060) - [European lawmakers suspend U.S. trade deal](https://www.cnbc.com/2026/01/21/european-lawmakers-suspend-us-trade-deal-amid-greenland-tariff-tensions.html)
@@ -20,6 +22,7 @@
 * [2026-01-21, 13:42:53](https://news.ycombinator.com/item?id=46705606) - [AI Destroys Institutions](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 * [2026-01-21, 13:35:41](https://news.ycombinator.com/item?id=46705512) - [The first 100 days as a Renovate maintainer](https://www.jvt.me/posts/2026/01/21/renovate-100-days/)
 * [2026-01-21, 13:25:06](https://news.ycombinator.com/item?id=46705385) - [Canada Announces Divorce from America](https://charlotteclymer.substack.com/p/canada-announces-divorce-from-america)
+* [2026-01-21, 13:13:06](https://news.ycombinator.com/item?id=46705256) - [Swedish Alecta has sold off an estimated $8B of US Treasury Bonds](https://www.di.se/nyheter/di-avslojar-alecta-har-dumpat-amerikanska-statspapper/)
 * [2026-01-21, 13:08:35](https://news.ycombinator.com/item?id=46705201) - [Nested Code Fences in Markdown](https://susam.net/nested-code-fences.html)
 * [2026-01-21, 12:46:27](https://news.ycombinator.com/item?id=46704943) - [Vibecoding #2](https://matklad.github.io/2026/01/20/vibecoding-2.html)
 * [2026-01-21, 12:11:11](https://news.ycombinator.com/item?id=46704555) - [Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals)

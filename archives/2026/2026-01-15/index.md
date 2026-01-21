@@ -9,6 +9,7 @@
 * [2026-01-15, 23:47:32](https://news.ycombinator.com/item?id=46641145) - [King – man + woman is queen; but why? (2017)](https://p.migdal.pl/blog/2017/01/king-man-woman-queen-why/)
 * [2026-01-15, 23:37:42](https://news.ycombinator.com/item?id=46641042) - [Tldraw pauses external contributions due to AI slop](https://github.com/tldraw/tldraw/issues/7695)
 * [2026-01-15, 23:36:40](https://news.ycombinator.com/item?id=46641036) - [From Nevada to Kansas by Glider](https://www.weglide.org/flight/978820)
+* [2026-01-15, 23:34:09](https://news.ycombinator.com/item?id=46641007) - [An Unfolding Scientific Revolution in Cosmology](https://economicsfromthetopdown.com/2026/01/15/an-unfolding-scientific-revolution-in-cosmology/)
 * [2026-01-15, 22:43:28](https://news.ycombinator.com/item?id=46640462) - [AWS European Sovereign Cloud](https://aws.eu/)
 * [2026-01-15, 22:33:58](https://news.ycombinator.com/item?id=46640366) - [Why Senior Engineers Let Bad Projects Fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
 * [2026-01-15, 22:04:23](https://news.ycombinator.com/item?id=46640014) - [Remails: A European Mail Transfer Agent](https://tweedegolf.nl/en/blog/197/remails)
