@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-21, 19:13:44](https://news.ycombinator.com/item?id=46710108) - [How are you automating your coding work?](https://news.ycombinator.com/item?id=46710108)
 * [2026-01-21, 18:44:40](https://news.ycombinator.com/item?id=46709727) - [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
 * [2026-01-21, 18:31:58](https://news.ycombinator.com/item?id=46709548) - [TeraWave Satellite Communications Network](https://www.blueorigin.com/terawave)
 * [2026-01-21, 18:31:19](https://news.ycombinator.com/item?id=46709543) - [Show HN: Rails UI](https://railsui.com/)
-* [2026-01-21, 18:29:54](https://news.ycombinator.com/item?id=46709530) - [Hate is a strong word, but I don't like Windows 11](https://blog.urara.pl/hate-is-a-strong-word-but-i-really-really-really-don%27t-like-windows-11)
 * [2026-01-21, 18:20:19](https://news.ycombinator.com/item?id=46709409) - [Tell HN: Amazon has deactivated my seller account. No idea how to move forward](https://news.ycombinator.com/item?id=46709409)
 * [2026-01-21, 18:05:36](https://news.ycombinator.com/item?id=46709179) - [Stanford scientists found a way to regrow cartilage and stop arthritis](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)
 * [2026-01-21, 17:52:17](https://news.ycombinator.com/item?id=46708990) - [Show HN: Company hiring trends and insights from job postings](https://jobswithgpt.com/company-profiles/)
@@ -24,11 +24,11 @@
 * [2026-01-21, 09:51:27](https://news.ycombinator.com/item?id=46703317) - [I Made Zig Compute 33M Satellite Positions in 3 Seconds. No GPU Required](https://atempleton.bearblog.dev/i-made-zig-compute-33-million-satellite-positions-in-3-seconds-no-gpu-required/)
 * [2026-01-21, 07:48:06](https://news.ycombinator.com/item?id=46702411) - [Can you slim macOS down?](https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/)
 * [2026-01-21, 02:54:32](https://news.ycombinator.com/item?id=46700594) - [Anthropic's original take home assignment open sourced](https://github.com/anthropics/original_performance_takehome)
-* [2026-01-21, 02:36:44](https://news.ycombinator.com/item?id=46700503) - [RSS.Social – the latest and best from small sites across the web](https://rss.social/)
 * [2026-01-20, 19:03:25](https://news.ycombinator.com/item?id=46696300) - [Without benchmarking LLMs, you're likely overpaying](https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying)
 * [2026-01-19, 06:19:53](https://news.ycombinator.com/item?id=46675583) - [Beowulf's opening \"What\" is no interjection](https://www.poetryfoundation.org/poetry-news/69208/new-research-opening-line-of-beowulf-is-not-what-weve-eternally-thunk)
 * [2026-01-18, 01:29:42](https://news.ycombinator.com/item?id=46663931) - [Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks](https://elliotarledge.com/blog/batmobile)
 * [2026-01-17, 21:57:21](https://news.ycombinator.com/item?id=46662515) - [EmuDevz: A game about developing emulators](https://afska.github.io/emudevz/)
+* [2026-01-17, 21:23:58](https://news.ycombinator.com/item?id=46662247) - [The WebRacket language is a subset of Racket that compiles to WebAssembly](https://github.com/soegaard/webracket)
 * [2026-01-16, 18:20:15](https://news.ycombinator.com/item?id=46649853) - [RTS for Agents](https://www.getagentcraft.com/)
 
 ## [Archives](archives/index.md)
