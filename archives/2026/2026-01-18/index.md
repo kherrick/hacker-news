@@ -23,6 +23,7 @@
 * [2026-01-18, 18:23:14](https://news.ycombinator.com/item?id=46670568) - [A pandemic rescue became a 30-year debt trap](https://thehill.com/opinion/finance/5692543-small-business-loan-debt-trap/)
 * [2026-01-18, 18:20:25](https://news.ycombinator.com/item?id=46670524) - [Prediction markets are ushering in a world in which news becomes about gambling](https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/)
 * [2026-01-18, 18:20:25](https://news.ycombinator.com/item?id=46670524) - [America is slow-walking into a Polymarket disaster](https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb)
+* [2026-01-18, 18:18:34](https://news.ycombinator.com/item?id=46670503) - [Mystery of the Head Activator](https://www.asimov.press/p/head-activator)
 * [2026-01-18, 18:03:03](https://news.ycombinator.com/item?id=46670290) - [Show HN: HTTP:COLON – A quick HTTP header/directive inspector and reference](https://httpcolon.dev/)
 * [2026-01-18, 18:01:58](https://news.ycombinator.com/item?id=46670279) - [Flux 2 Klein pure C inference](https://github.com/antirez/flux2.c)
 * [2026-01-18, 17:53:21](https://news.ycombinator.com/item?id=46670181) - [Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup](https://cua.ai/docs/lume/guide/getting-started/introduction)

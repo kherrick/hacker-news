@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 22:41:45](https://news.ycombinator.com/item?id=46712678) - [Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 * [2026-01-21, 21:40:48](https://news.ycombinator.com/item?id=46711958) - [Show HN: Grov – Multiplayer for AI coding agents](https://github.com/TonyStef/Grov)
 * [2026-01-21, 21:26:18](https://news.ycombinator.com/item?id=46711792) - [Jerry (YC S17) Is Hiring](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace)
 * [2026-01-21, 21:13:59](https://news.ycombinator.com/item?id=46711649) - [Show HN: TerabyteDeals – Compare storage prices by $/TB](https://terabytedeals.com)
