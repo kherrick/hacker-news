@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 18:31:19](https://news.ycombinator.com/item?id=46709543) - [Show HN: Rails UI](https://railsui.com/)
+* [2026-01-21, 18:20:19](https://news.ycombinator.com/item?id=46709409) - [Tell HN: Amazon has deactivated my seller account. No idea how to move forward](https://news.ycombinator.com/item?id=46709409)
+* [2026-01-21, 18:14:34](https://news.ycombinator.com/item?id=46709320) - [GenAI, the Snake Eating Its Own Tail](https://www.ybrikman.com/blog/2026/01/21/gen-ai-snake-eating-its-own-tail/)
+* [2026-01-21, 18:05:36](https://news.ycombinator.com/item?id=46709179) - [Stanford scientists found a way to regrow cartilage and stop arthritis](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)
+* [2026-01-21, 17:52:17](https://news.ycombinator.com/item?id=46708990) - [Show HN: Company hiring trends and insights from job postings](https://jobswithgpt.com/company-profiles/)
 * [2026-01-21, 17:39:42](https://news.ycombinator.com/item?id=46708807) - [illumos](https://illumos.org/)
 * [2026-01-21, 17:28:03](https://news.ycombinator.com/item?id=46708678) - [Waiting for dawn in search: Search index, Google rulings and impact on Kagi](https://blog.kagi.com/waiting-dawn-search)
 * [2026-01-21, 17:00:54](https://news.ycombinator.com/item?id=46708315) - [Autonomous (YC F25, AI-native financial advisor at 0% advisory fees) is hiring](https://atg.science/)
@@ -11,6 +16,7 @@
 * [2026-01-21, 16:40:17](https://news.ycombinator.com/item?id=46708060) - [European lawmakers suspend U.S. trade deal](https://www.cnbc.com/2026/01/21/european-lawmakers-suspend-us-trade-deal-amid-greenland-tariff-tensions.html)
 * [2026-01-21, 16:38:26](https://news.ycombinator.com/item?id=46708032) - [JPEG XL Demo Page](https://tildeweb.nl/~michiel/jxl/)
 * [2026-01-21, 16:14:39](https://news.ycombinator.com/item?id=46707699) - [Bending Spoons laid off almost everybody at Vimeo yesterday](https://news.ycombinator.com/item?id=46707699)
+* [2026-01-21, 16:04:49](https://news.ycombinator.com/item?id=46707572) - [Claude's New Constitution](https://www.anthropic.com/news/claude-new-constitution)
 * [2026-01-21, 15:23:18](https://news.ycombinator.com/item?id=46706947) - [SmartOS](https://docs.smartos.org/)
 * [2026-01-21, 15:20:53](https://news.ycombinator.com/item?id=46706906) - [Skip Is Now Free and Open Source](https://skip.dev/blog/skip-is-free/)
 * [2026-01-21, 15:13:29](https://news.ycombinator.com/item?id=46706796) - [Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets](https://github.com/borenstein/yolo-cage)
