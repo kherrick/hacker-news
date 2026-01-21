@@ -74,6 +74,7 @@
 * [2026-01-18, 03:22:52](https://news.ycombinator.com/item?id=46664540) - [How scientists are using Claude to accelerate research and discovery](https://www.anthropic.com/news/accelerating-scientific-research)
 * [2026-01-18, 02:17:25](https://news.ycombinator.com/item?id=46664195) - [Profession by Isaac Asimov](https://www.abelard.org/asimov.php)
 * [2026-01-18, 01:55:34](https://news.ycombinator.com/item?id=46664079) - [Dark Mode vs. Light Mode: Which Is Better?](https://www.nngroup.com/articles/dark-mode/)
+* [2026-01-18, 01:29:42](https://news.ycombinator.com/item?id=46663931) - [Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks](https://elliotarledge.com/blog/batmobile)
 * [2026-01-18, 00:49:40](https://news.ycombinator.com/item?id=46663731) - [Data Activation Thoughts](https://galsapir.github.io/sparse-thoughts/2026/01/17/data_activation/)
 * [2026-01-18, 00:41:51](https://news.ycombinator.com/item?id=46663686) - [The life of a playboy publisher who shaped 20th-century literature](https://www.washingtonpost.com/books/2026/01/09/bennett-cerf-biography-nothing-random-feldman-book-review/)
 * [2026-01-18, 00:09:43](https://news.ycombinator.com/item?id=46663507) - [MIT's Computer Systems Security (2024)](https://css.csail.mit.edu/6.858/2024/)
