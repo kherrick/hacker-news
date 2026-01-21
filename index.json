@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-21, 22:41:45",
+      "https://news.ycombinator.com/item?id=46712678"
+    ],
+    [
+      "Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant",
+      "https://www.media.mit.edu/publications/your-brain-on-chatgpt/"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 21:40:48",
       "https://news.ycombinator.com/item?id=46711958"
     ],
@@ -31,42 +41,12 @@
   ],
   [
     [
-      "2026-01-21, 21:11:29",
-      "https://news.ycombinator.com/item?id=46711615"
-    ],
-    [
-      "What if AI is both good and not that disruptive?",
-      "https://deadneurons.substack.com/p/what-if-ai-is-both-really-good-and"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 21:07:47",
-      "https://news.ycombinator.com/item?id=46711574"
-    ],
-    [
-      "eBay explicitly bans AI \"buy for me\" agents in user agreement update",
-      "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 20:52:00",
       "https://news.ycombinator.com/item?id=46711380"
     ],
     [
       "Spotify won court order against Anna's Archive, taking down .org domain",
       "https://arstechnica.com/tech-policy/2026/01/annas-archive-said-spotify-scrape-didnt-cause-domain-suspension-it-was-wrong/"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 19:45:21",
-      "https://news.ycombinator.com/item?id=46710569"
-    ],
-    [
-      "OpenAI API Logs: Unpatched data exfiltration",
-      "https://www.promptarmor.com/resources/openai-api-logs-unpatched-data-exfiltration"
     ]
   ],
   [
@@ -161,16 +141,6 @@
   ],
   [
     [
-      "2026-01-21, 16:38:26",
-      "https://news.ycombinator.com/item?id=46708032"
-    ],
-    [
-      "JPEG XL Test Page",
-      "https://tildeweb.nl/~michiel/jxl/"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 16:15:06",
       "https://news.ycombinator.com/item?id=46707708"
     ],
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2026-01-21, 09:04:42",
+      "https://news.ycombinator.com/item?id=46702980"
+    ],
+    [
+      "I finally got my sway layout to autostart the way I like it",
+      "https://hugues.betakappaphi.com/2026/01/19/sway-layout/"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 07:48:06",
       "https://news.ycombinator.com/item?id=46702411"
     ],
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2026-01-20, 05:06:19",
+      "https://news.ycombinator.com/item?id=46688101"
+    ],
+    [
+      "Stevey's Birthday Blog",
+      "https://steve-yegge.medium.com/steveys-birthday-blog-34f437139cb5"
+    ]
+  ],
+  [
+    [
       "2026-01-19, 09:39:02",
       "https://news.ycombinator.com/item?id=46676861"
     ],
     [
       "SIMD programming in pure Rust",
       "https://kerkour.com/introduction-rust-simd"
+    ]
+  ],
+  [
+    [
+      "2026-01-18, 18:18:34",
+      "https://news.ycombinator.com/item?id=46670503"
+    ],
+    [
+      "Mystery of the Head Activator",
+      "https://www.asimov.press/p/head-activator"
     ]
   ],
   [
