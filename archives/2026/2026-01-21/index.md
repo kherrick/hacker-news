@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
 * [2026-01-21, 21:26:18](https://news.ycombinator.com/item?id=46711792) - [Jerry (YC S17) Is Hiring](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace)
+* [2026-01-21, 21:13:59](https://news.ycombinator.com/item?id=46711649) - [Show HN: TerabyteDeals – Compare storage prices by $/TB](https://terabytedeals.com)
 * [2026-01-21, 21:09:35](https://news.ycombinator.com/item?id=46711589) - [Devin Review: AI to Stop Slop](https://cognition.ai/blog/devin-review)
 * [2026-01-21, 21:07:47](https://news.ycombinator.com/item?id=46711574) - [eBay Explicitly Bans AI \"Buy for Me\" Agents in User Agreement Update](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 * [2026-01-21, 20:49:05](https://news.ycombinator.com/item?id=46711346) - [FreeBSD](https://docs.freebsd.org/en/books/handbook/)
 * [2026-01-21, 20:47:01](https://news.ycombinator.com/item?id=46711313) - [Deaths Linked to AI Chatbots](https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots)
+* [2026-01-21, 20:34:48](https://news.ycombinator.com/item?id=46711171) - [L∃AN together – live stream schedule](https://leanprover-community.github.io/lt2026/schedule.html)
 * [2026-01-21, 19:45:21](https://news.ycombinator.com/item?id=46710569) - [OpenAI API Logs: Unpatched data exfiltration](https://www.promptarmor.com/resources/openai-api-logs-unpatched-data-exfiltration)
 * [2026-01-21, 19:44:45](https://news.ycombinator.com/item?id=46710560) - [Magnetic Remote Control of Biology](https://bsky.app/profile/andrewgyork.bsky.social/post/3mcbrdoftak2l)
 * [2026-01-21, 19:13:44](https://news.ycombinator.com/item?id=46710108) - [How are you automating your coding work?](https://news.ycombinator.com/item?id=46710108)
