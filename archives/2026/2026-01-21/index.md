@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 17:00:54](https://news.ycombinator.com/item?id=46708315) - [Autonomous (YC F25, AI-native financial advisor at 0% advisory fees) is hiring](https://atg.science/)
+* [2026-01-21, 16:43:57](https://news.ycombinator.com/item?id=46708096) - [PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts](https://www.yyzkevin.com/picopcmcia/)
+* [2026-01-21, 16:40:17](https://news.ycombinator.com/item?id=46708060) - [European lawmakers suspend U.S. trade deal](https://www.cnbc.com/2026/01/21/european-lawmakers-suspend-us-trade-deal-amid-greenland-tariff-tensions.html)
+* [2026-01-21, 16:38:26](https://news.ycombinator.com/item?id=46708032) - [JPEG XL Demo Page](https://tildeweb.nl/~michiel/jxl/)
+* [2026-01-21, 16:14:39](https://news.ycombinator.com/item?id=46707699) - [Bending Spoons laid off almost everybody at Vimeo yesterday](https://news.ycombinator.com/item?id=46707699)
+* [2026-01-21, 15:23:18](https://news.ycombinator.com/item?id=46706947) - [SmartOS](https://docs.smartos.org/)
+* [2026-01-21, 15:20:53](https://news.ycombinator.com/item?id=46706906) - [Skip Is Now Free and Open Source](https://skip.dev/blog/skip-is-free/)
 * [2026-01-21, 15:13:29](https://news.ycombinator.com/item?id=46706796) - [Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets](https://github.com/borenstein/yolo-cage)
 * [2026-01-21, 15:04:07](https://news.ycombinator.com/item?id=46706668) - [Show HN: See the carbon impact of your cloud as you code](https://dashboard.infracost.io/)
 * [2026-01-21, 14:54:56](https://news.ycombinator.com/item?id=46706528) - [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
