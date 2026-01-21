@@ -68,6 +68,7 @@
 * [2026-01-19, 07:57:04](https://news.ycombinator.com/item?id=46676081) - [The coming industrialisation of exploit generation with LLMs](https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/)
 * [2026-01-19, 07:14:19](https://news.ycombinator.com/item?id=46675853) - [A decentralized peer-to-peer messaging application that operates over Bluetooth](https://bitchat.free/)
 * [2026-01-19, 06:51:12](https://news.ycombinator.com/item?id=46675740) - [Anthropic disabled my account after payment cancer patient/medical data trapped](https://news.ycombinator.com/item?id=46675740)
+* [2026-01-19, 06:30:49](https://news.ycombinator.com/item?id=46675630) - [Are Arrays Functions?](https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html)
 * [2026-01-19, 05:11:24](https://news.ycombinator.com/item?id=46675271) - [Bypassing Gemma and Qwen safety with raw strings](https://teendifferent.substack.com/p/apply_chat_template-is-the-safety)
 * [2026-01-19, 05:04:40](https://news.ycombinator.com/item?id=46675236) - [Show HN: Intent Layer: A context engineering skill for AI agents](https://www.railly.dev/blog/intent-layer/)
 * [2026-01-19, 05:04:07](https://news.ycombinator.com/item?id=46675231) - [Show HN: Pdfwithlove – PDF tools that run 100% locally (no uploads, no back end)](https://pdfwithlove.netlify.app)

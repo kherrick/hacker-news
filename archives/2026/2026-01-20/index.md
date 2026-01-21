@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 23:26:06](https://news.ycombinator.com/item?id=46699072) - [Claude Chill: Fix Claude Code's Flickering in Terminal](https://github.com/davidbeesley/claude-chill)
 * [2026-01-20, 22:43:03](https://news.ycombinator.com/item?id=46698687) - [Steam \"Offline\" status leaks exact login timestamps (Valve: Won't Fix)](https://xmrcat.org/steam-invisibility-bypass)
 * [2026-01-20, 22:39:26](https://news.ycombinator.com/item?id=46698660) - [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)
 * [2026-01-20, 22:36:23](https://news.ycombinator.com/item?id=46698623) - [Lunar Radio Telescope to Unlock Cosmic Mysteries](https://spectrum.ieee.org/lunar-radio-telescope)

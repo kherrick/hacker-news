@@ -56,6 +56,7 @@
 * [2026-01-15, 14:19:14](https://news.ycombinator.com/item?id=46632885) - [Poking holes into bytecode with peephole optimisations](https://xnacly.me/posts/2026/purple-garden-first-optimisations/)
 * [2026-01-15, 14:16:02](https://news.ycombinator.com/item?id=46632837) - [I spent a year on Linux and forgot to miss Windows](https://www.theverge.com/features/861968/year-using-linux)
 * [2026-01-15, 14:11:30](https://news.ycombinator.com/item?id=46632768) - [Show HN: TinyCity – A tiny city SIM for MicroPython (Thumby micro console)](https://github.com/chrisdiana/TinyCity)
+* [2026-01-15, 13:56:42](https://news.ycombinator.com/item?id=46632593) - [Catching API regressions with snapshot testing](https://kreya.app/blog/api-snapshot-testing/)
 * [2026-01-15, 13:27:09](https://news.ycombinator.com/item?id=46632184) - [Iterative image reconstruction using random cubic bézier strokes](https://tangled.org/luthenwald.tngl.sh/splined)
 * [2026-01-15, 13:23:33](https://news.ycombinator.com/item?id=46632120) - [Conditions in the Intel 8087 floating-point chip's microcode](https://www.righto.com/2025/12/8087-microcode-conditions.html)
 * [2026-01-15, 13:19:22](https://news.ycombinator.com/item?id=46632057) - [Independent Guest Virtual Machine (IGVM) File Format](https://github.com/microsoft/igvm)
