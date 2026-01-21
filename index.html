@@ -129,6 +129,89 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46711958">
+          <h3>
+            <a class="item" href="https://github.com/TonyStef/Grov"
+              >Show HN: Grov – Multiplayer for AI coding agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-21 @ 21:40:48</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46711958"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I built Grov (<a href="https://grov.dev/">https://grov.dev/</a>)
+                because I hit a wall with current AI coding assistants: they are
+                "single-player." The moment I kill a terminal pane or close a
+                chat session, the high-level reasoning and architectural
+                decisions generated during that session are lost. If a teammate
+                touches that same code an hour later, their agent has to
+                re-derive everything from scratch or read many documentation
+                files for basically any feature implemented or bug fixed.
+              </p>
+              <p>
+                I wanted to stop writing a lot of docs for everything just to
+                give context to my agents or have to re-explain to my agents
+                what my teammate did and why.
+              </p>
+              <p>
+                Grov is an open-source context layer that effectively gives your
+                team's AI agents a shared, persistent memory.
+              </p>
+              <p>Here is the technical approach:</p>
+              <p>
+                1. Decision-grain memory, not document storage: When you sync a
+                memory, Grov structures knowledge at the decision level. We
+                capture the specific aspect (e.g., "Auth Strategy"), the choice
+                made ("JWT"), and the reasoning ("Stateless for scaling").
+                Crucially, when your codebase evolves, we don't overwrite
+                memories, we mark old decisions as superseded and link them to
+                the new choice. This gives your team an audit trail of
+                architectural evolution, not just the current snapshot.
+              </p>
+              <p>
+                2. Git-like branches for memories: Teams experimenting with
+                different approaches can create memory branches. Memories on a
+                feature branch stay isolated until you are ready to merge.
+                Access control mirrors Git: main is team-wide, while feature
+                branches keep noise isolated. When you merge the branch, those
+                accumulated insights become instantly available to everyone's
+                agents.
+              </p>
+              <p>
+                3. Two-stage injection (Token Optimization): The expensive part
+                of shared memory isn't storage it's the context window. Loading
+                10 irrelevant memories wastes tokens and confuses the model.
+                Grov uses a "Preview → Expand" strategy: Preview: A hybrid
+                semantic/keyword search returns lightweight memory summaries
+                (~100 tokens). Expand: The full reasoning traces (~500-1k
+                tokens) are only injected if the agent explicitly requests more
+                detail. This typically results in a 50-70% token reduction per
+                session compared to raw context dumping.
+              </p>
+              <p>
+                The result: Your teammate's agent doesn't waste 5 minutes
+                re-exploring why you chose Postgres over Redis, or re-reading
+                auth middleware. It just knows, because your agent already
+                figured it out and shared it.
+              </p>
+              <p>
+                Github:
+                <a href="https://github.com/TonyStef/Grov"
+                  >https://github.com/TonyStef/Grov</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="46711792">
           <h3>
             <a
@@ -156,11 +239,11 @@
             <h4>
               <span>2026-01-21 @ 21:13:59</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46711649"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
@@ -181,45 +264,67 @@
             </div>
           </section>
         </section>
+        <section id="46711615">
+          <h3>
+            <a
+              class="item"
+              href="https://deadneurons.substack.com/p/what-if-ai-is-both-really-good-and"
+              >What if AI is both good and not that disruptive?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-21 @ 21:11:29</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46711615"
+                  >Comments</a
+                ><span class="descendants">: 26</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46711574">
           <h3>
             <a
               class="item"
               href="https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/"
-              >eBay Explicitly Bans AI "Buy for Me" Agents in User Agreement
-              Update</a
+              >eBay explicitly bans AI "buy for me" agents in user agreement
+              update</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-01-21 @ 21:07:47</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46711574"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46711171">
+        <section id="46711380">
           <h3>
             <a
               class="item"
-              href="https://leanprover-community.github.io/lt2026/schedule.html"
-              >L∃AN together – live stream schedule</a
+              href="https://arstechnica.com/tech-policy/2026/01/annas-archive-said-spotify-scrape-didnt-cause-domain-suspension-it-was-wrong/"
+              >Spotify won court order against Anna's Archive, taking down .org
+              domain</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-21 @ 20:34:48</span
+              <span>2026-01-21 @ 20:52:00</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46711171"
+                ><a href="https://news.ycombinator.com/item?id=46711380"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -236,68 +341,41 @@
             <h4>
               <span>2026-01-21 @ 19:45:21</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46710569"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46710560">
+        <section id="46710042">
           <h3>
             <a
               class="item"
-              href="https://bsky.app/profile/andrewgyork.bsky.social/post/3mcbrdoftak2l"
-              >Magnetic Remote Control of Biology</a
+              href="https://www.kenkoonwong.com/blog/parallel-computing/"
+              >Setting Up a Cluster of Tiny PCs for Parallel Computing</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-21 @ 19:44:45</span
+              <span>2026-01-21 @ 19:08:37</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46710560"
+                ><a href="https://news.ycombinator.com/item?id=46710042"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                More context here:
-                <a href="https://www.nature.com/articles/d41586-026-00204-9"
-                  >https://www.nature.com/articles/d41586-026-00204-9</a
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="46709727">
-          <h3>
-            <a
-              class="item"
-              href="https://www.linuxfromscratch.org/lfs/view/stable/"
-              >Linux from Scratch</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-21 @ 18:44:40</span
-              ><span class="points-container"
-                >Points: <span class="points">308</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46709727"
-                  >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
         </section>
         <section id="46709548">
           <h3>
-            <a class="item" href="https://www.blueorigin.com/terawave"
+            <a
+              class="item"
+              href="https://www.blueorigin.com/news/blue-origin-introduces-terawave-space-based-network-for-global-connectivity"
               >TeraWave Satellite Communications Network</a
             >
           </h3>
@@ -305,11 +383,11 @@
             <h4>
               <span>2026-01-21 @ 18:31:58</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46709548"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
             <div class="text">
@@ -333,7 +411,7 @@
             <h4>
               <span>2026-01-21 @ 18:31:19</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46709543"
                   >Comments</a
@@ -347,49 +425,21 @@
             <a
               class="item"
               href="https://www.sciencedaily.com/releases/2026/01/260120000333.htm"
-              >Stanford scientists found a way to regrow cartilage and stop
-              arthritis</a
+              >Scientists find a way to regrow cartilage in mice and human
+              tissue samples</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-01-21 @ 18:05:36</span
               ><span class="points-container"
-                >Points: <span class="points">215</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46709179"
                   >Comments</a
                 ><span class="descendants">: 60</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46708990">
-          <h3>
-            <a class="item" href="https://jobswithgpt.com/company-profiles/"
-              >Show HN: Company hiring trends and insights from job postings</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-21 @ 17:52:17</span
-              ><span class="points-container"
-                >Points: <span class="points">30</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46708990"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://jobswithgpt.com/company-profiles/openai/"
-                >https://jobswithgpt.com/company-profiles/openai/</a
-              >
-              <a
-                href="https://jobswithgpt.com/company-profiles/advanced-micro-devices-inc/"
-                >https://jobswithgpt.com/company-profiles/advanced-micro-devi...</a
-              >
-            </div>
           </section>
         </section>
         <section id="46708766">
@@ -404,7 +454,7 @@
             <h4>
               <span>2026-01-21 @ 17:36:09</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46708766"
                   >Comments</a
@@ -424,11 +474,53 @@
             <h4>
               <span>2026-01-21 @ 17:28:03</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46708678"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 121</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46708601">
+          <h3>
+            <a
+              class="item"
+              href="https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html"
+              >TrustTunnel: AdGuard VPN protocol goes open-source</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-21 @ 17:21:26</span
+              ><span class="points-container"
+                >Points: <span class="points">30</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46708601"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46708592">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/clockworklabs/BitCraftPublic"
+              >Open source server code for the BitCraft MMORPG</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-21 @ 17:20:39</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46708592"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -438,57 +530,18 @@
             <a
               class="item"
               href="https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect"
-              >Challenges in Join Optimization</a
+              >Challenges in join optimization</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-01-21 @ 17:03:31</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46708351"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46708096">
-          <h3>
-            <a class="item" href="https://www.yyzkevin.com/picopcmcia/"
-              >PicoPCMCIA – a PCMCIA development board for retro-computing
-              enthusiasts</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-21 @ 16:43:57</span
-              ><span class="points-container"
-                >Points: <span class="points">100</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46708096"
-                  >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46708032">
-          <h3>
-            <a class="item" href="https://tildeweb.nl/~michiel/jxl/"
-              >JPEG XL Test Page</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-21 @ 16:38:26</span
-              ><span class="points-container"
-                >Points: <span class="points">148</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46708032"
-                  >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -503,7 +556,7 @@
             <h4>
               <span>2026-01-21 @ 16:15:06</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46707708"
                   >Comments</a
@@ -512,47 +565,23 @@
             </h4>
           </section>
         </section>
-        <section id="46707699">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=46707699"
-              >Tell HN: Bending Spoons laid off almost everybody at Vimeo
-              yesterday</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-21 @ 16:14:39</span
-              ><span class="points-container"
-                >Points: <span class="points">339</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46707699"
-                  >Comments</a
-                ><span class="descendants">: 292</span></span
-              >
-            </h4>
-            <div class="text">
-              As expected. Almost the whole company is gone, less than 15 people
-              left in engineering.
-            </div>
-          </section>
-        </section>
         <section id="46707572">
           <h3>
             <a
               class="item"
               href="https://www.anthropic.com/news/claude-new-constitution"
-              >Claude's New Constitution</a
+              >Claude's new constitution</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-01-21 @ 16:04:49</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">219</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46707572"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 157</span></span
               >
             </h4>
             <div class="text">
@@ -562,137 +591,131 @@
             </div>
           </section>
         </section>
-        <section id="46707409">
-          <h3>
-            <a class="item" href="https://www.speechos.ai/"
-              >Show HN: SpeechOS – Wispr Flow-inspired voice input for any web
-              app</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-21 @ 15:52:15</span
-              ><span class="points-container"
-                >Points: <span class="points">10</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46707409"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I was inspired by Wispr Flow and wanted the same workflow inside
-                business apps (CRMs, docs, forms, support tools), not just a
-                standalone tool. It’s saved me a massive amount of time vs
-                typing.
-              </p>
-              <p>
-                How it works: add a couple lines of JS plus an API key, and
-                SpeechOS shows a small mic widget on every text field.
-              </p>
-              <p>
-                Live demo:
-                <a href="https://www.speechos.ai/">https://www.speechos.ai/</a>
-              </p>
-              <p>
-                (Click a text box and the mic widget appears; click the gear
-                icon to see settings, custom vocabulary, and snippet
-                configuration.)
-              </p>
-              <p>Users can:</p>
-              <p>
-                - Dictate: speak naturally, real-time voice to polished text
-                (punctuation, no filler/typos)
-              </p>
-              <p>
-                - Edit: say “make it shorter”, “fix grammar”, “translate...”
-              </p>
-              <p>
-                - Command: define Siri-style app actions (for example, “submit
-                form”, “mark complete”), and we match intent to your commands
-              </p>
-              <p>It also supports:</p>
-              <p>
-                - Custom vocabulary: domain terms and names (product names,
-                acronyms, jargon) so they transcribe correctly
-              </p>
-              <p>
-                - Text snippets: saved reusable blocks of text you can insert by
-                voice (for example, “my signature”, “disclaimer”, “my address”)
-              </p>
-              <p>
-                Why: text entry speed and accuracy still matter for productivity
-                tools. A large-scale text entry dataset with 37,370 participants
-                showed an average typing speed of 36.2 WPM and ~2.3% uncorrected
-                errors. In speech research, speech recognition was about 3×
-                faster than keyboard input and had ~20.4% lower error rate for
-                English text entry. (<a
-                  href="https://hci.stanford.edu/research/speech/"
-                  >https://hci.stanford.edu/research/speech/</a
-                >)
-              </p>
-              <p>
-                SpeechOS is currently in beta and free for now. Sign up at
-                <a href="https://app.speechos.ai/accounts/signup/"
-                  >https://app.speechos.ai/accounts/signup/</a
-                >
-                and enter this HN-only beta code: HN-JFc74cVC (please don’t
-                share outside HN).
-              </p>
-              <p>Links:</p>
-              <p>
-                SDK repo:
-                <a href="https://github.com/speechos-org/speechos-client"
-                  >https://github.com/speechos-org/speechos-client</a
-                >
-              </p>
-              <p>
-                Demo:
-                <a href="https://www.speechos.ai/">https://www.speechos.ai/</a>
-              </p>
-              <p>
-                Signup (code: HN-JFc74cVC):
-                <a href="https://app.speechos.ai/accounts/signup/"
-                  >https://app.speechos.ai/accounts/signup/</a
-                >
-              </p>
-              <p>I’d love feedback on:</p>
-              <p>
-                1) Where this is most valuable in your stack (notes? docs? CRM
-                entry? support macros?)
-              </p>
-              <p>
-                2) What you’d want from voice commands/snippets configuration
-              </p>
-              <p>
-                3) What would make you comfortable shipping this
-                (privacy/security, latency, pricing)
-              </p>
-              <p>
-                If you’re building anything in voice AI/dictation, I’d be happy
-                to swap notes (david@speechos.ai).
-              </p>
-            </div>
-          </section>
-        </section>
         <section id="46706906">
           <h3>
             <a class="item" href="https://skip.dev/blog/skip-is-free/"
-              >Skip Is Now Free and Open Source</a
+              >Skip is now free and open source</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-01-21 @ 15:20:53</span
               ><span class="points-container"
-                >Points: <span class="points">213</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46706906"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46706564">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=46706564"
+              >Show HN: Amazon shopping automation without vision</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-21 @ 14:56:32</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46706564"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                This post summarizes four runs of the same task (search → first
+                product → add to cart → checkout on Amazon). The key comparison
+                is Demo 0 (cloud baseline) vs Demo 3 (local autonomy); Demos 1–2
+                are intermediate controls.
+              </p>
+              <p>
+                More technical detail (architecture, code excerpts, additional
+                log snippets):
+              </p>
+              <p>
+                https://www.sentienceapi.com/blog/verification-layer-amazon-case-study
+              </p>
+              <p>Demo 0 vs Demo 3:</p>
+              <p>
+                Demo 0 (cloud, GLM‑4.6 + structured snapshots) success: 1/1 run
+                tokens: 19,956 (~43% reduction vs ~35k estimate) time: ~60,000ms
+                cost: cloud API (varies) vision: not required
+              </p>
+              <p>
+                Demo 3 (local, DeepSeek R1 planner + Qwen ~3B executor) success:
+                7/7 steps (re-run) tokens: 11,114 time: 405,740ms cost: $0.00
+                incremental (local inference) vision: not required
+              </p>
+              <p>
+                Latency note: the local stack is slower end-to-end here largely
+                because inference runs on local hardware (Mac Studio with M4);
+                the cloud baseline benefits from hosted inference, but has
+                per-token API cost.
+              </p>
+              <p>Architecture</p>
+              <p>
+                This worked because we changed the control plane and added a
+                verification loop.
+              </p>
+              <p>
+                1) Constrain what the model sees (DOM pruning). We don’t feed
+                the entire DOM or screenshots. We collect raw elements, then run
+                a WASM pass to produce a compact “semantic snapshot”
+                (roles/text/geometry) and prune the rest (often on the order of
+                ~95% of nodes).
+              </p>
+              <p>2) Split reasoning from acting (planner vs executor).</p>
+              <p>
+                Planner (reasoning): DeepSeek R1 (local) generates step intent +
+                what must be true afterward. Executor (action): Qwen ~3B (local)
+                selects concrete DOM actions like CLICK(id) / TYPE(text). 3)
+                Gate every step with Jest‑style verification. After each action,
+                we assert state changes (URL changed, element exists/doesn’t
+                exist, modal/drawer appeared). If a required assertion fails,
+                the step fails with artifacts and bounded retries.
+              </p>
+              <p>Minimal shape:</p>
+              <p>
+                ok = await runtime.check( exists("role=textbox"),
+                label="search_box_visible", required=True,
+                ).eventually(timeout_s=10.0, poll_s=0.25,
+                max_snapshot_attempts=3)
+              </p>
+              <p>
+                What changed between “agents that look smart” and agents that
+                work Two examples from the logs:
+              </p>
+              <p>
+                Deterministic override to enforce “first result” intent:
+                “Executor decision … [override] first_product_link -&gt;
+                CLICK(1022)”
+              </p>
+              <p>
+                Drawer handling that verifies and forces the correct branch:
+                “result: PASS | add_to_cart_verified_after_drawer”
+              </p>
+              <p>
+                The important point is that these are not post‑hoc analytics.
+                They are inline gates: the system either proves it made progress
+                or it stops and recovers.
+              </p>
+              <p>
+                Takeaway If you’re trying to make browser agents reliable, the
+                highest‑leverage move isn’t a bigger model. It’s constraining
+                the state space and making success/failure explicit with
+                per-step assertions.
+              </p>
+              <p>
+                Reliability in agents comes from verification (assertions on
+                structured snapshots), not just scaling model size.
+              </p>
+            </div>
           </section>
         </section>
         <section id="46706528">
@@ -706,11 +729,11 @@
             <h4>
               <span>2026-01-21 @ 14:54:56</span
               ><span class="points-container"
-                >Points: <span class="points">430</span></span
+                >Points: <span class="points">441</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46706528"
                   >Comments</a
-                ><span class="descendants">: 136</span></span
+                ><span class="descendants">: 138</span></span
               >
             </h4>
             <div class="text">
@@ -759,7 +782,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46706442"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
             <div class="text">
@@ -834,7 +857,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46705830"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
             <div class="text">
@@ -863,42 +886,104 @@
             </div>
           </section>
         </section>
+        <section id="46705676">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=46705676"
+              >Tell HN: 2 years building a kids audio app as a solo dev –
+              lessons learned</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-21 @ 13:49:07</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46705676"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I started Muky in April 2024. Classic side project that got out
+                of hand. We have two kids - the younger one is happy with the
+                Toniebox, but our older one outgrew it. She started asking for
+                specific songs, audiobooks that aren't available as figurines,
+                and "the music from that movie."
+              </p>
+              <p>
+                We had an old iPad Mini lying around and already pay for Apple
+                Music. Felt dumb to keep buying €17/$20 figurines for 30-45
+                minutes of content when we have 100 million songs.
+              </p>
+              <p>Now at version 4.0 after ~20 updates. Some lessons:</p>
+              <p>
+                On the hardware vs app tradeoff: Toniebox and Yoto are brilliant
+                for little ones – tactile, simple, no screen needed. But they
+                hit a wall once kids want more. And handing a 5-year-old Apple
+                Music means infinite scrolling and "Dad, what's this song
+                about?" Muky sits in between – full library access, but parents
+                control what's visible.
+              </p>
+              <p>
+                On sharing: Remember lending CDs or cassettes to friends? Or
+                kids swapping Tonie figurines at a playdate? I wanted that for a
+                digital app. So I built QR code sharing. Scan, import, done. And
+                unlike a physical thing – both keep a copy.
+              </p>
+              <p>
+                On onboarding: First versions: empty app, figure it out
+                yourself. Retention was awful. Now: 4-step onboarding that
+                actually guides you. Should've done this from the start.
+              </p>
+              <p>
+                On content discovery: 100 million songs sounds great until you
+                have to find something. Parents don't want to search – they want
+                suggestions. Spent a lot of time building a Browse tab with
+                curated albums and audiobooks for kids. Finally feels like the
+                app helps you instead of just waiting for input.
+              </p>
+              <p>
+                On going native: Went with Swift/SwiftUI instead of Flutter or
+                React Native. No regrets - SwiftUI is a joy to work with and
+                performance is great. Android users ask for a port regularly. No
+                capacity for that now, but Swift for Android is progressing (<a
+                  href="https://www.swift.org/documentation/articles/swift-sdk-for-android-getting-started.html"
+                  >https://www.swift.org/documentation/articles/swift-sdk-for-a...</a
+                >). Maybe one day. CarPlay is another one parents keep asking
+                for – going native should make that easier to add, if Apple
+                grants me the entitlement.
+              </p>
+              <p>
+                On subscriptions vs one-time: Started with one-time purchase.
+                Revenue spikes at launch, then nothing. Switched to subscription
+                – existing one-time buyers kept full access. Harder to sell, but
+                sustainable.
+              </p>
+              <p>
+                Ask me anything about indie iOS dev or building for kids. App is
+                at <a href="https://muky.app">https://muky.app</a> if you're
+                curious.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="46705201">
           <h3>
             <a class="item" href="https://susam.net/nested-code-fences.html"
-              >Nested Code Fences in Markdown</a
+              >Nested code fences in Markdown</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-01-21 @ 13:08:35</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46705201"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46702980">
-          <h3>
-            <a
-              class="item"
-              href="https://hugues.betakappaphi.com/2026/01/19/sway-layout/"
-              >I finally got my sway layout to autostart the way I like it</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-21 @ 09:04:42</span
-              ><span class="points-container"
-                >Points: <span class="points">10</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46702980"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -915,11 +1000,11 @@
             <h4>
               <span>2026-01-21 @ 07:48:06</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46702411"
                   >Comments</a
-                ><span class="descendants">: 192</span></span
+                ><span class="descendants">: 195</span></span
               >
             </h4>
           </section>
@@ -927,18 +1012,18 @@
         <section id="46676861">
           <h3>
             <a class="item" href="https://kerkour.com/introduction-rust-simd"
-              >SIMD Programming in Pure Rust</a
+              >SIMD programming in pure Rust</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-01-19 @ 09:39:02</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46676861"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -954,11 +1039,31 @@
             <h4>
               <span>2026-01-17 @ 21:23:58</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46662247"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46658133">
+          <h3>
+            <a class="item" href="https://www.ratatui-ruby.dev/"
+              >Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with
+              the joy of Ruby</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-17 @ 14:03:00</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46658133"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -968,18 +1073,18 @@
             <a
               class="item"
               href="https://borretti.me/article/letting-claude-play-text-adventures"
-              >Letting Claude Play Text Adventures</a
+              >Letting Claude play text adventures</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-01-16 @ 21:02:25</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46652173"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
