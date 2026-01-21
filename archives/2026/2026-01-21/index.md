@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 04:46:28](https://news.ycombinator.com/item?id=46701239) - [Germany Forces Lexus to Remotely Kill Car Heating in Dead of Winter](https://www.gadgetreview.com/germany-forces-lexus-to-remotely-kill-car-heating-in-dead-of-winter)
+* [2026-01-21, 04:27:08](https://news.ycombinator.com/item?id=46701114) - [Libbbf: Bound Book Format, A high-performance container for comics and manga](https://github.com/ef1500/libbbf)
 * [2026-01-21, 03:38:57](https://news.ycombinator.com/item?id=46700809) - [Disaster planning for regular folks (2015)](https://lcamtuf.coredump.cx/prep/index-old.shtml)
 * [2026-01-21, 02:54:32](https://news.ycombinator.com/item?id=46700594) - [Anthropic's original take home assignment open sourced](https://github.com/anthropics/original_performance_takehome)
 * [2026-01-21, 01:37:41](https://news.ycombinator.com/item?id=46700146) - [Verizon starts requiring 365 days of paid service before it will unlock phones](https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/)
