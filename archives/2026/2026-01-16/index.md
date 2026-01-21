@@ -34,6 +34,7 @@
 * [2026-01-16, 17:00:29](https://news.ycombinator.com/item?id=46648714) - [Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/)
 * [2026-01-16, 16:20:21](https://news.ycombinator.com/item?id=46648144) - [Launch HN: Indy (YC S21) – A support app designed for ADHD brains](https://www.shimmer.care/indy-redirect)
 * [2026-01-16, 15:37:19](https://news.ycombinator.com/item?id=46647491) - [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
+* [2026-01-16, 15:27:46](https://news.ycombinator.com/item?id=46647358) - [The GDB JIT Interface](https://bernsteinbear.com/blog/gdb-jit/)
 * [2026-01-16, 15:04:22](https://news.ycombinator.com/item?id=46647059) - [Read_once(), Write_once(), but Not for Rust](https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/)
 * [2026-01-16, 15:02:25](https://news.ycombinator.com/item?id=46647038) - [Cyberattack in Venezuela Demonstrated Precision of U.S. Capabilities](https://www.nytimes.com/2026/01/15/us/politics/cyberattack-venezuela-military.html)
 * [2026-01-16, 14:56:47](https://news.ycombinator.com/item?id=46646970) - [America could have $4 lunch bowls like Japan–but our zoning laws [prevent that]](https://abio.substack.com/p/america-could-have-4-lunch-bowls)
