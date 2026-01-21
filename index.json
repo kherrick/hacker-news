@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2026-01-21, 16:38:26",
+      "https://news.ycombinator.com/item?id=46708032"
+    ],
+    [
+      "JPEG XL Test Page",
+      "https://tildeweb.nl/~michiel/jxl/"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 16:15:06",
       "https://news.ycombinator.com/item?id=46707708"
     ],
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2026-01-21, 14:56:32",
-      "https://news.ycombinator.com/item?id=46706564"
-    ],
-    [
-      "Show HN: Amazon shopping automation without vision",
-      "https://news.ycombinator.com/item?id=46706564"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 14:54:56",
       "https://news.ycombinator.com/item?id=46706528"
     ],
     [
       "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
       "https://github.com/ChartGPU/ChartGPU"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 14:48:10",
-      "https://news.ycombinator.com/item?id=46706442"
-    ],
-    [
-      "Show HN: UltraContext – A simple context API for AI agents with auto-versioning",
-      "https://ultracontext.ai/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Letting Claude play text adventures",
       "https://borretti.me/article/letting-claude-play-text-adventures"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 19:34:00",
+      "https://news.ycombinator.com/item?id=46651027"
+    ],
+    [
+      "Golfing APL/K in 90 Lines of Python",
+      "https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python"
     ]
   ]
 ]
