@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-01-20, 17:24:41",
-      "https://news.ycombinator.com/item?id=46694767"
-    ],
-    [
-      "Model Market Fit",
-      "https://www.nicolasbustamante.com/p/model-market-fit"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 16:48:59",
       "https://news.ycombinator.com/item?id=46694124"
     ],
@@ -247,6 +237,16 @@
     [
       "I'm addicted to being useful",
       "https://www.seangoedecke.com/addicted-to-being-useful/"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 07:51:12",
+      "https://news.ycombinator.com/item?id=46689065"
+    ],
+    [
+      "Linux kernel framework for PCIe device emulation, in userspace",
+      "https://github.com/cakehonolulu/pciem"
     ]
   ],
   [
