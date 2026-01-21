@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 14:54:56](https://news.ycombinator.com/item?id=46706528) - [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
 * [2026-01-21, 14:12:32](https://news.ycombinator.com/item?id=46705952) - [Comic-Con Bans AI Art After Artist Pushback](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 * [2026-01-21, 14:05:51](https://news.ycombinator.com/item?id=46705870) - [Uber Faces Growing Pressure over Sexual Assault Record](https://www.nytimes.com/2026/01/21/business/uber-scrutiny-sexual-assault.html)
 * [2026-01-21, 13:52:27](https://news.ycombinator.com/item?id=46705715) - [Ireland wants to give its cops spyware, ability to crack encrypted messages](https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/)
