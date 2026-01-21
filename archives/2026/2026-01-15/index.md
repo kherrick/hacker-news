@@ -15,6 +15,7 @@
 * [2026-01-15, 21:55:36](https://news.ycombinator.com/item?id=46639897) - [The Space and Motion of Communicating Agents (2008) [pdf]](https://www.cl.cam.ac.uk/archive/rm135/Bigraphs-draft.pdf)
 * [2026-01-15, 21:50:55](https://news.ycombinator.com/item?id=46639843) - [Nuudel: Non-Tracking Appointment Tool](https://nuudel.digitalcourage.de/)
 * [2026-01-15, 21:13:38](https://news.ycombinator.com/item?id=46639401) - [European troops arrive in Greenland to boost the Arctic island's security](https://www.npr.org/2026/01/15/g-s1-106113/european-troops-arrive-greenland)
+* [2026-01-15, 21:07:30](https://news.ycombinator.com/item?id=46639325) - [Proof of Concept to Test Humanoid Robots](https://thehumanoid.ai/humanoid-and-siemens-completed-a-proof-of-concept-to-test-humanoidrobots-in-industrial-logistics/)
 * [2026-01-15, 21:00:42](https://news.ycombinator.com/item?id=46639248) - [Aviator (YC S21) is hiring to build multiplayer AI coding platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2026-01-15, 20:36:10](https://news.ycombinator.com/item?id=46638894) - [Show HN: The Hessian of tall-skinny networks is easy to invert](https://github.com/a-rahimi/hessian)
 * [2026-01-15, 20:30:05](https://news.ycombinator.com/item?id=46638798) - [ChatGPT wrote \"Goodnight Moon\" suicide lullaby for man who later killed himself](https://arstechnica.com/tech-policy/2026/01/chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself/)
