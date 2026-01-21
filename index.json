@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-21, 06:07:03",
+      "https://news.ycombinator.com/item?id=46701733"
+    ],
+    [
+      "Curl removes bug bounties because of AI slop",
+      "https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 04:27:08",
       "https://news.ycombinator.com/item?id=46701114"
     ],
@@ -27,16 +37,6 @@
     [
       "Anthropic's original take home assignment open sourced",
       "https://github.com/anthropics/original_performance_takehome"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 01:37:41",
-      "https://news.ycombinator.com/item?id=46700146"
-    ],
-    [
-      "Verizon starts requiring 365 days of paid service before it will unlock phones",
-      "https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-01-17, 09:55:56",
+      "https://news.ycombinator.com/item?id=46656759"
+    ],
+    [
+      "Show HN: I built a tool to assist AI agents to know when a PR is good to go",
+      "https://dsifry.github.io/goodtogo/"
+    ]
+  ],
+  [
+    [
       "2026-01-16, 21:37:51",
       "https://news.ycombinator.com/item?id=46652569"
     ],
@@ -277,16 +287,6 @@
     [
       "The GDB JIT Interface",
       "https://bernsteinbear.com/blog/gdb-jit/"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 02:57:37",
-      "https://news.ycombinator.com/item?id=46642490"
-    ],
-    [
-      "Show HN: Aventos – An experiment in cheap AI SEO",
-      "https://www.aventos.dev/"
     ]
   ],
   [
