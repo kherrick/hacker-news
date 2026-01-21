@@ -1,22 +1,32 @@
 [
   [
     [
-      "2026-01-21, 00:21:13",
-      "https://news.ycombinator.com/item?id=46699597"
+      "2026-01-21, 03:38:57",
+      "https://news.ycombinator.com/item?id=46700809"
     ],
     [
-      "Who Owns Rudolph's Nose?",
-      "https://creativelawcenter.com/copyright-rudolph-reindeer/"
+      "Disaster planning for regular folks (2015)",
+      "https://lcamtuf.coredump.cx/prep/index-old.shtml"
     ]
   ],
   [
     [
-      "2026-01-21, 00:05:10",
-      "https://news.ycombinator.com/item?id=46699441"
+      "2026-01-21, 01:37:41",
+      "https://news.ycombinator.com/item?id=46700146"
     ],
     [
-      "Show HN: macOS native DAW with Git branching model",
-      "https://www.scratchtrackaudio.com"
+      "Verizon starts requiring 365 days of paid service before it will unlock phones",
+      "https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 00:21:13",
+      "https://news.ycombinator.com/item?id=46699597"
+    ],
+    [
+      "Who owns Rudolph's nose?",
+      "https://creativelawcenter.com/copyright-rudolph-reindeer/"
     ]
   ],
   [
@@ -25,8 +35,18 @@
       "https://news.ycombinator.com/item?id=46699072"
     ],
     [
-      "Claude Chill: Fix Claude Code's Flickering in Terminal",
+      "Claude Chill: Fix Claude Code's flickering in terminal",
       "https://github.com/davidbeesley/claude-chill"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 22:42:55",
+      "https://news.ycombinator.com/item?id=46698684"
+    ],
+    [
+      "Show HN: Parallel Agentic Search on the Twitter Algorithm",
+      "https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm"
     ]
   ],
   [
@@ -81,12 +101,12 @@
   ],
   [
     [
-      "2026-01-20, 21:34:06",
-      "https://news.ycombinator.com/item?id=46698038"
+      "2026-01-20, 21:05:02",
+      "https://news.ycombinator.com/item?id=46697735"
     ],
     [
-      "The world of Japanese snack bars",
-      "https://www.bbc.com/travel/article/20260116-inside-the-secret-world-of-japanese-snack-bars"
+      "Ask HN: Revive a mostly dead Discord server",
+      "https://news.ycombinator.com/item?id=46697735"
     ]
   ],
   [
@@ -111,6 +131,16 @@
   ],
   [
     [
+      "2026-01-20, 19:03:38",
+      "https://news.ycombinator.com/item?id=46696303"
+    ],
+    [
+      "IPv6 is not insecure because it lacks a NAT",
+      "https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 19:01:30",
       "https://news.ycombinator.com/item?id=46696276"
     ],
@@ -127,6 +157,16 @@
     [
       "A 26,000-year astronomical monument hidden in plain sight (2019)",
       "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 17:08:43",
+      "https://news.ycombinator.com/item?id=46694482"
+    ],
+    [
+      "'The old order is not coming back,' Carney says in speech at Davos",
+      "https://www.cbc.ca/news/politics/carney-davos-speech-9.7052725"
     ]
   ],
   [
@@ -151,56 +191,6 @@
   ],
   [
     [
-      "2026-01-20, 16:25:33",
-      "https://news.ycombinator.com/item?id=46693728"
-    ],
-    [
-      "Cloudflare zero-day: Accessing any host globally",
-      "https://fearsoff.org/research/cloudflare-acme"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 15:56:07",
-      "https://news.ycombinator.com/item?id=46693205"
-    ],
-    [
-      "Nvidia Stock Crash Prediction",
-      "https://entropicthoughts.com/nvidia-stock-crash-prediction"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 15:19:22",
-      "https://news.ycombinator.com/item?id=46692692"
-    ],
-    [
-      "Dockerhub for Skill.md",
-      "https://skillregistry.io/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 15:11:45",
-      "https://news.ycombinator.com/item?id=46692594"
-    ],
-    [
-      "Danish pension fund divesting US Treasuries",
-      "https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 14:47:50",
-      "https://news.ycombinator.com/item?id=46692347"
-    ],
-    [
-      "Show HN: TopicRadar – Track trending topics across HN, GitHub, ArXiv, and more",
-      "https://apify.com/mick-johnson/topic-radar"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 14:23:44",
       "https://news.ycombinator.com/item?id=46692116"
     ],
@@ -217,16 +207,6 @@
     [
       "IP Addresses Through 2025",
       "https://www.potaroo.net/ispcol/2026-01/addr2025.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 12:45:57",
-      "https://news.ycombinator.com/item?id=46691243"
-    ],
-    [
-      "Ask HN: Do you have any evidence that agentic coding works?",
-      "https://news.ycombinator.com/item?id=46691243"
     ]
   ],
   [
@@ -251,6 +231,26 @@
   ],
   [
     [
+      "2026-01-20, 04:14:12",
+      "https://news.ycombinator.com/item?id=46687841"
+    ],
+    [
+      "RCS for Business",
+      "https://developers.google.com/business-communications/rcs-business-messaging"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 00:23:01",
+      "https://news.ycombinator.com/item?id=46686418"
+    ],
+    [
+      "Scaling long-running autonomous coding",
+      "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/"
+    ]
+  ],
+  [
+    [
       "2026-01-19, 09:19:45",
       "https://news.ycombinator.com/item?id=46676708"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=46675630"
     ],
     [
-      "Are Arrays Functions?",
+      "Are arrays functions?",
       "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html"
     ]
   ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-01-16, 21:37:51",
-      "https://news.ycombinator.com/item?id=46652569"
+      "2026-01-16, 02:57:37",
+      "https://news.ycombinator.com/item?id=46642490"
     ],
     [
-      "Fast Concordance: Instant concordance on a corpus of >1,200 books",
-      "https://iafisher.com/concordance/"
+      "Show HN: Aventos – An experiment in cheap AI SEO",
+      "https://www.aventos.dev/"
     ]
   ],
   [
     [
-      "2026-01-15, 13:56:42",
-      "https://news.ycombinator.com/item?id=46632593"
+      "2026-01-15, 21:07:30",
+      "https://news.ycombinator.com/item?id=46639325"
     ],
     [
-      "Catching API regressions with snapshot testing",
-      "https://kreya.app/blog/api-snapshot-testing/"
+      "Proof of Concept to Test Humanoid Robots",
+      "https://thehumanoid.ai/humanoid-and-siemens-completed-a-proof-of-concept-to-test-humanoidrobots-in-industrial-logistics/"
     ]
   ]
 ]
