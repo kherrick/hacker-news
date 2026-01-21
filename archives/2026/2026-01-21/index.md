@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 14:12:32](https://news.ycombinator.com/item?id=46705952) - [Comic-Con Bans AI Art After Artist Pushback](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+* [2026-01-21, 14:05:51](https://news.ycombinator.com/item?id=46705870) - [Uber Faces Growing Pressure over Sexual Assault Record](https://www.nytimes.com/2026/01/21/business/uber-scrutiny-sexual-assault.html)
+* [2026-01-21, 13:52:27](https://news.ycombinator.com/item?id=46705715) - [Ireland wants to give its cops spyware, ability to crack encrypted messages](https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/)
+* [2026-01-21, 13:42:53](https://news.ycombinator.com/item?id=46705606) - [AI Destroys Institutions](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 * [2026-01-21, 13:25:06](https://news.ycombinator.com/item?id=46705385) - [Canada Announces Divorce from America](https://charlotteclymer.substack.com/p/canada-announces-divorce-from-america)
 * [2026-01-21, 13:08:35](https://news.ycombinator.com/item?id=46705201) - [Nested Code Fences in Markdown](https://susam.net/nested-code-fences.html)
 * [2026-01-21, 12:46:27](https://news.ycombinator.com/item?id=46704943) - [Vibecoding #2](https://matklad.github.io/2026/01/20/vibecoding-2.html)
