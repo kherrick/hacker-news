@@ -27,6 +27,7 @@
 * [2026-01-17, 19:39:36](https://news.ycombinator.com/item?id=46661308) - [Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)](https://github.com/whispem/minikv)
 * [2026-01-17, 19:31:15](https://news.ycombinator.com/item?id=46661231) - [OpenAI to test ads in ChatGPT as it burns through billions](https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/)
 * [2026-01-17, 19:29:04](https://news.ycombinator.com/item?id=46661217) - [Canada's deal with China signals it is serious about shift from US](https://www.bbc.com/news/articles/cm24k6kk1rko)
+* [2026-01-17, 19:24:28](https://news.ycombinator.com/item?id=46661167) - [My first year in sales as technical founder](https://www.fabiandietrich.com/blog/first-year-in-sales.html)
 * [2026-01-17, 19:21:38](https://news.ycombinator.com/item?id=46661132) - [Why Twenty Years of DevOps Has Failed to Do It](https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it)
 * [2026-01-17, 18:42:39](https://news.ycombinator.com/item?id=46660663) - [The thing that brought me joy](https://www.stephenlewis.me/blog/the-thing-that-brought-me-joy/)
 * [2026-01-17, 18:29:00](https://news.ycombinator.com/item?id=46660543) - [Raising money fucked me up](https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up)

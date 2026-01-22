@@ -6,6 +6,7 @@
 
 * [2026-01-22, 20:27:23](https://news.ycombinator.com/item?id=46724714) - [Goldman Sachs Global Macro Research: Gen AI: too much spend, too little benefit [pdf]](https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend,-too-little-benefit-/TOM_AI%202.0_ForRedaction.pdf&originalQuery=&referrer=)
 * [2026-01-22, 20:24:06](https://news.ycombinator.com/item?id=46724675) - [Vargai/SDK – JSX for AI Video. Declarative Programming Language for Claude Code](https://varg.ai/sdk)
+* [2026-01-22, 20:12:26](https://news.ycombinator.com/item?id=46724565) - [Show HN: CLI for working with Apple Core ML models](https://github.com/schappim/coreml-cli)
 * [2026-01-22, 20:10:25](https://news.ycombinator.com/item?id=46724542) - [Taming P99s in OpenFGA: How we built a self-tuning strategy planner](https://auth0.com/blog/self-tuning-strategy-planner-openfga/)
 * [2026-01-22, 19:34:54](https://news.ycombinator.com/item?id=46724095) - [AI code review needs specialized agents, not bigger models](https://www.qodo.ai/blog/the-next-generation-of-ai-code-review-from-isolated-to-system-intelligence/)
 * [2026-01-22, 19:27:32](https://news.ycombinator.com/item?id=46723990) - [Why does SSH send 100 packets per keystroke?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/)
