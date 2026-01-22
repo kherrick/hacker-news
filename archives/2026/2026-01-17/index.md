@@ -16,6 +16,7 @@
 * [2026-01-17, 21:39:35](https://news.ycombinator.com/item?id=46662390) - [Show HN: E80: an 8-bit CPU in structural VHDL](https://github.com/Stokpan/E80)
 * [2026-01-17, 21:23:58](https://news.ycombinator.com/item?id=46662247) - [The WebRacket language is a subset of Racket that compiles to WebAssembly](https://github.com/soegaard/webracket)
 * [2026-01-17, 21:03:52](https://news.ycombinator.com/item?id=46662078) - [Show HN: ChunkHound, a local-first tool for understanding large codebases](https://github.com/chunkhound/chunkhound)
+* [2026-01-17, 20:56:03](https://news.ycombinator.com/item?id=46662001) - [A Year of 3D Printing](https://brookehatton.com/blog/making/a-year-of-3d-printing/)
 * [2026-01-17, 20:49:15](https://news.ycombinator.com/item?id=46661936) - [The Death of Software Development](https://mike.tech/blog/death-of-software-development)
 * [2026-01-17, 20:44:52](https://news.ycombinator.com/item?id=46661897) - [A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
 * [2026-01-17, 20:19:46](https://news.ycombinator.com/item?id=46661644) - [Simulating the Ladybug Clock Puzzle](https://austinhenley.com/blog/ladybugclock.html)
