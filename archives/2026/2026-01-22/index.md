@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 16:13:16](https://news.ycombinator.com/item?id=46721220) - [Zack Polanski to hand in NHS contract termination notice to Palantir](https://www.thecanary.co/uk/news/2026/01/22/zack-polanski-to-hand-in-nhs-contract-termination-notice-to-palantir/)
+* [2026-01-22, 16:10:02](https://news.ycombinator.com/item?id=46721172) - [Interfaces and Traits in C](https://antonz.org/interfaces-in-c/)
 * [2026-01-22, 15:20:48](https://news.ycombinator.com/item?id=46720395) - [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
 * [2026-01-22, 14:47:58](https://news.ycombinator.com/item?id=46719899) - [Tree-sitter vs. Language Servers](https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/)
 * [2026-01-22, 14:32:52](https://news.ycombinator.com/item?id=46719704) - [Palantir, Meta, OpenAI Execs Appointed Lieutenant Colonels in US Army](https://twitter.com/SecArmy/status/1933693585183965372)
@@ -22,6 +24,7 @@
 * [2026-01-22, 11:51:10](https://news.ycombinator.com/item?id=46718061) - [Design Thinking Books You Must Read](https://www.designorate.com/design-thinking-books/)
 * [2026-01-22, 10:48:27](https://news.ycombinator.com/item?id=46717556) - [We will ban you and ridicule you in public if you waste our time on crap reports](https://curl.se/.well-known/security.txt)
 * [2026-01-22, 10:41:23](https://news.ycombinator.com/item?id=46717507) - [ISO PDF spec is getting Brotli – ~20 % smaller documents with no quality loss](https://pdfa.org/want-to-make-your-pdfs-20-smaller-for-free/)
+* [2026-01-22, 10:30:07](https://news.ycombinator.com/item?id=46717442) - [The mushroom making people hallucinate tiny humans](https://www.bbc.com/future/article/20260121-the-mysterious-mushroom-that-makes-you-see-tiny-people)
 * [2026-01-22, 08:44:56](https://news.ycombinator.com/item?id=46716696) - [In Praise of APL (1977)](https://www.jsoftware.com/papers/perlis77.htm)
 * [2026-01-22, 08:21:12](https://news.ycombinator.com/item?id=46716560) - [SpaceX lowering orbits of 4,400 Starlink satellites for safety's sake](https://www.space.com/space-exploration/satellites/spacex-lowering-orbits-of-4-400-starlink-satellites-for-safetys-sake)
 * [2026-01-22, 08:03:57](https://news.ycombinator.com/item?id=46716469) - [30 Years of ReactOS](https://reactos.org/blogs/30yrs-of-ros/)
