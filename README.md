@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-22, 23:04:25](https://news.ycombinator.com/item?id=46726259) - [FIPS Dependencies and Prebuilt Binaries](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/)
+* [2026-01-22, 23:04:25](https://news.ycombinator.com/item?id=46726259) - [Fips dependencies and prebuilt binaries](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/)
 * [2026-01-22, 21:54:02](https://news.ycombinator.com/item?id=46725632) - [Anthropic Economic Index economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)
 * [2026-01-22, 21:43:14](https://news.ycombinator.com/item?id=46725522) - [Viking Ship Museum in Denmark announces the discovery of the largest cog](https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/)
 * [2026-01-22, 21:31:59](https://news.ycombinator.com/item?id=46725389) - [Extracting a UART Password via SPI Flash Instruction Tracing](https://zuernerd.github.io/blog/2026/01/07/switch-password.html)
