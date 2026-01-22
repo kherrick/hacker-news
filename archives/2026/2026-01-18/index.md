@@ -8,6 +8,7 @@
 * [2026-01-18, 23:24:55](https://news.ycombinator.com/item?id=46673264) - [Prediction: Microsoft Is Going to Do the Funniest Thing Imaginable](https://gamesbymason.com/blog/2026/microsoft/)
 * [2026-01-18, 23:09:05](https://news.ycombinator.com/item?id=46673141) - [Cracking DXP and SXD](http://www.os2museum.com/wp/cracking-dxp-and-sxd/)
 * [2026-01-18, 22:34:24](https://news.ycombinator.com/item?id=46672858) - [Ultrathink is deprecated & How to enable 2x thinking tokens in Claude Code](https://decodeclaude.com/ultrathink-deprecated/)
+* [2026-01-18, 22:16:43](https://news.ycombinator.com/item?id=46672713) - [App Subscription is now my Weekend Project](https://rselbach.com/your-sub-is-now-my-weekend-project)
 * [2026-01-18, 22:15:01](https://news.ycombinator.com/item?id=46672701) - [Simple GIS on Potato](https://github.com/blue-monads/potato-apps/tree/master/cimple-gis)
 * [2026-01-18, 22:08:36](https://news.ycombinator.com/item?id=46672653) - [Trump's Fed fight looks like something from another country](https://www.bbc.com/news/articles/cy9yxlz70dvo)
 * [2026-01-18, 21:10:08](https://news.ycombinator.com/item?id=46672181) - [Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza)
