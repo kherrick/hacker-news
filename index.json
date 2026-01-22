@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-22, 16:13:16",
+      "https://news.ycombinator.com/item?id=46721220"
+    ],
+    [
+      "Zack Polanski to hand in NHS contract termination notice to Palantir",
+      "https://www.thecanary.co/uk/news/2026/01/22/zack-polanski-to-hand-in-nhs-contract-termination-notice-to-palantir/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 16:10:02",
+      "https://news.ycombinator.com/item?id=46721172"
+    ],
+    [
+      "Interfaces and Traits in C",
+      "https://antonz.org/interfaces-in-c/"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 15:20:48",
       "https://news.ycombinator.com/item?id=46720395"
     ],
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2026-01-22, 10:30:07",
+      "https://news.ycombinator.com/item?id=46717442"
+    ],
+    [
+      "The mushroom making people hallucinate tiny humans",
+      "https://www.bbc.com/future/article/20260121-the-mysterious-mushroom-that-makes-you-see-tiny-people"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 08:44:56",
       "https://news.ycombinator.com/item?id=46716696"
     ],
@@ -127,16 +157,6 @@
     [
       "Doctors in Brazil using tilapia fish skin to treat burn victims",
       "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 01:11:36",
-      "https://news.ycombinator.com/item?id=46713929"
-    ],
-    [
-      "Significant US farm losses persist, despite federal assistance",
-      "https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-01-21, 17:21:26",
-      "https://news.ycombinator.com/item?id=46708601"
-    ],
-    [
-      "TrustTunnel: AdGuard VPN protocol goes open-source",
-      "https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 16:04:49",
       "https://news.ycombinator.com/item?id=46707572"
     ],
@@ -241,22 +251,22 @@
   ],
   [
     [
+      "2026-01-19, 20:48:04",
+      "https://news.ycombinator.com/item?id=46684299"
+    ],
+    [
+      "Joe Armstrong and Jeremy Ruston – Intertwingling the Tiddlywiki with Erlang [video]",
+      "https://www.youtube.com/watch?v=Uv1UfLPK7_Q"
+    ]
+  ],
+  [
+    [
       "2026-01-19, 06:36:57",
       "https://news.ycombinator.com/item?id=46675669"
     ],
     [
       "Show HN: Interactive physics simulations I built while teaching my daughter",
       "https://www.projectlumen.app/"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 22:47:27",
-      "https://news.ycombinator.com/item?id=46672957"
-    ],
-    [
-      "The Human in the Loop",
-      "https://adventures.nodeland.dev/archive/the-human-in-the-loop/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The Science of Life and Death in Mary Shelley's Frankenstein",
       "https://publicdomainreview.org/essay/the-science-of-life-and-death-in-mary-shelleys-frankenstein/"
-    ]
-  ],
-  [
-    [
-      "2026-01-17, 14:02:17",
-      "https://news.ycombinator.com/item?id=46658128"
-    ],
-    [
-      "Binary fuse filters: Fast and smaller than xor filters (2022)",
-      "https://arxiv.org/abs/2201.01174"
     ]
   ],
   [
