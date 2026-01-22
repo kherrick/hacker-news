@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 18:01:02](https://news.ycombinator.com/item?id=46722853) - [Recent discoveries on the acquisition of the highest levels of human performance](https://www.science.org/doi/abs/10.1126/science.adt7790)
 * [2026-01-22, 17:42:51](https://news.ycombinator.com/item?id=46722594) - [Macron says €300B in EU savings sent to the US every year will be invested in EU](https://old.reddit.com/r/europe/comments/1qjtvtl/macron_says_300_billion_in_european_savings_flown/)
 * [2026-01-22, 17:41:22](https://news.ycombinator.com/item?id=46722570) - [CSS Optical Illusions](https://alvaromontoro.com/blog/68091/css-optical-illusions)
 * [2026-01-22, 17:11:47](https://news.ycombinator.com/item?id=46722038) - [Downtown Denver's office vacancy rate grows to 38.2%](https://coloradosun.com/2026/01/22/denver-downtown-office-vacancy-rate-tenants-workplace/)
 * [2026-01-22, 17:03:21](https://news.ycombinator.com/item?id=46721933) - [Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance](https://constellation-io.com/)
 * [2026-01-22, 17:00:40](https://news.ycombinator.com/item?id=46721897) - [AnswerThis (YC F25) Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration)
 * [2026-01-22, 16:52:35](https://news.ycombinator.com/item?id=46721802) - [Show HN: isometric.nyc – giant isometric pixel art map of NYC](https://cannoneyed.com/isometric-nyc/)
+* [2026-01-22, 16:30:58](https://news.ycombinator.com/item?id=46721474) - [Show HN: BrowserOS – \"Claude Cowork\" in the browser (open source)](https://github.com/browseros-ai/BrowserOS)
 * [2026-01-22, 16:29:25](https://news.ycombinator.com/item?id=46721452) - [Ubisoft cancels six games including Prince of Persia and closes studios](https://www.bbc.co.uk/news/articles/c6200g826d2o)
 * [2026-01-22, 16:27:02](https://news.ycombinator.com/item?id=46721418) - [Miami, Your Waymo Ride Is Ready](https://waymo.com/blog/2026/01/miami-your-waymo-ride-is-ready)
 * [2026-01-22, 16:13:16](https://news.ycombinator.com/item?id=46721220) - [Zack Polanski to hand in NHS contract termination notice to Palantir](https://www.thecanary.co/uk/news/2026/01/22/zack-polanski-to-hand-in-nhs-contract-termination-notice-to-palantir/)
@@ -38,6 +40,7 @@
 * [2026-01-22, 08:44:56](https://news.ycombinator.com/item?id=46716696) - [In Praise of APL (1977)](https://www.jsoftware.com/papers/perlis77.htm)
 * [2026-01-22, 08:21:12](https://news.ycombinator.com/item?id=46716560) - [SpaceX lowering orbits of 4,400 Starlink satellites for safety's sake](https://www.space.com/space-exploration/satellites/spacex-lowering-orbits-of-4-400-starlink-satellites-for-safetys-sake)
 * [2026-01-22, 08:03:57](https://news.ycombinator.com/item?id=46716469) - [30 Years of ReactOS](https://reactos.org/blogs/30yrs-of-ros/)
+* [2026-01-22, 05:52:54](https://news.ycombinator.com/item?id=46715766) - [Show HN: Synesthesia, make noise music with a colorpicker](https://visualnoise.ca)
 * [2026-01-22, 05:15:46](https://news.ycombinator.com/item?id=46715600) - [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
 * [2026-01-22, 03:26:38](https://news.ycombinator.com/item?id=46714916) - [Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)
 * [2026-01-22, 01:48:44](https://news.ycombinator.com/item?id=46714192) - [Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]](https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf)
