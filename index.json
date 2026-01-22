@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-22, 20:10:25",
+      "https://news.ycombinator.com/item?id=46724542"
+    ],
+    [
+      "Taming P99s in OpenFGA: How we built a self-tuning strategy planner",
+      "https://auth0.com/blog/self-tuning-strategy-planner-openfga/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 19:34:54",
+      "https://news.ycombinator.com/item?id=46724095"
+    ],
+    [
+      "AI code review needs specialized agents, not bigger models",
+      "https://www.qodo.ai/blog/the-next-generation-of-ai-code-review-from-isolated-to-system-intelligence/"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 19:27:32",
       "https://news.ycombinator.com/item?id=46723990"
     ],
@@ -11,12 +31,42 @@
   ],
   [
     [
+      "2026-01-22, 19:20:59",
+      "https://news.ycombinator.com/item?id=46723898"
+    ],
+    [
+      "How LLM agents solve the table merging problem",
+      "https://futuresearch.ai/deep-merge-tutorial/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 19:03:56",
+      "https://news.ycombinator.com/item?id=46723694"
+    ],
+    [
+      "'Active' sitting is better for brain health: review of studies",
+      "https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 18:38:27",
       "https://news.ycombinator.com/item?id=46723384"
     ],
     [
-      "I was banned from Claude for scaffolding a Claude.md file",
+      "I was banned from Claude for scaffolding a Claude.md file?",
       "https://hugodaniel.com/posts/claude-code-banned-me/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 18:25:25",
+      "https://news.ycombinator.com/item?id=46723183"
+    ],
+    [
+      "Skill.md: An open standard for agent skills",
+      "https://www.mintlify.com/blog/skill-md"
     ]
   ],
   [
@@ -67,6 +117,26 @@
     [
       "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
       "https://cannoneyed.com/isometric-nyc/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 16:45:52",
+      "https://news.ycombinator.com/item?id=46721703"
+    ],
+    [
+      "Reverse engineering Lyft Bikes for fun (and profit?)",
+      "https://ilanbigio.com/blog/lyft-bikes.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 16:31:47",
+      "https://news.ycombinator.com/item?id=46721488"
+    ],
+    [
+      "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
+      "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video"
     ]
   ],
   [
@@ -135,18 +205,8 @@
       "https://news.ycombinator.com/item?id=46718061"
     ],
     [
-      "Design Thinking Books You Must Read",
+      "Design Thinking Books (2024)",
       "https://www.designorate.com/design-thinking-books/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 10:48:27",
-      "https://news.ycombinator.com/item?id=46717556"
-    ],
-    [
-      "We will ban you and ridicule you in public if you waste our time on crap reports",
-      "https://curl.se/.well-known/security.txt"
     ]
   ],
   [
@@ -161,62 +221,12 @@
   ],
   [
     [
-      "2026-01-22, 10:30:07",
-      "https://news.ycombinator.com/item?id=46717442"
-    ],
-    [
-      "The mushroom making people hallucinate tiny humans",
-      "https://www.bbc.com/future/article/20260121-the-mysterious-mushroom-that-makes-you-see-tiny-people"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 08:44:56",
-      "https://news.ycombinator.com/item?id=46716696"
-    ],
-    [
-      "In Praise of APL (1977)",
-      "https://www.jsoftware.com/papers/perlis77.htm"
-    ]
-  ],
-  [
-    [
       "2026-01-22, 08:03:57",
       "https://news.ycombinator.com/item?id=46716469"
     ],
     [
       "30 Years of ReactOS",
       "https://reactos.org/blogs/30yrs-of-ros/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 05:52:54",
-      "https://news.ycombinator.com/item?id=46715766"
-    ],
-    [
-      "Show HN: Synesthesia, make noise music with a colorpicker",
-      "https://visualnoise.ca"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 05:15:46",
-      "https://news.ycombinator.com/item?id=46715600"
-    ],
-    [
-      "Doctors in Brazil using tilapia fish skin to treat burn victims",
-      "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 23:22:40",
-      "https://news.ycombinator.com/item?id=46713106"
-    ],
-    [
-      "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
-      "https://huggingface.co/sweepai/sweep-next-edit-1.5B"
     ]
   ],
   [
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2026-01-21, 21:07:47",
-      "https://news.ycombinator.com/item?id=46711574"
+      "2026-01-19, 16:55:32",
+      "https://news.ycombinator.com/item?id=46681309"
     ],
     [
-      "eBay explicitly bans AI \"buy for me\" agents in user agreement update",
-      "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 20:48:04",
-      "https://news.ycombinator.com/item?id=46684299"
-    ],
-    [
-      "Joe Armstrong and Jeremy Ruston – Intertwingling the Tiddlywiki with Erlang [video]",
-      "https://www.youtube.com/watch?v=Uv1UfLPK7_Q"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 06:36:57",
-      "https://news.ycombinator.com/item?id=46675669"
-    ],
-    [
-      "Show HN: Interactive physics simulations I built while teaching my daughter",
-      "https://www.projectlumen.app/"
+      "Bootstrapping Bun",
+      "https://walters.app/blog/bootstrapping-bun"
     ]
   ],
   [
@@ -281,22 +271,32 @@
   ],
   [
     [
+      "2026-01-17, 23:33:27",
+      "https://news.ycombinator.com/item?id=46663225"
+    ],
+    [
+      "Vulnerable WhisperPair Devices – Hijack Bluetooth Accessories Using Fast Pair",
+      "https://whisperpair.eu/vulnerable-devices"
+    ]
+  ],
+  [
+    [
+      "2026-01-17, 23:29:54",
+      "https://news.ycombinator.com/item?id=46663200"
+    ],
+    [
+      "Compiling Scheme to WebAssembly",
+      "https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 17:01:43",
       "https://news.ycombinator.com/item?id=46659635"
     ],
     [
       "TTY and Buffering",
       "https://mattrighetti.com/2026/01/12/tty-and-buffering"
-    ]
-  ],
-  [
-    [
-      "2026-01-17, 16:38:39",
-      "https://news.ycombinator.com/item?id=46659396"
-    ],
-    [
-      "Pragmatic Bitmap Filters in Microsoft SQL Server",
-      "https://www.vldb.org/cidrdb/2026/i-cant-believe-its-not-yannakakis-pragmatic-bitmap-filters-in-microsoft-sql-server.html"
     ]
   ]
 ]
