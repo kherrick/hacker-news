@@ -48,6 +48,7 @@
 * [2026-01-22, 14:14:15](https://news.ycombinator.com/item?id=46719491) - [In Europe, Wind and Solar Overtake Fossil Fuels](https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels)
 * [2026-01-22, 14:14:12](https://news.ycombinator.com/item?id=46719489) - [You can now download Windows 7 and Vista ISO images with all the updates](https://www.neowin.net/news/you-can-now-download-windows-7-and-vista-iso-images-with-every-possible-update-included/)
 * [2026-01-22, 14:12:13](https://news.ycombinator.com/item?id=46719465) - [Meet the Alaska Student Arrested for Eating an AI Art Exhibit](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
+* [2026-01-22, 14:09:29](https://news.ycombinator.com/item?id=46719423) - [Show HN: I've been using AI to analyze every supplement on the market](https://pillser.com/)
 * [2026-01-22, 13:51:25](https://news.ycombinator.com/item?id=46719229) - [Qwen3-TTS Family Is Now Open Sourced: Voice Design, Clone, and Generation](https://qwen.ai/blog?id=qwen3tts-0115)
 * [2026-01-22, 13:50:48](https://news.ycombinator.com/item?id=46719222) - [Douglas Adams on the English–American cultural divide over \"heroes\"](https://shreevatsa.net/post/douglas-adams-cultural-divide/)
 * [2026-01-22, 13:18:56](https://news.ycombinator.com/item?id=46718869) - [Now with Mqtts](https://daniel.haxx.se/blog/2026/01/19/now-with-mqtts/)

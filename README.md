@@ -20,6 +20,7 @@
 * [2026-01-22, 16:10:20](https://news.ycombinator.com/item?id=46721179) - [It looks like the status/need-triage label was removed](https://github.com/google-gemini/gemini-cli/issues/16728)
 * [2026-01-22, 15:20:48](https://news.ycombinator.com/item?id=46720395) - [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
 * [2026-01-22, 14:47:58](https://news.ycombinator.com/item?id=46719899) - [Tree-sitter vs. Language Servers](https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/)
+* [2026-01-22, 14:09:29](https://news.ycombinator.com/item?id=46719423) - [Show HN: I've been using AI to analyze every supplement on the market](https://pillser.com/)
 * [2026-01-22, 13:51:25](https://news.ycombinator.com/item?id=46719229) - [Qwen3-TTS family is now open sourced: Voice design, clone, and generation](https://qwen.ai/blog?id=qwen3tts-0115)
 * [2026-01-22, 11:51:10](https://news.ycombinator.com/item?id=46718061) - [Design Thinking Books (2024)](https://www.designorate.com/design-thinking-books/)
 * [2026-01-21, 22:30:18](https://news.ycombinator.com/item?id=46712547) - [Mote: An Interactive Ecosystem Simulation [video]](https://www.youtube.com/watch?v=Hju0H3NHxVI)
@@ -29,7 +30,6 @@
 * [2026-01-17, 23:29:54](https://news.ycombinator.com/item?id=46663200) - [Compiling Scheme to WebAssembly](https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/)
 * [2026-01-17, 20:56:03](https://news.ycombinator.com/item?id=46662001) - [A Year of 3D Printing](https://brookehatton.com/blog/making/a-year-of-3d-printing/)
 * [2026-01-17, 19:24:28](https://news.ycombinator.com/item?id=46661167) - [My first year in sales as technical founder](https://www.fabiandietrich.com/blog/first-year-in-sales.html)
-* [2026-01-17, 07:25:06](https://news.ycombinator.com/item?id=46656029) - [Kip: A programming language based on grammatical cases of Turkish](https://github.com/joom/kip)
 
 ## [Archives](archives/index.md)
 
