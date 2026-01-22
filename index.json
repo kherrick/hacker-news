@@ -1,32 +1,22 @@
 [
   [
     [
+      "2026-01-22, 05:15:46",
+      "https://news.ycombinator.com/item?id=46715600"
+    ],
+    [
+      "Doctors in Brazil using tilapia fish skin to treat burn victims",
+      "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 03:26:38",
       "https://news.ycombinator.com/item?id=46714916"
     ],
     [
       "Show HN: High speed graphics rendering research with tinygrad/tinyJIT",
       "https://github.com/quantbagel/gtinygrad"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 01:11:13",
-      "https://news.ycombinator.com/item?id=46713924"
-    ],
-    [
-      "Internet voting is insecure and should not be used in public elections",
-      "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 00:34:20",
-      "https://news.ycombinator.com/item?id=46713704"
-    ],
-    [
-      "I'll pass on your zoom call",
-      "https://operand.online/chronicle/pass.zoom"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Golfing APL/K in 90 Lines of Python",
       "https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 18:16:10",
+      "https://news.ycombinator.com/item?id=46649786"
+    ],
+    [
+      "Hands-On Introduction to Unikernels",
+      "https://labs.iximiuz.com/tutorials/unikernels-intro-93976514"
     ]
   ]
 ]
