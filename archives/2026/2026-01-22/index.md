@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 03:26:38](https://news.ycombinator.com/item?id=46714916) - [Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)
 * [2026-01-22, 01:48:44](https://news.ycombinator.com/item?id=46714192) - [Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]](https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf)
 * [2026-01-22, 01:11:36](https://news.ycombinator.com/item?id=46713929) - [Significant US Farm Losses Persist, Despite Federal Assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)
 * [2026-01-22, 01:11:13](https://news.ycombinator.com/item?id=46713924) - [Internet voting is insecure and should not be used in public elections](https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/)
