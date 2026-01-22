@@ -28,6 +28,7 @@
 * [2026-01-17, 18:42:39](https://news.ycombinator.com/item?id=46660663) - [The thing that brought me joy](https://www.stephenlewis.me/blog/the-thing-that-brought-me-joy/)
 * [2026-01-17, 18:29:00](https://news.ycombinator.com/item?id=46660543) - [Raising money fucked me up](https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up)
 * [2026-01-17, 17:48:06](https://news.ycombinator.com/item?id=46660134) - [Earth is warming faster. Scientists are closing in on why](https://www.economist.com/science-and-technology/2024/12/16/earth-is-warming-faster-scientists-are-closing-in-on-why)
+* [2026-01-17, 17:36:06](https://news.ycombinator.com/item?id=46660016) - [Show HN: Differentiable Quantum Chemistry](https://github.com/lowdanie/hartree-fock-solver)
 * [2026-01-17, 17:34:25](https://news.ycombinator.com/item?id=46659990) - [OpenAI will start testing ads in ChatGPT free and Go tiers](https://twitter.com/OpenAI/status/2012223373489614951)
 * [2026-01-17, 17:31:21](https://news.ycombinator.com/item?id=46659943) - [Show HN: What if your menu bar was a keyboard-controlled command center?](https://extrabar.app/)
 * [2026-01-17, 17:29:31](https://news.ycombinator.com/item?id=46659913) - [2025 was the third hottest year on record](https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record)
