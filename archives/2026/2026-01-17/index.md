@@ -37,6 +37,7 @@
 * [2026-01-17, 16:53:24](https://news.ycombinator.com/item?id=46659550) - [An Elizabethan mansion's secrets for staying warm](https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm)
 * [2026-01-17, 16:44:45](https://news.ycombinator.com/item?id=46659465) - [Apples, Trees, and Quasimodes](https://systemstack.dev/2025/09/humane-computing/)
 * [2026-01-17, 16:43:59](https://news.ycombinator.com/item?id=46659456) - [The Resonant Computing Manifesto](https://resonantcomputing.org/)
+* [2026-01-17, 16:38:39](https://news.ycombinator.com/item?id=46659396) - [Pragmatic Bitmap Filters in Microsoft SQL Server](https://www.vldb.org/cidrdb/2026/i-cant-believe-its-not-yannakakis-pragmatic-bitmap-filters-in-microsoft-sql-server.html)
 * [2026-01-17, 16:17:58](https://news.ycombinator.com/item?id=46659219) - [Why There's No Single Best Way to Store Information](https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/)
 * [2026-01-17, 16:15:32](https://news.ycombinator.com/item?id=46659194) - [Escaping the trap of US tech dependence](https://disconnect.blog/escaping-the-trap-of-us-tech-dependence/)
 * [2026-01-17, 15:57:42](https://news.ycombinator.com/item?id=46659016) - [Gathering Linux Syscall Numbers in a C Table](https://t-cadet.github.io/programming-wisdom/#2026-01-17-gathering-linux-syscall-numbers)

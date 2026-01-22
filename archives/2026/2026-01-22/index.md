@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 17:11:47](https://news.ycombinator.com/item?id=46722038) - [Downtown Denver's office vacancy rate grows to 38.2%](https://coloradosun.com/2026/01/22/denver-downtown-office-vacancy-rate-tenants-workplace/)
+* [2026-01-22, 17:03:21](https://news.ycombinator.com/item?id=46721933) - [Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance](https://constellation-io.com/)
+* [2026-01-22, 17:00:40](https://news.ycombinator.com/item?id=46721897) - [AnswerThis (YC F25) Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration)
+* [2026-01-22, 16:52:35](https://news.ycombinator.com/item?id=46721802) - [Show HN: isometric.nyc – giant isometric pixel art map of NYC](https://cannoneyed.com/isometric-nyc/)
 * [2026-01-22, 16:29:25](https://news.ycombinator.com/item?id=46721452) - [Ubisoft cancels six games including Prince of Persia and closes studios](https://www.bbc.co.uk/news/articles/c6200g826d2o)
+* [2026-01-22, 16:27:02](https://news.ycombinator.com/item?id=46721418) - [Miami, Your Waymo Ride Is Ready](https://waymo.com/blog/2026/01/miami-your-waymo-ride-is-ready)
 * [2026-01-22, 16:13:16](https://news.ycombinator.com/item?id=46721220) - [Zack Polanski to hand in NHS contract termination notice to Palantir](https://www.thecanary.co/uk/news/2026/01/22/zack-polanski-to-hand-in-nhs-contract-termination-notice-to-palantir/)
 * [2026-01-22, 16:10:20](https://news.ycombinator.com/item?id=46721179) - [It looks like the status/need-triage label was removed](https://github.com/google-gemini/gemini-cli/issues/16728)
 * [2026-01-22, 16:10:02](https://news.ycombinator.com/item?id=46721172) - [Interfaces and Traits in C](https://antonz.org/interfaces-in-c/)
