@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-22, 18:38:27",
+      "https://news.ycombinator.com/item?id=46723384"
+    ],
+    [
+      "I was banned from Claude for scaffolding a Claude.md file",
+      "https://hugodaniel.com/posts/claude-code-banned-me/"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 18:01:02",
       "https://news.ycombinator.com/item?id=46722853"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=46721474"
     ],
     [
-      "Show HN: BrowserOS – \"Claude Cowork\" in the browser (open source)",
+      "Show HN: BrowserOS – \"Claude Cowork\" in the browser",
       "https://github.com/browseros-ai/BrowserOS"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "It looks like the status/need-triage label was removed",
       "https://github.com/google-gemini/gemini-cli/issues/16728"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 16:00:24",
-      "https://news.ycombinator.com/item?id=46721019"
-    ],
-    [
-      "Show HN: Bible translated using LLMs from source Greek and Hebrew",
-      "https://biblexica.com"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-01-18, 16:16:11",
+      "https://news.ycombinator.com/item?id=46669001"
+    ],
+    [
+      "Keeping 20k GPUs Healthy",
+      "https://modal.com/blog/gpu-health"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 17:01:43",
       "https://news.ycombinator.com/item?id=46659635"
     ],
     [
       "TTY and Buffering",
       "https://mattrighetti.com/2026/01/12/tty-and-buffering"
-    ]
-  ],
-  [
-    [
-      "2026-01-17, 16:38:39",
-      "https://news.ycombinator.com/item?id=46659396"
-    ],
-    [
-      "Pragmatic Bitmap Filters in Microsoft SQL Server",
-      "https://www.vldb.org/cidrdb/2026/i-cant-believe-its-not-yannakakis-pragmatic-bitmap-filters-in-microsoft-sql-server.html"
     ]
   ]
 ]
