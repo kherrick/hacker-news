@@ -36,6 +36,7 @@
 * [2026-01-19, 17:13:59](https://news.ycombinator.com/item?id=46681611) - [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/)
 * [2026-01-19, 17:12:19](https://news.ycombinator.com/item?id=46681587) - [Raccoons break into liquor stores, scale skyscrapers and pick locks](https://theconversation.com/raccoons-break-into-liquor-stores-scale-skyscrapers-and-pick-locks-studying-their-clever-brains-can-clarify-human-intelligence-too-272487)
 * [2026-01-19, 17:03:38](https://news.ycombinator.com/item?id=46681454) - [Fix Your Robots.txt or Your Site Disappears from Google](https://www.alanwsmith.com/en/37/wa/jz/s1/)
+* [2026-01-19, 17:01:55](https://news.ycombinator.com/item?id=46681431) - [Preserved Fish, Boss of New York City](https://signoregalilei.com/2025/12/21/preserved-fish-boss-of-new-york-city/)
 * [2026-01-19, 16:57:27](https://news.ycombinator.com/item?id=46681351) - [What it's like to be banned from the US for fighting online hate](https://www.technologyreview.com/2026/01/19/1131384/what-its-like-to-be-banned-from-the-us-for-fighting-online-hate/)
 * [2026-01-19, 16:55:32](https://news.ycombinator.com/item?id=46681309) - [Bootstrapping Bun](https://walters.app/blog/bootstrapping-bun)
 * [2026-01-19, 16:47:49](https://news.ycombinator.com/item?id=46681156) - [Project Cybersyn](https://en.wikipedia.org/wiki/Project_Cybersyn)
