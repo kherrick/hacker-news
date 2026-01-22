@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-22, 22:31:27",
-      "https://news.ycombinator.com/item?id=46725982"
+      "2026-01-22, 23:04:25",
+      "https://news.ycombinator.com/item?id=46726259"
     ],
     [
-      "How to Find LinkedIn Profiles and Work Emails in 5 Minutes",
-      "https://crona.ai/blog/how-to-find-a-work-email-from-a-name-and-linkedin-2-step-workflow"
+      "FIPS Dependencies and Prebuilt Binaries",
+      "https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/"
     ]
   ],
   [
@@ -27,6 +27,26 @@
     [
       "Viking Ship Museum in Denmark announces the discovery of the largest cog",
       "https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 21:31:59",
+      "https://news.ycombinator.com/item?id=46725389"
+    ],
+    [
+      "Extracting a UART Password via SPI Flash Instruction Tracing",
+      "https://zuernerd.github.io/blog/2026/01/07/switch-password.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 21:23:12",
+      "https://news.ycombinator.com/item?id=46725288"
+    ],
+    [
+      "Capital One to acquire Brex for $5.15B",
+      "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2026-01-22, 18:38:27",
-      "https://news.ycombinator.com/item?id=46723384"
-    ],
-    [
-      "I was banned from Claude for scaffolding a Claude.md file?",
-      "https://hugodaniel.com/posts/claude-code-banned-me/"
-    ]
-  ],
-  [
-    [
       "2026-01-22, 18:01:02",
       "https://news.ycombinator.com/item?id=46722853"
     ],
@@ -97,6 +107,16 @@
     [
       "Show HN: First Claude Code client for Ollama local models",
       "https://github.com/21st-dev/1code"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 17:14:04",
+      "https://news.ycombinator.com/item?id=46722074"
+    ],
+    [
+      "Composing APIs and CLIs in the LLM era",
+      "https://walters.app/blog/composing-apis-clis"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-01-22, 16:30:58",
-      "https://news.ycombinator.com/item?id=46721474"
-    ],
-    [
-      "Show HN: BrowserOS – \"Claude Cowork\" in the browser",
-      "https://github.com/browseros-ai/BrowserOS"
-    ]
-  ],
-  [
-    [
       "2026-01-22, 16:10:20",
       "https://news.ycombinator.com/item?id=46721179"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-01-22, 05:52:54",
-      "https://news.ycombinator.com/item?id=46715766"
-    ],
-    [
-      "Show HN: Synesthesia, make noise music with a colorpicker",
-      "https://visualnoise.ca"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 22:30:18",
       "https://news.ycombinator.com/item?id=46712547"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-01-17, 23:33:27",
-      "https://news.ycombinator.com/item?id=46663225"
-    ],
-    [
-      "Vulnerable WhisperPair Devices – Hijack Bluetooth Accessories Using Fast Pair",
-      "https://whisperpair.eu/vulnerable-devices"
-    ]
-  ],
-  [
-    [
       "2026-01-17, 23:29:54",
       "https://news.ycombinator.com/item?id=46663200"
     ],
@@ -297,6 +287,16 @@
     [
       "My first year in sales as technical founder",
       "https://www.fabiandietrich.com/blog/first-year-in-sales.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-17, 07:25:06",
+      "https://news.ycombinator.com/item?id=46656029"
+    ],
+    [
+      "Kip: A programming language based on grammatical cases of Turkish",
+      "https://github.com/joom/kip"
     ]
   ]
 ]
