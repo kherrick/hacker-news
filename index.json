@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-01-22, 18:25:25",
-      "https://news.ycombinator.com/item?id=46723183"
-    ],
-    [
-      "Skill.md: An open standard for agent skills",
-      "https://www.mintlify.com/blog/skill-md"
-    ]
-  ],
-  [
-    [
       "2026-01-22, 18:01:02",
       "https://news.ycombinator.com/item?id=46722853"
     ],
@@ -76,7 +66,7 @@
     ],
     [
       "Show HN: First Claude Code client for Ollama local models",
-      "https://twitter.com/serafimcloud/status/2014266928853110862"
+      "https://github.com/21st-dev/1code"
     ]
   ],
   [
@@ -86,7 +76,7 @@
     ],
     [
       "Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance",
-      "https://constellation-io.com/"
+      "https://news.ycombinator.com/item?id=46721933"
     ]
   ],
   [
@@ -147,16 +137,6 @@
     [
       "It looks like the status/need-triage label was removed",
       "https://github.com/google-gemini/gemini-cli/issues/16728"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 15:58:09",
-      "https://news.ycombinator.com/item?id=46720987"
-    ],
-    [
-      "SFPark: Interactive map of SF parking regulations",
-      "https://hugues.betakappaphi.com/2026/01/21/sfpark/"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2026-01-19, 16:55:32",
+      "https://news.ycombinator.com/item?id=46681309"
+    ],
+    [
+      "Bootstrapping Bun",
+      "https://walters.app/blog/bootstrapping-bun"
+    ]
+  ],
+  [
+    [
       "2026-01-18, 22:16:43",
       "https://news.ycombinator.com/item?id=46672713"
     ],
@@ -277,6 +267,16 @@
     [
       "Compiling Scheme to WebAssembly",
       "https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/"
+    ]
+  ],
+  [
+    [
+      "2026-01-17, 20:56:03",
+      "https://news.ycombinator.com/item?id=46662001"
+    ],
+    [
+      "A Year of 3D Printing",
+      "https://brookehatton.com/blog/making/a-year-of-3d-printing/"
     ]
   ],
   [
