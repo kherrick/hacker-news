@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-22, 21:54:02](https://news.ycombinator.com/item?id=46725632) - [Anthropic Economic Index economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)
-* [2026-01-22, 21:52:46](https://news.ycombinator.com/item?id=46725618) - [The Education of the Broligarchy](https://colossus.com/article/education-broligarchy-silicon-valley-canon/)
 * [2026-01-22, 21:43:14](https://news.ycombinator.com/item?id=46725522) - [Viking Ship Museum in Denmark announces the discovery of the largest cog](https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/)
+* [2026-01-22, 21:31:59](https://news.ycombinator.com/item?id=46725389) - [Extracting a UART Password via SPI Flash Instruction Tracing](https://zuernerd.github.io/blog/2026/01/07/switch-password.html)
 * [2026-01-22, 20:12:26](https://news.ycombinator.com/item?id=46724565) - [Show HN: CLI for working with Apple Core ML models](https://github.com/schappim/coreml-cli)
 * [2026-01-22, 19:27:32](https://news.ycombinator.com/item?id=46723990) - [Why does SSH send 100 packets per keystroke?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/)
 * [2026-01-22, 19:03:56](https://news.ycombinator.com/item?id=46723694) - ['Active' sitting is better for brain health: review of studies](https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health)
