@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 23:55:06](https://news.ycombinator.com/item?id=46713387) - [Lix – universal version control system for binary files](https://lix.dev/blog/introducing-lix/)
+* [2026-01-21, 23:22:40](https://news.ycombinator.com/item?id=46713106) - [Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete](https://huggingface.co/sweepai/sweep-next-edit-1.5B)
 * [2026-01-21, 23:07:11](https://news.ycombinator.com/item?id=46712959) - [The Inflation Trap: Housing replacement costs vs. market value](https://suretyinsights.com/blog/the-inflation-trap-why-your-home-insurance-limit-might-be-too-low)
 * [2026-01-21, 22:54:04](https://news.ycombinator.com/item?id=46712815) - [Take potentially dangerous PDFs, and convert them to safe PDFs](https://github.com/freedomofpress/dangerzone)
 * [2026-01-21, 22:41:45](https://news.ycombinator.com/item?id=46712678) - [Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)

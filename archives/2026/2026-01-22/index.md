@@ -9,3 +9,5 @@
 * [2026-01-22, 01:11:13](https://news.ycombinator.com/item?id=46713924) - [Internet voting is insecure and should not be used in public elections](https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/)
 * [2026-01-22, 00:34:20](https://news.ycombinator.com/item?id=46713704) - [I'll pass on your zoom call.](https://operand.online/chronicle/pass.zoom)
 * [2026-01-22, 00:12:00](https://news.ycombinator.com/item?id=46713526) - [Threat Actors Expand Abuse of Microsoft Visual Studio Code](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/)
+* [2026-01-22, 00:04:47](https://news.ycombinator.com/item?id=46713473) - [Show HN: Dotenv Mask Editor: No more embarrassing screen leaks of your .env](https://marketplace.visualstudio.com/items?itemName=xinbenlv.dotenv-mask-editor)
+* [2026-01-22, 00:00:36](https://news.ycombinator.com/item?id=46713444) - [From stealth blackout to whitelisting: Inside the Iranian shutdown](https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/)
