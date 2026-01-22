@@ -21,7 +21,6 @@
 * [2026-01-22, 08:03:57](https://news.ycombinator.com/item?id=46716469) - [30 Years of ReactOS](https://reactos.org/blogs/30yrs-of-ros/)
 * [2026-01-22, 05:52:54](https://news.ycombinator.com/item?id=46715766) - [Show HN: Synesthesia, make noise music with a colorpicker](https://visualnoise.ca)
 * [2026-01-22, 05:15:46](https://news.ycombinator.com/item?id=46715600) - [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
-* [2026-01-22, 00:12:00](https://news.ycombinator.com/item?id=46713526) - [Threat actors expand abuse of Microsoft Visual Studio Code](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/)
 * [2026-01-21, 23:22:40](https://news.ycombinator.com/item?id=46713106) - [Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete](https://huggingface.co/sweepai/sweep-next-edit-1.5B)
 * [2026-01-21, 22:41:45](https://news.ycombinator.com/item?id=46712678) - [Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 * [2026-01-21, 22:30:18](https://news.ycombinator.com/item?id=46712547) - [Mote: An Interactive Ecosystem Simulation [video]](https://www.youtube.com/watch?v=Hju0H3NHxVI)
@@ -30,6 +29,7 @@
 * [2026-01-19, 06:36:57](https://news.ycombinator.com/item?id=46675669) - [Show HN: Interactive physics simulations I built while teaching my daughter](https://www.projectlumen.app/)
 * [2026-01-18, 16:16:11](https://news.ycombinator.com/item?id=46669001) - [Keeping 20k GPUs Healthy](https://modal.com/blog/gpu-health)
 * [2026-01-17, 17:01:43](https://news.ycombinator.com/item?id=46659635) - [TTY and Buffering](https://mattrighetti.com/2026/01/12/tty-and-buffering)
+* [2026-01-17, 16:38:39](https://news.ycombinator.com/item?id=46659396) - [Pragmatic Bitmap Filters in Microsoft SQL Server](https://www.vldb.org/cidrdb/2026/i-cant-believe-its-not-yannakakis-pragmatic-bitmap-filters-in-microsoft-sql-server.html)
 
 ## [Archives](archives/index.md)
 
