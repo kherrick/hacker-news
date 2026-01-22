@@ -1,14 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-22, 18:38:27](https://news.ycombinator.com/item?id=46723384) - [I was banned from Claude for scaffolding a Claude.md file](https://hugodaniel.com/posts/claude-code-banned-me/)
 * [2026-01-22, 18:01:02](https://news.ycombinator.com/item?id=46722853) - [Recent discoveries on the acquisition of the highest levels of human performance](https://www.science.org/doi/abs/10.1126/science.adt7790)
 * [2026-01-22, 17:42:51](https://news.ycombinator.com/item?id=46722594) - [Macron says €300B in EU savings sent to the US every year will be invested in EU](https://old.reddit.com/r/europe/comments/1qjtvtl/macron_says_300_billion_in_european_savings_flown/)
 * [2026-01-22, 17:41:22](https://news.ycombinator.com/item?id=46722570) - [CSS Optical Illusions](https://alvaromontoro.com/blog/68091/css-optical-illusions)
 * [2026-01-22, 17:03:21](https://news.ycombinator.com/item?id=46721933) - [Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance](https://constellation-io.com/)
 * [2026-01-22, 17:00:40](https://news.ycombinator.com/item?id=46721897) - [AnswerThis (YC F25) Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration)
 * [2026-01-22, 16:52:35](https://news.ycombinator.com/item?id=46721802) - [Show HN: isometric.nyc – giant isometric pixel art map of NYC](https://cannoneyed.com/isometric-nyc/)
-* [2026-01-22, 16:30:58](https://news.ycombinator.com/item?id=46721474) - [Show HN: BrowserOS – \"Claude Cowork\" in the browser (open source)](https://github.com/browseros-ai/BrowserOS)
+* [2026-01-22, 16:30:58](https://news.ycombinator.com/item?id=46721474) - [Show HN: BrowserOS – \"Claude Cowork\" in the browser](https://github.com/browseros-ai/BrowserOS)
 * [2026-01-22, 16:10:20](https://news.ycombinator.com/item?id=46721179) - [It looks like the status/need-triage label was removed](https://github.com/google-gemini/gemini-cli/issues/16728)
-* [2026-01-22, 16:00:24](https://news.ycombinator.com/item?id=46721019) - [Show HN: Bible translated using LLMs from source Greek and Hebrew](https://biblexica.com)
 * [2026-01-22, 15:20:48](https://news.ycombinator.com/item?id=46720395) - [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
 * [2026-01-22, 14:47:58](https://news.ycombinator.com/item?id=46719899) - [Tree-sitter vs. Language Servers](https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/)
 * [2026-01-22, 14:14:15](https://news.ycombinator.com/item?id=46719491) - [In Europe, Wind and Solar Overtake Fossil Fuels](https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels)
@@ -28,8 +28,8 @@
 * [2026-01-21, 21:07:47](https://news.ycombinator.com/item?id=46711574) - [eBay explicitly bans AI \"buy for me\" agents in user agreement update](https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/)
 * [2026-01-19, 20:48:04](https://news.ycombinator.com/item?id=46684299) - [Joe Armstrong and Jeremy Ruston – Intertwingling the Tiddlywiki with Erlang [video]](https://www.youtube.com/watch?v=Uv1UfLPK7_Q)
 * [2026-01-19, 06:36:57](https://news.ycombinator.com/item?id=46675669) - [Show HN: Interactive physics simulations I built while teaching my daughter](https://www.projectlumen.app/)
+* [2026-01-18, 16:16:11](https://news.ycombinator.com/item?id=46669001) - [Keeping 20k GPUs Healthy](https://modal.com/blog/gpu-health)
 * [2026-01-17, 17:01:43](https://news.ycombinator.com/item?id=46659635) - [TTY and Buffering](https://mattrighetti.com/2026/01/12/tty-and-buffering)
-* [2026-01-17, 16:38:39](https://news.ycombinator.com/item?id=46659396) - [Pragmatic Bitmap Filters in Microsoft SQL Server](https://www.vldb.org/cidrdb/2026/i-cant-believe-its-not-yannakakis-pragmatic-bitmap-filters-in-microsoft-sql-server.html)
 
 ## [Archives](archives/index.md)
 

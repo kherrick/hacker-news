@@ -38,6 +38,7 @@
 * [2026-01-18, 16:43:44](https://news.ycombinator.com/item?id=46669289) - [Stop using MySQL in 2026, it is not true open source](https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/)
 * [2026-01-18, 16:40:21](https://news.ycombinator.com/item?id=46669250) - [Solve the MH370 Paradox in 10 Seconds](https://www.researchgate.net/publication/380531233_Solve_the_MH370_Paradox_in_10_Seconds)
 * [2026-01-18, 16:17:39](https://news.ycombinator.com/item?id=46669025) - [Statement by Denmark, Finland, France, Germany, the Netherlands,Norway,Sweden,UK](https://www.presidentti.fi/statement-by-denmark-finland-france-germany-the-netherlands-norway-sweden-and-the-united-kingdom-englanniksi/)
+* [2026-01-18, 16:16:11](https://news.ycombinator.com/item?id=46669001) - [Keeping 20k GPUs Healthy](https://modal.com/blog/gpu-health)
 * [2026-01-18, 15:55:26](https://news.ycombinator.com/item?id=46668801) - [Purdue blocks admission of many Chinese grad students in unwritten policy](https://www.science.org/content/article/purdue-blocks-admission-many-chinese-grad-students-unwritten-policy)
 * [2026-01-18, 15:52:05](https://news.ycombinator.com/item?id=46668780) - [Show HN: Open-source certificate from GitHub activity](https://certificate.brendonmatos.com)
 * [2026-01-18, 15:09:37](https://news.ycombinator.com/item?id=46668394) - [Why the Tech World Thinks the American Dream Is Dying](https://www.wsj.com/tech/ai/why-the-tech-world-thinks-the-american-dream-is-dying-daf793dc)
