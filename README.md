@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-22, 08:44:56](https://news.ycombinator.com/item?id=46716696) - [In Praise of APL (1977)](https://www.jsoftware.com/papers/perlis77.htm)
+* [2026-01-22, 08:21:12](https://news.ycombinator.com/item?id=46716560) - [SpaceX lowering orbits of 4,400 Starlink satellites for safety's sake](https://www.space.com/space-exploration/satellites/spacex-lowering-orbits-of-4-400-starlink-satellites-for-safetys-sake)
 * [2026-01-22, 05:15:46](https://news.ycombinator.com/item?id=46715600) - [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
 * [2026-01-22, 03:26:38](https://news.ycombinator.com/item?id=46714916) - [Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)
 * [2026-01-22, 01:11:36](https://news.ycombinator.com/item?id=46713929) - [Significant US farm losses persist, despite federal assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)
@@ -18,7 +20,6 @@
 * [2026-01-21, 15:20:53](https://news.ycombinator.com/item?id=46706906) - [Skip is now free and open source](https://skip.dev/blog/skip-is-free/)
 * [2026-01-21, 14:54:56](https://news.ycombinator.com/item?id=46706528) - [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
 * [2026-01-21, 13:49:07](https://news.ycombinator.com/item?id=46705676) - [Tell HN: 2 years building a kids audio app as a solo dev – lessons learned](https://news.ycombinator.com/item?id=46705676)
-* [2026-01-21, 13:08:35](https://news.ycombinator.com/item?id=46705201) - [Nested code fences in Markdown](https://susam.net/nested-code-fences.html)
 * [2026-01-21, 07:48:06](https://news.ycombinator.com/item?id=46702411) - [Can you slim macOS down?](https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/)
 * [2026-01-19, 06:19:53](https://news.ycombinator.com/item?id=46675583) - [Beowulf's opening \"What\" is no interjection (2013)](https://www.poetryfoundation.org/poetry-news/69208/new-research-opening-line-of-beowulf-is-not-what-weve-eternally-thunk)
 * [2026-01-18, 19:21:14](https://news.ycombinator.com/item?id=46671191) - [Evolution Unleashed (2018)](https://aeon.co/essays/science-in-flux-is-a-revolution-brewing-in-evolutionary-theory)
@@ -28,7 +29,6 @@
 * [2026-01-17, 14:03:00](https://news.ycombinator.com/item?id=46658133) - [Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby](https://www.ratatui-ruby.dev/)
 * [2026-01-17, 14:02:17](https://news.ycombinator.com/item?id=46658128) - [Binary fuse filters: Fast and smaller than xor filters (2022)](https://arxiv.org/abs/2201.01174)
 * [2026-01-16, 21:02:25](https://news.ycombinator.com/item?id=46652173) - [Letting Claude play text adventures](https://borretti.me/article/letting-claude-play-text-adventures)
-* [2026-01-16, 19:34:00](https://news.ycombinator.com/item?id=46651027) - [Golfing APL/K in 90 Lines of Python](https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python)
 * [2026-01-16, 18:16:10](https://news.ycombinator.com/item?id=46649786) - [Hands-On Introduction to Unikernels](https://labs.iximiuz.com/tutorials/unikernels-intro-93976514)
 
 ## [Archives](archives/index.md)
