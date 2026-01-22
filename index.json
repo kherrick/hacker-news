@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-01-22, 03:26:38",
-      "https://news.ycombinator.com/item?id=46714916"
-    ],
-    [
-      "Show HN: High speed graphics rendering research with tinygrad/tinyJIT",
-      "https://github.com/quantbagel/gtinygrad"
-    ]
-  ],
-  [
-    [
       "2026-01-22, 01:11:36",
       "https://news.ycombinator.com/item?id=46713929"
     ],
@@ -277,6 +267,16 @@
     [
       "Binary fuse filters: Fast and smaller than xor filters (2022)",
       "https://arxiv.org/abs/2201.01174"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 23:45:57",
+      "https://news.ycombinator.com/item?id=46653718"
+    ],
+    [
+      "Caliper: Right-size your CI runners",
+      "https://www.attune.inc/blog/caliper"
     ]
   ],
   [
