@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 14:14:12](https://news.ycombinator.com/item?id=46719489) - [You can now download Windows 7 and Vista ISO images with all the updates](https://www.neowin.net/news/you-can-now-download-windows-7-and-vista-iso-images-with-every-possible-update-included/)
 * [2026-01-22, 13:50:48](https://news.ycombinator.com/item?id=46719222) - [Douglas Adams on the English–American cultural divide over \"heroes\"](https://shreevatsa.net/post/douglas-adams-cultural-divide/)
 * [2026-01-22, 13:18:56](https://news.ycombinator.com/item?id=46718869) - [Now with Mqtts](https://daniel.haxx.se/blog/2026/01/19/now-with-mqtts/)
 * [2026-01-22, 12:48:25](https://news.ycombinator.com/item?id=46718556) - [I am moving away from Scala](https://arbuh.medium.com/why-i-am-moving-away-from-scala-7a9d3dca17b9)
