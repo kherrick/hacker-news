@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-01-22, 16:29:25",
-      "https://news.ycombinator.com/item?id=46721452"
+      "2026-01-22, 17:11:47",
+      "https://news.ycombinator.com/item?id=46722038"
     ],
     [
-      "Ubisoft cancels six games including Prince of Persia and closes studios",
-      "https://www.bbc.co.uk/news/articles/c6200g826d2o"
+      "Downtown Denver's office vacancy rate grows to 38.2%",
+      "https://coloradosun.com/2026/01/22/denver-downtown-office-vacancy-rate-tenants-workplace/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 17:03:21",
+      "https://news.ycombinator.com/item?id=46721933"
+    ],
+    [
+      "Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance",
+      "https://constellation-io.com/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 17:00:40",
+      "https://news.ycombinator.com/item?id=46721897"
+    ],
+    [
+      "AnswerThis (YC F25) Is Hiring",
+      "https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 16:52:35",
+      "https://news.ycombinator.com/item?id=46721802"
+    ],
+    [
+      "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
+      "https://cannoneyed.com/isometric-nyc/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 16:27:02",
+      "https://news.ycombinator.com/item?id=46721418"
+    ],
+    [
+      "Miami, Your Waymo Ride Is Ready",
+      "https://waymo.com/blog/2026/01/miami-your-waymo-ride-is-ready"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2026-01-22, 12:00:45",
-      "https://news.ycombinator.com/item?id=46718140"
-    ],
-    [
-      "Flowtel (YC W25) Is Hiring",
-      "https://www.ycombinator.com/companies/flowtel/jobs/LaddaEz-founding-engineer-staff-senior"
-    ]
-  ],
-  [
-    [
       "2026-01-22, 11:51:10",
       "https://news.ycombinator.com/item?id=46718061"
     ],
@@ -117,16 +147,6 @@
     [
       "ISO PDF spec is getting Brotli – ~20 % smaller documents with no quality loss",
       "https://pdfa.org/want-to-make-your-pdfs-20-smaller-for-free/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 10:30:07",
-      "https://news.ycombinator.com/item?id=46717442"
-    ],
-    [
-      "The mushroom making people hallucinate tiny humans",
-      "https://www.bbc.com/future/article/20260121-the-mysterious-mushroom-that-makes-you-see-tiny-people"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "Threat actors expand abuse of Microsoft Visual Studio Code",
       "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 23:55:06",
-      "https://news.ycombinator.com/item?id=46713387"
-    ],
-    [
-      "Lix – universal version control system for binary files",
-      "https://lix.dev/blog/introducing-lix/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-01-21, 14:54:56",
-      "https://news.ycombinator.com/item?id=46706528"
-    ],
-    [
-      "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
-      "https://github.com/ChartGPU/ChartGPU"
-    ]
-  ],
-  [
-    [
       "2026-01-19, 20:48:04",
       "https://news.ycombinator.com/item?id=46684299"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-01-17, 16:38:39",
+      "https://news.ycombinator.com/item?id=46659396"
+    ],
+    [
+      "Pragmatic Bitmap Filters in Microsoft SQL Server",
+      "https://www.vldb.org/cidrdb/2026/i-cant-believe-its-not-yannakakis-pragmatic-bitmap-filters-in-microsoft-sql-server.html"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 15:57:42",
       "https://news.ycombinator.com/item?id=46659016"
     ],
@@ -287,16 +297,6 @@
     [
       "The Science of Life and Death in Mary Shelley's Frankenstein",
       "https://publicdomainreview.org/essay/the-science-of-life-and-death-in-mary-shelleys-frankenstein/"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 18:16:10",
-      "https://news.ycombinator.com/item?id=46649786"
-    ],
-    [
-      "Hands-On Introduction to Unikernels",
-      "https://labs.iximiuz.com/tutorials/unikernels-intro-93976514"
     ]
   ]
 ]
