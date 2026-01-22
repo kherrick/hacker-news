@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 21:31:59](https://news.ycombinator.com/item?id=46725389) - [Extracting a UART Password via SPI Flash Instruction Tracing](https://zuernerd.github.io/blog/2026/01/07/switch-password.html)
 * [2026-01-22, 20:27:23](https://news.ycombinator.com/item?id=46724714) - [Goldman Sachs Global Macro Research: Gen AI: too much spend, too little benefit [pdf]](https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend,-too-little-benefit-/TOM_AI%202.0_ForRedaction.pdf&originalQuery=&referrer=)
 * [2026-01-22, 20:24:06](https://news.ycombinator.com/item?id=46724675) - [Vargai/SDK – JSX for AI Video. Declarative Programming Language for Claude Code](https://varg.ai/sdk)
 * [2026-01-22, 20:12:26](https://news.ycombinator.com/item?id=46724565) - [Show HN: CLI for working with Apple Core ML models](https://github.com/schappim/coreml-cli)
