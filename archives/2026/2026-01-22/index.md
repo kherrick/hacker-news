@@ -1,0 +1,11 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-01-22](index.md)
+
+* [2026-01-22, 01:48:44](https://news.ycombinator.com/item?id=46714192) - [Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]](https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf)
+* [2026-01-22, 01:11:36](https://news.ycombinator.com/item?id=46713929) - [Significant US Farm Losses Persist, Despite Federal Assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)
+* [2026-01-22, 01:11:13](https://news.ycombinator.com/item?id=46713924) - [Internet voting is insecure and should not be used in public elections](https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/)
+* [2026-01-22, 00:34:20](https://news.ycombinator.com/item?id=46713704) - [I'll pass on your zoom call.](https://operand.online/chronicle/pass.zoom)
+* [2026-01-22, 00:12:00](https://news.ycombinator.com/item?id=46713526) - [Threat Actors Expand Abuse of Microsoft Visual Studio Code](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/)

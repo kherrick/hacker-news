@@ -40,6 +40,7 @@
 * [2026-01-17, 14:31:33](https://news.ycombinator.com/item?id=46658345) - [The recurring dream of replacing developers](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)
 * [2026-01-17, 14:13:11](https://news.ycombinator.com/item?id=46658213) - [What life is like in Minneapolis now](https://donmoynihan.substack.com/p/dispatch-from-the-occupation)
 * [2026-01-17, 14:03:00](https://news.ycombinator.com/item?id=46658133) - [Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby](https://www.ratatui-ruby.dev/)
+* [2026-01-17, 14:02:17](https://news.ycombinator.com/item?id=46658128) - [Binary Fuse Filters: Fast and Smaller Than XOR Filters](https://arxiv.org/abs/2201.01174)
 * [2026-01-17, 14:00:11](https://news.ycombinator.com/item?id=46658116) - [LG UltraFine Evo 6K 32-inch Monitor Review](https://www.wired.com/review/lg-ultrafine-evo-6k-32-inch-monitor/)
 * [2026-01-17, 13:44:02](https://news.ycombinator.com/item?id=46658014) - [Italy investigates Activision Blizzard for pushing in-game purchases](https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/)
 * [2026-01-17, 13:42:14](https://news.ycombinator.com/item?id=46658003) - [Folding NASA Experience into an Origamist's Toolkit](https://spinoff.nasa.gov/Folding_NASA_Experience_into_an_Origamist%E2%80%99s_Toolkit)
