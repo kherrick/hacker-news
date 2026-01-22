@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 22:31:27](https://news.ycombinator.com/item?id=46725982) - [How to Find LinkedIn Profiles and Work Emails in 5 Minutes](https://crona.ai/blog/how-to-find-a-work-email-from-a-name-and-linkedin-2-step-workflow)
 * [2026-01-22, 21:54:02](https://news.ycombinator.com/item?id=46725632) - [Anthropic Economic Index economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)
 * [2026-01-22, 21:52:46](https://news.ycombinator.com/item?id=46725618) - [The Education of the Broligarchy](https://colossus.com/article/education-broligarchy-silicon-valley-canon/)
 * [2026-01-22, 21:43:14](https://news.ycombinator.com/item?id=46725522) - [Viking Ship Museum in Denmark announces the discovery of the largest cog](https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/)
