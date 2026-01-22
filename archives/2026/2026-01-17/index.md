@@ -40,6 +40,7 @@
 * [2026-01-17, 16:17:58](https://news.ycombinator.com/item?id=46659219) - [Why There's No Single Best Way to Store Information](https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/)
 * [2026-01-17, 16:15:32](https://news.ycombinator.com/item?id=46659194) - [Escaping the trap of US tech dependence](https://disconnect.blog/escaping-the-trap-of-us-tech-dependence/)
 * [2026-01-17, 15:57:42](https://news.ycombinator.com/item?id=46659016) - [Gathering Linux Syscall Numbers in a C Table](https://t-cadet.github.io/programming-wisdom/#2026-01-17-gathering-linux-syscall-numbers)
+* [2026-01-17, 15:36:55](https://news.ycombinator.com/item?id=46658869) - [The Science of Life and Death in Mary Shelley's Frankenstein](https://publicdomainreview.org/essay/the-science-of-life-and-death-in-mary-shelleys-frankenstein/)
 * [2026-01-17, 14:31:33](https://news.ycombinator.com/item?id=46658345) - [The recurring dream of replacing developers](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)
 * [2026-01-17, 14:13:11](https://news.ycombinator.com/item?id=46658213) - [What life is like in Minneapolis now](https://donmoynihan.substack.com/p/dispatch-from-the-occupation)
 * [2026-01-17, 14:03:00](https://news.ycombinator.com/item?id=46658133) - [Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby](https://www.ratatui-ruby.dev/)
