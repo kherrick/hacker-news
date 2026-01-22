@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-22, 21:31:59",
+      "https://news.ycombinator.com/item?id=46725389"
+    ],
+    [
+      "Extracting a UART Password via SPI Flash Instruction Tracing",
+      "https://zuernerd.github.io/blog/2026/01/07/switch-password.html"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 20:12:26",
       "https://news.ycombinator.com/item?id=46724565"
     ],
@@ -37,6 +47,16 @@
     [
       "I was banned from Claude for scaffolding a Claude.md file?",
       "https://hugodaniel.com/posts/claude-code-banned-me/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 18:25:25",
+      "https://news.ycombinator.com/item?id=46723183"
+    ],
+    [
+      "Skill.md: An open standard for agent skills",
+      "https://www.mintlify.com/blog/skill-md"
     ]
   ],
   [
@@ -181,22 +201,12 @@
   ],
   [
     [
-      "2026-01-22, 11:40:01",
-      "https://news.ycombinator.com/item?id=46717960"
+      "2026-01-22, 10:41:23",
+      "https://news.ycombinator.com/item?id=46717507"
     ],
     [
-      "'Askers' vs. 'Guessers' (2010)",
-      "https://www.theatlantic.com/national/2010/05/askers-vs-guessers/340891/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 10:45:02",
-      "https://news.ycombinator.com/item?id=46717536"
-    ],
-    [
-      "City Weather Explorer (3D comparison)",
-      "https://awjuliani.github.io/weather-explore/"
+      "ISO PDF spec is getting Brotli – ~20 % smaller documents with no quality loss",
+      "https://pdfa.org/want-to-make-your-pdfs-20-smaller-for-free/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Mote: An Interactive Ecosystem Simulation [video]",
       "https://www.youtube.com/watch?v=Hju0H3NHxVI"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 16:55:32",
-      "https://news.ycombinator.com/item?id=46681309"
-    ],
-    [
-      "Bootstrapping Bun",
-      "https://walters.app/blog/bootstrapping-bun"
     ]
   ],
   [
