@@ -129,25 +129,51 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="46725982">
+        <section id="46726259">
           <h3>
             <a
               class="item"
-              href="https://crona.ai/blog/how-to-find-a-work-email-from-a-name-and-linkedin-2-step-workflow"
-              >How to Find LinkedIn Profiles and Work Emails in 5 Minutes</a
+              href="https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/"
+              >FIPS Dependencies and Prebuilt Binaries</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-22 @ 22:31:27</span
+              <span>2026-01-22 @ 23:04:25</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46725982"
+                ><a href="https://news.ycombinator.com/item?id=46726259"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                Everything looked correct. OpenSSL 3 with the FIPS provider
+                enabled. Ruby built against it. A simple pg connection worked.
+              </p>
+              <p>
+                The app failed once ActiveRecord was involved. The error came
+                from libpq. It turned out the pg gem had pulled in a prebuilt
+                native dependency that was linked against different crypto. That
+                path was always there. It just was not exercised until
+                ActiveRecord hit it.
+              </p>
+              <p>
+                Forcing a source build fixed the issue because the extension
+                then linked against the OpenSSL in the image.
+              </p>
+              <p>
+                The takeaway is that a FIPS base image does not mean your
+                dependency graph respects the same boundary once native code is
+                involved.
+              </p>
+              <p>
+                Curious how others have seen this play out in Ruby, Python
+                wheels, Go with CGO, or Node native addons.
+              </p>
+            </div>
           </section>
         </section>
         <section id="46725632">
@@ -162,11 +188,11 @@
             <h4>
               <span>2026-01-22 @ 21:54:02</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46725632"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -184,13 +210,67 @@
             <h4>
               <span>2026-01-22 @ 21:43:14</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46725522"
                   >Comments</a
                 ><span class="descendants">: 10</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46725389">
+          <h3>
+            <a
+              class="item"
+              href="https://zuernerd.github.io/blog/2026/01/07/switch-password.html"
+              >Extracting a UART Password via SPI Flash Instruction Tracing</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-22 @ 21:31:59</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46725389"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46725288">
+          <h3>
+            <a
+              class="item"
+              href="https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/"
+              >Capital One to acquire Brex for $5.15B</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-22 @ 21:23:12</span
+              ><span class="points-container"
+                >Points: <span class="points">41</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46725288"
+                  >Comments</a
+                ><span class="descendants">: 40</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://archive.md/vk8ov">https://archive.md/vk8ov</a>,
+              Capitol One statement:
+              <a
+                href="https://investor.capitalone.com/news-releases/news-release-details/capital-one-acquire-brex"
+                >https://investor.capitalone.com/news-releases/news-release-d...</a
+              >, Brex statement:
+              <a
+                href="https://www.brex.com/journal/brex-and-capital-one-join-forces"
+                >https://www.brex.com/journal/brex-and-capital-one-join-force...</a
+              >
+            </div>
           </section>
         </section>
         <section id="46724565">
@@ -224,11 +304,11 @@
             <h4>
               <span>2026-01-22 @ 19:27:32</span
               ><span class="points-container"
-                >Points: <span class="points">213</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46723990"
                   >Comments</a
-                ><span class="descendants">: 151</span></span
+                ><span class="descendants">: 155</span></span
               >
             </h4>
           </section>
@@ -245,32 +325,11 @@
             <h4>
               <span>2026-01-22 @ 19:03:56</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46723694"
                   >Comments</a
                 ><span class="descendants">: 24</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46723384">
-          <h3>
-            <a
-              class="item"
-              href="https://hugodaniel.com/posts/claude-code-banned-me/"
-              >I was banned from Claude for scaffolding a Claude.md file?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-22 @ 18:38:27</span
-              ><span class="points-container"
-                >Points: <span class="points">270</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46723384"
-                  >Comments</a
-                ><span class="descendants">: 216</span></span
               >
             </h4>
           </section>
@@ -288,11 +347,11 @@
             <h4>
               <span>2026-01-22 @ 18:01:02</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46722853"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -309,7 +368,7 @@
             <h4>
               <span>2026-01-22 @ 17:41:22</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46722570"
                   >Comments</a
@@ -328,11 +387,11 @@
             <h4>
               <span>2026-01-22 @ 17:26:12</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46722285"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
@@ -360,6 +419,25 @@
                 yet.
               </p>
             </div>
+          </section>
+        </section>
+        <section id="46722074">
+          <h3>
+            <a class="item" href="https://walters.app/blog/composing-apis-clis"
+              >Composing APIs and CLIs in the LLM era</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-22 @ 17:14:04</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46722074"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="46721933">
@@ -487,11 +565,11 @@
             <h4>
               <span>2026-01-22 @ 16:52:35</span
               ><span class="points-container"
-                >Points: <span class="points">528</span></span
+                >Points: <span class="points">540</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46721802"
                   >Comments</a
-                ><span class="descendants">: 139</span></span
+                ><span class="descendants">: 142</span></span
               >
             </h4>
             <div class="text">
@@ -522,7 +600,7 @@
             <h4>
               <span>2026-01-22 @ 16:45:52</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46721703"
                   >Comments</a
@@ -544,7 +622,7 @@
             <h4>
               <span>2026-01-22 @ 16:31:47</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46721488"
                   >Comments</a
@@ -619,135 +697,6 @@
             </div>
           </section>
         </section>
-        <section id="46721474">
-          <h3>
-            <a class="item" href="https://github.com/browseros-ai/BrowserOS"
-              >Show HN: BrowserOS – "Claude Cowork" in the browser</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-22 @ 16:30:58</span
-              ><span class="points-container"
-                >Points: <span class="points">40</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46721474"
-                  >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                The big differentiator: on BrowserOS you can use local LLMs or
-                BYOK and run the agent entirely on the client side, so your
-                company/sensitive data stays on your machine!
-              </p>
-              <p>
-                Today we're launching filesystem access... just like Claude
-                Cowork, our browser agent can read files, write files, run shell
-                commands! But honestly, we didn't plan for this. It turns out
-                the privacy decision we made 9 months ago accidentally
-                positioned us for this moment.
-              </p>
-              <p>
-                The architectural bet we made 9 months ago: Unlike other AI
-                browsers (ChatGPT Atlas, Perplexity Comet) where the agent loop
-                runs server-side, we decided early on to run our agent entirely
-                on your machine (client side).
-              </p>
-              <p>
-                But building everything on the client side wasn't smooth. We
-                initially built our agent loop inside a Chrome extension. But we
-                kept hitting walls -- service worker being single thread JS; not
-                having access to NodeJS libraries. So we made the hard decision
-                2 months ago to throw away everything and start from scratch.
-              </p>
-              <p>
-                In the new architecture, our agent loop sits in a standalone
-                binary that we ship alongside our Chromium. And we use
-                gemini-cli for the agent loop with some tweaks! We wrote a neat
-                adapter to translate between Gemini format and Vercel AI SDK
-                format. You can look at our entire codebase here:
-                <a href="https://git.new/browseros-agent"
-                  >https://git.new/browseros-agent</a
-                >
-              </p>
-              <p>
-                How we give browser access to filesystem: When Claude Cowork
-                launched, we realized something: because Atlas and Comet run
-                their agent loop server-side, there's no good way for their
-                agent to access your files without uploading them to the server
-                first. But our agent was already local. Adding filesystem access
-                meant just... opening the door (with your permissions ofc). Our
-                agent can now read and write files just like Claude Code.
-              </p>
-              <p>What you can actually do today:</p>
-              <p>
-                a) Organize files in my desktop folder
-                <a href="https://youtu.be/NOZ7xjto6Uc"
-                  >https://youtu.be/NOZ7xjto6Uc</a
-                >
-              </p>
-              <p>
-                b) Open top 5 HN links, extract the details and write summary
-                into a HTML file
-                <a href="https://youtu.be/uXvqs_TCmMQ"
-                  >https://youtu.be/uXvqs_TCmMQ</a
-                >
-              </p>
-              <p>
-                --- Where we are now If you haven't tried us since the last Show
-                HN (<a href="https://news.ycombinator.com/item?id=44523409"
-                  >https://news.ycombinator.com/item?id=44523409</a
-                >), give us another shot. The new architecture unlocked a ton of
-                new features, and we've grown to 8.5K GitHub stars and 100K+
-                downloads:
-              </p>
-              <p>
-                c) You can now build more reliable workflows using n8n-like
-                graph
-                <a href="https://youtu.be/H_bFfWIevSY"
-                  >https://youtu.be/H_bFfWIevSY</a
-                >
-              </p>
-              <p>
-                d) You can also use BrowserOS as an MCP server in Cursor or
-                Claude Code
-                <a href="https://youtu.be/5nevh00lckM"
-                  >https://youtu.be/5nevh00lckM</a
-                >
-              </p>
-              <p>
-                We are very bullish on browser being the right platform for a
-                Claude Cowork like agent. Browser is the most commonly used app
-                by knowledge workers (emails, docs, spreadsheets, research,
-                etc). And even Anthropic recognizes this -- for Claude Cowork,
-                they have janky integration with browser via a chrome extension.
-                But owning the entire stack allows us to build differentiated
-                features that wouldn't be possible otherwise. Ex: Browser ACLs.
-              </p>
-              <p>
-                Agents can do dumb or destructive things, so we're adding
-                browser-level guardrails (think IAM for agents): "role(agent):
-                can never click buy" or "role(agent): read-only access on my
-                bank's homepage."
-              </p>
-              <p>Curious to hear your take on this and the overall thesis.</p>
-              <p>We’ll be in the comments. Thanks for reading!</p>
-              <p>
-                GitHub:
-                <a href="https://github.com/browseros-ai/BrowserOS"
-                  >https://github.com/browseros-ai/BrowserOS</a
-                >
-              </p>
-              <p>
-                Download:
-                <a href="https://browseros.com">https://browseros.com</a>
-                (available for Mac, Windows, Linux!)
-              </p>
-            </div>
-          </section>
-        </section>
         <section id="46721179">
           <h3>
             <a
@@ -760,11 +709,11 @@
             <h4>
               <span>2026-01-22 @ 16:10:20</span
               ><span class="points-container"
-                >Points: <span class="points">266</span></span
+                >Points: <span class="points">267</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46721179"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -780,11 +729,11 @@
             <h4>
               <span>2026-01-22 @ 15:20:48</span
               ><span class="points-container"
-                >Points: <span class="points">634</span></span
+                >Points: <span class="points">642</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46720395"
                   >Comments</a
-                ><span class="descendants">: 340</span></span
+                ><span class="descendants">: 350</span></span
               >
             </h4>
           </section>
@@ -801,11 +750,11 @@
             <h4>
               <span>2026-01-22 @ 14:47:58</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46719899"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -821,11 +770,11 @@
             <h4>
               <span>2026-01-22 @ 13:51:25</span
               ><span class="points-container"
-                >Points: <span class="points">424</span></span
+                >Points: <span class="points">432</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46719229"
                   >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -851,31 +800,6 @@
             </h4>
           </section>
         </section>
-        <section id="46715766">
-          <h3>
-            <a class="item" href="https://visualnoise.ca"
-              >Show HN: Synesthesia, make noise music with a colorpicker</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-22 @ 05:52:54</span
-              ><span class="points-container"
-                >Points: <span class="points">27</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46715766"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                NOTE! Turn the volume way down before using the site. It is
-                noise music. :)
-              </p>
-            </div>
-          </section>
-        </section>
         <section id="46712547">
           <h3>
             <a class="item" href="https://www.youtube.com/watch?v=Hju0H3NHxVI"
@@ -886,7 +810,7 @@
             <h4>
               <span>2026-01-21 @ 22:30:18</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46712547"
                   >Comments</a
@@ -913,11 +837,11 @@
             <h4>
               <span>2026-01-19 @ 17:01:55</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46681431"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -934,11 +858,11 @@
             <h4>
               <span>2026-01-18 @ 22:16:43</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46672713"
                   >Comments</a
-                ><span class="descendants">: 134</span></span
+                ><span class="descendants">: 140</span></span
               >
             </h4>
           </section>
@@ -953,31 +877,11 @@
             <h4>
               <span>2026-01-18 @ 16:16:11</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46669001"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46663225">
-          <h3>
-            <a class="item" href="https://whisperpair.eu/vulnerable-devices"
-              >Vulnerable WhisperPair Devices – Hijack Bluetooth Accessories
-              Using Fast Pair</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-17 @ 23:33:27</span
-              ><span class="points-container"
-                >Points: <span class="points">20</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46663225"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -994,7 +898,7 @@
             <h4>
               <span>2026-01-17 @ 23:29:54</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46663200"
                   >Comments</a
@@ -1015,7 +919,7 @@
             <h4>
               <span>2026-01-17 @ 20:56:03</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46662001"
                   >Comments</a
@@ -1036,11 +940,31 @@
             <h4>
               <span>2026-01-17 @ 19:24:28</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46661167"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 14</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46656029">
+          <h3>
+            <a class="item" href="https://github.com/joom/kip"
+              >Kip: A programming language based on grammatical cases of
+              Turkish</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-17 @ 07:25:06</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46656029"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
