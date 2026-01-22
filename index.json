@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-22, 20:10:25",
-      "https://news.ycombinator.com/item?id=46724542"
+      "2026-01-22, 20:27:23",
+      "https://news.ycombinator.com/item?id=46724714"
     ],
     [
-      "Taming P99s in OpenFGA: How we built a self-tuning strategy planner",
-      "https://auth0.com/blog/self-tuning-strategy-planner-openfga/"
+      "Goldman Sachs Global Macro Research: Gen AI: too much spend, too little benefit [pdf]",
+      "https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend,-too-little-benefit-/TOM_AI%202.0_ForRedaction.pdf&originalQuery=&referrer="
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 20:24:06",
+      "https://news.ycombinator.com/item?id=46724675"
+    ],
+    [
+      "Vargai/SDK – JSX for AI Video. Declarative Programming Language for Claude Code",
+      "https://varg.ai/sdk"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "Why does SSH send 100 packets per keystroke?",
       "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 19:20:59",
-      "https://news.ycombinator.com/item?id=46723898"
-    ],
-    [
-      "How LLM agents solve the table merging problem",
-      "https://futuresearch.ai/deep-merge-tutorial/"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "CSS Optical Illusions",
       "https://alvaromontoro.com/blog/68091/css-optical-illusions"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 17:26:12",
+      "https://news.ycombinator.com/item?id=46722285"
+    ],
+    [
+      "Show HN: First Claude Code client for Ollama local models",
+      "https://twitter.com/serafimcloud/status/2014266928853110862"
     ]
   ],
   [
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2026-01-22, 15:58:09",
+      "https://news.ycombinator.com/item?id=46720987"
+    ],
+    [
+      "SFPark: Interactive map of SF parking regulations",
+      "https://hugues.betakappaphi.com/2026/01/21/sfpark/"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 15:20:48",
       "https://news.ycombinator.com/item?id=46720395"
     ],
@@ -177,16 +197,6 @@
     [
       "Tree-sitter vs. Language Servers",
       "https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 14:14:15",
-      "https://news.ycombinator.com/item?id=46719491"
-    ],
-    [
-      "In Europe, Wind and Solar Overtake Fossil Fuels",
-      "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels"
     ]
   ],
   [
@@ -211,32 +221,32 @@
   ],
   [
     [
+      "2026-01-22, 11:40:01",
+      "https://news.ycombinator.com/item?id=46717960"
+    ],
+    [
+      "'Askers' vs. 'Guessers' (2010)",
+      "https://www.theatlantic.com/national/2010/05/askers-vs-guessers/340891/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 10:45:02",
+      "https://news.ycombinator.com/item?id=46717536"
+    ],
+    [
+      "City Weather Explorer (3D comparison)",
+      "https://awjuliani.github.io/weather-explore/"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 10:41:23",
       "https://news.ycombinator.com/item?id=46717507"
     ],
     [
       "ISO PDF spec is getting Brotli – ~20 % smaller documents with no quality loss",
       "https://pdfa.org/want-to-make-your-pdfs-20-smaller-for-free/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 08:03:57",
-      "https://news.ycombinator.com/item?id=46716469"
-    ],
-    [
-      "30 Years of ReactOS",
-      "https://reactos.org/blogs/30yrs-of-ros/"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 22:41:45",
-      "https://news.ycombinator.com/item?id=46712678"
-    ],
-    [
-      "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
-      "https://www.media.mit.edu/publications/your-brain-on-chatgpt/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Compiling Scheme to WebAssembly",
       "https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/"
-    ]
-  ],
-  [
-    [
-      "2026-01-17, 17:01:43",
-      "https://news.ycombinator.com/item?id=46659635"
-    ],
-    [
-      "TTY and Buffering",
-      "https://mattrighetti.com/2026/01/12/tty-and-buffering"
     ]
   ]
 ]
