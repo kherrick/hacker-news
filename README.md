@@ -4,7 +4,6 @@
 * [2026-01-22, 08:44:56](https://news.ycombinator.com/item?id=46716696) - [In Praise of APL (1977)](https://www.jsoftware.com/papers/perlis77.htm)
 * [2026-01-22, 08:21:12](https://news.ycombinator.com/item?id=46716560) - [SpaceX lowering orbits of 4,400 Starlink satellites for safety's sake](https://www.space.com/space-exploration/satellites/spacex-lowering-orbits-of-4-400-starlink-satellites-for-safetys-sake)
 * [2026-01-22, 05:15:46](https://news.ycombinator.com/item?id=46715600) - [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
-* [2026-01-22, 03:26:38](https://news.ycombinator.com/item?id=46714916) - [Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)
 * [2026-01-22, 01:11:36](https://news.ycombinator.com/item?id=46713929) - [Significant US farm losses persist, despite federal assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)
 * [2026-01-22, 00:12:00](https://news.ycombinator.com/item?id=46713526) - [Threat actors expand abuse of Microsoft Visual Studio Code](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/)
 * [2026-01-22, 00:00:36](https://news.ycombinator.com/item?id=46713444) - [From stealth blackout to whitelisting: Inside the Iranian shutdown](https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/)
@@ -28,6 +27,7 @@
 * [2026-01-17, 15:57:42](https://news.ycombinator.com/item?id=46659016) - [Gathering Linux Syscall Numbers in a C Table](https://t-cadet.github.io/programming-wisdom/#2026-01-17-gathering-linux-syscall-numbers)
 * [2026-01-17, 14:03:00](https://news.ycombinator.com/item?id=46658133) - [Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby](https://www.ratatui-ruby.dev/)
 * [2026-01-17, 14:02:17](https://news.ycombinator.com/item?id=46658128) - [Binary fuse filters: Fast and smaller than xor filters (2022)](https://arxiv.org/abs/2201.01174)
+* [2026-01-16, 23:45:57](https://news.ycombinator.com/item?id=46653718) - [Caliper: Right-size your CI runners](https://www.attune.inc/blog/caliper)
 * [2026-01-16, 21:02:25](https://news.ycombinator.com/item?id=46652173) - [Letting Claude play text adventures](https://borretti.me/article/letting-claude-play-text-adventures)
 * [2026-01-16, 18:16:10](https://news.ycombinator.com/item?id=46649786) - [Hands-On Introduction to Unikernels](https://labs.iximiuz.com/tutorials/unikernels-intro-93976514)
 

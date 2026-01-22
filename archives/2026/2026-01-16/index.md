@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-16](index.md)
 
 * [2026-01-16, 23:46:17](https://news.ycombinator.com/item?id=46653721) - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
+* [2026-01-16, 23:45:57](https://news.ycombinator.com/item?id=46653718) - [Caliper: Right-size your CI runners](https://www.attune.inc/blog/caliper)
 * [2026-01-16, 23:35:58](https://news.ycombinator.com/item?id=46653653) - [Left in the cold: Study finds most renters shut out of energy-saving upgrades](https://www.binghamton.edu/news/story/6011/left-in-the-cold-study-finds-most-renters-shut-out-of-energy-saving-upgrades)
 * [2026-01-16, 23:03:34](https://news.ycombinator.com/item?id=46653388) - [The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)
 * [2026-01-16, 22:49:04](https://news.ycombinator.com/item?id=46653270) - [Re: Mix: open-source repairable blender](https://github.com/openfunkHQ/reMix)
