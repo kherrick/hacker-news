@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 23:04:25](https://news.ycombinator.com/item?id=46726259) - [FIPS Dependencies and Prebuilt Binaries](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/)
 * [2026-01-22, 22:31:27](https://news.ycombinator.com/item?id=46725982) - [How to Find LinkedIn Profiles and Work Emails in 5 Minutes](https://crona.ai/blog/how-to-find-a-work-email-from-a-name-and-linkedin-2-step-workflow)
 * [2026-01-22, 21:54:02](https://news.ycombinator.com/item?id=46725632) - [Anthropic Economic Index economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)
 * [2026-01-22, 21:52:46](https://news.ycombinator.com/item?id=46725618) - [The Education of the Broligarchy](https://colossus.com/article/education-broligarchy-silicon-valley-canon/)
 * [2026-01-22, 21:43:14](https://news.ycombinator.com/item?id=46725522) - [Viking Ship Museum in Denmark announces the discovery of the largest cog](https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/)
 * [2026-01-22, 21:31:59](https://news.ycombinator.com/item?id=46725389) - [Extracting a UART Password via SPI Flash Instruction Tracing](https://zuernerd.github.io/blog/2026/01/07/switch-password.html)
+* [2026-01-22, 21:23:12](https://news.ycombinator.com/item?id=46725288) - [Capital One to acquire Brex for $5.15B](https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/)
 * [2026-01-22, 20:27:23](https://news.ycombinator.com/item?id=46724714) - [Goldman Sachs Global Macro Research: Gen AI: too much spend, too little benefit [pdf]](https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend,-too-little-benefit-/TOM_AI%202.0_ForRedaction.pdf&originalQuery=&referrer=)
 * [2026-01-22, 20:24:06](https://news.ycombinator.com/item?id=46724675) - [Vargai/SDK – JSX for AI Video. Declarative Programming Language for Claude Code](https://varg.ai/sdk)
 * [2026-01-22, 20:12:26](https://news.ycombinator.com/item?id=46724565) - [Show HN: CLI for working with Apple Core ML models](https://github.com/schappim/coreml-cli)
@@ -24,6 +26,7 @@
 * [2026-01-22, 17:41:22](https://news.ycombinator.com/item?id=46722570) - [CSS Optical Illusions](https://alvaromontoro.com/blog/68091/css-optical-illusions)
 * [2026-01-22, 17:26:12](https://news.ycombinator.com/item?id=46722285) - [Show HN: First Claude Code client for Ollama local models](https://twitter.com/serafimcloud/status/2014266928853110862)
 * [2026-01-22, 17:26:12](https://news.ycombinator.com/item?id=46722285) - [Show HN: First Claude Code client for Ollama local models](https://github.com/21st-dev/1code)
+* [2026-01-22, 17:14:04](https://news.ycombinator.com/item?id=46722074) - [Composing APIs and CLIs in the LLM era](https://walters.app/blog/composing-apis-clis)
 * [2026-01-22, 17:11:47](https://news.ycombinator.com/item?id=46722038) - [Downtown Denver's office vacancy rate grows to 38.2%](https://coloradosun.com/2026/01/22/denver-downtown-office-vacancy-rate-tenants-workplace/)
 * [2026-01-22, 17:03:21](https://news.ycombinator.com/item?id=46721933) - [Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance](https://news.ycombinator.com/item?id=46721933)
 * [2026-01-22, 17:03:21](https://news.ycombinator.com/item?id=46721933) - [Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance](https://constellation-io.com/)

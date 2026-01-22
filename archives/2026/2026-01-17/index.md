@@ -74,6 +74,7 @@
 * [2026-01-17, 08:23:44](https://news.ycombinator.com/item?id=46656256) - [You have three minutes to escape the perpetual underclass – geohot](https://geohot.github.io//blog/jekyll/update/2026/01/17/three-minutes.html)
 * [2026-01-17, 07:43:21](https://news.ycombinator.com/item?id=46656100) - [Every data centre is a U.S. military base](https://www.policyalternatives.ca/news-research/every-data-centre-is-a-u-s-military-base/)
 * [2026-01-17, 07:29:18](https://news.ycombinator.com/item?id=46656045) - [The 'untouchable hacker god' behind Finland's biggest ever crime](https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes)
+* [2026-01-17, 07:25:06](https://news.ycombinator.com/item?id=46656029) - [Kip: A programming language based on grammatical cases of Turkish](https://github.com/joom/kip)
 * [2026-01-17, 05:58:19](https://news.ycombinator.com/item?id=46655702) - [Vibe coding is a blight on open-source](https://old.reddit.com/r/webdev/comments/1qcxres/vibe_coding_is_a_blight_on_opensource/)
 * [2026-01-17, 05:49:23](https://news.ycombinator.com/item?id=46655667) - [Meditation and Unconscious: A Buddhist Monk and a Neuroscientist (2022)](https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation/)
 * [2026-01-17, 05:20:20](https://news.ycombinator.com/item?id=46655524) - [Counterfactual evaluation for recommendation systems](https://eugeneyan.com/writing/counterfactual-evaluation/)
