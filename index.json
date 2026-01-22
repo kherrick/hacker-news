@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-01-22, 00:12:00",
-      "https://news.ycombinator.com/item?id=46713526"
-    ],
-    [
-      "Threat actors expand abuse of Microsoft Visual Studio Code",
-      "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 23:22:40",
       "https://news.ycombinator.com/item?id=46713106"
     ],
@@ -297,6 +287,16 @@
     [
       "TTY and Buffering",
       "https://mattrighetti.com/2026/01/12/tty-and-buffering"
+    ]
+  ],
+  [
+    [
+      "2026-01-17, 16:38:39",
+      "https://news.ycombinator.com/item?id=46659396"
+    ],
+    [
+      "Pragmatic Bitmap Filters in Microsoft SQL Server",
+      "https://www.vldb.org/cidrdb/2026/i-cant-believe-its-not-yannakakis-pragmatic-bitmap-filters-in-microsoft-sql-server.html"
     ]
   ]
 ]
