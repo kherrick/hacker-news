@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2026-01-21, 18:31:58",
-      "https://news.ycombinator.com/item?id=46709548"
-    ],
-    [
-      "TeraWave Satellite Communications Network",
-      "https://www.blueorigin.com/news/blue-origin-introduces-terawave-space-based-network-for-global-connectivity"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 18:31:19",
       "https://news.ycombinator.com/item?id=46709543"
     ],
@@ -231,22 +221,32 @@
   ],
   [
     [
-      "2026-01-18, 15:52:05",
-      "https://news.ycombinator.com/item?id=46668780"
-    ],
-    [
-      "Show HN: Open-source certificate from GitHub activity",
-      "https://certificate.brendonmatos.com"
-    ]
-  ],
-  [
-    [
       "2026-01-17, 21:23:58",
       "https://news.ycombinator.com/item?id=46662247"
     ],
     [
       "The WebRacket language is a subset of Racket that compiles to WebAssembly",
       "https://github.com/soegaard/webracket"
+    ]
+  ],
+  [
+    [
+      "2026-01-17, 17:36:06",
+      "https://news.ycombinator.com/item?id=46660016"
+    ],
+    [
+      "Show HN: Differentiable Quantum Chemistry",
+      "https://github.com/lowdanie/hartree-fock-solver"
+    ]
+  ],
+  [
+    [
+      "2026-01-17, 15:57:42",
+      "https://news.ycombinator.com/item?id=46659016"
+    ],
+    [
+      "Gathering Linux Syscall Numbers in a C Table",
+      "https://t-cadet.github.io/programming-wisdom/#2026-01-17-gathering-linux-syscall-numbers"
     ]
   ],
   [
