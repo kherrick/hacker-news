@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 14:47:58](https://news.ycombinator.com/item?id=46719899) - [Tree-sitter vs. Language Servers](https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/)
+* [2026-01-22, 14:32:52](https://news.ycombinator.com/item?id=46719704) - [Palantir, Meta, OpenAI Execs Appointed Lieutenant Colonels in US Army](https://twitter.com/SecArmy/status/1933693585183965372)
 * [2026-01-22, 14:14:12](https://news.ycombinator.com/item?id=46719489) - [You can now download Windows 7 and Vista ISO images with all the updates](https://www.neowin.net/news/you-can-now-download-windows-7-and-vista-iso-images-with-every-possible-update-included/)
+* [2026-01-22, 14:12:13](https://news.ycombinator.com/item?id=46719465) - [Meet the Alaska Student Arrested for Eating an AI Art Exhibit](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
+* [2026-01-22, 13:51:25](https://news.ycombinator.com/item?id=46719229) - [Qwen3-TTS Family Is Now Open Sourced: Voice Design, Clone, and Generation](https://qwen.ai/blog?id=qwen3tts-0115)
 * [2026-01-22, 13:50:48](https://news.ycombinator.com/item?id=46719222) - [Douglas Adams on the English–American cultural divide over \"heroes\"](https://shreevatsa.net/post/douglas-adams-cultural-divide/)
 * [2026-01-22, 13:18:56](https://news.ycombinator.com/item?id=46718869) - [Now with Mqtts](https://daniel.haxx.se/blog/2026/01/19/now-with-mqtts/)
 * [2026-01-22, 12:48:25](https://news.ycombinator.com/item?id=46718556) - [I am moving away from Scala](https://arbuh.medium.com/why-i-am-moving-away-from-scala-7a9d3dca17b9)
