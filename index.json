@@ -1,32 +1,12 @@
 [
   [
     [
-      "2026-01-22, 20:27:23",
-      "https://news.ycombinator.com/item?id=46724714"
+      "2026-01-22, 20:12:26",
+      "https://news.ycombinator.com/item?id=46724565"
     ],
     [
-      "Goldman Sachs Global Macro Research: Gen AI: too much spend, too little benefit [pdf]",
-      "https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend,-too-little-benefit-/TOM_AI%202.0_ForRedaction.pdf&originalQuery=&referrer="
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 20:24:06",
-      "https://news.ycombinator.com/item?id=46724675"
-    ],
-    [
-      "Vargai/SDK – JSX for AI Video. Declarative Programming Language for Claude Code",
-      "https://varg.ai/sdk"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 19:34:54",
-      "https://news.ycombinator.com/item?id=46724095"
-    ],
-    [
-      "AI code review needs specialized agents, not bigger models",
-      "https://www.qodo.ai/blog/the-next-generation-of-ai-code-review-from-isolated-to-system-intelligence/"
+      "Show HN: CLI for working with Apple Core ML models",
+      "https://github.com/schappim/coreml-cli"
     ]
   ],
   [
@@ -205,7 +185,7 @@
       "https://news.ycombinator.com/item?id=46719229"
     ],
     [
-      "Qwen3-TTS Family Is Now Open Sourced: Voice Design, Clone, and Generation",
+      "Qwen3-TTS family is now open sourced: Voice design, clone, and generation",
       "https://qwen.ai/blog?id=qwen3tts-0115"
     ]
   ],
@@ -241,12 +221,12 @@
   ],
   [
     [
-      "2026-01-22, 10:41:23",
-      "https://news.ycombinator.com/item?id=46717507"
+      "2026-01-22, 05:52:54",
+      "https://news.ycombinator.com/item?id=46715766"
     ],
     [
-      "ISO PDF spec is getting Brotli – ~20 % smaller documents with no quality loss",
-      "https://pdfa.org/want-to-make-your-pdfs-20-smaller-for-free/"
+      "Show HN: Synesthesia, make noise music with a colorpicker",
+      "https://visualnoise.ca"
     ]
   ],
   [
@@ -261,12 +241,12 @@
   ],
   [
     [
-      "2026-01-19, 16:55:32",
-      "https://news.ycombinator.com/item?id=46681309"
+      "2026-01-18, 22:16:43",
+      "https://news.ycombinator.com/item?id=46672713"
     ],
     [
-      "Bootstrapping Bun",
-      "https://walters.app/blog/bootstrapping-bun"
+      "Your app subscription is now my weekend project",
+      "https://rselbach.com/your-sub-is-now-my-weekend-project"
     ]
   ],
   [
@@ -275,7 +255,7 @@
       "https://news.ycombinator.com/item?id=46669001"
     ],
     [
-      "Keeping 20k GPUs Healthy",
+      "Keeping 20k GPUs healthy",
       "https://modal.com/blog/gpu-health"
     ]
   ],
@@ -297,6 +277,26 @@
     [
       "Compiling Scheme to WebAssembly",
       "https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/"
+    ]
+  ],
+  [
+    [
+      "2026-01-17, 19:24:28",
+      "https://news.ycombinator.com/item?id=46661167"
+    ],
+    [
+      "My first year in sales as technical founder",
+      "https://www.fabiandietrich.com/blog/first-year-in-sales.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-17, 17:01:43",
+      "https://news.ycombinator.com/item?id=46659635"
+    ],
+    [
+      "TTY and Buffering",
+      "https://mattrighetti.com/2026/01/12/tty-and-buffering"
     ]
   ]
 ]
