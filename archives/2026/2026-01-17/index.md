@@ -8,6 +8,8 @@
 * [2026-01-17, 23:47:16](https://news.ycombinator.com/item?id=46663338) - [If you put Apple icons in reverse it looks like someone getting good at design](https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1)
 * [2026-01-17, 23:47:16](https://news.ycombinator.com/item?id=46663338) - [If you put Apple icons in reverse it looks like someone getting good at design](https://mastodon.social/@heliographe_studio/115890819509545391)
 * [2026-01-17, 23:38:21](https://news.ycombinator.com/item?id=46663268) - [No knives, only cook knives](https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives)
+* [2026-01-17, 23:33:27](https://news.ycombinator.com/item?id=46663225) - [Vulnerable WhisperPair Devices – Hijack Bluetooth Accessories Using Fast Pair](https://whisperpair.eu/vulnerable-devices)
+* [2026-01-17, 23:29:54](https://news.ycombinator.com/item?id=46663200) - [Compiling Scheme to WebAssembly](https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/)
 * [2026-01-17, 22:47:55](https://news.ycombinator.com/item?id=46662886) - [Texas A&M university is banning Plato, citing his \"gender ideology\"](https://lithub.com/texas-am-is-banning-plato-citing-his-gender-ideology/)
 * [2026-01-17, 22:19:25](https://news.ycombinator.com/item?id=46662662) - [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/)
 * [2026-01-17, 21:57:21](https://news.ycombinator.com/item?id=46662515) - [EmuDevz: A game about developing emulators](https://afska.github.io/emudevz/)

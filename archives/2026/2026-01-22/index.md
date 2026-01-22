@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 20:10:25](https://news.ycombinator.com/item?id=46724542) - [Taming P99s in OpenFGA: How we built a self-tuning strategy planner](https://auth0.com/blog/self-tuning-strategy-planner-openfga/)
+* [2026-01-22, 19:34:54](https://news.ycombinator.com/item?id=46724095) - [AI code review needs specialized agents, not bigger models](https://www.qodo.ai/blog/the-next-generation-of-ai-code-review-from-isolated-to-system-intelligence/)
 * [2026-01-22, 19:27:32](https://news.ycombinator.com/item?id=46723990) - [Why does SSH send 100 packets per keystroke?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/)
+* [2026-01-22, 19:20:59](https://news.ycombinator.com/item?id=46723898) - [How LLM agents solve the table merging problem](https://futuresearch.ai/deep-merge-tutorial/)
+* [2026-01-22, 19:03:56](https://news.ycombinator.com/item?id=46723694) - ['Active' sitting is better for brain health: review of studies](https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health)
 * [2026-01-22, 18:38:27](https://news.ycombinator.com/item?id=46723384) - [I was banned from Claude for scaffolding a Claude.md file](https://hugodaniel.com/posts/claude-code-banned-me/)
+* [2026-01-22, 18:25:25](https://news.ycombinator.com/item?id=46723183) - [Skill.md: An open standard for agent skills](https://www.mintlify.com/blog/skill-md)
 * [2026-01-22, 18:01:02](https://news.ycombinator.com/item?id=46722853) - [Recent discoveries on the acquisition of the highest levels of human performance](https://www.science.org/doi/abs/10.1126/science.adt7790)
 * [2026-01-22, 17:42:51](https://news.ycombinator.com/item?id=46722594) - [Macron says €300B in EU savings sent to the US every year will be invested in EU](https://old.reddit.com/r/europe/comments/1qjtvtl/macron_says_300_billion_in_european_savings_flown/)
 * [2026-01-22, 17:41:22](https://news.ycombinator.com/item?id=46722570) - [CSS Optical Illusions](https://alvaromontoro.com/blog/68091/css-optical-illusions)
@@ -13,6 +18,8 @@
 * [2026-01-22, 17:03:21](https://news.ycombinator.com/item?id=46721933) - [Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance](https://constellation-io.com/)
 * [2026-01-22, 17:00:40](https://news.ycombinator.com/item?id=46721897) - [AnswerThis (YC F25) Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration)
 * [2026-01-22, 16:52:35](https://news.ycombinator.com/item?id=46721802) - [Show HN: isometric.nyc – giant isometric pixel art map of NYC](https://cannoneyed.com/isometric-nyc/)
+* [2026-01-22, 16:45:52](https://news.ycombinator.com/item?id=46721703) - [Reverse engineering Lyft Bikes for fun (and profit?)](https://ilanbigio.com/blog/lyft-bikes.html)
+* [2026-01-22, 16:31:47](https://news.ycombinator.com/item?id=46721488) - [Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)](https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video)
 * [2026-01-22, 16:30:58](https://news.ycombinator.com/item?id=46721474) - [Show HN: BrowserOS – \"Claude Cowork\" in the browser (open source)](https://github.com/browseros-ai/BrowserOS)
 * [2026-01-22, 16:29:25](https://news.ycombinator.com/item?id=46721452) - [Ubisoft cancels six games including Prince of Persia and closes studios](https://www.bbc.co.uk/news/articles/c6200g826d2o)
 * [2026-01-22, 16:27:02](https://news.ycombinator.com/item?id=46721418) - [Miami, Your Waymo Ride Is Ready](https://waymo.com/blog/2026/01/miami-your-waymo-ride-is-ready)
