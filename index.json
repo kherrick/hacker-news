@@ -1,22 +1,62 @@
 [
   [
     [
+      "2026-01-22, 01:48:44",
+      "https://news.ycombinator.com/item?id=46714192"
+    ],
+    [
+      "Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]",
+      "https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 01:11:36",
+      "https://news.ycombinator.com/item?id=46713929"
+    ],
+    [
+      "Significant US Farm Losses Persist, Despite Federal Assistance",
+      "https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 01:11:13",
+      "https://news.ycombinator.com/item?id=46713924"
+    ],
+    [
+      "Internet voting is insecure and should not be used in public elections",
+      "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 00:34:20",
+      "https://news.ycombinator.com/item?id=46713704"
+    ],
+    [
+      "I'll pass on your zoom call.",
+      "https://operand.online/chronicle/pass.zoom"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 00:12:00",
+      "https://news.ycombinator.com/item?id=46713526"
+    ],
+    [
+      "Threat Actors Expand Abuse of Microsoft Visual Studio Code",
+      "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 22:54:04",
       "https://news.ycombinator.com/item?id=46712815"
     ],
     [
       "Take potentially dangerous PDFs, and convert them to safe PDFs",
       "https://github.com/freedomofpress/dangerzone"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 22:41:45",
-      "https://news.ycombinator.com/item?id=46712678"
-    ],
-    [
-      "Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant",
-      "https://www.media.mit.edu/publications/your-brain-on-chatgpt/"
     ]
   ],
   [
@@ -51,42 +91,12 @@
   ],
   [
     [
-      "2026-01-21, 18:31:58",
-      "https://news.ycombinator.com/item?id=46709548"
-    ],
-    [
-      "TeraWave Satellite Communications Network",
-      "https://www.blueorigin.com/news/blue-origin-introduces-terawave-space-based-network-for-global-connectivity"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 18:31:19",
       "https://news.ycombinator.com/item?id=46709543"
     ],
     [
       "Show HN: Rails UI",
       "https://railsui.com/"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 18:05:36",
-      "https://news.ycombinator.com/item?id=46709179"
-    ],
-    [
-      "Scientists find a way to regrow cartilage in mice and human tissue samples",
-      "https://www.sciencedaily.com/releases/2026/01/260120000333.htm"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 17:36:09",
-      "https://news.ycombinator.com/item?id=46708766"
-    ],
-    [
-      "Slouching Towards Bethlehem – Joan Didion (1967)",
-      "https://www.saturdayeveningpost.com/2017/06/didion/"
     ]
   ],
   [
@@ -111,32 +121,12 @@
   ],
   [
     [
-      "2026-01-21, 17:20:39",
-      "https://news.ycombinator.com/item?id=46708592"
-    ],
-    [
-      "Open source server code for the BitCraft MMORPG",
-      "https://github.com/clockworklabs/BitCraftPublic"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 17:03:31",
       "https://news.ycombinator.com/item?id=46708351"
     ],
     [
       "Challenges in join optimization",
       "https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 16:38:26",
-      "https://news.ycombinator.com/item?id=46708032"
-    ],
-    [
-      "JPEG XL Test Page",
-      "https://tildeweb.nl/~michiel/jxl/"
     ]
   ],
   [
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2026-01-21, 14:56:32",
+      "https://news.ycombinator.com/item?id=46706564"
+    ],
+    [
+      "A verification layer for browser agents: Amazon case study",
+      "https://www.sentienceapi.com/blog/verification-layer-amazon-case-study"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 14:54:56",
       "https://news.ycombinator.com/item?id=46706528"
     ],
@@ -201,32 +201,12 @@
   ],
   [
     [
-      "2026-01-21, 09:04:42",
-      "https://news.ycombinator.com/item?id=46702980"
-    ],
-    [
-      "I finally got my sway layout to autostart the way I like it",
-      "https://hugues.betakappaphi.com/2026/01/19/sway-layout/"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 07:48:06",
       "https://news.ycombinator.com/item?id=46702411"
     ],
     [
       "Can you slim macOS down?",
       "https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 19:03:25",
-      "https://news.ycombinator.com/item?id=46696300"
-    ],
-    [
-      "Without benchmarking LLMs, you're likely overpaying",
-      "https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying"
     ]
   ],
   [
@@ -247,6 +227,16 @@
     [
       "SIMD programming in pure Rust",
       "https://kerkour.com/introduction-rust-simd"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 05:51:32",
+      "https://news.ycombinator.com/item?id=46675456"
+    ],
+    [
+      "Show HN: Yashiki – A tiling window manager for macOS in Rust, inspired by River",
+      "https://github.com/typester/yashiki"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby",
       "https://www.ratatui-ruby.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-01-17, 14:02:17",
+      "https://news.ycombinator.com/item?id=46658128"
+    ],
+    [
+      "Binary Fuse Filters: Fast and Smaller Than XOR Filters",
+      "https://arxiv.org/abs/2201.01174"
     ]
   ],
   [
