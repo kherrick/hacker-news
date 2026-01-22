@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 16:29:25](https://news.ycombinator.com/item?id=46721452) - [Ubisoft cancels six games including Prince of Persia and closes studios](https://www.bbc.co.uk/news/articles/c6200g826d2o)
 * [2026-01-22, 16:13:16](https://news.ycombinator.com/item?id=46721220) - [Zack Polanski to hand in NHS contract termination notice to Palantir](https://www.thecanary.co/uk/news/2026/01/22/zack-polanski-to-hand-in-nhs-contract-termination-notice-to-palantir/)
+* [2026-01-22, 16:10:20](https://news.ycombinator.com/item?id=46721179) - [It looks like the status/need-triage label was removed](https://github.com/google-gemini/gemini-cli/issues/16728)
 * [2026-01-22, 16:10:02](https://news.ycombinator.com/item?id=46721172) - [Interfaces and Traits in C](https://antonz.org/interfaces-in-c/)
 * [2026-01-22, 15:20:48](https://news.ycombinator.com/item?id=46720395) - [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
 * [2026-01-22, 14:47:58](https://news.ycombinator.com/item?id=46719899) - [Tree-sitter vs. Language Servers](https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/)
