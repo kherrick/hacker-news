@@ -129,24 +129,170 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="46721452">
+        <section id="46722038">
           <h3>
             <a
               class="item"
-              href="https://www.bbc.co.uk/news/articles/c6200g826d2o"
-              >Ubisoft cancels six games including Prince of Persia and closes
-              studios</a
+              href="https://coloradosun.com/2026/01/22/denver-downtown-office-vacancy-rate-tenants-workplace/"
+              >Downtown Denver's office vacancy rate grows to 38.2%</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-22 @ 16:29:25</span
+              <span>2026-01-22 @ 17:11:47</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46721452"
+                ><a href="https://news.ycombinator.com/item?id=46722038"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 29</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46721933">
+          <h3>
+            <a class="item" href="https://constellation-io.com/"
+              >Launch HN: Constellation Space (YC W26) – AI for satellite
+              mission assurance</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-22 @ 17:03:21</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46721933"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://youtu.be/069V9fADAtM"
+                >https://youtu.be/069V9fADAtM</a
+              >). Between us, we've spent years working on satellite operations
+              at SpaceX, Blue Origin, and NASA. At SpaceX, we managed
+              constellation health for Starlink. At Blue, we worked on next-gen
+              test infra for New Glenn. At NASA, we dealt with deep space
+              communications. The same problem kept coming up: by the time you
+              notice a link is degrading, you've often already lost data.
+              <p>
+                The core issue is that satellite RF links are affected by dozens
+                of interacting variables. A satellite passes overhead, and you
+                need to predict whether the link will hold for the next few
+                minutes. That depends on: the orbital geometry (elevation angle
+                changes constantly), tropospheric attenuation (humidity affects
+                signal loss via ITU-R P.676), rain fade (calculated via ITU-R
+                P.618 - rain rates in mm/hr translate directly to dB of loss at
+                Ka-band and above), ionospheric scintillation (we track the KP
+                index from magnetometer networks), and network congestion on top
+                of all that.
+              </p>
+              <p>
+                The traditional approach is reactive. Operators watch
+                dashboards, and when SNR drops below a threshold, they manually
+                reroute traffic or switch to a backup link. With 10,000
+                satellites in orbit today and 70,000+ projected by 2030, this
+                doesn't scale. Our system ingests telemetry at around 100,000
+                messages per second from satellites, ground stations, weather
+                radar, IoT humidity sensors, and space weather monitors. We run
+                physics-based models in real-time - the full link budget
+                equations, ITU atmospheric standards, orbital propagation - to
+                compute what should be happening. Then we layer ML models on
+                top, trained on billions of data points from actual multi-orbit
+                operations.
+              </p>
+              <p>
+                The ML piece is where it gets interesting. We use federated
+                learning because constellation operators (understandably) don't
+                want to share raw telemetry. Each constellation trains local
+                models on their own data, and we aggregate only the high-level
+                patterns. This gives us transfer learning across different orbit
+                types and frequency bands - learnings from LEO Ka-band links
+                help optimize MEO or GEO operations. We can predict most link
+                failures 3-5 minutes out with &gt;90% accuracy, which gives
+                enough time to reroute traffic before data loss. The system is
+                fully containerized (Docker/Kubernetes) and deploys on-premise
+                for air-gapped environments, on GovCloud (AWS GovCloud, Azure
+                Government), or standard commercial clouds.
+              </p>
+              <p>
+                Right now we're testing with defense and commercial partners.
+                The dashboard shows real-time link health, forecasts at
+                60/180/300 seconds out, and root cause analysis (is this rain
+                fade? satellite setting below horizon? congestion?). We expose
+                everything via API - telemetry ingestion, predictions, topology
+                snapshots, even an LLM chat endpoint for natural language
+                troubleshooting.
+              </p>
+              <p>
+                The hard parts we're still working on: prediction accuracy
+                degrades for longer time horizons (beyond 5 minutes gets dicey),
+                we need more labeled failure data for rare edge cases, and the
+                federated learning setup requires careful orchestration across
+                different operators' security boundaries. We'd love feedback
+                from anyone who's worked on satellite ops, RF link modeling, or
+                time-series prediction at scale. What are we missing? What would
+                make this actually useful in a production NOC environment?
+              </p>
+              <p>Happy to answer any technical questions!</p>
+            </div>
+          </section>
+        </section>
+        <section id="46721897">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration"
+              >AnswerThis (YC F25) Is Hiring</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-22 @ 17:00:40</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46721802">
+          <h3>
+            <a class="item" href="https://cannoneyed.com/isometric-nyc/"
+              >Show HN: isometric.nyc – giant isometric pixel art map of NYC</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-22 @ 16:52:35</span
+              ><span class="points-container"
+                >Points: <span class="points">60</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46721802"
+                  >Comments</a
+                ><span class="descendants">: 21</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46721418">
+          <h3>
+            <a
+              class="item"
+              href="https://waymo.com/blog/2026/01/miami-your-waymo-ride-is-ready"
+              >Miami, Your Waymo Ride Is Ready</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-22 @ 16:27:02</span
+              ><span class="points-container"
+                >Points: <span class="points">31</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46721418"
+                  >Comments</a
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -163,11 +309,11 @@
             <h4>
               <span>2026-01-22 @ 16:10:20</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46721179"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -183,11 +329,11 @@
             <h4>
               <span>2026-01-22 @ 15:20:48</span
               ><span class="points-container"
-                >Points: <span class="points">289</span></span
+                >Points: <span class="points">318</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46720395"
                   >Comments</a
-                ><span class="descendants">: 171</span></span
+                ><span class="descendants">: 187</span></span
               >
             </h4>
           </section>
@@ -204,11 +350,11 @@
             <h4>
               <span>2026-01-22 @ 14:47:58</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46719899"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -225,11 +371,11 @@
             <h4>
               <span>2026-01-22 @ 14:14:15</span
               ><span class="points-container"
-                >Points: <span class="points">256</span></span
+                >Points: <span class="points">285</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46719491"
                   >Comments</a
-                ><span class="descendants">: 224</span></span
+                ><span class="descendants">: 264</span></span
               >
             </h4>
           </section>
@@ -246,11 +392,11 @@
             <h4>
               <span>2026-01-22 @ 14:12:13</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46719465"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -266,11 +412,11 @@
             <h4>
               <span>2026-01-22 @ 13:51:25</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">193</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46719229"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -288,28 +434,11 @@
             <h4>
               <span>2026-01-22 @ 13:50:48</span
               ><span class="points-container"
-                >Points: <span class="points">250</span></span
+                >Points: <span class="points">260</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46719222"
                   >Comments</a
-                ><span class="descendants">: 252</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46718140">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ycombinator.com/companies/flowtel/jobs/LaddaEz-founding-engineer-staff-senior"
-              >Flowtel (YC W25) Is Hiring</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-22 @ 12:00:45</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
+                ><span class="descendants">: 258</span></span
               >
             </h4>
           </section>
@@ -326,11 +455,11 @@
             <h4>
               <span>2026-01-22 @ 11:51:10</span
               ><span class="points-container"
-                >Points: <span class="points">191</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46718061"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -346,11 +475,11 @@
             <h4>
               <span>2026-01-22 @ 10:48:27</span
               ><span class="points-container"
-                >Points: <span class="points">760</span></span
+                >Points: <span class="points">770</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46717556"
                   >Comments</a
-                ><span class="descendants">: 470</span></span
+                ><span class="descendants">: 490</span></span
               >
             </h4>
           </section>
@@ -368,32 +497,11 @@
             <h4>
               <span>2026-01-22 @ 10:41:23</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46717507"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46717442">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bbc.com/future/article/20260121-the-mysterious-mushroom-that-makes-you-see-tiny-people"
-              >The mushroom making people hallucinate tiny humans</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-22 @ 10:30:07</span
-              ><span class="points-container"
-                >Points: <span class="points">42</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46717442"
-                  >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -408,11 +516,11 @@
             <h4>
               <span>2026-01-22 @ 08:44:56</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46716696"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -427,11 +535,11 @@
             <h4>
               <span>2026-01-22 @ 08:03:57</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46716469"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -449,11 +557,11 @@
             <h4>
               <span>2026-01-22 @ 05:15:46</span
               ><span class="points-container"
-                >Points: <span class="points">224</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46715600"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -470,30 +578,11 @@
             <h4>
               <span>2026-01-22 @ 00:12:00</span
               ><span class="points-container"
-                >Points: <span class="points">246</span></span
+                >Points: <span class="points">248</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46713526"
                   >Comments</a
-                ><span class="descendants">: 250</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46713387">
-          <h3>
-            <a class="item" href="https://lix.dev/blog/introducing-lix/"
-              >Lix – universal version control system for binary files</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-21 @ 23:55:06</span
-              ><span class="points-container"
-                >Points: <span class="points">123</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46713387"
-                  >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 254</span></span
               >
             </h4>
           </section>
@@ -511,11 +600,11 @@
             <h4>
               <span>2026-01-21 @ 23:22:40</span
               ><span class="points-container"
-                >Points: <span class="points">470</span></span
+                >Points: <span class="points">478</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46713106"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
             <div class="text">
@@ -573,11 +662,11 @@
             <h4>
               <span>2026-01-21 @ 22:41:45</span
               ><span class="points-container"
-                >Points: <span class="points">480</span></span
+                >Points: <span class="points">496</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46712678"
                   >Comments</a
-                ><span class="descendants">: 348</span></span
+                ><span class="descendants">: 355</span></span
               >
             </h4>
           </section>
@@ -595,11 +684,11 @@
             <h4>
               <span>2026-01-21 @ 21:07:47</span
               ><span class="points-container"
-                >Points: <span class="points">263</span></span
+                >Points: <span class="points">267</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46711574"
                   >Comments</a
-                ><span class="descendants">: 278</span></span
+                ><span class="descendants">: 285</span></span
               >
             </h4>
           </section>
@@ -615,11 +704,11 @@
             <h4>
               <span>2026-01-21 @ 17:28:03</span
               ><span class="points-container"
-                >Points: <span class="points">413</span></span
+                >Points: <span class="points">415</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46708678"
                   >Comments</a
-                ><span class="descendants">: 230</span></span
+                ><span class="descendants">: 232</span></span
               >
             </h4>
           </section>
@@ -636,11 +725,11 @@
             <h4>
               <span>2026-01-21 @ 16:04:49</span
               ><span class="points-container"
-                >Points: <span class="points">535</span></span
+                >Points: <span class="points">538</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46707572"
                   >Comments</a
-                ><span class="descendants">: 626</span></span
+                ><span class="descendants">: 633</span></span
               >
             </h4>
             <div class="text">
@@ -660,62 +749,13 @@
             <h4>
               <span>2026-01-21 @ 15:20:53</span
               ><span class="points-container"
-                >Points: <span class="points">477</span></span
+                >Points: <span class="points">483</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46706906"
                   >Comments</a
-                ><span class="descendants">: 216</span></span
+                ><span class="descendants">: 217</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46706528">
-          <h3>
-            <a class="item" href="https://github.com/ChartGPU/ChartGPU"
-              >Show HN: ChartGPU – WebGPU-powered charting library (1M points at
-              60fps)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-21 @ 14:54:56</span
-              ><span class="points-container"
-                >Points: <span class="points">645</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46706528"
-                  >Comments</a
-                ><span class="descendants">: 202</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                The core insight: Canvas2D is fundamentally CPU-bound. Even
-                WebGL chart libraries still do most computation on the CPU. So I
-                moved everything to the GPU via WebGPU:
-              </p>
-              <p>
-                - LTTB downsampling runs as a compute shader - Hit-testing for
-                tooltips/hover is GPU-accelerated - Rendering uses instanced
-                draws (one draw call per series)
-              </p>
-              <p>The result: 1M points at 60fps with smooth zoom/pan.</p>
-              <p>
-                Live demo:
-                <a
-                  href="https://chartgpu.github.io/ChartGPU/examples/million-points/"
-                  >https://chartgpu.github.io/ChartGPU/examples/million-points/</a
-                >
-              </p>
-              <p>
-                Currently supports line, area, bar, scatter, pie, and
-                candlestick charts. MIT licensed, available on npm: `npm install
-                chartgpu`
-              </p>
-              <p>
-                Happy to answer questions about WebGPU internals or architecture
-                decisions.
-              </p>
-            </div>
           </section>
         </section>
         <section id="46684299">
@@ -749,11 +789,11 @@
             <h4>
               <span>2026-01-19 @ 06:36:57</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46675669"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
             <div class="text">
@@ -777,6 +817,27 @@
             </div>
           </section>
         </section>
+        <section id="46659396">
+          <h3>
+            <a
+              class="item"
+              href="https://www.vldb.org/cidrdb/2026/i-cant-believe-its-not-yannakakis-pragmatic-bitmap-filters-in-microsoft-sql-server.html"
+              >Pragmatic Bitmap Filters in Microsoft SQL Server</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-17 @ 16:38:39</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46659396"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46659016">
           <h3>
             <a
@@ -789,11 +850,11 @@
             <h4>
               <span>2026-01-17 @ 15:57:42</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46659016"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -810,32 +871,11 @@
             <h4>
               <span>2026-01-17 @ 15:36:55</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46658869"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46649786">
-          <h3>
-            <a
-              class="item"
-              href="https://labs.iximiuz.com/tutorials/unikernels-intro-93976514"
-              >Hands-On Introduction to Unikernels</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-16 @ 18:16:10</span
-              ><span class="points-container"
-                >Points: <span class="points">98</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46649786"
-                  >Comments</a
-                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
