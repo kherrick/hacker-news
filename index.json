@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-01-22, 21:31:59",
-      "https://news.ycombinator.com/item?id=46725389"
+      "2026-01-22, 21:54:02",
+      "https://news.ycombinator.com/item?id=46725632"
     ],
     [
-      "Extracting a UART Password via SPI Flash Instruction Tracing",
-      "https://zuernerd.github.io/blog/2026/01/07/switch-password.html"
+      "Anthropic Economic Index economic primitives",
+      "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 21:52:46",
+      "https://news.ycombinator.com/item?id=46725618"
+    ],
+    [
+      "The Education of the Broligarchy",
+      "https://colossus.com/article/education-broligarchy-silicon-valley-canon/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 21:43:14",
+      "https://news.ycombinator.com/item?id=46725522"
+    ],
+    [
+      "Viking Ship Museum in Denmark announces the discovery of the largest cog",
+      "https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "I was banned from Claude for scaffolding a Claude.md file?",
       "https://hugodaniel.com/posts/claude-code-banned-me/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 18:25:25",
-      "https://news.ycombinator.com/item?id=46723183"
-    ],
-    [
-      "Skill.md: An open standard for agent skills",
-      "https://www.mintlify.com/blog/skill-md"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-01-22, 10:41:23",
-      "https://news.ycombinator.com/item?id=46717507"
-    ],
-    [
-      "ISO PDF spec is getting Brotli – ~20 % smaller documents with no quality loss",
-      "https://pdfa.org/want-to-make-your-pdfs-20-smaller-for-free/"
-    ]
-  ],
-  [
-    [
       "2026-01-22, 05:52:54",
       "https://news.ycombinator.com/item?id=46715766"
     ],
@@ -227,6 +227,16 @@
     [
       "Mote: An Interactive Ecosystem Simulation [video]",
       "https://www.youtube.com/watch?v=Hju0H3NHxVI"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 17:01:55",
+      "https://news.ycombinator.com/item?id=46681431"
+    ],
+    [
+      "Preserved Fish, Boss of New York City",
+      "https://signoregalilei.com/2025/12/21/preserved-fish-boss-of-new-york-city/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "My first year in sales as technical founder",
       "https://www.fabiandietrich.com/blog/first-year-in-sales.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-17, 17:01:43",
-      "https://news.ycombinator.com/item?id=46659635"
-    ],
-    [
-      "TTY and Buffering",
-      "https://mattrighetti.com/2026/01/12/tty-and-buffering"
     ]
   ]
 ]
