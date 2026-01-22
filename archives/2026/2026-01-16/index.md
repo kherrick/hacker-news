@@ -25,6 +25,7 @@
 * [2026-01-16, 18:49:29](https://news.ycombinator.com/item?id=46650347) - [Reading across books with Claude Code](https://pieterma.es/syntopic-reading-claude/)
 * [2026-01-16, 18:20:15](https://news.ycombinator.com/item?id=46649853) - [RTS for Agents](https://www.getagentcraft.com/)
 * [2026-01-16, 18:18:20](https://news.ycombinator.com/item?id=46649813) - [Earth from Space: The Fate of a Giant](https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant)
+* [2026-01-16, 18:16:10](https://news.ycombinator.com/item?id=46649786) - [Hands-On Introduction to Unikernels](https://labs.iximiuz.com/tutorials/unikernels-intro-93976514)
 * [2026-01-16, 18:15:52](https://news.ycombinator.com/item?id=46649781) - [Graphics In Flatland – 2D ray tracing [video]](https://www.youtube.com/watch?v=WYTOykSqf2Y)
 * [2026-01-16, 18:06:06](https://news.ycombinator.com/item?id=46649644) - [OpenAI to begin testing ads on ChatGPT in the U.S.](https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html)
 * [2026-01-16, 18:02:19](https://news.ycombinator.com/item?id=46649577) - [Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)

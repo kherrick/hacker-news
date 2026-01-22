@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-22, 05:15:46](https://news.ycombinator.com/item?id=46715600) - [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
 * [2026-01-22, 03:26:38](https://news.ycombinator.com/item?id=46714916) - [Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)
-* [2026-01-22, 01:11:13](https://news.ycombinator.com/item?id=46713924) - [Internet voting is insecure and should not be used in public elections](https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/)
-* [2026-01-22, 00:34:20](https://news.ycombinator.com/item?id=46713704) - [I'll pass on your zoom call](https://operand.online/chronicle/pass.zoom)
 * [2026-01-22, 00:12:00](https://news.ycombinator.com/item?id=46713526) - [Threat actors expand abuse of Microsoft Visual Studio Code](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/)
 * [2026-01-22, 00:04:47](https://news.ycombinator.com/item?id=46713473) - [Show HN: Dotenv Mask Editor: No more embarrassing screen leaks of your .env](https://marketplace.visualstudio.com/items?itemName=xinbenlv.dotenv-mask-editor)
 * [2026-01-22, 00:00:36](https://news.ycombinator.com/item?id=46713444) - [From stealth blackout to whitelisting: Inside the Iranian shutdown](https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/)
@@ -30,6 +29,7 @@
 * [2026-01-17, 14:02:17](https://news.ycombinator.com/item?id=46658128) - [Binary fuse filters: Fast and smaller than xor filters (2022)](https://arxiv.org/abs/2201.01174)
 * [2026-01-16, 21:02:25](https://news.ycombinator.com/item?id=46652173) - [Letting Claude play text adventures](https://borretti.me/article/letting-claude-play-text-adventures)
 * [2026-01-16, 19:34:00](https://news.ycombinator.com/item?id=46651027) - [Golfing APL/K in 90 Lines of Python](https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python)
+* [2026-01-16, 18:16:10](https://news.ycombinator.com/item?id=46649786) - [Hands-On Introduction to Unikernels](https://labs.iximiuz.com/tutorials/unikernels-intro-93976514)
 
 ## [Archives](archives/index.md)
 
