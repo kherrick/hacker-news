@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-01-23, 09:38:02",
-      "https://news.ycombinator.com/item?id=46730436"
-    ],
-    [
-      "Updates to our web search products and  Programmable Search Engine capabilities",
-      "https://programmablesearchengine.googleblog.com/2026/01/updates-to-our-web-search-products.html"
-    ]
-  ],
-  [
-    [
       "2026-01-23, 07:01:29",
       "https://news.ycombinator.com/item?id=46729368"
     ],
@@ -277,6 +267,16 @@
     [
       "Floating-Point Printing and Parsing Can Be Simple and Fast",
       "https://research.swtch.com/fp"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 21:33:15",
+      "https://news.ycombinator.com/item?id=46684789"
+    ],
+    [
+      "Nanotimetamps: Time-Stamped Data on Nano Block Lattice",
+      "https://github.com/SerJaimeLannister/nanotimestamp/wiki"
     ]
   ],
   [
