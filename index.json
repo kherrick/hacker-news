@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=46731996"
     ],
     [
-      "Microsoft Mishandling Example.com",
+      "Microsoft mishandling example.com",
       "https://tinyapps.org/blog/microsoft-mishandling-example-com.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 13:01:51",
+      "https://news.ycombinator.com/item?id=46731976"
+    ],
+    [
+      "European Alternatives",
+      "https://european-alternatives.eu"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "What has Docker become?",
       "https://tuananh.net/2026/01/20/what-has-docker-become/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 12:30:32",
-      "https://news.ycombinator.com/item?id=46731694"
-    ],
-    [
-      "Microsoft Gave FBI Keys to Unlock Encrypted Data, Exposing Major Privacy Flaw",
-      "https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/"
     ]
   ],
   [
@@ -65,18 +65,8 @@
       "https://news.ycombinator.com/item?id=46730885"
     ],
     [
-      "Booting a PC from a Vinyl Record",
+      "Booting from a vinyl record (2020)",
       "https://boginjr.com/it/sw/dev/vinyl-boot/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 10:12:08",
-      "https://news.ycombinator.com/item?id=46730671"
-    ],
-    [
-      "Why I Don't Have Fun With Claude Code",
-      "https://brennan.io/2026/01/23/claude-code/"
     ]
   ],
   [
@@ -85,8 +75,18 @@
       "https://news.ycombinator.com/item?id=46730504"
     ],
     [
-      "Ghostty's AI Policy",
+      "AI Usage Policy",
       "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 09:38:02",
+      "https://news.ycombinator.com/item?id=46730436"
+    ],
+    [
+      "Updates to our web search products and  Programmable Search Engine capabilities",
+      "https://programmablesearchengine.googleblog.com/2026/01/updates-to-our-web-search-products.html"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=46730346"
     ],
     [
-      "The State of Modern AI Text to Speech Systems for Screen Reader Users",
+      "The state of modern AI text to speech systems for screen reader users",
       "https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html"
     ]
   ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2026-01-19, 20:30:24",
+      "https://news.ycombinator.com/item?id=46684097"
+    ],
+    [
+      "Our collective obsession with boredom: Interview with a boredom lab researcher",
+      "https://nautil.us/why-the-do-nothing-challenge-doesnt-do-much-for-you-1262005/"
+    ]
+  ],
+  [
+    [
       "2026-01-19, 09:09:40",
       "https://news.ycombinator.com/item?id=46676629"
     ],
     [
       "Variation on Iota",
       "https://www.toolofthought.com/posts/variation-on-iota"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 06:51:58",
-      "https://news.ycombinator.com/item?id=46675745"
-    ],
-    [
-      "Writing First, Tooling Second",
-      "https://susam.net/writing-first-tooling-second.html"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=46668247"
     ],
     [
-      "The cleaner: One woman's mission to help Britain's hoarders",
+      "The cleaner: One woman’s mission to help Britain’s hoarders",
       "https://www.aljazeera.com/features/2026/1/18/the-cleaner-one-womans-mission-to-help-britains-hoarders"
     ]
   ]
