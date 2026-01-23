@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-23, 09:50:26",
+      "https://news.ycombinator.com/item?id=46730504"
+    ],
+    [
+      "Ghostty's AI Policy",
+      "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 09:38:02",
       "https://news.ycombinator.com/item?id=46730436"
     ],
     [
       "Google is ending full-web search for niche search engines",
       "https://programmablesearchengine.googleblog.com/"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 09:24:27",
+      "https://news.ycombinator.com/item?id=46730346"
+    ],
+    [
+      "The State of Modern AI Text to Speech Systems for Screen Reader Users",
+      "https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html"
     ]
   ],
   [
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2026-01-22, 16:31:47",
-      "https://news.ycombinator.com/item?id=46721488"
-    ],
-    [
-      "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
-      "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video"
-    ]
-  ],
-  [
-    [
       "2026-01-22, 15:20:48",
       "https://news.ycombinator.com/item?id=46720395"
     ],
     [
       "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
       "https://gptzero.me/news/neurips/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 14:14:15",
-      "https://news.ycombinator.com/item?id=46719491"
-    ],
-    [
-      "In Europe, wind and solar overtake fossil fuels",
-      "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels"
     ]
   ],
   [
