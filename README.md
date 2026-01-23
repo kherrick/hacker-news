@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-23, 07:01:29](https://news.ycombinator.com/item?id=46729368) - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
 * [2026-01-23, 05:34:35](https://news.ycombinator.com/item?id=46728808) - [I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)
 * [2026-01-23, 03:52:06](https://news.ycombinator.com/item?id=46728197) - [Talking to LLMs has improved my thinking](https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/)
 * [2026-01-23, 02:24:12](https://news.ycombinator.com/item?id=46727587) - [Bugs Apple Loves](https://www.bugsappleloves.com)
@@ -24,12 +25,11 @@
 * [2026-01-22, 13:50:48](https://news.ycombinator.com/item?id=46719222) - [Douglas Adams on the English–American cultural divide over \"heroes\"](https://shreevatsa.net/post/douglas-adams-cultural-divide/)
 * [2026-01-22, 11:51:10](https://news.ycombinator.com/item?id=46718061) - [Design Thinking Books (2024)](https://www.designorate.com/design-thinking-books/)
 * [2026-01-22, 11:40:01](https://news.ycombinator.com/item?id=46717960) - ['Askers' vs. 'Guessers' (2010)](https://www.theatlantic.com/national/2010/05/askers-vs-guessers/340891/)
-* [2026-01-21, 22:41:45](https://news.ycombinator.com/item?id=46712678) - [Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+* [2026-01-19, 21:57:03](https://news.ycombinator.com/item?id=46685064) - [Show HN: Txt2plotter – True centerline vectors from Flux.2 for pen plotters](https://github.com/malvarezcastillo/txt2plotter)
 * [2026-01-19, 11:04:47](https://news.ycombinator.com/item?id=46677583) - [Turso is an in-process SQL database, compatible with SQLite](https://github.com/tursodatabase/turso)
 * [2026-01-19, 06:51:58](https://news.ycombinator.com/item?id=46675745) - [Writing First, Tooling Second](https://susam.net/writing-first-tooling-second.html)
 * [2026-01-18, 23:19:19](https://news.ycombinator.com/item?id=46673216) - [TI-99/4A: Leaning More on the Firmware](https://bumbershootsoft.wordpress.com/2026/01/17/ti-99-4a-leaning-more-heavily-on-the-firmware/)
 * [2026-01-18, 22:16:43](https://news.ycombinator.com/item?id=46672713) - [Your app subscription is now my weekend project](https://rselbach.com/your-sub-is-now-my-weekend-project)
-* [2026-01-18, 16:16:11](https://news.ycombinator.com/item?id=46669001) - [Keeping 20k GPUs healthy](https://modal.com/blog/gpu-health)
 
 ## [Archives](archives/index.md)
 

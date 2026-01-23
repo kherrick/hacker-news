@@ -6,6 +6,7 @@
 
 * [2026-01-19, 23:59:54](https://news.ycombinator.com/item?id=46686273) - [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
 * [2026-01-19, 23:39:57](https://news.ycombinator.com/item?id=46686131) - [3D printing my laptop ergonomic setup](https://www.ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/)
+* [2026-01-19, 21:57:03](https://news.ycombinator.com/item?id=46685064) - [Show HN: Txt2plotter – True centerline vectors from Flux.2 for pen plotters](https://github.com/malvarezcastillo/txt2plotter)
 * [2026-01-19, 21:48:07](https://news.ycombinator.com/item?id=46684958) - [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
 * [2026-01-19, 21:39:44](https://news.ycombinator.com/item?id=46684862) - [Use Social Media Mindfully](https://danielleheberling.xyz/blog/mindful-social-media/)
 * [2026-01-19, 21:35:31](https://news.ycombinator.com/item?id=46684815) - [Targeted Bets: An alternative approach to the job hunt](https://www.seanmuirhead.com/blog/targeted-bets)
