@@ -6,6 +6,7 @@
 
 * [2026-01-23, 13:25:42](https://news.ycombinator.com/item?id=46732213) - [Radicle: The Sovereign Forge](https://radicle.xyz)
 * [2026-01-23, 13:04:09](https://news.ycombinator.com/item?id=46731996) - [Microsoft Mishandling Example.com](https://tinyapps.org/blog/microsoft-mishandling-example-com.html)
+* [2026-01-23, 13:01:51](https://news.ycombinator.com/item?id=46731976) - [European Alternatives](https://european-alternatives.eu)
 * [2026-01-23, 12:50:03](https://news.ycombinator.com/item?id=46731865) - [White House defends sharing AI image showing arrested woman crying](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
 * [2026-01-23, 12:36:17](https://news.ycombinator.com/item?id=46731748) - [What has Docker become?](https://tuananh.net/2026/01/20/what-has-docker-become/)
 * [2026-01-23, 12:30:32](https://news.ycombinator.com/item?id=46731694) - [Microsoft Gave FBI Keys to Unlock Encrypted Data, Exposing Major Privacy Flaw](https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/)
@@ -15,6 +16,7 @@
 * [2026-01-23, 10:39:09](https://news.ycombinator.com/item?id=46730885) - [Booting a PC from a Vinyl Record](https://boginjr.com/it/sw/dev/vinyl-boot/)
 * [2026-01-23, 10:12:08](https://news.ycombinator.com/item?id=46730671) - [Why I Don't Have Fun With Claude Code](https://brennan.io/2026/01/23/claude-code/)
 * [2026-01-23, 09:50:26](https://news.ycombinator.com/item?id=46730504) - [Ghostty's AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+* [2026-01-23, 09:38:02](https://news.ycombinator.com/item?id=46730436) - [Updates to our web search products and  Programmable Search Engine capabilities](https://programmablesearchengine.googleblog.com/2026/01/updates-to-our-web-search-products.html)
 * [2026-01-23, 09:38:02](https://news.ycombinator.com/item?id=46730436) - [Google is ending full-web search for niche search engines](https://programmablesearchengine.googleblog.com/)
 * [2026-01-23, 09:24:27](https://news.ycombinator.com/item?id=46730346) - [The State of Modern AI Text to Speech Systems for Screen Reader Users](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
 * [2026-01-23, 09:06:26](https://news.ycombinator.com/item?id=46730233) - [Why are there so many CPU bugs nowadays](https://mas.to/@gabrielesvelto/115939583202357863)
