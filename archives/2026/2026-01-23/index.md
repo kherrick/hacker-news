@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-23](index.md)
 
+* [2026-01-23, 13:25:42](https://news.ycombinator.com/item?id=46732213) - [Radicle: The Sovereign Forge](https://radicle.xyz)
 * [2026-01-23, 13:04:09](https://news.ycombinator.com/item?id=46731996) - [Microsoft Mishandling Example.com](https://tinyapps.org/blog/microsoft-mishandling-example-com.html)
 * [2026-01-23, 12:50:03](https://news.ycombinator.com/item?id=46731865) - [White House defends sharing AI image showing arrested woman crying](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
 * [2026-01-23, 12:36:17](https://news.ycombinator.com/item?id=46731748) - [What has Docker become?](https://tuananh.net/2026/01/20/what-has-docker-become/)
+* [2026-01-23, 12:30:32](https://news.ycombinator.com/item?id=46731694) - [Microsoft Gave FBI Keys to Unlock Encrypted Data, Exposing Major Privacy Flaw](https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/)
 * [2026-01-23, 12:16:54](https://news.ycombinator.com/item?id=46731612) - [Presence in Death](https://rubinmuseum.org/presence-in-death/)
 * [2026-01-23, 12:09:19](https://news.ycombinator.com/item?id=46731546) - [How to Leave Germany](https://allaboutberlin.com/guides/leaving-germany)
 * [2026-01-23, 11:54:53](https://news.ycombinator.com/item?id=46731432) - [Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go](https://github.com/ramonvermeulen/whosthere)

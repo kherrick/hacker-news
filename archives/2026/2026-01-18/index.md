@@ -45,6 +45,7 @@
 * [2026-01-18, 15:55:26](https://news.ycombinator.com/item?id=46668801) - [Purdue blocks admission of many Chinese grad students in unwritten policy](https://www.science.org/content/article/purdue-blocks-admission-many-chinese-grad-students-unwritten-policy)
 * [2026-01-18, 15:52:05](https://news.ycombinator.com/item?id=46668780) - [Show HN: Open-source certificate from GitHub activity](https://certificate.brendonmatos.com)
 * [2026-01-18, 15:09:37](https://news.ycombinator.com/item?id=46668394) - [Why the Tech World Thinks the American Dream Is Dying](https://www.wsj.com/tech/ai/why-the-tech-world-thinks-the-american-dream-is-dying-daf793dc)
+* [2026-01-18, 14:55:12](https://news.ycombinator.com/item?id=46668247) - [The cleaner: One woman's mission to help Britain's hoarders](https://www.aljazeera.com/features/2026/1/18/the-cleaner-one-womans-mission-to-help-britains-hoarders)
 * [2026-01-18, 14:45:37](https://news.ycombinator.com/item?id=46668170) - [AI companies will fail. We can salvage something from the wreckage](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
 * [2026-01-18, 14:38:28](https://news.ycombinator.com/item?id=46668107) - [The next-gen SQLite won't look like SQLite](https://gist.github.com/radarroark/03a0724484e1111ef4c05d72a935c42c)
 * [2026-01-18, 14:25:49](https://news.ycombinator.com/item?id=46668021) - [The A in AGI Stands for Ads](https://ossa-ma.github.io/blog/openads)
