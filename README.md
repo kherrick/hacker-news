@@ -12,7 +12,6 @@
 * [2026-01-23, 17:26:57](https://news.ycombinator.com/item?id=46735139) - [Nobody likes lag: How to make low-latency dev sandboxes](https://www.compyle.ai/blog/nobody-likes-lag/)
 * [2026-01-23, 17:26:27](https://news.ycombinator.com/item?id=46735133) - [Notes on the Intel 8086 processor's arithmetic-logic unit](https://www.righto.com/2026/01/notes-on-intel-8086-processors.html)
 * [2026-01-23, 16:19:18](https://news.ycombinator.com/item?id=46734302) - [Gas Town's Agent Patterns, Design Bottlenecks, and Vibecoding at Scale](https://maggieappleton.com/gastown)
-* [2026-01-23, 15:49:35](https://news.ycombinator.com/item?id=46733905) - [Show HN: Teemux – Zero-config log multiplexer with built-in MCP server](https://teemux.com/)
 * [2026-01-23, 15:48:54](https://news.ycombinator.com/item?id=46733899) - [Three RCEs in Ilias Learning Management System](https://srlabs.de/blog/breaking-ilias-part-2-three-to-rce)
 * [2026-01-23, 15:03:01](https://news.ycombinator.com/item?id=46733301) - [Waypoint-1: Real-Time Interactive Video Diffusion from Overworld](https://huggingface.co/blog/waypoint-1)
 * [2026-01-23, 14:34:46](https://news.ycombinator.com/item?id=46732967) - [KORG phase8 – Acoustic Synthesizer](https://www.korg.com/us/products/dj/phase8/)
@@ -28,6 +27,7 @@
 * [2026-01-22, 16:31:47](https://news.ycombinator.com/item?id=46721488) - [Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)](https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video)
 * [2026-01-20, 03:28:01](https://news.ycombinator.com/item?id=46687603) - [Flying with Photons: Rendering Novel Views of Propagating Light](https://anaghmalik.com/FlyingWithPhotons/)
 * [2026-01-20, 00:20:54](https://news.ycombinator.com/item?id=46686402) - [AI is a horse (2024)](https://kconner.com/2024/08/02/ai-is-a-horse.html)
+* [2026-01-19, 22:21:45](https://news.ycombinator.com/item?id=46685317) - [Floating-Point Printing and Parsing Can Be Simple and Fast](https://research.swtch.com/fp)
 * [2026-01-18, 14:00:00](https://news.ycombinator.com/item?id=46667849) - [Show HN: Zsweep – Play Minesweeper using only Vim motions](https://zsweep.com)
 * [2026-01-18, 12:45:11](https://news.ycombinator.com/item?id=46667397) - [Kotlin's Rich Errors: Native, Typed Errors Without Exceptions](https://cekrem.github.io/posts/kotlin-rich-errors-elm-union-types/)
 
