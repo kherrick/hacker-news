@@ -55,6 +55,7 @@
 * [2026-01-18, 12:34:57](https://news.ycombinator.com/item?id=46667336) - [Avoiding fan traps in database design and system diagrams](https://www.ilograph.com/blog/posts/avoid-fan-traps-in-system-diagrams/)
 * [2026-01-18, 12:00:10](https://news.ycombinator.com/item?id=46667101) - [Keystone (YC S25) Is Hiring](https://news.ycombinator.com/item?id=46667101)
 * [2026-01-18, 11:59:32](https://news.ycombinator.com/item?id=46667094) - [When_Sysadmins_Ruled_the_Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html)
+* [2026-01-18, 11:51:21](https://news.ycombinator.com/item?id=46667039) - [Project Mercury and the Sofar Bomb](https://www.thequantumcat.space/p/project-mercury-and-the-sofar-bomb)
 * [2026-01-18, 11:39:14](https://news.ycombinator.com/item?id=46666963) - [Starting from scratch: Training a 30M Topological Transformer](https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer)
 * [2026-01-18, 11:31:54](https://news.ycombinator.com/item?id=46666916) - [Throwing it all away over the Mercator projection](https://danieldrezner.substack.com/p/what-is-trump-even-doing-at-this)
 * [2026-01-18, 10:39:52](https://news.ycombinator.com/item?id=46666661) - [Show HN: Xenia – A monospaced font built with a custom Python engine](https://github.com/Loretta1982/xenia)
