@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-23, 18:42:38",
+      "https://news.ycombinator.com/item?id=46736091"
+    ],
+    [
+      "Claude.ai silently failing since Jan 14, no official acknowledgment",
+      "https://github.com/anthropics/claude-code/issues/18866"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 18:39:42",
       "https://news.ycombinator.com/item?id=46736048"
     ],
@@ -71,6 +81,26 @@
   ],
   [
     [
+      "2026-01-23, 17:26:57",
+      "https://news.ycombinator.com/item?id=46735139"
+    ],
+    [
+      "Nobody likes lag: How to make low-latency dev sandboxes",
+      "https://www.compyle.ai/blog/nobody-likes-lag/"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 17:26:27",
+      "https://news.ycombinator.com/item?id=46735133"
+    ],
+    [
+      "Notes on the Intel 8086 processor's arithmetic-logic unit",
+      "https://www.righto.com/2026/01/notes-on-intel-8086-processors.html"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 16:19:18",
       "https://news.ycombinator.com/item?id=46734302"
     ],
@@ -81,12 +111,32 @@
   ],
   [
     [
+      "2026-01-23, 15:49:35",
+      "https://news.ycombinator.com/item?id=46733905"
+    ],
+    [
+      "Show HN: Teemux – Zero-config log multiplexer with built-in MCP server",
+      "https://teemux.com/"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 15:48:54",
       "https://news.ycombinator.com/item?id=46733899"
     ],
     [
       "Three RCEs in Ilias Learning Management System",
       "https://srlabs.de/blog/breaking-ilias-part-2-three-to-rce"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 15:03:01",
+      "https://news.ycombinator.com/item?id=46733301"
+    ],
+    [
+      "Waypoint-1: Real-Time Interactive Video Diffusion from Overworld",
+      "https://huggingface.co/blog/waypoint-1"
     ]
   ],
   [
@@ -121,26 +171,6 @@
   ],
   [
     [
-      "2026-01-23, 12:36:17",
-      "https://news.ycombinator.com/item?id=46731748"
-    ],
-    [
-      "What has Docker become?",
-      "https://tuananh.net/2026/01/20/what-has-docker-become/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 12:16:54",
-      "https://news.ycombinator.com/item?id=46731612"
-    ],
-    [
-      "Presence in Death",
-      "https://rubinmuseum.org/presence-in-death/"
-    ]
-  ],
-  [
-    [
       "2026-01-23, 11:54:53",
       "https://news.ycombinator.com/item?id=46731432"
     ],
@@ -157,16 +187,6 @@
     [
       "Booting from a vinyl record (2020)",
       "https://boginjr.com/it/sw/dev/vinyl-boot/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 09:50:26",
-      "https://news.ycombinator.com/item?id=46730504"
-    ],
-    [
-      "AI Usage Policy",
-      "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md"
     ]
   ],
   [
@@ -221,42 +241,12 @@
   ],
   [
     [
-      "2026-01-22, 19:27:32",
-      "https://news.ycombinator.com/item?id=46723990"
+      "2026-01-22, 16:31:47",
+      "https://news.ycombinator.com/item?id=46721488"
     ],
     [
-      "Why does SSH send 100 packets per keystroke?",
-      "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 18:38:27",
-      "https://news.ycombinator.com/item?id=46723384"
-    ],
-    [
-      "I was banned from Claude for scaffolding a Claude.md file?",
-      "https://hugodaniel.com/posts/claude-code-banned-me/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 16:52:35",
-      "https://news.ycombinator.com/item?id=46721802"
-    ],
-    [
-      "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
-      "https://cannoneyed.com/isometric-nyc/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 15:20:48",
-      "https://news.ycombinator.com/item?id=46720395"
-    ],
-    [
-      "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
-      "https://gptzero.me/news/neurips/"
+      "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
+      "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "AI is a horse (2024)",
       "https://kconner.com/2024/08/02/ai-is-a-horse.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 21:02:29",
+      "https://news.ycombinator.com/item?id=46684458"
+    ],
+    [
+      "The Unexpected Logic of Art Economics: Arts and Inequality in 80s NY (2020)",
+      "https://www.gothamcenter.org/blog/unexpected-logic-art-economics"
     ]
   ],
   [
