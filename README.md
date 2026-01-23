@@ -23,13 +23,13 @@
 * [2026-01-22, 14:14:15](https://news.ycombinator.com/item?id=46719491) - [In Europe, wind and solar overtake fossil fuels](https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels)
 * [2026-01-22, 13:51:25](https://news.ycombinator.com/item?id=46719229) - [Qwen3-TTS family is now open sourced: Voice design, clone, and generation](https://qwen.ai/blog?id=qwen3tts-0115)
 * [2026-01-22, 13:50:48](https://news.ycombinator.com/item?id=46719222) - [Douglas Adams on the English–American cultural divide over \"heroes\"](https://shreevatsa.net/post/douglas-adams-cultural-divide/)
-* [2026-01-22, 11:51:10](https://news.ycombinator.com/item?id=46718061) - [Design Thinking Books (2024)](https://www.designorate.com/design-thinking-books/)
 * [2026-01-22, 11:40:01](https://news.ycombinator.com/item?id=46717960) - ['Askers' vs. 'Guessers' (2010)](https://www.theatlantic.com/national/2010/05/askers-vs-guessers/340891/)
 * [2026-01-19, 21:57:03](https://news.ycombinator.com/item?id=46685064) - [Show HN: Txt2plotter – True centerline vectors from Flux.2 for pen plotters](https://github.com/malvarezcastillo/txt2plotter)
 * [2026-01-19, 11:04:47](https://news.ycombinator.com/item?id=46677583) - [Turso is an in-process SQL database, compatible with SQLite](https://github.com/tursodatabase/turso)
 * [2026-01-19, 06:51:58](https://news.ycombinator.com/item?id=46675745) - [Writing First, Tooling Second](https://susam.net/writing-first-tooling-second.html)
 * [2026-01-18, 23:19:19](https://news.ycombinator.com/item?id=46673216) - [TI-99/4A: Leaning More on the Firmware](https://bumbershootsoft.wordpress.com/2026/01/17/ti-99-4a-leaning-more-heavily-on-the-firmware/)
 * [2026-01-18, 22:16:43](https://news.ycombinator.com/item?id=46672713) - [Your app subscription is now my weekend project](https://rselbach.com/your-sub-is-now-my-weekend-project)
+* [2026-01-18, 19:31:11](https://news.ycombinator.com/item?id=46671286) - [A gaming success story: how Warhammer became one of Britain's biggest companies](https://www.theguardian.com/lifeandstyle/2026/jan/18/a-gaming-success-story-how-warhammer-became-one-of-britains-biggest-companies)
 
 ## [Archives](archives/index.md)
 

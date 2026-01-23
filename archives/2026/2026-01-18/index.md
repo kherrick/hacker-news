@@ -19,6 +19,7 @@
 * [2026-01-18, 20:42:49](https://news.ycombinator.com/item?id=46671952) - [Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss](https://getdock.io/)
 * [2026-01-18, 20:19:07](https://news.ycombinator.com/item?id=46671731) - [Dead Internet Theory](https://kudmitry.com/articles/dead-internet-theory/)
 * [2026-01-18, 19:41:40](https://news.ycombinator.com/item?id=46671386) - [Microslop: A Web Browser Extension](https://github.com/4O4-wasd/Microslop)
+* [2026-01-18, 19:31:11](https://news.ycombinator.com/item?id=46671286) - [A gaming success story: how Warhammer became one of Britain's biggest companies](https://www.theguardian.com/lifeandstyle/2026/jan/18/a-gaming-success-story-how-warhammer-became-one-of-britains-biggest-companies)
 * [2026-01-18, 19:21:14](https://news.ycombinator.com/item?id=46671191) - [Evolution Unleashed (2018)](https://aeon.co/essays/science-in-flux-is-a-revolution-brewing-in-evolutionary-theory)
 * [2026-01-18, 19:19:48](https://news.ycombinator.com/item?id=46671174) - [Breaking the Zimmermann Telegram (2018)](https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614)
 * [2026-01-18, 19:09:43](https://news.ycombinator.com/item?id=46671086) - [Around 1,500 soldiers on standby for deployment to Minneapolis](https://www.bbc.co.uk/news/articles/c74v0pxg2nvo)
