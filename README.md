@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-23, 16:19:18](https://news.ycombinator.com/item?id=46734302) - [Gas Town's Agent Patterns, Design Bottlenecks, and Vibecoding at Scale](https://maggieappleton.com/gastown)
+* [2026-01-23, 15:48:54](https://news.ycombinator.com/item?id=46733899) - [Three RCEs in Ilias Learning Management System](https://srlabs.de/blog/breaking-ilias-part-2-three-to-rce)
+* [2026-01-23, 15:26:33](https://news.ycombinator.com/item?id=46733624) - [Tech Is Fun Again: The Tech Monoculture Is Finally Breaking](http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/)
 * [2026-01-23, 14:34:46](https://news.ycombinator.com/item?id=46732967) - [KORG phase8 – Acoustic Synthesizer](https://www.korg.com/us/products/dj/phase8/)
 * [2026-01-23, 13:25:42](https://news.ycombinator.com/item?id=46732213) - [Radicle: The Sovereign Forge](https://radicle.xyz)
 * [2026-01-23, 13:04:09](https://news.ycombinator.com/item?id=46731996) - [Microsoft mishandling example.com](https://tinyapps.org/blog/microsoft-mishandling-example-com.html)
@@ -14,7 +17,6 @@
 * [2026-01-23, 09:03:31](https://news.ycombinator.com/item?id=46730214) - [Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust)
 * [2026-01-23, 07:01:29](https://news.ycombinator.com/item?id=46729368) - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
 * [2026-01-23, 05:34:35](https://news.ycombinator.com/item?id=46728808) - [I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)
-* [2026-01-23, 03:45:15](https://news.ycombinator.com/item?id=46728157) - [The lost art of XML](https://marcosmagueta.com/blog/the-lost-art-of-xml/)
 * [2026-01-23, 00:22:58](https://news.ycombinator.com/item?id=46726857) - [Why medieval city-builder video games are historically inaccurate (2020)](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate)
 * [2026-01-22, 21:23:12](https://news.ycombinator.com/item?id=46725288) - [Capital One to acquire Brex for $5.15B](https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/)
 * [2026-01-22, 19:27:32](https://news.ycombinator.com/item?id=46723990) - [Why does SSH send 100 packets per keystroke?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/)
@@ -26,8 +28,6 @@
 * [2026-01-21, 16:40:02](https://news.ycombinator.com/item?id=46708055) - [Show HN: S2-lite, an open source Stream Store](https://github.com/s2-streamstore/s2)
 * [2026-01-20, 03:28:01](https://news.ycombinator.com/item?id=46687603) - [Flying with Photons: Rendering Novel Views of Propagating Light](https://anaghmalik.com/FlyingWithPhotons/)
 * [2026-01-20, 00:20:54](https://news.ycombinator.com/item?id=46686402) - [AI is a horse (2024)](https://kconner.com/2024/08/02/ai-is-a-horse.html)
-* [2026-01-19, 09:09:40](https://news.ycombinator.com/item?id=46676629) - [Variation on Iota](https://www.toolofthought.com/posts/variation-on-iota)
-* [2026-01-18, 23:19:19](https://news.ycombinator.com/item?id=46673216) - [TI-99/4A: Leaning More on the Firmware](https://bumbershootsoft.wordpress.com/2026/01/17/ti-99-4a-leaning-more-heavily-on-the-firmware/)
 * [2026-01-18, 22:16:43](https://news.ycombinator.com/item?id=46672713) - [Your app subscription is now my weekend project](https://rselbach.com/your-sub-is-now-my-weekend-project)
 * [2026-01-18, 14:00:00](https://news.ycombinator.com/item?id=46667849) - [Show HN: Zsweep – Play Minesweeper using only Vim motions](https://zsweep.com)
 
