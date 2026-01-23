@@ -57,6 +57,7 @@
 * [2026-01-19, 12:24:14](https://news.ycombinator.com/item?id=46678205) - [Amazon is ending all inventory commingling as of March 31, 2026](https://twitter.com/ghhughes/status/2012824754319753456)
 * [2026-01-19, 11:48:59](https://news.ycombinator.com/item?id=46677918) - [Robust Conditional 3D Shape Generation from Casual Captures](https://facebookresearch.github.io/ShapeR/)
 * [2026-01-19, 11:11:10](https://news.ycombinator.com/item?id=46677628) - [Nvidia Contacted Anna's Archive to Access Books](https://torrentfreak.com/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books/)
+* [2026-01-19, 11:04:47](https://news.ycombinator.com/item?id=46677583) - [Turso is an in-process SQL database, compatible with SQLite](https://github.com/tursodatabase/turso)
 * [2026-01-19, 11:00:31](https://news.ycombinator.com/item?id=46677549) - [Show HN: Kacet – a freelancer marketplace with crypto-native payments](https://kacet.com/)
 * [2026-01-19, 10:46:54](https://news.ycombinator.com/item?id=46677436) - [Nuclear elements detected in West Philippine Sea](https://www.philstar.com/headlines/2026/01/18/2501750/nuclear-elements-detected-west-philippine-sea)
 * [2026-01-19, 10:20:39](https://news.ycombinator.com/item?id=46677212) - [RISC-V is coming along quite speedily: Milk-V Titan Mini-ITX 8-core board](https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-kit-that-you-can-use-out-of-the-box)
