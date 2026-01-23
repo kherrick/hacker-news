@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2026-01-23, 09:38:02",
+      "https://news.ycombinator.com/item?id=46730436"
+    ],
+    [
+      "Updates to our web search products and  Programmable Search Engine capabilities",
+      "https://programmablesearchengine.googleblog.com/2026/01/updates-to-our-web-search-products.html"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 07:01:29",
       "https://news.ycombinator.com/item?id=46729368"
     ],
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=46667545"
     ],
     [
-      "Gold Fever Cold and the True Adventures of Jack London in the Wild",
+      "Gold fever, cold, and the true adventures of Jack London in the wild",
       "https://www.smithsonianmag.com/history/gold-fever-deadly-cold-and-amazing-true-adventures-jack-london-wild-180973316/"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 12:45:11",
-      "https://news.ycombinator.com/item?id=46667397"
-    ],
-    [
-      "Kotlin's Rich Errors: Native, Typed Errors Without Exceptions",
-      "https://cekrem.github.io/posts/kotlin-rich-errors-elm-union-types/"
     ]
   ]
 ]
