@@ -23,11 +23,11 @@
 * [2026-01-23, 13:01:51](https://news.ycombinator.com/item?id=46731976) - [European Alternatives](https://european-alternatives.eu)
 * [2026-01-23, 11:54:53](https://news.ycombinator.com/item?id=46731432) - [Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go](https://github.com/ramonvermeulen/whosthere)
 * [2026-01-23, 10:39:09](https://news.ycombinator.com/item?id=46730885) - [Booting from a vinyl record (2020)](https://boginjr.com/it/sw/dev/vinyl-boot/)
-* [2026-01-23, 09:38:02](https://news.ycombinator.com/item?id=46730436) - [Updates to our web search products and  Programmable Search Engine capabilities](https://programmablesearchengine.googleblog.com/2026/01/updates-to-our-web-search-products.html)
 * [2026-01-23, 07:01:29](https://news.ycombinator.com/item?id=46729368) - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
 * [2026-01-22, 21:54:02](https://news.ycombinator.com/item?id=46725632) - [Anthropic Economic Index report: economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)
 * [2026-01-22, 20:24:06](https://news.ycombinator.com/item?id=46724675) - [Vargai/SDK – JSX for AI video, declarative programming language for Claude Code](https://varg.ai/sdk)
 * [2026-01-19, 22:21:45](https://news.ycombinator.com/item?id=46685317) - [Floating-Point Printing and Parsing Can Be Simple and Fast](https://research.swtch.com/fp)
+* [2026-01-19, 21:33:15](https://news.ycombinator.com/item?id=46684789) - [Nanotimetamps: Time-Stamped Data on Nano Block Lattice](https://github.com/SerJaimeLannister/nanotimestamp/wiki)
 * [2026-01-18, 14:00:00](https://news.ycombinator.com/item?id=46667849) - [Show HN: Zsweep – Play Minesweeper using only Vim motions](https://zsweep.com)
 * [2026-01-18, 13:09:50](https://news.ycombinator.com/item?id=46667545) - [Gold fever, cold, and the true adventures of Jack London in the wild](https://www.smithsonianmag.com/history/gold-fever-deadly-cold-and-amazing-true-adventures-jack-london-wild-180973316/)
 
