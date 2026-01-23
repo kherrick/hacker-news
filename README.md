@@ -25,9 +25,9 @@
 * [2026-01-22, 15:20:48](https://news.ycombinator.com/item?id=46720395) - [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
 * [2026-01-22, 13:51:25](https://news.ycombinator.com/item?id=46719229) - [Qwen3-TTS family is now open sourced: Voice design, clone, and generation](https://qwen.ai/blog?id=qwen3tts-0115)
 * [2026-01-22, 13:50:48](https://news.ycombinator.com/item?id=46719222) - [Douglas Adams on the English–American cultural divide over \"heroes\"](https://shreevatsa.net/post/douglas-adams-cultural-divide/)
-* [2026-01-21, 16:40:02](https://news.ycombinator.com/item?id=46708055) - [Show HN: S2-lite, an open source Stream Store](https://github.com/s2-streamstore/s2)
 * [2026-01-20, 03:28:01](https://news.ycombinator.com/item?id=46687603) - [Flying with Photons: Rendering Novel Views of Propagating Light](https://anaghmalik.com/FlyingWithPhotons/)
 * [2026-01-20, 00:20:54](https://news.ycombinator.com/item?id=46686402) - [AI is a horse (2024)](https://kconner.com/2024/08/02/ai-is-a-horse.html)
+* [2026-01-18, 23:19:19](https://news.ycombinator.com/item?id=46673216) - [TI-99/4A: Leaning More on the Firmware](https://bumbershootsoft.wordpress.com/2026/01/17/ti-99-4a-leaning-more-heavily-on-the-firmware/)
 * [2026-01-18, 22:16:43](https://news.ycombinator.com/item?id=46672713) - [Your app subscription is now my weekend project](https://rselbach.com/your-sub-is-now-my-weekend-project)
 * [2026-01-18, 14:00:00](https://news.ycombinator.com/item?id=46667849) - [Show HN: Zsweep – Play Minesweeper using only Vim motions](https://zsweep.com)
 
