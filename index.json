@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2026-01-23, 19:57:44",
+      "https://news.ycombinator.com/item?id=46737076"
+    ],
+    [
+      "Certificate Transparency Log Explorer",
+      "https://certs.swerdlow.dev"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 18:08:11",
       "https://news.ycombinator.com/item?id=46735644"
     ],
@@ -107,16 +117,6 @@
     [
       "Route leak incident on January 22, 2026",
       "https://blog.cloudflare.com/route-leak-incident-january-22-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 17:34:29",
-      "https://news.ycombinator.com/item?id=46735231"
-    ],
-    [
-      "Show HN: New 3D Mapping website - Create heli orbits and \"playable\" map tours.",
-      "https://www.easy3dmaps.com/gallery"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-01-23, 11:04:18",
+      "https://news.ycombinator.com/item?id=46731068"
+    ],
+    [
+      "Ask HN: What's the current best local/open speech-to-speech setup?",
+      "https://news.ycombinator.com/item?id=46731068"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 10:39:09",
       "https://news.ycombinator.com/item?id=46730885"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-01-22, 20:24:06",
-      "https://news.ycombinator.com/item?id=46724675"
-    ],
-    [
-      "Vargai/SDK – JSX for AI video, declarative programming language for Claude Code",
-      "https://varg.ai/sdk"
-    ]
-  ],
-  [
-    [
       "2026-01-19, 22:21:45",
       "https://news.ycombinator.com/item?id=46685317"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-01-19, 21:33:15",
-      "https://news.ycombinator.com/item?id=46684789"
+      "2026-01-19, 08:03:46",
+      "https://news.ycombinator.com/item?id=46676125"
     ],
     [
-      "Nanotimetamps: Time-Stamped Data on Nano Block Lattice",
-      "https://github.com/SerJaimeLannister/nanotimestamp/wiki"
+      "Some C habits I employ for the modern day",
+      "https://www.unix.dog/~yosh/blog/c-habits-for-me.html"
     ]
   ],
   [
