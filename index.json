@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-01-23, 17:58:56",
+      "https://news.ycombinator.com/item?id=46735545"
+    ],
+    [
+      "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
+      "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 17:56:31",
+      "https://news.ycombinator.com/item?id=46735511"
+    ],
+    [
+      "Proof of Corn",
+      "https://proofofcorn.com/"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 17:34:29",
+      "https://news.ycombinator.com/item?id=46735231"
+    ],
+    [
+      "Show HN: New 3D Mapping website - Create heli orbits and \"playable\" map tours.",
+      "https://www.easy3dmaps.com/gallery"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 17:29:53",
+      "https://news.ycombinator.com/item?id=46735179"
+    ],
+    [
+      "Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG",
+      "https://markgascoyne.co.uk/posts/ebpf-bng/"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 16:19:18",
       "https://news.ycombinator.com/item?id=46734302"
     ],
@@ -37,16 +77,6 @@
     [
       "Radicle: The Sovereign Forge",
       "https://radicle.xyz"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 13:04:09",
-      "https://news.ycombinator.com/item?id=46731996"
-    ],
-    [
-      "Microsoft mishandling example.com",
-      "https://tinyapps.org/blog/microsoft-mishandling-example-com.html"
     ]
   ],
   [
@@ -161,26 +191,6 @@
   ],
   [
     [
-      "2026-01-23, 03:45:15",
-      "https://news.ycombinator.com/item?id=46728157"
-    ],
-    [
-      "The lost art of XML",
-      "https://marcosmagueta.com/blog/the-lost-art-of-xml/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 00:22:58",
-      "https://news.ycombinator.com/item?id=46726857"
-    ],
-    [
-      "Why medieval city-builder video games are historically inaccurate (2020)",
-      "https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate"
-    ]
-  ],
-  [
-    [
       "2026-01-22, 21:23:12",
       "https://news.ycombinator.com/item?id=46725288"
     ],
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2026-01-18, 23:19:19",
-      "https://news.ycombinator.com/item?id=46673216"
-    ],
-    [
-      "TI-99/4A: Leaning More on the Firmware",
-      "https://bumbershootsoft.wordpress.com/2026/01/17/ti-99-4a-leaning-more-heavily-on-the-firmware/"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 22:16:43",
-      "https://news.ycombinator.com/item?id=46672713"
-    ],
-    [
-      "Your app subscription is now my weekend project",
-      "https://rselbach.com/your-sub-is-now-my-weekend-project"
-    ]
-  ],
-  [
-    [
       "2026-01-18, 14:00:00",
       "https://news.ycombinator.com/item?id=46667849"
     ],
     [
       "Show HN: Zsweep – Play Minesweeper using only Vim motions",
       "https://zsweep.com"
+    ]
+  ],
+  [
+    [
+      "2026-01-18, 12:45:11",
+      "https://news.ycombinator.com/item?id=46667397"
+    ],
+    [
+      "Kotlin's Rich Errors: Native, Typed Errors Without Exceptions",
+      "https://cekrem.github.io/posts/kotlin-rich-errors-elm-union-types/"
     ]
   ]
 ]
