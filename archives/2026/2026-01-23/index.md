@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-23](index.md)
 
+* [2026-01-23, 19:28:10](https://news.ycombinator.com/item?id=46736683) - [Tesla kills Autopilot, locks lane-keeping behind $99/month fee](https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/)
 * [2026-01-23, 18:42:38](https://news.ycombinator.com/item?id=46736091) - [Claude.ai silently failing since Jan 14, no official acknowledgment](https://github.com/anthropics/claude-code/issues/18866)
 * [2026-01-23, 18:39:42](https://news.ycombinator.com/item?id=46736048) - [House Vote Keeps Federal \"Kill Switch\" Vehicle Mandate](https://reclaimthenet.org/house-vote-keeps-federal-kill-switch-vehicle-mandat)
 * [2026-01-23, 18:05:08](https://news.ycombinator.com/item?id=46735616) - [Zotero 8](https://www.zotero.org/blog/zotero-8/)
