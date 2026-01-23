@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-23, 07:01:29",
+      "https://news.ycombinator.com/item?id=46729368"
+    ],
+    [
+      "Proton Spam and the AI Consent Problem",
+      "https://dbushell.com/2026/01/22/proton-spam/"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 05:34:35",
       "https://news.ycombinator.com/item?id=46728808"
     ],
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2026-01-21, 22:41:45",
-      "https://news.ycombinator.com/item?id=46712678"
+      "2026-01-19, 21:57:03",
+      "https://news.ycombinator.com/item?id=46685064"
     ],
     [
-      "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
-      "https://www.media.mit.edu/publications/your-brain-on-chatgpt/"
+      "Show HN: Txt2plotter – True centerline vectors from Flux.2 for pen plotters",
+      "https://github.com/malvarezcastillo/txt2plotter"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Your app subscription is now my weekend project",
       "https://rselbach.com/your-sub-is-now-my-weekend-project"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 16:16:11",
-      "https://news.ycombinator.com/item?id=46669001"
-    ],
-    [
-      "Keeping 20k GPUs healthy",
-      "https://modal.com/blog/gpu-health"
     ]
   ]
 ]
