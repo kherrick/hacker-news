@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-23, 09:38:02",
+      "https://news.ycombinator.com/item?id=46730436"
+    ],
+    [
+      "Google is ending full-web search for niche search engines",
+      "https://programmablesearchengine.googleblog.com/"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 09:06:26",
       "https://news.ycombinator.com/item?id=46730233"
     ],
     [
       "Why are there so many CPU bugs nowadays",
       "https://mas.to/@gabrielesvelto/115939583202357863"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 09:03:31",
+      "https://news.ycombinator.com/item?id=46730214"
+    ],
+    [
+      "Replacing Protobuf with Rust to go 5 times faster",
+      "https://pgdog.dev/blog/replace-protobuf-with-rust"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-01-22, 18:01:02",
-      "https://news.ycombinator.com/item?id=46722853"
-    ],
-    [
-      "Recent discoveries on the acquisition of the highest levels of human performance",
-      "https://www.science.org/doi/abs/10.1126/science.adt7790"
-    ]
-  ],
-  [
-    [
       "2026-01-22, 17:41:22",
       "https://news.ycombinator.com/item?id=46722570"
     ],
@@ -167,16 +177,6 @@
     [
       "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
       "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 16:30:58",
-      "https://news.ycombinator.com/item?id=46721474"
-    ],
-    [
-      "Show HN: BrowserOS – \"Claude Cowork\" in the browser",
-      "https://github.com/browseros-ai/BrowserOS"
     ]
   ],
   [
