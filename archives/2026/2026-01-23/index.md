@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-23](index.md)
 
+* [2026-01-23, 03:52:06](https://news.ycombinator.com/item?id=46728197) - [Why talking to LLMs has improved my thinking](https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/)
 * [2026-01-23, 03:45:15](https://news.ycombinator.com/item?id=46728157) - [The Lost Art of XML](https://marcosmagueta.com/blog/the-lost-art-of-xml/)
+* [2026-01-23, 03:23:47](https://news.ycombinator.com/item?id=46727992) - [The Cscript Style Guide – CScript is the standard C](https://github.com/domenukk/CScript)
 * [2026-01-23, 02:37:58](https://news.ycombinator.com/item?id=46727669) - [U.S. Formally Withdraws from World Health Organization](https://www.nytimes.com/2026/01/22/us/politics/united-states-withdraws-world-health-organization.html)
 * [2026-01-23, 02:24:12](https://news.ycombinator.com/item?id=46727587) - [Bugs Apple Loves](https://www.bugsappleloves.com)
 * [2026-01-23, 00:30:20](https://news.ycombinator.com/item?id=46726916) - [Stunnel](https://www.stunnel.org/)
