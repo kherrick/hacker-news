@@ -12,6 +12,7 @@
 * [2026-01-19, 21:35:31](https://news.ycombinator.com/item?id=46684815) - [Targeted Bets: An alternative approach to the job hunt](https://www.seanmuirhead.com/blog/targeted-bets)
 * [2026-01-19, 21:25:16](https://news.ycombinator.com/item?id=46684708) - [The assistant axis: situating and stabilizing the character of LLMs](https://www.anthropic.com/research/assistant-axis)
 * [2026-01-19, 21:19:58](https://news.ycombinator.com/item?id=46684647) - [Help Denmark Buy California – Because Why Not?](https://denmarkification.com/)
+* [2026-01-19, 21:02:29](https://news.ycombinator.com/item?id=46684458) - [The Unexpected Logic of Art Economics: Arts and Inequality in 80s NY (2020)](https://www.gothamcenter.org/blog/unexpected-logic-art-economics)
 * [2026-01-19, 20:51:00](https://news.ycombinator.com/item?id=46684335) - [Simple Sabotage Field Manual [pdf]](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
 * [2026-01-19, 20:48:04](https://news.ycombinator.com/item?id=46684299) - [Joe Armstrong and Jeremy Ruston – Intertwingling the Tiddlywiki with Erlang [video]](https://www.youtube.com/watch?v=Uv1UfLPK7_Q)
 * [2026-01-19, 20:37:30](https://news.ycombinator.com/item?id=46684167) - [Show HN: GitClassic.com, GitHub circa 2015 without JS & AI](https://gitclassic.com)
