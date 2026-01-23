@@ -6,6 +6,7 @@
 
 * [2026-01-23, 14:40:21](https://news.ycombinator.com/item?id=46733025) - [Is liberal democracy in terminal decline?](https://www.ft.com/content/b4d2c7a3-587d-440f-a7a9-7e5e85b93a88)
 * [2026-01-23, 14:38:14](https://news.ycombinator.com/item?id=46733009) - [Tesla fined for repeatedly failing to help UK police over driving offences](https://www.bbc.co.uk/news/articles/c0r44zpprg7o)
+* [2026-01-23, 14:34:46](https://news.ycombinator.com/item?id=46732967) - [KORG phase8 – Acoustic Synthesizer](https://www.korg.com/us/products/dj/phase8/)
 * [2026-01-23, 13:25:42](https://news.ycombinator.com/item?id=46732213) - [Radicle: The Sovereign Forge](https://radicle.xyz)
 * [2026-01-23, 13:04:09](https://news.ycombinator.com/item?id=46731996) - [Microsoft Mishandling Example.com](https://tinyapps.org/blog/microsoft-mishandling-example-com.html)
 * [2026-01-23, 13:01:51](https://news.ycombinator.com/item?id=46731976) - [European Alternatives](https://european-alternatives.eu)
