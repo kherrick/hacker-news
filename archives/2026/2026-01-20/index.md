@@ -77,6 +77,7 @@
 * [2026-01-20, 05:06:19](https://news.ycombinator.com/item?id=46688101) - [Stevey's Birthday Blog](https://steve-yegge.medium.com/steveys-birthday-blog-34f437139cb5)
 * [2026-01-20, 04:14:12](https://news.ycombinator.com/item?id=46687841) - [RCS for Business](https://developers.google.com/business-communications/rcs-business-messaging)
 * [2026-01-20, 03:47:21](https://news.ycombinator.com/item?id=46687705) - [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html)
+* [2026-01-20, 03:28:01](https://news.ycombinator.com/item?id=46687603) - [Flying with Photons: Rendering Novel Views of Propagating Light](https://anaghmalik.com/FlyingWithPhotons/)
 * [2026-01-20, 03:26:25](https://news.ycombinator.com/item?id=46687588) - [F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE](https://webchrono.pl/F16FalconStrike/index.html)
 * [2026-01-20, 03:14:47](https://news.ycombinator.com/item?id=46687504) - [Show HN: Artificial Ivy in the Browser](https://da.nmcardle.com/grow)
 * [2026-01-20, 01:58:22](https://news.ycombinator.com/item?id=46686972) - [Go 1.26 Interactive Tour](https://antonz.org/go-1-26/)
