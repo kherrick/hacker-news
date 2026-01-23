@@ -54,6 +54,7 @@
 * [2026-01-18, 13:32:25](https://news.ycombinator.com/item?id=46667675) - [What Is Plan 9?](https://fqa.9front.org/fqa0.html#0.1)
 * [2026-01-18, 13:14:20](https://news.ycombinator.com/item?id=46667572) - [Software engineers can no longer neglect their soft skills](https://www.qu8n.com/posts/most-important-software-engineering-skill-2026)
 * [2026-01-18, 12:45:40](https://news.ycombinator.com/item?id=46667400) - [The guide to real-world EV battery health](https://www.geotab.com/blog/ev-battery-health/)
+* [2026-01-18, 12:45:11](https://news.ycombinator.com/item?id=46667397) - [Kotlin's Rich Errors: Native, Typed Errors Without Exceptions](https://cekrem.github.io/posts/kotlin-rich-errors-elm-union-types/)
 * [2026-01-18, 12:34:57](https://news.ycombinator.com/item?id=46667336) - [Avoiding fan traps in database design and system diagrams](https://www.ilograph.com/blog/posts/avoid-fan-traps-in-system-diagrams/)
 * [2026-01-18, 12:00:10](https://news.ycombinator.com/item?id=46667101) - [Keystone (YC S25) Is Hiring](https://news.ycombinator.com/item?id=46667101)
 * [2026-01-18, 11:59:32](https://news.ycombinator.com/item?id=46667094) - [When_Sysadmins_Ruled_the_Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html)

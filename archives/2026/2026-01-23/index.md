@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-23](index.md)
 
+* [2026-01-23, 17:58:56](https://news.ycombinator.com/item?id=46735545) - [Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)
+* [2026-01-23, 17:56:31](https://news.ycombinator.com/item?id=46735511) - [Proof of Corn](https://proofofcorn.com/)
+* [2026-01-23, 17:34:29](https://news.ycombinator.com/item?id=46735231) - [Show HN: New 3D Mapping website - Create heli orbits and \"playable\" map tours.](https://www.easy3dmaps.com/gallery)
+* [2026-01-23, 17:29:53](https://news.ycombinator.com/item?id=46735179) - [Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG](https://markgascoyne.co.uk/posts/ebpf-bng/)
 * [2026-01-23, 16:19:18](https://news.ycombinator.com/item?id=46734302) - [Gas Town's Agent Patterns, Design Bottlenecks, and Vibecoding at Scale](https://maggieappleton.com/gastown)
 * [2026-01-23, 15:48:54](https://news.ycombinator.com/item?id=46733899) - [Three RCEs in Ilias Learning Management System](https://srlabs.de/blog/breaking-ilias-part-2-three-to-rce)
 * [2026-01-23, 15:26:33](https://news.ycombinator.com/item?id=46733624) - [Tech Is Fun Again: The Tech Monoculture Is Finally Breaking](http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/)
