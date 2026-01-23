@@ -1,22 +1,42 @@
 [
   [
     [
-      "2026-01-23, 12:50:03",
-      "https://news.ycombinator.com/item?id=46731865"
+      "2026-01-23, 13:04:09",
+      "https://news.ycombinator.com/item?id=46731996"
     ],
     [
-      "White House defends sharing AI image showing arrested woman crying",
-      "https://www.bbc.co.uk/news/live/ce9yydgmzdvt"
+      "Microsoft Mishandling Example.com",
+      "https://tinyapps.org/blog/microsoft-mishandling-example-com.html"
     ]
   ],
   [
     [
-      "2026-01-23, 12:09:19",
-      "https://news.ycombinator.com/item?id=46731546"
+      "2026-01-23, 12:36:17",
+      "https://news.ycombinator.com/item?id=46731748"
     ],
     [
-      "How to Leave Germany",
-      "https://allaboutberlin.com/guides/leaving-germany"
+      "What has Docker become?",
+      "https://tuananh.net/2026/01/20/what-has-docker-become/"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 12:16:54",
+      "https://news.ycombinator.com/item?id=46731612"
+    ],
+    [
+      "Presence in Death",
+      "https://rubinmuseum.org/presence-in-death/"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 11:54:53",
+      "https://news.ycombinator.com/item?id=46731432"
+    ],
+    [
+      "Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go",
+      "https://github.com/ramonvermeulen/whosthere"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Booting a PC from a Vinyl Record",
       "https://boginjr.com/it/sw/dev/vinyl-boot/"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 10:12:08",
+      "https://news.ycombinator.com/item?id=46730671"
+    ],
+    [
+      "Why I Don't Have Fun With Claude Code",
+      "https://brennan.io/2026/01/23/claude-code/"
     ]
   ],
   [
@@ -87,26 +117,6 @@
     [
       "Bugs Apple Loves",
       "https://www.bugsappleloves.com"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 00:30:20",
-      "https://news.ycombinator.com/item?id=46726916"
-    ],
-    [
-      "Stunnel",
-      "https://www.stunnel.org/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 00:22:58",
-      "https://news.ycombinator.com/item?id=46726857"
-    ],
-    [
-      "Why medieval city-builder video games are historically inaccurate (2020)",
-      "https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-01-22, 14:14:15",
-      "https://news.ycombinator.com/item?id=46719491"
-    ],
-    [
-      "In Europe, wind and solar overtake fossil fuels",
-      "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels"
-    ]
-  ],
-  [
-    [
       "2026-01-22, 13:51:25",
       "https://news.ycombinator.com/item?id=46719229"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2026-01-20, 00:20:54",
-      "https://news.ycombinator.com/item?id=46686402"
+      "2026-01-21, 16:40:02",
+      "https://news.ycombinator.com/item?id=46708055"
     ],
     [
-      "AI Is a Horse (2024)",
-      "https://kconner.com/2024/08/02/ai-is-a-horse.html"
+      "Show HN: S2-lite, an open source Stream Store",
+      "https://github.com/s2-streamstore/s2"
     ]
   ],
   [
     [
-      "2026-01-19, 21:57:03",
-      "https://news.ycombinator.com/item?id=46685064"
+      "2026-01-20, 00:20:54",
+      "https://news.ycombinator.com/item?id=46686402"
     ],
     [
-      "Show HN: Txt2plotter – True centerline vectors from Flux.2 for pen plotters",
-      "https://github.com/malvarezcastillo/txt2plotter"
+      "AI is a horse (2024)",
+      "https://kconner.com/2024/08/02/ai-is-a-horse.html"
     ]
   ],
   [
@@ -257,6 +257,16 @@
     [
       "Our collective obsession with boredom: Interview with a boredom lab researcher",
       "https://nautil.us/why-the-do-nothing-challenge-doesnt-do-much-for-you-1262005/"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 09:09:40",
+      "https://news.ycombinator.com/item?id=46676629"
+    ],
+    [
+      "Variation on Iota",
+      "https://www.toolofthought.com/posts/variation-on-iota"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Your app subscription is now my weekend project",
       "https://rselbach.com/your-sub-is-now-my-weekend-project"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 11:51:21",
-      "https://news.ycombinator.com/item?id=46667039"
-    ],
-    [
-      "Project Mercury and the Sofar Bomb",
-      "https://www.thequantumcat.space/p/project-mercury-and-the-sofar-bomb"
     ]
   ]
 ]
