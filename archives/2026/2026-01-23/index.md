@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-23](index.md)
 
+* [2026-01-23, 09:50:26](https://news.ycombinator.com/item?id=46730504) - [Ghostty's AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 * [2026-01-23, 09:38:02](https://news.ycombinator.com/item?id=46730436) - [Google is ending full-web search for niche search engines](https://programmablesearchengine.googleblog.com/)
+* [2026-01-23, 09:24:27](https://news.ycombinator.com/item?id=46730346) - [The State of Modern AI Text to Speech Systems for Screen Reader Users](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
 * [2026-01-23, 09:06:26](https://news.ycombinator.com/item?id=46730233) - [Why are there so many CPU bugs nowadays](https://mas.to/@gabrielesvelto/115939583202357863)
 * [2026-01-23, 09:03:31](https://news.ycombinator.com/item?id=46730214) - [Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust)
 * [2026-01-23, 07:01:29](https://news.ycombinator.com/item?id=46729368) - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)

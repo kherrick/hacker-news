@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-23, 09:50:26](https://news.ycombinator.com/item?id=46730504) - [Ghostty's AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 * [2026-01-23, 09:38:02](https://news.ycombinator.com/item?id=46730436) - [Google is ending full-web search for niche search engines](https://programmablesearchengine.googleblog.com/)
+* [2026-01-23, 09:24:27](https://news.ycombinator.com/item?id=46730346) - [The State of Modern AI Text to Speech Systems for Screen Reader Users](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
 * [2026-01-23, 09:06:26](https://news.ycombinator.com/item?id=46730233) - [Why are there so many CPU bugs nowadays](https://mas.to/@gabrielesvelto/115939583202357863)
 * [2026-01-23, 09:03:31](https://news.ycombinator.com/item?id=46730214) - [Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust)
 * [2026-01-23, 07:01:29](https://news.ycombinator.com/item?id=46729368) - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
@@ -16,9 +18,7 @@
 * [2026-01-22, 17:41:22](https://news.ycombinator.com/item?id=46722570) - [CSS Optical Illusions](https://alvaromontoro.com/blog/68091/css-optical-illusions)
 * [2026-01-22, 17:03:21](https://news.ycombinator.com/item?id=46721933) - [Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance](https://news.ycombinator.com/item?id=46721933)
 * [2026-01-22, 16:52:35](https://news.ycombinator.com/item?id=46721802) - [Show HN: isometric.nyc – giant isometric pixel art map of NYC](https://cannoneyed.com/isometric-nyc/)
-* [2026-01-22, 16:31:47](https://news.ycombinator.com/item?id=46721488) - [Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)](https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video)
 * [2026-01-22, 15:20:48](https://news.ycombinator.com/item?id=46720395) - [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
-* [2026-01-22, 14:14:15](https://news.ycombinator.com/item?id=46719491) - [In Europe, wind and solar overtake fossil fuels](https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels)
 * [2026-01-22, 13:51:25](https://news.ycombinator.com/item?id=46719229) - [Qwen3-TTS family is now open sourced: Voice design, clone, and generation](https://qwen.ai/blog?id=qwen3tts-0115)
 * [2026-01-22, 13:50:48](https://news.ycombinator.com/item?id=46719222) - [Douglas Adams on the English–American cultural divide over \"heroes\"](https://shreevatsa.net/post/douglas-adams-cultural-divide/)
 * [2026-01-22, 11:40:01](https://news.ycombinator.com/item?id=46717960) - ['Askers' vs. 'Guessers' (2010)](https://www.theatlantic.com/national/2010/05/askers-vs-guessers/340891/)
