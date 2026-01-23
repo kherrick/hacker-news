@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-23, 05:34:35](https://news.ycombinator.com/item?id=46728808) - [I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)
-* [2026-01-23, 05:10:30](https://news.ycombinator.com/item?id=46728680) - [United States Completes WHO Withdrawal](https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html)
 * [2026-01-23, 03:52:06](https://news.ycombinator.com/item?id=46728197) - [Talking to LLMs has improved my thinking](https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/)
 * [2026-01-23, 02:24:12](https://news.ycombinator.com/item?id=46727587) - [Bugs Apple Loves](https://www.bugsappleloves.com)
 * [2026-01-23, 00:30:20](https://news.ycombinator.com/item?id=46726916) - [Stunnel](https://www.stunnel.org/)
@@ -30,6 +29,7 @@
 * [2026-01-19, 06:51:58](https://news.ycombinator.com/item?id=46675745) - [Writing First, Tooling Second](https://susam.net/writing-first-tooling-second.html)
 * [2026-01-18, 23:19:19](https://news.ycombinator.com/item?id=46673216) - [TI-99/4A: Leaning More on the Firmware](https://bumbershootsoft.wordpress.com/2026/01/17/ti-99-4a-leaning-more-heavily-on-the-firmware/)
 * [2026-01-18, 22:16:43](https://news.ycombinator.com/item?id=46672713) - [Your app subscription is now my weekend project](https://rselbach.com/your-sub-is-now-my-weekend-project)
+* [2026-01-18, 16:16:11](https://news.ycombinator.com/item?id=46669001) - [Keeping 20k GPUs healthy](https://modal.com/blog/gpu-health)
 
 ## [Archives](archives/index.md)
 
