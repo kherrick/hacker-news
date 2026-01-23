@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-01-23](index.md)
 
+* [2026-01-23, 21:34:29](https://news.ycombinator.com/item?id=46738241) - [EquipmentShare (YC W15) goes public](https://www.ycombinator.com/blog/congratulations-to-equipmentshare/)
+* [2026-01-23, 21:08:55](https://news.ycombinator.com/item?id=46737957) - [Mental Models (2018)](https://fs.blog/mental-models/)
 * [2026-01-23, 21:01:34](https://news.ycombinator.com/item?id=46737870) - [TrueVault (YC W14) is hiring a Growth Lead to test different growth channels](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead)
 * [2026-01-23, 21:01:25](https://news.ycombinator.com/item?id=46737865) - [Neko: History of a Software Pet (2022)](https://eliotakira.com/neko/)
 * [2026-01-23, 20:42:36](https://news.ycombinator.com/item?id=46737630) - [Unrolling the Codex Agent Loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
+* [2026-01-23, 20:27:58](https://news.ycombinator.com/item?id=46737447) - [Banned C++ Features in Chromium](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md)
 * [2026-01-23, 19:50:03](https://news.ycombinator.com/item?id=46736978) - [Show HN: 83 browser-use trajectories, visualized](https://trails-red.vercel.app/viewer)
 * [2026-01-23, 19:31:44](https://news.ycombinator.com/item?id=46736734) - [Iran Govt Fakes Traffic to Mimic Internet Restoration](https://mastodon.social/@netblocks/115942585753525035)
 * [2026-01-23, 19:28:10](https://news.ycombinator.com/item?id=46736683) - [Tesla kills Autopilot, locks lane-keeping behind $99/month fee](https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/)
