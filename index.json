@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=46728197"
     ],
     [
-      "Why talking to LLMs has improved my thinking",
+      "Talking to LLMs has improved my thinking",
       "https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/"
     ]
   ],
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2026-01-22, 17:14:04",
-      "https://news.ycombinator.com/item?id=46722074"
-    ],
-    [
-      "Composing APIs and CLIs in the LLM era",
-      "https://walters.app/blog/composing-apis-clis"
-    ]
-  ],
-  [
-    [
       "2026-01-22, 17:03:21",
       "https://news.ycombinator.com/item?id=46721933"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2026-01-22, 14:14:15",
+      "https://news.ycombinator.com/item?id=46719491"
+    ],
+    [
+      "In Europe, wind and solar overtake fossil fuels",
+      "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 13:51:25",
       "https://news.ycombinator.com/item?id=46719229"
     ],
@@ -247,6 +247,16 @@
     [
       "Turso is an in-process SQL database, compatible with SQLite",
       "https://github.com/tursodatabase/turso"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 06:51:58",
+      "https://news.ycombinator.com/item?id=46675745"
+    ],
+    [
+      "Writing First, Tooling Second",
+      "https://susam.net/writing-first-tooling-second.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "My first year in sales as technical founder",
       "https://www.fabiandietrich.com/blog/first-year-in-sales.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 19:05:40",
-      "https://news.ycombinator.com/item?id=46650627"
-    ],
-    [
-      "What Is Control Flow Analysis for Lambda Calculus? – Iowa Type Theory Commute",
-      "https://rss.buzzsprout.com/728558.rss"
     ]
   ]
 ]
