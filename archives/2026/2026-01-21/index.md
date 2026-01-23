@@ -42,6 +42,7 @@
 * [2026-01-21, 17:00:54](https://news.ycombinator.com/item?id=46708315) - [Autonomous (YC F25, AI-native financial advisor at 0% advisory fees) is hiring](https://atg.science/)
 * [2026-01-21, 16:43:57](https://news.ycombinator.com/item?id=46708096) - [PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts](https://www.yyzkevin.com/picopcmcia/)
 * [2026-01-21, 16:40:17](https://news.ycombinator.com/item?id=46708060) - [European lawmakers suspend U.S. trade deal](https://www.cnbc.com/2026/01/21/european-lawmakers-suspend-us-trade-deal-amid-greenland-tariff-tensions.html)
+* [2026-01-21, 16:40:02](https://news.ycombinator.com/item?id=46708055) - [Show HN: S2-lite, an open source Stream Store](https://github.com/s2-streamstore/s2)
 * [2026-01-21, 16:38:26](https://news.ycombinator.com/item?id=46708032) - [JPEG XL Demo Page](https://tildeweb.nl/~michiel/jxl/)
 * [2026-01-21, 16:15:06](https://news.ycombinator.com/item?id=46707708) - [Three types of LLM workloads and how to serve them](https://modal.com/llm-almanac/workloads)
 * [2026-01-21, 16:14:39](https://news.ycombinator.com/item?id=46707699) - [Bending Spoons laid off almost everybody at Vimeo yesterday](https://news.ycombinator.com/item?id=46707699)

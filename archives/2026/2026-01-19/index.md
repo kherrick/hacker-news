@@ -69,6 +69,7 @@
 * [2026-01-19, 09:36:26](https://news.ycombinator.com/item?id=46676843) - [US believes its power matters more than international law, UN chief](https://www.bbc.co.uk/news/articles/c4g0zx0llpzo)
 * [2026-01-19, 09:33:50](https://news.ycombinator.com/item?id=46676824) - [Greenpeace pilot brings heat pumps and solar to Ukrainian community](https://www.pveurope.eu/power2heat/greenpeace-pilot-brings-heat-pumps-and-solar-ukrainian-community)
 * [2026-01-19, 09:19:45](https://news.ycombinator.com/item?id=46676708) - [Building Robust Helm Charts](https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html)
+* [2026-01-19, 09:09:40](https://news.ycombinator.com/item?id=46676629) - [Variation on Iota](https://www.toolofthought.com/posts/variation-on-iota)
 * [2026-01-19, 09:00:14](https://news.ycombinator.com/item?id=46676554) - [I was a top 0.01% Cursor user, then switched to Claude Code 2.0](https://blog.silennai.com/claude-code)
 * [2026-01-19, 08:23:04](https://news.ycombinator.com/item?id=46676276) - [Radboud University selects Fairphone as standard smartphone for employees](https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees)
 * [2026-01-19, 08:21:44](https://news.ycombinator.com/item?id=46676264) - [MTOTP: Wouldn't it be nice if you were the 2FA device?](https://github.com/VBranimir/mTOTP/tree/develop)
