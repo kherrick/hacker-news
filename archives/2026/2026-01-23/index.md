@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-23](index.md)
 
+* [2026-01-23, 12:50:03](https://news.ycombinator.com/item?id=46731865) - [White House defends sharing AI image showing arrested woman crying](https://www.bbc.co.uk/news/live/ce9yydgmzdvt)
+* [2026-01-23, 12:09:19](https://news.ycombinator.com/item?id=46731546) - [How to Leave Germany](https://allaboutberlin.com/guides/leaving-germany)
+* [2026-01-23, 10:39:09](https://news.ycombinator.com/item?id=46730885) - [Booting a PC from a Vinyl Record](https://boginjr.com/it/sw/dev/vinyl-boot/)
 * [2026-01-23, 09:50:26](https://news.ycombinator.com/item?id=46730504) - [Ghostty's AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 * [2026-01-23, 09:38:02](https://news.ycombinator.com/item?id=46730436) - [Google is ending full-web search for niche search engines](https://programmablesearchengine.googleblog.com/)
 * [2026-01-23, 09:24:27](https://news.ycombinator.com/item?id=46730346) - [The State of Modern AI Text to Speech Systems for Screen Reader Users](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
