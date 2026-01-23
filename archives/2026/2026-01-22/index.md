@@ -11,6 +11,7 @@
 * [2026-01-22, 21:52:46](https://news.ycombinator.com/item?id=46725618) - [The Education of the Broligarchy](https://colossus.com/article/education-broligarchy-silicon-valley-canon/)
 * [2026-01-22, 21:43:14](https://news.ycombinator.com/item?id=46725522) - [Viking Ship Museum in Denmark announces the discovery of the largest cog](https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/)
 * [2026-01-22, 21:31:59](https://news.ycombinator.com/item?id=46725389) - [Extracting a UART Password via SPI Flash Instruction Tracing](https://zuernerd.github.io/blog/2026/01/07/switch-password.html)
+* [2026-01-22, 21:24:23](https://news.ycombinator.com/item?id=46725300) - [Scaling PostgreSQL to power 800M ChatGPT users](https://openai.com/index/scaling-postgresql/)
 * [2026-01-22, 21:23:12](https://news.ycombinator.com/item?id=46725288) - [Capital One to acquire Brex for $5.15B](https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/)
 * [2026-01-22, 20:27:23](https://news.ycombinator.com/item?id=46724714) - [Goldman Sachs Global Macro Research: Gen AI: too much spend, too little benefit [pdf]](https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/images/migrated/insights/pages/gs-research/gen-ai--too-much-spend,-too-little-benefit-/TOM_AI%202.0_ForRedaction.pdf&originalQuery=&referrer=)
 * [2026-01-22, 20:24:06](https://news.ycombinator.com/item?id=46724675) - [Vargai/SDK – JSX for AI Video. Declarative Programming Language for Claude Code](https://varg.ai/sdk)

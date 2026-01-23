@@ -72,6 +72,7 @@
 * [2026-01-18, 06:47:17](https://news.ycombinator.com/item?id=46665393) - [Show HN: GibRAM an in-memory ephemeral GraphRAG runtime for retrieval](https://github.com/gibram-io/gibram)
 * [2026-01-18, 06:27:24](https://news.ycombinator.com/item?id=46665310) - [Spirit of ThinkPad](https://thinknextdesign.com/home.html)
 * [2026-01-18, 05:55:48](https://news.ycombinator.com/item?id=46665169) - [Show HN: Figma-use – CLI to control Figma for AI agents](https://github.com/dannote/figma-use)
+* [2026-01-18, 05:04:39](https://news.ycombinator.com/item?id=46664922) - [Pushing the smallest possible change to production](https://ankursethi.com/blog/smallest-possible-change/)
 * [2026-01-18, 04:26:29](https://news.ycombinator.com/item?id=46664771) - [The relentless rule of my fitness tracker](https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/)
 * [2026-01-18, 04:23:28](https://news.ycombinator.com/item?id=46664755) - [jQuery 4.0.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)
 * [2026-01-18, 03:52:10](https://news.ycombinator.com/item?id=46664646) - [U.S. Court Order Against Anna's Archive Spells More Trouble for the Site](https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/)
