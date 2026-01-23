@@ -85,3 +85,4 @@
 * [2026-01-20, 01:01:36](https://news.ycombinator.com/item?id=46686640) - [Porsche Sold More Electrified Cars in Europe in 2025 Than Pure Gas-Powered Cars](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html)
 * [2026-01-20, 00:55:49](https://news.ycombinator.com/item?id=46686607) - [Harvard legal scholars debate the state of the U.S. constitution (2025)](https://www.harvardmagazine.com/social-sciences/is-the-constitution-broken)
 * [2026-01-20, 00:23:01](https://news.ycombinator.com/item?id=46686418) - [Scaling long-running autonomous coding](https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/)
+* [2026-01-20, 00:20:54](https://news.ycombinator.com/item?id=46686402) - [AI Is a Horse (2024)](https://kconner.com/2024/08/02/ai-is-a-horse.html)
