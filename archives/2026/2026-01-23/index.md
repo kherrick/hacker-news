@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-23](index.md)
 
+* [2026-01-23, 05:34:35](https://news.ycombinator.com/item?id=46728808) - [I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)
 * [2026-01-23, 05:10:30](https://news.ycombinator.com/item?id=46728680) - [USA Exits WHO](https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html)
 * [2026-01-23, 03:52:06](https://news.ycombinator.com/item?id=46728197) - [Why talking to LLMs has improved my thinking](https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/)
 * [2026-01-23, 03:45:15](https://news.ycombinator.com/item?id=46728157) - [The Lost Art of XML](https://marcosmagueta.com/blog/the-lost-art-of-xml/)
