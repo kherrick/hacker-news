@@ -53,6 +53,7 @@
 * [2026-01-18, 13:54:09](https://news.ycombinator.com/item?id=46667821) - [The Harvesting of Lettuce](https://sftw.substack.com/p/310-to-yuma)
 * [2026-01-18, 13:32:25](https://news.ycombinator.com/item?id=46667675) - [What Is Plan 9?](https://fqa.9front.org/fqa0.html#0.1)
 * [2026-01-18, 13:14:20](https://news.ycombinator.com/item?id=46667572) - [Software engineers can no longer neglect their soft skills](https://www.qu8n.com/posts/most-important-software-engineering-skill-2026)
+* [2026-01-18, 13:09:50](https://news.ycombinator.com/item?id=46667545) - [Gold Fever Cold and the True Adventures of Jack London in the Wild](https://www.smithsonianmag.com/history/gold-fever-deadly-cold-and-amazing-true-adventures-jack-london-wild-180973316/)
 * [2026-01-18, 12:45:40](https://news.ycombinator.com/item?id=46667400) - [The guide to real-world EV battery health](https://www.geotab.com/blog/ev-battery-health/)
 * [2026-01-18, 12:45:11](https://news.ycombinator.com/item?id=46667397) - [Kotlin's Rich Errors: Native, Typed Errors Without Exceptions](https://cekrem.github.io/posts/kotlin-rich-errors-elm-union-types/)
 * [2026-01-18, 12:34:57](https://news.ycombinator.com/item?id=46667336) - [Avoiding fan traps in database design and system diagrams](https://www.ilograph.com/blog/posts/avoid-fan-traps-in-system-diagrams/)

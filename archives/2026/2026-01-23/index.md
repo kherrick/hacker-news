@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-01-23](index.md)
 
+* [2026-01-23, 21:01:34](https://news.ycombinator.com/item?id=46737870) - [TrueVault (YC W14) is hiring a Growth Lead to test different growth channels](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead)
+* [2026-01-23, 21:01:25](https://news.ycombinator.com/item?id=46737865) - [Neko: History of a Software Pet (2022)](https://eliotakira.com/neko/)
+* [2026-01-23, 20:42:36](https://news.ycombinator.com/item?id=46737630) - [Unrolling the Codex Agent Loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
+* [2026-01-23, 19:50:03](https://news.ycombinator.com/item?id=46736978) - [Show HN: 83 browser-use trajectories, visualized](https://trails-red.vercel.app/viewer)
 * [2026-01-23, 19:31:44](https://news.ycombinator.com/item?id=46736734) - [Iran Govt Fakes Traffic to Mimic Internet Restoration](https://mastodon.social/@netblocks/115942585753525035)
 * [2026-01-23, 19:28:10](https://news.ycombinator.com/item?id=46736683) - [Tesla kills Autopilot, locks lane-keeping behind $99/month fee](https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/)
 * [2026-01-23, 18:42:38](https://news.ycombinator.com/item?id=46736091) - [Claude.ai silently failing since Jan 14, no official acknowledgment](https://github.com/anthropics/claude-code/issues/18866)
 * [2026-01-23, 18:39:42](https://news.ycombinator.com/item?id=46736048) - [House Vote Keeps Federal \"Kill Switch\" Vehicle Mandate](https://reclaimthenet.org/house-vote-keeps-federal-kill-switch-vehicle-mandat)
+* [2026-01-23, 18:08:11](https://news.ycombinator.com/item?id=46735644) - [New YC homepage](https://www.ycombinator.com/)
 * [2026-01-23, 18:05:08](https://news.ycombinator.com/item?id=46735616) - [Zotero 8](https://www.zotero.org/blog/zotero-8/)
 * [2026-01-23, 17:58:56](https://news.ycombinator.com/item?id=46735545) - [Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)
 * [2026-01-23, 17:56:31](https://news.ycombinator.com/item?id=46735511) - [Proof of Corn](https://proofofcorn.com/)
