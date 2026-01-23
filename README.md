@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-23, 19:31:44](https://news.ycombinator.com/item?id=46736734) - [Iran Govt Fakes Traffic to Mimic Internet Restoration](https://mastodon.social/@netblocks/115942585753525035)
 * [2026-01-23, 19:28:10](https://news.ycombinator.com/item?id=46736683) - [Tesla kills Autopilot, locks lane-keeping behind $99/month fee](https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/)
-* [2026-01-23, 18:42:38](https://news.ycombinator.com/item?id=46736091) - [Claude.ai silently failing since Jan 14, no official acknowledgment](https://github.com/anthropics/claude-code/issues/18866)
+* [2026-01-23, 18:42:38](https://news.ycombinator.com/item?id=46736091) - [Auto-compact not triggering on Claude.ai despite being marked as fixed](https://github.com/anthropics/claude-code/issues/18866)
 * [2026-01-23, 18:05:08](https://news.ycombinator.com/item?id=46735616) - [Zotero 8](https://www.zotero.org/blog/zotero-8/)
 * [2026-01-23, 17:58:56](https://news.ycombinator.com/item?id=46735545) - [Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)
 * [2026-01-23, 17:56:31](https://news.ycombinator.com/item?id=46735511) - [Proof of Corn](https://proofofcorn.com/)
@@ -20,6 +19,7 @@
 * [2026-01-23, 12:36:17](https://news.ycombinator.com/item?id=46731748) - [What has Docker become?](https://tuananh.net/2026/01/20/what-has-docker-become/)
 * [2026-01-23, 11:54:53](https://news.ycombinator.com/item?id=46731432) - [Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go](https://github.com/ramonvermeulen/whosthere)
 * [2026-01-23, 10:39:09](https://news.ycombinator.com/item?id=46730885) - [Booting from a vinyl record (2020)](https://boginjr.com/it/sw/dev/vinyl-boot/)
+* [2026-01-23, 09:50:26](https://news.ycombinator.com/item?id=46730504) - [AI Usage Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 * [2026-01-23, 09:38:02](https://news.ycombinator.com/item?id=46730436) - [Updates to our web search products and  Programmable Search Engine capabilities](https://programmablesearchengine.googleblog.com/2026/01/updates-to-our-web-search-products.html)
 * [2026-01-23, 09:03:31](https://news.ycombinator.com/item?id=46730214) - [Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust)
 * [2026-01-23, 07:01:29](https://news.ycombinator.com/item?id=46729368) - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
