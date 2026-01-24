@@ -142,7 +142,7 @@
             <h4>
               <span>2026-01-24 @ 20:03:39</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46747119"
                   >Comments</a
@@ -163,11 +163,30 @@
             <h4>
               <span>2026-01-24 @ 19:53:31</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46747022"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 15</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46746946">
+          <h3>
+            <a class="item" href="https://m24tom.com/bye-bye-gmail/show"
+              >Bye Bye Gmail</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-24 @ 19:44:52</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46746946"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -221,6 +240,98 @@
             </div>
           </section>
         </section>
+        <section id="46746700">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=46746700"
+              >Show HN: Polymcp – Turn Any Python Function into an MCP Tool for
+              AI Agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-24 @ 19:27:58</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46746700"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>Examples</p>
+              <p>Simple function:</p>
+              <p>from polymcp.polymcp_toolkit import expose_tools_http</p>
+              <p>
+                def add(a: int, b: int) -&gt; int: """Add two numbers""" return
+                a + b
+              </p>
+              <p>app = expose_tools_http([add], title="Math Tools")</p>
+              <p>Run with:</p>
+              <p>uvicorn server_mcp:app --reload</p>
+              <p>
+                Now add is exposed via MCP and can be called directly by AI
+                agents.
+              </p>
+              <p>API function:</p>
+              <p>
+                import requests from polymcp.polymcp_toolkit import
+                expose_tools_http
+              </p>
+              <p>
+                def get_weather(city: str): """Return current weather data for a
+                city""" response = requests.get(f"<a
+                  href="https://api.weatherapi.com/v1/current.json?q={city}"
+                  >https://api.weatherapi.com/v1/current.json?q={city}</a
+                >") return response.json()
+              </p>
+              <p>
+                app = expose_tools_http([get_weather], title="Weather Tools")
+              </p>
+              <p>
+                AI agents can call get_weather("London") to get real-time
+                weather data instantly.
+              </p>
+              <p>Business workflow function:</p>
+              <p>
+                import pandas as pd from polymcp.polymcp_toolkit import
+                expose_tools_http
+              </p>
+              <p>
+                def calculate_commissions(sales_data: list[dict]): """Calculate
+                sales commissions from sales data""" df =
+                pd.DataFrame(sales_data) df["commission"] = df["sales_amount"] *
+                0.05 return df.to_dict(orient="records")
+              </p>
+              <p>
+                app = expose_tools_http([calculate_commissions], title="Business
+                Tools")
+              </p>
+              <p>
+                AI agents can now generate commission reports automatically.
+              </p>
+              <p>
+                Why it matters for companies • Reuse existing code immediately:
+                legacy scripts, internal libraries, APIs. • Automate complex
+                workflows: AI can orchestrate multiple tools reliably. •
+                Plug-and-play: multiple Python functions exposed on the same MCP
+                server. • Reduce development time: no custom wrappers or
+                middleware needed. • Built-in reliability: input/output
+                validation and error handling included.
+              </p>
+              <p>
+                Polymcp makes Python functions immediately usable by AI agents,
+                standardizing integration across enterprise software.
+              </p>
+              <p>
+                Repo:
+                <a href="https://github.com/poly-mcp/Polymcp"
+                  >https://github.com/poly-mcp/Polymcp</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="46746681">
           <h3>
             <a class="item" href="https://substack.com/inbox/post/185649875"
@@ -231,7 +342,7 @@
             <h4>
               <span>2026-01-24 @ 19:25:53</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46746681"
                   >Comments</a
@@ -250,7 +361,7 @@
             <h4>
               <span>2026-01-24 @ 19:12:56</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46746570"
                   >Comments</a
@@ -269,11 +380,11 @@
             <h4>
               <span>2026-01-24 @ 19:08:04</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46746517"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -291,11 +402,32 @@
             <h4>
               <span>2026-01-24 @ 19:04:08</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46746476"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 100</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46746266">
+          <h3>
+            <a
+              class="item"
+              href="https://antoine.vandecreme.net/blog/rust-closures/"
+              >Understanding Rust Closures</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-24 @ 18:42:13</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46746266"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -310,7 +442,7 @@
             <h4>
               <span>2026-01-24 @ 18:24:32</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46746096"
                   >Comments</a
@@ -331,11 +463,11 @@
             <h4>
               <span>2026-01-24 @ 18:06:00</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46745922"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -353,7 +485,7 @@
             <h4>
               <span>2026-01-24 @ 17:03:24</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46745259"
                   >Comments</a
@@ -374,11 +506,11 @@
             <h4>
               <span>2026-01-24 @ 17:01:31</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46745233"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -412,11 +544,11 @@
             <h4>
               <span>2026-01-24 @ 16:16:02</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46744807"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
             <div class="text">
@@ -443,7 +575,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46744647"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -481,11 +613,11 @@
             <h4>
               <span>2026-01-24 @ 14:35:47</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46743908"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 128</span></span
               >
             </h4>
             <div class="text">
@@ -514,30 +646,11 @@
             <h4>
               <span>2026-01-24 @ 12:55:22</span
               ><span class="points-container"
-                >Points: <span class="points">336</span></span
+                >Points: <span class="points">343</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46743154"
                   >Comments</a
-                ><span class="descendants">: 228</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46742635">
-          <h3>
-            <a class="item" href="https://www.sqlite.org/np1queryprob.html"
-              >Many Small Queries Are Efficient in SQLite</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-24 @ 11:15:15</span
-              ><span class="points-container"
-                >Points: <span class="points">135</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46742635"
-                  >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 229</span></span
               >
             </h4>
           </section>
@@ -554,7 +667,7 @@
             <h4>
               <span>2026-01-24 @ 10:22:32</span
               ><span class="points-container"
-                >Points: <span class="points">321</span></span
+                >Points: <span class="points">325</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46742389"
                   >Comments</a
@@ -575,11 +688,11 @@
             <h4>
               <span>2026-01-24 @ 10:14:31</span
               ><span class="points-container"
-                >Points: <span class="points">360</span></span
+                >Points: <span class="points">365</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46742362"
                   >Comments</a
-                ><span class="descendants">: 199</span></span
+                ><span class="descendants">: 204</span></span
               >
             </h4>
           </section>
@@ -598,7 +711,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46741923"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -613,11 +726,11 @@
             <h4>
               <span>2026-01-24 @ 06:09:30</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46741472"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
             <div class="text">
@@ -650,7 +763,7 @@
             <h4>
               <span>2026-01-24 @ 03:12:13</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46740705"
                   >Comments</a
@@ -669,7 +782,7 @@
             <h4>
               <span>2026-01-23 @ 20:07:49</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46737202"
                   >Comments</a
@@ -690,32 +803,11 @@
             <h4>
               <span>2026-01-21 @ 13:03:07</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46705134"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46694618">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.dshr.org/2026/01/internet-archives-storage.html"
-              >Internet Archive's Storage</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-20 @ 17:16:49</span
-              ><span class="points-container"
-                >Points: <span class="points">266</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46694618"
-                  >Comments</a
-                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -732,11 +824,11 @@
             <h4>
               <span>2026-01-20 @ 12:28:13</span
               ><span class="points-container"
-                >Points: <span class="points">250</span></span
+                >Points: <span class="points">251</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46691108"
                   >Comments</a
-                ><span class="descendants">: 210</span></span
+                ><span class="descendants">: 211</span></span
               >
             </h4>
           </section>
@@ -753,32 +845,11 @@
             <h4>
               <span>2026-01-20 @ 11:38:31</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46690779"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46688191">
-          <h3>
-            <a
-              class="item"
-              href="https://www.qt.io/blog/c26-reflection-qrangemodel"
-              >C++26 Reflection loves QRangeModel</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-20 @ 05:19:53</span
-              ><span class="points-container"
-                >Points: <span class="points">22</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46688191"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -795,11 +866,11 @@
             <h4>
               <span>2026-01-19 @ 04:21:21</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46675030"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
