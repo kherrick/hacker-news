@@ -25,6 +25,7 @@
 * [2026-01-20, 19:06:03](https://news.ycombinator.com/item?id=46696347) - [Much of the World Facing 'Water Bankruptcy,' U.N. Report Warns](https://e360.yale.edu/digest/water-bankruptcy-report)
 * [2026-01-20, 19:03:38](https://news.ycombinator.com/item?id=46696303) - [IPv6 is not insecure because it lacks a NAT](https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/)
 * [2026-01-20, 19:03:25](https://news.ycombinator.com/item?id=46696300) - [Without benchmarking LLMs, you're likely overpaying 5-10x](https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying)
+* [2026-01-20, 19:01:53](https://news.ycombinator.com/item?id=46696283) - [Show HN: Coi – A language that compiles to WASM, beats React/Vue](https://news.ycombinator.com/item?id=46696283)
 * [2026-01-20, 19:01:30](https://news.ycombinator.com/item?id=46696276) - [Stewart Brand – Maintenance: Of Everything, Part One](https://press.stripe.com/maintenance-part-one)
 * [2026-01-20, 18:47:51](https://news.ycombinator.com/item?id=46696081) - [The fix for a segfault that never shipped](https://www.recall.ai/blog/the-fix-for-a-segfault-that-never-shipped)
 * [2026-01-20, 18:41:04](https://news.ycombinator.com/item?id=46695986) - [Immigration Agencies Are Openly Defying Federal Courts](https://lpeproject.org/blog/immigration-agencies-are-openly-defying-federal-courts/)
