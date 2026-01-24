@@ -24,11 +24,11 @@
 * [2026-01-23, 07:01:29](https://news.ycombinator.com/item?id=46729368) - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
 * [2026-01-22, 16:31:47](https://news.ycombinator.com/item?id=46721488) - [Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)](https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video)
 * [2026-01-20, 17:16:49](https://news.ycombinator.com/item?id=46694618) - [Internet Archive's Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
-* [2026-01-20, 09:33:45](https://news.ycombinator.com/item?id=46689834) - [Workspaces and Monorepos in Package Managers](https://nesbitt.io/2026/01/18/workspaces-and-monorepos-in-package-managers.html)
 * [2026-01-20, 09:08:22](https://news.ycombinator.com/item?id=46689631) - [Extracting verified C++ from the Rocq theorem prover at Bloomberg](https://bloomberg.github.io/crane/)
 * [2026-01-19, 22:21:45](https://news.ycombinator.com/item?id=46685317) - [Floating-Point Printing and Parsing Can Be Simple and Fast](https://research.swtch.com/fp)
 * [2026-01-19, 15:06:51](https://news.ycombinator.com/item?id=46679802) - [Losing 1½ Million Lines of Go](https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties)
 * [2026-01-19, 08:03:46](https://news.ycombinator.com/item?id=46676125) - [Some C habits I employ for the modern day](https://www.unix.dog/~yosh/blog/c-habits-for-me.html)
+* [2026-01-19, 02:37:49](https://news.ycombinator.com/item?id=46674482) - [Air traffic control: the IBM 9020](https://computer.rip/2026-01-17-air-traffic-control-9020.html)
 * [2026-01-18, 13:09:50](https://news.ycombinator.com/item?id=46667545) - [Gold fever, cold, and the true adventures of Jack London in the wild](https://www.smithsonianmag.com/history/gold-fever-deadly-cold-and-amazing-true-adventures-jack-london-wild-180973316/)
 
 ## [Archives](archives/index.md)
