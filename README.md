@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-24, 11:15:15](https://news.ycombinator.com/item?id=46742635) - [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
+* [2026-01-24, 10:32:26](https://news.ycombinator.com/item?id=46742432) - [I Like GitLab](https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/)
 * [2026-01-24, 10:14:31](https://news.ycombinator.com/item?id=46742362) - [Doing gigabit Ethernet over my British phone wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/)
 * [2026-01-24, 09:55:44](https://news.ycombinator.com/item?id=46742285) - [Show HN: I built a space travel calculator using Vanilla JavaScript](https://cosmic-odometer.vercel.app/)
 * [2026-01-24, 08:16:25](https://news.ycombinator.com/item?id=46741929) - [Modetc: Move your dotfiles from kernel space](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc)
@@ -7,7 +9,6 @@
 * [2026-01-24, 06:11:42](https://news.ycombinator.com/item?id=46741482) - [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
 * [2026-01-24, 03:20:51](https://news.ycombinator.com/item?id=46740748) - [“Let people help” – Advice that made a big difference to a grieving widow](https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow)
 * [2026-01-24, 01:00:50](https://news.ycombinator.com/item?id=46740029) - [Comma openpilot – Open source driver-assistance](https://comma.ai)
-* [2026-01-23, 22:28:01](https://news.ycombinator.com/item?id=46738853) - [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
 * [2026-01-23, 21:08:55](https://news.ycombinator.com/item?id=46737957) - [Mental Models (2018)](https://fs.blog/mental-models/)
 * [2026-01-23, 20:42:36](https://news.ycombinator.com/item?id=46737630) - [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
 * [2026-01-23, 20:27:58](https://news.ycombinator.com/item?id=46737447) - [Banned C++ features in Chromium](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md)
@@ -18,7 +19,6 @@
 * [2026-01-23, 16:19:18](https://news.ycombinator.com/item?id=46734302) - [Gas Town's agent patterns, design bottlenecks, and vibecoding at scale](https://maggieappleton.com/gastown)
 * [2026-01-23, 15:26:33](https://news.ycombinator.com/item?id=46733624) - [The tech monoculture is finally breaking](http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/)
 * [2026-01-23, 14:34:46](https://news.ycombinator.com/item?id=46732967) - [KORG phase8 – Acoustic Synthesizer](https://www.korg.com/us/products/dj/phase8/)
-* [2026-01-23, 11:54:53](https://news.ycombinator.com/item?id=46731432) - [Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go](https://github.com/ramonvermeulen/whosthere)
 * [2026-01-23, 11:04:18](https://news.ycombinator.com/item?id=46731068) - [Ask HN: What's the current best local/open speech-to-speech setup?](https://news.ycombinator.com/item?id=46731068)
 * [2026-01-23, 10:39:09](https://news.ycombinator.com/item?id=46730885) - [Booting from a vinyl record (2020)](https://boginjr.com/it/sw/dev/vinyl-boot/)
 * [2026-01-23, 07:01:29](https://news.ycombinator.com/item?id=46729368) - [Proton spam and the AI consent problem](https://dbushell.com/2026/01/22/proton-spam/)
