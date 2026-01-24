@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-24, 17:33:00",
-      "https://news.ycombinator.com/item?id=46745591"
+      "2026-01-24, 18:06:00",
+      "https://news.ycombinator.com/item?id=46745922"
     ],
     [
-      "Gmail Spam Detection Down",
-      "https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ?hl=en"
+      "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
+      "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Are we all plagiarists now?",
       "https://www.economist.com/culture/2026/01/22/are-we-all-plagiarists-now"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 16:16:02",
+      "https://news.ycombinator.com/item?id=46744807"
+    ],
+    [
+      "Ask HN: Gmail spam filtering suddenly marking everything as spam?",
+      "https://news.ycombinator.com/item?id=46744807"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-01-23, 11:04:18",
-      "https://news.ycombinator.com/item?id=46731068"
-    ],
-    [
-      "Ask HN: What's the current best local/open speech-to-speech setup?",
-      "https://news.ycombinator.com/item?id=46731068"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 19:01:53",
       "https://news.ycombinator.com/item?id=46696283"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-01-20, 05:10:39",
-      "https://news.ycombinator.com/item?id=46688133"
+      "2026-01-20, 05:19:53",
+      "https://news.ycombinator.com/item?id=46688191"
     ],
     [
-      "Management Time: Who's Got the Monkey? [pdf]",
-      "https://www.med.unc.edu/uncaims/wp-content/uploads/sites/764/2014/03/Oncken-_-Wass-Who_s-Got-the-Monkey.pdf"
+      "C++26 Reflection loves QRangeModel",
+      "https://www.qt.io/blog/c26-reflection-qrangemodel"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=46675030"
     ],
     [
-      "How I Became a Quant [pdf]",
+      "How I Became a Quant (2007) [pdf]",
       "https://engineering.nyu.edu/sites/default/files/2021-10/How_I_Became_a_Quant%20%281%29.pdf"
     ]
   ]
