@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-24](index.md)
 
 * [2026-01-24, 17:33:00](https://news.ycombinator.com/item?id=46745591) - [Gmail Spam Detection Down](https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ?hl=en)
+* [2026-01-24, 17:03:24](https://news.ycombinator.com/item?id=46745259) - [December in Servo: multiple windows, proxy support, better caching, and more](https://servo.org/blog/2026/01/23/december-in-servo/)
 * [2026-01-24, 17:01:31](https://news.ycombinator.com/item?id=46745233) - [Tao Te Ching – Translated by Ursula K. Le Guin](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
 * [2026-01-24, 17:00:07](https://news.ycombinator.com/item?id=46745224) - [Metriport (YC S22) is hiring a security eng to harden healthcare data infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
 * [2026-01-24, 16:51:32](https://news.ycombinator.com/item?id=46745120) - [We are experiencing an issue with Gmail beginning on Saturday, 2026-01-24 13:02](https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ)
