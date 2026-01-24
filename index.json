@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2026-01-24, 19:44:52",
+      "https://news.ycombinator.com/item?id=46746946"
+    ],
+    [
+      "Bye Bye Gmail",
+      "https://m24tom.com/bye-bye-gmail/show"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 19:40:52",
       "https://news.ycombinator.com/item?id=46746900"
     ],
     [
       "Show HN: StormWatch – Weather emergency dashboard with prep checklists",
       "https://jeisey.github.io/stormwatch/"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 19:27:58",
+      "https://news.ycombinator.com/item?id=46746700"
+    ],
+    [
+      "Show HN: Polymcp – Turn Any Python Function into an MCP Tool for AI Agents",
+      "https://news.ycombinator.com/item?id=46746700"
     ]
   ],
   [
@@ -67,6 +87,16 @@
     [
       "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
       "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 18:42:13",
+      "https://news.ycombinator.com/item?id=46746266"
+    ],
+    [
+      "Understanding Rust Closures",
+      "https://antoine.vandecreme.net/blog/rust-closures/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-01-24, 11:15:15",
-      "https://news.ycombinator.com/item?id=46742635"
-    ],
-    [
-      "Many Small Queries Are Efficient in SQLite",
-      "https://www.sqlite.org/np1queryprob.html"
-    ]
-  ],
-  [
-    [
       "2026-01-24, 10:22:32",
       "https://news.ycombinator.com/item?id=46742389"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2026-01-20, 17:16:49",
-      "https://news.ycombinator.com/item?id=46694618"
-    ],
-    [
-      "Internet Archive's Storage",
-      "https://blog.dshr.org/2026/01/internet-archives-storage.html"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 12:28:13",
       "https://news.ycombinator.com/item?id=46691108"
     ],
@@ -277,16 +287,6 @@
     [
       "Small Kafka: Tansu and SQLite on a free t3.micro",
       "https://blog.tansu.io/articles/broker-aws-free-tier"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 05:19:53",
-      "https://news.ycombinator.com/item?id=46688191"
-    ],
-    [
-      "C++26 Reflection loves QRangeModel",
-      "https://www.qt.io/blog/c26-reflection-qrangemodel"
     ]
   ],
   [
