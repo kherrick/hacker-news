@@ -38,6 +38,7 @@
 * [2026-01-20, 18:00:14](https://news.ycombinator.com/item?id=46695382) - [Europe to suspend approval of US tariffs deal](https://www.bbc.co.uk/news/articles/c4gwp2me3gzo)
 * [2026-01-20, 17:40:49](https://news.ycombinator.com/item?id=46695061) - ['This is sell America' – US dollar tumbles as globe flees US assets](https://www.cnbc.com/2026/01/20/sell-america-trade-dollar-treasury-gold-us-trump-greenland.html)
 * [2026-01-20, 17:24:41](https://news.ycombinator.com/item?id=46694767) - [Model Market Fit](https://www.nicolasbustamante.com/p/model-market-fit)
+* [2026-01-20, 17:16:49](https://news.ycombinator.com/item?id=46694618) - [Internet Archive's Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
 * [2026-01-20, 17:08:43](https://news.ycombinator.com/item?id=46694482) - ['The old order is not coming back,' Carney says in speech at Davos](https://www.cbc.ca/news/politics/carney-davos-speech-9.7052725)
 * [2026-01-20, 17:02:25](https://news.ycombinator.com/item?id=46694378) - [Meta's Legal Team Abandoned Its Ethical Duties](https://www.afterbabel.com/p/how-metas-lawyers-perfected-the-playbook)
 * [2026-01-20, 16:48:59](https://news.ycombinator.com/item?id=46694124) - [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
