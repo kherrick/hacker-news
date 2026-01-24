@@ -121,22 +121,22 @@
   ],
   [
     [
+      "2026-01-24, 18:24:32",
+      "https://news.ycombinator.com/item?id=46746096"
+    ],
+    [
+      "Hung by a thread",
+      "https://campedersen.com/rayon-mutex-deadlock"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 18:06:00",
       "https://news.ycombinator.com/item?id=46745922"
     ],
     [
       "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
       "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 17:03:24",
-      "https://news.ycombinator.com/item?id=46745259"
-    ],
-    [
-      "December in Servo: multiple windows, proxy support, better caching, and more",
-      "https://servo.org/blog/2026/01/23/december-in-servo/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-01-18, 19:35:14",
-      "https://news.ycombinator.com/item?id=46671323"
+      "2026-01-18, 16:00:24",
+      "https://news.ycombinator.com/item?id=46668841"
     ],
     [
-      "Show HN: Debugging consent and conversion tracking with a headless scan",
-      "https://consentcheck.online/"
+      "Show HN: Show HN: I built a fail-closed watchdog for ESP32/Arduino in C++",
+      "https://github.com/weareqrystal/qrystal_uplink_sdks"
     ]
   ]
 ]
