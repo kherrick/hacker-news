@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-01-24](index.md)
 
+* [2026-01-24, 13:25:46](https://news.ycombinator.com/item?id=46743328) - [FOSS \"Just Fork It\" Delusion](https://hamishcampbell.com/foss-just-fork-it-delusion/)
+* [2026-01-24, 13:08:25](https://news.ycombinator.com/item?id=46743219) - [XHTML Club](https://xhtml.club/)
 * [2026-01-24, 13:02:00](https://news.ycombinator.com/item?id=46743184) - [Ask HN: ICE Raided My Friend's Home by Mistake, Traumatized His Family](https://news.ycombinator.com/item?id=46743184)
 * [2026-01-24, 12:44:27](https://news.ycombinator.com/item?id=46743095) - [You can't pay me to prompt](https://dbushell.com/2025/06/18/ai-policy/)
 * [2026-01-24, 11:53:55](https://news.ycombinator.com/item?id=46742828) - [JVIC: New web-based Commodore VIC 20 emulator](https://vic20.games/#/basic/24k)
 * [2026-01-24, 11:15:15](https://news.ycombinator.com/item?id=46742635) - [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
 * [2026-01-24, 10:32:26](https://news.ycombinator.com/item?id=46742432) - [I Like GitLab](https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/)
+* [2026-01-24, 10:22:32](https://news.ycombinator.com/item?id=46742389) - [How I Estimate Work as a Staff Software Engineer](https://www.seangoedecke.com/how-i-estimate-work/)
 * [2026-01-24, 10:14:31](https://news.ycombinator.com/item?id=46742362) - [Doing Gigabit Ethernet over My British Phone Wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/)
 * [2026-01-24, 09:55:44](https://news.ycombinator.com/item?id=46742285) - [Show HN: I built a space travel calculator using Vanilla JavaScript](https://cosmic-odometer.vercel.app/)
 * [2026-01-24, 09:44:15](https://news.ycombinator.com/item?id=46742250) - [Repatriate the gold': German economists advise withdrawal from US vaults](https://www.theguardian.com/world/2026/jan/24/repatriate-the-gold-german-economists-advise-withdrawal-from-us-vaults)
