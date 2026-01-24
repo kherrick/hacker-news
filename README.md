@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-24, 21:19:35](https://news.ycombinator.com/item?id=46747777) - [The Writers Came at Night](https://www.metropolitanreview.org/p/the-writers-came-at-night)
 * [2026-01-24, 21:01:02](https://news.ycombinator.com/item?id=46747625) - [First Design Engineer Hire – Build Games at Gym Class (YC W22)](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal)
 * [2026-01-24, 20:33:40](https://news.ycombinator.com/item?id=46747366) - [I added a Bluesky comment section to my blog](https://micahcantor.com/blog/bluesky-comment-section.html)
 * [2026-01-24, 20:31:41](https://news.ycombinator.com/item?id=46747351) - [Show HN: JSciPy – SciPy-inspired signal processing library for Java and Android](https://github.com/hissain/jscipy)
 * [2026-01-24, 20:03:39](https://news.ycombinator.com/item?id=46747119) - [Postmortem: Our first VLEO satellite mission (with imagery and flight data)](https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next)
-* [2026-01-24, 19:53:31](https://news.ycombinator.com/item?id=46747022) - [Why Does Destroying Resources via TF Suck?](https://newsletter.masterpoint.io/p/why-does-destroying-resources-via-tf-suck)
 * [2026-01-24, 19:44:52](https://news.ycombinator.com/item?id=46746946) - [Bye Bye Gmail](https://m24tom.com/bye-bye-gmail/show)
 * [2026-01-24, 19:40:52](https://news.ycombinator.com/item?id=46746900) - [Show HN: StormWatch – Weather emergency dashboard with prep checklists](https://jeisey.github.io/stormwatch/)
 * [2026-01-24, 19:25:53](https://news.ycombinator.com/item?id=46746681) - [Agent orchestration for the timid](https://substack.com/inbox/post/185649875)
@@ -12,7 +12,6 @@
 * [2026-01-24, 19:08:04](https://news.ycombinator.com/item?id=46746517) - [The Concatative Language XY](http://www.nsl.com/k/xy/xy.txt)
 * [2026-01-24, 19:04:08](https://news.ycombinator.com/item?id=46746476) - [BirdyChat becomes first European chat app that is interoperable with WhatsApp](https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp)
 * [2026-01-24, 18:42:13](https://news.ycombinator.com/item?id=46746266) - [Understanding Rust Closures](https://antoine.vandecreme.net/blog/rust-closures/)
-* [2026-01-24, 18:24:32](https://news.ycombinator.com/item?id=46746096) - [Hung by a thread](https://campedersen.com/rayon-mutex-deadlock)
 * [2026-01-24, 18:06:00](https://news.ycombinator.com/item?id=46745922) - [Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison](https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/)
 * [2026-01-24, 17:03:24](https://news.ycombinator.com/item?id=46745259) - [December in Servo: multiple windows, proxy support, better caching, and more](https://servo.org/blog/2026/01/23/december-in-servo/)
 * [2026-01-24, 17:01:31](https://news.ycombinator.com/item?id=46745233) - [Tao Te Ching – Translated by Ursula K. Le Guin](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
@@ -26,10 +25,11 @@
 * [2026-01-24, 08:15:02](https://news.ycombinator.com/item?id=46741923) - [Shared Claude: A website controlled by the public](https://sharedclaude.com/)
 * [2026-01-24, 03:12:13](https://news.ycombinator.com/item?id=46740705) - [Language may rely less on complex grammar than previously thought: study](https://scitechdaily.com/have-we-been-wrong-about-language-for-70-years-new-study-challenges-long-held-theory/)
 * [2026-01-23, 20:07:49](https://news.ycombinator.com/item?id=46737202) - [Maze Algorithms (2017)](http://www.jamisbuck.org/mazes/)
+* [2026-01-21, 14:55:05](https://news.ycombinator.com/item?id=46706535) - [Show HN: PicoFlow – a tiny DSL-style Python library for LLM agent workflows](https://news.ycombinator.com/item?id=46706535)
 * [2026-01-21, 13:03:07](https://news.ycombinator.com/item?id=46705134) - [Microservices for the Benefits, Not the Hustle](https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3)
-* [2026-01-20, 17:16:49](https://news.ycombinator.com/item?id=46694618) - [Internet Archive's Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
 * [2026-01-20, 11:38:31](https://news.ycombinator.com/item?id=46690779) - [Small Kafka: Tansu and SQLite on a free t3.micro](https://blog.tansu.io/articles/broker-aws-free-tier)
 * [2026-01-19, 18:58:00](https://news.ycombinator.com/item?id=46682975) - [I built a tiny daemon that reminds me what matters](https://news.ycombinator.com/item?id=46682975)
+* [2026-01-18, 19:35:14](https://news.ycombinator.com/item?id=46671323) - [Show HN: Debugging consent and conversion tracking with a headless scan](https://consentcheck.online/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-24](index.md)
 
+* [2026-01-24, 21:19:35](https://news.ycombinator.com/item?id=46747777) - [The Writers Came at Night](https://www.metropolitanreview.org/p/the-writers-came-at-night)
 * [2026-01-24, 21:01:02](https://news.ycombinator.com/item?id=46747625) - [First Design Engineer Hire – Build Games at Gym Class (YC W22)](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal)
 * [2026-01-24, 20:33:40](https://news.ycombinator.com/item?id=46747366) - [I added a Bluesky comment section to my blog](https://micahcantor.com/blog/bluesky-comment-section.html)
 * [2026-01-24, 20:31:41](https://news.ycombinator.com/item?id=46747351) - [Show HN: JSciPy – SciPy-inspired signal processing library for Java and Android](https://github.com/hissain/jscipy)

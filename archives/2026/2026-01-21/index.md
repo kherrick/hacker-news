@@ -55,6 +55,7 @@
 * [2026-01-21, 15:04:07](https://news.ycombinator.com/item?id=46706668) - [Show HN: See the carbon impact of your cloud as you code](https://dashboard.infracost.io/)
 * [2026-01-21, 14:56:32](https://news.ycombinator.com/item?id=46706564) - [Show HN: Amazon shopping automation without vision](https://news.ycombinator.com/item?id=46706564)
 * [2026-01-21, 14:56:32](https://news.ycombinator.com/item?id=46706564) - [A verification layer for browser agents: Amazon case study](https://www.sentienceapi.com/blog/verification-layer-amazon-case-study)
+* [2026-01-21, 14:55:05](https://news.ycombinator.com/item?id=46706535) - [Show HN: PicoFlow – a tiny DSL-style Python library for LLM agent workflows](https://news.ycombinator.com/item?id=46706535)
 * [2026-01-21, 14:54:56](https://news.ycombinator.com/item?id=46706528) - [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
 * [2026-01-21, 14:48:10](https://news.ycombinator.com/item?id=46706442) - [Show HN: UltraContext – A simple context API for AI agents with auto-versioning](https://ultracontext.ai/)
 * [2026-01-21, 14:12:32](https://news.ycombinator.com/item?id=46705952) - [Comic-Con Bans AI Art After Artist Pushback](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
