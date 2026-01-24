@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-24, 18:38:57](https://news.ycombinator.com/item?id=46746231) - [Get-Shit-Done](https://github.com/glittercowboy/get-shit-done)
 * [2026-01-24, 18:14:28](https://news.ycombinator.com/item?id=46745998) - [US Vaccine Panel Chair Says Polio and Other Shots Should Be Optional](https://www.nytimes.com/2026/01/23/health/milhoan-vaccines-optional-polio.html)
 * [2026-01-24, 18:06:00](https://news.ycombinator.com/item?id=46745922) - [Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison](https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/)
 * [2026-01-24, 17:03:24](https://news.ycombinator.com/item?id=46745259) - [December in Servo: multiple windows, proxy support, better caching, and more](https://servo.org/blog/2026/01/23/december-in-servo/)
@@ -28,7 +29,6 @@
 * [2026-01-20, 08:34:44](https://news.ycombinator.com/item?id=46689342) - [6 Years Building Video Players. 9B Requests. Starting Over](https://www.mux.com/blog/6-years-building-video-players-9-billion-requests-starting-over)
 * [2026-01-20, 05:19:53](https://news.ycombinator.com/item?id=46688191) - [C++26 Reflection loves QRangeModel](https://www.qt.io/blog/c26-reflection-qrangemodel)
 * [2026-01-19, 08:03:46](https://news.ycombinator.com/item?id=46676125) - [Some C habits I employ for the modern day](https://www.unix.dog/~yosh/blog/c-habits-for-me.html)
-* [2026-01-19, 07:53:17](https://news.ycombinator.com/item?id=46676061) - [Traintrackr – Live LED Maps](https://www.traintrackr.co.uk/)
 * [2026-01-19, 04:21:21](https://news.ycombinator.com/item?id=46675030) - [How I Became a Quant (2007) [pdf]](https://engineering.nyu.edu/sites/default/files/2021-10/How_I_Became_a_Quant%20%281%29.pdf)
 
 ## [Archives](archives/index.md)
