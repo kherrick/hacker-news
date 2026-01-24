@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-01-24, 19:59:05",
+      "https://news.ycombinator.com/item?id=46747078"
+    ],
+    [
+      "Propositions about the New Romanticism",
+      "https://www.honest-broker.com/p/25-propositions-about-the-new-romanticism"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 19:25:53",
+      "https://news.ycombinator.com/item?id=46746681"
+    ],
+    [
+      "Agent orchestration for the timid",
+      "https://substack.com/inbox/post/185649875"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 19:12:56",
+      "https://news.ycombinator.com/item?id=46746570"
+    ],
+    [
+      "JSON-render: LLM-based JSON-to-UI tool",
+      "https://json-render.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 19:08:04",
+      "https://news.ycombinator.com/item?id=46746517"
+    ],
+    [
+      "The Concatative Language XY",
+      "http://www.nsl.com/k/xy/xy.txt"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 19:04:08",
       "https://news.ycombinator.com/item?id=46746476"
     ],
     [
       "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
       "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 18:24:32",
+      "https://news.ycombinator.com/item?id=46746096"
+    ],
+    [
+      "Hung by a thread",
+      "https://campedersen.com/rayon-mutex-deadlock"
     ]
   ],
   [
@@ -71,6 +121,26 @@
   ],
   [
     [
+      "2026-01-24, 15:57:45",
+      "https://news.ycombinator.com/item?id=46744647"
+    ],
+    [
+      "Memory layout in Zig with formulas",
+      "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 15:50:09",
+      "https://news.ycombinator.com/item?id=46744569"
+    ],
+    [
+      "The Kept and the Killed (2022)",
+      "https://publicdomainreview.org/essay/the-kept-and-the-killed/"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 14:35:47",
       "https://news.ycombinator.com/item?id=46743908"
     ],
@@ -101,32 +171,12 @@
   ],
   [
     [
-      "2026-01-24, 11:53:55",
-      "https://news.ycombinator.com/item?id=46742828"
-    ],
-    [
-      "JVIC: New web-based Commodore VIC 20 emulator",
-      "https://vic20.games/#/basic/24k"
-    ]
-  ],
-  [
-    [
       "2026-01-24, 11:15:15",
       "https://news.ycombinator.com/item?id=46742635"
     ],
     [
       "Many Small Queries Are Efficient in SQLite",
       "https://www.sqlite.org/np1queryprob.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 10:32:26",
-      "https://news.ycombinator.com/item?id=46742432"
-    ],
-    [
-      "I Like GitLab",
-      "https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/"
     ]
   ],
   [
@@ -151,22 +201,32 @@
   ],
   [
     [
-      "2026-01-24, 06:11:42",
-      "https://news.ycombinator.com/item?id=46741482"
+      "2026-01-24, 08:15:02",
+      "https://news.ycombinator.com/item?id=46741923"
     ],
     [
-      "80386 Multiplication and Division",
-      "https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/"
+      "Shared Claude: A website controlled by the public",
+      "https://sharedclaude.com/"
     ]
   ],
   [
     [
-      "2026-01-24, 03:20:51",
-      "https://news.ycombinator.com/item?id=46740748"
+      "2026-01-24, 06:09:30",
+      "https://news.ycombinator.com/item?id=46741472"
     ],
     [
-      "“Let people help” – Advice that made a big difference to a grieving widow",
-      "https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow"
+      "Show HN: Open-source Figma design to code",
+      "https://github.com/vibeflowing-inc/vibe_figma"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 03:12:13",
+      "https://news.ycombinator.com/item?id=46740705"
+    ],
+    [
+      "Language may rely less on complex grammar than previously thought: study",
+      "https://scitechdaily.com/have-we-been-wrong-about-language-for-70-years-new-study-challenges-long-held-theory/"
     ]
   ],
   [
@@ -187,36 +247,6 @@
     [
       "Maze Algorithms (2017)",
       "http://www.jamisbuck.org/mazes/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 17:56:31",
-      "https://news.ycombinator.com/item?id=46735511"
-    ],
-    [
-      "Proof of Corn",
-      "https://proofofcorn.com/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 16:19:18",
-      "https://news.ycombinator.com/item?id=46734302"
-    ],
-    [
-      "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
-      "https://maggieappleton.com/gastown"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 19:01:53",
-      "https://news.ycombinator.com/item?id=46696283"
-    ],
-    [
-      "Show HN: Coi – A language that compiles to WASM, beats React/Vue",
-      "https://news.ycombinator.com/item?id=46696283"
     ]
   ],
   [
@@ -251,42 +281,12 @@
   ],
   [
     [
-      "2026-01-20, 09:08:22",
-      "https://news.ycombinator.com/item?id=46689631"
-    ],
-    [
-      "Extracting verified C++ from the Rocq theorem prover at Bloomberg",
-      "https://bloomberg.github.io/crane/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 08:34:44",
-      "https://news.ycombinator.com/item?id=46689342"
-    ],
-    [
-      "6 Years Building Video Players. 9B Requests. Starting Over",
-      "https://www.mux.com/blog/6-years-building-video-players-9-billion-requests-starting-over"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 05:19:53",
       "https://news.ycombinator.com/item?id=46688191"
     ],
     [
       "C++26 Reflection loves QRangeModel",
       "https://www.qt.io/blog/c26-reflection-qrangemodel"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 08:03:46",
-      "https://news.ycombinator.com/item?id=46676125"
-    ],
-    [
-      "Some C habits I employ for the modern day",
-      "https://www.unix.dog/~yosh/blog/c-habits-for-me.html"
     ]
   ],
   [
