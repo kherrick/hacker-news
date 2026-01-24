@@ -2,7 +2,7 @@
 
 * [2026-01-24, 13:25:46](https://news.ycombinator.com/item?id=46743328) - [FOSS \"Just Fork It\" Delusion](https://hamishcampbell.com/foss-just-fork-it-delusion/)
 * [2026-01-24, 13:08:25](https://news.ycombinator.com/item?id=46743219) - [XHTML Club](https://xhtml.club/)
-* [2026-01-24, 12:44:27](https://news.ycombinator.com/item?id=46743095) - [You can't pay me to prompt](https://dbushell.com/2025/06/18/ai-policy/)
+* [2026-01-24, 12:55:22](https://news.ycombinator.com/item?id=46743154) - [MS confirms it will give the FBI your Windows PC data encryption key if asked](https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare)
 * [2026-01-24, 11:53:55](https://news.ycombinator.com/item?id=46742828) - [JVIC: New web-based Commodore VIC 20 emulator](https://vic20.games/#/basic/24k)
 * [2026-01-24, 11:15:15](https://news.ycombinator.com/item?id=46742635) - [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
 * [2026-01-24, 10:32:26](https://news.ycombinator.com/item?id=46742432) - [I Like GitLab](https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/)
