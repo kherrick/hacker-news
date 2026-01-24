@@ -77,6 +77,7 @@
 * [2026-01-20, 07:32:58](https://news.ycombinator.com/item?id=46688954) - [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
 * [2026-01-20, 05:27:12](https://news.ycombinator.com/item?id=46688229) - [Becoming a Whorelord: The Overly Analytical Guide to Escorting (2021)](https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/)
 * [2026-01-20, 05:16:14](https://news.ycombinator.com/item?id=46688173) - [X For You Feed Algorithm](https://github.com/xai-org/x-algorithm)
+* [2026-01-20, 05:10:39](https://news.ycombinator.com/item?id=46688133) - [Management Time: Who's Got the Monkey? [pdf]](https://www.med.unc.edu/uncaims/wp-content/uploads/sites/764/2014/03/Oncken-_-Wass-Who_s-Got-the-Monkey.pdf)
 * [2026-01-20, 05:08:57](https://news.ycombinator.com/item?id=46688122) - [Chatbot Psychosis](https://en.wikipedia.org/wiki/Chatbot_psychosis)
 * [2026-01-20, 05:06:19](https://news.ycombinator.com/item?id=46688101) - [Stevey's Birthday Blog](https://steve-yegge.medium.com/steveys-birthday-blog-34f437139cb5)
 * [2026-01-20, 04:14:12](https://news.ycombinator.com/item?id=46687841) - [RCS for Business](https://developers.google.com/business-communications/rcs-business-messaging)

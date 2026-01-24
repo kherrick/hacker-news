@@ -25,7 +25,7 @@
 * [2026-01-20, 19:01:53](https://news.ycombinator.com/item?id=46696283) - [Show HN: Coi – A language that compiles to WASM, beats React/Vue](https://news.ycombinator.com/item?id=46696283)
 * [2026-01-20, 17:16:49](https://news.ycombinator.com/item?id=46694618) - [Internet Archive's Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
 * [2026-01-20, 09:08:22](https://news.ycombinator.com/item?id=46689631) - [Extracting verified C++ from the Rocq theorem prover at Bloomberg](https://bloomberg.github.io/crane/)
-* [2026-01-19, 15:00:07](https://news.ycombinator.com/item?id=46679737) - [The strange case of the underestimated Merge Join node](https://blog.dalibo.com/2026/01/12/under-estimated-mergejoin.html)
+* [2026-01-20, 05:10:39](https://news.ycombinator.com/item?id=46688133) - [Management Time: Who's Got the Monkey? [pdf]](https://www.med.unc.edu/uncaims/wp-content/uploads/sites/764/2014/03/Oncken-_-Wass-Who_s-Got-the-Monkey.pdf)
 * [2026-01-19, 10:21:19](https://news.ycombinator.com/item?id=46677221) - [Unveiling Firestore Pipeline operations – Firestore's powerful new query engine](https://firebase.blog/posts/2026/01/firestore-enterprise-pipeline-operations)
 * [2026-01-19, 08:03:46](https://news.ycombinator.com/item?id=46676125) - [Some C habits I employ for the modern day](https://www.unix.dog/~yosh/blog/c-habits-for-me.html)
 * [2026-01-19, 07:53:17](https://news.ycombinator.com/item?id=46676061) - [Traintrackr – Live LED Maps](https://www.traintrackr.co.uk/)
