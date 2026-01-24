@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-01-24, 08:21:36",
-      "https://news.ycombinator.com/item?id=46741949"
-    ],
-    [
-      "How Debt Bankrupted the British Empire, and Why America Is Walking the Same Path",
-      "https://nitishastra.substack.com/p/how-debt-bankrupted-the-british-empire"
-    ]
-  ],
-  [
-    [
       "2026-01-24, 08:16:25",
       "https://news.ycombinator.com/item?id=46741929"
     ],
@@ -267,6 +257,16 @@
     [
       "The strange case of the underestimated Merge Join node",
       "https://blog.dalibo.com/2026/01/12/under-estimated-mergejoin.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-19, 10:21:19",
+      "https://news.ycombinator.com/item?id=46677221"
+    ],
+    [
+      "Unveiling Firestore Pipeline operations – Firestore's powerful new query engine",
+      "https://firebase.blog/posts/2026/01/firestore-enterprise-pipeline-operations"
     ]
   ],
   [
