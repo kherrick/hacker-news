@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-24, 22:23:49",
+      "https://news.ycombinator.com/item?id=46748336"
+    ],
+    [
+      "ICE Releases RFI for User Tracking Tools",
+      "https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 21:24:13",
       "https://news.ycombinator.com/item?id=46747827"
     ],
@@ -107,16 +117,6 @@
     [
       "Understanding Rust Closures",
       "https://antoine.vandecreme.net/blog/rust-closures/"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 18:24:32",
-      "https://news.ycombinator.com/item?id=46746096"
-    ],
-    [
-      "Hung by a thread",
-      "https://campedersen.com/rayon-mutex-deadlock"
     ]
   ],
   [
