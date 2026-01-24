@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-01-24](index.md)
 
+* [2026-01-24, 18:06:00](https://news.ycombinator.com/item?id=46745922) - [Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison](https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/)
 * [2026-01-24, 17:33:00](https://news.ycombinator.com/item?id=46745591) - [Gmail Spam Detection Down](https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ?hl=en)
 * [2026-01-24, 17:03:24](https://news.ycombinator.com/item?id=46745259) - [December in Servo: multiple windows, proxy support, better caching, and more](https://servo.org/blog/2026/01/23/december-in-servo/)
 * [2026-01-24, 17:01:31](https://news.ycombinator.com/item?id=46745233) - [Tao Te Ching – Translated by Ursula K. Le Guin](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
 * [2026-01-24, 17:00:07](https://news.ycombinator.com/item?id=46745224) - [Metriport (YC S22) is hiring a security eng to harden healthcare data infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
 * [2026-01-24, 16:51:32](https://news.ycombinator.com/item?id=46745120) - [We are experiencing an issue with Gmail beginning on Saturday, 2026-01-24 13:02](https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ)
 * [2026-01-24, 16:34:14](https://news.ycombinator.com/item?id=46744968) - [Are we all plagiarists now?](https://www.economist.com/culture/2026/01/22/are-we-all-plagiarists-now)
+* [2026-01-24, 16:16:02](https://news.ycombinator.com/item?id=46744807) - [Ask HN: Gmail spam filtering suddenly marking everything as spam?](https://news.ycombinator.com/item?id=46744807)
 * [2026-01-24, 15:50:23](https://news.ycombinator.com/item?id=46744572) - [After two years of vibecoding, I'm back to writing by hand [video]](https://www.youtube.com/watch?v=SKTsNV41DYg)
 * [2026-01-24, 14:35:47](https://news.ycombinator.com/item?id=46743908) - [Claude Code's new hidden feature: Swarms](https://twitter.com/NicerInPerson/status/2014989679796347375)
 * [2026-01-24, 14:31:58](https://news.ycombinator.com/item?id=46743867) - [Ask HN: May an Agent accepts a license to produce a build?](https://news.ycombinator.com/item?id=46743867)
