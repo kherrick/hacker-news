@@ -67,6 +67,7 @@
 * [2026-01-21, 13:25:06](https://news.ycombinator.com/item?id=46705385) - [Canada Announces Divorce from America](https://charlotteclymer.substack.com/p/canada-announces-divorce-from-america)
 * [2026-01-21, 13:13:06](https://news.ycombinator.com/item?id=46705256) - [Swedish Alecta has sold off an estimated $8B of US Treasury Bonds](https://www.di.se/nyheter/di-avslojar-alecta-har-dumpat-amerikanska-statspapper/)
 * [2026-01-21, 13:08:35](https://news.ycombinator.com/item?id=46705201) - [Nested Code Fences in Markdown](https://susam.net/nested-code-fences.html)
+* [2026-01-21, 13:03:07](https://news.ycombinator.com/item?id=46705134) - [Microservices for the Benefits, Not the Hustle](https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3)
 * [2026-01-21, 12:46:27](https://news.ycombinator.com/item?id=46704943) - [Vibecoding #2](https://matklad.github.io/2026/01/20/vibecoding-2.html)
 * [2026-01-21, 12:11:11](https://news.ycombinator.com/item?id=46704555) - [Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals)
 * [2026-01-21, 12:02:09](https://news.ycombinator.com/item?id=46704465) - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers)

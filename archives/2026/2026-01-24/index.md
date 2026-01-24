@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-24](index.md)
 
+* [2026-01-24, 20:03:39](https://news.ycombinator.com/item?id=46747119) - [Postmortem: Our first VLEO satellite mission (with imagery and flight data)](https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next)
 * [2026-01-24, 19:59:05](https://news.ycombinator.com/item?id=46747078) - [Propositions about the New Romanticism](https://www.honest-broker.com/p/25-propositions-about-the-new-romanticism)
+* [2026-01-24, 19:53:31](https://news.ycombinator.com/item?id=46747022) - [Why Does Destroying Resources via TF Suck?](https://newsletter.masterpoint.io/p/why-does-destroying-resources-via-tf-suck)
+* [2026-01-24, 19:40:52](https://news.ycombinator.com/item?id=46746900) - [Show HN: StormWatch – Weather emergency dashboard with prep checklists](https://jeisey.github.io/stormwatch/)
 * [2026-01-24, 19:25:53](https://news.ycombinator.com/item?id=46746681) - [Agent orchestration for the timid](https://substack.com/inbox/post/185649875)
 * [2026-01-24, 19:12:56](https://news.ycombinator.com/item?id=46746570) - [JSON-render: LLM-based JSON-to-UI tool](https://json-render.dev/)
 * [2026-01-24, 19:08:04](https://news.ycombinator.com/item?id=46746517) - [The Concatative Language XY](http://www.nsl.com/k/xy/xy.txt)
