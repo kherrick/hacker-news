@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-24](index.md)
 
+* [2026-01-24, 17:01:31](https://news.ycombinator.com/item?id=46745233) - [Tao Te Ching – Translated by Ursula K. Le Guin](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
 * [2026-01-24, 17:00:07](https://news.ycombinator.com/item?id=46745224) - [Metriport (YC S22) is hiring a security eng to harden healthcare data infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
 * [2026-01-24, 16:51:32](https://news.ycombinator.com/item?id=46745120) - [We are experiencing an issue with Gmail beginning on Saturday, 2026-01-24 13:02](https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ)
 * [2026-01-24, 16:34:14](https://news.ycombinator.com/item?id=46744968) - [Are we all plagiarists now?](https://www.economist.com/culture/2026/01/22/are-we-all-plagiarists-now)

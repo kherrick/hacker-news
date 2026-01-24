@@ -95,6 +95,7 @@
 * [2026-01-19, 05:04:07](https://news.ycombinator.com/item?id=46675231) - [Show HN: Pdfwithlove – PDF tools that run 100% locally (no uploads, no back end)](https://pdfwithlove.netlify.app)
 * [2026-01-19, 04:55:23](https://news.ycombinator.com/item?id=46675193) - [If You Think This Instrument Is Hard to Play, Try Building One](https://www.nytimes.com/2026/01/14/arts/music/oboe-laubin-jim-phelan.html)
 * [2026-01-19, 04:35:05](https://news.ycombinator.com/item?id=46675092) - [Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go](https://github.com/elC0mpa/aws-doctor)
+* [2026-01-19, 04:21:21](https://news.ycombinator.com/item?id=46675030) - [How I Became a Quant [pdf]](https://engineering.nyu.edu/sites/default/files/2021-10/How_I_Became_a_Quant%20%281%29.pdf)
 * [2026-01-19, 04:11:28](https://news.ycombinator.com/item?id=46674976) - [My thoughts on Gas Town after 10k hours of Claude Code](https://simonhartcher.com/posts/2026-01-19-my-thoughts-on-gas-town-after-10000-hours-of-claude-code/)
 * [2026-01-19, 02:42:08](https://news.ycombinator.com/item?id=46674505) - [CD Projekt issue DMCA takedown notice against popular Cyberpunk VR mod](https://www.patreon.com/posts/another-one-dust-148437771)
 * [2026-01-19, 02:37:49](https://news.ycombinator.com/item?id=46674482) - [Air traffic control: the IBM 9020](https://computer.rip/2026-01-17-air-traffic-control-9020.html)
