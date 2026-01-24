@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-24, 02:59:42",
+      "https://news.ycombinator.com/item?id=46740644"
+    ],
+    [
+      "Caroline Ellison Former Alameda CEO Released from Prison After 440 Days",
+      "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 02:55:27",
+      "https://news.ycombinator.com/item?id=46740621"
+    ],
+    [
+      "Everybody's at each other's throats': James Cameron left the US permanently",
+      "https://www.theguardian.com/film/2026/jan/23/james-cameron-left-the-us-permanently-covid-new-zealand"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 01:41:45",
+      "https://news.ycombinator.com/item?id=46740280"
+    ],
+    [
+      "The Internet Doesn't Suck: Blame Big Tech, Not the Internet",
+      "https://riverseeber.net/blog/post/the-internet-doesnt-suck/"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 01:00:50",
       "https://news.ycombinator.com/item?id=46740029"
     ],
@@ -21,22 +51,12 @@
   ],
   [
     [
-      "2026-01-23, 22:51:41",
-      "https://news.ycombinator.com/item?id=46739078"
+      "2026-01-23, 22:28:01",
+      "https://news.ycombinator.com/item?id=46738853"
     ],
     [
-      "TikTok Is Now Collecting More Data About Its Users",
-      "https://www.wired.com/story/tiktok-new-privacy-policy/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 22:51:25",
-      "https://news.ycombinator.com/item?id=46739075"
-    ],
-    [
-      "Voyage-multimodal-3.5: A new multimodal retrieval frontier with video support",
-      "https://blog.voyageai.com/2026/01/15/voyage-multimodal-3-5/"
+      "Wilson Lin on FastRender: a browser built by parallel agents",
+      "https://simonwillison.net/2026/Jan/23/fastrender/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-01-23, 17:29:53",
-      "https://news.ycombinator.com/item?id=46735179"
-    ],
-    [
-      "Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG",
-      "https://markgascoyne.co.uk/posts/ebpf-bng/"
-    ]
-  ],
-  [
-    [
       "2026-01-23, 17:26:57",
       "https://news.ycombinator.com/item?id=46735139"
     ],
@@ -167,16 +177,6 @@
     [
       "The tech monoculture is finally breaking",
       "http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 15:03:01",
-      "https://news.ycombinator.com/item?id=46733301"
-    ],
-    [
-      "Waypoint-1: Real-Time Interactive Video Diffusion from Overworld",
-      "https://huggingface.co/blog/waypoint-1"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-01-22, 21:54:02",
-      "https://news.ycombinator.com/item?id=46725632"
+      "2026-01-21, 15:34:16",
+      "https://news.ycombinator.com/item?id=46707117"
     ],
     [
-      "Anthropic Economic Index report: economic primitives",
-      "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report"
+      "I built an in-memory rate limiter in a Next.js project",
+      "https://www.freecodecamp.org/news/how-to-build-an-in-memory-rate-limiter-in-nextjs/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2026-01-19, 15:06:51",
+      "https://news.ycombinator.com/item?id=46679802"
+    ],
+    [
+      "Losing 1½ Million Lines of Go",
+      "https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties"
+    ]
+  ],
+  [
+    [
       "2026-01-19, 08:03:46",
       "https://news.ycombinator.com/item?id=46676125"
     ],
     [
       "Some C habits I employ for the modern day",
       "https://www.unix.dog/~yosh/blog/c-habits-for-me.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 14:00:00",
-      "https://news.ycombinator.com/item?id=46667849"
-    ],
-    [
-      "Show HN: Zsweep – Play Minesweeper using only Vim motions",
-      "https://zsweep.com"
     ]
   ],
   [
