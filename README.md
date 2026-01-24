@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-24, 14:31:58](https://news.ycombinator.com/item?id=46743867) - [Ask HN: May an Agent accepts a license to produce a build?](https://news.ycombinator.com/item?id=46743867)
 * [2026-01-24, 13:25:46](https://news.ycombinator.com/item?id=46743328) - [FOSS \"Just Fork It\" Delusion](https://hamishcampbell.com/foss-just-fork-it-delusion/)
 * [2026-01-24, 13:08:25](https://news.ycombinator.com/item?id=46743219) - [XHTML Club](https://xhtml.club/)
 * [2026-01-24, 12:55:22](https://news.ycombinator.com/item?id=46743154) - [MS confirms it will give the FBI your Windows PC data encryption key if asked](https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare)
@@ -13,7 +14,6 @@
 * [2026-01-24, 06:11:42](https://news.ycombinator.com/item?id=46741482) - [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
 * [2026-01-24, 03:20:51](https://news.ycombinator.com/item?id=46740748) - [“Let people help” – Advice that made a big difference to a grieving widow](https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow)
 * [2026-01-24, 01:00:50](https://news.ycombinator.com/item?id=46740029) - [Comma openpilot – Open source driver-assistance](https://comma.ai)
-* [2026-01-23, 21:08:55](https://news.ycombinator.com/item?id=46737957) - [Mental Models (2018)](https://fs.blog/mental-models/)
 * [2026-01-23, 20:42:36](https://news.ycombinator.com/item?id=46737630) - [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
 * [2026-01-23, 20:27:58](https://news.ycombinator.com/item?id=46737447) - [Banned C++ features in Chromium](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md)
 * [2026-01-23, 18:08:11](https://news.ycombinator.com/item?id=46735644) - [New YC homepage](https://www.ycombinator.com/)
