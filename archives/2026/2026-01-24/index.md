@@ -6,6 +6,7 @@
 
 * [2026-01-24, 07:01:13](https://news.ycombinator.com/item?id=46741643) - [Telli (YC F24) is hiring ambitious people (eng, design, growth)[on-site, Berlin]](https://careers.telli.com/)
 * [2026-01-24, 06:11:42](https://news.ycombinator.com/item?id=46741482) - [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
+* [2026-01-24, 03:20:51](https://news.ycombinator.com/item?id=46740748) - [\"People are going to stop and ask you, 'How can I help?' Let them.\"](https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow)
 * [2026-01-24, 02:59:42](https://news.ycombinator.com/item?id=46740644) - [Caroline Ellison Former Alameda CEO Released from Prison After 440 Days](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)
 * [2026-01-24, 02:55:27](https://news.ycombinator.com/item?id=46740621) - [Everybody's at each other's throats': James Cameron left the US permanently](https://www.theguardian.com/film/2026/jan/23/james-cameron-left-the-us-permanently-covid-new-zealand)
 * [2026-01-24, 01:41:45](https://news.ycombinator.com/item?id=46740280) - [The Internet Doesn't Suck: Blame Big Tech, Not the Internet](https://riverseeber.net/blog/post/the-internet-doesnt-suck/)
