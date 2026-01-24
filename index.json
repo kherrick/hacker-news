@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-24, 17:00:07",
+      "https://news.ycombinator.com/item?id=46745224"
+    ],
+    [
+      "Metriport (YC S22) is hiring a security eng to harden healthcare data infra",
+      "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 16:51:32",
+      "https://news.ycombinator.com/item?id=46745120"
+    ],
+    [
+      "We are experiencing an issue with Gmail beginning on Saturday, 2026-01-24 13:02",
+      "https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 16:34:14",
       "https://news.ycombinator.com/item?id=46744968"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2026-01-24, 07:01:13",
-      "https://news.ycombinator.com/item?id=46741643"
-    ],
-    [
-      "Telli (YC F24) is hiring eng, design, growth [on-site, Berlin]",
-      "https://careers.telli.com/"
-    ]
-  ],
-  [
-    [
       "2026-01-24, 06:11:42",
       "https://news.ycombinator.com/item?id=46741482"
     ],
@@ -121,26 +131,6 @@
   ],
   [
     [
-      "2026-01-24, 01:00:50",
-      "https://news.ycombinator.com/item?id=46740029"
-    ],
-    [
-      "Comma openpilot – Open source driver-assistance",
-      "https://comma.ai"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 21:08:55",
-      "https://news.ycombinator.com/item?id=46737957"
-    ],
-    [
-      "Mental Models (2018)",
-      "https://fs.blog/mental-models/"
-    ]
-  ],
-  [
-    [
       "2026-01-23, 20:42:36",
       "https://news.ycombinator.com/item?id=46737630"
     ],
@@ -157,6 +147,16 @@
     [
       "Banned C++ features in Chromium",
       "https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 20:07:49",
+      "https://news.ycombinator.com/item?id=46737202"
+    ],
+    [
+      "Maze Algorithms (2017)",
+      "http://www.jamisbuck.org/mazes/"
     ]
   ],
   [
