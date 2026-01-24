@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2026-01-24, 09:55:44",
-      "https://news.ycombinator.com/item?id=46742285"
-    ],
-    [
-      "Show HN: I built a space travel calculator using Vanilla JavaScript",
-      "https://cosmic-odometer.vercel.app/"
-    ]
-  ],
-  [
-    [
       "2026-01-24, 08:16:25",
       "https://news.ycombinator.com/item?id=46741929"
     ],
@@ -237,6 +227,16 @@
     [
       "Show HN: Coi – A language that compiles to WASM, beats React/Vue",
       "https://news.ycombinator.com/item?id=46696283"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 18:47:51",
+      "https://news.ycombinator.com/item?id=46696081"
+    ],
+    [
+      "The fix for a segfault that never shipped",
+      "https://www.recall.ai/blog/the-fix-for-a-segfault-that-never-shipped"
     ]
   ],
   [
