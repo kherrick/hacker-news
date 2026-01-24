@@ -80,6 +80,7 @@
 * [2026-01-19, 08:21:44](https://news.ycombinator.com/item?id=46676264) - [MTOTP: Wouldn't it be nice if you were the 2FA device?](https://github.com/VBranimir/mTOTP/tree/develop)
 * [2026-01-19, 08:03:46](https://news.ycombinator.com/item?id=46676125) - [Some C habits I employ for the modern day](https://www.unix.dog/~yosh/blog/c-habits-for-me.html)
 * [2026-01-19, 07:57:04](https://news.ycombinator.com/item?id=46676081) - [The coming industrialisation of exploit generation with LLMs](https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/)
+* [2026-01-19, 07:53:17](https://news.ycombinator.com/item?id=46676061) - [Traintrackr – Live LED Maps](https://www.traintrackr.co.uk/)
 * [2026-01-19, 07:14:19](https://news.ycombinator.com/item?id=46675853) - [A decentralized peer-to-peer messaging application that operates over Bluetooth](https://bitchat.free/)
 * [2026-01-19, 06:51:58](https://news.ycombinator.com/item?id=46675745) - [Writing First, Tooling Second](https://susam.net/writing-first-tooling-second.html)
 * [2026-01-19, 06:51:12](https://news.ycombinator.com/item?id=46675740) - [Anthropic disabled my account after payment cancer patient/medical data trapped](https://news.ycombinator.com/item?id=46675740)
