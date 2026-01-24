@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-24, 18:14:28](https://news.ycombinator.com/item?id=46745998) - [US Vaccine Panel Chair Says Polio and Other Shots Should Be Optional](https://www.nytimes.com/2026/01/23/health/milhoan-vaccines-optional-polio.html)
 * [2026-01-24, 18:06:00](https://news.ycombinator.com/item?id=46745922) - [Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison](https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/)
 * [2026-01-24, 17:03:24](https://news.ycombinator.com/item?id=46745259) - [December in Servo: multiple windows, proxy support, better caching, and more](https://servo.org/blog/2026/01/23/december-in-servo/)
 * [2026-01-24, 17:01:31](https://news.ycombinator.com/item?id=46745233) - [Tao Te Ching – Translated by Ursula K. Le Guin](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
@@ -13,7 +14,6 @@
 * [2026-01-24, 10:32:26](https://news.ycombinator.com/item?id=46742432) - [I Like GitLab](https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/)
 * [2026-01-24, 10:22:32](https://news.ycombinator.com/item?id=46742389) - [How I Estimate Work as a Staff Software Engineer](https://www.seangoedecke.com/how-i-estimate-work/)
 * [2026-01-24, 10:14:31](https://news.ycombinator.com/item?id=46742362) - [Doing gigabit Ethernet over my British phone wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/)
-* [2026-01-24, 08:16:25](https://news.ycombinator.com/item?id=46741929) - [Modetc: Move your dotfiles from kernel space](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc)
 * [2026-01-24, 06:11:42](https://news.ycombinator.com/item?id=46741482) - [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
 * [2026-01-24, 03:20:51](https://news.ycombinator.com/item?id=46740748) - [“Let people help” – Advice that made a big difference to a grieving widow](https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow)
 * [2026-01-23, 20:42:36](https://news.ycombinator.com/item?id=46737630) - [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
