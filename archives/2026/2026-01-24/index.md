@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-24](index.md)
 
+* [2026-01-24, 16:34:14](https://news.ycombinator.com/item?id=46744968) - [Are we all plagiarists now?](https://www.economist.com/culture/2026/01/22/are-we-all-plagiarists-now)
 * [2026-01-24, 15:50:23](https://news.ycombinator.com/item?id=46744572) - [After two years of vibecoding, I'm back to writing by hand [video]](https://www.youtube.com/watch?v=SKTsNV41DYg)
 * [2026-01-24, 14:35:47](https://news.ycombinator.com/item?id=46743908) - [Claude Code's new hidden feature: Swarms](https://twitter.com/NicerInPerson/status/2014989679796347375)
 * [2026-01-24, 14:31:58](https://news.ycombinator.com/item?id=46743867) - [Ask HN: May an Agent accepts a license to produce a build?](https://news.ycombinator.com/item?id=46743867)
