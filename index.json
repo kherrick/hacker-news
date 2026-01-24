@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-24, 21:24:13",
+      "https://news.ycombinator.com/item?id=46747827"
+    ],
+    [
+      "Poland's energy grid was targeted by never-before-seen wiper malware",
+      "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 21:19:35",
       "https://news.ycombinator.com/item?id=46747777"
     ],
@@ -31,32 +41,12 @@
   ],
   [
     [
-      "2026-01-24, 20:31:41",
-      "https://news.ycombinator.com/item?id=46747351"
-    ],
-    [
-      "Show HN: JSciPy – SciPy-inspired signal processing library for Java and Android",
-      "https://github.com/hissain/jscipy"
-    ]
-  ],
-  [
-    [
       "2026-01-24, 20:03:39",
       "https://news.ycombinator.com/item?id=46747119"
     ],
     [
       "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
       "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 19:44:52",
-      "https://news.ycombinator.com/item?id=46746946"
-    ],
-    [
-      "Bye Bye Gmail",
-      "https://m24tom.com/bye-bye-gmail/show"
     ]
   ],
   [
@@ -117,6 +107,16 @@
     [
       "Understanding Rust Closures",
       "https://antoine.vandecreme.net/blog/rust-closures/"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 18:24:32",
+      "https://news.ycombinator.com/item?id=46746096"
+    ],
+    [
+      "Hung by a thread",
+      "https://campedersen.com/rayon-mutex-deadlock"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2026-01-24, 06:09:30",
+      "https://news.ycombinator.com/item?id=46741472"
+    ],
+    [
+      "Show HN: Open-source Figma design to code",
+      "https://github.com/vibeflowing-inc/vibe_figma"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 03:12:13",
       "https://news.ycombinator.com/item?id=46740705"
     ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=46705134"
     ],
     [
-      "Microservices for the Benefits, Not the Hustle",
+      "Microservices for the Benefits, Not the Hustle (2023)",
       "https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Small Kafka: Tansu and SQLite on a free t3.micro",
       "https://blog.tansu.io/articles/broker-aws-free-tier"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 18:58:00",
-      "https://news.ycombinator.com/item?id=46682975"
-    ],
-    [
-      "I built a tiny daemon that reminds me what matters",
-      "https://news.ycombinator.com/item?id=46682975"
     ]
   ],
   [
