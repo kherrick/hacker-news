@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-24, 23:21:37",
+      "https://news.ycombinator.com/item?id=46748771"
+    ],
+    [
+      "Europe wants to end its dangerous reliance on US internet technology",
+      "https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 22:59:45",
       "https://news.ycombinator.com/item?id=46748603"
     ],
@@ -117,16 +127,6 @@
     [
       "Understanding Rust Closures",
       "https://antoine.vandecreme.net/blog/rust-closures/"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 18:24:32",
-      "https://news.ycombinator.com/item?id=46746096"
-    ],
-    [
-      "Hung by a thread",
-      "https://campedersen.com/rayon-mutex-deadlock"
     ]
   ],
   [
