@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-24, 14:35:47](https://news.ycombinator.com/item?id=46743908) - [Claude Code's new hidden feature: Swarms](https://twitter.com/NicerInPerson/status/2014989679796347375)
 * [2026-01-24, 14:31:58](https://news.ycombinator.com/item?id=46743867) - [Ask HN: May an Agent accepts a license to produce a build?](https://news.ycombinator.com/item?id=46743867)
-* [2026-01-24, 13:25:46](https://news.ycombinator.com/item?id=46743328) - [FOSS \"Just Fork It\" Delusion](https://hamishcampbell.com/foss-just-fork-it-delusion/)
-* [2026-01-24, 13:08:25](https://news.ycombinator.com/item?id=46743219) - [XHTML Club](https://xhtml.club/)
 * [2026-01-24, 12:55:22](https://news.ycombinator.com/item?id=46743154) - [MS confirms it will give the FBI your Windows PC data encryption key if asked](https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare)
 * [2026-01-24, 11:53:55](https://news.ycombinator.com/item?id=46742828) - [JVIC: New web-based Commodore VIC 20 emulator](https://vic20.games/#/basic/24k)
 * [2026-01-24, 11:15:15](https://news.ycombinator.com/item?id=46742635) - [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
@@ -27,6 +26,7 @@
 * [2026-01-20, 17:16:49](https://news.ycombinator.com/item?id=46694618) - [Internet Archive's Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
 * [2026-01-20, 12:28:13](https://news.ycombinator.com/item?id=46691108) - [When employees feel slighted, they work less](https://penntoday.upenn.edu/news/penn-wharton-when-employees-feel-slighted-they-work-less)
 * [2026-01-20, 09:08:22](https://news.ycombinator.com/item?id=46689631) - [Extracting verified C++ from the Rocq theorem prover at Bloomberg](https://bloomberg.github.io/crane/)
+* [2026-01-20, 08:34:44](https://news.ycombinator.com/item?id=46689342) - [6 Years Building Video Players. 9B Requests. Starting Over](https://www.mux.com/blog/6-years-building-video-players-9-billion-requests-starting-over)
 * [2026-01-20, 05:10:39](https://news.ycombinator.com/item?id=46688133) - [Management Time: Who's Got the Monkey? [pdf]](https://www.med.unc.edu/uncaims/wp-content/uploads/sites/764/2014/03/Oncken-_-Wass-Who_s-Got-the-Monkey.pdf)
 * [2026-01-19, 08:03:46](https://news.ycombinator.com/item?id=46676125) - [Some C habits I employ for the modern day](https://www.unix.dog/~yosh/blog/c-habits-for-me.html)
 * [2026-01-19, 07:53:17](https://news.ycombinator.com/item?id=46676061) - [Traintrackr – Live LED Maps](https://www.traintrackr.co.uk/)
