@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-24, 21:19:35",
+      "https://news.ycombinator.com/item?id=46747777"
+    ],
+    [
+      "The Writers Came at Night",
+      "https://www.metropolitanreview.org/p/the-writers-came-at-night"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 21:01:02",
       "https://news.ycombinator.com/item?id=46747625"
     ],
@@ -37,16 +47,6 @@
     [
       "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
       "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 19:53:31",
-      "https://news.ycombinator.com/item?id=46747022"
-    ],
-    [
-      "Why Does Destroying Resources via TF Suck?",
-      "https://newsletter.masterpoint.io/p/why-does-destroying-resources-via-tf-suck"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Understanding Rust Closures",
       "https://antoine.vandecreme.net/blog/rust-closures/"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 18:24:32",
-      "https://news.ycombinator.com/item?id=46746096"
-    ],
-    [
-      "Hung by a thread",
-      "https://campedersen.com/rayon-mutex-deadlock"
     ]
   ],
   [
@@ -261,22 +251,22 @@
   ],
   [
     [
+      "2026-01-21, 14:55:05",
+      "https://news.ycombinator.com/item?id=46706535"
+    ],
+    [
+      "Show HN: PicoFlow – a tiny DSL-style Python library for LLM agent workflows",
+      "https://news.ycombinator.com/item?id=46706535"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 13:03:07",
       "https://news.ycombinator.com/item?id=46705134"
     ],
     [
       "Microservices for the Benefits, Not the Hustle",
       "https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 17:16:49",
-      "https://news.ycombinator.com/item?id=46694618"
-    ],
-    [
-      "Internet Archive's Storage",
-      "https://blog.dshr.org/2026/01/internet-archives-storage.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "I built a tiny daemon that reminds me what matters",
       "https://news.ycombinator.com/item?id=46682975"
+    ]
+  ],
+  [
+    [
+      "2026-01-18, 19:35:14",
+      "https://news.ycombinator.com/item?id=46671323"
+    ],
+    [
+      "Show HN: Debugging consent and conversion tracking with a headless scan",
+      "https://consentcheck.online/"
     ]
   ]
 ]
