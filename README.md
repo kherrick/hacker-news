@@ -28,8 +28,8 @@
 * [2026-01-23, 20:07:49](https://news.ycombinator.com/item?id=46737202) - [Maze Algorithms (2017)](http://www.jamisbuck.org/mazes/)
 * [2026-01-21, 13:03:07](https://news.ycombinator.com/item?id=46705134) - [Microservices for the Benefits, Not the Hustle](https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3)
 * [2026-01-20, 17:16:49](https://news.ycombinator.com/item?id=46694618) - [Internet Archive's Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
-* [2026-01-20, 12:28:13](https://news.ycombinator.com/item?id=46691108) - [When employees feel slighted, they work less](https://penntoday.upenn.edu/news/penn-wharton-when-employees-feel-slighted-they-work-less)
 * [2026-01-20, 11:38:31](https://news.ycombinator.com/item?id=46690779) - [Small Kafka: Tansu and SQLite on a free t3.micro](https://blog.tansu.io/articles/broker-aws-free-tier)
+* [2026-01-19, 18:58:00](https://news.ycombinator.com/item?id=46682975) - [I built a tiny daemon that reminds me what matters](https://news.ycombinator.com/item?id=46682975)
 
 ## [Archives](archives/index.md)
 
