@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-24, 18:38:57",
-      "https://news.ycombinator.com/item?id=46746231"
+      "2026-01-24, 19:04:08",
+      "https://news.ycombinator.com/item?id=46746476"
     ],
     [
-      "Get-Shit-Done",
-      "https://github.com/glittercowboy/get-shit-done"
+      "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
+      "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp"
     ]
   ],
   [
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2026-01-24, 13:08:25",
+      "https://news.ycombinator.com/item?id=46743219"
+    ],
+    [
+      "XHTML Club",
+      "https://xhtml.club/"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 12:55:22",
       "https://news.ycombinator.com/item?id=46743154"
     ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=46742389"
     ],
     [
-      "How I Estimate Work as a Staff Software Engineer",
+      "How I estimate work",
       "https://www.seangoedecke.com/how-i-estimate-work/"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "Unrolling the Codex agent loop",
       "https://openai.com/index/unrolling-the-codex-agent-loop/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 20:27:58",
-      "https://news.ycombinator.com/item?id=46737447"
-    ],
-    [
-      "Banned C++ features in Chromium",
-      "https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-01-20, 11:38:31",
+      "https://news.ycombinator.com/item?id=46690779"
+    ],
+    [
+      "Small Kafka: Tansu and SQLite on a free t3.micro",
+      "https://blog.tansu.io/articles/broker-aws-free-tier"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 09:08:22",
       "https://news.ycombinator.com/item?id=46689631"
     ],
@@ -277,16 +287,6 @@
     [
       "C++26 Reflection loves QRangeModel",
       "https://www.qt.io/blog/c26-reflection-qrangemodel"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 08:03:46",
-      "https://news.ycombinator.com/item?id=46676125"
-    ],
-    [
-      "Some C habits I employ for the modern day",
-      "https://www.unix.dog/~yosh/blog/c-habits-for-me.html"
     ]
   ],
   [
