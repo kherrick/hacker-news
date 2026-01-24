@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-01-24](index.md)
 
 * [2026-01-24, 10:14:31](https://news.ycombinator.com/item?id=46742362) - [Doing Gigabit Ethernet over My British Phone Wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/)
+* [2026-01-24, 09:55:44](https://news.ycombinator.com/item?id=46742285) - [Show HN: I built a space travel calculator using Vanilla JavaScript](https://cosmic-odometer.vercel.app/)
 * [2026-01-24, 09:44:15](https://news.ycombinator.com/item?id=46742250) - [Repatriate the gold': German economists advise withdrawal from US vaults](https://www.theguardian.com/world/2026/jan/24/repatriate-the-gold-german-economists-advise-withdrawal-from-us-vaults)
+* [2026-01-24, 08:21:36](https://news.ycombinator.com/item?id=46741949) - [How Debt Bankrupted the British Empire, and Why America Is Walking the Same Path](https://nitishastra.substack.com/p/how-debt-bankrupted-the-british-empire)
 * [2026-01-24, 08:16:25](https://news.ycombinator.com/item?id=46741929) - [Modetc: Move your dotfiles from kernel space](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc)
 * [2026-01-24, 07:19:55](https://news.ycombinator.com/item?id=46741711) - [Eloquent: Improving Text Editing on Mobile (2021)](https://dl.acm.org/doi/10.1145/3474349.3480178)
 * [2026-01-24, 07:01:13](https://news.ycombinator.com/item?id=46741643) - [Telli (YC F24) is hiring ambitious people (eng, design, growth)[on-site, Berlin]](https://careers.telli.com/)
