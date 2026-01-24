@@ -6,7 +6,7 @@
 * [2026-01-24, 08:16:25](https://news.ycombinator.com/item?id=46741929) - [Modetc: Move your dotfiles from kernel space](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc)
 * [2026-01-24, 07:01:13](https://news.ycombinator.com/item?id=46741643) - [Telli (YC F24) is hiring eng, design, growth [on-site, Berlin]](https://careers.telli.com/)
 * [2026-01-24, 06:11:42](https://news.ycombinator.com/item?id=46741482) - [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
-* [2026-01-24, 03:20:51](https://news.ycombinator.com/item?id=46740748) - [\"People are going to stop and ask you, 'How can I help?' Let them.\"](https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow)
+* [2026-01-24, 03:20:51](https://news.ycombinator.com/item?id=46740748) - [“Let people help” – Advice that made a big difference to a grieving widow](https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow)
 * [2026-01-24, 01:00:50](https://news.ycombinator.com/item?id=46740029) - [Comma openpilot – Open source driver-assistance](https://comma.ai)
 * [2026-01-23, 22:28:01](https://news.ycombinator.com/item?id=46738853) - [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
 * [2026-01-23, 21:08:55](https://news.ycombinator.com/item?id=46737957) - [Mental Models (2018)](https://fs.blog/mental-models/)
@@ -26,10 +26,10 @@
 * [2026-01-20, 19:01:53](https://news.ycombinator.com/item?id=46696283) - [Show HN: Coi – A language that compiles to WASM, beats React/Vue](https://news.ycombinator.com/item?id=46696283)
 * [2026-01-20, 17:16:49](https://news.ycombinator.com/item?id=46694618) - [Internet Archive's Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
 * [2026-01-20, 09:08:22](https://news.ycombinator.com/item?id=46689631) - [Extracting verified C++ from the Rocq theorem prover at Bloomberg](https://bloomberg.github.io/crane/)
+* [2026-01-19, 15:00:07](https://news.ycombinator.com/item?id=46679737) - [The strange case of the underestimated Merge Join node](https://blog.dalibo.com/2026/01/12/under-estimated-mergejoin.html)
 * [2026-01-19, 08:03:46](https://news.ycombinator.com/item?id=46676125) - [Some C habits I employ for the modern day](https://www.unix.dog/~yosh/blog/c-habits-for-me.html)
 * [2026-01-19, 07:53:17](https://news.ycombinator.com/item?id=46676061) - [Traintrackr – Live LED Maps](https://www.traintrackr.co.uk/)
 * [2026-01-19, 02:37:49](https://news.ycombinator.com/item?id=46674482) - [Air traffic control: the IBM 9020](https://computer.rip/2026-01-17-air-traffic-control-9020.html)
-* [2026-01-18, 13:09:50](https://news.ycombinator.com/item?id=46667545) - [Gold fever, cold, and the true adventures of Jack London in the wild](https://www.smithsonianmag.com/history/gold-fever-deadly-cold-and-amazing-true-adventures-jack-london-wild-180973316/)
 
 ## [Archives](archives/index.md)
 
