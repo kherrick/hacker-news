@@ -13,6 +13,7 @@
 * [2026-01-23, 21:01:25](https://news.ycombinator.com/item?id=46737865) - [Neko: History of a Software Pet (2022)](https://eliotakira.com/neko/)
 * [2026-01-23, 20:42:36](https://news.ycombinator.com/item?id=46737630) - [Unrolling the Codex Agent Loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
 * [2026-01-23, 20:27:58](https://news.ycombinator.com/item?id=46737447) - [Banned C++ Features in Chromium](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md)
+* [2026-01-23, 20:07:49](https://news.ycombinator.com/item?id=46737202) - [Maze Algorithms (2017)](http://www.jamisbuck.org/mazes/)
 * [2026-01-23, 19:57:44](https://news.ycombinator.com/item?id=46737076) - [Certificate Transparency Log Explorer](https://certs.swerdlow.dev)
 * [2026-01-23, 19:50:03](https://news.ycombinator.com/item?id=46736978) - [Show HN: 83 browser-use trajectories, visualized](https://trails-red.vercel.app/viewer)
 * [2026-01-23, 19:31:44](https://news.ycombinator.com/item?id=46736734) - [Iran Govt Fakes Traffic to Mimic Internet Restoration](https://mastodon.social/@netblocks/115942585753525035)
