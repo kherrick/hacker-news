@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-24](index.md)
 
+* [2026-01-24, 20:33:40](https://news.ycombinator.com/item?id=46747366) - [I added a Bluesky comment section to my blog](https://micahcantor.com/blog/bluesky-comment-section.html)
+* [2026-01-24, 20:31:41](https://news.ycombinator.com/item?id=46747351) - [Show HN: JSciPy – SciPy-inspired signal processing library for Java and Android](https://github.com/hissain/jscipy)
 * [2026-01-24, 20:03:39](https://news.ycombinator.com/item?id=46747119) - [Postmortem: Our first VLEO satellite mission (with imagery and flight data)](https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next)
 * [2026-01-24, 19:59:05](https://news.ycombinator.com/item?id=46747078) - [Propositions about the New Romanticism](https://www.honest-broker.com/p/25-propositions-about-the-new-romanticism)
 * [2026-01-24, 19:53:31](https://news.ycombinator.com/item?id=46747022) - [Why Does Destroying Resources via TF Suck?](https://newsletter.masterpoint.io/p/why-does-destroying-resources-via-tf-suck)
