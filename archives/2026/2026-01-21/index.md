@@ -48,6 +48,7 @@
 * [2026-01-21, 16:14:39](https://news.ycombinator.com/item?id=46707699) - [Bending Spoons laid off almost everybody at Vimeo yesterday](https://news.ycombinator.com/item?id=46707699)
 * [2026-01-21, 16:04:49](https://news.ycombinator.com/item?id=46707572) - [Claude's New Constitution](https://www.anthropic.com/news/claude-new-constitution)
 * [2026-01-21, 15:52:15](https://news.ycombinator.com/item?id=46707409) - [Show HN: SpeechOS – Wispr Flow-inspired voice input for any web app](https://www.speechos.ai/)
+* [2026-01-21, 15:34:16](https://news.ycombinator.com/item?id=46707117) - [I built an in-memory rate limiter in a Next.js project](https://www.freecodecamp.org/news/how-to-build-an-in-memory-rate-limiter-in-nextjs/)
 * [2026-01-21, 15:23:18](https://news.ycombinator.com/item?id=46706947) - [SmartOS](https://docs.smartos.org/)
 * [2026-01-21, 15:20:53](https://news.ycombinator.com/item?id=46706906) - [Skip Is Now Free and Open Source](https://skip.dev/blog/skip-is-free/)
 * [2026-01-21, 15:13:29](https://news.ycombinator.com/item?id=46706796) - [Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets](https://github.com/borenstein/yolo-cage)

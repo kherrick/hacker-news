@@ -55,6 +55,7 @@
 * [2026-01-19, 15:15:41](https://news.ycombinator.com/item?id=46679907) - [CSS Web Components for marketing sites](https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/)
 * [2026-01-19, 15:14:44](https://news.ycombinator.com/item?id=46679896) - [\"Anyone else out there vibe circuit-building?\"](https://twitter.com/beneater/status/2012988790709928305)
 * [2026-01-19, 15:12:12](https://news.ycombinator.com/item?id=46679872) - [GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)
+* [2026-01-19, 15:06:51](https://news.ycombinator.com/item?id=46679802) - [Losing 1½ Million Lines of Go](https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties)
 * [2026-01-19, 14:54:02](https://news.ycombinator.com/item?id=46679657) - [West Midlands police chief quits over AI hallucination](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
 * [2026-01-19, 14:19:34](https://news.ycombinator.com/item?id=46679230) - [Sweden deploys fighter jets to Iceland](https://www.sverigesradio.se/artikel/sverige-skickar-stridsflyg-till-island)
 * [2026-01-19, 13:12:42](https://news.ycombinator.com/item?id=46678612) - [Fire Shuts GTA 6 Developer Rockstar North, Following Report of Explosion](https://www.ign.com/articles/fire-shuts-gta-6-developer-rockstar-north-following-report-of-explosion)
