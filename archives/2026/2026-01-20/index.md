@@ -66,6 +66,7 @@
 * [2026-01-20, 10:35:47](https://news.ycombinator.com/item?id=46690330) - [UK consulting on bringing in social media ban for under 16s](https://www.bbc.com/news/articles/cgm4xpyxp7lo)
 * [2026-01-20, 10:30:46](https://news.ycombinator.com/item?id=46690295) - [String Theory Can Now Describe a Universe That Has Dark Energy](https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/)
 * [2026-01-20, 10:02:17](https://news.ycombinator.com/item?id=46690092) - [Kiss Launcher – fast launcher for Android](https://kisslauncher.com/)
+* [2026-01-20, 09:33:45](https://news.ycombinator.com/item?id=46689834) - [Workspaces and Monorepos in Package Managers](https://nesbitt.io/2026/01/18/workspaces-and-monorepos-in-package-managers.html)
 * [2026-01-20, 08:16:07](https://news.ycombinator.com/item?id=46689204) - [Kraków, Poland in top 5 worst air quality worldwide](https://www.iqair.com/world-air-quality-ranking)
 * [2026-01-20, 08:05:39](https://news.ycombinator.com/item?id=46689143) - [America Is Slow-Walking into a Polymarket Disaster](https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/)
 * [2026-01-20, 07:51:12](https://news.ycombinator.com/item?id=46689065) - [Linux kernel framework for PCIe device emulation, in userspace](https://github.com/cakehonolulu/pciem)

@@ -38,6 +38,7 @@
 * [2026-01-19, 18:15:48](https://news.ycombinator.com/item?id=46682518) - [Notes on Apple's Nano Texture](https://jon.bo/posts/nano-texture/)
 * [2026-01-19, 18:00:34](https://news.ycombinator.com/item?id=46682325) - [A Brief History of Ralph](https://www.humanlayer.dev/blog/brief-history-of-ralph)
 * [2026-01-19, 17:47:38](https://news.ycombinator.com/item?id=46682115) - [Show HN: An interactive physics simulator with 1000's of balls, in your terminal](https://github.com/minimaxir/ballin)
+* [2026-01-19, 17:42:04](https://news.ycombinator.com/item?id=46682011) - [The SIM-to-real problem isn't about simulators – it's about behavior robustness](https://medium.com/@freefabian/introducing-the-concept-of-kinematic-fingerprints-8e9bb332cc85)
 * [2026-01-19, 17:13:59](https://news.ycombinator.com/item?id=46681611) - [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/)
 * [2026-01-19, 17:12:19](https://news.ycombinator.com/item?id=46681587) - [Raccoons break into liquor stores, scale skyscrapers and pick locks](https://theconversation.com/raccoons-break-into-liquor-stores-scale-skyscrapers-and-pick-locks-studying-their-clever-brains-can-clarify-human-intelligence-too-272487)
 * [2026-01-19, 17:03:38](https://news.ycombinator.com/item?id=46681454) - [Fix Your Robots.txt or Your Site Disappears from Google](https://www.alanwsmith.com/en/37/wa/jz/s1/)
