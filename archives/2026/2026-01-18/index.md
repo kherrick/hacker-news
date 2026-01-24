@@ -43,6 +43,7 @@
 * [2026-01-18, 16:27:42](https://news.ycombinator.com/item?id=46669120) - [Captive Wi-Fi](https://en.wikipedia.org/wiki/Captive_portal)
 * [2026-01-18, 16:17:39](https://news.ycombinator.com/item?id=46669025) - [Statement by Denmark, Finland, France, Germany, the Netherlands,Norway,Sweden,UK](https://www.presidentti.fi/statement-by-denmark-finland-france-germany-the-netherlands-norway-sweden-and-the-united-kingdom-englanniksi/)
 * [2026-01-18, 16:16:11](https://news.ycombinator.com/item?id=46669001) - [Keeping 20k GPUs Healthy](https://modal.com/blog/gpu-health)
+* [2026-01-18, 16:00:24](https://news.ycombinator.com/item?id=46668841) - [Show HN: Show HN: I built a fail-closed watchdog for ESP32/Arduino in C++](https://github.com/weareqrystal/qrystal_uplink_sdks)
 * [2026-01-18, 15:55:26](https://news.ycombinator.com/item?id=46668801) - [Purdue blocks admission of many Chinese grad students in unwritten policy](https://www.science.org/content/article/purdue-blocks-admission-many-chinese-grad-students-unwritten-policy)
 * [2026-01-18, 15:52:05](https://news.ycombinator.com/item?id=46668780) - [Show HN: Open-source certificate from GitHub activity](https://certificate.brendonmatos.com)
 * [2026-01-18, 15:09:37](https://news.ycombinator.com/item?id=46668394) - [Why the Tech World Thinks the American Dream Is Dying](https://www.wsj.com/tech/ai/why-the-tech-world-thinks-the-american-dream-is-dying-daf793dc)

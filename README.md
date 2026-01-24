@@ -12,8 +12,8 @@
 * [2026-01-24, 19:08:04](https://news.ycombinator.com/item?id=46746517) - [The Concatative Language XY](http://www.nsl.com/k/xy/xy.txt)
 * [2026-01-24, 19:04:08](https://news.ycombinator.com/item?id=46746476) - [BirdyChat becomes first European chat app that is interoperable with WhatsApp](https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp)
 * [2026-01-24, 18:42:13](https://news.ycombinator.com/item?id=46746266) - [Understanding Rust Closures](https://antoine.vandecreme.net/blog/rust-closures/)
+* [2026-01-24, 18:24:32](https://news.ycombinator.com/item?id=46746096) - [Hung by a thread](https://campedersen.com/rayon-mutex-deadlock)
 * [2026-01-24, 18:06:00](https://news.ycombinator.com/item?id=46745922) - [Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison](https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/)
-* [2026-01-24, 17:03:24](https://news.ycombinator.com/item?id=46745259) - [December in Servo: multiple windows, proxy support, better caching, and more](https://servo.org/blog/2026/01/23/december-in-servo/)
 * [2026-01-24, 17:01:31](https://news.ycombinator.com/item?id=46745233) - [Tao Te Ching – Translated by Ursula K. Le Guin](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
 * [2026-01-24, 16:16:02](https://news.ycombinator.com/item?id=46744807) - [Ask HN: Gmail spam filtering suddenly marking everything as spam?](https://news.ycombinator.com/item?id=46744807)
 * [2026-01-24, 15:57:45](https://news.ycombinator.com/item?id=46744647) - [Memory layout in Zig with formulas](https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html)
@@ -29,7 +29,7 @@
 * [2026-01-21, 13:03:07](https://news.ycombinator.com/item?id=46705134) - [Microservices for the Benefits, Not the Hustle (2023)](https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3)
 * [2026-01-20, 11:38:31](https://news.ycombinator.com/item?id=46690779) - [Small Kafka: Tansu and SQLite on a free t3.micro](https://blog.tansu.io/articles/broker-aws-free-tier)
 * [2026-01-20, 06:19:04](https://news.ycombinator.com/item?id=46688521) - [KAOS – The Kubernetes Agent Orchestration System](https://github.com/axsaucedo/kaos)
-* [2026-01-18, 19:35:14](https://news.ycombinator.com/item?id=46671323) - [Show HN: Debugging consent and conversion tracking with a headless scan](https://consentcheck.online/)
+* [2026-01-18, 16:00:24](https://news.ycombinator.com/item?id=46668841) - [Show HN: Show HN: I built a fail-closed watchdog for ESP32/Arduino in C++](https://github.com/weareqrystal/qrystal_uplink_sdks)
 
 ## [Archives](archives/index.md)
 
