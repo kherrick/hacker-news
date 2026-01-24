@@ -26,9 +26,9 @@
 * [2026-01-24, 06:09:30](https://news.ycombinator.com/item?id=46741472) - [Show HN: Open-source Figma design to code](https://github.com/vibeflowing-inc/vibe_figma)
 * [2026-01-24, 03:12:13](https://news.ycombinator.com/item?id=46740705) - [Language may rely less on complex grammar than previously thought: study](https://scitechdaily.com/have-we-been-wrong-about-language-for-70-years-new-study-challenges-long-held-theory/)
 * [2026-01-23, 20:07:49](https://news.ycombinator.com/item?id=46737202) - [Maze Algorithms (2017)](http://www.jamisbuck.org/mazes/)
-* [2026-01-21, 14:55:05](https://news.ycombinator.com/item?id=46706535) - [Show HN: PicoFlow – a tiny DSL-style Python library for LLM agent workflows](https://news.ycombinator.com/item?id=46706535)
 * [2026-01-21, 13:03:07](https://news.ycombinator.com/item?id=46705134) - [Microservices for the Benefits, Not the Hustle (2023)](https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3)
 * [2026-01-20, 11:38:31](https://news.ycombinator.com/item?id=46690779) - [Small Kafka: Tansu and SQLite on a free t3.micro](https://blog.tansu.io/articles/broker-aws-free-tier)
+* [2026-01-20, 06:19:04](https://news.ycombinator.com/item?id=46688521) - [KAOS – The Kubernetes Agent Orchestration System](https://github.com/axsaucedo/kaos)
 * [2026-01-18, 19:35:14](https://news.ycombinator.com/item?id=46671323) - [Show HN: Debugging consent and conversion tracking with a headless scan](https://consentcheck.online/)
 
 ## [Archives](archives/index.md)

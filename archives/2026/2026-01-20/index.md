@@ -78,6 +78,7 @@
 * [2026-01-20, 07:51:12](https://news.ycombinator.com/item?id=46689065) - [Linux kernel framework for PCIe device emulation, in userspace](https://github.com/cakehonolulu/pciem)
 * [2026-01-20, 07:35:09](https://news.ycombinator.com/item?id=46688971) - [The Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
 * [2026-01-20, 07:32:58](https://news.ycombinator.com/item?id=46688954) - [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
+* [2026-01-20, 06:19:04](https://news.ycombinator.com/item?id=46688521) - [KAOS – The Kubernetes Agent Orchestration System](https://github.com/axsaucedo/kaos)
 * [2026-01-20, 05:27:12](https://news.ycombinator.com/item?id=46688229) - [Becoming a Whorelord: The Overly Analytical Guide to Escorting (2021)](https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/)
 * [2026-01-20, 05:19:53](https://news.ycombinator.com/item?id=46688191) - [C++26 Reflection loves QRangeModel](https://www.qt.io/blog/c26-reflection-qrangemodel)
 * [2026-01-20, 05:16:14](https://news.ycombinator.com/item?id=46688173) - [X For You Feed Algorithm](https://github.com/xai-org/x-algorithm)
