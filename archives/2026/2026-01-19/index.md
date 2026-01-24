@@ -68,6 +68,7 @@
 * [2026-01-19, 11:04:47](https://news.ycombinator.com/item?id=46677583) - [Turso is an in-process SQL database, compatible with SQLite](https://github.com/tursodatabase/turso)
 * [2026-01-19, 11:00:31](https://news.ycombinator.com/item?id=46677549) - [Show HN: Kacet – a freelancer marketplace with crypto-native payments](https://kacet.com/)
 * [2026-01-19, 10:46:54](https://news.ycombinator.com/item?id=46677436) - [Nuclear elements detected in West Philippine Sea](https://www.philstar.com/headlines/2026/01/18/2501750/nuclear-elements-detected-west-philippine-sea)
+* [2026-01-19, 10:21:19](https://news.ycombinator.com/item?id=46677221) - [Unveiling Firestore Pipeline operations – Firestore's powerful new query engine](https://firebase.blog/posts/2026/01/firestore-enterprise-pipeline-operations)
 * [2026-01-19, 10:20:39](https://news.ycombinator.com/item?id=46677212) - [RISC-V is coming along quite speedily: Milk-V Titan Mini-ITX 8-core board](https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-kit-that-you-can-use-out-of-the-box)
 * [2026-01-19, 10:09:38](https://news.ycombinator.com/item?id=46677106) - [Wikipedia: WikiProject AI Cleanup](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
 * [2026-01-19, 09:45:55](https://news.ycombinator.com/item?id=46676919) - [TPM on Embedded Systems: Pitfalls and Caveats to Watch Out For](https://sigma-star.at/blog/2026/01/tpm-on-embedded-systems-pitfalls-and-caveats/)
