@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=46741643"
     ],
     [
-      "Telli (YC F24) is hiring ambitious people (eng, design, growth)[on-site, Berlin]",
+      "Telli (YC F24) is hiring eng, design, growth [on-site, Berlin]",
       "https://careers.telli.com/"
     ]
   ],
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2026-01-23, 17:29:53",
-      "https://news.ycombinator.com/item?id=46735179"
-    ],
-    [
-      "Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG",
-      "https://markgascoyne.co.uk/posts/ebpf-bng/"
-    ]
-  ],
-  [
-    [
       "2026-01-23, 17:26:57",
       "https://news.ycombinator.com/item?id=46735139"
     ],
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=46729368"
     ],
     [
-      "Proton Spam and the AI Consent Problem",
+      "Proton spam and the AI consent problem",
       "https://dbushell.com/2026/01/22/proton-spam/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Gold fever, cold, and the true adventures of Jack London in the wild",
       "https://www.smithsonianmag.com/history/gold-fever-deadly-cold-and-amazing-true-adventures-jack-london-wild-180973316/"
+    ]
+  ],
+  [
+    [
+      "2026-01-18, 12:45:11",
+      "https://news.ycombinator.com/item?id=46667397"
+    ],
+    [
+      "Kotlin's rich errors: Native, typed errors without exceptions",
+      "https://cekrem.github.io/posts/kotlin-rich-errors-elm-union-types/"
     ]
   ]
 ]
