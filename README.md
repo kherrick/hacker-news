@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-24, 07:01:13](https://news.ycombinator.com/item?id=46741643) - [Telli (YC F24) is hiring ambitious people (eng, design, growth)[on-site, Berlin]](https://careers.telli.com/)
+* [2026-01-24, 07:01:13](https://news.ycombinator.com/item?id=46741643) - [Telli (YC F24) is hiring eng, design, growth [on-site, Berlin]](https://careers.telli.com/)
 * [2026-01-24, 02:59:42](https://news.ycombinator.com/item?id=46740644) - [SEC obtains final consent judgments against former FTX and Alameda executives](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)
 * [2026-01-24, 01:00:50](https://news.ycombinator.com/item?id=46740029) - [Comma openpilot – Open source driver-assistance](https://comma.ai)
 * [2026-01-23, 22:28:01](https://news.ycombinator.com/item?id=46738853) - [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
@@ -11,7 +11,6 @@
 * [2026-01-23, 17:58:56](https://news.ycombinator.com/item?id=46735545) - [Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)
 * [2026-01-23, 17:56:31](https://news.ycombinator.com/item?id=46735511) - [Proof of Corn](https://proofofcorn.com/)
 * [2026-01-23, 17:54:45](https://news.ycombinator.com/item?id=46735489) - [Route leak incident on January 22, 2026](https://blog.cloudflare.com/route-leak-incident-january-22-2026/)
-* [2026-01-23, 17:29:53](https://news.ycombinator.com/item?id=46735179) - [Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG](https://markgascoyne.co.uk/posts/ebpf-bng/)
 * [2026-01-23, 17:26:57](https://news.ycombinator.com/item?id=46735139) - [Nobody likes lag: How to make low-latency dev sandboxes](https://www.compyle.ai/blog/nobody-likes-lag/)
 * [2026-01-23, 16:19:18](https://news.ycombinator.com/item?id=46734302) - [Gas Town's agent patterns, design bottlenecks, and vibecoding at scale](https://maggieappleton.com/gastown)
 * [2026-01-23, 15:26:33](https://news.ycombinator.com/item?id=46733624) - [The tech monoculture is finally breaking](http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/)
@@ -20,7 +19,7 @@
 * [2026-01-23, 11:54:53](https://news.ycombinator.com/item?id=46731432) - [Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go](https://github.com/ramonvermeulen/whosthere)
 * [2026-01-23, 11:04:18](https://news.ycombinator.com/item?id=46731068) - [Ask HN: What's the current best local/open speech-to-speech setup?](https://news.ycombinator.com/item?id=46731068)
 * [2026-01-23, 10:39:09](https://news.ycombinator.com/item?id=46730885) - [Booting from a vinyl record (2020)](https://boginjr.com/it/sw/dev/vinyl-boot/)
-* [2026-01-23, 07:01:29](https://news.ycombinator.com/item?id=46729368) - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
+* [2026-01-23, 07:01:29](https://news.ycombinator.com/item?id=46729368) - [Proton spam and the AI consent problem](https://dbushell.com/2026/01/22/proton-spam/)
 * [2026-01-22, 16:31:47](https://news.ycombinator.com/item?id=46721488) - [Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)](https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video)
 * [2026-01-20, 17:16:49](https://news.ycombinator.com/item?id=46694618) - [Internet Archive's Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
 * [2026-01-20, 09:08:22](https://news.ycombinator.com/item?id=46689631) - [Extracting verified C++ from the Rocq theorem prover at Bloomberg](https://bloomberg.github.io/crane/)
@@ -30,6 +29,7 @@
 * [2026-01-19, 07:53:17](https://news.ycombinator.com/item?id=46676061) - [Traintrackr – Live LED Maps](https://www.traintrackr.co.uk/)
 * [2026-01-19, 02:37:49](https://news.ycombinator.com/item?id=46674482) - [Air traffic control: the IBM 9020](https://computer.rip/2026-01-17-air-traffic-control-9020.html)
 * [2026-01-18, 13:09:50](https://news.ycombinator.com/item?id=46667545) - [Gold fever, cold, and the true adventures of Jack London in the wild](https://www.smithsonianmag.com/history/gold-fever-deadly-cold-and-amazing-true-adventures-jack-london-wild-180973316/)
+* [2026-01-18, 12:45:11](https://news.ycombinator.com/item?id=46667397) - [Kotlin's rich errors: Native, typed errors without exceptions](https://cekrem.github.io/posts/kotlin-rich-errors-elm-union-types/)
 
 ## [Archives](archives/index.md)
 
