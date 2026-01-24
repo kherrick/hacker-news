@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2026-01-24, 02:55:27",
-      "https://news.ycombinator.com/item?id=46740621"
-    ],
-    [
-      "Everybody's at each other's throats': James Cameron left the US permanently",
-      "https://www.theguardian.com/film/2026/jan/23/james-cameron-left-the-us-permanently-covid-new-zealand"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 01:41:45",
-      "https://news.ycombinator.com/item?id=46740280"
-    ],
-    [
-      "The Internet Doesn't Suck: Blame Big Tech, Not the Internet",
-      "https://riverseeber.net/blog/post/the-internet-doesnt-suck/"
-    ]
-  ],
-  [
-    [
       "2026-01-24, 01:00:50",
       "https://news.ycombinator.com/item?id=46740029"
     ],
@@ -141,6 +121,16 @@
   ],
   [
     [
+      "2026-01-23, 17:29:53",
+      "https://news.ycombinator.com/item?id=46735179"
+    ],
+    [
+      "Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG",
+      "https://markgascoyne.co.uk/posts/ebpf-bng/"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 17:26:57",
       "https://news.ycombinator.com/item?id=46735139"
     ],
@@ -177,6 +167,16 @@
     [
       "The tech monoculture is finally breaking",
       "http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 15:03:01",
+      "https://news.ycombinator.com/item?id=46733301"
+    ],
+    [
+      "Waypoint-1: Real-Time Interactive Video Diffusion from Overworld",
+      "https://huggingface.co/blog/waypoint-1"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-01-21, 15:34:16",
-      "https://news.ycombinator.com/item?id=46707117"
+      "2026-01-20, 17:16:49",
+      "https://news.ycombinator.com/item?id=46694618"
     ],
     [
-      "I built an in-memory rate limiter in a Next.js project",
-      "https://www.freecodecamp.org/news/how-to-build-an-in-memory-rate-limiter-in-nextjs/"
+      "Internet Archive's Storage",
+      "https://blog.dshr.org/2026/01/internet-archives-storage.html"
     ]
   ],
   [
