@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-24, 11:15:15",
+      "https://news.ycombinator.com/item?id=46742635"
+    ],
+    [
+      "Many Small Queries Are Efficient in SQLite",
+      "https://www.sqlite.org/np1queryprob.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 10:32:26",
+      "https://news.ycombinator.com/item?id=46742432"
+    ],
+    [
+      "I Like GitLab",
+      "https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 10:14:31",
       "https://news.ycombinator.com/item?id=46742362"
     ],
@@ -67,16 +87,6 @@
     [
       "Comma openpilot – Open source driver-assistance",
       "https://comma.ai"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 22:28:01",
-      "https://news.ycombinator.com/item?id=46738853"
-    ],
-    [
-      "Wilson Lin on FastRender: a browser built by parallel agents",
-      "https://simonwillison.net/2026/Jan/23/fastrender/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "KORG phase8 – Acoustic Synthesizer",
       "https://www.korg.com/us/products/dj/phase8/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 11:54:53",
-      "https://news.ycombinator.com/item?id=46731432"
-    ],
-    [
-      "Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go",
-      "https://github.com/ramonvermeulen/whosthere"
     ]
   ],
   [
