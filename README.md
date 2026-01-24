@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-24, 23:21:37](https://news.ycombinator.com/item?id=46748771) - [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
 * [2026-01-24, 22:59:45](https://news.ycombinator.com/item?id=46748603) - [Amazon braces for another major round of layoffs, 14,000 jobs at risk](https://mynorthwest.com/local/amazon-layoffs-14000-jobs-at-risk/4192118)
 * [2026-01-24, 21:24:13](https://news.ycombinator.com/item?id=46747827) - [Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/)
 * [2026-01-24, 21:19:35](https://news.ycombinator.com/item?id=46747777) - [The Writers Came at Night](https://www.metropolitanreview.org/p/the-writers-came-at-night)
@@ -12,7 +13,6 @@
 * [2026-01-24, 19:08:04](https://news.ycombinator.com/item?id=46746517) - [The Concatative Language XY](http://www.nsl.com/k/xy/xy.txt)
 * [2026-01-24, 19:04:08](https://news.ycombinator.com/item?id=46746476) - [BirdyChat becomes first European chat app that is interoperable with WhatsApp](https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp)
 * [2026-01-24, 18:42:13](https://news.ycombinator.com/item?id=46746266) - [Understanding Rust Closures](https://antoine.vandecreme.net/blog/rust-closures/)
-* [2026-01-24, 18:24:32](https://news.ycombinator.com/item?id=46746096) - [Hung by a thread](https://campedersen.com/rayon-mutex-deadlock)
 * [2026-01-24, 18:06:00](https://news.ycombinator.com/item?id=46745922) - [Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison](https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/)
 * [2026-01-24, 17:01:31](https://news.ycombinator.com/item?id=46745233) - [Tao Te Ching – Translated by Ursula K. Le Guin](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
 * [2026-01-24, 16:16:02](https://news.ycombinator.com/item?id=46744807) - [Ask HN: Gmail spam filtering suddenly marking everything as spam?](https://news.ycombinator.com/item?id=46744807)

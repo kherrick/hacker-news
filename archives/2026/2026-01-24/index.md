@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-24](index.md)
 
+* [2026-01-24, 23:21:37](https://news.ycombinator.com/item?id=46748771) - [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
 * [2026-01-24, 22:59:45](https://news.ycombinator.com/item?id=46748603) - [Amazon braces for another major round of layoffs, 14,000 jobs at risk](https://mynorthwest.com/local/amazon-layoffs-14000-jobs-at-risk/4192118)
 * [2026-01-24, 22:23:49](https://news.ycombinator.com/item?id=46748336) - [ICE Releases RFI for User Tracking Tools](https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/)
 * [2026-01-24, 21:24:13](https://news.ycombinator.com/item?id=46747827) - [Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/)
