@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=46740644"
     ],
     [
-      "Caroline Ellison Former Alameda CEO Released from Prison After 440 Days",
+      "SEC obtains final consent judgments against former FTX and Alameda executives",
       "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450"
     ]
   ],
@@ -67,16 +67,6 @@
     [
       "Banned C++ features in Chromium",
       "https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 19:57:44",
-      "https://news.ycombinator.com/item?id=46737076"
-    ],
-    [
-      "Certificate Transparency Log Explorer",
-      "https://certs.swerdlow.dev"
     ]
   ],
   [
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2026-01-22, 16:31:47",
+      "https://news.ycombinator.com/item?id=46721488"
+    ],
+    [
+      "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
+      "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 17:16:49",
       "https://news.ycombinator.com/item?id=46694618"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-01-20, 09:33:45",
-      "https://news.ycombinator.com/item?id=46689834"
+      "2026-01-20, 09:08:22",
+      "https://news.ycombinator.com/item?id=46689631"
     ],
     [
-      "Workspaces and Monorepos in Package Managers",
-      "https://nesbitt.io/2026/01/18/workspaces-and-monorepos-in-package-managers.html"
+      "Extracting verified C++ from the Rocq theorem prover at Bloomberg",
+      "https://bloomberg.github.io/crane/"
     ]
   ],
   [
