@@ -46,6 +46,7 @@
 * [2026-01-20, 17:08:43](https://news.ycombinator.com/item?id=46694482) - ['The old order is not coming back,' Carney says in speech at Davos](https://www.cbc.ca/news/politics/carney-davos-speech-9.7052725)
 * [2026-01-20, 17:02:25](https://news.ycombinator.com/item?id=46694378) - [Meta's Legal Team Abandoned Its Ethical Duties](https://www.afterbabel.com/p/how-metas-lawyers-perfected-the-playbook)
 * [2026-01-20, 16:48:59](https://news.ycombinator.com/item?id=46694124) - [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
+* [2026-01-20, 16:40:36](https://news.ycombinator.com/item?id=46693985) - [Ask HN: How do you keep system context from rotting over time?](https://news.ycombinator.com/item?id=46693985)
 * [2026-01-20, 16:38:56](https://news.ycombinator.com/item?id=46693959) - [Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs](https://github.com/mastra-ai/mastra)
 * [2026-01-20, 16:31:51](https://news.ycombinator.com/item?id=46693828) - [The Startup Graveyard](https://www.loot-drop.io/)
 * [2026-01-20, 16:25:33](https://news.ycombinator.com/item?id=46693728) - [Cloudflare zero-day: Accessing any host globally](https://fearsoff.org/research/cloudflare-acme)
