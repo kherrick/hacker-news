@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-25, 00:33:46",
+      "https://news.ycombinator.com/item?id=46749319"
+    ],
+    [
+      "Tesla unsupervised Robotaxis are nowhere to be found",
+      "https://lightbrd.com/ZacksJerryRig/status/2015119993428705575#m"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 00:14:40",
+      "https://news.ycombinator.com/item?id=46749198"
+    ],
+    [
+      "Adoption of EVs tied to real-world reductions in air pollution: study",
+      "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 23:55:10",
+      "https://news.ycombinator.com/item?id=46749053"
+    ],
+    [
+      "We X-Rayed a Suspicious FTDI USB Cable",
+      "https://eclypsium.com/blog/xray-counterfeit-usb-cable/"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 23:21:37",
       "https://news.ycombinator.com/item?id=46748771"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2026-01-24, 22:59:45",
-      "https://news.ycombinator.com/item?id=46748603"
+      "2026-01-24, 21:49:01",
+      "https://news.ycombinator.com/item?id=46748077"
     ],
     [
-      "Amazon braces for another major round of layoffs, 14,000 jobs at risk",
-      "https://mynorthwest.com/local/amazon-layoffs-14000-jobs-at-risk/4192118"
+      "I don't write code anymore – I sculpt it",
+      "https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Poland's energy grid was targeted by never-before-seen wiper malware",
       "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 21:19:35",
-      "https://news.ycombinator.com/item?id=46747777"
-    ],
-    [
-      "The Writers Came at Night",
-      "https://www.metropolitanreview.org/p/the-writers-came-at-night"
     ]
   ],
   [
@@ -231,26 +251,6 @@
   ],
   [
     [
-      "2026-01-24, 06:09:30",
-      "https://news.ycombinator.com/item?id=46741472"
-    ],
-    [
-      "Show HN: Open-source Figma design to code",
-      "https://github.com/vibeflowing-inc/vibe_figma"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 03:12:13",
-      "https://news.ycombinator.com/item?id=46740705"
-    ],
-    [
-      "Language may rely less on complex grammar than previously thought: study",
-      "https://scitechdaily.com/have-we-been-wrong-about-language-for-70-years-new-study-challenges-long-held-theory/"
-    ]
-  ],
-  [
-    [
       "2026-01-23, 20:07:49",
       "https://news.ycombinator.com/item?id=46737202"
     ],
@@ -261,12 +261,22 @@
   ],
   [
     [
-      "2026-01-21, 13:03:07",
-      "https://news.ycombinator.com/item?id=46705134"
+      "2026-01-21, 02:17:36",
+      "https://news.ycombinator.com/item?id=46700384"
     ],
     [
-      "Microservices for the Benefits, Not the Hustle (2023)",
-      "https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3"
+      "High-bandwidth flash progress and future",
+      "https://blocksandfiles.com/2026/01/19/a-window-into-hbf-progress/"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 21:18:26",
+      "https://news.ycombinator.com/item?id=46697876"
+    ],
+    [
+      "Typography on Pencils (2023)",
+      "https://www.presentandcorrect.com/blogs/blog/typography-on-pencils-1-5"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "KAOS – The Kubernetes Agent Orchestration System",
       "https://github.com/axsaucedo/kaos"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 16:00:24",
-      "https://news.ycombinator.com/item?id=46668841"
-    ],
-    [
-      "Show HN: Show HN: I built a fail-closed watchdog for ESP32/Arduino in C++",
-      "https://github.com/weareqrystal/qrystal_uplink_sdks"
     ]
   ]
 ]
