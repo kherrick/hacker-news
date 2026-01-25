@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-25](index.md)
 
+* [2026-01-25, 21:44:10](https://news.ycombinator.com/item?id=46758644) - [LED lighting undermines visual performance unless supplemented by wider spectra](https://www.nature.com/articles/s41598-026-35389-6)
 * [2026-01-25, 21:07:41](https://news.ycombinator.com/item?id=46758242) - [Canada](https://www.jenn.site/on-canada/)
 * [2026-01-25, 21:01:37](https://news.ycombinator.com/item?id=46758175) - [AI Tribalism](https://nolanlawson.com/2026/01/24/ai-tribalism/)
 * [2026-01-25, 20:39:25](https://news.ycombinator.com/item?id=46757944) - [OnePlus update blocks downgrades and custom ROMs by blowing a fuse](https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback)

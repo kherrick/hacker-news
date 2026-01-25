@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-25, 21:44:10](https://news.ycombinator.com/item?id=46758644) - [LED lighting undermines visual performance unless supplemented by wider spectra](https://www.nature.com/articles/s41598-026-35389-6)
 * [2026-01-25, 21:07:41](https://news.ycombinator.com/item?id=46758242) - [Canada](https://www.jenn.site/on-canada/)
 * [2026-01-25, 21:01:37](https://news.ycombinator.com/item?id=46758175) - [AI Tribalism](https://nolanlawson.com/2026/01/24/ai-tribalism/)
 * [2026-01-25, 20:39:25](https://news.ycombinator.com/item?id=46757944) - [OnePlus update blocks downgrades and custom ROMs by blowing a fuse](https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback)
@@ -22,7 +23,6 @@
 * [2026-01-25, 08:22:17](https://news.ycombinator.com/item?id=46751899) - [Deutsche Telekom is throttling the internet](https://netzbremse.de/en/)
 * [2026-01-25, 08:07:03](https://news.ycombinator.com/item?id=46751826) - [Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/)
 * [2026-01-21, 19:58:59](https://news.ycombinator.com/item?id=46710747) - [ANN v3: 200ms p99 query latency over 100B vectors](https://turbopuffer.com/blog/ann-v3)
-* [2026-01-21, 00:35:01](https://news.ycombinator.com/item?id=46699697) - [A Lament for Aperture](https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/)
 * [2026-01-20, 18:05:03](https://news.ycombinator.com/item?id=46695467) - [Show HN: Fence – Sandbox CLI commands with network/filesystem restrictions](https://github.com/Use-Tusk/fence)
 * [2026-01-20, 16:10:01](https://news.ycombinator.com/item?id=46693460) - [I built a 2x faster lexer, then discovered I/O was the real bottleneck](https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/)
 * [2026-01-20, 12:33:32](https://news.ycombinator.com/item?id=46691152) - [Publishing on the ATmosphere](https://tynanistyping.offprint.app/a/3mcsvjjceei23-publishing-on-the-atmosphere)
