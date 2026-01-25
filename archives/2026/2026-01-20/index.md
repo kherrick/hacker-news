@@ -22,6 +22,7 @@
 * [2026-01-20, 20:05:57](https://news.ycombinator.com/item?id=46697075) - [Google Meet Reactions: Reverse Engineering the WebRTC Channel for Emoji](https://www.agilesoftwaredevelopment.com/en/posts/google-meet-reactions-webrtc/)
 * [2026-01-20, 19:34:48](https://news.ycombinator.com/item?id=46696699) - [OpenAI is rolling out age prediction](https://openai.com/index/our-approach-to-age-prediction/)
 * [2026-01-20, 19:32:49](https://news.ycombinator.com/item?id=46696683) - [The secret medieval tunnels that we still don't understand](https://weirdmedievalguys.substack.com/p/the-secret-medieval-tunnels-that)
+* [2026-01-20, 19:30:24](https://news.ycombinator.com/item?id=46696647) - [Intrinsically stretchable 2D MoS2 transistors](https://www.nature.com/articles/s41467-026-68504-2)
 * [2026-01-20, 19:06:56](https://news.ycombinator.com/item?id=46696357) - [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
 * [2026-01-20, 19:06:03](https://news.ycombinator.com/item?id=46696347) - [Much of the World Facing 'Water Bankruptcy,' U.N. Report Warns](https://e360.yale.edu/digest/water-bankruptcy-report)
 * [2026-01-20, 19:03:38](https://news.ycombinator.com/item?id=46696303) - [IPv6 is not insecure because it lacks a NAT](https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/)
