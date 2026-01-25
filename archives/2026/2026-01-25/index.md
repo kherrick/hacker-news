@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-25](index.md)
 
+* [2026-01-25, 15:51:03](https://news.ycombinator.com/item?id=46755115) - [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq)
 * [2026-01-25, 15:34:51](https://news.ycombinator.com/item?id=46754944) - [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
+* [2026-01-25, 15:13:46](https://news.ycombinator.com/item?id=46754724) - [Show HN: Netfence – Like Envoy for eBPF Filters](https://github.com/danthegoodman1/netfence)
 * [2026-01-25, 15:02:08](https://news.ycombinator.com/item?id=46754600) - [UN Declares That the World Has Entered an Era of 'Global Water Bankruptcy'](https://www.smithsonianmag.com/smart-news/united-nations-declares-that-the-world-has-entered-an-era-of-global-water-bankruptcy-180988045/)
 * [2026-01-25, 14:42:39](https://news.ycombinator.com/item?id=46754427) - [Wine-Staging 11.1 Adds Patches for Enabling Recent Photoshop Versions on Linux](https://www.phoronix.com/news/Wine-Staging-11.1)
 * [2026-01-25, 13:59:42](https://news.ycombinator.com/item?id=46754132) - [Iran Protest Death Toll Could Top 30k, According to Local Health Officials](https://time.com/7357635/more-than-30000-killed-in-iran-say-senior-officials/)
@@ -16,6 +18,7 @@
 * [2026-01-25, 11:56:42](https://news.ycombinator.com/item?id=46753301) - [Show HN: Bonsplit – tabs and splits for native macOS apps](https://bonsplit.alasdairmonk.com)
 * [2026-01-25, 11:28:33](https://news.ycombinator.com/item?id=46753142) - [Wall Street braced for a private credit meltdown. The risk of one is rising](https://www.cnbc.com/2026/01/23/wall-street-private-credit-risk-rising.html)
 * [2026-01-25, 11:19:04](https://news.ycombinator.com/item?id=46753078) - [Show HN: TUI for managing XDG default applications](https://github.com/mitjafelicijan/xdgctl)
+* [2026-01-25, 10:54:29](https://news.ycombinator.com/item?id=46752907) - [150k lines of vibe coded Elixir: The Good, the Bad and the Ugly](https://getboothiq.com/blog/150k-lines-vibe-coded-elixir-good-bad-ugly)
 * [2026-01-25, 10:44:08](https://news.ycombinator.com/item?id=46752841) - [Bridging the Gap Between PLECS and SPICE](https://erickschulz.dev/posts/plecs-spice/)
 * [2026-01-25, 09:33:59](https://news.ycombinator.com/item?id=46752335) - [Accept_language 2.2 – RFC 7231/4647 compliant Accept-Language parsing for Ruby](https://github.com/cyril/accept_language.rb)
 * [2026-01-25, 09:22:17](https://news.ycombinator.com/item?id=46752261) - [Jurassic Park - Tablet device on Nedry's desk? (2012)](https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/)
