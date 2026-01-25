@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-25, 04:53:29](https://news.ycombinator.com/item?id=46750852) - [Palantir has no place in UK public services](https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/)
-* [2026-01-25, 04:37:58](https://news.ycombinator.com/item?id=46750767) - [TikTok is officially US-owned for American users, here's what's changing](https://9to5mac.com/2026/01/23/tiktok-is-officially-us-owned-for-american-users-heres-whats-changing/)
 * [2026-01-25, 03:44:28](https://news.ycombinator.com/item?id=46750485) - [The Responsibility of Intellectuals (1967)](https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/)
+* [2026-01-25, 03:41:46](https://news.ycombinator.com/item?id=46750470) - [Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net](https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk)
 * [2026-01-25, 03:36:38](https://news.ycombinator.com/item?id=46750437) - [Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator)
 * [2026-01-25, 03:33:20](https://news.ycombinator.com/item?id=46750425) - [nvidia-smi hangs indefinitely after ~66 days](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971)
 * [2026-01-25, 03:17:43](https://news.ycombinator.com/item?id=46750358) - [Second Win11 emergency out of band update to address disastrous Patch Tuesday](https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs)
@@ -16,7 +16,6 @@
 * [2026-01-24, 20:03:39](https://news.ycombinator.com/item?id=46747119) - [Postmortem: Our first VLEO satellite mission (with imagery and flight data)](https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next)
 * [2026-01-24, 19:25:53](https://news.ycombinator.com/item?id=46746681) - [Agent orchestration for the timid](https://substack.com/inbox/post/185649875)
 * [2026-01-24, 19:04:08](https://news.ycombinator.com/item?id=46746476) - [BirdyChat becomes first European chat app that is interoperable with WhatsApp](https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp)
-* [2026-01-24, 18:42:13](https://news.ycombinator.com/item?id=46746266) - [Understanding Rust Closures](https://antoine.vandecreme.net/blog/rust-closures/)
 * [2026-01-24, 18:06:00](https://news.ycombinator.com/item?id=46745922) - [Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison](https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/)
 * [2026-01-24, 16:16:02](https://news.ycombinator.com/item?id=46744807) - [Ask HN: Gmail spam filtering suddenly marking everything as spam?](https://news.ycombinator.com/item?id=46744807)
 * [2026-01-24, 15:57:45](https://news.ycombinator.com/item?id=46744647) - [Memory layout in Zig with formulas](https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html)
@@ -30,6 +29,7 @@
 * [2026-01-20, 21:18:26](https://news.ycombinator.com/item?id=46697876) - [Typography on Pencils (2023)](https://www.presentandcorrect.com/blogs/blog/typography-on-pencils-1-5)
 * [2026-01-20, 14:07:39](https://news.ycombinator.com/item?id=46691963) - [The Temporal Consistency Challenge in Video Restoration](https://blog.videowatermarkremove.com/the-temporal-consistency-challenge-from-optical-flow-to-spatiotemporal-ai-in-video-restoration)
 * [2026-01-20, 11:38:31](https://news.ycombinator.com/item?id=46690779) - [Small Kafka: Tansu and SQLite on a free t3.micro](https://blog.tansu.io/articles/broker-aws-free-tier)
+* [2026-01-20, 07:04:53](https://news.ycombinator.com/item?id=46688804) - [Google confirms 'high-friction' sideloading flow is coming to Android](https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/)
 
 ## [Archives](archives/index.md)
 
