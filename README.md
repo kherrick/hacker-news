@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-25, 17:24:42](https://news.ycombinator.com/item?id=46755999) - [FAA institutes nationwide drone no-fly zones around ICE operations](https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs)
 * [2026-01-25, 15:51:03](https://news.ycombinator.com/item?id=46755115) - [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq)
 * [2026-01-25, 15:34:51](https://news.ycombinator.com/item?id=46754944) - [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
 * [2026-01-25, 15:13:46](https://news.ycombinator.com/item?id=46754724) - [Show HN: Netfence – Like Envoy for eBPF Filters](https://github.com/danthegoodman1/netfence)
@@ -19,7 +20,6 @@
 * [2026-01-25, 08:07:03](https://news.ycombinator.com/item?id=46751826) - [Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/)
 * [2026-01-25, 08:06:53](https://news.ycombinator.com/item?id=46751825) - [Hands-On with Two Apple Network Server Prototype ROMs](http://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html)
 * [2026-01-25, 02:48:36](https://news.ycombinator.com/item?id=46750214) - [Challenges and Research Directions for Large Language Model Inference Hardware](https://arxiv.org/abs/2601.05047)
-* [2026-01-25, 01:25:37](https://news.ycombinator.com/item?id=46749671) - [Two Weeks Until Tapeout](https://essenceia.github.io/projects/two_weeks_until_tapeout/)
 * [2026-01-25, 00:14:40](https://news.ycombinator.com/item?id=46749198) - [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 * [2026-01-23, 06:34:31](https://news.ycombinator.com/item?id=46729198) - [BU-808: How to Prolong Lithium-based Batteries (2023)](https://www.batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries/)
 * [2026-01-23, 00:18:06](https://news.ycombinator.com/item?id=46726827) - [Back to Bellevue](https://theamericanscholar.org/back-to-bellevue/)
