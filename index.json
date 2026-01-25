@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-25, 20:28:33",
-      "https://news.ycombinator.com/item?id=46757822"
+      "2026-01-25, 21:01:37",
+      "https://news.ycombinator.com/item?id=46758175"
     ],
     [
-      "Yes, It's Fascism",
-      "https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/"
+      "AI Tribalism",
+      "https://nolanlawson.com/2026/01/24/ai-tribalism/"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 20:39:25",
+      "https://news.ycombinator.com/item?id=46757944"
+    ],
+    [
+      "OnePlus update blocks downgrades and custom ROMs by blowing a fuse",
+      "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Data Leak Exposes 149M Logins, Including Gmail, Facebook",
       "https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 19:31:23",
+      "https://news.ycombinator.com/item?id=46757357"
+    ],
+    [
+      "I was right about ATProto key management",
+      "https://notes.nora.codes/atproto-again/"
     ]
   ],
   [
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2026-01-25, 17:24:42",
+      "https://news.ycombinator.com/item?id=46755999"
+    ],
+    [
+      "FAA institutes nationwide drone no-fly zones around ICE operations",
+      "https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 15:51:03",
       "https://news.ycombinator.com/item?id=46755115"
     ],
@@ -71,52 +101,12 @@
   ],
   [
     [
-      "2026-01-25, 15:13:46",
-      "https://news.ycombinator.com/item?id=46754724"
-    ],
-    [
-      "Show HN: Netfence – Like Envoy for eBPF Filters",
-      "https://github.com/danthegoodman1/netfence"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 14:42:39",
-      "https://news.ycombinator.com/item?id=46754427"
-    ],
-    [
-      "Wine-Staging 11.1 Adds Patches for Enabling Recent Photoshop Versions on Linux",
-      "https://www.phoronix.com/news/Wine-Staging-11.1"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 14:10:12",
-      "https://news.ycombinator.com/item?id=46754206"
-    ],
-    [
-      "Show HN: LLMNet – The Offline Internet, Search the web without the web",
-      "https://github.com/skorotkiewicz/llmnet"
-    ]
-  ],
-  [
-    [
       "2026-01-25, 12:54:53",
       "https://news.ycombinator.com/item?id=46753708"
     ],
     [
       "Web-based image editor modeled after Deluxe Paint",
       "https://github.com/steffest/DPaint-js"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 12:40:00",
-      "https://news.ycombinator.com/item?id=46753611"
-    ],
-    [
-      "Alarm overload is undermining safety at sea as crews face thousands of alerts",
-      "https://www.lr.org/en/knowledge/press-room/press-listing/press-release/2026/alarm-overload-is-undermining-safety-at-sea-as-new-research-shows-crews-face-tens-of-thousands-of-daily-alerts/"
     ]
   ],
   [
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2026-01-25, 10:54:29",
+      "https://news.ycombinator.com/item?id=46752907"
+    ],
+    [
+      "150k lines of vibe coded Elixir: The good, the bad and the ugly",
+      "https://getboothiq.com/blog/150k-lines-vibe-coded-elixir-good-bad-ugly"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 09:22:17",
       "https://news.ycombinator.com/item?id=46752261"
     ],
@@ -175,18 +175,18 @@
       "https://news.ycombinator.com/item?id=46752151"
     ],
     [
-      "A flawed paper in Management Science has been cited more than 6,000 times",
+      "A flawed paper in management science has been cited more than 6k times",
       "https://statmodeling.stat.columbia.edu/2026/01/22/aking/"
     ]
   ],
   [
     [
-      "2026-01-25, 08:23:51",
-      "https://news.ycombinator.com/item?id=46751906"
+      "2026-01-25, 08:22:17",
+      "https://news.ycombinator.com/item?id=46751899"
     ],
     [
-      "Sony Data Discman",
-      "https://huguesjohnson.com/random/sony-ebook/"
+      "Deutsche Telekom is throttling the internet",
+      "https://netzbremse.de/en/"
     ]
   ],
   [
