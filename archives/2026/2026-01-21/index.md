@@ -95,5 +95,6 @@
 * [2026-01-21, 02:36:44](https://news.ycombinator.com/item?id=46700503) - [RSS.Social – the latest and best from small sites across the web](https://rss.social/)
 * [2026-01-21, 02:17:36](https://news.ycombinator.com/item?id=46700384) - [High-bandwidth flash progress and future](https://blocksandfiles.com/2026/01/19/a-window-into-hbf-progress/)
 * [2026-01-21, 01:37:41](https://news.ycombinator.com/item?id=46700146) - [Verizon starts requiring 365 days of paid service before it will unlock phones](https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/)
+* [2026-01-21, 00:35:01](https://news.ycombinator.com/item?id=46699697) - [A Lament for Aperture](https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/)
 * [2026-01-21, 00:21:13](https://news.ycombinator.com/item?id=46699597) - [Who Owns Rudolph's Nose?](https://creativelawcenter.com/copyright-rudolph-reindeer/)
 * [2026-01-21, 00:05:10](https://news.ycombinator.com/item?id=46699441) - [Show HN: macOS native DAW with Git branching model](https://www.scratchtrackaudio.com)
