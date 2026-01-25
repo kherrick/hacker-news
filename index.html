@@ -129,6 +129,28 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46755115">
+          <h3>
+            <a
+              class="item"
+              href="https://www.diljitpr.net/blog-post-postgresql-dlq"
+              >Using PostgreSQL as a Dead Letter Queue for Event-Driven
+              Systems</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-25 @ 15:51:03</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46755115"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46754944">
           <h3>
             <a class="item" href="https://github.com/tldev/posturr"
@@ -139,13 +161,65 @@
             <h4>
               <span>2026-01-25 @ 15:34:51</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46754944"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46754724">
+          <h3>
+            <a class="item" href="https://github.com/danthegoodman1/netfence"
+              >Show HN: Netfence – Like Envoy for eBPF Filters</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-25 @ 15:13:46</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46754724"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                It allows you to define different DNS-based rules that are
+                resolved in a local daemon to IPs, then pushed to the eBPF
+                filter to allow traffic. By doing it this way, we can still
+                allow DNS-defined rules, but prevent contacting random IPs.
+              </p>
+              <p>
+                There's also no network performance penalty, since it's just DNS
+                lookups and eBPF filters referencing memory.
+              </p>
+              <p>
+                It also means you don't have to tamper with the base image,
+                which the agent could potentially manipulate to remove rules
+                (unless you prevent root maybe).
+              </p>
+              <p>
+                It automatically manages the lifecycle of eBPF filters on
+                cgroups and interfaces, so it works well for both containers and
+                micro VMs (like Firecracker).
+              </p>
+              <p>
+                You implement a control plane, just like Envoy xDS, which you
+                can manage the rules of each cgroup/interface. You can even
+                manage DNS through the control plane to dynamically resolve
+                records (which is helpful as a normal DNS server doesn't know
+                which interface/cgroup a request might be coming from).
+              </p>
+              <p>
+                We specifically use this to allow our agents to only contact S3,
+                pip, apt, and npm.
+              </p>
+            </div>
           </section>
         </section>
         <section id="46754427">
@@ -161,7 +235,7 @@
             <h4>
               <span>2026-01-25 @ 14:42:39</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46754427"
                   >Comments</a
@@ -180,11 +254,11 @@
             <h4>
               <span>2026-01-25 @ 12:54:53</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46753708"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -202,11 +276,11 @@
             <h4>
               <span>2026-01-25 @ 12:40:00</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46753611"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -221,11 +295,11 @@
             <h4>
               <span>2026-01-25 @ 12:22:12</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46753484"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -255,7 +329,7 @@
             <h4>
               <span>2026-01-25 @ 11:56:42</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46753301"
                   >Comments</a
@@ -274,17 +348,39 @@
             <h4>
               <span>2026-01-25 @ 11:19:04</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46753078"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
             <div class="text">
               <p>Maybe some of you will find it useful.</p>
               <p>Happy to answer any questions.</p>
             </div>
+          </section>
+        </section>
+        <section id="46752907">
+          <h3>
+            <a
+              class="item"
+              href="https://getboothiq.com/blog/150k-lines-vibe-coded-elixir-good-bad-ugly"
+              >150k lines of vibe coded Elixir: The Good, the Bad and the
+              Ugly</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-25 @ 10:54:29</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46752907"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="46752841">
@@ -297,7 +393,7 @@
             <h4>
               <span>2026-01-25 @ 10:44:08</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46752841"
                   >Comments</a
@@ -318,7 +414,7 @@
             <h4>
               <span>2026-01-25 @ 09:22:17</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46752261"
                   >Comments</a
@@ -340,11 +436,11 @@
             <h4>
               <span>2026-01-25 @ 09:04:30</span
               ><span class="points-container"
-                >Points: <span class="points">429</span></span
+                >Points: <span class="points">434</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46752151"
                   >Comments</a
-                ><span class="descendants">: 208</span></span
+                ><span class="descendants">: 213</span></span
               >
             </h4>
           </section>
@@ -359,11 +455,11 @@
             <h4>
               <span>2026-01-25 @ 08:23:51</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46751906"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -378,11 +474,11 @@
             <h4>
               <span>2026-01-25 @ 08:22:17</span
               ><span class="points-container"
-                >Points: <span class="points">452</span></span
+                >Points: <span class="points">456</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46751899"
                   >Comments</a
-                ><span class="descendants">: 220</span></span
+                ><span class="descendants">: 221</span></span
               >
             </h4>
           </section>
@@ -399,7 +495,7 @@
             <h4>
               <span>2026-01-25 @ 08:07:03</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46751826"
                   >Comments</a
@@ -420,7 +516,7 @@
             <h4>
               <span>2026-01-25 @ 08:06:53</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46751825"
                   >Comments</a
@@ -442,11 +538,11 @@
             <h4>
               <span>2026-01-25 @ 07:36:20</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46751675"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -462,32 +558,11 @@
             <h4>
               <span>2026-01-25 @ 02:48:36</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46750214"
                   >Comments</a
                 ><span class="descendants">: 16</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46749671">
-          <h3>
-            <a
-              class="item"
-              href="https://essenceia.github.io/projects/two_weeks_until_tapeout/"
-              >Two Weeks Until Tapeout</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-25 @ 01:25:37</span
-              ><span class="points-container"
-                >Points: <span class="points">170</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46749671"
-                  >Comments</a
-                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -505,33 +580,11 @@
             <h4>
               <span>2026-01-25 @ 00:14:40</span
               ><span class="points-container"
-                >Points: <span class="points">493</span></span
+                >Points: <span class="points">496</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46749198"
                   >Comments</a
-                ><span class="descendants">: 463</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46747119">
-          <h3>
-            <a
-              class="item"
-              href="https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next"
-              >Postmortem: Our first VLEO satellite mission (with imagery and
-              flight data)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-24 @ 20:03:39</span
-              ><span class="points-container"
-                >Points: <span class="points">209</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46747119"
-                  >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 464</span></span
               >
             </h4>
           </section>
@@ -549,11 +602,11 @@
             <h4>
               <span>2026-01-24 @ 19:04:08</span
               ><span class="points-container"
-                >Points: <span class="points">687</span></span
+                >Points: <span class="points">688</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46746476"
                   >Comments</a
-                ><span class="descendants">: 428</span></span
+                ><span class="descendants">: 429</span></span
               >
             </h4>
           </section>
@@ -570,11 +623,11 @@
             <h4>
               <span>2026-01-23 @ 06:34:31</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46729198"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -610,7 +663,7 @@
             <h4>
               <span>2026-01-21 @ 19:58:59</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46710747"
                   >Comments</a
@@ -631,32 +684,11 @@
             <h4>
               <span>2026-01-21 @ 00:35:01</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46699697"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46696647">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nature.com/articles/s41467-026-68504-2"
-              >Intrinsically stretchable 2D MoS2 transistors</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-20 @ 19:30:24</span
-              ><span class="points-container"
-                >Points: <span class="points">20</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46696647"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -674,11 +706,11 @@
             <h4>
               <span>2026-01-20 @ 16:10:01</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46693460"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -694,11 +726,11 @@
             <h4>
               <span>2026-01-20 @ 07:56:29</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46689093"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
             <div class="text">
@@ -741,11 +773,11 @@
             <h4>
               <span>2026-01-20 @ 07:04:53</span
               ><span class="points-container"
-                >Points: <span class="points">408</span></span
+                >Points: <span class="points">417</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46688804"
                   >Comments</a
-                ><span class="descendants">: 397</span></span
+                ><span class="descendants">: 403</span></span
               >
             </h4>
           </section>
@@ -766,7 +798,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46688476"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
