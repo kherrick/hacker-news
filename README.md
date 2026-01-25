@@ -14,7 +14,6 @@
 * [2026-01-25, 01:25:37](https://news.ycombinator.com/item?id=46749671) - [Two Weeks Until Tapeout](https://essenceia.github.io/projects/two_weeks_until_tapeout/)
 * [2026-01-25, 00:14:40](https://news.ycombinator.com/item?id=46749198) - [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 * [2026-01-24, 23:55:10](https://news.ycombinator.com/item?id=46749053) - [We X-Rayed a Suspicious FTDI USB Cable](https://eclypsium.com/blog/xray-counterfeit-usb-cable/)
-* [2026-01-24, 21:24:13](https://news.ycombinator.com/item?id=46747827) - [Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/)
 * [2026-01-24, 20:03:39](https://news.ycombinator.com/item?id=46747119) - [Postmortem: Our first VLEO satellite mission (with imagery and flight data)](https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next)
 * [2026-01-24, 19:04:08](https://news.ycombinator.com/item?id=46746476) - [BirdyChat becomes first European chat app that is interoperable with WhatsApp](https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp)
 * [2026-01-24, 18:42:13](https://news.ycombinator.com/item?id=46746266) - [Understanding Rust Closures](https://antoine.vandecreme.net/blog/rust-closures/)
@@ -28,6 +27,7 @@
 * [2026-01-20, 21:18:26](https://news.ycombinator.com/item?id=46697876) - [Typography on Pencils (2023)](https://www.presentandcorrect.com/blogs/blog/typography-on-pencils-1-5)
 * [2026-01-20, 19:30:24](https://news.ycombinator.com/item?id=46696647) - [Intrinsically stretchable 2D MoS2 transistors](https://www.nature.com/articles/s41467-026-68504-2)
 * [2026-01-20, 16:10:01](https://news.ycombinator.com/item?id=46693460) - [I built a 2x faster lexer, then discovered I/O was the real bottleneck](https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/)
+* [2026-01-20, 15:00:48](https://news.ycombinator.com/item?id=46692473) - [Putting Rocks on the Moon](https://ahwoo.com/posts/019bd882-d104-7347-be7b-8e0a5ce13cb5)
 * [2026-01-20, 11:38:31](https://news.ycombinator.com/item?id=46690779) - [Small Kafka: Tansu and SQLite on a free t3.micro](https://blog.tansu.io/articles/broker-aws-free-tier)
 * [2026-01-20, 07:04:53](https://news.ycombinator.com/item?id=46688804) - [Google confirms 'high-friction' sideloading flow is coming to Android](https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/)
 

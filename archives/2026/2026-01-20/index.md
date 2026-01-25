@@ -54,6 +54,7 @@
 * [2026-01-20, 15:44:14](https://news.ycombinator.com/item?id=46693021) - [Claude Code is the ChatGPT moment repeated and awful news for software stocks](https://sherwood.news/markets/how-claude-code-is-the-chatgpt-moment-repeated-and-why-thats-awful-news-for/)
 * [2026-01-20, 15:19:22](https://news.ycombinator.com/item?id=46692692) - [Dockerhub for Skill.md](https://skillregistry.io/)
 * [2026-01-20, 15:11:45](https://news.ycombinator.com/item?id=46692594) - [Danish pension fund divesting US Treasuries](https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/)
+* [2026-01-20, 15:00:48](https://news.ycombinator.com/item?id=46692473) - [Putting Rocks on the Moon](https://ahwoo.com/posts/019bd882-d104-7347-be7b-8e0a5ce13cb5)
 * [2026-01-20, 14:47:50](https://news.ycombinator.com/item?id=46692347) - [TopicRadar – Track trending topics across Hacker News, GitHub, ArXiv, and more](https://apify.com/mick-johnson/topic-radar)
 * [2026-01-20, 14:41:44](https://news.ycombinator.com/item?id=46692284) - [Vibe coding is a hobby. Let me explain](https://medium.com/@wob/vibe-coding-is-a-hobby-let-me-explain-a54949c3b455)
 * [2026-01-20, 14:39:06](https://news.ycombinator.com/item?id=46692250) - [Scheme implementation as O'Reilly book via Claude Code](https://ezzeriesa.notion.site/Scheme-implementation-as-O-Reilly-book-via-Claude-Code-2ee1308b420480ce9b9cd157ee5220fd)
