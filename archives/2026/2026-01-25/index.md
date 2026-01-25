@@ -33,6 +33,7 @@
 * [2026-01-25, 08:06:53](https://news.ycombinator.com/item?id=46751825) - [Hands-On with Two Apple Network Server Prototype ROMs](http://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html)
 * [2026-01-25, 08:01:21](https://news.ycombinator.com/item?id=46751797) - [Show HN: Sightline – Shodan-style search for real-world infra using OSM Data](https://github.com/ni5arga/sightline)
 * [2026-01-25, 07:36:20](https://news.ycombinator.com/item?id=46751675) - [Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators](https://github.com/divyaprakash0426/autoshorts)
+* [2026-01-25, 06:06:33](https://news.ycombinator.com/item?id=46751231) - [World’s most powerful literary critic is on TikTok](https://www.newstatesman.com/culture/books/2026/01/the-worlds-most-powerful-literary-critic-is-on-tiktok)
 * [2026-01-25, 05:09:38](https://news.ycombinator.com/item?id=46750937) - [What Ralph Wiggum loops are missing](https://xr0am.substack.com/p/what-ralph-wiggum-loops-are-missing)
 * [2026-01-25, 05:07:48](https://news.ycombinator.com/item?id=46750927) - [AI won't take your job. A guy with a $599 Mac Mini and Claude will](https://webmatrices.com/post/ai-won-t-take-your-job-a-guy-with-a-599-mac-mini-and-claude-will)
 * [2026-01-25, 04:53:29](https://news.ycombinator.com/item?id=46750852) - [Palantir has no place in UK public services](https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/)

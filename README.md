@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-25, 17:36:19](https://news.ycombinator.com/item?id=46756117) - [ICE Using Palantir Tool That Feeds on Medicaid Data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data)
-* [2026-01-25, 17:24:42](https://news.ycombinator.com/item?id=46755999) - [FAA institutes nationwide drone no-fly zones around ICE operations](https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs)
 * [2026-01-25, 15:51:03](https://news.ycombinator.com/item?id=46755115) - [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq)
 * [2026-01-25, 15:34:51](https://news.ycombinator.com/item?id=46754944) - [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
 * [2026-01-25, 15:13:46](https://news.ycombinator.com/item?id=46754724) - [Show HN: Netfence – Like Envoy for eBPF Filters](https://github.com/danthegoodman1/netfence)
@@ -20,6 +19,8 @@
 * [2026-01-25, 08:22:17](https://news.ycombinator.com/item?id=46751899) - [Deutsche Telekom is throttling the internet](https://netzbremse.de/en/)
 * [2026-01-25, 08:07:03](https://news.ycombinator.com/item?id=46751826) - [Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/)
 * [2026-01-25, 08:06:53](https://news.ycombinator.com/item?id=46751825) - [Hands-On with Two Apple Network Server Prototype ROMs](http://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html)
+* [2026-01-25, 06:06:33](https://news.ycombinator.com/item?id=46751231) - [World’s most powerful literary critic is on TikTok](https://www.newstatesman.com/culture/books/2026/01/the-worlds-most-powerful-literary-critic-is-on-tiktok)
+* [2026-01-25, 02:48:36](https://news.ycombinator.com/item?id=46750214) - [Challenges and Research Directions for Large Language Model Inference Hardware](https://arxiv.org/abs/2601.05047)
 * [2026-01-25, 00:14:40](https://news.ycombinator.com/item?id=46749198) - [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 * [2026-01-23, 06:34:31](https://news.ycombinator.com/item?id=46729198) - [BU-808: How to Prolong Lithium-based Batteries (2023)](https://www.batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries/)
 * [2026-01-23, 00:18:06](https://news.ycombinator.com/item?id=46726827) - [Back to Bellevue](https://theamericanscholar.org/back-to-bellevue/)
@@ -27,7 +28,6 @@
 * [2026-01-21, 15:30:34](https://news.ycombinator.com/item?id=46707062) - [Social Dynamics at Arm's Length](https://www.jenn.site/social-truths-at-arms-length/)
 * [2026-01-21, 00:35:01](https://news.ycombinator.com/item?id=46699697) - [A Lament for Aperture](https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/)
 * [2026-01-20, 16:10:01](https://news.ycombinator.com/item?id=46693460) - [I built a 2x faster lexer, then discovered I/O was the real bottleneck](https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/)
-* [2026-01-20, 07:56:29](https://news.ycombinator.com/item?id=46689093) - [Show HN: LangGraph architecture that scales (hexagonal pattern, 110 tests)](https://github.com/cleverhoods/sagecompass)
 * [2026-01-20, 07:04:53](https://news.ycombinator.com/item?id=46688804) - [Google confirms 'high-friction' sideloading flow is coming to Android](https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/)
 * [2026-01-20, 06:10:54](https://news.ycombinator.com/item?id=46688476) - [The Rebirth of Pennsylvania's Infamous Burning Town](https://www.atlasobscura.com/articles/centralia-pennsylvania-rebirth)
 
