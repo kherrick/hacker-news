@@ -15,6 +15,7 @@
 * [2026-01-20, 21:36:34](https://news.ycombinator.com/item?id=46698061) - [The challenges of soft delete](https://atlas9.dev/blog/soft-delete.html)
 * [2026-01-20, 21:34:06](https://news.ycombinator.com/item?id=46698038) - [Inside the secret world of Japanese snack bars](https://www.bbc.com/travel/article/20260116-inside-the-secret-world-of-japanese-snack-bars)
 * [2026-01-20, 21:22:19](https://news.ycombinator.com/item?id=46697908) - [Show HN: Agent Skills Leaderboard](https://skills.sh)
+* [2026-01-20, 21:18:26](https://news.ycombinator.com/item?id=46697876) - [Typography on Pencils (2023)](https://www.presentandcorrect.com/blogs/blog/typography-on-pencils-1-5)
 * [2026-01-20, 21:05:02](https://news.ycombinator.com/item?id=46697735) - [Ask HN: Revive a mostly dead Discord server](https://news.ycombinator.com/item?id=46697735)
 * [2026-01-20, 20:45:56](https://news.ycombinator.com/item?id=46697518) - [Show HN: On-device browser agent (Qwen) running locally in Chrome](https://github.com/RunanywhereAI/on-device-browser-agent)
 * [2026-01-20, 20:23:55](https://news.ycombinator.com/item?id=46697287) - [A scammer's blueprint: How cybercriminals plot to rob a target in a week](https://www.reuters.com/graphics/SOUTHEASTASIA-SCAMS/MANUALS/klpyjlqelvg/)

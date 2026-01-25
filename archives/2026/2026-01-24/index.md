@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-24](index.md)
 
+* [2026-01-24, 23:55:10](https://news.ycombinator.com/item?id=46749053) - [We X-Rayed a Suspicious FTDI USB Cable](https://eclypsium.com/blog/xray-counterfeit-usb-cable/)
 * [2026-01-24, 23:21:37](https://news.ycombinator.com/item?id=46748771) - [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
 * [2026-01-24, 22:59:45](https://news.ycombinator.com/item?id=46748603) - [Amazon braces for another major round of layoffs, 14,000 jobs at risk](https://mynorthwest.com/local/amazon-layoffs-14000-jobs-at-risk/4192118)
 * [2026-01-24, 22:23:49](https://news.ycombinator.com/item?id=46748336) - [ICE Releases RFI for User Tracking Tools](https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/)
+* [2026-01-24, 21:49:01](https://news.ycombinator.com/item?id=46748077) - [I don't write code anymore – I sculpt it](https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/)
 * [2026-01-24, 21:24:13](https://news.ycombinator.com/item?id=46747827) - [Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/)
 * [2026-01-24, 21:19:35](https://news.ycombinator.com/item?id=46747777) - [The Writers Came at Night](https://www.metropolitanreview.org/p/the-writers-came-at-night)
 * [2026-01-24, 21:01:02](https://news.ycombinator.com/item?id=46747625) - [First Design Engineer Hire – Build Games at Gym Class (YC W22)](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal)
