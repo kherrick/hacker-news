@@ -67,5 +67,6 @@
 * [2026-01-23, 00:30:20](https://news.ycombinator.com/item?id=46726916) - [Stunnel](https://www.stunnel.org/)
 * [2026-01-23, 00:29:07](https://news.ycombinator.com/item?id=46726907) - [Vibe a Guitar Pedal](https://polyend.com/endless/)
 * [2026-01-23, 00:22:58](https://news.ycombinator.com/item?id=46726857) - [Why medieval city-builder video games are historically inaccurate (2020)](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate)
+* [2026-01-23, 00:18:06](https://news.ycombinator.com/item?id=46726827) - [Back to Bellevue](https://theamericanscholar.org/back-to-bellevue/)
 * [2026-01-23, 00:17:38](https://news.ycombinator.com/item?id=46726820) - [Arkansas inmates restricted from receiving physical books, other media directly](https://arkansasadvocate.com/2025/12/19/arkansas-inmates-restricted-from-receiving-physical-books-other-media-directly-under-new-policy/)
 * [2026-01-23, 00:16:22](https://news.ycombinator.com/item?id=46726808) - [Metastable Failures and Interactions Between Systems](https://charap.co/on-metastable-failures-and-interactions-between-systems/)
