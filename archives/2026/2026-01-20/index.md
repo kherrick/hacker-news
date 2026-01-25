@@ -58,6 +58,7 @@
 * [2026-01-20, 14:23:44](https://news.ycombinator.com/item?id=46692116) - [Unconventional PostgreSQL Optimizations](https://hakibenita.com/postgresql-unconventional-optimizations)
 * [2026-01-20, 14:21:03](https://news.ycombinator.com/item?id=46692087) - [Minneapolis software engineers mistaken for ICE agents](https://www.foxnews.com/us/minneapolis-software-engineers-mistaken-ice-agents-eating-lunch-harassed-anti-ice-crowd)
 * [2026-01-20, 14:17:37](https://news.ycombinator.com/item?id=46692052) - [Europe could 'weaponize' $10T of US assets over Greenland](https://www.bloomberg.com/news/articles/2026-01-19/-weaponizing-10-trillion-of-us-assets-is-tough-ask-for-europe)
+* [2026-01-20, 14:07:39](https://news.ycombinator.com/item?id=46691963) - [The Temporal Consistency Challenge in Video Restoration](https://blog.videowatermarkremove.com/the-temporal-consistency-challenge-from-optical-flow-to-spatiotemporal-ai-in-video-restoration)
 * [2026-01-20, 13:51:03](https://news.ycombinator.com/item?id=46691835) - [IP Addresses Through 2025](https://www.potaroo.net/ispcol/2026-01/addr2025.html)
 * [2026-01-20, 13:34:16](https://news.ycombinator.com/item?id=46691660) - [The Zen of Reticulum](https://github.com/markqvist/Reticulum/blob/master/Zen%20of%20Reticulum.md)
 * [2026-01-20, 13:10:08](https://news.ycombinator.com/item?id=46691454) - [Show HN: Ocrbase – pdf → .md/.json document OCR and structured extraction API](https://github.com/majcheradam/ocrbase)
