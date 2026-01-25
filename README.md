@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-25, 17:51:24](https://news.ycombinator.com/item?id=46756288) - [What Is Starlink Mesh? – Starlink Help Center](https://starlink.com/ca/support/article/57f4bd5c-4125-2210-8bb2-30c90b558b7b)
 * [2026-01-25, 17:36:19](https://news.ycombinator.com/item?id=46756117) - [ICE Using Palantir Tool That Feeds on Medicaid Data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data)
 * [2026-01-25, 15:51:03](https://news.ycombinator.com/item?id=46755115) - [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq)
 * [2026-01-25, 15:34:51](https://news.ycombinator.com/item?id=46754944) - [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
@@ -22,7 +23,6 @@
 * [2026-01-25, 06:06:33](https://news.ycombinator.com/item?id=46751231) - [World’s most powerful literary critic is on TikTok](https://www.newstatesman.com/culture/books/2026/01/the-worlds-most-powerful-literary-critic-is-on-tiktok)
 * [2026-01-25, 00:14:40](https://news.ycombinator.com/item?id=46749198) - [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 * [2026-01-23, 06:34:31](https://news.ycombinator.com/item?id=46729198) - [BU-808: How to Prolong Lithium-based Batteries (2023)](https://www.batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries/)
-* [2026-01-23, 00:18:06](https://news.ycombinator.com/item?id=46726827) - [Back to Bellevue](https://theamericanscholar.org/back-to-bellevue/)
 * [2026-01-21, 19:58:59](https://news.ycombinator.com/item?id=46710747) - [ANN v3: 200ms p99 query latency over 100B vectors](https://turbopuffer.com/blog/ann-v3)
 * [2026-01-21, 15:30:34](https://news.ycombinator.com/item?id=46707062) - [Social Dynamics at Arm's Length](https://www.jenn.site/social-truths-at-arms-length/)
 * [2026-01-21, 00:35:01](https://news.ycombinator.com/item?id=46699697) - [A Lament for Aperture](https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/)
