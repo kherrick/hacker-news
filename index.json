@@ -51,6 +51,36 @@
   ],
   [
     [
+      "2026-01-25, 08:07:03",
+      "https://news.ycombinator.com/item?id=46751826"
+    ],
+    [
+      "Introduction to PostgreSQL Indexes",
+      "https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 08:06:53",
+      "https://news.ycombinator.com/item?id=46751825"
+    ],
+    [
+      "Hands-On with Two Apple Network Server Prototype ROMs",
+      "http://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 08:01:21",
+      "https://news.ycombinator.com/item?id=46751797"
+    ],
+    [
+      "Show HN: Sightline – Shodan-style search for real-world infra using OSM Data",
+      "https://github.com/ni5arga/sightline"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 07:36:20",
       "https://news.ycombinator.com/item?id=46751675"
     ],
@@ -121,12 +151,12 @@
   ],
   [
     [
-      "2026-01-24, 21:24:13",
-      "https://news.ycombinator.com/item?id=46747827"
+      "2026-01-24, 21:01:02",
+      "https://news.ycombinator.com/item?id=46747625"
     ],
     [
-      "Poland's energy grid was targeted by never-before-seen wiper malware",
-      "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/"
+      "First Design Engineer Hire – Build Games at Gym Class (YC W22)",
+      "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal"
     ]
   ],
   [
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2026-01-24, 19:25:53",
-      "https://news.ycombinator.com/item?id=46746681"
-    ],
-    [
-      "Agent orchestration for the timid",
-      "https://substack.com/inbox/post/185649875"
-    ]
-  ],
-  [
-    [
       "2026-01-24, 19:04:08",
       "https://news.ycombinator.com/item?id=46746476"
     ],
     [
       "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
       "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 18:42:13",
-      "https://news.ycombinator.com/item?id=46746266"
-    ],
-    [
-      "Understanding Rust Closures",
-      "https://antoine.vandecreme.net/blog/rust-closures/"
     ]
   ],
   [
@@ -211,22 +221,22 @@
   ],
   [
     [
-      "2026-01-24, 08:15:02",
-      "https://news.ycombinator.com/item?id=46741923"
-    ],
-    [
-      "Shared Claude: A website controlled by the public",
-      "https://sharedclaude.com/"
-    ]
-  ],
-  [
-    [
       "2026-01-23, 20:07:49",
       "https://news.ycombinator.com/item?id=46737202"
     ],
     [
       "Maze Algorithms (2017)",
       "http://www.jamisbuck.org/mazes/"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 06:34:31",
+      "https://news.ycombinator.com/item?id=46729198"
+    ],
+    [
+      "BU-808: How to Prolong Lithium-based Batteries (2023)",
+      "https://www.batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
       "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 14:07:39",
-      "https://news.ycombinator.com/item?id=46691963"
-    ],
-    [
-      "The Temporal Consistency Challenge in Video Restoration",
-      "https://blog.videowatermarkremove.com/the-temporal-consistency-challenge-from-optical-flow-to-spatiotemporal-ai-in-video-restoration"
     ]
   ],
   [
