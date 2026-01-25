@@ -56,6 +56,7 @@
 * [2026-01-23, 09:06:26](https://news.ycombinator.com/item?id=46730233) - [Why are there so many CPU bugs nowadays](https://mas.to/@gabrielesvelto/115939583202357863)
 * [2026-01-23, 09:03:31](https://news.ycombinator.com/item?id=46730214) - [Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust)
 * [2026-01-23, 07:01:29](https://news.ycombinator.com/item?id=46729368) - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
+* [2026-01-23, 06:34:31](https://news.ycombinator.com/item?id=46729198) - [BU-808: How to Prolong Lithium-based Batteries (2023)](https://www.batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries/)
 * [2026-01-23, 05:34:35](https://news.ycombinator.com/item?id=46728808) - [I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)
 * [2026-01-23, 05:10:30](https://news.ycombinator.com/item?id=46728680) - [USA Exits WHO](https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html)
 * [2026-01-23, 03:52:06](https://news.ycombinator.com/item?id=46728197) - [Why talking to LLMs has improved my thinking](https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/)
