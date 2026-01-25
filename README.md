@@ -2,7 +2,7 @@
 
 * [2026-01-25, 21:44:10](https://news.ycombinator.com/item?id=46758644) - [LED lighting undermines visual performance unless supplemented by wider spectra](https://www.nature.com/articles/s41598-026-35389-6)
 * [2026-01-25, 21:27:11](https://news.ycombinator.com/item?id=46758450) - [The '3.5% rule': How a small minority can change the world](https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world)
-* [2026-01-25, 20:39:25](https://news.ycombinator.com/item?id=46757944) - [OnePlus update blocks downgrades and custom ROMs by blowing a fuse](https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback)
+* [2026-01-25, 20:39:25](https://news.ycombinator.com/item?id=46757944) - [Oneplus phone update introduces hardware anti-rollback](https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback)
 * [2026-01-25, 19:45:10](https://news.ycombinator.com/item?id=46757465) - [Data Leak Exposes 149M Logins, Including Gmail, Facebook](https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/)
 * [2026-01-25, 19:31:23](https://news.ycombinator.com/item?id=46757357) - [I was right about ATProto key management](https://notes.nora.codes/atproto-again/)
 * [2026-01-25, 19:19:12](https://news.ycombinator.com/item?id=46757224) - [The behavioral cost of personalized pricing](https://digitalseams.com/blog/the-behavioral-cost-of-personalized-pricing)
@@ -20,6 +20,7 @@
 * [2026-01-25, 12:02:01](https://news.ycombinator.com/item?id=46753336) - [Nango (YC W23, Dev Infrastructure) Is Hiring Remotely](https://jobs.ashbyhq.com/Nango)
 * [2026-01-25, 11:56:42](https://news.ycombinator.com/item?id=46753301) - [Show HN: Bonsplit – Tabs and splits for native macOS apps](https://bonsplit.alasdairmonk.com)
 * [2026-01-25, 11:19:04](https://news.ycombinator.com/item?id=46753078) - [Show HN: TUI for managing XDG default applications](https://github.com/mitjafelicijan/xdgctl)
+* [2026-01-25, 09:22:17](https://news.ycombinator.com/item?id=46752261) - [Jurassic Park - Tablet device on Nedry's desk? (2012)](https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/)
 * [2026-01-25, 09:04:30](https://news.ycombinator.com/item?id=46752151) - [A flawed paper in management science has been cited more than 6k times](https://statmodeling.stat.columbia.edu/2026/01/22/aking/)
 * [2026-01-25, 08:22:17](https://news.ycombinator.com/item?id=46751899) - [Deutsche Telekom is throttling the internet](https://netzbremse.de/en/)
 * [2026-01-25, 08:07:03](https://news.ycombinator.com/item?id=46751826) - [Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/)
@@ -29,7 +30,6 @@
 * [2026-01-20, 12:33:32](https://news.ycombinator.com/item?id=46691152) - [Publishing on the ATmosphere](https://tynanistyping.offprint.app/a/3mcsvjjceei23-publishing-on-the-atmosphere)
 * [2026-01-20, 12:30:08](https://news.ycombinator.com/item?id=46691130) - [Hackable personal news reader in bash pipes](https://github.com/haron/news.sh)
 * [2026-01-20, 09:41:23](https://news.ycombinator.com/item?id=46689895) - [Optimizing GPU Programs from Java Using Babylon and Hat](https://openjdk.org/projects/babylon/articles/hat-matmul/hat-matmul)
-* [2026-01-20, 07:04:53](https://news.ycombinator.com/item?id=46688804) - [Google confirms 'high-friction' sideloading flow is coming to Android](https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/)
 
 ## [Archives](archives/index.md)
 
