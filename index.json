@@ -11,32 +11,12 @@
   ],
   [
     [
-      "2026-01-25, 15:02:08",
-      "https://news.ycombinator.com/item?id=46754600"
-    ],
-    [
-      "UN Declares That the World Has Entered an Era of 'Global Water Bankruptcy'",
-      "https://www.smithsonianmag.com/smart-news/united-nations-declares-that-the-world-has-entered-an-era-of-global-water-bankruptcy-180988045/"
-    ]
-  ],
-  [
-    [
       "2026-01-25, 14:42:39",
       "https://news.ycombinator.com/item?id=46754427"
     ],
     [
       "Wine-Staging 11.1 Adds Patches for Enabling Recent Photoshop Versions on Linux",
       "https://www.phoronix.com/news/Wine-Staging-11.1"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 13:59:42",
-      "https://news.ycombinator.com/item?id=46754132"
-    ],
-    [
-      "Iran Protest Death Toll Could Top 30k, According to Local Health Officials",
-      "https://time.com/7357635/more-than-30000-killed-in-iran-say-senior-officials/"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2026-01-20, 19:30:24",
+      "https://news.ycombinator.com/item?id=46696647"
+    ],
+    [
+      "Intrinsically stretchable 2D MoS2 transistors",
+      "https://www.nature.com/articles/s41467-026-68504-2"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 16:10:01",
       "https://news.ycombinator.com/item?id=46693460"
     ],
     [
       "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
       "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 07:56:29",
+      "https://news.ycombinator.com/item?id=46689093"
+    ],
+    [
+      "Show HN: LangGraph architecture that scales (hexagonal pattern, 110 tests)",
+      "https://github.com/cleverhoods/sagecompass"
     ]
   ],
   [
