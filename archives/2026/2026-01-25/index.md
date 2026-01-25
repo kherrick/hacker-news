@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-25](index.md)
 
+* [2026-01-25, 09:33:59](https://news.ycombinator.com/item?id=46752335) - [Accept_language 2.2 – RFC 7231/4647 compliant Accept-Language parsing for Ruby](https://github.com/cyril/accept_language.rb)
 * [2026-01-25, 09:22:17](https://news.ycombinator.com/item?id=46752261) - [Jurassic Park - Tablet device on Nedry's desk? (2012)](https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/)
 * [2026-01-25, 09:04:30](https://news.ycombinator.com/item?id=46752151) - [This paper has been cited more than 6k times. It's fatally flawed.](https://statmodeling.stat.columbia.edu/2026/01/22/aking/)
 * [2026-01-25, 08:57:40](https://news.ycombinator.com/item?id=46752112) - [German economists push for gold repatriation from U.S. vaults](https://seekingalpha.com/news/4542254-german-economists-push-for-gold-repatriation-from-us-vaults)
