@@ -58,6 +58,7 @@
 * [2026-01-21, 14:55:05](https://news.ycombinator.com/item?id=46706535) - [Show HN: PicoFlow – a tiny DSL-style Python library for LLM agent workflows](https://news.ycombinator.com/item?id=46706535)
 * [2026-01-21, 14:54:56](https://news.ycombinator.com/item?id=46706528) - [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
 * [2026-01-21, 14:48:10](https://news.ycombinator.com/item?id=46706442) - [Show HN: UltraContext – A simple context API for AI agents with auto-versioning](https://ultracontext.ai/)
+* [2026-01-21, 14:22:36](https://news.ycombinator.com/item?id=46706100) - [I scanned 2,500 Hugging Face models for malware/issues. Here is the data](https://github.com/ArseniiBrazhnyk/Veritensor)
 * [2026-01-21, 14:12:32](https://news.ycombinator.com/item?id=46705952) - [Comic-Con Bans AI Art After Artist Pushback](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
 * [2026-01-21, 14:05:51](https://news.ycombinator.com/item?id=46705870) - [Uber Faces Growing Pressure over Sexual Assault Record](https://www.nytimes.com/2026/01/21/business/uber-scrutiny-sexual-assault.html)
 * [2026-01-21, 14:01:04](https://news.ycombinator.com/item?id=46705830) - [Show HN: Semantic search engine for Studio Ghibli movie](https://ghibli-search.anini.workers.dev/)
