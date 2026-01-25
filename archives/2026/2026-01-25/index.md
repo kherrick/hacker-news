@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-25](index.md)
 
+* [2026-01-25, 20:28:33](https://news.ycombinator.com/item?id=46757822) - [Yes, It's Fascism](https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/)
 * [2026-01-25, 19:45:10](https://news.ycombinator.com/item?id=46757465) - [Data Leak Exposes 149M Logins, Including Gmail, Facebook](https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/)
 * [2026-01-25, 19:12:50](https://news.ycombinator.com/item?id=46757162) - [Spanish track was fractured before high-speed train disaster, report finds](https://www.bbc.com/news/articles/c1m77dmxlvlo)
 * [2026-01-25, 19:09:58](https://news.ycombinator.com/item?id=46757126) - [The AI Revolution in Coding: Why I'm Ignoring the Prophets of Doom](https://codingismycraft.blog/index.php/2026/01/23/the-ai-revolution-in-coding-why-im-ignoring-the-prophets-of-doom/)
@@ -16,6 +17,7 @@
 * [2026-01-25, 15:13:46](https://news.ycombinator.com/item?id=46754724) - [Show HN: Netfence – Like Envoy for eBPF Filters](https://github.com/danthegoodman1/netfence)
 * [2026-01-25, 15:02:08](https://news.ycombinator.com/item?id=46754600) - [UN Declares That the World Has Entered an Era of 'Global Water Bankruptcy'](https://www.smithsonianmag.com/smart-news/united-nations-declares-that-the-world-has-entered-an-era-of-global-water-bankruptcy-180988045/)
 * [2026-01-25, 14:42:39](https://news.ycombinator.com/item?id=46754427) - [Wine-Staging 11.1 Adds Patches for Enabling Recent Photoshop Versions on Linux](https://www.phoronix.com/news/Wine-Staging-11.1)
+* [2026-01-25, 14:10:12](https://news.ycombinator.com/item?id=46754206) - [Show HN: LLMNet – The Offline Internet, Search the web without the web](https://github.com/skorotkiewicz/llmnet)
 * [2026-01-25, 13:59:42](https://news.ycombinator.com/item?id=46754132) - [Iran Protest Death Toll Could Top 30k, According to Local Health Officials](https://time.com/7357635/more-than-30000-killed-in-iran-say-senior-officials/)
 * [2026-01-25, 12:54:53](https://news.ycombinator.com/item?id=46753708) - [Web-based image editor modeled after Deluxe Paint](https://github.com/steffest/DPaint-js)
 * [2026-01-25, 12:40:00](https://news.ycombinator.com/item?id=46753611) - [Alarm overload is undermining safety at sea as crews face thousands of alerts](https://www.lr.org/en/knowledge/press-room/press-listing/press-release/2026/alarm-overload-is-undermining-safety-at-sea-as-new-research-shows-crews-face-tens-of-thousands-of-daily-alerts/)

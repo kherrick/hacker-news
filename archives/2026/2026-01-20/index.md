@@ -78,6 +78,7 @@
 * [2026-01-20, 10:35:47](https://news.ycombinator.com/item?id=46690330) - [UK consulting on bringing in social media ban for under 16s](https://www.bbc.com/news/articles/cgm4xpyxp7lo)
 * [2026-01-20, 10:30:46](https://news.ycombinator.com/item?id=46690295) - [String Theory Can Now Describe a Universe That Has Dark Energy](https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/)
 * [2026-01-20, 10:02:17](https://news.ycombinator.com/item?id=46690092) - [Kiss Launcher – fast launcher for Android](https://kisslauncher.com/)
+* [2026-01-20, 09:41:23](https://news.ycombinator.com/item?id=46689895) - [Optimizing GPU Programs from Java Using Babylon and Hat](https://openjdk.org/projects/babylon/articles/hat-matmul/hat-matmul)
 * [2026-01-20, 09:33:45](https://news.ycombinator.com/item?id=46689834) - [Workspaces and Monorepos in Package Managers](https://nesbitt.io/2026/01/18/workspaces-and-monorepos-in-package-managers.html)
 * [2026-01-20, 09:08:22](https://news.ycombinator.com/item?id=46689631) - [Extracting verified C++ from the Rocq theorem prover at Bloomberg](https://bloomberg.github.io/crane/)
 * [2026-01-20, 08:34:44](https://news.ycombinator.com/item?id=46689342) - [6 Years Building Video Players. 9B Requests. Starting Over](https://www.mux.com/blog/6-years-building-video-players-9-billion-requests-starting-over)
