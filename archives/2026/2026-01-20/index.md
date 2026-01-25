@@ -18,6 +18,7 @@
 * [2026-01-20, 21:18:26](https://news.ycombinator.com/item?id=46697876) - [Typography on Pencils (2023)](https://www.presentandcorrect.com/blogs/blog/typography-on-pencils-1-5)
 * [2026-01-20, 21:05:02](https://news.ycombinator.com/item?id=46697735) - [Ask HN: Revive a mostly dead Discord server](https://news.ycombinator.com/item?id=46697735)
 * [2026-01-20, 20:45:56](https://news.ycombinator.com/item?id=46697518) - [Show HN: On-device browser agent (Qwen) running locally in Chrome](https://github.com/RunanywhereAI/on-device-browser-agent)
+* [2026-01-20, 20:32:49](https://news.ycombinator.com/item?id=46697390) - [Article on the History of Spot Instances: Analyzing Spot Instance Pricing Change](https://spot.rackspace.com/blogs/history-of-spot-instances)
 * [2026-01-20, 20:23:55](https://news.ycombinator.com/item?id=46697287) - [A scammer's blueprint: How cybercriminals plot to rob a target in a week](https://www.reuters.com/graphics/SOUTHEASTASIA-SCAMS/MANUALS/klpyjlqelvg/)
 * [2026-01-20, 20:05:57](https://news.ycombinator.com/item?id=46697075) - [Google Meet Reactions: Reverse Engineering the WebRTC Channel for Emoji](https://www.agilesoftwaredevelopment.com/en/posts/google-meet-reactions-webrtc/)
 * [2026-01-20, 19:34:48](https://news.ycombinator.com/item?id=46696699) - [OpenAI is rolling out age prediction](https://openai.com/index/our-approach-to-age-prediction/)
