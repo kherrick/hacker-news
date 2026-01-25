@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-25](index.md)
 
+* [2026-01-25, 21:01:37](https://news.ycombinator.com/item?id=46758175) - [AI Tribalism](https://nolanlawson.com/2026/01/24/ai-tribalism/)
+* [2026-01-25, 20:39:25](https://news.ycombinator.com/item?id=46757944) - [OnePlus update blocks downgrades and custom ROMs by blowing a fuse](https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback)
 * [2026-01-25, 20:28:33](https://news.ycombinator.com/item?id=46757822) - [Yes, It's Fascism](https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/)
 * [2026-01-25, 19:45:10](https://news.ycombinator.com/item?id=46757465) - [Data Leak Exposes 149M Logins, Including Gmail, Facebook](https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/)
+* [2026-01-25, 19:31:23](https://news.ycombinator.com/item?id=46757357) - [I was right about ATProto key management](https://notes.nora.codes/atproto-again/)
 * [2026-01-25, 19:12:50](https://news.ycombinator.com/item?id=46757162) - [Spanish track was fractured before high-speed train disaster, report finds](https://www.bbc.com/news/articles/c1m77dmxlvlo)
 * [2026-01-25, 19:09:58](https://news.ycombinator.com/item?id=46757126) - [The AI Revolution in Coding: Why I'm Ignoring the Prophets of Doom](https://codingismycraft.blog/index.php/2026/01/23/the-ai-revolution-in-coding-why-im-ignoring-the-prophets-of-doom/)
 * [2026-01-25, 19:03:40](https://news.ycombinator.com/item?id=46757067) - [First, Make Me Care](https://gwern.net/blog/2026/make-me-care)
