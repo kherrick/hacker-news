@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-01-25, 02:48:36",
-      "https://news.ycombinator.com/item?id=46750214"
-    ],
-    [
-      "Challenges and Research Directions for Large Language Model Inference Hardware",
-      "https://arxiv.org/abs/2601.05047"
-    ]
-  ],
-  [
-    [
       "2026-01-25, 00:14:40",
       "https://news.ycombinator.com/item?id=46749198"
     ],
@@ -277,6 +267,16 @@
     [
       "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
       "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 12:33:32",
+      "https://news.ycombinator.com/item?id=46691152"
+    ],
+    [
+      "Publishing on the ATmosphere",
+      "https://tynanistyping.offprint.app/a/3mcsvjjceei23-publishing-on-the-atmosphere"
     ]
   ],
   [
