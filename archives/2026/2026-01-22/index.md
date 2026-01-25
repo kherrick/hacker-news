@@ -38,6 +38,7 @@
 * [2026-01-22, 16:31:47](https://news.ycombinator.com/item?id=46721488) - [Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)](https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video)
 * [2026-01-22, 16:30:58](https://news.ycombinator.com/item?id=46721474) - [Show HN: BrowserOS – \"Claude Cowork\" in the browser (open source)](https://github.com/browseros-ai/BrowserOS)
 * [2026-01-22, 16:29:25](https://news.ycombinator.com/item?id=46721452) - [Ubisoft cancels six games including Prince of Persia and closes studios](https://www.bbc.co.uk/news/articles/c6200g826d2o)
+* [2026-01-22, 16:27:22](https://news.ycombinator.com/item?id=46721421) - [Draig, a Welsh Programming Language](https://raku.land/zef:l10n/L10N::CY)
 * [2026-01-22, 16:27:02](https://news.ycombinator.com/item?id=46721418) - [Miami, Your Waymo Ride Is Ready](https://waymo.com/blog/2026/01/miami-your-waymo-ride-is-ready)
 * [2026-01-22, 16:13:16](https://news.ycombinator.com/item?id=46721220) - [Zack Polanski to hand in NHS contract termination notice to Palantir](https://www.thecanary.co/uk/news/2026/01/22/zack-polanski-to-hand-in-nhs-contract-termination-notice-to-palantir/)
 * [2026-01-22, 16:10:20](https://news.ycombinator.com/item?id=46721179) - [It looks like the status/need-triage label was removed](https://github.com/google-gemini/gemini-cli/issues/16728)
