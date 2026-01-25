@@ -20,6 +20,7 @@
 * [2026-01-21, 20:49:05](https://news.ycombinator.com/item?id=46711346) - [FreeBSD](https://docs.freebsd.org/en/books/handbook/)
 * [2026-01-21, 20:47:01](https://news.ycombinator.com/item?id=46711313) - [Deaths Linked to AI Chatbots](https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots)
 * [2026-01-21, 20:34:48](https://news.ycombinator.com/item?id=46711171) - [L∃AN together – live stream schedule](https://leanprover-community.github.io/lt2026/schedule.html)
+* [2026-01-21, 19:58:59](https://news.ycombinator.com/item?id=46710747) - [ANN v3: 200ms p99 query latency over 100B vectors](https://turbopuffer.com/blog/ann-v3)
 * [2026-01-21, 19:45:21](https://news.ycombinator.com/item?id=46710569) - [OpenAI API Logs: Unpatched data exfiltration](https://www.promptarmor.com/resources/openai-api-logs-unpatched-data-exfiltration)
 * [2026-01-21, 19:44:45](https://news.ycombinator.com/item?id=46710560) - [Magnetic Remote Control of Biology](https://bsky.app/profile/andrewgyork.bsky.social/post/3mcbrdoftak2l)
 * [2026-01-21, 19:13:44](https://news.ycombinator.com/item?id=46710108) - [How are you automating your coding work?](https://news.ycombinator.com/item?id=46710108)
