@@ -11,22 +11,12 @@
   ],
   [
     [
-      "2026-01-25, 21:07:41",
-      "https://news.ycombinator.com/item?id=46758242"
+      "2026-01-25, 21:27:11",
+      "https://news.ycombinator.com/item?id=46758450"
     ],
     [
-      "Canada",
-      "https://www.jenn.site/on-canada/"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 21:01:37",
-      "https://news.ycombinator.com/item?id=46758175"
-    ],
-    [
-      "AI Tribalism",
-      "https://nolanlawson.com/2026/01/24/ai-tribalism/"
+      "The '3.5% rule': How a small minority can change the world",
+      "https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world"
     ]
   ],
   [
@@ -61,6 +51,16 @@
   ],
   [
     [
+      "2026-01-25, 19:19:12",
+      "https://news.ycombinator.com/item?id=46757224"
+    ],
+    [
+      "The behavioral cost of personalized pricing",
+      "https://digitalseams.com/blog/the-behavioral-cost-of-personalized-pricing"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 19:12:50",
       "https://news.ycombinator.com/item?id=46757162"
     ],
@@ -81,22 +81,32 @@
   ],
   [
     [
+      "2026-01-25, 18:15:49",
+      "https://news.ycombinator.com/item?id=46756530"
+    ],
+    [
+      "On the Methodology of Actual Physics [video]",
+      "https://www.youtube.com/watch?v=SaZFgtmOFek"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 18:06:26",
+      "https://news.ycombinator.com/item?id=46756427"
+    ],
+    [
+      "Show HN: An interactive map of US lighthouses and navigational aids",
+      "https://www.lighthouses.app/"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 17:36:19",
       "https://news.ycombinator.com/item?id=46756117"
     ],
     [
       "ICE using Palantir tool that feeds on Medicaid data",
       "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 17:24:42",
-      "https://news.ycombinator.com/item?id=46755999"
-    ],
-    [
-      "FAA institutes nationwide drone no-fly zones around ICE operations",
-      "https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs"
     ]
   ],
   [
@@ -117,6 +127,26 @@
     [
       "A macOS app that blurs your screen when you slouch",
       "https://github.com/tldev/posturr"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 15:13:46",
+      "https://news.ycombinator.com/item?id=46754724"
+    ],
+    [
+      "Show HN: Netfence – Like Envoy for eBPF Filters",
+      "https://github.com/danthegoodman1/netfence"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 14:55:03",
+      "https://news.ycombinator.com/item?id=46754522"
+    ],
+    [
+      "Bitwise conversion of doubles using only FP multiplication and addition (2020)",
+      "https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/"
     ]
   ],
   [
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2026-01-25, 10:54:29",
-      "https://news.ycombinator.com/item?id=46752907"
-    ],
-    [
-      "150k lines of vibe coded Elixir: The good, the bad and the ugly",
-      "https://getboothiq.com/blog/150k-lines-vibe-coded-elixir-good-bad-ugly"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 09:22:17",
-      "https://news.ycombinator.com/item?id=46752261"
-    ],
-    [
-      "Jurassic Park - Tablet device on Nedry's desk? (2012)",
-      "https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/"
-    ]
-  ],
-  [
-    [
       "2026-01-25, 09:04:30",
       "https://news.ycombinator.com/item?id=46752151"
     ],
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2026-01-22, 13:23:09",
+      "https://news.ycombinator.com/item?id=46718923"
+    ],
+    [
+      "Infinite pancakes, anyone?",
+      "https://www.nytimes.com/2026/01/20/science/infinite-pancake-math-puzzle.html"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 19:58:59",
       "https://news.ycombinator.com/item?id=46710747"
     ],
@@ -237,16 +257,6 @@
     [
       "Show HN: Fence – Sandbox CLI commands with network/filesystem restrictions",
       "https://github.com/Use-Tusk/fence"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 16:10:01",
-      "https://news.ycombinator.com/item?id=46693460"
-    ],
-    [
-      "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
-      "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Google confirms 'high-friction' sideloading flow is coming to Android",
       "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 06:10:54",
-      "https://news.ycombinator.com/item?id=46688476"
-    ],
-    [
-      "The Rebirth of Pennsylvania's Infamous Burning Town",
-      "https://www.atlasobscura.com/articles/centralia-pennsylvania-rebirth"
     ]
   ]
 ]
