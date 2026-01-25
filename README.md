@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-25, 03:41:46](https://news.ycombinator.com/item?id=46750470) - [Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net](https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk)
+* [2026-01-25, 05:07:48](https://news.ycombinator.com/item?id=46750927) - [AI won't take your job. A guy with a $599 Mac Mini and Claude will](https://webmatrices.com/post/ai-won-t-take-your-job-a-guy-with-a-599-mac-mini-and-claude-will)
 * [2026-01-25, 03:36:38](https://news.ycombinator.com/item?id=46750437) - [Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator)
 * [2026-01-25, 03:33:20](https://news.ycombinator.com/item?id=46750425) - [Nvidia-smi hangs indefinitely after ~66 days](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971)
 * [2026-01-25, 03:17:43](https://news.ycombinator.com/item?id=46750358) - [Second Win11 emergency out of band update to address disastrous Patch Tuesday](https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs)

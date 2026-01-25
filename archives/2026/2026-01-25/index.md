@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-25](index.md)
 
+* [2026-01-25, 05:07:48](https://news.ycombinator.com/item?id=46750927) - [AI won't take your job. A guy with a $599 Mac Mini and Claude will](https://webmatrices.com/post/ai-won-t-take-your-job-a-guy-with-a-599-mac-mini-and-claude-will)
 * [2026-01-25, 04:53:29](https://news.ycombinator.com/item?id=46750852) - [Palantir has no place in UK public services](https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/)
 * [2026-01-25, 04:37:58](https://news.ycombinator.com/item?id=46750767) - [TikTok is officially US-owned for American users, here's what's changing](https://9to5mac.com/2026/01/23/tiktok-is-officially-us-owned-for-american-users-heres-whats-changing/)
 * [2026-01-25, 03:44:28](https://news.ycombinator.com/item?id=46750485) - [The Responsibility of Intellectuals](https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/)
