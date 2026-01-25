@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-25, 15:02:08",
+      "https://news.ycombinator.com/item?id=46754600"
+    ],
+    [
+      "UN Declares That the World Has Entered an Era of 'Global Water Bankruptcy'",
+      "https://www.smithsonianmag.com/smart-news/united-nations-declares-that-the-world-has-entered-an-era-of-global-water-bankruptcy-180988045/"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 13:59:42",
       "https://news.ycombinator.com/item?id=46754132"
     ],
     [
       "Iran Protest Death Toll Could Top 30k, According to Local Health Officials",
       "https://time.com/7357635/more-than-30000-killed-in-iran-say-senior-officials/"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 12:54:53",
+      "https://news.ycombinator.com/item?id=46753708"
+    ],
+    [
+      "Web-based image editor modeled after Deluxe Paint",
+      "https://github.com/steffest/DPaint-js"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Bridging the Gap Between PLECS and SPICE",
       "https://erickschulz.dev/posts/plecs-spice/"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 09:33:59",
-      "https://news.ycombinator.com/item?id=46752335"
-    ],
-    [
-      "Accept_language 2.2 – RFC 7231/4647 compliant Accept-Language parsing for Ruby",
-      "https://github.com/cyril/accept_language.rb"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Adoption of EVs tied to real-world reductions in air pollution: study",
       "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 20:03:39",
-      "https://news.ycombinator.com/item?id=46747119"
-    ],
-    [
-      "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
-      "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next"
     ]
   ],
   [
