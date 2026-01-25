@@ -54,6 +54,7 @@
 * [2026-01-22, 14:09:29](https://news.ycombinator.com/item?id=46719423) - [Show HN: I've been using AI to analyze every supplement on the market](https://pillser.com/)
 * [2026-01-22, 13:51:25](https://news.ycombinator.com/item?id=46719229) - [Qwen3-TTS Family Is Now Open Sourced: Voice Design, Clone, and Generation](https://qwen.ai/blog?id=qwen3tts-0115)
 * [2026-01-22, 13:50:48](https://news.ycombinator.com/item?id=46719222) - [Douglas Adams on the English–American cultural divide over \"heroes\"](https://shreevatsa.net/post/douglas-adams-cultural-divide/)
+* [2026-01-22, 13:23:09](https://news.ycombinator.com/item?id=46718923) - [Infinite pancakes, anyone?](https://www.nytimes.com/2026/01/20/science/infinite-pancake-math-puzzle.html)
 * [2026-01-22, 13:18:56](https://news.ycombinator.com/item?id=46718869) - [Now with Mqtts](https://daniel.haxx.se/blog/2026/01/19/now-with-mqtts/)
 * [2026-01-22, 12:48:25](https://news.ycombinator.com/item?id=46718556) - [I am moving away from Scala](https://arbuh.medium.com/why-i-am-moving-away-from-scala-7a9d3dca17b9)
 * [2026-01-22, 12:41:49](https://news.ycombinator.com/item?id=46718485) - [Satya Nadella: \"We need to find something useful for AI\"](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
