@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-25, 00:33:46",
-      "https://news.ycombinator.com/item?id=46749319"
+      "2026-01-25, 01:25:37",
+      "https://news.ycombinator.com/item?id=46749671"
     ],
     [
-      "Tesla unsupervised Robotaxis are nowhere to be found",
-      "https://lightbrd.com/ZacksJerryRig/status/2015119993428705575#m"
+      "Two Weeks Until Tapeout",
+      "https://essenceia.github.io/projects/two_weeks_until_tapeout/"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Europe wants to end its dangerous reliance on US internet technology",
       "https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 21:49:01",
-      "https://news.ycombinator.com/item?id=46748077"
-    ],
-    [
-      "I don't write code anymore – I sculpt it",
-      "https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/"
     ]
   ],
   [
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2026-01-24, 17:01:31",
-      "https://news.ycombinator.com/item?id=46745233"
-    ],
-    [
-      "Tao Te Ching – Translated by Ursula K. Le Guin",
-      "https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md"
-    ]
-  ],
-  [
-    [
       "2026-01-24, 16:16:02",
       "https://news.ycombinator.com/item?id=46744807"
     ],
@@ -231,16 +211,6 @@
   ],
   [
     [
-      "2026-01-24, 10:14:31",
-      "https://news.ycombinator.com/item?id=46742362"
-    ],
-    [
-      "Doing gigabit Ethernet over my British phone wires",
-      "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/"
-    ]
-  ],
-  [
-    [
       "2026-01-24, 08:15:02",
       "https://news.ycombinator.com/item?id=46741923"
     ],
@@ -251,12 +221,42 @@
   ],
   [
     [
+      "2026-01-24, 06:09:30",
+      "https://news.ycombinator.com/item?id=46741472"
+    ],
+    [
+      "Show HN: Open-source Figma design to code",
+      "https://github.com/vibeflowing-inc/vibe_figma"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 20:07:49",
       "https://news.ycombinator.com/item?id=46737202"
     ],
     [
       "Maze Algorithms (2017)",
       "http://www.jamisbuck.org/mazes/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 16:27:22",
+      "https://news.ycombinator.com/item?id=46721421"
+    ],
+    [
+      "Draig, a Welsh Programming Language",
+      "https://raku.land/zef:l10n/L10N::CY"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 14:01:04",
+      "https://news.ycombinator.com/item?id=46705830"
+    ],
+    [
+      "Show HN: Semantic search engine for Studio Ghibli movie",
+      "https://ghibli-search.anini.workers.dev/"
     ]
   ],
   [
