@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-01-25, 03:41:46",
-      "https://news.ycombinator.com/item?id=46750470"
-    ],
-    [
-      "Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net",
-      "https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk"
-    ]
-  ],
-  [
-    [
       "2026-01-25, 03:36:38",
       "https://news.ycombinator.com/item?id=46750437"
     ],
@@ -77,6 +67,16 @@
     [
       "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
       "https://arxiv.org/abs/2601.05047"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 02:18:47",
+      "https://news.ycombinator.com/item?id=46750024"
+    ],
+    [
+      "Vortex Support in DuckDB",
+      "https://duckdb.org/2026/01/23/duckdb-vortex-extension"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2026-01-24, 20:33:40",
-      "https://news.ycombinator.com/item?id=46747366"
-    ],
-    [
-      "I added a Bluesky comment section to my blog",
-      "https://micahcantor.com/blog/bluesky-comment-section.html"
-    ]
-  ],
-  [
-    [
       "2026-01-24, 20:03:39",
       "https://news.ycombinator.com/item?id=46747119"
     ],
@@ -167,6 +157,16 @@
     [
       "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
       "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 18:42:13",
+      "https://news.ycombinator.com/item?id=46746266"
+    ],
+    [
+      "Understanding Rust Closures",
+      "https://antoine.vandecreme.net/blog/rust-closures/"
     ]
   ],
   [
