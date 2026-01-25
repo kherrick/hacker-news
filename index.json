@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-01-24, 21:24:13",
-      "https://news.ycombinator.com/item?id=46747827"
-    ],
-    [
-      "Poland's energy grid was targeted by never-before-seen wiper malware",
-      "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/"
-    ]
-  ],
-  [
-    [
       "2026-01-24, 20:03:39",
       "https://news.ycombinator.com/item?id=46747119"
     ],
@@ -277,6 +267,16 @@
     [
       "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
       "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 15:00:48",
+      "https://news.ycombinator.com/item?id=46692473"
+    ],
+    [
+      "Putting Rocks on the Moon",
+      "https://ahwoo.com/posts/019bd882-d104-7347-be7b-8e0a5ce13cb5"
     ]
   ],
   [
