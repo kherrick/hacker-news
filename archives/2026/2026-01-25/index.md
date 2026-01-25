@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-25](index.md)
 
+* [2026-01-25, 09:04:30](https://news.ycombinator.com/item?id=46752151) - [This paper has been cited more than 6k times. It's fatally flawed.](https://statmodeling.stat.columbia.edu/2026/01/22/aking/)
+* [2026-01-25, 08:57:40](https://news.ycombinator.com/item?id=46752112) - [German economists push for gold repatriation from U.S. vaults](https://seekingalpha.com/news/4542254-german-economists-push-for-gold-repatriation-from-us-vaults)
 * [2026-01-25, 08:22:17](https://news.ycombinator.com/item?id=46751899) - [Deutsche Telekom is violating Net Neutrality](https://netzbremse.de/en/)
 * [2026-01-25, 08:08:43](https://news.ycombinator.com/item?id=46751835) - [Like digging 'your own grave': The translators grappling with losing work to AI](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 * [2026-01-25, 07:36:20](https://news.ycombinator.com/item?id=46751675) - [Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators](https://github.com/divyaprakash0426/autoshorts)

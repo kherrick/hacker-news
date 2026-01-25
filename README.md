@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-25, 09:04:30](https://news.ycombinator.com/item?id=46752151) - [This paper has been cited more than 6k times. It's fatally flawed.](https://statmodeling.stat.columbia.edu/2026/01/22/aking/)
+* [2026-01-25, 08:57:40](https://news.ycombinator.com/item?id=46752112) - [German economists push for gold repatriation from U.S. vaults](https://seekingalpha.com/news/4542254-german-economists-push-for-gold-repatriation-from-us-vaults)
 * [2026-01-25, 08:22:17](https://news.ycombinator.com/item?id=46751899) - [Deutsche Telekom is violating Net Neutrality](https://netzbremse.de/en/)
 * [2026-01-25, 08:08:43](https://news.ycombinator.com/item?id=46751835) - [Like digging 'your own grave': The translators grappling with losing work to AI](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 * [2026-01-25, 07:36:20](https://news.ycombinator.com/item?id=46751675) - [Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators](https://github.com/divyaprakash0426/autoshorts)
-* [2026-01-25, 05:09:38](https://news.ycombinator.com/item?id=46750937) - [What Ralph Wiggum loops are missing](https://xr0am.substack.com/p/what-ralph-wiggum-loops-are-missing)
-* [2026-01-25, 03:36:38](https://news.ycombinator.com/item?id=46750437) - [Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator)
 * [2026-01-25, 03:33:20](https://news.ycombinator.com/item?id=46750425) - [Nvidia-smi hangs indefinitely after ~66 days](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971)
 * [2026-01-25, 03:17:43](https://news.ycombinator.com/item?id=46750358) - [Second Win11 emergency out of band update to address disastrous Patch Tuesday](https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs)
 * [2026-01-25, 02:48:36](https://news.ycombinator.com/item?id=46750214) - [David Patterson: Challenges and Research Directions for LLM Inference Hardware](https://arxiv.org/abs/2601.05047)
