@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-25, 12:02:01",
+      "https://news.ycombinator.com/item?id=46753336"
+    ],
+    [
+      "Nango (YC W23, Dev Infrastructure) Is Hiring Remotely",
+      "https://jobs.ashbyhq.com/Nango"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 11:19:04",
+      "https://news.ycombinator.com/item?id=46753078"
+    ],
+    [
+      "Show HN: TUI for managing XDG default applications",
+      "https://github.com/mitjafelicijan/xdgctl"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 09:33:59",
       "https://news.ycombinator.com/item?id=46752335"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2026-01-25, 03:17:43",
-      "https://news.ycombinator.com/item?id=46750358"
-    ],
-    [
-      "Second Win11 emergency out of band update to address disastrous Patch Tuesday",
-      "https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs"
-    ]
-  ],
-  [
-    [
       "2026-01-25, 02:48:36",
       "https://news.ycombinator.com/item?id=46750214"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-01-24, 18:42:13",
-      "https://news.ycombinator.com/item?id=46746266"
-    ],
-    [
-      "Understanding Rust Closures",
-      "https://antoine.vandecreme.net/blog/rust-closures/"
-    ]
-  ],
-  [
-    [
       "2026-01-24, 18:06:00",
       "https://news.ycombinator.com/item?id=46745922"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-01-24, 08:15:02",
-      "https://news.ycombinator.com/item?id=46741923"
-    ],
-    [
-      "Shared Claude: A website controlled by the public",
-      "https://sharedclaude.com/"
-    ]
-  ],
-  [
-    [
       "2026-01-23, 20:07:49",
       "https://news.ycombinator.com/item?id=46737202"
     ],
@@ -227,6 +217,16 @@
     [
       "BU-808: How to Prolong Lithium-based Batteries (2023)",
       "https://www.batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries/"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 14:22:36",
+      "https://news.ycombinator.com/item?id=46706100"
+    ],
+    [
+      "I scanned 2,500 Hugging Face models for malware/issues. Here is the data",
+      "https://github.com/ArseniiBrazhnyk/Veritensor"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-01-20, 11:38:31",
-      "https://news.ycombinator.com/item?id=46690779"
-    ],
-    [
-      "Small Kafka: Tansu and SQLite on a free t3.micro",
-      "https://blog.tansu.io/articles/broker-aws-free-tier"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 07:04:53",
       "https://news.ycombinator.com/item?id=46688804"
     ],
     [
       "Google confirms 'high-friction' sideloading flow is coming to Android",
       "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 06:10:54",
+      "https://news.ycombinator.com/item?id=46688476"
+    ],
+    [
+      "The Rebirth of Pennsylvania's Infamous Burning Town",
+      "https://www.atlasobscura.com/articles/centralia-pennsylvania-rebirth"
     ]
   ]
 ]
