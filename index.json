@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-01-25, 11:28:33",
-      "https://news.ycombinator.com/item?id=46753142"
-    ],
-    [
-      "Wall Street braced for a private credit meltdown. The risk of one is rising",
-      "https://www.cnbc.com/2026/01/23/wall-street-private-credit-risk-rising.html"
-    ]
-  ],
-  [
-    [
       "2026-01-25, 11:19:04",
       "https://news.ycombinator.com/item?id=46753078"
     ],
@@ -217,6 +207,16 @@
     [
       "BU-808: How to Prolong Lithium-based Batteries (2023)",
       "https://www.batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries/"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 19:58:59",
+      "https://news.ycombinator.com/item?id=46710747"
+    ],
+    [
+      "ANN v3: 200ms p99 query latency over 100B vectors",
+      "https://turbopuffer.com/blog/ann-v3"
     ]
   ],
   [
