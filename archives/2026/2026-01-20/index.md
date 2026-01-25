@@ -69,6 +69,7 @@
 * [2026-01-20, 13:10:08](https://news.ycombinator.com/item?id=46691454) - [Show HN: Ocrbase – pdf → .md/.json document OCR and structured extraction API](https://github.com/majcheradam/ocrbase)
 * [2026-01-20, 12:45:57](https://news.ycombinator.com/item?id=46691243) - [Ask HN: Do you have any evidence that agentic coding works?](https://news.ycombinator.com/item?id=46691243)
 * [2026-01-20, 12:33:32](https://news.ycombinator.com/item?id=46691152) - [Publishing on the ATmosphere](https://tynanistyping.offprint.app/a/3mcsvjjceei23-publishing-on-the-atmosphere)
+* [2026-01-20, 12:30:08](https://news.ycombinator.com/item?id=46691130) - [Hackable personal news reader in bash pipes](https://github.com/haron/news.sh)
 * [2026-01-20, 12:28:13](https://news.ycombinator.com/item?id=46691108) - [When employees feel slighted, they work less](https://penntoday.upenn.edu/news/penn-wharton-when-employees-feel-slighted-they-work-less)
 * [2026-01-20, 12:00:31](https://news.ycombinator.com/item?id=46690920) - [Channel3 (YC S25) Is Hiring](https://www.ycombinator.com/companies/channel3/jobs/3DIAYYY-backend-engineer)
 * [2026-01-20, 11:58:34](https://news.ycombinator.com/item?id=46690907) - [Running Claude Code dangerously (safely)](https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/)
