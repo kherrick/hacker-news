@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-25, 15:34:51](https://news.ycombinator.com/item?id=46754944) - [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
-* [2026-01-25, 15:02:08](https://news.ycombinator.com/item?id=46754600) - [UN Declares That the World Has Entered an Era of 'Global Water Bankruptcy'](https://www.smithsonianmag.com/smart-news/united-nations-declares-that-the-world-has-entered-an-era-of-global-water-bankruptcy-180988045/)
 * [2026-01-25, 14:42:39](https://news.ycombinator.com/item?id=46754427) - [Wine-Staging 11.1 Adds Patches for Enabling Recent Photoshop Versions on Linux](https://www.phoronix.com/news/Wine-Staging-11.1)
-* [2026-01-25, 13:59:42](https://news.ycombinator.com/item?id=46754132) - [Iran Protest Death Toll Could Top 30k, According to Local Health Officials](https://time.com/7357635/more-than-30000-killed-in-iran-say-senior-officials/)
 * [2026-01-25, 12:54:53](https://news.ycombinator.com/item?id=46753708) - [Web-based image editor modeled after Deluxe Paint](https://github.com/steffest/DPaint-js)
 * [2026-01-25, 12:40:00](https://news.ycombinator.com/item?id=46753611) - [Alarm overload is undermining safety at sea as crews face thousands of alerts](https://www.lr.org/en/knowledge/press-room/press-listing/press-release/2026/alarm-overload-is-undermining-safety-at-sea-as-new-research-shows-crews-face-tens-of-thousands-of-daily-alerts/)
 * [2026-01-25, 12:22:12](https://news.ycombinator.com/item?id=46753484) - [Doom has been ported to an earbud](https://doombuds.com)
@@ -27,7 +25,9 @@
 * [2026-01-23, 00:18:06](https://news.ycombinator.com/item?id=46726827) - [Back to Bellevue](https://theamericanscholar.org/back-to-bellevue/)
 * [2026-01-21, 19:58:59](https://news.ycombinator.com/item?id=46710747) - [ANN v3: 200ms p99 query latency over 100B vectors](https://turbopuffer.com/blog/ann-v3)
 * [2026-01-21, 00:35:01](https://news.ycombinator.com/item?id=46699697) - [A Lament for Aperture](https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/)
+* [2026-01-20, 19:30:24](https://news.ycombinator.com/item?id=46696647) - [Intrinsically stretchable 2D MoS2 transistors](https://www.nature.com/articles/s41467-026-68504-2)
 * [2026-01-20, 16:10:01](https://news.ycombinator.com/item?id=46693460) - [I built a 2x faster lexer, then discovered I/O was the real bottleneck](https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/)
+* [2026-01-20, 07:56:29](https://news.ycombinator.com/item?id=46689093) - [Show HN: LangGraph architecture that scales (hexagonal pattern, 110 tests)](https://github.com/cleverhoods/sagecompass)
 * [2026-01-20, 07:04:53](https://news.ycombinator.com/item?id=46688804) - [Google confirms 'high-friction' sideloading flow is coming to Android](https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/)
 * [2026-01-20, 06:10:54](https://news.ycombinator.com/item?id=46688476) - [The Rebirth of Pennsylvania's Infamous Burning Town](https://www.atlasobscura.com/articles/centralia-pennsylvania-rebirth)
 
