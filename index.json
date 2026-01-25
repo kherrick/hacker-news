@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-01-25, 17:24:42",
-      "https://news.ycombinator.com/item?id=46755999"
-    ],
-    [
-      "FAA institutes nationwide drone no-fly zones around ICE operations",
-      "https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs"
-    ]
-  ],
-  [
-    [
       "2026-01-25, 15:51:03",
       "https://news.ycombinator.com/item?id=46755115"
     ],
@@ -201,6 +191,26 @@
   ],
   [
     [
+      "2026-01-25, 06:06:33",
+      "https://news.ycombinator.com/item?id=46751231"
+    ],
+    [
+      "World’s most powerful literary critic is on TikTok",
+      "https://www.newstatesman.com/culture/books/2026/01/the-worlds-most-powerful-literary-critic-is-on-tiktok"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 02:48:36",
+      "https://news.ycombinator.com/item?id=46750214"
+    ],
+    [
+      "Challenges and Research Directions for Large Language Model Inference Hardware",
+      "https://arxiv.org/abs/2601.05047"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 00:14:40",
       "https://news.ycombinator.com/item?id=46749198"
     ],
@@ -267,16 +277,6 @@
     [
       "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
       "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 07:56:29",
-      "https://news.ycombinator.com/item?id=46689093"
-    ],
-    [
-      "Show HN: LangGraph architecture that scales (hexagonal pattern, 110 tests)",
-      "https://github.com/cleverhoods/sagecompass"
     ]
   ],
   [
