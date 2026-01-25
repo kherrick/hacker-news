@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-25, 23:01:06",
+      "https://news.ycombinator.com/item?id=46759520"
+    ],
+    [
+      "Show HN: A small programming language where everything is a value",
+      "https://github.com/Jcparkyn/herd"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 22:44:50",
+      "https://news.ycombinator.com/item?id=46759352"
+    ],
+    [
+      "Case study: Creative math – How AI fakes proofs",
+      "https://tomaszmachnik.pl/case-study-math-en.html"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 21:44:10",
       "https://news.ycombinator.com/item?id=46758644"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-01-25, 09:22:17",
-      "https://news.ycombinator.com/item?id=46752261"
-    ],
-    [
-      "Jurassic Park - Tablet device on Nedry's desk? (2012)",
-      "https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/"
-    ]
-  ],
-  [
-    [
       "2026-01-25, 09:04:30",
       "https://news.ycombinator.com/item?id=46752151"
     ],
@@ -237,16 +247,6 @@
     [
       "Infinite pancakes, anyone?",
       "https://www.nytimes.com/2026/01/20/science/infinite-pancake-math-puzzle.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 19:58:59",
-      "https://news.ycombinator.com/item?id=46710747"
-    ],
-    [
-      "ANN v3: 200ms p99 query latency over 100B vectors",
-      "https://turbopuffer.com/blog/ann-v3"
     ]
   ],
   [
