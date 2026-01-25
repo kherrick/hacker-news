@@ -7,7 +7,6 @@
 * [2026-01-25, 03:33:20](https://news.ycombinator.com/item?id=46750425) - [nvidia-smi hangs indefinitely after ~66 days](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971)
 * [2026-01-25, 03:17:43](https://news.ycombinator.com/item?id=46750358) - [Second Win11 emergency out of band update to address disastrous Patch Tuesday](https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs)
 * [2026-01-25, 02:48:36](https://news.ycombinator.com/item?id=46750214) - [David Patterson: Challenges and Research Directions for LLM Inference Hardware](https://arxiv.org/abs/2601.05047)
-* [2026-01-25, 02:18:47](https://news.ycombinator.com/item?id=46750024) - [Vortex Support in DuckDB](https://duckdb.org/2026/01/23/duckdb-vortex-extension)
 * [2026-01-25, 01:25:37](https://news.ycombinator.com/item?id=46749671) - [Two Weeks Until Tapeout](https://essenceia.github.io/projects/two_weeks_until_tapeout/)
 * [2026-01-25, 00:14:40](https://news.ycombinator.com/item?id=46749198) - [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 * [2026-01-24, 23:55:10](https://news.ycombinator.com/item?id=46749053) - [We X-Rayed a Suspicious FTDI USB Cable](https://eclypsium.com/blog/xray-counterfeit-usb-cable/)
@@ -28,6 +27,7 @@
 * [2026-01-21, 00:35:01](https://news.ycombinator.com/item?id=46699697) - [A Lament for Aperture](https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/)
 * [2026-01-20, 21:18:26](https://news.ycombinator.com/item?id=46697876) - [Typography on Pencils (2023)](https://www.presentandcorrect.com/blogs/blog/typography-on-pencils-1-5)
 * [2026-01-20, 14:07:39](https://news.ycombinator.com/item?id=46691963) - [The Temporal Consistency Challenge in Video Restoration](https://blog.videowatermarkremove.com/the-temporal-consistency-challenge-from-optical-flow-to-spatiotemporal-ai-in-video-restoration)
+* [2026-01-20, 13:19:49](https://news.ycombinator.com/item?id=46691531) - [Australian Decacorns](https://www.sohum.com/australian-decacorns/)
 * [2026-01-20, 11:38:31](https://news.ycombinator.com/item?id=46690779) - [Small Kafka: Tansu and SQLite on a free t3.micro](https://blog.tansu.io/articles/broker-aws-free-tier)
 * [2026-01-20, 07:04:53](https://news.ycombinator.com/item?id=46688804) - [Google confirms 'high-friction' sideloading flow is coming to Android](https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/)
 
