@@ -2,6 +2,7 @@
 
 * [2026-01-26, 04:18:19](https://news.ycombinator.com/item?id=46761822) - [Iran's internet blackout may become permanent, with access for elites only](https://restofworld.org/2026/iran-blackout-tiered-internet/)
 * [2026-01-26, 03:40:06](https://news.ycombinator.com/item?id=46761614) - [Environmentalists worry Google behind bid to control Oregon town's water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php)
+* [2026-01-26, 02:38:55](https://news.ycombinator.com/item?id=46761219) - [SF Microclimates](https://microclimates.solofounders.com/)
 * [2026-01-26, 02:15:52](https://news.ycombinator.com/item?id=46761061) - [Microsoft suspects some PCs might not boot after Windows 11 January 2026 Update](https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/)
 * [2026-01-26, 02:07:34](https://news.ycombinator.com/item?id=46760998) - [Video Games as Art](https://gwern.net/video-game-art)
 * [2026-01-26, 00:27:41](https://news.ycombinator.com/item?id=46760237) - [Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot)
@@ -17,7 +18,6 @@
 * [2026-01-25, 17:36:19](https://news.ycombinator.com/item?id=46756117) - [ICE using Palantir tool that feeds on Medicaid data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data)
 * [2026-01-25, 15:51:03](https://news.ycombinator.com/item?id=46755115) - [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq)
 * [2026-01-25, 15:34:51](https://news.ycombinator.com/item?id=46754944) - [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
-* [2026-01-25, 15:13:46](https://news.ycombinator.com/item?id=46754724) - [Show HN: Netfence – Like Envoy for eBPF Filters](https://github.com/danthegoodman1/netfence)
 * [2026-01-25, 14:55:03](https://news.ycombinator.com/item?id=46754522) - [Bitwise conversion of doubles using only FP multiplication and addition (2020)](https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/)
 * [2026-01-25, 12:54:53](https://news.ycombinator.com/item?id=46753708) - [Web-based image editor modeled after Deluxe Paint](https://github.com/steffest/DPaint-js)
 * [2026-01-25, 12:22:12](https://news.ycombinator.com/item?id=46753484) - [Doom has been ported to an earbud](https://doombuds.com)
@@ -27,9 +27,9 @@
 * [2026-01-22, 14:52:43](https://news.ycombinator.com/item?id=46719958) - [Building a Real-Time HN Display for $15](https://medium.com/@lee.harding/building-a-real-time-hn-display-for-15-3ea1772051ff)
 * [2026-01-22, 13:23:09](https://news.ycombinator.com/item?id=46718923) - [Infinite pancakes, anyone?](https://www.nytimes.com/2026/01/20/science/infinite-pancake-math-puzzle.html)
 * [2026-01-22, 03:37:03](https://news.ycombinator.com/item?id=46714981) - [Delta single handle ball faucets (1963)](https://archive.org/details/DeltaSingleHandleBallFaucets)
+* [2026-01-21, 13:20:53](https://news.ycombinator.com/item?id=46705337) - [Integrating WebView with Nature Programming Language](https://nature-lang.org/blog/20260121)
 * [2026-01-20, 18:49:20](https://news.ycombinator.com/item?id=46696111) - [Turbopack: Building faster by building less](https://nextjs.org/blog/turbopack-incremental-computation)
 * [2026-01-20, 11:15:33](https://news.ycombinator.com/item?id=46690592) - [Guix for Development](https://dthompson.us/posts/guix-for-development.html)
-* [2026-01-20, 09:41:23](https://news.ycombinator.com/item?id=46689895) - [Optimizing GPU Programs from Java Using Babylon and Hat](https://openjdk.org/projects/babylon/articles/hat-matmul/hat-matmul)
 
 ## [Archives](archives/index.md)
 

@@ -69,6 +69,7 @@
 * [2026-01-21, 13:42:53](https://news.ycombinator.com/item?id=46705606) - [AI Destroys Institutions](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
 * [2026-01-21, 13:35:41](https://news.ycombinator.com/item?id=46705512) - [The first 100 days as a Renovate maintainer](https://www.jvt.me/posts/2026/01/21/renovate-100-days/)
 * [2026-01-21, 13:25:06](https://news.ycombinator.com/item?id=46705385) - [Canada Announces Divorce from America](https://charlotteclymer.substack.com/p/canada-announces-divorce-from-america)
+* [2026-01-21, 13:20:53](https://news.ycombinator.com/item?id=46705337) - [Integrating WebView with Nature Programming Language](https://nature-lang.org/blog/20260121)
 * [2026-01-21, 13:13:06](https://news.ycombinator.com/item?id=46705256) - [Swedish Alecta has sold off an estimated $8B of US Treasury Bonds](https://www.di.se/nyheter/di-avslojar-alecta-har-dumpat-amerikanska-statspapper/)
 * [2026-01-21, 13:08:35](https://news.ycombinator.com/item?id=46705201) - [Nested Code Fences in Markdown](https://susam.net/nested-code-fences.html)
 * [2026-01-21, 13:03:07](https://news.ycombinator.com/item?id=46705134) - [Microservices for the Benefits, Not the Hustle](https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3)
