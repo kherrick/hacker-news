@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-26, 14:27:00",
+      "https://news.ycombinator.com/item?id=46766031"
+    ],
+    [
+      "Google AI Overviews cite YouTube more than any medical site for health queries",
+      "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 14:10:25",
+      "https://news.ycombinator.com/item?id=46765819"
+    ],
+    [
+      "Apple introduces new AirTag with longer range and improved findability",
+      "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 13:58:27",
       "https://news.ycombinator.com/item?id=46765694"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-01-26, 00:27:41",
-      "https://news.ycombinator.com/item?id=46760237"
-    ],
-    [
-      "Clawdbot - open source personal AI assistant",
-      "https://github.com/clawdbot/clawdbot"
-    ]
-  ],
-  [
-    [
       "2026-01-26, 00:10:42",
       "https://news.ycombinator.com/item?id=46760099"
     ],
@@ -177,16 +187,6 @@
     [
       "LED lighting undermines visual performance unless supplemented by wider spectra",
       "https://www.nature.com/articles/s41598-026-35389-6"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 19:31:23",
-      "https://news.ycombinator.com/item?id=46757357"
-    ],
-    [
-      "I was right about ATProto key management",
-      "https://notes.nora.codes/atproto-again/"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=46710981"
     ],
     [
-      "Clinic-in-the-Loop",
+      "Clinic-in-the-loop",
       "https://www.asimov.press/p/clinic-loop"
     ]
   ],
