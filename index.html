@@ -141,11 +141,11 @@
             <h4>
               <span>2026-01-26 @ 05:23:01</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46762150"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -163,11 +163,11 @@
             <h4>
               <span>2026-01-26 @ 04:18:19</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">175</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46761822"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -185,45 +185,13 @@
             <h4>
               <span>2026-01-26 @ 03:40:06</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46761614"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46761493">
-          <h3>
-            <a class="item" href="https://nukecast.com/"
-              >Show HN: NukeCast – If it happened today, where would the fallout
-              go</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-26 @ 03:21:12</span
-              ><span class="points-container"
-                >Points: <span class="points">5</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46761493"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-            <div class="text">
-              I built NukeCast because I’ve always wanted a tool that answers
-              one question fast. If it happened today, where would the fallout
-              plumes go and where would you drive to get out of it. NukeCast
-              uses weather forecasts to drive a Lagrangian particle dispersion
-              model with wet and dry deposition. Scenarios are defined by
-              selecting strike site(s) and yield(s); the setup uses preselected
-              US sites and yields based on FEMA emergency data. Outputs are
-              shown as estimated ground level radiation dose at the surface over
-              a 12 hour integration. Free to use with limits, and a paid tier if
-              you want more runs/features because AWS compute time ain’t cheap.
-            </div>
           </section>
         </section>
         <section id="46761239">
@@ -238,11 +206,11 @@
             <h4>
               <span>2026-01-26 @ 02:41:32</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46761239"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -257,11 +225,11 @@
             <h4>
               <span>2026-01-26 @ 02:07:34</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46760998"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -278,17 +246,84 @@
             <h4>
               <span>2026-01-26 @ 02:01:04</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46760927"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
             <div class="text">
               <a href="https://microclimates.solofounders.com/"
                 >https://microclimates.solofounders.com/</a
               >
+            </div>
+          </section>
+        </section>
+        <section id="46760285">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=46760285"
+              >Tell HN: I cut Claude API costs from $70/month to pennies</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-26 @ 00:34:17</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46760285"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I'd done napkin math beforehand, so I knew it was probably a
+                bug, but still. Turns out it was only partially a bug. The rest
+                was me needing to rethink how I built this thing. Spent the next
+                couple days ripping it apart. Making tweaks, testing with live
+                data, checking results, trying again. What I found was I was
+                sending API requests too often and not optimizing what I was
+                sending and receiving.
+              </p>
+              <p>
+                Here's what moved the needle, roughly big to small (besides that
+                bug that was costin me a buck a day alone):
+              </p>
+              <p>
+                - Dropped Claude Sonnet entirely - tested both models on the
+                same data, Haiku actually performed better at a third of the
+                cost
+              </p>
+              <p>
+                - Started batching everything - hourly calls were a money fire
+              </p>
+              <p>
+                - Filter before the AI - "lol" and "thanks" are a lot of online
+                chatter. I was paying AI to tell me that's not feedback. That
+                said, I still process agreements like "+1" and "me too."
+              </p>
+              <p>
+                - Shorter outputs - "H/M/L" instead of "high/medium/low",
+                40-char title recommendation
+              </p>
+              <p>
+                - Strip code snippets before processing - just reiterating the
+                issue and bloating the call
+              </p>
+              <p>End of the week: pennies a day. Same quality.</p>
+              <p>
+                I'm not building a VC-backed app that can run at a loss for
+                years. I'm unemployed, trying to build something that might also
+                pay rent. The math has to work from day one.
+              </p>
+              <p>
+                The upside: these savings let me 3x my pricing tier limits and
+                add intermittent quality checks. Headroom I wouldn't have had
+                otherwise.
+              </p>
+              <p>Happy to answer questions.</p>
             </div>
           </section>
         </section>
@@ -305,11 +340,11 @@
             <h4>
               <span>2026-01-26 @ 00:10:42</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46760099"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
             <div class="text">
@@ -330,11 +365,11 @@
             <h4>
               <span>2026-01-25 @ 23:38:55</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46759850"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
             <div class="text">
@@ -356,11 +391,11 @@
             <h4>
               <span>2026-01-25 @ 22:47:55</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46759387"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
             <div class="text">
@@ -416,11 +451,11 @@
             <h4>
               <span>2026-01-25 @ 22:44:50</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46759352"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -437,11 +472,11 @@
             <h4>
               <span>2026-01-25 @ 22:18:38</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46759063"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -459,11 +494,11 @@
             <h4>
               <span>2026-01-25 @ 21:27:11</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">269</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46758450"
                   >Comments</a
-                ><span class="descendants">: 184</span></span
+                ><span class="descendants">: 189</span></span
               >
             </h4>
           </section>
@@ -480,11 +515,11 @@
             <h4>
               <span>2026-01-25 @ 20:39:25</span
               ><span class="points-container"
-                >Points: <span class="points">393</span></span
+                >Points: <span class="points">396</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46757944"
                   >Comments</a
-                ><span class="descendants">: 234</span></span
+                ><span class="descendants">: 237</span></span
               >
             </h4>
           </section>
@@ -502,7 +537,7 @@
             <h4>
               <span>2026-01-25 @ 19:12:50</span
               ><span class="points-container"
-                >Points: <span class="points">186</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46757162"
                   >Comments</a
@@ -521,11 +556,11 @@
             <h4>
               <span>2026-01-25 @ 19:03:40</span
               ><span class="points-container"
-                >Points: <span class="points">533</span></span
+                >Points: <span class="points">540</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46757067"
                   >Comments</a
-                ><span class="descendants">: 155</span></span
+                ><span class="descendants">: 157</span></span
               >
             </h4>
           </section>
@@ -541,7 +576,7 @@
             <h4>
               <span>2026-01-25 @ 18:06:26</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46756427"
                   >Comments</a
@@ -583,11 +618,11 @@
             <h4>
               <span>2026-01-25 @ 17:36:19</span
               ><span class="points-container"
-                >Points: <span class="points">1122</span></span
+                >Points: <span class="points">1135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46756117"
                   >Comments</a
-                ><span class="descendants">: 677</span></span
+                ><span class="descendants">: 679</span></span
               >
             </h4>
           </section>
@@ -605,7 +640,7 @@
             <h4>
               <span>2026-01-25 @ 15:51:03</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46755115"
                   >Comments</a
@@ -624,11 +659,11 @@
             <h4>
               <span>2026-01-25 @ 15:34:51</span
               ><span class="points-container"
-                >Points: <span class="points">562</span></span
+                >Points: <span class="points">565</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46754944"
                   >Comments</a
-                ><span class="descendants">: 179</span></span
+                ><span class="descendants">: 180</span></span
               >
             </h4>
           </section>
@@ -646,7 +681,7 @@
             <h4>
               <span>2026-01-25 @ 14:55:03</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46754522"
                   >Comments</a
@@ -665,7 +700,7 @@
             <h4>
               <span>2026-01-25 @ 12:54:53</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46753708"
                   >Comments</a
@@ -686,11 +721,11 @@
             <h4>
               <span>2026-01-25 @ 05:12:12</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46750951"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -705,11 +740,11 @@
             <h4>
               <span>2026-01-23 @ 15:03:08</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46733306"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -726,11 +761,11 @@
             <h4>
               <span>2026-01-22 @ 14:52:43</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46719958"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -747,7 +782,7 @@
             <h4>
               <span>2026-01-22 @ 03:37:03</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46714981"
                   >Comments</a
@@ -787,11 +822,11 @@
             <h4>
               <span>2026-01-20 @ 18:49:20</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46696111"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -808,11 +843,11 @@
             <h4>
               <span>2026-01-20 @ 11:15:33</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46690592"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -827,11 +862,11 @@
             <h4>
               <span>2026-01-20 @ 10:56:02</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46690463"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
