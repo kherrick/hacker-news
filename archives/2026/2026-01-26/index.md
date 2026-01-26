@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 22:03:04](https://news.ycombinator.com/item?id=46772212) - [State of the Windows: What is going on with Windows 11?](https://ntdotdev.wordpress.com/2026/01/25/state-of-the-windows-what-is-going-on-with-windows-11/)
+* [2026-01-26, 21:27:15](https://news.ycombinator.com/item?id=46771779) - [Refusing to Use Twitter](https://blog.korny.info/2026/01/25/refusing-to-use-twitter)
 * [2026-01-26, 21:11:53](https://news.ycombinator.com/item?id=46771599) - [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)
 * [2026-01-26, 19:56:18](https://news.ycombinator.com/item?id=46770675) - [AI Lazyslop and Personal Responsibility](https://danielsada.tech/blog/ai-lazyslop-and-personal-responsibility/)
 * [2026-01-26, 19:23:54](https://news.ycombinator.com/item?id=46770274) - [Dithering – Part 2: The Ordered Dithering](https://visualrambling.space/dithering-part-2/)

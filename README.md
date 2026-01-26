@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-26, 21:11:53](https://news.ycombinator.com/item?id=46771599) - [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)
+* [2026-01-26, 22:03:04](https://news.ycombinator.com/item?id=46772212) - [State of the Windows: What is going on with Windows 11?](https://ntdotdev.wordpress.com/2026/01/25/state-of-the-windows-what-is-going-on-with-windows-11/)
+* [2026-01-26, 21:27:15](https://news.ycombinator.com/item?id=46771779) - [Refusing to Use Twitter](https://blog.korny.info/2026/01/25/refusing-to-use-twitter)
 * [2026-01-26, 19:23:54](https://news.ycombinator.com/item?id=46770274) - [Dithering – Part 2: The Ordered Dithering](https://visualrambling.space/dithering-part-2/)
 * [2026-01-26, 19:19:40](https://news.ycombinator.com/item?id=46770221) - [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
 * [2026-01-26, 18:58:37](https://news.ycombinator.com/item?id=46769965) - [When AI 'builds a browser,' check the repo before believing the hype](https://www.theregister.com/2026/01/26/cursor_opinion/)
 * [2026-01-26, 18:42:40](https://news.ycombinator.com/item?id=46769752) - [Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus](https://tetrisbench.com/tetrisbench/)
-* [2026-01-26, 18:37:37](https://news.ycombinator.com/item?id=46769668) - [Notice of collective action lawsuit against Workday, Inc.](https://workdaycase.com)
 * [2026-01-26, 18:19:45](https://news.ycombinator.com/item?id=46769422) - [Show HN: Ourguide – OS wide task guidance system that shows you where to click](https://ourguide.ai)
 * [2026-01-26, 18:05:15](https://news.ycombinator.com/item?id=46769201) - [Google Books removed all search functions for any books with previews](https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_removed_search/)
 * [2026-01-26, 17:54:20](https://news.ycombinator.com/item?id=46769051) - [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)
