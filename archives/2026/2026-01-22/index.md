@@ -73,6 +73,7 @@
 * [2026-01-22, 08:03:57](https://news.ycombinator.com/item?id=46716469) - [30 Years of ReactOS](https://reactos.org/blogs/30yrs-of-ros/)
 * [2026-01-22, 05:52:54](https://news.ycombinator.com/item?id=46715766) - [Show HN: Synesthesia, make noise music with a colorpicker](https://visualnoise.ca)
 * [2026-01-22, 05:15:46](https://news.ycombinator.com/item?id=46715600) - [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
+* [2026-01-22, 03:37:03](https://news.ycombinator.com/item?id=46714981) - [Delta single handle ball faucets (1963)](https://archive.org/details/DeltaSingleHandleBallFaucets)
 * [2026-01-22, 03:26:38](https://news.ycombinator.com/item?id=46714916) - [Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)
 * [2026-01-22, 01:48:44](https://news.ycombinator.com/item?id=46714192) - [Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]](https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf)
 * [2026-01-22, 01:11:36](https://news.ycombinator.com/item?id=46713929) - [Significant US Farm Losses Persist, Despite Federal Assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)
