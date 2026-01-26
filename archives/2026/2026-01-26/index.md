@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 22:22:33](https://news.ycombinator.com/item?id=46772404) - [Toy implementations of the 30 foundational papers recommended by Ilya Sutskever](https://github.com/pageman/sutskever-30-implementations)
 * [2026-01-26, 22:03:04](https://news.ycombinator.com/item?id=46772212) - [State of the Windows: What is going on with Windows 11?](https://ntdotdev.wordpress.com/2026/01/25/state-of-the-windows-what-is-going-on-with-windows-11/)
 * [2026-01-26, 21:27:15](https://news.ycombinator.com/item?id=46771779) - [Refusing to Use Twitter](https://blog.korny.info/2026/01/25/refusing-to-use-twitter)
 * [2026-01-26, 21:11:53](https://news.ycombinator.com/item?id=46771599) - [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)
@@ -15,6 +16,7 @@
 * [2026-01-26, 18:37:37](https://news.ycombinator.com/item?id=46769668) - [Notice of Collective Action Lawsuit Against Workday, INC](https://workdaycase.com)
 * [2026-01-26, 18:19:45](https://news.ycombinator.com/item?id=46769422) - [Show HN: Ourguide – OS wide task guidance system that shows you where to click](https://ourguide.ai)
 * [2026-01-26, 18:05:15](https://news.ycombinator.com/item?id=46769201) - [Google Books has been effectively killed by the last algorithm update](https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_removed_search/)
+* [2026-01-26, 18:04:15](https://news.ycombinator.com/item?id=46769188) - [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 * [2026-01-26, 18:00:32](https://news.ycombinator.com/item?id=46769131) - [House of Lords Votes to Ban UK Children from Using Internet VPNs](https://www.ispreview.co.uk/index.php/2026/01/house-of-lords-votes-to-ban-uk-children-from-using-internet-vpns.html)
 * [2026-01-26, 17:54:20](https://news.ycombinator.com/item?id=46769051) - [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)
 * [2026-01-26, 17:46:38](https://news.ycombinator.com/item?id=46768909) - [JuiceSSH – Give me my pro features back](https://nproject.io/blog/juicessh-give-me-back-my-pro-features/)
