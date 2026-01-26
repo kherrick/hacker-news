@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 18:58:37](https://news.ycombinator.com/item?id=46769965) - [When AI 'builds a browser,' check the repo before believing the hype](https://www.theregister.com/2026/01/26/cursor_opinion/)
+* [2026-01-26, 18:42:40](https://news.ycombinator.com/item?id=46769752) - [Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus](https://tetrisbench.com/tetrisbench/)
 * [2026-01-26, 18:37:37](https://news.ycombinator.com/item?id=46769668) - [Notice of Collective Action Lawsuit Against Workday, INC](https://workdaycase.com)
 * [2026-01-26, 18:05:15](https://news.ycombinator.com/item?id=46769201) - [Google Books has been effectively killed by the last algorithm update](https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_removed_search/)
 * [2026-01-26, 18:00:32](https://news.ycombinator.com/item?id=46769131) - [House of Lords Votes to Ban UK Children from Using Internet VPNs](https://www.ispreview.co.uk/index.php/2026/01/house-of-lords-votes-to-ban-uk-children-from-using-internet-vpns.html)

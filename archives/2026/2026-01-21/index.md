@@ -97,6 +97,7 @@
 * [2026-01-21, 06:07:03](https://news.ycombinator.com/item?id=46701733) - [Curl removes bug bounties because of AI slop](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
 * [2026-01-21, 04:46:28](https://news.ycombinator.com/item?id=46701239) - [Germany Forces Lexus to Remotely Kill Car Heating in Dead of Winter](https://www.gadgetreview.com/germany-forces-lexus-to-remotely-kill-car-heating-in-dead-of-winter)
 * [2026-01-21, 04:27:08](https://news.ycombinator.com/item?id=46701114) - [Libbbf: Bound Book Format, A high-performance container for comics and manga](https://github.com/ef1500/libbbf)
+* [2026-01-21, 04:16:48](https://news.ycombinator.com/item?id=46701045) - [OpenFlexure Microscope](https://openflexure.org/projects/microscope/)
 * [2026-01-21, 03:38:57](https://news.ycombinator.com/item?id=46700809) - [Disaster planning for regular folks (2015)](https://lcamtuf.coredump.cx/prep/index-old.shtml)
 * [2026-01-21, 02:54:32](https://news.ycombinator.com/item?id=46700594) - [Anthropic's original take home assignment open sourced](https://github.com/anthropics/original_performance_takehome)
 * [2026-01-21, 02:36:44](https://news.ycombinator.com/item?id=46700503) - [RSS.Social – the latest and best from small sites across the web](https://rss.social/)
