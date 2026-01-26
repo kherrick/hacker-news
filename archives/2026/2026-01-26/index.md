@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 18:05:15](https://news.ycombinator.com/item?id=46769201) - [Google Books has been effectively killed by the last algorithm update](https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_removed_search/)
+* [2026-01-26, 18:00:32](https://news.ycombinator.com/item?id=46769131) - [House of Lords Votes to Ban UK Children from Using Internet VPNs](https://www.ispreview.co.uk/index.php/2026/01/house-of-lords-votes-to-ban-uk-children-from-using-internet-vpns.html)
 * [2026-01-26, 17:54:20](https://news.ycombinator.com/item?id=46769051) - [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)
+* [2026-01-26, 17:46:38](https://news.ycombinator.com/item?id=46768909) - [JuiceSSH – Give me my pro features back](https://nproject.io/blog/juicessh-give-me-back-my-pro-features/)
 * [2026-01-26, 17:07:24](https://news.ycombinator.com/item?id=46768257) - [The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology)
 * [2026-01-26, 16:58:00](https://news.ycombinator.com/item?id=46768081) - [DHS keeps trying and failing to unmask anonymous ICE critics online](https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/)
 * [2026-01-26, 16:43:30](https://news.ycombinator.com/item?id=46767875) - [The mountain that weighed the Earth](https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/)
 * [2026-01-26, 16:35:50](https://news.ycombinator.com/item?id=46767772) - [Is It Time for a Nordic Nuke?](https://warontherocks.com/2026/01/is-it-time-for-a-nordic-nuke/)
 * [2026-01-26, 16:27:46](https://news.ycombinator.com/item?id=46767668) - [France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://twitter.com/lellouchenico/status/2015775970330882319)
 * [2026-01-26, 16:04:07](https://news.ycombinator.com/item?id=46767323) - [What \"The Best\" Looks Like](https://www.kuril.in/blog/what-the-best-looks-like/)
+* [2026-01-26, 15:38:50](https://news.ycombinator.com/item?id=46766961) - [There is an AI code review bubble](https://www.greptile.com/blog/ai-code-review-bubble)
 * [2026-01-26, 15:23:00](https://news.ycombinator.com/item?id=46766741) - [Qwen3-Max-Thinking](https://qwen.ai/blog?id=qwen3-max-thinking)
 * [2026-01-26, 15:07:37](https://news.ycombinator.com/item?id=46766526) - [Windows 11's Patch Tuesday nightmare gets worse](https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot)
 * [2026-01-26, 15:06:09](https://news.ycombinator.com/item?id=46766507) - [OracleGPT: Thought Experiment on an AI Powered Executive](https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM)

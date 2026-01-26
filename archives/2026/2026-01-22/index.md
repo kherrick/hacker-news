@@ -24,6 +24,7 @@
 * [2026-01-22, 19:03:56](https://news.ycombinator.com/item?id=46723694) - ['Active' sitting is better for brain health: review of studies](https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health)
 * [2026-01-22, 18:38:27](https://news.ycombinator.com/item?id=46723384) - [I was banned from Claude for scaffolding a Claude.md file](https://hugodaniel.com/posts/claude-code-banned-me/)
 * [2026-01-22, 18:25:25](https://news.ycombinator.com/item?id=46723183) - [Skill.md: An open standard for agent skills](https://www.mintlify.com/blog/skill-md)
+* [2026-01-22, 18:21:13](https://news.ycombinator.com/item?id=46723128) - [Show HN: Postgres and ClickHouse as a unified data stack](https://news.ycombinator.com/item?id=46723128)
 * [2026-01-22, 18:15:47](https://news.ycombinator.com/item?id=46723049) - [Emissary, a fast open-source Java messaging library](https://github.com/joel-jeremy/emissary)
 * [2026-01-22, 18:01:02](https://news.ycombinator.com/item?id=46722853) - [Recent discoveries on the acquisition of the highest levels of human performance](https://www.science.org/doi/abs/10.1126/science.adt7790)
 * [2026-01-22, 17:42:51](https://news.ycombinator.com/item?id=46722594) - [Macron says €300B in EU savings sent to the US every year will be invested in EU](https://old.reddit.com/r/europe/comments/1qjtvtl/macron_says_300_billion_in_european_savings_flown/)
