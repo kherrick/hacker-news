@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-01-26, 02:38:55",
+      "https://news.ycombinator.com/item?id=46761219"
+    ],
+    [
+      "SF Microclimates",
+      "https://microclimates.solofounders.com/"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 02:15:52",
       "https://news.ycombinator.com/item?id=46761061"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-01-25, 15:13:46",
-      "https://news.ycombinator.com/item?id=46754724"
-    ],
-    [
-      "Show HN: Netfence – Like Envoy for eBPF Filters",
-      "https://github.com/danthegoodman1/netfence"
-    ]
-  ],
-  [
-    [
       "2026-01-25, 14:55:03",
       "https://news.ycombinator.com/item?id=46754522"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-01-21, 13:20:53",
+      "https://news.ycombinator.com/item?id=46705337"
+    ],
+    [
+      "Integrating WebView with Nature Programming Language",
+      "https://nature-lang.org/blog/20260121"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 18:49:20",
       "https://news.ycombinator.com/item?id=46696111"
     ],
@@ -287,16 +297,6 @@
     [
       "Guix for Development",
       "https://dthompson.us/posts/guix-for-development.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 09:41:23",
-      "https://news.ycombinator.com/item?id=46689895"
-    ],
-    [
-      "Optimizing GPU Programs from Java Using Babylon and Hat",
-      "https://openjdk.org/projects/babylon/articles/hat-matmul/hat-matmul"
     ]
   ]
 ]
