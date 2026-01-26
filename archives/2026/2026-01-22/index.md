@@ -70,6 +70,7 @@
 * [2026-01-22, 10:48:27](https://news.ycombinator.com/item?id=46717556) - [We will ban you and ridicule you in public if you waste our time on crap reports](https://curl.se/.well-known/security.txt)
 * [2026-01-22, 10:45:02](https://news.ycombinator.com/item?id=46717536) - [City Weather Explorer (3D comparison)](https://awjuliani.github.io/weather-explore/)
 * [2026-01-22, 10:41:23](https://news.ycombinator.com/item?id=46717507) - [ISO PDF spec is getting Brotli – ~20 % smaller documents with no quality loss](https://pdfa.org/want-to-make-your-pdfs-20-smaller-for-free/)
+* [2026-01-22, 10:34:25](https://news.ycombinator.com/item?id=46717472) - [Runjak.codes: An adversarial coding test](https://runjak.codes/posts/2026-01-21-adversarial-coding-test/)
 * [2026-01-22, 10:30:07](https://news.ycombinator.com/item?id=46717442) - [The mushroom making people hallucinate tiny humans](https://www.bbc.com/future/article/20260121-the-mysterious-mushroom-that-makes-you-see-tiny-people)
 * [2026-01-22, 08:44:56](https://news.ycombinator.com/item?id=46716696) - [In Praise of APL (1977)](https://www.jsoftware.com/papers/perlis77.htm)
 * [2026-01-22, 08:21:12](https://news.ycombinator.com/item?id=46716560) - [SpaceX lowering orbits of 4,400 Starlink satellites for safety's sake](https://www.space.com/space-exploration/satellites/spacex-lowering-orbits-of-4-400-starlink-satellites-for-safetys-sake)
