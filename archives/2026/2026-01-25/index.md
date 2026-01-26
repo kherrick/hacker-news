@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-25](index.md)
 
+* [2026-01-25, 23:38:55](https://news.ycombinator.com/item?id=46759850) - [Show HN: A desktop app that blocks work when you bite your nails](https://github.com/cacoos/trackhands)
 * [2026-01-25, 23:13:06](https://news.ycombinator.com/item?id=46759627) - [Show HN: FaceTime-style calls with an AI Companion (Live2D and long-term memory)](https://thebeni.ai/)
 * [2026-01-25, 23:01:06](https://news.ycombinator.com/item?id=46759520) - [Show HN: A small programming language where everything is a value](https://github.com/Jcparkyn/herd)
+* [2026-01-25, 22:47:55](https://news.ycombinator.com/item?id=46759387) - [Ask HN: DDD was a great debugger – what would a modern equivalent look like?](https://news.ycombinator.com/item?id=46759387)
 * [2026-01-25, 22:44:50](https://news.ycombinator.com/item?id=46759352) - [Case study: Creative math – How AI fakes proofs](https://tomaszmachnik.pl/case-study-math-en.html)
 * [2026-01-25, 22:18:38](https://news.ycombinator.com/item?id=46759063) - [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
 * [2026-01-25, 21:44:10](https://news.ycombinator.com/item?id=46758644) - [LED lighting undermines visual performance unless supplemented by wider spectra](https://www.nature.com/articles/s41598-026-35389-6)
@@ -55,6 +57,7 @@
 * [2026-01-25, 08:01:21](https://news.ycombinator.com/item?id=46751797) - [Show HN: Sightline – Shodan-style search for real-world infra using OSM Data](https://github.com/ni5arga/sightline)
 * [2026-01-25, 07:36:20](https://news.ycombinator.com/item?id=46751675) - [Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators](https://github.com/divyaprakash0426/autoshorts)
 * [2026-01-25, 06:06:33](https://news.ycombinator.com/item?id=46751231) - [World’s most powerful literary critic is on TikTok](https://www.newstatesman.com/culture/books/2026/01/the-worlds-most-powerful-literary-critic-is-on-tiktok)
+* [2026-01-25, 05:12:12](https://news.ycombinator.com/item?id=46750951) - [Compiling models to megakernels](https://blog.luminal.com/p/compiling-models-to-megakernels)
 * [2026-01-25, 05:09:38](https://news.ycombinator.com/item?id=46750937) - [What Ralph Wiggum loops are missing](https://xr0am.substack.com/p/what-ralph-wiggum-loops-are-missing)
 * [2026-01-25, 05:07:48](https://news.ycombinator.com/item?id=46750927) - [AI won't take your job. A guy with a $599 Mac Mini and Claude will](https://webmatrices.com/post/ai-won-t-take-your-job-a-guy-with-a-599-mac-mini-and-claude-will)
 * [2026-01-25, 04:53:29](https://news.ycombinator.com/item?id=46750852) - [Palantir has no place in UK public services](https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/)

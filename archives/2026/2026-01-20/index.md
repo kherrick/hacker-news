@@ -78,6 +78,7 @@
 * [2026-01-20, 11:38:31](https://news.ycombinator.com/item?id=46690779) - [Small Kafka: Tansu and SQLite on a free t3.micro](https://blog.tansu.io/articles/broker-aws-free-tier)
 * [2026-01-20, 11:15:33](https://news.ycombinator.com/item?id=46690592) - [Guix for Development](https://dthompson.us/posts/guix-for-development.html)
 * [2026-01-20, 11:06:54](https://news.ycombinator.com/item?id=46690530) - [Show HN: IP over Avian Carriers with Quality of Service](https://www.rfc-editor.org/rfc/rfc2549.html)
+* [2026-01-20, 10:56:02](https://news.ycombinator.com/item?id=46690463) - [A static site generator written in POSIX shell](https://aashvik.com/posts/shell-ssg/)
 * [2026-01-20, 10:47:25](https://news.ycombinator.com/item?id=46690402) - [I'm addicted to being useful](https://www.seangoedecke.com/addicted-to-being-useful/)
 * [2026-01-20, 10:35:47](https://news.ycombinator.com/item?id=46690330) - [UK consulting on bringing in social media ban for under 16s](https://www.bbc.com/news/articles/cgm4xpyxp7lo)
 * [2026-01-20, 10:30:46](https://news.ycombinator.com/item?id=46690295) - [String Theory Can Now Describe a Universe That Has Dark Energy](https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/)
