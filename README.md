@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-26, 09:43:12](https://news.ycombinator.com/item?id=46763592) - [Apple, What Have You Done?](https://onlinegoddess.net/2026/01/apple-what-have-you-done/)
+* [2026-01-26, 09:35:31](https://news.ycombinator.com/item?id=46763548) - [UK House of Lords Votes to Extend Age Verification to VPNs](https://reclaimthenet.org/uk-house-of-lords-votes-to-extend-age-verification-to-vpns)
 * [2026-01-26, 07:41:52](https://news.ycombinator.com/item?id=46762882) - [The Holy Grail of Linux Binary Compatibility: Musl and Dlopen](https://github.com/quaadgras/graphics.gd/discussions/242)
 * [2026-01-26, 05:23:01](https://news.ycombinator.com/item?id=46762150) - [The browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/)
 * [2026-01-26, 04:18:19](https://news.ycombinator.com/item?id=46761822) - [Iran's internet blackout may become permanent, with access for elites only](https://restofworld.org/2026/iran-blackout-tiered-internet/)
@@ -16,7 +18,6 @@
 * [2026-01-25, 19:31:23](https://news.ycombinator.com/item?id=46757357) - [I was right about ATProto key management](https://notes.nora.codes/atproto-again/)
 * [2026-01-25, 19:03:40](https://news.ycombinator.com/item?id=46757067) - [First, make me care](https://gwern.net/blog/2026/make-me-care)
 * [2026-01-25, 18:06:26](https://news.ycombinator.com/item?id=46756427) - [Show HN: An interactive map of US lighthouses and navigational aids](https://www.lighthouses.app/)
-* [2026-01-25, 17:36:19](https://news.ycombinator.com/item?id=46756117) - [ICE using Palantir tool that feeds on Medicaid data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data)
 * [2026-01-25, 15:51:03](https://news.ycombinator.com/item?id=46755115) - [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq)
 * [2026-01-25, 15:34:51](https://news.ycombinator.com/item?id=46754944) - [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
 * [2026-01-25, 14:55:03](https://news.ycombinator.com/item?id=46754522) - [Bitwise conversion of doubles using only FP multiplication and addition (2020)](https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/)
@@ -26,7 +27,6 @@
 * [2026-01-22, 19:54:06](https://news.ycombinator.com/item?id=46724348) - [The Post Correspondence Programming Language: Domino-oriented Programming (2015)](https://davidlazar.github.io/PCPL/)
 * [2026-01-22, 18:15:47](https://news.ycombinator.com/item?id=46723049) - [Emissary, a fast open-source Java messaging library](https://github.com/joel-jeremy/emissary)
 * [2026-01-22, 14:52:43](https://news.ycombinator.com/item?id=46719958) - [Building a Real-Time HN Display for $15](https://medium.com/@lee.harding/building-a-real-time-hn-display-for-15-3ea1772051ff)
-* [2026-01-22, 03:37:03](https://news.ycombinator.com/item?id=46714981) - [Delta single handle ball faucets (1963)](https://archive.org/details/DeltaSingleHandleBallFaucets)
 * [2026-01-21, 18:11:13](https://news.ycombinator.com/item?id=46709270) - [Things I've learned in my 10 years as an engineering manager](https://www.jampa.dev/p/lessons-learned-after-10-years-as)
 * [2026-01-20, 11:15:33](https://news.ycombinator.com/item?id=46690592) - [Guix for Development](https://dthompson.us/posts/guix-for-development.html)
 * [2026-01-20, 10:56:02](https://news.ycombinator.com/item?id=46690463) - [A static site generator written in POSIX shell](https://aashvik.com/posts/shell-ssg/)
