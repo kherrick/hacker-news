@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-26, 16:35:50",
-      "https://news.ycombinator.com/item?id=46767772"
+      "2026-01-26, 16:58:00",
+      "https://news.ycombinator.com/item?id=46768081"
     ],
     [
-      "Is It Time for a Nordic Nuke?",
-      "https://warontherocks.com/2026/01/is-it-time-for-a-nordic-nuke/"
+      "DHS keeps trying and failing to unmask anonymous ICE critics online",
+      "https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 16:43:30",
+      "https://news.ycombinator.com/item?id=46767875"
+    ],
+    [
+      "The mountain that weighed the Earth",
+      "https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "OracleGPT: Thought Experiment on an AI Powered Executive",
       "https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 15:05:04",
-      "https://news.ycombinator.com/item?id=46766493"
-    ],
-    [
-      "AI will not replace software engineers (hopefully)",
-      "https://medium.com/@sig.segv/ai-will-not-replace-software-engineers-hopefully-84c4f8fc94c0"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-01-21, 18:24:55",
+      "https://news.ycombinator.com/item?id=46709461"
+    ],
+    [
+      "Find 'Abbey Road when type 'Beatles abbey rd': Fuzzy/Semantic search in Postgres",
+      "https://rendiment.io/postgresql/2026/01/21/pgtrgm-pgvector-music.html"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 18:11:13",
       "https://news.ycombinator.com/item?id=46709270"
     ],
@@ -277,16 +287,6 @@
     [
       "Text Is King",
       "https://www.experimental-history.com/p/text-is-king"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 10:56:02",
-      "https://news.ycombinator.com/item?id=46690463"
-    ],
-    [
-      "A static site generator written in POSIX shell",
-      "https://aashvik.com/posts/shell-ssg/"
     ]
   ],
   [
