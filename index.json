@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-01-26, 16:04:07",
+      "https://news.ycombinator.com/item?id=46767323"
+    ],
+    [
+      "What \"The Best\" Looks Like",
+      "https://www.kuril.in/blog/what-the-best-looks-like/"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 15:23:00",
       "https://news.ycombinator.com/item?id=46766741"
     ],
     [
       "Qwen3-Max-Thinking",
       "https://qwen.ai/blog?id=qwen3-max-thinking"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 15:07:37",
-      "https://news.ycombinator.com/item?id=46766526"
-    ],
-    [
-      "Windows 11's Patch Tuesday nightmare gets worse",
-      "https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Google AI Overviews cite YouTube more than any medical site for health queries",
       "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 14:10:25",
-      "https://news.ycombinator.com/item?id=46765819"
-    ],
-    [
-      "Apple introduces new AirTag with longer range and improved findability",
-      "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/"
     ]
   ],
   [
@@ -221,12 +211,22 @@
   ],
   [
     [
-      "2026-01-25, 15:34:51",
-      "https://news.ycombinator.com/item?id=46754944"
+      "2026-01-25, 15:51:03",
+      "https://news.ycombinator.com/item?id=46755115"
     ],
     [
-      "A macOS app that blurs your screen when you slouch",
-      "https://github.com/tldev/posturr"
+      "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
+      "https://www.diljitpr.net/blog-post-postgresql-dlq"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 10:34:25",
+      "https://news.ycombinator.com/item?id=46717472"
+    ],
+    [
+      "Runjak.codes: An adversarial coding test",
+      "https://runjak.codes/posts/2026-01-21-adversarial-coding-test/"
     ]
   ],
   [
