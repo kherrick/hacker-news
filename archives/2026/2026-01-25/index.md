@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-25](index.md)
 
+* [2026-01-25, 23:13:06](https://news.ycombinator.com/item?id=46759627) - [Show HN: FaceTime-style calls with an AI Companion (Live2D and long-term memory)](https://thebeni.ai/)
 * [2026-01-25, 23:01:06](https://news.ycombinator.com/item?id=46759520) - [Show HN: A small programming language where everything is a value](https://github.com/Jcparkyn/herd)
 * [2026-01-25, 22:44:50](https://news.ycombinator.com/item?id=46759352) - [Case study: Creative math – How AI fakes proofs](https://tomaszmachnik.pl/case-study-math-en.html)
+* [2026-01-25, 22:18:38](https://news.ycombinator.com/item?id=46759063) - [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
 * [2026-01-25, 21:44:10](https://news.ycombinator.com/item?id=46758644) - [LED lighting undermines visual performance unless supplemented by wider spectra](https://www.nature.com/articles/s41598-026-35389-6)
 * [2026-01-25, 21:27:11](https://news.ycombinator.com/item?id=46758450) - [The '3.5% rule': How a small minority can change the world](https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world)
 * [2026-01-25, 21:07:41](https://news.ycombinator.com/item?id=46758242) - [Canada](https://www.jenn.site/on-canada/)

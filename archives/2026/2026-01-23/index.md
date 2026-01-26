@@ -33,6 +33,7 @@
 * [2026-01-23, 15:49:35](https://news.ycombinator.com/item?id=46733905) - [Show HN: Teemux – Zero-config log multiplexer with built-in MCP server](https://teemux.com/)
 * [2026-01-23, 15:48:54](https://news.ycombinator.com/item?id=46733899) - [Three RCEs in Ilias Learning Management System](https://srlabs.de/blog/breaking-ilias-part-2-three-to-rce)
 * [2026-01-23, 15:26:33](https://news.ycombinator.com/item?id=46733624) - [Tech Is Fun Again: The Tech Monoculture Is Finally Breaking](http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/)
+* [2026-01-23, 15:03:08](https://news.ycombinator.com/item?id=46733306) - [The Science of Fermentation (The Food Programme)](https://www.bbc.co.uk/programmes/m002pqg6)
 * [2026-01-23, 15:03:01](https://news.ycombinator.com/item?id=46733301) - [Waypoint-1: Real-Time Interactive Video Diffusion from Overworld](https://huggingface.co/blog/waypoint-1)
 * [2026-01-23, 14:40:21](https://news.ycombinator.com/item?id=46733025) - [Is liberal democracy in terminal decline?](https://www.ft.com/content/b4d2c7a3-587d-440f-a7a9-7e5e85b93a88)
 * [2026-01-23, 14:38:14](https://news.ycombinator.com/item?id=46733009) - [Tesla fined for repeatedly failing to help UK police over driving offences](https://www.bbc.co.uk/news/articles/c0r44zpprg7o)
