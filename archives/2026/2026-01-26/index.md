@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 10:02:12](https://news.ycombinator.com/item?id=46763721) - [San Francisco Graffiti](https://walzr.com/sf-graffiti)
 * [2026-01-26, 09:52:26](https://news.ycombinator.com/item?id=46763651) - [Filming ICE is legal but exposes you to digital tracking](https://theconversation.com/filming-ice-is-legal-but-exposes-you-to-digital-tracking-heres-how-to-minimize-the-risk-273566)
 * [2026-01-26, 09:43:12](https://news.ycombinator.com/item?id=46763592) - [Apple, What Have You Done?](https://onlinegoddess.net/2026/01/apple-what-have-you-done/)
 * [2026-01-26, 09:35:31](https://news.ycombinator.com/item?id=46763548) - [UK House of Lords Votes to Extend Age Verification to VPNs](https://reclaimthenet.org/uk-house-of-lords-votes-to-extend-age-verification-to-vpns)
