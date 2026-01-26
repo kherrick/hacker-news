@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-26, 23:16:24",
+      "https://news.ycombinator.com/item?id=46773090"
+    ],
+    [
+      "TIL the Apple TV Remote pairs with MacBooks for presentations and playback",
+      "https://support.apple.com/en-au/guide/mac-help/welcome/mac"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 22:41:36",
       "https://news.ycombinator.com/item?id=46772655"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2026-01-26, 22:22:33",
-      "https://news.ycombinator.com/item?id=46772404"
+      "2026-01-26, 22:29:54",
+      "https://news.ycombinator.com/item?id=46772495"
     ],
     [
-      "Toy implementations of the 30 foundational papers recommended by Ilya Sutskever",
-      "https://github.com/pageman/sutskever-30-implementations"
+      "I let ChatGPT analyze a decade of my Apple Watch data. Then I called my doctor",
+      "https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-01-26, 15:01:03",
-      "https://news.ycombinator.com/item?id=46766432"
-    ],
-    [
-      "OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen",
-      "https://llmspy.org/docs/v3"
-    ]
-  ],
-  [
-    [
       "2026-01-26, 14:41:04",
       "https://news.ycombinator.com/item?id=46766188"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-01-26, 11:00:44",
-      "https://news.ycombinator.com/item?id=46764170"
-    ],
-    [
-      "Show HN: Only 1 LLM can fly a drone",
-      "https://github.com/kxzk/snapbench"
-    ]
-  ],
-  [
-    [
       "2026-01-26, 10:19:51",
       "https://news.ycombinator.com/item?id=46763864"
     ],
@@ -277,6 +267,16 @@
     [
       "Find 'Abbey Road when type 'Beatles abbey rd': Fuzzy/Semantic search in Postgres",
       "https://rendiment.io/postgresql/2026/01/21/pgtrgm-pgvector-music.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 13:41:47",
+      "https://news.ycombinator.com/item?id=46705590"
+    ],
+    [
+      "Show HN: I made AI earphones remember everything (auto-sync to Obsidian)",
+      "https://news.ycombinator.com/item?id=46705590"
     ]
   ],
   [
