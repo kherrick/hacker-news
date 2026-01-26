@@ -12,6 +12,7 @@
 * [2026-01-20, 22:27:11](https://news.ycombinator.com/item?id=46698539) - [Driver killed and several injured after second train derails near Barcelona](https://www.bbc.com/news/articles/c1m78xl0gmpo)
 * [2026-01-20, 22:18:53](https://news.ycombinator.com/item?id=46698469) - [Provably Unmasking Malicious Behavior Through Execution Traces](https://arxiv.org/abs/2512.13821)
 * [2026-01-20, 22:09:49](https://news.ycombinator.com/item?id=46698370) - [Which AI Lies Best? LLMs play a 1950s betrayal game by John Nash](https://so-long-sucker.vercel.app/)
+* [2026-01-20, 21:57:08](https://news.ycombinator.com/item?id=46698264) - [Text Is King](https://www.experimental-history.com/p/text-is-king)
 * [2026-01-20, 21:36:34](https://news.ycombinator.com/item?id=46698061) - [The challenges of soft delete](https://atlas9.dev/blog/soft-delete.html)
 * [2026-01-20, 21:34:06](https://news.ycombinator.com/item?id=46698038) - [Inside the secret world of Japanese snack bars](https://www.bbc.com/travel/article/20260116-inside-the-secret-world-of-japanese-snack-bars)
 * [2026-01-20, 21:22:19](https://news.ycombinator.com/item?id=46697908) - [Show HN: Agent Skills Leaderboard](https://skills.sh)
