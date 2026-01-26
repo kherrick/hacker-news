@@ -70,6 +70,7 @@
 * [2026-01-21, 13:52:27](https://news.ycombinator.com/item?id=46705715) - [Ireland wants to give its cops spyware, ability to crack encrypted messages](https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/)
 * [2026-01-21, 13:49:07](https://news.ycombinator.com/item?id=46705676) - [Tell HN: 2 years building a kids audio app as a solo dev – lessons learned](https://news.ycombinator.com/item?id=46705676)
 * [2026-01-21, 13:42:53](https://news.ycombinator.com/item?id=46705606) - [AI Destroys Institutions](https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/)
+* [2026-01-21, 13:41:47](https://news.ycombinator.com/item?id=46705590) - [Show HN: I made AI earphones remember everything (auto-sync to Obsidian)](https://news.ycombinator.com/item?id=46705590)
 * [2026-01-21, 13:35:41](https://news.ycombinator.com/item?id=46705512) - [The first 100 days as a Renovate maintainer](https://www.jvt.me/posts/2026/01/21/renovate-100-days/)
 * [2026-01-21, 13:25:06](https://news.ycombinator.com/item?id=46705385) - [Canada Announces Divorce from America](https://charlotteclymer.substack.com/p/canada-announces-divorce-from-america)
 * [2026-01-21, 13:20:53](https://news.ycombinator.com/item?id=46705337) - [Integrating WebView with Nature Programming Language](https://nature-lang.org/blog/20260121)
