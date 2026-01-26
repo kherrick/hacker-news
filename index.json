@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-26, 18:58:37",
+      "https://news.ycombinator.com/item?id=46769965"
+    ],
+    [
+      "When AI 'builds a browser,' check the repo before believing the hype",
+      "https://www.theregister.com/2026/01/26/cursor_opinion/"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 18:42:40",
+      "https://news.ycombinator.com/item?id=46769752"
+    ],
+    [
+      "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
+      "https://tetrisbench.com/tetrisbench/"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 18:37:37",
       "https://news.ycombinator.com/item?id=46769668"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-01-26, 15:06:09",
-      "https://news.ycombinator.com/item?id=46766507"
-    ],
-    [
-      "OracleGPT: Thought Experiment on an AI Powered Executive",
-      "https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM"
-    ]
-  ],
-  [
-    [
       "2026-01-26, 15:01:03",
       "https://news.ycombinator.com/item?id=46766432"
     ],
@@ -157,16 +167,6 @@
     [
       "Google AI Overviews cite YouTube more than any medical site for health queries",
       "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 13:58:27",
-      "https://news.ycombinator.com/item?id=46765694"
-    ],
-    [
-      "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
-      "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-01-22, 18:21:13",
-      "https://news.ycombinator.com/item?id=46723128"
-    ],
-    [
-      "Show HN: Managed Postgres with native ClickHouse integration",
-      "https://news.ycombinator.com/item?id=46723128"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 18:24:55",
       "https://news.ycombinator.com/item?id=46709461"
     ],
@@ -277,6 +267,16 @@
     [
       "Things I've learned in my 10 years as an engineering manager",
       "https://www.jampa.dev/p/lessons-learned-after-10-years-as"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 04:16:48",
+      "https://news.ycombinator.com/item?id=46701045"
+    ],
+    [
+      "OpenFlexure Microscope",
+      "https://openflexure.org/projects/microscope/"
     ]
   ],
   [
