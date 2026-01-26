@@ -6,6 +6,7 @@
 
 * [2026-01-26, 04:18:19](https://news.ycombinator.com/item?id=46761822) - [Iran's internet blackout may become permanent, with access for elites only](https://restofworld.org/2026/iran-blackout-tiered-internet/)
 * [2026-01-26, 03:40:06](https://news.ycombinator.com/item?id=46761614) - [Environmentalists worry Google behind bid to control Oregon town's water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php)
+* [2026-01-26, 03:31:02](https://news.ycombinator.com/item?id=46761547) - [Show HN: WhyThere – Compare cities side-by-side to decide where to move](https://whythere.life)
 * [2026-01-26, 03:04:07](https://news.ycombinator.com/item?id=46761370) - [Tech CEOs attend Amazon-funded \"Melania\" screening at White House](https://www.hollywoodreporter.com/movies/movie-news/white-house-vip-melania-screening-mike-tyson-tim-cook-1236484037/)
 * [2026-01-26, 02:38:55](https://news.ycombinator.com/item?id=46761219) - [SF Microclimates](https://microclimates.solofounders.com/)
 * [2026-01-26, 02:25:09](https://news.ycombinator.com/item?id=46761130) - [ICE tells legal observer, 'We have a database, now you're a domestic terrorist'](https://reason.com/2026/01/23/ice-tells-legal-observer-we-have-a-nice-little-database-and-now-youre-considered-a-domestic-terrorist/)

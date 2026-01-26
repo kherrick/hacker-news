@@ -2,6 +2,7 @@
 
 * [2026-01-26, 04:18:19](https://news.ycombinator.com/item?id=46761822) - [Iran's internet blackout may become permanent, with access for elites only](https://restofworld.org/2026/iran-blackout-tiered-internet/)
 * [2026-01-26, 03:40:06](https://news.ycombinator.com/item?id=46761614) - [Environmentalists worry Google behind bid to control Oregon town's water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php)
+* [2026-01-26, 03:31:02](https://news.ycombinator.com/item?id=46761547) - [Show HN: WhyThere – Compare cities side-by-side to decide where to move](https://whythere.life)
 * [2026-01-26, 02:38:55](https://news.ycombinator.com/item?id=46761219) - [SF Microclimates](https://microclimates.solofounders.com/)
 * [2026-01-26, 02:15:52](https://news.ycombinator.com/item?id=46761061) - [Microsoft suspects some PCs might not boot after Windows 11 January 2026 Update](https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/)
 * [2026-01-26, 02:07:34](https://news.ycombinator.com/item?id=46760998) - [Video Games as Art](https://gwern.net/video-game-art)
@@ -20,7 +21,6 @@
 * [2026-01-25, 15:34:51](https://news.ycombinator.com/item?id=46754944) - [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
 * [2026-01-25, 14:55:03](https://news.ycombinator.com/item?id=46754522) - [Bitwise conversion of doubles using only FP multiplication and addition (2020)](https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/)
 * [2026-01-25, 12:54:53](https://news.ycombinator.com/item?id=46753708) - [Web-based image editor modeled after Deluxe Paint](https://github.com/steffest/DPaint-js)
-* [2026-01-25, 12:22:12](https://news.ycombinator.com/item?id=46753484) - [Doom has been ported to an earbud](https://doombuds.com)
 * [2026-01-25, 11:56:42](https://news.ycombinator.com/item?id=46753301) - [Show HN: Bonsplit – Tabs and splits for native macOS apps](https://bonsplit.alasdairmonk.com)
 * [2026-01-25, 09:04:30](https://news.ycombinator.com/item?id=46752151) - [A flawed paper in management science has been cited more than 6k times](https://statmodeling.stat.columbia.edu/2026/01/22/aking/)
 * [2026-01-23, 15:03:08](https://news.ycombinator.com/item?id=46733306) - [The Science of Fermentation [audio]](https://www.bbc.co.uk/programmes/m002pqg6)
