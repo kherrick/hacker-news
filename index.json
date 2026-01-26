@@ -1,11 +1,51 @@
 [
   [
     [
+      "2026-01-26, 02:25:09",
+      "https://news.ycombinator.com/item?id=46761130"
+    ],
+    [
+      "ICE tells legal observer, 'We have a database, now you're a domestic terrorist'",
+      "https://reason.com/2026/01/23/ice-tells-legal-observer-we-have-a-nice-little-database-and-now-youre-considered-a-domestic-terrorist/"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 00:27:41",
+      "https://news.ycombinator.com/item?id=46760237"
+    ],
+    [
+      "Clawdbot - open source personal AI assistant",
+      "https://github.com/clawdbot/clawdbot"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 00:10:42",
+      "https://news.ycombinator.com/item?id=46760099"
+    ],
+    [
+      "Scientists identify brain waves that define the limits of 'you'",
+      "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 23:13:06",
+      "https://news.ycombinator.com/item?id=46759627"
+    ],
+    [
+      "Show HN: FaceTime-style calls with an AI Companion (Live2D and long-term memory)",
+      "https://thebeni.ai/"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 23:01:06",
       "https://news.ycombinator.com/item?id=46759520"
     ],
     [
-      "Show HN: A small programming language where everything is a value",
+      "Show HN: A small programming language where everything is pass-by-value",
       "https://github.com/Jcparkyn/herd"
     ]
   ],
@@ -21,12 +61,12 @@
   ],
   [
     [
-      "2026-01-25, 21:44:10",
-      "https://news.ycombinator.com/item?id=46758644"
+      "2026-01-25, 22:18:38",
+      "https://news.ycombinator.com/item?id=46759063"
     ],
     [
-      "LED lighting undermines visual performance unless supplemented by wider spectra",
-      "https://www.nature.com/articles/s41598-026-35389-6"
+      "The future of software engineering is SRE",
+      "https://swizec.com/blog/the-future-of-software-engineering-is-sre/"
     ]
   ],
   [
@@ -47,16 +87,6 @@
     [
       "Oneplus phone update introduces hardware anti-rollback",
       "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 19:45:10",
-      "https://news.ycombinator.com/item?id=46757465"
-    ],
-    [
-      "Data Leak Exposes 149M Logins, Including Gmail, Facebook",
-      "https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/"
     ]
   ],
   [
@@ -181,42 +211,12 @@
   ],
   [
     [
-      "2026-01-25, 12:02:01",
-      "https://news.ycombinator.com/item?id=46753336"
-    ],
-    [
-      "Nango (YC W23, Dev Infrastructure) Is Hiring Remotely",
-      "https://jobs.ashbyhq.com/Nango"
-    ]
-  ],
-  [
-    [
       "2026-01-25, 11:56:42",
       "https://news.ycombinator.com/item?id=46753301"
     ],
     [
       "Show HN: Bonsplit – Tabs and splits for native macOS apps",
       "https://bonsplit.alasdairmonk.com"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 11:19:04",
-      "https://news.ycombinator.com/item?id=46753078"
-    ],
-    [
-      "Show HN: TUI for managing XDG default applications",
-      "https://github.com/mitjafelicijan/xdgctl"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 09:22:17",
-      "https://news.ycombinator.com/item?id=46752261"
-    ],
-    [
-      "Jurassic Park - Tablet device on Nedry's desk? (2012)",
-      "https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-01-23, 15:03:08",
+      "https://news.ycombinator.com/item?id=46733306"
+    ],
+    [
+      "The Science of Fermentation (The Food Programme)",
+      "https://www.bbc.co.uk/programmes/m002pqg6"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 13:23:09",
       "https://news.ycombinator.com/item?id=46718923"
     ],
@@ -251,32 +261,12 @@
   ],
   [
     [
-      "2026-01-20, 18:05:03",
-      "https://news.ycombinator.com/item?id=46695467"
+      "2026-01-20, 18:49:20",
+      "https://news.ycombinator.com/item?id=46696111"
     ],
     [
-      "Show HN: Fence – Sandbox CLI commands with network/filesystem restrictions",
-      "https://github.com/Use-Tusk/fence"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 16:40:36",
-      "https://news.ycombinator.com/item?id=46693985"
-    ],
-    [
-      "Ask HN: How do you keep system context from rotting over time?",
-      "https://news.ycombinator.com/item?id=46693985"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 12:33:32",
-      "https://news.ycombinator.com/item?id=46691152"
-    ],
-    [
-      "Publishing on the ATmosphere",
-      "https://tynanistyping.offprint.app/a/3mcsvjjceei23-publishing-on-the-atmosphere"
+      "Turbopack: Building faster by building less",
+      "https://nextjs.org/blog/turbopack-incremental-computation"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Hackable personal news reader in bash pipes",
       "https://github.com/haron/news.sh"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 11:15:33",
+      "https://news.ycombinator.com/item?id=46690592"
+    ],
+    [
+      "Guix for Development",
+      "https://dthompson.us/posts/guix-for-development.html"
     ]
   ],
   [
