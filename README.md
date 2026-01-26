@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-26, 15:23:00](https://news.ycombinator.com/item?id=46766741) - [Qwen3-Max-Thinking](https://qwen.ai/blog?id=qwen3-max-thinking)
 * [2026-01-26, 15:07:37](https://news.ycombinator.com/item?id=46766526) - [Windows 11's Patch Tuesday nightmare gets worse](https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot)
 * [2026-01-26, 15:06:09](https://news.ycombinator.com/item?id=46766507) - [OracleGPT: Thought Experiment on an AI Powered Executive](https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM)
 * [2026-01-26, 15:05:04](https://news.ycombinator.com/item?id=46766493) - [AI will not replace software engineers (hopefully)](https://medium.com/@sig.segv/ai-will-not-replace-software-engineers-hopefully-84c4f8fc94c0)
@@ -11,7 +12,6 @@
 * [2026-01-26, 13:36:22](https://news.ycombinator.com/item?id=46765460) - [After two years of vibecoding, I'm back to writing by hand](https://atmoio.substack.com/p/after-two-years-of-vibecoding-im)
 * [2026-01-26, 13:17:19](https://news.ycombinator.com/item?id=46765273) - [Transfering Files with gRPC](https://kreya.app/blog/transfering-files-with-grpc/)
 * [2026-01-26, 13:01:00](https://news.ycombinator.com/item?id=46765120) - [Vibe coding kills open source](https://arxiv.org/abs/2601.15494)
-* [2026-01-26, 12:57:43](https://news.ycombinator.com/item?id=46765092) - [Water 'Bankruptcy' Era Has Begun for Billions, Scientists Say](https://www.bloomberg.com/news/articles/2026-01-20/water-bankruptcy-era-has-begun-for-billions-scientists-say)
 * [2026-01-26, 11:07:26](https://news.ycombinator.com/item?id=46764223) - [TSMC Risk](https://stratechery.com/2026/tsmc-risk/)
 * [2026-01-26, 11:00:44](https://news.ycombinator.com/item?id=46764170) - [Show HN: Only 1 LLM can fly a drone](https://github.com/kxzk/snapbench)
 * [2026-01-26, 10:19:51](https://news.ycombinator.com/item?id=46763864) - [MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/)
