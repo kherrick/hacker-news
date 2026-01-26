@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-01-26, 11:00:44",
+      "https://news.ycombinator.com/item?id=46764170"
+    ],
+    [
+      "Show HN: Only 1 LLM can fly a drone",
+      "https://github.com/kxzk/snapbench"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 10:19:51",
       "https://news.ycombinator.com/item?id=46763864"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-01-24, 00:02:33",
-      "https://news.ycombinator.com/item?id=46739618"
-    ],
-    [
-      "Show HN: Floating-point drift between Apple M1 and H100 is real",
-      "https://news.ycombinator.com/item?id=46739618"
-    ]
-  ],
-  [
-    [
       "2026-01-23, 02:27:30",
       "https://news.ycombinator.com/item?id=46727603"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-01-21, 18:11:13",
-      "https://news.ycombinator.com/item?id=46709270"
+      "2026-01-21, 18:24:55",
+      "https://news.ycombinator.com/item?id=46709461"
     ],
     [
-      "Things I've learned in my 10 years as an engineering manager",
-      "https://www.jampa.dev/p/lessons-learned-after-10-years-as"
+      "Find 'Abbey Road when type 'Beatles abbey rd': Fuzzy/Semantic search in Postgres",
+      "https://rendiment.io/postgresql/2026/01/21/pgtrgm-pgvector-music.html"
     ]
   ],
   [
