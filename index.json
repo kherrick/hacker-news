@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-26, 22:22:33",
+      "https://news.ycombinator.com/item?id=46772404"
+    ],
+    [
+      "Toy implementations of the 30 foundational papers recommended by Ilya Sutskever",
+      "https://github.com/pageman/sutskever-30-implementations"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 22:03:04",
       "https://news.ycombinator.com/item?id=46772212"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2026-01-26, 21:27:15",
-      "https://news.ycombinator.com/item?id=46771779"
+      "2026-01-26, 21:11:53",
+      "https://news.ycombinator.com/item?id=46771599"
     ],
     [
-      "Refusing to Use Twitter",
-      "https://blog.korny.info/2026/01/25/refusing-to-use-twitter"
+      "People who know the formula for WD-40",
+      "https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "ChatGPT Containers can now run bash, pip/npm install packages and download files",
       "https://simonwillison.net/2026/Jan/26/chatgpt-containers/"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 18:58:37",
-      "https://news.ycombinator.com/item?id=46769965"
-    ],
-    [
-      "When AI 'builds a browser,' check the repo before believing the hype",
-      "https://www.theregister.com/2026/01/26/cursor_opinion/"
     ]
   ],
   [
@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2026-01-26, 18:04:15",
+      "https://news.ycombinator.com/item?id=46769188"
+    ],
+    [
+      "AI code and software craft",
+      "https://alexwennerberg.com/blog/2026-01-25-slop.html"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 17:54:20",
       "https://news.ycombinator.com/item?id=46769051"
     ],
@@ -101,12 +111,22 @@
   ],
   [
     [
-      "2026-01-26, 16:43:30",
-      "https://news.ycombinator.com/item?id=46767875"
+      "2026-01-26, 17:07:24",
+      "https://news.ycombinator.com/item?id=46768257"
     ],
     [
-      "The mountain that weighed the Earth",
-      "https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/"
+      "The Adolescence of Technology",
+      "https://www.darioamodei.com/essay/the-adolescence-of-technology"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 16:27:46",
+      "https://news.ycombinator.com/item?id=46767668"
+    ],
+    [
+      "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
+      "https://twitter.com/lellouchenico/status/2015775970330882319"
     ]
   ],
   [
@@ -141,12 +161,12 @@
   ],
   [
     [
-      "2026-01-26, 15:01:03",
-      "https://news.ycombinator.com/item?id=46766432"
+      "2026-01-26, 15:07:37",
+      "https://news.ycombinator.com/item?id=46766526"
     ],
     [
-      "OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen",
-      "https://llmspy.org/docs/v3"
+      "Windows 11's Patch Tuesday nightmare gets worse",
+      "https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot"
     ]
   ],
   [
@@ -171,12 +191,32 @@
   ],
   [
     [
-      "2026-01-26, 11:00:44",
-      "https://news.ycombinator.com/item?id=46764170"
+      "2026-01-26, 14:10:25",
+      "https://news.ycombinator.com/item?id=46765819"
     ],
     [
-      "Show HN: Only 1 LLM can fly a drone",
-      "https://github.com/kxzk/snapbench"
+      "Apple introduces new AirTag with longer range and improved findability",
+      "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 13:58:27",
+      "https://news.ycombinator.com/item?id=46765694"
+    ],
+    [
+      "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
+      "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 13:36:22",
+      "https://news.ycombinator.com/item?id=46765460"
+    ],
+    [
+      "After two years of vibecoding, I'm back to writing by hand",
+      "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im"
     ]
   ],
   [
@@ -201,26 +241,6 @@
   ],
   [
     [
-      "2026-01-26, 07:41:52",
-      "https://news.ycombinator.com/item?id=46762882"
-    ],
-    [
-      "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
-      "https://github.com/quaadgras/graphics.gd/discussions/242"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 05:23:01",
-      "https://news.ycombinator.com/item?id=46762150"
-    ],
-    [
-      "The browser is the sandbox",
-      "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/"
-    ]
-  ],
-  [
-    [
       "2026-01-26, 02:01:04",
       "https://news.ycombinator.com/item?id=46760927"
     ],
@@ -231,32 +251,22 @@
   ],
   [
     [
+      "2026-01-24, 00:02:33",
+      "https://news.ycombinator.com/item?id=46739618"
+    ],
+    [
+      "Show HN: Floating-point drift between Apple M1 and H100 is real",
+      "https://news.ycombinator.com/item?id=46739618"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 02:27:30",
       "https://news.ycombinator.com/item?id=46727603"
     ],
     [
       "Not all Chess960 positions are equally complex",
       "https://arxiv.org/abs/2512.14319"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 20:10:25",
-      "https://news.ycombinator.com/item?id=46724542"
-    ],
-    [
-      "Taming P99s in OpenFGA: How we built a self-tuning strategy planner",
-      "https://auth0.com/blog/self-tuning-strategy-planner-openfga/"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 18:24:55",
-      "https://news.ycombinator.com/item?id=46709461"
-    ],
-    [
-      "Find 'Abbey Road when type 'Beatles abbey rd': Fuzzy/Semantic search in Postgres",
-      "https://rendiment.io/postgresql/2026/01/21/pgtrgm-pgvector-music.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "OpenFlexure Microscope",
       "https://openflexure.org/projects/microscope/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 21:57:08",
-      "https://news.ycombinator.com/item?id=46698264"
-    ],
-    [
-      "Text Is King",
-      "https://www.experimental-history.com/p/text-is-king"
     ]
   ],
   [
