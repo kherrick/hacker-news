@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-01-26, 15:07:37",
+      "https://news.ycombinator.com/item?id=46766526"
+    ],
+    [
+      "Windows 11's Patch Tuesday nightmare gets worse",
+      "https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 15:06:09",
+      "https://news.ycombinator.com/item?id=46766507"
+    ],
+    [
+      "OracleGPT: Thought Experiment on an AI Powered Executive",
+      "https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 15:05:04",
+      "https://news.ycombinator.com/item?id=46766493"
+    ],
+    [
+      "AI will not replace software engineers (hopefully)",
+      "https://medium.com/@sig.segv/ai-will-not-replace-software-engineers-hopefully-84c4f8fc94c0"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 15:01:03",
+      "https://news.ycombinator.com/item?id=46766432"
+    ],
+    [
+      "OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen",
+      "https://llmspy.org/docs/v3"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 14:44:51",
+      "https://news.ycombinator.com/item?id=46766229"
+    ],
+    [
+      "Exactitude in Science – Borges (1946) [pdf]",
+      "https://kwarc.info/teaching/TDM/Borges.pdf"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 14:27:00",
       "https://news.ycombinator.com/item?id=46766031"
     ],
@@ -55,7 +105,7 @@
       "https://news.ycombinator.com/item?id=46765120"
     ],
     [
-      "Vibe Coding Kills Open Source",
+      "Vibe coding kills open source",
       "https://arxiv.org/abs/2601.15494"
     ]
   ],
@@ -101,16 +151,6 @@
   ],
   [
     [
-      "2026-01-26, 10:12:10",
-      "https://news.ycombinator.com/item?id=46763803"
-    ],
-    [
-      "Being a Canadian in America (Eric Migicovsky)",
-      "https://ericmigi.com/blog/on-being-a-canadian-in-america-in-2026/"
-    ]
-  ],
-  [
-    [
       "2026-01-26, 07:41:52",
       "https://news.ycombinator.com/item?id=46762882"
     ],
@@ -141,32 +181,12 @@
   ],
   [
     [
-      "2026-01-26, 02:07:34",
-      "https://news.ycombinator.com/item?id=46760998"
-    ],
-    [
-      "Video Games as Art",
-      "https://gwern.net/video-game-art"
-    ]
-  ],
-  [
-    [
       "2026-01-26, 00:10:42",
       "https://news.ycombinator.com/item?id=46760099"
     ],
     [
       "Scientists identify brain waves that define the limits of 'you'",
       "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 22:44:50",
-      "https://news.ycombinator.com/item?id=46759352"
-    ],
-    [
-      "Case study: Creative math – How AI fakes proofs",
-      "https://tomaszmachnik.pl/case-study-math-en.html"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2026-01-25, 15:51:03",
-      "https://news.ycombinator.com/item?id=46755115"
-    ],
-    [
-      "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
-      "https://www.diljitpr.net/blog-post-postgresql-dlq"
-    ]
-  ],
-  [
-    [
       "2026-01-25, 15:34:51",
       "https://news.ycombinator.com/item?id=46754944"
     ],
     [
       "A macOS app that blurs your screen when you slouch",
       "https://github.com/tldev/posturr"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 18:15:47",
-      "https://news.ycombinator.com/item?id=46723049"
-    ],
-    [
-      "Emissary, a fast open-source Java messaging library",
-      "https://github.com/joel-jeremy/emissary"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-01-20, 11:15:33",
-      "https://news.ycombinator.com/item?id=46690592"
-    ],
-    [
-      "Guix for Development",
-      "https://dthompson.us/posts/guix-for-development.html"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 10:56:02",
       "https://news.ycombinator.com/item?id=46690463"
     ],
     [
       "A static site generator written in POSIX shell",
       "https://aashvik.com/posts/shell-ssg/"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 08:29:18",
+      "https://news.ycombinator.com/item?id=46689289"
+    ],
+    [
+      "QMD - Quick Markdown Search",
+      "https://github.com/tobi/qmd"
     ]
   ]
 ]
