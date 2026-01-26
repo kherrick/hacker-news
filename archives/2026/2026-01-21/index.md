@@ -32,6 +32,7 @@
 * [2026-01-21, 18:29:54](https://news.ycombinator.com/item?id=46709530) - [Hate is a strong word, but I don't like Windows 11](https://blog.urara.pl/hate-is-a-strong-word-but-i-really-really-really-don%27t-like-windows-11)
 * [2026-01-21, 18:20:19](https://news.ycombinator.com/item?id=46709409) - [Tell HN: Amazon has deactivated my seller account. No idea how to move forward](https://news.ycombinator.com/item?id=46709409)
 * [2026-01-21, 18:14:34](https://news.ycombinator.com/item?id=46709320) - [GenAI, the Snake Eating Its Own Tail](https://www.ybrikman.com/blog/2026/01/21/gen-ai-snake-eating-its-own-tail/)
+* [2026-01-21, 18:11:13](https://news.ycombinator.com/item?id=46709270) - [Things I've learned in my 10 years as an engineering manager](https://www.jampa.dev/p/lessons-learned-after-10-years-as)
 * [2026-01-21, 18:05:36](https://news.ycombinator.com/item?id=46709179) - [Stanford scientists found a way to regrow cartilage and stop arthritis](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)
 * [2026-01-21, 17:52:17](https://news.ycombinator.com/item?id=46708990) - [Show HN: Company hiring trends and insights from job postings](https://jobswithgpt.com/company-profiles/)
 * [2026-01-21, 17:39:42](https://news.ycombinator.com/item?id=46708807) - [illumos](https://illumos.org/)
