@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-01-26, 19:56:18",
-      "https://news.ycombinator.com/item?id=46770675"
-    ],
-    [
-      "AI Lazyslop and Personal Responsibility",
-      "https://danielsada.tech/blog/ai-lazyslop-and-personal-responsibility/"
-    ]
-  ],
-  [
-    [
       "2026-01-26, 19:23:54",
       "https://news.ycombinator.com/item?id=46770274"
     ],
     [
       "Dithering – Part 2: The Ordered Dithering",
       "https://visualrambling.space/dithering-part-2/"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 19:19:40",
+      "https://news.ycombinator.com/item?id=46770221"
+    ],
+    [
+      "ChatGPT Containers can now run bash, pip/npm install packages and download files",
+      "https://simonwillison.net/2026/Jan/26/chatgpt-containers/"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=46769201"
     ],
     [
-      "Google Books has been effectively killed by the last algorithm update",
+      "Google Books removed all search functions for any books with previews",
       "https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_removed_search/"
     ]
   ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-01-21, 02:34:20",
-      "https://news.ycombinator.com/item?id=46700489"
-    ],
-    [
-      "Blade Runner Costume Design (2020)",
-      "https://costumedesignarchive.blogspot.com/2020/12/blade-runner-1982.html"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 21:57:08",
       "https://news.ycombinator.com/item?id=46698264"
     ],
     [
       "Text Is King",
       "https://www.experimental-history.com/p/text-is-king"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 16:52:52",
+      "https://news.ycombinator.com/item?id=46694193"
+    ],
+    [
+      "The Hidden Engineering of Runways",
+      "https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways"
     ]
   ]
 ]
