@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-26, 03:04:07",
-      "https://news.ycombinator.com/item?id=46761370"
+      "2026-01-26, 04:18:19",
+      "https://news.ycombinator.com/item?id=46761822"
     ],
     [
-      "Tech CEOs attend Amazon-funded \"Melania\" screening at White House",
-      "https://www.hollywoodreporter.com/movies/movie-news/white-house-vip-melania-screening-mike-tyson-tim-cook-1236484037/"
+      "Iran's internet blackout may become permanent, with access for elites only",
+      "https://restofworld.org/2026/iran-blackout-tiered-internet/"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 03:40:06",
+      "https://news.ycombinator.com/item?id=46761614"
+    ],
+    [
+      "Environmentalists worry Google behind bid to control Oregon town's water",
+      "https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Microsoft suspects some PCs might not boot after Windows 11 January 2026 Update",
       "https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 02:07:34",
+      "https://news.ycombinator.com/item?id=46760998"
+    ],
+    [
+      "Video Games as Art",
+      "https://gwern.net/video-game-art"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Scientists identify brain waves that define the limits of 'you'",
       "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 23:13:06",
-      "https://news.ycombinator.com/item?id=46759627"
-    ],
-    [
-      "Show HN: FaceTime-style calls with an AI Companion (Live2D and long-term memory)",
-      "https://thebeni.ai/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Oneplus phone update introduces hardware anti-rollback",
       "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 19:31:23",
-      "https://news.ycombinator.com/item?id=46757357"
-    ],
-    [
-      "I was right about ATProto key management",
-      "https://notes.nora.codes/atproto-again/"
     ]
   ],
   [
@@ -235,8 +235,18 @@
       "https://news.ycombinator.com/item?id=46733306"
     ],
     [
-      "The Science of Fermentation (The Food Programme)",
+      "The Science of Fermentation [audio]",
       "https://www.bbc.co.uk/programmes/m002pqg6"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 14:52:43",
+      "https://news.ycombinator.com/item?id=46719958"
+    ],
+    [
+      "Building a Real-Time HN Display for $15",
+      "https://medium.com/@lee.harding/building-a-real-time-hn-display-for-15-3ea1772051ff"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Turbopack: Building faster by building less",
       "https://nextjs.org/blog/turbopack-incremental-computation"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 12:30:08",
-      "https://news.ycombinator.com/item?id=46691130"
-    ],
-    [
-      "Hackable personal news reader in bash pipes",
-      "https://github.com/haron/news.sh"
     ]
   ],
   [
