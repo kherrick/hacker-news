@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-26, 07:41:52](https://news.ycombinator.com/item?id=46762882) - [The Holy Grail of Linux Binary Compatibility: Musl and Dlopen](https://github.com/quaadgras/graphics.gd/discussions/242)
 * [2026-01-26, 05:23:01](https://news.ycombinator.com/item?id=46762150) - [The browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/)
 * [2026-01-26, 04:18:19](https://news.ycombinator.com/item?id=46761822) - [Iran's internet blackout may become permanent, with access for elites only](https://restofworld.org/2026/iran-blackout-tiered-internet/)
+* [2026-01-26, 04:05:38](https://news.ycombinator.com/item?id=46761761) - [Running the Stupid Cricut Software on Linux](https://arthur.pizza/2025/12/running-stupid-cricut-software-under-linux/)
 * [2026-01-26, 03:40:06](https://news.ycombinator.com/item?id=46761614) - [Environmentalists worry Google behind bid to control Oregon town's water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php)
 * [2026-01-26, 02:41:32](https://news.ycombinator.com/item?id=46761239) - [You can just port things to Cloudflare Workers](https://sigh.dev/posts/you-can-just-port-things-to-cloudflare-workers/)
 * [2026-01-26, 02:07:34](https://news.ycombinator.com/item?id=46760998) - [Video Games as Art](https://gwern.net/video-game-art)
@@ -11,7 +13,6 @@
 * [2026-01-25, 22:44:50](https://news.ycombinator.com/item?id=46759352) - [Case study: Creative math – How AI fakes proofs](https://tomaszmachnik.pl/case-study-math-en.html)
 * [2026-01-25, 22:18:38](https://news.ycombinator.com/item?id=46759063) - [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
 * [2026-01-25, 21:44:10](https://news.ycombinator.com/item?id=46758644) - [LED lighting undermines visual performance unless supplemented by wider spectra](https://www.nature.com/articles/s41598-026-35389-6)
-* [2026-01-25, 20:39:25](https://news.ycombinator.com/item?id=46757944) - [Oneplus phone update introduces hardware anti-rollback](https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback)
 * [2026-01-25, 19:31:23](https://news.ycombinator.com/item?id=46757357) - [I was right about ATProto key management](https://notes.nora.codes/atproto-again/)
 * [2026-01-25, 19:12:50](https://news.ycombinator.com/item?id=46757162) - [Spanish track was fractured before high-speed train disaster, report finds](https://www.bbc.com/news/articles/c1m77dmxlvlo)
 * [2026-01-25, 19:03:40](https://news.ycombinator.com/item?id=46757067) - [First, make me care](https://gwern.net/blog/2026/make-me-care)
@@ -27,7 +28,6 @@
 * [2026-01-22, 14:52:43](https://news.ycombinator.com/item?id=46719958) - [Building a Real-Time HN Display for $15](https://medium.com/@lee.harding/building-a-real-time-hn-display-for-15-3ea1772051ff)
 * [2026-01-22, 03:37:03](https://news.ycombinator.com/item?id=46714981) - [Delta single handle ball faucets (1963)](https://archive.org/details/DeltaSingleHandleBallFaucets)
 * [2026-01-21, 18:11:13](https://news.ycombinator.com/item?id=46709270) - [Things I've learned in my 10 years as an engineering manager](https://www.jampa.dev/p/lessons-learned-after-10-years-as)
-* [2026-01-20, 18:49:20](https://news.ycombinator.com/item?id=46696111) - [Turbopack: Building faster by building less](https://nextjs.org/blog/turbopack-incremental-computation)
 * [2026-01-20, 11:15:33](https://news.ycombinator.com/item?id=46690592) - [Guix for Development](https://dthompson.us/posts/guix-for-development.html)
 * [2026-01-20, 10:56:02](https://news.ycombinator.com/item?id=46690463) - [A static site generator written in POSIX shell](https://aashvik.com/posts/shell-ssg/)
 

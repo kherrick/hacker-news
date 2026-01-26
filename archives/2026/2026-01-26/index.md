@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 07:41:52](https://news.ycombinator.com/item?id=46762882) - [The Holy Grail of Linux Binary Compatibility: Musl and Dlopen](https://github.com/quaadgras/graphics.gd/discussions/242)
 * [2026-01-26, 05:23:01](https://news.ycombinator.com/item?id=46762150) - [The browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/)
 * [2026-01-26, 04:18:19](https://news.ycombinator.com/item?id=46761822) - [Iran's internet blackout may become permanent, with access for elites only](https://restofworld.org/2026/iran-blackout-tiered-internet/)
+* [2026-01-26, 04:05:38](https://news.ycombinator.com/item?id=46761761) - [Running the Stupid Cricut Software on Linux](https://arthur.pizza/2025/12/running-stupid-cricut-software-under-linux/)
 * [2026-01-26, 03:40:06](https://news.ycombinator.com/item?id=46761614) - [Environmentalists worry Google behind bid to control Oregon town's water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php)
 * [2026-01-26, 03:31:02](https://news.ycombinator.com/item?id=46761547) - [Show HN: WhyThere – Compare cities side-by-side to decide where to move](https://whythere.life)
 * [2026-01-26, 03:21:12](https://news.ycombinator.com/item?id=46761493) - [Show HN: NukeCast – If it happened today, where would the fallout go](https://nukecast.com/)
