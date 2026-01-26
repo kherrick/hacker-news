@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-26, 17:54:20](https://news.ycombinator.com/item?id=46769051) - [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)
+* [2026-01-26, 17:07:24](https://news.ycombinator.com/item?id=46768257) - [The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology)
 * [2026-01-26, 16:58:00](https://news.ycombinator.com/item?id=46768081) - [DHS keeps trying and failing to unmask anonymous ICE critics online](https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/)
 * [2026-01-26, 16:43:30](https://news.ycombinator.com/item?id=46767875) - [The mountain that weighed the Earth](https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/)
 * [2026-01-26, 16:27:46](https://news.ycombinator.com/item?id=46767668) - [France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://twitter.com/lellouchenico/status/2015775970330882319)
@@ -20,14 +22,12 @@
 * [2026-01-26, 07:41:52](https://news.ycombinator.com/item?id=46762882) - [The Holy Grail of Linux Binary Compatibility: Musl and Dlopen](https://github.com/quaadgras/graphics.gd/discussions/242)
 * [2026-01-26, 05:23:01](https://news.ycombinator.com/item?id=46762150) - [The browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/)
 * [2026-01-26, 00:10:42](https://news.ycombinator.com/item?id=46760099) - [Scientists identify brain waves that define the limits of 'you'](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you)
-* [2026-01-25, 22:18:38](https://news.ycombinator.com/item?id=46759063) - [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
 * [2026-01-25, 21:44:10](https://news.ycombinator.com/item?id=46758644) - [LED lighting undermines visual performance unless supplemented by wider spectra](https://www.nature.com/articles/s41598-026-35389-6)
 * [2026-01-25, 19:03:40](https://news.ycombinator.com/item?id=46757067) - [First, make me care](https://gwern.net/blog/2026/make-me-care)
 * [2026-01-22, 10:34:25](https://news.ycombinator.com/item?id=46717472) - [Runjak.codes: An adversarial coding test](https://runjak.codes/posts/2026-01-21-adversarial-coding-test/)
 * [2026-01-21, 18:24:55](https://news.ycombinator.com/item?id=46709461) - [Find 'Abbey Road when type 'Beatles abbey rd': Fuzzy/Semantic search in Postgres](https://rendiment.io/postgresql/2026/01/21/pgtrgm-pgvector-music.html)
 * [2026-01-21, 18:11:13](https://news.ycombinator.com/item?id=46709270) - [Things I've learned in my 10 years as an engineering manager](https://www.jampa.dev/p/lessons-learned-after-10-years-as)
 * [2026-01-21, 02:34:20](https://news.ycombinator.com/item?id=46700489) - [Blade Runner Costume Design (2020)](https://costumedesignarchive.blogspot.com/2020/12/blade-runner-1982.html)
-* [2026-01-20, 22:17:39](https://news.ycombinator.com/item?id=46698456) - [Wind Chime Length Calculator (2022)](https://www.snyderfamily.com/chimecalcs/)
 * [2026-01-20, 21:57:08](https://news.ycombinator.com/item?id=46698264) - [Text Is King](https://www.experimental-history.com/p/text-is-king)
 * [2026-01-20, 08:29:18](https://news.ycombinator.com/item?id=46689289) - [QMD - Quick Markdown Search](https://github.com/tobi/qmd)
 
