@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-01-26, 14:44:51",
-      "https://news.ycombinator.com/item?id=46766229"
-    ],
-    [
-      "Exactitude in Science – Borges (1946) [pdf]",
-      "https://kwarc.info/teaching/TDM/Borges.pdf"
-    ]
-  ],
-  [
-    [
       "2026-01-26, 14:41:04",
       "https://news.ycombinator.com/item?id=46766188"
     ],
@@ -247,6 +237,16 @@
     [
       "Not all Chess960 positions are equally complex",
       "https://arxiv.org/abs/2512.14319"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 20:10:25",
+      "https://news.ycombinator.com/item?id=46724542"
+    ],
+    [
+      "Taming P99s in OpenFGA: How we built a self-tuning strategy planner",
+      "https://auth0.com/blog/self-tuning-strategy-planner-openfga/"
     ]
   ],
   [
