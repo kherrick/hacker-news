@@ -46,6 +46,7 @@
 * [2026-01-22, 16:00:24](https://news.ycombinator.com/item?id=46721019) - [Show HN: Bible translated using LLMs from source Greek and Hebrew](https://biblexica.com)
 * [2026-01-22, 15:58:09](https://news.ycombinator.com/item?id=46720987) - [SFPark: Interactive map of SF parking regulations](https://hugues.betakappaphi.com/2026/01/21/sfpark/)
 * [2026-01-22, 15:20:48](https://news.ycombinator.com/item?id=46720395) - [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
+* [2026-01-22, 14:52:43](https://news.ycombinator.com/item?id=46719958) - [Building a Real-Time HN Display for $15](https://medium.com/@lee.harding/building-a-real-time-hn-display-for-15-3ea1772051ff)
 * [2026-01-22, 14:47:58](https://news.ycombinator.com/item?id=46719899) - [Tree-sitter vs. Language Servers](https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/)
 * [2026-01-22, 14:32:52](https://news.ycombinator.com/item?id=46719704) - [Palantir, Meta, OpenAI Execs Appointed Lieutenant Colonels in US Army](https://twitter.com/SecArmy/status/1933693585183965372)
 * [2026-01-22, 14:14:15](https://news.ycombinator.com/item?id=46719491) - [In Europe, Wind and Solar Overtake Fossil Fuels](https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels)
