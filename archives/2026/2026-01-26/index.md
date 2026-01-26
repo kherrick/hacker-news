@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 13:36:22](https://news.ycombinator.com/item?id=46765460) - [After two years of vibecoding, I'm back to writing by hand](https://atmoio.substack.com/p/after-two-years-of-vibecoding-im)
+* [2026-01-26, 13:17:19](https://news.ycombinator.com/item?id=46765273) - [Transfering Files with gRPC](https://kreya.app/blog/transfering-files-with-grpc/)
+* [2026-01-26, 13:01:00](https://news.ycombinator.com/item?id=46765120) - [Vibe Coding Kills Open Source](https://arxiv.org/abs/2601.15494)
+* [2026-01-26, 12:57:43](https://news.ycombinator.com/item?id=46765092) - [Water 'Bankruptcy' Era Has Begun for Billions, Scientists Say](https://www.bloomberg.com/news/articles/2026-01-20/water-bankruptcy-era-has-begun-for-billions-scientists-say)
 * [2026-01-26, 11:16:17](https://news.ycombinator.com/item?id=46764284) - [Show HN: Posts p/month more than doubled in the last year](https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/)
+* [2026-01-26, 11:00:44](https://news.ycombinator.com/item?id=46764170) - [Show HN: Only 1 LLM can fly a drone](https://github.com/kxzk/snapbench)
 * [2026-01-26, 10:19:51](https://news.ycombinator.com/item?id=46763864) - [MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/)
 * [2026-01-26, 10:02:12](https://news.ycombinator.com/item?id=46763721) - [San Francisco Graffiti](https://walzr.com/sf-graffiti)
 * [2026-01-26, 09:52:26](https://news.ycombinator.com/item?id=46763651) - [Filming ICE is legal but exposes you to digital tracking](https://theconversation.com/filming-ice-is-legal-but-exposes-you-to-digital-tracking-heres-how-to-minimize-the-risk-273566)
