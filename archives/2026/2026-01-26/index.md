@@ -6,6 +6,7 @@
 
 * [2026-01-26, 19:56:18](https://news.ycombinator.com/item?id=46770675) - [AI Lazyslop and Personal Responsibility](https://danielsada.tech/blog/ai-lazyslop-and-personal-responsibility/)
 * [2026-01-26, 19:23:54](https://news.ycombinator.com/item?id=46770274) - [Dithering – Part 2: The Ordered Dithering](https://visualrambling.space/dithering-part-2/)
+* [2026-01-26, 19:19:40](https://news.ycombinator.com/item?id=46770221) - [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
 * [2026-01-26, 18:58:37](https://news.ycombinator.com/item?id=46769965) - [When AI 'builds a browser,' check the repo before believing the hype](https://www.theregister.com/2026/01/26/cursor_opinion/)
 * [2026-01-26, 18:42:40](https://news.ycombinator.com/item?id=46769752) - [Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus](https://tetrisbench.com/tetrisbench/)
 * [2026-01-26, 18:37:37](https://news.ycombinator.com/item?id=46769668) - [Notice of Collective Action Lawsuit Against Workday, INC](https://workdaycase.com)
