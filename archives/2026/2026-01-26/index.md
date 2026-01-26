@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 16:58:00](https://news.ycombinator.com/item?id=46768081) - [DHS keeps trying and failing to unmask anonymous ICE critics online](https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/)
+* [2026-01-26, 16:43:30](https://news.ycombinator.com/item?id=46767875) - [The mountain that weighed the Earth](https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/)
 * [2026-01-26, 16:35:50](https://news.ycombinator.com/item?id=46767772) - [Is It Time for a Nordic Nuke?](https://warontherocks.com/2026/01/is-it-time-for-a-nordic-nuke/)
 * [2026-01-26, 16:27:46](https://news.ycombinator.com/item?id=46767668) - [France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://twitter.com/lellouchenico/status/2015775970330882319)
 * [2026-01-26, 16:04:07](https://news.ycombinator.com/item?id=46767323) - [What \"The Best\" Looks Like](https://www.kuril.in/blog/what-the-best-looks-like/)

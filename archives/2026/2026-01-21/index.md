@@ -31,6 +31,7 @@
 * [2026-01-21, 18:31:58](https://news.ycombinator.com/item?id=46709548) - [TeraWave Satellite Communications Network](https://www.blueorigin.com/news/blue-origin-introduces-terawave-space-based-network-for-global-connectivity)
 * [2026-01-21, 18:31:19](https://news.ycombinator.com/item?id=46709543) - [Show HN: Rails UI](https://railsui.com/)
 * [2026-01-21, 18:29:54](https://news.ycombinator.com/item?id=46709530) - [Hate is a strong word, but I don't like Windows 11](https://blog.urara.pl/hate-is-a-strong-word-but-i-really-really-really-don%27t-like-windows-11)
+* [2026-01-21, 18:24:55](https://news.ycombinator.com/item?id=46709461) - [Find 'Abbey Road when type 'Beatles abbey rd': Fuzzy/Semantic search in Postgres](https://rendiment.io/postgresql/2026/01/21/pgtrgm-pgvector-music.html)
 * [2026-01-21, 18:20:19](https://news.ycombinator.com/item?id=46709409) - [Tell HN: Amazon has deactivated my seller account. No idea how to move forward](https://news.ycombinator.com/item?id=46709409)
 * [2026-01-21, 18:14:34](https://news.ycombinator.com/item?id=46709320) - [GenAI, the Snake Eating Its Own Tail](https://www.ybrikman.com/blog/2026/01/21/gen-ai-snake-eating-its-own-tail/)
 * [2026-01-21, 18:11:13](https://news.ycombinator.com/item?id=46709270) - [Things I've learned in my 10 years as an engineering manager](https://www.jampa.dev/p/lessons-learned-after-10-years-as)
