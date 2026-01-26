@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-26, 18:37:37](https://news.ycombinator.com/item?id=46769668) - [Notice of Collective Action Lawsuit Against Workday, INC](https://workdaycase.com)
 * [2026-01-26, 18:05:15](https://news.ycombinator.com/item?id=46769201) - [Google Books has been effectively killed by the last algorithm update](https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_removed_search/)
 * [2026-01-26, 18:00:32](https://news.ycombinator.com/item?id=46769131) - [House of Lords Votes to Ban UK Children from Using Internet VPNs](https://www.ispreview.co.uk/index.php/2026/01/house-of-lords-votes-to-ban-uk-children-from-using-internet-vpns.html)
 * [2026-01-26, 17:54:20](https://news.ycombinator.com/item?id=46769051) - [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)
@@ -15,8 +16,8 @@
 * [2026-01-26, 14:44:51](https://news.ycombinator.com/item?id=46766229) - [Exactitude in Science – Borges (1946) [pdf]](https://kwarc.info/teaching/TDM/Borges.pdf)
 * [2026-01-26, 14:41:04](https://news.ycombinator.com/item?id=46766188) - [Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)
 * [2026-01-26, 14:27:00](https://news.ycombinator.com/item?id=46766031) - [Google AI Overviews cite YouTube more than any medical site for health queries](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+* [2026-01-26, 13:58:27](https://news.ycombinator.com/item?id=46765694) - [Porting 100k lines from TypeScript to Rust using Claude Code in a month](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html)
 * [2026-01-26, 13:36:22](https://news.ycombinator.com/item?id=46765460) - [After two years of vibecoding, I'm back to writing by hand](https://atmoio.substack.com/p/after-two-years-of-vibecoding-im)
-* [2026-01-26, 13:17:19](https://news.ycombinator.com/item?id=46765273) - [Transfering Files with gRPC](https://kreya.app/blog/transfering-files-with-grpc/)
 * [2026-01-26, 11:00:44](https://news.ycombinator.com/item?id=46764170) - [Show HN: Only 1 LLM can fly a drone](https://github.com/kxzk/snapbench)
 * [2026-01-26, 10:19:51](https://news.ycombinator.com/item?id=46763864) - [MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/)
 * [2026-01-26, 10:02:12](https://news.ycombinator.com/item?id=46763721) - [San Francisco Graffiti](https://walzr.com/sf-graffiti)
@@ -24,12 +25,11 @@
 * [2026-01-26, 05:23:01](https://news.ycombinator.com/item?id=46762150) - [The browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/)
 * [2026-01-26, 00:10:42](https://news.ycombinator.com/item?id=46760099) - [Scientists identify brain waves that define the limits of 'you'](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you)
 * [2026-01-23, 02:27:30](https://news.ycombinator.com/item?id=46727603) - [Not all Chess960 positions are equally complex](https://arxiv.org/abs/2512.14319)
-* [2026-01-22, 18:21:13](https://news.ycombinator.com/item?id=46723128) - [Show HN: Postgres and ClickHouse as a unified data stack](https://news.ycombinator.com/item?id=46723128)
+* [2026-01-22, 18:21:13](https://news.ycombinator.com/item?id=46723128) - [Show HN: Managed Postgres with native ClickHouse integration](https://news.ycombinator.com/item?id=46723128)
 * [2026-01-21, 18:24:55](https://news.ycombinator.com/item?id=46709461) - [Find 'Abbey Road when type 'Beatles abbey rd': Fuzzy/Semantic search in Postgres](https://rendiment.io/postgresql/2026/01/21/pgtrgm-pgvector-music.html)
 * [2026-01-21, 18:11:13](https://news.ycombinator.com/item?id=46709270) - [Things I've learned in my 10 years as an engineering manager](https://www.jampa.dev/p/lessons-learned-after-10-years-as)
 * [2026-01-21, 02:34:20](https://news.ycombinator.com/item?id=46700489) - [Blade Runner Costume Design (2020)](https://costumedesignarchive.blogspot.com/2020/12/blade-runner-1982.html)
 * [2026-01-20, 21:57:08](https://news.ycombinator.com/item?id=46698264) - [Text Is King](https://www.experimental-history.com/p/text-is-king)
-* [2026-01-20, 08:29:18](https://news.ycombinator.com/item?id=46689289) - [QMD - Quick Markdown Search](https://github.com/tobi/qmd)
 
 ## [Archives](archives/index.md)
 

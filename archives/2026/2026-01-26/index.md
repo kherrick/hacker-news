@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 18:37:37](https://news.ycombinator.com/item?id=46769668) - [Notice of Collective Action Lawsuit Against Workday, INC](https://workdaycase.com)
 * [2026-01-26, 18:05:15](https://news.ycombinator.com/item?id=46769201) - [Google Books has been effectively killed by the last algorithm update](https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_removed_search/)
 * [2026-01-26, 18:00:32](https://news.ycombinator.com/item?id=46769131) - [House of Lords Votes to Ban UK Children from Using Internet VPNs](https://www.ispreview.co.uk/index.php/2026/01/house-of-lords-votes-to-ban-uk-children-from-using-internet-vpns.html)
 * [2026-01-26, 17:54:20](https://news.ycombinator.com/item?id=46769051) - [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)
