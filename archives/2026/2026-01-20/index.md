@@ -89,6 +89,7 @@
 * [2026-01-20, 09:33:45](https://news.ycombinator.com/item?id=46689834) - [Workspaces and Monorepos in Package Managers](https://nesbitt.io/2026/01/18/workspaces-and-monorepos-in-package-managers.html)
 * [2026-01-20, 09:08:22](https://news.ycombinator.com/item?id=46689631) - [Extracting verified C++ from the Rocq theorem prover at Bloomberg](https://bloomberg.github.io/crane/)
 * [2026-01-20, 08:34:44](https://news.ycombinator.com/item?id=46689342) - [6 Years Building Video Players. 9B Requests. Starting Over](https://www.mux.com/blog/6-years-building-video-players-9-billion-requests-starting-over)
+* [2026-01-20, 08:29:18](https://news.ycombinator.com/item?id=46689289) - [QMD - Quick Markdown Search](https://github.com/tobi/qmd)
 * [2026-01-20, 08:16:07](https://news.ycombinator.com/item?id=46689204) - [Kraków, Poland in top 5 worst air quality worldwide](https://www.iqair.com/world-air-quality-ranking)
 * [2026-01-20, 08:05:39](https://news.ycombinator.com/item?id=46689143) - [America Is Slow-Walking into a Polymarket Disaster](https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/)
 * [2026-01-20, 07:56:29](https://news.ycombinator.com/item?id=46689093) - [Show HN: LangGraph architecture that scales (hexagonal pattern, 110 tests)](https://github.com/cleverhoods/sagecompass)

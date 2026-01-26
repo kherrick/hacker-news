@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 15:07:37](https://news.ycombinator.com/item?id=46766526) - [Windows 11's Patch Tuesday nightmare gets worse](https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot)
+* [2026-01-26, 15:06:09](https://news.ycombinator.com/item?id=46766507) - [OracleGPT: Thought Experiment on an AI Powered Executive](https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM)
+* [2026-01-26, 15:05:04](https://news.ycombinator.com/item?id=46766493) - [AI will not replace software engineers (hopefully)](https://medium.com/@sig.segv/ai-will-not-replace-software-engineers-hopefully-84c4f8fc94c0)
+* [2026-01-26, 15:01:03](https://news.ycombinator.com/item?id=46766432) - [OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen](https://llmspy.org/docs/v3)
+* [2026-01-26, 14:44:51](https://news.ycombinator.com/item?id=46766229) - [Exactitude in Science – Borges (1946) [pdf]](https://kwarc.info/teaching/TDM/Borges.pdf)
 * [2026-01-26, 14:27:00](https://news.ycombinator.com/item?id=46766031) - [Google AI Overviews cite YouTube more than any medical site for health queries](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 * [2026-01-26, 14:10:25](https://news.ycombinator.com/item?id=46765819) - [Apple introduces new AirTag with longer range and improved findability](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 * [2026-01-26, 13:58:27](https://news.ycombinator.com/item?id=46765694) - [Porting 100k lines from TypeScript to Rust using Claude Code in a month](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html)
