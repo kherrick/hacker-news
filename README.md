@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-26, 11:16:17](https://news.ycombinator.com/item?id=46764284) - [Show HN: Posts p/month more than doubled in the last year](https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/)
+* [2026-01-26, 11:16:17](https://news.ycombinator.com/item?id=46764284) - [Show HN posts p/month more than doubled in the last year](https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/)
 * [2026-01-26, 10:19:51](https://news.ycombinator.com/item?id=46763864) - [MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/)
 * [2026-01-26, 10:02:12](https://news.ycombinator.com/item?id=46763721) - [San Francisco Graffiti](https://walzr.com/sf-graffiti)
 * [2026-01-26, 09:35:31](https://news.ycombinator.com/item?id=46763548) - [UK House of Lords Votes to Extend Age Verification to VPNs](https://reclaimthenet.org/uk-house-of-lords-votes-to-extend-age-verification-to-vpns)
@@ -20,9 +20,9 @@
 * [2026-01-25, 18:06:26](https://news.ycombinator.com/item?id=46756427) - [Show HN: An interactive map of US lighthouses and navigational aids](https://www.lighthouses.app/)
 * [2026-01-25, 15:51:03](https://news.ycombinator.com/item?id=46755115) - [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq)
 * [2026-01-25, 15:34:51](https://news.ycombinator.com/item?id=46754944) - [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
+* [2026-01-25, 14:55:03](https://news.ycombinator.com/item?id=46754522) - [Bitwise conversion of doubles using only FP multiplication and addition (2020)](https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/)
 * [2026-01-25, 05:12:12](https://news.ycombinator.com/item?id=46750951) - [Compiling models to megakernels](https://blog.luminal.com/p/compiling-models-to-megakernels)
 * [2026-01-23, 15:03:08](https://news.ycombinator.com/item?id=46733306) - [The Science of Fermentation [audio]](https://www.bbc.co.uk/programmes/m002pqg6)
-* [2026-01-22, 19:54:06](https://news.ycombinator.com/item?id=46724348) - [The Post Correspondence Programming Language: Domino-oriented Programming (2015)](https://davidlazar.github.io/PCPL/)
 * [2026-01-22, 18:15:47](https://news.ycombinator.com/item?id=46723049) - [Emissary, a fast open-source Java messaging library](https://github.com/joel-jeremy/emissary)
 * [2026-01-22, 15:58:09](https://news.ycombinator.com/item?id=46720987) - [SFPark: Interactive map of SF parking regulations](https://hugues.betakappaphi.com/2026/01/21/sfpark/)
 * [2026-01-22, 14:52:43](https://news.ycombinator.com/item?id=46719958) - [Building a Real-Time HN Display for $15](https://medium.com/@lee.harding/building-a-real-time-hn-display-for-15-3ea1772051ff)
