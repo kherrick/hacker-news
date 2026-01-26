@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-26, 18:37:37",
+      "https://news.ycombinator.com/item?id=46769668"
+    ],
+    [
+      "Notice of Collective Action Lawsuit Against Workday, INC",
+      "https://workdaycase.com"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 18:05:15",
       "https://news.ycombinator.com/item?id=46769201"
     ],
@@ -151,22 +161,22 @@
   ],
   [
     [
+      "2026-01-26, 13:58:27",
+      "https://news.ycombinator.com/item?id=46765694"
+    ],
+    [
+      "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
+      "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 13:36:22",
       "https://news.ycombinator.com/item?id=46765460"
     ],
     [
       "After two years of vibecoding, I'm back to writing by hand",
       "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 13:17:19",
-      "https://news.ycombinator.com/item?id=46765273"
-    ],
-    [
-      "Transfering Files with gRPC",
-      "https://kreya.app/blog/transfering-files-with-grpc/"
     ]
   ],
   [
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=46723128"
     ],
     [
-      "Show HN: Postgres and ClickHouse as a unified data stack",
+      "Show HN: Managed Postgres with native ClickHouse integration",
       "https://news.ycombinator.com/item?id=46723128"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Text Is King",
       "https://www.experimental-history.com/p/text-is-king"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 08:29:18",
-      "https://news.ycombinator.com/item?id=46689289"
-    ],
-    [
-      "QMD - Quick Markdown Search",
-      "https://github.com/tobi/qmd"
     ]
   ]
 ]
