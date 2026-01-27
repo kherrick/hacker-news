@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-27](index.md)
 
 * [2026-01-27, 11:12:30](https://news.ycombinator.com/item?id=46778461) - [Ask HN: Books to learn 6502 ASM and the Apple II](https://news.ycombinator.com/item?id=46778461)
+* [2026-01-27, 10:55:37](https://news.ycombinator.com/item?id=46778341) - [I made my own Git](https://tonystr.net/blog/git_immitation)
 * [2026-01-27, 09:38:59](https://news.ycombinator.com/item?id=46777652) - [Celebrities say they are being censored by TikTok after speaking out against ICE](https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas)
 * [2026-01-27, 09:35:42](https://news.ycombinator.com/item?id=46777641) - [We Do Not Support Opt-Out Forms (2025)](https://consciousdigital.org/why-we-do-not-support-opt-out-forms/)
 * [2026-01-27, 09:14:07](https://news.ycombinator.com/item?id=46777448) - [Is OpenAI Dead Yet?](https://isopenaideadyet.com/)

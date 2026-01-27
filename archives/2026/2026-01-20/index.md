@@ -11,6 +11,7 @@
 * [2026-01-20, 22:36:23](https://news.ycombinator.com/item?id=46698623) - [Lunar Radio Telescope to Unlock Cosmic Mysteries](https://spectrum.ieee.org/lunar-radio-telescope)
 * [2026-01-20, 22:27:11](https://news.ycombinator.com/item?id=46698539) - [Driver killed and several injured after second train derails near Barcelona](https://www.bbc.com/news/articles/c1m78xl0gmpo)
 * [2026-01-20, 22:18:53](https://news.ycombinator.com/item?id=46698469) - [Provably Unmasking Malicious Behavior Through Execution Traces](https://arxiv.org/abs/2512.13821)
+* [2026-01-20, 22:18:03](https://news.ycombinator.com/item?id=46698459) - [Refinement Without Specification](https://buttondown.com/hillelwayne/archive/refinement-without-specification/)
 * [2026-01-20, 22:17:39](https://news.ycombinator.com/item?id=46698456) - [Wind Chime Length Calculator (2022)](https://www.snyderfamily.com/chimecalcs/)
 * [2026-01-20, 22:09:49](https://news.ycombinator.com/item?id=46698370) - [Which AI Lies Best? LLMs play a 1950s betrayal game by John Nash](https://so-long-sucker.vercel.app/)
 * [2026-01-20, 21:57:08](https://news.ycombinator.com/item?id=46698264) - [Text Is King](https://www.experimental-history.com/p/text-is-king)
