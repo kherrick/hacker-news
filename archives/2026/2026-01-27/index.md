@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-27](index.md)
 
+* [2026-01-27, 19:57:24](https://news.ycombinator.com/item?id=46785572) - [Chuck Klosterman on why we've never actually seen a real football game](https://www.latimes.com/entertainment-arts/books/story/2026-01-22/chuck-klosterman-new-book-football)
+* [2026-01-27, 19:44:48](https://news.ycombinator.com/item?id=46785371) - [The bachelor tax – what it costs to be single (to the IRS)](https://bachelor-tax.vercel.app/)
+* [2026-01-27, 19:42:22](https://news.ycombinator.com/item?id=46785334) - [Twin – The AI Company Builder](https://twin.so/)
 * [2026-01-27, 18:59:59](https://news.ycombinator.com/item?id=46784611) - [Ice Drives Unmarked Cars. This Public Database Tracks Their License Plates](https://theintercept.com/2026/01/02/ice-license-plates-database/)
 * [2026-01-27, 18:59:30](https://news.ycombinator.com/item?id=46784599) - [Arm's Cortex A725 Ft. Dell's Pro Max with GB10](https://chipsandcheese.com/p/arms-cortex-a725-ft-dells-pro-max)
 * [2026-01-27, 18:57:15](https://news.ycombinator.com/item?id=46784572) - [Lennart Poettering, Christian Brauner founded a new company](https://amutable.com/about)
@@ -14,6 +17,7 @@
 * [2026-01-27, 18:03:10](https://news.ycombinator.com/item?id=46783752) - [Prism](https://openai.com/index/introducing-prism)
 * [2026-01-27, 17:55:15](https://news.ycombinator.com/item?id=46783600) - [Show HN: LemonSlice – Give your voice agents a face](https://news.ycombinator.com/item?id=46783600)
 * [2026-01-27, 17:32:05](https://news.ycombinator.com/item?id=46783254) - [Kash Patel says FBI is investigating Signal chats of Minnesotans tracking ICE](https://www.ms.now/rachel-maddow-show/maddowblog/kash-patel-says-the-fbi-is-investigating-signal-chats-of-minnesotans-tracking-ice)
+* [2026-01-27, 17:32:05](https://news.ycombinator.com/item?id=46783254) - [FBI is investigating Minnesota Signal chats tracking ICE](https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041)
 * [2026-01-27, 17:18:20](https://news.ycombinator.com/item?id=46783024) - [One Human and One Agent = One Browser from Scratch](https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/)
 * [2026-01-27, 17:17:54](https://news.ycombinator.com/item?id=46783017) - [AI2: Open Coding Agents](https://allenai.org/blog/open-coding-agents)
 * [2026-01-27, 17:11:39](https://news.ycombinator.com/item?id=46782930) - [SoundCloud Data Breach Now on HaveIBeenPwned](https://haveibeenpwned.com/Breach/SoundCloud)
@@ -32,6 +36,7 @@
 * [2026-01-27, 14:00:21](https://news.ycombinator.com/item?id=46779994) - [Show HN: We Built the 1. EU-Sovereignty Audit for Websites](https://lightwaves.io/en/eu-audit/)
 * [2026-01-27, 13:44:24](https://news.ycombinator.com/item?id=46779809) - [TikTok users can't upload anti-ICE videos. The company blames tech issues](https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec)
 * [2026-01-27, 13:25:53](https://news.ycombinator.com/item?id=46779645) - [Xfwl4 – The Roadmap for a Xfce Wayland Compositor](https://alexxcons.github.io/blogpost_15.html)
+* [2026-01-27, 13:13:56](https://news.ycombinator.com/item?id=46779522) - [Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC](https://emsh.cat/one-human-one-agent-one-browser/)
 * [2026-01-27, 12:31:29](https://news.ycombinator.com/item?id=46779136) - [Mothers (YC X26, Defense Tech) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-01-27, 11:58:07](https://news.ycombinator.com/item?id=46778821) - [India and EU announce landmark trade deal](https://www.bbc.com/news/articles/crrnee01r9jo)
 * [2026-01-27, 11:12:30](https://news.ycombinator.com/item?id=46778461) - [Ask HN: Books to learn 6502 ASM and the Apple II](https://news.ycombinator.com/item?id=46778461)
