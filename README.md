@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-27, 09:38:59](https://news.ycombinator.com/item?id=46777652) - [Celebrities say they are being censored by TikTok after speaking out against ICE](https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas)
 * [2026-01-27, 07:26:36](https://news.ycombinator.com/item?id=46776564) - [The state of Linux music players in 2026](https://crescentro.se/posts/linux-music-players-2026/)
 * [2026-01-27, 07:06:25](https://news.ycombinator.com/item?id=46776454) - [Russia using Interpol's wanted list to target critics abroad, leak reveals](https://www.bbc.com/news/articles/c20gg729y1yo)
 * [2026-01-27, 05:42:27](https://news.ycombinator.com/item?id=46775961) - [Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model](https://www.kimi.com/blog/kimi-k2-5.html)
@@ -16,7 +17,6 @@
 * [2026-01-26, 16:27:46](https://news.ycombinator.com/item?id=46767668) - [France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://twitter.com/lellouchenico/status/2015775970330882319)
 * [2026-01-26, 16:11:28](https://news.ycombinator.com/item?id=46767440) - [RIP Low-Code 2014-2025](https://www.zackliscio.com/posts/rip-low-code-2014-2025/)
 * [2026-01-26, 15:38:50](https://news.ycombinator.com/item?id=46766961) - [There is an AI code review bubble](https://www.greptile.com/blog/ai-code-review-bubble)
-* [2026-01-26, 15:23:00](https://news.ycombinator.com/item?id=46766741) - [Qwen3-Max-Thinking](https://qwen.ai/blog?id=qwen3-max-thinking)
 * [2026-01-26, 15:07:37](https://news.ycombinator.com/item?id=46766526) - [Windows 11's Patch Tuesday nightmare gets worse](https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot)
 * [2026-01-26, 14:41:04](https://news.ycombinator.com/item?id=46766188) - [Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)
 * [2026-01-26, 14:10:25](https://news.ycombinator.com/item?id=46765819) - [Apple introduces new AirTag with longer range and improved findability](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
@@ -27,9 +27,9 @@
 * [2026-01-23, 19:38:33](https://news.ycombinator.com/item?id=46736815) - [Heathrow scraps liquid container limit](https://www.bbc.com/news/articles/c1evvx89559o)
 * [2026-01-23, 05:49:50](https://news.ycombinator.com/item?id=46728878) - [The Universal Pattern Popping Up in Math, Physics and Biology](https://www.quantamagazine.org/in-mysterious-pattern-math-and-nature-converge-20130205/)
 * [2026-01-23, 03:31:44](https://news.ycombinator.com/item?id=46728063) - [New York Times games are hard: A computational perspective](https://arxiv.org/abs/2509.10846)
-* [2026-01-22, 02:00:47](https://news.ycombinator.com/item?id=46714291) - [Cyclic Subgroup Sum](https://m-slee.netlify.app/posts/cyclic-subgroup-sum)
 * [2026-01-20, 17:24:41](https://news.ycombinator.com/item?id=46694767) - [Model Market Fit](https://www.nicolasbustamante.com/p/model-market-fit)
 * [2026-01-20, 16:52:52](https://news.ycombinator.com/item?id=46694193) - [The hidden engineering of runways](https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways)
+* [2026-01-20, 09:45:19](https://news.ycombinator.com/item?id=46689931) - [All In – a small tool to check real buyin after decisions](https://www.cognu.app/all-in)
 
 ## [Archives](archives/index.md)
 
