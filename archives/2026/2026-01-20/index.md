@@ -72,6 +72,7 @@
 * [2026-01-20, 14:07:39](https://news.ycombinator.com/item?id=46691963) - [The Temporal Consistency Challenge in Video Restoration](https://blog.videowatermarkremove.com/the-temporal-consistency-challenge-from-optical-flow-to-spatiotemporal-ai-in-video-restoration)
 * [2026-01-20, 13:51:03](https://news.ycombinator.com/item?id=46691835) - [IP Addresses Through 2025](https://www.potaroo.net/ispcol/2026-01/addr2025.html)
 * [2026-01-20, 13:34:16](https://news.ycombinator.com/item?id=46691660) - [The Zen of Reticulum](https://github.com/markqvist/Reticulum/blob/master/Zen%20of%20Reticulum.md)
+* [2026-01-20, 13:21:22](https://news.ycombinator.com/item?id=46691548) - [Snow Simulation Toy](https://potch.me/2026/snow-simulation-toy.html)
 * [2026-01-20, 13:19:49](https://news.ycombinator.com/item?id=46691531) - [Australian Decacorns](https://www.sohum.com/australian-decacorns/)
 * [2026-01-20, 13:10:08](https://news.ycombinator.com/item?id=46691454) - [Show HN: Ocrbase – pdf → .md/.json document OCR and structured extraction API](https://github.com/majcheradam/ocrbase)
 * [2026-01-20, 12:45:57](https://news.ycombinator.com/item?id=46691243) - [Ask HN: Do you have any evidence that agentic coding works?](https://news.ycombinator.com/item?id=46691243)

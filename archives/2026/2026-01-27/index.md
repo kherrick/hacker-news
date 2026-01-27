@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-27](index.md)
 
+* [2026-01-27, 12:31:29](https://news.ycombinator.com/item?id=46779136) - [Mothers (YC X26, Defense Tech) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-01-27, 11:12:30](https://news.ycombinator.com/item?id=46778461) - [Ask HN: Books to learn 6502 ASM and the Apple II](https://news.ycombinator.com/item?id=46778461)
 * [2026-01-27, 10:55:37](https://news.ycombinator.com/item?id=46778341) - [I made my own Git](https://tonystr.net/blog/git_immitation)
 * [2026-01-27, 09:38:59](https://news.ycombinator.com/item?id=46777652) - [Celebrities say they are being censored by TikTok after speaking out against ICE](https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas)
