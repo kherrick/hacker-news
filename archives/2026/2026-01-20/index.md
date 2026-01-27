@@ -54,6 +54,7 @@
 * [2026-01-20, 16:38:56](https://news.ycombinator.com/item?id=46693959) - [Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs](https://github.com/mastra-ai/mastra)
 * [2026-01-20, 16:31:51](https://news.ycombinator.com/item?id=46693828) - [The Startup Graveyard](https://www.loot-drop.io/)
 * [2026-01-20, 16:25:33](https://news.ycombinator.com/item?id=46693728) - [Cloudflare zero-day: Accessing any host globally](https://fearsoff.org/research/cloudflare-acme)
+* [2026-01-20, 16:22:42](https://news.ycombinator.com/item?id=46693673) - [Pharos: The Lighthouse at Alexandria](https://penelope.uchicago.edu/encyclopaedia_romana/greece/paganism/pharos.html)
 * [2026-01-20, 16:10:01](https://news.ycombinator.com/item?id=46693460) - [I built a 2x faster lexer, then discovered I/O was the real bottleneck](https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/)
 * [2026-01-20, 16:03:21](https://news.ycombinator.com/item?id=46693346) - [De-dollarization: Is the US dollar losing its dominance?](https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization)
 * [2026-01-20, 15:56:07](https://news.ycombinator.com/item?id=46693205) - [Nvidia Stock Crash Prediction](https://entropicthoughts.com/nvidia-stock-crash-prediction)

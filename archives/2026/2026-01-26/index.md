@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 23:32:00](https://news.ycombinator.com/item?id=46773242) - [Y Combinator website no longer lists Canada as a country it invests in](https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/)
 * [2026-01-26, 23:16:24](https://news.ycombinator.com/item?id=46773090) - [TIL the Apple TV Remote pairs with MacBooks for presentations and playback](https://support.apple.com/en-au/guide/mac-help/welcome/mac)
+* [2026-01-26, 23:05:43](https://news.ycombinator.com/item?id=46772966) - [You have to know how tech companies work](https://www.seangoedecke.com/knowing-how-to-drive-the-car/)
 * [2026-01-26, 22:41:36](https://news.ycombinator.com/item?id=46772655) - [Ask HN: Who do you follow via RSS feed?](https://news.ycombinator.com/item?id=46772655)
 * [2026-01-26, 22:29:54](https://news.ycombinator.com/item?id=46772495) - [I let ChatGPT analyze a decade of my Apple Watch data. Then I called my doctor](https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip)
 * [2026-01-26, 22:22:33](https://news.ycombinator.com/item?id=46772404) - [Toy implementations of the 30 foundational papers recommended by Ilya Sutskever](https://github.com/pageman/sutskever-30-implementations)

@@ -56,6 +56,7 @@
 * [2026-01-23, 09:24:27](https://news.ycombinator.com/item?id=46730346) - [The State of Modern AI Text to Speech Systems for Screen Reader Users](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
 * [2026-01-23, 09:06:26](https://news.ycombinator.com/item?id=46730233) - [Why are there so many CPU bugs nowadays](https://mas.to/@gabrielesvelto/115939583202357863)
 * [2026-01-23, 09:03:31](https://news.ycombinator.com/item?id=46730214) - [Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust)
+* [2026-01-23, 07:59:44](https://news.ycombinator.com/item?id=46729769) - [Any application that can be written in a system language, eventually will be](https://www.avraam.dev/blog/system-language-corollary)
 * [2026-01-23, 07:01:29](https://news.ycombinator.com/item?id=46729368) - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
 * [2026-01-23, 06:34:31](https://news.ycombinator.com/item?id=46729198) - [BU-808: How to Prolong Lithium-based Batteries (2023)](https://www.batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries/)
 * [2026-01-23, 05:34:35](https://news.ycombinator.com/item?id=46728808) - [I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)
