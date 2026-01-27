@@ -109,4 +109,5 @@
 * [2026-01-21, 01:37:41](https://news.ycombinator.com/item?id=46700146) - [Verizon starts requiring 365 days of paid service before it will unlock phones](https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/)
 * [2026-01-21, 00:35:01](https://news.ycombinator.com/item?id=46699697) - [A Lament for Aperture](https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/)
 * [2026-01-21, 00:21:13](https://news.ycombinator.com/item?id=46699597) - [Who Owns Rudolph's Nose?](https://creativelawcenter.com/copyright-rudolph-reindeer/)
+* [2026-01-21, 00:11:40](https://news.ycombinator.com/item?id=46699505) - [Designing Forms That Don't Get in the Way](https://www.souravinsights.com/blog/on-designing-forms)
 * [2026-01-21, 00:05:10](https://news.ycombinator.com/item?id=46699441) - [Show HN: macOS native DAW with Git branching model](https://www.scratchtrackaudio.com)
