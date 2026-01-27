@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-27](index.md)
 
+* [2026-01-27, 20:38:22](https://news.ycombinator.com/item?id=46786237) - [TikTok settles just before social media addiction trial to begin](https://www.bbc.com/news/articles/c24g8v6qr1mo)
 * [2026-01-27, 20:13:29](https://news.ycombinator.com/item?id=46785813) - [Ultraprocessed foods make up to 70% of the US food supply](https://www.cnn.com/2025/02/26/health/ultraprocessed-hyperpalatable-foods-wellness)
 * [2026-01-27, 19:57:24](https://news.ycombinator.com/item?id=46785572) - [Chuck Klosterman on why we've never actually seen a real football game](https://www.latimes.com/entertainment-arts/books/story/2026-01-22/chuck-klosterman-new-book-football)
 * [2026-01-27, 19:44:48](https://news.ycombinator.com/item?id=46785371) - [The bachelor tax – what it costs to be single (to the IRS)](https://bachelor-tax.vercel.app/)
