@@ -49,6 +49,7 @@
 * [2026-01-23, 12:30:32](https://news.ycombinator.com/item?id=46731694) - [Microsoft Gave FBI Keys to Unlock Encrypted Data, Exposing Major Privacy Flaw](https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/)
 * [2026-01-23, 12:16:54](https://news.ycombinator.com/item?id=46731612) - [Presence in Death](https://rubinmuseum.org/presence-in-death/)
 * [2026-01-23, 12:09:19](https://news.ycombinator.com/item?id=46731546) - [How to Leave Germany](https://allaboutberlin.com/guides/leaving-germany)
+* [2026-01-23, 12:05:11](https://news.ycombinator.com/item?id=46731513) - [The threat eating away at museum treasures](https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/)
 * [2026-01-23, 11:54:53](https://news.ycombinator.com/item?id=46731432) - [Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go](https://github.com/ramonvermeulen/whosthere)
 * [2026-01-23, 11:04:18](https://news.ycombinator.com/item?id=46731068) - [Ask HN: What's the current best local/open speech-to-speech setup?](https://news.ycombinator.com/item?id=46731068)
 * [2026-01-23, 10:39:09](https://news.ycombinator.com/item?id=46730885) - [Booting a PC from a Vinyl Record](https://boginjr.com/it/sw/dev/vinyl-boot/)

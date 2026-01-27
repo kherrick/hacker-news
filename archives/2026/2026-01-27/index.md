@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2026-01-27](index.md)
 
 * [2026-01-27, 18:59:59](https://news.ycombinator.com/item?id=46784611) - [Ice Drives Unmarked Cars. This Public Database Tracks Their License Plates](https://theintercept.com/2026/01/02/ice-license-plates-database/)
+* [2026-01-27, 18:59:30](https://news.ycombinator.com/item?id=46784599) - [Arm's Cortex A725 Ft. Dell's Pro Max with GB10](https://chipsandcheese.com/p/arms-cortex-a725-ft-dells-pro-max)
 * [2026-01-27, 18:57:15](https://news.ycombinator.com/item?id=46784572) - [Lennart Poettering, Christian Brauner founded a new company](https://amutable.com/about)
 * [2026-01-27, 18:50:50](https://news.ycombinator.com/item?id=46784491) - [Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer](https://www.ycombinator.com/companies/hypercubic/jobs)
 * [2026-01-27, 18:42:15](https://news.ycombinator.com/item?id=46784367) - [ICE watchers in Maine say they were threatened by federal agents](https://www.pressherald.com/2026/01/23/ice-watchers-in-maine-say-they-were-threatened-by-federal-agents/)
 * [2026-01-27, 18:35:33](https://news.ycombinator.com/item?id=46784263) - [U.S. government has lost more than 10k STEM PhDs since Trump took office](https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office)
+* [2026-01-27, 18:08:36](https://news.ycombinator.com/item?id=46783863) - [Clawdbot Renames to Moltbot](https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6)
 * [2026-01-27, 18:03:10](https://news.ycombinator.com/item?id=46783752) - [Prism](https://openai.com/index/introducing-prism)
 * [2026-01-27, 17:55:15](https://news.ycombinator.com/item?id=46783600) - [Show HN: LemonSlice – Give your voice agents a face](https://news.ycombinator.com/item?id=46783600)
 * [2026-01-27, 17:32:05](https://news.ycombinator.com/item?id=46783254) - [Kash Patel says FBI is investigating Signal chats of Minnesotans tracking ICE](https://www.ms.now/rachel-maddow-show/maddowblog/kash-patel-says-the-fbi-is-investigating-signal-chats-of-minnesotans-tracking-ice)
