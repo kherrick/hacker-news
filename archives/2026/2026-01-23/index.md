@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-23](index.md)
 
+* [2026-01-23, 22:51:55](https://news.ycombinator.com/item?id=46739082) - [Knapsack Offline Internet Solution (satellite datacasting)](https://www.netfreedompioneers.org/knapsack-content-station/)
 * [2026-01-23, 22:51:41](https://news.ycombinator.com/item?id=46739078) - [TikTok Is Now Collecting More Data About Its Users](https://www.wired.com/story/tiktok-new-privacy-policy/)
 * [2026-01-23, 22:51:25](https://news.ycombinator.com/item?id=46739075) - [Voyage-multimodal-3.5: A new multimodal retrieval frontier with video support](https://blog.voyageai.com/2026/01/15/voyage-multimodal-3-5/)
 * [2026-01-23, 22:28:01](https://news.ycombinator.com/item?id=46738853) - [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
