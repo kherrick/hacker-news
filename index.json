@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-27, 02:30:05",
+      "https://news.ycombinator.com/item?id=46774777"
+    ],
+    [
+      "Heathrow Drops the Liquids Rule",
+      "https://flymag.com/heathrow-drops-the-liquids-rule-what-changes-at-lhr-and-how-close-the-u-s-really-is/"
+    ]
+  ],
+  [
+    [
       "2026-01-27, 01:04:54",
       "https://news.ycombinator.com/item?id=46774108"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46772966"
     ],
     [
-      "You have to know how tech companies work",
+      "You have to know how to drive the car",
       "https://www.seangoedecke.com/knowing-how-to-drive-the-car/"
     ]
   ],
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2026-01-26, 10:19:51",
-      "https://news.ycombinator.com/item?id=46763864"
-    ],
-    [
-      "MapLibre Tile: a modern and efficient vector tile format",
-      "https://maplibre.org/news/2026-01-23-mlt-release/"
-    ]
-  ],
-  [
-    [
       "2026-01-26, 10:02:12",
       "https://news.ycombinator.com/item?id=46763721"
     ],
     [
       "San Francisco Graffiti",
       "https://walzr.com/sf-graffiti"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 14:31:53",
+      "https://news.ycombinator.com/item?id=46743865"
+    ],
+    [
+      "Why autosave is not recovery",
+      "https://zippers.dev/blog/why-savior-exists"
     ]
   ],
   [
@@ -251,32 +261,22 @@
   ],
   [
     [
-      "2026-01-23, 02:27:30",
-      "https://news.ycombinator.com/item?id=46727603"
-    ],
-    [
-      "Not all Chess960 positions are equally complex",
-      "https://arxiv.org/abs/2512.14319"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 18:24:55",
-      "https://news.ycombinator.com/item?id=46709461"
-    ],
-    [
-      "Find 'Abbey Road when type 'Beatles abbey rd': Fuzzy/Semantic search in Postgres",
-      "https://rendiment.io/postgresql/2026/01/21/pgtrgm-pgvector-music.html"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 04:16:48",
       "https://news.ycombinator.com/item?id=46701045"
     ],
     [
       "OpenFlexure Microscope",
       "https://openflexure.org/projects/microscope/"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 17:24:41",
+      "https://news.ycombinator.com/item?id=46694767"
+    ],
+    [
+      "Model Market Fit",
+      "https://www.nicolasbustamante.com/p/model-market-fit"
     ]
   ],
   [
