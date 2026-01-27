@@ -23,6 +23,7 @@
 * [2026-01-23, 18:42:38](https://news.ycombinator.com/item?id=46736091) - [Claude.ai silently failing since Jan 14, no official acknowledgment](https://github.com/anthropics/claude-code/issues/18866)
 * [2026-01-23, 18:39:42](https://news.ycombinator.com/item?id=46736048) - [House Vote Keeps Federal \"Kill Switch\" Vehicle Mandate](https://reclaimthenet.org/house-vote-keeps-federal-kill-switch-vehicle-mandat)
 * [2026-01-23, 18:08:11](https://news.ycombinator.com/item?id=46735644) - [New YC homepage](https://www.ycombinator.com/)
+* [2026-01-23, 18:07:31](https://news.ycombinator.com/item?id=46735637) - [The Enchiridion by Epictetus](https://www.gutenberg.org/files/45109/45109-h/45109-h.htm)
 * [2026-01-23, 18:05:08](https://news.ycombinator.com/item?id=46735616) - [Zotero 8](https://www.zotero.org/blog/zotero-8/)
 * [2026-01-23, 17:58:56](https://news.ycombinator.com/item?id=46735545) - [Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)
 * [2026-01-23, 17:56:31](https://news.ycombinator.com/item?id=46735511) - [Proof of Corn](https://proofofcorn.com/)
