@@ -61,6 +61,7 @@
 * [2026-01-24, 07:01:13](https://news.ycombinator.com/item?id=46741643) - [Telli (YC F24) is hiring ambitious people (eng, design, growth)[on-site, Berlin]](https://careers.telli.com/)
 * [2026-01-24, 06:11:42](https://news.ycombinator.com/item?id=46741482) - [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
 * [2026-01-24, 06:09:30](https://news.ycombinator.com/item?id=46741472) - [Show HN: Open-source Figma design to code](https://github.com/vibeflowing-inc/vibe_figma)
+* [2026-01-24, 04:49:02](https://news.ycombinator.com/item?id=46741150) - [Rust's Standard Library on the GPU](https://www.vectorware.com/blog/rust-std-on-gpu/)
 * [2026-01-24, 03:20:51](https://news.ycombinator.com/item?id=46740748) - [\"People are going to stop and ask you, 'How can I help?' Let them.\"](https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow)
 * [2026-01-24, 03:12:13](https://news.ycombinator.com/item?id=46740705) - [Language may rely less on complex grammar than previously thought: study](https://scitechdaily.com/have-we-been-wrong-about-language-for-70-years-new-study-challenges-long-held-theory/)
 * [2026-01-24, 02:59:42](https://news.ycombinator.com/item?id=46740644) - [Caroline Ellison Former Alameda CEO Released from Prison After 440 Days](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)

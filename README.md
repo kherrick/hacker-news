@@ -26,7 +26,7 @@
 * [2026-01-27, 10:55:37](https://news.ycombinator.com/item?id=46778341) - [I made my own Git](https://tonystr.net/blog/git_immitation)
 * [2026-01-27, 06:17:46](https://news.ycombinator.com/item?id=46776155) - [Doing the thing is doing the thing](https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing)
 * [2026-01-26, 21:09:19](https://news.ycombinator.com/item?id=46771564) - [A few random notes from Claude coding quite a bit last few weeks](https://twitter.com/karpathy/status/2015883857489522876)
-* [2026-01-23, 22:02:52](https://news.ycombinator.com/item?id=46738578) - [The First Eighteen Lines of the Waste Land (1989)](https://yalereview.org/article/hecht-eliot-waste-land)
+* [2026-01-24, 04:49:02](https://news.ycombinator.com/item?id=46741150) - [Rust's Standard Library on the GPU](https://www.vectorware.com/blog/rust-std-on-gpu/)
 * [2026-01-23, 20:07:51](https://news.ycombinator.com/item?id=46737203) - [Arrows to Arrows, Categories to Queries](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
 * [2026-01-23, 16:43:31](https://news.ycombinator.com/item?id=46734608) - [Avoiding duplicate objects in Django querysets](https://johnnymetz.com/posts/avoiding-duplicate-objects-in-django-querysets/)
 * [2026-01-23, 12:05:11](https://news.ycombinator.com/item?id=46731513) - [The threat eating away at museum treasures](https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/)
