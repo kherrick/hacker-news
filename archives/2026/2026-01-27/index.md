@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-27](index.md)
 
+* [2026-01-27, 11:12:30](https://news.ycombinator.com/item?id=46778461) - [Ask HN: Books to learn 6502 ASM and the Apple II](https://news.ycombinator.com/item?id=46778461)
 * [2026-01-27, 09:38:59](https://news.ycombinator.com/item?id=46777652) - [Celebrities say they are being censored by TikTok after speaking out against ICE](https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas)
+* [2026-01-27, 09:35:42](https://news.ycombinator.com/item?id=46777641) - [We Do Not Support Opt-Out Forms (2025)](https://consciousdigital.org/why-we-do-not-support-opt-out-forms/)
 * [2026-01-27, 09:14:07](https://news.ycombinator.com/item?id=46777448) - [Is OpenAI Dead Yet?](https://isopenaideadyet.com/)
 * [2026-01-27, 07:26:36](https://news.ycombinator.com/item?id=46776564) - [The state of Linux music players in 2026](https://crescentro.se/posts/linux-music-players-2026/)
 * [2026-01-27, 07:06:25](https://news.ycombinator.com/item?id=46776454) - [Russia using Interpol's wanted list to target critics abroad, leak reveals](https://www.bbc.com/news/articles/c20gg729y1yo)

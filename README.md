@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-27, 11:12:30](https://news.ycombinator.com/item?id=46778461) - [Ask HN: Books to learn 6502 ASM and the Apple II](https://news.ycombinator.com/item?id=46778461)
+* [2026-01-27, 09:35:42](https://news.ycombinator.com/item?id=46777641) - [We Do Not Support Opt-Out Forms (2025)](https://consciousdigital.org/why-we-do-not-support-opt-out-forms/)
 * [2026-01-27, 07:06:25](https://news.ycombinator.com/item?id=46776454) - [Russia using Interpol's wanted list to target critics abroad, leak reveals](https://www.bbc.com/news/articles/c20gg729y1yo)
 * [2026-01-27, 05:42:27](https://news.ycombinator.com/item?id=46775961) - [Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model](https://www.kimi.com/blog/kimi-k2-5.html)
 * [2026-01-27, 03:24:13](https://news.ycombinator.com/item?id=46775135) - [A list of fun destinations for telnet](https://telnet.org/htm/places.htm)
@@ -9,7 +11,6 @@
 * [2026-01-26, 19:19:40](https://news.ycombinator.com/item?id=46770221) - [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
 * [2026-01-26, 18:42:40](https://news.ycombinator.com/item?id=46769752) - [Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus](https://tetrisbench.com/tetrisbench/)
 * [2026-01-26, 18:04:15](https://news.ycombinator.com/item?id=46769188) - [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html)
-* [2026-01-26, 17:54:20](https://news.ycombinator.com/item?id=46769051) - [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)
 * [2026-01-26, 17:46:38](https://news.ycombinator.com/item?id=46768909) - [JuiceSSH – Give me my pro features back](https://nproject.io/blog/juicessh-give-me-back-my-pro-features/)
 * [2026-01-26, 17:07:24](https://news.ycombinator.com/item?id=46768257) - [The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology)
 * [2026-01-26, 16:27:46](https://news.ycombinator.com/item?id=46767668) - [France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://twitter.com/lellouchenico/status/2015775970330882319)
@@ -28,7 +29,6 @@
 * [2026-01-23, 03:31:44](https://news.ycombinator.com/item?id=46728063) - [New York Times games are hard: A computational perspective](https://arxiv.org/abs/2509.10846)
 * [2026-01-20, 17:24:41](https://news.ycombinator.com/item?id=46694767) - [Model Market Fit](https://www.nicolasbustamante.com/p/model-market-fit)
 * [2026-01-20, 16:52:52](https://news.ycombinator.com/item?id=46694193) - [The hidden engineering of runways](https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways)
-* [2026-01-20, 09:45:19](https://news.ycombinator.com/item?id=46689931) - [All In – a small tool to check real buyin after decisions](https://www.cognu.app/all-in)
 * [2026-01-20, 03:52:16](https://news.ycombinator.com/item?id=46687729) - [Velox: A Port of Tauri to Swift by Miguel de Icaza](https://github.com/velox-apps/velox)
 
 ## [Archives](archives/index.md)
