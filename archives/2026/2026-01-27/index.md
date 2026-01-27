@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-27](index.md)
 
 * [2026-01-27, 09:38:59](https://news.ycombinator.com/item?id=46777652) - [Celebrities say they are being censored by TikTok after speaking out against ICE](https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas)
+* [2026-01-27, 09:14:07](https://news.ycombinator.com/item?id=46777448) - [Is OpenAI Dead Yet?](https://isopenaideadyet.com/)
 * [2026-01-27, 07:26:36](https://news.ycombinator.com/item?id=46776564) - [The state of Linux music players in 2026](https://crescentro.se/posts/linux-music-players-2026/)
 * [2026-01-27, 07:06:25](https://news.ycombinator.com/item?id=46776454) - [Russia using Interpol's wanted list to target critics abroad, leak reveals](https://www.bbc.com/news/articles/c20gg729y1yo)
 * [2026-01-27, 06:38:15](https://news.ycombinator.com/item?id=46776272) - [France passes bill to ban social media use by under-15s](https://www.rte.ie/news/europe/2026/0127/1555251-france-social-media-ban/)
