@@ -1,5 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-27, 14:05:48](https://news.ycombinator.com/item?id=46780065) - [The age of Pump and Dump software](https://tautvilas.medium.com/software-pump-and-dump-c8a9a73d313b)
+* [2026-01-27, 14:00:21](https://news.ycombinator.com/item?id=46779994) - [Show HN: We Built the 1. EU-Sovereignty Audit for Websites](https://lightwaves.io/en/eu-audit/)
+* [2026-01-27, 13:44:24](https://news.ycombinator.com/item?id=46779809) - [TikTok users can't upload anti-ICE videos. The company blames tech issues](https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec)
+* [2026-01-27, 13:25:53](https://news.ycombinator.com/item?id=46779645) - [Xfwl4 – The Roadmap for a Xfce Wayland Compositor](https://alexxcons.github.io/blogpost_15.html)
 * [2026-01-27, 12:31:29](https://news.ycombinator.com/item?id=46779136) - [9 Mothers (YC X26, Defense Tech) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-01-27, 11:12:30](https://news.ycombinator.com/item?id=46778461) - [Ask HN: Books to learn 6502 ASM and the Apple II](https://news.ycombinator.com/item?id=46778461)
 * [2026-01-27, 10:55:37](https://news.ycombinator.com/item?id=46778341) - [I made my own Git](https://tonystr.net/blog/git_immitation)
@@ -13,8 +17,6 @@
 * [2026-01-26, 19:19:40](https://news.ycombinator.com/item?id=46770221) - [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
 * [2026-01-26, 18:04:15](https://news.ycombinator.com/item?id=46769188) - [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 * [2026-01-26, 17:46:38](https://news.ycombinator.com/item?id=46768909) - [JuiceSSH – Give me my pro features back](https://nproject.io/blog/juicessh-give-me-back-my-pro-features/)
-* [2026-01-26, 17:07:24](https://news.ycombinator.com/item?id=46768257) - [The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology)
-* [2026-01-26, 16:27:46](https://news.ycombinator.com/item?id=46767668) - [France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://twitter.com/lellouchenico/status/2015775970330882319)
 * [2026-01-26, 16:11:28](https://news.ycombinator.com/item?id=46767440) - [RIP Low-Code 2014-2025](https://www.zackliscio.com/posts/rip-low-code-2014-2025/)
 * [2026-01-26, 15:38:50](https://news.ycombinator.com/item?id=46766961) - [There is an AI code review bubble](https://www.greptile.com/blog/ai-code-review-bubble)
 * [2026-01-26, 15:07:37](https://news.ycombinator.com/item?id=46766526) - [Windows 11's Patch Tuesday nightmare gets worse](https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot)
@@ -25,9 +27,7 @@
 * [2026-01-23, 05:49:50](https://news.ycombinator.com/item?id=46728878) - [The Universal Pattern Popping Up in Math, Physics and Biology (2013)](https://www.quantamagazine.org/in-mysterious-pattern-math-and-nature-converge-20130205/)
 * [2026-01-23, 03:31:44](https://news.ycombinator.com/item?id=46728063) - [New York Times games are hard: A computational perspective](https://arxiv.org/abs/2509.10846)
 * [2026-01-20, 22:18:03](https://news.ycombinator.com/item?id=46698459) - [Refinement Without Specification](https://buttondown.com/hillelwayne/archive/refinement-without-specification/)
-* [2026-01-20, 17:24:41](https://news.ycombinator.com/item?id=46694767) - [Model Market Fit](https://www.nicolasbustamante.com/p/model-market-fit)
 * [2026-01-20, 16:52:52](https://news.ycombinator.com/item?id=46694193) - [The hidden engineering of runways](https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways)
-* [2026-01-20, 15:19:22](https://news.ycombinator.com/item?id=46692692) - [Dockerhub for Skill.md](https://skillregistry.io/)
 * [2026-01-20, 13:21:22](https://news.ycombinator.com/item?id=46691548) - [Snow Simulation Toy](https://potch.me/2026/snow-simulation-toy.html)
 * [2026-01-20, 03:52:16](https://news.ycombinator.com/item?id=46687729) - [Velox: A Port of Tauri to Swift by Miguel de Icaza](https://github.com/velox-apps/velox)
 
