@@ -70,6 +70,7 @@
 * [2026-01-26, 02:15:52](https://news.ycombinator.com/item?id=46761061) - [Microsoft suspects some PCs might not boot after Windows 11 January 2026 Update](https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/)
 * [2026-01-26, 02:07:34](https://news.ycombinator.com/item?id=46760998) - [Video Games as Art](https://gwern.net/video-game-art)
 * [2026-01-26, 02:01:04](https://news.ycombinator.com/item?id=46760927) - [Show HN: SF Microclimates](https://github.com/solo-founders/sf-microclimates)
+* [2026-01-26, 00:40:01](https://news.ycombinator.com/item?id=46760329) - [Over 36,500 killed in Iran's deadliest massacre, documents reveal](https://www.iranintl.com/en/202601255198)
 * [2026-01-26, 00:34:17](https://news.ycombinator.com/item?id=46760285) - [Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)
 * [2026-01-26, 00:27:41](https://news.ycombinator.com/item?id=46760237) - [Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot)
 * [2026-01-26, 00:10:42](https://news.ycombinator.com/item?id=46760099) - [Scientists identify brain waves that define the limits of 'you'](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you)
