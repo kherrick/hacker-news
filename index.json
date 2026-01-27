@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-27, 18:59:30",
+      "https://news.ycombinator.com/item?id=46784599"
+    ],
+    [
+      "Arm's Cortex A725 Ft. Dell's Pro Max with GB10",
+      "https://chipsandcheese.com/p/arms-cortex-a725-ft-dells-pro-max"
+    ]
+  ],
+  [
+    [
       "2026-01-27, 18:50:50",
       "https://news.ycombinator.com/item?id=46784491"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2026-01-27, 18:08:36",
+      "https://news.ycombinator.com/item?id=46783863"
+    ],
+    [
+      "Clawdbot Renames to Moltbot",
+      "https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6"
+    ]
+  ],
+  [
+    [
       "2026-01-27, 18:03:10",
       "https://news.ycombinator.com/item?id=46783752"
     ],
     [
       "Prism",
       "https://openai.com/index/introducing-prism"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 17:55:15",
-      "https://news.ycombinator.com/item?id=46783600"
-    ],
-    [
-      "Show HN: LemonSlice – Upgrade your voice agents to real-time video",
-      "https://news.ycombinator.com/item?id=46783600"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "A first look at Aperture by Tailscale (private alpha)",
       "https://tailscale.com/blog/aperture-private-alpha"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 15:58:05",
-      "https://news.ycombinator.com/item?id=46781707"
-    ],
-    [
-      "Amazon to shut down Go and Fresh stores",
-      "https://www.cnn.com/2026/01/27/food/amazon-fresh-go-closures"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-01-26, 21:09:19",
-      "https://news.ycombinator.com/item?id=46771564"
-    ],
-    [
-      "A few random notes from Claude coding quite a bit last few weeks",
-      "https://twitter.com/karpathy/status/2015883857489522876"
-    ]
-  ],
-  [
-    [
       "2026-01-26, 20:12:34",
       "https://news.ycombinator.com/item?id=46770855"
     ],
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2026-01-26, 19:19:40",
-      "https://news.ycombinator.com/item?id=46770221"
+      "2026-01-26, 07:31:17",
+      "https://news.ycombinator.com/item?id=46762827"
     ],
     [
-      "ChatGPT Containers can now run bash, pip/npm install packages and download files",
-      "https://simonwillison.net/2026/Jan/26/chatgpt-containers/"
+      "Handling Long Branches",
+      "https://maskray.me/blog/2026-01-25-handling-long-branches"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "The Enchiridion by Epictetus",
       "https://www.gutenberg.org/files/45109/45109-h/45109-h.htm"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 12:05:11",
+      "https://news.ycombinator.com/item?id=46731513"
+    ],
+    [
+      "The threat eating away at museum treasures",
+      "https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/"
     ]
   ],
   [
