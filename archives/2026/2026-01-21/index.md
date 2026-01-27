@@ -90,6 +90,7 @@
 * [2026-01-21, 09:49:34](https://news.ycombinator.com/item?id=46703301) - [SETI Home Is in Hiberation](https://setiathome.berkeley.edu/)
 * [2026-01-21, 09:09:57](https://news.ycombinator.com/item?id=46703019) - [Director Gore Verbinski: Unreal Engine is the greatest slip backwards for movie](https://www.pcgamer.com/movies-tv/director-gore-verbinski-says-unreal-engine-is-the-greatest-slip-backwards-for-movie-cgi/)
 * [2026-01-21, 09:04:42](https://news.ycombinator.com/item?id=46702980) - [I finally got my sway layout to autostart the way I like it](https://hugues.betakappaphi.com/2026/01/19/sway-layout/)
+* [2026-01-21, 09:01:03](https://news.ycombinator.com/item?id=46702948) - [A simulation where life unfolds in real time](https://soupof.life)
 * [2026-01-21, 07:48:06](https://news.ycombinator.com/item?id=46702411) - [Can you slim macOS down?](https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/)
 * [2026-01-21, 07:32:23](https://news.ycombinator.com/item?id=46702280) - [EU Parliament freezes US trade deal ratification](https://www.lemonde.fr/en/international/article/2026/01/20/eu-parliament-freezes-us-trade-deal-after-trump-s-tariff-threats-over-greenland_6749625_4.html)
 * [2026-01-21, 07:09:03](https://news.ycombinator.com/item?id=46702099) - [The percentage of Show HN posts is increasing, but their scores are decreasing](https://snubi.net/posts/Show-HN/)
