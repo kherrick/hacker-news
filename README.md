@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-27, 07:06:25](https://news.ycombinator.com/item?id=46776454) - [Russia using Interpol's wanted list to target critics abroad, leak reveals](https://www.bbc.com/news/articles/c20gg729y1yo)
+* [2026-01-27, 06:38:15](https://news.ycombinator.com/item?id=46776272) - [France passes bill to ban social media use by under-15s](https://www.rte.ie/news/europe/2026/0127/1555251-france-social-media-ban/)
 * [2026-01-27, 05:42:27](https://news.ycombinator.com/item?id=46775961) - [Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model](https://www.kimi.com/blog/kimi-k2-5.html)
 * [2026-01-27, 03:24:13](https://news.ycombinator.com/item?id=46775135) - [A list of fun destinations for telnet](https://telnet.org/htm/places.htm)
-* [2026-01-27, 01:04:54](https://news.ycombinator.com/item?id=46774108) - [iPhone 5s Gets New Software Update 13 Years After Launch](https://www.macrumors.com/2026/01/26/iphone-5s-software-update/)
 * [2026-01-26, 22:29:54](https://news.ycombinator.com/item?id=46772495) - [I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor](https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip)
 * [2026-01-26, 21:11:53](https://news.ycombinator.com/item?id=46771599) - [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)
 * [2026-01-26, 19:23:54](https://news.ycombinator.com/item?id=46770274) - [Dithering – Part 2: The Ordered Dithering](https://visualrambling.space/dithering-part-2/)
@@ -21,7 +22,6 @@
 * [2026-01-26, 14:10:25](https://news.ycombinator.com/item?id=46765819) - [Apple introduces new AirTag with longer range and improved findability](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 * [2026-01-26, 13:58:27](https://news.ycombinator.com/item?id=46765694) - [Porting 100k lines from TypeScript to Rust using Claude Code in a month](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html)
 * [2026-01-26, 13:36:22](https://news.ycombinator.com/item?id=46765460) - [After two years of vibecoding, I'm back to writing by hand](https://atmoio.substack.com/p/after-two-years-of-vibecoding-im)
-* [2026-01-26, 11:00:44](https://news.ycombinator.com/item?id=46764170) - [Show HN: Only 1 LLM can fly a drone](https://github.com/kxzk/snapbench)
 * [2026-01-26, 10:02:12](https://news.ycombinator.com/item?id=46763721) - [San Francisco Graffiti](https://walzr.com/sf-graffiti)
 * [2026-01-26, 00:40:01](https://news.ycombinator.com/item?id=46760329) - [Over 36,500 killed in Iran's deadliest massacre, documents reveal](https://www.iranintl.com/en/202601255198)
 * [2026-01-23, 22:51:55](https://news.ycombinator.com/item?id=46739082) - [Knapsack Offline Internet Solution (satellite datacasting)](https://www.netfreedompioneers.org/knapsack-content-station/)
