@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
 * [2026-01-22, 23:34:44](https://news.ycombinator.com/item?id=46726526) - [Improving the usability of C libraries in Swift](https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/)
+* [2026-01-22, 23:29:11](https://news.ycombinator.com/item?id=46726480) - [When two years of academic work vanished with a single click](https://www.nature.com/articles/d41586-025-04064-7)
 * [2026-01-22, 23:04:25](https://news.ycombinator.com/item?id=46726259) - [FIPS Dependencies and Prebuilt Binaries](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/)
 * [2026-01-22, 22:31:27](https://news.ycombinator.com/item?id=46725982) - [How to Find LinkedIn Profiles and Work Emails in 5 Minutes](https://crona.ai/blog/how-to-find-a-work-email-from-a-name-and-linkedin-2-step-workflow)
 * [2026-01-22, 21:54:02](https://news.ycombinator.com/item?id=46725632) - [Anthropic Economic Index economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)
@@ -81,6 +82,7 @@
 * [2026-01-22, 05:15:46](https://news.ycombinator.com/item?id=46715600) - [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
 * [2026-01-22, 03:37:03](https://news.ycombinator.com/item?id=46714981) - [Delta single handle ball faucets (1963)](https://archive.org/details/DeltaSingleHandleBallFaucets)
 * [2026-01-22, 03:26:38](https://news.ycombinator.com/item?id=46714916) - [Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)
+* [2026-01-22, 02:00:47](https://news.ycombinator.com/item?id=46714291) - [Cyclic Subgroup Sum](https://m-slee.netlify.app/posts/cyclic-subgroup-sum)
 * [2026-01-22, 01:48:44](https://news.ycombinator.com/item?id=46714192) - [Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]](https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf)
 * [2026-01-22, 01:11:36](https://news.ycombinator.com/item?id=46713929) - [Significant US Farm Losses Persist, Despite Federal Assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)
 * [2026-01-22, 01:11:13](https://news.ycombinator.com/item?id=46713924) - [Internet voting is insecure and should not be used in public elections](https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/)

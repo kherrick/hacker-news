@@ -21,15 +21,15 @@
 * [2026-01-26, 14:41:04](https://news.ycombinator.com/item?id=46766188) - [Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)
 * [2026-01-26, 14:10:25](https://news.ycombinator.com/item?id=46765819) - [Apple introduces new AirTag with longer range and improved findability](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 * [2026-01-26, 13:58:27](https://news.ycombinator.com/item?id=46765694) - [Porting 100k lines from TypeScript to Rust using Claude Code in a month](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html)
-* [2026-01-26, 13:36:22](https://news.ycombinator.com/item?id=46765460) - [After two years of vibecoding, I'm back to writing by hand](https://atmoio.substack.com/p/after-two-years-of-vibecoding-im)
 * [2026-01-26, 10:02:12](https://news.ycombinator.com/item?id=46763721) - [San Francisco Graffiti](https://walzr.com/sf-graffiti)
 * [2026-01-26, 00:40:01](https://news.ycombinator.com/item?id=46760329) - [Over 36,500 killed in Iran's deadliest massacre, documents reveal](https://www.iranintl.com/en/202601255198)
 * [2026-01-23, 22:51:55](https://news.ycombinator.com/item?id=46739082) - [Knapsack Offline Internet Solution (satellite datacasting)](https://www.netfreedompioneers.org/knapsack-content-station/)
 * [2026-01-23, 19:38:33](https://news.ycombinator.com/item?id=46736815) - [Heathrow scraps liquid container limit](https://www.bbc.com/news/articles/c1evvx89559o)
 * [2026-01-23, 03:31:44](https://news.ycombinator.com/item?id=46728063) - [New York Times games are hard: A computational perspective](https://arxiv.org/abs/2509.10846)
+* [2026-01-22, 23:29:11](https://news.ycombinator.com/item?id=46726480) - [When two years of academic work vanished with a single click](https://www.nature.com/articles/d41586-025-04064-7)
+* [2026-01-22, 02:00:47](https://news.ycombinator.com/item?id=46714291) - [Cyclic Subgroup Sum](https://m-slee.netlify.app/posts/cyclic-subgroup-sum)
 * [2026-01-20, 17:24:41](https://news.ycombinator.com/item?id=46694767) - [Model Market Fit](https://www.nicolasbustamante.com/p/model-market-fit)
 * [2026-01-20, 16:52:52](https://news.ycombinator.com/item?id=46694193) - [The hidden engineering of runways](https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways)
-* [2026-01-20, 16:22:42](https://news.ycombinator.com/item?id=46693673) - [Pharos: The Lighthouse at Alexandria](https://penelope.uchicago.edu/encyclopaedia_romana/greece/paganism/pharos.html)
 
 ## [Archives](archives/index.md)
 
