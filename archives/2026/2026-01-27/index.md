@@ -13,6 +13,7 @@
 * [2026-01-27, 17:55:15](https://news.ycombinator.com/item?id=46783600) - [Show HN: LemonSlice – Give your voice agents a face](https://news.ycombinator.com/item?id=46783600)
 * [2026-01-27, 17:32:05](https://news.ycombinator.com/item?id=46783254) - [Kash Patel says FBI is investigating Signal chats of Minnesotans tracking ICE](https://www.ms.now/rachel-maddow-show/maddowblog/kash-patel-says-the-fbi-is-investigating-signal-chats-of-minnesotans-tracking-ice)
 * [2026-01-27, 17:18:20](https://news.ycombinator.com/item?id=46783024) - [One Human and One Agent = One Browser from Scratch](https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/)
+* [2026-01-27, 17:17:54](https://news.ycombinator.com/item?id=46783017) - [AI2: Open Coding Agents](https://allenai.org/blog/open-coding-agents)
 * [2026-01-27, 17:11:39](https://news.ycombinator.com/item?id=46782930) - [SoundCloud Data Breach Now on HaveIBeenPwned](https://haveibeenpwned.com/Breach/SoundCloud)
 * [2026-01-27, 17:04:22](https://news.ycombinator.com/item?id=46782811) - [Management as AI superpower: Thriving in a world of agentic AI](https://www.oneusefulthing.org/p/management-as-ai-superpower)
 * [2026-01-27, 17:01:37](https://news.ycombinator.com/item?id=46782763) - [Artie (YC S23) Is Hiring a Founding Recruiter](https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter)
