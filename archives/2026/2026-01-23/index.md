@@ -16,6 +16,7 @@
 * [2026-01-23, 20:07:49](https://news.ycombinator.com/item?id=46737202) - [Maze Algorithms (2017)](http://www.jamisbuck.org/mazes/)
 * [2026-01-23, 19:57:44](https://news.ycombinator.com/item?id=46737076) - [Certificate Transparency Log Explorer](https://certs.swerdlow.dev)
 * [2026-01-23, 19:50:03](https://news.ycombinator.com/item?id=46736978) - [Show HN: 83 browser-use trajectories, visualized](https://trails-red.vercel.app/viewer)
+* [2026-01-23, 19:38:33](https://news.ycombinator.com/item?id=46736815) - [Heathrow scraps liquid container limit](https://www.bbc.com/news/articles/c1evvx89559o)
 * [2026-01-23, 19:31:44](https://news.ycombinator.com/item?id=46736734) - [Iran Govt Fakes Traffic to Mimic Internet Restoration](https://mastodon.social/@netblocks/115942585753525035)
 * [2026-01-23, 19:28:10](https://news.ycombinator.com/item?id=46736683) - [Tesla kills Autopilot, locks lane-keeping behind $99/month fee](https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/)
 * [2026-01-23, 18:42:38](https://news.ycombinator.com/item?id=46736091) - [Claude.ai silently failing since Jan 14, no official acknowledgment](https://github.com/anthropics/claude-code/issues/18866)
