@@ -1,26 +1,6 @@
 [
   [
     [
-      "2026-01-27, 09:38:59",
-      "https://news.ycombinator.com/item?id=46777652"
-    ],
-    [
-      "Celebrities say they are being censored by TikTok after speaking out against ICE",
-      "https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 09:14:07",
-      "https://news.ycombinator.com/item?id=46777448"
-    ],
-    [
-      "Is OpenAI Dead Yet?",
-      "https://isopenaideadyet.com/"
-    ]
-  ],
-  [
-    [
       "2026-01-27, 07:06:25",
       "https://news.ycombinator.com/item?id=46776454"
     ],
@@ -107,6 +87,16 @@
     [
       "AI code and software craft",
       "https://alexwennerberg.com/blog/2026-01-25-slop.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 17:54:20",
+      "https://news.ycombinator.com/item?id=46769051"
+    ],
+    [
+      "Fedora Asahi Remix is now working on Apple M3",
+      "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "All In – a small tool to check real buyin after decisions",
       "https://www.cognu.app/all-in"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 03:52:16",
+      "https://news.ycombinator.com/item?id=46687729"
+    ],
+    [
+      "Velox: A Port of Tauri to Swift by Miguel de Icaza",
+      "https://github.com/velox-apps/velox"
     ]
   ]
 ]
