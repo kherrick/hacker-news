@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-27, 20:13:29",
+      "https://news.ycombinator.com/item?id=46785813"
+    ],
+    [
+      "Ultraprocessed foods make up to 70% of the US food supply",
+      "https://www.cnn.com/2025/02/26/health/ultraprocessed-hyperpalatable-foods-wellness"
+    ]
+  ],
+  [
+    [
       "2026-01-27, 19:57:24",
       "https://news.ycombinator.com/item?id=46785572"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=46785371"
     ],
     [
-      "The bachelor tax – what it costs to be single (to the IRS)",
+      "The bachelor tax – what it costs in taxes to be single",
       "https://bachelor-tax.vercel.app/"
     ]
   ],
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2026-01-27, 15:45:45",
-      "https://news.ycombinator.com/item?id=46781516"
+      "2026-01-27, 15:41:14",
+      "https://news.ycombinator.com/item?id=46781444"
     ],
     [
-      "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
-      "https://tech.lgbt/@JadedBlueEyes/115967791152135761"
+      "Amazon closing its Fresh and Go stores",
+      "https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2026-01-26, 21:09:19",
+      "https://news.ycombinator.com/item?id=46771564"
+    ],
+    [
+      "A few random notes from Claude coding quite a bit last few weeks",
+      "https://twitter.com/karpathy/status/2015883857489522876"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 20:12:34",
       "https://news.ycombinator.com/item?id=46770855"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-01-21, 09:01:03",
-      "https://news.ycombinator.com/item?id=46702948"
-    ],
-    [
-      "A simulation where life unfolds in real time",
-      "https://soupof.life"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 13:21:22",
       "https://news.ycombinator.com/item?id=46691548"
     ],
     [
       "Snow Simulation Toy",
       "https://potch.me/2026/snow-simulation-toy.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 03:52:16",
-      "https://news.ycombinator.com/item?id=46687729"
-    ],
-    [
-      "Velox: A Port of Tauri to Swift by Miguel de Icaza",
-      "https://github.com/velox-apps/velox"
     ]
   ]
 ]
