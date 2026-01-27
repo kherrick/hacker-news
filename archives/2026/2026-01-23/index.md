@@ -8,6 +8,7 @@
 * [2026-01-23, 22:51:41](https://news.ycombinator.com/item?id=46739078) - [TikTok Is Now Collecting More Data About Its Users](https://www.wired.com/story/tiktok-new-privacy-policy/)
 * [2026-01-23, 22:51:25](https://news.ycombinator.com/item?id=46739075) - [Voyage-multimodal-3.5: A new multimodal retrieval frontier with video support](https://blog.voyageai.com/2026/01/15/voyage-multimodal-3-5/)
 * [2026-01-23, 22:28:01](https://news.ycombinator.com/item?id=46738853) - [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
+* [2026-01-23, 22:02:52](https://news.ycombinator.com/item?id=46738578) - [The First Eighteen Lines of the Waste Land (1989)](https://yalereview.org/article/hecht-eliot-waste-land)
 * [2026-01-23, 21:34:29](https://news.ycombinator.com/item?id=46738241) - [EquipmentShare (YC W15) goes public](https://www.ycombinator.com/blog/congratulations-to-equipmentshare/)
 * [2026-01-23, 21:08:55](https://news.ycombinator.com/item?id=46737957) - [Mental Models (2018)](https://fs.blog/mental-models/)
 * [2026-01-23, 21:01:34](https://news.ycombinator.com/item?id=46737870) - [TrueVault (YC W14) is hiring a Growth Lead to test different growth channels](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead)

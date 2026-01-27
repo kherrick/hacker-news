@@ -86,6 +86,7 @@
 * [2026-01-22, 01:48:44](https://news.ycombinator.com/item?id=46714192) - [Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]](https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf)
 * [2026-01-22, 01:11:36](https://news.ycombinator.com/item?id=46713929) - [Significant US Farm Losses Persist, Despite Federal Assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)
 * [2026-01-22, 01:11:13](https://news.ycombinator.com/item?id=46713924) - [Internet voting is insecure and should not be used in public elections](https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/)
+* [2026-01-22, 00:36:51](https://news.ycombinator.com/item?id=46713721) - [Why are we still so afraid of using the grumpy old period?](https://www.nytimes.com/2026/01/15/magazine/ending-sentences-period.html)
 * [2026-01-22, 00:34:20](https://news.ycombinator.com/item?id=46713704) - [I'll pass on your zoom call.](https://operand.online/chronicle/pass.zoom)
 * [2026-01-22, 00:12:00](https://news.ycombinator.com/item?id=46713526) - [Threat Actors Expand Abuse of Microsoft Visual Studio Code](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/)
 * [2026-01-22, 00:04:47](https://news.ycombinator.com/item?id=46713473) - [Show HN: Dotenv Mask Editor: No more embarrassing screen leaks of your .env](https://marketplace.visualstudio.com/items?itemName=xinbenlv.dotenv-mask-editor)
