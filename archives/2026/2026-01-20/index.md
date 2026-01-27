@@ -109,6 +109,7 @@
 * [2026-01-20, 05:08:57](https://news.ycombinator.com/item?id=46688122) - [Chatbot Psychosis](https://en.wikipedia.org/wiki/Chatbot_psychosis)
 * [2026-01-20, 05:06:19](https://news.ycombinator.com/item?id=46688101) - [Stevey's Birthday Blog](https://steve-yegge.medium.com/steveys-birthday-blog-34f437139cb5)
 * [2026-01-20, 04:14:12](https://news.ycombinator.com/item?id=46687841) - [RCS for Business](https://developers.google.com/business-communications/rcs-business-messaging)
+* [2026-01-20, 03:52:16](https://news.ycombinator.com/item?id=46687729) - [Velox: A Port of Tauri to Swift by Miguel de Icaza](https://github.com/velox-apps/velox)
 * [2026-01-20, 03:47:21](https://news.ycombinator.com/item?id=46687705) - [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html)
 * [2026-01-20, 03:28:01](https://news.ycombinator.com/item?id=46687603) - [Flying with Photons: Rendering Novel Views of Propagating Light](https://anaghmalik.com/FlyingWithPhotons/)
 * [2026-01-20, 03:26:25](https://news.ycombinator.com/item?id=46687588) - [F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE](https://webchrono.pl/F16FalconStrike/index.html)
