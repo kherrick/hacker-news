@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-01-27, 19:57:24",
+      "https://news.ycombinator.com/item?id=46785572"
+    ],
+    [
+      "Chuck Klosterman on why we've never actually seen a real football game",
+      "https://www.latimes.com/entertainment-arts/books/story/2026-01-22/chuck-klosterman-new-book-football"
+    ]
+  ],
+  [
+    [
+      "2026-01-27, 19:44:48",
+      "https://news.ycombinator.com/item?id=46785371"
+    ],
+    [
+      "The bachelor tax – what it costs to be single (to the IRS)",
+      "https://bachelor-tax.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2026-01-27, 19:42:22",
+      "https://news.ycombinator.com/item?id=46785334"
+    ],
+    [
+      "Twin – The AI Company Builder",
+      "https://twin.so/"
+    ]
+  ],
+  [
+    [
       "2026-01-27, 18:59:30",
       "https://news.ycombinator.com/item?id=46784599"
     ],
     [
       "Arm's Cortex A725 Ft. Dell's Pro Max with GB10",
       "https://chipsandcheese.com/p/arms-cortex-a725-ft-dells-pro-max"
+    ]
+  ],
+  [
+    [
+      "2026-01-27, 18:57:15",
+      "https://news.ycombinator.com/item?id=46784572"
+    ],
+    [
+      "Lennart Poettering, Christian Brauner founded a new company",
+      "https://amutable.com/about"
     ]
   ],
   [
@@ -51,12 +91,22 @@
   ],
   [
     [
-      "2026-01-27, 17:18:20",
-      "https://news.ycombinator.com/item?id=46783024"
+      "2026-01-27, 17:55:15",
+      "https://news.ycombinator.com/item?id=46783600"
     ],
     [
-      "One Human and One Agent = One Browser from Scratch",
-      "https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/"
+      "Show HN: LemonSlice – Upgrade your voice agents to real-time video",
+      "https://news.ycombinator.com/item?id=46783600"
+    ]
+  ],
+  [
+    [
+      "2026-01-27, 17:32:05",
+      "https://news.ycombinator.com/item?id=46783254"
+    ],
+    [
+      "FBI is investigating Minnesota Signal chats tracking ICE",
+      "https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041"
     ]
   ],
   [
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2026-01-27, 14:05:48",
-      "https://news.ycombinator.com/item?id=46780065"
-    ],
-    [
-      "The age of Pump and Dump software",
-      "https://tautvilas.medium.com/software-pump-and-dump-c8a9a73d313b"
-    ]
-  ],
-  [
-    [
       "2026-01-27, 13:44:24",
       "https://news.ycombinator.com/item?id=46779809"
     ],
@@ -147,6 +187,16 @@
     [
       "Xfwl4 – The Roadmap for a Xfce Wayland Compositor",
       "https://alexxcons.github.io/blogpost_15.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-27, 13:13:56",
+      "https://news.ycombinator.com/item?id=46779522"
+    ],
+    [
+      "Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC",
+      "https://emsh.cat/one-human-one-agent-one-browser/"
     ]
   ],
   [
@@ -181,42 +231,12 @@
   ],
   [
     [
-      "2026-01-27, 05:42:27",
-      "https://news.ycombinator.com/item?id=46775961"
-    ],
-    [
-      "Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model",
-      "https://www.kimi.com/blog/kimi-k2-5.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 03:24:13",
-      "https://news.ycombinator.com/item?id=46775135"
-    ],
-    [
-      "A list of fun destinations for telnet",
-      "https://telnet.org/htm/places.htm"
-    ]
-  ],
-  [
-    [
       "2026-01-26, 20:12:34",
       "https://news.ycombinator.com/item?id=46770855"
     ],
     [
       "Two Twisty Shapes Resolve a Centuries-Old Topology Puzzle",
       "https://www.quantamagazine.org/two-twisty-shapes-resolve-a-centuries-old-topology-puzzle-20260120/"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 07:31:17",
-      "https://news.ycombinator.com/item?id=46762827"
-    ],
-    [
-      "Handling Long Branches",
-      "https://maskray.me/blog/2026-01-25-handling-long-branches"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2026-01-23, 18:07:31",
-      "https://news.ycombinator.com/item?id=46735637"
-    ],
-    [
-      "The Enchiridion by Epictetus",
-      "https://www.gutenberg.org/files/45109/45109-h/45109-h.htm"
-    ]
-  ],
-  [
-    [
       "2026-01-23, 12:05:11",
       "https://news.ycombinator.com/item?id=46731513"
     ],
     [
       "The threat eating away at museum treasures",
       "https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 20:24:06",
-      "https://news.ycombinator.com/item?id=46724675"
-    ],
-    [
-      "Vargai/SDK – JSX for AI video, declarative programming language for Claude Code",
-      "https://varg.ai/sdk"
     ]
   ],
   [
