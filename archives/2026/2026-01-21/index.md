@@ -20,6 +20,7 @@
 * [2026-01-21, 20:49:05](https://news.ycombinator.com/item?id=46711346) - [FreeBSD](https://docs.freebsd.org/en/books/handbook/)
 * [2026-01-21, 20:47:01](https://news.ycombinator.com/item?id=46711313) - [Deaths Linked to AI Chatbots](https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots)
 * [2026-01-21, 20:34:48](https://news.ycombinator.com/item?id=46711171) - [L∃AN together – live stream schedule](https://leanprover-community.github.io/lt2026/schedule.html)
+* [2026-01-21, 20:33:50](https://news.ycombinator.com/item?id=46711159) - [Flexible use of a multi-purpose tool by a cow](https://doi.org/10.1016/j.cub.2025.11.059)
 * [2026-01-21, 20:17:19](https://news.ycombinator.com/item?id=46710981) - [Clinic-in-the-Loop](https://www.asimov.press/p/clinic-loop)
 * [2026-01-21, 19:58:59](https://news.ycombinator.com/item?id=46710747) - [ANN v3: 200ms p99 query latency over 100B vectors](https://turbopuffer.com/blog/ann-v3)
 * [2026-01-21, 19:45:21](https://news.ycombinator.com/item?id=46710569) - [OpenAI API Logs: Unpatched data exfiltration](https://www.promptarmor.com/resources/openai-api-logs-unpatched-data-exfiltration)
