@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-27, 21:54:29](https://news.ycombinator.com/item?id=46787521) - [Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son](https://www.web3isgoinggreat.com/single/lick-theft)
 * [2026-01-27, 20:59:49](https://news.ycombinator.com/item?id=46786618) - [Show HN: I wrapped the Zorks with an LLM](https://infocom.tambo.co/)
 * [2026-01-27, 20:38:22](https://news.ycombinator.com/item?id=46786237) - [TikTok settles just before social media addiction trial to begin](https://www.bbc.com/news/articles/c24g8v6qr1mo)
-* [2026-01-27, 20:36:14](https://news.ycombinator.com/item?id=46786196) - [Parametric CAD in Rust](https://campedersen.com/vcad)
 * [2026-01-27, 20:35:34](https://news.ycombinator.com/item?id=46786183) - [Time Station Emulator](https://github.com/kangtastic/timestation)
 * [2026-01-27, 19:59:47](https://news.ycombinator.com/item?id=46785598) - [How many chess games are possible?](https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/)
 * [2026-01-27, 19:20:24](https://news.ycombinator.com/item?id=46784977) - [Try text scaling support in Chrome Canary](https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/)

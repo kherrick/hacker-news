@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-27](index.md)
 
+* [2026-01-27, 21:54:29](https://news.ycombinator.com/item?id=46787521) - [Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son](https://www.web3isgoinggreat.com/single/lick-theft)
 * [2026-01-27, 20:59:49](https://news.ycombinator.com/item?id=46786618) - [Show HN: I Wrapped the Zorks with an LLM](https://infocom.tambo.co/)
 * [2026-01-27, 20:38:22](https://news.ycombinator.com/item?id=46786237) - [TikTok settles just before social media addiction trial to begin](https://www.bbc.com/news/articles/c24g8v6qr1mo)
 * [2026-01-27, 20:36:14](https://news.ycombinator.com/item?id=46786196) - [Parametric CAD in Rust](https://campedersen.com/vcad)
