@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-28, 17:23:35](https://news.ycombinator.com/item?id=46798467) - [For These Women, Grok's Sexualized Images Are Personal](https://www.rollingstone.com/culture/culture-features/grok-sexualized-image-xai-elon-musk-women-1235501436/)
 * [2026-01-28, 16:50:43](https://news.ycombinator.com/item?id=46797895) - [Show HN: I Built a Sandbox for Agents](https://github.com/vrn21/bouvet.com)
 * [2026-01-28, 16:48:48](https://news.ycombinator.com/item?id=46797865) - [Will AIs Take All Our Jobs and End Human History–Or Not?](https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/)
 * [2026-01-28, 16:32:00](https://news.ycombinator.com/item?id=46797594) - [Oban, the job processing framework from Elixir, has come to Python](https://www.dimamik.com/posts/oban_py/)
@@ -14,6 +13,7 @@
 * [2026-01-28, 07:35:51](https://news.ycombinator.com/item?id=46792194) - [Make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
 * [2026-01-28, 06:21:07](https://news.ycombinator.com/item?id=46791742) - [Rust at Scale: An Added Layer of Security for WhatsApp](https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/)
 * [2026-01-28, 02:08:14](https://news.ycombinator.com/item?id=46790127) - [A verification layer for browser agents: Amazon case study](https://sentienceapi.com/blog/verification-layer-amazon-case-study)
+* [2026-01-27, 18:57:15](https://news.ycombinator.com/item?id=46784572) - [Lennart Poettering, Christian Brauner founded a new company](https://amutable.com/about)
 * [2026-01-27, 18:03:10](https://news.ycombinator.com/item?id=46783752) - [Prism](https://openai.com/index/introducing-prism)
 * [2026-01-27, 15:46:29](https://news.ycombinator.com/item?id=46781530) - [430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
 * [2026-01-27, 13:48:30](https://news.ycombinator.com/item?id=46779864) - [Show HN: Build Web Automations via Demonstration](https://www.notte.cc/launch-week-i/demonstrate-mode)
