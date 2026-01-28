@@ -129,6 +129,28 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46801225">
+          <h3>
+            <a
+              class="item"
+              href="https://lwlies.com/article/werner-herzog-penguin-encounters-at-the-end-of-the-world"
+              >What does Werner Herzog's nihilist penguin teach us about
+              life?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-28 @ 20:43:10</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46801225"
+                  >Comments</a
+                ><span class="descendants">: 21</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46800737">
           <h3>
             <a class="item" href="https://linuxmusic.rocks"
@@ -139,11 +161,32 @@
             <h4>
               <span>2026-01-28 @ 19:59:04</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46800737"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 14</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46800730">
+          <h3>
+            <a
+              class="item"
+              href="https://www.atlaspress.co/p/new-books-arent-worth-reading"
+              >New books aren't worth reading?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-28 @ 19:58:30</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46800730"
+                  >Comments</a
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -160,35 +203,90 @@
             <h4>
               <span>2026-01-28 @ 19:51:05</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46800645"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46800451">
+        <section id="46800623">
           <h3>
             <a
               class="item"
-              href="https://www.joinformal.com/blog/allowlisting-some-bash-commands-is-often-the-same-as-allowlisting-all-with-claude-code/"
-              >Allowlisting some Bash commands is often the same as allowlisting
-              all</a
+              href="https://www.popularmechanics.com/science/a70162364/setting-the-doomsday-clock/"
+              >Who sets the Doomsday Clock?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-28 @ 19:37:11</span
+              <span>2026-01-28 @ 19:48:59</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46800451"
+                ><a href="https://news.ycombinator.com/item?id=46800623"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46800484">
+          <h3>
+            <a class="item" href="https://github.com/chebykinn/browser-code"
+              >Show HN: Cursor for Userscripts</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-28 @ 19:39:31</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46800484"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                At a high level, the agent generates and maintains userscripts
+                and CSS that are re-applied on page load. Rather than just
+                editing DOM via JS in console the agent is treating the page,
+                and the DOM as a file.
+              </p>
+              <p>
+                The models are often trained in RL sandboxes with full access to
+                the filesystem and bash, so they are really good at using it. So
+                to make the agent behave well, I've simulated this environment.
+              </p>
+              <p>
+                The whole state of a page and scripts is implemented as a
+                virtual filesystem hacked on top of browser.local storage. URL
+                is mapped to directories, and the agent starts inside this
+                directory. It has the tools to read/edit files, grep around and
+                a fake bash command that is just used for running scripts and
+                executing JS code.
+              </p>
+              <p>
+                I've tested only with Opus 4.5 so far, and it works pretty
+                reliably. The state of the file system can be synced to the real
+                filesystem, although because Firefox doesn't support Filesystem
+                API, you need to manually import the fs contents first.
+              </p>
+              <p>
+                This agent is <i>really</i> useful for extracting things to CSV,
+                but it's also can be used for fun.
+              </p>
+              <p>
+                Demo:
+                <a href="https://x.com/ichebykin/status/2015686974439608607"
+                  >https://x.com/ichebykin/status/2015686974439608607</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="46799477">
@@ -201,11 +299,32 @@
             <h4>
               <span>2026-01-28 @ 18:23:14</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46799477"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 48</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46799304">
+          <h3>
+            <a
+              class="item"
+              href="https://danq.me/2026/01/28/hsbc-dont-understand-email/"
+              >That's not how email works</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-28 @ 18:12:02</span
+              ><span class="points-container"
+                >Points: <span class="points">178</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46799304"
+                  >Comments</a
+                ><span class="descendants">: 114</span></span
               >
             </h4>
           </section>
@@ -223,11 +342,11 @@
             <h4>
               <span>2026-01-28 @ 17:54:54</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46798994"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -242,11 +361,30 @@
             <h4>
               <span>2026-01-28 @ 17:20:31</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46798402"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 32</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46797913">
+          <h3>
+            <a class="item" href="https://amazonone.aws.com/help"
+              >Amazon One palm authentication discontinued</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-28 @ 16:52:05</span
+              ><span class="points-container"
+                >Points: <span class="points">39</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46797913"
+                  >Comments</a
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -264,11 +402,33 @@
             <h4>
               <span>2026-01-28 @ 16:48:59</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46797868"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 19</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46797865">
+          <h3>
+            <a
+              class="item"
+              href="https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/"
+              >Will AIs take all our jobs and end human history, or not?
+              (2023)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-01-28 @ 16:48:48</span
+              ><span class="points-container"
+                >Points: <span class="points">52</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46797865"
+                  >Comments</a
+                ><span class="descendants">: 102</span></span
               >
             </h4>
           </section>
@@ -284,60 +444,34 @@
             <h4>
               <span>2026-01-28 @ 16:32:00</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46797594"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46796825">
+        <section id="46796745">
           <h3>
-            <a class="item" href="https://github.com/regression-io/coder-config"
-              >Show HN: Config manager for Claude Code (and others) – rules,
-              MCPs, permissions</a
+            <a
+              class="item"
+              href="https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/"
+              >Amazon cuts 16k jobs</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-28 @ 15:44:24</span
+              <span>2026-01-28 @ 15:39:11</span
               ><span class="points-container"
-                >Points: <span class="points">3</span></span
+                >Points: <span class="points">375</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46796825"
+                ><a href="https://news.ycombinator.com/item?id=46796745"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 496</span></span
               >
             </h4>
-            <div class="text">
-              <p>
-                This one started out as claude-config but migrated to
-                coder-config as I'm adding others (Gemini, AG, Codex, etc).
-              </p>
-              <p>
-                Main features: - Visual editor for rules, permissions, and MCP
-                servers - Project registry to switch between codebases -
-                "Workstreams" to group related repos (frontend + API + shared
-                libs) with shared context - Auto-load workstreams on cd to
-                included folders - Also supports Gemini CLI and Codex CLI
-              </p>
-              <p>
-                Install: npm install -g coder-config coder-config ui # UI at
-                http://localhost:3333 coder-config ui install # optionally,
-                autostart on MacOS
-              </p>
-              <p>It can also be installed as a PWA and live in your taskbar.</p>
-              <p>
-                Open source, runs locally, no account needed. Feedback and
-                contributions welcome!
-              </p>
-              <p>
-                Sorry, haven't had any chance to test on other OSes
-                (linux/windows)
-              </p>
-            </div>
           </section>
         </section>
         <section id="46795908">
@@ -350,11 +484,11 @@
             <h4>
               <span>2026-01-28 @ 14:32:30</span
               ><span class="points-container"
-                >Points: <span class="points">266</span></span
+                >Points: <span class="points">286</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46795908"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -371,82 +505,34 @@
             <h4>
               <span>2026-01-28 @ 14:28:21</span
               ><span class="points-container"
-                >Points: <span class="points">1318</span></span
+                >Points: <span class="points">1382</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46795864"
                   >Comments</a
-                ><span class="descendants">: 1033</span></span
+                ><span class="descendants">: 1088</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46795582">
+        <section id="46794472">
           <h3>
-            <a class="item" href="https://netrinos.com/blog/conflicting-subnets"
-              >When Every Network is 192.168.1.x</a
+            <a
+              class="item"
+              href="https://www.theatlantic.com/economy/2026/01/california-wealth-tax-billionaire-migration/685779/"
+              >If you tax them, will they leave?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-28 @ 14:06:39</span
+              <span>2026-01-28 @ 12:30:02</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46795582"
+                ><a href="https://news.ycombinator.com/item?id=46794472"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 175</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46795540">
-          <h3>
-            <a class="item" href="https://github.com/beginner-jhj/mini_browser"
-              >Show HN: I built a small browser engine from scratch in C++</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-28 @ 14:03:28</span
-              ><span class="points-container"
-                >Points: <span class="points">110</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46795540"
-                  >Comments</a
-                ><span class="descendants">: 35</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I built a browser engine from scratch in C++ to understand how
-                browsers work. First time using C++, 8 weeks of development,
-                lots of debugging—but it works!
-              </p>
-              <p>Features:</p>
-              <p>- HTML parsing with error correction</p>
-              <p>- CSS cascade and inheritance</p>
-              <p>- Block/inline layout engine</p>
-              <p>- Async image loading + caching</p>
-              <p>- Link navigation + history</p>
-              <p>Hardest parts:</p>
-              <p>- String parsing(html, css)</p>
-              <p>- Rendering</p>
-              <p>- Image Caching &amp; Layout Reflowing</p>
-              <p>What I learned (beyond code):</p>
-              <p>- Systematic debugging is crucial</p>
-              <p>- Ship with known bugs rather than chase perfection</p>
-              <p>- The Power of "Why?"</p>
-              <p>
-                ~3,000 lines of C++17/Qt6. Would love feedback on code
-                architecture and C++ best practices!
-              </p>
-              <p>
-                GitHub:
-                <a href="https://github.com/beginner-jhj/mini_browser"
-                  >https://github.com/beginner-jhj/mini_browser</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="46794281">
@@ -460,11 +546,11 @@
             <h4>
               <span>2026-01-28 @ 12:06:18</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46794281"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
@@ -613,11 +699,11 @@
             <h4>
               <span>2026-01-28 @ 10:50:32</span
               ><span class="points-container"
-                >Points: <span class="points">268</span></span
+                >Points: <span class="points">269</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46793693"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
             <div class="text">
@@ -632,352 +718,67 @@
             </div>
           </section>
         </section>
-        <section id="46792572">
-          <h3>
-            <a class="item" href="https://hcs64.com/video-boy-vue/"
-              >Virtual Boy on TV with Intelligent Systems Video Boy</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-28 @ 08:32:50</span
-              ><span class="points-container"
-                >Points: <span class="points">86</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46792572"
-                  >Comments</a
-                ><span class="descendants">: 31</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46791742">
+        <section id="46792194">
           <h3>
             <a
               class="item"
-              href="https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/"
-              >Rust at Scale: An Added Layer of Security for WhatsApp</a
+              href="https://matklad.github.io/2026/01/27/make-ts.html"
+              >Make.ts</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-28 @ 06:21:07</span
+              <span>2026-01-28 @ 07:35:51</span
               ><span class="points-container"
-                >Points: <span class="points">226</span></span
+                >Points: <span class="points">205</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46791742"
+                ><a href="https://news.ycombinator.com/item?id=46792194"
                   >Comments</a
-                ><span class="descendants">: 114</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46790127">
+        <section id="46790740">
           <h3>
             <a
               class="item"
-              href="https://sentienceapi.com/blog/verification-layer-amazon-case-study"
-              >A verification layer for browser agents: Amazon case study</a
+              href="https://9to5google.com/2026/01/27/android-desktop-leak/"
+              >Android's desktop interface leaks</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-28 @ 02:08:14</span
+              <span>2026-01-28 @ 03:34:45</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46790127"
+                ><a href="https://news.ycombinator.com/item?id=46790740"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                This post summarizes four runs of the same task (search → first
-                product → add to cart → checkout on Amazon). The key comparison
-                is Demo 0 (cloud baseline) vs Demo 3 (local autonomy); Demos 1–2
-                are intermediate controls.
-              </p>
-              <p>
-                More technical detail (architecture, code excerpts, additional
-                log snippets):
-              </p>
-              <p>
-                <a
-                  href="https://www.sentienceapi.com/blog/verification-layer-amazon-case-study"
-                  >https://www.sentienceapi.com/blog/verification-layer-amazon-...</a
-                >
-              </p>
-              <p>Demo 0 vs Demo 3:</p>
-              <p>
-                Demo 0 (cloud, GLM‑4.6 + structured snapshots) success: 1/1 run
-                tokens: 19,956 (~43% reduction vs ~35k estimate) time: ~60,000ms
-                cost: cloud API (varies) vision: not required
-              </p>
-              <p>
-                Demo 3 (local, DeepSeek R1 planner + Qwen ~3B executor) success:
-                7/7 steps (re-run) tokens: 11,114 time: 405,740ms cost: $0.00
-                incremental (local inference) vision: not required
-              </p>
-              <p>
-                Latency note: the local stack is slower end-to-end here largely
-                because inference runs on local hardware (Mac Studio with M4);
-                the cloud baseline benefits from hosted inference, but has
-                per-token API cost.
-              </p>
-              <p>Architecture</p>
-              <p>
-                This worked because we changed the control plane and added a
-                verification loop.
-              </p>
-              <p>
-                1) Constrain what the model sees (DOM pruning). We don’t feed
-                the entire DOM or screenshots. We collect raw elements, then run
-                a WASM pass to produce a compact “semantic snapshot”
-                (roles/text/geometry) and prune the rest (often on the order of
-                ~95% of nodes).
-              </p>
-              <p>2) Split reasoning from acting (planner vs executor).</p>
-              <p>
-                Planner (reasoning): DeepSeek R1 (local) generates step intent +
-                what must be true afterward. Executor (action): Qwen ~3B (local)
-                selects concrete DOM actions like CLICK(id) / TYPE(text). 3)
-                Gate every step with Jest‑style verification. After each action,
-                we assert state changes (URL changed, element exists/doesn’t
-                exist, modal/drawer appeared). If a required assertion fails,
-                the step fails with artifacts and bounded retries.
-              </p>
-              <p>Minimal shape:</p>
-              <p>
-                ok = await runtime.check( exists("role=textbox"),
-                label="search_box_visible", required=True,
-                ).eventually(timeout_s=10.0, poll_s=0.25,
-                max_snapshot_attempts=3)
-              </p>
-              <p>
-                What changed between “agents that look smart” and agents that
-                work Two examples from the logs:
-              </p>
-              <p>
-                Deterministic override to enforce “first result” intent:
-                “Executor decision … [override] first_product_link -&gt;
-                CLICK(1022)”
-              </p>
-              <p>
-                Drawer handling that verifies and forces the correct branch:
-                “result: PASS | add_to_cart_verified_after_drawer”
-              </p>
-              <p>
-                The important point is that these are not post‑hoc analytics.
-                They are inline gates: the system either proves it made progress
-                or it stops and recovers.
-              </p>
-              <p>
-                Takeaway If you’re trying to make browser agents reliable, the
-                highest‑leverage move isn’t a bigger model. It’s constraining
-                the state space and making success/failure explicit with
-                per-step assertions.
-              </p>
-              <p>
-                Reliability in agents comes from verification (assertions on
-                structured snapshots), not just scaling model size.
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="46783752">
-          <h3>
-            <a class="item" href="https://openai.com/index/introducing-prism"
-              >Prism</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-27 @ 18:03:10</span
-              ><span class="points-container"
-                >Points: <span class="points">751</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46783752"
-                  >Comments</a
-                ><span class="descendants">: 506</span></span
+                ><span class="descendants">: 166</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46771564">
+        <section id="46788384">
           <h3>
             <a
               class="item"
-              href="https://twitter.com/karpathy/status/2015883857489522876"
-              >A few random notes from Claude coding quite a bit last few
-              weeks</a
+              href="https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/"
+              >Some notes on starting to use Django</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-01-26 @ 21:09:19</span
+              <span>2026-01-27 @ 22:58:30</span
               ><span class="points-container"
-                >Points: <span class="points">866</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46771564"
+                ><a href="https://news.ycombinator.com/item?id=46788384"
                   >Comments</a
-                ><span class="descendants">: 774</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
-            <div class="text">
-              <a href="https://xcancel.com/karpathy/status/2015883857489522876"
-                >https://xcancel.com/karpathy/status/2015883857489522876</a
-              >
-            </div>
-          </section>
-        </section>
-        <section id="46768906">
-          <h3>
-            <a class="item" href="https://github.com/trycua/cua"
-              >Show HN: Cua-Bench – a benchmark for AI agents in GUI
-              environments</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-26 @ 17:46:22</span
-              ><span class="points-container"
-                >Points: <span class="points">29</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46768906"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://github.com/trycua/cua"
-                >https://github.com/trycua/cua</a
-              >
-              ), an open-source framework for evaluating and training
-              computer-use agents across different environments.
-              <p>
-                Computer-use agents show massive performance variance across
-                different UIs—an agent with 90% success on Windows 11 might drop
-                to 9% on Windows XP for the same task. The problem is OS themes,
-                browser versions, and UI variations that existing benchmarks
-                don't capture.
-              </p>
-              <p>
-                The existing benchmarks (OSWorld, Windows Agent Arena,
-                AndroidWorld) were great but operated in silos—different
-                harnesses, different formats, no standardized way to test the
-                same agent across platforms. More importantly, they were
-                evaluation-only. We needed environments that could generate
-                training data and run RL loops, not just measure performance.
-                Cua-Bench takes a different approach: it's a unified framework
-                that standardizes environments across platforms and supports the
-                full agent development lifecycle—benchmark, train, deploy.
-              </p>
-              <p>With Cua-Bench, you can:</p>
-              <p>
-                - Evaluate agents across multiple benchmarks with one CLI
-                (native tasks + OSWorld + Windows Agent Arena adapters)
-              </p>
-              <p>
-                - Test the same agent on different OS variations (Windows
-                11/XP/Vista, macOS themes, Linux, Android via QEMU)
-              </p>
-              <p>- Generate new tasks from natural language prompts</p>
-              <p>
-                - Create simulated environments for RL training (shell apps like
-                Spotify, Slack with programmatic rewards)
-              </p>
-              <p>
-                - Run oracle validations to verify environments before agent
-                evaluation
-              </p>
-              <p>
-                - Monitor agent runs in real-time with traces and screenshots
-              </p>
-              <p>
-                All of this works on macOS, Linux, Windows, and Android, and is
-                self-hostable.
-              </p>
-              <p>To get started:</p>
-              <p>Install cua-bench:</p>
-              <p>% pip install cua-bench</p>
-              <p>Run a basic evaluation:</p>
-              <p>% cb run dataset datasets/cua-bench-basic --agent demo</p>
-              <p>Open the monitoring dashboard:</p>
-              <p>% cb run watch &lt;run_id&gt;</p>
-              <p>For parallelized evaluations across multiple workers:</p>
-              <p>
-                % cb run dataset datasets/cua-bench-basic --agent your-agent
-                --max-parallel 8
-              </p>
-              <p>
-                Want to test across different OS variations? Just specify the
-                environment:
-              </p>
-              <p>
-                % cb run task slack_message --agent your-agent --env windows_xp
-              </p>
-              <p>
-                % cb run task slack_message --agent your-agent --env
-                macos_sonoma
-              </p>
-              <p>Generate new tasks from prompts:</p>
-              <p>% cb task generate "book a flight on kayak.com"</p>
-              <p>Validate environments with oracle implementations:</p>
-              <p>% cb run dataset datasets/cua-bench-basic --oracle</p>
-              <p>
-                The simulated environments are particularly useful for RL
-                training—they're HTML/JS apps that render across 10+ OS themes
-                with programmatic reward verification. No need to spin up actual
-                VMs for training loops.
-              </p>
-              <p>We're seeing teams use Cua-Bench for:</p>
-              <p>
-                - Training computer-use models on mobile and desktop
-                environments
-              </p>
-              <p>
-                - Generating large-scale training datasets (working with labs on
-                millions of screenshots across OS variations)
-              </p>
-              <p>- RL fine-tuning with shell app simulators</p>
-              <p>
-                - Systematic evaluation across OS themes and browser versions
-              </p>
-              <p>
-                - Building task registries (collaborating with Snorkel AI on
-                task design and data curation, similar to their Terminal-Bench
-                work)
-              </p>
-              <p>
-                Cua-Bench is 100% open-source under the MIT license. We're
-                actively developing it as part of Cua (<a
-                  href="https://github.com/trycua/cua"
-                  >https://github.com/trycua/cua</a
-                >), our Computer Use Agent SDK, and we'd love your feedback, bug
-                reports, or feature ideas.
-              </p>
-              <p>
-                GitHub:
-                <a href="https://github.com/trycua/cua"
-                  >https://github.com/trycua/cua</a
-                >
-              </p>
-              <p>
-                Docs:
-                <a href="https://cua.ai/docs/cuabench"
-                  >https://cua.ai/docs/cuabench</a
-                >
-              </p>
-              <p>
-                Technical Report:
-                <a href="https://cuabench.ai">https://cuabench.ai</a>
-              </p>
-              <p>
-                We'll be here to answer any technical questions and look forward
-                to your comments!
-              </p>
-            </div>
           </section>
         </section>
         <section id="46765772">
@@ -990,32 +791,11 @@
             <h4>
               <span>2026-01-26 @ 14:05:46</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46765772"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46755278">
-          <h3>
-            <a
-              class="item"
-              href="https://www.versobooks.com/en-gb/blogs/news/1963-immanuel-kant-the-errrr-walker"
-              >Immanuel 'the Königsberg clock' Kant (2015)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-25 @ 16:06:39</span
-              ><span class="points-container"
-                >Points: <span class="points">28</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46755278"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -1032,11 +812,11 @@
             <h4>
               <span>2026-01-24 @ 15:17:11</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46744272"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -1084,11 +864,11 @@
             <h4>
               <span>2026-01-23 @ 22:55:00</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46739117"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -1105,11 +885,11 @@
             <h4>
               <span>2026-01-23 @ 17:48:25</span
               ><span class="points-container"
-                >Points: <span class="points">293</span></span
+                >Points: <span class="points">296</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46735407"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 143</span></span
               >
             </h4>
           </section>
@@ -1124,30 +904,11 @@
             <h4>
               <span>2026-01-23 @ 03:32:26</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46728070"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46726269">
-          <h3>
-            <a class="item" href="https://yqnn.github.io/svg-path-editor/"
-              >SVG Path Editor</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-01-22 @ 23:06:05</span
-              ><span class="points-container"
-                >Points: <span class="points">221</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46726269"
-                  >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
