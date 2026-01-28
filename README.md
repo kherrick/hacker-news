@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-28, 05:18:04](https://news.ycombinator.com/item?id=46791358) - [How the new era of CEO supervillains are trapped in their own ideology](https://statmodeling.stat.columbia.edu/2026/01/27/facebook-and-the-inherent-incoherence-of-the-ideology-of-market-leading-tech-companies/)
 * [2026-01-28, 01:44:25](https://news.ycombinator.com/item?id=46789961) - [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/)
 * [2026-01-28, 01:38:15](https://news.ycombinator.com/item?id=46789913) - [AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
 * [2026-01-27, 22:58:30](https://news.ycombinator.com/item?id=46788384) - [Notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/)
@@ -10,7 +11,6 @@
 * [2026-01-27, 19:59:47](https://news.ycombinator.com/item?id=46785598) - [How many chess games are possible?](https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/)
 * [2026-01-27, 19:20:24](https://news.ycombinator.com/item?id=46784977) - [Try text scaling support in Chrome Canary](https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/)
 * [2026-01-27, 18:57:15](https://news.ycombinator.com/item?id=46784572) - [Lennart Poettering, Christian Brauner founded a new company](https://amutable.com/about)
-* [2026-01-27, 18:50:50](https://news.ycombinator.com/item?id=46784491) - [Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer](https://www.ycombinator.com/companies/hypercubic/jobs)
 * [2026-01-27, 18:03:10](https://news.ycombinator.com/item?id=46783752) - [Prism](https://openai.com/index/introducing-prism)
 * [2026-01-27, 17:55:15](https://news.ycombinator.com/item?id=46783600) - [Show HN: LemonSlice – Upgrade your voice agents to real-time video](https://news.ycombinator.com/item?id=46783600)
 * [2026-01-27, 17:32:05](https://news.ycombinator.com/item?id=46783254) - [FBI is investigating Minnesota Signal chats tracking ICE](https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041)
