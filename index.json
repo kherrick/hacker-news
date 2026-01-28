@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-01-27, 22:58:30",
-      "https://news.ycombinator.com/item?id=46788384"
+      "2026-01-28, 02:25:35",
+      "https://news.ycombinator.com/item?id=46790250"
     ],
     [
-      "Notes on Starting to Use Django",
-      "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/"
+      "Apple MacBook Pro order deliveries delayed until mid March",
+      "https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m4-max-with-16-core-cpu-and-40-core-gpu-48gb-memory-1tb"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 01:44:25",
+      "https://news.ycombinator.com/item?id=46789961"
+    ],
+    [
+      "Super Monkey Ball ported to a website",
+      "https://monkeyball-online.pages.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 01:38:15",
+      "https://news.ycombinator.com/item?id=46789913"
+    ],
+    [
+      "AI found 12 vulnerabilities in OpenSSL",
+      "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son",
       "https://www.web3isgoinggreat.com/single/lick-theft"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 20:59:49",
-      "https://news.ycombinator.com/item?id=46786618"
-    ],
-    [
-      "Show HN: I wrapped the Zorks with an LLM",
-      "https://infocom.tambo.co/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Try text scaling support in Chrome Canary",
       "https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 18:59:30",
-      "https://news.ycombinator.com/item?id=46784599"
-    ],
-    [
-      "Arm's Cortex A725 Ft. Dell's Pro Max with GB10",
-      "https://chipsandcheese.com/p/arms-cortex-a725-ft-dells-pro-max"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "SoundCloud Data Breach Now on HaveIBeenPwned",
       "https://haveibeenpwned.com/Breach/SoundCloud"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 17:04:22",
-      "https://news.ycombinator.com/item?id=46782811"
-    ],
-    [
-      "Management as AI superpower: Thriving in a world of agentic AI",
-      "https://www.oneusefulthing.org/p/management-as-ai-superpower"
     ]
   ],
   [
@@ -275,18 +265,28 @@
       "https://news.ycombinator.com/item?id=46741150"
     ],
     [
-      "Rust's Standard Library on the GPU",
+      "Rust’s Standard Library on the GPU",
       "https://www.vectorware.com/blog/rust-std-on-gpu/"
     ]
   ],
   [
     [
-      "2026-01-23, 20:07:51",
-      "https://news.ycombinator.com/item?id=46737203"
+      "2026-01-23, 23:12:19",
+      "https://news.ycombinator.com/item?id=46739257"
     ],
     [
-      "Arrows to Arrows, Categories to Queries",
-      "https://reasonablypolymorphic.com/blog/arrows-to-arrows/"
+      "I found the perfect yearly calendar (for me)",
+      "https://blog.notmyhostna.me/posts/i-found-the-perfect-yearly-calendar-for-me"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 22:02:52",
+      "https://news.ycombinator.com/item?id=46738578"
+    ],
+    [
+      "The First Eighteen Lines of the Waste Land (1989)",
+      "https://yalereview.org/article/hecht-eliot-waste-land"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=46731513"
     ],
     [
-      "The threat eating away at museum treasures",
+      "Extremophile molds are invading art museums",
       "https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/"
     ]
   ]
