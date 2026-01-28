@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
 * [2026-01-28, 14:32:30](https://news.ycombinator.com/item?id=46795908) - [Airfoil](https://ciechanow.ski/airfoil/)
+* [2026-01-28, 14:28:21](https://news.ycombinator.com/item?id=46795864) - [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
 * [2026-01-28, 12:18:12](https://news.ycombinator.com/item?id=46794365) - [ICE and Palantir: US agents using health data to hunt illegal immigrants](https://www.bmj.com/content/392/bmj.s168)
 * [2026-01-28, 12:03:51](https://news.ycombinator.com/item?id=46794258) - [SoftBank in Talks to Invest Up to $30B More in OpenAI](https://www.wsj.com/tech/ai/softbank-in-talks-to-invest-up-to-30-billion-more-in-openai-8585dea3)
 * [2026-01-28, 12:00:08](https://news.ycombinator.com/item?id=46794231) - [Kyber (YC W23) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead)
@@ -22,5 +23,6 @@
 * [2026-01-28, 05:18:04](https://news.ycombinator.com/item?id=46791358) - [How the new era of CEO supervillains are trapped in their own ideology](https://statmodeling.stat.columbia.edu/2026/01/27/facebook-and-the-inherent-incoherence-of-the-ideology-of-market-leading-tech-companies/)
 * [2026-01-28, 04:11:47](https://news.ycombinator.com/item?id=46790957) - [Ask HN: Why all the sudden people are writing browsers with AI?](https://news.ycombinator.com/item?id=46790957)
 * [2026-01-28, 02:25:35](https://news.ycombinator.com/item?id=46790250) - [Apple MacBook Pro order deliveries delayed until mid March](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m4-max-with-16-core-cpu-and-40-core-gpu-48gb-memory-1tb)
+* [2026-01-28, 02:08:14](https://news.ycombinator.com/item?id=46790127) - [A verification layer for browser agents: Amazon case study](https://sentienceapi.com/blog/verification-layer-amazon-case-study)
 * [2026-01-28, 01:44:25](https://news.ycombinator.com/item?id=46789961) - [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/)
 * [2026-01-28, 01:38:15](https://news.ycombinator.com/item?id=46789913) - [AI found 12 vulnerabilities in OpenSSL](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
