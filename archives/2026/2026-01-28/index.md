@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
+* [2026-01-28, 20:43:10](https://news.ycombinator.com/item?id=46801225) - [What does Werner Herzog's nihilist penguin teach us about life?](https://lwlies.com/article/werner-herzog-penguin-encounters-at-the-end-of-the-world)
 * [2026-01-28, 19:59:04](https://news.ycombinator.com/item?id=46800737) - [Native Linux VST plugin directory](https://linuxmusic.rocks)
+* [2026-01-28, 19:58:30](https://news.ycombinator.com/item?id=46800730) - [New books aren't worth reading?](https://www.atlaspress.co/p/new-books-arent-worth-reading)
 * [2026-01-28, 19:51:05](https://news.ycombinator.com/item?id=46800645) - [Native Instruments enters into insolvency proceedings](https://www.engadget.com/audio/native-instruments-enters-into-insolvency-proceedings-leaving-its-future-uncertain-183206826.html)
+* [2026-01-28, 19:48:59](https://news.ycombinator.com/item?id=46800623) - [Who sets the Doomsday Clock?](https://www.popularmechanics.com/science/a70162364/setting-the-doomsday-clock/)
+* [2026-01-28, 19:39:31](https://news.ycombinator.com/item?id=46800484) - [Show HN: Cursor for Userscripts](https://github.com/chebykinn/browser-code)
 * [2026-01-28, 19:37:11](https://news.ycombinator.com/item?id=46800451) - [Allowlisting some Bash commands is often the same as allowlisting all](https://www.joinformal.com/blog/allowlisting-some-bash-commands-is-often-the-same-as-allowlisting-all-with-claude-code/)
 * [2026-01-28, 18:23:14](https://news.ycombinator.com/item?id=46799477) - [LM Studio 0.4.0](https://lmstudio.ai/blog/0.4.0)
 * [2026-01-28, 18:12:02](https://news.ycombinator.com/item?id=46799304) - [That's Not How Email Works, HSBC](https://danq.me/2026/01/28/hsbc-dont-understand-email/)
@@ -25,6 +29,7 @@
 * [2026-01-28, 14:06:39](https://news.ycombinator.com/item?id=46795582) - [When Every Network is 192.168.1.x](https://netrinos.com/blog/conflicting-subnets)
 * [2026-01-28, 14:03:28](https://news.ycombinator.com/item?id=46795540) - [Show HN: I built a small browser engine from scratch in C++](https://github.com/beginner-jhj/mini_browser)
 * [2026-01-28, 13:58:03](https://news.ycombinator.com/item?id=46795468) - [Show HN: Record and share your coding sessions with CodeMic](https://codemic.io/#)
+* [2026-01-28, 12:30:02](https://news.ycombinator.com/item?id=46794472) - [If you tax them, will they leave?](https://www.theatlantic.com/economy/2026/01/california-wealth-tax-billionaire-migration/685779/)
 * [2026-01-28, 12:18:12](https://news.ycombinator.com/item?id=46794365) - [ICE and Palantir: US agents using health data to hunt illegal immigrants](https://www.bmj.com/content/392/bmj.s168)
 * [2026-01-28, 12:06:18](https://news.ycombinator.com/item?id=46794281) - [Show HN: SHDL – A minimal hardware description language built from logic gates](https://github.com/rafa-rrayes/SHDL)
 * [2026-01-28, 12:03:51](https://news.ycombinator.com/item?id=46794258) - [SoftBank in Talks to Invest Up to $30B More in OpenAI](https://www.wsj.com/tech/ai/softbank-in-talks-to-invest-up-to-30-billion-more-in-openai-8585dea3)
