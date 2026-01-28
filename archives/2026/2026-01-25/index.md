@@ -24,6 +24,7 @@
 * [2026-01-25, 19:03:40](https://news.ycombinator.com/item?id=46757067) - [First, Make Me Care](https://gwern.net/blog/2026/make-me-care)
 * [2026-01-25, 18:15:49](https://news.ycombinator.com/item?id=46756530) - [On the Methodology of Actual Physics [video]](https://www.youtube.com/watch?v=SaZFgtmOFek)
 * [2026-01-25, 18:06:26](https://news.ycombinator.com/item?id=46756427) - [Show HN: An interactive map of US lighthouses and navigational aids](https://www.lighthouses.app/)
+* [2026-01-25, 17:53:49](https://news.ycombinator.com/item?id=46756311) - [Thirty Years of the Square Kilometre Array](https://physicsworld.com/a/thirty-years-of-the-square-kilometre-array-heres-what-the-worlds-largest-radio-telescope-project-has-achieved-so-far/)
 * [2026-01-25, 17:51:24](https://news.ycombinator.com/item?id=46756288) - [What Is Starlink Mesh? – Starlink Help Center](https://starlink.com/ca/support/article/57f4bd5c-4125-2210-8bb2-30c90b558b7b)
 * [2026-01-25, 17:36:19](https://news.ycombinator.com/item?id=46756117) - [ICE Using Palantir Tool That Feeds on Medicaid Data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data)
 * [2026-01-25, 17:24:42](https://news.ycombinator.com/item?id=46755999) - [FAA institutes nationwide drone no-fly zones around ICE operations](https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs)
