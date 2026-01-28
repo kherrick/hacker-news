@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-28, 20:43:10",
+      "https://news.ycombinator.com/item?id=46801225"
+    ],
+    [
+      "What does Werner Herzog's nihilist penguin teach us about life?",
+      "https://lwlies.com/article/werner-herzog-penguin-encounters-at-the-end-of-the-world"
+    ]
+  ],
+  [
+    [
       "2026-01-28, 19:59:04",
       "https://news.ycombinator.com/item?id=46800737"
     ],
     [
       "Native Linux VST plugin directory",
       "https://linuxmusic.rocks"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 19:58:30",
+      "https://news.ycombinator.com/item?id=46800730"
+    ],
+    [
+      "New books aren't worth reading?",
+      "https://www.atlaspress.co/p/new-books-arent-worth-reading"
     ]
   ],
   [
@@ -21,12 +41,22 @@
   ],
   [
     [
-      "2026-01-28, 19:37:11",
-      "https://news.ycombinator.com/item?id=46800451"
+      "2026-01-28, 19:48:59",
+      "https://news.ycombinator.com/item?id=46800623"
     ],
     [
-      "Allowlisting some Bash commands is often the same as allowlisting all",
-      "https://www.joinformal.com/blog/allowlisting-some-bash-commands-is-often-the-same-as-allowlisting-all-with-claude-code/"
+      "Who sets the Doomsday Clock?",
+      "https://www.popularmechanics.com/science/a70162364/setting-the-doomsday-clock/"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 19:39:31",
+      "https://news.ycombinator.com/item?id=46800484"
+    ],
+    [
+      "Show HN: Cursor for Userscripts",
+      "https://github.com/chebykinn/browser-code"
     ]
   ],
   [
@@ -37,6 +67,16 @@
     [
       "LM Studio 0.4.0",
       "https://lmstudio.ai/blog/0.4.0"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 18:12:02",
+      "https://news.ycombinator.com/item?id=46799304"
+    ],
+    [
+      "That's not how email works",
+      "https://danq.me/2026/01/28/hsbc-dont-understand-email/"
     ]
   ],
   [
@@ -61,12 +101,32 @@
   ],
   [
     [
+      "2026-01-28, 16:52:05",
+      "https://news.ycombinator.com/item?id=46797913"
+    ],
+    [
+      "Amazon One palm authentication discontinued",
+      "https://amazonone.aws.com/help"
+    ]
+  ],
+  [
+    [
       "2026-01-28, 16:48:59",
       "https://news.ycombinator.com/item?id=46797868"
     ],
     [
       "Spinning around: Please don't – Common problems with spin locks",
       "https://www.siliceum.com/en/blog/post/spinning-around/"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 16:48:48",
+      "https://news.ycombinator.com/item?id=46797865"
+    ],
+    [
+      "Will AIs take all our jobs and end human history, or not? (2023)",
+      "https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/"
     ]
   ],
   [
@@ -81,12 +141,12 @@
   ],
   [
     [
-      "2026-01-28, 15:44:24",
-      "https://news.ycombinator.com/item?id=46796825"
+      "2026-01-28, 15:39:11",
+      "https://news.ycombinator.com/item?id=46796745"
     ],
     [
-      "Show HN: Config manager for Claude Code (and others) – rules, MCPs, permissions",
-      "https://github.com/regression-io/coder-config"
+      "Amazon cuts 16k jobs",
+      "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/"
     ]
   ],
   [
@@ -111,22 +171,12 @@
   ],
   [
     [
-      "2026-01-28, 14:06:39",
-      "https://news.ycombinator.com/item?id=46795582"
+      "2026-01-28, 12:30:02",
+      "https://news.ycombinator.com/item?id=46794472"
     ],
     [
-      "When Every Network is 192.168.1.x",
-      "https://netrinos.com/blog/conflicting-subnets"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 14:03:28",
-      "https://news.ycombinator.com/item?id=46795540"
-    ],
-    [
-      "Show HN: I built a small browser engine from scratch in C++",
-      "https://github.com/beginner-jhj/mini_browser"
+      "If you tax them, will they leave?",
+      "https://www.theatlantic.com/economy/2026/01/california-wealth-tax-billionaire-migration/685779/"
     ]
   ],
   [
@@ -161,62 +211,32 @@
   ],
   [
     [
-      "2026-01-28, 08:32:50",
-      "https://news.ycombinator.com/item?id=46792572"
+      "2026-01-28, 07:35:51",
+      "https://news.ycombinator.com/item?id=46792194"
     ],
     [
-      "Virtual Boy on TV with Intelligent Systems Video Boy",
-      "https://hcs64.com/video-boy-vue/"
+      "Make.ts",
+      "https://matklad.github.io/2026/01/27/make-ts.html"
     ]
   ],
   [
     [
-      "2026-01-28, 06:21:07",
-      "https://news.ycombinator.com/item?id=46791742"
+      "2026-01-28, 03:34:45",
+      "https://news.ycombinator.com/item?id=46790740"
     ],
     [
-      "Rust at Scale: An Added Layer of Security for WhatsApp",
-      "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/"
+      "Android's desktop interface leaks",
+      "https://9to5google.com/2026/01/27/android-desktop-leak/"
     ]
   ],
   [
     [
-      "2026-01-28, 02:08:14",
-      "https://news.ycombinator.com/item?id=46790127"
+      "2026-01-27, 22:58:30",
+      "https://news.ycombinator.com/item?id=46788384"
     ],
     [
-      "A verification layer for browser agents: Amazon case study",
-      "https://sentienceapi.com/blog/verification-layer-amazon-case-study"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 18:03:10",
-      "https://news.ycombinator.com/item?id=46783752"
-    ],
-    [
-      "Prism",
-      "https://openai.com/index/introducing-prism"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 21:09:19",
-      "https://news.ycombinator.com/item?id=46771564"
-    ],
-    [
-      "A few random notes from Claude coding quite a bit last few weeks",
-      "https://twitter.com/karpathy/status/2015883857489522876"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 17:46:22",
-      "https://news.ycombinator.com/item?id=46768906"
-    ],
-    [
-      "Show HN: Cua-Bench – a benchmark for AI agents in GUI environments",
-      "https://github.com/trycua/cua"
+      "Some notes on starting to use Django",
+      "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/"
     ]
   ],
   [
@@ -227,16 +247,6 @@
     [
       "I have written gemma3 inference in pure C",
       "https://github.com/robitec97/gemma3.c"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 16:06:39",
-      "https://news.ycombinator.com/item?id=46755278"
-    ],
-    [
-      "Immanuel 'the Königsberg clock' Kant (2015)",
-      "https://www.versobooks.com/en-gb/blogs/news/1963-immanuel-kant-the-errrr-walker"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "I Overengineered a Spinning Top",
       "https://www.youtube.com/watch?v=Wp5NodfvvF4"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 23:06:05",
-      "https://news.ycombinator.com/item?id=46726269"
-    ],
-    [
-      "SVG Path Editor",
-      "https://yqnn.github.io/svg-path-editor/"
     ]
   ]
 ]
