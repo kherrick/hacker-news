@@ -37,6 +37,7 @@
 * [2026-01-23, 17:27:48](https://news.ycombinator.com/item?id=46735152) - [Golden Ratio using an equilateral triangle inscribed in a circle](https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/)
 * [2026-01-23, 17:26:57](https://news.ycombinator.com/item?id=46735139) - [Nobody likes lag: How to make low-latency dev sandboxes](https://www.compyle.ai/blog/nobody-likes-lag/)
 * [2026-01-23, 17:26:27](https://news.ycombinator.com/item?id=46735133) - [Notes on the Intel 8086 processor's arithmetic-logic unit](https://www.righto.com/2026/01/notes-on-intel-8086-processors.html)
+* [2026-01-23, 16:45:47](https://news.ycombinator.com/item?id=46734641) - [Pandas 3.0](https://pandas.pydata.org/community/blog/pandas-3.0.html)
 * [2026-01-23, 16:43:31](https://news.ycombinator.com/item?id=46734608) - [Avoiding duplicate objects in Django querysets](https://johnnymetz.com/posts/avoiding-duplicate-objects-in-django-querysets/)
 * [2026-01-23, 16:19:18](https://news.ycombinator.com/item?id=46734302) - [Gas Town's Agent Patterns, Design Bottlenecks, and Vibecoding at Scale](https://maggieappleton.com/gastown)
 * [2026-01-23, 15:49:35](https://news.ycombinator.com/item?id=46733905) - [Show HN: Teemux – Zero-config log multiplexer with built-in MCP server](https://teemux.com/)
