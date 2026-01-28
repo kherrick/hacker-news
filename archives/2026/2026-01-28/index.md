@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
+* [2026-01-28, 12:00:08](https://news.ycombinator.com/item?id=46794231) - [Kyber (YC W23) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead)
 * [2026-01-28, 10:55:48](https://news.ycombinator.com/item?id=46793721) - [Google just gave us an accidental first look at Android's PC future](https://www.androidauthority.com/google-aluminium-os-first-look-bug-report-3635801/)
 * [2026-01-28, 10:50:32](https://news.ycombinator.com/item?id=46793693) - [Show HN: The HN Arcade](https://andrewgy8.github.io/hnarcade/)
 * [2026-01-28, 10:14:05](https://news.ycombinator.com/item?id=46793403) - [Australian high schoolers build coding platform to help learners in Sri Lanka](https://www.abc.net.au/news/2026-01-21/qld-teenagers-create-coding-app-code-lab-sri-lanka-students/106225842)
 * [2026-01-28, 08:58:28](https://news.ycombinator.com/item?id=46792783) - [Devuan – Debian Without Systemd](https://www.devuan.org/)
 * [2026-01-28, 08:33:57](https://news.ycombinator.com/item?id=46792580) - [I Stopped Following the News](https://mertbulan.com/2026/01/28/why-i-stopped-following-the-news/)
+* [2026-01-28, 08:32:50](https://news.ycombinator.com/item?id=46792572) - [Virtual Boy on TV with Intelligent Systems Video Boy](https://hcs64.com/video-boy-vue/)
 * [2026-01-28, 08:02:42](https://news.ycombinator.com/item?id=46792370) - [ASML staffing changes could result in a net reduction of around 1700 positions](https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation)
 * [2026-01-28, 08:02:42](https://news.ycombinator.com/item?id=46792370) - [ASML firing 1700 people, mostly managers](https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/)
 * [2026-01-28, 07:35:51](https://news.ycombinator.com/item?id=46792194) - [Make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
