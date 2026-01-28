@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=46789913"
     ],
     [
-      "AI found 12 vulnerabilities in OpenSSL",
+      "AISLE Discovered 12 out of 12 OpenSSL Vulnerabilities",
       "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities"
     ]
   ],
@@ -51,12 +51,32 @@
   ],
   [
     [
+      "2026-01-27, 20:59:49",
+      "https://news.ycombinator.com/item?id=46786618"
+    ],
+    [
+      "Show HN: I wrapped the Zorks with an LLM",
+      "https://infocom.tambo.co/"
+    ]
+  ],
+  [
+    [
       "2026-01-27, 20:38:22",
       "https://news.ycombinator.com/item?id=46786237"
     ],
     [
       "TikTok settles just before social media addiction trial to begin",
       "https://www.bbc.com/news/articles/c24g8v6qr1mo"
+    ]
+  ],
+  [
+    [
+      "2026-01-27, 20:36:14",
+      "https://news.ycombinator.com/item?id=46786196"
+    ],
+    [
+      "Parametric CAD in Rust",
+      "https://campedersen.com/vcad"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-01-27, 18:08:36",
-      "https://news.ycombinator.com/item?id=46783863"
-    ],
-    [
-      "Clawdbot Renames to Moltbot",
-      "https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6"
-    ]
-  ],
-  [
-    [
       "2026-01-27, 18:03:10",
       "https://news.ycombinator.com/item?id=46783752"
     ],
@@ -167,16 +177,6 @@
     [
       "SoundCloud Data Breach Now on HaveIBeenPwned",
       "https://haveibeenpwned.com/Breach/SoundCloud"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 16:56:23",
-      "https://news.ycombinator.com/item?id=46782662"
-    ],
-    [
-      "OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing",
-      "https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467"
     ]
   ],
   [
