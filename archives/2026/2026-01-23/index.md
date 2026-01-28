@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-23](index.md)
 
 * [2026-01-23, 23:12:19](https://news.ycombinator.com/item?id=46739257) - [I found the perfect yearly calendar (for me)](https://blog.notmyhostna.me/posts/i-found-the-perfect-yearly-calendar-for-me)
+* [2026-01-23, 22:55:00](https://news.ycombinator.com/item?id=46739117) - [The Five Levels: From Spicy Autocomplete to the Software Factory](https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/)
 * [2026-01-23, 22:51:55](https://news.ycombinator.com/item?id=46739082) - [Knapsack Offline Internet Solution (satellite datacasting)](https://www.netfreedompioneers.org/knapsack-content-station/)
 * [2026-01-23, 22:51:41](https://news.ycombinator.com/item?id=46739078) - [TikTok Is Now Collecting More Data About Its Users](https://www.wired.com/story/tiktok-new-privacy-policy/)
 * [2026-01-23, 22:51:25](https://news.ycombinator.com/item?id=46739075) - [Voyage-multimodal-3.5: A new multimodal retrieval frontier with video support](https://blog.voyageai.com/2026/01/15/voyage-multimodal-3-5/)
