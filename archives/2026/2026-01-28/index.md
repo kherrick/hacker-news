@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
+* [2026-01-28, 18:23:14](https://news.ycombinator.com/item?id=46799477) - [LM Studio 0.4.0](https://lmstudio.ai/blog/0.4.0)
 * [2026-01-28, 18:12:02](https://news.ycombinator.com/item?id=46799304) - [That's Not How Email Works, HSBC](https://danq.me/2026/01/28/hsbc-dont-understand-email/)
 * [2026-01-28, 17:54:54](https://news.ycombinator.com/item?id=46798994) - [Computer History Museum Launches Digital Portal to Its Collection](https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/)
 * [2026-01-28, 17:23:35](https://news.ycombinator.com/item?id=46798467) - [For These Women, Grok's Sexualized Images Are Personal](https://www.rollingstone.com/culture/culture-features/grok-sexualized-image-xai-elon-musk-women-1235501436/)
@@ -17,9 +18,11 @@
 * [2026-01-28, 15:27:49](https://news.ycombinator.com/item?id=46796571) - [Dole Kemp 96 Web Site](https://www.dolekemp96.org/main.htm)
 * [2026-01-28, 14:32:30](https://news.ycombinator.com/item?id=46795908) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2026-01-28, 14:28:21](https://news.ycombinator.com/item?id=46795864) - [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
+* [2026-01-28, 14:06:39](https://news.ycombinator.com/item?id=46795582) - [When Every Network is 192.168.1.x](https://netrinos.com/blog/conflicting-subnets)
 * [2026-01-28, 14:03:28](https://news.ycombinator.com/item?id=46795540) - [Show HN: I built a small browser engine from scratch in C++](https://github.com/beginner-jhj/mini_browser)
 * [2026-01-28, 13:58:03](https://news.ycombinator.com/item?id=46795468) - [Show HN: Record and share your coding sessions with CodeMic](https://codemic.io/#)
 * [2026-01-28, 12:18:12](https://news.ycombinator.com/item?id=46794365) - [ICE and Palantir: US agents using health data to hunt illegal immigrants](https://www.bmj.com/content/392/bmj.s168)
+* [2026-01-28, 12:06:18](https://news.ycombinator.com/item?id=46794281) - [Show HN: SHDL – A minimal hardware description language built from logic gates](https://github.com/rafa-rrayes/SHDL)
 * [2026-01-28, 12:03:51](https://news.ycombinator.com/item?id=46794258) - [SoftBank in Talks to Invest Up to $30B More in OpenAI](https://www.wsj.com/tech/ai/softbank-in-talks-to-invest-up-to-30-billion-more-in-openai-8585dea3)
 * [2026-01-28, 12:00:08](https://news.ycombinator.com/item?id=46794231) - [Kyber (YC W23) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead)
 * [2026-01-28, 10:55:48](https://news.ycombinator.com/item?id=46793721) - [Google just gave us an accidental first look at Android's PC future](https://www.androidauthority.com/google-aluminium-os-first-look-bug-report-3635801/)

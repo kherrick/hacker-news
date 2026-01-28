@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-28, 18:23:14](https://news.ycombinator.com/item?id=46799477) - [LM Studio 0.4.0](https://lmstudio.ai/blog/0.4.0)
 * [2026-01-28, 18:12:02](https://news.ycombinator.com/item?id=46799304) - [That's Not How Email Works, HSBC](https://danq.me/2026/01/28/hsbc-dont-understand-email/)
 * [2026-01-28, 17:54:54](https://news.ycombinator.com/item?id=46798994) - [Computer History Museum Launches Digital Portal to Its Collection](https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/)
 * [2026-01-28, 17:20:31](https://news.ycombinator.com/item?id=46798402) - [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood)
@@ -7,8 +8,10 @@
 * [2026-01-28, 16:32:00](https://news.ycombinator.com/item?id=46797594) - [Oban, the job processing framework from Elixir, has come to Python](https://www.dimamik.com/posts/oban_py/)
 * [2026-01-28, 14:32:30](https://news.ycombinator.com/item?id=46795908) - [Airfoil (2024)](https://ciechanow.ski/airfoil/)
 * [2026-01-28, 14:28:21](https://news.ycombinator.com/item?id=46795864) - [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
+* [2026-01-28, 14:06:39](https://news.ycombinator.com/item?id=46795582) - [When Every Network is 192.168.1.x](https://netrinos.com/blog/conflicting-subnets)
 * [2026-01-28, 14:03:28](https://news.ycombinator.com/item?id=46795540) - [Show HN: I built a small browser engine from scratch in C++](https://github.com/beginner-jhj/mini_browser)
 * [2026-01-28, 13:58:03](https://news.ycombinator.com/item?id=46795468) - [Show HN: Record and share your coding sessions with CodeMic](https://codemic.io/#)
+* [2026-01-28, 12:06:18](https://news.ycombinator.com/item?id=46794281) - [Show HN: SHDL – A minimal hardware description language built from logic gates](https://github.com/rafa-rrayes/SHDL)
 * [2026-01-28, 12:00:08](https://news.ycombinator.com/item?id=46794231) - [Kyber (YC W23) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead)
 * [2026-01-28, 10:50:32](https://news.ycombinator.com/item?id=46793693) - [Show HN: The HN Arcade](https://andrewgy8.github.io/hnarcade/)
 * [2026-01-28, 08:32:50](https://news.ycombinator.com/item?id=46792572) - [Virtual Boy on TV with Intelligent Systems Video Boy](https://hcs64.com/video-boy-vue/)
@@ -25,9 +28,6 @@
 * [2026-01-24, 15:17:11](https://news.ycombinator.com/item?id=46744272) - [3D-Printed Mathematical Lampshades](https://hessammehr.github.io/blog/posts/2025-12-24-maths-to-lampshade.html)
 * [2026-01-24, 00:15:20](https://news.ycombinator.com/item?id=46739704) - [Show HN: Dwm.tmux – a dwm-inspired window manager for tmux](https://github.com/saysjonathan/dwm.tmux)
 * [2026-01-23, 17:48:25](https://news.ycombinator.com/item?id=46735407) - [There's only one Woz, but we can all learn from him](https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award)
-* [2026-01-23, 17:27:48](https://news.ycombinator.com/item?id=46735152) - [Golden Ratio using an equilateral triangle inscribed in a circle](https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/)
-* [2026-01-23, 16:45:47](https://news.ycombinator.com/item?id=46734641) - [Pandas 3.0](https://pandas.pydata.org/community/blog/pandas-3.0.html)
-* [2026-01-23, 05:07:02](https://news.ycombinator.com/item?id=46728659) - [Show HN: Extracting React apps from Figma Make's undocumented binary format](https://albertsikkema.com/ai/development/tools/reverse-engineering/2026/01/23/reverse-engineering-figma-make-files.html)
 * [2026-01-23, 03:32:26](https://news.ycombinator.com/item?id=46728070) - [I Overengineered a Spinning Top](https://www.youtube.com/watch?v=Wp5NodfvvF4)
 * [2026-01-22, 23:06:05](https://news.ycombinator.com/item?id=46726269) - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
 
