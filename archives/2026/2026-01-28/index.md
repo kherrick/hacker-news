@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
+* [2026-01-28, 21:42:03](https://news.ycombinator.com/item?id=46801976) - [Jellyfin LLM/\"AI\" Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
 * [2026-01-28, 20:43:10](https://news.ycombinator.com/item?id=46801225) - [What does Werner Herzog's nihilist penguin teach us about life?](https://lwlies.com/article/werner-herzog-penguin-encounters-at-the-end-of-the-world)
 * [2026-01-28, 19:59:04](https://news.ycombinator.com/item?id=46800737) - [Native Linux VST plugin directory](https://linuxmusic.rocks)
 * [2026-01-28, 19:58:30](https://news.ycombinator.com/item?id=46800730) - [New books aren't worth reading?](https://www.atlaspress.co/p/new-books-arent-worth-reading)

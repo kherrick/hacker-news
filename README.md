@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-28, 20:43:10](https://news.ycombinator.com/item?id=46801225) - [What does Werner Herzog's nihilist penguin teach us?](https://lwlies.com/article/werner-herzog-penguin-encounters-at-the-end-of-the-world)
+* [2026-01-28, 21:42:03](https://news.ycombinator.com/item?id=46801976) - [Jellyfin LLM/\"AI\" Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
 * [2026-01-28, 19:59:04](https://news.ycombinator.com/item?id=46800737) - [Native Linux VST plugin directory](https://linuxmusic.rocks)
 * [2026-01-28, 19:51:05](https://news.ycombinator.com/item?id=46800645) - [Native Instruments enters into insolvency proceedings](https://www.engadget.com/audio/native-instruments-enters-into-insolvency-proceedings-leaving-its-future-uncertain-183206826.html)
 * [2026-01-28, 19:48:59](https://news.ycombinator.com/item?id=46800623) - [Who sets the Doomsday Clock?](https://www.popularmechanics.com/science/a70162364/setting-the-doomsday-clock/)
 * [2026-01-28, 19:39:31](https://news.ycombinator.com/item?id=46800484) - [Show HN: Cursor for Userscripts](https://github.com/chebykinn/browser-code)
-* [2026-01-28, 19:24:35](https://news.ycombinator.com/item?id=46800303) - [Trying to craft AI images that are worth displaying to end users](https://www.approachwithalacrity.com/how-to-turn-sfo-jfk-into-a-beautiful-photo/)
 * [2026-01-28, 18:52:24](https://news.ycombinator.com/item?id=46799898) - [Show HN: A MitM proxy to see what your LLM tools are sending](https://github.com/jmuncor/sherlock)
 * [2026-01-28, 18:12:02](https://news.ycombinator.com/item?id=46799304) - [That's not how email works](https://danq.me/2026/01/28/hsbc-dont-understand-email/)
 * [2026-01-28, 17:54:54](https://news.ycombinator.com/item?id=46798994) - [Computer History Museum Launches Digital Portal to Its Collection](https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/)
@@ -27,7 +26,8 @@
 * [2026-01-28, 00:16:57](https://news.ycombinator.com/item?id=46789180) - [How London became the rest of the world’s startup capital](https://www.economist.com/britain/2026/01/26/how-london-became-the-rest-of-the-worlds-startup-capital)
 * [2026-01-27, 22:58:30](https://news.ycombinator.com/item?id=46788384) - [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/)
 * [2026-01-26, 14:05:46](https://news.ycombinator.com/item?id=46765772) - [I have written gemma3 inference in pure C](https://github.com/robitec97/gemma3.c)
-* [2026-01-23, 22:55:00](https://news.ycombinator.com/item?id=46739117) - [The Five Levels: From Spicy Autocomplete to the Software Factory](https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/)
+* [2026-01-24, 15:17:11](https://news.ycombinator.com/item?id=46744272) - [3D-Printed Mathematical Lampshades](https://hessammehr.github.io/blog/posts/2025-12-24-maths-to-lampshade.html)
+* [2026-01-23, 22:55:00](https://news.ycombinator.com/item?id=46739117) - [The Five Levels: From spicy autocomplete to the dark factory](https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/)
 * [2026-01-23, 13:55:04](https://news.ycombinator.com/item?id=46732514) - [In a genre where spoilers are devastating, how do we talk about puzzle games?](https://thinkygames.com/features/in-a-genre-where-information-is-sacred-and-spoilers-are-devastating-how-do-we-talk-about-puzzle-games/)
 * [2026-01-23, 03:32:26](https://news.ycombinator.com/item?id=46728070) - [I overengineered a spinning top [video]](https://www.youtube.com/watch?v=Wp5NodfvvF4)
 
