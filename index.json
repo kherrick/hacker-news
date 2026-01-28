@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-28, 20:43:10",
-      "https://news.ycombinator.com/item?id=46801225"
+      "2026-01-28, 21:42:03",
+      "https://news.ycombinator.com/item?id=46801976"
     ],
     [
-      "What does Werner Herzog's nihilist penguin teach us?",
-      "https://lwlies.com/article/werner-herzog-penguin-encounters-at-the-end-of-the-world"
+      "Jellyfin LLM/\"AI\" Development Policy",
+      "https://jellyfin.org/docs/general/contributing/llm-policies/"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Show HN: Cursor for Userscripts",
       "https://github.com/chebykinn/browser-code"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 19:24:35",
-      "https://news.ycombinator.com/item?id=46800303"
-    ],
-    [
-      "Trying to craft AI images that are worth displaying to end users",
-      "https://www.approachwithalacrity.com/how-to-turn-sfo-jfk-into-a-beautiful-photo/"
     ]
   ],
   [
@@ -271,11 +261,21 @@
   ],
   [
     [
+      "2026-01-24, 15:17:11",
+      "https://news.ycombinator.com/item?id=46744272"
+    ],
+    [
+      "3D-Printed Mathematical Lampshades",
+      "https://hessammehr.github.io/blog/posts/2025-12-24-maths-to-lampshade.html"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 22:55:00",
       "https://news.ycombinator.com/item?id=46739117"
     ],
     [
-      "The Five Levels: From Spicy Autocomplete to the Software Factory",
+      "The Five Levels: From spicy autocomplete to the dark factory",
       "https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/"
     ]
   ],
