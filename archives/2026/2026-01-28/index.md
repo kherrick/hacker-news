@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
+* [2026-01-28, 08:33:57](https://news.ycombinator.com/item?id=46792580) - [I Stopped Following the News](https://mertbulan.com/2026/01/28/why-i-stopped-following-the-news/)
 * [2026-01-28, 08:02:42](https://news.ycombinator.com/item?id=46792370) - [ASML firing 1700 people, mostly managers](https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/)
 * [2026-01-28, 07:35:51](https://news.ycombinator.com/item?id=46792194) - [Make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
 * [2026-01-28, 06:21:07](https://news.ycombinator.com/item?id=46791742) - [Rust at Scale: An Added Layer of Security for WhatsApp](https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-28, 08:33:57](https://news.ycombinator.com/item?id=46792580) - [I Stopped Following the News](https://mertbulan.com/2026/01/28/why-i-stopped-following-the-news/)
 * [2026-01-28, 08:02:42](https://news.ycombinator.com/item?id=46792370) - [ASML firing 1700 people, mostly managers](https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/)
 * [2026-01-28, 07:35:51](https://news.ycombinator.com/item?id=46792194) - [Make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
 * [2026-01-28, 06:21:07](https://news.ycombinator.com/item?id=46791742) - [Rust at Scale: An Added Layer of Security for WhatsApp](https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/)
@@ -17,7 +18,6 @@
 * [2026-01-27, 17:11:39](https://news.ycombinator.com/item?id=46782930) - [SoundCloud Data Breach Now on HaveIBeenPwned](https://haveibeenpwned.com/Breach/SoundCloud)
 * [2026-01-27, 15:46:29](https://news.ycombinator.com/item?id=46781530) - [430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
 * [2026-01-27, 15:41:14](https://news.ycombinator.com/item?id=46781444) - [Amazon closing its Fresh and Go stores](https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html)
-* [2026-01-27, 15:16:34](https://news.ycombinator.com/item?id=46781090) - [Show HN: Fuzzy Studio – Apply live effects to videos/camera](https://fuzzy.ulyssepence.com/)
 * [2026-01-27, 13:25:53](https://news.ycombinator.com/item?id=46779645) - [Xfwl4 – The Roadmap for a Xfce Wayland Compositor](https://alexxcons.github.io/blogpost_15.html)
 * [2026-01-27, 13:13:56](https://news.ycombinator.com/item?id=46779522) - [Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC](https://emsh.cat/one-human-one-agent-one-browser/)
 * [2026-01-27, 06:17:46](https://news.ycombinator.com/item?id=46776155) - [Doing the thing is doing the thing](https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing)
