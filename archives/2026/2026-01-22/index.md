@@ -23,6 +23,7 @@
 * [2026-01-22, 19:27:32](https://news.ycombinator.com/item?id=46723990) - [Why does SSH send 100 packets per keystroke?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/)
 * [2026-01-22, 19:20:59](https://news.ycombinator.com/item?id=46723898) - [How LLM agents solve the table merging problem](https://futuresearch.ai/deep-merge-tutorial/)
 * [2026-01-22, 19:03:56](https://news.ycombinator.com/item?id=46723694) - ['Active' sitting is better for brain health: review of studies](https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health)
+* [2026-01-22, 18:49:56](https://news.ycombinator.com/item?id=46723521) - [The Texas Instruments CC-40 invades Gopherspace (plus TI-74 BASICALC)](http://oldvcr.blogspot.com/2025/12/the-texas-instruments-cc-40-invades.html)
 * [2026-01-22, 18:38:27](https://news.ycombinator.com/item?id=46723384) - [I was banned from Claude for scaffolding a Claude.md file](https://hugodaniel.com/posts/claude-code-banned-me/)
 * [2026-01-22, 18:25:25](https://news.ycombinator.com/item?id=46723183) - [Skill.md: An open standard for agent skills](https://www.mintlify.com/blog/skill-md)
 * [2026-01-22, 18:21:13](https://news.ycombinator.com/item?id=46723128) - [Show HN: Postgres and ClickHouse as a unified data stack](https://news.ycombinator.com/item?id=46723128)
