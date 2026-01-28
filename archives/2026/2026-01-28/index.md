@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
+* [2026-01-28, 17:23:35](https://news.ycombinator.com/item?id=46798467) - [For These Women, Grok's Sexualized Images Are Personal](https://www.rollingstone.com/culture/culture-features/grok-sexualized-image-xai-elon-musk-women-1235501436/)
 * [2026-01-28, 16:52:05](https://news.ycombinator.com/item?id=46797913) - [Amazone One palm authentication discontinued](https://amazonone.aws.com/help)
+* [2026-01-28, 16:50:43](https://news.ycombinator.com/item?id=46797895) - [Show HN: I Built a Sandbox for Agents](https://github.com/vrn21/bouvet.com)
+* [2026-01-28, 16:48:48](https://news.ycombinator.com/item?id=46797865) - [Will AIs Take All Our Jobs and End Human History–Or Not?](https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/)
+* [2026-01-28, 16:32:00](https://news.ycombinator.com/item?id=46797594) - [Oban, the job processing framework from Elixir, has come to Python](https://www.dimamik.com/posts/oban_py/)
 * [2026-01-28, 15:39:11](https://news.ycombinator.com/item?id=46796745) - [Amazon axes 16,000 jobs as it pushes AI and efficiency](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)
 * [2026-01-28, 15:27:49](https://news.ycombinator.com/item?id=46796571) - [Dole Kemp 96 Web Site](https://www.dolekemp96.org/main.htm)
 * [2026-01-28, 14:32:30](https://news.ycombinator.com/item?id=46795908) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2026-01-28, 14:28:21](https://news.ycombinator.com/item?id=46795864) - [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
+* [2026-01-28, 14:03:28](https://news.ycombinator.com/item?id=46795540) - [Show HN: I built a small browser engine from scratch in C++](https://github.com/beginner-jhj/mini_browser)
 * [2026-01-28, 12:18:12](https://news.ycombinator.com/item?id=46794365) - [ICE and Palantir: US agents using health data to hunt illegal immigrants](https://www.bmj.com/content/392/bmj.s168)
 * [2026-01-28, 12:03:51](https://news.ycombinator.com/item?id=46794258) - [SoftBank in Talks to Invest Up to $30B More in OpenAI](https://www.wsj.com/tech/ai/softbank-in-talks-to-invest-up-to-30-billion-more-in-openai-8585dea3)
 * [2026-01-28, 12:00:08](https://news.ycombinator.com/item?id=46794231) - [Kyber (YC W23) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead)

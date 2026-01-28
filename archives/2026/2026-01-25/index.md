@@ -28,6 +28,7 @@
 * [2026-01-25, 17:51:24](https://news.ycombinator.com/item?id=46756288) - [What Is Starlink Mesh? – Starlink Help Center](https://starlink.com/ca/support/article/57f4bd5c-4125-2210-8bb2-30c90b558b7b)
 * [2026-01-25, 17:36:19](https://news.ycombinator.com/item?id=46756117) - [ICE Using Palantir Tool That Feeds on Medicaid Data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data)
 * [2026-01-25, 17:24:42](https://news.ycombinator.com/item?id=46755999) - [FAA institutes nationwide drone no-fly zones around ICE operations](https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs)
+* [2026-01-25, 16:06:39](https://news.ycombinator.com/item?id=46755278) - [Immanuel 'the Königsberg clock' Kant (2015)](https://www.versobooks.com/en-gb/blogs/news/1963-immanuel-kant-the-errrr-walker)
 * [2026-01-25, 15:51:03](https://news.ycombinator.com/item?id=46755115) - [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq)
 * [2026-01-25, 15:34:51](https://news.ycombinator.com/item?id=46754944) - [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
 * [2026-01-25, 15:13:46](https://news.ycombinator.com/item?id=46754724) - [Show HN: Netfence – Like Envoy for eBPF Filters](https://github.com/danthegoodman1/netfence)
