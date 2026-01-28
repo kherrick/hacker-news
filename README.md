@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-28, 05:40:38](https://news.ycombinator.com/item?id=46791496) - [Moltbot Security Guide: Protect Your VPS from Hackers and Vulnerabilities](https://veerhost.com/moltbot-security-guide/)
 * [2026-01-28, 01:44:25](https://news.ycombinator.com/item?id=46789961) - [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/)
-* [2026-01-28, 01:38:15](https://news.ycombinator.com/item?id=46789913) - [AISLE Discovered 12 out of 12 OpenSSL Vulnerabilities](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
+* [2026-01-28, 01:38:15](https://news.ycombinator.com/item?id=46789913) - [AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
 * [2026-01-27, 22:58:30](https://news.ycombinator.com/item?id=46788384) - [Notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/)
 * [2026-01-27, 21:54:29](https://news.ycombinator.com/item?id=46787521) - [Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son](https://www.web3isgoinggreat.com/single/lick-theft)
 * [2026-01-27, 20:59:49](https://news.ycombinator.com/item?id=46786618) - [Show HN: I wrapped the Zorks with an LLM](https://infocom.tambo.co/)
-* [2026-01-27, 20:38:22](https://news.ycombinator.com/item?id=46786237) - [TikTok settles just before social media addiction trial to begin](https://www.bbc.com/news/articles/c24g8v6qr1mo)
 * [2026-01-27, 20:36:14](https://news.ycombinator.com/item?id=46786196) - [Parametric CAD in Rust](https://campedersen.com/vcad)
 * [2026-01-27, 20:35:34](https://news.ycombinator.com/item?id=46786183) - [Time Station Emulator](https://github.com/kangtastic/timestation)
 * [2026-01-27, 19:59:47](https://news.ycombinator.com/item?id=46785598) - [How many chess games are possible?](https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/)
