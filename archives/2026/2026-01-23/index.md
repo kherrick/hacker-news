@@ -31,6 +31,7 @@
 * [2026-01-23, 17:58:56](https://news.ycombinator.com/item?id=46735545) - [Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)
 * [2026-01-23, 17:56:31](https://news.ycombinator.com/item?id=46735511) - [Proof of Corn](https://proofofcorn.com/)
 * [2026-01-23, 17:54:45](https://news.ycombinator.com/item?id=46735489) - [Route leak incident on January 22, 2026](https://blog.cloudflare.com/route-leak-incident-january-22-2026/)
+* [2026-01-23, 17:48:25](https://news.ycombinator.com/item?id=46735407) - [There's only one Woz, but we can all learn from him](https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award)
 * [2026-01-23, 17:34:29](https://news.ycombinator.com/item?id=46735231) - [Show HN: New 3D Mapping website - Create heli orbits and \"playable\" map tours.](https://www.easy3dmaps.com/gallery)
 * [2026-01-23, 17:29:53](https://news.ycombinator.com/item?id=46735179) - [Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG](https://markgascoyne.co.uk/posts/ebpf-bng/)
 * [2026-01-23, 17:27:48](https://news.ycombinator.com/item?id=46735152) - [Golden Ratio using an equilateral triangle inscribed in a circle](https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/)
