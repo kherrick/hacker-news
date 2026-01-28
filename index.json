@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-28, 08:02:42",
+      "https://news.ycombinator.com/item?id=46792370"
+    ],
+    [
+      "ASML firing 1700 people, mostly managers",
+      "https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/"
+    ]
+  ],
+  [
+    [
       "2026-01-28, 07:35:51",
       "https://news.ycombinator.com/item?id=46792194"
     ],
     [
       "Make.ts",
       "https://matklad.github.io/2026/01/27/make-ts.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 06:21:07",
+      "https://news.ycombinator.com/item?id=46791742"
+    ],
+    [
+      "Rust at Scale: An Added Layer of Security for WhatsApp",
+      "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/"
     ]
   ],
   [
@@ -31,26 +51,6 @@
   ],
   [
     [
-      "2026-01-27, 21:54:29",
-      "https://news.ycombinator.com/item?id=46787521"
-    ],
-    [
-      "Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son",
-      "https://www.web3isgoinggreat.com/single/lick-theft"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 20:59:49",
-      "https://news.ycombinator.com/item?id=46786618"
-    ],
-    [
-      "Show HN: I wrapped the Zorks with an LLM",
-      "https://infocom.tambo.co/"
-    ]
-  ],
-  [
-    [
       "2026-01-27, 20:36:14",
       "https://news.ycombinator.com/item?id=46786196"
     ],
@@ -67,16 +67,6 @@
     [
       "Time Station Emulator",
       "https://github.com/kangtastic/timestation"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 19:59:47",
-      "https://news.ycombinator.com/item?id=46785598"
-    ],
-    [
-      "How many chess games are possible?",
-      "https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "A few random notes from Claude coding quite a bit last few weeks",
       "https://twitter.com/karpathy/status/2015883857489522876"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 10:44:08",
+      "https://news.ycombinator.com/item?id=46752841"
+    ],
+    [
+      "Bridging the Gap Between PLECS and SPICE",
+      "https://erickschulz.dev/posts/plecs-spice/"
     ]
   ],
   [
