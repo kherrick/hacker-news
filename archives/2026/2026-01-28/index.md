@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
+* [2026-01-28, 07:35:51](https://news.ycombinator.com/item?id=46792194) - [Make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
 * [2026-01-28, 05:40:38](https://news.ycombinator.com/item?id=46791496) - [Moltbot Security Guide: Protect Your VPS from Hackers and Vulnerabilities](https://veerhost.com/moltbot-security-guide/)
 * [2026-01-28, 05:18:04](https://news.ycombinator.com/item?id=46791358) - [How the new era of CEO supervillains are trapped in their own ideology](https://statmodeling.stat.columbia.edu/2026/01/27/facebook-and-the-inherent-incoherence-of-the-ideology-of-market-leading-tech-companies/)
 * [2026-01-28, 04:11:47](https://news.ycombinator.com/item?id=46790957) - [Ask HN: Why all the sudden people are writing browsers with AI?](https://news.ycombinator.com/item?id=46790957)
