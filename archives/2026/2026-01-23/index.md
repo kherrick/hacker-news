@@ -33,6 +33,7 @@
 * [2026-01-23, 17:54:45](https://news.ycombinator.com/item?id=46735489) - [Route leak incident on January 22, 2026](https://blog.cloudflare.com/route-leak-incident-january-22-2026/)
 * [2026-01-23, 17:34:29](https://news.ycombinator.com/item?id=46735231) - [Show HN: New 3D Mapping website - Create heli orbits and \"playable\" map tours.](https://www.easy3dmaps.com/gallery)
 * [2026-01-23, 17:29:53](https://news.ycombinator.com/item?id=46735179) - [Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG](https://markgascoyne.co.uk/posts/ebpf-bng/)
+* [2026-01-23, 17:27:48](https://news.ycombinator.com/item?id=46735152) - [Golden Ratio using an equilateral triangle inscribed in a circle](https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/)
 * [2026-01-23, 17:26:57](https://news.ycombinator.com/item?id=46735139) - [Nobody likes lag: How to make low-latency dev sandboxes](https://www.compyle.ai/blog/nobody-likes-lag/)
 * [2026-01-23, 17:26:27](https://news.ycombinator.com/item?id=46735133) - [Notes on the Intel 8086 processor's arithmetic-logic unit](https://www.righto.com/2026/01/notes-on-intel-8086-processors.html)
 * [2026-01-23, 16:43:31](https://news.ycombinator.com/item?id=46734608) - [Avoiding duplicate objects in Django querysets](https://johnnymetz.com/posts/avoiding-duplicate-objects-in-django-querysets/)
