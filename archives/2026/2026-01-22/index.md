@@ -6,6 +6,7 @@
 
 * [2026-01-22, 23:34:44](https://news.ycombinator.com/item?id=46726526) - [Improving the usability of C libraries in Swift](https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/)
 * [2026-01-22, 23:29:11](https://news.ycombinator.com/item?id=46726480) - [When two years of academic work vanished with a single click](https://www.nature.com/articles/d41586-025-04064-7)
+* [2026-01-22, 23:06:05](https://news.ycombinator.com/item?id=46726269) - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
 * [2026-01-22, 23:04:25](https://news.ycombinator.com/item?id=46726259) - [FIPS Dependencies and Prebuilt Binaries](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/)
 * [2026-01-22, 22:31:27](https://news.ycombinator.com/item?id=46725982) - [How to Find LinkedIn Profiles and Work Emails in 5 Minutes](https://crona.ai/blog/how-to-find-a-work-email-from-a-name-and-linkedin-2-step-workflow)
 * [2026-01-22, 21:54:02](https://news.ycombinator.com/item?id=46725632) - [Anthropic Economic Index economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)
