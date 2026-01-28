@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2026-01-28, 13:58:03",
-      "https://news.ycombinator.com/item?id=46795468"
-    ],
-    [
-      "Show HN: Record and share your coding sessions with CodeMic",
-      "https://codemic.io/#"
-    ]
-  ],
-  [
-    [
       "2026-01-28, 12:06:18",
       "https://news.ycombinator.com/item?id=46794281"
     ],
@@ -237,6 +227,16 @@
     [
       "Show HN: Cua-Bench – a benchmark for AI agents in GUI environments",
       "https://github.com/trycua/cua"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 14:05:46",
+      "https://news.ycombinator.com/item?id=46765772"
+    ],
+    [
+      "I have written gemma3 inference in pure C",
+      "https://github.com/robitec97/gemma3.c"
     ]
   ],
   [
