@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-28, 18:23:14",
+      "https://news.ycombinator.com/item?id=46799477"
+    ],
+    [
+      "LM Studio 0.4.0",
+      "https://lmstudio.ai/blog/0.4.0"
+    ]
+  ],
+  [
+    [
       "2026-01-28, 18:12:02",
       "https://news.ycombinator.com/item?id=46799304"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2026-01-28, 14:06:39",
+      "https://news.ycombinator.com/item?id=46795582"
+    ],
+    [
+      "When Every Network is 192.168.1.x",
+      "https://netrinos.com/blog/conflicting-subnets"
+    ]
+  ],
+  [
+    [
       "2026-01-28, 14:03:28",
       "https://news.ycombinator.com/item?id=46795540"
     ],
@@ -87,6 +107,16 @@
     [
       "Show HN: Record and share your coding sessions with CodeMic",
       "https://codemic.io/#"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 12:06:18",
+      "https://news.ycombinator.com/item?id=46794281"
+    ],
+    [
+      "Show HN: SHDL – A minimal hardware description language built from logic gates",
+      "https://github.com/rafa-rrayes/SHDL"
     ]
   ],
   [
@@ -247,36 +277,6 @@
     [
       "There's only one Woz, but we can all learn from him",
       "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 17:27:48",
-      "https://news.ycombinator.com/item?id=46735152"
-    ],
-    [
-      "Golden Ratio using an equilateral triangle inscribed in a circle",
-      "https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 16:45:47",
-      "https://news.ycombinator.com/item?id=46734641"
-    ],
-    [
-      "Pandas 3.0",
-      "https://pandas.pydata.org/community/blog/pandas-3.0.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 05:07:02",
-      "https://news.ycombinator.com/item?id=46728659"
-    ],
-    [
-      "Show HN: Extracting React apps from Figma Make's undocumented binary format",
-      "https://albertsikkema.com/ai/development/tools/reverse-engineering/2026/01/23/reverse-engineering-figma-make-files.html"
     ]
   ],
   [
