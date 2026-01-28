@@ -46,6 +46,7 @@
 * [2026-01-23, 15:26:33](https://news.ycombinator.com/item?id=46733624) - [Tech Is Fun Again: The Tech Monoculture Is Finally Breaking](http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/)
 * [2026-01-23, 15:03:08](https://news.ycombinator.com/item?id=46733306) - [The Science of Fermentation (The Food Programme)](https://www.bbc.co.uk/programmes/m002pqg6)
 * [2026-01-23, 15:03:01](https://news.ycombinator.com/item?id=46733301) - [Waypoint-1: Real-Time Interactive Video Diffusion from Overworld](https://huggingface.co/blog/waypoint-1)
+* [2026-01-23, 14:44:14](https://news.ycombinator.com/item?id=46733079) - [Hellenistic War-Elephants and the Use of Alcohol Before Battle](https://www.cambridge.org/core/journals/classical-quarterly/article/hellenistic-warelephants-and-the-use-of-alcohol-before-battle/39A749F62E21ED16C9CCA3B03E176561)
 * [2026-01-23, 14:40:21](https://news.ycombinator.com/item?id=46733025) - [Is liberal democracy in terminal decline?](https://www.ft.com/content/b4d2c7a3-587d-440f-a7a9-7e5e85b93a88)
 * [2026-01-23, 14:38:14](https://news.ycombinator.com/item?id=46733009) - [Tesla fined for repeatedly failing to help UK police over driving offences](https://www.bbc.co.uk/news/articles/c0r44zpprg7o)
 * [2026-01-23, 14:34:46](https://news.ycombinator.com/item?id=46732967) - [KORG phase8 – Acoustic Synthesizer](https://www.korg.com/us/products/dj/phase8/)
