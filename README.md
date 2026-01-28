@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-28, 04:11:47](https://news.ycombinator.com/item?id=46790957) - [Ask HN: Why all the sudden people are writing browsers with AI?](https://news.ycombinator.com/item?id=46790957)
 * [2026-01-28, 01:44:25](https://news.ycombinator.com/item?id=46789961) - [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/)
 * [2026-01-28, 01:38:15](https://news.ycombinator.com/item?id=46789913) - [AI found 12 vulnerabilities in OpenSSL](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
 * [2026-01-27, 21:54:29](https://news.ycombinator.com/item?id=46787521) - [Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son](https://www.web3isgoinggreat.com/single/lick-theft)
@@ -26,7 +27,6 @@
 * [2026-01-26, 21:09:19](https://news.ycombinator.com/item?id=46771564) - [A few random notes from Claude coding quite a bit last few weeks](https://twitter.com/karpathy/status/2015883857489522876)
 * [2026-01-24, 04:49:02](https://news.ycombinator.com/item?id=46741150) - [Rust’s Standard Library on the GPU](https://www.vectorware.com/blog/rust-std-on-gpu/)
 * [2026-01-23, 23:12:19](https://news.ycombinator.com/item?id=46739257) - [I found the perfect yearly calendar (for me)](https://blog.notmyhostna.me/posts/i-found-the-perfect-yearly-calendar-for-me)
-* [2026-01-23, 22:02:52](https://news.ycombinator.com/item?id=46738578) - [The First Eighteen Lines of the Waste Land (1989)](https://yalereview.org/article/hecht-eliot-waste-land)
 * [2026-01-23, 20:07:51](https://news.ycombinator.com/item?id=46737203) - [Arrows to Arrows, Categories to Queries](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
 * [2026-01-23, 17:27:48](https://news.ycombinator.com/item?id=46735152) - [Golden Ratio using an equilateral triangle inscribed in a circle](https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/)
 * [2026-01-23, 12:05:11](https://news.ycombinator.com/item?id=46731513) - [Extremophile molds are invading art museums](https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/)
