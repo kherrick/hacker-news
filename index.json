@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=46801225"
     ],
     [
-      "What does Werner Herzog's nihilist penguin teach us about life?",
+      "What does Werner Herzog's nihilist penguin teach us?",
       "https://lwlies.com/article/werner-herzog-penguin-encounters-at-the-end-of-the-world"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "Native Linux VST plugin directory",
       "https://linuxmusic.rocks"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 19:58:30",
-      "https://news.ycombinator.com/item?id=46800730"
-    ],
-    [
-      "New books aren't worth reading?",
-      "https://www.atlaspress.co/p/new-books-arent-worth-reading"
     ]
   ],
   [
@@ -61,12 +51,22 @@
   ],
   [
     [
-      "2026-01-28, 18:23:14",
-      "https://news.ycombinator.com/item?id=46799477"
+      "2026-01-28, 19:24:35",
+      "https://news.ycombinator.com/item?id=46800303"
     ],
     [
-      "LM Studio 0.4.0",
-      "https://lmstudio.ai/blog/0.4.0"
+      "Trying to craft AI images that are worth displaying to end users",
+      "https://www.approachwithalacrity.com/how-to-turn-sfo-jfk-into-a-beautiful-photo/"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 18:52:24",
+      "https://news.ycombinator.com/item?id=46799898"
+    ],
+    [
+      "Show HN: A MitM proxy to see what your LLM tools are sending",
+      "https://github.com/jmuncor/sherlock"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2026-01-28, 16:48:48",
-      "https://news.ycombinator.com/item?id=46797865"
-    ],
-    [
-      "Will AIs take all our jobs and end human history, or not? (2023)",
-      "https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/"
-    ]
-  ],
-  [
-    [
       "2026-01-28, 16:32:00",
       "https://news.ycombinator.com/item?id=46797594"
     ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2026-01-28, 15:13:53",
+      "https://news.ycombinator.com/item?id=46796389"
+    ],
+    [
+      "Tuning Semantic Search on JFMM.net – Joint Fleet Maintenance Manual",
+      "https://carlkolon.com/2026/01/27/jfmm-semantic-search/"
+    ]
+  ],
+  [
+    [
       "2026-01-28, 14:32:30",
       "https://news.ycombinator.com/item?id=46795908"
     ],
@@ -167,16 +167,6 @@
     [
       "Microsoft forced me to switch to Linux",
       "https://www.himthe.dev/blog/microsoft-to-linux"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 12:30:02",
-      "https://news.ycombinator.com/item?id=46794472"
-    ],
-    [
-      "If you tax them, will they leave?",
-      "https://www.theatlantic.com/economy/2026/01/california-wealth-tax-billionaire-migration/685779/"
     ]
   ],
   [
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2026-01-28, 07:35:51",
-      "https://news.ycombinator.com/item?id=46792194"
+      "2026-01-28, 07:40:50",
+      "https://news.ycombinator.com/item?id=46792225"
     ],
     [
-      "Make.ts",
-      "https://matklad.github.io/2026/01/27/make-ts.html"
+      "Kairos: AI interns for everyone",
+      "https://www.kairos.computer/"
     ]
   ],
   [
@@ -227,6 +217,36 @@
     [
       "Android's desktop interface leaks",
       "https://9to5google.com/2026/01/27/android-desktop-leak/"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 00:57:52",
+      "https://news.ycombinator.com/item?id=46789561"
+    ],
+    [
+      "Trinity large: An open 400B sparse MoE model",
+      "https://www.arcee.ai/blog/trinity-large"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 00:18:58",
+      "https://news.ycombinator.com/item?id=46789205"
+    ],
+    [
+      "Did a celebrated researcher obscure a baby's poisoning?",
+      "https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 00:16:57",
+      "https://news.ycombinator.com/item?id=46789180"
+    ],
+    [
+      "How London became the rest of the world’s startup capital",
+      "https://www.economist.com/britain/2026/01/26/how-london-became-the-rest-of-the-worlds-startup-capital"
     ]
   ],
   [
@@ -251,26 +271,6 @@
   ],
   [
     [
-      "2026-01-24, 15:17:11",
-      "https://news.ycombinator.com/item?id=46744272"
-    ],
-    [
-      "3D-Printed Mathematical Lampshades",
-      "https://hessammehr.github.io/blog/posts/2025-12-24-maths-to-lampshade.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 00:15:20",
-      "https://news.ycombinator.com/item?id=46739704"
-    ],
-    [
-      "Show HN: Dwm.tmux – a dwm-inspired window manager for tmux",
-      "https://github.com/saysjonathan/dwm.tmux"
-    ]
-  ],
-  [
-    [
       "2026-01-23, 22:55:00",
       "https://news.ycombinator.com/item?id=46739117"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-01-23, 17:48:25",
-      "https://news.ycombinator.com/item?id=46735407"
+      "2026-01-23, 13:55:04",
+      "https://news.ycombinator.com/item?id=46732514"
     ],
     [
-      "There's only one Woz, but we can all learn from him",
-      "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award"
+      "In a genre where spoilers are devastating, how do we talk about puzzle games?",
+      "https://thinkygames.com/features/in-a-genre-where-information-is-sacred-and-spoilers-are-devastating-how-do-we-talk-about-puzzle-games/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=46728070"
     ],
     [
-      "I Overengineered a Spinning Top",
+      "I overengineered a spinning top [video]",
       "https://www.youtube.com/watch?v=Wp5NodfvvF4"
     ]
   ]
