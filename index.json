@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-28, 22:05:05",
+      "https://news.ycombinator.com/item?id=46802210"
+    ],
+    [
+      "Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index",
+      "https://github.com/microsoft/bf-tree"
+    ]
+  ],
+  [
+    [
       "2026-01-28, 21:50:47",
       "https://news.ycombinator.com/item?id=46802067"
     ],
@@ -41,26 +51,6 @@
   ],
   [
     [
-      "2026-01-28, 19:51:05",
-      "https://news.ycombinator.com/item?id=46800645"
-    ],
-    [
-      "Native Instruments enters into insolvency proceedings",
-      "https://www.engadget.com/audio/native-instruments-enters-into-insolvency-proceedings-leaving-its-future-uncertain-183206826.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 19:48:59",
-      "https://news.ycombinator.com/item?id=46800623"
-    ],
-    [
-      "Who sets the Doomsday Clock?",
-      "https://www.popularmechanics.com/science/a70162364/setting-the-doomsday-clock/"
-    ]
-  ],
-  [
-    [
       "2026-01-28, 19:39:31",
       "https://news.ycombinator.com/item?id=46800484"
     ],
@@ -71,22 +61,22 @@
   ],
   [
     [
+      "2026-01-28, 19:24:35",
+      "https://news.ycombinator.com/item?id=46800303"
+    ],
+    [
+      "How to turn 'sfo-jfk' into a suitable photo",
+      "https://www.approachwithalacrity.com/how-to-turn-sfo-jfk-into-a-beautiful-photo/"
+    ]
+  ],
+  [
+    [
       "2026-01-28, 18:52:24",
       "https://news.ycombinator.com/item?id=46799898"
     ],
     [
       "Show HN: A MitM proxy to see what your LLM tools are sending",
       "https://github.com/jmuncor/sherlock"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 18:12:02",
-      "https://news.ycombinator.com/item?id=46799304"
-    ],
-    [
-      "That's not how email works",
-      "https://danq.me/2026/01/28/hsbc-dont-understand-email/"
     ]
   ],
   [
@@ -157,16 +147,6 @@
     [
       "Tuning Semantic Search on JFMM.net – Joint Fleet Maintenance Manual",
       "https://carlkolon.com/2026/01/27/jfmm-semantic-search/"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 15:00:15",
-      "https://news.ycombinator.com/item?id=46796195"
-    ],
-    [
-      "Local agents will win",
-      "https://twitter.com/EdouardGodfrey/status/2016343089334702081"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2026-01-26, 14:05:46",
+      "https://news.ycombinator.com/item?id=46765772"
+    ],
+    [
+      "I have written gemma3 inference in pure C",
+      "https://github.com/robitec97/gemma3.c"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 15:17:11",
       "https://news.ycombinator.com/item?id=46744272"
     ],
@@ -277,6 +267,16 @@
     [
       "The Five Levels: From spicy autocomplete to the dark factory",
       "https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 14:44:14",
+      "https://news.ycombinator.com/item?id=46733079"
+    ],
+    [
+      "Hellenistic War-Elephants and the Use of Alcohol Before Battle",
+      "https://www.cambridge.org/core/journals/classical-quarterly/article/hellenistic-warelephants-and-the-use-of-alcohol-before-battle/39A749F62E21ED16C9CCA3B03E176561"
     ]
   ],
   [
