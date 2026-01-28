@@ -1,22 +1,42 @@
 [
   [
     [
-      "2026-01-28, 16:50:43",
-      "https://news.ycombinator.com/item?id=46797895"
+      "2026-01-28, 18:12:02",
+      "https://news.ycombinator.com/item?id=46799304"
     ],
     [
-      "Show HN: I Built a Sandbox for Agents",
-      "https://github.com/vrn21/bouvet.com"
+      "That's Not How Email Works, HSBC",
+      "https://danq.me/2026/01/28/hsbc-dont-understand-email/"
     ]
   ],
   [
     [
-      "2026-01-28, 16:48:48",
-      "https://news.ycombinator.com/item?id=46797865"
+      "2026-01-28, 17:54:54",
+      "https://news.ycombinator.com/item?id=46798994"
     ],
     [
-      "Will AIs Take All Our Jobs and End Human History–Or Not?",
-      "https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/"
+      "Computer History Museum Launches Digital Portal to Its Collection",
+      "https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 17:20:31",
+      "https://news.ycombinator.com/item?id=46798402"
+    ],
+    [
+      "Mousefood – Build embedded terminal UIs for microcontrollers",
+      "https://github.com/ratatui/mousefood"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 16:48:59",
+      "https://news.ycombinator.com/item?id=46797868"
+    ],
+    [
+      "Spinning around: Please don't – Common problems with spin locks",
+      "https://www.siliceum.com/en/blog/post/spinning-around/"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Oban, the job processing framework from Elixir, has come to Python",
       "https://www.dimamik.com/posts/oban_py/"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 15:39:11",
-      "https://news.ycombinator.com/item?id=46796745"
-    ],
-    [
-      "Amazon axes 16,000 jobs as it pushes AI and efficiency",
-      "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "Show HN: I built a small browser engine from scratch in C++",
       "https://github.com/beginner-jhj/mini_browser"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 13:58:03",
+      "https://news.ycombinator.com/item?id=46795468"
+    ],
+    [
+      "Show HN: Record and share your coding sessions with CodeMic",
+      "https://codemic.io/#"
     ]
   ],
   [
@@ -121,22 +141,22 @@
   ],
   [
     [
+      "2026-01-28, 03:34:45",
+      "https://news.ycombinator.com/item?id=46790740"
+    ],
+    [
+      "Android's full desktop interface leaks: New status bar, Chrome Extensions",
+      "https://9to5google.com/2026/01/27/android-desktop-leak/"
+    ]
+  ],
+  [
+    [
       "2026-01-28, 02:08:14",
       "https://news.ycombinator.com/item?id=46790127"
     ],
     [
       "A verification layer for browser agents: Amazon case study",
       "https://sentienceapi.com/blog/verification-layer-amazon-case-study"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 18:57:15",
-      "https://news.ycombinator.com/item?id=46784572"
-    ],
-    [
-      "Lennart Poettering, Christian Brauner founded a new company",
-      "https://amutable.com/about"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-01-27, 06:17:46",
-      "https://news.ycombinator.com/item?id=46776155"
-    ],
-    [
-      "Doing the thing is doing the thing",
-      "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing"
-    ]
-  ],
-  [
-    [
       "2026-01-26, 21:09:19",
       "https://news.ycombinator.com/item?id=46771564"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-01-25, 17:53:49",
-      "https://news.ycombinator.com/item?id=46756311"
-    ],
-    [
-      "Thirty Years of the Square Kilometre Array",
-      "https://physicsworld.com/a/thirty-years-of-the-square-kilometre-array-heres-what-the-worlds-largest-radio-telescope-project-has-achieved-so-far/"
-    ]
-  ],
-  [
-    [
       "2026-01-25, 16:06:39",
       "https://news.ycombinator.com/item?id=46755278"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-01-24, 04:49:02",
-      "https://news.ycombinator.com/item?id=46741150"
+      "2026-01-24, 15:17:11",
+      "https://news.ycombinator.com/item?id=46744272"
     ],
     [
-      "Rust’s Standard Library on the GPU",
-      "https://www.vectorware.com/blog/rust-std-on-gpu/"
+      "3D-Printed Mathematical Lampshades",
+      "https://hessammehr.github.io/blog/posts/2025-12-24-maths-to-lampshade.html"
     ]
   ],
   [
