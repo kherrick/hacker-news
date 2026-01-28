@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-28, 12:18:12",
+      "https://news.ycombinator.com/item?id=46794365"
+    ],
+    [
+      "ICE and Palantir: US agents using health data to hunt illegal immigrants",
+      "https://www.bmj.com/content/392/bmj.s168"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 12:03:51",
+      "https://news.ycombinator.com/item?id=46794258"
+    ],
+    [
+      "SoftBank in Talks to Invest Up to $30B More in OpenAI",
+      "https://www.wsj.com/tech/ai/softbank-in-talks-to-invest-up-to-30-billion-more-in-openai-8585dea3"
+    ]
+  ],
+  [
+    [
       "2026-01-28, 12:00:08",
       "https://news.ycombinator.com/item?id=46794231"
     ],
@@ -27,16 +47,6 @@
     [
       "Show HN: The HN Arcade",
       "https://andrewgy8.github.io/hnarcade/"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 08:58:28",
-      "https://news.ycombinator.com/item?id=46792783"
-    ],
-    [
-      "Devuan – Debian Without Systemd",
-      "https://www.devuan.org/"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Rust at Scale: An Added Layer of Security for WhatsApp",
       "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 22:58:30",
-      "https://news.ycombinator.com/item?id=46788384"
-    ],
-    [
-      "Notes on starting to use Django",
-      "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "AI2: Open Coding Agents",
       "https://allenai.org/blog/open-coding-agents"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 17:11:39",
-      "https://news.ycombinator.com/item?id=46782930"
-    ],
-    [
-      "SoundCloud Data Breach Now on HaveIBeenPwned",
-      "https://haveibeenpwned.com/Breach/SoundCloud"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Rust’s Standard Library on the GPU",
       "https://www.vectorware.com/blog/rust-std-on-gpu/"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 00:15:20",
+      "https://news.ycombinator.com/item?id=46739704"
+    ],
+    [
+      "Show HN: Dwm.tmux – a dwm-inspired window manager for tmux",
+      "https://github.com/saysjonathan/dwm.tmux"
     ]
   ],
   [
