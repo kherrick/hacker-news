@@ -45,6 +45,7 @@
 * [2026-01-26, 14:41:04](https://news.ycombinator.com/item?id=46766188) - [Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)
 * [2026-01-26, 14:27:00](https://news.ycombinator.com/item?id=46766031) - [Google AI Overviews cite YouTube more than any medical site for health queries](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 * [2026-01-26, 14:10:25](https://news.ycombinator.com/item?id=46765819) - [Apple introduces new AirTag with longer range and improved findability](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+* [2026-01-26, 14:05:46](https://news.ycombinator.com/item?id=46765772) - [I have written gemma3 inference in pure C](https://github.com/robitec97/gemma3.c)
 * [2026-01-26, 13:58:27](https://news.ycombinator.com/item?id=46765694) - [Porting 100k lines from TypeScript to Rust using Claude Code in a month](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html)
 * [2026-01-26, 13:36:22](https://news.ycombinator.com/item?id=46765460) - [After two years of vibecoding, I'm back to writing by hand](https://atmoio.substack.com/p/after-two-years-of-vibecoding-im)
 * [2026-01-26, 13:17:19](https://news.ycombinator.com/item?id=46765273) - [Transfering Files with gRPC](https://kreya.app/blog/transfering-files-with-grpc/)
