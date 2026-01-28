@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-01-28, 19:59:04",
+      "https://news.ycombinator.com/item?id=46800737"
+    ],
+    [
+      "Native Linux VST plugin directory",
+      "https://linuxmusic.rocks"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 19:51:05",
+      "https://news.ycombinator.com/item?id=46800645"
+    ],
+    [
+      "Native Instruments enters into insolvency proceedings",
+      "https://www.engadget.com/audio/native-instruments-enters-into-insolvency-proceedings-leaving-its-future-uncertain-183206826.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 19:37:11",
+      "https://news.ycombinator.com/item?id=46800451"
+    ],
+    [
+      "Allowlisting some Bash commands is often the same as allowlisting all",
+      "https://www.joinformal.com/blog/allowlisting-some-bash-commands-is-often-the-same-as-allowlisting-all-with-claude-code/"
+    ]
+  ],
+  [
+    [
       "2026-01-28, 18:23:14",
       "https://news.ycombinator.com/item?id=46799477"
     ],
     [
       "LM Studio 0.4.0",
       "https://lmstudio.ai/blog/0.4.0"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 18:12:02",
-      "https://news.ycombinator.com/item?id=46799304"
-    ],
-    [
-      "That's Not How Email Works, HSBC",
-      "https://danq.me/2026/01/28/hsbc-dont-understand-email/"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "Oban, the job processing framework from Elixir, has come to Python",
       "https://www.dimamik.com/posts/oban_py/"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 15:44:24",
+      "https://news.ycombinator.com/item?id=46796825"
+    ],
+    [
+      "Show HN: Config manager for Claude Code (and others) – rules, MCPs, permissions",
+      "https://github.com/regression-io/coder-config"
     ]
   ],
   [
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2026-01-28, 07:35:51",
-      "https://news.ycombinator.com/item?id=46792194"
-    ],
-    [
-      "Make.ts",
-      "https://matklad.github.io/2026/01/27/make-ts.html"
-    ]
-  ],
-  [
-    [
       "2026-01-28, 06:21:07",
       "https://news.ycombinator.com/item?id=46791742"
     ],
     [
       "Rust at Scale: An Added Layer of Security for WhatsApp",
       "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 03:34:45",
-      "https://news.ycombinator.com/item?id=46790740"
-    ],
-    [
-      "Android's full desktop interface leaks: New status bar, Chrome Extensions",
-      "https://9to5google.com/2026/01/27/android-desktop-leak/"
     ]
   ],
   [
@@ -187,26 +197,6 @@
     [
       "Prism",
       "https://openai.com/index/introducing-prism"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 15:46:29",
-      "https://news.ycombinator.com/item?id=46781530"
-    ],
-    [
-      "430k-year-old well-preserved wooden tools are the oldest ever found",
-      "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 13:48:30",
-      "https://news.ycombinator.com/item?id=46779864"
-    ],
-    [
-      "Show HN: Build Web Automations via Demonstration",
-      "https://www.notte.cc/launch-week-i/demonstrate-mode"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Show HN: Dwm.tmux – a dwm-inspired window manager for tmux",
       "https://github.com/saysjonathan/dwm.tmux"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 22:55:00",
+      "https://news.ycombinator.com/item?id=46739117"
+    ],
+    [
+      "The Five Levels: From Spicy Autocomplete to the Software Factory",
+      "https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/"
     ]
   ],
   [
