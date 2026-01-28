@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-28, 08:02:42](https://news.ycombinator.com/item?id=46792370) - [ASML firing 1700 people, mostly managers](https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/)
+* [2026-01-28, 08:58:28](https://news.ycombinator.com/item?id=46792783) - [Devuan – Debian Without Systemd](https://www.devuan.org/)
+* [2026-01-28, 08:02:42](https://news.ycombinator.com/item?id=46792370) - [ASML staffing changes could result in a net reduction of around 1700 positions](https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation)
 * [2026-01-28, 07:35:51](https://news.ycombinator.com/item?id=46792194) - [Make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
 * [2026-01-28, 06:21:07](https://news.ycombinator.com/item?id=46791742) - [Rust at Scale: An Added Layer of Security for WhatsApp](https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/)
 * [2026-01-28, 01:38:15](https://news.ycombinator.com/item?id=46789913) - [AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
@@ -29,7 +30,6 @@
 * [2026-01-23, 16:45:47](https://news.ycombinator.com/item?id=46734641) - [Pandas 3.0](https://pandas.pydata.org/community/blog/pandas-3.0.html)
 * [2026-01-23, 12:05:11](https://news.ycombinator.com/item?id=46731513) - [Extremophile molds are invading art museums](https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/)
 * [2026-01-22, 23:06:05](https://news.ycombinator.com/item?id=46726269) - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
-* [2026-01-22, 18:49:56](https://news.ycombinator.com/item?id=46723521) - [The Texas Instruments CC-40 invades Gopherspace (plus TI-74 BASICALC)](http://oldvcr.blogspot.com/2025/12/the-texas-instruments-cc-40-invades.html)
 
 ## [Archives](archives/index.md)
 
