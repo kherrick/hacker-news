@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
+* [2026-01-28, 23:25:41](https://news.ycombinator.com/item?id=46803229) - [In 6 violent encounters, evidence contradicts immigration officials' narratives](https://www.reuters.com/world/us/evidence-contradicts-trump-immigration-officials-accounts-violent-encounters-2026-01-27/)
+* [2026-01-28, 23:16:12](https://news.ycombinator.com/item?id=46803119) - [The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)
+* [2026-01-28, 22:53:54](https://news.ycombinator.com/item?id=46802867) - [Tesla ending Models S and X production](https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html)
 * [2026-01-28, 22:05:05](https://news.ycombinator.com/item?id=46802210) - [Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index](https://github.com/microsoft/bf-tree)
 * [2026-01-28, 21:50:47](https://news.ycombinator.com/item?id=46802067) - [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
 * [2026-01-28, 21:42:03](https://news.ycombinator.com/item?id=46801976) - [Jellyfin LLM/\"AI\" Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
