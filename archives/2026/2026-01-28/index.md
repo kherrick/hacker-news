@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
+* [2026-01-28, 21:50:47](https://news.ycombinator.com/item?id=46802067) - [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
 * [2026-01-28, 21:42:03](https://news.ycombinator.com/item?id=46801976) - [Jellyfin LLM/\"AI\" Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
+* [2026-01-28, 20:59:30](https://news.ycombinator.com/item?id=46801419) - [Apple to Soon Take Up to 30% Cut from All Patreon Creators in iOS App](https://www.macrumors.com/2026/01/28/patreon-apple-tax/)
 * [2026-01-28, 20:43:10](https://news.ycombinator.com/item?id=46801225) - [What does Werner Herzog's nihilist penguin teach us about life?](https://lwlies.com/article/werner-herzog-penguin-encounters-at-the-end-of-the-world)
 * [2026-01-28, 19:59:04](https://news.ycombinator.com/item?id=46800737) - [Native Linux VST plugin directory](https://linuxmusic.rocks)
 * [2026-01-28, 19:58:30](https://news.ycombinator.com/item?id=46800730) - [New books aren't worth reading?](https://www.atlaspress.co/p/new-books-arent-worth-reading)
@@ -28,6 +30,7 @@
 * [2026-01-28, 15:39:11](https://news.ycombinator.com/item?id=46796745) - [Amazon axes 16,000 jobs as it pushes AI and efficiency](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)
 * [2026-01-28, 15:27:49](https://news.ycombinator.com/item?id=46796571) - [Dole Kemp 96 Web Site](https://www.dolekemp96.org/main.htm)
 * [2026-01-28, 15:13:53](https://news.ycombinator.com/item?id=46796389) - [Tuning Semantic Search on JFMM.net – Joint Fleet Maintenance Manual](https://carlkolon.com/2026/01/27/jfmm-semantic-search/)
+* [2026-01-28, 15:00:15](https://news.ycombinator.com/item?id=46796195) - [Local agents will win](https://twitter.com/EdouardGodfrey/status/2016343089334702081)
 * [2026-01-28, 14:32:30](https://news.ycombinator.com/item?id=46795908) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2026-01-28, 14:28:21](https://news.ycombinator.com/item?id=46795864) - [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
 * [2026-01-28, 14:06:39](https://news.ycombinator.com/item?id=46795582) - [When Every Network is 192.168.1.x](https://netrinos.com/blog/conflicting-subnets)
