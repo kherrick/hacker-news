@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-28, 16:52:05](https://news.ycombinator.com/item?id=46797913) - [Amazone One palm authentication discontinued](https://amazonone.aws.com/help)
 * [2026-01-28, 15:39:11](https://news.ycombinator.com/item?id=46796745) - [Amazon axes 16,000 jobs as it pushes AI and efficiency](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)
-* [2026-01-28, 15:27:49](https://news.ycombinator.com/item?id=46796571) - [Dole Kemp 96 Web Site](https://www.dolekemp96.org/main.htm)
 * [2026-01-28, 14:32:30](https://news.ycombinator.com/item?id=46795908) - [Airfoil (2024)](https://ciechanow.ski/airfoil/)
 * [2026-01-28, 14:28:21](https://news.ycombinator.com/item?id=46795864) - [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
 * [2026-01-28, 12:00:08](https://news.ycombinator.com/item?id=46794231) - [Kyber (YC W23) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead)
@@ -16,7 +16,6 @@
 * [2026-01-27, 15:46:29](https://news.ycombinator.com/item?id=46781530) - [430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
 * [2026-01-27, 15:41:14](https://news.ycombinator.com/item?id=46781444) - [Amazon closing its Fresh and Go stores](https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html)
 * [2026-01-27, 13:48:30](https://news.ycombinator.com/item?id=46779864) - [Show HN: Build Web Automations via Demonstration](https://www.notte.cc/launch-week-i/demonstrate-mode)
-* [2026-01-27, 13:13:56](https://news.ycombinator.com/item?id=46779522) - [Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC](https://emsh.cat/one-human-one-agent-one-browser/)
 * [2026-01-27, 06:17:46](https://news.ycombinator.com/item?id=46776155) - [Doing the thing is doing the thing](https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing)
 * [2026-01-26, 21:09:19](https://news.ycombinator.com/item?id=46771564) - [A few random notes from Claude coding quite a bit last few weeks](https://twitter.com/karpathy/status/2015883857489522876)
 * [2026-01-26, 17:46:22](https://news.ycombinator.com/item?id=46768906) - [Show HN: Cua-Bench – a benchmark for AI agents in GUI environments](https://github.com/trycua/cua)
@@ -29,6 +28,7 @@
 * [2026-01-23, 17:27:48](https://news.ycombinator.com/item?id=46735152) - [Golden Ratio using an equilateral triangle inscribed in a circle](https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/)
 * [2026-01-23, 16:45:47](https://news.ycombinator.com/item?id=46734641) - [Pandas 3.0](https://pandas.pydata.org/community/blog/pandas-3.0.html)
 * [2026-01-23, 05:07:02](https://news.ycombinator.com/item?id=46728659) - [Show HN: Extracting React apps from Figma Make's undocumented binary format](https://albertsikkema.com/ai/development/tools/reverse-engineering/2026/01/23/reverse-engineering-figma-make-files.html)
+* [2026-01-23, 03:32:26](https://news.ycombinator.com/item?id=46728070) - [I Overengineered a Spinning Top](https://www.youtube.com/watch?v=Wp5NodfvvF4)
 * [2026-01-22, 23:06:05](https://news.ycombinator.com/item?id=46726269) - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
 
 ## [Archives](archives/index.md)
