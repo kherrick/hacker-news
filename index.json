@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-01-28, 05:40:38",
-      "https://news.ycombinator.com/item?id=46791496"
-    ],
-    [
-      "Moltbot Security Guide: Protect Your VPS from Hackers and Vulnerabilities",
-      "https://veerhost.com/moltbot-security-guide/"
-    ]
-  ],
-  [
-    [
       "2026-01-28, 01:44:25",
       "https://news.ycombinator.com/item?id=46789961"
     ],
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2026-01-27, 16:56:23",
-      "https://news.ycombinator.com/item?id=46782662"
-    ],
-    [
-      "OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing",
-      "https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467"
-    ]
-  ],
-  [
-    [
       "2026-01-27, 15:46:29",
       "https://news.ycombinator.com/item?id=46781530"
     ],
@@ -197,6 +177,16 @@
     [
       "Amazon closing its Fresh and Go stores",
       "https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-27, 15:16:34",
+      "https://news.ycombinator.com/item?id=46781090"
+    ],
+    [
+      "Show HN: Fuzzy Studio – Apply live effects to videos/camera",
+      "https://fuzzy.ulyssepence.com/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Extremophile molds are invading art museums",
       "https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 23:06:05",
+      "https://news.ycombinator.com/item?id=46726269"
+    ],
+    [
+      "SVG Path Editor",
+      "https://yqnn.github.io/svg-path-editor/"
     ]
   ],
   [
