@@ -45,6 +45,7 @@
 * [2026-01-27, 14:32:42](https://news.ycombinator.com/item?id=46780451) - [Windows 11 January Update Breaks Notepad](https://winbuzzer.com/2026/01/22/windows-11-january-update-breaks-notepad-snipping-tool-and-other-apps-xcxwbn/)
 * [2026-01-27, 14:05:48](https://news.ycombinator.com/item?id=46780065) - [The age of Pump and Dump software](https://tautvilas.medium.com/software-pump-and-dump-c8a9a73d313b)
 * [2026-01-27, 14:00:21](https://news.ycombinator.com/item?id=46779994) - [Show HN: We Built the 1. EU-Sovereignty Audit for Websites](https://lightwaves.io/en/eu-audit/)
+* [2026-01-27, 13:48:30](https://news.ycombinator.com/item?id=46779864) - [Show HN: Build Web Automations via Demonstration](https://www.notte.cc/launch-week-i/demonstrate-mode)
 * [2026-01-27, 13:44:24](https://news.ycombinator.com/item?id=46779809) - [TikTok users can't upload anti-ICE videos. The company blames tech issues](https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec)
 * [2026-01-27, 13:25:53](https://news.ycombinator.com/item?id=46779645) - [Xfwl4 – The Roadmap for a Xfce Wayland Compositor](https://alexxcons.github.io/blogpost_15.html)
 * [2026-01-27, 13:13:56](https://news.ycombinator.com/item?id=46779522) - [Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC](https://emsh.cat/one-human-one-agent-one-browser/)
