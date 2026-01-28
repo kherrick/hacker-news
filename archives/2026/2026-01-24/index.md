@@ -39,6 +39,7 @@
 * [2026-01-24, 15:57:45](https://news.ycombinator.com/item?id=46744647) - [Memory layout in Zig with formulas](https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html)
 * [2026-01-24, 15:50:23](https://news.ycombinator.com/item?id=46744572) - [After two years of vibecoding, I'm back to writing by hand [video]](https://www.youtube.com/watch?v=SKTsNV41DYg)
 * [2026-01-24, 15:50:09](https://news.ycombinator.com/item?id=46744569) - [The Kept and the Killed (2022)](https://publicdomainreview.org/essay/the-kept-and-the-killed/)
+* [2026-01-24, 15:17:11](https://news.ycombinator.com/item?id=46744272) - [3D-Printed Mathematical Lampshades](https://hessammehr.github.io/blog/posts/2025-12-24-maths-to-lampshade.html)
 * [2026-01-24, 14:35:47](https://news.ycombinator.com/item?id=46743908) - [Claude Code's new hidden feature: Swarms](https://twitter.com/NicerInPerson/status/2014989679796347375)
 * [2026-01-24, 14:31:58](https://news.ycombinator.com/item?id=46743867) - [Ask HN: May an Agent accepts a license to produce a build?](https://news.ycombinator.com/item?id=46743867)
 * [2026-01-24, 14:31:53](https://news.ycombinator.com/item?id=46743865) - [Why autosave is not recovery](https://zippers.dev/blog/why-savior-exists)
