@@ -42,6 +42,7 @@
 * [2026-01-25, 12:22:12](https://news.ycombinator.com/item?id=46753484) - [Doom has been ported to an earbud](https://doombuds.com)
 * [2026-01-25, 12:02:01](https://news.ycombinator.com/item?id=46753336) - [Nango (YC W23, Dev Infrastructure) Is Hiring Remotely](https://jobs.ashbyhq.com/Nango)
 * [2026-01-25, 11:56:42](https://news.ycombinator.com/item?id=46753301) - [Show HN: Bonsplit – tabs and splits for native macOS apps](https://bonsplit.alasdairmonk.com)
+* [2026-01-25, 11:40:34](https://news.ycombinator.com/item?id=46753199) - [Aperture: Senior QA (2004-2005)](https://substack.techreflect.org/p/aperture-senior-qa-2004-2005)
 * [2026-01-25, 11:28:33](https://news.ycombinator.com/item?id=46753142) - [Wall Street braced for a private credit meltdown. The risk of one is rising](https://www.cnbc.com/2026/01/23/wall-street-private-credit-risk-rising.html)
 * [2026-01-25, 11:19:04](https://news.ycombinator.com/item?id=46753078) - [Show HN: TUI for managing XDG default applications](https://github.com/mitjafelicijan/xdgctl)
 * [2026-01-25, 10:54:29](https://news.ycombinator.com/item?id=46752907) - [150k lines of vibe coded Elixir: The Good, the Bad and the Ugly](https://getboothiq.com/blog/150k-lines-vibe-coded-elixir-good-bad-ugly)
