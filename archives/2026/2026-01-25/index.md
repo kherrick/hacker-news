@@ -38,6 +38,7 @@
 * [2026-01-25, 14:42:39](https://news.ycombinator.com/item?id=46754427) - [Wine-Staging 11.1 Adds Patches for Enabling Recent Photoshop Versions on Linux](https://www.phoronix.com/news/Wine-Staging-11.1)
 * [2026-01-25, 14:10:12](https://news.ycombinator.com/item?id=46754206) - [Show HN: LLMNet – The Offline Internet, Search the web without the web](https://github.com/skorotkiewicz/llmnet)
 * [2026-01-25, 13:59:42](https://news.ycombinator.com/item?id=46754132) - [Iran Protest Death Toll Could Top 30k, According to Local Health Officials](https://time.com/7357635/more-than-30000-killed-in-iran-say-senior-officials/)
+* [2026-01-25, 13:54:57](https://news.ycombinator.com/item?id=46754097) - [Computing Sharding with Einsum](https://blog.ezyang.com/2026/01/computing-sharding-with-einsum/)
 * [2026-01-25, 12:54:53](https://news.ycombinator.com/item?id=46753708) - [Web-based image editor modeled after Deluxe Paint](https://github.com/steffest/DPaint-js)
 * [2026-01-25, 12:52:37](https://news.ycombinator.com/item?id=46753697) - [Is it worth it? (2021)](https://griffin.com/blog/is-it-worth-it)
 * [2026-01-25, 12:40:00](https://news.ycombinator.com/item?id=46753611) - [Alarm overload is undermining safety at sea as crews face thousands of alerts](https://www.lr.org/en/knowledge/press-room/press-listing/press-release/2026/alarm-overload-is-undermining-safety-at-sea-as-new-research-shows-crews-face-tens-of-thousands-of-daily-alerts/)
