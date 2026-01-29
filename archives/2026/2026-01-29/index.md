@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 08:11:51](https://news.ycombinator.com/item?id=46807201) - [OpenAI's Unit Economics](https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview)
 * [2026-01-29, 07:36:23](https://news.ycombinator.com/item?id=46806985) - [Grassroots Coalition Plans Nationwide Jan 30 Strike Against ICE](https://nationalshutdown.org)
 * [2026-01-29, 07:32:19](https://news.ycombinator.com/item?id=46806959) - [The Only Moat Left Is Knowing Things](https://growtika.com/blog/authenticity-edge)
 * [2026-01-29, 07:07:17](https://news.ycombinator.com/item?id=46806773) - [Europe's next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)

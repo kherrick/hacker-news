@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-29, 08:11:51](https://news.ycombinator.com/item?id=46807201) - [OpenAI's Unit Economics](https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview)
 * [2026-01-29, 07:32:19](https://news.ycombinator.com/item?id=46806959) - [The Only Moat Left Is Knowing Things](https://growtika.com/blog/authenticity-edge)
 * [2026-01-29, 07:07:17](https://news.ycombinator.com/item?id=46806773) - [Europe's next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
 * [2026-01-29, 05:40:45](https://news.ycombinator.com/item?id=46806245) - [Why do RSS readers look like email clients?](https://www.terrygodier.com/phantom-obligation)
@@ -9,7 +10,6 @@
 * [2026-01-29, 02:08:40](https://news.ycombinator.com/item?id=46804828) - [Render Mermaid diagrams as SVGs or ASCII art](https://github.com/lukilabs/beautiful-mermaid)
 * [2026-01-28, 22:53:54](https://news.ycombinator.com/item?id=46802867) - [Tesla ending Models S and X production](https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html)
 * [2026-01-28, 22:05:05](https://news.ycombinator.com/item?id=46802210) - [Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index](https://github.com/microsoft/bf-tree)
-* [2026-01-28, 21:50:47](https://news.ycombinator.com/item?id=46802067) - [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
 * [2026-01-28, 20:59:30](https://news.ycombinator.com/item?id=46801419) - [Apple to soon take up to 30% cut from all Patreon creators in iOS app](https://www.macrumors.com/2026/01/28/patreon-apple-tax/)
 * [2026-01-28, 18:52:24](https://news.ycombinator.com/item?id=46799898) - [Show HN: A MitM proxy to see what your LLM tools are sending](https://github.com/jmuncor/sherlock)
 * [2026-01-28, 18:23:14](https://news.ycombinator.com/item?id=46799477) - [LM Studio 0.4](https://lmstudio.ai/blog/0.4.0)
@@ -25,9 +25,9 @@
 * [2026-01-26, 17:42:18](https://news.ycombinator.com/item?id=46768845) - [Decompiling Xbox games using PDB debug info](https://i686.me/blog/csplit/)
 * [2026-01-26, 01:08:13](https://news.ycombinator.com/item?id=46760542) - [Satellites encased in wood are in the works](https://www.economist.com/science-and-technology/2026/01/21/satellites-encased-in-wood-are-in-the-works)
 * [2026-01-25, 21:44:50](https://news.ycombinator.com/item?id=46758652) - [Mecha Comet – Open Modular Linux Handheld Computer](https://mecha.so/comet)
-* [2026-01-25, 12:52:37](https://news.ycombinator.com/item?id=46753697) - [Is it worth it? (2021)](https://griffin.com/blog/is-it-worth-it)
 * [2026-01-25, 11:12:47](https://news.ycombinator.com/item?id=46753037) - [Xmake: A cross-platform build utility based on Lua](https://xmake.io/)
 * [2026-01-24, 19:47:41](https://news.ycombinator.com/item?id=46746971) - [An Illustrated Guide to Hippo Castration (2014)](https://www.science.org/content/article/scienceshot-illustrated-guide-hippo-castration)
+* [2026-01-23, 21:28:43](https://news.ycombinator.com/item?id=46738178) - [Winapp, the Windows App Development CLI – Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/)
 * [2026-01-23, 19:37:17](https://news.ycombinator.com/item?id=46736804) - [The Chemistry of Tea [pdf]](https://www.researchgate.net/profile/Matthew-Harbowy/publication/216792045_Tea_Chemistry/links/0912f4fb863f786725000000/Tea-Chemistry.pdf)
 * [2026-01-23, 13:55:04](https://news.ycombinator.com/item?id=46732514) - [In a genre where spoilers are devastating, how do we talk about puzzle games?](https://thinkygames.com/features/in-a-genre-where-information-is-sacred-and-spoilers-are-devastating-how-do-we-talk-about-puzzle-games/)
 

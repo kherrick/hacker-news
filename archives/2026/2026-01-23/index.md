@@ -12,6 +12,7 @@
 * [2026-01-23, 22:28:01](https://news.ycombinator.com/item?id=46738853) - [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
 * [2026-01-23, 22:02:52](https://news.ycombinator.com/item?id=46738578) - [The First Eighteen Lines of the Waste Land (1989)](https://yalereview.org/article/hecht-eliot-waste-land)
 * [2026-01-23, 21:34:29](https://news.ycombinator.com/item?id=46738241) - [EquipmentShare (YC W15) goes public](https://www.ycombinator.com/blog/congratulations-to-equipmentshare/)
+* [2026-01-23, 21:28:43](https://news.ycombinator.com/item?id=46738178) - [Winapp, the Windows App Development CLI – Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/)
 * [2026-01-23, 21:08:55](https://news.ycombinator.com/item?id=46737957) - [Mental Models (2018)](https://fs.blog/mental-models/)
 * [2026-01-23, 21:01:34](https://news.ycombinator.com/item?id=46737870) - [TrueVault (YC W14) is hiring a Growth Lead to test different growth channels](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead)
 * [2026-01-23, 21:01:25](https://news.ycombinator.com/item?id=46737865) - [Neko: History of a Software Pet (2022)](https://eliotakira.com/neko/)
