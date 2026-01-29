@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 14:51:56](https://news.ycombinator.com/item?id=46810950) - [Deep dive into Turso, the \"SQLite rewrite in Rust\"](https://kerkour.com/turso-sqlite)
+* [2026-01-29, 14:49:08](https://news.ycombinator.com/item?id=46810904) - [How to Choose Colors for Your CLI Applications](https://blog.xoria.org/terminal-colors/)
+* [2026-01-29, 14:20:21](https://news.ycombinator.com/item?id=46810536) - [Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES/AES NFC](https://www.breakmeifyoucan.com/)
+* [2026-01-29, 14:08:56](https://news.ycombinator.com/item?id=46810401) - [Waymo robotaxi hits a child near an elementary school in Santa Monica](https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/)
+* [2026-01-29, 14:03:12](https://news.ycombinator.com/item?id=46810337) - [Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809](https://ipsj.ixsq.nii.ac.jp/records/229345)
 * [2026-01-29, 13:59:07](https://news.ycombinator.com/item?id=46810282) - [Claude Code Daily Benchmarks for Degradation Tracking](https://marginlab.ai/trackers/claude-code/)
 * [2026-01-29, 13:36:54](https://news.ycombinator.com/item?id=46810027) - [A lot of population numbers are fake](https://davidoks.blog/p/a-lot-of-population-numbers-are-fake)
+* [2026-01-29, 12:42:58](https://news.ycombinator.com/item?id=46809420) - [The Sovereign Tech Fund Invests in Scala](https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html)
 * [2026-01-29, 12:07:56](https://news.ycombinator.com/item?id=46809106) - [Does running wear out the bodies of professionals and amateurs alike?](https://theconversation.com/does-running-wear-out-the-bodies-of-professionals-and-amateurs-alike-270507)
 * [2026-01-29, 12:07:45](https://news.ycombinator.com/item?id=46809105) - [TÜV Report 2026: Tesla Model Y has the worst reliability of all 2022–2023 cars](https://www.autoevolution.com/news/tuev-report-2026-tesla-model-y-has-the-worst-reliability-among-all-20222023-cars-261596.html)
 * [2026-01-29, 12:03:13](https://news.ycombinator.com/item?id=46809069) - [The Tech Market Is Fundamentally Fucked Up – AI Is Just a Scapegoat](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
