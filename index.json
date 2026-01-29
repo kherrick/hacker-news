@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-29, 10:35:00",
+      "https://news.ycombinator.com/item?id=46808251"
+    ],
+    [
+      "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
+      "https://blog.ncase.me/on-depression/"
+    ]
+  ],
+  [
+    [
       "2026-01-29, 08:11:51",
       "https://news.ycombinator.com/item?id=46807201"
     ],
@@ -27,16 +37,6 @@
     [
       "Europe's next-generation weather satellite sends back first images",
       "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 05:40:45",
-      "https://news.ycombinator.com/item?id=46806245"
-    ],
-    [
-      "Why do RSS readers look like email clients?",
-      "https://www.terrygodier.com/phantom-obligation"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index",
       "https://github.com/microsoft/bf-tree"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 21:50:47",
+      "https://news.ycombinator.com/item?id=46802067"
+    ],
+    [
+      "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
+      "https://alecmuffett.com/article/143548"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Xmake: A cross-platform build utility based on Lua",
       "https://xmake.io/"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 19:47:41",
-      "https://news.ycombinator.com/item?id=46746971"
-    ],
-    [
-      "An Illustrated Guide to Hippo Castration (2014)",
-      "https://www.science.org/content/article/scienceshot-illustrated-guide-hippo-castration"
     ]
   ],
   [
