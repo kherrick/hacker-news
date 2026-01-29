@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-29, 13:59:07",
+      "https://news.ycombinator.com/item?id=46810282"
+    ],
+    [
+      "Claude Code Daily Benchmarks for Degradation Tracking",
+      "https://marginlab.ai/trackers/claude-code/"
+    ]
+  ],
+  [
+    [
       "2026-01-29, 13:36:54",
       "https://news.ycombinator.com/item?id=46810027"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2026-01-28, 22:05:05",
+      "https://news.ycombinator.com/item?id=46802210"
+    ],
+    [
+      "Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index",
+      "https://github.com/microsoft/bf-tree"
+    ]
+  ],
+  [
+    [
       "2026-01-28, 20:59:30",
       "https://news.ycombinator.com/item?id=46801419"
     ],
@@ -137,16 +157,6 @@
     [
       "LM Studio 0.4",
       "https://lmstudio.ai/blog/0.4.0"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 17:54:54",
-      "https://news.ycombinator.com/item?id=46798994"
-    ],
-    [
-      "Computer History Museum Launches Digital Portal to Its Collection",
-      "https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/"
     ]
   ],
   [
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2026-01-23, 21:28:43",
-      "https://news.ycombinator.com/item?id=46738178"
+      "2026-01-25, 02:50:44",
+      "https://news.ycombinator.com/item?id=46750220"
     ],
     [
-      "Winapp, the Windows App Development CLI",
-      "https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/"
+      "Building a High-Performance Rotating Bloom Filter in Java",
+      "https://medium.com/@udaysagar.2177/building-a-high-performance-rotating-bloom-filter-in-java-a9e75de993bf"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Tea Chemistry (1997)",
       "https://www.researchgate.net/profile/Matthew-Harbowy/publication/216792045_Tea_Chemistry/links/0912f4fb863f786725000000/Tea-Chemistry.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 13:55:04",
-      "https://news.ycombinator.com/item?id=46732514"
-    ],
-    [
-      "In a genre where spoilers are devastating, how do we talk about puzzle games?",
-      "https://thinkygames.com/features/in-a-genre-where-information-is-sacred-and-spoilers-are-devastating-how-do-we-talk-about-puzzle-games/"
     ]
   ]
 ]
