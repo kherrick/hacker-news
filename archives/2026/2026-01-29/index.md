@@ -9,6 +9,7 @@
 * [2026-01-29, 20:37:01](https://news.ycombinator.com/item?id=46816228) - [Apple buys Israeli startup Q.ai as the AI race heats up](https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/)
 * [2026-01-29, 20:35:13](https://news.ycombinator.com/item?id=46816203) - [Reid Hoffman: Silicon Valley can't be neutral any longer](https://sfstandard.com/opinion/2026/01/29/reid-hoffman-silicon-valley-can-t-neutral-any-longer/)
 * [2026-01-29, 20:20:11](https://news.ycombinator.com/item?id=46816000) - [Taco writer detained–briefly–by feds](https://bigbendsentinel.com/2026/01/28/taco-writer-detained-briefly-by-feds/)
+* [2026-01-29, 20:11:26](https://news.ycombinator.com/item?id=46815899) - [Agent-shell: A native Emacs buffer to interact with LLM agents powered by ACP](https://github.com/xenodium/agent-shell)
 * [2026-01-29, 19:45:12](https://news.ycombinator.com/item?id=46815527) - [Why \"The AI Hallucinated\" is the perfect legal defense](https://niyikiza.com/posts/hallucination-defense/)
 * [2026-01-29, 19:37:24](https://news.ycombinator.com/item?id=46815408) - [1km tower in the desert is not progress it is a farewell letter to common sense](https://www.doubleglazinginbanbridge.co.uk/29-171405-1km-tower-in-the-desert/)
 * [2026-01-29, 19:30:35](https://news.ycombinator.com/item?id=46815297) - [Flameshot](https://github.com/flameshot-org/flameshot)
