@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 16:12:19](https://news.ycombinator.com/item?id=46812173) - [US cybersecurity chief leaked sensitive government files to ChatGPT: Report](https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/)
+* [2026-01-29, 16:04:45](https://news.ycombinator.com/item?id=46812052) - [Days numbered for 'risky' lithium-ion batteries](https://www.livescience.com/technology/engineering/days-numbered-for-risky-lithium-ion-batteries-scientists-say-after-fast-charging-breakthrough-in-sodium-ion-alternative)
+* [2026-01-29, 15:37:21](https://news.ycombinator.com/item?id=46811588) - [OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)](https://quesma.com/blog/introducing-otel-bench/)
 * [2026-01-29, 14:51:56](https://news.ycombinator.com/item?id=46810950) - [Deep dive into Turso, the \"SQLite rewrite in Rust\"](https://kerkour.com/turso-sqlite)
 * [2026-01-29, 14:49:08](https://news.ycombinator.com/item?id=46810904) - [How to Choose Colors for Your CLI Applications](https://blog.xoria.org/terminal-colors/)
 * [2026-01-29, 14:20:21](https://news.ycombinator.com/item?id=46810536) - [Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES/AES NFC](https://www.breakmeifyoucan.com/)
