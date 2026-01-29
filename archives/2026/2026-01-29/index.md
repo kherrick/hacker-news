@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 06:24:18](https://news.ycombinator.com/item?id=46806505) - [Generative Music with the Muse](https://computerhistory.org/blog/generative-music-with-the-muse/)
 * [2026-01-29, 04:33:10](https://news.ycombinator.com/item?id=46805841) - [Microsoft's Azure Linux](https://github.com/microsoft/azurelinux)
 * [2026-01-29, 03:58:33](https://news.ycombinator.com/item?id=46805665) - [We can't send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
+* [2026-01-29, 03:43:52](https://news.ycombinator.com/item?id=46805557) - [Putting Gemini to Work in Chrome](https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/)
 * [2026-01-29, 03:29:53](https://news.ycombinator.com/item?id=46805439) - [Questom (YC F25) is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer)
 * [2026-01-29, 03:04:40](https://news.ycombinator.com/item?id=46805243) - [DECwindows Motif](https://products.vmssoftware.com/decwindowsmotif)
 * [2026-01-29, 02:11:42](https://news.ycombinator.com/item?id=46804854) - [Virginia Oliver, Maine 'Lobster Lady' who fished for nearly a century, has died](https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105)
