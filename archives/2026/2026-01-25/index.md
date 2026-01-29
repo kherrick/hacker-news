@@ -42,6 +42,7 @@
 * [2026-01-25, 12:52:37](https://news.ycombinator.com/item?id=46753697) - [Is it worth it? (2021)](https://griffin.com/blog/is-it-worth-it)
 * [2026-01-25, 12:40:00](https://news.ycombinator.com/item?id=46753611) - [Alarm overload is undermining safety at sea as crews face thousands of alerts](https://www.lr.org/en/knowledge/press-room/press-listing/press-release/2026/alarm-overload-is-undermining-safety-at-sea-as-new-research-shows-crews-face-tens-of-thousands-of-daily-alerts/)
 * [2026-01-25, 12:34:10](https://news.ycombinator.com/item?id=46753566) - [LLMs Don't Hallucinate – They Drift](https://figshare.com/articles/conference_contribution/Measuring_Fidelity_Decay_A_Framework_for_Semantic_Drift_and_Collapse/30422107?file=58969378)
+* [2026-01-25, 12:24:58](https://news.ycombinator.com/item?id=46753508) - [The Origin of Cascades - on the History of CSS (2020)](https://talks.hiddedevries.nl/2gDDUr)
 * [2026-01-25, 12:22:12](https://news.ycombinator.com/item?id=46753484) - [Doom has been ported to an earbud](https://doombuds.com)
 * [2026-01-25, 12:02:01](https://news.ycombinator.com/item?id=46753336) - [Nango (YC W23, Dev Infrastructure) Is Hiring Remotely](https://jobs.ashbyhq.com/Nango)
 * [2026-01-25, 11:56:42](https://news.ycombinator.com/item?id=46753301) - [Show HN: Bonsplit – tabs and splits for native macOS apps](https://bonsplit.alasdairmonk.com)
