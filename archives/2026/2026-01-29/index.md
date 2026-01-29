@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 21:51:52](https://news.ycombinator.com/item?id=46817187) - [EFF to Close Friday in Solidarity with National Shutdown](https://www.eff.org/deeplinks/2026/01/eff-close-friday-solidarity-national-shutdown)
 * [2026-01-29, 21:02:31](https://news.ycombinator.com/item?id=46816539) - [Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT](https://openai.com/index/retiring-gpt-4o-and-older-models/)
 * [2026-01-29, 20:49:04](https://news.ycombinator.com/item?id=46816378) - [iPhone 16 Best-Selling Smartphone in 2025; Apple Takes 7 Spots in Top Models](https://counterpointresearch.com/en/insights/iphone-16-worlds-best-selling-smartphone-in-2025-apple-takes-7-spots-in-top-10-models)
+* [2026-01-29, 20:47:36](https://news.ycombinator.com/item?id=46816357) - [The WiFi only works when it's raining (2024)](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 * [2026-01-29, 20:37:01](https://news.ycombinator.com/item?id=46816228) - [Apple buys Israeli startup Q.ai as the AI race heats up](https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/)
 * [2026-01-29, 20:35:13](https://news.ycombinator.com/item?id=46816203) - [Reid Hoffman: Silicon Valley can't be neutral any longer](https://sfstandard.com/opinion/2026/01/29/reid-hoffman-silicon-valley-can-t-neutral-any-longer/)
 * [2026-01-29, 20:20:11](https://news.ycombinator.com/item?id=46816000) - [Taco writer detained–briefly–by feds](https://bigbendsentinel.com/2026/01/28/taco-writer-detained-briefly-by-feds/)
