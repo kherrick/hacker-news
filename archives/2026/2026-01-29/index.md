@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 23:06:34](https://news.ycombinator.com/item?id=46818154) - [What the Success of Coding Agents Teaches Us about AI Systems in General](https://softwarefordays.com/post/software-is-mostly-all-you-need/)
 * [2026-01-29, 22:38:57](https://news.ycombinator.com/item?id=46817813) - [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
 * [2026-01-29, 22:34:54](https://news.ycombinator.com/item?id=46817764) - [Cutting Up Curved Things (With Math)](https://campedersen.com/tessellation)
 * [2026-01-29, 21:51:52](https://news.ycombinator.com/item?id=46817187) - [EFF to Close Friday in Solidarity with National Shutdown](https://www.eff.org/deeplinks/2026/01/eff-close-friday-solidarity-national-shutdown)
