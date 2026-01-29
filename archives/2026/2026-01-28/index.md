@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
+* [2026-01-28, 23:55:42](https://news.ycombinator.com/item?id=46803549) - [Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k](https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/)
+* [2026-01-28, 23:45:40](https://news.ycombinator.com/item?id=46803451) - [I reverse-engineered Netflix's 4K restrictions](https://github.com/Pickle-Pixel/netflix-force-4k)
+* [2026-01-28, 23:36:23](https://news.ycombinator.com/item?id=46803356) - [Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 * [2026-01-28, 23:25:41](https://news.ycombinator.com/item?id=46803229) - [In 6 violent encounters, evidence contradicts immigration officials' narratives](https://www.reuters.com/world/us/evidence-contradicts-trump-immigration-officials-accounts-violent-encounters-2026-01-27/)
 * [2026-01-28, 23:16:12](https://news.ycombinator.com/item?id=46803119) - [The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)
 * [2026-01-28, 22:53:54](https://news.ycombinator.com/item?id=46802867) - [Tesla ending Models S and X production](https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html)
