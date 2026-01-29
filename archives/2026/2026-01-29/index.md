@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 18:53:30](https://news.ycombinator.com/item?id=46814701) - [SpaceX in Merger Talks with xAI](https://www.reuters.com/world/musks-spacex-merger-talks-with-xai-ahead-planned-ipo-source-says-2026-01-29/)
+* [2026-01-29, 18:48:09](https://news.ycombinator.com/item?id=46814614) - [County pays $600k to pentesters it arrested for assessing courthouse security](https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/)
 * [2026-01-29, 18:45:27](https://news.ycombinator.com/item?id=46814569) - [My Mom and Dr. DeepSeek (2025)](https://restofworld.org/2025/ai-chatbot-china-sick/)
+* [2026-01-29, 18:18:22](https://news.ycombinator.com/item?id=46814129) - [MakuluLinux (6.4M Downloads) Ships Persistent Backdoor from Developer's Own C2](https://werai.ca/security-disclosure.html)
 * [2026-01-29, 18:17:54](https://news.ycombinator.com/item?id=46814115) - [OpenAI's In-House Data Agent](https://openai.com/index/inside-our-in-house-data-agent)
 * [2026-01-29, 18:16:45](https://news.ycombinator.com/item?id=46814089) - [Tesla is committing automotive suicide](https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/)
 * [2026-01-29, 18:00:10](https://news.ycombinator.com/item?id=46813834) - [AI's Impact on Engineering Jobs May Be Different Than Expected](https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/)
