@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-29, 07:32:19](https://news.ycombinator.com/item?id=46806959) - [The Only Moat Left Is Knowing Things](https://growtika.com/blog/authenticity-edge)
 * [2026-01-29, 07:07:17](https://news.ycombinator.com/item?id=46806773) - [Europe's next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
 * [2026-01-29, 03:58:33](https://news.ycombinator.com/item?id=46805665) - [We can't send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
-* [2026-01-29, 03:43:52](https://news.ycombinator.com/item?id=46805557) - [Putting Gemini to Work in Chrome](https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/)
 * [2026-01-29, 03:29:53](https://news.ycombinator.com/item?id=46805439) - [Questom (YC F25) is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer)
 * [2026-01-29, 03:04:40](https://news.ycombinator.com/item?id=46805243) - [DECwindows Motif](https://products.vmssoftware.com/decwindowsmotif)
 * [2026-01-29, 02:11:42](https://news.ycombinator.com/item?id=46804854) - [Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105](https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105)
@@ -28,7 +28,7 @@
 * [2026-01-25, 12:52:37](https://news.ycombinator.com/item?id=46753697) - [Is it worth it? (2021)](https://griffin.com/blog/is-it-worth-it)
 * [2026-01-25, 11:12:47](https://news.ycombinator.com/item?id=46753037) - [Xmake: A cross-platform build utility based on Lua](https://xmake.io/)
 * [2026-01-24, 19:47:41](https://news.ycombinator.com/item?id=46746971) - [An Illustrated Guide to Hippo Castration (2014)](https://www.science.org/content/article/scienceshot-illustrated-guide-hippo-castration)
-* [2026-01-23, 14:44:14](https://news.ycombinator.com/item?id=46733079) - [Hellenistic War-Elephants and the Use of Alcohol Before Battle](https://www.cambridge.org/core/journals/classical-quarterly/article/hellenistic-warelephants-and-the-use-of-alcohol-before-battle/39A749F62E21ED16C9CCA3B03E176561)
+* [2026-01-23, 19:37:17](https://news.ycombinator.com/item?id=46736804) - [The Chemistry of Tea [pdf]](https://www.researchgate.net/profile/Matthew-Harbowy/publication/216792045_Tea_Chemistry/links/0912f4fb863f786725000000/Tea-Chemistry.pdf)
 * [2026-01-23, 13:55:04](https://news.ycombinator.com/item?id=46732514) - [In a genre where spoilers are devastating, how do we talk about puzzle games?](https://thinkygames.com/features/in-a-genre-where-information-is-sacred-and-spoilers-are-devastating-how-do-we-talk-about-puzzle-games/)
 
 ## [Archives](archives/index.md)
