@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-29, 04:33:10",
-      "https://news.ycombinator.com/item?id=46805841"
+      "2026-01-29, 06:24:18",
+      "https://news.ycombinator.com/item?id=46806505"
     ],
     [
-      "Microsoft's Azure Linux",
-      "https://github.com/microsoft/azurelinux"
+      "Generative Music with the Muse",
+      "https://computerhistory.org/blog/generative-music-with-the-muse/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "We can't send mail farther than 500 miles (2002)",
       "https://web.mit.edu/jemorris/humor/500-miles"
+    ]
+  ],
+  [
+    [
+      "2026-01-29, 03:43:52",
+      "https://news.ycombinator.com/item?id=46805557"
+    ],
+    [
+      "Putting Gemini to Work in Chrome",
+      "https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/"
     ]
   ],
   [
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=46797868"
     ],
     [
-      "Spinning around: Please don't – Common problems with spin locks",
+      "Spinning around: Please don’t – Common problems with spin locks",
       "https://www.siliceum.com/en/blog/post/spinning-around/"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-01-28, 01:06:32",
-      "https://news.ycombinator.com/item?id=46789645"
-    ],
-    [
-      "Show HN: Pinecone Explorer – Desktop GUI for the Pinecone vector database",
-      "https://www.pinecone-explorer.com"
-    ]
-  ],
-  [
-    [
       "2026-01-28, 00:57:52",
       "https://news.ycombinator.com/item?id=46789561"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-01-25, 12:52:37",
+      "https://news.ycombinator.com/item?id=46753697"
+    ],
+    [
+      "Is it worth it? (2021)",
+      "https://griffin.com/blog/is-it-worth-it"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 11:12:47",
       "https://news.ycombinator.com/item?id=46753037"
     ],
@@ -265,18 +275,8 @@
       "https://news.ycombinator.com/item?id=46746971"
     ],
     [
-      "An Illustrated Guide to Hippo Castration",
+      "An Illustrated Guide to Hippo Castration (2014)",
       "https://www.science.org/content/article/scienceshot-illustrated-guide-hippo-castration"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 22:55:00",
-      "https://news.ycombinator.com/item?id=46739117"
-    ],
-    [
-      "The Five Levels: From spicy autocomplete to the dark factory",
-      "https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/"
     ]
   ],
   [
