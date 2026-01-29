@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-29, 19:37:24](https://news.ycombinator.com/item?id=46815408) - [1km tower in the desert is not progress it is a farewell letter to common sense](https://www.doubleglazinginbanbridge.co.uk/29-171405-1km-tower-in-the-desert/)
 * [2026-01-29, 18:53:30](https://news.ycombinator.com/item?id=46814701) - [SpaceX in Merger Talks with xAI](https://www.reuters.com/world/musks-spacex-merger-talks-with-xai-ahead-planned-ipo-source-says-2026-01-29/)
 * [2026-01-29, 18:48:09](https://news.ycombinator.com/item?id=46814614) - [County pays $600k to pentesters it arrested for assessing courthouse security](https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/)
 * [2026-01-29, 18:45:27](https://news.ycombinator.com/item?id=46814569) - [My Mom and Dr. DeepSeek (2025)](https://restofworld.org/2025/ai-chatbot-china-sick/)
@@ -22,12 +23,11 @@
 * [2026-01-29, 13:59:07](https://news.ycombinator.com/item?id=46810282) - [Claude Code Daily Benchmarks for Degradation Tracking](https://marginlab.ai/trackers/claude-code/)
 * [2026-01-29, 12:42:58](https://news.ycombinator.com/item?id=46809420) - [The Sovereign Tech Fund Invests in Scala](https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html)
 * [2026-01-29, 07:07:17](https://news.ycombinator.com/item?id=46806773) - [Europe’s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
-* [2026-01-29, 03:58:33](https://news.ycombinator.com/item?id=46805665) - [We can’t send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 * [2026-01-28, 20:59:30](https://news.ycombinator.com/item?id=46801419) - [Apple to soon take up to 30% cut from all Patreon creators in iOS app](https://www.macrumors.com/2026/01/28/patreon-apple-tax/)
-* [2026-01-27, 13:54:09](https://news.ycombinator.com/item?id=46779922) - [Show HN: ShapedQL – A SQL engine for multi-stage ranking and RAG](https://playground.shaped.ai)
 * [2026-01-26, 21:56:05](https://news.ycombinator.com/item?id=46772132) - [Making niche solutions is the point](https://ntietz.com/blog/making-niche-solutions-is-the-point/)
 * [2026-01-26, 01:09:14](https://news.ycombinator.com/item?id=46760546) - [Usenet personality](https://en.wikipedia.org/wiki/Usenet_personality)
 * [2026-01-25, 13:54:57](https://news.ycombinator.com/item?id=46754097) - [Computing Sharding with Einsum](https://blog.ezyang.com/2026/01/computing-sharding-with-einsum/)
+* [2026-01-25, 06:51:49](https://news.ycombinator.com/item?id=46751460) - [Box64 Expands into RISC-V and LoongArch territory](https://boilingsteam.com/box64-expands-into-risc-v-and-loong-arch-territory/)
 * [2026-01-24, 06:49:05](https://news.ycombinator.com/item?id=46741602) - [C++ Modules Are Here to Stay](https://faresbakhit.github.io/e/cpp-modules/)
 * [2026-01-23, 06:26:40](https://news.ycombinator.com/item?id=46729139) - [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS)
 

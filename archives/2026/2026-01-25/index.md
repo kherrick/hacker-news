@@ -66,6 +66,7 @@
 * [2026-01-25, 08:06:53](https://news.ycombinator.com/item?id=46751825) - [Hands-On with Two Apple Network Server Prototype ROMs](http://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html)
 * [2026-01-25, 08:01:21](https://news.ycombinator.com/item?id=46751797) - [Show HN: Sightline – Shodan-style search for real-world infra using OSM Data](https://github.com/ni5arga/sightline)
 * [2026-01-25, 07:36:20](https://news.ycombinator.com/item?id=46751675) - [Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators](https://github.com/divyaprakash0426/autoshorts)
+* [2026-01-25, 06:51:49](https://news.ycombinator.com/item?id=46751460) - [Box64 Expands into RISC-V and LoongArch territory](https://boilingsteam.com/box64-expands-into-risc-v-and-loong-arch-territory/)
 * [2026-01-25, 06:34:25](https://news.ycombinator.com/item?id=46751382) - [Apt-bundle: brew bundle for apt](https://github.com/apt-bundle/apt-bundle)
 * [2026-01-25, 06:06:33](https://news.ycombinator.com/item?id=46751231) - [World’s most powerful literary critic is on TikTok](https://www.newstatesman.com/culture/books/2026/01/the-worlds-most-powerful-literary-critic-is-on-tiktok)
 * [2026-01-25, 05:12:12](https://news.ycombinator.com/item?id=46750951) - [Compiling models to megakernels](https://blog.luminal.com/p/compiling-models-to-megakernels)
