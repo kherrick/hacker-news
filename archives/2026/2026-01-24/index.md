@@ -17,6 +17,7 @@
 * [2026-01-24, 20:03:39](https://news.ycombinator.com/item?id=46747119) - [Postmortem: Our first VLEO satellite mission (with imagery and flight data)](https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next)
 * [2026-01-24, 19:59:05](https://news.ycombinator.com/item?id=46747078) - [Propositions about the New Romanticism](https://www.honest-broker.com/p/25-propositions-about-the-new-romanticism)
 * [2026-01-24, 19:53:31](https://news.ycombinator.com/item?id=46747022) - [Why Does Destroying Resources via TF Suck?](https://newsletter.masterpoint.io/p/why-does-destroying-resources-via-tf-suck)
+* [2026-01-24, 19:47:41](https://news.ycombinator.com/item?id=46746971) - [An Illustrated Guide to Hippo Castration](https://www.science.org/content/article/scienceshot-illustrated-guide-hippo-castration)
 * [2026-01-24, 19:44:52](https://news.ycombinator.com/item?id=46746946) - [Bye Bye Gmail](https://m24tom.com/bye-bye-gmail/show)
 * [2026-01-24, 19:40:52](https://news.ycombinator.com/item?id=46746900) - [Show HN: StormWatch – Weather emergency dashboard with prep checklists](https://jeisey.github.io/stormwatch/)
 * [2026-01-24, 19:27:58](https://news.ycombinator.com/item?id=46746700) - [Show HN: Polymcp – Turn Any Python Function into an MCP Tool for AI Agents](https://news.ycombinator.com/item?id=46746700)

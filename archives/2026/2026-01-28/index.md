@@ -67,6 +67,7 @@
 * [2026-01-28, 02:08:14](https://news.ycombinator.com/item?id=46790127) - [A verification layer for browser agents: Amazon case study](https://sentienceapi.com/blog/verification-layer-amazon-case-study)
 * [2026-01-28, 01:44:25](https://news.ycombinator.com/item?id=46789961) - [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/)
 * [2026-01-28, 01:38:15](https://news.ycombinator.com/item?id=46789913) - [AI found 12 vulnerabilities in OpenSSL](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
+* [2026-01-28, 01:06:32](https://news.ycombinator.com/item?id=46789645) - [Show HN: Pinecone Explorer – Desktop GUI for the Pinecone vector database](https://www.pinecone-explorer.com)
 * [2026-01-28, 00:57:52](https://news.ycombinator.com/item?id=46789561) - [Trinity large: An open 400B sparse MoE model](https://www.arcee.ai/blog/trinity-large)
 * [2026-01-28, 00:18:58](https://news.ycombinator.com/item?id=46789205) - [Did a celebrated researcher obscure a baby's poisoning?](https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning)
 * [2026-01-28, 00:16:57](https://news.ycombinator.com/item?id=46789180) - [How London became the rest of the world’s startup capital](https://www.economist.com/britain/2026/01/26/how-london-became-the-rest-of-the-worlds-startup-capital)
