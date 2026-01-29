@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 21:02:31](https://news.ycombinator.com/item?id=46816539) - [Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT](https://openai.com/index/retiring-gpt-4o-and-older-models/)
+* [2026-01-29, 20:49:04](https://news.ycombinator.com/item?id=46816378) - [iPhone 16 Best-Selling Smartphone in 2025; Apple Takes 7 Spots in Top Models](https://counterpointresearch.com/en/insights/iphone-16-worlds-best-selling-smartphone-in-2025-apple-takes-7-spots-in-top-10-models)
+* [2026-01-29, 20:37:01](https://news.ycombinator.com/item?id=46816228) - [Apple buys Israeli startup Q.ai as the AI race heats up](https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/)
 * [2026-01-29, 20:35:13](https://news.ycombinator.com/item?id=46816203) - [Reid Hoffman: Silicon Valley can't be neutral any longer](https://sfstandard.com/opinion/2026/01/29/reid-hoffman-silicon-valley-can-t-neutral-any-longer/)
 * [2026-01-29, 20:20:11](https://news.ycombinator.com/item?id=46816000) - [Taco writer detained–briefly–by feds](https://bigbendsentinel.com/2026/01/28/taco-writer-detained-briefly-by-feds/)
 * [2026-01-29, 19:45:12](https://news.ycombinator.com/item?id=46815527) - [Why \"The AI Hallucinated\" is the perfect legal defense](https://niyikiza.com/posts/hallucination-defense/)
@@ -24,6 +27,7 @@
 * [2026-01-29, 17:00:42](https://news.ycombinator.com/item?id=46812892) - [Reflex (YC W23) Senior Software Engineer Infra](https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra)
 * [2026-01-29, 16:46:21](https://news.ycombinator.com/item?id=46812653) - [Mozilla is building an AI 'rebel alliance' to take on OpenAI, Anthropic](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
 * [2026-01-29, 16:42:33](https://news.ycombinator.com/item?id=46812608) - [Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes](https://news.ycombinator.com/item?id=46812608)
+* [2026-01-29, 16:19:19](https://news.ycombinator.com/item?id=46812285) - [Show HN: Kolibri, a DIY music club in Sweden](https://kolibrinkpg.com/)
 * [2026-01-29, 16:12:19](https://news.ycombinator.com/item?id=46812173) - [US cybersecurity chief leaked sensitive government files to ChatGPT: Report](https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/)
 * [2026-01-29, 16:11:04](https://news.ycombinator.com/item?id=46812159) - [Drug trio found to block tumour resistance in pancreatic cancer](https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/)
 * [2026-01-29, 16:04:45](https://news.ycombinator.com/item?id=46812052) - [Days numbered for 'risky' lithium-ion batteries](https://www.livescience.com/technology/engineering/days-numbered-for-risky-lithium-ion-batteries-scientists-say-after-fast-charging-breakthrough-in-sodium-ion-alternative)
@@ -39,6 +43,7 @@
 * [2026-01-29, 14:03:12](https://news.ycombinator.com/item?id=46810337) - [Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809](https://ipsj.ixsq.nii.ac.jp/records/229345)
 * [2026-01-29, 13:59:07](https://news.ycombinator.com/item?id=46810282) - [Claude Code Daily Benchmarks for Degradation Tracking](https://marginlab.ai/trackers/claude-code/)
 * [2026-01-29, 13:36:54](https://news.ycombinator.com/item?id=46810027) - [A lot of population numbers are fake](https://davidoks.blog/p/a-lot-of-population-numbers-are-fake)
+* [2026-01-29, 13:08:11](https://news.ycombinator.com/item?id=46809708) - [Compressed Agents.md > Agent Skills](https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals)
 * [2026-01-29, 12:42:58](https://news.ycombinator.com/item?id=46809420) - [The Sovereign Tech Fund Invests in Scala](https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html)
 * [2026-01-29, 12:07:56](https://news.ycombinator.com/item?id=46809106) - [Does running wear out the bodies of professionals and amateurs alike?](https://theconversation.com/does-running-wear-out-the-bodies-of-professionals-and-amateurs-alike-270507)
 * [2026-01-29, 12:07:45](https://news.ycombinator.com/item?id=46809105) - [TÜV Report 2026: Tesla Model Y has the worst reliability of all 2022–2023 cars](https://www.autoevolution.com/news/tuev-report-2026-tesla-model-y-has-the-worst-reliability-among-all-20222023-cars-261596.html)
