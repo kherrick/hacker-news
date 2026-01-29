@@ -28,6 +28,7 @@
 * [2026-01-26, 17:54:20](https://news.ycombinator.com/item?id=46769051) - [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)
 * [2026-01-26, 17:46:38](https://news.ycombinator.com/item?id=46768909) - [JuiceSSH – Give me my pro features back](https://nproject.io/blog/juicessh-give-me-back-my-pro-features/)
 * [2026-01-26, 17:46:22](https://news.ycombinator.com/item?id=46768906) - [Show HN: Cua-Bench – a benchmark for AI agents in GUI environments](https://github.com/trycua/cua)
+* [2026-01-26, 17:42:18](https://news.ycombinator.com/item?id=46768845) - [Decompiling Xbox games using PDB debug info](https://i686.me/blog/csplit/)
 * [2026-01-26, 17:07:24](https://news.ycombinator.com/item?id=46768257) - [The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology)
 * [2026-01-26, 16:58:00](https://news.ycombinator.com/item?id=46768081) - [DHS keeps trying and failing to unmask anonymous ICE critics online](https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/)
 * [2026-01-26, 16:43:30](https://news.ycombinator.com/item?id=46767875) - [The mountain that weighed the Earth](https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/)
