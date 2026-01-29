@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-29, 21:51:52](https://news.ycombinator.com/item?id=46817187) - [EFF to Close Friday in Solidarity with National Shutdown](https://www.eff.org/deeplinks/2026/01/eff-close-friday-solidarity-national-shutdown)
+* [2026-01-29, 22:38:57](https://news.ycombinator.com/item?id=46817813) - [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
+* [2026-01-29, 22:34:54](https://news.ycombinator.com/item?id=46817764) - [Cutting Up Curved Things (With Math)](https://campedersen.com/tessellation)
 * [2026-01-29, 21:02:31](https://news.ycombinator.com/item?id=46816539) - [Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT](https://openai.com/index/retiring-gpt-4o-and-older-models/)
 * [2026-01-29, 20:47:36](https://news.ycombinator.com/item?id=46816357) - [The WiFi only works when it's raining (2024)](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 * [2026-01-29, 20:37:01](https://news.ycombinator.com/item?id=46816228) - [Apple buys Israeli startup Q.ai](https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/)
@@ -24,11 +25,10 @@
 * [2026-01-29, 13:59:07](https://news.ycombinator.com/item?id=46810282) - [Claude Code daily benchmarks for degradation tracking](https://marginlab.ai/trackers/claude-code/)
 * [2026-01-29, 13:36:54](https://news.ycombinator.com/item?id=46810027) - [A lot of population numbers are fake](https://davidoks.blog/p/a-lot-of-population-numbers-are-fake)
 * [2026-01-29, 13:08:11](https://news.ycombinator.com/item?id=46809708) - [Compressed Agents.md > Agent Skills](https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals)
-* [2026-01-29, 07:07:17](https://news.ycombinator.com/item?id=46806773) - [Europe’s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
+* [2026-01-26, 01:09:14](https://news.ycombinator.com/item?id=46760546) - [Usenet personality](https://en.wikipedia.org/wiki/Usenet_personality)
 * [2026-01-25, 10:31:14](https://news.ycombinator.com/item?id=46752754) - [The Value of Things](https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/)
 * [2026-01-25, 06:51:49](https://news.ycombinator.com/item?id=46751460) - [Box64 Expands into RISC-V and LoongArch territory](https://boilingsteam.com/box64-expands-into-risc-v-and-loong-arch-territory/)
-* [2026-01-24, 06:49:05](https://news.ycombinator.com/item?id=46741602) - [C++ Modules Are Here to Stay](https://faresbakhit.github.io/e/cpp-modules/)
-* [2026-01-23, 17:17:40](https://news.ycombinator.com/item?id=46735023) - [Where to Sleep in Lax](https://cadence.moe/blog/2025-12-30-where-to-sleep-in-lax)
+* [2026-01-23, 17:17:40](https://news.ycombinator.com/item?id=46735023) - [Where to Sleep in LAX](https://cadence.moe/blog/2025-12-30-where-to-sleep-in-lax)
 * [2026-01-23, 06:26:40](https://news.ycombinator.com/item?id=46729139) - [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS)
 
 ## [Archives](archives/index.md)
