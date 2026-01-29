@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 12:07:56](https://news.ycombinator.com/item?id=46809106) - [Does running wear out the bodies of professionals and amateurs alike?](https://theconversation.com/does-running-wear-out-the-bodies-of-professionals-and-amateurs-alike-270507)
+* [2026-01-29, 12:07:45](https://news.ycombinator.com/item?id=46809105) - [TÜV Report 2026: Tesla Model Y has the worst reliability of all 2022–2023 cars](https://www.autoevolution.com/news/tuev-report-2026-tesla-model-y-has-the-worst-reliability-among-all-20222023-cars-261596.html)
 * [2026-01-29, 12:03:13](https://news.ycombinator.com/item?id=46809069) - [The Tech Market Is Fundamentally Fucked Up – AI Is Just a Scapegoat](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
 * [2026-01-29, 10:35:00](https://news.ycombinator.com/item?id=46808251) - [Vitamin D and Omega-3 have a larger effect on depression than antidepressants](https://blog.ncase.me/on-depression/)
+* [2026-01-29, 10:15:42](https://news.ycombinator.com/item?id=46808103) - [AI on Australian travel company website sent tourists to nonexistent hot springs](https://www.cnn.com/2026/01/28/travel/ai-tourism-nonexistent-hotsprings-intl-scli)
 * [2026-01-29, 08:11:51](https://news.ycombinator.com/item?id=46807201) - [OpenAI's Unit Economics](https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview)
 * [2026-01-29, 07:36:23](https://news.ycombinator.com/item?id=46806985) - [Grassroots Coalition Plans Nationwide Jan 30 Strike Against ICE](https://nationalshutdown.org)
 * [2026-01-29, 07:32:19](https://news.ycombinator.com/item?id=46806959) - [The Only Moat Left Is Knowing Things](https://growtika.com/blog/authenticity-edge)
