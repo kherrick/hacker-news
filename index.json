@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-01-28, 23:25:41",
-      "https://news.ycombinator.com/item?id=46803229"
+      "2026-01-28, 23:55:42",
+      "https://news.ycombinator.com/item?id=46803549"
     ],
     [
-      "In 6 violent encounters, evidence contradicts immigration officials' narratives",
-      "https://www.reuters.com/world/us/evidence-contradicts-trump-immigration-officials-accounts-violent-encounters-2026-01-27/"
+      "Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k",
+      "https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 23:45:40",
+      "https://news.ycombinator.com/item?id=46803451"
+    ],
+    [
+      "I reverse-engineered Netflix's 4K restrictions",
+      "https://github.com/Pickle-Pixel/netflix-force-4k"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 23:36:23",
+      "https://news.ycombinator.com/item?id=46803356"
+    ],
+    [
+      "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
+      "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "The UK paid £4.1M for a bookmarks site",
       "https://mahadk.com/posts/ai-skills-hub"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 22:53:54",
-      "https://news.ycombinator.com/item?id=46802867"
-    ],
-    [
-      "Tesla ending Models S and X production",
-      "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html"
     ]
   ],
   [
@@ -57,26 +67,6 @@
     [
       "Jellyfin LLM/\"AI\" Development Policy",
       "https://jellyfin.org/docs/general/contributing/llm-policies/"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 20:59:30",
-      "https://news.ycombinator.com/item?id=46801419"
-    ],
-    [
-      "Apple to Soon Take Up to 30% Cut from All Patreon Creators in iOS App",
-      "https://www.macrumors.com/2026/01/28/patreon-apple-tax/"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 19:59:04",
-      "https://news.ycombinator.com/item?id=46800737"
-    ],
-    [
-      "Native Linux VST plugin directory",
-      "https://linuxmusic.rocks"
     ]
   ],
   [
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2026-01-28, 16:52:05",
+      "https://news.ycombinator.com/item?id=46797913"
+    ],
+    [
+      "Amazon One palm authentication discontinued",
+      "https://amazonone.aws.com/help"
+    ]
+  ],
+  [
+    [
       "2026-01-28, 16:48:59",
       "https://news.ycombinator.com/item?id=46797868"
     ],
@@ -181,12 +181,12 @@
   ],
   [
     [
-      "2026-01-28, 12:00:08",
-      "https://news.ycombinator.com/item?id=46794231"
+      "2026-01-28, 12:06:18",
+      "https://news.ycombinator.com/item?id=46794281"
     ],
     [
-      "Kyber (YC W23) Is Hiring a Staff Engineer",
-      "https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead"
+      "Show HN: SHDL – A minimal hardware description language built from logic gates",
+      "https://github.com/rafa-rrayes/SHDL"
     ]
   ],
   [
@@ -197,16 +197,6 @@
     [
       "Show HN: The HN Arcade",
       "https://andrewgy8.github.io/hnarcade/"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 07:40:50",
-      "https://news.ycombinator.com/item?id=46792225"
-    ],
-    [
-      "Kairos: AI interns for everyone",
-      "https://www.kairos.computer/"
     ]
   ],
   [
@@ -241,22 +231,32 @@
   ],
   [
     [
+      "2026-01-27, 22:58:30",
+      "https://news.ycombinator.com/item?id=46788384"
+    ],
+    [
+      "Some notes on starting to use Django",
+      "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/"
+    ]
+  ],
+  [
+    [
+      "2026-01-25, 09:03:26",
+      "https://news.ycombinator.com/item?id=46752138"
+    ],
+    [
+      "World Models",
+      "https://ankitmaloo.com/world-models/"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 15:17:11",
       "https://news.ycombinator.com/item?id=46744272"
     ],
     [
       "3D-Printed Mathematical Lampshades",
       "https://hessammehr.github.io/blog/posts/2025-12-24-maths-to-lampshade.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 22:55:00",
-      "https://news.ycombinator.com/item?id=46739117"
-    ],
-    [
-      "The Five Levels: From spicy autocomplete to the dark factory",
-      "https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/"
     ]
   ],
   [
