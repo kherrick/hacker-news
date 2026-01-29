@@ -61,6 +61,7 @@
 * [2026-01-24, 08:15:02](https://news.ycombinator.com/item?id=46741923) - [Shared Claude: A website controlled by the public](https://sharedclaude.com/)
 * [2026-01-24, 07:19:55](https://news.ycombinator.com/item?id=46741711) - [Eloquent: Improving Text Editing on Mobile (2021)](https://dl.acm.org/doi/10.1145/3474349.3480178)
 * [2026-01-24, 07:01:13](https://news.ycombinator.com/item?id=46741643) - [Telli (YC F24) is hiring ambitious people (eng, design, growth)[on-site, Berlin]](https://careers.telli.com/)
+* [2026-01-24, 06:49:05](https://news.ycombinator.com/item?id=46741602) - [C++ Modules Are Here to Stay](https://faresbakhit.github.io/e/cpp-modules/)
 * [2026-01-24, 06:11:42](https://news.ycombinator.com/item?id=46741482) - [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
 * [2026-01-24, 06:09:30](https://news.ycombinator.com/item?id=46741472) - [Show HN: Open-source Figma design to code](https://github.com/vibeflowing-inc/vibe_figma)
 * [2026-01-24, 04:49:02](https://news.ycombinator.com/item?id=46741150) - [Rust's Standard Library on the GPU](https://www.vectorware.com/blog/rust-std-on-gpu/)

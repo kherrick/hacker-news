@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 18:45:27](https://news.ycombinator.com/item?id=46814569) - [My Mom and Dr. DeepSeek (2025)](https://restofworld.org/2025/ai-chatbot-china-sick/)
+* [2026-01-29, 18:17:54](https://news.ycombinator.com/item?id=46814115) - [OpenAI's In-House Data Agent](https://openai.com/index/inside-our-in-house-data-agent)
+* [2026-01-29, 18:16:45](https://news.ycombinator.com/item?id=46814089) - [Tesla is committing automotive suicide](https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/)
 * [2026-01-29, 18:00:10](https://news.ycombinator.com/item?id=46813834) - [AI's Impact on Engineering Jobs May Be Different Than Expected](https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/)
 * [2026-01-29, 17:06:46](https://news.ycombinator.com/item?id=46813002) - [Project Genie: Interactive worlds generated in real-time](https://labs.google/projectgenie)
 * [2026-01-29, 17:02:39](https://news.ycombinator.com/item?id=46812933) - [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
@@ -43,5 +46,6 @@
 * [2026-01-29, 03:29:53](https://news.ycombinator.com/item?id=46805439) - [Questom (YC F25) is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer)
 * [2026-01-29, 03:04:40](https://news.ycombinator.com/item?id=46805243) - [DECwindows Motif](https://products.vmssoftware.com/decwindowsmotif)
 * [2026-01-29, 02:11:42](https://news.ycombinator.com/item?id=46804854) - [Virginia Oliver, Maine 'Lobster Lady' who fished for nearly a century, has died](https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105)
+* [2026-01-29, 02:08:40](https://news.ycombinator.com/item?id=46804828) - [Mermaid ASCII: Render Mermaid diagrams in your terminal](https://mermaid-ascii.art/)
 * [2026-01-29, 02:08:40](https://news.ycombinator.com/item?id=46804828) - [Beautiful Mermaid](https://github.com/lukilabs/beautiful-mermaid)
 * [2026-01-29, 01:16:41](https://news.ycombinator.com/item?id=46804396) - [Show HN: Shelvy Books](https://shelvybooks.com)
