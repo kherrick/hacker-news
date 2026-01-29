@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 20:20:11](https://news.ycombinator.com/item?id=46816000) - [Taco writer detained–briefly–by feds](https://bigbendsentinel.com/2026/01/28/taco-writer-detained-briefly-by-feds/)
+* [2026-01-29, 19:45:12](https://news.ycombinator.com/item?id=46815527) - [Why \"The AI Hallucinated\" is the perfect legal defense](https://niyikiza.com/posts/hallucination-defense/)
 * [2026-01-29, 19:37:24](https://news.ycombinator.com/item?id=46815408) - [1km tower in the desert is not progress it is a farewell letter to common sense](https://www.doubleglazinginbanbridge.co.uk/29-171405-1km-tower-in-the-desert/)
+* [2026-01-29, 19:30:35](https://news.ycombinator.com/item?id=46815297) - [Flameshot](https://github.com/flameshot-org/flameshot)
+* [2026-01-29, 19:10:54](https://news.ycombinator.com/item?id=46814991) - [Networks Hold the Key to a Decades-Old Problem About Waves](https://www.quantamagazine.org/networks-hold-the-key-to-a-decades-old-problem-about-waves-20260128/)
 * [2026-01-29, 18:53:30](https://news.ycombinator.com/item?id=46814701) - [SpaceX in Merger Talks with xAI](https://www.reuters.com/world/musks-spacex-merger-talks-with-xai-ahead-planned-ipo-source-says-2026-01-29/)
 * [2026-01-29, 18:48:09](https://news.ycombinator.com/item?id=46814614) - [County pays $600k to pentesters it arrested for assessing courthouse security](https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/)
 * [2026-01-29, 18:45:27](https://news.ycombinator.com/item?id=46814569) - [My Mom and Dr. DeepSeek (2025)](https://restofworld.org/2025/ai-chatbot-china-sick/)
