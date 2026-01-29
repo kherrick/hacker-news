@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 20:35:13](https://news.ycombinator.com/item?id=46816203) - [Reid Hoffman: Silicon Valley can't be neutral any longer](https://sfstandard.com/opinion/2026/01/29/reid-hoffman-silicon-valley-can-t-neutral-any-longer/)
 * [2026-01-29, 20:20:11](https://news.ycombinator.com/item?id=46816000) - [Taco writer detained–briefly–by feds](https://bigbendsentinel.com/2026/01/28/taco-writer-detained-briefly-by-feds/)
 * [2026-01-29, 19:45:12](https://news.ycombinator.com/item?id=46815527) - [Why \"The AI Hallucinated\" is the perfect legal defense](https://niyikiza.com/posts/hallucination-defense/)
 * [2026-01-29, 19:37:24](https://news.ycombinator.com/item?id=46815408) - [1km tower in the desert is not progress it is a farewell letter to common sense](https://www.doubleglazinginbanbridge.co.uk/29-171405-1km-tower-in-the-desert/)
 * [2026-01-29, 19:30:35](https://news.ycombinator.com/item?id=46815297) - [Flameshot](https://github.com/flameshot-org/flameshot)
 * [2026-01-29, 19:10:54](https://news.ycombinator.com/item?id=46814991) - [Networks Hold the Key to a Decades-Old Problem About Waves](https://www.quantamagazine.org/networks-hold-the-key-to-a-decades-old-problem-about-waves-20260128/)
+* [2026-01-29, 18:55:38](https://news.ycombinator.com/item?id=46814743) - [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
 * [2026-01-29, 18:53:30](https://news.ycombinator.com/item?id=46814701) - [SpaceX in Merger Talks with xAI](https://www.reuters.com/world/musks-spacex-merger-talks-with-xai-ahead-planned-ipo-source-says-2026-01-29/)
 * [2026-01-29, 18:48:09](https://news.ycombinator.com/item?id=46814614) - [County pays $600k to pentesters it arrested for assessing courthouse security](https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/)
 * [2026-01-29, 18:45:27](https://news.ycombinator.com/item?id=46814569) - [My Mom and Dr. DeepSeek (2025)](https://restofworld.org/2025/ai-chatbot-china-sick/)
@@ -18,6 +20,7 @@
 * [2026-01-29, 18:00:10](https://news.ycombinator.com/item?id=46813834) - [AI's Impact on Engineering Jobs May Be Different Than Expected](https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/)
 * [2026-01-29, 17:06:46](https://news.ycombinator.com/item?id=46813002) - [Project Genie: Interactive worlds generated in real-time](https://labs.google/projectgenie)
 * [2026-01-29, 17:02:39](https://news.ycombinator.com/item?id=46812933) - [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
+* [2026-01-29, 17:01:31](https://news.ycombinator.com/item?id=46812909) - [Show HN: Autonomous recovery for distributed training jobs](https://docs.tensorpool.dev/features/agent)
 * [2026-01-29, 17:00:42](https://news.ycombinator.com/item?id=46812892) - [Reflex (YC W23) Senior Software Engineer Infra](https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra)
 * [2026-01-29, 16:46:21](https://news.ycombinator.com/item?id=46812653) - [Mozilla is building an AI 'rebel alliance' to take on OpenAI, Anthropic](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
 * [2026-01-29, 16:42:33](https://news.ycombinator.com/item?id=46812608) - [Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes](https://news.ycombinator.com/item?id=46812608)

@@ -53,6 +53,7 @@
 * [2026-01-25, 11:12:47](https://news.ycombinator.com/item?id=46753037) - [Xmake: A cross-platform build utility based on Lua](https://xmake.io/)
 * [2026-01-25, 10:54:29](https://news.ycombinator.com/item?id=46752907) - [150k lines of vibe coded Elixir: The Good, the Bad and the Ugly](https://getboothiq.com/blog/150k-lines-vibe-coded-elixir-good-bad-ugly)
 * [2026-01-25, 10:44:08](https://news.ycombinator.com/item?id=46752841) - [Bridging the Gap Between PLECS and SPICE](https://erickschulz.dev/posts/plecs-spice/)
+* [2026-01-25, 10:31:14](https://news.ycombinator.com/item?id=46752754) - [The Value of Things](https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/)
 * [2026-01-25, 09:33:59](https://news.ycombinator.com/item?id=46752335) - [Accept_language 2.2 – RFC 7231/4647 compliant Accept-Language parsing for Ruby](https://github.com/cyril/accept_language.rb)
 * [2026-01-25, 09:22:17](https://news.ycombinator.com/item?id=46752261) - [Jurassic Park - Tablet device on Nedry's desk? (2012)](https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/)
 * [2026-01-25, 09:08:57](https://news.ycombinator.com/item?id=46752172) - [I Made a MIT Licensed Mecrisp-Stellaris Language Server](https://mecrisp-stellaris-folkdoc.sourceforge.io/mecrisp-stellaris-lsp.html)
