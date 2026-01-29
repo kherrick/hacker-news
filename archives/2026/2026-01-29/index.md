@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 12:03:13](https://news.ycombinator.com/item?id=46809069) - [The Tech Market Is Fundamentally Fucked Up – AI Is Just a Scapegoat](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
 * [2026-01-29, 10:35:00](https://news.ycombinator.com/item?id=46808251) - [Vitamin D and Omega-3 have a larger effect on depression than antidepressants](https://blog.ncase.me/on-depression/)
 * [2026-01-29, 08:11:51](https://news.ycombinator.com/item?id=46807201) - [OpenAI's Unit Economics](https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview)
 * [2026-01-29, 07:36:23](https://news.ycombinator.com/item?id=46806985) - [Grassroots Coalition Plans Nationwide Jan 30 Strike Against ICE](https://nationalshutdown.org)

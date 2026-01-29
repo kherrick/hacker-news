@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-29, 12:03:13](https://news.ycombinator.com/item?id=46809069) - [The Tech Market Is Fundamentally Fucked Up – AI Is Just a Scapegoat](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
 * [2026-01-29, 10:35:00](https://news.ycombinator.com/item?id=46808251) - [Vitamin D and Omega-3 have a larger effect on depression than antidepressants](https://blog.ncase.me/on-depression/)
-* [2026-01-29, 08:11:51](https://news.ycombinator.com/item?id=46807201) - [OpenAI's Unit Economics](https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview)
+* [2026-01-29, 08:11:51](https://news.ycombinator.com/item?id=46807201) - [OpenAI’s unit economics](https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview)
 * [2026-01-29, 07:32:19](https://news.ycombinator.com/item?id=46806959) - [The only moat left is knowing things](https://growtika.com/blog/authenticity-edge)
 * [2026-01-29, 07:07:17](https://news.ycombinator.com/item?id=46806773) - [Europe’s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
 * [2026-01-29, 03:58:33](https://news.ycombinator.com/item?id=46805665) - [We can’t send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
@@ -22,7 +23,6 @@
 * [2026-01-28, 00:57:52](https://news.ycombinator.com/item?id=46789561) - [Trinity large: An open 400B sparse MoE model](https://www.arcee.ai/blog/trinity-large)
 * [2026-01-28, 00:18:58](https://news.ycombinator.com/item?id=46789205) - [Did a celebrated researcher obscure a baby's poisoning?](https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning)
 * [2026-01-28, 00:16:57](https://news.ycombinator.com/item?id=46789180) - [How London became the rest of the world’s startup capital](https://www.economist.com/britain/2026/01/26/how-london-became-the-rest-of-the-worlds-startup-capital)
-* [2026-01-27, 07:37:56](https://news.ycombinator.com/item?id=46776643) - [Show HN: Externalized Properties, a modern Java configuration library](https://github.com/joel-jeremy/externalized-properties)
 * [2026-01-26, 17:42:18](https://news.ycombinator.com/item?id=46768845) - [Decompiling Xbox games using PDB debug info](https://i686.me/blog/csplit/)
 * [2026-01-25, 21:44:50](https://news.ycombinator.com/item?id=46758652) - [Mecha Comet – Open Modular Linux Handheld Computer](https://mecha.so/comet)
 * [2026-01-25, 12:24:58](https://news.ycombinator.com/item?id=46753508) - [The Origin of Cascades - on the History of CSS (2020)](https://talks.hiddedevries.nl/2gDDUr)
