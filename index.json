@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-01-29, 03:58:33",
+      "https://news.ycombinator.com/item?id=46805665"
+    ],
+    [
+      "We can't send mail farther than 500 miles (2002)",
+      "https://web.mit.edu/jemorris/humor/500-miles"
+    ]
+  ],
+  [
+    [
+      "2026-01-29, 03:29:53",
+      "https://news.ycombinator.com/item?id=46805439"
+    ],
+    [
+      "Questom (YC F25) is hiring an engineer",
+      "https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer"
+    ]
+  ],
+  [
+    [
       "2026-01-29, 02:11:42",
       "https://news.ycombinator.com/item?id=46804854"
     ],
     [
-      "Virginia Oliver, Maine 'Lobster Lady' who fished for nearly a century, has died",
+      "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
       "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105"
     ]
   ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46804828"
     ],
     [
-      "Beautiful Mermaid",
+      "Render Mermaid diagrams as SVGs or ASCII art",
       "https://github.com/lukilabs/beautiful-mermaid"
     ]
   ],
@@ -31,32 +51,22 @@
   ],
   [
     [
-      "2026-01-28, 23:55:42",
-      "https://news.ycombinator.com/item?id=46803549"
-    ],
-    [
-      "Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k",
-      "https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 23:36:23",
-      "https://news.ycombinator.com/item?id=46803356"
-    ],
-    [
-      "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
-      "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in"
-    ]
-  ],
-  [
-    [
       "2026-01-28, 23:16:12",
       "https://news.ycombinator.com/item?id=46803119"
     ],
     [
       "UK Government’s ‘AI Skills Hub’ was delivered by PwC for £4.1M",
       "https://mahadk.com/posts/ai-skills-hub"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 22:53:54",
+      "https://news.ycombinator.com/item?id=46802867"
+    ],
+    [
+      "Tesla ending Models S and X production",
+      "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html"
     ]
   ],
   [
@@ -81,32 +91,22 @@
   ],
   [
     [
-      "2026-01-28, 21:42:03",
-      "https://news.ycombinator.com/item?id=46801976"
-    ],
-    [
-      "Jellyfin LLM/\"AI\" Development Policy",
-      "https://jellyfin.org/docs/general/contributing/llm-policies/"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 19:39:31",
-      "https://news.ycombinator.com/item?id=46800484"
-    ],
-    [
-      "Show HN: Cursor for Userscripts",
-      "https://github.com/chebykinn/browser-code"
-    ]
-  ],
-  [
-    [
       "2026-01-28, 18:52:24",
       "https://news.ycombinator.com/item?id=46799898"
     ],
     [
       "Show HN: A MitM proxy to see what your LLM tools are sending",
       "https://github.com/jmuncor/sherlock"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 18:23:14",
+      "https://news.ycombinator.com/item?id=46799477"
+    ],
+    [
+      "LM Studio 0.4",
+      "https://lmstudio.ai/blog/0.4.0"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "Mousefood – Build embedded terminal UIs for microcontrollers",
       "https://github.com/ratatui/mousefood"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 16:52:05",
-      "https://news.ycombinator.com/item?id=46797913"
-    ],
-    [
-      "Amazon One palm authentication discontinued",
-      "https://amazonone.aws.com/help"
     ]
   ],
   [
@@ -181,22 +171,12 @@
   ],
   [
     [
-      "2026-01-28, 14:28:21",
-      "https://news.ycombinator.com/item?id=46795864"
+      "2026-01-28, 14:06:39",
+      "https://news.ycombinator.com/item?id=46795582"
     ],
     [
-      "Microsoft forced me to switch to Linux",
-      "https://www.himthe.dev/blog/microsoft-to-linux"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 12:06:18",
-      "https://news.ycombinator.com/item?id=46794281"
-    ],
-    [
-      "Show HN: SHDL – A minimal hardware description language built from logic gates",
-      "https://github.com/rafa-rrayes/SHDL"
+      "When Every Network is 192.168.1.x",
+      "https://netrinos.com/blog/conflicting-subnets"
     ]
   ],
   [
@@ -207,6 +187,16 @@
     [
       "Android's desktop interface leaks",
       "https://9to5google.com/2026/01/27/android-desktop-leak/"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 01:06:32",
+      "https://news.ycombinator.com/item?id=46789645"
+    ],
+    [
+      "Show HN: Pinecone Explorer – Desktop GUI for the Pinecone vector database",
+      "https://www.pinecone-explorer.com"
     ]
   ],
   [
@@ -261,12 +251,22 @@
   ],
   [
     [
-      "2026-01-24, 15:17:11",
-      "https://news.ycombinator.com/item?id=46744272"
+      "2026-01-24, 19:47:41",
+      "https://news.ycombinator.com/item?id=46746971"
     ],
     [
-      "3D-Printed Mathematical Lampshades",
-      "https://hessammehr.github.io/blog/posts/2025-12-24-maths-to-lampshade.html"
+      "An Illustrated Guide to Hippo Castration",
+      "https://www.science.org/content/article/scienceshot-illustrated-guide-hippo-castration"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 22:55:00",
+      "https://news.ycombinator.com/item?id=46739117"
+    ],
+    [
+      "The Five Levels: From spicy autocomplete to the dark factory",
+      "https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/"
     ]
   ],
   [
