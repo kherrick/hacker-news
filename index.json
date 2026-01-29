@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-01-29, 20:11:26",
+      "https://news.ycombinator.com/item?id=46815899"
+    ],
+    [
+      "Agent-shell: A native Emacs buffer to interact with LLM agents powered by ACP",
+      "https://github.com/xenodium/agent-shell"
+    ]
+  ],
+  [
+    [
       "2026-01-29, 19:30:35",
       "https://news.ycombinator.com/item?id=46815297"
     ],
@@ -191,21 +201,11 @@
   ],
   [
     [
-      "2026-01-29, 14:03:12",
-      "https://news.ycombinator.com/item?id=46810337"
-    ],
-    [
-      "Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809",
-      "https://ipsj.ixsq.nii.ac.jp/records/229345"
-    ]
-  ],
-  [
-    [
       "2026-01-29, 13:59:07",
       "https://news.ycombinator.com/item?id=46810282"
     ],
     [
-      "Claude Code Daily Benchmarks for Degradation Tracking",
+      "Claude Code daily benchmarks for degradation tracking",
       "https://marginlab.ai/trackers/claude-code/"
     ]
   ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2026-01-27, 07:53:06",
+      "https://news.ycombinator.com/item?id=46776752"
+    ],
+    [
+      "Automating Image Compression",
+      "https://www.ramijames.com/thoughts/on-automating-image-compression"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 21:56:05",
       "https://news.ycombinator.com/item?id=46772132"
     ],
@@ -247,16 +257,6 @@
     [
       "Usenet personality",
       "https://en.wikipedia.org/wiki/Usenet_personality"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 13:54:57",
-      "https://news.ycombinator.com/item?id=46754097"
-    ],
-    [
-      "Computing Sharding with Einsum",
-      "https://blog.ezyang.com/2026/01/computing-sharding-with-einsum/"
     ]
   ],
   [
