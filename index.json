@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-29, 17:06:46",
+      "https://news.ycombinator.com/item?id=46813002"
+    ],
+    [
+      "Project Genie: Interactive worlds generated in real-time",
+      "https://labs.google/projectgenie"
+    ]
+  ],
+  [
+    [
+      "2026-01-29, 17:02:39",
+      "https://news.ycombinator.com/item?id=46812933"
+    ],
+    [
+      "Project Genie: Experimenting with infinite, interactive worlds",
+      "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/"
+    ]
+  ],
+  [
+    [
       "2026-01-29, 17:00:42",
       "https://news.ycombinator.com/item?id=46812892"
     ],
@@ -41,12 +61,12 @@
   ],
   [
     [
-      "2026-01-29, 16:04:45",
-      "https://news.ycombinator.com/item?id=46812052"
+      "2026-01-29, 16:11:04",
+      "https://news.ycombinator.com/item?id=46812159"
     ],
     [
-      "Days numbered for 'risky' lithium-ion batteries",
-      "https://www.livescience.com/technology/engineering/days-numbered-for-risky-lithium-ion-batteries-scientists-say-after-fast-charging-breakthrough-in-sodium-ion-alternative"
+      "Drug trio found to block tumour resistance in pancreatic cancer",
+      "https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/"
     ]
   ],
   [
@@ -61,32 +81,22 @@
   ],
   [
     [
+      "2026-01-29, 15:42:57",
+      "https://news.ycombinator.com/item?id=46811664"
+    ],
+    [
+      "Is the RAM shortage killing small VPS hosts?",
+      "https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/"
+    ]
+  ],
+  [
+    [
       "2026-01-29, 15:37:21",
       "https://news.ycombinator.com/item?id=46811588"
     ],
     [
       "OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)",
       "https://quesma.com/blog/introducing-otel-bench/"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 15:26:20",
-      "https://news.ycombinator.com/item?id=46811452"
-    ],
-    [
-      "US trade deficit widens by the most in nearly 34 years in November",
-      "https://finance.yahoo.com/news/us-trade-deficit-widens-most-144236696.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 14:51:56",
-      "https://news.ycombinator.com/item?id=46810950"
-    ],
-    [
-      "Deep dive into Turso, the \"SQLite rewrite in Rust\"",
-      "https://kerkour.com/turso-sqlite"
     ]
   ],
   [
@@ -117,6 +127,16 @@
     [
       "Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES/AES NFC",
       "https://www.breakmeifyoucan.com/"
+    ]
+  ],
+  [
+    [
+      "2026-01-29, 14:08:56",
+      "https://news.ycombinator.com/item?id=46810401"
+    ],
+    [
+      "Waymo robotaxi hits a child near an elementary school in Santa Monica",
+      "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2026-01-26, 17:42:18",
-      "https://news.ycombinator.com/item?id=46768845"
-    ],
-    [
-      "Decompiling Xbox games using PDB debug info",
-      "https://i686.me/blog/csplit/"
-    ]
-  ],
-  [
-    [
       "2026-01-25, 21:44:50",
       "https://news.ycombinator.com/item?id=46758652"
     ],
@@ -261,32 +271,22 @@
   ],
   [
     [
+      "2026-01-25, 13:54:57",
+      "https://news.ycombinator.com/item?id=46754097"
+    ],
+    [
+      "Computing Sharding with Einsum",
+      "https://blog.ezyang.com/2026/01/computing-sharding-with-einsum/"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 06:34:25",
       "https://news.ycombinator.com/item?id=46751382"
     ],
     [
       "Apt-bundle: brew bundle for apt",
       "https://github.com/apt-bundle/apt-bundle"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 02:50:44",
-      "https://news.ycombinator.com/item?id=46750220"
-    ],
-    [
-      "Building a High-Performance Rotating Bloom Filter in Java",
-      "https://medium.com/@udaysagar.2177/building-a-high-performance-rotating-bloom-filter-in-java-a9e75de993bf"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 19:37:17",
-      "https://news.ycombinator.com/item?id=46736804"
-    ],
-    [
-      "Tea Chemistry (1997)",
-      "https://www.researchgate.net/profile/Matthew-Harbowy/publication/216792045_Tea_Chemistry/links/0912f4fb863f786725000000/Tea-Chemistry.pdf"
     ]
   ],
   [
