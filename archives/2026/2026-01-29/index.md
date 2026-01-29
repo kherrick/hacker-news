@@ -4,11 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 17:00:42](https://news.ycombinator.com/item?id=46812892) - [Reflex (YC W23) Senior Software Engineer Infra](https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra)
+* [2026-01-29, 16:46:21](https://news.ycombinator.com/item?id=46812653) - [Mozilla is building an AI 'rebel alliance' to take on OpenAI, Anthropic](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
+* [2026-01-29, 16:42:33](https://news.ycombinator.com/item?id=46812608) - [Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes](https://news.ycombinator.com/item?id=46812608)
 * [2026-01-29, 16:12:19](https://news.ycombinator.com/item?id=46812173) - [US cybersecurity chief leaked sensitive government files to ChatGPT: Report](https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/)
 * [2026-01-29, 16:04:45](https://news.ycombinator.com/item?id=46812052) - [Days numbered for 'risky' lithium-ion batteries](https://www.livescience.com/technology/engineering/days-numbered-for-risky-lithium-ion-batteries-scientists-say-after-fast-charging-breakthrough-in-sodium-ion-alternative)
+* [2026-01-29, 15:49:04](https://news.ycombinator.com/item?id=46811762) - [Heating homes with the largest particle accelerator](https://home.cern/news/news/cern/heating-homes-worlds-largest-particle-accelerator)
 * [2026-01-29, 15:37:21](https://news.ycombinator.com/item?id=46811588) - [OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)](https://quesma.com/blog/introducing-otel-bench/)
+* [2026-01-29, 15:26:20](https://news.ycombinator.com/item?id=46811452) - [US trade deficit widens by the most in nearly 34 years in November](https://finance.yahoo.com/news/us-trade-deficit-widens-most-144236696.html)
 * [2026-01-29, 14:51:56](https://news.ycombinator.com/item?id=46810950) - [Deep dive into Turso, the \"SQLite rewrite in Rust\"](https://kerkour.com/turso-sqlite)
 * [2026-01-29, 14:49:08](https://news.ycombinator.com/item?id=46810904) - [How to Choose Colors for Your CLI Applications](https://blog.xoria.org/terminal-colors/)
+* [2026-01-29, 14:43:07](https://news.ycombinator.com/item?id=46810828) - [Run Clawdbot/Moltbot on Cloudflare with Moltworker](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 * [2026-01-29, 14:20:21](https://news.ycombinator.com/item?id=46810536) - [Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES/AES NFC](https://www.breakmeifyoucan.com/)
 * [2026-01-29, 14:08:56](https://news.ycombinator.com/item?id=46810401) - [Waymo robotaxi hits a child near an elementary school in Santa Monica](https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/)
 * [2026-01-29, 14:03:12](https://news.ycombinator.com/item?id=46810337) - [Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809](https://ipsj.ixsq.nii.ac.jp/records/229345)
