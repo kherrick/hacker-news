@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
 * [2026-01-29, 07:36:23](https://news.ycombinator.com/item?id=46806985) - [Grassroots Coalition Plans Nationwide Jan 30 Strike Against ICE](https://nationalshutdown.org)
+* [2026-01-29, 07:07:17](https://news.ycombinator.com/item?id=46806773) - [Europe's next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
 * [2026-01-29, 06:24:18](https://news.ycombinator.com/item?id=46806505) - [Generative Music with the Muse](https://computerhistory.org/blog/generative-music-with-the-muse/)
 * [2026-01-29, 04:33:10](https://news.ycombinator.com/item?id=46805841) - [Microsoft's Azure Linux](https://github.com/microsoft/azurelinux)
 * [2026-01-29, 03:58:33](https://news.ycombinator.com/item?id=46805665) - [We can't send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
