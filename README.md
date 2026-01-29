@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-29, 04:33:10](https://news.ycombinator.com/item?id=46805841) - [Microsoft's Azure Linux](https://github.com/microsoft/azurelinux)
 * [2026-01-29, 03:58:33](https://news.ycombinator.com/item?id=46805665) - [We can't send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 * [2026-01-29, 03:29:53](https://news.ycombinator.com/item?id=46805439) - [Questom (YC F25) is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer)
+* [2026-01-29, 03:04:40](https://news.ycombinator.com/item?id=46805243) - [DECwindows Motif](https://products.vmssoftware.com/decwindowsmotif)
 * [2026-01-29, 02:11:42](https://news.ycombinator.com/item?id=46804854) - [Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105](https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105)
 * [2026-01-29, 02:08:40](https://news.ycombinator.com/item?id=46804828) - [Render Mermaid diagrams as SVGs or ASCII art](https://github.com/lukilabs/beautiful-mermaid)
 * [2026-01-29, 01:16:41](https://news.ycombinator.com/item?id=46804396) - [Show HN: Shelvy Books](https://shelvybooks.com)
@@ -28,8 +30,6 @@
 * [2026-01-24, 19:47:41](https://news.ycombinator.com/item?id=46746971) - [An Illustrated Guide to Hippo Castration](https://www.science.org/content/article/scienceshot-illustrated-guide-hippo-castration)
 * [2026-01-23, 22:55:00](https://news.ycombinator.com/item?id=46739117) - [The Five Levels: From spicy autocomplete to the dark factory](https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/)
 * [2026-01-23, 14:44:14](https://news.ycombinator.com/item?id=46733079) - [Hellenistic War-Elephants and the Use of Alcohol Before Battle](https://www.cambridge.org/core/journals/classical-quarterly/article/hellenistic-warelephants-and-the-use-of-alcohol-before-battle/39A749F62E21ED16C9CCA3B03E176561)
-* [2026-01-23, 13:55:04](https://news.ycombinator.com/item?id=46732514) - [In a genre where spoilers are devastating, how do we talk about puzzle games?](https://thinkygames.com/features/in-a-genre-where-information-is-sacred-and-spoilers-are-devastating-how-do-we-talk-about-puzzle-games/)
-* [2026-01-23, 03:32:26](https://news.ycombinator.com/item?id=46728070) - [I overengineered a spinning top [video]](https://www.youtube.com/watch?v=Wp5NodfvvF4)
 
 ## [Archives](archives/index.md)
 
