@@ -47,6 +47,7 @@
 * [2026-01-25, 11:40:34](https://news.ycombinator.com/item?id=46753199) - [Aperture: Senior QA (2004-2005)](https://substack.techreflect.org/p/aperture-senior-qa-2004-2005)
 * [2026-01-25, 11:28:33](https://news.ycombinator.com/item?id=46753142) - [Wall Street braced for a private credit meltdown. The risk of one is rising](https://www.cnbc.com/2026/01/23/wall-street-private-credit-risk-rising.html)
 * [2026-01-25, 11:19:04](https://news.ycombinator.com/item?id=46753078) - [Show HN: TUI for managing XDG default applications](https://github.com/mitjafelicijan/xdgctl)
+* [2026-01-25, 11:12:47](https://news.ycombinator.com/item?id=46753037) - [Xmake: A cross-platform build utility based on Lua](https://xmake.io/)
 * [2026-01-25, 10:54:29](https://news.ycombinator.com/item?id=46752907) - [150k lines of vibe coded Elixir: The Good, the Bad and the Ugly](https://getboothiq.com/blog/150k-lines-vibe-coded-elixir-good-bad-ugly)
 * [2026-01-25, 10:44:08](https://news.ycombinator.com/item?id=46752841) - [Bridging the Gap Between PLECS and SPICE](https://erickschulz.dev/posts/plecs-spice/)
 * [2026-01-25, 09:33:59](https://news.ycombinator.com/item?id=46752335) - [Accept_language 2.2 – RFC 7231/4647 compliant Accept-Language parsing for Ruby](https://github.com/cyril/accept_language.rb)
