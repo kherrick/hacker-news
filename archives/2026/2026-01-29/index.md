@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 18:00:10](https://news.ycombinator.com/item?id=46813834) - [AI's Impact on Engineering Jobs May Be Different Than Expected](https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/)
 * [2026-01-29, 17:06:46](https://news.ycombinator.com/item?id=46813002) - [Project Genie: Interactive worlds generated in real-time](https://labs.google/projectgenie)
 * [2026-01-29, 17:02:39](https://news.ycombinator.com/item?id=46812933) - [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
 * [2026-01-29, 17:00:42](https://news.ycombinator.com/item?id=46812892) - [Reflex (YC W23) Senior Software Engineer Infra](https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra)

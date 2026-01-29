@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-29, 18:00:10](https://news.ycombinator.com/item?id=46813834) - [AI's Impact on Engineering Jobs May Be Different Than Expected](https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/)
 * [2026-01-29, 17:06:46](https://news.ycombinator.com/item?id=46813002) - [Project Genie: Interactive worlds generated in real-time](https://labs.google/projectgenie)
 * [2026-01-29, 17:02:39](https://news.ycombinator.com/item?id=46812933) - [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
-* [2026-01-29, 17:00:42](https://news.ycombinator.com/item?id=46812892) - [Reflex (YC W23) Senior Software Engineer Infra](https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra)
 * [2026-01-29, 16:46:21](https://news.ycombinator.com/item?id=46812653) - [Mozilla is building an AI 'rebel alliance' to take on OpenAI, Anthropic](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
 * [2026-01-29, 16:42:33](https://news.ycombinator.com/item?id=46812608) - [Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes](https://news.ycombinator.com/item?id=46812608)
 * [2026-01-29, 16:12:19](https://news.ycombinator.com/item?id=46812173) - [US cybersecurity chief leaked sensitive government files to ChatGPT: Report](https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/)
@@ -16,7 +16,6 @@
 * [2026-01-29, 14:08:56](https://news.ycombinator.com/item?id=46810401) - [Waymo robotaxi hits a child near an elementary school in Santa Monica](https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/)
 * [2026-01-29, 14:03:12](https://news.ycombinator.com/item?id=46810337) - [Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809](https://ipsj.ixsq.nii.ac.jp/records/229345)
 * [2026-01-29, 13:59:07](https://news.ycombinator.com/item?id=46810282) - [Claude Code Daily Benchmarks for Degradation Tracking](https://marginlab.ai/trackers/claude-code/)
-* [2026-01-29, 13:36:54](https://news.ycombinator.com/item?id=46810027) - [A lot of population numbers are fake](https://davidoks.blog/p/a-lot-of-population-numbers-are-fake)
 * [2026-01-29, 12:42:58](https://news.ycombinator.com/item?id=46809420) - [The Sovereign Tech Fund Invests in Scala](https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html)
 * [2026-01-29, 10:35:00](https://news.ycombinator.com/item?id=46808251) - [Vitamin D and Omega-3 have a larger effect on depression than antidepressants](https://blog.ncase.me/on-depression/)
 * [2026-01-29, 07:07:17](https://news.ycombinator.com/item?id=46806773) - [Europe’s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
@@ -28,7 +27,8 @@
 * [2026-01-26, 21:56:05](https://news.ycombinator.com/item?id=46772132) - [Making niche solutions is the point](https://ntietz.com/blog/making-niche-solutions-is-the-point/)
 * [2026-01-25, 21:44:50](https://news.ycombinator.com/item?id=46758652) - [Mecha Comet – Open Modular Linux Handheld Computer](https://mecha.so/comet)
 * [2026-01-25, 13:54:57](https://news.ycombinator.com/item?id=46754097) - [Computing Sharding with Einsum](https://blog.ezyang.com/2026/01/computing-sharding-with-einsum/)
-* [2026-01-25, 06:34:25](https://news.ycombinator.com/item?id=46751382) - [Apt-bundle: brew bundle for apt](https://github.com/apt-bundle/apt-bundle)
+* [2026-01-25, 02:50:44](https://news.ycombinator.com/item?id=46750220) - [Building a High-Performance Rotating Bloom Filter in Java](https://medium.com/@udaysagar.2177/building-a-high-performance-rotating-bloom-filter-in-java-a9e75de993bf)
+* [2026-01-23, 19:37:17](https://news.ycombinator.com/item?id=46736804) - [Tea Chemistry (1997)](https://www.researchgate.net/profile/Matthew-Harbowy/publication/216792045_Tea_Chemistry/links/0912f4fb863f786725000000/Tea-Chemistry.pdf)
 * [2026-01-23, 06:26:40](https://news.ycombinator.com/item?id=46729139) - [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS)
 
 ## [Archives](archives/index.md)
