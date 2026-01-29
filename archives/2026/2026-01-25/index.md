@@ -77,6 +77,7 @@
 * [2026-01-25, 03:36:38](https://news.ycombinator.com/item?id=46750437) - [Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator)
 * [2026-01-25, 03:33:20](https://news.ycombinator.com/item?id=46750425) - [nvidia-smi hangs indefinitely after ~66 days](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971)
 * [2026-01-25, 03:17:43](https://news.ycombinator.com/item?id=46750358) - [Second Win11 emergency out of band update to address disastrous Patch Tuesday](https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs)
+* [2026-01-25, 02:50:44](https://news.ycombinator.com/item?id=46750220) - [Building a High-Performance Rotating Bloom Filter in Java](https://medium.com/@udaysagar.2177/building-a-high-performance-rotating-bloom-filter-in-java-a9e75de993bf)
 * [2026-01-25, 02:48:36](https://news.ycombinator.com/item?id=46750214) - [David Patterson: Challenges and Research Directions for LLM Inference Hardware](https://arxiv.org/abs/2601.05047)
 * [2026-01-25, 02:18:47](https://news.ycombinator.com/item?id=46750024) - [Vortex Support in DuckDB](https://duckdb.org/2026/01/23/duckdb-vortex-extension)
 * [2026-01-25, 01:25:37](https://news.ycombinator.com/item?id=46749671) - [Two Weeks Until Tapeout](https://essenceia.github.io/projects/two_weeks_until_tapeout/)
