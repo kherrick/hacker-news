@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-30, 18:07:02",
-      "https://news.ycombinator.com/item?id=46827731"
+      "2026-01-30, 19:04:28",
+      "https://news.ycombinator.com/item?id=46828482"
     ],
     [
-      "ClawdBot Skills ganked all my crypto",
-      "https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto"
+      "Videogame stocks slide after Google's Project Genie AI model release",
+      "https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 18:02:23",
+      "https://news.ycombinator.com/item?id=46827665"
+    ],
+    [
+      "Mamdani to kill the NYC AI chatbot caught telling businesses to break the law",
+      "https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=46827003"
     ],
     [
-      "Microsoft Just Killed the \"Cover for Me\" Excuse: 365 Now Tracks You in Real-Time",
+      "Microsoft 365 now tracks you in real time?",
       "https://ztechtalk.com/microsoft-teams"
     ]
   ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2026-01-30, 15:04:36",
-      "https://news.ycombinator.com/item?id=46825200"
-    ],
-    [
-      "HumanConsumption.Live – Real-Time Global Animal Consumption Stats",
-      "https://www.humanconsumption.live/"
-    ]
-  ],
-  [
-    [
       "2026-01-30, 14:34:32",
       "https://news.ycombinator.com/item?id=46824877"
     ],
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2026-01-30, 13:55:29",
+      "https://news.ycombinator.com/item?id=46824400"
+    ],
+    [
+      "Ode to the AA Battery",
+      "https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/"
+    ]
+  ],
+  [
+    [
       "2026-01-30, 13:23:53",
       "https://news.ycombinator.com/item?id=46824098"
     ],
@@ -107,16 +117,6 @@
     [
       "Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)",
       "https://docs.pangolin.net/careers/join-us"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 12:07:26",
-      "https://news.ycombinator.com/item?id=46823498"
-    ],
-    [
-      "Show HN: Cicada – A scripting language that integrates with C",
-      "https://github.com/heltilda/cicada"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-01-29, 21:02:31",
-      "https://news.ycombinator.com/item?id=46816539"
-    ],
-    [
-      "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
-      "https://openai.com/index/retiring-gpt-4o-and-older-models/"
-    ]
-  ],
-  [
-    [
       "2026-01-29, 16:19:19",
       "https://news.ycombinator.com/item?id=46812285"
     ],
@@ -277,6 +267,16 @@
     [
       "Godot 4.6 Release: It's all about your flow",
       "https://godotengine.org/releases/4.6/"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 11:08:16",
+      "https://news.ycombinator.com/item?id=46764228"
+    ],
+    [
+      "Joel Spolsky: Painless Software Schedules (2000)",
+      "https://www.joelonsoftware.com/2000/03/29/painless-software-schedules/"
     ]
   ],
   [
