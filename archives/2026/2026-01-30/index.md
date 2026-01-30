@@ -35,6 +35,7 @@
 * [2026-01-30, 13:55:29](https://news.ycombinator.com/item?id=46824400) - [Ode to the AA Battery](https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/)
 * [2026-01-30, 13:23:53](https://news.ycombinator.com/item?id=46824098) - [Wisconsin communities signed secrecy deals for billion-dollar data centers](https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers)
 * [2026-01-30, 13:13:11](https://news.ycombinator.com/item?id=46824017) - [Norway EV Push Nears 100 Percent: What's Next?](https://spectrum.ieee.org/norway-ev-policy-electric-vehicles)
+* [2026-01-30, 12:50:34](https://news.ycombinator.com/item?id=46823849) - [Deterministic Governance: mechanical exclusion / bit-identical](https://github.com/Rymley/Deterministic-Governance-Mechanism)
 * [2026-01-30, 12:11:49](https://news.ycombinator.com/item?id=46823544) - [Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)](https://docs.pangolin.net/careers/join-us)
 * [2026-01-30, 12:07:26](https://news.ycombinator.com/item?id=46823498) - [Show HN: Cicada – a scripting language that integrates with C](https://github.com/heltilda/cicada)
 * [2026-01-30, 12:05:50](https://news.ycombinator.com/item?id=46823485) - [Code is cheap. Show me the talk](https://nadh.in/blog/code-is-cheap/)
