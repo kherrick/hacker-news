@@ -24,6 +24,7 @@
 * [2026-01-28, 19:24:35](https://news.ycombinator.com/item?id=46800303) - [Trying to craft AI images that are worth displaying to end users](https://www.approachwithalacrity.com/how-to-turn-sfo-jfk-into-a-beautiful-photo/)
 * [2026-01-28, 18:52:24](https://news.ycombinator.com/item?id=46799898) - [Show HN: A MitM proxy to see what your LLM tools are sending](https://github.com/jmuncor/sherlock)
 * [2026-01-28, 18:23:14](https://news.ycombinator.com/item?id=46799477) - [LM Studio 0.4.0](https://lmstudio.ai/blog/0.4.0)
+* [2026-01-28, 18:18:16](https://news.ycombinator.com/item?id=46799402) - [Show HN: I'm building an AI-proof writing tool. How would you defeat it?](https://auth-auth.vercel.app/)
 * [2026-01-28, 18:12:02](https://news.ycombinator.com/item?id=46799304) - [That's Not How Email Works, HSBC](https://danq.me/2026/01/28/hsbc-dont-understand-email/)
 * [2026-01-28, 17:54:54](https://news.ycombinator.com/item?id=46798994) - [Computer History Museum Launches Digital Portal to Its Collection](https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/)
 * [2026-01-28, 17:23:35](https://news.ycombinator.com/item?id=46798467) - [For These Women, Grok's Sexualized Images Are Personal](https://www.rollingstone.com/culture/culture-features/grok-sexualized-image-xai-elon-musk-women-1235501436/)

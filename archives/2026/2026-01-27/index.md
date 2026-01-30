@@ -63,6 +63,7 @@
 * [2026-01-27, 07:37:56](https://news.ycombinator.com/item?id=46776643) - [Show HN: Externalized Properties, a modern Java configuration library](https://github.com/joel-jeremy/externalized-properties)
 * [2026-01-27, 07:26:36](https://news.ycombinator.com/item?id=46776564) - [The state of Linux music players in 2026](https://crescentro.se/posts/linux-music-players-2026/)
 * [2026-01-27, 07:06:25](https://news.ycombinator.com/item?id=46776454) - [Russia using Interpol's wanted list to target critics abroad, leak reveals](https://www.bbc.com/news/articles/c20gg729y1yo)
+* [2026-01-27, 06:46:57](https://news.ycombinator.com/item?id=46776330) - [Ask HN: Notification Overload](https://news.ycombinator.com/item?id=46776330)
 * [2026-01-27, 06:38:15](https://news.ycombinator.com/item?id=46776272) - [France passes bill to ban social media use by under-15s](https://www.rte.ie/news/europe/2026/0127/1555251-france-social-media-ban/)
 * [2026-01-27, 06:17:46](https://news.ycombinator.com/item?id=46776155) - [Doing the thing is doing the thing](https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing)
 * [2026-01-27, 05:42:27](https://news.ycombinator.com/item?id=46775961) - [Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model](https://www.kimi.com/blog/kimi-k2-5.html)
