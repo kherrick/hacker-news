@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-30, 07:00:08",
+      "https://news.ycombinator.com/item?id=46821326"
+    ],
+    [
+      "Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris",
+      "https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9"
+    ]
+  ],
+  [
+    [
       "2026-01-30, 04:17:38",
       "https://news.ycombinator.com/item?id=46820468"
     ],
@@ -31,12 +41,32 @@
   ],
   [
     [
+      "2026-01-30, 02:16:21",
+      "https://news.ycombinator.com/item?id=46819809"
+    ],
+    [
+      "Two days of oatmeal reduce cholesterol level",
+      "https://www.uni-bonn.de/en/news/017-2026"
+    ]
+  ],
+  [
+    [
       "2026-01-29, 23:06:34",
       "https://news.ycombinator.com/item?id=46818154"
     ],
     [
       "Software is mostly all you need",
       "https://softwarefordays.com/post/software-is-mostly-all-you-need/"
+    ]
+  ],
+  [
+    [
+      "2026-01-29, 22:49:40",
+      "https://news.ycombinator.com/item?id=46817963"
+    ],
+    [
+      "Employers, please use postmarked letters for job applications (2025)",
+      "https://soapstone.mradford.com/employers-use-letters-for-job-applications/"
     ]
   ],
   [
@@ -51,22 +81,22 @@
   ],
   [
     [
-      "2026-01-29, 22:34:54",
-      "https://news.ycombinator.com/item?id=46817764"
-    ],
-    [
-      "Cutting Up Curved Things",
-      "https://campedersen.com/tessellation"
-    ]
-  ],
-  [
-    [
       "2026-01-29, 22:10:07",
       "https://news.ycombinator.com/item?id=46817452"
     ],
     [
       "Backseat Software",
       "https://blog.mikeswanson.com/backseat-software/"
+    ]
+  ],
+  [
+    [
+      "2026-01-29, 21:02:31",
+      "https://news.ycombinator.com/item?id=46816539"
+    ],
+    [
+      "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "https://openai.com/index/retiring-gpt-4o-and-older-models/"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-01-29, 18:48:09",
-      "https://news.ycombinator.com/item?id=46814614"
-    ],
-    [
-      "County pays $600k to pentesters it arrested for assessing courthouse security",
-      "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/"
-    ]
-  ],
-  [
-    [
       "2026-01-29, 18:45:27",
       "https://news.ycombinator.com/item?id=46814569"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-01-29, 17:00:42",
-      "https://news.ycombinator.com/item?id=46812892"
-    ],
-    [
-      "Reflex (YC W23) Senior Software Engineer Infra",
-      "https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra"
-    ]
-  ],
-  [
-    [
       "2026-01-29, 16:42:33",
       "https://news.ycombinator.com/item?id=46812608"
     ],
@@ -157,16 +167,6 @@
     [
       "Is the RAM shortage killing small VPS hosts?",
       "https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 14:51:56",
-      "https://news.ycombinator.com/item?id=46810950"
-    ],
-    [
-      "Deep dive into Turso, the “SQLite rewrite in Rust”",
-      "https://kerkour.com/turso-sqlite"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2026-01-27, 18:45:56",
-      "https://news.ycombinator.com/item?id=46784421"
-    ],
-    [
-      "The most dangerous code: Validating SSL certs in non-browser software (2012) [pdf]",
-      "https://www.cs.cornell.edu/~shmat/shmat_ccs12.pdf"
-    ]
-  ],
-  [
-    [
       "2026-01-27, 18:33:05",
       "https://news.ycombinator.com/item?id=46784221"
     ],
@@ -267,6 +257,16 @@
     [
       "Nannou – A creative coding framework for Rust",
       "https://github.com/nannou-org/nannou"
+    ]
+  ],
+  [
+    [
+      "2026-01-27, 15:02:01",
+      "https://news.ycombinator.com/item?id=46780891"
+    ],
+    [
+      "Doin' It with a 555: One Chip to Rule Them All",
+      "https://aashvik.com/posts/555-revolution/"
     ]
   ],
   [
