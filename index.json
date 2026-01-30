@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-30, 13:23:53",
+      "https://news.ycombinator.com/item?id=46824098"
+    ],
+    [
+      "Wisconsin communities signed secrecy deals for billion-dollar data centers",
+      "https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 13:13:11",
+      "https://news.ycombinator.com/item?id=46824017"
+    ],
+    [
+      "Norway EV Push Nears 100 Percent: What's Next?",
+      "https://spectrum.ieee.org/norway-ev-policy-electric-vehicles"
+    ]
+  ],
+  [
+    [
       "2026-01-30, 12:11:49",
       "https://news.ycombinator.com/item?id=46823544"
     ],
@@ -21,12 +41,32 @@
   ],
   [
     [
+      "2026-01-30, 12:05:50",
+      "https://news.ycombinator.com/item?id=46823485"
+    ],
+    [
+      "Code is cheap. Show me the talk",
+      "https://nadh.in/blog/code-is-cheap/"
+    ]
+  ],
+  [
+    [
       "2026-01-30, 11:52:46",
       "https://news.ycombinator.com/item?id=46823358"
     ],
     [
       "Track Your Routine – Open-source app for task management",
       "https://github.com/MSF01/TYR"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 10:48:18",
+      "https://news.ycombinator.com/item?id=46822856"
+    ],
+    [
+      "Potentially Critical RCE Vulnerability in OpenSSL",
+      "https://research.jfrog.com/post/potential-rce-vulnerabilityin-openssl-cve-2025-15467/"
     ]
   ],
   [
@@ -201,52 +241,12 @@
   ],
   [
     [
-      "2026-01-29, 13:36:54",
-      "https://news.ycombinator.com/item?id=46810027"
-    ],
-    [
-      "A lot of population numbers are fake",
-      "https://davidoks.blog/p/a-lot-of-population-numbers-are-fake"
-    ]
-  ],
-  [
-    [
       "2026-01-29, 13:08:11",
       "https://news.ycombinator.com/item?id=46809708"
     ],
     [
       "AGENTS.md outperforms skills in our agent evals",
       "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 22:24:33",
-      "https://news.ycombinator.com/item?id=46787959"
-    ],
-    [
-      "The paper model houses of Peter Fritz (2013)",
-      "https://socks-studio.com/2013/12/06/the-imaginary-town-of-an-unconscious-architect-the-387-paper-models-houses-of-peter-fritz/"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 22:07:29",
-      "https://news.ycombinator.com/item?id=46787693"
-    ],
-    [
-      "Spacecurve: A space-filling curve playground",
-      "https://corte.si/posts/spacecurve/announce/"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 18:27:01",
-      "https://news.ycombinator.com/item?id=46784130"
-    ],
-    [
-      "Nannou – A creative coding framework for Rust",
-      "https://github.com/nannou-org/nannou"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-01-27, 05:28:22",
-      "https://news.ycombinator.com/item?id=46775875"
-    ],
-    [
-      "A History of Haggis (2019)",
-      "https://www.historytoday.com/archive/historians-cookbook/history-haggis"
-    ]
-  ],
-  [
-    [
       "2026-01-27, 00:08:33",
       "https://news.ycombinator.com/item?id=46773655"
     ],
@@ -297,6 +287,16 @@
     [
       "Long-hidden Leonardo mural opens to the public ahead of 2026 Milan Olympics",
       "https://news.artnet.com/art-world/leonardo-sforza-castle-olympics-2739171"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 18:32:47",
+      "https://news.ycombinator.com/item?id=46769606"
+    ],
+    [
+      "Godot 4.6 Release: It's all about your flow",
+      "https://godotengine.org/releases/4.6/"
     ]
   ]
 ]
