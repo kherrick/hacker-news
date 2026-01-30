@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 21:15:57](https://news.ycombinator.com/item?id=46830013) - [How I built my own secure version of Clawdbot](https://medium.com/ai-native-enterprise/how-i-built-my-own-enterprise-grade-clawdbot-without-the-security-nightmares-00ae01193280)
+* [2026-01-30, 21:06:28](https://news.ycombinator.com/item?id=46829887) - [DHS ramps up surveillance in immigration raids, sweeping in citizens](https://apnews.com/article/digital-crackdown-immigration-minneapolis-trump-52662450a15a7be8d9df69036f9b5f12)
 * [2026-01-30, 20:40:00](https://news.ycombinator.com/item?id=46829582) - [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)
+* [2026-01-30, 20:37:48](https://news.ycombinator.com/item?id=46829548) - [Silver plunges 30% in worst day since 1980, gold tumbles](https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html)
 * [2026-01-30, 20:05:24](https://news.ycombinator.com/item?id=46829147) - [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
 * [2026-01-30, 19:38:44](https://news.ycombinator.com/item?id=46828881) - [A judge gave the FBI permission to attempt to bypass biometrics](https://theintercept.com/2026/01/30/washington-post-hannah-natanson-fbi-biometrics-unlock-phone/)
 * [2026-01-30, 19:04:28](https://news.ycombinator.com/item?id=46828482) - [Videogame stocks slide after Google's Project Genie AI model release](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)
