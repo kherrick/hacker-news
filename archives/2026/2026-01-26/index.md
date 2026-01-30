@@ -58,6 +58,7 @@
 * [2026-01-26, 13:01:00](https://news.ycombinator.com/item?id=46765120) - [Vibe Coding Kills Open Source](https://arxiv.org/abs/2601.15494)
 * [2026-01-26, 12:57:43](https://news.ycombinator.com/item?id=46765092) - [Water 'Bankruptcy' Era Has Begun for Billions, Scientists Say](https://www.bloomberg.com/news/articles/2026-01-20/water-bankruptcy-era-has-begun-for-billions-scientists-say)
 * [2026-01-26, 11:16:17](https://news.ycombinator.com/item?id=46764284) - [Show HN: Posts p/month more than doubled in the last year](https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/)
+* [2026-01-26, 11:08:16](https://news.ycombinator.com/item?id=46764228) - [Joel Spolsky: Painless Software Schedules (2000)](https://www.joelonsoftware.com/2000/03/29/painless-software-schedules/)
 * [2026-01-26, 11:07:26](https://news.ycombinator.com/item?id=46764223) - [TSMC Risk](https://stratechery.com/2026/tsmc-risk/)
 * [2026-01-26, 11:00:44](https://news.ycombinator.com/item?id=46764170) - [Show HN: Only 1 LLM can fly a drone](https://github.com/kxzk/snapbench)
 * [2026-01-26, 10:19:51](https://news.ycombinator.com/item?id=46763864) - [MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/)
