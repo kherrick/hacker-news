@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 20:05:24](https://news.ycombinator.com/item?id=46829147) - [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
+* [2026-01-30, 19:38:44](https://news.ycombinator.com/item?id=46828881) - [A judge gave the FBI permission to attempt to bypass biometrics](https://theintercept.com/2026/01/30/washington-post-hannah-natanson-fbi-biometrics-unlock-phone/)
 * [2026-01-30, 19:04:28](https://news.ycombinator.com/item?id=46828482) - [Videogame stocks slide after Google's Project Genie AI model release](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)
 * [2026-01-30, 18:14:44](https://news.ycombinator.com/item?id=46827826) - [Amazon's Spending on 'Melania' Is a Barely Concealed Bribe](https://daringfireball.net/linked/2026/01/29/amazon-melania-spending)
 * [2026-01-30, 18:07:02](https://news.ycombinator.com/item?id=46827731) - [ClawdBot Skills ganked all my crypto](https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto)
@@ -27,6 +29,7 @@
 * [2026-01-30, 12:11:49](https://news.ycombinator.com/item?id=46823544) - [Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)](https://docs.pangolin.net/careers/join-us)
 * [2026-01-30, 12:07:26](https://news.ycombinator.com/item?id=46823498) - [Show HN: Cicada – a scripting language that integrates with C](https://github.com/heltilda/cicada)
 * [2026-01-30, 12:05:50](https://news.ycombinator.com/item?id=46823485) - [Code is cheap. Show me the talk](https://nadh.in/blog/code-is-cheap/)
+* [2026-01-30, 12:01:36](https://news.ycombinator.com/item?id=46823445) - [Email experiments: filtering out external images](https://www.terracrypt.net/posts/email-experiments-image-filtering.html)
 * [2026-01-30, 11:52:46](https://news.ycombinator.com/item?id=46823358) - [Track Your Routine – Open-source app for task management](https://github.com/MSF01/TYR)
 * [2026-01-30, 10:48:18](https://news.ycombinator.com/item?id=46822856) - [Potentially Critical RCE Vulnerability in OpenSSL](https://research.jfrog.com/post/potential-rce-vulnerabilityin-openssl-cve-2025-15467/)
 * [2026-01-30, 10:14:31](https://news.ycombinator.com/item?id=46822632) - [Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor](https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/)
