@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-01-30, 00:28:39",
+      "https://news.ycombinator.com/item?id=46819000"
+    ],
+    [
+      "9front OS",
+      "https://9front.org/"
+    ]
+  ],
+  [
+    [
       "2026-01-29, 23:06:34",
       "https://news.ycombinator.com/item?id=46818154"
     ],
     [
-      "What the Success of Coding Agents Teaches Us about AI Systems in General",
+      "Software is mostly all you need",
       "https://softwarefordays.com/post/software-is-mostly-all-you-need/"
     ]
   ],
@@ -25,18 +35,8 @@
       "https://news.ycombinator.com/item?id=46817764"
     ],
     [
-      "Cutting Up Curved Things (With Math)",
+      "Cutting Up Curved Things",
       "https://campedersen.com/tessellation"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 21:02:31",
-      "https://news.ycombinator.com/item?id=46816539"
-    ],
-    [
-      "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
-      "https://openai.com/index/retiring-gpt-4o-and-older-models/"
     ]
   ],
   [
@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2026-01-29, 18:00:10",
+      "https://news.ycombinator.com/item?id=46813834"
+    ],
+    [
+      "AI's impact on engineering jobs may be different than expected",
+      "https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/"
+    ]
+  ],
+  [
+    [
       "2026-01-29, 17:02:39",
       "https://news.ycombinator.com/item?id=46812933"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-01-29, 16:19:19",
-      "https://news.ycombinator.com/item?id=46812285"
-    ],
-    [
-      "Show HN: Kolibri, a DIY music club in Sweden",
-      "https://kolibrinkpg.com/"
-    ]
-  ],
-  [
-    [
       "2026-01-29, 16:12:19",
       "https://news.ycombinator.com/item?id=46812173"
     ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=46812159"
     ],
     [
-      "Drug trio found to block tumour resistance in pancreatic cancer",
+      "Drug trio found to block tumour resistance in pancreatic cancer in mouse models",
       "https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/"
     ]
   ],
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=46810828"
     ],
     [
-      "Run Clawdbot/Moltbot on Cloudflare with Moltworker",
+      "Moltworker: a self-hosted personal AI agent, minus the minis",
       "https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/"
     ]
   ],
@@ -235,28 +235,28 @@
       "https://news.ycombinator.com/item?id=46809708"
     ],
     [
-      "Compressed Agents.md > Agent Skills",
+      "AGENTS.md outperforms skills in our agent evals",
       "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals"
     ]
   ],
   [
     [
-      "2026-01-26, 01:09:14",
-      "https://news.ycombinator.com/item?id=46760546"
+      "2026-01-28, 18:18:16",
+      "https://news.ycombinator.com/item?id=46799402"
     ],
     [
-      "Usenet personality",
-      "https://en.wikipedia.org/wiki/Usenet_personality"
+      "Show HN: I'm building an AI-proof writing tool. How would you defeat it?",
+      "https://auth-auth.vercel.app/"
     ]
   ],
   [
     [
-      "2026-01-25, 22:03:24",
-      "https://news.ycombinator.com/item?id=46758868"
+      "2026-01-27, 06:46:57",
+      "https://news.ycombinator.com/item?id=46776330"
     ],
     [
-      "The passive in English (2011)",
-      "https://languagelog.ldc.upenn.edu/nll/?p=2922"
+      "Ask HN: Notification Overload",
+      "https://news.ycombinator.com/item?id=46776330"
     ]
   ],
   [
