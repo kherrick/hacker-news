@@ -1,22 +1,32 @@
 [
   [
     [
-      "2026-01-30, 02:16:21",
-      "https://news.ycombinator.com/item?id=46819809"
+      "2026-01-30, 04:17:38",
+      "https://news.ycombinator.com/item?id=46820468"
     ],
     [
-      "Two days of oatmeal reduce cholesterol level",
-      "https://www.uni-bonn.de/en/news/017-2026"
+      "The Dank Case for Scrolling Window Managers",
+      "https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/"
     ]
   ],
   [
     [
-      "2026-01-30, 00:28:39",
-      "https://news.ycombinator.com/item?id=46819000"
+      "2026-01-30, 03:55:34",
+      "https://news.ycombinator.com/item?id=46820360"
     ],
     [
-      "9front OS",
-      "https://9front.org/"
+      "Moltbook",
+      "https://www.moltbook.com/"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 03:11:43",
+      "https://news.ycombinator.com/item?id=46820113"
+    ],
+    [
+      "Stargaze: SpaceX's Space Situational Awareness System",
+      "https://starlink.com/updates/stargaze"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46817813"
     ],
     [
-      "Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer",
+      "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
       "https://grid.space/stem/"
     ]
   ],
@@ -67,16 +77,6 @@
     [
       "The WiFi only works when it's raining (2024)",
       "https://predr.ag/blog/wifi-only-works-when-its-raining/"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 19:45:12",
-      "https://news.ycombinator.com/item?id=46815527"
-    ],
-    [
-      "The Hallucination Defense",
-      "https://niyikiza.com/posts/hallucination-defense/"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2026-01-29, 16:11:04",
-      "https://news.ycombinator.com/item?id=46812159"
-    ],
-    [
-      "Drug trio found to block tumour resistance in pancreatic cancer in mouse models",
-      "https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/"
-    ]
-  ],
-  [
-    [
       "2026-01-29, 15:42:57",
       "https://news.ycombinator.com/item?id=46811664"
     ],
@@ -177,16 +167,6 @@
     [
       "Deep dive into Turso, the “SQLite rewrite in Rust”",
       "https://kerkour.com/turso-sqlite"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 14:49:08",
-      "https://news.ycombinator.com/item?id=46810904"
-    ],
-    [
-      "How to choose colors for your CLI applications (2023)",
-      "https://blog.xoria.org/terminal-colors/"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2026-01-27, 22:24:33",
+      "https://news.ycombinator.com/item?id=46787959"
+    ],
+    [
+      "The paper model houses of Peter Fritz (2013)",
+      "https://socks-studio.com/2013/12/06/the-imaginary-town-of-an-unconscious-architect-the-387-paper-models-houses-of-peter-fritz/"
+    ]
+  ],
+  [
+    [
       "2026-01-27, 21:02:36",
       "https://news.ycombinator.com/item?id=46786672"
     ],
@@ -251,52 +241,62 @@
   ],
   [
     [
-      "2026-01-25, 10:31:14",
-      "https://news.ycombinator.com/item?id=46752754"
+      "2026-01-27, 18:45:56",
+      "https://news.ycombinator.com/item?id=46784421"
     ],
     [
-      "The Value of Things",
-      "https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/"
+      "The most dangerous code: Validating SSL certs in non-browser software (2012) [pdf]",
+      "https://www.cs.cornell.edu/~shmat/shmat_ccs12.pdf"
     ]
   ],
   [
     [
-      "2026-01-25, 06:51:49",
-      "https://news.ycombinator.com/item?id=46751460"
+      "2026-01-27, 18:33:05",
+      "https://news.ycombinator.com/item?id=46784221"
     ],
     [
-      "Box64 Expands into RISC-V and LoongArch territory",
-      "https://boilingsteam.com/box64-expands-into-risc-v-and-loong-arch-territory/"
+      "Show HN: Mystral Native – Run JavaScript games natively with WebGPU (no browser)",
+      "https://github.com/mystralengine/mystralnative"
     ]
   ],
   [
     [
-      "2026-01-24, 19:59:05",
-      "https://news.ycombinator.com/item?id=46747078"
+      "2026-01-27, 18:27:01",
+      "https://news.ycombinator.com/item?id=46784130"
     ],
     [
-      "Propositions about the New Romanticism",
-      "https://www.honest-broker.com/p/25-propositions-about-the-new-romanticism"
+      "Nannou – A creative coding framework for Rust",
+      "https://github.com/nannou-org/nannou"
     ]
   ],
   [
     [
-      "2026-01-23, 17:17:40",
-      "https://news.ycombinator.com/item?id=46735023"
+      "2026-01-26, 20:45:42",
+      "https://news.ycombinator.com/item?id=46771272"
     ],
     [
-      "Where to Sleep in LAX",
-      "https://cadence.moe/blog/2025-12-30-where-to-sleep-in-lax"
+      "Skapa, a parametric 3D printing app like an IKEA manual (2025)",
+      "https://nmattia.com/posts/2025-03-24-skapa-intro/"
     ]
   ],
   [
     [
-      "2026-01-23, 06:26:40",
-      "https://news.ycombinator.com/item?id=46729139"
+      "2026-01-26, 19:35:30",
+      "https://news.ycombinator.com/item?id=46770411"
     ],
     [
-      "EmulatorJS",
-      "https://github.com/EmulatorJS/EmulatorJS"
+      "The Home Computer Hybrids: Atari, TI, and the FCC",
+      "https://technicshistory.com/2026/01/25/the-home-computer-hybrids/"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 18:19:45",
+      "https://news.ycombinator.com/item?id=46769422"
+    ],
+    [
+      "Show HN: Ourguide – OS wide task guidance system that shows you where to click",
+      "https://ourguide.ai"
     ]
   ]
 ]
