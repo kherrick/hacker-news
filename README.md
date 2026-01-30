@@ -16,7 +16,7 @@
 * [2026-01-30, 12:11:49](https://news.ycombinator.com/item?id=46823544) - [Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)](https://docs.pangolin.net/careers/join-us)
 * [2026-01-30, 12:05:50](https://news.ycombinator.com/item?id=46823485) - [Code is cheap. Show me the talk](https://nadh.in/blog/code-is-cheap/)
 * [2026-01-30, 12:01:36](https://news.ycombinator.com/item?id=46823445) - [Email experiments: filtering out external images](https://www.terracrypt.net/posts/email-experiments-image-filtering.html)
-* [2026-01-30, 08:09:41](https://news.ycombinator.com/item?id=46821774) - [GOG: Linux \"the next major frontier\" for gaming as it works on a native client](https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/)
+* [2026-01-30, 10:14:23](https://news.ycombinator.com/item?id=46822630) - [Surely the crash of the US economy has to be soon](https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/)
 * [2026-01-30, 06:19:36](https://news.ycombinator.com/item?id=46821134) - [Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/)
 * [2026-01-30, 03:55:34](https://news.ycombinator.com/item?id=46820360) - [Moltbook](https://www.moltbook.com/)
 * [2026-01-29, 21:11:41](https://news.ycombinator.com/item?id=46816644) - [Building docs like a product](https://emschwartz.me/building-docs-like-a-product/)
