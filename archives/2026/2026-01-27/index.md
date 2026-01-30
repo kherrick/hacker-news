@@ -6,6 +6,7 @@
 
 * [2026-01-27, 22:58:30](https://news.ycombinator.com/item?id=46788384) - [Notes on Starting to Use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/)
 * [2026-01-27, 22:24:33](https://news.ycombinator.com/item?id=46787959) - [The paper model houses of Peter Fritz (2013)](https://socks-studio.com/2013/12/06/the-imaginary-town-of-an-unconscious-architect-the-387-paper-models-houses-of-peter-fritz/)
+* [2026-01-27, 22:07:29](https://news.ycombinator.com/item?id=46787693) - [Spacecurve: A space-filling curve playground](https://corte.si/posts/spacecurve/announce/)
 * [2026-01-27, 21:54:29](https://news.ycombinator.com/item?id=46787521) - [Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son](https://www.web3isgoinggreat.com/single/lick-theft)
 * [2026-01-27, 21:02:36](https://news.ycombinator.com/item?id=46786672) - [CISA’s acting head uploaded sensitive files into public version of ChatGPT](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361)
 * [2026-01-27, 20:59:49](https://news.ycombinator.com/item?id=46786618) - [Show HN: I Wrapped the Zorks with an LLM](https://infocom.tambo.co/)
