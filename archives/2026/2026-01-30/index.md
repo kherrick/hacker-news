@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 18:14:44](https://news.ycombinator.com/item?id=46827826) - [Amazon's Spending on 'Melania' Is a Barely Concealed Bribe](https://daringfireball.net/linked/2026/01/29/amazon-melania-spending)
 * [2026-01-30, 17:12:39](https://news.ycombinator.com/item?id=46827003) - [Microsoft Just Killed the \"Cover for Me\" Excuse: 365 Now Tracks You in Real-Time](https://ztechtalk.com/microsoft-teams)
+* [2026-01-30, 17:09:35](https://news.ycombinator.com/item?id=46826963) - [Moltbook is the most interesting place on the internet](https://simonwillison.net/2026/Jan/30/moltbook/)
 * [2026-01-30, 16:03:34](https://news.ycombinator.com/item?id=46826017) - [Detecting Dementia Using Lexical Analysis: Terry Pratchett's Discworld](https://www.mdpi.com/2076-3425/16/1/94)
 * [2026-01-30, 15:50:15](https://news.ycombinator.com/item?id=46825828) - [Lemonade Autonomous Car Insurance (With Tesla FSD Discount)](https://www.lemonade.com/car/explained/self-driving-car-insurance/)
 * [2026-01-30, 15:19:28](https://news.ycombinator.com/item?id=46825415) - [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)

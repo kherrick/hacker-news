@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-30, 18:14:44](https://news.ycombinator.com/item?id=46827826) - [Amazon's Spending on 'Melania' Is a Barely Concealed Bribe](https://daringfireball.net/linked/2026/01/29/amazon-melania-spending)
 * [2026-01-30, 17:12:39](https://news.ycombinator.com/item?id=46827003) - [Microsoft Just Killed the \"Cover for Me\" Excuse: 365 Now Tracks You in Real-Time](https://ztechtalk.com/microsoft-teams)
+* [2026-01-30, 17:09:35](https://news.ycombinator.com/item?id=46826963) - [Moltbook is the most interesting place on the internet](https://simonwillison.net/2026/Jan/30/moltbook/)
 * [2026-01-30, 16:03:34](https://news.ycombinator.com/item?id=46826017) - [Detecting Dementia Using Lexical Analysis: Terry Pratchett's Discworld](https://www.mdpi.com/2076-3425/16/1/94)
-* [2026-01-30, 15:50:15](https://news.ycombinator.com/item?id=46825828) - [Lemonade Autonomous Car Insurance (With Tesla FSD Discount)](https://www.lemonade.com/car/explained/self-driving-car-insurance/)
 * [2026-01-30, 15:19:28](https://news.ycombinator.com/item?id=46825415) - [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)
 * [2026-01-30, 15:04:36](https://news.ycombinator.com/item?id=46825200) - [HumanConsumption.Live – Real-Time Global Animal Consumption Stats](https://www.humanconsumption.live/)
 * [2026-01-30, 14:34:32](https://news.ycombinator.com/item?id=46824877) - [Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents](https://github.com/amlalabs/amla-sandbox)
@@ -17,7 +18,6 @@
 * [2026-01-30, 05:41:23](https://news.ycombinator.com/item?id=46820924) - [How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)
 * [2026-01-30, 05:14:48](https://news.ycombinator.com/item?id=46820783) - [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)
 * [2026-01-30, 03:55:34](https://news.ycombinator.com/item?id=46820360) - [Moltbook](https://www.moltbook.com/)
-* [2026-01-30, 03:11:43](https://news.ycombinator.com/item?id=46820113) - [Stargaze: SpaceX's Space Situational Awareness System](https://starlink.com/updates/stargaze)
 * [2026-01-29, 22:38:57](https://news.ycombinator.com/item?id=46817813) - [Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
 * [2026-01-29, 21:02:31](https://news.ycombinator.com/item?id=46816539) - [Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT](https://openai.com/index/retiring-gpt-4o-and-older-models/)
 * [2026-01-29, 18:55:38](https://news.ycombinator.com/item?id=46814743) - [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
