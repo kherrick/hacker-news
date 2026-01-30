@@ -7,6 +7,7 @@
 * [2026-01-29, 23:06:34](https://news.ycombinator.com/item?id=46818154) - [What the Success of Coding Agents Teaches Us about AI Systems in General](https://softwarefordays.com/post/software-is-mostly-all-you-need/)
 * [2026-01-29, 22:38:57](https://news.ycombinator.com/item?id=46817813) - [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
 * [2026-01-29, 22:34:54](https://news.ycombinator.com/item?id=46817764) - [Cutting Up Curved Things (With Math)](https://campedersen.com/tessellation)
+* [2026-01-29, 22:10:07](https://news.ycombinator.com/item?id=46817452) - [Backseat Software](https://blog.mikeswanson.com/backseat-software/)
 * [2026-01-29, 21:51:52](https://news.ycombinator.com/item?id=46817187) - [EFF to Close Friday in Solidarity with National Shutdown](https://www.eff.org/deeplinks/2026/01/eff-close-friday-solidarity-national-shutdown)
 * [2026-01-29, 21:02:31](https://news.ycombinator.com/item?id=46816539) - [Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT](https://openai.com/index/retiring-gpt-4o-and-older-models/)
 * [2026-01-29, 20:49:04](https://news.ycombinator.com/item?id=46816378) - [iPhone 16 Best-Selling Smartphone in 2025; Apple Takes 7 Spots in Top Models](https://counterpointresearch.com/en/insights/iphone-16-worlds-best-selling-smartphone-in-2025-apple-takes-7-spots-in-top-10-models)
