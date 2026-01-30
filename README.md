@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-30, 10:14:31](https://news.ycombinator.com/item?id=46822632) - [Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor](https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/)
-* [2026-01-30, 10:14:23](https://news.ycombinator.com/item?id=46822630) - [Surely the crash of the US economy has to be soon](https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/)
 * [2026-01-30, 08:09:41](https://news.ycombinator.com/item?id=46821774) - [GOG: Linux \"the next major frontier\" for gaming as it works on a native client](https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/)
 * [2026-01-30, 07:06:47](https://news.ycombinator.com/item?id=46821360) - [How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
 * [2026-01-30, 07:00:08](https://news.ycombinator.com/item?id=46821326) - [Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris](https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9)
@@ -20,6 +19,7 @@
 * [2026-01-29, 18:45:27](https://news.ycombinator.com/item?id=46814569) - [My Mom and Dr. DeepSeek (2025)](https://restofworld.org/2025/ai-chatbot-china-sick/)
 * [2026-01-29, 17:02:39](https://news.ycombinator.com/item?id=46812933) - [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
 * [2026-01-29, 13:59:07](https://news.ycombinator.com/item?id=46810282) - [Claude Code daily benchmarks for degradation tracking](https://marginlab.ai/trackers/claude-code/)
+* [2026-01-29, 13:36:54](https://news.ycombinator.com/item?id=46810027) - [A lot of population numbers are fake](https://davidoks.blog/p/a-lot-of-population-numbers-are-fake)
 * [2026-01-29, 13:08:11](https://news.ycombinator.com/item?id=46809708) - [AGENTS.md outperforms skills in our agent evals](https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals)
 * [2026-01-27, 22:24:33](https://news.ycombinator.com/item?id=46787959) - [The paper model houses of Peter Fritz (2013)](https://socks-studio.com/2013/12/06/the-imaginary-town-of-an-unconscious-architect-the-387-paper-models-houses-of-peter-fritz/)
 * [2026-01-27, 22:07:29](https://news.ycombinator.com/item?id=46787693) - [Spacecurve: A space-filling curve playground](https://corte.si/posts/spacecurve/announce/)
