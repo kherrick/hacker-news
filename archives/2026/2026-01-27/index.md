@@ -47,6 +47,7 @@
 * [2026-01-27, 15:45:45](https://news.ycombinator.com/item?id=46781516) - [Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't](https://tech.lgbt/@JadedBlueEyes/115967791152135761)
 * [2026-01-27, 15:41:14](https://news.ycombinator.com/item?id=46781444) - [Amazon Closing Fresh and Go Stores](https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html)
 * [2026-01-27, 15:16:34](https://news.ycombinator.com/item?id=46781090) - [Show HN: Fuzzy Studio – Apply live effects to videos/camera](https://fuzzy.ulyssepence.com/)
+* [2026-01-27, 15:02:01](https://news.ycombinator.com/item?id=46780891) - [Doin' It with a 555: One Chip to Rule Them All](https://aashvik.com/posts/555-revolution/)
 * [2026-01-27, 14:32:42](https://news.ycombinator.com/item?id=46780451) - [Windows 11 January Update Breaks Notepad](https://winbuzzer.com/2026/01/22/windows-11-january-update-breaks-notepad-snipping-tool-and-other-apps-xcxwbn/)
 * [2026-01-27, 14:05:48](https://news.ycombinator.com/item?id=46780065) - [The age of Pump and Dump software](https://tautvilas.medium.com/software-pump-and-dump-c8a9a73d313b)
 * [2026-01-27, 14:00:21](https://news.ycombinator.com/item?id=46779994) - [Show HN: We Built the 1. EU-Sovereignty Audit for Websites](https://lightwaves.io/en/eu-audit/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
 * [2026-01-29, 23:06:34](https://news.ycombinator.com/item?id=46818154) - [What the Success of Coding Agents Teaches Us about AI Systems in General](https://softwarefordays.com/post/software-is-mostly-all-you-need/)
+* [2026-01-29, 22:49:40](https://news.ycombinator.com/item?id=46817963) - [Employers, please use postmarked letters for job applications (2025)](https://soapstone.mradford.com/employers-use-letters-for-job-applications/)
 * [2026-01-29, 22:38:57](https://news.ycombinator.com/item?id=46817813) - [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
 * [2026-01-29, 22:34:54](https://news.ycombinator.com/item?id=46817764) - [Cutting Up Curved Things (With Math)](https://campedersen.com/tessellation)
 * [2026-01-29, 22:10:07](https://news.ycombinator.com/item?id=46817452) - [Backseat Software](https://blog.mikeswanson.com/backseat-software/)
