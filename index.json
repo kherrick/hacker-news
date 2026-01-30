@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-30, 14:08:58",
+      "https://news.ycombinator.com/item?id=46824558"
+    ],
+    [
+      "Former CNN journalist Don Lemon arrested in connection with Minnesota protest",
+      "https://abcnews.go.com/US/don-lemon-arrested-connection-minnesota-protest-sources/story?id=129699476"
+    ]
+  ],
+  [
+    [
       "2026-01-30, 13:23:53",
       "https://news.ycombinator.com/item?id=46824098"
     ],
@@ -57,16 +67,6 @@
     [
       "Track Your Routine – Open-source app for task management",
       "https://github.com/MSF01/TYR"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 10:48:18",
-      "https://news.ycombinator.com/item?id=46822856"
-    ],
-    [
-      "Potentially Critical RCE Vulnerability in OpenSSL",
-      "https://research.jfrog.com/post/potential-rce-vulnerabilityin-openssl-cve-2025-15467/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Stargaze: SpaceX's Space Situational Awareness System",
       "https://starlink.com/updates/stargaze"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 02:16:21",
-      "https://news.ycombinator.com/item?id=46819809"
-    ],
-    [
-      "Two days of oatmeal reduce cholesterol level",
-      "https://www.uni-bonn.de/en/news/017-2026"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "AGENTS.md outperforms skills in our agent evals",
       "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals"
+    ]
+  ],
+  [
+    [
+      "2026-01-27, 22:07:29",
+      "https://news.ycombinator.com/item?id=46787693"
+    ],
+    [
+      "Spacecurve: A space-filling curve playground",
+      "https://corte.si/posts/spacecurve/announce/"
     ]
   ],
   [
