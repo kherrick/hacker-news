@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 20:40:00](https://news.ycombinator.com/item?id=46829582) - [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)
 * [2026-01-30, 20:05:24](https://news.ycombinator.com/item?id=46829147) - [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
 * [2026-01-30, 19:38:44](https://news.ycombinator.com/item?id=46828881) - [A judge gave the FBI permission to attempt to bypass biometrics](https://theintercept.com/2026/01/30/washington-post-hannah-natanson-fbi-biometrics-unlock-phone/)
 * [2026-01-30, 19:04:28](https://news.ycombinator.com/item?id=46828482) - [Videogame stocks slide after Google's Project Genie AI model release](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)
