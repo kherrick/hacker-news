@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-30, 15:19:28",
+      "https://news.ycombinator.com/item?id=46825415"
+    ],
+    [
+      "Buttered Crumpet, a custom typeface for Wallace and Gromit",
+      "https://jamieclarketype.com/case-study/wallace-and-gromit-font/"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 14:38:32",
+      "https://news.ycombinator.com/item?id=46824925"
+    ],
+    [
+      "Where I'm at with AI",
+      "https://paulosman.me/2026/01/18/where-im-at-with-ai/"
+    ]
+  ],
+  [
+    [
       "2026-01-30, 14:34:32",
       "https://news.ycombinator.com/item?id=46824877"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2026-01-30, 13:13:11",
-      "https://news.ycombinator.com/item?id=46824017"
-    ],
-    [
-      "Norway EV Push Nears 100 Percent: What's Next?",
-      "https://spectrum.ieee.org/norway-ev-policy-electric-vehicles"
-    ]
-  ],
-  [
-    [
       "2026-01-30, 12:11:49",
       "https://news.ycombinator.com/item?id=46823544"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=46823498"
     ],
     [
-      "Show HN: Cicada – a scripting language that integrates with C",
+      "Show HN: Cicada – A scripting language that integrates with C",
       "https://github.com/heltilda/cicada"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=46822632"
     ],
     [
-      "Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor",
+      "Tesla’s autonomous vehicles are crashing at a rate much higher tha human drivers",
       "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/"
     ]
   ],
@@ -107,6 +117,16 @@
     [
       "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
       "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 07:06:47",
+      "https://news.ycombinator.com/item?id=46821360"
+    ],
+    [
+      "How AI Impacts Skill Formation",
+      "https://arxiv.org/abs/2601.20245"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-01-29, 19:30:35",
-      "https://news.ycombinator.com/item?id=46815297"
-    ],
-    [
-      "Flameshot",
-      "https://github.com/flameshot-org/flameshot"
-    ]
-  ],
-  [
-    [
       "2026-01-29, 18:55:38",
       "https://news.ycombinator.com/item?id=46814743"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-01-27, 22:07:29",
-      "https://news.ycombinator.com/item?id=46787693"
-    ],
-    [
-      "Spacecurve: A space-filling curve playground",
-      "https://corte.si/posts/spacecurve/announce/"
-    ]
-  ],
-  [
-    [
       "2026-01-27, 15:02:01",
       "https://news.ycombinator.com/item?id=46780891"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-01-27, 08:03:11",
-      "https://news.ycombinator.com/item?id=46776848"
+      "2026-01-27, 00:24:56",
+      "https://news.ycombinator.com/item?id=46773793"
     ],
     [
-      "Software Pump and Dump",
-      "http://tautvilas.lt/software-pump-and-dump/"
+      "Quack-Cluster: A Serverless Distributed SQL Query Engine with DuckDB and Ray",
+      "https://github.com/kristianaryanto/Quack-Cluster"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=46759358"
     ],
     [
-      "Implementing a Tiny CPU Rasterizer",
+      "Implementing a tiny CPU rasterizer (2024)",
       "https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html"
     ]
   ]
