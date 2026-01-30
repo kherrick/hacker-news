@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 14:08:58](https://news.ycombinator.com/item?id=46824558) - [Former CNN journalist Don Lemon arrested in connection with Minnesota protest](https://abcnews.go.com/US/don-lemon-arrested-connection-minnesota-protest-sources/story?id=129699476)
 * [2026-01-30, 13:23:53](https://news.ycombinator.com/item?id=46824098) - [Wisconsin communities signed secrecy deals for billion-dollar data centers](https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers)
 * [2026-01-30, 13:13:11](https://news.ycombinator.com/item?id=46824017) - [Norway EV Push Nears 100 Percent: What's Next?](https://spectrum.ieee.org/norway-ev-policy-electric-vehicles)
 * [2026-01-30, 12:11:49](https://news.ycombinator.com/item?id=46823544) - [Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)](https://docs.pangolin.net/careers/join-us)
