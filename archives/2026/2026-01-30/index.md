@@ -18,6 +18,7 @@
 * [2026-01-30, 17:09:35](https://news.ycombinator.com/item?id=46826963) - [Moltbook is the most interesting place on the internet](https://simonwillison.net/2026/Jan/30/moltbook/)
 * [2026-01-30, 16:46:28](https://news.ycombinator.com/item?id=46826634) - [Vcad: Free BRep CAD in the Browser](https://vcad.io)
 * [2026-01-30, 16:43:50](https://news.ycombinator.com/item?id=46826597) - [Kimi K2.5 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf)
+* [2026-01-30, 16:22:05](https://news.ycombinator.com/item?id=46826277) - [Ask HN: Do you also \"hoard\" notes/links but struggle to turn them into actions?](https://news.ycombinator.com/item?id=46826277)
 * [2026-01-30, 16:03:34](https://news.ycombinator.com/item?id=46826017) - [Detecting Dementia Using Lexical Analysis: Terry Pratchett's Discworld](https://www.mdpi.com/2076-3425/16/1/94)
 * [2026-01-30, 15:50:15](https://news.ycombinator.com/item?id=46825828) - [Lemonade Autonomous Car Insurance (With Tesla FSD Discount)](https://www.lemonade.com/car/explained/self-driving-car-insurance/)
 * [2026-01-30, 15:19:28](https://news.ycombinator.com/item?id=46825415) - [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)
