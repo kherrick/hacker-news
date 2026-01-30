@@ -40,6 +40,7 @@
 * [2026-01-27, 17:04:22](https://news.ycombinator.com/item?id=46782811) - [Management as AI superpower: Thriving in a world of agentic AI](https://www.oneusefulthing.org/p/management-as-ai-superpower)
 * [2026-01-27, 17:01:37](https://news.ycombinator.com/item?id=46782763) - [Artie (YC S23) Is Hiring a Founding Recruiter](https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter)
 * [2026-01-27, 16:56:23](https://news.ycombinator.com/item?id=46782662) - [OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing](https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467)
+* [2026-01-27, 16:39:27](https://news.ycombinator.com/item?id=46782357) - [Emoji Design Convergence Review: 2018-2026](https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/)
 * [2026-01-27, 16:23:40](https://news.ycombinator.com/item?id=46782091) - [A first look at Aperture by Tailscale (private alpha)](https://tailscale.com/blog/aperture-private-alpha)
 * [2026-01-27, 15:58:05](https://news.ycombinator.com/item?id=46781707) - [Amazon to shut down Go and Fresh stores](https://www.cnn.com/2026/01/27/food/amazon-fresh-go-closures)
 * [2026-01-27, 15:58:05](https://news.ycombinator.com/item?id=46781707) - [Amazon to Shut Down All Amazon Go and Amazon Fresh Stores](https://www.wsj.com/business/retail/amazon-to-shut-down-all-amazon-go-and-amazon-fresh-stores-0301dfb7)
