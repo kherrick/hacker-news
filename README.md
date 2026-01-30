@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-30, 10:14:31](https://news.ycombinator.com/item?id=46822632) - [Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor](https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/)
 * [2026-01-30, 08:09:41](https://news.ycombinator.com/item?id=46821774) - [GOG: Linux \"the next major frontier\" for gaming as it works on a native client](https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/)
 * [2026-01-30, 07:06:47](https://news.ycombinator.com/item?id=46821360) - [How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
 * [2026-01-30, 07:00:08](https://news.ycombinator.com/item?id=46821326) - [Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris](https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9)
@@ -18,8 +19,6 @@
 * [2026-01-29, 18:55:38](https://news.ycombinator.com/item?id=46814743) - [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
 * [2026-01-29, 18:45:27](https://news.ycombinator.com/item?id=46814569) - [My Mom and Dr. DeepSeek (2025)](https://restofworld.org/2025/ai-chatbot-china-sick/)
 * [2026-01-29, 17:02:39](https://news.ycombinator.com/item?id=46812933) - [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
-* [2026-01-29, 16:42:33](https://news.ycombinator.com/item?id=46812608) - [Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes](https://news.ycombinator.com/item?id=46812608)
-* [2026-01-29, 15:42:57](https://news.ycombinator.com/item?id=46811664) - [Is the RAM shortage killing small VPS hosts?](https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/)
 * [2026-01-29, 13:59:07](https://news.ycombinator.com/item?id=46810282) - [Claude Code daily benchmarks for degradation tracking](https://marginlab.ai/trackers/claude-code/)
 * [2026-01-29, 13:36:54](https://news.ycombinator.com/item?id=46810027) - [A lot of population numbers are fake](https://davidoks.blog/p/a-lot-of-population-numbers-are-fake)
 * [2026-01-29, 13:08:11](https://news.ycombinator.com/item?id=46809708) - [AGENTS.md outperforms skills in our agent evals](https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals)
@@ -29,6 +28,7 @@
 * [2026-01-27, 18:27:01](https://news.ycombinator.com/item?id=46784130) - [Nannou – A creative coding framework for Rust](https://github.com/nannou-org/nannou)
 * [2026-01-27, 15:02:01](https://news.ycombinator.com/item?id=46780891) - [Doin' It with a 555: One Chip to Rule Them All](https://aashvik.com/posts/555-revolution/)
 * [2026-01-27, 08:03:11](https://news.ycombinator.com/item?id=46776848) - [Software Pump and Dump](http://tautvilas.lt/software-pump-and-dump/)
+* [2026-01-27, 05:28:22](https://news.ycombinator.com/item?id=46775875) - [A History of Haggis (2019)](https://www.historytoday.com/archive/historians-cookbook/history-haggis)
 * [2026-01-26, 21:12:09](https://news.ycombinator.com/item?id=46771605) - [Long-hidden Leonardo mural opens to the public ahead of 2026 Milan Olympics](https://news.artnet.com/art-world/leonardo-sforza-castle-olympics-2739171)
 
 ## [Archives](archives/index.md)
