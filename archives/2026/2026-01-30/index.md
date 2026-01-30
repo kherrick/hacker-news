@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 17:12:39](https://news.ycombinator.com/item?id=46827003) - [Microsoft Just Killed the \"Cover for Me\" Excuse: 365 Now Tracks You in Real-Time](https://ztechtalk.com/microsoft-teams)
 * [2026-01-30, 16:03:34](https://news.ycombinator.com/item?id=46826017) - [Detecting Dementia Using Lexical Analysis: Terry Pratchett's Discworld](https://www.mdpi.com/2076-3425/16/1/94)
+* [2026-01-30, 15:50:15](https://news.ycombinator.com/item?id=46825828) - [Lemonade Autonomous Car Insurance (With Tesla FSD Discount)](https://www.lemonade.com/car/explained/self-driving-car-insurance/)
 * [2026-01-30, 15:19:28](https://news.ycombinator.com/item?id=46825415) - [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)
 * [2026-01-30, 15:04:36](https://news.ycombinator.com/item?id=46825200) - [HumanConsumption.Live – Real-Time Global Animal Consumption Stats](https://www.humanconsumption.live/)
 * [2026-01-30, 14:38:32](https://news.ycombinator.com/item?id=46824925) - [Where I'm at with AI](https://paulosman.me/2026/01/18/where-im-at-with-ai/)
