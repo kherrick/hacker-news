@@ -72,6 +72,7 @@
 * [2026-01-27, 07:53:06](https://news.ycombinator.com/item?id=46776752) - [Automating Image Compression](https://www.ramijames.com/thoughts/on-automating-image-compression)
 * [2026-01-27, 07:37:56](https://news.ycombinator.com/item?id=46776643) - [Show HN: Externalized Properties, a modern Java configuration library](https://github.com/joel-jeremy/externalized-properties)
 * [2026-01-27, 07:26:36](https://news.ycombinator.com/item?id=46776564) - [The state of Linux music players in 2026](https://crescentro.se/posts/linux-music-players-2026/)
+* [2026-01-27, 07:07:06](https://news.ycombinator.com/item?id=46776459) - [Roots is a game server daemon that manages Docker containers for game servers](https://github.com/SproutPanel/roots)
 * [2026-01-27, 07:06:25](https://news.ycombinator.com/item?id=46776454) - [Russia using Interpol's wanted list to target critics abroad, leak reveals](https://www.bbc.com/news/articles/c20gg729y1yo)
 * [2026-01-27, 06:46:57](https://news.ycombinator.com/item?id=46776330) - [Ask HN: Notification Overload](https://news.ycombinator.com/item?id=46776330)
 * [2026-01-27, 06:38:15](https://news.ycombinator.com/item?id=46776272) - [France passes bill to ban social media use by under-15s](https://www.rte.ie/news/europe/2026/0127/1555251-france-social-media-ban/)
