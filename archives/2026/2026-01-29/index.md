@@ -49,6 +49,7 @@
 * [2026-01-29, 14:51:56](https://news.ycombinator.com/item?id=46810950) - [Deep dive into Turso, the \"SQLite rewrite in Rust\"](https://kerkour.com/turso-sqlite)
 * [2026-01-29, 14:49:08](https://news.ycombinator.com/item?id=46810904) - [How to Choose Colors for Your CLI Applications](https://blog.xoria.org/terminal-colors/)
 * [2026-01-29, 14:43:07](https://news.ycombinator.com/item?id=46810828) - [Run Clawdbot/Moltbot on Cloudflare with Moltworker](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
+* [2026-01-29, 14:23:22](https://news.ycombinator.com/item?id=46810576) - [How to explain Generative AI in the classroom](https://dalelane.co.uk/blog/?p=5847)
 * [2026-01-29, 14:20:21](https://news.ycombinator.com/item?id=46810536) - [Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES/AES NFC](https://www.breakmeifyoucan.com/)
 * [2026-01-29, 14:08:56](https://news.ycombinator.com/item?id=46810401) - [Waymo robotaxi hits a child near an elementary school in Santa Monica](https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/)
 * [2026-01-29, 14:03:12](https://news.ycombinator.com/item?id=46810337) - [Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809](https://ipsj.ixsq.nii.ac.jp/records/229345)
