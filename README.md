@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-01-30, 07:00:08](https://news.ycombinator.com/item?id=46821326) - [Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris](https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9)
-* [2026-01-30, 05:41:23](https://news.ycombinator.com/item?id=46820924) - [Way AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)
+* [2026-01-30, 05:41:23](https://news.ycombinator.com/item?id=46820924) - [How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)
 * [2026-01-30, 05:14:48](https://news.ycombinator.com/item?id=46820783) - [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)
 * [2026-01-30, 04:17:38](https://news.ycombinator.com/item?id=46820468) - [The Dank Case for Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/)
 * [2026-01-30, 03:55:34](https://news.ycombinator.com/item?id=46820360) - [Moltbook](https://www.moltbook.com/)
@@ -18,6 +18,7 @@
 * [2026-01-29, 17:02:39](https://news.ycombinator.com/item?id=46812933) - [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
 * [2026-01-29, 16:42:33](https://news.ycombinator.com/item?id=46812608) - [Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes](https://news.ycombinator.com/item?id=46812608)
 * [2026-01-29, 15:42:57](https://news.ycombinator.com/item?id=46811664) - [Is the RAM shortage killing small VPS hosts?](https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/)
+* [2026-01-29, 14:08:56](https://news.ycombinator.com/item?id=46810401) - [Waymo robotaxi hits a child near an elementary school in Santa Monica](https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/)
 * [2026-01-29, 13:59:07](https://news.ycombinator.com/item?id=46810282) - [Claude Code daily benchmarks for degradation tracking](https://marginlab.ai/trackers/claude-code/)
 * [2026-01-29, 13:36:54](https://news.ycombinator.com/item?id=46810027) - [A lot of population numbers are fake](https://davidoks.blog/p/a-lot-of-population-numbers-are-fake)
 * [2026-01-29, 13:08:11](https://news.ycombinator.com/item?id=46809708) - [AGENTS.md outperforms skills in our agent evals](https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals)
@@ -29,7 +30,6 @@
 * [2026-01-27, 15:02:01](https://news.ycombinator.com/item?id=46780891) - [Doin' It with a 555: One Chip to Rule Them All](https://aashvik.com/posts/555-revolution/)
 * [2026-01-26, 19:35:30](https://news.ycombinator.com/item?id=46770411) - [The Home Computer Hybrids: Atari, TI, and the FCC](https://technicshistory.com/2026/01/25/the-home-computer-hybrids/)
 * [2026-01-26, 18:19:45](https://news.ycombinator.com/item?id=46769422) - [Show HN: Ourguide – OS wide task guidance system that shows you where to click](https://ourguide.ai)
-* [2026-01-26, 01:09:14](https://news.ycombinator.com/item?id=46760546) - [Usenet personality](https://en.wikipedia.org/wiki/Usenet_personality)
 
 ## [Archives](archives/index.md)
 
