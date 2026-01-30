@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-30, 14:08:58](https://news.ycombinator.com/item?id=46824558) - [Former CNN journalist Don Lemon arrested in connection with Minnesota protest](https://abcnews.go.com/US/don-lemon-arrested-connection-minnesota-protest-sources/story?id=129699476)
+* [2026-01-30, 14:34:32](https://news.ycombinator.com/item?id=46824877) - [Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents](https://github.com/amlalabs/amla-sandbox)
+* [2026-01-30, 14:33:29](https://news.ycombinator.com/item?id=46824867) - [Richard Feynman Side Hustles](https://twitter.com/carl_feynman/status/2016979540099420428)
+* [2026-01-30, 13:55:29](https://news.ycombinator.com/item?id=46824400) - [Ode to the AA Battery](https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/)
 * [2026-01-30, 13:23:53](https://news.ycombinator.com/item?id=46824098) - [Wisconsin communities signed secrecy deals for billion-dollar data centers](https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers)
 * [2026-01-30, 13:13:11](https://news.ycombinator.com/item?id=46824017) - [Norway EV Push Nears 100 Percent: What's Next?](https://spectrum.ieee.org/norway-ev-policy-electric-vehicles)
 * [2026-01-30, 12:11:49](https://news.ycombinator.com/item?id=46823544) - [Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)](https://docs.pangolin.net/careers/join-us)
@@ -20,16 +22,14 @@
 * [2026-01-29, 20:47:36](https://news.ycombinator.com/item?id=46816357) - [The WiFi only works when it's raining (2024)](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 * [2026-01-29, 19:30:35](https://news.ycombinator.com/item?id=46815297) - [Flameshot](https://github.com/flameshot-org/flameshot)
 * [2026-01-29, 18:55:38](https://news.ycombinator.com/item?id=46814743) - [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
-* [2026-01-29, 18:45:27](https://news.ycombinator.com/item?id=46814569) - [My Mom and Dr. DeepSeek (2025)](https://restofworld.org/2025/ai-chatbot-china-sick/)
 * [2026-01-29, 17:02:39](https://news.ycombinator.com/item?id=46812933) - [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
-* [2026-01-29, 13:59:07](https://news.ycombinator.com/item?id=46810282) - [Claude Code daily benchmarks for degradation tracking](https://marginlab.ai/trackers/claude-code/)
 * [2026-01-29, 13:08:11](https://news.ycombinator.com/item?id=46809708) - [AGENTS.md outperforms skills in our agent evals](https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals)
 * [2026-01-27, 22:07:29](https://news.ycombinator.com/item?id=46787693) - [Spacecurve: A space-filling curve playground](https://corte.si/posts/spacecurve/announce/)
 * [2026-01-27, 15:02:01](https://news.ycombinator.com/item?id=46780891) - [Doin' It with a 555: One Chip to Rule Them All](https://aashvik.com/posts/555-revolution/)
 * [2026-01-27, 08:03:11](https://news.ycombinator.com/item?id=46776848) - [Software Pump and Dump](http://tautvilas.lt/software-pump-and-dump/)
 * [2026-01-27, 00:08:33](https://news.ycombinator.com/item?id=46773655) - [The Engineer who invented the Mars Rover Suspension in his garage [video]](https://www.youtube.com/watch?v=QKSPk_0N4Jc)
-* [2026-01-26, 21:12:09](https://news.ycombinator.com/item?id=46771605) - [Long-hidden Leonardo mural opens to the public ahead of 2026 Milan Olympics](https://news.artnet.com/art-world/leonardo-sforza-castle-olympics-2739171)
 * [2026-01-26, 18:32:47](https://news.ycombinator.com/item?id=46769606) - [Godot 4.6 Release: It's all about your flow](https://godotengine.org/releases/4.6/)
+* [2026-01-25, 22:45:34](https://news.ycombinator.com/item?id=46759358) - [Implementing a Tiny CPU Rasterizer](https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html)
 
 ## [Archives](archives/index.md)
 

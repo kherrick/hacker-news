@@ -8,6 +8,7 @@
 * [2026-01-25, 23:13:06](https://news.ycombinator.com/item?id=46759627) - [Show HN: FaceTime-style calls with an AI Companion (Live2D and long-term memory)](https://thebeni.ai/)
 * [2026-01-25, 23:01:06](https://news.ycombinator.com/item?id=46759520) - [Show HN: A small programming language where everything is a value](https://github.com/Jcparkyn/herd)
 * [2026-01-25, 22:47:55](https://news.ycombinator.com/item?id=46759387) - [Ask HN: DDD was a great debugger – what would a modern equivalent look like?](https://news.ycombinator.com/item?id=46759387)
+* [2026-01-25, 22:45:34](https://news.ycombinator.com/item?id=46759358) - [Implementing a Tiny CPU Rasterizer](https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html)
 * [2026-01-25, 22:44:50](https://news.ycombinator.com/item?id=46759352) - [Case study: Creative math – How AI fakes proofs](https://tomaszmachnik.pl/case-study-math-en.html)
 * [2026-01-25, 22:18:38](https://news.ycombinator.com/item?id=46759063) - [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
 * [2026-01-25, 22:03:24](https://news.ycombinator.com/item?id=46758868) - [The passive in English (2011)](https://languagelog.ldc.upenn.edu/nll/?p=2922)
