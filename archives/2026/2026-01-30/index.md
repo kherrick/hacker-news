@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 13:23:53](https://news.ycombinator.com/item?id=46824098) - [Wisconsin communities signed secrecy deals for billion-dollar data centers](https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers)
+* [2026-01-30, 13:13:11](https://news.ycombinator.com/item?id=46824017) - [Norway EV Push Nears 100 Percent: What's Next?](https://spectrum.ieee.org/norway-ev-policy-electric-vehicles)
 * [2026-01-30, 12:11:49](https://news.ycombinator.com/item?id=46823544) - [Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)](https://docs.pangolin.net/careers/join-us)
 * [2026-01-30, 12:07:26](https://news.ycombinator.com/item?id=46823498) - [Show HN: Cicada – a scripting language that integrates with C](https://github.com/heltilda/cicada)
+* [2026-01-30, 12:05:50](https://news.ycombinator.com/item?id=46823485) - [Code is cheap. Show me the talk](https://nadh.in/blog/code-is-cheap/)
 * [2026-01-30, 11:52:46](https://news.ycombinator.com/item?id=46823358) - [Track Your Routine – Open-source app for task management](https://github.com/MSF01/TYR)
+* [2026-01-30, 10:48:18](https://news.ycombinator.com/item?id=46822856) - [Potentially Critical RCE Vulnerability in OpenSSL](https://research.jfrog.com/post/potential-rce-vulnerabilityin-openssl-cve-2025-15467/)
 * [2026-01-30, 10:14:31](https://news.ycombinator.com/item?id=46822632) - [Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor](https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/)
 * [2026-01-30, 10:14:23](https://news.ycombinator.com/item?id=46822630) - [Surely the crash of the US economy has to be soon](https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/)
 * [2026-01-30, 08:09:41](https://news.ycombinator.com/item?id=46821774) - [GOG: Linux \"the next major frontier\" for gaming as it works on a native client](https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/)
