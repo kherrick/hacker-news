@@ -13,6 +13,7 @@
 * [2026-01-26, 22:03:04](https://news.ycombinator.com/item?id=46772212) - [State of the Windows: What is going on with Windows 11?](https://ntdotdev.wordpress.com/2026/01/25/state-of-the-windows-what-is-going-on-with-windows-11/)
 * [2026-01-26, 21:56:05](https://news.ycombinator.com/item?id=46772132) - [Making niche solutions is the point](https://ntietz.com/blog/making-niche-solutions-is-the-point/)
 * [2026-01-26, 21:27:15](https://news.ycombinator.com/item?id=46771779) - [Refusing to Use Twitter](https://blog.korny.info/2026/01/25/refusing-to-use-twitter)
+* [2026-01-26, 21:12:09](https://news.ycombinator.com/item?id=46771605) - [Long-hidden Leonardo mural opens to the public ahead of 2026 Milan Olympics](https://news.artnet.com/art-world/leonardo-sforza-castle-olympics-2739171)
 * [2026-01-26, 21:11:53](https://news.ycombinator.com/item?id=46771599) - [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)
 * [2026-01-26, 21:09:19](https://news.ycombinator.com/item?id=46771564) - [A few random notes from Claude coding quite a bit last few weeks](https://twitter.com/karpathy/status/2015883857489522876)
 * [2026-01-26, 20:45:42](https://news.ycombinator.com/item?id=46771272) - [Skapa, a parametric 3D printing app like an IKEA manual (2025)](https://nmattia.com/posts/2025-03-24-skapa-intro/)

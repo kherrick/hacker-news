@@ -29,7 +29,7 @@
 * [2026-01-27, 18:27:01](https://news.ycombinator.com/item?id=46784130) - [Nannou – A creative coding framework for Rust](https://github.com/nannou-org/nannou)
 * [2026-01-27, 15:02:01](https://news.ycombinator.com/item?id=46780891) - [Doin' It with a 555: One Chip to Rule Them All](https://aashvik.com/posts/555-revolution/)
 * [2026-01-27, 08:03:11](https://news.ycombinator.com/item?id=46776848) - [Software Pump and Dump](http://tautvilas.lt/software-pump-and-dump/)
-* [2026-01-26, 19:35:30](https://news.ycombinator.com/item?id=46770411) - [The Home Computer Hybrids: Atari, TI, and the FCC](https://technicshistory.com/2026/01/25/the-home-computer-hybrids/)
+* [2026-01-26, 21:12:09](https://news.ycombinator.com/item?id=46771605) - [Long-hidden Leonardo mural opens to the public ahead of 2026 Milan Olympics](https://news.artnet.com/art-world/leonardo-sforza-castle-olympics-2739171)
 
 ## [Archives](archives/index.md)
 
