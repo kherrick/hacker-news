@@ -61,6 +61,7 @@
 * [2026-01-27, 13:25:53](https://news.ycombinator.com/item?id=46779645) - [Xfwl4 – The Roadmap for a Xfce Wayland Compositor](https://alexxcons.github.io/blogpost_15.html)
 * [2026-01-27, 13:13:56](https://news.ycombinator.com/item?id=46779522) - [Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC](https://emsh.cat/one-human-one-agent-one-browser/)
 * [2026-01-27, 12:31:29](https://news.ycombinator.com/item?id=46779136) - [Mothers (YC X26, Defense Tech) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
+* [2026-01-27, 12:23:24](https://news.ycombinator.com/item?id=46779061) - [Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep](https://minidump.net/writing-a-net-gc-in-c-part-6/)
 * [2026-01-27, 11:58:07](https://news.ycombinator.com/item?id=46778821) - [India and EU announce landmark trade deal](https://www.bbc.com/news/articles/crrnee01r9jo)
 * [2026-01-27, 11:12:30](https://news.ycombinator.com/item?id=46778461) - [Ask HN: Books to learn 6502 ASM and the Apple II](https://news.ycombinator.com/item?id=46778461)
 * [2026-01-27, 11:08:37](https://news.ycombinator.com/item?id=46778428) - [Archyl – The modern platform for C4 model documentation](https://www.archyl.com/)

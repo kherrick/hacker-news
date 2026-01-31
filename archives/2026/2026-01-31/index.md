@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 22:05:03](https://news.ycombinator.com/item?id=46841374) - [Swift is a more convenient Rust](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
 * [2026-01-31, 21:44:23](https://news.ycombinator.com/item?id=46841187) - [This Year in LLVM (2025)](https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html)
 * [2026-01-31, 21:14:02](https://news.ycombinator.com/item?id=46840924) - [For most flagged articles, nearly every cited sentence failed verification](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 * [2026-01-31, 21:06:57](https://news.ycombinator.com/item?id=46840865) - [Outsourcing Thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)

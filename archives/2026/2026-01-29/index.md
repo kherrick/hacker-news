@@ -22,6 +22,7 @@
 * [2026-01-29, 19:45:12](https://news.ycombinator.com/item?id=46815527) - [Why \"The AI Hallucinated\" is the perfect legal defense](https://niyikiza.com/posts/hallucination-defense/)
 * [2026-01-29, 19:37:24](https://news.ycombinator.com/item?id=46815408) - [1km tower in the desert is not progress it is a farewell letter to common sense](https://www.doubleglazinginbanbridge.co.uk/29-171405-1km-tower-in-the-desert/)
 * [2026-01-29, 19:30:35](https://news.ycombinator.com/item?id=46815297) - [Flameshot](https://github.com/flameshot-org/flameshot)
+* [2026-01-29, 19:25:32](https://news.ycombinator.com/item?id=46815209) - [Ferrari vs. Markets](https://ferrari-imports.enigmatechnologies.dev/)
 * [2026-01-29, 19:10:54](https://news.ycombinator.com/item?id=46814991) - [Networks Hold the Key to a Decades-Old Problem About Waves](https://www.quantamagazine.org/networks-hold-the-key-to-a-decades-old-problem-about-waves-20260128/)
 * [2026-01-29, 18:55:38](https://news.ycombinator.com/item?id=46814743) - [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
 * [2026-01-29, 18:53:30](https://news.ycombinator.com/item?id=46814701) - [SpaceX in Merger Talks with xAI](https://www.reuters.com/world/musks-spacex-merger-talks-with-xai-ahead-planned-ipo-source-says-2026-01-29/)
