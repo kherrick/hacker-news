@@ -47,6 +47,7 @@
 * [2026-01-30, 10:14:31](https://news.ycombinator.com/item?id=46822632) - [Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor](https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/)
 * [2026-01-30, 10:14:23](https://news.ycombinator.com/item?id=46822630) - [Surely the crash of the US economy has to be soon](https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/)
 * [2026-01-30, 08:09:41](https://news.ycombinator.com/item?id=46821774) - [GOG: Linux \"the next major frontier\" for gaming as it works on a native client](https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/)
+* [2026-01-30, 07:26:20](https://news.ycombinator.com/item?id=46821488) - [Ashcan Comic](https://en.wikipedia.org/wiki/Ashcan_comic)
 * [2026-01-30, 07:06:47](https://news.ycombinator.com/item?id=46821360) - [How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
 * [2026-01-30, 07:00:08](https://news.ycombinator.com/item?id=46821326) - [Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris](https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9)
 * [2026-01-30, 06:19:36](https://news.ycombinator.com/item?id=46821134) - [Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/)
