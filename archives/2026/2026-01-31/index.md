@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 07:54:58](https://news.ycombinator.com/item?id=46834441) - [YouTube blocks background video playback on Brave and other Browsers](https://piunikaweb.com/2026/01/28/youtube-background-play-samsung-internet-brave/)
 * [2026-01-31, 07:32:51](https://news.ycombinator.com/item?id=46834313) - [Sumerian Star Map Recorded the Impact of an Asteroid (2024)](https://archaeologyworlds.com/5500-year-old-sumerian-star-map-recorded/)
 * [2026-01-31, 06:53:16](https://news.ycombinator.com/item?id=46834153) - [America First Risks Becoming America Alone](https://www.wsj.com/world/how-america-first-risks-becoming-america-alone-6592701a)
 * [2026-01-31, 05:51:52](https://news.ycombinator.com/item?id=46833871) - [Target director's Global Entry was revoked after ICE used app to scan her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/)
