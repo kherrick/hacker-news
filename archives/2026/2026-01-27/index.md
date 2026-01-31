@@ -69,6 +69,7 @@
 * [2026-01-27, 09:38:59](https://news.ycombinator.com/item?id=46777652) - [Celebrities say they are being censored by TikTok after speaking out against ICE](https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas)
 * [2026-01-27, 09:35:42](https://news.ycombinator.com/item?id=46777641) - [We Do Not Support Opt-Out Forms (2025)](https://consciousdigital.org/why-we-do-not-support-opt-out-forms/)
 * [2026-01-27, 09:14:07](https://news.ycombinator.com/item?id=46777448) - [Is OpenAI Dead Yet?](https://isopenaideadyet.com/)
+* [2026-01-27, 09:09:25](https://news.ycombinator.com/item?id=46777409) - [Claude Code is your customer](https://calebjohn.xyz/blog/b2cc/)
 * [2026-01-27, 09:01:05](https://news.ycombinator.com/item?id=46777329) - [Bassoontracker, Tracking in the Browser](https://www.stef.be/bassoontracker/)
 * [2026-01-27, 08:03:11](https://news.ycombinator.com/item?id=46776848) - [Software Pump and Dump](http://tautvilas.lt/software-pump-and-dump/)
 * [2026-01-27, 07:53:06](https://news.ycombinator.com/item?id=46776752) - [Automating Image Compression](https://www.ramijames.com/thoughts/on-automating-image-compression)

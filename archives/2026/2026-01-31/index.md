@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
 * [2026-01-31, 20:05:22](https://news.ycombinator.com/item?id=46840252) - [Demystifying ARM SME to Optimize General Matrix Multiplications](https://arxiv.org/abs/2512.21473)
+* [2026-01-31, 20:02:36](https://news.ycombinator.com/item?id=46840219) - [The Saddest Moment (2013) [pdf]](https://www.usenix.org/system/files/login-logout_1305_mickens.pdf)
+* [2026-01-31, 19:58:00](https://news.ycombinator.com/item?id=46840178) - [Show HN: Minimal – Open-Source Community driven Hardened Container Images](https://github.com/rtvkiz/minimal)
 * [2026-01-31, 19:41:46](https://news.ycombinator.com/item?id=46840025) - [Evolving the OCaml programming language – CSE Bytes: K C Sivaramakrishnan [video]](https://www.youtube.com/watch?v=PFWe-7IAF8E)
 * [2026-01-31, 19:15:52](https://news.ycombinator.com/item?id=46839784) - [Berlin: Record harvest sparks mass giveaway of free potatoes](https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes)
 * [2026-01-31, 19:11:34](https://news.ycombinator.com/item?id=46839743) - [Death Note: L, Anonymity and Eluding Entropy (2011)](https://gwern.net/death-note-anonymity)
