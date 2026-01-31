@@ -59,6 +59,7 @@
 * [2026-01-28, 10:55:48](https://news.ycombinator.com/item?id=46793721) - [Google just gave us an accidental first look at Android's PC future](https://www.androidauthority.com/google-aluminium-os-first-look-bug-report-3635801/)
 * [2026-01-28, 10:50:32](https://news.ycombinator.com/item?id=46793693) - [Show HN: The HN Arcade](https://andrewgy8.github.io/hnarcade/)
 * [2026-01-28, 10:14:05](https://news.ycombinator.com/item?id=46793403) - [Australian high schoolers build coding platform to help learners in Sri Lanka](https://www.abc.net.au/news/2026-01-21/qld-teenagers-create-coding-app-code-lab-sri-lanka-students/106225842)
+* [2026-01-28, 10:03:11](https://news.ycombinator.com/item?id=46793313) - [Scientist who helped eradicate smallpox dies at age 89](https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/)
 * [2026-01-28, 08:58:28](https://news.ycombinator.com/item?id=46792783) - [Devuan – Debian Without Systemd](https://www.devuan.org/)
 * [2026-01-28, 08:33:57](https://news.ycombinator.com/item?id=46792580) - [I Stopped Following the News](https://mertbulan.com/2026/01/28/why-i-stopped-following-the-news/)
 * [2026-01-28, 08:32:50](https://news.ycombinator.com/item?id=46792572) - [Virtual Boy on TV with Intelligent Systems Video Boy](https://hcs64.com/video-boy-vue/)
