@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 10:11:25](https://news.ycombinator.com/item?id=46835208) - [Automatic Programming](https://antirez.com/news/159)
+* [2026-01-31, 09:58:39](https://news.ycombinator.com/item?id=46835124) - [CERN accepts $1B in private cash towards Future Circular Collider](https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/)
+* [2026-01-31, 09:34:02](https://news.ycombinator.com/item?id=46834977) - [Ask HN: Do you still physical calculators?](https://news.ycombinator.com/item?id=46834977)
 * [2026-01-31, 07:54:58](https://news.ycombinator.com/item?id=46834441) - [YouTube blocks background video playback on Brave and other Browsers](https://piunikaweb.com/2026/01/28/youtube-background-play-samsung-internet-brave/)
 * [2026-01-31, 07:32:51](https://news.ycombinator.com/item?id=46834313) - [Sumerian Star Map Recorded the Impact of an Asteroid (2024)](https://archaeologyworlds.com/5500-year-old-sumerian-star-map-recorded/)
 * [2026-01-31, 06:53:16](https://news.ycombinator.com/item?id=46834153) - [America First Risks Becoming America Alone](https://www.wsj.com/world/how-america-first-risks-becoming-america-alone-6592701a)
