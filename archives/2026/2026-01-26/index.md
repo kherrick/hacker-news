@@ -41,6 +41,7 @@
 * [2026-01-26, 16:27:46](https://news.ycombinator.com/item?id=46767668) - [France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://twitter.com/lellouchenico/status/2015775970330882319)
 * [2026-01-26, 16:11:28](https://news.ycombinator.com/item?id=46767440) - [RIP Low-Code 2014-2025](https://www.zackliscio.com/posts/rip-low-code-2014-2025/)
 * [2026-01-26, 16:04:07](https://news.ycombinator.com/item?id=46767323) - [What \"The Best\" Looks Like](https://www.kuril.in/blog/what-the-best-looks-like/)
+* [2026-01-26, 16:02:55](https://news.ycombinator.com/item?id=46767302) - [International Collection of Tongue Twisters (2018)](https://tongue-twister.net)
 * [2026-01-26, 15:38:50](https://news.ycombinator.com/item?id=46766961) - [There is an AI code review bubble](https://www.greptile.com/blog/ai-code-review-bubble)
 * [2026-01-26, 15:23:00](https://news.ycombinator.com/item?id=46766741) - [Qwen3-Max-Thinking](https://qwen.ai/blog?id=qwen3-max-thinking)
 * [2026-01-26, 15:07:37](https://news.ycombinator.com/item?id=46766526) - [Windows 11's Patch Tuesday nightmare gets worse](https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot)

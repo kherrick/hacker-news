@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-31, 02:29:45](https://news.ycombinator.com/item?id=46832751) - [Court Filings: ICE App Identifies Protesters; Global Entry, PreCheck Get Revoked](https://viewfromthewing.com/court-filings-ice-uses-mobile-fortify-to-identify-protesters-global-entry-and-precheck-get-revoked/)
 * [2026-01-31, 00:51:27](https://news.ycombinator.com/item?id=46832074) - [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
-* [2026-01-31, 00:40:51](https://news.ycombinator.com/item?id=46831978) - [Show HN: Foundry – Turns your repeated workflows into one-click commands](https://github.com/lekt9/openclaw-foundry)
 * [2026-01-31, 00:12:22](https://news.ycombinator.com/item?id=46831784) - [175K+ publicly-exposed Ollama AI instances discovered](https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now)
 * [2026-01-31, 00:02:30](https://news.ycombinator.com/item?id=46831702) - [The $100B megadeal between OpenAI and Nvidia is on ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3)
 * [2026-01-30, 23:47:28](https://news.ycombinator.com/item?id=46831592) - [Stonebraker on CAP theorem and Databases (2010)](https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/)
@@ -19,6 +17,7 @@
 * [2026-01-30, 12:05:50](https://news.ycombinator.com/item?id=46823485) - [Code is cheap. Show me the talk](https://nadh.in/blog/code-is-cheap/)
 * [2026-01-30, 12:01:36](https://news.ycombinator.com/item?id=46823445) - [Email experiments: filtering out external images](https://www.terracrypt.net/posts/email-experiments-image-filtering.html)
 * [2026-01-30, 10:14:23](https://news.ycombinator.com/item?id=46822630) - [Surely the crash of the US economy has to be soon](https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/)
+* [2026-01-30, 06:19:36](https://news.ycombinator.com/item?id=46821134) - [Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/)
 * [2026-01-30, 03:55:34](https://news.ycombinator.com/item?id=46820360) - [Moltbook](https://www.moltbook.com/)
 * [2026-01-29, 21:11:41](https://news.ycombinator.com/item?id=46816644) - [Building docs like a product](https://emschwartz.me/building-docs-like-a-product/)
 * [2026-01-29, 14:23:22](https://news.ycombinator.com/item?id=46810576) - [How to explain Generative AI in the classroom](https://dalelane.co.uk/blog/?p=5847)
@@ -29,6 +28,7 @@
 * [2026-01-27, 07:07:06](https://news.ycombinator.com/item?id=46776459) - [Roots is a game server daemon that manages Docker containers for game servers](https://github.com/SproutPanel/roots)
 * [2026-01-27, 00:24:56](https://news.ycombinator.com/item?id=46773793) - [Quack-Cluster: A Serverless Distributed SQL Query Engine with DuckDB and Ray](https://github.com/kristianaryanto/Quack-Cluster)
 * [2026-01-27, 00:08:33](https://news.ycombinator.com/item?id=46773655) - [The engineer who invented the Mars rover suspension in his garage [video]](https://www.youtube.com/watch?v=QKSPk_0N4Jc)
+* [2026-01-26, 16:02:55](https://news.ycombinator.com/item?id=46767302) - [International Collection of Tongue Twisters (2018)](https://tongue-twister.net)
 * [2026-01-25, 16:06:20](https://news.ycombinator.com/item?id=46755270) - [The Home Computer Hybrids](https://technicshistory.com/2026/01/25/the-home-computer-hybrids/)
 
 ## [Archives](archives/index.md)
