@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-31, 16:26:35](https://news.ycombinator.com/item?id=46838026) - [The Film Students Who Can No Longer Sit Through Films](https://www.theatlantic.com/ideas/2026/01/college-students-movies-attention-span/685812/)
+* [2026-01-31, 16:04:03](https://news.ycombinator.com/item?id=46837814) - [Apple Platform Security (Jan 2026) [pdf]](https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf)
 * [2026-01-31, 15:14:14](https://news.ycombinator.com/item?id=46837346) - [Nvidia's 10-year effort to make the Shield TV the most updated Android device](https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/)
 * [2026-01-31, 13:27:23](https://news.ycombinator.com/item?id=46836487) - [US reportedly investigate claims that Meta can read encrypted WhatsApp messages](https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages)
 * [2026-01-31, 12:00:22](https://news.ycombinator.com/item?id=46835834) - [Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer)
@@ -26,10 +26,10 @@
 * [2026-01-27, 14:07:37](https://news.ycombinator.com/item?id=46780086) - [CPython Internals Explained](https://github.com/zpoint/CPython-Internals)
 * [2026-01-27, 05:06:06](https://news.ycombinator.com/item?id=46775758) - [Quaternion Algebras](https://jvoight.github.io/quat.html)
 * [2026-01-27, 00:08:33](https://news.ycombinator.com/item?id=46773655) - [The engineer who invented the Mars rover suspension in his garage [video]](https://www.youtube.com/watch?v=QKSPk_0N4Jc)
-* [2026-01-26, 19:03:04](https://news.ycombinator.com/item?id=46770022) - [Designing a Passively Safe API](https://www.danealbaugh.com/articles/passively-safe-apis)
 * [2026-01-26, 17:07:37](https://news.ycombinator.com/item?id=46768260) - [An anecdote about backward compatibility](https://blog.plover.com/2026/01/26/#wrterm)
 * [2026-01-26, 12:45:50](https://news.ycombinator.com/item?id=46764979) - [Animated AVIF for the Modern Web](https://arthur.pizza/2025/12/animated-avif-for-the-modern-web/)
 * [2026-01-26, 11:40:55](https://news.ycombinator.com/item?id=46764472) - [Implementing the Transcendental Functions in Ivy](https://commandcenter.blogspot.com/2026/01/implementing-transcendental-functions.html)
+* [2026-01-26, 02:01:04](https://news.ycombinator.com/item?id=46760927) - [Show HN: SF Microclimates](https://github.com/solo-founders/sf-microclimates)
 
 ## [Archives](archives/index.md)
 
