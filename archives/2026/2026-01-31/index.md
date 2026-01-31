@@ -4,14 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 20:05:22](https://news.ycombinator.com/item?id=46840252) - [Demystifying ARM SME to Optimize General Matrix Multiplications](https://arxiv.org/abs/2512.21473)
 * [2026-01-31, 19:41:46](https://news.ycombinator.com/item?id=46840025) - [Evolving the OCaml programming language – CSE Bytes: K C Sivaramakrishnan [video]](https://www.youtube.com/watch?v=PFWe-7IAF8E)
 * [2026-01-31, 19:15:52](https://news.ycombinator.com/item?id=46839784) - [Berlin: Record harvest sparks mass giveaway of free potatoes](https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes)
 * [2026-01-31, 19:11:34](https://news.ycombinator.com/item?id=46839743) - [Death Note: L, Anonymity and Eluding Entropy (2011)](https://gwern.net/death-note-anonymity)
+* [2026-01-31, 18:41:36](https://news.ycombinator.com/item?id=46839375) - [Google Cloud suspended my account for 2 years, only automated replies](https://news.ycombinator.com/item?id=46839375)
+* [2026-01-31, 18:27:36](https://news.ycombinator.com/item?id=46839215) - [Nintendo DS code editor and scriptable game engine](https://crl.io/ds-game-engine/)
 * [2026-01-31, 18:16:43](https://news.ycombinator.com/item?id=46839106) - [Guest Post from an Iranian](https://scottaaronson.blog/?p=9530)
 * [2026-01-31, 18:03:32](https://news.ycombinator.com/item?id=46838981) - [Genode OS is a tool kit for building highly secure special-purpose OS](https://genode.org/about/index)
 * [2026-01-31, 18:00:14](https://news.ycombinator.com/item?id=46838946) - [Ask HN: Any real OpenClaw (Clawd Bot/Molt Bot) users? What's your experience?](https://news.ycombinator.com/item?id=46838946)
 * [2026-01-31, 17:47:46](https://news.ycombinator.com/item?id=46838834) - [A lot of the Moltbook stuff is fake](https://twitter.com/HumanHarlan/status/2017424292548673830)
 * [2026-01-31, 17:26:18](https://news.ycombinator.com/item?id=46838644) - [Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+* [2026-01-31, 17:25:30](https://news.ycombinator.com/item?id=46838635) - [US has investigated claims WhatsApp chats aren't private](https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private)
 * [2026-01-31, 17:21:34](https://news.ycombinator.com/item?id=46838597) - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
 * [2026-01-31, 17:06:22](https://news.ycombinator.com/item?id=46838417) - [Finland to end \"uncontrolled human experiment\" with ban on youth social media](https://yle.fi/a/74-20207494)
 * [2026-01-31, 16:26:35](https://news.ycombinator.com/item?id=46838026) - [The Film Students Who Can No Longer Sit Through Films](https://www.theatlantic.com/ideas/2026/01/college-students-movies-attention-span/685812/)
