@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 18:16:43](https://news.ycombinator.com/item?id=46839106) - [Guest Post from an Iranian](https://scottaaronson.blog/?p=9530)
+* [2026-01-31, 18:03:32](https://news.ycombinator.com/item?id=46838981) - [Genode OS is a tool kit for building highly secure special-purpose OS](https://genode.org/about/index)
 * [2026-01-31, 17:47:46](https://news.ycombinator.com/item?id=46838834) - [A lot of the Moltbook stuff is fake](https://twitter.com/HumanHarlan/status/2017424292548673830)
+* [2026-01-31, 17:26:18](https://news.ycombinator.com/item?id=46838644) - [Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 * [2026-01-31, 17:21:34](https://news.ycombinator.com/item?id=46838597) - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
 * [2026-01-31, 17:06:22](https://news.ycombinator.com/item?id=46838417) - [Finland to end \"uncontrolled human experiment\" with ban on youth social media](https://yle.fi/a/74-20207494)
 * [2026-01-31, 16:26:35](https://news.ycombinator.com/item?id=46838026) - [The Film Students Who Can No Longer Sit Through Films](https://www.theatlantic.com/ideas/2026/01/college-students-movies-attention-span/685812/)
