@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 05:51:52](https://news.ycombinator.com/item?id=46833871) - [Target director's Global Entry was revoked after ICE used app to scan her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/)
+* [2026-01-31, 05:44:49](https://news.ycombinator.com/item?id=46833847) - [Starlink updates privacy policy to allow consumer data to train](https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html)
 * [2026-01-31, 05:22:03](https://news.ycombinator.com/item?id=46833754) - [Show HN: Phage Explorer](https://phage-explorer.org/)
+* [2026-01-31, 05:13:25](https://news.ycombinator.com/item?id=46833707) - [Genesis](https://zenodo.org/records/18438130)
+* [2026-01-31, 03:53:06](https://news.ycombinator.com/item?id=46833254) - [Naples' 1790s civil war was intensified by moral panic over Real Analysis (2023)](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/)
 * [2026-01-31, 02:29:45](https://news.ycombinator.com/item?id=46832751) - [Court Filings: ICE App Identifies Protesters; Global Entry, PreCheck Get Revoked](https://viewfromthewing.com/court-filings-ice-uses-mobile-fortify-to-identify-protesters-global-entry-and-precheck-get-revoked/)
 * [2026-01-31, 00:51:27](https://news.ycombinator.com/item?id=46832074) - [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
 * [2026-01-31, 00:40:51](https://news.ycombinator.com/item?id=46831978) - [Show HN: Foundry – Turns your repeated workflows into one-click commands](https://github.com/lekt9/openclaw-foundry)
