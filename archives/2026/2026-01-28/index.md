@@ -60,6 +60,7 @@
 * [2026-01-28, 08:32:50](https://news.ycombinator.com/item?id=46792572) - [Virtual Boy on TV with Intelligent Systems Video Boy](https://hcs64.com/video-boy-vue/)
 * [2026-01-28, 08:02:42](https://news.ycombinator.com/item?id=46792370) - [ASML staffing changes could result in a net reduction of around 1700 positions](https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation)
 * [2026-01-28, 08:02:42](https://news.ycombinator.com/item?id=46792370) - [ASML firing 1700 people, mostly managers](https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/)
+* [2026-01-28, 07:43:39](https://news.ycombinator.com/item?id=46792242) - [NASA's WB-57 crash lands at Houston](https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/)
 * [2026-01-28, 07:40:50](https://news.ycombinator.com/item?id=46792225) - [Kairos: AI interns for everyone](https://www.kairos.computer/)
 * [2026-01-28, 07:35:51](https://news.ycombinator.com/item?id=46792194) - [Make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
 * [2026-01-28, 06:21:07](https://news.ycombinator.com/item?id=46791742) - [Rust at Scale: An Added Layer of Security for WhatsApp](https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/)
