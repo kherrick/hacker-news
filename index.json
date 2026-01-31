@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-01-31, 20:02:36",
+      "https://news.ycombinator.com/item?id=46840219"
+    ],
+    [
+      "The Saddest Moment (2013) [pdf]",
+      "https://www.usenix.org/system/files/login-logout_1305_mickens.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 19:58:00",
+      "https://news.ycombinator.com/item?id=46840178"
+    ],
+    [
+      "Show HN: Minimal – Open-Source Community driven Hardened Container Images",
+      "https://github.com/rtvkiz/minimal"
+    ]
+  ],
+  [
+    [
       "2026-01-31, 19:15:52",
       "https://news.ycombinator.com/item?id=46839784"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-01-31, 16:04:03",
-      "https://news.ycombinator.com/item?id=46837814"
-    ],
-    [
-      "Apple Platform Security (Jan 2026) [pdf]",
-      "https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf"
-    ]
-  ],
-  [
-    [
       "2026-01-31, 12:00:22",
       "https://news.ycombinator.com/item?id=46835834"
     ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2026-01-30, 20:37:48",
+      "https://news.ycombinator.com/item?id=46829548"
+    ],
+    [
+      "Silver plunges 30% in worst day since 1980, gold tumbles",
+      "https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html"
+    ]
+  ],
+  [
+    [
       "2026-01-30, 20:05:24",
       "https://news.ycombinator.com/item?id=46829147"
     ],
@@ -235,7 +255,7 @@
       "https://news.ycombinator.com/item?id=46794971"
     ],
     [
-      "My Ridiculously Robust Photo Management System (Immich Edition)",
+      "My ridiculously robust photo management system (Immich edition)",
       "https://jaisenmathai.com/articles/my-ridiculously-robust-photo-management-system-immich-edition/"
     ]
   ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-01-27, 05:06:06",
-      "https://news.ycombinator.com/item?id=46775758"
+      "2026-01-27, 09:09:25",
+      "https://news.ycombinator.com/item?id=46777409"
     ],
     [
-      "Quaternion Algebras",
-      "https://jvoight.github.io/quat.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 18:18:07",
-      "https://news.ycombinator.com/item?id=46769399"
-    ],
-    [
-      "What's going on at Heathrow Airport",
-      "https://blog.billyedmoore.com/heathrow"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 12:45:50",
-      "https://news.ycombinator.com/item?id=46764979"
-    ],
-    [
-      "Animated AVIF for the Modern Web",
-      "https://arthur.pizza/2025/12/animated-avif-for-the-modern-web/"
+      "Claude Code is your customer",
+      "https://calebjohn.xyz/blog/b2cc/"
     ]
   ]
 ]
