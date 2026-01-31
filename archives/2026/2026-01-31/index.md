@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 19:15:52](https://news.ycombinator.com/item?id=46839784) - [Berlin: Record harvest sparks mass giveaway of free potatoes](https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes)
+* [2026-01-31, 19:11:34](https://news.ycombinator.com/item?id=46839743) - [Death Note: L, Anonymity and Eluding Entropy (2011)](https://gwern.net/death-note-anonymity)
 * [2026-01-31, 18:16:43](https://news.ycombinator.com/item?id=46839106) - [Guest Post from an Iranian](https://scottaaronson.blog/?p=9530)
 * [2026-01-31, 18:03:32](https://news.ycombinator.com/item?id=46838981) - [Genode OS is a tool kit for building highly secure special-purpose OS](https://genode.org/about/index)
 * [2026-01-31, 18:00:14](https://news.ycombinator.com/item?id=46838946) - [Ask HN: Any real OpenClaw (Clawd Bot/Molt Bot) users? What's your experience?](https://news.ycombinator.com/item?id=46838946)

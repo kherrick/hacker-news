@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-01-31, 18:16:43](https://news.ycombinator.com/item?id=46839106) - [Guest Post from an Iranian](https://scottaaronson.blog/?p=9530)
+* [2026-01-31, 19:15:52](https://news.ycombinator.com/item?id=46839784) - [Berlin: Record harvest sparks mass giveaway of free potatoes](https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes)
+* [2026-01-31, 19:11:34](https://news.ycombinator.com/item?id=46839743) - [Death Note: L, Anonymity and Eluding Entropy (2011)](https://gwern.net/death-note-anonymity)
 * [2026-01-31, 18:03:32](https://news.ycombinator.com/item?id=46838981) - [Genode OS is a tool kit for building highly secure special-purpose OS](https://genode.org/about/index)
 * [2026-01-31, 18:00:14](https://news.ycombinator.com/item?id=46838946) - [Ask HN: Any real OpenClaw (Clawd Bot/Molt Bot) users? What's your experience?](https://news.ycombinator.com/item?id=46838946)
 * [2026-01-31, 17:26:18](https://news.ycombinator.com/item?id=46838644) - [Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
@@ -27,7 +28,6 @@
 * [2026-01-27, 14:07:37](https://news.ycombinator.com/item?id=46780086) - [CPython Internals Explained](https://github.com/zpoint/CPython-Internals)
 * [2026-01-27, 05:06:06](https://news.ycombinator.com/item?id=46775758) - [Quaternion Algebras](https://jvoight.github.io/quat.html)
 * [2026-01-26, 18:18:07](https://news.ycombinator.com/item?id=46769399) - [Predicting how Heathrow is using it's runways in the browser](https://blog.billyedmoore.com/heathrow)
-* [2026-01-26, 17:07:37](https://news.ycombinator.com/item?id=46768260) - [An anecdote about backward compatibility](https://blog.plover.com/2026/01/26/#wrterm)
 * [2026-01-26, 12:45:50](https://news.ycombinator.com/item?id=46764979) - [Animated AVIF for the Modern Web](https://arthur.pizza/2025/12/animated-avif-for-the-modern-web/)
 * [2026-01-26, 11:40:55](https://news.ycombinator.com/item?id=46764472) - [Implementing the Transcendental Functions in Ivy](https://commandcenter.blogspot.com/2026/01/implementing-transcendental-functions.html)
 
