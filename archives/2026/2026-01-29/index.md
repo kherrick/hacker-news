@@ -78,3 +78,4 @@
 * [2026-01-29, 02:08:40](https://news.ycombinator.com/item?id=46804828) - [Mermaid ASCII: Render Mermaid diagrams in your terminal](https://mermaid-ascii.art/)
 * [2026-01-29, 02:08:40](https://news.ycombinator.com/item?id=46804828) - [Beautiful Mermaid](https://github.com/lukilabs/beautiful-mermaid)
 * [2026-01-29, 01:16:41](https://news.ycombinator.com/item?id=46804396) - [Show HN: Shelvy Books](https://shelvybooks.com)
+* [2026-01-29, 01:15:02](https://news.ycombinator.com/item?id=46804375) - [Declassifying JUMPSEAT: an American pioneer in space](https://www.nro.gov/news-media-featured-stories/news-media-archive/News-Article/Article/4392223/declassifying-jumpseat-an-american-pioneer-in-space/)
