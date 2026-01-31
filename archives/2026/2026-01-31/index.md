@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 12:00:22](https://news.ycombinator.com/item?id=46835834) - [Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer)
 * [2026-01-31, 10:34:07](https://news.ycombinator.com/item?id=46835336) - [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)
 * [2026-01-31, 10:30:59](https://news.ycombinator.com/item?id=46835318) - [htmx: Server Sent Event (SSE) Extension](https://htmx.org/extensions/sse/)
 * [2026-01-31, 10:11:25](https://news.ycombinator.com/item?id=46835208) - [Automatic Programming](https://antirez.com/news/159)
