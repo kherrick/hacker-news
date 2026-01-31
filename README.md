@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-31, 10:30:59](https://news.ycombinator.com/item?id=46835318) - [htmx: Server Sent Event (SSE) Extension](https://htmx.org/extensions/sse/)
 * [2026-01-31, 10:11:25](https://news.ycombinator.com/item?id=46835208) - [Automatic Programming](https://antirez.com/news/159)
 * [2026-01-31, 09:58:39](https://news.ycombinator.com/item?id=46835124) - [CERN accepts $1B in private cash towards Future Circular Collider](https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/)
 * [2026-01-31, 09:34:02](https://news.ycombinator.com/item?id=46834977) - [Ask HN: Do you still physical calculators?](https://news.ycombinator.com/item?id=46834977)
@@ -29,7 +30,6 @@
 * [2026-01-27, 00:08:33](https://news.ycombinator.com/item?id=46773655) - [The engineer who invented the Mars rover suspension in his garage [video]](https://www.youtube.com/watch?v=QKSPk_0N4Jc)
 * [2026-01-26, 19:03:04](https://news.ycombinator.com/item?id=46770022) - [Designing a Passively Safe API](https://www.danealbaugh.com/articles/passively-safe-apis)
 * [2026-01-26, 17:07:37](https://news.ycombinator.com/item?id=46768260) - [An anecdote about backward compatibility](https://blog.plover.com/2026/01/26/#wrterm)
-* [2026-01-26, 16:02:55](https://news.ycombinator.com/item?id=46767302) - [International Collection of Tongue Twisters (2018)](https://tongue-twister.net)
 
 ## [Archives](archives/index.md)
 

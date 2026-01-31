@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 10:30:59](https://news.ycombinator.com/item?id=46835318) - [htmx: Server Sent Event (SSE) Extension](https://htmx.org/extensions/sse/)
 * [2026-01-31, 10:11:25](https://news.ycombinator.com/item?id=46835208) - [Automatic Programming](https://antirez.com/news/159)
 * [2026-01-31, 09:58:39](https://news.ycombinator.com/item?id=46835124) - [CERN accepts $1B in private cash towards Future Circular Collider](https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/)
 * [2026-01-31, 09:34:02](https://news.ycombinator.com/item?id=46834977) - [Ask HN: Do you still physical calculators?](https://news.ycombinator.com/item?id=46834977)
