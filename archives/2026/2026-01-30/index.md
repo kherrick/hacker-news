@@ -11,6 +11,7 @@
 * [2026-01-30, 21:58:46](https://news.ycombinator.com/item?id=46830523) - [I trapped an AI model inside an art installation (2025) [video]](https://www.youtube.com/watch?v=7fNYj0EXxMs)
 * [2026-01-30, 21:17:21](https://news.ycombinator.com/item?id=46830027) - [P vs. NP and the Difficulty of Computation: A ruliological approach](https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/)
 * [2026-01-30, 21:15:57](https://news.ycombinator.com/item?id=46830013) - [How I built my own secure version of Clawdbot](https://medium.com/ai-native-enterprise/how-i-built-my-own-enterprise-grade-clawdbot-without-the-security-nightmares-00ae01193280)
+* [2026-01-30, 21:12:01](https://news.ycombinator.com/item?id=46829965) - [Wikipedia: Sandbox](https://en.wikipedia.org/wiki/Wikipedia:Sandbox)
 * [2026-01-30, 21:06:28](https://news.ycombinator.com/item?id=46829887) - [DHS ramps up surveillance in immigration raids, sweeping in citizens](https://apnews.com/article/digital-crackdown-immigration-minneapolis-trump-52662450a15a7be8d9df69036f9b5f12)
 * [2026-01-30, 20:40:00](https://news.ycombinator.com/item?id=46829582) - [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)
 * [2026-01-30, 20:37:48](https://news.ycombinator.com/item?id=46829548) - [Silver plunges 30% in worst day since 1980, gold tumbles](https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html)
