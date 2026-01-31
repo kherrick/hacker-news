@@ -5,6 +5,7 @@
 * [2026-01-31, 21:14:02](https://news.ycombinator.com/item?id=46840924) - [Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 * [2026-01-31, 21:06:57](https://news.ycombinator.com/item?id=46840865) - [Outsourcing Thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)
 * [2026-01-31, 21:00:56](https://news.ycombinator.com/item?id=46840801) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer)
+* [2026-01-31, 20:50:56](https://news.ycombinator.com/item?id=46840698) - [Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.](https://github.com/zupat/related_post_gen)
 * [2026-01-31, 20:48:33](https://news.ycombinator.com/item?id=46840676) - [Autonomous cars, drones cheerfully obey prompt injection by road sign](https://www.theregister.com/2026/01/30/road_sign_hijack_ai/)
 * [2026-01-31, 20:05:22](https://news.ycombinator.com/item?id=46840252) - [Demystifying ARM SME to Optimize General Matrix Multiplications](https://arxiv.org/abs/2512.21473)
 * [2026-01-31, 20:02:36](https://news.ycombinator.com/item?id=46840219) - [The Saddest Moment (2013) [pdf]](https://www.usenix.org/system/files/login-logout_1305_mickens.pdf)
@@ -27,7 +28,6 @@
 * [2026-01-28, 13:59:06](https://news.ycombinator.com/item?id=46795487) - [Show HN: An extensible pub/sub messaging server for edge applications](https://github.com/narwhal-io/narwhal)
 * [2026-01-28, 13:17:56](https://news.ycombinator.com/item?id=46794971) - [My ridiculously robust photo management system (Immich edition)](https://jaisenmathai.com/articles/my-ridiculously-robust-photo-management-system-immich-edition/)
 * [2026-01-28, 07:43:39](https://news.ycombinator.com/item?id=46792242) - [NASA's WB-57 crash lands at Houston](https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/)
-* [2026-01-28, 05:28:36](https://news.ycombinator.com/item?id=46791434) - [A novelist who took on the Italian mafia and lived](https://www.thetimes.com/culture/books/article/sicilian-man-leonardo-sciascia-rise-mafia-struggle-italy-soul-caroline-moorehead-review-lbsbd2p5w)
 * [2026-01-27, 14:07:37](https://news.ycombinator.com/item?id=46780086) - [CPython Internals Explained](https://github.com/zpoint/CPython-Internals)
 * [2026-01-27, 12:23:24](https://news.ycombinator.com/item?id=46779061) - [Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep](https://minidump.net/writing-a-net-gc-in-c-part-6/)
 
