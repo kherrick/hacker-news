@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 21:44:23](https://news.ycombinator.com/item?id=46841187) - [This Year in LLVM (2025)](https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html)
+* [2026-01-31, 21:14:02](https://news.ycombinator.com/item?id=46840924) - [For most flagged articles, nearly every cited sentence failed verification](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 * [2026-01-31, 21:06:57](https://news.ycombinator.com/item?id=46840865) - [Outsourcing Thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)
 * [2026-01-31, 21:00:56](https://news.ycombinator.com/item?id=46840801) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer)
 * [2026-01-31, 20:48:33](https://news.ycombinator.com/item?id=46840676) - [Autonomous cars, drones cheerfully obey prompt injection by road sign](https://www.theregister.com/2026/01/30/road_sign_hijack_ai/)
+* [2026-01-31, 20:44:39](https://news.ycombinator.com/item?id=46840636) - [Humans can post on moltbook without ANY AGENT](https://github.com/shash42/post-a-molt)
 * [2026-01-31, 20:05:22](https://news.ycombinator.com/item?id=46840252) - [Demystifying ARM SME to Optimize General Matrix Multiplications](https://arxiv.org/abs/2512.21473)
 * [2026-01-31, 20:02:36](https://news.ycombinator.com/item?id=46840219) - [The Saddest Moment (2013) [pdf]](https://www.usenix.org/system/files/login-logout_1305_mickens.pdf)
+* [2026-01-31, 19:58:14](https://news.ycombinator.com/item?id=46840179) - [Noctia: A sleek and minimal desktop shell thoughtfully crafted for Wayland](https://github.com/noctalia-dev/noctalia-shell)
 * [2026-01-31, 19:58:00](https://news.ycombinator.com/item?id=46840178) - [Show HN: Minimal – Open-Source Community driven Hardened Container Images](https://github.com/rtvkiz/minimal)
 * [2026-01-31, 19:41:46](https://news.ycombinator.com/item?id=46840025) - [Evolving the OCaml programming language – CSE Bytes: K C Sivaramakrishnan [video]](https://www.youtube.com/watch?v=PFWe-7IAF8E)
 * [2026-01-31, 19:15:52](https://news.ycombinator.com/item?id=46839784) - [Berlin: Record harvest sparks mass giveaway of free potatoes](https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes)
