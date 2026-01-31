@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-31, 21:44:23",
+      "https://news.ycombinator.com/item?id=46841187"
+    ],
+    [
+      "This Year in LLVM (2025)",
+      "https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 21:14:02",
+      "https://news.ycombinator.com/item?id=46840924"
+    ],
+    [
+      "For most flagged articles, nearly every cited sentence failed verification",
+      "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/"
+    ]
+  ],
+  [
+    [
       "2026-01-31, 21:06:57",
       "https://news.ycombinator.com/item?id=46840865"
     ],
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2026-01-31, 20:44:39",
+      "https://news.ycombinator.com/item?id=46840636"
+    ],
+    [
+      "Humans can post on moltbook without ANY AGENT",
+      "https://github.com/shash42/post-a-molt"
+    ]
+  ],
+  [
+    [
       "2026-01-31, 20:05:22",
       "https://news.ycombinator.com/item?id=46840252"
     ],
@@ -47,6 +77,16 @@
     [
       "The Saddest Moment (2013) [pdf]",
       "https://www.usenix.org/system/files/login-logout_1305_mickens.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 19:58:14",
+      "https://news.ycombinator.com/item?id=46840179"
+    ],
+    [
+      "Noctia: A sleek and minimal desktop shell thoughtfully crafted for Wayland",
+      "https://github.com/noctalia-dev/noctalia-shell"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "Death Note: L, Anonymity and Eluding Entropy (2011)",
       "https://gwern.net/death-note-anonymity"
-    ]
-  ],
-  [
-    [
-      "2026-01-31, 18:41:36",
-      "https://news.ycombinator.com/item?id=46839375"
-    ],
-    [
-      "Google Cloud suspended my account for 2 years, only automated replies",
-      "https://news.ycombinator.com/item?id=46839375"
     ]
   ],
   [
@@ -155,7 +185,7 @@
       "https://news.ycombinator.com/item?id=46835454"
     ],
     [
-      "\"Giving up upstream-ing my patches & feel free to pick them up\"",
+      "Giving up upstream-ing my patches and feel free to pick them up",
       "https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html"
     ]
   ],
@@ -187,36 +217,6 @@
     [
       "Wikipedia: Sandbox",
       "https://en.wikipedia.org/wiki/Wikipedia:Sandbox"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 20:37:48",
-      "https://news.ycombinator.com/item?id=46829548"
-    ],
-    [
-      "Silver plunges 30% in worst day since 1980, gold tumbles",
-      "https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 20:05:24",
-      "https://news.ycombinator.com/item?id=46829147"
-    ],
-    [
-      "Antirender: remove the glossy shine on architectural renderings",
-      "https://antirender.com/"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 13:56:51",
-      "https://news.ycombinator.com/item?id=46824422"
-    ],
-    [
-      "HTTP Cats",
-      "https://http.cat/"
     ]
   ],
   [
