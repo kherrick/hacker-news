@@ -60,6 +60,7 @@
 * [2026-01-26, 13:17:19](https://news.ycombinator.com/item?id=46765273) - [Transfering Files with gRPC](https://kreya.app/blog/transfering-files-with-grpc/)
 * [2026-01-26, 13:01:00](https://news.ycombinator.com/item?id=46765120) - [Vibe Coding Kills Open Source](https://arxiv.org/abs/2601.15494)
 * [2026-01-26, 12:57:43](https://news.ycombinator.com/item?id=46765092) - [Water 'Bankruptcy' Era Has Begun for Billions, Scientists Say](https://www.bloomberg.com/news/articles/2026-01-20/water-bankruptcy-era-has-begun-for-billions-scientists-say)
+* [2026-01-26, 12:45:50](https://news.ycombinator.com/item?id=46764979) - [Animated AVIF for the Modern Web](https://arthur.pizza/2025/12/animated-avif-for-the-modern-web/)
 * [2026-01-26, 11:40:55](https://news.ycombinator.com/item?id=46764472) - [Implementing the Transcendental Functions in Ivy](https://commandcenter.blogspot.com/2026/01/implementing-transcendental-functions.html)
 * [2026-01-26, 11:16:17](https://news.ycombinator.com/item?id=46764284) - [Show HN: Posts p/month more than doubled in the last year](https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/)
 * [2026-01-26, 11:08:16](https://news.ycombinator.com/item?id=46764228) - [Joel Spolsky: Painless Software Schedules (2000)](https://www.joelonsoftware.com/2000/03/29/painless-software-schedules/)
