@@ -38,6 +38,7 @@
 * [2026-01-28, 16:48:59](https://news.ycombinator.com/item?id=46797868) - [Spinning around: Please don't – Common problems with spin locks](https://www.siliceum.com/en/blog/post/spinning-around/)
 * [2026-01-28, 16:48:48](https://news.ycombinator.com/item?id=46797865) - [Will AIs Take All Our Jobs and End Human History–Or Not?](https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/)
 * [2026-01-28, 16:32:00](https://news.ycombinator.com/item?id=46797594) - [Oban, the job processing framework from Elixir, has come to Python](https://www.dimamik.com/posts/oban_py/)
+* [2026-01-28, 15:53:27](https://news.ycombinator.com/item?id=46796957) - [Managing Unreliable Compilers](https://blog.tonkotsu.ai/p/managing-unreliable-compilers)
 * [2026-01-28, 15:44:24](https://news.ycombinator.com/item?id=46796825) - [Show HN: Config manager for Claude Code (and others) – rules, MCPs, permissions](https://github.com/regression-io/coder-config)
 * [2026-01-28, 15:39:11](https://news.ycombinator.com/item?id=46796745) - [Amazon axes 16,000 jobs as it pushes AI and efficiency](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)
 * [2026-01-28, 15:27:49](https://news.ycombinator.com/item?id=46796571) - [Dole Kemp 96 Web Site](https://www.dolekemp96.org/main.htm)
