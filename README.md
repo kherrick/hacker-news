@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-31, 06:53:16](https://news.ycombinator.com/item?id=46834153) - [America First Risks Becoming America Alone](https://www.wsj.com/world/how-america-first-risks-becoming-america-alone-6592701a)
 * [2026-01-31, 05:44:49](https://news.ycombinator.com/item?id=46833847) - [Starlink updates privacy policy to allow consumer data to train](https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html)
 * [2026-01-31, 05:22:03](https://news.ycombinator.com/item?id=46833754) - [Show HN: Phage Explorer](https://phage-explorer.org/)
 * [2026-01-31, 03:53:06](https://news.ycombinator.com/item?id=46833254) - [Naples' 1790s civil war was intensified by moral panic over Real Analysis (2023)](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/)
 * [2026-01-31, 00:51:27](https://news.ycombinator.com/item?id=46832074) - [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
 * [2026-01-31, 00:02:30](https://news.ycombinator.com/item?id=46831702) - [The $100B megadeal between OpenAI and Nvidia is on ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3)
 * [2026-01-30, 23:47:28](https://news.ycombinator.com/item?id=46831592) - [Stonebraker on CAP theorem and Databases (2010)](https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/)
-* [2026-01-30, 22:16:19](https://news.ycombinator.com/item?id=46830698) - [Show HN: I built an AI conversation partner to practice speaking languages](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
 * [2026-01-30, 21:58:46](https://news.ycombinator.com/item?id=46830523) - [I trapped an AI model inside an art installation (2025) [video]](https://www.youtube.com/watch?v=7fNYj0EXxMs)
 * [2026-01-30, 21:17:21](https://news.ycombinator.com/item?id=46830027) - [P vs. NP and the Difficulty of Computation: A ruliological approach](https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/)
 * [2026-01-30, 20:40:00](https://news.ycombinator.com/item?id=46829582) - [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)

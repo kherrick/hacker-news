@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 06:53:16](https://news.ycombinator.com/item?id=46834153) - [America First Risks Becoming America Alone](https://www.wsj.com/world/how-america-first-risks-becoming-america-alone-6592701a)
 * [2026-01-31, 05:51:52](https://news.ycombinator.com/item?id=46833871) - [Target director's Global Entry was revoked after ICE used app to scan her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/)
 * [2026-01-31, 05:44:49](https://news.ycombinator.com/item?id=46833847) - [Starlink updates privacy policy to allow consumer data to train](https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html)
 * [2026-01-31, 05:22:03](https://news.ycombinator.com/item?id=46833754) - [Show HN: Phage Explorer](https://phage-explorer.org/)
