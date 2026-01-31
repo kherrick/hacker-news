@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-31, 19:41:46",
+      "https://news.ycombinator.com/item?id=46840025"
+    ],
+    [
+      "Evolving the OCaml programming language – CSE Bytes: K C Sivaramakrishnan [video]",
+      "https://www.youtube.com/watch?v=PFWe-7IAF8E"
+    ]
+  ],
+  [
+    [
       "2026-01-31, 19:15:52",
       "https://news.ycombinator.com/item?id=46839784"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2026-01-31, 17:26:18",
-      "https://news.ycombinator.com/item?id=46838644"
-    ],
-    [
-      "Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018",
-      "https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018"
-    ]
-  ],
-  [
-    [
       "2026-01-31, 17:21:34",
       "https://news.ycombinator.com/item?id=46838597"
     ],
@@ -71,12 +71,32 @@
   ],
   [
     [
+      "2026-01-31, 16:26:35",
+      "https://news.ycombinator.com/item?id=46838026"
+    ],
+    [
+      "Film students who can no longer sit through films",
+      "https://www.theatlantic.com/ideas/2026/01/college-students-movies-attention-span/685812/"
+    ]
+  ],
+  [
+    [
       "2026-01-31, 16:04:03",
       "https://news.ycombinator.com/item?id=46837814"
     ],
     [
       "Apple Platform Security (Jan 2026) [pdf]",
       "https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 13:27:23",
+      "https://news.ycombinator.com/item?id=46836487"
+    ],
+    [
+      "US reportedly investigate claims that Meta can read encrypted WhatsApp messages",
+      "https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-01-31, 05:22:03",
-      "https://news.ycombinator.com/item?id=46833754"
-    ],
-    [
-      "Show HN: Phage Explorer",
-      "https://phage-explorer.org/"
-    ]
-  ],
-  [
-    [
       "2026-01-31, 00:51:27",
       "https://news.ycombinator.com/item?id=46832074"
     ],
@@ -187,16 +197,6 @@
     [
       "HTTP Cats",
       "https://http.cat/"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 22:46:38",
-      "https://news.ycombinator.com/item?id=46802748"
-    ],
-    [
-      "Disrupting the largest residential proxy network",
-      "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=46769399"
     ],
     [
-      "Predicting how Heathrow is using it's runways in the browser",
+      "What's going on at Heathrow Airport",
       "https://blog.billyedmoore.com/heathrow"
     ]
   ],
