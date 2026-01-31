@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-31, 05:51:52",
+      "https://news.ycombinator.com/item?id=46833871"
+    ],
+    [
+      "Target director's Global Entry was revoked after ICE used app to scan her face",
+      "https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 05:44:49",
+      "https://news.ycombinator.com/item?id=46833847"
+    ],
+    [
+      "Starlink updates privacy policy to allow consumer data to train",
+      "https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html"
+    ]
+  ],
+  [
+    [
       "2026-01-31, 05:22:03",
       "https://news.ycombinator.com/item?id=46833754"
     ],
@@ -11,12 +31,22 @@
   ],
   [
     [
-      "2026-01-31, 02:29:45",
-      "https://news.ycombinator.com/item?id=46832751"
+      "2026-01-31, 05:13:25",
+      "https://news.ycombinator.com/item?id=46833707"
     ],
     [
-      "Court Filings: ICE App Identifies Protesters; Global Entry, PreCheck Get Revoked",
-      "https://viewfromthewing.com/court-filings-ice-uses-mobile-fortify-to-identify-protesters-global-entry-and-precheck-get-revoked/"
+      "Genesis",
+      "https://zenodo.org/records/18438130"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 03:53:06",
+      "https://news.ycombinator.com/item?id=46833254"
+    ],
+    [
+      "Naples' 1790s civil war was intensified by moral panic over Real Analysis (2023)",
+      "https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-01-29, 21:11:41",
-      "https://news.ycombinator.com/item?id=46816644"
-    ],
-    [
-      "Building docs like a product",
-      "https://emschwartz.me/building-docs-like-a-product/"
-    ]
-  ],
-  [
-    [
       "2026-01-29, 14:23:22",
       "https://news.ycombinator.com/item?id=46810576"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2026-01-27, 19:57:24",
-      "https://news.ycombinator.com/item?id=46785572"
-    ],
-    [
-      "Chuck Klosterman on why we've never actually seen a real football game",
-      "https://www.latimes.com/entertainment-arts/books/story/2026-01-22/chuck-klosterman-new-book-football"
-    ]
-  ],
-  [
-    [
       "2026-01-27, 16:42:18",
       "https://news.ycombinator.com/item?id=46782412"
     ],
@@ -267,16 +277,6 @@
     [
       "Roots is a game server daemon that manages Docker containers for game servers",
       "https://github.com/SproutPanel/roots"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 00:24:56",
-      "https://news.ycombinator.com/item?id=46773793"
-    ],
-    [
-      "Quack-Cluster: A Serverless Distributed SQL Query Engine with DuckDB and Ray",
-      "https://github.com/kristianaryanto/Quack-Cluster"
     ]
   ],
   [
