@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-31, 21:00:56](https://news.ycombinator.com/item?id=46840801) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer)
 * [2026-01-31, 20:05:22](https://news.ycombinator.com/item?id=46840252) - [Demystifying ARM SME to Optimize General Matrix Multiplications](https://arxiv.org/abs/2512.21473)
 * [2026-01-31, 20:02:36](https://news.ycombinator.com/item?id=46840219) - [The Saddest Moment (2013) [pdf]](https://www.usenix.org/system/files/login-logout_1305_mickens.pdf)
 * [2026-01-31, 19:58:00](https://news.ycombinator.com/item?id=46840178) - [Show HN: Minimal – Open-Source Community driven Hardened Container Images](https://github.com/rtvkiz/minimal)
@@ -12,7 +13,6 @@
 * [2026-01-31, 17:21:34](https://news.ycombinator.com/item?id=46838597) - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
 * [2026-01-31, 17:06:22](https://news.ycombinator.com/item?id=46838417) - [Finland to end \"uncontrolled human experiment\" with ban on youth social media](https://yle.fi/a/74-20207494)
 * [2026-01-31, 16:26:35](https://news.ycombinator.com/item?id=46838026) - [Film students who can no longer sit through films](https://www.theatlantic.com/ideas/2026/01/college-students-movies-attention-span/685812/)
-* [2026-01-31, 12:00:22](https://news.ycombinator.com/item?id=46835834) - [Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer)
 * [2026-01-31, 11:22:24](https://news.ycombinator.com/item?id=46835612) - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
 * [2026-01-31, 10:53:38](https://news.ycombinator.com/item?id=46835454) - [\"Giving up upstream-ing my patches & feel free to pick them up\"](https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html)
 * [2026-01-31, 10:34:07](https://news.ycombinator.com/item?id=46835336) - [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)
