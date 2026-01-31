@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-31, 10:30:59",
+      "https://news.ycombinator.com/item?id=46835318"
+    ],
+    [
+      "htmx: Server Sent Event (SSE) Extension",
+      "https://htmx.org/extensions/sse/"
+    ]
+  ],
+  [
+    [
       "2026-01-31, 10:11:25",
       "https://news.ycombinator.com/item?id=46835208"
     ],
@@ -287,16 +297,6 @@
     [
       "An anecdote about backward compatibility",
       "https://blog.plover.com/2026/01/26/#wrterm"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 16:02:55",
-      "https://news.ycombinator.com/item?id=46767302"
-    ],
-    [
-      "International Collection of Tongue Twisters (2018)",
-      "https://tongue-twister.net"
     ]
   ]
 ]
