@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 23:47:28](https://news.ycombinator.com/item?id=46831592) - [Stonebraker on CAP theorem and Databases](https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/)
 * [2026-01-30, 22:16:19](https://news.ycombinator.com/item?id=46830698) - [Show HN: I built an AI conversation partner to practice speaking languages](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
 * [2026-01-30, 22:13:05](https://news.ycombinator.com/item?id=46830667) - [Vitamin D supplements cut heart attack risk by 52%. Why?](https://www.empirical.health/blog/vitamin-d-heart/)
 * [2026-01-30, 22:04:47](https://news.ycombinator.com/item?id=46830593) - [Iran rounds up thousands in mass arrest campaign after crushing unrest](https://www.reuters.com/world/middle-east/iran-rounds-up-thousands-mass-arrest-campaign-after-crushing-unrest-sources-say-2026-01-29/)

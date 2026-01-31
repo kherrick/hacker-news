@@ -14,6 +14,7 @@
 * [2026-01-28, 22:05:05](https://news.ycombinator.com/item?id=46802210) - [Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index](https://github.com/microsoft/bf-tree)
 * [2026-01-28, 21:50:47](https://news.ycombinator.com/item?id=46802067) - [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
 * [2026-01-28, 21:42:03](https://news.ycombinator.com/item?id=46801976) - [Jellyfin LLM/\"AI\" Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
+* [2026-01-28, 21:05:12](https://news.ycombinator.com/item?id=46801488) - [Ask HN: Why don't form-fitting Faraday iPhone cases exist?](https://news.ycombinator.com/item?id=46801488)
 * [2026-01-28, 20:59:30](https://news.ycombinator.com/item?id=46801419) - [Apple to Soon Take Up to 30% Cut from All Patreon Creators in iOS App](https://www.macrumors.com/2026/01/28/patreon-apple-tax/)
 * [2026-01-28, 20:43:10](https://news.ycombinator.com/item?id=46801225) - [What does Werner Herzog's nihilist penguin teach us about life?](https://lwlies.com/article/werner-herzog-penguin-encounters-at-the-end-of-the-world)
 * [2026-01-28, 19:59:04](https://news.ycombinator.com/item?id=46800737) - [Native Linux VST plugin directory](https://linuxmusic.rocks)
