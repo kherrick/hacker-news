@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-31, 19:41:46",
-      "https://news.ycombinator.com/item?id=46840025"
+      "2026-01-31, 20:05:22",
+      "https://news.ycombinator.com/item?id=46840252"
     ],
     [
-      "Evolving the OCaml programming language – CSE Bytes: K C Sivaramakrishnan [video]",
-      "https://www.youtube.com/watch?v=PFWe-7IAF8E"
+      "Demystifying ARM SME to Optimize General Matrix Multiplications",
+      "https://arxiv.org/abs/2512.21473"
     ]
   ],
   [
@@ -31,6 +31,26 @@
   ],
   [
     [
+      "2026-01-31, 18:41:36",
+      "https://news.ycombinator.com/item?id=46839375"
+    ],
+    [
+      "Google Cloud suspended my account for 2 years, only automated replies",
+      "https://news.ycombinator.com/item?id=46839375"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 18:27:36",
+      "https://news.ycombinator.com/item?id=46839215"
+    ],
+    [
+      "Nintendo DS code editor and scriptable game engine",
+      "https://crl.io/ds-game-engine/"
+    ]
+  ],
+  [
+    [
       "2026-01-31, 18:03:32",
       "https://news.ycombinator.com/item?id=46838981"
     ],
@@ -41,12 +61,12 @@
   ],
   [
     [
-      "2026-01-31, 18:00:14",
-      "https://news.ycombinator.com/item?id=46838946"
+      "2026-01-31, 17:25:30",
+      "https://news.ycombinator.com/item?id=46838635"
     ],
     [
-      "Ask HN: Any real OpenClaw (Clawd Bot/Molt Bot) users? What's your experience?",
-      "https://news.ycombinator.com/item?id=46838946"
+      "US has investigated claims WhatsApp chats aren't private",
+      "https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Apple Platform Security (Jan 2026) [pdf]",
       "https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-01-31, 13:27:23",
-      "https://news.ycombinator.com/item?id=46836487"
-    ],
-    [
-      "US reportedly investigate claims that Meta can read encrypted WhatsApp messages",
-      "https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-01-28, 18:09:07",
-      "https://news.ycombinator.com/item?id=46799244"
-    ],
-    [
-      "Students using “humanizer” programs to beat accusations of cheating with AI",
-      "https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878"
-    ]
-  ],
-  [
-    [
       "2026-01-28, 13:59:06",
       "https://news.ycombinator.com/item?id=46795487"
     ],
@@ -247,6 +247,16 @@
     [
       "NASA's WB-57 crash lands at Houston",
       "https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 05:28:36",
+      "https://news.ycombinator.com/item?id=46791434"
+    ],
+    [
+      "A novelist who took on the Italian mafia and lived",
+      "https://www.thetimes.com/culture/books/article/sicilian-man-leonardo-sciascia-rise-mafia-struggle-italy-soul-caroline-moorehead-review-lbsbd2p5w"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Animated AVIF for the Modern Web",
       "https://arthur.pizza/2025/12/animated-avif-for-the-modern-web/"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 11:40:55",
-      "https://news.ycombinator.com/item?id=46764472"
-    ],
-    [
-      "Implementing the Transcendental Functions in Ivy",
-      "https://commandcenter.blogspot.com/2026/01/implementing-transcendental-functions.html"
     ]
   ]
 ]
