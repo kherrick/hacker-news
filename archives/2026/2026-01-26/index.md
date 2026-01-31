@@ -28,6 +28,7 @@
 * [2026-01-26, 18:37:37](https://news.ycombinator.com/item?id=46769668) - [Notice of Collective Action Lawsuit Against Workday, INC](https://workdaycase.com)
 * [2026-01-26, 18:32:47](https://news.ycombinator.com/item?id=46769606) - [Godot 4.6 Release: It's all about your flow](https://godotengine.org/releases/4.6/)
 * [2026-01-26, 18:19:45](https://news.ycombinator.com/item?id=46769422) - [Show HN: Ourguide – OS wide task guidance system that shows you where to click](https://ourguide.ai)
+* [2026-01-26, 18:18:07](https://news.ycombinator.com/item?id=46769399) - [Predicting how Heathrow is using it's runways in the browser](https://blog.billyedmoore.com/heathrow)
 * [2026-01-26, 18:05:15](https://news.ycombinator.com/item?id=46769201) - [Google Books has been effectively killed by the last algorithm update](https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_removed_search/)
 * [2026-01-26, 18:04:15](https://news.ycombinator.com/item?id=46769188) - [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 * [2026-01-26, 18:00:32](https://news.ycombinator.com/item?id=46769131) - [House of Lords Votes to Ban UK Children from Using Internet VPNs](https://www.ispreview.co.uk/index.php/2026/01/house-of-lords-votes-to-ban-uk-children-from-using-internet-vpns.html)
