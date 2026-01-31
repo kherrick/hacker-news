@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-01-31, 17:47:46](https://news.ycombinator.com/item?id=46838834) - [A lot of the Moltbook stuff is fake](https://twitter.com/HumanHarlan/status/2017424292548673830)
+* [2026-01-31, 17:21:34](https://news.ycombinator.com/item?id=46838597) - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
+* [2026-01-31, 17:06:22](https://news.ycombinator.com/item?id=46838417) - [Finland to end \"uncontrolled human experiment\" with ban on youth social media](https://yle.fi/a/74-20207494)
 * [2026-01-31, 16:04:03](https://news.ycombinator.com/item?id=46837814) - [Apple Platform Security (Jan 2026) [pdf]](https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf)
-* [2026-01-31, 15:14:14](https://news.ycombinator.com/item?id=46837346) - [Nvidia's 10-year effort to make the Shield TV the most updated Android device](https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/)
 * [2026-01-31, 12:00:22](https://news.ycombinator.com/item?id=46835834) - [Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer)
 * [2026-01-31, 11:22:24](https://news.ycombinator.com/item?id=46835612) - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
 * [2026-01-31, 10:53:38](https://news.ycombinator.com/item?id=46835454) - [\"Giving up upstream-ing my patches & feel free to pick them up\"](https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html)
 * [2026-01-31, 10:34:07](https://news.ycombinator.com/item?id=46835336) - [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)
-* [2026-01-31, 09:58:39](https://news.ycombinator.com/item?id=46835124) - [CERN accepts $1B in private cash towards Future Circular Collider](https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/)
 * [2026-01-31, 09:30:05](https://news.ycombinator.com/item?id=46834953) - [We have ipinfo at home or how to geolocate IPs in your CLI using latency](https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/)
 * [2026-01-31, 07:32:51](https://news.ycombinator.com/item?id=46834313) - [Sumerian Star Map Recorded the Impact of an Asteroid (2024)](https://archaeologyworlds.com/5500-year-old-sumerian-star-map-recorded/)
 * [2026-01-31, 05:22:03](https://news.ycombinator.com/item?id=46833754) - [Show HN: Phage Explorer](https://phage-explorer.org/)
@@ -29,7 +30,6 @@
 * [2026-01-26, 17:07:37](https://news.ycombinator.com/item?id=46768260) - [An anecdote about backward compatibility](https://blog.plover.com/2026/01/26/#wrterm)
 * [2026-01-26, 12:45:50](https://news.ycombinator.com/item?id=46764979) - [Animated AVIF for the Modern Web](https://arthur.pizza/2025/12/animated-avif-for-the-modern-web/)
 * [2026-01-26, 11:40:55](https://news.ycombinator.com/item?id=46764472) - [Implementing the Transcendental Functions in Ivy](https://commandcenter.blogspot.com/2026/01/implementing-transcendental-functions.html)
-* [2026-01-26, 02:01:04](https://news.ycombinator.com/item?id=46760927) - [Show HN: SF Microclimates](https://github.com/solo-founders/sf-microclimates)
 
 ## [Archives](archives/index.md)
 

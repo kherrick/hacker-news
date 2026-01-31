@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 17:47:46](https://news.ycombinator.com/item?id=46838834) - [A lot of the Moltbook stuff is fake](https://twitter.com/HumanHarlan/status/2017424292548673830)
+* [2026-01-31, 17:21:34](https://news.ycombinator.com/item?id=46838597) - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
+* [2026-01-31, 17:06:22](https://news.ycombinator.com/item?id=46838417) - [Finland to end \"uncontrolled human experiment\" with ban on youth social media](https://yle.fi/a/74-20207494)
 * [2026-01-31, 16:26:35](https://news.ycombinator.com/item?id=46838026) - [The Film Students Who Can No Longer Sit Through Films](https://www.theatlantic.com/ideas/2026/01/college-students-movies-attention-span/685812/)
 * [2026-01-31, 16:04:03](https://news.ycombinator.com/item?id=46837814) - [Apple Platform Security (Jan 2026) [pdf]](https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf)
 * [2026-01-31, 15:14:14](https://news.ycombinator.com/item?id=46837346) - [Nvidia's 10-year effort to make the Shield TV the most updated Android device](https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/)
