@@ -47,6 +47,7 @@
 * [2026-01-28, 14:28:21](https://news.ycombinator.com/item?id=46795864) - [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
 * [2026-01-28, 14:06:39](https://news.ycombinator.com/item?id=46795582) - [When Every Network is 192.168.1.x](https://netrinos.com/blog/conflicting-subnets)
 * [2026-01-28, 14:03:28](https://news.ycombinator.com/item?id=46795540) - [Show HN: I built a small browser engine from scratch in C++](https://github.com/beginner-jhj/mini_browser)
+* [2026-01-28, 13:59:06](https://news.ycombinator.com/item?id=46795487) - [Show HN: An extensible pub/sub messaging server for edge applications](https://github.com/narwhal-io/narwhal)
 * [2026-01-28, 13:58:03](https://news.ycombinator.com/item?id=46795468) - [Show HN: Record and share your coding sessions with CodeMic](https://codemic.io/#)
 * [2026-01-28, 13:17:56](https://news.ycombinator.com/item?id=46794971) - [My Ridiculously Robust Photo Management System (Immich Edition)](https://jaisenmathai.com/articles/my-ridiculously-robust-photo-management-system-immich-edition/)
 * [2026-01-28, 12:30:02](https://news.ycombinator.com/item?id=46794472) - [If you tax them, will they leave?](https://www.theatlantic.com/economy/2026/01/california-wealth-tax-billionaire-migration/685779/)
