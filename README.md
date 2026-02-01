@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-01, 09:44:01](https://news.ycombinator.com/item?id=46844870) - [Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)](https://netbird.io/)
 * [2026-02-01, 09:33:46](https://news.ycombinator.com/item?id=46844822) - [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
 * [2026-02-01, 07:50:51](https://news.ycombinator.com/item?id=46844350) - [The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)
 * [2026-02-01, 01:03:23](https://news.ycombinator.com/item?id=46842603) - [List animals until failure](https://rose.systems/animalist/)
@@ -8,7 +9,6 @@
 * [2026-01-31, 22:05:03](https://news.ycombinator.com/item?id=46841374) - [Swift is a more convenient Rust (2023)](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
 * [2026-01-31, 21:14:02](https://news.ycombinator.com/item?id=46840924) - [Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 * [2026-01-31, 21:06:57](https://news.ycombinator.com/item?id=46840865) - [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)
-* [2026-01-31, 21:00:56](https://news.ycombinator.com/item?id=46840801) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer)
 * [2026-01-31, 20:50:56](https://news.ycombinator.com/item?id=46840698) - [Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.](https://github.com/zupat/related_post_gen)
 * [2026-01-31, 20:42:13](https://news.ycombinator.com/item?id=46840612) - [In praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
 * [2026-01-31, 20:05:22](https://news.ycombinator.com/item?id=46840252) - [Demystifying ARM SME to Optimize General Matrix Multiplications](https://arxiv.org/abs/2512.21473)
