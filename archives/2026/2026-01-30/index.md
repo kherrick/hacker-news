@@ -60,3 +60,4 @@
 * [2026-01-30, 03:11:43](https://news.ycombinator.com/item?id=46820113) - [Stargaze: SpaceX's Space Situational Awareness System](https://starlink.com/updates/stargaze)
 * [2026-01-30, 02:16:21](https://news.ycombinator.com/item?id=46819809) - [Two days of oatmeal reduce cholesterol level](https://www.uni-bonn.de/en/news/017-2026)
 * [2026-01-30, 00:28:39](https://news.ycombinator.com/item?id=46819000) - [9front OS](https://9front.org/)
+* [2026-01-30, 00:06:40](https://news.ycombinator.com/item?id=46818807) - [Common Lisp Extension for Zed](https://github.com/etyurkin/zed-cl)

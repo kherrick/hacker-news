@@ -7,6 +7,7 @@
 * [2026-02-01, 16:57:39](https://news.ycombinator.com/item?id=46847490) - [Pancreatic cancer researchers' latest breakthrough could help tumors disappear](https://nypost.com/2026/01/30/health/pancreatic-cancer-breakthrough-tumors-disappear-in-mice/)
 * [2026-02-01, 16:52:30](https://news.ycombinator.com/item?id=46847456) - [Real engineering failures instead of success stories](https://failhub.substack.com/p/failhub-issue-1)
 * [2026-02-01, 15:58:23](https://news.ycombinator.com/item?id=46847039) - [English professors double down on requiring printed copies of readings](https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings)
+* [2026-02-01, 15:09:26](https://news.ycombinator.com/item?id=46846697) - [Show HN: Voiden – an offline, Git-native API tool built around Markdown](https://github.com/VoidenHQ/voiden)
 * [2026-02-01, 14:39:20](https://news.ycombinator.com/item?id=46846503) - [US, UK, EU, Australia and more to meet to discuss critical minerals alliance](https://www.theguardian.com/business/2026/feb/01/us-uk-eu-australia-critical-minerals-rare-earths-g7-minimum-price)
 * [2026-02-01, 13:56:56](https://news.ycombinator.com/item?id=46846252) - [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
 * [2026-02-01, 13:50:15](https://news.ycombinator.com/item?id=46846210) - [Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code](https://github.com/zuckermanai/zuckerman)
