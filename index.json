@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-01, 10:01:10",
+      "https://news.ycombinator.com/item?id=46844969"
+    ],
+    [
+      "'Unsubscribe' and 'opt out': A new Big Tech boycott to protest ICE",
+      "https://www.businessinsider.com/tech-ai-boycott-february-protest-ice-scott-galloway-2026-2"
+    ]
+  ],
+  [
+    [
       "2026-02-01, 09:44:01",
       "https://news.ycombinator.com/item?id=46844870"
     ],
@@ -57,16 +67,6 @@
     [
       "Cells use 'bioelectricity' to coordinate and make group decisions",
       "https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/"
-    ]
-  ],
-  [
-    [
-      "2026-01-31, 22:05:03",
-      "https://news.ycombinator.com/item?id=46841374"
-    ],
-    [
-      "Swift is a more convenient Rust (2023)",
-      "https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2026-01-28, 08:00:08",
-      "https://news.ycombinator.com/item?id=46792347"
-    ],
-    [
-      "Nonograms: a practical guide with interactive examples",
-      "https://lab174.com/blog/202601-nonograms/"
-    ]
-  ],
-  [
-    [
       "2026-01-27, 21:33:28",
       "https://news.ycombinator.com/item?id=46787211"
     ],
     [
       "Opentrees.org (2024)",
       "https://opentrees.org/#pos=1/-37.8/145"
+    ]
+  ],
+  [
+    [
+      "2026-01-27, 20:57:25",
+      "https://news.ycombinator.com/item?id=46786575"
+    ],
+    [
+      "Reliable 25 Gigabit Ethernet via Thunderbolt",
+      "https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/"
     ]
   ],
   [
