@@ -44,6 +44,7 @@
 * [2026-01-27, 17:04:22](https://news.ycombinator.com/item?id=46782811) - [Management as AI superpower: Thriving in a world of agentic AI](https://www.oneusefulthing.org/p/management-as-ai-superpower)
 * [2026-01-27, 17:01:37](https://news.ycombinator.com/item?id=46782763) - [Artie (YC S23) Is Hiring a Founding Recruiter](https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter)
 * [2026-01-27, 16:56:23](https://news.ycombinator.com/item?id=46782662) - [OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing](https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467)
+* [2026-01-27, 16:44:39](https://news.ycombinator.com/item?id=46782462) - [Anciente map of Fairyland. Places from nursery rhymes, fairy tales etc.](https://collections.leventhalmap.org/search/commonwealth:3f463773q)
 * [2026-01-27, 16:42:18](https://news.ycombinator.com/item?id=46782412) - [The National Herbarium of Ireland digital collection of Irish plants](https://dri.ie/news/new-collection-in-dri-the-national-herbarium-of-ireland-digital-collection-of-irish-plants/)
 * [2026-01-27, 16:39:27](https://news.ycombinator.com/item?id=46782357) - [Emoji Design Convergence Review: 2018-2026](https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/)
 * [2026-01-27, 16:23:40](https://news.ycombinator.com/item?id=46782091) - [A first look at Aperture by Tailscale (private alpha)](https://tailscale.com/blog/aperture-private-alpha)

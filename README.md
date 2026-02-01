@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-01, 13:56:56](https://news.ycombinator.com/item?id=46846252) - [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
+* [2026-02-01, 13:50:15](https://news.ycombinator.com/item?id=46846210) - [Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code](https://github.com/zuckermanai/zuckerman)
 * [2026-02-01, 11:35:32](https://news.ycombinator.com/item?id=46845470) - [How to Scale a System from 0 to 10M+ Users](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users)
 * [2026-02-01, 10:57:20](https://news.ycombinator.com/item?id=46845244) - [Amiga Unix (Amix)](https://www.amigaunix.com/doku.php/home)
 * [2026-02-01, 10:30:41](https://news.ycombinator.com/item?id=46845103) - [FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap](https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/)
@@ -14,10 +15,8 @@
 * [2026-01-31, 20:50:56](https://news.ycombinator.com/item?id=46840698) - [Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.](https://github.com/zupat/related_post_gen)
 * [2026-01-31, 20:48:33](https://news.ycombinator.com/item?id=46840676) - [Autonomous cars, drones cheerfully obey prompt injection by road sign](https://www.theregister.com/2026/01/30/road_sign_hijack_ai/)
 * [2026-01-31, 20:42:13](https://news.ycombinator.com/item?id=46840612) - [In praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
-* [2026-01-31, 18:27:36](https://news.ycombinator.com/item?id=46839215) - [Nintendo DS code editor and scriptable game engine](https://crl.io/ds-game-engine/)
 * [2026-01-31, 17:21:34](https://news.ycombinator.com/item?id=46838597) - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
 * [2026-01-31, 15:14:14](https://news.ycombinator.com/item?id=46837346) - [Nvidia's 10-year effort to make the Shield TV the most updated Android device](https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/)
-* [2026-01-29, 22:36:21](https://news.ycombinator.com/item?id=46817779) - [EV-1 for Lease (1996)](https://www.loe.org/shows/shows.html?programID=96-P13-00047#feature4)
 * [2026-01-29, 18:04:45](https://news.ycombinator.com/item?id=46813909) - [Coffee as a staining agent substitute in electron microscopy](https://phys.org/news/2026-01-coffee-agent-substitute-electron-microscopy.html)
 * [2026-01-29, 16:54:39](https://news.ycombinator.com/item?id=46812795) - [MicroPythonOS graphical operating system delivers Android-like user experience](https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/)
 * [2026-01-29, 02:00:40](https://news.ycombinator.com/item?id=46804754) - [A web server on a single floppy disk](http://floppy.ddns.net/)
@@ -30,6 +29,7 @@
 * [2026-01-27, 21:33:28](https://news.ycombinator.com/item?id=46787211) - [Opentrees.org (2024)](https://opentrees.org/#pos=1/-37.8/145)
 * [2026-01-27, 20:57:25](https://news.ycombinator.com/item?id=46786575) - [Reliable 25 Gigabit Ethernet via Thunderbolt](https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/)
 * [2026-01-27, 17:07:35](https://news.ycombinator.com/item?id=46782872) - [The history of C# and TypeScript with Anders Hejlsberg [video]](https://www.youtube.com/watch?v=uMqx8NNT4xY)
+* [2026-01-27, 16:44:39](https://news.ycombinator.com/item?id=46782462) - [Anciente map of Fairyland. Places from nursery rhymes, fairy tales etc.](https://collections.leventhalmap.org/search/commonwealth:3f463773q)
 
 ## [Archives](archives/index.md)
 
