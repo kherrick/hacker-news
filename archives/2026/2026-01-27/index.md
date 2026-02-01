@@ -51,6 +51,7 @@
 * [2026-01-27, 15:46:29](https://news.ycombinator.com/item?id=46781530) - [430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
 * [2026-01-27, 15:46:29](https://news.ycombinator.com/item?id=46781530) - [430k-year-old well-preserved wooden tools are the oldest ever found](https://archaeologymag.com/2026/01/430000-year-old-wooden-tools-marathousa/)
 * [2026-01-27, 15:45:45](https://news.ycombinator.com/item?id=46781516) - [Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't](https://tech.lgbt/@JadedBlueEyes/115967791152135761)
+* [2026-01-27, 15:44:11](https://news.ycombinator.com/item?id=46781490) - [Sometimes Your Job Is to Stay the Hell Out of the Way](https://randsinrepose.com/archives/sometimes-your-job-is-to-stay-the-hell-out-of-the-way/)
 * [2026-01-27, 15:41:14](https://news.ycombinator.com/item?id=46781444) - [Amazon Closing Fresh and Go Stores](https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html)
 * [2026-01-27, 15:16:34](https://news.ycombinator.com/item?id=46781090) - [Show HN: Fuzzy Studio – Apply live effects to videos/camera](https://fuzzy.ulyssepence.com/)
 * [2026-01-27, 15:02:01](https://news.ycombinator.com/item?id=46780891) - [Doin' It with a 555: One Chip to Rule Them All](https://aashvik.com/posts/555-revolution/)

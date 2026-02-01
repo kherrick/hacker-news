@@ -13,7 +13,6 @@
 * [2026-01-31, 20:42:13](https://news.ycombinator.com/item?id=46840612) - [In praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
 * [2026-01-31, 20:05:22](https://news.ycombinator.com/item?id=46840252) - [Demystifying ARM SME to Optimize General Matrix Multiplications](https://arxiv.org/abs/2512.21473)
 * [2026-01-31, 20:02:36](https://news.ycombinator.com/item?id=46840219) - [The Saddest Moment (2013) [pdf]](https://www.usenix.org/system/files/login-logout_1305_mickens.pdf)
-* [2026-01-31, 19:58:14](https://news.ycombinator.com/item?id=46840179) - [Noctia: A sleek and minimal desktop shell thoughtfully crafted for Wayland](https://github.com/noctalia-dev/noctalia-shell)
 * [2026-01-31, 19:58:00](https://news.ycombinator.com/item?id=46840178) - [Show HN: Minimal – Open-Source Community driven Hardened Container Images](https://github.com/rtvkiz/minimal)
 * [2026-01-31, 18:27:36](https://news.ycombinator.com/item?id=46839215) - [Nintendo DS code editor and scriptable game engine](https://crl.io/ds-game-engine/)
 * [2026-01-31, 17:21:34](https://news.ycombinator.com/item?id=46838597) - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
@@ -29,6 +28,7 @@
 * [2026-01-28, 08:00:08](https://news.ycombinator.com/item?id=46792347) - [Nonograms: a practical guide with interactive examples](https://lab174.com/blog/202601-nonograms/)
 * [2026-01-27, 21:33:28](https://news.ycombinator.com/item?id=46787211) - [Opentrees.org (2024)](https://opentrees.org/#pos=1/-37.8/145)
 * [2026-01-27, 17:07:35](https://news.ycombinator.com/item?id=46782872) - [The history of C# and TypeScript with Anders Hejlsberg | GitHub](https://www.youtube.com/watch?v=uMqx8NNT4xY)
+* [2026-01-27, 15:44:11](https://news.ycombinator.com/item?id=46781490) - [Sometimes Your Job Is to Stay the Hell Out of the Way](https://randsinrepose.com/archives/sometimes-your-job-is-to-stay-the-hell-out-of-the-way/)
 * [2026-01-27, 14:07:37](https://news.ycombinator.com/item?id=46780086) - [CPython Internals Explained](https://github.com/zpoint/CPython-Internals)
 
 ## [Archives](archives/index.md)
