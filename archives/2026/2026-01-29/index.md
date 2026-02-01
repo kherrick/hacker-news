@@ -28,6 +28,7 @@
 * [2026-01-29, 18:55:38](https://news.ycombinator.com/item?id=46814743) - [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
 * [2026-01-29, 18:53:30](https://news.ycombinator.com/item?id=46814701) - [SpaceX in Merger Talks with xAI](https://www.reuters.com/world/musks-spacex-merger-talks-with-xai-ahead-planned-ipo-source-says-2026-01-29/)
 * [2026-01-29, 18:48:09](https://news.ycombinator.com/item?id=46814614) - [County pays $600k to pentesters it arrested for assessing courthouse security](https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/)
+* [2026-01-29, 18:46:33](https://news.ycombinator.com/item?id=46814581) - [Founding Is a Snowball](https://blog.bawolf.com/p/founding-is-a-snowball)
 * [2026-01-29, 18:45:27](https://news.ycombinator.com/item?id=46814569) - [My Mom and Dr. DeepSeek (2025)](https://restofworld.org/2025/ai-chatbot-china-sick/)
 * [2026-01-29, 18:18:22](https://news.ycombinator.com/item?id=46814129) - [MakuluLinux (6.4M Downloads) Ships Persistent Backdoor from Developer's Own C2](https://werai.ca/security-disclosure.html)
 * [2026-01-29, 18:17:54](https://news.ycombinator.com/item?id=46814115) - [OpenAI's In-House Data Agent](https://openai.com/index/inside-our-in-house-data-agent)
