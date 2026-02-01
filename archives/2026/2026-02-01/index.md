@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-01](index.md)
 
+* [2026-02-01, 19:11:55](https://news.ycombinator.com/item?id=46848497) - [The philosophy behind ODF: openness, freedom and control – TDF Community Blog](https://blog.documentfoundation.org/blog/2026/01/24/the-philosophy-behind-odf/)
+* [2026-02-01, 19:00:46](https://news.ycombinator.com/item?id=46848415) - [I taught my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
+* [2026-02-01, 18:51:56](https://news.ycombinator.com/item?id=46848343) - [Light exposure and aspects of cognitive function in everyday life](https://www.nature.com/articles/s44271-025-00373-9)
 * [2026-02-01, 18:41:54](https://news.ycombinator.com/item?id=46848260) - [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
 * [2026-02-01, 17:50:46](https://news.ycombinator.com/item?id=46847899) - [NCR Tower 1632 – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/ncr-tower-1632)
 * [2026-02-01, 17:36:57](https://news.ycombinator.com/item?id=46847780) - [Apple: Our philosophy is to provide software for our machines free (1976)](http://apple1.chez.com/Apple1project/Gallery/Gallery.htm)
