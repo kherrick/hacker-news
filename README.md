@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-01, 17:50:46](https://news.ycombinator.com/item?id=46847899) - [NCR Tower 1632 – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/ncr-tower-1632)
+* [2026-02-01, 18:41:54](https://news.ycombinator.com/item?id=46848260) - [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
 * [2026-02-01, 17:36:57](https://news.ycombinator.com/item?id=46847780) - [Apple: Our philosophy is to provide software for our machines free (1976)](http://apple1.chez.com/Apple1project/Gallery/Gallery.htm)
 * [2026-02-01, 17:33:04](https://news.ycombinator.com/item?id=46847746) - [Aging muscle stem cells shift from rapid repair to long-term survival](https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html)
 * [2026-02-01, 16:52:30](https://news.ycombinator.com/item?id=46847456) - [Real engineering failures instead of success stories](https://failhub.substack.com/p/failhub-issue-1)
@@ -20,6 +20,7 @@
 * [2026-01-31, 20:42:13](https://news.ycombinator.com/item?id=46840612) - [In praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
 * [2026-01-31, 17:21:34](https://news.ycombinator.com/item?id=46838597) - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
 * [2026-01-30, 19:41:13](https://news.ycombinator.com/item?id=46828907) - [Jack Kerouac's 37 metre-long, first draft scroll of On the Road to be auctioned](https://www.theguardian.com/books/2026/jan/30/jack-kerouac-on-the-road-first-draft-scroll-to-be-auctioned)
+* [2026-01-30, 04:59:37](https://news.ycombinator.com/item?id=46820691) - [Show HN: ÆTHRA – Writing Music as Code](https://news.ycombinator.com/item?id=46820691)
 * [2026-01-29, 18:04:45](https://news.ycombinator.com/item?id=46813909) - [Coffee as a staining agent substitute in electron microscopy](https://phys.org/news/2026-01-coffee-agent-substitute-electron-microscopy.html)
 * [2026-01-29, 16:54:39](https://news.ycombinator.com/item?id=46812795) - [MicroPythonOS graphical operating system delivers Android-like user experience](https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/)
 * [2026-01-29, 02:00:40](https://news.ycombinator.com/item?id=46804754) - [A web server on a single floppy disk](http://floppy.ddns.net/)
@@ -27,7 +28,6 @@
 * [2026-01-28, 18:20:35](https://news.ycombinator.com/item?id=46799435) - [VisualJJ – Jujutsu in Visual Studio Code](https://www.visualjj.com/)
 * [2026-01-28, 08:00:08](https://news.ycombinator.com/item?id=46792347) - [Nonograms: a practical guide with interactive examples](https://lab174.com/blog/202601-nonograms/)
 * [2026-01-27, 21:33:28](https://news.ycombinator.com/item?id=46787211) - [Opentrees.org (2024)](https://opentrees.org/#pos=1/-37.8/145)
-* [2026-01-27, 20:57:25](https://news.ycombinator.com/item?id=46786575) - [Reliable 25 Gigabit Ethernet via Thunderbolt](https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/)
 * [2026-01-27, 17:07:35](https://news.ycombinator.com/item?id=46782872) - [The history of C# and TypeScript with Anders Hejlsberg [video]](https://www.youtube.com/watch?v=uMqx8NNT4xY)
 * [2026-01-27, 16:44:39](https://news.ycombinator.com/item?id=46782462) - [Anciente map of Fairyland. Places from nursery rhymes, fairy tales etc.](https://collections.leventhalmap.org/search/commonwealth:3f463773q)
 

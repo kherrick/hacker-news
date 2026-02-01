@@ -55,6 +55,7 @@
 * [2026-01-30, 06:19:36](https://news.ycombinator.com/item?id=46821134) - [Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/)
 * [2026-01-30, 05:41:23](https://news.ycombinator.com/item?id=46820924) - [Way AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)
 * [2026-01-30, 05:14:48](https://news.ycombinator.com/item?id=46820783) - [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)
+* [2026-01-30, 04:59:37](https://news.ycombinator.com/item?id=46820691) - [Show HN: ÆTHRA – Writing Music as Code](https://news.ycombinator.com/item?id=46820691)
 * [2026-01-30, 04:17:38](https://news.ycombinator.com/item?id=46820468) - [The Dank Case for Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/)
 * [2026-01-30, 03:55:34](https://news.ycombinator.com/item?id=46820360) - [Moltbook](https://www.moltbook.com/)
 * [2026-01-30, 03:11:43](https://news.ycombinator.com/item?id=46820113) - [Stargaze: SpaceX's Space Situational Awareness System](https://starlink.com/updates/stargaze)
