@@ -41,6 +41,7 @@
 * [2026-01-28, 15:53:27](https://news.ycombinator.com/item?id=46796957) - [Managing Unreliable Compilers](https://blog.tonkotsu.ai/p/managing-unreliable-compilers)
 * [2026-01-28, 15:44:24](https://news.ycombinator.com/item?id=46796825) - [Show HN: Config manager for Claude Code (and others) – rules, MCPs, permissions](https://github.com/regression-io/coder-config)
 * [2026-01-28, 15:39:11](https://news.ycombinator.com/item?id=46796745) - [Amazon axes 16,000 jobs as it pushes AI and efficiency](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)
+* [2026-01-28, 15:38:05](https://news.ycombinator.com/item?id=46796718) - [Drawings of the elements of CMS detector, in the style of Leonardo da Vinci](https://cds.cern.ch/record/1157741/)
 * [2026-01-28, 15:27:49](https://news.ycombinator.com/item?id=46796571) - [Dole Kemp 96 Web Site](https://www.dolekemp96.org/main.htm)
 * [2026-01-28, 15:13:53](https://news.ycombinator.com/item?id=46796389) - [Tuning Semantic Search on JFMM.net – Joint Fleet Maintenance Manual](https://carlkolon.com/2026/01/27/jfmm-semantic-search/)
 * [2026-01-28, 15:00:15](https://news.ycombinator.com/item?id=46796195) - [Local agents will win](https://twitter.com/EdouardGodfrey/status/2016343089334702081)
