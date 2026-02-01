@@ -28,6 +28,7 @@
 * [2026-01-30, 16:43:50](https://news.ycombinator.com/item?id=46826597) - [Kimi K2.5 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf)
 * [2026-01-30, 16:22:05](https://news.ycombinator.com/item?id=46826277) - [Ask HN: Do you also \"hoard\" notes/links but struggle to turn them into actions?](https://news.ycombinator.com/item?id=46826277)
 * [2026-01-30, 16:03:34](https://news.ycombinator.com/item?id=46826017) - [Detecting Dementia Using Lexical Analysis: Terry Pratchett's Discworld](https://www.mdpi.com/2076-3425/16/1/94)
+* [2026-01-30, 16:02:53](https://news.ycombinator.com/item?id=46826011) - [Efficient String Compression for Modern Database Systems](https://cedardb.com/blog/string_compression/)
 * [2026-01-30, 15:50:15](https://news.ycombinator.com/item?id=46825828) - [Lemonade Autonomous Car Insurance (With Tesla FSD Discount)](https://www.lemonade.com/car/explained/self-driving-car-insurance/)
 * [2026-01-30, 15:19:28](https://news.ycombinator.com/item?id=46825415) - [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)
 * [2026-01-30, 15:04:36](https://news.ycombinator.com/item?id=46825200) - [HumanConsumption.Live – Real-Time Global Animal Consumption Stats](https://www.humanconsumption.live/)
