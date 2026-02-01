@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-01, 20:04:14](https://news.ycombinator.com/item?id=46848907) - [Oregon gave homeless youth $1k/month with no strings. Here's what happened](https://www.oregonlive.com/politics/2026/01/oregon-tried-giving-homeless-youth-1000-a-month-with-no-strings-attached-heres-what-happened.html)
+* [2026-02-01, 19:47:47](https://news.ycombinator.com/item?id=46848769) - [1-Click RCE to steal your Moltbot data and keys](https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys)
 * [2026-02-01, 19:38:45](https://news.ycombinator.com/item?id=46848699) - [TIL: Apple Broke Time Machine Again on Tahoe](https://taoofmac.com/space/til/2026/02/01/1630)
 * [2026-02-01, 19:25:44](https://news.ycombinator.com/item?id=46848594) - ['Right-to-Compute' Laws May Be Coming to Your State This Year](https://www.vktr.com/ai-ethics-law-risk/right-to-compute-laws/)
 * [2026-02-01, 19:00:46](https://news.ycombinator.com/item?id=46848415) - [I taught my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
@@ -10,7 +10,7 @@
 * [2026-02-01, 17:54:55](https://news.ycombinator.com/item?id=46847924) - [A Crisis comes to Wordle: Reusing old words](https://forkingmad.blog/wordle-crisis/)
 * [2026-02-01, 17:36:57](https://news.ycombinator.com/item?id=46847780) - [Apple I Advertisement (1976)](http://apple1.chez.com/Apple1project/Gallery/Gallery.htm)
 * [2026-02-01, 17:33:04](https://news.ycombinator.com/item?id=46847746) - [Aging muscle stem cells shift from rapid repair to long-term survival](https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html)
-* [2026-02-01, 15:09:26](https://news.ycombinator.com/item?id=46846697) - [Show HN: Voiden – an offline, Git-native API tool built around Markdown](https://github.com/VoidenHQ/voiden)
+* [2026-02-01, 15:58:23](https://news.ycombinator.com/item?id=46847039) - [English professors double down on requiring printed copies of readings](https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings)
 * [2026-02-01, 13:56:56](https://news.ycombinator.com/item?id=46846252) - [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
 * [2026-02-01, 10:57:20](https://news.ycombinator.com/item?id=46845244) - [Amiga Unix (Amix)](https://www.amigaunix.com/doku.php/home)
 * [2026-02-01, 10:30:41](https://news.ycombinator.com/item?id=46845103) - [FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap](https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/)
@@ -19,7 +19,6 @@
 * [2026-02-01, 07:50:51](https://news.ycombinator.com/item?id=46844350) - [The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)
 * [2026-02-01, 01:03:23](https://news.ycombinator.com/item?id=46842603) - [List animals until failure](https://rose.systems/animalist/)
 * [2026-02-01, 00:00:11](https://news.ycombinator.com/item?id=46842178) - [Cells use 'bioelectricity' to coordinate and make group decisions](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/)
-* [2026-01-31, 21:14:02](https://news.ycombinator.com/item?id=46840924) - [Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 * [2026-01-31, 20:42:13](https://news.ycombinator.com/item?id=46840612) - [In praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
 * [2026-01-30, 19:41:13](https://news.ycombinator.com/item?id=46828907) - [Jack Kerouac's 37 metre-long, first draft scroll of On the Road to be auctioned](https://www.theguardian.com/books/2026/jan/30/jack-kerouac-on-the-road-first-draft-scroll-to-be-auctioned)
 * [2026-01-30, 16:02:53](https://news.ycombinator.com/item?id=46826011) - [Efficient String Compression for Modern Database Systems](https://cedardb.com/blog/string_compression/)
@@ -28,6 +27,7 @@
 * [2026-01-29, 16:54:39](https://news.ycombinator.com/item?id=46812795) - [MicroPythonOS graphical operating system delivers Android-like user experience](https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/)
 * [2026-01-29, 02:00:40](https://news.ycombinator.com/item?id=46804754) - [A web server on a single floppy disk](http://floppy.ddns.net/)
 * [2026-01-28, 18:20:35](https://news.ycombinator.com/item?id=46799435) - [VisualJJ – Jujutsu in Visual Studio Code](https://www.visualjj.com/)
+* [2026-01-27, 20:57:25](https://news.ycombinator.com/item?id=46786575) - [Reliable 25 Gigabit Ethernet via Thunderbolt](https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/)
 * [2026-01-27, 17:07:35](https://news.ycombinator.com/item?id=46782872) - [The history of C# and TypeScript with Anders Hejlsberg [video]](https://www.youtube.com/watch?v=uMqx8NNT4xY)
 * [2026-01-27, 16:44:39](https://news.ycombinator.com/item?id=46782462) - [Anciente map of Fairyland. Places from nursery rhymes, fairy tales etc.](https://collections.leventhalmap.org/search/commonwealth:3f463773q)
 

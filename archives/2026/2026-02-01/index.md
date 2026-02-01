@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-01](index.md)
 
 * [2026-02-01, 20:04:14](https://news.ycombinator.com/item?id=46848907) - [Oregon gave homeless youth $1k/month with no strings. Here's what happened](https://www.oregonlive.com/politics/2026/01/oregon-tried-giving-homeless-youth-1000-a-month-with-no-strings-attached-heres-what-happened.html)
+* [2026-02-01, 19:47:47](https://news.ycombinator.com/item?id=46848769) - [1-Click RCE to steal your Moltbot data and keys](https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys)
 * [2026-02-01, 19:38:45](https://news.ycombinator.com/item?id=46848699) - [TIL: Apple Broke Time Machine Again on Tahoe](https://taoofmac.com/space/til/2026/02/01/1630)
 * [2026-02-01, 19:25:44](https://news.ycombinator.com/item?id=46848594) - ['Right-to-Compute' Laws May Be Coming to Your State This Year](https://www.vktr.com/ai-ethics-law-risk/right-to-compute-laws/)
 * [2026-02-01, 19:11:55](https://news.ycombinator.com/item?id=46848497) - [The philosophy behind ODF: openness, freedom and control – TDF Community Blog](https://blog.documentfoundation.org/blog/2026/01/24/the-philosophy-behind-odf/)
