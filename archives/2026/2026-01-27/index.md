@@ -11,6 +11,7 @@
 * [2026-01-27, 21:33:28](https://news.ycombinator.com/item?id=46787211) - [Opentrees.org (2024)](https://opentrees.org/#pos=1/-37.8/145)
 * [2026-01-27, 21:02:36](https://news.ycombinator.com/item?id=46786672) - [CISA’s acting head uploaded sensitive files into public version of ChatGPT](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361)
 * [2026-01-27, 20:59:49](https://news.ycombinator.com/item?id=46786618) - [Show HN: I Wrapped the Zorks with an LLM](https://infocom.tambo.co/)
+* [2026-01-27, 20:57:25](https://news.ycombinator.com/item?id=46786575) - [Reliable 25 Gigabit Ethernet via Thunderbolt](https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/)
 * [2026-01-27, 20:38:22](https://news.ycombinator.com/item?id=46786237) - [TikTok settles just before social media addiction trial to begin](https://www.bbc.com/news/articles/c24g8v6qr1mo)
 * [2026-01-27, 20:36:14](https://news.ycombinator.com/item?id=46786196) - [Parametric CAD in Rust](https://campedersen.com/vcad)
 * [2026-01-27, 20:35:34](https://news.ycombinator.com/item?id=46786183) - [Time Station Emulator](https://github.com/kangtastic/timestation)

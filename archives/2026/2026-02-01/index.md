@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-01](index.md)
 
+* [2026-02-01, 10:01:10](https://news.ycombinator.com/item?id=46844969) - ['Unsubscribe' and 'opt out': A new Big Tech boycott to protest ICE](https://www.businessinsider.com/tech-ai-boycott-february-protest-ice-scott-galloway-2026-2)
 * [2026-02-01, 09:44:01](https://news.ycombinator.com/item?id=46844870) - [Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)](https://netbird.io/)
 * [2026-02-01, 09:33:46](https://news.ycombinator.com/item?id=46844822) - [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
 * [2026-02-01, 07:50:51](https://news.ycombinator.com/item?id=46844350) - [The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)
