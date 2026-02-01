@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-01](index.md)
 
+* [2026-02-01, 21:47:38](https://news.ycombinator.com/item?id=46849715) - [Iran summons families of exiled journalists to halt their activities](https://www.iranintl.com/en/202602017863)
+* [2026-02-01, 21:33:02](https://news.ycombinator.com/item?id=46849588) - [Apple's Q4 2025 margin on Services was 76.5%](https://asymco.com/2026/02/01/margin-call-3/)
 * [2026-02-01, 20:04:14](https://news.ycombinator.com/item?id=46848907) - [Oregon gave homeless youth $1k/month with no strings. Here's what happened](https://www.oregonlive.com/politics/2026/01/oregon-tried-giving-homeless-youth-1000-a-month-with-no-strings-attached-heres-what-happened.html)
 * [2026-02-01, 19:47:47](https://news.ycombinator.com/item?id=46848769) - [1-Click RCE to steal your Moltbot data and keys](https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys)
 * [2026-02-01, 19:38:45](https://news.ycombinator.com/item?id=46848699) - [TIL: Apple Broke Time Machine Again on Tahoe](https://taoofmac.com/space/til/2026/02/01/1630)

@@ -47,6 +47,7 @@
 * [2026-01-27, 16:44:39](https://news.ycombinator.com/item?id=46782462) - [Anciente map of Fairyland. Places from nursery rhymes, fairy tales etc.](https://collections.leventhalmap.org/search/commonwealth:3f463773q)
 * [2026-01-27, 16:42:18](https://news.ycombinator.com/item?id=46782412) - [The National Herbarium of Ireland digital collection of Irish plants](https://dri.ie/news/new-collection-in-dri-the-national-herbarium-of-ireland-digital-collection-of-irish-plants/)
 * [2026-01-27, 16:39:27](https://news.ycombinator.com/item?id=46782357) - [Emoji Design Convergence Review: 2018-2026](https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/)
+* [2026-01-27, 16:39:25](https://news.ycombinator.com/item?id=46782356) - [Good if make prior after data instead of before](https://www.lesswrong.com/posts/JAA2cLFH7rLGNCeCo/good-if-make-prior-after-data-instead-of-before)
 * [2026-01-27, 16:23:40](https://news.ycombinator.com/item?id=46782091) - [A first look at Aperture by Tailscale (private alpha)](https://tailscale.com/blog/aperture-private-alpha)
 * [2026-01-27, 15:58:05](https://news.ycombinator.com/item?id=46781707) - [Amazon to shut down Go and Fresh stores](https://www.cnn.com/2026/01/27/food/amazon-fresh-go-closures)
 * [2026-01-27, 15:58:05](https://news.ycombinator.com/item?id=46781707) - [Amazon to Shut Down All Amazon Go and Amazon Fresh Stores](https://www.wsj.com/business/retail/amazon-to-shut-down-all-amazon-go-and-amazon-fresh-stores-0301dfb7)

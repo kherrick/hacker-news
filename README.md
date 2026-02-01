@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-01, 21:47:38](https://news.ycombinator.com/item?id=46849715) - [Iran summons families of exiled journalists to halt their activities](https://www.iranintl.com/en/202602017863)
+* [2026-02-01, 21:33:02](https://news.ycombinator.com/item?id=46849588) - [Apple's Q4 2025 margin on Services was 76.5%](https://asymco.com/2026/02/01/margin-call-3/)
 * [2026-02-01, 19:47:47](https://news.ycombinator.com/item?id=46848769) - [1-Click RCE to steal your Moltbot data and keys](https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys)
 * [2026-02-01, 19:38:45](https://news.ycombinator.com/item?id=46848699) - [TIL: Apple Broke Time Machine Again on Tahoe](https://taoofmac.com/space/til/2026/02/01/1630)
-* [2026-02-01, 19:25:44](https://news.ycombinator.com/item?id=46848594) - ['Right-to-Compute' Laws May Be Coming to Your State This Year](https://www.vktr.com/ai-ethics-law-risk/right-to-compute-laws/)
 * [2026-02-01, 19:00:46](https://news.ycombinator.com/item?id=46848415) - [I taught my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
 * [2026-02-01, 18:51:56](https://news.ycombinator.com/item?id=46848343) - [Light exposure and aspects of cognitive function in everyday life](https://www.nature.com/articles/s44271-025-00373-9)
 * [2026-02-01, 18:41:54](https://news.ycombinator.com/item?id=46848260) - [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
@@ -18,8 +19,6 @@
 * [2026-02-01, 09:33:46](https://news.ycombinator.com/item?id=46844822) - [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
 * [2026-02-01, 07:50:51](https://news.ycombinator.com/item?id=46844350) - [The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)
 * [2026-02-01, 01:03:23](https://news.ycombinator.com/item?id=46842603) - [List animals until failure](https://rose.systems/animalist/)
-* [2026-02-01, 00:00:11](https://news.ycombinator.com/item?id=46842178) - [Cells use 'bioelectricity' to coordinate and make group decisions](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/)
-* [2026-01-31, 20:42:13](https://news.ycombinator.com/item?id=46840612) - [In praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
 * [2026-01-30, 19:41:13](https://news.ycombinator.com/item?id=46828907) - [Jack Kerouac's 37 metre-long, first draft scroll of On the Road to be auctioned](https://www.theguardian.com/books/2026/jan/30/jack-kerouac-on-the-road-first-draft-scroll-to-be-auctioned)
 * [2026-01-30, 16:02:53](https://news.ycombinator.com/item?id=46826011) - [Efficient String Compression for Modern Database Systems](https://cedardb.com/blog/string_compression/)
 * [2026-01-30, 05:31:29](https://news.ycombinator.com/item?id=46820874) - [Typechecking is undecidable when 'type' is a type (1989) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6)
@@ -30,6 +29,7 @@
 * [2026-01-27, 20:57:25](https://news.ycombinator.com/item?id=46786575) - [Reliable 25 Gigabit Ethernet via Thunderbolt](https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/)
 * [2026-01-27, 17:07:35](https://news.ycombinator.com/item?id=46782872) - [The history of C# and TypeScript with Anders Hejlsberg [video]](https://www.youtube.com/watch?v=uMqx8NNT4xY)
 * [2026-01-27, 16:44:39](https://news.ycombinator.com/item?id=46782462) - [Anciente map of Fairyland. Places from nursery rhymes, fairy tales etc.](https://collections.leventhalmap.org/search/commonwealth:3f463773q)
+* [2026-01-27, 16:39:25](https://news.ycombinator.com/item?id=46782356) - [Good if make prior after data instead of before](https://www.lesswrong.com/posts/JAA2cLFH7rLGNCeCo/good-if-make-prior-after-data-instead-of-before)
 
 ## [Archives](archives/index.md)
 
