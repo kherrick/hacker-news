@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=46847780"
     ],
     [
-      "Apple: Our philosophy is to provide software for our machines free (1976)",
+      "Apple I Advertisement (1976)",
       "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm"
     ]
   ],
@@ -117,16 +117,6 @@
     [
       "Adventure Game Studio: OSS software for creating adventure games",
       "https://www.adventuregamestudio.co.uk/"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 13:50:15",
-      "https://news.ycombinator.com/item?id=46846210"
-    ],
-    [
-      "Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code",
-      "https://github.com/zuckermanai/zuckerman"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "A web server on a single floppy disk",
       "http://floppy.ddns.net/"
+    ]
+  ],
+  [
+    [
+      "2026-01-29, 00:36:30",
+      "https://news.ycombinator.com/item?id=46804009"
+    ],
+    [
+      "Pg_tracing: Distributed Tracing for PostgreSQL",
+      "https://github.com/DataDog/pg_tracing"
     ]
   ],
   [
