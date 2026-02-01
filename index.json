@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2026-02-01, 01:00:07",
-      "https://news.ycombinator.com/item?id=46842586"
-    ],
-    [
-      "Sparse File LRU Cache",
-      "http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html"
-    ]
-  ],
-  [
-    [
       "2026-02-01, 00:00:11",
       "https://news.ycombinator.com/item?id=46842178"
     ],
@@ -107,6 +97,26 @@
     [
       "Outsourcing thinking",
       "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 20:50:56",
+      "https://news.ycombinator.com/item?id=46840698"
+    ],
+    [
+      "Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.",
+      "https://github.com/zupat/related_post_gen"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 20:48:33",
+      "https://news.ycombinator.com/item?id=46840676"
+    ],
+    [
+      "Autonomous cars, drones cheerfully obey prompt injection by road sign",
+      "https://www.theregister.com/2026/01/30/road_sign_hijack_ai/"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-01-31, 16:04:03",
-      "https://news.ycombinator.com/item?id=46837814"
-    ],
-    [
-      "Apple Platform Security (Jan 2026) [pdf]",
-      "https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf"
-    ]
-  ],
-  [
-    [
       "2026-01-31, 15:14:14",
       "https://news.ycombinator.com/item?id=46837346"
     ],
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2026-01-29, 16:54:39",
+      "https://news.ycombinator.com/item?id=46812795"
+    ],
+    [
+      "MicroPythonOS graphical operating system delivers Android-like user experience",
+      "https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/"
+    ]
+  ],
+  [
+    [
       "2026-01-29, 02:00:40",
       "https://news.ycombinator.com/item?id=46804754"
     ],
@@ -205,18 +215,8 @@
       "https://news.ycombinator.com/item?id=46804009"
     ],
     [
-      "pg_tracing: Distributed Tracing for PostgreSQL",
+      "Pg_tracing: Distributed Tracing for PostgreSQL",
       "https://github.com/DataDog/pg_tracing"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 22:09:15",
-      "https://news.ycombinator.com/item?id=46802254"
-    ],
-    [
-      "Show HN: Moltbook – A social network for moltbots (clawdbots) to hang out",
-      "https://www.moltbook.com/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=46781490"
     ],
     [
-      "Sometimes Your Job Is to Stay the Hell Out of the Way",
+      "Sometimes your job is to stay the hell out of the way",
       "https://randsinrepose.com/archives/sometimes-your-job-is-to-stay-the-hell-out-of-the-way/"
     ]
   ]
