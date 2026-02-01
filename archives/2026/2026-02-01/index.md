@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-01](index.md)
 
+* [2026-02-01, 17:50:46](https://news.ycombinator.com/item?id=46847899) - [NCR Tower 1632 – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/ncr-tower-1632)
+* [2026-02-01, 17:36:57](https://news.ycombinator.com/item?id=46847780) - [Apple: Our philosophy is to provide software for our machines free (1976)](http://apple1.chez.com/Apple1project/Gallery/Gallery.htm)
+* [2026-02-01, 17:33:04](https://news.ycombinator.com/item?id=46847746) - [Aging muscle stem cells shift from rapid repair to long-term survival](https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html)
 * [2026-02-01, 16:57:39](https://news.ycombinator.com/item?id=46847490) - [Pancreatic cancer researchers' latest breakthrough could help tumors disappear](https://nypost.com/2026/01/30/health/pancreatic-cancer-breakthrough-tumors-disappear-in-mice/)
 * [2026-02-01, 16:52:30](https://news.ycombinator.com/item?id=46847456) - [Real engineering failures instead of success stories](https://failhub.substack.com/p/failhub-issue-1)
 * [2026-02-01, 15:58:23](https://news.ycombinator.com/item?id=46847039) - [English professors double down on requiring printed copies of readings](https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings)
