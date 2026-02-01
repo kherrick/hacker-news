@@ -8,6 +8,7 @@
 * [2026-01-29, 23:06:34](https://news.ycombinator.com/item?id=46818154) - [What the Success of Coding Agents Teaches Us about AI Systems in General](https://softwarefordays.com/post/software-is-mostly-all-you-need/)
 * [2026-01-29, 22:49:40](https://news.ycombinator.com/item?id=46817963) - [Employers, please use postmarked letters for job applications (2025)](https://soapstone.mradford.com/employers-use-letters-for-job-applications/)
 * [2026-01-29, 22:38:57](https://news.ycombinator.com/item?id=46817813) - [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
+* [2026-01-29, 22:36:21](https://news.ycombinator.com/item?id=46817779) - [EV-1 for Lease (1996)](https://www.loe.org/shows/shows.html?programID=96-P13-00047#feature4)
 * [2026-01-29, 22:34:54](https://news.ycombinator.com/item?id=46817764) - [Cutting Up Curved Things (With Math)](https://campedersen.com/tessellation)
 * [2026-01-29, 22:10:07](https://news.ycombinator.com/item?id=46817452) - [Backseat Software](https://blog.mikeswanson.com/backseat-software/)
 * [2026-01-29, 21:51:52](https://news.ycombinator.com/item?id=46817187) - [EFF to Close Friday in Solidarity with National Shutdown](https://www.eff.org/deeplinks/2026/01/eff-close-friday-solidarity-national-shutdown)
@@ -81,3 +82,4 @@
 * [2026-01-29, 02:08:40](https://news.ycombinator.com/item?id=46804828) - [Beautiful Mermaid](https://github.com/lukilabs/beautiful-mermaid)
 * [2026-01-29, 01:16:41](https://news.ycombinator.com/item?id=46804396) - [Show HN: Shelvy Books](https://shelvybooks.com)
 * [2026-01-29, 01:15:02](https://news.ycombinator.com/item?id=46804375) - [Declassifying JUMPSEAT: an American pioneer in space](https://www.nro.gov/news-media-featured-stories/news-media-archive/News-Article/Article/4392223/declassifying-jumpseat-an-american-pioneer-in-space/)
+* [2026-01-29, 00:36:30](https://news.ycombinator.com/item?id=46804009) - [pg_tracing: Distributed Tracing for PostgreSQL](https://github.com/DataDog/pg_tracing)
