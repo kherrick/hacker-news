@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-01, 16:57:39](https://news.ycombinator.com/item?id=46847490) - [Pancreatic cancer researchers' latest breakthrough could help tumors disappear](https://nypost.com/2026/01/30/health/pancreatic-cancer-breakthrough-tumors-disappear-in-mice/)
+* [2026-02-01, 16:52:30](https://news.ycombinator.com/item?id=46847456) - [Real engineering failures instead of success stories](https://failhub.substack.com/p/failhub-issue-1)
 * [2026-02-01, 15:58:23](https://news.ycombinator.com/item?id=46847039) - [English professors double down on requiring printed copies of readings](https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings)
 * [2026-02-01, 13:56:56](https://news.ycombinator.com/item?id=46846252) - [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
 * [2026-02-01, 13:50:15](https://news.ycombinator.com/item?id=46846210) - [Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code](https://github.com/zuckermanai/zuckerman)
@@ -12,7 +14,6 @@
 * [2026-02-01, 00:00:11](https://news.ycombinator.com/item?id=46842178) - [Cells use 'bioelectricity' to coordinate and make group decisions](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/)
 * [2026-01-31, 21:14:02](https://news.ycombinator.com/item?id=46840924) - [Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 * [2026-01-31, 21:06:57](https://news.ycombinator.com/item?id=46840865) - [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)
-* [2026-01-31, 21:00:56](https://news.ycombinator.com/item?id=46840801) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer)
 * [2026-01-31, 20:48:33](https://news.ycombinator.com/item?id=46840676) - [Autonomous cars, drones cheerfully obey prompt injection by road sign](https://www.theregister.com/2026/01/30/road_sign_hijack_ai/)
 * [2026-01-31, 20:42:13](https://news.ycombinator.com/item?id=46840612) - [In praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
 * [2026-01-31, 17:21:34](https://news.ycombinator.com/item?id=46838597) - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
@@ -23,7 +24,6 @@
 * [2026-01-29, 02:00:40](https://news.ycombinator.com/item?id=46804754) - [A web server on a single floppy disk](http://floppy.ddns.net/)
 * [2026-01-29, 00:36:30](https://news.ycombinator.com/item?id=46804009) - [Pg_tracing: Distributed Tracing for PostgreSQL](https://github.com/DataDog/pg_tracing)
 * [2026-01-28, 18:20:35](https://news.ycombinator.com/item?id=46799435) - [VisualJJ – Jujutsu in Visual Studio Code](https://www.visualjj.com/)
-* [2026-01-28, 15:38:05](https://news.ycombinator.com/item?id=46796718) - [Drawings of the elements of CMS detector, in the style of Leonardo da Vinci](https://cds.cern.ch/record/1157741/)
 * [2026-01-28, 15:13:53](https://news.ycombinator.com/item?id=46796389) - [Tuning Semantic Search on JFMM.net – Joint Fleet Maintenance Manual](https://carlkolon.com/2026/01/27/jfmm-semantic-search/)
 * [2026-01-28, 08:00:08](https://news.ycombinator.com/item?id=46792347) - [Nonograms: a practical guide with interactive examples](https://lab174.com/blog/202601-nonograms/)
 * [2026-01-27, 21:33:28](https://news.ycombinator.com/item?id=46787211) - [Opentrees.org (2024)](https://opentrees.org/#pos=1/-37.8/145)
