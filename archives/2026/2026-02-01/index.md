@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-01](index.md)
 
+* [2026-02-01, 23:11:49](https://news.ycombinator.com/item?id=46850350) - [We (As a Society) Peaked in the 90s](https://chris.pagecord.com/we-as-a-society-peaked-in-the-90s)
 * [2026-02-01, 22:49:22](https://news.ycombinator.com/item?id=46850205) - [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
+* [2026-02-01, 22:14:39](https://news.ycombinator.com/item?id=46849926) - [Treasures found on HS2 route stored in secret warehouse](https://www.bbc.com/news/articles/c93v21q5xdvo)
 * [2026-02-01, 22:02:57](https://news.ycombinator.com/item?id=46849827) - [IntentBound: Purpose-aware authorization for autonomous AI agents](https://news.ycombinator.com/item?id=46849827)
 * [2026-02-01, 21:47:38](https://news.ycombinator.com/item?id=46849715) - [Iran summons families of exiled journalists to halt their activities](https://www.iranintl.com/en/202602017863)
 * [2026-02-01, 21:37:00](https://news.ycombinator.com/item?id=46849630) - [MRI scans show exercise can make the brain look younger](https://www.sciencedaily.com/releases/2026/01/260121034130.htm)
