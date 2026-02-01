@@ -10,6 +10,7 @@
 * [2026-02-01, 21:37:00](https://news.ycombinator.com/item?id=46849630) - [MRI scans show exercise can make the brain look younger](https://www.sciencedaily.com/releases/2026/01/260121034130.htm)
 * [2026-02-01, 21:33:02](https://news.ycombinator.com/item?id=46849588) - [Apple's Q4 2025 margin on Services was 76.5%](https://asymco.com/2026/02/01/margin-call-3/)
 * [2026-02-01, 21:30:51](https://news.ycombinator.com/item?id=46849567) - [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
+* [2026-02-01, 21:07:24](https://news.ycombinator.com/item?id=46849375) - [A Collection of Awesome Nostr Projects](https://github.com/aljazceru/awesome-nostr)
 * [2026-02-01, 20:51:56](https://news.ycombinator.com/item?id=46849258) - [My thousand dollar iPhone can't do math](https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/)
 * [2026-02-01, 20:29:02](https://news.ycombinator.com/item?id=46849078) - [Kiki – The accountability monster for people who are easily distracted](https://www.kiki.computer/)
 * [2026-02-01, 20:04:14](https://news.ycombinator.com/item?id=46848907) - [Oregon gave homeless youth $1k/month with no strings. Here's what happened](https://www.oregonlive.com/politics/2026/01/oregon-tried-giving-homeless-youth-1000-a-month-with-no-strings-attached-heres-what-happened.html)
