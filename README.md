@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-01, 03:14:38](https://news.ycombinator.com/item?id=46843301) - [I dropped my Google Pixel 9 XL Pro from 6th floor balcony to the street](https://ercanermis.com/i-dropped-my-google-pixel-9-xl-pro-from-6th-floor-balcony-to-the-street/)
 * [2026-02-01, 02:25:26](https://news.ycombinator.com/item?id=46843037) - [Apple-1 Computer Prototype Board #0 sold for $2.75M](https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/)
 * [2026-02-01, 01:03:23](https://news.ycombinator.com/item?id=46842603) - [List animals until failure](https://rose.systems/animalist/)
 * [2026-02-01, 01:00:07](https://news.ycombinator.com/item?id=46842586) - [Sparse File LRU Cache](http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html)
@@ -29,6 +28,7 @@
 * [2026-01-28, 10:03:11](https://news.ycombinator.com/item?id=46793313) - [Scientist who helped eradicate smallpox dies at age 89](https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/)
 * [2026-01-28, 08:00:08](https://news.ycombinator.com/item?id=46792347) - [Nonograms: a practical guide with interactive examples](https://lab174.com/blog/202601-nonograms/)
 * [2026-01-27, 21:33:28](https://news.ycombinator.com/item?id=46787211) - [Opentrees.org (2024)](https://opentrees.org/#pos=1/-37.8/145)
+* [2026-01-27, 17:07:35](https://news.ycombinator.com/item?id=46782872) - [The history of C# and TypeScript with Anders Hejlsberg | GitHub](https://www.youtube.com/watch?v=uMqx8NNT4xY)
 * [2026-01-27, 14:07:37](https://news.ycombinator.com/item?id=46780086) - [CPython Internals Explained](https://github.com/zpoint/CPython-Internals)
 
 ## [Archives](archives/index.md)

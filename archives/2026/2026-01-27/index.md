@@ -39,6 +39,7 @@
 * [2026-01-27, 17:18:20](https://news.ycombinator.com/item?id=46783024) - [One Human and One Agent = One Browser from Scratch](https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/)
 * [2026-01-27, 17:17:54](https://news.ycombinator.com/item?id=46783017) - [AI2: Open Coding Agents](https://allenai.org/blog/open-coding-agents)
 * [2026-01-27, 17:11:39](https://news.ycombinator.com/item?id=46782930) - [SoundCloud Data Breach Now on HaveIBeenPwned](https://haveibeenpwned.com/Breach/SoundCloud)
+* [2026-01-27, 17:07:35](https://news.ycombinator.com/item?id=46782872) - [The history of C# and TypeScript with Anders Hejlsberg | GitHub](https://www.youtube.com/watch?v=uMqx8NNT4xY)
 * [2026-01-27, 17:04:22](https://news.ycombinator.com/item?id=46782811) - [Management as AI superpower: Thriving in a world of agentic AI](https://www.oneusefulthing.org/p/management-as-ai-superpower)
 * [2026-01-27, 17:01:37](https://news.ycombinator.com/item?id=46782763) - [Artie (YC S23) Is Hiring a Founding Recruiter](https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter)
 * [2026-01-27, 16:56:23](https://news.ycombinator.com/item?id=46782662) - [OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing](https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467)
