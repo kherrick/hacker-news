@@ -3,7 +3,7 @@
 * [2026-02-01, 11:35:32](https://news.ycombinator.com/item?id=46845470) - [How to Scale a System from 0 to 10M+ Users](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users)
 * [2026-02-01, 10:57:20](https://news.ycombinator.com/item?id=46845244) - [Amiga Unix (Amix)](https://www.amigaunix.com/doku.php/home)
 * [2026-02-01, 10:30:41](https://news.ycombinator.com/item?id=46845103) - [FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap](https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/)
-* [2026-02-01, 09:44:01](https://news.ycombinator.com/item?id=46844870) - [Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)](https://netbird.io/)
+* [2026-02-01, 09:44:01](https://news.ycombinator.com/item?id=46844870) - [Netbird – Open Source Zero Trust Networking](https://netbird.io/)
 * [2026-02-01, 09:33:46](https://news.ycombinator.com/item?id=46844822) - [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
 * [2026-02-01, 07:50:51](https://news.ycombinator.com/item?id=46844350) - [The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)
 * [2026-02-01, 01:03:23](https://news.ycombinator.com/item?id=46842603) - [List animals until failure](https://rose.systems/animalist/)
@@ -28,7 +28,7 @@
 * [2026-01-28, 08:00:08](https://news.ycombinator.com/item?id=46792347) - [Nonograms: a practical guide with interactive examples](https://lab174.com/blog/202601-nonograms/)
 * [2026-01-27, 21:33:28](https://news.ycombinator.com/item?id=46787211) - [Opentrees.org (2024)](https://opentrees.org/#pos=1/-37.8/145)
 * [2026-01-27, 20:57:25](https://news.ycombinator.com/item?id=46786575) - [Reliable 25 Gigabit Ethernet via Thunderbolt](https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/)
-* [2026-01-27, 17:07:35](https://news.ycombinator.com/item?id=46782872) - [The history of C# and TypeScript with Anders Hejlsberg | GitHub](https://www.youtube.com/watch?v=uMqx8NNT4xY)
+* [2026-01-27, 17:07:35](https://news.ycombinator.com/item?id=46782872) - [The history of C# and TypeScript with Anders Hejlsberg [video]](https://www.youtube.com/watch?v=uMqx8NNT4xY)
 * [2026-01-27, 15:44:11](https://news.ycombinator.com/item?id=46781490) - [Sometimes Your Job Is to Stay the Hell Out of the Way](https://randsinrepose.com/archives/sometimes-your-job-is-to-stay-the-hell-out-of-the-way/)
 
 ## [Archives](archives/index.md)
