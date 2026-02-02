@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-02-02](index.md)
 
 * [2026-02-02, 09:18:09](https://news.ycombinator.com/item?id=46853983) - [What Most People Miss About Getting Promoted – By Yue Zhao](https://news.theuncommonexecutive.com/p/what-most-people-miss-about-getting)
+* [2026-02-02, 08:59:40](https://news.ycombinator.com/item?id=46853888) - [EU launches government satcom program in sovereignty push](https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/)
+* [2026-02-02, 07:58:49](https://news.ycombinator.com/item?id=46853552) - [Library of Juggling](https://libraryofjuggling.com/)
 * [2026-02-02, 05:10:59](https://news.ycombinator.com/item?id=46852660) - [Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce](https://www.wired.com/story/the-red-bull-leaks/)
 * [2026-02-02, 03:29:55](https://news.ycombinator.com/item?id=46852096) - [Apple's MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html)
 * [2026-02-02, 03:25:31](https://news.ycombinator.com/item?id=46852073) - [ICE protester says her Global Entry was revoked after agent scanned her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/)

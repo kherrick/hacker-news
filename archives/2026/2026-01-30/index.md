@@ -39,6 +39,7 @@
 * [2026-01-30, 14:08:58](https://news.ycombinator.com/item?id=46824558) - [Former CNN journalist Don Lemon arrested in connection with Minnesota protest](https://abcnews.go.com/US/don-lemon-arrested-connection-minnesota-protest-sources/story?id=129699476)
 * [2026-01-30, 13:56:51](https://news.ycombinator.com/item?id=46824422) - [HTTP Cats](https://http.cat/)
 * [2026-01-30, 13:55:29](https://news.ycombinator.com/item?id=46824400) - [Ode to the AA Battery](https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/)
+* [2026-01-30, 13:29:44](https://news.ycombinator.com/item?id=46824147) - [Board Games in Ancient Fiction: Egypt, Iran, Greece](https://reference-global.com/article/10.2478/bgs-2022-0016)
 * [2026-01-30, 13:23:53](https://news.ycombinator.com/item?id=46824098) - [Wisconsin communities signed secrecy deals for billion-dollar data centers](https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers)
 * [2026-01-30, 13:13:11](https://news.ycombinator.com/item?id=46824017) - [Norway EV Push Nears 100 Percent: What's Next?](https://spectrum.ieee.org/norway-ev-policy-electric-vehicles)
 * [2026-01-30, 12:50:34](https://news.ycombinator.com/item?id=46823849) - [Deterministic Governance: mechanical exclusion / bit-identical](https://github.com/Rymley/Deterministic-Governance-Mechanism)
