@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-01](index.md)
 
+* [2026-02-01, 23:53:48](https://news.ycombinator.com/item?id=46850653) - [History and Timeline of the Proco Rat Pedal (2021)](https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal)
 * [2026-02-01, 23:11:49](https://news.ycombinator.com/item?id=46850350) - [We (As a Society) Peaked in the 90s](https://chris.pagecord.com/we-as-a-society-peaked-in-the-90s)
 * [2026-02-01, 22:49:22](https://news.ycombinator.com/item?id=46850205) - [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
 * [2026-02-01, 22:14:39](https://news.ycombinator.com/item?id=46849926) - [Treasures found on HS2 route stored in secret warehouse](https://www.bbc.com/news/articles/c93v21q5xdvo)
@@ -14,6 +15,7 @@
 * [2026-02-01, 21:30:51](https://news.ycombinator.com/item?id=46849567) - [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
 * [2026-02-01, 21:07:24](https://news.ycombinator.com/item?id=46849375) - [A Collection of Awesome Nostr Projects](https://github.com/aljazceru/awesome-nostr)
 * [2026-02-01, 20:51:56](https://news.ycombinator.com/item?id=46849258) - [My thousand dollar iPhone can't do math](https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/)
+* [2026-02-01, 20:40:45](https://news.ycombinator.com/item?id=46849154) - [Building Your Own Efficient uint128 in C++](https://solidean.com/blog/2026/building-your-own-u128/)
 * [2026-02-01, 20:29:02](https://news.ycombinator.com/item?id=46849078) - [Kiki – The accountability monster for people who are easily distracted](https://www.kiki.computer/)
 * [2026-02-01, 20:04:14](https://news.ycombinator.com/item?id=46848907) - [Oregon gave homeless youth $1k/month with no strings. Here's what happened](https://www.oregonlive.com/politics/2026/01/oregon-tried-giving-homeless-youth-1000-a-month-with-no-strings-attached-heres-what-happened.html)
 * [2026-02-01, 19:47:47](https://news.ycombinator.com/item?id=46848769) - [1-Click RCE to steal your Moltbot data and keys](https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys)
