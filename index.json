@@ -1,26 +1,6 @@
 [
   [
     [
-      "2026-02-02, 13:11:52",
-      "https://news.ycombinator.com/item?id=46855640"
-    ],
-    [
-      "AdBoost: A Browser Extension That Adds Ads To Every Webpage",
-      "https://github.com/surprisetalk/AdBoost"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 13:02:04",
-      "https://news.ycombinator.com/item?id=46855550"
-    ],
-    [
-      "UK Government Launches Fuel Forecourt Price API",
-      "https://www.developer.fuel-finder.service.gov.uk/access-latest-fuelprices"
-    ]
-  ],
-  [
-    [
       "2026-02-02, 12:59:58",
       "https://news.ycombinator.com/item?id=46855527"
     ],
@@ -37,6 +17,16 @@
     [
       "Nano-vLLM: How a vLLM-style inference engine works",
       "https://neutree.ai/blog/nano-vllm-part-1"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 11:58:58",
+      "https://news.ycombinator.com/item?id=46854999"
+    ],
+    [
+      "Claude Code is suddenly everywhere inside Microsoft",
+      "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad"
     ]
   ],
   [
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2026-02-01, 23:45:18",
-      "https://news.ycombinator.com/item?id=46850588"
-    ],
-    [
-      "Two kinds of AI users are emerging",
-      "https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/"
-    ]
-  ],
-  [
-    [
       "2026-02-01, 22:49:22",
       "https://news.ycombinator.com/item?id=46850205"
     ],
@@ -187,6 +167,16 @@
     [
       "Building Your Own Efficient uint128 in C++",
       "https://solidean.com/blog/2026/building-your-own-u128/"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 18:41:54",
+      "https://news.ycombinator.com/item?id=46848260"
+    ],
+    [
+      "Clearspace (YC W23) Is Hiring an Applied Researcher (ML)",
+      "https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Rev up the viral factories",
       "https://www.science.org/content/blog-post/rev-viral-factories"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 03:17:32",
+      "https://news.ycombinator.com/item?id=46820142"
+    ],
+    [
+      "4x faster network file sync with rclone (vs rsync) (2025)",
+      "https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/"
     ]
   ],
   [
