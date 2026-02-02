@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-02, 18:02:48",
+      "https://news.ycombinator.com/item?id=46859054"
+    ],
+    [
+      "The Codex App",
+      "https://openai.com/index/introducing-the-codex-app/"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 17:49:07",
+      "https://news.ycombinator.com/item?id=46858873"
+    ],
+    [
+      "Advancing AI Benchmarking with Game Arena",
+      "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 17:45:27",
+      "https://news.ycombinator.com/item?id=46858829"
+    ],
+    [
+      "Linux From Scratch Ends SysVinit Support",
+      "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html"
+    ]
+  ],
+  [
+    [
       "2026-02-02, 17:43:14",
       "https://news.ycombinator.com/item?id=46858802"
     ],
@@ -17,6 +47,16 @@
     [
       "Todd C. Miller – sudo Maintainer for over 30 years",
       "https://www.millert.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 16:08:36",
+      "https://news.ycombinator.com/item?id=46857615"
+    ],
+    [
+      "Hacking Moltbook: The AI Social Network Any Human Can Control",
+      "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys"
     ]
   ],
   [
@@ -47,16 +87,6 @@
     [
       "Kernighan on Programming",
       "https://news.ycombinator.com/item?id=46857444"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 15:46:10",
-      "https://news.ycombinator.com/item?id=46857290"
-    ],
-    [
-      "Swift in the Browser with ElementaryUI (Swift FOSDEM 2026 Talk) [video]",
-      "https://www.youtube.com/watch?v=OmQ881sOTIc"
     ]
   ],
   [
@@ -187,36 +217,6 @@
     [
       "Ian's Shoelace Site",
       "https://www.fieggen.com/shoelace/"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 17:36:57",
-      "https://news.ycombinator.com/item?id=46847780"
-    ],
-    [
-      "Apple I Advertisement (1976)",
-      "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 13:56:56",
-      "https://news.ycombinator.com/item?id=46846252"
-    ],
-    [
-      "Adventure Game Studio: OSS software for creating adventure games",
-      "https://www.adventuregamestudio.co.uk/"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 10:29:07",
-      "https://news.ycombinator.com/item?id=46845097"
-    ],
-    [
-      "Show HN: Apate API mocking/prototyping server and Rust unit test library",
-      "https://github.com/rustrum/apate"
     ]
   ],
   [
