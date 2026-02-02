@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-02](index.md)
 
+* [2026-02-02, 16:01:30](https://news.ycombinator.com/item?id=46857488) - [Ask HN: Who is hiring? (February 2026)](https://news.ycombinator.com/item?id=46857488)
+* [2026-02-02, 15:26:52](https://news.ycombinator.com/item?id=46857082) - [Rural Americans Are Trying to Hold Back the Tide of AI](https://www.wsj.com/politics/policy/these-rural-americans-are-trying-to-hold-back-the-tide-of-ai-66945306)
 * [2026-02-02, 15:14:36](https://news.ycombinator.com/item?id=46856928) - [Greenland tensions harden Europe's push for energy independence](https://www.ft.com/content/e9c90df9-ee03-4c51-bbd3-dad45e212961)
 * [2026-02-02, 15:08:52](https://news.ycombinator.com/item?id=46856854) - [Waymo Seeking About $16B Near $110B Valuation](https://www.bloomberg.com/news/articles/2026-01-31/waymo-seeking-about-16-billion-near-110-billion-valuation)
 * [2026-02-02, 13:29:13](https://news.ycombinator.com/item?id=46855803) - [Geologists may have solved mystery of Green River's 'uphill' route](https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html)

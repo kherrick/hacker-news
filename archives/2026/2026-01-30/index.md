@@ -25,6 +25,7 @@
 * [2026-01-30, 18:07:02](https://news.ycombinator.com/item?id=46827731) - [ClawdBot Skills ganked all my crypto](https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto)
 * [2026-01-30, 18:02:23](https://news.ycombinator.com/item?id=46827665) - [Mamdani to kill the NYC AI chatbot caught telling businesses to break the law](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 * [2026-01-30, 17:12:39](https://news.ycombinator.com/item?id=46827003) - [Microsoft Just Killed the \"Cover for Me\" Excuse: 365 Now Tracks You in Real-Time](https://ztechtalk.com/microsoft-teams)
+* [2026-01-30, 17:11:55](https://news.ycombinator.com/item?id=46826991) - [IsoCoaster – Theme Park Builder](https://iso-coaster.com/)
 * [2026-01-30, 17:09:35](https://news.ycombinator.com/item?id=46826963) - [Moltbook is the most interesting place on the internet](https://simonwillison.net/2026/Jan/30/moltbook/)
 * [2026-01-30, 16:46:28](https://news.ycombinator.com/item?id=46826634) - [Vcad: Free BRep CAD in the Browser](https://vcad.io)
 * [2026-01-30, 16:43:50](https://news.ycombinator.com/item?id=46826597) - [Kimi K2.5 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf)
