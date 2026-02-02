@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-02, 05:10:59",
+      "https://news.ycombinator.com/item?id=46852660"
+    ],
+    [
+      "Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce",
+      "https://www.wired.com/story/the-red-bull-leaks/"
+    ]
+  ],
+  [
+    [
       "2026-02-02, 03:29:55",
       "https://news.ycombinator.com/item?id=46852096"
     ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2026-02-01, 10:30:41",
+      "https://news.ycombinator.com/item?id=46845103"
+    ],
+    [
+      "FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap",
+      "https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/"
+    ]
+  ],
+  [
+    [
       "2026-02-01, 09:44:01",
       "https://news.ycombinator.com/item?id=46844870"
     ],
@@ -227,16 +247,6 @@
     [
       "Efficient String Compression for Modern Database Systems",
       "https://cedardb.com/blog/string_compression/"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 05:31:29",
-      "https://news.ycombinator.com/item?id=46820874"
-    ],
-    [
-      "Typechecking is undecidable when 'type' is a type (1989) [pdf]",
-      "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Stop Using Pseudo-Types",
       "https://f2r.github.io/en/stop-using-pseudo-types.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 20:57:25",
-      "https://news.ycombinator.com/item?id=46786575"
-    ],
-    [
-      "Reliable 25 Gigabit Ethernet via Thunderbolt",
-      "https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/"
     ]
   ]
 ]
