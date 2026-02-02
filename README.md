@@ -26,8 +26,8 @@
 * [2026-01-30, 21:40:24](https://news.ycombinator.com/item?id=46830290) - [Soldering Prototypes with Enamel Magnet Wire (2020)](https://tomverbeure.github.io/2020/02/22/In-The-Lab-Magnet-Wire-Soldering.html)
 * [2026-01-30, 16:02:53](https://news.ycombinator.com/item?id=46826011) - [Efficient String Compression for Modern Database Systems](https://cedardb.com/blog/string_compression/)
 * [2026-01-30, 11:02:16](https://news.ycombinator.com/item?id=46822961) - [Rev Up the Viral Factories](https://www.science.org/content/blog-post/rev-viral-factories)
-* [2026-01-30, 04:59:37](https://news.ycombinator.com/item?id=46820691) - [Show HN: ÆTHRA – Writing Music as Code](https://news.ycombinator.com/item?id=46820691)
 * [2026-01-29, 18:46:33](https://news.ycombinator.com/item?id=46814581) - [Founding is a snowball](https://blog.bawolf.com/p/founding-is-a-snowball)
+* [2026-01-29, 18:31:48](https://news.ycombinator.com/item?id=46814340) - [Ratchets in Software Development](https://qntm.org/ratchet)
 * [2026-01-29, 16:54:39](https://news.ycombinator.com/item?id=46812795) - [MicroPythonOS graphical operating system delivers Android-like user experience](https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/)
 * [2026-01-28, 13:36:09](https://news.ycombinator.com/item?id=46795183) - [Stop Using Pseudo-Types](https://f2r.github.io/en/stop-using-pseudo-types.html)
 
