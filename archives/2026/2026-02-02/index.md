@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-02](index.md)
 
+* [2026-02-02, 12:59:58](https://news.ycombinator.com/item?id=46855527) - [MaliciousCorgi: AI Extensions send your code to China](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
+* [2026-02-02, 11:52:29](https://news.ycombinator.com/item?id=46854951) - [Microsoft is walking back Windows 11's AI overload](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
+* [2026-02-02, 11:03:44](https://news.ycombinator.com/item?id=46854642) - [Termux](https://github.com/termux/termux-app)
+* [2026-02-02, 10:45:44](https://news.ycombinator.com/item?id=46854534) - [My (very) fast zero-allocation webserver using OxCaml](https://anil.recoil.org/notes/oxcaml-httpz)
 * [2026-02-02, 09:25:32](https://news.ycombinator.com/item?id=46854028) - [Show HN: Sklad – Secure, offline-first snippet manager (Rust, Tauri v2)](https://github.com/Rench321/sklad)
 * [2026-02-02, 09:18:09](https://news.ycombinator.com/item?id=46853983) - [What Most People Miss About Getting Promoted – By Yue Zhao](https://news.theuncommonexecutive.com/p/what-most-people-miss-about-getting)
 * [2026-02-02, 08:59:40](https://news.ycombinator.com/item?id=46853888) - [EU launches government satcom program in sovereignty push](https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/)

@@ -11,6 +11,7 @@
 * [2026-01-30, 21:58:46](https://news.ycombinator.com/item?id=46830523) - [I trapped an AI model inside an art installation (2025) [video]](https://www.youtube.com/watch?v=7fNYj0EXxMs)
 * [2026-01-30, 21:40:24](https://news.ycombinator.com/item?id=46830290) - [In the Lab – Soldering Prototypes with Enamel Magnet Wire](https://tomverbeure.github.io/2020/02/22/In-The-Lab-Magnet-Wire-Soldering.html)
 * [2026-01-30, 21:17:21](https://news.ycombinator.com/item?id=46830027) - [P vs. NP and the Difficulty of Computation: A ruliological approach](https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/)
+* [2026-01-30, 21:17:21](https://news.ycombinator.com/item?id=46830026) - [Hypergrowth isn't always easy](https://tailscale.com/blog/hypergrowth-isnt-always-easy)
 * [2026-01-30, 21:15:57](https://news.ycombinator.com/item?id=46830013) - [How I built my own secure version of Clawdbot](https://medium.com/ai-native-enterprise/how-i-built-my-own-enterprise-grade-clawdbot-without-the-security-nightmares-00ae01193280)
 * [2026-01-30, 21:12:01](https://news.ycombinator.com/item?id=46829965) - [Wikipedia: Sandbox](https://en.wikipedia.org/wiki/Wikipedia:Sandbox)
 * [2026-01-30, 21:06:28](https://news.ycombinator.com/item?id=46829887) - [DHS ramps up surveillance in immigration raids, sweeping in citizens](https://apnews.com/article/digital-crackdown-immigration-minneapolis-trump-52662450a15a7be8d9df69036f9b5f12)
