@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-02](index.md)
 
+* [2026-02-02, 17:43:14](https://news.ycombinator.com/item?id=46858802) - [Being sane in insane places (1973) [pdf]](https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF)
+* [2026-02-02, 17:25:26](https://news.ycombinator.com/item?id=46858577) - [Todd C. Miller – sudo Maintainer for over 30 years](https://www.millert.dev/)
 * [2026-02-02, 16:01:30](https://news.ycombinator.com/item?id=46857488) - [Ask HN: Who is hiring? (February 2026)](https://news.ycombinator.com/item?id=46857488)
+* [2026-02-02, 16:01:30](https://news.ycombinator.com/item?id=46857487) - [Ask HN: Who wants to be hired? (February 2026)](https://news.ycombinator.com/item?id=46857487)
 * [2026-02-02, 15:57:32](https://news.ycombinator.com/item?id=46857444) - [Kernighan on Programming](https://news.ycombinator.com/item?id=46857444)
 * [2026-02-02, 15:46:10](https://news.ycombinator.com/item?id=46857290) - [Swift in the Browser with ElementaryUI (Swift FOSDEM 2026 Talk) [video]](https://www.youtube.com/watch?v=OmQ881sOTIc)
 * [2026-02-02, 15:31:35](https://news.ycombinator.com/item?id=46857124) - [We asked 15,000 European devs about jobs, salaries, and AI [pdf]](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
