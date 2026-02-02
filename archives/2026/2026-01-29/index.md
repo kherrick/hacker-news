@@ -53,6 +53,7 @@
 * [2026-01-29, 15:42:57](https://news.ycombinator.com/item?id=46811664) - [Is the RAM shortage killing small VPS hosts?](https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/)
 * [2026-01-29, 15:37:21](https://news.ycombinator.com/item?id=46811588) - [OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)](https://quesma.com/blog/introducing-otel-bench/)
 * [2026-01-29, 15:26:20](https://news.ycombinator.com/item?id=46811452) - [US trade deficit widens by the most in nearly 34 years in November](https://finance.yahoo.com/news/us-trade-deficit-widens-most-144236696.html)
+* [2026-01-29, 15:08:11](https://news.ycombinator.com/item?id=46811207) - [Valanza – my Unix way for weight tracking and anlysis](https://github.com/paolomarrone/valanza)
 * [2026-01-29, 14:51:56](https://news.ycombinator.com/item?id=46810950) - [Deep dive into Turso, the \"SQLite rewrite in Rust\"](https://kerkour.com/turso-sqlite)
 * [2026-01-29, 14:49:08](https://news.ycombinator.com/item?id=46810904) - [How to Choose Colors for Your CLI Applications](https://blog.xoria.org/terminal-colors/)
 * [2026-01-29, 14:43:07](https://news.ycombinator.com/item?id=46810828) - [Run Clawdbot/Moltbot on Cloudflare with Moltworker](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
