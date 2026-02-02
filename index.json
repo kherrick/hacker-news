@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-02-02, 03:02:55",
-      "https://news.ycombinator.com/item?id=46851922"
-    ],
-    [
-      "Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy",
-      "https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/"
-    ]
-  ],
-  [
-    [
       "2026-02-02, 01:11:15",
       "https://news.ycombinator.com/item?id=46851192"
     ],
@@ -287,6 +277,16 @@
     [
       "MicroPythonOS graphical operating system delivers Android-like user experience",
       "https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/"
+    ]
+  ],
+  [
+    [
+      "2026-01-29, 04:38:29",
+      "https://news.ycombinator.com/item?id=46805867"
+    ],
+    [
+      "High performance, open source RAFT clustered database: RooDB",
+      "https://github.com/jgarzik/roodb"
     ]
   ],
   [
