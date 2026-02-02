@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-02](index.md)
 
+* [2026-02-02, 05:10:59](https://news.ycombinator.com/item?id=46852660) - [Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce](https://www.wired.com/story/the-red-bull-leaks/)
 * [2026-02-02, 03:29:55](https://news.ycombinator.com/item?id=46852096) - [Apple's MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html)
 * [2026-02-02, 03:25:31](https://news.ycombinator.com/item?id=46852073) - [ICE protester says her Global Entry was revoked after agent scanned her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/)
 * [2026-02-02, 03:02:55](https://news.ycombinator.com/item?id=46851922) - [Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy](https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/)
