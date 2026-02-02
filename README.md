@@ -25,11 +25,11 @@
 * [2026-02-02, 10:45:44](https://news.ycombinator.com/item?id=46854534) - [My fast zero-allocation webserver using OxCaml](https://anil.recoil.org/notes/oxcaml-httpz)
 * [2026-02-02, 04:50:06](https://news.ycombinator.com/item?id=46852535) - [Why software stocks are getting pummelled](https://www.economist.com/business/2026/02/01/why-software-stocks-are-getting-pummelled)
 * [2026-02-01, 18:15:40](https://news.ycombinator.com/item?id=46848060) - [Pretty soon, heat pumps will be able to store and distribute heat as needed](https://www.sintef.no/en/latest-news/2026/pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed/)
-* [2026-01-30, 17:20:25](https://news.ycombinator.com/item?id=46827090) - [TileIR Internals](https://maknee.github.io/blog/2026/NVIDIA-TileIR-Internals-from-CuTile-to-MLIR-LLVM-to-SASS/)
 * [2026-01-30, 17:11:55](https://news.ycombinator.com/item?id=46826991) - [IsoCoaster – Theme Park Builder](https://iso-coaster.com/)
 * [2026-01-30, 16:34:05](https://news.ycombinator.com/item?id=46826454) - [Joedb, the Journal-Only Embedded Database](https://www.joedb.org/index.html)
 * [2026-01-30, 03:17:32](https://news.ycombinator.com/item?id=46820142) - [4x faster network file sync with rclone (vs rsync) (2025)](https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/)
 * [2026-01-27, 19:16:32](https://news.ycombinator.com/item?id=46784890) - [General Graboids: Worms and Remote Code Execution in Command and Conquer](https://www.atredis.com/blog/2026/1/26/generals)
+* [2026-01-27, 16:58:05](https://news.ycombinator.com/item?id=46782692) - [Training a trillion parameter model to be funny](https://jokegen.sdan.io/blog)
 
 ## [Archives](archives/index.md)
 
