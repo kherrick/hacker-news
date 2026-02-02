@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-02, 09:18:09](https://news.ycombinator.com/item?id=46853983) - [What Most People Miss About Getting Promoted – By Yue Zhao](https://news.theuncommonexecutive.com/p/what-most-people-miss-about-getting)
 * [2026-02-02, 05:10:59](https://news.ycombinator.com/item?id=46852660) - [Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce](https://www.wired.com/story/the-red-bull-leaks/)
 * [2026-02-02, 03:29:55](https://news.ycombinator.com/item?id=46852096) - [Apple's MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html)
 * [2026-02-02, 03:02:55](https://news.ycombinator.com/item?id=46851922) - [Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy](https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/)
@@ -12,7 +13,6 @@
 * [2026-02-01, 21:30:51](https://news.ycombinator.com/item?id=46849567) - [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
 * [2026-02-01, 20:51:56](https://news.ycombinator.com/item?id=46849258) - [My iPhone 16 Pro Max produces garbage output when running MLX LLMs](https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/)
 * [2026-02-01, 20:40:45](https://news.ycombinator.com/item?id=46849154) - [Building Your Own Efficient uint128 in C++](https://solidean.com/blog/2026/building-your-own-u128/)
-* [2026-02-01, 19:00:46](https://news.ycombinator.com/item?id=46848415) - [Teaching my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
 * [2026-02-01, 18:41:54](https://news.ycombinator.com/item?id=46848260) - [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
 * [2026-02-01, 18:38:04](https://news.ycombinator.com/item?id=46848231) - [Ian's Shoelace Site](https://www.fieggen.com/shoelace/)
 * [2026-02-01, 18:00:30](https://news.ycombinator.com/item?id=46847958) - [Towards a science of scaling agent systems: When and why agent systems work](https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/)
@@ -28,8 +28,8 @@
 * [2026-01-30, 11:02:16](https://news.ycombinator.com/item?id=46822961) - [Rev Up the Viral Factories](https://www.science.org/content/blog-post/rev-viral-factories)
 * [2026-01-29, 18:46:33](https://news.ycombinator.com/item?id=46814581) - [Founding is a snowball](https://blog.bawolf.com/p/founding-is-a-snowball)
 * [2026-01-29, 18:31:48](https://news.ycombinator.com/item?id=46814340) - [Ratchets in Software Development](https://qntm.org/ratchet)
+* [2026-01-29, 17:07:10](https://news.ycombinator.com/item?id=46813009) - [Attilio Berni plays the sub-contrabass saxophone [video]](https://www.youtube.com/watch?v=9BiW2mVKk0w)
 * [2026-01-29, 16:54:39](https://news.ycombinator.com/item?id=46812795) - [MicroPythonOS graphical operating system delivers Android-like user experience](https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/)
-* [2026-01-28, 13:36:09](https://news.ycombinator.com/item?id=46795183) - [Stop Using Pseudo-Types](https://f2r.github.io/en/stop-using-pseudo-types.html)
 
 ## [Archives](archives/index.md)
 
