@@ -21,6 +21,7 @@
 * [2026-01-27, 19:44:48](https://news.ycombinator.com/item?id=46785371) - [The bachelor tax – what it costs to be single (to the IRS)](https://bachelor-tax.vercel.app/)
 * [2026-01-27, 19:42:22](https://news.ycombinator.com/item?id=46785334) - [Twin – The AI Company Builder](https://twin.so/)
 * [2026-01-27, 19:20:24](https://news.ycombinator.com/item?id=46784977) - [Try text scaling support in Chrome Canary](https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/)
+* [2026-01-27, 19:16:32](https://news.ycombinator.com/item?id=46784890) - [General Graboids: Worms and Remote Code Execution in Command and Conquer](https://www.atredis.com/blog/2026/1/26/generals)
 * [2026-01-27, 19:03:45](https://news.ycombinator.com/item?id=46784676) - [History of the browser user-agent string (2008)](https://webaim.org/blog/user-agent-string-history/)
 * [2026-01-27, 18:59:59](https://news.ycombinator.com/item?id=46784611) - [Ice Drives Unmarked Cars. This Public Database Tracks Their License Plates](https://theintercept.com/2026/01/02/ice-license-plates-database/)
 * [2026-01-27, 18:59:30](https://news.ycombinator.com/item?id=46784599) - [Arm's Cortex A725 Ft. Dell's Pro Max with GB10](https://chipsandcheese.com/p/arms-cortex-a725-ft-dells-pro-max)
