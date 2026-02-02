@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-02](index.md)
 
+* [2026-02-02, 09:25:32](https://news.ycombinator.com/item?id=46854028) - [Show HN: Sklad – Secure, offline-first snippet manager (Rust, Tauri v2)](https://github.com/Rench321/sklad)
 * [2026-02-02, 09:18:09](https://news.ycombinator.com/item?id=46853983) - [What Most People Miss About Getting Promoted – By Yue Zhao](https://news.theuncommonexecutive.com/p/what-most-people-miss-about-getting)
 * [2026-02-02, 08:59:40](https://news.ycombinator.com/item?id=46853888) - [EU launches government satcom program in sovereignty push](https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/)
 * [2026-02-02, 07:58:49](https://news.ycombinator.com/item?id=46853552) - [Library of Juggling](https://libraryofjuggling.com/)
