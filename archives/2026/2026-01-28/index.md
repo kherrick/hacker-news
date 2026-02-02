@@ -49,6 +49,7 @@
 * [2026-01-28, 15:00:15](https://news.ycombinator.com/item?id=46796195) - [Local agents will win](https://twitter.com/EdouardGodfrey/status/2016343089334702081)
 * [2026-01-28, 14:32:30](https://news.ycombinator.com/item?id=46795908) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2026-01-28, 14:28:21](https://news.ycombinator.com/item?id=46795864) - [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
+* [2026-01-28, 14:06:48](https://news.ycombinator.com/item?id=46795584) - [Show HN: Sandbox Agent SDK – unified API for automating coding agents](https://github.com/rivet-dev/sandbox-agent)
 * [2026-01-28, 14:06:39](https://news.ycombinator.com/item?id=46795582) - [When Every Network is 192.168.1.x](https://netrinos.com/blog/conflicting-subnets)
 * [2026-01-28, 14:03:28](https://news.ycombinator.com/item?id=46795540) - [Show HN: I built a small browser engine from scratch in C++](https://github.com/beginner-jhj/mini_browser)
 * [2026-01-28, 13:59:06](https://news.ycombinator.com/item?id=46795487) - [Show HN: An extensible pub/sub messaging server for edge applications](https://github.com/narwhal-io/narwhal)

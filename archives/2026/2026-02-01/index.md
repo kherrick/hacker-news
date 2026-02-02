@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-01](index.md)
 
 * [2026-02-01, 23:53:48](https://news.ycombinator.com/item?id=46850653) - [History and Timeline of the Proco Rat Pedal (2021)](https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal)
+* [2026-02-01, 23:45:18](https://news.ycombinator.com/item?id=46850588) - [Two kinds of AI users are emerging](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
 * [2026-02-01, 23:11:49](https://news.ycombinator.com/item?id=46850350) - [We (As a Society) Peaked in the 90s](https://chris.pagecord.com/we-as-a-society-peaked-in-the-90s)
 * [2026-02-01, 22:49:22](https://news.ycombinator.com/item?id=46850205) - [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
 * [2026-02-01, 22:14:39](https://news.ycombinator.com/item?id=46849926) - [Treasures found on HS2 route stored in secret warehouse](https://www.bbc.com/news/articles/c93v21q5xdvo)
@@ -25,6 +26,7 @@
 * [2026-02-01, 19:00:46](https://news.ycombinator.com/item?id=46848415) - [I taught my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
 * [2026-02-01, 18:51:56](https://news.ycombinator.com/item?id=46848343) - [Light exposure and aspects of cognitive function in everyday life](https://www.nature.com/articles/s44271-025-00373-9)
 * [2026-02-01, 18:41:54](https://news.ycombinator.com/item?id=46848260) - [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
+* [2026-02-01, 18:38:04](https://news.ycombinator.com/item?id=46848231) - [Ian's Shoelace Site](https://www.fieggen.com/shoelace/)
 * [2026-02-01, 18:00:30](https://news.ycombinator.com/item?id=46847958) - [Towards a science of scaling agent systems: When and why agent systems work](https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/)
 * [2026-02-01, 17:54:55](https://news.ycombinator.com/item?id=46847924) - [A Crisis comes to Wordle: Reusing old words](https://forkingmad.blog/wordle-crisis/)
 * [2026-02-01, 17:50:46](https://news.ycombinator.com/item?id=46847899) - [NCR Tower 1632 – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/ncr-tower-1632)
