@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-02-01, 23:11:49",
-      "https://news.ycombinator.com/item?id=46850350"
+      "2026-02-02, 01:59:56",
+      "https://news.ycombinator.com/item?id=46851548"
     ],
     [
-      "We (As a Society) Peaked in the 90s",
-      "https://chris.pagecord.com/we-as-a-society-peaked-in-the-90s"
+      "Notepad++ hijacked by state-sponsored actors",
+      "https://notepad-plus-plus.org/news/hijacked-incident-info-update/"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 01:11:15",
+      "https://news.ycombinator.com/item?id=46851192"
+    ],
+    [
+      "Actors: A Model of Concurrent Computation [pdf]",
+      "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 00:12:19",
+      "https://news.ycombinator.com/item?id=46850803"
+    ],
+    [
+      "Show HN: Wikipedia as a doomscrollable social media feed",
+      "https://xikipedia.org"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 00:00:07",
+      "https://news.ycombinator.com/item?id=46850709"
+    ],
+    [
+      "Time Machine-style Backups with rsync (2018)",
+      "https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 23:53:48",
+      "https://news.ycombinator.com/item?id=46850653"
+    ],
+    [
+      "History and Timeline of the Proco Rat Pedal (2021)",
+      "https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal"
     ]
   ],
   [
@@ -41,32 +81,12 @@
   ],
   [
     [
-      "2026-02-01, 21:33:02",
-      "https://news.ycombinator.com/item?id=46849588"
-    ],
-    [
-      "Margin Call",
-      "https://asymco.com/2026/02/01/margin-call-3/"
-    ]
-  ],
-  [
-    [
       "2026-02-01, 21:30:51",
       "https://news.ycombinator.com/item?id=46849567"
     ],
     [
       "Defeating a 40-year-old copy protection dongle",
       "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 21:07:24",
-      "https://news.ycombinator.com/item?id=46849375"
-    ],
-    [
-      "A Collection of Awesome Nostr Projects",
-      "https://github.com/aljazceru/awesome-nostr"
     ]
   ],
   [
@@ -81,22 +101,12 @@
   ],
   [
     [
-      "2026-02-01, 20:29:02",
-      "https://news.ycombinator.com/item?id=46849078"
+      "2026-02-01, 20:40:45",
+      "https://news.ycombinator.com/item?id=46849154"
     ],
     [
-      "Kiki – The accountability monster for people who are easily distracted",
-      "https://www.kiki.computer/"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 19:47:47",
-      "https://news.ycombinator.com/item?id=46848769"
-    ],
-    [
-      "1-Click RCE to steal your Moltbot data and keys",
-      "https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys"
+      "Building Your Own Efficient uint128 in C++",
+      "https://solidean.com/blog/2026/building-your-own-u128/"
     ]
   ],
   [
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=46848415"
     ],
     [
-      "I taught my neighbor to keep the volume down",
+      "Teaching my neighbor to keep the volume down",
       "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down"
     ]
   ],
@@ -141,22 +151,22 @@
   ],
   [
     [
+      "2026-02-01, 17:54:55",
+      "https://news.ycombinator.com/item?id=46847924"
+    ],
+    [
+      "A Crisis comes to Wordle: Reusing old words",
+      "https://forkingmad.blog/wordle-crisis/"
+    ]
+  ],
+  [
+    [
       "2026-02-01, 17:36:57",
       "https://news.ycombinator.com/item?id=46847780"
     ],
     [
       "Apple I Advertisement (1976)",
       "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 15:58:23",
-      "https://news.ycombinator.com/item?id=46847039"
-    ],
-    [
-      "English professors double down on requiring printed copies of readings",
-      "https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings"
     ]
   ],
   [
@@ -197,26 +207,6 @@
     [
       "Netbird – Open Source Zero Trust Networking",
       "https://netbird.io/"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 09:33:46",
-      "https://news.ycombinator.com/item?id=46844822"
-    ],
-    [
-      "What I learned building an opinionated and minimal coding agent",
-      "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 07:50:51",
-      "https://news.ycombinator.com/item?id=46844350"
-    ],
-    [
-      "The Book of PF, 4th edition",
-      "https://nostarch.com/book-of-pf-4th-edition"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Troublemaker: The fierce, unruly life of Jessica Mitford",
       "https://www.lrb.co.uk/the-paper/v48/n02/rosemary-hill/one-of-the-worst-things"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 19:37:11",
+      "https://news.ycombinator.com/item?id=46800451"
+    ],
+    [
+      "Allowlisting some Bash commands is often the same as allowlisting all",
+      "https://www.joinformal.com/blog/allowlisting-some-bash-commands-is-often-the-same-as-allowlisting-all-with-claude-code/"
     ]
   ],
   [
