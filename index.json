@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-02-02, 03:25:31",
-      "https://news.ycombinator.com/item?id=46852073"
+      "2026-02-02, 03:29:55",
+      "https://news.ycombinator.com/item?id=46852096"
     ],
     [
-      "ICE protester says her Global Entry was revoked after agent scanned her face",
-      "https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/"
+      "Apple's MacBook Pro DFU port documentation is wrong",
+      "https://lapcatsoftware.com/articles/2026/2/1.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 03:02:55",
+      "https://news.ycombinator.com/item?id=46851922"
+    ],
+    [
+      "Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy",
+      "https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Time Machine-style Backups with rsync (2018)",
       "https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 23:53:48",
-      "https://news.ycombinator.com/item?id=46850653"
-    ],
-    [
-      "History and Timeline of the Proco Rat Pedal (2021)",
-      "https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal"
     ]
   ],
   [
@@ -191,32 +191,22 @@
   ],
   [
     [
-      "2026-02-01, 10:57:20",
-      "https://news.ycombinator.com/item?id=46845244"
-    ],
-    [
-      "Amiga Unix (Amix)",
-      "https://www.amigaunix.com/doku.php/home"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 10:30:41",
-      "https://news.ycombinator.com/item?id=46845103"
-    ],
-    [
-      "FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap",
-      "https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/"
-    ]
-  ],
-  [
-    [
       "2026-02-01, 09:44:01",
       "https://news.ycombinator.com/item?id=46844870"
     ],
     [
       "Netbird – Open Source Zero Trust Networking",
       "https://netbird.io/"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 08:15:21",
+      "https://news.ycombinator.com/item?id=46844466"
+    ],
+    [
+      "Contracts in Nix",
+      "https://sraka.xyz/posts/contracts.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Show HN: Sandbox Agent SDK – unified API for automating coding agents",
       "https://github.com/rivet-dev/sandbox-agent"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 13:36:09",
+      "https://news.ycombinator.com/item?id=46795183"
+    ],
+    [
+      "Stop Using Pseudo-Types",
+      "https://f2r.github.io/en/stop-using-pseudo-types.html"
     ]
   ],
   [
