@@ -11,22 +11,42 @@
   ],
   [
     [
-      "2026-02-02, 15:26:52",
-      "https://news.ycombinator.com/item?id=46857082"
+      "2026-02-02, 15:57:32",
+      "https://news.ycombinator.com/item?id=46857444"
     ],
     [
-      "Rural Americans Are Trying to Hold Back the Tide of AI",
-      "https://www.wsj.com/politics/policy/these-rural-americans-are-trying-to-hold-back-the-tide-of-ai-66945306"
+      "Kernighan on Programming",
+      "https://news.ycombinator.com/item?id=46857444"
     ]
   ],
   [
     [
-      "2026-02-02, 15:14:36",
-      "https://news.ycombinator.com/item?id=46856928"
+      "2026-02-02, 15:46:10",
+      "https://news.ycombinator.com/item?id=46857290"
     ],
     [
-      "Greenland tensions harden Europe's push for energy independence",
-      "https://www.ft.com/content/e9c90df9-ee03-4c51-bbd3-dad45e212961"
+      "Swift in the Browser with ElementaryUI (Swift FOSDEM 2026 Talk) [video]",
+      "https://www.youtube.com/watch?v=OmQ881sOTIc"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 15:31:35",
+      "https://news.ycombinator.com/item?id=46857124"
+    ],
+    [
+      "We asked 15,000 European devs about jobs, salaries, and AI [pdf]",
+      "https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 15:12:39",
+      "https://news.ycombinator.com/item?id=46856899"
+    ],
+    [
+      "Show HN: Stelvio – Ship Python to AWS",
+      "https://stelvio.dev/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Geologists may have solved mystery of Green River's 'uphill' route",
       "https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 12:59:58",
-      "https://news.ycombinator.com/item?id=46855527"
-    ],
-    [
-      "MaliciousCorgi: AI Extensions send your code to China",
-      "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Apple's MacBook Pro DFU port documentation is wrong",
       "https://lapcatsoftware.com/articles/2026/2/1.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 01:11:15",
-      "https://news.ycombinator.com/item?id=46851192"
-    ],
-    [
-      "Actors: A Model of Concurrent Computation [pdf] (1985)",
-      "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-01-30, 11:02:16",
-      "https://news.ycombinator.com/item?id=46822961"
-    ],
-    [
-      "Rev up the viral factories",
-      "https://www.science.org/content/blog-post/rev-viral-factories"
-    ]
-  ],
-  [
-    [
       "2026-01-30, 03:17:32",
       "https://news.ycombinator.com/item?id=46820142"
     ],
@@ -297,6 +287,16 @@
     [
       "Best Gas Masks",
       "https://www.theverge.com/policy/868571/best-gas-masks"
+    ]
+  ],
+  [
+    [
+      "2026-01-29, 15:08:11",
+      "https://news.ycombinator.com/item?id=46811207"
+    ],
+    [
+      "Valanza – my Unix way for weight tracking and anlysis",
+      "https://github.com/paolomarrone/valanza"
     ]
   ]
 ]
