@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-02](index.md)
 
+* [2026-02-02, 13:11:52](https://news.ycombinator.com/item?id=46855640) - [AdBoost: A Browser Extension That Adds Ads To Every Webpage](https://github.com/surprisetalk/AdBoost)
+* [2026-02-02, 13:02:04](https://news.ycombinator.com/item?id=46855550) - [UK Government Launches Fuel Forecourt Price API](https://www.developer.fuel-finder.service.gov.uk/access-latest-fuelprices)
 * [2026-02-02, 12:59:58](https://news.ycombinator.com/item?id=46855527) - [MaliciousCorgi: AI Extensions send your code to China](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
+* [2026-02-02, 12:52:35](https://news.ycombinator.com/item?id=46855447) - [Nano-vLLM: How a vLLM-style inference engine works](https://neutree.ai/blog/nano-vllm-part-1)
 * [2026-02-02, 11:52:29](https://news.ycombinator.com/item?id=46854951) - [Microsoft is walking back Windows 11's AI overload](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
 * [2026-02-02, 11:03:44](https://news.ycombinator.com/item?id=46854642) - [Termux](https://github.com/termux/termux-app)
 * [2026-02-02, 10:45:44](https://news.ycombinator.com/item?id=46854534) - [My (very) fast zero-allocation webserver using OxCaml](https://anil.recoil.org/notes/oxcaml-httpz)
