@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-02](index.md)
 
+* [2026-02-02, 15:14:36](https://news.ycombinator.com/item?id=46856928) - [Greenland tensions harden Europe's push for energy independence](https://www.ft.com/content/e9c90df9-ee03-4c51-bbd3-dad45e212961)
+* [2026-02-02, 15:08:52](https://news.ycombinator.com/item?id=46856854) - [Waymo Seeking About $16B Near $110B Valuation](https://www.bloomberg.com/news/articles/2026-01-31/waymo-seeking-about-16-billion-near-110-billion-valuation)
+* [2026-02-02, 13:29:13](https://news.ycombinator.com/item?id=46855803) - [Geologists may have solved mystery of Green River's 'uphill' route](https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html)
 * [2026-02-02, 13:11:52](https://news.ycombinator.com/item?id=46855640) - [AdBoost: A Browser Extension That Adds Ads To Every Webpage](https://github.com/surprisetalk/AdBoost)
 * [2026-02-02, 13:02:04](https://news.ycombinator.com/item?id=46855550) - [UK Government Launches Fuel Forecourt Price API](https://www.developer.fuel-finder.service.gov.uk/access-latest-fuelprices)
 * [2026-02-02, 12:59:58](https://news.ycombinator.com/item?id=46855527) - [MaliciousCorgi: AI Extensions send your code to China](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
