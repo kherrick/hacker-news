@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-02-02](index.md)
 
+* [2026-02-02, 18:02:48](https://news.ycombinator.com/item?id=46859054) - [The Codex App](https://openai.com/index/introducing-the-codex-app/)
+* [2026-02-02, 17:49:07](https://news.ycombinator.com/item?id=46858873) - [Advancing AI Benchmarking with Game Arena](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/)
+* [2026-02-02, 17:45:27](https://news.ycombinator.com/item?id=46858829) - [Linux From Scratch Ends SysVinit Support](https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html)
 * [2026-02-02, 17:43:14](https://news.ycombinator.com/item?id=46858802) - [Being sane in insane places (1973) [pdf]](https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF)
 * [2026-02-02, 17:25:26](https://news.ycombinator.com/item?id=46858577) - [Todd C. Miller – sudo Maintainer for over 30 years](https://www.millert.dev/)
+* [2026-02-02, 16:08:36](https://news.ycombinator.com/item?id=46857615) - [Hacking Moltbook: The AI Social Network Any Human Can Control](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys)
 * [2026-02-02, 16:01:30](https://news.ycombinator.com/item?id=46857488) - [Ask HN: Who is hiring? (February 2026)](https://news.ycombinator.com/item?id=46857488)
 * [2026-02-02, 16:01:30](https://news.ycombinator.com/item?id=46857487) - [Ask HN: Who wants to be hired? (February 2026)](https://news.ycombinator.com/item?id=46857487)
 * [2026-02-02, 15:57:32](https://news.ycombinator.com/item?id=46857444) - [Kernighan on Programming](https://news.ycombinator.com/item?id=46857444)
