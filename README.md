@@ -5,7 +5,6 @@
 * [2026-02-02, 07:58:49](https://news.ycombinator.com/item?id=46853552) - [Library of Juggling](https://libraryofjuggling.com/)
 * [2026-02-02, 05:10:59](https://news.ycombinator.com/item?id=46852660) - [Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce](https://www.wired.com/story/the-red-bull-leaks/)
 * [2026-02-02, 03:29:55](https://news.ycombinator.com/item?id=46852096) - [Apple's MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html)
-* [2026-02-02, 03:02:55](https://news.ycombinator.com/item?id=46851922) - [Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy](https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/)
 * [2026-02-02, 01:11:15](https://news.ycombinator.com/item?id=46851192) - [Actors: A Model of Concurrent Computation [pdf] (1985)](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf)
 * [2026-02-02, 00:12:19](https://news.ycombinator.com/item?id=46850803) - [Show HN: Wikipedia as a doomscrollable social media feed](https://xikipedia.org)
 * [2026-02-02, 00:00:07](https://news.ycombinator.com/item?id=46850709) - [Time Machine-style Backups with rsync (2018)](https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync)
@@ -29,6 +28,7 @@
 * [2026-01-29, 18:46:33](https://news.ycombinator.com/item?id=46814581) - [Founding is a snowball](https://blog.bawolf.com/p/founding-is-a-snowball)
 * [2026-01-29, 18:31:48](https://news.ycombinator.com/item?id=46814340) - [Ratchets in Software Development](https://qntm.org/ratchet)
 * [2026-01-29, 16:54:39](https://news.ycombinator.com/item?id=46812795) - [MicroPythonOS graphical operating system delivers Android-like user experience](https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/)
+* [2026-01-29, 04:38:29](https://news.ycombinator.com/item?id=46805867) - [High performance, open source RAFT clustered database: RooDB](https://github.com/jgarzik/roodb)
 * [2026-01-28, 13:36:09](https://news.ycombinator.com/item?id=46795183) - [Stop Using Pseudo-Types](https://f2r.github.io/en/stop-using-pseudo-types.html)
 
 ## [Archives](archives/index.md)
