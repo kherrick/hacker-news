@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-03, 20:21:21",
+      "https://news.ycombinator.com/item?id=46876720"
+    ],
+    [
+      "Anthropic AI Tool Sparks Selloff from Software to Broader Market",
+      "https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 20:02:53",
+      "https://news.ycombinator.com/item?id=46876455"
+    ],
+    [
+      "How Vibe Coding Is Killing Open Source",
+      "https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 19:55:44",
+      "https://news.ycombinator.com/item?id=46876347"
+    ],
+    [
+      "When rust ≠ performance. a lesson in developer experience",
+      "https://suriya.cc/tech/performance/oxen-add/"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 19:32:11",
       "https://news.ycombinator.com/item?id=46876047"
     ],
@@ -17,16 +47,6 @@
     [
       "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
       "https://github.com/alibaba/AliSQL"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 18:28:48",
-      "https://news.ycombinator.com/item?id=46875033"
-    ],
-    [
-      "Y Combinator will let founders receive funds in stablecoins",
-      "https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/"
     ]
   ],
   [
@@ -97,6 +117,16 @@
     [
       "Show HN: I built \"AI Wattpad\" to eval LLMs on fiction",
       "https://narrator.sh/llm-leaderboard"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 16:56:06",
+      "https://news.ycombinator.com/item?id=46873574"
+    ],
+    [
+      "221 Cannon Road Is Not for Sale",
+      "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-02-03, 15:31:40",
-      "https://news.ycombinator.com/item?id=46872238"
-    ],
-    [
-      "The next steps for Airbus' big bet on open rotor engines",
-      "https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/"
-    ]
-  ],
-  [
-    [
       "2026-02-03, 14:28:01",
       "https://news.ycombinator.com/item?id=46871387"
     ],
@@ -237,26 +257,6 @@
     [
       "What's up with all those equals signs anyway?",
       "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 09:06:04",
-      "https://news.ycombinator.com/item?id=46868479"
-    ],
-    [
-      "Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)",
-      "https://safe-now.live"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 04:33:25",
-      "https://news.ycombinator.com/item?id=46866544"
-    ],
-    [
-      "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
-      "https://krzysztofjankowski.com/floppinux/floppinux-2025.html"
     ]
   ],
   [
