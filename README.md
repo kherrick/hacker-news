@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-03, 13:32:06](https://news.ycombinator.com/item?id=46870751) - [KDE Plasma Login Manager Won't Support systemd-Free Linux or BSD Systems](https://forums.FreeBSD.org/threads/kde-plasma-login-manager-wont-support-systemd-free-linux-or-bsd-systems.101393/)
+* [2026-02-03, 12:23:12](https://news.ycombinator.com/item?id=46870113) - [Lead in archived hair documents a decline in lead exposure to humans after EPA](https://www.pnas.org/doi/10.1073/pnas.2525498123)
 * [2026-02-03, 12:00:23](https://news.ycombinator.com/item?id=46869901) - [Emerge Career (YC S22) Is Hiring a Founding Product Designer](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer)
-* [2026-02-03, 10:08:52](https://news.ycombinator.com/item?id=46868998) - [Paris prosecutors raid France offices of Elon Musk's X](https://www.bbc.com/news/articles/ce3ex92557jo)
 * [2026-02-03, 09:37:40](https://news.ycombinator.com/item?id=46868759) - [What's up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
-* [2026-02-03, 09:30:07](https://news.ycombinator.com/item?id=46868675) - [Rentahuman – The Meatspace Layer for AI](https://rentahuman.ai)
 * [2026-02-03, 09:06:04](https://news.ycombinator.com/item?id=46868479) - [Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)](https://safe-now.live)
 * [2026-02-03, 08:45:57](https://news.ycombinator.com/item?id=46868318) - [LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.](https://github.com/KrystianJonca/lnai)
 * [2026-02-03, 08:00:19](https://news.ycombinator.com/item?id=46867947) - [Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)](https://github.com/whispem/minikv)
