@@ -58,6 +58,7 @@
 * [2026-01-30, 10:48:18](https://news.ycombinator.com/item?id=46822856) - [Potentially Critical RCE Vulnerability in OpenSSL](https://research.jfrog.com/post/potential-rce-vulnerabilityin-openssl-cve-2025-15467/)
 * [2026-01-30, 10:14:31](https://news.ycombinator.com/item?id=46822632) - [Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor](https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/)
 * [2026-01-30, 10:14:23](https://news.ycombinator.com/item?id=46822630) - [Surely the crash of the US economy has to be soon](https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/)
+* [2026-01-30, 09:10:48](https://news.ycombinator.com/item?id=46822177) - [The Connection Machine CM-1 \"Feynman\" T-shirt](https://tamikothiel.com/cm/cm-tshirt.html)
 * [2026-01-30, 08:09:41](https://news.ycombinator.com/item?id=46821774) - [GOG: Linux \"the next major frontier\" for gaming as it works on a native client](https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/)
 * [2026-01-30, 07:26:20](https://news.ycombinator.com/item?id=46821488) - [Ashcan Comic](https://en.wikipedia.org/wiki/Ashcan_comic)
 * [2026-01-30, 07:06:47](https://news.ycombinator.com/item?id=46821360) - [How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
