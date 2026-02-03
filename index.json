@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-02-03, 00:39:48",
+      "https://news.ycombinator.com/item?id=46864602"
+    ],
+    [
+      "Al is killing programming and the Python community",
+      "https://www.reddit.com/r/Python/s/bIYkLZu9Se"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 00:28:06",
+      "https://news.ycombinator.com/item?id=46864498"
+    ],
+    [
+      "The Hot Mess of AI",
+      "https://alignment.anthropic.com/2026/hot-mess-of-ai/"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 23:54:02",
+      "https://news.ycombinator.com/item?id=46864120"
+    ],
+    [
+      "Firefox Getting New Controls to Turn Off AI Features",
+      "https://www.macrumors.com/2026/02/02/firefox-ai-toggle/"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 22:57:59",
+      "https://news.ycombinator.com/item?id=46863357"
+    ],
+    [
+      "Julia",
+      "https://borretti.me/fiction/julia"
+    ]
+  ],
+  [
+    [
       "2026-02-02, 22:48:10",
       "https://news.ycombinator.com/item?id=46863162"
     ],
@@ -81,26 +121,6 @@
   ],
   [
     [
-      "2026-02-02, 18:31:28",
-      "https://news.ycombinator.com/item?id=46859438"
-    ],
-    [
-      "Parking lots as economic drains",
-      "https://progressandpoverty.substack.com/p/stop-incentivizing-surface-parking"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 18:07:55",
-      "https://news.ycombinator.com/item?id=46859118"
-    ],
-    [
-      "EPA Advances Farmers' Right to Repair",
-      "https://www.epa.gov/newsreleases/epa-advances-farmers-right-repair-their-own-equipment-saving-repair-costs-and"
-    ]
-  ],
-  [
-    [
       "2026-02-02, 18:02:48",
       "https://news.ycombinator.com/item?id=46859054"
     ],
@@ -117,16 +137,6 @@
     [
       "Advancing AI Benchmarking with Game Arena",
       "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 17:43:14",
-      "https://news.ycombinator.com/item?id=46858802"
-    ],
-    [
-      "On being sane in insane places (1973) [pdf]",
-      "https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-02-02, 13:11:52",
-      "https://news.ycombinator.com/item?id=46855640"
-    ],
-    [
-      "Show HN: Adboost – A browser extension that adds ads to every webpage",
-      "https://github.com/surprisetalk/AdBoost"
-    ]
-  ],
-  [
-    [
       "2026-02-02, 13:02:04",
       "https://news.ycombinator.com/item?id=46855550"
     ],
@@ -217,16 +217,6 @@
     [
       "Nano-vLLM: How a vLLM-style inference engine works",
       "https://neutree.ai/blog/nano-vllm-part-1"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 10:45:44",
-      "https://news.ycombinator.com/item?id=46854534"
-    ],
-    [
-      "My fast zero-allocation webserver using OxCaml",
-      "https://anil.recoil.org/notes/oxcaml-httpz"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Joedb, the Journal-Only Embedded Database",
       "https://www.joedb.org/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 09:10:48",
+      "https://news.ycombinator.com/item?id=46822177"
+    ],
+    [
+      "The Connection Machine CM-1 \"Feynman\" T-shirt",
+      "https://tamikothiel.com/cm/cm-tshirt.html"
     ]
   ],
   [
