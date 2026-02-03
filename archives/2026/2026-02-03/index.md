@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-03](index.md)
 
+* [2026-02-03, 16:29:34](https://news.ycombinator.com/item?id=46873138) - [Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust](https://github.com/j178/prek)
+* [2026-02-03, 16:03:21](https://news.ycombinator.com/item?id=46872733) - [Launch HN: Modelence (YC S25) – App Builder with TypeScript / MongoDB Framework](https://news.ycombinator.com/item?id=46872733)
+* [2026-02-03, 16:01:50](https://news.ycombinator.com/item?id=46872706) - [Qwen3-Coder-Next](https://qwen.ai/blog?id=qwen3-coder-next)
 * [2026-02-03, 15:48:03](https://news.ycombinator.com/item?id=46872481) - [Anthropic is Down](https://updog.ai/status/anthropic)
 * [2026-02-03, 15:28:59](https://news.ycombinator.com/item?id=46872190) - [Data Brokers Can Fuel Violence Against Public Servants](https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/)
 * [2026-02-03, 14:38:26](https://news.ycombinator.com/item?id=46871504) - [A WhatsApp bug lets malicious media files spread through group chats](https://www.malwarebytes.com/blog/news/2026/01/a-whatsapp-bug-lets-malicious-media-files-spread-through-group-chats)
