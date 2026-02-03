@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-03](index.md)
 
+* [2026-02-03, 14:10:21](https://news.ycombinator.com/item?id=46871179) - [Ask HN: Is there anyone here who still uses slide rules?](https://news.ycombinator.com/item?id=46871179)
+* [2026-02-03, 14:09:54](https://news.ycombinator.com/item?id=46871173) - [Agent Skills](https://agentskills.io/home)
+* [2026-02-03, 14:09:10](https://news.ycombinator.com/item?id=46871169) - [Decentralizing My Smartphone with Single Purpose Devices](https://ambertherambler.bearblog.dev/decentralizing-my-smartphone-with-single-purpose-devices/)
 * [2026-02-03, 13:32:06](https://news.ycombinator.com/item?id=46870751) - [KDE Plasma Login Manager Won't Support systemd-Free Linux or BSD Systems](https://forums.FreeBSD.org/threads/kde-plasma-login-manager-wont-support-systemd-free-linux-or-bsd-systems.101393/)
 * [2026-02-03, 12:23:12](https://news.ycombinator.com/item?id=46870113) - [Lead in archived hair documents a decline in lead exposure to humans after EPA](https://www.pnas.org/doi/10.1073/pnas.2525498123)
 * [2026-02-03, 12:00:23](https://news.ycombinator.com/item?id=46869901) - [Emerge Career (YC S22) Is Hiring a Founding Product Designer](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer)
