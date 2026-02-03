@@ -9,6 +9,7 @@
 * [2026-02-03, 20:21:21](https://news.ycombinator.com/item?id=46876720) - [Anthropic AI Tool Sparks Selloff from Software to Broader Market](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)
 * [2026-02-03, 20:02:53](https://news.ycombinator.com/item?id=46876455) - [How Vibe Coding Is Killing Open Source](https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/)
 * [2026-02-03, 19:55:44](https://news.ycombinator.com/item?id=46876347) - [When rust ≠ performance. a lesson in developer experience](https://suriya.cc/tech/performance/oxen-add/)
+* [2026-02-03, 19:37:30](https://news.ycombinator.com/item?id=46876105) - [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
 * [2026-02-03, 19:32:11](https://news.ycombinator.com/item?id=46876047) - [China Moon Mission: Aiming for 2030 Lunar Landing](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 * [2026-02-03, 19:26:05](https://news.ycombinator.com/item?id=46875952) - [OpenClaw (a.k.a. Moltbot) Is Everywhere All at Once, and a Disaster](https://cacm.acm.org/blogcacm/openclaw-a-k-a-moltbot-is-everywhere-all-at-once-and-a-disaster-waiting-to-happen/)
 * [2026-02-03, 18:40:18](https://news.ycombinator.com/item?id=46875228) - [AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines](https://github.com/alibaba/AliSQL)

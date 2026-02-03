@@ -19,6 +19,7 @@
 * [2026-02-01, 20:40:45](https://news.ycombinator.com/item?id=46849154) - [Building Your Own Efficient uint128 in C++](https://solidean.com/blog/2026/building-your-own-u128/)
 * [2026-02-01, 20:29:02](https://news.ycombinator.com/item?id=46849078) - [Kiki – The accountability monster for people who are easily distracted](https://www.kiki.computer/)
 * [2026-02-01, 20:04:14](https://news.ycombinator.com/item?id=46848907) - [Oregon gave homeless youth $1k/month with no strings. Here's what happened](https://www.oregonlive.com/politics/2026/01/oregon-tried-giving-homeless-youth-1000-a-month-with-no-strings-attached-heres-what-happened.html)
+* [2026-02-01, 20:01:00](https://news.ycombinator.com/item?id=46848876) - [Lessons Learned Shipping 500 Units of My First Hardware Product](https://www.simonberens.com/p/lessons-learned-shipping-500-units)
 * [2026-02-01, 19:47:47](https://news.ycombinator.com/item?id=46848769) - [1-Click RCE to steal your Moltbot data and keys](https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys)
 * [2026-02-01, 19:38:45](https://news.ycombinator.com/item?id=46848699) - [TIL: Apple Broke Time Machine Again on Tahoe](https://taoofmac.com/space/til/2026/02/01/1630)
 * [2026-02-01, 19:32:41](https://news.ycombinator.com/item?id=46848653) - [Another London: Excavating the disenchanted city](https://harpers.org/archive/2026/02/another-london-situationists-hari-kunzru/)
