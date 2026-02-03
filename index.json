@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=46877075"
     ],
     [
-      "Bruce Schneier: AI and the scaling of betrayal",
+      "AI and Trust (2023)",
       "https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html"
     ]
   ],
@@ -25,28 +25,8 @@
       "https://news.ycombinator.com/item?id=46876720"
     ],
     [
-      "Anthropic AI Tool Sparks Selloff from Software to Broader Market",
+      "Anthropic AI tool sparks selloff from software to broader market",
       "https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 19:55:44",
-      "https://news.ycombinator.com/item?id=46876347"
-    ],
-    [
-      "When rust ≠ performance. a lesson in developer experience",
-      "https://suriya.cc/tech/performance/oxen-add/"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 19:37:30",
-      "https://news.ycombinator.com/item?id=46876105"
-    ],
-    [
-      "Data centers in space makes no sense",
-      "https://civai.org/blog/space-data-centers"
     ]
   ],
   [
@@ -55,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46876047"
     ],
     [
-      "China Moon Mission: Aiming for 2030 Lunar Landing",
+      "China Moon Mission: Aiming for 2030 lunar landing",
       "https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis"
     ]
   ],
@@ -65,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46875952"
     ],
     [
-      "OpenClaw (a.k.a. Moltbot) Is Everywhere All at Once, and a Disaster",
+      "OpenClaw is basically a cascade of LLMs in prime position to mess stuff up",
       "https://cacm.acm.org/blogcacm/openclaw-a-k-a-moltbot-is-everywhere-all-at-once-and-a-disaster-waiting-to-happen/"
     ]
   ],
@@ -85,7 +65,7 @@
       "https://news.ycombinator.com/item?id=46874619"
     ],
     [
-      "Xcode 26.3 unlocks the power of agentic coding",
+      "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
       "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/"
     ]
   ],
@@ -107,6 +87,16 @@
     [
       "Deno Sandbox",
       "https://deno.com/blog/introducing-deno-sandbox"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 17:19:47",
+      "https://news.ycombinator.com/item?id=46873885"
+    ],
+    [
+      "Migrate Wizard – IMAP Based Email Migration Tool",
+      "https://migratewizard.com/#features"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "What's up with all those equals signs anyway?",
       "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 09:06:04",
+      "https://news.ycombinator.com/item?id=46868479"
+    ],
+    [
+      "Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)",
+      "https://safe-now.live"
     ]
   ],
   [
