@@ -31,22 +31,22 @@
   ],
   [
     [
-      "2026-02-03, 20:02:53",
-      "https://news.ycombinator.com/item?id=46876455"
-    ],
-    [
-      "How Vibe Coding Is Killing Open Source",
-      "https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/"
-    ]
-  ],
-  [
-    [
       "2026-02-03, 19:55:44",
       "https://news.ycombinator.com/item?id=46876347"
     ],
     [
       "When rust ≠ performance. a lesson in developer experience",
       "https://suriya.cc/tech/performance/oxen-add/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 19:37:30",
+      "https://news.ycombinator.com/item?id=46876105"
+    ],
+    [
+      "Data centers in space makes no sense",
+      "https://civai.org/blog/space-data-centers"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Deno Sandbox",
       "https://deno.com/blog/introducing-deno-sandbox"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 17:19:47",
-      "https://news.ycombinator.com/item?id=46873885"
-    ],
-    [
-      "Migrate Wizard – IMAP Based Email Migration Tool",
-      "https://migratewizard.com/#features"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "What's up with all those equals signs anyway?",
       "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 20:01:00",
+      "https://news.ycombinator.com/item?id=46848876"
+    ],
+    [
+      "Lessons Learned Shipping 500 Units of My First Hardware Product",
+      "https://www.simonberens.com/p/lessons-learned-shipping-500-units"
     ]
   ],
   [
