@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-02-03, 11:05:32",
-      "https://news.ycombinator.com/item?id=46869401"
+      "2026-02-03, 10:08:52",
+      "https://news.ycombinator.com/item?id=46868998"
     ],
     [
-      "Spain to ban social media access for under-16s, PM Sanchez says",
-      "https://www.reuters.com/world/spain-hold-social-media-executives-accountable-illegal-hateful-content-2026-02-03/"
+      "Paris prosecutors raid France offices of Elon Musk's X",
+      "https://www.bbc.com/news/articles/ce3ex92557jo"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "What's up with all those equals signs anyway?",
       "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 09:30:07",
+      "https://news.ycombinator.com/item?id=46868675"
+    ],
+    [
+      "Rentahuman – The Meatspace Layer for AI",
+      "https://rentahuman.ai"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
       "https://krzysztofjankowski.com/floppinux/floppinux-2025.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 04:25:35",
-      "https://news.ycombinator.com/item?id=46866481"
-    ],
-    [
-      "Coding assistants are solving the wrong problem",
-      "https://www.bicameral-ai.com/blog/introducing-bicameral"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-02-01, 18:15:40",
+      "https://news.ycombinator.com/item?id=46848060"
+    ],
+    [
+      "Pretty soon, heat pumps will be able to store and distribute heat as needed",
+      "https://www.sintef.no/en/latest-news/2026/pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed/"
+    ]
+  ],
+  [
+    [
       "2026-02-01, 15:18:38",
       "https://news.ycombinator.com/item?id=46846762"
     ],
@@ -287,16 +297,6 @@
     [
       "Carnegie Mellon Unversity Computer Club FTP Server",
       "http://128.237.157.9/pub/"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 04:18:06",
-      "https://news.ycombinator.com/item?id=46805763"
-    ],
-    [
-      "Astrological CPU Scheduler",
-      "https://github.com/zampierilucas/scx_horoscope"
     ]
   ]
 ]
