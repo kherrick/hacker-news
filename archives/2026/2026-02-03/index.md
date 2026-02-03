@@ -34,6 +34,7 @@
 * [2026-02-03, 16:09:07](https://news.ycombinator.com/item?id=46872818) - [Show HN: C discrete event SIM w stackful coroutines runs 45x faster than SimPy](https://github.com/ambonvik/cimba)
 * [2026-02-03, 16:03:21](https://news.ycombinator.com/item?id=46872733) - [Launch HN: Modelence (YC S25) – App Builder with TypeScript / MongoDB Framework](https://news.ycombinator.com/item?id=46872733)
 * [2026-02-03, 16:01:50](https://news.ycombinator.com/item?id=46872706) - [Qwen3-Coder-Next](https://qwen.ai/blog?id=qwen3-coder-next)
+* [2026-02-03, 15:51:42](https://news.ycombinator.com/item?id=46872540) - [New York’s budget bill would require “blocking technology” on all 3D printers](https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/)
 * [2026-02-03, 15:48:03](https://news.ycombinator.com/item?id=46872481) - [Anthropic is Down](https://updog.ai/status/anthropic)
 * [2026-02-03, 15:31:40](https://news.ycombinator.com/item?id=46872238) - [The next steps for Airbus' big bet on open rotor engines](https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/)
 * [2026-02-03, 15:28:59](https://news.ycombinator.com/item?id=46872190) - [Data Brokers Can Fuel Violence Against Public Servants](https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/)
