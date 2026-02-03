@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-03, 12:00:23",
+      "https://news.ycombinator.com/item?id=46869901"
+    ],
+    [
+      "Emerge Career (YC S22) Is Hiring a Founding Product Designer",
+      "https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 10:08:52",
       "https://news.ycombinator.com/item?id=46868998"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2026-02-03, 08:42:51",
-      "https://news.ycombinator.com/item?id=46868287"
+      "2026-02-03, 08:00:19",
+      "https://news.ycombinator.com/item?id=46867947"
     ],
     [
-      "From Tobacco to Ultraprocessed Food: How Industry Fuels Preventable Disease",
-      "https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.70066"
+      "Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)",
+      "https://github.com/whispem/minikv"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-02-01, 15:18:38",
-      "https://news.ycombinator.com/item?id=46846762"
-    ],
-    [
-      "Same SQL, Different Results: A Subtle Oracle vs. PostgreSQL Migration Bug",
-      "https://databaserookies.wordpress.com/2026/01/30/same-sql-different-results-a-subtle-oracle-vs-postgresql-migration-bug/"
-    ]
-  ],
-  [
-    [
       "2026-02-01, 05:11:53",
       "https://news.ycombinator.com/item?id=46843805"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=46815995"
     ],
     [
-      "50 Years of the Jetsons: Why the Show Still Matters",
+      "Why The Jetsons still matters (2012)",
       "https://www.smithsonianmag.com/history/50-years-of-the-jetsons-why-the-show-still-matters-43459669/"
     ]
   ],
