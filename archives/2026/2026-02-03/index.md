@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-03](index.md)
 
+* [2026-02-03, 21:15:48](https://news.ycombinator.com/item?id=46877403) - [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425)
+* [2026-02-03, 20:49:30](https://news.ycombinator.com/item?id=46877075) - [Bruce Schneier: AI and the scaling of betrayal](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 * [2026-02-03, 20:21:21](https://news.ycombinator.com/item?id=46876720) - [Anthropic AI Tool Sparks Selloff from Software to Broader Market](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)
 * [2026-02-03, 20:02:53](https://news.ycombinator.com/item?id=46876455) - [How Vibe Coding Is Killing Open Source](https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/)
 * [2026-02-03, 19:55:44](https://news.ycombinator.com/item?id=46876347) - [When rust ≠ performance. a lesson in developer experience](https://suriya.cc/tech/performance/oxen-add/)
 * [2026-02-03, 19:32:11](https://news.ycombinator.com/item?id=46876047) - [China Moon Mission: Aiming for 2030 Lunar Landing](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+* [2026-02-03, 19:26:05](https://news.ycombinator.com/item?id=46875952) - [OpenClaw (a.k.a. Moltbot) Is Everywhere All at Once, and a Disaster](https://cacm.acm.org/blogcacm/openclaw-a-k-a-moltbot-is-everywhere-all-at-once-and-a-disaster-waiting-to-happen/)
 * [2026-02-03, 18:40:18](https://news.ycombinator.com/item?id=46875228) - [AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines](https://github.com/alibaba/AliSQL)
 * [2026-02-03, 18:28:48](https://news.ycombinator.com/item?id=46875033) - [Y Combinator will let founders receive funds in stablecoins](https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/)
 * [2026-02-03, 18:04:08](https://news.ycombinator.com/item?id=46874619) - [Xcode 26.3 unlocks the power of agentic coding](https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/)
