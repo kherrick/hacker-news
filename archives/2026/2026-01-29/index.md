@@ -82,6 +82,7 @@
 * [2026-01-29, 05:40:45](https://news.ycombinator.com/item?id=46806245) - [Why do RSS readers look like email clients?](https://www.terrygodier.com/phantom-obligation)
 * [2026-01-29, 04:38:29](https://news.ycombinator.com/item?id=46805867) - [High performance, open source RAFT clustered database: RooDB](https://github.com/jgarzik/roodb)
 * [2026-01-29, 04:33:10](https://news.ycombinator.com/item?id=46805841) - [Microsoft's Azure Linux](https://github.com/microsoft/azurelinux)
+* [2026-01-29, 04:18:06](https://news.ycombinator.com/item?id=46805763) - [Astrological CPU Scheduler](https://github.com/zampierilucas/scx_horoscope)
 * [2026-01-29, 03:58:33](https://news.ycombinator.com/item?id=46805665) - [We can't send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 * [2026-01-29, 03:43:52](https://news.ycombinator.com/item?id=46805557) - [Putting Gemini to Work in Chrome](https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/)
 * [2026-01-29, 03:29:53](https://news.ycombinator.com/item?id=46805439) - [Questom (YC F25) is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer)

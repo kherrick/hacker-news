@@ -13,7 +13,6 @@
 * [2026-02-02, 20:48:55](https://news.ycombinator.com/item?id=46861313) - [Anki ownership transferred to AnkiHub](https://forums.ankiweb.net/t/ankis-growing-up/68610)
 * [2026-02-02, 18:02:48](https://news.ycombinator.com/item?id=46859054) - [The Codex App](https://openai.com/index/introducing-the-codex-app/)
 * [2026-02-02, 17:45:27](https://news.ycombinator.com/item?id=46858829) - [Linux From Scratch ends SysVinit support](https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html)
-* [2026-02-02, 17:43:14](https://news.ycombinator.com/item?id=46858802) - [On being sane in insane places (1973) [pdf]](https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF)
 * [2026-02-02, 17:28:19](https://news.ycombinator.com/item?id=46858622) - [Zig Libc](https://ziglang.org/devlog/2026/#2026-01-31)
 * [2026-02-02, 17:25:26](https://news.ycombinator.com/item?id=46858577) - [Todd C. Miller – Sudo maintainer for over 30 years](https://www.millert.dev/)
 * [2026-02-02, 16:08:36](https://news.ycombinator.com/item?id=46857615) - [Hacking Moltbook](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys)
@@ -29,6 +28,7 @@
 * [2026-01-30, 03:17:32](https://news.ycombinator.com/item?id=46820142) - [4x faster network file sync with rclone (vs rsync) (2025)](https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/)
 * [2026-01-29, 13:14:14](https://news.ycombinator.com/item?id=46809785) - [The Physics of Ideas: Reality as a Coordination Problem](https://bpe.xyz)
 * [2026-01-29, 05:59:23](https://news.ycombinator.com/item?id=46806346) - [Carnegie Mellon Unversity Computer Club FTP Server](http://128.237.157.9/pub/)
+* [2026-01-29, 04:18:06](https://news.ycombinator.com/item?id=46805763) - [Astrological CPU Scheduler](https://github.com/zampierilucas/scx_horoscope)
 * [2026-01-28, 13:56:56](https://news.ycombinator.com/item?id=46795456) - [GitHub – BenjaminPoilve/minichord: A pocket-sized musical instrument](https://github.com/BenjaminPoilve/minichord)
 
 ## [Archives](archives/index.md)
