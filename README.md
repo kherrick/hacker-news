@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-03, 09:37:40](https://news.ycombinator.com/item?id=46868759) - [What's up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
+* [2026-02-03, 09:16:48](https://news.ycombinator.com/item?id=46868565) - [Claude Sonnet 5 Is Imminent – and It Could Be a Generation Ahead of Google](https://ucstrategies.com/news/claude-sonnet-5-is-imminent-and-it-could-be-a-generation-ahead-of-google/)
+* [2026-02-03, 09:06:04](https://news.ycombinator.com/item?id=46868479) - [Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)](https://safe-now.live)
 * [2026-02-03, 08:45:57](https://news.ycombinator.com/item?id=46868318) - [LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.](https://github.com/KrystianJonca/lnai)
 * [2026-02-03, 08:42:51](https://news.ycombinator.com/item?id=46868287) - [From Tobacco to Ultraprocessed Food: How Industry Fuels Preventable Disease](https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.70066)
 * [2026-02-03, 04:33:25](https://news.ycombinator.com/item?id=46866544) - [Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html)
 * [2026-02-03, 04:25:35](https://news.ycombinator.com/item?id=46866481) - [Coding assistants are solving the wrong problem](https://www.bicameral-ai.com/blog/introducing-bicameral)
-* [2026-02-03, 03:37:36](https://news.ycombinator.com/item?id=46866149) - [Ask HN: Where do all the web devs talk?](https://news.ycombinator.com/item?id=46866149)
+* [2026-02-03, 04:12:16](https://news.ycombinator.com/item?id=46866385) - [Frog 'saunas' could help endangered species beat a deadly fungus (2024)](https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus)
 * [2026-02-03, 00:28:06](https://news.ycombinator.com/item?id=46864498) - [How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/)
 * [2026-02-02, 22:57:59](https://news.ycombinator.com/item?id=46863357) - [Julia](https://borretti.me/fiction/julia)
 * [2026-02-02, 22:48:10](https://news.ycombinator.com/item?id=46863162) - [The TSA's New $45 Fee to Fly Without ID Is Illegal](https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/)
@@ -26,10 +28,8 @@
 * [2026-01-30, 09:10:48](https://news.ycombinator.com/item?id=46822177) - [The Connection Machine CM-1 \"Feynman\" T-shirt](https://tamikothiel.com/cm/cm-tshirt.html)
 * [2026-01-30, 03:17:32](https://news.ycombinator.com/item?id=46820142) - [4x faster network file sync with rclone (vs rsync) (2025)](https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/)
 * [2026-01-29, 20:19:56](https://news.ycombinator.com/item?id=46815995) - [50 Years of the Jetsons: Why the Show Still Matters](https://www.smithsonianmag.com/history/50-years-of-the-jetsons-why-the-show-still-matters-43459669/)
-* [2026-01-29, 13:14:14](https://news.ycombinator.com/item?id=46809785) - [The Physics of Ideas: Reality as a Coordination Problem](https://bpe.xyz)
 * [2026-01-29, 05:59:23](https://news.ycombinator.com/item?id=46806346) - [Carnegie Mellon Unversity Computer Club FTP Server](http://128.237.157.9/pub/)
 * [2026-01-29, 04:18:06](https://news.ycombinator.com/item?id=46805763) - [Astrological CPU Scheduler](https://github.com/zampierilucas/scx_horoscope)
-* [2026-01-28, 13:56:56](https://news.ycombinator.com/item?id=46795456) - [GitHub – BenjaminPoilve/minichord: A pocket-sized musical instrument](https://github.com/BenjaminPoilve/minichord)
 
 ## [Archives](archives/index.md)
 
