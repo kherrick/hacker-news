@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-02-03, 00:39:48",
-      "https://news.ycombinator.com/item?id=46864602"
+      "2026-02-03, 01:52:21",
+      "https://news.ycombinator.com/item?id=46865275"
     ],
     [
-      "Al is killing programming and the Python community",
-      "https://www.reddit.com/r/Python/s/bIYkLZu9Se"
+      "Banning lead in gas worked. The proof is in our hair",
+      "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 00:30:02",
+      "https://news.ycombinator.com/item?id=46864517"
+    ],
+    [
+      "GitHub discusses giving maintainers control to disable PRs",
+      "https://github.com/orgs/community/discussions/185387"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=46864498"
     ],
     [
-      "The Hot Mess of AI",
+      "How does misalignment scale with model intelligence and task complexity?",
       "https://alignment.anthropic.com/2026/hot-mess-of-ai/"
     ]
   ],
@@ -91,26 +101,6 @@
   ],
   [
     [
-      "2026-02-02, 20:25:41",
-      "https://news.ycombinator.com/item?id=46860964"
-    ],
-    [
-      "Nvidia shares are down after report that its OpenAI investment stalled",
-      "https://www.cnbc.com/2026/02/02/nvidia-stock-price-openai-funding.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 19:59:30",
-      "https://news.ycombinator.com/item?id=46860566"
-    ],
-    [
-      "Stelvio: Ship Python to AWS",
-      "https://github.com/stelviodev/stelvio"
-    ]
-  ],
-  [
-    [
       "2026-02-02, 18:31:36",
       "https://news.ycombinator.com/item?id=46859443"
     ],
@@ -137,6 +127,26 @@
     [
       "Advancing AI Benchmarking with Game Arena",
       "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 17:45:27",
+      "https://news.ycombinator.com/item?id=46858829"
+    ],
+    [
+      "Linux From Scratch ends SysVinit support",
+      "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 17:43:14",
+      "https://news.ycombinator.com/item?id=46858802"
+    ],
+    [
+      "On being sane in insane places (1973) [pdf]",
+      "https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF40"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-02-02, 04:50:06",
-      "https://news.ycombinator.com/item?id=46852535"
-    ],
-    [
-      "Why software stocks are getting pummelled",
-      "https://www.economist.com/business/2026/02/01/why-software-stocks-are-getting-pummelled"
-    ]
-  ],
-  [
-    [
       "2026-02-01, 18:15:40",
       "https://news.ycombinator.com/item?id=46848060"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2026-01-30, 17:11:55",
-      "https://news.ycombinator.com/item?id=46826991"
-    ],
-    [
-      "IsoCoaster – Theme Park Builder",
-      "https://iso-coaster.com/"
-    ]
-  ],
-  [
-    [
       "2026-01-30, 16:34:05",
       "https://news.ycombinator.com/item?id=46826454"
     ],
     [
       "Joedb, the Journal-Only Embedded Database",
       "https://www.joedb.org/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 13:56:04",
+      "https://news.ycombinator.com/item?id=46824411"
+    ],
+    [
+      "G Lang – A lightweight interpreter written in D (2.4MB)",
+      "https://news.ycombinator.com/item?id=46824411"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-01-27, 19:16:32",
-      "https://news.ycombinator.com/item?id=46784890"
+      "2026-01-29, 05:59:23",
+      "https://news.ycombinator.com/item?id=46806346"
     ],
     [
-      "General Graboids: Worms and Remote Code Execution in Command and Conquer",
-      "https://www.atredis.com/blog/2026/1/26/generals"
+      "Carnegie Mellon Unversity Computer Club FTP Server",
+      "http://128.237.157.9/pub/"
     ]
   ],
   [
