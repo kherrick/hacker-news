@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2026-02-02, 17:43:14",
-      "https://news.ycombinator.com/item?id=46858802"
-    ],
-    [
-      "On being sane in insane places (1973) [pdf]",
-      "https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF"
-    ]
-  ],
-  [
-    [
       "2026-02-02, 17:28:19",
       "https://news.ycombinator.com/item?id=46858622"
     ],
@@ -287,6 +277,16 @@
     [
       "Carnegie Mellon Unversity Computer Club FTP Server",
       "http://128.237.157.9/pub/"
+    ]
+  ],
+  [
+    [
+      "2026-01-29, 04:18:06",
+      "https://news.ycombinator.com/item?id=46805763"
+    ],
+    [
+      "Astrological CPU Scheduler",
+      "https://github.com/zampierilucas/scx_horoscope"
     ]
   ],
   [
