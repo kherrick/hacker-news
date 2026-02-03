@@ -58,6 +58,7 @@
 * [2026-01-30, 11:52:46](https://news.ycombinator.com/item?id=46823358) - [Track Your Routine – Open-source app for task management](https://github.com/MSF01/TYR)
 * [2026-01-30, 11:02:16](https://news.ycombinator.com/item?id=46822961) - [Rev Up the Viral Factories](https://www.science.org/content/blog-post/rev-viral-factories)
 * [2026-01-30, 10:48:18](https://news.ycombinator.com/item?id=46822856) - [Potentially Critical RCE Vulnerability in OpenSSL](https://research.jfrog.com/post/potential-rce-vulnerabilityin-openssl-cve-2025-15467/)
+* [2026-01-30, 10:26:54](https://news.ycombinator.com/item?id=46822717) - [1,400-year-old tomb featuring giant owl sculpture discovered in Mexico](https://www.cnn.com/2026/01/29/science/zapotec-tomb-mexico-scli-intl)
 * [2026-01-30, 10:14:31](https://news.ycombinator.com/item?id=46822632) - [Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor](https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/)
 * [2026-01-30, 10:14:23](https://news.ycombinator.com/item?id=46822630) - [Surely the crash of the US economy has to be soon](https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/)
 * [2026-01-30, 09:10:48](https://news.ycombinator.com/item?id=46822177) - [The Connection Machine CM-1 \"Feynman\" T-shirt](https://tamikothiel.com/cm/cm-tshirt.html)
