@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-03, 15:48:03",
+      "https://news.ycombinator.com/item?id=46872481"
+    ],
+    [
+      "Anthropic is Down",
+      "https://updog.ai/status/anthropic"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 15:28:59",
+      "https://news.ycombinator.com/item?id=46872190"
+    ],
+    [
+      "Data Brokers Can Fuel Violence Against Public Servants",
+      "https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 14:38:26",
+      "https://news.ycombinator.com/item?id=46871504"
+    ],
+    [
+      "A WhatsApp bug lets malicious media files spread through group chats",
+      "https://www.malwarebytes.com/blog/news/2026/01/a-whatsapp-bug-lets-malicious-media-files-spread-through-group-chats"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 14:35:25",
       "https://news.ycombinator.com/item?id=46871473"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2026-02-03, 08:00:19",
-      "https://news.ycombinator.com/item?id=46867947"
-    ],
-    [
-      "Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)",
-      "https://github.com/whispem/minikv"
-    ]
-  ],
-  [
-    [
       "2026-02-03, 04:33:25",
       "https://news.ycombinator.com/item?id=46866544"
     ],
@@ -147,16 +167,6 @@
     [
       "How does misalignment scale with model intelligence and task complexity?",
       "https://alignment.anthropic.com/2026/hot-mess-of-ai/"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 22:48:10",
-      "https://news.ycombinator.com/item?id=46863162"
-    ],
-    [
-      "The TSA's New $45 Fee to Fly Without ID Is Illegal",
-      "https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "The Codex App",
       "https://openai.com/index/introducing-the-codex-app/"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 17:45:27",
-      "https://news.ycombinator.com/item?id=46858829"
-    ],
-    [
-      "Linux From Scratch ends SysVinit support",
-      "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-01-29, 20:19:56",
-      "https://news.ycombinator.com/item?id=46815995"
+      "2026-01-28, 14:38:21",
+      "https://news.ycombinator.com/item?id=46795961"
     ],
     [
-      "Why The Jetsons still matters (2012)",
-      "https://www.smithsonianmag.com/history/50-years-of-the-jetsons-why-the-show-still-matters-43459669/"
+      "The Everdeck: A Universal Card System (2019)",
+      "https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/"
     ]
   ]
 ]
