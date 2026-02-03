@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-03, 11:05:32](https://news.ycombinator.com/item?id=46869401) - [Spain to ban social media access for under-16s, PM Sanchez says](https://www.reuters.com/world/spain-hold-social-media-executives-accountable-illegal-hateful-content-2026-02-03/)
+* [2026-02-03, 10:08:52](https://news.ycombinator.com/item?id=46868998) - [Paris prosecutors raid France offices of Elon Musk's X](https://www.bbc.com/news/articles/ce3ex92557jo)
 * [2026-02-03, 09:37:40](https://news.ycombinator.com/item?id=46868759) - [What's up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
+* [2026-02-03, 09:30:07](https://news.ycombinator.com/item?id=46868675) - [Rentahuman – The Meatspace Layer for AI](https://rentahuman.ai)
 * [2026-02-03, 09:06:04](https://news.ycombinator.com/item?id=46868479) - [Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)](https://safe-now.live)
 * [2026-02-03, 08:45:57](https://news.ycombinator.com/item?id=46868318) - [LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.](https://github.com/KrystianJonca/lnai)
 * [2026-02-03, 08:42:51](https://news.ycombinator.com/item?id=46868287) - [From Tobacco to Ultraprocessed Food: How Industry Fuels Preventable Disease](https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.70066)
 * [2026-02-03, 04:33:25](https://news.ycombinator.com/item?id=46866544) - [Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html)
-* [2026-02-03, 04:25:35](https://news.ycombinator.com/item?id=46866481) - [Coding assistants are solving the wrong problem](https://www.bicameral-ai.com/blog/introducing-bicameral)
 * [2026-02-03, 00:28:06](https://news.ycombinator.com/item?id=46864498) - [How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/)
 * [2026-02-02, 22:57:59](https://news.ycombinator.com/item?id=46863357) - [Julia](https://borretti.me/fiction/julia)
 * [2026-02-02, 22:48:10](https://news.ycombinator.com/item?id=46863162) - [The TSA's New $45 Fee to Fly Without ID Is Illegal](https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/)
@@ -21,6 +21,7 @@
 * [2026-02-02, 16:08:36](https://news.ycombinator.com/item?id=46857615) - [Hacking Moltbook](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys)
 * [2026-02-02, 16:01:30](https://news.ycombinator.com/item?id=46857488) - [Ask HN: Who is hiring? (February 2026)](https://news.ycombinator.com/item?id=46857488)
 * [2026-02-02, 12:52:35](https://news.ycombinator.com/item?id=46855447) - [Nano-vLLM: How a vLLM-style inference engine works](https://neutree.ai/blog/nano-vllm-part-1)
+* [2026-02-01, 18:15:40](https://news.ycombinator.com/item?id=46848060) - [Pretty soon, heat pumps will be able to store and distribute heat as needed](https://www.sintef.no/en/latest-news/2026/pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed/)
 * [2026-02-01, 15:18:38](https://news.ycombinator.com/item?id=46846762) - [Same SQL, Different Results: A Subtle Oracle vs. PostgreSQL Migration Bug](https://databaserookies.wordpress.com/2026/01/30/same-sql-different-results-a-subtle-oracle-vs-postgresql-migration-bug/)
 * [2026-02-01, 05:11:53](https://news.ycombinator.com/item?id=46843805) - [Archive.today is directing a DDoS attack against my blog?](https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/)
 * [2026-01-31, 14:36:21](https://news.ycombinator.com/item?id=46837045) - [Phenakistoscopes (1833)](https://publicdomainreview.org/collection/phenakistoscopes-1833/)
@@ -29,7 +30,6 @@
 * [2026-01-30, 03:17:32](https://news.ycombinator.com/item?id=46820142) - [4x faster network file sync with rclone (vs rsync) (2025)](https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/)
 * [2026-01-29, 20:19:56](https://news.ycombinator.com/item?id=46815995) - [50 Years of the Jetsons: Why the Show Still Matters](https://www.smithsonianmag.com/history/50-years-of-the-jetsons-why-the-show-still-matters-43459669/)
 * [2026-01-29, 05:59:23](https://news.ycombinator.com/item?id=46806346) - [Carnegie Mellon Unversity Computer Club FTP Server](http://128.237.157.9/pub/)
-* [2026-01-29, 04:18:06](https://news.ycombinator.com/item?id=46805763) - [Astrological CPU Scheduler](https://github.com/zampierilucas/scx_horoscope)
 
 ## [Archives](archives/index.md)
 
