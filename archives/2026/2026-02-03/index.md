@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-03](index.md)
 
+* [2026-02-03, 15:48:03](https://news.ycombinator.com/item?id=46872481) - [Anthropic is Down](https://updog.ai/status/anthropic)
+* [2026-02-03, 15:28:59](https://news.ycombinator.com/item?id=46872190) - [Data Brokers Can Fuel Violence Against Public Servants](https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/)
+* [2026-02-03, 14:38:26](https://news.ycombinator.com/item?id=46871504) - [A WhatsApp bug lets malicious media files spread through group chats](https://www.malwarebytes.com/blog/news/2026/01/a-whatsapp-bug-lets-malicious-media-files-spread-through-group-chats)
 * [2026-02-03, 14:35:25](https://news.ycombinator.com/item?id=46871473) - [GitHub Browser Plugin for AI Contribution Blame in Pull Requests](https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/)
 * [2026-02-03, 14:28:01](https://news.ycombinator.com/item?id=46871387) - [Show HN: Sandboxing untrusted code using WebAssembly](https://github.com/mavdol/capsule)
 * [2026-02-03, 14:16:49](https://news.ycombinator.com/item?id=46871251) - [Show HN: Inverting Agent Model (App as Clients, Chat as Server and Reflection)](https://github.com/RAIL-Suite/RAIL)

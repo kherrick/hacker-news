@@ -47,6 +47,7 @@
 * [2026-01-28, 15:27:49](https://news.ycombinator.com/item?id=46796571) - [Dole Kemp 96 Web Site](https://www.dolekemp96.org/main.htm)
 * [2026-01-28, 15:13:53](https://news.ycombinator.com/item?id=46796389) - [Tuning Semantic Search on JFMM.net – Joint Fleet Maintenance Manual](https://carlkolon.com/2026/01/27/jfmm-semantic-search/)
 * [2026-01-28, 15:00:15](https://news.ycombinator.com/item?id=46796195) - [Local agents will win](https://twitter.com/EdouardGodfrey/status/2016343089334702081)
+* [2026-01-28, 14:38:21](https://news.ycombinator.com/item?id=46795961) - [The Everdeck: A Universal Card System (2019)](https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/)
 * [2026-01-28, 14:32:30](https://news.ycombinator.com/item?id=46795908) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2026-01-28, 14:28:21](https://news.ycombinator.com/item?id=46795864) - [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
 * [2026-01-28, 14:06:48](https://news.ycombinator.com/item?id=46795584) - [Show HN: Sandbox Agent SDK – unified API for automating coding agents](https://github.com/rivet-dev/sandbox-agent)
