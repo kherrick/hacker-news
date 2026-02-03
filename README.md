@@ -3,7 +3,6 @@
 * [2026-02-03, 04:33:25](https://news.ycombinator.com/item?id=46866544) - [Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html)
 * [2026-02-03, 04:25:35](https://news.ycombinator.com/item?id=46866481) - [Coding assistants are solving the wrong problem](https://www.bicameral-ai.com/blog/introducing-bicameral)
 * [2026-02-03, 04:12:16](https://news.ycombinator.com/item?id=46866385) - [Frog 'saunas' could help endangered species beat a deadly fungus (2024)](https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus)
-* [2026-02-03, 03:39:12](https://news.ycombinator.com/item?id=46866165) - [Ask HN: Anyone else struggle with how to learn coding in the AI era?](https://news.ycombinator.com/item?id=46866165)
 * [2026-02-03, 03:37:36](https://news.ycombinator.com/item?id=46866149) - [Ask HN: Where do all the web devs talk?](https://news.ycombinator.com/item?id=46866149)
 * [2026-02-03, 00:28:06](https://news.ycombinator.com/item?id=46864498) - [How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/)
 * [2026-02-02, 22:57:59](https://news.ycombinator.com/item?id=46863357) - [Julia](https://borretti.me/fiction/julia)
@@ -30,6 +29,7 @@
 * [2026-01-30, 03:17:32](https://news.ycombinator.com/item?id=46820142) - [4x faster network file sync with rclone (vs rsync) (2025)](https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/)
 * [2026-01-29, 13:14:14](https://news.ycombinator.com/item?id=46809785) - [The Physics of Ideas: Reality as a Coordination Problem](https://bpe.xyz)
 * [2026-01-29, 05:59:23](https://news.ycombinator.com/item?id=46806346) - [Carnegie Mellon Unversity Computer Club FTP Server](http://128.237.157.9/pub/)
+* [2026-01-28, 13:56:56](https://news.ycombinator.com/item?id=46795456) - [GitHub – BenjaminPoilve/minichord: A pocket-sized musical instrument](https://github.com/BenjaminPoilve/minichord)
 
 ## [Archives](archives/index.md)
 
