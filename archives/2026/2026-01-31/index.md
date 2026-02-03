@@ -54,6 +54,7 @@
 * [2026-01-31, 05:44:49](https://news.ycombinator.com/item?id=46833847) - [Starlink updates privacy policy to allow consumer data to train](https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html)
 * [2026-01-31, 05:22:03](https://news.ycombinator.com/item?id=46833754) - [Show HN: Phage Explorer](https://phage-explorer.org/)
 * [2026-01-31, 05:13:25](https://news.ycombinator.com/item?id=46833707) - [Genesis](https://zenodo.org/records/18438130)
+* [2026-01-31, 04:34:25](https://news.ycombinator.com/item?id=46833534) - [Puget Systems Most Reliable Hardware of 2025](https://www.pugetsystems.com/labs/articles/puget-systems-most-reliable-hardware-of-2025/)
 * [2026-01-31, 03:53:06](https://news.ycombinator.com/item?id=46833254) - [Naples' 1790s civil war was intensified by moral panic over Real Analysis (2023)](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/)
 * [2026-01-31, 02:29:45](https://news.ycombinator.com/item?id=46832751) - [Court Filings: ICE App Identifies Protesters; Global Entry, PreCheck Get Revoked](https://viewfromthewing.com/court-filings-ice-uses-mobile-fortify-to-identify-protesters-global-entry-and-precheck-get-revoked/)
 * [2026-01-31, 02:08:26](https://news.ycombinator.com/item?id=46832625) - [Coding Is When We're Least Productive](https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/)
