@@ -11,22 +11,42 @@
   ],
   [
     [
+      "2026-02-03, 04:25:35",
+      "https://news.ycombinator.com/item?id=46866481"
+    ],
+    [
+      "Coding assistants are solving the wrong problem",
+      "https://www.bicameral-ai.com/blog/introducing-bicameral"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 04:12:16",
+      "https://news.ycombinator.com/item?id=46866385"
+    ],
+    [
+      "Frog 'saunas' could help endangered species beat a deadly fungus (2024)",
+      "https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 03:39:12",
+      "https://news.ycombinator.com/item?id=46866165"
+    ],
+    [
+      "Ask HN: Anyone else struggle with how to learn coding in the AI era?",
+      "https://news.ycombinator.com/item?id=46866165"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 01:52:21",
       "https://news.ycombinator.com/item?id=46865275"
     ],
     [
       "Banning lead in gas worked. The proof is in our hair",
       "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 00:30:02",
-      "https://news.ycombinator.com/item?id=46864517"
-    ],
-    [
-      "GitHub discusses giving maintainers control to disable PRs",
-      "https://github.com/orgs/community/discussions/185387"
     ]
   ],
   [
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2026-02-02, 18:31:36",
-      "https://news.ycombinator.com/item?id=46859443"
-    ],
-    [
-      "The largest number representable in 64 bits",
-      "https://tromp.github.io/blog/2026/01/28/largest-number-revised"
-    ]
-  ],
-  [
-    [
       "2026-02-02, 18:02:48",
       "https://news.ycombinator.com/item?id=46859054"
     ],
     [
       "The Codex App",
       "https://openai.com/index/introducing-the-codex-app/"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 17:49:07",
-      "https://news.ycombinator.com/item?id=46858873"
-    ],
-    [
-      "Advancing AI Benchmarking with Game Arena",
-      "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/"
     ]
   ],
   [
@@ -157,6 +157,16 @@
     [
       "On being sane in insane places (1973) [pdf]",
       "https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 17:28:19",
+      "https://news.ycombinator.com/item?id=46858622"
+    ],
+    [
+      "Zig Libc",
+      "https://ziglang.org/devlog/2026/#2026-01-31"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-02-02, 13:29:13",
-      "https://news.ycombinator.com/item?id=46855803"
-    ],
-    [
-      "Geologists may have solved mystery of Green River's 'uphill' route",
-      "https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html"
-    ]
-  ],
-  [
-    [
       "2026-02-02, 12:52:35",
       "https://news.ycombinator.com/item?id=46855447"
     ],
@@ -211,12 +211,22 @@
   ],
   [
     [
-      "2026-02-01, 18:15:40",
-      "https://news.ycombinator.com/item?id=46848060"
+      "2026-02-01, 17:21:50",
+      "https://news.ycombinator.com/item?id=46847660"
     ],
     [
-      "Pretty soon, heat pumps will be able to store and distribute heat as needed",
-      "https://www.sintef.no/en/latest-news/2026/pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed/"
+      "50 years ago, a young Bill Gates took on the 'software pirates'",
+      "https://thenewstack.io/50-years-ago-a-young-bill-gates-took-on-the-software-pirates/"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 13:56:57",
+      "https://news.ycombinator.com/item?id=46846253"
+    ],
+    [
+      "Flying Around the World in under 80 Days",
+      "https://pinchito.es/2026/avis-lxxx"
     ]
   ],
   [
@@ -227,6 +237,16 @@
     [
       "Archive.today is directing a DDoS attack against my blog?",
       "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 14:36:21",
+      "https://news.ycombinator.com/item?id=46837045"
+    ],
+    [
+      "Phenakistoscopes (1833)",
+      "https://publicdomainreview.org/collection/phenakistoscopes-1833/"
     ]
   ],
   [
@@ -247,16 +267,6 @@
     [
       "Joedb, the Journal-Only Embedded Database",
       "https://www.joedb.org/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 13:56:04",
-      "https://news.ycombinator.com/item?id=46824411"
-    ],
-    [
-      "G Lang – A lightweight interpreter written in D (2.4MB)",
-      "https://news.ycombinator.com/item?id=46824411"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Carnegie Mellon Unversity Computer Club FTP Server",
       "http://128.237.157.9/pub/"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 16:58:05",
-      "https://news.ycombinator.com/item?id=46782692"
-    ],
-    [
-      "Training a trillion parameter model to be funny",
-      "https://jokegen.sdan.io/blog"
     ]
   ]
 ]
