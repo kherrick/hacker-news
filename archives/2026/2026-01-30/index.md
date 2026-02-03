@@ -18,6 +18,7 @@
 * [2026-01-30, 20:40:00](https://news.ycombinator.com/item?id=46829582) - [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)
 * [2026-01-30, 20:37:48](https://news.ycombinator.com/item?id=46829548) - [Silver plunges 30% in worst day since 1980, gold tumbles](https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html)
 * [2026-01-30, 20:05:24](https://news.ycombinator.com/item?id=46829147) - [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
+* [2026-01-30, 19:54:52](https://news.ycombinator.com/item?id=46829029) - [See how many words you have written in Hacker News comments](https://serjaimelannister.github.io/hn-words/)
 * [2026-01-30, 19:41:13](https://news.ycombinator.com/item?id=46828907) - [Jack Kerouac's 37 metre-long, first draft scroll of On the Road to be auctioned](https://www.theguardian.com/books/2026/jan/30/jack-kerouac-on-the-road-first-draft-scroll-to-be-auctioned)
 * [2026-01-30, 19:38:44](https://news.ycombinator.com/item?id=46828881) - [A judge gave the FBI permission to attempt to bypass biometrics](https://theintercept.com/2026/01/30/washington-post-hannah-natanson-fbi-biometrics-unlock-phone/)
 * [2026-01-30, 19:04:28](https://news.ycombinator.com/item?id=46828482) - [Videogame stocks slide after Google's Project Genie AI model release](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)
