@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-03, 14:35:25",
+      "https://news.ycombinator.com/item?id=46871473"
+    ],
+    [
+      "GitHub Browser Plugin for AI Contribution Blame in Pull Requests",
+      "https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 14:28:01",
+      "https://news.ycombinator.com/item?id=46871387"
+    ],
+    [
+      "Show HN: Sandboxing untrusted code using WebAssembly",
+      "https://github.com/mavdol/capsule"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 14:16:49",
+      "https://news.ycombinator.com/item?id=46871251"
+    ],
+    [
+      "Show HN: Inverting Agent Model (App as Clients, Chat as Server and Reflection)",
+      "https://github.com/RAIL-Suite/RAIL"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 14:10:21",
       "https://news.ycombinator.com/item?id=46871179"
     ],
@@ -21,22 +51,22 @@
   ],
   [
     [
-      "2026-02-03, 14:09:10",
-      "https://news.ycombinator.com/item?id=46871169"
+      "2026-02-03, 13:47:24",
+      "https://news.ycombinator.com/item?id=46870917"
     ],
     [
-      "Decentralizing My Smartphone with Single Purpose Devices",
-      "https://ambertherambler.bearblog.dev/decentralizing-my-smartphone-with-single-purpose-devices/"
+      "Show HN: difi – A Git diff TUI with Neovim integration (written in Go)",
+      "https://github.com/oug-t/difi"
     ]
   ],
   [
     [
-      "2026-02-03, 13:32:06",
-      "https://news.ycombinator.com/item?id=46870751"
+      "2026-02-03, 12:13:44",
+      "https://news.ycombinator.com/item?id=46870015"
     ],
     [
-      "KDE's new Plasma Login Manager is tightly bound to systemd",
-      "https://forums.FreeBSD.org/threads/kde-plasma-login-manager-wont-support-systemd-free-linux-or-bsd-systems.101393/"
+      "Bunny Database",
+      "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-02-02, 17:28:19",
-      "https://news.ycombinator.com/item?id=46858622"
-    ],
-    [
-      "Zig Libc",
-      "https://ziglang.org/devlog/2026/#2026-01-31"
-    ]
-  ],
-  [
-    [
       "2026-02-02, 17:25:26",
       "https://news.ycombinator.com/item?id=46858577"
     ],
@@ -221,22 +241,12 @@
   ],
   [
     [
-      "2026-02-02, 12:52:35",
-      "https://news.ycombinator.com/item?id=46855447"
+      "2026-02-01, 12:13:22",
+      "https://news.ycombinator.com/item?id=46845650"
     ],
     [
-      "Nano-vLLM: How a vLLM-style inference engine works",
-      "https://neutree.ai/blog/nano-vllm-part-1"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 18:15:40",
-      "https://news.ycombinator.com/item?id=46848060"
-    ],
-    [
-      "Pretty soon, heat pumps will be able to store and distribute heat as needed",
-      "https://www.sintef.no/en/latest-news/2026/pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed/"
+      "Heritability of intrinsic human life span is about 50%",
+      "https://www.science.org/doi/10.1126/science.adz1187"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Why The Jetsons still matters (2012)",
       "https://www.smithsonianmag.com/history/50-years-of-the-jetsons-why-the-show-still-matters-43459669/"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 05:59:23",
-      "https://news.ycombinator.com/item?id=46806346"
-    ],
-    [
-      "Carnegie Mellon Unversity Computer Club FTP Server",
-      "http://128.237.157.9/pub/"
     ]
   ]
 ]
