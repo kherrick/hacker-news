@@ -77,6 +77,7 @@
 * [2026-01-29, 07:32:19](https://news.ycombinator.com/item?id=46806959) - [The Only Moat Left Is Knowing Things](https://growtika.com/blog/authenticity-edge)
 * [2026-01-29, 07:07:17](https://news.ycombinator.com/item?id=46806773) - [Europe's next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
 * [2026-01-29, 06:24:18](https://news.ycombinator.com/item?id=46806505) - [Generative Music with the Muse](https://computerhistory.org/blog/generative-music-with-the-muse/)
+* [2026-01-29, 05:59:23](https://news.ycombinator.com/item?id=46806346) - [Carnegie Mellon Unversity Computer Club FTP Server](http://128.237.157.9/pub/)
 * [2026-01-29, 05:40:45](https://news.ycombinator.com/item?id=46806245) - [Why do RSS readers look like email clients?](https://www.terrygodier.com/phantom-obligation)
 * [2026-01-29, 04:38:29](https://news.ycombinator.com/item?id=46805867) - [High performance, open source RAFT clustered database: RooDB](https://github.com/jgarzik/roodb)
 * [2026-01-29, 04:33:10](https://news.ycombinator.com/item?id=46805841) - [Microsoft's Azure Linux](https://github.com/microsoft/azurelinux)

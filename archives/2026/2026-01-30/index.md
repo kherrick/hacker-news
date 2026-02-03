@@ -42,6 +42,7 @@
 * [2026-01-30, 14:33:29](https://news.ycombinator.com/item?id=46824867) - [Richard Feynman Side Hustles](https://twitter.com/carl_feynman/status/2016979540099420428)
 * [2026-01-30, 14:08:58](https://news.ycombinator.com/item?id=46824558) - [Former CNN journalist Don Lemon arrested in connection with Minnesota protest](https://abcnews.go.com/US/don-lemon-arrested-connection-minnesota-protest-sources/story?id=129699476)
 * [2026-01-30, 13:56:51](https://news.ycombinator.com/item?id=46824422) - [HTTP Cats](https://http.cat/)
+* [2026-01-30, 13:56:04](https://news.ycombinator.com/item?id=46824411) - [G Lang – A lightweight interpreter written in D (2.4MB)](https://news.ycombinator.com/item?id=46824411)
 * [2026-01-30, 13:55:29](https://news.ycombinator.com/item?id=46824400) - [Ode to the AA Battery](https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/)
 * [2026-01-30, 13:55:16](https://news.ycombinator.com/item?id=46824398) - [Solvingn the Santa Claus concurrency puzzle with a model checker](https://wyounas.github.io/puzzles/concurrency/2026/01/10/how-to-help-santa-claus-concurrently/)
 * [2026-01-30, 13:29:44](https://news.ycombinator.com/item?id=46824147) - [Board Games in Ancient Fiction: Egypt, Iran, Greece](https://reference-global.com/article/10.2478/bgs-2022-0016)
