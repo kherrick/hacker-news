@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-03, 21:15:48",
+      "https://news.ycombinator.com/item?id=46877403"
+    ],
+    [
+      "FlashAttention-T: Towards Tensorized Attention",
+      "https://dl.acm.org/doi/10.1145/3774934.3786425"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 20:49:30",
+      "https://news.ycombinator.com/item?id=46877075"
+    ],
+    [
+      "Bruce Schneier: AI and the scaling of betrayal",
+      "https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 20:21:21",
       "https://news.ycombinator.com/item?id=46876720"
     ],
@@ -37,6 +57,16 @@
     [
       "China Moon Mission: Aiming for 2030 Lunar Landing",
       "https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 19:26:05",
+      "https://news.ycombinator.com/item?id=46875952"
+    ],
+    [
+      "OpenClaw (a.k.a. Moltbot) Is Everywhere All at Once, and a Disaster",
+      "https://cacm.acm.org/blogcacm/openclaw-a-k-a-moltbot-is-everywhere-all-at-once-and-a-disaster-waiting-to-happen/"
     ]
   ],
   [
@@ -107,36 +137,6 @@
     [
       "Show HN: Octosphere, a tool to decentralise scientific publishing",
       "https://octosphere.social/"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 17:08:43",
-      "https://news.ycombinator.com/item?id=46873742"
-    ],
-    [
-      "Show HN: I built \"AI Wattpad\" to eval LLMs on fiction",
-      "https://narrator.sh/llm-leaderboard"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 16:56:06",
-      "https://news.ycombinator.com/item?id=46873574"
-    ],
-    [
-      "221 Cannon Road Is Not for Sale",
-      "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 16:40:12",
-      "https://news.ycombinator.com/item?id=46873308"
-    ],
-    [
-      "Show HN: PII-Shield – Log Sanitization Sidecar with JSON Integrity (Go, Entropy)",
-      "https://github.com/aragossa/pii-shield"
     ]
   ],
   [
