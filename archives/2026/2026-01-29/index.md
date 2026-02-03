@@ -64,6 +64,7 @@
 * [2026-01-29, 13:59:07](https://news.ycombinator.com/item?id=46810282) - [Claude Code Daily Benchmarks for Degradation Tracking](https://marginlab.ai/trackers/claude-code/)
 * [2026-01-29, 13:36:54](https://news.ycombinator.com/item?id=46810027) - [A lot of population numbers are fake](https://davidoks.blog/p/a-lot-of-population-numbers-are-fake)
 * [2026-01-29, 13:20:07](https://news.ycombinator.com/item?id=46809846) - [A Step Behind the Bleeding Edge: A Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/)
+* [2026-01-29, 13:14:14](https://news.ycombinator.com/item?id=46809785) - [The Physics of Ideas: Reality as a Coordination Problem](https://bpe.xyz)
 * [2026-01-29, 13:08:11](https://news.ycombinator.com/item?id=46809708) - [Compressed Agents.md > Agent Skills](https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals)
 * [2026-01-29, 12:42:58](https://news.ycombinator.com/item?id=46809420) - [The Sovereign Tech Fund Invests in Scala](https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html)
 * [2026-01-29, 12:07:56](https://news.ycombinator.com/item?id=46809106) - [Does running wear out the bodies of professionals and amateurs alike?](https://theconversation.com/does-running-wear-out-the-bodies-of-professionals-and-amateurs-alike-270507)
