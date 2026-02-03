@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-03, 04:33:25",
+      "https://news.ycombinator.com/item?id=46866544"
+    ],
+    [
+      "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
+      "https://krzysztofjankowski.com/floppinux/floppinux-2025.html"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 01:52:21",
       "https://news.ycombinator.com/item?id=46865275"
     ],
@@ -146,17 +156,7 @@
     ],
     [
       "On being sane in insane places (1973) [pdf]",
-      "https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF40"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 17:28:19",
-      "https://news.ycombinator.com/item?id=46858622"
-    ],
-    [
-      "Zig Libc",
-      "https://ziglang.org/devlog/2026/#2026-01-31"
+      "https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF"
     ]
   ],
   [
@@ -191,32 +191,12 @@
   ],
   [
     [
-      "2026-02-02, 16:01:30",
-      "https://news.ycombinator.com/item?id=46857487"
-    ],
-    [
-      "Ask HN: Who wants to be hired? (February 2026)",
-      "https://news.ycombinator.com/item?id=46857487"
-    ]
-  ],
-  [
-    [
       "2026-02-02, 13:29:13",
       "https://news.ycombinator.com/item?id=46855803"
     ],
     [
       "Geologists may have solved mystery of Green River's 'uphill' route",
       "https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 13:02:04",
-      "https://news.ycombinator.com/item?id=46855550"
-    ],
-    [
-      "UK government launches fuel forecourt price API",
-      "https://www.gov.uk/guidance/access-the-latest-fuel-prices-and-forecourt-data-via-api-or-email"
     ]
   ],
   [
@@ -237,6 +217,26 @@
     [
       "Pretty soon, heat pumps will be able to store and distribute heat as needed",
       "https://www.sintef.no/en/latest-news/2026/pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed/"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 05:11:53",
+      "https://news.ycombinator.com/item?id=46843805"
+    ],
+    [
+      "Archive.today is directing a DDoS attack against my blog?",
+      "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 19:54:52",
+      "https://news.ycombinator.com/item?id=46829029"
+    ],
+    [
+      "See how many words you have written in Hacker News comments",
+      "https://serjaimelannister.github.io/hn-words/"
     ]
   ],
   [
