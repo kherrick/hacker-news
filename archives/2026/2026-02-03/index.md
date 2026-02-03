@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-02-03](index.md)
 
+* [2026-02-03, 19:32:11](https://news.ycombinator.com/item?id=46876047) - [China Moon Mission: Aiming for 2030 Lunar Landing](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 * [2026-02-03, 18:40:18](https://news.ycombinator.com/item?id=46875228) - [AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines](https://github.com/alibaba/AliSQL)
 * [2026-02-03, 18:28:48](https://news.ycombinator.com/item?id=46875033) - [Y Combinator will let founders receive funds in stablecoins](https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/)
 * [2026-02-03, 18:04:08](https://news.ycombinator.com/item?id=46874619) - [Xcode 26.3 unlocks the power of agentic coding](https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/)
 * [2026-02-03, 17:48:22](https://news.ycombinator.com/item?id=46874345) - [I made 20 GDPR deletion requests. 12 were ignored](https://nikolak.com/gdpr-failure/)
+* [2026-02-03, 17:35:37](https://news.ycombinator.com/item?id=46874139) - [Sandboxing AI Agents in Linux](https://blog.senko.net/sandboxing-ai-agents-in-linux)
 * [2026-02-03, 17:33:20](https://news.ycombinator.com/item?id=46874097) - [Deno Sandbox](https://deno.com/blog/introducing-deno-sandbox)
 * [2026-02-03, 17:19:47](https://news.ycombinator.com/item?id=46873885) - [Migrate Wizard – IMAP Based Email Migration Tool](https://migratewizard.com/#features)
 * [2026-02-03, 17:12:53](https://news.ycombinator.com/item?id=46873798) - [Young adults report lower life satisfaction in Sweden](https://internationaljournalofwellbeing.org/index.php/ijow/article/view/6001/1299)
