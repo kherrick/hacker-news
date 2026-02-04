@@ -59,6 +59,7 @@
 * [2026-02-03, 08:45:57](https://news.ycombinator.com/item?id=46868318) - [LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.](https://github.com/KrystianJonca/lnai)
 * [2026-02-03, 08:42:51](https://news.ycombinator.com/item?id=46868287) - [From Tobacco to Ultraprocessed Food: How Industry Fuels Preventable Disease](https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.70066)
 * [2026-02-03, 08:00:19](https://news.ycombinator.com/item?id=46867947) - [Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)](https://github.com/whispem/minikv)
+* [2026-02-03, 07:41:37](https://news.ycombinator.com/item?id=46867799) - [The fax numbers of the beast, and other mathematical sports](https://cabinetmagazine.org/issues/57/wertheim.php)
 * [2026-02-03, 04:33:25](https://news.ycombinator.com/item?id=46866544) - [Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html)
 * [2026-02-03, 04:25:35](https://news.ycombinator.com/item?id=46866481) - [Coding assistants are solving the wrong problem](https://www.bicameral-ai.com/blog/introducing-bicameral)
 * [2026-02-03, 04:12:16](https://news.ycombinator.com/item?id=46866385) - [Frog 'saunas' could help endangered species beat a deadly fungus (2024)](https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus)

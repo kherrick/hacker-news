@@ -16,6 +16,7 @@
 * [2026-01-31, 20:48:33](https://news.ycombinator.com/item?id=46840676) - [Autonomous cars, drones cheerfully obey prompt injection by road sign](https://www.theregister.com/2026/01/30/road_sign_hijack_ai/)
 * [2026-01-31, 20:44:39](https://news.ycombinator.com/item?id=46840636) - [Humans can post on moltbook without ANY AGENT](https://github.com/shash42/post-a-molt)
 * [2026-01-31, 20:42:13](https://news.ycombinator.com/item?id=46840612) - [In Praise Of –Dry-Run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
+* [2026-01-31, 20:35:51](https://news.ycombinator.com/item?id=46840558) - [Brazilian Micro-SaaS Map](https://saas-map.ssr.trapiche.cloud/)
 * [2026-01-31, 20:05:22](https://news.ycombinator.com/item?id=46840252) - [Demystifying ARM SME to Optimize General Matrix Multiplications](https://arxiv.org/abs/2512.21473)
 * [2026-01-31, 20:02:36](https://news.ycombinator.com/item?id=46840219) - [The Saddest Moment (2013) [pdf]](https://www.usenix.org/system/files/login-logout_1305_mickens.pdf)
 * [2026-01-31, 19:58:14](https://news.ycombinator.com/item?id=46840179) - [Noctia: A sleek and minimal desktop shell thoughtfully crafted for Wayland](https://github.com/noctalia-dev/noctalia-shell)
