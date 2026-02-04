@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2026-02-04, 07:56:05",
+      "https://news.ycombinator.com/item?id=46882817"
+    ],
+    [
+      "The €10 Mirror: Why Enterprise Security Looks Like a Kid's Toy",
+      "https://labs.itresit.es/2026/02/04/the-e10-mirror-why-enterprise-security-looks-like-a-kids-toy/"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 06:51:51",
       "https://news.ycombinator.com/item?id=46882389"
     ],
     [
       "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
       "https://github.com/bethington/ghidra-mcp"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 06:22:58",
-      "https://news.ycombinator.com/item?id=46882184"
-    ],
-    [
-      "The full history of Windows widgets, from 1997 to today",
-      "https://xakpc.dev/windows-widgets/history/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-02-01, 12:19:57",
-      "https://news.ycombinator.com/item?id=46845699"
-    ],
-    [
-      "Show HN: BPU – An embedded scheduler for stable UART pipelines",
-      "https://news.ycombinator.com/item?id=46845699"
-    ]
-  ],
-  [
-    [
       "2026-02-01, 06:53:42",
       "https://news.ycombinator.com/item?id=46844157"
     ],
@@ -257,6 +247,16 @@
     [
       "The Mathematics of Tuning Systems",
       "https://math.ucr.edu/home/baez/tuning_talk/"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 02:05:25",
+      "https://news.ycombinator.com/item?id=46832606"
+    ],
+    [
+      "Goblins: Distributed, Transactional Programming with Racket and Guile",
+      "https://spritely.institute/goblins/"
     ]
   ],
   [
