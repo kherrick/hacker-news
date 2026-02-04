@@ -41,6 +41,7 @@
 * [2026-01-30, 14:38:32](https://news.ycombinator.com/item?id=46824925) - [Where I'm at with AI](https://paulosman.me/2026/01/18/where-im-at-with-ai/)
 * [2026-01-30, 14:34:32](https://news.ycombinator.com/item?id=46824877) - [Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents](https://github.com/amlalabs/amla-sandbox)
 * [2026-01-30, 14:33:29](https://news.ycombinator.com/item?id=46824867) - [Richard Feynman Side Hustles](https://twitter.com/carl_feynman/status/2016979540099420428)
+* [2026-01-30, 14:25:36](https://news.ycombinator.com/item?id=46824752) - [The Voxel Is a Cutting-Edge Theater Experiment](https://bmoreart.com/2024/09/the-voxel-is-a-cutting-edge-theater-experiment.html)
 * [2026-01-30, 14:08:58](https://news.ycombinator.com/item?id=46824558) - [Former CNN journalist Don Lemon arrested in connection with Minnesota protest](https://abcnews.go.com/US/don-lemon-arrested-connection-minnesota-protest-sources/story?id=129699476)
 * [2026-01-30, 13:56:51](https://news.ycombinator.com/item?id=46824422) - [HTTP Cats](https://http.cat/)
 * [2026-01-30, 13:56:04](https://news.ycombinator.com/item?id=46824411) - [G Lang – A lightweight interpreter written in D (2.4MB)](https://news.ycombinator.com/item?id=46824411)

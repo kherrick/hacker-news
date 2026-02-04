@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-04](index.md)
 
+* [2026-02-04, 17:10:37](https://news.ycombinator.com/item?id=46888454) - [Fastmail Donates USD 10k to the Perl and Raku Foundation](https://www.perl.com/article/fastmail-donates-usd-10-000-to-the-perl-and-raku-foundation/)
+* [2026-02-04, 17:01:44](https://news.ycombinator.com/item?id=46888339) - [Launching the Rural Guaranteed Minimum Income Initiative](https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/)
+* [2026-02-04, 17:01:14](https://news.ycombinator.com/item?id=46888331) - [Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)](https://www.runconverge.com/careers/product-engineer)
+* [2026-02-04, 16:08:55](https://news.ycombinator.com/item?id=46887564) - [Microsoft's Pivotal AI Product Is Running into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28)
 * [2026-02-04, 15:08:17](https://news.ycombinator.com/item?id=46886735) - [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
 * [2026-02-04, 14:46:46](https://news.ycombinator.com/item?id=46886440) - [A case study in PDF forensics: The Epstein PDFs](https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/)
 * [2026-02-04, 14:33:33](https://news.ycombinator.com/item?id=46886265) - [Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation](https://arxiv.org/abs/2602.00294)
@@ -12,6 +16,7 @@
 * [2026-02-04, 14:20:31](https://news.ycombinator.com/item?id=46886114) - [Cannabis usage in older adults linked to larger brain, better cognitive function](https://medicalxpress.com/news/2026-02-qa-cannabis-usage-middle-aged.html)
 * [2026-02-04, 13:59:28](https://news.ycombinator.com/item?id=46885862) - [Thatcher Effect – Optical Illusion and Explanation](https://optical.toys/thatcher-effect/)
 * [2026-02-04, 13:02:00](https://news.ycombinator.com/item?id=46885332) - [I prefer to pass secrets between programs through standard input](https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin)
+* [2026-02-04, 12:08:49](https://news.ycombinator.com/item?id=46884883) - [Claude Is a Space to Think](https://www.anthropic.com/news/claude-is-a-space-to-think)
 * [2026-02-04, 10:26:34](https://news.ycombinator.com/item?id=46884027) - [Speculative Sampling Explained](https://saibo-creator.github.io/post/2024_03_08_speculative_sampling/)
 * [2026-02-04, 09:24:20](https://news.ycombinator.com/item?id=46883528) - [\"time to GPT-2\", down to 2.91 hours](https://twitter.com/karpathy/status/2018804068874064198)
 * [2026-02-04, 09:00:09](https://news.ycombinator.com/item?id=46883337) - [Broken Proofs and Broken Provers](https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html)
