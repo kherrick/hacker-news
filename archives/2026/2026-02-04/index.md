@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-04](index.md)
 
+* [2026-02-04, 23:03:58](https://news.ycombinator.com/item?id=46893167) - [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/)
 * [2026-02-04, 21:13:17](https://news.ycombinator.com/item?id=46891860) - [We built a real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/)
 * [2026-02-04, 21:10:55](https://news.ycombinator.com/item?id=46891827) - [Show HN: Morph – Videos of AI testing your PR, embedded in GitHub](https://morphllm.com/products/glance)
 * [2026-02-04, 21:08:35](https://news.ycombinator.com/item?id=46891794) - [Spotlighting the World Factbook as We Bid a Fond Farewell](https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/)
