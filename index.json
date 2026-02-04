@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-02-04, 17:40:37",
-      "https://news.ycombinator.com/item?id=46888877"
+      "2026-02-04, 18:05:49",
+      "https://news.ycombinator.com/item?id=46889273"
     ],
     [
-      "Intel will start making GPUs",
-      "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/"
+      "ICE has offices in 5 Canadian cities",
+      "https://www.cbc.ca/lite/story/9.7073273"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 17:49:26",
+      "https://news.ycombinator.com/item?id=46889008"
+    ],
+    [
+      "The Great Unwind",
+      "https://occupywallst.com/yen"
     ]
   ],
   [
@@ -27,26 +37,6 @@
     [
       "Study: emotional support from social media found to reduce anxiety",
       "https://news.uark.edu/articles/80669/emotional-support-from-social-media-found-to-reduce-anxiety"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 17:14:18",
-      "https://news.ycombinator.com/item?id=46888498"
-    ],
-    [
-      "In Tehran",
-      "https://www.lrb.co.uk/blog/2026/january/in-tehran"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 17:09:28",
-      "https://news.ycombinator.com/item?id=46888441"
-    ],
-    [
-      "AI Is Killing B2B SaaS",
-      "https://nmn.gl/blog/ai-killing-b2b-saas"
     ]
   ],
   [
@@ -91,12 +81,12 @@
   ],
   [
     [
-      "2026-02-04, 16:08:55",
-      "https://news.ycombinator.com/item?id=46887564"
+      "2026-02-04, 15:50:50",
+      "https://news.ycombinator.com/item?id=46887326"
     ],
     [
-      "Microsoft's Pivotal AI Product Is Running into Big Problems",
-      "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28"
+      "Arcan-A12: Weaving a Different Web",
+      "https://www.divergent-desktop.org/blog/2026/01/26/a12web/"
     ]
   ],
   [
@@ -191,22 +181,32 @@
   ],
   [
     [
-      "2026-02-03, 17:33:20",
-      "https://news.ycombinator.com/item?id=46874097"
+      "2026-02-03, 19:37:30",
+      "https://news.ycombinator.com/item?id=46876105"
     ],
     [
-      "Deno Sandbox",
-      "https://deno.com/blog/introducing-deno-sandbox"
+      "Data centers in space makes no sense",
+      "https://civai.org/blog/space-data-centers"
     ]
   ],
   [
     [
-      "2026-02-03, 15:51:42",
-      "https://news.ycombinator.com/item?id=46872540"
+      "2026-02-03, 18:40:18",
+      "https://news.ycombinator.com/item?id=46875228"
     ],
     [
-      "New York’s budget bill would require “blocking technology” on all 3D printers",
-      "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/"
+      "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
+      "https://github.com/alibaba/AliSQL"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 18:04:08",
+      "https://news.ycombinator.com/item?id=46874619"
+    ],
+    [
+      "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
+      "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/"
     ]
   ],
   [
@@ -217,16 +217,6 @@
     [
       "A sane but bull case on Clawdbot / OpenClaw",
       "https://brandon.wang/2026/clawdbot"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 20:01:00",
-      "https://news.ycombinator.com/item?id=46848876"
-    ],
-    [
-      "Lessons learned shipping 500 units of my first hardware product",
-      "https://www.simonberens.com/p/lessons-learned-shipping-500-units"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Procedures for Repair of Potholes in Asphalt-Surfaced Pavements",
       "https://highways.dot.gov/media/7941"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 01:20:57",
+      "https://news.ycombinator.com/item?id=46842711"
+    ],
+    [
+      "Show HN: SymDerive – A functional, stateless symbolic math library",
+      "https://news.ycombinator.com/item?id=46842711"
     ]
   ],
   [
