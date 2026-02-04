@@ -47,6 +47,7 @@
 * [2026-02-01, 13:56:56](https://news.ycombinator.com/item?id=46846252) - [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
 * [2026-02-01, 13:50:15](https://news.ycombinator.com/item?id=46846210) - [Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code](https://github.com/zuckermanai/zuckerman)
 * [2026-02-01, 13:32:58](https://news.ycombinator.com/item?id=46846101) - [Decompiling and rewriting a 2003 game from its binary in two weeks](https://banteg.xyz/posts/crimsonland/)
+* [2026-02-01, 12:19:57](https://news.ycombinator.com/item?id=46845699) - [Show HN: BPU – An embedded scheduler for stable UART pipelines](https://news.ycombinator.com/item?id=46845699)
 * [2026-02-01, 12:13:22](https://news.ycombinator.com/item?id=46845650) - [Heritability of intrinsic human life span is about 50%](https://www.science.org/doi/10.1126/science.adz1187)
 * [2026-02-01, 11:35:32](https://news.ycombinator.com/item?id=46845470) - [How to Scale a System from 0 to 10M+ Users](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users)
 * [2026-02-01, 11:18:05](https://news.ycombinator.com/item?id=46845375) - [Machinery and English Style (1904)](https://www.theatlantic.com/magazine/archive/1904/10/machinery-and-english-style/637506/)

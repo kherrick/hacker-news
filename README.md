@@ -21,7 +21,7 @@
 * [2026-02-01, 20:01:00](https://news.ycombinator.com/item?id=46848876) - [Lessons learned shipping 500 units of my first hardware product](https://www.simonberens.com/p/lessons-learned-shipping-500-units)
 * [2026-02-01, 17:25:39](https://news.ycombinator.com/item?id=46847690) - [Show HN: Craftplan – I built my wife a production management tool for her bakery](https://github.com/puemos/craftplan)
 * [2026-02-01, 13:32:58](https://news.ycombinator.com/item?id=46846101) - [Resurrecting Crimsonland – Decompiling and preserving a cult 2003 classic game](https://banteg.xyz/posts/crimsonland/)
-* [2026-02-01, 12:13:22](https://news.ycombinator.com/item?id=46845650) - [Heritability of intrinsic human life span is about 50%](https://www.science.org/doi/10.1126/science.adz1187)
+* [2026-02-01, 12:19:57](https://news.ycombinator.com/item?id=46845699) - [Show HN: BPU – An embedded scheduler for stable UART pipelines](https://news.ycombinator.com/item?id=46845699)
 * [2026-02-01, 06:53:42](https://news.ycombinator.com/item?id=46844157) - [Reimplementing Tor from Scratch for a Single-Hop Proxy](https://foxmoss.com/blog/kurrat/)
 * [2026-02-01, 00:14:55](https://news.ycombinator.com/item?id=46842288) - [High-Altitude Adventure with a DIY Pico Balloon](https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon)
 * [2026-01-31, 09:04:08](https://news.ycombinator.com/item?id=46834810) - [The Mathematics of Tuning Systems](https://math.ucr.edu/home/baez/tuning_talk/)
