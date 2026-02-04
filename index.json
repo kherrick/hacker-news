@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-02-04, 10:26:34",
+      "https://news.ycombinator.com/item?id=46884027"
+    ],
+    [
+      "Speculative Sampling Explained",
+      "https://saibo-creator.github.io/post/2024_03_08_speculative_sampling/"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 09:00:09",
       "https://news.ycombinator.com/item?id=46883337"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2026-02-03, 21:15:48",
-      "https://news.ycombinator.com/item?id=46877403"
-    ],
-    [
-      "FlashAttention-T: Towards Tensorized Attention",
-      "https://dl.acm.org/doi/10.1145/3774934.3786425"
-    ]
-  ],
-  [
-    [
       "2026-02-03, 19:37:30",
       "https://news.ycombinator.com/item?id=46876105"
     ],
@@ -67,16 +67,6 @@
     [
       "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
       "https://github.com/alibaba/AliSQL"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 18:28:48",
-      "https://news.ycombinator.com/item?id=46875033"
-    ],
-    [
-      "Y Combinator will let founders receive funds in stablecoins",
-      "https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/"
     ]
   ],
   [
@@ -131,22 +121,22 @@
   ],
   [
     [
-      "2026-02-03, 16:01:50",
-      "https://news.ycombinator.com/item?id=46872706"
-    ],
-    [
-      "Qwen3-Coder-Next",
-      "https://qwen.ai/blog?id=qwen3-coder-next"
-    ]
-  ],
-  [
-    [
       "2026-02-03, 15:51:42",
       "https://news.ycombinator.com/item?id=46872540"
     ],
     [
       "New York’s budget bill would require “blocking technology” on all 3D printers",
       "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 15:47:10",
+      "https://news.ycombinator.com/item?id=46872465"
+    ],
+    [
+      "A sane but bull case on Clawdbot / OpenClaw",
+      "https://brandon.wang/2026/clawdbot"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Exploring Different Keyboard Sensing Technologies",
       "https://www.lttlabs.com/articles/2026/01/27/exploring-different-keyboard-sensing-technologies"
+    ]
+  ],
+  [
+    [
+      "2026-01-27, 23:18:48",
+      "https://news.ycombinator.com/item?id=46788588"
+    ],
+    [
+      "Old Insurance Maps – Georeferencing Sanborn Fire Insurance Maps on Modern Maps",
+      "https://oldinsurancemaps.net/"
     ]
   ]
 ]
