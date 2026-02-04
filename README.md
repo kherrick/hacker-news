@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-04, 09:24:20](https://news.ycombinator.com/item?id=46883528) - [\"time to GPT-2\", down to 2.91 hours](https://twitter.com/karpathy/status/2018804068874064198)
 * [2026-02-04, 06:51:51](https://news.ycombinator.com/item?id=46882389) - [Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering](https://github.com/bethington/ghidra-mcp)
 * [2026-02-04, 06:22:58](https://news.ycombinator.com/item?id=46882184) - [The full history of Windows widgets, from 1997 to today](https://xakpc.dev/windows-widgets/history/)
 * [2026-02-04, 03:54:11](https://news.ycombinator.com/item?id=46881264) - [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
@@ -25,7 +26,6 @@
 * [2026-02-01, 06:53:42](https://news.ycombinator.com/item?id=46844157) - [Reimplementing Tor from Scratch for a Single-Hop Proxy](https://foxmoss.com/blog/kurrat/)
 * [2026-02-01, 00:14:55](https://news.ycombinator.com/item?id=46842288) - [High-Altitude Adventure with a DIY Pico Balloon](https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon)
 * [2026-01-31, 09:04:08](https://news.ycombinator.com/item?id=46834810) - [The Mathematics of Tuning Systems](https://math.ucr.edu/home/baez/tuning_talk/)
-* [2026-01-31, 04:34:25](https://news.ycombinator.com/item?id=46833534) - [Puget Systems Most Reliable Hardware of 2025](https://www.pugetsystems.com/labs/articles/puget-systems-most-reliable-hardware-of-2025/)
 * [2026-01-30, 10:26:54](https://news.ycombinator.com/item?id=46822717) - [1,400-year-old tomb featuring giant owl sculpture discovered in Mexico](https://www.cnn.com/2026/01/29/science/zapotec-tomb-mexico-scli-intl)
 * [2026-01-29, 17:08:20](https://news.ycombinator.com/item?id=46813029) - [The largest zip tie is nearly 4 feet long and $75](https://www.thedrive.com/news/youll-have-that-on-those-big-jobs-the-worlds-largest-zip-tie-is-nearly-4-feet-long-and-75)
 * [2026-01-28, 17:27:51](https://news.ycombinator.com/item?id=46798556) - [How watercolor brushes are made (2015)](https://www.handprint.com/HP/WCL/brush1.html)
