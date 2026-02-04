@@ -4,9 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-02-04](index.md)
 
+* [2026-02-04, 17:40:37](https://news.ycombinator.com/item?id=46888877) - [Intel will start making GPUs](https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/)
+* [2026-02-04, 17:35:05](https://news.ycombinator.com/item?id=46888795) - [Building a 24-bit arcade CRT display adapter from scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter)
+* [2026-02-04, 17:16:44](https://news.ycombinator.com/item?id=46888532) - [Study: emotional support from social media found to reduce anxiety](https://news.uark.edu/articles/80669/emotional-support-from-social-media-found-to-reduce-anxiety)
+* [2026-02-04, 17:14:18](https://news.ycombinator.com/item?id=46888498) - [In Tehran](https://www.lrb.co.uk/blog/2026/january/in-tehran)
 * [2026-02-04, 17:10:37](https://news.ycombinator.com/item?id=46888454) - [Fastmail Donates USD 10k to the Perl and Raku Foundation](https://www.perl.com/article/fastmail-donates-usd-10-000-to-the-perl-and-raku-foundation/)
+* [2026-02-04, 17:09:28](https://news.ycombinator.com/item?id=46888441) - [AI Is Killing B2B SaaS](https://nmn.gl/blog/ai-killing-b2b-saas)
+* [2026-02-04, 17:09:10](https://news.ycombinator.com/item?id=46888438) - [French streamer unbanked by Qonto after criticizing Palantir and Peter Thiel](https://twitter.com/Ced_haurus/status/2018716889191498172)
 * [2026-02-04, 17:01:44](https://news.ycombinator.com/item?id=46888339) - [Launching the Rural Guaranteed Minimum Income Initiative](https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/)
 * [2026-02-04, 17:01:14](https://news.ycombinator.com/item?id=46888331) - [Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)](https://www.runconverge.com/careers/product-engineer)
+* [2026-02-04, 16:47:26](https://news.ycombinator.com/item?id=46888142) - [RS-SDK: Drive RuneScape with Claude Code](https://github.com/MaxBittker/rs-sdk)
 * [2026-02-04, 16:08:55](https://news.ycombinator.com/item?id=46887564) - [Microsoft's Pivotal AI Product Is Running into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28)
 * [2026-02-04, 15:08:17](https://news.ycombinator.com/item?id=46886735) - [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
 * [2026-02-04, 14:46:46](https://news.ycombinator.com/item?id=46886440) - [A case study in PDF forensics: The Epstein PDFs](https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/)
