@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-04](index.md)
 
+* [2026-02-04, 19:47:37](https://news.ycombinator.com/item?id=46890675) - [Mean People Fail (2014)](https://paulgraham.com/mean.html)
 * [2026-02-04, 19:20:29](https://news.ycombinator.com/item?id=46890352) - [Women rejecting the hijab have doomed Iran's brutal regime](https://www.telegraph.co.uk/news/2026/02/03/iranian-regime-doomed-when-it-lost-control-of-women/)
+* [2026-02-04, 18:56:46](https://news.ycombinator.com/item?id=46890034) - [How Jeff Bezos Brought Down the Washington Post](https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post)
 * [2026-02-04, 18:34:08](https://news.ycombinator.com/item?id=46889703) - [Claude Code for Infrastructure](https://www.fluid.sh/)
 * [2026-02-04, 18:06:16](https://news.ycombinator.com/item?id=46889282) - [AI needs to augment rather than replace humans or the workplace is doomed](https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed)
 * [2026-02-04, 18:05:49](https://news.ycombinator.com/item?id=46889273) - [ICE has offices in 5 Canadian cities](https://www.cbc.ca/lite/story/9.7073273)
+* [2026-02-04, 18:05:28](https://news.ycombinator.com/item?id=46889264) - [2 in 5 Americans did not read a single book in 2025](https://mybooklist.club/reading-statistics)
 * [2026-02-04, 17:49:26](https://news.ycombinator.com/item?id=46889008) - [The Great Unwind](https://occupywallst.com/yen)
 * [2026-02-04, 17:40:37](https://news.ycombinator.com/item?id=46888877) - [Intel will start making GPUs](https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/)
 * [2026-02-04, 17:35:05](https://news.ycombinator.com/item?id=46888795) - [Building a 24-bit arcade CRT display adapter from scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter)
