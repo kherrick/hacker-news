@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-04](index.md)
 
 * [2026-02-04, 13:02:00](https://news.ycombinator.com/item?id=46885332) - [I prefer to pass secrets between programs through standard input](https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin)
+* [2026-02-04, 10:26:34](https://news.ycombinator.com/item?id=46884027) - [Speculative Sampling Explained](https://saibo-creator.github.io/post/2024_03_08_speculative_sampling/)
 * [2026-02-04, 09:24:20](https://news.ycombinator.com/item?id=46883528) - [\"time to GPT-2\", down to 2.91 hours](https://twitter.com/karpathy/status/2018804068874064198)
 * [2026-02-04, 09:00:09](https://news.ycombinator.com/item?id=46883337) - [Broken Proofs and Broken Provers](https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html)
 * [2026-02-04, 07:56:05](https://news.ycombinator.com/item?id=46882817) - [The €10 Mirror: Why Enterprise Security Looks Like a Kid's Toy](https://labs.itresit.es/2026/02/04/the-e10-mirror-why-enterprise-security-looks-like-a-kids-toy/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-27](index.md)
 
+* [2026-01-27, 23:18:48](https://news.ycombinator.com/item?id=46788588) - [Old Insurance Maps – Georeferencing Sanborn Fire Insurance Maps on Modern Maps](https://oldinsurancemaps.net/)
 * [2026-01-27, 22:58:30](https://news.ycombinator.com/item?id=46788384) - [Notes on Starting to Use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/)
 * [2026-01-27, 22:24:33](https://news.ycombinator.com/item?id=46787959) - [The paper model houses of Peter Fritz (2013)](https://socks-studio.com/2013/12/06/the-imaginary-town-of-an-unconscious-architect-the-387-paper-models-houses-of-peter-fritz/)
 * [2026-01-27, 22:07:29](https://news.ycombinator.com/item?id=46787693) - [Spacecurve: A space-filling curve playground](https://corte.si/posts/spacecurve/announce/)
