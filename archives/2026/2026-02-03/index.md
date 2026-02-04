@@ -6,6 +6,7 @@
 
 * [2026-02-03, 22:35:27](https://news.ycombinator.com/item?id=46878338) - [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)
 * [2026-02-03, 21:15:48](https://news.ycombinator.com/item?id=46877403) - [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425)
+* [2026-02-03, 21:04:59](https://news.ycombinator.com/item?id=46877278) - [Tractor](https://incoherency.co.uk/blog/stories/tractor.html)
 * [2026-02-03, 20:49:30](https://news.ycombinator.com/item?id=46877075) - [Bruce Schneier: AI and the scaling of betrayal](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 * [2026-02-03, 20:21:21](https://news.ycombinator.com/item?id=46876720) - [Anthropic AI Tool Sparks Selloff from Software to Broader Market](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)
 * [2026-02-03, 20:02:53](https://news.ycombinator.com/item?id=46876455) - [How Vibe Coding Is Killing Open Source](https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/)
