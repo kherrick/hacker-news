@@ -60,6 +60,7 @@
 * [2026-01-31, 03:53:06](https://news.ycombinator.com/item?id=46833254) - [Naples' 1790s civil war was intensified by moral panic over Real Analysis (2023)](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/)
 * [2026-01-31, 02:29:45](https://news.ycombinator.com/item?id=46832751) - [Court Filings: ICE App Identifies Protesters; Global Entry, PreCheck Get Revoked](https://viewfromthewing.com/court-filings-ice-uses-mobile-fortify-to-identify-protesters-global-entry-and-precheck-get-revoked/)
 * [2026-01-31, 02:08:26](https://news.ycombinator.com/item?id=46832625) - [Coding Is When We're Least Productive](https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/)
+* [2026-01-31, 02:05:25](https://news.ycombinator.com/item?id=46832606) - [Goblins: Distributed, Transactional Programming with Racket and Guile](https://spritely.institute/goblins/)
 * [2026-01-31, 00:51:27](https://news.ycombinator.com/item?id=46832074) - [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
 * [2026-01-31, 00:40:51](https://news.ycombinator.com/item?id=46831978) - [Show HN: Foundry – Turns your repeated workflows into one-click commands](https://github.com/lekt9/openclaw-foundry)
 * [2026-01-31, 00:12:22](https://news.ycombinator.com/item?id=46831784) - [175K+ publicly-exposed Ollama AI instances discovered](https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now)
