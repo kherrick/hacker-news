@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2026-02-04, 19:24:07",
+      "https://news.ycombinator.com/item?id=46890401"
+    ],
+    [
+      "Show HN: EpsteIn – Search the Epstein files for your LinkedIn connections",
+      "https://github.com/cfinke/EpsteIn"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 19:12:28",
+      "https://news.ycombinator.com/item?id=46890261"
+    ],
+    [
+      "Turn any website into a live, structured data feed",
+      "https://www.meter.sh/"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 18:56:46",
       "https://news.ycombinator.com/item?id=46890034"
     ],
@@ -37,26 +57,6 @@
     [
       "Claude Code for Infrastructure",
       "https://www.fluid.sh/"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 18:06:16",
-      "https://news.ycombinator.com/item?id=46889282"
-    ],
-    [
-      "AI needs to augment rather than replace humans or the workplace is doomed",
-      "https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 17:49:26",
-      "https://news.ycombinator.com/item?id=46889008"
-    ],
-    [
-      "The Great Unwind",
-      "https://occupywallst.com/yen"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-02-03, 00:32:41",
+      "https://news.ycombinator.com/item?id=46864543"
+    ],
+    [
+      "The Singularity Is Always Near (2006)",
+      "https://kk.org/thetechnium/the-singularity/"
+    ]
+  ],
+  [
+    [
       "2026-02-01, 12:43:41",
       "https://news.ycombinator.com/item?id=46845845"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-02-01, 00:14:55",
-      "https://news.ycombinator.com/item?id=46842288"
-    ],
-    [
-      "High-Altitude Adventure with a DIY Pico Balloon",
-      "https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon"
-    ]
-  ],
-  [
-    [
       "2026-01-31, 20:35:51",
       "https://news.ycombinator.com/item?id=46840558"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-01-31, 02:05:25",
-      "https://news.ycombinator.com/item?id=46832606"
+      "2026-01-31, 17:14:01",
+      "https://news.ycombinator.com/item?id=46838511"
     ],
     [
-      "Goblins: Distributed, Transactional Programming with Racket and Guile",
-      "https://spritely.institute/goblins/"
+      "No More Hidden Changes: How MySQL 9.6 Transforms Foreign Key Management",
+      "https://blogs.oracle.com/mysql/no-more-hidden-changes-how-mysql-9-6-transforms-foreign-key-management"
     ]
   ],
   [
