@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-04, 07:33:34](https://news.ycombinator.com/item?id=46882650) - [The world is more equal than you think](https://economist.com/graphic-detail/2026/02/03/the-world-is-more-equal-than-you-think)
+* [2026-02-04, 06:51:51](https://news.ycombinator.com/item?id=46882389) - [Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering](https://github.com/bethington/ghidra-mcp)
 * [2026-02-04, 06:22:58](https://news.ycombinator.com/item?id=46882184) - [The full history of Windows widgets, from 1997 to today](https://xakpc.dev/windows-widgets/history/)
 * [2026-02-04, 03:54:11](https://news.ycombinator.com/item?id=46881264) - [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
 * [2026-02-03, 22:35:27](https://news.ycombinator.com/item?id=46878338) - [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)
@@ -11,7 +11,6 @@
 * [2026-02-03, 18:04:08](https://news.ycombinator.com/item?id=46874619) - [Xcode 26.3 – Developers can leverage coding agents directly in Xcode](https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/)
 * [2026-02-03, 17:33:20](https://news.ycombinator.com/item?id=46874097) - [Deno Sandbox](https://deno.com/blog/introducing-deno-sandbox)
 * [2026-02-03, 16:56:06](https://news.ycombinator.com/item?id=46873574) - [221 Cannon is Not For Sale](https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/)
-* [2026-02-03, 16:53:50](https://news.ycombinator.com/item?id=46873539) - [1 kilobyte is precisely 1000 bytes?](https://waspdev.com/articles/2026-01-11/kilobyte-is-1000-bytes)
 * [2026-02-03, 16:39:18](https://news.ycombinator.com/item?id=46873294) - [France dumps Zoom and Teams as Europe seeks digital autonomy from the US](https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060)
 * [2026-02-03, 16:29:34](https://news.ycombinator.com/item?id=46873138) - [Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust](https://github.com/j178/prek)
 * [2026-02-03, 16:01:50](https://news.ycombinator.com/item?id=46872706) - [Qwen3-Coder-Next](https://qwen.ai/blog?id=qwen3-coder-next)
@@ -25,10 +24,11 @@
 * [2026-02-01, 12:13:22](https://news.ycombinator.com/item?id=46845650) - [Heritability of intrinsic human life span is about 50%](https://www.science.org/doi/10.1126/science.adz1187)
 * [2026-02-01, 06:53:42](https://news.ycombinator.com/item?id=46844157) - [Reimplementing Tor from Scratch for a Single-Hop Proxy](https://foxmoss.com/blog/kurrat/)
 * [2026-02-01, 00:14:55](https://news.ycombinator.com/item?id=46842288) - [High-Altitude Adventure with a DIY Pico Balloon](https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon)
+* [2026-01-31, 09:04:08](https://news.ycombinator.com/item?id=46834810) - [The Mathematics of Tuning Systems](https://math.ucr.edu/home/baez/tuning_talk/)
 * [2026-01-31, 04:34:25](https://news.ycombinator.com/item?id=46833534) - [Puget Systems Most Reliable Hardware of 2025](https://www.pugetsystems.com/labs/articles/puget-systems-most-reliable-hardware-of-2025/)
 * [2026-01-30, 10:26:54](https://news.ycombinator.com/item?id=46822717) - [1,400-year-old tomb featuring giant owl sculpture discovered in Mexico](https://www.cnn.com/2026/01/29/science/zapotec-tomb-mexico-scli-intl)
 * [2026-01-29, 17:08:20](https://news.ycombinator.com/item?id=46813029) - [The largest zip tie is nearly 4 feet long and $75](https://www.thedrive.com/news/youll-have-that-on-those-big-jobs-the-worlds-largest-zip-tie-is-nearly-4-feet-long-and-75)
-* [2026-01-28, 17:27:51](https://news.ycombinator.com/item?id=46798556) - [How watercolor brushes are made](https://www.handprint.com/HP/WCL/brush1.html)
+* [2026-01-28, 17:27:51](https://news.ycombinator.com/item?id=46798556) - [How watercolor brushes are made (2015)](https://www.handprint.com/HP/WCL/brush1.html)
 * [2026-01-28, 08:21:48](https://news.ycombinator.com/item?id=46792506) - [Exploring Different Keyboard Sensing Technologies](https://www.lttlabs.com/articles/2026/01/27/exploring-different-keyboard-sensing-technologies)
 
 ## [Archives](archives/index.md)
