@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-02-04](index.md)
 
+* [2026-02-04, 14:46:46](https://news.ycombinator.com/item?id=46886440) - [A case study in PDF forensics: The Epstein PDFs](https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/)
+* [2026-02-04, 14:33:33](https://news.ycombinator.com/item?id=46886265) - [Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation](https://arxiv.org/abs/2602.00294)
+* [2026-02-04, 14:31:32](https://news.ycombinator.com/item?id=46886237) - [FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled](https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/)
+* [2026-02-04, 14:27:05](https://news.ycombinator.com/item?id=46886191) - [Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025](https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/)
+* [2026-02-04, 14:20:31](https://news.ycombinator.com/item?id=46886114) - [Cannabis usage in older adults linked to larger brain, better cognitive function](https://medicalxpress.com/news/2026-02-qa-cannabis-usage-middle-aged.html)
+* [2026-02-04, 13:59:28](https://news.ycombinator.com/item?id=46885862) - [Thatcher Effect – Optical Illusion and Explanation](https://optical.toys/thatcher-effect/)
 * [2026-02-04, 13:02:00](https://news.ycombinator.com/item?id=46885332) - [I prefer to pass secrets between programs through standard input](https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin)
 * [2026-02-04, 10:26:34](https://news.ycombinator.com/item?id=46884027) - [Speculative Sampling Explained](https://saibo-creator.github.io/post/2024_03_08_speculative_sampling/)
 * [2026-02-04, 09:24:20](https://news.ycombinator.com/item?id=46883528) - [\"time to GPT-2\", down to 2.91 hours](https://twitter.com/karpathy/status/2018804068874064198)
