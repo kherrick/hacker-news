@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-04, 15:08:17",
+      "https://news.ycombinator.com/item?id=46886735"
+    ],
+    [
+      "Voxtral Transcribe 2",
+      "https://mistral.ai/news/voxtral-transcribe-2"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 14:46:46",
       "https://news.ycombinator.com/item?id=46886440"
     ],
@@ -41,32 +51,12 @@
   ],
   [
     [
-      "2026-02-04, 14:20:31",
-      "https://news.ycombinator.com/item?id=46886114"
-    ],
-    [
-      "Cannabis usage in older adults linked to larger brain, better cognitive function",
-      "https://medicalxpress.com/news/2026-02-qa-cannabis-usage-middle-aged.html"
-    ]
-  ],
-  [
-    [
       "2026-02-04, 13:59:28",
       "https://news.ycombinator.com/item?id=46885862"
     ],
     [
       "Thatcher Effect – Optical Illusion and Explanation",
       "https://optical.toys/thatcher-effect/"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 13:02:00",
-      "https://news.ycombinator.com/item?id=46885332"
-    ],
-    [
-      "I prefer to pass secrets between programs through standard input",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Show HN: Craftplan – I built my wife a production management tool for her bakery",
       "https://github.com/puemos/craftplan"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 08:02:46",
+      "https://news.ycombinator.com/item?id=46844410"
+    ],
+    [
+      "Coding Agent VMs on NixOS with Microvm.nix",
+      "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/"
     ]
   ],
   [
