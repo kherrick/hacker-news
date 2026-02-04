@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-04, 06:22:58](https://news.ycombinator.com/item?id=46882184) - [Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back](https://xakpc.dev/windows-widgets/history/)
-* [2026-02-04, 04:46:15](https://news.ycombinator.com/item?id=46881568) - [Petition for Recognition of Work on Open-Source as Volunteering in Germany](https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany)
+* [2026-02-04, 07:33:34](https://news.ycombinator.com/item?id=46882650) - [The world is more equal than you think](https://economist.com/graphic-detail/2026/02/03/the-world-is-more-equal-than-you-think)
+* [2026-02-04, 06:22:58](https://news.ycombinator.com/item?id=46882184) - [The full history of Windows widgets, from 1997 to today](https://xakpc.dev/windows-widgets/history/)
 * [2026-02-04, 03:54:11](https://news.ycombinator.com/item?id=46881264) - [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
 * [2026-02-03, 22:35:27](https://news.ycombinator.com/item?id=46878338) - [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)
 * [2026-02-03, 21:15:48](https://news.ycombinator.com/item?id=46877403) - [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425)
