@@ -29,7 +29,7 @@
 * [2026-01-31, 04:34:25](https://news.ycombinator.com/item?id=46833534) - [Puget Systems Most Reliable Hardware of 2025](https://www.pugetsystems.com/labs/articles/puget-systems-most-reliable-hardware-of-2025/)
 * [2026-01-30, 10:26:54](https://news.ycombinator.com/item?id=46822717) - [1,400-year-old tomb featuring giant owl sculpture discovered in Mexico](https://www.cnn.com/2026/01/29/science/zapotec-tomb-mexico-scli-intl)
 * [2026-01-29, 17:08:20](https://news.ycombinator.com/item?id=46813029) - [The largest zip tie is nearly 4 feet long and $75](https://www.thedrive.com/news/youll-have-that-on-those-big-jobs-the-worlds-largest-zip-tie-is-nearly-4-feet-long-and-75)
-* [2026-01-28, 14:38:21](https://news.ycombinator.com/item?id=46795961) - [The Everdeck: A Universal Card System (2019)](https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/)
+* [2026-01-28, 08:21:48](https://news.ycombinator.com/item?id=46792506) - [Exploring Different Keyboard Sensing Technologies](https://www.lttlabs.com/articles/2026/01/27/exploring-different-keyboard-sensing-technologies)
 
 ## [Archives](archives/index.md)
 

@@ -70,6 +70,7 @@
 * [2026-01-28, 08:58:28](https://news.ycombinator.com/item?id=46792783) - [Devuan – Debian Without Systemd](https://www.devuan.org/)
 * [2026-01-28, 08:33:57](https://news.ycombinator.com/item?id=46792580) - [I Stopped Following the News](https://mertbulan.com/2026/01/28/why-i-stopped-following-the-news/)
 * [2026-01-28, 08:32:50](https://news.ycombinator.com/item?id=46792572) - [Virtual Boy on TV with Intelligent Systems Video Boy](https://hcs64.com/video-boy-vue/)
+* [2026-01-28, 08:21:48](https://news.ycombinator.com/item?id=46792506) - [Exploring Different Keyboard Sensing Technologies](https://www.lttlabs.com/articles/2026/01/27/exploring-different-keyboard-sensing-technologies)
 * [2026-01-28, 08:02:42](https://news.ycombinator.com/item?id=46792370) - [ASML staffing changes could result in a net reduction of around 1700 positions](https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation)
 * [2026-01-28, 08:02:42](https://news.ycombinator.com/item?id=46792370) - [ASML firing 1700 people, mostly managers](https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/)
 * [2026-01-28, 08:00:08](https://news.ycombinator.com/item?id=46792347) - [Nonograms: a practical guide with interactive examples](https://lab174.com/blog/202601-nonograms/)
