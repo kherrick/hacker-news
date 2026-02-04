@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-04](index.md)
 
+* [2026-02-04, 20:33:35](https://news.ycombinator.com/item?id=46891290) - [Show HN: Interactive California Budget (By Claude Code)](https://california-budget.com)
+* [2026-02-04, 20:06:00](https://news.ycombinator.com/item?id=46890899) - [Technocracy 2.0](https://brooklynrail.org/2026/02/field-notes/technocracy-2-0/)
 * [2026-02-04, 19:47:37](https://news.ycombinator.com/item?id=46890675) - [Mean People Fail (2014)](https://paulgraham.com/mean.html)
 * [2026-02-04, 19:20:29](https://news.ycombinator.com/item?id=46890352) - [Women rejecting the hijab have doomed Iran's brutal regime](https://www.telegraph.co.uk/news/2026/02/03/iranian-regime-doomed-when-it-lost-control-of-women/)
 * [2026-02-04, 18:56:46](https://news.ycombinator.com/item?id=46890034) - [How Jeff Bezos Brought Down the Washington Post](https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post)
