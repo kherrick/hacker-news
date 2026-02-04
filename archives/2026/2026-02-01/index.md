@@ -58,6 +58,7 @@
 * [2026-02-01, 09:33:46](https://news.ycombinator.com/item?id=46844822) - [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
 * [2026-02-01, 08:15:21](https://news.ycombinator.com/item?id=46844466) - [Contracts in Nix](https://sraka.xyz/posts/contracts.html)
 * [2026-02-01, 07:50:51](https://news.ycombinator.com/item?id=46844350) - [The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)
+* [2026-02-01, 06:53:42](https://news.ycombinator.com/item?id=46844157) - [Reimplementing Tor from Scratch for a Single-Hop Proxy](https://foxmoss.com/blog/kurrat/)
 * [2026-02-01, 05:11:53](https://news.ycombinator.com/item?id=46843805) - [Archive.today is directing a DDoS attack against my blog?](https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/)
 * [2026-02-01, 03:14:38](https://news.ycombinator.com/item?id=46843301) - [I dropped my Google Pixel 9 XL Pro from 6th floor balcony to the street](https://ercanermis.com/i-dropped-my-google-pixel-9-xl-pro-from-6th-floor-balcony-to-the-street/)
 * [2026-02-01, 02:25:26](https://news.ycombinator.com/item?id=46843037) - [Apple-1 Computer Prototype Board #0 sold for $2.75M](https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/)
