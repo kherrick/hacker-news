@@ -33,6 +33,7 @@
 * [2026-01-28, 18:12:02](https://news.ycombinator.com/item?id=46799304) - [That's Not How Email Works, HSBC](https://danq.me/2026/01/28/hsbc-dont-understand-email/)
 * [2026-01-28, 18:09:07](https://news.ycombinator.com/item?id=46799244) - [Students using “humanizer” programs to beat accusations of cheating with AI](https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878)
 * [2026-01-28, 17:54:54](https://news.ycombinator.com/item?id=46798994) - [Computer History Museum Launches Digital Portal to Its Collection](https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/)
+* [2026-01-28, 17:27:51](https://news.ycombinator.com/item?id=46798556) - [How watercolor brushes are made](https://www.handprint.com/HP/WCL/brush1.html)
 * [2026-01-28, 17:23:35](https://news.ycombinator.com/item?id=46798467) - [For These Women, Grok's Sexualized Images Are Personal](https://www.rollingstone.com/culture/culture-features/grok-sexualized-image-xai-elon-musk-women-1235501436/)
 * [2026-01-28, 17:20:31](https://news.ycombinator.com/item?id=46798402) - [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood)
 * [2026-01-28, 16:52:05](https://news.ycombinator.com/item?id=46797913) - [Amazone One palm authentication discontinued](https://amazonone.aws.com/help)

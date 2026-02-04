@@ -25,10 +25,10 @@
 * [2026-02-01, 12:13:22](https://news.ycombinator.com/item?id=46845650) - [Heritability of intrinsic human life span is about 50%](https://www.science.org/doi/10.1126/science.adz1187)
 * [2026-02-01, 06:53:42](https://news.ycombinator.com/item?id=46844157) - [Reimplementing Tor from Scratch for a Single-Hop Proxy](https://foxmoss.com/blog/kurrat/)
 * [2026-02-01, 00:14:55](https://news.ycombinator.com/item?id=46842288) - [High-Altitude Adventure with a DIY Pico Balloon](https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon)
-* [2026-01-31, 05:32:12](https://news.ycombinator.com/item?id=46833798) - [Reference Target: having your encapsulation and eating it too](https://blogs.igalia.com/alice/reference-target-having-your-encapsulation-and-eating-it-too/)
 * [2026-01-31, 04:34:25](https://news.ycombinator.com/item?id=46833534) - [Puget Systems Most Reliable Hardware of 2025](https://www.pugetsystems.com/labs/articles/puget-systems-most-reliable-hardware-of-2025/)
 * [2026-01-30, 10:26:54](https://news.ycombinator.com/item?id=46822717) - [1,400-year-old tomb featuring giant owl sculpture discovered in Mexico](https://www.cnn.com/2026/01/29/science/zapotec-tomb-mexico-scli-intl)
 * [2026-01-29, 17:08:20](https://news.ycombinator.com/item?id=46813029) - [The largest zip tie is nearly 4 feet long and $75](https://www.thedrive.com/news/youll-have-that-on-those-big-jobs-the-worlds-largest-zip-tie-is-nearly-4-feet-long-and-75)
+* [2026-01-28, 17:27:51](https://news.ycombinator.com/item?id=46798556) - [How watercolor brushes are made](https://www.handprint.com/HP/WCL/brush1.html)
 * [2026-01-28, 08:21:48](https://news.ycombinator.com/item?id=46792506) - [Exploring Different Keyboard Sensing Technologies](https://www.lttlabs.com/articles/2026/01/27/exploring-different-keyboard-sensing-technologies)
 
 ## [Archives](archives/index.md)
