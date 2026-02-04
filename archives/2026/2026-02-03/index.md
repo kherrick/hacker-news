@@ -69,5 +69,6 @@
 * [2026-02-03, 03:37:36](https://news.ycombinator.com/item?id=46866149) - [Ask HN: Where do all the web devs talk?](https://news.ycombinator.com/item?id=46866149)
 * [2026-02-03, 01:52:21](https://news.ycombinator.com/item?id=46865275) - [Banning lead in gas worked. The proof is in our hair](https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/)
 * [2026-02-03, 00:39:48](https://news.ycombinator.com/item?id=46864602) - [Al is killing programming and the Python community](https://www.reddit.com/r/Python/s/bIYkLZu9Se)
+* [2026-02-03, 00:32:41](https://news.ycombinator.com/item?id=46864543) - [The Singularity Is Always Near (2006)](https://kk.org/thetechnium/the-singularity/)
 * [2026-02-03, 00:30:02](https://news.ycombinator.com/item?id=46864517) - [GitHub discusses giving maintainers control to disable PRs](https://github.com/orgs/community/discussions/185387)
 * [2026-02-03, 00:28:06](https://news.ycombinator.com/item?id=46864498) - [The Hot Mess of AI](https://alignment.anthropic.com/2026/hot-mess-of-ai/)
