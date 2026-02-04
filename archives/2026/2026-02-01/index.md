@@ -50,6 +50,8 @@
 * [2026-02-01, 12:43:41](https://news.ycombinator.com/item?id=46845845) - [Claude Code: connect to a local model when your quota runs out](https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/)
 * [2026-02-01, 12:19:57](https://news.ycombinator.com/item?id=46845699) - [Show HN: BPU – An embedded scheduler for stable UART pipelines](https://news.ycombinator.com/item?id=46845699)
 * [2026-02-01, 12:13:22](https://news.ycombinator.com/item?id=46845650) - [Heritability of intrinsic human life span is about 50%](https://www.science.org/doi/10.1126/science.adz1187)
+* [2026-02-01, 12:12:00](https://news.ycombinator.com/item?id=46845642) - [Remarkable Pro Colors](https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/)
+* [2026-02-01, 12:06:17](https://news.ycombinator.com/item?id=46845617) - [Data Poems](https://dr.eamer.dev/datavis/poems/)
 * [2026-02-01, 11:35:32](https://news.ycombinator.com/item?id=46845470) - [How to Scale a System from 0 to 10M+ Users](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users)
 * [2026-02-01, 11:18:05](https://news.ycombinator.com/item?id=46845375) - [Machinery and English Style (1904)](https://www.theatlantic.com/magazine/archive/1904/10/machinery-and-english-style/637506/)
 * [2026-02-01, 10:57:20](https://news.ycombinator.com/item?id=46845244) - [Amiga Unix (Amix)](https://www.amigaunix.com/doku.php/home)
