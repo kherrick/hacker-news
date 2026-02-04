@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-02-04, 18:05:49",
-      "https://news.ycombinator.com/item?id=46889273"
+      "2026-02-04, 19:20:29",
+      "https://news.ycombinator.com/item?id=46890352"
     ],
     [
-      "ICE has offices in 5 Canadian cities",
-      "https://www.cbc.ca/lite/story/9.7073273"
+      "Women rejecting the hijab have doomed Iran's brutal regime",
+      "https://www.telegraph.co.uk/news/2026/02/03/iranian-regime-doomed-when-it-lost-control-of-women/"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 18:34:08",
+      "https://news.ycombinator.com/item?id=46889703"
+    ],
+    [
+      "Claude Code for Infrastructure",
+      "https://www.fluid.sh/"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 18:06:16",
+      "https://news.ycombinator.com/item?id=46889282"
+    ],
+    [
+      "AI needs to augment rather than replace humans or the workplace is doomed",
+      "https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "French streamer unbanked by Qonto after criticizing Palantir and Peter Thiel",
       "https://twitter.com/Ced_haurus/status/2018716889191498172"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 17:01:44",
-      "https://news.ycombinator.com/item?id=46888339"
-    ],
-    [
-      "Launching the Rural Guaranteed Minimum Income Initiative",
-      "https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/"
     ]
   ],
   [
@@ -191,42 +201,12 @@
   ],
   [
     [
-      "2026-02-03, 18:40:18",
-      "https://news.ycombinator.com/item?id=46875228"
-    ],
-    [
-      "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
-      "https://github.com/alibaba/AliSQL"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 18:04:08",
-      "https://news.ycombinator.com/item?id=46874619"
-    ],
-    [
-      "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
-      "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/"
-    ]
-  ],
-  [
-    [
       "2026-02-03, 15:47:10",
       "https://news.ycombinator.com/item?id=46872465"
     ],
     [
       "A sane but bull case on Clawdbot / OpenClaw",
       "https://brandon.wang/2026/clawdbot"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 17:25:39",
-      "https://news.ycombinator.com/item?id=46847690"
-    ],
-    [
-      "Show HN: Craftplan – I built my wife a production management tool for her bakery",
-      "https://github.com/puemos/craftplan"
     ]
   ],
   [
@@ -277,6 +257,26 @@
     [
       "Brazilian Micro-SaaS Map",
       "https://saas-map.ssr.trapiche.cloud/"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 02:05:25",
+      "https://news.ycombinator.com/item?id=46832606"
+    ],
+    [
+      "Goblins: Distributed, Transactional Programming with Racket and Guile",
+      "https://spritely.institute/goblins/"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 16:57:19",
+      "https://news.ycombinator.com/item?id=46826803"
+    ],
+    [
+      "Yawning has an unexpected influence on the fluid inside your brain",
+      "https://www.newscientist.com/article/2513692-yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain/"
     ]
   ],
   [
