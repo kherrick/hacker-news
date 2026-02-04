@@ -32,6 +32,7 @@
 * [2026-01-31, 17:47:46](https://news.ycombinator.com/item?id=46838834) - [A lot of the Moltbook stuff is fake](https://twitter.com/HumanHarlan/status/2017424292548673830)
 * [2026-01-31, 17:26:18](https://news.ycombinator.com/item?id=46838644) - [Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 * [2026-01-31, 17:25:30](https://news.ycombinator.com/item?id=46838635) - [US has investigated claims WhatsApp chats aren't private](https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private)
+* [2026-01-31, 17:23:33](https://news.ycombinator.com/item?id=46838618) - [Writing an optimizing tensor compiler from scratch](https://michaelmoroz.github.io/WritingAnOptimizingTensorCompilerFromScratch/)
 * [2026-01-31, 17:21:34](https://news.ycombinator.com/item?id=46838597) - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
 * [2026-01-31, 17:14:01](https://news.ycombinator.com/item?id=46838511) - [No More Hidden Changes: How MySQL 9.6 Transforms Foreign Key Management](https://blogs.oracle.com/mysql/no-more-hidden-changes-how-mysql-9-6-transforms-foreign-key-management)
 * [2026-01-31, 17:06:22](https://news.ycombinator.com/item?id=46838417) - [Finland to end \"uncontrolled human experiment\" with ban on youth social media](https://yle.fi/a/74-20207494)
