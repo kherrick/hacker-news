@@ -1,22 +1,72 @@
 [
   [
     [
+      "2026-02-04, 14:46:46",
+      "https://news.ycombinator.com/item?id=46886440"
+    ],
+    [
+      "A case study in PDF forensics: The Epstein PDFs",
+      "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 14:33:33",
+      "https://news.ycombinator.com/item?id=46886265"
+    ],
+    [
+      "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
+      "https://arxiv.org/abs/2602.00294"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 14:31:32",
+      "https://news.ycombinator.com/item?id=46886237"
+    ],
+    [
+      "FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled",
+      "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 14:27:05",
+      "https://news.ycombinator.com/item?id=46886191"
+    ],
+    [
+      "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
+      "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 14:20:31",
+      "https://news.ycombinator.com/item?id=46886114"
+    ],
+    [
+      "Cannabis usage in older adults linked to larger brain, better cognitive function",
+      "https://medicalxpress.com/news/2026-02-qa-cannabis-usage-middle-aged.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 13:59:28",
+      "https://news.ycombinator.com/item?id=46885862"
+    ],
+    [
+      "Thatcher Effect – Optical Illusion and Explanation",
+      "https://optical.toys/thatcher-effect/"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 13:02:00",
       "https://news.ycombinator.com/item?id=46885332"
     ],
     [
       "I prefer to pass secrets between programs through standard input",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 10:26:34",
-      "https://news.ycombinator.com/item?id=46884027"
-    ],
-    [
-      "Speculative Sampling Explained",
-      "https://saibo-creator.github.io/post/2024_03_08_speculative_sampling/"
     ]
   ],
   [
@@ -101,26 +151,6 @@
   ],
   [
     [
-      "2026-02-03, 16:39:18",
-      "https://news.ycombinator.com/item?id=46873294"
-    ],
-    [
-      "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
-      "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 16:29:34",
-      "https://news.ycombinator.com/item?id=46873138"
-    ],
-    [
-      "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
-      "https://github.com/j178/prek"
-    ]
-  ],
-  [
-    [
       "2026-02-03, 15:51:42",
       "https://news.ycombinator.com/item?id=46872540"
     ],
@@ -147,16 +177,6 @@
     [
       "Agent Skills",
       "https://agentskills.io/home"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 12:13:44",
-      "https://news.ycombinator.com/item?id=46870015"
-    ],
-    [
-      "Bunny Database",
-      "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/"
     ]
   ],
   [
@@ -197,16 +217,6 @@
     [
       "Show HN: Craftplan – I built my wife a production management tool for her bakery",
       "https://github.com/puemos/craftplan"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 13:32:58",
-      "https://news.ycombinator.com/item?id=46846101"
-    ],
-    [
-      "Resurrecting Crimsonland – Decompiling and preserving a cult 2003 classic game",
-      "https://banteg.xyz/posts/crimsonland/"
     ]
   ],
   [
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2026-01-30, 10:26:54",
-      "https://news.ycombinator.com/item?id=46822717"
+      "2026-01-29, 17:08:20",
+      "https://news.ycombinator.com/item?id=46813029"
     ],
     [
-      "1,400-year-old tomb featuring giant owl sculpture discovered in Mexico",
-      "https://www.cnn.com/2026/01/29/science/zapotec-tomb-mexico-scli-intl"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 17:27:51",
-      "https://news.ycombinator.com/item?id=46798556"
-    ],
-    [
-      "How watercolor brushes are made (2015)",
-      "https://www.handprint.com/HP/WCL/brush1.html"
+      "The largest zip tie is nearly 4 feet long and $75",
+      "https://www.thedrive.com/news/youll-have-that-on-those-big-jobs-the-worlds-largest-zip-tie-is-nearly-4-feet-long-and-75"
     ]
   ],
   [
