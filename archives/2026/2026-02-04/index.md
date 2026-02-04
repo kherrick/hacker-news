@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-04](index.md)
 
+* [2026-02-04, 18:05:49](https://news.ycombinator.com/item?id=46889273) - [ICE has offices in 5 Canadian cities](https://www.cbc.ca/lite/story/9.7073273)
+* [2026-02-04, 17:49:26](https://news.ycombinator.com/item?id=46889008) - [The Great Unwind](https://occupywallst.com/yen)
 * [2026-02-04, 17:40:37](https://news.ycombinator.com/item?id=46888877) - [Intel will start making GPUs](https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/)
 * [2026-02-04, 17:35:05](https://news.ycombinator.com/item?id=46888795) - [Building a 24-bit arcade CRT display adapter from scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter)
 * [2026-02-04, 17:16:44](https://news.ycombinator.com/item?id=46888532) - [Study: emotional support from social media found to reduce anxiety](https://news.uark.edu/articles/80669/emotional-support-from-social-media-found-to-reduce-anxiety)
@@ -15,6 +17,7 @@
 * [2026-02-04, 17:01:14](https://news.ycombinator.com/item?id=46888331) - [Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)](https://www.runconverge.com/careers/product-engineer)
 * [2026-02-04, 16:47:26](https://news.ycombinator.com/item?id=46888142) - [RS-SDK: Drive RuneScape with Claude Code](https://github.com/MaxBittker/rs-sdk)
 * [2026-02-04, 16:08:55](https://news.ycombinator.com/item?id=46887564) - [Microsoft's Pivotal AI Product Is Running into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28)
+* [2026-02-04, 15:50:50](https://news.ycombinator.com/item?id=46887326) - [Arcan-A12: Weaving a Different Web](https://www.divergent-desktop.org/blog/2026/01/26/a12web/)
 * [2026-02-04, 15:08:17](https://news.ycombinator.com/item?id=46886735) - [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
 * [2026-02-04, 14:46:46](https://news.ycombinator.com/item?id=46886440) - [A case study in PDF forensics: The Epstein PDFs](https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/)
 * [2026-02-04, 14:33:33](https://news.ycombinator.com/item?id=46886265) - [Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation](https://arxiv.org/abs/2602.00294)

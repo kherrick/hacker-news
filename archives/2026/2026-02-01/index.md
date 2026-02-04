@@ -68,6 +68,7 @@
 * [2026-02-01, 02:11:57](https://news.ycombinator.com/item?id=46842975) - [Pre-Steal This Book](https://seths.blog/2008/12/pre-steal-this/)
 * [2026-02-01, 01:54:14](https://news.ycombinator.com/item?id=46842884) - [OpenClaw Security Assessment by ZeroLeaks [pdf]](https://zeroleaks.ai/reports/openclaw-analysis.pdf)
 * [2026-02-01, 01:51:09](https://news.ycombinator.com/item?id=46842869) - [U.S. life expectancy hits all-time high](https://www.scientificamerican.com/article/u-s-life-expectancy-hits-all-time-high/)
+* [2026-02-01, 01:20:57](https://news.ycombinator.com/item?id=46842711) - [Show HN: SymDerive – A functional, stateless symbolic math library](https://news.ycombinator.com/item?id=46842711)
 * [2026-02-01, 01:03:23](https://news.ycombinator.com/item?id=46842603) - [List animals until failure](https://rose.systems/animalist/)
 * [2026-02-01, 01:00:07](https://news.ycombinator.com/item?id=46842586) - [Sparse File LRU Cache](http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html)
 * [2026-02-01, 00:14:55](https://news.ycombinator.com/item?id=46842288) - [High-Altitude Adventure with a DIY Pico Balloon](https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon)
