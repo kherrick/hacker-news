@@ -39,6 +39,7 @@
 * [2026-01-29, 18:04:45](https://news.ycombinator.com/item?id=46813909) - [Coffee as a staining agent substitute in electron microscopy](https://phys.org/news/2026-01-coffee-agent-substitute-electron-microscopy.html)
 * [2026-01-29, 18:01:54](https://news.ycombinator.com/item?id=46813867) - [Best Gas Masks](https://www.theverge.com/policy/868571/best-gas-masks)
 * [2026-01-29, 18:00:10](https://news.ycombinator.com/item?id=46813834) - [AI's Impact on Engineering Jobs May Be Different Than Expected](https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/)
+* [2026-01-29, 17:08:20](https://news.ycombinator.com/item?id=46813029) - [The largest zip tie is nearly 4 feet long and $75](https://www.thedrive.com/news/youll-have-that-on-those-big-jobs-the-worlds-largest-zip-tie-is-nearly-4-feet-long-and-75)
 * [2026-01-29, 17:07:10](https://news.ycombinator.com/item?id=46813009) - [Attilio Berni plays the sub-contrabass saxophone [video]](https://www.youtube.com/watch?v=9BiW2mVKk0w)
 * [2026-01-29, 17:06:46](https://news.ycombinator.com/item?id=46813002) - [Project Genie: Interactive worlds generated in real-time](https://labs.google/projectgenie)
 * [2026-01-29, 17:02:39](https://news.ycombinator.com/item?id=46812933) - [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
