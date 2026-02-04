@@ -52,6 +52,7 @@
 * [2026-01-29, 16:12:19](https://news.ycombinator.com/item?id=46812173) - [US cybersecurity chief leaked sensitive government files to ChatGPT: Report](https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/)
 * [2026-01-29, 16:11:04](https://news.ycombinator.com/item?id=46812159) - [Drug trio found to block tumour resistance in pancreatic cancer](https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/)
 * [2026-01-29, 16:04:45](https://news.ycombinator.com/item?id=46812052) - [Days numbered for 'risky' lithium-ion batteries](https://www.livescience.com/technology/engineering/days-numbered-for-risky-lithium-ion-batteries-scientists-say-after-fast-charging-breakthrough-in-sodium-ion-alternative)
+* [2026-01-29, 15:52:25](https://news.ycombinator.com/item?id=46811812) - [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/)
 * [2026-01-29, 15:49:04](https://news.ycombinator.com/item?id=46811762) - [Heating homes with the largest particle accelerator](https://home.cern/news/news/cern/heating-homes-worlds-largest-particle-accelerator)
 * [2026-01-29, 15:48:42](https://news.ycombinator.com/item?id=46811757) - [Visual Family Cosmos](https://rosano.ca/blog/visual-family-cosmos)
 * [2026-01-29, 15:42:57](https://news.ycombinator.com/item?id=46811664) - [Is the RAM shortage killing small VPS hosts?](https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/)
