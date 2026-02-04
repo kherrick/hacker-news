@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=46891860"
     ],
     [
-      "We built a real-world benchmark for AI code review",
+      "A real-world benchmark for AI code review",
       "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 21:10:55",
+      "https://news.ycombinator.com/item?id=46891827"
+    ],
+    [
+      "Show HN: Morph – Videos of AI testing your PR, embedded in GitHub",
+      "https://morphllm.com/products/glance"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46891131"
     ],
     [
-      "The Codex app is cool, and it illustrates the shift left of IDEs and coding GUIs",
+      "The Codex app illustrates the shift left of IDEs and coding GUIs",
       "https://www.benshoemaker.us/writing/codex-app-launch/"
     ]
   ],
@@ -47,6 +57,16 @@
     [
       "Technocracy 2.0",
       "https://brooklynrail.org/2026/02/field-notes/technocracy-2-0/"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 19:26:08",
+      "https://news.ycombinator.com/item?id=46890418"
+    ],
+    [
+      "Tell HN: Another round of Zendesk email spam",
+      "https://news.ycombinator.com/item?id=46890418"
     ]
   ],
   [
@@ -175,7 +195,7 @@
       "https://news.ycombinator.com/item?id=46884883"
     ],
     [
-      "Claude Is a Space to Think",
+      "Claude is a space to think",
       "https://www.anthropic.com/news/claude-is-a-space-to-think"
     ]
   ],
@@ -261,42 +281,22 @@
   ],
   [
     [
+      "2026-01-31, 17:23:33",
+      "https://news.ycombinator.com/item?id=46838618"
+    ],
+    [
+      "Writing an optimizing tensor compiler from scratch",
+      "https://michaelmoroz.github.io/WritingAnOptimizingTensorCompilerFromScratch/"
+    ]
+  ],
+  [
+    [
       "2026-01-31, 17:14:01",
       "https://news.ycombinator.com/item?id=46838511"
     ],
     [
       "No More Hidden Changes: How MySQL 9.6 Transforms Foreign Key Management",
       "https://blogs.oracle.com/mysql/no-more-hidden-changes-how-mysql-9-6-transforms-foreign-key-management"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 16:57:19",
-      "https://news.ycombinator.com/item?id=46826803"
-    ],
-    [
-      "Yawning has an unexpected influence on the fluid inside your brain",
-      "https://www.newscientist.com/article/2513692-yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain/"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 15:52:25",
-      "https://news.ycombinator.com/item?id=46811812"
-    ],
-    [
-      "Litestream Writable VFS",
-      "https://fly.io/blog/litestream-writable-vfs/"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 23:18:48",
-      "https://news.ycombinator.com/item?id=46788588"
-    ],
-    [
-      "Old Insurance Maps – Georeferencing Sanborn Fire Insurance Maps on Modern Maps",
-      "https://oldinsurancemaps.net/"
     ]
   ]
 ]
