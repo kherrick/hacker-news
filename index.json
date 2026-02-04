@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2026-02-04, 22:50:34",
+      "https://news.ycombinator.com/item?id=46893018"
+    ],
+    [
+      "As Rocks May Think",
+      "https://evjang.com/2026/02/04/rocks.html"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 21:13:17",
       "https://news.ycombinator.com/item?id=46891860"
     ],
     [
       "A real-world benchmark for AI code review",
       "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 21:10:55",
-      "https://news.ycombinator.com/item?id=46891827"
-    ],
-    [
-      "Show HN: Morph – Videos of AI testing your PR, embedded in GitHub",
-      "https://morphllm.com/products/glance"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2026-02-04, 14:27:05",
+      "https://news.ycombinator.com/item?id=46886191"
+    ],
+    [
+      "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
+      "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 12:08:49",
       "https://news.ycombinator.com/item?id=46884883"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-02-03, 00:32:41",
-      "https://news.ycombinator.com/item?id=46864543"
-    ],
-    [
-      "The Singularity Is Always Near (2006)",
-      "https://kk.org/thetechnium/the-singularity/"
-    ]
-  ],
-  [
-    [
       "2026-02-01, 12:43:41",
       "https://news.ycombinator.com/item?id=46845845"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2026-02-01, 10:56:42",
+      "https://news.ycombinator.com/item?id=46845239"
+    ],
+    [
+      "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
+      "https://sqldef.github.io/"
+    ]
+  ],
+  [
+    [
       "2026-02-01, 08:02:46",
       "https://news.ycombinator.com/item?id=46844410"
     ],
     [
       "Coding Agent VMs on NixOS with Microvm.nix",
       "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/"
-    ]
-  ],
-  [
-    [
-      "2026-01-31, 17:23:33",
-      "https://news.ycombinator.com/item?id=46838618"
-    ],
-    [
-      "Writing an optimizing tensor compiler from scratch",
-      "https://michaelmoroz.github.io/WritingAnOptimizingTensorCompilerFromScratch/"
     ]
   ],
   [
