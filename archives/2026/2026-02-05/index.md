@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-05](index.md)
 
+* [2026-02-05, 09:24:51](https://news.ycombinator.com/item?id=46897620) - [If you've got Nothing to Hide (2015)](https://jacquesmattheij.com/if-you-have-nothing-to-hide/)
+* [2026-02-05, 08:46:13](https://news.ycombinator.com/item?id=46897332) - [Show HN: Micropolis/SimCity Clone in Emacs Lisp](https://github.com/vkazanov/elcity)
 * [2026-02-05, 08:34:47](https://news.ycombinator.com/item?id=46897210) - [Valve's Steam Machine has been delayed, and the RAM crisis will impact pricing](https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis)
 * [2026-02-05, 07:35:51](https://news.ycombinator.com/item?id=46896823) - [ICE Begins Buying 'Mega' Warehouse Detention Centers Across US](https://www.bloomberg.com/news/features/2026-01-29/us-spends-hundreds-of-millions-on-warehouses-for-ice-detention-centers)
 * [2026-02-05, 07:30:27](https://news.ycombinator.com/item?id=46896785) - [Russia 'intercepts Europe's key satellites'](https://news.satnews.com/2026/02/04/russia-intercepts-europes-key-satellites-placing-nato-satellite-at-risk/)

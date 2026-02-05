@@ -40,6 +40,7 @@
 * [2026-02-02, 13:02:04](https://news.ycombinator.com/item?id=46855550) - [UK Government Launches Fuel Forecourt Price API](https://www.developer.fuel-finder.service.gov.uk/access-latest-fuelprices)
 * [2026-02-02, 12:59:58](https://news.ycombinator.com/item?id=46855527) - [MaliciousCorgi: AI Extensions send your code to China](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
 * [2026-02-02, 12:52:35](https://news.ycombinator.com/item?id=46855447) - [Nano-vLLM: How a vLLM-style inference engine works](https://neutree.ai/blog/nano-vllm-part-1)
+* [2026-02-02, 12:07:46](https://news.ycombinator.com/item?id=46855057) - [Making Ferrite Core Inductors at Home](https://danielmangum.com/posts/making-ferrite-core-inductors-home/)
 * [2026-02-02, 11:58:58](https://news.ycombinator.com/item?id=46854999) - [Claude Code is suddenly everywhere inside Microsoft](https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad)
 * [2026-02-02, 11:52:29](https://news.ycombinator.com/item?id=46854951) - [Microsoft is walking back Windows 11's AI overload](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
 * [2026-02-02, 11:03:44](https://news.ycombinator.com/item?id=46854642) - [Termux](https://github.com/termux/termux-app)
