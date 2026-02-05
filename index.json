@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-05, 03:39:43",
+      "https://news.ycombinator.com/item?id=46895388"
+    ],
+    [
+      "A few CPU hardware bugs",
+      "https://www.taricorp.net/2026/a-few-cpu-bugs/"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 02:17:08",
+      "https://news.ycombinator.com/item?id=46894815"
+    ],
+    [
+      "Child prodigies rarely become elite performers",
+      "https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 00:28:06",
       "https://news.ycombinator.com/item?id=46893970"
     ],
@@ -11,22 +31,12 @@
   ],
   [
     [
-      "2026-02-05, 00:21:06",
-      "https://news.ycombinator.com/item?id=46893910"
+      "2026-02-04, 23:26:23",
+      "https://news.ycombinator.com/item?id=46893411"
     ],
     [
-      "Steam Hardware: Launch timing and other FAQs",
-      "https://store.steampowered.com/news/group/45479024/view/625565405086220583"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 23:24:53",
-      "https://news.ycombinator.com/item?id=46893394"
-    ],
-    [
-      "We Used To Build Things. What Happened?",
-      "https://garryslist.org/posts/we-used-to-build-things-what-happened"
+      "Why More Companies Are Recognizing the Benefits of Keeping Older Employees",
+      "https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "As Rocks May Think",
       "https://evjang.com/2026/02/04/rocks.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 22:34:46",
-      "https://news.ycombinator.com/item?id=46892861"
-    ],
-    [
-      "Debian's Challenge When Its Developers Drift Away",
-      "https://www.phoronix.com/news/Debian-Developers-Quiet-Away"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Show HN: Morph – Videos of AI testing your PR, embedded in GitHub",
       "https://morphllm.com/products/glance"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 20:23:54",
-      "https://news.ycombinator.com/item?id=46891131"
-    ],
-    [
-      "The Codex app illustrates the shift left of IDEs and coding GUIs",
-      "https://www.benshoemaker.us/writing/codex-app-launch/"
     ]
   ],
   [
@@ -131,12 +121,12 @@
   ],
   [
     [
-      "2026-02-04, 16:47:26",
-      "https://news.ycombinator.com/item?id=46888142"
+      "2026-02-04, 16:30:51",
+      "https://news.ycombinator.com/item?id=46887893"
     ],
     [
-      "RS-SDK: Drive RuneScape with Claude Code",
-      "https://github.com/MaxBittker/rs-sdk"
+      "Postgres Postmaster does not scale",
+      "https://www.recall.ai/blog/postgres-postmaster-does-not-scale"
     ]
   ],
   [
@@ -171,22 +161,22 @@
   ],
   [
     [
+      "2026-02-04, 14:46:46",
+      "https://news.ycombinator.com/item?id=46886440"
+    ],
+    [
+      "A case study in PDF forensics: The Epstein PDFs",
+      "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 14:33:33",
       "https://news.ycombinator.com/item?id=46886265"
     ],
     [
       "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
       "https://arxiv.org/abs/2602.00294"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 14:27:05",
-      "https://news.ycombinator.com/item?id=46886191"
-    ],
-    [
-      "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
-      "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/"
     ]
   ],
   [
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2026-02-01, 10:49:39",
+      "https://news.ycombinator.com/item?id=46845203"
+    ],
+    [
+      "Listen to Understand",
+      "https://talk.bradwoods.io/blog/listen-to-understand/"
+    ]
+  ],
+  [
+    [
       "2026-02-01, 08:02:46",
       "https://news.ycombinator.com/item?id=46844410"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=46841776"
     ],
     [
-      "Secure erase for Samsung PM951 NVMe drive (2024)",
+      "How not to securely erase a NVME drive (2022)",
       "https://peterbabic.dev/blog/how-not-to-securely-erase-nvme-drive/"
     ]
   ]
