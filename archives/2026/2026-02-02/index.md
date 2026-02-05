@@ -8,6 +8,7 @@
 * [2026-02-02, 22:57:59](https://news.ycombinator.com/item?id=46863357) - [Julia](https://borretti.me/fiction/julia)
 * [2026-02-02, 22:48:10](https://news.ycombinator.com/item?id=46863162) - [The TSA's New $45 Fee to Fly Without ID Is Illegal](https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/)
 * [2026-02-02, 22:45:04](https://news.ycombinator.com/item?id=46863112) - [Court orders restart of all US offshore wind power construction](https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/)
+* [2026-02-02, 22:14:02](https://news.ycombinator.com/item?id=46862574) - [Adobe Animate will be discontinued effective March 1, 2026](https://helpx.adobe.com/uk/animate/kb/end-of-life.html)
 * [2026-02-02, 21:51:22](https://news.ycombinator.com/item?id=46862170) - [xAI joins SpaceX](https://www.spacex.com/updates#xai-joins-spacex)
 * [2026-02-02, 21:28:16](https://news.ycombinator.com/item?id=46861842) - [GitHub experience various partial-outages/degradations](https://www.githubstatus.com?todayis=2026-02-02)
 * [2026-02-02, 20:48:55](https://news.ycombinator.com/item?id=46861313) - [Anki ownership transferred to AnkiHub](https://forums.ankiweb.net/t/ankis-growing-up/68610)

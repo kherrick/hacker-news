@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-05](index.md)
 
+* [2026-02-05, 07:35:51](https://news.ycombinator.com/item?id=46896823) - [ICE Begins Buying 'Mega' Warehouse Detention Centers Across US](https://www.bloomberg.com/news/features/2026-01-29/us-spends-hundreds-of-millions-on-warehouses-for-ice-detention-centers)
+* [2026-02-05, 06:58:43](https://news.ycombinator.com/item?id=46896586) - [Modernizing Linux swapping: introducing the swap table](https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/)
 * [2026-02-05, 05:50:01](https://news.ycombinator.com/item?id=46896146) - [Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/)
 * [2026-02-05, 05:22:36](https://news.ycombinator.com/item?id=46895972) - [When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)
 * [2026-02-05, 05:18:42](https://news.ycombinator.com/item?id=46895950) - [Study: Older Cannabis Users Have Larger Brains, Better Cognition](https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function)
