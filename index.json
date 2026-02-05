@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-05, 14:07:03",
+      "https://news.ycombinator.com/item?id=46899770"
+    ],
+    [
+      "OpenAI Frontier",
+      "https://openai.com/index/introducing-openai-frontier/"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 12:56:28",
       "https://news.ycombinator.com/item?id=46899132"
     ],
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2026-02-01, 15:43:15",
+      "https://news.ycombinator.com/item?id=46846940"
+    ],
+    [
+      "Programming Patterns: The Story of the Jacquard Loom",
+      "https://www.scienceandindustrymuseum.org.uk/objects-and-stories/jacquard-loom"
+    ]
+  ],
+  [
+    [
       "2026-02-01, 12:43:41",
       "https://news.ycombinator.com/item?id=46845845"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-02-01, 10:49:39",
-      "https://news.ycombinator.com/item?id=46845203"
-    ],
-    [
-      "Listen to Understand",
-      "https://talk.bradwoods.io/blog/listen-to-understand/"
-    ]
-  ],
-  [
-    [
       "2026-02-01, 07:58:06",
       "https://news.ycombinator.com/item?id=46844393"
     ],
@@ -287,16 +297,6 @@
     [
       "Improving Unnesting of Complex Queries [pdf]",
       "https://15799.courses.cs.cmu.edu/spring2025/papers/11-unnesting/neumann-btw2025.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-01-31, 11:35:36",
-      "https://news.ycombinator.com/item?id=46835677"
-    ],
-    [
-      "Why S7 Scheme? (2020)",
-      "https://iainctduncan.github.io/scheme-for-max-docs/s7.html"
     ]
   ]
 ]
