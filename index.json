@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-05, 19:07:51",
+      "https://news.ycombinator.com/item?id=46903616"
+    ],
+    [
+      "We tasked Opus 4.6 using agent teams to build a C Compiler",
+      "https://www.anthropic.com/engineering/building-c-compiler"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 19:04:37",
+      "https://news.ycombinator.com/item?id=46903556"
+    ],
+    [
+      "Flock CEO calls Deflock a \"terrorist organization\" [video]",
+      "https://www.youtube.com/watch?v=l-kZGrDz7PU"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 18:30:16",
       "https://news.ycombinator.com/item?id=46903001"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=46902512"
     ],
     [
-      "Unsealed Court Documents Show Teen Addiction Was Big Tech's \"Top Priority\"",
+      "Unsealed court documents show teen addiction was big tech's \"top priority\"",
       "https://techoversight.org/2026/01/25/top-report-mdl-jan-25/"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=46902368"
     ],
     [
-      "Claude Code Agent Teams",
+      "Orchestrate teams of Claude Code sessions",
       "https://code.claude.com/docs/en/agent-teams"
     ]
   ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-02-05, 11:45:03",
-      "https://news.ycombinator.com/item?id=46898615"
-    ],
-    [
-      "Top downloaded skill in ClawHub contains malware",
-      "https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 09:39:11",
       "https://news.ycombinator.com/item?id=46897737"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2026-02-01, 18:17:41",
-      "https://news.ycombinator.com/item?id=46848077"
+      "2026-02-01, 16:31:16",
+      "https://news.ycombinator.com/item?id=46847297"
     ],
     [
-      "Triton Bespoke Layouts",
-      "https://www.lei.chat/posts/triton-bespoke-layouts/"
+      "There Will Come Soft Rains (1950) [pdf]",
+      "https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Programming Patterns: The Story of the Jacquard Loom",
       "https://www.scienceandindustrymuseum.org.uk/objects-and-stories/jacquard-loom"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 12:43:41",
-      "https://news.ycombinator.com/item?id=46845845"
-    ],
-    [
-      "Claude Code: connect to a local model when your quota runs out",
-      "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/"
     ]
   ],
   [
