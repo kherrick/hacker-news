@@ -50,6 +50,7 @@
 * [2026-02-01, 13:50:15](https://news.ycombinator.com/item?id=46846210) - [Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code](https://github.com/zuckermanai/zuckerman)
 * [2026-02-01, 13:32:58](https://news.ycombinator.com/item?id=46846101) - [Decompiling and rewriting a 2003 game from its binary in two weeks](https://banteg.xyz/posts/crimsonland/)
 * [2026-02-01, 12:43:41](https://news.ycombinator.com/item?id=46845845) - [Claude Code: connect to a local model when your quota runs out](https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/)
+* [2026-02-01, 12:35:30](https://news.ycombinator.com/item?id=46845790) - [Simply Scheme: Introducing Computer Science (1999)](https://people.eecs.berkeley.edu/~bh/ss-toc2.html)
 * [2026-02-01, 12:19:57](https://news.ycombinator.com/item?id=46845699) - [Show HN: BPU – An embedded scheduler for stable UART pipelines](https://news.ycombinator.com/item?id=46845699)
 * [2026-02-01, 12:13:22](https://news.ycombinator.com/item?id=46845650) - [Heritability of intrinsic human life span is about 50%](https://www.science.org/doi/10.1126/science.adz1187)
 * [2026-02-01, 12:12:00](https://news.ycombinator.com/item?id=46845642) - [Remarkable Pro Colors](https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/)
