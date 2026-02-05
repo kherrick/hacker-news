@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-05](index.md)
 
+* [2026-02-05, 18:30:16](https://news.ycombinator.com/item?id=46903001) - [Ardour 9.0 Released](https://ardour.org/whatsnew.html)
+* [2026-02-05, 18:25:05](https://news.ycombinator.com/item?id=46902909) - [Anthropic's Claude Opus 4.6 uncovers 500 zero-day flaws in open-source code](https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting)
+* [2026-02-05, 18:21:53](https://news.ycombinator.com/item?id=46902855) - [Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models](https://arxiv.org/abs/2512.04124)
+* [2026-02-05, 18:17:14](https://news.ycombinator.com/item?id=46902789) - [A small, shared skill library by builders, for builders. (human and agent)](https://github.com/PsiACE/skills)
+* [2026-02-05, 18:08:08](https://news.ycombinator.com/item?id=46902638) - [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
+* [2026-02-05, 18:00:07](https://news.ycombinator.com/item?id=46902512) - [Unsealed Court Documents Show Teen Addiction Was Big Tech's \"Top Priority\"](https://techoversight.org/2026/01/25/top-report-mdl-jan-25/)
+* [2026-02-05, 17:49:54](https://news.ycombinator.com/item?id=46902368) - [Claude Code Agent Teams](https://code.claude.com/docs/en/agent-teams)
 * [2026-02-05, 17:42:47](https://news.ycombinator.com/item?id=46902273) - [Advancing finance with Claude Opus 4.6](https://claude.com/blog/opus-4-6-finance)
 * [2026-02-05, 17:38:53](https://news.ycombinator.com/item?id=46902223) - [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
 * [2026-02-05, 17:00:07](https://news.ycombinator.com/item?id=46901768) - [Maihem (YC W24): hiring sr robotics perception engineer (London, on-site)](https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758)
