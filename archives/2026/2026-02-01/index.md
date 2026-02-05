@@ -57,6 +57,7 @@
 * [2026-02-01, 11:18:05](https://news.ycombinator.com/item?id=46845375) - [Machinery and English Style (1904)](https://www.theatlantic.com/magazine/archive/1904/10/machinery-and-english-style/637506/)
 * [2026-02-01, 10:57:20](https://news.ycombinator.com/item?id=46845244) - [Amiga Unix (Amix)](https://www.amigaunix.com/doku.php/home)
 * [2026-02-01, 10:56:42](https://news.ycombinator.com/item?id=46845239) - [Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite](https://sqldef.github.io/)
+* [2026-02-01, 10:49:39](https://news.ycombinator.com/item?id=46845203) - [Listen to Understand](https://talk.bradwoods.io/blog/listen-to-understand/)
 * [2026-02-01, 10:30:41](https://news.ycombinator.com/item?id=46845103) - [FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap](https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/)
 * [2026-02-01, 10:29:07](https://news.ycombinator.com/item?id=46845097) - [Show HN: Apate API mocking/prototyping server and Rust unit test library](https://github.com/rustrum/apate)
 * [2026-02-01, 10:01:10](https://news.ycombinator.com/item?id=46844969) - ['Unsubscribe' and 'opt out': A new Big Tech boycott to protest ICE](https://www.businessinsider.com/tech-ai-boycott-february-protest-ice-scott-galloway-2026-2)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-04](index.md)
 
+* [2026-02-04, 23:26:23](https://news.ycombinator.com/item?id=46893411) - [Why More Companies Are Recognizing the Benefits of Keeping Older Employees](https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/)
 * [2026-02-04, 23:24:53](https://news.ycombinator.com/item?id=46893394) - [We Used To Build Things. What Happened?](https://garryslist.org/posts/we-used-to-build-things-what-happened)
 * [2026-02-04, 23:03:58](https://news.ycombinator.com/item?id=46893167) - [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/)
 * [2026-02-04, 22:50:34](https://news.ycombinator.com/item?id=46893018) - [As Rocks May Think](https://evjang.com/2026/02/04/rocks.html)
@@ -35,6 +36,7 @@
 * [2026-02-04, 17:01:44](https://news.ycombinator.com/item?id=46888339) - [Launching the Rural Guaranteed Minimum Income Initiative](https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/)
 * [2026-02-04, 17:01:14](https://news.ycombinator.com/item?id=46888331) - [Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)](https://www.runconverge.com/careers/product-engineer)
 * [2026-02-04, 16:47:26](https://news.ycombinator.com/item?id=46888142) - [RS-SDK: Drive RuneScape with Claude Code](https://github.com/MaxBittker/rs-sdk)
+* [2026-02-04, 16:30:51](https://news.ycombinator.com/item?id=46887893) - [Postgres Postmaster does not scale](https://www.recall.ai/blog/postgres-postmaster-does-not-scale)
 * [2026-02-04, 16:08:55](https://news.ycombinator.com/item?id=46887564) - [Microsoft's Pivotal AI Product Is Running into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28)
 * [2026-02-04, 15:50:50](https://news.ycombinator.com/item?id=46887326) - [Arcan-A12: Weaving a Different Web](https://www.divergent-desktop.org/blog/2026/01/26/a12web/)
 * [2026-02-04, 15:08:17](https://news.ycombinator.com/item?id=46886735) - [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
