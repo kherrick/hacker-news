@@ -43,6 +43,7 @@
 * [2026-01-31, 14:36:21](https://news.ycombinator.com/item?id=46837045) - [Phenakistoscopes (1833)](https://publicdomainreview.org/collection/phenakistoscopes-1833/)
 * [2026-01-31, 13:27:23](https://news.ycombinator.com/item?id=46836487) - [US reportedly investigate claims that Meta can read encrypted WhatsApp messages](https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages)
 * [2026-01-31, 12:00:22](https://news.ycombinator.com/item?id=46835834) - [Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer)
+* [2026-01-31, 11:35:36](https://news.ycombinator.com/item?id=46835677) - [Why S7 Scheme?](https://iainctduncan.github.io/scheme-for-max-docs/s7.html)
 * [2026-01-31, 11:22:24](https://news.ycombinator.com/item?id=46835612) - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
 * [2026-01-31, 10:53:38](https://news.ycombinator.com/item?id=46835454) - [\"Giving up upstream-ing my patches & feel free to pick them up\"](https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html)
 * [2026-01-31, 10:34:07](https://news.ycombinator.com/item?id=46835336) - [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)
