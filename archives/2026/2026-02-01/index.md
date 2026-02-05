@@ -38,6 +38,7 @@
 * [2026-02-01, 17:33:04](https://news.ycombinator.com/item?id=46847746) - [Aging muscle stem cells shift from rapid repair to long-term survival](https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html)
 * [2026-02-01, 17:25:39](https://news.ycombinator.com/item?id=46847690) - [Show HN: Craftplan – I built my wife a production management tool for her bakery](https://github.com/puemos/craftplan)
 * [2026-02-01, 17:21:50](https://news.ycombinator.com/item?id=46847660) - [50 years ago, a young Bill Gates took on the 'software pirates'](https://thenewstack.io/50-years-ago-a-young-bill-gates-took-on-the-software-pirates/)
+* [2026-02-01, 17:12:47](https://news.ycombinator.com/item?id=46847603) - [I built a search engine to index the un-indexable parts of Telegram](https://telehunt.org)
 * [2026-02-01, 16:57:39](https://news.ycombinator.com/item?id=46847490) - [Pancreatic cancer researchers' latest breakthrough could help tumors disappear](https://nypost.com/2026/01/30/health/pancreatic-cancer-breakthrough-tumors-disappear-in-mice/)
 * [2026-02-01, 16:52:30](https://news.ycombinator.com/item?id=46847456) - [Real engineering failures instead of success stories](https://failhub.substack.com/p/failhub-issue-1)
 * [2026-02-01, 15:58:23](https://news.ycombinator.com/item?id=46847039) - [English professors double down on requiring printed copies of readings](https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings)
