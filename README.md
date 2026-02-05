@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-05, 14:07:03](https://news.ycombinator.com/item?id=46899770) - [OpenAI Frontier](https://openai.com/index/introducing-openai-frontier/)
+* [2026-02-05, 13:47:59](https://news.ycombinator.com/item?id=46899591) - [The New Collabora Office for Desktop](https://www.collaboraonline.com/collabora-office/)
 * [2026-02-05, 12:56:28](https://news.ycombinator.com/item?id=46899132) - [Company as Code](https://blog.42futures.com/p/company-as-code)
 * [2026-02-05, 12:53:12](https://news.ycombinator.com/item?id=46899100) - [CIA to Sunset the World Factbook](https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724)
+* [2026-02-05, 12:48:01](https://news.ycombinator.com/item?id=46899066) - [GB Renewables Map](https://renewables-map.robinhawkes.com/)
 * [2026-02-05, 12:00:03](https://news.ycombinator.com/item?id=46898713) - [Freshpaint (YC S19) Is Hiring a Senior SWE, Data](https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761)
 * [2026-02-05, 11:45:03](https://news.ycombinator.com/item?id=46898615) - [Top downloaded skill in ClawHub contains malware](https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface)
 * [2026-02-05, 10:46:57](https://news.ycombinator.com/item?id=46898223) - [The Missing Layer](https://yagmin.com/blog/the-missing-layer/)
@@ -21,7 +22,6 @@
 * [2026-02-04, 16:08:55](https://news.ycombinator.com/item?id=46887564) - [Microsoft's Copilot chatbot is running into problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28)
 * [2026-02-04, 15:08:17](https://news.ycombinator.com/item?id=46886735) - [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
 * [2026-02-04, 14:46:46](https://news.ycombinator.com/item?id=46886440) - [A case study in PDF forensics: The Epstein PDFs](https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/)
-* [2026-02-03, 05:49:56](https://news.ycombinator.com/item?id=46867018) - [An interactive version of Byrne's The Elements of Euclid (1847)](https://c82.net/euclid/)
 * [2026-02-02, 12:07:46](https://news.ycombinator.com/item?id=46855057) - [Making Ferrite Core Inductors at Home](https://danielmangum.com/posts/making-ferrite-core-inductors-home/)
 * [2026-02-01, 15:43:15](https://news.ycombinator.com/item?id=46846940) - [Programming Patterns: The Story of the Jacquard Loom](https://www.scienceandindustrymuseum.org.uk/objects-and-stories/jacquard-loom)
 * [2026-02-01, 12:43:41](https://news.ycombinator.com/item?id=46845845) - [Claude Code: connect to a local model when your quota runs out](https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/)
