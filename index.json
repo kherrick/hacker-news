@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-02-05, 18:30:16",
+      "https://news.ycombinator.com/item?id=46903001"
+    ],
+    [
+      "Ardour 9.0 Released",
+      "https://ardour.org/whatsnew.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 18:25:05",
+      "https://news.ycombinator.com/item?id=46902909"
+    ],
+    [
+      "Anthropic's Claude Opus 4.6 uncovers 500 zero-day flaws in open-source code",
+      "https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 18:21:53",
+      "https://news.ycombinator.com/item?id=46902855"
+    ],
+    [
+      "Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models",
+      "https://arxiv.org/abs/2512.04124"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 18:17:14",
+      "https://news.ycombinator.com/item?id=46902789"
+    ],
+    [
+      "A small, shared skill library by builders, for builders. (human and agent)",
+      "https://github.com/PsiACE/skills"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 18:08:08",
+      "https://news.ycombinator.com/item?id=46902638"
+    ],
+    [
+      "GPT-5.3-Codex",
+      "https://openai.com/index/introducing-gpt-5-3-codex/"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 18:00:07",
+      "https://news.ycombinator.com/item?id=46902512"
+    ],
+    [
+      "Unsealed Court Documents Show Teen Addiction Was Big Tech's \"Top Priority\"",
+      "https://techoversight.org/2026/01/25/top-report-mdl-jan-25/"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 17:49:54",
+      "https://news.ycombinator.com/item?id=46902368"
+    ],
+    [
+      "Claude Code Agent Teams",
+      "https://code.claude.com/docs/en/agent-teams"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 17:42:47",
       "https://news.ycombinator.com/item?id=46902273"
     ],
@@ -67,16 +137,6 @@
     [
       "Company as Code",
       "https://blog.42futures.com/p/company-as-code"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 12:53:12",
-      "https://news.ycombinator.com/item?id=46899100"
-    ],
-    [
-      "CIA to Sunset the World Factbook",
-      "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724"
     ]
   ],
   [
@@ -151,62 +211,22 @@
   ],
   [
     [
-      "2026-02-05, 00:28:06",
-      "https://news.ycombinator.com/item?id=46893970"
-    ],
-    [
-      "OpenClaw is what Apple intelligence should have been",
-      "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 17:35:05",
-      "https://news.ycombinator.com/item?id=46888795"
-    ],
-    [
-      "Building a 24-bit arcade CRT display adapter from scratch",
-      "https://www.scd31.com/posts/building-an-arcade-display-adapter"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 17:09:28",
-      "https://news.ycombinator.com/item?id=46888441"
-    ],
-    [
-      "AI is killing B2B SaaS",
-      "https://nmn.gl/blog/ai-killing-b2b-saas"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 15:08:17",
-      "https://news.ycombinator.com/item?id=46886735"
-    ],
-    [
-      "Voxtral Transcribe 2",
-      "https://mistral.ai/news/voxtral-transcribe-2"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 05:49:56",
-      "https://news.ycombinator.com/item?id=46867018"
-    ],
-    [
-      "An interactive version of Byrne's The Elements of Euclid (1847)",
-      "https://c82.net/euclid/"
-    ]
-  ],
-  [
-    [
       "2026-02-02, 12:07:46",
       "https://news.ycombinator.com/item?id=46855057"
     ],
     [
       "Making Ferrite Core Inductors at Home",
       "https://danielmangum.com/posts/making-ferrite-core-inductors-home/"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 18:17:41",
+      "https://news.ycombinator.com/item?id=46848077"
+    ],
+    [
+      "Triton Bespoke Layouts",
+      "https://www.lei.chat/posts/triton-bespoke-layouts/"
     ]
   ],
   [
@@ -237,16 +257,6 @@
     [
       "Simply Scheme: Introducing Computer Science (1999)",
       "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 10:56:42",
-      "https://news.ycombinator.com/item?id=46845239"
-    ],
-    [
-      "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
-      "https://sqldef.github.io/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "150 MB Minimal FreeBSD Installation",
       "https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/"
-    ]
-  ],
-  [
-    [
-      "2026-01-31, 18:09:27",
-      "https://news.ycombinator.com/item?id=46839036"
-    ],
-    [
-      "Improving Unnesting of Complex Queries [pdf]",
-      "https://15799.courses.cs.cmu.edu/spring2025/papers/11-unnesting/neumann-btw2025.pdf"
     ]
   ]
 ]
