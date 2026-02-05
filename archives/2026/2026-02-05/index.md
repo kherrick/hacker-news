@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-05](index.md)
 
+* [2026-02-05, 17:42:47](https://news.ycombinator.com/item?id=46902273) - [Advancing finance with Claude Opus 4.6](https://claude.com/blog/opus-4-6-finance)
+* [2026-02-05, 17:38:53](https://news.ycombinator.com/item?id=46902223) - [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
 * [2026-02-05, 17:00:07](https://news.ycombinator.com/item?id=46901768) - [Maihem (YC W24): hiring sr robotics perception engineer (London, on-site)](https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758)
 * [2026-02-05, 16:33:56](https://news.ycombinator.com/item?id=46901452) - [European Commission Trials Matrix to Replace Teams](https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/)
+* [2026-02-05, 14:11:13](https://news.ycombinator.com/item?id=46899808) - [CIA suddenly stops publishing, removes archives of The World Factbook](https://simonwillison.net/2026/Feb/5/the-world-factbook/)
 * [2026-02-05, 14:07:03](https://news.ycombinator.com/item?id=46899770) - [OpenAI Frontier](https://openai.com/index/introducing-openai-frontier/)
 * [2026-02-05, 13:47:59](https://news.ycombinator.com/item?id=46899591) - [The New Collabora Office for Desktop](https://www.collaboraonline.com/collabora-office/)
 * [2026-02-05, 12:56:28](https://news.ycombinator.com/item?id=46899132) - [Company as Code](https://blog.42futures.com/p/company-as-code)
