@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 23:15:30](https://news.ycombinator.com/item?id=46841897) - [150 MB Minimal FreeBSD Installation](https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/)
 * [2026-01-31, 23:02:45](https://news.ycombinator.com/item?id=46841794) - [When will CSS Grid Lanes arrive?](https://webkit.org/blog/17758/when-will-css-grid-lanes-arrive-how-long-until-we-can-use-it/)
 * [2026-01-31, 23:01:18](https://news.ycombinator.com/item?id=46841776) - [Secure erase for Samsung PM951 NVMe drive (2024)](https://peterbabic.dev/blog/how-not-to-securely-erase-nvme-drive/)
 * [2026-01-31, 22:05:03](https://news.ycombinator.com/item?id=46841374) - [Swift is a more convenient Rust](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)

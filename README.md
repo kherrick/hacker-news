@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-05, 17:00:07](https://news.ycombinator.com/item?id=46901768) - [Maihem (YC W24): hiring sr robotics perception engineer (London, on-site)](https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758)
+* [2026-02-05, 16:33:56](https://news.ycombinator.com/item?id=46901452) - [European Commission Trials Matrix to Replace Teams](https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/)
 * [2026-02-05, 13:47:59](https://news.ycombinator.com/item?id=46899591) - [The New Collabora Office for Desktop](https://www.collaboraonline.com/collabora-office/)
 * [2026-02-05, 12:56:28](https://news.ycombinator.com/item?id=46899132) - [Company as Code](https://blog.42futures.com/p/company-as-code)
 * [2026-02-05, 12:53:12](https://news.ycombinator.com/item?id=46899100) - [CIA to Sunset the World Factbook](https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724)
 * [2026-02-05, 12:48:01](https://news.ycombinator.com/item?id=46899066) - [GB Renewables Map](https://renewables-map.robinhawkes.com/)
-* [2026-02-05, 12:00:03](https://news.ycombinator.com/item?id=46898713) - [Freshpaint (YC S19) Is Hiring a Senior SWE, Data](https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761)
 * [2026-02-05, 11:45:03](https://news.ycombinator.com/item?id=46898615) - [Top downloaded skill in ClawHub contains malware](https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface)
 * [2026-02-05, 09:39:11](https://news.ycombinator.com/item?id=46897737) - [Nanobot: Ultra-Lightweight Alternative to OpenClaw](https://github.com/HKUDS/nanobot)
 * [2026-02-05, 08:46:13](https://news.ycombinator.com/item?id=46897332) - [Show HN: Micropolis/SimCity Clone in Emacs Lisp](https://github.com/vkazanov/elcity)
@@ -16,10 +17,7 @@
 * [2026-02-04, 18:34:08](https://news.ycombinator.com/item?id=46889703) - [Claude Code for Infrastructure](https://www.fluid.sh/)
 * [2026-02-04, 17:35:05](https://news.ycombinator.com/item?id=46888795) - [Building a 24-bit arcade CRT display adapter from scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter)
 * [2026-02-04, 17:09:28](https://news.ycombinator.com/item?id=46888441) - [AI is killing B2B SaaS](https://nmn.gl/blog/ai-killing-b2b-saas)
-* [2026-02-04, 16:30:51](https://news.ycombinator.com/item?id=46887893) - [Postgres Postmaster does not scale](https://www.recall.ai/blog/postgres-postmaster-does-not-scale)
-* [2026-02-04, 16:08:55](https://news.ycombinator.com/item?id=46887564) - [Microsoft's Copilot chatbot is running into problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28)
 * [2026-02-04, 15:08:17](https://news.ycombinator.com/item?id=46886735) - [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
-* [2026-02-04, 14:46:46](https://news.ycombinator.com/item?id=46886440) - [A case study in PDF forensics: The Epstein PDFs](https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/)
 * [2026-02-03, 05:49:56](https://news.ycombinator.com/item?id=46867018) - [An interactive version of Byrne's The Elements of Euclid (1847)](https://c82.net/euclid/)
 * [2026-02-02, 12:07:46](https://news.ycombinator.com/item?id=46855057) - [Making Ferrite Core Inductors at Home](https://danielmangum.com/posts/making-ferrite-core-inductors-home/)
 * [2026-02-01, 15:43:15](https://news.ycombinator.com/item?id=46846940) - [Programming Patterns: The Story of the Jacquard Loom](https://www.scienceandindustrymuseum.org.uk/objects-and-stories/jacquard-loom)
@@ -29,7 +27,9 @@
 * [2026-02-01, 10:56:42](https://news.ycombinator.com/item?id=46845239) - [Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite](https://sqldef.github.io/)
 * [2026-02-01, 08:25:30](https://news.ycombinator.com/item?id=46844511) - [CG/SQL – SQL dialect compiler to C for sqlite3 mimicking stored procedures](https://ricomariani.github.io/CG-SQL-author/)
 * [2026-02-01, 07:58:06](https://news.ycombinator.com/item?id=46844393) - [A Broken Heart](https://allenpike.com/2026/a-broken-heart/)
+* [2026-01-31, 23:15:30](https://news.ycombinator.com/item?id=46841897) - [150 MB Minimal FreeBSD Installation](https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/)
 * [2026-01-31, 18:09:27](https://news.ycombinator.com/item?id=46839036) - [Improving Unnesting of Complex Queries [pdf]](https://15799.courses.cs.cmu.edu/spring2025/papers/11-unnesting/neumann-btw2025.pdf)
+* [2026-01-31, 11:35:36](https://news.ycombinator.com/item?id=46835677) - [Why S7 Scheme? (2020)](https://iainctduncan.github.io/scheme-for-max-docs/s7.html)
 
 ## [Archives](archives/index.md)
 
