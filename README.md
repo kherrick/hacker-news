@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-05, 07:35:51](https://news.ycombinator.com/item?id=46896823) - [ICE Begins Buying 'Mega' Warehouse Detention Centers Across US](https://www.bloomberg.com/news/features/2026-01-29/us-spends-hundreds-of-millions-on-warehouses-for-ice-detention-centers)
+* [2026-02-05, 08:34:47](https://news.ycombinator.com/item?id=46897210) - [Valve's Steam Machine has been delayed, and the RAM crisis will impact pricing](https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis)
+* [2026-02-05, 07:30:27](https://news.ycombinator.com/item?id=46896785) - [Russia 'intercepts Europe's key satellites'](https://news.satnews.com/2026/02/04/russia-intercepts-europes-key-satellites-placing-nato-satellite-at-risk/)
 * [2026-02-05, 06:58:43](https://news.ycombinator.com/item?id=46896586) - [Modernizing Linux swapping: introducing the swap table](https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/)
+* [2026-02-05, 06:33:47](https://news.ycombinator.com/item?id=46896427) - [BMW's Newest \"Innovation\" Is a Logo-Shaped Middle Finger to Right to Repair](https://www.ifixit.com/News/115528/bmws-newest-innovation-is-a-logo-shaped-middle-finger-to-right-to-repair)
 * [2026-02-05, 05:50:01](https://news.ycombinator.com/item?id=46896146) - [Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/)
 * [2026-02-05, 05:22:36](https://news.ycombinator.com/item?id=46895972) - [When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)
 * [2026-02-05, 05:18:42](https://news.ycombinator.com/item?id=46895950) - [Study: Older Cannabis Users Have Larger Brains, Better Cognition](https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function)
@@ -18,7 +20,6 @@
 * [2026-02-04, 16:08:55](https://news.ycombinator.com/item?id=46887564) - [Microsoft's Copilot chatbot is running into problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28)
 * [2026-02-04, 15:08:17](https://news.ycombinator.com/item?id=46886735) - [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
 * [2026-02-04, 14:46:46](https://news.ycombinator.com/item?id=46886440) - [A case study in PDF forensics: The Epstein PDFs](https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/)
-* [2026-02-04, 12:08:49](https://news.ycombinator.com/item?id=46884883) - [Claude is a space to think](https://www.anthropic.com/news/claude-is-a-space-to-think)
 * [2026-02-03, 21:04:59](https://news.ycombinator.com/item?id=46877278) - [Tractor](https://incoherency.co.uk/blog/stories/tractor.html)
 * [2026-02-03, 05:49:56](https://news.ycombinator.com/item?id=46867018) - [An interactive version of Byrne's The Elements of Euclid (1847)](https://c82.net/euclid/)
 * [2026-02-02, 22:14:02](https://news.ycombinator.com/item?id=46862574) - [Adobe Animate will be discontinued effective March 1, 2026](https://helpx.adobe.com/uk/animate/kb/end-of-life.html)
@@ -28,7 +29,6 @@
 * [2026-02-01, 12:12:00](https://news.ycombinator.com/item?id=46845642) - [Remarkable Pro Colors](https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/)
 * [2026-02-01, 10:56:42](https://news.ycombinator.com/item?id=46845239) - [Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite](https://sqldef.github.io/)
 * [2026-02-01, 10:49:39](https://news.ycombinator.com/item?id=46845203) - [Listen to Understand](https://talk.bradwoods.io/blog/listen-to-understand/)
-* [2026-01-31, 23:01:18](https://news.ycombinator.com/item?id=46841776) - [How not to securely erase a NVME drive (2022)](https://peterbabic.dev/blog/how-not-to-securely-erase-nvme-drive/)
 * [2026-01-31, 11:35:36](https://news.ycombinator.com/item?id=46835677) - [Why S7 Scheme? (2020)](https://iainctduncan.github.io/scheme-for-max-docs/s7.html)
 
 ## [Archives](archives/index.md)
