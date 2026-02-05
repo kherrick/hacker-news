@@ -61,26 +61,6 @@
   ],
   [
     [
-      "2026-02-05, 10:46:57",
-      "https://news.ycombinator.com/item?id=46898223"
-    ],
-    [
-      "The Missing Layer",
-      "https://yagmin.com/blog/the-missing-layer/"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 09:49:23",
-      "https://news.ycombinator.com/item?id=46897810"
-    ],
-    [
-      "Battle-Testing Lynx at Allegro",
-      "https://blog.allegro.tech/2026/02/battle-testing-lynx-js-at-allegro.html"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 09:39:11",
       "https://news.ycombinator.com/item?id=46897737"
     ],
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2026-02-03, 05:49:56",
+      "https://news.ycombinator.com/item?id=46867018"
+    ],
+    [
+      "An interactive version of Byrne's The Elements of Euclid (1847)",
+      "https://c82.net/euclid/"
+    ]
+  ],
+  [
+    [
       "2026-02-02, 12:07:46",
       "https://news.ycombinator.com/item?id=46855057"
     ],
@@ -277,6 +267,16 @@
     [
       "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
       "https://sqldef.github.io/"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 08:25:30",
+      "https://news.ycombinator.com/item?id=46844511"
+    ],
+    [
+      "CG/SQL – SQL dialect compiler to C for sqlite3 mimicking stored procedures",
+      "https://ricomariani.github.io/CG-SQL-author/"
     ]
   ],
   [
