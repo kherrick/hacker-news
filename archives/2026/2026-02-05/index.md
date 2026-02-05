@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-05](index.md)
 
+* [2026-02-05, 20:00:39](https://news.ycombinator.com/item?id=46904361) - [LinkedIn checks for 2953 browser extensions](https://github.com/mdp/linkedin-extension-fingerprinting)
 * [2026-02-05, 19:29:41](https://news.ycombinator.com/item?id=46903929) - [The time I didn't meet Jeffrey Epstein](https://scottaaronson.blog/?p=9534)
 * [2026-02-05, 19:07:51](https://news.ycombinator.com/item?id=46903616) - [We tasked Opus 4.6 using agent teams to build a C Compiler](https://www.anthropic.com/engineering/building-c-compiler)
+* [2026-02-05, 19:04:40](https://news.ycombinator.com/item?id=46903558) - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
 * [2026-02-05, 19:04:37](https://news.ycombinator.com/item?id=46903556) - [Flock CEO calls Deflock a \"terrorist organization\" [video]](https://www.youtube.com/watch?v=l-kZGrDz7PU)
 * [2026-02-05, 18:30:16](https://news.ycombinator.com/item?id=46903001) - [Ardour 9.0 Released](https://ardour.org/whatsnew.html)
 * [2026-02-05, 18:25:05](https://news.ycombinator.com/item?id=46902909) - [Anthropic's Claude Opus 4.6 uncovers 500 zero-day flaws in open-source code](https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting)
