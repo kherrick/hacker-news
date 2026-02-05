@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-05, 21:39:57",
+      "https://news.ycombinator.com/item?id=46905761"
+    ],
+    [
+      "Review of 1984 by Isaac Asimov (1980)",
+      "https://www.newworker.org/ncptrory/1984.htm"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 21:24:03",
+      "https://news.ycombinator.com/item?id=46905555"
+    ],
+    [
+      "It's 2026, Just Use Postgres",
+      "https://www.tigerdata.com/blog/its-2026-just-use-postgres"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 20:15:48",
       "https://news.ycombinator.com/item?id=46904569"
     ],
@@ -41,22 +61,22 @@
   ],
   [
     [
-      "2026-02-05, 18:30:16",
-      "https://news.ycombinator.com/item?id=46903001"
+      "2026-02-05, 19:04:37",
+      "https://news.ycombinator.com/item?id=46903556"
     ],
     [
-      "Ardour 9.0 Released",
-      "https://ardour.org/whatsnew.html"
+      "Flock CEO calls Deflock a “terrorist organization” (2025) [video]",
+      "https://www.youtube.com/watch?v=l-kZGrDz7PU"
     ]
   ],
   [
     [
-      "2026-02-05, 18:25:05",
-      "https://news.ycombinator.com/item?id=46902909"
+      "2026-02-05, 18:30:16",
+      "https://news.ycombinator.com/item?id=46903001"
     ],
     [
-      "Opus 4.6 uncovers 500 zero-day flaws in open-source code",
-      "https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting"
+      "Ardour 9.0",
+      "https://ardour.org/whatsnew.html"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=46902789"
     ],
     [
-      "A small, shared skill library by builders, for builders. (human and agent)",
+      "PsiACE/Skills – A small, shared skill library",
       "https://github.com/PsiACE/skills"
     ]
   ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-02-05, 08:46:13",
-      "https://news.ycombinator.com/item?id=46897332"
-    ],
-    [
-      "Show HN: Micropolis/SimCity Clone in Emacs Lisp",
-      "https://github.com/vkazanov/elcity"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 05:50:01",
       "https://news.ycombinator.com/item?id=46896146"
     ],
@@ -221,22 +231,22 @@
   ],
   [
     [
+      "2026-02-04, 19:19:07",
+      "https://news.ycombinator.com/item?id=46890335"
+    ],
+    [
+      "Recreating Epstein PDFs from raw encoded attachments",
+      "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 07:03:34",
       "https://news.ycombinator.com/item?id=46867526"
     ],
     [
       "MenuetOS – a GUI OS that boots from a single floppy disk",
       "https://www.menuetos.net/"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 18:17:41",
-      "https://news.ycombinator.com/item?id=46848077"
-    ],
-    [
-      "Triton Bespoke Layouts",
-      "https://www.lei.chat/posts/triton-bespoke-layouts/"
     ]
   ],
   [
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2026-02-01, 15:43:15",
-      "https://news.ycombinator.com/item?id=46846940"
+      "2026-02-01, 11:06:29",
+      "https://news.ycombinator.com/item?id=46845296"
     ],
     [
-      "Programming Patterns: The Story of the Jacquard Loom (2019)",
-      "https://www.scienceandindustrymuseum.org.uk/objects-and-stories/jacquard-loom"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 12:35:30",
-      "https://news.ycombinator.com/item?id=46845790"
-    ],
-    [
-      "Simply Scheme: Introducing Computer Science (1999)",
-      "https://people.eecs.berkeley.edu/~bh/ss-toc2.html"
+      "OpenClaw: When AI Agents Get Full System Access. Security nightmare?",
+      "https://innfactory.ai:443/en/blog/openclaw-ai-agent-security/"
     ]
   ],
   [
