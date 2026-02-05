@@ -2,6 +2,7 @@
 
 * [2026-02-05, 05:50:01](https://news.ycombinator.com/item?id=46896146) - [Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/)
 * [2026-02-05, 05:22:36](https://news.ycombinator.com/item?id=46895972) - [When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)
+* [2026-02-05, 05:18:42](https://news.ycombinator.com/item?id=46895950) - [Study: Older Cannabis Users Have Larger Brains, Better Cognition](https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function)
 * [2026-02-05, 05:02:01](https://news.ycombinator.com/item?id=46895860) - [ICE seeks industry input on ad tech location data for investigative use](https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use)
 * [2026-02-05, 03:39:43](https://news.ycombinator.com/item?id=46895388) - [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
 * [2026-02-05, 03:38:26](https://news.ycombinator.com/item?id=46895381) - [Wirth's Revenge](https://jmoiron.net/blog/wirths-revenge/)
@@ -13,7 +14,6 @@
 * [2026-02-04, 17:49:26](https://news.ycombinator.com/item?id=46889008) - [The Great Unwind](https://occupywallst.com/yen)
 * [2026-02-04, 17:35:05](https://news.ycombinator.com/item?id=46888795) - [Building a 24-bit arcade CRT display adapter from scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter)
 * [2026-02-04, 17:09:28](https://news.ycombinator.com/item?id=46888441) - [AI is killing B2B SaaS](https://nmn.gl/blog/ai-killing-b2b-saas)
-* [2026-02-04, 16:47:26](https://news.ycombinator.com/item?id=46888142) - [RS-SDK: Drive RuneScape with Claude Code](https://github.com/MaxBittker/rs-sdk)
 * [2026-02-04, 16:30:51](https://news.ycombinator.com/item?id=46887893) - [Postgres Postmaster does not scale](https://www.recall.ai/blog/postgres-postmaster-does-not-scale)
 * [2026-02-04, 16:08:55](https://news.ycombinator.com/item?id=46887564) - [Microsoft's Copilot chatbot is running into problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28)
 * [2026-02-04, 15:08:17](https://news.ycombinator.com/item?id=46886735) - [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
