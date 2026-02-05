@@ -42,6 +42,7 @@
 * [2026-02-01, 17:12:47](https://news.ycombinator.com/item?id=46847603) - [I built a search engine to index the un-indexable parts of Telegram](https://telehunt.org)
 * [2026-02-01, 16:57:39](https://news.ycombinator.com/item?id=46847490) - [Pancreatic cancer researchers' latest breakthrough could help tumors disappear](https://nypost.com/2026/01/30/health/pancreatic-cancer-breakthrough-tumors-disappear-in-mice/)
 * [2026-02-01, 16:52:30](https://news.ycombinator.com/item?id=46847456) - [Real engineering failures instead of success stories](https://failhub.substack.com/p/failhub-issue-1)
+* [2026-02-01, 16:31:16](https://news.ycombinator.com/item?id=46847297) - [There Will Come Soft Rains (1950) [pdf]](https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf)
 * [2026-02-01, 15:58:23](https://news.ycombinator.com/item?id=46847039) - [English professors double down on requiring printed copies of readings](https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings)
 * [2026-02-01, 15:43:15](https://news.ycombinator.com/item?id=46846940) - [Programming Patterns: The Story of the Jacquard Loom](https://www.scienceandindustrymuseum.org.uk/objects-and-stories/jacquard-loom)
 * [2026-02-01, 15:18:38](https://news.ycombinator.com/item?id=46846762) - [Same SQL, Different Results: A Subtle Oracle vs. PostgreSQL Migration Bug](https://databaserookies.wordpress.com/2026/01/30/same-sql-different-results-a-subtle-oracle-vs-postgresql-migration-bug/)
