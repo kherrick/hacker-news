@@ -19,6 +19,7 @@
 * [2026-02-04, 19:26:08](https://news.ycombinator.com/item?id=46890418) - [Tell HN: Another round of Zendesk email spam](https://news.ycombinator.com/item?id=46890418)
 * [2026-02-04, 19:24:07](https://news.ycombinator.com/item?id=46890401) - [Show HN: EpsteIn – Search the Epstein files for your LinkedIn connections](https://github.com/cfinke/EpsteIn)
 * [2026-02-04, 19:20:29](https://news.ycombinator.com/item?id=46890352) - [Women rejecting the hijab have doomed Iran's brutal regime](https://www.telegraph.co.uk/news/2026/02/03/iranian-regime-doomed-when-it-lost-control-of-women/)
+* [2026-02-04, 19:19:07](https://news.ycombinator.com/item?id=46890335) - [Recreating Epstein PDFs from raw encoded attachments](https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/)
 * [2026-02-04, 19:12:28](https://news.ycombinator.com/item?id=46890261) - [Turn any website into a live, structured data feed](https://www.meter.sh/)
 * [2026-02-04, 18:56:46](https://news.ycombinator.com/item?id=46890034) - [How Jeff Bezos Brought Down the Washington Post](https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post)
 * [2026-02-04, 18:34:08](https://news.ycombinator.com/item?id=46889703) - [Claude Code for Infrastructure](https://www.fluid.sh/)
