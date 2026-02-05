@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-05, 05:50:01](https://news.ycombinator.com/item?id=46896146) - [Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/)
 * [2026-02-05, 05:22:36](https://news.ycombinator.com/item?id=46895972) - [When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)
 * [2026-02-05, 05:02:01](https://news.ycombinator.com/item?id=46895860) - [ICE seeks industry input on ad tech location data for investigative use](https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use)
-* [2026-02-05, 04:14:33](https://news.ycombinator.com/item?id=46895602) - [Sam Altman Responds to Anthropic Ad Campaign](https://twitter.com/i/status/2019139174339928189)
 * [2026-02-05, 03:39:43](https://news.ycombinator.com/item?id=46895388) - [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
 * [2026-02-05, 03:38:26](https://news.ycombinator.com/item?id=46895381) - [Wirth's Revenge](https://jmoiron.net/blog/wirths-revenge/)
 * [2026-02-05, 03:06:32](https://news.ycombinator.com/item?id=46895144) - [A tale of two flows: Metaflow and Kubeflow](https://blog.kubeflow.org/metaflow/)
@@ -13,7 +13,6 @@
 * [2026-02-04, 17:49:26](https://news.ycombinator.com/item?id=46889008) - [The Great Unwind](https://occupywallst.com/yen)
 * [2026-02-04, 17:35:05](https://news.ycombinator.com/item?id=46888795) - [Building a 24-bit arcade CRT display adapter from scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter)
 * [2026-02-04, 17:09:28](https://news.ycombinator.com/item?id=46888441) - [AI is killing B2B SaaS](https://nmn.gl/blog/ai-killing-b2b-saas)
-* [2026-02-04, 17:01:14](https://news.ycombinator.com/item?id=46888331) - [Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)](https://www.runconverge.com/careers/product-engineer)
 * [2026-02-04, 16:47:26](https://news.ycombinator.com/item?id=46888142) - [RS-SDK: Drive RuneScape with Claude Code](https://github.com/MaxBittker/rs-sdk)
 * [2026-02-04, 16:30:51](https://news.ycombinator.com/item?id=46887893) - [Postgres Postmaster does not scale](https://www.recall.ai/blog/postgres-postmaster-does-not-scale)
 * [2026-02-04, 16:08:55](https://news.ycombinator.com/item?id=46887564) - [Microsoft's Copilot chatbot is running into problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28)
@@ -28,6 +27,7 @@
 * [2026-02-01, 12:12:00](https://news.ycombinator.com/item?id=46845642) - [Remarkable Pro Colors](https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/)
 * [2026-02-01, 10:56:42](https://news.ycombinator.com/item?id=46845239) - [Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite](https://sqldef.github.io/)
 * [2026-02-01, 10:49:39](https://news.ycombinator.com/item?id=46845203) - [Listen to Understand](https://talk.bradwoods.io/blog/listen-to-understand/)
+* [2026-02-01, 07:13:10](https://news.ycombinator.com/item?id=46844209) - [The TV industry concedes that the future may not be in 8K](https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/)
 * [2026-01-31, 23:01:18](https://news.ycombinator.com/item?id=46841776) - [How not to securely erase a NVME drive (2022)](https://peterbabic.dev/blog/how-not-to-securely-erase-nvme-drive/)
 * [2026-01-31, 11:35:36](https://news.ycombinator.com/item?id=46835677) - [Why S7 Scheme? (2020)](https://iainctduncan.github.io/scheme-for-max-docs/s7.html)
 
