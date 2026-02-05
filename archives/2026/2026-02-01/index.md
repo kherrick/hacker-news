@@ -66,6 +66,7 @@
 * [2026-02-01, 09:33:46](https://news.ycombinator.com/item?id=46844822) - [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
 * [2026-02-01, 08:15:21](https://news.ycombinator.com/item?id=46844466) - [Contracts in Nix](https://sraka.xyz/posts/contracts.html)
 * [2026-02-01, 08:02:46](https://news.ycombinator.com/item?id=46844410) - [Coding Agent VMs on NixOS with Microvm.nix](https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/)
+* [2026-02-01, 07:58:06](https://news.ycombinator.com/item?id=46844393) - [A Broken Heart](https://allenpike.com/2026/a-broken-heart/)
 * [2026-02-01, 07:50:51](https://news.ycombinator.com/item?id=46844350) - [The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)
 * [2026-02-01, 07:13:10](https://news.ycombinator.com/item?id=46844209) - [The TV industry concedes that the future may not be in 8K](https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/)
 * [2026-02-01, 07:08:03](https://news.ycombinator.com/item?id=46844195) - [Procedures for Repair of Potholes in Asphalt-Surfaced Pavements](https://highways.dot.gov/media/7941)

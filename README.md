@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-05, 10:46:57](https://news.ycombinator.com/item?id=46898223) - [The Missing Layer](https://yagmin.com/blog/the-missing-layer/)
+* [2026-02-05, 09:49:23](https://news.ycombinator.com/item?id=46897810) - [Battle-Testing Lynx at Allegro](https://blog.allegro.tech/2026/02/battle-testing-lynx-js-at-allegro.html)
 * [2026-02-05, 09:39:11](https://news.ycombinator.com/item?id=46897737) - [Nanobot: Ultra-Lightweight Alternative to OpenClaw](https://github.com/HKUDS/nanobot)
 * [2026-02-05, 09:24:51](https://news.ycombinator.com/item?id=46897620) - [If you've got Nothing to Hide (2015)](https://jacquesmattheij.com/if-you-have-nothing-to-hide/)
 * [2026-02-05, 08:46:13](https://news.ycombinator.com/item?id=46897332) - [Show HN: Micropolis/SimCity Clone in Emacs Lisp](https://github.com/vkazanov/elcity)
-* [2026-02-05, 06:58:43](https://news.ycombinator.com/item?id=46896586) - [Modernizing Linux swapping: introducing the swap table](https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/)
 * [2026-02-05, 05:50:01](https://news.ycombinator.com/item?id=46896146) - [Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/)
 * [2026-02-05, 05:22:36](https://news.ycombinator.com/item?id=46895972) - [When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)
 * [2026-02-05, 03:39:43](https://news.ycombinator.com/item?id=46895388) - [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
@@ -19,7 +19,6 @@
 * [2026-02-04, 16:08:55](https://news.ycombinator.com/item?id=46887564) - [Microsoft's Copilot chatbot is running into problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28)
 * [2026-02-04, 15:08:17](https://news.ycombinator.com/item?id=46886735) - [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
 * [2026-02-04, 14:46:46](https://news.ycombinator.com/item?id=46886440) - [A case study in PDF forensics: The Epstein PDFs](https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/)
-* [2026-02-03, 21:04:59](https://news.ycombinator.com/item?id=46877278) - [Tractor](https://incoherency.co.uk/blog/stories/tractor.html)
 * [2026-02-03, 05:49:56](https://news.ycombinator.com/item?id=46867018) - [An interactive version of Byrne's The Elements of Euclid (1847)](https://c82.net/euclid/)
 * [2026-02-02, 22:14:02](https://news.ycombinator.com/item?id=46862574) - [Adobe Animate will be discontinued effective March 1, 2026](https://helpx.adobe.com/uk/animate/kb/end-of-life.html)
 * [2026-02-02, 12:07:46](https://news.ycombinator.com/item?id=46855057) - [Making Ferrite Core Inductors at Home](https://danielmangum.com/posts/making-ferrite-core-inductors-home/)
@@ -29,6 +28,7 @@
 * [2026-02-01, 12:12:00](https://news.ycombinator.com/item?id=46845642) - [Remarkable Pro Colors](https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/)
 * [2026-02-01, 10:56:42](https://news.ycombinator.com/item?id=46845239) - [Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite](https://sqldef.github.io/)
 * [2026-02-01, 10:49:39](https://news.ycombinator.com/item?id=46845203) - [Listen to Understand](https://talk.bradwoods.io/blog/listen-to-understand/)
+* [2026-02-01, 07:58:06](https://news.ycombinator.com/item?id=46844393) - [A Broken Heart](https://allenpike.com/2026/a-broken-heart/)
 * [2026-01-31, 11:35:36](https://news.ycombinator.com/item?id=46835677) - [Why S7 Scheme? (2020)](https://iainctduncan.github.io/scheme-for-max-docs/s7.html)
 
 ## [Archives](archives/index.md)
