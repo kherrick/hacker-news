@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-02-04, 23:03:58",
-      "https://news.ycombinator.com/item?id=46893167"
+      "2026-02-05, 00:28:06",
+      "https://news.ycombinator.com/item?id=46893970"
     ],
     [
-      "Litestream Writable VFS",
-      "https://fly.io/blog/litestream-writable-vfs/"
+      "OpenClaw is what Apple intelligence should have been",
+      "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 00:21:06",
+      "https://news.ycombinator.com/item?id=46893910"
+    ],
+    [
+      "Steam Hardware: Launch timing and other FAQs",
+      "https://store.steampowered.com/news/group/45479024/view/625565405086220583"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 23:24:53",
+      "https://news.ycombinator.com/item?id=46893394"
+    ],
+    [
+      "We Used To Build Things. What Happened?",
+      "https://garryslist.org/posts/we-used-to-build-things-what-happened"
     ]
   ],
   [
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2026-02-04, 22:34:46",
+      "https://news.ycombinator.com/item?id=46892861"
+    ],
+    [
+      "Debian's Challenge When Its Developers Drift Away",
+      "https://www.phoronix.com/news/Debian-Developers-Quiet-Away"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 21:13:17",
       "https://news.ycombinator.com/item?id=46891860"
     ],
@@ -31,22 +61,12 @@
   ],
   [
     [
-      "2026-02-04, 21:08:35",
-      "https://news.ycombinator.com/item?id=46891794"
+      "2026-02-04, 21:10:55",
+      "https://news.ycombinator.com/item?id=46891827"
     ],
     [
-      "Spotlighting the World Factbook as We Bid a Fond Farewell",
-      "https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 20:33:35",
-      "https://news.ycombinator.com/item?id=46891290"
-    ],
-    [
-      "Show HN: Interactive California Budget (By Claude Code)",
-      "https://california-budget.com"
+      "Show HN: Morph – Videos of AI testing your PR, embedded in GitHub",
+      "https://morphllm.com/products/glance"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2026-02-04, 20:06:00",
-      "https://news.ycombinator.com/item?id=46890899"
-    ],
-    [
-      "Technocracy 2.0",
-      "https://brooklynrail.org/2026/02/field-notes/technocracy-2-0/"
-    ]
-  ],
-  [
-    [
       "2026-02-04, 19:26:08",
       "https://news.ycombinator.com/item?id=46890418"
     ],
@@ -81,32 +91,12 @@
   ],
   [
     [
-      "2026-02-04, 19:12:28",
-      "https://news.ycombinator.com/item?id=46890261"
-    ],
-    [
-      "Turn any website into a live, structured data feed",
-      "https://www.meter.sh/"
-    ]
-  ],
-  [
-    [
       "2026-02-04, 18:34:08",
       "https://news.ycombinator.com/item?id=46889703"
     ],
     [
       "Claude Code for Infrastructure",
       "https://www.fluid.sh/"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 17:49:26",
-      "https://news.ycombinator.com/item?id=46889008"
-    ],
-    [
-      "The Great Unwind",
-      "https://occupywallst.com/yen"
     ]
   ],
   [
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2026-02-04, 14:46:46",
-      "https://news.ycombinator.com/item?id=46886440"
-    ],
-    [
-      "A case study in PDF forensics: The Epstein PDFs",
-      "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/"
-    ]
-  ],
-  [
-    [
       "2026-02-04, 14:33:33",
       "https://news.ycombinator.com/item?id=46886265"
     ],
@@ -237,6 +217,26 @@
     [
       "A sane but bull case on Clawdbot / OpenClaw",
       "https://brandon.wang/2026/clawdbot"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 01:55:42",
+      "https://news.ycombinator.com/item?id=46851518"
+    ],
+    [
+      "Show HN: Bunqueue – Job queue for Bun using SQLite instead of Redis",
+      "https://github.com/egeominotti/bunqueue"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 21:53:12",
+      "https://news.ycombinator.com/item?id=46849753"
+    ],
+    [
+      "Lily Programming Language",
+      "https://lily-lang.org"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-01-31, 17:14:01",
-      "https://news.ycombinator.com/item?id=46838511"
+      "2026-01-31, 23:01:18",
+      "https://news.ycombinator.com/item?id=46841776"
     ],
     [
-      "No More Hidden Changes: How MySQL 9.6 Transforms Foreign Key Management",
-      "https://blogs.oracle.com/mysql/no-more-hidden-changes-how-mysql-9-6-transforms-foreign-key-management"
+      "Secure erase for Samsung PM951 NVMe drive (2024)",
+      "https://peterbabic.dev/blog/how-not-to-securely-erase-nvme-drive/"
     ]
   ]
 ]
