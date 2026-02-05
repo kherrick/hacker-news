@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-05, 17:42:47",
+      "https://news.ycombinator.com/item?id=46902273"
+    ],
+    [
+      "Advancing finance with Claude Opus 4.6",
+      "https://claude.com/blog/opus-4-6-finance"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 17:38:53",
+      "https://news.ycombinator.com/item?id=46902223"
+    ],
+    [
+      "Claude Opus 4.6",
+      "https://www.anthropic.com/news/claude-opus-4-6"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 17:00:07",
       "https://news.ycombinator.com/item?id=46901768"
     ],
@@ -17,6 +37,16 @@
     [
       "European Commission Trials Matrix to Replace Teams",
       "https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 14:11:13",
+      "https://news.ycombinator.com/item?id=46899808"
+    ],
+    [
+      "CIA suddenly stops publishing, removes archives of The World Factbook",
+      "https://simonwillison.net/2026/Feb/5/the-world-factbook/"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2026-02-05, 03:39:43",
-      "https://news.ycombinator.com/item?id=46895388"
-    ],
-    [
-      "A few CPU hardware bugs",
-      "https://www.taricorp.net/2026/a-few-cpu-bugs/"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 03:38:26",
       "https://news.ycombinator.com/item?id=46895381"
     ],
@@ -137,16 +157,6 @@
     [
       "OpenClaw is what Apple intelligence should have been",
       "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 18:34:08",
-      "https://news.ycombinator.com/item?id=46889703"
-    ],
-    [
-      "Claude Code for Infrastructure",
-      "https://www.fluid.sh/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-02-01, 12:12:00",
-      "https://news.ycombinator.com/item?id=46845642"
-    ],
-    [
-      "Remarkable Pro Colors",
-      "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/"
-    ]
-  ],
-  [
-    [
       "2026-02-01, 10:56:42",
       "https://news.ycombinator.com/item?id=46845239"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-02-01, 07:36:54",
+      "https://news.ycombinator.com/item?id=46844301"
+    ],
+    [
+      "Fela Kuti First African to Get Grammys Lifetime Achievement Award",
+      "https://www.aljazeera.com/news/2026/2/1/fela-kuti-becomes-first-african-to-get-grammys-lifetime-achievement-award"
+    ]
+  ],
+  [
+    [
       "2026-01-31, 23:15:30",
       "https://news.ycombinator.com/item?id=46841897"
     ],
@@ -287,16 +297,6 @@
     [
       "Improving Unnesting of Complex Queries [pdf]",
       "https://15799.courses.cs.cmu.edu/spring2025/papers/11-unnesting/neumann-btw2025.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-01-31, 11:35:36",
-      "https://news.ycombinator.com/item?id=46835677"
-    ],
-    [
-      "Why S7 Scheme? (2020)",
-      "https://iainctduncan.github.io/scheme-for-max-docs/s7.html"
     ]
   ]
 ]
