@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-05, 20:00:39",
+      "https://news.ycombinator.com/item?id=46904361"
+    ],
+    [
+      "LinkedIn checks for 2953 browser extensions",
+      "https://github.com/mdp/linkedin-extension-fingerprinting"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 19:29:41",
       "https://news.ycombinator.com/item?id=46903929"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2026-02-05, 19:07:51",
-      "https://news.ycombinator.com/item?id=46903616"
+      "2026-02-05, 19:04:40",
+      "https://news.ycombinator.com/item?id=46903558"
     ],
     [
-      "We tasked Opus 4.6 using agent teams to build a C Compiler",
-      "https://www.anthropic.com/engineering/building-c-compiler"
+      "My AI Adoption Journey",
+      "https://mitchellh.com/writing/my-ai-adoption-journey"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46903556"
     ],
     [
-      "Flock CEO calls Deflock a \"terrorist organization\" [video]",
+      "Flock CEO calls Deflock a \"terrorist organization\" [video] (2025)",
       "https://www.youtube.com/watch?v=l-kZGrDz7PU"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "GPT-5.3-Codex",
       "https://openai.com/index/introducing-gpt-5-3-codex/"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 18:00:07",
-      "https://news.ycombinator.com/item?id=46902512"
-    ],
-    [
-      "Unsealed court documents show teen addiction was big tech's \"top priority\"",
-      "https://techoversight.org/2026/01/25/top-report-mdl-jan-25/"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-02-02, 12:07:46",
-      "https://news.ycombinator.com/item?id=46855057"
+      "2026-02-03, 07:03:34",
+      "https://news.ycombinator.com/item?id=46867526"
     ],
     [
-      "Making Ferrite Core Inductors at Home",
-      "https://danielmangum.com/posts/making-ferrite-core-inductors-home/"
+      "MenuetOS – a GUI OS that boots from a single floppy disk",
+      "https://www.menuetos.net/"
     ]
   ],
   [
