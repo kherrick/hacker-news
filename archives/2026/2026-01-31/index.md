@@ -28,6 +28,7 @@
 * [2026-01-31, 18:41:36](https://news.ycombinator.com/item?id=46839375) - [Google Cloud suspended my account for 2 years, only automated replies](https://news.ycombinator.com/item?id=46839375)
 * [2026-01-31, 18:27:36](https://news.ycombinator.com/item?id=46839215) - [Nintendo DS code editor and scriptable game engine](https://crl.io/ds-game-engine/)
 * [2026-01-31, 18:16:43](https://news.ycombinator.com/item?id=46839106) - [Guest Post from an Iranian](https://scottaaronson.blog/?p=9530)
+* [2026-01-31, 18:09:27](https://news.ycombinator.com/item?id=46839036) - [Improving Unnesting of Complex Queries [pdf]](https://15799.courses.cs.cmu.edu/spring2025/papers/11-unnesting/neumann-btw2025.pdf)
 * [2026-01-31, 18:03:32](https://news.ycombinator.com/item?id=46838981) - [Genode OS is a tool kit for building highly secure special-purpose OS](https://genode.org/about/index)
 * [2026-01-31, 18:00:14](https://news.ycombinator.com/item?id=46838946) - [Ask HN: Any real OpenClaw (Clawd Bot/Molt Bot) users? What's your experience?](https://news.ycombinator.com/item?id=46838946)
 * [2026-01-31, 17:47:46](https://news.ycombinator.com/item?id=46838834) - [A lot of the Moltbook stuff is fake](https://twitter.com/HumanHarlan/status/2017424292548673830)
