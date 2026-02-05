@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
 * [2026-01-31, 23:02:45](https://news.ycombinator.com/item?id=46841794) - [When will CSS Grid Lanes arrive?](https://webkit.org/blog/17758/when-will-css-grid-lanes-arrive-how-long-until-we-can-use-it/)
+* [2026-01-31, 23:01:18](https://news.ycombinator.com/item?id=46841776) - [Secure erase for Samsung PM951 NVMe drive (2024)](https://peterbabic.dev/blog/how-not-to-securely-erase-nvme-drive/)
 * [2026-01-31, 22:05:03](https://news.ycombinator.com/item?id=46841374) - [Swift is a more convenient Rust](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
 * [2026-01-31, 21:44:23](https://news.ycombinator.com/item?id=46841187) - [This Year in LLVM (2025)](https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html)
 * [2026-01-31, 21:16:46](https://news.ycombinator.com/item?id=46840938) - [Best of Moltbook](https://www.astralcodexten.com/p/best-of-moltbook)
