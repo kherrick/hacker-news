@@ -32,6 +32,7 @@
 * [2026-02-03, 16:29:34](https://news.ycombinator.com/item?id=46873138) - [Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust](https://github.com/j178/prek)
 * [2026-02-03, 16:29:13](https://news.ycombinator.com/item?id=46873133) - [Tadpole – A modular and extensible DSL built for web scraping](https://tadpolehq.com/)
 * [2026-02-03, 16:14:17](https://news.ycombinator.com/item?id=46872894) - [X offices raided. French prosecutors investigate child abuse images & deepfakes](https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc)
+* [2026-02-03, 16:13:23](https://news.ycombinator.com/item?id=46872881) - [The Oklahoma Architect Who Turned Kitsch into Art](https://www.bloomberg.com/news/features/2026-01-31/oklahoma-architect-bruce-goff-s-wild-home-designs-turned-kitsch-into-art)
 * [2026-02-03, 16:09:07](https://news.ycombinator.com/item?id=46872818) - [Show HN: C discrete event SIM w stackful coroutines runs 45x faster than SimPy](https://github.com/ambonvik/cimba)
 * [2026-02-03, 16:03:21](https://news.ycombinator.com/item?id=46872733) - [Launch HN: Modelence (YC S25) – App Builder with TypeScript / MongoDB Framework](https://news.ycombinator.com/item?id=46872733)
 * [2026-02-03, 16:01:50](https://news.ycombinator.com/item?id=46872706) - [Qwen3-Coder-Next](https://qwen.ai/blog?id=qwen3-coder-next)
