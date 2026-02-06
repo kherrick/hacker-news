@@ -6,6 +6,7 @@
 
 * [2026-02-06, 19:27:37](https://news.ycombinator.com/item?id=46917033) - [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
 * [2026-02-06, 19:20:53](https://news.ycombinator.com/item?id=46916961) - [Man who videotaped himself BASE jumping in Yosemite arrested. He says it was AI](https://www.latimes.com/california/story/2026-02-05/man-videotaped-himself-base-jumping-in-yosemite-federal-officials-say-he-says-it-was-ai)
+* [2026-02-06, 18:49:59](https://news.ycombinator.com/item?id=46916586) - [How to effectively write quality code with AI](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 * [2026-02-06, 17:29:39](https://news.ycombinator.com/item?id=46915646) - [Uber Found Liable in Rape by Driver, Setting Stage for Cases](https://www.nytimes.com/2026/02/05/business/uber-safety-rape-verdict.html)
 * [2026-02-06, 17:24:32](https://news.ycombinator.com/item?id=46915587) - [Bits About Money: Fraud Investigation Is Believing Your Lying Eyes](https://www.bitsaboutmoney.com/archive/fraud-investigation/)
 * [2026-02-06, 16:34:39](https://news.ycombinator.com/item?id=46914974) - [Show HN: Daily-updated database of malicious browser extensions](https://github.com/toborrm9/malicious_extension_sentry)
