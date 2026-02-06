@@ -12,6 +12,7 @@
 * [2026-02-04, 21:13:17](https://news.ycombinator.com/item?id=46891860) - [We built a real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/)
 * [2026-02-04, 21:10:55](https://news.ycombinator.com/item?id=46891827) - [Show HN: Morph – Videos of AI testing your PR, embedded in GitHub](https://morphllm.com/products/glance)
 * [2026-02-04, 21:08:35](https://news.ycombinator.com/item?id=46891794) - [Spotlighting the World Factbook as We Bid a Fond Farewell](https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/)
+* [2026-02-04, 20:59:29](https://news.ycombinator.com/item?id=46891689) - [Claude Composer](https://www.josh.ing/blog/claude-composer)
 * [2026-02-04, 20:33:35](https://news.ycombinator.com/item?id=46891290) - [Show HN: Interactive California Budget (By Claude Code)](https://california-budget.com)
 * [2026-02-04, 20:23:54](https://news.ycombinator.com/item?id=46891131) - [The Codex app is cool, and it illustrates the shift left of IDEs and coding GUIs](https://www.benshoemaker.us/writing/codex-app-launch/)
 * [2026-02-04, 20:06:00](https://news.ycombinator.com/item?id=46890899) - [Technocracy 2.0](https://brooklynrail.org/2026/02/field-notes/technocracy-2-0/)
