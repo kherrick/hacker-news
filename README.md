@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-06, 15:34:45](https://news.ycombinator.com/item?id=46914094) - [NIMBYs Aren't Just Shutting Down Housing](https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing)
-* [2026-02-06, 15:20:23](https://news.ycombinator.com/item?id=46913903) - [An Update on Heroku](https://www.heroku.com/blog/an-update-on-heroku/)
 * [2026-02-06, 15:13:04](https://news.ycombinator.com/item?id=46913793) - [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
-* [2026-02-06, 14:24:57](https://news.ycombinator.com/item?id=46913201) - [Wall Street just lost $285B because of 13 Markdown files](https://martinalderson.com/posts/wall-street-lost-285-billion-because-of-13-markdown-files/)
 * [2026-02-06, 13:49:55](https://news.ycombinator.com/item?id=46912800) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-06, 13:48:01](https://news.ycombinator.com/item?id=46912781) - [LLMs could be, but shouldn't be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/)
 * [2026-02-06, 12:16:43](https://news.ycombinator.com/item?id=46911901) - [I now assume that all ads on Apple news are scams](https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/)
@@ -15,6 +13,7 @@
 * [2026-02-06, 04:12:59](https://news.ycombinator.com/item?id=46909037) - [Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust](https://github.com/artifact-keeper)
 * [2026-02-06, 03:19:28](https://news.ycombinator.com/item?id=46908650) - [Solving Shrinkwrap: New Experimental Technique](https://kizu.dev/shrinkwrap-solution/)
 * [2026-02-05, 23:29:18](https://news.ycombinator.com/item?id=46906947) - [The RCE that AMD won't fix](https://mrbruh.com/amd/)
+* [2026-02-05, 20:20:04](https://news.ycombinator.com/item?id=46904645) - [Animated Engines](https://animatedengines.com/)
 * [2026-02-05, 19:29:41](https://news.ycombinator.com/item?id=46903929) - [The time I didn't meet Jeffrey Epstein](https://scottaaronson.blog/?p=9534)
 * [2026-02-05, 19:07:51](https://news.ycombinator.com/item?id=46903616) - [We tasked Opus 4.6 using agent teams to build a C Compiler](https://www.anthropic.com/engineering/building-c-compiler)
 * [2026-02-05, 19:04:40](https://news.ycombinator.com/item?id=46903558) - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
@@ -27,9 +26,10 @@
 * [2026-02-03, 08:41:19](https://news.ycombinator.com/item?id=46868275) - [Coding Agents and Use Cases](https://justsitandgrin.im/posts/coding-agents-use-cases/)
 * [2026-02-03, 06:53:23](https://news.ycombinator.com/item?id=46867446) - [Stay Away from My Trash](https://tldraw.dev/blog/stay-away-from-my-trash)
 * [2026-02-03, 06:26:01](https://news.ycombinator.com/item?id=46867271) - [Plasma Effect (2016)](https://www.4rknova.com/blog/2016/11/01/plasma)
-* [2026-02-02, 14:55:50](https://news.ycombinator.com/item?id=46856722) - [The rise of one-pizza engineering teams](https://www.jampa.dev/p/the-rise-of-one-pizza-engineering)
+* [2026-02-03, 02:55:38](https://news.ycombinator.com/item?id=46865849) - [How to carry more than your own bodyweight (2025)](https://www.bbc.com/future/article/20250124-how-to-carry-more-than-your-own-bodyweight)
 * [2026-02-02, 13:18:05](https://news.ycombinator.com/item?id=46855697) - [Animated Knots](https://www.animatedknots.com/)
 * [2026-02-02, 09:42:12](https://news.ycombinator.com/item?id=46854128) - [Nixie-clock using neon lamps as logic elements (2007)](https://www.pa3fwm.nl/projects/neonclock/)
+* [2026-02-02, 07:05:56](https://news.ycombinator.com/item?id=46853261) - [Unlocking high-performance PostgreSQL with key memory optimizations](https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations)
 
 ## [Archives](archives/index.md)
 
