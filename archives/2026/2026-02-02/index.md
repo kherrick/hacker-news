@@ -50,6 +50,7 @@
 * [2026-02-02, 09:18:09](https://news.ycombinator.com/item?id=46853983) - [What Most People Miss About Getting Promoted – By Yue Zhao](https://news.theuncommonexecutive.com/p/what-most-people-miss-about-getting)
 * [2026-02-02, 08:59:40](https://news.ycombinator.com/item?id=46853888) - [EU launches government satcom program in sovereignty push](https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/)
 * [2026-02-02, 07:58:49](https://news.ycombinator.com/item?id=46853552) - [Library of Juggling](https://libraryofjuggling.com/)
+* [2026-02-02, 07:05:56](https://news.ycombinator.com/item?id=46853261) - [Unlocking high-performance PostgreSQL with key memory optimizations](https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations)
 * [2026-02-02, 05:10:59](https://news.ycombinator.com/item?id=46852660) - [Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce](https://www.wired.com/story/the-red-bull-leaks/)
 * [2026-02-02, 04:50:06](https://news.ycombinator.com/item?id=46852535) - [Why software stocks are getting pummelled](https://www.economist.com/business/2026/02/01/why-software-stocks-are-getting-pummelled)
 * [2026-02-02, 03:29:55](https://news.ycombinator.com/item?id=46852096) - [Apple's MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html)
