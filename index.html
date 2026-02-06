@@ -129,23 +129,141 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="46907350">
+        <section id="46908671">
           <h3>
-            <a class="item" href="https://faultlore.com/blah/c-isnt-a-language/"
-              >C Isn't a Language</a
+            <a class="item" href="https://vespalec.com/blog/tower-of-flaws/"
+              >I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit
+              never loaded</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-06 @ 00:15:55</span
+              <span>2026-02-06 @ 03:22:29</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46907350"
+                ><a href="https://news.ycombinator.com/item?id=46908671"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46906967">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel"
+              >Show HN: Local task classifier and dispatcher on RTX 3080</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-05 @ 23:31:01</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46906967"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                So i built Resilient Workflow Sentinel this is offline ai agent
+                which classify urgency (Low,Medium and HIgh) and dispatches to
+                the candidates based on availability Well i want an offline
+                system like a person can trust with its sensitive data to stay
+                completely locally
+              </p>
+              <p>Did use ai to code for speeding and cutting labor.</p>
+              <p>
+                Its works on RTX 3080 system (this is an basic affordable setup
+                not heavy ai machinery) which i want it to make it reliable
+                without heavy upgrade This is full system doesn't require
+                ollama(I am not against it)
+              </p>
+              <p>
+                I see in companies tickets are raised on jira and slack.
+                Currently people or manager (self) have to sort those things
+                either manually read one by one or send them to the cloud. But
+                the issue is you can't send everything like there is a lot of
+                sensitive data out there which they do not trust and makes it
+                harder and manual sorting through thousands is likely a
+                nightmare.
+              </p>
+              <p>
+                But then just imagine u get all the task classified like its
+                urgency and distribution u can selectively see which task is
+                urgent and needs immediate attention and last of all information
+                doesn't leave your building totally secure Also Api sending is
+                not the only issue u are paying per token cost for task for each
+                may be monthly 100$ to 1000$ which can like save hassle for
+                startup a lot or companies as well
+              </p>
+              <p>
+                There was several biases like positional bias also json out put
+                bias also have issues in attention At start i tried just
+                prompting things like Chain of thoughts,RISE(evaluate negative
+                first), given negative examples,Positive examples, somewhere it
+                was struggling with commonsense issue so examples for that
+                (Later changed the approach)
+              </p>
+              <p>
+                Well prompting did give the output and worked well but took too
+                much time to process for single task like 70 to 90secs for a
+                task
+              </p>
+              <p>
+                Then i tried batching and the biases got worst like it got
+                stronger it always use to like favour alice also more prompts
+                are like ignored and more
+              </p>
+              <p>
+                For json output i used constrain so model can only generate json
+                and if fails there is a as well parser i used when i implemented
+                prompting only
+              </p>
+              <p>
+                This reduce time from 90sec to nearly 15 to 30secs per task I
+                used steering vector to correct the attention i seen issues
+                happening
+              </p>
+              <p>
+                Stack: Language: Python 3.10 Model: qwen2.5-7b-instruct
+                Libraries: Pytorch, Hugging Face Transformers (No Langchain, No
+                Ollama) API: Fast API UI: NiceGUI Hardware: Ryzen 5, 16Gb ram
+                RTX 3080
+              </p>
+              <p>Implementation:</p>
+              <p>
+                Quantization: Load model in nf4 quantization so models like 7b
+                can fit on vram of 10gb which is on rtx 3080 also my hardware
+              </p>
+              <p>
+                Steering Vectors: Standard prompting wasn't enough. I need to
+                block or direct certain things on a certain layer of llm to make
+                it reliable.
+              </p>
+              <p>
+                Json Constraints: Used constraint to make model strictly give
+                json and also stop from over explanation this happens at logits
+                level where token are blocked which are not required etc
+              </p>
+              <p>
+                github :
+                <a
+                  href="https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel"
+                  >https://github.com/resilientworkflowsentinel/resilient-workf...</a
+                >
+              </p>
+              <p>
+                Youtube:
+                <a href="https://youtu.be/tky3eURLzWo"
+                  >https://youtu.be/tky3eURLzWo</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="46906947">
@@ -158,35 +276,45 @@
             <h4>
               <span>2026-02-05 @ 23:29:18</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46906947"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46906655">
+        <section id="46906737">
           <h3>
-            <a
-              class="item"
-              href="https://apnews.com/article/cuba-us-oil-power-outages-electricity-trump-ccab32796f7b57353adedc380181c68f"
-              >Cubans rendered powerless as outages persist and tensions with US
-              escalate</a
+            <a class="item" href="https://github.com/calf-ai/calfkit-sdk"
+              >Show HN: Calfkit – an SDK to build distributed, event-driven AI
+              agents on Kafka</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-05 @ 23:01:57</span
+              <span>2026-02-05 @ 23:10:12</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46906655"
+                ><a href="https://news.ycombinator.com/item?id=46906737"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                Calfkit breaks down agents into independent services (LLM
+                inference, tools, and routing) that communicate asynchronously
+                through Kafka. Agents, tool services, and downstream consumers
+                can be deployed, added-to, removed, and scaled independently.
+              </p>
+              <p>
+                Check it out if this interests you! I’m curious to see what
+                y’all think.
+              </p>
+            </div>
           </section>
         </section>
         <section id="46905896">
@@ -194,19 +322,18 @@
             <a
               class="item"
               href="https://blog.janestreet.com/the-joy-of-expect-tests/"
-              >Jane Street Blog – What if writing tests was a joyful
-              experience?</a
+              >What if writing tests was a joyful experience? (2023)</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-02-05 @ 21:51:51</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46905896"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -221,11 +348,11 @@
             <h4>
               <span>2026-02-05 @ 21:39:57</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46905761"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -242,11 +369,11 @@
             <h4>
               <span>2026-02-05 @ 21:24:03</span
               ><span class="points-container"
-                >Points: <span class="points">466</span></span
+                >Points: <span class="points">470</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46905555"
                   >Comments</a
-                ><span class="descendants">: 263</span></span
+                ><span class="descendants">: 283</span></span
               >
             </h4>
           </section>
@@ -263,11 +390,11 @@
             <h4>
               <span>2026-02-05 @ 20:15:48</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46904569"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -284,11 +411,11 @@
             <h4>
               <span>2026-02-05 @ 20:00:39</span
               ><span class="points-container"
-                >Points: <span class="points">323</span></span
+                >Points: <span class="points">343</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46904361"
                   >Comments</a
-                ><span class="descendants">: 156</span></span
+                ><span class="descendants">: 171</span></span
               >
             </h4>
           </section>
@@ -305,11 +432,11 @@
             <h4>
               <span>2026-02-05 @ 19:07:51</span
               ><span class="points-container"
-                >Points: <span class="points">402</span></span
+                >Points: <span class="points">450</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46903616"
                   >Comments</a
-                ><span class="descendants">: 388</span></span
+                ><span class="descendants">: 413</span></span
               >
             </h4>
           </section>
@@ -326,11 +453,11 @@
             <h4>
               <span>2026-02-05 @ 19:04:40</span
               ><span class="points-container"
-                >Points: <span class="points">387</span></span
+                >Points: <span class="points">444</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46903558"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 123</span></span
               >
             </h4>
           </section>
@@ -346,49 +473,11 @@
             <h4>
               <span>2026-02-05 @ 19:04:37</span
               ><span class="points-container"
-                >Points: <span class="points">524</span></span
+                >Points: <span class="points">568</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46903556"
                   >Comments</a
-                ><span class="descendants">: 364</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46903001">
-          <h3>
-            <a class="item" href="https://ardour.org/whatsnew.html"
-              >Ardour 9.0</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-05 @ 18:30:16</span
-              ><span class="points-container"
-                >Points: <span class="points">247</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46903001"
-                  >Comments</a
-                ><span class="descendants">: 57</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46902789">
-          <h3>
-            <a class="item" href="https://github.com/PsiACE/skills"
-              >PsiACE/Skills – A small, shared skill library</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-05 @ 18:17:14</span
-              ><span class="points-container"
-                >Points: <span class="points">47</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46902789"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 392</span></span
               >
             </h4>
           </section>
@@ -405,11 +494,11 @@
             <h4>
               <span>2026-02-05 @ 18:08:08</span
               ><span class="points-container"
-                >Points: <span class="points">1097</span></span
+                >Points: <span class="points">1162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46902638"
                   >Comments</a
-                ><span class="descendants">: 418</span></span
+                ><span class="descendants">: 445</span></span
               >
             </h4>
           </section>
@@ -424,11 +513,11 @@
             <h4>
               <span>2026-02-05 @ 17:49:54</span
               ><span class="points-container"
-                >Points: <span class="points">317</span></span
+                >Points: <span class="points">330</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46902368"
                   >Comments</a
-                ><span class="descendants">: 177</span></span
+                ><span class="descendants">: 185</span></span
               >
             </h4>
           </section>
@@ -445,11 +534,11 @@
             <h4>
               <span>2026-02-05 @ 17:38:53</span
               ><span class="points-container"
-                >Points: <span class="points">1656</span></span
+                >Points: <span class="points">1732</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46902223"
                   >Comments</a
-                ><span class="descendants">: 706</span></span
+                ><span class="descendants">: 738</span></span
               >
             </h4>
           </section>
@@ -472,61 +561,23 @@
             </h4>
           </section>
         </section>
-        <section id="46899591">
+        <section id="46901716">
           <h3>
             <a
               class="item"
-              href="https://www.collaboraonline.com/collabora-office/"
-              >The New Collabora Office for Desktop</a
+              href="https://blog.sturdystatistics.com/posts/hnet_part_I/"
+              >Hypernetworks: Neural Networks for Hierarchical Data</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-05 @ 13:47:59</span
+              <span>2026-02-05 @ 16:55:38</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46899591"
+                ><a href="https://news.ycombinator.com/item?id=46901716"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46899132">
-          <h3>
-            <a class="item" href="https://blog.42futures.com/p/company-as-code"
-              >Company as Code</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-05 @ 12:56:28</span
-              ><span class="points-container"
-                >Points: <span class="points">224</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46899132"
-                  >Comments</a
-                ><span class="descendants">: 114</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46897737">
-          <h3>
-            <a class="item" href="https://github.com/HKUDS/nanobot"
-              >Nanobot: Ultra-Lightweight Alternative to OpenClaw</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-05 @ 09:39:11</span
-              ><span class="points-container"
-                >Points: <span class="points">226</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46897737"
-                  >Comments</a
-                ><span class="descendants">: 114</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -541,11 +592,11 @@
             <h4>
               <span>2026-02-05 @ 05:50:01</span
               ><span class="points-container"
-                >Points: <span class="points">1096</span></span
+                >Points: <span class="points">1109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46896146"
                   >Comments</a
-                ><span class="descendants">: 457</span></span
+                ><span class="descendants">: 461</span></span
               >
             </h4>
           </section>
@@ -562,11 +613,11 @@
             <h4>
               <span>2026-02-04 @ 19:19:07</span
               ><span class="points-container"
-                >Points: <span class="points">237</span></span
+                >Points: <span class="points">279</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46890335"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -581,11 +632,11 @@
             <h4>
               <span>2026-02-03 @ 07:03:34</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46867526"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -600,11 +651,32 @@
             <h4>
               <span>2026-02-02 @ 13:18:05</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46855697"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 16</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46852069">
+          <h3>
+            <a
+              class="item"
+              href="https://worrydream.com/refs/Housman_1892_-_Introductory_Lecture.html"
+              >Housman's Introductory Lecture (1892)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-02 @ 03:24:29</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46852069"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -621,11 +693,11 @@
             <h4>
               <span>2026-02-01 @ 16:31:16</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46847297"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -642,11 +714,11 @@
             <h4>
               <span>2026-02-01 @ 11:58:12</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46845567"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -664,11 +736,51 @@
             <h4>
               <span>2026-02-01 @ 11:06:29</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46845296"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 29</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46845135">
+          <h3>
+            <a class="item" href="https://www.atomic14.com/2026/02/01/pong-cam"
+              >Pong Cam – My ESP32S3 Thinks It's a WebCam</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-01 @ 10:36:56</span
+              ><span class="points-container"
+                >Points: <span class="points">39</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46845135"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46844391">
+          <h3>
+            <a
+              class="item"
+              href="https://evan-moon.github.io/2020/05/21/about-cors/en/"
+              >You Still Struggle with CORS Even After Reading Docs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-01 @ 07:57:52</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46844391"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -686,7 +798,7 @@
             <h4>
               <span>2026-02-01 @ 07:36:54</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46844301"
                   >Comments</a
@@ -707,7 +819,7 @@
             <h4>
               <span>2026-01-31 @ 23:44:15</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46842090"
                   >Comments</a
@@ -728,7 +840,7 @@
             <h4>
               <span>2026-01-31 @ 23:15:30</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46841897"
                   >Comments</a
