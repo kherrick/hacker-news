@@ -6,6 +6,7 @@
 
 * [2026-02-06, 17:29:39](https://news.ycombinator.com/item?id=46915646) - [Uber Found Liable in Rape by Driver, Setting Stage for Cases](https://www.nytimes.com/2026/02/05/business/uber-safety-rape-verdict.html)
 * [2026-02-06, 17:24:32](https://news.ycombinator.com/item?id=46915587) - [Bits About Money: Fraud Investigation Is Believing Your Lying Eyes](https://www.bitsaboutmoney.com/archive/fraud-investigation/)
+* [2026-02-06, 16:34:39](https://news.ycombinator.com/item?id=46914974) - [Show HN: Daily-updated database of malicious browser extensions](https://github.com/toborrm9/malicious_extension_sentry)
 * [2026-02-06, 16:20:42](https://news.ycombinator.com/item?id=46914785) - [The Waymo World Model: A New Frontier for Autonomous Driving Simulation](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
 * [2026-02-06, 15:40:42](https://news.ycombinator.com/item?id=46914159) - [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
 * [2026-02-06, 15:34:45](https://news.ycombinator.com/item?id=46914094) - [NIMBYs Aren't Just Shutting Down Housing](https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing)

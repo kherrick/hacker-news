@@ -50,6 +50,7 @@
 * [2026-02-03, 14:09:10](https://news.ycombinator.com/item?id=46871169) - [Decentralizing My Smartphone with Single Purpose Devices](https://ambertherambler.bearblog.dev/decentralizing-my-smartphone-with-single-purpose-devices/)
 * [2026-02-03, 13:47:24](https://news.ycombinator.com/item?id=46870917) - [Show HN: difi – A Git diff TUI with Neovim integration (written in Go)](https://github.com/oug-t/difi)
 * [2026-02-03, 13:32:06](https://news.ycombinator.com/item?id=46870751) - [KDE Plasma Login Manager Won't Support systemd-Free Linux or BSD Systems](https://forums.FreeBSD.org/threads/kde-plasma-login-manager-wont-support-systemd-free-linux-or-bsd-systems.101393/)
+* [2026-02-03, 13:07:37](https://news.ycombinator.com/item?id=46870514) - [Learning from context is harder than we thought](https://hy.tencent.com/research/100025?langVersion=en)
 * [2026-02-03, 13:06:19](https://news.ycombinator.com/item?id=46870501) - [The browser catches homograph attacks, the terminal doesn't](https://github.com/sheeki03/tirith)
 * [2026-02-03, 12:23:12](https://news.ycombinator.com/item?id=46870113) - [Lead in archived hair documents a decline in lead exposure to humans after EPA](https://www.pnas.org/doi/10.1073/pnas.2525498123)
 * [2026-02-03, 12:13:44](https://news.ycombinator.com/item?id=46870015) - [Bunny Database](https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/)
