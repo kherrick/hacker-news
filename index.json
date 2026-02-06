@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-02-06, 00:15:55",
-      "https://news.ycombinator.com/item?id=46907350"
+      "2026-02-06, 03:22:29",
+      "https://news.ycombinator.com/item?id=46908671"
     ],
     [
-      "C Isn't a Language",
-      "https://faultlore.com/blah/c-isnt-a-language/"
+      "I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded",
+      "https://vespalec.com/blog/tower-of-flaws/"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 23:31:01",
+      "https://news.ycombinator.com/item?id=46906967"
+    ],
+    [
+      "Show HN: Local task classifier and dispatcher on RTX 3080",
+      "https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel"
     ]
   ],
   [
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2026-02-05, 23:01:57",
-      "https://news.ycombinator.com/item?id=46906655"
+      "2026-02-05, 23:10:12",
+      "https://news.ycombinator.com/item?id=46906737"
     ],
     [
-      "Cubans rendered powerless as outages persist and tensions with US escalate",
-      "https://apnews.com/article/cuba-us-oil-power-outages-electricity-trump-ccab32796f7b57353adedc380181c68f"
+      "Show HN: Calfkit – an SDK to build distributed, event-driven AI agents on Kafka",
+      "https://github.com/calf-ai/calfkit-sdk"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=46905896"
     ],
     [
-      "Jane Street Blog – What if writing tests was a joyful experience?",
+      "What if writing tests was a joyful experience? (2023)",
       "https://blog.janestreet.com/the-joy-of-expect-tests/"
     ]
   ],
@@ -111,26 +121,6 @@
   ],
   [
     [
-      "2026-02-05, 18:30:16",
-      "https://news.ycombinator.com/item?id=46903001"
-    ],
-    [
-      "Ardour 9.0",
-      "https://ardour.org/whatsnew.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 18:17:14",
-      "https://news.ycombinator.com/item?id=46902789"
-    ],
-    [
-      "PsiACE/Skills – A small, shared skill library",
-      "https://github.com/PsiACE/skills"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 18:08:08",
       "https://news.ycombinator.com/item?id=46902638"
     ],
@@ -171,32 +161,12 @@
   ],
   [
     [
-      "2026-02-05, 13:47:59",
-      "https://news.ycombinator.com/item?id=46899591"
+      "2026-02-05, 16:55:38",
+      "https://news.ycombinator.com/item?id=46901716"
     ],
     [
-      "The New Collabora Office for Desktop",
-      "https://www.collaboraonline.com/collabora-office/"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 12:56:28",
-      "https://news.ycombinator.com/item?id=46899132"
-    ],
-    [
-      "Company as Code",
-      "https://blog.42futures.com/p/company-as-code"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 09:39:11",
-      "https://news.ycombinator.com/item?id=46897737"
-    ],
-    [
-      "Nanobot: Ultra-Lightweight Alternative to OpenClaw",
-      "https://github.com/HKUDS/nanobot"
+      "Hypernetworks: Neural Networks for Hierarchical Data",
+      "https://blog.sturdystatistics.com/posts/hnet_part_I/"
     ]
   ],
   [
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2026-02-02, 03:24:29",
+      "https://news.ycombinator.com/item?id=46852069"
+    ],
+    [
+      "Housman's Introductory Lecture (1892)",
+      "https://worrydream.com/refs/Housman_1892_-_Introductory_Lecture.html"
+    ]
+  ],
+  [
+    [
       "2026-02-01, 16:31:16",
       "https://news.ycombinator.com/item?id=46847297"
     ],
@@ -267,6 +247,26 @@
     [
       "OpenClaw: When AI Agents Get Full System Access. Security nightmare?",
       "https://innfactory.ai:443/en/blog/openclaw-ai-agent-security/"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 10:36:56",
+      "https://news.ycombinator.com/item?id=46845135"
+    ],
+    [
+      "Pong Cam – My ESP32S3 Thinks It's a WebCam",
+      "https://www.atomic14.com/2026/02/01/pong-cam"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 07:57:52",
+      "https://news.ycombinator.com/item?id=46844391"
+    ],
+    [
+      "You Still Struggle with CORS Even After Reading Docs",
+      "https://evan-moon.github.io/2020/05/21/about-cors/en/"
     ]
   ],
   [
