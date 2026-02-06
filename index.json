@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-02-06, 00:15:55",
+      "https://news.ycombinator.com/item?id=46907350"
+    ],
+    [
+      "C Isn't a Language",
+      "https://faultlore.com/blah/c-isnt-a-language/"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 23:29:18",
+      "https://news.ycombinator.com/item?id=46906947"
+    ],
+    [
+      "The RCE that AMD won't fix",
+      "https://mrbruh.com/amd/"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 23:01:57",
       "https://news.ycombinator.com/item?id=46906655"
     ],
     [
       "Cubans rendered powerless as outages persist and tensions with US escalate",
       "https://apnews.com/article/cuba-us-oil-power-outages-electricity-trump-ccab32796f7b57353adedc380181c68f"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 21:51:51",
+      "https://news.ycombinator.com/item?id=46905896"
+    ],
+    [
+      "Jane Street Blog – What if writing tests was a joyful experience?",
+      "https://blog.janestreet.com/the-joy-of-expect-tests/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-02-05, 18:25:05",
-      "https://news.ycombinator.com/item?id=46902909"
-    ],
-    [
-      "Opus 4.6 uncovers 500 zero-day flaws in open-source code",
-      "https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 18:17:14",
       "https://news.ycombinator.com/item?id=46902789"
     ],
@@ -127,16 +147,6 @@
     [
       "Orchestrate teams of Claude Code sessions",
       "https://code.claude.com/docs/en/agent-teams"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 17:42:47",
-      "https://news.ycombinator.com/item?id=46902273"
-    ],
-    [
-      "Advancing finance with Claude Opus 4.6",
-      "https://claude.com/blog/opus-4-6-finance"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-02-05, 12:48:01",
-      "https://news.ycombinator.com/item?id=46899066"
-    ],
-    [
-      "GB Renewables Map",
-      "https://renewables-map.robinhawkes.com/"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 09:39:11",
       "https://news.ycombinator.com/item?id=46897737"
     ],
@@ -207,16 +207,6 @@
     [
       "Don't rent the cloud, own instead",
       "https://blog.comma.ai/datacenter/"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 05:22:36",
-      "https://news.ycombinator.com/item?id=46895972"
-    ],
-    [
-      "When internal hostnames are leaked to the clown",
-      "https://rachelbythebay.com/w/2026/02/03/badnas/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "There Will Come Soft Rains (1950) [pdf]",
       "https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 11:58:12",
+      "https://news.ycombinator.com/item?id=46845567"
+    ],
+    [
+      "Launching My Side Project as a Solo Dev: The Walkthrough",
+      "https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html"
     ]
   ],
   [
