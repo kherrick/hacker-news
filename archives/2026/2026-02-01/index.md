@@ -58,6 +58,7 @@
 * [2026-02-01, 12:13:22](https://news.ycombinator.com/item?id=46845650) - [Heritability of intrinsic human life span is about 50%](https://www.science.org/doi/10.1126/science.adz1187)
 * [2026-02-01, 12:12:00](https://news.ycombinator.com/item?id=46845642) - [Remarkable Pro Colors](https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/)
 * [2026-02-01, 12:06:17](https://news.ycombinator.com/item?id=46845617) - [Data Poems](https://dr.eamer.dev/datavis/poems/)
+* [2026-02-01, 11:58:12](https://news.ycombinator.com/item?id=46845567) - [Launching My Side Project as a Solo Dev: The Walkthrough](https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html)
 * [2026-02-01, 11:35:32](https://news.ycombinator.com/item?id=46845470) - [How to Scale a System from 0 to 10M+ Users](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users)
 * [2026-02-01, 11:18:05](https://news.ycombinator.com/item?id=46845375) - [Machinery and English Style (1904)](https://www.theatlantic.com/magazine/archive/1904/10/machinery-and-english-style/637506/)
 * [2026-02-01, 11:06:29](https://news.ycombinator.com/item?id=46845296) - [OpenClaw: When AI Agents Get Full System Access. Security nightmare?](https://innfactory.ai:443/en/blog/openclaw-ai-agent-security/)
