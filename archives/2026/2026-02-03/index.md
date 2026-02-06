@@ -40,6 +40,7 @@
 * [2026-02-03, 15:47:10](https://news.ycombinator.com/item?id=46872465) - [A sane but bull case on Clawdbot / OpenClaw](https://brandon.wang/2026/clawdbot)
 * [2026-02-03, 15:31:40](https://news.ycombinator.com/item?id=46872238) - [The next steps for Airbus' big bet on open rotor engines](https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/)
 * [2026-02-03, 15:28:59](https://news.ycombinator.com/item?id=46872190) - [Data Brokers Can Fuel Violence Against Public Servants](https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/)
+* [2026-02-03, 14:49:11](https://news.ycombinator.com/item?id=46871654) - [Understanding Neural Network, Visually](https://visualrambling.space/neural-network/)
 * [2026-02-03, 14:38:26](https://news.ycombinator.com/item?id=46871504) - [A WhatsApp bug lets malicious media files spread through group chats](https://www.malwarebytes.com/blog/news/2026/01/a-whatsapp-bug-lets-malicious-media-files-spread-through-group-chats)
 * [2026-02-03, 14:35:25](https://news.ycombinator.com/item?id=46871473) - [GitHub Browser Plugin for AI Contribution Blame in Pull Requests](https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/)
 * [2026-02-03, 14:28:01](https://news.ycombinator.com/item?id=46871387) - [Show HN: Sandboxing untrusted code using WebAssembly](https://github.com/mavdol/capsule)
