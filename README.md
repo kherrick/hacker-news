@@ -7,7 +7,6 @@
 * [2026-02-06, 03:25:51](https://news.ycombinator.com/item?id=46908700) - [Waiting for Postgres 19: Better planner hints with path generation strategies [video]](https://www.youtube.com/watch?v=QLb3nhIy2Lc)
 * [2026-02-06, 03:22:29](https://news.ycombinator.com/item?id=46908671) - [I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded](https://vespalec.com/blog/tower-of-flaws/)
 * [2026-02-06, 02:58:31](https://news.ycombinator.com/item?id=46908491) - [GitHub Actions is slowly killing engineering teams](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)
-* [2026-02-05, 23:31:01](https://news.ycombinator.com/item?id=46906967) - [Show HN: Local task classifier and dispatcher on RTX 3080](https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel)
 * [2026-02-05, 23:29:18](https://news.ycombinator.com/item?id=46906947) - [The RCE that AMD won't fix](https://mrbruh.com/amd/)
 * [2026-02-05, 21:51:51](https://news.ycombinator.com/item?id=46905896) - [What if writing tests was a joyful experience? (2023)](https://blog.janestreet.com/the-joy-of-expect-tests/)
 * [2026-02-05, 21:39:57](https://news.ycombinator.com/item?id=46905761) - [Review of 1984 by Isaac Asimov (1980)](https://www.newworker.org/ncptrory/1984.htm)
@@ -28,6 +27,7 @@
 * [2026-02-03, 07:03:34](https://news.ycombinator.com/item?id=46867526) - [MenuetOS – a GUI OS that boots from a single floppy disk](https://www.menuetos.net/)
 * [2026-02-03, 06:53:23](https://news.ycombinator.com/item?id=46867446) - [Stay Away from My Trash](https://tldraw.dev/blog/stay-away-from-my-trash)
 * [2026-02-03, 02:55:38](https://news.ycombinator.com/item?id=46865849) - [How to carry more than your own bodyweight (2025)](https://www.bbc.com/future/article/20250124-how-to-carry-more-than-your-own-bodyweight)
+* [2026-02-02, 22:38:47](https://news.ycombinator.com/item?id=46863021) - [The Color of Safety](https://protocolized.summerofprotocols.com/p/the-color-of-safety)
 * [2026-02-02, 13:18:05](https://news.ycombinator.com/item?id=46855697) - [Animated Knots](https://www.animatedknots.com/)
 * [2026-02-02, 07:05:56](https://news.ycombinator.com/item?id=46853261) - [Unlocking high-performance PostgreSQL with key memory optimizations](https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations)
 
