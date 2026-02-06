@@ -35,6 +35,7 @@
 * [2026-02-02, 15:14:36](https://news.ycombinator.com/item?id=46856928) - [Greenland tensions harden Europe's push for energy independence](https://www.ft.com/content/e9c90df9-ee03-4c51-bbd3-dad45e212961)
 * [2026-02-02, 15:12:39](https://news.ycombinator.com/item?id=46856899) - [Show HN: Stelvio – Ship Python to AWS](https://stelvio.dev/)
 * [2026-02-02, 15:08:52](https://news.ycombinator.com/item?id=46856854) - [Waymo Seeking About $16B Near $110B Valuation](https://www.bloomberg.com/news/articles/2026-01-31/waymo-seeking-about-16-billion-near-110-billion-valuation)
+* [2026-02-02, 14:55:50](https://news.ycombinator.com/item?id=46856722) - [The rise of one-pizza engineering teams](https://www.jampa.dev/p/the-rise-of-one-pizza-engineering)
 * [2026-02-02, 13:29:13](https://news.ycombinator.com/item?id=46855803) - [Geologists may have solved mystery of Green River's 'uphill' route](https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html)
 * [2026-02-02, 13:18:05](https://news.ycombinator.com/item?id=46855697) - [Animated Knots](https://www.animatedknots.com/)
 * [2026-02-02, 13:11:52](https://news.ycombinator.com/item?id=46855640) - [AdBoost: A Browser Extension That Adds Ads To Every Webpage](https://github.com/surprisetalk/AdBoost)
