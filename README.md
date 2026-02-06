@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-06, 15:34:45](https://news.ycombinator.com/item?id=46914094) - [NIMBYs Aren't Just Shutting Down Housing](https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing)
+* [2026-02-06, 16:20:42](https://news.ycombinator.com/item?id=46914785) - [The Waymo World Model: A New Frontier for Autonomous Driving Simulation](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
 * [2026-02-06, 15:13:04](https://news.ycombinator.com/item?id=46913793) - [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
 * [2026-02-06, 13:49:55](https://news.ycombinator.com/item?id=46912800) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-06, 13:48:01](https://news.ycombinator.com/item?id=46912781) - [LLMs could be, but shouldn't be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/)
@@ -26,7 +26,7 @@
 * [2026-02-03, 08:41:19](https://news.ycombinator.com/item?id=46868275) - [Coding Agents and Use Cases](https://justsitandgrin.im/posts/coding-agents-use-cases/)
 * [2026-02-03, 06:53:23](https://news.ycombinator.com/item?id=46867446) - [Stay Away from My Trash](https://tldraw.dev/blog/stay-away-from-my-trash)
 * [2026-02-03, 06:26:01](https://news.ycombinator.com/item?id=46867271) - [Plasma Effect (2016)](https://www.4rknova.com/blog/2016/11/01/plasma)
-* [2026-02-03, 02:55:38](https://news.ycombinator.com/item?id=46865849) - [How to carry more than your own bodyweight (2025)](https://www.bbc.com/future/article/20250124-how-to-carry-more-than-your-own-bodyweight)
+* [2026-02-02, 20:02:26](https://news.ycombinator.com/item?id=46860623) - [The Monad Called Free](http://blog.sigfpe.com/2014/04/the-monad-called-free.html)
 * [2026-02-02, 13:18:05](https://news.ycombinator.com/item?id=46855697) - [Animated Knots](https://www.animatedknots.com/)
 * [2026-02-02, 09:42:12](https://news.ycombinator.com/item?id=46854128) - [Nixie-clock using neon lamps as logic elements (2007)](https://www.pa3fwm.nl/projects/neonclock/)
 * [2026-02-02, 07:05:56](https://news.ycombinator.com/item?id=46853261) - [Unlocking high-performance PostgreSQL with key memory optimizations](https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations)

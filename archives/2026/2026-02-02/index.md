@@ -14,6 +14,7 @@
 * [2026-02-02, 21:28:16](https://news.ycombinator.com/item?id=46861842) - [GitHub experience various partial-outages/degradations](https://www.githubstatus.com?todayis=2026-02-02)
 * [2026-02-02, 20:48:55](https://news.ycombinator.com/item?id=46861313) - [Anki ownership transferred to AnkiHub](https://forums.ankiweb.net/t/ankis-growing-up/68610)
 * [2026-02-02, 20:25:41](https://news.ycombinator.com/item?id=46860964) - [Nvidia shares are down after report that its OpenAI investment stalled](https://www.cnbc.com/2026/02/02/nvidia-stock-price-openai-funding.html)
+* [2026-02-02, 20:02:26](https://news.ycombinator.com/item?id=46860623) - [The Monad Called Free](http://blog.sigfpe.com/2014/04/the-monad-called-free.html)
 * [2026-02-02, 19:59:30](https://news.ycombinator.com/item?id=46860566) - [Stelvio: Ship Python to AWS](https://github.com/stelviodev/stelvio)
 * [2026-02-02, 18:31:36](https://news.ycombinator.com/item?id=46859443) - [The largest number representable in 64 bits](https://tromp.github.io/blog/2026/01/28/largest-number-revised)
 * [2026-02-02, 18:31:28](https://news.ycombinator.com/item?id=46859438) - [Parking lots as economic drains](https://progressandpoverty.substack.com/p/stop-incentivizing-surface-parking)
