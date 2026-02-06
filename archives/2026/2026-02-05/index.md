@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-05](index.md)
 
+* [2026-02-05, 23:31:01](https://news.ycombinator.com/item?id=46906967) - [Show HN: Local task classifier and dispatcher on RTX 3080](https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel)
 * [2026-02-05, 23:29:18](https://news.ycombinator.com/item?id=46906947) - [The RCE that AMD won't fix](https://mrbruh.com/amd/)
+* [2026-02-05, 23:10:12](https://news.ycombinator.com/item?id=46906737) - [Show HN: Calfkit – an SDK to build distributed, event-driven AI agents on Kafka](https://github.com/calf-ai/calfkit-sdk)
 * [2026-02-05, 23:01:57](https://news.ycombinator.com/item?id=46906655) - [Cubans rendered powerless as outages persist and tensions with US escalate](https://apnews.com/article/cuba-us-oil-power-outages-electricity-trump-ccab32796f7b57353adedc380181c68f)
 * [2026-02-05, 21:51:51](https://news.ycombinator.com/item?id=46905896) - [Jane Street Blog – What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/)
 * [2026-02-05, 21:39:57](https://news.ycombinator.com/item?id=46905761) - [Review of 1984 by Isaac Asimov (1980)](https://www.newworker.org/ncptrory/1984.htm)

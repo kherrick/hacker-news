@@ -54,6 +54,7 @@
 * [2026-02-02, 04:50:06](https://news.ycombinator.com/item?id=46852535) - [Why software stocks are getting pummelled](https://www.economist.com/business/2026/02/01/why-software-stocks-are-getting-pummelled)
 * [2026-02-02, 03:29:55](https://news.ycombinator.com/item?id=46852096) - [Apple's MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html)
 * [2026-02-02, 03:25:31](https://news.ycombinator.com/item?id=46852073) - [ICE protester says her Global Entry was revoked after agent scanned her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/)
+* [2026-02-02, 03:24:29](https://news.ycombinator.com/item?id=46852069) - [Housman's Introductory Lecture (1892)](https://worrydream.com/refs/Housman_1892_-_Introductory_Lecture.html)
 * [2026-02-02, 03:02:55](https://news.ycombinator.com/item?id=46851922) - [Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy](https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/)
 * [2026-02-02, 01:59:56](https://news.ycombinator.com/item?id=46851548) - [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)
 * [2026-02-02, 01:55:42](https://news.ycombinator.com/item?id=46851518) - [Show HN: Bunqueue – Job queue for Bun using SQLite instead of Redis](https://github.com/egeominotti/bunqueue)
