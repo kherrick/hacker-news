@@ -56,6 +56,7 @@
 * [2026-02-03, 11:05:32](https://news.ycombinator.com/item?id=46869401) - [Spain to ban social media access for under-16s, PM Sanchez says](https://www.reuters.com/world/spain-hold-social-media-executives-accountable-illegal-hateful-content-2026-02-03/)
 * [2026-02-03, 10:11:35](https://news.ycombinator.com/item?id=46869024) - [Sealos – AI Native Cloud Cloud Operating System](https://github.com/labring/sealos)
 * [2026-02-03, 10:08:52](https://news.ycombinator.com/item?id=46868998) - [Paris prosecutors raid France offices of Elon Musk's X](https://www.bbc.com/news/articles/ce3ex92557jo)
+* [2026-02-03, 09:43:36](https://news.ycombinator.com/item?id=46868803) - [DNS Explained – How Domain Names Get Resolved](https://www.bhusalmanish.com.np/blog/posts/dns-explained.html)
 * [2026-02-03, 09:37:40](https://news.ycombinator.com/item?id=46868759) - [What's up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
 * [2026-02-03, 09:30:07](https://news.ycombinator.com/item?id=46868675) - [Rentahuman – The Meatspace Layer for AI](https://rentahuman.ai)
 * [2026-02-03, 09:16:48](https://news.ycombinator.com/item?id=46868565) - [Claude Sonnet 5 Is Imminent – and It Could Be a Generation Ahead of Google](https://ucstrategies.com/news/claude-sonnet-5-is-imminent-and-it-could-be-a-generation-ahead-of-google/)

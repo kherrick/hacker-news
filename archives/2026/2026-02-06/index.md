@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-06](index.md)
 
+* [2026-02-06, 11:03:33](https://news.ycombinator.com/item?id=46911417) - [US Immigration on the Easiest Setting](https://pluralistic.net/2026/02/06/doge-ball/#n-600)
 * [2026-02-06, 10:26:16](https://news.ycombinator.com/item?id=46911170) - [Invention of DNA \"Page Numbers\" Opens Up Possibilities for the Bioeconomy](https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang)
 * [2026-02-06, 09:56:55](https://news.ycombinator.com/item?id=46910963) - [A new bill in New York would require disclaimers on AI-generated news content](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 * [2026-02-06, 05:29:55](https://news.ycombinator.com/item?id=46909468) - [Things Unix can do atomically](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
