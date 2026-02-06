@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-02-06, 14:33:22",
-      "https://news.ycombinator.com/item?id=46913302"
+      "2026-02-06, 15:34:45",
+      "https://news.ycombinator.com/item?id=46914094"
     ],
     [
-      "Amazon plunge continues $1T wipeout as AI bubble fears ignite sell-off",
-      "https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html"
+      "NIMBYs Aren't Just Shutting Down Housing",
+      "https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing"
+    ]
+  ],
+  [
+    [
+      "2026-02-06, 15:20:23",
+      "https://news.ycombinator.com/item?id=46913903"
+    ],
+    [
+      "An Update on Heroku",
+      "https://www.heroku.com/blog/an-update-on-heroku/"
+    ]
+  ],
+  [
+    [
+      "2026-02-06, 15:13:04",
+      "https://news.ycombinator.com/item?id=46913793"
+    ],
+    [
+      "Microsoft open-sources LiteBox, a security-focused library OS",
+      "https://github.com/microsoft/litebox"
+    ]
+  ],
+  [
+    [
+      "2026-02-06, 14:24:57",
+      "https://news.ycombinator.com/item?id=46913201"
+    ],
+    [
+      "Wall Street just lost $285B because of 13 Markdown files",
+      "https://martinalderson.com/posts/wall-street-lost-285-billion-because-of-13-markdown-files/"
+    ]
+  ],
+  [
+    [
+      "2026-02-06, 13:49:55",
+      "https://news.ycombinator.com/item?id=46912800"
+    ],
+    [
+      "Hackers (1995) Animated Experience",
+      "https://hackers-1995.vercel.app/"
     ]
   ],
   [
@@ -27,16 +67,6 @@
     [
       "I now assume that all ads on Apple news are scams",
       "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/"
-    ]
-  ],
-  [
-    [
-      "2026-02-06, 12:12:18",
-      "https://news.ycombinator.com/item?id=46911873"
-    ],
-    [
-      "Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is",
-      "https://wiz.jock.pl/experiments/agent-arena/"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-02-06, 03:22:29",
-      "https://news.ycombinator.com/item?id=46908671"
-    ],
-    [
-      "I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded",
-      "https://vespalec.com/blog/tower-of-flaws/"
-    ]
-  ],
-  [
-    [
       "2026-02-06, 03:19:28",
       "https://news.ycombinator.com/item?id=46908650"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-02-05, 17:49:54",
-      "https://news.ycombinator.com/item?id=46902368"
-    ],
-    [
-      "Orchestrate teams of Claude Code sessions",
-      "https://code.claude.com/docs/en/agent-teams"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 17:38:53",
       "https://news.ycombinator.com/item?id=46902223"
     ],
@@ -207,6 +217,16 @@
     [
       "Recreating Epstein PDFs from raw encoded attachments",
       "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 14:49:11",
+      "https://news.ycombinator.com/item?id=46871654"
+    ],
+    [
+      "Understanding Neural Network, Visually",
+      "https://visualrambling.space/neural-network/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2026-02-03, 02:55:38",
-      "https://news.ycombinator.com/item?id=46865849"
-    ],
-    [
-      "How to carry more than your own bodyweight (2025)",
-      "https://www.bbc.com/future/article/20250124-how-to-carry-more-than-your-own-bodyweight"
-    ]
-  ],
-  [
-    [
       "2026-02-02, 14:55:50",
       "https://news.ycombinator.com/item?id=46856722"
     ],
@@ -287,16 +297,6 @@
     [
       "Nixie-clock using neon lamps as logic elements (2007)",
       "https://www.pa3fwm.nl/projects/neonclock/"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 07:05:56",
-      "https://news.ycombinator.com/item?id=46853261"
-    ],
-    [
-      "Unlocking high-performance PostgreSQL with key memory optimizations",
-      "https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations"
     ]
   ]
 ]
