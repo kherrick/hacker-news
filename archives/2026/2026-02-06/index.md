@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-02-06](index.md)
 
+* [2026-02-06, 20:04:55](https://news.ycombinator.com/item?id=46917477) - [Masked namespace vulnerability in Temporal](https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986)
 * [2026-02-06, 19:27:37](https://news.ycombinator.com/item?id=46917033) - [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
 * [2026-02-06, 19:20:53](https://news.ycombinator.com/item?id=46916961) - [Man who videotaped himself BASE jumping in Yosemite arrested. He says it was AI](https://www.latimes.com/california/story/2026-02-05/man-videotaped-himself-base-jumping-in-yosemite-federal-officials-say-he-says-it-was-ai)
+* [2026-02-06, 18:51:58](https://news.ycombinator.com/item?id=46916609) - [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/)
 * [2026-02-06, 18:49:59](https://news.ycombinator.com/item?id=46916586) - [How to effectively write quality code with AI](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 * [2026-02-06, 17:29:39](https://news.ycombinator.com/item?id=46915646) - [Uber Found Liable in Rape by Driver, Setting Stage for Cases](https://www.nytimes.com/2026/02/05/business/uber-safety-rape-verdict.html)
 * [2026-02-06, 17:24:32](https://news.ycombinator.com/item?id=46915587) - [Bits About Money: Fraud Investigation Is Believing Your Lying Eyes](https://www.bitsaboutmoney.com/archive/fraud-investigation/)
+* [2026-02-06, 17:11:52](https://news.ycombinator.com/item?id=46915427) - [Show HN: BioTradingArena – Benchmark for LLMs to predict biotech stock movements](https://www.biotradingarena.com/hn)
+* [2026-02-06, 16:45:47](https://news.ycombinator.com/item?id=46915102) - [I spent 5 years in DevOps – Solutions engineering gave me what I was missing](https://infisical.com/blog/devops-to-solutions-engineering)
 * [2026-02-06, 16:34:39](https://news.ycombinator.com/item?id=46914974) - [Show HN: Daily-updated database of malicious browser extensions](https://github.com/toborrm9/malicious_extension_sentry)
 * [2026-02-06, 16:20:42](https://news.ycombinator.com/item?id=46914785) - [The Waymo World Model: A New Frontier for Autonomous Driving Simulation](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
 * [2026-02-06, 15:40:42](https://news.ycombinator.com/item?id=46914159) - [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
