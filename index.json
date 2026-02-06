@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-02-06, 02:58:31",
+      "https://news.ycombinator.com/item?id=46908491"
+    ],
+    [
+      "GitHub Actions is slowly killing engineering teams",
+      "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/"
+    ]
+  ],
+  [
+    [
+      "2026-02-06, 00:15:55",
+      "https://news.ycombinator.com/item?id=46907350"
+    ],
+    [
+      "C isn't a programming language anymore (2022)",
+      "https://faultlore.com/blah/c-isnt-a-language/"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 23:31:01",
       "https://news.ycombinator.com/item?id=46906967"
     ],
@@ -27,16 +47,6 @@
     [
       "The RCE that AMD won't fix",
       "https://mrbruh.com/amd/"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 23:10:12",
-      "https://news.ycombinator.com/item?id=46906737"
-    ],
-    [
-      "Show HN: Calfkit – an SDK to build distributed, event-driven AI agents on Kafka",
-      "https://github.com/calf-ai/calfkit-sdk"
     ]
   ],
   [
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2026-02-05, 21:24:03",
-      "https://news.ycombinator.com/item?id=46905555"
-    ],
-    [
-      "It's 2026, Just Use Postgres",
-      "https://www.tigerdata.com/blog/its-2026-just-use-postgres"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 20:15:48",
       "https://news.ycombinator.com/item?id=46904569"
     ],
@@ -87,6 +87,16 @@
     [
       "LinkedIn checks for 2953 browser extensions",
       "https://github.com/mdp/linkedin-extension-fingerprinting"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 19:29:41",
+      "https://news.ycombinator.com/item?id=46903929"
+    ],
+    [
+      "The time I didn't meet Jeffrey Epstein",
+      "https://scottaaronson.blog/?p=9534"
     ]
   ],
   [
@@ -117,6 +127,16 @@
     [
       "Flock CEO calls Deflock a “terrorist organization” (2025) [video]",
       "https://www.youtube.com/watch?v=l-kZGrDz7PU"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 18:21:53",
+      "https://news.ycombinator.com/item?id=46902855"
+    ],
+    [
+      "Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models",
+      "https://arxiv.org/abs/2512.04124"
     ]
   ],
   [
@@ -171,12 +191,12 @@
   ],
   [
     [
-      "2026-02-05, 05:50:01",
-      "https://news.ycombinator.com/item?id=46896146"
+      "2026-02-05, 12:56:28",
+      "https://news.ycombinator.com/item?id=46899132"
     ],
     [
-      "Don't rent the cloud, own instead",
-      "https://blog.comma.ai/datacenter/"
+      "Company as Code",
+      "https://blog.42futures.com/p/company-as-code"
     ]
   ],
   [
@@ -211,12 +231,12 @@
   ],
   [
     [
-      "2026-02-02, 03:24:29",
-      "https://news.ycombinator.com/item?id=46852069"
+      "2026-02-02, 07:05:56",
+      "https://news.ycombinator.com/item?id=46853261"
     ],
     [
-      "Housman's Introductory Lecture (1892)",
-      "https://worrydream.com/refs/Housman_1892_-_Introductory_Lecture.html"
+      "Unlocking high-performance PostgreSQL with key memory optimizations",
+      "https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2026-02-01, 11:06:29",
-      "https://news.ycombinator.com/item?id=46845296"
-    ],
-    [
-      "OpenClaw: When AI Agents Get Full System Access. Security nightmare?",
-      "https://innfactory.ai:443/en/blog/openclaw-ai-agent-security/"
-    ]
-  ],
-  [
-    [
       "2026-02-01, 10:36:56",
       "https://news.ycombinator.com/item?id=46845135"
     ],
@@ -265,18 +275,8 @@
       "https://news.ycombinator.com/item?id=46844391"
     ],
     [
-      "You Still Struggle with CORS Even After Reading Docs",
+      "Why we need to know about CORS (2020)",
       "https://evan-moon.github.io/2020/05/21/about-cors/en/"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 07:36:54",
-      "https://news.ycombinator.com/item?id=46844301"
-    ],
-    [
-      "Fela Kuti First African to Get Grammys Lifetime Achievement Award",
-      "https://www.aljazeera.com/news/2026/2/1/fela-kuti-becomes-first-african-to-get-grammys-lifetime-achievement-award"
     ]
   ],
   [
