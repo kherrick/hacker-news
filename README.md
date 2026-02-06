@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-06, 19:27:37](https://news.ycombinator.com/item?id=46917033) - [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
+* [2026-02-06, 19:20:53](https://news.ycombinator.com/item?id=46916961) - [Man who videotaped himself BASE jumping in Yosemite arrested. He says it was AI](https://www.latimes.com/california/story/2026-02-05/man-videotaped-himself-base-jumping-in-yosemite-federal-officials-say-he-says-it-was-ai)
 * [2026-02-06, 17:24:32](https://news.ycombinator.com/item?id=46915587) - [Bits About Money: Fraud Investigation Is Believing Your Lying Eyes](https://www.bitsaboutmoney.com/archive/fraud-investigation/)
 * [2026-02-06, 16:34:39](https://news.ycombinator.com/item?id=46914974) - [Show HN: Daily-updated database of malicious browser extensions](https://github.com/toborrm9/malicious_extension_sentry)
 * [2026-02-06, 16:20:42](https://news.ycombinator.com/item?id=46914785) - [The Waymo World Model: A New Frontier for Autonomous Driving Simulation](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
@@ -12,9 +14,7 @@
 * [2026-02-06, 09:56:55](https://news.ycombinator.com/item?id=46910963) - [A new bill in New York would require disclaimers on AI-generated news content](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 * [2026-02-06, 05:29:55](https://news.ycombinator.com/item?id=46909468) - [Things Unix can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 * [2026-02-06, 05:24:36](https://news.ycombinator.com/item?id=46909439) - [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)
-* [2026-02-06, 04:12:59](https://news.ycombinator.com/item?id=46909037) - [Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust](https://github.com/artifact-keeper)
 * [2026-02-06, 03:19:28](https://news.ycombinator.com/item?id=46908650) - [Solving Shrinkwrap: New Experimental Technique](https://kizu.dev/shrinkwrap-solution/)
-* [2026-02-05, 23:29:18](https://news.ycombinator.com/item?id=46906947) - [The RCE that AMD won't fix](https://mrbruh.com/amd/)
 * [2026-02-05, 20:20:04](https://news.ycombinator.com/item?id=46904645) - [Animated Engines](https://animatedengines.com/)
 * [2026-02-05, 19:29:41](https://news.ycombinator.com/item?id=46903929) - [The time I didn't meet Jeffrey Epstein](https://scottaaronson.blog/?p=9534)
 * [2026-02-05, 19:07:51](https://news.ycombinator.com/item?id=46903616) - [We tasked Opus 4.6 using agent teams to build a C Compiler](https://www.anthropic.com/engineering/building-c-compiler)
@@ -28,8 +28,8 @@
 * [2026-02-03, 06:53:23](https://news.ycombinator.com/item?id=46867446) - [Stay Away from My Trash](https://tldraw.dev/blog/stay-away-from-my-trash)
 * [2026-02-03, 06:26:01](https://news.ycombinator.com/item?id=46867271) - [Plasma Effect (2016)](https://www.4rknova.com/blog/2016/11/01/plasma)
 * [2026-02-02, 20:02:26](https://news.ycombinator.com/item?id=46860623) - [The Monad Called Free](http://blog.sigfpe.com/2014/04/the-monad-called-free.html)
-* [2026-02-02, 13:18:05](https://news.ycombinator.com/item?id=46855697) - [Animated Knots](https://www.animatedknots.com/)
 * [2026-02-02, 09:42:12](https://news.ycombinator.com/item?id=46854128) - [Nixie-clock using neon lamps as logic elements (2007)](https://www.pa3fwm.nl/projects/neonclock/)
+* [2026-02-01, 18:07:54](https://news.ycombinator.com/item?id=46848009) - [The Gnome Village: Treads fight, gnomes cooperate (2025)](https://happihacking.com/blog/posts/2025/the-gnome-village/)
 
 ## [Archives](archives/index.md)
 

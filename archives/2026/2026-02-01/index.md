@@ -33,6 +33,7 @@
 * [2026-02-01, 18:21:33](https://news.ycombinator.com/item?id=46848101) - [Same Radio, Different Citizens](https://blog.cosmos-institute.org/p/same-radio-different-citizens)
 * [2026-02-01, 18:17:41](https://news.ycombinator.com/item?id=46848077) - [Triton Bespoke Layouts](https://www.lei.chat/posts/triton-bespoke-layouts/)
 * [2026-02-01, 18:15:40](https://news.ycombinator.com/item?id=46848060) - [Pretty soon, heat pumps will be able to store and distribute heat as needed](https://www.sintef.no/en/latest-news/2026/pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed/)
+* [2026-02-01, 18:07:54](https://news.ycombinator.com/item?id=46848009) - [The Gnome Village: Treads fight, gnomes cooperate (2025)](https://happihacking.com/blog/posts/2025/the-gnome-village/)
 * [2026-02-01, 18:00:30](https://news.ycombinator.com/item?id=46847958) - [Towards a science of scaling agent systems: When and why agent systems work](https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/)
 * [2026-02-01, 17:54:55](https://news.ycombinator.com/item?id=46847924) - [A Crisis comes to Wordle: Reusing old words](https://forkingmad.blog/wordle-crisis/)
 * [2026-02-01, 17:50:46](https://news.ycombinator.com/item?id=46847899) - [NCR Tower 1632 – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/ncr-tower-1632)
