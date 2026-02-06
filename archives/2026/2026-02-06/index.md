@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-06](index.md)
 
+* [2026-02-06, 21:20:24](https://news.ycombinator.com/item?id=46918300) - [Oregon raised spending by 80%, math scores dropped](https://www.educationnext.org/hard-lessons-from-new-naep-results/)
 * [2026-02-06, 20:04:55](https://news.ycombinator.com/item?id=46917477) - [Masked namespace vulnerability in Temporal](https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986)
 * [2026-02-06, 19:27:37](https://news.ycombinator.com/item?id=46917033) - [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
 * [2026-02-06, 19:20:53](https://news.ycombinator.com/item?id=46916961) - [Man who videotaped himself BASE jumping in Yosemite arrested. He says it was AI](https://www.latimes.com/california/story/2026-02-05/man-videotaped-himself-base-jumping-in-yosemite-federal-officials-say-he-says-it-was-ai)

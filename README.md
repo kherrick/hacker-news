@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-06, 21:20:24](https://news.ycombinator.com/item?id=46918300) - [Oregon raised spending by 80%, math scores dropped](https://www.educationnext.org/hard-lessons-from-new-naep-results/)
 * [2026-02-06, 20:04:55](https://news.ycombinator.com/item?id=46917477) - [Masked namespace vulnerability in Temporal](https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986)
 * [2026-02-06, 19:27:37](https://news.ycombinator.com/item?id=46917033) - [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
 * [2026-02-06, 18:51:58](https://news.ycombinator.com/item?id=46916609) - [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/)
@@ -20,7 +21,6 @@
 * [2026-02-06, 09:56:55](https://news.ycombinator.com/item?id=46910963) - [A new bill in New York would require disclaimers on AI-generated news content](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 * [2026-02-06, 05:29:55](https://news.ycombinator.com/item?id=46909468) - [Things Unix can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 * [2026-02-06, 05:24:36](https://news.ycombinator.com/item?id=46909439) - [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)
-* [2026-02-05, 17:38:53](https://news.ycombinator.com/item?id=46902223) - [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
 * [2026-02-05, 16:13:33](https://news.ycombinator.com/item?id=46901233) - [Show HN: Smooth CLI – Token-efficient browser for AI agents](https://docs.smooth.sh/cli/overview)
 * [2026-02-04, 20:59:29](https://news.ycombinator.com/item?id=46891689) - [Claude Composer](https://www.josh.ing/blog/claude-composer)
 * [2026-02-03, 14:49:11](https://news.ycombinator.com/item?id=46871654) - [Understanding Neural Network, Visually](https://visualrambling.space/neural-network/)
@@ -28,8 +28,8 @@
 * [2026-02-03, 09:43:36](https://news.ycombinator.com/item?id=46868803) - [DNS Explained – How Domain Names Get Resolved](https://www.bhusalmanish.com.np/blog/posts/dns-explained.html)
 * [2026-02-03, 08:59:59](https://news.ycombinator.com/item?id=46868435) - [Planetary Roller Screws](https://www.humanityslastmachine.com/#planetary-roller-screws)
 * [2026-02-03, 06:53:23](https://news.ycombinator.com/item?id=46867446) - [Stay Away from My Trash](https://tldraw.dev/blog/stay-away-from-my-trash)
+* [2026-02-02, 20:17:34](https://news.ycombinator.com/item?id=46860845) - [Welcome to the Room: A lesson in leadership by Satya Nadella](https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/)
 * [2026-02-02, 20:02:26](https://news.ycombinator.com/item?id=46860623) - [The Monad Called Free](http://blog.sigfpe.com/2014/04/the-monad-called-free.html)
-* [2026-02-02, 14:55:50](https://news.ycombinator.com/item?id=46856722) - [Product and design are the new bottlenecks](https://www.jampa.dev/p/the-rise-of-one-pizza-engineering)
 
 ## [Archives](archives/index.md)
 
