@@ -16,5 +16,6 @@
 * [2026-02-06, 04:12:59](https://news.ycombinator.com/item?id=46909037) - [Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust](https://github.com/artifact-keeper)
 * [2026-02-06, 03:25:51](https://news.ycombinator.com/item?id=46908700) - [Waiting for Postgres 19: Better planner hints with path generation strategies [video]](https://www.youtube.com/watch?v=QLb3nhIy2Lc)
 * [2026-02-06, 03:22:29](https://news.ycombinator.com/item?id=46908671) - [I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded](https://vespalec.com/blog/tower-of-flaws/)
+* [2026-02-06, 03:19:28](https://news.ycombinator.com/item?id=46908650) - [Solving Shrinkwrap: New Experimental Technique](https://kizu.dev/shrinkwrap-solution/)
 * [2026-02-06, 02:58:31](https://news.ycombinator.com/item?id=46908491) - [GitHub Actions is slowly killing engineering teams](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)
 * [2026-02-06, 00:15:55](https://news.ycombinator.com/item?id=46907350) - [C Isn't a Language](https://faultlore.com/blah/c-isnt-a-language/)
