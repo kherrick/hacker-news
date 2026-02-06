@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-02-06, 05:29:55",
+      "https://news.ycombinator.com/item?id=46909468"
+    ],
+    [
+      "Things Unix can do atomically",
+      "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-06, 05:24:36",
+      "https://news.ycombinator.com/item?id=46909439"
+    ],
+    [
+      "Systems Thinking",
+      "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-06, 04:28:08",
+      "https://news.ycombinator.com/item?id=46909122"
+    ],
+    [
+      "Generative Pen-Trained Transformer",
+      "https://theodore.net/projects/Polargraph/"
+    ]
+  ],
+  [
+    [
+      "2026-02-06, 03:25:51",
+      "https://news.ycombinator.com/item?id=46908700"
+    ],
+    [
+      "Waiting for Postgres 19: Better planner hints with path generation strategies [video]",
+      "https://www.youtube.com/watch?v=QLb3nhIy2Lc"
+    ]
+  ],
+  [
+    [
       "2026-02-06, 03:22:29",
       "https://news.ycombinator.com/item?id=46908671"
     ],
@@ -47,6 +87,16 @@
     [
       "The RCE that AMD won't fix",
       "https://mrbruh.com/amd/"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 23:10:12",
+      "https://news.ycombinator.com/item?id=46906737"
+    ],
+    [
+      "Show HN: Calfkit – an SDK to build distributed, event-driven AI agents on Kafka",
+      "https://github.com/calf-ai/calfkit-sdk"
     ]
   ],
   [
@@ -121,26 +171,6 @@
   ],
   [
     [
-      "2026-02-05, 19:04:37",
-      "https://news.ycombinator.com/item?id=46903556"
-    ],
-    [
-      "Flock CEO calls Deflock a “terrorist organization” (2025) [video]",
-      "https://www.youtube.com/watch?v=l-kZGrDz7PU"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 18:21:53",
-      "https://news.ycombinator.com/item?id=46902855"
-    ],
-    [
-      "Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models",
-      "https://arxiv.org/abs/2512.04124"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 18:08:08",
       "https://news.ycombinator.com/item?id=46902638"
     ],
@@ -191,6 +221,16 @@
   ],
   [
     [
+      "2026-02-05, 13:47:59",
+      "https://news.ycombinator.com/item?id=46899591"
+    ],
+    [
+      "The New Collabora Office for Desktop",
+      "https://www.collaboraonline.com/collabora-office/"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 12:56:28",
       "https://news.ycombinator.com/item?id=46899132"
     ],
@@ -207,6 +247,16 @@
     [
       "Recreating Epstein PDFs from raw encoded attachments",
       "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 13:06:19",
+      "https://news.ycombinator.com/item?id=46870501"
+    ],
+    [
+      "The browser catches homograph attacks, the terminal doesn't",
+      "https://github.com/sheeki03/tirith"
     ]
   ],
   [
@@ -241,62 +291,12 @@
   ],
   [
     [
-      "2026-02-01, 16:31:16",
-      "https://news.ycombinator.com/item?id=46847297"
+      "2026-02-01, 18:21:33",
+      "https://news.ycombinator.com/item?id=46848101"
     ],
     [
-      "There Will Come Soft Rains (1950) [pdf]",
-      "https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 11:58:12",
-      "https://news.ycombinator.com/item?id=46845567"
-    ],
-    [
-      "Launching My Side Project as a Solo Dev: The Walkthrough",
-      "https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 10:36:56",
-      "https://news.ycombinator.com/item?id=46845135"
-    ],
-    [
-      "Pong Cam – My ESP32S3 Thinks It's a WebCam",
-      "https://www.atomic14.com/2026/02/01/pong-cam"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 07:57:52",
-      "https://news.ycombinator.com/item?id=46844391"
-    ],
-    [
-      "Why we need to know about CORS (2020)",
-      "https://evan-moon.github.io/2020/05/21/about-cors/en/"
-    ]
-  ],
-  [
-    [
-      "2026-01-31, 23:44:15",
-      "https://news.ycombinator.com/item?id=46842090"
-    ],
-    [
-      "What's wrong with bunny hands on dinosaurs? (2018)",
-      "https://paleoaerie.org/2018/06/13/whats-wrong-with-bunny-hands-on-dinosaurs/"
-    ]
-  ],
-  [
-    [
-      "2026-01-31, 23:15:30",
-      "https://news.ycombinator.com/item?id=46841897"
-    ],
-    [
-      "150 MB Minimal FreeBSD Installation",
-      "https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/"
+      "Same Radio, Different Citizens",
+      "https://blog.cosmos-institute.org/p/same-radio-different-citizens"
     ]
   ]
 ]
