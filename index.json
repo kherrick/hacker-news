@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2026-02-05, 23:10:12",
-      "https://news.ycombinator.com/item?id=46906737"
-    ],
-    [
-      "Show HN: Calfkit – an SDK to build distributed, event-driven AI agents on Kafka",
-      "https://github.com/calf-ai/calfkit-sdk"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 21:51:51",
       "https://news.ycombinator.com/item?id=46905896"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2026-02-05, 05:50:01",
+      "https://news.ycombinator.com/item?id=46896146"
+    ],
+    [
+      "Don't rent the cloud, own instead",
+      "https://blog.comma.ai/datacenter/"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 19:19:07",
       "https://news.ycombinator.com/item?id=46890335"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-02-03, 06:53:23",
+      "https://news.ycombinator.com/item?id=46867446"
+    ],
+    [
+      "Stay Away from My Trash",
+      "https://tldraw.dev/blog/stay-away-from-my-trash"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 02:55:38",
       "https://news.ycombinator.com/item?id=46865849"
     ],
@@ -287,16 +297,6 @@
     [
       "Unlocking high-performance PostgreSQL with key memory optimizations",
       "https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 18:21:33",
-      "https://news.ycombinator.com/item?id=46848101"
-    ],
-    [
-      "Same Radio, Different Citizens",
-      "https://blog.cosmos-institute.org/p/same-radio-different-citizens"
     ]
   ]
 ]
