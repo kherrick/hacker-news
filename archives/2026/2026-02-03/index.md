@@ -64,6 +64,7 @@
 * [2026-02-03, 10:11:35](https://news.ycombinator.com/item?id=46869024) - [Sealos – AI Native Cloud Cloud Operating System](https://github.com/labring/sealos)
 * [2026-02-03, 10:08:52](https://news.ycombinator.com/item?id=46868998) - [Paris prosecutors raid France offices of Elon Musk's X](https://www.bbc.com/news/articles/ce3ex92557jo)
 * [2026-02-03, 09:43:36](https://news.ycombinator.com/item?id=46868803) - [DNS Explained – How Domain Names Get Resolved](https://www.bhusalmanish.com.np/blog/posts/dns-explained.html)
+* [2026-02-03, 09:42:10](https://news.ycombinator.com/item?id=46868787) - [Cross-Region MSK Replication: K2K vs. MirrorMaker2](https://medium.com/lensesio/cross-region-msk-replication-a-comprehensive-performance-comparison-of-lenses-k2k-vs-mirrormaker2-e9d930de01bf)
 * [2026-02-03, 09:37:40](https://news.ycombinator.com/item?id=46868759) - [What's up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
 * [2026-02-03, 09:30:07](https://news.ycombinator.com/item?id=46868675) - [Rentahuman – The Meatspace Layer for AI](https://rentahuman.ai)
 * [2026-02-03, 09:16:48](https://news.ycombinator.com/item?id=46868565) - [Claude Sonnet 5 Is Imminent – and It Could Be a Generation Ahead of Google](https://ucstrategies.com/news/claude-sonnet-5-is-imminent-and-it-could-be-a-generation-ahead-of-google/)
