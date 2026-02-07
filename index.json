@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-02-07, 22:32:59",
-      "https://news.ycombinator.com/item?id=46928894"
+      "2026-02-07, 23:24:30",
+      "https://news.ycombinator.com/item?id=46929404"
     ],
     [
-      "GitBlack: Tracing America's Foundation",
-      "https://gitblack.vercel.app/"
+      "Washington Post CEO Will Lewis Steps Down After Stormy Tenure",
+      "https://www.nytimes.com/2026/02/07/technology/washington-post-will-lewis.html"
     ]
   ],
   [
@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2026-02-07, 21:43:34",
-      "https://news.ycombinator.com/item?id=46928412"
+      "2026-02-07, 19:51:56",
+      "https://news.ycombinator.com/item?id=46927098"
     ],
     [
-      "Italy Railways Sabotaged",
-      "https://www.bbc.co.uk/news/articles/czr4rx04xjpo"
+      "Microsoft account bugs locked me out of Notepad – Are thin clients ruining PCs?",
+      "https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-02-05, 05:41:31",
-      "https://news.ycombinator.com/item?id=46896105"
-    ],
-    [
-      "Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev",
-      "https://github.com/sandys/kappal"
-    ]
-  ],
-  [
-    [
       "2026-02-04, 19:59:12",
       "https://news.ycombinator.com/item?id=46890814"
     ],
@@ -277,6 +267,16 @@
     [
       "LLMs as the new high level language",
       "https://federicopereiro.com/llm-high/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 09:52:44",
+      "https://news.ycombinator.com/item?id=46868879"
+    ],
+    [
+      "Show HN: Browser based state machine simulator and visualizer",
+      "https://svylabs.github.io/smac-viz/"
     ]
   ],
   [
