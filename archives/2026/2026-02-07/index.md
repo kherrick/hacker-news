@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-07](index.md)
 
+* [2026-02-07, 23:24:30](https://news.ycombinator.com/item?id=46929404) - [Washington Post CEO Will Lewis Steps Down After Stormy Tenure](https://www.nytimes.com/2026/02/07/technology/washington-post-will-lewis.html)
 * [2026-02-07, 22:32:59](https://news.ycombinator.com/item?id=46928894) - [GitBlack: Tracing America's Foundation](https://gitblack.vercel.app/)
 * [2026-02-07, 22:25:03](https://news.ycombinator.com/item?id=46928810) - [FDA intends to take action against non-FDA-approved GLP-1 drugs](https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs)
 * [2026-02-07, 21:49:30](https://news.ycombinator.com/item?id=46928470) - [You Are Here](https://brooker.co.za/blog/2026/02/07/you-are-here.html)

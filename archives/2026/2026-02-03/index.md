@@ -66,6 +66,7 @@
 * [2026-02-03, 10:11:35](https://news.ycombinator.com/item?id=46869024) - [Sealos – AI Native Cloud Cloud Operating System](https://github.com/labring/sealos)
 * [2026-02-03, 10:08:52](https://news.ycombinator.com/item?id=46868998) - [Paris prosecutors raid France offices of Elon Musk's X](https://www.bbc.com/news/articles/ce3ex92557jo)
 * [2026-02-03, 10:00:03](https://news.ycombinator.com/item?id=46868928) - [LLMs as the new high level language](https://federicopereiro.com/llm-high/)
+* [2026-02-03, 09:52:44](https://news.ycombinator.com/item?id=46868879) - [Show HN: Browser based state machine simulator and visualizer](https://svylabs.github.io/smac-viz/)
 * [2026-02-03, 09:43:36](https://news.ycombinator.com/item?id=46868803) - [DNS Explained – How Domain Names Get Resolved](https://www.bhusalmanish.com.np/blog/posts/dns-explained.html)
 * [2026-02-03, 09:42:10](https://news.ycombinator.com/item?id=46868787) - [Cross-Region MSK Replication: K2K vs. MirrorMaker2](https://medium.com/lensesio/cross-region-msk-replication-a-comprehensive-performance-comparison-of-lenses-k2k-vs-mirrormaker2-e9d930de01bf)
 * [2026-02-03, 09:37:40](https://news.ycombinator.com/item?id=46868759) - [What's up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
