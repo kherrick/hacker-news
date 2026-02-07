@@ -18,6 +18,7 @@
 * [2026-02-03, 18:40:18](https://news.ycombinator.com/item?id=46875228) - [AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines](https://github.com/alibaba/AliSQL)
 * [2026-02-03, 18:28:48](https://news.ycombinator.com/item?id=46875033) - [Y Combinator will let founders receive funds in stablecoins](https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/)
 * [2026-02-03, 18:04:08](https://news.ycombinator.com/item?id=46874619) - [Xcode 26.3 unlocks the power of agentic coding](https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/)
+* [2026-02-03, 17:49:49](https://news.ycombinator.com/item?id=46874372) - [Jeffrey Snover: \"Welcome to the Room\"](https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/)
 * [2026-02-03, 17:48:22](https://news.ycombinator.com/item?id=46874345) - [I made 20 GDPR deletion requests. 12 were ignored](https://nikolak.com/gdpr-failure/)
 * [2026-02-03, 17:35:37](https://news.ycombinator.com/item?id=46874139) - [Sandboxing AI Agents in Linux](https://blog.senko.net/sandboxing-ai-agents-in-linux)
 * [2026-02-03, 17:33:20](https://news.ycombinator.com/item?id=46874097) - [Deno Sandbox](https://deno.com/blog/introducing-deno-sandbox)

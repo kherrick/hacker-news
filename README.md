@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-07, 07:37:03](https://news.ycombinator.com/item?id=46922049) - [Vocal Guide – belt sing without killing yourself](https://jesperordrup.github.io/vocal-guide/)
 * [2026-02-07, 05:07:39](https://news.ycombinator.com/item?id=46921491) - [Zlob.h 100% POSIX and glibc compatible globbing lib that is faste and better](https://github.com/dmtrKovalenko/zlob)
 * [2026-02-07, 02:35:49](https://news.ycombinator.com/item?id=46920773) - [Female Asian Elephant Calf Born at the Smithsonian National Zoo](https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440)
 * [2026-02-07, 01:45:04](https://news.ycombinator.com/item?id=46920487) - [Why I Joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html)
@@ -19,10 +20,9 @@
 * [2026-02-06, 13:54:09](https://news.ycombinator.com/item?id=46912843) - [FORTH? Really!?](https://rescrv.net/w/2026/02/06/associative)
 * [2026-02-06, 13:49:55](https://news.ycombinator.com/item?id=46912800) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-06, 12:16:43](https://news.ycombinator.com/item?id=46911901) - [I now assume that all ads on Apple news are scams](https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/)
-* [2026-02-05, 16:13:33](https://news.ycombinator.com/item?id=46901233) - [Show HN: Smooth CLI – Token-efficient browser for AI agents](https://docs.smooth.sh/cli/overview)
-* [2026-02-05, 13:40:15](https://news.ycombinator.com/item?id=46899529) - [Show HN: ARM64 Android Dev Kit](https://github.com/denuoweb/ARM64-ADK)
 * [2026-02-05, 11:19:40](https://news.ycombinator.com/item?id=46898473) - [How we made geo joins 400× faster with H3 indexes](https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes)
 * [2026-02-03, 21:50:38](https://news.ycombinator.com/item?id=46877820) - [Was Benoit Mandelbrot a hedgehog or a fox?](https://arxiv.org/abs/2602.01122)
+* [2026-02-03, 17:49:49](https://news.ycombinator.com/item?id=46874372) - [Jeffrey Snover: \"Welcome to the Room\"](https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/)
 * [2026-02-03, 14:49:11](https://news.ycombinator.com/item?id=46871654) - [Understanding Neural Network, Visually](https://visualrambling.space/neural-network/)
 * [2026-02-03, 13:07:37](https://news.ycombinator.com/item?id=46870514) - [Learning from context is harder than we thought](https://hy.tencent.com/research/100025?langVersion=en)
 * [2026-02-03, 08:49:40](https://news.ycombinator.com/item?id=46868343) - [Unseen Footage of Atari Battlezone Arcade Cabinet Production](https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/)
