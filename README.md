@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-07, 21:43:34](https://news.ycombinator.com/item?id=46928412) - [Italy Railways Sabotaged](https://www.bbc.co.uk/news/articles/czr4rx04xjpo)
 * [2026-02-07, 19:07:27](https://news.ycombinator.com/item?id=46926576) - [Brookhaven Lab's RHIC concludes 25-year run with final collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
 * [2026-02-07, 18:32:27](https://news.ycombinator.com/item?id=46926245) - [We mourn our craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
 * [2026-02-07, 18:08:23](https://news.ycombinator.com/item?id=46926043) - [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode)
@@ -29,7 +30,6 @@
 * [2026-02-03, 13:07:37](https://news.ycombinator.com/item?id=46870514) - [Learning from context is harder than we thought](https://hy.tencent.com/research/100025?langVersion=en)
 * [2026-02-03, 08:49:40](https://news.ycombinator.com/item?id=46868343) - [Unseen Footage of Atari Battlezone Arcade Cabinet Production](https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/)
 * [2026-02-02, 16:40:55](https://news.ycombinator.com/item?id=46858042) - [72M Points of Interest](https://tech.marksblogg.com/overture-places-pois.html)
-* [2026-02-01, 23:53:48](https://news.ycombinator.com/item?id=46850653) - [History and Timeline of the Proco Rat Pedal (2021)](https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal)
 
 ## [Archives](archives/index.md)
 

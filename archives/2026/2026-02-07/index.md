@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-07](index.md)
 
+* [2026-02-07, 21:43:34](https://news.ycombinator.com/item?id=46928412) - [Italy Railways Sabotaged](https://www.bbc.co.uk/news/articles/czr4rx04xjpo)
 * [2026-02-07, 20:34:03](https://news.ycombinator.com/item?id=46927661) - [We have broken SHA-1 in practice](https://shattered.io/)
 * [2026-02-07, 19:51:56](https://news.ycombinator.com/item?id=46927098) - [Microsoft Account bugs locked me out of Notepad – are Thin Clients ruining PCs?](https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs)
 * [2026-02-07, 19:07:27](https://news.ycombinator.com/item?id=46926576) - [Brookhaven Lab's RHIC Concludes 25-Year Run with Final Collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
