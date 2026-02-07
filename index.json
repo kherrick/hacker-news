@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-02-07, 16:06:07",
-      "https://news.ycombinator.com/item?id=46924891"
+      "2026-02-07, 17:31:24",
+      "https://news.ycombinator.com/item?id=46925669"
     ],
     [
-      "What Is Stoicism?",
-      "https://stoacentral.com/guides/what-is-stoicism"
+      "U.S. Jobs Disappear at Fastest January Pace Since Great Recession",
+      "https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/"
     ]
   ],
   [
@@ -25,28 +25,8 @@
       "https://news.ycombinator.com/item?id=46924790"
     ],
     [
-      "Leisure Suit Larry's Al Lowe on model trains, funny deaths and Disney",
+      "Al Lowe on model trains, funny deaths and working with Disney",
       "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 15:41:05",
-      "https://news.ycombinator.com/item?id=46924711"
-    ],
-    [
-      "StrongDM's AI team build serious software without even looking at the code",
-      "https://simonwillison.net/2026/Feb/7/software-factory/"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 15:25:49",
-      "https://news.ycombinator.com/item?id=46924591"
-    ],
-    [
-      "First Proof",
-      "https://arxiv.org/abs/2602.05192"
     ]
   ],
   [
@@ -55,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46924426"
     ],
     [
-      "Software Factories and the Agentic Moment",
+      "Software factories and the agentic moment",
       "https://factory.strongdm.ai/"
     ]
   ],
@@ -96,7 +76,7 @@
     ],
     [
       "Reinforcement Learning from Human Feedback",
-      "https://arxiv.org/abs/2504.12501"
+      "https://rlhfbook.com/"
     ]
   ],
   [
@@ -107,6 +87,16 @@
     [
       "Hoot: Scheme on WebAssembly",
       "https://www.spritely.institute/hoot/"
+    ]
+  ],
+  [
+    [
+      "2026-02-07, 11:21:29",
+      "https://news.ycombinator.com/item?id=46922969"
+    ],
+    [
+      "The AI boom is causing shortages everywhere else",
+      "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2026-02-03, 23:31:05",
+      "https://news.ycombinator.com/item?id=46878942"
+    ],
+    [
+      "Selection Rather Than Prediction",
+      "https://voratiq.com/blog/selection-rather-than-prediction/"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 16:40:52",
       "https://news.ycombinator.com/item?id=46873322"
     ],
@@ -261,6 +261,26 @@
   ],
   [
     [
+      "2026-02-03, 13:27:08",
+      "https://news.ycombinator.com/item?id=46870694"
+    ],
+    [
+      "Where did all the starships go?",
+      "https://www.datawrapper.de/blog/science-fiction-decline"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 13:07:37",
+      "https://news.ycombinator.com/item?id=46870514"
+    ],
+    [
+      "Learning from context is harder than we thought",
+      "https://hy.tencent.com/research/100025?langVersion=en"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 08:49:40",
       "https://news.ycombinator.com/item?id=46868343"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-02-03, 06:40:40",
-      "https://news.ycombinator.com/item?id=46867361"
-    ],
-    [
-      "What Is Ruliology?",
-      "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/"
-    ]
-  ],
-  [
-    [
       "2026-02-02, 16:40:55",
       "https://news.ycombinator.com/item?id=46858042"
     ],
     [
       "72M Points of Interest",
       "https://tech.marksblogg.com/overture-places-pois.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 13:12:11",
-      "https://news.ycombinator.com/item?id=46855645"
-    ],
-    [
-      "Vinklu Turns Forgotten Plot in Bucharest into Tiny Coffee Shop",
-      "https://design-milk.com/vinklu-turns-forgotten-plot-in-bucharest-into-tiny-coffee-shop/"
     ]
   ]
 ]
