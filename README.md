@@ -11,7 +11,6 @@
 * [2026-02-07, 12:53:39](https://news.ycombinator.com/item?id=46923463) - [Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501)
 * [2026-02-07, 12:18:20](https://news.ycombinator.com/item?id=46923254) - [Hoot: Scheme on WebAssembly](https://www.spritely.institute/hoot/)
 * [2026-02-07, 07:37:03](https://news.ycombinator.com/item?id=46922049) - [Vocal Guide – belt sing without killing yourself](https://jesperordrup.github.io/vocal-guide/)
-* [2026-02-07, 02:35:49](https://news.ycombinator.com/item?id=46920773) - [Female Asian Elephant Calf Born at the Smithsonian National Zoo](https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440)
 * [2026-02-06, 21:51:23](https://news.ycombinator.com/item?id=46918612) - [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
 * [2026-02-06, 21:33:11](https://news.ycombinator.com/item?id=46918429) - [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
 * [2026-02-06, 21:16:36](https://news.ycombinator.com/item?id=46918254) - [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
@@ -30,6 +29,7 @@
 * [2026-02-03, 08:49:40](https://news.ycombinator.com/item?id=46868343) - [Unseen Footage of Atari Battlezone Arcade Cabinet Production](https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/)
 * [2026-02-03, 06:40:40](https://news.ycombinator.com/item?id=46867361) - [What Is Ruliology?](https://writings.stephenwolfram.com/2026/01/what-is-ruliology/)
 * [2026-02-02, 16:40:55](https://news.ycombinator.com/item?id=46858042) - [72M Points of Interest](https://tech.marksblogg.com/overture-places-pois.html)
+* [2026-02-02, 13:12:11](https://news.ycombinator.com/item?id=46855645) - [Vinklu Turns Forgotten Plot in Bucharest into Tiny Coffee Shop](https://design-milk.com/vinklu-turns-forgotten-plot-in-bucharest-into-tiny-coffee-shop/)
 
 ## [Archives](archives/index.md)
 

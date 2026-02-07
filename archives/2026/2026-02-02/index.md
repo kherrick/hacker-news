@@ -43,6 +43,7 @@
 * [2026-02-02, 14:55:50](https://news.ycombinator.com/item?id=46856722) - [The rise of one-pizza engineering teams](https://www.jampa.dev/p/the-rise-of-one-pizza-engineering)
 * [2026-02-02, 13:29:13](https://news.ycombinator.com/item?id=46855803) - [Geologists may have solved mystery of Green River's 'uphill' route](https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html)
 * [2026-02-02, 13:18:05](https://news.ycombinator.com/item?id=46855697) - [Animated Knots](https://www.animatedknots.com/)
+* [2026-02-02, 13:12:11](https://news.ycombinator.com/item?id=46855645) - [Vinklu Turns Forgotten Plot in Bucharest into Tiny Coffee Shop](https://design-milk.com/vinklu-turns-forgotten-plot-in-bucharest-into-tiny-coffee-shop/)
 * [2026-02-02, 13:11:52](https://news.ycombinator.com/item?id=46855640) - [AdBoost: A Browser Extension That Adds Ads To Every Webpage](https://github.com/surprisetalk/AdBoost)
 * [2026-02-02, 13:02:04](https://news.ycombinator.com/item?id=46855550) - [UK government launches fuel forecourt price API](https://www.gov.uk/guidance/access-the-latest-fuel-prices-and-forecourt-data-via-api-or-email)
 * [2026-02-02, 13:02:04](https://news.ycombinator.com/item?id=46855550) - [UK Government Launches Fuel Forecourt Price API](https://www.developer.fuel-finder.service.gov.uk/access-latest-fuelprices)
