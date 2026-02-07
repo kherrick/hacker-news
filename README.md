@@ -24,11 +24,11 @@
 * [2026-02-05, 21:38:51](https://news.ycombinator.com/item?id=46905745) - [Show HN: Slack CLI for Agents](https://github.com/stablyai/agent-slack)
 * [2026-02-05, 17:50:37](https://news.ycombinator.com/item?id=46902374) - [Evaluating and mitigating the growing risk of LLM-discovered 0-days](https://red.anthropic.com/2026/zero-days/)
 * [2026-02-05, 16:13:33](https://news.ycombinator.com/item?id=46901233) - [Show HN: Smooth CLI – Token-efficient browser for AI agents](https://docs.smooth.sh/cli/overview)
-* [2026-02-04, 20:59:29](https://news.ycombinator.com/item?id=46891689) - [Claude Composer](https://www.josh.ing/blog/claude-composer)
 * [2026-02-03, 16:13:23](https://news.ycombinator.com/item?id=46872881) - [The Oklahoma Architect Who Turned Kitsch into Art](https://www.bloomberg.com/news/features/2026-01-31/oklahoma-architect-bruce-goff-s-wild-home-designs-turned-kitsch-into-art)
 * [2026-02-03, 14:49:11](https://news.ycombinator.com/item?id=46871654) - [Understanding Neural Network, Visually](https://visualrambling.space/neural-network/)
 * [2026-02-03, 13:07:37](https://news.ycombinator.com/item?id=46870514) - [Learning from context is harder than we thought](https://hy.tencent.com/research/100025?langVersion=en)
 * [2026-02-03, 08:59:59](https://news.ycombinator.com/item?id=46868435) - [Planetary Roller Screws](https://www.humanityslastmachine.com/#planetary-roller-screws)
+* [2026-02-03, 08:24:36](https://news.ycombinator.com/item?id=46868142) - [Evolution of car door handles over the decades](https://newatlas.com/automotive/evolution-car-door-handle/)
 * [2026-02-03, 08:23:23](https://news.ycombinator.com/item?id=46868135) - [The Beauty of Slag](https://mag.uchicago.edu/science-medicine/beauty-slag)
 
 ## [Archives](archives/index.md)
