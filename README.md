@@ -2,7 +2,6 @@
 
 * [2026-02-07, 19:07:27](https://news.ycombinator.com/item?id=46926576) - [Brookhaven Lab's RHIC Concludes 25-Year Run with Final Collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
 * [2026-02-07, 18:32:27](https://news.ycombinator.com/item?id=46926245) - [We Mourn Our Craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
-* [2026-02-07, 18:08:23](https://news.ycombinator.com/item?id=46926043) - [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode)
 * [2026-02-07, 17:45:27](https://news.ycombinator.com/item?id=46925811) - [Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version](https://github.com/Momciloo/fun-with-clip-path)
 * [2026-02-07, 17:45:25](https://news.ycombinator.com/item?id=46925808) - [I Write Games in C (yes, C)](https://jonathanwhiting.com/writing/blog/games_in_c/)
 * [2026-02-07, 17:39:53](https://news.ycombinator.com/item?id=46925741) - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
@@ -19,6 +18,7 @@
 * [2026-02-06, 21:33:11](https://news.ycombinator.com/item?id=46918429) - [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
 * [2026-02-06, 21:16:36](https://news.ycombinator.com/item?id=46918254) - [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
 * [2026-02-06, 16:20:42](https://news.ycombinator.com/item?id=46914785) - [The Waymo World Model](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
+* [2026-02-06, 15:40:42](https://news.ycombinator.com/item?id=46914159) - [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
 * [2026-02-06, 13:49:55](https://news.ycombinator.com/item?id=46912800) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-05, 11:19:40](https://news.ycombinator.com/item?id=46898473) - [Making geo joins faster with H3 indexes](https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes)
 * [2026-02-05, 05:41:31](https://news.ycombinator.com/item?id=46896105) - [Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev](https://github.com/sandys/kappal)
