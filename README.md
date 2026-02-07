@@ -2,6 +2,7 @@
 
 * [2026-02-07, 15:55:54](https://news.ycombinator.com/item?id=46924813) - [British drivers over 70 to face eye tests every three years](https://www.bbc.com/news/articles/c205nxy0p31o)
 * [2026-02-07, 15:25:49](https://news.ycombinator.com/item?id=46924591) - [First Proof](https://arxiv.org/abs/2602.05192)
+* [2026-02-07, 15:05:56](https://news.ycombinator.com/item?id=46924426) - [Software Factories and the Agentic Moment](https://factory.strongdm.ai/)
 * [2026-02-07, 14:42:16](https://news.ycombinator.com/item?id=46924264) - [Stories from 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
 * [2026-02-07, 13:34:34](https://news.ycombinator.com/item?id=46923736) - [France's homegrown open source online office suite](https://github.com/suitenumerique)
 * [2026-02-07, 13:07:09](https://news.ycombinator.com/item?id=46923543) - [Coding agents have replaced every framework I used](https://blog.alaindichiappari.dev/p/software-engineering-is-back)
@@ -20,7 +21,6 @@
 * [2026-02-06, 15:20:23](https://news.ycombinator.com/item?id=46913903) - [An Update on Heroku](https://www.heroku.com/blog/an-update-on-heroku/)
 * [2026-02-06, 15:13:04](https://news.ycombinator.com/item?id=46913793) - [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
 * [2026-02-06, 13:49:55](https://news.ycombinator.com/item?id=46912800) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
-* [2026-02-06, 12:16:43](https://news.ycombinator.com/item?id=46911901) - [I now assume that all ads on Apple news are scams](https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/)
 * [2026-02-05, 11:19:40](https://news.ycombinator.com/item?id=46898473) - [Making geo joins faster with H3 indexes](https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes)
 * [2026-02-05, 05:41:31](https://news.ycombinator.com/item?id=46896105) - [Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev](https://github.com/sandys/kappal)
 * [2026-02-04, 19:59:12](https://news.ycombinator.com/item?id=46890814) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
@@ -29,7 +29,7 @@
 * [2026-02-03, 09:42:10](https://news.ycombinator.com/item?id=46868787) - [Cross-Region MSK Replication: K2K vs. MirrorMaker2](https://medium.com/lensesio/cross-region-msk-replication-a-comprehensive-performance-comparison-of-lenses-k2k-vs-mirrormaker2-e9d930de01bf)
 * [2026-02-03, 08:49:40](https://news.ycombinator.com/item?id=46868343) - [Unseen Footage of Atari Battlezone Arcade Cabinet Production](https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/)
 * [2026-02-03, 06:40:40](https://news.ycombinator.com/item?id=46867361) - [What Is Ruliology?](https://writings.stephenwolfram.com/2026/01/what-is-ruliology/)
-* [2026-02-02, 15:58:13](https://news.ycombinator.com/item?id=46857453) - [Dark Alley Mathematics](https://blog.szczepan.org/blog/three-points/)
+* [2026-02-02, 16:40:55](https://news.ycombinator.com/item?id=46858042) - [72M Points of Interest](https://tech.marksblogg.com/overture-places-pois.html)
 
 ## [Archives](archives/index.md)
 

@@ -28,6 +28,7 @@
 * [2026-02-02, 17:43:14](https://news.ycombinator.com/item?id=46858802) - [Being sane in insane places (1973) [pdf]](https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF)
 * [2026-02-02, 17:28:19](https://news.ycombinator.com/item?id=46858622) - [Zig Libc](https://ziglang.org/devlog/2026/#2026-01-31)
 * [2026-02-02, 17:25:26](https://news.ycombinator.com/item?id=46858577) - [Todd C. Miller – sudo Maintainer for over 30 years](https://www.millert.dev/)
+* [2026-02-02, 16:40:55](https://news.ycombinator.com/item?id=46858042) - [72M Points of Interest](https://tech.marksblogg.com/overture-places-pois.html)
 * [2026-02-02, 16:08:36](https://news.ycombinator.com/item?id=46857615) - [Hacking Moltbook: The AI Social Network Any Human Can Control](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys)
 * [2026-02-02, 16:01:30](https://news.ycombinator.com/item?id=46857488) - [Ask HN: Who is hiring? (February 2026)](https://news.ycombinator.com/item?id=46857488)
 * [2026-02-02, 16:01:30](https://news.ycombinator.com/item?id=46857487) - [Ask HN: Who wants to be hired? (February 2026)](https://news.ycombinator.com/item?id=46857487)

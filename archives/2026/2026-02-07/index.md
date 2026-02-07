@@ -7,6 +7,7 @@
 * [2026-02-07, 15:55:54](https://news.ycombinator.com/item?id=46924813) - [British drivers over 70 to face eye tests every three years](https://www.bbc.com/news/articles/c205nxy0p31o)
 * [2026-02-07, 15:25:49](https://news.ycombinator.com/item?id=46924591) - [First Proof](https://arxiv.org/abs/2602.05192)
 * [2026-02-07, 15:19:57](https://news.ycombinator.com/item?id=46924544) - [Google staff call for firm to cut ties with ICE](https://www.bbc.com/news/articles/cvgjg98vmzjo)
+* [2026-02-07, 15:05:56](https://news.ycombinator.com/item?id=46924426) - [Software Factories and the Agentic Moment](https://factory.strongdm.ai/)
 * [2026-02-07, 14:58:10](https://news.ycombinator.com/item?id=46924371) - [Show HN: One-click AI employee with its own cloud desktop](https://cloudbot-ai.com)
 * [2026-02-07, 14:42:16](https://news.ycombinator.com/item?id=46924264) - [Stories from 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
 * [2026-02-07, 13:34:34](https://news.ycombinator.com/item?id=46923736) - [France's homegrown open source online office suite](https://github.com/suitenumerique)
