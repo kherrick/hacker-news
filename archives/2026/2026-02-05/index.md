@@ -41,6 +41,7 @@
 * [2026-02-05, 12:48:01](https://news.ycombinator.com/item?id=46899066) - [GB Renewables Map](https://renewables-map.robinhawkes.com/)
 * [2026-02-05, 12:00:03](https://news.ycombinator.com/item?id=46898713) - [Freshpaint (YC S19) Is Hiring a Senior SWE, Data](https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761)
 * [2026-02-05, 11:45:03](https://news.ycombinator.com/item?id=46898615) - [Top downloaded skill in ClawHub contains malware](https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface)
+* [2026-02-05, 11:19:40](https://news.ycombinator.com/item?id=46898473) - [How we made geo joins 400× faster with H3 indexes](https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes)
 * [2026-02-05, 10:46:57](https://news.ycombinator.com/item?id=46898223) - [The Missing Layer](https://yagmin.com/blog/the-missing-layer/)
 * [2026-02-05, 09:49:23](https://news.ycombinator.com/item?id=46897810) - [Battle-Testing Lynx at Allegro](https://blog.allegro.tech/2026/02/battle-testing-lynx-js-at-allegro.html)
 * [2026-02-05, 09:39:11](https://news.ycombinator.com/item?id=46897737) - [Nanobot: Ultra-Lightweight Alternative to OpenClaw](https://github.com/HKUDS/nanobot)
