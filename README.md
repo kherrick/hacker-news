@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-07, 20:34:03](https://news.ycombinator.com/item?id=46927661) - [We have broken SHA-1 in practice](https://shattered.io/)
 * [2026-02-07, 19:51:56](https://news.ycombinator.com/item?id=46927098) - [Microsoft Account bugs locked me out of Notepad – are Thin Clients ruining PCs?](https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs)
 * [2026-02-07, 19:07:27](https://news.ycombinator.com/item?id=46926576) - [Brookhaven Lab's RHIC Concludes 25-Year Run with Final Collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
 * [2026-02-07, 18:32:27](https://news.ycombinator.com/item?id=46926245) - [We Mourn Our Craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
@@ -19,7 +20,6 @@
 * [2026-02-06, 21:33:11](https://news.ycombinator.com/item?id=46918429) - [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
 * [2026-02-06, 21:16:36](https://news.ycombinator.com/item?id=46918254) - [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
 * [2026-02-06, 16:20:42](https://news.ycombinator.com/item?id=46914785) - [The Waymo World Model](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
-* [2026-02-06, 13:49:55](https://news.ycombinator.com/item?id=46912800) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-05, 05:41:31](https://news.ycombinator.com/item?id=46896105) - [Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev](https://github.com/sandys/kappal)
 * [2026-02-04, 19:59:12](https://news.ycombinator.com/item?id=46890814) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 * [2026-02-04, 15:34:37](https://news.ycombinator.com/item?id=46887084) - [The F Word](http://muratbuffalo.blogspot.com/2026/02/friction.html)
