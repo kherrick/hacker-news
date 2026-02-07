@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-07](index.md)
 
+* [2026-02-07, 15:19:57](https://news.ycombinator.com/item?id=46924544) - [Google staff call for firm to cut ties with ICE](https://www.bbc.com/news/articles/cvgjg98vmzjo)
 * [2026-02-07, 13:34:34](https://news.ycombinator.com/item?id=46923736) - [France's homegrown open source online office suite](https://github.com/suitenumerique)
 * [2026-02-07, 13:07:09](https://news.ycombinator.com/item?id=46923543) - [Software Engineering Is Back](https://blog.alaindichiappari.dev/p/software-engineering-is-back)
 * [2026-02-07, 12:53:39](https://news.ycombinator.com/item?id=46923463) - [Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501)

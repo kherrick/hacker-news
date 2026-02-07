@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-07, 15:19:57](https://news.ycombinator.com/item?id=46924544) - [Google staff call for firm to cut ties with ICE](https://www.bbc.com/news/articles/cvgjg98vmzjo)
 * [2026-02-07, 13:34:34](https://news.ycombinator.com/item?id=46923736) - [France's homegrown open source online office suite](https://github.com/suitenumerique)
 * [2026-02-07, 13:07:09](https://news.ycombinator.com/item?id=46923543) - [Coding agents have replaced every framework I used](https://blog.alaindichiappari.dev/p/software-engineering-is-back)
 * [2026-02-07, 12:53:39](https://news.ycombinator.com/item?id=46923463) - [Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501)
@@ -24,7 +25,6 @@
 * [2026-02-04, 19:59:12](https://news.ycombinator.com/item?id=46890814) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 * [2026-02-03, 21:50:38](https://news.ycombinator.com/item?id=46877820) - [Was Benoit Mandelbrot a hedgehog or a fox?](https://arxiv.org/abs/2602.01122)
 * [2026-02-03, 15:38:24](https://news.ycombinator.com/item?id=46872319) - [Ga68, a GNU Algol 68 Compiler](https://fosdem.org/2026/schedule/event/PEXRTN-ga68-intro/)
-* [2026-02-03, 14:49:11](https://news.ycombinator.com/item?id=46871654) - [Understanding Neural Network, Visually](https://visualrambling.space/neural-network/)
 * [2026-02-03, 09:42:10](https://news.ycombinator.com/item?id=46868787) - [Cross-Region MSK Replication: K2K vs. MirrorMaker2](https://medium.com/lensesio/cross-region-msk-replication-a-comprehensive-performance-comparison-of-lenses-k2k-vs-mirrormaker2-e9d930de01bf)
 * [2026-02-03, 08:49:40](https://news.ycombinator.com/item?id=46868343) - [Unseen Footage of Atari Battlezone Arcade Cabinet Production](https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/)
 * [2026-02-03, 06:40:40](https://news.ycombinator.com/item?id=46867361) - [What Is Ruliology?](https://writings.stephenwolfram.com/2026/01/what-is-ruliology/)
