@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-07](index.md)
 
+* [2026-02-07, 22:25:03](https://news.ycombinator.com/item?id=46928810) - [FDA intends to take action against non-FDA-approved GLP-1 drugs](https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs)
+* [2026-02-07, 21:49:30](https://news.ycombinator.com/item?id=46928470) - [You Are Here](https://brooker.co.za/blog/2026/02/07/you-are-here.html)
+* [2026-02-07, 21:45:54](https://news.ycombinator.com/item?id=46928435) - [Tiny C Compiler](https://bellard.org/tcc/)
 * [2026-02-07, 21:43:34](https://news.ycombinator.com/item?id=46928412) - [Italy Railways Sabotaged](https://www.bbc.co.uk/news/articles/czr4rx04xjpo)
 * [2026-02-07, 20:34:03](https://news.ycombinator.com/item?id=46927661) - [We have broken SHA-1 in practice](https://shattered.io/)
 * [2026-02-07, 19:51:56](https://news.ycombinator.com/item?id=46927098) - [Microsoft Account bugs locked me out of Notepad – are Thin Clients ruining PCs?](https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs)
