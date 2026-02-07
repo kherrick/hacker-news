@@ -54,6 +54,7 @@
 * [2026-02-05, 06:58:43](https://news.ycombinator.com/item?id=46896586) - [Modernizing Linux swapping: introducing the swap table](https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/)
 * [2026-02-05, 06:33:47](https://news.ycombinator.com/item?id=46896427) - [BMW's Newest \"Innovation\" Is a Logo-Shaped Middle Finger to Right to Repair](https://www.ifixit.com/News/115528/bmws-newest-innovation-is-a-logo-shaped-middle-finger-to-right-to-repair)
 * [2026-02-05, 05:50:01](https://news.ycombinator.com/item?id=46896146) - [Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/)
+* [2026-02-05, 05:41:31](https://news.ycombinator.com/item?id=46896105) - [Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev](https://github.com/sandys/kappal)
 * [2026-02-05, 05:22:36](https://news.ycombinator.com/item?id=46895972) - [When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)
 * [2026-02-05, 05:18:42](https://news.ycombinator.com/item?id=46895950) - [Study: Older Cannabis Users Have Larger Brains, Better Cognition](https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function)
 * [2026-02-05, 05:02:01](https://news.ycombinator.com/item?id=46895860) - [ICE seeks industry input on ad tech location data for investigative use](https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use)
