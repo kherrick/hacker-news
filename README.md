@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-07, 16:06:07](https://news.ycombinator.com/item?id=46924891) - [What Is Stoicism?](https://stoacentral.com/guides/what-is-stoicism)
 * [2026-02-07, 15:55:54](https://news.ycombinator.com/item?id=46924813) - [British drivers over 70 to face eye tests every three years](https://www.bbc.com/news/articles/c205nxy0p31o)
 * [2026-02-07, 15:52:42](https://news.ycombinator.com/item?id=46924790) - [Leisure Suit Larry's Al Lowe on model trains, funny deaths and Disney](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/)
 * [2026-02-07, 15:41:05](https://news.ycombinator.com/item?id=46924711) - [StrongDM's AI team build serious software without even looking at the code](https://simonwillison.net/2026/Feb/7/software-factory/)
@@ -19,7 +20,6 @@
 * [2026-02-06, 16:20:42](https://news.ycombinator.com/item?id=46914785) - [The Waymo World Model](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
 * [2026-02-06, 15:40:42](https://news.ycombinator.com/item?id=46914159) - [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
 * [2026-02-06, 15:20:23](https://news.ycombinator.com/item?id=46913903) - [An Update on Heroku](https://www.heroku.com/blog/an-update-on-heroku/)
-* [2026-02-06, 15:13:04](https://news.ycombinator.com/item?id=46913793) - [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
 * [2026-02-06, 13:49:55](https://news.ycombinator.com/item?id=46912800) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-05, 11:19:40](https://news.ycombinator.com/item?id=46898473) - [Making geo joins faster with H3 indexes](https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes)
 * [2026-02-05, 05:41:31](https://news.ycombinator.com/item?id=46896105) - [Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev](https://github.com/sandys/kappal)
