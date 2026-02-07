@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-07](index.md)
 
+* [2026-02-07, 13:34:34](https://news.ycombinator.com/item?id=46923736) - [France's homegrown open source online office suite](https://github.com/suitenumerique)
+* [2026-02-07, 13:07:09](https://news.ycombinator.com/item?id=46923543) - [Software Engineering Is Back](https://blog.alaindichiappari.dev/p/software-engineering-is-back)
 * [2026-02-07, 12:53:39](https://news.ycombinator.com/item?id=46923463) - [Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501)
 * [2026-02-07, 12:18:20](https://news.ycombinator.com/item?id=46923254) - [Hoot: Scheme on WebAssembly](https://www.spritely.institute/hoot/)
 * [2026-02-07, 11:21:29](https://news.ycombinator.com/item?id=46922969) - [The AI boom is causing shortages everywhere else](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
