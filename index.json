@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-02-07, 01:05:59",
+      "https://news.ycombinator.com/item?id=46920248"
+    ],
+    [
+      "I'm going to cure my girlfriend's brain tumor",
+      "https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain"
+    ]
+  ],
+  [
+    [
+      "2026-02-06, 23:58:53",
+      "https://news.ycombinator.com/item?id=46919824"
+    ],
+    [
+      "Introducing the Developer Knowledge API and MCP Server",
+      "https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/"
+    ]
+  ],
+  [
+    [
       "2026-02-06, 22:10:13",
       "https://news.ycombinator.com/item?id=46918824"
     ],
     [
       "Show HN: R3forth, a ColorForth-inspired language with a tiny VM",
       "https://github.com/phreda4/r3"
-    ]
-  ],
-  [
-    [
-      "2026-02-06, 22:00:46",
-      "https://news.ycombinator.com/item?id=46918727"
-    ],
-    [
-      "Early Christian Writings",
-      "https://earlychristianwritings.com/"
     ]
   ],
   [
@@ -171,42 +181,12 @@
   ],
   [
     [
-      "2026-02-06, 13:38:18",
-      "https://news.ycombinator.com/item?id=46912682"
-    ],
-    [
-      "Show HN: Gigacode – Use OpenCode's UI with Claude Code/Codex/Amp",
-      "https://github.com/rivet-dev/sandbox-agent/tree/main/gigacode"
-    ]
-  ],
-  [
-    [
       "2026-02-06, 12:16:43",
       "https://news.ycombinator.com/item?id=46911901"
     ],
     [
       "I now assume that all ads on Apple news are scams",
       "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/"
-    ]
-  ],
-  [
-    [
-      "2026-02-06, 07:12:38",
-      "https://news.ycombinator.com/item?id=46910009"
-    ],
-    [
-      "The mystery of the mole playing rough (2019) [video]",
-      "https://www.youtube.com/watch?v=nwQmwT1ULMU"
-    ]
-  ],
-  [
-    [
-      "2026-02-06, 00:58:31",
-      "https://news.ycombinator.com/item?id=46907651"
-    ],
-    [
-      "Show HN: Horizons – OSS agent execution engine",
-      "https://github.com/synth-laboratories/Horizons"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2026-02-04, 20:59:29",
+      "https://news.ycombinator.com/item?id=46891689"
+    ],
+    [
+      "Claude Composer",
+      "https://www.josh.ing/blog/claude-composer"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 16:13:23",
       "https://news.ycombinator.com/item?id=46872881"
     ],
@@ -271,16 +261,6 @@
   ],
   [
     [
-      "2026-02-03, 08:59:59",
-      "https://news.ycombinator.com/item?id=46868435"
-    ],
-    [
-      "Planetary Roller Screws",
-      "https://www.humanityslastmachine.com/#planetary-roller-screws"
-    ]
-  ],
-  [
-    [
       "2026-02-03, 08:24:36",
       "https://news.ycombinator.com/item?id=46868142"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
-      "2026-02-03, 08:23:23",
-      "https://news.ycombinator.com/item?id=46868135"
+      "2026-02-03, 05:38:51",
+      "https://news.ycombinator.com/item?id=46866937"
     ],
     [
-      "The Beauty of Slag",
-      "https://mag.uchicago.edu/science-medicine/beauty-slag"
+      "A century of hair samples proves leaded gas ban worked",
+      "https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 15:58:13",
+      "https://news.ycombinator.com/item?id=46857453"
+    ],
+    [
+      "Dark Alley Mathematics",
+      "https://blog.szczepan.org/blog/three-points/"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 10:21:28",
+      "https://news.ycombinator.com/item?id=46854386"
+    ],
+    [
+      "PC Floppy Copy Protection: Vault Prolok",
+      "https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-vault-prolok.html"
     ]
   ]
 ]
