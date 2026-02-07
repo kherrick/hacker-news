@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-07, 13:34:34](https://news.ycombinator.com/item?id=46923736) - [France's homegrown open source online office suite](https://github.com/suitenumerique)
-* [2026-02-07, 13:07:09](https://news.ycombinator.com/item?id=46923543) - [Software Engineering Is Back](https://blog.alaindichiappari.dev/p/software-engineering-is-back)
+* [2026-02-07, 13:07:09](https://news.ycombinator.com/item?id=46923543) - [Coding agents have replaced every framework I used](https://blog.alaindichiappari.dev/p/software-engineering-is-back)
 * [2026-02-07, 12:53:39](https://news.ycombinator.com/item?id=46923463) - [Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501)
 * [2026-02-07, 12:18:20](https://news.ycombinator.com/item?id=46923254) - [Hoot: Scheme on WebAssembly](https://www.spritely.institute/hoot/)
 * [2026-02-07, 07:37:03](https://news.ycombinator.com/item?id=46922049) - [Vocal Guide – belt sing without killing yourself](https://jesperordrup.github.io/vocal-guide/)
