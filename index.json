@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-02-07, 11:21:29",
-      "https://news.ycombinator.com/item?id=46922969"
-    ],
-    [
-      "The AI boom is causing shortages everywhere else",
-      "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/"
-    ]
-  ],
-  [
-    [
       "2026-02-07, 07:37:03",
       "https://news.ycombinator.com/item?id=46922049"
     ],
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2026-02-06, 16:45:47",
+      "https://news.ycombinator.com/item?id=46915102"
+    ],
+    [
+      "I spent 5 years in DevOps – Solutions engineering gave me what I was missing",
+      "https://infisical.com/blog/devops-to-solutions-engineering"
+    ]
+  ],
+  [
+    [
       "2026-02-06, 16:20:42",
       "https://news.ycombinator.com/item?id=46914785"
     ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2026-02-05, 05:41:31",
+      "https://news.ycombinator.com/item?id=46896105"
+    ],
+    [
+      "Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev",
+      "https://github.com/sandys/kappal"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 19:59:12",
       "https://news.ycombinator.com/item?id=46890814"
     ],
@@ -267,16 +277,6 @@
     [
       "What Is Ruliology?",
       "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 18:19:10",
-      "https://news.ycombinator.com/item?id=46859267"
-    ],
-    [
-      "Delimited Continuations vs. Lwt for Threads",
-      "https://mirageos.org/blog/delimcc-vs-lwt"
     ]
   ],
   [
