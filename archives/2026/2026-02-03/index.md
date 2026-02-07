@@ -29,6 +29,7 @@
 * [2026-02-03, 17:08:43](https://news.ycombinator.com/item?id=46873742) - [Show HN: I built \"AI Wattpad\" to eval LLMs on fiction](https://narrator.sh/llm-leaderboard)
 * [2026-02-03, 16:56:06](https://news.ycombinator.com/item?id=46873574) - [221 Cannon Road Is Not for Sale](https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/)
 * [2026-02-03, 16:53:50](https://news.ycombinator.com/item?id=46873539) - [Kilobyte is precisely 1000 bytes](https://waspdev.com/articles/2026-01-11/kilobyte-is-1000-bytes)
+* [2026-02-03, 16:40:52](https://news.ycombinator.com/item?id=46873322) - [A Fresh Look at IBM 3270 Information Display System](https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system)
 * [2026-02-03, 16:40:12](https://news.ycombinator.com/item?id=46873308) - [Show HN: PII-Shield – Log Sanitization Sidecar with JSON Integrity (Go, Entropy)](https://github.com/aragossa/pii-shield)
 * [2026-02-03, 16:39:18](https://news.ycombinator.com/item?id=46873294) - [France dumps Zoom and Teams as Europe seeks digital autonomy from the US](https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060)
 * [2026-02-03, 16:29:34](https://news.ycombinator.com/item?id=46873138) - [Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust](https://github.com/j178/prek)

@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-07](index.md)
 
+* [2026-02-07, 15:25:49](https://news.ycombinator.com/item?id=46924591) - [First Proof](https://arxiv.org/abs/2602.05192)
 * [2026-02-07, 15:19:57](https://news.ycombinator.com/item?id=46924544) - [Google staff call for firm to cut ties with ICE](https://www.bbc.com/news/articles/cvgjg98vmzjo)
+* [2026-02-07, 14:58:10](https://news.ycombinator.com/item?id=46924371) - [Show HN: One-click AI employee with its own cloud desktop](https://cloudbot-ai.com)
+* [2026-02-07, 14:42:16](https://news.ycombinator.com/item?id=46924264) - [Stories from 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
 * [2026-02-07, 13:34:34](https://news.ycombinator.com/item?id=46923736) - [France's homegrown open source online office suite](https://github.com/suitenumerique)
 * [2026-02-07, 13:07:09](https://news.ycombinator.com/item?id=46923543) - [Software Engineering Is Back](https://blog.alaindichiappari.dev/p/software-engineering-is-back)
+* [2026-02-07, 13:03:24](https://news.ycombinator.com/item?id=46923520) - [Reputation Scores for GitHub Accounts](https://shkspr.mobi/blog/2026/02/reputation-scores-for-github-accounts/)
 * [2026-02-07, 12:53:39](https://news.ycombinator.com/item?id=46923463) - [Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501)
 * [2026-02-07, 12:18:20](https://news.ycombinator.com/item?id=46923254) - [Hoot: Scheme on WebAssembly](https://www.spritely.institute/hoot/)
 * [2026-02-07, 11:21:29](https://news.ycombinator.com/item?id=46922969) - [The AI boom is causing shortages everywhere else](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
