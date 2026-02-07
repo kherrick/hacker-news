@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-02-07, 05:07:39",
-      "https://news.ycombinator.com/item?id=46921491"
-    ],
-    [
-      "Zlob.h 100% POSIX and glibc compatible globbing lib that is faste and better",
-      "https://github.com/dmtrKovalenko/zlob"
-    ]
-  ],
-  [
-    [
       "2026-02-07, 02:35:49",
       "https://news.ycombinator.com/item?id=46920773"
     ],
@@ -207,6 +197,16 @@
     [
       "How we made geo joins 400× faster with H3 indexes",
       "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 19:59:12",
+      "https://news.ycombinator.com/item?id=46890814"
+    ],
+    [
+      "Start all of your commands with a comma",
+      "https://rhodesmill.org/brandon/2009/commands-with-comma/"
     ]
   ],
   [
