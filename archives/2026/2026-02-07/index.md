@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-07](index.md)
 
+* [2026-02-07, 18:32:27](https://news.ycombinator.com/item?id=46926245) - [We Mourn Our Craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
 * [2026-02-07, 18:08:23](https://news.ycombinator.com/item?id=46926043) - [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode)
+* [2026-02-07, 17:45:27](https://news.ycombinator.com/item?id=46925811) - [Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version](https://github.com/Momciloo/fun-with-clip-path)
+* [2026-02-07, 17:45:25](https://news.ycombinator.com/item?id=46925808) - [I Write Games in C (yes, C)](https://jonathanwhiting.com/writing/blog/games_in_c/)
+* [2026-02-07, 17:39:53](https://news.ycombinator.com/item?id=46925741) - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
 * [2026-02-07, 17:31:24](https://news.ycombinator.com/item?id=46925669) - [U.S. Jobs Disappear at Fastest January Pace Since Great Recession](https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/)
 * [2026-02-07, 16:06:07](https://news.ycombinator.com/item?id=46924891) - [What Is Stoicism?](https://stoacentral.com/guides/what-is-stoicism)
 * [2026-02-07, 15:55:54](https://news.ycombinator.com/item?id=46924813) - [British drivers over 70 to face eye tests every three years](https://www.bbc.com/news/articles/c205nxy0p31o)
