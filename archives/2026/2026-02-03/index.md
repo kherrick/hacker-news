@@ -41,6 +41,7 @@
 * [2026-02-03, 15:51:42](https://news.ycombinator.com/item?id=46872540) - [New York’s budget bill would require “blocking technology” on all 3D printers](https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/)
 * [2026-02-03, 15:48:03](https://news.ycombinator.com/item?id=46872481) - [Anthropic is Down](https://updog.ai/status/anthropic)
 * [2026-02-03, 15:47:10](https://news.ycombinator.com/item?id=46872465) - [A sane but bull case on Clawdbot / OpenClaw](https://brandon.wang/2026/clawdbot)
+* [2026-02-03, 15:38:24](https://news.ycombinator.com/item?id=46872319) - [ga68, the GNU Algol 68 Compiler – FOSDEM 2026 [video]](https://fosdem.org/2026/schedule/event/PEXRTN-ga68-intro/)
 * [2026-02-03, 15:31:40](https://news.ycombinator.com/item?id=46872238) - [The next steps for Airbus' big bet on open rotor engines](https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/)
 * [2026-02-03, 15:28:59](https://news.ycombinator.com/item?id=46872190) - [Data Brokers Can Fuel Violence Against Public Servants](https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/)
 * [2026-02-03, 14:49:11](https://news.ycombinator.com/item?id=46871654) - [Understanding Neural Network, Visually](https://visualrambling.space/neural-network/)
