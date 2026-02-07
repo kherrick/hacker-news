@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-02-07, 01:10:00",
-      "https://news.ycombinator.com/item?id=46920273"
-    ],
-    [
-      "WebView performance significantly slower than PWA",
-      "https://issues.chromium.org/issues/40817676"
-    ]
-  ],
-  [
-    [
       "2026-02-06, 23:58:53",
       "https://news.ycombinator.com/item?id=46919824"
     ],
@@ -227,6 +217,16 @@
     [
       "How we made geo joins 400× faster with H3 indexes",
       "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 21:50:38",
+      "https://news.ycombinator.com/item?id=46877820"
+    ],
+    [
+      "Was Benoit Mandelbrot a hedgehog or a fox?",
+      "https://arxiv.org/abs/2602.01122"
     ]
   ],
   [
