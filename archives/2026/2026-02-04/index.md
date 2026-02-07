@@ -16,6 +16,7 @@
 * [2026-02-04, 20:33:35](https://news.ycombinator.com/item?id=46891290) - [Show HN: Interactive California Budget (By Claude Code)](https://california-budget.com)
 * [2026-02-04, 20:23:54](https://news.ycombinator.com/item?id=46891131) - [The Codex app is cool, and it illustrates the shift left of IDEs and coding GUIs](https://www.benshoemaker.us/writing/codex-app-launch/)
 * [2026-02-04, 20:06:00](https://news.ycombinator.com/item?id=46890899) - [Technocracy 2.0](https://brooklynrail.org/2026/02/field-notes/technocracy-2-0/)
+* [2026-02-04, 19:59:12](https://news.ycombinator.com/item?id=46890814) - [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 * [2026-02-04, 19:47:37](https://news.ycombinator.com/item?id=46890675) - [Mean People Fail (2014)](https://paulgraham.com/mean.html)
 * [2026-02-04, 19:26:08](https://news.ycombinator.com/item?id=46890418) - [Tell HN: Another round of Zendesk email spam](https://news.ycombinator.com/item?id=46890418)
 * [2026-02-04, 19:24:07](https://news.ycombinator.com/item?id=46890401) - [Show HN: EpsteIn – Search the Epstein files for your LinkedIn connections](https://github.com/cfinke/EpsteIn)
