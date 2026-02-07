@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-07, 12:53:39",
+      "https://news.ycombinator.com/item?id=46923463"
+    ],
+    [
+      "Reinforcement Learning from Human Feedback",
+      "https://arxiv.org/abs/2504.12501"
+    ]
+  ],
+  [
+    [
+      "2026-02-07, 12:18:20",
+      "https://news.ycombinator.com/item?id=46923254"
+    ],
+    [
+      "Hoot: Scheme on WebAssembly",
+      "https://www.spritely.institute/hoot/"
+    ]
+  ],
+  [
+    [
       "2026-02-07, 11:21:29",
       "https://news.ycombinator.com/item?id=46922969"
     ],
@@ -17,26 +37,6 @@
     [
       "Vocal Guide – belt sing without killing yourself",
       "https://jesperordrup.github.io/vocal-guide/"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 02:35:49",
-      "https://news.ycombinator.com/item?id=46920773"
-    ],
-    [
-      "Female Asian Elephant Calf Born at the Smithsonian National Zoo",
-      "https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 01:45:04",
-      "https://news.ycombinator.com/item?id=46920487"
-    ],
-    [
-      "Why I Joined OpenAI",
-      "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html"
     ]
   ],
   [
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=46898473"
     ],
     [
-      "How we made geo joins 400× faster with H3 indexes",
+      "Making geo joins faster with H3 indexes",
       "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes"
     ]
   ],
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=46890814"
     ],
     [
-      "Start all of your commands with a comma",
+      "Start all of your commands with a comma (2009)",
       "https://rhodesmill.org/brandon/2009/commands-with-comma/"
     ]
   ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=46874372"
     ],
     [
-      "Jeffrey Snover: \"Welcome to the Room\"",
+      "Welcome to the Room – A lesson in leadership by Satya Nadella",
       "https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/"
     ]
   ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=46872319"
     ],
     [
-      "ga68, the GNU Algol 68 Compiler – FOSDEM 2026 [video]",
+      "Ga68, a GNU Algol 68 Compiler",
       "https://fosdem.org/2026/schedule/event/PEXRTN-ga68-intro/"
     ]
   ],
@@ -241,22 +241,12 @@
   ],
   [
     [
-      "2026-02-03, 13:27:08",
-      "https://news.ycombinator.com/item?id=46870694"
+      "2026-02-03, 09:42:10",
+      "https://news.ycombinator.com/item?id=46868787"
     ],
     [
-      "Where did all the starships go?",
-      "https://www.datawrapper.de/blog/science-fiction-decline"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 13:07:37",
-      "https://news.ycombinator.com/item?id=46870514"
-    ],
-    [
-      "Learning from context is harder than we thought",
-      "https://hy.tencent.com/research/100025?langVersion=en"
+      "Cross-Region MSK Replication: K2K vs. MirrorMaker2",
+      "https://medium.com/lensesio/cross-region-msk-replication-a-comprehensive-performance-comparison-of-lenses-k2k-vs-mirrormaker2-e9d930de01bf"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
       "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 06:40:40",
+      "https://news.ycombinator.com/item?id=46867361"
+    ],
+    [
+      "What Is Ruliology?",
+      "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/"
     ]
   ],
   [
