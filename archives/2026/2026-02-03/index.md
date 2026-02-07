@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-03](index.md)
 
+* [2026-02-03, 23:31:05](https://news.ycombinator.com/item?id=46878942) - [Selection Rather Than Prediction](https://voratiq.com/blog/selection-rather-than-prediction/)
 * [2026-02-03, 22:35:27](https://news.ycombinator.com/item?id=46878338) - [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)
 * [2026-02-03, 21:50:38](https://news.ycombinator.com/item?id=46877820) - [Was Benoit Mandelbrot a hedgehog or a fox?](https://arxiv.org/abs/2602.01122)
 * [2026-02-03, 21:15:48](https://news.ycombinator.com/item?id=46877403) - [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425)
