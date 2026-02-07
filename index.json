@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-02-07, 03:12:47",
-      "https://news.ycombinator.com/item?id=46920954"
-    ],
-    [
-      "Make Trust Irrelevant: A Gamer's Take on Agentic AI Safety",
-      "https://github.com/Deso-PK/make-trust-irrelevant"
-    ]
-  ],
-  [
-    [
       "2026-02-07, 02:35:49",
       "https://news.ycombinator.com/item?id=46920773"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2026-02-05, 17:38:53",
+      "https://news.ycombinator.com/item?id=46902223"
+    ],
+    [
+      "Claude Opus 4.6",
+      "https://www.anthropic.com/news/claude-opus-4-6"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 16:13:33",
       "https://news.ycombinator.com/item?id=46901233"
     ],
@@ -237,16 +237,6 @@
     [
       "How we made geo joins 400× faster with H3 indexes",
       "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 16:13:23",
-      "https://news.ycombinator.com/item?id=46872881"
-    ],
-    [
-      "The Oklahoma Architect Who Turned Kitsch into Art",
-      "https://www.bloomberg.com/news/features/2026-01-31/oklahoma-architect-bruce-goff-s-wild-home-designs-turned-kitsch-into-art"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "A century of hair samples proves leaded gas ban worked",
       "https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 18:19:10",
+      "https://news.ycombinator.com/item?id=46859267"
+    ],
+    [
+      "Delimited Continuations vs. Lwt for Threads",
+      "https://mirageos.org/blog/delimcc-vs-lwt"
     ]
   ],
   [
