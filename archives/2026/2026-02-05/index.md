@@ -36,6 +36,7 @@
 * [2026-02-05, 14:11:13](https://news.ycombinator.com/item?id=46899808) - [CIA suddenly stops publishing, removes archives of The World Factbook](https://simonwillison.net/2026/Feb/5/the-world-factbook/)
 * [2026-02-05, 14:07:03](https://news.ycombinator.com/item?id=46899770) - [OpenAI Frontier](https://openai.com/index/introducing-openai-frontier/)
 * [2026-02-05, 13:47:59](https://news.ycombinator.com/item?id=46899591) - [The New Collabora Office for Desktop](https://www.collaboraonline.com/collabora-office/)
+* [2026-02-05, 13:40:15](https://news.ycombinator.com/item?id=46899529) - [Show HN: ARM64 Android Dev Kit](https://github.com/denuoweb/ARM64-ADK)
 * [2026-02-05, 12:56:28](https://news.ycombinator.com/item?id=46899132) - [Company as Code](https://blog.42futures.com/p/company-as-code)
 * [2026-02-05, 12:53:12](https://news.ycombinator.com/item?id=46899100) - [CIA to Sunset the World Factbook](https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724)
 * [2026-02-05, 12:48:01](https://news.ycombinator.com/item?id=46899066) - [GB Renewables Map](https://renewables-map.robinhawkes.com/)
