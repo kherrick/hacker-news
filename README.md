@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-07, 18:08:23](https://news.ycombinator.com/item?id=46926043) - [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode)
 * [2026-02-07, 17:31:24](https://news.ycombinator.com/item?id=46925669) - [U.S. Jobs Disappear at Fastest January Pace Since Great Recession](https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/)
-* [2026-02-07, 15:55:54](https://news.ycombinator.com/item?id=46924813) - [British drivers over 70 to face eye tests every three years](https://www.bbc.com/news/articles/c205nxy0p31o)
 * [2026-02-07, 15:52:42](https://news.ycombinator.com/item?id=46924790) - [Al Lowe on model trains, funny deaths and working with Disney](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/)
 * [2026-02-07, 15:05:56](https://news.ycombinator.com/item?id=46924426) - [Software factories and the agentic moment](https://factory.strongdm.ai/)
 * [2026-02-07, 14:42:16](https://news.ycombinator.com/item?id=46924264) - [Stories from 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
