@@ -52,6 +52,7 @@
 * [2026-02-04, 13:59:28](https://news.ycombinator.com/item?id=46885862) - [Thatcher Effect – Optical Illusion and Explanation](https://optical.toys/thatcher-effect/)
 * [2026-02-04, 13:02:00](https://news.ycombinator.com/item?id=46885332) - [I prefer to pass secrets between programs through standard input](https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin)
 * [2026-02-04, 12:08:49](https://news.ycombinator.com/item?id=46884883) - [Claude Is a Space to Think](https://www.anthropic.com/news/claude-is-a-space-to-think)
+* [2026-02-04, 11:13:33](https://news.ycombinator.com/item?id=46884412) - [Show HN: A luma dependent chroma compression algorithm (image compression)](https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/)
 * [2026-02-04, 10:26:34](https://news.ycombinator.com/item?id=46884027) - [Speculative Sampling Explained](https://saibo-creator.github.io/post/2024_03_08_speculative_sampling/)
 * [2026-02-04, 09:24:20](https://news.ycombinator.com/item?id=46883528) - [\"time to GPT-2\", down to 2.91 hours](https://twitter.com/karpathy/status/2018804068874064198)
 * [2026-02-04, 09:00:09](https://news.ycombinator.com/item?id=46883337) - [Broken Proofs and Broken Provers](https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html)
