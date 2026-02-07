@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-06](index.md)
 
+* [2026-02-06, 23:58:53](https://news.ycombinator.com/item?id=46919824) - [Introducing the Developer Knowledge API and MCP Server](https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/)
 * [2026-02-06, 22:10:13](https://news.ycombinator.com/item?id=46918824) - [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3)
 * [2026-02-06, 22:00:46](https://news.ycombinator.com/item?id=46918727) - [Early Christian Writings](https://earlychristianwritings.com/)
 * [2026-02-06, 21:51:23](https://news.ycombinator.com/item?id=46918612) - [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)

@@ -76,6 +76,7 @@
 * [2026-02-03, 06:53:23](https://news.ycombinator.com/item?id=46867446) - [Stay Away from My Trash](https://tldraw.dev/blog/stay-away-from-my-trash)
 * [2026-02-03, 06:26:01](https://news.ycombinator.com/item?id=46867271) - [Plasma Effect](https://www.4rknova.com/blog/2016/11/01/plasma)
 * [2026-02-03, 05:49:56](https://news.ycombinator.com/item?id=46867018) - [An interactive version of Byrne's The Elements of Euclid (1847)](https://c82.net/euclid/)
+* [2026-02-03, 05:38:51](https://news.ycombinator.com/item?id=46866937) - [A century of hair samples proves leaded gas ban worked](https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/)
 * [2026-02-03, 04:33:25](https://news.ycombinator.com/item?id=46866544) - [Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html)
 * [2026-02-03, 04:25:35](https://news.ycombinator.com/item?id=46866481) - [Coding assistants are solving the wrong problem](https://www.bicameral-ai.com/blog/introducing-bicameral)
 * [2026-02-03, 04:12:16](https://news.ycombinator.com/item?id=46866385) - [Frog 'saunas' could help endangered species beat a deadly fungus (2024)](https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus)
