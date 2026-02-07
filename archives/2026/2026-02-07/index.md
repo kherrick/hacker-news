@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-07](index.md)
 
+* [2026-02-07, 19:07:27](https://news.ycombinator.com/item?id=46926576) - [Brookhaven Lab's RHIC Concludes 25-Year Run with Final Collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
 * [2026-02-07, 18:32:27](https://news.ycombinator.com/item?id=46926245) - [We Mourn Our Craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
 * [2026-02-07, 18:08:23](https://news.ycombinator.com/item?id=46926043) - [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode)
 * [2026-02-07, 17:45:27](https://news.ycombinator.com/item?id=46925811) - [Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version](https://github.com/Momciloo/fun-with-clip-path)
