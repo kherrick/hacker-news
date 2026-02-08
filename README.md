@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-08, 23:13:34](https://news.ycombinator.com/item?id=46939593) - [AI Makes the Easy Part Easier and the Hard Part Harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
 * [2026-02-08, 22:38:14](https://news.ycombinator.com/item?id=46939298) - [Toma (YC W24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products)
 * [2026-02-08, 22:25:25](https://news.ycombinator.com/item?id=46939187) - [Reverse Engineering the Prom for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/)
 * [2026-02-08, 21:52:28](https://news.ycombinator.com/item?id=46938903) - [Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization (2025)](https://arxiv.org/abs/2510.25417)
@@ -16,7 +17,6 @@
 * [2026-02-08, 17:08:30](https://news.ycombinator.com/item?id=46936237) - [Show HN: I created a Mars colony RPG based on Kim Stanley Robinson's Mars books](https://underhillgame.com/)
 * [2026-02-08, 16:56:08](https://news.ycombinator.com/item?id=46936105) - [Billing can be bypassed using a combo of subagents with an agent definition](https://github.com/microsoft/vscode/issues/292452)
 * [2026-02-08, 16:47:08](https://news.ycombinator.com/item?id=46935991) - [Omega-3 is inversely related to risk of early-onset dementia](https://pubmed.ncbi.nlm.nih.gov/41506004/)
-* [2026-02-08, 16:41:05](https://news.ycombinator.com/item?id=46935931) - [Credentials for Linux: Bringing Passkeys to the Linux Desktop](https://alfioemanuele.io/talks/2026/02/01/fosdem-2026-credentials-for-linux.html)
 * [2026-02-08, 16:28:51](https://news.ycombinator.com/item?id=46935791) - [I put a real-time 3D shader on the Game Boy Color](https://blog.otterstack.com/posts/202512-gbshader/)
 * [2026-02-08, 14:40:52](https://news.ycombinator.com/item?id=46934579) - [Exploiting signed bootloaders to circumvent UEFI Secure Boot](https://habr.com/en/articles/446238/)
 * [2026-02-08, 14:32:28](https://news.ycombinator.com/item?id=46934499) - [RFC 3092 – Etymology of \"Foo\" (2001)](https://datatracker.ietf.org/doc/html/rfc3092)
