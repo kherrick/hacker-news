@@ -8,6 +8,7 @@
 * [2026-02-08, 14:32:28](https://news.ycombinator.com/item?id=46934499) - [RFC 3092 – Etymology of \"Foo\" (2001)](https://datatracker.ietf.org/doc/html/rfc3092)
 * [2026-02-08, 14:19:32](https://news.ycombinator.com/item?id=46934404) - [AI fatigue Is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 * [2026-02-08, 14:12:18](https://news.ycombinator.com/item?id=46934344) - [I am happier writing code by hand](https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/)
+* [2026-02-08, 14:02:58](https://news.ycombinator.com/item?id=46934266) - [Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing](https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/)
 * [2026-02-08, 13:53:16](https://news.ycombinator.com/item?id=46934190) - [Show HN: I built a festival tracker that matches lineups to your music library](https://apps.apple.com/us/app/festiveo-music-festivals/id6755355854)
 * [2026-02-08, 13:48:09](https://news.ycombinator.com/item?id=46934165) - [Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 * [2026-02-08, 13:40:56](https://news.ycombinator.com/item?id=46934107) - [GitHub Agentic Workflows](https://github.github.io/gh-aw/)
