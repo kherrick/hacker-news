@@ -1,11 +1,41 @@
 [
   [
     [
+      "2026-02-08, 03:09:28",
+      "https://news.ycombinator.com/item?id=46930961"
+    ],
+    [
+      "Vouch",
+      "https://twitter.com/mitchellh/status/2020252149117313349"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 01:55:09",
+      "https://news.ycombinator.com/item?id=46930565"
+    ],
+    [
+      "Haskell for all: Beyond agentic coding",
+      "https://haskellforall.com/2026/02/beyond-agentic-coding"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 01:26:38",
+      "https://news.ycombinator.com/item?id=46930391"
+    ],
+    [
+      "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
+      "https://github.com/localgpt-app/localgpt"
+    ]
+  ],
+  [
+    [
       "2026-02-07, 23:23:01",
       "https://news.ycombinator.com/item?id=46929391"
     ],
     [
-      "The silent death of Good Code",
+      "The silent death of good code",
       "https://amit.prasad.me/blog/rip-good-code"
     ]
   ],
@@ -17,16 +47,6 @@
     [
       "FDA intends to take action against non-FDA-approved GLP-1 drugs",
       "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 21:45:54",
-      "https://news.ycombinator.com/item?id=46928435"
-    ],
-    [
-      "Tiny C Compiler",
-      "https://bellard.org/tcc/"
     ]
   ],
   [
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=46925741"
     ],
     [
-      "SectorC: A C Compiler in 512 bytes",
+      "SectorC: A C Compiler in 512 bytes (2023)",
       "https://xorvoid.com/sectorc.html"
     ]
   ],
@@ -127,16 +147,6 @@
     [
       "Stories from 25 Years of Software Development",
       "https://susam.net/twenty-five-years-of-computing.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 13:07:09",
-      "https://news.ycombinator.com/item?id=46923543"
-    ],
-    [
-      "Coding agents have replaced every framework I used",
-      "https://blog.alaindichiappari.dev/p/software-engineering-is-back"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-02-06, 21:33:11",
-      "https://news.ycombinator.com/item?id=46918429"
-    ],
-    [
-      "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
-      "https://github.com/valdanylchuk/breezydemo"
-    ]
-  ],
-  [
-    [
       "2026-02-04, 19:59:12",
       "https://news.ycombinator.com/item?id=46890814"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-02-03, 16:40:52",
-      "https://news.ycombinator.com/item?id=46873322"
+      "2026-02-03, 17:14:02",
+      "https://news.ycombinator.com/item?id=46873813"
     ],
     [
-      "A Fresh Look at IBM 3270 Information Display System",
-      "https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system"
+      "IBM Beam Spring: The Ultimate Retro Keyboard",
+      "https://www.rs-online.com/designspark/ibm-beam-spring-the-ultimate-retro-keyboard"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-02-03, 10:58:00",
-      "https://news.ycombinator.com/item?id=46869353"
+      "2026-02-03, 10:00:03",
+      "https://news.ycombinator.com/item?id=46868928"
     ],
     [
-      "Eigen: Building a Workspace",
-      "https://reindernijhoff.net/2025/10/eigen-building-a-workspace/"
+      "LLMs as the new high level language",
+      "https://federicopereiro.com/llm-high/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-02-02, 16:40:55",
-      "https://news.ycombinator.com/item?id=46858042"
+      "2026-02-03, 00:43:31",
+      "https://news.ycombinator.com/item?id=46864642"
     ],
     [
-      "72M Points of Interest",
-      "https://tech.marksblogg.com/overture-places-pois.html"
+      "Show HN: Axiomeer – An open marketplace for AI agents",
+      "https://github.com/ujjwalredd/Axiomeer"
     ]
   ]
 ]
