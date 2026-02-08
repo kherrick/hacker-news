@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-08, 16:47:08",
+      "https://news.ycombinator.com/item?id=46935991"
+    ],
+    [
+      "Omega-3 is inversely related to risk of early-onset dementia",
+      "https://pubmed.ncbi.nlm.nih.gov/41506004/"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 15:29:22",
       "https://news.ycombinator.com/item?id=46935104"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2026-02-08, 15:21:21",
-      "https://news.ycombinator.com/item?id=46935011"
+      "2026-02-08, 14:40:52",
+      "https://news.ycombinator.com/item?id=46934579"
     ],
     [
-      "Noam Chomsky's wife responds to Epstein controversy",
-      "https://www.aaronmate.net/p/noam-chomskys-wife-responds-to-epstein"
+      "Exploiting signed bootloaders to circumvent UEFI Secure Boot",
+      "https://habr.com/en/articles/446238/"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "RFC 3092 – Etymology of \"Foo\" (2001)",
       "https://datatracker.ietf.org/doc/html/rfc3092"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 14:19:32",
-      "https://news.ycombinator.com/item?id=46934404"
-    ],
-    [
-      "AI fatigue Is real and nobody talks about it",
-      "https://siddhantkhare.com/writing/ai-fatigue-is-real"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "GitHub Agentic Workflows",
       "https://github.github.io/gh-aw/"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 12:00:02",
-      "https://news.ycombinator.com/item?id=46933515"
-    ],
-    [
-      "Show HN: Fine-tuned Qwen2.5-7B on 100 films for probabilistic story graphs",
-      "https://cinegraphs.ai/"
     ]
   ],
   [
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=46931805"
     ],
     [
-      "OpenClaw Is Changing My Life",
+      "OpenClaw is changing my life",
       "https://reorx.com/blog/openclaw-is-changing-my-life/"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "LLMs as the new high level language",
       "https://federicopereiro.com/llm-high/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 09:34:27",
+      "https://news.ycombinator.com/item?id=46868726"
+    ],
+    [
+      "Show HN: Kekkai – Interactive security triage in the terminal",
+      "https://news.ycombinator.com/item?id=46868726"
     ]
   ],
   [
