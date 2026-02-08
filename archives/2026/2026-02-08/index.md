@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 18:24:26](https://news.ycombinator.com/item?id=46937012) - [Roundcube Webmail: SVG feImage bypasses image blocking to track email opens](https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/)
+* [2026-02-08, 18:02:50](https://news.ycombinator.com/item?id=46936828) - [The Little Bool of Doom](https://blog.svgames.pl/article/the-little-bool-of-doom)
+* [2026-02-08, 17:41:08](https://news.ycombinator.com/item?id=46936612) - [Man, 83, Tricked by Scammers, Gets 21 Years to Life for Killing Uber Driver](https://www.nytimes.com/2026/02/02/us/ohio-man-kills-uber-driver-sentenced.html)
 * [2026-02-08, 17:39:00](https://news.ycombinator.com/item?id=46936595) - [Bun v1.3.9](https://bun.com/blog/bun-v1.3.9)
+* [2026-02-08, 17:15:17](https://news.ycombinator.com/item?id=46936315) - [The First Sodium-Ion Battery EV Is a Winter Range Monster](https://insideevs.com/news/786509/catl-changan-worlds-first-sodium-ion-battery-ev/)
 * [2026-02-08, 17:11:42](https://news.ycombinator.com/item?id=46936274) - [Let's compile Quake like it's 1997](https://fabiensanglard.net/compile_like_1997/index.html)
+* [2026-02-08, 17:08:30](https://news.ycombinator.com/item?id=46936237) - [Show HN: I created a Mars colony RPG based on Kim Stanley Robinson's Mars books](https://underhillgame.com/)
 * [2026-02-08, 16:56:08](https://news.ycombinator.com/item?id=46936105) - [Billing can be bypassed using a combo of subagents with an agent definition](https://github.com/microsoft/vscode/issues/292452)
 * [2026-02-08, 16:47:08](https://news.ycombinator.com/item?id=46935991) - [Omega-3 is inversely related to risk of early-onset dementia](https://pubmed.ncbi.nlm.nih.gov/41506004/)
 * [2026-02-08, 16:45:49](https://news.ycombinator.com/item?id=46935980) - [Vouch](https://github.com/mitchellh/vouch)
