@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
 * [2026-02-08, 09:44:55](https://news.ycombinator.com/item?id=46932845) - [In the Australian outback, we're listening for nuclear tests](https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478)
+* [2026-02-08, 09:10:18](https://news.ycombinator.com/item?id=46932678) - [Reverse Engineering Raiders of the Lost Ark for the Atari 2600](https://github.com/joshuanwalker/Raiders2600)
 * [2026-02-08, 08:15:36](https://news.ycombinator.com/item?id=46932388) - [LLMs as Language Compilers: Lessons from Fortran for the Future of Coding](https://cyber-omelette.com/posts/the-abstraction-rises.html)
 * [2026-02-08, 08:07:55](https://news.ycombinator.com/item?id=46932343) - [Matchlock: Linux-based sandboxing for AI agents](https://github.com/jingkaihe/matchlock)
 * [2026-02-08, 07:39:49](https://news.ycombinator.com/item?id=46932192) - [DoNotNotify is now Open Source](https://donotnotify.com/opensource.html)

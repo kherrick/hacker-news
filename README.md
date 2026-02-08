@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-08, 09:44:55](https://news.ycombinator.com/item?id=46932845) - [In the Australian outback, we're listening for nuclear tests](https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478)
-* [2026-02-08, 08:15:36](https://news.ycombinator.com/item?id=46932388) - [LLMs as Language Compilers: Lessons from Fortran for the Future of Coding](https://cyber-omelette.com/posts/the-abstraction-rises.html)
+* [2026-02-08, 09:10:18](https://news.ycombinator.com/item?id=46932678) - [Reverse Engineering Raiders of the Lost Ark for the Atari 2600](https://github.com/joshuanwalker/Raiders2600)
 * [2026-02-08, 08:07:55](https://news.ycombinator.com/item?id=46932343) - [Matchlock: Linux-based sandboxing for AI agents](https://github.com/jingkaihe/matchlock)
 * [2026-02-08, 07:39:49](https://news.ycombinator.com/item?id=46932192) - [DoNotNotify is now Open Source](https://donotnotify.com/opensource.html)
 * [2026-02-08, 05:33:15](https://news.ycombinator.com/item?id=46931595) - [LineageOS 23.2](https://lineageos.org/Changelog-31/)
@@ -23,13 +23,13 @@
 * [2026-02-06, 21:33:11](https://news.ycombinator.com/item?id=46918429) - [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
 * [2026-02-05, 08:56:25](https://news.ycombinator.com/item?id=46897407) - [Wood Gas Vehicles: Firewood in the Fuel Tank (2010)](https://solar.lowtechmagazine.com/2010/01/wood-gas-vehicles-firewood-in-the-fuel-tank/)
 * [2026-02-04, 19:59:12](https://news.ycombinator.com/item?id=46890814) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
+* [2026-02-04, 14:57:38](https://news.ycombinator.com/item?id=46886569) - [Rabbit Ear \"Origami\": programmable origami in the browser (JS)](https://rabbitear.org/book/origami.html)
 * [2026-02-04, 11:13:33](https://news.ycombinator.com/item?id=46884412) - [Show HN: A luma dependent chroma compression algorithm (image compression)](https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/)
 * [2026-02-03, 13:27:08](https://news.ycombinator.com/item?id=46870694) - [Where did all the starships go?](https://www.datawrapper.de/blog/science-fiction-decline)
 * [2026-02-03, 11:41:11](https://news.ycombinator.com/item?id=46869713) - [uLauncher](https://github.com/jrpie/launcher)
 * [2026-02-03, 10:00:03](https://news.ycombinator.com/item?id=46868928) - [LLMs as the new high level language](https://federicopereiro.com/llm-high/)
 * [2026-02-03, 08:06:05](https://news.ycombinator.com/item?id=46867997) - [Modern and Antique Technologies Reveal a Dynamic Cosmos](https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/)
 * [2026-02-02, 20:37:41](https://news.ycombinator.com/item?id=46861158) - [The Architecture of Open Source Applications (Volume 1) Berkeley DB](https://aosabook.org/en/v1/bdb.html)
-* [2026-02-02, 13:33:12](https://news.ycombinator.com/item?id=46855852) - [Moroccan sardine prices to stabilise via new measures: officials](https://maghrebi.org/2026/01/27/moroccan-sardine-prices-to-stabilise-via-new-measures-officials/)
 
 ## [Archives](archives/index.md)
 
