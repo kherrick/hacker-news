@@ -63,6 +63,7 @@
 * [2026-02-03, 12:23:12](https://news.ycombinator.com/item?id=46870113) - [Lead in archived hair documents a decline in lead exposure to humans after EPA](https://www.pnas.org/doi/10.1073/pnas.2525498123)
 * [2026-02-03, 12:13:44](https://news.ycombinator.com/item?id=46870015) - [Bunny Database](https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/)
 * [2026-02-03, 12:00:23](https://news.ycombinator.com/item?id=46869901) - [Emerge Career (YC S22) Is Hiring a Founding Product Designer](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer)
+* [2026-02-03, 11:41:11](https://news.ycombinator.com/item?id=46869713) - [uLauncher](https://github.com/jrpie/launcher)
 * [2026-02-03, 11:05:32](https://news.ycombinator.com/item?id=46869401) - [Spain to ban social media access for under-16s, PM Sanchez says](https://www.reuters.com/world/spain-hold-social-media-executives-accountable-illegal-hateful-content-2026-02-03/)
 * [2026-02-03, 10:58:00](https://news.ycombinator.com/item?id=46869353) - [Eigen: Building a Workspace](https://reindernijhoff.net/2025/10/eigen-building-a-workspace/)
 * [2026-02-03, 10:11:35](https://news.ycombinator.com/item?id=46869024) - [Sealos – AI Native Cloud Cloud Operating System](https://github.com/labring/sealos)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 07:11:47](https://news.ycombinator.com/item?id=46932010) - [Turning books to courses using AI](https://www.book2course.org/)
 * [2026-02-08, 07:00:40](https://news.ycombinator.com/item?id=46931948) - [The world heard JD Vance being booed at the Olympics. Except for viewers in USA](https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics)
 * [2026-02-08, 06:21:27](https://news.ycombinator.com/item?id=46931805) - [OpenClaw Is Changing My Life](https://reorx.com/blog/openclaw-is-changing-my-life/)
 * [2026-02-08, 05:33:15](https://news.ycombinator.com/item?id=46931595) - [LineageOS 23.2](https://lineageos.org/Changelog-31/)
@@ -11,5 +12,6 @@
 * [2026-02-08, 03:59:24](https://news.ycombinator.com/item?id=46931213) - [Homeland Security Spying on Reddit Users](https://www.kenklippenstein.com/p/homeland-security-spies-on-reddit)
 * [2026-02-08, 03:20:33](https://news.ycombinator.com/item?id=46931026) - [Bye Bye Humanity: The Potential AMOC Collapse](https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/)
 * [2026-02-08, 03:09:28](https://news.ycombinator.com/item?id=46930961) - [Vouch](https://twitter.com/mitchellh/status/2020252149117313349)
+* [2026-02-08, 02:10:16](https://news.ycombinator.com/item?id=46930634) - [The Scriptovision Super Micro Script video titler is almost a home computer](http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html)
 * [2026-02-08, 01:55:09](https://news.ycombinator.com/item?id=46930565) - [Haskell for all: Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
 * [2026-02-08, 01:26:38](https://news.ycombinator.com/item?id=46930391) - [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
