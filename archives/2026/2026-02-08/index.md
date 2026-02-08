@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 21:52:28](https://news.ycombinator.com/item?id=46938903) - [Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization](https://arxiv.org/abs/2510.25417)
 * [2026-02-08, 21:19:30](https://news.ycombinator.com/item?id=46938615) - [Voidtools Everything – Locate files and folders by name instantly](https://www.voidtools.com/)
+* [2026-02-08, 20:52:55](https://news.ycombinator.com/item?id=46938398) - [More Mac malware from Google search](https://eclecticlight.co/2026/01/30/more-malware-from-google-search/)
 * [2026-02-08, 20:38:55](https://news.ycombinator.com/item?id=46938280) - [Apple XNU: Clutch Scheduler](https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md)
 * [2026-02-08, 20:34:51](https://news.ycombinator.com/item?id=46938241) - [A GTA modder has got the 1997 original working on modern PCs and Steam Deck](https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/)
 * [2026-02-08, 20:31:11](https://news.ycombinator.com/item?id=46938217) - [The 'Little red dots' observed by Webb were direct-collapse black holes](https://phys.org/news/2026-02-red-dots-webb-collapse-black.html)
