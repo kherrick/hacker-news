@@ -84,6 +84,7 @@
 * [2026-02-03, 08:42:51](https://news.ycombinator.com/item?id=46868287) - [From Tobacco to Ultraprocessed Food: How Industry Fuels Preventable Disease](https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.70066)
 * [2026-02-03, 08:42:10](https://news.ycombinator.com/item?id=46868282) - [Total Surface Area Required to Fuel the World with Solar (2009)](https://landartgenerator.org/blagi/archives/127)
 * [2026-02-03, 08:41:19](https://news.ycombinator.com/item?id=46868275) - [Coding Agents and Use Cases](https://justsitandgrin.im/posts/coding-agents-use-cases/)
+* [2026-02-03, 08:40:49](https://news.ycombinator.com/item?id=46868272) - [International Image Interoperability Framework](https://iiif.io/)
 * [2026-02-03, 08:24:36](https://news.ycombinator.com/item?id=46868142) - [The overlooked evolution of the humble car door handle](https://newatlas.com/automotive/evolution-car-door-handle/)
 * [2026-02-03, 08:23:23](https://news.ycombinator.com/item?id=46868135) - [The Beauty of Slag](https://mag.uchicago.edu/science-medicine/beauty-slag)
 * [2026-02-03, 08:06:05](https://news.ycombinator.com/item?id=46867997) - [Modern and Antique Technologies Reveal a Dynamic Cosmos](https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/)

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 20:34:51](https://news.ycombinator.com/item?id=46938241) - [A GTA modder has got the 1997 original working on modern PCs and Steam Deck](https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/)
+* [2026-02-08, 20:31:11](https://news.ycombinator.com/item?id=46938217) - [The 'Little red dots' observed by Webb were direct-collapse black holes](https://phys.org/news/2026-02-red-dots-webb-collapse-black.html)
+* [2026-02-08, 20:22:29](https://news.ycombinator.com/item?id=46938147) - [Amazon delivery drone strikes North Texas apartment, causing minor damage](https://www.expressnews.com/news/texas/article/amazon-delivery-drone-crash-richardson-texas-21341387.php)
 * [2026-02-08, 18:24:26](https://news.ycombinator.com/item?id=46937012) - [Roundcube Webmail: SVG feImage bypasses image blocking to track email opens](https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/)
 * [2026-02-08, 18:13:48](https://news.ycombinator.com/item?id=46936920) - [Experts Have World Models. LLMs Have Word Models](https://www.latent.space/p/adversarial-reasoning)
 * [2026-02-08, 18:02:50](https://news.ycombinator.com/item?id=46936828) - [The Little Bool of Doom](https://blog.svgames.pl/article/the-little-bool-of-doom)
@@ -16,6 +19,7 @@
 * [2026-02-08, 16:56:08](https://news.ycombinator.com/item?id=46936105) - [Billing can be bypassed using a combo of subagents with an agent definition](https://github.com/microsoft/vscode/issues/292452)
 * [2026-02-08, 16:47:08](https://news.ycombinator.com/item?id=46935991) - [Omega-3 is inversely related to risk of early-onset dementia](https://pubmed.ncbi.nlm.nih.gov/41506004/)
 * [2026-02-08, 16:45:49](https://news.ycombinator.com/item?id=46935980) - [Vouch](https://github.com/mitchellh/vouch)
+* [2026-02-08, 16:41:05](https://news.ycombinator.com/item?id=46935931) - [Credentials for Linux: Bringing Passkeys to the Linux Desktop](https://alfioemanuele.io/talks/2026/02/01/fosdem-2026-credentials-for-linux.html)
 * [2026-02-08, 16:28:51](https://news.ycombinator.com/item?id=46935791) - [I put a real-time 3D shader on the Game Boy Color](https://blog.otterstack.com/posts/202512-gbshader/)
 * [2026-02-08, 15:29:22](https://news.ycombinator.com/item?id=46935104) - [Five disciplines discovered the same math independently – none of them knew](https://freethemath.org)
 * [2026-02-08, 15:21:21](https://news.ycombinator.com/item?id=46935011) - [Noam Chomsky's wife responds to Epstein controversy](https://www.aaronmate.net/p/noam-chomskys-wife-responds-to-epstein)
