@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-02-08, 13:53:16",
-      "https://news.ycombinator.com/item?id=46934190"
+      "2026-02-08, 14:32:28",
+      "https://news.ycombinator.com/item?id=46934499"
     ],
     [
-      "Show HN: I built a festival tracker that matches lineups to your music library",
-      "https://apps.apple.com/us/app/festiveo-music-festivals/id6755355854"
+      "RFC 3092 – Etymology of \"Foo\" (2001)",
+      "https://datatracker.ietf.org/doc/html/rfc3092"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 14:19:32",
+      "https://news.ycombinator.com/item?id=46934404"
+    ],
+    [
+      "AI fatigue Is real and nobody talks about it",
+      "https://siddhantkhare.com/writing/ai-fatigue-is-real"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 13:48:09",
+      "https://news.ycombinator.com/item?id=46934165"
+    ],
+    [
+      "Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks",
+      "https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 13:40:56",
+      "https://news.ycombinator.com/item?id=46934107"
+    ],
+    [
+      "GitHub Agentic Workflows",
+      "https://github.github.io/gh-aw/"
     ]
   ],
   [
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2026-02-07, 14:42:16",
-      "https://news.ycombinator.com/item?id=46924264"
-    ],
-    [
-      "Stories from 25 Years of Software Development",
-      "https://susam.net/twenty-five-years-of-computing.html"
-    ]
-  ],
-  [
-    [
       "2026-02-07, 12:18:20",
       "https://news.ycombinator.com/item?id=46923254"
     ],
     [
       "Hoot: Scheme on WebAssembly",
       "https://www.spritely.institute/hoot/"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 07:37:03",
-      "https://news.ycombinator.com/item?id=46922049"
-    ],
-    [
-      "Vocal Guide – belt sing without killing yourself",
-      "https://jesperordrup.github.io/vocal-guide/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-02-03, 11:41:11",
-      "https://news.ycombinator.com/item?id=46869713"
-    ],
-    [
-      "uLauncher",
-      "https://github.com/jrpie/launcher"
-    ]
-  ],
-  [
-    [
       "2026-02-03, 10:21:37",
       "https://news.ycombinator.com/item?id=46869113"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-02-03, 08:06:05",
-      "https://news.ycombinator.com/item?id=46867997"
-    ],
-    [
-      "Modern and Antique Technologies Reveal a Dynamic Cosmos",
-      "https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/"
-    ]
-  ],
-  [
-    [
       "2026-02-02, 20:37:41",
       "https://news.ycombinator.com/item?id=46861158"
     ],
     [
       "The Architecture of Open Source Applications (Volume 1) Berkeley DB",
       "https://aosabook.org/en/v1/bdb.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 18:31:17",
+      "https://news.ycombinator.com/item?id=46859433"
+    ],
+    [
+      "Kolakoski Sequence",
+      "https://en.wikipedia.org/wiki/Kolakoski_sequence"
     ]
   ]
 ]
