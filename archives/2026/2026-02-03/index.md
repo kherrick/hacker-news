@@ -66,6 +66,7 @@
 * [2026-02-03, 11:41:11](https://news.ycombinator.com/item?id=46869713) - [uLauncher](https://github.com/jrpie/launcher)
 * [2026-02-03, 11:05:32](https://news.ycombinator.com/item?id=46869401) - [Spain to ban social media access for under-16s, PM Sanchez says](https://www.reuters.com/world/spain-hold-social-media-executives-accountable-illegal-hateful-content-2026-02-03/)
 * [2026-02-03, 10:58:00](https://news.ycombinator.com/item?id=46869353) - [Eigen: Building a Workspace](https://reindernijhoff.net/2025/10/eigen-building-a-workspace/)
+* [2026-02-03, 10:21:37](https://news.ycombinator.com/item?id=46869113) - [A11yJSON: A standard to describe the accessibility of the physical world](https://sozialhelden.github.io/a11yjson/)
 * [2026-02-03, 10:11:35](https://news.ycombinator.com/item?id=46869024) - [Sealos – AI Native Cloud Cloud Operating System](https://github.com/labring/sealos)
 * [2026-02-03, 10:08:52](https://news.ycombinator.com/item?id=46868998) - [Paris prosecutors raid France offices of Elon Musk's X](https://www.bbc.com/news/articles/ce3ex92557jo)
 * [2026-02-03, 10:00:03](https://news.ycombinator.com/item?id=46868928) - [LLMs as the new high level language](https://federicopereiro.com/llm-high/)
