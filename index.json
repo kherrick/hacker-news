@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2026-02-08, 20:38:55",
+      "https://news.ycombinator.com/item?id=46938280"
+    ],
+    [
+      "Apple XNU: Clutch Scheduler",
+      "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 20:34:51",
       "https://news.ycombinator.com/item?id=46938241"
     ],
     [
       "A GTA modder has got the 1997 original working on modern PCs and Steam Deck",
       "https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 20:31:11",
-      "https://news.ycombinator.com/item?id=46938217"
-    ],
-    [
-      "The 'Little red dots' observed by Webb were direct-collapse black holes",
-      "https://phys.org/news/2026-02-red-dots-webb-collapse-black.html"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-02-08, 08:07:55",
-      "https://news.ycombinator.com/item?id=46932343"
-    ],
-    [
-      "Matchlock – Secures AI agent workloads with a Linux-based sandbox",
-      "https://github.com/jingkaihe/matchlock"
-    ]
-  ],
-  [
-    [
       "2026-02-08, 06:21:27",
       "https://news.ycombinator.com/item?id=46931805"
     ],
@@ -257,6 +247,16 @@
     [
       "Show HN: It took 4 years to sell my startup. I wrote a book about it",
       "https://derekyan.com/ma-book/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 12:23:31",
+      "https://news.ycombinator.com/item?id=46870117"
+    ],
+    [
+      "SpiceDB Query Planner",
+      "https://authzed.com/blog/introducing-spicedb-query-planner"
     ]
   ],
   [
