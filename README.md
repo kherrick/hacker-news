@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-08, 04:34:50](https://news.ycombinator.com/item?id=46931347) - [Why there is no official statement from Substack about the data leak](https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/)
-* [2026-02-08, 03:59:24](https://news.ycombinator.com/item?id=46931213) - [Homeland Security Spying on Reddit Users](https://www.kenklippenstein.com/p/homeland-security-spies-on-reddit)
 * [2026-02-08, 03:20:33](https://news.ycombinator.com/item?id=46931026) - [Bye Bye Humanity: The Potential AMOC Collapse](https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/)
 * [2026-02-08, 03:09:28](https://news.ycombinator.com/item?id=46930961) - [Vouch](https://twitter.com/mitchellh/status/2020252149117313349)
 * [2026-02-08, 01:55:09](https://news.ycombinator.com/item?id=46930565) - [Haskell for all: Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
@@ -22,14 +21,15 @@
 * [2026-02-07, 07:37:03](https://news.ycombinator.com/item?id=46922049) - [Vocal Guide – belt sing without killing yourself](https://jesperordrup.github.io/vocal-guide/)
 * [2026-02-06, 21:51:23](https://news.ycombinator.com/item?id=46918612) - [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
 * [2026-02-06, 21:33:11](https://news.ycombinator.com/item?id=46918429) - [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
+* [2026-02-06, 15:20:23](https://news.ycombinator.com/item?id=46913903) - [An Update on Heroku](https://www.heroku.com/blog/an-update-on-heroku/)
+* [2026-02-05, 08:56:25](https://news.ycombinator.com/item?id=46897407) - [Wood Gas Vehicles: Firewood in the Fuel Tank (2010)](https://solar.lowtechmagazine.com/2010/01/wood-gas-vehicles-firewood-in-the-fuel-tank/)
 * [2026-02-04, 19:59:12](https://news.ycombinator.com/item?id=46890814) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 * [2026-02-04, 11:13:33](https://news.ycombinator.com/item?id=46884412) - [Show HN: A luma dependent chroma compression algorithm (image compression)](https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/)
 * [2026-02-03, 23:31:05](https://news.ycombinator.com/item?id=46878942) - [Selection rather than prediction](https://voratiq.com/blog/selection-rather-than-prediction/)
 * [2026-02-03, 13:27:08](https://news.ycombinator.com/item?id=46870694) - [Where did all the starships go?](https://www.datawrapper.de/blog/science-fiction-decline)
 * [2026-02-03, 13:07:37](https://news.ycombinator.com/item?id=46870514) - [Learning from context is harder than we thought](https://hy.tencent.com/research/100025?langVersion=en)
 * [2026-02-03, 10:00:03](https://news.ycombinator.com/item?id=46868928) - [LLMs as the new high level language](https://federicopereiro.com/llm-high/)
-* [2026-02-03, 08:49:40](https://news.ycombinator.com/item?id=46868343) - [Unseen Footage of Atari Battlezone Arcade Cabinet Production](https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/)
-* [2026-02-03, 08:42:10](https://news.ycombinator.com/item?id=46868282) - [Total Surface Area Required to Fuel the World with Solar (2009)](https://landartgenerator.org/blagi/archives/127)
+* [2026-02-03, 08:42:10](https://news.ycombinator.com/item?id=46868282) - [Total surface area required to fuel the world with solar (2009)](https://landartgenerator.org/blagi/archives/127)
 
 ## [Archives](archives/index.md)
 
