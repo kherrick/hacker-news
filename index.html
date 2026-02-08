@@ -129,23 +129,121 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46933515">
+          <h3>
+            <a class="item" href="https://cinegraphs.ai/"
+              >Show HN: Fine-tuned Qwen2.5-7B on 100 films for probabilistic
+              story graphs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-08 @ 12:00:02</span
+              ><span class="points-container"
+                >Points: <span class="points">37</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46933515"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The idea is simple: you input a rough concept, and the tool
+                generates branching narrative paths visualized as a graph. You
+                can sculpt those branches into a structured screenplay format
+                and export to Fountain for use in professional screenwriting
+                software.
+              </p>
+              <p>
+                Most AI writing tools are trained on generic internet text,
+                which is why they output generic results. I wanted something
+                that understood actual cinematic storytelling—not plot summaries
+                or Wikipedia synopses, but the actual structural DNA of films.
+                So I spent a month curating 100 films I consider high-quality
+                cinema. Not just popular films, but works with distinctive
+                narrative structures: Godard's jump cuts and essay-film
+                digressions, Kurosawa's parallel character arcs, Brakhage's
+                non-linear visual poetry, Tarkovsky's slow-burn temporal
+                structures. The selection was deliberately eclectic because I
+                wanted the model to learn that "story" can mean many things.
+              </p>
+              <p>
+                Getting useful training data from films is harder than it
+                sounds. I built a 1000+ line Python pipeline using Qwen3-VL to
+                analyze each film with subtitles enabled. The pipeline extracts
+                scene-level narrative beats, character relationships and how
+                they evolve, thematic threads, and dialogue patterns. The tricky
+                part was getting Qwen3-VL to understand cinematic structure
+                rather than just summarizing plot. I had to iterate on the
+                prompts extensively to get it to identify things like "this
+                scene functions as a mirror to the opening" or "this character's
+                arc inverts the protagonist's." That took weeks and I'm still
+                not fully satisfied with it, but it's good enough to produce
+                useful training data.
+              </p>
+              <p>
+                From those extractions I generated a 10K example dataset of
+                prompt-to-branching-narrative pairs, then fine-tuned
+                Qwen2.5-7B-Instruct with a LoRA optimized for probabilistic
+                story branching. The LoRA handles the graph generation—exploring
+                possible narrative directions—while the full 7B model generates
+                the actual technical screenplay format when you export. I chose
+                the 7B model because I wanted something that could run
+                affordably at scale while still being capable enough for nuanced
+                generation. The whole thing is served on a single 4090 GPU using
+                vLLM. The frontend uses React Flow for the graph visualization.
+                The key insight was that screenwriting is fundamentally about
+                making choices—what if the character goes left instead of
+                right?—but most writing tools force you into a linear document
+                too early. The graph structure lets you explore multiple paths
+                before committing, which matches how writers actually think in
+                early development.
+              </p>
+              <p>
+                The biggest surprise was how much the film selection mattered.
+                Early versions trained on more mainstream films produced much
+                more formulaic outputs. Adding experimental and international
+                cinema dramatically improved the variety and interestingness of
+                the generations. The model seemed to learn that narrative
+                structure is a design space, not a formula.
+              </p>
+              <p>
+                We've been using it ourselves to break through second-act
+                problems—when you know where you want to end up but can't figure
+                out how to get there. The branching format forces you to think
+                in possibilities rather than committing too early.
+              </p>
+              <p>
+                You can try it at
+                <a href="https://cinegraphs.ai/">https://cinegraphs.ai/</a> — no
+                signup required to test it out. You get a full project with up
+                to 50 branches without registering, though you'll need to create
+                an account to save it. Registered users get 3 free projects. I'd
+                love feedback on whether the generation quality feels
+                meaningfully different from generic AI tools, and whether the
+                graph interface adds value or just friction.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="46933401">
           <h3>
             <a
               class="item"
               href="https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/"
-              >Dave Farber has passed away</a
+              >Dave Farber has died</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-02-08 @ 11:38:57</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46933401"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -155,37 +253,18 @@
             <a
               class="item"
               href="https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/"
-              >Why E cores make Apple Silicon fast</a
+              >Why E cores make Apple silicon fast</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-02-08 @ 11:31:49</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46933365"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46933067">
-          <h3>
-            <a class="item" href="https://ezhik.jp/ai-slop-terrifies-me/"
-              >(AI) Slop Terrifies Me</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-08 @ 10:31:35</span
-              ><span class="points-container"
-                >Points: <span class="points">79</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46933067"
-                  >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -202,11 +281,11 @@
             <h4>
               <span>2026-02-08 @ 10:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46932985"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -223,7 +302,7 @@
             <h4>
               <span>2026-02-08 @ 09:44:55</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46932845"
                   >Comments</a
@@ -242,7 +321,7 @@
             <h4>
               <span>2026-02-08 @ 09:10:18</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46932678"
                   >Comments</a
@@ -251,21 +330,43 @@
             </h4>
           </section>
         </section>
+        <section id="46932468">
+          <h3>
+            <a
+              class="item"
+              href="https://arcan-fe.com/2026/01/26/arcan-explained-a-browser-for-different-webs/"
+              >Arcan Explained – A browser for different webs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-08 @ 08:30:24</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46932468"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46932343">
           <h3>
             <a class="item" href="https://github.com/jingkaihe/matchlock"
-              >Matchlock: Linux-based sandboxing for AI agents</a
+              >Matchlock – Secures AI agent workloads with a Linux-based
+              sandbox</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-02-08 @ 08:07:55</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46932343"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -280,13 +381,48 @@
             <h4>
               <span>2026-02-08 @ 07:39:49</span
               ><span class="points-container"
-                >Points: <span class="points">243</span></span
+                >Points: <span class="points">253</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46932192"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                Why didn't I open source it in the first place? Linux has been
+                by primary driver for more than a decade. I genuinely believe in
+                the philosophy, and have always wanted to give back to the
+                community. The primary reason, probably, was because I was
+                ashamed that I had 90% vibe-coded the app. More than 2 decades
+                of writing software, and my first contribution to FOSS would be
+                AI-generated code? Would it withstand even the most minimal of
+                scrutiny? Would by (unknown) name forever be tarnished? I
+                exaggerate, but only slightly :)
+              </p>
+              <p>
+                So, yesterday, after a fair bit of trepidation, I changed the
+                github repo visibility to public and put up a announcement on
+                the app's website [1]. I have also submitted the app to F-Droid
+                [2]. As before, I welcome the community's feedback and
+                suggestions!
+              </p>
+              <p>
+                [0]
+                <a href="https://news.ycombinator.com/item?id=46499646"
+                  >https://news.ycombinator.com/item?id=46499646</a
+                >
+                [1]
+                <a href="https://donotnotify.com/opensource.html"
+                  >https://donotnotify.com/opensource.html</a
+                >
+                [2]
+                <a href="https://gitlab.com/fdroid/rfp/-/issues/3569"
+                  >https://gitlab.com/fdroid/rfp/-/issues/3569</a
+                >
+              </p>
+              <p>-- Anuj Jain</p>
+            </div>
           </section>
         </section>
         <section id="46931595">
@@ -299,33 +435,11 @@
             <h4>
               <span>2026-02-08 @ 05:33:15</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46931595"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46931347">
-          <h3>
-            <a
-              class="item"
-              href="https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/"
-              >Substack confirms data breach affects users’ email addresses and
-              phone numbers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-08 @ 04:34:50</span
-              ><span class="points-container"
-                >Points: <span class="points">91</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46931347"
-                  >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -335,18 +449,18 @@
             <a
               class="item"
               href="https://haskellforall.com/2026/02/beyond-agentic-coding"
-              >Haskell for all: Beyond agentic coding</a
+              >Beyond agentic coding</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-02-08 @ 01:55:09</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">172</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46930565"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -362,11 +476,11 @@
             <h4>
               <span>2026-02-08 @ 01:26:38</span
               ><span class="points-container"
-                >Points: <span class="points">265</span></span
+                >Points: <span class="points">270</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46930391"
                   >Comments</a
-                ><span class="descendants">: 132</span></span
+                ><span class="descendants">: 131</span></span
               >
             </h4>
             <div class="text">
@@ -413,11 +527,11 @@
             <h4>
               <span>2026-02-07 @ 19:07:27</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46926576"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -432,11 +546,11 @@
             <h4>
               <span>2026-02-07 @ 18:08:23</span
               ><span class="points-container"
-                >Points: <span class="points">203</span></span
+                >Points: <span class="points">205</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46926043"
                   >Comments</a
-                ><span class="descendants">: 216</span></span
+                ><span class="descendants">: 217</span></span
               >
             </h4>
           </section>
@@ -454,7 +568,7 @@
             <h4>
               <span>2026-02-07 @ 17:45:27</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46925811"
                   >Comments</a
@@ -491,11 +605,11 @@
             <h4>
               <span>2026-02-07 @ 17:39:53</span
               ><span class="points-container"
-                >Points: <span class="points">330</span></span
+                >Points: <span class="points">331</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46925741"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -510,11 +624,11 @@
             <h4>
               <span>2026-02-07 @ 15:25:49</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46924591"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -529,11 +643,11 @@
             <h4>
               <span>2026-02-07 @ 15:05:56</span
               ><span class="points-container"
-                >Points: <span class="points">251</span></span
+                >Points: <span class="points">252</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46924426"
                   >Comments</a
-                ><span class="descendants">: 405</span></span
+                ><span class="descendants">: 407</span></span
               >
             </h4>
             <div class="text">
@@ -555,7 +669,7 @@
             <h4>
               <span>2026-02-07 @ 14:42:16</span
               ><span class="points-container"
-                >Points: <span class="points">221</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46924264"
                   >Comments</a
@@ -574,7 +688,7 @@
             <h4>
               <span>2026-02-07 @ 12:18:20</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46923254"
                   >Comments</a
@@ -593,11 +707,11 @@
             <h4>
               <span>2026-02-07 @ 07:37:03</span
               ><span class="points-container"
-                >Points: <span class="points">383</span></span
+                >Points: <span class="points">389</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46922049"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -614,32 +728,11 @@
             <h4>
               <span>2026-02-05 @ 08:56:25</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46897407"
                   >Comments</a
                 ><span class="descendants">: 31</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46890814">
-          <h3>
-            <a
-              class="item"
-              href="https://rhodesmill.org/brandon/2009/commands-with-comma/"
-              >Start all of your commands with a comma (2009)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-04 @ 19:59:12</span
-              ><span class="points-container"
-                >Points: <span class="points">633</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46890814"
-                  >Comments</a
-                ><span class="descendants">: 229</span></span
               >
             </h4>
           </section>
@@ -656,11 +749,31 @@
             <h4>
               <span>2026-02-04 @ 18:36:37</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46889741"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46888258">
+          <h3>
+            <a class="item" href="https://derekyan.com/ma-book/"
+              >Show HN: It took 4 years to sell my startup. I wrote a book about
+              it</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-04 @ 16:56:11</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46888258"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -675,7 +788,7 @@
             <h4>
               <span>2026-02-04 @ 14:57:38</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46886569"
                   >Comments</a
@@ -694,7 +807,7 @@
             <h4>
               <span>2026-02-03 @ 11:41:11</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46869713"
                   >Comments</a
@@ -714,11 +827,11 @@
             <h4>
               <span>2026-02-03 @ 10:21:37</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46869113"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -733,11 +846,11 @@
             <h4>
               <span>2026-02-03 @ 10:00:03</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46868928"
                   >Comments</a
-                ><span class="descendants">: 287</span></span
+                ><span class="descendants">: 295</span></span
               >
             </h4>
           </section>
@@ -774,7 +887,7 @@
             <h4>
               <span>2026-02-02 @ 20:37:41</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46861158"
                   >Comments</a
