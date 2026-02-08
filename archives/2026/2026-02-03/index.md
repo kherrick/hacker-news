@@ -79,6 +79,7 @@
 * [2026-02-03, 08:49:40](https://news.ycombinator.com/item?id=46868343) - [Unseen Footage of Atari Battlezone Arcade Cabinet Production](https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/)
 * [2026-02-03, 08:45:57](https://news.ycombinator.com/item?id=46868318) - [LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.](https://github.com/KrystianJonca/lnai)
 * [2026-02-03, 08:42:51](https://news.ycombinator.com/item?id=46868287) - [From Tobacco to Ultraprocessed Food: How Industry Fuels Preventable Disease](https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.70066)
+* [2026-02-03, 08:42:10](https://news.ycombinator.com/item?id=46868282) - [Total Surface Area Required to Fuel the World with Solar (2009)](https://landartgenerator.org/blagi/archives/127)
 * [2026-02-03, 08:41:19](https://news.ycombinator.com/item?id=46868275) - [Coding Agents and Use Cases](https://justsitandgrin.im/posts/coding-agents-use-cases/)
 * [2026-02-03, 08:24:36](https://news.ycombinator.com/item?id=46868142) - [The overlooked evolution of the humble car door handle](https://newatlas.com/automotive/evolution-car-door-handle/)
 * [2026-02-03, 08:23:23](https://news.ycombinator.com/item?id=46868135) - [The Beauty of Slag](https://mag.uchicago.edu/science-medicine/beauty-slag)
