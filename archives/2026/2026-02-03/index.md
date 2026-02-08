@@ -84,6 +84,7 @@
 * [2026-02-03, 08:41:19](https://news.ycombinator.com/item?id=46868275) - [Coding Agents and Use Cases](https://justsitandgrin.im/posts/coding-agents-use-cases/)
 * [2026-02-03, 08:24:36](https://news.ycombinator.com/item?id=46868142) - [The overlooked evolution of the humble car door handle](https://newatlas.com/automotive/evolution-car-door-handle/)
 * [2026-02-03, 08:23:23](https://news.ycombinator.com/item?id=46868135) - [The Beauty of Slag](https://mag.uchicago.edu/science-medicine/beauty-slag)
+* [2026-02-03, 08:06:05](https://news.ycombinator.com/item?id=46867997) - [Modern and Antique Technologies Reveal a Dynamic Cosmos](https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/)
 * [2026-02-03, 08:00:19](https://news.ycombinator.com/item?id=46867947) - [Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)](https://github.com/whispem/minikv)
 * [2026-02-03, 07:41:37](https://news.ycombinator.com/item?id=46867799) - [The fax numbers of the beast, and other mathematical sports](https://cabinetmagazine.org/issues/57/wertheim.php)
 * [2026-02-03, 07:03:34](https://news.ycombinator.com/item?id=46867526) - [MenuetOS – a GUI OS that boots from a single floppy disk](https://www.menuetos.net/)
