@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-02-08, 12:00:02",
+      "https://news.ycombinator.com/item?id=46933515"
+    ],
+    [
+      "Show HN: Fine-tuned Qwen2.5-7B on 100 films for probabilistic story graphs",
+      "https://cinegraphs.ai/"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 11:38:57",
       "https://news.ycombinator.com/item?id=46933401"
     ],
     [
-      "Dave Farber has passed away",
+      "Dave Farber has died",
       "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/"
     ]
   ],
@@ -15,18 +25,8 @@
       "https://news.ycombinator.com/item?id=46933365"
     ],
     [
-      "Why E cores make Apple Silicon fast",
+      "Why E cores make Apple silicon fast",
       "https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 10:31:35",
-      "https://news.ycombinator.com/item?id=46933067"
-    ],
-    [
-      "(AI) Slop Terrifies Me",
-      "https://ezhik.jp/ai-slop-terrifies-me/"
     ]
   ],
   [
@@ -61,11 +61,21 @@
   ],
   [
     [
+      "2026-02-08, 08:30:24",
+      "https://news.ycombinator.com/item?id=46932468"
+    ],
+    [
+      "Arcan Explained – A browser for different webs",
+      "https://arcan-fe.com/2026/01/26/arcan-explained-a-browser-for-different-webs/"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 08:07:55",
       "https://news.ycombinator.com/item?id=46932343"
     ],
     [
-      "Matchlock: Linux-based sandboxing for AI agents",
+      "Matchlock – Secures AI agent workloads with a Linux-based sandbox",
       "https://github.com/jingkaihe/matchlock"
     ]
   ],
@@ -91,21 +101,11 @@
   ],
   [
     [
-      "2026-02-08, 04:34:50",
-      "https://news.ycombinator.com/item?id=46931347"
-    ],
-    [
-      "Substack confirms data breach affects users’ email addresses and phone numbers",
-      "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/"
-    ]
-  ],
-  [
-    [
       "2026-02-08, 01:55:09",
       "https://news.ycombinator.com/item?id=46930565"
     ],
     [
-      "Haskell for all: Beyond agentic coding",
+      "Beyond agentic coding",
       "https://haskellforall.com/2026/02/beyond-agentic-coding"
     ]
   ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2026-02-04, 19:59:12",
-      "https://news.ycombinator.com/item?id=46890814"
-    ],
-    [
-      "Start all of your commands with a comma (2009)",
-      "https://rhodesmill.org/brandon/2009/commands-with-comma/"
-    ]
-  ],
-  [
-    [
       "2026-02-04, 18:36:37",
       "https://news.ycombinator.com/item?id=46889741"
     ],
     [
       "The Legacy of Daniel Kahneman: A Personal View (2025)",
       "https://ejpe.org/journal/article/view/1075/753"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 16:56:11",
+      "https://news.ycombinator.com/item?id=46888258"
+    ],
+    [
+      "Show HN: It took 4 years to sell my startup. I wrote a book about it",
+      "https://derekyan.com/ma-book/"
     ]
   ],
   [
