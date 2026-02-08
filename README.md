@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-08, 07:11:47](https://news.ycombinator.com/item?id=46932010) - [Turning books to courses using AI](https://www.book2course.org/)
-* [2026-02-08, 07:00:40](https://news.ycombinator.com/item?id=46931948) - [The world heard JD Vance being booed at the Olympics. Except for viewers in USA](https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics)
 * [2026-02-08, 05:33:15](https://news.ycombinator.com/item?id=46931595) - [LineageOS 23.2](https://lineageos.org/Changelog-31/)
+* [2026-02-08, 05:25:33](https://news.ycombinator.com/item?id=46931559) - [Roger Ebert Reviews \"The Shawshank Redemption\"](https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994)
 * [2026-02-08, 04:34:50](https://news.ycombinator.com/item?id=46931347) - [Substack confirms data breach affects users’ email addresses and phone numbers](https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/)
 * [2026-02-08, 03:09:28](https://news.ycombinator.com/item?id=46930961) - [Vouch](https://twitter.com/mitchellh/status/2020252149117313349)
 * [2026-02-08, 02:10:16](https://news.ycombinator.com/item?id=46930634) - [The Scriptovision Super Micro Script video titler is almost a home computer](http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html)
@@ -29,6 +28,7 @@
 * [2026-02-03, 13:27:08](https://news.ycombinator.com/item?id=46870694) - [Where did all the starships go?](https://www.datawrapper.de/blog/science-fiction-decline)
 * [2026-02-03, 11:41:11](https://news.ycombinator.com/item?id=46869713) - [uLauncher](https://github.com/jrpie/launcher)
 * [2026-02-03, 10:00:03](https://news.ycombinator.com/item?id=46868928) - [LLMs as the new high level language](https://federicopereiro.com/llm-high/)
+* [2026-02-03, 08:49:40](https://news.ycombinator.com/item?id=46868343) - [Unseen Footage of Atari Battlezone Arcade Cabinet Production](https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/)
 * [2026-02-02, 20:37:41](https://news.ycombinator.com/item?id=46861158) - [The Architecture of Open Source Applications (Volume 1) Berkeley DB](https://aosabook.org/en/v1/bdb.html)
 
 ## [Archives](archives/index.md)

@@ -8,6 +8,7 @@
 * [2026-02-08, 07:00:40](https://news.ycombinator.com/item?id=46931948) - [The world heard JD Vance being booed at the Olympics. Except for viewers in USA](https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics)
 * [2026-02-08, 06:21:27](https://news.ycombinator.com/item?id=46931805) - [OpenClaw Is Changing My Life](https://reorx.com/blog/openclaw-is-changing-my-life/)
 * [2026-02-08, 05:33:15](https://news.ycombinator.com/item?id=46931595) - [LineageOS 23.2](https://lineageos.org/Changelog-31/)
+* [2026-02-08, 05:25:33](https://news.ycombinator.com/item?id=46931559) - [Roger Ebert Reviews \"The Shawshank Redemption\"](https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994)
 * [2026-02-08, 04:34:50](https://news.ycombinator.com/item?id=46931347) - [Why there is no official statement from Substack about the data leak](https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/)
 * [2026-02-08, 03:59:24](https://news.ycombinator.com/item?id=46931213) - [Homeland Security Spying on Reddit Users](https://www.kenklippenstein.com/p/homeland-security-spies-on-reddit)
 * [2026-02-08, 03:20:33](https://news.ycombinator.com/item?id=46931026) - [Bye Bye Humanity: The Potential AMOC Collapse](https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/)
