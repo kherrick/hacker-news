@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-08, 17:39:00",
+      "https://news.ycombinator.com/item?id=46936595"
+    ],
+    [
+      "Bun v1.3.9",
+      "https://bun.com/blog/bun-v1.3.9"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 17:11:42",
       "https://news.ycombinator.com/item?id=46936274"
     ],
@@ -77,16 +87,6 @@
     [
       "RFC 3092 – Etymology of \"Foo\" (2001)",
       "https://datatracker.ietf.org/doc/html/rfc3092"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 14:12:18",
-      "https://news.ycombinator.com/item?id=46934344"
-    ],
-    [
-      "I am happier writing code by hand",
-      "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2026-02-07, 17:31:44",
-      "https://news.ycombinator.com/item?id=46925672"
-    ],
-    [
-      "The Contagious Taste of Cancer",
-      "https://www.historytoday.com/archive/history-matters/contagious-taste-cancer"
-    ]
-  ],
-  [
-    [
       "2026-02-04, 18:36:37",
       "https://news.ycombinator.com/item?id=46889741"
     ],
@@ -297,6 +287,16 @@
     [
       "Kolakoski Sequence",
       "https://en.wikipedia.org/wiki/Kolakoski_sequence"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 15:30:56",
+      "https://news.ycombinator.com/item?id=46857115"
+    ],
+    [
+      "Formally Verifying PBS Kids with Lean4",
+      "https://www.shadaj.me/writing/cyberchase-lean"
     ]
   ]
 ]
