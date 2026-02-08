@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 21:19:30](https://news.ycombinator.com/item?id=46938615) - [Voidtools Everything – Locate files and folders by name instantly](https://www.voidtools.com/)
 * [2026-02-08, 20:34:51](https://news.ycombinator.com/item?id=46938241) - [A GTA modder has got the 1997 original working on modern PCs and Steam Deck](https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/)
 * [2026-02-08, 20:31:11](https://news.ycombinator.com/item?id=46938217) - [The 'Little red dots' observed by Webb were direct-collapse black holes](https://phys.org/news/2026-02-red-dots-webb-collapse-black.html)
 * [2026-02-08, 20:22:29](https://news.ycombinator.com/item?id=46938147) - [Amazon delivery drone strikes North Texas apartment, causing minor damage](https://www.expressnews.com/news/texas/article/amazon-delivery-drone-crash-richardson-texas-21341387.php)
