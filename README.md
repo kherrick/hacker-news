@@ -2,7 +2,7 @@
 
 * [2026-02-08, 22:38:14](https://news.ycombinator.com/item?id=46939298) - [Toma (YC W24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products)
 * [2026-02-08, 22:25:25](https://news.ycombinator.com/item?id=46939187) - [Reverse Engineering the Prom for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/)
-* [2026-02-08, 21:52:28](https://news.ycombinator.com/item?id=46938903) - [Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization](https://arxiv.org/abs/2510.25417)
+* [2026-02-08, 21:52:28](https://news.ycombinator.com/item?id=46938903) - [Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization (2025)](https://arxiv.org/abs/2510.25417)
 * [2026-02-08, 21:19:30](https://news.ycombinator.com/item?id=46938615) - [Everything – Locate files and folders by name instantly](https://www.voidtools.com/)
 * [2026-02-08, 20:52:55](https://news.ycombinator.com/item?id=46938398) - [More Mac malware from Google search](https://eclecticlight.co/2026/01/30/more-malware-from-google-search/)
 * [2026-02-08, 20:38:55](https://news.ycombinator.com/item?id=46938280) - [Apple XNU: Clutch Scheduler](https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md)
