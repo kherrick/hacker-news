@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-08, 04:34:50",
+      "https://news.ycombinator.com/item?id=46931347"
+    ],
+    [
+      "Why there is no official statement from Substack about the data leak",
+      "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 03:59:24",
+      "https://news.ycombinator.com/item?id=46931213"
+    ],
+    [
+      "Homeland Security Spying on Reddit Users",
+      "https://www.kenklippenstein.com/p/homeland-security-spies-on-reddit"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 03:20:33",
+      "https://news.ycombinator.com/item?id=46931026"
+    ],
+    [
+      "Bye Bye Humanity: The Potential AMOC Collapse",
+      "https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 03:09:28",
       "https://news.ycombinator.com/item?id=46930961"
     ],
@@ -27,16 +57,6 @@
     [
       "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
       "https://github.com/localgpt-app/localgpt"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 23:23:01",
-      "https://news.ycombinator.com/item?id=46929391"
-    ],
-    [
-      "The silent death of good code",
-      "https://amit.prasad.me/blog/rip-good-code"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-02-07, 12:53:39",
-      "https://news.ycombinator.com/item?id=46923463"
-    ],
-    [
-      "Reinforcement Learning from Human Feedback",
-      "https://rlhfbook.com/"
-    ]
-  ],
-  [
-    [
       "2026-02-07, 12:18:20",
       "https://news.ycombinator.com/item?id=46923254"
     ],
@@ -201,22 +211,22 @@
   ],
   [
     [
+      "2026-02-06, 21:33:11",
+      "https://news.ycombinator.com/item?id=46918429"
+    ],
+    [
+      "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+      "https://github.com/valdanylchuk/breezydemo"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 19:59:12",
       "https://news.ycombinator.com/item?id=46890814"
     ],
     [
       "Start all of your commands with a comma (2009)",
       "https://rhodesmill.org/brandon/2009/commands-with-comma/"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 15:34:37",
-      "https://news.ycombinator.com/item?id=46887084"
-    ],
-    [
-      "The F Word",
-      "http://muratbuffalo.blogspot.com/2026/02/friction.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Selection rather than prediction",
       "https://voratiq.com/blog/selection-rather-than-prediction/"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 17:14:02",
-      "https://news.ycombinator.com/item?id=46873813"
-    ],
-    [
-      "IBM Beam Spring: The Ultimate Retro Keyboard",
-      "https://www.rs-online.com/designspark/ibm-beam-spring-the-ultimate-retro-keyboard"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-02-03, 00:43:31",
-      "https://news.ycombinator.com/item?id=46864642"
+      "2026-02-03, 08:42:10",
+      "https://news.ycombinator.com/item?id=46868282"
     ],
     [
-      "Show HN: Axiomeer – An open marketplace for AI agents",
-      "https://github.com/ujjwalredd/Axiomeer"
+      "Total Surface Area Required to Fuel the World with Solar (2009)",
+      "https://landartgenerator.org/blagi/archives/127"
     ]
   ]
 ]
