@@ -8,6 +8,7 @@
 * [2026-02-08, 18:02:50](https://news.ycombinator.com/item?id=46936828) - [The Little Bool of Doom](https://blog.svgames.pl/article/the-little-bool-of-doom)
 * [2026-02-08, 17:41:08](https://news.ycombinator.com/item?id=46936612) - [Man, 83, Tricked by Scammers, Gets 21 Years to Life for Killing Uber Driver](https://www.nytimes.com/2026/02/02/us/ohio-man-kills-uber-driver-sentenced.html)
 * [2026-02-08, 17:39:00](https://news.ycombinator.com/item?id=46936595) - [Bun v1.3.9](https://bun.com/blog/bun-v1.3.9)
+* [2026-02-08, 17:24:06](https://news.ycombinator.com/item?id=46936420) - [Attention Media ≠ Social Media](https://susam.net/attention-media-is-not-social-media.html)
 * [2026-02-08, 17:15:17](https://news.ycombinator.com/item?id=46936315) - [The First Sodium-Ion Battery EV Is a Winter Range Monster](https://insideevs.com/news/786509/catl-changan-worlds-first-sodium-ion-battery-ev/)
 * [2026-02-08, 17:11:42](https://news.ycombinator.com/item?id=46936274) - [Let's compile Quake like it's 1997](https://fabiensanglard.net/compile_like_1997/index.html)
 * [2026-02-08, 17:08:30](https://news.ycombinator.com/item?id=46936237) - [Show HN: I created a Mars colony RPG based on Kim Stanley Robinson's Mars books](https://underhillgame.com/)
