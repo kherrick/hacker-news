@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-08, 18:24:26](https://news.ycombinator.com/item?id=46937012) - [Roundcube Webmail: SVG feImage bypasses image blocking to track email opens](https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/)
+* [2026-02-08, 18:13:48](https://news.ycombinator.com/item?id=46936920) - [Experts Have World Models. LLMs Have Word Models](https://www.latent.space/p/adversarial-reasoning)
 * [2026-02-08, 18:02:50](https://news.ycombinator.com/item?id=46936828) - [The Little Bool of Doom](https://blog.svgames.pl/article/the-little-bool-of-doom)
 * [2026-02-08, 17:39:00](https://news.ycombinator.com/item?id=46936595) - [Bun v1.3.9](https://bun.com/blog/bun-v1.3.9)
 * [2026-02-08, 17:24:06](https://news.ycombinator.com/item?id=46936420) - [Attention Media ≠ Social Media](https://susam.net/attention-media-is-not-social-media.html)
@@ -25,9 +26,8 @@
 * [2026-02-08, 03:09:28](https://news.ycombinator.com/item?id=46930961) - [Vouch](https://github.com/mitchellh/vouch)
 * [2026-02-08, 01:55:09](https://news.ycombinator.com/item?id=46930565) - [Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
 * [2026-02-08, 01:26:38](https://news.ycombinator.com/item?id=46930391) - [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
-* [2026-02-07, 18:32:27](https://news.ycombinator.com/item?id=46926245) - [We mourn our craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
 * [2026-02-04, 16:56:11](https://news.ycombinator.com/item?id=46888258) - [Show HN: It took 4 years to sell my startup. I wrote a book about it](https://derekyan.com/ma-book/)
-* [2026-02-04, 14:57:38](https://news.ycombinator.com/item?id=46886569) - [Rabbit Ear \"Origami\": programmable origami in the browser](https://rabbitear.org/book/origami.html)
+* [2026-02-03, 07:18:52](https://news.ycombinator.com/item?id=46867644) - [A Community-Curated Nancy Drew Collection](https://blog.openlibrary.org/2026/01/30/a-community-curated-nancy-drew-collection/)
 * [2026-02-02, 18:31:17](https://news.ycombinator.com/item?id=46859433) - [Kolakoski Sequence](https://en.wikipedia.org/wiki/Kolakoski_sequence)
 * [2026-02-02, 15:30:56](https://news.ycombinator.com/item?id=46857115) - [Formally Verifying PBS Kids with Lean4](https://www.shadaj.me/writing/cyberchase-lean)
 

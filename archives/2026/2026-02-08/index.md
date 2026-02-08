@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
 * [2026-02-08, 18:24:26](https://news.ycombinator.com/item?id=46937012) - [Roundcube Webmail: SVG feImage bypasses image blocking to track email opens](https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/)
+* [2026-02-08, 18:13:48](https://news.ycombinator.com/item?id=46936920) - [Experts Have World Models. LLMs Have Word Models](https://www.latent.space/p/adversarial-reasoning)
 * [2026-02-08, 18:02:50](https://news.ycombinator.com/item?id=46936828) - [The Little Bool of Doom](https://blog.svgames.pl/article/the-little-bool-of-doom)
 * [2026-02-08, 17:41:08](https://news.ycombinator.com/item?id=46936612) - [Man, 83, Tricked by Scammers, Gets 21 Years to Life for Killing Uber Driver](https://www.nytimes.com/2026/02/02/us/ohio-man-kills-uber-driver-sentenced.html)
 * [2026-02-08, 17:39:00](https://news.ycombinator.com/item?id=46936595) - [Bun v1.3.9](https://bun.com/blog/bun-v1.3.9)

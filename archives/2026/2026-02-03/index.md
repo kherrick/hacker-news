@@ -89,6 +89,7 @@
 * [2026-02-03, 08:06:05](https://news.ycombinator.com/item?id=46867997) - [Modern and Antique Technologies Reveal a Dynamic Cosmos](https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/)
 * [2026-02-03, 08:00:19](https://news.ycombinator.com/item?id=46867947) - [Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)](https://github.com/whispem/minikv)
 * [2026-02-03, 07:41:37](https://news.ycombinator.com/item?id=46867799) - [The fax numbers of the beast, and other mathematical sports](https://cabinetmagazine.org/issues/57/wertheim.php)
+* [2026-02-03, 07:18:52](https://news.ycombinator.com/item?id=46867644) - [A Community-Curated Nancy Drew Collection](https://blog.openlibrary.org/2026/01/30/a-community-curated-nancy-drew-collection/)
 * [2026-02-03, 07:03:34](https://news.ycombinator.com/item?id=46867526) - [MenuetOS – a GUI OS that boots from a single floppy disk](https://www.menuetos.net/)
 * [2026-02-03, 06:53:23](https://news.ycombinator.com/item?id=46867446) - [Stay Away from My Trash](https://tldraw.dev/blog/stay-away-from-my-trash)
 * [2026-02-03, 06:40:40](https://news.ycombinator.com/item?id=46867361) - [What Is Ruliology?](https://writings.stephenwolfram.com/2026/01/what-is-ruliology/)
