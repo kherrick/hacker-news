@@ -42,6 +42,7 @@
 * [2026-02-02, 15:12:39](https://news.ycombinator.com/item?id=46856899) - [Show HN: Stelvio – Ship Python to AWS](https://stelvio.dev/)
 * [2026-02-02, 15:08:52](https://news.ycombinator.com/item?id=46856854) - [Waymo Seeking About $16B Near $110B Valuation](https://www.bloomberg.com/news/articles/2026-01-31/waymo-seeking-about-16-billion-near-110-billion-valuation)
 * [2026-02-02, 14:55:50](https://news.ycombinator.com/item?id=46856722) - [The rise of one-pizza engineering teams](https://www.jampa.dev/p/the-rise-of-one-pizza-engineering)
+* [2026-02-02, 13:33:12](https://news.ycombinator.com/item?id=46855852) - [Moroccan sardine prices to stabilise via new measures: officials](https://maghrebi.org/2026/01/27/moroccan-sardine-prices-to-stabilise-via-new-measures-officials/)
 * [2026-02-02, 13:29:13](https://news.ycombinator.com/item?id=46855803) - [Geologists may have solved mystery of Green River's 'uphill' route](https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html)
 * [2026-02-02, 13:18:05](https://news.ycombinator.com/item?id=46855697) - [Animated Knots](https://www.animatedknots.com/)
 * [2026-02-02, 13:12:11](https://news.ycombinator.com/item?id=46855645) - [Vinklu Turns Forgotten Plot in Bucharest into Tiny Coffee Shop](https://design-milk.com/vinklu-turns-forgotten-plot-in-bucharest-into-tiny-coffee-shop/)
