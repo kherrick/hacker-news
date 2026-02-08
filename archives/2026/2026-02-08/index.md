@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 17:11:42](https://news.ycombinator.com/item?id=46936274) - [Let's compile Quake like it's 1997](https://fabiensanglard.net/compile_like_1997/index.html)
+* [2026-02-08, 16:56:08](https://news.ycombinator.com/item?id=46936105) - [Billing can be bypassed using a combo of subagents with an agent definition](https://github.com/microsoft/vscode/issues/292452)
 * [2026-02-08, 16:47:08](https://news.ycombinator.com/item?id=46935991) - [Omega-3 is inversely related to risk of early-onset dementia](https://pubmed.ncbi.nlm.nih.gov/41506004/)
+* [2026-02-08, 16:45:49](https://news.ycombinator.com/item?id=46935980) - [Vouch](https://github.com/mitchellh/vouch)
+* [2026-02-08, 16:28:51](https://news.ycombinator.com/item?id=46935791) - [I put a real-time 3D shader on the Game Boy Color](https://blog.otterstack.com/posts/202512-gbshader/)
 * [2026-02-08, 15:29:22](https://news.ycombinator.com/item?id=46935104) - [Five disciplines discovered the same math independently – none of them knew](https://freethemath.org)
 * [2026-02-08, 15:21:21](https://news.ycombinator.com/item?id=46935011) - [Noam Chomsky's wife responds to Epstein controversy](https://www.aaronmate.net/p/noam-chomskys-wife-responds-to-epstein)
 * [2026-02-08, 14:49:16](https://news.ycombinator.com/item?id=46934660) - [Washington imposes 'terrorist-grade sanctions' on Francesca Albanese, ICC judges](https://thecradle.co/articles-id/35816)
