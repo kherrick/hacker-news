@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 17:39:00](https://news.ycombinator.com/item?id=46936595) - [Bun v1.3.9](https://bun.com/blog/bun-v1.3.9)
 * [2026-02-08, 17:11:42](https://news.ycombinator.com/item?id=46936274) - [Let's compile Quake like it's 1997](https://fabiensanglard.net/compile_like_1997/index.html)
 * [2026-02-08, 16:56:08](https://news.ycombinator.com/item?id=46936105) - [Billing can be bypassed using a combo of subagents with an agent definition](https://github.com/microsoft/vscode/issues/292452)
 * [2026-02-08, 16:47:08](https://news.ycombinator.com/item?id=46935991) - [Omega-3 is inversely related to risk of early-onset dementia](https://pubmed.ncbi.nlm.nih.gov/41506004/)

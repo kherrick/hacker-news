@@ -38,6 +38,7 @@
 * [2026-02-02, 15:57:32](https://news.ycombinator.com/item?id=46857444) - [Kernighan on Programming](https://news.ycombinator.com/item?id=46857444)
 * [2026-02-02, 15:46:10](https://news.ycombinator.com/item?id=46857290) - [Swift in the Browser with ElementaryUI (Swift FOSDEM 2026 Talk) [video]](https://www.youtube.com/watch?v=OmQ881sOTIc)
 * [2026-02-02, 15:31:35](https://news.ycombinator.com/item?id=46857124) - [We asked 15,000 European devs about jobs, salaries, and AI [pdf]](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
+* [2026-02-02, 15:30:56](https://news.ycombinator.com/item?id=46857115) - [Formally Verifying PBS Kids with Lean4](https://www.shadaj.me/writing/cyberchase-lean)
 * [2026-02-02, 15:26:52](https://news.ycombinator.com/item?id=46857082) - [Rural Americans Are Trying to Hold Back the Tide of AI](https://www.wsj.com/politics/policy/these-rural-americans-are-trying-to-hold-back-the-tide-of-ai-66945306)
 * [2026-02-02, 15:14:36](https://news.ycombinator.com/item?id=46856928) - [Greenland tensions harden Europe's push for energy independence](https://www.ft.com/content/e9c90df9-ee03-4c51-bbd3-dad45e212961)
 * [2026-02-02, 15:12:39](https://news.ycombinator.com/item?id=46856899) - [Show HN: Stelvio – Ship Python to AWS](https://stelvio.dev/)

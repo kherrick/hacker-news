@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-08, 17:39:00](https://news.ycombinator.com/item?id=46936595) - [Bun v1.3.9](https://bun.com/blog/bun-v1.3.9)
 * [2026-02-08, 17:11:42](https://news.ycombinator.com/item?id=46936274) - [Let's compile Quake like it's 1997](https://fabiensanglard.net/compile_like_1997/index.html)
 * [2026-02-08, 16:56:08](https://news.ycombinator.com/item?id=46936105) - [Billing can be bypassed using a combo of subagents with an agent definition](https://github.com/microsoft/vscode/issues/292452)
 * [2026-02-08, 16:47:08](https://news.ycombinator.com/item?id=46935991) - [Omega-3 is inversely related to risk of early-onset dementia](https://pubmed.ncbi.nlm.nih.gov/41506004/)
@@ -8,7 +9,6 @@
 * [2026-02-08, 15:29:22](https://news.ycombinator.com/item?id=46935104) - [Five disciplines discovered the same math independently – none of them knew](https://freethemath.org)
 * [2026-02-08, 14:40:52](https://news.ycombinator.com/item?id=46934579) - [Exploiting signed bootloaders to circumvent UEFI Secure Boot](https://habr.com/en/articles/446238/)
 * [2026-02-08, 14:32:28](https://news.ycombinator.com/item?id=46934499) - [RFC 3092 – Etymology of \"Foo\" (2001)](https://datatracker.ietf.org/doc/html/rfc3092)
-* [2026-02-08, 14:12:18](https://news.ycombinator.com/item?id=46934344) - [I am happier writing code by hand](https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/)
 * [2026-02-08, 14:02:58](https://news.ycombinator.com/item?id=46934266) - [Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing](https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/)
 * [2026-02-08, 13:40:56](https://news.ycombinator.com/item?id=46934107) - [GitHub Agentic Workflows](https://github.github.io/gh-aw/)
 * [2026-02-08, 11:38:57](https://news.ycombinator.com/item?id=46933401) - [Dave Farber has died](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/)
@@ -24,12 +24,12 @@
 * [2026-02-08, 01:26:38](https://news.ycombinator.com/item?id=46930391) - [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
 * [2026-02-07, 18:32:27](https://news.ycombinator.com/item?id=46926245) - [We mourn our craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
 * [2026-02-07, 17:39:53](https://news.ycombinator.com/item?id=46925741) - [SectorC: A C Compiler in 512 bytes (2023)](https://xorvoid.com/sectorc.html)
-* [2026-02-07, 17:31:44](https://news.ycombinator.com/item?id=46925672) - [The Contagious Taste of Cancer](https://www.historytoday.com/archive/history-matters/contagious-taste-cancer)
 * [2026-02-04, 18:36:37](https://news.ycombinator.com/item?id=46889741) - [The Legacy of Daniel Kahneman: A Personal View (2025)](https://ejpe.org/journal/article/view/1075/753)
 * [2026-02-04, 16:56:11](https://news.ycombinator.com/item?id=46888258) - [Show HN: It took 4 years to sell my startup. I wrote a book about it](https://derekyan.com/ma-book/)
 * [2026-02-04, 14:57:38](https://news.ycombinator.com/item?id=46886569) - [Rabbit Ear \"Origami\": programmable origami in the browser](https://rabbitear.org/book/origami.html)
 * [2026-02-03, 10:21:37](https://news.ycombinator.com/item?id=46869113) - [A11yJSON: A standard to describe the accessibility of the physical world](https://sozialhelden.github.io/a11yjson/)
 * [2026-02-02, 18:31:17](https://news.ycombinator.com/item?id=46859433) - [Kolakoski Sequence](https://en.wikipedia.org/wiki/Kolakoski_sequence)
+* [2026-02-02, 15:30:56](https://news.ycombinator.com/item?id=46857115) - [Formally Verifying PBS Kids with Lean4](https://www.shadaj.me/writing/cyberchase-lean)
 
 ## [Archives](archives/index.md)
 
