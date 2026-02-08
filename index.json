@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-08, 20:34:51",
+      "https://news.ycombinator.com/item?id=46938241"
+    ],
+    [
+      "A GTA modder has got the 1997 original working on modern PCs and Steam Deck",
+      "https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 20:31:11",
+      "https://news.ycombinator.com/item?id=46938217"
+    ],
+    [
+      "The 'Little red dots' observed by Webb were direct-collapse black holes",
+      "https://phys.org/news/2026-02-red-dots-webb-collapse-black.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 20:22:29",
+      "https://news.ycombinator.com/item?id=46938147"
+    ],
+    [
+      "Amazon delivery drone strikes North Texas apartment, causing minor damage",
+      "https://www.expressnews.com/news/texas/article/amazon-delivery-drone-crash-richardson-texas-21341387.php"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 18:24:26",
       "https://news.ycombinator.com/item?id=46937012"
     ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=46936828"
     ],
     [
-      "The Little Bool of Doom",
+      "The Little Bool of Doom (2025)",
       "https://blog.svgames.pl/article/the-little-bool-of-doom"
     ]
   ],
@@ -37,16 +67,6 @@
     [
       "Bun v1.3.9",
       "https://bun.com/blog/bun-v1.3.9"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 17:15:17",
-      "https://news.ycombinator.com/item?id=46936315"
-    ],
-    [
-      "The First Sodium-Ion Battery EV Is a Winter Range Monster",
-      "https://insideevs.com/news/786509/catl-changan-worlds-first-sodium-ion-battery-ev/"
     ]
   ],
   [
@@ -87,6 +107,16 @@
     [
       "Omega-3 is inversely related to risk of early-onset dementia",
       "https://pubmed.ncbi.nlm.nih.gov/41506004/"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 16:41:05",
+      "https://news.ycombinator.com/item?id=46935931"
+    ],
+    [
+      "Credentials for Linux: Bringing Passkeys to the Linux Desktop",
+      "https://alfioemanuele.io/talks/2026/02/01/fosdem-2026-credentials-for-linux.html"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2026-02-08, 07:39:49",
-      "https://news.ycombinator.com/item?id=46932192"
-    ],
-    [
-      "DoNotNotify is now Open Source",
-      "https://donotnotify.com/opensource.html"
-    ]
-  ],
-  [
-    [
       "2026-02-08, 06:21:27",
       "https://news.ycombinator.com/item?id=46931805"
     ],
@@ -231,42 +251,22 @@
   ],
   [
     [
-      "2026-02-08, 01:55:09",
-      "https://news.ycombinator.com/item?id=46930565"
-    ],
-    [
-      "Beyond agentic coding",
-      "https://haskellforall.com/2026/02/beyond-agentic-coding"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 01:26:38",
-      "https://news.ycombinator.com/item?id=46930391"
-    ],
-    [
-      "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
-      "https://github.com/localgpt-app/localgpt"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 18:32:27",
-      "https://news.ycombinator.com/item?id=46926245"
-    ],
-    [
-      "We mourn our craft",
-      "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/"
-    ]
-  ],
-  [
-    [
       "2026-02-04, 16:56:11",
       "https://news.ycombinator.com/item?id=46888258"
     ],
     [
       "Show HN: It took 4 years to sell my startup. I wrote a book about it",
       "https://derekyan.com/ma-book/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 08:40:49",
+      "https://news.ycombinator.com/item?id=46868272"
+    ],
+    [
+      "International Image Interoperability Framework",
+      "https://iiif.io/"
     ]
   ],
   [
