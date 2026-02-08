@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-02-07, 23:24:30",
-      "https://news.ycombinator.com/item?id=46929404"
+      "2026-02-07, 23:23:01",
+      "https://news.ycombinator.com/item?id=46929391"
     ],
     [
-      "Washington Post CEO Will Lewis Steps Down After Stormy Tenure",
-      "https://www.nytimes.com/2026/02/07/technology/washington-post-will-lewis.html"
+      "The silent death of Good Code",
+      "https://amit.prasad.me/blog/rip-good-code"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "FDA intends to take action against non-FDA-approved GLP-1 drugs",
       "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 21:49:30",
-      "https://news.ycombinator.com/item?id=46928470"
-    ],
-    [
-      "You Are Here",
-      "https://brooker.co.za/blog/2026/02/07/you-are-here.html"
     ]
   ],
   [
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2026-02-07, 13:34:34",
-      "https://news.ycombinator.com/item?id=46923736"
-    ],
-    [
-      "France's homegrown open source online office suite",
-      "https://github.com/suitenumerique"
-    ]
-  ],
-  [
-    [
       "2026-02-07, 13:07:09",
       "https://news.ycombinator.com/item?id=46923543"
     ],
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2026-02-06, 21:33:11",
+      "https://news.ycombinator.com/item?id=46918429"
+    ],
+    [
+      "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+      "https://github.com/valdanylchuk/breezydemo"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 19:59:12",
       "https://news.ycombinator.com/item?id=46890814"
     ],
@@ -261,22 +251,32 @@
   ],
   [
     [
-      "2026-02-03, 10:00:03",
-      "https://news.ycombinator.com/item?id=46868928"
+      "2026-02-03, 13:27:08",
+      "https://news.ycombinator.com/item?id=46870694"
     ],
     [
-      "LLMs as the new high level language",
-      "https://federicopereiro.com/llm-high/"
+      "Where did all the starships go?",
+      "https://www.datawrapper.de/blog/science-fiction-decline"
     ]
   ],
   [
     [
-      "2026-02-03, 09:52:44",
-      "https://news.ycombinator.com/item?id=46868879"
+      "2026-02-03, 13:07:37",
+      "https://news.ycombinator.com/item?id=46870514"
     ],
     [
-      "Show HN: Browser based state machine simulator and visualizer",
-      "https://svylabs.github.io/smac-viz/"
+      "Learning from context is harder than we thought",
+      "https://hy.tencent.com/research/100025?langVersion=en"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 10:58:00",
+      "https://news.ycombinator.com/item?id=46869353"
+    ],
+    [
+      "Eigen: Building a Workspace",
+      "https://reindernijhoff.net/2025/10/eigen-building-a-workspace/"
     ]
   ],
   [
