@@ -2,12 +2,11 @@
 
 * [2026-02-08, 07:39:49](https://news.ycombinator.com/item?id=46932192) - [DoNotNotify is now Open Source](https://donotnotify.com/opensource.html)
 * [2026-02-08, 05:33:15](https://news.ycombinator.com/item?id=46931595) - [LineageOS 23.2](https://lineageos.org/Changelog-31/)
-* [2026-02-08, 05:25:33](https://news.ycombinator.com/item?id=46931559) - [Roger Ebert Reviews \"The Shawshank Redemption\"](https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994)
+* [2026-02-08, 05:25:33](https://news.ycombinator.com/item?id=46931559) - [Roger Ebert Reviews \"The Shawshank Redemption\" (1999)](https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994)
 * [2026-02-08, 04:34:50](https://news.ycombinator.com/item?id=46931347) - [Substack confirms data breach affects users’ email addresses and phone numbers](https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/)
 * [2026-02-08, 02:10:16](https://news.ycombinator.com/item?id=46930634) - [The Scriptovision Super Micro Script video titler is almost a home computer](http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html)
 * [2026-02-08, 01:55:09](https://news.ycombinator.com/item?id=46930565) - [Haskell for all: Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
 * [2026-02-08, 01:26:38](https://news.ycombinator.com/item?id=46930391) - [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
-* [2026-02-07, 22:25:03](https://news.ycombinator.com/item?id=46928810) - [FDA intends to take action against non-FDA-approved GLP-1 drugs](https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs)
 * [2026-02-07, 19:07:27](https://news.ycombinator.com/item?id=46926576) - [Brookhaven Lab's RHIC concludes 25-year run with final collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
 * [2026-02-07, 18:08:23](https://news.ycombinator.com/item?id=46926043) - [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode)
 * [2026-02-07, 17:45:27](https://news.ycombinator.com/item?id=46925811) - [Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version](https://github.com/Momciloo/fun-with-clip-path)
@@ -28,6 +27,7 @@
 * [2026-02-03, 13:27:08](https://news.ycombinator.com/item?id=46870694) - [Where did all the starships go?](https://www.datawrapper.de/blog/science-fiction-decline)
 * [2026-02-03, 11:41:11](https://news.ycombinator.com/item?id=46869713) - [uLauncher](https://github.com/jrpie/launcher)
 * [2026-02-03, 10:00:03](https://news.ycombinator.com/item?id=46868928) - [LLMs as the new high level language](https://federicopereiro.com/llm-high/)
+* [2026-02-03, 08:49:40](https://news.ycombinator.com/item?id=46868343) - [Unseen Footage of Atari Battlezone Arcade Cabinet Production](https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/)
 * [2026-02-02, 20:37:41](https://news.ycombinator.com/item?id=46861158) - [The Architecture of Open Source Applications (Volume 1) Berkeley DB](https://aosabook.org/en/v1/bdb.html)
 * [2026-02-02, 13:33:12](https://news.ycombinator.com/item?id=46855852) - [Moroccan sardine prices to stabilise via new measures: officials](https://maghrebi.org/2026/01/27/moroccan-sardine-prices-to-stabilise-via-new-measures-officials/)
 
