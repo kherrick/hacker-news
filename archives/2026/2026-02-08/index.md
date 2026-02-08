@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 09:44:55](https://news.ycombinator.com/item?id=46932845) - [In the Australian outback, we're listening for nuclear tests](https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478)
 * [2026-02-08, 08:15:36](https://news.ycombinator.com/item?id=46932388) - [LLMs as Language Compilers: Lessons from Fortran for the Future of Coding](https://cyber-omelette.com/posts/the-abstraction-rises.html)
+* [2026-02-08, 08:07:55](https://news.ycombinator.com/item?id=46932343) - [Matchlock: Linux-based sandboxing for AI agents](https://github.com/jingkaihe/matchlock)
 * [2026-02-08, 07:39:49](https://news.ycombinator.com/item?id=46932192) - [DoNotNotify is now Open Source](https://donotnotify.com/opensource.html)
 * [2026-02-08, 07:11:47](https://news.ycombinator.com/item?id=46932010) - [Turning books to courses using AI](https://www.book2course.org/)
 * [2026-02-08, 07:00:40](https://news.ycombinator.com/item?id=46931948) - [The world heard JD Vance being booed at the Olympics. Except for viewers in USA](https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics)
