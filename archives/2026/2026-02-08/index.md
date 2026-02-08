@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 16:47:08](https://news.ycombinator.com/item?id=46935991) - [Omega-3 is inversely related to risk of early-onset dementia](https://pubmed.ncbi.nlm.nih.gov/41506004/)
 * [2026-02-08, 15:29:22](https://news.ycombinator.com/item?id=46935104) - [Five disciplines discovered the same math independently – none of them knew](https://freethemath.org)
 * [2026-02-08, 15:21:21](https://news.ycombinator.com/item?id=46935011) - [Noam Chomsky's wife responds to Epstein controversy](https://www.aaronmate.net/p/noam-chomskys-wife-responds-to-epstein)
 * [2026-02-08, 14:49:16](https://news.ycombinator.com/item?id=46934660) - [Washington imposes 'terrorist-grade sanctions' on Francesca Albanese, ICC judges](https://thecradle.co/articles-id/35816)
+* [2026-02-08, 14:40:52](https://news.ycombinator.com/item?id=46934579) - [Exploiting signed bootloaders to circumvent UEFI Secure Boot](https://habr.com/en/articles/446238/)
 * [2026-02-08, 14:32:28](https://news.ycombinator.com/item?id=46934499) - [RFC 3092 – Etymology of \"Foo\" (2001)](https://datatracker.ietf.org/doc/html/rfc3092)
 * [2026-02-08, 14:19:32](https://news.ycombinator.com/item?id=46934404) - [AI fatigue Is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 * [2026-02-08, 14:12:18](https://news.ycombinator.com/item?id=46934344) - [I am happier writing code by hand](https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/)

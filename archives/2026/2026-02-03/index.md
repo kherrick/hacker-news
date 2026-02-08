@@ -74,6 +74,7 @@
 * [2026-02-03, 09:43:36](https://news.ycombinator.com/item?id=46868803) - [DNS Explained – How Domain Names Get Resolved](https://www.bhusalmanish.com.np/blog/posts/dns-explained.html)
 * [2026-02-03, 09:42:10](https://news.ycombinator.com/item?id=46868787) - [Cross-Region MSK Replication: K2K vs. MirrorMaker2](https://medium.com/lensesio/cross-region-msk-replication-a-comprehensive-performance-comparison-of-lenses-k2k-vs-mirrormaker2-e9d930de01bf)
 * [2026-02-03, 09:37:40](https://news.ycombinator.com/item?id=46868759) - [What's up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
+* [2026-02-03, 09:34:27](https://news.ycombinator.com/item?id=46868726) - [Show HN: Kekkai – Interactive security triage in the terminal](https://news.ycombinator.com/item?id=46868726)
 * [2026-02-03, 09:30:07](https://news.ycombinator.com/item?id=46868675) - [Rentahuman – The Meatspace Layer for AI](https://rentahuman.ai)
 * [2026-02-03, 09:16:48](https://news.ycombinator.com/item?id=46868565) - [Claude Sonnet 5 Is Imminent – and It Could Be a Generation Ahead of Google](https://ucstrategies.com/news/claude-sonnet-5-is-imminent-and-it-could-be-a-generation-ahead-of-google/)
 * [2026-02-03, 09:06:04](https://news.ycombinator.com/item?id=46868479) - [Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)](https://safe-now.live)
