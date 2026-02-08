@@ -59,6 +59,7 @@
 * [2026-02-04, 10:26:34](https://news.ycombinator.com/item?id=46884027) - [Speculative Sampling Explained](https://saibo-creator.github.io/post/2024_03_08_speculative_sampling/)
 * [2026-02-04, 09:24:20](https://news.ycombinator.com/item?id=46883528) - [\"time to GPT-2\", down to 2.91 hours](https://twitter.com/karpathy/status/2018804068874064198)
 * [2026-02-04, 09:00:09](https://news.ycombinator.com/item?id=46883337) - [Broken Proofs and Broken Provers](https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html)
+* [2026-02-04, 08:56:20](https://news.ycombinator.com/item?id=46883307) - [Ktkit: A Kotlin toolkit for building server applications with Ktor](https://github.com/smyrgeorge/ktkit)
 * [2026-02-04, 07:56:05](https://news.ycombinator.com/item?id=46882817) - [The €10 Mirror: Why Enterprise Security Looks Like a Kid's Toy](https://labs.itresit.es/2026/02/04/the-e10-mirror-why-enterprise-security-looks-like-a-kids-toy/)
 * [2026-02-04, 07:33:34](https://news.ycombinator.com/item?id=46882650) - [The world is more equal than you think](https://economist.com/graphic-detail/2026/02/03/the-world-is-more-equal-than-you-think)
 * [2026-02-04, 07:28:59](https://news.ycombinator.com/item?id=46882621) - [How to squeeze a lexicon (2001) [pdf]](https://marcinciura.wordpress.com/wp-content/uploads/2019/10/lexicon.pdf)
