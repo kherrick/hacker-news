@@ -60,6 +60,7 @@
 * [2026-02-03, 13:27:08](https://news.ycombinator.com/item?id=46870694) - [Where did all the starships go?](https://www.datawrapper.de/blog/science-fiction-decline)
 * [2026-02-03, 13:07:37](https://news.ycombinator.com/item?id=46870514) - [Learning from context is harder than we thought](https://hy.tencent.com/research/100025?langVersion=en)
 * [2026-02-03, 13:06:19](https://news.ycombinator.com/item?id=46870501) - [The browser catches homograph attacks, the terminal doesn't](https://github.com/sheeki03/tirith)
+* [2026-02-03, 12:23:31](https://news.ycombinator.com/item?id=46870117) - [SpiceDB Query Planner](https://authzed.com/blog/introducing-spicedb-query-planner)
 * [2026-02-03, 12:23:12](https://news.ycombinator.com/item?id=46870113) - [Lead in archived hair documents a decline in lead exposure to humans after EPA](https://www.pnas.org/doi/10.1073/pnas.2525498123)
 * [2026-02-03, 12:13:44](https://news.ycombinator.com/item?id=46870015) - [Bunny Database](https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/)
 * [2026-02-03, 12:00:23](https://news.ycombinator.com/item?id=46869901) - [Emerge Career (YC S22) Is Hiring a Founding Product Designer](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer)
