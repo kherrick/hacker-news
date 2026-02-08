@@ -61,6 +61,7 @@
 * [2026-02-04, 09:00:09](https://news.ycombinator.com/item?id=46883337) - [Broken Proofs and Broken Provers](https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html)
 * [2026-02-04, 07:56:05](https://news.ycombinator.com/item?id=46882817) - [The €10 Mirror: Why Enterprise Security Looks Like a Kid's Toy](https://labs.itresit.es/2026/02/04/the-e10-mirror-why-enterprise-security-looks-like-a-kids-toy/)
 * [2026-02-04, 07:33:34](https://news.ycombinator.com/item?id=46882650) - [The world is more equal than you think](https://economist.com/graphic-detail/2026/02/03/the-world-is-more-equal-than-you-think)
+* [2026-02-04, 07:28:59](https://news.ycombinator.com/item?id=46882621) - [How to squeeze a lexicon (2001) [pdf]](https://marcinciura.wordpress.com/wp-content/uploads/2019/10/lexicon.pdf)
 * [2026-02-04, 06:51:51](https://news.ycombinator.com/item?id=46882389) - [Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering](https://github.com/bethington/ghidra-mcp)
 * [2026-02-04, 06:22:58](https://news.ycombinator.com/item?id=46882184) - [Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back](https://xakpc.dev/windows-widgets/history/)
 * [2026-02-04, 04:46:15](https://news.ycombinator.com/item?id=46881568) - [Petition for Recognition of Work on Open-Source as Volunteering in Germany](https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany)
