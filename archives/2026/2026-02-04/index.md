@@ -60,6 +60,7 @@
 * [2026-02-04, 13:57:39](https://news.ycombinator.com/item?id=46885841) - [Custom Firmware for the MZ-RH1 – Ready for Testing](https://sir68k.re/posts/rh1-firmware-available/)
 * [2026-02-04, 13:17:05](https://news.ycombinator.com/item?id=46885469) - [Tessellation Kit (2016)](https://sciencevsmagic.net/tes/#0.5.0.1.aaaaaaaaa)
 * [2026-02-04, 13:02:00](https://news.ycombinator.com/item?id=46885332) - [I prefer to pass secrets between programs through standard input](https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin)
+* [2026-02-04, 12:53:23](https://news.ycombinator.com/item?id=46885249) - [Medieval Monks Wrote over Ancient Star Catalog – Particle Accel Reveals Original](https://www.smithsonianmag.com/smart-news/medieval-monks-wrote-over-a-copy-of-an-ancient-star-catalog-now-a-particle-accelerator-is-revealing-the-long-lost-original-text-180988123/)
 * [2026-02-04, 12:08:49](https://news.ycombinator.com/item?id=46884883) - [Claude Is a Space to Think](https://www.anthropic.com/news/claude-is-a-space-to-think)
 * [2026-02-04, 11:13:33](https://news.ycombinator.com/item?id=46884412) - [Show HN: A luma dependent chroma compression algorithm (image compression)](https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/)
 * [2026-02-04, 10:26:34](https://news.ycombinator.com/item?id=46884027) - [Speculative Sampling Explained](https://saibo-creator.github.io/post/2024_03_08_speculative_sampling/)

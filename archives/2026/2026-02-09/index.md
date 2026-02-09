@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-02-09](index.md)
 
+* [2026-02-09, 15:56:16](https://news.ycombinator.com/item?id=46946617) - [AirPods Pro 4 Could Feature Cameras to 'See Around You'](https://www.macrumors.com/2026/02/09/airpods-pro-4-could-feature-cameras-to-see-around-you/)
+* [2026-02-09, 15:45:24](https://news.ycombinator.com/item?id=46946464) - [Ask HN: Do provisional patents matter for early-stage startups?](https://news.ycombinator.com/item?id=46946464)
+* [2026-02-09, 15:25:07](https://news.ycombinator.com/item?id=46946248) - [Hong Kong pro-democracy tycoon Jimmy Lai gets 20 years' jail](https://www.bbc.com/news/articles/c8d5pl34vv0o)
+* [2026-02-09, 15:11:07](https://news.ycombinator.com/item?id=46946062) - [Sleeper Shells: Attackers Are Planting Dormant Backdoors in Ivanti EPMM](https://defusedcyber.com/ivanti-epmm-sleeper-shells-403jsp)
 * [2026-02-09, 14:44:30](https://news.ycombinator.com/item?id=46945755) - [AI Doesn't Reduce Work–It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
+* [2026-02-09, 14:44:01](https://news.ycombinator.com/item?id=46945742) - [Discord Launches Teen-by-Default Settings Globally](https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally)
 * [2026-02-09, 14:36:14](https://news.ycombinator.com/item?id=46945641) - [Long-Sought Proof Tames Some of Math's Unruliest Equations](https://www.quantamagazine.org/long-sought-proof-tames-some-of-maths-unruliest-equations-20260206/)
 * [2026-02-09, 14:22:12](https://news.ycombinator.com/item?id=46945497) - [AT&T, Verizon blocking release of Salt Typhoon security assessment reports](https://www.reuters.com/business/media-telecom/senator-says-att-verizon-blocking-release-salt-typhoon-security-assessment-2026-02-03/)
 * [2026-02-09, 14:18:30](https://news.ycombinator.com/item?id=46945471) - [Humans peak in midlife: A combined cognitive and personality trait perspective](https://www.sciencedirect.com/science/article/pii/S0160289625000649)
