@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-02-09, 07:53:33",
-      "https://news.ycombinator.com/item?id=46942704"
-    ],
-    [
-      "The Cost of a Function Call",
-      "https://lemire.me/blog/2026/02/08/the-cost-of-a-function-call/"
-    ]
-  ],
-  [
-    [
       "2026-02-09, 05:23:37",
       "https://news.ycombinator.com/item?id=46941850"
     ],
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2026-02-08, 20:34:51",
+      "https://news.ycombinator.com/item?id=46938241"
+    ],
+    [
+      "A GTA modder has got the 1997 original working on modern PCs and Steam Deck",
+      "https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 19:35:55",
       "https://news.ycombinator.com/item?id=46937696"
     ],
@@ -177,6 +177,26 @@
     [
       "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books",
       "https://underhillgame.com/"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 14:40:52",
+      "https://news.ycombinator.com/item?id=46934579"
+    ],
+    [
+      "Exploiting signed bootloaders to circumvent UEFI Secure Boot (2019)",
+      "https://habr.com/en/articles/446238/"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 14:32:28",
+      "https://news.ycombinator.com/item?id=46934499"
+    ],
+    [
+      "RFC 3092 – Etymology of “Foo” (2001)",
+      "https://datatracker.ietf.org/doc/html/rfc3092"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2026-02-06, 00:58:31",
-      "https://news.ycombinator.com/item?id=46907651"
-    ],
-    [
-      "Show HN: Horizons – OSS agent execution engine",
-      "https://github.com/synth-laboratories/Horizons"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 21:38:51",
       "https://news.ycombinator.com/item?id=46905745"
     ],
     [
       "Show HN: Slack CLI for Agents",
       "https://github.com/stablyai/agent-slack"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 15:07:32",
-      "https://news.ycombinator.com/item?id=46900447"
-    ],
-    [
-      "Cooking with glasses",
-      "https://macwright.com/2025/09/21/cooking-with-glasses"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-02-04, 21:32:48",
-      "https://news.ycombinator.com/item?id=46892105"
-    ],
-    [
-      "Lessons from BF-Tree: Building a Concurrent Larger-Than-Memory Index in Rust",
-      "https://zhihanz.github.io/posts/bf-tree-rust-implementation/"
-    ]
-  ],
-  [
-    [
       "2026-02-04, 18:34:29",
       "https://news.ycombinator.com/item?id=46889710"
     ],
     [
       "LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation",
       "https://github.com/naver/lispe"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 16:16:06",
+      "https://news.ycombinator.com/item?id=46887665"
+    ],
+    [
+      "Clean Coder: The Dark Path (2017)",
+      "https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html"
     ]
   ],
   [
