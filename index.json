@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-09, 12:35:19",
+      "https://news.ycombinator.com/item?id=46944555"
+    ],
+    [
+      "Show HN: Browse Internet Infrastructure",
+      "https://www.wirewiki.com"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 11:53:13",
+      "https://news.ycombinator.com/item?id=46944245"
+    ],
+    [
+      "Matrix messaging gaining ground in government IT",
+      "https://www.theregister.com/2026/02/09/matrix_element_secure_chat/"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 11:30:06",
+      "https://news.ycombinator.com/item?id=46944084"
+    ],
+    [
+      "Show HN: Minimal NIST/OWASP-compliant auth implementation for Cloudflare Workers",
+      "https://github.com/vhscom/private-landing"
+    ]
+  ],
+  [
+    [
       "2026-02-09, 10:37:20",
       "https://news.ycombinator.com/item?id=46943752"
     ],
@@ -17,26 +47,6 @@
     [
       "Show HN: Algorithmically Finding the Longest Line of Sight on Earth",
       "https://alltheviews.world"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 04:38:14",
-      "https://news.ycombinator.com/item?id=46941640"
-    ],
-    [
-      "TSMC to make advanced AI semiconductors in Japan",
-      "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 04:30:38",
-      "https://news.ycombinator.com/item?id=46941603"
-    ],
-    [
-      "Claude’s C Compiler vs. GCC",
-      "https://harshanu.space/en/tech/ccc-vs-gcc/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-02-05, 21:38:51",
-      "https://news.ycombinator.com/item?id=46905745"
-    ],
-    [
-      "Show HN: Slack CLI for Agents",
-      "https://github.com/stablyai/agent-slack"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 14:20:38",
       "https://news.ycombinator.com/item?id=46899900"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2026-02-04, 22:54:55",
+      "https://news.ycombinator.com/item?id=46893069"
+    ],
+    [
+      "Thought-Terminating Cliché",
+      "https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 18:34:29",
       "https://news.ycombinator.com/item?id=46889710"
     ],
     [
       "LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation",
       "https://github.com/naver/lispe"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 16:16:06",
-      "https://news.ycombinator.com/item?id=46887665"
-    ],
-    [
-      "Clean Coder: The Dark Path (2017)",
-      "https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html"
     ]
   ],
   [
