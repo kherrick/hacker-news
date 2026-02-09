@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-09, 05:23:37](https://news.ycombinator.com/item?id=46941850) - [A tough labor market for white-collar workers has turned recruiting upside down](https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2)
 * [2026-02-09, 04:38:14](https://news.ycombinator.com/item?id=46941640) - [TSMC to make advanced AI semiconductors in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
 * [2026-02-09, 04:30:38](https://news.ycombinator.com/item?id=46941603) - [Claude’s C Compiler vs. GCC](https://harshanu.space/en/tech/ccc-vs-gcc/)
 * [2026-02-08, 23:27:59](https://news.ycombinator.com/item?id=46939685) - [Every book recommended on the Odd Lots Discord](https://odd-lots-books.netlify.app/)
@@ -30,6 +29,7 @@
 * [2026-02-04, 18:34:29](https://news.ycombinator.com/item?id=46889710) - [LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation](https://github.com/naver/lispe)
 * [2026-02-04, 16:16:06](https://news.ycombinator.com/item?id=46887665) - [Clean Coder: The Dark Path (2017)](https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html)
 * [2026-02-04, 13:57:39](https://news.ycombinator.com/item?id=46885841) - [Custom Firmware for the MZ-RH1 – Ready for Testing](https://sir68k.re/posts/rh1-firmware-available/)
+* [2026-02-04, 13:17:05](https://news.ycombinator.com/item?id=46885469) - [Tessellation Kit (2016)](https://sciencevsmagic.net/tes/#0.5.0.1.aaaaaaaaa)
 
 ## [Archives](archives/index.md)
 

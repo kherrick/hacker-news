@@ -57,6 +57,7 @@
 * [2026-02-04, 14:20:31](https://news.ycombinator.com/item?id=46886114) - [Cannabis usage in older adults linked to larger brain, better cognitive function](https://medicalxpress.com/news/2026-02-qa-cannabis-usage-middle-aged.html)
 * [2026-02-04, 13:59:28](https://news.ycombinator.com/item?id=46885862) - [Thatcher Effect – Optical Illusion and Explanation](https://optical.toys/thatcher-effect/)
 * [2026-02-04, 13:57:39](https://news.ycombinator.com/item?id=46885841) - [Custom Firmware for the MZ-RH1 – Ready for Testing](https://sir68k.re/posts/rh1-firmware-available/)
+* [2026-02-04, 13:17:05](https://news.ycombinator.com/item?id=46885469) - [Tessellation Kit (2016)](https://sciencevsmagic.net/tes/#0.5.0.1.aaaaaaaaa)
 * [2026-02-04, 13:02:00](https://news.ycombinator.com/item?id=46885332) - [I prefer to pass secrets between programs through standard input](https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin)
 * [2026-02-04, 12:08:49](https://news.ycombinator.com/item?id=46884883) - [Claude Is a Space to Think](https://www.anthropic.com/news/claude-is-a-space-to-think)
 * [2026-02-04, 11:13:33](https://news.ycombinator.com/item?id=46884412) - [Show HN: A luma dependent chroma compression algorithm (image compression)](https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/)
