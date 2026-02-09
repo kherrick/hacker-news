@@ -5,8 +5,7 @@
 * [2026-02-09, 19:19:30](https://news.ycombinator.com/item?id=46949642) - [Luce: First Electric Ferrari. Designed by LoveFrom](https://www.ferrari.com/en-US/auto/ferrari-luce)
 * [2026-02-09, 19:07:25](https://news.ycombinator.com/item?id=46949452) - [Another GitHub outage in the same day](https://www.githubstatus.com/incidents/lcw3tg2f6zsd)
 * [2026-02-09, 19:04:16](https://news.ycombinator.com/item?id=46949401) - [Testing Ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt/)
-* [2026-02-09, 18:20:56](https://news.ycombinator.com/item?id=46948815) - [The Markets of Old London](https://spitalfieldslife.com/2024/06/20/the-markets-of-old-london-i/)
-* [2026-02-09, 18:14:08](https://news.ycombinator.com/item?id=46948708) - [Eddie Bauer, venerable outdoor apparel retailer, declares bankruptcy](https://www.cbsnews.com/news/eddie-bauer-bankrupt-outdoor-apparel/)
+* [2026-02-09, 18:20:56](https://news.ycombinator.com/item?id=46948815) - [The Markets of Old London (2024)](https://spitalfieldslife.com/2024/06/20/the-markets-of-old-london-i/)
 * [2026-02-09, 17:48:24](https://news.ycombinator.com/item?id=46948340) - [From watchdogs to mouthpieces: Washington Post and the wreckage of legacy media](https://www.thejournal.ie/readme/bezos-washington-post-trump-6950317-Feb2026/)
 * [2026-02-09, 17:44:10](https://news.ycombinator.com/item?id=46948273) - [Game Boy Advance Audio Interpolation](https://jsgroth.dev/blog/posts/gba-audio-interpolation/)
 * [2026-02-09, 17:09:37](https://news.ycombinator.com/item?id=46947777) - [Hard-braking events as indicators of road segment crash risk](https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/)
@@ -29,6 +28,7 @@
 * [2026-02-05, 09:47:53](https://news.ycombinator.com/item?id=46897804) - [What's the Entropy of a Random Integer?](https://quomodocumque.wordpress.com/2026/02/03/whats-the-entropy-of-a-random-integer/)
 * [2026-02-05, 02:58:50](https://news.ycombinator.com/item?id=46895089) - [The Traffic Mimes of Bogotá](https://www.atlasobscura.com/articles/traffic-mimes-of-colombia)
 * [2026-02-04, 12:53:23](https://news.ycombinator.com/item?id=46885249) - [Medieval Monks Wrote over Ancient Star Catalog – Particle Accel Reveals Original](https://www.smithsonianmag.com/smart-news/medieval-monks-wrote-over-a-copy-of-an-ancient-star-catalog-now-a-particle-accelerator-is-revealing-the-long-lost-original-text-180988123/)
+* [2026-02-03, 22:38:21](https://news.ycombinator.com/item?id=46878373) - [How I've run major projects (2025)](https://www.benkuhn.net/pjm/)
 * [2026-02-03, 21:05:42](https://news.ycombinator.com/item?id=46877291) - [Information Is Beautiful](https://informationisbeautiful.net/)
 
 ## [Archives](archives/index.md)
