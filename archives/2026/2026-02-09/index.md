@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-09](index.md)
 
+* [2026-02-09, 12:35:19](https://news.ycombinator.com/item?id=46944555) - [Show HN: Browse Internet Infrastructure](https://www.wirewiki.com)
+* [2026-02-09, 11:53:13](https://news.ycombinator.com/item?id=46944245) - [Matrix messaging gaining ground in government IT](https://www.theregister.com/2026/02/09/matrix_element_secure_chat/)
+* [2026-02-09, 11:30:06](https://news.ycombinator.com/item?id=46944084) - [Show HN: Minimal NIST/OWASP-compliant auth implementation for Cloudflare Workers](https://github.com/vhscom/private-landing)
 * [2026-02-09, 10:37:20](https://news.ycombinator.com/item?id=46943752) - [Offpunk 3.0](https://ploum.net/2026-02-09-offpunk3.html)
 * [2026-02-09, 10:05:55](https://news.ycombinator.com/item?id=46943568) - [Show HN: Algorithmically Finding the Longest Line of Sight on Earth](https://alltheviews.world)
 * [2026-02-09, 07:53:33](https://news.ycombinator.com/item?id=46942704) - [The Cost of a Function Call](https://lemire.me/blog/2026/02/08/the-cost-of-a-function-call/)

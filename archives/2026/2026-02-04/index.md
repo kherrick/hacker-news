@@ -7,6 +7,7 @@
 * [2026-02-04, 23:26:23](https://news.ycombinator.com/item?id=46893411) - [Why More Companies Are Recognizing the Benefits of Keeping Older Employees](https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/)
 * [2026-02-04, 23:24:53](https://news.ycombinator.com/item?id=46893394) - [We Used To Build Things. What Happened?](https://garryslist.org/posts/we-used-to-build-things-what-happened)
 * [2026-02-04, 23:03:58](https://news.ycombinator.com/item?id=46893167) - [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/)
+* [2026-02-04, 22:54:55](https://news.ycombinator.com/item?id=46893069) - [Thought-Terminating Cliché](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9)
 * [2026-02-04, 22:50:34](https://news.ycombinator.com/item?id=46893018) - [As Rocks May Think](https://evjang.com/2026/02/04/rocks.html)
 * [2026-02-04, 22:34:46](https://news.ycombinator.com/item?id=46892861) - [Debian's Challenge When Its Developers Drift Away](https://www.phoronix.com/news/Debian-Developers-Quiet-Away)
 * [2026-02-04, 21:32:48](https://news.ycombinator.com/item?id=46892105) - [Lessons from BF-Tree: Building a Concurrent Larger-Than-Memory Index in Rust](https://zhihanz.github.io/posts/bf-tree-rust-implementation/)
