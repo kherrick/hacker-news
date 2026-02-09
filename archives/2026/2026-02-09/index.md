@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-02-09](index.md)
 
+* [2026-02-09, 14:44:30](https://news.ycombinator.com/item?id=46945755) - [AI Doesn't Reduce Work–It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
+* [2026-02-09, 14:36:14](https://news.ycombinator.com/item?id=46945641) - [Long-Sought Proof Tames Some of Math's Unruliest Equations](https://www.quantamagazine.org/long-sought-proof-tames-some-of-maths-unruliest-equations-20260206/)
+* [2026-02-09, 14:22:12](https://news.ycombinator.com/item?id=46945497) - [AT&T, Verizon blocking release of Salt Typhoon security assessment reports](https://www.reuters.com/business/media-telecom/senator-says-att-verizon-blocking-release-salt-typhoon-security-assessment-2026-02-03/)
+* [2026-02-09, 14:18:30](https://news.ycombinator.com/item?id=46945471) - [Humans peak in midlife: A combined cognitive and personality trait perspective](https://www.sciencedirect.com/science/article/pii/S0160289625000649)
+* [2026-02-09, 14:16:46](https://news.ycombinator.com/item?id=46945448) - [Can Ozempic Cure Addiction?](https://www.newyorker.com/magazine/2026/02/16/can-ozempic-cure-addiction)
 * [2026-02-09, 14:07:36](https://news.ycombinator.com/item?id=46945348) - [UEFI Bindings for JavaScript](https://codeberg.org/smnx/promethee)
 * [2026-02-09, 13:54:48](https://news.ycombinator.com/item?id=46945235) - [Thoughts on Generating C](https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c)
 * [2026-02-09, 13:28:12](https://news.ycombinator.com/item?id=46944978) - [Jony Ive Designed Ferrari Luce EV Interior](https://www.topgear.com/car-news/electric/official-ferraris-first-ev-called-luce-interior-apples-old-design-boss)
 * [2026-02-09, 12:35:19](https://news.ycombinator.com/item?id=46944555) - [Show HN: Browse Internet Infrastructure](https://www.wirewiki.com)
+* [2026-02-09, 12:09:04](https://news.ycombinator.com/item?id=46944365) - [Show HN: Printable Classics – Free printable classic books for hobby bookbinders](https://printableclassics.com)
 * [2026-02-09, 11:53:13](https://news.ycombinator.com/item?id=46944245) - [Matrix messaging gaining ground in government IT](https://www.theregister.com/2026/02/09/matrix_element_secure_chat/)
 * [2026-02-09, 11:30:06](https://news.ycombinator.com/item?id=46944084) - [Show HN: Minimal NIST/OWASP-compliant auth implementation for Cloudflare Workers](https://github.com/vhscom/private-landing)
 * [2026-02-09, 10:37:20](https://news.ycombinator.com/item?id=46943752) - [Offpunk 3.0](https://ploum.net/2026-02-09-offpunk3.html)
