@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-02-09, 19:50:54",
+      "https://news.ycombinator.com/item?id=46950152"
+    ],
+    [
+      "MIT Living Wage Calculator",
+      "https://livingwage.mit.edu/"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 19:32:23",
+      "https://news.ycombinator.com/item?id=46949864"
+    ],
+    [
+      "An articulated archer automaton [video]",
+      "https://www.youtube.com/watch?v=Bc0bIpDVEa8"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 19:19:30",
+      "https://news.ycombinator.com/item?id=46949642"
+    ],
+    [
+      "Luce: First Electric Ferrari. Designed by LoveFrom",
+      "https://www.ferrari.com/en-US/auto/ferrari-luce"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 19:07:25",
+      "https://news.ycombinator.com/item?id=46949452"
+    ],
+    [
+      "Another GitHub outage in the same day",
+      "https://www.githubstatus.com/incidents/lcw3tg2f6zsd"
+    ]
+  ],
+  [
+    [
       "2026-02-09, 19:04:16",
       "https://news.ycombinator.com/item?id=46949401"
     ],
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2026-02-09, 14:18:30",
-      "https://news.ycombinator.com/item?id=46945471"
-    ],
-    [
-      "Humans peak in midlife: A combined cognitive and personality trait perspective",
-      "https://www.sciencedirect.com/science/article/pii/S0160289625000649"
-    ]
-  ],
-  [
-    [
       "2026-02-09, 14:07:36",
       "https://news.ycombinator.com/item?id=46945348"
     ],
@@ -167,26 +197,6 @@
     [
       "Thoughts on Generating C",
       "https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 12:35:19",
-      "https://news.ycombinator.com/item?id=46944555"
-    ],
-    [
-      "Show HN: Browse Internet Infrastructure",
-      "https://www.wirewiki.com"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 12:09:04",
-      "https://news.ycombinator.com/item?id=46944365"
-    ],
-    [
-      "Show HN: Printable Classics – Free printable classic books for hobby bookbinders",
-      "https://printableclassics.com"
     ]
   ],
   [
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2026-02-08, 11:00:32",
-      "https://news.ycombinator.com/item?id=46933223"
+      "2026-02-05, 15:09:45",
+      "https://news.ycombinator.com/item?id=46900472"
     ],
     [
-      "Eight more months of agents",
-      "https://crawshaw.io/blog/eight-more-months-of-agents"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 14:20:38",
-      "https://news.ycombinator.com/item?id=46899900"
-    ],
-    [
-      "Roman industrial hub discovered on banks of River Wear",
-      "https://www.durham.ac.uk/news-events/latest-news/2026/01/roman-industrial-hub-discovered-on-banks-of-river-wear-/"
+      "Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL",
+      "https://github.com/jnidzwetzki/pg-dev-container"
     ]
   ],
   [
