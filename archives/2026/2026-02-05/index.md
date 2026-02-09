@@ -33,6 +33,7 @@
 * [2026-02-05, 16:55:38](https://news.ycombinator.com/item?id=46901716) - [Hypernetworks: Neural Networks for Hierarchical Data](https://blog.sturdystatistics.com/posts/hnet_part_I/)
 * [2026-02-05, 16:33:56](https://news.ycombinator.com/item?id=46901452) - [European Commission Trials Matrix to Replace Teams](https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/)
 * [2026-02-05, 16:13:33](https://news.ycombinator.com/item?id=46901233) - [Show HN: Smooth CLI – Token-efficient browser for AI agents](https://docs.smooth.sh/cli/overview)
+* [2026-02-05, 15:07:32](https://news.ycombinator.com/item?id=46900447) - [Cooking with Glasses](https://macwright.com/2025/09/21/cooking-with-glasses)
 * [2026-02-05, 14:11:13](https://news.ycombinator.com/item?id=46899808) - [CIA suddenly stops publishing, removes archives of The World Factbook](https://simonwillison.net/2026/Feb/5/the-world-factbook/)
 * [2026-02-05, 14:07:03](https://news.ycombinator.com/item?id=46899770) - [OpenAI Frontier](https://openai.com/index/introducing-openai-frontier/)
 * [2026-02-05, 13:47:59](https://news.ycombinator.com/item?id=46899591) - [The New Collabora Office for Desktop](https://www.collaboraonline.com/collabora-office/)
