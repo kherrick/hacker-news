@@ -25,6 +25,7 @@
 * [2026-02-04, 19:12:28](https://news.ycombinator.com/item?id=46890261) - [Turn any website into a live, structured data feed](https://www.meter.sh/)
 * [2026-02-04, 18:56:46](https://news.ycombinator.com/item?id=46890034) - [How Jeff Bezos Brought Down the Washington Post](https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post)
 * [2026-02-04, 18:36:37](https://news.ycombinator.com/item?id=46889741) - [The Legacy of Daniel Kahneman: A Personal View (2025)](https://ejpe.org/journal/article/view/1075/753)
+* [2026-02-04, 18:34:29](https://news.ycombinator.com/item?id=46889710) - [LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation](https://github.com/naver/lispe)
 * [2026-02-04, 18:34:08](https://news.ycombinator.com/item?id=46889703) - [Claude Code for Infrastructure](https://www.fluid.sh/)
 * [2026-02-04, 18:06:16](https://news.ycombinator.com/item?id=46889282) - [AI needs to augment rather than replace humans or the workplace is doomed](https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed)
 * [2026-02-04, 18:05:49](https://news.ycombinator.com/item?id=46889273) - [ICE has offices in 5 Canadian cities](https://www.cbc.ca/lite/story/9.7073273)
