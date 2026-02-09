@@ -44,6 +44,7 @@
 * [2026-02-05, 12:56:28](https://news.ycombinator.com/item?id=46899132) - [Company as Code](https://blog.42futures.com/p/company-as-code)
 * [2026-02-05, 12:53:12](https://news.ycombinator.com/item?id=46899100) - [CIA to Sunset the World Factbook](https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724)
 * [2026-02-05, 12:48:01](https://news.ycombinator.com/item?id=46899066) - [GB Renewables Map](https://renewables-map.robinhawkes.com/)
+* [2026-02-05, 12:18:59](https://news.ycombinator.com/item?id=46898840) - [Expansion Microscopy Has Transformed How We See the Cellular World](https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/)
 * [2026-02-05, 12:00:03](https://news.ycombinator.com/item?id=46898713) - [Freshpaint (YC S19) Is Hiring a Senior SWE, Data](https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761)
 * [2026-02-05, 11:45:03](https://news.ycombinator.com/item?id=46898615) - [Top downloaded skill in ClawHub contains malware](https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface)
 * [2026-02-05, 11:19:40](https://news.ycombinator.com/item?id=46898473) - [How we made geo joins 400× faster with H3 indexes](https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes)

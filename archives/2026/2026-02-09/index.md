@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-09](index.md)
 
+* [2026-02-09, 20:49:21](https://news.ycombinator.com/item?id=46951057) - [America Has a Tungsten Problem](https://www.noleary.com/blog/posts/1)
+* [2026-02-09, 20:41:05](https://news.ycombinator.com/item?id=46950915) - [Super Bowl Ad for Ring Cameras Touted AI Surveillance Network](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
+* [2026-02-09, 20:31:44](https://news.ycombinator.com/item?id=46950780) - [Upcoming changes to Let's Encrypt and how they affect XMPP server operators](https://blog.prosody.im/2026-letsencrypt-changes/)
 * [2026-02-09, 19:50:54](https://news.ycombinator.com/item?id=46950152) - [MIT Living Wage Calculator](https://livingwage.mit.edu/)
 * [2026-02-09, 19:32:23](https://news.ycombinator.com/item?id=46949864) - [An articulated archer automaton [video]](https://www.youtube.com/watch?v=Bc0bIpDVEa8)
 * [2026-02-09, 19:19:30](https://news.ycombinator.com/item?id=46949642) - [Luce: First Electric Ferrari. Designed by LoveFrom](https://www.ferrari.com/en-US/auto/ferrari-luce)
