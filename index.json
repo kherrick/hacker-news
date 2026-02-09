@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-09, 03:34:21",
+      "https://news.ycombinator.com/item?id=46941280"
+    ],
+    [
+      "NanoClaw now supports Claude's Agent Swarms in containers",
+      "https://twitter.com/Gavriel_Cohen/status/2020701159175155874"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 23:27:59",
       "https://news.ycombinator.com/item?id=46939685"
     ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2026-02-08, 18:13:48",
+      "https://news.ycombinator.com/item?id=46936920"
+    ],
+    [
+      "Experts Have World Models. LLMs Have Word Models",
+      "https://www.latent.space/p/adversarial-reasoning"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 18:02:50",
       "https://news.ycombinator.com/item?id=46936828"
     ],
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2026-02-08, 17:39:00",
-      "https://news.ycombinator.com/item?id=46936595"
-    ],
-    [
-      "Bun v1.3.9",
-      "https://bun.com/blog/bun-v1.3.9"
-    ]
-  ],
-  [
-    [
       "2026-02-08, 17:08:30",
       "https://news.ycombinator.com/item?id=46936237"
     ],
     [
-      "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson's Mars books",
+      "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books",
       "https://underhillgame.com/"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 16:47:08",
-      "https://news.ycombinator.com/item?id=46935991"
-    ],
-    [
-      "Omega-3 is inversely related to risk of early-onset dementia",
-      "https://pubmed.ncbi.nlm.nih.gov/41506004/"
     ]
   ],
   [
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=46934579"
     ],
     [
-      "Exploiting signed bootloaders to circumvent UEFI Secure Boot",
+      "Exploiting signed bootloaders to circumvent UEFI Secure Boot (2019)",
       "https://habr.com/en/articles/446238/"
     ]
   ],
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=46934499"
     ],
     [
-      "RFC 3092 – Etymology of \"Foo\" (2001)",
+      "RFC 3092 – Etymology of “Foo” (2001)",
       "https://datatracker.ietf.org/doc/html/rfc3092"
     ]
   ],
@@ -241,21 +241,11 @@
   ],
   [
     [
-      "2026-02-08, 09:41:29",
-      "https://news.ycombinator.com/item?id=46932826"
-    ],
-    [
-      "(Golang) Self referential functions and the design of options",
-      "https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html"
-    ]
-  ],
-  [
-    [
       "2026-02-08, 08:26:36",
       "https://news.ycombinator.com/item?id=46932444"
     ],
     [
-      "Quartz Crystals",
+      "Quartz crystals",
       "https://www.pa3fwm.nl/technotes/tn13a.html"
     ]
   ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2026-02-04, 08:56:20",
-      "https://news.ycombinator.com/item?id=46883307"
+      "2026-02-05, 15:07:32",
+      "https://news.ycombinator.com/item?id=46900447"
     ],
     [
-      "Ktkit: A Kotlin toolkit for building server applications with Ktor",
-      "https://github.com/smyrgeorge/ktkit"
+      "Cooking with Glasses",
+      "https://macwright.com/2025/09/21/cooking-with-glasses"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 13:57:39",
+      "https://news.ycombinator.com/item?id=46885841"
+    ],
+    [
+      "Custom Firmware for the MZ-RH1 – Ready for Testing",
+      "https://sir68k.re/posts/rh1-firmware-available/"
     ]
   ]
 ]
