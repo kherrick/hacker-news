@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-09, 05:28:15](https://news.ycombinator.com/item?id=46941882) - [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/)
+* [2026-02-09, 07:53:33](https://news.ycombinator.com/item?id=46942704) - [The Cost of a Function Call](https://lemire.me/blog/2026/02/08/the-cost-of-a-function-call/)
 * [2026-02-09, 05:23:37](https://news.ycombinator.com/item?id=46941850) - [A tough labor market for white-collar workers has turned recruiting upside down](https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2)
 * [2026-02-09, 04:38:14](https://news.ycombinator.com/item?id=46941640) - [TSMC to make advanced AI semiconductors in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
 * [2026-02-09, 04:30:38](https://news.ycombinator.com/item?id=46941603) - [Claude’s C Compiler vs. GCC](https://harshanu.space/en/tech/ccc-vs-gcc/)
@@ -13,7 +13,6 @@
 * [2026-02-08, 21:05:24](https://news.ycombinator.com/item?id=46938511) - [Art of Roads in Games](https://sandboxspirit.com/blog/art-of-roads-in-games/)
 * [2026-02-08, 20:52:55](https://news.ycombinator.com/item?id=46938398) - [More Mac malware from Google search](https://eclecticlight.co/2026/01/30/more-malware-from-google-search/)
 * [2026-02-08, 20:38:55](https://news.ycombinator.com/item?id=46938280) - [Apple XNU: Clutch Scheduler](https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md)
-* [2026-02-08, 20:34:51](https://news.ycombinator.com/item?id=46938241) - [A GTA modder has got the 1997 original working on modern PCs and Steam Deck](https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/)
 * [2026-02-08, 19:35:55](https://news.ycombinator.com/item?id=46937696) - [Ask HN: What are you working on? (February 2026)](https://news.ycombinator.com/item?id=46937696)
 * [2026-02-08, 18:24:26](https://news.ycombinator.com/item?id=46937012) - [Roundcube Webmail: SVG feImage bypasses image blocking to track email opens](https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/)
 * [2026-02-08, 18:13:48](https://news.ycombinator.com/item?id=46936920) - [Experts Have World Models. LLMs Have Word Models](https://www.latent.space/p/adversarial-reasoning)
@@ -27,6 +26,7 @@
 * [2026-02-06, 00:58:31](https://news.ycombinator.com/item?id=46907651) - [Show HN: Horizons – OSS agent execution engine](https://github.com/synth-laboratories/Horizons)
 * [2026-02-05, 21:38:51](https://news.ycombinator.com/item?id=46905745) - [Show HN: Slack CLI for Agents](https://github.com/stablyai/agent-slack)
 * [2026-02-05, 15:07:32](https://news.ycombinator.com/item?id=46900447) - [Cooking with glasses](https://macwright.com/2025/09/21/cooking-with-glasses)
+* [2026-02-05, 14:14:11](https://news.ycombinator.com/item?id=46899833) - [Werewolf Vflex Adapter Review](https://hagensieker.com/2026/02/05/werewolf-vflex-adapter-review/)
 * [2026-02-04, 21:32:48](https://news.ycombinator.com/item?id=46892105) - [Lessons from BF-Tree: Building a Concurrent Larger-Than-Memory Index in Rust](https://zhihanz.github.io/posts/bf-tree-rust-implementation/)
 * [2026-02-04, 18:34:29](https://news.ycombinator.com/item?id=46889710) - [LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation](https://github.com/naver/lispe)
 * [2026-02-04, 13:57:39](https://news.ycombinator.com/item?id=46885841) - [Custom Firmware for the MZ-RH1 – Ready for Testing](https://sir68k.re/posts/rh1-firmware-available/)
