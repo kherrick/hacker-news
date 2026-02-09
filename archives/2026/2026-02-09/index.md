@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-09](index.md)
 
+* [2026-02-09, 23:31:15](https://news.ycombinator.com/item?id=46953136) - [Is Particle Physics Dead, Dying, or Just Hard?](https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/)
+* [2026-02-09, 22:01:34](https://news.ycombinator.com/item?id=46952118) - [LiftKit – UI where \"everything derives from the golden ratio\"](https://www.chainlift.io/liftkit)
 * [2026-02-09, 20:49:21](https://news.ycombinator.com/item?id=46951057) - [America Has a Tungsten Problem](https://www.noleary.com/blog/posts/1)
 * [2026-02-09, 20:41:05](https://news.ycombinator.com/item?id=46950915) - [Super Bowl Ad for Ring Cameras Touted AI Surveillance Network](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
 * [2026-02-09, 20:31:44](https://news.ycombinator.com/item?id=46950780) - [Upcoming changes to Let's Encrypt and how they affect XMPP server operators](https://blog.prosody.im/2026-letsencrypt-changes/)
+* [2026-02-09, 20:30:10](https://news.ycombinator.com/item?id=46950756) - [Game Theory Patterns at Work (2016)](https://daeus.blog/2026/01/18/game-theory-patterns-at-work/)
+* [2026-02-09, 20:21:27](https://news.ycombinator.com/item?id=46950634) - [Data exfil from agents in messaging apps](https://www.promptarmor.com/resources/llm-data-exfiltration-via-url-previews-(with-openclaw-example-and-test))
 * [2026-02-09, 19:50:54](https://news.ycombinator.com/item?id=46950152) - [MIT Living Wage Calculator](https://livingwage.mit.edu/)
 * [2026-02-09, 19:32:23](https://news.ycombinator.com/item?id=46949864) - [An articulated archer automaton [video]](https://www.youtube.com/watch?v=Bc0bIpDVEa8)
 * [2026-02-09, 19:19:30](https://news.ycombinator.com/item?id=46949642) - [Luce: First Electric Ferrari. Designed by LoveFrom](https://www.ferrari.com/en-US/auto/ferrari-luce)
@@ -14,6 +18,7 @@
 * [2026-02-09, 19:04:16](https://news.ycombinator.com/item?id=46949401) - [Testing Ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt/)
 * [2026-02-09, 18:20:56](https://news.ycombinator.com/item?id=46948815) - [The Markets of Old London](https://spitalfieldslife.com/2024/06/20/the-markets-of-old-london-i/)
 * [2026-02-09, 18:14:08](https://news.ycombinator.com/item?id=46948708) - [Eddie Bauer, venerable outdoor apparel retailer, declares bankruptcy](https://www.cbsnews.com/news/eddie-bauer-bankrupt-outdoor-apparel/)
+* [2026-02-09, 18:01:44](https://news.ycombinator.com/item?id=46948533) - [Everyone’s building “async agents,” but almost no one can define them](https://www.omnara.com/blog/what-is-an-async-agent-really)
 * [2026-02-09, 17:48:24](https://news.ycombinator.com/item?id=46948340) - [From watchdogs to mouthpieces: Washington Post and the wreckage of legacy media](https://www.thejournal.ie/readme/bezos-washington-post-trump-6950317-Feb2026/)
 * [2026-02-09, 17:44:10](https://news.ycombinator.com/item?id=46948273) - [Game Boy Advance Audio Interpolation](https://jsgroth.dev/blog/posts/gba-audio-interpolation/)
 * [2026-02-09, 17:22:16](https://news.ycombinator.com/item?id=46947982) - [Ice Kid Prisons](https://www.propublica.org/article/life-inside-ice-dilley-children)
