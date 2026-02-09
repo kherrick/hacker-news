@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-02-09, 05:28:15",
+      "https://news.ycombinator.com/item?id=46941882"
+    ],
+    [
+      "Nobody knows how the whole system works",
+      "https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/"
+    ]
+  ],
+  [
+    [
       "2026-02-09, 05:23:37",
       "https://news.ycombinator.com/item?id=46941850"
     ],
     [
-      "Job Hunters Are So Desperate That They're Paying to Get Recruited",
+      "A tough labor market for white-collar workers has turned recruiting upside down",
       "https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=46941603"
     ],
     [
-      "Claude's C Compiler vs. GCC",
+      "Claude’s C Compiler vs. GCC",
       "https://harshanu.space/en/tech/ccc-vs-gcc/"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Reverse Engineering the Prom for the SGI O2",
       "https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 21:58:19",
-      "https://news.ycombinator.com/item?id=46938958"
-    ],
-    [
-      "Stop Generating, Start Thinking",
-      "https://localghost.dev/blog/stop-generating-start-thinking/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-02-08, 14:40:52",
-      "https://news.ycombinator.com/item?id=46934579"
-    ],
-    [
-      "Exploiting signed bootloaders to circumvent UEFI Secure Boot (2019)",
-      "https://habr.com/en/articles/446238/"
-    ]
-  ],
-  [
-    [
       "2026-02-08, 14:02:58",
       "https://news.ycombinator.com/item?id=46934266"
     ],
@@ -241,22 +231,22 @@
   ],
   [
     [
-      "2026-02-08, 06:21:27",
-      "https://news.ycombinator.com/item?id=46931805"
-    ],
-    [
-      "OpenClaw is changing my life",
-      "https://reorx.com/blog/openclaw-is-changing-my-life/"
-    ]
-  ],
-  [
-    [
       "2026-02-08, 03:09:28",
       "https://news.ycombinator.com/item?id=46930961"
     ],
     [
       "Vouch",
       "https://github.com/mitchellh/vouch"
+    ]
+  ],
+  [
+    [
+      "2026-02-06, 00:58:31",
+      "https://news.ycombinator.com/item?id=46907651"
+    ],
+    [
+      "Show HN: Horizons – OSS agent execution engine",
+      "https://github.com/synth-laboratories/Horizons"
     ]
   ],
   [
@@ -275,8 +265,18 @@
       "https://news.ycombinator.com/item?id=46900447"
     ],
     [
-      "Cooking with Glasses",
+      "Cooking with glasses",
       "https://macwright.com/2025/09/21/cooking-with-glasses"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 21:32:48",
+      "https://news.ycombinator.com/item?id=46892105"
+    ],
+    [
+      "Lessons from BF-Tree: Building a Concurrent Larger-Than-Memory Index in Rust",
+      "https://zhihanz.github.io/posts/bf-tree-rust-implementation/"
     ]
   ],
   [
