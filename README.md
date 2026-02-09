@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-09, 20:49:21](https://news.ycombinator.com/item?id=46951057) - [America Has a Tungsten Problem](https://www.noleary.com/blog/posts/1)
+* [2026-02-09, 20:49:21](https://news.ycombinator.com/item?id=46951057) - [America has a tungsten problem](https://www.noleary.com/blog/posts/1)
 * [2026-02-09, 20:41:05](https://news.ycombinator.com/item?id=46950915) - [Super Bowl Ad for Ring Cameras Touted AI Surveillance Network](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
 * [2026-02-09, 20:31:44](https://news.ycombinator.com/item?id=46950780) - [Upcoming changes to Let's Encrypt and how they affect XMPP server operators](https://blog.prosody.im/2026-letsencrypt-changes/)
 * [2026-02-09, 19:50:54](https://news.ycombinator.com/item?id=46950152) - [MIT Living Wage Calculator](https://livingwage.mit.edu/)
@@ -21,7 +21,7 @@
 * [2026-02-09, 14:07:36](https://news.ycombinator.com/item?id=46945348) - [UEFI Bindings for JavaScript](https://codeberg.org/smnx/promethee)
 * [2026-02-09, 13:54:48](https://news.ycombinator.com/item?id=46945235) - [Thoughts on Generating C](https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c)
 * [2026-02-09, 10:05:55](https://news.ycombinator.com/item?id=46943568) - [Show HN: Algorithmically finding the longest line of sight on Earth](https://alltheviews.world)
-* [2026-02-08, 21:05:24](https://news.ycombinator.com/item?id=46938511) - [Art of Roads in Games](https://sandboxspirit.com/blog/art-of-roads-in-games/)
+* [2026-02-09, 05:28:15](https://news.ycombinator.com/item?id=46941882) - [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/)
 * [2026-02-08, 19:35:55](https://news.ycombinator.com/item?id=46937696) - [Ask HN: What are you working on? (February 2026)](https://news.ycombinator.com/item?id=46937696)
 * [2026-02-08, 13:18:37](https://news.ycombinator.com/item?id=46933955) - [Like Game-of-Life, but on Growing Graphs, with WASM and WebGL](https://znah.net/graphs/)
 * [2026-02-05, 15:09:45](https://news.ycombinator.com/item?id=46900472) - [Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL](https://github.com/jnidzwetzki/pg-dev-container)
