@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-09](index.md)
 
+* [2026-02-09, 14:07:36](https://news.ycombinator.com/item?id=46945348) - [UEFI Bindings for JavaScript](https://codeberg.org/smnx/promethee)
+* [2026-02-09, 13:54:48](https://news.ycombinator.com/item?id=46945235) - [Thoughts on Generating C](https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c)
+* [2026-02-09, 13:28:12](https://news.ycombinator.com/item?id=46944978) - [Jony Ive Designed Ferrari Luce EV Interior](https://www.topgear.com/car-news/electric/official-ferraris-first-ev-called-luce-interior-apples-old-design-boss)
 * [2026-02-09, 12:35:19](https://news.ycombinator.com/item?id=46944555) - [Show HN: Browse Internet Infrastructure](https://www.wirewiki.com)
 * [2026-02-09, 11:53:13](https://news.ycombinator.com/item?id=46944245) - [Matrix messaging gaining ground in government IT](https://www.theregister.com/2026/02/09/matrix_element_secure_chat/)
 * [2026-02-09, 11:30:06](https://news.ycombinator.com/item?id=46944084) - [Show HN: Minimal NIST/OWASP-compliant auth implementation for Cloudflare Workers](https://github.com/vhscom/private-landing)
