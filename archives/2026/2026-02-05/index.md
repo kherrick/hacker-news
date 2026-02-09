@@ -48,6 +48,7 @@
 * [2026-02-05, 11:19:40](https://news.ycombinator.com/item?id=46898473) - [How we made geo joins 400× faster with H3 indexes](https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes)
 * [2026-02-05, 10:46:57](https://news.ycombinator.com/item?id=46898223) - [The Missing Layer](https://yagmin.com/blog/the-missing-layer/)
 * [2026-02-05, 09:49:23](https://news.ycombinator.com/item?id=46897810) - [Battle-Testing Lynx at Allegro](https://blog.allegro.tech/2026/02/battle-testing-lynx-js-at-allegro.html)
+* [2026-02-05, 09:47:53](https://news.ycombinator.com/item?id=46897804) - [What's the Entropy of a Random Integer?](https://quomodocumque.wordpress.com/2026/02/03/whats-the-entropy-of-a-random-integer/)
 * [2026-02-05, 09:39:11](https://news.ycombinator.com/item?id=46897737) - [Nanobot: Ultra-Lightweight Alternative to OpenClaw](https://github.com/HKUDS/nanobot)
 * [2026-02-05, 09:24:51](https://news.ycombinator.com/item?id=46897620) - [If you've got Nothing to Hide (2015)](https://jacquesmattheij.com/if-you-have-nothing-to-hide/)
 * [2026-02-05, 08:56:25](https://news.ycombinator.com/item?id=46897407) - [Wood Gas Vehicles: Firewood in the Fuel Tank (2010)](https://solar.lowtechmagazine.com/2010/01/wood-gas-vehicles-firewood-in-the-fuel-tank/)

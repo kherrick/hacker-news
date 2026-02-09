@@ -49,6 +49,7 @@
 * [2026-02-08, 12:00:02](https://news.ycombinator.com/item?id=46933515) - [Show HN: Fine-tuned Qwen2.5-7B on 100 films for probabilistic story graphs](https://cinegraphs.ai/)
 * [2026-02-08, 11:38:57](https://news.ycombinator.com/item?id=46933401) - [Dave Farber has passed away](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/)
 * [2026-02-08, 11:31:49](https://news.ycombinator.com/item?id=46933365) - [Why E cores make Apple Silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/)
+* [2026-02-08, 11:00:32](https://news.ycombinator.com/item?id=46933223) - [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents)
 * [2026-02-08, 10:31:35](https://news.ycombinator.com/item?id=46933067) - [(AI) Slop Terrifies Me](https://ezhik.jp/ai-slop-terrifies-me/)
 * [2026-02-08, 10:13:00](https://news.ycombinator.com/item?id=46932985) - [Curating a Show on My Ineffable Mother, Ursula K. Le Guin](https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/)
 * [2026-02-08, 09:44:55](https://news.ycombinator.com/item?id=46932845) - [In the Australian outback, we're listening for nuclear tests](https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478)
