@@ -31,6 +31,7 @@
 * [2026-02-05, 17:38:53](https://news.ycombinator.com/item?id=46902223) - [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
 * [2026-02-05, 17:00:07](https://news.ycombinator.com/item?id=46901768) - [Maihem (YC W24): hiring sr robotics perception engineer (London, on-site)](https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758)
 * [2026-02-05, 16:55:38](https://news.ycombinator.com/item?id=46901716) - [Hypernetworks: Neural Networks for Hierarchical Data](https://blog.sturdystatistics.com/posts/hnet_part_I/)
+* [2026-02-05, 16:42:55](https://news.ycombinator.com/item?id=46901560) - [Stop Using Icons in Data Tables](https://medium.com/@codythistleward/stop-using-icons-in-data-tables-7537af18ea0d)
 * [2026-02-05, 16:33:56](https://news.ycombinator.com/item?id=46901452) - [European Commission Trials Matrix to Replace Teams](https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/)
 * [2026-02-05, 16:13:33](https://news.ycombinator.com/item?id=46901233) - [Show HN: Smooth CLI – Token-efficient browser for AI agents](https://docs.smooth.sh/cli/overview)
 * [2026-02-05, 15:09:45](https://news.ycombinator.com/item?id=46900472) - [Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL](https://github.com/jnidzwetzki/pg-dev-container)
