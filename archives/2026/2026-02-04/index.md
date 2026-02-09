@@ -44,6 +44,7 @@
 * [2026-02-04, 16:56:11](https://news.ycombinator.com/item?id=46888258) - [Show HN: It took 4 years to sell my startup. I wrote a book about it](https://derekyan.com/ma-book/)
 * [2026-02-04, 16:47:26](https://news.ycombinator.com/item?id=46888142) - [RS-SDK: Drive RuneScape with Claude Code](https://github.com/MaxBittker/rs-sdk)
 * [2026-02-04, 16:30:51](https://news.ycombinator.com/item?id=46887893) - [Postgres Postmaster does not scale](https://www.recall.ai/blog/postgres-postmaster-does-not-scale)
+* [2026-02-04, 16:16:06](https://news.ycombinator.com/item?id=46887665) - [Clean Coder: The Dark Path (2017)](https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html)
 * [2026-02-04, 16:08:55](https://news.ycombinator.com/item?id=46887564) - [Microsoft's Pivotal AI Product Is Running into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28)
 * [2026-02-04, 15:50:50](https://news.ycombinator.com/item?id=46887326) - [Arcan-A12: Weaving a Different Web](https://www.divergent-desktop.org/blog/2026/01/26/a12web/)
 * [2026-02-04, 15:34:37](https://news.ycombinator.com/item?id=46887084) - [The F Word](http://muratbuffalo.blogspot.com/2026/02/friction.html)
