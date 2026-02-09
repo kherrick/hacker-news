@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-09, 14:07:36",
+      "https://news.ycombinator.com/item?id=46945348"
+    ],
+    [
+      "UEFI Bindings for JavaScript",
+      "https://codeberg.org/smnx/promethee"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 13:54:48",
+      "https://news.ycombinator.com/item?id=46945235"
+    ],
+    [
+      "Thoughts on Generating C",
+      "https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 13:28:12",
+      "https://news.ycombinator.com/item?id=46944978"
+    ],
+    [
+      "Jony Ive Designed Ferrari Luce EV Interior",
+      "https://www.topgear.com/car-news/electric/official-ferraris-first-ev-called-luce-interior-apples-old-design-boss"
+    ]
+  ],
+  [
+    [
       "2026-02-09, 12:35:19",
       "https://news.ycombinator.com/item?id=46944555"
     ],
@@ -51,6 +81,16 @@
   ],
   [
     [
+      "2026-02-09, 05:28:15",
+      "https://news.ycombinator.com/item?id=46941882"
+    ],
+    [
+      "Nobody knows how the whole system works",
+      "https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 23:27:59",
       "https://news.ycombinator.com/item?id=46939685"
     ],
@@ -77,16 +117,6 @@
     [
       "Show HN: A custom font that displays Cistercian numerals using ligatures",
       "https://bobbiec.github.io/cistercian-font.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 22:38:14",
-      "https://news.ycombinator.com/item?id=46939298"
-    ],
-    [
-      "Toma (YC W24) Is Hiring Founding Engineers",
-      "https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products"
     ]
   ],
   [
@@ -127,16 +157,6 @@
     [
       "Apple XNU: Clutch Scheduler",
       "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 20:34:51",
-      "https://news.ycombinator.com/item?id=46938241"
-    ],
-    [
-      "A GTA modder has got the 1997 original working on modern PCs and Steam Deck",
-      "https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/"
     ]
   ],
   [
@@ -191,42 +211,12 @@
   ],
   [
     [
-      "2026-02-08, 14:40:52",
-      "https://news.ycombinator.com/item?id=46934579"
-    ],
-    [
-      "Exploiting signed bootloaders to circumvent UEFI Secure Boot (2019)",
-      "https://habr.com/en/articles/446238/"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 14:02:58",
-      "https://news.ycombinator.com/item?id=46934266"
-    ],
-    [
-      "Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing",
-      "https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/"
-    ]
-  ],
-  [
-    [
       "2026-02-08, 13:40:56",
       "https://news.ycombinator.com/item?id=46934107"
     ],
     [
       "GitHub Agentic Workflows",
       "https://github.github.io/gh-aw/"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 11:38:57",
-      "https://news.ycombinator.com/item?id=46933401"
-    ],
-    [
-      "Dave Farber has died",
-      "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation",
       "https://github.com/naver/lispe"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 16:16:06",
+      "https://news.ycombinator.com/item?id=46887665"
+    ],
+    [
+      "Clean Coder: The Dark Path (2017)",
+      "https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html"
     ]
   ],
   [
