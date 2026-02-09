@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-09](index.md)
 
+* [2026-02-09, 19:50:54](https://news.ycombinator.com/item?id=46950152) - [MIT Living Wage Calculator](https://livingwage.mit.edu/)
+* [2026-02-09, 19:32:23](https://news.ycombinator.com/item?id=46949864) - [An articulated archer automaton [video]](https://www.youtube.com/watch?v=Bc0bIpDVEa8)
+* [2026-02-09, 19:19:30](https://news.ycombinator.com/item?id=46949642) - [Luce: First Electric Ferrari. Designed by LoveFrom](https://www.ferrari.com/en-US/auto/ferrari-luce)
+* [2026-02-09, 19:07:25](https://news.ycombinator.com/item?id=46949452) - [Another GitHub outage in the same day](https://www.githubstatus.com/incidents/lcw3tg2f6zsd)
 * [2026-02-09, 19:04:16](https://news.ycombinator.com/item?id=46949401) - [Testing Ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt/)
 * [2026-02-09, 18:20:56](https://news.ycombinator.com/item?id=46948815) - [The Markets of Old London](https://spitalfieldslife.com/2024/06/20/the-markets-of-old-london-i/)
 * [2026-02-09, 18:14:08](https://news.ycombinator.com/item?id=46948708) - [Eddie Bauer, venerable outdoor apparel retailer, declares bankruptcy](https://www.cbsnews.com/news/eddie-bauer-bankrupt-outdoor-apparel/)

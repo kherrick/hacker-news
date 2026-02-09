@@ -33,6 +33,7 @@
 * [2026-02-05, 16:55:38](https://news.ycombinator.com/item?id=46901716) - [Hypernetworks: Neural Networks for Hierarchical Data](https://blog.sturdystatistics.com/posts/hnet_part_I/)
 * [2026-02-05, 16:33:56](https://news.ycombinator.com/item?id=46901452) - [European Commission Trials Matrix to Replace Teams](https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/)
 * [2026-02-05, 16:13:33](https://news.ycombinator.com/item?id=46901233) - [Show HN: Smooth CLI – Token-efficient browser for AI agents](https://docs.smooth.sh/cli/overview)
+* [2026-02-05, 15:09:45](https://news.ycombinator.com/item?id=46900472) - [Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL](https://github.com/jnidzwetzki/pg-dev-container)
 * [2026-02-05, 15:07:32](https://news.ycombinator.com/item?id=46900447) - [Cooking with Glasses](https://macwright.com/2025/09/21/cooking-with-glasses)
 * [2026-02-05, 14:20:38](https://news.ycombinator.com/item?id=46899900) - [Roman industrial hub discovered on banks of River Wear](https://www.durham.ac.uk/news-events/latest-news/2026/01/roman-industrial-hub-discovered-on-banks-of-river-wear-/)
 * [2026-02-05, 14:14:11](https://news.ycombinator.com/item?id=46899833) - [Werewolf Vflex Adapter Review](https://hagensieker.com/2026/02/05/werewolf-vflex-adapter-review/)
