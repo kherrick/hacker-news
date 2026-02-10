@@ -63,6 +63,7 @@
 * [2026-02-08, 07:39:49](https://news.ycombinator.com/item?id=46932192) - [DoNotNotify is now Open Source](https://donotnotify.com/opensource.html)
 * [2026-02-08, 07:11:47](https://news.ycombinator.com/item?id=46932010) - [Turning books to courses using AI](https://www.book2course.org/)
 * [2026-02-08, 07:00:40](https://news.ycombinator.com/item?id=46931948) - [The world heard JD Vance being booed at the Olympics. Except for viewers in USA](https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics)
+* [2026-02-08, 06:53:29](https://news.ycombinator.com/item?id=46931923) - [The original vi is a product of its time (and its time has passed)](https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime)
 * [2026-02-08, 06:21:27](https://news.ycombinator.com/item?id=46931805) - [OpenClaw Is Changing My Life](https://reorx.com/blog/openclaw-is-changing-my-life/)
 * [2026-02-08, 05:33:15](https://news.ycombinator.com/item?id=46931595) - [LineageOS 23.2](https://lineageos.org/Changelog-31/)
 * [2026-02-08, 05:25:33](https://news.ycombinator.com/item?id=46931559) - [Roger Ebert Reviews \"The Shawshank Redemption\"](https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994)
