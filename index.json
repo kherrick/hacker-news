@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-10, 21:57:19",
+      "https://news.ycombinator.com/item?id=46967510"
+    ],
+    [
+      "Scrap Labs – Metal 3D Printer",
+      "https://www.scraplabs3d.com/"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 20:42:20",
+      "https://news.ycombinator.com/item?id=46966605"
+    ],
+    [
+      "The Falkirk Wheel",
+      "https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel"
+    ]
+  ],
+  [
+    [
       "2026-02-10, 20:17:45",
       "https://news.ycombinator.com/item?id=46966209"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2026-02-10, 19:49:02",
-      "https://news.ycombinator.com/item?id=46965776"
+      "2026-02-10, 20:02:05",
+      "https://news.ycombinator.com/item?id=46965968"
     ],
     [
-      "Toyotas and Terrorists: \"Why are ISIS's trucks better than ours?\" (2023)",
-      "https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/3600155/toyotas-and-terrorists-why-are-isiss-trucks-better-than-ours-said-the-american/"
+      "Show HN: Sol LeWitt-style instruction-based drawings in the browser",
+      "https://intervolz.com/sollewitt/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis",
       "https://livedocs.com"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 18:09:10",
-      "https://news.ycombinator.com/item?id=46964159"
-    ],
-    [
-      "The switch to Linux and the beginning of my self-hosting journey",
-      "https://hazemkrimi.tech/blog/linux-self-hosting-journey/"
     ]
   ],
   [
@@ -151,26 +161,6 @@
   ],
   [
     [
-      "2026-02-10, 15:08:36",
-      "https://news.ycombinator.com/item?id=46960675"
-    ],
-    [
-      "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
-      "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 14:49:29",
-      "https://news.ycombinator.com/item?id=46960392"
-    ],
-    [
-      "Parse, Don't Validate (2019)",
-      "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 14:20:49",
       "https://news.ycombinator.com/item?id=46960036"
     ],
@@ -187,6 +177,16 @@
     [
       "Simplifying Vulkan one subsystem at a time",
       "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 12:19:23",
+      "https://news.ycombinator.com/item?id=46958742"
+    ],
+    [
+      "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
+      "https://github.com/distr-sh/distr"
     ]
   ],
   [
