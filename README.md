@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-10, 07:10:37](https://news.ycombinator.com/item?id=46956322) - [Brutalist Southbank Centre Listed](https://www.architectsjournal.co.uk/news/brutalist-southbank-centre-finally-listed-after-35-years-of-refusals)
+* [2026-02-10, 09:56:36](https://news.ycombinator.com/item?id=46957495) - [ICE is pushing readers to nonprofit news sites that cover immigrant communities](https://www.niemanlab.org/2026/02/ice-activity-is-pushing-readers-to-nonprofit-news-sites-that-cover-immigrant-communities/)
+* [2026-02-10, 09:39:00](https://news.ycombinator.com/item?id=46957360) - [Grindr trials premium $500 per month plan to become 'AI-first' app](https://www.thepinknews.com/2026/02/09/grindr-trials-premium-500-per-month-plan-to-become-ai-first-app/)
+* [2026-02-10, 09:19:00](https://news.ycombinator.com/item?id=46957198) - [Qwen-Image-2.0: Professional infographics, exquisite photorealism](https://qwen.ai/blog?id=qwen-image-2.0)
+* [2026-02-10, 05:19:00](https://news.ycombinator.com/item?id=46955703) - [AI doesn’t reduce work, it intensifies it](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 * [2026-02-10, 03:17:17](https://news.ycombinator.com/item?id=46954920) - [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
 * [2026-02-10, 01:26:42](https://news.ycombinator.com/item?id=46954136) - [Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)
 * [2026-02-10, 01:17:35](https://news.ycombinator.com/item?id=46954049) - [Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c)
@@ -13,7 +16,6 @@
 * [2026-02-09, 19:19:30](https://news.ycombinator.com/item?id=46949642) - [Luce: First Electric Ferrari](https://www.ferrari.com/en-US/auto/ferrari-luce)
 * [2026-02-09, 19:15:14](https://news.ycombinator.com/item?id=46949564) - [Discord Alternatives, Ranked](https://taggart-tech.com/discord-alternatives/)
 * [2026-02-09, 19:07:25](https://news.ycombinator.com/item?id=46949452) - [Another GitHub outage in the same day](https://www.githubstatus.com/incidents/lcw3tg2f6zsd)
-* [2026-02-09, 18:01:44](https://news.ycombinator.com/item?id=46948533) - [Everyone’s building “async agents,” but almost no one can define them](https://www.omnara.com/blog/what-is-an-async-agent-really)
 * [2026-02-09, 17:44:10](https://news.ycombinator.com/item?id=46948273) - [Game Boy Advance Audio Interpolation](https://jsgroth.dev/blog/posts/gba-audio-interpolation/)
 * [2026-02-09, 17:09:37](https://news.ycombinator.com/item?id=46947777) - [Hard-braking events as indicators of road segment crash risk](https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/)
 * [2026-02-09, 16:26:31](https://news.ycombinator.com/item?id=46947096) - [Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
@@ -25,11 +27,9 @@
 * [2026-02-08, 19:35:55](https://news.ycombinator.com/item?id=46937696) - [Ask HN: What are you working on? (February 2026)](https://news.ycombinator.com/item?id=46937696)
 * [2026-02-08, 11:00:32](https://news.ycombinator.com/item?id=46933223) - [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents)
 * [2026-02-08, 09:58:31](https://news.ycombinator.com/item?id=46932911) - [MIT Technology Review has confirmed that posts on Moltbook were fake](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/)
-* [2026-02-08, 08:15:36](https://news.ycombinator.com/item?id=46932388) - [LLMs as Language Compilers: Lessons from Fortran for the Future of Coding](https://cyber-omelette.com/posts/the-abstraction-rises.html)
-* [2026-02-08, 06:53:29](https://news.ycombinator.com/item?id=46931923) - [The original vi is a product of its time (and its time has passed)](https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime)
+* [2026-02-08, 08:15:36](https://news.ycombinator.com/item?id=46932388) - [The Abstraction Rises](https://cyber-omelette.com/posts/the-abstraction-rises.html)
 * [2026-02-06, 04:28:08](https://news.ycombinator.com/item?id=46909122) - [Generative Pen-Trained Transformer](https://theodore.net/projects/Polargraph/)
-* [2026-02-05, 16:42:55](https://news.ycombinator.com/item?id=46901560) - [Stop using icons in data tables](https://medium.com/@codythistleward/stop-using-icons-in-data-tables-7537af18ea0d)
-* [2026-02-05, 12:18:59](https://news.ycombinator.com/item?id=46898840) - [Expansion Microscopy Has Transformed How We See the Cellular World](https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/)
+* [2026-02-05, 07:55:43](https://news.ycombinator.com/item?id=46896942) - [.Beat Swatch Internet Time](https://beats.wiki/)
 
 ## [Archives](archives/index.md)
 
