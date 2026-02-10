@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-10](index.md)
 
+* [2026-02-10, 17:48:05](https://news.ycombinator.com/item?id=46963804) - [Google Handed ICE Student Journalist's Bank and Credit Card Numbers](https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/)
+* [2026-02-10, 17:40:55](https://news.ycombinator.com/item?id=46963691) - [ClawHub](https://clawhub.ai/)
+* [2026-02-10, 17:06:00](https://news.ycombinator.com/item?id=46963026) - [Show HN: Open-Source SDK for AI Knowledge Work](https://github.com/ClioAI/kw-sdk)
+* [2026-02-10, 17:04:31](https://news.ycombinator.com/item?id=46962996) - [The Singularity will occur on a Tuesday](https://campedersen.com/singularity)
+* [2026-02-10, 17:00:40](https://news.ycombinator.com/item?id=46962924) - [\"Hate brings views\": Confessions of a London fake news TikToker](https://www.londoncentric.media/p/london-tiktok-fake-news-creator-hate-immigrants)
+* [2026-02-10, 16:57:52](https://news.ycombinator.com/item?id=46962871) - [Show HN: I made paperboat.website, a platform for friends and creativity](https://paperboat.website/home/)
+* [2026-02-10, 16:47:29](https://news.ycombinator.com/item?id=46962641) - [Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)](https://github.com/rowboatlabs/rowboat)
 * [2026-02-10, 16:36:30](https://news.ycombinator.com/item?id=46962402) - [Mathematicians disagree on the essential structure of the complex numbers](https://www.infinitelymore.xyz/p/complex-numbers-essential-structure)
 * [2026-02-10, 15:44:47](https://news.ycombinator.com/item?id=46961345) - [Ex-GitHub CEO Launches a New Developer Platform for AI Agents](https://entire.io/blog/hello-entire-world/)
 * [2026-02-10, 15:12:11](https://news.ycombinator.com/item?id=46960743) - [Disruption with Some GitHub Services](https://www.githubstatus.com/incidents/wkgqj4546z1c)
