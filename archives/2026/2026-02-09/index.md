@@ -28,6 +28,7 @@
 * [2026-02-09, 17:22:16](https://news.ycombinator.com/item?id=46947982) - [Ice Kid Prisons](https://www.propublica.org/article/life-inside-ice-dilley-children)
 * [2026-02-09, 17:09:37](https://news.ycombinator.com/item?id=46947777) - [Hard-braking events as indicators of road segment crash risk](https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/)
 * [2026-02-09, 16:49:23](https://news.ycombinator.com/item?id=46947501) - [Irish man detained by ICE for 5 months](https://www.rte.ie/news/ireland/2026/0209/1557514-seamus-culleton/)
+* [2026-02-09, 16:33:38](https://news.ycombinator.com/item?id=46947229) - [Show HN: JavaScript-first, open-source WYSIWYG DOCX editor](https://github.com/eigenpal/docx-js-editor)
 * [2026-02-09, 16:32:37](https://news.ycombinator.com/item?id=46947210) - [Why is Singapore no longer \"cool\"?](https://marginalrevolution.com/marginalrevolution/2026/02/why-is-singapore-no-longer-cool.html)
 * [2026-02-09, 16:26:31](https://news.ycombinator.com/item?id=46947096) - [Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
 * [2026-02-09, 16:15:16](https://news.ycombinator.com/item?id=46946872) - [GitHub Is Down](https://github.com/)
