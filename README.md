@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-10, 10:06:34](https://news.ycombinator.com/item?id=46957584) - [The Epstein Network Visualizer](https://epsteinvisualizer.com/)
+* [2026-02-10, 10:31:59](https://news.ycombinator.com/item?id=46957794) - [Corruption Perceptions Index 2025](https://www.transparency.org/en/cpi/2025)
 * [2026-02-10, 09:19:00](https://news.ycombinator.com/item?id=46957198) - [Qwen-Image-2.0: Professional infographics, exquisite photorealism](https://qwen.ai/blog?id=qwen-image-2.0)
 * [2026-02-10, 05:19:00](https://news.ycombinator.com/item?id=46955703) - [AI doesn’t reduce work, it intensifies it](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 * [2026-02-10, 03:17:17](https://news.ycombinator.com/item?id=46954920) - [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)

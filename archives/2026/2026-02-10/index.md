@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-10](index.md)
 
+* [2026-02-10, 10:31:59](https://news.ycombinator.com/item?id=46957794) - [Corruption Perceptions Index 2025](https://www.transparency.org/en/cpi/2025)
 * [2026-02-10, 10:06:34](https://news.ycombinator.com/item?id=46957584) - [The Epstein Network Visualizer](https://epsteinvisualizer.com/)
 * [2026-02-10, 09:56:36](https://news.ycombinator.com/item?id=46957495) - [ICE is pushing readers to nonprofit news sites that cover immigrant communities](https://www.niemanlab.org/2026/02/ice-activity-is-pushing-readers-to-nonprofit-news-sites-that-cover-immigrant-communities/)
 * [2026-02-10, 09:39:00](https://news.ycombinator.com/item?id=46957360) - [Grindr trials premium $500 per month plan to become 'AI-first' app](https://www.thepinknews.com/2026/02/09/grindr-trials-premium-500-per-month-plan-to-become-ai-first-app/)
