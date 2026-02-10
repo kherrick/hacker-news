@@ -29,7 +29,7 @@
 * [2026-02-08, 06:53:29](https://news.ycombinator.com/item?id=46931923) - [The original vi is a product of its time (and its time has passed)](https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime)
 * [2026-02-06, 04:28:08](https://news.ycombinator.com/item?id=46909122) - [Generative Pen-Trained Transformer](https://theodore.net/projects/Polargraph/)
 * [2026-02-05, 16:42:55](https://news.ycombinator.com/item?id=46901560) - [Stop using icons in data tables](https://medium.com/@codythistleward/stop-using-icons-in-data-tables-7537af18ea0d)
-* [2026-02-05, 14:31:14](https://news.ycombinator.com/item?id=46900022) - [History of UHF Television: TV Above Channel 13 (2024)](https://uhfhistory.com/)
+* [2026-02-05, 12:18:59](https://news.ycombinator.com/item?id=46898840) - [Expansion Microscopy Has Transformed How We See the Cellular World](https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/)
 
 ## [Archives](archives/index.md)
 
