@@ -129,6 +129,329 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46963804">
+          <h3>
+            <a
+              class="item"
+              href="https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/"
+              >Google Handed ICE Student Journalist's Bank and Credit Card
+              Numbers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 17:48:05</span
+              ><span class="points-container"
+                >Points: <span class="points">210</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46963804"
+                  >Comments</a
+                ><span class="descendants">: 73</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46963691">
+          <h3><a class="item" href="https://clawhub.ai/">ClawHub</a></h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 17:40:55</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46963691"
+                  >Comments</a
+                ><span class="descendants">: 16</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46963026">
+          <h3>
+            <a class="item" href="https://github.com/ClioAI/kw-sdk"
+              >Show HN: Open-Source SDK for AI Knowledge Work</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 17:06:00</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46963026"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/ClioAI/kw-sdk"
+                >https://github.com/ClioAI/kw-sdk</a
+              >
+              <p>
+                Most AI agent frameworks target code. Write code, run tests, fix
+                errors, repeat. That works because code has a natural
+                verification signal. It works or it doesn't.
+              </p>
+              <p>This SDK treats knowledge work like an engineering problem:</p>
+              <p>
+                Task → Brief → Rubric (hidden from executor) → Work → Verify →
+                Fail? → Retry → Pass → Submit
+              </p>
+              <p>
+                The orchestrator coordinates subagents, web search, code
+                execution, and file I/O. then checks its own work against
+                criteria it can't game (the rubric is generated in a separate
+                call and the executor never sees it directly).
+              </p>
+              <p>
+                We originally built this as a harness for RL training on
+                knowledge tasks. The rubric is the reward function. If you're
+                training models on knowledge work, the
+                brief→rubric→execute→verify loop gives you a structured reward
+                signal for tasks that normally don't have one.
+              </p>
+              <p>
+                What makes Knowledge work different from code? (apart from
+                feedback loop) I believe there is some functionality missing
+                from today's agents when it comes to knowledge work. I tried to
+                include that in this release. Example:
+              </p>
+              <p>
+                Explore mode: Mapping the solution space, identifying the set
+                level gaps, and giving options.
+              </p>
+              <p>
+                Most agents optimize for a single answer, and end up with a
+                median one. For strategy, design, creative problems, you want to
+                see the options, what are the tradeoffs, and what can you do?
+                Explore mode generates N distinct approaches, each with explicit
+                assumptions and counterfactuals ("this works if X, breaks if
+                Y"). The output ends with set-level gaps ie what angles the
+                entire set missed. The gaps are often more valuable than the
+                takes. I think this is what many of us do on a daily basis, but
+                no agent directly captures it today. See
+                <a
+                  href="https://github.com/ClioAI/kw-sdk/blob/main/examples/explore_mode.py"
+                  >https://github.com/ClioAI/kw-sdk/blob/main/examples/explore_...</a
+                >
+                and the output for a sense of how this is different.
+              </p>
+              <p>
+                Checkpointing: With many ai agents and especially multi agent
+                systems, i can see where it went wrong, but cant run inference
+                from same stage. (or you may want multiple explorations once an
+                agent has done some tasks like search and is now looking at
+                ideas). I used this for rollouts a lot, and think its a great
+                feature to run again, or fork from a specific checkpoint.
+              </p>
+              <p>
+                A note on Verification loop: The verify step is where the real
+                leverage is. A model that can accurately assess its own work
+                against a rubric is more valuable than one that generates
+                slightly better first drafts. The rubric makes quality legible —
+                to the agent, to the human, and potentially to a training
+                signal.
+              </p>
+              <p>
+                Some things i like about this: - You can pass a remote execution
+                environment (including your browser as a sandbox) and it would
+                work. It can be docker, e2b, your local env, anything, the model
+                will execute commands in your context, and will iterate based on
+                feedback loop. Code execution is a protocol here.
+              </p>
+              <p>
+                - Tool calling: I realize you don't need complex functions.
+                Models are good at writing terminal code, and can iterate based
+                on feedback, so you can just pass either functions in context
+                and model will execute or you can pass docs and model will write
+                the code. (same as anthropic's programmatic tool calling).
+                Details:
+                <a
+                  href="https://github.com/ClioAI/kw-sdk/blob/main/TOOL_CALLING_GUIDE.md"
+                  >https://github.com/ClioAI/kw-sdk/blob/main/TOOL_CALLING_GUID...</a
+                >
+              </p>
+              <p>
+                Lastly, some guides: - SDK guide:
+                <a
+                  href="https://github.com/ClioAI/kw-sdk/blob/main/SDK_GUIDE.md"
+                  >https://github.com/ClioAI/kw-sdk/blob/main/SDK_GUIDE.md</a
+                >
+                - Extensible. See bizarro example where i add a new mode:
+                <a
+                  href="https://github.com/ClioAI/kw-sdk/blob/main/examples/custom_mode_bizarro.py"
+                  >https://github.com/ClioAI/kw-sdk/blob/main/examples/custom_m...</a
+                >
+                - working with files:
+                <a
+                  href="https://github.com/ClioAI/kw-sdk/blob/main/examples/with_files.py"
+                  >https://github.com/ClioAI/kw-sdk/blob/main/examples/with_fil...</a
+                >
+                - this is simple but i love the csv example:
+                <a
+                  href="https://github.com/ClioAI/kw-sdk/blob/main/examples/csv_research_and_calc.py"
+                  >https://github.com/ClioAI/kw-sdk/blob/main/examples/csv_rese...</a
+                >
+                - remote execution:
+                <a
+                  href="https://github.com/ClioAI/kw-sdk/blob/main/examples/with_custom_executor.py"
+                  >https://github.com/ClioAI/kw-sdk/blob/main/examples/with_cus...</a
+                >
+              </p>
+              <p>
+                And a lot more. This was completely refactored by opus and given
+                the rework, probably would have taken a lot of time to release
+                it.
+              </p>
+              <p>MIT licensed. Would love your feedback.</p>
+            </div>
+          </section>
+        </section>
+        <section id="46962996">
+          <h3>
+            <a class="item" href="https://campedersen.com/singularity"
+              >The Singularity will occur on a Tuesday</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 17:04:31</span
+              ><span class="points-container"
+                >Points: <span class="points">187</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46962996"
+                  >Comments</a
+                ><span class="descendants">: 109</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46962924">
+          <h3>
+            <a
+              class="item"
+              href="https://www.londoncentric.media/p/london-tiktok-fake-news-creator-hate-immigrants"
+              >"Hate brings views": Confessions of a London fake news
+              TikToker</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 17:00:40</span
+              ><span class="points-container"
+                >Points: <span class="points">135</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46962924"
+                  >Comments</a
+                ><span class="descendants">: 69</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46962871">
+          <h3>
+            <a class="item" href="https://paperboat.website/home/"
+              >Show HN: I made paperboat.website, a platform for friends and
+              creativity</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 16:57:52</span
+              ><span class="points-container"
+                >Points: <span class="points">29</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46962871"
+                  >Comments</a
+                ><span class="descendants">: 17</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46962641">
+          <h3>
+            <a class="item" href="https://github.com/rowboatlabs/rowboat"
+              >Show HN: Rowboat – AI coworker that turns your work into a
+              knowledge graph (OSS)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 16:47:29</span
+              ><span class="points-container"
+                >Points: <span class="points">39</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46962641"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                AI agents that can run tools on your machine are powerful for
+                knowledge work, but they’re only as useful as the context they
+                have. Rowboat is an open-source, local-first app that turns your
+                work into a living knowledge graph (stored as plain Markdown
+                with backlinks) and uses it to accomplish tasks on your
+                computer.
+              </p>
+              <p>
+                For example, you can say "Build me a deck about our next quarter
+                roadmap." Rowboat pulls priorities and commitments from your
+                graph, loads a presentation skill, and exports a PDF.
+              </p>
+              <p>
+                Our repo is
+                <a href="https://github.com/rowboatlabs/rowboat"
+                  >https://github.com/rowboatlabs/rowboat</a
+                >, and there’s a demo video here:
+                <a href="https://www.youtube.com/watch?v=5AWoGo-L16I"
+                  >https://www.youtube.com/watch?v=5AWoGo-L16I</a
+                >
+              </p>
+              <p>Rowboat has two parts:</p>
+              <p>
+                (1) A living context graph: Rowboat connects to sources like
+                Gmail and meeting notes like Granola and Fireflies, extracts
+                decisions, commitments, deadlines, and relationships, and writes
+                them locally as linked and editable Markdown files
+                (Obsidian-style), organized around people, projects, and topics.
+                As new conversations happen (including voice memos), related
+                notes update automatically. If a deadline changes in a standup,
+                it links back to the original commitment and updates it.
+              </p>
+              <p>
+                (2) A local assistant: On top of that graph, Rowboat includes an
+                agent with local shell access and MCP support, so it can use
+                your existing context to actually do work on your machine. It
+                can act on demand or run scheduled background tasks. Example:
+                “Prep me for my meeting with John and create a short voice
+                brief.” It pulls relevant context from your graph and can
+                generate an audio note via an MCP tool like ElevenLabs.
+              </p>
+              <p>
+                Why not just search transcripts? Passing gigabytes of email,
+                docs, and calls directly to an AI agent is slow and lossy. And
+                search only answers the questions you think to ask. A system
+                that accumulates context over time can track decisions,
+                commitments, and relationships across conversations, and surface
+                patterns you didn't know to look for.
+              </p>
+              <p>
+                Rowboat is Apache-2.0 licensed, works with any LLM (including
+                local ones), and stores all data locally as Markdown you can
+                read, edit, or delete at any time.
+              </p>
+              <p>
+                Our previous startup was acquired by Coinbase, where part of my
+                work involved graph neural networks. We're excited to be working
+                with graph-based systems again. Work memory feels like the
+                missing layer for agents.
+              </p>
+              <p>We’d love to hear your thoughts and welcome contributions!</p>
+            </div>
+          </section>
+        </section>
         <section id="46962402">
           <h3>
             <a
@@ -142,30 +465,11 @@
             <h4>
               <span>2026-02-10 @ 16:36:30</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46962402"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46961345">
-          <h3>
-            <a class="item" href="https://entire.io/blog/hello-entire-world/"
-              >Ex-GitHub CEO Launches a New Developer Platform for AI Agents</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-10 @ 15:44:47</span
-              ><span class="points-container"
-                >Points: <span class="points">86</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46961345"
-                  >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -183,11 +487,11 @@
             <h4>
               <span>2026-02-10 @ 15:08:36</span
               ><span class="points-container"
-                >Points: <span class="points">302</span></span
+                >Points: <span class="points">359</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46960675"
                   >Comments</a
-                ><span class="descendants">: 226</span></span
+                ><span class="descendants">: 296</span></span
               >
             </h4>
           </section>
@@ -204,11 +508,11 @@
             <h4>
               <span>2026-02-10 @ 15:05:24</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">202</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46960624"
                   >Comments</a
-                ><span class="descendants">: 482</span></span
+                ><span class="descendants">: 601</span></span
               >
             </h4>
           </section>
@@ -225,11 +529,11 @@
             <h4>
               <span>2026-02-10 @ 14:58:35</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46960517"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -246,11 +550,11 @@
             <h4>
               <span>2026-02-10 @ 14:49:29</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46960392"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 109</span></span
               >
             </h4>
           </section>
@@ -267,11 +571,11 @@
             <h4>
               <span>2026-02-10 @ 14:27:16</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46960118"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -286,11 +590,11 @@
             <h4>
               <span>2026-02-10 @ 14:20:49</span
               ><span class="points-container"
-                >Points: <span class="points">325</span></span
+                >Points: <span class="points">371</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46960036"
                   >Comments</a
-                ><span class="descendants">: 179</span></span
+                ><span class="descendants">: 194</span></span
               >
             </h4>
           </section>
@@ -308,11 +612,11 @@
             <h4>
               <span>2026-02-10 @ 14:02:10</span
               ><span class="points-container"
-                >Points: <span class="points">322</span></span
+                >Points: <span class="points">375</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46959832"
                   >Comments</a
-                ><span class="descendants">: 244</span></span
+                ><span class="descendants">: 295</span></span
               >
             </h4>
           </section>
@@ -322,18 +626,18 @@
             <a
               class="item"
               href="https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time"
-              >Simplifying Vulkan One Subsystem at a Time</a
+              >Simplifying Vulkan one subsystem at a time</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-02-10 @ 13:26:14</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46959418"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -349,11 +653,11 @@
             <h4>
               <span>2026-02-10 @ 12:19:23</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46958742"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
             <div class="text">
@@ -458,11 +762,11 @@
             <h4>
               <span>2026-02-10 @ 11:42:14</span
               ><span class="points-container"
-                >Points: <span class="points">258</span></span
+                >Points: <span class="points">337</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46958399"
                   >Comments</a
-                ><span class="descendants">: 257</span></span
+                ><span class="descendants">: 318</span></span
               >
             </h4>
           </section>
@@ -479,7 +783,7 @@
             <h4>
               <span>2026-02-10 @ 11:39:26</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46958378"
                   >Comments</a
@@ -498,11 +802,11 @@
             <h4>
               <span>2026-02-10 @ 11:21:56</span
               ><span class="points-container"
-                >Points: <span class="points">216</span></span
+                >Points: <span class="points">243</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46958231"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -518,11 +822,11 @@
             <h4>
               <span>2026-02-10 @ 09:19:00</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">271</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46957198"
                   >Comments</a
-                ><span class="descendants">: 136</span></span
+                ><span class="descendants">: 141</span></span
               >
             </h4>
           </section>
@@ -538,11 +842,11 @@
             <h4>
               <span>2026-02-10 @ 05:20:32</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46955712"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
             <div class="text">
@@ -631,11 +935,11 @@
             <h4>
               <span>2026-02-10 @ 03:17:17</span
               ><span class="points-container"
-                >Points: <span class="points">472</span></span
+                >Points: <span class="points">485</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46954920"
                   >Comments</a
-                ><span class="descendants">: 306</span></span
+                ><span class="descendants">: 318</span></span
               >
             </h4>
           </section>
@@ -653,11 +957,11 @@
             <h4>
               <span>2026-02-10 @ 01:26:42</span
               ><span class="points-container"
-                >Points: <span class="points">357</span></span
+                >Points: <span class="points">370</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46954136"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -673,11 +977,11 @@
             <h4>
               <span>2026-02-10 @ 01:17:35</span
               ><span class="points-container"
-                >Points: <span class="points">270</span></span
+                >Points: <span class="points">272</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46954049"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -692,7 +996,7 @@
             <h4>
               <span>2026-02-10 @ 00:46:14</span
               ><span class="points-container"
-                >Points: <span class="points">225</span></span
+                >Points: <span class="points">240</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46953815"
                   >Comments</a
@@ -714,11 +1018,11 @@
             <h4>
               <span>2026-02-09 @ 19:32:45</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46949870"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -735,54 +1039,11 @@
             <h4>
               <span>2026-02-09 @ 19:15:14</span
               ><span class="points-container"
-                >Points: <span class="points">562</span></span
+                >Points: <span class="points">598</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46949564"
                   >Comments</a
-                ><span class="descendants">: 351</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46947777">
-          <h3>
-            <a
-              class="item"
-              href="https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/"
-              >Hard-braking events as indicators of road segment crash risk</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-09 @ 17:09:37</span
-              ><span class="points-container"
-                >Points: <span class="points">356</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46947777"
-                  >Comments</a
-                ><span class="descendants">: 533</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46947096">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock"
-              >Converting a $3.88 analog clock from Walmart into a ESP8266-based
-              Wi-Fi clock</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-09 @ 16:26:31</span
-              ><span class="points-container"
-                >Points: <span class="points">583</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46947096"
-                  >Comments</a
-                ><span class="descendants">: 187</span></span
+                ><span class="descendants">: 370</span></span
               >
             </h4>
           </section>
@@ -799,130 +1060,11 @@
             <h4>
               <span>2026-02-09 @ 15:39:51</span
               ><span class="points-container"
-                >Points: <span class="points">751</span></span
+                >Points: <span class="points">765</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46946401"
                   >Comments</a
                 ><span class="descendants">: 247</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46945663">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out"
-              >Discord will require a face scan or ID for full access next
-              month</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-09 @ 14:37:38</span
-              ><span class="points-container"
-                >Points: <span class="points">1947</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46945663"
-                  >Comments</a
-                ><span class="descendants">: 1865</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally"
-                >https://discord.com/press-releases/discord-launches-teen-by-...</a
-              >
-              <p>
-                <a
-                  href="https://discord.com/safety/how-discord-is-building-safer-experiences-for-teens"
-                  >https://discord.com/safety/how-discord-is-building-safer-exp...</a
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="46933779">
-          <h3>
-            <a class="item" href="https://tontinton.com/posts/lance/"
-              >Lance table format explained simply, stupid (Animated)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-08 @ 12:45:56</span
-              ><span class="points-container"
-                >Points: <span class="points">13</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46933779"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46933022">
-          <h3>
-            <a class="item" href="https://elysiajs.com/internal/jit-compiler"
-              >Show HN: Elysia JIT "Compiler", why it's one of the fastest
-              JavaScript framework</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-08 @ 10:22:30</span
-              ><span class="points-container"
-                >Points: <span class="points">44</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46933022"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Basically, there's a JIT "compiler" embedded into a framework
-              </p>
-              <p>
-                This approach has been used by ajv and TypeBox before for input
-                validation, making it faster than other competitors
-              </p>
-              <p>
-                Elysia basically does the same, but scales that into a full
-                backend framework
-              </p>
-              <p>
-                This gave Elysia an unfair advantage in the performance game,
-                making Elysia the fastest framework on Bun runtime, but also
-                faster than most on Node, Deno, and Cloudflare Worker as well,
-                when using the same underlying HTTP adapter
-              </p>
-              <p>
-                There is an escape hatch if necessary, but for the past 3 years,
-                there have been no critical reports about the JIT "compiler"
-              </p>
-              <p>What do you think?</p>
-            </div>
-          </section>
-        </section>
-        <section id="46932911">
-          <h3>
-            <a
-              class="item"
-              href="https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/"
-              >MIT Technology Review has confirmed that posts on Moltbook were
-              fake</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-08 @ 09:58:31</span
-              ><span class="points-container"
-                >Points: <span class="points">243</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46932911"
-                  >Comments</a
-                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
@@ -939,11 +1081,11 @@
             <h4>
               <span>2026-02-08 @ 07:19:11</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46932068"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
