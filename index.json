@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-02-10, 00:07:44",
-      "https://news.ycombinator.com/item?id=46953491"
-    ],
-    [
-      "What functional programmers get wrong about systems",
-      "https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/"
-    ]
-  ],
-  [
-    [
       "2026-02-09, 23:31:15",
       "https://news.ycombinator.com/item?id=46953136"
     ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2026-02-09, 15:11:07",
+      "https://news.ycombinator.com/item?id=46946062"
+    ],
+    [
+      "Sleeper Shells: Attackers Are Planting Dormant Backdoors in Ivanti EPMM",
+      "https://defusedcyber.com/ivanti-epmm-sleeper-shells-403jsp"
+    ]
+  ],
+  [
+    [
       "2026-02-09, 14:37:38",
       "https://news.ycombinator.com/item?id=46945663"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-02-08, 09:58:31",
+      "https://news.ycombinator.com/item?id=46932911"
+    ],
+    [
+      "MIT Technology Review has confirmed that posts on Moltbook were fake",
+      "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 08:15:36",
       "https://news.ycombinator.com/item?id=46932388"
     ],
@@ -267,16 +277,6 @@
     [
       "Stop using icons in data tables",
       "https://medium.com/@codythistleward/stop-using-icons-in-data-tables-7537af18ea0d"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 16:29:14",
-      "https://news.ycombinator.com/item?id=46901405"
-    ],
-    [
-      "Importance of Tuning Checkpoint in PostgreSQL",
-      "https://www.percona.com/blog/importance-of-tuning-checkpoint-in-postgresql/"
     ]
   ],
   [
