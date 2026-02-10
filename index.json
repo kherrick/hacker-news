@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-10, 18:09:14",
+      "https://news.ycombinator.com/item?id=46964162"
+    ],
+    [
+      "Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis",
+      "https://livedocs.com"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 17:52:46",
+      "https://news.ycombinator.com/item?id=46963887"
+    ],
+    [
+      "Show HN: Showboat and Rodney, so agents can demo what they've built",
+      "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 17:51:10",
+      "https://news.ycombinator.com/item?id=46963865"
+    ],
+    [
+      "Markdown CLI viewer with VI keybindings",
+      "https://github.com/taf2/mdvi"
+    ]
+  ],
+  [
+    [
       "2026-02-10, 17:48:05",
       "https://news.ycombinator.com/item?id=46963804"
     ],
@@ -17,6 +47,26 @@
     [
       "ClawHub",
       "https://clawhub.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 17:39:24",
+      "https://news.ycombinator.com/item?id=46963671"
+    ],
+    [
+      "London's Most Controversial Cyclist",
+      "https://www.the-londoner.co.uk/jeremy-vine-loves-him-motorists-hate-him-is-this-londons-most-controversial-cyclist/"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 17:14:48",
+      "https://news.ycombinator.com/item?id=46963177"
+    ],
+    [
+      "Show HN: Stripe-no-webhooks – Sync your Stripe data to your Postgres DB",
+      "https://github.com/pretzelai/stripe-no-webhooks"
     ]
   ],
   [
@@ -41,12 +91,12 @@
   ],
   [
     [
-      "2026-02-10, 17:00:40",
-      "https://news.ycombinator.com/item?id=46962924"
+      "2026-02-10, 17:01:34",
+      "https://news.ycombinator.com/item?id=46962942"
     ],
     [
-      "\"Hate brings views\": Confessions of a London fake news TikToker",
-      "https://www.londoncentric.media/p/london-tiktok-fake-news-creator-hate-immigrants"
+      "Show HN: HN Companion – web app that enhances the experience of reading HN",
+      "https://hncompanion.com"
     ]
   ],
   [
@@ -57,6 +107,16 @@
     [
       "Show HN: I made paperboat.website, a platform for friends and creativity",
       "https://paperboat.website/home/"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 16:55:03",
+      "https://news.ycombinator.com/item?id=46962801"
+    ],
+    [
+      "Semaglutide improves knee osteoarthritis independant of weight loss",
+      "https://www.cell.com/cell-metabolism/abstract/S1550-4131(26)00008-2"
     ]
   ],
   [
@@ -81,32 +141,12 @@
   ],
   [
     [
-      "2026-02-10, 15:08:36",
-      "https://news.ycombinator.com/item?id=46960675"
-    ],
-    [
-      "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
-      "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 15:05:24",
       "https://news.ycombinator.com/item?id=46960624"
     ],
     [
       "The US is flirting with its first-ever population decline",
       "https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 14:58:35",
-      "https://news.ycombinator.com/item?id=46960517"
-    ],
-    [
-      "Vercel's CEO offers to cover expenses of 'Jmail'",
-      "https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh"
     ]
   ],
   [
@@ -241,26 +281,6 @@
   ],
   [
     [
-      "2026-02-10, 01:17:35",
-      "https://news.ycombinator.com/item?id=46954049"
-    ],
-    [
-      "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
-      "https://github.com/antirez/voxtral.c"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 00:46:14",
-      "https://news.ycombinator.com/item?id=46953815"
-    ],
-    [
-      "Zulip.com Values",
-      "https://zulip.com/values/"
-    ]
-  ],
-  [
-    [
       "2026-02-09, 19:32:45",
       "https://news.ycombinator.com/item?id=46949870"
     ],
@@ -277,26 +297,6 @@
     [
       "Discord Alternatives, Ranked",
       "https://taggart-tech.com/discord-alternatives/"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 15:39:51",
-      "https://news.ycombinator.com/item?id=46946401"
-    ],
-    [
-      "Why is the sky blue?",
-      "https://explainers.blog/posts/why-is-the-sky-blue/"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 07:19:11",
-      "https://news.ycombinator.com/item?id=46932068"
-    ],
-    [
-      "80386 Barrel Shifter",
-      "https://nand2mario.github.io/posts/2026/80386_barrel_shifter/"
     ]
   ]
 ]
