@@ -129,6 +129,148 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46964162">
+          <h3>
+            <a class="item" href="https://livedocs.com"
+              >Launch HN: Livedocs (YC W22) – An AI-native notebook for data
+              analysis</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 18:09:14</span
+              ><span class="points-container"
+                >Points: <span class="points">27</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46964162"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://livedocs.com">https://livedocs.com</a>). We're
+              building an AI-native data workspace that lets teams ask questions
+              of their real data and have the system plan, execute, and maintain
+              the analysis end-to-end.
+              <p>
+                We previously posted about LiveDocs four years ago (<a
+                  href="https://news.ycombinator.com/item?id=30735058"
+                  >https://news.ycombinator.com/item?id=30735058</a
+                >). Back then, LiveDocs was a no-code analytics tool for
+                stitching together metrics from tools like Stripe and Google
+                Analytics. It worked for basic reporting, but over time we ran
+                into the same ceiling our users did. Dashboards are fine until
+                the questions get messy, and notebooks slowly turn into
+                hard-to-maintain piles of glue.
+              </p>
+              <p>
+                Over the last few years, we rebuilt LiveDocs almost entirely
+                around a different idea. Data work should behave like a living
+                system, not a static document or a chat transcript.
+              </p>
+              <p>
+                Today, LiveDocs is a reactive notebook environment backed by
+                real execution engines. Notebooks are not linear. Each cell
+                participates in a dependency graph, so when data or logic
+                changes, only the affected parts recompute. You can freely mix
+                SQL, Python, charts, tables, and text in the same document and
+                everything stays in sync. Locally we run on DuckDB and Polars,
+                and when you connect a warehouse like Snowflake, BigQuery, or
+                Postgres, queries are pushed down instead of copying data out.
+                Every result is inspectable and reproducible.
+              </p>
+              <p>
+                On top of this environment sits an AI agent, but it is not "chat
+                with your data." The agent works inside the notebook itself. It
+                can plan multi-step analyses, write and debug SQL or Python,
+                spawn specialized sub-agents for different tasks, run code in a
+                terminal, and browse documentation or the web when it lacks
+                context. Because it operates inside the same execution graph as
+                humans, you can see exactly what it ran, edit it, or take over
+                at any point.
+              </p>
+              <p>
+                We also support a canvas mode where the agent can build custom
+                UI for your analysis, not just charts. This includes tables with
+                controls, comparisons, and derived views that stay wired to the
+                underlying data. When a notebook is not the right interface, you
+                can publish parts of it as an interactive app. These behave more
+                like lightweight internal tools, similar in spirit to Retool,
+                but backed by the same analysis logic.
+              </p>
+              <p>
+                Everything in LiveDocs is fully real-time collaborative.
+                Multiple people can edit the same notebook, see results update
+                live, comment inline, and share documents or apps without
+                exposing raw code unless they want to.
+              </p>
+              <p>
+                Teams use LiveDocs to investigate questions that do not fit
+                cleanly into dashboards, build analyses that evolve over time
+                without constant rewrites, and automate recurring questions
+                without turning them into brittle pipelines.
+              </p>
+              <p>
+                Pricing is pay-as-you-go, starting at $15 per month, with a free
+                tier so people can try it without talking to us. You'll have to
+                sign up, as it requires us to provision a sandbox for your to
+                run your notebook. Here's a video demo:
+                <a href="https://youtu.be/Hl12su9Jn_I"
+                  >https://youtu.be/Hl12su9Jn_I</a
+                >
+              </p>
+              <p>
+                We are still learning where this breaks. Long-running agent
+                workflows on production data surface a lot of sharp edges. We
+                would love feedback from people who have built or lived with
+                analytics systems, notebooks, or "chat with your data" tools and
+                felt their limits. Happy to go deep on technical details and
+                trade notes.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="46963887">
+          <h3>
+            <a
+              class="item"
+              href="https://simonwillison.net/2026/Feb/10/showboat-and-rodney/"
+              >Show HN: Showboat and Rodney, so agents can demo what they've
+              built</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 17:52:46</span
+              ><span class="points-container"
+                >Points: <span class="points">54</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46963887"
+                  >Comments</a
+                ><span class="descendants">: 29</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46963865">
+          <h3>
+            <a class="item" href="https://github.com/taf2/mdvi"
+              >Markdown CLI viewer with VI keybindings</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 17:51:10</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46963865"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46963804">
           <h3>
             <a
@@ -142,11 +284,11 @@
             <h4>
               <span>2026-02-10 @ 17:48:05</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">297</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46963804"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 114</span></span
               >
             </h4>
           </section>
@@ -157,13 +299,190 @@
             <h4>
               <span>2026-02-10 @ 17:40:55</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46963691"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46963671">
+          <h3>
+            <a
+              class="item"
+              href="https://www.the-londoner.co.uk/jeremy-vine-loves-him-motorists-hate-him-is-this-londons-most-controversial-cyclist/"
+              >London's Most Controversial Cyclist</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 17:39:24</span
+              ><span class="points-container"
+                >Points: <span class="points">66</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46963671"
+                  >Comments</a
+                ><span class="descendants">: 63</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46963177">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/pretzelai/stripe-no-webhooks"
+              >Show HN: Stripe-no-webhooks – Sync your Stripe data to your
+              Postgres DB</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 17:14:48</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46963177"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/pretzelai/stripe-no-webhooks"
+                >https://github.com/pretzelai/stripe-no-webhooks</a
+              >.
+              <p>
+                Here's a demo video:
+                <a href="https://youtu.be/cyEgW7wElcs"
+                  >https://youtu.be/cyEgW7wElcs</a
+                >
+              </p>
+              <p>
+                Why is this useful? (1) You don't have to figure out which
+                webhooks you need or write listeners for each one. The library
+                handles all of that. This follows the approach of libraries like
+                dj-stripe in the Django world (<a href="https://dj-stripe.dev/"
+                  >https://dj-stripe.dev/</a
+                >). (2) Stripe's API has a 100 rpm rate limit. If you're
+                checking subscription status frequently or building internal
+                tools, you'll hit it. Querying your own Postgres doesn't have
+                this problem. (3) You can give an AI agent read access to the
+                stripe.* schema to debug payment issues—failed charges, refunds,
+                whatever—without handing over Stripe dashboard access. (4) You
+                can join Stripe data with your own tables for custom analytics,
+                LTV calculations, etc.
+              </p>
+              <p>
+                It creates a webhook endpoint in your Stripe account to forward
+                webhooks to your backend where a webhook listener stores all the
+                data into a new <i>stripe.*</i> schema. You define your plans in
+                TypeScript, run a sync command, and the library takes care of
+                creating Stripe products and prices, handling webhooks, and
+                keeping your database in sync. We also let you backfill your
+                Stripe data for existing accounts.
+              </p>
+              <p>
+                It supports pre-paid usage credits, account wallets and
+                usage-based billing. It also lets you generate a pricing table
+                component that you can customize. You can access the user
+                information using the simple API the library provides:
+              </p>
+              <p></p>
+              <pre><code>  billing.subscriptions.get({ userId });
+  billing.credits.consume({ userId, key: "api_calls", amount: 1 });
+  billing.usage.record({ userId, key: "ai_model_tokens_input", amount: 4726 });
+</code></pre>
+              Effectively, you don't have to deal with either the Stripe
+              dashboard or the Stripe API/SDK any more if you don't want to. The
+              library gives you a nice abstraction on top of Stripe that should
+              cover ~most subscription payment use-cases.
+              <p>
+                Let's see how it works with a quick example. Say you have a
+                billing plan like Cursor (the IDE) used to have: $20/mo, you get
+                500 API completions + 2000 tab completions, you can buy
+                additional API credits, and any additional usage is billed as
+                overage.
+              </p>
+              <p>You define your plan in TypeScript:</p>
+              <p></p>
+              <pre><code>  {
+    name: "Pro",
+    description: "Cursor Pro plan",
+    price: [{ amount: 2000, currency: "usd", interval: "month" }],
+    features: {
+      api_completion: {
+        pricePerCredit: 1,              // 1 cent per unit
+        trackUsage: true,               // Enable usage billing
+        credits: { allocation: 500 },
+        displayName: "API Completions",
+      },
+      tab_completion: {
+        credits: { allocation: 2000 },
+        displayName: "Tab Completions",
+      },
+    },
+  }
+</code></pre>
+              Then on the CLI, you run the `init` command which creates the DB
+              tables + some API handlers. Run `sync` to sync the plans to your
+              Stripe account and create a webhook endpoint. When a subscription
+              is created, the library automatically grants the 500 API
+              completion credits and 2000 tab completion credits to the user.
+              Renewals and up/downgrades are handled sanely.
+              <p>Consume code would look like this:</p>
+              <p></p>
+              <pre><code>  await billing.credits.consume({
+    userId: user.id,
+    key: "api_completion",
+    amount: 1,
+  });
+</code></pre>
+              And if they want to allow manual top-ups by the user:
+              <p></p>
+              <pre><code>  await billing.credits.topUp({
+    userId: user.id,
+    key: "api_completion",
+    amount: 500,     // buy 500 credits, charges $5.00
+  });
+</code></pre>
+              Similarly, we have APIs for wallets and usage.
+              <p>
+                This would be a lot of work to implement by yourself on top of
+                Stripe. You need to keep track of all of these entitlements in
+                your own DB and deal with renewals, expiry, ad-hoc grants, etc.
+                It's definitely doable, especially with AI coding, but you'll
+                probably end up building something fragile and hard to maintain.
+              </p>
+              <p>
+                This is just a high-level overview of what the library is
+                capable of. It also supports seat-level credits, monetary
+                wallets (with micro-cent precision), auto top-ups, robust
+                failure recovery, tax collection, invoices, and an
+                out-of-the-box pricing table.
+              </p>
+              <p>
+                I vibe-coded a little toy app for testing:
+                <a href="https://snw-test.vercel.app"
+                  >https://snw-test.vercel.app</a
+                >. There's no validation so feel free to sign up with a dummy
+                email, then subscribe to a plan with a test card: 4242 4242 4242
+                4242, any future expiry, any 3-digit CVV.
+              </p>
+              <p>
+                Screenshot:
+                <a href="https://imgur.com/a/demo-screenshot-Rh6Ucqx"
+                  >https://imgur.com/a/demo-screenshot-Rh6Ucqx</a
+                >
+              </p>
+              <p>
+                Feel free to try it out! If you end up using this library,
+                please report any bugs on the repo. If you're having trouble /
+                want to chat, I'm happy to help - my contact is in my HN
+                profile.
+              </p>
+            </div>
           </section>
         </section>
         <section id="46963026">
@@ -176,7 +495,7 @@
             <h4>
               <span>2026-02-10 @ 17:06:00</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46963026"
                   >Comments</a
@@ -317,35 +636,130 @@
             <h4>
               <span>2026-02-10 @ 17:04:31</span
               ><span class="points-container"
-                >Points: <span class="points">187</span></span
+                >Points: <span class="points">323</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46962996"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 188</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46962924">
+        <section id="46962942">
           <h3>
-            <a
-              class="item"
-              href="https://www.londoncentric.media/p/london-tiktok-fake-news-creator-hate-immigrants"
-              >"Hate brings views": Confessions of a London fake news
-              TikToker</a
+            <a class="item" href="https://hncompanion.com"
+              >Show HN: HN Companion – web app that enhances the experience of
+              reading HN</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-10 @ 17:00:40</span
+              <span>2026-02-10 @ 17:01:34</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46962924"
+                ><a href="https://news.ycombinator.com/item?id=46962942"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                Try it:
+                <a href="https://app.hncompanion.com"
+                  >https://app.hncompanion.com</a
+                >
+                or available as an extension for Firefox / Chrome: [0].
+              </p>
+              <p>
+                Most AI summarization strips the voices from conversations by
+                flattening threads into a wall of text. This kills the joy of
+                reading HN discussions. Instead, HN Companion works differently
+                - it understands the thread hierarchy, the voting patterns and
+                contrasting viewpoints - everything that makes HN interesting.
+                Think of it like clustering related discussions across multiple
+                hierarchies into a group and surfacing the comments that
+                represent each cluster. It keeps the verbatim text with
+                backlinks so that you never lose context and can continue the
+                conversation from that point. Here is how the summarization
+                works under the hood [1].
+              </p>
+              <p>
+                We first built this as an open source browser extension. But
+                soon we learned that people hesitate to install it. So we built
+                the same experience as a web app with all the features. This
+                helped people see how it works, and use it on mobile too (in the
+                browser or as PWA). This is now a playground to try new features
+                before taking them to the browser extension.
+              </p>
+              <p>
+                We did a Show HN a year ago [2] and we have added these features
+                based on user feedback:
+              </p>
+              <p>
+                * cached summaries - summaries are generated and cached on our
+                servers. This improved the speed significantly. You still have
+                the option to use your own API key or use local models through
+                Ollama.
+              </p>
+              <p>
+                * our system prompt is available in the Settings page of the
+                extension. You can customize it as you wish.
+              </p>
+              <p>
+                * sort the posts in the feed pages (/home, /show etc.) based on
+                points, comments, time or the default sorting order.
+              </p>
+              <p>
+                * We tried fine tuning an open weights model to summarize, but
+                learned that with a good system prompt and user prompt, the
+                frontier models deliver results of similar quality. So we didn’t
+                use the fine-tuned model, but you can run them locally.
+              </p>
+              <p>
+                The browser extension does not track any usage or analytics. The
+                code is open source[3].
+              </p>
+              <p>
+                We want to continue to improve HN Companion, specifically add
+                features like following an author, notes about an author, draft
+                posts etc.
+              </p>
+              <p>
+                See it in action for a post here
+                <a href="https://app.hncompanion.com/item?id=46937696"
+                  >https://app.hncompanion.com/item?id=46937696</a
+                >
+              </p>
+              <p>
+                We would love to get your feedback on what would make this more
+                useful for your HN reading.
+              </p>
+              <p>
+                [0]
+                <a href="https://hncompanion.com/#download"
+                  >https://hncompanion.com/#download</a
+                >
+              </p>
+              <p>
+                [1]
+                <a href="https://hncompanion.com/how-it-works"
+                  >https://hncompanion.com/how-it-works</a
+                >
+              </p>
+              <p>
+                [2]
+                <a href="https://news.ycombinator.com/item?id=42532374"
+                  >https://news.ycombinator.com/item?id=42532374</a
+                >
+              </p>
+              <p>
+                [3]
+                <a href="https://github.com/hncompanion/browser-extension"
+                  >https://github.com/hncompanion/browser-extension</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="46962871">
@@ -359,11 +773,33 @@
             <h4>
               <span>2026-02-10 @ 16:57:52</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46962871"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 22</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46962801">
+          <h3>
+            <a
+              class="item"
+              href="https://www.cell.com/cell-metabolism/abstract/S1550-4131(26)00008-2"
+              >Semaglutide improves knee osteoarthritis independant of weight
+              loss</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 16:55:03</span
+              ><span class="points-container"
+                >Points: <span class="points">141</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46962801"
+                  >Comments</a
+                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
@@ -379,11 +815,11 @@
             <h4>
               <span>2026-02-10 @ 16:47:29</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46962641"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
             <div class="text">
@@ -465,33 +901,11 @@
             <h4>
               <span>2026-02-10 @ 16:36:30</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46962402"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46960675">
-          <h3>
-            <a
-              class="item"
-              href="https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/"
-              >I started programming when I was 7. I'm 50 now and the thing I
-              loved has changed</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-10 @ 15:08:36</span
-              ><span class="points-container"
-                >Points: <span class="points">359</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46960675"
-                  >Comments</a
-                ><span class="descendants">: 296</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -508,32 +922,11 @@
             <h4>
               <span>2026-02-10 @ 15:05:24</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46960624"
                   >Comments</a
-                ><span class="descendants">: 601</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46960517">
-          <h3>
-            <a
-              class="item"
-              href="https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh"
-              >Vercel's CEO offers to cover expenses of 'Jmail'</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-10 @ 14:58:35</span
-              ><span class="points-container"
-                >Points: <span class="points">165</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46960517"
-                  >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 697</span></span
               >
             </h4>
           </section>
@@ -550,11 +943,11 @@
             <h4>
               <span>2026-02-10 @ 14:49:29</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46960392"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -571,11 +964,11 @@
             <h4>
               <span>2026-02-10 @ 14:27:16</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46960118"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -590,11 +983,11 @@
             <h4>
               <span>2026-02-10 @ 14:20:49</span
               ><span class="points-container"
-                >Points: <span class="points">371</span></span
+                >Points: <span class="points">405</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46960036"
                   >Comments</a
-                ><span class="descendants">: 194</span></span
+                ><span class="descendants">: 204</span></span
               >
             </h4>
           </section>
@@ -612,11 +1005,11 @@
             <h4>
               <span>2026-02-10 @ 14:02:10</span
               ><span class="points-container"
-                >Points: <span class="points">375</span></span
+                >Points: <span class="points">413</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46959832"
                   >Comments</a
-                ><span class="descendants">: 295</span></span
+                ><span class="descendants">: 308</span></span
               >
             </h4>
           </section>
@@ -633,11 +1026,11 @@
             <h4>
               <span>2026-02-10 @ 13:26:14</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46959418"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -653,7 +1046,7 @@
             <h4>
               <span>2026-02-10 @ 12:19:23</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46958742"
                   >Comments</a
@@ -762,11 +1155,11 @@
             <h4>
               <span>2026-02-10 @ 11:42:14</span
               ><span class="points-container"
-                >Points: <span class="points">337</span></span
+                >Points: <span class="points">401</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46958399"
                   >Comments</a
-                ><span class="descendants">: 318</span></span
+                ><span class="descendants">: 364</span></span
               >
             </h4>
           </section>
@@ -783,11 +1176,11 @@
             <h4>
               <span>2026-02-10 @ 11:39:26</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46958378"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -802,11 +1195,11 @@
             <h4>
               <span>2026-02-10 @ 11:21:56</span
               ><span class="points-container"
-                >Points: <span class="points">243</span></span
+                >Points: <span class="points">258</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46958231"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -822,11 +1215,11 @@
             <h4>
               <span>2026-02-10 @ 09:19:00</span
               ><span class="points-container"
-                >Points: <span class="points">271</span></span
+                >Points: <span class="points">293</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46957198"
                   >Comments</a
-                ><span class="descendants">: 141</span></span
+                ><span class="descendants">: 145</span></span
               >
             </h4>
           </section>
@@ -842,11 +1235,11 @@
             <h4>
               <span>2026-02-10 @ 05:20:32</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46955712"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
             <div class="text">
@@ -935,11 +1328,11 @@
             <h4>
               <span>2026-02-10 @ 03:17:17</span
               ><span class="points-container"
-                >Points: <span class="points">485</span></span
+                >Points: <span class="points">501</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46954920"
                   >Comments</a
-                ><span class="descendants">: 318</span></span
+                ><span class="descendants">: 324</span></span
               >
             </h4>
           </section>
@@ -957,50 +1350,11 @@
             <h4>
               <span>2026-02-10 @ 01:26:42</span
               ><span class="points-container"
-                >Points: <span class="points">370</span></span
+                >Points: <span class="points">376</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46954136"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46954049">
-          <h3>
-            <a class="item" href="https://github.com/antirez/voxtral.c"
-              >Pure C, CPU-only inference with Mistral Voxtral Realtime 4B
-              speech to text model</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-10 @ 01:17:35</span
-              ><span class="points-container"
-                >Points: <span class="points">272</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46954049"
-                  >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46953815">
-          <h3>
-            <a class="item" href="https://zulip.com/values/"
-              >Zulip.com Values</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-10 @ 00:46:14</span
-              ><span class="points-container"
-                >Points: <span class="points">240</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46953815"
-                  >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -1018,11 +1372,11 @@
             <h4>
               <span>2026-02-09 @ 19:32:45</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46949870"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -1039,53 +1393,11 @@
             <h4>
               <span>2026-02-09 @ 19:15:14</span
               ><span class="points-container"
-                >Points: <span class="points">598</span></span
+                >Points: <span class="points">607</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46949564"
                   >Comments</a
-                ><span class="descendants">: 370</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46946401">
-          <h3>
-            <a
-              class="item"
-              href="https://explainers.blog/posts/why-is-the-sky-blue/"
-              >Why is the sky blue?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-09 @ 15:39:51</span
-              ><span class="points-container"
-                >Points: <span class="points">765</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46946401"
-                  >Comments</a
-                ><span class="descendants">: 247</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46932068">
-          <h3>
-            <a
-              class="item"
-              href="https://nand2mario.github.io/posts/2026/80386_barrel_shifter/"
-              >80386 Barrel Shifter</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-08 @ 07:19:11</span
-              ><span class="points-container"
-                >Points: <span class="points">62</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46932068"
-                  >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 380</span></span
               >
             </h4>
           </section>
