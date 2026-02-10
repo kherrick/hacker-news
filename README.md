@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-10, 15:12:11](https://news.ycombinator.com/item?id=46960743) - [Disruption with Some GitHub Services](https://www.githubstatus.com/incidents/wkgqj4546z1c)
+* [2026-02-10, 16:36:30](https://news.ycombinator.com/item?id=46962402) - [Mathematicians disagree on the essential structure of the complex numbers](https://www.infinitelymore.xyz/p/complex-numbers-essential-structure)
+* [2026-02-10, 15:44:47](https://news.ycombinator.com/item?id=46961345) - [Ex-GitHub CEO Launches a New Developer Platform for AI Agents](https://entire.io/blog/hello-entire-world/)
 * [2026-02-10, 15:08:36](https://news.ycombinator.com/item?id=46960675) - [I started programming when I was 7. I'm 50 now and the thing I loved has changed](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/)
 * [2026-02-10, 15:05:24](https://news.ycombinator.com/item?id=46960624) - [The US is flirting with its first-ever population decline](https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time)
 * [2026-02-10, 14:58:35](https://news.ycombinator.com/item?id=46960517) - [Vercel's CEO offers to cover expenses of 'Jmail'](https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh)
@@ -8,7 +9,6 @@
 * [2026-02-10, 14:27:16](https://news.ycombinator.com/item?id=46960118) - [Redefining Go Functions](https://pboyd.io/posts/redefining-go-functions/)
 * [2026-02-10, 14:20:49](https://news.ycombinator.com/item?id=46960036) - [Oxide raises $200M Series C](https://oxide.computer/blog/our-200m-series-c)
 * [2026-02-10, 14:02:10](https://news.ycombinator.com/item?id=46959832) - [Jury told that Meta, Google 'engineered addiction' at landmark US trial](https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html)
-* [2026-02-10, 13:48:24](https://news.ycombinator.com/item?id=46959679) - [America's $1T AI Gamble](https://www.apricitas.io/p/americas-1t-ai-gamble)
 * [2026-02-10, 13:26:14](https://news.ycombinator.com/item?id=46959418) - [Simplifying Vulkan One Subsystem at a Time](https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time)
 * [2026-02-10, 12:19:23](https://news.ycombinator.com/item?id=46958742) - [Show HN: Distr 2.0 – A year of learning how to ship to customer environments](https://github.com/distr-sh/distr)
 * [2026-02-10, 11:42:14](https://news.ycombinator.com/item?id=46958399) - [Europe's $24T Breakup with Visa and Mastercard Has Begun](https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/)

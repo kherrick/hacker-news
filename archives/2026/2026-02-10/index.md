@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-10](index.md)
 
+* [2026-02-10, 16:36:30](https://news.ycombinator.com/item?id=46962402) - [Mathematicians disagree on the essential structure of the complex numbers](https://www.infinitelymore.xyz/p/complex-numbers-essential-structure)
+* [2026-02-10, 15:44:47](https://news.ycombinator.com/item?id=46961345) - [Ex-GitHub CEO Launches a New Developer Platform for AI Agents](https://entire.io/blog/hello-entire-world/)
 * [2026-02-10, 15:12:11](https://news.ycombinator.com/item?id=46960743) - [Disruption with Some GitHub Services](https://www.githubstatus.com/incidents/wkgqj4546z1c)
 * [2026-02-10, 15:08:36](https://news.ycombinator.com/item?id=46960675) - [I started programming when I was 7. I'm 50 now and the thing I loved has changed](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/)
 * [2026-02-10, 15:05:24](https://news.ycombinator.com/item?id=46960624) - [The US is flirting with its first-ever population decline](https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time)
