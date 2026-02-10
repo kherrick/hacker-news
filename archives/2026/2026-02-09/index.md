@@ -13,6 +13,7 @@
 * [2026-02-09, 20:30:10](https://news.ycombinator.com/item?id=46950756) - [Game Theory Patterns at Work (2016)](https://daeus.blog/2026/01/18/game-theory-patterns-at-work/)
 * [2026-02-09, 20:21:27](https://news.ycombinator.com/item?id=46950634) - [Data exfil from agents in messaging apps](https://www.promptarmor.com/resources/llm-data-exfiltration-via-url-previews-(with-openclaw-example-and-test))
 * [2026-02-09, 19:50:54](https://news.ycombinator.com/item?id=46950152) - [MIT Living Wage Calculator](https://livingwage.mit.edu/)
+* [2026-02-09, 19:32:45](https://news.ycombinator.com/item?id=46949870) - [A method and calculator for building foamcore drawer organisers](https://capnfabs.net/posts/foamcore-would-be-a-sick-name-for-a-music-genre/)
 * [2026-02-09, 19:32:23](https://news.ycombinator.com/item?id=46949864) - [An articulated archer automaton [video]](https://www.youtube.com/watch?v=Bc0bIpDVEa8)
 * [2026-02-09, 19:19:30](https://news.ycombinator.com/item?id=46949642) - [Luce: First Electric Ferrari. Designed by LoveFrom](https://www.ferrari.com/en-US/auto/ferrari-luce)
 * [2026-02-09, 19:15:14](https://news.ycombinator.com/item?id=46949564) - [Discord Alternatives, Ranked](https://taggart-tech.com/discord-alternatives/)

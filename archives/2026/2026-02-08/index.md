@@ -46,6 +46,7 @@
 * [2026-02-08, 13:48:09](https://news.ycombinator.com/item?id=46934165) - [Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 * [2026-02-08, 13:40:56](https://news.ycombinator.com/item?id=46934107) - [GitHub Agentic Workflows](https://github.github.io/gh-aw/)
 * [2026-02-08, 13:18:37](https://news.ycombinator.com/item?id=46933955) - [Like Game-of-Life, but on Growing Graphs, with WASM and WebGL](https://znah.net/graphs/)
+* [2026-02-08, 12:45:56](https://news.ycombinator.com/item?id=46933779) - [Lance table format explained simply, stupid (Animated)](https://tontinton.com/posts/lance/)
 * [2026-02-08, 12:00:02](https://news.ycombinator.com/item?id=46933515) - [Show HN: Fine-tuned Qwen2.5-7B on 100 films for probabilistic story graphs](https://cinegraphs.ai/)
 * [2026-02-08, 11:38:57](https://news.ycombinator.com/item?id=46933401) - [Dave Farber has passed away](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/)
 * [2026-02-08, 11:31:49](https://news.ycombinator.com/item?id=46933365) - [Why E cores make Apple Silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/)
