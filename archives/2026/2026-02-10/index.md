@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-10](index.md)
 
+* [2026-02-10, 22:20:40](https://news.ycombinator.com/item?id=46967772) - [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
 * [2026-02-10, 21:57:19](https://news.ycombinator.com/item?id=46967510) - [Scrap Labs – Metal 3D Printer](https://www.scraplabs3d.com/)
 * [2026-02-10, 20:42:20](https://news.ycombinator.com/item?id=46966605) - [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel)
 * [2026-02-10, 20:17:45](https://news.ycombinator.com/item?id=46966209) - [Show HN: Clawe – open-source Trello for agent teams](https://github.com/getclawe/clawe)
@@ -47,6 +48,7 @@
 * [2026-02-10, 12:19:23](https://news.ycombinator.com/item?id=46958742) - [Show HN: Distr 2.0 – A year of learning how to ship to customer environments](https://github.com/distr-sh/distr)
 * [2026-02-10, 11:42:14](https://news.ycombinator.com/item?id=46958399) - [Europe's $24T Breakup with Visa and Mastercard Has Begun](https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/)
 * [2026-02-10, 11:39:26](https://news.ycombinator.com/item?id=46958378) - [RLHF from Scratch](https://github.com/ashworks1706/rlhf-from-scratch)
+* [2026-02-10, 11:36:14](https://news.ycombinator.com/item?id=46958345) - [The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)
 * [2026-02-10, 11:21:56](https://news.ycombinator.com/item?id=46958231) - [Clean-room implementation of Half-Life 2 on the Quake 1 engine](https://code.idtech.space/fn/hl2)
 * [2026-02-10, 10:31:59](https://news.ycombinator.com/item?id=46957794) - [Corruption Perceptions Index 2025](https://www.transparency.org/en/cpi/2025)
 * [2026-02-10, 10:06:34](https://news.ycombinator.com/item?id=46957584) - [The Epstein Network Visualizer](https://epsteinvisualizer.com/)
