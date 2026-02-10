@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-02-10, 19:19:56",
+      "https://news.ycombinator.com/item?id=46965345"
+    ],
+    [
+      "China's Data Center Boom: A View from Zhangjiakou (2025)",
+      "https://sinocities.substack.com/p/chinas-data-center-boom-a-view-from"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 18:58:35",
+      "https://news.ycombinator.com/item?id=46965012"
+    ],
+    [
+      "Show HN: Multimodal perception system for real-time conversation",
+      "https://raven.tavuslabs.org"
+    ]
+  ],
+  [
+    [
       "2026-02-10, 18:09:14",
       "https://news.ycombinator.com/item?id=46964162"
     ],
     [
       "Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis",
       "https://livedocs.com"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 18:09:10",
+      "https://news.ycombinator.com/item?id=46964159"
+    ],
+    [
+      "The Switch to Linux and the Beginning of My Self-Hosting Journey",
+      "https://hazemkrimi.tech/blog/linux-self-hosting-journey/"
     ]
   ],
   [
@@ -35,8 +65,18 @@
       "https://news.ycombinator.com/item?id=46963804"
     ],
     [
-      "Google Handed ICE Student Journalist's Bank and Credit Card Numbers",
+      "Google handed ICE student journalist's bank and credit card numbers",
       "https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 17:44:13",
+      "https://news.ycombinator.com/item?id=46963736"
+    ],
+    [
+      "Show HN: Deadlog – almost drop-in mutex for debugging Go deadlocks",
+      "https://github.com/stevenctl/deadlog"
     ]
   ],
   [
@@ -51,16 +91,6 @@
   ],
   [
     [
-      "2026-02-10, 17:39:24",
-      "https://news.ycombinator.com/item?id=46963671"
-    ],
-    [
-      "London's Most Controversial Cyclist",
-      "https://www.the-londoner.co.uk/jeremy-vine-loves-him-motorists-hate-him-is-this-londons-most-controversial-cyclist/"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 17:14:48",
       "https://news.ycombinator.com/item?id=46963177"
     ],
@@ -71,32 +101,12 @@
   ],
   [
     [
-      "2026-02-10, 17:06:00",
-      "https://news.ycombinator.com/item?id=46963026"
-    ],
-    [
-      "Show HN: Open-Source SDK for AI Knowledge Work",
-      "https://github.com/ClioAI/kw-sdk"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 17:04:31",
       "https://news.ycombinator.com/item?id=46962996"
     ],
     [
       "The Singularity will occur on a Tuesday",
       "https://campedersen.com/singularity"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 17:01:34",
-      "https://news.ycombinator.com/item?id=46962942"
-    ],
-    [
-      "Show HN: HN Companion – web app that enhances the experience of reading HN",
-      "https://hncompanion.com"
     ]
   ],
   [
@@ -141,12 +151,42 @@
   ],
   [
     [
-      "2026-02-10, 15:05:24",
-      "https://news.ycombinator.com/item?id=46960624"
+      "2026-02-10, 16:04:21",
+      "https://news.ycombinator.com/item?id=46961726"
     ],
     [
-      "The US is flirting with its first-ever population decline",
-      "https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time"
+      "Competition is not market validation",
+      "https://www.ablg.io/blog/competition-is-not-validation"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 15:44:47",
+      "https://news.ycombinator.com/item?id=46961345"
+    ],
+    [
+      "Ex-GitHub CEO launches a new developer platform for AI agents",
+      "https://entire.io/blog/hello-entire-world/"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 15:08:36",
+      "https://news.ycombinator.com/item?id=46960675"
+    ],
+    [
+      "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
+      "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 14:58:35",
+      "https://news.ycombinator.com/item?id=46960517"
+    ],
+    [
+      "Vercel's CEO offers to cover expenses of 'Jmail'",
+      "https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2026-02-10, 14:02:10",
-      "https://news.ycombinator.com/item?id=46959832"
-    ],
-    [
-      "Jury told that Meta, Google 'engineered addiction' at landmark US trial",
-      "https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 13:26:14",
       "https://news.ycombinator.com/item?id=46959418"
     ],
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2026-02-10, 12:19:23",
-      "https://news.ycombinator.com/item?id=46958742"
-    ],
-    [
-      "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
-      "https://github.com/distr-sh/distr"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 11:42:14",
       "https://news.ycombinator.com/item?id=46958399"
     ],
     [
       "Europe's $24T Breakup with Visa and Mastercard Has Begun",
       "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 11:39:26",
-      "https://news.ycombinator.com/item?id=46958378"
-    ],
-    [
-      "RLHF from Scratch",
-      "https://github.com/ashworks1706/rlhf-from-scratch"
     ]
   ],
   [
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2026-02-10, 03:24:38",
+      "https://news.ycombinator.com/item?id=46954974"
+    ],
+    [
+      "The Evolution of Bengt Betjänt",
+      "https://andonlabs.com/blog/evolution-of-bengt"
+    ]
+  ],
+  [
+    [
       "2026-02-10, 03:17:17",
       "https://news.ycombinator.com/item?id=46954920"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-02-10, 01:26:42",
-      "https://news.ycombinator.com/item?id=46954136"
+      "2026-02-09, 21:23:27",
+      "https://news.ycombinator.com/item?id=46951573"
     ],
     [
-      "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
-      "https://github.com/TrevorS/voxtral-mini-realtime-rs"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 19:32:45",
-      "https://news.ycombinator.com/item?id=46949870"
-    ],
-    [
-      "A method and calculator for building foamcore drawer organisers",
-      "https://capnfabs.net/posts/foamcore-would-be-a-sick-name-for-a-music-genre/"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 19:15:14",
-      "https://news.ycombinator.com/item?id=46949564"
-    ],
-    [
-      "Discord Alternatives, Ranked",
-      "https://taggart-tech.com/discord-alternatives/"
+      "A brief history of oral peptides",
+      "https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides"
     ]
   ]
 ]
