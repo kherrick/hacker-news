@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-02-10, 19:25:55",
+      "https://news.ycombinator.com/item?id=46965440"
+    ],
+    [
+      "How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?",
+      "https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052"
+    ]
+  ],
+  [
+    [
       "2026-02-10, 19:19:56",
       "https://news.ycombinator.com/item?id=46965345"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=46964159"
     ],
     [
-      "The Switch to Linux and the Beginning of My Self-Hosting Journey",
+      "The switch to Linux and the beginning of my self-hosting journey",
       "https://hazemkrimi.tech/blog/linux-self-hosting-journey/"
     ]
   ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-02-10, 14:58:35",
-      "https://news.ycombinator.com/item?id=46960517"
-    ],
-    [
-      "Vercel's CEO offers to cover expenses of 'Jmail'",
-      "https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 14:49:29",
       "https://news.ycombinator.com/item?id=46960392"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-02-10, 03:17:17",
-      "https://news.ycombinator.com/item?id=46954920"
-    ],
-    [
-      "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
-      "https://arxiv.org/abs/2512.20798"
-    ]
-  ],
-  [
-    [
       "2026-02-09, 21:23:27",
       "https://news.ycombinator.com/item?id=46951573"
     ],
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2026-02-08, 14:01:11",
+      "https://news.ycombinator.com/item?id=46934248"
+    ],
+    [
+      "The Little Learner: A Straight Line to Deep Learning",
+      "https://mitpress.mit.edu/9780262546379/the-little-learner/"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 11:47:02",
       "https://news.ycombinator.com/item?id=46933444"
     ],
     [
-      "My Eighth Year as a Bootstrapped Founder",
+      "My eighth year as a bootstrapped founder",
       "https://mtlynch.io/bootstrapped-founder-year-8/"
     ]
   ]
