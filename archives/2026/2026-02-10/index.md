@@ -8,4 +8,5 @@
 * [2026-02-10, 03:17:17](https://news.ycombinator.com/item?id=46954920) - [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
 * [2026-02-10, 03:13:48](https://news.ycombinator.com/item?id=46954899) - [Why \"just prompt better\" doesn't work](https://www.bicameral-ai.com/blog/tech-debt-meeting)
 * [2026-02-10, 01:26:42](https://news.ycombinator.com/item?id=46954136) - [Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)
+* [2026-02-10, 01:17:35](https://news.ycombinator.com/item?id=46954049) - [Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c)
 * [2026-02-10, 00:07:44](https://news.ycombinator.com/item?id=46953491) - [What functional programmers get wrong about systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
