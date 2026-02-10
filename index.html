@@ -129,21 +129,171 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="46957794">
+        <section id="46958890">
           <h3>
-            <a class="item" href="https://www.transparency.org/en/cpi/2025"
-              >Corruption Perceptions Index 2025</a
+            <a
+              class="item"
+              href="https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative"
+              >Rice Theory: Why Eastern Cultures Are More Cooperative</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-10 @ 10:31:59</span
+              <span>2026-02-10 @ 12:34:18</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46957794"
+                ><a href="https://news.ycombinator.com/item?id=46958890"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 49</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46958753">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theregister.com/2026/02/10/edinburgh_green_ai_datacenter/"
+              >Edinburgh councillors pull the plug on 'green' AI datacenter</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 12:20:16</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46958753"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46958742">
+          <h3>
+            <a class="item" href="https://github.com/distr-sh/distr"
+              >Show HN: Distr 2.0 – A year of learning how to ship to customer
+              environments</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 12:19:23</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46958742"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                It turned out things get messy when your software is running in
+                places you can't simply SSH into.
+              </p>
+              <p>
+                Over the last year, we’ve also helped modernize a lot of
+                home-baked solutions: bash scripts that email when updates fail,
+                Excel sheets nobody trusts to track customer versions, engineers
+                driving to customer sites to fix things in person, debug
+                sessions over email (“can you take a screenshot of the logs and
+                send it to me?”), customers with access to internal AWS or GCP
+                registries because there was no better option, and deployments
+                two major versions behind that nobody wants to touch.
+              </p>
+              <p>
+                We waited a year before making our first breaking change, which
+                led to a major SemVer update—but it was eventually necessary. We
+                needed to completely rewrite how we manage customer
+                organizations. In Distr, we differentiate between vendors and
+                customers. A vendor is typically the author of a software / AI
+                application that wants to distribute it to customers.
+                Previously, we had taken a shortcut where every customer was
+                just a single user who owned a deployment. We’ve now introduced
+                customer organizations. Vendors onboard customer organizations
+                onto the platform, and customers own their internal user
+                management, including RBAC. This change obviously broke our API,
+                and although the migration for our cloud customers was smooth,
+                custom solutions built on top of our APIs needed updates.
+              </p>
+              <p>
+                Other notable features we’ve implemented since our first launch:
+              </p>
+              <p>
+                - An OCI container registry built on an adapted version of
+                <a href="https://github.com/google/go-containerregistry/"
+                  >https://github.com/google/go-containerregistry/</a
+                >, directly embedded into our codebase and served via a separate
+                port from a single Docker image. This allows vendors to
+                distribute Docker images and other OCI artifacts if customers
+                want to self-manage deployments.
+              </p>
+              <p>
+                - License Management to restrict which customers can access
+                which applications or artifact versions. Although “license
+                management” is a broadly used term, the main purpose here is to
+                codify contractual agreements between vendors and customers. In
+                its simplest form, this is time-based access to specific
+                software versions, which vendors can now manage with Distr.
+              </p>
+              <p>
+                - Container logs and metrics you can actually see without SSH
+                access. Internally, we debated whether to use a time-series
+                database or store all logs in Postgres. Although we had to
+                tinker quite a bit with Postgres indexes, it now runs stably.
+              </p>
+              <p>
+                - Secret Management, so database passwords don’t show up in
+                configuration steps or logs.
+              </p>
+              <p>
+                Distr is now used by 200+ vendors, including Fortune 500
+                companies, across on-prem, GovCloud, AWS, and GCP, spanning
+                health tech, fintech, security, and AI companies. We’ve also
+                started working on our first air-gapped environment.
+              </p>
+              <p>
+                For Distr 3.0, we’re working on native Terraform / OpenTofu and
+                Zarf support to provision and update infrastructure in
+                customers’ cloud accounts and physical environments—empowering
+                vendors to offer BYOC and air-gapped use cases, all from a
+                single platform.
+              </p>
+              <p>
+                Distr is fully open source and self-hostable:
+                <a href="https://github.com/distr-sh/distr"
+                  >https://github.com/distr-sh/distr</a
+                >
+              </p>
+              <p>
+                Docs: <a href="https://distr.sh/docs">https://distr.sh/docs</a>
+              </p>
+              <p>
+                We’re YC S24. Happy to answer questions about on-prem
+                deployments and would love to hear about your experience with
+                complex customer deployments.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="46958231">
+          <h3>
+            <a class="item" href="https://code.idtech.space/fn/hl2"
+              >Clean-room implementation of Half-Life 2 on the Quake 1 engine</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-10 @ 11:21:56</span
+              ><span class="points-container"
+                >Points: <span class="points">124</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46958231"
+                  >Comments</a
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -159,40 +309,13 @@
             <h4>
               <span>2026-02-10 @ 09:19:00</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46957198"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 99</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46955703">
-          <h3>
-            <a
-              class="item"
-              href="https://simonwillison.net/2026/Feb/9/ai-intensifies-work/"
-              >AI doesn’t reduce work, it intensifies it</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-10 @ 05:19:00</span
-              ><span class="points-container"
-                >Points: <span class="points">212</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46955703"
-                  >Comments</a
-                ><span class="descendants">: 214</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it"
-                >https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies...</a
-              >
-            </div>
           </section>
         </section>
         <section id="46954920">
@@ -206,11 +329,11 @@
             <h4>
               <span>2026-02-10 @ 03:17:17</span
               ><span class="points-container"
-                >Points: <span class="points">396</span></span
+                >Points: <span class="points">423</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46954920"
                   >Comments</a
-                ><span class="descendants">: 258</span></span
+                ><span class="descendants">: 276</span></span
               >
             </h4>
           </section>
@@ -228,11 +351,11 @@
             <h4>
               <span>2026-02-10 @ 01:26:42</span
               ><span class="points-container"
-                >Points: <span class="points">313</span></span
+                >Points: <span class="points">331</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46954136"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -248,11 +371,11 @@
             <h4>
               <span>2026-02-10 @ 01:17:35</span
               ><span class="points-container"
-                >Points: <span class="points">226</span></span
+                >Points: <span class="points">239</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46954049"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -267,11 +390,11 @@
             <h4>
               <span>2026-02-10 @ 00:46:14</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46953815"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -288,11 +411,11 @@
             <h4>
               <span>2026-02-09 @ 23:31:15</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46953136"
                   >Comments</a
-                ><span class="descendants">: 247</span></span
+                ><span class="descendants">: 270</span></span
               >
             </h4>
           </section>
@@ -307,11 +430,11 @@
             <h4>
               <span>2026-02-09 @ 22:01:34</span
               ><span class="points-container"
-                >Points: <span class="points">238</span></span
+                >Points: <span class="points">249</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46952118"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -326,11 +449,11 @@
             <h4>
               <span>2026-02-09 @ 20:49:21</span
               ><span class="points-container"
-                >Points: <span class="points">191</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46951057"
                   >Comments</a
-                ><span class="descendants">: 178</span></span
+                ><span class="descendants">: 179</span></span
               >
             </h4>
           </section>
@@ -348,11 +471,11 @@
             <h4>
               <span>2026-02-09 @ 20:31:44</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46950780"
                   >Comments</a
-                ><span class="descendants">: 158</span></span
+                ><span class="descendants">: 165</span></span
               >
             </h4>
           </section>
@@ -369,11 +492,30 @@
             <h4>
               <span>2026-02-09 @ 20:30:10</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46950756"
                   >Comments</a
                 ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46949864">
+          <h3>
+            <a class="item" href="https://www.youtube.com/watch?v=Bc0bIpDVEa8"
+              >An articulated archer automaton [video]</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-09 @ 19:32:23</span
+              ><span class="points-container"
+                >Points: <span class="points">46</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46949864"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -390,11 +532,11 @@
             <h4>
               <span>2026-02-09 @ 19:19:30</span
               ><span class="points-container"
-                >Points: <span class="points">239</span></span
+                >Points: <span class="points">253</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46949642"
                   >Comments</a
-                ><span class="descendants">: 239</span></span
+                ><span class="descendants">: 254</span></span
               >
             </h4>
           </section>
@@ -411,53 +553,11 @@
             <h4>
               <span>2026-02-09 @ 19:15:14</span
               ><span class="points-container"
-                >Points: <span class="points">415</span></span
+                >Points: <span class="points">458</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46949564"
                   >Comments</a
-                ><span class="descendants">: 245</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46949452">
-          <h3>
-            <a
-              class="item"
-              href="https://www.githubstatus.com/incidents/lcw3tg2f6zsd"
-              >Another GitHub outage in the same day</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-09 @ 19:07:25</span
-              ><span class="points-container"
-                >Points: <span class="points">356</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46949452"
-                  >Comments</a
-                ><span class="descendants">: 270</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46948273">
-          <h3>
-            <a
-              class="item"
-              href="https://jsgroth.dev/blog/posts/gba-audio-interpolation/"
-              >Game Boy Advance Audio Interpolation</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-09 @ 17:44:10</span
-              ><span class="points-container"
-                >Points: <span class="points">100</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46948273"
-                  >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 283</span></span
               >
             </h4>
           </section>
@@ -474,11 +574,11 @@
             <h4>
               <span>2026-02-09 @ 17:09:37</span
               ><span class="points-container"
-                >Points: <span class="points">330</span></span
+                >Points: <span class="points">337</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46947777"
                   >Comments</a
-                ><span class="descendants">: 461</span></span
+                ><span class="descendants">: 486</span></span
               >
             </h4>
           </section>
@@ -496,11 +596,11 @@
             <h4>
               <span>2026-02-09 @ 16:26:31</span
               ><span class="points-container"
-                >Points: <span class="points">556</span></span
+                >Points: <span class="points">567</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46947096"
                   >Comments</a
-                ><span class="descendants">: 171</span></span
+                ><span class="descendants">: 177</span></span
               >
             </h4>
           </section>
@@ -517,11 +617,11 @@
             <h4>
               <span>2026-02-09 @ 15:39:51</span
               ><span class="points-container"
-                >Points: <span class="points">676</span></span
+                >Points: <span class="points">698</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46946401"
                   >Comments</a
-                ><span class="descendants">: 231</span></span
+                ><span class="descendants">: 235</span></span
               >
             </h4>
           </section>
@@ -534,11 +634,11 @@
             <h4>
               <span>2026-02-09 @ 15:31:09</span
               ><span class="points-container"
-                >Points: <span class="points">341</span></span
+                >Points: <span class="points">355</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46946308"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -556,11 +656,11 @@
             <h4>
               <span>2026-02-09 @ 14:37:38</span
               ><span class="points-container"
-                >Points: <span class="points">1832</span></span
+                >Points: <span class="points">1867</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46945663"
                   >Comments</a
-                ><span class="descendants">: 1760</span></span
+                ><span class="descendants">: 1792</span></span
               >
             </h4>
             <div class="text">
@@ -587,7 +687,7 @@
             <h4>
               <span>2026-02-09 @ 14:07:36</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">245</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46945348"
                   >Comments</a
@@ -608,7 +708,7 @@
             <h4>
               <span>2026-02-09 @ 13:54:48</span
               ><span class="points-container"
-                >Points: <span class="points">239</span></span
+                >Points: <span class="points">243</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46945235"
                   >Comments</a
@@ -627,11 +727,11 @@
             <h4>
               <span>2026-02-08 @ 19:35:55</span
               ><span class="points-container"
-                >Points: <span class="points">293</span></span
+                >Points: <span class="points">299</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46937696"
                   >Comments</a
-                ><span class="descendants">: 986</span></span
+                ><span class="descendants">: 994</span></span
               >
             </h4>
             <div class="text">
@@ -651,13 +751,57 @@
             <h4>
               <span>2026-02-08 @ 11:00:32</span
               ><span class="points-container"
-                >Points: <span class="points">175</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46933223"
                   >Comments</a
-                ><span class="descendants">: 173</span></span
+                ><span class="descendants">: 190</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46933022">
+          <h3>
+            <a class="item" href="https://elysiajs.com/internal/jit-compiler"
+              >Show HN: Elysia JIT "Compiler", why it's one of the fastest
+              JavaScript framework</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-08 @ 10:22:30</span
+              ><span class="points-container"
+                >Points: <span class="points">29</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46933022"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Basically, there's a JIT "compiler" embedded into a framework
+              </p>
+              <p>
+                This approach has been used by ajv and TypeBox before for input
+                validation, making it faster than other competitors
+              </p>
+              <p>
+                Elysia basically does the same, but scales that into a full
+                backend framework
+              </p>
+              <p>
+                This gave Elysia an unfair advantage in the performance game,
+                making Elysia the fastest framework on Bun runtime, but also
+                faster than most on Node, Deno, and Cloudflare Worker as well,
+                when using the same underlying HTTP adapter
+              </p>
+              <p>
+                There is an escape hatch if necessary, but for the past 3 years,
+                there have been no critical reports about the JIT "compiler"
+              </p>
+              <p>What do you think?</p>
+            </div>
           </section>
         </section>
         <section id="46932911">
@@ -673,11 +817,11 @@
             <h4>
               <span>2026-02-08 @ 09:58:31</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46932911"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -694,30 +838,11 @@
             <h4>
               <span>2026-02-08 @ 08:15:36</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46932388"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46909122">
-          <h3>
-            <a class="item" href="https://theodore.net/projects/Polargraph/"
-              >Generative Pen-Trained Transformer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-06 @ 04:28:08</span
-              ><span class="points-container"
-                >Points: <span class="points">56</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46909122"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -732,11 +857,11 @@
             <h4>
               <span>2026-02-05 @ 23:56:54</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46907183"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
@@ -771,25 +896,6 @@
               <p>Does this actually reduce repetition over multiple days?</p>
               <p>Any workflow/privacy footguns I’m missing?</p>
             </div>
-          </section>
-        </section>
-        <section id="46896942">
-          <h3>
-            <a class="item" href="https://beats.wiki/"
-              >.Beat Swatch Internet Time</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-05 @ 07:55:43</span
-              ><span class="points-container"
-                >Points: <span class="points">60</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46896942"
-                  >Comments</a
-                ><span class="descendants">: 55</span></span
-              >
-            </h4>
           </section>
         </section>
       </section>
