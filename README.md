@@ -2,10 +2,11 @@
 
 * [2026-02-10, 20:17:45](https://news.ycombinator.com/item?id=46966209) - [Show HN: Clawe – open-source Trello for agent teams](https://github.com/getclawe/clawe)
 * [2026-02-10, 19:49:02](https://news.ycombinator.com/item?id=46965776) - [Toyotas and Terrorists: \"Why are ISIS's trucks better than ours?\"](https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/3600155/toyotas-and-terrorists-why-are-isiss-trucks-better-than-ours-said-the-american/)
+* [2026-02-10, 19:25:55](https://news.ycombinator.com/item?id=46965440) - [How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?](https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052)
 * [2026-02-10, 19:19:56](https://news.ycombinator.com/item?id=46965345) - [China's Data Center Boom: A View from Zhangjiakou (2025)](https://sinocities.substack.com/p/chinas-data-center-boom-a-view-from)
 * [2026-02-10, 18:58:35](https://news.ycombinator.com/item?id=46965012) - [Show HN: Multimodal perception system for real-time conversation](https://raven.tavuslabs.org)
 * [2026-02-10, 18:09:14](https://news.ycombinator.com/item?id=46964162) - [Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis](https://livedocs.com)
-* [2026-02-10, 18:09:10](https://news.ycombinator.com/item?id=46964159) - [The Switch to Linux and the Beginning of My Self-Hosting Journey](https://hazemkrimi.tech/blog/linux-self-hosting-journey/)
+* [2026-02-10, 18:09:10](https://news.ycombinator.com/item?id=46964159) - [The switch to Linux and the beginning of my self-hosting journey](https://hazemkrimi.tech/blog/linux-self-hosting-journey/)
 * [2026-02-10, 17:52:46](https://news.ycombinator.com/item?id=46963887) - [Show HN: Showboat and Rodney, so agents can demo what they've built](https://simonwillison.net/2026/Feb/10/showboat-and-rodney/)
 * [2026-02-10, 17:51:10](https://news.ycombinator.com/item?id=46963865) - [Markdown CLI viewer with VI keybindings](https://github.com/taf2/mdvi)
 * [2026-02-10, 17:48:05](https://news.ycombinator.com/item?id=46963804) - [Google handed ICE student journalist's bank and credit card numbers](https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/)
@@ -17,7 +18,6 @@
 * [2026-02-10, 16:04:21](https://news.ycombinator.com/item?id=46961726) - [Competition is not market validation](https://www.ablg.io/blog/competition-is-not-validation)
 * [2026-02-10, 15:44:47](https://news.ycombinator.com/item?id=46961345) - [Ex-GitHub CEO launches a new developer platform for AI agents](https://entire.io/blog/hello-entire-world/)
 * [2026-02-10, 15:08:36](https://news.ycombinator.com/item?id=46960675) - [I started programming when I was 7. I'm 50 now and the thing I loved has changed](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/)
-* [2026-02-10, 14:58:35](https://news.ycombinator.com/item?id=46960517) - [Vercel's CEO offers to cover expenses of 'Jmail'](https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh)
 * [2026-02-10, 14:49:29](https://news.ycombinator.com/item?id=46960392) - [Parse, Don't Validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2026-02-10, 14:27:16](https://news.ycombinator.com/item?id=46960118) - [Redefining Go Functions](https://pboyd.io/posts/redefining-go-functions/)
 * [2026-02-10, 14:20:49](https://news.ycombinator.com/item?id=46960036) - [Oxide raises $200M Series C](https://oxide.computer/blog/our-200m-series-c)
@@ -27,9 +27,9 @@
 * [2026-02-10, 09:19:00](https://news.ycombinator.com/item?id=46957198) - [Qwen-Image-2.0: Professional infographics, exquisite photorealism](https://qwen.ai/blog?id=qwen-image-2.0)
 * [2026-02-10, 05:20:32](https://news.ycombinator.com/item?id=46955712) - [Show HN: I built a macOS tool for network engineers – it's called NetViews](https://www.netviews.app)
 * [2026-02-10, 03:24:38](https://news.ycombinator.com/item?id=46954974) - [The Evolution of Bengt Betjänt](https://andonlabs.com/blog/evolution-of-bengt)
-* [2026-02-10, 03:17:17](https://news.ycombinator.com/item?id=46954920) - [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
 * [2026-02-09, 21:23:27](https://news.ycombinator.com/item?id=46951573) - [A brief history of oral peptides](https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides)
-* [2026-02-08, 11:47:02](https://news.ycombinator.com/item?id=46933444) - [My Eighth Year as a Bootstrapped Founder](https://mtlynch.io/bootstrapped-founder-year-8/)
+* [2026-02-08, 14:01:11](https://news.ycombinator.com/item?id=46934248) - [The Little Learner: A Straight Line to Deep Learning](https://mitpress.mit.edu/9780262546379/the-little-learner/)
+* [2026-02-08, 11:47:02](https://news.ycombinator.com/item?id=46933444) - [My eighth year as a bootstrapped founder](https://mtlynch.io/bootstrapped-founder-year-8/)
 
 ## [Archives](archives/index.md)
 
