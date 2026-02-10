@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-10, 20:17:45](https://news.ycombinator.com/item?id=46966209) - [Show HN: Clawe – open-source Trello for agent teams](https://github.com/getclawe/clawe)
+* [2026-02-10, 19:49:02](https://news.ycombinator.com/item?id=46965776) - [Toyotas and Terrorists: \"Why are ISIS's trucks better than ours?\"](https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/3600155/toyotas-and-terrorists-why-are-isiss-trucks-better-than-ours-said-the-american/)
 * [2026-02-10, 19:19:56](https://news.ycombinator.com/item?id=46965345) - [China's Data Center Boom: A View from Zhangjiakou (2025)](https://sinocities.substack.com/p/chinas-data-center-boom-a-view-from)
 * [2026-02-10, 18:58:35](https://news.ycombinator.com/item?id=46965012) - [Show HN: Multimodal perception system for real-time conversation](https://raven.tavuslabs.org)
 * [2026-02-10, 18:09:14](https://news.ycombinator.com/item?id=46964162) - [Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis](https://livedocs.com)
@@ -7,12 +9,9 @@
 * [2026-02-10, 17:52:46](https://news.ycombinator.com/item?id=46963887) - [Show HN: Showboat and Rodney, so agents can demo what they've built](https://simonwillison.net/2026/Feb/10/showboat-and-rodney/)
 * [2026-02-10, 17:51:10](https://news.ycombinator.com/item?id=46963865) - [Markdown CLI viewer with VI keybindings](https://github.com/taf2/mdvi)
 * [2026-02-10, 17:48:05](https://news.ycombinator.com/item?id=46963804) - [Google handed ICE student journalist's bank and credit card numbers](https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/)
-* [2026-02-10, 17:44:13](https://news.ycombinator.com/item?id=46963736) - [Show HN: Deadlog – almost drop-in mutex for debugging Go deadlocks](https://github.com/stevenctl/deadlog)
-* [2026-02-10, 17:40:55](https://news.ycombinator.com/item?id=46963691) - [ClawHub](https://clawhub.ai/)
 * [2026-02-10, 17:14:48](https://news.ycombinator.com/item?id=46963177) - [Show HN: Stripe-no-webhooks – Sync your Stripe data to your Postgres DB](https://github.com/pretzelai/stripe-no-webhooks)
 * [2026-02-10, 17:04:31](https://news.ycombinator.com/item?id=46962996) - [The Singularity will occur on a Tuesday](https://campedersen.com/singularity)
 * [2026-02-10, 16:57:52](https://news.ycombinator.com/item?id=46962871) - [Show HN: I made paperboat.website, a platform for friends and creativity](https://paperboat.website/home/)
-* [2026-02-10, 16:55:03](https://news.ycombinator.com/item?id=46962801) - [Semaglutide improves knee osteoarthritis independant of weight loss](https://www.cell.com/cell-metabolism/abstract/S1550-4131(26)00008-2)
 * [2026-02-10, 16:47:29](https://news.ycombinator.com/item?id=46962641) - [Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)](https://github.com/rowboatlabs/rowboat)
 * [2026-02-10, 16:36:30](https://news.ycombinator.com/item?id=46962402) - [Mathematicians disagree on the essential structure of the complex numbers](https://www.infinitelymore.xyz/p/complex-numbers-essential-structure)
 * [2026-02-10, 16:04:21](https://news.ycombinator.com/item?id=46961726) - [Competition is not market validation](https://www.ablg.io/blog/competition-is-not-validation)
@@ -30,6 +29,7 @@
 * [2026-02-10, 03:24:38](https://news.ycombinator.com/item?id=46954974) - [The Evolution of Bengt Betjänt](https://andonlabs.com/blog/evolution-of-bengt)
 * [2026-02-10, 03:17:17](https://news.ycombinator.com/item?id=46954920) - [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
 * [2026-02-09, 21:23:27](https://news.ycombinator.com/item?id=46951573) - [A brief history of oral peptides](https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides)
+* [2026-02-08, 11:47:02](https://news.ycombinator.com/item?id=46933444) - [My Eighth Year as a Bootstrapped Founder](https://mtlynch.io/bootstrapped-founder-year-8/)
 
 ## [Archives](archives/index.md)
 
