@@ -11,11 +11,21 @@
   ],
   [
     [
+      "2026-02-10, 20:16:12",
+      "https://news.ycombinator.com/item?id=46966182"
+    ],
+    [
+      "Tambo 1.0: Open-source toolkit for agents that render React components",
+      "https://github.com/tambo-ai/tambo"
+    ]
+  ],
+  [
+    [
       "2026-02-10, 19:49:02",
       "https://news.ycombinator.com/item?id=46965776"
     ],
     [
-      "Toyotas and Terrorists: \"Why are ISIS's trucks better than ours?\"",
+      "Toyotas and Terrorists: \"Why are ISIS's trucks better than ours?\" (2023)",
       "https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/3600155/toyotas-and-terrorists-why-are-isiss-trucks-better-than-ours-said-the-american/"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?",
       "https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 19:19:56",
-      "https://news.ycombinator.com/item?id=46965345"
-    ],
-    [
-      "China's Data Center Boom: A View from Zhangjiakou (2025)",
-      "https://sinocities.substack.com/p/chinas-data-center-boom-a-view-from"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "The switch to Linux and the beginning of my self-hosting journey",
       "https://hazemkrimi.tech/blog/linux-self-hosting-journey/"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 17:52:46",
-      "https://news.ycombinator.com/item?id=46963887"
-    ],
-    [
-      "Show HN: Showboat and Rodney, so agents can demo what they've built",
-      "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/"
     ]
   ],
   [
@@ -121,16 +111,6 @@
   ],
   [
     [
-      "2026-02-10, 16:57:52",
-      "https://news.ycombinator.com/item?id=46962871"
-    ],
-    [
-      "Show HN: I made paperboat.website, a platform for friends and creativity",
-      "https://paperboat.website/home/"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 16:47:29",
       "https://news.ycombinator.com/item?id=46962641"
     ],
@@ -145,7 +125,7 @@
       "https://news.ycombinator.com/item?id=46962402"
     ],
     [
-      "Mathematicians disagree on the essential structure of the complex numbers",
+      "Mathematicians disagree on the essential structure of the complex numbers (2024)",
       "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure"
     ]
   ],
@@ -187,16 +167,6 @@
     [
       "Parse, Don't Validate (2019)",
       "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 14:27:16",
-      "https://news.ycombinator.com/item?id=46960118"
-    ],
-    [
-      "Redefining Go Functions",
-      "https://pboyd.io/posts/redefining-go-functions/"
     ]
   ],
   [
@@ -281,6 +251,16 @@
   ],
   [
     [
+      "2026-02-09, 16:33:38",
+      "https://news.ycombinator.com/item?id=46947229"
+    ],
+    [
+      "Show HN: JavaScript-first, open-source WYSIWYG DOCX editor",
+      "https://github.com/eigenpal/docx-js-editor"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 14:01:11",
       "https://news.ycombinator.com/item?id=46934248"
     ],
@@ -297,6 +277,26 @@
     [
       "My eighth year as a bootstrapped founder",
       "https://mtlynch.io/bootstrapped-founder-year-8/"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 09:43:25",
+      "https://news.ycombinator.com/item?id=46932837"
+    ],
+    [
+      "Show HN: Goxe 19k Logs/S on an I5",
+      "https://github.com/DumbNoxx/goxe"
+    ]
+  ],
+  [
+    [
+      "2026-02-07, 22:36:41",
+      "https://news.ycombinator.com/item?id=46928920"
+    ],
+    [
+      "Waymo exec reveals company uses remote workers in the Philippines",
+      "https://people.com/waymo-exec-reveals-company-uses-operators-in-the-philippines-to-assist-autonomous-vehicles-11900507"
     ]
   ]
 ]
