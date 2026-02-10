@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-02-10, 03:35:24",
-      "https://news.ycombinator.com/item?id=46955032"
-    ],
-    [
-      "America isn't exceptional – it's the exception",
-      "https://www.not-ship.com/america-isnt-exceptional-its-the-exception/"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 03:17:17",
       "https://news.ycombinator.com/item?id=46954920"
     ],
@@ -41,12 +31,32 @@
   ],
   [
     [
+      "2026-02-10, 01:17:35",
+      "https://news.ycombinator.com/item?id=46954049"
+    ],
+    [
+      "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
+      "https://github.com/antirez/voxtral.c"
+    ]
+  ],
+  [
+    [
       "2026-02-10, 00:07:44",
       "https://news.ycombinator.com/item?id=46953491"
     ],
     [
       "What functional programmers get wrong about systems",
       "https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 23:31:15",
+      "https://news.ycombinator.com/item?id=46953136"
+    ],
+    [
+      "Is particle physics dead, dying, or just hard?",
+      "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/"
     ]
   ],
   [
@@ -71,6 +81,26 @@
   ],
   [
     [
+      "2026-02-09, 20:49:21",
+      "https://news.ycombinator.com/item?id=46951057"
+    ],
+    [
+      "America has a tungsten problem",
+      "https://www.noleary.com/blog/posts/1"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 20:31:44",
+      "https://news.ycombinator.com/item?id=46950780"
+    ],
+    [
+      "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
+      "https://blog.prosody.im/2026-letsencrypt-changes/"
+    ]
+  ],
+  [
+    [
       "2026-02-09, 20:30:10",
       "https://news.ycombinator.com/item?id=46950756"
     ],
@@ -81,12 +111,32 @@
   ],
   [
     [
-      "2026-02-09, 20:21:27",
-      "https://news.ycombinator.com/item?id=46950634"
+      "2026-02-09, 19:19:30",
+      "https://news.ycombinator.com/item?id=46949642"
     ],
     [
-      "Data exfil from agents in messaging apps",
-      "https://www.promptarmor.com/resources/llm-data-exfiltration-via-url-previews-(with-openclaw-example-and-test)"
+      "Luce: First Electric Ferrari",
+      "https://www.ferrari.com/en-US/auto/ferrari-luce"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 19:15:14",
+      "https://news.ycombinator.com/item?id=46949564"
+    ],
+    [
+      "Discord Alternatives, Ranked",
+      "https://taggart-tech.com/discord-alternatives/"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 19:07:25",
+      "https://news.ycombinator.com/item?id=46949452"
+    ],
+    [
+      "Another GitHub outage in the same day",
+      "https://www.githubstatus.com/incidents/lcw3tg2f6zsd"
     ]
   ],
   [
@@ -121,6 +171,16 @@
   ],
   [
     [
+      "2026-02-09, 16:32:37",
+      "https://news.ycombinator.com/item?id=46947210"
+    ],
+    [
+      "Why is Singapore no longer \"cool\"?",
+      "https://marginalrevolution.com/marginalrevolution/2026/02/why-is-singapore-no-longer-cool.html"
+    ]
+  ],
+  [
+    [
       "2026-02-09, 16:26:31",
       "https://news.ycombinator.com/item?id=46947096"
     ],
@@ -147,16 +207,6 @@
     [
       "Sandboxels",
       "https://neal.fun/sandboxels/"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 15:11:07",
-      "https://news.ycombinator.com/item?id=46946062"
-    ],
-    [
-      "Sleeper Shells: Attackers Are Planting Dormant Backdoors in Ivanti EPMM",
-      "https://defusedcyber.com/ivanti-epmm-sleeper-shells-403jsp"
     ]
   ],
   [
@@ -191,22 +241,12 @@
   ],
   [
     [
-      "2026-02-08, 19:35:55",
-      "https://news.ycombinator.com/item?id=46937696"
+      "2026-02-08, 11:00:32",
+      "https://news.ycombinator.com/item?id=46933223"
     ],
     [
-      "Ask HN: What are you working on? (February 2026)",
-      "https://news.ycombinator.com/item?id=46937696"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 13:18:37",
-      "https://news.ycombinator.com/item?id=46933955"
-    ],
-    [
-      "Like Game-of-Life, but on Growing Graphs, with WASM and WebGL",
-      "https://znah.net/graphs/"
+      "Eight more months of agents",
+      "https://crawshaw.io/blog/eight-more-months-of-agents"
     ]
   ],
   [
@@ -231,72 +271,32 @@
   ],
   [
     [
+      "2026-02-05, 16:29:14",
+      "https://news.ycombinator.com/item?id=46901405"
+    ],
+    [
+      "Importance of Tuning Checkpoint in PostgreSQL",
+      "https://www.percona.com/blog/importance-of-tuning-checkpoint-in-postgresql/"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 14:31:14",
+      "https://news.ycombinator.com/item?id=46900022"
+    ],
+    [
+      "History of UHF Television: TV Above Channel 13 (2024)",
+      "https://uhfhistory.com/"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 12:18:59",
       "https://news.ycombinator.com/item?id=46898840"
     ],
     [
       "Expansion Microscopy Has Transformed How We See the Cellular World",
       "https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 02:58:50",
-      "https://news.ycombinator.com/item?id=46895089"
-    ],
-    [
-      "Mimes directing traffic in Bogotá had surprisingly loud impacts (2025)",
-      "https://www.atlasobscura.com/articles/traffic-mimes-of-colombia"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 21:41:50",
-      "https://news.ycombinator.com/item?id=46892205"
-    ],
-    [
-      "Richard F. Burton: On the English adventurer and writer",
-      "https://thelampmagazine.com/issues/issue-32/richard-f-burton"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 19:06:18",
-      "https://news.ycombinator.com/item?id=46890174"
-    ],
-    [
-      "F# 10",
-      "https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 17:50:31",
-      "https://news.ycombinator.com/item?id=46889027"
-    ],
-    [
-      "I made an open-source juypter alternative",
-      "https://github.com/DannyMang/more-compute"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 22:38:21",
-      "https://news.ycombinator.com/item?id=46878373"
-    ],
-    [
-      "How I've run major projects (2025)",
-      "https://www.benkuhn.net/pjm/"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 21:05:42",
-      "https://news.ycombinator.com/item?id=46877291"
-    ],
-    [
-      "Information Is Beautiful",
-      "https://informationisbeautiful.net/"
     ]
   ]
 ]
