@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-05](index.md)
 
+* [2026-02-05, 23:56:54](https://news.ycombinator.com/item?id=46907183) - [Show HN: Total Recall – write-gated memory for Claude Code](https://github.com/davegoldblatt/total-recall)
 * [2026-02-05, 23:31:01](https://news.ycombinator.com/item?id=46906967) - [Show HN: Local task classifier and dispatcher on RTX 3080](https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel)
 * [2026-02-05, 23:29:18](https://news.ycombinator.com/item?id=46906947) - [The RCE that AMD won't fix](https://mrbruh.com/amd/)
 * [2026-02-05, 23:10:12](https://news.ycombinator.com/item?id=46906737) - [Show HN: Calfkit – an SDK to build distributed, event-driven AI agents on Kafka](https://github.com/calf-ai/calfkit-sdk)
