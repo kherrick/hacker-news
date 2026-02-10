@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-09](index.md)
 
 * [2026-02-09, 23:31:15](https://news.ycombinator.com/item?id=46953136) - [Is Particle Physics Dead, Dying, or Just Hard?](https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/)
+* [2026-02-09, 23:17:42](https://news.ycombinator.com/item?id=46952987) - [The shadowy world of abandoned oil tankers](https://www.bbc.com/news/articles/cddg885344do)
 * [2026-02-09, 22:01:34](https://news.ycombinator.com/item?id=46952118) - [LiftKit – UI where \"everything derives from the golden ratio\"](https://www.chainlift.io/liftkit)
 * [2026-02-09, 20:49:21](https://news.ycombinator.com/item?id=46951057) - [America Has a Tungsten Problem](https://www.noleary.com/blog/posts/1)
 * [2026-02-09, 20:41:05](https://news.ycombinator.com/item?id=46950915) - [Super Bowl Ad for Ring Cameras Touted AI Surveillance Network](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
