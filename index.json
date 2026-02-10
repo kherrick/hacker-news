@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-02-10, 10:31:59",
-      "https://news.ycombinator.com/item?id=46957794"
+      "2026-02-10, 12:34:18",
+      "https://news.ycombinator.com/item?id=46958890"
     ],
     [
-      "Corruption Perceptions Index 2025",
-      "https://www.transparency.org/en/cpi/2025"
+      "Rice Theory: Why Eastern Cultures Are More Cooperative",
+      "https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 12:20:16",
+      "https://news.ycombinator.com/item?id=46958753"
+    ],
+    [
+      "Edinburgh councillors pull the plug on 'green' AI datacenter",
+      "https://www.theregister.com/2026/02/10/edinburgh_green_ai_datacenter/"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 12:19:23",
+      "https://news.ycombinator.com/item?id=46958742"
+    ],
+    [
+      "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
+      "https://github.com/distr-sh/distr"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 11:21:56",
+      "https://news.ycombinator.com/item?id=46958231"
+    ],
+    [
+      "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
+      "https://code.idtech.space/fn/hl2"
     ]
   ],
   [
@@ -17,16 +47,6 @@
     [
       "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
       "https://qwen.ai/blog?id=qwen-image-2.0"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 05:19:00",
-      "https://news.ycombinator.com/item?id=46955703"
-    ],
-    [
-      "AI doesn’t reduce work, it intensifies it",
-      "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/"
     ]
   ],
   [
@@ -121,6 +141,16 @@
   ],
   [
     [
+      "2026-02-09, 19:32:23",
+      "https://news.ycombinator.com/item?id=46949864"
+    ],
+    [
+      "An articulated archer automaton [video]",
+      "https://www.youtube.com/watch?v=Bc0bIpDVEa8"
+    ]
+  ],
+  [
+    [
       "2026-02-09, 19:19:30",
       "https://news.ycombinator.com/item?id=46949642"
     ],
@@ -137,26 +167,6 @@
     [
       "Discord Alternatives, Ranked",
       "https://taggart-tech.com/discord-alternatives/"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 19:07:25",
-      "https://news.ycombinator.com/item?id=46949452"
-    ],
-    [
-      "Another GitHub outage in the same day",
-      "https://www.githubstatus.com/incidents/lcw3tg2f6zsd"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 17:44:10",
-      "https://news.ycombinator.com/item?id=46948273"
-    ],
-    [
-      "Game Boy Advance Audio Interpolation",
-      "https://jsgroth.dev/blog/posts/gba-audio-interpolation/"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2026-02-08, 10:22:30",
+      "https://news.ycombinator.com/item?id=46933022"
+    ],
+    [
+      "Show HN: Elysia JIT \"Compiler\", why it's one of the fastest JavaScript framework",
+      "https://elysiajs.com/internal/jit-compiler"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 09:58:31",
       "https://news.ycombinator.com/item?id=46932911"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-02-06, 04:28:08",
-      "https://news.ycombinator.com/item?id=46909122"
-    ],
-    [
-      "Generative Pen-Trained Transformer",
-      "https://theodore.net/projects/Polargraph/"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 23:56:54",
       "https://news.ycombinator.com/item?id=46907183"
     ],
     [
       "Show HN: Total Recall – write-gated memory for Claude Code",
       "https://github.com/davegoldblatt/total-recall"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 07:55:43",
-      "https://news.ycombinator.com/item?id=46896942"
-    ],
-    [
-      ".Beat Swatch Internet Time",
-      "https://beats.wiki/"
     ]
   ]
 ]
