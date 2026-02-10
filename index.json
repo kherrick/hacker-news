@@ -1,22 +1,32 @@
 [
   [
     [
-      "2026-02-10, 12:34:18",
-      "https://news.ycombinator.com/item?id=46958890"
+      "2026-02-10, 14:20:49",
+      "https://news.ycombinator.com/item?id=46960036"
     ],
     [
-      "Rice Theory: Why Eastern Cultures Are More Cooperative",
-      "https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative"
+      "Oxide raises $200M Series C",
+      "https://oxide.computer/blog/our-200m-series-c"
     ]
   ],
   [
     [
-      "2026-02-10, 12:20:16",
-      "https://news.ycombinator.com/item?id=46958753"
+      "2026-02-10, 14:02:10",
+      "https://news.ycombinator.com/item?id=46959832"
     ],
     [
-      "Edinburgh councillors pull the plug on 'green' AI datacenter",
-      "https://www.theregister.com/2026/02/10/edinburgh_green_ai_datacenter/"
+      "Jury told that Meta, Google 'engineered addiction' at landmark US trial",
+      "https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 13:26:14",
+      "https://news.ycombinator.com/item?id=46959418"
+    ],
+    [
+      "Simplifying Vulkan One Subsystem at a Time",
+      "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
       "https://github.com/distr-sh/distr"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 11:39:26",
+      "https://news.ycombinator.com/item?id=46958378"
+    ],
+    [
+      "RLHF from Scratch",
+      "https://github.com/ashworks1706/rlhf-from-scratch"
     ]
   ],
   [
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2026-02-09, 20:49:21",
-      "https://news.ycombinator.com/item?id=46951057"
-    ],
-    [
-      "America has a tungsten problem",
-      "https://www.noleary.com/blog/posts/1"
-    ]
-  ],
-  [
-    [
       "2026-02-09, 20:31:44",
       "https://news.ycombinator.com/item?id=46950780"
     ],
     [
       "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
       "https://blog.prosody.im/2026-letsencrypt-changes/"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 20:30:10",
-      "https://news.ycombinator.com/item?id=46950756"
-    ],
-    [
-      "Game Theory Patterns at Work (2016)",
-      "https://daeus.blog/2026/01/18/game-theory-patterns-at-work/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-02-08, 08:15:36",
-      "https://news.ycombinator.com/item?id=46932388"
+      "2026-02-08, 07:19:11",
+      "https://news.ycombinator.com/item?id=46932068"
     ],
     [
-      "The Abstraction Rises",
-      "https://cyber-omelette.com/posts/the-abstraction-rises.html"
+      "80386 Barrel Shifter",
+      "https://nand2mario.github.io/posts/2026/80386_barrel_shifter/"
     ]
   ],
   [
