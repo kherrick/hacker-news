@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-10](index.md)
 
+* [2026-02-10, 12:34:18](https://news.ycombinator.com/item?id=46958890) - [Rice Theory: Why Eastern Cultures Are More Cooperative](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative)
+* [2026-02-10, 12:20:16](https://news.ycombinator.com/item?id=46958753) - [Edinburgh councillors pull the plug on 'green' AI datacenter](https://www.theregister.com/2026/02/10/edinburgh_green_ai_datacenter/)
+* [2026-02-10, 12:19:23](https://news.ycombinator.com/item?id=46958742) - [Show HN: Distr 2.0 – A year of learning how to ship to customer environments](https://github.com/distr-sh/distr)
+* [2026-02-10, 11:21:56](https://news.ycombinator.com/item?id=46958231) - [Clean-room implementation of Half-Life 2 on the Quake 1 engine](https://code.idtech.space/fn/hl2)
 * [2026-02-10, 10:31:59](https://news.ycombinator.com/item?id=46957794) - [Corruption Perceptions Index 2025](https://www.transparency.org/en/cpi/2025)
 * [2026-02-10, 10:06:34](https://news.ycombinator.com/item?id=46957584) - [The Epstein Network Visualizer](https://epsteinvisualizer.com/)
 * [2026-02-10, 09:56:36](https://news.ycombinator.com/item?id=46957495) - [ICE is pushing readers to nonprofit news sites that cover immigrant communities](https://www.niemanlab.org/2026/02/ice-activity-is-pushing-readers-to-nonprofit-news-sites-that-cover-immigrant-communities/)

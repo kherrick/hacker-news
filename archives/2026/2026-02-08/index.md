@@ -51,6 +51,7 @@
 * [2026-02-08, 11:31:49](https://news.ycombinator.com/item?id=46933365) - [Why E cores make Apple Silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/)
 * [2026-02-08, 11:00:32](https://news.ycombinator.com/item?id=46933223) - [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents)
 * [2026-02-08, 10:31:35](https://news.ycombinator.com/item?id=46933067) - [(AI) Slop Terrifies Me](https://ezhik.jp/ai-slop-terrifies-me/)
+* [2026-02-08, 10:22:30](https://news.ycombinator.com/item?id=46933022) - [Show HN: Elysia JIT \"Compiler\", why it's one of the fastest JavaScript framework](https://elysiajs.com/internal/jit-compiler)
 * [2026-02-08, 10:13:00](https://news.ycombinator.com/item?id=46932985) - [Curating a Show on My Ineffable Mother, Ursula K. Le Guin](https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/)
 * [2026-02-08, 09:58:31](https://news.ycombinator.com/item?id=46932911) - [MIT Technology Review has confirmed that posts on Moltbook were fake](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/)
 * [2026-02-08, 09:44:55](https://news.ycombinator.com/item?id=46932845) - [In the Australian outback, we're listening for nuclear tests](https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478)
