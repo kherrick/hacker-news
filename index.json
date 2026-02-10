@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-02-10, 15:12:11",
+      "https://news.ycombinator.com/item?id=46960743"
+    ],
+    [
+      "Disruption with Some GitHub Services",
+      "https://www.githubstatus.com/incidents/wkgqj4546z1c"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 15:08:36",
+      "https://news.ycombinator.com/item?id=46960675"
+    ],
+    [
+      "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
+      "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 15:05:24",
+      "https://news.ycombinator.com/item?id=46960624"
+    ],
+    [
+      "The US is flirting with its first-ever population decline",
+      "https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 14:58:35",
+      "https://news.ycombinator.com/item?id=46960517"
+    ],
+    [
+      "Vercel's CEO offers to cover expenses of 'Jmail'",
+      "https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 14:49:29",
+      "https://news.ycombinator.com/item?id=46960392"
+    ],
+    [
+      "Parse, Don't Validate (2019)",
+      "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 14:27:16",
+      "https://news.ycombinator.com/item?id=46960118"
+    ],
+    [
+      "Redefining Go Functions",
+      "https://pboyd.io/posts/redefining-go-functions/"
+    ]
+  ],
+  [
+    [
       "2026-02-10, 14:20:49",
       "https://news.ycombinator.com/item?id=46960036"
     ],
@@ -21,6 +81,16 @@
   ],
   [
     [
+      "2026-02-10, 13:48:24",
+      "https://news.ycombinator.com/item?id=46959679"
+    ],
+    [
+      "America's $1T AI Gamble",
+      "https://www.apricitas.io/p/americas-1t-ai-gamble"
+    ]
+  ],
+  [
+    [
       "2026-02-10, 13:26:14",
       "https://news.ycombinator.com/item?id=46959418"
     ],
@@ -37,6 +107,16 @@
     [
       "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
       "https://github.com/distr-sh/distr"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 11:42:14",
+      "https://news.ycombinator.com/item?id=46958399"
+    ],
+    [
+      "Europe's $24T Breakup with Visa and Mastercard Has Begun",
+      "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/"
     ]
   ],
   [
@@ -67,6 +147,16 @@
     [
       "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
       "https://qwen.ai/blog?id=qwen-image-2.0"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 05:20:32",
+      "https://news.ycombinator.com/item?id=46955712"
+    ],
+    [
+      "Show HN: I built a macOS tool for network engineers – it's called NetViews",
+      "https://www.netviews.app"
     ]
   ],
   [
@@ -111,52 +201,12 @@
   ],
   [
     [
-      "2026-02-09, 23:31:15",
-      "https://news.ycombinator.com/item?id=46953136"
+      "2026-02-09, 19:32:45",
+      "https://news.ycombinator.com/item?id=46949870"
     ],
     [
-      "Is particle physics dead, dying, or just hard?",
-      "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 22:01:34",
-      "https://news.ycombinator.com/item?id=46952118"
-    ],
-    [
-      "LiftKit – UI where \"everything derives from the golden ratio\"",
-      "https://www.chainlift.io/liftkit"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 20:31:44",
-      "https://news.ycombinator.com/item?id=46950780"
-    ],
-    [
-      "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
-      "https://blog.prosody.im/2026-letsencrypt-changes/"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 19:32:23",
-      "https://news.ycombinator.com/item?id=46949864"
-    ],
-    [
-      "An articulated archer automaton [video]",
-      "https://www.youtube.com/watch?v=Bc0bIpDVEa8"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 19:19:30",
-      "https://news.ycombinator.com/item?id=46949642"
-    ],
-    [
-      "Luce: First Electric Ferrari",
-      "https://www.ferrari.com/en-US/auto/ferrari-luce"
+      "A method and calculator for building foamcore drawer organisers",
+      "https://capnfabs.net/posts/foamcore-would-be-a-sick-name-for-a-music-genre/"
     ]
   ],
   [
@@ -201,16 +251,6 @@
   ],
   [
     [
-      "2026-02-09, 15:31:09",
-      "https://news.ycombinator.com/item?id=46946308"
-    ],
-    [
-      "Sandboxels",
-      "https://neal.fun/sandboxels/"
-    ]
-  ],
-  [
-    [
       "2026-02-09, 14:37:38",
       "https://news.ycombinator.com/item?id=46945663"
     ],
@@ -221,42 +261,12 @@
   ],
   [
     [
-      "2026-02-09, 14:07:36",
-      "https://news.ycombinator.com/item?id=46945348"
+      "2026-02-08, 12:45:56",
+      "https://news.ycombinator.com/item?id=46933779"
     ],
     [
-      "UEFI Bindings for JavaScript",
-      "https://codeberg.org/smnx/promethee"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 13:54:48",
-      "https://news.ycombinator.com/item?id=46945235"
-    ],
-    [
-      "Thoughts on Generating C",
-      "https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 19:35:55",
-      "https://news.ycombinator.com/item?id=46937696"
-    ],
-    [
-      "Ask HN: What are you working on? (February 2026)",
-      "https://news.ycombinator.com/item?id=46937696"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 11:00:32",
-      "https://news.ycombinator.com/item?id=46933223"
-    ],
-    [
-      "Eight more months of agents",
-      "https://crawshaw.io/blog/eight-more-months-of-agents"
+      "Lance table format explained simply, stupid (Animated)",
+      "https://tontinton.com/posts/lance/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "80386 Barrel Shifter",
       "https://nand2mario.github.io/posts/2026/80386_barrel_shifter/"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 23:56:54",
-      "https://news.ycombinator.com/item?id=46907183"
-    ],
-    [
-      "Show HN: Total Recall – write-gated memory for Claude Code",
-      "https://github.com/davegoldblatt/total-recall"
     ]
   ]
 ]
