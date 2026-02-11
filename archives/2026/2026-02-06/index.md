@@ -16,6 +16,7 @@
 * [2026-02-06, 20:43:57](https://news.ycombinator.com/item?id=46917886) - [Tell HN: I'm a PM at a big system of record SaaS. We're cooked](https://news.ycombinator.com/item?id=46917886)
 * [2026-02-06, 20:04:55](https://news.ycombinator.com/item?id=46917477) - [Masked namespace vulnerability in Temporal](https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986)
 * [2026-02-06, 19:27:37](https://news.ycombinator.com/item?id=46917033) - [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
+* [2026-02-06, 19:25:52](https://news.ycombinator.com/item?id=46917005) - [Single bone in Spain offers first direct evidence of Hannibal's war elephants](https://phys.org/news/2026-02-hannibal-famous-war-elephants-bone.html)
 * [2026-02-06, 19:20:53](https://news.ycombinator.com/item?id=46916961) - [Man who videotaped himself BASE jumping in Yosemite arrested. He says it was AI](https://www.latimes.com/california/story/2026-02-05/man-videotaped-himself-base-jumping-in-yosemite-federal-officials-say-he-says-it-was-ai)
 * [2026-02-06, 18:51:58](https://news.ycombinator.com/item?id=46916609) - [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/)
 * [2026-02-06, 18:49:59](https://news.ycombinator.com/item?id=46916586) - [How to effectively write quality code with AI](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)

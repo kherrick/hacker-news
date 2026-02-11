@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-11](index.md)
 
+* [2026-02-11, 18:48:50](https://news.ycombinator.com/item?id=46979058) - [How Did the FBI Get Nancy Guthrie's Nest Doorbell Footage?](https://lifehacker.com/tech/how-did-the-fbi-get-nancy-guthries-doorbell-footage)
+* [2026-02-11, 18:43:01](https://news.ycombinator.com/item?id=46978966) - [Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash)
 * [2026-02-11, 18:23:39](https://news.ycombinator.com/item?id=46978710) - [Claude Code Is Being Dumbed Down](https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/)
+* [2026-02-11, 18:06:11](https://news.ycombinator.com/item?id=46978490) - [NetNewsWire Turns 23](https://netnewswire.blog/2026/02/11/netnewswire-turns.html)
 * [2026-02-11, 17:34:27](https://news.ycombinator.com/item?id=46978015) - [Should your developer company go open source?](https://extremefoundership.substack.com/p/should-your-developer-company-go)
 * [2026-02-11, 17:01:15](https://news.ycombinator.com/item?id=46977493) - [Scientists research man missing 90% of his brain who leads a normal life (2016)](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.3679117/scientists-research-man-missing-90-of-his-brain-who-leads-a-normal-life-1.3679125)
 * [2026-02-11, 16:41:33](https://news.ycombinator.com/item?id=46977210) - [GLM-5: From Vibe Coding to Agentic Engineering](https://z.ai/blog/glm-5)
