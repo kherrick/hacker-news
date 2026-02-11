@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-11](index.md)
 
+* [2026-02-11, 23:34:29](https://news.ycombinator.com/item?id=46982762) - [Rare, dangerous side effects of some Covid-19 vaccines explained](https://www.science.org/content/article/rare-dangerous-side-effects-some-covid-19-vaccines-explained)
 * [2026-02-11, 22:56:41](https://news.ycombinator.com/item?id=46982421) - [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
 * [2026-02-11, 21:23:39](https://news.ycombinator.com/item?id=46981231) - [Apple's Siri revamp reportedly delayed again](https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/)
 * [2026-02-11, 21:09:51](https://news.ycombinator.com/item?id=46981015) - [Q&A: New UK onshore wind and solar is '50% cheaper' than new gas](https://www.carbonbrief.org/qa-new-uk-onshore-wind-and-solar-is-50-cheaper-than-new-gas/)
@@ -36,6 +37,7 @@
 * [2026-02-11, 14:36:18](https://news.ycombinator.com/item?id=46975449) - [Show HN: Renovate – The Kubernetes-Native Way](https://github.com/mogenius/renovate-operator)
 * [2026-02-11, 13:57:06](https://news.ycombinator.com/item?id=46974999) - [Who Smeared Feynman](https://blog.nuclearsecrecy.com/2014/07/11/smeared-richard-feynman/)
 * [2026-02-11, 13:42:16](https://news.ycombinator.com/item?id=46974853) - [GLM5 Released on Z.ai Platform](https://chat.z.ai/)
+* [2026-02-11, 13:42:16](https://news.ycombinator.com/item?id=46974853) - [GLM-5: Targeting complex systems engineering and long-horizon agentic tasks](https://z.ai/blog/glm-5)
 * [2026-02-11, 12:28:50](https://news.ycombinator.com/item?id=46974118) - [Show HN: Musical Interval Trainer](https://valtterimaja.github.io/musical-interval-trainer/)
 * [2026-02-11, 11:27:38](https://news.ycombinator.com/item?id=46973647) - [FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
 * [2026-02-11, 11:16:23](https://news.ycombinator.com/item?id=46973573) - [Exposure Simulator](http://www.andersenimages.com/tutorials/exposure-simulator/)
