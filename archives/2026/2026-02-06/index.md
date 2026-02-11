@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-06](index.md)
 
 * [2026-02-06, 23:58:53](https://news.ycombinator.com/item?id=46919824) - [Introducing the Developer Knowledge API and MCP Server](https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/)
+* [2026-02-06, 22:11:06](https://news.ycombinator.com/item?id=46918835) - [Both GCC and Clang generate strange/inefficient code](https://codingmarginalia.blogspot.com/2026/02/both-gcc-and-clang-generate.html)
 * [2026-02-06, 22:10:13](https://news.ycombinator.com/item?id=46918824) - [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3)
 * [2026-02-06, 22:02:13](https://news.ycombinator.com/item?id=46918741) - [Visualize MySQL query execution plans as interactive FlameGraphs](https://github.com/vgrippa/myflames)
 * [2026-02-06, 22:00:46](https://news.ycombinator.com/item?id=46918727) - [Early Christian Writings](https://earlychristianwritings.com/)

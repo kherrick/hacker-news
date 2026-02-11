@@ -34,6 +34,7 @@
 * [2026-02-09, 16:15:16](https://news.ycombinator.com/item?id=46946872) - [GitHub Is Down](https://github.com/)
 * [2026-02-09, 16:12:19](https://news.ycombinator.com/item?id=46946827) - [It's not you; GitHub is down again](https://www.githubstatus.com/incidents/54hndjxft5bx)
 * [2026-02-09, 15:56:16](https://news.ycombinator.com/item?id=46946617) - [AirPods Pro 4 Could Feature Cameras to 'See Around You'](https://www.macrumors.com/2026/02/09/airpods-pro-4-could-feature-cameras-to-see-around-you/)
+* [2026-02-09, 15:54:33](https://news.ycombinator.com/item?id=46946593) - [Show HN: AI agents play SimCity through a REST API](https://hallucinatingsplines.com)
 * [2026-02-09, 15:45:24](https://news.ycombinator.com/item?id=46946464) - [Ask HN: Do provisional patents matter for early-stage startups?](https://news.ycombinator.com/item?id=46946464)
 * [2026-02-09, 15:39:51](https://news.ycombinator.com/item?id=46946401) - [Why Is the Sky Blue?](https://explainers.blog/posts/why-is-the-sky-blue/)
 * [2026-02-09, 15:31:09](https://news.ycombinator.com/item?id=46946308) - [Sandboxels](https://neal.fun/sandboxels/)

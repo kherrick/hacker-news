@@ -6,6 +6,7 @@
 
 * [2026-02-11, 11:27:38](https://news.ycombinator.com/item?id=46973647) - [FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
 * [2026-02-11, 11:16:23](https://news.ycombinator.com/item?id=46973573) - [Exposure Simulator](http://www.andersenimages.com/tutorials/exposure-simulator/)
+* [2026-02-11, 10:38:55](https://news.ycombinator.com/item?id=46973355) - [Do not apologize for replying late to my email](https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html)
 * [2026-02-11, 10:00:56](https://news.ycombinator.com/item?id=46973083) - [Chrome extensions spying on 37M users' browsing data](https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495)
 * [2026-02-11, 09:04:00](https://news.ycombinator.com/item?id=46972610) - [FAA Halts All Flights at El Paso Airport for 10 Days](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 * [2026-02-11, 08:43:58](https://news.ycombinator.com/item?id=46972471) - [A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST](https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst)
