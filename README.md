@@ -6,7 +6,6 @@
 * [2026-02-10, 22:20:40](https://news.ycombinator.com/item?id=46967772) - [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
 * [2026-02-10, 20:42:20](https://news.ycombinator.com/item?id=46966605) - [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel)
 * [2026-02-10, 20:16:12](https://news.ycombinator.com/item?id=46966182) - [Tambo 1.0: Open-source toolkit for agents that render React components](https://github.com/tambo-ai/tambo)
-* [2026-02-10, 20:02:05](https://news.ycombinator.com/item?id=46965968) - [Show HN: Sol LeWitt-style instruction-based drawings in the browser](https://intervolz.com/sollewitt/)
 * [2026-02-10, 19:25:55](https://news.ycombinator.com/item?id=46965440) - [How did Windows 95 get permission to put Weezer video 'Buddy Holly' on the CD?](https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052)
 * [2026-02-10, 17:51:10](https://news.ycombinator.com/item?id=46963865) - [Markdown CLI viewer with VI keybindings](https://github.com/taf2/mdvi)
 * [2026-02-10, 17:04:31](https://news.ycombinator.com/item?id=46962996) - [The Singularity will occur on a Tuesday](https://campedersen.com/singularity)
@@ -30,6 +29,7 @@
 * [2026-02-08, 09:39:06](https://news.ycombinator.com/item?id=46932813) - [Show HN: Model Training Memory Simulator](https://czheo.github.io/2026/02/08/model-training-memory-simulator/)
 * [2026-02-08, 08:52:50](https://news.ycombinator.com/item?id=46932581) - [Willow – Protocols for an uncertain future [video]](https://fosdem.org/2026/schedule/event/CVGZAV-willow/)
 * [2026-02-08, 07:15:54](https://news.ycombinator.com/item?id=46932044) - [Show HN: ArtisanForge: Learn Laravel through a gamified RPG adventure](https://artisanforge.online/)
+* [2026-02-06, 14:49:25](https://news.ycombinator.com/item?id=46913489) - [Lessons you will learn living in a snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/)
 
 ## [Archives](archives/index.md)
 
