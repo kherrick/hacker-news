@@ -35,6 +35,7 @@
 * [2026-02-06, 14:33:22](https://news.ycombinator.com/item?id=46913302) - [Amazon plunge continues $1T wipeout as AI bubble fears ignite sell-off](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
 * [2026-02-06, 14:32:05](https://news.ycombinator.com/item?id=46913285) - [How virtual textures work](https://www.shlom.dev/articles/how-virtual-textures-really-work/)
 * [2026-02-06, 14:24:57](https://news.ycombinator.com/item?id=46913201) - [Wall Street just lost $285B because of 13 Markdown files](https://martinalderson.com/posts/wall-street-lost-285-billion-because-of-13-markdown-files/)
+* [2026-02-06, 14:14:58](https://news.ycombinator.com/item?id=46913062) - [Switzerland's Extraordinary Medieval Library](https://www.bbc.com/travel/article/20260202-inside-switzerlands-extraordinary-medieval-library)
 * [2026-02-06, 13:54:09](https://news.ycombinator.com/item?id=46912843) - [FORTH? Really!?](https://rescrv.net/w/2026/02/06/associative)
 * [2026-02-06, 13:49:55](https://news.ycombinator.com/item?id=46912800) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-06, 13:48:01](https://news.ycombinator.com/item?id=46912781) - [LLMs could be, but shouldn't be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/)
