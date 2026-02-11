@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-02-11](index.md)
 
+* [2026-02-11, 17:01:15](https://news.ycombinator.com/item?id=46977493) - [Scientists research man missing 90% of his brain who leads a normal life (2016)](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.3679117/scientists-research-man-missing-90-of-his-brain-who-leads-a-normal-life-1.3679125)
+* [2026-02-11, 16:41:33](https://news.ycombinator.com/item?id=46977210) - [GLM-5: From Vibe Coding to Agentic Engineering](https://z.ai/blog/glm-5)
+* [2026-02-11, 16:39:11](https://news.ycombinator.com/item?id=46977175) - [Ireland rolls out pioneering basic income scheme for artists](https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/)
+* [2026-02-11, 16:21:10](https://news.ycombinator.com/item?id=46976911) - [Toyota Fluorite: \"console-grade\" Flutter game engine](https://fluorite.game/)
 * [2026-02-11, 16:17:00](https://news.ycombinator.com/item?id=46976845) - [NanoClaw solves one of OpenClaw's biggest security issues](https://venturebeat.com/orchestration/nanoclaw-solves-one-of-openclaws-biggest-security-issues-and-its-already)
+* [2026-02-11, 16:11:19](https://news.ycombinator.com/item?id=46976751) - [U.S. had almost no job growth in 2025](https://www.nbcnews.com/business/economy/january-jobs-revisions-trump-rcna258398)
 * [2026-02-11, 15:51:11](https://news.ycombinator.com/item?id=46976466) - [Railway (PaaS) Global Outage](https://status.railway.com)
 * [2026-02-11, 15:50:04](https://news.ycombinator.com/item?id=46976443) - [Why Vampires Live Forever](https://machielreyneke.com/blog/vampires-longevity/)
 * [2026-02-11, 15:41:18](https://news.ycombinator.com/item?id=46976317) - [AI-First Company Memos](https://the-ai-native.company/)
