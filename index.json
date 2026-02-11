@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-02-11, 07:42:57",
+      "https://news.ycombinator.com/item?id=46972056"
+    ],
+    [
+      "Communities Are Not Fungible",
+      "https://www.joanwestenberg.com/communities-are-not-fungible/"
+    ]
+  ],
+  [
+    [
       "2026-02-11, 07:00:46",
       "https://news.ycombinator.com/item?id=46971794"
     ],
     [
       "CoLoop (YC S21) Is Hiring Ex Technical Founders in London",
       "https://www.workatastartup.com/jobs/90016"
+    ]
+  ],
+  [
+    [
+      "2026-02-11, 06:15:33",
+      "https://news.ycombinator.com/item?id=46971516"
+    ],
+    [
+      "Windows Notepad App Remote Code Execution Vulnerability",
+      "https://www.cve.org/CVERecord?id=CVE-2026-20841"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2026-02-10, 17:51:10",
-      "https://news.ycombinator.com/item?id=46963865"
-    ],
-    [
-      "Markdown CLI viewer with VI keybindings",
-      "https://github.com/taf2/mdvi"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 17:04:31",
       "https://news.ycombinator.com/item?id=46962996"
     ],
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2026-02-10, 14:20:49",
-      "https://news.ycombinator.com/item?id=46960036"
-    ],
-    [
-      "Oxide raises $200M Series C",
-      "https://oxide.computer/blog/our-200m-series-c"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 13:26:14",
       "https://news.ycombinator.com/item?id=46959418"
     ],
     [
       "Simplifying Vulkan one subsystem at a time",
       "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 12:19:23",
-      "https://news.ycombinator.com/item?id=46958742"
-    ],
-    [
-      "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
-      "https://github.com/distr-sh/distr"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Lessons you will learn living in a snowy place",
       "https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/"
+    ]
+  ],
+  [
+    [
+      "2026-02-06, 11:25:55",
+      "https://news.ycombinator.com/item?id=46911581"
+    ],
+    [
+      "Signy: Signed URLs for Small Devices",
+      "https://github.com/golioth/signy"
     ]
   ]
 ]
