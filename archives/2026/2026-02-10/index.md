@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-10](index.md)
 
+* [2026-02-10, 23:12:36](https://news.ycombinator.com/item?id=46968374) - [We rendered and embedded one million CAD files](https://cad-search-three.vercel.app/)
 * [2026-02-10, 22:31:12](https://news.ycombinator.com/item?id=46967898) - [Show HN: Itsyhome – Control HomeKit from your Mac menu bar (open source)](https://itsyhome.app)
 * [2026-02-10, 22:20:40](https://news.ycombinator.com/item?id=46967772) - [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
 * [2026-02-10, 21:57:19](https://news.ycombinator.com/item?id=46967510) - [Scrap Labs – Metal 3D Printer](https://www.scraplabs3d.com/)

@@ -44,6 +44,7 @@
 * [2026-02-06, 11:03:33](https://news.ycombinator.com/item?id=46911417) - [US Immigration on the Easiest Setting](https://pluralistic.net/2026/02/06/doge-ball/#n-600)
 * [2026-02-06, 10:26:16](https://news.ycombinator.com/item?id=46911170) - [Invention of DNA \"Page Numbers\" Opens Up Possibilities for the Bioeconomy](https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang)
 * [2026-02-06, 09:56:55](https://news.ycombinator.com/item?id=46910963) - [A new bill in New York would require disclaimers on AI-generated news content](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
+* [2026-02-06, 09:16:58](https://news.ycombinator.com/item?id=46910704) - [It's not finance, it's your pensions](https://theloop.ecpr.eu/its-not-finance-its-your-pensions/)
 * [2026-02-06, 07:12:38](https://news.ycombinator.com/item?id=46910009) - [The mystery of the mole playing rough (2019) [video]](https://www.youtube.com/watch?v=nwQmwT1ULMU)
 * [2026-02-06, 05:29:55](https://news.ycombinator.com/item?id=46909468) - [Things Unix can do atomically](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 * [2026-02-06, 05:24:36](https://news.ycombinator.com/item?id=46909439) - [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)

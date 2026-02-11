@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-11](index.md)
 
+* [2026-02-11, 18:23:39](https://news.ycombinator.com/item?id=46978710) - [Claude Code Is Being Dumbed Down](https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/)
+* [2026-02-11, 17:34:27](https://news.ycombinator.com/item?id=46978015) - [Should your developer company go open source?](https://extremefoundership.substack.com/p/should-your-developer-company-go)
 * [2026-02-11, 17:01:15](https://news.ycombinator.com/item?id=46977493) - [Scientists research man missing 90% of his brain who leads a normal life (2016)](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.3679117/scientists-research-man-missing-90-of-his-brain-who-leads-a-normal-life-1.3679125)
 * [2026-02-11, 16:41:33](https://news.ycombinator.com/item?id=46977210) - [GLM-5: From Vibe Coding to Agentic Engineering](https://z.ai/blog/glm-5)
 * [2026-02-11, 16:39:11](https://news.ycombinator.com/item?id=46977175) - [Ireland rolls out pioneering basic income scheme for artists](https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/)
