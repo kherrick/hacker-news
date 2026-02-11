@@ -61,6 +61,7 @@
 * [2026-02-08, 09:43:25](https://news.ycombinator.com/item?id=46932837) - [Show HN: Goxe 19k Logs/S on an I5](https://github.com/DumbNoxx/goxe)
 * [2026-02-08, 09:41:29](https://news.ycombinator.com/item?id=46932826) - [(Golang) Self referential functions and the design of options](https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html)
 * [2026-02-08, 09:10:18](https://news.ycombinator.com/item?id=46932678) - [Reverse Engineering Raiders of the Lost Ark for the Atari 2600](https://github.com/joshuanwalker/Raiders2600)
+* [2026-02-08, 08:52:50](https://news.ycombinator.com/item?id=46932581) - [Willow – Protocols for an uncertain future [video]](https://fosdem.org/2026/schedule/event/CVGZAV-willow/)
 * [2026-02-08, 08:30:24](https://news.ycombinator.com/item?id=46932468) - [Arcan Explained – A browser for different webs](https://arcan-fe.com/2026/01/26/arcan-explained-a-browser-for-different-webs/)
 * [2026-02-08, 08:26:36](https://news.ycombinator.com/item?id=46932444) - [Quartz Crystals](https://www.pa3fwm.nl/technotes/tn13a.html)
 * [2026-02-08, 08:15:36](https://news.ycombinator.com/item?id=46932388) - [LLMs as Language Compilers: Lessons from Fortran for the Future of Coding](https://cyber-omelette.com/posts/the-abstraction-rises.html)

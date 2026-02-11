@@ -2,7 +2,6 @@
 
 * [2026-02-10, 22:20:40](https://news.ycombinator.com/item?id=46967772) - [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
 * [2026-02-10, 20:42:20](https://news.ycombinator.com/item?id=46966605) - [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel)
-* [2026-02-10, 20:17:45](https://news.ycombinator.com/item?id=46966209) - [Show HN: Clawe – open-source Trello for agent teams](https://github.com/getclawe/clawe)
 * [2026-02-10, 20:16:12](https://news.ycombinator.com/item?id=46966182) - [Tambo 1.0: Open-source toolkit for agents that render React components](https://github.com/tambo-ai/tambo)
 * [2026-02-10, 20:02:05](https://news.ycombinator.com/item?id=46965968) - [Show HN: Sol LeWitt-style instruction-based drawings in the browser](https://intervolz.com/sollewitt/)
 * [2026-02-10, 19:25:55](https://news.ycombinator.com/item?id=46965440) - [How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?](https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052)
@@ -23,13 +22,14 @@
 * [2026-02-10, 11:36:14](https://news.ycombinator.com/item?id=46958345) - [The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)
 * [2026-02-10, 11:21:56](https://news.ycombinator.com/item?id=46958231) - [Clean-room implementation of Half-Life 2 on the Quake 1 engine](https://code.idtech.space/fn/hl2)
 * [2026-02-10, 09:19:00](https://news.ycombinator.com/item?id=46957198) - [Qwen-Image-2.0: Professional infographics, exquisite photorealism](https://qwen.ai/blog?id=qwen-image-2.0)
+* [2026-02-10, 05:20:32](https://news.ycombinator.com/item?id=46955712) - [Show HN: I built a macOS tool for network engineers – it's called NetViews](https://www.netviews.app)
 * [2026-02-10, 03:24:38](https://news.ycombinator.com/item?id=46954974) - [The Evolution of Bengt Betjänt](https://andonlabs.com/blog/evolution-of-bengt)
 * [2026-02-09, 21:23:27](https://news.ycombinator.com/item?id=46951573) - [A brief history of oral peptides](https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides)
 * [2026-02-09, 16:33:38](https://news.ycombinator.com/item?id=46947229) - [Show HN: JavaScript-first, open-source WYSIWYG DOCX editor](https://github.com/eigenpal/docx-js-editor)
 * [2026-02-08, 14:01:11](https://news.ycombinator.com/item?id=46934248) - [The Little Learner: A Straight Line to Deep Learning](https://mitpress.mit.edu/9780262546379/the-little-learner/)
 * [2026-02-08, 11:47:02](https://news.ycombinator.com/item?id=46933444) - [My eighth year as a bootstrapped founder](https://mtlynch.io/bootstrapped-founder-year-8/)
+* [2026-02-08, 08:52:50](https://news.ycombinator.com/item?id=46932581) - [Willow – Protocols for an uncertain future [video]](https://fosdem.org/2026/schedule/event/CVGZAV-willow/)
 * [2026-02-08, 07:15:54](https://news.ycombinator.com/item?id=46932044) - [Show HN: ArtisanForge: Learn Laravel through a gamified RPG adventure](https://artisanforge.online/)
-* [2026-02-07, 22:36:41](https://news.ycombinator.com/item?id=46928920) - [Waymo exec reveals company uses remote workers in the Philippines](https://people.com/waymo-exec-reveals-company-uses-operators-in-the-philippines-to-assist-autonomous-vehicles-11900507)
 
 ## [Archives](archives/index.md)
 
