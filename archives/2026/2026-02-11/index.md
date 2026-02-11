@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-11](index.md)
 
+* [2026-02-11, 15:27:34](https://news.ycombinator.com/item?id=46976123) - [EPA to repeal its own conclusion that greenhouse gases warm the planet](https://www.nbcnews.com/science/climate-change/epa-to-repeal-endangerment-finding-climate-change-emissions-rcna258250)
+* [2026-02-11, 15:13:21](https://news.ycombinator.com/item?id=46975940) - [Mamdani Hires Lisa Gelobter as Chief Tech Officer](https://www.nytimes.com/2026/02/10/nyregion/mamdani-lisa-gelobter-gif.html)
+* [2026-02-11, 14:36:18](https://news.ycombinator.com/item?id=46975449) - [Show HN: Renovate – The Kubernetes-Native Way](https://github.com/mogenius/renovate-operator)
 * [2026-02-11, 13:57:06](https://news.ycombinator.com/item?id=46974999) - [Who Smeared Feynman](https://blog.nuclearsecrecy.com/2014/07/11/smeared-richard-feynman/)
 * [2026-02-11, 13:42:16](https://news.ycombinator.com/item?id=46974853) - [GLM5 Released on Z.ai Platform](https://chat.z.ai/)
 * [2026-02-11, 12:28:50](https://news.ycombinator.com/item?id=46974118) - [Show HN: Musical Interval Trainer](https://valtterimaja.github.io/musical-interval-trainer/)

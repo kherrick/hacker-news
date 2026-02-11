@@ -31,6 +31,7 @@
 * [2026-02-07, 15:05:56](https://news.ycombinator.com/item?id=46924426) - [Software Factories and the Agentic Moment](https://factory.strongdm.ai/)
 * [2026-02-07, 14:58:10](https://news.ycombinator.com/item?id=46924371) - [Show HN: One-click AI employee with its own cloud desktop](https://cloudbot-ai.com)
 * [2026-02-07, 14:42:16](https://news.ycombinator.com/item?id=46924264) - [Stories from 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
+* [2026-02-07, 14:15:36](https://news.ycombinator.com/item?id=46924075) - [GLM-OCR: Accurate × Fast × Comprehensive](https://github.com/zai-org/GLM-OCR)
 * [2026-02-07, 13:34:34](https://news.ycombinator.com/item?id=46923736) - [France's homegrown open source online office suite](https://github.com/suitenumerique)
 * [2026-02-07, 13:07:09](https://news.ycombinator.com/item?id=46923543) - [Software Engineering Is Back](https://blog.alaindichiappari.dev/p/software-engineering-is-back)
 * [2026-02-07, 13:03:24](https://news.ycombinator.com/item?id=46923520) - [Reputation Scores for GitHub Accounts](https://shkspr.mobi/blog/2026/02/reputation-scores-for-github-accounts/)
