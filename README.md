@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-11, 09:04:00](https://news.ycombinator.com/item?id=46972610) - [FAA Halts All Flights at El Paso Airport for 10 Days](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 * [2026-02-11, 08:43:58](https://news.ycombinator.com/item?id=46972471) - [A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST](https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst)
 * [2026-02-11, 07:42:57](https://news.ycombinator.com/item?id=46972056) - [Communities Are Not Fungible](https://www.joanwestenberg.com/communities-are-not-fungible/)
 * [2026-02-11, 07:00:46](https://news.ycombinator.com/item?id=46971794) - [CoLoop (YC S21) Is Hiring Ex Technical Founders in London](https://www.workatastartup.com/jobs/90016)
@@ -16,6 +15,7 @@
 * [2026-02-10, 16:04:21](https://news.ycombinator.com/item?id=46961726) - [Competition is not market validation](https://www.ablg.io/blog/competition-is-not-validation)
 * [2026-02-10, 15:44:47](https://news.ycombinator.com/item?id=46961345) - [Ex-GitHub CEO launches a new developer platform for AI agents](https://entire.io/blog/hello-entire-world/)
 * [2026-02-10, 13:26:14](https://news.ycombinator.com/item?id=46959418) - [Simplifying Vulkan one subsystem at a time](https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time)
+* [2026-02-10, 12:19:23](https://news.ycombinator.com/item?id=46958742) - [Show HN: Distr 2.0 – A year of learning how to ship to customer environments](https://github.com/distr-sh/distr)
 * [2026-02-10, 11:42:14](https://news.ycombinator.com/item?id=46958399) - [Europe's $24T Breakup with Visa and Mastercard Has Begun](https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/)
 * [2026-02-10, 11:36:14](https://news.ycombinator.com/item?id=46958345) - [The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)
 * [2026-02-10, 11:21:56](https://news.ycombinator.com/item?id=46958231) - [Clean-room implementation of Half-Life 2 on the Quake 1 engine](https://code.idtech.space/fn/hl2)
@@ -28,8 +28,8 @@
 * [2026-02-08, 10:42:29](https://news.ycombinator.com/item?id=46933135) - [Show HN: CodeMic](https://codemic.io/#hn)
 * [2026-02-08, 08:52:50](https://news.ycombinator.com/item?id=46932581) - [Willow – Protocols for an uncertain future [video]](https://fosdem.org/2026/schedule/event/CVGZAV-willow/)
 * [2026-02-07, 11:31:11](https://news.ycombinator.com/item?id=46923009) - [Flirt: The Native Backend](https://blog.buenzli.dev/flirt-native-backend/)
-* [2026-02-06, 14:49:25](https://news.ycombinator.com/item?id=46913489) - [Lessons you will learn living in a snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/)
 * [2026-02-06, 11:25:55](https://news.ycombinator.com/item?id=46911581) - [Signy: Signed URLs for Small Devices](https://github.com/golioth/signy)
+* [2026-02-06, 04:50:09](https://news.ycombinator.com/item?id=46909279) - [It's All a Blur](https://lcamtuf.substack.com/p/its-all-a-blur)
 
 ## [Archives](archives/index.md)
 

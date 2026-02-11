@@ -45,6 +45,7 @@
 * [2026-02-06, 07:12:38](https://news.ycombinator.com/item?id=46910009) - [The mystery of the mole playing rough (2019) [video]](https://www.youtube.com/watch?v=nwQmwT1ULMU)
 * [2026-02-06, 05:29:55](https://news.ycombinator.com/item?id=46909468) - [Things Unix can do atomically](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 * [2026-02-06, 05:24:36](https://news.ycombinator.com/item?id=46909439) - [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)
+* [2026-02-06, 04:50:09](https://news.ycombinator.com/item?id=46909279) - [It's All a Blur](https://lcamtuf.substack.com/p/its-all-a-blur)
 * [2026-02-06, 04:28:08](https://news.ycombinator.com/item?id=46909122) - [Generative Pen-Trained Transformer](https://theodore.net/projects/Polargraph/)
 * [2026-02-06, 04:12:59](https://news.ycombinator.com/item?id=46909037) - [Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust](https://github.com/artifact-keeper)
 * [2026-02-06, 03:25:51](https://news.ycombinator.com/item?id=46908700) - [Waiting for Postgres 19: Better planner hints with path generation strategies [video]](https://www.youtube.com/watch?v=QLb3nhIy2Lc)
