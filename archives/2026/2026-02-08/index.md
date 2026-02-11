@@ -61,6 +61,7 @@
 * [2026-02-08, 09:44:55](https://news.ycombinator.com/item?id=46932845) - [In the Australian outback, we're listening for nuclear tests](https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478)
 * [2026-02-08, 09:43:25](https://news.ycombinator.com/item?id=46932837) - [Show HN: Goxe 19k Logs/S on an I5](https://github.com/DumbNoxx/goxe)
 * [2026-02-08, 09:41:29](https://news.ycombinator.com/item?id=46932826) - [(Golang) Self referential functions and the design of options](https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html)
+* [2026-02-08, 09:39:06](https://news.ycombinator.com/item?id=46932813) - [Show HN: Model Training Memory Simulator](https://czheo.github.io/2026/02/08/model-training-memory-simulator/)
 * [2026-02-08, 09:35:20](https://news.ycombinator.com/item?id=46932797) - [Software design is now cheap](https://dottedmag.net/blog/cheap-design/)
 * [2026-02-08, 09:10:18](https://news.ycombinator.com/item?id=46932678) - [Reverse Engineering Raiders of the Lost Ark for the Atari 2600](https://github.com/joshuanwalker/Raiders2600)
 * [2026-02-08, 08:52:50](https://news.ycombinator.com/item?id=46932581) - [Willow – Protocols for an uncertain future [video]](https://fosdem.org/2026/schedule/event/CVGZAV-willow/)
