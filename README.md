@@ -2,7 +2,6 @@
 
 * [2026-02-11, 09:04:00](https://news.ycombinator.com/item?id=46972610) - [FAA Halts All Flights at El Paso Airport for 10 Days](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 * [2026-02-11, 08:43:58](https://news.ycombinator.com/item?id=46972471) - [A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST](https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst)
-* [2026-02-11, 08:01:52](https://news.ycombinator.com/item?id=46972179) - [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163)
 * [2026-02-11, 07:42:57](https://news.ycombinator.com/item?id=46972056) - [Communities Are Not Fungible](https://www.joanwestenberg.com/communities-are-not-fungible/)
 * [2026-02-11, 07:00:46](https://news.ycombinator.com/item?id=46971794) - [CoLoop (YC S21) Is Hiring Ex Technical Founders in London](https://www.workatastartup.com/jobs/90016)
 * [2026-02-11, 06:15:33](https://news.ycombinator.com/item?id=46971516) - [Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)
@@ -20,6 +19,7 @@
 * [2026-02-10, 11:42:14](https://news.ycombinator.com/item?id=46958399) - [Europe's $24T Breakup with Visa and Mastercard Has Begun](https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/)
 * [2026-02-10, 11:36:14](https://news.ycombinator.com/item?id=46958345) - [The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)
 * [2026-02-10, 11:21:56](https://news.ycombinator.com/item?id=46958231) - [Clean-room implementation of Half-Life 2 on the Quake 1 engine](https://code.idtech.space/fn/hl2)
+* [2026-02-10, 05:20:32](https://news.ycombinator.com/item?id=46955712) - [Show HN: I built a macOS tool for network engineers – it's called NetViews](https://www.netviews.app)
 * [2026-02-09, 21:23:27](https://news.ycombinator.com/item?id=46951573) - [A brief history of oral peptides](https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides)
 * [2026-02-09, 16:33:38](https://news.ycombinator.com/item?id=46947229) - [Show HN: JavaScript-first, open-source WYSIWYG DOCX editor](https://github.com/eigenpal/docx-js-editor)
 * [2026-02-08, 14:09:39](https://news.ycombinator.com/item?id=46934318) - [Exploring a Modern SMTPE 2110 Broadcast Truck](https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/)
