@@ -38,6 +38,7 @@
 * [2026-02-06, 12:16:43](https://news.ycombinator.com/item?id=46911901) - [I Now Assume That All Ads on Apple News Are Scams](https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/)
 * [2026-02-06, 12:12:18](https://news.ycombinator.com/item?id=46911873) - [Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is](https://wiz.jock.pl/experiments/agent-arena/)
 * [2026-02-06, 12:11:48](https://news.ycombinator.com/item?id=46911869) - [TikTok's 'Addictive Design' Found to Be Illegal in Europe](https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html)
+* [2026-02-06, 11:25:55](https://news.ycombinator.com/item?id=46911581) - [Signy: Signed URLs for Small Devices](https://github.com/golioth/signy)
 * [2026-02-06, 11:03:33](https://news.ycombinator.com/item?id=46911417) - [US Immigration on the Easiest Setting](https://pluralistic.net/2026/02/06/doge-ball/#n-600)
 * [2026-02-06, 10:26:16](https://news.ycombinator.com/item?id=46911170) - [Invention of DNA \"Page Numbers\" Opens Up Possibilities for the Bioeconomy](https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang)
 * [2026-02-06, 09:56:55](https://news.ycombinator.com/item?id=46910963) - [A new bill in New York would require disclaimers on AI-generated news content](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
