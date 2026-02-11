@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-02-11, 01:50:44",
-      "https://news.ycombinator.com/item?id=46969751"
+      "2026-02-11, 04:15:24",
+      "https://news.ycombinator.com/item?id=46970752"
     ],
     [
-      "End of an era for me: no more self-hosted git",
-      "https://www.kraxel.org/blog/2026/01/thank-you-ai/"
+      "A simpler way to remove explicit images from Search",
+      "https://blog.google/products-and-platforms/products/search/remove-explicit-images/"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=46965440"
     ],
     [
-      "How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?",
+      "How did Windows 95 get permission to put Weezer video 'Buddy Holly' on the CD?",
       "https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052"
     ]
   ],
@@ -87,16 +87,6 @@
     [
       "Markdown CLI viewer with VI keybindings",
       "https://github.com/taf2/mdvi"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 17:48:05",
-      "https://news.ycombinator.com/item?id=46963804"
-    ],
-    [
-      "Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number",
-      "https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/"
     ]
   ],
   [
@@ -147,6 +137,16 @@
     [
       "Ex-GitHub CEO launches a new developer platform for AI agents",
       "https://entire.io/blog/hello-entire-world/"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 15:08:36",
+      "https://news.ycombinator.com/item?id=46960675"
+    ],
+    [
+      "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
+      "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-02-08, 09:35:20",
-      "https://news.ycombinator.com/item?id=46932797"
+      "2026-02-08, 09:39:06",
+      "https://news.ycombinator.com/item?id=46932813"
     ],
     [
-      "Software design is now cheap",
-      "https://dottedmag.net/blog/cheap-design/"
+      "Show HN: Model Training Memory Simulator",
+      "https://czheo.github.io/2026/02/08/model-training-memory-simulator/"
     ]
   ],
   [
