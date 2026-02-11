@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-11](index.md)
 
+* [2026-02-11, 16:17:00](https://news.ycombinator.com/item?id=46976845) - [NanoClaw solves one of OpenClaw's biggest security issues](https://venturebeat.com/orchestration/nanoclaw-solves-one-of-openclaws-biggest-security-issues-and-its-already)
+* [2026-02-11, 15:51:11](https://news.ycombinator.com/item?id=46976466) - [Railway (PaaS) Global Outage](https://status.railway.com)
+* [2026-02-11, 15:50:04](https://news.ycombinator.com/item?id=46976443) - [Why Vampires Live Forever](https://machielreyneke.com/blog/vampires-longevity/)
+* [2026-02-11, 15:41:18](https://news.ycombinator.com/item?id=46976317) - [AI-First Company Memos](https://the-ai-native.company/)
 * [2026-02-11, 15:27:34](https://news.ycombinator.com/item?id=46976123) - [EPA to repeal its own conclusion that greenhouse gases warm the planet](https://www.nbcnews.com/science/climate-change/epa-to-repeal-endangerment-finding-climate-change-emissions-rcna258250)
 * [2026-02-11, 15:13:21](https://news.ycombinator.com/item?id=46975940) - [Mamdani Hires Lisa Gelobter as Chief Tech Officer](https://www.nytimes.com/2026/02/10/nyregion/mamdani-lisa-gelobter-gif.html)
+* [2026-02-11, 15:12:53](https://news.ycombinator.com/item?id=46975933) - [Ask HN: Why electronics are still so unrecyclable?](https://news.ycombinator.com/item?id=46975933)
 * [2026-02-11, 14:36:18](https://news.ycombinator.com/item?id=46975449) - [Show HN: Renovate – The Kubernetes-Native Way](https://github.com/mogenius/renovate-operator)
 * [2026-02-11, 13:57:06](https://news.ycombinator.com/item?id=46974999) - [Who Smeared Feynman](https://blog.nuclearsecrecy.com/2014/07/11/smeared-richard-feynman/)
 * [2026-02-11, 13:42:16](https://news.ycombinator.com/item?id=46974853) - [GLM5 Released on Z.ai Platform](https://chat.z.ai/)
