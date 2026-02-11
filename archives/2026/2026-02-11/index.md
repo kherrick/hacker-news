@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-11](index.md)
 
+* [2026-02-11, 19:42:28](https://news.ycombinator.com/item?id=46979819) - [Paragon accidentally uploaded a photo of its spyware control panel](https://twitter.com/DrWhax/status/2021608609595945442)
+* [2026-02-11, 19:30:30](https://news.ycombinator.com/item?id=46979643) - [iOS 26.3 and macOS 26.3 Fix Dozens of Vulnerabilities, Including Zero-Day](https://www.macrumors.com/2026/02/11/ios-26-3-security-vulnerabilities/)
+* [2026-02-11, 19:25:18](https://news.ycombinator.com/item?id=46979562) - [The risk of a hothouse Earth trajectory](https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4)
 * [2026-02-11, 18:48:50](https://news.ycombinator.com/item?id=46979058) - [How Did the FBI Get Nancy Guthrie's Nest Doorbell Footage?](https://lifehacker.com/tech/how-did-the-fbi-get-nancy-guthries-doorbell-footage)
 * [2026-02-11, 18:43:01](https://news.ycombinator.com/item?id=46978966) - [Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash)
 * [2026-02-11, 18:23:39](https://news.ycombinator.com/item?id=46978710) - [Claude Code Is Being Dumbed Down](https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/)

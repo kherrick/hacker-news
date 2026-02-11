@@ -30,6 +30,7 @@
 * [2026-02-06, 15:34:45](https://news.ycombinator.com/item?id=46914094) - [NIMBYs Aren't Just Shutting Down Housing](https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing)
 * [2026-02-06, 15:20:23](https://news.ycombinator.com/item?id=46913903) - [An Update on Heroku](https://www.heroku.com/blog/an-update-on-heroku/)
 * [2026-02-06, 15:13:04](https://news.ycombinator.com/item?id=46913793) - [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
+* [2026-02-06, 15:09:49](https://news.ycombinator.com/item?id=46913747) - [Show HN: Hibana – An Affine MPST Runtime for Rust](https://hibanaworks.dev)
 * [2026-02-06, 14:49:25](https://news.ycombinator.com/item?id=46913489) - [Lessons you will learn living in a snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/)
 * [2026-02-06, 14:33:22](https://news.ycombinator.com/item?id=46913302) - [Amazon plunge continues $1T wipeout as AI bubble fears ignite sell-off](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
 * [2026-02-06, 14:32:05](https://news.ycombinator.com/item?id=46913285) - [How virtual textures work](https://www.shlom.dev/articles/how-virtual-textures-really-work/)
