@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-11, 04:15:24](https://news.ycombinator.com/item?id=46970752) - [A simpler way to remove explicit images from Search](https://blog.google/products-and-platforms/products/search/remove-explicit-images/)
+* [2026-02-11, 07:00:46](https://news.ycombinator.com/item?id=46971794) - [CoLoop (YC S21) Is Hiring Ex Technical Founders in London](https://www.workatastartup.com/jobs/90016)
+* [2026-02-11, 05:40:20](https://news.ycombinator.com/item?id=46971287) - [Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV](https://news.ycombinator.com/item?id=46971287)
+* [2026-02-11, 05:32:10](https://news.ycombinator.com/item?id=46971248) - [Stay Hungry, Stay Foolish (2005)](https://stevejobsarchive.com/stories/stay-hungry-stay-foolish)
 * [2026-02-11, 01:00:15](https://news.ycombinator.com/item?id=46969399) - [Rivian R2: Electric Mid-Size SUV](https://rivian.com/r2)
 * [2026-02-11, 00:21:55](https://news.ycombinator.com/item?id=46969088) - [Fun With Pinball](https://www.funwithpinball.com/exhibits/small-boards)
 * [2026-02-10, 22:20:40](https://news.ycombinator.com/item?id=46967772) - [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
@@ -13,7 +15,6 @@
 * [2026-02-10, 16:36:30](https://news.ycombinator.com/item?id=46962402) - [Mathematicians disagree on the essential structure of the complex numbers (2024)](https://www.infinitelymore.xyz/p/complex-numbers-essential-structure)
 * [2026-02-10, 16:04:21](https://news.ycombinator.com/item?id=46961726) - [Competition is not market validation](https://www.ablg.io/blog/competition-is-not-validation)
 * [2026-02-10, 15:44:47](https://news.ycombinator.com/item?id=46961345) - [Ex-GitHub CEO launches a new developer platform for AI agents](https://entire.io/blog/hello-entire-world/)
-* [2026-02-10, 15:08:36](https://news.ycombinator.com/item?id=46960675) - [I started programming when I was 7. I'm 50 now and the thing I loved has changed](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/)
 * [2026-02-10, 14:20:49](https://news.ycombinator.com/item?id=46960036) - [Oxide raises $200M Series C](https://oxide.computer/blog/our-200m-series-c)
 * [2026-02-10, 13:26:14](https://news.ycombinator.com/item?id=46959418) - [Simplifying Vulkan one subsystem at a time](https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time)
 * [2026-02-10, 12:19:23](https://news.ycombinator.com/item?id=46958742) - [Show HN: Distr 2.0 – A year of learning how to ship to customer environments](https://github.com/distr-sh/distr)
@@ -26,9 +27,8 @@
 * [2026-02-08, 14:09:39](https://news.ycombinator.com/item?id=46934318) - [Exploring a Modern SMTPE 2110 Broadcast Truck](https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/)
 * [2026-02-08, 14:01:11](https://news.ycombinator.com/item?id=46934248) - [The Little Learner: A Straight Line to Deep Learning (2023)](https://mitpress.mit.edu/9780262546379/the-little-learner/)
 * [2026-02-08, 11:47:02](https://news.ycombinator.com/item?id=46933444) - [My eighth year as a bootstrapped founder](https://mtlynch.io/bootstrapped-founder-year-8/)
-* [2026-02-08, 09:39:06](https://news.ycombinator.com/item?id=46932813) - [Show HN: Model Training Memory Simulator](https://czheo.github.io/2026/02/08/model-training-memory-simulator/)
 * [2026-02-08, 08:52:50](https://news.ycombinator.com/item?id=46932581) - [Willow – Protocols for an uncertain future [video]](https://fosdem.org/2026/schedule/event/CVGZAV-willow/)
-* [2026-02-08, 07:15:54](https://news.ycombinator.com/item?id=46932044) - [Show HN: ArtisanForge: Learn Laravel through a gamified RPG adventure](https://artisanforge.online/)
+* [2026-02-07, 11:31:11](https://news.ycombinator.com/item?id=46923009) - [Flirt: The Native Backend](https://blog.buenzli.dev/flirt-native-backend/)
 * [2026-02-06, 14:49:25](https://news.ycombinator.com/item?id=46913489) - [Lessons you will learn living in a snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/)
 
 ## [Archives](archives/index.md)
