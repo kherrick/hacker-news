@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-11, 11:27:38",
+      "https://news.ycombinator.com/item?id=46973647"
+    ],
+    [
+      "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
+      "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa"
+    ]
+  ],
+  [
+    [
+      "2026-02-11, 11:16:23",
+      "https://news.ycombinator.com/item?id=46973573"
+    ],
+    [
+      "Exposure Simulator",
+      "http://www.andersenimages.com/tutorials/exposure-simulator/"
+    ]
+  ],
+  [
+    [
+      "2026-02-11, 10:00:56",
+      "https://news.ycombinator.com/item?id=46973083"
+    ],
+    [
+      "Chrome extensions spying on 37M users' browsing data",
+      "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495"
+    ]
+  ],
+  [
+    [
       "2026-02-11, 08:43:58",
       "https://news.ycombinator.com/item?id=46972471"
     ],
@@ -51,22 +81,22 @@
   ],
   [
     [
-      "2026-02-11, 01:00:15",
-      "https://news.ycombinator.com/item?id=46969399"
-    ],
-    [
-      "Rivian R2: Electric Mid-Size SUV",
-      "https://rivian.com/r2"
-    ]
-  ],
-  [
-    [
       "2026-02-11, 00:21:55",
       "https://news.ycombinator.com/item?id=46969088"
     ],
     [
       "Fun With Pinball",
       "https://www.funwithpinball.com/exhibits/small-boards"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 22:31:12",
+      "https://news.ycombinator.com/item?id=46967898"
+    ],
+    [
+      "Show HN: Itsyhome – Control HomeKit from your Mac menu bar (open source)",
+      "https://itsyhome.app"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-02-10, 16:04:21",
-      "https://news.ycombinator.com/item?id=46961726"
-    ],
-    [
-      "Competition is not market validation",
-      "https://www.ablg.io/blog/competition-is-not-validation"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 15:44:47",
       "https://news.ycombinator.com/item?id=46961345"
     ],
@@ -147,16 +167,6 @@
     [
       "Simplifying Vulkan one subsystem at a time",
       "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 12:19:23",
-      "https://news.ycombinator.com/item?id=46958742"
-    ],
-    [
-      "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
-      "https://github.com/distr-sh/distr"
     ]
   ],
   [
@@ -187,26 +197,6 @@
     [
       "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
       "https://code.idtech.space/fn/hl2"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 05:20:32",
-      "https://news.ycombinator.com/item?id=46955712"
-    ],
-    [
-      "Show HN: I built a macOS tool for network engineers – it's called NetViews",
-      "https://www.netviews.app"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 21:23:27",
-      "https://news.ycombinator.com/item?id=46951573"
-    ],
-    [
-      "A brief history of oral peptides",
-      "https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Flirt: The Native Backend",
       "https://blog.buenzli.dev/flirt-native-backend/"
+    ]
+  ],
+  [
+    [
+      "2026-02-06, 22:02:13",
+      "https://news.ycombinator.com/item?id=46918741"
+    ],
+    [
+      "Visualize MySQL query execution plans as interactive FlameGraphs",
+      "https://github.com/vgrippa/myflames"
     ]
   ],
   [
