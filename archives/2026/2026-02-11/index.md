@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-11](index.md)
 
+* [2026-02-11, 20:40:02](https://news.ycombinator.com/item?id=46980591) - [Y Combinator CEO Garry Tan launches dark-money group to influence CA politics](https://missionlocal.org/2026/02/sf-garry-tan-california-politics-garrys-list/)
+* [2026-02-11, 19:50:43](https://news.ycombinator.com/item?id=46979936) - [Microwave Oven Failure: Spontaneously turned on by its LED display (2024)](https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/)
 * [2026-02-11, 19:42:28](https://news.ycombinator.com/item?id=46979819) - [Paragon accidentally uploaded a photo of its spyware control panel](https://twitter.com/DrWhax/status/2021608609595945442)
 * [2026-02-11, 19:30:30](https://news.ycombinator.com/item?id=46979643) - [iOS 26.3 and macOS 26.3 Fix Dozens of Vulnerabilities, Including Zero-Day](https://www.macrumors.com/2026/02/11/ios-26-3-security-vulnerabilities/)
 * [2026-02-11, 19:25:18](https://news.ycombinator.com/item?id=46979562) - [The risk of a hothouse Earth trajectory](https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4)
