@@ -141,11 +141,11 @@
             <h4>
               <span>2026-02-11 @ 21:23:39</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46981231"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -163,11 +163,11 @@
             <h4>
               <span>2026-02-11 @ 21:09:51</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46981015"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -185,11 +185,31 @@
             <h4>
               <span>2026-02-11 @ 20:29:23</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46980474"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 31</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46980273">
+          <h3>
+            <a class="item" href="https://agentalcove.ai"
+              >Show HN: Agent Alcove – Claude, GPT, and Gemini debate across
+              forums</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-11 @ 20:15:21</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46980273"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -207,11 +227,11 @@
             <h4>
               <span>2026-02-11 @ 19:50:43</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46979936"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -229,13 +249,109 @@
             <h4>
               <span>2026-02-11 @ 19:42:28</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46979819"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="46979781">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/adenhq/hive/blob/main/README.md"
+              >Show HN: Agent framework that generates its own topology and
+              evolves at runtime</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-11 @ 19:39:43</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46979781"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I’m Vincent from Aden. We spent 4 years building ERP automation
+                for construction (PO/invoice reconciliation). We had real
+                enterprise customers but hit a technical wall: Chatbots aren't
+                for real work. Accountants don't want to chat; they want the
+                ledger reconciled while they sleep. They want services, not
+                tools.
+              </p>
+              <p>
+                Existing agent frameworks (LangChain, AutoGPT) failed in
+                production - brittle, looping, and unable to handle messy data.
+                General Computer Use (GCU) frameworks were even worse. My
+                reflections:
+              </p>
+              <p>
+                1. The "Toy App" Ceiling &amp; GCU Trap Most frameworks assume
+                synchronous sessions. If the tab closes, state is lost. You
+                can't fit 2 weeks of asynchronous business state into an
+                ephemeral chat session.
+              </p>
+              <p>
+                The GCU hype (agents "looking" at screens) is skeuomorphic. It’s
+                slow (screenshots), expensive (tokens), and fragile (UI changes
+                = crash). It mimics human constraints rather than leveraging
+                machine speed. Real automation should be headless.
+              </p>
+              <p>
+                2. Inversion of Control: OODA &gt; DAGs Traditional DAGs are
+                deterministic; if a step fails, the program crashes. In the AI
+                era, the Goal is the law, not the Code. We use an OODA loop to
+                manage stochastic behavior:
+              </p>
+              <p>
+                - Observe: Exceptions are observations (FileNotFound = new
+                state), not crashes.
+              </p>
+              <p>- Orient: Adjust strategy based on Memory and - Traits.</p>
+              <p>- Decide: Generate new code at runtime.</p>
+              <p>- Act: Execute.</p>
+              <p>
+                The topology shouldn't be hardcoded; it should emerge from the
+                task's entropy.
+              </p>
+              <p>
+                3. Reliability: The "Synthetic" SLA You can't guarantee one
+                inference ($k=1$) is correct, but you can guarantee a System of
+                Inference ($k=n$) converges on correctness. Reliability is now a
+                function of compute budget. By wrapping an 80% accurate model in
+                a "Best-of-3" verification loop, we mathematically force the
+                error rate down—trading Latency/Tokens for Certainty.
+              </p>
+              <p>
+                4. Biology &amp; Psychology in Code "Hard Logic" can't solve
+                "Soft Problems." We map cognition to architectural primitives:
+                Homeostasis: Solving "Perseveration" (infinite loops) via a
+                "Stress" metric. If an action fails 3x, "neuroplasticity" drops,
+                forcing a strategy shift. Traits: Personality as a constraint.
+                "High Conscientiousness" increases verification; "High Risk"
+                executes DROP TABLE without asking.
+              </p>
+              <p>
+                For the industry, we need engineers interested in the
+                intersection of biology, psychology, and distributed systems to
+                help us move beyond brittle scripts. It'd be great to have you
+                roasting my codes and sharing feedback.
+              </p>
+              <p>
+                Repo:
+                <a href="https://github.com/adenhq/hive"
+                  >https://github.com/adenhq/hive</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="46979643">
@@ -251,11 +367,32 @@
             <h4>
               <span>2026-02-11 @ 19:30:30</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46979643"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 58</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46979604">
+          <h3>
+            <a
+              class="item"
+              href="https://bitsandbytes.dev/posts/components-will-kill-pages"
+              >Components will kill pages</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-11 @ 19:27:46</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46979604"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -272,11 +409,11 @@
             <h4>
               <span>2026-02-11 @ 19:25:18</span
               ><span class="points-container"
-                >Points: <span class="points">270</span></span
+                >Points: <span class="points">280</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46979562"
                   >Comments</a
-                ><span class="descendants">: 300</span></span
+                ><span class="descendants">: 314</span></span
               >
             </h4>
           </section>
@@ -294,11 +431,11 @@
             <h4>
               <span>2026-02-11 @ 18:43:01</span
               ><span class="points-container"
-                >Points: <span class="points">307</span></span
+                >Points: <span class="points">340</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46978966"
                   >Comments</a
-                ><span class="descendants">: 166</span></span
+                ><span class="descendants">: 199</span></span
               >
             </h4>
           </section>
@@ -308,18 +445,18 @@
             <a
               class="item"
               href="https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/"
-              >Claude Code Is Being Dumbed Down</a
+              >Claude Code is being dumbed down?</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-02-11 @ 18:23:39</span
               ><span class="points-container"
-                >Points: <span class="points">610</span></span
+                >Points: <span class="points">652</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46978710"
                   >Comments</a
-                ><span class="descendants">: 418</span></span
+                ><span class="descendants">: 445</span></span
               >
             </h4>
           </section>
@@ -336,11 +473,11 @@
             <h4>
               <span>2026-02-11 @ 18:06:11</span
               ><span class="points-container"
-                >Points: <span class="points">164</span></span
+                >Points: <span class="points">172</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46978490"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -357,11 +494,11 @@
             <h4>
               <span>2026-02-11 @ 17:34:27</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46978015"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -376,11 +513,11 @@
             <h4>
               <span>2026-02-11 @ 16:41:33</span
               ><span class="points-container"
-                >Points: <span class="points">344</span></span
+                >Points: <span class="points">369</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46977210"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 195</span></span
               >
             </h4>
           </section>
@@ -388,18 +525,19 @@
         <section id="46976911">
           <h3>
             <a class="item" href="https://fluorite.game/"
-              >Toyota Fluorite: "console-grade" Flutter game engine</a
+              >Fluorite – A console-grade game engine fully integrated with
+              Flutter</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-02-11 @ 16:21:10</span
               ><span class="points-container"
-                >Points: <span class="points">345</span></span
+                >Points: <span class="points">357</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46976911"
                   >Comments</a
-                ><span class="descendants">: 204</span></span
+                ><span class="descendants">: 218</span></span
               >
             </h4>
             <div class="text">
@@ -415,18 +553,18 @@
             <a
               class="item"
               href="https://machielreyneke.com/blog/vampires-longevity/"
-              >Why Vampires Live Forever</a
+              >Why vampires live forever</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-02-11 @ 15:50:04</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">284</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46976443"
                   >Comments</a
-                ><span class="descendants">: 132</span></span
+                ><span class="descendants">: 136</span></span
               >
             </h4>
           </section>
@@ -443,11 +581,11 @@
             <h4>
               <span>2026-02-11 @ 11:16:23</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46973573"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -464,76 +602,16 @@
             <h4>
               <span>2026-02-11 @ 09:04:00</span
               ><span class="points-container"
-                >Points: <span class="points">307</span></span
+                >Points: <span class="points">310</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46972610"
                   >Comments</a
-                ><span class="descendants">: 486</span></span
+                ><span class="descendants">: 493</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46972056">
-          <h3>
-            <a
-              class="item"
-              href="https://www.joanwestenberg.com/communities-are-not-fungible/"
-              >Communities are not fungible</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-11 @ 07:42:57</span
-              ><span class="points-container"
-                >Points: <span class="points">199</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46972056"
-                  >Comments</a
-                ><span class="descendants">: 90</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46971516">
-          <h3>
-            <a
-              class="item"
-              href="https://www.cve.org/CVERecord?id=CVE-2026-20841"
-              >Windows Notepad App Remote Code Execution Vulnerability</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-11 @ 06:15:33</span
-              ><span class="points-container"
-                >Points: <span class="points">738</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46971516"
-                  >Comments</a
-                ><span class="descendants">: 451</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46969751">
-          <h3>
-            <a
-              class="item"
-              href="https://www.kraxel.org/blog/2026/01/thank-you-ai/"
-              >End of an era for me: no more self-hosted git</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-11 @ 01:50:44</span
-              ><span class="points-container"
-                >Points: <span class="points">232</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46969751"
-                  >Comments</a
-                ><span class="descendants">: 155</span></span
-              >
-            </h4>
+            <div class="text">
+              <a href="https://archive.is/Qdq4x">https://archive.is/Qdq4x</a>
+            </div>
           </section>
         </section>
         <section id="46968374">
@@ -546,11 +624,11 @@
             <h4>
               <span>2026-02-10 @ 23:12:36</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46968374"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -565,7 +643,7 @@
             <h4>
               <span>2026-02-09 @ 15:54:33</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46946593"
                   >Comments</a
@@ -617,6 +695,27 @@
             </div>
           </section>
         </section>
+        <section id="46942864">
+          <h3>
+            <a
+              class="item"
+              href="https://maxhalford.github.io/blog/text-classification-zstd/"
+              >Text classification with Python 3.14's ZSTD module</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-09 @ 08:14:28</span
+              ><span class="points-container"
+                >Points: <span class="points">39</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46942864"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="46924075">
           <h3>
             <a class="item" href="https://github.com/zai-org/GLM-OCR"
@@ -627,11 +726,11 @@
             <h4>
               <span>2026-02-07 @ 14:15:36</span
               ><span class="points-container"
-                >Points: <span class="points">203</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46924075"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -648,33 +747,11 @@
             <h4>
               <span>2026-02-07 @ 09:10:26</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46922453"
                   >Comments</a
                 ><span class="descendants">: 10</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46921659">
-          <h3>
-            <a
-              class="item"
-              href="https://publicdomainreview.org/essay/typing-for-love-or-money/"
-              >Typing for Love or Money: The Hidden Labor Behind Modern Literary
-              Masterpieces</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-07 @ 05:50:07</span
-              ><span class="points-container"
-                >Points: <span class="points">9</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46921659"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -691,11 +768,11 @@
             <h4>
               <span>2026-02-07 @ 01:16:42</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">279</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46920315"
                   >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 134</span></span
               >
             </h4>
           </section>
@@ -713,11 +790,11 @@
             <h4>
               <span>2026-02-06 @ 19:25:52</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46917005"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -771,11 +848,11 @@
             <h4>
               <span>2026-02-06 @ 14:49:25</span
               ><span class="points-container"
-                >Points: <span class="points">296</span></span
+                >Points: <span class="points">298</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46913489"
                   >Comments</a
-                ><span class="descendants">: 294</span></span
+                ><span class="descendants">: 301</span></span
               >
             </h4>
           </section>
@@ -811,7 +888,7 @@
             <h4>
               <span>2026-02-06 @ 04:50:09</span
               ><span class="points-container"
-                >Points: <span class="points">336</span></span
+                >Points: <span class="points">341</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46909279"
                   >Comments</a
