@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-10](index.md)
 
+* [2026-02-10, 22:31:12](https://news.ycombinator.com/item?id=46967898) - [Show HN: Itsyhome – Control HomeKit from your Mac menu bar (open source)](https://itsyhome.app)
 * [2026-02-10, 22:20:40](https://news.ycombinator.com/item?id=46967772) - [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
 * [2026-02-10, 21:57:19](https://news.ycombinator.com/item?id=46967510) - [Scrap Labs – Metal 3D Printer](https://www.scraplabs3d.com/)
 * [2026-02-10, 20:42:20](https://news.ycombinator.com/item?id=46966605) - [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel)
