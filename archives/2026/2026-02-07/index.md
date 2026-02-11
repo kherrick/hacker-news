@@ -33,6 +33,7 @@
 * [2026-02-07, 14:42:16](https://news.ycombinator.com/item?id=46924264) - [Stories from 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
 * [2026-02-07, 14:15:36](https://news.ycombinator.com/item?id=46924075) - [GLM-OCR: Accurate × Fast × Comprehensive](https://github.com/zai-org/GLM-OCR)
 * [2026-02-07, 13:34:34](https://news.ycombinator.com/item?id=46923736) - [France's homegrown open source online office suite](https://github.com/suitenumerique)
+* [2026-02-07, 13:09:12](https://news.ycombinator.com/item?id=46923554) - [Hacking the last Z80 computer – FOSDEM 2026 [video]](https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/)
 * [2026-02-07, 13:07:09](https://news.ycombinator.com/item?id=46923543) - [Software Engineering Is Back](https://blog.alaindichiappari.dev/p/software-engineering-is-back)
 * [2026-02-07, 13:03:24](https://news.ycombinator.com/item?id=46923520) - [Reputation Scores for GitHub Accounts](https://shkspr.mobi/blog/2026/02/reputation-scores-for-github-accounts/)
 * [2026-02-07, 12:53:39](https://news.ycombinator.com/item?id=46923463) - [Reinforcement Learning from Human Feedback](https://rlhfbook.com/)

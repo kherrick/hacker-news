@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-11](index.md)
 
+* [2026-02-11, 22:56:41](https://news.ycombinator.com/item?id=46982421) - [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
 * [2026-02-11, 21:23:39](https://news.ycombinator.com/item?id=46981231) - [Apple's Siri revamp reportedly delayed again](https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/)
 * [2026-02-11, 21:09:51](https://news.ycombinator.com/item?id=46981015) - [Q&A: New UK onshore wind and solar is '50% cheaper' than new gas](https://www.carbonbrief.org/qa-new-uk-onshore-wind-and-solar-is-50-cheaper-than-new-gas/)
 * [2026-02-11, 20:40:02](https://news.ycombinator.com/item?id=46980591) - [Y Combinator CEO Garry Tan launches dark-money group to influence CA politics](https://missionlocal.org/2026/02/sf-garry-tan-california-politics-garrys-list/)
