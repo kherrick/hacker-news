@@ -54,6 +54,7 @@
 * [2026-02-08, 11:38:57](https://news.ycombinator.com/item?id=46933401) - [Dave Farber has passed away](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/)
 * [2026-02-08, 11:31:49](https://news.ycombinator.com/item?id=46933365) - [Why E cores make Apple Silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/)
 * [2026-02-08, 11:00:32](https://news.ycombinator.com/item?id=46933223) - [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents)
+* [2026-02-08, 10:42:29](https://news.ycombinator.com/item?id=46933135) - [Show HN: CodeMic](https://codemic.io/#hn)
 * [2026-02-08, 10:31:35](https://news.ycombinator.com/item?id=46933067) - [(AI) Slop Terrifies Me](https://ezhik.jp/ai-slop-terrifies-me/)
 * [2026-02-08, 10:22:30](https://news.ycombinator.com/item?id=46933022) - [Show HN: Elysia JIT \"Compiler\", why it's one of the fastest JavaScript framework](https://elysiajs.com/internal/jit-compiler)
 * [2026-02-08, 10:13:00](https://news.ycombinator.com/item?id=46932985) - [Curating a Show on My Ineffable Mother, Ursula K. Le Guin](https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/)
