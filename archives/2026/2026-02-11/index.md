@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-11](index.md)
 
+* [2026-02-11, 13:57:06](https://news.ycombinator.com/item?id=46974999) - [Who Smeared Feynman](https://blog.nuclearsecrecy.com/2014/07/11/smeared-richard-feynman/)
+* [2026-02-11, 13:42:16](https://news.ycombinator.com/item?id=46974853) - [GLM5 Released on Z.ai Platform](https://chat.z.ai/)
+* [2026-02-11, 12:28:50](https://news.ycombinator.com/item?id=46974118) - [Show HN: Musical Interval Trainer](https://valtterimaja.github.io/musical-interval-trainer/)
 * [2026-02-11, 11:27:38](https://news.ycombinator.com/item?id=46973647) - [FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
 * [2026-02-11, 11:16:23](https://news.ycombinator.com/item?id=46973573) - [Exposure Simulator](http://www.andersenimages.com/tutorials/exposure-simulator/)
 * [2026-02-11, 10:38:55](https://news.ycombinator.com/item?id=46973355) - [Do not apologize for replying late to my email](https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html)
