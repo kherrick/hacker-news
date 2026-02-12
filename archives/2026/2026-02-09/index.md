@@ -16,6 +16,7 @@
 * [2026-02-09, 19:50:54](https://news.ycombinator.com/item?id=46950152) - [MIT Living Wage Calculator](https://livingwage.mit.edu/)
 * [2026-02-09, 19:32:45](https://news.ycombinator.com/item?id=46949870) - [A method and calculator for building foamcore drawer organisers](https://capnfabs.net/posts/foamcore-would-be-a-sick-name-for-a-music-genre/)
 * [2026-02-09, 19:32:23](https://news.ycombinator.com/item?id=46949864) - [An articulated archer automaton [video]](https://www.youtube.com/watch?v=Bc0bIpDVEa8)
+* [2026-02-09, 19:29:53](https://news.ycombinator.com/item?id=46949814) - [Using an Engineering Notebook](https://ntietz.com/blog/using-an-engineering-notebook/)
 * [2026-02-09, 19:19:30](https://news.ycombinator.com/item?id=46949642) - [Luce: First Electric Ferrari. Designed by LoveFrom](https://www.ferrari.com/en-US/auto/ferrari-luce)
 * [2026-02-09, 19:15:14](https://news.ycombinator.com/item?id=46949564) - [Discord Alternatives, Ranked](https://taggart-tech.com/discord-alternatives/)
 * [2026-02-09, 19:07:25](https://news.ycombinator.com/item?id=46949452) - [Another GitHub outage in the same day](https://www.githubstatus.com/incidents/lcw3tg2f6zsd)
@@ -62,4 +63,5 @@
 * [2026-02-09, 05:23:37](https://news.ycombinator.com/item?id=46941850) - [Job Hunters Are So Desperate That They're Paying to Get Recruited](https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2)
 * [2026-02-09, 04:38:14](https://news.ycombinator.com/item?id=46941640) - [TSMC to make advanced AI semiconductors in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
 * [2026-02-09, 04:30:38](https://news.ycombinator.com/item?id=46941603) - [Claude's C Compiler vs. GCC](https://harshanu.space/en/tech/ccc-vs-gcc/)
+* [2026-02-09, 03:49:52](https://news.ycombinator.com/item?id=46941383) - [Sekka Zusetsu: A Book of Snowflakes (1832)](https://publicdomainreview.org/collection/japanese-snowflake-book/)
 * [2026-02-09, 03:34:21](https://news.ycombinator.com/item?id=46941280) - [NanoClaw now supports Claude's Agent Swarms in containers](https://twitter.com/Gavriel_Cohen/status/2020701159175155874)

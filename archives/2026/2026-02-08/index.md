@@ -49,6 +49,7 @@
 * [2026-02-08, 13:40:56](https://news.ycombinator.com/item?id=46934107) - [GitHub Agentic Workflows](https://github.github.io/gh-aw/)
 * [2026-02-08, 13:18:37](https://news.ycombinator.com/item?id=46933955) - [Like Game-of-Life, but on Growing Graphs, with WASM and WebGL](https://znah.net/graphs/)
 * [2026-02-08, 12:45:56](https://news.ycombinator.com/item?id=46933779) - [Lance table format explained simply, stupid (Animated)](https://tontinton.com/posts/lance/)
+* [2026-02-08, 12:01:50](https://news.ycombinator.com/item?id=46933529) - [\"Nothing\" is the secret to structuring your work](https://www.vangemert.dev/blog/nothing)
 * [2026-02-08, 12:00:02](https://news.ycombinator.com/item?id=46933515) - [Show HN: Fine-tuned Qwen2.5-7B on 100 films for probabilistic story graphs](https://cinegraphs.ai/)
 * [2026-02-08, 11:47:02](https://news.ycombinator.com/item?id=46933444) - [My Eighth Year as a Bootstrapped Founder](https://mtlynch.io/bootstrapped-founder-year-8/)
 * [2026-02-08, 11:38:57](https://news.ycombinator.com/item?id=46933401) - [Dave Farber has passed away](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/)
