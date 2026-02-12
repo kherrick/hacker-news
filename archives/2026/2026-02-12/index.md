@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 22:18:01](https://news.ycombinator.com/item?id=46996067) - [Discord Just Killed Anonymity](https://michael-dev-tech.github.io/Website/matrix.html)
 * [2026-02-12, 20:57:33](https://news.ycombinator.com/item?id=46995046) - [Welcoming Discord users amidst the challenge of Age Verification](https://matrix.org/blog/2026/02/welcome-discord/)
 * [2026-02-12, 20:53:30](https://news.ycombinator.com/item?id=46995001) - [ICE, CBP Knew Facial Recognition App Couldn't Do What DHS Says It Could](https://www.techdirt.com/2026/02/12/ice-cbp-knew-facial-recognition-app-couldnt-do-what-dhs-says-it-could-deployed-it-anyway/)
 * [2026-02-12, 20:47:10](https://news.ycombinator.com/item?id=46994907) - [Realfood.gov includes a Grok search box](https://realfood.gov/#answers)

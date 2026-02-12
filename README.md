@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-12, 22:18:01](https://news.ycombinator.com/item?id=46996067) - [Discord Just Killed Anonymity](https://michael-dev-tech.github.io/Website/matrix.html)
 * [2026-02-12, 20:57:33](https://news.ycombinator.com/item?id=46995046) - [Welcoming Discord users amidst the challenge of Age Verification](https://matrix.org/blog/2026/02/welcome-discord/)
 * [2026-02-12, 20:53:30](https://news.ycombinator.com/item?id=46995001) - [ICE, CBP Knew Facial Recognition App Couldn't Do What DHS Says It Could](https://www.techdirt.com/2026/02/12/ice-cbp-knew-facial-recognition-app-couldnt-do-what-dhs-says-it-could-deployed-it-anyway/)
 * [2026-02-12, 20:44:17](https://news.ycombinator.com/item?id=46994869) - [Fixing retail with land value capture](https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/)
@@ -25,11 +26,10 @@
 * [2026-02-12, 13:13:30](https://news.ycombinator.com/item?id=46988438) - [Apache Arrow is 10 years old](https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/)
 * [2026-02-12, 12:23:05](https://news.ycombinator.com/item?id=46987919) - [The \"Crown of Nobles\" Noble Gas Tube Display (2024)](https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/)
 * [2026-02-12, 10:27:50](https://news.ycombinator.com/item?id=46987038) - [Show HN: Geo Racers – Race from London to Tokyo on a single bus pass](https://geo-racers.com/)
-* [2026-02-12, 06:54:39](https://news.ycombinator.com/item?id=46985609) - [Carl Sagan's Baloney Detection Kit: Tools for Thinking Critically (2025)](https://www.openculture.com/2025/09/the-carl-sagan-baloney-detection-kit.html)
 * [2026-02-09, 17:44:32](https://news.ycombinator.com/item?id=46948278) - [I Wrote a Scheme in 2025](https://maplant.com/2026-02-09-I-Wrote-a-Scheme-in-2025.html)
-* [2026-02-09, 13:48:18](https://news.ycombinator.com/item?id=46945148) - [Three Cache Layers Between Select and Disk](https://frn.sh/iops/)
 * [2026-02-09, 12:09:59](https://news.ycombinator.com/item?id=46944376) - [Partial 8-Piece Tablebase](https://lichess.org/@/Lichess/blog/op1-partial-8-piece-tablebase-available/1ptPBDpC)
 * [2026-02-07, 21:19:05](https://news.ycombinator.com/item?id=46928157) - [The Science of the Perfect Second (2023)](https://harpers.org/archive/2023/04/the-science-of-the-perfect-second/)
+* [2026-02-07, 21:14:08](https://news.ycombinator.com/item?id=46928105) - [Barn Owls Know When to Wait](https://blog.typeobject.com/posts/2026-barn-owls-know-when-to-wait/)
 
 ## [Archives](archives/index.md)
 
