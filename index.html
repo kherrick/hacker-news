@@ -129,6 +129,286 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="46991591">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=46991591"
+              >Launch HN: Omnara (YC S25) – Run Claude Code and Codex from
+              Anywhere</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-12 @ 17:14:28</span
+              ><span class="points-container"
+                >Points: <span class="points">34</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46991591"
+                  >Comments</a
+                ><span class="descendants">: 46</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.omnara.com/">https://www.omnara.com/</a>)
+              here. We’re building a web and mobile agentic IDE for Claude Code
+              and Codex that lets you run and interact with coding agents from
+              anywhere. Omnara lets you run Claude Code and Codex sessions on
+              your own machine, and exposes those sessions through a web and
+              mobile interface so you can stay involved even when you’re away
+              from your desk. Think of it like Claude Code Desktop or Conductor,
+              except you can continue your sessions on your phone.
+              <p>
+                Here’s a demo of the web and mobile apps -
+                <a href="https://youtu.be/R8Wmy4FLbhQ"
+                  >https://youtu.be/R8Wmy4FLbhQ</a
+                >
+              </p>
+              <p>
+                We started using Claude Code early last year and quickly ran
+                into a pattern: agents could work for long stretches on their
+                own, but progress would stall whenever they needed follow-up
+                input. If that happened while we were away from our desks,
+                everything just paused. We looked at remote agent solutions like
+                Codex Web and Devin, which were the main options at the time,
+                but they ran in remote VMs, and we wanted our coding agent to
+                run in our own environment. Our first attempt at solving this
+                was a lightweight wrapper that streamed messages from the Claude
+                Code CLI to a mobile app, but that approach ended up being
+                fragile and hard to maintain.
+              </p>
+              <p>
+                As the Claude Agent SDK matured, it gave us enough control to
+                rewrite Omnara from scratch and run the agent loop directly. We
+                chose to build a GUI across web and mobile instead of a TUI or
+                CLI, because we think GUIs are generally more ergonomic for
+                working with agents and code, especially on mobile. We still
+                preserve the main strength of CLIs and TUIs: running anywhere,
+                including on headless machines.
+              </p>
+              <p>
+                Omnara keeps that property by running a small headless daemon on
+                the user’s machine (or a remote VM) that hosts the agent loop.
+                The daemon maintains an authenticated, outbound WebSocket
+                connection to our server, which relays messages between the
+                agent running on the user’s machine and any connected web or
+                mobile clients. Because the daemon only makes outbound
+                connections, there’s no need for exposed ports, SSH access, or
+                tunneling on the user’s machine.
+              </p>
+              <p>
+                In our first version of Omnara, users liked that agent sessions
+                ran in their own environment, but they still depended on the
+                machine staying online. Some users ran Omnara on a remote
+                machine that stayed up, which worked well for them, though most
+                still did most of their work on laptops. In the current version,
+                Omnara can continue an agent session in a hosted remote sandbox
+                when your local machine goes offline.
+              </p>
+              <p>
+                The conversation state of an agent is already persisted on our
+                server, and you can optionally enable cloud syncing for the
+                working code. When syncing is enabled, Omnara creates git
+                commits at each turn in the conversation and pushes them to our
+                server, so execution can resume from the same state regardless
+                of whether it continues locally or in the cloud. If you continue
+                working in a remote sandbox, you can later pull any changes back
+                into your local environment when you return to your machine.
+                Environment parity in the sandbox isn’t perfect yet, but in
+                practice, missing dependencies are usually easy to resolve by
+                asking the agent to install them.
+              </p>
+              <p>
+                Another thing we learned from using the initial version of
+                Omnara is that mobile is fine for quick interactions, but not
+                great for extended back-and-forth. Users asked for a hands-free
+                way to keep agents moving while walking, driving, or doing
+                something else, which led us to add a voice agent. Coming from
+                more traditional software engineering backgrounds, we honestly
+                thought coding by talking to a voice agent would be gimmicky and
+                added it mostly as a fallback.
+              </p>
+              <p>
+                What surprised us is how useful the voice agent ended up being
+                in practice. When working with coding agents, being redundant
+                and overly explicit usually helps, and people naturally give
+                more detail when speaking than when typing. Going back and forth
+                with the agent as the conversation unfolds tends to produce a
+                much more solid plan than trying to one-shot it with a prompt
+                (this could technically also be done over text, but talking and
+                iterating over voice feels easier and more natural). It’s also
+                just fun. Talking through an idea with an agent while out on a
+                walk is a lot more enjoyable than staring at a terminal screen.
+              </p>
+              <p>To try it out, open your terminal and download Omnara with</p>
+              <p></p>
+              <pre><code>  curl -fsSL https://omnara.com/install/install.sh | bash
+</code></pre>
+              then run omnara inside any git repository. This starts a headless
+              Claude Code or Codex session in that repo, which immediately
+              appears in the Omnara web and mobile apps. From there, you can
+              continue that session or start new ones remotely (with or without
+              worktrees) and switch between the web and mobile clients without
+              interrupting the agent.
+              <p>
+                Omnara is free for 10 agent sessions per month, then $20/month
+                for unlimited sessions. When agents run in your own environment,
+                you can use your existing Claude or Codex subscription, so
+                there’s no need to pay us for additional tokens. If you use
+                Claude Code or Codex, we’d love to hear your feedback on Omnara!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="46991435">
+          <h3>
+            <a class="item" href="https://rickyromero.com/shutup/"
+              >Shut Up: Comment Blocker</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-12 @ 17:05:36</span
+              ><span class="points-container"
+                >Points: <span class="points">33</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46991435"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46991394">
+          <h3>
+            <a class="item" href="https://www.0xsid.com/blog/aidr">ai;dr</a>
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-12 @ 17:03:30</span
+              ><span class="points-container"
+                >Points: <span class="points">264</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46991394"
+                  >Comments</a
+                ><span class="descendants">: 130</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46991240">
+          <h3>
+            <a
+              class="item"
+              href="https://twitter.com/GoogleDeepMind/status/2021981510400709092"
+              >Gemini 3 Deep Think</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-12 @ 16:55:50</span
+              ><span class="points-container"
+                >Points: <span class="points">159</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46991240"
+                  >Comments</a
+                ><span class="descendants">: 57</span></span
+              >
+            </h4>
+            <div class="text">
+              <a
+                href="https://twitter.com/GoogleDeepMind/status/2021981510400709092"
+                >https://twitter.com/GoogleDeepMind/status/202198151040070909...</a
+              >
+            </div>
+          </section>
+        </section>
+        <section id="46991154">
+          <h3>
+            <a class="item" href="https://www.minimax.io/news/minimax-m25"
+              >MiniMax M2.5 released: 80.2% in SWE-bench Verified</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-12 @ 16:51:37</span
+              ><span class="points-container"
+                >Points: <span class="points">74</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46991154"
+                  >Comments</a
+                ><span class="descendants">: 15</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46990855">
+          <h3>
+            <a
+              class="item"
+              href="https://www.livescience.com/planet-earth/plants/china-has-planted-so-many-trees-around-the-taklamakan-desert-that-its-turned-this-biological-void-into-a-carbon-sink"
+              >So many trees planted in Taklamakan Desert that it's turned into
+              a carbon sink</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-12 @ 16:32:55</span
+              ><span class="points-container"
+                >Points: <span class="points">81</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46990855"
+                  >Comments</a
+                ><span class="descendants">: 19</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46990733">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/mutable-state-inc/lean-collab"
+              >Show HN: 20+ Claude Code agents coordinating on real work (open
+              source)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-12 @ 16:23:37</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46990733"
+                  >Comments</a
+                ><span class="descendants">: 22</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We’ve open-sourced a multi-agent orchestrator that we’ve been
+                using to handle long-running LLM tasks. We found that single LLM
+                agents tend to stall, loop, or generate non-compiling code, so
+                we built a harness for agents to coordinate over shared context
+                while work is in progress.
+              </p>
+              <p>
+                How it works: 1. Orchestrator agent that manages task
+                decomposition 2. Sub-agents for parallel work 3. Subscriptions
+                to task state and progress 4. Real-time sharing of intermediate
+                discoveries between agents
+              </p>
+              <p>
+                We tested this on a Putnam-level math problem, but the pattern
+                generalizes to things like refactors, app builds, and long
+                research. It’s packaged as a Claude Code skill and designed to
+                be small, readable, and modifiable.
+              </p>
+              <p>
+                Use it, break it, tell me about what workloads we should try and
+                run next!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="46990729">
           <h3>
             <a
@@ -141,11 +421,44 @@
             <h4>
               <span>2026-02-12 @ 16:23:24</span
               ><span class="points-container"
-                >Points: <span class="points">423</span></span
+                >Points: <span class="points">637</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46990729"
                   >Comments</a
-                ><span class="descendants">: 209</span></span
+                ><span class="descendants">: 308</span></span
+              >
+            </h4>
+            <div class="text">
+              <i
+                >AI agent opens a PR write a blogpost to shames the maintainer
+                who closes it</i
+              >
+              -
+              <a href="https://news.ycombinator.com/item?id=46987559"
+                >https://news.ycombinator.com/item?id=46987559</a
+              >
+              - Feb 2026 (582 comments)
+            </div>
+          </section>
+        </section>
+        <section id="46990578">
+          <h3>
+            <a
+              class="item"
+              href="https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver"
+              >Beginning autonomous operations with the 6th-generation Waymo
+              Driver</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-12 @ 16:10:29</span
+              ><span class="points-container"
+                >Points: <span class="points">34</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46990578"
+                  >Comments</a
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -162,11 +475,33 @@
             <h4>
               <span>2026-02-12 @ 15:35:45</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46990103"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 31</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46990056">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ft.com/content/c4f886a1-1633-418c-b6b5-16f700f8bb0d"
+              >US businesses and consumers pay 90% of tariff costs, New York Fed
+              says</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-12 @ 15:32:18</span
+              ><span class="points-container"
+                >Points: <span class="points">249</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46990056"
+                  >Comments</a
+                ><span class="descendants">: 204</span></span
               >
             </h4>
           </section>
@@ -183,11 +518,11 @@
             <h4>
               <span>2026-02-12 @ 14:56:18</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46989605"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -203,11 +538,11 @@
             <h4>
               <span>2026-02-12 @ 14:24:15</span
               ><span class="points-container"
-                >Points: <span class="points">231</span></span
+                >Points: <span class="points">275</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46989217"
                   >Comments</a
-                ><span class="descendants">: 154</span></span
+                ><span class="descendants">: 181</span></span
               >
             </h4>
           </section>
@@ -224,11 +559,11 @@
             <h4>
               <span>2026-02-12 @ 14:19:32</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46989151"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -245,11 +580,11 @@
             <h4>
               <span>2026-02-12 @ 14:17:37</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46989124"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -264,11 +599,11 @@
             <h4>
               <span>2026-02-12 @ 14:17:06</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46989117"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -286,11 +621,11 @@
             <h4>
               <span>2026-02-12 @ 14:16:10</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46989107"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 109</span></span
               >
             </h4>
           </section>
@@ -308,11 +643,11 @@
             <h4>
               <span>2026-02-12 @ 13:30:20</span
               ><span class="points-container"
-                >Points: <span class="points">299</span></span
+                >Points: <span class="points">357</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46988596"
                   >Comments</a
-                ><span class="descendants">: 134</span></span
+                ><span class="descendants">: 151</span></span
               >
             </h4>
           </section>
@@ -327,11 +662,11 @@
             <h4>
               <span>2026-02-12 @ 13:16:11</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46988462"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -348,11 +683,11 @@
             <h4>
               <span>2026-02-12 @ 13:13:30</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46988438"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -369,11 +704,11 @@
             <h4>
               <span>2026-02-12 @ 12:23:05</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46987919"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -391,33 +726,11 @@
             <h4>
               <span>2026-02-12 @ 11:46:01</span
               ><span class="points-container"
-                >Points: <span class="points">729</span></span
+                >Points: <span class="points">764</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46987559"
                   >Comments</a
-                ><span class="descendants">: 568</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46987425">
-          <h3>
-            <a
-              class="item"
-              href="https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/"
-              >Byte magazine artist Robert Tinney, who illustrated the birth of
-              PCs, dies at 78</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-12 @ 11:26:15</span
-              ><span class="points-container"
-                >Points: <span class="points">107</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46987425"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 604</span></span
               >
             </h4>
           </section>
@@ -434,7 +747,7 @@
             <h4>
               <span>2026-02-12 @ 08:35:34</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46986248"
                   >Comments</a
@@ -456,11 +769,11 @@
             <h4>
               <span>2026-02-12 @ 06:54:39</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46985609"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -475,74 +788,13 @@
             <h4>
               <span>2026-02-12 @ 05:18:49</span
               ><span class="points-container"
-                >Points: <span class="points">788</span></span
+                >Points: <span class="points">823</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46985151"
                   >Comments</a
-                ><span class="descendants">: 250</span></span
+                ><span class="descendants">: 256</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="46984735">
-          <h3>
-            <a class="item" href="https://essays.fnnch.com/make-a-living"
-              >How to make a living as an artist</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-12 @ 03:56:26</span
-              ><span class="points-container"
-                >Points: <span class="points">188</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46984735"
-                  >Comments</a
-                ><span class="descendants">: 102</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46982943">
-          <h3>
-            <a
-              class="item"
-              href="https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0"
-              >Hologram v0.7.0: Milestone release for Elixir-to-JavaScript
-              porting initiative</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-11 @ 23:54:59</span
-              ><span class="points-container"
-                >Points: <span class="points">93</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46982943"
-                  >Comments</a
-                ><span class="descendants">: 23</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                This release is a milestone for our porting initiative. 49
-                contributors ported 150 Erlang functions across 19 modules,
-                pushing client-side Erlang runtime coverage from 34% to 96% and
-                overall Elixir standard library readiness from 74% to 87%.
-              </p>
-              <p>
-                This means the vast majority of Elixir standard library
-                functions needed for full-stack web and basic local-first apps
-                now work in the browser - string processing, collections, sets,
-                binary operations, Unicode normalization, math, time operations,
-                file path handling, and more.
-              </p>
-              <p>
-                Beyond porting, the release includes enhancements, bug fixes,
-                and infrastructure groundwork.
-              </p>
-              <p>Happy to answer any questions!</p>
-            </div>
           </section>
         </section>
         <section id="46982421">
@@ -555,178 +807,11 @@
             <h4>
               <span>2026-02-11 @ 22:56:41</span
               ><span class="points-container"
-                >Points: <span class="points">902</span></span
+                >Points: <span class="points">905</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46982421"
                   >Comments</a
-                ><span class="descendants">: 418</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46978490">
-          <h3>
-            <a
-              class="item"
-              href="https://netnewswire.blog/2026/02/11/netnewswire-turns.html"
-              >NetNewsWire Turns 23</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-11 @ 18:06:11</span
-              ><span class="points-container"
-                >Points: <span class="points">327</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46978490"
-                  >Comments</a
-                ><span class="descendants">: 93</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46977175">
-          <h3>
-            <a
-              class="item"
-              href="https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/"
-              >Ireland rolls out basic income scheme for artists</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-11 @ 16:39:11</span
-              ><span class="points-container"
-                >Points: <span class="points">457</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46977175"
-                  >Comments</a
-                ><span class="descendants">: 597</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46976911">
-          <h3>
-            <a class="item" href="https://fluorite.game/"
-              >Fluorite – A console-grade game engine fully integrated with
-              Flutter</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-11 @ 16:21:10</span
-              ><span class="points-container"
-                >Points: <span class="points">518</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46976911"
-                  >Comments</a
-                ><span class="descendants">: 295</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://fosdem.org/2026/schedule/event/7ZJJWW-fluorite-game-engine-flutter/"
-                >https://fosdem.org/2026/schedule/event/7ZJJWW-fluorite-game-...</a
-              >
-            </div>
-          </section>
-        </section>
-        <section id="46974853">
-          <h3>
-            <a class="item" href="https://z.ai/blog/glm-5"
-              >GLM-5: Targeting complex systems engineering and long-horizon
-              agentic tasks</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-11 @ 13:42:16</span
-              ><span class="points-container"
-                >Points: <span class="points">449</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46974853"
-                  >Comments</a
-                ><span class="descendants">: 505</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46953567">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=46953567"
-              >Show HN: Inamate – Open-source 2D animation tool (alternative to
-              Adobe Animate)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-10 @ 00:15:54</span
-              ><span class="points-container"
-                >Points: <span class="points">9</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46953567"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Regardless of what Adobe decides next, the message was clear:
-                animators who depend on proprietary tools are one corporate
-                decision away from losing their workflow.
-              </p>
-              <p>
-                2D animation deserves an open-source option that isn't a toy.
-                We've been working with a professional animator to guide feature
-                priorities and ensure we're building something that actually
-                fits real production workflows - not just a tech demo.
-              </p>
-              <p>
-                Github Repo:
-                <a href="https://github.com/17twenty/inamate"
-                  >https://github.com/17twenty/inamate</a
-                >
-              </p>
-              <p>
-                We're at the stage where community feedback shapes the
-                direction. If you're an animator, motion designer, or just
-                someone who's been frustrated by the state of 2D animation tools
-                — we'd love to hear:
-              </p>
-              <p>
-                - What features would make you switch from your current tool?
-              </p>
-              <p>- What's the biggest pain point in your animation workflow?</p>
-              <p>
-                - Is real-time collaboration actually useful for animation, or
-                is it a gimmick?
-              </p>
-              <p>Try it out, break it, and tell us what you think.</p>
-              <p>
-                Built with Go, TS &amp; React, WebAssembly, PostgreSQL,
-                WebSocket, ffmpeg (for video exports).
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="46949814">
-          <h3>
-            <a
-              class="item"
-              href="https://ntietz.com/blog/using-an-engineering-notebook/"
-              >Using an engineering notebook</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-09 @ 19:29:53</span
-              ><span class="points-container"
-                >Points: <span class="points">281</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46949814"
-                  >Comments</a
-                ><span class="descendants">: 115</span></span
+                ><span class="descendants">: 426</span></span
               >
             </h4>
           </section>
@@ -743,11 +828,11 @@
             <h4>
               <span>2026-02-09 @ 17:44:32</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46948278"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -762,32 +847,30 @@
             <h4>
               <span>2026-02-09 @ 14:57:25</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46945907"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46942864">
+        <section id="46935896">
           <h3>
-            <a
-              class="item"
-              href="https://maxhalford.github.io/blog/text-classification-zstd/"
-              >Text classification with Python 3.14's ZSTD module</a
+            <a class="item" href="https://v8.dev/blog/fast-properties"
+              >Fast Properties in V8 (2017)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-09 @ 08:14:28</span
+              <span>2026-02-08 @ 16:37:56</span
               ><span class="points-container"
-                >Points: <span class="points">249</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46942864"
+                ><a href="https://news.ycombinator.com/item?id=46935896"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -802,11 +885,11 @@
             <h4>
               <span>2026-02-08 @ 12:01:50</span
               ><span class="points-container"
-                >Points: <span class="points">398</span></span
+                >Points: <span class="points">402</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46933529"
                   >Comments</a
-                ><span class="descendants">: 159</span></span
+                ><span class="descendants">: 164</span></span
               >
             </h4>
           </section>
