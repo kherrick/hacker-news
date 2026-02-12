@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 20:27:17](https://news.ycombinator.com/item?id=46994633) - [I was insulted today – AI style](https://forkingmad.blog/insulted-today-ai/)
+* [2026-02-12, 19:59:52](https://news.ycombinator.com/item?id=46994255) - [Show HN: Generate Web Interfaces from Data](https://github.com/puffinsoft/syntux)
+* [2026-02-12, 19:32:02](https://news.ycombinator.com/item?id=46993829) - [Googlers Demand Worker Safety and ICE Contract Transparency](https://www.googlers-against-ice.com)
 * [2026-02-12, 19:15:47](https://news.ycombinator.com/item?id=46993596) - [Show HN: rari, the rust-powered react framework](https://rari.build/)
 * [2026-02-12, 19:03:27](https://news.ycombinator.com/item?id=46993417) - [A party balloon shut down El Paso International Airport; estimated cost –$573k](https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History)
 * [2026-02-12, 19:01:37](https://news.ycombinator.com/item?id=46993393) - [HDRify: True HDR image viewer, and tool set in pure JavaScript](https://hdrify.benhouston3d.com/?image=%2Fexamples%2Fmoonless_golf_1k.hdr)
