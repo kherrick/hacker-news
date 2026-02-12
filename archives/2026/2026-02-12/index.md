@@ -4,8 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 17:14:28](https://news.ycombinator.com/item?id=46991591) - [Launch HN: Omnara (YC S25) – Run Claude Code and Codex from Anywhere](https://news.ycombinator.com/item?id=46991591)
+* [2026-02-12, 17:05:36](https://news.ycombinator.com/item?id=46991435) - [Shut Up: Comment Blocker](https://rickyromero.com/shutup/)
+* [2026-02-12, 17:03:30](https://news.ycombinator.com/item?id=46991394) - [ai;dr](https://www.0xsid.com/blog/aidr)
+* [2026-02-12, 16:55:50](https://news.ycombinator.com/item?id=46991240) - [Gemini 3 Deep Think](https://twitter.com/GoogleDeepMind/status/2021981510400709092)
+* [2026-02-12, 16:51:37](https://news.ycombinator.com/item?id=46991154) - [MiniMax M2.5 released: 80.2% in SWE-bench Verified](https://www.minimax.io/news/minimax-m25)
+* [2026-02-12, 16:32:55](https://news.ycombinator.com/item?id=46990855) - [So many trees planted in Taklamakan Desert that it's turned into a carbon sink](https://www.livescience.com/planet-earth/plants/china-has-planted-so-many-trees-around-the-taklamakan-desert-that-its-turned-this-biological-void-into-a-carbon-sink)
+* [2026-02-12, 16:23:37](https://news.ycombinator.com/item?id=46990733) - [Show HN: 20+ Claude Code agents coordinating on real work (open source)](https://github.com/mutable-state-inc/lean-collab)
 * [2026-02-12, 16:23:24](https://news.ycombinator.com/item?id=46990729) - [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+* [2026-02-12, 16:10:29](https://news.ycombinator.com/item?id=46990578) - [Beginning autonomous operations with the 6th-generation Waymo Driver](https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver)
 * [2026-02-12, 15:35:45](https://news.ycombinator.com/item?id=46990103) - [Lines of Code Are Back (and It's Worse Than Before)](https://www.thepragmaticcto.com/p/lines-of-code-are-back-and-its-worse)
+* [2026-02-12, 15:32:18](https://news.ycombinator.com/item?id=46990056) - [US businesses and consumers pay 90% of tariff costs, New York Fed says](https://www.ft.com/content/c4f886a1-1633-418c-b6b5-16f700f8bb0d)
 * [2026-02-12, 14:56:18](https://news.ycombinator.com/item?id=46989605) - [A brief history of barbed wire fence telephone networks](https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/)
 * [2026-02-12, 14:38:05](https://news.ycombinator.com/item?id=46989379) - [Kim Jong Un chooses teen daughter as heir](https://www.bbc.com/news/articles/cn0e1g7kwglo)
 * [2026-02-12, 14:24:15](https://news.ycombinator.com/item?id=46989217) - [Email is tough: Major European Payment Processor's Emails rejected by GWorkspace](https://atha.io/blog/2026-02-12-viva)

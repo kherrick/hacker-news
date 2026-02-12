@@ -35,6 +35,7 @@
 * [2026-02-08, 16:47:08](https://news.ycombinator.com/item?id=46935991) - [Omega-3 is inversely related to risk of early-onset dementia](https://pubmed.ncbi.nlm.nih.gov/41506004/)
 * [2026-02-08, 16:45:49](https://news.ycombinator.com/item?id=46935980) - [Vouch](https://github.com/mitchellh/vouch)
 * [2026-02-08, 16:41:05](https://news.ycombinator.com/item?id=46935931) - [Credentials for Linux: Bringing Passkeys to the Linux Desktop](https://alfioemanuele.io/talks/2026/02/01/fosdem-2026-credentials-for-linux.html)
+* [2026-02-08, 16:37:56](https://news.ycombinator.com/item?id=46935896) - [Fast Properties in V8 (2017)](https://v8.dev/blog/fast-properties)
 * [2026-02-08, 16:28:51](https://news.ycombinator.com/item?id=46935791) - [I put a real-time 3D shader on the Game Boy Color](https://blog.otterstack.com/posts/202512-gbshader/)
 * [2026-02-08, 15:29:22](https://news.ycombinator.com/item?id=46935104) - [Five disciplines discovered the same math independently – none of them knew](https://freethemath.org)
 * [2026-02-08, 15:21:21](https://news.ycombinator.com/item?id=46935011) - [Noam Chomsky's wife responds to Epstein controversy](https://www.aaronmate.net/p/noam-chomskys-wife-responds-to-epstein)
