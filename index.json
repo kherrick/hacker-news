@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-12, 05:18:49",
+      "https://news.ycombinator.com/item?id=46985151"
+    ],
+    [
+      "Warcraft III Peon Voice Notifications for Claude Code",
+      "https://github.com/tonyyont/peon-ping"
+    ]
+  ],
+  [
+    [
       "2026-02-12, 05:18:09",
       "https://news.ycombinator.com/item?id=46985147"
     ],
@@ -27,6 +37,16 @@
     [
       "The Problem with LLMs",
       "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/"
+    ]
+  ],
+  [
+    [
+      "2026-02-12, 00:20:30",
+      "https://news.ycombinator.com/item?id=46983196"
+    ],
+    [
+      "Heroku is not dead",
+      "https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
       "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 19:39:43",
-      "https://news.ycombinator.com/item?id=46979781"
-    ],
-    [
-      "Show HN: Agent framework that generates its own topology and evolves at runtime",
-      "https://github.com/adenhq/hive/blob/main/README.md"
     ]
   ],
   [
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2026-02-09, 15:01:16",
-      "https://news.ycombinator.com/item?id=46945962"
+      "2026-02-09, 14:57:25",
+      "https://news.ycombinator.com/item?id=46945907"
     ],
     [
-      "Trying Out Thunderbird Appointment While I Patiently Wait for an Invite",
-      "https://blog.matthewbrunelle.com/trying-out-thunderbird-appointment-while-i-patiently-await-for-an-invite/"
+      "HeyWhatsThat",
+      "https://www.heywhatsthat.com/faq.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Text classification with Python 3.14's ZSTD module",
       "https://maxhalford.github.io/blog/text-classification-zstd/"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 03:49:52",
-      "https://news.ycombinator.com/item?id=46941383"
-    ],
-    [
-      "Sekka Zusetsu: A Book of Snowflakes (1832)",
-      "https://publicdomainreview.org/collection/japanese-snowflake-book/"
     ]
   ],
   [
