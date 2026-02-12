@@ -67,3 +67,4 @@
 * [2026-02-09, 04:30:38](https://news.ycombinator.com/item?id=46941603) - [Claude's C Compiler vs. GCC](https://harshanu.space/en/tech/ccc-vs-gcc/)
 * [2026-02-09, 03:49:52](https://news.ycombinator.com/item?id=46941383) - [Sekka Zusetsu: A Book of Snowflakes (1832)](https://publicdomainreview.org/collection/japanese-snowflake-book/)
 * [2026-02-09, 03:34:21](https://news.ycombinator.com/item?id=46941280) - [NanoClaw now supports Claude's Agent Swarms in containers](https://twitter.com/Gavriel_Cohen/status/2020701159175155874)
+* [2026-02-09, 02:36:09](https://news.ycombinator.com/item?id=46940959) - [Quitting](https://thepointmag.com/examined-life/quitting/)

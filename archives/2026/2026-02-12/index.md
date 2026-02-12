@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 14:17:06](https://news.ycombinator.com/item?id=46989117) - [The Future for Tyr, a Rust GPU Driver for Arm Mali Hardware](https://lwn.net/Articles/1055590/)
+* [2026-02-12, 14:16:10](https://news.ycombinator.com/item?id=46989107) - [Apple patches decade-old iOS zero-day, possibly exploited by commercial spyware](https://www.theregister.com/2026/02/12/apple_ios_263/)
+* [2026-02-12, 14:00:46](https://news.ycombinator.com/item?id=46988928) - [I Regret to Inform You That the FDA Is FDAing Again](https://marginalrevolution.com/marginalrevolution/2026/02/i-regret-to-inform-you-that-the-fda-is-still-fdaing.html)
+* [2026-02-12, 13:30:20](https://news.ycombinator.com/item?id=46988596) - [Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed](http://blog.can.ac/2026/02/12/the-harness-problem/)
 * [2026-02-12, 12:27:23](https://news.ycombinator.com/item?id=46987963) - [America's Cyber Defense Agency Is Burning Down and Nobody's Coming to Put It Out](https://www.threathunter.ai/blog/americas-cyber-defense-agency-burning-down/)
 * [2026-02-12, 12:23:05](https://news.ycombinator.com/item?id=46987919) - [The \"Crown of Nobles\" Noble Gas Tube Display](https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/)
 * [2026-02-12, 11:46:01](https://news.ycombinator.com/item?id=46987559) - [AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://github.com/matplotlib/matplotlib/pull/31132)
