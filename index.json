@@ -1,22 +1,42 @@
 [
   [
     [
-      "2026-02-12, 19:15:47",
-      "https://news.ycombinator.com/item?id=46993596"
+      "2026-02-12, 20:27:17",
+      "https://news.ycombinator.com/item?id=46994633"
     ],
     [
-      "Show HN: rari, the rust-powered react framework",
-      "https://rari.build/"
+      "I was insulted today – AI style",
+      "https://forkingmad.blog/insulted-today-ai/"
     ]
   ],
   [
     [
-      "2026-02-12, 19:03:27",
-      "https://news.ycombinator.com/item?id=46993417"
+      "2026-02-12, 19:59:52",
+      "https://news.ycombinator.com/item?id=46994255"
     ],
     [
-      "A party balloon shut down El Paso International Airport; estimated cost –$573k",
-      "https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History"
+      "Show HN: Generate Web Interfaces from Data",
+      "https://github.com/puffinsoft/syntux"
+    ]
+  ],
+  [
+    [
+      "2026-02-12, 19:32:02",
+      "https://news.ycombinator.com/item?id=46993829"
+    ],
+    [
+      "Googlers Demand Worker Safety and ICE Contract Transparency",
+      "https://www.googlers-against-ice.com"
+    ]
+  ],
+  [
+    [
+      "2026-02-12, 19:15:47",
+      "https://news.ycombinator.com/item?id=46993596"
+    ],
+    [
+      "Rari – Rust-powered React framework",
+      "https://rari.build/"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=46992815"
     ],
     [
-      "Polis: Open-source platform to find common ground at scale",
+      "Polis: Open-source platform for large-scale civic deliberation",
       "https://pol.is/home2"
     ]
   ],
@@ -87,16 +107,6 @@
     [
       "Shut Up: Comment Blocker",
       "https://rickyromero.com/shutup/"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 17:03:30",
-      "https://news.ycombinator.com/item?id=46991394"
-    ],
-    [
-      "ai;dr",
-      "https://www.0xsid.com/blog/aidr"
     ]
   ],
   [
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=46990578"
     ],
     [
-      "Beginning autonomous operations with the 6th-generation Waymo Driver",
+      "Beginning fully autonomous operations with the 6th-generation Waymo driver",
       "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver"
     ]
   ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-02-09, 08:03:02",
-      "https://news.ycombinator.com/item?id=46942785"
+      "2026-02-07, 21:19:05",
+      "https://news.ycombinator.com/item?id=46928157"
     ],
     [
-      "1D Cellular Automata Playground",
-      "https://paraschopra.github.io/1d-ca/"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 16:37:56",
-      "https://news.ycombinator.com/item?id=46935896"
-    ],
-    [
-      "Fast Properties in V8 (2017)",
-      "https://v8.dev/blog/fast-properties"
+      "The Science of the Perfect Second (2023)",
+      "https://harpers.org/archive/2023/04/the-science-of-the-perfect-second/"
     ]
   ]
 ]
