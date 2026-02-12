@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 19:15:47](https://news.ycombinator.com/item?id=46993596) - [Show HN: rari, the rust-powered react framework](https://rari.build/)
+* [2026-02-12, 19:03:27](https://news.ycombinator.com/item?id=46993417) - [A party balloon shut down El Paso International Airport; estimated cost –$573k](https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History)
+* [2026-02-12, 19:01:37](https://news.ycombinator.com/item?id=46993393) - [HDRify: True HDR image viewer, and tool set in pure JavaScript](https://hdrify.benhouston3d.com/?image=%2Fexamples%2Fmoonless_golf_1k.hdr)
 * [2026-02-12, 18:23:20](https://news.ycombinator.com/item?id=46992815) - [Polis: Open-source platform to find common ground at scale](https://pol.is/home2)
 * [2026-02-12, 18:06:09](https://news.ycombinator.com/item?id=46992553) - [GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
+* [2026-02-12, 17:42:48](https://news.ycombinator.com/item?id=46992136) - [Show HN: Pgclaw – A \"Clawdbot\" in every row with 400 lines of Postgres SQL](https://github.com/calebwin/pgclaw)
 * [2026-02-12, 17:14:28](https://news.ycombinator.com/item?id=46991591) - [Launch HN: Omnara (YC S25) – Run Claude Code and Codex from Anywhere](https://news.ycombinator.com/item?id=46991591)
 * [2026-02-12, 17:05:36](https://news.ycombinator.com/item?id=46991435) - [Shut Up: Comment Blocker](https://rickyromero.com/shutup/)
 * [2026-02-12, 17:03:30](https://news.ycombinator.com/item?id=46991394) - [ai;dr](https://www.0xsid.com/blog/aidr)
