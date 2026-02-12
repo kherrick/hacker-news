@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-02-12, 18:23:20",
+      "https://news.ycombinator.com/item?id=46992815"
+    ],
+    [
+      "Polis: Open-source platform to find common ground at scale",
+      "https://pol.is/home2"
+    ]
+  ],
+  [
+    [
+      "2026-02-12, 18:06:09",
+      "https://news.ycombinator.com/item?id=46992553"
+    ],
+    [
+      "GPT‑5.3‑Codex‑Spark",
+      "https://openai.com/index/introducing-gpt-5-3-codex-spark/"
+    ]
+  ],
+  [
+    [
       "2026-02-12, 17:14:28",
       "https://news.ycombinator.com/item?id=46991591"
     ],
     [
-      "Launch HN: Omnara (YC S25) – Run Claude Code and Codex from Anywhere",
+      "Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere",
       "https://news.ycombinator.com/item?id=46991591"
     ]
   ],
@@ -36,7 +56,7 @@
     ],
     [
       "Gemini 3 Deep Think",
-      "https://twitter.com/GoogleDeepMind/status/2021981510400709092"
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=46990729"
     ],
     [
-      "An AI Agent Published a Hit Piece on Me",
+      "An AI agent published a hit piece on me",
       "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/"
     ]
   ],
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=46989217"
     ],
     [
-      "Email is tough: Major European Payment Processor's Emails rejected by GWorkspace",
+      "Major European payment processor can't send email to Google Workspace users",
       "https://atha.io/blog/2026-02-12-viva"
     ]
   ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-02-12, 11:46:01",
-      "https://news.ycombinator.com/item?id=46987559"
-    ],
-    [
-      "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
-      "https://github.com/matplotlib/matplotlib/pull/31132"
-    ]
-  ],
-  [
-    [
       "2026-02-12, 08:35:34",
       "https://news.ycombinator.com/item?id=46986248"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-02-11, 22:56:41",
-      "https://news.ycombinator.com/item?id=46982421"
-    ],
-    [
-      "Discord/Twitch/Snapchat age verification bypass",
-      "https://age-verifier.kibty.town/"
-    ]
-  ],
-  [
-    [
       "2026-02-09, 17:44:32",
       "https://news.ycombinator.com/item?id=46948278"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-02-09, 14:57:25",
-      "https://news.ycombinator.com/item?id=46945907"
+      "2026-02-09, 08:03:02",
+      "https://news.ycombinator.com/item?id=46942785"
     ],
     [
-      "HeyWhatsThat",
-      "https://www.heywhatsthat.com/faq.html"
+      "1D Cellular Automata Playground",
+      "https://paraschopra.github.io/1d-ca/"
     ]
   ],
   [
