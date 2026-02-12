@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 09:25:17](https://news.ycombinator.com/item?id=46986614) - [Show HN: A free online British accent generator for instant voice conversion](https://audioconvert.ai/british-accent-generator)
 * [2026-02-12, 09:06:20](https://news.ycombinator.com/item?id=46986496) - [From specification to stress test: a weekend with Claude](https://www.juxt.pro/blog/from-specification-to-stress-test/)
 * [2026-02-12, 08:35:34](https://news.ycombinator.com/item?id=46986248) - [The missing digit of Stela C](https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/)
 * [2026-02-12, 08:01:37](https://news.ycombinator.com/item?id=46986064) - [Show HN: Huesnatch – 6 free color tools for designers, no login, no uploads](https://github.com/huesnatch/huesnatch)
