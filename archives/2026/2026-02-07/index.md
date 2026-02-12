@@ -39,6 +39,7 @@
 * [2026-02-07, 12:53:39](https://news.ycombinator.com/item?id=46923463) - [Reinforcement Learning from Human Feedback](https://rlhfbook.com/)
 * [2026-02-07, 12:53:39](https://news.ycombinator.com/item?id=46923463) - [Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501)
 * [2026-02-07, 12:18:20](https://news.ycombinator.com/item?id=46923254) - [Hoot: Scheme on WebAssembly](https://www.spritely.institute/hoot/)
+* [2026-02-07, 11:38:12](https://news.ycombinator.com/item?id=46923051) - [RISC-V Vector Primer](https://github.com/simplex-micro/riscv-vector-primer/blob/main/index.md)
 * [2026-02-07, 11:31:11](https://news.ycombinator.com/item?id=46923009) - [Flirt: The Native Backend](https://blog.buenzli.dev/flirt-native-backend/)
 * [2026-02-07, 11:21:29](https://news.ycombinator.com/item?id=46922969) - [The AI boom is causing shortages everywhere else](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 * [2026-02-07, 09:10:26](https://news.ycombinator.com/item?id=46922453) - [Rome is studded with cannon balls (2022)](https://essenceofrome.com/rome-is-studded-with-cannon-balls)

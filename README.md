@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-12, 07:52:49](https://news.ycombinator.com/item?id=46986001) - [65 Lines of Markdown, a Claude Code Sensation](https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html)
 * [2026-02-12, 05:18:49](https://news.ycombinator.com/item?id=46985151) - [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
 * [2026-02-12, 05:18:09](https://news.ycombinator.com/item?id=46985147) - [D Programming Language](https://dlang.org/)
 * [2026-02-12, 03:56:26](https://news.ycombinator.com/item?id=46984735) - [How to make a living as an artist](https://essays.fnnch.com/make-a-living)
@@ -9,7 +10,6 @@
 * [2026-02-11, 22:56:41](https://news.ycombinator.com/item?id=46982421) - [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
 * [2026-02-11, 21:12:59](https://news.ycombinator.com/item?id=46981058) - [Covering electricity price increases from our data centers](https://www.anthropic.com/news/covering-electricity-price-increases)
 * [2026-02-11, 20:20:48](https://news.ycombinator.com/item?id=46980355) - [Reports of Telnet's death have been greatly exaggerated](https://www.terracenetworks.com/blog/2026-02-11-telnet-routing)
-* [2026-02-11, 20:15:21](https://news.ycombinator.com/item?id=46980273) - [Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums](https://agentalcove.ai)
 * [2026-02-11, 19:59:17](https://news.ycombinator.com/item?id=46980039) - [Apple's latest attempt to launch the new Siri runs into snags](https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27)
 * [2026-02-11, 19:50:43](https://news.ycombinator.com/item?id=46979936) - [Microwave Oven Failure: Spontaneously turned on by its LED display (2024)](https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/)
 * [2026-02-11, 18:43:01](https://news.ycombinator.com/item?id=46978966) - [Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash)
@@ -27,7 +27,7 @@
 * [2026-02-08, 12:01:50](https://news.ycombinator.com/item?id=46933529) - [“Nothing” is the secret to structuring your work](https://www.vangemert.dev/blog/nothing)
 * [2026-02-08, 02:03:27](https://news.ycombinator.com/item?id=46930602) - [The other Markov's inequality](https://www.ethanepperly.com/index.php/2026/01/16/the-other-markovs-inequality/)
 * [2026-02-07, 14:15:36](https://news.ycombinator.com/item?id=46924075) - [GLM-OCR – A multimodal OCR model for complex document understanding](https://github.com/zai-org/GLM-OCR)
-* [2026-02-07, 13:09:12](https://news.ycombinator.com/item?id=46923554) - [Hacking the last Z80 computer – FOSDEM 2026 [video]](https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/)
+* [2026-02-07, 11:38:12](https://news.ycombinator.com/item?id=46923051) - [RISC-V Vector Primer](https://github.com/simplex-micro/riscv-vector-primer/blob/main/index.md)
 * [2026-02-07, 06:19:05](https://news.ycombinator.com/item?id=46921757) - [Kanchipuram Saris and Thinking Machines](https://altermag.com/articles/kanchipuram-saris-and-thinking-machines)
 * [2026-02-07, 01:16:42](https://news.ycombinator.com/item?id=46920315) - [WiFi could become an invisible mass surveillance system](https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/)
 

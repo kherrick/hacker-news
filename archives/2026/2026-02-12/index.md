@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 07:52:49](https://news.ycombinator.com/item?id=46986001) - [65 Lines of Markdown, a Claude Code Sensation](https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html)
 * [2026-02-12, 05:18:49](https://news.ycombinator.com/item?id=46985151) - [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
 * [2026-02-12, 05:18:09](https://news.ycombinator.com/item?id=46985147) - [D Programming Language](https://dlang.org/)
 * [2026-02-12, 03:56:26](https://news.ycombinator.com/item?id=46984735) - [How to Make a Living as an Artist](https://essays.fnnch.com/make-a-living)
