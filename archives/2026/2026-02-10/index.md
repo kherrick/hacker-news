@@ -68,4 +68,5 @@
 * [2026-02-10, 01:26:42](https://news.ycombinator.com/item?id=46954136) - [Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)
 * [2026-02-10, 01:17:35](https://news.ycombinator.com/item?id=46954049) - [Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c)
 * [2026-02-10, 00:46:14](https://news.ycombinator.com/item?id=46953815) - [Zulip.com Values](https://zulip.com/values/)
+* [2026-02-10, 00:15:54](https://news.ycombinator.com/item?id=46953567) - [Show HN: Inamate – Open-source 2D animation tool (alternative to Adobe Animate)](https://news.ycombinator.com/item?id=46953567)
 * [2026-02-10, 00:07:44](https://news.ycombinator.com/item?id=46953491) - [What functional programmers get wrong about systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)

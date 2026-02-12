@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 16:23:24](https://news.ycombinator.com/item?id=46990729) - [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+* [2026-02-12, 15:35:45](https://news.ycombinator.com/item?id=46990103) - [Lines of Code Are Back (and It's Worse Than Before)](https://www.thepragmaticcto.com/p/lines-of-code-are-back-and-its-worse)
 * [2026-02-12, 14:56:18](https://news.ycombinator.com/item?id=46989605) - [A brief history of barbed wire fence telephone networks](https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/)
 * [2026-02-12, 14:38:05](https://news.ycombinator.com/item?id=46989379) - [Kim Jong Un chooses teen daughter as heir](https://www.bbc.com/news/articles/cn0e1g7kwglo)
 * [2026-02-12, 14:24:15](https://news.ycombinator.com/item?id=46989217) - [Email is tough: Major European Payment Processor's Emails rejected by GWorkspace](https://atha.io/blog/2026-02-12-viva)
+* [2026-02-12, 14:19:32](https://news.ycombinator.com/item?id=46989151) - [TikTok is tracking you, even if you don't use the app](https://www.bbc.com/future/article/20260210-tiktok-is-tracking-you-even-if-you-dont-use-the-app-heres-how-to-stop-it)
 * [2026-02-12, 14:17:37](https://news.ycombinator.com/item?id=46989124) - [Culture Is the Mass-Synchronization of Framings](https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings)
 * [2026-02-12, 14:17:06](https://news.ycombinator.com/item?id=46989117) - [The Future for Tyr, a Rust GPU Driver for Arm Mali Hardware](https://lwn.net/Articles/1055590/)
 * [2026-02-12, 14:16:10](https://news.ycombinator.com/item?id=46989107) - [Apple patches decade-old iOS zero-day, possibly exploited by commercial spyware](https://www.theregister.com/2026/02/12/apple_ios_263/)
