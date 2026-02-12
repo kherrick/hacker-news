@@ -31,26 +31,6 @@
   ],
   [
     [
-      "2026-02-12, 20:27:27",
-      "https://news.ycombinator.com/item?id=46994636"
-    ],
-    [
-      "What's the difference between a \"disc\" and a \"disk\"? (2023)",
-      "https://support.apple.com/en-gb/100749"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 20:27:17",
-      "https://news.ycombinator.com/item?id=46994633"
-    ],
-    [
-      "I was insulted today – AI style",
-      "https://forkingmad.blog/insulted-today-ai/"
-    ]
-  ],
-  [
-    [
       "2026-02-12, 19:59:52",
       "https://news.ycombinator.com/item?id=46994255"
     ],
@@ -107,6 +87,16 @@
     [
       "GPT‑5.3‑Codex‑Spark",
       "https://openai.com/index/introducing-gpt-5-3-codex-spark/"
+    ]
+  ],
+  [
+    [
+      "2026-02-12, 17:42:48",
+      "https://news.ycombinator.com/item?id=46992136"
+    ],
+    [
+      "Show HN: Pgclaw – A \"Clawdbot\" in every row with 400 lines of Postgres SQL",
+      "https://github.com/calebwin/pgclaw"
     ]
   ],
   [
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2026-02-12, 03:56:26",
-      "https://news.ycombinator.com/item?id=46984735"
+      "2026-02-09, 17:44:32",
+      "https://news.ycombinator.com/item?id=46948278"
     ],
     [
-      "How to make a living as an artist",
-      "https://essays.fnnch.com/make-a-living"
+      "I Wrote a Scheme in 2025",
+      "https://maplant.com/2026-02-09-I-Wrote-a-Scheme-in-2025.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 13:48:18",
+      "https://news.ycombinator.com/item?id=46945148"
+    ],
+    [
+      "Three Cache Layers Between Select and Disk",
+      "https://frn.sh/iops/"
     ]
   ],
   [
