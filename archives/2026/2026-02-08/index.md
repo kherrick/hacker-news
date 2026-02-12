@@ -19,6 +19,7 @@
 * [2026-02-08, 20:31:11](https://news.ycombinator.com/item?id=46938217) - [The 'Little red dots' observed by Webb were direct-collapse black holes](https://phys.org/news/2026-02-red-dots-webb-collapse-black.html)
 * [2026-02-08, 20:22:29](https://news.ycombinator.com/item?id=46938147) - [Amazon delivery drone strikes North Texas apartment, causing minor damage](https://www.expressnews.com/news/texas/article/amazon-delivery-drone-crash-richardson-texas-21341387.php)
 * [2026-02-08, 19:35:55](https://news.ycombinator.com/item?id=46937696) - [Ask HN: What are you working on? (February 2026)](https://news.ycombinator.com/item?id=46937696)
+* [2026-02-08, 19:09:28](https://news.ycombinator.com/item?id=46937427) - [Deobfuscation and Analysis of Ring-1.io](https://back.engineering/blog/04/02/2026/)
 * [2026-02-08, 18:58:47](https://news.ycombinator.com/item?id=46937332) - [Tech Independence](https://sive.rs/ti)
 * [2026-02-08, 18:24:26](https://news.ycombinator.com/item?id=46937012) - [Roundcube Webmail: SVG feImage bypasses image blocking to track email opens](https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/)
 * [2026-02-08, 18:13:48](https://news.ycombinator.com/item?id=46936920) - [Experts Have World Models. LLMs Have Word Models](https://www.latent.space/p/adversarial-reasoning)

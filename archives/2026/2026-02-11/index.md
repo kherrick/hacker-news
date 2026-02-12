@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-11](index.md)
 
+* [2026-02-11, 23:54:59](https://news.ycombinator.com/item?id=46982943) - [From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0](https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0)
 * [2026-02-11, 23:37:11](https://news.ycombinator.com/item?id=46982792) - [GPT-5 outperforms federal judges in legal reasoning experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012)
 * [2026-02-11, 23:34:29](https://news.ycombinator.com/item?id=46982762) - [Rare, dangerous side effects of some Covid-19 vaccines explained](https://www.science.org/content/article/rare-dangerous-side-effects-some-covid-19-vaccines-explained)
 * [2026-02-11, 22:56:41](https://news.ycombinator.com/item?id=46982421) - [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
