@@ -129,24 +129,98 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="46982762">
+        <section id="46984083">
           <h3>
-            <a
-              class="item"
-              href="https://www.science.org/content/article/rare-dangerous-side-effects-some-covid-19-vaccines-explained"
-              >Rare, dangerous side effects of some Covid-19 vaccines
-              explained</a
+            <a class="item" href="https://blockrand.net/live.html"
+              >Show HN: Double blind entropy using Drand for verifiably fair
+              randomness</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-11 @ 23:34:29</span
+              <span>2026-02-12 @ 02:10:41</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46982762"
+                ><a href="https://news.ycombinator.com/item?id=46984083"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                In the demo above, the moment you commit (Roll-Dice) a commit
+                with the hash of a player secret is sent to the server and the
+                server accepts that and sends back the hash of its secret back
+                and the "future" drand round number at which the randomness will
+                resolve. The future used in the demo is 10 secs
+              </p>
+              <p>
+                When the reveal happens (after drand's particular round) all the
+                secrets are revealed and the random number is generated using
+                "player-seed:server-seed:drand-signature".
+              </p>
+              <p>All the verification is in Math, so truly trust-less, so:</p>
+              <p>1. Player-Seed should matches the player-hash committed</p>
+              <p>2. Server-Seed should matches the server-hash committed</p>
+              <p>
+                3. Drand-Signature can is publicly not available at the time of
+                commit and is available at the time of reveal. (Time-Locked)
+              </p>
+              <p>
+                4. Random number generated is deterministic after the event and
+                unknown and unpredictably before the event.
+              </p>
+              <p>
+                5. No party can influence the final outcome, specially no
+                "last-look" advantange for anyone.
+              </p>
+              <p>
+                I think this should be used in all games, online
+                lottery/gambling and other systems which want to be fair by
+                design not by trust.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="46983196">
+          <h3>
+            <a
+              class="item"
+              href="https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead"
+              >Heroku is not dead</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-12 @ 00:20:30</span
+              ><span class="points-container"
+                >Points: <span class="points">30</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46983196"
+                  >Comments</a
+                ><span class="descendants">: 26</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46982792">
+          <h3>
+            <a
+              class="item"
+              href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012"
+              >GPT-5 outperforms federal judges in legal reasoning experiment</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-11 @ 23:37:11</span
+              ><span class="points-container"
+                >Points: <span class="points">209</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46982792"
+                  >Comments</a
+                ><span class="descendants">: 151</span></span
               >
             </h4>
           </section>
@@ -161,55 +235,53 @@
             <h4>
               <span>2026-02-11 @ 22:56:41</span
               ><span class="points-container"
-                >Points: <span class="points">396</span></span
+                >Points: <span class="points">515</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46982421"
                   >Comments</a
-                ><span class="descendants">: 184</span></span
+                ><span class="descendants">: 221</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46981015">
+        <section id="46981058">
           <h3>
             <a
               class="item"
-              href="https://www.carbonbrief.org/qa-new-uk-onshore-wind-and-solar-is-50-cheaper-than-new-gas/"
-              >Q&amp;amp;A: New UK onshore wind and solar is '50% cheaper' than
-              new gas</a
+              href="https://www.anthropic.com/news/covering-electricity-price-increases"
+              >Covering electricity price increases from our data centers</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-11 @ 21:09:51</span
+              <span>2026-02-11 @ 21:12:59</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46981015"
+                ><a href="https://news.ycombinator.com/item?id=46981058"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46980474">
+        <section id="46980355">
           <h3>
             <a
               class="item"
-              href="https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/"
-              >US labels SpaceX a common carrier by air, will regulate firm
-              under railway law</a
+              href="https://www.terracenetworks.com/blog/2026-02-11-telnet-routing"
+              >Reports of Telnet's Death Have Been Greatly Exaggerated</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-11 @ 20:29:23</span
+              <span>2026-02-11 @ 20:20:48</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46980474"
+                ><a href="https://news.ycombinator.com/item?id=46980355"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -225,11 +297,32 @@
             <h4>
               <span>2026-02-11 @ 20:15:21</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46980273"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 14</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46980039">
+          <h3>
+            <a
+              class="item"
+              href="https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27"
+              >Apple's latest attempt to launch the new Siri runs into snags</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-11 @ 19:59:17</span
+              ><span class="points-container"
+                >Points: <span class="points">54</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46980039"
+                  >Comments</a
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -247,33 +340,11 @@
             <h4>
               <span>2026-02-11 @ 19:50:43</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46979936"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46979819">
-          <h3>
-            <a
-              class="item"
-              href="https://twitter.com/DrWhax/status/2021608609595945442"
-              >Paragon accidentally uploaded a photo of its spyware control
-              panel</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-11 @ 19:42:28</span
-              ><span class="points-container"
-                >Points: <span class="points">155</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46979819"
-                  >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -291,11 +362,11 @@
             <h4>
               <span>2026-02-11 @ 19:39:43</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46979781"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
             <div class="text">
@@ -374,28 +445,6 @@
             </div>
           </section>
         </section>
-        <section id="46979643">
-          <h3>
-            <a
-              class="item"
-              href="https://www.macrumors.com/2026/02/11/ios-26-3-security-vulnerabilities/"
-              >iOS 26.3 and macOS 26.3 Fix Dozens of Vulnerabilities, Including
-              Zero-Day</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-11 @ 19:30:30</span
-              ><span class="points-container"
-                >Points: <span class="points">133</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46979643"
-                  >Comments</a
-                ><span class="descendants">: 88</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="46979604">
           <h3>
             <a
@@ -408,32 +457,11 @@
             <h4>
               <span>2026-02-11 @ 19:27:46</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46979604"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46979562">
-          <h3>
-            <a
-              class="item"
-              href="https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4"
-              >The risk of a hothouse Earth trajectory</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-11 @ 19:25:18</span
-              ><span class="points-container"
-                >Points: <span class="points">306</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46979562"
-                  >Comments</a
-                ><span class="descendants">: 344</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -451,11 +479,11 @@
             <h4>
               <span>2026-02-11 @ 18:43:01</span
               ><span class="points-container"
-                >Points: <span class="points">464</span></span
+                >Points: <span class="points">497</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46978966"
                   >Comments</a
-                ><span class="descendants">: 251</span></span
+                ><span class="descendants">: 267</span></span
               >
             </h4>
           </section>
@@ -472,11 +500,11 @@
             <h4>
               <span>2026-02-11 @ 18:23:39</span
               ><span class="points-container"
-                >Points: <span class="points">770</span></span
+                >Points: <span class="points">819</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46978710"
                   >Comments</a
-                ><span class="descendants">: 530</span></span
+                ><span class="descendants">: 545</span></span
               >
             </h4>
           </section>
@@ -493,11 +521,11 @@
             <h4>
               <span>2026-02-11 @ 18:06:11</span
               ><span class="points-container"
-                >Points: <span class="points">224</span></span
+                >Points: <span class="points">250</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46978490"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -514,11 +542,11 @@
             <h4>
               <span>2026-02-11 @ 17:34:27</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46978015"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -535,11 +563,11 @@
             <h4>
               <span>2026-02-11 @ 16:39:11</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46977175"
                   >Comments</a
-                ><span class="descendants">: 157</span></span
+                ><span class="descendants">: 198</span></span
               >
             </h4>
           </section>
@@ -555,11 +583,11 @@
             <h4>
               <span>2026-02-11 @ 16:21:10</span
               ><span class="points-container"
-                >Points: <span class="points">413</span></span
+                >Points: <span class="points">434</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46976911"
                   >Comments</a
-                ><span class="descendants">: 239</span></span
+                ><span class="descendants">: 248</span></span
               >
             </h4>
             <div class="text">
@@ -582,11 +610,11 @@
             <h4>
               <span>2026-02-11 @ 15:50:04</span
               ><span class="points-container"
-                >Points: <span class="points">336</span></span
+                >Points: <span class="points">354</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46976443"
                   >Comments</a
-                ><span class="descendants">: 165</span></span
+                ><span class="descendants">: 168</span></span
               >
             </h4>
           </section>
@@ -602,34 +630,134 @@
             <h4>
               <span>2026-02-11 @ 13:42:16</span
               ><span class="points-container"
-                >Points: <span class="points">275</span></span
+                >Points: <span class="points">308</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46974853"
                   >Comments</a
-                ><span class="descendants">: 407</span></span
+                ><span class="descendants">: 416</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="46973573">
+        <section id="46974515">
           <h3>
             <a
               class="item"
-              href="http://www.andersenimages.com/tutorials/exposure-simulator/"
-              >Exposure Simulator</a
+              href="https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md"
+              >Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM
+              agents</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-11 @ 11:16:23</span
+              <span>2026-02-11 @ 13:10:23</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46973573"
+                ><a href="https://news.ycombinator.com/item?id=46974515"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                Typically claude code globs directories, greps for patterns, and
+                reads files with minimal guidance. It works in kind of the same
+                way you'd learn to navigate a city by walking every street.
+                You'll eventually build a mental map, but claude never does - at
+                least not any that persists across different contexts.
+              </p>
+              <p>
+                The Recursive Language Models paper from Zhang, Kraska, and
+                Khattab at MIT CSAIL introduced a cleaner framing. Instead of
+                cramming everything into context, the model gets a searchable
+                environment. The model can then query just for what it needs and
+                can drill deeper where needed.
+              </p>
+              <p>
+                coderlm is my implementation of that idea for codebases. A Rust
+                server indexes a project with tree-sitter, builds a symbol table
+                with cross-references, and exposes an API. The agent queries for
+                structure, symbols, implementations, callers, and grep results —
+                getting back exactly the code it needs instead of scanning for
+                it.
+              </p>
+              <p>The agent workflow looks like:</p>
+              <p>
+                1. `init` — register the project, get the top-level structure
+              </p>
+              <p>2. `structure` — drill into specific directories</p>
+              <p>3. `search` — find symbols by name across the codebase</p>
+              <p>
+                4. `impl` — retrieve the exact source of a function or class
+              </p>
+              <p>5. `callers` — find everything that calls a given symbol</p>
+              <p>6. `grep` — fall back to text search when you need it</p>
+              <p>
+                This replaces the glob/grep/read cycle with index-backed
+                lookups. The server currently supports Rust, Python, TypeScript,
+                JavaScript, and Go for symbol parsing, though all file types
+                show up in the tree and are searchable via grep.
+              </p>
+              <p>
+                It ships as a Claude Code plugin with hooks that guide the agent
+                to use indexed lookups instead of native file tools, plus a
+                Python CLI wrapper with zero dependencies.
+              </p>
+              <p>
+                For anecdotal results, I ran the same prompt against a codebase
+                to "explore and identify opportunities to clarify the existing
+                structure".
+              </p>
+              <p>
+                Using coderlm, claude was able to generate a plan in about 3
+                minutes. The coderlm enabled instance found a genuine bug
+                (duplicated code with identical names), orphaned code for
+                cleanup, mismatched naming conventions crossing module
+                boundaries, and overlapping vocabulary. These are all
+                <i>semantic</i> issues which clearly benefit from the
+                tree-sitter centric approach.
+              </p>
+              <p>
+                Using the native tools, claude was able to identify various file
+                clutter in the root of the project, out of date references, and
+                a migration timestamp collision. These findings are more
+                consistent with methodical walks of the filesystem and took
+                about 8 minutes to produce.
+              </p>
+              <p>
+                The indexed approach did better at catching semantic issues than
+                native tools and had a key benefit in being faster to resolve.
+              </p>
+              <p>
+                I've spent some effort to streamline the installation process,
+                but it isn't turnkey yet. You'll need the rust toolchain to
+                build the server which runs as a separate process. Installing
+                the plugin from a claude marketplace is possible, but the skill
+                isn't being added to your .claude yet so there are some manual
+                steps to just getting to a point where claude could use it.
+              </p>
+              <p>
+                Claude continues to demonstrate significant resistance to using
+                CodeRLM in exploration tasks. Typically to use you will need to
+                explicitly direct claude to use it.
+              </p>
+              <p>---</p>
+              <p>Repo: github.com/JaredStewart/coderlm</p>
+              <p>
+                Paper: Recursive Language Models
+                <a href="https://arxiv.org/abs/2512.24601"
+                  >https://arxiv.org/abs/2512.24601</a
+                >
+                — Zhang, Kraska, Khattab (MIT CSAIL, 2025)
+              </p>
+              <p>
+                Inspired by:
+                <a href="https://github.com/brainqub3/claude_code_RLM"
+                  >https://github.com/brainqub3/claude_code_RLM</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="46972610">
@@ -645,11 +773,11 @@
             <h4>
               <span>2026-02-11 @ 09:04:00</span
               ><span class="points-container"
-                >Points: <span class="points">333</span></span
+                >Points: <span class="points">344</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46972610"
                   >Comments</a
-                ><span class="descendants">: 530</span></span
+                ><span class="descendants">: 544</span></span
               >
             </h4>
             <div class="text">
@@ -667,7 +795,7 @@
             <h4>
               <span>2026-02-10 @ 23:12:36</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46968374"
                   >Comments</a
@@ -676,90 +804,25 @@
             </h4>
           </section>
         </section>
-        <section id="46956016">
+        <section id="46949814">
           <h3>
             <a
               class="item"
-              href="https://www.economist.com/culture/2026/02/09/the-world-is-suffering-from-a-shortage-of-tenors"
-              >A shortage of tenors</a
+              href="https://ntietz.com/blog/using-an-engineering-notebook/"
+              >Using an Engineering Notebook</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-10 @ 06:18:30</span
+              <span>2026-02-09 @ 19:29:53</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46956016"
+                ><a href="https://news.ycombinator.com/item?id=46949814"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
-            <div class="text">
-              <a href="https://archive.ph/VwVpU">https://archive.ph/VwVpU</a>
-            </div>
-          </section>
-        </section>
-        <section id="46946593">
-          <h3>
-            <a class="item" href="https://hallucinatingsplines.com"
-              >Show HN: AI agents play SimCity through a REST API</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-09 @ 15:54:33</span
-              ><span class="points-container"
-                >Points: <span class="points">176</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46946593"
-                  >Comments</a
-                ><span class="descendants">: 67</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                The weekend hack turned into a headless city simulation platform
-                where anyone can get an API key (no signup) and have their AI
-                agent play mayor. The simulation runs the real Micropolis engine
-                inside Cloudflare Durable Objects, one per city. Every city is
-                public and browsable on the site.
-              </p>
-              <p>
-                LLMs are awful at the spatial stuff, which sort of makes it
-                extra fun as you try to control them when they scatter buildings
-                randomly and struggle with power lines and roads. A little like
-                dealing with a toddler.
-              </p>
-              <p>
-                There's a full REST API and an MCP server, so you can point
-                Claude Code or Cursor at it directly. You can usually get agents
-                building in seconds.
-              </p>
-              <p>
-                Website:
-                <a href="https://hallucinatingsplines.com"
-                  >https://hallucinatingsplines.com</a
-                >
-              </p>
-              <p>
-                API docs:
-                <a href="https://hallucinatingsplines.com/docs"
-                  >https://hallucinatingsplines.com/docs</a
-                >
-              </p>
-              <p>
-                GitHub:
-                <a href="https://github.com/andrewedunn/hallucinating-splines"
-                  >https://github.com/andrewedunn/hallucinating-splines</a
-                >
-              </p>
-              <p>
-                Future ideas: Let multiple agents play a single city and see how
-                they step all over each other, or a "conquest mode" where you
-                can earn points and spawn disasters on other cities.
-              </p>
-            </div>
           </section>
         </section>
         <section id="46942864">
@@ -774,11 +837,51 @@
             <h4>
               <span>2026-02-09 @ 08:14:28</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46942864"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 20</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46941383">
+          <h3>
+            <a
+              class="item"
+              href="https://publicdomainreview.org/collection/japanese-snowflake-book/"
+              >Sekka Zusetsu: A Book of Snowflakes (1832)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-09 @ 03:49:52</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46941383"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46933529">
+          <h3>
+            <a class="item" href="https://www.vangemert.dev/blog/nothing"
+              >"Nothing" is the secret to structuring your work</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-08 @ 12:01:50</span
+              ><span class="points-container"
+                >Points: <span class="points">151</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46933529"
+                  >Comments</a
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -786,18 +889,19 @@
         <section id="46924075">
           <h3>
             <a class="item" href="https://github.com/zai-org/GLM-OCR"
-              >GLM-OCR: Accurate × Fast × Comprehensive</a
+              >GLM-OCR – A multimodal OCR model for complex document
+              understanding</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-02-07 @ 14:15:36</span
               ><span class="points-container"
-                >Points: <span class="points">228</span></span
+                >Points: <span class="points">244</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46924075"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -814,7 +918,7 @@
             <h4>
               <span>2026-02-07 @ 13:09:12</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46923554"
                   >Comments</a
@@ -823,45 +927,23 @@
             </h4>
           </section>
         </section>
-        <section id="46922453">
+        <section id="46921757">
           <h3>
             <a
               class="item"
-              href="https://essenceofrome.com/rome-is-studded-with-cannon-balls"
-              >Rome is studded with cannon balls (2022)</a
+              href="https://altermag.com/articles/kanchipuram-saris-and-thinking-machines"
+              >Kanchipuram Saris and Thinking Machines</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-07 @ 09:10:26</span
+              <span>2026-02-07 @ 06:19:05</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46922453"
+                ><a href="https://news.ycombinator.com/item?id=46921757"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46921659">
-          <h3>
-            <a
-              class="item"
-              href="https://publicdomainreview.org/essay/typing-for-love-or-money/"
-              >Typing for Love or Money: The Hidden Labor Behind Modern Literary
-              Masterpieces</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-07 @ 05:50:07</span
-              ><span class="points-container"
-                >Points: <span class="points">28</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46921659"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -878,11 +960,11 @@
             <h4>
               <span>2026-02-07 @ 01:16:42</span
               ><span class="points-container"
-                >Points: <span class="points">311</span></span
+                >Points: <span class="points">325</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46920315"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 156</span></span
               >
             </h4>
           </section>
