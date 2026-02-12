@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-12, 07:52:49",
+      "https://news.ycombinator.com/item?id=46986001"
+    ],
+    [
+      "65 Lines of Markdown, a Claude Code Sensation",
+      "https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html"
+    ]
+  ],
+  [
+    [
       "2026-02-12, 05:18:49",
       "https://news.ycombinator.com/item?id=46985151"
     ],
@@ -87,16 +97,6 @@
     [
       "Reports of Telnet's death have been greatly exaggerated",
       "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 20:15:21",
-      "https://news.ycombinator.com/item?id=46980273"
-    ],
-    [
-      "Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums",
-      "https://agentalcove.ai"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-02-07, 13:09:12",
-      "https://news.ycombinator.com/item?id=46923554"
+      "2026-02-07, 11:38:12",
+      "https://news.ycombinator.com/item?id=46923051"
     ],
     [
-      "Hacking the last Z80 computer – FOSDEM 2026 [video]",
-      "https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/"
+      "RISC-V Vector Primer",
+      "https://github.com/simplex-micro/riscv-vector-primer/blob/main/index.md"
     ]
   ],
   [
