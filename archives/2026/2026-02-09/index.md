@@ -41,6 +41,7 @@
 * [2026-02-09, 15:31:09](https://news.ycombinator.com/item?id=46946308) - [Sandboxels](https://neal.fun/sandboxels/)
 * [2026-02-09, 15:25:07](https://news.ycombinator.com/item?id=46946248) - [Hong Kong pro-democracy tycoon Jimmy Lai gets 20 years' jail](https://www.bbc.com/news/articles/c8d5pl34vv0o)
 * [2026-02-09, 15:11:07](https://news.ycombinator.com/item?id=46946062) - [Sleeper Shells: Attackers Are Planting Dormant Backdoors in Ivanti EPMM](https://defusedcyber.com/ivanti-epmm-sleeper-shells-403jsp)
+* [2026-02-09, 15:01:16](https://news.ycombinator.com/item?id=46945962) - [Trying Out Thunderbird Appointment While I Patiently Wait for an Invite](https://blog.matthewbrunelle.com/trying-out-thunderbird-appointment-while-i-patiently-await-for-an-invite/)
 * [2026-02-09, 14:44:30](https://news.ycombinator.com/item?id=46945755) - [AI Doesn't Reduce Work–It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
 * [2026-02-09, 14:44:01](https://news.ycombinator.com/item?id=46945742) - [Discord Launches Teen-by-Default Settings Globally](https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally)
 * [2026-02-09, 14:37:38](https://news.ycombinator.com/item?id=46945663) - [Discord will require a face scan or ID for full access next month](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
