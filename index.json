@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-02-12, 14:17:06",
+      "https://news.ycombinator.com/item?id=46989117"
+    ],
+    [
+      "The Future for Tyr, a Rust GPU Driver for Arm Mali Hardware",
+      "https://lwn.net/Articles/1055590/"
+    ]
+  ],
+  [
+    [
+      "2026-02-12, 14:16:10",
+      "https://news.ycombinator.com/item?id=46989107"
+    ],
+    [
+      "Apple patches decade-old iOS zero-day, possibly exploited by commercial spyware",
+      "https://www.theregister.com/2026/02/12/apple_ios_263/"
+    ]
+  ],
+  [
+    [
+      "2026-02-12, 14:00:46",
+      "https://news.ycombinator.com/item?id=46988928"
+    ],
+    [
+      "I Regret to Inform You That the FDA Is FDAing Again",
+      "https://marginalrevolution.com/marginalrevolution/2026/02/i-regret-to-inform-you-that-the-fda-is-still-fdaing.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-12, 13:30:20",
+      "https://news.ycombinator.com/item?id=46988596"
+    ],
+    [
+      "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+      "http://blog.can.ac/2026/02/12/the-harness-problem/"
+    ]
+  ],
+  [
+    [
       "2026-02-12, 12:27:23",
       "https://news.ycombinator.com/item?id=46987963"
     ],
@@ -131,26 +171,6 @@
   ],
   [
     [
-      "2026-02-11, 19:59:17",
-      "https://news.ycombinator.com/item?id=46980039"
-    ],
-    [
-      "Apple's latest attempt to launch the new Siri runs into snags",
-      "https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 18:23:39",
-      "https://news.ycombinator.com/item?id=46978710"
-    ],
-    [
-      "Claude Code is being dumbed down?",
-      "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/"
-    ]
-  ],
-  [
-    [
       "2026-02-11, 18:06:11",
       "https://news.ycombinator.com/item?id=46978490"
     ],
@@ -221,12 +241,12 @@
   ],
   [
     [
-      "2026-02-08, 22:26:52",
-      "https://news.ycombinator.com/item?id=46939200"
+      "2026-02-09, 02:36:09",
+      "https://news.ycombinator.com/item?id=46940959"
     ],
     [
-      "Lance table format explained with simple animations",
-      "https://tontinton.com/posts/lance/"
+      "Quitting",
+      "https://thepointmag.com/examined-life/quitting/"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "Clay Christensen's Milkshake Marketing (2011)",
       "https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 02:03:27",
-      "https://news.ycombinator.com/item?id=46930602"
-    ],
-    [
-      "The other Markov's inequality",
-      "https://www.ethanepperly.com/index.php/2026/01/16/the-other-markovs-inequality/"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 14:15:36",
-      "https://news.ycombinator.com/item?id=46924075"
-    ],
-    [
-      "GLM-OCR – A multimodal OCR model for complex document understanding",
-      "https://github.com/zai-org/GLM-OCR"
     ]
   ],
   [
