@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-12, 23:08:01](https://news.ycombinator.com/item?id=46996569) - [Recoverable and Irrecoverable Decisions](https://herbertlui.net/recoverable-and-irrecoverable-decisions/)
 * [2026-02-12, 22:18:01](https://news.ycombinator.com/item?id=46996067) - [Discord Just Killed Anonymity](https://michael-dev-tech.github.io/Website/matrix.html)
 * [2026-02-12, 20:57:33](https://news.ycombinator.com/item?id=46995046) - [Welcoming Discord users amidst the challenge of Age Verification](https://matrix.org/blog/2026/02/welcome-discord/)
 * [2026-02-12, 20:53:30](https://news.ycombinator.com/item?id=46995001) - [ICE, CBP Knew Facial Recognition App Couldn't Do What DHS Says It Could](https://www.techdirt.com/2026/02/12/ice-cbp-knew-facial-recognition-app-couldnt-do-what-dhs-says-it-could-deployed-it-anyway/)
@@ -14,7 +15,6 @@
 * [2026-02-12, 17:05:36](https://news.ycombinator.com/item?id=46991435) - [Shut Up: Comment Blocker](https://rickyromero.com/shutup/)
 * [2026-02-12, 17:03:30](https://news.ycombinator.com/item?id=46991394) - [ai;dr](https://www.0xsid.com/blog/aidr)
 * [2026-02-12, 16:55:50](https://news.ycombinator.com/item?id=46991240) - [Gemini 3 Deep Think](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/)
-* [2026-02-12, 16:51:37](https://news.ycombinator.com/item?id=46991154) - [MiniMax M2.5 released: 80.2% in SWE-bench Verified](https://www.minimax.io/news/minimax-m25)
 * [2026-02-12, 16:23:24](https://news.ycombinator.com/item?id=46990729) - [An AI agent published a hit piece on me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 * [2026-02-12, 16:10:29](https://news.ycombinator.com/item?id=46990578) - [Beginning fully autonomous operations with the 6th-generation Waymo driver](https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver)
 * [2026-02-12, 14:56:18](https://news.ycombinator.com/item?id=46989605) - [A brief history of barbed wire fence telephone networks (2024)](https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/)
