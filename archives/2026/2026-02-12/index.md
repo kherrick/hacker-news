@@ -4,14 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 12:27:23](https://news.ycombinator.com/item?id=46987963) - [America's Cyber Defense Agency Is Burning Down and Nobody's Coming to Put It Out](https://www.threathunter.ai/blog/americas-cyber-defense-agency-burning-down/)
+* [2026-02-12, 12:23:05](https://news.ycombinator.com/item?id=46987919) - [The \"Crown of Nobles\" Noble Gas Tube Display](https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/)
 * [2026-02-12, 11:46:01](https://news.ycombinator.com/item?id=46987559) - [AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://github.com/matplotlib/matplotlib/pull/31132)
 * [2026-02-12, 11:40:50](https://news.ycombinator.com/item?id=46987524) - [Resist and Unsubscribe](https://www.resistandunsubscribe.com)
+* [2026-02-12, 11:26:15](https://news.ycombinator.com/item?id=46987425) - [Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78](https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/)
 * [2026-02-12, 10:27:50](https://news.ycombinator.com/item?id=46987038) - [Show HN: Geo Racers – Race from London to Tokyo on a single bus pass](https://geo-racers.com/)
 * [2026-02-12, 09:25:17](https://news.ycombinator.com/item?id=46986614) - [Show HN: A free online British accent generator for instant voice conversion](https://audioconvert.ai/british-accent-generator)
 * [2026-02-12, 09:06:20](https://news.ycombinator.com/item?id=46986496) - [From specification to stress test: a weekend with Claude](https://www.juxt.pro/blog/from-specification-to-stress-test/)
 * [2026-02-12, 08:35:34](https://news.ycombinator.com/item?id=46986248) - [The missing digit of Stela C](https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/)
 * [2026-02-12, 08:01:37](https://news.ycombinator.com/item?id=46986064) - [Show HN: Huesnatch – 6 free color tools for designers, no login, no uploads](https://github.com/huesnatch/huesnatch)
 * [2026-02-12, 07:52:49](https://news.ycombinator.com/item?id=46986001) - [65 Lines of Markdown, a Claude Code Sensation](https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html)
+* [2026-02-12, 06:54:39](https://news.ycombinator.com/item?id=46985609) - [Carl Sagan's Baloney Detection Kit: Tools for Thinking Critically (2025)](https://www.openculture.com/2025/09/the-carl-sagan-baloney-detection-kit.html)
 * [2026-02-12, 05:18:49](https://news.ycombinator.com/item?id=46985151) - [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
 * [2026-02-12, 05:18:09](https://news.ycombinator.com/item?id=46985147) - [D Programming Language](https://dlang.org/)
 * [2026-02-12, 03:56:26](https://news.ycombinator.com/item?id=46984735) - [How to Make a Living as an Artist](https://essays.fnnch.com/make-a-living)
