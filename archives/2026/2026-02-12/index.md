@@ -4,11 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 20:57:33](https://news.ycombinator.com/item?id=46995046) - [Welcoming Discord users amidst the challenge of Age Verification](https://matrix.org/blog/2026/02/welcome-discord/)
+* [2026-02-12, 20:53:30](https://news.ycombinator.com/item?id=46995001) - [ICE, CBP Knew Facial Recognition App Couldn't Do What DHS Says It Could](https://www.techdirt.com/2026/02/12/ice-cbp-knew-facial-recognition-app-couldnt-do-what-dhs-says-it-could-deployed-it-anyway/)
+* [2026-02-12, 20:47:10](https://news.ycombinator.com/item?id=46994907) - [Realfood.gov includes a Grok search box](https://realfood.gov/#answers)
+* [2026-02-12, 20:44:17](https://news.ycombinator.com/item?id=46994869) - [Fixing retail with land value capture](https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/)
+* [2026-02-12, 20:27:27](https://news.ycombinator.com/item?id=46994636) - [What's the difference between a \"disc\" and a \"disk\"?](https://support.apple.com/en-gb/100749)
 * [2026-02-12, 20:27:17](https://news.ycombinator.com/item?id=46994633) - [I was insulted today – AI style](https://forkingmad.blog/insulted-today-ai/)
 * [2026-02-12, 19:59:52](https://news.ycombinator.com/item?id=46994255) - [Show HN: Generate Web Interfaces from Data](https://github.com/puffinsoft/syntux)
 * [2026-02-12, 19:32:02](https://news.ycombinator.com/item?id=46993829) - [Googlers Demand Worker Safety and ICE Contract Transparency](https://www.googlers-against-ice.com)
 * [2026-02-12, 19:15:47](https://news.ycombinator.com/item?id=46993596) - [Show HN: rari, the rust-powered react framework](https://rari.build/)
 * [2026-02-12, 19:03:27](https://news.ycombinator.com/item?id=46993417) - [A party balloon shut down El Paso International Airport; estimated cost –$573k](https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History)
+* [2026-02-12, 19:01:54](https://news.ycombinator.com/item?id=46993397) - [How to Have a Bad Career – David Patterson (2016) [video]](https://www.youtube.com/watch?v=Rn1w4MRHIhc)
 * [2026-02-12, 19:01:37](https://news.ycombinator.com/item?id=46993393) - [HDRify: True HDR image viewer, and tool set in pure JavaScript](https://hdrify.benhouston3d.com/?image=%2Fexamples%2Fmoonless_golf_1k.hdr)
 * [2026-02-12, 18:58:56](https://news.ycombinator.com/item?id=46993345) - [Anthropic raises $30B in Series G funding at $380B post-money valuation](https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation)
 * [2026-02-12, 18:23:20](https://news.ycombinator.com/item?id=46992815) - [Polis: Open-source platform to find common ground at scale](https://pol.is/home2)
