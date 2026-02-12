@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 18:23:20](https://news.ycombinator.com/item?id=46992815) - [Polis: Open-source platform to find common ground at scale](https://pol.is/home2)
+* [2026-02-12, 18:06:09](https://news.ycombinator.com/item?id=46992553) - [GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
 * [2026-02-12, 17:14:28](https://news.ycombinator.com/item?id=46991591) - [Launch HN: Omnara (YC S25) – Run Claude Code and Codex from Anywhere](https://news.ycombinator.com/item?id=46991591)
 * [2026-02-12, 17:05:36](https://news.ycombinator.com/item?id=46991435) - [Shut Up: Comment Blocker](https://rickyromero.com/shutup/)
 * [2026-02-12, 17:03:30](https://news.ycombinator.com/item?id=46991394) - [ai;dr](https://www.0xsid.com/blog/aidr)
 * [2026-02-12, 16:55:50](https://news.ycombinator.com/item?id=46991240) - [Gemini 3 Deep Think](https://twitter.com/GoogleDeepMind/status/2021981510400709092)
+* [2026-02-12, 16:55:50](https://news.ycombinator.com/item?id=46991240) - [Gemini 3 Deep Think](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/)
 * [2026-02-12, 16:51:37](https://news.ycombinator.com/item?id=46991154) - [MiniMax M2.5 released: 80.2% in SWE-bench Verified](https://www.minimax.io/news/minimax-m25)
 * [2026-02-12, 16:32:55](https://news.ycombinator.com/item?id=46990855) - [So many trees planted in Taklamakan Desert that it's turned into a carbon sink](https://www.livescience.com/planet-earth/plants/china-has-planted-so-many-trees-around-the-taklamakan-desert-that-its-turned-this-biological-void-into-a-carbon-sink)
 * [2026-02-12, 16:23:37](https://news.ycombinator.com/item?id=46990733) - [Show HN: 20+ Claude Code agents coordinating on real work (open source)](https://github.com/mutable-state-inc/lean-collab)
