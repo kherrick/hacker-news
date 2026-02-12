@@ -8,6 +8,7 @@
 * [2026-02-08, 23:13:34](https://news.ycombinator.com/item?id=46939593) - [AI Makes the Easy Part Easier and the Hard Part Harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
 * [2026-02-08, 22:39:46](https://news.ycombinator.com/item?id=46939312) - [Show HN: A custom font that displays Cistercian numerals using ligatures](https://bobbiec.github.io/cistercian-font.html)
 * [2026-02-08, 22:38:14](https://news.ycombinator.com/item?id=46939298) - [Toma (YC W24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products)
+* [2026-02-08, 22:26:52](https://news.ycombinator.com/item?id=46939200) - [Lance table format explained with simple animations](https://tontinton.com/posts/lance/)
 * [2026-02-08, 22:25:25](https://news.ycombinator.com/item?id=46939187) - [Reverse Engineering the Prom for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/)
 * [2026-02-08, 21:58:19](https://news.ycombinator.com/item?id=46938958) - [Stop Generating, Start Thinking](https://localghost.dev/blog/stop-generating-start-thinking/)
 * [2026-02-08, 21:52:28](https://news.ycombinator.com/item?id=46938903) - [Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization](https://arxiv.org/abs/2510.25417)
