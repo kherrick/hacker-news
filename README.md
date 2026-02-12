@@ -2,8 +2,7 @@
 
 * [2026-02-12, 05:18:49](https://news.ycombinator.com/item?id=46985151) - [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
 * [2026-02-12, 05:18:09](https://news.ycombinator.com/item?id=46985147) - [D Programming Language](https://dlang.org/)
-* [2026-02-12, 03:56:26](https://news.ycombinator.com/item?id=46984735) - [How to Make a Living as an Artist](https://essays.fnnch.com/make-a-living)
-* [2026-02-12, 02:03:33](https://news.ycombinator.com/item?id=46984021) - [The Problem with LLMs](https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/)
+* [2026-02-12, 03:56:26](https://news.ycombinator.com/item?id=46984735) - [How to make a living as an artist](https://essays.fnnch.com/make-a-living)
 * [2026-02-12, 00:20:30](https://news.ycombinator.com/item?id=46983196) - [Heroku is not dead](https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead)
 * [2026-02-11, 23:54:59](https://news.ycombinator.com/item?id=46982943) - [From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0](https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0)
 * [2026-02-11, 23:37:11](https://news.ycombinator.com/item?id=46982792) - [GPT-5 outperforms federal judges in legal reasoning experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012)
@@ -26,10 +25,11 @@
 * [2026-02-09, 08:14:28](https://news.ycombinator.com/item?id=46942864) - [Text classification with Python 3.14's ZSTD module](https://maxhalford.github.io/blog/text-classification-zstd/)
 * [2026-02-08, 19:09:28](https://news.ycombinator.com/item?id=46937427) - [Deobfuscation and Analysis of Ring-1.io](https://back.engineering/blog/04/02/2026/)
 * [2026-02-08, 12:01:50](https://news.ycombinator.com/item?id=46933529) - [“Nothing” is the secret to structuring your work](https://www.vangemert.dev/blog/nothing)
-* [2026-02-08, 02:03:27](https://news.ycombinator.com/item?id=46930602) - [The Other Markov's Inequality](https://www.ethanepperly.com/index.php/2026/01/16/the-other-markovs-inequality/)
+* [2026-02-08, 02:03:27](https://news.ycombinator.com/item?id=46930602) - [The other Markov's inequality](https://www.ethanepperly.com/index.php/2026/01/16/the-other-markovs-inequality/)
 * [2026-02-07, 14:15:36](https://news.ycombinator.com/item?id=46924075) - [GLM-OCR – A multimodal OCR model for complex document understanding](https://github.com/zai-org/GLM-OCR)
+* [2026-02-07, 13:09:12](https://news.ycombinator.com/item?id=46923554) - [Hacking the last Z80 computer – FOSDEM 2026 [video]](https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/)
 * [2026-02-07, 06:19:05](https://news.ycombinator.com/item?id=46921757) - [Kanchipuram Saris and Thinking Machines](https://altermag.com/articles/kanchipuram-saris-and-thinking-machines)
-* [2026-02-07, 01:16:42](https://news.ycombinator.com/item?id=46920315) - [WiFi Could Become an Invisible Mass Surveillance System](https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/)
+* [2026-02-07, 01:16:42](https://news.ycombinator.com/item?id=46920315) - [WiFi could become an invisible mass surveillance system](https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/)
 
 ## [Archives](archives/index.md)
 
