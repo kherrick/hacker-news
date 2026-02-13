@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-13, 00:07:57](https://news.ycombinator.com/item?id=46997133) - [AWS Adds support for nested virtualization](https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e)
+* [2026-02-12, 23:52:24](https://news.ycombinator.com/item?id=46997008) - [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
+* [2026-02-12, 23:51:16](https://news.ycombinator.com/item?id=46996999) - [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled)
 * [2026-02-12, 23:08:01](https://news.ycombinator.com/item?id=46996569) - [Recoverable and Irrecoverable Decisions](https://herbertlui.net/recoverable-and-irrecoverable-decisions/)
-* [2026-02-12, 22:18:01](https://news.ycombinator.com/item?id=46996067) - [Discord Just Killed Anonymity](https://michael-dev-tech.github.io/Website/matrix.html)
 * [2026-02-12, 20:57:33](https://news.ycombinator.com/item?id=46995046) - [Welcoming Discord users amidst the challenge of Age Verification](https://matrix.org/blog/2026/02/welcome-discord/)
 * [2026-02-12, 20:53:30](https://news.ycombinator.com/item?id=46995001) - [ICE, CBP Knew Facial Recognition App Couldn't Do What DHS Says It Could](https://www.techdirt.com/2026/02/12/ice-cbp-knew-facial-recognition-app-couldnt-do-what-dhs-says-it-could-deployed-it-anyway/)
 * [2026-02-12, 20:44:17](https://news.ycombinator.com/item?id=46994869) - [Fixing retail with land value capture](https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/)
@@ -22,14 +24,12 @@
 * [2026-02-12, 14:17:37](https://news.ycombinator.com/item?id=46989124) - [Culture Is the Mass-Synchronization of Framings](https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings)
 * [2026-02-12, 14:17:06](https://news.ycombinator.com/item?id=46989117) - [The Future for Tyr, a Rust GPU Driver for Arm Mali Hardware](https://lwn.net/Articles/1055590/)
 * [2026-02-12, 13:30:20](https://news.ycombinator.com/item?id=46988596) - [Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed](http://blog.can.ac/2026/02/12/the-harness-problem/)
-* [2026-02-12, 13:16:11](https://news.ycombinator.com/item?id=46988462) - [Run Pebble OS in Browser via WASM](https://ericmigi.github.io/pebble-qemu-wasm/)
 * [2026-02-12, 13:13:30](https://news.ycombinator.com/item?id=46988438) - [Apache Arrow is 10 years old](https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/)
 * [2026-02-12, 12:23:05](https://news.ycombinator.com/item?id=46987919) - [The \"Crown of Nobles\" Noble Gas Tube Display (2024)](https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/)
 * [2026-02-12, 10:27:50](https://news.ycombinator.com/item?id=46987038) - [Show HN: Geo Racers – Race from London to Tokyo on a single bus pass](https://geo-racers.com/)
-* [2026-02-09, 17:44:32](https://news.ycombinator.com/item?id=46948278) - [I Wrote a Scheme in 2025](https://maplant.com/2026-02-09-I-Wrote-a-Scheme-in-2025.html)
 * [2026-02-09, 12:09:59](https://news.ycombinator.com/item?id=46944376) - [Partial 8-Piece Tablebase](https://lichess.org/@/Lichess/blog/op1-partial-8-piece-tablebase-available/1ptPBDpC)
-* [2026-02-07, 21:19:05](https://news.ycombinator.com/item?id=46928157) - [The Science of the Perfect Second (2023)](https://harpers.org/archive/2023/04/the-science-of-the-perfect-second/)
-* [2026-02-07, 21:14:08](https://news.ycombinator.com/item?id=46928105) - [Barn Owls Know When to Wait](https://blog.typeobject.com/posts/2026-barn-owls-know-when-to-wait/)
+* [2026-02-08, 14:49:12](https://news.ycombinator.com/item?id=46934659) - [How a Cat Debugged Stable Diffusion (2023)](https://blog.dwac.dev/posts/cat-debugging/)
+* [2026-02-08, 14:33:22](https://news.ycombinator.com/item?id=46934513) - [My Grandma Was a Fed – Lessons from Digitizing Hours of Childhood](https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood/)
 
 ## [Archives](archives/index.md)
 

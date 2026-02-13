@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 23:52:24](https://news.ycombinator.com/item?id=46997008) - [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
+* [2026-02-12, 23:51:16](https://news.ycombinator.com/item?id=46996999) - [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled)
 * [2026-02-12, 23:08:01](https://news.ycombinator.com/item?id=46996569) - [Recoverable and Irrecoverable Decisions](https://herbertlui.net/recoverable-and-irrecoverable-decisions/)
 * [2026-02-12, 22:18:01](https://news.ycombinator.com/item?id=46996067) - [Discord Just Killed Anonymity](https://michael-dev-tech.github.io/Website/matrix.html)
 * [2026-02-12, 20:57:33](https://news.ycombinator.com/item?id=46995046) - [Welcoming Discord users amidst the challenge of Age Verification](https://matrix.org/blog/2026/02/welcome-discord/)
