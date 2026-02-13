@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-02-13, 00:07:57",
+      "https://news.ycombinator.com/item?id=46997133"
+    ],
+    [
+      "AWS Adds support for nested virtualization",
+      "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e"
+    ]
+  ],
+  [
+    [
+      "2026-02-12, 23:52:24",
+      "https://news.ycombinator.com/item?id=46997008"
+    ],
+    [
+      "Resizing windows on macOS Tahoe – the saga continues",
+      "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/"
+    ]
+  ],
+  [
+    [
+      "2026-02-12, 23:51:16",
+      "https://news.ycombinator.com/item?id=46996999"
+    ],
+    [
+      "Ring cancels its partnership with Flock Safety after surveillance backlash",
+      "https://www.theverge.com/news/878447/ring-flock-partnership-canceled"
+    ]
+  ],
+  [
+    [
       "2026-02-12, 23:08:01",
       "https://news.ycombinator.com/item?id=46996569"
     ],
     [
       "Recoverable and Irrecoverable Decisions",
       "https://herbertlui.net/recoverable-and-irrecoverable-decisions/"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 22:18:01",
-      "https://news.ycombinator.com/item?id=46996067"
-    ],
-    [
-      "Discord Just Killed Anonymity",
-      "https://michael-dev-tech.github.io/Website/matrix.html"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2026-02-12, 13:16:11",
-      "https://news.ycombinator.com/item?id=46988462"
-    ],
-    [
-      "Run Pebble OS in Browser via WASM",
-      "https://ericmigi.github.io/pebble-qemu-wasm/"
-    ]
-  ],
-  [
-    [
       "2026-02-12, 13:13:30",
       "https://news.ycombinator.com/item?id=46988438"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2026-02-09, 17:44:32",
-      "https://news.ycombinator.com/item?id=46948278"
-    ],
-    [
-      "I Wrote a Scheme in 2025",
-      "https://maplant.com/2026-02-09-I-Wrote-a-Scheme-in-2025.html"
-    ]
-  ],
-  [
-    [
       "2026-02-09, 12:09:59",
       "https://news.ycombinator.com/item?id=46944376"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-02-07, 21:19:05",
-      "https://news.ycombinator.com/item?id=46928157"
+      "2026-02-08, 14:49:12",
+      "https://news.ycombinator.com/item?id=46934659"
     ],
     [
-      "The Science of the Perfect Second (2023)",
-      "https://harpers.org/archive/2023/04/the-science-of-the-perfect-second/"
+      "How a Cat Debugged Stable Diffusion (2023)",
+      "https://blog.dwac.dev/posts/cat-debugging/"
     ]
   ],
   [
     [
-      "2026-02-07, 21:14:08",
-      "https://news.ycombinator.com/item?id=46928105"
+      "2026-02-08, 14:33:22",
+      "https://news.ycombinator.com/item?id=46934513"
     ],
     [
-      "Barn Owls Know When to Wait",
-      "https://blog.typeobject.com/posts/2026-barn-owls-know-when-to-wait/"
+      "My Grandma Was a Fed – Lessons from Digitizing Hours of Childhood",
+      "https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood/"
     ]
   ]
 ]
