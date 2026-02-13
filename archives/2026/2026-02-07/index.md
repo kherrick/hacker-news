@@ -25,6 +25,7 @@
 * [2026-02-07, 17:31:44](https://news.ycombinator.com/item?id=46925672) - [The Contagious Taste of Cancer](https://www.historytoday.com/archive/history-matters/contagious-taste-cancer)
 * [2026-02-07, 17:31:24](https://news.ycombinator.com/item?id=46925669) - [U.S. Jobs Disappear at Fastest January Pace Since Great Recession](https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/)
 * [2026-02-07, 16:06:07](https://news.ycombinator.com/item?id=46924891) - [What Is Stoicism?](https://stoacentral.com/guides/what-is-stoicism)
+* [2026-02-07, 15:56:15](https://news.ycombinator.com/item?id=46924818) - [Take a trip to Japan's Dododo Land, the most irritating place on Earth](https://soranews24.com/2026/02/07/take-a-trip-to-japans-dododo-land-the-most-irritating-place-on-earth/)
 * [2026-02-07, 15:55:54](https://news.ycombinator.com/item?id=46924813) - [British drivers over 70 to face eye tests every three years](https://www.bbc.com/news/articles/c205nxy0p31o)
 * [2026-02-07, 15:52:42](https://news.ycombinator.com/item?id=46924790) - [Leisure Suit Larry's Al Lowe on model trains, funny deaths and Disney](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/)
 * [2026-02-07, 15:41:05](https://news.ycombinator.com/item?id=46924711) - [StrongDM's AI team build serious software without even looking at the code](https://simonwillison.net/2026/Feb/7/software-factory/)
