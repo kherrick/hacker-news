@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-13](index.md)
 
+* [2026-02-13, 09:22:42](https://news.ycombinator.com/item?id=47000737) - [Ask HN: Is there a no-LLM license yet?](https://news.ycombinator.com/item?id=47000737)
 * [2026-02-13, 07:46:03](https://news.ycombinator.com/item?id=47000041) - [MinIO repository is no longer maintained](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)
 * [2026-02-13, 07:00:41](https://news.ycombinator.com/item?id=46999753) - [Asimov (YC W26) Is Hiring](https://news.ycombinator.com/item?id=46999753)
 * [2026-02-13, 06:23:26](https://news.ycombinator.com/item?id=46999545) - [Ring owners are returning their cameras](https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3)

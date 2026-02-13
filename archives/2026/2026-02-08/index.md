@@ -19,6 +19,7 @@
 * [2026-02-08, 20:34:51](https://news.ycombinator.com/item?id=46938241) - [A GTA modder has got the 1997 original working on modern PCs and Steam Deck](https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/)
 * [2026-02-08, 20:31:11](https://news.ycombinator.com/item?id=46938217) - [The 'Little red dots' observed by Webb were direct-collapse black holes](https://phys.org/news/2026-02-red-dots-webb-collapse-black.html)
 * [2026-02-08, 20:22:29](https://news.ycombinator.com/item?id=46938147) - [Amazon delivery drone strikes North Texas apartment, causing minor damage](https://www.expressnews.com/news/texas/article/amazon-delivery-drone-crash-richardson-texas-21341387.php)
+* [2026-02-08, 19:51:01](https://news.ycombinator.com/item?id=46937844) - [Interlock (Engineering)](https://en.wikipedia.org/wiki/Interlock_(engineering))
 * [2026-02-08, 19:35:55](https://news.ycombinator.com/item?id=46937696) - [Ask HN: What are you working on? (February 2026)](https://news.ycombinator.com/item?id=46937696)
 * [2026-02-08, 19:09:28](https://news.ycombinator.com/item?id=46937427) - [Deobfuscation and Analysis of Ring-1.io](https://back.engineering/blog/04/02/2026/)
 * [2026-02-08, 18:58:47](https://news.ycombinator.com/item?id=46937332) - [Tech Independence](https://sive.rs/ti)
