@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-13](index.md)
 
+* [2026-02-13, 14:36:28](https://news.ycombinator.com/item?id=47003219) - [Open Source Is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
 * [2026-02-13, 14:03:14](https://news.ycombinator.com/item?id=47002825) - [Zed editor switching graphics lib from blade to wgpu](https://github.com/zed-industries/zed/pull/46758)
+* [2026-02-13, 13:33:56](https://news.ycombinator.com/item?id=47002519) - [What China is up to in the Arctic](https://www.economist.com/china/2026/02/12/what-china-is-really-up-to-in-the-arctic)
 * [2026-02-13, 12:32:05](https://news.ycombinator.com/item?id=47001968) - [Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job](http://qualify.gauntletAI.com)
 * [2026-02-13, 12:18:05](https://news.ycombinator.com/item?id=47001871) - [Monosketch](https://monosketch.io/)
 * [2026-02-13, 12:01:11](https://news.ycombinator.com/item?id=47001756) - [GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC](https://www.workatastartup.com/companies/govdash)
+* [2026-02-13, 11:26:23](https://news.ycombinator.com/item?id=47001537) - [colorForth](https://colorforth.github.io/cf.htm)
 * [2026-02-13, 10:18:56](https://news.ycombinator.com/item?id=47001095) - [WolfSSL Sucks Too, So Now What?](https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/)
 * [2026-02-13, 09:22:42](https://news.ycombinator.com/item?id=47000737) - [Ask HN: Is there a no-LLM license yet?](https://news.ycombinator.com/item?id=47000737)
 * [2026-02-13, 08:02:23](https://news.ycombinator.com/item?id=47000164) - [CSS-Doodle](https://css-doodle.com/)
