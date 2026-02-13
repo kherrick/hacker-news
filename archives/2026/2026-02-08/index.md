@@ -104,3 +104,4 @@
 * [2026-02-08, 01:55:09](https://news.ycombinator.com/item?id=46930565) - [Haskell for all: Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
 * [2026-02-08, 01:37:36](https://news.ycombinator.com/item?id=46930461) - [Implementing Auto Tiling with Just 5 Tiles](https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html)
 * [2026-02-08, 01:26:38](https://news.ycombinator.com/item?id=46930391) - [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
+* [2026-02-08, 00:58:29](https://news.ycombinator.com/item?id=46930181) - [Font Rendering from First Principles](https://mccloskeybr.com/articles/font_rendering.html)

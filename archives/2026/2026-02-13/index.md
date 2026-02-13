@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-13](index.md)
 
+* [2026-02-13, 21:10:47](https://news.ycombinator.com/item?id=47007877) - [AI safety leader says 'world is in peril' and quits to study poetry](https://www.bbc.com/news/articles/c62dlvdq3e3o)
 * [2026-02-13, 20:52:11](https://news.ycombinator.com/item?id=47007656) - [The EU moves to kill infinite scrolling](https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/)
 * [2026-02-13, 19:33:16](https://news.ycombinator.com/item?id=47006738) - [11.8M EU citizens pay taxes to governments they cannot vote for](https://homolova.sk/missingvoters/)
 * [2026-02-13, 19:20:12](https://news.ycombinator.com/item?id=47006594) - [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)

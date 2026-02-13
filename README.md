@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-13, 20:52:11](https://news.ycombinator.com/item?id=47007656) - [The EU moves to kill infinite scrolling](https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/)
+* [2026-02-13, 21:10:47](https://news.ycombinator.com/item?id=47007877) - [AI safety leader says 'world is in peril' and quits to study poetry](https://www.bbc.com/news/articles/c62dlvdq3e3o)
 * [2026-02-13, 19:20:12](https://news.ycombinator.com/item?id=47006594) - [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)
 * [2026-02-13, 19:02:17](https://news.ycombinator.com/item?id=47006393) - [Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs](https://cloudrouter.dev/)
 * [2026-02-13, 18:56:38](https://news.ycombinator.com/item?id=47006316) - [Age of Empires: 25 years of pathfinding problems with C++ [video]](https://www.youtube.com/watch?v=lEBQveBCtKY)
 * [2026-02-13, 18:35:32](https://news.ycombinator.com/item?id=47006055) - [The Sharp PC-2000 Computer Boombox from 1979](https://stereo2go.com/forums/threads/one-of-the-rarest-the-sharp-pc-2000-computer-boombox-from-1979.10341/)
 * [2026-02-13, 17:50:54](https://news.ycombinator.com/item?id=47005509) - [Building a TUI is easy now](https://hatchet.run/blog/tuis-are-easy-now)
 * [2026-02-13, 17:13:01](https://news.ycombinator.com/item?id=47005081) - [CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
-* [2026-02-13, 16:11:08](https://news.ycombinator.com/item?id=47004319) - [I spent two days gigging at RentAHuman and didn't make a single cent](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/)
 * [2026-02-13, 16:10:07](https://news.ycombinator.com/item?id=47004312) - [IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes](https://github.com/nearai/ironclaw)
 * [2026-02-13, 14:36:28](https://news.ycombinator.com/item?id=47003219) - [Open Source Is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
 * [2026-02-13, 14:21:01](https://news.ycombinator.com/item?id=47003064) - [Apple, fix my keyboard before the timer ends or I'm leaving iPhone](https://ios-countdown.win/)
@@ -29,6 +28,7 @@
 * [2026-02-08, 10:22:00](https://news.ycombinator.com/item?id=46933020) - [Cache Monet](https://cachemonet.com)
 * [2026-02-08, 05:10:36](https://news.ycombinator.com/item?id=46931482) - [Green’s Dictionary of Slang - Five hundred years of the vulgar tongue](https://greensdictofslang.com/)
 * [2026-02-08, 01:37:36](https://news.ycombinator.com/item?id=46930461) - [Implementing Auto Tiling with Just 5 Tiles](https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html)
+* [2026-02-08, 00:58:29](https://news.ycombinator.com/item?id=46930181) - [Font Rendering from First Principles](https://mccloskeybr.com/articles/font_rendering.html)
 * [2026-02-07, 18:39:16](https://news.ycombinator.com/item?id=46926299) - [An open replacement for the IBM 3174 Establishment Controller](https://github.com/lowobservable/oec)
 
 ## [Archives](archives/index.md)
