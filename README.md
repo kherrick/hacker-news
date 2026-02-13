@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-13, 05:24:40](https://news.ycombinator.com/item?id=46999224) - [MMAcevedo aka Lena by qntm](https://qntm.org/mmacevedo)
+* [2026-02-13, 05:05:26](https://news.ycombinator.com/item?id=46999117) - [New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]](https://nickbostrom.com/optimal.pdf)
 * [2026-02-13, 03:33:27](https://news.ycombinator.com/item?id=46998606) - [The Wonder of Modern Drywall](https://worksinprogress.co/issue/the-wonder-of-modern-drywall/)
-* [2026-02-13, 01:09:37](https://news.ycombinator.com/item?id=46997658) - [Inside Epstein’s network: what 1.4M emails reveal](https://www.economist.com/interactive/international/2026/02/12/inside-epsteins-network)
 * [2026-02-13, 00:54:51](https://news.ycombinator.com/item?id=46997519) - [Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you](https://skipthe.tips/)
 * [2026-02-13, 00:07:57](https://news.ycombinator.com/item?id=46997133) - [AWS Adds support for nested virtualization](https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e)
 * [2026-02-12, 23:52:24](https://news.ycombinator.com/item?id=46997008) - [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
@@ -9,8 +10,6 @@
 * [2026-02-12, 23:08:01](https://news.ycombinator.com/item?id=46996569) - [Recoverable and Irrecoverable Decisions](https://herbertlui.net/recoverable-and-irrecoverable-decisions/)
 * [2026-02-12, 22:58:58](https://news.ycombinator.com/item?id=46996490) - [Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)](https://news.ycombinator.com/item?id=46996490)
 * [2026-02-12, 22:34:58](https://news.ycombinator.com/item?id=46996258) - [Evaluating Multilingual, Context-Aware Guardrails: A Humanitarian LLM Use Case](https://blog.mozilla.ai/evaluating-multilingual-context-aware-guardrails-evidence-from-a-humanitarian-llm-use-case/)
-* [2026-02-12, 20:44:17](https://news.ycombinator.com/item?id=46994869) - [Fixing retail with land value capture](https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/)
-* [2026-02-12, 19:15:47](https://news.ycombinator.com/item?id=46993596) - [Rari – Rust-powered React framework](https://rari.build/)
 * [2026-02-12, 19:06:57](https://news.ycombinator.com/item?id=46993479) - [Ask HN: Are you using an agent orchestrator to write code?](https://news.ycombinator.com/item?id=46993479)
 * [2026-02-12, 19:01:54](https://news.ycombinator.com/item?id=46993397) - [How to Have a Bad Career – David Patterson (2016) [video]](https://www.youtube.com/watch?v=Rn1w4MRHIhc)
 * [2026-02-12, 18:58:56](https://news.ycombinator.com/item?id=46993345) - [Anthropic raises $30B in Series G funding at $380B post-money valuation](https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation)
@@ -29,6 +28,7 @@
 * [2026-02-08, 15:22:24](https://news.ycombinator.com/item?id=46935030) - [Synthesizer Cartridge for the Atari 2600](https://www.qotile.net/synth.html)
 * [2026-02-08, 14:49:12](https://news.ycombinator.com/item?id=46934659) - [How a cat debugged Stable Diffusion (2023)](https://blog.dwac.dev/posts/cat-debugging/)
 * [2026-02-08, 14:33:22](https://news.ycombinator.com/item?id=46934513) - [My Grandma Was a Fed – Lessons from Digitizing Hours of Childhood](https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood/)
+* [2026-02-08, 12:16:48](https://news.ycombinator.com/item?id=46933632) - [The Nature of the Beast](https://cinemasojourns.com/2026/02/07/the-nature-of-the-beast/)
 * [2026-02-07, 15:56:15](https://news.ycombinator.com/item?id=46924818) - [Japan's Dododo Land, the most irritating place on Earth](https://soranews24.com/2026/02/07/take-a-trip-to-japans-dododo-land-the-most-irritating-place-on-earth/)
 
 ## [Archives](archives/index.md)
