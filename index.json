@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-02-13, 19:20:12",
+      "https://news.ycombinator.com/item?id=47006594"
+    ],
+    [
+      "GPT-5.2 derives a new result in theoretical physics",
+      "https://openai.com/index/new-result-theoretical-physics/"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 19:13:04",
+      "https://news.ycombinator.com/item?id=47006513"
+    ],
+    [
+      "Why I'm not worried about AI job loss",
+      "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 19:02:17",
+      "https://news.ycombinator.com/item?id=47006393"
+    ],
+    [
+      "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
+      "https://cloudrouter.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 18:56:38",
+      "https://news.ycombinator.com/item?id=47006316"
+    ],
+    [
+      "Age of Empires: 25 years of pathfinding problems with C++ [video]",
+      "https://www.youtube.com/watch?v=lEBQveBCtKY"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 17:13:01",
       "https://news.ycombinator.com/item?id=47005081"
     ],
@@ -37,16 +77,6 @@
     [
       "Open Source Is Not About You (2018)",
       "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 14:36:07",
-      "https://news.ycombinator.com/item?id=47003214"
-    ],
-    [
-      "Apocalypse no: how almost everything we thought we knew about the Maya is wrong",
-      "https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-02-13, 08:02:23",
-      "https://news.ycombinator.com/item?id=47000164"
-    ],
-    [
-      "CSS-Doodle",
-      "https://css-doodle.com/"
-    ]
-  ],
-  [
-    [
       "2026-02-13, 07:46:03",
       "https://news.ycombinator.com/item?id=47000041"
     ],
@@ -117,16 +137,6 @@
     [
       "MMAcevedo aka Lena by qntm",
       "https://qntm.org/mmacevedo"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 00:07:57",
-      "https://news.ycombinator.com/item?id=46997133"
-    ],
-    [
-      "AWS Adds support for nested virtualization",
-      "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e"
     ]
   ],
   [
@@ -151,12 +161,12 @@
   ],
   [
     [
-      "2026-02-12, 18:23:20",
-      "https://news.ycombinator.com/item?id=46992815"
+      "2026-02-12, 19:15:21",
+      "https://news.ycombinator.com/item?id=46993587"
     ],
     [
-      "Polis: Open-source platform for large-scale civic deliberation",
-      "https://pol.is/home2"
+      "Show HN: Moltis – AI assistant with memory, tools, and self-extending skills",
+      "https://www.moltis.org"
     ]
   ],
   [
@@ -191,32 +201,22 @@
   ],
   [
     [
-      "2026-02-12, 16:10:29",
-      "https://news.ycombinator.com/item?id=46990578"
-    ],
-    [
-      "Beginning fully autonomous operations with the 6th-generation Waymo driver",
-      "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 13:30:20",
-      "https://news.ycombinator.com/item?id=46988596"
-    ],
-    [
-      "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
-      "http://blog.can.ac/2026/02/12/the-harness-problem/"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 02:36:34",
       "https://news.ycombinator.com/item?id=46954637"
     ],
     [
       "Faster Than Dijkstra?",
       "https://systemsapproach.org/2026/02/09/faster-than-dijkstra/"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 12:17:23",
+      "https://news.ycombinator.com/item?id=46944430"
+    ],
+    [
+      "gRPC: From service definition to wire format",
+      "https://kreya.app/blog/grpc-deep-dive/"
     ]
   ],
   [
