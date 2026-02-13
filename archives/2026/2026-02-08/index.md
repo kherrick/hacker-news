@@ -41,6 +41,7 @@
 * [2026-02-08, 15:29:22](https://news.ycombinator.com/item?id=46935104) - [Five disciplines discovered the same math independently – none of them knew](https://freethemath.org)
 * [2026-02-08, 15:22:24](https://news.ycombinator.com/item?id=46935030) - [Synthesizer Cartridge for the Atari 2600](https://www.qotile.net/synth.html)
 * [2026-02-08, 15:21:21](https://news.ycombinator.com/item?id=46935011) - [Noam Chomsky's wife responds to Epstein controversy](https://www.aaronmate.net/p/noam-chomskys-wife-responds-to-epstein)
+* [2026-02-08, 15:10:30](https://news.ycombinator.com/item?id=46934860) - [Advanced Aerial Robotics Made Simple](https://www.drehmflight.com)
 * [2026-02-08, 14:49:16](https://news.ycombinator.com/item?id=46934660) - [Washington imposes 'terrorist-grade sanctions' on Francesca Albanese, ICC judges](https://thecradle.co/articles-id/35816)
 * [2026-02-08, 14:49:12](https://news.ycombinator.com/item?id=46934659) - [How a Cat Debugged Stable Diffusion (2023)](https://blog.dwac.dev/posts/cat-debugging/)
 * [2026-02-08, 14:40:52](https://news.ycombinator.com/item?id=46934579) - [Exploiting signed bootloaders to circumvent UEFI Secure Boot](https://habr.com/en/articles/446238/)
