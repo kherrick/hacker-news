@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-13, 07:00:41",
+      "https://news.ycombinator.com/item?id=46999753"
+    ],
+    [
+      "Asimov (YC W26) Is Hiring",
+      "https://news.ycombinator.com/item?id=46999753"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 06:23:26",
+      "https://news.ycombinator.com/item?id=46999545"
+    ],
+    [
+      "Ring owners are returning their cameras",
+      "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 05:24:40",
       "https://news.ycombinator.com/item?id=46999224"
     ],
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2026-02-12, 19:06:57",
-      "https://news.ycombinator.com/item?id=46993479"
-    ],
-    [
-      "Ask HN: Are you using an agent orchestrator to write code?",
-      "https://news.ycombinator.com/item?id=46993479"
-    ]
-  ],
-  [
-    [
       "2026-02-12, 19:01:54",
       "https://news.ycombinator.com/item?id=46993397"
     ],
     [
       "How to Have a Bad Career – David Patterson (2016) [video]",
       "https://www.youtube.com/watch?v=Rn1w4MRHIhc"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 18:58:56",
-      "https://news.ycombinator.com/item?id=46993345"
-    ],
-    [
-      "Anthropic raises $30B in Series G funding at $380B post-money valuation",
-      "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-02-09, 12:09:59",
-      "https://news.ycombinator.com/item?id=46944376"
-    ],
-    [
-      "Partial 8-Piece Tablebase",
-      "https://lichess.org/@/Lichess/blog/op1-partial-8-piece-tablebase-available/1ptPBDpC"
-    ]
-  ],
-  [
-    [
       "2026-02-09, 11:34:14",
       "https://news.ycombinator.com/item?id=46944125"
     ],
@@ -297,6 +287,16 @@
     [
       "Japan's Dododo Land, the most irritating place on Earth",
       "https://soranews24.com/2026/02/07/take-a-trip-to-japans-dododo-land-the-most-irritating-place-on-earth/"
+    ]
+  ],
+  [
+    [
+      "2026-02-07, 13:45:47",
+      "https://news.ycombinator.com/item?id=46923825"
+    ],
+    [
+      "We interfaced single-threaded C++ with multi-threaded Rust",
+      "https://antithesis.com/blog/2026/rust_cpp/"
     ]
   ]
 ]
