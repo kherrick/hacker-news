@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-13, 14:03:14",
+      "https://news.ycombinator.com/item?id=47002825"
+    ],
+    [
+      "Zed editor switching graphics lib from blade to wgpu",
+      "https://github.com/zed-industries/zed/pull/46758"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 12:32:05",
       "https://news.ycombinator.com/item?id=47001968"
     ],
@@ -101,32 +111,12 @@
   ],
   [
     [
-      "2026-02-12, 23:08:01",
-      "https://news.ycombinator.com/item?id=46996569"
-    ],
-    [
-      "Recoverable and Irrecoverable Decisions",
-      "https://herbertlui.net/recoverable-and-irrecoverable-decisions/"
-    ]
-  ],
-  [
-    [
       "2026-02-12, 22:58:58",
       "https://news.ycombinator.com/item?id=46996490"
     ],
     [
       "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
       "https://news.ycombinator.com/item?id=46996490"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 22:34:58",
-      "https://news.ycombinator.com/item?id=46996258"
-    ],
-    [
-      "Evaluating Multilingual, Context-Aware Guardrails: A Humanitarian LLM Use Case",
-      "https://blog.mozilla.ai/evaluating-multilingual-context-aware-guardrails-evidence-from-a-humanitarian-llm-use-case/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Cache Monet",
       "https://cachemonet.com"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 05:10:36",
+      "https://news.ycombinator.com/item?id=46931482"
+    ],
+    [
+      "Green’s Dictionary of Slang - Five hundred years of the vulgar tongue",
+      "https://greensdictofslang.com/"
     ]
   ],
   [
