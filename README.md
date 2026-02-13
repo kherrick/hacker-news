@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-13, 16:11:08](https://news.ycombinator.com/item?id=47004319) - [I spent two days gigging at RentAHuman and didn't make a single cent](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/)
+* [2026-02-13, 15:36:55](https://news.ycombinator.com/item?id=47003889) - [What Drives Stock Market Returns?](https://outlookzen.com/2018/10/27/where-do-stock-market-returns-come-from/)
 * [2026-02-13, 14:36:28](https://news.ycombinator.com/item?id=47003219) - [Open Source Is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
 * [2026-02-13, 14:36:07](https://news.ycombinator.com/item?id=47003214) - [Apocalypse no: how almost everything we thought we knew about the Maya is wrong](https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong)
 * [2026-02-13, 14:21:01](https://news.ycombinator.com/item?id=47003064) - [Apple, fix my keyboard before the timer ends or I'm leaving iPhone](https://ios-countdown.win/)
@@ -8,7 +10,6 @@
 * [2026-02-13, 12:18:05](https://news.ycombinator.com/item?id=47001871) - [Monosketch](https://monosketch.io/)
 * [2026-02-13, 08:02:23](https://news.ycombinator.com/item?id=47000164) - [CSS-Doodle](https://css-doodle.com/)
 * [2026-02-13, 07:46:03](https://news.ycombinator.com/item?id=47000041) - [MinIO repository is no longer maintained](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)
-* [2026-02-13, 06:23:26](https://news.ycombinator.com/item?id=46999545) - [Ring owners are returning their cameras](https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3)
 * [2026-02-13, 05:24:40](https://news.ycombinator.com/item?id=46999224) - [MMAcevedo aka Lena by qntm](https://qntm.org/mmacevedo)
 * [2026-02-13, 00:07:57](https://news.ycombinator.com/item?id=46997133) - [AWS Adds support for nested virtualization](https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e)
 * [2026-02-12, 23:52:24](https://news.ycombinator.com/item?id=46997008) - [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
@@ -24,11 +25,10 @@
 * [2026-02-09, 14:39:45](https://news.ycombinator.com/item?id=46945693) - [Ruby Newbie Is Joining the Ruby Users Forum](https://www.rubyforum.org/tag/getting-started)
 * [2026-02-08, 20:15:19](https://news.ycombinator.com/item?id=46938084) - [Particle Lenia](https://znah.net/lenia/)
 * [2026-02-08, 15:10:30](https://news.ycombinator.com/item?id=46934860) - [Advanced Aerial Robotics Made Simple](https://www.drehmflight.com)
-* [2026-02-08, 14:33:22](https://news.ycombinator.com/item?id=46934513) - [My Grandma Was a Fed – Lessons from Digitizing Hours of Childhood](https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood/)
 * [2026-02-08, 10:22:00](https://news.ycombinator.com/item?id=46933020) - [Cache Monet](https://cachemonet.com)
 * [2026-02-08, 05:10:36](https://news.ycombinator.com/item?id=46931482) - [Green’s Dictionary of Slang - Five hundred years of the vulgar tongue](https://greensdictofslang.com/)
 * [2026-02-08, 01:37:36](https://news.ycombinator.com/item?id=46930461) - [Implementing Auto Tiling with Just 5 Tiles](https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html)
-* [2026-02-07, 15:56:15](https://news.ycombinator.com/item?id=46924818) - [Japan's Dododo Land, the most irritating place on Earth](https://soranews24.com/2026/02/07/take-a-trip-to-japans-dododo-land-the-most-irritating-place-on-earth/)
+* [2026-02-07, 18:39:16](https://news.ycombinator.com/item?id=46926299) - [An open replacement for the IBM 3174 Establishment Controller](https://github.com/lowobservable/oec)
 * [2026-02-07, 13:45:47](https://news.ycombinator.com/item?id=46923825) - [We interfaced single-threaded C++ with multi-threaded Rust](https://antithesis.com/blog/2026/rust_cpp/)
 
 ## [Archives](archives/index.md)

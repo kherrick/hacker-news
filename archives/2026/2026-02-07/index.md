@@ -17,6 +17,7 @@
 * [2026-02-07, 20:34:03](https://news.ycombinator.com/item?id=46927661) - [We have broken SHA-1 in practice](https://shattered.io/)
 * [2026-02-07, 19:51:56](https://news.ycombinator.com/item?id=46927098) - [Microsoft Account bugs locked me out of Notepad – are Thin Clients ruining PCs?](https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs)
 * [2026-02-07, 19:07:27](https://news.ycombinator.com/item?id=46926576) - [Brookhaven Lab's RHIC Concludes 25-Year Run with Final Collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
+* [2026-02-07, 18:39:16](https://news.ycombinator.com/item?id=46926299) - [An open replacement for the IBM 3174 Establishment Controller](https://github.com/lowobservable/oec)
 * [2026-02-07, 18:32:27](https://news.ycombinator.com/item?id=46926245) - [We Mourn Our Craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
 * [2026-02-07, 18:08:23](https://news.ycombinator.com/item?id=46926043) - [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode)
 * [2026-02-07, 17:45:27](https://news.ycombinator.com/item?id=46925811) - [Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version](https://github.com/Momciloo/fun-with-clip-path)
