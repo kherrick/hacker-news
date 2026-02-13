@@ -57,6 +57,7 @@
 * [2026-02-09, 13:48:18](https://news.ycombinator.com/item?id=46945148) - [Three Cache Layers Between Select and Disk](https://frn.sh/iops/)
 * [2026-02-09, 13:28:12](https://news.ycombinator.com/item?id=46944978) - [Jony Ive Designed Ferrari Luce EV Interior](https://www.topgear.com/car-news/electric/official-ferraris-first-ev-called-luce-interior-apples-old-design-boss)
 * [2026-02-09, 12:35:19](https://news.ycombinator.com/item?id=46944555) - [Show HN: Browse Internet Infrastructure](https://www.wirewiki.com)
+* [2026-02-09, 12:17:23](https://news.ycombinator.com/item?id=46944430) - [gRPC: From service definition to wire format](https://kreya.app/blog/grpc-deep-dive/)
 * [2026-02-09, 12:09:59](https://news.ycombinator.com/item?id=46944376) - [Partial 8-Piece Tablebase](https://lichess.org/@/Lichess/blog/op1-partial-8-piece-tablebase-available/1ptPBDpC)
 * [2026-02-09, 12:09:04](https://news.ycombinator.com/item?id=46944365) - [Show HN: Printable Classics – Free printable classic books for hobby bookbinders](https://printableclassics.com)
 * [2026-02-09, 11:53:13](https://news.ycombinator.com/item?id=46944245) - [Matrix messaging gaining ground in government IT](https://www.theregister.com/2026/02/09/matrix_element_secure_chat/)

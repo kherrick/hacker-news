@@ -19,6 +19,7 @@
 * [2026-02-12, 19:59:52](https://news.ycombinator.com/item?id=46994255) - [Show HN: Generate Web Interfaces from Data](https://github.com/puffinsoft/syntux)
 * [2026-02-12, 19:32:02](https://news.ycombinator.com/item?id=46993829) - [Googlers Demand Worker Safety and ICE Contract Transparency](https://www.googlers-against-ice.com)
 * [2026-02-12, 19:15:47](https://news.ycombinator.com/item?id=46993596) - [Show HN: rari, the rust-powered react framework](https://rari.build/)
+* [2026-02-12, 19:15:21](https://news.ycombinator.com/item?id=46993587) - [Show HN: Moltis – AI assistant with memory, tools, and self-extending skills](https://www.moltis.org)
 * [2026-02-12, 19:06:57](https://news.ycombinator.com/item?id=46993479) - [Ask HN: Are you using an agent orchestrator to write code?](https://news.ycombinator.com/item?id=46993479)
 * [2026-02-12, 19:03:27](https://news.ycombinator.com/item?id=46993417) - [A party balloon shut down El Paso International Airport; estimated cost –$573k](https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History)
 * [2026-02-12, 19:01:54](https://news.ycombinator.com/item?id=46993397) - [How to Have a Bad Career – David Patterson (2016) [video]](https://www.youtube.com/watch?v=Rn1w4MRHIhc)
