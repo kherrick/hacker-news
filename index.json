@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-02-13, 14:36:28",
+      "https://news.ycombinator.com/item?id=47003219"
+    ],
+    [
+      "Open Source Is Not About You (2018)",
+      "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 14:03:14",
       "https://news.ycombinator.com/item?id=47002825"
     ],
     [
       "Zed editor switching graphics lib from blade to wgpu",
       "https://github.com/zed-industries/zed/pull/46758"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 13:33:56",
+      "https://news.ycombinator.com/item?id=47002519"
+    ],
+    [
+      "What China is up to in the Arctic",
+      "https://www.economist.com/china/2026/02/12/what-china-is-really-up-to-in-the-arctic"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Monosketch",
       "https://monosketch.io/"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 11:26:23",
+      "https://news.ycombinator.com/item?id=47001537"
+    ],
+    [
+      "colorForth",
+      "https://colorforth.github.io/cf.htm"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "MMAcevedo aka Lena by qntm",
       "https://qntm.org/mmacevedo"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 00:54:51",
-      "https://news.ycombinator.com/item?id=46997519"
-    ],
-    [
-      "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you",
-      "https://skipthe.tips/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-02-12, 17:14:28",
-      "https://news.ycombinator.com/item?id=46991591"
-    ],
-    [
-      "Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere",
-      "https://news.ycombinator.com/item?id=46991591"
-    ]
-  ],
-  [
-    [
       "2026-02-12, 16:55:50",
       "https://news.ycombinator.com/item?id=46991240"
     ],
@@ -197,16 +207,6 @@
     [
       "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
       "http://blog.can.ac/2026/02/12/the-harness-problem/"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 13:13:30",
-      "https://news.ycombinator.com/item?id=46988438"
-    ],
-    [
-      "Apache Arrow is 10 years old",
-      "https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/"
     ]
   ],
   [
