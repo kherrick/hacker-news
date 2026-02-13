@@ -59,6 +59,7 @@
 * [2026-02-09, 12:09:59](https://news.ycombinator.com/item?id=46944376) - [Partial 8-Piece Tablebase](https://lichess.org/@/Lichess/blog/op1-partial-8-piece-tablebase-available/1ptPBDpC)
 * [2026-02-09, 12:09:04](https://news.ycombinator.com/item?id=46944365) - [Show HN: Printable Classics – Free printable classic books for hobby bookbinders](https://printableclassics.com)
 * [2026-02-09, 11:53:13](https://news.ycombinator.com/item?id=46944245) - [Matrix messaging gaining ground in government IT](https://www.theregister.com/2026/02/09/matrix_element_secure_chat/)
+* [2026-02-09, 11:34:14](https://news.ycombinator.com/item?id=46944125) - [Mapping the Moon: The Apollo Transforming Printer](https://blogs.loc.gov/maps/2025/12/mapping-the-moon-the-apollo-transforming-printer/)
 * [2026-02-09, 11:30:06](https://news.ycombinator.com/item?id=46944084) - [Show HN: Minimal NIST/OWASP-compliant auth implementation for Cloudflare Workers](https://github.com/vhscom/private-landing)
 * [2026-02-09, 10:37:20](https://news.ycombinator.com/item?id=46943752) - [Offpunk 3.0](https://ploum.net/2026-02-09-offpunk3.html)
 * [2026-02-09, 10:05:55](https://news.ycombinator.com/item?id=46943568) - [Show HN: Algorithmically Finding the Longest Line of Sight on Earth](https://alltheviews.world)
