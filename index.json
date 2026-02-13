@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-02-13, 17:55:27",
+      "https://news.ycombinator.com/item?id=47005565"
+    ],
+    [
+      "Dario Amodei – \"We are near the end of the exponential\"",
+      "https://www.dwarkesh.com/p/dario-amodei-2"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 17:13:01",
       "https://news.ycombinator.com/item?id=47005081"
     ],
     [
       "CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'",
       "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 17:06:24",
-      "https://news.ycombinator.com/item?id=47004993"
-    ],
-    [
-      "Good Riddance, 4o",
-      "https://mahadk.com/posts/4o"
     ]
   ],
   [
@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2026-02-13, 16:00:29",
-      "https://news.ycombinator.com/item?id=47004203"
+      "2026-02-13, 16:10:07",
+      "https://news.ycombinator.com/item?id=47004312"
     ],
     [
-      "I ditched OpenClaw and built a more secure AI agent (Blink and Mac Mini)",
-      "https://coder.com/blog/why-i-ditched-openclaw-and-built-a-more-secure-ai-agent-on-blink-mac-mini"
+      "IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes",
+      "https://github.com/nearai/ironclaw"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-02-09, 14:39:45",
-      "https://news.ycombinator.com/item?id=46945693"
+      "2026-02-09, 06:27:34",
+      "https://news.ycombinator.com/item?id=46942170"
     ],
     [
-      "Ruby Newbie Is Joining the Ruby Users Forum",
-      "https://www.rubyforum.org/tag/getting-started"
+      "Syd: Writing an application kernel in Rust [video]",
+      "https://fosdem.org/2026/schedule/event/3AHJPR-rust-syd-application-kernel/"
     ]
   ],
   [
