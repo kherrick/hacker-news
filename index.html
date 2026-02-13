@@ -129,6 +129,163 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47006594">
+          <h3>
+            <a
+              class="item"
+              href="https://openai.com/index/new-result-theoretical-physics/"
+              >GPT-5.2 derives a new result in theoretical physics</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-13 @ 19:20:12</span
+              ><span class="points-container"
+                >Points: <span class="points">138</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47006594"
+                  >Comments</a
+                ><span class="descendants">: 72</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47006513">
+          <h3>
+            <a
+              class="item"
+              href="https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss"
+              >Why I'm not worried about AI job loss</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-13 @ 19:13:04</span
+              ><span class="points-container"
+                >Points: <span class="points">52</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47006513"
+                  >Comments</a
+                ><span class="descendants">: 62</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47006393">
+          <h3>
+            <a class="item" href="https://cloudrouter.dev/"
+              >Show HN: Skill that lets Claude Code/Codex spin up VMs and
+              GPUs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-13 @ 19:02:17</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47006393"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                When an agent writes code, it usually needs to start a dev
+                server, run tests, open a browser to verify its work. Today that
+                all happens on your local machine. This works fine for a single
+                task, but the agent is sharing your computer: your ports, RAM,
+                screen. If you run multiple agents in parallel, it gets a bit
+                chaotic. Docker helps with isolation, but it still uses your
+                machine's resources, and doesn't give the agent a browser, a
+                desktop, or a GPU to close the loop properly. The agent could
+                handle all of this on its own if it had a primitive for starting
+                VMs.
+              </p>
+              <p>
+                CloudRouter is that primitive — a skill that gives the agent its
+                own machines. The agent can start a VM from your local project
+                directory, upload the project files, run commands on the VM, and
+                tear it down when it's done. If it needs a GPU, it can request
+                one.
+              </p>
+              <p></p>
+              <pre><code>  cloudrouter start ./my-project
+  cloudrouter start --gpu B200 ./my-project
+  cloudrouter ssh cr_abc123 "npm install &amp;&amp; npm run dev"
+</code></pre>
+              Every VM comes with a VNC desktop, VS Code, and Jupyter Lab, all
+              behind auth-protected URLs. When the agent is doing browser
+              automation on the VM, you can open the VNC URL and watch it in
+              real time. CloudRouter wraps agent-browser [1] for browser
+              automation.
+              <p></p>
+              <pre><code>  cloudrouter browser open cr_abc123 "http://localhost:3000"
+  cloudrouter browser snapshot -i cr_abc123
+  # → @e1 [link] Home  @e2 [link] Settings  @e3 [button] Sign Out
+  cloudrouter browser click cr_abc123 @e2
+  cloudrouter browser screenshot cr_abc123 result.png
+</code></pre>
+              Here's a short demo:
+              <a href="https://youtu.be/SCkkzxKBcPE"
+                >https://youtu.be/SCkkzxKBcPE</a
+              >
+              <p>
+                What surprised me is how this inverted my workflow. Most cloud
+                dev tooling starts from cloud (background agents, remote SSH,
+                etc) to local for testing. But CloudRouter keeps your agents
+                local and pushes the agent's work to the cloud. The agent does
+                the same things it would do locally — running dev servers,
+                operating browsers — but now on a VM. As I stopped watching
+                agents work and worrying about local constraints, I started to
+                run more tasks in parallel.
+              </p>
+              <p>
+                The GPU side is the part I'm most curious to see develop. Today
+                if you want a coding agent to help with anything involving
+                training or inference, there's a manual step where you go
+                provision a machine. With CloudRouter the agent can just spin up
+                a GPU sandbox, run the workload, and clean it up when it's done.
+                Some of my friends have been using it to have agents run small
+                experiments in parallel, but my ears are open to other use
+                cases.
+              </p>
+              <p>
+                Would love your feedback and ideas. CloudRouter lives under
+                packages/cloudrouter of our monorepo
+                <a href="https://github.com/manaflow-ai/manaflow"
+                  >https://github.com/manaflow-ai/manaflow</a
+                >.
+              </p>
+              <p>
+                [1]
+                <a href="https://github.com/vercel-labs/agent-browser"
+                  >https://github.com/vercel-labs/agent-browser</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47006316">
+          <h3>
+            <a class="item" href="https://www.youtube.com/watch?v=lEBQveBCtKY"
+              >Age of Empires: 25 years of pathfinding problems with C++
+              [video]</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-13 @ 18:56:38</span
+              ><span class="points-container"
+                >Points: <span class="points">36</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47006316"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47005081">
           <h3>
             <a
@@ -142,11 +299,11 @@
             <h4>
               <span>2026-02-13 @ 17:13:01</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47005081"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
@@ -164,11 +321,11 @@
             <h4>
               <span>2026-02-13 @ 16:11:08</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47004319"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -184,11 +341,11 @@
             <h4>
               <span>2026-02-13 @ 16:10:07</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47004312"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -205,33 +362,11 @@
             <h4>
               <span>2026-02-13 @ 14:36:28</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47003219"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47003214">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong"
-              >Apocalypse no: how almost everything we thought we knew about the
-              Maya is wrong</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-13 @ 14:36:07</span
-              ><span class="points-container"
-                >Points: <span class="points">68</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47003214"
-                  >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -247,11 +382,11 @@
             <h4>
               <span>2026-02-13 @ 14:21:01</span
               ><span class="points-container"
-                >Points: <span class="points">841</span></span
+                >Points: <span class="points">932</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47003064"
                   >Comments</a
-                ><span class="descendants">: 426</span></span
+                ><span class="descendants">: 461</span></span
               >
             </h4>
           </section>
@@ -268,11 +403,11 @@
             <h4>
               <span>2026-02-13 @ 14:03:14</span
               ><span class="points-container"
-                >Points: <span class="points">251</span></span
+                >Points: <span class="points">255</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47002825"
                   >Comments</a
-                ><span class="descendants">: 213</span></span
+                ><span class="descendants">: 223</span></span
               >
             </h4>
           </section>
@@ -299,26 +434,11 @@
             <h4>
               <span>2026-02-13 @ 12:18:05</span
               ><span class="points-container"
-                >Points: <span class="points">553</span></span
+                >Points: <span class="points">577</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47001871"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47000164">
-          <h3><a class="item" href="https://css-doodle.com/">CSS-Doodle</a></h3>
-          <section>
-            <h4>
-              <span>2026-02-13 @ 08:02:23</span
-              ><span class="points-container"
-                >Points: <span class="points">104</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47000164"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -335,11 +455,11 @@
             <h4>
               <span>2026-02-13 @ 07:46:03</span
               ><span class="points-container"
-                >Points: <span class="points">418</span></span
+                >Points: <span class="points">422</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47000041"
                   >Comments</a
-                ><span class="descendants">: 296</span></span
+                ><span class="descendants">: 302</span></span
               >
             </h4>
           </section>
@@ -354,32 +474,11 @@
             <h4>
               <span>2026-02-13 @ 05:24:40</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">278</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46999224"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46997133">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e"
-              >AWS Adds support for nested virtualization</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-13 @ 00:07:57</span
-              ><span class="points-container"
-                >Points: <span class="points">282</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46997133"
-                  >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -396,11 +495,11 @@
             <h4>
               <span>2026-02-12 @ 23:52:24</span
               ><span class="points-container"
-                >Points: <span class="points">793</span></span
+                >Points: <span class="points">801</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46997008"
                   >Comments</a
-                ><span class="descendants">: 422</span></span
+                ><span class="descendants">: 430</span></span
               >
             </h4>
           </section>
@@ -416,7 +515,7 @@
             <h4>
               <span>2026-02-12 @ 22:58:58</span
               ><span class="points-container"
-                >Points: <span class="points">453</span></span
+                >Points: <span class="points">460</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46996490"
                   >Comments</a
@@ -467,23 +566,64 @@
             </div>
           </section>
         </section>
-        <section id="46992815">
+        <section id="46993587">
           <h3>
-            <a class="item" href="https://pol.is/home2"
-              >Polis: Open-source platform for large-scale civic deliberation</a
+            <a class="item" href="https://www.moltis.org"
+              >Show HN: Moltis – AI assistant with memory, tools, and
+              self-extending skills</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-12 @ 18:23:20</span
+              <span>2026-02-12 @ 19:15:21</span
               ><span class="points-container"
-                >Points: <span class="points">326</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46992815"
+                ><a href="https://news.ycombinator.com/item?id=46993587"
                   >Comments</a
-                ><span class="descendants">: 121</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                Moltis is one Rust binary, 150k lines, ~60MB, web UI included.
+                No Node, no Python, no runtime deps. Multi-provider LLM routing
+                (OpenAI, local GGUF/MLX, Hugging Face), sandboxed execution
+                (Docker/Podman/Apple Containers), hybrid vector + full-text
+                memory, MCP tool servers with auto-restart, and multi-channel
+                (web, Telegram, API) with shared context. MIT licensed. No
+                telemetry phoning home, but full observability built in
+                (OpenTelemetry, Prometheus).
+              </p>
+              <p>
+                I've included 1-click deploys on DigitalOcean and Fly.io, but
+                since a Docker image is provided you can easily run it on your
+                own servers as well. I've written before about owning your
+                content (<a href="https://pen.so/2020/11/07/own-your-content/"
+                  >https://pen.so/2020/11/07/own-your-content/</a
+                >) and owning your email (<a
+                  href="https://pen.so/2020/12/10/own-your-email/"
+                  >https://pen.so/2020/12/10/own-your-email/</a
+                >). Same logic here: if something touches your files,
+                credentials, and daily workflow, you should be able to inspect
+                it, audit it, and fork it if the project changes direction.
+              </p>
+              <p>
+                It's alpha. I use it daily and I'm shipping because it's useful,
+                not because it's done.
+              </p>
+              <p>
+                Longer architecture deep-dive:
+                <a
+                  href="https://pen.so/2026/02/12/moltis-a-personal-ai-assistant-built-in-rust/"
+                  >https://pen.so/2026/02/12/moltis-a-personal-ai-assistant-bui...</a
+                >
+              </p>
+              <p>
+                Happy to discuss the Rust architecture, security model, or local
+                LLM setup. Would love feedback.
+              </p>
+            </div>
           </section>
         </section>
         <section id="46992553">
@@ -498,7 +638,7 @@
             <h4>
               <span>2026-02-12 @ 18:06:09</span
               ><span class="points-container"
-                >Points: <span class="points">856</span></span
+                >Points: <span class="points">861</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46992553"
                   >Comments</a
@@ -519,11 +659,11 @@
             <h4>
               <span>2026-02-12 @ 16:55:50</span
               ><span class="points-container"
-                >Points: <span class="points">1007</span></span
+                >Points: <span class="points">1012</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46991240"
                   >Comments</a
-                ><span class="descendants">: 663</span></span
+                ><span class="descendants">: 669</span></span
               >
             </h4>
             <div class="text">
@@ -550,11 +690,11 @@
             <h4>
               <span>2026-02-12 @ 16:23:24</span
               ><span class="points-container"
-                >Points: <span class="points">2183</span></span
+                >Points: <span class="points">2197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46990729"
                   >Comments</a
-                ><span class="descendants">: 902</span></span
+                ><span class="descendants">: 909</span></span
               >
             </h4>
             <div class="text">
@@ -570,50 +710,6 @@
             </div>
           </section>
         </section>
-        <section id="46990578">
-          <h3>
-            <a
-              class="item"
-              href="https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver"
-              >Beginning fully autonomous operations with the 6th-generation
-              Waymo driver</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-12 @ 16:10:29</span
-              ><span class="points-container"
-                >Points: <span class="points">281</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46990578"
-                  >Comments</a
-                ><span class="descendants">: 374</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="46988596">
-          <h3>
-            <a
-              class="item"
-              href="http://blog.can.ac/2026/02/12/the-harness-problem/"
-              >Improving 15 LLMs at Coding in One Afternoon. Only the Harness
-              Changed</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-12 @ 13:30:20</span
-              ><span class="points-container"
-                >Points: <span class="points">782</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=46988596"
-                  >Comments</a
-                ><span class="descendants">: 280</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="46954637">
           <h3>
             <a
@@ -626,11 +722,30 @@
             <h4>
               <span>2026-02-10 @ 02:36:34</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46954637"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 47</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="46944430">
+          <h3>
+            <a class="item" href="https://kreya.app/blog/grpc-deep-dive/"
+              >gRPC: From service definition to wire format</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-09 @ 12:17:23</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=46944430"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -647,7 +762,7 @@
             <h4>
               <span>2026-02-09 @ 06:27:34</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46942170"
                   >Comments</a
@@ -668,11 +783,11 @@
             <h4>
               <span>2026-02-08 @ 23:15:54</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46939613"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -687,7 +802,7 @@
             <h4>
               <span>2026-02-08 @ 15:10:30</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46934860"
                   >Comments</a
@@ -702,7 +817,7 @@
             <h4>
               <span>2026-02-08 @ 10:22:00</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46933020"
                   >Comments</a
@@ -722,7 +837,7 @@
             <h4>
               <span>2026-02-08 @ 05:10:36</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46931482"
                   >Comments</a
@@ -743,11 +858,11 @@
             <h4>
               <span>2026-02-08 @ 01:37:36</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46930461"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -762,7 +877,7 @@
             <h4>
               <span>2026-02-07 @ 18:39:16</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46926299"
                   >Comments</a
@@ -781,7 +896,7 @@
             <h4>
               <span>2026-02-07 @ 13:45:47</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=46923825"
                   >Comments</a
