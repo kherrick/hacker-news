@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-13, 19:33:16](https://news.ycombinator.com/item?id=47006738) - [11.8M EU citizens pay taxes to governments they cannot vote for](https://homolova.sk/missingvoters/)
 * [2026-02-13, 19:20:12](https://news.ycombinator.com/item?id=47006594) - [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)
-* [2026-02-13, 19:13:04](https://news.ycombinator.com/item?id=47006513) - [Why I'm not worried about AI job loss](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 * [2026-02-13, 19:02:17](https://news.ycombinator.com/item?id=47006393) - [Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs](https://cloudrouter.dev/)
 * [2026-02-13, 18:56:38](https://news.ycombinator.com/item?id=47006316) - [Age of Empires: 25 years of pathfinding problems with C++ [video]](https://www.youtube.com/watch?v=lEBQveBCtKY)
+* [2026-02-13, 18:35:32](https://news.ycombinator.com/item?id=47006055) - [The Sharp PC-2000 Computer Boombox from 1979](https://stereo2go.com/forums/threads/one-of-the-rarest-the-sharp-pc-2000-computer-boombox-from-1979.10341/)
 * [2026-02-13, 17:13:01](https://news.ycombinator.com/item?id=47005081) - [CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 * [2026-02-13, 16:11:08](https://news.ycombinator.com/item?id=47004319) - [I spent two days gigging at RentAHuman and didn't make a single cent](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/)
 * [2026-02-13, 16:10:07](https://news.ycombinator.com/item?id=47004312) - [IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes](https://github.com/nearai/ironclaw)
@@ -12,7 +13,6 @@
 * [2026-02-13, 14:03:14](https://news.ycombinator.com/item?id=47002825) - [Zed editor switching graphics lib from blade to wgpu](https://github.com/zed-industries/zed/pull/46758)
 * [2026-02-13, 12:32:05](https://news.ycombinator.com/item?id=47001968) - [Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job](http://qualify.gauntletAI.com)
 * [2026-02-13, 12:18:05](https://news.ycombinator.com/item?id=47001871) - [Monosketch](https://monosketch.io/)
-* [2026-02-13, 07:46:03](https://news.ycombinator.com/item?id=47000041) - [MinIO repository is no longer maintained](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)
 * [2026-02-13, 05:24:40](https://news.ycombinator.com/item?id=46999224) - [MMAcevedo aka Lena by qntm](https://qntm.org/mmacevedo)
 * [2026-02-12, 23:52:24](https://news.ycombinator.com/item?id=46997008) - [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
 * [2026-02-12, 22:58:58](https://news.ycombinator.com/item?id=46996490) - [Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)](https://news.ycombinator.com/item?id=46996490)
@@ -21,6 +21,7 @@
 * [2026-02-12, 16:55:50](https://news.ycombinator.com/item?id=46991240) - [Gemini 3 Deep Think](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/)
 * [2026-02-12, 16:23:24](https://news.ycombinator.com/item?id=46990729) - [An AI agent published a hit piece on me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 * [2026-02-10, 02:36:34](https://news.ycombinator.com/item?id=46954637) - [Faster Than Dijkstra?](https://systemsapproach.org/2026/02/09/faster-than-dijkstra/)
+* [2026-02-09, 14:39:51](https://news.ycombinator.com/item?id=46945696) - [Do Metaprojects](https://taylor.town/wealth-001)
 * [2026-02-09, 12:17:23](https://news.ycombinator.com/item?id=46944430) - [gRPC: From service definition to wire format](https://kreya.app/blog/grpc-deep-dive/)
 * [2026-02-09, 06:27:34](https://news.ycombinator.com/item?id=46942170) - [Syd: Writing an application kernel in Rust [video]](https://fosdem.org/2026/schedule/event/3AHJPR-rust-syd-application-kernel/)
 * [2026-02-08, 23:15:54](https://news.ycombinator.com/item?id=46939613) - [Sandwich Bill of Materials](https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html)
@@ -29,7 +30,6 @@
 * [2026-02-08, 05:10:36](https://news.ycombinator.com/item?id=46931482) - [Green’s Dictionary of Slang - Five hundred years of the vulgar tongue](https://greensdictofslang.com/)
 * [2026-02-08, 01:37:36](https://news.ycombinator.com/item?id=46930461) - [Implementing Auto Tiling with Just 5 Tiles](https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html)
 * [2026-02-07, 18:39:16](https://news.ycombinator.com/item?id=46926299) - [An open replacement for the IBM 3174 Establishment Controller](https://github.com/lowobservable/oec)
-* [2026-02-07, 13:45:47](https://news.ycombinator.com/item?id=46923825) - [We interfaced single-threaded C++ with multi-threaded Rust](https://antithesis.com/blog/2026/rust_cpp/)
 
 ## [Archives](archives/index.md)
 

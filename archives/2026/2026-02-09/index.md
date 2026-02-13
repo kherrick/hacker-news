@@ -46,6 +46,7 @@
 * [2026-02-09, 14:57:25](https://news.ycombinator.com/item?id=46945907) - [HeyWhatsThat](https://www.heywhatsthat.com/faq.html)
 * [2026-02-09, 14:44:30](https://news.ycombinator.com/item?id=46945755) - [AI Doesn't Reduce Work–It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
 * [2026-02-09, 14:44:01](https://news.ycombinator.com/item?id=46945742) - [Discord Launches Teen-by-Default Settings Globally](https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally)
+* [2026-02-09, 14:39:51](https://news.ycombinator.com/item?id=46945696) - [Do Metaprojects](https://taylor.town/wealth-001)
 * [2026-02-09, 14:39:45](https://news.ycombinator.com/item?id=46945693) - [Ruby Newbie Is Joining the Ruby Users Forum](https://www.rubyforum.org/tag/getting-started)
 * [2026-02-09, 14:37:38](https://news.ycombinator.com/item?id=46945663) - [Discord will require a face scan or ID for full access next month](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
 * [2026-02-09, 14:36:14](https://news.ycombinator.com/item?id=46945641) - [Long-Sought Proof Tames Some of Math's Unruliest Equations](https://www.quantamagazine.org/long-sought-proof-tames-some-of-maths-unruliest-equations-20260206/)
