@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-02-13, 22:22:49",
-      "https://news.ycombinator.com/item?id=47008617"
-    ],
-    [
-      "AI bot crabby-rathbun is still polluting open source",
-      "https://www.nickolinger.com/blog/2026-02-13-ai-bot-crabby-rathbun-is-still-going/"
-    ]
-  ],
-  [
-    [
       "2026-02-13, 22:17:06",
       "https://news.ycombinator.com/item?id=47008560"
     ],
@@ -77,6 +67,16 @@
     [
       "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
       "https://cloudrouter.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 18:56:38",
+      "https://news.ycombinator.com/item?id=47006316"
+    ],
+    [
+      "Age of Empires: 25 years of pathfinding problems with C++ [video]",
+      "https://www.youtube.com/watch?v=lEBQveBCtKY"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=46950296"
     ],
     [
-      "MySQL Foreign Key Cascade Operations Hit the Binary Log",
+      "MySQL foreign key cascade operations finally hit the binary log",
       "https://readyset.io/blog/mysql-9-6-foreign-key-cascade-operations-finally-hit-the-binary-log"
     ]
   ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-02-08, 15:10:30",
+      "https://news.ycombinator.com/item?id=46934860"
+    ],
+    [
+      "Advanced Aerial Robotics Made Simple",
+      "https://www.drehmflight.com"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 05:10:36",
       "https://news.ycombinator.com/item?id=46931482"
     ],
@@ -287,16 +297,6 @@
     [
       "Font Rendering from First Principles",
       "https://mccloskeybr.com/articles/font_rendering.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 18:39:16",
-      "https://news.ycombinator.com/item?id=46926299"
-    ],
-    [
-      "An open replacement for the IBM 3174 Establishment Controller",
-      "https://github.com/lowobservable/oec"
     ]
   ]
 ]
