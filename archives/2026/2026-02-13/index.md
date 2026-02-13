@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-13](index.md)
 
+* [2026-02-13, 22:17:06](https://news.ycombinator.com/item?id=47008560) - [OpenAI has deleted the word 'safely' from its mission](https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467)
+* [2026-02-13, 21:35:52](https://news.ycombinator.com/item?id=47008163) - [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book)
 * [2026-02-13, 21:10:47](https://news.ycombinator.com/item?id=47007877) - [AI safety leader says 'world is in peril' and quits to study poetry](https://www.bbc.com/news/articles/c62dlvdq3e3o)
 * [2026-02-13, 20:52:11](https://news.ycombinator.com/item?id=47007656) - [The EU moves to kill infinite scrolling](https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/)
 * [2026-02-13, 20:16:31](https://news.ycombinator.com/item?id=47007259) - [Something Big Is (Not) Happening](https://www.aricolaprete.com/2026/02/something-big-is-not-happening.html)
