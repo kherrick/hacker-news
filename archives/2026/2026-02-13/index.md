@@ -6,6 +6,8 @@
 
 * [2026-02-13, 21:10:47](https://news.ycombinator.com/item?id=47007877) - [AI safety leader says 'world is in peril' and quits to study poetry](https://www.bbc.com/news/articles/c62dlvdq3e3o)
 * [2026-02-13, 20:52:11](https://news.ycombinator.com/item?id=47007656) - [The EU moves to kill infinite scrolling](https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/)
+* [2026-02-13, 20:16:31](https://news.ycombinator.com/item?id=47007259) - [Something Big Is (Not) Happening](https://www.aricolaprete.com/2026/02/something-big-is-not-happening.html)
+* [2026-02-13, 19:41:42](https://news.ycombinator.com/item?id=47006843) - [The Scott Shambaugh Situation Clarifies How Dumb We Are Acting](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 * [2026-02-13, 19:33:16](https://news.ycombinator.com/item?id=47006738) - [11.8M EU citizens pay taxes to governments they cannot vote for](https://homolova.sk/missingvoters/)
 * [2026-02-13, 19:20:12](https://news.ycombinator.com/item?id=47006594) - [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)
 * [2026-02-13, 19:13:04](https://news.ycombinator.com/item?id=47006513) - [Why I'm not worried about AI job loss](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
