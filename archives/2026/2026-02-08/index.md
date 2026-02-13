@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
 * [2026-02-08, 23:27:59](https://news.ycombinator.com/item?id=46939685) - [Every book recommended on the Odd Lots Discord](https://odd-lots-books.netlify.app/)
+* [2026-02-08, 23:15:54](https://news.ycombinator.com/item?id=46939613) - [Sandwich Bill of Materials](https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html)
 * [2026-02-08, 23:13:34](https://news.ycombinator.com/item?id=46939593) - [AI Makes the Easy Part Easier and the Hard Part Harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
 * [2026-02-08, 22:39:46](https://news.ycombinator.com/item?id=46939312) - [Show HN: A custom font that displays Cistercian numerals using ligatures](https://bobbiec.github.io/cistercian-font.html)
 * [2026-02-08, 22:38:14](https://news.ycombinator.com/item?id=46939298) - [Toma (YC W24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products)
