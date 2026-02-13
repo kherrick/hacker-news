@@ -35,6 +35,7 @@
 * [2026-02-07, 14:58:10](https://news.ycombinator.com/item?id=46924371) - [Show HN: One-click AI employee with its own cloud desktop](https://cloudbot-ai.com)
 * [2026-02-07, 14:42:16](https://news.ycombinator.com/item?id=46924264) - [Stories from 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
 * [2026-02-07, 14:15:36](https://news.ycombinator.com/item?id=46924075) - [GLM-OCR: Accurate × Fast × Comprehensive](https://github.com/zai-org/GLM-OCR)
+* [2026-02-07, 13:45:47](https://news.ycombinator.com/item?id=46923825) - [We interfaced single-threaded C++ with multi-threaded Rust](https://antithesis.com/blog/2026/rust_cpp/)
 * [2026-02-07, 13:34:34](https://news.ycombinator.com/item?id=46923736) - [France's homegrown open source online office suite](https://github.com/suitenumerique)
 * [2026-02-07, 13:09:12](https://news.ycombinator.com/item?id=46923554) - [Hacking the last Z80 computer – FOSDEM 2026 [video]](https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/)
 * [2026-02-07, 13:07:09](https://news.ycombinator.com/item?id=46923543) - [Software Engineering Is Back](https://blog.alaindichiappari.dev/p/software-engineering-is-back)

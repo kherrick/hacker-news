@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-13](index.md)
 
+* [2026-02-13, 07:00:41](https://news.ycombinator.com/item?id=46999753) - [Asimov (YC W26) Is Hiring](https://news.ycombinator.com/item?id=46999753)
+* [2026-02-13, 06:23:26](https://news.ycombinator.com/item?id=46999545) - [Ring owners are returning their cameras](https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3)
 * [2026-02-13, 05:24:40](https://news.ycombinator.com/item?id=46999224) - [MMAcevedo aka Lena by qntm](https://qntm.org/mmacevedo)
 * [2026-02-13, 05:05:26](https://news.ycombinator.com/item?id=46999117) - [New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]](https://nickbostrom.com/optimal.pdf)
 * [2026-02-13, 03:33:27](https://news.ycombinator.com/item?id=46998606) - [The Wonder of Modern Drywall](https://worksinprogress.co/issue/the-wonder-of-modern-drywall/)
