@@ -67,6 +67,7 @@
 * [2026-02-09, 08:14:28](https://news.ycombinator.com/item?id=46942864) - [Text classification with Python 3.14's ZSTD module](https://maxhalford.github.io/blog/text-classification-zstd/)
 * [2026-02-09, 08:03:02](https://news.ycombinator.com/item?id=46942785) - [1D Cellular Automata Playground](https://paraschopra.github.io/1d-ca/)
 * [2026-02-09, 07:53:33](https://news.ycombinator.com/item?id=46942704) - [The Cost of a Function Call](https://lemire.me/blog/2026/02/08/the-cost-of-a-function-call/)
+* [2026-02-09, 06:27:34](https://news.ycombinator.com/item?id=46942170) - [Syd: Writing an application kernel in Rust [video]](https://fosdem.org/2026/schedule/event/3AHJPR-rust-syd-application-kernel/)
 * [2026-02-09, 05:28:15](https://news.ycombinator.com/item?id=46941882) - [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/)
 * [2026-02-09, 05:23:37](https://news.ycombinator.com/item?id=46941850) - [Job Hunters Are So Desperate That They're Paying to Get Recruited](https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2)
 * [2026-02-09, 04:38:14](https://news.ycombinator.com/item?id=46941640) - [TSMC to make advanced AI semiconductors in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
