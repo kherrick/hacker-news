@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-13, 22:22:49",
+      "https://news.ycombinator.com/item?id=47008617"
+    ],
+    [
+      "AI bot crabby-rathbun is still polluting open source",
+      "https://www.nickolinger.com/blog/2026-02-13-ai-bot-crabby-rathbun-is-still-going/"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 22:17:06",
       "https://news.ycombinator.com/item?id=47008560"
     ],
@@ -16,7 +26,7 @@
     ],
     [
       "Show HN: Data Engineering Book – An open source, community-driven guide",
-      "https://github.com/datascale-ai/data_engineering_book"
+      "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "The EU moves to kill infinite scrolling",
       "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 20:16:31",
-      "https://news.ycombinator.com/item?id=47007259"
-    ],
-    [
-      "Something Big Is (Not) Happening",
-      "https://www.aricolaprete.com/2026/02/something-big-is-not-happening.html"
     ]
   ],
   [
@@ -91,22 +91,12 @@
   ],
   [
     [
-      "2026-02-13, 16:10:07",
-      "https://news.ycombinator.com/item?id=47004312"
+      "2026-02-13, 17:50:54",
+      "https://news.ycombinator.com/item?id=47005509"
     ],
     [
-      "IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes",
-      "https://github.com/nearai/ironclaw"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 14:36:28",
-      "https://news.ycombinator.com/item?id=47003219"
-    ],
-    [
-      "Open source is not about you (2018)",
-      "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9"
+      "Building a TUI is easy now",
+      "https://hatchet.run/blog/tuis-are-easy-now"
     ]
   ],
   [
@@ -201,12 +191,22 @@
   ],
   [
     [
-      "2026-02-12, 22:58:58",
-      "https://news.ycombinator.com/item?id=46996490"
+      "2026-02-13, 03:33:27",
+      "https://news.ycombinator.com/item?id=47008931"
     ],
     [
-      "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
-      "https://news.ycombinator.com/item?id=46996490"
+      "The wonder of modern drywall",
+      "https://www.worksinprogress.news/p/the-wonder-of-modern-drywall"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 00:54:51",
+      "https://news.ycombinator.com/item?id=46997519"
+    ],
+    [
+      "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you",
+      "https://skipthe.tips/"
     ]
   ],
   [
