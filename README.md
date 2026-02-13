@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-13, 22:22:49](https://news.ycombinator.com/item?id=47008617) - [AI bot crabby-rathbun is still polluting open source](https://www.nickolinger.com/blog/2026-02-13-ai-bot-crabby-rathbun-is-still-going/)
 * [2026-02-13, 22:17:06](https://news.ycombinator.com/item?id=47008560) - [OpenAI has deleted the word 'safely' from its mission](https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467)
 * [2026-02-13, 21:35:52](https://news.ycombinator.com/item?id=47008163) - [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)
 * [2026-02-13, 20:52:11](https://news.ycombinator.com/item?id=47007656) - [The EU moves to kill infinite scrolling](https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/)
@@ -8,6 +7,7 @@
 * [2026-02-13, 19:20:12](https://news.ycombinator.com/item?id=47006594) - [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)
 * [2026-02-13, 19:13:04](https://news.ycombinator.com/item?id=47006513) - [I'm not worried about AI job loss](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 * [2026-02-13, 19:02:17](https://news.ycombinator.com/item?id=47006393) - [Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs](https://cloudrouter.dev/)
+* [2026-02-13, 18:56:38](https://news.ycombinator.com/item?id=47006316) - [Age of Empires: 25 years of pathfinding problems with C++ [video]](https://www.youtube.com/watch?v=lEBQveBCtKY)
 * [2026-02-13, 17:55:27](https://news.ycombinator.com/item?id=47005565) - [Dario Amodei – \"We are near the end of the exponential\" [video]](https://www.dwarkesh.com/p/dario-amodei-2)
 * [2026-02-13, 17:50:54](https://news.ycombinator.com/item?id=47005509) - [Building a TUI is easy now](https://hatchet.run/blog/tuis-are-easy-now)
 * [2026-02-13, 14:36:07](https://news.ycombinator.com/item?id=47003214) - [How did the Maya survive?](https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong)
@@ -23,13 +23,13 @@
 * [2026-02-13, 00:54:51](https://news.ycombinator.com/item?id=46997519) - [Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you](https://skipthe.tips/)
 * [2026-02-12, 19:15:21](https://news.ycombinator.com/item?id=46993587) - [Show HN: Moltis – AI assistant with memory, tools, and self-extending skills](https://www.moltis.org)
 * [2026-02-10, 02:36:34](https://news.ycombinator.com/item?id=46954637) - [Faster Than Dijkstra?](https://systemsapproach.org/2026/02/09/faster-than-dijkstra/)
-* [2026-02-09, 20:01:07](https://news.ycombinator.com/item?id=46950296) - [MySQL Foreign Key Cascade Operations Hit the Binary Log](https://readyset.io/blog/mysql-9-6-foreign-key-cascade-operations-finally-hit-the-binary-log)
+* [2026-02-09, 20:01:07](https://news.ycombinator.com/item?id=46950296) - [MySQL foreign key cascade operations finally hit the binary log](https://readyset.io/blog/mysql-9-6-foreign-key-cascade-operations-finally-hit-the-binary-log)
 * [2026-02-09, 14:39:51](https://news.ycombinator.com/item?id=46945696) - [Do Metaprojects](https://taylor.town/wealth-001)
 * [2026-02-09, 12:17:23](https://news.ycombinator.com/item?id=46944430) - [gRPC: From service definition to wire format](https://kreya.app/blog/grpc-deep-dive/)
 * [2026-02-08, 23:15:54](https://news.ycombinator.com/item?id=46939613) - [Sandwich Bill of Materials](https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html)
+* [2026-02-08, 15:10:30](https://news.ycombinator.com/item?id=46934860) - [Advanced Aerial Robotics Made Simple](https://www.drehmflight.com)
 * [2026-02-08, 05:10:36](https://news.ycombinator.com/item?id=46931482) - [Green’s Dictionary of Slang - Five hundred years of the vulgar tongue](https://greensdictofslang.com/)
 * [2026-02-08, 00:58:29](https://news.ycombinator.com/item?id=46930181) - [Font Rendering from First Principles](https://mccloskeybr.com/articles/font_rendering.html)
-* [2026-02-07, 18:39:16](https://news.ycombinator.com/item?id=46926299) - [An open replacement for the IBM 3174 Establishment Controller](https://github.com/lowobservable/oec)
 
 ## [Archives](archives/index.md)
 
