@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-13](index.md)
 
+* [2026-02-13, 12:01:11](https://news.ycombinator.com/item?id=47001756) - [GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC](https://www.workatastartup.com/companies/govdash)
 * [2026-02-13, 10:18:56](https://news.ycombinator.com/item?id=47001095) - [WolfSSL Sucks Too, So Now What?](https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/)
 * [2026-02-13, 09:22:42](https://news.ycombinator.com/item?id=47000737) - [Ask HN: Is there a no-LLM license yet?](https://news.ycombinator.com/item?id=47000737)
 * [2026-02-13, 07:46:03](https://news.ycombinator.com/item?id=47000041) - [MinIO repository is no longer maintained](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)
