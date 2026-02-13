@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-02-13](index.md)
 
 * [2026-02-13, 14:36:28](https://news.ycombinator.com/item?id=47003219) - [Open Source Is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
+* [2026-02-13, 14:36:07](https://news.ycombinator.com/item?id=47003214) - [Apocalypse no: how almost everything we thought we knew about the Maya is wrong](https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong)
+* [2026-02-13, 14:21:01](https://news.ycombinator.com/item?id=47003064) - [Apple, fix my keyboard before the timer ends or I'm leaving iPhone](https://ios-countdown.win/)
 * [2026-02-13, 14:03:14](https://news.ycombinator.com/item?id=47002825) - [Zed editor switching graphics lib from blade to wgpu](https://github.com/zed-industries/zed/pull/46758)
 * [2026-02-13, 13:33:56](https://news.ycombinator.com/item?id=47002519) - [What China is up to in the Arctic](https://www.economist.com/china/2026/02/12/what-china-is-really-up-to-in-the-arctic)
 * [2026-02-13, 12:32:05](https://news.ycombinator.com/item?id=47001968) - [Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job](http://qualify.gauntletAI.com)
