@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-13, 03:33:27",
+      "https://news.ycombinator.com/item?id=46998606"
+    ],
+    [
+      "The Wonder of Modern Drywall",
+      "https://worksinprogress.co/issue/the-wonder-of-modern-drywall/"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 01:09:37",
+      "https://news.ycombinator.com/item?id=46997658"
+    ],
+    [
+      "Inside Epstein’s network: what 1.4M emails reveal",
+      "https://www.economist.com/interactive/international/2026/02/12/inside-epsteins-network"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 00:54:51",
       "https://news.ycombinator.com/item?id=46997519"
     ],
@@ -51,22 +71,22 @@
   ],
   [
     [
-      "2026-02-12, 20:57:33",
-      "https://news.ycombinator.com/item?id=46995046"
+      "2026-02-12, 22:58:58",
+      "https://news.ycombinator.com/item?id=46996490"
     ],
     [
-      "Welcoming Discord users amidst the challenge of Age Verification",
-      "https://matrix.org/blog/2026/02/welcome-discord/"
+      "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
+      "https://news.ycombinator.com/item?id=46996490"
     ]
   ],
   [
     [
-      "2026-02-12, 20:53:30",
-      "https://news.ycombinator.com/item?id=46995001"
+      "2026-02-12, 22:34:58",
+      "https://news.ycombinator.com/item?id=46996258"
     ],
     [
-      "ICE, CBP Knew Facial Recognition App Couldn't Do What DHS Says It Could",
-      "https://www.techdirt.com/2026/02/12/ice-cbp-knew-facial-recognition-app-couldnt-do-what-dhs-says-it-could-deployed-it-anyway/"
+      "Evaluating Multilingual, Context-Aware Guardrails: A Humanitarian LLM Use Case",
+      "https://blog.mozilla.ai/evaluating-multilingual-context-aware-guardrails-evidence-from-a-humanitarian-llm-use-case/"
     ]
   ],
   [
@@ -87,6 +107,16 @@
     [
       "Rari – Rust-powered React framework",
       "https://rari.build/"
+    ]
+  ],
+  [
+    [
+      "2026-02-12, 19:06:57",
+      "https://news.ycombinator.com/item?id=46993479"
+    ],
+    [
+      "Ask HN: Are you using an agent orchestrator to write code?",
+      "https://news.ycombinator.com/item?id=46993479"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-02-12, 17:05:36",
-      "https://news.ycombinator.com/item?id=46991435"
-    ],
-    [
-      "Shut Up: Comment Blocker",
-      "https://rickyromero.com/shutup/"
-    ]
-  ],
-  [
-    [
       "2026-02-12, 16:55:50",
       "https://news.ycombinator.com/item?id=46991240"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2026-02-12, 14:56:18",
-      "https://news.ycombinator.com/item?id=46989605"
-    ],
-    [
-      "A brief history of barbed wire fence telephone networks (2024)",
-      "https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/"
-    ]
-  ],
-  [
-    [
       "2026-02-12, 14:24:15",
       "https://news.ycombinator.com/item?id=46989217"
     ],
     [
       "Major European payment processor can't send email to Google Workspace users",
       "https://atha.io/blog/2026-02-12-viva"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 14:17:06",
-      "https://news.ycombinator.com/item?id=46989117"
-    ],
-    [
-      "The Future for Tyr, a Rust GPU Driver for Arm Mali Hardware",
-      "https://lwn.net/Articles/1055590/"
     ]
   ],
   [
@@ -231,22 +231,12 @@
   ],
   [
     [
-      "2026-02-12, 12:23:05",
-      "https://news.ycombinator.com/item?id=46987919"
+      "2026-02-10, 20:02:05",
+      "https://news.ycombinator.com/item?id=46965968"
     ],
     [
-      "The \"Crown of Nobles\" Noble Gas Tube Display (2024)",
-      "https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 10:27:50",
-      "https://news.ycombinator.com/item?id=46987038"
-    ],
-    [
-      "Show HN: Geo Racers – Race from London to Tokyo on a single bus pass",
-      "https://geo-racers.com/"
+      "Show HN: Sol LeWitt-style instruction-based drawings in the browser",
+      "https://intervolz.com/sollewitt/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Partial 8-Piece Tablebase",
       "https://lichess.org/@/Lichess/blog/op1-partial-8-piece-tablebase-available/1ptPBDpC"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 11:34:14",
+      "https://news.ycombinator.com/item?id=46944125"
+    ],
+    [
+      "Mapping the Moon: The Apollo Transforming Printer",
+      "https://blogs.loc.gov/maps/2025/12/mapping-the-moon-the-apollo-transforming-printer/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=46934659"
     ],
     [
-      "How a Cat Debugged Stable Diffusion (2023)",
+      "How a cat debugged Stable Diffusion (2023)",
       "https://blog.dwac.dev/posts/cat-debugging/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=46924818"
     ],
     [
-      "Take a trip to Japan's Dododo Land, the most irritating place on Earth",
+      "Japan's Dododo Land, the most irritating place on Earth",
       "https://soranews24.com/2026/02/07/take-a-trip-to-japans-dododo-land-the-most-irritating-place-on-earth/"
     ]
   ]
