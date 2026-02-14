@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=47017727"
     ],
     [
-      "You Can't Trust the Internet Anymore",
+      "You can't trust the internet anymore",
       "https://nicole.express/2026/not-my-casual-hobby.html"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle",
       "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 19:40:01",
-      "https://news.ycombinator.com/item?id=47017614"
-    ],
-    [
-      "US Military preparing for potentially weeks-long Iran operations",
-      "https://www.reuters.com/world/middle-east/us-military-preparing-potentially-weeks-long-iran-operations-2026-02-13/"
     ]
   ],
   [
@@ -47,16 +37,6 @@
     [
       "Internet Increasingly Becoming Unarchivable",
       "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 18:22:48",
-      "https://news.ycombinator.com/item?id=47016920"
-    ],
-    [
-      "Dr. Oz pushes AI avatars as a fix for rural health care",
-      "https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers"
     ]
   ],
   [
@@ -141,16 +121,6 @@
   ],
   [
     [
-      "2026-02-14, 14:58:29",
-      "https://news.ycombinator.com/item?id=47014995"
-    ],
-    [
-      "7zip.com Is Serving Malware",
-      "https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 13:47:44",
       "https://news.ycombinator.com/item?id=47014500"
     ],
@@ -171,12 +141,22 @@
   ],
   [
     [
-      "2026-02-14, 09:28:45",
-      "https://news.ycombinator.com/item?id=47013059"
+      "2026-02-14, 13:33:03",
+      "https://news.ycombinator.com/item?id=47014405"
     ],
     [
-      "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
-      "https://infosec.exchange/@mttaggart/116065340523529645"
+      "How many registers does an x86-64 CPU have? (2020)",
+      "https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have"
+    ]
+  ],
+  [
+    [
+      "2026-02-14, 09:10:15",
+      "https://news.ycombinator.com/item?id=47012964"
+    ],
+    [
+      "YouTube as Storage",
+      "https://github.com/PulseBeat02/yt-media-storage"
     ]
   ],
   [
@@ -211,6 +191,36 @@
   ],
   [
     [
+      "2026-02-14, 02:14:34",
+      "https://news.ycombinator.com/item?id=47010823"
+    ],
+    [
+      "NPMX – a fast, modern browser for the NPM registry",
+      "https://npmx.dev"
+    ]
+  ],
+  [
+    [
+      "2026-02-14, 00:37:53",
+      "https://news.ycombinator.com/item?id=47009949"
+    ],
+    [
+      "An AI agent published a hit piece on me – more things have happened",
+      "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 13:44:44",
+      "https://news.ycombinator.com/item?id=47002633"
+    ],
+    [
+      "Safe YOLO Mode: Running LLM agents in vms with Libvirt and Virsh",
+      "https://www.metachris.dev/2026/02/safe-yolo-mode-running-llm-agents-in-vms-with-libvirt-and-virsh/"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 08:49:02",
       "https://news.ycombinator.com/item?id=47000505"
     ],
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2026-02-11, 05:37:11",
-      "https://news.ycombinator.com/item?id=46971273"
-    ],
-    [
-      "What color are your bits? (2004)",
-      "https://ansuz.sooke.bc.ca/entry/23"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 23:38:15",
       "https://news.ycombinator.com/item?id=46968641"
     ],
     [
       "Windows NT/OS2 Design Workbook",
       "https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 19:51:38",
+      "https://news.ycombinator.com/item?id=46965829"
+    ],
+    [
+      "The three year myth",
+      "https://green.spacedino.net/the-three-year-myth/"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2026-02-10, 10:12:27",
-      "https://news.ycombinator.com/item?id=46957629"
-    ],
-    [
-      "Code Storage by the Pierre Computer Company",
-      "https://code.storage/"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 02:44:58",
       "https://news.ycombinator.com/item?id=46954696"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-02-09, 21:13:54",
-      "https://news.ycombinator.com/item?id=46951430"
+      "2026-02-09, 19:32:45",
+      "https://news.ycombinator.com/item?id=46949870"
     ],
     [
-      "The Sling: Humanity's Forgotten Power",
-      "https://www.slinging.org/"
+      "A method and calculator for building foamcore drawer organisers",
+      "https://capnfabs.net/posts/foamcore-would-be-a-sick-name-for-a-music-genre/"
     ]
   ],
   [
