@@ -61,6 +61,7 @@
 * [2026-02-10, 06:18:30](https://news.ycombinator.com/item?id=46956016) - [A shortage of tenors](https://www.economist.com/culture/2026/02/09/the-world-is-suffering-from-a-shortage-of-tenors)
 * [2026-02-10, 05:20:32](https://news.ycombinator.com/item?id=46955712) - [Show HN: I built a macOS tool for network engineers – it's called NetViews](https://www.netviews.app)
 * [2026-02-10, 05:19:00](https://news.ycombinator.com/item?id=46955703) - [AI doesn’t reduce work, it intensifies it](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
+* [2026-02-10, 04:13:49](https://news.ycombinator.com/item?id=46955311) - [Gradient.horse](https://gradient.horse)
 * [2026-02-10, 03:35:24](https://news.ycombinator.com/item?id=46955032) - [America isn't exceptional – it's the exception](https://www.not-ship.com/america-isnt-exceptional-its-the-exception/)
 * [2026-02-10, 03:24:38](https://news.ycombinator.com/item?id=46954974) - [The Evolution of Bengt Betjänt](https://andonlabs.com/blog/evolution-of-bengt)
 * [2026-02-10, 03:17:17](https://news.ycombinator.com/item?id=46954920) - [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)

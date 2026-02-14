@@ -9,6 +9,7 @@
 * [2026-02-09, 22:01:34](https://news.ycombinator.com/item?id=46952118) - [LiftKit – UI where \"everything derives from the golden ratio\"](https://www.chainlift.io/liftkit)
 * [2026-02-09, 21:23:27](https://news.ycombinator.com/item?id=46951573) - [A brief history of oral peptides](https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides)
 * [2026-02-09, 20:49:21](https://news.ycombinator.com/item?id=46951057) - [America Has a Tungsten Problem](https://www.noleary.com/blog/posts/1)
+* [2026-02-09, 20:41:34](https://news.ycombinator.com/item?id=46950925) - [The Blurred Line Between Video Calling and Live Streaming Software](https://www.red5.net/blog/between-video-calling-and-live-streaming-software/)
 * [2026-02-09, 20:41:05](https://news.ycombinator.com/item?id=46950915) - [Super Bowl Ad for Ring Cameras Touted AI Surveillance Network](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
 * [2026-02-09, 20:31:44](https://news.ycombinator.com/item?id=46950780) - [Upcoming changes to Let's Encrypt and how they affect XMPP server operators](https://blog.prosody.im/2026-letsencrypt-changes/)
 * [2026-02-09, 20:30:10](https://news.ycombinator.com/item?id=46950756) - [Game Theory Patterns at Work (2016)](https://daeus.blog/2026/01/18/game-theory-patterns-at-work/)
