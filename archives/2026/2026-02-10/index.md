@@ -15,6 +15,7 @@
 * [2026-02-10, 20:02:05](https://news.ycombinator.com/item?id=46965968) - [Show HN: Sol LeWitt-style instruction-based drawings in the browser](https://intervolz.com/sollewitt/)
 * [2026-02-10, 19:51:38](https://news.ycombinator.com/item?id=46965829) - [The Three Year Myth](https://green.spacedino.net/the-three-year-myth/)
 * [2026-02-10, 19:49:02](https://news.ycombinator.com/item?id=46965776) - [Toyotas and Terrorists: \"Why are ISIS's trucks better than ours?\"](https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/3600155/toyotas-and-terrorists-why-are-isiss-trucks-better-than-ours-said-the-american/)
+* [2026-02-10, 19:27:33](https://news.ycombinator.com/item?id=46965462) - [Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations](https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/)
 * [2026-02-10, 19:25:55](https://news.ycombinator.com/item?id=46965440) - [How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?](https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052)
 * [2026-02-10, 19:19:56](https://news.ycombinator.com/item?id=46965345) - [China's Data Center Boom: A View from Zhangjiakou (2025)](https://sinocities.substack.com/p/chinas-data-center-boom-a-view-from)
 * [2026-02-10, 18:58:35](https://news.ycombinator.com/item?id=46965012) - [Show HN: Multimodal perception system for real-time conversation](https://raven.tavuslabs.org)

@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-14, 17:45:09](https://news.ycombinator.com/item?id=47016530) - [A header-only C vector database library](https://github.com/abdimoallim/vdb)
 * [2026-02-14, 16:55:24](https://news.ycombinator.com/item?id=47016058) - [Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar](https://github.com/Geek-1001/arcmark)
-* [2026-02-14, 16:54:30](https://news.ycombinator.com/item?id=47016050) - [Stoat removes all LLM-generated code following user criticism](https://github.com/orgs/stoatchat/discussions/1022)
 * [2026-02-14, 16:50:47](https://news.ycombinator.com/item?id=47016008) - [Amsterdam Compiler Kit](https://github.com/davidgiven/ack)
-* [2026-02-14, 16:48:17](https://news.ycombinator.com/item?id=47015987) - [Audiophiles Can't Distinguish Audio Sent Through Copper, Banana or Mud](https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator)
 * [2026-02-14, 16:07:44](https://news.ycombinator.com/item?id=47015579) - [A Review of M Disc Archival Capability. With long term testing results](http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html)
 * [2026-02-14, 15:49:56](https://news.ycombinator.com/item?id=47015406) - [Platforms bend over backward to help DHS censor ICE critics, advocates say](https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/)
 * [2026-02-14, 15:39:43](https://news.ycombinator.com/item?id=47015330) - [Vim 9.2 Released](https://www.vim.org/vim-9.2-released.php)
@@ -20,6 +19,7 @@
 * [2026-02-13, 08:49:02](https://news.ycombinator.com/item?id=47000505) - [Babylon 5 is now free to watch on YouTube](https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/)
 * [2026-02-12, 01:44:35](https://news.ycombinator.com/item?id=46983873) - [Common Lisp Screenshots: today's CL applications in action](http://www.lisp-screenshots.org)
 * [2026-02-11, 05:37:11](https://news.ycombinator.com/item?id=46971273) - [What color are your bits? (2004)](https://ansuz.sooke.bc.ca/entry/23)
+* [2026-02-10, 19:27:33](https://news.ycombinator.com/item?id=46965462) - [Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations](https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/)
 * [2026-02-10, 17:07:17](https://news.ycombinator.com/item?id=46963047) - [The mathematics of compression in database systems](https://www.bitsxpages.com/p/the-mathematics-of-compression-in)
 * [2026-02-10, 13:35:47](https://news.ycombinator.com/item?id=46959531) - [Shades of Halftone](https://blog.maximeheckel.com/posts/shades-of-halftone/)
 * [2026-02-10, 10:12:27](https://news.ycombinator.com/item?id=46957629) - [Code Storage by the Pierre Computer Company](https://code.storage/)

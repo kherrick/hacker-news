@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-14](index.md)
 
+* [2026-02-14, 17:45:09](https://news.ycombinator.com/item?id=47016530) - [A header-only C vector database library](https://github.com/abdimoallim/vdb)
 * [2026-02-14, 16:55:24](https://news.ycombinator.com/item?id=47016058) - [Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar](https://github.com/Geek-1001/arcmark)
 * [2026-02-14, 16:54:30](https://news.ycombinator.com/item?id=47016050) - [Stoat removes all LLM-generated code following user criticism](https://github.com/orgs/stoatchat/discussions/1022)
 * [2026-02-14, 16:50:47](https://news.ycombinator.com/item?id=47016008) - [Amsterdam Compiler Kit](https://github.com/davidgiven/ack)
