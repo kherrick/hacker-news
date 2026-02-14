@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-14](index.md)
 
+* [2026-02-14, 21:08:08](https://news.ycombinator.com/item?id=47018405) - [Colored Petri Nets, LLMs, and distributed applications](https://blog.sao.dev/cpns-llms-distributed-apps/)
 * [2026-02-14, 20:23:17](https://news.ycombinator.com/item?id=47018026) - [Dune II written in HTML5/JS](https://github.com/oklemenz/Dune2JS)
 * [2026-02-14, 19:51:25](https://news.ycombinator.com/item?id=47017727) - [You Can't Trust the Internet Anymore](https://nicole.express/2026/not-my-casual-hobby.html)
 * [2026-02-14, 19:47:46](https://news.ycombinator.com/item?id=47017682) - [Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle](https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/)
