@@ -47,6 +47,7 @@
 * [2026-02-08, 15:10:30](https://news.ycombinator.com/item?id=46934860) - [Advanced Aerial Robotics Made Simple](https://www.drehmflight.com)
 * [2026-02-08, 14:49:16](https://news.ycombinator.com/item?id=46934660) - [Washington imposes 'terrorist-grade sanctions' on Francesca Albanese, ICC judges](https://thecradle.co/articles-id/35816)
 * [2026-02-08, 14:49:12](https://news.ycombinator.com/item?id=46934659) - [How a Cat Debugged Stable Diffusion (2023)](https://blog.dwac.dev/posts/cat-debugging/)
+* [2026-02-08, 14:44:51](https://news.ycombinator.com/item?id=46934622) - [Ask HN: How to get started with robotics as a hobbyist?](https://news.ycombinator.com/item?id=46934622)
 * [2026-02-08, 14:40:52](https://news.ycombinator.com/item?id=46934579) - [Exploiting signed bootloaders to circumvent UEFI Secure Boot](https://habr.com/en/articles/446238/)
 * [2026-02-08, 14:33:22](https://news.ycombinator.com/item?id=46934513) - [My Grandma Was a Fed – Lessons from Digitizing Hours of Childhood](https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood/)
 * [2026-02-08, 14:32:28](https://news.ycombinator.com/item?id=46934499) - [RFC 3092 – Etymology of \"Foo\" (2001)](https://datatracker.ietf.org/doc/html/rfc3092)

@@ -13,7 +13,6 @@
 * [2026-02-14, 08:22:11](https://news.ycombinator.com/item?id=47012717) - [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13)
 * [2026-02-14, 07:00:15](https://news.ycombinator.com/item?id=47012312) - [Cogram (YC W22) – Hiring former technical founders](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer)
 * [2026-02-14, 04:27:35](https://news.ycombinator.com/item?id=47011567) - [Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap)
-* [2026-02-14, 02:14:34](https://news.ycombinator.com/item?id=47010823) - [NPMX – a fast, modern browser for the NPM registry](https://npmx.dev)
 * [2026-02-13, 21:35:52](https://news.ycombinator.com/item?id=47008163) - [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)
 * [2026-02-13, 19:20:12](https://news.ycombinator.com/item?id=47006594) - [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)
 * [2026-02-13, 17:50:54](https://news.ycombinator.com/item?id=47005509) - [Building a TUI is easy now](https://hatchet.run/blog/tuis-are-easy-now)
@@ -29,6 +28,7 @@
 * [2026-02-09, 13:46:39](https://news.ycombinator.com/item?id=46945138) - [Sound and Practical Points-To Analysis for Incomplete C Programs [pdf]](https://www.sjalander.com/research/pdf/sjalander-cgo2026-pip.pdf)
 * [2026-02-09, 12:53:09](https://news.ycombinator.com/item?id=46944716) - [The World of Harmonics – With a Coffee, Guitar and Synth](https://mynoise.net/vlog.php?ep=20260204)
 * [2026-02-08, 17:46:46](https://news.ycombinator.com/item?id=46936671) - [Understanding the Go Compiler: The Linker](https://internals-for-interns.com/posts/the-go-linker/)
+* [2026-02-08, 14:44:51](https://news.ycombinator.com/item?id=46934622) - [Ask HN: How to get started with robotics as a hobbyist?](https://news.ycombinator.com/item?id=46934622)
 * [2026-02-08, 00:58:29](https://news.ycombinator.com/item?id=46930181) - [Font Rendering from First Principles](https://mccloskeybr.com/articles/font_rendering.html)
 
 ## [Archives](archives/index.md)
