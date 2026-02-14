@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-10](index.md)
 
+* [2026-02-10, 23:38:15](https://news.ycombinator.com/item?id=46968641) - [Windows NT/OS2 Design Workbook](https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/)
 * [2026-02-10, 23:12:36](https://news.ycombinator.com/item?id=46968374) - [We rendered and embedded one million CAD files](https://cad-search-three.vercel.app/)
 * [2026-02-10, 22:31:12](https://news.ycombinator.com/item?id=46967898) - [Show HN: Itsyhome – Control HomeKit from your Mac menu bar (open source)](https://itsyhome.app)
 * [2026-02-10, 22:20:40](https://news.ycombinator.com/item?id=46967772) - [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
