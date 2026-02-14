@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-02-14, 21:08:08",
-      "https://news.ycombinator.com/item?id=47018405"
-    ],
-    [
-      "Colored Petri Nets, LLMs, and distributed applications",
-      "https://blog.sao.dev/cpns-llms-distributed-apps/"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 19:51:25",
       "https://news.ycombinator.com/item?id=47017727"
     ],
@@ -57,16 +47,6 @@
     [
       "uBlock filter list to hide all YouTube Shorts",
       "https://github.com/i5heu/ublock-hide-yt-shorts/"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 16:55:24",
-      "https://news.ycombinator.com/item?id=47016058"
-    ],
-    [
-      "Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar",
-      "https://github.com/Geek-1001/arcmark"
     ]
   ],
   [
@@ -141,6 +121,16 @@
   ],
   [
     [
+      "2026-02-14, 08:22:11",
+      "https://news.ycombinator.com/item?id=47012717"
+    ],
+    [
+      "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
+      "https://ziglang.org/devlog/2026/#2026-02-13"
+    ]
+  ],
+  [
+    [
       "2026-02-14, 07:50:13",
       "https://news.ycombinator.com/item?id=47012553"
     ],
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2026-02-13, 22:26:46",
-      "https://news.ycombinator.com/item?id=47008663"
-    ],
-    [
-      "Show HN: Rover – Embeddable web agent",
-      "https://www.rtrvr.ai/blog/10-billion-proof-point-every-website-needs-ai-agent"
-    ]
-  ],
-  [
-    [
       "2026-02-13, 22:21:55",
       "https://news.ycombinator.com/item?id=47008607"
     ],
@@ -247,6 +227,26 @@
     [
       "The consequences of task switching in supervisory programming",
       "https://martinfowler.com/fragments/2026-02-13.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 16:42:04",
+      "https://news.ycombinator.com/item?id=47004689"
+    ],
+    [
+      "Instagram's URL Blackhole",
+      "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 08:53:51",
+      "https://news.ycombinator.com/item?id=47000535"
+    ],
+    [
+      "Zvec: A lightweight, fast, in-process vector database",
+      "https://github.com/alibaba/zvec"
     ]
   ],
   [
