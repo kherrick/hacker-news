@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-14](index.md)
 
+* [2026-02-14, 19:51:25](https://news.ycombinator.com/item?id=47017727) - [You Can't Trust the Internet Anymore](https://nicole.express/2026/not-my-casual-hobby.html)
+* [2026-02-14, 19:47:46](https://news.ycombinator.com/item?id=47017682) - [Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle](https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/)
+* [2026-02-14, 19:40:01](https://news.ycombinator.com/item?id=47017614) - [US Military preparing for potentially weeks-long Iran operations](https://www.reuters.com/world/middle-east/us-military-preparing-potentially-weeks-long-iran-operations-2026-02-13/)
+* [2026-02-14, 19:33:24](https://news.ycombinator.com/item?id=47017545) - [Descent, Ported to the Web](https://mrdoob.github.io/three-descent/)
 * [2026-02-14, 18:46:32](https://news.ycombinator.com/item?id=47017138) - [Internet Increasingly Becoming Unarchivable](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 * [2026-02-14, 18:22:48](https://news.ycombinator.com/item?id=47016920) - [Dr. Oz pushes AI avatars as a fix for rural health care](https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers)
 * [2026-02-14, 17:55:03](https://news.ycombinator.com/item?id=47016639) - [Gamma Function: Visualization for Complex Arguments](https://vanilla-gamma-graph.netlify.app/)
