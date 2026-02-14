@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-14, 00:37:53",
+      "https://news.ycombinator.com/item?id=47009949"
+    ],
+    [
+      "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
+      "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 22:17:06",
       "https://news.ycombinator.com/item?id=47008560"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2026-02-13, 17:55:27",
-      "https://news.ycombinator.com/item?id=47005565"
-    ],
-    [
-      "Dario Amodei – \"We are near the end of the exponential\" [video]",
-      "https://www.dwarkesh.com/p/dario-amodei-2"
-    ]
-  ],
-  [
-    [
       "2026-02-13, 17:50:54",
       "https://news.ycombinator.com/item?id=47005509"
     ],
@@ -117,16 +117,6 @@
     [
       "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
       "https://ios-countdown.win/"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 14:03:14",
-      "https://news.ycombinator.com/item?id=47002825"
-    ],
-    [
-      "Zed editor switching graphics lib from blade to wgpu",
-      "https://github.com/zed-industries/zed/pull/46758"
     ]
   ],
   [
@@ -161,12 +151,12 @@
   ],
   [
     [
-      "2026-02-13, 07:46:03",
-      "https://news.ycombinator.com/item?id=47000041"
+      "2026-02-13, 08:02:23",
+      "https://news.ycombinator.com/item?id=47000164"
     ],
     [
-      "MinIO repository is no longer maintained",
-      "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f"
+      "CSS-Doodle",
+      "https://css-doodle.com/"
     ]
   ],
   [
@@ -177,16 +167,6 @@
     [
       "Lena by qntm (2021)",
       "https://qntm.org/mmacevedo"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 05:05:26",
-      "https://news.ycombinator.com/item?id=46999117"
-    ],
-    [
-      "New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]",
-      "https://nickbostrom.com/optimal.pdf"
     ]
   ],
   [
@@ -221,6 +201,26 @@
   ],
   [
     [
+      "2026-02-12, 01:44:35",
+      "https://news.ycombinator.com/item?id=46983873"
+    ],
+    [
+      "Common Lisp Screenshots: today's CL applications in action",
+      "http://www.lisp-screenshots.org"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 04:13:49",
+      "https://news.ycombinator.com/item?id=46955311"
+    ],
+    [
+      "Gradient.horse",
+      "https://gradient.horse"
+    ]
+  ],
+  [
+    [
       "2026-02-10, 02:36:34",
       "https://news.ycombinator.com/item?id=46954637"
     ],
@@ -231,22 +231,12 @@
   ],
   [
     [
-      "2026-02-09, 20:01:07",
-      "https://news.ycombinator.com/item?id=46950296"
+      "2026-02-09, 20:41:34",
+      "https://news.ycombinator.com/item?id=46950925"
     ],
     [
-      "MySQL foreign key cascade operations finally hit the binary log",
-      "https://readyset.io/blog/mysql-9-6-foreign-key-cascade-operations-finally-hit-the-binary-log"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 14:39:51",
-      "https://news.ycombinator.com/item?id=46945696"
-    ],
-    [
-      "Do Metaprojects",
-      "https://taylor.town/wealth-001"
+      "The Blurred Line Between Video Calling and Live Streaming Software",
+      "https://www.red5.net/blog/between-video-calling-and-live-streaming-software/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Green’s Dictionary of Slang - Five hundred years of the vulgar tongue",
       "https://greensdictofslang.com/"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 01:37:36",
+      "https://news.ycombinator.com/item?id=46930461"
+    ],
+    [
+      "Implementing Auto Tiling with Just 5 Tiles",
+      "https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html"
     ]
   ],
   [
