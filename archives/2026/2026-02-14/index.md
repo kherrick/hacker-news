@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-14](index.md)
 
+* [2026-02-14, 07:00:15](https://news.ycombinator.com/item?id=47012312) - [Cogram (YC W22) – Hiring former technical founders](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer)
+* [2026-02-14, 06:22:03](https://news.ycombinator.com/item?id=47012122) - [Do Not Outsource Judgement](https://dncrews.com/do-not-outsource-judgement-76f9e5be61b9)
 * [2026-02-14, 04:35:01](https://news.ycombinator.com/item?id=47011602) - [Backblaze Drive Stats for 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/)
 * [2026-02-14, 04:27:35](https://news.ycombinator.com/item?id=47011567) - [Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap)
 * [2026-02-14, 03:49:18](https://news.ycombinator.com/item?id=47011346) - [Oh, good: Discord's age verification rollout has ties to Palantir co-founder](https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/)
