@@ -60,6 +60,7 @@
 * [2026-02-09, 14:07:36](https://news.ycombinator.com/item?id=46945348) - [UEFI Bindings for JavaScript](https://codeberg.org/smnx/promethee)
 * [2026-02-09, 13:54:48](https://news.ycombinator.com/item?id=46945235) - [Thoughts on Generating C](https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c)
 * [2026-02-09, 13:48:18](https://news.ycombinator.com/item?id=46945148) - [Three Cache Layers Between Select and Disk](https://frn.sh/iops/)
+* [2026-02-09, 13:46:39](https://news.ycombinator.com/item?id=46945138) - [Sound and Practical Points-To Analysis for Incomplete C Programs [pdf]](https://www.sjalander.com/research/pdf/sjalander-cgo2026-pip.pdf)
 * [2026-02-09, 13:28:12](https://news.ycombinator.com/item?id=46944978) - [Jony Ive Designed Ferrari Luce EV Interior](https://www.topgear.com/car-news/electric/official-ferraris-first-ev-called-luce-interior-apples-old-design-boss)
 * [2026-02-09, 12:53:09](https://news.ycombinator.com/item?id=46944716) - [The World of Harmonics – With a Coffee, Guitar and Synth](https://mynoise.net/vlog.php?ep=20260204)
 * [2026-02-09, 12:35:19](https://news.ycombinator.com/item?id=46944555) - [Show HN: Browse Internet Infrastructure](https://www.wirewiki.com)
