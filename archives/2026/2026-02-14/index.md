@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-14](index.md)
 
+* [2026-02-14, 20:23:17](https://news.ycombinator.com/item?id=47018026) - [Dune II written in HTML5/JS](https://github.com/oklemenz/Dune2JS)
 * [2026-02-14, 19:51:25](https://news.ycombinator.com/item?id=47017727) - [You Can't Trust the Internet Anymore](https://nicole.express/2026/not-my-casual-hobby.html)
 * [2026-02-14, 19:47:46](https://news.ycombinator.com/item?id=47017682) - [Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle](https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/)
 * [2026-02-14, 19:40:01](https://news.ycombinator.com/item?id=47017614) - [US Military preparing for potentially weeks-long Iran operations](https://www.reuters.com/world/middle-east/us-military-preparing-potentially-weeks-long-iran-operations-2026-02-13/)
@@ -29,11 +30,13 @@
 * [2026-02-14, 13:47:44](https://news.ycombinator.com/item?id=47014500) - [Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB](https://github.com/datavorous/sameshi)
 * [2026-02-14, 13:40:20](https://news.ycombinator.com/item?id=47014449) - [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
 * [2026-02-14, 13:33:03](https://news.ycombinator.com/item?id=47014405) - [How many registers does an x86-64 CPU have? (2020)](https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have)
+* [2026-02-14, 13:08:35](https://news.ycombinator.com/item?id=47014260) - [Unicorn Jelly](https://unicornjelly.com/)
 * [2026-02-14, 10:47:01](https://news.ycombinator.com/item?id=47013458) - [4chan for Clankers](https://www.4claw.org)
 * [2026-02-14, 09:28:45](https://news.ycombinator.com/item?id=47013059) - [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645)
 * [2026-02-14, 09:10:15](https://news.ycombinator.com/item?id=47012964) - [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage)
 * [2026-02-14, 08:22:11](https://news.ycombinator.com/item?id=47012717) - [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13)
 * [2026-02-14, 08:05:47](https://news.ycombinator.com/item?id=47012637) - [Show HN: Prompt to Planet, generate procedural 3D planets from text](https://prompttoplanet.n4ze3m.com/)
+* [2026-02-14, 07:50:13](https://news.ycombinator.com/item?id=47012553) - [OpenAI should build Slack](https://www.latent.space/p/ainews-why-openai-should-build-slack)
 * [2026-02-14, 07:00:15](https://news.ycombinator.com/item?id=47012312) - [Cogram (YC W22) – Hiring former technical founders](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer)
 * [2026-02-14, 06:22:03](https://news.ycombinator.com/item?id=47012122) - [Do Not Outsource Judgement](https://dncrews.com/do-not-outsource-judgement-76f9e5be61b9)
 * [2026-02-14, 04:35:01](https://news.ycombinator.com/item?id=47011602) - [Backblaze Drive Stats for 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/)
@@ -41,4 +44,5 @@
 * [2026-02-14, 03:49:18](https://news.ycombinator.com/item?id=47011346) - [Oh, good: Discord's age verification rollout has ties to Palantir co-founder](https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/)
 * [2026-02-14, 02:14:34](https://news.ycombinator.com/item?id=47010823) - [NPMX – a fast, modern browser for the NPM registry](https://npmx.dev)
 * [2026-02-14, 01:27:28](https://news.ycombinator.com/item?id=47010406) - [What dating apps are optimizing. Hint: It isn't love](https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html)
+* [2026-02-14, 01:03:28](https://news.ycombinator.com/item?id=47010147) - [Discord: A case study in performance optimization](https://newsletter.fullstack.zip/p/discord-a-case-study-in-performance)
 * [2026-02-14, 00:37:53](https://news.ycombinator.com/item?id=47009949) - [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)

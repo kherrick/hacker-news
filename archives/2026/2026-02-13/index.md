@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-13](index.md)
 
+* [2026-02-13, 23:34:09](https://news.ycombinator.com/item?id=47009327) - [IBM tripling entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+* [2026-02-13, 22:40:28](https://news.ycombinator.com/item?id=47008821) - [Launching Interop 2026](https://hacks.mozilla.org/2026/02/launching-interop-2026/)
+* [2026-02-13, 22:26:46](https://news.ycombinator.com/item?id=47008663) - [Show HN: First embeddable web agent](https://www.rtrvr.ai/blog/10-billion-proof-point-every-website-needs-ai-agent)
 * [2026-02-13, 22:22:49](https://news.ycombinator.com/item?id=47008617) - [AI bot crabby-rathbun is still polluting open source](https://www.nickolinger.com/blog/2026-02-13-ai-bot-crabby-rathbun-is-still-going/)
 * [2026-02-13, 22:17:06](https://news.ycombinator.com/item?id=47008560) - [OpenAI has deleted the word 'safely' from its mission](https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467)
 * [2026-02-13, 21:35:52](https://news.ycombinator.com/item?id=47008163) - [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)
