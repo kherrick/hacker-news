@@ -24,6 +24,7 @@
 * [2026-02-10, 17:48:05](https://news.ycombinator.com/item?id=46963804) - [Google Handed ICE Student Journalist's Bank and Credit Card Numbers](https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/)
 * [2026-02-10, 17:44:13](https://news.ycombinator.com/item?id=46963736) - [Show HN: Deadlog – almost drop-in mutex for debugging Go deadlocks](https://github.com/stevenctl/deadlog)
 * [2026-02-10, 17:40:55](https://news.ycombinator.com/item?id=46963691) - [ClawHub](https://clawhub.ai/)
+* [2026-02-10, 17:39:29](https://news.ycombinator.com/item?id=46963672) - [Marginal Revolution](https://sebastiangaliani.substack.com/p/marginal-revolution)
 * [2026-02-10, 17:39:24](https://news.ycombinator.com/item?id=46963671) - [London's Most Controversial Cyclist](https://www.the-londoner.co.uk/jeremy-vine-loves-him-motorists-hate-him-is-this-londons-most-controversial-cyclist/)
 * [2026-02-10, 17:14:48](https://news.ycombinator.com/item?id=46963177) - [Show HN: Stripe-no-webhooks – Sync your Stripe data to your Postgres DB](https://github.com/pretzelai/stripe-no-webhooks)
 * [2026-02-10, 17:06:00](https://news.ycombinator.com/item?id=46963026) - [Show HN: Open-Source SDK for AI Knowledge Work](https://github.com/ClioAI/kw-sdk)
