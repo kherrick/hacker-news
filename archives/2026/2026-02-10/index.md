@@ -67,6 +67,7 @@
 * [2026-02-10, 03:24:38](https://news.ycombinator.com/item?id=46954974) - [The Evolution of Bengt Betjänt](https://andonlabs.com/blog/evolution-of-bengt)
 * [2026-02-10, 03:17:17](https://news.ycombinator.com/item?id=46954920) - [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
 * [2026-02-10, 03:13:48](https://news.ycombinator.com/item?id=46954899) - [Why \"just prompt better\" doesn't work](https://www.bicameral-ai.com/blog/tech-debt-meeting)
+* [2026-02-10, 02:44:58](https://news.ycombinator.com/item?id=46954696) - [Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986](https://www.wallstreetraider.com/story.html)
 * [2026-02-10, 02:36:34](https://news.ycombinator.com/item?id=46954637) - [Faster Than Dijkstra?](https://systemsapproach.org/2026/02/09/faster-than-dijkstra/)
 * [2026-02-10, 01:26:42](https://news.ycombinator.com/item?id=46954136) - [Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)
 * [2026-02-10, 01:17:35](https://news.ycombinator.com/item?id=46954049) - [Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c)
