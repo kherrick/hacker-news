@@ -56,6 +56,7 @@
 * [2026-02-11, 07:00:46](https://news.ycombinator.com/item?id=46971794) - [CoLoop (YC S21) Is Hiring Ex Technical Founders in London](https://www.workatastartup.com/jobs/90016)
 * [2026-02-11, 06:15:33](https://news.ycombinator.com/item?id=46971516) - [Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)
 * [2026-02-11, 05:40:20](https://news.ycombinator.com/item?id=46971287) - [Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV](https://news.ycombinator.com/item?id=46971287)
+* [2026-02-11, 05:37:11](https://news.ycombinator.com/item?id=46971273) - [What color are your bits? (2004)](https://ansuz.sooke.bc.ca/entry/23)
 * [2026-02-11, 05:32:10](https://news.ycombinator.com/item?id=46971248) - [Stay Hungry, Stay Foolish (2005)](https://stevejobsarchive.com/stories/stay-hungry-stay-foolish)
 * [2026-02-11, 04:15:24](https://news.ycombinator.com/item?id=46970752) - [A simpler way to remove explicit images from Search](https://blog.google/products-and-platforms/products/search/remove-explicit-images/)
 * [2026-02-11, 01:50:44](https://news.ycombinator.com/item?id=46969751) - [End of an era for me: no more self-hosted git](https://www.kraxel.org/blog/2026/01/thank-you-ai/)

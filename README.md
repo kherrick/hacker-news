@@ -18,7 +18,7 @@
 * [2026-02-13, 12:18:05](https://news.ycombinator.com/item?id=47001871) - [Monosketch](https://monosketch.io/)
 * [2026-02-13, 08:49:02](https://news.ycombinator.com/item?id=47000505) - [Babylon 5 is now free to watch on YouTube](https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/)
 * [2026-02-12, 01:44:35](https://news.ycombinator.com/item?id=46983873) - [Common Lisp Screenshots: today's CL applications in action](http://www.lisp-screenshots.org)
-* [2026-02-10, 21:26:16](https://news.ycombinator.com/item?id=46967147) - [Adventures in Neural Rendering](https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/)
+* [2026-02-11, 05:37:11](https://news.ycombinator.com/item?id=46971273) - [What color are your bits? (2004)](https://ansuz.sooke.bc.ca/entry/23)
 * [2026-02-10, 19:51:38](https://news.ycombinator.com/item?id=46965829) - [The Three Year Myth](https://green.spacedino.net/the-three-year-myth/)
 * [2026-02-10, 17:07:17](https://news.ycombinator.com/item?id=46963047) - [The mathematics of compression in database systems](https://www.bitsxpages.com/p/the-mathematics-of-compression-in)
 * [2026-02-10, 10:12:27](https://news.ycombinator.com/item?id=46957629) - [Code Storage by the Pierre Computer Company](https://code.storage/)
