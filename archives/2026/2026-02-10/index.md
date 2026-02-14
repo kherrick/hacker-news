@@ -48,6 +48,7 @@
 * [2026-02-10, 14:20:49](https://news.ycombinator.com/item?id=46960036) - [Oxide raises $200M Series C](https://oxide.computer/blog/our-200m-series-c)
 * [2026-02-10, 14:02:10](https://news.ycombinator.com/item?id=46959832) - [Jury told that Meta, Google 'engineered addiction' at landmark US trial](https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html)
 * [2026-02-10, 13:48:24](https://news.ycombinator.com/item?id=46959679) - [America's $1T AI Gamble](https://www.apricitas.io/p/americas-1t-ai-gamble)
+* [2026-02-10, 13:35:47](https://news.ycombinator.com/item?id=46959531) - [Shades of Halftone](https://blog.maximeheckel.com/posts/shades-of-halftone/)
 * [2026-02-10, 13:26:14](https://news.ycombinator.com/item?id=46959418) - [Simplifying Vulkan One Subsystem at a Time](https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time)
 * [2026-02-10, 12:34:18](https://news.ycombinator.com/item?id=46958890) - [Rice Theory: Why Eastern Cultures Are More Cooperative](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative)
 * [2026-02-10, 12:20:16](https://news.ycombinator.com/item?id=46958753) - [Edinburgh councillors pull the plug on 'green' AI datacenter](https://www.theregister.com/2026/02/10/edinburgh_green_ai_datacenter/)

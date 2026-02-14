@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-14](index.md)
 
+* [2026-02-14, 15:10:23](https://news.ycombinator.com/item?id=47015084) - [Homeland Security has sent out subpoenas to identify ICE critics](https://www.engadget.com/big-tech/homeland-security-has-reportedly-sent-out-hundreds-of-subpoenas-to-identify-ice-critics-online-135245457.html)
+* [2026-02-14, 14:59:28](https://news.ycombinator.com/item?id=47014999) - [Epstein's Ugly World of Science](https://homunculusmusic.wordpress.com/2026/02/14/epsteins-ugly-world-of-science/)
 * [2026-02-14, 14:15:33](https://news.ycombinator.com/item?id=47014704) - [Golf game built last night with Claude Code, Svelte and ThreeJS](https://www.the-golf-is-golfing.com)
 * [2026-02-14, 13:47:44](https://news.ycombinator.com/item?id=47014500) - [Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB](https://github.com/datavorous/sameshi)
 * [2026-02-14, 13:40:20](https://news.ycombinator.com/item?id=47014449) - [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
