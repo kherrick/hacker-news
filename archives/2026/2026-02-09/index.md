@@ -29,6 +29,7 @@
 * [2026-02-09, 17:48:24](https://news.ycombinator.com/item?id=46948340) - [From watchdogs to mouthpieces: Washington Post and the wreckage of legacy media](https://www.thejournal.ie/readme/bezos-washington-post-trump-6950317-Feb2026/)
 * [2026-02-09, 17:44:32](https://news.ycombinator.com/item?id=46948278) - [I Wrote a Scheme in 2025](https://maplant.com/2026-02-09-I-Wrote-a-Scheme-in-2025.html)
 * [2026-02-09, 17:44:10](https://news.ycombinator.com/item?id=46948273) - [Game Boy Advance Audio Interpolation](https://jsgroth.dev/blog/posts/gba-audio-interpolation/)
+* [2026-02-09, 17:30:27](https://news.ycombinator.com/item?id=46948097) - [How the Little Guy Moved](https://animationobsessive.substack.com/p/how-the-little-guy-moved)
 * [2026-02-09, 17:22:16](https://news.ycombinator.com/item?id=46947982) - [Ice Kid Prisons](https://www.propublica.org/article/life-inside-ice-dilley-children)
 * [2026-02-09, 17:09:37](https://news.ycombinator.com/item?id=46947777) - [Hard-braking events as indicators of road segment crash risk](https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/)
 * [2026-02-09, 16:49:23](https://news.ycombinator.com/item?id=46947501) - [Irish man detained by ICE for 5 months](https://www.rte.ie/news/ireland/2026/0209/1557514-seamus-culleton/)
