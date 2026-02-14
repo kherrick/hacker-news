@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-14](index.md)
 
+* [2026-02-14, 16:55:24](https://news.ycombinator.com/item?id=47016058) - [Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar](https://github.com/Geek-1001/arcmark)
 * [2026-02-14, 16:54:30](https://news.ycombinator.com/item?id=47016050) - [Stoat removes all LLM-generated code following user criticism](https://github.com/orgs/stoatchat/discussions/1022)
+* [2026-02-14, 16:50:47](https://news.ycombinator.com/item?id=47016008) - [Amsterdam Compiler Kit](https://github.com/davidgiven/ack)
+* [2026-02-14, 16:48:17](https://news.ycombinator.com/item?id=47015987) - [Audiophiles Can't Distinguish Audio Sent Through Copper, Banana or Mud](https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator)
 * [2026-02-14, 16:07:44](https://news.ycombinator.com/item?id=47015579) - [A Review of M Disc Archival Capability. With long term testing results](http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html)
 * [2026-02-14, 15:49:56](https://news.ycombinator.com/item?id=47015406) - [Platforms bend over backward to help DHS censor ICE critics, advocates say](https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/)
 * [2026-02-14, 15:42:26](https://news.ycombinator.com/item?id=47015345) - [Switzerland to Vote on Capping Population at 10M](https://www.nytimes.com/2026/02/11/world/europe/switzerland-to-vote-on-capping-population-at-10-million.html)

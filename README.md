@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-14, 16:55:24](https://news.ycombinator.com/item?id=47016058) - [Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar](https://github.com/Geek-1001/arcmark)
 * [2026-02-14, 16:54:30](https://news.ycombinator.com/item?id=47016050) - [Stoat removes all LLM-generated code following user criticism](https://github.com/orgs/stoatchat/discussions/1022)
+* [2026-02-14, 16:50:47](https://news.ycombinator.com/item?id=47016008) - [Amsterdam Compiler Kit](https://github.com/davidgiven/ack)
+* [2026-02-14, 16:48:17](https://news.ycombinator.com/item?id=47015987) - [Audiophiles Can't Distinguish Audio Sent Through Copper, Banana or Mud](https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator)
 * [2026-02-14, 16:07:44](https://news.ycombinator.com/item?id=47015579) - [A Review of M Disc Archival Capability. With long term testing results](http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html)
 * [2026-02-14, 15:49:56](https://news.ycombinator.com/item?id=47015406) - [Platforms bend over backward to help DHS censor ICE critics, advocates say](https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/)
 * [2026-02-14, 15:39:43](https://news.ycombinator.com/item?id=47015330) - [Vim 9.2 Released](https://www.vim.org/vim-9.2-released.php)
@@ -14,8 +17,6 @@
 * [2026-02-14, 07:00:15](https://news.ycombinator.com/item?id=47012312) - [Cogram (YC W22) – Hiring former technical founders](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer)
 * [2026-02-14, 04:27:35](https://news.ycombinator.com/item?id=47011567) - [Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap)
 * [2026-02-13, 21:35:52](https://news.ycombinator.com/item?id=47008163) - [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)
-* [2026-02-13, 19:20:12](https://news.ycombinator.com/item?id=47006594) - [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)
-* [2026-02-13, 17:50:54](https://news.ycombinator.com/item?id=47005509) - [Building a TUI is easy now](https://hatchet.run/blog/tuis-are-easy-now)
 * [2026-02-13, 08:49:02](https://news.ycombinator.com/item?id=47000505) - [Babylon 5 is now free to watch on YouTube](https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/)
 * [2026-02-12, 01:44:35](https://news.ycombinator.com/item?id=46983873) - [Common Lisp Screenshots: today's CL applications in action](http://www.lisp-screenshots.org)
 * [2026-02-11, 05:37:11](https://news.ycombinator.com/item?id=46971273) - [What color are your bits? (2004)](https://ansuz.sooke.bc.ca/entry/23)
@@ -29,7 +30,6 @@
 * [2026-02-09, 12:53:09](https://news.ycombinator.com/item?id=46944716) - [The World of Harmonics – With a Coffee, Guitar and Synth](https://mynoise.net/vlog.php?ep=20260204)
 * [2026-02-08, 17:46:46](https://news.ycombinator.com/item?id=46936671) - [Understanding the Go Compiler: The Linker](https://internals-for-interns.com/posts/the-go-linker/)
 * [2026-02-08, 14:44:51](https://news.ycombinator.com/item?id=46934622) - [Ask HN: How to get started with robotics as a hobbyist?](https://news.ycombinator.com/item?id=46934622)
-* [2026-02-08, 00:58:29](https://news.ycombinator.com/item?id=46930181) - [Font Rendering from First Principles](https://mccloskeybr.com/articles/font_rendering.html)
 
 ## [Archives](archives/index.md)
 
