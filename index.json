@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2026-02-14, 09:10:15",
-      "https://news.ycombinator.com/item?id=47012964"
-    ],
-    [
-      "YouTube as Storage",
-      "https://github.com/PulseBeat02/yt-media-storage"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 08:22:11",
       "https://news.ycombinator.com/item?id=47012717"
     ],
@@ -237,6 +227,16 @@
     [
       "Zvec: A lightweight, fast, in-process vector database",
       "https://github.com/alibaba/zvec"
+    ]
+  ],
+  [
+    [
+      "2026-02-11, 17:31:48",
+      "https://news.ycombinator.com/item?id=46977967"
+    ],
+    [
+      "Show HN: MOL – A programming language where pipelines trace themselves",
+      "https://github.com/crux-ecosystem/mol-lang"
     ]
   ],
   [
