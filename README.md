@@ -21,7 +21,6 @@
 * [2026-02-12, 01:44:35](https://news.ycombinator.com/item?id=46983873) - [Common Lisp Screenshots: today's CL applications in action](http://www.lisp-screenshots.org)
 * [2026-02-10, 21:26:16](https://news.ycombinator.com/item?id=46967147) - [Adventures in Neural Rendering](https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/)
 * [2026-02-10, 19:51:38](https://news.ycombinator.com/item?id=46965829) - [The Three Year Myth](https://green.spacedino.net/the-three-year-myth/)
-* [2026-02-10, 06:19:33](https://news.ycombinator.com/item?id=46956021) - [Can you rewire your brain?](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
 * [2026-02-10, 04:13:49](https://news.ycombinator.com/item?id=46955311) - [Gradient.horse](https://gradient.horse)
 * [2026-02-10, 02:44:58](https://news.ycombinator.com/item?id=46954696) - [Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986](https://www.wallstreetraider.com/story.html)
 * [2026-02-09, 21:13:54](https://news.ycombinator.com/item?id=46951430) - [The Sling: Humanity's Forgotten Power](https://www.slinging.org/)
@@ -29,6 +28,7 @@
 * [2026-02-09, 12:53:09](https://news.ycombinator.com/item?id=46944716) - [The World of Harmonics – With a Coffee, Guitar and Synth](https://mynoise.net/vlog.php?ep=20260204)
 * [2026-02-09, 12:17:23](https://news.ycombinator.com/item?id=46944430) - [gRPC: From service definition to wire format](https://kreya.app/blog/grpc-deep-dive/)
 * [2026-02-08, 17:46:46](https://news.ycombinator.com/item?id=46936671) - [Understanding the Go Compiler: The Linker](https://internals-for-interns.com/posts/the-go-linker/)
+* [2026-02-08, 15:10:30](https://news.ycombinator.com/item?id=46934860) - [Advanced Aerial Robotics Made Simple](https://www.drehmflight.com)
 * [2026-02-08, 00:58:29](https://news.ycombinator.com/item?id=46930181) - [Font Rendering from First Principles](https://mccloskeybr.com/articles/font_rendering.html)
 
 ## [Archives](archives/index.md)
