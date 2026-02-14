@@ -28,6 +28,7 @@
 * [2026-02-10, 17:39:29](https://news.ycombinator.com/item?id=46963672) - [Marginal Revolution](https://sebastiangaliani.substack.com/p/marginal-revolution)
 * [2026-02-10, 17:39:24](https://news.ycombinator.com/item?id=46963671) - [London's Most Controversial Cyclist](https://www.the-londoner.co.uk/jeremy-vine-loves-him-motorists-hate-him-is-this-londons-most-controversial-cyclist/)
 * [2026-02-10, 17:14:48](https://news.ycombinator.com/item?id=46963177) - [Show HN: Stripe-no-webhooks – Sync your Stripe data to your Postgres DB](https://github.com/pretzelai/stripe-no-webhooks)
+* [2026-02-10, 17:07:17](https://news.ycombinator.com/item?id=46963047) - [The mathematics of compression in database systems](https://www.bitsxpages.com/p/the-mathematics-of-compression-in)
 * [2026-02-10, 17:06:00](https://news.ycombinator.com/item?id=46963026) - [Show HN: Open-Source SDK for AI Knowledge Work](https://github.com/ClioAI/kw-sdk)
 * [2026-02-10, 17:04:31](https://news.ycombinator.com/item?id=46962996) - [The Singularity will occur on a Tuesday](https://campedersen.com/singularity)
 * [2026-02-10, 17:01:34](https://news.ycombinator.com/item?id=46962942) - [Show HN: HN Companion – web app that enhances the experience of reading HN](https://hncompanion.com)

@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-14, 10:47:01](https://news.ycombinator.com/item?id=47013458) - [4chan for Clankers](https://www.4claw.org)
 * [2026-02-14, 09:28:45](https://news.ycombinator.com/item?id=47013059) - [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645)
 * [2026-02-14, 09:10:15](https://news.ycombinator.com/item?id=47012964) - [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage)
 * [2026-02-14, 08:22:11](https://news.ycombinator.com/item?id=47012717) - [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13)
@@ -21,6 +20,7 @@
 * [2026-02-12, 01:44:35](https://news.ycombinator.com/item?id=46983873) - [Common Lisp Screenshots: today's CL applications in action](http://www.lisp-screenshots.org)
 * [2026-02-10, 21:26:16](https://news.ycombinator.com/item?id=46967147) - [Adventures in Neural Rendering](https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/)
 * [2026-02-10, 19:51:38](https://news.ycombinator.com/item?id=46965829) - [The Three Year Myth](https://green.spacedino.net/the-three-year-myth/)
+* [2026-02-10, 17:07:17](https://news.ycombinator.com/item?id=46963047) - [The mathematics of compression in database systems](https://www.bitsxpages.com/p/the-mathematics-of-compression-in)
 * [2026-02-10, 04:13:49](https://news.ycombinator.com/item?id=46955311) - [Gradient.horse](https://gradient.horse)
 * [2026-02-10, 02:44:58](https://news.ycombinator.com/item?id=46954696) - [Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986](https://www.wallstreetraider.com/story.html)
 * [2026-02-09, 21:13:54](https://news.ycombinator.com/item?id=46951430) - [The Sling: Humanity's Forgotten Power](https://www.slinging.org/)
