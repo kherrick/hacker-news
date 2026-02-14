@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-14, 17:45:09",
+      "https://news.ycombinator.com/item?id=47016530"
+    ],
+    [
+      "A header-only C vector database library",
+      "https://github.com/abdimoallim/vdb"
+    ]
+  ],
+  [
+    [
       "2026-02-14, 16:55:24",
       "https://news.ycombinator.com/item?id=47016058"
     ],
@@ -11,32 +21,12 @@
   ],
   [
     [
-      "2026-02-14, 16:54:30",
-      "https://news.ycombinator.com/item?id=47016050"
-    ],
-    [
-      "Stoat removes all LLM-generated code following user criticism",
-      "https://github.com/orgs/stoatchat/discussions/1022"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 16:50:47",
       "https://news.ycombinator.com/item?id=47016008"
     ],
     [
       "Amsterdam Compiler Kit",
       "https://github.com/davidgiven/ack"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 16:48:17",
-      "https://news.ycombinator.com/item?id=47015987"
-    ],
-    [
-      "Audiophiles Can't Distinguish Audio Sent Through Copper, Banana or Mud",
-      "https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "What color are your bits? (2004)",
       "https://ansuz.sooke.bc.ca/entry/23"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 19:27:33",
+      "https://news.ycombinator.com/item?id=46965462"
+    ],
+    [
+      "Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations",
+      "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/"
     ]
   ],
   [
