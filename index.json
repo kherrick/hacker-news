@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-14, 20:23:17",
+      "https://news.ycombinator.com/item?id=47018026"
+    ],
+    [
+      "Dune II written in HTML5/JS",
+      "https://github.com/oklemenz/Dune2JS"
+    ]
+  ],
+  [
+    [
       "2026-02-14, 19:51:25",
       "https://news.ycombinator.com/item?id=47017727"
     ],
@@ -35,18 +45,8 @@
       "https://news.ycombinator.com/item?id=47017138"
     ],
     [
-      "Internet Increasingly Becoming Unarchivable",
+      "News publishers limit Internet Archive access due to AI scraping concerns",
       "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 17:55:03",
-      "https://news.ycombinator.com/item?id=47016639"
-    ],
-    [
-      "Gamma Function: Visualization for Complex Arguments",
-      "https://vanilla-gamma-graph.netlify.app/"
     ]
   ],
   [
@@ -91,21 +91,11 @@
   ],
   [
     [
-      "2026-02-14, 16:07:44",
-      "https://news.ycombinator.com/item?id=47015579"
-    ],
-    [
-      "A Review of M Disc Archival Capability. With long term testing results",
-      "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 15:39:43",
       "https://news.ycombinator.com/item?id=47015330"
     ],
     [
-      "Vim 9.2 Released",
+      "Vim 9.2",
       "https://www.vim.org/vim-9.2-released.php"
     ]
   ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2026-02-14, 13:08:35",
+      "https://news.ycombinator.com/item?id=47014260"
+    ],
+    [
+      "Unicorn Jelly",
+      "https://unicornjelly.com/"
+    ]
+  ],
+  [
+    [
       "2026-02-14, 09:10:15",
       "https://news.ycombinator.com/item?id=47012964"
     ],
@@ -171,32 +171,22 @@
   ],
   [
     [
-      "2026-02-14, 07:00:15",
-      "https://news.ycombinator.com/item?id=47012312"
+      "2026-02-14, 07:50:13",
+      "https://news.ycombinator.com/item?id=47012553"
     ],
     [
-      "Cogram (YC W22) – Hiring former technical founders",
-      "https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer"
+      "OpenAI should build Slack",
+      "https://www.latent.space/p/ainews-why-openai-should-build-slack"
     ]
   ],
   [
     [
-      "2026-02-14, 04:27:35",
-      "https://news.ycombinator.com/item?id=47011567"
+      "2026-02-14, 01:03:28",
+      "https://news.ycombinator.com/item?id=47010147"
     ],
     [
-      "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
-      "https://github.com/mickamy/sql-tap"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 02:14:34",
-      "https://news.ycombinator.com/item?id=47010823"
-    ],
-    [
-      "NPMX – a fast, modern browser for the NPM registry",
-      "https://npmx.dev"
+      "Discord: A case study in performance optimization",
+      "https://newsletter.fullstack.zip/p/discord-a-case-study-in-performance"
     ]
   ],
   [
@@ -211,6 +201,36 @@
   ],
   [
     [
+      "2026-02-13, 23:34:09",
+      "https://news.ycombinator.com/item?id=47009327"
+    ],
+    [
+      "IBM tripling entry-level jobs after finding the limits of AI adoption",
+      "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 22:40:28",
+      "https://news.ycombinator.com/item?id=47008821"
+    ],
+    [
+      "Launching Interop 2026",
+      "https://hacks.mozilla.org/2026/02/launching-interop-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 22:26:46",
+      "https://news.ycombinator.com/item?id=47008663"
+    ],
+    [
+      "Show HN: First embeddable web agent",
+      "https://www.rtrvr.ai/blog/10-billion-proof-point-every-website-needs-ai-agent"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 13:44:44",
       "https://news.ycombinator.com/item?id=47002633"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-02-13, 08:49:02",
-      "https://news.ycombinator.com/item?id=47000505"
-    ],
-    [
-      "Babylon 5 is now free to watch on YouTube",
-      "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 23:38:15",
       "https://news.ycombinator.com/item?id=46968641"
     ],
     [
       "Windows NT/OS2 Design Workbook",
       "https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 19:51:38",
-      "https://news.ycombinator.com/item?id=46965829"
-    ],
-    [
-      "The three year myth",
-      "https://green.spacedino.net/the-three-year-myth/"
     ]
   ],
   [
