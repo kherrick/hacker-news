@@ -61,6 +61,7 @@
 * [2026-02-10, 09:39:00](https://news.ycombinator.com/item?id=46957360) - [Grindr trials premium $500 per month plan to become 'AI-first' app](https://www.thepinknews.com/2026/02/09/grindr-trials-premium-500-per-month-plan-to-become-ai-first-app/)
 * [2026-02-10, 09:19:00](https://news.ycombinator.com/item?id=46957198) - [Qwen-Image-2.0: Professional infographics, exquisite photorealism](https://qwen.ai/blog?id=qwen-image-2.0)
 * [2026-02-10, 07:10:37](https://news.ycombinator.com/item?id=46956322) - [Brutalist Southbank Centre Listed](https://www.architectsjournal.co.uk/news/brutalist-southbank-centre-finally-listed-after-35-years-of-refusals)
+* [2026-02-10, 06:19:33](https://news.ycombinator.com/item?id=46956021) - [Can you rewire your brain?](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
 * [2026-02-10, 06:18:30](https://news.ycombinator.com/item?id=46956016) - [A shortage of tenors](https://www.economist.com/culture/2026/02/09/the-world-is-suffering-from-a-shortage-of-tenors)
 * [2026-02-10, 05:20:32](https://news.ycombinator.com/item?id=46955712) - [Show HN: I built a macOS tool for network engineers – it's called NetViews](https://www.netviews.app)
 * [2026-02-10, 05:19:00](https://news.ycombinator.com/item?id=46955703) - [AI doesn’t reduce work, it intensifies it](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
