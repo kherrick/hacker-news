@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-14, 04:35:01",
+      "https://news.ycombinator.com/item?id=47011602"
+    ],
+    [
+      "Backblaze Drive Stats for 2025",
+      "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/"
+    ]
+  ],
+  [
+    [
+      "2026-02-14, 04:27:35",
+      "https://news.ycombinator.com/item?id=47011567"
+    ],
+    [
+      "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
+      "https://github.com/mickamy/sql-tap"
+    ]
+  ],
+  [
+    [
+      "2026-02-14, 03:49:18",
+      "https://news.ycombinator.com/item?id=47011346"
+    ],
+    [
+      "Oh, good: Discord's age verification rollout has ties to Palantir co-founder",
+      "https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/"
+    ]
+  ],
+  [
+    [
       "2026-02-14, 02:14:34",
       "https://news.ycombinator.com/item?id=47010823"
     ],
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2026-02-13, 05:05:26",
-      "https://news.ycombinator.com/item?id=46999117"
-    ],
-    [
-      "New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]",
-      "https://nickbostrom.com/optimal.pdf"
-    ]
-  ],
-  [
-    [
       "2026-02-13, 03:33:27",
       "https://news.ycombinator.com/item?id=47008931"
     ],
     [
       "The wonder of modern drywall",
       "https://www.worksinprogress.news/p/the-wonder-of-modern-drywall"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 18:58:56",
-      "https://news.ycombinator.com/item?id=46993345"
-    ],
-    [
-      "Anthropic raises $30B in Series G funding at $380B post-money valuation",
-      "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-02-09, 20:41:34",
-      "https://news.ycombinator.com/item?id=46950925"
-    ],
-    [
-      "The Blurred Line Between Video Calling and Live Streaming Software",
-      "https://www.red5.net/blog/between-video-calling-and-live-streaming-software/"
-    ]
-  ],
-  [
-    [
       "2026-02-09, 12:17:23",
       "https://news.ycombinator.com/item?id=46944430"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-02-08, 23:15:54",
-      "https://news.ycombinator.com/item?id=46939613"
+      "2026-02-08, 17:46:46",
+      "https://news.ycombinator.com/item?id=46936671"
     ],
     [
-      "Sandwich Bill of Materials",
-      "https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html"
+      "Understanding the Go Compiler: The Linker",
+      "https://internals-for-interns.com/posts/the-go-linker/"
     ]
   ],
   [
