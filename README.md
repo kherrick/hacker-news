@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-14, 13:47:44](https://news.ycombinator.com/item?id=47014500) - [Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB](https://github.com/datavorous/sameshi)
+* [2026-02-14, 13:40:20](https://news.ycombinator.com/item?id=47014449) - [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
+* [2026-02-14, 13:33:03](https://news.ycombinator.com/item?id=47014405) - [How many registers does an x86-64 CPU have? (2020)](https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have)
 * [2026-02-14, 09:28:45](https://news.ycombinator.com/item?id=47013059) - [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645)
 * [2026-02-14, 09:10:15](https://news.ycombinator.com/item?id=47012964) - [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage)
 * [2026-02-14, 08:22:11](https://news.ycombinator.com/item?id=47012717) - [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13)
-* [2026-02-14, 08:05:47](https://news.ycombinator.com/item?id=47012637) - [Show HN: Prompt to Planet, generate procedural 3D planets from text](https://prompttoplanet.n4ze3m.com/)
 * [2026-02-14, 07:00:15](https://news.ycombinator.com/item?id=47012312) - [Cogram (YC W22) – Hiring former technical founders](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer)
 * [2026-02-14, 04:35:01](https://news.ycombinator.com/item?id=47011602) - [Backblaze Drive Stats for 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/)
 * [2026-02-14, 04:27:35](https://news.ycombinator.com/item?id=47011567) - [Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap)
@@ -15,7 +17,6 @@
 * [2026-02-13, 14:21:01](https://news.ycombinator.com/item?id=47003064) - [Fix the iOS keyboard before the timer hits zero or I'm switching back to Android](https://ios-countdown.win/)
 * [2026-02-13, 12:18:05](https://news.ycombinator.com/item?id=47001871) - [Monosketch](https://monosketch.io/)
 * [2026-02-13, 08:49:02](https://news.ycombinator.com/item?id=47000505) - [Babylon 5 is now free to watch on YouTube](https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/)
-* [2026-02-13, 03:33:27](https://news.ycombinator.com/item?id=47008931) - [The wonder of modern drywall](https://www.worksinprogress.news/p/the-wonder-of-modern-drywall)
 * [2026-02-12, 01:44:35](https://news.ycombinator.com/item?id=46983873) - [Common Lisp Screenshots: today's CL applications in action](http://www.lisp-screenshots.org)
 * [2026-02-10, 21:26:16](https://news.ycombinator.com/item?id=46967147) - [Adventures in Neural Rendering](https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/)
 * [2026-02-10, 19:51:38](https://news.ycombinator.com/item?id=46965829) - [The Three Year Myth](https://green.spacedino.net/the-three-year-myth/)
@@ -28,7 +29,6 @@
 * [2026-02-09, 12:53:09](https://news.ycombinator.com/item?id=46944716) - [The World of Harmonics – With a Coffee, Guitar and Synth](https://mynoise.net/vlog.php?ep=20260204)
 * [2026-02-09, 12:17:23](https://news.ycombinator.com/item?id=46944430) - [gRPC: From service definition to wire format](https://kreya.app/blog/grpc-deep-dive/)
 * [2026-02-08, 17:46:46](https://news.ycombinator.com/item?id=46936671) - [Understanding the Go Compiler: The Linker](https://internals-for-interns.com/posts/the-go-linker/)
-* [2026-02-08, 15:10:30](https://news.ycombinator.com/item?id=46934860) - [Advanced Aerial Robotics Made Simple](https://www.drehmflight.com)
 * [2026-02-08, 00:58:29](https://news.ycombinator.com/item?id=46930181) - [Font Rendering from First Principles](https://mccloskeybr.com/articles/font_rendering.html)
 
 ## [Archives](archives/index.md)
