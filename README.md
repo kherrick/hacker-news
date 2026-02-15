@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-15, 23:08:43](https://news.ycombinator.com/item?id=47028705) - [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
 * [2026-02-15, 22:47:26](https://news.ycombinator.com/item?id=47028545) - [Continuous batching from first principles (2025)](https://huggingface.co/blog/continuous_batching)
 * [2026-02-15, 22:17:10](https://news.ycombinator.com/item?id=47028227) - [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
 * [2026-02-15, 21:54:15](https://news.ycombinator.com/item?id=47028013) - [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
@@ -26,7 +27,6 @@
 * [2026-02-13, 16:15:58](https://news.ycombinator.com/item?id=47004384) - [I Gave Claude Access to My Pen Plotter](https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter)
 * [2026-02-13, 05:39:45](https://news.ycombinator.com/item?id=46999285) - [Audio is the one area small labs are winning](https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai)
 * [2026-02-12, 18:35:39](https://news.ycombinator.com/item?id=46993014) - [Real-time PathTracing with global illumination in WebGL](https://erichlof.github.io/THREE.js-PathTracing-Renderer/)
-* [2026-02-12, 15:40:42](https://news.ycombinator.com/item?id=46990175) - [LEDs Enter the Nanoscale, But efficiency hurdles challenge the smallest LEDs yet](https://spectrum.ieee.org/nanoled-research-approaches)
 * [2026-02-12, 03:00:58](https://news.ycombinator.com/item?id=46984394) - [Sony Jumbotron Image Control System (1998) [pdf]](https://pro.sony/s3/cms-static-content/operation-manual/3864848111.pdf)
 * [2026-02-10, 17:44:13](https://news.ycombinator.com/item?id=46963736) - [Show HN: Deadlog – almost drop-in mutex for debugging Go deadlocks](https://github.com/stevenctl/deadlog)
 * [2026-02-10, 14:56:09](https://news.ycombinator.com/item?id=46960485) - [How Is Data Stored?](https://www.makingsoftware.com/chapters/how-is-data-stored)
