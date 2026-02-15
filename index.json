@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-02-15, 21:10:42",
-      "https://news.ycombinator.com/item?id=47027576"
-    ],
-    [
-      "Dutch Defence Secretary Boldly Claims F-35 Software Could Be 'Jailbroken'",
-      "https://theaviationist.com/2026/02/15/dutch-defence-secretary-f35-software/"
-    ]
-  ],
-  [
-    [
       "2026-02-15, 20:57:02",
       "https://news.ycombinator.com/item?id=47027463"
     ],
@@ -27,36 +17,6 @@
     [
       "GNU Pies – Program Invocation and Execution Supervisor",
       "https://www.gnu.org.ua/software/pies/"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 20:06:53",
-      "https://news.ycombinator.com/item?id=47027011"
-    ],
-    [
-      "Court orders Acer and Asus to stop selling PCs in Germany over H.265 patents",
-      "https://videocardz.com/newz/acer-and-asus-are-now-banned-from-selling-pcs-and-laptops-in-germany-following-nokia-hevc-patent-ruling"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 19:49:17",
-      "https://news.ycombinator.com/item?id=47026848"
-    ],
-    [
-      "State Attorneys General Want to Tie Online Access to ID",
-      "https://reclaimthenet.org/40-attorneys-general-back-ids-online-safety-act"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 19:41:12",
-      "https://news.ycombinator.com/item?id=47026773"
-    ],
-    [
-      "I need AI that scans every PR and issue and de-dupes",
-      "https://twitter.com/steipete/status/2023057089346580828"
     ]
   ],
   [
@@ -151,12 +111,32 @@
   ],
   [
     [
+      "2026-02-15, 16:55:24",
+      "https://news.ycombinator.com/item?id=47025220"
+    ],
+    [
+      "Show HN: DSCI – Dead Simple CI",
+      "https://github.com/melezhik/DSCI"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 16:51:17",
       "https://news.ycombinator.com/item?id=47025188"
     ],
     [
       "Palantir vs. the \"Republik\": US analytics firm takes magazine to court",
       "https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 16:40:13",
+      "https://news.ycombinator.com/item?id=47025085"
+    ],
+    [
+      "Pocketblue – Fedora Atomic for mobile devices",
+      "https://github.com/pocketblue/pocketblue"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2026-02-15, 15:23:17",
+      "https://news.ycombinator.com/item?id=47024398"
+    ],
+    [
+      "Show HN: Fieldnotes",
+      "https://fieldnote.ink"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 14:55:53",
       "https://news.ycombinator.com/item?id=47024184"
     ],
@@ -191,22 +181,22 @@
   ],
   [
     [
-      "2026-02-15, 11:37:29",
-      "https://news.ycombinator.com/item?id=47022943"
-    ],
-    [
-      "Reversed engineered game Starflight (1986)",
-      "https://github.com/s-macke/starflight-reverse"
-    ]
-  ],
-  [
-    [
       "2026-02-15, 11:25:26",
       "https://news.ycombinator.com/item?id=47022891"
     ],
     [
       "I Fixed Windows Native Development",
       "https://marler8997.github.io/blog/fixed-windows/"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 10:50:18",
+      "https://news.ycombinator.com/item?id=47022745"
+    ],
+    [
+      "Show HN: Pangolin: Open-source identity-based VPN (Twingate/Zscaler alternative)",
+      "https://github.com/fosrl/pangolin"
     ]
   ],
   [
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2026-02-15, 01:20:58",
-      "https://news.ycombinator.com/item?id=47020191"
+      "2026-02-13, 16:15:58",
+      "https://news.ycombinator.com/item?id=47004384"
     ],
     [
-      "I love the work of the ArchWiki maintainers",
-      "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/"
+      "I Gave Claude Access to My Pen Plotter",
+      "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Ask HN: Why is my Claude experience so bad? What am I doing wrong?",
       "https://news.ycombinator.com/item?id=47000206"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 05:39:45",
+      "https://news.ycombinator.com/item?id=46999285"
+    ],
+    [
+      "Audio is the one area small labs are winning",
+      "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai"
     ]
   ],
   [
