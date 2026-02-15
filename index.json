@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=47028013"
     ],
     [
-      "OpenClaw, OpenAI and the Future",
+      "I’m joining OpenAI",
       "https://steipete.me/posts/2026/openclaw"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "GNU Pies – Program Invocation and Execution Supervisor",
       "https://www.gnu.org.ua/software/pies/"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 19:41:12",
-      "https://news.ycombinator.com/item?id=47026773"
-    ],
-    [
-      "I need AI that scans every PR and issue and de-dupes",
-      "https://twitter.com/steipete/status/2023057089346580828"
     ]
   ],
   [
@@ -57,6 +47,16 @@
     [
       "Towards Autonomous Mathematics Research",
       "https://arxiv.org/abs/2602.10177"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 18:29:54",
+      "https://news.ycombinator.com/item?id=47026071"
+    ],
+    [
+      "Editor's Note: Retraction of article containing fabricated quotations",
+      "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2026-02-15, 16:51:17",
-      "https://news.ycombinator.com/item?id=47025188"
-    ],
-    [
-      "Palantir vs. the \"Republik\": US analytics firm takes magazine to court",
-      "https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html"
-    ]
-  ],
-  [
-    [
       "2026-02-15, 16:40:13",
       "https://news.ycombinator.com/item?id=47025085"
     ],
@@ -171,12 +161,22 @@
   ],
   [
     [
-      "2026-02-15, 14:55:53",
-      "https://news.ycombinator.com/item?id=47024184"
+      "2026-02-15, 12:42:17",
+      "https://news.ycombinator.com/item?id=47023238"
     ],
     [
-      "1940s Irish sci-fi novel features early mecha and gravity assists",
-      "https://github.com/cavedave/Manannan"
+      "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
+      "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 11:37:29",
+      "https://news.ycombinator.com/item?id=47022943"
+    ],
+    [
+      "Reversed engineered game Starflight (1986)",
+      "https://github.com/s-macke/starflight-reverse"
     ]
   ],
   [
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=47022891"
     ],
     [
-      "I Fixed Windows Native Development",
+      "I fixed Windows native development",
       "https://marler8997.github.io/blog/fixed-windows/"
     ]
   ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2026-02-15, 09:09:31",
-      "https://news.ycombinator.com/item?id=47022238"
+      "2026-02-15, 09:27:33",
+      "https://news.ycombinator.com/item?id=47022329"
     ],
     [
-      "SCM as a database for the code",
-      "https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e"
+      "Two different tricks for fast LLM inference",
+      "https://www.seangoedecke.com/fast-llm-inference/"
     ]
   ],
   [
@@ -237,16 +237,6 @@
     [
       "I Gave Claude Access to My Pen Plotter",
       "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 08:09:10",
-      "https://news.ycombinator.com/item?id=47000206"
-    ],
-    [
-      "Ask HN: Why is my Claude experience so bad? What am I doing wrong?",
-      "https://news.ycombinator.com/item?id=47000206"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Sony Jumbotron Image Control System (1998) [pdf]",
       "https://pro.sony/s3/cms-static-content/operation-manual/3864848111.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 17:44:13",
+      "https://news.ycombinator.com/item?id=46963736"
+    ],
+    [
+      "Show HN: Deadlog – almost drop-in mutex for debugging Go deadlocks",
+      "https://github.com/stevenctl/deadlog"
     ]
   ],
   [
