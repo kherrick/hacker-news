@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-02-15, 13:02:20",
-      "https://news.ycombinator.com/item?id=47023333"
+      "2026-02-15, 14:29:03",
+      "https://news.ycombinator.com/item?id=47023959"
     ],
     [
-      "Show HN: Perlin Noise Terminal Animation in Rust (60 FPS, Truecolor)",
-      "https://github.com/denisepattenson/perlin-terminal"
+      "The Dark Side of the Enlightenment",
+      "https://www.newstatesman.com/culture/books/2026/02/the-dark-side-of-the-enlightenment"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 13:48:44",
+      "https://news.ycombinator.com/item?id=47023633"
+    ],
+    [
+      "Kimi Claw",
+      "https://www.kimi.com/bot"
     ]
   ],
   [
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2026-02-14, 13:40:20",
-      "https://news.ycombinator.com/item?id=47014449"
-    ],
-    [
-      "Ooh.directory: a place to find good blogs that interest you",
-      "https://ooh.directory/"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 07:50:13",
       "https://news.ycombinator.com/item?id=47012553"
     ],
     [
       "OpenAI should build Slack",
       "https://www.latent.space/p/ainews-why-openai-should-build-slack"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 22:21:55",
-      "https://news.ycombinator.com/item?id=47008607"
-    ],
-    [
-      "How often do full-body MRIs find cancer?",
-      "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "RynnBrain",
       "https://github.com/alibaba-damo-academy/RynnBrain"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 14:56:09",
+      "https://news.ycombinator.com/item?id=46960485"
+    ],
+    [
+      "How Is Data Stored?",
+      "https://www.makingsoftware.com/chapters/how-is-data-stored"
     ]
   ],
   [
