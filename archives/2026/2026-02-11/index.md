@@ -56,6 +56,7 @@
 * [2026-02-11, 10:00:56](https://news.ycombinator.com/item?id=46973083) - [Chrome extensions spying on 37M users' browsing data](https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495)
 * [2026-02-11, 09:04:00](https://news.ycombinator.com/item?id=46972610) - [FAA Halts All Flights at El Paso Airport for 10 Days](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 * [2026-02-11, 08:43:58](https://news.ycombinator.com/item?id=46972471) - [A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST](https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst)
+* [2026-02-11, 08:34:51](https://news.ycombinator.com/item?id=46972392) - [Show HN: Copy-and-patch compiler for hard real-time Python](https://github.com/Nonannet/copapy)
 * [2026-02-11, 08:01:52](https://news.ycombinator.com/item?id=46972179) - [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163)
 * [2026-02-11, 07:42:57](https://news.ycombinator.com/item?id=46972056) - [Communities Are Not Fungible](https://www.joanwestenberg.com/communities-are-not-fungible/)
 * [2026-02-11, 07:00:46](https://news.ycombinator.com/item?id=46971794) - [CoLoop (YC S21) Is Hiring Ex Technical Founders in London](https://www.workatastartup.com/jobs/90016)

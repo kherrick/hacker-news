@@ -16,6 +16,7 @@
 * [2026-02-14, 15:35:47](https://news.ycombinator.com/item?id=47015294) - [My smart sleep mask broadcasts users' brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/)
 * [2026-02-14, 13:40:20](https://news.ycombinator.com/item?id=47014449) - [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
 * [2026-02-14, 07:50:13](https://news.ycombinator.com/item?id=47012553) - [OpenAI should build Slack](https://www.latent.space/p/ainews-why-openai-should-build-slack)
+* [2026-02-14, 02:14:34](https://news.ycombinator.com/item?id=47010823) - [NPMX – a fast, modern browser for the NPM registry](https://npmx.dev)
 * [2026-02-13, 22:21:55](https://news.ycombinator.com/item?id=47008607) - [How often do full-body MRIs find cancer?](https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/)
 * [2026-02-13, 19:22:18](https://news.ycombinator.com/item?id=47006615) - [Breaking the spell of vibe coding](https://www.fast.ai/posts/2026-01-28-dark-flow/)
 * [2026-02-13, 18:18:48](https://news.ycombinator.com/item?id=47005856) - [The consequences of task switching in supervisory programming](https://martinfowler.com/fragments/2026-02-13.html)
@@ -25,11 +26,10 @@
 * [2026-02-12, 16:35:10](https://news.ycombinator.com/item?id=46990888) - [A practical guide to observing the night sky for real skies and real equipment](https://stargazingbuddy.com/)
 * [2026-02-12, 15:17:25](https://news.ycombinator.com/item?id=46989859) - [Inspecting the Source of Go Modules](https://words.filippo.io/go-source/)
 * [2026-02-11, 17:31:48](https://news.ycombinator.com/item?id=46977967) - [Show HN: MOL – A programming language where pipelines trace themselves](https://github.com/crux-ecosystem/mol-lang)
-* [2026-02-11, 17:31:43](https://news.ycombinator.com/item?id=46977966) - [A Visual Source for Shakespeare's 'Tempest'](https://profadamroberts.substack.com/p/a-visual-source-for-shakespeares)
 * [2026-02-11, 14:09:13](https://news.ycombinator.com/item?id=46975112) - [MDST Engine: run GGUF models in the browser with WebGPU/WASM](https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser)
 * [2026-02-11, 10:31:21](https://news.ycombinator.com/item?id=46973299) - [Flood Fill vs. The Magic Circle](https://www.robinsloan.com/winter-garden/magic-circle/)
+* [2026-02-11, 08:34:51](https://news.ycombinator.com/item?id=46972392) - [Show HN: Copy-and-patch compiler for hard real-time Python](https://github.com/Nonannet/copapy)
 * [2026-02-11, 04:12:00](https://news.ycombinator.com/item?id=46970733) - [5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools](https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/)
-* [2026-02-10, 23:38:15](https://news.ycombinator.com/item?id=46968641) - [Windows NT/OS2 Design Workbook](https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/)
 
 ## [Archives](archives/index.md)
 
