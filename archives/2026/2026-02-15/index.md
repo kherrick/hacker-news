@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-15](index.md)
 
+* [2026-02-15, 22:47:26](https://news.ycombinator.com/item?id=47028545) - [Continuous batching from first principles (2025)](https://huggingface.co/blog/continuous_batching)
+* [2026-02-15, 22:17:10](https://news.ycombinator.com/item?id=47028227) - [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
 * [2026-02-15, 21:54:15](https://news.ycombinator.com/item?id=47028013) - [OpenClaw, OpenAI and the Future](https://steipete.me/posts/2026/openclaw)
 * [2026-02-15, 21:10:42](https://news.ycombinator.com/item?id=47027576) - [Dutch Defence Secretary Boldly Claims F-35 Software Could Be 'Jailbroken'](https://theaviationist.com/2026/02/15/dutch-defence-secretary-f35-software/)
 * [2026-02-15, 20:57:02](https://news.ycombinator.com/item?id=47027463) - [Show HN: Lightwave – Real-time notes app, 3.5 years of hand-rolled JavaScript](https://news.ycombinator.com/item?id=47027463)
@@ -20,6 +22,7 @@
 * [2026-02-15, 18:05:24](https://news.ycombinator.com/item?id=47025864) - [Radio host David Greene says Google's NotebookLM tool stole his voice](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/)
 * [2026-02-15, 18:04:10](https://news.ycombinator.com/item?id=47025851) - [Modern CSS Code Snippets: Stop writing CSS like it's 2015](https://modern-css.com)
 * [2026-02-15, 17:37:10](https://news.ycombinator.com/item?id=47025624) - [Palantir Gets Millions of Dollars from New York City's Public Hospitals](https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/)
+* [2026-02-15, 17:22:59](https://news.ycombinator.com/item?id=47025478) - [Show HN: Klaw.sh – Kubernetes for AI agents](https://github.com/klawsh/klaw.sh)
 * [2026-02-15, 17:12:35](https://news.ycombinator.com/item?id=47025399) - [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
 * [2026-02-15, 17:10:18](https://news.ycombinator.com/item?id=47025378) - [EU bans the destruction of unsold apparel, clothing, accessories and footwear](https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en)
 * [2026-02-15, 17:06:25](https://news.ycombinator.com/item?id=47025338) - [Show HN: Knock-Knock.net – Visualizing the bots knocking on my server's door](https://knock-knock.net)
