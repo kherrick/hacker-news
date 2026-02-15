@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-02-15, 20:10:28",
-      "https://news.ycombinator.com/item?id=47027044"
+      "2026-02-15, 20:57:02",
+      "https://news.ycombinator.com/item?id=47027463"
     ],
     [
-      "With Apple: Fortify your app: Essential strategies to strengthen security",
-      "https://developer.apple.com/events/view/TUHA23T82K/dashboard"
+      "Show HN: Lightwave – Real-time notes app, 3.5 years of hand-rolled JavaScript",
+      "https://news.ycombinator.com/item?id=47027463"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 20:53:26",
+      "https://news.ycombinator.com/item?id=47027427"
+    ],
+    [
+      "GNU Pies – Program Invocation and Execution Supervisor",
+      "https://www.gnu.org.ua/software/pies/"
     ]
   ],
   [
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=47021980"
     ],
     [
-      "Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library",
+      "Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library",
       "https://oat.ink/"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "I love the work of the ArchWiki maintainers",
       "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 15:35:47",
-      "https://news.ycombinator.com/item?id=47015294"
-    ],
-    [
-      "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-      "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/"
     ]
   ],
   [
