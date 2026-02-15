@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-15, 09:27:33](https://news.ycombinator.com/item?id=47022329) - [Two different tricks for fast LLM inference](https://www.seangoedecke.com/fast-llm-inference/)
+* [2026-02-15, 09:09:31](https://news.ycombinator.com/item?id=47022238) - [Git is a file system. We need a database for the code](https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e)
 * [2026-02-15, 08:40:12](https://news.ycombinator.com/item?id=47022067) - [Seeing Theory](https://seeing-theory.brown.edu/)
 * [2026-02-15, 08:21:10](https://news.ycombinator.com/item?id=47021992) - [No Coding Before 10am](https://michaelxbloch.substack.com/p/no-coding-before-10am)
 * [2026-02-15, 08:17:05](https://news.ycombinator.com/item?id=47021980) - [Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library](https://oat.ink/)
@@ -26,8 +28,6 @@
 * [2026-02-11, 17:31:48](https://news.ycombinator.com/item?id=46977967) - [Show HN: MOL – A programming language where pipelines trace themselves](https://github.com/crux-ecosystem/mol-lang)
 * [2026-02-11, 17:31:43](https://news.ycombinator.com/item?id=46977966) - [A Visual Source for Shakespeare's 'Tempest'](https://profadamroberts.substack.com/p/a-visual-source-for-shakespeares)
 * [2026-02-11, 14:09:13](https://news.ycombinator.com/item?id=46975112) - [MDST Engine: run GGUF models in the browser with WebGPU/WASM](https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser)
-* [2026-02-11, 10:31:21](https://news.ycombinator.com/item?id=46973299) - [Flood Fill vs. The Magic Circle](https://www.robinsloan.com/winter-garden/magic-circle/)
-* [2026-02-11, 04:30:18](https://news.ycombinator.com/item?id=46970832) - [I'm building a clarity-first language (compiles to C++)](https://github.com/taman-islam/rox)
 * [2026-02-11, 04:12:00](https://news.ycombinator.com/item?id=46970733) - [5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools](https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/)
 * [2026-02-10, 23:38:15](https://news.ycombinator.com/item?id=46968641) - [Windows NT/OS2 Design Workbook](https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/)
 
