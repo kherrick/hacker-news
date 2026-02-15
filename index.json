@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-02-15, 11:25:26",
+      "https://news.ycombinator.com/item?id=47022891"
+    ],
+    [
+      "I Fixed Windows Native Development",
+      "https://marler8997.github.io/blog/fixed-windows/"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 09:27:33",
       "https://news.ycombinator.com/item?id=47022329"
     ],
     [
       "Two different tricks for fast LLM inference",
       "https://www.seangoedecke.com/fast-llm-inference/"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 09:05:35",
+      "https://news.ycombinator.com/item?id=47022213"
+    ],
+    [
+      "DjVu and its connection to Deep Learning (2023)",
+      "https://scottlocklin.wordpress.com/2023/05/31/djvu-and-its-connection-to-deep-learning/"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47020791"
     ],
     [
-      "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
+      "Guitars of the USSR and the Jolana Special in Azerbaijani Music (2012)",
       "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/"
     ]
   ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2026-02-14, 21:08:08",
-      "https://news.ycombinator.com/item?id=47018405"
-    ],
-    [
-      "Colored Petri Nets, LLMs, and distributed applications",
-      "https://blog.sao.dev/cpns-llms-distributed-apps/"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 19:33:24",
       "https://news.ycombinator.com/item?id=47017545"
     ],
@@ -97,16 +107,6 @@
     [
       "News publishers limit Internet Archive access due to AI scraping concerns",
       "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 17:45:09",
-      "https://news.ycombinator.com/item?id=47016530"
-    ],
-    [
-      "A header-only C vector database library",
-      "https://github.com/abdimoallim/vdb"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2026-02-11, 17:31:43",
+      "https://news.ycombinator.com/item?id=46977966"
+    ],
+    [
+      "A Visual Source for Shakespeare's 'Tempest'",
+      "https://profadamroberts.substack.com/p/a-visual-source-for-shakespeares"
+    ]
+  ],
+  [
+    [
       "2026-02-11, 14:09:13",
       "https://news.ycombinator.com/item?id=46975112"
     ],
     [
       "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
       "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 10:31:21",
-      "https://news.ycombinator.com/item?id=46973299"
-    ],
-    [
-      "Flood Fill vs. The Magic Circle",
-      "https://www.robinsloan.com/winter-garden/magic-circle/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-02-10, 23:38:15",
-      "https://news.ycombinator.com/item?id=46968641"
+      "2026-02-10, 14:43:16",
+      "https://news.ycombinator.com/item?id=46960305"
     ],
     [
-      "Windows NT/OS2 Design Workbook",
-      "https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/"
+      "Constraint Propagation for Fun",
+      "https://eli.li/constraint-propagation-for-fun"
     ]
   ]
 ]
