@@ -48,6 +48,7 @@
 * [2026-02-10, 15:05:24](https://news.ycombinator.com/item?id=46960624) - [The US is flirting with its first-ever population decline](https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time)
 * [2026-02-10, 14:58:35](https://news.ycombinator.com/item?id=46960517) - [Vercel's CEO offers to cover expenses of 'Jmail'](https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh)
 * [2026-02-10, 14:49:29](https://news.ycombinator.com/item?id=46960392) - [Parse, Don't Validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+* [2026-02-10, 14:43:16](https://news.ycombinator.com/item?id=46960305) - [Constraint Propagation for Fun](https://eli.li/constraint-propagation-for-fun)
 * [2026-02-10, 14:27:16](https://news.ycombinator.com/item?id=46960118) - [Redefining Go Functions](https://pboyd.io/posts/redefining-go-functions/)
 * [2026-02-10, 14:20:49](https://news.ycombinator.com/item?id=46960036) - [Oxide raises $200M Series C](https://oxide.computer/blog/our-200m-series-c)
 * [2026-02-10, 14:02:10](https://news.ycombinator.com/item?id=46959832) - [Jury told that Meta, Google 'engineered addiction' at landmark US trial](https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html)
