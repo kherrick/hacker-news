@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-15, 20:57:02](https://news.ycombinator.com/item?id=47027463) - [Show HN: Lightwave – Real-time notes app, 3.5 years of hand-rolled JavaScript](https://news.ycombinator.com/item?id=47027463)
+* [2026-02-15, 21:54:15](https://news.ycombinator.com/item?id=47028013) - [OpenClaw, OpenAI and the Future](https://steipete.me/posts/2026/openclaw)
 * [2026-02-15, 20:53:26](https://news.ycombinator.com/item?id=47027427) - [GNU Pies – Program Invocation and Execution Supervisor](https://www.gnu.org.ua/software/pies/)
+* [2026-02-15, 19:41:12](https://news.ycombinator.com/item?id=47026773) - [I need AI that scans every PR and issue and de-dupes](https://twitter.com/steipete/status/2023057089346580828)
 * [2026-02-15, 19:40:57](https://news.ycombinator.com/item?id=47026768) - [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
 * [2026-02-15, 18:40:35](https://news.ycombinator.com/item?id=47026186) - [Show HN: Microgpt is a GPT you can visualize in the browser](https://microgpt.boratto.ca)
 * [2026-02-15, 18:35:40](https://news.ycombinator.com/item?id=47026134) - [Towards Autonomous Mathematics Research](https://arxiv.org/abs/2602.10177)
@@ -16,7 +17,6 @@
 * [2026-02-15, 16:40:13](https://news.ycombinator.com/item?id=47025085) - [Pocketblue – Fedora Atomic for mobile devices](https://github.com/pocketblue/pocketblue)
 * [2026-02-15, 16:19:51](https://news.ycombinator.com/item?id=47024907) - [Hideki Sato, designer of all Sega's consoles, has died](https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/)
 * [2026-02-15, 15:37:06](https://news.ycombinator.com/item?id=47024506) - [Gwtar: A static efficient single-file HTML format](https://gwern.net/gwtar)
-* [2026-02-15, 15:23:17](https://news.ycombinator.com/item?id=47024398) - [Show HN: Fieldnotes](https://fieldnote.ink)
 * [2026-02-15, 14:55:53](https://news.ycombinator.com/item?id=47024184) - [1940s Irish sci-fi novel features early mecha and gravity assists](https://github.com/cavedave/Manannan)
 * [2026-02-15, 11:25:26](https://news.ycombinator.com/item?id=47022891) - [I Fixed Windows Native Development](https://marler8997.github.io/blog/fixed-windows/)
 * [2026-02-15, 10:50:18](https://news.ycombinator.com/item?id=47022745) - [Show HN: Pangolin: Open-source identity-based VPN (Twingate/Zscaler alternative)](https://github.com/fosrl/pangolin)

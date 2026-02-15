@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-15](index.md)
 
+* [2026-02-15, 21:54:15](https://news.ycombinator.com/item?id=47028013) - [OpenClaw, OpenAI and the Future](https://steipete.me/posts/2026/openclaw)
 * [2026-02-15, 21:10:42](https://news.ycombinator.com/item?id=47027576) - [Dutch Defence Secretary Boldly Claims F-35 Software Could Be 'Jailbroken'](https://theaviationist.com/2026/02/15/dutch-defence-secretary-f35-software/)
 * [2026-02-15, 20:57:02](https://news.ycombinator.com/item?id=47027463) - [Show HN: Lightwave – Real-time notes app, 3.5 years of hand-rolled JavaScript](https://news.ycombinator.com/item?id=47027463)
 * [2026-02-15, 20:53:26](https://news.ycombinator.com/item?id=47027427) - [GNU Pies – Program Invocation and Execution Supervisor](https://www.gnu.org.ua/software/pies/)
