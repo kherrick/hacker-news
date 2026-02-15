@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2026-02-15](index.md)
 
 * [2026-02-15, 20:10:28](https://news.ycombinator.com/item?id=47027044) - [With Apple: Fortify your app: Essential strategies to strengthen security](https://developer.apple.com/events/view/TUHA23T82K/dashboard)
+* [2026-02-15, 20:06:53](https://news.ycombinator.com/item?id=47027011) - [Court orders Acer and Asus to stop selling PCs in Germany over H.265 patents](https://videocardz.com/newz/acer-and-asus-are-now-banned-from-selling-pcs-and-laptops-in-germany-following-nokia-hevc-patent-ruling)
 * [2026-02-15, 19:49:17](https://news.ycombinator.com/item?id=47026848) - [State Attorneys General Want to Tie Online Access to ID](https://reclaimthenet.org/40-attorneys-general-back-ids-online-safety-act)
 * [2026-02-15, 19:40:57](https://news.ycombinator.com/item?id=47026768) - [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
 * [2026-02-15, 18:52:26](https://news.ycombinator.com/item?id=47026289) - [Scientists observe a 300M-year-old brain rhythm in several animal species](https://phys.org/news/2026-01-scientists-million-year-brain-rhythm.html)
+* [2026-02-15, 18:40:35](https://news.ycombinator.com/item?id=47026186) - [Show HN: Microgpt is a GPT you can visualize in the browser](https://microgpt.boratto.ca)
 * [2026-02-15, 18:35:40](https://news.ycombinator.com/item?id=47026134) - [Towards Autonomous Mathematics Research](https://arxiv.org/abs/2602.10177)
 * [2026-02-15, 18:29:54](https://news.ycombinator.com/item?id=47026071) - [(Ars) Editor's Note: Retraction of article containing fabricated quotations](https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/)
 * [2026-02-15, 18:04:10](https://news.ycombinator.com/item?id=47025851) - [Modern CSS Code Snippets: Stop writing CSS like it's 2015](https://modern-css.com)
