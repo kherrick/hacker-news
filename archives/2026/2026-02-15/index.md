@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-15](index.md)
 
+* [2026-02-15, 13:02:20](https://news.ycombinator.com/item?id=47023333) - [Show HN: Perlin Noise Terminal Animation in Rust (60 FPS, Truecolor)](https://github.com/denisepattenson/perlin-terminal)
+* [2026-02-15, 12:42:17](https://news.ycombinator.com/item?id=47023238) - [Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State](https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly)
+* [2026-02-15, 11:37:29](https://news.ycombinator.com/item?id=47022943) - [Reversed engineered game Starflight (1986)](https://github.com/s-macke/starflight-reverse)
 * [2026-02-15, 11:25:26](https://news.ycombinator.com/item?id=47022891) - [I Fixed Windows Native Development](https://marler8997.github.io/blog/fixed-windows/)
+* [2026-02-15, 10:40:49](https://news.ycombinator.com/item?id=47022704) - [A Pokémon of a Different Color](https://matthew.verive.me/blog/color/)
 * [2026-02-15, 09:27:33](https://news.ycombinator.com/item?id=47022329) - [Two different tricks for fast LLM inference](https://www.seangoedecke.com/fast-llm-inference/)
 * [2026-02-15, 09:09:31](https://news.ycombinator.com/item?id=47022238) - [Git is a file system. We need a database for the code](https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e)
 * [2026-02-15, 09:05:35](https://news.ycombinator.com/item?id=47022213) - [DjVu and its connection to Deep Learning (2023)](https://scottlocklin.wordpress.com/2023/05/31/djvu-and-its-connection-to-deep-learning/)
