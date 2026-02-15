@@ -43,6 +43,7 @@
 * [2026-02-12, 16:23:37](https://news.ycombinator.com/item?id=46990733) - [Show HN: 20+ Claude Code agents coordinating on real work (open source)](https://github.com/mutable-state-inc/lean-collab)
 * [2026-02-12, 16:23:24](https://news.ycombinator.com/item?id=46990729) - [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 * [2026-02-12, 16:10:29](https://news.ycombinator.com/item?id=46990578) - [Beginning autonomous operations with the 6th-generation Waymo Driver](https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver)
+* [2026-02-12, 15:40:42](https://news.ycombinator.com/item?id=46990175) - [LEDs Enter the Nanoscale, But efficiency hurdles challenge the smallest LEDs yet](https://spectrum.ieee.org/nanoled-research-approaches)
 * [2026-02-12, 15:35:45](https://news.ycombinator.com/item?id=46990103) - [Lines of Code Are Back (and It's Worse Than Before)](https://www.thepragmaticcto.com/p/lines-of-code-are-back-and-its-worse)
 * [2026-02-12, 15:32:18](https://news.ycombinator.com/item?id=46990056) - [US businesses and consumers pay 90% of tariff costs, New York Fed says](https://www.ft.com/content/c4f886a1-1633-418c-b6b5-16f700f8bb0d)
 * [2026-02-12, 15:17:25](https://news.ycombinator.com/item?id=46989859) - [Inspecting the Source of Go Modules](https://words.filippo.io/go-source/)
