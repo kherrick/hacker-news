@@ -35,6 +35,7 @@
 * [2026-02-12, 16:55:50](https://news.ycombinator.com/item?id=46991240) - [Gemini 3 Deep Think](https://twitter.com/GoogleDeepMind/status/2021981510400709092)
 * [2026-02-12, 16:55:50](https://news.ycombinator.com/item?id=46991240) - [Gemini 3 Deep Think](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/)
 * [2026-02-12, 16:51:37](https://news.ycombinator.com/item?id=46991154) - [MiniMax M2.5 released: 80.2% in SWE-bench Verified](https://www.minimax.io/news/minimax-m25)
+* [2026-02-12, 16:35:10](https://news.ycombinator.com/item?id=46990888) - [A practical guide to observing the night sky for real skies and real equipment](https://stargazingbuddy.com/)
 * [2026-02-12, 16:32:55](https://news.ycombinator.com/item?id=46990855) - [So many trees planted in Taklamakan Desert that it's turned into a carbon sink](https://www.livescience.com/planet-earth/plants/china-has-planted-so-many-trees-around-the-taklamakan-desert-that-its-turned-this-biological-void-into-a-carbon-sink)
 * [2026-02-12, 16:23:37](https://news.ycombinator.com/item?id=46990733) - [Show HN: 20+ Claude Code agents coordinating on real work (open source)](https://github.com/mutable-state-inc/lean-collab)
 * [2026-02-12, 16:23:24](https://news.ycombinator.com/item?id=46990729) - [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
