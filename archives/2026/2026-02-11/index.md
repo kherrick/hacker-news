@@ -28,6 +28,7 @@
 * [2026-02-11, 18:06:11](https://news.ycombinator.com/item?id=46978490) - [NetNewsWire Turns 23](https://netnewswire.blog/2026/02/11/netnewswire-turns.html)
 * [2026-02-11, 17:34:27](https://news.ycombinator.com/item?id=46978015) - [Should your developer company go open source?](https://extremefoundership.substack.com/p/should-your-developer-company-go)
 * [2026-02-11, 17:31:48](https://news.ycombinator.com/item?id=46977967) - [Show HN: MOL – A programming language where pipelines trace themselves](https://github.com/crux-ecosystem/mol-lang)
+* [2026-02-11, 17:17:35](https://news.ycombinator.com/item?id=46977742) - [The Perfect Device](https://sometimes.digital/posts/the-perfect-device/)
 * [2026-02-11, 17:01:15](https://news.ycombinator.com/item?id=46977493) - [Scientists research man missing 90% of his brain who leads a normal life (2016)](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.3679117/scientists-research-man-missing-90-of-his-brain-who-leads-a-normal-life-1.3679125)
 * [2026-02-11, 16:41:33](https://news.ycombinator.com/item?id=46977210) - [GLM-5: From Vibe Coding to Agentic Engineering](https://z.ai/blog/glm-5)
 * [2026-02-11, 16:39:11](https://news.ycombinator.com/item?id=46977175) - [Ireland rolls out pioneering basic income scheme for artists](https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/)

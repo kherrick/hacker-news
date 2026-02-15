@@ -18,6 +18,7 @@
 * [2026-02-12, 20:27:17](https://news.ycombinator.com/item?id=46994633) - [I was insulted today – AI style](https://forkingmad.blog/insulted-today-ai/)
 * [2026-02-12, 19:59:52](https://news.ycombinator.com/item?id=46994255) - [Show HN: Generate Web Interfaces from Data](https://github.com/puffinsoft/syntux)
 * [2026-02-12, 19:32:02](https://news.ycombinator.com/item?id=46993829) - [Googlers Demand Worker Safety and ICE Contract Transparency](https://www.googlers-against-ice.com)
+* [2026-02-12, 19:19:30](https://news.ycombinator.com/item?id=46993647) - [Connes Embedding Problem](https://en.wikipedia.org/wiki/Connes_embedding_problem)
 * [2026-02-12, 19:15:47](https://news.ycombinator.com/item?id=46993596) - [Show HN: rari, the rust-powered react framework](https://rari.build/)
 * [2026-02-12, 19:15:21](https://news.ycombinator.com/item?id=46993587) - [Show HN: Moltis – AI assistant with memory, tools, and self-extending skills](https://www.moltis.org)
 * [2026-02-12, 19:06:57](https://news.ycombinator.com/item?id=46993479) - [Ask HN: Are you using an agent orchestrator to write code?](https://news.ycombinator.com/item?id=46993479)
