@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-15, 17:12:35",
+      "https://news.ycombinator.com/item?id=47025399"
+    ],
+    [
+      "LT6502: A 6502-based homebrew laptop",
+      "https://github.com/TechPaula/LT6502"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 17:10:18",
+      "https://news.ycombinator.com/item?id=47025378"
+    ],
+    [
+      "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+      "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 16:51:17",
+      "https://news.ycombinator.com/item?id=47025188"
+    ],
+    [
+      "Palantir vs. the \"Republik\": US analytics firm takes magazine to court",
+      "https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 16:19:51",
       "https://news.ycombinator.com/item?id=47024907"
     ],
@@ -17,6 +47,26 @@
     [
       "An Enslaved Gardener Transformed the Pecan into a Cash Crop",
       "https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 15:37:06",
+      "https://news.ycombinator.com/item?id=47024506"
+    ],
+    [
+      "Gwtar: A static efficient single-file HTML format",
+      "https://gwern.net/gwtar"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 14:55:53",
+      "https://news.ycombinator.com/item?id=47024184"
+    ],
+    [
+      "1940s Irish sci-fi novel features early mecha and gravity assists",
+      "https://github.com/cavedave/Manannan"
     ]
   ],
   [
@@ -101,32 +151,12 @@
   ],
   [
     [
-      "2026-02-15, 03:29:39",
-      "https://news.ycombinator.com/item?id=47020791"
-    ],
-    [
-      "Guitars of the USSR and the Jolana Special in Azerbaijani Music (2012)",
-      "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/"
-    ]
-  ],
-  [
-    [
       "2026-02-15, 01:20:58",
       "https://news.ycombinator.com/item?id=47020191"
     ],
     [
       "I love the work of the ArchWiki maintainers",
       "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 18:46:32",
-      "https://news.ycombinator.com/item?id=47017138"
-    ],
-    [
-      "News publishers limit Internet Archive access due to AI scraping concerns",
-      "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/"
     ]
   ],
   [
@@ -141,42 +171,12 @@
   ],
   [
     [
-      "2026-02-14, 16:50:47",
-      "https://news.ycombinator.com/item?id=47016008"
-    ],
-    [
-      "Amsterdam Compiler Kit",
-      "https://github.com/davidgiven/ack"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 15:35:47",
       "https://news.ycombinator.com/item?id=47015294"
     ],
     [
       "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
       "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 07:50:13",
-      "https://news.ycombinator.com/item?id=47012553"
-    ],
-    [
-      "OpenAI should build Slack",
-      "https://www.latent.space/p/ainews-why-openai-should-build-slack"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 19:22:18",
-      "https://news.ycombinator.com/item?id=47006615"
-    ],
-    [
-      "Breaking the spell of vibe coding",
-      "https://www.fast.ai/posts/2026-01-28-dark-flow/"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
+      "2026-02-12, 18:35:39",
+      "https://news.ycombinator.com/item?id=46993014"
+    ],
+    [
+      "Real-time PathTracing with global illumination in WebGL",
+      "https://erichlof.github.io/THREE.js-PathTracing-Renderer/"
+    ]
+  ],
+  [
+    [
       "2026-02-12, 16:35:10",
       "https://news.ycombinator.com/item?id=46990888"
     ],
     [
       "A practical guide to observing the night sky for real skies and real equipment",
       "https://stargazingbuddy.com/"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 17:31:43",
-      "https://news.ycombinator.com/item?id=46977966"
-    ],
-    [
-      "A Visual Source for Shakespeare's 'Tempest'",
-      "https://profadamroberts.substack.com/p/a-visual-source-for-shakespeares"
     ]
   ],
   [
