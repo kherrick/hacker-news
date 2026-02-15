@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-02-15](index.md)
 
+* [2026-02-15, 17:12:35](https://news.ycombinator.com/item?id=47025399) - [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
+* [2026-02-15, 17:10:18](https://news.ycombinator.com/item?id=47025378) - [EU bans the destruction of unsold apparel, clothing, accessories and footwear](https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en)
+* [2026-02-15, 16:51:17](https://news.ycombinator.com/item?id=47025188) - [Palantir vs. the \"Republik\": US analytics firm takes magazine to court](https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html)
 * [2026-02-15, 16:19:51](https://news.ycombinator.com/item?id=47024907) - [Hideki Sato, designer of all Sega's consoles, has died](https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/)
 * [2026-02-15, 15:53:13](https://news.ycombinator.com/item?id=47024676) - [An Enslaved Gardener Transformed the Pecan into a Cash Crop](https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/)
+* [2026-02-15, 15:37:06](https://news.ycombinator.com/item?id=47024506) - [Gwtar: A static efficient single-file HTML format](https://gwern.net/gwtar)
 * [2026-02-15, 15:21:08](https://news.ycombinator.com/item?id=47024387) - [AI is going to kill app subscriptions](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
+* [2026-02-15, 14:55:53](https://news.ycombinator.com/item?id=47024184) - [1940s Irish sci-fi novel features early mecha and gravity assists](https://github.com/cavedave/Manannan)
 * [2026-02-15, 14:48:43](https://news.ycombinator.com/item?id=47024112) - [Inner-Platform Effect](https://en.wikipedia.org/wiki/Inner-platform_effect)
 * [2026-02-15, 14:29:03](https://news.ycombinator.com/item?id=47023959) - [The Dark Side of the Enlightenment](https://www.newstatesman.com/culture/books/2026/02/the-dark-side-of-the-enlightenment)
 * [2026-02-15, 13:48:44](https://news.ycombinator.com/item?id=47023633) - [Kimi Claw](https://www.kimi.com/bot)
