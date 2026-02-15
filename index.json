@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-15, 09:27:33",
+      "https://news.ycombinator.com/item?id=47022329"
+    ],
+    [
+      "Two different tricks for fast LLM inference",
+      "https://www.seangoedecke.com/fast-llm-inference/"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 09:09:31",
+      "https://news.ycombinator.com/item?id=47022238"
+    ],
+    [
+      "Git is a file system. We need a database for the code",
+      "https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 08:40:12",
       "https://news.ycombinator.com/item?id=47022067"
     ],
@@ -257,26 +277,6 @@
     [
       "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
       "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 10:31:21",
-      "https://news.ycombinator.com/item?id=46973299"
-    ],
-    [
-      "Flood Fill vs. The Magic Circle",
-      "https://www.robinsloan.com/winter-garden/magic-circle/"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 04:30:18",
-      "https://news.ycombinator.com/item?id=46970832"
-    ],
-    [
-      "I'm building a clarity-first language (compiles to C++)",
-      "https://github.com/taman-islam/rox"
     ]
   ],
   [
