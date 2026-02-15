@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-15, 17:37:10](https://news.ycombinator.com/item?id=47025624) - [Palantir Gets Millions of Dollars from New York City's Public Hospitals](https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/)
 * [2026-02-15, 17:12:35](https://news.ycombinator.com/item?id=47025399) - [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
 * [2026-02-15, 17:10:18](https://news.ycombinator.com/item?id=47025378) - [EU bans the destruction of unsold apparel, clothing, accessories and footwear](https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en)
 * [2026-02-15, 16:51:17](https://news.ycombinator.com/item?id=47025188) - [Palantir vs. the \"Republik\": US analytics firm takes magazine to court](https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html)
@@ -25,7 +26,6 @@
 * [2026-02-12, 18:35:39](https://news.ycombinator.com/item?id=46993014) - [Real-time PathTracing with global illumination in WebGL](https://erichlof.github.io/THREE.js-PathTracing-Renderer/)
 * [2026-02-12, 16:35:10](https://news.ycombinator.com/item?id=46990888) - [A practical guide to observing the night sky for real skies and real equipment](https://stargazingbuddy.com/)
 * [2026-02-11, 17:00:20](https://news.ycombinator.com/item?id=46977477) - [Build Gaussian Splat Experiences with SuperSplat Studio](https://blog.playcanvas.com/build-gaussian-splat-experiences-with-supersplat-studio/)
-* [2026-02-11, 08:34:51](https://news.ycombinator.com/item?id=46972392) - [Show HN: Copy-and-patch compiler for hard real-time Python](https://github.com/Nonannet/copapy)
 * [2026-02-11, 04:12:00](https://news.ycombinator.com/item?id=46970733) - [5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools](https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/)
 * [2026-02-11, 00:08:01](https://news.ycombinator.com/item?id=46968964) - [RynnBrain](https://github.com/alibaba-damo-academy/RynnBrain)
 * [2026-02-10, 14:56:09](https://news.ycombinator.com/item?id=46960485) - [How Is Data Stored?](https://www.makingsoftware.com/chapters/how-is-data-stored)
