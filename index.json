@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-15, 04:29:44",
+      "https://news.ycombinator.com/item?id=47021065"
+    ],
+    [
+      "Linear Representations and Superposition",
+      "http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 01:24:16",
       "https://news.ycombinator.com/item?id=47020218"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2026-02-14, 17:45:09",
-      "https://news.ycombinator.com/item?id=47016530"
-    ],
-    [
-      "A header-only C vector database library",
-      "https://github.com/abdimoallim/vdb"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 17:36:45",
       "https://news.ycombinator.com/item?id=47016443"
     ],
@@ -97,16 +97,6 @@
     [
       "A review of M Disc archival capability with long term testing results (2016)",
       "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 15:39:43",
-      "https://news.ycombinator.com/item?id=47015330"
-    ],
-    [
-      "Vim 9.2",
-      "https://www.vim.org/vim-9.2-released.php"
     ]
   ],
   [
@@ -161,22 +151,12 @@
   ],
   [
     [
-      "2026-02-14, 01:03:28",
-      "https://news.ycombinator.com/item?id=47010147"
+      "2026-02-14, 07:50:13",
+      "https://news.ycombinator.com/item?id=47012553"
     ],
     [
-      "Discord: A case study in performance optimization",
-      "https://newsletter.fullstack.zip/p/discord-a-case-study-in-performance"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 23:34:09",
-      "https://news.ycombinator.com/item?id=47009327"
-    ],
-    [
-      "IBM tripling entry-level jobs after finding the limits of AI adoption",
-      "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/"
+      "OpenAI should build Slack",
+      "https://www.latent.space/p/ainews-why-openai-should-build-slack"
     ]
   ],
   [
@@ -187,6 +167,26 @@
     [
       "Launching Interop 2026",
       "https://hacks.mozilla.org/2026/02/launching-interop-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 22:21:55",
+      "https://news.ycombinator.com/item?id=47008607"
+    ],
+    [
+      "How often do full-body MRIs find cancer?",
+      "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 19:22:18",
+      "https://news.ycombinator.com/item?id=47006615"
+    ],
+    [
+      "Breaking the spell of vibe coding",
+      "https://www.fast.ai/posts/2026-01-28-dark-flow/"
     ]
   ],
   [
@@ -251,12 +251,32 @@
   ],
   [
     [
+      "2026-02-11, 14:09:13",
+      "https://news.ycombinator.com/item?id=46975112"
+    ],
+    [
+      "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
+      "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser"
+    ]
+  ],
+  [
+    [
       "2026-02-11, 10:31:21",
       "https://news.ycombinator.com/item?id=46973299"
     ],
     [
       "Flood Fill vs. The Magic Circle",
       "https://www.robinsloan.com/winter-garden/magic-circle/"
+    ]
+  ],
+  [
+    [
+      "2026-02-11, 04:30:18",
+      "https://news.ycombinator.com/item?id=46970832"
+    ],
+    [
+      "I'm building a clarity-first language (compiles to C++)",
+      "https://github.com/taman-islam/rox"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-02-10, 23:38:15",
-      "https://news.ycombinator.com/item?id=46968641"
-    ],
-    [
-      "Windows NT/OS2 Design Workbook",
-      "https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/"
-    ]
-  ],
-  [
-    [
       "2026-02-10, 16:14:56",
       "https://news.ycombinator.com/item?id=46961931"
     ],
     [
       "Can my SPARC server host a website?",
       "https://rup12.net/posts/can-my-sparc-server-host-my-website/"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 14:44:51",
-      "https://news.ycombinator.com/item?id=46934622"
-    ],
-    [
-      "Ask HN: How to get started with robotics as a hobbyist?",
-      "https://news.ycombinator.com/item?id=46934622"
     ]
   ]
 ]
