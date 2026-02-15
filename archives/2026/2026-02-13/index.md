@@ -52,6 +52,7 @@
 * [2026-02-13, 09:22:42](https://news.ycombinator.com/item?id=47000737) - [Ask HN: Is there a no-LLM license yet?](https://news.ycombinator.com/item?id=47000737)
 * [2026-02-13, 08:53:51](https://news.ycombinator.com/item?id=47000535) - [Zvec: A lightweight, fast, in-process vector database](https://github.com/alibaba/zvec)
 * [2026-02-13, 08:49:02](https://news.ycombinator.com/item?id=47000505) - [Babylon 5 is now free to watch on YouTube](https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/)
+* [2026-02-13, 08:09:10](https://news.ycombinator.com/item?id=47000206) - [Ask HN: Why is my Claude experience so bad? What am I doing wrong?](https://news.ycombinator.com/item?id=47000206)
 * [2026-02-13, 08:02:23](https://news.ycombinator.com/item?id=47000164) - [CSS-Doodle](https://css-doodle.com/)
 * [2026-02-13, 07:46:03](https://news.ycombinator.com/item?id=47000041) - [MinIO repository is no longer maintained](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)
 * [2026-02-13, 07:00:41](https://news.ycombinator.com/item?id=46999753) - [Asimov (YC W26) Is Hiring](https://news.ycombinator.com/item?id=46999753)
