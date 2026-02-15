@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-15](index.md)
 
+* [2026-02-15, 20:10:28](https://news.ycombinator.com/item?id=47027044) - [With Apple: Fortify your app: Essential strategies to strengthen security](https://developer.apple.com/events/view/TUHA23T82K/dashboard)
+* [2026-02-15, 19:49:17](https://news.ycombinator.com/item?id=47026848) - [State Attorneys General Want to Tie Online Access to ID](https://reclaimthenet.org/40-attorneys-general-back-ids-online-safety-act)
+* [2026-02-15, 19:40:57](https://news.ycombinator.com/item?id=47026768) - [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
 * [2026-02-15, 18:52:26](https://news.ycombinator.com/item?id=47026289) - [Scientists observe a 300M-year-old brain rhythm in several animal species](https://phys.org/news/2026-01-scientists-million-year-brain-rhythm.html)
 * [2026-02-15, 18:35:40](https://news.ycombinator.com/item?id=47026134) - [Towards Autonomous Mathematics Research](https://arxiv.org/abs/2602.10177)
 * [2026-02-15, 18:29:54](https://news.ycombinator.com/item?id=47026071) - [(Ars) Editor's Note: Retraction of article containing fabricated quotations](https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/)
+* [2026-02-15, 18:04:10](https://news.ycombinator.com/item?id=47025851) - [Modern CSS Code Snippets: Stop writing CSS like it's 2015](https://modern-css.com)
 * [2026-02-15, 17:37:10](https://news.ycombinator.com/item?id=47025624) - [Palantir Gets Millions of Dollars from New York City's Public Hospitals](https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/)
 * [2026-02-15, 17:12:35](https://news.ycombinator.com/item?id=47025399) - [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
 * [2026-02-15, 17:10:18](https://news.ycombinator.com/item?id=47025378) - [EU bans the destruction of unsold apparel, clothing, accessories and footwear](https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en)
