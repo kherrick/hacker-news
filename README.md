@@ -2,7 +2,6 @@
 
 * [2026-02-15, 06:48:13](https://news.ycombinator.com/item?id=47021586) - [Ex-Tech –> Homeless in SF](https://zamoshi.substack.com/p/ninety-four-degrees)
 * [2026-02-15, 05:43:59](https://news.ycombinator.com/item?id=47021354) - [Flashpoint Archive – Over 200k web games and animations preserved](https://flashpointarchive.org)
-* [2026-02-15, 04:29:44](https://news.ycombinator.com/item?id=47021065) - [Linear Representations and Superposition](http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html)
 * [2026-02-15, 03:29:39](https://news.ycombinator.com/item?id=47020791) - [Guitars of the USSR and the Jolana Special in Azerbaijani Music](https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/)
 * [2026-02-15, 01:24:16](https://news.ycombinator.com/item?id=47020218) - [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)
 * [2026-02-15, 01:20:58](https://news.ycombinator.com/item?id=47020191) - [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
@@ -10,6 +9,7 @@
 * [2026-02-14, 21:08:08](https://news.ycombinator.com/item?id=47018405) - [Colored Petri Nets, LLMs, and distributed applications](https://blog.sao.dev/cpns-llms-distributed-apps/)
 * [2026-02-14, 19:33:24](https://news.ycombinator.com/item?id=47017545) - [Descent, ported to the web](https://mrdoob.github.io/three-descent/)
 * [2026-02-14, 18:46:32](https://news.ycombinator.com/item?id=47017138) - [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+* [2026-02-14, 17:45:09](https://news.ycombinator.com/item?id=47016530) - [A header-only C vector database library](https://github.com/abdimoallim/vdb)
 * [2026-02-14, 17:36:45](https://news.ycombinator.com/item?id=47016443) - [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/)
 * [2026-02-14, 16:50:47](https://news.ycombinator.com/item?id=47016008) - [Amsterdam Compiler Kit](https://github.com/davidgiven/ack)
 * [2026-02-14, 16:07:44](https://news.ycombinator.com/item?id=47015579) - [A review of M Disc archival capability with long term testing results (2016)](http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html)
