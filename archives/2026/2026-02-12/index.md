@@ -16,6 +16,7 @@
 * [2026-02-12, 20:44:17](https://news.ycombinator.com/item?id=46994869) - [Fixing retail with land value capture](https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/)
 * [2026-02-12, 20:27:27](https://news.ycombinator.com/item?id=46994636) - [What's the difference between a \"disc\" and a \"disk\"?](https://support.apple.com/en-gb/100749)
 * [2026-02-12, 20:27:17](https://news.ycombinator.com/item?id=46994633) - [I was insulted today – AI style](https://forkingmad.blog/insulted-today-ai/)
+* [2026-02-12, 20:13:13](https://news.ycombinator.com/item?id=46994456) - [The seam through the center of things](https://usefulfictions.substack.com/p/the-seam-through-the-center-of-things)
 * [2026-02-12, 19:59:52](https://news.ycombinator.com/item?id=46994255) - [Show HN: Generate Web Interfaces from Data](https://github.com/puffinsoft/syntux)
 * [2026-02-12, 19:32:02](https://news.ycombinator.com/item?id=46993829) - [Googlers Demand Worker Safety and ICE Contract Transparency](https://www.googlers-against-ice.com)
 * [2026-02-12, 19:19:30](https://news.ycombinator.com/item?id=46993647) - [Connes Embedding Problem](https://en.wikipedia.org/wiki/Connes_embedding_problem)
