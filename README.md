@@ -28,8 +28,8 @@
 * [2026-02-13, 05:39:45](https://news.ycombinator.com/item?id=46999285) - [Audio is the one area small labs are winning](https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai)
 * [2026-02-12, 18:35:39](https://news.ycombinator.com/item?id=46993014) - [Real-time PathTracing with global illumination in WebGL](https://erichlof.github.io/THREE.js-PathTracing-Renderer/)
 * [2026-02-12, 03:00:58](https://news.ycombinator.com/item?id=46984394) - [Sony Jumbotron Image Control System (1998) [pdf]](https://pro.sony/s3/cms-static-content/operation-manual/3864848111.pdf)
+* [2026-02-11, 01:32:59](https://news.ycombinator.com/item?id=46969642) - [I'm Always in the Club](https://www.lrb.co.uk/the-paper/v48/n02/christian-lorentzen/i-m-always-in-the-club)
 * [2026-02-10, 17:44:13](https://news.ycombinator.com/item?id=46963736) - [Show HN: Deadlog – almost drop-in mutex for debugging Go deadlocks](https://github.com/stevenctl/deadlog)
-* [2026-02-10, 14:56:09](https://news.ycombinator.com/item?id=46960485) - [How Is Data Stored?](https://www.makingsoftware.com/chapters/how-is-data-stored)
 
 ## [Archives](archives/index.md)
 

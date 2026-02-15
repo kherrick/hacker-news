@@ -69,6 +69,7 @@
 * [2026-02-11, 04:15:24](https://news.ycombinator.com/item?id=46970752) - [A simpler way to remove explicit images from Search](https://blog.google/products-and-platforms/products/search/remove-explicit-images/)
 * [2026-02-11, 04:12:00](https://news.ycombinator.com/item?id=46970733) - [5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools](https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/)
 * [2026-02-11, 01:50:44](https://news.ycombinator.com/item?id=46969751) - [End of an era for me: no more self-hosted git](https://www.kraxel.org/blog/2026/01/thank-you-ai/)
+* [2026-02-11, 01:32:59](https://news.ycombinator.com/item?id=46969642) - [I'm Always in the Club](https://www.lrb.co.uk/the-paper/v48/n02/christian-lorentzen/i-m-always-in-the-club)
 * [2026-02-11, 01:00:15](https://news.ycombinator.com/item?id=46969399) - [Rivian R2: Electric Mid-Size SUV](https://rivian.com/r2)
 * [2026-02-11, 00:21:55](https://news.ycombinator.com/item?id=46969088) - [Fun With Pinball](https://www.funwithpinball.com/exhibits/small-boards)
 * [2026-02-11, 00:08:01](https://news.ycombinator.com/item?id=46968964) - [RynnBrain](https://github.com/alibaba-damo-academy/RynnBrain)
