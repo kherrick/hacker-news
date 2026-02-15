@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-02-15, 04:29:44",
-      "https://news.ycombinator.com/item?id=47021065"
-    ],
-    [
-      "Linear Representations and Superposition",
-      "http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html"
-    ]
-  ],
-  [
-    [
       "2026-02-15, 03:29:39",
       "https://news.ycombinator.com/item?id=47020791"
     ],
@@ -97,6 +87,16 @@
     [
       "News publishers limit Internet Archive access due to AI scraping concerns",
       "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/"
+    ]
+  ],
+  [
+    [
+      "2026-02-14, 17:45:09",
+      "https://news.ycombinator.com/item?id=47016530"
+    ],
+    [
+      "A header-only C vector database library",
+      "https://github.com/abdimoallim/vdb"
     ]
   ],
   [
