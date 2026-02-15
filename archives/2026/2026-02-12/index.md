@@ -42,6 +42,7 @@
 * [2026-02-12, 16:10:29](https://news.ycombinator.com/item?id=46990578) - [Beginning autonomous operations with the 6th-generation Waymo Driver](https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver)
 * [2026-02-12, 15:35:45](https://news.ycombinator.com/item?id=46990103) - [Lines of Code Are Back (and It's Worse Than Before)](https://www.thepragmaticcto.com/p/lines-of-code-are-back-and-its-worse)
 * [2026-02-12, 15:32:18](https://news.ycombinator.com/item?id=46990056) - [US businesses and consumers pay 90% of tariff costs, New York Fed says](https://www.ft.com/content/c4f886a1-1633-418c-b6b5-16f700f8bb0d)
+* [2026-02-12, 15:17:25](https://news.ycombinator.com/item?id=46989859) - [Inspecting the Source of Go Modules](https://words.filippo.io/go-source/)
 * [2026-02-12, 14:56:18](https://news.ycombinator.com/item?id=46989605) - [A brief history of barbed wire fence telephone networks](https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/)
 * [2026-02-12, 14:38:05](https://news.ycombinator.com/item?id=46989379) - [Kim Jong Un chooses teen daughter as heir](https://www.bbc.com/news/articles/cn0e1g7kwglo)
 * [2026-02-12, 14:24:15](https://news.ycombinator.com/item?id=46989217) - [Email is tough: Major European Payment Processor's Emails rejected by GWorkspace](https://atha.io/blog/2026-02-12-viva)

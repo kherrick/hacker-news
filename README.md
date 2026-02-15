@@ -25,7 +25,7 @@
 * [2026-02-13, 08:53:51](https://news.ycombinator.com/item?id=47000535) - [Zvec: A lightweight, fast, in-process vector database](https://github.com/alibaba/zvec)
 * [2026-02-13, 03:28:47](https://news.ycombinator.com/item?id=46998580) - [Interference Pattern Formed in a Finger Gap Is Not Single Slit Diffraction](https://note.com/hydraenids/n/nbe89030deaba)
 * [2026-02-12, 16:35:10](https://news.ycombinator.com/item?id=46990888) - [A practical guide to observing the night sky for real skies and real equipment](https://stargazingbuddy.com/)
-* [2026-02-11, 17:31:48](https://news.ycombinator.com/item?id=46977967) - [Show HN: MOL – A programming language where pipelines trace themselves](https://github.com/crux-ecosystem/mol-lang)
+* [2026-02-12, 15:17:25](https://news.ycombinator.com/item?id=46989859) - [Inspecting the Source of Go Modules](https://words.filippo.io/go-source/)
 * [2026-02-11, 17:31:43](https://news.ycombinator.com/item?id=46977966) - [A Visual Source for Shakespeare's 'Tempest'](https://profadamroberts.substack.com/p/a-visual-source-for-shakespeares)
 * [2026-02-11, 14:09:13](https://news.ycombinator.com/item?id=46975112) - [MDST Engine: run GGUF models in the browser with WebGPU/WASM](https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser)
 * [2026-02-11, 04:12:00](https://news.ycombinator.com/item?id=46970733) - [5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools](https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/)
