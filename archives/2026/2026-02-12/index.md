@@ -27,6 +27,7 @@
 * [2026-02-12, 19:01:54](https://news.ycombinator.com/item?id=46993397) - [How to Have a Bad Career – David Patterson (2016) [video]](https://www.youtube.com/watch?v=Rn1w4MRHIhc)
 * [2026-02-12, 19:01:37](https://news.ycombinator.com/item?id=46993393) - [HDRify: True HDR image viewer, and tool set in pure JavaScript](https://hdrify.benhouston3d.com/?image=%2Fexamples%2Fmoonless_golf_1k.hdr)
 * [2026-02-12, 18:58:56](https://news.ycombinator.com/item?id=46993345) - [Anthropic raises $30B in Series G funding at $380B post-money valuation](https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation)
+* [2026-02-12, 18:46:38](https://news.ycombinator.com/item?id=46993184) - [The Spy Who Found T. Rex](https://nautil.us/the-spy-who-found-t-rex-1267359/)
 * [2026-02-12, 18:35:39](https://news.ycombinator.com/item?id=46993014) - [Real-time PathTracing with global illumination in WebGL](https://erichlof.github.io/THREE.js-PathTracing-Renderer/)
 * [2026-02-12, 18:23:20](https://news.ycombinator.com/item?id=46992815) - [Polis: Open-source platform to find common ground at scale](https://pol.is/home2)
 * [2026-02-12, 18:06:09](https://news.ycombinator.com/item?id=46992553) - [GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
