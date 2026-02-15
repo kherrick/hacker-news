@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-15, 13:02:20](https://news.ycombinator.com/item?id=47023333) - [Show HN: Perlin Noise Terminal Animation in Rust (60 FPS, Truecolor)](https://github.com/denisepattenson/perlin-terminal)
+* [2026-02-15, 14:29:03](https://news.ycombinator.com/item?id=47023959) - [The Dark Side of the Enlightenment](https://www.newstatesman.com/culture/books/2026/02/the-dark-side-of-the-enlightenment)
+* [2026-02-15, 13:48:44](https://news.ycombinator.com/item?id=47023633) - [Kimi Claw](https://www.kimi.com/bot)
 * [2026-02-15, 12:42:17](https://news.ycombinator.com/item?id=47023238) - [Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State](https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly)
 * [2026-02-15, 11:37:29](https://news.ycombinator.com/item?id=47022943) - [Reversed engineered game Starflight (1986)](https://github.com/s-macke/starflight-reverse)
 * [2026-02-15, 11:25:26](https://news.ycombinator.com/item?id=47022891) - [I Fixed Windows Native Development](https://marler8997.github.io/blog/fixed-windows/)
@@ -16,9 +17,7 @@
 * [2026-02-14, 17:36:45](https://news.ycombinator.com/item?id=47016443) - [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/)
 * [2026-02-14, 16:50:47](https://news.ycombinator.com/item?id=47016008) - [Amsterdam Compiler Kit](https://github.com/davidgiven/ack)
 * [2026-02-14, 15:35:47](https://news.ycombinator.com/item?id=47015294) - [My smart sleep mask broadcasts users' brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/)
-* [2026-02-14, 13:40:20](https://news.ycombinator.com/item?id=47014449) - [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
 * [2026-02-14, 07:50:13](https://news.ycombinator.com/item?id=47012553) - [OpenAI should build Slack](https://www.latent.space/p/ainews-why-openai-should-build-slack)
-* [2026-02-13, 22:21:55](https://news.ycombinator.com/item?id=47008607) - [How often do full-body MRIs find cancer?](https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/)
 * [2026-02-13, 19:22:18](https://news.ycombinator.com/item?id=47006615) - [Breaking the spell of vibe coding](https://www.fast.ai/posts/2026-01-28-dark-flow/)
 * [2026-02-13, 16:42:04](https://news.ycombinator.com/item?id=47004689) - [Instagram's URL Blackhole](https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664)
 * [2026-02-13, 08:53:51](https://news.ycombinator.com/item?id=47000535) - [Zvec: A lightweight, fast, in-process vector database](https://github.com/alibaba/zvec)
@@ -29,6 +28,7 @@
 * [2026-02-11, 08:34:51](https://news.ycombinator.com/item?id=46972392) - [Show HN: Copy-and-patch compiler for hard real-time Python](https://github.com/Nonannet/copapy)
 * [2026-02-11, 04:12:00](https://news.ycombinator.com/item?id=46970733) - [5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools](https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/)
 * [2026-02-11, 00:08:01](https://news.ycombinator.com/item?id=46968964) - [RynnBrain](https://github.com/alibaba-damo-academy/RynnBrain)
+* [2026-02-10, 14:56:09](https://news.ycombinator.com/item?id=46960485) - [How Is Data Stored?](https://www.makingsoftware.com/chapters/how-is-data-stored)
 * [2026-02-10, 14:43:16](https://news.ycombinator.com/item?id=46960305) - [Constraint Propagation for Fun](https://eli.li/constraint-propagation-for-fun)
 
 ## [Archives](archives/index.md)

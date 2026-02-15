@@ -47,6 +47,7 @@
 * [2026-02-10, 15:08:36](https://news.ycombinator.com/item?id=46960675) - [I started programming when I was 7. I'm 50 now and the thing I loved has changed](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/)
 * [2026-02-10, 15:05:24](https://news.ycombinator.com/item?id=46960624) - [The US is flirting with its first-ever population decline](https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time)
 * [2026-02-10, 14:58:35](https://news.ycombinator.com/item?id=46960517) - [Vercel's CEO offers to cover expenses of 'Jmail'](https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh)
+* [2026-02-10, 14:56:09](https://news.ycombinator.com/item?id=46960485) - [How Is Data Stored?](https://www.makingsoftware.com/chapters/how-is-data-stored)
 * [2026-02-10, 14:49:29](https://news.ycombinator.com/item?id=46960392) - [Parse, Don't Validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2026-02-10, 14:43:16](https://news.ycombinator.com/item?id=46960305) - [Constraint Propagation for Fun](https://eli.li/constraint-propagation-for-fun)
 * [2026-02-10, 14:27:16](https://news.ycombinator.com/item?id=46960118) - [Redefining Go Functions](https://pboyd.io/posts/redefining-go-functions/)
