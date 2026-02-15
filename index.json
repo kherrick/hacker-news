@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-02-15, 08:40:12",
+      "https://news.ycombinator.com/item?id=47022067"
+    ],
+    [
+      "Seeing Theory",
+      "https://seeing-theory.brown.edu/"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 08:17:05",
+      "https://news.ycombinator.com/item?id=47021980"
+    ],
+    [
+      "Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library",
+      "https://oat.ink/"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 06:48:13",
       "https://news.ycombinator.com/item?id=47021586"
     ],
     [
       "Ex-Tech –> Homeless in SF",
       "https://zamoshi.substack.com/p/ninety-four-degrees"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 06:00:42",
+      "https://news.ycombinator.com/item?id=47021421"
+    ],
+    [
+      "Discord Distances Itself from Peter Thiel's Palantir Age Verification Firm",
+      "https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951"
     ]
   ],
   [
@@ -51,26 +81,6 @@
   ],
   [
     [
-      "2026-02-14, 22:39:24",
-      "https://news.ycombinator.com/item?id=47019133"
-    ],
-    [
-      "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
-      "https://github.com/alichherawalla/off-grid-mobile"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 21:08:08",
-      "https://news.ycombinator.com/item?id=47018405"
-    ],
-    [
-      "Colored Petri Nets, LLMs, and distributed applications",
-      "https://blog.sao.dev/cpns-llms-distributed-apps/"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 19:33:24",
       "https://news.ycombinator.com/item?id=47017545"
     ],
@@ -87,16 +97,6 @@
     [
       "News publishers limit Internet Archive access due to AI scraping concerns",
       "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 17:45:09",
-      "https://news.ycombinator.com/item?id=47016530"
-    ],
-    [
-      "A header-only C vector database library",
-      "https://github.com/abdimoallim/vdb"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-02-11, 17:31:43",
+      "https://news.ycombinator.com/item?id=46977966"
+    ],
+    [
+      "A Visual Source for Shakespeare's 'Tempest'",
+      "https://profadamroberts.substack.com/p/a-visual-source-for-shakespeares"
+    ]
+  ],
+  [
+    [
       "2026-02-11, 14:09:13",
       "https://news.ycombinator.com/item?id=46975112"
     ],
@@ -287,16 +297,6 @@
     [
       "Windows NT/OS2 Design Workbook",
       "https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 16:22:51",
-      "https://news.ycombinator.com/item?id=46962127"
-    ],
-    [
-      "Frost Bros, Rope Makers and Yarn Spinners",
-      "https://spitalfieldslife.com/2026/02/09/frost-bros-rope-makers-yarn-spinners-x/"
     ]
   ]
 ]
