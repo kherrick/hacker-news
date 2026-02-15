@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-14, 22:39:24",
+      "https://news.ycombinator.com/item?id=47019133"
+    ],
+    [
+      "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
+      "https://github.com/alichherawalla/off-grid-mobile"
+    ]
+  ],
+  [
+    [
       "2026-02-14, 21:08:08",
       "https://news.ycombinator.com/item?id=47018405"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2026-02-14, 13:33:03",
+      "https://news.ycombinator.com/item?id=47014405"
+    ],
+    [
+      "How many registers does an x86-64 CPU have? (2020)",
+      "https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have"
+    ]
+  ],
+  [
+    [
       "2026-02-14, 13:08:35",
       "https://news.ycombinator.com/item?id=47014260"
     ],
@@ -127,16 +147,6 @@
     [
       "YouTube as Storage",
       "https://github.com/PulseBeat02/yt-media-storage"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 08:22:11",
-      "https://news.ycombinator.com/item?id=47012717"
-    ],
-    [
-      "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
-      "https://ziglang.org/devlog/2026/#2026-02-13"
     ]
   ],
   [
@@ -171,32 +181,22 @@
   ],
   [
     [
+      "2026-02-13, 23:21:58",
+      "https://news.ycombinator.com/item?id=47009195"
+    ],
+    [
+      "Show HN: Open Notes – Community Notes-style context for Discord",
+      "https://opennotes.ai/discord-bot"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 22:40:28",
       "https://news.ycombinator.com/item?id=47008821"
     ],
     [
       "Launching Interop 2026",
       "https://hacks.mozilla.org/2026/02/launching-interop-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 22:21:55",
-      "https://news.ycombinator.com/item?id=47008607"
-    ],
-    [
-      "How often do full-body MRIs find cancer?",
-      "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 19:22:18",
-      "https://news.ycombinator.com/item?id=47006615"
-    ],
-    [
-      "Breaking the spell of vibe coding",
-      "https://www.fast.ai/posts/2026-01-28-dark-flow/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-02-10, 19:27:33",
-      "https://news.ycombinator.com/item?id=46965462"
+      "2026-02-10, 16:14:56",
+      "https://news.ycombinator.com/item?id=46961931"
     ],
     [
-      "Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations",
-      "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/"
+      "Can my SPARC server host a website?",
+      "https://rup12.net/posts/can-my-sparc-server-host-my-website/"
     ]
   ],
   [
