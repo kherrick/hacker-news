@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-16](index.md)
 
+* [2026-02-16, 22:53:02](https://news.ycombinator.com/item?id=47041456) - [Running NanoClaw in a Docker Shell Sandbox](https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/)
+* [2026-02-16, 21:48:00](https://news.ycombinator.com/item?id=47040781) - [10 years building vertical software: are we cooked?](https://twitter.com/nicbstme/status/2023501562480644501)
 * [2026-02-16, 21:15:56](https://news.ycombinator.com/item?id=47040430) - [Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670)
 * [2026-02-16, 21:12:07](https://news.ycombinator.com/item?id=47040390) - [Show HN: Wildex – we built Pokémon Go for real wildlife](https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158)
 * [2026-02-16, 21:10:44](https://news.ycombinator.com/item?id=47040375) - [Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue](https://github.com/zachlatta/freeflow)
@@ -29,6 +31,7 @@
 * [2026-02-16, 18:01:38](https://news.ycombinator.com/item?id=47038076) - [Castlevania and Bloodstained developer Shutaro Ida dies aged 52](https://www.dexerto.com/gaming/castlevania-and-bloodstained-developer-shutaro-ida-dies-aged-52-3319349/)
 * [2026-02-16, 17:25:19](https://news.ycombinator.com/item?id=47037666) - [Palantir CEO wants to spray \"fentanyl-laced urine\" on analysts](https://twitter.com/jawwwn_/status/2023207418922959234)
 * [2026-02-16, 17:22:02](https://news.ycombinator.com/item?id=47037628) - [I guess I kinda get why people hate AI](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
+* [2026-02-16, 17:15:27](https://news.ycombinator.com/item?id=47037568) - [Building a model that visualizes strategic golf](https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half)
 * [2026-02-16, 17:08:20](https://news.ycombinator.com/item?id=47037501) - [WebMCP Proposal](https://webmachinelearning.github.io/webmcp/)
 * [2026-02-16, 16:55:02](https://news.ycombinator.com/item?id=47037313) - [How to take a photo with scotch tape (lensless imaging) [video]](https://www.youtube.com/watch?v=97f0nfU5Px0)
 * [2026-02-16, 16:22:24](https://news.ycombinator.com/item?id=47036921) - [History of AT&T Long Lines](https://telephoneworld.org/long-distance-companies/att-long-distance-network/history-of-att-long-lines/)
