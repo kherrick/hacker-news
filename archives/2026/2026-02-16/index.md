@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-16](index.md)
 
+* [2026-02-16, 17:25:19](https://news.ycombinator.com/item?id=47037666) - [Palantir CEO wants to spray \"fentanyl-laced urine\" on analysts](https://twitter.com/jawwwn_/status/2023207418922959234)
+* [2026-02-16, 17:08:20](https://news.ycombinator.com/item?id=47037501) - [WebMCP Proposal](https://webmachinelearning.github.io/webmcp/)
+* [2026-02-16, 16:55:02](https://news.ycombinator.com/item?id=47037313) - [How to take a photo with scotch tape (lensless imaging) [video]](https://www.youtube.com/watch?v=97f0nfU5Px0)
 * [2026-02-16, 16:19:16](https://news.ycombinator.com/item?id=47036891) - [Show HN: Simple org-mode web adapter](https://github.com/SpaceTurth/Org-Web-Adapter)
 * [2026-02-16, 15:19:01](https://news.ycombinator.com/item?id=47036116) - [Intermittent fasting may make little difference to weight loss, review finds](https://www.bbc.co.uk/news/articles/c4ge7n3pq62o)
 * [2026-02-16, 14:50:48](https://news.ycombinator.com/item?id=47035718) - [iOS 27 'Rave' Update to Clean Up Code, Could Boost Battery Life](https://www.macrumors.com/2026/02/16/apple-plans-snow-leopard-cleanup-ios-27/)
