@@ -57,6 +57,7 @@
 * [2026-02-12, 14:16:10](https://news.ycombinator.com/item?id=46989107) - [Apple patches decade-old iOS zero-day, possibly exploited by commercial spyware](https://www.theregister.com/2026/02/12/apple_ios_263/)
 * [2026-02-12, 14:00:46](https://news.ycombinator.com/item?id=46988928) - [I Regret to Inform You That the FDA Is FDAing Again](https://marginalrevolution.com/marginalrevolution/2026/02/i-regret-to-inform-you-that-the-fda-is-still-fdaing.html)
 * [2026-02-12, 13:30:20](https://news.ycombinator.com/item?id=46988596) - [Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed](http://blog.can.ac/2026/02/12/the-harness-problem/)
+* [2026-02-12, 13:23:22](https://news.ycombinator.com/item?id=46988538) - [Rolling your own serverless OCR in 40 lines of code](https://christopherkrapu.com/blog/2026/ocr-textbooks-modal-deepseek/)
 * [2026-02-12, 13:16:11](https://news.ycombinator.com/item?id=46988462) - [Run Pebble OS in Browser via WASM](https://ericmigi.github.io/pebble-qemu-wasm/)
 * [2026-02-12, 13:13:30](https://news.ycombinator.com/item?id=46988438) - [Apache Arrow is 10 years old](https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/)
 * [2026-02-12, 12:27:23](https://news.ycombinator.com/item?id=46987963) - [America's Cyber Defense Agency Is Burning Down and Nobody's Coming to Put It Out](https://www.threathunter.ai/blog/americas-cyber-defense-agency-burning-down/)
