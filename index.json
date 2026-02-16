@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-16, 06:31:48",
+      "https://news.ycombinator.com/item?id=47031580"
+    ],
+    [
+      "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+      "https://mastodon.world/@knowmadd/116072773118828295"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 05:38:51",
+      "https://news.ycombinator.com/item?id=47031268"
+    ],
+    [
+      "Building SQLite with a small swarm",
+      "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 02:36:14",
       "https://news.ycombinator.com/item?id=47030271"
     ],
@@ -17,16 +37,6 @@
     [
       "JavaScript-heavy approaches are not compatible with long-term performance goals",
       "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 23:34:18",
-      "https://news.ycombinator.com/item?id=47028923"
-    ],
-    [
-      "Why I don't think AGI is imminent",
-      "https://dlants.me/agi-not-imminent.html"
     ]
   ],
   [
@@ -71,32 +81,12 @@
   ],
   [
     [
-      "2026-02-15, 19:40:57",
-      "https://news.ycombinator.com/item?id=47026768"
-    ],
-    [
-      "Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI",
-      "https://github.com/gpasquero/voog"
-    ]
-  ],
-  [
-    [
       "2026-02-15, 18:40:35",
       "https://news.ycombinator.com/item?id=47026186"
     ],
     [
       "Show HN: Microgpt is a GPT you can visualize in the browser",
       "https://microgpt.boratto.ca"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 18:35:40",
-      "https://news.ycombinator.com/item?id=47026134"
-    ],
-    [
-      "Towards Autonomous Mathematics Research",
-      "https://arxiv.org/abs/2602.10177"
     ]
   ],
   [
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2026-02-15, 16:19:51",
-      "https://news.ycombinator.com/item?id=47024907"
-    ],
-    [
-      "Hideki Sato, designer of all Sega's consoles, has died",
-      "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/"
-    ]
-  ],
-  [
-    [
       "2026-02-15, 15:37:06",
       "https://news.ycombinator.com/item?id=47024506"
     ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2026-02-13, 07:44:50",
+      "https://news.ycombinator.com/item?id=47000034"
+    ],
+    [
+      "Expensively Quadratic: The LLM Agent Cost Curve",
+      "https://blog.exe.dev/expensively-quadratic"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 05:39:45",
       "https://news.ycombinator.com/item?id=46999285"
     ],
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2026-02-11, 23:07:10",
-      "https://news.ycombinator.com/item?id=46982509"
+      "2026-02-12, 04:01:48",
+      "https://news.ycombinator.com/item?id=46984768"
     ],
     [
-      "Language a Wood for Thought: Susan Howe's Work",
-      "https://www.poetryfoundation.org/articles/1769037/language-a-wood-for-thought"
+      "1,300-year-old world chronicle unearthed in Sinai",
+      "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2026-02-11, 06:20:08",
-      "https://news.ycombinator.com/item?id=46971547"
+      "2026-02-11, 15:03:08",
+      "https://news.ycombinator.com/item?id=46975822"
     ],
     [
-      "Benchmarking Automatic Typesetting Systems",
-      "https://news.speedata.de/2026/02/10/typesetting-benchmark/"
+      "Lost Soviet Moon Lander May Have Been Found",
+      "https://www.nytimes.com/2026/02/10/science/luna-9-moon-lander-soviet.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-11, 13:35:09",
+      "https://news.ycombinator.com/item?id=46974763"
+    ],
+    [
+      "Why does aluminum foil have one shiny side and one with a matte finish?",
+      "https://bookofjoe2.blogspot.com/2025/10/why-does-aluminum-foil-have-one-shiny.html"
     ]
   ]
 ]
