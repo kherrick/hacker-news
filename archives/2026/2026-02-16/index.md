@@ -4,14 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-02-16](index.md)
 
+* [2026-02-16, 19:55:23](https://news.ycombinator.com/item?id=47039478) - [State of Show HN: 2025](https://blog.sturdystatistics.com/posts/show_hn/)
+* [2026-02-16, 19:52:30](https://news.ycombinator.com/item?id=47039440) - [Fff.nvim – Typo-resistant code search](https://github.com/dmtrKovalenko/fff.nvim)
 * [2026-02-16, 19:20:37](https://news.ycombinator.com/item?id=47039073) - [Docker Swarm vs. Kubernetes in 2026](https://thedecipherist.com/articles/docker_swarm_vs_kubernetes/)
 * [2026-02-16, 19:17:46](https://news.ycombinator.com/item?id=47039044) - [Show HN: 2D Coulomb Gas Simulator](https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html)
 * [2026-02-16, 19:09:58](https://news.ycombinator.com/item?id=47038965) - [Wero – Digital payment wallet, Made in Europe](https://wero-wallet.eu)
+* [2026-02-16, 18:54:37](https://news.ycombinator.com/item?id=47038731) - [Neurons outside the brain](https://essays.debugyourpain.com/p/you-are-not-just-your-brain)
 * [2026-02-16, 18:54:27](https://news.ycombinator.com/item?id=47038729) - [How Not to Answer the Salary Question](https://adatosystems.com/2026/02/16/blog-how-not-to-answer-the-salary-question/)
 * [2026-02-16, 18:52:50](https://news.ycombinator.com/item?id=47038706) - [Robert Duvall Dead at 95](https://www.newsweek.com/entertainment/hollywood-legend-robert-duvall-dead-at-95-11531295)
 * [2026-02-16, 18:44:58](https://news.ycombinator.com/item?id=47038588) - [Use Protocols, Not Services](https://notnotp.com/notes/use-protocols-not-services/)
 * [2026-02-16, 18:41:50](https://news.ycombinator.com/item?id=47038546) - [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)
 * [2026-02-16, 18:23:36](https://news.ycombinator.com/item?id=47038318) - [\"token anxiety\"; or, a slot machine by any other name](https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/)
+* [2026-02-16, 18:19:16](https://news.ycombinator.com/item?id=47038270) - [The Long Tail of LLM-Assisted Decompilation](https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/)
 * [2026-02-16, 18:05:32](https://news.ycombinator.com/item?id=47038125) - [Privilege Is Bad Grammar](https://tadaima.bearblog.dev/privilege-is-bad-grammar/)
 * [2026-02-16, 18:01:38](https://news.ycombinator.com/item?id=47038076) - [Castlevania and Bloodstained developer Shutaro Ida dies aged 52](https://www.dexerto.com/gaming/castlevania-and-bloodstained-developer-shutaro-ida-dies-aged-52-3319349/)
 * [2026-02-16, 17:25:19](https://news.ycombinator.com/item?id=47037666) - [Palantir CEO wants to spray \"fentanyl-laced urine\" on analysts](https://twitter.com/jawwwn_/status/2023207418922959234)
