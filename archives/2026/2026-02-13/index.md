@@ -39,6 +39,7 @@
 * [2026-02-13, 16:10:07](https://news.ycombinator.com/item?id=47004312) - [IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes](https://github.com/nearai/ironclaw)
 * [2026-02-13, 16:00:29](https://news.ycombinator.com/item?id=47004203) - [I ditched OpenClaw and built a more secure AI agent (Blink and Mac Mini)](https://coder.com/blog/why-i-ditched-openclaw-and-built-a-more-secure-ai-agent-on-blink-mac-mini)
 * [2026-02-13, 15:36:55](https://news.ycombinator.com/item?id=47003889) - [What Drives Stock Market Returns?](https://outlookzen.com/2018/10/27/where-do-stock-market-returns-come-from/)
+* [2026-02-13, 14:44:44](https://news.ycombinator.com/item?id=47003294) - [Designing a 36-key custom keyboard layout (2021)](https://peterxjang.medium.com/designing-a-36-key-custom-keyboard-layout-24498a0eecd4)
 * [2026-02-13, 14:36:28](https://news.ycombinator.com/item?id=47003219) - [Open Source Is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
 * [2026-02-13, 14:36:07](https://news.ycombinator.com/item?id=47003214) - [Apocalypse no: how almost everything we thought we knew about the Maya is wrong](https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong)
 * [2026-02-13, 14:21:01](https://news.ycombinator.com/item?id=47003064) - [Apple, fix my keyboard before the timer ends or I'm leaving iPhone](https://ios-countdown.win/)
