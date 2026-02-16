@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-02-16, 19:55:23",
+      "https://news.ycombinator.com/item?id=47039478"
+    ],
+    [
+      "State of Show HN: 2025",
+      "https://blog.sturdystatistics.com/posts/show_hn/"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 19:52:30",
+      "https://news.ycombinator.com/item?id=47039440"
+    ],
+    [
+      "Fff.nvim – Typo-resistant code search",
+      "https://github.com/dmtrKovalenko/fff.nvim"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 19:17:46",
+      "https://news.ycombinator.com/item?id=47039044"
+    ],
+    [
+      "Show HN: 2D Coulomb Gas Simulator",
+      "https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 19:09:58",
       "https://news.ycombinator.com/item?id=47038965"
     ],
     [
-      "Wero – Digital payment wallet, Made in Europe",
+      "Wero – Digital payment wallet, made in Europe",
       "https://wero-wallet.eu"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 18:54:37",
+      "https://news.ycombinator.com/item?id=47038731"
+    ],
+    [
+      "Neurons outside the brain",
+      "https://essays.debugyourpain.com/p/you-are-not-just-your-brain"
     ]
   ],
   [
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47038588"
     ],
     [
-      "Use Protocols, Not Services",
+      "Use protocols, not services",
       "https://notnotp.com/notes/use-protocols-not-services/"
     ]
   ],
@@ -55,18 +95,18 @@
       "https://news.ycombinator.com/item?id=47038318"
     ],
     [
-      "\"token anxiety\"; or, a slot machine by any other name",
+      "\"Token anxiety\", a slot machine by any other name",
       "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/"
     ]
   ],
   [
     [
-      "2026-02-16, 18:01:38",
-      "https://news.ycombinator.com/item?id=47038076"
+      "2026-02-16, 18:19:16",
+      "https://news.ycombinator.com/item?id=47038270"
     ],
     [
-      "Castlevania and Bloodstained developer Shutaro Ida dies aged 52",
-      "https://www.dexerto.com/gaming/castlevania-and-bloodstained-developer-shutaro-ida-dies-aged-52-3319349/"
+      "The Long Tail of LLM-Assisted Decompilation",
+      "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/"
     ]
   ],
   [
@@ -181,26 +221,6 @@
   ],
   [
     [
-      "2026-02-16, 11:06:28",
-      "https://news.ycombinator.com/item?id=47033622"
-    ],
-    [
-      "Anthropic tries to hide Claude's AI actions. Devs hate it",
-      "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 10:26:22",
-      "https://news.ycombinator.com/item?id=47033328"
-    ],
-    [
-      "MessageFormat: Unicode standard for localizable message strings",
-      "https://github.com/unicode-org/message-format-wg"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 09:32:21",
       "https://news.ycombinator.com/item?id=47032876"
     ],
@@ -227,16 +247,6 @@
     [
       "Show HN: Jemini – Gemini for the Epstein Files",
       "https://jmail.world/jemini"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 23:07:41",
-      "https://news.ycombinator.com/item?id=47019329"
-    ],
-    [
-      "Show HN: Nerve: Stitches all your data sources into one mega-API",
-      "https://playground.get-nerve.com/"
     ]
   ],
   [
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2026-02-13, 02:33:52",
-      "https://news.ycombinator.com/item?id=46998266"
+      "2026-02-13, 12:59:33",
+      "https://news.ycombinator.com/item?id=47002231"
     ],
     [
-      "Richard Carrington's first portrait has been found",
-      "https://www.cnn.com/2026/02/12/science/solar-storm-richard-carrington-photo"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 00:35:23",
-      "https://news.ycombinator.com/item?id=46997356"
-    ],
-    [
-      "Vim-pencil: Rethinking Vim as a tool for writing",
-      "https://github.com/preservim/vim-pencil"
+      "Visual Introduction to PyTorch",
+      "https://0byte.io/articles/pytorch_introduction.html"
     ]
   ],
   [
