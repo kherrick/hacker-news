@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-16, 13:39:45",
+      "https://news.ycombinator.com/item?id=47034801"
+    ],
+    [
+      "Running My Own XMPP Server",
+      "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 13:30:07",
+      "https://news.ycombinator.com/item?id=47034713"
+    ],
+    [
+      "Ministry of Justice orders deletion of the UK's largest court reporting database",
+      "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 12:28:31",
       "https://news.ycombinator.com/item?id=47034192"
     ],
@@ -161,32 +181,22 @@
   ],
   [
     [
-      "2026-02-15, 17:06:25",
-      "https://news.ycombinator.com/item?id=47025338"
-    ],
-    [
-      "Show HN: Knock-Knock.net – Visualizing the bots knocking on my server's door",
-      "https://knock-knock.net"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 16:40:13",
-      "https://news.ycombinator.com/item?id=47025085"
-    ],
-    [
-      "Pocketblue – Fedora Atomic for mobile devices",
-      "https://github.com/pocketblue/pocketblue"
-    ]
-  ],
-  [
-    [
       "2026-02-15, 15:37:06",
       "https://news.ycombinator.com/item?id=47024506"
     ],
     [
       "Gwtar: A static efficient single-file HTML format",
       "https://gwern.net/gwtar"
+    ]
+  ],
+  [
+    [
+      "2026-02-14, 04:24:18",
+      "https://news.ycombinator.com/item?id=47011548"
+    ],
+    [
+      "Ghidra by NSA",
+      "https://github.com/NationalSecurityAgency/ghidra"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Vim-pencil: Rethinking Vim as a tool for writing",
       "https://github.com/preservim/vim-pencil"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 20:19:54",
-      "https://news.ycombinator.com/item?id=46994542"
-    ],
-    [
-      "Show HN: I generated a \"stress test\" of 200 rare defects from 7 real photos",
-      "https://news.ycombinator.com/item?id=46994542"
     ]
   ],
   [
