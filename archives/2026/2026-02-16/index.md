@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-02-16](index.md)
 
+* [2026-02-16, 19:20:37](https://news.ycombinator.com/item?id=47039073) - [Docker Swarm vs. Kubernetes in 2026](https://thedecipherist.com/articles/docker_swarm_vs_kubernetes/)
+* [2026-02-16, 19:17:46](https://news.ycombinator.com/item?id=47039044) - [Show HN: 2D Coulomb Gas Simulator](https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html)
+* [2026-02-16, 19:09:58](https://news.ycombinator.com/item?id=47038965) - [Wero – Digital payment wallet, Made in Europe](https://wero-wallet.eu)
 * [2026-02-16, 18:52:50](https://news.ycombinator.com/item?id=47038706) - [Robert Duvall Dead at 95](https://www.newsweek.com/entertainment/hollywood-legend-robert-duvall-dead-at-95-11531295)
 * [2026-02-16, 18:44:58](https://news.ycombinator.com/item?id=47038588) - [Use Protocols, Not Services](https://notnotp.com/notes/use-protocols-not-services/)
+* [2026-02-16, 18:23:36](https://news.ycombinator.com/item?id=47038318) - [\"token anxiety\"; or, a slot machine by any other name](https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/)
 * [2026-02-16, 18:05:32](https://news.ycombinator.com/item?id=47038125) - [Privilege Is Bad Grammar](https://tadaima.bearblog.dev/privilege-is-bad-grammar/)
 * [2026-02-16, 18:01:38](https://news.ycombinator.com/item?id=47038076) - [Castlevania and Bloodstained developer Shutaro Ida dies aged 52](https://www.dexerto.com/gaming/castlevania-and-bloodstained-developer-shutaro-ida-dies-aged-52-3319349/)
 * [2026-02-16, 17:25:19](https://news.ycombinator.com/item?id=47037666) - [Palantir CEO wants to spray \"fentanyl-laced urine\" on analysts](https://twitter.com/jawwwn_/status/2023207418922959234)
@@ -31,6 +35,7 @@
 * [2026-02-16, 09:32:21](https://news.ycombinator.com/item?id=47032876) - [Qwen3.5: Towards Native Multimodal Agents](https://qwen.ai/blog?id=qwen3.5)
 * [2026-02-16, 08:04:11](https://news.ycombinator.com/item?id=47032235) - [picol: A Tcl interpreter in 500 lines of code](https://github.com/antirez/picol)
 * [2026-02-16, 06:31:48](https://news.ycombinator.com/item?id=47031580) - [I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://mastodon.world/@knowmadd/116072773118828295)
+* [2026-02-16, 05:53:03](https://news.ycombinator.com/item?id=47031334) - [Show HN: Jemini – Gemini for the Epstein Files](https://jmail.world/jemini)
 * [2026-02-16, 05:38:51](https://news.ycombinator.com/item?id=47031268) - [Building SQLite with a small swarm](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html)
 * [2026-02-16, 02:36:14](https://news.ycombinator.com/item?id=47030271) - [Arm wants a bigger slice of the chip business](https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business)
 * [2026-02-16, 00:35:12](https://news.ycombinator.com/item?id=47029397) - [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)

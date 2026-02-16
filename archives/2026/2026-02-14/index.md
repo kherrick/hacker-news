@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-14](index.md)
 
+* [2026-02-14, 23:07:41](https://news.ycombinator.com/item?id=47019329) - [Show HN: Nerve: Stitches all your data sources into one mega-API](https://playground.get-nerve.com/)
 * [2026-02-14, 22:39:24](https://news.ycombinator.com/item?id=47019133) - [Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://github.com/alichherawalla/off-grid-mobile)
 * [2026-02-14, 22:35:07](https://news.ycombinator.com/item?id=47019102) - [How long do job postings stay open?](https://corvi.careers/blog/job_open_days_by_category_feb_2026/)
 * [2026-02-14, 21:08:08](https://news.ycombinator.com/item?id=47018405) - [Colored Petri Nets, LLMs, and distributed applications](https://blog.sao.dev/cpns-llms-distributed-apps/)
@@ -31,6 +32,7 @@
 * [2026-02-14, 14:58:29](https://news.ycombinator.com/item?id=47014995) - [7zip.com Is Serving Malware](https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes)
 * [2026-02-14, 14:15:33](https://news.ycombinator.com/item?id=47014704) - [Golf game built last night with Claude Code, Svelte and ThreeJS](https://www.the-golf-is-golfing.com)
 * [2026-02-14, 13:47:44](https://news.ycombinator.com/item?id=47014500) - [Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB](https://github.com/datavorous/sameshi)
+* [2026-02-14, 13:42:04](https://news.ycombinator.com/item?id=47014460) - [PCB Rework and Repair Guide [pdf]](https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf)
 * [2026-02-14, 13:40:20](https://news.ycombinator.com/item?id=47014449) - [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
 * [2026-02-14, 13:33:03](https://news.ycombinator.com/item?id=47014405) - [How many registers does an x86-64 CPU have? (2020)](https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have)
 * [2026-02-14, 13:08:35](https://news.ycombinator.com/item?id=47014260) - [Unicorn Jelly](https://unicornjelly.com/)
