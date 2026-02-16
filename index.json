@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-16, 00:35:12",
+      "https://news.ycombinator.com/item?id=47029397"
+    ],
+    [
+      "Pink noise reduces REM sleep and may harm sleep quality",
+      "https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 00:26:23",
+      "https://news.ycombinator.com/item?id=47029339"
+    ],
+    [
+      "JavaScript-heavy approaches are not compatible with long-term performance goals",
+      "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 23:08:43",
       "https://news.ycombinator.com/item?id=47028705"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2026-02-15, 16:55:24",
-      "https://news.ycombinator.com/item?id=47025220"
-    ],
-    [
-      "Show HN: DSCI – Dead Simple CI",
-      "https://github.com/melezhik/DSCI"
-    ]
-  ],
-  [
-    [
       "2026-02-15, 16:40:13",
       "https://news.ycombinator.com/item?id=47025085"
     ],
     [
       "Pocketblue – Fedora Atomic for mobile devices",
       "https://github.com/pocketblue/pocketblue"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 16:19:51",
-      "https://news.ycombinator.com/item?id=47024907"
-    ],
-    [
-      "Hideki Sato, designer of all Sega's consoles, has died",
-      "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/"
     ]
   ],
   [
@@ -231,21 +231,11 @@
   ],
   [
     [
-      "2026-02-15, 08:17:05",
-      "https://news.ycombinator.com/item?id=47021980"
-    ],
-    [
-      "Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library",
-      "https://oat.ink/"
-    ]
-  ],
-  [
-    [
       "2026-02-13, 16:15:58",
       "https://news.ycombinator.com/item?id=47004384"
     ],
     [
-      "I Gave Claude Access to My Pen Plotter",
+      "I gave Claude access to my pen plotter",
       "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter"
     ]
   ],
@@ -271,12 +261,32 @@
   ],
   [
     [
-      "2026-02-12, 03:00:58",
-      "https://news.ycombinator.com/item?id=46984394"
+      "2026-02-11, 23:07:10",
+      "https://news.ycombinator.com/item?id=46982509"
     ],
     [
-      "Sony Jumbotron Image Control System (1998) [pdf]",
-      "https://pro.sony/s3/cms-static-content/operation-manual/3864848111.pdf"
+      "Language a Wood for Thought: Susan Howe's Work",
+      "https://www.poetryfoundation.org/articles/1769037/language-a-wood-for-thought"
+    ]
+  ],
+  [
+    [
+      "2026-02-11, 21:03:58",
+      "https://news.ycombinator.com/item?id=46980930"
+    ],
+    [
+      "Transforming a Clojure Database into a Library with GraalVM Native Image and FFI",
+      "https://avelino.run/chrondb-polyglot-ffi-clojure-graalvm-native-image/"
+    ]
+  ],
+  [
+    [
+      "2026-02-11, 17:13:17",
+      "https://news.ycombinator.com/item?id=46977678"
+    ],
+    [
+      "I Love Board Games: A Personal Obsession Explained by Psychology",
+      "https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology"
     ]
   ],
   [
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=46969642"
     ],
     [
-      "I'm Always in the Club",
+      "True Nature: The Lives of Peter Matthiessen",
       "https://www.lrb.co.uk/the-paper/v48/n02/christian-lorentzen/i-m-always-in-the-club"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 17:44:13",
-      "https://news.ycombinator.com/item?id=46963736"
-    ],
-    [
-      "Show HN: Deadlog – almost drop-in mutex for debugging Go deadlocks",
-      "https://github.com/stevenctl/deadlog"
     ]
   ]
 ]
