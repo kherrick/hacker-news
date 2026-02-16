@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-16](index.md)
 
+* [2026-02-16, 14:50:48](https://news.ycombinator.com/item?id=47035718) - [iOS 27 'Rave' Update to Clean Up Code, Could Boost Battery Life](https://www.macrumors.com/2026/02/16/apple-plans-snow-leopard-cleanup-ios-27/)
+* [2026-02-16, 14:39:32](https://news.ycombinator.com/item?id=47035560) - [What Your Bluetooth Devices Reveal About You](https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/)
 * [2026-02-16, 13:39:45](https://news.ycombinator.com/item?id=47034801) - [Running My Own XMPP Server](https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/)
 * [2026-02-16, 13:30:07](https://news.ycombinator.com/item?id=47034713) - [Ministry of Justice orders deletion of the UK's largest court reporting database](https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/)
 * [2026-02-16, 12:28:31](https://news.ycombinator.com/item?id=47034192) - [Thanks a lot, AI: Hard drives are sold out for the year, says WD](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
