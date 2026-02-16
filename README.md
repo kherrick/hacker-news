@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-16, 02:36:14](https://news.ycombinator.com/item?id=47030271) - [Arm wants a bigger slice of the chip business](https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business)
-* [2026-02-16, 00:35:12](https://news.ycombinator.com/item?id=47029397) - [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)
 * [2026-02-16, 00:26:23](https://news.ycombinator.com/item?id=47029339) - [JavaScript-heavy approaches are not compatible with long-term performance goals](https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/)
 * [2026-02-15, 23:34:18](https://news.ycombinator.com/item?id=47028923) - [Why I don't think AGI is imminent](https://dlants.me/agi-not-imminent.html)
 * [2026-02-15, 23:08:43](https://news.ycombinator.com/item?id=47028705) - [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
-* [2026-02-15, 22:47:26](https://news.ycombinator.com/item?id=47028545) - [Continuous batching from first principles (2025)](https://huggingface.co/blog/continuous_batching)
 * [2026-02-15, 22:17:10](https://news.ycombinator.com/item?id=47028227) - [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
 * [2026-02-15, 21:54:15](https://news.ycombinator.com/item?id=47028013) - [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
 * [2026-02-15, 20:53:26](https://news.ycombinator.com/item?id=47027427) - [GNU Pies – Program Invocation and Execution Supervisor](https://www.gnu.org.ua/software/pies/)
@@ -19,6 +17,7 @@
 * [2026-02-15, 17:10:18](https://news.ycombinator.com/item?id=47025378) - [EU bans the destruction of unsold apparel, clothing, accessories and footwear](https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en)
 * [2026-02-15, 17:06:25](https://news.ycombinator.com/item?id=47025338) - [Show HN: Knock-Knock.net – Visualizing the bots knocking on my server's door](https://knock-knock.net)
 * [2026-02-15, 16:40:13](https://news.ycombinator.com/item?id=47025085) - [Pocketblue – Fedora Atomic for mobile devices](https://github.com/pocketblue/pocketblue)
+* [2026-02-15, 16:19:51](https://news.ycombinator.com/item?id=47024907) - [Hideki Sato, designer of all Sega's consoles, has died](https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/)
 * [2026-02-15, 15:37:06](https://news.ycombinator.com/item?id=47024506) - [Gwtar: A static efficient single-file HTML format](https://gwern.net/gwtar)
 * [2026-02-15, 12:42:17](https://news.ycombinator.com/item?id=47023238) - [Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state](https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly)
 * [2026-02-15, 11:25:26](https://news.ycombinator.com/item?id=47022891) - [I fixed Windows native development](https://marler8997.github.io/blog/fixed-windows/)
@@ -29,6 +28,7 @@
 * [2026-02-11, 23:07:10](https://news.ycombinator.com/item?id=46982509) - [Language a Wood for Thought: Susan Howe's Work](https://www.poetryfoundation.org/articles/1769037/language-a-wood-for-thought)
 * [2026-02-11, 21:03:58](https://news.ycombinator.com/item?id=46980930) - [Transforming a Clojure Database into a Library with GraalVM Native Image and FFI](https://avelino.run/chrondb-polyglot-ffi-clojure-graalvm-native-image/)
 * [2026-02-11, 17:13:17](https://news.ycombinator.com/item?id=46977678) - [I Love Board Games: A Personal Obsession Explained by Psychology](https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology)
+* [2026-02-11, 15:36:10](https://news.ycombinator.com/item?id=46976256) - [Databases should contain their own Metadata – Use SQL Everywhere](https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe)
 * [2026-02-11, 06:20:08](https://news.ycombinator.com/item?id=46971547) - [Benchmarking Automatic Typesetting Systems](https://news.speedata.de/2026/02/10/typesetting-benchmark/)
 
 ## [Archives](archives/index.md)

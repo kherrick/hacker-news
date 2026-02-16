@@ -43,6 +43,7 @@
 * [2026-02-11, 15:51:11](https://news.ycombinator.com/item?id=46976466) - [Railway (PaaS) Global Outage](https://status.railway.com)
 * [2026-02-11, 15:50:04](https://news.ycombinator.com/item?id=46976443) - [Why Vampires Live Forever](https://machielreyneke.com/blog/vampires-longevity/)
 * [2026-02-11, 15:41:18](https://news.ycombinator.com/item?id=46976317) - [AI-First Company Memos](https://the-ai-native.company/)
+* [2026-02-11, 15:36:10](https://news.ycombinator.com/item?id=46976256) - [Databases should contain their own Metadata – Use SQL Everywhere](https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe)
 * [2026-02-11, 15:27:34](https://news.ycombinator.com/item?id=46976123) - [EPA to repeal its own conclusion that greenhouse gases warm the planet](https://www.nbcnews.com/science/climate-change/epa-to-repeal-endangerment-finding-climate-change-emissions-rcna258250)
 * [2026-02-11, 15:13:21](https://news.ycombinator.com/item?id=46975940) - [Mamdani Hires Lisa Gelobter as Chief Tech Officer](https://www.nytimes.com/2026/02/10/nyregion/mamdani-lisa-gelobter-gif.html)
 * [2026-02-11, 15:12:53](https://news.ycombinator.com/item?id=46975933) - [Ask HN: Why electronics are still so unrecyclable?](https://news.ycombinator.com/item?id=46975933)
