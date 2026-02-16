@@ -31,6 +31,7 @@
 * [2026-02-11, 17:34:27](https://news.ycombinator.com/item?id=46978015) - [Should your developer company go open source?](https://extremefoundership.substack.com/p/should-your-developer-company-go)
 * [2026-02-11, 17:31:48](https://news.ycombinator.com/item?id=46977967) - [Show HN: MOL – A programming language where pipelines trace themselves](https://github.com/crux-ecosystem/mol-lang)
 * [2026-02-11, 17:31:43](https://news.ycombinator.com/item?id=46977966) - [A Visual Source for Shakespeare's 'Tempest'](https://profadamroberts.substack.com/p/a-visual-source-for-shakespeares)
+* [2026-02-11, 17:28:21](https://news.ycombinator.com/item?id=46977901) - [Camera that captures photos to cassette tape](https://hackaday.io/project/205004-digital-analog-tape-picture-camera)
 * [2026-02-11, 17:17:35](https://news.ycombinator.com/item?id=46977742) - [The Perfect Device](https://sometimes.digital/posts/the-perfect-device/)
 * [2026-02-11, 17:13:17](https://news.ycombinator.com/item?id=46977678) - [I Love Board Games: A Personal Obsession Explained by Psychology](https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology)
 * [2026-02-11, 17:01:15](https://news.ycombinator.com/item?id=46977493) - [Scientists research man missing 90% of his brain who leads a normal life (2016)](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.3679117/scientists-research-man-missing-90-of-his-brain-who-leads-a-normal-life-1.3679125)
