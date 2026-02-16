@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2026-02-16, 14:48:25",
+      "https://news.ycombinator.com/item?id=47035679"
+    ],
+    [
+      "UK Discord users were part of a Peter Thiel-linked data collection experiment",
+      "https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 14:39:32",
       "https://news.ycombinator.com/item?id=47035560"
     ],
     [
       "What Your Bluetooth Devices Reveal About You",
       "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 14:26:39",
+      "https://news.ycombinator.com/item?id=47035371"
+    ],
+    [
+      "The Sideprocalypse",
+      "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Thanks a lot, AI: Hard drives are sold out for the year, says WD",
       "https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 11:44:07",
+      "https://news.ycombinator.com/item?id=47033875"
+    ],
+    [
+      "planckforth: Bootstrapping a Forth interpreter from hand-written tiny ELF binary",
+      "https://github.com/nineties/planckforth"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
       "https://mastodon.world/@knowmadd/116072773118828295"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 05:38:51",
-      "https://news.ycombinator.com/item?id=47031268"
-    ],
-    [
-      "Building SQLite with a small swarm",
-      "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html"
     ]
   ],
   [
@@ -191,22 +211,22 @@
   ],
   [
     [
-      "2026-02-15, 15:37:06",
-      "https://news.ycombinator.com/item?id=47024506"
-    ],
-    [
-      "Gwtar: A static efficient single-file HTML format",
-      "https://gwern.net/gwtar"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 04:24:18",
       "https://news.ycombinator.com/item?id=47011548"
     ],
     [
       "Ghidra by NSA",
       "https://github.com/NationalSecurityAgency/ghidra"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 22:10:45",
+      "https://news.ycombinator.com/item?id=47008512"
+    ],
+    [
+      "How DSQL makes sure sequences scale",
+      "https://blog.benjscho.dev/technical/2026/02/13/dsql-sequences.html"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2026-02-12, 18:35:39",
-      "https://news.ycombinator.com/item?id=46993014"
-    ],
-    [
-      "Real-time PathTracing with global illumination in WebGL",
-      "https://erichlof.github.io/THREE.js-PathTracing-Renderer/"
-    ]
-  ],
-  [
-    [
       "2026-02-12, 15:19:13",
       "https://news.ycombinator.com/item?id=46989879"
     ],
@@ -287,16 +297,6 @@
     [
       "1,300-year-old world chronicle unearthed in Sinai",
       "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 15:03:08",
-      "https://news.ycombinator.com/item?id=46975822"
-    ],
-    [
-      "Lost Soviet Moon Lander May Have Been Found",
-      "https://www.nytimes.com/2026/02/10/science/luna-9-moon-lander-soviet.html"
     ]
   ]
 ]
