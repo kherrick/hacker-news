@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-15](index.md)
 
+* [2026-02-15, 23:34:18](https://news.ycombinator.com/item?id=47028923) - [Why I don't think AGI is imminent](https://dlants.me/agi-not-imminent.html)
 * [2026-02-15, 23:08:43](https://news.ycombinator.com/item?id=47028705) - [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
 * [2026-02-15, 22:47:26](https://news.ycombinator.com/item?id=47028545) - [Continuous batching from first principles (2025)](https://huggingface.co/blog/continuous_batching)
 * [2026-02-15, 22:17:10](https://news.ycombinator.com/item?id=47028227) - [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
