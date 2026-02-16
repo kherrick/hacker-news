@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-16](index.md)
 
+* [2026-02-16, 16:19:16](https://news.ycombinator.com/item?id=47036891) - [Show HN: Simple org-mode web adapter](https://github.com/SpaceTurth/Org-Web-Adapter)
+* [2026-02-16, 15:19:01](https://news.ycombinator.com/item?id=47036116) - [Intermittent fasting may make little difference to weight loss, review finds](https://www.bbc.co.uk/news/articles/c4ge7n3pq62o)
 * [2026-02-16, 14:50:48](https://news.ycombinator.com/item?id=47035718) - [iOS 27 'Rave' Update to Clean Up Code, Could Boost Battery Life](https://www.macrumors.com/2026/02/16/apple-plans-snow-leopard-cleanup-ios-27/)
 * [2026-02-16, 14:48:25](https://news.ycombinator.com/item?id=47035679) - [UK Discord users were part of a Peter Thiel-linked data collection experiment](https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment)
 * [2026-02-16, 14:39:32](https://news.ycombinator.com/item?id=47035560) - [What Your Bluetooth Devices Reveal About You](https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/)
