@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-16](index.md)
 
+* [2026-02-16, 20:34:27](https://news.ycombinator.com/item?id=47039966) - [Suicide Linux (2009)](https://qntm.org/suicide)
+* [2026-02-16, 20:23:36](https://news.ycombinator.com/item?id=47039834) - [Testing Postgres race conditions with synchronization barriers](https://www.lirbank.com/harnessing-postgres-race-conditions)
 * [2026-02-16, 19:55:23](https://news.ycombinator.com/item?id=47039478) - [State of Show HN: 2025](https://blog.sturdystatistics.com/posts/show_hn/)
 * [2026-02-16, 19:52:30](https://news.ycombinator.com/item?id=47039440) - [Fff.nvim – Typo-resistant code search](https://github.com/dmtrKovalenko/fff.nvim)
 * [2026-02-16, 19:20:37](https://news.ycombinator.com/item?id=47039073) - [Docker Swarm vs. Kubernetes in 2026](https://thedecipherist.com/articles/docker_swarm_vs_kubernetes/)
@@ -11,6 +13,7 @@
 * [2026-02-16, 19:09:58](https://news.ycombinator.com/item?id=47038965) - [Wero – Digital payment wallet, Made in Europe](https://wero-wallet.eu)
 * [2026-02-16, 18:54:37](https://news.ycombinator.com/item?id=47038731) - [Neurons outside the brain](https://essays.debugyourpain.com/p/you-are-not-just-your-brain)
 * [2026-02-16, 18:54:27](https://news.ycombinator.com/item?id=47038729) - [How Not to Answer the Salary Question](https://adatosystems.com/2026/02/16/blog-how-not-to-answer-the-salary-question/)
+* [2026-02-16, 18:52:50](https://news.ycombinator.com/item?id=47038706) - [Robert Duvall has died](https://www.nytimes.com/2026/02/16/movies/robert-duvall-dead.html?unlocked_article_code=1.MlA.5LIC.JbSiEGzihyVU&smid=url-share)
 * [2026-02-16, 18:52:50](https://news.ycombinator.com/item?id=47038706) - [Robert Duvall Dead at 95](https://www.newsweek.com/entertainment/hollywood-legend-robert-duvall-dead-at-95-11531295)
 * [2026-02-16, 18:44:58](https://news.ycombinator.com/item?id=47038588) - [Use Protocols, Not Services](https://notnotp.com/notes/use-protocols-not-services/)
 * [2026-02-16, 18:41:50](https://news.ycombinator.com/item?id=47038546) - [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)
