@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-02-16, 11:06:28",
+      "https://news.ycombinator.com/item?id=47033622"
+    ],
+    [
+      "Anthropic tries to hide Claude's AI actions. Devs hate it",
+      "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 10:26:22",
       "https://news.ycombinator.com/item?id=47033328"
     ],
     [
       "MessageFormat: Unicode standard for localizable message strings",
       "https://github.com/unicode-org/message-format-wg"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 09:32:21",
+      "https://news.ycombinator.com/item?id=47032876"
+    ],
+    [
+      "Qwen3.5: Towards Native Multimodal Agents",
+      "https://qwen.ai/blog?id=qwen3.5"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-02-15, 18:29:54",
-      "https://news.ycombinator.com/item?id=47026071"
-    ],
-    [
-      "Editor's Note: Retraction of article containing fabricated quotations",
-      "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/"
-    ]
-  ],
-  [
-    [
       "2026-02-15, 18:04:10",
       "https://news.ycombinator.com/item?id=47025851"
     ],
@@ -187,16 +197,6 @@
     [
       "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
       "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 11:25:26",
-      "https://news.ycombinator.com/item?id=47022891"
-    ],
-    [
-      "I fixed Windows native development",
-      "https://marler8997.github.io/blog/fixed-windows/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2026-02-12, 13:23:22",
+      "https://news.ycombinator.com/item?id=46988538"
+    ],
+    [
+      "Rolling your own serverless OCR in 40 lines of code",
+      "https://christopherkrapu.com/blog/2026/ocr-textbooks-modal-deepseek/"
+    ]
+  ],
+  [
+    [
       "2026-02-12, 04:01:48",
       "https://news.ycombinator.com/item?id=46984768"
     ],
     [
       "1,300-year-old world chronicle unearthed in Sinai",
       "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 15:36:10",
-      "https://news.ycombinator.com/item?id=46976256"
-    ],
-    [
-      "Databases should contain their own Metadata – Use SQL Everywhere",
-      "https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe"
     ]
   ],
   [
