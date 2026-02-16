@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-16, 02:36:14",
+      "https://news.ycombinator.com/item?id=47030271"
+    ],
+    [
+      "Arm wants a bigger slice of the chip business",
+      "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 00:35:12",
       "https://news.ycombinator.com/item?id=47029397"
     ],
@@ -17,6 +27,16 @@
     [
       "JavaScript-heavy approaches are not compatible with long-term performance goals",
       "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 23:34:18",
+      "https://news.ycombinator.com/item?id=47028923"
+    ],
+    [
+      "Why I don't think AGI is imminent",
+      "https://dlants.me/agi-not-imminent.html"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-02-15, 17:22:59",
-      "https://news.ycombinator.com/item?id=47025478"
-    ],
-    [
-      "Show HN: Klaw.sh – Kubernetes for AI agents",
-      "https://github.com/klawsh/klaw.sh"
-    ]
-  ],
-  [
-    [
       "2026-02-15, 17:12:35",
       "https://news.ycombinator.com/item?id=47025399"
     ],
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2026-02-15, 10:50:18",
-      "https://news.ycombinator.com/item?id=47022745"
+      "2026-02-14, 22:35:07",
+      "https://news.ycombinator.com/item?id=47019102"
     ],
     [
-      "Show HN: Pangolin: Open-source identity-based VPN (Twingate/Zscaler alternative)",
-      "https://github.com/fosrl/pangolin"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 09:27:33",
-      "https://news.ycombinator.com/item?id=47022329"
-    ],
-    [
-      "Two different tricks for fast LLM inference",
-      "https://www.seangoedecke.com/fast-llm-inference/"
+      "How long do job postings stay open?",
+      "https://corvi.careers/blog/job_open_days_by_category_feb_2026/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-02-11, 01:32:59",
-      "https://news.ycombinator.com/item?id=46969642"
+      "2026-02-11, 06:20:08",
+      "https://news.ycombinator.com/item?id=46971547"
     ],
     [
-      "True Nature: The Lives of Peter Matthiessen",
-      "https://www.lrb.co.uk/the-paper/v48/n02/christian-lorentzen/i-m-always-in-the-club"
+      "Benchmarking Automatic Typesetting Systems",
+      "https://news.speedata.de/2026/02/10/typesetting-benchmark/"
     ]
   ]
 ]
