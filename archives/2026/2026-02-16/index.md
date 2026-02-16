@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-16](index.md)
 
+* [2026-02-16, 23:40:33](https://news.ycombinator.com/item?id=47041836) - [Show HN: Scanned 1927-1945 Daily USFS Work Diary](https://forestrydiary.com/)
 * [2026-02-16, 22:53:02](https://news.ycombinator.com/item?id=47041456) - [Running NanoClaw in a Docker Shell Sandbox](https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/)
 * [2026-02-16, 21:48:00](https://news.ycombinator.com/item?id=47040781) - [10 years building vertical software: are we cooked?](https://twitter.com/nicbstme/status/2023501562480644501)
 * [2026-02-16, 21:24:04](https://news.ycombinator.com/item?id=47040524) - [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/)
