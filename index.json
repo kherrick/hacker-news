@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-02-16, 21:15:56",
+      "https://news.ycombinator.com/item?id=47040430"
+    ],
+    [
+      "Study: Self-generated Agent Skills are useless",
+      "https://arxiv.org/abs/2602.12670"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 21:12:07",
+      "https://news.ycombinator.com/item?id=47040390"
+    ],
+    [
+      "Show HN: Wildex – we built Pokémon Go for real wildlife",
+      "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 21:10:44",
+      "https://news.ycombinator.com/item?id=47040375"
+    ],
+    [
+      "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
+      "https://github.com/zachlatta/freeflow"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 21:00:13",
+      "https://news.ycombinator.com/item?id=47040268"
+    ],
+    [
+      "Turing Labs (YC W20) Is Hiring – GTM Sales Hacker",
+      "https://news.ycombinator.com/item?id=47040268"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 20:34:27",
       "https://news.ycombinator.com/item?id=47039966"
     ],
@@ -61,26 +101,6 @@
   ],
   [
     [
-      "2026-02-16, 18:54:27",
-      "https://news.ycombinator.com/item?id=47038729"
-    ],
-    [
-      "How not to answer the salary question",
-      "https://adatosystems.com/2026/02/16/blog-how-not-to-answer-the-salary-question/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 18:52:50",
-      "https://news.ycombinator.com/item?id=47038706"
-    ],
-    [
-      "Robert Duvall has died",
-      "https://www.nytimes.com/2026/02/16/movies/robert-duvall-dead.html?unlocked_article_code=1.MlA.5LIC.JbSiEGzihyVU&smid=url-share"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 18:44:58",
       "https://news.ycombinator.com/item?id=47038588"
     ],
@@ -117,6 +137,16 @@
     [
       "The Long Tail of LLM-Assisted Decompilation",
       "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 18:05:49",
+      "https://news.ycombinator.com/item?id=47038134"
+    ],
+    [
+      "AI optimism is a class privilege",
+      "https://joshcollinsworth.com/blog/sloptimism"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-02-16, 14:48:25",
-      "https://news.ycombinator.com/item?id=47035679"
-    ],
-    [
-      "UK Discord users were part of a Peter Thiel-linked data collection experiment",
-      "https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 14:39:32",
       "https://news.ycombinator.com/item?id=47035560"
     ],
@@ -191,42 +211,12 @@
   ],
   [
     [
-      "2026-02-16, 14:26:39",
-      "https://news.ycombinator.com/item?id=47035371"
-    ],
-    [
-      "The Sideprocalypse",
-      "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 13:39:45",
-      "https://news.ycombinator.com/item?id=47034801"
-    ],
-    [
-      "Running My Own XMPP Server",
-      "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 13:30:07",
       "https://news.ycombinator.com/item?id=47034713"
     ],
     [
       "Ministry of Justice orders deletion of the UK's largest court reporting database",
       "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 11:44:07",
-      "https://news.ycombinator.com/item?id=47033875"
-    ],
-    [
-      "planckforth: Bootstrapping a Forth interpreter from hand-written tiny ELF binary",
-      "https://github.com/nineties/planckforth"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "PCB Rework and Repair Guide [pdf]",
       "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-02-14, 11:07:08",
+      "https://news.ycombinator.com/item?id=47013556"
+    ],
+    [
+      "Chiplets Get Physical: The Days of Mix-and-Match Silicon Draw Nigh",
+      "https://www.eejournal.com/article/chiplets-get-physical-the-days-of-mix-and-match-silicon-draw-nigh/"
     ]
   ],
   [
