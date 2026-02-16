@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-16](index.md)
 
+* [2026-02-16, 13:39:45](https://news.ycombinator.com/item?id=47034801) - [Running My Own XMPP Server](https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/)
+* [2026-02-16, 13:30:07](https://news.ycombinator.com/item?id=47034713) - [Ministry of Justice orders deletion of the UK's largest court reporting database](https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/)
 * [2026-02-16, 12:28:31](https://news.ycombinator.com/item?id=47034192) - [Thanks a lot, AI: Hard drives are sold out for the year, says WD](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 * [2026-02-16, 12:00:42](https://news.ycombinator.com/item?id=47033976) - [The Israeli spyware firm that accidentally just exposed itself](https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally)
 * [2026-02-16, 11:06:28](https://news.ycombinator.com/item?id=47033622) - [Anthropic tries to hide Claude's AI actions. Devs hate it](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
