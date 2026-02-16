@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-16, 10:26:22",
+      "https://news.ycombinator.com/item?id=47033328"
+    ],
+    [
+      "MessageFormat: Unicode standard for localizable message strings",
+      "https://github.com/unicode-org/message-format-wg"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 08:04:11",
       "https://news.ycombinator.com/item?id=47032235"
     ],
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2026-02-15, 11:25:26",
+      "https://news.ycombinator.com/item?id=47022891"
+    ],
+    [
+      "I fixed Windows native development",
+      "https://marler8997.github.io/blog/fixed-windows/"
+    ]
+  ],
+  [
+    [
       "2026-02-14, 22:35:07",
       "https://news.ycombinator.com/item?id=47019102"
     ],
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2026-02-12, 09:22:54",
-      "https://news.ycombinator.com/item?id=46986604"
+      "2026-02-12, 15:19:13",
+      "https://news.ycombinator.com/item?id=46989879"
     ],
     [
-      "Show HN: Solving Sudoku reasoning via Energy Geometric models",
-      "https://www.davisgeometric.com/index.html"
+      "Hard problems in social media archiving",
+      "https://alexwlchan.net/2025/hard-problems-in-social-media-archiving/"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "1,300-year-old world chronicle unearthed in Sinai",
       "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 21:03:58",
-      "https://news.ycombinator.com/item?id=46980930"
-    ],
-    [
-      "Transforming a Clojure Database into a Library with GraalVM Native Image and FFI",
-      "https://avelino.run/chrondb-polyglot-ffi-clojure-graalvm-native-image/"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 17:13:17",
-      "https://news.ycombinator.com/item?id=46977678"
-    ],
-    [
-      "I Love Board Games: A Personal Obsession Explained by Psychology",
-      "https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology"
     ]
   ],
   [
