@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-16, 22:53:02",
+      "https://news.ycombinator.com/item?id=47041456"
+    ],
+    [
+      "Running NanoClaw in a Docker Shell Sandbox",
+      "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 21:48:00",
+      "https://news.ycombinator.com/item?id=47040781"
+    ],
+    [
+      "10 years building vertical software: are we cooked?",
+      "https://twitter.com/nicbstme/status/2023501562480644501"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 21:15:56",
       "https://news.ycombinator.com/item?id=47040430"
     ],
@@ -121,21 +141,11 @@
   ],
   [
     [
-      "2026-02-16, 18:31:19",
-      "https://news.ycombinator.com/item?id=47038411"
-    ],
-    [
-      "LCM: Lossless Context Management [pdf]",
-      "http://papers.voltropy.com/LCM"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 18:19:16",
       "https://news.ycombinator.com/item?id=47038270"
     ],
     [
-      "The Long Tail of LLM-Assisted Decompilation",
+      "The long tail of LLM-assisted decompilation",
       "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/"
     ]
   ],
@@ -147,6 +157,16 @@
     [
       "Privilege is bad grammar",
       "https://tadaima.bearblog.dev/privilege-is-bad-grammar/"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 17:15:27",
+      "https://news.ycombinator.com/item?id=47037568"
+    ],
+    [
+      "Building a model that visualizes strategic golf",
+      "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half"
     ]
   ],
   [
@@ -197,26 +217,6 @@
     [
       "What your Bluetooth devices reveal",
       "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 13:39:45",
-      "https://news.ycombinator.com/item?id=47034801"
-    ],
-    [
-      "Running My Own XMPP Server",
-      "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 13:30:07",
-      "https://news.ycombinator.com/item?id=47034713"
-    ],
-    [
-      "Ministry of Justice orders deletion of the UK's largest court reporting database",
-      "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/"
     ]
   ],
   [
