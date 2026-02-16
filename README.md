@@ -8,6 +8,7 @@
 * [2026-02-15, 22:17:10](https://news.ycombinator.com/item?id=47028227) - [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
 * [2026-02-15, 21:54:15](https://news.ycombinator.com/item?id=47028013) - [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
 * [2026-02-15, 20:53:26](https://news.ycombinator.com/item?id=47027427) - [GNU Pies – Program Invocation and Execution Supervisor](https://www.gnu.org.ua/software/pies/)
+* [2026-02-15, 19:40:57](https://news.ycombinator.com/item?id=47026768) - [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
 * [2026-02-15, 18:40:35](https://news.ycombinator.com/item?id=47026186) - [Show HN: Microgpt is a GPT you can visualize in the browser](https://microgpt.boratto.ca)
 * [2026-02-15, 18:29:54](https://news.ycombinator.com/item?id=47026071) - [Editor's Note: Retraction of article containing fabricated quotations](https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/)
 * [2026-02-15, 18:05:24](https://news.ycombinator.com/item?id=47025864) - [Radio host David Greene says Google's NotebookLM tool stole his voice](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/)
@@ -29,7 +30,6 @@
 * [2026-02-11, 17:13:17](https://news.ycombinator.com/item?id=46977678) - [I Love Board Games: A Personal Obsession Explained by Psychology](https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology)
 * [2026-02-11, 15:36:10](https://news.ycombinator.com/item?id=46976256) - [Databases should contain their own Metadata – Use SQL Everywhere](https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe)
 * [2026-02-11, 15:03:08](https://news.ycombinator.com/item?id=46975822) - [Lost Soviet Moon Lander May Have Been Found](https://www.nytimes.com/2026/02/10/science/luna-9-moon-lander-soviet.html)
-* [2026-02-11, 13:35:09](https://news.ycombinator.com/item?id=46974763) - [Why does aluminum foil have one shiny side and one with a matte finish?](https://bookofjoe2.blogspot.com/2025/10/why-does-aluminum-foil-have-one-shiny.html)
 
 ## [Archives](archives/index.md)
 
