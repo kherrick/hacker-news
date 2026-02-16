@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-16, 08:04:11",
+      "https://news.ycombinator.com/item?id=47032235"
+    ],
+    [
+      "picol: A Tcl interpreter in 500 lines of code",
+      "https://github.com/antirez/picol"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 06:31:48",
       "https://news.ycombinator.com/item?id=47031580"
     ],
@@ -77,16 +87,6 @@
     [
       "GNU Pies – Program Invocation and Execution Supervisor",
       "https://www.gnu.org.ua/software/pies/"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 19:40:57",
-      "https://news.ycombinator.com/item?id=47026768"
-    ],
-    [
-      "Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI",
-      "https://github.com/gpasquero/voog"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-02-15, 11:25:26",
-      "https://news.ycombinator.com/item?id=47022891"
-    ],
-    [
-      "I fixed Windows native development",
-      "https://marler8997.github.io/blog/fixed-windows/"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 22:35:07",
       "https://news.ycombinator.com/item?id=47019102"
     ],
@@ -247,6 +237,16 @@
     [
       "Real-time PathTracing with global illumination in WebGL",
       "https://erichlof.github.io/THREE.js-PathTracing-Renderer/"
+    ]
+  ],
+  [
+    [
+      "2026-02-12, 09:22:54",
+      "https://news.ycombinator.com/item?id=46986604"
+    ],
+    [
+      "Show HN: Solving Sudoku reasoning via Energy Geometric models",
+      "https://www.davisgeometric.com/index.html"
     ]
   ],
   [
