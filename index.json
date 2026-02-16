@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-16, 20:34:27",
+      "https://news.ycombinator.com/item?id=47039966"
+    ],
+    [
+      "Suicide Linux (2009)",
+      "https://qntm.org/suicide"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 20:23:36",
+      "https://news.ycombinator.com/item?id=47039834"
+    ],
+    [
+      "Testing Postgres race conditions with synchronization barriers",
+      "https://www.lirbank.com/harnessing-postgres-race-conditions"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 19:55:23",
       "https://news.ycombinator.com/item?id=47039478"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2026-02-16, 19:09:58",
-      "https://news.ycombinator.com/item?id=47038965"
-    ],
-    [
-      "Wero – Digital payment wallet, made in Europe",
-      "https://wero-wallet.eu"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 18:54:37",
       "https://news.ycombinator.com/item?id=47038731"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47038729"
     ],
     [
-      "How Not to Answer the Salary Question",
+      "How not to answer the salary question",
       "https://adatosystems.com/2026/02/16/blog-how-not-to-answer-the-salary-question/"
     ]
   ],
@@ -65,8 +75,8 @@
       "https://news.ycombinator.com/item?id=47038706"
     ],
     [
-      "Robert Duvall Dead at 95",
-      "https://www.newsweek.com/entertainment/hollywood-legend-robert-duvall-dead-at-95-11531295"
+      "Robert Duvall has died",
+      "https://www.nytimes.com/2026/02/16/movies/robert-duvall-dead.html?unlocked_article_code=1.MlA.5LIC.JbSiEGzihyVU&smid=url-share"
     ]
   ],
   [
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2026-02-16, 18:05:32",
+      "https://news.ycombinator.com/item?id=47038125"
+    ],
+    [
+      "Privilege is bad grammar",
+      "https://tadaima.bearblog.dev/privilege-is-bad-grammar/"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 17:08:20",
       "https://news.ycombinator.com/item?id=47037501"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-02-16, 15:15:50",
-      "https://news.ycombinator.com/item?id=47036063"
-    ],
-    [
-      "Show HN: Maths, CS and AI Compendium",
-      "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 14:48:25",
       "https://news.ycombinator.com/item?id=47035679"
     ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=47035560"
     ],
     [
-      "What Your Bluetooth Devices Reveal About You",
+      "What your Bluetooth devices reveal",
       "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Visual Introduction to PyTorch",
       "https://0byte.io/articles/pytorch_introduction.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 13:23:22",
-      "https://news.ycombinator.com/item?id=46988538"
-    ],
-    [
-      "Rolling your own serverless OCR in 40 lines of code",
-      "https://christopherkrapu.com/blog/2026/ocr-textbooks-modal-deepseek/"
     ]
   ]
 ]
