@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-16, 19:20:37",
+      "https://news.ycombinator.com/item?id=47039073"
+    ],
+    [
+      "Docker Swarm vs. Kubernetes in 2026",
+      "https://thedecipherist.com/articles/docker_swarm_vs_kubernetes/"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 19:17:46",
+      "https://news.ycombinator.com/item?id=47039044"
+    ],
+    [
+      "Show HN: 2D Coulomb Gas Simulator",
+      "https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 19:09:58",
+      "https://news.ycombinator.com/item?id=47038965"
+    ],
+    [
+      "Wero – Digital payment wallet, Made in Europe",
+      "https://wero-wallet.eu"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 18:52:50",
       "https://news.ycombinator.com/item?id=47038706"
     ],
@@ -21,32 +51,12 @@
   ],
   [
     [
-      "2026-02-16, 18:05:32",
-      "https://news.ycombinator.com/item?id=47038125"
+      "2026-02-16, 18:23:36",
+      "https://news.ycombinator.com/item?id=47038318"
     ],
     [
-      "Privilege Is Bad Grammar",
-      "https://tadaima.bearblog.dev/privilege-is-bad-grammar/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 18:01:38",
-      "https://news.ycombinator.com/item?id=47038076"
-    ],
-    [
-      "Castlevania and Bloodstained developer Shutaro Ida dies aged 52",
-      "https://www.dexerto.com/gaming/castlevania-and-bloodstained-developer-shutaro-ida-dies-aged-52-3319349/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 17:22:02",
-      "https://news.ycombinator.com/item?id=47037628"
-    ],
-    [
-      "I guess I kinda get why people hate AI",
-      "https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html"
+      "\"token anxiety\"; or, a slot machine by any other name",
+      "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Show HN: Simple org-mode web adapter",
       "https://github.com/SpaceTurth/Org-Web-Adapter"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 16:19:08",
-      "https://news.ycombinator.com/item?id=47036889"
-    ],
-    [
-      "STM32G431 Analogue TV Transmitter",
-      "https://slyka.net/blog/2026/tinyvision/"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2026-02-16, 11:06:28",
-      "https://news.ycombinator.com/item?id=47033622"
-    ],
-    [
-      "Anthropic tries to hide Claude's AI actions. Devs hate it",
-      "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 10:26:22",
       "https://news.ycombinator.com/item?id=47033328"
     ],
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2026-02-15, 22:17:10",
-      "https://news.ycombinator.com/item?id=47028227"
+      "2026-02-16, 05:53:03",
+      "https://news.ycombinator.com/item?id=47031334"
     ],
     [
-      "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
-      "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/"
+      "Show HN: Jemini – Gemini for the Epstein Files",
+      "https://jmail.world/jemini"
     ]
   ],
   [
@@ -241,6 +231,26 @@
   ],
   [
     [
+      "2026-02-14, 23:07:41",
+      "https://news.ycombinator.com/item?id=47019329"
+    ],
+    [
+      "Show HN: Nerve: Stitches all your data sources into one mega-API",
+      "https://playground.get-nerve.com/"
+    ]
+  ],
+  [
+    [
+      "2026-02-14, 13:42:04",
+      "https://news.ycombinator.com/item?id=47014460"
+    ],
+    [
+      "PCB Rework and Repair Guide [pdf]",
+      "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf"
+    ]
+  ],
+  [
+    [
       "2026-02-14, 04:24:18",
       "https://news.ycombinator.com/item?id=47011548"
     ],
@@ -257,16 +267,6 @@
     [
       "Looks: A Halide Mark III Preview",
       "https://www.lux.camera/mark-iii-looks/"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 07:44:50",
-      "https://news.ycombinator.com/item?id=47000034"
-    ],
-    [
-      "Expensively Quadratic: The LLM Agent Cost Curve",
-      "https://blog.exe.dev/expensively-quadratic"
     ]
   ],
   [
