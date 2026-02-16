@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-16, 16:19:16",
+      "https://news.ycombinator.com/item?id=47036891"
+    ],
+    [
+      "Show HN: Simple org-mode web adapter",
+      "https://github.com/SpaceTurth/Org-Web-Adapter"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 15:19:01",
+      "https://news.ycombinator.com/item?id=47036116"
+    ],
+    [
+      "Intermittent fasting may make little difference to weight loss, review finds",
+      "https://www.bbc.co.uk/news/articles/c4ge7n3pq62o"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 14:50:48",
       "https://news.ycombinator.com/item?id=47035718"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-02-16, 00:26:23",
-      "https://news.ycombinator.com/item?id=47029339"
-    ],
-    [
-      "JavaScript-heavy approaches are not compatible with long-term performance goals",
-      "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/"
-    ]
-  ],
-  [
-    [
       "2026-02-15, 22:17:10",
       "https://news.ycombinator.com/item?id=47028227"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2026-02-15, 17:10:18",
-      "https://news.ycombinator.com/item?id=47025378"
-    ],
-    [
-      "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
-      "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 04:24:18",
       "https://news.ycombinator.com/item?id=47011548"
     ],
     [
       "Ghidra by NSA",
       "https://github.com/NationalSecurityAgency/ghidra"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 22:10:45",
-      "https://news.ycombinator.com/item?id=47008512"
-    ],
-    [
-      "How DSQL makes sure sequences scale",
-      "https://blog.benjscho.dev/technical/2026/02/13/dsql-sequences.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Audio is the one area small labs are winning",
       "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 02:33:52",
+      "https://news.ycombinator.com/item?id=46998266"
+    ],
+    [
+      "Richard Carrington's first portrait has been found",
+      "https://www.cnn.com/2026/02/12/science/solar-storm-richard-carrington-photo"
     ]
   ],
   [
