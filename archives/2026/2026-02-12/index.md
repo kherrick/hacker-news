@@ -65,6 +65,7 @@
 * [2026-02-12, 11:26:15](https://news.ycombinator.com/item?id=46987425) - [Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78](https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/)
 * [2026-02-12, 10:27:50](https://news.ycombinator.com/item?id=46987038) - [Show HN: Geo Racers – Race from London to Tokyo on a single bus pass](https://geo-racers.com/)
 * [2026-02-12, 09:25:17](https://news.ycombinator.com/item?id=46986614) - [Show HN: A free online British accent generator for instant voice conversion](https://audioconvert.ai/british-accent-generator)
+* [2026-02-12, 09:22:54](https://news.ycombinator.com/item?id=46986604) - [Show HN: Solving Sudoku reasoning via Energy Geometric models](https://www.davisgeometric.com/index.html)
 * [2026-02-12, 09:06:20](https://news.ycombinator.com/item?id=46986496) - [From specification to stress test: a weekend with Claude](https://www.juxt.pro/blog/from-specification-to-stress-test/)
 * [2026-02-12, 08:35:34](https://news.ycombinator.com/item?id=46986248) - [The missing digit of Stela C](https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/)
 * [2026-02-12, 08:01:37](https://news.ycombinator.com/item?id=46986064) - [Show HN: Huesnatch – 6 free color tools for designers, no login, no uploads](https://github.com/huesnatch/huesnatch)
