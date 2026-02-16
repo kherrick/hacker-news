@@ -56,6 +56,7 @@
 * [2026-02-13, 08:09:10](https://news.ycombinator.com/item?id=47000206) - [Ask HN: Why is my Claude experience so bad? What am I doing wrong?](https://news.ycombinator.com/item?id=47000206)
 * [2026-02-13, 08:02:23](https://news.ycombinator.com/item?id=47000164) - [CSS-Doodle](https://css-doodle.com/)
 * [2026-02-13, 07:46:03](https://news.ycombinator.com/item?id=47000041) - [MinIO repository is no longer maintained](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)
+* [2026-02-13, 07:44:50](https://news.ycombinator.com/item?id=47000034) - [Expensively Quadratic: The LLM Agent Cost Curve](https://blog.exe.dev/expensively-quadratic)
 * [2026-02-13, 07:00:41](https://news.ycombinator.com/item?id=46999753) - [Asimov (YC W26) Is Hiring](https://news.ycombinator.com/item?id=46999753)
 * [2026-02-13, 06:23:26](https://news.ycombinator.com/item?id=46999545) - [Ring owners are returning their cameras](https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3)
 * [2026-02-13, 05:39:45](https://news.ycombinator.com/item?id=46999285) - [Audio is the one area small labs are winning](https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai)

@@ -72,6 +72,7 @@
 * [2026-02-12, 06:54:39](https://news.ycombinator.com/item?id=46985609) - [Carl Sagan's Baloney Detection Kit: Tools for Thinking Critically (2025)](https://www.openculture.com/2025/09/the-carl-sagan-baloney-detection-kit.html)
 * [2026-02-12, 05:18:49](https://news.ycombinator.com/item?id=46985151) - [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
 * [2026-02-12, 05:18:09](https://news.ycombinator.com/item?id=46985147) - [D Programming Language](https://dlang.org/)
+* [2026-02-12, 04:01:48](https://news.ycombinator.com/item?id=46984768) - [1,300-year-old world chronicle unearthed in Sinai](https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948)
 * [2026-02-12, 03:56:26](https://news.ycombinator.com/item?id=46984735) - [How to Make a Living as an Artist](https://essays.fnnch.com/make-a-living)
 * [2026-02-12, 03:00:58](https://news.ycombinator.com/item?id=46984394) - [Sony Jumbotron Image Control System (1998) [pdf]](https://pro.sony/s3/cms-static-content/operation-manual/3864848111.pdf)
 * [2026-02-12, 02:10:41](https://news.ycombinator.com/item?id=46984083) - [Show HN: Double blind entropy using Drand for verifiably fair randomness](https://blockrand.net/live.html)
