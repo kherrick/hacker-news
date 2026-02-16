@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-16](index.md)
 
+* [2026-02-16, 21:15:56](https://news.ycombinator.com/item?id=47040430) - [Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670)
+* [2026-02-16, 21:12:07](https://news.ycombinator.com/item?id=47040390) - [Show HN: Wildex – we built Pokémon Go for real wildlife](https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158)
+* [2026-02-16, 21:10:44](https://news.ycombinator.com/item?id=47040375) - [Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue](https://github.com/zachlatta/freeflow)
+* [2026-02-16, 21:00:13](https://news.ycombinator.com/item?id=47040268) - [Turing Labs (YC W20) Is Hiring – GTM Sales Hacker](https://news.ycombinator.com/item?id=47040268)
 * [2026-02-16, 20:34:27](https://news.ycombinator.com/item?id=47039966) - [Suicide Linux (2009)](https://qntm.org/suicide)
 * [2026-02-16, 20:23:36](https://news.ycombinator.com/item?id=47039834) - [Testing Postgres race conditions with synchronization barriers](https://www.lirbank.com/harnessing-postgres-race-conditions)
 * [2026-02-16, 19:55:23](https://news.ycombinator.com/item?id=47039478) - [State of Show HN: 2025](https://blog.sturdystatistics.com/posts/show_hn/)
@@ -19,6 +23,7 @@
 * [2026-02-16, 18:41:50](https://news.ycombinator.com/item?id=47038546) - [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)
 * [2026-02-16, 18:23:36](https://news.ycombinator.com/item?id=47038318) - [\"token anxiety\"; or, a slot machine by any other name](https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/)
 * [2026-02-16, 18:19:16](https://news.ycombinator.com/item?id=47038270) - [The Long Tail of LLM-Assisted Decompilation](https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/)
+* [2026-02-16, 18:05:49](https://news.ycombinator.com/item?id=47038134) - [AI optimism is a class privilege](https://joshcollinsworth.com/blog/sloptimism)
 * [2026-02-16, 18:05:32](https://news.ycombinator.com/item?id=47038125) - [Privilege Is Bad Grammar](https://tadaima.bearblog.dev/privilege-is-bad-grammar/)
 * [2026-02-16, 18:01:38](https://news.ycombinator.com/item?id=47038076) - [Castlevania and Bloodstained developer Shutaro Ida dies aged 52](https://www.dexerto.com/gaming/castlevania-and-bloodstained-developer-shutaro-ida-dies-aged-52-3319349/)
 * [2026-02-16, 17:25:19](https://news.ycombinator.com/item?id=47037666) - [Palantir CEO wants to spray \"fentanyl-laced urine\" on analysts](https://twitter.com/jawwwn_/status/2023207418922959234)

@@ -36,6 +36,7 @@
 * [2026-02-14, 13:40:20](https://news.ycombinator.com/item?id=47014449) - [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
 * [2026-02-14, 13:33:03](https://news.ycombinator.com/item?id=47014405) - [How many registers does an x86-64 CPU have? (2020)](https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have)
 * [2026-02-14, 13:08:35](https://news.ycombinator.com/item?id=47014260) - [Unicorn Jelly](https://unicornjelly.com/)
+* [2026-02-14, 11:07:08](https://news.ycombinator.com/item?id=47013556) - [Chiplets Get Physical: The Days of Mix-and-Match Silicon Draw Nigh](https://www.eejournal.com/article/chiplets-get-physical-the-days-of-mix-and-match-silicon-draw-nigh/)
 * [2026-02-14, 10:47:01](https://news.ycombinator.com/item?id=47013458) - [4chan for Clankers](https://www.4claw.org)
 * [2026-02-14, 09:28:45](https://news.ycombinator.com/item?id=47013059) - [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645)
 * [2026-02-14, 09:10:15](https://news.ycombinator.com/item?id=47012964) - [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage)
