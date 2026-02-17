@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-17](index.md)
 
+* [2026-02-17, 21:43:46](https://news.ycombinator.com/item?id=47053835) - [Dolphin Emulator – Rise of the Triforce](https://br.dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/?cr=br)
 * [2026-02-17, 21:00:30](https://news.ycombinator.com/item?id=47053267) - [Structured AI (YC F25) Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern)
+* [2026-02-17, 20:35:18](https://news.ycombinator.com/item?id=47052941) - [BarraCUDA Open-source CUDA compiler targeting AMD GPUs](https://github.com/Zaneham/BarraCUDA)
 * [2026-02-17, 20:15:57](https://news.ycombinator.com/item?id=47052674) - [Show HN: I'm launching a LPFM radio station](https://www.kpbj.fm/)
 * [2026-02-17, 20:09:20](https://news.ycombinator.com/item?id=47052579) - [Property taxes going up? The 340B Program might be partly responsible](https://www.pricepoints.health/cp/188296406)
 * [2026-02-17, 19:35:09](https://news.ycombinator.com/item?id=47052007) - [Meta to retire messenger desktop app and messenger.com in April 2026](https://dzrh.com.ph/post/meta-to-retire-messenger-desktop-app-and-messengercom-in-april-2026-users-shift-to-web-and-mobile-platforms)
@@ -13,6 +15,7 @@
 * [2026-02-17, 19:20:46](https://news.ycombinator.com/item?id=47051793) - [Stephen Colbert says CBS forbid interview of Democrat because of FCC threat](https://arstechnica.com/tech-policy/2026/02/stephen-colbert-says-cbs-forbid-interview-of-democrat-because-of-fcc-threat/)
 * [2026-02-17, 19:07:09](https://news.ycombinator.com/item?id=47051603) - [Russia's economy has entered the death zone](https://www.economist.com/by-invitation/2026/02/16/russias-economy-has-entered-the-death-zone)
 * [2026-02-17, 19:02:44](https://news.ycombinator.com/item?id=47051546) - [Tesla 'Robotaxi' adds 5 more crashes in Austin in a month – 4x worse than humans](https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/)
+* [2026-02-17, 18:15:36](https://news.ycombinator.com/item?id=47050872) - [Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript](https://github.com/n-e/pg-typesafe)
 * [2026-02-17, 17:48:52](https://news.ycombinator.com/item?id=47050488) - [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
 * [2026-02-17, 17:40:50](https://news.ycombinator.com/item?id=47050376) - [Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification](https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693)
 * [2026-02-17, 17:29:49](https://news.ycombinator.com/item?id=47050227) - [Climbing Mount Fuji visualized through milestone stamps](https://fuji.halfof8.com/)
