@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-17](index.md)
 
+* [2026-02-17, 19:24:55](https://news.ycombinator.com/item?id=47051852) - [Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway](https://asteroidos.org/news/2-0-release/index.html)
+* [2026-02-17, 19:20:46](https://news.ycombinator.com/item?id=47051793) - [Stephen Colbert says CBS forbid interview of Democrat because of FCC threat](https://arstechnica.com/tech-policy/2026/02/stephen-colbert-says-cbs-forbid-interview-of-democrat-because-of-fcc-threat/)
 * [2026-02-17, 19:07:09](https://news.ycombinator.com/item?id=47051603) - [Russia's economy has entered the death zone](https://www.economist.com/by-invitation/2026/02/16/russias-economy-has-entered-the-death-zone)
 * [2026-02-17, 19:02:44](https://news.ycombinator.com/item?id=47051546) - [Tesla 'Robotaxi' adds 5 more crashes in Austin in a month – 4x worse than humans](https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/)
 * [2026-02-17, 17:48:52](https://news.ycombinator.com/item?id=47050488) - [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
