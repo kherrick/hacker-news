@@ -42,6 +42,7 @@
 * [2026-02-14, 10:47:01](https://news.ycombinator.com/item?id=47013458) - [4chan for Clankers](https://www.4claw.org)
 * [2026-02-14, 09:28:45](https://news.ycombinator.com/item?id=47013059) - [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645)
 * [2026-02-14, 09:10:15](https://news.ycombinator.com/item?id=47012964) - [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage)
+* [2026-02-14, 08:56:46](https://news.ycombinator.com/item?id=47012895) - [Rendering the Visible Spectrum](https://brandonli.net/spectra/doc/)
 * [2026-02-14, 08:22:11](https://news.ycombinator.com/item?id=47012717) - [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13)
 * [2026-02-14, 08:05:47](https://news.ycombinator.com/item?id=47012637) - [Show HN: Prompt to Planet, generate procedural 3D planets from text](https://prompttoplanet.n4ze3m.com/)
 * [2026-02-14, 07:50:13](https://news.ycombinator.com/item?id=47012553) - [OpenAI should build Slack](https://www.latent.space/p/ainews-why-openai-should-build-slack)

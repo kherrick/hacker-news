@@ -7,6 +7,7 @@
 * [2026-02-17, 06:18:34](https://news.ycombinator.com/item?id=47044293) - [SvarDOS – an open-source DOS distribution](http://svardos.org/)
 * [2026-02-17, 04:36:58](https://news.ycombinator.com/item?id=47043751) - [Long-term unemployment is becoming 'a status quo' in today's job market](https://www.cnbc.com/2026/02/16/long-term-unemployment-becoming-a-status-quo-in-todays-job-market.html)
 * [2026-02-17, 02:49:04](https://news.ycombinator.com/item?id=47043126) - [Why Affordability and the Vibecession Are Real Economic Problems](https://newsletter.mikekonczal.com/p/why-affordability-and-the-vibecession)
+* [2026-02-17, 02:13:37](https://news.ycombinator.com/item?id=47042895) - [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
 * [2026-02-17, 02:05:34](https://news.ycombinator.com/item?id=47042837) - [Facing a demographic catastrophe, Ukraine is paying for troops to freeze sperm](https://www.bbc.com/news/articles/cqxd9549y4xo)
 * [2026-02-17, 01:55:50](https://news.ycombinator.com/item?id=47042766) - [Thinking Hard Burns Almost No Calories–But Destroys Your Next Workout](https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout)
 * [2026-02-17, 01:28:42](https://news.ycombinator.com/item?id=47042574) - [Instagram boss says 16 hours of daily use is 'problematic' not addiction](https://www.bbc.com/news/articles/cn71mgmzljlo)
