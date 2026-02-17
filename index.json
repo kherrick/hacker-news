@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-02-17, 02:05:34",
+      "https://news.ycombinator.com/item?id=47042837"
+    ],
+    [
+      "Facing a demographic catastrophe, Ukraine is paying for troops to freeze sperm",
+      "https://www.bbc.com/news/articles/cqxd9549y4xo"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 01:01:00",
+      "https://news.ycombinator.com/item?id=47042396"
+    ],
+    [
+      "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+      "https://www.bbc.com/news/articles/cx2gn239exlo"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 00:26:20",
+      "https://news.ycombinator.com/item?id=47042136"
+    ],
+    [
+      "AI is destroying Open Source, and it's not even good yet",
+      "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 00:00:03",
+      "https://news.ycombinator.com/item?id=47041973"
+    ],
+    [
+      "Building for an audience of one: starting and finishing side projects with AI",
+      "https://codemade.net/blog/building-for-one/"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 23:40:33",
       "https://news.ycombinator.com/item?id=47041836"
     ],
@@ -21,16 +61,6 @@
   ],
   [
     [
-      "2026-02-16, 21:48:00",
-      "https://news.ycombinator.com/item?id=47040781"
-    ],
-    [
-      "10 years building vertical software: are we cooked?",
-      "https://twitter.com/nicbstme/status/2023501562480644501"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 21:24:04",
       "https://news.ycombinator.com/item?id=47040524"
     ],
@@ -47,16 +77,6 @@
     [
       "Study: Self-generated Agent Skills are useless",
       "https://arxiv.org/abs/2602.12670"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 21:12:07",
-      "https://news.ycombinator.com/item?id=47040390"
-    ],
-    [
-      "Show HN: Wildex – we built Pokémon Go for real wildlife",
-      "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-02-16, 18:05:32",
-      "https://news.ycombinator.com/item?id=47038125"
-    ],
-    [
-      "Privilege is bad grammar",
-      "https://tadaima.bearblog.dev/privilege-is-bad-grammar/"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 17:15:27",
       "https://news.ycombinator.com/item?id=47037568"
     ],
@@ -187,16 +197,6 @@
     [
       "How to take a photo with scotch tape (lensless imaging) [video]",
       "https://www.youtube.com/watch?v=97f0nfU5Px0"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 16:22:24",
-      "https://news.ycombinator.com/item?id=47036921"
-    ],
-    [
-      "History of AT&T Long Lines",
-      "https://telephoneworld.org/long-distance-companies/att-long-distance-network/history-of-att-long-lines/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-02-14, 11:07:08",
-      "https://news.ycombinator.com/item?id=47013556"
-    ],
-    [
-      "Chiplets Get Physical: The Days of Mix-and-Match Silicon Draw Nigh",
-      "https://www.eejournal.com/article/chiplets-get-physical-the-days-of-mix-and-match-silicon-draw-nigh/"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 04:24:18",
       "https://news.ycombinator.com/item?id=47011548"
     ],
     [
       "Ghidra by NSA",
       "https://github.com/NationalSecurityAgency/ghidra"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 14:21:41",
+      "https://news.ycombinator.com/item?id=47003071"
+    ],
+    [
+      "What every compiler writer should know about programmers (Anton Ertl, 2015) [pdf]",
+      "https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-02-11, 17:28:21",
-      "https://news.ycombinator.com/item?id=46977901"
+      "2026-02-13, 09:17:54",
+      "https://news.ycombinator.com/item?id=47000708"
     ],
     [
-      "Camera that captures photos to cassette tape",
-      "https://hackaday.io/project/205004-digital-analog-tape-picture-camera"
+      "Hear the \"Amati King Cello\", the Oldest Known Cello in Existence",
+      "https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html"
     ]
   ]
 ]
