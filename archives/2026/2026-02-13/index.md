@@ -22,6 +22,7 @@
 * [2026-02-13, 20:27:37](https://news.ycombinator.com/item?id=47007406) - [The Professor of the Lower Senses](https://www.vittlesmagazine.com/p/the-professor-of-the-lower-senses)
 * [2026-02-13, 20:21:23](https://news.ycombinator.com/item?id=47007331) - [Labyrinth Locator](https://labyrinthlocator.org/)
 * [2026-02-13, 20:16:31](https://news.ycombinator.com/item?id=47007259) - [Something Big Is (Not) Happening](https://www.aricolaprete.com/2026/02/something-big-is-not-happening.html)
+* [2026-02-13, 20:05:27](https://news.ycombinator.com/item?id=47007117) - [Physicists Make Electrons Flow Like Water](https://www.quantamagazine.org/physicists-make-electrons-flow-like-water-20260211/)
 * [2026-02-13, 19:41:42](https://news.ycombinator.com/item?id=47006843) - [The Scott Shambaugh Situation Clarifies How Dumb We Are Acting](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 * [2026-02-13, 19:33:16](https://news.ycombinator.com/item?id=47006738) - [11.8M EU citizens pay taxes to governments they cannot vote for](https://homolova.sk/missingvoters/)
 * [2026-02-13, 19:22:18](https://news.ycombinator.com/item?id=47006615) - [Breaking the spell of vibe coding](https://www.fast.ai/posts/2026-01-28-dark-flow/)
