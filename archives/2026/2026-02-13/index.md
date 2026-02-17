@@ -20,6 +20,7 @@
 * [2026-02-13, 20:52:11](https://news.ycombinator.com/item?id=47007656) - [The EU moves to kill infinite scrolling](https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/)
 * [2026-02-13, 20:44:08](https://news.ycombinator.com/item?id=47007584) - [Ask HN: Are there examples of 3D printing data onto physical surfaces?](https://news.ycombinator.com/item?id=47007584)
 * [2026-02-13, 20:27:37](https://news.ycombinator.com/item?id=47007406) - [The Professor of the Lower Senses](https://www.vittlesmagazine.com/p/the-professor-of-the-lower-senses)
+* [2026-02-13, 20:21:23](https://news.ycombinator.com/item?id=47007331) - [Labyrinth Locator](https://labyrinthlocator.org/)
 * [2026-02-13, 20:16:31](https://news.ycombinator.com/item?id=47007259) - [Something Big Is (Not) Happening](https://www.aricolaprete.com/2026/02/something-big-is-not-happening.html)
 * [2026-02-13, 19:41:42](https://news.ycombinator.com/item?id=47006843) - [The Scott Shambaugh Situation Clarifies How Dumb We Are Acting](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 * [2026-02-13, 19:33:16](https://news.ycombinator.com/item?id=47006738) - [11.8M EU citizens pay taxes to governments they cannot vote for](https://homolova.sk/missingvoters/)
