@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-02-17, 05:53:31",
+      "https://news.ycombinator.com/item?id=47044179"
+    ],
+    [
+      "Xbox UI Portfolio Site",
+      "https://gabrielcabrera.co/"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 02:13:37",
       "https://news.ycombinator.com/item?id=47042895"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2026-02-16, 21:15:56",
-      "https://news.ycombinator.com/item?id=47040430"
-    ],
-    [
-      "SkillsBench: Benchmarking how well agent skills work across diverse tasks",
-      "https://arxiv.org/abs/2602.12670"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 21:12:07",
       "https://news.ycombinator.com/item?id=47040390"
     ],
@@ -117,16 +117,6 @@
     [
       "Turing Labs (YC W20) Is Hiring – Founding GTM Sales Hacker",
       "https://news.ycombinator.com/item?id=47040268"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 20:23:36",
-      "https://news.ycombinator.com/item?id=47039834"
-    ],
-    [
-      "Testing Postgres race conditions with synchronization barriers",
-      "https://www.lirbank.com/harnessing-postgres-race-conditions"
     ]
   ],
   [
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2026-02-16, 18:31:19",
-      "https://news.ycombinator.com/item?id=47038411"
-    ],
-    [
-      "LCM: Lossless Context Management [pdf]",
-      "http://papers.voltropy.com/LCM"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 18:23:36",
       "https://news.ycombinator.com/item?id=47038318"
     ],
@@ -197,6 +177,16 @@
     [
       "Evaluating AGENTS.md: are they helpful for coding agents?",
       "https://arxiv.org/abs/2602.11988"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 11:57:01",
+      "https://news.ycombinator.com/item?id=47033954"
+    ],
+    [
+      "Show HN: Glitchy camera – a circuit-bent camera simulator in the browser",
+      "https://glitchycam.com"
     ]
   ],
   [
@@ -271,6 +261,26 @@
   ],
   [
     [
+      "2026-02-13, 20:27:37",
+      "https://news.ycombinator.com/item?id=47007406"
+    ],
+    [
+      "The Professor of the Lower Senses",
+      "https://www.vittlesmagazine.com/p/the-professor-of-the-lower-senses"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 16:43:50",
+      "https://news.ycombinator.com/item?id=47004712"
+    ],
+    [
+      "Show HN: I built a tool to un-dumb Claude Code's CLI output (Local Log Viewer)",
+      "https://github.com/matt1398/claude-devtools"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 12:59:33",
       "https://news.ycombinator.com/item?id=47002231"
     ],
@@ -287,16 +297,6 @@
     [
       "Hear the \"Amati King Cello\", the Oldest Known Cello in Existence",
       "https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 15:51:07",
-      "https://news.ycombinator.com/item?id=46990308"
-    ],
-    [
-      "Portable 1MV X-ray system combines Cockcroft–Walton with Van de Graaff dome",
-      "https://www.lanl.gov/media/publications/1663/0624-x-rays-light"
     ]
   ]
 ]
