@@ -25,6 +25,7 @@
 * [2026-02-13, 19:33:16](https://news.ycombinator.com/item?id=47006738) - [11.8M EU citizens pay taxes to governments they cannot vote for](https://homolova.sk/missingvoters/)
 * [2026-02-13, 19:22:18](https://news.ycombinator.com/item?id=47006615) - [Breaking the spell of vibe coding](https://www.fast.ai/posts/2026-01-28-dark-flow/)
 * [2026-02-13, 19:20:12](https://news.ycombinator.com/item?id=47006594) - [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)
+* [2026-02-13, 19:19:45](https://news.ycombinator.com/item?id=47006587) - [Show HN: GitHub \"Lines Viewed\" extension to keep you sane reviewing long AI PRs](https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi)
 * [2026-02-13, 19:13:04](https://news.ycombinator.com/item?id=47006513) - [Why I'm not worried about AI job loss](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 * [2026-02-13, 19:02:17](https://news.ycombinator.com/item?id=47006393) - [Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs](https://cloudrouter.dev/)
 * [2026-02-13, 18:56:38](https://news.ycombinator.com/item?id=47006316) - [Age of Empires: 25 years of pathfinding problems with C++ [video]](https://www.youtube.com/watch?v=lEBQveBCtKY)
