@@ -1,22 +1,172 @@
 [
   [
     [
+      "2026-02-17, 17:08:14",
+      "https://news.ycombinator.com/item?id=47049848"
+    ],
+    [
+      "Show HN: Continue – Source-controlled AI checks, enforceable in CI",
+      "https://docs.continue.dev"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 17:07:59",
+      "https://news.ycombinator.com/item?id=47049845"
+    ],
+    [
+      "Chess engines do weird stuff",
+      "https://girl.surgery/chess"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 17:03:09",
+      "https://news.ycombinator.com/item?id=47049776"
+    ],
+    [
+      "Launch HN: Sonarly (YC W26) – AI agent to triage and fix your production alerts",
+      "https://sonarly.com/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 17:01:15",
+      "https://news.ycombinator.com/item?id=47049744"
+    ],
+    [
+      "Trata (YC W25) Is Hiring Founding Engineers (NYC)",
+      "https://news.ycombinator.com/item?id=47049744"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 17:01:08",
+      "https://news.ycombinator.com/item?id=47049743"
+    ],
+    [
+      "Show HN: 6cy – Experimental streaming archive format with per-block codecs",
+      "https://github.com/byte271/6cy"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 16:59:34",
+      "https://news.ycombinator.com/item?id=47049718"
+    ],
+    [
+      "So You Want to Build a Tunnel",
+      "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 16:57:36",
+      "https://news.ycombinator.com/item?id=47049690"
+    ],
+    [
+      "Most people are individually optimistic, but think the world is falling apart",
+      "https://hannahritchie.substack.com/p/many-people-are-individually-optimistic"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 16:53:05",
+      "https://news.ycombinator.com/item?id=47049628"
+    ],
+    [
+      "Async/Await on the GPU",
+      "https://www.vectorware.com/blog/async-await-on-gpu/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 16:48:43",
+      "https://news.ycombinator.com/item?id=47049573"
+    ],
+    [
+      "HackMyClaw",
+      "https://hackmyclaw.com/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 16:45:06",
+      "https://news.ycombinator.com/item?id=47049520"
+    ],
+    [
+      "Show HN: I built a simulated AI containment terminal for my sci-fi novel",
+      "https://vertex.flowlogix.ai"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 16:42:35",
+      "https://news.ycombinator.com/item?id=47049479"
+    ],
+    [
+      "Using go fix to modernize Go code",
+      "https://go.dev/blog/gofix"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 16:37:41",
+      "https://news.ycombinator.com/item?id=47049426"
+    ],
+    [
+      "CBS didn't air Rep. James Talarico interview out of fear of FCC",
+      "https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 16:22:49",
+      "https://news.ycombinator.com/item?id=47049227"
+    ],
+    [
+      "Show HN: I taught LLMs to play Magic: The Gathering against each other",
+      "https://mage-bench.com/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 16:12:29",
+      "https://news.ycombinator.com/item?id=47049088"
+    ],
+    [
+      "Semantic ablation: Why AI writing is generic and boring",
+      "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 15:47:46",
+      "https://news.ycombinator.com/item?id=47048790"
+    ],
+    [
+      "Show HN: Cycast – High-performance radio streaming server written in Python",
+      "https://github.com/LukeB42/Cycast"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 15:43:39",
+      "https://news.ycombinator.com/item?id=47048733"
+    ],
+    [
+      "Show HN: I wrote a technical history book on Lisp",
+      "https://berksoft.ca/gol/"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 15:36:46",
       "https://news.ycombinator.com/item?id=47048633"
     ],
     [
       "Show HN: Price Per Ball – Site that sorts golf balls on Amazon by price per ball",
       "https://priceperball.net/"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 15:04:18",
-      "https://news.ycombinator.com/item?id=47048248"
-    ],
-    [
-      "America's Pensions Can't Beat Vanguard but They Can Close Your Hospital",
-      "https://www.governance.fyi/p/americas-pensions-cant-beat-a-vanguard"
     ]
   ],
   [
@@ -31,12 +181,12 @@
   ],
   [
     [
-      "2026-02-17, 13:47:56",
-      "https://news.ycombinator.com/item?id=47047443"
+      "2026-02-17, 10:29:14",
+      "https://news.ycombinator.com/item?id=47045804"
     ],
     [
-      "Undo in Vi and Its Successors",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews"
+      "Is Show HN dead? No, but it's drowning",
+      "https://www.arthurcnops.blog/death-of-show-hn/"
     ]
   ],
   [
@@ -61,72 +211,12 @@
   ],
   [
     [
-      "2026-02-17, 02:13:37",
-      "https://news.ycombinator.com/item?id=47042895"
-    ],
-    [
-      "Poor Deming never stood a chance",
-      "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 23:40:33",
-      "https://news.ycombinator.com/item?id=47041836"
-    ],
-    [
-      "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
-      "https://forestrydiary.com/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 22:53:02",
-      "https://news.ycombinator.com/item?id=47041456"
-    ],
-    [
-      "Running NanoClaw in a Docker Shell Sandbox",
-      "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 21:24:04",
       "https://news.ycombinator.com/item?id=47040524"
     ],
     [
       "Rise of the Triforce",
       "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 21:10:44",
-      "https://news.ycombinator.com/item?id=47040375"
-    ],
-    [
-      "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
-      "https://github.com/zachlatta/freeflow"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 19:55:23",
-      "https://news.ycombinator.com/item?id=47039478"
-    ],
-    [
-      "State of Show HN: 2025",
-      "https://blog.sturdystatistics.com/posts/show_hn/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 18:54:37",
-      "https://news.ycombinator.com/item?id=47038731"
-    ],
-    [
-      "Neurons outside the brain",
-      "https://essays.debugyourpain.com/p/you-are-not-just-your-brain"
     ]
   ],
   [
@@ -141,42 +231,12 @@
   ],
   [
     [
-      "2026-02-16, 18:23:36",
-      "https://news.ycombinator.com/item?id=47038318"
-    ],
-    [
-      "\"Token anxiety\", a slot machine by any other name",
-      "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 14:39:32",
-      "https://news.ycombinator.com/item?id=47035560"
-    ],
-    [
-      "What your Bluetooth devices reveal",
-      "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 11:57:01",
       "https://news.ycombinator.com/item?id=47033954"
     ],
     [
       "Show HN: Glitchy camera – a circuit-bent camera simulator in the browser",
       "https://glitchycam.com"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 05:53:03",
-      "https://news.ycombinator.com/item?id=47031334"
-    ],
-    [
-      "Show HN: Jemini – Gemini for the Epstein Files",
-      "https://jmail.world/jemini"
     ]
   ],
   [
@@ -211,26 +271,6 @@
   ],
   [
     [
-      "2026-02-14, 15:41:59",
-      "https://news.ycombinator.com/item?id=47015342"
-    ],
-    [
-      "A Programmer's Loss of Identity",
-      "https://ratfactor.com/tech-nope2"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 12:18:04",
-      "https://news.ycombinator.com/item?id=47014002"
-    ],
-    [
-      "A deep dive into Apple's .car file format",
-      "https://dbg.re/posts/car-file-format/"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 08:56:46",
       "https://news.ycombinator.com/item?id=47012895"
     ],
@@ -241,42 +281,12 @@
   ],
   [
     [
-      "2026-02-14, 07:35:41",
-      "https://news.ycombinator.com/item?id=47012486"
+      "2026-02-13, 20:21:23",
+      "https://news.ycombinator.com/item?id=47007331"
     ],
     [
-      "DBASE on the Kaypro II",
-      "https://stonetools.ghost.io/dbase-cpm/"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 04:24:18",
-      "https://news.ycombinator.com/item?id=47011548"
-    ],
-    [
-      "Ghidra by NSA",
-      "https://github.com/NationalSecurityAgency/ghidra"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 19:19:45",
-      "https://news.ycombinator.com/item?id=47006587"
-    ],
-    [
-      "Show HN: GitHub \"Lines Viewed\" extension to keep you sane reviewing long AI PRs",
-      "https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 16:37:22",
-      "https://news.ycombinator.com/item?id=47004629"
-    ],
-    [
-      "How teaching molecules to think is revealing what a 'mind' is",
-      "https://www.newscientist.com/article/2513815-how-teaching-molecules-to-think-is-revealing-what-a-mind-really-is/"
+      "Labyrinth Locator",
+      "https://labyrinthlocator.org/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Visual introduction to PyTorch",
       "https://0byte.io/articles/pytorch_introduction.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 09:17:54",
-      "https://news.ycombinator.com/item?id=47000708"
-    ],
-    [
-      "Hear the \"Amati King Cello\", the Oldest Known Cello in Existence",
-      "https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html"
     ]
   ]
 ]
