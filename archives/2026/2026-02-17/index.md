@@ -1,0 +1,10 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-02-17](index.md)
+
+* [2026-02-17, 02:05:34](https://news.ycombinator.com/item?id=47042837) - [Facing a demographic catastrophe, Ukraine is paying for troops to freeze sperm](https://www.bbc.com/news/articles/cqxd9549y4xo)
+* [2026-02-17, 01:01:00](https://news.ycombinator.com/item?id=47042396) - [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
+* [2026-02-17, 00:26:20](https://news.ycombinator.com/item?id=47042136) - [AI is destroying Open Source, and it's not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+* [2026-02-17, 00:00:03](https://news.ycombinator.com/item?id=47041973) - [Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/)
