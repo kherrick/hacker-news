@@ -26,6 +26,7 @@
 * [2026-02-14, 16:07:44](https://news.ycombinator.com/item?id=47015579) - [A Review of M Disc Archival Capability. With long term testing results](http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html)
 * [2026-02-14, 15:49:56](https://news.ycombinator.com/item?id=47015406) - [Platforms bend over backward to help DHS censor ICE critics, advocates say](https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/)
 * [2026-02-14, 15:42:26](https://news.ycombinator.com/item?id=47015345) - [Switzerland to Vote on Capping Population at 10M](https://www.nytimes.com/2026/02/11/world/europe/switzerland-to-vote-on-capping-population-at-10-million.html)
+* [2026-02-14, 15:41:59](https://news.ycombinator.com/item?id=47015342) - [A Programmer's Loss of Identity](https://ratfactor.com/tech-nope2)
 * [2026-02-14, 15:39:43](https://news.ycombinator.com/item?id=47015330) - [Vim 9.2 Released](https://www.vim.org/vim-9.2-released.php)
 * [2026-02-14, 15:35:47](https://news.ycombinator.com/item?id=47015294) - [My smart sleep mask broadcasts users' brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/)
 * [2026-02-14, 15:10:23](https://news.ycombinator.com/item?id=47015084) - [Homeland Security has sent out subpoenas to identify ICE critics](https://www.engadget.com/big-tech/homeland-security-has-reportedly-sent-out-hundreds-of-subpoenas-to-identify-ice-critics-online-135245457.html)
