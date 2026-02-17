@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-17](index.md)
 
+* [2026-02-17, 20:15:57](https://news.ycombinator.com/item?id=47052674) - [Show HN: I'm launching a LPFM radio station](https://www.kpbj.fm/)
+* [2026-02-17, 19:35:09](https://news.ycombinator.com/item?id=47052007) - [Meta to retire messenger desktop app and messenger.com in April 2026](https://dzrh.com.ph/post/meta-to-retire-messenger-desktop-app-and-messengercom-in-april-2026-users-shift-to-web-and-mobile-platforms)
+* [2026-02-17, 19:31:45](https://news.ycombinator.com/item?id=47051956) - [An AI Agent Published a Hit Piece on Me – Forensics and More Fallout](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
 * [2026-02-17, 19:24:55](https://news.ycombinator.com/item?id=47051852) - [Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway](https://asteroidos.org/news/2-0-release/index.html)
 * [2026-02-17, 19:20:46](https://news.ycombinator.com/item?id=47051793) - [Stephen Colbert says CBS forbid interview of Democrat because of FCC threat](https://arstechnica.com/tech-policy/2026/02/stephen-colbert-says-cbs-forbid-interview-of-democrat-because-of-fcc-threat/)
 * [2026-02-17, 19:07:09](https://news.ycombinator.com/item?id=47051603) - [Russia's economy has entered the death zone](https://www.economist.com/by-invitation/2026/02/16/russias-economy-has-entered-the-death-zone)
