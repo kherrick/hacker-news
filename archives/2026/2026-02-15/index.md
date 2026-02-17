@@ -41,6 +41,7 @@
 * [2026-02-15, 14:29:03](https://news.ycombinator.com/item?id=47023959) - [The Dark Side of the Enlightenment](https://www.newstatesman.com/culture/books/2026/02/the-dark-side-of-the-enlightenment)
 * [2026-02-15, 13:48:44](https://news.ycombinator.com/item?id=47023633) - [Kimi Claw](https://www.kimi.com/bot)
 * [2026-02-15, 13:02:20](https://news.ycombinator.com/item?id=47023333) - [Show HN: Perlin Noise Terminal Animation in Rust (60 FPS, Truecolor)](https://github.com/denisepattenson/perlin-terminal)
+* [2026-02-15, 12:49:22](https://news.ycombinator.com/item?id=47023273) - [After 800 episodes, 'The Simpsons' creators look back and ahead](https://apnews.com/article/simpsons-800-episodes-72d723e6d885b1944c9a1ec8b9a24c3a)
 * [2026-02-15, 12:42:17](https://news.ycombinator.com/item?id=47023238) - [Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State](https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly)
 * [2026-02-15, 11:37:29](https://news.ycombinator.com/item?id=47022943) - [Reversed engineered game Starflight (1986)](https://github.com/s-macke/starflight-reverse)
 * [2026-02-15, 11:25:26](https://news.ycombinator.com/item?id=47022891) - [I Fixed Windows Native Development](https://marler8997.github.io/blog/fixed-windows/)

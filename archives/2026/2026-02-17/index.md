@@ -6,6 +6,7 @@
 
 * [2026-02-17, 21:50:23](https://news.ycombinator.com/item?id=47053912) - [America's Future Leaders Are Learning to Become Grifters](https://www.robkhenderson.com/p/americas-future-leaders-are-learning)
 * [2026-02-17, 21:43:46](https://news.ycombinator.com/item?id=47053835) - [Dolphin Emulator – Rise of the Triforce](https://br.dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/?cr=br)
+* [2026-02-17, 21:11:28](https://news.ycombinator.com/item?id=47053410) - [Approaches to writing two-sentence journal entries](https://alexanderbjoy.com/two-sentence-journal-approaches/)
 * [2026-02-17, 21:00:30](https://news.ycombinator.com/item?id=47053267) - [Structured AI (YC F25) Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern)
 * [2026-02-17, 20:35:18](https://news.ycombinator.com/item?id=47052941) - [BarraCUDA Open-source CUDA compiler targeting AMD GPUs](https://github.com/Zaneham/BarraCUDA)
 * [2026-02-17, 20:15:57](https://news.ycombinator.com/item?id=47052674) - [Show HN: I'm launching a LPFM radio station](https://www.kpbj.fm/)
@@ -26,6 +27,7 @@
 * [2026-02-17, 17:21:04](https://news.ycombinator.com/item?id=47050067) - [Gentoo on Codeberg](https://www.gentoo.org/news/2026/02/16/codeberg.html)
 * [2026-02-17, 17:08:14](https://news.ycombinator.com/item?id=47049848) - [Show HN: Continue – Source-controlled AI checks, enforceable in CI](https://docs.continue.dev)
 * [2026-02-17, 17:07:59](https://news.ycombinator.com/item?id=47049845) - [Chess engines do weird stuff](https://girl.surgery/chess)
+* [2026-02-17, 17:06:18](https://news.ycombinator.com/item?id=47049824) - [Thank HN: You helped save 33k lives](https://news.ycombinator.com/item?id=47049824)
 * [2026-02-17, 17:03:09](https://news.ycombinator.com/item?id=47049776) - [Launch HN: Sonarly (YC W26) – AI agent to triage and fix your production alerts](https://sonarly.com/)
 * [2026-02-17, 17:01:15](https://news.ycombinator.com/item?id=47049744) - [Trata (YC W25) Is Hiring Founding Engineers (NYC)](https://news.ycombinator.com/item?id=47049744)
 * [2026-02-17, 17:01:08](https://news.ycombinator.com/item?id=47049743) - [Show HN: 6cy – Experimental streaming archive format with per-block codecs](https://github.com/byte271/6cy)
