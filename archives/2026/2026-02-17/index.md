@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-17](index.md)
 
+* [2026-02-17, 15:36:46](https://news.ycombinator.com/item?id=47048633) - [Show HN: Price Per Ball – Site that sorts golf balls on Amazon by price per ball](https://priceperball.net/)
+* [2026-02-17, 15:04:18](https://news.ycombinator.com/item?id=47048248) - [America's Pensions Can't Beat Vanguard but They Can Close Your Hospital](https://www.governance.fyi/p/americas-pensions-cant-beat-a-vanguard)
+* [2026-02-17, 14:43:14](https://news.ycombinator.com/item?id=47048004) - [I converted 2D conventional flight tracking into 3D](https://aeris.edbn.me/?city=SFO)
 * [2026-02-17, 13:57:19](https://news.ycombinator.com/item?id=47047526) - [Why I'm Worried About Job Loss and Thoughts on Comparative Advantage](https://www.lesswrong.com/posts/YPJHkciv6ysgsSiJC/why-i-m-worried-about-job-loss-thoughts-on-comparative)
 * [2026-02-17, 13:47:56](https://news.ycombinator.com/item?id=47047443) - [Undo in Vi and Its Successors](https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews)
 * [2026-02-17, 10:52:17](https://news.ycombinator.com/item?id=47045982) - [The Rev. Jesse Jackson, pioneering civil rights activist, dies at 84](https://www.cnn.com/2026/02/17/us/reverend-jesse-jackson-death)
