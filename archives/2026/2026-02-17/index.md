@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-17](index.md)
 
+* [2026-02-17, 22:40:11](https://news.ycombinator.com/item?id=47054464) - [pg_background: Make Postgres do the long work (while your session stays light)](https://vibhorkumar.wordpress.com/2026/02/16/pg_background-make-postgres-do-the-long-work-while-your-session-stays-light/)
+* [2026-02-17, 22:10:22](https://news.ycombinator.com/item?id=47054134) - [I swear the UFO is coming any minute](https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute)
 * [2026-02-17, 21:50:23](https://news.ycombinator.com/item?id=47053912) - [America's Future Leaders Are Learning to Become Grifters](https://www.robkhenderson.com/p/americas-future-leaders-are-learning)
 * [2026-02-17, 21:43:46](https://news.ycombinator.com/item?id=47053835) - [Dolphin Emulator – Rise of the Triforce](https://br.dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/?cr=br)
 * [2026-02-17, 21:11:28](https://news.ycombinator.com/item?id=47053410) - [Approaches to writing two-sentence journal entries](https://alexanderbjoy.com/two-sentence-journal-approaches/)
@@ -47,6 +49,7 @@
 * [2026-02-17, 14:43:14](https://news.ycombinator.com/item?id=47048004) - [I converted 2D conventional flight tracking into 3D](https://aeris.edbn.me/?city=SFO)
 * [2026-02-17, 13:57:19](https://news.ycombinator.com/item?id=47047526) - [Why I'm Worried About Job Loss and Thoughts on Comparative Advantage](https://www.lesswrong.com/posts/YPJHkciv6ysgsSiJC/why-i-m-worried-about-job-loss-thoughts-on-comparative)
 * [2026-02-17, 13:47:56](https://news.ycombinator.com/item?id=47047443) - [Undo in Vi and Its Successors](https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews)
+* [2026-02-17, 13:31:45](https://news.ycombinator.com/item?id=47047301) - [Show HN: I built the Million Dollar Homepage for agents](https://onemillionpixels.ai/)
 * [2026-02-17, 10:52:17](https://news.ycombinator.com/item?id=47045982) - [The Rev. Jesse Jackson, pioneering civil rights activist, dies at 84](https://www.cnn.com/2026/02/17/us/reverend-jesse-jackson-death)
 * [2026-02-17, 10:29:14](https://news.ycombinator.com/item?id=47045804) - [Is Show HN Dead? No, but It's Drowning](https://www.arthurcnops.blog/death-of-show-hn/)
 * [2026-02-17, 10:02:36](https://news.ycombinator.com/item?id=47045612) - [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
