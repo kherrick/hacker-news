@@ -129,6 +129,570 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47049848">
+          <h3>
+            <a class="item" href="https://docs.continue.dev"
+              >Show HN: Continue – Source-controlled AI checks, enforceable in
+              CI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 17:08:14</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47049848"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Continue (<a href="https://docs.continue.dev"
+                  >https://docs.continue.dev</a
+                >) runs AI checks on every PR. Each check is a source-controlled
+                markdown file in `.continue/checks/` that shows up as a GitHub
+                status check. They run as full agents, not just reading the
+                diff, but able to read/write files, run bash commands, and use a
+                browser. If it finds something, the check fails with one click
+                to accept a diff. Otherwise, it passes silently.
+              </p>
+              <p>Here’s one of ours:</p>
+              <p></p>
+              <pre><code>  .continue/checks/metrics-integrity.md
+
+  ---
+  name: Metrics Integrity
+  description: Detects changes that could inflate, deflate, or corrupt metrics (session counts, event accuracy, etc.)
+  ---
+
+  Review this PR for changes that could unintentionally distort metrics.
+  These bugs are insidious because they corrupt dashboards without triggering errors or test failures.
+
+  Check for:
+  - "Find or create" patterns where the "find" is too narrow, causing entity duplication (e.g. querying only active sessions, missing completed ones, so every new commit creates a duplicate)
+  - Event tracking calls inside loops or retry paths that fire multiple times per logical action
+  - Refactors that accidentally remove or move tracking calls to a path that executes with different frequency
+
+  Key files: anything containing `posthog.capture` or `trackEvent`
+
+</code></pre>
+              This check passed without noise for weeks, but then caught a PR
+              that would have silently deflated our session counts. We added it
+              in the first place because we’d been burned in the past by bad
+              data, only noticing when a dashboard looked off.
+              <p>---</p>
+              <p>
+                To get started, paste this into Claude Code or your coding agent
+                of choice:
+              </p>
+              <p></p>
+              <pre><code>  Help me write checks for this codebase: https://continue.dev/walkthrough
+</code></pre>
+              It will:
+              <p>
+                - Explore the codebase and use the `gh` CLI to read past review
+                comments
+              </p>
+              <p>- Write checks to `.continue/checks/`</p>
+              <p>- Optionally, show you how to run them locally or in CI</p>
+              <p>Would love your feedback!</p>
+            </div>
+          </section>
+        </section>
+        <section id="47049845">
+          <h3>
+            <a class="item" href="https://girl.surgery/chess"
+              >Chess engines do weird stuff</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 17:07:59</span
+              ><span class="points-container"
+                >Points: <span class="points">56</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47049845"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+            <div class="text">
+              <a
+                href="https://cosmo.tardis.ac/files/2026-02-12-az-rl-and-spsa.html"
+                >https://cosmo.tardis.ac/files/2026-02-12-az-rl-and-spsa.html</a
+              >
+            </div>
+          </section>
+        </section>
+        <section id="47049776">
+          <h3>
+            <a class="item" href="https://sonarly.com/"
+              >Launch HN: Sonarly (YC W26) – AI agent to triage and fix your
+              production alerts</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 17:03:09</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47049776"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://sonarly.com">https://sonarly.com</a>), an AI
+              engineer for production. It connects to your observability tools
+              like Sentry, Datadog, or user feedback channels, triages issues,
+              and fixes them to cut your resolution time. Here's a demo:
+              <a href="https://www.youtube.com/watch?v=rr3VHv0eRdw"
+                >https://www.youtube.com/watch?v=rr3VHv0eRdw</a
+              >.
+              <p>
+                Sonarly is really about removing the noise from production
+                alerts by grouping duplicates and returning a root cause
+                analysis to save time to on-call engineers and literally cut
+                your MTTR.
+              </p>
+              <p>
+                Before starting this company, my co-founder and I had a B2C app
+                in edtech and had, some days, thousands of users using the app.
+                We pushed several times a day, relying on user feedback. Then we
+                set up Sentry, it was catching a lot of bugs, but we had up to
+                50 alerts a day. With 2 people it's a lot. We took a lot of time
+                filtering the noise to find the real signal so we knew which bug
+                to focus on.
+              </p>
+              <p>
+                At the same time, we saw how important it is to fix a bug fast
+                when it hits users. A bug means in the worst case a churn and at
+                best a frustrated user. And there are always bugs in production,
+                due to code errors, database mismatches, infrastructure
+                overload, and many issues are linked to a specific user
+                behavior. You can't catch all these beforehand, even with E2E
+                tests or AI code reviews (which catch a lot of bugs but
+                obviously not all, plus it takes time to run at each
+                deployment). This is even more true with vibe-coding (or agentic
+                engineering).
+              </p>
+              <p>
+                We started Sonarly with this idea. More software than ever is
+                being built and users should have the best experience possible
+                on every product. The main idea of Sonarly is to reduce the MTTR
+                (Mean Time To Repair).
+              </p>
+              <p>
+                We started by recreating a Sentry-like tool but without the
+                noise, using only text and session replays as the interface. We
+                built our own frontend tracker (based on open-source rrweb) and
+                used the backend Sentry SDK (open source as well). Companies
+                could just add another tracker in the frontend and add a DSN in
+                their Sentry config to send data to us in addition to Sentry.
+              </p>
+              <p>
+                We wanted to build an interface where you don't need to check
+                logs, dashboards, traces, metrics, and code, as the agent would
+                do it for you with plain English to explain the "what," "why,"
+                and "how do I fix it."
+              </p>
+              <p>
+                We quickly realized companies don't want to add a new tracker or
+                change their monitoring stack, as these platforms do the job
+                they're supposed to do. So we decided to build above them. Now
+                we connect to tools like Sentry, Datadog, Slack user feedback
+                channels, and other integrations.
+              </p>
+              <p>
+                Claude Code is so good at writing code, but handling runtime
+                issues requires more than just raw coding ability. It demands
+                deep runtime context, immediate reactivity, and intelligent
+                triage, you can’t simply pipe every alert directly into an
+                agent. That’s why our first step is converting noise into
+                signal. We group duplicates and filter false positives to
+                isolate clear issues. Once we have a confirmed signal, we
+                trigger Claude Code with the exact context it needs, like the
+                specific Sentry issue and relevant logs fetched via MCP (mostly
+                using grep on Datadog/Grafana). However, things get
+                exponentially harder with multi-repo and multi-service
+                architectures.
+              </p>
+              <p>
+                So we built an internal map of the production system that is
+                basically a .md file updated dynamically. It shows every link
+                between different services, logs, and metrics so that Claude
+                Code can understand the issue faster.
+              </p>
+              <p>
+                One of our users using Sentry was receiving ~180 alerts/day.
+                Here is what their workflow looked like:
+              </p>
+              <p>- Receive the alert</p>
+              <p>
+                - 1) Defocus from their current task or wake up, or 2) don't
+                look at the alert at all (most of the time)
+              </p>
+              <p>
+                - Go check dashboards to find the root cause (if infra type) or
+                read the stack trace, events, etc.
+              </p>
+              <p>
+                - Try to figure out if it was a false positive or a real problem
+                (or a known problem already in the fixes pipeline)
+              </p>
+              <p>- Then fix by giving Claude Code the correct context</p>
+              <p>
+                We started by cutting the noise and went from 180/day to 50/day
+                (by grouping issues) and giving a severity based on the impact
+                on the user/infra. This brings it down to 5 issues to focus on
+                in the current day. Triage happens in 3 steps: deduplicating
+                before triggering a coding agent, gathering the root cause for
+                each alert, and re-grouping by RCA.
+              </p>
+              <p>
+                We launched self-serve (<a href="https://sonarly.com"
+                  >https://sonarly.com</a
+                >) and we would love to have feedback from engineers. Especially
+                curious about your current workflows when you receive an alert
+                from any of these channels like Sentry (error tracking), Datadog
+                (APM), or user feedback. How do you assign who should fix it?
+                Where do you take your context from to fix the issue? Do you
+                have any automated workflow to fix every bug, and do you have
+                anything you use currently to filter the noise from alerts?
+              </p>
+              <p>
+                We have a large free tier as we mainly want feedback. You can
+                self-serve under 2 min. I'll be in the thread with my co-founder
+                to answer your questions, give more technical details, and take
+                your feedback: positive, negative, brutal, everything's
+                constructive!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47049744">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=47049744"
+              >Trata (YC W25) Is Hiring Founding Engineers (NYC)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 17:01:15</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We are onboarding 1-2 funds a day and recently took in more
+                money at a mark up from existing and new investors.
+              </p>
+              <p>
+                Join us-
+                <a
+                  href="https://www.ycombinator.com/companies/trata/jobs/FTbjpSQ-founding-engineer"
+                  >https://www.ycombinator.com/companies/trata/jobs/FTbjpSQ-fou...</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47049743">
+          <h3>
+            <a class="item" href="https://github.com/byte271/6cy"
+              >Show HN: 6cy – Experimental streaming archive format with
+              per-block codecs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 17:01:08</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47049743"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I’ve been experimenting with archive format design and built 6cy
+                as a research project.
+              </p>
+              <p>
+                The goal is not to replace zip/7z, but to explore: • block-level
+                codec polymorphism (different compression per block) •
+                streaming-first layout (no global seek required) • better crash
+                recovery characteristics • plugin-based architecture so
+                proprietary codecs can exist without changing the format
+              </p>
+              <p>
+                Right now this is an experimental v0.x format. The specification
+                may still change and compatibility is not guaranteed yet.
+              </p>
+              <p>
+                I’m mainly looking for feedback on the format design rather than
+                performance comparisons.
+              </p>
+              <p>Thanks for taking a look.</p>
+            </div>
+          </section>
+        </section>
+        <section id="47049718">
+          <h3>
+            <a
+              class="item"
+              href="https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel"
+              >So You Want to Build a Tunnel</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 16:59:34</span
+              ><span class="points-container"
+                >Points: <span class="points">43</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47049718"
+                  >Comments</a
+                ><span class="descendants">: 17</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47049690">
+          <h3>
+            <a
+              class="item"
+              href="https://hannahritchie.substack.com/p/many-people-are-individually-optimistic"
+              >Most people are individually optimistic, but think the world is
+              falling apart</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 16:57:36</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47049690"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47049628">
+          <h3>
+            <a
+              class="item"
+              href="https://www.vectorware.com/blog/async-await-on-gpu/"
+              >Async/Await on the GPU</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 16:53:05</span
+              ><span class="points-container"
+                >Points: <span class="points">56</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47049628"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47049573">
+          <h3><a class="item" href="https://hackmyclaw.com/">HackMyClaw</a></h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 16:48:43</span
+              ><span class="points-container"
+                >Points: <span class="points">137</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47049573"
+                  >Comments</a
+                ><span class="descendants">: 67</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47049520">
+          <h3>
+            <a class="item" href="https://vertex.flowlogix.ai"
+              >Show HN: I built a simulated AI containment terminal for my
+              sci-fi novel</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 16:45:06</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47049520"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47049479">
+          <h3>
+            <a class="item" href="https://go.dev/blog/gofix"
+              >Using go fix to modernize Go code</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 16:42:35</span
+              ><span class="points-container"
+                >Points: <span class="points">67</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47049479"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47049426">
+          <h3>
+            <a
+              class="item"
+              href="https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341"
+              >CBS didn't air Rep. James Talarico interview out of fear of
+              FCC</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 16:37:41</span
+              ><span class="points-container"
+                >Points: <span class="points">306</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47049426"
+                  >Comments</a
+                ><span class="descendants">: 135</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47049227">
+          <h3>
+            <a class="item" href="https://mage-bench.com/"
+              >Show HN: I taught LLMs to play Magic: The Gathering against each
+              other</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 16:22:49</span
+              ><span class="points-container"
+                >Points: <span class="points">35</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47049227"
+                  >Comments</a
+                ><span class="descendants">: 21</span></span
+              >
+            </h4>
+            <div class="text">
+              I've been teaching LLMs to play Magic: The Gathering recently, via
+              MCP tools hooked up to the open-source XMage codebase. It's still
+              pretty buggy and I think there's significant room for existing
+              models to get better at it via tooling improvements, but it pretty
+              much works today. The ratings for expensive frontier models are
+              artificially low right now because I've been focusing on cheaper
+              models until I work out the bugs, so they don't have a lot of
+              games in the system.
+            </div>
+          </section>
+        </section>
+        <section id="47049088">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/"
+              >Semantic ablation: Why AI writing is generic and boring</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 16:12:29</span
+              ><span class="points-container"
+                >Points: <span class="points">120</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47049088"
+                  >Comments</a
+                ><span class="descendants">: 117</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47048790">
+          <h3>
+            <a class="item" href="https://github.com/LukeB42/Cycast"
+              >Show HN: Cycast – High-performance radio streaming server written
+              in Python</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 15:47:46</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47048790"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              A high-performance internet radio streaming server written in
+              Python with Cython optimizations.
+            </div>
+          </section>
+        </section>
+        <section id="47048733">
+          <h3>
+            <a class="item" href="https://berksoft.ca/gol/"
+              >Show HN: I wrote a technical history book on Lisp</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 15:43:39</span
+              ><span class="points-container"
+                >Points: <span class="points">46</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47048733"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                My favorite languages are Smalltalk and Lisp, but as an Emacs
+                user, I've been using the latter for much longer and for my
+                current projects, Common Lisp is a better fit, so I call myself
+                "a Lisp-er" these days. If people like what I did, I do have
+                plans to write some more (but probably only after I retire,
+                writing next to a full-time job is heard). Maybe on Smalltalk,
+                maybe on computer networks - two topics close to my heart.
+              </p>
+              <p>
+                And a shout-out to Dick Gabriel, he contributed some great
+                personal memories about the man who started it all, John
+                McCarthy.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="47048633">
           <h3>
             <a class="item" href="https://priceperball.net/"
@@ -140,11 +704,11 @@
             <h4>
               <span>2026-02-17 @ 15:36:46</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47048633"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
             <div class="text">
@@ -185,28 +749,6 @@
             </div>
           </section>
         </section>
-        <section id="47048248">
-          <h3>
-            <a
-              class="item"
-              href="https://www.governance.fyi/p/americas-pensions-cant-beat-a-vanguard"
-              >America's Pensions Can't Beat Vanguard but They Can Close Your
-              Hospital</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-17 @ 15:04:18</span
-              ><span class="points-container"
-                >Points: <span class="points">167</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47048248"
-                  >Comments</a
-                ><span class="descendants">: 239</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="47048004">
           <h3>
             <a class="item" href="https://aeris.edbn.me/?city=SFO"
@@ -217,32 +759,32 @@
             <h4>
               <span>2026-02-17 @ 14:43:14</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47048004"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47047443">
+        <section id="47045804">
           <h3>
             <a
               class="item"
-              href="https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews"
-              >Undo in Vi and Its Successors</a
+              href="https://www.arthurcnops.blog/death-of-show-hn/"
+              >Is Show HN dead? No, but it's drowning</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-17 @ 13:47:56</span
+              <span>2026-02-17 @ 10:29:14</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">233</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47047443"
+                ><a href="https://news.ycombinator.com/item?id=47045804"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 209</span></span
               >
             </h4>
           </section>
@@ -257,11 +799,11 @@
             <h4>
               <span>2026-02-17 @ 10:02:36</span
               ><span class="points-container"
-                >Points: <span class="points">786</span></span
+                >Points: <span class="points">829</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47045612"
                   >Comments</a
-                ><span class="descendants">: 500</span></span
+                ><span class="descendants">: 542</span></span
               >
             </h4>
           </section>
@@ -276,98 +818,11 @@
             <h4>
               <span>2026-02-17 @ 05:53:31</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47044179"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47042895">
-          <h3>
-            <a
-              class="item"
-              href="https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/"
-              >Poor Deming never stood a chance</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-17 @ 02:13:37</span
-              ><span class="points-container"
-                >Points: <span class="points">178</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47042895"
-                  >Comments</a
-                ><span class="descendants">: 109</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47041836">
-          <h3>
-            <a class="item" href="https://forestrydiary.com/"
-              >Show HN: Scanned 1927-1945 Daily USFS Work Diary</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-16 @ 23:40:33</span
-              ><span class="points-container"
-                >Points: <span class="points">112</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47041836"
-                  >Comments</a
-                ><span class="descendants">: 25</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                <a href="https://forestrydiary.com/"
-                  >https://forestrydiary.com/</a
-                >
-              </p>
-              <p>
-                This is one of those projects I've sat on for years, but with
-                Claude and Mistral helping with the handwriting recognition, and
-                even helping me write a custom scanning app that would auto scan
-                each page and put it into a database as I assembled everything.
-              </p>
-              <p>
-                As far as I know, this is the only US Forestry Diary that has
-                been fully scanned in and published. I understand that there are
-                other diaries in some collections, but none have been scanned
-                in. I hope this helps somebody. Please let me know if it does.
-              </p>
-              <p>
-                This is the sort of project Claude and AI can help with - A
-                personal project that sits on the shelf forever, but now a
-                reasonable project that can be published in my spare time. I'm
-                not trying to earn money on this, but just improving our
-                knowledge and history just a little bit.
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="47041456">
-          <h3>
-            <a
-              class="item"
-              href="https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/"
-              >Running NanoClaw in a Docker Shell Sandbox</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-16 @ 22:53:02</span
-              ><span class="points-container"
-                >Points: <span class="points">154</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47041456"
-                  >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -384,73 +839,11 @@
             <h4>
               <span>2026-02-16 @ 21:24:04</span
               ><span class="points-container"
-                >Points: <span class="points">381</span></span
+                >Points: <span class="points">393</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47040524"
                   >Comments</a
                 ><span class="descendants">: 59</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47040375">
-          <h3>
-            <a class="item" href="https://github.com/zachlatta/freeflow"
-              >Show HN: Free alternative to Wispr Flow, Superwhisper, and
-              Monologue</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-16 @ 21:10:44</span
-              ><span class="points-container"
-                >Points: <span class="points">246</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47040375"
-                  >Comments</a
-                ><span class="descendants">: 113</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47039478">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.sturdystatistics.com/posts/show_hn/"
-              >State of Show HN: 2025</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-16 @ 19:55:23</span
-              ><span class="points-container"
-                >Points: <span class="points">127</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47039478"
-                  >Comments</a
-                ><span class="descendants">: 33</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47038731">
-          <h3>
-            <a
-              class="item"
-              href="https://essays.debugyourpain.com/p/you-are-not-just-your-brain"
-              >Neurons outside the brain</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-16 @ 18:54:37</span
-              ><span class="points-container"
-                >Points: <span class="points">142</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47038731"
-                  >Comments</a
-                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -468,53 +861,11 @@
             <h4>
               <span>2026-02-16 @ 18:41:50</span
               ><span class="points-container"
-                >Points: <span class="points">862</span></span
+                >Points: <span class="points">871</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47038546"
                   >Comments</a
-                ><span class="descendants">: 181</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47038318">
-          <h3>
-            <a
-              class="item"
-              href="https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/"
-              >"Token anxiety", a slot machine by any other name</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-16 @ 18:23:36</span
-              ><span class="points-container"
-                >Points: <span class="points">229</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47038318"
-                  >Comments</a
-                ><span class="descendants">: 207</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47035560">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/"
-              >What your Bluetooth devices reveal</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-16 @ 14:39:32</span
-              ><span class="points-container"
-                >Points: <span class="points">502</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47035560"
-                  >Comments</a
-                ><span class="descendants">: 182</span></span
+                ><span class="descendants">: 185</span></span
               >
             </h4>
           </section>
@@ -530,11 +881,11 @@
             <h4>
               <span>2026-02-16 @ 11:57:01</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47033954"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
             <div class="text">
@@ -570,31 +921,6 @@
             </div>
           </section>
         </section>
-        <section id="47031334">
-          <h3>
-            <a class="item" href="https://jmail.world/jemini"
-              >Show HN: Jemini – Gemini for the Epstein Files</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-16 @ 05:53:03</span
-              ><span class="points-container"
-                >Points: <span class="points">444</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47031334"
-                  >Comments</a
-                ><span class="descendants">: 83</span></span
-              >
-            </h4>
-            <div class="text">
-              <i>Show HN: JeffTube</i> -
-              <a href="https://news.ycombinator.com/item?id=47030797"
-                >https://news.ycombinator.com/item?id=47030797</a
-              >
-            </div>
-          </section>
-        </section>
         <section id="47022270">
           <h3>
             <a
@@ -607,11 +933,11 @@
             <h4>
               <span>2026-02-15 @ 09:15:16</span
               ><span class="points-container"
-                >Points: <span class="points">292</span></span
+                >Points: <span class="points">298</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47022270"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -628,7 +954,7 @@
             <h4>
               <span>2026-02-15 @ 07:21:58</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47021711"
                   >Comments</a
@@ -648,49 +974,11 @@
             <h4>
               <span>2026-02-14 @ 19:23:52</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47017450"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47015342">
-          <h3>
-            <a class="item" href="https://ratfactor.com/tech-nope2"
-              >A Programmer's Loss of Identity</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-14 @ 15:41:59</span
-              ><span class="points-container"
-                >Points: <span class="points">188</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47015342"
-                  >Comments</a
-                ><span class="descendants">: 121</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47014002">
-          <h3>
-            <a class="item" href="https://dbg.re/posts/car-file-format/"
-              >A deep dive into Apple's .car file format</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-14 @ 12:18:04</span
-              ><span class="points-container"
-                >Points: <span class="points">148</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47014002"
-                  >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -705,104 +993,30 @@
             <h4>
               <span>2026-02-14 @ 08:56:46</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47012895"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47012486">
+        <section id="47007331">
           <h3>
-            <a class="item" href="https://stonetools.ghost.io/dbase-cpm/"
-              >DBASE on the Kaypro II</a
+            <a class="item" href="https://labyrinthlocator.org/"
+              >Labyrinth Locator</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-14 @ 07:35:41</span
+              <span>2026-02-13 @ 20:21:23</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47012486"
+                ><a href="https://news.ycombinator.com/item?id=47007331"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47011548">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/NationalSecurityAgency/ghidra"
-              >Ghidra by NSA</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-14 @ 04:24:18</span
-              ><span class="points-container"
-                >Points: <span class="points">420</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47011548"
-                  >Comments</a
-                ><span class="descendants">: 208</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47006587">
-          <h3>
-            <a
-              class="item"
-              href="https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi"
-              >Show HN: GitHub "Lines Viewed" extension to keep you sane
-              reviewing long AI PRs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-13 @ 19:19:45</span
-              ><span class="points-container"
-                >Points: <span class="points">38</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47006587"
-                  >Comments</a
-                ><span class="descendants">: 44</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Designed to look like a stock Github UI element - even respects
-                light/dark theme. Runs fully locally, no API calls.
-              </p>
-              <p>
-                Splits insertions and deletions by default, but you can also
-                merge them into a single "lines" figure in the settings.
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="47004629">
-          <h3>
-            <a
-              class="item"
-              href="https://www.newscientist.com/article/2513815-how-teaching-molecules-to-think-is-revealing-what-a-mind-really-is/"
-              >How teaching molecules to think is revealing what a 'mind' is</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-13 @ 16:37:22</span
-              ><span class="points-container"
-                >Points: <span class="points">61</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47004629"
-                  >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -819,33 +1033,11 @@
             <h4>
               <span>2026-02-13 @ 12:59:33</span
               ><span class="points-container"
-                >Points: <span class="points">372</span></span
+                >Points: <span class="points">375</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47002231"
                   >Comments</a
                 ><span class="descendants">: 25</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47000708">
-          <h3>
-            <a
-              class="item"
-              href="https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html"
-              >Hear the "Amati King Cello", the Oldest Known Cello in
-              Existence</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-13 @ 09:17:54</span
-              ><span class="points-container"
-                >Points: <span class="points">74</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47000708"
-                  >Comments</a
-                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
