@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-17](index.md)
 
+* [2026-02-17, 10:52:17](https://news.ycombinator.com/item?id=47045982) - [The Rev. Jesse Jackson, pioneering civil rights activist, dies at 84](https://www.cnn.com/2026/02/17/us/reverend-jesse-jackson-death)
 * [2026-02-17, 10:29:14](https://news.ycombinator.com/item?id=47045804) - [Is Show HN Dead? No, but It's Drowning](https://www.arthurcnops.blog/death-of-show-hn/)
 * [2026-02-17, 10:02:36](https://news.ycombinator.com/item?id=47045612) - [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
 * [2026-02-17, 09:38:54](https://news.ycombinator.com/item?id=47045459) - [WD and Seagate confirm: Hard drives sold out for 2026](https://www.heise.de/en/news/WD-and-Seagate-confirm-Hard-drives-for-2026-sold-out-11178917.html)

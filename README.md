@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-17, 10:52:17](https://news.ycombinator.com/item?id=47045982) - [The Rev. Jesse Jackson, pioneering civil rights activist, dies at 84](https://www.cnn.com/2026/02/17/us/reverend-jesse-jackson-death)
 * [2026-02-17, 10:29:14](https://news.ycombinator.com/item?id=47045804) - [Is Show HN Dead? No, but It's Drowning](https://www.arthurcnops.blog/death-of-show-hn/)
 * [2026-02-17, 10:02:36](https://news.ycombinator.com/item?id=47045612) - [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
-* [2026-02-17, 09:38:54](https://news.ycombinator.com/item?id=47045459) - [WD and Seagate confirm: Hard drives sold out for 2026](https://www.heise.de/en/news/WD-and-Seagate-confirm-Hard-drives-for-2026-sold-out-11178917.html)
 * [2026-02-17, 06:18:34](https://news.ycombinator.com/item?id=47044293) - [SvarDOS – an open-source DOS distribution](http://svardos.org/)
 * [2026-02-17, 05:53:31](https://news.ycombinator.com/item?id=47044179) - [Xbox UI Portfolio Site](https://gabrielcabrera.co/)
 * [2026-02-17, 02:13:37](https://news.ycombinator.com/item?id=47042895) - [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
@@ -22,12 +22,12 @@
 * [2026-02-16, 11:57:01](https://news.ycombinator.com/item?id=47033954) - [Show HN: Glitchy camera – a circuit-bent camera simulator in the browser](https://glitchycam.com)
 * [2026-02-16, 05:53:03](https://news.ycombinator.com/item?id=47031334) - [Show HN: Jemini – Gemini for the Epstein Files](https://jmail.world/jemini)
 * [2026-02-15, 09:15:16](https://news.ycombinator.com/item?id=47022270) - [Four Column ASCII (2017)](https://garbagecollected.org/2017/01/31/four-column-ascii/)
-* [2026-02-14, 13:42:04](https://news.ycombinator.com/item?id=47014460) - [PCB Rework and Repair Guide [pdf]](https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf)
 * [2026-02-14, 12:18:04](https://news.ycombinator.com/item?id=47014002) - [A deep dive into Apple's .car file format](https://dbg.re/posts/car-file-format/)
 * [2026-02-14, 08:56:46](https://news.ycombinator.com/item?id=47012895) - [Rendering the Visible Spectrum](https://brandonli.net/spectra/doc/)
 * [2026-02-14, 07:35:41](https://news.ycombinator.com/item?id=47012486) - [DBASE on the Kaypro II](https://stonetools.ghost.io/dbase-cpm/)
 * [2026-02-14, 04:24:18](https://news.ycombinator.com/item?id=47011548) - [Ghidra by NSA](https://github.com/NationalSecurityAgency/ghidra)
 * [2026-02-13, 19:19:45](https://news.ycombinator.com/item?id=47006587) - [Show HN: GitHub \"Lines Viewed\" extension to keep you sane reviewing long AI PRs](https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi)
+* [2026-02-13, 16:37:22](https://news.ycombinator.com/item?id=47004629) - [How teaching molecules to think is revealing what a 'mind' is](https://www.newscientist.com/article/2513815-how-teaching-molecules-to-think-is-revealing-what-a-mind-really-is/)
 * [2026-02-13, 12:59:33](https://news.ycombinator.com/item?id=47002231) - [Visual introduction to PyTorch](https://0byte.io/articles/pytorch_introduction.html)
 * [2026-02-13, 09:17:54](https://news.ycombinator.com/item?id=47000708) - [Hear the \"Amati King Cello\", the Oldest Known Cello in Existence](https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html)
 

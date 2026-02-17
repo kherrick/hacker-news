@@ -38,6 +38,7 @@
 * [2026-02-13, 17:06:24](https://news.ycombinator.com/item?id=47004993) - [Good Riddance, 4o](https://mahadk.com/posts/4o)
 * [2026-02-13, 16:43:50](https://news.ycombinator.com/item?id=47004712) - [Show HN: I built a tool to un-dumb Claude Code's CLI output (Local Log Viewer)](https://github.com/matt1398/claude-devtools)
 * [2026-02-13, 16:42:04](https://news.ycombinator.com/item?id=47004689) - [Instagram's URL Blackhole](https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664)
+* [2026-02-13, 16:37:22](https://news.ycombinator.com/item?id=47004629) - [How teaching molecules to think is revealing what a 'mind' is](https://www.newscientist.com/article/2513815-how-teaching-molecules-to-think-is-revealing-what-a-mind-really-is/)
 * [2026-02-13, 16:15:58](https://news.ycombinator.com/item?id=47004384) - [I Gave Claude Access to My Pen Plotter](https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter)
 * [2026-02-13, 16:11:08](https://news.ycombinator.com/item?id=47004319) - [I spent two days gigging at RentAHuman and didn't make a single cent](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/)
 * [2026-02-13, 16:10:07](https://news.ycombinator.com/item?id=47004312) - [IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes](https://github.com/nearai/ironclaw)
