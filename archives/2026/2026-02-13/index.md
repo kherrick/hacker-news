@@ -52,6 +52,7 @@
 * [2026-02-13, 14:36:07](https://news.ycombinator.com/item?id=47003214) - [Apocalypse no: how almost everything we thought we knew about the Maya is wrong](https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong)
 * [2026-02-13, 14:21:41](https://news.ycombinator.com/item?id=47003071) - [What every compiler writer should know about programmers (Anton Ertl, 2015) [pdf]](https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf)
 * [2026-02-13, 14:21:01](https://news.ycombinator.com/item?id=47003064) - [Apple, fix my keyboard before the timer ends or I'm leaving iPhone](https://ios-countdown.win/)
+* [2026-02-13, 14:11:42](https://news.ycombinator.com/item?id=47002926) - [Assistant to the Regional Manager](https://smallpotatoes.paulbloom.net/p/assistant-to-the-regional-manager)
 * [2026-02-13, 14:03:14](https://news.ycombinator.com/item?id=47002825) - [Zed editor switching graphics lib from blade to wgpu](https://github.com/zed-industries/zed/pull/46758)
 * [2026-02-13, 13:44:44](https://news.ycombinator.com/item?id=47002633) - [Safe YOLO Mode: Running LLM agents in vms with Libvirt and Virsh](https://www.metachris.dev/2026/02/safe-yolo-mode-running-llm-agents-in-vms-with-libvirt-and-virsh/)
 * [2026-02-13, 13:33:56](https://news.ycombinator.com/item?id=47002519) - [What China is up to in the Arctic](https://www.economist.com/china/2026/02/12/what-china-is-really-up-to-in-the-arctic)
