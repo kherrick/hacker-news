@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-17, 10:29:14](https://news.ycombinator.com/item?id=47045804) - [Is Show HN Dead? No, but It's Drowning](https://www.arthurcnops.blog/death-of-show-hn/)
 * [2026-02-17, 10:02:36](https://news.ycombinator.com/item?id=47045612) - [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
 * [2026-02-17, 05:53:31](https://news.ycombinator.com/item?id=47044179) - [Xbox UI Portfolio Site](https://gabrielcabrera.co/)
 * [2026-02-17, 02:13:37](https://news.ycombinator.com/item?id=47042895) - [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
@@ -27,6 +26,7 @@
 * [2026-02-14, 04:24:18](https://news.ycombinator.com/item?id=47011548) - [Ghidra by NSA](https://github.com/NationalSecurityAgency/ghidra)
 * [2026-02-14, 03:55:16](https://news.ycombinator.com/item?id=47011391) - [Elephant trunk whiskers exhibit material intelligence](https://www.mpg.de/26113474/elephant-trunk-whiskers-exhibit-material-intelligence)
 * [2026-02-13, 19:19:45](https://news.ycombinator.com/item?id=47006587) - [Show HN: GitHub \"Lines Viewed\" extension to keep you sane reviewing long AI PRs](https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi)
+* [2026-02-13, 18:37:32](https://news.ycombinator.com/item?id=47006080) - [Rethinking High-School Science Fairs](https://asteriskmag.com/issues/13/rethinking-high-school-science-fairs)
 * [2026-02-13, 16:37:22](https://news.ycombinator.com/item?id=47004629) - [How teaching molecules to think is revealing what a 'mind' is](https://www.newscientist.com/article/2513815-how-teaching-molecules-to-think-is-revealing-what-a-mind-really-is/)
 * [2026-02-13, 12:59:33](https://news.ycombinator.com/item?id=47002231) - [Visual introduction to PyTorch](https://0byte.io/articles/pytorch_introduction.html)
 * [2026-02-13, 09:17:54](https://news.ycombinator.com/item?id=47000708) - [Hear the \"Amati King Cello\", the Oldest Known Cello in Existence](https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html)

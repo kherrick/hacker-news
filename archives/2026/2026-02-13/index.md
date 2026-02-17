@@ -29,6 +29,7 @@
 * [2026-02-13, 19:13:04](https://news.ycombinator.com/item?id=47006513) - [Why I'm not worried about AI job loss](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 * [2026-02-13, 19:02:17](https://news.ycombinator.com/item?id=47006393) - [Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs](https://cloudrouter.dev/)
 * [2026-02-13, 18:56:38](https://news.ycombinator.com/item?id=47006316) - [Age of Empires: 25 years of pathfinding problems with C++ [video]](https://www.youtube.com/watch?v=lEBQveBCtKY)
+* [2026-02-13, 18:37:32](https://news.ycombinator.com/item?id=47006080) - [Rethinking High-School Science Fairs](https://asteriskmag.com/issues/13/rethinking-high-school-science-fairs)
 * [2026-02-13, 18:35:32](https://news.ycombinator.com/item?id=47006055) - [The Sharp PC-2000 Computer Boombox from 1979](https://stereo2go.com/forums/threads/one-of-the-rarest-the-sharp-pc-2000-computer-boombox-from-1979.10341/)
 * [2026-02-13, 18:26:24](https://news.ycombinator.com/item?id=47005945) - [SkyRL brings Tinker to your GPUs (2025)](https://novasky-ai.notion.site/skyrl-tinker)
 * [2026-02-13, 18:18:48](https://news.ycombinator.com/item?id=47005856) - [The consequences of task switching in supervisory programming](https://martinfowler.com/fragments/2026-02-13.html)
