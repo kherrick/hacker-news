@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-02-17, 17:48:52",
+      "https://news.ycombinator.com/item?id=47050488"
+    ],
+    [
+      "Claude Sonnet 4.6",
+      "https://www.anthropic.com/news/claude-sonnet-4-6"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 17:40:50",
+      "https://news.ycombinator.com/item?id=47050376"
+    ],
+    [
+      "Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification",
+      "https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 17:29:49",
+      "https://news.ycombinator.com/item?id=47050227"
+    ],
+    [
+      "Climbing Mount Fuji visualized through milestone stamps",
+      "https://fuji.halfof8.com/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 17:29:16",
+      "https://news.ycombinator.com/item?id=47050215"
+    ],
+    [
+      "Students Are Being Treated Like Guinea Pigs: Inside an AI-Powered Private School",
+      "https://www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 17:29:13",
+      "https://news.ycombinator.com/item?id=47050211"
+    ],
+    [
+      "Can a Computer Science Student Be Taught to Design Hardware?",
+      "https://semiengineering.com/can-a-computer-science-student-be-taught-to-design-hardware/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 17:21:04",
+      "https://news.ycombinator.com/item?id=47050067"
+    ],
+    [
+      "Gentoo on Codeberg",
+      "https://www.gentoo.org/news/2026/02/16/codeberg.html"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 17:08:14",
       "https://news.ycombinator.com/item?id=47049848"
     ],
@@ -55,18 +115,8 @@
       "https://news.ycombinator.com/item?id=47049718"
     ],
     [
-      "So You Want to Build a Tunnel",
+      "So you want to build a tunnel",
       "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 16:57:36",
-      "https://news.ycombinator.com/item?id=47049690"
-    ],
-    [
-      "Most people are individually optimistic, but think the world is falling apart",
-      "https://hannahritchie.substack.com/p/many-people-are-individually-optimistic"
     ]
   ],
   [
@@ -161,16 +211,6 @@
   ],
   [
     [
-      "2026-02-17, 15:36:46",
-      "https://news.ycombinator.com/item?id=47048633"
-    ],
-    [
-      "Show HN: Price Per Ball – Site that sorts golf balls on Amazon by price per ball",
-      "https://priceperball.net/"
-    ]
-  ],
-  [
-    [
       "2026-02-17, 14:43:14",
       "https://news.ycombinator.com/item?id=47048004"
     ],
@@ -201,32 +241,12 @@
   ],
   [
     [
-      "2026-02-17, 05:53:31",
-      "https://news.ycombinator.com/item?id=47044179"
-    ],
-    [
-      "Xbox UI Portfolio Site",
-      "https://gabrielcabrera.co/"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 21:24:04",
       "https://news.ycombinator.com/item?id=47040524"
     ],
     [
       "Rise of the Triforce",
       "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 18:41:50",
-      "https://news.ycombinator.com/item?id=47038546"
-    ],
-    [
-      "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
-      "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/"
     ]
   ],
   [
@@ -261,22 +281,12 @@
   ],
   [
     [
-      "2026-02-14, 19:23:52",
-      "https://news.ycombinator.com/item?id=47017450"
+      "2026-02-15, 00:32:25",
+      "https://news.ycombinator.com/item?id=47019902"
     ],
     [
-      "This is What It's Like to Spend Your Life in Prison (2023) [video]",
-      "https://www.youtube.com/watch?v=chpgT_VTEjE"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 08:56:46",
-      "https://news.ycombinator.com/item?id=47012895"
-    ],
-    [
-      "Rendering the Visible Spectrum",
-      "https://brandonli.net/spectra/doc/"
+      "Don't pass on small block ciphers",
+      "https://00f.net/2026/02/10/small-block-ciphers/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Labyrinth Locator",
       "https://labyrinthlocator.org/"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 12:59:33",
-      "https://news.ycombinator.com/item?id=47002231"
-    ],
-    [
-      "Visual introduction to PyTorch",
-      "https://0byte.io/articles/pytorch_introduction.html"
     ]
   ]
 ]
