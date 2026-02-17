@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-02-17, 21:43:46",
+      "https://news.ycombinator.com/item?id=47053835"
+    ],
+    [
+      "Dolphin Emulator – Rise of the Triforce",
+      "https://br.dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/?cr=br"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 21:00:30",
       "https://news.ycombinator.com/item?id=47053267"
     ],
     [
       "Structured AI (YC F25) Is Hiring",
       "https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 20:35:18",
+      "https://news.ycombinator.com/item?id=47052941"
+    ],
+    [
+      "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+      "https://github.com/Zaneham/BarraCUDA"
     ]
   ],
   [
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2026-02-17, 18:15:36",
+      "https://news.ycombinator.com/item?id=47050872"
+    ],
+    [
+      "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
+      "https://github.com/n-e/pg-typesafe"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 17:48:52",
       "https://news.ycombinator.com/item?id=47050488"
     ],
@@ -107,16 +137,6 @@
     [
       "Gentoo on Codeberg",
       "https://www.gentoo.org/news/2026/02/16/codeberg.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 17:08:14",
-      "https://news.ycombinator.com/item?id=47049848"
-    ],
-    [
-      "Show HN: Continue – Source-controlled AI checks, enforceable in CI",
-      "https://docs.continue.dev"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2026-02-15, 09:15:16",
-      "https://news.ycombinator.com/item?id=47022270"
-    ],
-    [
-      "Four Column ASCII (2017)",
-      "https://garbagecollected.org/2017/01/31/four-column-ascii/"
-    ]
-  ],
-  [
-    [
       "2026-02-15, 00:32:25",
       "https://news.ycombinator.com/item?id=47019902"
     ],
     [
       "Don't pass on small block ciphers",
       "https://00f.net/2026/02/10/small-block-ciphers/"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 20:21:23",
-      "https://news.ycombinator.com/item?id=47007331"
-    ],
-    [
-      "Labyrinth Locator",
-      "https://labyrinthlocator.org/"
     ]
   ],
   [
