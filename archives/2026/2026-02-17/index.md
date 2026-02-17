@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-17](index.md)
 
+* [2026-02-17, 23:21:23](https://news.ycombinator.com/item?id=47054873) - [Run LLMs locally in Flutter with <200ms latency](https://github.com/ramanujammv1988/edge-veda)
+* [2026-02-17, 23:06:51](https://news.ycombinator.com/item?id=47054744) - ['My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia](https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/)
 * [2026-02-17, 22:40:11](https://news.ycombinator.com/item?id=47054464) - [pg_background: Make Postgres do the long work (while your session stays light)](https://vibhorkumar.wordpress.com/2026/02/16/pg_background-make-postgres-do-the-long-work-while-your-session-stays-light/)
 * [2026-02-17, 22:10:22](https://news.ycombinator.com/item?id=47054134) - [I swear the UFO is coming any minute](https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute)
 * [2026-02-17, 21:50:23](https://news.ycombinator.com/item?id=47053912) - [America's Future Leaders Are Learning to Become Grifters](https://www.robkhenderson.com/p/americas-future-leaders-are-learning)

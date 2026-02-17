@@ -7,6 +7,7 @@
 * [2026-02-14, 23:07:41](https://news.ycombinator.com/item?id=47019329) - [Show HN: Nerve: Stitches all your data sources into one mega-API](https://playground.get-nerve.com/)
 * [2026-02-14, 22:39:24](https://news.ycombinator.com/item?id=47019133) - [Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://github.com/alichherawalla/off-grid-mobile)
 * [2026-02-14, 22:35:07](https://news.ycombinator.com/item?id=47019102) - [How long do job postings stay open?](https://corvi.careers/blog/job_open_days_by_category_feb_2026/)
+* [2026-02-14, 21:42:11](https://news.ycombinator.com/item?id=47018675) - [Show HN: Box of Rain - Auto-Layouted ASCII Diagrams](https://github.com/switz/box-of-rain)
 * [2026-02-14, 21:08:08](https://news.ycombinator.com/item?id=47018405) - [Colored Petri Nets, LLMs, and distributed applications](https://blog.sao.dev/cpns-llms-distributed-apps/)
 * [2026-02-14, 20:23:17](https://news.ycombinator.com/item?id=47018026) - [Dune II written in HTML5/JS](https://github.com/oklemenz/Dune2JS)
 * [2026-02-14, 19:51:25](https://news.ycombinator.com/item?id=47017727) - [You Can't Trust the Internet Anymore](https://nicole.express/2026/not-my-casual-hobby.html)

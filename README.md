@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-17, 23:21:23](https://news.ycombinator.com/item?id=47054873) - [Run LLMs locally in Flutter with <200ms latency](https://github.com/ramanujammv1988/edge-veda)
+* [2026-02-17, 23:06:51](https://news.ycombinator.com/item?id=47054744) - ['My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia](https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/)
 * [2026-02-17, 22:40:11](https://news.ycombinator.com/item?id=47054464) - [pg_background: Make Postgres do the long work (while your session stays light)](https://vibhorkumar.wordpress.com/2026/02/16/pg_background-make-postgres-do-the-long-work-while-your-session-stays-light/)
 * [2026-02-17, 22:10:22](https://news.ycombinator.com/item?id=47054134) - [I swear the UFO is coming any minute](https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute)
-* [2026-02-17, 21:50:23](https://news.ycombinator.com/item?id=47053912) - [Claims of disability are highest at elite universities](https://www.robkhenderson.com/p/americas-future-leaders-are-learning)
 * [2026-02-17, 21:00:30](https://news.ycombinator.com/item?id=47053267) - [Structured AI (YC F25) Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern)
 * [2026-02-17, 20:35:18](https://news.ycombinator.com/item?id=47052941) - [BarraCUDA Open-source CUDA compiler targeting AMD GPUs](https://github.com/Zaneham/BarraCUDA)
 * [2026-02-17, 20:15:57](https://news.ycombinator.com/item?id=47052674) - [Show HN: I'm launching a LPFM radio station](https://www.kpbj.fm/)
@@ -12,9 +13,7 @@
 * [2026-02-17, 17:40:50](https://news.ycombinator.com/item?id=47050376) - [Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification](https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693)
 * [2026-02-17, 17:29:49](https://news.ycombinator.com/item?id=47050227) - [Climbing Mount Fuji visualized through milestone stamps](https://fuji.halfof8.com/)
 * [2026-02-17, 17:21:04](https://news.ycombinator.com/item?id=47050067) - [Gentoo on Codeberg](https://www.gentoo.org/news/2026/02/16/codeberg.html)
-* [2026-02-17, 17:07:59](https://news.ycombinator.com/item?id=47049845) - [Chess engines do weird stuff](https://girl.surgery/chess)
 * [2026-02-17, 17:06:18](https://news.ycombinator.com/item?id=47049824) - [Thank HN: You helped save 33k lives](https://news.ycombinator.com/item?id=47049824)
-* [2026-02-17, 17:03:09](https://news.ycombinator.com/item?id=47049776) - [Launch HN: Sonarly (YC W26) – AI agent to triage and fix your production alerts](https://sonarly.com/)
 * [2026-02-17, 16:59:34](https://news.ycombinator.com/item?id=47049718) - [So you want to build a tunnel](https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel)
 * [2026-02-17, 16:53:05](https://news.ycombinator.com/item?id=47049628) - [Async/Await on the GPU](https://www.vectorware.com/blog/async-await-on-gpu/)
 * [2026-02-17, 16:48:43](https://news.ycombinator.com/item?id=47049573) - [HackMyClaw](https://hackmyclaw.com/)
@@ -28,6 +27,7 @@
 * [2026-02-16, 03:22:31](https://news.ycombinator.com/item?id=47030509) - [Contra \"Grandmaster-level chess without search\" (2024)](https://cosmo.tardis.ac/files/2024-02-13-searchless.html)
 * [2026-02-15, 12:49:22](https://news.ycombinator.com/item?id=47023273) - [After 800 episodes, 'The Simpsons' creators look back and ahead](https://apnews.com/article/simpsons-800-episodes-72d723e6d885b1944c9a1ec8b9a24c3a)
 * [2026-02-15, 00:32:25](https://news.ycombinator.com/item?id=47019902) - [Don't pass on small block ciphers](https://00f.net/2026/02/10/small-block-ciphers/)
+* [2026-02-14, 21:42:11](https://news.ycombinator.com/item?id=47018675) - [Show HN: Box of Rain - Auto-Layouted ASCII Diagrams](https://github.com/switz/box-of-rain)
 * [2026-02-13, 20:05:27](https://news.ycombinator.com/item?id=47007117) - [Physicists Make Electrons Flow Like Water](https://www.quantamagazine.org/physicists-make-electrons-flow-like-water-20260211/)
 * [2026-02-13, 14:11:42](https://news.ycombinator.com/item?id=47002926) - [Assistant to the Regional Manager](https://smallpotatoes.paulbloom.net/p/assistant-to-the-regional-manager)
 
