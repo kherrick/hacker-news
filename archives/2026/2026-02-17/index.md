@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-17](index.md)
 
+* [2026-02-17, 21:50:23](https://news.ycombinator.com/item?id=47053912) - [America's Future Leaders Are Learning to Become Grifters](https://www.robkhenderson.com/p/americas-future-leaders-are-learning)
 * [2026-02-17, 21:43:46](https://news.ycombinator.com/item?id=47053835) - [Dolphin Emulator – Rise of the Triforce](https://br.dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/?cr=br)
 * [2026-02-17, 21:00:30](https://news.ycombinator.com/item?id=47053267) - [Structured AI (YC F25) Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern)
 * [2026-02-17, 20:35:18](https://news.ycombinator.com/item?id=47052941) - [BarraCUDA Open-source CUDA compiler targeting AMD GPUs](https://github.com/Zaneham/BarraCUDA)
 * [2026-02-17, 20:15:57](https://news.ycombinator.com/item?id=47052674) - [Show HN: I'm launching a LPFM radio station](https://www.kpbj.fm/)
 * [2026-02-17, 20:09:20](https://news.ycombinator.com/item?id=47052579) - [Property taxes going up? The 340B Program might be partly responsible](https://www.pricepoints.health/cp/188296406)
+* [2026-02-17, 19:42:09](https://news.ycombinator.com/item?id=47052119) - [Canadians promised to boycott travel to US. They meant it](https://www.usatoday.com/story/travel/2026/02/12/canadian-tourism-us-decline/88632515007/)
 * [2026-02-17, 19:35:09](https://news.ycombinator.com/item?id=47052007) - [Meta to retire messenger desktop app and messenger.com in April 2026](https://dzrh.com.ph/post/meta-to-retire-messenger-desktop-app-and-messengercom-in-april-2026-users-shift-to-web-and-mobile-platforms)
 * [2026-02-17, 19:31:45](https://news.ycombinator.com/item?id=47051956) - [An AI Agent Published a Hit Piece on Me – Forensics and More Fallout](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
 * [2026-02-17, 19:24:55](https://news.ycombinator.com/item?id=47051852) - [Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway](https://asteroidos.org/news/2-0-release/index.html)
