@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-02-17](index.md)
 
+* [2026-02-17, 17:48:52](https://news.ycombinator.com/item?id=47050488) - [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
+* [2026-02-17, 17:40:50](https://news.ycombinator.com/item?id=47050376) - [Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification](https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693)
+* [2026-02-17, 17:29:49](https://news.ycombinator.com/item?id=47050227) - [Climbing Mount Fuji visualized through milestone stamps](https://fuji.halfof8.com/)
+* [2026-02-17, 17:29:16](https://news.ycombinator.com/item?id=47050215) - [Students Are Being Treated Like Guinea Pigs: Inside an AI-Powered Private School](https://www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/)
+* [2026-02-17, 17:29:13](https://news.ycombinator.com/item?id=47050211) - [Can a Computer Science Student Be Taught to Design Hardware?](https://semiengineering.com/can-a-computer-science-student-be-taught-to-design-hardware/)
+* [2026-02-17, 17:21:04](https://news.ycombinator.com/item?id=47050067) - [Gentoo on Codeberg](https://www.gentoo.org/news/2026/02/16/codeberg.html)
 * [2026-02-17, 17:08:14](https://news.ycombinator.com/item?id=47049848) - [Show HN: Continue – Source-controlled AI checks, enforceable in CI](https://docs.continue.dev)
 * [2026-02-17, 17:07:59](https://news.ycombinator.com/item?id=47049845) - [Chess engines do weird stuff](https://girl.surgery/chess)
 * [2026-02-17, 17:03:09](https://news.ycombinator.com/item?id=47049776) - [Launch HN: Sonarly (YC W26) – AI agent to triage and fix your production alerts](https://sonarly.com/)
