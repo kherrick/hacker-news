@@ -50,6 +50,7 @@
 * [2026-02-16, 12:28:31](https://news.ycombinator.com/item?id=47034192) - [Thanks a lot, AI: Hard drives are sold out for the year, says WD](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 * [2026-02-16, 12:15:39](https://news.ycombinator.com/item?id=47034087) - [Evaluating AGENTS.md: are they helpful for coding agents?](https://arxiv.org/abs/2602.11988)
 * [2026-02-16, 12:00:42](https://news.ycombinator.com/item?id=47033976) - [The Israeli spyware firm that accidentally just exposed itself](https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally)
+* [2026-02-16, 11:57:01](https://news.ycombinator.com/item?id=47033954) - [Show HN: Glitchy camera – a circuit-bent camera simulator in the browser](https://glitchycam.com)
 * [2026-02-16, 11:44:07](https://news.ycombinator.com/item?id=47033875) - [planckforth: Bootstrapping a Forth interpreter from hand-written tiny ELF binary](https://github.com/nineties/planckforth)
 * [2026-02-16, 11:06:28](https://news.ycombinator.com/item?id=47033622) - [Anthropic tries to hide Claude's AI actions. Devs hate it](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 * [2026-02-16, 10:26:22](https://news.ycombinator.com/item?id=47033328) - [MessageFormat: Unicode standard for localizable message strings](https://github.com/unicode-org/message-format-wg)
