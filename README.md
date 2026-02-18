@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-18, 12:57:30](https://news.ycombinator.com/item?id=47060469) - [macOS Tahoe 26.3 is Broken](https://taoofmac.com/space/blog/2026/02/18/1230)
+* [2026-02-18, 14:08:11](https://news.ycombinator.com/item?id=47061062) - [AVX2 is slower than SSE2-4.x under Windows ARM emulation](https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/)
+* [2026-02-18, 13:00:11](https://news.ycombinator.com/item?id=47060486) - [Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony](https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/)
 * [2026-02-18, 12:16:12](https://news.ycombinator.com/item?id=47060202) - [Microsoft says bug causes Copilot to summarize confidential emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/)
 * [2026-02-18, 12:00:50](https://news.ycombinator.com/item?id=47060117) - [Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers](https://www.ycombinator.com/companies/zep-ai/jobs)
 * [2026-02-18, 11:51:01](https://news.ycombinator.com/item?id=47060052) - [Fastest Front End Tooling for Humans and AI](https://cpojer.net/posts/fastest-frontend-tooling)
@@ -25,11 +26,10 @@
 * [2026-02-17, 16:48:43](https://news.ycombinator.com/item?id=47049573) - [HackMyClaw](https://hackmyclaw.com/)
 * [2026-02-17, 16:42:35](https://news.ycombinator.com/item?id=47049479) - [Using go fix to modernize Go code](https://go.dev/blog/gofix)
 * [2026-02-16, 19:18:36](https://news.ycombinator.com/item?id=47039051) - [Show HN: Breadboard – A modern HyperCard for building web apps on the canvas](https://breadboards.io/)
-* [2026-02-16, 11:30:55](https://news.ycombinator.com/item?id=47033790) - [The Secret Life of Vector Generators (2001)](https://jmargolin.com/vgens/vgens.htm)
 * [2026-02-14, 18:00:49](https://news.ycombinator.com/item?id=47016696) - [Elvish as She Is Spoke [pdf]](https://www.elvish.org/articles/EASIS.pdf)
 * [2026-02-14, 17:56:26](https://news.ycombinator.com/item?id=47016658) - [Instruction decoding in the Intel 8087 floating-point chip](https://www.righto.com/2026/02/8087-instruction-decoding.html)
 * [2026-02-14, 15:17:46](https://news.ycombinator.com/item?id=47015138) - [Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990](https://www.vogons.org/viewtopic.php?t=105451)
-* [2026-02-13, 20:44:08](https://news.ycombinator.com/item?id=47007584) - [Ask HN: Are there examples of 3D printing data onto physical surfaces?](https://news.ycombinator.com/item?id=47007584)
+* [2026-02-13, 21:43:04](https://news.ycombinator.com/item?id=47008236) - [Show HN: Bubble sort on a Turing machine](https://github.com/purplejacket/bubble_sort_on_tm)
 
 ## [Archives](archives/index.md)
 

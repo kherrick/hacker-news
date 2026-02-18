@@ -12,6 +12,7 @@
 * [2026-02-13, 22:21:55](https://news.ycombinator.com/item?id=47008607) - [How often do full-body MRIs find cancer?](https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/)
 * [2026-02-13, 22:17:06](https://news.ycombinator.com/item?id=47008560) - [OpenAI has deleted the word 'safely' from its mission](https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467)
 * [2026-02-13, 22:10:45](https://news.ycombinator.com/item?id=47008512) - [How DSQL makes sure sequences scale](https://blog.benjscho.dev/technical/2026/02/13/dsql-sequences.html)
+* [2026-02-13, 21:43:04](https://news.ycombinator.com/item?id=47008236) - [Show HN: Bubble sort on a Turing machine](https://github.com/purplejacket/bubble_sort_on_tm)
 * [2026-02-13, 21:37:37](https://news.ycombinator.com/item?id=47008179) - [Show HN: A reputation index from mitchellh's Vouch trust files](https://vouchbook.dev/)
 * [2026-02-13, 21:35:52](https://news.ycombinator.com/item?id=47008163) - [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)
 * [2026-02-13, 21:35:52](https://news.ycombinator.com/item?id=47008163) - [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book)
