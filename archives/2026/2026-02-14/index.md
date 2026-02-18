@@ -17,6 +17,7 @@
 * [2026-02-14, 19:23:52](https://news.ycombinator.com/item?id=47017450) - [This is What It's Like to Spend Your Life in Prison (2023) [video]](https://www.youtube.com/watch?v=chpgT_VTEjE)
 * [2026-02-14, 18:46:32](https://news.ycombinator.com/item?id=47017138) - [Internet Increasingly Becoming Unarchivable](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 * [2026-02-14, 18:22:48](https://news.ycombinator.com/item?id=47016920) - [Dr. Oz pushes AI avatars as a fix for rural health care](https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers)
+* [2026-02-14, 18:00:49](https://news.ycombinator.com/item?id=47016696) - [Elvish as She Is Spoke [pdf]](https://www.elvish.org/articles/EASIS.pdf)
 * [2026-02-14, 17:56:26](https://news.ycombinator.com/item?id=47016658) - [Instruction decoding in the Intel 8087 floating-point chip](https://www.righto.com/2026/02/8087-instruction-decoding.html)
 * [2026-02-14, 17:55:03](https://news.ycombinator.com/item?id=47016639) - [Gamma Function: Visualization for Complex Arguments](https://vanilla-gamma-graph.netlify.app/)
 * [2026-02-14, 17:45:09](https://news.ycombinator.com/item?id=47016530) - [A header-only C vector database library](https://github.com/abdimoallim/vdb)

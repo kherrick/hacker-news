@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-18, 10:00:11](https://news.ycombinator.com/item?id=47059275) - [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
 * [2026-02-18, 07:18:50](https://news.ycombinator.com/item?id=47058219) - [If you’re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)
 * [2026-02-18, 07:01:28](https://news.ycombinator.com/item?id=47058106) - [Stardex (YC S21) Is Hiring](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
 * [2026-02-18, 06:29:36](https://news.ycombinator.com/item?id=47057879) - [A DuckDB-based metabase alternative](https://github.com/taleshape-com/shaper)
@@ -8,8 +9,6 @@
 * [2026-02-18, 06:00:35](https://news.ycombinator.com/item?id=47057707) - [TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)](https://github.com/DatanoiseTV/tinyice)
 * [2026-02-18, 02:18:29](https://news.ycombinator.com/item?id=47056314) - [Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)](https://www.sceneandheardnu.com/content/halt-and-catch-fire)
 * [2026-02-18, 01:40:52](https://news.ycombinator.com/item?id=47055979) - [Thousands of CEOs just admitted AI had no impact on employment or productivity](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
-* [2026-02-18, 01:19:15](https://news.ycombinator.com/item?id=47055786) - [Advice, not control: the role of Remote Assistance in Waymo's operations](https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance)
-* [2026-02-18, 01:05:33](https://news.ycombinator.com/item?id=47055696) - [Google Public CA is down](https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3)
 * [2026-02-18, 00:26:15](https://news.ycombinator.com/item?id=47055424) - [Rathbun's Operator](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html)
 * [2026-02-18, 00:02:06](https://news.ycombinator.com/item?id=47055262) - [Minimal x86 Kernel Zig](https://github.com/lopespm/zig-minimal-kernel-x86)
 * [2026-02-17, 23:06:51](https://news.ycombinator.com/item?id=47054744) - ['My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia (2025)](https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/)
@@ -26,8 +25,9 @@
 * [2026-02-17, 15:43:39](https://news.ycombinator.com/item?id=47048733) - [Show HN: I wrote a technical history book on Lisp](https://berksoft.ca/gol/)
 * [2026-02-16, 19:18:36](https://news.ycombinator.com/item?id=47039051) - [Show HN: Breadboard – A modern HyperCard for building web apps on the canvas](https://breadboards.io/)
 * [2026-02-16, 11:30:55](https://news.ycombinator.com/item?id=47033790) - [The Secret Life of Vector Generators (2001)](https://jmargolin.com/vgens/vgens.htm)
-* [2026-02-15, 21:57:29](https://news.ycombinator.com/item?id=47028049) - [The Economics of a Super Bowl Ad](https://ro.co/perspectives/super-bowl-economics/)
 * [2026-02-15, 13:46:08](https://news.ycombinator.com/item?id=47023616) - [Semantic Diffusion (2006)](https://martinfowler.com/bliki/SemanticDiffusion.html)
+* [2026-02-15, 06:30:54](https://news.ycombinator.com/item?id=47021525) - [Use Microsoft Office Shortcuts in Libre Office](https://github.com/Zaki101Aslam/MS-office-shortcuts-for-Libre-Office)
+* [2026-02-14, 18:00:49](https://news.ycombinator.com/item?id=47016696) - [Elvish as She Is Spoke [pdf]](https://www.elvish.org/articles/EASIS.pdf)
 * [2026-02-14, 17:56:26](https://news.ycombinator.com/item?id=47016658) - [Instruction decoding in the Intel 8087 floating-point chip](https://www.righto.com/2026/02/8087-instruction-decoding.html)
 * [2026-02-14, 15:17:46](https://news.ycombinator.com/item?id=47015138) - [Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990](https://www.vogons.org/viewtopic.php?t=105451)
 
