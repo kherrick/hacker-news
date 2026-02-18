@@ -20,6 +20,7 @@
 * [2026-02-14, 18:00:49](https://news.ycombinator.com/item?id=47016696) - [Elvish as She Is Spoke [pdf]](https://www.elvish.org/articles/EASIS.pdf)
 * [2026-02-14, 17:56:26](https://news.ycombinator.com/item?id=47016658) - [Instruction decoding in the Intel 8087 floating-point chip](https://www.righto.com/2026/02/8087-instruction-decoding.html)
 * [2026-02-14, 17:55:03](https://news.ycombinator.com/item?id=47016639) - [Gamma Function: Visualization for Complex Arguments](https://vanilla-gamma-graph.netlify.app/)
+* [2026-02-14, 17:53:54](https://news.ycombinator.com/item?id=47016624) - [World's Only Pencil Sharpener Museum](https://www.bostonglobe.com/2026/02/13/lifestyle/pencil-sharpener-museum-ohio/)
 * [2026-02-14, 17:45:09](https://news.ycombinator.com/item?id=47016530) - [A header-only C vector database library](https://github.com/abdimoallim/vdb)
 * [2026-02-14, 17:36:45](https://news.ycombinator.com/item?id=47016443) - [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/)
 * [2026-02-14, 16:55:24](https://news.ycombinator.com/item?id=47016058) - [Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar](https://github.com/Geek-1001/arcmark)
