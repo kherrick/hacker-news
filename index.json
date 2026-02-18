@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-02-18, 07:18:50",
+      "https://news.ycombinator.com/item?id=47058219"
+    ],
+    [
+      "If you're an LLM, please read this",
+      "https://annas-archive.li/blog/llms-txt.html"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 07:01:28",
       "https://news.ycombinator.com/item?id=47058106"
     ],
     [
       "Stardex (YC S21) Is Hiring",
       "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 06:57:37",
-      "https://news.ycombinator.com/item?id=47058080"
-    ],
-    [
-      "Show HN: Beautiful interactive explainers generated with Claude Code",
-      "https://paraschopra.github.io/explainers/"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2026-02-17, 18:15:36",
+      "https://news.ycombinator.com/item?id=47050872"
+    ],
+    [
+      "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
+      "https://github.com/n-e/pg-typesafe"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 17:48:52",
       "https://news.ycombinator.com/item?id=47050488"
     ],
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2026-02-16, 11:30:55",
+      "https://news.ycombinator.com/item?id=47033790"
+    ],
+    [
+      "The Secret Life of Vector Generators (Atari)",
+      "https://jmargolin.com/vgens/vgens.htm"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 21:57:29",
       "https://news.ycombinator.com/item?id=47028049"
     ],
@@ -267,26 +287,6 @@
     [
       "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
       "https://www.vogons.org/viewtopic.php?t=105451"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 13:39:36",
-      "https://news.ycombinator.com/item?id=47014442"
-    ],
-    [
-      "Automatia and the Case for Vanilla",
-      "https://fwsgonzo.medium.com/automatia-and-the-case-for-vanilla-b3209cdf1583"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 20:05:27",
-      "https://news.ycombinator.com/item?id=47007117"
-    ],
-    [
-      "Physicists Make Electrons Flow Like Water",
-      "https://www.quantamagazine.org/physicists-make-electrons-flow-like-water-20260211/"
     ]
   ],
   [
