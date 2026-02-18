@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-18](index.md)
 
+* [2026-02-18, 18:09:27](https://news.ycombinator.com/item?id=47064105) - [Activeloop (YC S18) Is Hiring Back End Engineer (Go)](https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f)
+* [2026-02-18, 18:08:17](https://news.ycombinator.com/item?id=47064090) - [Disney trip turned into immigration detention](https://www.propublica.org/article/ice-dilley-maria-antonia-guerra-story)
+* [2026-02-18, 17:56:08](https://news.ycombinator.com/item?id=47063950) - [Warren Buffett dumps $1.7B of Amazon stock](https://finbold.com/warren-buffett-dumps-1-7-billion-of-amazon-stock/)
+* [2026-02-18, 17:38:46](https://news.ycombinator.com/item?id=47063724) - [Arizona Bill Requires Age Verification for All Apps](https://reclaimthenet.org/arizona-bill-would-require-id-checks-to-use-a-weather-app)
+* [2026-02-18, 17:18:50](https://news.ycombinator.com/item?id=47063451) - [Fei-Fei Li's World Labs raised $1B from A16Z, Nvidia to advance its world models](https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion)
 * [2026-02-18, 17:10:18](https://news.ycombinator.com/item?id=47063338) - [Weave (YC W25) Is Hiring ML, Design, and Product Engineers](https://jobs.ashbyhq.com/workweave)
 * [2026-02-18, 17:04:23](https://news.ycombinator.com/item?id=47063263) - [Unprecedented 'Jobless Boom' Tests Limits of US Economic Expansion](https://www.bloomberg.com/news/features/2026-02-18/us-economy-expansion-forecast-even-with-weak-jobs-data)
 * [2026-02-18, 16:46:12](https://news.ycombinator.com/item?id=47063005) - [Tailscale Peer Relays is now generally available](https://tailscale.com/blog/peer-relays-ga)

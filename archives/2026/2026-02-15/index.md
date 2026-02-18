@@ -19,6 +19,7 @@
 * [2026-02-15, 19:41:12](https://news.ycombinator.com/item?id=47026773) - [I need AI that scans every PR and issue and de-dupes](https://twitter.com/steipete/status/2023057089346580828)
 * [2026-02-15, 19:40:57](https://news.ycombinator.com/item?id=47026768) - [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
 * [2026-02-15, 18:52:26](https://news.ycombinator.com/item?id=47026289) - [Scientists observe a 300M-year-old brain rhythm in several animal species](https://phys.org/news/2026-01-scientists-million-year-brain-rhythm.html)
+* [2026-02-15, 18:42:29](https://news.ycombinator.com/item?id=47026202) - [The true history of the Minotaur: what archaeology reveals](https://www.nationalgeographic.fr/histoire/la-veritable-histoire-du-minotaure-ce-que-revele-archeologie-recherche-verification)
 * [2026-02-15, 18:40:35](https://news.ycombinator.com/item?id=47026186) - [Show HN: Microgpt is a GPT you can visualize in the browser](https://microgpt.boratto.ca)
 * [2026-02-15, 18:35:40](https://news.ycombinator.com/item?id=47026134) - [Towards Autonomous Mathematics Research](https://arxiv.org/abs/2602.10177)
 * [2026-02-15, 18:29:54](https://news.ycombinator.com/item?id=47026071) - [(Ars) Editor's Note: Retraction of article containing fabricated quotations](https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/)
