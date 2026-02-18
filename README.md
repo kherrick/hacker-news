@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-18, 10:29:30](https://news.ycombinator.com/item?id=47059520) - [Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)
 * [2026-02-18, 10:00:11](https://news.ycombinator.com/item?id=47059275) - [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
 * [2026-02-18, 07:18:50](https://news.ycombinator.com/item?id=47058219) - [If you’re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)
 * [2026-02-18, 07:01:28](https://news.ycombinator.com/item?id=47058106) - [Stardex (YC S21) Is Hiring](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
@@ -26,7 +27,6 @@
 * [2026-02-16, 19:18:36](https://news.ycombinator.com/item?id=47039051) - [Show HN: Breadboard – A modern HyperCard for building web apps on the canvas](https://breadboards.io/)
 * [2026-02-16, 11:30:55](https://news.ycombinator.com/item?id=47033790) - [The Secret Life of Vector Generators (2001)](https://jmargolin.com/vgens/vgens.htm)
 * [2026-02-15, 13:46:08](https://news.ycombinator.com/item?id=47023616) - [Semantic Diffusion (2006)](https://martinfowler.com/bliki/SemanticDiffusion.html)
-* [2026-02-15, 06:30:54](https://news.ycombinator.com/item?id=47021525) - [Use Microsoft Office Shortcuts in Libre Office](https://github.com/Zaki101Aslam/MS-office-shortcuts-for-Libre-Office)
 * [2026-02-14, 18:00:49](https://news.ycombinator.com/item?id=47016696) - [Elvish as She Is Spoke [pdf]](https://www.elvish.org/articles/EASIS.pdf)
 * [2026-02-14, 17:56:26](https://news.ycombinator.com/item?id=47016658) - [Instruction decoding in the Intel 8087 floating-point chip](https://www.righto.com/2026/02/8087-instruction-decoding.html)
 * [2026-02-14, 15:17:46](https://news.ycombinator.com/item?id=47015138) - [Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990](https://www.vogons.org/viewtopic.php?t=105451)
