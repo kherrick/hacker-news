@@ -53,6 +53,7 @@
 * [2026-02-14, 08:56:46](https://news.ycombinator.com/item?id=47012895) - [Rendering the Visible Spectrum](https://brandonli.net/spectra/doc/)
 * [2026-02-14, 08:22:11](https://news.ycombinator.com/item?id=47012717) - [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13)
 * [2026-02-14, 08:05:47](https://news.ycombinator.com/item?id=47012637) - [Show HN: Prompt to Planet, generate procedural 3D planets from text](https://prompttoplanet.n4ze3m.com/)
+* [2026-02-14, 07:50:18](https://news.ycombinator.com/item?id=47012555) - [Chained Assignment in Python Bytecode](https://loriculus.org/blog/python-chained-assignment/)
 * [2026-02-14, 07:50:13](https://news.ycombinator.com/item?id=47012553) - [OpenAI should build Slack](https://www.latent.space/p/ainews-why-openai-should-build-slack)
 * [2026-02-14, 07:35:41](https://news.ycombinator.com/item?id=47012486) - [DBASE on the Kaypro II](https://stonetools.ghost.io/dbase-cpm/)
 * [2026-02-14, 07:00:15](https://news.ycombinator.com/item?id=47012312) - [Cogram (YC W22) – Hiring former technical founders](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer)
