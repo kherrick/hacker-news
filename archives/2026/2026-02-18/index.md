@@ -4,8 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-02-18](index.md)
 
+* [2026-02-18, 17:10:18](https://news.ycombinator.com/item?id=47063338) - [Weave (YC W25) Is Hiring ML, Design, and Product Engineers](https://jobs.ashbyhq.com/workweave)
+* [2026-02-18, 17:04:23](https://news.ycombinator.com/item?id=47063263) - [Unprecedented 'Jobless Boom' Tests Limits of US Economic Expansion](https://www.bloomberg.com/news/features/2026-02-18/us-economy-expansion-forecast-even-with-weak-jobs-data)
+* [2026-02-18, 16:46:12](https://news.ycombinator.com/item?id=47063005) - [Tailscale Peer Relays is now generally available](https://tailscale.com/blog/peer-relays-ga)
+* [2026-02-18, 16:37:57](https://news.ycombinator.com/item?id=47062883) - [Cistercian Numbers](https://www.omniglot.com/language/numbers/cistercian-numbers.htm)
+* [2026-02-18, 16:33:56](https://news.ycombinator.com/item?id=47062824) - [Show HN: Trust Protocols for Anthropic/OpenAI/Gemini](https://www.mnemom.ai)
+* [2026-02-18, 16:28:19](https://news.ycombinator.com/item?id=47062748) - [Zero-day CSS: CVE-2026-2441 exists in the wild](https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html)
+* [2026-02-18, 16:11:00](https://news.ycombinator.com/item?id=47062561) - [Pocketbase lost its funding from FLOSS fund](https://github.com/pocketbase/pocketbase/discussions/7287)
 * [2026-02-18, 16:08:48](https://news.ycombinator.com/item?id=47062534) - [Why AI Velocity Is Becoming a Debt Accelerator](https://martinfowler.com/fragments/2026-02-18.html)
+* [2026-02-18, 16:07:59](https://news.ycombinator.com/item?id=47062521) - [The only moat left is money?](https://elliotbonneville.com/the-only-moat-left-is-money/)
+* [2026-02-18, 15:53:15](https://news.ycombinator.com/item?id=47062329) - [Garment Notation Language: Formal descriptive language for clothing construction](https://github.com/khalildh/garment-notation)
 * [2026-02-18, 15:31:57](https://news.ycombinator.com/item?id=47062096) - [Show HN: VectorNest responsive web-based SVG editor](https://ekrsulov.github.io/vectornest/)
+* [2026-02-18, 15:06:04](https://news.ycombinator.com/item?id=47061742) - [Show HN: Formally verified FPGA watchdog for AM broadcast in unmanned tunnels](https://github.com/Park07/amradio)
 * [2026-02-18, 14:08:11](https://news.ycombinator.com/item?id=47061062) - [AVX2 is slower than SSE2-4.x under Windows ARM emulation](https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/)
 * [2026-02-18, 14:05:39](https://news.ycombinator.com/item?id=47061029) - [Show HN: CEL by Example](https://celbyexample.com/)
 * [2026-02-18, 13:00:11](https://news.ycombinator.com/item?id=47060486) - [Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony](https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/)

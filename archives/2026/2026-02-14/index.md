@@ -48,6 +48,7 @@
 * [2026-02-14, 12:18:04](https://news.ycombinator.com/item?id=47014002) - [A Deep Dive into Apple's .car File Format](https://dbg.re/posts/car-file-format/)
 * [2026-02-14, 11:07:08](https://news.ycombinator.com/item?id=47013556) - [Chiplets Get Physical: The Days of Mix-and-Match Silicon Draw Nigh](https://www.eejournal.com/article/chiplets-get-physical-the-days-of-mix-and-match-silicon-draw-nigh/)
 * [2026-02-14, 10:47:01](https://news.ycombinator.com/item?id=47013458) - [4chan for Clankers](https://www.4claw.org)
+* [2026-02-14, 10:15:24](https://news.ycombinator.com/item?id=47013324) - [Windows: Prefer the Native API over Win32](https://codeberg.org/ziglang/zig/issues/31131)
 * [2026-02-14, 09:28:45](https://news.ycombinator.com/item?id=47013059) - [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645)
 * [2026-02-14, 09:10:15](https://news.ycombinator.com/item?id=47012964) - [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage)
 * [2026-02-14, 08:56:46](https://news.ycombinator.com/item?id=47012895) - [Rendering the Visible Spectrum](https://brandonli.net/spectra/doc/)
