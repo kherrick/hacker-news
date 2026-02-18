@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-18](index.md)
 
+* [2026-02-18, 07:01:28](https://news.ycombinator.com/item?id=47058106) - [Stardex (YC S21) Is Hiring](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
+* [2026-02-18, 06:57:37](https://news.ycombinator.com/item?id=47058080) - [Show HN: Beautiful interactive explainers generated with Claude Code](https://paraschopra.github.io/explainers/)
+* [2026-02-18, 06:29:36](https://news.ycombinator.com/item?id=47057879) - [A DuckDB-based metabase alternative](https://github.com/taleshape-com/shaper)
+* [2026-02-18, 06:20:13](https://news.ycombinator.com/item?id=47057829) - [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
+* [2026-02-18, 06:19:37](https://news.ycombinator.com/item?id=47057824) - [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
 * [2026-02-18, 02:18:29](https://news.ycombinator.com/item?id=47056314) - [Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)](https://www.sceneandheardnu.com/content/halt-and-catch-fire)
 * [2026-02-18, 02:00:52](https://news.ycombinator.com/item?id=47056152) - [It's not just you, YouTube is partially down in outage](https://9to5google.com/2026/02/17/youtube-outage-february-2026/)
 * [2026-02-18, 01:40:52](https://news.ycombinator.com/item?id=47055979) - [Thousands of CEOs just admitted AI had no impact on employment or productivity](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)

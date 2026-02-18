@@ -39,6 +39,7 @@
 * [2026-02-14, 13:47:44](https://news.ycombinator.com/item?id=47014500) - [Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB](https://github.com/datavorous/sameshi)
 * [2026-02-14, 13:42:04](https://news.ycombinator.com/item?id=47014460) - [PCB Rework and Repair Guide [pdf]](https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf)
 * [2026-02-14, 13:40:20](https://news.ycombinator.com/item?id=47014449) - [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
+* [2026-02-14, 13:39:36](https://news.ycombinator.com/item?id=47014442) - [Automatia and the Case for Vanilla](https://fwsgonzo.medium.com/automatia-and-the-case-for-vanilla-b3209cdf1583)
 * [2026-02-14, 13:33:03](https://news.ycombinator.com/item?id=47014405) - [How many registers does an x86-64 CPU have? (2020)](https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have)
 * [2026-02-14, 13:08:35](https://news.ycombinator.com/item?id=47014260) - [Unicorn Jelly](https://unicornjelly.com/)
 * [2026-02-14, 12:18:04](https://news.ycombinator.com/item?id=47014002) - [A Deep Dive into Apple's .car File Format](https://dbg.re/posts/car-file-format/)

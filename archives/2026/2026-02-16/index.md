@@ -17,6 +17,7 @@
 * [2026-02-16, 19:55:23](https://news.ycombinator.com/item?id=47039478) - [State of Show HN: 2025](https://blog.sturdystatistics.com/posts/show_hn/)
 * [2026-02-16, 19:52:30](https://news.ycombinator.com/item?id=47039440) - [Fff.nvim – Typo-resistant code search](https://github.com/dmtrKovalenko/fff.nvim)
 * [2026-02-16, 19:20:37](https://news.ycombinator.com/item?id=47039073) - [Docker Swarm vs. Kubernetes in 2026](https://thedecipherist.com/articles/docker_swarm_vs_kubernetes/)
+* [2026-02-16, 19:18:36](https://news.ycombinator.com/item?id=47039051) - [Show HN: Breadboard – a modern HyperCard for building web apps on the canvas](https://breadboards.io/)
 * [2026-02-16, 19:17:46](https://news.ycombinator.com/item?id=47039044) - [Show HN: 2D Coulomb Gas Simulator](https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html)
 * [2026-02-16, 19:09:58](https://news.ycombinator.com/item?id=47038965) - [Wero – Digital payment wallet, Made in Europe](https://wero-wallet.eu)
 * [2026-02-16, 18:54:37](https://news.ycombinator.com/item?id=47038731) - [Neurons outside the brain](https://essays.debugyourpain.com/p/you-are-not-just-your-brain)
