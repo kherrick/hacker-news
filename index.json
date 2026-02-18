@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-02-17, 23:21:23",
-      "https://news.ycombinator.com/item?id=47054873"
+      "2026-02-18, 00:30:41",
+      "https://news.ycombinator.com/item?id=47055467"
     ],
     [
-      "Run LLMs locally in Flutter with <200ms latency",
-      "https://github.com/ramanujammv1988/edge-veda"
+      "Tesla Robotaxis Reportedly Crashing at a Rate That's 4x Higher Than Humans",
+      "https://gizmodo.com/tesla-robotaxis-reportedly-crashing-at-a-rate-thats-4x-higher-than-humans-2000722989"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 00:26:15",
+      "https://news.ycombinator.com/item?id=47055424"
+    ],
+    [
+      "Rathbun's Operator",
+      "https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia",
       "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 22:40:11",
-      "https://news.ycombinator.com/item?id=47054464"
-    ],
-    [
-      "pg_background: Make Postgres do the long work (while your session stays light)",
-      "https://vibhorkumar.wordpress.com/2026/02/16/pg_background-make-postgres-do-the-long-work-while-your-session-stays-light/"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2026-02-17, 17:03:09",
+      "https://news.ycombinator.com/item?id=47049776"
+    ],
+    [
+      "Launch HN: Sonarly (YC W26) – AI agent to triage and fix your production alerts",
+      "https://sonarly.com/"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 16:59:34",
       "https://news.ycombinator.com/item?id=47049718"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-02-17, 13:31:45",
-      "https://news.ycombinator.com/item?id=47047301"
-    ],
-    [
-      "Show HN: I built the Million Dollar Homepage for agents",
-      "https://onemillionpixels.ai/"
-    ]
-  ],
-  [
-    [
       "2026-02-17, 10:29:14",
       "https://news.ycombinator.com/item?id=47045804"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2026-02-16, 01:54:33",
+      "https://news.ycombinator.com/item?id=47029999"
+    ],
+    [
+      "Old School Telecine, circa 1980s (2017)",
+      "https://www.liftgammagain.com/forum/index.php?threads/old-school-telecine-circa-1980s.9984/"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 12:49:22",
       "https://news.ycombinator.com/item?id=47023273"
     ],
     [
       "After 800 episodes, 'The Simpsons' creators look back and ahead",
       "https://apnews.com/article/simpsons-800-episodes-72d723e6d885b1944c9a1ec8b9a24c3a"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 00:32:25",
-      "https://news.ycombinator.com/item?id=47019902"
-    ],
-    [
-      "Don't pass on small block ciphers",
-      "https://00f.net/2026/02/10/small-block-ciphers/"
     ]
   ],
   [
