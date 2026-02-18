@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-02-18, 20:12:12",
-      "https://news.ycombinator.com/item?id=47065728"
+      "2026-02-18, 21:00:32",
+      "https://news.ycombinator.com/item?id=47066310"
     ],
     [
-      "The political effects of X's feed algorithm",
-      "https://werd.io/the-political-effects-of-xs-feed-algorithm/"
+      "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
+      "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2026-02-18, 18:09:27",
-      "https://news.ycombinator.com/item?id=47064105"
-    ],
-    [
-      "Activeloop (YC S18) Is Hiring Back End Engineer (Go)",
-      "https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 18:04:13",
       "https://news.ycombinator.com/item?id=47064047"
     ],
@@ -167,16 +157,6 @@
     [
       "Pocketbase lost its funding from FLOSS fund",
       "https://github.com/pocketbase/pocketbase/discussions/7287"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 16:07:59",
-      "https://news.ycombinator.com/item?id=47062521"
-    ],
-    [
-      "The only moat left is money?",
-      "https://elliotbonneville.com/the-only-moat-left-is-money/"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2026-02-18, 10:29:30",
+      "https://news.ycombinator.com/item?id=47059520"
+    ],
+    [
+      "Native FreeBSD Kerberos/LDAP with FreeIPA/IDM",
+      "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 07:45:11",
       "https://news.ycombinator.com/item?id=47058368"
     ],
@@ -297,6 +287,16 @@
     [
       "SkyRL brings Tinker to your GPUs (2025)",
       "https://novasky-ai.notion.site/skyrl-tinker"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 15:19:40",
+      "https://news.ycombinator.com/item?id=47003672"
+    ],
+    [
+      "Delphi is 31 years old – innovation timeline",
+      "https://blogs.embarcadero.com/delphi-innovation-timeline-31st-anniversary-edition-published-get-your-free-pdf/"
     ]
   ]
 ]
