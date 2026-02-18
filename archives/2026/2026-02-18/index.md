@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-18](index.md)
 
+* [2026-02-18, 18:58:38](https://news.ycombinator.com/item?id=47064787) - [Show HN: Echo, an iOS SSH+mosh client built on Ghostty](https://replay.software/updates/introducing-echo)
+* [2026-02-18, 18:37:22](https://news.ycombinator.com/item?id=47064490) - [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/)
 * [2026-02-18, 18:09:27](https://news.ycombinator.com/item?id=47064105) - [Activeloop (YC S18) Is Hiring Back End Engineer (Go)](https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f)
 * [2026-02-18, 18:08:17](https://news.ycombinator.com/item?id=47064090) - [Disney trip turned into immigration detention](https://www.propublica.org/article/ice-dilley-maria-antonia-guerra-story)
+* [2026-02-18, 18:04:13](https://news.ycombinator.com/item?id=47064047) - [DNS-Persist-01: A New Model for DNS-Based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html)
 * [2026-02-18, 17:56:08](https://news.ycombinator.com/item?id=47063950) - [Warren Buffett dumps $1.7B of Amazon stock](https://finbold.com/warren-buffett-dumps-1-7-billion-of-amazon-stock/)
 * [2026-02-18, 17:38:46](https://news.ycombinator.com/item?id=47063724) - [Arizona Bill Requires Age Verification for All Apps](https://reclaimthenet.org/arizona-bill-would-require-id-checks-to-use-a-weather-app)
 * [2026-02-18, 17:18:50](https://news.ycombinator.com/item?id=47063451) - [Fei-Fei Li's World Labs raised $1B from A16Z, Nvidia to advance its world models](https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion)
