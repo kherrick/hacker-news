@@ -1,12 +1,102 @@
 [
   [
     [
+      "2026-02-18, 17:10:18",
+      "https://news.ycombinator.com/item?id=47063338"
+    ],
+    [
+      "Weave (YC W25) Is Hiring ML, Design, and Product Engineers",
+      "https://jobs.ashbyhq.com/workweave"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 17:04:23",
+      "https://news.ycombinator.com/item?id=47063263"
+    ],
+    [
+      "Unprecedented 'Jobless Boom' Tests Limits of US Economic Expansion",
+      "https://www.bloomberg.com/news/features/2026-02-18/us-economy-expansion-forecast-even-with-weak-jobs-data"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 16:46:12",
+      "https://news.ycombinator.com/item?id=47063005"
+    ],
+    [
+      "Tailscale Peer Relays is now generally available",
+      "https://tailscale.com/blog/peer-relays-ga"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 16:37:57",
+      "https://news.ycombinator.com/item?id=47062883"
+    ],
+    [
+      "Cistercian Numbers",
+      "https://www.omniglot.com/language/numbers/cistercian-numbers.htm"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 16:33:56",
+      "https://news.ycombinator.com/item?id=47062824"
+    ],
+    [
+      "Show HN: Trust Protocols for Anthropic/OpenAI/Gemini",
+      "https://www.mnemom.ai"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 16:28:19",
+      "https://news.ycombinator.com/item?id=47062748"
+    ],
+    [
+      "Zero-day CSS: CVE-2026-2441 exists in the wild",
+      "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 16:11:00",
+      "https://news.ycombinator.com/item?id=47062561"
+    ],
+    [
+      "Pocketbase lost its funding from FLOSS fund",
+      "https://github.com/pocketbase/pocketbase/discussions/7287"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 16:08:48",
       "https://news.ycombinator.com/item?id=47062534"
     ],
     [
-      "Why AI Velocity Is Becoming a Debt Accelerator",
+      "The Future of AI Software Development",
       "https://martinfowler.com/fragments/2026-02-18.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 16:07:59",
+      "https://news.ycombinator.com/item?id=47062521"
+    ],
+    [
+      "The only moat left is money?",
+      "https://elliotbonneville.com/the-only-moat-left-is-money/"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 15:53:15",
+      "https://news.ycombinator.com/item?id=47062329"
+    ],
+    [
+      "Garment Notation Language: Formal descriptive language for clothing construction",
+      "https://github.com/khalildh/garment-notation"
     ]
   ],
   [
@@ -17,6 +107,16 @@
     [
       "Show HN: VectorNest responsive web-based SVG editor",
       "https://ekrsulov.github.io/vectornest/"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 15:06:04",
+      "https://news.ycombinator.com/item?id=47061742"
+    ],
+    [
+      "Show HN: Formally verified FPGA watchdog for AM broadcast in unmanned tunnels",
+      "https://github.com/Park07/amradio"
     ]
   ],
   [
@@ -41,32 +141,12 @@
   ],
   [
     [
-      "2026-02-18, 13:00:11",
-      "https://news.ycombinator.com/item?id=47060486"
-    ],
-    [
-      "Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony",
-      "https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 12:16:12",
       "https://news.ycombinator.com/item?id=47060202"
     ],
     [
       "Microsoft says bug causes Copilot to summarize confidential emails",
       "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 12:00:50",
-      "https://news.ycombinator.com/item?id=47060117"
-    ],
-    [
-      "Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers",
-      "https://www.ycombinator.com/companies/zep-ai/jobs"
     ]
   ],
   [
@@ -151,32 +231,22 @@
   ],
   [
     [
-      "2026-02-18, 02:18:29",
-      "https://news.ycombinator.com/item?id=47056314"
-    ],
-    [
-      "Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)",
-      "https://www.sceneandheardnu.com/content/halt-and-catch-fire"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 01:40:52",
-      "https://news.ycombinator.com/item?id=47055979"
-    ],
-    [
-      "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-      "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/"
-    ]
-  ],
-  [
-    [
       "2026-02-17, 20:35:18",
       "https://news.ycombinator.com/item?id=47052941"
     ],
     [
       "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
       "https://github.com/Zaneham/BarraCUDA"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 20:15:57",
+      "https://news.ycombinator.com/item?id=47052674"
+    ],
+    [
+      "Show HN: I'm launching a LPFM radio station",
+      "https://www.kpbj.fm/"
     ]
   ],
   [
@@ -191,26 +261,6 @@
   ],
   [
     [
-      "2026-02-17, 17:48:52",
-      "https://news.ycombinator.com/item?id=47050488"
-    ],
-    [
-      "Claude Sonnet 4.6",
-      "https://www.anthropic.com/news/claude-sonnet-4-6"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 17:21:04",
-      "https://news.ycombinator.com/item?id=47050067"
-    ],
-    [
-      "Gentoo on Codeberg",
-      "https://www.gentoo.org/news/2026/02/16/codeberg.html"
-    ]
-  ],
-  [
-    [
       "2026-02-17, 17:06:18",
       "https://news.ycombinator.com/item?id=47049824"
     ],
@@ -221,62 +271,12 @@
   ],
   [
     [
-      "2026-02-17, 16:48:43",
-      "https://news.ycombinator.com/item?id=47049573"
+      "2026-02-14, 10:15:24",
+      "https://news.ycombinator.com/item?id=47013324"
     ],
     [
-      "HackMyClaw",
-      "https://hackmyclaw.com/"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 16:42:35",
-      "https://news.ycombinator.com/item?id=47049479"
-    ],
-    [
-      "Using go fix to modernize Go code",
-      "https://go.dev/blog/gofix"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 19:18:36",
-      "https://news.ycombinator.com/item?id=47039051"
-    ],
-    [
-      "Show HN: Breadboard – A modern HyperCard for building web apps on the canvas",
-      "https://breadboards.io/"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 18:00:49",
-      "https://news.ycombinator.com/item?id=47016696"
-    ],
-    [
-      "Elvish as She Is Spoke [pdf]",
-      "https://www.elvish.org/articles/EASIS.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 17:56:26",
-      "https://news.ycombinator.com/item?id=47016658"
-    ],
-    [
-      "Instruction decoding in the Intel 8087 floating-point chip",
-      "https://www.righto.com/2026/02/8087-instruction-decoding.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 15:17:46",
-      "https://news.ycombinator.com/item?id=47015138"
-    ],
-    [
-      "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
-      "https://www.vogons.org/viewtopic.php?t=105451"
+      "Windows: Prefer the Native API over Win32",
+      "https://codeberg.org/ziglang/zig/issues/31131"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-02-13, 23:21:58",
-      "https://news.ycombinator.com/item?id=47009195"
+      "2026-02-13, 20:44:08",
+      "https://news.ycombinator.com/item?id=47007584"
     ],
     [
-      "Show HN: Open Notes – Community Notes-style context for Discord",
-      "https://opennotes.ai/discord-bot"
+      "Ask HN: Are there examples of 3D printing data onto physical surfaces?",
+      "https://news.ycombinator.com/item?id=47007584"
     ]
   ]
 ]
