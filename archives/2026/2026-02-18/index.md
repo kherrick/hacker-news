@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-02-18](index.md)
 
+* [2026-02-18, 19:28:59](https://news.ycombinator.com/item?id=47065179) - [R3forth: A Concatenative Language Derived from ColorForth](https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md)
+* [2026-02-18, 19:25:08](https://news.ycombinator.com/item?id=47065140) - [Complexity Science and Emergent Order: How Simple Rules Create Complex Systems](https://mysticryst.com/blogs/the-mystic-journal/complexity-science-emergent-order-simple-rules-complex-systems)
+* [2026-02-18, 19:22:56](https://news.ycombinator.com/item?id=47065120) - [Discrete Structures [pdf]](https://kyleormsby.github.io/files/113spring26/113full_text.pdf)
+* [2026-02-18, 19:08:20](https://news.ycombinator.com/item?id=47064944) - [99% of adults over 40 have shoulder \"abnormalities\" on an MRI, study finds](https://arstechnica.com/health/2026/02/99-of-adults-over-40-have-shoulder-abnormalities-on-an-mri-study-finds/)
+* [2026-02-18, 19:02:18](https://news.ycombinator.com/item?id=47064845) - [What Every Experimenter Must Know About Randomization](https://spawn-queue.acm.org/doi/pdf/10.1145/3778029)
 * [2026-02-18, 18:58:38](https://news.ycombinator.com/item?id=47064787) - [Show HN: Echo, an iOS SSH+mosh client built on Ghostty](https://replay.software/updates/introducing-echo)
 * [2026-02-18, 18:37:22](https://news.ycombinator.com/item?id=47064490) - [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/)
+* [2026-02-18, 18:35:54](https://news.ycombinator.com/item?id=47064470) - [OpenClaw Is Dangerous](https://12gramsofcarbon.com/p/tech-things-openclaw-is-dangerous)
 * [2026-02-18, 18:09:27](https://news.ycombinator.com/item?id=47064105) - [Activeloop (YC S18) Is Hiring Back End Engineer (Go)](https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f)
 * [2026-02-18, 18:08:17](https://news.ycombinator.com/item?id=47064090) - [Disney trip turned into immigration detention](https://www.propublica.org/article/ice-dilley-maria-antonia-guerra-story)
 * [2026-02-18, 18:04:13](https://news.ycombinator.com/item?id=47064047) - [DNS-Persist-01: A New Model for DNS-Based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html)
