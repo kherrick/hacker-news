@@ -56,6 +56,7 @@
 * [2026-02-15, 08:17:05](https://news.ycombinator.com/item?id=47021980) - [Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library](https://oat.ink/)
 * [2026-02-15, 07:21:58](https://news.ycombinator.com/item?id=47021711) - [Hamming Distance for Hybrid Search in SQLite](https://notnotp.com/notes/hamming-distance-for-hybrid-search-in-sqlite/)
 * [2026-02-15, 06:48:13](https://news.ycombinator.com/item?id=47021586) - [Ex-Tech –> Homeless in SF](https://zamoshi.substack.com/p/ninety-four-degrees)
+* [2026-02-15, 06:30:54](https://news.ycombinator.com/item?id=47021525) - [Use Microsoft Office Shortcuts in Libre Office](https://github.com/Zaki101Aslam/MS-office-shortcuts-for-Libre-Office)
 * [2026-02-15, 06:00:42](https://news.ycombinator.com/item?id=47021421) - [Discord Distances Itself from Peter Thiel's Palantir Age Verification Firm](https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951)
 * [2026-02-15, 05:43:59](https://news.ycombinator.com/item?id=47021354) - [Flashpoint Archive – Over 200k web games and animations preserved](https://flashpointarchive.org)
 * [2026-02-15, 04:29:44](https://news.ycombinator.com/item?id=47021065) - [Linear Representations and Superposition](http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html)

@@ -31,6 +31,7 @@
 * [2026-02-14, 15:41:59](https://news.ycombinator.com/item?id=47015342) - [A Programmer's Loss of Identity](https://ratfactor.com/tech-nope2)
 * [2026-02-14, 15:39:43](https://news.ycombinator.com/item?id=47015330) - [Vim 9.2 Released](https://www.vim.org/vim-9.2-released.php)
 * [2026-02-14, 15:35:47](https://news.ycombinator.com/item?id=47015294) - [My smart sleep mask broadcasts users' brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/)
+* [2026-02-14, 15:17:46](https://news.ycombinator.com/item?id=47015138) - [Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990](https://www.vogons.org/viewtopic.php?t=105451)
 * [2026-02-14, 15:10:23](https://news.ycombinator.com/item?id=47015084) - [Homeland Security has sent out subpoenas to identify ICE critics](https://www.engadget.com/big-tech/homeland-security-has-reportedly-sent-out-hundreds-of-subpoenas-to-identify-ice-critics-online-135245457.html)
 * [2026-02-14, 14:59:28](https://news.ycombinator.com/item?id=47014999) - [Epstein's Ugly World of Science](https://homunculusmusic.wordpress.com/2026/02/14/epsteins-ugly-world-of-science/)
 * [2026-02-14, 14:58:29](https://news.ycombinator.com/item?id=47014995) - [7zip.com Is Serving Malware](https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes)
