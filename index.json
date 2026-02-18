@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-18, 10:00:11",
+      "https://news.ycombinator.com/item?id=47059275"
+    ],
+    [
+      "Asahi Linux Progress Report: Linux 6.19",
+      "https://asahilinux.org/2026/02/progress-report-6-19/"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 07:18:50",
       "https://news.ycombinator.com/item?id=47058219"
     ],
@@ -77,26 +87,6 @@
     [
       "Thousands of CEOs just admitted AI had no impact on employment or productivity",
       "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 01:19:15",
-      "https://news.ycombinator.com/item?id=47055786"
-    ],
-    [
-      "Advice, not control: the role of Remote Assistance in Waymo's operations",
-      "https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 01:05:33",
-      "https://news.ycombinator.com/item?id=47055696"
-    ],
-    [
-      "Google Public CA is down",
-      "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3"
     ]
   ],
   [
@@ -261,22 +251,32 @@
   ],
   [
     [
-      "2026-02-15, 21:57:29",
-      "https://news.ycombinator.com/item?id=47028049"
-    ],
-    [
-      "The Economics of a Super Bowl Ad",
-      "https://ro.co/perspectives/super-bowl-economics/"
-    ]
-  ],
-  [
-    [
       "2026-02-15, 13:46:08",
       "https://news.ycombinator.com/item?id=47023616"
     ],
     [
       "Semantic Diffusion (2006)",
       "https://martinfowler.com/bliki/SemanticDiffusion.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 06:30:54",
+      "https://news.ycombinator.com/item?id=47021525"
+    ],
+    [
+      "Use Microsoft Office Shortcuts in Libre Office",
+      "https://github.com/Zaki101Aslam/MS-office-shortcuts-for-Libre-Office"
+    ]
+  ],
+  [
+    [
+      "2026-02-14, 18:00:49",
+      "https://news.ycombinator.com/item?id=47016696"
+    ],
+    [
+      "Elvish as She Is Spoke [pdf]",
+      "https://www.elvish.org/articles/EASIS.pdf"
     ]
   ],
   [
