@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-18, 21:18:20](https://news.ycombinator.com/item?id=47066552) - [Womens Sizing](https://pudding.cool/2026/02/womens-sizing/)
+* [2026-02-18, 21:18:20](https://news.ycombinator.com/item?id=47066552) - [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)
 * [2026-02-18, 21:00:32](https://news.ycombinator.com/item?id=47066310) - [Metriport (YC S22) is hiring a security engineer to harden healthcare infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
+* [2026-02-18, 20:54:31](https://news.ycombinator.com/item?id=47066241) - [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)
 * [2026-02-18, 20:09:10](https://news.ycombinator.com/item?id=47065678) - [There is unequivocal evidence that Earth is warming (2024)](https://science.nasa.gov/climate-change/evidence/)
 * [2026-02-18, 19:28:59](https://news.ycombinator.com/item?id=47065179) - [R3forth: A concatenative language derived from ColorForth](https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md)
 * [2026-02-18, 19:25:46](https://news.ycombinator.com/item?id=47065146) - [A solver for Semantle](https://victoriaritvo.com/blog/semantle-solver/)
@@ -14,6 +15,7 @@
 * [2026-02-18, 16:37:57](https://news.ycombinator.com/item?id=47062883) - [Cistercian Numbers](https://www.omniglot.com/language/numbers/cistercian-numbers.htm)
 * [2026-02-18, 16:28:19](https://news.ycombinator.com/item?id=47062748) - [Zero-day CSS: CVE-2026-2441 exists in the wild](https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html)
 * [2026-02-18, 16:11:00](https://news.ycombinator.com/item?id=47062561) - [Pocketbase lost its funding from FLOSS fund](https://github.com/pocketbase/pocketbase/discussions/7287)
+* [2026-02-18, 16:07:59](https://news.ycombinator.com/item?id=47062521) - [The only moat left is money?](https://elliotbonneville.com/the-only-moat-left-is-money/)
 * [2026-02-18, 15:53:15](https://news.ycombinator.com/item?id=47062329) - [Garment Notation Language: Formal descriptive language for clothing construction](https://github.com/khalildh/garment-notation)
 * [2026-02-18, 15:31:57](https://news.ycombinator.com/item?id=47062096) - [Show HN: VectorNest responsive web-based SVG editor](https://ekrsulov.github.io/vectornest/)
 * [2026-02-18, 15:06:04](https://news.ycombinator.com/item?id=47061742) - [Show HN: Formally verified FPGA watchdog for AM broadcast in unmanned tunnels](https://github.com/Park07/amradio)
@@ -24,12 +26,10 @@
 * [2026-02-18, 10:29:30](https://news.ycombinator.com/item?id=47059520) - [Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)
 * [2026-02-18, 07:45:11](https://news.ycombinator.com/item?id=47058368) - [Portugal: The First Global Empire (2015)](https://www.historytoday.com/archive/first-global-empire)
 * [2026-02-18, 07:18:50](https://news.ycombinator.com/item?id=47058219) - [If you’re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)
-* [2026-02-18, 06:19:37](https://news.ycombinator.com/item?id=47057824) - [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
 * [2026-02-16, 06:43:46](https://news.ycombinator.com/item?id=47031656) - [Assigning Open Problems in Class](https://blog.computationalcomplexity.org/2026/02/assigning-open-problems-in-class.html)
 * [2026-02-15, 18:42:29](https://news.ycombinator.com/item?id=47026202) - [The true history of the Minotaur: what archaeology reveals](https://www.nationalgeographic.fr/histoire/la-veritable-histoire-du-minotaure-ce-que-revele-archeologie-recherche-verification)
+* [2026-02-15, 15:44:11](https://news.ycombinator.com/item?id=47024585) - [Making a font with ligatures to display thirteenth-century monk numerals](https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals)
 * [2026-02-15, 10:20:02](https://news.ycombinator.com/item?id=47022604) - [Learning Lean: Part 1](https://rkirov.github.io/posts/lean1/)
-* [2026-02-13, 18:26:24](https://news.ycombinator.com/item?id=47005945) - [SkyRL brings Tinker to your GPUs (2025)](https://novasky-ai.notion.site/skyrl-tinker)
-* [2026-02-13, 15:19:40](https://news.ycombinator.com/item?id=47003672) - [Delphi is 31 years old – innovation timeline](https://blogs.embarcadero.com/delphi-innovation-timeline-31st-anniversary-edition-published-get-your-free-pdf/)
 
 ## [Archives](archives/index.md)
 

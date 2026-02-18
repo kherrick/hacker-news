@@ -35,6 +35,7 @@
 * [2026-02-15, 16:40:13](https://news.ycombinator.com/item?id=47025085) - [Pocketblue – Fedora Atomic for mobile devices](https://github.com/pocketblue/pocketblue)
 * [2026-02-15, 16:19:51](https://news.ycombinator.com/item?id=47024907) - [Hideki Sato, designer of all Sega's consoles, has died](https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/)
 * [2026-02-15, 15:53:13](https://news.ycombinator.com/item?id=47024676) - [An Enslaved Gardener Transformed the Pecan into a Cash Crop](https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/)
+* [2026-02-15, 15:44:11](https://news.ycombinator.com/item?id=47024585) - [Making a font with ligatures to display thirteenth-century monk numerals](https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals)
 * [2026-02-15, 15:37:06](https://news.ycombinator.com/item?id=47024506) - [Gwtar: A static efficient single-file HTML format](https://gwern.net/gwtar)
 * [2026-02-15, 15:23:17](https://news.ycombinator.com/item?id=47024398) - [Show HN: Fieldnotes](https://fieldnote.ink)
 * [2026-02-15, 15:21:08](https://news.ycombinator.com/item?id=47024387) - [AI is going to kill app subscriptions](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
