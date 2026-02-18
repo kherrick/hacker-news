@@ -41,6 +41,7 @@
 * [2026-02-15, 14:48:43](https://news.ycombinator.com/item?id=47024112) - [Inner-Platform Effect](https://en.wikipedia.org/wiki/Inner-platform_effect)
 * [2026-02-15, 14:29:03](https://news.ycombinator.com/item?id=47023959) - [The Dark Side of the Enlightenment](https://www.newstatesman.com/culture/books/2026/02/the-dark-side-of-the-enlightenment)
 * [2026-02-15, 13:48:44](https://news.ycombinator.com/item?id=47023633) - [Kimi Claw](https://www.kimi.com/bot)
+* [2026-02-15, 13:46:08](https://news.ycombinator.com/item?id=47023616) - [Semantic Diffusion (2006)](https://martinfowler.com/bliki/SemanticDiffusion.html)
 * [2026-02-15, 13:02:20](https://news.ycombinator.com/item?id=47023333) - [Show HN: Perlin Noise Terminal Animation in Rust (60 FPS, Truecolor)](https://github.com/denisepattenson/perlin-terminal)
 * [2026-02-15, 12:49:22](https://news.ycombinator.com/item?id=47023273) - [After 800 episodes, 'The Simpsons' creators look back and ahead](https://apnews.com/article/simpsons-800-episodes-72d723e6d885b1944c9a1ec8b9a24c3a)
 * [2026-02-15, 12:42:17](https://news.ycombinator.com/item?id=47023238) - [Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State](https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly)
