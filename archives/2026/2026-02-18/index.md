@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-18](index.md)
 
+* [2026-02-18, 21:18:20](https://news.ycombinator.com/item?id=47066552) - [Womens Sizing](https://pudding.cool/2026/02/womens-sizing/)
 * [2026-02-18, 21:00:32](https://news.ycombinator.com/item?id=47066310) - [Metriport (YC S22) is hiring a security engineer to harden healthcare infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
 * [2026-02-18, 20:12:12](https://news.ycombinator.com/item?id=47065728) - [The political effects of X's feed algorithm](https://werd.io/the-political-effects-of-xs-feed-algorithm/)
 * [2026-02-18, 20:09:10](https://news.ycombinator.com/item?id=47065678) - [There is unequivocal evidence that Earth is warming](https://science.nasa.gov/climate-change/evidence/)
@@ -41,6 +42,7 @@
 * [2026-02-18, 14:05:39](https://news.ycombinator.com/item?id=47061029) - [Show HN: CEL by Example](https://celbyexample.com/)
 * [2026-02-18, 13:00:11](https://news.ycombinator.com/item?id=47060486) - [Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony](https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/)
 * [2026-02-18, 12:57:30](https://news.ycombinator.com/item?id=47060469) - [macOS Tahoe 26.3 is Broken](https://taoofmac.com/space/blog/2026/02/18/1230)
+* [2026-02-18, 12:18:26](https://news.ycombinator.com/item?id=47060220) - [Show HN: Rebrain.gg – Doom learn, don't doom scroll](https://news.ycombinator.com/item?id=47060220)
 * [2026-02-18, 12:16:12](https://news.ycombinator.com/item?id=47060202) - [Microsoft says bug causes Copilot to summarize confidential emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/)
 * [2026-02-18, 12:00:50](https://news.ycombinator.com/item?id=47060117) - [Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers](https://www.ycombinator.com/companies/zep-ai/jobs)
 * [2026-02-18, 11:51:01](https://news.ycombinator.com/item?id=47060052) - [Fastest Front End Tooling for Humans and AI](https://cpojer.net/posts/fastest-frontend-tooling)

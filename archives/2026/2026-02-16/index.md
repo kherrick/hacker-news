@@ -58,6 +58,7 @@
 * [2026-02-16, 10:26:22](https://news.ycombinator.com/item?id=47033328) - [MessageFormat: Unicode standard for localizable message strings](https://github.com/unicode-org/message-format-wg)
 * [2026-02-16, 09:32:21](https://news.ycombinator.com/item?id=47032876) - [Qwen3.5: Towards Native Multimodal Agents](https://qwen.ai/blog?id=qwen3.5)
 * [2026-02-16, 08:04:11](https://news.ycombinator.com/item?id=47032235) - [picol: A Tcl interpreter in 500 lines of code](https://github.com/antirez/picol)
+* [2026-02-16, 06:43:46](https://news.ycombinator.com/item?id=47031656) - [Assigning Open Problems in Class](https://blog.computationalcomplexity.org/2026/02/assigning-open-problems-in-class.html)
 * [2026-02-16, 06:31:48](https://news.ycombinator.com/item?id=47031580) - [I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://mastodon.world/@knowmadd/116072773118828295)
 * [2026-02-16, 05:53:03](https://news.ycombinator.com/item?id=47031334) - [Show HN: Jemini – Gemini for the Epstein Files](https://jmail.world/jemini)
 * [2026-02-16, 05:38:51](https://news.ycombinator.com/item?id=47031268) - [Building SQLite with a small swarm](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html)
