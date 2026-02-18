@@ -129,23 +129,282 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47063338">
+          <h3>
+            <a class="item" href="https://jobs.ashbyhq.com/workweave"
+              >Weave (YC W25) Is Hiring ML, Design, and Product Engineers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-18 @ 17:10:18</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47063263">
+          <h3>
+            <a
+              class="item"
+              href="https://www.bloomberg.com/news/features/2026-02-18/us-economy-expansion-forecast-even-with-weak-jobs-data"
+              >Unprecedented 'Jobless Boom' Tests Limits of US Economic
+              Expansion</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-18 @ 17:04:23</span
+              ><span class="points-container"
+                >Points: <span class="points">43</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47063263"
+                  >Comments</a
+                ><span class="descendants">: 52</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47063005">
+          <h3>
+            <a class="item" href="https://tailscale.com/blog/peer-relays-ga"
+              >Tailscale Peer Relays is now generally available</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-18 @ 16:46:12</span
+              ><span class="points-container"
+                >Points: <span class="points">129</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47063005"
+                  >Comments</a
+                ><span class="descendants">: 27</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47062883">
+          <h3>
+            <a
+              class="item"
+              href="https://www.omniglot.com/language/numbers/cistercian-numbers.htm"
+              >Cistercian Numbers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-18 @ 16:37:57</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47062883"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47062824">
+          <h3>
+            <a class="item" href="https://www.mnemom.ai"
+              >Show HN: Trust Protocols for Anthropic/OpenAI/Gemini</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-18 @ 16:33:56</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47062824"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Here are two open-source protocols that extend A2A, granting AI
+                agents behavioral contracts and runtime integrity monitoring:
+              </p>
+              <p>
+                - Agent Alignment Protocol (AAP): What an agent can do / has
+                done. - Agent Integrity Protocol (AIP): What an agent is
+                thinking about doing / is allowed to do.
+              </p>
+              <p>
+                The problem: AI agents make autonomous decisions but have no
+                standard way to declare what they're allowed to do, prove
+                they're doing it, or detect when they've drifted. Observability
+                tools tell you what happened. These protocols tell you whether
+                what happened was okay.
+              </p>
+              <p>
+                Here's a concrete example. Say you have an agent who handles
+                customer support tickets. Its Alignment Card declares:
+              </p>
+              <p>
+                { "permitted": ["read_tickets", "draft_responses",
+                "escalate_to_human"], "forbidden": ["access_payment_data",
+                "issue_refunds", "modify_account_settings"],
+                "escalation_triggers": ["billing_request_over_500"], "values":
+                ["accuracy", "empathy", "privacy"] }
+              </p>
+              <p>
+                The agent gets a ticket: "Can you refund my last three orders?"
+                The agent's reasoning trace shows it considering a call to the
+                payments API. AIP reads that thinking, compares it to the card,
+                and produces an Integrity Checkpoint:
+              </p>
+              <p>
+                { "verdict": "boundary_violation", "concerns":
+                ["forbidden_action: access_payment_data"], "reasoning": "Agent
+                considered payments API access, which is explicitly forbidden.
+                Should escalate to human.", "confidence": 0.95 }
+              </p>
+              <p>
+                The agent gets nudged back before it acts. Not after. Not in a
+                log you review during a 2:00 AM triage. Between this turn and
+                the next.
+              </p>
+              <p>
+                That's the core idea. AAP defines what agents should do (the
+                contract). AIP watches what they're actually thinking and flags
+                when those diverge (the conscience). Over time, AIP builds a
+                drift profile — if an agent that was cautious starts getting
+                aggressive, the system notices.
+              </p>
+              <p>
+                When multiple agents work together, it gets more interesting.
+                Agents exchange Alignment Cards and verify value compatibility
+                before coordination begins. An agent that values "move fast" and
+                one that values "rollback safety" registers low coherence, and
+                the system surfaces that conflict before work starts. Live demo
+                with four agents handling a production incident:
+                <a href="https://mnemom.ai/showcase"
+                  >https://mnemom.ai/showcase</a
+                >
+              </p>
+              <p>
+                The protocols are Apache-licensed, work with any
+                Anthropic/OpenAI/Gemini agent, and ship as SDKs on npm and PyPI.
+                A free gateway proxy (smoltbot) adds integrity checking to any
+                agent with zero code changes.
+              </p>
+              <p>
+                GitHub:
+                <a href="https://github.com/mnemom"
+                  >https://github.com/mnemom</a
+                >
+                Docs: docs.mnemom.ai Demo video:
+                <a href="https://youtu.be/fmUxVZH09So"
+                  >https://youtu.be/fmUxVZH09So</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47062748">
+          <h3>
+            <a
+              class="item"
+              href="https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html"
+              >Zero-day CSS: CVE-2026-2441 exists in the wild</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-18 @ 16:28:19</span
+              ><span class="points-container"
+                >Points: <span class="points">128</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47062748"
+                  >Comments</a
+                ><span class="descendants">: 54</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47062561">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/pocketbase/pocketbase/discussions/7287"
+              >Pocketbase lost its funding from FLOSS fund</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-18 @ 16:11:00</span
+              ><span class="points-container"
+                >Points: <span class="points">38</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47062561"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47062534">
           <h3>
             <a
               class="item"
               href="https://martinfowler.com/fragments/2026-02-18.html"
-              >Why AI Velocity Is Becoming a Debt Accelerator</a
+              >The Future of AI Software Development</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-02-18 @ 16:08:48</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47062534"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 82</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47062521">
+          <h3>
+            <a
+              class="item"
+              href="https://elliotbonneville.com/the-only-moat-left-is-money/"
+              >The only moat left is money?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-18 @ 16:07:59</span
+              ><span class="points-container"
+                >Points: <span class="points">108</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47062521"
+                  >Comments</a
+                ><span class="descendants">: 138</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47062329">
+          <h3>
+            <a class="item" href="https://github.com/khalildh/garment-notation"
+              >Garment Notation Language: Formal descriptive language for
+              clothing construction</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-18 @ 15:53:15</span
+              ><span class="points-container"
+                >Points: <span class="points">71</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47062329"
+                  >Comments</a
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -160,11 +419,11 @@
             <h4>
               <span>2026-02-18 @ 15:31:57</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47062096"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
             <div class="text">
@@ -187,6 +446,26 @@
             </div>
           </section>
         </section>
+        <section id="47061742">
+          <h3>
+            <a class="item" href="https://github.com/Park07/amradio"
+              >Show HN: Formally verified FPGA watchdog for AM broadcast in
+              unmanned tunnels</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-18 @ 15:06:04</span
+              ><span class="points-container"
+                >Points: <span class="points">33</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47061742"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47061062">
           <h3>
             <a
@@ -199,11 +478,11 @@
             <h4>
               <span>2026-02-18 @ 14:08:11</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47061062"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -218,32 +497,11 @@
             <h4>
               <span>2026-02-18 @ 14:05:39</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47061029"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47060486">
-          <h3>
-            <a
-              class="item"
-              href="https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/"
-              >Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-18 @ 13:00:11</span
-              ><span class="points-container"
-                >Points: <span class="points">430</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47060486"
-                  >Comments</a
-                ><span class="descendants">: 260</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -261,29 +519,11 @@
             <h4>
               <span>2026-02-18 @ 12:16:12</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47060202"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47060117">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ycombinator.com/companies/zep-ai/jobs"
-              >Zep AI (Building the Context Graph, YC W24) Is Hiring
-              Engineers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-18 @ 12:00:50</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -300,11 +540,11 @@
             <h4>
               <span>2026-02-18 @ 11:51:01</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47060052"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -321,11 +561,11 @@
             <h4>
               <span>2026-02-18 @ 10:29:30</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47059520"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -342,11 +582,11 @@
             <h4>
               <span>2026-02-18 @ 10:00:11</span
               ><span class="points-container"
-                >Points: <span class="points">291</span></span
+                >Points: <span class="points">313</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47059275"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -361,11 +601,11 @@
             <h4>
               <span>2026-02-18 @ 07:18:50</span
               ><span class="points-container"
-                >Points: <span class="points">489</span></span
+                >Points: <span class="points">553</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47058219"
                   >Comments</a
-                ><span class="descendants">: 243</span></span
+                ><span class="descendants">: 255</span></span
               >
             </h4>
           </section>
@@ -380,7 +620,7 @@
             <h4>
               <span>2026-02-18 @ 06:29:36</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47057879"
                   >Comments</a
@@ -399,11 +639,11 @@
             <h4>
               <span>2026-02-18 @ 06:20:13</span
               ><span class="points-container"
-                >Points: <span class="points">848</span></span
+                >Points: <span class="points">882</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47057829"
                   >Comments</a
-                ><span class="descendants">: 318</span></span
+                ><span class="descendants">: 325</span></span
               >
             </h4>
           </section>
@@ -420,11 +660,11 @@
             <h4>
               <span>2026-02-18 @ 06:19:37</span
               ><span class="points-container"
-                >Points: <span class="points">381</span></span
+                >Points: <span class="points">391</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47057824"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -440,55 +680,11 @@
             <h4>
               <span>2026-02-18 @ 06:00:35</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47057707"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47056314">
-          <h3>
-            <a
-              class="item"
-              href="https://www.sceneandheardnu.com/content/halt-and-catch-fire"
-              >Halt and Catch Fire: TV’s best drama you’ve probably never heard
-              of (2021)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-18 @ 02:18:29</span
-              ><span class="points-container"
-                >Points: <span class="points">639</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47056314"
-                  >Comments</a
-                ><span class="descendants">: 343</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47055979">
-          <h3>
-            <a
-              class="item"
-              href="https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/"
-              >Thousands of CEOs just admitted AI had no impact on employment or
-              productivity</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-18 @ 01:40:52</span
-              ><span class="points-container"
-                >Points: <span class="points">733</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47055979"
-                  >Comments</a
-                ><span class="descendants">: 646</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -503,13 +699,78 @@
             <h4>
               <span>2026-02-17 @ 20:35:18</span
               ><span class="points-container"
-                >Points: <span class="points">429</span></span
+                >Points: <span class="points">434</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47052941"
                   >Comments</a
-                ><span class="descendants">: 177</span></span
+                ><span class="descendants">: 185</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="47052674">
+          <h3>
+            <a class="item" href="https://www.kpbj.fm/"
+              >Show HN: I'm launching a LPFM radio station</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-17 @ 20:15:57</span
+              ><span class="points-container"
+                >Points: <span class="points">67</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47052674"
+                  >Comments</a
+                ><span class="descendants">: 46</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                KPBJ is a freeform community radio station. Anyone in the area
+                is encouraged to get a timeslot and become a host. We make no
+                curatorial decisions. Its sort of like public access or a
+                college station in that way.
+              </p>
+              <p>
+                This month we launched our internet stream and on-boarded about
+                60 shows. They are mostly music but there are a few talk shows.
+                We are restricting all shows to monthly time slots for now but
+                this will change in the near future as everyone gets more
+                familiar with the systems involved.
+              </p>
+              <p>
+                All shows are pre-recorded until we can raise the money to get a
+                studio.
+              </p>
+              <p>
+                We have a site secured for our transmitter but we need to
+                fundraise to cover the equipment and build out costs. We will be
+                broadcasting with 100W ERP from a ridgeline in the Verdugos at
+                about 1500ft elevation. The site will need to be off grid so we
+                will need to install a solar system with battery backup. We are
+                planning to sync the station to the transmit site with 802.11ah.
+              </p>
+              <p>
+                I've built all of our web infrastructure using Haskell, NixOS,
+                Terraform, and HTMX:
+                <a href="https://github.com/solomon-b/kpbj.fm"
+                  >https://github.com/solomon-b/kpbj.fm</a
+                >
+              </p>
+              <p>
+                This is a pretty substantial project involving a bunch of social
+                and technical challenges and a shoe string budget. I'm feel
+                pretty confident we will pull it off and make it a high impact
+                local radio station.
+              </p>
+              <p>
+                The station is managed by a 501c3 non-profit we created. We are
+                actively seeking fundraising, especially to get our transmit
+                site up and running. If you live in the area or want to
+                contribute in any way then please reach out!
+              </p>
+            </div>
           </section>
         </section>
         <section id="47051852">
@@ -524,11 +785,11 @@
             <h4>
               <span>2026-02-17 @ 19:24:55</span
               ><span class="points-container"
-                >Points: <span class="points">439</span></span
+                >Points: <span class="points">443</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47051852"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
             <div class="text">
@@ -582,60 +843,6 @@
             </div>
           </section>
         </section>
-        <section id="47050488">
-          <h3>
-            <a
-              class="item"
-              href="https://www.anthropic.com/news/claude-sonnet-4-6"
-              >Claude Sonnet 4.6</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-17 @ 17:48:52</span
-              ><span class="points-container"
-                >Points: <span class="points">1268</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47050488"
-                  >Comments</a
-                ><span class="descendants">: 1128</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://www.anthropic.com/claude-sonnet-4-6-system-card"
-                >https://www.anthropic.com/claude-sonnet-4-6-system-card</a
-              >
-              [pdf]
-              <p>
-                <a href="https://x.com/claudeai/status/2023817132581208353"
-                  >https://x.com/claudeai/status/2023817132581208353</a
-                >
-                [video]
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="47050067">
-          <h3>
-            <a
-              class="item"
-              href="https://www.gentoo.org/news/2026/02/16/codeberg.html"
-              >Gentoo on Codeberg</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-17 @ 17:21:04</span
-              ><span class="points-container"
-                >Points: <span class="points">403</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47050067"
-                  >Comments</a
-                ><span class="descendants">: 141</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="47049824">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=47049824"
@@ -646,7 +853,7 @@
             <h4>
               <span>2026-02-17 @ 17:06:18</span
               ><span class="points-container"
-                >Points: <span class="points">1045</span></span
+                >Points: <span class="points">1055</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47049824"
                   >Comments</a
@@ -713,150 +920,21 @@
             </div>
           </section>
         </section>
-        <section id="47049573">
-          <h3><a class="item" href="https://hackmyclaw.com/">HackMyClaw</a></h3>
-          <section>
-            <h4>
-              <span>2026-02-17 @ 16:48:43</span
-              ><span class="points-container"
-                >Points: <span class="points">349</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47049573"
-                  >Comments</a
-                ><span class="descendants">: 178</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47049479">
+        <section id="47013324">
           <h3>
-            <a class="item" href="https://go.dev/blog/gofix"
-              >Using go fix to modernize Go code</a
+            <a class="item" href="https://codeberg.org/ziglang/zig/issues/31131"
+              >Windows: Prefer the Native API over Win32</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-17 @ 16:42:35</span
+              <span>2026-02-14 @ 10:15:24</span
               ><span class="points-container"
-                >Points: <span class="points">406</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47049479"
+                ><a href="https://news.ycombinator.com/item?id=47013324"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47039051">
-          <h3>
-            <a class="item" href="https://breadboards.io/"
-              >Show HN: Breadboard – A modern HyperCard for building web apps on
-              the canvas</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-16 @ 19:18:36</span
-              ><span class="points-container"
-                >Points: <span class="points">67</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47039051"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>What it does</p>
-              <p></p>
-              <pre><code>    Design UIs visually with a flexible canvas –like Figma–.
-    Define app logic with a visual, instruction-stacked editor inspired by Shortcuts.
-    Live preview apps directly on the canvas –no separate preview window–.
-    Publish working web apps with one click.
-</code></pre>
-              Why we made it
-              <p></p>
-              <pre><code>    Modernize the HyperCard idea: combine layout, behavior, and instant sharing in one place.
-    Reduce friction between design and a working app.
-    Make simple web apps approachable for non-developers while keeping power features for developers.
-    Build a foundation for LLM integration so users can design and develop with AI while still understanding what’s happening, even without coding experience –in progress!–.
-</code></pre>
-              Try it –no signup required–
-              <p>
-                Weather forecast app:
-                <a href="https://app.breadboards.io/playgrounds/weather"
-                  >https://app.breadboards.io/playgrounds/weather</a
-                >
-              </p>
-              <p>
-                Swiss Public Transit:
-                <a href="https://app.breadboards.io/playgrounds/public_transit"
-                  >https://app.breadboards.io/playgrounds/public_transit</a
-                >
-              </p>
-              <p>
-                info:
-                <a href="https://breadboards.io">https://breadboards.io</a>
-              </p>
-              <p>I would appreciate any feedback :)</p>
-            </div>
-          </section>
-        </section>
-        <section id="47016696">
-          <h3>
-            <a class="item" href="https://www.elvish.org/articles/EASIS.pdf"
-              >Elvish as She Is Spoke [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-14 @ 18:00:49</span
-              ><span class="points-container"
-                >Points: <span class="points">61</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47016696"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47016658">
-          <h3>
-            <a
-              class="item"
-              href="https://www.righto.com/2026/02/8087-instruction-decoding.html"
-              >Instruction decoding in the Intel 8087 floating-point chip</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-14 @ 17:56:26</span
-              ><span class="points-container"
-                >Points: <span class="points">49</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47016658"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47015138">
-          <h3>
-            <a class="item" href="https://www.vogons.org/viewtopic.php?t=105451"
-              >Reverse Engineering Sid Meier's Railroad Tycoon for DOS from
-              1990</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-14 @ 15:17:46</span
-              ><span class="points-container"
-                >Points: <span class="points">138</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47015138"
-                  >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -873,79 +951,52 @@
             <h4>
               <span>2026-02-14 @ 07:50:18</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47012555"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47009195">
+        <section id="47007584">
           <h3>
-            <a class="item" href="https://opennotes.ai/discord-bot"
-              >Show HN: Open Notes – Community Notes-style context for
-              Discord</a
+            <a class="item" href="https://news.ycombinator.com/item?id=47007584"
+              >Ask HN: Are there examples of 3D printing data onto physical
+              surfaces?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-13 @ 23:21:58</span
+              <span>2026-02-13 @ 20:44:08</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47009195"
+                ><a href="https://news.ycombinator.com/item?id=47007584"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
             <div class="text">
               <p>
-                At Open Notes, we're building a system for community-driven
-                constructive moderation and annotation that can be added to
-                anything. Under the hood, we're using the open-source Twitter/X
-                Community Notes algorithm (though that doesn't really kick in
-                until you've got some scale). We're interested in providing
-                everyone with tools for managing discourse that go beyond
-                traditional moderation. Discord is the demo/reference
-                integration, but we want it go anywhere and everywhere. Part of
-                our thesis is that we want to get to where people are already
-                talking rather than drag them to a clean and empty new room
-                where we ask them to continue the conversation.
+                Since that seems like a pretty well-known concept, crudely
+                applied to a domain I haven't seen it in before - but is already
+                large and growing fast - I'm assuming that others have thought
+                of this? I was hoping maybe someone had implemented something
+                like it? And then, obviously, if that proof of concept exists,
+                I'd wonder about some kind of advanced version that used
+                specialized equipment for the reading (and possibly the
+                writing/printing).
               </p>
               <p>
-                It's interesting that Pol.is was just recently on HN (<a
-                  href="https://news.ycombinator.com/item?id=46992815"
-                  >https://news.ycombinator.com/item?id=46992815</a
-                >) because we're obviously inspired by them as well as the whole
-                canon of social choice theory--we're just going at it from a
-                different angle. It's long been true that if you wanted to trap
-                me/yourself in a conversation, you could just bring up the
-                Condorcet criterion (amongst others), so I'm finally turning an
-                obsession into an actual product.
-              </p>
-              <p>
-                We want to enable people to make decisions about conversations
-                as close to the conversation as possible while minimizing impact
-                on live threads. Later, this nicely extends into all sorts of
-                group decisionmaking. As our conversations are increasingly
-                awash in AI of all sorts (as moderators, participants, analysts,
-                etc.), things that help manage the discourse to fit the needs of
-                individual communities need to be scalable but without drowning
-                human choice in an ocean of automation.
-              </p>
-              <p>
-                Also, we're open-source:
-                <a href="https://github.com/opennotes-ai/opennotes"
-                  >https://github.com/opennotes-ai/opennotes</a
-                >
-              </p>
-              <p>
-                Would love to hear people's thoughts and reactions. This has so
-                much surface area ("all online discourse"), it's hard to
-                formulate specific questions so instead we built a thing and now
-                we'd love to see if it works for folks.
+                In any case, I'm just curious. I was thinking about long term
+                (century +) archival storage, or encryption keys only stored as
+                the print with no digital copies. Stuff that wouldn't need tons
+                of storage, but would be crucial to maintain statically. It
+                probably wouldn't be useful for that, which is why I assume I'm
+                not finding much in my searches for it. But I was just wondering
+                if anyone knew about it, in case there is stuff it's good for.
               </p>
             </div>
           </section>
