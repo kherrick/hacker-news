@@ -7,6 +7,7 @@
 * [2026-02-18, 02:18:29](https://news.ycombinator.com/item?id=47056314) - [Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)](https://www.sceneandheardnu.com/content/halt-and-catch-fire)
 * [2026-02-18, 02:00:52](https://news.ycombinator.com/item?id=47056152) - [It's not just you, YouTube is partially down in outage](https://9to5google.com/2026/02/17/youtube-outage-february-2026/)
 * [2026-02-18, 01:40:52](https://news.ycombinator.com/item?id=47055979) - [Thousands of CEOs just admitted AI had no impact on employment or productivity](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+* [2026-02-18, 01:19:15](https://news.ycombinator.com/item?id=47055786) - [Advice, not control: the role of Remote Assistance in Waymo's operations](https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance)
 * [2026-02-18, 01:05:33](https://news.ycombinator.com/item?id=47055696) - [Google Public CA is down](https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3)
 * [2026-02-18, 00:30:41](https://news.ycombinator.com/item?id=47055467) - [Tesla Robotaxis Reportedly Crashing at a Rate That's 4x Higher Than Humans](https://gizmodo.com/tesla-robotaxis-reportedly-crashing-at-a-rate-thats-4x-higher-than-humans-2000722989)
 * [2026-02-18, 00:26:15](https://news.ycombinator.com/item?id=47055424) - [Rathbun's Operator](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html)

@@ -8,6 +8,7 @@
 * [2026-02-15, 23:08:43](https://news.ycombinator.com/item?id=47028705) - [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
 * [2026-02-15, 22:47:26](https://news.ycombinator.com/item?id=47028545) - [Continuous batching from first principles (2025)](https://huggingface.co/blog/continuous_batching)
 * [2026-02-15, 22:17:10](https://news.ycombinator.com/item?id=47028227) - [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
+* [2026-02-15, 21:57:29](https://news.ycombinator.com/item?id=47028049) - [The Economics of a Super Bowl Ad](https://ro.co/perspectives/super-bowl-economics/)
 * [2026-02-15, 21:54:15](https://news.ycombinator.com/item?id=47028013) - [OpenClaw, OpenAI and the Future](https://steipete.me/posts/2026/openclaw)
 * [2026-02-15, 21:10:42](https://news.ycombinator.com/item?id=47027576) - [Dutch Defence Secretary Boldly Claims F-35 Software Could Be 'Jailbroken'](https://theaviationist.com/2026/02/15/dutch-defence-secretary-f35-software/)
 * [2026-02-15, 20:57:02](https://news.ycombinator.com/item?id=47027463) - [Show HN: Lightwave – Real-time notes app, 3.5 years of hand-rolled JavaScript](https://news.ycombinator.com/item?id=47027463)
