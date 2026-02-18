@@ -53,6 +53,7 @@
 * [2026-02-16, 12:00:42](https://news.ycombinator.com/item?id=47033976) - [The Israeli spyware firm that accidentally just exposed itself](https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally)
 * [2026-02-16, 11:57:01](https://news.ycombinator.com/item?id=47033954) - [Show HN: Glitchy camera – a circuit-bent camera simulator in the browser](https://glitchycam.com)
 * [2026-02-16, 11:44:07](https://news.ycombinator.com/item?id=47033875) - [planckforth: Bootstrapping a Forth interpreter from hand-written tiny ELF binary](https://github.com/nineties/planckforth)
+* [2026-02-16, 11:30:55](https://news.ycombinator.com/item?id=47033790) - [The Secret Life of Vector Generators (Atari)](https://jmargolin.com/vgens/vgens.htm)
 * [2026-02-16, 11:06:28](https://news.ycombinator.com/item?id=47033622) - [Anthropic tries to hide Claude's AI actions. Devs hate it](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 * [2026-02-16, 10:26:22](https://news.ycombinator.com/item?id=47033328) - [MessageFormat: Unicode standard for localizable message strings](https://github.com/unicode-org/message-format-wg)
 * [2026-02-16, 09:32:21](https://news.ycombinator.com/item?id=47032876) - [Qwen3.5: Towards Native Multimodal Agents](https://qwen.ai/blog?id=qwen3.5)

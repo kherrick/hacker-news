@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-18](index.md)
 
+* [2026-02-18, 07:18:50](https://news.ycombinator.com/item?id=47058219) - [If you're an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)
 * [2026-02-18, 07:01:28](https://news.ycombinator.com/item?id=47058106) - [Stardex (YC S21) Is Hiring](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
 * [2026-02-18, 06:57:37](https://news.ycombinator.com/item?id=47058080) - [Show HN: Beautiful interactive explainers generated with Claude Code](https://paraschopra.github.io/explainers/)
 * [2026-02-18, 06:29:36](https://news.ycombinator.com/item?id=47057879) - [A DuckDB-based metabase alternative](https://github.com/taleshape-com/shaper)
