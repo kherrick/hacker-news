@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-02-18, 19:28:59",
+      "https://news.ycombinator.com/item?id=47065179"
+    ],
+    [
+      "R3forth: A Concatenative Language Derived from ColorForth",
+      "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 19:25:08",
+      "https://news.ycombinator.com/item?id=47065140"
+    ],
+    [
+      "Complexity Science and Emergent Order: How Simple Rules Create Complex Systems",
+      "https://mysticryst.com/blogs/the-mystic-journal/complexity-science-emergent-order-simple-rules-complex-systems"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 19:22:56",
+      "https://news.ycombinator.com/item?id=47065120"
+    ],
+    [
+      "Discrete Structures [pdf]",
+      "https://kyleormsby.github.io/files/113spring26/113full_text.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 19:08:20",
+      "https://news.ycombinator.com/item?id=47064944"
+    ],
+    [
+      "99% of adults over 40 have shoulder \"abnormalities\" on an MRI, study finds",
+      "https://arstechnica.com/health/2026/02/99-of-adults-over-40-have-shoulder-abnormalities-on-an-mri-study-finds/"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 19:02:18",
+      "https://news.ycombinator.com/item?id=47064845"
+    ],
+    [
+      "What Every Experimenter Must Know About Randomization",
+      "https://spawn-queue.acm.org/doi/pdf/10.1145/3778029"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 18:58:38",
       "https://news.ycombinator.com/item?id=47064787"
     ],
@@ -17,6 +67,16 @@
     [
       "Cosmologically Unique IDs",
       "https://jasonfantl.com/posts/Universal-Unique-IDs/"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 18:35:54",
+      "https://news.ycombinator.com/item?id=47064470"
+    ],
+    [
+      "OpenClaw Is Dangerous",
+      "https://12gramsofcarbon.com/p/tech-things-openclaw-is-dangerous"
     ]
   ],
   [
@@ -57,16 +117,6 @@
     [
       "Arizona Bill Requires Age Verification for All Apps",
       "https://reclaimthenet.org/arizona-bill-would-require-id-checks-to-use-a-weather-app"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 17:18:50",
-      "https://news.ycombinator.com/item?id=47063451"
-    ],
-    [
-      "Fei-Fei Li's World Labs raised $1B from A16Z, Nvidia to advance its world models",
-      "https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion"
     ]
   ],
   [
@@ -181,16 +231,6 @@
   ],
   [
     [
-      "2026-02-18, 12:16:12",
-      "https://news.ycombinator.com/item?id=47060202"
-    ],
-    [
-      "Microsoft says bug causes Copilot to summarize confidential emails",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 11:51:01",
       "https://news.ycombinator.com/item?id=47060052"
     ],
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2026-02-18, 10:00:11",
-      "https://news.ycombinator.com/item?id=47059275"
-    ],
-    [
-      "Asahi Linux Progress Report: Linux 6.19",
-      "https://asahilinux.org/2026/02/progress-report-6-19/"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 07:18:50",
       "https://news.ycombinator.com/item?id=47058219"
     ],
@@ -231,42 +261,12 @@
   ],
   [
     [
-      "2026-02-18, 06:29:36",
-      "https://news.ycombinator.com/item?id=47057879"
-    ],
-    [
-      "A DuckDB-based metabase alternative",
-      "https://github.com/taleshape-com/shaper"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 06:19:37",
       "https://news.ycombinator.com/item?id=47057824"
     ],
     [
       "Terminals should generate the 256-color palette",
       "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 06:00:35",
-      "https://news.ycombinator.com/item?id=47057707"
-    ],
-    [
-      "TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)",
-      "https://github.com/DatanoiseTV/tinyice"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 20:15:57",
-      "https://news.ycombinator.com/item?id=47052674"
-    ],
-    [
-      "Show HN: I'm launching a LPFM radio station",
-      "https://www.kpbj.fm/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-02-13, 20:44:08",
-      "https://news.ycombinator.com/item?id=47007584"
+      "2026-02-13, 18:26:24",
+      "https://news.ycombinator.com/item?id=47005945"
     ],
     [
-      "Ask HN: Are there examples of 3D printing data onto physical surfaces?",
-      "https://news.ycombinator.com/item?id=47007584"
+      "SkyRL brings Tinker to your GPUs (2025)",
+      "https://novasky-ai.notion.site/skyrl-tinker"
     ]
   ]
 ]
