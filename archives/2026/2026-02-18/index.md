@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-18](index.md)
 
+* [2026-02-18, 21:00:32](https://news.ycombinator.com/item?id=47066310) - [Metriport (YC S22) is hiring a security engineer to harden healthcare infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
 * [2026-02-18, 20:12:12](https://news.ycombinator.com/item?id=47065728) - [The political effects of X's feed algorithm](https://werd.io/the-political-effects-of-xs-feed-algorithm/)
 * [2026-02-18, 20:09:10](https://news.ycombinator.com/item?id=47065678) - [There is unequivocal evidence that Earth is warming](https://science.nasa.gov/climate-change/evidence/)
 * [2026-02-18, 19:48:32](https://news.ycombinator.com/item?id=47065425) - [Show HN: Strava for Claude Code](https://straude.com/)
