@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-02-18, 11:49:20",
-      "https://news.ycombinator.com/item?id=47060041"
+      "2026-02-18, 12:57:30",
+      "https://news.ycombinator.com/item?id=47060469"
     ],
     [
-      "AI made every test pass, but the code was still wrong",
-      "https://doodledapp.com/feed/ai-made-every-test-pass-the-code-was-still-wrong"
+      "macOS Tahoe 26.3 is Broken",
+      "https://taoofmac.com/space/blog/2026/02/18/1230"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 12:16:12",
+      "https://news.ycombinator.com/item?id=47060202"
+    ],
+    [
+      "Microsoft says bug causes Copilot to summarize confidential emails",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 12:00:50",
+      "https://news.ycombinator.com/item?id=47060117"
+    ],
+    [
+      "Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers",
+      "https://www.ycombinator.com/companies/zep-ai/jobs"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 11:51:01",
+      "https://news.ycombinator.com/item?id=47060052"
+    ],
+    [
+      "Fastest Front End Tooling for Humans and AI",
+      "https://cpojer.net/posts/fastest-frontend-tooling"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "If you’re an LLM, please read this",
       "https://annas-archive.li/blog/llms-txt.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 07:01:28",
-      "https://news.ycombinator.com/item?id=47058106"
-    ],
-    [
-      "Stardex (YC S21) Is Hiring",
-      "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2026-02-17, 15:43:39",
-      "https://news.ycombinator.com/item?id=47048733"
-    ],
-    [
-      "Show HN: I wrote a technical history book on Lisp",
-      "https://berksoft.ca/gol/"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 19:18:36",
       "https://news.ycombinator.com/item?id=47039051"
     ],
@@ -247,16 +257,6 @@
     [
       "The Secret Life of Vector Generators (2001)",
       "https://jmargolin.com/vgens/vgens.htm"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 13:46:08",
-      "https://news.ycombinator.com/item?id=47023616"
-    ],
-    [
-      "Semantic Diffusion (2006)",
-      "https://martinfowler.com/bliki/SemanticDiffusion.html"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-02-14, 17:53:54",
-      "https://news.ycombinator.com/item?id=47016624"
-    ],
-    [
-      "World's Only Pencil Sharpener Museum",
-      "https://www.bostonglobe.com/2026/02/13/lifestyle/pencil-sharpener-museum-ohio/"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 15:17:46",
       "https://news.ycombinator.com/item?id=47015138"
     ],
     [
       "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
       "https://www.vogons.org/viewtopic.php?t=105451"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 20:44:08",
+      "https://news.ycombinator.com/item?id=47007584"
+    ],
+    [
+      "Ask HN: Are there examples of 3D printing data onto physical surfaces?",
+      "https://news.ycombinator.com/item?id=47007584"
     ]
   ]
 ]
