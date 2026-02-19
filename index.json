@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-19, 06:41:14",
+      "https://news.ycombinator.com/item?id=47070658"
+    ],
+    [
+      "US funding for global internet freedom 'effectively gutted'",
+      "https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 06:09:58",
+      "https://news.ycombinator.com/item?id=47070446"
+    ],
+    [
+      "Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast",
+      "https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/"
+    ]
+  ],
+  [
+    [
       "2026-02-19, 05:07:37",
       "https://news.ycombinator.com/item?id=47070142"
     ],
@@ -17,16 +37,6 @@
     [
       "Show HN: A Lisp where each function call runs a Docker container",
       "https://github.com/a11ce/docker-lisp"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 03:56:29",
-      "https://news.ycombinator.com/item?id=47069724"
-    ],
-    [
-      "Ukranian controls Home Assistant over LoRa radio when their power grid goes down",
-      "https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/"
     ]
   ],
   [
@@ -91,22 +101,22 @@
   ],
   [
     [
-      "2026-02-18, 23:19:29",
-      "https://news.ycombinator.com/item?id=47067759"
+      "2026-02-18, 22:48:03",
+      "https://news.ycombinator.com/item?id=47067498"
     ],
     [
-      "Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]",
-      "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/"
+      "All Look Same?",
+      "https://alllooksame.com/"
     ]
   ],
   [
     [
-      "2026-02-18, 23:08:38",
-      "https://news.ycombinator.com/item?id=47067678"
+      "2026-02-18, 22:47:44",
+      "https://news.ycombinator.com/item?id=47067496"
     ],
     [
-      "Closing this as we are no longer pursuing Swift adoption",
-      "https://github.com/LadybirdBrowser/ladybird/issues/933"
+      "Martial arts robots at 2026 Spring Festival Gala [video]",
+      "https://www.youtube.com/watch?v=mUmlv814aJo"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-02-18, 16:37:57",
-      "https://news.ycombinator.com/item?id=47062883"
-    ],
-    [
-      "Cistercian Numbers",
-      "https://www.omniglot.com/language/numbers/cistercian-numbers.htm"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 16:28:19",
       "https://news.ycombinator.com/item?id=47062748"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2026-02-18, 14:04:04",
-      "https://news.ycombinator.com/item?id=47061013"
-    ],
-    [
-      "Show HN: I built a fuse box for microservices",
-      "https://www.openfuse.io"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 12:18:26",
       "https://news.ycombinator.com/item?id=47060220"
     ],
     [
       "Show HN: Rebrain.gg – Doom learn, don't doom scroll",
       "https://news.ycombinator.com/item?id=47060220"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 18:05:45",
+      "https://news.ycombinator.com/item?id=47038132"
+    ],
+    [
+      "Making the Vortex Mixer",
+      "https://www.asimov.press/p/vortex"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=47025885"
     ],
     [
-      "How to Choose Between Hindley-Milner and Bidirectional Typing",
+      "How to choose between Hindley-Milner and bidirectional typing",
       "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/"
     ]
   ],
