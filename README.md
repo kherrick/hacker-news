@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-19, 06:43:53](https://news.ycombinator.com/item?id=47070680) - [Old School Visual Effects: The Cloud Tank (2010)](http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html)
 * [2026-02-19, 06:41:14](https://news.ycombinator.com/item?id=47070658) - [US funding for global internet freedom 'effectively gutted'](https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted)
 * [2026-02-19, 06:09:58](https://news.ycombinator.com/item?id=47070446) - [Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast](https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/)
-* [2026-02-19, 05:07:37](https://news.ycombinator.com/item?id=47070142) - [European Tech Alternatives](https://eutechmap.com/map)
 * [2026-02-19, 04:19:20](https://news.ycombinator.com/item?id=47069876) - [Show HN: A Lisp where each function call runs a Docker container](https://github.com/a11ce/docker-lisp)
 * [2026-02-19, 03:46:07](https://news.ycombinator.com/item?id=47069650) - [Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript](https://blackboard.sh/blog/electrobun-v1/)
 * [2026-02-19, 02:52:26](https://news.ycombinator.com/item?id=47069299) - [Anthropic officially bans using subscription auth for third party use](https://code.claude.com/docs/en/legal-and-compliance)
@@ -23,13 +23,13 @@
 * [2026-02-18, 16:46:12](https://news.ycombinator.com/item?id=47063005) - [Tailscale Peer Relays is now generally available](https://tailscale.com/blog/peer-relays-ga)
 * [2026-02-18, 16:28:19](https://news.ycombinator.com/item?id=47062748) - [Zero-day CSS: CVE-2026-2441 exists in the wild](https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html)
 * [2026-02-18, 12:18:26](https://news.ycombinator.com/item?id=47060220) - [Show HN: Rebrain.gg – Doom learn, don't doom scroll](https://news.ycombinator.com/item?id=47060220)
+* [2026-02-16, 18:44:12](https://news.ycombinator.com/item?id=47038578) - [A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts](https://tempus-word.de/en/index)
 * [2026-02-16, 18:05:45](https://news.ycombinator.com/item?id=47038132) - [Making the Vortex Mixer](https://www.asimov.press/p/vortex)
 * [2026-02-15, 23:20:04](https://news.ycombinator.com/item?id=47028803) - [Visualizing the ARM64 Instruction Set (2024)](https://zyedidia.github.io/blog/posts/6-arm64/)
 * [2026-02-15, 18:07:44](https://news.ycombinator.com/item?id=47025885) - [How to choose between Hindley-Milner and bidirectional typing](https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/)
 * [2026-02-15, 15:44:11](https://news.ycombinator.com/item?id=47024585) - [Making a font with ligatures to display thirteenth-century monk numerals](https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals)
 * [2026-02-15, 13:14:56](https://news.ycombinator.com/item?id=47023401) - [Show HN: Respectlytics – Open-source, privacy-first mobile analytics (MIT+AGPL)](https://github.com/respectlytics/respectlytics)
 * [2026-02-15, 10:40:49](https://news.ycombinator.com/item?id=47022704) - [A Pokémon of a Different Color](https://matthew.verive.me/blog/color/)
-* [2026-02-15, 10:20:02](https://news.ycombinator.com/item?id=47022604) - [Learning Lean: Part 1](https://rkirov.github.io/posts/lean1/)
 
 ## [Archives](archives/index.md)
 

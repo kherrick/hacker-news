@@ -25,6 +25,7 @@
 * [2026-02-16, 18:52:50](https://news.ycombinator.com/item?id=47038706) - [Robert Duvall has died](https://www.nytimes.com/2026/02/16/movies/robert-duvall-dead.html?unlocked_article_code=1.MlA.5LIC.JbSiEGzihyVU&smid=url-share)
 * [2026-02-16, 18:52:50](https://news.ycombinator.com/item?id=47038706) - [Robert Duvall Dead at 95](https://www.newsweek.com/entertainment/hollywood-legend-robert-duvall-dead-at-95-11531295)
 * [2026-02-16, 18:44:58](https://news.ycombinator.com/item?id=47038588) - [Use Protocols, Not Services](https://notnotp.com/notes/use-protocols-not-services/)
+* [2026-02-16, 18:44:12](https://news.ycombinator.com/item?id=47038578) - [A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts](https://tempus-word.de/en/index)
 * [2026-02-16, 18:41:50](https://news.ycombinator.com/item?id=47038546) - [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)
 * [2026-02-16, 18:31:19](https://news.ycombinator.com/item?id=47038411) - [LCM: Lossless Context Management [pdf]](http://papers.voltropy.com/LCM)
 * [2026-02-16, 18:23:36](https://news.ycombinator.com/item?id=47038318) - [\"token anxiety\"; or, a slot machine by any other name](https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/)
