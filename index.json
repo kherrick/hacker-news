@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-19, 16:20:26",
+      "https://news.ycombinator.com/item?id=47075400"
+    ],
+    [
+      "AI made coding more enjoyable",
+      "https://weberdominik.com/blog/ai-coding-enjoyable/"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 16:14:07",
+      "https://news.ycombinator.com/item?id=47075318"
+    ],
+    [
+      "Gemini 3.1 Pro",
+      "https://deepmind.google/models/model-cards/gemini-3-1-pro/"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 15:54:14",
+      "https://news.ycombinator.com/item?id=47075124"
+    ],
+    [
+      "Show HN: Micasa – track your house from the terminal",
+      "https://micasa.dev"
+    ]
+  ],
+  [
+    [
       "2026-02-19, 15:30:42",
       "https://news.ycombinator.com/item?id=47074869"
     ],
@@ -87,16 +117,6 @@
     [
       "Paged Out Issue #8 [pdf]",
       "https://pagedout.institute/download/PagedOut_008.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 12:13:39",
-      "https://news.ycombinator.com/item?id=47072967"
-    ],
-    [
-      "DOGE Track",
-      "https://dogetrack.info/"
     ]
   ],
   [
@@ -201,36 +221,6 @@
   ],
   [
     [
-      "2026-02-18, 18:37:22",
-      "https://news.ycombinator.com/item?id=47064490"
-    ],
-    [
-      "Cosmologically Unique IDs",
-      "https://jasonfantl.com/posts/Universal-Unique-IDs/"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 16:46:12",
-      "https://news.ycombinator.com/item?id=47063005"
-    ],
-    [
-      "Tailscale Peer Relays is now generally available",
-      "https://tailscale.com/blog/peer-relays-ga"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 16:28:19",
-      "https://news.ycombinator.com/item?id=47062748"
-    ],
-    [
-      "Zero-day CSS: CVE-2026-2441 exists in the wild",
-      "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 22:27:47",
       "https://news.ycombinator.com/item?id=47041225"
     ],
@@ -297,6 +287,16 @@
     [
       "Large Language Models for Mortals: A Practical Guide for Analysts with Python",
       "https://crimede-coder.com/blogposts/2026/LLMsForMortals"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 10:08:27",
+      "https://news.ycombinator.com/item?id=47022527"
+    ],
+    [
+      "Arrays in Forth",
+      "https://www.forth.org/svfig/Len/arrays.htm"
     ]
   ]
 ]
