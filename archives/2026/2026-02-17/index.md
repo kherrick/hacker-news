@@ -45,6 +45,7 @@
 * [2026-02-17, 16:42:35](https://news.ycombinator.com/item?id=47049479) - [Using go fix to modernize Go code](https://go.dev/blog/gofix)
 * [2026-02-17, 16:37:41](https://news.ycombinator.com/item?id=47049426) - [CBS didn't air Rep. James Talarico interview out of fear of FCC](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
 * [2026-02-17, 16:22:49](https://news.ycombinator.com/item?id=47049227) - [Show HN: I taught LLMs to play Magic: The Gathering against each other](https://mage-bench.com/)
+* [2026-02-17, 16:14:50](https://news.ycombinator.com/item?id=47049121) - [Level of Detail](https://phinze.com/writing/level-of-detail)
 * [2026-02-17, 16:12:29](https://news.ycombinator.com/item?id=47049088) - [Semantic ablation: Why AI writing is generic and boring](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
 * [2026-02-17, 15:47:46](https://news.ycombinator.com/item?id=47048790) - [Show HN: Cycast – High-performance radio streaming server written in Python](https://github.com/LukeB42/Cycast)
 * [2026-02-17, 15:43:39](https://news.ycombinator.com/item?id=47048733) - [Show HN: I wrote a technical history book on Lisp](https://berksoft.ca/gol/)

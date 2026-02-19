@@ -9,6 +9,7 @@
 * [2026-02-18, 22:48:03](https://news.ycombinator.com/item?id=47067498) - [All Look Same?](https://alllooksame.com/)
 * [2026-02-18, 22:47:44](https://news.ycombinator.com/item?id=47067496) - [Martial arts robots at 2026 Spring Festival Gala [video]](https://www.youtube.com/watch?v=mUmlv814aJo)
 * [2026-02-18, 22:37:35](https://news.ycombinator.com/item?id=47067395) - [Your Agent Framework Is Just a Bad Clone of Elixir](https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/)
+* [2026-02-18, 22:25:13](https://news.ycombinator.com/item?id=47067270) - [US plans online portal to bypass content bans in Europe and elsewhere](https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/)
 * [2026-02-18, 21:18:20](https://news.ycombinator.com/item?id=47066552) - [Womens Sizing](https://pudding.cool/2026/02/womens-sizing/)
 * [2026-02-18, 21:00:32](https://news.ycombinator.com/item?id=47066310) - [Metriport (YC S22) is hiring a security engineer to harden healthcare infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
 * [2026-02-18, 20:54:31](https://news.ycombinator.com/item?id=47066241) - [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 20:56:23](https://news.ycombinator.com/item?id=47079222) - [We're no longer attracting top talent: the brain drain killing American science](https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts)
 * [2026-02-19, 20:39:59](https://news.ycombinator.com/item?id=47078941) - [University of Texas limits on teaching of \"unnecessary controversial subjects\"](https://www.texastribune.org/2026/02/19/texas-university-ut-regents-unnecessarily-controversial-subjects/)
 * [2026-02-19, 20:32:09](https://news.ycombinator.com/item?id=47078840) - [Overall, the colorectal cancer story is encouraging](https://www.hankgreen.com/crc)
+* [2026-02-19, 19:55:11](https://news.ycombinator.com/item?id=47078324) - [AI is not a coworker, it's an exoskeleton](https://www.kasava.dev/blog/ai-as-exoskeleton)
 * [2026-02-19, 19:42:31](https://news.ycombinator.com/item?id=47078167) - [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)
 * [2026-02-19, 19:16:33](https://news.ycombinator.com/item?id=47077849) - [IRS lost 40% of IT staff, 80% of tech leaders in 'efficiency' shakeup](https://www.theregister.com/2026/02/19/irs_job_cuts/)
 * [2026-02-19, 19:16:12](https://news.ycombinator.com/item?id=47077844) - [California's New Bill Requires DOJ-Approved 3D Printers That Report Themselves](https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/)
@@ -24,6 +26,7 @@
 * [2026-02-19, 16:07:14](https://news.ycombinator.com/item?id=47075245) - [Mark Zuckerberg Grilled on Usage Goals and Underage Users at California Trial](https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0)
 * [2026-02-19, 15:54:14](https://news.ycombinator.com/item?id=47075124) - [Show HN: Micasa – track your house from the terminal](https://micasa.dev)
 * [2026-02-19, 15:30:42](https://news.ycombinator.com/item?id=47074869) - [Dinosaur Food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
+* [2026-02-19, 15:19:57](https://news.ycombinator.com/item?id=47074735) - [Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
 * [2026-02-19, 15:19:57](https://news.ycombinator.com/item?id=47074735) - [Gemini 3.1 Pro Preview](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-3.1-pro-preview?pli=1)
 * [2026-02-19, 14:52:18](https://news.ycombinator.com/item?id=47074389) - [America vs. Singapore: You Can't Save Your Way Out of Economic Shocks](https://www.governance.fyi/p/america-vs-singapore-you-cant-save)
 * [2026-02-19, 14:26:20](https://news.ycombinator.com/item?id=47074083) - [Against Theory-Motivated Experimentation](https://journals.sagepub.com/doi/10.1177/26339137261421577)
