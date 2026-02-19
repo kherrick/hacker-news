@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-19, 21:30:04",
+      "https://news.ycombinator.com/item?id=47079718"
+    ],
+    [
+      "Show HN: Ghostty-based terminal with vertical tabs and notifications",
+      "https://github.com/manaflow-ai/cmux"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 21:21:27",
+      "https://news.ycombinator.com/item?id=47079590"
+    ],
+    [
+      "A psychedelic medicine performs well against depression",
+      "https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression"
+    ]
+  ],
+  [
+    [
       "2026-02-19, 20:56:23",
       "https://news.ycombinator.com/item?id=47079222"
     ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=47075245"
     ],
     [
-      "Mark Zuckerberg Grilled on Usage Goals and Underage Users at California Trial",
+      "Mark Zuckerberg grilled on usage goals and underage users at California trial",
       "https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0"
     ]
   ],
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=47074083"
     ],
     [
-      "Against Theory-Motivated Experimentation",
+      "Can random experimental choice lead to better theories?",
       "https://journals.sagepub.com/doi/10.1177/26339137261421577"
     ]
   ],
@@ -175,7 +195,7 @@
       "https://news.ycombinator.com/item?id=47073044"
     ],
     [
-      "Coding Tricks Used in the C64 Game Seawolves",
+      "Coding Tricks Used in the C64 Game Seawolves (2025)",
       "https://kodiak64.co.uk/blog/seawolves-technical-tricks"
     ]
   ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-02-19, 11:15:38",
-      "https://news.ycombinator.com/item?id=47072603"
-    ],
-    [
-      "ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory",
-      "https://github.com/sstraust/shannonmax"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 11:07:15",
       "https://news.ycombinator.com/item?id=47072539"
     ],
@@ -227,16 +237,6 @@
     [
       "Show HN: A physically-based GPU ray tracer written in Julia",
       "https://makie.org/website/blogposts/raytracing/"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 06:43:53",
-      "https://news.ycombinator.com/item?id=47070680"
-    ],
-    [
-      "Old School Visual Effects: The Cloud Tank (2010)",
-      "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=47037781"
     ],
     [
-      "Zero downtime migrations at Petabyte scale",
+      "Zero downtime migrations at petabyte scale (2024)",
       "https://planetscale.com/blog/zero-downtime-migrations-at-petabyte-scale"
     ]
   ],
