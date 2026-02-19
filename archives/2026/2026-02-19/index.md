@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 18:12:16](https://news.ycombinator.com/item?id=47076966) - [AI Makes You Boring](https://www.marginalia.nu/log/a_132_ai_bores/)
+* [2026-02-19, 17:47:25](https://news.ycombinator.com/item?id=47076659) - [A terminal weather app with ASCII animations driven by real-time weather data](https://github.com/Veirt/weathr)
+* [2026-02-19, 17:00:47](https://news.ycombinator.com/item?id=47076001) - [Why applicant tracking systems are broken by design](https://www.saj.ad/2026/ats)
+* [2026-02-19, 16:56:52](https://news.ycombinator.com/item?id=47075934) - [Choosing a Language Based on Its Syntax?](https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/)
 * [2026-02-19, 16:20:26](https://news.ycombinator.com/item?id=47075400) - [AI made coding more enjoyable](https://weberdominik.com/blog/ai-coding-enjoyable/)
 * [2026-02-19, 16:14:07](https://news.ycombinator.com/item?id=47075318) - [Gemini 3.1 Pro](https://deepmind.google/models/model-cards/gemini-3-1-pro/)
+* [2026-02-19, 16:07:14](https://news.ycombinator.com/item?id=47075245) - [Mark Zuckerberg Grilled on Usage Goals and Underage Users at California Trial](https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0)
 * [2026-02-19, 15:54:14](https://news.ycombinator.com/item?id=47075124) - [Show HN: Micasa – track your house from the terminal](https://micasa.dev)
 * [2026-02-19, 15:30:42](https://news.ycombinator.com/item?id=47074869) - [Dinosaur Food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
 * [2026-02-19, 15:19:57](https://news.ycombinator.com/item?id=47074735) - [Gemini 3.1 Pro Preview](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-3.1-pro-preview?pli=1)

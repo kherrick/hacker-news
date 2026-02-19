@@ -47,6 +47,7 @@
 * [2026-02-15, 14:29:03](https://news.ycombinator.com/item?id=47023959) - [The Dark Side of the Enlightenment](https://www.newstatesman.com/culture/books/2026/02/the-dark-side-of-the-enlightenment)
 * [2026-02-15, 13:48:44](https://news.ycombinator.com/item?id=47023633) - [Kimi Claw](https://www.kimi.com/bot)
 * [2026-02-15, 13:46:08](https://news.ycombinator.com/item?id=47023616) - [Semantic Diffusion (2006)](https://martinfowler.com/bliki/SemanticDiffusion.html)
+* [2026-02-15, 13:30:04](https://news.ycombinator.com/item?id=47023510) - [Show HN: Chaos Studies – attractors and spatial audio (iOS/Mac/Playdate)](https://fieldbw.com/chaos-studies/)
 * [2026-02-15, 13:14:56](https://news.ycombinator.com/item?id=47023401) - [Show HN: Respectlytics – Open-source, privacy-first mobile analytics (MIT+AGPL)](https://github.com/respectlytics/respectlytics)
 * [2026-02-15, 13:12:50](https://news.ycombinator.com/item?id=47023391) - [Large Language Models for Mortals: A Practical Guide for Analysts with Python](https://crimede-coder.com/blogposts/2026/LLMsForMortals)
 * [2026-02-15, 13:02:20](https://news.ycombinator.com/item?id=47023333) - [Show HN: Perlin Noise Terminal Animation in Rust (60 FPS, Truecolor)](https://github.com/denisepattenson/perlin-terminal)
