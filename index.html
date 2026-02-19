@@ -129,6 +129,98 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47079718">
+          <h3>
+            <a class="item" href="https://github.com/manaflow-ai/cmux"
+              >Show HN: Ghostty-based terminal with vertical tabs and
+              notifications</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-19 @ 21:30:04</span
+              ><span class="points-container"
+                >Points: <span class="points">41</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47079718"
+                  >Comments</a
+                ><span class="descendants">: 16</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I tried a few coding orchestrators but most of them were
+                Electron/Tauri apps and the performance bugged me. I also just
+                prefer the terminal since GUI orchestrators lock you into their
+                workflow. So I built cmux as a native macOS app in Swift/AppKit.
+                It uses libghostty for terminal rendering and reads your
+                existing Ghostty config for themes, fonts, colors, and more.
+              </p>
+              <p>
+                The main additions are the sidebar and notification system. The
+                sidebar has vertical tabs that show git branch, working
+                directory, listening ports, and the latest notification text for
+                each workspace. The notification system picks up terminal
+                sequences (OSC 9/99/777) and has a CLI (cmux notify) you can
+                wire into agent hooks for Claude Code, OpenCode, etc. When an
+                agent is waiting, its pane gets a blue ring and the tab lights
+                up in the sidebar, so I can tell which one needs me across
+                splits and tabs. Cmd+Shift+U jumps to the most recent unread.
+              </p>
+              <p>
+                The in-app browser has a scriptable API ported from
+                agent-browser [1]. Agents can snapshot the accessibility tree,
+                get element refs, click, fill forms, evaluate JS, and read
+                console logs. You can split a browser pane next to your terminal
+                and have Claude Code interact with your dev server directly.
+              </p>
+              <p>
+                Everything is scriptable through the CLI and socket API – create
+                workspaces/tabs, split panes, send keystrokes, open URLs in the
+                browser.
+              </p>
+              <p>
+                Demo video:
+                <a href="https://www.youtube.com/watch?v=i-WxO5YUTOs"
+                  >https://www.youtube.com/watch?v=i-WxO5YUTOs</a
+                >
+              </p>
+              <p>
+                Repo (AGPL):
+                <a href="https://github.com/manaflow-ai/cmux"
+                  >https://github.com/manaflow-ai/cmux</a
+                >
+              </p>
+              <p>
+                [1]
+                <a href="https://github.com/vercel-labs/agent-browser"
+                  >https://github.com/vercel-labs/agent-browser</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47079590">
+          <h3>
+            <a
+              class="item"
+              href="https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression"
+              >A psychedelic medicine performs well against depression</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-19 @ 21:21:27</span
+              ><span class="points-container"
+                >Points: <span class="points">30</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47079590"
+                  >Comments</a
+                ><span class="descendants">: 19</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47079222">
           <h3>
             <a
@@ -142,11 +234,11 @@
             <h4>
               <span>2026-02-19 @ 20:56:23</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47079222"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -161,11 +253,11 @@
             <h4>
               <span>2026-02-19 @ 20:32:09</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47078840"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -180,11 +272,11 @@
             <h4>
               <span>2026-02-19 @ 19:55:11</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47078324"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -201,11 +293,11 @@
             <h4>
               <span>2026-02-19 @ 19:42:31</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47078167"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
+                ><span class="descendants">: 153</span></span
               >
             </h4>
           </section>
@@ -223,11 +315,11 @@
             <h4>
               <span>2026-02-19 @ 19:16:12</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">202</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47077844"
                   >Comments</a
-                ><span class="descendants">: 174</span></span
+                ><span class="descendants">: 204</span></span
               >
             </h4>
           </section>
@@ -242,11 +334,11 @@
             <h4>
               <span>2026-02-19 @ 18:42:51</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47077383"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -264,7 +356,7 @@
             <h4>
               <span>2026-02-19 @ 18:31:50</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47077245"
                   >Comments</a
@@ -283,11 +375,11 @@
             <h4>
               <span>2026-02-19 @ 18:12:16</span
               ><span class="points-container"
-                >Points: <span class="points">426</span></span
+                >Points: <span class="points">458</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47076966"
                   >Comments</a
-                ><span class="descendants">: 256</span></span
+                ><span class="descendants">: 263</span></span
               >
             </h4>
           </section>
@@ -303,7 +395,7 @@
             <h4>
               <span>2026-02-19 @ 17:47:25</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47076659"
                   >Comments</a
@@ -317,19 +409,19 @@
             <a
               class="item"
               href="https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0"
-              >Mark Zuckerberg Grilled on Usage Goals and Underage Users at
-              California Trial</a
+              >Mark Zuckerberg grilled on usage goals and underage users at
+              California trial</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-02-19 @ 16:07:14</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47075245"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -344,11 +436,11 @@
             <h4>
               <span>2026-02-19 @ 15:54:14</span
               ><span class="points-container"
-                >Points: <span class="points">321</span></span
+                >Points: <span class="points">343</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47075124"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
             <div class="text">
@@ -409,11 +501,11 @@
             <h4>
               <span>2026-02-19 @ 15:30:42</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47074869"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -430,11 +522,11 @@
             <h4>
               <span>2026-02-19 @ 15:19:57</span
               ><span class="points-container"
-                >Points: <span class="points">294</span></span
+                >Points: <span class="points">356</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47074735"
                   >Comments</a
-                ><span class="descendants">: 551</span></span
+                ><span class="descendants">: 612</span></span
               >
             </h4>
             <div class="text">
@@ -465,11 +557,11 @@
             <h4>
               <span>2026-02-19 @ 14:52:18</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47074389"
                   >Comments</a
-                ><span class="descendants">: 229</span></span
+                ><span class="descendants">: 245</span></span
               >
             </h4>
           </section>
@@ -479,14 +571,14 @@
             <a
               class="item"
               href="https://journals.sagepub.com/doi/10.1177/26339137261421577"
-              >Against Theory-Motivated Experimentation</a
+              >Can random experimental choice lead to better theories?</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-02-19 @ 14:26:20</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47074083"
                   >Comments</a
@@ -507,11 +599,11 @@
             <h4>
               <span>2026-02-19 @ 14:14:14</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47073947"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -528,11 +620,11 @@
             <h4>
               <span>2026-02-19 @ 12:36:00</span
               ><span class="points-container"
-                >Points: <span class="points">240</span></span
+                >Points: <span class="points">244</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47073112"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -542,14 +634,14 @@
             <a
               class="item"
               href="https://kodiak64.co.uk/blog/seawolves-technical-tricks"
-              >Coding Tricks Used in the C64 Game Seawolves</a
+              >Coding Tricks Used in the C64 Game Seawolves (2025)</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-02-19 @ 12:24:33</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47073044"
                   >Comments</a
@@ -570,7 +662,7 @@
             <h4>
               <span>2026-02-19 @ 12:13:44</span
               ><span class="points-container"
-                >Points: <span class="points">268</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47072968"
                   >Comments</a
@@ -590,31 +682,11 @@
             <h4>
               <span>2026-02-19 @ 11:54:21</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47072863"
                   >Comments</a
                 ><span class="descendants">: 48</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47072603">
-          <h3>
-            <a class="item" href="https://github.com/sstraust/shannonmax"
-              >ShannonMax: A Library to Optimize Emacs Keybindings with
-              Information Theory</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-19 @ 11:15:38</span
-              ><span class="points-container"
-                >Points: <span class="points">63</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47072603"
-                  >Comments</a
-                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -629,7 +701,7 @@
             <h4>
               <span>2026-02-19 @ 11:07:15</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47072539"
                   >Comments</a
@@ -650,11 +722,11 @@
             <h4>
               <span>2026-02-19 @ 10:55:13</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47072444"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
             <div class="text">
@@ -672,27 +744,6 @@
             </div>
           </section>
         </section>
-        <section id="47070680">
-          <h3>
-            <a
-              class="item"
-              href="http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html"
-              >Old School Visual Effects: The Cloud Tank (2010)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-19 @ 06:43:53</span
-              ><span class="points-container"
-                >Points: <span class="points">90</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47070680"
-                  >Comments</a
-                ><span class="descendants">: 15</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="47067270">
           <h3>
             <a
@@ -706,11 +757,11 @@
             <h4>
               <span>2026-02-18 @ 22:25:13</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47067270"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
             <div class="text">
@@ -728,7 +779,7 @@
             <h4>
               <span>2026-02-17 @ 16:14:50</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47049121"
                   >Comments</a
@@ -749,7 +800,7 @@
             <h4>
               <span>2026-02-16 @ 22:35:50</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47041294"
                   >Comments</a
@@ -785,18 +836,18 @@
             <a
               class="item"
               href="https://planetscale.com/blog/zero-downtime-migrations-at-petabyte-scale"
-              >Zero downtime migrations at Petabyte scale</a
+              >Zero downtime migrations at petabyte scale (2024)</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-02-16 @ 17:35:00</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47037781"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -813,7 +864,7 @@
             <h4>
               <span>2026-02-15 @ 20:22:33</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47027171"
                   >Comments</a
