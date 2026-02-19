@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 10:56:25](https://news.ycombinator.com/item?id=47072450) - [I made ChatGPT and Google tell I'm a competitive hot-dog-eating world champion](https://bsky.app/profile/thomasgermain.bsky.social/post/3mf5jbn5lqk2k)
 * [2026-02-19, 09:45:47](https://news.ycombinator.com/item?id=47071937) - [/Deslop](https://tahigichigi.substack.com/p/12-red-flags-of-ai-writing-and-how)
 * [2026-02-19, 06:54:28](https://news.ycombinator.com/item?id=47070743) - [Mark Zuckerberg overruled 18 wellbeing experts to keep beauty filters on Insta](https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d)
 * [2026-02-19, 06:43:53](https://news.ycombinator.com/item?id=47070680) - [Old School Visual Effects: The Cloud Tank (2010)](http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html)
