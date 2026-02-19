@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-19, 05:07:37",
+      "https://news.ycombinator.com/item?id=47070142"
+    ],
+    [
+      "European Tech Alternatives",
+      "https://eutechmap.com/map"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 04:19:20",
+      "https://news.ycombinator.com/item?id=47069876"
+    ],
+    [
+      "Show HN: A Lisp where each function call runs a Docker container",
+      "https://github.com/a11ce/docker-lisp"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 03:56:29",
+      "https://news.ycombinator.com/item?id=47069724"
+    ],
+    [
+      "Ukranian controls Home Assistant over LoRa radio when their power grid goes down",
+      "https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/"
+    ]
+  ],
+  [
+    [
       "2026-02-19, 03:46:07",
       "https://news.ycombinator.com/item?id=47069650"
     ],
@@ -77,6 +107,16 @@
     [
       "Closing this as we are no longer pursuing Swift adoption",
       "https://github.com/LadybirdBrowser/ladybird/issues/933"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 22:48:03",
+      "https://news.ycombinator.com/item?id=47067498"
+    ],
+    [
+      "All Look Same?",
+      "https://alllooksame.com/"
     ]
   ],
   [
@@ -171,32 +211,12 @@
   ],
   [
     [
-      "2026-02-18, 16:37:57",
-      "https://news.ycombinator.com/item?id=47062883"
-    ],
-    [
-      "Cistercian Numbers",
-      "https://www.omniglot.com/language/numbers/cistercian-numbers.htm"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 16:28:19",
       "https://news.ycombinator.com/item?id=47062748"
     ],
     [
       "Zero-day CSS: CVE-2026-2441 exists in the wild",
       "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 15:31:57",
-      "https://news.ycombinator.com/item?id=47062096"
-    ],
-    [
-      "Show HN: VectorNest responsive web-based SVG editor",
-      "https://ekrsulov.github.io/vectornest/"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "Show HN: Rebrain.gg – Doom learn, don't doom scroll",
       "https://news.ycombinator.com/item?id=47060220"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 07:45:11",
-      "https://news.ycombinator.com/item?id=47058368"
-    ],
-    [
-      "Portugal: The First Global Empire (2015)",
-      "https://www.historytoday.com/archive/first-global-empire"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 07:18:50",
-      "https://news.ycombinator.com/item?id=47058219"
-    ],
-    [
-      "If you’re an LLM, please read this",
-      "https://annas-archive.li/blog/llms-txt.html"
     ]
   ],
   [
