@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-19, 03:46:07",
+      "https://news.ycombinator.com/item?id=47069650"
+    ],
+    [
+      "Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript",
+      "https://blackboard.sh/blog/electrobun-v1/"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 02:52:26",
+      "https://news.ycombinator.com/item?id=47069299"
+    ],
+    [
+      "Anthropic officially bans using subscription auth for third party use",
+      "https://code.claude.com/docs/en/legal-and-compliance"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 02:32:00",
+      "https://news.ycombinator.com/item?id=47069179"
+    ],
+    [
+      "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
+      "https://static.stepfun.com/blog/step-3.5-flash/"
+    ]
+  ],
+  [
+    [
       "2026-02-19, 01:55:33",
       "https://news.ycombinator.com/item?id=47068948"
     ],
@@ -21,11 +51,21 @@
   ],
   [
     [
+      "2026-02-19, 00:22:45",
+      "https://news.ycombinator.com/item?id=47068320"
+    ],
+    [
+      "How AI is affecting productivity and jobs in Europe",
+      "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 23:19:29",
       "https://news.ycombinator.com/item?id=47067759"
     ],
     [
-      "Microsoft offers guide to pirating Harry Potter series for LLM training",
+      "Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]",
       "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/"
     ]
   ],
@@ -37,16 +77,6 @@
     [
       "Closing this as we are no longer pursuing Swift adoption",
       "https://github.com/LadybirdBrowser/ladybird/issues/933"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 22:48:03",
-      "https://news.ycombinator.com/item?id=47067498"
-    ],
-    [
-      "All Look Same?",
-      "https://alllooksame.com/"
     ]
   ],
   [
@@ -87,26 +117,6 @@
     [
       "R3forth: A concatenative language derived from ColorForth",
       "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 19:25:46",
-      "https://news.ycombinator.com/item?id=47065146"
-    ],
-    [
-      "A solver for Semantle",
-      "https://victoriaritvo.com/blog/semantle-solver/"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 19:22:56",
-      "https://news.ycombinator.com/item?id=47065120"
-    ],
-    [
-      "Discrete Structures [pdf]",
-      "https://kyleormsby.github.io/files/113spring26/113full_text.pdf"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-02-18, 16:11:00",
-      "https://news.ycombinator.com/item?id=47062561"
-    ],
-    [
-      "Pocketbase lost its funding from FLOSS fund",
-      "https://github.com/pocketbase/pocketbase/discussions/7287"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 15:31:57",
       "https://news.ycombinator.com/item?id=47062096"
     ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2026-02-18, 14:59:16",
-      "https://news.ycombinator.com/item?id=47061642"
+      "2026-02-18, 14:04:04",
+      "https://news.ycombinator.com/item?id=47061013"
     ],
     [
-      "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
-      "https://resobscura.substack.com/p/what-is-happening-to-writing"
+      "Show HN: I built a fuse box for microservices",
+      "https://www.openfuse.io"
     ]
   ],
   [
@@ -237,16 +237,6 @@
     [
       "If you’re an LLM, please read this",
       "https://annas-archive.li/blog/llms-txt.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 06:43:46",
-      "https://news.ycombinator.com/item?id=47031656"
-    ],
-    [
-      "Assigning Open Problems in Class",
-      "https://blog.computationalcomplexity.org/2026/02/assigning-open-problems-in-class.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Roads to Rome (2015)",
       "https://benedikt-gross.de/projects/roads-to-rome/"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 10:40:49",
+      "https://news.ycombinator.com/item?id=47022704"
+    ],
+    [
+      "A Pokémon of a Different Color",
+      "https://matthew.verive.me/blog/color/"
     ]
   ],
   [
