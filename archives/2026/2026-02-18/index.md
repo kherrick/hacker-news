@@ -44,6 +44,7 @@
 * [2026-02-18, 14:59:16](https://news.ycombinator.com/item?id=47061642) - [What is happening to writing? Cognitive debt, Claude Code, the space around AI](https://resobscura.substack.com/p/what-is-happening-to-writing)
 * [2026-02-18, 14:08:11](https://news.ycombinator.com/item?id=47061062) - [AVX2 is slower than SSE2-4.x under Windows ARM emulation](https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/)
 * [2026-02-18, 14:05:39](https://news.ycombinator.com/item?id=47061029) - [Show HN: CEL by Example](https://celbyexample.com/)
+* [2026-02-18, 14:04:04](https://news.ycombinator.com/item?id=47061013) - [Show HN: I built a fuse box for microservices](https://www.openfuse.io)
 * [2026-02-18, 13:00:11](https://news.ycombinator.com/item?id=47060486) - [Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony](https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/)
 * [2026-02-18, 12:57:30](https://news.ycombinator.com/item?id=47060469) - [macOS Tahoe 26.3 is Broken](https://taoofmac.com/space/blog/2026/02/18/1230)
 * [2026-02-18, 12:18:26](https://news.ycombinator.com/item?id=47060220) - [Show HN: Rebrain.gg – Doom learn, don't doom scroll](https://news.ycombinator.com/item?id=47060220)
