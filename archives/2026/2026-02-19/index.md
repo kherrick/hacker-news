@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 22:08:24](https://news.ycombinator.com/item?id=47080267) - [Single vaccine could protect against all coughs, colds and flus](https://www.bbc.com/news/articles/cx2g8rz7yedo)
+* [2026-02-19, 22:07:29](https://news.ycombinator.com/item?id=47080255) - [Minnesota judge holds federal attorney in civil contempt](https://www.cnn.com/2026/02/19/politics/trump-attorney-contempt-minnesota-immigration)
 * [2026-02-19, 21:30:04](https://news.ycombinator.com/item?id=47079718) - [Show HN: Ghostty-based terminal with vertical tabs and notifications](https://github.com/manaflow-ai/cmux)
 * [2026-02-19, 21:21:27](https://news.ycombinator.com/item?id=47079590) - [A psychedelic medicine performs well against depression](https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression)
 * [2026-02-19, 20:56:23](https://news.ycombinator.com/item?id=47079222) - [We're no longer attracting top talent: the brain drain killing American science](https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts)
