@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 06:41:14](https://news.ycombinator.com/item?id=47070658) - [US funding for global internet freedom 'effectively gutted'](https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted)
+* [2026-02-19, 06:09:58](https://news.ycombinator.com/item?id=47070446) - [Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast](https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/)
 * [2026-02-19, 05:07:37](https://news.ycombinator.com/item?id=47070142) - [European Tech Alternatives](https://eutechmap.com/map)
 * [2026-02-19, 04:19:20](https://news.ycombinator.com/item?id=47069876) - [Show HN: A Lisp where each function call runs a Docker container](https://github.com/a11ce/docker-lisp)
 * [2026-02-19, 03:56:29](https://news.ycombinator.com/item?id=47069724) - [Ukranian controls Home Assistant over LoRa radio when their power grid goes down](https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/)

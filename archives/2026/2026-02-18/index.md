@@ -7,6 +7,7 @@
 * [2026-02-18, 23:19:29](https://news.ycombinator.com/item?id=47067759) - [Microsoft offers guide to pirating Harry Potter series for LLM training](https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/)
 * [2026-02-18, 23:08:38](https://news.ycombinator.com/item?id=47067678) - [Ladybird: Closing this as we are no longer pursuing Swift adoption](https://github.com/LadybirdBrowser/ladybird/issues/933)
 * [2026-02-18, 22:48:03](https://news.ycombinator.com/item?id=47067498) - [All Look Same?](https://alllooksame.com/)
+* [2026-02-18, 22:47:44](https://news.ycombinator.com/item?id=47067496) - [Martial arts robots at 2026 Spring Festival Gala [video]](https://www.youtube.com/watch?v=mUmlv814aJo)
 * [2026-02-18, 21:18:20](https://news.ycombinator.com/item?id=47066552) - [Womens Sizing](https://pudding.cool/2026/02/womens-sizing/)
 * [2026-02-18, 21:00:32](https://news.ycombinator.com/item?id=47066310) - [Metriport (YC S22) is hiring a security engineer to harden healthcare infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
 * [2026-02-18, 20:54:31](https://news.ycombinator.com/item?id=47066241) - [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)

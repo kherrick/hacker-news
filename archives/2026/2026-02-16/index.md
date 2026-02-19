@@ -30,6 +30,7 @@
 * [2026-02-16, 18:23:36](https://news.ycombinator.com/item?id=47038318) - [\"token anxiety\"; or, a slot machine by any other name](https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/)
 * [2026-02-16, 18:19:16](https://news.ycombinator.com/item?id=47038270) - [The Long Tail of LLM-Assisted Decompilation](https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/)
 * [2026-02-16, 18:05:49](https://news.ycombinator.com/item?id=47038134) - [AI optimism is a class privilege](https://joshcollinsworth.com/blog/sloptimism)
+* [2026-02-16, 18:05:45](https://news.ycombinator.com/item?id=47038132) - [Making the Vortex Mixer](https://www.asimov.press/p/vortex)
 * [2026-02-16, 18:05:32](https://news.ycombinator.com/item?id=47038125) - [Privilege Is Bad Grammar](https://tadaima.bearblog.dev/privilege-is-bad-grammar/)
 * [2026-02-16, 18:01:38](https://news.ycombinator.com/item?id=47038076) - [Castlevania and Bloodstained developer Shutaro Ida dies aged 52](https://www.dexerto.com/gaming/castlevania-and-bloodstained-developer-shutaro-ida-dies-aged-52-3319349/)
 * [2026-02-16, 17:25:19](https://news.ycombinator.com/item?id=47037666) - [Palantir CEO wants to spray \"fentanyl-laced urine\" on analysts](https://twitter.com/jawwwn_/status/2023207418922959234)
