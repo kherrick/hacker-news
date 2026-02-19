@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 14:52:18](https://news.ycombinator.com/item?id=47074389) - [America vs. Singapore: You Can't Save Your Way Out of Economic Shocks](https://www.governance.fyi/p/america-vs-singapore-you-cant-save)
+* [2026-02-19, 14:26:20](https://news.ycombinator.com/item?id=47074083) - [Against Theory-Motivated Experimentation](https://journals.sagepub.com/doi/10.1177/26339137261421577)
 * [2026-02-19, 14:04:44](https://news.ycombinator.com/item?id=47073838) - [Ask HN: How do you employ LLMs for UI development?](https://news.ycombinator.com/item?id=47073838)
 * [2026-02-19, 13:49:49](https://news.ycombinator.com/item?id=47073684) - [Famous Signatures Through History](https://signatory.app/#famous-signatures)
 * [2026-02-19, 13:47:30](https://news.ycombinator.com/item?id=47073663) - [C++26: Std:Is_within_lifetime](https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime)
