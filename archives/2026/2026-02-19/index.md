@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 19:42:31](https://news.ycombinator.com/item?id=47078167) - [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)
 * [2026-02-19, 19:16:33](https://news.ycombinator.com/item?id=47077849) - [IRS lost 40% of IT staff, 80% of tech leaders in 'efficiency' shakeup](https://www.theregister.com/2026/02/19/irs_job_cuts/)
 * [2026-02-19, 19:16:12](https://news.ycombinator.com/item?id=47077844) - [California's New Bill Requires DOJ-Approved 3D Printers That Report Themselves](https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/)
 * [2026-02-19, 19:03:32](https://news.ycombinator.com/item?id=47077676) - [CTO Says 93% of Developers Use AI, but Productivity Is Still 10%](https://shiftmag.dev/this-cto-says-93-of-developers-use-ai-but-productivity-is-still-10-8013/)
