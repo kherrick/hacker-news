@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 22:38:27](https://news.ycombinator.com/item?id=47080689) - [HUD proposes rule that would force noncitizens from public housing](https://www.washingtonpost.com/national/2026/02/19/hud-public-housing-mixed-status-immigration/03e8908c-0dc4-11f1-8e91-6e1451aab67e_story.html)
 * [2026-02-19, 22:08:24](https://news.ycombinator.com/item?id=47080267) - [Single vaccine could protect against all coughs, colds and flus](https://www.bbc.com/news/articles/cx2g8rz7yedo)
 * [2026-02-19, 22:07:29](https://news.ycombinator.com/item?id=47080255) - [Minnesota judge holds federal attorney in civil contempt](https://www.cnn.com/2026/02/19/politics/trump-attorney-contempt-minnesota-immigration)
 * [2026-02-19, 21:30:04](https://news.ycombinator.com/item?id=47079718) - [Show HN: Ghostty-based terminal with vertical tabs and notifications](https://github.com/manaflow-ai/cmux)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-19, 22:38:27](https://news.ycombinator.com/item?id=47080689) - [HUD proposes rule that would force noncitizens from public housing](https://www.washingtonpost.com/national/2026/02/19/hud-public-housing-mixed-status-immigration/03e8908c-0dc4-11f1-8e91-6e1451aab67e_story.html)
 * [2026-02-19, 22:08:24](https://news.ycombinator.com/item?id=47080267) - [Single vaccine could protect against all coughs, colds and flus](https://www.bbc.com/news/articles/cx2g8rz7yedo)
 * [2026-02-19, 22:07:29](https://news.ycombinator.com/item?id=47080255) - [Minnesota judge holds federal attorney in civil contempt](https://www.cnn.com/2026/02/19/politics/trump-attorney-contempt-minnesota-immigration)
 * [2026-02-19, 21:30:04](https://news.ycombinator.com/item?id=47079718) - [Show HN: Ghostty-based terminal with vertical tabs and notifications](https://github.com/manaflow-ai/cmux)
@@ -23,13 +24,12 @@
 * [2026-02-19, 12:24:33](https://news.ycombinator.com/item?id=47073044) - [Coding Tricks Used in the C64 Game Seawolves (2025)](https://kodiak64.co.uk/blog/seawolves-technical-tricks)
 * [2026-02-19, 12:13:44](https://news.ycombinator.com/item?id=47072968) - [Paged Out Issue #8 [pdf]](https://pagedout.institute/download/PagedOut_008.pdf)
 * [2026-02-19, 11:54:21](https://news.ycombinator.com/item?id=47072863) - [Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app](https://github.com/fjrevoredo/mini-diarium)
+* [2026-02-19, 11:07:15](https://news.ycombinator.com/item?id=47072539) - [Bridging Elixir and Python with Oban](https://oban.pro/articles/bridging-with-oban)
 * [2026-02-19, 10:55:13](https://news.ycombinator.com/item?id=47072444) - [Show HN: A physically-based GPU ray tracer written in Julia](https://makie.org/website/blogposts/raytracing/)
-* [2026-02-17, 16:14:50](https://news.ycombinator.com/item?id=47049121) - [Level of Detail](https://phinze.com/writing/level-of-detail)
 * [2026-02-16, 22:35:50](https://news.ycombinator.com/item?id=47041294) - [My 1981 adventure game is now a multimedia extravaganza](https://technologizer.com/home/2026/02/16/arctic-adventure-2026/)
 * [2026-02-16, 17:57:46](https://news.ycombinator.com/item?id=47038032) - [Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails](https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails)
 * [2026-02-16, 17:35:00](https://news.ycombinator.com/item?id=47037781) - [Zero downtime migrations at petabyte scale (2024)](https://planetscale.com/blog/zero-downtime-migrations-at-petabyte-scale)
 * [2026-02-16, 00:31:01](https://news.ycombinator.com/item?id=47029368) - [A Beginner's Guide to Split Keyboards](https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/)
-* [2026-02-15, 20:22:33](https://news.ycombinator.com/item?id=47027171) - [Voith Schneider Propeller](https://en.wikipedia.org/wiki/Voith_Schneider_Propeller)
 
 ## [Archives](archives/index.md)
 
