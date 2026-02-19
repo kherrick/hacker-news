@@ -13,6 +13,7 @@
 * [2026-02-16, 21:12:07](https://news.ycombinator.com/item?id=47040390) - [Show HN: Wildex – we built Pokémon Go for real wildlife](https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158)
 * [2026-02-16, 21:10:44](https://news.ycombinator.com/item?id=47040375) - [Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue](https://github.com/zachlatta/freeflow)
 * [2026-02-16, 21:00:13](https://news.ycombinator.com/item?id=47040268) - [Turing Labs (YC W20) Is Hiring – GTM Sales Hacker](https://news.ycombinator.com/item?id=47040268)
+* [2026-02-16, 20:52:11](https://news.ycombinator.com/item?id=47040176) - [Show HN: Provisioner per-board sidecar for serial access, flashing, and bring-up](https://news.ycombinator.com/item?id=47040176)
 * [2026-02-16, 20:34:27](https://news.ycombinator.com/item?id=47039966) - [Suicide Linux (2009)](https://qntm.org/suicide)
 * [2026-02-16, 20:23:36](https://news.ycombinator.com/item?id=47039834) - [Testing Postgres race conditions with synchronization barriers](https://www.lirbank.com/harnessing-postgres-race-conditions)
 * [2026-02-16, 19:55:23](https://news.ycombinator.com/item?id=47039478) - [State of Show HN: 2025](https://blog.sturdystatistics.com/posts/show_hn/)
