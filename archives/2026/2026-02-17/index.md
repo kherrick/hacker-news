@@ -69,4 +69,5 @@
 * [2026-02-17, 01:28:42](https://news.ycombinator.com/item?id=47042574) - [Instagram boss says 16 hours of daily use is 'problematic' not addiction](https://www.bbc.com/news/articles/cn71mgmzljlo)
 * [2026-02-17, 01:01:00](https://news.ycombinator.com/item?id=47042396) - [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
 * [2026-02-17, 00:26:20](https://news.ycombinator.com/item?id=47042136) - [AI is destroying Open Source, and it's not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+* [2026-02-17, 00:14:57](https://news.ycombinator.com/item?id=47042065) - [Lilush – LuaJIT static runtime and shell](https://lilush.link/)
 * [2026-02-17, 00:00:03](https://news.ycombinator.com/item?id=47041973) - [Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/)
