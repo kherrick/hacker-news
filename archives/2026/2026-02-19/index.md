@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 16:20:26](https://news.ycombinator.com/item?id=47075400) - [AI made coding more enjoyable](https://weberdominik.com/blog/ai-coding-enjoyable/)
+* [2026-02-19, 16:14:07](https://news.ycombinator.com/item?id=47075318) - [Gemini 3.1 Pro](https://deepmind.google/models/model-cards/gemini-3-1-pro/)
+* [2026-02-19, 15:54:14](https://news.ycombinator.com/item?id=47075124) - [Show HN: Micasa – track your house from the terminal](https://micasa.dev)
 * [2026-02-19, 15:30:42](https://news.ycombinator.com/item?id=47074869) - [Dinosaur Food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
 * [2026-02-19, 15:19:57](https://news.ycombinator.com/item?id=47074735) - [Gemini 3.1 Pro Preview](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-3.1-pro-preview?pli=1)
 * [2026-02-19, 14:52:18](https://news.ycombinator.com/item?id=47074389) - [America vs. Singapore: You Can't Save Your Way Out of Economic Shocks](https://www.governance.fyi/p/america-vs-singapore-you-cant-save)

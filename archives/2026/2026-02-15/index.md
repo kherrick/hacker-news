@@ -59,6 +59,7 @@
 * [2026-02-15, 10:50:18](https://news.ycombinator.com/item?id=47022745) - [Show HN: Pangolin: Open-source identity-based VPN (Twingate/Zscaler alternative)](https://github.com/fosrl/pangolin)
 * [2026-02-15, 10:40:49](https://news.ycombinator.com/item?id=47022704) - [A Pokémon of a Different Color](https://matthew.verive.me/blog/color/)
 * [2026-02-15, 10:20:02](https://news.ycombinator.com/item?id=47022604) - [Learning Lean: Part 1](https://rkirov.github.io/posts/lean1/)
+* [2026-02-15, 10:08:27](https://news.ycombinator.com/item?id=47022527) - [Arrays in Forth](https://www.forth.org/svfig/Len/arrays.htm)
 * [2026-02-15, 09:27:33](https://news.ycombinator.com/item?id=47022329) - [Two different tricks for fast LLM inference](https://www.seangoedecke.com/fast-llm-inference/)
 * [2026-02-15, 09:15:16](https://news.ycombinator.com/item?id=47022270) - [Four Column ASCII (2017)](https://garbagecollected.org/2017/01/31/four-column-ascii/)
 * [2026-02-15, 09:09:31](https://news.ycombinator.com/item?id=47022238) - [Git is a file system. We need a database for the code](https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e)

@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-19, 16:20:26](https://news.ycombinator.com/item?id=47075400) - [AI made coding more enjoyable](https://weberdominik.com/blog/ai-coding-enjoyable/)
+* [2026-02-19, 16:14:07](https://news.ycombinator.com/item?id=47075318) - [Gemini 3.1 Pro](https://deepmind.google/models/model-cards/gemini-3-1-pro/)
+* [2026-02-19, 15:54:14](https://news.ycombinator.com/item?id=47075124) - [Show HN: Micasa – track your house from the terminal](https://micasa.dev)
 * [2026-02-19, 15:30:42](https://news.ycombinator.com/item?id=47074869) - [Dinosaur Food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
 * [2026-02-19, 15:19:57](https://news.ycombinator.com/item?id=47074735) - [Gemini 3.1 Pro Preview](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-3.1-pro-preview?pli=1)
 * [2026-02-19, 14:52:18](https://news.ycombinator.com/item?id=47074389) - [America vs. Singapore: You Can't Save Your Way Out of Economic Shocks](https://www.governance.fyi/p/america-vs-singapore-you-cant-save)
@@ -9,7 +12,6 @@
 * [2026-02-19, 12:36:00](https://news.ycombinator.com/item?id=47073112) - [Pebble Production: February Update](https://repebble.com/blog/february-pebble-production-and-software-updates)
 * [2026-02-19, 12:24:33](https://news.ycombinator.com/item?id=47073044) - [Coding Tricks Used in the C64 Game Seawolves](https://kodiak64.co.uk/blog/seawolves-technical-tricks)
 * [2026-02-19, 12:13:44](https://news.ycombinator.com/item?id=47072968) - [Paged Out Issue #8 [pdf]](https://pagedout.institute/download/PagedOut_008.pdf)
-* [2026-02-19, 12:13:39](https://news.ycombinator.com/item?id=47072967) - [DOGE Track](https://dogetrack.info/)
 * [2026-02-19, 11:54:21](https://news.ycombinator.com/item?id=47072863) - [Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app](https://github.com/fjrevoredo/mini-diarium)
 * [2026-02-19, 11:15:38](https://news.ycombinator.com/item?id=47072603) - [ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory](https://github.com/sstraust/shannonmax)
 * [2026-02-19, 11:07:15](https://news.ycombinator.com/item?id=47072539) - [Bridging Elixir and Python with Oban](https://oban.pro/articles/bridging-with-oban)
@@ -20,9 +22,6 @@
 * [2026-02-19, 01:46:07](https://news.ycombinator.com/item?id=47068890) - [15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern](https://nicolasdickenmann.com/blog/the-great-fp64-divide.html)
 * [2026-02-18, 21:18:20](https://news.ycombinator.com/item?id=47066552) - [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)
 * [2026-02-18, 20:54:31](https://news.ycombinator.com/item?id=47066241) - [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)
-* [2026-02-18, 18:37:22](https://news.ycombinator.com/item?id=47064490) - [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/)
-* [2026-02-18, 16:46:12](https://news.ycombinator.com/item?id=47063005) - [Tailscale Peer Relays is now generally available](https://tailscale.com/blog/peer-relays-ga)
-* [2026-02-18, 16:28:19](https://news.ycombinator.com/item?id=47062748) - [Zero-day CSS: CVE-2026-2441 exists in the wild](https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html)
 * [2026-02-16, 22:27:47](https://news.ycombinator.com/item?id=47041225) - [The Mongol Khans of Medieval France](https://www.historytoday.com/archive/feature/mongol-khans-medieval-france)
 * [2026-02-16, 18:44:12](https://news.ycombinator.com/item?id=47038578) - [A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts](https://tempus-word.de/en/index)
 * [2026-02-16, 17:57:46](https://news.ycombinator.com/item?id=47038032) - [Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails](https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails)
@@ -30,6 +29,7 @@
 * [2026-02-16, 14:05:21](https://news.ycombinator.com/item?id=47035088) - [-fbounds-safety: Enforcing bounds safety for C](https://clang.llvm.org/docs/BoundsSafety.html)
 * [2026-02-15, 20:22:33](https://news.ycombinator.com/item?id=47027171) - [Voith Schneider Propeller](https://en.wikipedia.org/wiki/Voith_Schneider_Propeller)
 * [2026-02-15, 13:12:50](https://news.ycombinator.com/item?id=47023391) - [Large Language Models for Mortals: A Practical Guide for Analysts with Python](https://crimede-coder.com/blogposts/2026/LLMsForMortals)
+* [2026-02-15, 10:08:27](https://news.ycombinator.com/item?id=47022527) - [Arrays in Forth](https://www.forth.org/svfig/Len/arrays.htm)
 
 ## [Archives](archives/index.md)
 
