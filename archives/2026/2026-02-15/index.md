@@ -14,6 +14,7 @@
 * [2026-02-15, 21:10:42](https://news.ycombinator.com/item?id=47027576) - [Dutch Defence Secretary Boldly Claims F-35 Software Could Be 'Jailbroken'](https://theaviationist.com/2026/02/15/dutch-defence-secretary-f35-software/)
 * [2026-02-15, 20:57:02](https://news.ycombinator.com/item?id=47027463) - [Show HN: Lightwave – Real-time notes app, 3.5 years of hand-rolled JavaScript](https://news.ycombinator.com/item?id=47027463)
 * [2026-02-15, 20:53:26](https://news.ycombinator.com/item?id=47027427) - [GNU Pies – Program Invocation and Execution Supervisor](https://www.gnu.org.ua/software/pies/)
+* [2026-02-15, 20:22:33](https://news.ycombinator.com/item?id=47027171) - [Voith Schneider Propeller](https://en.wikipedia.org/wiki/Voith_Schneider_Propeller)
 * [2026-02-15, 20:10:28](https://news.ycombinator.com/item?id=47027044) - [With Apple: Fortify your app: Essential strategies to strengthen security](https://developer.apple.com/events/view/TUHA23T82K/dashboard)
 * [2026-02-15, 20:06:53](https://news.ycombinator.com/item?id=47027011) - [Court orders Acer and Asus to stop selling PCs in Germany over H.265 patents](https://videocardz.com/newz/acer-and-asus-are-now-banned-from-selling-pcs-and-laptops-in-germany-following-nokia-hevc-patent-ruling)
 * [2026-02-15, 19:49:17](https://news.ycombinator.com/item?id=47026848) - [State Attorneys General Want to Tie Online Access to ID](https://reclaimthenet.org/40-attorneys-general-back-ids-online-safety-act)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 09:45:47](https://news.ycombinator.com/item?id=47071937) - [/Deslop](https://tahigichigi.substack.com/p/12-red-flags-of-ai-writing-and-how)
 * [2026-02-19, 06:54:28](https://news.ycombinator.com/item?id=47070743) - [Mark Zuckerberg overruled 18 wellbeing experts to keep beauty filters on Insta](https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d)
 * [2026-02-19, 06:43:53](https://news.ycombinator.com/item?id=47070680) - [Old School Visual Effects: The Cloud Tank (2010)](http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html)
 * [2026-02-19, 06:41:14](https://news.ycombinator.com/item?id=47070658) - [US funding for global internet freedom 'effectively gutted'](https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted)
