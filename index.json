@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-19, 22:38:27",
+      "https://news.ycombinator.com/item?id=47080689"
+    ],
+    [
+      "HUD proposes rule that would force noncitizens from public housing",
+      "https://www.washingtonpost.com/national/2026/02/19/hud-public-housing-mixed-status-immigration/03e8908c-0dc4-11f1-8e91-6e1451aab67e_story.html"
+    ]
+  ],
+  [
+    [
       "2026-02-19, 22:08:24",
       "https://news.ycombinator.com/item?id=47080267"
     ],
@@ -231,22 +241,22 @@
   ],
   [
     [
+      "2026-02-19, 11:07:15",
+      "https://news.ycombinator.com/item?id=47072539"
+    ],
+    [
+      "Bridging Elixir and Python with Oban",
+      "https://oban.pro/articles/bridging-with-oban"
+    ]
+  ],
+  [
+    [
       "2026-02-19, 10:55:13",
       "https://news.ycombinator.com/item?id=47072444"
     ],
     [
       "Show HN: A physically-based GPU ray tracer written in Julia",
       "https://makie.org/website/blogposts/raytracing/"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 16:14:50",
-      "https://news.ycombinator.com/item?id=47049121"
-    ],
-    [
-      "Level of Detail",
-      "https://phinze.com/writing/level-of-detail"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A Beginner's Guide to Split Keyboards",
       "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 20:22:33",
-      "https://news.ycombinator.com/item?id=47027171"
-    ],
-    [
-      "Voith Schneider Propeller",
-      "https://en.wikipedia.org/wiki/Voith_Schneider_Propeller"
     ]
   ]
 ]
