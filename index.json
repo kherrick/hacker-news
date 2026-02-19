@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-02-19, 16:20:26",
-      "https://news.ycombinator.com/item?id=47075400"
+      "2026-02-19, 18:12:16",
+      "https://news.ycombinator.com/item?id=47076966"
     ],
     [
-      "AI made coding more enjoyable",
-      "https://weberdominik.com/blog/ai-coding-enjoyable/"
+      "AI Makes You Boring",
+      "https://www.marginalia.nu/log/a_132_ai_bores/"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 17:47:25",
+      "https://news.ycombinator.com/item?id=47076659"
+    ],
+    [
+      "A terminal weather app with ASCII animations driven by real-time weather data",
+      "https://github.com/Veirt/weathr"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 17:00:47",
+      "https://news.ycombinator.com/item?id=47076001"
+    ],
+    [
+      "Why applicant tracking systems are broken by design",
+      "https://www.saj.ad/2026/ats"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 16:56:52",
+      "https://news.ycombinator.com/item?id=47075934"
+    ],
+    [
+      "Choosing a Language Based on Its Syntax?",
+      "https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/"
     ]
   ],
   [
@@ -17,6 +47,16 @@
     [
       "Gemini 3.1 Pro",
       "https://deepmind.google/models/model-cards/gemini-3-1-pro/"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 16:07:14",
+      "https://news.ycombinator.com/item?id=47075245"
+    ],
+    [
+      "Mark Zuckerberg Grilled on Usage Goals and Underage Users at California Trial",
+      "https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0"
     ]
   ],
   [
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47074869"
     ],
     [
-      "Dinosaur Food: 100M year old foods we still eat today",
+      "Dinosaur Food: 100M year old foods we still eat today (2022)",
       "https://borischerny.com/food/2022/01/17/Dinosaur-food.html"
     ]
   ],
@@ -161,46 +201,6 @@
   ],
   [
     [
-      "2026-02-19, 06:43:53",
-      "https://news.ycombinator.com/item?id=47070680"
-    ],
-    [
-      "Old School Visual Effects: The Cloud Tank (2010)",
-      "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 02:52:26",
-      "https://news.ycombinator.com/item?id=47069299"
-    ],
-    [
-      "Anthropic officially bans using subscription auth for third party use",
-      "https://code.claude.com/docs/en/legal-and-compliance"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 02:32:00",
-      "https://news.ycombinator.com/item?id=47069179"
-    ],
-    [
-      "Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed",
-      "https://static.stepfun.com/blog/step-3.5-flash/"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 01:46:07",
-      "https://news.ycombinator.com/item?id=47068890"
-    ],
-    [
-      "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
-      "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 21:18:20",
       "https://news.ycombinator.com/item?id=47066552"
     ],
@@ -227,16 +227,6 @@
     [
       "The Mongol Khans of Medieval France",
       "https://www.historytoday.com/archive/feature/mongol-khans-medieval-france"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 18:44:12",
-      "https://news.ycombinator.com/item?id=47038578"
-    ],
-    [
-      "A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts",
-      "https://tempus-word.de/en/index"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Voith Schneider Propeller",
       "https://en.wikipedia.org/wiki/Voith_Schneider_Propeller"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 13:30:04",
+      "https://news.ycombinator.com/item?id=47023510"
+    ],
+    [
+      "Show HN: Chaos Studies – attractors and spatial audio (iOS/Mac/Playdate)",
+      "https://fieldbw.com/chaos-studies/"
     ]
   ],
   [
