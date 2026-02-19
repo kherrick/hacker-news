@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-19, 01:55:33",
+      "https://news.ycombinator.com/item?id=47068948"
+    ],
+    [
+      "Minecraft Java is switching from OpenGL to Vulkan",
+      "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 01:46:07",
+      "https://news.ycombinator.com/item?id=47068890"
+    ],
+    [
+      "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+      "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 23:19:29",
       "https://news.ycombinator.com/item?id=47067759"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47067678"
     ],
     [
-      "Ladybird: Closing this as we are no longer pursuing Swift adoption",
+      "Closing this as we are no longer pursuing Swift adoption",
       "https://github.com/LadybirdBrowser/ladybird/issues/933"
     ]
   ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-02-18, 15:53:15",
-      "https://news.ycombinator.com/item?id=47062329"
-    ],
-    [
-      "Garment Notation Language: Formal descriptive language for clothing construction",
-      "https://github.com/khalildh/garment-notation"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 15:31:57",
       "https://news.ycombinator.com/item?id=47062096"
     ],
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2026-02-18, 15:06:04",
-      "https://news.ycombinator.com/item?id=47061742"
-    ],
-    [
-      "Show HN: Formally verified FPGA watchdog for AM broadcast in unmanned tunnels",
-      "https://github.com/Park07/amradio"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 14:59:16",
       "https://news.ycombinator.com/item?id=47061642"
     ],
     [
       "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
       "https://resobscura.substack.com/p/what-is-happening-to-writing"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 14:05:39",
-      "https://news.ycombinator.com/item?id=47061029"
-    ],
-    [
-      "Show HN: CEL by Example",
-      "https://celbyexample.com/"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2026-02-15, 18:42:29",
-      "https://news.ycombinator.com/item?id=47026202"
+      "2026-02-15, 18:07:44",
+      "https://news.ycombinator.com/item?id=47025885"
     ],
     [
-      "The true history of the Minotaur: what archaeology reveals",
-      "https://www.nationalgeographic.fr/histoire/la-veritable-histoire-du-minotaure-ce-que-revele-archeologie-recherche-verification"
+      "How to Choose Between Hindley-Milner and Bidirectional Typing",
+      "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/"
     ]
   ],
   [
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2026-02-15, 12:43:05",
-      "https://news.ycombinator.com/item?id=47023243"
+      "2026-02-15, 13:14:56",
+      "https://news.ycombinator.com/item?id=47023401"
     ],
     [
-      "When interfaces become disposable",
-      "https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable"
+      "Show HN: Respectlytics – Open-source, privacy-first mobile analytics (MIT+AGPL)",
+      "https://github.com/respectlytics/respectlytics"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 12:42:26",
+      "https://news.ycombinator.com/item?id=47023240"
+    ],
+    [
+      "Roads to Rome (2015)",
+      "https://benedikt-gross.de/projects/roads-to-rome/"
     ]
   ],
   [
