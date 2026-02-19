@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 15:30:42](https://news.ycombinator.com/item?id=47074869) - [Dinosaur Food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
+* [2026-02-19, 15:19:57](https://news.ycombinator.com/item?id=47074735) - [Gemini 3.1 Pro Preview](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-3.1-pro-preview?pli=1)
 * [2026-02-19, 14:52:18](https://news.ycombinator.com/item?id=47074389) - [America vs. Singapore: You Can't Save Your Way Out of Economic Shocks](https://www.governance.fyi/p/america-vs-singapore-you-cant-save)
 * [2026-02-19, 14:26:20](https://news.ycombinator.com/item?id=47074083) - [Against Theory-Motivated Experimentation](https://journals.sagepub.com/doi/10.1177/26339137261421577)
+* [2026-02-19, 14:14:14](https://news.ycombinator.com/item?id=47073947) - [Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy)
 * [2026-02-19, 14:04:44](https://news.ycombinator.com/item?id=47073838) - [Ask HN: How do you employ LLMs for UI development?](https://news.ycombinator.com/item?id=47073838)
 * [2026-02-19, 13:49:49](https://news.ycombinator.com/item?id=47073684) - [Famous Signatures Through History](https://signatory.app/#famous-signatures)
 * [2026-02-19, 13:47:30](https://news.ycombinator.com/item?id=47073663) - [C++26: Std:Is_within_lifetime](https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime)

@@ -36,6 +36,7 @@
 * [2026-02-16, 18:05:32](https://news.ycombinator.com/item?id=47038125) - [Privilege Is Bad Grammar](https://tadaima.bearblog.dev/privilege-is-bad-grammar/)
 * [2026-02-16, 18:01:38](https://news.ycombinator.com/item?id=47038076) - [Castlevania and Bloodstained developer Shutaro Ida dies aged 52](https://www.dexerto.com/gaming/castlevania-and-bloodstained-developer-shutaro-ida-dies-aged-52-3319349/)
 * [2026-02-16, 17:57:46](https://news.ycombinator.com/item?id=47038032) - [Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails](https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails)
+* [2026-02-16, 17:35:00](https://news.ycombinator.com/item?id=47037781) - [Zero downtime migrations at Petabyte scale](https://planetscale.com/blog/zero-downtime-migrations-at-petabyte-scale)
 * [2026-02-16, 17:25:19](https://news.ycombinator.com/item?id=47037666) - [Palantir CEO wants to spray \"fentanyl-laced urine\" on analysts](https://twitter.com/jawwwn_/status/2023207418922959234)
 * [2026-02-16, 17:23:56](https://news.ycombinator.com/item?id=47037652) - [Antarctica sits above Earth's strongest 'gravity hole' – how it got that way](https://phys.org/news/2026-02-antarctica-earth-strongest-gravity-hole.html)
 * [2026-02-16, 17:22:02](https://news.ycombinator.com/item?id=47037628) - [I guess I kinda get why people hate AI](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
