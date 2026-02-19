@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-02-19, 20:39:59",
-      "https://news.ycombinator.com/item?id=47078941"
+      "2026-02-19, 20:56:23",
+      "https://news.ycombinator.com/item?id=47079222"
     ],
     [
-      "University of Texas limits on teaching of \"unnecessary controversial subjects\"",
-      "https://www.texastribune.org/2026/02/19/texas-university-ut-regents-unnecessarily-controversial-subjects/"
+      "We're no longer attracting top talent: the brain drain killing American science",
+      "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts"
     ]
   ],
   [
@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-02-19, 19:55:11",
+      "https://news.ycombinator.com/item?id=47078324"
+    ],
+    [
+      "AI is not a coworker, it's an exoskeleton",
+      "https://www.kasava.dev/blog/ai-as-exoskeleton"
+    ]
+  ],
+  [
+    [
       "2026-02-19, 19:42:31",
       "https://news.ycombinator.com/item?id=47078167"
     ],
@@ -31,32 +41,12 @@
   ],
   [
     [
-      "2026-02-19, 19:16:33",
-      "https://news.ycombinator.com/item?id=47077849"
-    ],
-    [
-      "IRS lost 40% of IT staff, 80% of tech leaders in 'efficiency' shakeup",
-      "https://www.theregister.com/2026/02/19/irs_job_cuts/"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 19:16:12",
       "https://news.ycombinator.com/item?id=47077844"
     ],
     [
       "California's new bill requires DOJ-approved 3D printers that report themselves",
       "https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 19:07:40",
-      "https://news.ycombinator.com/item?id=47077731"
-    ],
-    [
-      "Techno-cynics are wounded techno-optimists",
-      "https://aftermath.site/anthropic-claude-ai-leftist-technology/"
     ]
   ],
   [
@@ -101,16 +91,6 @@
   ],
   [
     [
-      "2026-02-19, 16:14:07",
-      "https://news.ycombinator.com/item?id=47075318"
-    ],
-    [
-      "Gemini 3.1 Pro",
-      "https://deepmind.google/models/model-cards/gemini-3-1-pro/"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 16:07:14",
       "https://news.ycombinator.com/item?id=47075245"
     ],
@@ -131,12 +111,32 @@
   ],
   [
     [
+      "2026-02-19, 15:30:42",
+      "https://news.ycombinator.com/item?id=47074869"
+    ],
+    [
+      "Dinosaur Food: 100M year old foods we still eat today (2022)",
+      "https://borischerny.com/food/2022/01/17/Dinosaur-food.html"
+    ]
+  ],
+  [
+    [
       "2026-02-19, 15:19:57",
       "https://news.ycombinator.com/item?id=47074735"
     ],
     [
-      "Gemini 3.1 Pro Preview",
-      "https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-3.1-pro-preview?pli=1"
+      "Gemini 3.1 Pro",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 14:52:18",
+      "https://news.ycombinator.com/item?id=47074389"
+    ],
+    [
+      "America vs. Singapore: You can't save your way out of economic shocks",
+      "https://www.governance.fyi/p/america-vs-singapore-you-cant-save"
     ]
   ],
   [
@@ -231,22 +231,32 @@
   ],
   [
     [
-      "2026-02-19, 02:32:00",
-      "https://news.ycombinator.com/item?id=47069179"
+      "2026-02-19, 06:43:53",
+      "https://news.ycombinator.com/item?id=47070680"
     ],
     [
-      "Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed",
-      "https://static.stepfun.com/blog/step-3.5-flash/"
+      "Old School Visual Effects: The Cloud Tank (2010)",
+      "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html"
     ]
   ],
   [
     [
-      "2026-02-19, 01:46:07",
-      "https://news.ycombinator.com/item?id=47068890"
+      "2026-02-18, 22:25:13",
+      "https://news.ycombinator.com/item?id=47067270"
     ],
     [
-      "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
-      "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html"
+      "US plans online portal to bypass content bans in Europe and elsewhere",
+      "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 16:14:50",
+      "https://news.ycombinator.com/item?id=47049121"
+    ],
+    [
+      "Level of Detail",
+      "https://phinze.com/writing/level-of-detail"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "My 1981 adventure game is now a multimedia extravaganza",
       "https://technologizer.com/home/2026/02/16/arctic-adventure-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 20:52:11",
-      "https://news.ycombinator.com/item?id=47040176"
-    ],
-    [
-      "Show HN: Provisioner per-board sidecar for serial access, flashing, and bring-up",
-      "https://news.ycombinator.com/item?id=47040176"
     ]
   ],
   [
