@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 14:04:44](https://news.ycombinator.com/item?id=47073838) - [Ask HN: How do you employ LLMs for UI development?](https://news.ycombinator.com/item?id=47073838)
+* [2026-02-19, 13:49:49](https://news.ycombinator.com/item?id=47073684) - [Famous Signatures Through History](https://signatory.app/#famous-signatures)
+* [2026-02-19, 13:47:30](https://news.ycombinator.com/item?id=47073663) - [C++26: Std:Is_within_lifetime](https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime)
 * [2026-02-19, 13:02:07](https://news.ycombinator.com/item?id=47073288) - [Alabama offers three tricks to fix poor urban schools](https://economist.com/united-states/2026/02/12/alabama-offers-three-tricks-to-fix-poor-urban-schools)
 * [2026-02-19, 12:36:00](https://news.ycombinator.com/item?id=47073112) - [Pebble Production: February Update](https://repebble.com/blog/february-pebble-production-and-software-updates)
 * [2026-02-19, 12:24:33](https://news.ycombinator.com/item?id=47073044) - [Coding Tricks Used in the C64 Game Seawolves](https://kodiak64.co.uk/blog/seawolves-technical-tricks)

@@ -52,6 +52,7 @@
 * [2026-02-16, 14:48:25](https://news.ycombinator.com/item?id=47035679) - [UK Discord users were part of a Peter Thiel-linked data collection experiment](https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment)
 * [2026-02-16, 14:39:32](https://news.ycombinator.com/item?id=47035560) - [What Your Bluetooth Devices Reveal About You](https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/)
 * [2026-02-16, 14:26:39](https://news.ycombinator.com/item?id=47035371) - [The Sideprocalypse](https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/)
+* [2026-02-16, 14:05:21](https://news.ycombinator.com/item?id=47035088) - [-fbounds-safety: Enforcing bounds safety for C](https://clang.llvm.org/docs/BoundsSafety.html)
 * [2026-02-16, 13:39:45](https://news.ycombinator.com/item?id=47034801) - [Running My Own XMPP Server](https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/)
 * [2026-02-16, 13:30:07](https://news.ycombinator.com/item?id=47034713) - [Ministry of Justice orders deletion of the UK's largest court reporting database](https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/)
 * [2026-02-16, 12:28:31](https://news.ycombinator.com/item?id=47034192) - [Thanks a lot, AI: Hard drives are sold out for the year, says WD](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
