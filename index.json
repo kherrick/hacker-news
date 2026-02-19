@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-02-19, 13:02:07",
-      "https://news.ycombinator.com/item?id=47073288"
+      "2026-02-19, 14:04:44",
+      "https://news.ycombinator.com/item?id=47073838"
     ],
     [
-      "Alabama offers three tricks to fix poor urban schools",
-      "https://economist.com/united-states/2026/02/12/alabama-offers-three-tricks-to-fix-poor-urban-schools"
+      "Ask HN: How do you employ LLMs for UI development?",
+      "https://news.ycombinator.com/item?id=47073838"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 13:49:49",
+      "https://news.ycombinator.com/item?id=47073684"
+    ],
+    [
+      "Famous Signatures Through History",
+      "https://signatory.app/#famous-signatures"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 13:47:30",
+      "https://news.ycombinator.com/item?id=47073663"
+    ],
+    [
+      "C++26: Std:Is_within_lifetime",
+      "https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime"
     ]
   ],
   [
@@ -61,21 +81,11 @@
   ],
   [
     [
-      "2026-02-19, 12:06:05",
-      "https://news.ycombinator.com/item?id=47072930"
-    ],
-    [
-      "Show HN: LatentScore – Type a mood, get procedural/ambient music (open source)",
-      "https://latentscore.com/demo"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 11:54:21",
       "https://news.ycombinator.com/item?id=47072863"
     ],
     [
-      "Show HN: An encrypted, local, cross-platform journaling app",
+      "Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app",
       "https://github.com/fjrevoredo/mini-diarium"
     ]
   ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-02-18, 18:04:13",
-      "https://news.ycombinator.com/item?id=47064047"
-    ],
-    [
-      "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-      "https://letsencrypt.org/2026/02/18/dns-persist-01.html"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 16:46:12",
       "https://news.ycombinator.com/item?id=47063005"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2026-02-16, 17:23:56",
-      "https://news.ycombinator.com/item?id=47037652"
-    ],
-    [
-      "Antarctica sits above Earth's strongest 'gravity hole' – how it got that way",
-      "https://phys.org/news/2026-02-antarctica-earth-strongest-gravity-hole.html"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 16:14:13",
       "https://news.ycombinator.com/item?id=47036836"
     ],
     [
       "Virgins, Unicorns and Medieval Literature (2017)",
       "https://www.bowdoin.edu/news/2017/11/virgins-unicorns-and-medieval-literature.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 14:05:21",
+      "https://news.ycombinator.com/item?id=47035088"
+    ],
+    [
+      "-fbounds-safety: Enforcing bounds safety for C",
+      "https://clang.llvm.org/docs/BoundsSafety.html"
     ]
   ],
   [
