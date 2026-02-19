@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-02-19, 19:16:33",
+      "https://news.ycombinator.com/item?id=47077849"
+    ],
+    [
+      "IRS lost 40% of IT staff, 80% of tech leaders in 'efficiency' shakeup",
+      "https://www.theregister.com/2026/02/19/irs_job_cuts/"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 19:16:12",
+      "https://news.ycombinator.com/item?id=47077844"
+    ],
+    [
+      "California's New Bill Requires DOJ-Approved 3D Printers That Report Themselves",
+      "https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 19:03:32",
+      "https://news.ycombinator.com/item?id=47077676"
+    ],
+    [
+      "CTO Says 93% of Developers Use AI, but Productivity Is Still 10%",
+      "https://shiftmag.dev/this-cto-says-93-of-developers-use-ai-but-productivity-is-still-10-8013/"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 18:42:51",
+      "https://news.ycombinator.com/item?id=47077383"
+    ],
+    [
+      "Farewell Rust",
+      "https://yieldcode.blog/post/farewell-rust/"
+    ]
+  ],
+  [
+    [
       "2026-02-19, 18:31:50",
       "https://news.ycombinator.com/item?id=47077245"
     ],
@@ -211,42 +251,12 @@
   ],
   [
     [
-      "2026-02-19, 06:43:53",
-      "https://news.ycombinator.com/item?id=47070680"
-    ],
-    [
-      "Old School Visual Effects: The Cloud Tank (2010)",
-      "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 02:32:00",
-      "https://news.ycombinator.com/item?id=47069179"
-    ],
-    [
-      "Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed",
-      "https://static.stepfun.com/blog/step-3.5-flash/"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 01:46:07",
       "https://news.ycombinator.com/item?id=47068890"
     ],
     [
       "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
       "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 22:27:47",
-      "https://news.ycombinator.com/item?id=47041225"
-    ],
-    [
-      "The Mongol Khans of Medieval France",
-      "https://www.historytoday.com/archive/feature/mongol-khans-medieval-france"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Zero downtime migrations at Petabyte scale",
       "https://planetscale.com/blog/zero-downtime-migrations-at-petabyte-scale"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 14:05:21",
-      "https://news.ycombinator.com/item?id=47035088"
-    ],
-    [
-      "-fbounds-safety: Enforcing bounds safety for C",
-      "https://clang.llvm.org/docs/BoundsSafety.html"
     ]
   ],
   [
