@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 19:16:33](https://news.ycombinator.com/item?id=47077849) - [IRS lost 40% of IT staff, 80% of tech leaders in 'efficiency' shakeup](https://www.theregister.com/2026/02/19/irs_job_cuts/)
+* [2026-02-19, 19:16:12](https://news.ycombinator.com/item?id=47077844) - [California's New Bill Requires DOJ-Approved 3D Printers That Report Themselves](https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/)
+* [2026-02-19, 19:03:32](https://news.ycombinator.com/item?id=47077676) - [CTO Says 93% of Developers Use AI, but Productivity Is Still 10%](https://shiftmag.dev/this-cto-says-93-of-developers-use-ai-but-productivity-is-still-10-8013/)
+* [2026-02-19, 18:42:51](https://news.ycombinator.com/item?id=47077383) - [Farewell Rust](https://yieldcode.blog/post/farewell-rust/)
 * [2026-02-19, 18:31:50](https://news.ycombinator.com/item?id=47077245) - [Archaeologists find possible first direct evidence of Hannibal's war elephants](https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/)
 * [2026-02-19, 18:26:44](https://news.ycombinator.com/item?id=47077163) - [South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection](https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea)
 * [2026-02-19, 18:12:16](https://news.ycombinator.com/item?id=47076966) - [AI Makes You Boring](https://www.marginalia.nu/log/a_132_ai_bores/)
