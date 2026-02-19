@@ -30,6 +30,7 @@
 * [2026-02-16, 18:44:58](https://news.ycombinator.com/item?id=47038588) - [Use Protocols, Not Services](https://notnotp.com/notes/use-protocols-not-services/)
 * [2026-02-16, 18:44:12](https://news.ycombinator.com/item?id=47038578) - [A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts](https://tempus-word.de/en/index)
 * [2026-02-16, 18:41:50](https://news.ycombinator.com/item?id=47038546) - [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)
+* [2026-02-16, 18:37:39](https://news.ycombinator.com/item?id=47038491) - [Type-based alias analysis in the Toy Optimizer](https://bernsteinbear.com/blog/toy-tbaa/)
 * [2026-02-16, 18:31:19](https://news.ycombinator.com/item?id=47038411) - [LCM: Lossless Context Management [pdf]](http://papers.voltropy.com/LCM)
 * [2026-02-16, 18:23:36](https://news.ycombinator.com/item?id=47038318) - [\"token anxiety\"; or, a slot machine by any other name](https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/)
 * [2026-02-16, 18:19:16](https://news.ycombinator.com/item?id=47038270) - [The Long Tail of LLM-Assisted Decompilation](https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/)
