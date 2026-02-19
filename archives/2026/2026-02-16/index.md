@@ -45,6 +45,7 @@
 * [2026-02-16, 16:22:24](https://news.ycombinator.com/item?id=47036921) - [History of AT&T Long Lines](https://telephoneworld.org/long-distance-companies/att-long-distance-network/history-of-att-long-lines/)
 * [2026-02-16, 16:19:16](https://news.ycombinator.com/item?id=47036891) - [Show HN: Simple org-mode web adapter](https://github.com/SpaceTurth/Org-Web-Adapter)
 * [2026-02-16, 16:19:08](https://news.ycombinator.com/item?id=47036889) - [STM32G431 Analogue TV Transmitter](https://slyka.net/blog/2026/tinyvision/)
+* [2026-02-16, 16:14:13](https://news.ycombinator.com/item?id=47036836) - [Virgins, Unicorns and Medieval Literature (2017)](https://www.bowdoin.edu/news/2017/11/virgins-unicorns-and-medieval-literature.html)
 * [2026-02-16, 15:19:01](https://news.ycombinator.com/item?id=47036116) - [Intermittent fasting may make little difference to weight loss, review finds](https://www.bbc.co.uk/news/articles/c4ge7n3pq62o)
 * [2026-02-16, 15:15:50](https://news.ycombinator.com/item?id=47036063) - [Show HN: Maths, CS and AI Compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
 * [2026-02-16, 14:50:48](https://news.ycombinator.com/item?id=47035718) - [iOS 27 'Rave' Update to Clean Up Code, Could Boost Battery Life](https://www.macrumors.com/2026/02/16/apple-plans-snow-leopard-cleanup-ios-27/)

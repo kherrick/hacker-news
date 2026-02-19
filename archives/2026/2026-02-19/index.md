@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 13:02:07](https://news.ycombinator.com/item?id=47073288) - [Alabama offers three tricks to fix poor urban schools](https://economist.com/united-states/2026/02/12/alabama-offers-three-tricks-to-fix-poor-urban-schools)
+* [2026-02-19, 12:36:00](https://news.ycombinator.com/item?id=47073112) - [Pebble Production: February Update](https://repebble.com/blog/february-pebble-production-and-software-updates)
+* [2026-02-19, 12:24:33](https://news.ycombinator.com/item?id=47073044) - [Coding Tricks Used in the C64 Game Seawolves](https://kodiak64.co.uk/blog/seawolves-technical-tricks)
+* [2026-02-19, 12:13:44](https://news.ycombinator.com/item?id=47072968) - [Paged Out Issue #8 [pdf]](https://pagedout.institute/download/PagedOut_008.pdf)
+* [2026-02-19, 12:13:39](https://news.ycombinator.com/item?id=47072967) - [DOGE Track](https://dogetrack.info/)
+* [2026-02-19, 12:06:30](https://news.ycombinator.com/item?id=47072932) - [UK to force social media to remove abusive pics in 48 hours](https://www.theregister.com/2026/02/19/uk_intimate_images_online/)
+* [2026-02-19, 12:06:05](https://news.ycombinator.com/item?id=47072930) - [Show HN: LatentScore – Type a mood, get procedural/ambient music (open source)](https://latentscore.com/demo)
 * [2026-02-19, 11:54:21](https://news.ycombinator.com/item?id=47072863) - [Show HN: An encrypted, local, cross-platform journaling app](https://github.com/fjrevoredo/mini-diarium)
 * [2026-02-19, 11:15:38](https://news.ycombinator.com/item?id=47072603) - [ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory](https://github.com/sstraust/shannonmax)
 * [2026-02-19, 11:07:15](https://news.ycombinator.com/item?id=47072539) - [Bridging Elixir and Python with Oban](https://oban.pro/articles/bridging-with-oban)
