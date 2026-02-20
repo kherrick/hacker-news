@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2026-02-20, 05:06:40",
+      "https://news.ycombinator.com/item?id=47084000"
+    ],
+    [
+      "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
+      "https://github.com/olvvier/apple-silicon-accelerometer"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 04:15:58",
       "https://news.ycombinator.com/item?id=47083648"
     ],
@@ -217,16 +227,6 @@
     [
       "The Popper Principle",
       "https://theamericanscholar.org/the-popper-principle/"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 20:30:22",
-      "https://news.ycombinator.com/item?id=47065972"
-    ],
-    [
-      "Notes on Clarifying Man Pages",
-      "https://jvns.ca/blog/2026/02/18/man-pages/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-02-17, 11:47:52",
-      "https://news.ycombinator.com/item?id=47046486"
-    ],
-    [
-      "A chatbot's worst enemy is page refresh",
-      "https://zknill.io/posts/chatbots-worst-enemy-is-page-refresh/"
-    ]
-  ],
-  [
-    [
       "2026-02-17, 07:34:57",
       "https://news.ycombinator.com/item?id=47044700"
     ],
@@ -297,6 +287,16 @@
     [
       "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
       "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 00:31:01",
+      "https://news.ycombinator.com/item?id=47029368"
+    ],
+    [
+      "A beginner's guide to split keyboards",
+      "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/"
     ]
   ]
 ]
