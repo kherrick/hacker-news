@@ -25,18 +25,8 @@
       "https://news.ycombinator.com/item?id=47092006"
     ],
     [
-      "Wikipedia bans Archive.today after site executed DDoS and altered web captures",
+      "Wikipedia deprecates Archive.today, starts removing archive links",
       "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 18:26:18",
-      "https://news.ycombinator.com/item?id=47091763"
-    ],
-    [
-      "KFC, Nando's, and others ditch chicken welfare pledge",
-      "https://www.bbc.co.uk/news/articles/cm2r6jqm042o"
     ]
   ],
   [
@@ -45,8 +35,18 @@
       "https://news.ycombinator.com/item?id=47091748"
     ],
     [
-      "Facebook is absolutely cooked",
+      "Facebook is cooked",
       "https://pilk.website/3/facebook-is-absolutely-cooked"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 18:14:13",
+      "https://news.ycombinator.com/item?id=47091606"
+    ],
+    [
+      "Blue light filters don't work – controlling total luminance is a better bet",
+      "https://www.neuroai.science/p/blue-light-filters-dont-work"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2026-02-20, 11:20:02",
-      "https://news.ycombinator.com/item?id=47086557"
-    ],
-    [
-      "Minions – Stripe's Coding Agents Part 2",
-      "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2"
-    ]
-  ],
-  [
-    [
       "2026-02-20, 10:32:52",
       "https://news.ycombinator.com/item?id=47086181"
     ],
@@ -197,16 +187,6 @@
     [
       "Web Components: The Framework-Free Renaissance",
       "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 05:06:40",
-      "https://news.ycombinator.com/item?id=47084000"
-    ],
-    [
-      "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
-      "https://github.com/olvvier/apple-silicon-accelerometer"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2026-02-18, 02:41:54",
+      "https://news.ycombinator.com/item?id=47056516"
+    ],
+    [
+      "Lessons learned from `oapi-codegen`'s time in the GitHub Secure Open Source Fund",
+      "https://www.jvt.me/posts/2026/02/17/oapi-codegen-github-secure/"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 14:58:17",
       "https://news.ycombinator.com/item?id=47048181"
     ],
@@ -267,6 +257,16 @@
     [
       "Visible Spectra of the Elements",
       "https://atomic-spectra.net/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 11:47:52",
+      "https://news.ycombinator.com/item?id=47046486"
+    ],
+    [
+      "A chatbot's worst enemy is page refresh",
+      "https://zknill.io/posts/chatbots-worst-enemy-is-page-refresh/"
     ]
   ],
   [
