@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-20, 06:20:34",
+      "https://news.ycombinator.com/item?id=47084431"
+    ],
+    [
+      "Show HN: Fostrom, an IoT Cloud Platform built for developers",
+      "https://fostrom.io/"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 05:06:40",
+      "https://news.ycombinator.com/item?id=47084000"
+    ],
+    [
+      "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
+      "https://github.com/olvvier/apple-silicon-accelerometer"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 04:46:37",
+      "https://news.ycombinator.com/item?id=47083882"
+    ],
+    [
+      "Fast KV Compaction via Attention Matching",
+      "https://arxiv.org/abs/2602.16284"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 04:27:51",
       "https://news.ycombinator.com/item?id=47083735"
     ],
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47082854"
     ],
     [
-      "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
+      "Pi for Excel: AI sidebar add-in for Excel",
       "https://github.com/tmustier/pi-for-excel"
     ]
   ],
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2026-02-19, 11:54:21",
-      "https://news.ycombinator.com/item?id=47072863"
-    ],
-    [
-      "Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app",
-      "https://github.com/fjrevoredo/mini-diarium"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 10:55:13",
-      "https://news.ycombinator.com/item?id=47072444"
-    ],
-    [
-      "Show HN: A physically-based GPU ray tracer written in Julia",
-      "https://makie.org/website/blogposts/raytracing/"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 22:25:13",
       "https://news.ycombinator.com/item?id=47067270"
     ],
@@ -217,6 +227,16 @@
     [
       "A Famous Enigma: On Alexandre Kojève",
       "https://clereviewofbooks.com/isabel-jacobs-boris-groys-marco-filoni/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 12:57:38",
+      "https://news.ycombinator.com/item?id=47047010"
+    ],
+    [
+      "FreeCAD",
+      "https://www.freecad.org/index.php"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2026-02-16, 18:37:39",
-      "https://news.ycombinator.com/item?id=47038491"
-    ],
-    [
-      "Type-based alias analysis in the Toy Optimizer",
-      "https://bernsteinbear.com/blog/toy-tbaa/"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 17:57:46",
       "https://news.ycombinator.com/item?id=47038032"
     ],
     [
       "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
       "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 17:35:00",
-      "https://news.ycombinator.com/item?id=47037781"
-    ],
-    [
-      "Zero downtime migrations at petabyte scale (2024)",
-      "https://planetscale.com/blog/zero-downtime-migrations-at-petabyte-scale"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=47031197"
     ],
     [
-      "Defer Available in GCC and Clang",
+      "Defer available in gcc and clang",
       "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/"
     ]
   ],
