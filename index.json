@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-02-20, 15:44:55",
-      "https://news.ycombinator.com/item?id=47089469"
-    ],
-    [
-      "The Gay Tech Mafia",
-      "https://www.wired.com/story/inside-the-gay-tech-mafia/"
-    ]
-  ],
-  [
-    [
       "2026-02-20, 15:27:38",
       "https://news.ycombinator.com/item?id=47089213"
     ],
@@ -91,32 +81,12 @@
   ],
   [
     [
-      "2026-02-20, 12:04:35",
-      "https://news.ycombinator.com/item?id=47086980"
-    ],
-    [
-      "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
-      "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323"
-    ]
-  ],
-  [
-    [
       "2026-02-20, 11:20:02",
       "https://news.ycombinator.com/item?id=47086557"
     ],
     [
       "Minions – Stripe's Coding Agents Part 2",
       "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 10:50:58",
-      "https://news.ycombinator.com/item?id=47086319"
-    ],
-    [
-      "Silicon Valley engineers were indicted for allegedly sending secrets to Iran",
-      "https://www.cnbc.com/2026/02/20/three-engineers-charged-stealing-google-trade-secrets-data-iran-soc-snapdragon.html"
     ]
   ],
   [
@@ -181,12 +151,32 @@
   ],
   [
     [
+      "2026-02-20, 04:46:37",
+      "https://news.ycombinator.com/item?id=47083882"
+    ],
+    [
+      "Fast KV Compaction via Attention Matching",
+      "https://arxiv.org/abs/2602.16284"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 04:15:58",
       "https://news.ycombinator.com/item?id=47083648"
     ],
     [
       "Consistency diffusion language models: Up to 14x faster, no quality loss",
       "https://www.together.ai/blog/consistency-diffusion-language-models"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 01:33:36",
+      "https://news.ycombinator.com/item?id=47082548"
+    ],
+    [
+      "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+      "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Notes on Clarifying Man Pages",
       "https://jvns.ca/blog/2026/02/18/man-pages/"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 02:41:54",
+      "https://news.ycombinator.com/item?id=47056516"
+    ],
+    [
+      "Lessons learned from `oapi-codegen`'s time in the GitHub Secure Open Source Fund",
+      "https://www.jvt.me/posts/2026/02/17/oapi-codegen-github-secure/"
     ]
   ],
   [
