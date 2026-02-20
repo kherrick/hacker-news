@@ -83,6 +83,7 @@
 * [2026-02-16, 02:58:55](https://news.ycombinator.com/item?id=47030387) - [The Rediscovery of 103 Hokusai Lost Sketches (2021)](https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/)
 * [2026-02-16, 02:36:14](https://news.ycombinator.com/item?id=47030271) - [Arm wants a bigger slice of the chip business](https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business)
 * [2026-02-16, 01:54:33](https://news.ycombinator.com/item?id=47029999) - [Old School Telecine, circa 1980s (2017)](https://www.liftgammagain.com/forum/index.php?threads/old-school-telecine-circa-1980s.9984/)
+* [2026-02-16, 01:08:51](https://news.ycombinator.com/item?id=47029651) - [How were video transfers made? (2011)](https://www.film-tech.com/ubb/f12/t000972.html)
 * [2026-02-16, 00:35:12](https://news.ycombinator.com/item?id=47029397) - [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)
 * [2026-02-16, 00:31:01](https://news.ycombinator.com/item?id=47029368) - [A Beginner's Guide to Split Keyboards](https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/)
 * [2026-02-16, 00:26:23](https://news.ycombinator.com/item?id=47029339) - [JavaScript-heavy approaches are not compatible with long-term performance goals](https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/)
