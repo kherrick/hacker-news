@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-20](index.md)
 
+* [2026-02-20, 19:19:58](https://news.ycombinator.com/item?id=47092578) - [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer)
+* [2026-02-20, 19:04:55](https://news.ycombinator.com/item?id=47092348) - [Testing Super Mario Using a Behavior Model Autonomously](https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part1/)
+* [2026-02-20, 18:42:21](https://news.ycombinator.com/item?id=47092006) - [Wikipedia bans Archive.today after site executed DDoS and altered web captures](https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/)
 * [2026-02-20, 18:25:07](https://news.ycombinator.com/item?id=47091748) - [Facebook is absolutely cooked](https://pilk.website/3/facebook-is-absolutely-cooked)
 * [2026-02-20, 18:14:13](https://news.ycombinator.com/item?id=47091606) - [Blue light filters don't work](https://www.neuroai.science/p/blue-light-filters-dont-work)
 * [2026-02-20, 18:03:19](https://news.ycombinator.com/item?id=47091469) - [Making frontier cybersecurity capabilities available to defenders](https://www.anthropic.com/news/claude-code-security)
