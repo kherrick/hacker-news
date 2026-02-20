@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-20](index.md)
 
+* [2026-02-20, 18:25:07](https://news.ycombinator.com/item?id=47091748) - [Facebook is absolutely cooked](https://pilk.website/3/facebook-is-absolutely-cooked)
+* [2026-02-20, 18:14:13](https://news.ycombinator.com/item?id=47091606) - [Blue light filters don't work](https://www.neuroai.science/p/blue-light-filters-dont-work)
+* [2026-02-20, 18:03:19](https://news.ycombinator.com/item?id=47091469) - [Making frontier cybersecurity capabilities available to defenders](https://www.anthropic.com/news/claude-code-security)
+* [2026-02-20, 17:58:51](https://news.ycombinator.com/item?id=47091419) - [F-Droid: \"Keep Android Open\"](https://f-droid.org/2026/02/20/twif.html)
+* [2026-02-20, 17:34:12](https://news.ycombinator.com/item?id=47091071) - [Lil' Fun Langs](https://taylor.town/scrapscript-000)
 * [2026-02-20, 17:02:15](https://news.ycombinator.com/item?id=47090610) - [Legion Health (YC) Is Hiring Cracked SWEs for Autonomous Mental Health](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424)
+* [2026-02-20, 17:00:18](https://news.ycombinator.com/item?id=47090584) - [Tesla to pay $243M judgement over Autopilot crash](https://electrek.co/2026/02/20/tesla-has-to-pay-historical-243-million-judgement-over-autopilot-crash-judge-says/)
 * [2026-02-20, 16:13:32](https://news.ycombinator.com/item?id=47089907) - [No Skill. No Taste](https://blog.kinglycrow.com/no-skill-no-taste/)
 * [2026-02-20, 15:44:55](https://news.ycombinator.com/item?id=47089469) - [The Gay Tech Mafia](https://www.wired.com/story/inside-the-gay-tech-mafia/)
 * [2026-02-20, 15:27:38](https://news.ycombinator.com/item?id=47089213) - [Trump's global tariffs struck down by US Supreme Court](https://www.bbc.com/news/live/c0l9r67drg7t)
