@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-02-20](index.md)
 
+* [2026-02-20, 21:22:27](https://news.ycombinator.com/item?id=47094149) - [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/)
+* [2026-02-20, 20:47:48](https://news.ycombinator.com/item?id=47093724) - [OpenScan](https://openscan.eu/pages/scan-gallery)
+* [2026-02-20, 20:39:06](https://news.ycombinator.com/item?id=47093604) - [Escaping Misconfigured VSCode Extensions (2023)](https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/)
 * [2026-02-20, 19:19:58](https://news.ycombinator.com/item?id=47092578) - [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer)
 * [2026-02-20, 19:04:55](https://news.ycombinator.com/item?id=47092348) - [Testing Super Mario Using a Behavior Model Autonomously](https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part1/)
+* [2026-02-20, 18:55:15](https://news.ycombinator.com/item?id=47092203) - [Every company building your AI assistant is now an ad company](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
 * [2026-02-20, 18:42:21](https://news.ycombinator.com/item?id=47092006) - [Wikipedia bans Archive.today after site executed DDoS and altered web captures](https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/)
 * [2026-02-20, 18:26:18](https://news.ycombinator.com/item?id=47091763) - [KFC, Nando's, and others ditch chicken welfare pledge](https://www.bbc.co.uk/news/articles/cm2r6jqm042o)
 * [2026-02-20, 18:25:07](https://news.ycombinator.com/item?id=47091748) - [Facebook is absolutely cooked](https://pilk.website/3/facebook-is-absolutely-cooked)
 * [2026-02-20, 18:14:13](https://news.ycombinator.com/item?id=47091606) - [Blue light filters don't work](https://www.neuroai.science/p/blue-light-filters-dont-work)
+* [2026-02-20, 18:11:02](https://news.ycombinator.com/item?id=47091557) - [Uncovering insiders and alpha on Polymarket with AI](https://twitter.com/peterjliu/status/2024901585806225723)
 * [2026-02-20, 18:03:19](https://news.ycombinator.com/item?id=47091469) - [Making frontier cybersecurity capabilities available to defenders](https://www.anthropic.com/news/claude-code-security)
 * [2026-02-20, 17:58:51](https://news.ycombinator.com/item?id=47091419) - [F-Droid: \"Keep Android Open\"](https://f-droid.org/2026/02/20/twif.html)
 * [2026-02-20, 17:34:12](https://news.ycombinator.com/item?id=47091071) - [Lil' Fun Langs](https://taylor.town/scrapscript-000)
