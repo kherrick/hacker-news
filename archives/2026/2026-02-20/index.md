@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-20](index.md)
 
+* [2026-02-20, 10:31:17](https://news.ycombinator.com/item?id=47086170) - [SwiftUI Agent Skill: Build Better Views with AI](https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/)
 * [2026-02-20, 09:02:05](https://news.ycombinator.com/item?id=47085483) - [\"Made in EU\" – Building a Startup on European Infrastructure](https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/)
+* [2026-02-20, 08:52:17](https://news.ycombinator.com/item?id=47085425) - [Untapped Way to Learn a Codebase: Build a Visualizer](https://jimmyhmiller.com/learn-codebase-visualizer)
+* [2026-02-20, 08:48:05](https://news.ycombinator.com/item?id=47085387) - [Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse](https://learn.pimoroni.com/article/overclocking-the-pico-2)
+* [2026-02-20, 08:45:57](https://news.ycombinator.com/item?id=47085370) - [Web Components: The Framework-Free Renaissance](https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html)
 * [2026-02-20, 06:20:34](https://news.ycombinator.com/item?id=47084431) - [Show HN: Fostrom, an IoT Cloud Platform built for developers](https://fostrom.io/)
 * [2026-02-20, 05:06:40](https://news.ycombinator.com/item?id=47084000) - [Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit](https://github.com/olvvier/apple-silicon-accelerometer)
 * [2026-02-20, 04:46:37](https://news.ycombinator.com/item?id=47083882) - [Fast KV Compaction via Attention Matching](https://arxiv.org/abs/2602.16284)
