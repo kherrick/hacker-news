@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-20, 16:13:32](https://news.ycombinator.com/item?id=47089907) - [No Skill. No Taste](https://blog.kinglycrow.com/no-skill-no-taste/)
+* [2026-02-20, 15:44:55](https://news.ycombinator.com/item?id=47089469) - [The Gay Tech Mafia](https://www.wired.com/story/inside-the-gay-tech-mafia/)
 * [2026-02-20, 15:27:38](https://news.ycombinator.com/item?id=47089213) - [Trump's global tariffs struck down by US Supreme Court](https://www.bbc.com/news/live/c0l9r67drg7t)
 * [2026-02-20, 14:48:34](https://news.ycombinator.com/item?id=47088685) - [Child's Play: Tech's new generation and the end of thinking](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/)
 * [2026-02-20, 14:03:06](https://news.ycombinator.com/item?id=47088181) - [I found a useful Git one liner buried in leaked CIA developer docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html)
@@ -18,7 +20,6 @@
 * [2026-02-20, 05:06:40](https://news.ycombinator.com/item?id=47084000) - [Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit](https://github.com/olvvier/apple-silicon-accelerometer)
 * [2026-02-20, 04:46:37](https://news.ycombinator.com/item?id=47083882) - [Fast KV Compaction via Attention Matching](https://arxiv.org/abs/2602.16284)
 * [2026-02-20, 04:15:58](https://news.ycombinator.com/item?id=47083648) - [Consistency diffusion language models: Up to 14x faster, no quality loss](https://www.together.ai/blog/consistency-diffusion-language-models)
-* [2026-02-20, 01:33:36](https://news.ycombinator.com/item?id=47082548) - [An ARM Homelab Server, or a Minisforum MS-R1 Review](https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/)
 * [2026-02-19, 19:55:11](https://news.ycombinator.com/item?id=47078324) - [AI is not a coworker, it's an exoskeleton](https://www.kasava.dev/blog/ai-as-exoskeleton)
 * [2026-02-19, 15:54:14](https://news.ycombinator.com/item?id=47075124) - [Show HN: Micasa – track your house from the terminal](https://micasa.dev)
 * [2026-02-19, 15:19:57](https://news.ycombinator.com/item?id=47074735) - [Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
@@ -27,7 +28,6 @@
 * [2026-02-18, 20:30:22](https://news.ycombinator.com/item?id=47065972) - [Notes on Clarifying Man Pages](https://jvns.ca/blog/2026/02/18/man-pages/)
 * [2026-02-17, 12:57:38](https://news.ycombinator.com/item?id=47047010) - [FreeCAD](https://www.freecad.org/index.php)
 * [2026-02-17, 03:23:16](https://news.ycombinator.com/item?id=47043345) - [Infrastructure decisions I endorse or regret after 4 years at a startup (2024)](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
-* [2026-02-16, 05:27:35](https://news.ycombinator.com/item?id=47031197) - [Defer available in gcc and clang](https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/)
 * [2026-02-16, 02:58:55](https://news.ycombinator.com/item?id=47030387) - [The Rediscovery of 103 Hokusai Lost Sketches (2021)](https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/)
 * [2026-02-16, 00:31:01](https://news.ycombinator.com/item?id=47029368) - [A beginner's guide to split keyboards](https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/)
 
