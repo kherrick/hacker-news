@@ -51,6 +51,7 @@
 * [2026-02-17, 15:43:39](https://news.ycombinator.com/item?id=47048733) - [Show HN: I wrote a technical history book on Lisp](https://berksoft.ca/gol/)
 * [2026-02-17, 15:36:46](https://news.ycombinator.com/item?id=47048633) - [Show HN: Price Per Ball – Site that sorts golf balls on Amazon by price per ball](https://priceperball.net/)
 * [2026-02-17, 15:04:18](https://news.ycombinator.com/item?id=47048248) - [America's Pensions Can't Beat Vanguard but They Can Close Your Hospital](https://www.governance.fyi/p/americas-pensions-cant-beat-a-vanguard)
+* [2026-02-17, 14:58:17](https://news.ycombinator.com/item?id=47048181) - [Do you want to build a community where users search or hang? (2021)](https://www.mooreds.com/wordpress/archives/3486)
 * [2026-02-17, 14:47:26](https://news.ycombinator.com/item?id=47048052) - [Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway](https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/)
 * [2026-02-17, 14:43:14](https://news.ycombinator.com/item?id=47048004) - [I converted 2D conventional flight tracking into 3D](https://aeris.edbn.me/?city=SFO)
 * [2026-02-17, 13:57:19](https://news.ycombinator.com/item?id=47047526) - [Why I'm Worried About Job Loss and Thoughts on Comparative Advantage](https://www.lesswrong.com/posts/YPJHkciv6ysgsSiJC/why-i-m-worried-about-job-loss-thoughts-on-comparative)
