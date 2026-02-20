@@ -58,6 +58,7 @@
 * [2026-02-18, 10:29:30](https://news.ycombinator.com/item?id=47059520) - [Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)
 * [2026-02-18, 10:00:11](https://news.ycombinator.com/item?id=47059275) - [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
 * [2026-02-18, 07:45:11](https://news.ycombinator.com/item?id=47058368) - [Portugal: The First Global Empire (2015)](https://www.historytoday.com/archive/first-global-empire)
+* [2026-02-18, 07:42:05](https://news.ycombinator.com/item?id=47058350) - [A Famous Enigma: On Alexandre Kojève](https://clereviewofbooks.com/isabel-jacobs-boris-groys-marco-filoni/)
 * [2026-02-18, 07:18:50](https://news.ycombinator.com/item?id=47058219) - [If you're an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)
 * [2026-02-18, 07:01:28](https://news.ycombinator.com/item?id=47058106) - [Stardex (YC S21) Is Hiring](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
 * [2026-02-18, 06:57:37](https://news.ycombinator.com/item?id=47058080) - [Show HN: Beautiful interactive explainers generated with Claude Code](https://paraschopra.github.io/explainers/)
