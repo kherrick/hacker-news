@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-20](index.md)
 
+* [2026-02-20, 21:25:41](https://news.ycombinator.com/item?id=47094192) - [Turn Dependabot Off](https://words.filippo.io/dependabot/)
 * [2026-02-20, 21:22:27](https://news.ycombinator.com/item?id=47094149) - [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/)
 * [2026-02-20, 20:47:48](https://news.ycombinator.com/item?id=47093724) - [OpenScan](https://openscan.eu/pages/scan-gallery)
 * [2026-02-20, 20:39:06](https://news.ycombinator.com/item?id=47093604) - [Escaping Misconfigured VSCode Extensions (2023)](https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/)

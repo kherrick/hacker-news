@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-20, 21:25:41](https://news.ycombinator.com/item?id=47094192) - [Turn Dependabot Off](https://words.filippo.io/dependabot/)
 * [2026-02-20, 21:22:27](https://news.ycombinator.com/item?id=47094149) - [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/)
 * [2026-02-20, 20:47:48](https://news.ycombinator.com/item?id=47093724) - [OpenScan](https://openscan.eu/pages/scan-gallery)
 * [2026-02-20, 20:39:06](https://news.ycombinator.com/item?id=47093604) - [Escaping Misconfigured VSCode Extensions (2023)](https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/)
@@ -26,10 +27,9 @@
 * [2026-02-20, 04:15:58](https://news.ycombinator.com/item?id=47083648) - [Consistency diffusion language models: Up to 14x faster, no quality loss](https://www.together.ai/blog/consistency-diffusion-language-models)
 * [2026-02-19, 19:55:11](https://news.ycombinator.com/item?id=47078324) - [AI is not a coworker, it's an exoskeleton](https://www.kasava.dev/blog/ai-as-exoskeleton)
 * [2026-02-19, 11:52:49](https://news.ycombinator.com/item?id=47072849) - [The Popper Principle](https://theamericanscholar.org/the-popper-principle/)
-* [2026-02-17, 14:58:17](https://news.ycombinator.com/item?id=47048181) - [Do you want to build a community where users search or hang? (2021)](https://www.mooreds.com/wordpress/archives/3486)
 * [2026-02-17, 07:34:57](https://news.ycombinator.com/item?id=47044700) - [How to Review an AUR Package](https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html)
 * [2026-02-17, 03:23:16](https://news.ycombinator.com/item?id=47043345) - [Infrastructure decisions I endorse or regret after 4 years at a startup (2024)](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
-* [2026-02-16, 02:58:55](https://news.ycombinator.com/item?id=47030387) - [The Rediscovery of 103 Hokusai Lost Sketches (2021)](https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/)
+* [2026-02-16, 16:01:55](https://news.ycombinator.com/item?id=47036680) - [The Essential Economics of Nigeria's Okrika Industry (2023)](https://rpublc.com/august-september-2023/nigerias-okrika-industry/)
 
 ## [Archives](archives/index.md)
 
