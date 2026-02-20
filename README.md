@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-20, 23:19:12](https://news.ycombinator.com/item?id=47095429) - [CERN rebuilt the original browser from 1989](https://worldwideweb.cern.ch)
 * [2026-02-20, 22:50:35](https://news.ycombinator.com/item?id=47095134) - [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling)
 * [2026-02-20, 22:47:58](https://news.ycombinator.com/item?id=47095105) - [A16Z partner says that the theory that we'll vibe code everything is ' wrong'](https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html)
 * [2026-02-20, 22:03:00](https://news.ycombinator.com/item?id=47094637) - [I hate AI side projects](https://dylancastillo.co/posts/ai-side-projects.html)
@@ -25,9 +26,8 @@
 * [2026-02-20, 13:22:32](https://news.ycombinator.com/item?id=47087719) - [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
 * [2026-02-20, 10:32:52](https://news.ycombinator.com/item?id=47086181) - [The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)
 * [2026-02-20, 08:52:17](https://news.ycombinator.com/item?id=47085425) - [Untapped Way to Learn a Codebase: Build a Visualizer](https://jimmyhmiller.com/learn-codebase-visualizer)
-* [2026-02-20, 08:48:05](https://news.ycombinator.com/item?id=47085387) - [Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse](https://learn.pimoroni.com/article/overclocking-the-pico-2)
-* [2026-02-20, 04:15:58](https://news.ycombinator.com/item?id=47083648) - [Consistency diffusion language models: Up to 14x faster, no quality loss](https://www.together.ai/blog/consistency-diffusion-language-models)
 * [2026-02-19, 11:52:49](https://news.ycombinator.com/item?id=47072849) - [The Popper Principle](https://theamericanscholar.org/the-popper-principle/)
+* [2026-02-18, 00:01:40](https://news.ycombinator.com/item?id=47055261) - [The true story behind the Toronto mystery tunnel](https://macleans.ca/society/elton-mcdonald-and-the-incredible-true-story-behind-the-toronto-mystery-tunnel/)
 * [2026-02-17, 07:34:57](https://news.ycombinator.com/item?id=47044700) - [How to Review an AUR Package](https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html)
 * [2026-02-16, 01:08:51](https://news.ycombinator.com/item?id=47029651) - [How were video transfers made? (2011)](https://www.film-tech.com/ubb/f12/t000972.html)
 

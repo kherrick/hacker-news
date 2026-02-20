@@ -77,3 +77,4 @@
 * [2026-02-18, 00:30:41](https://news.ycombinator.com/item?id=47055467) - [Tesla Robotaxis Reportedly Crashing at a Rate That's 4x Higher Than Humans](https://gizmodo.com/tesla-robotaxis-reportedly-crashing-at-a-rate-thats-4x-higher-than-humans-2000722989)
 * [2026-02-18, 00:26:15](https://news.ycombinator.com/item?id=47055424) - [Rathbun's Operator](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html)
 * [2026-02-18, 00:02:06](https://news.ycombinator.com/item?id=47055262) - [Minimal x86 Kernel Zig](https://github.com/lopespm/zig-minimal-kernel-x86)
+* [2026-02-18, 00:01:40](https://news.ycombinator.com/item?id=47055261) - [The true story behind the Toronto mystery tunnel](https://macleans.ca/society/elton-mcdonald-and-the-incredible-true-story-behind-the-toronto-mystery-tunnel/)

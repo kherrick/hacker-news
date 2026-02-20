@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-20](index.md)
 
+* [2026-02-20, 23:19:12](https://news.ycombinator.com/item?id=47095429) - [CERN rebuilt the original browser from 1989](https://worldwideweb.cern.ch)
 * [2026-02-20, 22:50:35](https://news.ycombinator.com/item?id=47095134) - [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling)
 * [2026-02-20, 22:47:58](https://news.ycombinator.com/item?id=47095105) - [A16Z partner says that the theory that we'll vibe code everything is ' wrong'](https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html)
 * [2026-02-20, 22:03:00](https://news.ycombinator.com/item?id=47094637) - [I hate AI side projects](https://dylancastillo.co/posts/ai-side-projects.html)
