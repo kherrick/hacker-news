@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-20](index.md)
 
+* [2026-02-20, 11:38:57](https://news.ycombinator.com/item?id=47086735) - [A Primer on Terrorism, Insurgency and Protest](https://acoup.blog/2026/02/13/collections-against-the-state-a-primer-on-terrorism-insurgency-and-protest/)
+* [2026-02-20, 11:20:02](https://news.ycombinator.com/item?id=47086557) - [Minions – Stripe's Coding Agents Part 2](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2)
 * [2026-02-20, 10:32:52](https://news.ycombinator.com/item?id=47086181) - [The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)
 * [2026-02-20, 10:31:17](https://news.ycombinator.com/item?id=47086170) - [SwiftUI Agent Skill: Build Better Views with AI](https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/)
 * [2026-02-20, 09:02:05](https://news.ycombinator.com/item?id=47085483) - [\"Made in EU\" – Building a Startup on European Infrastructure](https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/)
