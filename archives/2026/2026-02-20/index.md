@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-20](index.md)
 
+* [2026-02-20, 04:27:51](https://news.ycombinator.com/item?id=47083735) - [Mystery donor gives Japanese city $3.6M in gold bars to fix water system](https://www.bbc.com/news/articles/c3ew5jlqz87o)
 * [2026-02-20, 04:15:58](https://news.ycombinator.com/item?id=47083648) - [Consistency diffusion language models: Up to 14x faster, no quality loss](https://www.together.ai/blog/consistency-diffusion-language-models)
 * [2026-02-20, 03:57:55](https://news.ycombinator.com/item?id=47083512) - [Microsoft's new 10k-year data storage medium: glass](https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/)
 * [2026-02-20, 03:05:08](https://news.ycombinator.com/item?id=47083145) - [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)

@@ -75,6 +75,7 @@
 * [2026-02-16, 06:31:48](https://news.ycombinator.com/item?id=47031580) - [I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://mastodon.world/@knowmadd/116072773118828295)
 * [2026-02-16, 05:53:03](https://news.ycombinator.com/item?id=47031334) - [Show HN: Jemini – Gemini for the Epstein Files](https://jmail.world/jemini)
 * [2026-02-16, 05:38:51](https://news.ycombinator.com/item?id=47031268) - [Building SQLite with a small swarm](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html)
+* [2026-02-16, 05:27:35](https://news.ycombinator.com/item?id=47031197) - [Defer Available in GCC and Clang](https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/)
 * [2026-02-16, 03:22:31](https://news.ycombinator.com/item?id=47030509) - [Contra \"Grandmaster-level chess without search\" (2024)](https://cosmo.tardis.ac/files/2024-02-13-searchless.html)
 * [2026-02-16, 02:36:14](https://news.ycombinator.com/item?id=47030271) - [Arm wants a bigger slice of the chip business](https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business)
 * [2026-02-16, 01:54:33](https://news.ycombinator.com/item?id=47029999) - [Old School Telecine, circa 1980s (2017)](https://www.liftgammagain.com/forum/index.php?threads/old-school-telecine-circa-1980s.9984/)
