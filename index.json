@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-20, 11:38:57",
+      "https://news.ycombinator.com/item?id=47086735"
+    ],
+    [
+      "A Primer on Terrorism, Insurgency and Protest",
+      "https://acoup.blog/2026/02/13/collections-against-the-state-a-primer-on-terrorism-insurgency-and-protest/"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 11:20:02",
+      "https://news.ycombinator.com/item?id=47086557"
+    ],
+    [
+      "Minions – Stripe's Coding Agents Part 2",
+      "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 10:32:52",
       "https://news.ycombinator.com/item?id=47086181"
     ],
@@ -77,16 +97,6 @@
     [
       "Fast KV Compaction via Attention Matching",
       "https://arxiv.org/abs/2602.16284"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 04:27:51",
-      "https://news.ycombinator.com/item?id=47083735"
-    ],
-    [
-      "Mystery donor gives Japanese city $3.6M in gold bars to fix water system",
-      "https://www.bbc.com/news/articles/c3ew5jlqz87o"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-02-19, 12:36:00",
-      "https://news.ycombinator.com/item?id=47073112"
-    ],
-    [
-      "Pebble Production: February Update",
-      "https://repebble.com/blog/february-pebble-production-and-software-updates"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 12:13:44",
       "https://news.ycombinator.com/item?id=47072968"
     ],
@@ -227,6 +227,16 @@
     [
       "US plans online portal to bypass content bans in Europe and elsewhere",
       "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 20:30:22",
+      "https://news.ycombinator.com/item?id=47065972"
+    ],
+    [
+      "Notes on Clarifying Man Pages",
+      "https://jvns.ca/blog/2026/02/18/man-pages/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
       "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 14:49:24",
-      "https://news.ycombinator.com/item?id=47035698"
-    ],
-    [
-      "Lindenmayer.jl: Defining recursive patterns in Julia",
-      "https://cormullion.github.io/Lindenmayer.jl/stable/"
     ]
   ],
   [
