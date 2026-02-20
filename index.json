@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-20, 21:22:27",
+      "https://news.ycombinator.com/item?id=47094149"
+    ],
+    [
+      "Show HN: Mines.fyi – all the mines in the US in a leaflet visualization",
+      "https://mines.fyi/"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 20:47:48",
+      "https://news.ycombinator.com/item?id=47093724"
+    ],
+    [
+      "OpenScan",
+      "https://openscan.eu/pages/scan-gallery"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 20:39:06",
+      "https://news.ycombinator.com/item?id=47093604"
+    ],
+    [
+      "Escaping Misconfigured VSCode Extensions (2023)",
+      "https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 19:19:58",
       "https://news.ycombinator.com/item?id=47092578"
     ],
@@ -17,6 +47,16 @@
     [
       "Testing Super Mario Using a Behavior Model Autonomously",
       "https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part1/"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 18:55:15",
+      "https://news.ycombinator.com/item?id=47092203"
+    ],
+    [
+      "Every company building your AI assistant is now an ad company",
+      "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company"
     ]
   ],
   [
@@ -47,6 +87,16 @@
     [
       "Blue light filters don't work – controlling total luminance is a better bet",
       "https://www.neuroai.science/p/blue-light-filters-dont-work"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 18:11:02",
+      "https://news.ycombinator.com/item?id=47091557"
+    ],
+    [
+      "Uncovering insiders and alpha on Polymarket with AI",
+      "https://twitter.com/peterjliu/status/2024901585806225723"
     ]
   ],
   [
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2026-02-20, 16:13:32",
-      "https://news.ycombinator.com/item?id=47089907"
-    ],
-    [
-      "No Skill. No Taste",
-      "https://blog.kinglycrow.com/no-skill-no-taste/"
-    ]
-  ],
-  [
-    [
       "2026-02-20, 15:27:38",
       "https://news.ycombinator.com/item?id=47089213"
     ],
@@ -127,6 +167,16 @@
     [
       "I found a useful Git one liner buried in leaked CIA developer docs",
       "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 14:02:05",
+      "https://news.ycombinator.com/item?id=47088166"
+    ],
+    [
+      "Show HN: A native macOS client for Hacker News, built with SwiftUI",
+      "https://github.com/IronsideXXVI/Hacker-News"
     ]
   ],
   [
@@ -181,26 +231,6 @@
   ],
   [
     [
-      "2026-02-20, 08:45:57",
-      "https://news.ycombinator.com/item?id=47085370"
-    ],
-    [
-      "Web Components: The Framework-Free Renaissance",
-      "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 05:06:40",
-      "https://news.ycombinator.com/item?id=47084000"
-    ],
-    [
-      "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
-      "https://github.com/olvvier/apple-silicon-accelerometer"
-    ]
-  ],
-  [
-    [
       "2026-02-20, 04:15:58",
       "https://news.ycombinator.com/item?id=47083648"
     ],
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2026-02-18, 02:41:54",
-      "https://news.ycombinator.com/item?id=47056516"
-    ],
-    [
-      "Lessons learned from `oapi-codegen`'s time in the GitHub Secure Open Source Fund",
-      "https://www.jvt.me/posts/2026/02/17/oapi-codegen-github-secure/"
-    ]
-  ],
-  [
-    [
       "2026-02-17, 14:58:17",
       "https://news.ycombinator.com/item?id=47048181"
     ],
     [
       "Do you want to build a community where users search or hang? (2021)",
       "https://www.mooreds.com/wordpress/archives/3486"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 12:54:04",
-      "https://news.ycombinator.com/item?id=47046981"
-    ],
-    [
-      "Visible Spectra of the Elements",
-      "https://atomic-spectra.net/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
       "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 00:31:01",
-      "https://news.ycombinator.com/item?id=47029368"
-    ],
-    [
-      "A beginner's guide to split keyboards",
-      "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/"
     ]
   ]
 ]
