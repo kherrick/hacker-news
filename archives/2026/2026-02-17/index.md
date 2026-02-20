@@ -60,6 +60,7 @@
 * [2026-02-17, 12:57:38](https://news.ycombinator.com/item?id=47047010) - [FreeCAD](https://www.freecad.org/index.php)
 * [2026-02-17, 12:54:04](https://news.ycombinator.com/item?id=47046981) - [Visible Spectra of the Elements](https://atomic-spectra.net/)
 * [2026-02-17, 12:06:11](https://news.ycombinator.com/item?id=47046612) - [William Latham – Art and the Computer (1990)](https://www.youtube.com/watch?v=OwL3dsFBxpE)
+* [2026-02-17, 11:47:52](https://news.ycombinator.com/item?id=47046486) - [A chatbot's worst enemy is page refresh](https://zknill.io/posts/chatbots-worst-enemy-is-page-refresh/)
 * [2026-02-17, 10:52:17](https://news.ycombinator.com/item?id=47045982) - [The Rev. Jesse Jackson, pioneering civil rights activist, dies at 84](https://www.cnn.com/2026/02/17/us/reverend-jesse-jackson-death)
 * [2026-02-17, 10:44:53](https://news.ycombinator.com/item?id=47045925) - [Fast Sorting, Branchless by Design](https://00f.net/2026/02/17/sorting-without-leaking-secrets/)
 * [2026-02-17, 10:29:14](https://news.ycombinator.com/item?id=47045804) - [Is Show HN Dead? No, but It's Drowning](https://www.arthurcnops.blog/death-of-show-hn/)
