@@ -63,6 +63,7 @@
 * [2026-02-17, 06:18:34](https://news.ycombinator.com/item?id=47044293) - [SvarDOS – an open-source DOS distribution](http://svardos.org/)
 * [2026-02-17, 05:53:31](https://news.ycombinator.com/item?id=47044179) - [Xbox UI Portfolio Site](https://gabrielcabrera.co/)
 * [2026-02-17, 04:36:58](https://news.ycombinator.com/item?id=47043751) - [Long-term unemployment is becoming 'a status quo' in today's job market](https://www.cnbc.com/2026/02/16/long-term-unemployment-becoming-a-status-quo-in-todays-job-market.html)
+* [2026-02-17, 03:23:16](https://news.ycombinator.com/item?id=47043345) - [Almost Every infrastructure decision I endorse or regret after 4 years](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 * [2026-02-17, 02:49:04](https://news.ycombinator.com/item?id=47043126) - [Why Affordability and the Vibecession Are Real Economic Problems](https://newsletter.mikekonczal.com/p/why-affordability-and-the-vibecession)
 * [2026-02-17, 02:13:37](https://news.ycombinator.com/item?id=47042895) - [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
 * [2026-02-17, 02:05:34](https://news.ycombinator.com/item?id=47042837) - [Facing a demographic catastrophe, Ukraine is paying for troops to freeze sperm](https://www.bbc.com/news/articles/cqxd9549y4xo)

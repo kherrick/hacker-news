@@ -1,10 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-19, 22:38:27](https://news.ycombinator.com/item?id=47080689) - [HUD proposes rule that would force noncitizens from public housing](https://www.washingtonpost.com/national/2026/02/19/hud-public-housing-mixed-status-immigration/03e8908c-0dc4-11f1-8e91-6e1451aab67e_story.html)
 * [2026-02-19, 22:08:24](https://news.ycombinator.com/item?id=47080267) - [Single vaccine could protect against all coughs, colds and flus](https://www.bbc.com/news/articles/cx2g8rz7yedo)
-* [2026-02-19, 21:47:25](https://news.ycombinator.com/item?id=47079969) - [Freedom.gov](https://freedom.gov/)
 * [2026-02-19, 21:30:04](https://news.ycombinator.com/item?id=47079718) - [Show HN: Ghostty-based terminal with vertical tabs and notifications](https://github.com/manaflow-ai/cmux)
-* [2026-02-19, 21:21:27](https://news.ycombinator.com/item?id=47079590) - [A psychedelic medicine performs well against depression](https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression)
 * [2026-02-19, 20:56:23](https://news.ycombinator.com/item?id=47079222) - [We're no longer attracting top talent: the brain drain killing American science](https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts)
 * [2026-02-19, 20:32:09](https://news.ycombinator.com/item?id=47078840) - [Overall, the colorectal cancer story is encouraging](https://www.hankgreen.com/crc)
 * [2026-02-19, 19:55:11](https://news.ycombinator.com/item?id=47078324) - [AI is not a coworker, it's an exoskeleton](https://www.kasava.dev/blog/ai-as-exoskeleton)
@@ -23,13 +20,16 @@
 * [2026-02-19, 12:24:33](https://news.ycombinator.com/item?id=47073044) - [Coding Tricks Used in the C64 Game Seawolves (2025)](https://kodiak64.co.uk/blog/seawolves-technical-tricks)
 * [2026-02-19, 12:13:44](https://news.ycombinator.com/item?id=47072968) - [Paged Out Issue #8 [pdf]](https://pagedout.institute/download/PagedOut_008.pdf)
 * [2026-02-19, 11:54:21](https://news.ycombinator.com/item?id=47072863) - [Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app](https://github.com/fjrevoredo/mini-diarium)
+* [2026-02-19, 11:07:15](https://news.ycombinator.com/item?id=47072539) - [Bridging Elixir and Python with Oban](https://oban.pro/articles/bridging-with-oban)
 * [2026-02-19, 10:55:13](https://news.ycombinator.com/item?id=47072444) - [Show HN: A physically-based GPU ray tracer written in Julia](https://makie.org/website/blogposts/raytracing/)
+* [2026-02-18, 22:25:13](https://news.ycombinator.com/item?id=47067270) - [US plans online portal to bypass content bans in Europe and elsewhere](https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/)
 * [2026-02-17, 16:14:50](https://news.ycombinator.com/item?id=47049121) - [Level of Detail](https://phinze.com/writing/level-of-detail)
+* [2026-02-17, 03:23:16](https://news.ycombinator.com/item?id=47043345) - [Almost Every infrastructure decision I endorse or regret after 4 years](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 * [2026-02-16, 22:35:50](https://news.ycombinator.com/item?id=47041294) - [My 1981 adventure game is now a multimedia extravaganza](https://technologizer.com/home/2026/02/16/arctic-adventure-2026/)
 * [2026-02-16, 18:37:39](https://news.ycombinator.com/item?id=47038491) - [Type-based alias analysis in the Toy Optimizer](https://bernsteinbear.com/blog/toy-tbaa/)
 * [2026-02-16, 17:57:46](https://news.ycombinator.com/item?id=47038032) - [Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails](https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails)
 * [2026-02-16, 17:35:00](https://news.ycombinator.com/item?id=47037781) - [Zero downtime migrations at petabyte scale (2024)](https://planetscale.com/blog/zero-downtime-migrations-at-petabyte-scale)
-* [2026-02-16, 00:31:01](https://news.ycombinator.com/item?id=47029368) - [A Beginner's Guide to Split Keyboards](https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/)
+* [2026-02-15, 20:22:33](https://news.ycombinator.com/item?id=47027171) - [Voith Schneider Propeller](https://en.wikipedia.org/wiki/Voith_Schneider_Propeller)
 
 ## [Archives](archives/index.md)
 
