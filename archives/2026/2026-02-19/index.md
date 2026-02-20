@@ -49,6 +49,7 @@
 * [2026-02-19, 12:06:30](https://news.ycombinator.com/item?id=47072932) - [UK to force social media to remove abusive pics in 48 hours](https://www.theregister.com/2026/02/19/uk_intimate_images_online/)
 * [2026-02-19, 12:06:05](https://news.ycombinator.com/item?id=47072930) - [Show HN: LatentScore – Type a mood, get procedural/ambient music (open source)](https://latentscore.com/demo)
 * [2026-02-19, 11:54:21](https://news.ycombinator.com/item?id=47072863) - [Show HN: An encrypted, local, cross-platform journaling app](https://github.com/fjrevoredo/mini-diarium)
+* [2026-02-19, 11:52:49](https://news.ycombinator.com/item?id=47072849) - [The Popper Principle](https://theamericanscholar.org/the-popper-principle/)
 * [2026-02-19, 11:15:38](https://news.ycombinator.com/item?id=47072603) - [ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory](https://github.com/sstraust/shannonmax)
 * [2026-02-19, 11:07:15](https://news.ycombinator.com/item?id=47072539) - [Bridging Elixir and Python with Oban](https://oban.pro/articles/bridging-with-oban)
 * [2026-02-19, 10:56:25](https://news.ycombinator.com/item?id=47072450) - [I made ChatGPT and Google tell I'm a competitive hot-dog-eating world champion](https://bsky.app/profile/thomasgermain.bsky.social/post/3mf5jbn5lqk2k)
