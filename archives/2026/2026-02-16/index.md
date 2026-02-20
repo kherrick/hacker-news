@@ -17,6 +17,7 @@
 * [2026-02-16, 20:52:11](https://news.ycombinator.com/item?id=47040176) - [Show HN: Provisioner per-board sidecar for serial access, flashing, and bring-up](https://news.ycombinator.com/item?id=47040176)
 * [2026-02-16, 20:34:27](https://news.ycombinator.com/item?id=47039966) - [Suicide Linux (2009)](https://qntm.org/suicide)
 * [2026-02-16, 20:23:36](https://news.ycombinator.com/item?id=47039834) - [Testing Postgres race conditions with synchronization barriers](https://www.lirbank.com/harnessing-postgres-race-conditions)
+* [2026-02-16, 19:57:23](https://news.ycombinator.com/item?id=47039504) - [Debugging Kernel Oops (2024)](https://lfhernandez.com/posts/debugging-kernel-oops/)
 * [2026-02-16, 19:55:23](https://news.ycombinator.com/item?id=47039478) - [State of Show HN: 2025](https://blog.sturdystatistics.com/posts/show_hn/)
 * [2026-02-16, 19:52:30](https://news.ycombinator.com/item?id=47039440) - [Fff.nvim – Typo-resistant code search](https://github.com/dmtrKovalenko/fff.nvim)
 * [2026-02-16, 19:20:37](https://news.ycombinator.com/item?id=47039073) - [Docker Swarm vs. Kubernetes in 2026](https://thedecipherist.com/articles/docker_swarm_vs_kubernetes/)
