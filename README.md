@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-20, 11:38:57](https://news.ycombinator.com/item?id=47086735) - [A Primer on Terrorism, Insurgency and Protest](https://acoup.blog/2026/02/13/collections-against-the-state-a-primer-on-terrorism-insurgency-and-protest/)
+* [2026-02-20, 12:04:35](https://news.ycombinator.com/item?id=47086980) - [Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment](https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323)
+* [2026-02-20, 12:01:14](https://news.ycombinator.com/item?id=47086946) - [Hyperbound (YC S23, Series A) needs a Engineer with something to prove](https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove)
 * [2026-02-20, 11:20:02](https://news.ycombinator.com/item?id=47086557) - [Minions – Stripe's Coding Agents Part 2](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2)
 * [2026-02-20, 10:32:52](https://news.ycombinator.com/item?id=47086181) - [The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)
 * [2026-02-20, 10:31:17](https://news.ycombinator.com/item?id=47086170) - [SwiftUI Agent Skill: Build Better Views with AI](https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/)
@@ -14,7 +15,6 @@
 * [2026-02-20, 03:05:08](https://news.ycombinator.com/item?id=47083145) - [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 * [2026-02-20, 02:20:06](https://news.ycombinator.com/item?id=47082854) - [Pi for Excel: AI sidebar add-in for Excel](https://github.com/tmustier/pi-for-excel)
 * [2026-02-20, 01:33:36](https://news.ycombinator.com/item?id=47082548) - [An ARM Homelab Server, or a Minisforum MS-R1 Review](https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/)
-* [2026-02-19, 21:30:04](https://news.ycombinator.com/item?id=47079718) - [Show HN: Ghostty-based terminal with vertical tabs and notifications](https://github.com/manaflow-ai/cmux)
 * [2026-02-19, 19:55:11](https://news.ycombinator.com/item?id=47078324) - [AI is not a coworker, it's an exoskeleton](https://www.kasava.dev/blog/ai-as-exoskeleton)
 * [2026-02-19, 19:42:31](https://news.ycombinator.com/item?id=47078167) - [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)
 * [2026-02-19, 17:47:25](https://news.ycombinator.com/item?id=47076659) - [A terminal weather app with ASCII animations driven by real-time weather data](https://github.com/Veirt/weathr)
@@ -26,8 +26,8 @@
 * [2026-02-18, 20:30:22](https://news.ycombinator.com/item?id=47065972) - [Notes on Clarifying Man Pages](https://jvns.ca/blog/2026/02/18/man-pages/)
 * [2026-02-18, 07:35:12](https://news.ycombinator.com/item?id=47058308) - [Spell Checking a Year's Worth of Hacker News](https://fi-le.net/spell/)
 * [2026-02-17, 12:57:38](https://news.ycombinator.com/item?id=47047010) - [FreeCAD](https://www.freecad.org/index.php)
+* [2026-02-17, 10:44:53](https://news.ycombinator.com/item?id=47045925) - [Fast Sorting, Branchless by Design](https://00f.net/2026/02/17/sorting-without-leaking-secrets/)
 * [2026-02-17, 03:23:16](https://news.ycombinator.com/item?id=47043345) - [Infrastructure decisions I endorse or regret after 4 years at a startup (2024)](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
-* [2026-02-16, 14:07:26](https://news.ycombinator.com/item?id=47035112) - [Show HN: Write native binary web apps with TypeScript and Express](https://github.com/tsoniclang/express)
 * [2026-02-16, 05:27:35](https://news.ycombinator.com/item?id=47031197) - [Defer available in gcc and clang](https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/)
 * [2026-02-16, 00:31:01](https://news.ycombinator.com/item?id=47029368) - [A beginner's guide to split keyboards](https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/)
 

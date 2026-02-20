@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-20](index.md)
 
+* [2026-02-20, 12:04:35](https://news.ycombinator.com/item?id=47086980) - [Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment](https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323)
+* [2026-02-20, 12:01:14](https://news.ycombinator.com/item?id=47086946) - [Hyperbound (YC S23, Series A) needs a Engineer with something to prove](https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove)
 * [2026-02-20, 11:38:57](https://news.ycombinator.com/item?id=47086735) - [A Primer on Terrorism, Insurgency and Protest](https://acoup.blog/2026/02/13/collections-against-the-state-a-primer-on-terrorism-insurgency-and-protest/)
 * [2026-02-20, 11:20:02](https://news.ycombinator.com/item?id=47086557) - [Minions – Stripe's Coding Agents Part 2](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2)
 * [2026-02-20, 10:32:52](https://news.ycombinator.com/item?id=47086181) - [The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)
