@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-20, 09:02:05](https://news.ycombinator.com/item?id=47085483) - [\"Made in EU\" – Building a Startup on European Infrastructure](https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/)
+* [2026-02-20, 09:02:05](https://news.ycombinator.com/item?id=47085483) - [I tried building my startup entirely on European infrastructure](https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/)
 * [2026-02-20, 05:06:40](https://news.ycombinator.com/item?id=47084000) - [Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit](https://github.com/olvvier/apple-silicon-accelerometer)
 * [2026-02-20, 04:46:37](https://news.ycombinator.com/item?id=47083882) - [Fast KV Compaction via Attention Matching](https://arxiv.org/abs/2602.16284)
 * [2026-02-20, 04:27:51](https://news.ycombinator.com/item?id=47083735) - [Mystery donor gives Japanese city $3.6M in gold bars to fix water system](https://www.bbc.com/news/articles/c3ew5jlqz87o)
@@ -14,7 +14,6 @@
 * [2026-02-19, 20:56:23](https://news.ycombinator.com/item?id=47079222) - [We're no longer attracting top talent: the brain drain killing American science](https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts)
 * [2026-02-19, 19:55:11](https://news.ycombinator.com/item?id=47078324) - [AI is not a coworker, it's an exoskeleton](https://www.kasava.dev/blog/ai-as-exoskeleton)
 * [2026-02-19, 19:42:31](https://news.ycombinator.com/item?id=47078167) - [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)
-* [2026-02-19, 18:31:50](https://news.ycombinator.com/item?id=47077245) - [Archaeologists find possible first direct evidence of Hannibal's war elephants](https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/)
 * [2026-02-19, 17:47:25](https://news.ycombinator.com/item?id=47076659) - [A terminal weather app with ASCII animations driven by real-time weather data](https://github.com/Veirt/weathr)
 * [2026-02-19, 15:54:14](https://news.ycombinator.com/item?id=47075124) - [Show HN: Micasa – track your house from the terminal](https://micasa.dev)
 * [2026-02-19, 15:19:57](https://news.ycombinator.com/item?id=47074735) - [Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
@@ -28,6 +27,7 @@
 * [2026-02-17, 03:23:16](https://news.ycombinator.com/item?id=47043345) - [Infrastructure decisions I endorse or regret after 4 years at a startup (2024)](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 * [2026-02-16, 22:35:50](https://news.ycombinator.com/item?id=47041294) - [My 1981 adventure game is now a multimedia extravaganza](https://technologizer.com/home/2026/02/16/arctic-adventure-2026/)
 * [2026-02-16, 14:49:24](https://news.ycombinator.com/item?id=47035698) - [Lindenmayer.jl: Defining recursive patterns in Julia](https://cormullion.github.io/Lindenmayer.jl/stable/)
+* [2026-02-16, 14:07:26](https://news.ycombinator.com/item?id=47035112) - [Show HN: Write native binary web apps with TypeScript and Express](https://github.com/tsoniclang/express)
 * [2026-02-16, 05:27:35](https://news.ycombinator.com/item?id=47031197) - [Defer available in gcc and clang](https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/)
 * [2026-02-16, 00:31:01](https://news.ycombinator.com/item?id=47029368) - [A beginner's guide to split keyboards](https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/)
 
