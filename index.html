@@ -129,24 +129,245 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="47087143">
+        <section id="47088181">
           <h3>
             <a
               class="item"
-              href="https://medicalxpress.com/news/2026-01-similar-effect-therapy-depression.html"
-              >Exercise has 'similar effect' to therapy, study on depression
-              shows</a
+              href="https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html"
+              >I found a useful Git one liner buried in leaked CIA developer
+              docs</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-20 @ 12:24:02</span
+              <span>2026-02-20 @ 14:03:06</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47087143"
+                ><a href="https://news.ycombinator.com/item?id=47088181"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 47</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47088166">
+          <h3>
+            <a class="item" href="https://github.com/IronsideXXVI/Hacker-News"
+              >Show HN: A native macOS client for Hacker News, built with
+              SwiftUI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-20 @ 14:02:05</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47088166"
+                  >Comments</a
+                ><span class="descendants">: 25</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                GitHub:
+                <a href="https://github.com/IronsideXXVI/Hacker-News"
+                  >https://github.com/IronsideXXVI/Hacker-News</a
+                >
+              </p>
+              <p>
+                Download (signed &amp; notarized DMG, macOS 14.0+):
+                <a href="https://github.com/IronsideXXVI/Hacker-News/releases"
+                  >https://github.com/IronsideXXVI/Hacker-News/releases</a
+                >
+              </p>
+              <p>
+                Screenshots:
+                <a
+                  href="https://github.com/IronsideXXVI/Hacker-News#screenshots"
+                  >https://github.com/IronsideXXVI/Hacker-News#screenshots</a
+                >
+              </p>
+              <p>
+                I spend a lot of time reading HN — I wanted something that felt
+                like a proper Mac app: a sidebar for browsing stories, an
+                integrated reader for articles, and comment threading — all in
+                one window. Essentially, I wanted HN to feel like a first-class
+                citizen on macOS, not a website I visit.
+              </p>
+              <p>What it does:</p>
+              <p>
+                - Split-view layout — stories in a sidebar on the left, articles
+                and comments on the right, using the standard macOS
+                NavigationSplitView pattern.
+              </p>
+              <p>
+                - Built-in ad blocking — a precompiled WKContentRuleList blocks
+                14 major ad networks (DoubleClick, Google Syndication, Criteo,
+                Taboola, Outbrain, Amazon ads, etc.) right in the WebKit layer.
+                No extensions needed. Toggleable in settings.
+              </p>
+              <p>
+                - Pop-up blocking — kills window.open() calls. Also toggleable.
+              </p>
+              <p>
+                - HN account login — full authentication flow (login, account
+                creation, password reset). Session is stored in the macOS
+                Keychain, and cookies are injected into the WebView so you can
+                upvote, comment, and submit stories while staying logged in.
+              </p>
+              <p>
+                - Bookmarks — save stories locally for offline access. Persisted
+                with Codable serialization, searchable and filterable
+                independently.
+              </p>
+              <p>
+                - Search and filtering — powered by the Algolia HN API. Filter
+                by content type (All, Ask, Show, Jobs, Comments), date range
+                (Today, Past Week, Past Month, All Time), and sort by hot or
+                recent.
+              </p>
+              <p>
+                - Scroll progress indicator — a small orange bar at the top
+                tracks your reading progress via JavaScript-to-native messaging.
+              </p>
+              <p>
+                - Auto-updates via Sparkle with EdDSA-signed updates served from
+                GitHub Pages.
+              </p>
+              <p>
+                - Dark mode — respects system appearance with CSS and meta tag
+                injection.
+              </p>
+              <p>Tech details for the curious:</p>
+              <p>
+                The whole app is ~2,050 lines of Swift across 16 files. It uses
+                the modern @Observable macro (not the old
+                ObservableObject/Published pattern), structured concurrency with
+                async/await and withThrowingTaskGroup for concurrent batch
+                fetching, and SwiftUI throughout — no UIKit/AppKit bridges
+                except for the WKWebView wrapper via NSViewRepresentable.
+              </p>
+              <p>
+                Two APIs power the data: the official HN Firebase API for
+                individual item/user fetches, and the Algolia Search API for
+                feeds, filtering, and search. The Algolia API is surprisingly
+                powerful for this — it lets you do date-range filtering,
+                pagination, and full-text search that the Firebase API doesn't
+                support.
+              </p>
+              <p>CI/CD:</p>
+              <p>
+                The release pipeline is a single GitHub Actions workflow (467
+                lines) that handles the full macOS distribution story: build and
+                archive, code sign with Developer ID, notarize with Apple (with
+                a 5-retry staple loop for ticket propagation delays), create a
+                custom DMG with AppleScript-driven icon positioning, sign and
+                notarize the DMG, generate an EdDSA Sparkle signature, create a
+                GitHub Release, and deploy an updated appcast.xml to GitHub
+                Pages.
+              </p>
+              <p>
+                Getting macOS code signing and notarization working in CI was
+                honestly the hardest part of this project. If anyone is
+                distributing a macOS app outside the App Store via GitHub
+                Actions, I'm happy to answer questions — the workflow is fully
+                open source.
+              </p>
+              <p>
+                The entire project is MIT licensed. PRs and issues welcome:
+                <a href="https://github.com/IronsideXXVI/Hacker-News"
+                  >https://github.com/IronsideXXVI/Hacker-News</a
+                >
+              </p>
+              <p>
+                I'd love feedback — especially on features you'd want to see.
+                Some ideas I'm considering: keyboard-driven navigation (j/k to
+                move between stories), a reader mode that strips articles down
+                to text, and notification support for replies to your comments.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47088037">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/ggml-org/llama.cpp/discussions/19759"
+              >Ggml.ai joins Hugging Face to ensure the long-term progress of
+              Local AI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-20 @ 13:51:04</span
+              ><span class="points-container"
+                >Points: <span class="points">148</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47088037"
+                  >Comments</a
+                ><span class="descendants">: 29</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47087954">
+          <h3>
+            <a
+              class="item"
+              href="https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q"
+              >Mothers (YC X26) Is Hiring</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-20 @ 13:44:42</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47087719">
+          <h3>
+            <a
+              class="item"
+              href="https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/"
+              >PayPal discloses data breach that exposed user info for 6
+              months</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-20 @ 13:22:32</span
+              ><span class="points-container"
+                >Points: <span class="points">57</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47087719"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47087687">
+          <h3>
+            <a
+              class="item"
+              href="https://www.joanwestenberg.com/how-to-stop-being-boring/"
+              >How to Stop Being Boring</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-20 @ 13:19:34</span
+              ><span class="points-container"
+                >Points: <span class="points">51</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47087687"
+                  >Comments</a
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -164,29 +385,11 @@
             <h4>
               <span>2026-02-20 @ 12:04:35</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47086980"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47086946">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove"
-              >Hyperbound (YC S23, Series A) needs a Engineer with something to
-              prove</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-20 @ 12:01:14</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
+                ><span class="descendants">: 154</span></span
               >
             </h4>
           </section>
@@ -203,11 +406,11 @@
             <h4>
               <span>2026-02-20 @ 11:20:02</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47086557"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -225,11 +428,11 @@
             <h4>
               <span>2026-02-20 @ 10:50:58</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47086319"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -244,11 +447,11 @@
             <h4>
               <span>2026-02-20 @ 10:32:52</span
               ><span class="points-container"
-                >Points: <span class="points">356</span></span
+                >Points: <span class="points">382</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47086181"
                   >Comments</a
-                ><span class="descendants">: 240</span></span
+                ><span class="descendants">: 254</span></span
               >
             </h4>
           </section>
@@ -266,11 +469,11 @@
             <h4>
               <span>2026-02-20 @ 09:02:05</span
               ><span class="points-container"
-                >Points: <span class="points">490</span></span
+                >Points: <span class="points">517</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47085483"
                   >Comments</a
-                ><span class="descendants">: 253</span></span
+                ><span class="descendants">: 275</span></span
               >
             </h4>
           </section>
@@ -287,11 +490,11 @@
             <h4>
               <span>2026-02-20 @ 08:52:17</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47085425"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -308,11 +511,11 @@
             <h4>
               <span>2026-02-20 @ 08:48:05</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47085387"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -329,11 +532,11 @@
             <h4>
               <span>2026-02-20 @ 08:45:57</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47085370"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -351,11 +554,11 @@
             <h4>
               <span>2026-02-20 @ 05:06:40</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47084000"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -370,11 +573,11 @@
             <h4>
               <span>2026-02-20 @ 04:46:37</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47083882"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -392,33 +595,11 @@
             <h4>
               <span>2026-02-20 @ 04:15:58</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47083648"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47083145">
-          <h3>
-            <a
-              class="item"
-              href="https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/"
-              >An AI Agent Published a Hit Piece on Me – The Operator Came
-              Forward</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-20 @ 03:05:08</span
-              ><span class="points-container"
-                >Points: <span class="points">459</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47083145"
-                  >Comments</a
-                ><span class="descendants">: 388</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -433,7 +614,7 @@
             <h4>
               <span>2026-02-20 @ 02:20:06</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47082854"
                   >Comments</a
@@ -454,11 +635,11 @@
             <h4>
               <span>2026-02-20 @ 01:33:36</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47082548"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -473,52 +654,11 @@
             <h4>
               <span>2026-02-19 @ 19:55:11</span
               ><span class="points-container"
-                >Points: <span class="points">352</span></span
+                >Points: <span class="points">361</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47078324"
                   >Comments</a
-                ><span class="descendants">: 385</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47078167">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/"
-              >Micropayments as a reality check for news sites</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-19 @ 19:42:31</span
-              ><span class="points-container"
-                >Points: <span class="points">178</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47078167"
-                  >Comments</a
-                ><span class="descendants">: 354</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47076659">
-          <h3>
-            <a class="item" href="https://github.com/Veirt/weathr"
-              >A terminal weather app with ASCII animations driven by real-time
-              weather data</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-19 @ 17:47:25</span
-              ><span class="points-container"
-                >Points: <span class="points">234</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47076659"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 392</span></span
               >
             </h4>
           </section>
@@ -533,11 +673,11 @@
             <h4>
               <span>2026-02-19 @ 15:54:14</span
               ><span class="points-container"
-                >Points: <span class="points">587</span></span
+                >Points: <span class="points">591</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47075124"
                   >Comments</a
-                ><span class="descendants">: 189</span></span
+                ><span class="descendants">: 190</span></span
               >
             </h4>
             <div class="text">
@@ -598,11 +738,11 @@
             <h4>
               <span>2026-02-19 @ 15:19:57</span
               ><span class="points-container"
-                >Points: <span class="points">842</span></span
+                >Points: <span class="points">856</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47074735"
                   >Comments</a
-                ><span class="descendants">: 852</span></span
+                ><span class="descendants">: 853</span></span
               >
             </h4>
             <div class="text">
@@ -633,32 +773,11 @@
             <h4>
               <span>2026-02-19 @ 14:52:18</span
               ><span class="points-container"
-                >Points: <span class="points">294</span></span
+                >Points: <span class="points">297</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47074389"
                   >Comments</a
                 ><span class="descendants">: 434</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47072968">
-          <h3>
-            <a
-              class="item"
-              href="https://pagedout.institute/download/PagedOut_008.pdf"
-              >Paged Out Issue #8 [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-19 @ 12:13:44</span
-              ><span class="points-container"
-                >Points: <span class="points">409</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47072968"
-                  >Comments</a
-                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -676,11 +795,11 @@
             <h4>
               <span>2026-02-18 @ 22:25:13</span
               ><span class="points-container"
-                >Points: <span class="points">386</span></span
+                >Points: <span class="points">391</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47067270"
                   >Comments</a
-                ><span class="descendants">: 710</span></span
+                ><span class="descendants">: 730</span></span
               >
             </h4>
             <div class="text">
@@ -698,11 +817,11 @@
             <h4>
               <span>2026-02-18 @ 20:30:22</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47065972"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -715,11 +834,11 @@
             <h4>
               <span>2026-02-17 @ 12:57:38</span
               ><span class="points-container"
-                >Points: <span class="points">268</span></span
+                >Points: <span class="points">276</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47047010"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 106</span></span
               >
             </h4>
           </section>
@@ -737,11 +856,11 @@
             <h4>
               <span>2026-02-17 @ 03:23:16</span
               ><span class="points-container"
-                >Points: <span class="points">334</span></span
+                >Points: <span class="points">357</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47043345"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 152</span></span
               >
             </h4>
           </section>
@@ -758,11 +877,11 @@
             <h4>
               <span>2026-02-16 @ 05:27:35</span
               ><span class="points-container"
-                >Points: <span class="points">221</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47031197"
                   >Comments</a
-                ><span class="descendants">: 170</span></span
+                ><span class="descendants">: 180</span></span
               >
             </h4>
           </section>
@@ -779,11 +898,11 @@
             <h4>
               <span>2026-02-16 @ 02:58:55</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47030387"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -800,11 +919,11 @@
             <h4>
               <span>2026-02-16 @ 00:31:01</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">191</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47029368"
                   >Comments</a
-                ><span class="descendants">: 192</span></span
+                ><span class="descendants">: 195</span></span
               >
             </h4>
           </section>
