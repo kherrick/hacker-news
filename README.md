@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-20, 22:02:58](https://news.ycombinator.com/item?id=47094635) - [FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance](https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/)
+* [2026-02-20, 22:50:35](https://news.ycombinator.com/item?id=47095134) - [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling)
+* [2026-02-20, 22:47:58](https://news.ycombinator.com/item?id=47095105) - [A16Z partner says that the theory that we'll vibe code everything is ' wrong'](https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html)
+* [2026-02-20, 22:03:00](https://news.ycombinator.com/item?id=47094637) - [I hate AI side projects](https://dylancastillo.co/posts/ai-side-projects.html)
 * [2026-02-20, 21:25:41](https://news.ycombinator.com/item?id=47094192) - [Turn Dependabot Off](https://words.filippo.io/dependabot/)
 * [2026-02-20, 21:22:27](https://news.ycombinator.com/item?id=47094149) - [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/)
 * [2026-02-20, 21:05:44](https://news.ycombinator.com/item?id=47093953) - [Phil Spencer is exiting Microsoft as AI executive takes over Xbox](https://www.neowin.net/news/phil-spencer-is-exiting-microsoft-as-ai-executive-takes-over-xbox/)
@@ -24,11 +26,9 @@
 * [2026-02-20, 10:32:52](https://news.ycombinator.com/item?id=47086181) - [The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)
 * [2026-02-20, 08:52:17](https://news.ycombinator.com/item?id=47085425) - [Untapped Way to Learn a Codebase: Build a Visualizer](https://jimmyhmiller.com/learn-codebase-visualizer)
 * [2026-02-20, 08:48:05](https://news.ycombinator.com/item?id=47085387) - [Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse](https://learn.pimoroni.com/article/overclocking-the-pico-2)
-* [2026-02-19, 19:55:11](https://news.ycombinator.com/item?id=47078324) - [AI is not a coworker, it's an exoskeleton](https://www.kasava.dev/blog/ai-as-exoskeleton)
+* [2026-02-20, 04:15:58](https://news.ycombinator.com/item?id=47083648) - [Consistency diffusion language models: Up to 14x faster, no quality loss](https://www.together.ai/blog/consistency-diffusion-language-models)
 * [2026-02-19, 11:52:49](https://news.ycombinator.com/item?id=47072849) - [The Popper Principle](https://theamericanscholar.org/the-popper-principle/)
-* [2026-02-17, 11:47:52](https://news.ycombinator.com/item?id=47046486) - [A chatbot's worst enemy is page refresh](https://zknill.io/posts/chatbots-worst-enemy-is-page-refresh/)
 * [2026-02-17, 07:34:57](https://news.ycombinator.com/item?id=47044700) - [How to Review an AUR Package](https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html)
-* [2026-02-17, 03:23:16](https://news.ycombinator.com/item?id=47043345) - [Infrastructure decisions I endorse or regret after 4 years at a startup (2024)](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 * [2026-02-16, 01:08:51](https://news.ycombinator.com/item?id=47029651) - [How were video transfers made? (2011)](https://www.film-tech.com/ubb/f12/t000972.html)
 
 ## [Archives](archives/index.md)
