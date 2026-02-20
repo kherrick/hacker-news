@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-02-19, 22:08:24",
-      "https://news.ycombinator.com/item?id=47080267"
+      "2026-02-20, 03:05:08",
+      "https://news.ycombinator.com/item?id=47083145"
     ],
     [
-      "Single vaccine could protect against all coughs, colds and flus",
-      "https://www.bbc.com/news/articles/cx2g8rz7yedo"
+      "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+      "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 02:20:06",
+      "https://news.ycombinator.com/item?id=47082854"
+    ],
+    [
+      "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
+      "https://github.com/tmustier/pi-for-excel"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 01:33:36",
+      "https://news.ycombinator.com/item?id=47082548"
+    ],
+    [
+      "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+      "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 01:28:47",
+      "https://news.ycombinator.com/item?id=47082496"
+    ],
+    [
+      "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+      "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 22:54:28",
+      "https://news.ycombinator.com/item?id=47080873"
+    ],
+    [
+      "Show HN: A small, simple music theory library in C99",
+      "https://github.com/thelowsunoverthemoon/mahler.c"
     ]
   ],
   [
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2026-02-19, 18:42:51",
-      "https://news.ycombinator.com/item?id=47077383"
-    ],
-    [
-      "Farewell, Rust for web",
-      "https://yieldcode.blog/post/farewell-rust/"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 18:31:50",
       "https://news.ycombinator.com/item?id=47077245"
     ],
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2026-02-19, 18:12:16",
-      "https://news.ycombinator.com/item?id=47076966"
-    ],
-    [
-      "AI makes you boring",
-      "https://www.marginalia.nu/log/a_132_ai_bores/"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 17:47:25",
       "https://news.ycombinator.com/item?id=47076659"
     ],
     [
       "A terminal weather app with ASCII animations driven by real-time weather data",
       "https://github.com/Veirt/weathr"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 16:07:14",
-      "https://news.ycombinator.com/item?id=47075245"
-    ],
-    [
-      "Mark Zuckerberg grilled on usage goals and underage users at California trial",
-      "https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-02-19, 12:24:33",
-      "https://news.ycombinator.com/item?id=47073044"
-    ],
-    [
-      "Coding Tricks Used in the C64 Game Seawolves (2025)",
-      "https://kodiak64.co.uk/blog/seawolves-technical-tricks"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 12:13:44",
       "https://news.ycombinator.com/item?id=47072968"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-02-19, 11:07:15",
-      "https://news.ycombinator.com/item?id=47072539"
-    ],
-    [
-      "Bridging Elixir and Python with Oban",
-      "https://oban.pro/articles/bridging-with-oban"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 10:55:13",
       "https://news.ycombinator.com/item?id=47072444"
     ],
@@ -227,16 +217,6 @@
     [
       "US plans online portal to bypass content bans in Europe and elsewhere",
       "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 16:14:50",
-      "https://news.ycombinator.com/item?id=47049121"
-    ],
-    [
-      "Level of Detail",
-      "https://phinze.com/writing/level-of-detail"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
-      "2026-02-15, 20:22:33",
-      "https://news.ycombinator.com/item?id=47027171"
+      "2026-02-16, 14:49:24",
+      "https://news.ycombinator.com/item?id=47035698"
     ],
     [
-      "Voith Schneider Propeller",
-      "https://en.wikipedia.org/wiki/Voith_Schneider_Propeller"
+      "Lindenmayer.jl: Defining recursive patterns in Julia",
+      "https://cormullion.github.io/Lindenmayer.jl/stable/"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 13:16:39",
+      "https://news.ycombinator.com/item?id=47034593"
+    ],
+    [
+      "The Chinese periodic table goes hard [video]",
+      "https://www.youtube.com/watch?v=8ol7DsPnHcE"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 00:31:01",
+      "https://news.ycombinator.com/item?id=47029368"
+    ],
+    [
+      "A beginner's guide to split keyboards",
+      "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/"
     ]
   ]
 ]
