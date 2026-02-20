@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-02-20, 10:31:17",
+      "https://news.ycombinator.com/item?id=47086170"
+    ],
+    [
+      "SwiftUI Agent Skill: Build Better Views with AI",
+      "https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 09:02:05",
       "https://news.ycombinator.com/item?id=47085483"
     ],
     [
       "I tried building my startup entirely on European infrastructure",
       "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 08:52:17",
+      "https://news.ycombinator.com/item?id=47085425"
+    ],
+    [
+      "Untapped Way to Learn a Codebase: Build a Visualizer",
+      "https://jimmyhmiller.com/learn-codebase-visualizer"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 08:48:05",
+      "https://news.ycombinator.com/item?id=47085387"
+    ],
+    [
+      "Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse",
+      "https://learn.pimoroni.com/article/overclocking-the-pico-2"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 08:45:57",
+      "https://news.ycombinator.com/item?id=47085370"
+    ],
+    [
+      "Web Components: The Framework-Free Renaissance",
+      "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html"
     ]
   ],
   [
@@ -81,42 +121,12 @@
   ],
   [
     [
-      "2026-02-20, 01:28:47",
-      "https://news.ycombinator.com/item?id=47082496"
-    ],
-    [
-      "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
-      "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 22:54:28",
-      "https://news.ycombinator.com/item?id=47080873"
-    ],
-    [
-      "Show HN: A small, simple music theory library in C99",
-      "https://github.com/thelowsunoverthemoon/mahler.c"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 21:30:04",
       "https://news.ycombinator.com/item?id=47079718"
     ],
     [
       "Show HN: Ghostty-based terminal with vertical tabs and notifications",
       "https://github.com/manaflow-ai/cmux"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 20:56:23",
-      "https://news.ycombinator.com/item?id=47079222"
-    ],
-    [
-      "We're no longer attracting top talent: the brain drain killing American science",
-      "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts"
     ]
   ],
   [
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2026-02-18, 07:42:05",
-      "https://news.ycombinator.com/item?id=47058350"
+      "2026-02-18, 07:35:12",
+      "https://news.ycombinator.com/item?id=47058308"
     ],
     [
-      "A Famous Enigma: On Alexandre Kojève",
-      "https://clereviewofbooks.com/isabel-jacobs-boris-groys-marco-filoni/"
+      "Spell Checking a Year's Worth of Hacker News",
+      "https://fi-le.net/spell/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
       "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 22:35:50",
-      "https://news.ycombinator.com/item?id=47041294"
-    ],
-    [
-      "My 1981 adventure game is now a multimedia extravaganza",
-      "https://technologizer.com/home/2026/02/16/arctic-adventure-2026/"
     ]
   ],
   [
