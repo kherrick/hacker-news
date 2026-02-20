@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-20](index.md)
 
+* [2026-02-20, 10:32:52](https://news.ycombinator.com/item?id=47086181) - [The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)
 * [2026-02-20, 10:31:17](https://news.ycombinator.com/item?id=47086170) - [SwiftUI Agent Skill: Build Better Views with AI](https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/)
 * [2026-02-20, 09:02:05](https://news.ycombinator.com/item?id=47085483) - [\"Made in EU\" – Building a Startup on European Infrastructure](https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/)
 * [2026-02-20, 08:52:17](https://news.ycombinator.com/item?id=47085425) - [Untapped Way to Learn a Codebase: Build a Visualizer](https://jimmyhmiller.com/learn-codebase-visualizer)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-20, 10:32:52](https://news.ycombinator.com/item?id=47086181) - [The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)
 * [2026-02-20, 10:31:17](https://news.ycombinator.com/item?id=47086170) - [SwiftUI Agent Skill: Build Better Views with AI](https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/)
 * [2026-02-20, 09:02:05](https://news.ycombinator.com/item?id=47085483) - [I tried building my startup entirely on European infrastructure](https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/)
 * [2026-02-20, 08:52:17](https://news.ycombinator.com/item?id=47085425) - [Untapped Way to Learn a Codebase: Build a Visualizer](https://jimmyhmiller.com/learn-codebase-visualizer)
@@ -24,7 +25,6 @@
 * [2026-02-18, 22:25:13](https://news.ycombinator.com/item?id=47067270) - [US plans online portal to bypass content bans in Europe and elsewhere](https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/)
 * [2026-02-18, 07:35:12](https://news.ycombinator.com/item?id=47058308) - [Spell Checking a Year's Worth of Hacker News](https://fi-le.net/spell/)
 * [2026-02-17, 12:57:38](https://news.ycombinator.com/item?id=47047010) - [FreeCAD](https://www.freecad.org/index.php)
-* [2026-02-17, 12:06:11](https://news.ycombinator.com/item?id=47046612) - [William Latham – Art and the Computer (1990) [video]](https://www.youtube.com/watch?v=OwL3dsFBxpE)
 * [2026-02-17, 03:23:16](https://news.ycombinator.com/item?id=47043345) - [Infrastructure decisions I endorse or regret after 4 years at a startup (2024)](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 * [2026-02-16, 14:49:24](https://news.ycombinator.com/item?id=47035698) - [Lindenmayer.jl: Defining recursive patterns in Julia](https://cormullion.github.io/Lindenmayer.jl/stable/)
 * [2026-02-16, 14:07:26](https://news.ycombinator.com/item?id=47035112) - [Show HN: Write native binary web apps with TypeScript and Express](https://github.com/tsoniclang/express)
