@@ -54,6 +54,7 @@
 * [2026-02-17, 14:58:17](https://news.ycombinator.com/item?id=47048181) - [Do you want to build a community where users search or hang? (2021)](https://www.mooreds.com/wordpress/archives/3486)
 * [2026-02-17, 14:47:26](https://news.ycombinator.com/item?id=47048052) - [Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway](https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/)
 * [2026-02-17, 14:43:14](https://news.ycombinator.com/item?id=47048004) - [I converted 2D conventional flight tracking into 3D](https://aeris.edbn.me/?city=SFO)
+* [2026-02-17, 14:36:19](https://news.ycombinator.com/item?id=47047936) - [The Evolution of x86 SIMD: From SSE to AVX-512](https://bgslabs.org/blog/evolution-of-x86-simd/)
 * [2026-02-17, 14:00:56](https://news.ycombinator.com/item?id=47047559) - [Show HN: PIrateRF – Turn a $20 Raspberry Pi Zero into a 12-mode RF transmitter](https://github.com/psyb0t/piraterf)
 * [2026-02-17, 13:57:19](https://news.ycombinator.com/item?id=47047526) - [Why I'm Worried About Job Loss and Thoughts on Comparative Advantage](https://www.lesswrong.com/posts/YPJHkciv6ysgsSiJC/why-i-m-worried-about-job-loss-thoughts-on-comparative)
 * [2026-02-17, 13:47:56](https://news.ycombinator.com/item?id=47047443) - [Undo in Vi and Its Successors](https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews)

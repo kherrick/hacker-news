@@ -1,13 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-21, 06:01:29](https://news.ycombinator.com/item?id=47097904) - [Colorado moves age checks from websites to operating systems](https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems)
-* [2026-02-21, 04:39:20](https://news.ycombinator.com/item?id=47097554) - [Show HN: Script Snap – Extract code from videos](https://script-snap.com/)
 * [2026-02-21, 04:29:40](https://news.ycombinator.com/item?id=47097502) - [Meta Deployed AI and It Is Killing Our Agency](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
 * [2026-02-21, 01:33:40](https://news.ycombinator.com/item?id=47096520) - [What Is OAuth?](https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b)
 * [2026-02-21, 01:27:35](https://news.ycombinator.com/item?id=47096466) - [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord)
 * [2026-02-20, 23:19:12](https://news.ycombinator.com/item?id=47095429) - [CERN rebuilt the original browser from 1989 (2019)](https://worldwideweb.cern.ch)
 * [2026-02-20, 22:50:35](https://news.ycombinator.com/item?id=47095134) - [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling)
-* [2026-02-20, 22:27:56](https://news.ycombinator.com/item?id=47094877) - [Don't create .gitkeep files, use .gitignore instead (2023)](https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/)
 * [2026-02-20, 21:25:41](https://news.ycombinator.com/item?id=47094192) - [Turn Dependabot Off](https://words.filippo.io/dependabot/)
 * [2026-02-20, 21:22:27](https://news.ycombinator.com/item?id=47094149) - [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/)
 * [2026-02-20, 20:47:48](https://news.ycombinator.com/item?id=47093724) - [OpenScan](https://openscan.eu/pages/scan-gallery)
@@ -28,7 +26,9 @@
 * [2026-02-18, 18:04:18](https://news.ycombinator.com/item?id=47064048) - [Reproducible and traceable configuration for Conan C and C++ package manager](https://blog.conan.io/cpp/conan/configuration/reproducibility/lockfile/2026/02/17/Reproducible-Configuration-Conan.html)
 * [2026-02-18, 08:20:17](https://news.ycombinator.com/item?id=47058584) - [Index, Count, Offset, Size](https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/)
 * [2026-02-18, 00:01:40](https://news.ycombinator.com/item?id=47055261) - [The true story behind the Toronto mystery tunnel](https://macleans.ca/society/elton-mcdonald-and-the-incredible-true-story-behind-the-toronto-mystery-tunnel/)
+* [2026-02-17, 14:36:19](https://news.ycombinator.com/item?id=47047936) - [The Evolution of x86 SIMD: From SSE to AVX-512](https://bgslabs.org/blog/evolution-of-x86-simd/)
 * [2026-02-17, 08:55:13](https://news.ycombinator.com/item?id=47045194) - [SwiftForth IDE for Windows, Linux, macOS](https://www.forth.com/swiftforth/)
+* [2026-02-17, 07:34:57](https://news.ycombinator.com/item?id=47044700) - [How to Review an AUR Package](https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html)
 * [2026-02-16, 17:15:27](https://news.ycombinator.com/item?id=47037568) - [Building a model that visualizes strategic golf](https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half)
 
 ## [Archives](archives/index.md)
