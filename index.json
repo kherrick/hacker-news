@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-02-21, 18:09:24",
+      "https://news.ycombinator.com/item?id=47103136"
+    ],
+    [
+      "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
+      "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 17:49:02",
       "https://news.ycombinator.com/item?id=47102975"
     ],
@@ -101,22 +111,22 @@
   ],
   [
     [
-      "2026-02-21, 08:26:36",
-      "https://news.ycombinator.com/item?id=47098669"
-    ],
-    [
-      "Coccinelle: The Linux kernel's source-to-source transformation tool",
-      "https://github.com/coccinelle/coccinelle"
-    ]
-  ],
-  [
-    [
       "2026-02-21, 08:10:49",
       "https://news.ycombinator.com/item?id=47098582"
     ],
     [
       "AI uBlock Blacklist",
       "https://github.com/alvi-se/ai-ublock-blacklist"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 07:13:38",
+      "https://news.ycombinator.com/item?id=47098296"
+    ],
+    [
+      "Acme Weather",
+      "https://acmeweather.com/blog/introducing-acme-weather"
     ]
   ],
   [
@@ -131,12 +141,12 @@
   ],
   [
     [
-      "2026-02-21, 01:33:40",
-      "https://news.ycombinator.com/item?id=47096520"
+      "2026-02-21, 06:53:57",
+      "https://news.ycombinator.com/item?id=47098172"
     ],
     [
-      "What Is OAuth?",
-      "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b"
+      "How an inference provider can prove they're not serving a quantized model",
+      "https://tinfoil.sh/blog/2026-02-03-proving-model-identity"
     ]
   ],
   [
@@ -151,12 +161,32 @@
   ],
   [
     [
-      "2026-02-20, 23:19:12",
-      "https://news.ycombinator.com/item?id=47095429"
+      "2026-02-20, 23:35:33",
+      "https://news.ycombinator.com/item?id=47095597"
     ],
     [
-      "CERN rebuilt the original browser from 1989 (2019)",
-      "https://worldwideweb.cern.ch"
+      "Be wary of Bluesky",
+      "https://kevinak.se/blog/be-wary-of-bluesky"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 22:47:58",
+      "https://news.ycombinator.com/item?id=47095105"
+    ],
+    [
+      "A16Z partner says that the theory that we'll vibe code everything is ' wrong'",
+      "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 22:27:56",
+      "https://news.ycombinator.com/item?id=47094877"
+    ],
+    [
+      "Don't create .gitkeep files, use .gitignore instead (2023)",
+      "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/"
     ]
   ],
   [
@@ -187,16 +217,6 @@
     [
       "I found a Vulnerability. They found a Lawyer",
       "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 18:55:15",
-      "https://news.ycombinator.com/item?id=47092203"
-    ],
-    [
-      "Every company building your AI assistant is now an ad company",
-      "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "How far back in time can you understand English?",
       "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 21:11:28",
-      "https://news.ycombinator.com/item?id=47053410"
-    ],
-    [
-      "Approaches to writing two-sentence journal entries",
-      "https://alexanderbjoy.com/two-sentence-journal-approaches/"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 17:35:23",
-      "https://news.ycombinator.com/item?id=47050308"
-    ],
-    [
-      "The bare minimum for syncing Git repos",
-      "https://alexwlchan.net/2026/bare-git/"
     ]
   ],
   [
