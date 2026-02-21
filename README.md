@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-21, 21:51:58](https://news.ycombinator.com/item?id=47105198) - [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188)
-* [2026-02-21, 21:35:33](https://news.ycombinator.com/item?id=47105052) - [Password managers less secure than promised](https://ethz.ch/en/news-and-events/eth-news/news/2026/02/password-managers-less-secure-than-promised.html)
-* [2026-02-21, 21:28:13](https://news.ycombinator.com/item?id=47104973) - [When Code is Free, Why is Claude is an Electron app?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html)
+* [2026-02-21, 21:40:13](https://news.ycombinator.com/item?id=47105087) - [Happy Zelda's 40th first LLM running on N64 hardware (4MB RAM, 93MHz)](https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya)
+* [2026-02-21, 21:28:13](https://news.ycombinator.com/item?id=47104973) - [Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html)
 * [2026-02-21, 20:57:30](https://news.ycombinator.com/item?id=47104667) - [Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer)
-* [2026-02-21, 20:50:46](https://news.ycombinator.com/item?id=47104613) - [Online Pebble Development](https://cloudpebble.repebble.com/)
 * [2026-02-21, 20:14:00](https://news.ycombinator.com/item?id=47104223) - [MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatib](https://github.com/datapartyjs/MeshTNC)
 * [2026-02-21, 20:10:13](https://news.ycombinator.com/item?id=47104185) - [EDuke32 – Duke Nukem 3D (Open-Source)](https://www.eduke32.com/)
 * [2026-02-21, 19:41:52](https://news.ycombinator.com/item?id=47103945) - [Inputlag.science – Repository of knowledge about input lag in gaming](https://inputlag.science)
@@ -24,12 +23,13 @@
 * [2026-02-21, 07:06:18](https://news.ycombinator.com/item?id=47098245) - [I verified my LinkedIn identity. Here's what I handed over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
 * [2026-02-21, 00:56:29](https://news.ycombinator.com/item?id=47096253) - [Claws are now a new layer on top of LLM agents](https://twitter.com/karpathy/status/2024987174077432126)
 * [2026-02-20, 23:35:33](https://news.ycombinator.com/item?id=47095597) - [Be wary of Bluesky](https://kevinak.se/blog/be-wary-of-bluesky)
-* [2026-02-20, 21:45:31](https://news.ycombinator.com/item?id=47094429) - [Loon: A functional lang with invisible types, safe ownership, and alg. effects](https://loonlang.com)
 * [2026-02-20, 18:11:02](https://news.ycombinator.com/item?id=47091557) - [Uncovering insiders and alpha on Polymarket with AI](https://twitter.com/peterjliu/status/2024901585806225723)
+* [2026-02-20, 17:58:51](https://news.ycombinator.com/item?id=47091419) - [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
 * [2026-02-18, 19:25:46](https://news.ycombinator.com/item?id=47065146) - [A solver for Semantle](https://victoriaritvo.com/blog/semantle-solver/)
 * [2026-02-18, 14:56:58](https://news.ycombinator.com/item?id=47061614) - [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english)
 * [2026-02-18, 09:42:40](https://news.ycombinator.com/item?id=47059147) - [I Don't Like Magic](https://adactio.com/journal/22399)
 * [2026-02-17, 12:40:37](https://news.ycombinator.com/item?id=47046858) - [Permacomputing](https://wiki.xxiivv.com/site/permacomputing.html)
+* [2026-02-17, 01:57:40](https://news.ycombinator.com/item?id=47042779) - [Finding forall-exists Hyperbugs using Symbolic Execution](https://dl.acm.org/doi/full/10.1145/3689761)
 
 ## [Archives](archives/index.md)
 
