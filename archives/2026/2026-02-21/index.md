@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-21](index.md)
 
+* [2026-02-21, 07:07:12](https://news.ycombinator.com/item?id=47098252) - [Trunk Based Development](https://trunkbaseddevelopment.com/)
 * [2026-02-21, 06:01:29](https://news.ycombinator.com/item?id=47097904) - [Colorado moves age checks from websites to operating systems](https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems)
 * [2026-02-21, 04:39:20](https://news.ycombinator.com/item?id=47097554) - [Show HN: Script Snap – Extract code from videos](https://script-snap.com/)
 * [2026-02-21, 04:29:40](https://news.ycombinator.com/item?id=47097502) - [Meta Deployed AI and It Is Killing Our Agency](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
