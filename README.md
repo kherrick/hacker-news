@@ -5,6 +5,7 @@
 * [2026-02-21, 08:54:36](https://news.ycombinator.com/item?id=47098828) - [LibreOffice blasts OnlyOffice for working with Microsoft to lock users in](https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/)
 * [2026-02-21, 08:39:47](https://news.ycombinator.com/item?id=47098744) - [24 Hour Fitness won't let you unsubscribe from marketing spam, so I fixed it](https://ahmedkaddoura.com/projects/24hf-unsubscribe)
 * [2026-02-21, 08:28:42](https://news.ycombinator.com/item?id=47098687) - [EU mandates replaceable batteries by 2027 (2023)](https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en)
+* [2026-02-21, 08:26:36](https://news.ycombinator.com/item?id=47098669) - [Coccinelle: The Linux kernel's source-to-source transformation tool](https://github.com/coccinelle/coccinelle)
 * [2026-02-21, 07:18:09](https://news.ycombinator.com/item?id=47098324) - [When etcd crashes, check your disks first](https://nubificus.co.uk/blog/etcd/)
 * [2026-02-21, 07:13:38](https://news.ycombinator.com/item?id=47098296) - [Acme Weather](https://acmeweather.com/blog/introducing-acme-weather)
 * [2026-02-21, 07:07:12](https://news.ycombinator.com/item?id=47098252) - [Trunk Based Development](https://trunkbaseddevelopment.com/)
@@ -28,7 +29,6 @@
 * [2026-02-18, 08:20:17](https://news.ycombinator.com/item?id=47058584) - [Index, Count, Offset, Size](https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/)
 * [2026-02-17, 16:43:39](https://news.ycombinator.com/item?id=47049499) - [Understanding Std:Shared_mutex from C++17](https://www.cppstories.com/2026/shared_mutex/)
 * [2026-02-17, 12:58:37](https://news.ycombinator.com/item?id=47047027) - [Lean 4: How the theorem prover works and why it's the new competitive edge in AI](https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in)
-* [2026-02-17, 08:55:13](https://news.ycombinator.com/item?id=47045194) - [SwiftForth IDE for Windows, Linux, macOS](https://www.forth.com/swiftforth/)
 * [2026-02-17, 08:51:41](https://news.ycombinator.com/item?id=47045175) - [Gitas – A tool for Git account switching](https://github.com/letmutex/gitas)
 
 ## [Archives](archives/index.md)
