@@ -64,6 +64,7 @@
 * [2026-02-17, 12:58:37](https://news.ycombinator.com/item?id=47047027) - [Lean 4: How the theorem prover works and why it's the new competitive edge in AI](https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in)
 * [2026-02-17, 12:57:38](https://news.ycombinator.com/item?id=47047010) - [FreeCAD](https://www.freecad.org/index.php)
 * [2026-02-17, 12:54:04](https://news.ycombinator.com/item?id=47046981) - [Visible Spectra of the Elements](https://atomic-spectra.net/)
+* [2026-02-17, 12:40:37](https://news.ycombinator.com/item?id=47046858) - [Permacomputing](https://wiki.xxiivv.com/site/permacomputing.html)
 * [2026-02-17, 12:06:11](https://news.ycombinator.com/item?id=47046612) - [William Latham – Art and the Computer (1990)](https://www.youtube.com/watch?v=OwL3dsFBxpE)
 * [2026-02-17, 11:47:52](https://news.ycombinator.com/item?id=47046486) - [A chatbot's worst enemy is page refresh](https://zknill.io/posts/chatbots-worst-enemy-is-page-refresh/)
 * [2026-02-17, 10:52:17](https://news.ycombinator.com/item?id=47045982) - [The Rev. Jesse Jackson, pioneering civil rights activist, dies at 84](https://www.cnn.com/2026/02/17/us/reverend-jesse-jackson-death)
