@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-21](index.md)
 
+* [2026-02-21, 17:08:12](https://news.ycombinator.com/item?id=47102576) - [What Not to Write on Your Security Clearance Form](https://milk.com/wall-o-shame/security_clearance.html)
+* [2026-02-21, 16:27:01](https://news.ycombinator.com/item?id=47102208) - [The Nekonomicon – Nekochan.net Archive, Updated](http://nekonomicon.irixnet.org/)
+* [2026-02-21, 15:52:20](https://news.ycombinator.com/item?id=47101890) - [Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust](https://github.com/Ragnaroek/iron-wolf)
 * [2026-02-21, 14:34:45](https://news.ycombinator.com/item?id=47101200) - [macOS's Little-Known Command-Line Sandboxing Tool](https://igorstechnoclub.com/sandbox-exec/)
 * [2026-02-21, 14:32:16](https://news.ycombinator.com/item?id=47101171) - [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206)
 * [2026-02-21, 13:28:39](https://news.ycombinator.com/item?id=47100641) - [DJB's Cryptographic Odyssey: From Code Hero to Standards Gadfly](https://cryptography.watch/articles/djb-cryptographic-odyssey/)
