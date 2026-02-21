@@ -42,6 +42,7 @@
 * [2026-02-17, 16:53:05](https://news.ycombinator.com/item?id=47049628) - [Async/Await on the GPU](https://www.vectorware.com/blog/async-await-on-gpu/)
 * [2026-02-17, 16:48:43](https://news.ycombinator.com/item?id=47049573) - [HackMyClaw](https://hackmyclaw.com/)
 * [2026-02-17, 16:45:06](https://news.ycombinator.com/item?id=47049520) - [Show HN: I built a simulated AI containment terminal for my sci-fi novel](https://vertex.flowlogix.ai)
+* [2026-02-17, 16:43:39](https://news.ycombinator.com/item?id=47049499) - [Understanding Std:Shared_mutex from C++17](https://www.cppstories.com/2026/shared_mutex/)
 * [2026-02-17, 16:42:35](https://news.ycombinator.com/item?id=47049479) - [Using go fix to modernize Go code](https://go.dev/blog/gofix)
 * [2026-02-17, 16:37:41](https://news.ycombinator.com/item?id=47049426) - [CBS didn't air Rep. James Talarico interview out of fear of FCC](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
 * [2026-02-17, 16:22:49](https://news.ycombinator.com/item?id=47049227) - [Show HN: I taught LLMs to play Magic: The Gathering against each other](https://mage-bench.com/)

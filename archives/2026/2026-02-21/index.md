@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-21](index.md)
 
+* [2026-02-21, 09:53:15](https://news.ycombinator.com/item?id=47099160) - [Andrej Karpathy talks about \"Claws\"](https://simonwillison.net/2026/Feb/21/claws/)
+* [2026-02-21, 08:56:00](https://news.ycombinator.com/item?id=47098839) - [Large Language Model Reasoning Failures](https://arxiv.org/abs/2602.06176)
 * [2026-02-21, 08:54:36](https://news.ycombinator.com/item?id=47098828) - [LibreOffice blasts OnlyOffice for working with Microsoft to lock users in](https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/)
 * [2026-02-21, 08:39:47](https://news.ycombinator.com/item?id=47098744) - [24 Hour Fitness Won't Let You Unsubscribe From Marketing Spam, So I Fixed It](https://ahmedkaddoura.com/projects/24hf-unsubscribe)
 * [2026-02-21, 08:28:42](https://news.ycombinator.com/item?id=47098687) - [EU mandates replaceable batteries by 2027 (2023)](https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en)
