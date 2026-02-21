@@ -12,6 +12,7 @@
 * [2026-02-20, 22:27:56](https://news.ycombinator.com/item?id=47094877) - [Don't create .gitkeep files, use .gitignore instead](https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/)
 * [2026-02-20, 22:03:00](https://news.ycombinator.com/item?id=47094637) - [I hate AI side projects](https://dylancastillo.co/posts/ai-side-projects.html)
 * [2026-02-20, 22:02:58](https://news.ycombinator.com/item?id=47094635) - [FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance](https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/)
+* [2026-02-20, 21:45:31](https://news.ycombinator.com/item?id=47094429) - [Loon: A functional lang with invisible types, safe ownership, and alg. effects](https://loonlang.com)
 * [2026-02-20, 21:25:41](https://news.ycombinator.com/item?id=47094192) - [Turn Dependabot Off](https://words.filippo.io/dependabot/)
 * [2026-02-20, 21:22:27](https://news.ycombinator.com/item?id=47094149) - [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/)
 * [2026-02-20, 21:05:44](https://news.ycombinator.com/item?id=47093953) - [Phil Spencer is exiting Microsoft as AI executive takes over Xbox](https://www.neowin.net/news/phil-spencer-is-exiting-microsoft-as-ai-executive-takes-over-xbox/)
