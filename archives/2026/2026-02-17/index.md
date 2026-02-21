@@ -61,6 +61,7 @@
 * [2026-02-17, 13:57:19](https://news.ycombinator.com/item?id=47047526) - [Why I'm Worried About Job Loss and Thoughts on Comparative Advantage](https://www.lesswrong.com/posts/YPJHkciv6ysgsSiJC/why-i-m-worried-about-job-loss-thoughts-on-comparative)
 * [2026-02-17, 13:47:56](https://news.ycombinator.com/item?id=47047443) - [Undo in Vi and Its Successors](https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews)
 * [2026-02-17, 13:31:45](https://news.ycombinator.com/item?id=47047301) - [Show HN: I built the Million Dollar Homepage for agents](https://onemillionpixels.ai/)
+* [2026-02-17, 13:14:04](https://news.ycombinator.com/item?id=47047157) - [Beagle CRDT SCM outer interface](https://gist.github.com/gritzko/9b3ac4ebb9bd8e38895d4629d0f9b151)
 * [2026-02-17, 12:58:37](https://news.ycombinator.com/item?id=47047027) - [Lean 4: How the theorem prover works and why it's the new competitive edge in AI](https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in)
 * [2026-02-17, 12:57:38](https://news.ycombinator.com/item?id=47047010) - [FreeCAD](https://www.freecad.org/index.php)
 * [2026-02-17, 12:54:04](https://news.ycombinator.com/item?id=47046981) - [Visible Spectra of the Elements](https://atomic-spectra.net/)
