@@ -14,6 +14,7 @@
 * [2026-02-18, 21:00:32](https://news.ycombinator.com/item?id=47066310) - [Metriport (YC S22) is hiring a security engineer to harden healthcare infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
 * [2026-02-18, 20:54:31](https://news.ycombinator.com/item?id=47066241) - [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)
 * [2026-02-18, 20:30:22](https://news.ycombinator.com/item?id=47065972) - [Notes on Clarifying Man Pages](https://jvns.ca/blog/2026/02/18/man-pages/)
+* [2026-02-18, 20:12:13](https://news.ycombinator.com/item?id=47065729) - [Microsoft team creates 'revolutionary' data storage system that lasts millennia](https://www.nature.com/articles/d41586-026-00502-2)
 * [2026-02-18, 20:12:12](https://news.ycombinator.com/item?id=47065728) - [The political effects of X's feed algorithm](https://werd.io/the-political-effects-of-xs-feed-algorithm/)
 * [2026-02-18, 20:09:10](https://news.ycombinator.com/item?id=47065678) - [There is unequivocal evidence that Earth is warming](https://science.nasa.gov/climate-change/evidence/)
 * [2026-02-18, 19:48:32](https://news.ycombinator.com/item?id=47065425) - [Show HN: Strava for Claude Code](https://straude.com/)
