@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-02-21, 08:26:36",
+      "https://news.ycombinator.com/item?id=47098669"
+    ],
+    [
+      "Coccinelle: The Linux kernel's source-to-source transformation tool",
+      "https://github.com/coccinelle/coccinelle"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 07:18:09",
       "https://news.ycombinator.com/item?id=47098324"
     ],
@@ -277,16 +287,6 @@
     [
       "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
       "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 08:55:13",
-      "https://news.ycombinator.com/item?id=47045194"
-    ],
-    [
-      "SwiftForth IDE for Windows, Linux, macOS",
-      "https://www.forth.com/swiftforth/"
     ]
   ],
   [
