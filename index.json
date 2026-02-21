@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-21, 20:10:13",
+      "https://news.ycombinator.com/item?id=47104185"
+    ],
+    [
+      "EDuke32 – Duke Nukem 3D (Open-Source)",
+      "https://www.eduke32.com/"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 19:41:52",
       "https://news.ycombinator.com/item?id=47103945"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2026-02-21, 18:09:24",
-      "https://news.ycombinator.com/item?id=47103136"
+      "2026-02-21, 18:40:44",
+      "https://news.ycombinator.com/item?id=47103418"
     ],
     [
-      "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
-      "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/"
+      "The Software Development Lifecycle Is Dead",
+      "https://boristane.com/blog/the-software-development-lifecycle-is-dead/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Personal Statement of a CIA Analyst",
       "https://antipolygraph.org/statements/statement-038.shtml"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 17:26:17",
-      "https://news.ycombinator.com/item?id=47102763"
-    ],
-    [
-      "DialUp95 – A 90s inspired nostalgia hit",
-      "https://dialup95.com/"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust",
       "https://github.com/Ragnaroek/iron-wolf"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 14:34:45",
+      "https://news.ycombinator.com/item?id=47101200"
+    ],
+    [
+      "macOS's Little-Known Command-Line Sandboxing Tool (2025)",
+      "https://igorstechnoclub.com/sandbox-exec/"
     ]
   ],
   [
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2026-02-21, 01:27:35",
+      "https://news.ycombinator.com/item?id=47096466"
+    ],
+    [
+      "Cord: Coordinating Trees of AI Agents",
+      "https://www.june.kim/cord"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 00:56:29",
       "https://news.ycombinator.com/item?id=47096253"
     ],
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2026-02-20, 23:19:12",
+      "https://news.ycombinator.com/item?id=47095429"
+    ],
+    [
+      "CERN rebuilt the original browser from 1989 (2019)",
+      "https://worldwideweb.cern.ch"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 22:47:58",
       "https://news.ycombinator.com/item?id=47095105"
     ],
@@ -191,52 +221,22 @@
   ],
   [
     [
+      "2026-02-20, 22:27:56",
+      "https://news.ycombinator.com/item?id=47094877"
+    ],
+    [
+      "Don't create .gitkeep files, use .gitignore instead (2023)",
+      "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 21:45:31",
       "https://news.ycombinator.com/item?id=47094429"
     ],
     [
       "Loon: A functional lang with invisible types, safe ownership, and alg. effects",
       "https://loonlang.com"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 21:25:41",
-      "https://news.ycombinator.com/item?id=47094192"
-    ],
-    [
-      "Turn Dependabot off",
-      "https://words.filippo.io/dependabot/"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 19:19:58",
-      "https://news.ycombinator.com/item?id=47092578"
-    ],
-    [
-      "I found a Vulnerability. They found a Lawyer",
-      "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 18:42:21",
-      "https://news.ycombinator.com/item?id=47092006"
-    ],
-    [
-      "Wikipedia deprecates Archive.today, starts removing archive links",
-      "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 18:25:07",
-      "https://news.ycombinator.com/item?id=47091748"
-    ],
-    [
-      "Facebook is cooked",
-      "https://pilk.website/3/facebook-is-absolutely-cooked"
     ]
   ],
   [
