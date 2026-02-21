@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2026-02-21, 09:53:15",
-      "https://news.ycombinator.com/item?id=47099160"
-    ],
-    [
-      "Andrej Karpathy talks about \"Claws\"",
-      "https://simonwillison.net/2026/Feb/21/claws/"
-    ]
-  ],
-  [
-    [
       "2026-02-21, 08:26:36",
       "https://news.ycombinator.com/item?id=47098669"
     ],
@@ -137,6 +127,16 @@
     [
       "CERN rebuilt the original browser from 1989 (2019)",
       "https://worldwideweb.cern.ch"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 21:45:31",
+      "https://news.ycombinator.com/item?id=47094429"
+    ],
+    [
+      "Loon: A functional lang with invisible types, safe ownership, and alg. effects",
+      "https://loonlang.com"
     ]
   ],
   [
