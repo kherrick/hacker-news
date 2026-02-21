@@ -61,6 +61,7 @@
 * [2026-02-18, 11:49:20](https://news.ycombinator.com/item?id=47060041) - [AI made every test pass, but the code was still wrong](https://doodledapp.com/feed/ai-made-every-test-pass-the-code-was-still-wrong)
 * [2026-02-18, 10:29:30](https://news.ycombinator.com/item?id=47059520) - [Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)
 * [2026-02-18, 10:00:11](https://news.ycombinator.com/item?id=47059275) - [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
+* [2026-02-18, 09:42:40](https://news.ycombinator.com/item?id=47059147) - [I Don't Like Magic](https://adactio.com/journal/22399)
 * [2026-02-18, 08:20:17](https://news.ycombinator.com/item?id=47058584) - [Index, Count, Offset, Size](https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/)
 * [2026-02-18, 07:45:11](https://news.ycombinator.com/item?id=47058368) - [Portugal: The First Global Empire (2015)](https://www.historytoday.com/archive/first-global-empire)
 * [2026-02-18, 07:42:05](https://news.ycombinator.com/item?id=47058350) - [A Famous Enigma: On Alexandre Kojève](https://clereviewofbooks.com/isabel-jacobs-boris-groys-marco-filoni/)
