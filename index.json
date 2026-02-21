@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-21, 19:05:31",
+      "https://news.ycombinator.com/item?id=47103649"
+    ],
+    [
+      "Cloudflare outage on February 20, 2026",
+      "https://blog.cloudflare.com/cloudflare-outage-february-20-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 18:50:19",
+      "https://news.ycombinator.com/item?id=47103506"
+    ],
+    [
+      "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
+      "https://github.com/a-e-k/canvas_ity"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 17:49:02",
+      "https://news.ycombinator.com/item?id=47102975"
+    ],
+    [
+      "Personal Statement of a CIA Analyst",
+      "https://antipolygraph.org/statements/statement-038.shtml"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 17:26:17",
       "https://news.ycombinator.com/item?id=47102763"
     ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=47102576"
     ],
     [
-      "What Not to Write on Your Security Clearance Form",
+      "What not to write on your security clearance form (1988)",
       "https://milk.com/wall-o-shame/security_clearance.html"
     ]
   ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-02-20, 18:14:13",
-      "https://news.ycombinator.com/item?id=47091606"
-    ],
-    [
-      "Blue light filters don't work – controlling total luminance is a better bet",
-      "https://www.neuroai.science/p/blue-light-filters-dont-work"
-    ]
-  ],
-  [
-    [
       "2026-02-20, 17:58:51",
       "https://news.ycombinator.com/item?id=47091419"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-02-20, 10:32:52",
-      "https://news.ycombinator.com/item?id=47086181"
-    ],
-    [
-      "The path to ubiquitous AI (17k tokens/sec)",
-      "https://taalas.com/the-path-to-ubiquitous-ai/"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 14:56:58",
       "https://news.ycombinator.com/item?id=47061614"
     ],
     [
       "How far back in time can you understand English?",
       "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 08:20:17",
-      "https://news.ycombinator.com/item?id=47058584"
-    ],
-    [
-      "Index, Count, Offset, Size",
-      "https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-02-17, 16:43:39",
-      "https://news.ycombinator.com/item?id=47049499"
-    ],
-    [
-      "Understanding Std:Shared_mutex from C++17",
-      "https://www.cppstories.com/2026/shared_mutex/"
-    ]
-  ],
-  [
-    [
       "2026-02-17, 12:58:37",
       "https://news.ycombinator.com/item?id=47047027"
     ],
@@ -297,6 +287,16 @@
     [
       "Permacomputing",
       "https://wiki.xxiivv.com/site/permacomputing.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 09:16:41",
+      "https://news.ycombinator.com/item?id=47045313"
+    ],
+    [
+      "Denonomicon: The Dark Arts of Deno Foreign Function Interface Programming",
+      "https://denonomicon.deno.dev/introduction"
     ]
   ]
 ]
