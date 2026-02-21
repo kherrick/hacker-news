@@ -6,6 +6,7 @@
 
 * [2026-02-21, 19:05:31](https://news.ycombinator.com/item?id=47103649) - [Cloudflare outage on February 20, 2026](https://blog.cloudflare.com/cloudflare-outage-february-20-2026/)
 * [2026-02-21, 18:50:19](https://news.ycombinator.com/item?id=47103506) - [Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++](https://github.com/a-e-k/canvas_ity)
+* [2026-02-21, 18:09:24](https://news.ycombinator.com/item?id=47103136) - [Toyota Mirai hydrogen car depreciation: 65% value loss in a year](https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/)
 * [2026-02-21, 17:49:02](https://news.ycombinator.com/item?id=47102975) - [Personal Statement of a CIA Analyst](https://antipolygraph.org/statements/statement-038.shtml)
 * [2026-02-21, 17:26:17](https://news.ycombinator.com/item?id=47102763) - [DialUp95 – A 90s inspired nostalgia hit](https://dialup95.com/)
 * [2026-02-21, 17:08:12](https://news.ycombinator.com/item?id=47102576) - [What Not to Write on Your Security Clearance Form](https://milk.com/wall-o-shame/security_clearance.html)
@@ -29,6 +30,7 @@
 * [2026-02-21, 07:13:38](https://news.ycombinator.com/item?id=47098296) - [Acme Weather](https://acmeweather.com/blog/introducing-acme-weather)
 * [2026-02-21, 07:07:12](https://news.ycombinator.com/item?id=47098252) - [Trunk Based Development](https://trunkbaseddevelopment.com/)
 * [2026-02-21, 07:06:18](https://news.ycombinator.com/item?id=47098245) - [I Verified My LinkedIn Identity. Here's What I Handed Over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
+* [2026-02-21, 06:53:57](https://news.ycombinator.com/item?id=47098172) - [How an inference provider can prove they're not serving a quantized model](https://tinfoil.sh/blog/2026-02-03-proving-model-identity)
 * [2026-02-21, 06:01:29](https://news.ycombinator.com/item?id=47097904) - [Colorado moves age checks from websites to operating systems](https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems)
 * [2026-02-21, 04:39:20](https://news.ycombinator.com/item?id=47097554) - [Show HN: Script Snap – Extract code from videos](https://script-snap.com/)
 * [2026-02-21, 04:29:40](https://news.ycombinator.com/item?id=47097502) - [Meta Deployed AI and It Is Killing Our Agency](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
