@@ -7,6 +7,7 @@
 * [2026-02-21, 08:54:36](https://news.ycombinator.com/item?id=47098828) - [LibreOffice blasts OnlyOffice for working with Microsoft to lock users in](https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/)
 * [2026-02-21, 08:39:47](https://news.ycombinator.com/item?id=47098744) - [24 Hour Fitness Won't Let You Unsubscribe From Marketing Spam, So I Fixed It](https://ahmedkaddoura.com/projects/24hf-unsubscribe)
 * [2026-02-21, 08:28:42](https://news.ycombinator.com/item?id=47098687) - [EU mandates replaceable batteries by 2027 (2023)](https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en)
+* [2026-02-21, 07:18:09](https://news.ycombinator.com/item?id=47098324) - [When etcd crashes, check your disks first](https://nubificus.co.uk/blog/etcd/)
 * [2026-02-21, 07:13:38](https://news.ycombinator.com/item?id=47098296) - [Acme Weather](https://acmeweather.com/blog/introducing-acme-weather)
 * [2026-02-21, 07:07:12](https://news.ycombinator.com/item?id=47098252) - [Trunk Based Development](https://trunkbaseddevelopment.com/)
 * [2026-02-21, 07:06:18](https://news.ycombinator.com/item?id=47098245) - [I Verified My LinkedIn Identity. Here's What I Handed Over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
