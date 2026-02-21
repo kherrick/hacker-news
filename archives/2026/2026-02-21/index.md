@@ -7,6 +7,7 @@
 * [2026-02-21, 21:51:58](https://news.ycombinator.com/item?id=47105198) - [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188)
 * [2026-02-21, 21:35:33](https://news.ycombinator.com/item?id=47105052) - [Password managers less secure than promised](https://ethz.ch/en/news-and-events/eth-news/news/2026/02/password-managers-less-secure-than-promised.html)
 * [2026-02-21, 21:28:13](https://news.ycombinator.com/item?id=47104973) - [When Code is Free, Why is Claude is an Electron app?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html)
+* [2026-02-21, 20:57:30](https://news.ycombinator.com/item?id=47104667) - [Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer)
 * [2026-02-21, 20:50:46](https://news.ycombinator.com/item?id=47104613) - [Online Pebble Development](https://cloudpebble.repebble.com/)
 * [2026-02-21, 20:14:00](https://news.ycombinator.com/item?id=47104223) - [MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatib](https://github.com/datapartyjs/MeshTNC)
 * [2026-02-21, 20:10:13](https://news.ycombinator.com/item?id=47104185) - [EDuke32 – Duke Nukem 3D (Open-Source)](https://www.eduke32.com/)
