@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-21, 19:41:52](https://news.ycombinator.com/item?id=47103945) - [Inputlag.science – Repository of knowledge about input lag in gaming](https://inputlag.science)
+* [2026-02-21, 19:40:06](https://news.ycombinator.com/item?id=47103931) - [Parse, Don't Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
 * [2026-02-21, 19:05:31](https://news.ycombinator.com/item?id=47103649) - [Cloudflare outage on February 20, 2026](https://blog.cloudflare.com/cloudflare-outage-february-20-2026/)
 * [2026-02-21, 18:50:19](https://news.ycombinator.com/item?id=47103506) - [Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++](https://github.com/a-e-k/canvas_ity)
 * [2026-02-21, 18:09:24](https://news.ycombinator.com/item?id=47103136) - [Toyota Mirai hydrogen car depreciation: 65% value loss in a year](https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/)
@@ -9,7 +11,6 @@
 * [2026-02-21, 16:27:01](https://news.ycombinator.com/item?id=47102208) - [The Nekonomicon – Nekochan.net Archive, Updated](http://nekonomicon.irixnet.org/)
 * [2026-02-21, 15:52:20](https://news.ycombinator.com/item?id=47101890) - [Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust](https://github.com/Ragnaroek/iron-wolf)
 * [2026-02-21, 14:34:45](https://news.ycombinator.com/item?id=47101200) - [macOS's Little-Known Command-Line Sandboxing Tool (2025)](https://igorstechnoclub.com/sandbox-exec/)
-* [2026-02-21, 14:32:16](https://news.ycombinator.com/item?id=47101171) - [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206)
 * [2026-02-21, 12:02:14](https://news.ycombinator.com/item?id=47099982) - [Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)
 * [2026-02-21, 08:10:49](https://news.ycombinator.com/item?id=47098582) - [AI uBlock Blacklist](https://github.com/alvi-se/ai-ublock-blacklist)
 * [2026-02-21, 07:13:38](https://news.ycombinator.com/item?id=47098296) - [Acme Weather](https://acmeweather.com/blog/introducing-acme-weather)
@@ -27,7 +28,6 @@
 * [2026-02-20, 17:58:51](https://news.ycombinator.com/item?id=47091419) - [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
 * [2026-02-20, 13:51:04](https://news.ycombinator.com/item?id=47088037) - [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759)
 * [2026-02-18, 14:56:58](https://news.ycombinator.com/item?id=47061614) - [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english)
-* [2026-02-17, 12:58:37](https://news.ycombinator.com/item?id=47047027) - [Lean 4: How the theorem prover works and why it's the new competitive edge in AI](https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in)
 * [2026-02-17, 12:40:37](https://news.ycombinator.com/item?id=47046858) - [Permacomputing](https://wiki.xxiivv.com/site/permacomputing.html)
 * [2026-02-17, 09:16:41](https://news.ycombinator.com/item?id=47045313) - [Denonomicon: The Dark Arts of Deno Foreign Function Interface Programming](https://denonomicon.deno.dev/introduction)
 
