@@ -71,6 +71,7 @@
 * [2026-02-18, 06:20:13](https://news.ycombinator.com/item?id=47057829) - [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
 * [2026-02-18, 06:19:37](https://news.ycombinator.com/item?id=47057824) - [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
 * [2026-02-18, 06:00:35](https://news.ycombinator.com/item?id=47057707) - [TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)](https://github.com/DatanoiseTV/tinyice)
+* [2026-02-18, 04:37:23](https://news.ycombinator.com/item?id=47057218) - [Choose Your Fictions Well (2010)](http://henryjenkins.org/blog/2010/04/choose_your_ficitons_well.html)
 * [2026-02-18, 02:41:54](https://news.ycombinator.com/item?id=47056516) - [Lessons learned from `oapi-codegen`'s time in the GitHub Secure Open Source Fund](https://www.jvt.me/posts/2026/02/17/oapi-codegen-github-secure/)
 * [2026-02-18, 02:18:29](https://news.ycombinator.com/item?id=47056314) - [Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)](https://www.sceneandheardnu.com/content/halt-and-catch-fire)
 * [2026-02-18, 02:00:52](https://news.ycombinator.com/item?id=47056152) - [It's not just you, YouTube is partially down in outage](https://9to5google.com/2026/02/17/youtube-outage-february-2026/)
