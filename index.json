@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-21, 20:50:46",
+      "https://news.ycombinator.com/item?id=47104613"
+    ],
+    [
+      "Online Pebble Development",
+      "https://cloudpebble.repebble.com/"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 20:14:00",
       "https://news.ycombinator.com/item?id=47104223"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2026-02-21, 18:40:44",
+      "https://news.ycombinator.com/item?id=47103418"
+    ],
+    [
+      "The Software Development Lifecycle Is Dead",
+      "https://boristane.com/blog/the-software-development-lifecycle-is-dead/"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 18:09:24",
       "https://news.ycombinator.com/item?id=47103136"
     ],
@@ -87,16 +107,6 @@
     [
       "What not to write on your security clearance form (1988)",
       "https://milk.com/wall-o-shame/security_clearance.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 16:27:01",
-      "https://news.ycombinator.com/item?id=47102208"
-    ],
-    [
-      "The Nekonomicon – Nekochan.net Archive, Updated",
-      "http://nekonomicon.irixnet.org/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-02-20, 22:27:56",
-      "https://news.ycombinator.com/item?id=47094877"
-    ],
-    [
-      "Don't create .gitkeep files, use .gitignore instead (2023)",
-      "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/"
-    ]
-  ],
-  [
-    [
       "2026-02-20, 21:45:31",
       "https://news.ycombinator.com/item?id=47094429"
     ],
@@ -237,16 +237,6 @@
     [
       "Uncovering insiders and alpha on Polymarket with AI",
       "https://twitter.com/peterjliu/status/2024901585806225723"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 17:58:51",
-      "https://news.ycombinator.com/item?id=47091419"
-    ],
-    [
-      "Keep Android Open",
-      "https://f-droid.org/2026/02/20/twif.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "I Don't Like Magic",
       "https://adactio.com/journal/22399"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 13:14:04",
+      "https://news.ycombinator.com/item?id=47047157"
+    ],
+    [
+      "Beagle CRDT SCM outer interface",
+      "https://gist.github.com/gritzko/9b3ac4ebb9bd8e38895d4629d0f9b151"
     ]
   ],
   [
