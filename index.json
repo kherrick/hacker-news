@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2026-02-21, 07:07:12",
-      "https://news.ycombinator.com/item?id=47098252"
-    ],
-    [
-      "Trunk Based Development",
-      "https://trunkbaseddevelopment.com/"
-    ]
-  ],
-  [
-    [
       "2026-02-21, 07:06:18",
       "https://news.ycombinator.com/item?id=47098245"
     ],
@@ -267,6 +257,16 @@
     [
       "Index, Count, Offset, Size",
       "https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 17:35:23",
+      "https://news.ycombinator.com/item?id=47050308"
+    ],
+    [
+      "The bare minimum for syncing Git repos",
+      "https://alexwlchan.net/2026/bare-git/"
     ]
   ],
   [
