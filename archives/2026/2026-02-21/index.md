@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-21](index.md)
 
+* [2026-02-21, 19:05:31](https://news.ycombinator.com/item?id=47103649) - [Cloudflare outage on February 20, 2026](https://blog.cloudflare.com/cloudflare-outage-february-20-2026/)
+* [2026-02-21, 18:50:19](https://news.ycombinator.com/item?id=47103506) - [Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++](https://github.com/a-e-k/canvas_ity)
+* [2026-02-21, 17:49:02](https://news.ycombinator.com/item?id=47102975) - [Personal Statement of a CIA Analyst](https://antipolygraph.org/statements/statement-038.shtml)
 * [2026-02-21, 17:26:17](https://news.ycombinator.com/item?id=47102763) - [DialUp95 – A 90s inspired nostalgia hit](https://dialup95.com/)
 * [2026-02-21, 17:08:12](https://news.ycombinator.com/item?id=47102576) - [What Not to Write on Your Security Clearance Form](https://milk.com/wall-o-shame/security_clearance.html)
 * [2026-02-21, 16:27:01](https://news.ycombinator.com/item?id=47102208) - [The Nekonomicon – Nekochan.net Archive, Updated](http://nekonomicon.irixnet.org/)
