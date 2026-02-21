@@ -23,12 +23,12 @@
 * [2026-02-20, 14:02:05](https://news.ycombinator.com/item?id=47088166) - [Show HN: A native macOS client for Hacker News, built with SwiftUI](https://github.com/IronsideXXVI/Hacker-News)
 * [2026-02-20, 13:51:04](https://news.ycombinator.com/item?id=47088037) - [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759)
 * [2026-02-20, 10:32:52](https://news.ycombinator.com/item?id=47086181) - [The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)
+* [2026-02-20, 08:52:17](https://news.ycombinator.com/item?id=47085425) - [Untapped Way to Learn a Codebase: Build a Visualizer](https://jimmyhmiller.com/learn-codebase-visualizer)
 * [2026-02-18, 18:04:18](https://news.ycombinator.com/item?id=47064048) - [Reproducible and traceable configuration for Conan C and C++ package manager](https://blog.conan.io/cpp/conan/configuration/reproducibility/lockfile/2026/02/17/Reproducible-Configuration-Conan.html)
 * [2026-02-18, 08:20:17](https://news.ycombinator.com/item?id=47058584) - [Index, Count, Offset, Size](https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/)
 * [2026-02-18, 00:01:40](https://news.ycombinator.com/item?id=47055261) - [The true story behind the Toronto mystery tunnel](https://macleans.ca/society/elton-mcdonald-and-the-incredible-true-story-behind-the-toronto-mystery-tunnel/)
 * [2026-02-17, 14:00:56](https://news.ycombinator.com/item?id=47047559) - [Show HN: PIrateRF – Turn a $20 Raspberry Pi Zero into a 12-mode RF transmitter](https://github.com/psyb0t/piraterf)
 * [2026-02-17, 08:55:13](https://news.ycombinator.com/item?id=47045194) - [SwiftForth IDE for Windows, Linux, macOS](https://www.forth.com/swiftforth/)
-* [2026-02-17, 07:34:57](https://news.ycombinator.com/item?id=47044700) - [How to Review an AUR Package](https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html)
 * [2026-02-16, 17:15:27](https://news.ycombinator.com/item?id=47037568) - [Building a model that visualizes strategic golf](https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half)
 
 ## [Archives](archives/index.md)
