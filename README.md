@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-21, 12:02:14](https://news.ycombinator.com/item?id=47099982) - [Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)
-* [2026-02-21, 11:39:18](https://news.ycombinator.com/item?id=47099844) - [Over 80% of 16 to 24-year-olds would vote to rejoin the EU](https://www.itv.com/news/2026-02-19/over-80-of-16-to-24-year-olds-would-vote-to-rejoin-the-eu-itv-poll-finds)
 * [2026-02-21, 09:53:15](https://news.ycombinator.com/item?id=47099160) - [Andrej Karpathy talks about \"Claws\"](https://simonwillison.net/2026/Feb/21/claws/)
 * [2026-02-21, 08:56:00](https://news.ycombinator.com/item?id=47098839) - [Large Language Model Reasoning Failures](https://arxiv.org/abs/2602.06176)
 * [2026-02-21, 08:54:36](https://news.ycombinator.com/item?id=47098828) - [LibreOffice blasts OnlyOffice for working with Microsoft to lock users in](https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/)
@@ -22,6 +21,7 @@
 * [2026-02-20, 18:25:07](https://news.ycombinator.com/item?id=47091748) - [Facebook is cooked](https://pilk.website/3/facebook-is-absolutely-cooked)
 * [2026-02-20, 18:14:13](https://news.ycombinator.com/item?id=47091606) - [Blue light filters don't work – controlling total luminance is a better bet](https://www.neuroai.science/p/blue-light-filters-dont-work)
 * [2026-02-20, 17:58:51](https://news.ycombinator.com/item?id=47091419) - [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
+* [2026-02-20, 15:27:38](https://news.ycombinator.com/item?id=47089213) - [Trump's global tariffs struck down by US Supreme Court](https://www.bbc.com/news/live/c0l9r67drg7t)
 * [2026-02-20, 13:51:04](https://news.ycombinator.com/item?id=47088037) - [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759)
 * [2026-02-20, 10:32:52](https://news.ycombinator.com/item?id=47086181) - [The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)
 * [2026-02-18, 08:20:17](https://news.ycombinator.com/item?id=47058584) - [Index, Count, Offset, Size](https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/)
