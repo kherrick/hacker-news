@@ -27,6 +27,7 @@
 * [2026-02-17, 18:15:36](https://news.ycombinator.com/item?id=47050872) - [Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript](https://github.com/n-e/pg-typesafe)
 * [2026-02-17, 17:48:52](https://news.ycombinator.com/item?id=47050488) - [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
 * [2026-02-17, 17:40:50](https://news.ycombinator.com/item?id=47050376) - [Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification](https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693)
+* [2026-02-17, 17:35:23](https://news.ycombinator.com/item?id=47050308) - [The bare minimum for syncing Git repos](https://alexwlchan.net/2026/bare-git/)
 * [2026-02-17, 17:29:49](https://news.ycombinator.com/item?id=47050227) - [Climbing Mount Fuji visualized through milestone stamps](https://fuji.halfof8.com/)
 * [2026-02-17, 17:29:16](https://news.ycombinator.com/item?id=47050215) - [Students Are Being Treated Like Guinea Pigs: Inside an AI-Powered Private School](https://www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/)
 * [2026-02-17, 17:29:13](https://news.ycombinator.com/item?id=47050211) - [Can a Computer Science Student Be Taught to Design Hardware?](https://semiengineering.com/can-a-computer-science-student-be-taught-to-design-hardware/)
