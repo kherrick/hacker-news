@@ -70,6 +70,7 @@
 * [2026-02-17, 10:02:36](https://news.ycombinator.com/item?id=47045612) - [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
 * [2026-02-17, 09:38:54](https://news.ycombinator.com/item?id=47045459) - [WD and Seagate confirm: Hard drives sold out for 2026](https://www.heise.de/en/news/WD-and-Seagate-confirm-Hard-drives-for-2026-sold-out-11178917.html)
 * [2026-02-17, 08:55:13](https://news.ycombinator.com/item?id=47045194) - [SwiftForth IDE for Windows, Linux, macOS](https://www.forth.com/swiftforth/)
+* [2026-02-17, 08:51:41](https://news.ycombinator.com/item?id=47045175) - [Gitas – A tool for Git account switching](https://github.com/letmutex/gitas)
 * [2026-02-17, 07:34:57](https://news.ycombinator.com/item?id=47044700) - [How to Review an AUR Package](https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html)
 * [2026-02-17, 06:18:34](https://news.ycombinator.com/item?id=47044293) - [SvarDOS – an open-source DOS distribution](http://svardos.org/)
 * [2026-02-17, 05:53:31](https://news.ycombinator.com/item?id=47044179) - [Xbox UI Portfolio Site](https://gabrielcabrera.co/)

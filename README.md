@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-21, 07:13:38](https://news.ycombinator.com/item?id=47098296) - [Acme Weather](https://acmeweather.com/blog/introducing-acme-weather)
 * [2026-02-21, 07:07:12](https://news.ycombinator.com/item?id=47098252) - [Trunk Based Development](https://trunkbaseddevelopment.com/)
 * [2026-02-21, 04:29:40](https://news.ycombinator.com/item?id=47097502) - [Meta Deployed AI and It Is Killing Our Agency](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
 * [2026-02-21, 01:33:40](https://news.ycombinator.com/item?id=47096520) - [What Is OAuth?](https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b)
@@ -28,8 +29,7 @@
 * [2026-02-18, 00:01:40](https://news.ycombinator.com/item?id=47055261) - [The true story behind the Toronto mystery tunnel](https://macleans.ca/society/elton-mcdonald-and-the-incredible-true-story-behind-the-toronto-mystery-tunnel/)
 * [2026-02-17, 12:58:37](https://news.ycombinator.com/item?id=47047027) - [Lean 4: How the theorem prover works and why it's the new competitive edge in AI](https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in)
 * [2026-02-17, 08:55:13](https://news.ycombinator.com/item?id=47045194) - [SwiftForth IDE for Windows, Linux, macOS](https://www.forth.com/swiftforth/)
-* [2026-02-17, 07:34:57](https://news.ycombinator.com/item?id=47044700) - [How to Review an AUR Package](https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html)
-* [2026-02-16, 17:15:27](https://news.ycombinator.com/item?id=47037568) - [Building a model that visualizes strategic golf](https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half)
+* [2026-02-17, 08:51:41](https://news.ycombinator.com/item?id=47045175) - [Gitas – A tool for Git account switching](https://github.com/letmutex/gitas)
 
 ## [Archives](archives/index.md)
 
