@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-21, 04:39:20",
+      "https://news.ycombinator.com/item?id=47097554"
+    ],
+    [
+      "Show HN: Script Snap – Extract code from videos",
+      "https://script-snap.com/"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 02:40:24",
       "https://news.ycombinator.com/item?id=47096937"
     ],
@@ -27,26 +37,6 @@
     [
       "Cord: Coordinating Trees of AI Agents",
       "https://www.june.kim/cord"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 00:51:05",
-      "https://news.ycombinator.com/item?id=47096210"
-    ],
-    [
-      "Claude Code's compaction discards data that's still on disk",
-      "https://github.com/anthropics/claude-code/issues/26771"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 23:35:15",
-      "https://news.ycombinator.com/item?id=47095592"
-    ],
-    [
-      "Lexega Turns SQL into Signals",
-      "https://lexega.com/blog/how-lexega-turns-sql-into-signals"
     ]
   ],
   [
@@ -241,16 +231,6 @@
   ],
   [
     [
-      "2026-02-20, 08:52:17",
-      "https://news.ycombinator.com/item?id=47085425"
-    ],
-    [
-      "Untapped Way to Learn a Codebase: Build a Visualizer",
-      "https://jimmyhmiller.com/learn-codebase-visualizer"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 18:04:18",
       "https://news.ycombinator.com/item?id=47064048"
     ],
@@ -277,6 +257,26 @@
     [
       "The true story behind the Toronto mystery tunnel",
       "https://macleans.ca/society/elton-mcdonald-and-the-incredible-true-story-behind-the-toronto-mystery-tunnel/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 14:00:56",
+      "https://news.ycombinator.com/item?id=47047559"
+    ],
+    [
+      "Show HN: PIrateRF – Turn a $20 Raspberry Pi Zero into a 12-mode RF transmitter",
+      "https://github.com/psyb0t/piraterf"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 08:55:13",
+      "https://news.ycombinator.com/item?id=47045194"
+    ],
+    [
+      "SwiftForth IDE for Windows, Linux, macOS",
+      "https://www.forth.com/swiftforth/"
     ]
   ],
   [
