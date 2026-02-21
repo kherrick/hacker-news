@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-02-21, 04:39:20",
-      "https://news.ycombinator.com/item?id=47097554"
-    ],
-    [
-      "Show HN: Script Snap – Extract code from videos",
-      "https://script-snap.com/"
-    ]
-  ],
-  [
-    [
       "2026-02-21, 04:29:40",
       "https://news.ycombinator.com/item?id=47097502"
     ],
@@ -67,16 +57,6 @@
     [
       "Across the US, people are dismantling and destroying Flock surveillance cameras",
       "https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 22:27:56",
-      "https://news.ycombinator.com/item?id=47094877"
-    ],
-    [
-      "Don't create .gitkeep files, use .gitignore instead (2023)",
-      "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2026-02-17, 14:36:19",
+      "https://news.ycombinator.com/item?id=47047936"
+    ],
+    [
+      "The Evolution of x86 SIMD: From SSE to AVX-512",
+      "https://bgslabs.org/blog/evolution-of-x86-simd/"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 08:55:13",
       "https://news.ycombinator.com/item?id=47045194"
     ],
     [
       "SwiftForth IDE for Windows, Linux, macOS",
       "https://www.forth.com/swiftforth/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 07:34:57",
+      "https://news.ycombinator.com/item?id=47044700"
+    ],
+    [
+      "How to Review an AUR Package",
+      "https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html"
     ]
   ],
   [
