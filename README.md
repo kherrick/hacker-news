@@ -2,8 +2,8 @@
 
 * [2026-02-21, 12:02:14](https://news.ycombinator.com/item?id=47099982) - [Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)
 * [2026-02-21, 09:53:15](https://news.ycombinator.com/item?id=47099160) - [Andrej Karpathy talks about \"Claws\"](https://simonwillison.net/2026/Feb/21/claws/)
+* [2026-02-21, 09:42:04](https://news.ycombinator.com/item?id=47099087) - [Instant AI Response](https://chatjimmy.ai/)
 * [2026-02-21, 08:56:00](https://news.ycombinator.com/item?id=47098839) - [Large Language Model Reasoning Failures](https://arxiv.org/abs/2602.06176)
-* [2026-02-21, 08:54:36](https://news.ycombinator.com/item?id=47098828) - [LibreOffice blasts OnlyOffice for working with Microsoft to lock users in](https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/)
 * [2026-02-21, 08:26:36](https://news.ycombinator.com/item?id=47098669) - [Coccinelle: The Linux kernel's source-to-source transformation tool](https://github.com/coccinelle/coccinelle)
 * [2026-02-21, 08:10:49](https://news.ycombinator.com/item?id=47098582) - [AI uBlock Blacklist](https://github.com/alvi-se/ai-ublock-blacklist)
 * [2026-02-21, 07:18:09](https://news.ycombinator.com/item?id=47098324) - [When etcd crashes, check your disks first](https://nubificus.co.uk/blog/etcd/)
@@ -21,7 +21,6 @@
 * [2026-02-20, 18:25:07](https://news.ycombinator.com/item?id=47091748) - [Facebook is cooked](https://pilk.website/3/facebook-is-absolutely-cooked)
 * [2026-02-20, 18:14:13](https://news.ycombinator.com/item?id=47091606) - [Blue light filters don't work – controlling total luminance is a better bet](https://www.neuroai.science/p/blue-light-filters-dont-work)
 * [2026-02-20, 17:58:51](https://news.ycombinator.com/item?id=47091419) - [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
-* [2026-02-20, 15:27:38](https://news.ycombinator.com/item?id=47089213) - [Trump's global tariffs struck down by US Supreme Court](https://www.bbc.com/news/live/c0l9r67drg7t)
 * [2026-02-20, 13:51:04](https://news.ycombinator.com/item?id=47088037) - [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759)
 * [2026-02-20, 10:32:52](https://news.ycombinator.com/item?id=47086181) - [The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)
 * [2026-02-18, 08:20:17](https://news.ycombinator.com/item?id=47058584) - [Index, Count, Offset, Size](https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/)
@@ -30,6 +29,7 @@
 * [2026-02-17, 16:43:39](https://news.ycombinator.com/item?id=47049499) - [Understanding Std:Shared_mutex from C++17](https://www.cppstories.com/2026/shared_mutex/)
 * [2026-02-17, 12:58:37](https://news.ycombinator.com/item?id=47047027) - [Lean 4: How the theorem prover works and why it's the new competitive edge in AI](https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in)
 * [2026-02-17, 08:51:41](https://news.ycombinator.com/item?id=47045175) - [Gitas – A tool for Git account switching](https://github.com/letmutex/gitas)
+* [2026-02-17, 06:43:42](https://news.ycombinator.com/item?id=47044413) - [JWasm: Masm Compatible Assembler](https://github.com/Baron-von-Riedesel/JWasm)
 
 ## [Archives](archives/index.md)
 

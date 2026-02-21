@@ -8,6 +8,7 @@
 * [2026-02-21, 11:39:18](https://news.ycombinator.com/item?id=47099844) - [Over 80% of 16 to 24-year-olds would vote to rejoin the EU](https://www.itv.com/news/2026-02-19/over-80-of-16-to-24-year-olds-would-vote-to-rejoin-the-eu-itv-poll-finds)
 * [2026-02-21, 10:45:52](https://news.ycombinator.com/item?id=47099473) - [What Happened to Software Is Happening to Finance and Accounting](https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/)
 * [2026-02-21, 09:53:15](https://news.ycombinator.com/item?id=47099160) - [Andrej Karpathy talks about \"Claws\"](https://simonwillison.net/2026/Feb/21/claws/)
+* [2026-02-21, 09:42:04](https://news.ycombinator.com/item?id=47099087) - [Instant AI Response](https://chatjimmy.ai/)
 * [2026-02-21, 08:56:00](https://news.ycombinator.com/item?id=47098839) - [Large Language Model Reasoning Failures](https://arxiv.org/abs/2602.06176)
 * [2026-02-21, 08:54:36](https://news.ycombinator.com/item?id=47098828) - [LibreOffice blasts OnlyOffice for working with Microsoft to lock users in](https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/)
 * [2026-02-21, 08:39:47](https://news.ycombinator.com/item?id=47098744) - [24 Hour Fitness Won't Let You Unsubscribe From Marketing Spam, So I Fixed It](https://ahmedkaddoura.com/projects/24hf-unsubscribe)
