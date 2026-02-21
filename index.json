@@ -101,12 +101,12 @@
   ],
   [
     [
-      "2026-02-21, 14:34:45",
-      "https://news.ycombinator.com/item?id=47101200"
+      "2026-02-21, 12:37:52",
+      "https://news.ycombinator.com/item?id=47100232"
     ],
     [
-      "macOS's Little-Known Command-Line Sandboxing Tool (2025)",
-      "https://igorstechnoclub.com/sandbox-exec/"
+      "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+      "https://github.com/tnm/zclaw"
     ]
   ],
   [
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=47098245"
     ],
     [
-      "I Verified My LinkedIn Identity. Here's What I Handed Over",
+      "I verified my LinkedIn identity. Here's what I handed over",
       "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/"
     ]
   ],
@@ -187,16 +187,6 @@
     [
       "A16Z partner says that the theory that we'll vibe code everything is ' wrong'",
       "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 22:27:56",
-      "https://news.ycombinator.com/item?id=47094877"
-    ],
-    [
-      "Don't create .gitkeep files, use .gitignore instead (2023)",
-      "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2026-02-20, 18:11:02",
+      "https://news.ycombinator.com/item?id=47091557"
+    ],
+    [
+      "Uncovering insiders and alpha on Polymarket with AI",
+      "https://twitter.com/peterjliu/status/2024901585806225723"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 17:58:51",
       "https://news.ycombinator.com/item?id=47091419"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-02-20, 13:51:04",
-      "https://news.ycombinator.com/item?id=47088037"
+      "2026-02-18, 20:12:13",
+      "https://news.ycombinator.com/item?id=47065729"
     ],
     [
-      "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-      "https://github.com/ggml-org/llama.cpp/discussions/19759"
+      "Microsoft team creates data-storage system that lasts for millennia",
+      "https://www.nature.com/articles/d41586-026-00502-2"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-02-18, 09:42:40",
+      "https://news.ycombinator.com/item?id=47059147"
+    ],
+    [
+      "I Don't Like Magic",
+      "https://adactio.com/journal/22399"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 12:40:37",
       "https://news.ycombinator.com/item?id=47046858"
     ],
     [
       "Permacomputing",
       "https://wiki.xxiivv.com/site/permacomputing.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 09:16:41",
-      "https://news.ycombinator.com/item?id=47045313"
-    ],
-    [
-      "Denonomicon: The Dark Arts of Deno Foreign Function Interface Programming",
-      "https://denonomicon.deno.dev/introduction"
     ]
   ]
 ]
