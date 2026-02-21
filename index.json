@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-21, 07:13:38",
+      "https://news.ycombinator.com/item?id=47098296"
+    ],
+    [
+      "Acme Weather",
+      "https://acmeweather.com/blog/introducing-acme-weather"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 07:07:12",
       "https://news.ycombinator.com/item?id=47098252"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-02-17, 07:34:57",
-      "https://news.ycombinator.com/item?id=47044700"
+      "2026-02-17, 08:51:41",
+      "https://news.ycombinator.com/item?id=47045175"
     ],
     [
-      "How to Review an AUR Package",
-      "https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 17:15:27",
-      "https://news.ycombinator.com/item?id=47037568"
-    ],
-    [
-      "Building a model that visualizes strategic golf",
-      "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half"
+      "Gitas – A tool for Git account switching",
+      "https://github.com/letmutex/gitas"
     ]
   ]
 ]
