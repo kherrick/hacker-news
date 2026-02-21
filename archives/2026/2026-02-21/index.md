@@ -6,6 +6,7 @@
 
 * [2026-02-21, 14:34:45](https://news.ycombinator.com/item?id=47101200) - [macOS's Little-Known Command-Line Sandboxing Tool](https://igorstechnoclub.com/sandbox-exec/)
 * [2026-02-21, 14:32:16](https://news.ycombinator.com/item?id=47101171) - [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206)
+* [2026-02-21, 13:28:39](https://news.ycombinator.com/item?id=47100641) - [DJB's Cryptographic Odyssey: From Code Hero to Standards Gadfly](https://cryptography.watch/articles/djb-cryptographic-odyssey/)
 * [2026-02-21, 12:02:14](https://news.ycombinator.com/item?id=47099982) - [Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)
 * [2026-02-21, 11:39:18](https://news.ycombinator.com/item?id=47099844) - [Over 80% of 16 to 24-year-olds would vote to rejoin the EU](https://www.itv.com/news/2026-02-19/over-80-of-16-to-24-year-olds-would-vote-to-rejoin-the-eu-itv-poll-finds)
 * [2026-02-21, 10:45:52](https://news.ycombinator.com/item?id=47099473) - [What Happened to Software Is Happening to Finance and Accounting](https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/)
