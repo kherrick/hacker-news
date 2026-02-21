@@ -21,22 +21,22 @@
   ],
   [
     [
+      "2026-02-21, 09:42:04",
+      "https://news.ycombinator.com/item?id=47099087"
+    ],
+    [
+      "Instant AI Response",
+      "https://chatjimmy.ai/"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 08:56:00",
       "https://news.ycombinator.com/item?id=47098839"
     ],
     [
       "Large Language Model Reasoning Failures",
       "https://arxiv.org/abs/2602.06176"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 08:54:36",
-      "https://news.ycombinator.com/item?id=47098828"
-    ],
-    [
-      "LibreOffice blasts OnlyOffice for working with Microsoft to lock users in",
-      "https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-02-20, 15:27:38",
-      "https://news.ycombinator.com/item?id=47089213"
-    ],
-    [
-      "Trump's global tariffs struck down by US Supreme Court",
-      "https://www.bbc.com/news/live/c0l9r67drg7t"
-    ]
-  ],
-  [
-    [
       "2026-02-20, 13:51:04",
       "https://news.ycombinator.com/item?id=47088037"
     ],
@@ -297,6 +287,16 @@
     [
       "Gitas – A tool for Git account switching",
       "https://github.com/letmutex/gitas"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 06:43:42",
+      "https://news.ycombinator.com/item?id=47044413"
+    ],
+    [
+      "JWasm: Masm Compatible Assembler",
+      "https://github.com/Baron-von-Riedesel/JWasm"
     ]
   ]
 ]
