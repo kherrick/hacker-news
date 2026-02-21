@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-20, 23:35:33",
+      "https://news.ycombinator.com/item?id=47095597"
+    ],
+    [
+      "Be Wary of Bluesky",
+      "https://kevinak.se/blog/be-wary-of-bluesky"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 23:35:15",
+      "https://news.ycombinator.com/item?id=47095592"
+    ],
+    [
+      "Lexega Turns SQL into Signals",
+      "https://lexega.com/blog/how-lexega-turns-sql-into-signals"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 23:19:12",
       "https://news.ycombinator.com/item?id=47095429"
     ],
@@ -21,22 +41,12 @@
   ],
   [
     [
-      "2026-02-20, 22:47:58",
-      "https://news.ycombinator.com/item?id=47095105"
+      "2026-02-20, 22:27:56",
+      "https://news.ycombinator.com/item?id=47094877"
     ],
     [
-      "A16Z partner says that the theory that we'll vibe code everything is ' wrong'",
-      "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 22:03:00",
-      "https://news.ycombinator.com/item?id=47094637"
-    ],
-    [
-      "I hate AI side projects",
-      "https://dylancastillo.co/posts/ai-side-projects.html"
+      "Don't create .gitkeep files, use .gitignore instead",
+      "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Show HN: Mines.fyi – all the mines in the US in a leaflet visualization",
       "https://mines.fyi/"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 21:05:44",
-      "https://news.ycombinator.com/item?id=47093953"
-    ],
-    [
-      "Phil Spencer is exiting Microsoft as AI executive takes over Xbox",
-      "https://www.neowin.net/news/phil-spencer-is-exiting-microsoft-as-ai-executive-takes-over-xbox/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-02-20, 13:22:32",
-      "https://news.ycombinator.com/item?id=47087719"
-    ],
-    [
-      "PayPal discloses data breach that exposed user info for 6 months",
-      "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/"
-    ]
-  ],
-  [
-    [
       "2026-02-20, 10:32:52",
       "https://news.ycombinator.com/item?id=47086181"
     ],
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2026-02-19, 11:52:49",
-      "https://news.ycombinator.com/item?id=47072849"
-    ],
-    [
-      "The Popper Principle",
-      "https://theamericanscholar.org/the-popper-principle/"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 00:01:40",
       "https://news.ycombinator.com/item?id=47055261"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2026-02-17, 11:47:52",
+      "https://news.ycombinator.com/item?id=47046486"
+    ],
+    [
+      "A chatbot's worst enemy is page refresh",
+      "https://zknill.io/posts/chatbots-worst-enemy-is-page-refresh/"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 07:34:57",
       "https://news.ycombinator.com/item?id=47044700"
     ],
     [
       "How to Review an AUR Package",
       "https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 17:15:27",
+      "https://news.ycombinator.com/item?id=47037568"
+    ],
+    [
+      "Building a model that visualizes strategic golf",
+      "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half"
     ]
   ],
   [
