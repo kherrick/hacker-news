@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2026-02-21, 21:35:33",
-      "https://news.ycombinator.com/item?id=47105052"
+      "2026-02-21, 21:40:13",
+      "https://news.ycombinator.com/item?id=47105087"
     ],
     [
-      "Password managers less secure than promised",
-      "https://ethz.ch/en/news-and-events/eth-news/news/2026/02/password-managers-less-secure-than-promised.html"
+      "Happy Zelda's 40th first LLM running on N64 hardware (4MB RAM, 93MHz)",
+      "https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya"
     ]
   ],
   [
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=47104973"
     ],
     [
-      "When Code is Free, Why is Claude is an Electron app?",
+      "Why is Claude an Electron App?",
       "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html"
     ]
   ],
@@ -37,16 +37,6 @@
     [
       "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
       "https://github.com/xaskasdf/ntransformer"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 20:50:46",
-      "https://news.ycombinator.com/item?id=47104613"
-    ],
-    [
-      "Online Pebble Development",
-      "https://cloudpebble.repebble.com/"
     ]
   ],
   [
@@ -241,22 +231,22 @@
   ],
   [
     [
-      "2026-02-20, 21:45:31",
-      "https://news.ycombinator.com/item?id=47094429"
-    ],
-    [
-      "Loon: A functional lang with invisible types, safe ownership, and alg. effects",
-      "https://loonlang.com"
-    ]
-  ],
-  [
-    [
       "2026-02-20, 18:11:02",
       "https://news.ycombinator.com/item?id=47091557"
     ],
     [
       "Uncovering insiders and alpha on Polymarket with AI",
       "https://twitter.com/peterjliu/status/2024901585806225723"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 17:58:51",
+      "https://news.ycombinator.com/item?id=47091419"
+    ],
+    [
+      "Keep Android Open",
+      "https://f-droid.org/2026/02/20/twif.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Permacomputing",
       "https://wiki.xxiivv.com/site/permacomputing.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 01:57:40",
+      "https://news.ycombinator.com/item?id=47042779"
+    ],
+    [
+      "Finding forall-exists Hyperbugs using Symbolic Execution",
+      "https://dl.acm.org/doi/full/10.1145/3689761"
     ]
   ]
 ]
