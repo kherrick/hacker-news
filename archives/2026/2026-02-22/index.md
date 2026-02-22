@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-22](index.md)
 
+* [2026-02-22, 17:03:21](https://news.ycombinator.com/item?id=47112633) - [Altman on AI energy: it also takes 20 years of eating food to train a human](https://old.reddit.com/r/singularity/comments/1rb2pzf/sam_altman_people_talk_about_how_much_energy_it/)
 * [2026-02-22, 16:39:48](https://news.ycombinator.com/item?id=47112440) - [AI System – Is It Your \"Cognitive Exoskeleton\" or Simply Your Super-Fast Intern?](https://news.ycombinator.com/item?id=47112440)
 * [2026-02-22, 16:21:07](https://news.ycombinator.com/item?id=47112252) - [Fungicide vinclozin causes disease via germline for 20 generations in rats](https://pnas.org/doi/10.1073/pnas.2523071123)
 * [2026-02-22, 16:12:31](https://news.ycombinator.com/item?id=47112174) - [Fix Your Tools](https://ochagavia.nl/blog/fix-your-tools/)
