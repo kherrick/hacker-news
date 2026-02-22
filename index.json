@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-22, 21:06:17",
+      "https://news.ycombinator.com/item?id=47114672"
+    ],
+    [
+      "Music Discovery",
+      "https://www.secondtrack.co/"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 20:56:18",
       "https://news.ycombinator.com/item?id=47114579"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2026-02-22, 20:17:12",
-      "https://news.ycombinator.com/item?id=47114235"
+      "2026-02-22, 19:52:52",
+      "https://news.ycombinator.com/item?id=47114043"
     ],
     [
-      "Spain has blocked access to freedom.gov",
-      "https://twitter.com/Pirat_Nation/status/2025643188321714642"
+      "'Peanut butter' pay raises could cost companies their top performers",
+      "https://www.cnbc.com/2026/02/22/peanut-butter-pay-raises-could-cost-companies-their-top-performers-according-to-experts-its-such-a-shortsighted-strategy.html"
     ]
   ],
   [
@@ -57,6 +67,16 @@
     [
       "Symplex, an open-source protocol semantic negotiation between distributed agents",
       "https://github.com/olserra/symplex"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 19:19:31",
+      "https://news.ycombinator.com/item?id=47113782"
+    ],
+    [
+      "Black-White Array: fast, ordered and based on with O(log N) memory allocations",
+      "https://github.com/dronnix/bwarr"
     ]
   ],
   [
@@ -237,26 +257,6 @@
     [
       "What's the best way to learn a new language?",
       "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 19:07:20",
-      "https://news.ycombinator.com/item?id=47103661"
-    ],
-    [
-      "How Taalas “prints” LLM onto a chip?",
-      "https://www.anuragk.com/blog/posts/Taalas.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 00:44:28",
-      "https://news.ycombinator.com/item?id=47096167"
-    ],
-    [
-      "Gamedate – A site to revive dead multiplayer games",
-      "https://gamedate.org/"
     ]
   ],
   [
