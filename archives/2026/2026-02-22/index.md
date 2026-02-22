@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-22](index.md)
 
+* [2026-02-22, 23:17:41](https://news.ycombinator.com/item?id=47115899) - [Zuckerberg's \"Fix\" for Child Safety Could End Anonymous Internet Access for All](https://reclaimthenet.org/zuckerberg-instagram-age-verification-trial)
 * [2026-02-22, 22:42:16](https://news.ycombinator.com/item?id=47115575) - [Using New Bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
 * [2026-02-22, 21:41:27](https://news.ycombinator.com/item?id=47115009) - [Algolia Hacker News Search GitHub Project Archived](https://github.com/algolia/hn-search)
 * [2026-02-22, 21:22:39](https://news.ycombinator.com/item?id=47114830) - [Dental Disease May Undermine Elite Athletic Performance](https://www.medscape.com/viewarticle/dental-disease-performance-risk-2026a10005ea)
@@ -12,6 +13,7 @@
 * [2026-02-22, 20:50:23](https://news.ycombinator.com/item?id=47114530) - [Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable](https://cia-factbook-archive.fly.dev/)
 * [2026-02-22, 20:38:55](https://news.ycombinator.com/item?id=47114412) - [In World Without BlackBerry, Physical Keyboards on Phones Are Making a Comeback](https://www.cnet.com/tech/mobile/in-a-world-without-blackberry-physical-keyboards-on-phones-are-making-a-comeback/)
 * [2026-02-22, 20:17:12](https://news.ycombinator.com/item?id=47114235) - [Spain has blocked access to freedom.gov](https://twitter.com/Pirat_Nation/status/2025643188321714642)
+* [2026-02-22, 19:54:14](https://news.ycombinator.com/item?id=47114054) - [The Tears of Donald Knuth](https://cacm.acm.org/opinion/the-tears-of-donald-knuth/)
 * [2026-02-22, 19:52:52](https://news.ycombinator.com/item?id=47114043) - ['Peanut butter' pay raises could cost companies their top performers](https://www.cnbc.com/2026/02/22/peanut-butter-pay-raises-could-cost-companies-their-top-performers-according-to-experts-its-such-a-shortsighted-strategy.html)
 * [2026-02-22, 19:49:26](https://news.ycombinator.com/item?id=47114014) - [The Geometry of Tostitos Scoops](https://chip-tech-rob.zocomputer.io/)
 * [2026-02-22, 19:33:22](https://news.ycombinator.com/item?id=47113892) - [Factory-built housing hasn't taken off in California](https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different)
