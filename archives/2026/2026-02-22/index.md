@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-02-22](index.md)
 
+* [2026-02-22, 20:56:18](https://news.ycombinator.com/item?id=47114579) - [Global Intelligence Crisis](https://www.citriniresearch.com/p/2028gic)
+* [2026-02-22, 20:38:55](https://news.ycombinator.com/item?id=47114412) - [In World Without BlackBerry, Physical Keyboards on Phones Are Making a Comeback](https://www.cnet.com/tech/mobile/in-a-world-without-blackberry-physical-keyboards-on-phones-are-making-a-comeback/)
 * [2026-02-22, 20:17:12](https://news.ycombinator.com/item?id=47114235) - [Spain has blocked access to freedom.gov](https://twitter.com/Pirat_Nation/status/2025643188321714642)
 * [2026-02-22, 19:52:52](https://news.ycombinator.com/item?id=47114043) - ['Peanut butter' pay raises could cost companies their top performers](https://www.cnbc.com/2026/02/22/peanut-butter-pay-raises-could-cost-companies-their-top-performers-according-to-experts-its-such-a-shortsighted-strategy.html)
 * [2026-02-22, 19:33:22](https://news.ycombinator.com/item?id=47113892) - [Factory-built housing hasn't taken off in California](https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different)
 * [2026-02-22, 19:32:37](https://news.ycombinator.com/item?id=47113883) - [Green lumber fallacy in software engineering (2022)](https://www.chrisbehan.ca/posts/green-lumber-fallacy-in-software)
 * [2026-02-22, 19:25:19](https://news.ycombinator.com/item?id=47113817) - [America's most partisan voters hold the most voting power](https://www.npr.org/2026/02/22/nx-s1-5707254/power-trump-congress-house-representatives-voters-control)
+* [2026-02-22, 19:21:21](https://news.ycombinator.com/item?id=47113796) - [Six Math Essentials](https://terrytao.wordpress.com/2026/02/16/six-math-essentials/)
 * [2026-02-22, 19:20:59](https://news.ycombinator.com/item?id=47113793) - [Symplex, an open-source protocol semantic negotiation between distributed agents](https://github.com/olserra/symplex)
 * [2026-02-22, 19:18:03](https://news.ycombinator.com/item?id=47113769) - [An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia](https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070)
 * [2026-02-22, 19:12:50](https://news.ycombinator.com/item?id=47113731) - [NanoClaw Moved from Apple Containers to Docker](https://twitter.com/Gavriel_Cohen/status/2025603982769410356)
