@@ -65,6 +65,7 @@
 * [2026-02-19, 04:27:23](https://news.ycombinator.com/item?id=47069918) - [ReferenceFinder: Find coordinates on a piece of paper with only folds](https://mutsuntsai.github.io/reference-finder/)
 * [2026-02-19, 04:19:20](https://news.ycombinator.com/item?id=47069876) - [Show HN: A Lisp where each function call runs a Docker container](https://github.com/a11ce/docker-lisp)
 * [2026-02-19, 03:56:29](https://news.ycombinator.com/item?id=47069724) - [Ukranian controls Home Assistant over LoRa radio when their power grid goes down](https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/)
+* [2026-02-19, 03:50:09](https://news.ycombinator.com/item?id=47069682) - [The Biophysical World Inside a Jam-Packed Cell](https://www.quantamagazine.org/the-biophysical-world-inside-a-jam-packed-cell-20260218/)
 * [2026-02-19, 03:46:07](https://news.ycombinator.com/item?id=47069650) - [Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript](https://blackboard.sh/blog/electrobun-v1/)
 * [2026-02-19, 02:52:26](https://news.ycombinator.com/item?id=47069299) - [Anthropic officially bans using subscription auth for third party use](https://code.claude.com/docs/en/legal-and-compliance)
 * [2026-02-19, 02:32:00](https://news.ycombinator.com/item?id=47069179) - [Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act](https://static.stepfun.com/blog/step-3.5-flash/)
