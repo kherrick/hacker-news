@@ -35,6 +35,7 @@
 * [2026-02-19, 15:30:42](https://news.ycombinator.com/item?id=47074869) - [Dinosaur Food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
 * [2026-02-19, 15:19:57](https://news.ycombinator.com/item?id=47074735) - [Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
 * [2026-02-19, 15:19:57](https://news.ycombinator.com/item?id=47074735) - [Gemini 3.1 Pro Preview](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-3.1-pro-preview?pli=1)
+* [2026-02-19, 15:14:18](https://news.ycombinator.com/item?id=47074671) - [How I launched 3 consoles and found true love at Babbage's store no. 9 (2013)](https://arstechnica.com/gadgets/2013/01/how-i-launched-3-consoles-and-found-true-love-at-babbages-store-no-9/)
 * [2026-02-19, 14:52:18](https://news.ycombinator.com/item?id=47074389) - [America vs. Singapore: You Can't Save Your Way Out of Economic Shocks](https://www.governance.fyi/p/america-vs-singapore-you-cant-save)
 * [2026-02-19, 14:26:20](https://news.ycombinator.com/item?id=47074083) - [Against Theory-Motivated Experimentation](https://journals.sagepub.com/doi/10.1177/26339137261421577)
 * [2026-02-19, 14:14:14](https://news.ycombinator.com/item?id=47073947) - [Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy)
