@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-22](index.md)
 
+* [2026-02-22, 03:24:22](https://news.ycombinator.com/item?id=47107819) - [People Loved the Dot-Com Boom. The A.I. Boom, Not So Much](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)
 * [2026-02-22, 03:18:36](https://news.ycombinator.com/item?id=47107781) - [Japanese Woodblock Print Search](https://ukiyo-e.org/)
 * [2026-02-22, 02:29:06](https://news.ycombinator.com/item?id=47107512) - [Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive](https://github.com/Leading-AI-IO/palantir-ontology-strategy)
 * [2026-02-22, 01:15:38](https://news.ycombinator.com/item?id=47107039) - [The Internet Is Becoming a Dark Forest – and AI Is the Hunter](https://opennhp.org/blog/the-internet-is-becoming-a-dark-forest.html)

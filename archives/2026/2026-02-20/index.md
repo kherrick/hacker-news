@@ -35,6 +35,7 @@
 * [2026-02-20, 15:44:55](https://news.ycombinator.com/item?id=47089469) - [The Gay Tech Mafia](https://www.wired.com/story/inside-the-gay-tech-mafia/)
 * [2026-02-20, 15:27:38](https://news.ycombinator.com/item?id=47089213) - [Trump's global tariffs struck down by US Supreme Court](https://www.bbc.com/news/live/c0l9r67drg7t)
 * [2026-02-20, 14:48:34](https://news.ycombinator.com/item?id=47088685) - [Child's Play: Tech's new generation and the end of thinking](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/)
+* [2026-02-20, 14:14:33](https://news.ycombinator.com/item?id=47088307) - [“Playmakers,” reviewed: The race to give every child a toy](https://www.newyorker.com/magazine/2026/02/16/playmakers-the-jewish-entrepreneurs-who-created-the-toy-industry-in-america-michael-kimmel-book-review)
 * [2026-02-20, 14:03:06](https://news.ycombinator.com/item?id=47088181) - [I found a useful Git one liner buried in leaked CIA developer docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html)
 * [2026-02-20, 14:02:05](https://news.ycombinator.com/item?id=47088166) - [Show HN: A native macOS client for Hacker News, built with SwiftUI](https://github.com/IronsideXXVI/Hacker-News)
 * [2026-02-20, 13:51:04](https://news.ycombinator.com/item?id=47088037) - [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759)
