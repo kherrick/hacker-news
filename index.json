@@ -1,26 +1,6 @@
 [
   [
     [
-      "2026-02-22, 16:39:48",
-      "https://news.ycombinator.com/item?id=47112440"
-    ],
-    [
-      "AI System – Is It Your \"Cognitive Exoskeleton\" or Simply Your Super-Fast Intern?",
-      "https://news.ycombinator.com/item?id=47112440"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 16:21:07",
-      "https://news.ycombinator.com/item?id=47112252"
-    ],
-    [
-      "Fungicide vinclozin causes disease via germline for 20 generations in rats",
-      "https://pnas.org/doi/10.1073/pnas.2523071123"
-    ]
-  ],
-  [
-    [
       "2026-02-22, 16:12:31",
       "https://news.ycombinator.com/item?id=47112174"
     ],
@@ -71,12 +51,32 @@
   ],
   [
     [
+      "2026-02-22, 14:21:35",
+      "https://news.ycombinator.com/item?id=47111218"
+    ],
+    [
+      "Git's Magic Files",
+      "https://nesbitt.io/2026/02/05/git-magic-files.html"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 13:59:40",
       "https://news.ycombinator.com/item?id=47111067"
     ],
     [
       "Iran students stage first large anti-government protests since deadly crackdown",
       "https://www.bbc.com/news/articles/c5yj2kzkrj0o"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 13:44:27",
+      "https://news.ycombinator.com/item?id=47110946"
+    ],
+    [
+      "Show HN: TLA+ Workbench skill for coding agents (compat. with Vercel skills CLI)",
+      "https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Attention Media ≠ Social Networks",
       "https://susam.net/attention-media-vs-social-networks.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 12:34:00",
-      "https://news.ycombinator.com/item?id=47110495"
-    ],
-    [
-      "Minions: Stripe's one-shot, end-to-end coding agents – Stripe Dot Dev Blog",
-      "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "How Taalas “prints” LLM onto a chip?",
       "https://www.anuragk.com/blog/posts/Taalas.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 14:32:16",
+      "https://news.ycombinator.com/item?id=47101171"
+    ],
+    [
+      "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+      "https://www.koreaherald.com/article/10679206"
     ]
   ],
   [
