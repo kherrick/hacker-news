@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-22](index.md)
 
+* [2026-02-22, 21:22:39](https://news.ycombinator.com/item?id=47114830) - [Dental Disease May Undermine Elite Athletic Performance](https://www.medscape.com/viewarticle/dental-disease-performance-risk-2026a10005ea)
 * [2026-02-22, 21:06:17](https://news.ycombinator.com/item?id=47114672) - [Music Discovery](https://www.secondtrack.co/)
 * [2026-02-22, 20:56:18](https://news.ycombinator.com/item?id=47114579) - [Global Intelligence Crisis](https://www.citriniresearch.com/p/2028gic)
 * [2026-02-22, 20:38:55](https://news.ycombinator.com/item?id=47114412) - [In World Without BlackBerry, Physical Keyboards on Phones Are Making a Comeback](https://www.cnet.com/tech/mobile/in-a-world-without-blackberry-physical-keyboards-on-phones-are-making-a-comeback/)
