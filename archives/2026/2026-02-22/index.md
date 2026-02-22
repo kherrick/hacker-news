@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-22](index.md)
 
+* [2026-02-22, 14:50:44](https://news.ycombinator.com/item?id=47111440) - [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/)
+* [2026-02-22, 14:44:42](https://news.ycombinator.com/item?id=47111400) - [Man accidentally gains control of 7k robot vacuums](https://www.popsci.com/technology/robot-vacuum-army/)
+* [2026-02-22, 13:59:40](https://news.ycombinator.com/item?id=47111067) - [Iran students stage first large anti-government protests since deadly crackdown](https://www.bbc.com/news/articles/c5yj2kzkrj0o)
+* [2026-02-22, 13:57:18](https://news.ycombinator.com/item?id=47111042) - [I put New Zealand behind a $1 paywall](https://rename.world/)
 * [2026-02-22, 13:41:45](https://news.ycombinator.com/item?id=47110927) - [New York Just Killed Its Robotaxi Plan. The Real Problem Isn't the Technology](https://www.phyware.io/blog/ny-robotaxi-trust-gap)
 * [2026-02-22, 13:20:07](https://news.ycombinator.com/item?id=47110781) - [Volatility: The volatile memory forensic extraction framework](https://github.com/volatilityfoundation/volatility3)
 * [2026-02-22, 12:41:37](https://news.ycombinator.com/item?id=47110549) - [The Dance Floor Is Disappearing in a Sea of Phones](https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture)
