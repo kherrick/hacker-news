@@ -13,6 +13,7 @@
 * [2026-02-22, 19:18:03](https://news.ycombinator.com/item?id=47113769) - [An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia](https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070)
 * [2026-02-22, 19:12:50](https://news.ycombinator.com/item?id=47113731) - [NanoClaw Moved from Apple Containers to Docker](https://twitter.com/Gavriel_Cohen/status/2025603982769410356)
 * [2026-02-22, 19:12:31](https://news.ycombinator.com/item?id=47113728) - [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
+* [2026-02-22, 18:56:40](https://news.ycombinator.com/item?id=47113618) - [Loops is a federated, open-source TikTok](https://joinloops.org/)
 * [2026-02-22, 18:50:14](https://news.ycombinator.com/item?id=47113567) - [Show HN: Local-First Linux MicroVMs for macOS](https://shuru.run)
 * [2026-02-22, 18:45:56](https://news.ycombinator.com/item?id=47113527) - [Linuxulator on FreeBSD Feels Like Magic](https://hayzam.com/blog/02-linuxulator-is-awesome/)
 * [2026-02-22, 18:20:31](https://news.ycombinator.com/item?id=47113325) - [Fresh File Explorer – VS Code extension for navigating recent work](https://github.com/FreHu/vscode-fresh-file-explorer)

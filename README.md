@@ -7,6 +7,7 @@
 * [2026-02-22, 19:18:03](https://news.ycombinator.com/item?id=47113769) - [An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia](https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070)
 * [2026-02-22, 19:12:50](https://news.ycombinator.com/item?id=47113731) - [NanoClaw Moved from Apple Containers to Docker](https://twitter.com/Gavriel_Cohen/status/2025603982769410356)
 * [2026-02-22, 19:12:31](https://news.ycombinator.com/item?id=47113728) - [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
+* [2026-02-22, 18:56:40](https://news.ycombinator.com/item?id=47113618) - [Loops is a federated, open-source TikTok](https://joinloops.org/)
 * [2026-02-22, 18:50:14](https://news.ycombinator.com/item?id=47113567) - [Show HN: Local-First Linux MicroVMs for macOS](https://shuru.run)
 * [2026-02-22, 18:45:56](https://news.ycombinator.com/item?id=47113527) - [Linuxulator on FreeBSD Feels Like Magic](https://hayzam.com/blog/02-linuxulator-is-awesome/)
 * [2026-02-22, 18:20:31](https://news.ycombinator.com/item?id=47113325) - [Fresh File Explorer – VS Code extension for navigating recent work](https://github.com/FreHu/vscode-fresh-file-explorer)
@@ -22,14 +23,13 @@
 * [2026-02-22, 12:28:41](https://news.ycombinator.com/item?id=47110473) - [What is a database transaction?](https://planetscale.com/blog/database-transactions)
 * [2026-02-22, 07:16:27](https://news.ycombinator.com/item?id=47108989) - [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
 * [2026-02-22, 07:14:22](https://news.ycombinator.com/item?id=47108977) - [What's the best way to learn a new language?](https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language)
-* [2026-02-22, 03:18:36](https://news.ycombinator.com/item?id=47107781) - [Japanese Woodblock Print Search](https://ukiyo-e.org/)
-* [2026-02-22, 00:29:05](https://news.ycombinator.com/item?id=47106686) - [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
 * [2026-02-21, 20:57:30](https://news.ycombinator.com/item?id=47104667) - [Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer)
 * [2026-02-21, 19:07:20](https://news.ycombinator.com/item?id=47103661) - [How Taalas “prints” LLM onto a chip?](https://www.anuragk.com/blog/posts/Taalas.html)
 * [2026-02-21, 00:44:28](https://news.ycombinator.com/item?id=47096167) - [Gamedate – A site to revive dead multiplayer games](https://gamedate.org/)
 * [2026-02-19, 14:43:25](https://news.ycombinator.com/item?id=47074287) - [International box-sizing Awareness Day (2014)](https://css-tricks.com/international-box-sizing-awareness-day/)
 * [2026-02-18, 10:29:08](https://news.ycombinator.com/item?id=47059516) - [Monkey Patching in VBA](https://ecp-solutions.github.io/ASF/Language%20reference.html)
 * [2026-02-17, 12:10:45](https://news.ycombinator.com/item?id=47046647) - [Show HN: Data Studio – Open-Source Data Notebooks](https://github.com/dataspren-analytics/data-studio)
+* [2026-02-17, 11:40:14](https://news.ycombinator.com/item?id=47046433) - [Write-Only Code](https://www.heavybit.com/library/article/write-only-code)
 
 ## [Archives](archives/index.md)
 

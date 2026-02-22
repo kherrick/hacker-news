@@ -71,6 +71,7 @@
 * [2026-02-17, 12:10:45](https://news.ycombinator.com/item?id=47046647) - [Show HN: Data Studio – Open-Source Data Notebooks](https://github.com/dataspren-analytics/data-studio)
 * [2026-02-17, 12:06:11](https://news.ycombinator.com/item?id=47046612) - [William Latham – Art and the Computer (1990)](https://www.youtube.com/watch?v=OwL3dsFBxpE)
 * [2026-02-17, 11:47:52](https://news.ycombinator.com/item?id=47046486) - [A chatbot's worst enemy is page refresh](https://zknill.io/posts/chatbots-worst-enemy-is-page-refresh/)
+* [2026-02-17, 11:40:14](https://news.ycombinator.com/item?id=47046433) - [Write-Only Code](https://www.heavybit.com/library/article/write-only-code)
 * [2026-02-17, 11:01:09](https://news.ycombinator.com/item?id=47046070) - [Two Bits Are Better Than One: making bloom filters 2x more accurate](https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate)
 * [2026-02-17, 10:52:17](https://news.ycombinator.com/item?id=47045982) - [The Rev. Jesse Jackson, pioneering civil rights activist, dies at 84](https://www.cnn.com/2026/02/17/us/reverend-jesse-jackson-death)
 * [2026-02-17, 10:44:53](https://news.ycombinator.com/item?id=47045925) - [Fast Sorting, Branchless by Design](https://00f.net/2026/02/17/sorting-without-leaking-secrets/)
