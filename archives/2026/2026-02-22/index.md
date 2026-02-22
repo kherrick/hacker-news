@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-22](index.md)
 
+* [2026-02-22, 19:25:19](https://news.ycombinator.com/item?id=47113817) - [America's most partisan voters hold the most voting power](https://www.npr.org/2026/02/22/nx-s1-5707254/power-trump-congress-house-representatives-voters-control)
+* [2026-02-22, 19:12:50](https://news.ycombinator.com/item?id=47113731) - [NanoClaw Moved from Apple Containers to Docker](https://twitter.com/Gavriel_Cohen/status/2025603982769410356)
 * [2026-02-22, 18:45:56](https://news.ycombinator.com/item?id=47113527) - [Linuxulator on FreeBSD Feels Like Magic](https://hayzam.com/blog/02-linuxulator-is-awesome/)
 * [2026-02-22, 18:20:31](https://news.ycombinator.com/item?id=47113325) - [Fresh File Explorer – VS Code extension for navigating recent work](https://github.com/FreHu/vscode-fresh-file-explorer)
+* [2026-02-22, 17:39:50](https://news.ycombinator.com/item?id=47112925) - [Hello Worg, the Org-Mode Community](https://orgmode.org/worg/)
 * [2026-02-22, 17:03:21](https://news.ycombinator.com/item?id=47112633) - [Altman on AI energy: it also takes 20 years of eating food to train a human](https://old.reddit.com/r/singularity/comments/1rb2pzf/sam_altman_people_talk_about_how_much_energy_it/)
 * [2026-02-22, 16:39:48](https://news.ycombinator.com/item?id=47112440) - [AI System – Is It Your \"Cognitive Exoskeleton\" or Simply Your Super-Fast Intern?](https://news.ycombinator.com/item?id=47112440)
 * [2026-02-22, 16:21:07](https://news.ycombinator.com/item?id=47112252) - [Fungicide vinclozin causes disease via germline for 20 generations in rats](https://pnas.org/doi/10.1073/pnas.2523071123)
