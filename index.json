@@ -1,22 +1,52 @@
 [
   [
     [
+      "2026-02-22, 03:18:36",
+      "https://news.ycombinator.com/item?id=47107781"
+    ],
+    [
+      "Japanese Woodblock Print Search",
+      "https://ukiyo-e.org/"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 02:29:06",
+      "https://news.ycombinator.com/item?id=47107512"
+    ],
+    [
+      "Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive",
+      "https://github.com/Leading-AI-IO/palantir-ontology-strategy"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 01:15:38",
+      "https://news.ycombinator.com/item?id=47107039"
+    ],
+    [
+      "The Internet Is Becoming a Dark Forest – and AI Is the Hunter",
+      "https://opennhp.org/blog/the-internet-is-becoming-a-dark-forest.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 01:08:17",
+      "https://news.ycombinator.com/item?id=47106985"
+    ],
+    [
+      "A Botnet Accidentally Destroyed I2P",
+      "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 00:29:05",
       "https://news.ycombinator.com/item?id=47106686"
     ],
     [
       "How I use Claude Code: Separation of planning and execution",
       "https://boristane.com/blog/how-i-use-claude-code/"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 00:21:05",
-      "https://news.ycombinator.com/item?id=47106626"
-    ],
-    [
-      "Are compilers deterministic?",
-      "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/"
     ]
   ],
   [
@@ -31,42 +61,12 @@
   ],
   [
     [
-      "2026-02-21, 21:28:13",
-      "https://news.ycombinator.com/item?id=47104973"
-    ],
-    [
-      "Why is Claude an Electron app?",
-      "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html"
-    ]
-  ],
-  [
-    [
       "2026-02-21, 20:57:30",
       "https://news.ycombinator.com/item?id=47104667"
     ],
     [
       "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
       "https://github.com/xaskasdf/ntransformer"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 20:50:46",
-      "https://news.ycombinator.com/item?id=47104613"
-    ],
-    [
-      "Online Pebble Development",
-      "https://cloudpebble.repebble.com/"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 20:14:00",
-      "https://news.ycombinator.com/item?id=47104223"
-    ],
-    [
-      "MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatib",
-      "https://github.com/datapartyjs/MeshTNC"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Parse, Don't Validate and Type-Driven Design in Rust",
       "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 19:05:31",
-      "https://news.ycombinator.com/item?id=47103649"
-    ],
-    [
-      "Cloudflare outage on February 20, 2026",
-      "https://blog.cloudflare.com/cloudflare-outage-february-20-2026/"
     ]
   ],
   [
@@ -147,16 +137,6 @@
     [
       "What not to write on your security clearance form (1988)",
       "https://milk.com/wall-o-shame/security_clearance.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 15:52:20",
-      "https://news.ycombinator.com/item?id=47101890"
-    ],
-    [
-      "Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust",
-      "https://github.com/Ragnaroek/iron-wolf"
     ]
   ],
   [
@@ -225,7 +205,7 @@
       "https://news.ycombinator.com/item?id=47095105"
     ],
     [
-      "A16Z partner says that the theory that we'll vibe code everything is ' wrong'",
+      "A16z partner says that the theory that we’ll vibe code everything is wrong",
       "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html"
     ]
   ],
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2026-02-19, 09:23:53",
+      "https://news.ycombinator.com/item?id=47071770"
+    ],
+    [
+      "Forward propagation of errors through time",
+      "https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 14:56:58",
       "https://news.ycombinator.com/item?id=47061614"
     ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2026-02-17, 19:13:37",
+      "https://news.ycombinator.com/item?id=47051709"
+    ],
+    [
+      "Scientists discover recent tectonic activity on the moon",
+      "https://phys.org/news/2026-02-scientists-tectonic-moon.html"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 12:40:37",
       "https://news.ycombinator.com/item?id=47046858"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-02-17, 09:03:12",
-      "https://news.ycombinator.com/item?id=47045246"
+      "2026-02-17, 11:01:09",
+      "https://news.ycombinator.com/item?id=47046070"
     ],
     [
-      "Declarative, Inquisitive, then Imperative (2017) [pdf]",
-      "https://www.forth.org/svfig/kk/11-2017-Falvo.pdf"
+      "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+      "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate"
     ]
   ],
   [
