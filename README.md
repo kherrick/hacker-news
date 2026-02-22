@@ -1,17 +1,18 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-22, 23:32:43](https://news.ycombinator.com/item?id=47116026) - [Show HN: Warn Firehose – Every US layoff notice in one searchable database](https://warnfirehose.com)
 * [2026-02-22, 23:17:41](https://news.ycombinator.com/item?id=47115899) - [Zuckerberg's \"Fix\" for Child Safety Could End Anonymous Internet Access for All](https://reclaimthenet.org/zuckerberg-instagram-age-verification-trial)
+* [2026-02-22, 23:07:55](https://news.ycombinator.com/item?id=47115805) - [Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 * [2026-02-22, 22:42:16](https://news.ycombinator.com/item?id=47115575) - [Using New Bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
 * [2026-02-22, 21:41:27](https://news.ycombinator.com/item?id=47115009) - [Algolia Hacker News Search GitHub Project Archived](https://github.com/algolia/hn-search)
+* [2026-02-22, 21:22:39](https://news.ycombinator.com/item?id=47114830) - [Dental Disease May Undermine Elite Athletic Performance](https://www.medscape.com/viewarticle/dental-disease-performance-risk-2026a10005ea)
 * [2026-02-22, 21:06:17](https://news.ycombinator.com/item?id=47114672) - [Music Discovery](https://www.secondtrack.co/)
-* [2026-02-22, 20:56:18](https://news.ycombinator.com/item?id=47114579) - [Global Intelligence Crisis](https://www.citriniresearch.com/p/2028gic)
 * [2026-02-22, 20:50:23](https://news.ycombinator.com/item?id=47114530) - [Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable](https://cia-factbook-archive.fly.dev/)
 * [2026-02-22, 20:38:55](https://news.ycombinator.com/item?id=47114412) - [In World Without BlackBerry, Physical Keyboards on Phones Are Making a Comeback](https://www.cnet.com/tech/mobile/in-a-world-without-blackberry-physical-keyboards-on-phones-are-making-a-comeback/)
 * [2026-02-22, 19:54:14](https://news.ycombinator.com/item?id=47114054) - [The Tears of Donald Knuth](https://cacm.acm.org/opinion/the-tears-of-donald-knuth/)
 * [2026-02-22, 19:49:26](https://news.ycombinator.com/item?id=47114014) - [The Geometry of Tostitos Scoops](https://chip-tech-rob.zocomputer.io/)
 * [2026-02-22, 19:21:21](https://news.ycombinator.com/item?id=47113796) - [Six Math Essentials](https://terrytao.wordpress.com/2026/02/16/six-math-essentials/)
 * [2026-02-22, 19:19:31](https://news.ycombinator.com/item?id=47113782) - [Black-White Array: fast, ordered and based on with O(log N) memory allocations](https://github.com/dronnix/bwarr)
-* [2026-02-22, 19:12:50](https://news.ycombinator.com/item?id=47113731) - [NanoClaw Moved from Apple Containers to Docker](https://twitter.com/Gavriel_Cohen/status/2025603982769410356)
 * [2026-02-22, 19:12:31](https://news.ycombinator.com/item?id=47113728) - [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
 * [2026-02-22, 18:56:40](https://news.ycombinator.com/item?id=47113618) - [Loops is a federated, open-source TikTok](https://joinloops.org/)
 * [2026-02-22, 18:50:14](https://news.ycombinator.com/item?id=47113567) - [Show HN: Local-First Linux MicroVMs for macOS](https://shuru.run)
@@ -29,7 +30,6 @@
 * [2026-02-22, 07:16:27](https://news.ycombinator.com/item?id=47108989) - [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
 * [2026-02-20, 16:14:56](https://news.ycombinator.com/item?id=47089933) - [Procedural Tron](https://www.tripgeo.com/huntforredoctangles)
 * [2026-02-19, 14:45:55](https://news.ycombinator.com/item?id=47074321) - [Keybee: A Keyboard Designed for Smartphones](https://keybeekeyboard.com/)
-* [2026-02-18, 10:29:08](https://news.ycombinator.com/item?id=47059516) - [Monkey Patching in VBA](https://ecp-solutions.github.io/ASF/Language%20reference.html)
 
 ## [Archives](archives/index.md)
 

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-22](index.md)
 
+* [2026-02-22, 23:32:43](https://news.ycombinator.com/item?id=47116026) - [Show HN: Warn Firehose – Every US layoff notice in one searchable database](https://warnfirehose.com)
 * [2026-02-22, 23:17:41](https://news.ycombinator.com/item?id=47115899) - [Zuckerberg's \"Fix\" for Child Safety Could End Anonymous Internet Access for All](https://reclaimthenet.org/zuckerberg-instagram-age-verification-trial)
+* [2026-02-22, 23:07:55](https://news.ycombinator.com/item?id=47115805) - [Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 * [2026-02-22, 22:42:16](https://news.ycombinator.com/item?id=47115575) - [Using New Bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
 * [2026-02-22, 21:41:27](https://news.ycombinator.com/item?id=47115009) - [Algolia Hacker News Search GitHub Project Archived](https://github.com/algolia/hn-search)
 * [2026-02-22, 21:22:39](https://news.ycombinator.com/item?id=47114830) - [Dental Disease May Undermine Elite Athletic Performance](https://www.medscape.com/viewarticle/dental-disease-performance-risk-2026a10005ea)
