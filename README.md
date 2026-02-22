@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-22, 07:16:27](https://news.ycombinator.com/item?id=47108989) - [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
-* [2026-02-22, 07:14:22](https://news.ycombinator.com/item?id=47108977) - [What's the best way to learn a new language?](https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language)
 * [2026-02-22, 03:18:36](https://news.ycombinator.com/item?id=47107781) - [Japanese Woodblock Print Search](https://ukiyo-e.org/)
 * [2026-02-22, 01:08:17](https://news.ycombinator.com/item?id=47106985) - [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
 * [2026-02-22, 00:29:05](https://news.ycombinator.com/item?id=47106686) - [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
@@ -21,6 +20,7 @@
 * [2026-02-21, 00:56:29](https://news.ycombinator.com/item?id=47096253) - [Claws are now a new layer on top of LLM agents](https://twitter.com/karpathy/status/2024987174077432126)
 * [2026-02-21, 00:44:28](https://news.ycombinator.com/item?id=47096167) - [Gamedate – A site to revive dead multiplayer games](https://gamedate.org/)
 * [2026-02-20, 22:47:58](https://news.ycombinator.com/item?id=47095105) - [A16z partner says that the theory that we’ll vibe code everything is wrong](https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html)
+* [2026-02-20, 22:27:56](https://news.ycombinator.com/item?id=47094877) - [Don't create .gitkeep files, use .gitignore instead (2023)](https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/)
 * [2026-02-20, 17:58:51](https://news.ycombinator.com/item?id=47091419) - [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
 * [2026-02-19, 15:14:18](https://news.ycombinator.com/item?id=47074671) - [How I launched 3 consoles and found true love at Babbage's store no. 9 (2013)](https://arstechnica.com/gadgets/2013/01/how-i-launched-3-consoles-and-found-true-love-at-babbages-store-no-9/)
 * [2026-02-18, 14:56:58](https://news.ycombinator.com/item?id=47061614) - [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english)
