@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-22, 18:45:56](https://news.ycombinator.com/item?id=47113527) - [Linuxulator on FreeBSD Feels Like Magic](https://hayzam.com/blog/02-linuxulator-is-awesome/)
 * [2026-02-22, 18:20:31](https://news.ycombinator.com/item?id=47113325) - [Fresh File Explorer – VS Code extension for navigating recent work](https://github.com/FreHu/vscode-fresh-file-explorer)
 * [2026-02-22, 16:12:31](https://news.ycombinator.com/item?id=47112174) - [Fix Your Tools](https://ochagavia.nl/blog/fix-your-tools/)
 * [2026-02-22, 15:53:02](https://news.ycombinator.com/item?id=47111981) - [Show HN: 3D Mahjong, Built in CSS](https://voxjong.com)
@@ -7,12 +8,12 @@
 * [2026-02-22, 14:50:44](https://news.ycombinator.com/item?id=47111440) - [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/)
 * [2026-02-22, 14:44:42](https://news.ycombinator.com/item?id=47111400) - [Man accidentally gains control of 7k robot vacuums](https://www.popsci.com/technology/robot-vacuum-army/)
 * [2026-02-22, 14:21:35](https://news.ycombinator.com/item?id=47111218) - [Git's Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)
-* [2026-02-22, 13:59:40](https://news.ycombinator.com/item?id=47111067) - [Iran students stage first large anti-government protests since deadly crackdown](https://www.bbc.com/news/articles/c5yj2kzkrj0o)
 * [2026-02-22, 13:44:27](https://news.ycombinator.com/item?id=47110946) - [Show HN: TLA+ Workbench skill for coding agents (compat. with Vercel skills CLI)](https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench)
 * [2026-02-22, 13:20:07](https://news.ycombinator.com/item?id=47110781) - [Volatility: The volatile memory forensic extraction framework](https://github.com/volatilityfoundation/volatility3)
 * [2026-02-22, 12:36:46](https://news.ycombinator.com/item?id=47110515) - [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html)
 * [2026-02-22, 12:28:41](https://news.ycombinator.com/item?id=47110473) - [What Is a Database Transaction?](https://planetscale.com/blog/database-transactions)
 * [2026-02-22, 07:16:27](https://news.ycombinator.com/item?id=47108989) - [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
+* [2026-02-22, 07:14:22](https://news.ycombinator.com/item?id=47108977) - [What's the best way to learn a new language?](https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language)
 * [2026-02-22, 03:18:36](https://news.ycombinator.com/item?id=47107781) - [Japanese Woodblock Print Search](https://ukiyo-e.org/)
 * [2026-02-22, 00:29:05](https://news.ycombinator.com/item?id=47106686) - [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
 * [2026-02-21, 21:51:58](https://news.ycombinator.com/item?id=47105198) - [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188)
@@ -28,7 +29,6 @@
 * [2026-02-19, 04:27:23](https://news.ycombinator.com/item?id=47069918) - [ReferenceFinder: Find coordinates on a piece of paper with only folds](https://mutsuntsai.github.io/reference-finder/)
 * [2026-02-18, 14:56:58](https://news.ycombinator.com/item?id=47061614) - [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english)
 * [2026-02-18, 10:29:08](https://news.ycombinator.com/item?id=47059516) - [Monkey Patching in VBA](https://ecp-solutions.github.io/ASF/Language%20reference.html)
-* [2026-02-17, 12:40:10](https://news.ycombinator.com/item?id=47046853) - [Unreal numbers](https://lcamtuf.substack.com/p/unreal-numbers)
 * [2026-02-17, 11:01:09](https://news.ycombinator.com/item?id=47046070) - [Two Bits Are Better Than One: making bloom filters 2x more accurate](https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate)
 
 ## [Archives](archives/index.md)
