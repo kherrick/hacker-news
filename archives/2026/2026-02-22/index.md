@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-22](index.md)
 
+* [2026-02-22, 07:16:27](https://news.ycombinator.com/item?id=47108989) - [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
 * [2026-02-22, 05:40:22](https://news.ycombinator.com/item?id=47108538) - [U.S. Cannot Legally Impose Tariffs Using Section 122 of the Trade Act of 1974](https://ielp.worldtradelaw.net/2026/01/guest-post-president-trump-cannot-legally-impose-tariffs-using-section-122-of-the-trade-act-of-1974/)
 * [2026-02-22, 04:45:06](https://news.ycombinator.com/item?id=47108256) - [Iranian Students Protest as Anger Grows](https://www.wsj.com/world/middle-east/iranian-students-protest-as-anger-grows-89a6a44e)
 * [2026-02-22, 03:24:22](https://news.ycombinator.com/item?id=47107819) - [People Loved the Dot-Com Boom. The A.I. Boom, Not So Much](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)
