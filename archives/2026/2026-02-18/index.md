@@ -53,6 +53,7 @@
 * [2026-02-18, 14:08:11](https://news.ycombinator.com/item?id=47061062) - [AVX2 is slower than SSE2-4.x under Windows ARM emulation](https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/)
 * [2026-02-18, 14:05:39](https://news.ycombinator.com/item?id=47061029) - [Show HN: CEL by Example](https://celbyexample.com/)
 * [2026-02-18, 14:04:04](https://news.ycombinator.com/item?id=47061013) - [Show HN: I built a fuse box for microservices](https://www.openfuse.io)
+* [2026-02-18, 13:44:11](https://news.ycombinator.com/item?id=47060852) - [Conway's Arcade](https://specialguestx.com/?s=project&p=conway/)
 * [2026-02-18, 13:00:11](https://news.ycombinator.com/item?id=47060486) - [Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony](https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/)
 * [2026-02-18, 12:57:30](https://news.ycombinator.com/item?id=47060469) - [macOS Tahoe 26.3 is Broken](https://taoofmac.com/space/blog/2026/02/18/1230)
 * [2026-02-18, 12:34:52](https://news.ycombinator.com/item?id=47060334) - [Carelessness versus Craftsmanship in Cryptography](https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/)
