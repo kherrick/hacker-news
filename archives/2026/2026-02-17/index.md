@@ -67,6 +67,7 @@
 * [2026-02-17, 12:57:38](https://news.ycombinator.com/item?id=47047010) - [FreeCAD](https://www.freecad.org/index.php)
 * [2026-02-17, 12:54:04](https://news.ycombinator.com/item?id=47046981) - [Visible Spectra of the Elements](https://atomic-spectra.net/)
 * [2026-02-17, 12:40:37](https://news.ycombinator.com/item?id=47046858) - [Permacomputing](https://wiki.xxiivv.com/site/permacomputing.html)
+* [2026-02-17, 12:40:10](https://news.ycombinator.com/item?id=47046853) - [Unreal Numbers](https://lcamtuf.substack.com/p/unreal-numbers)
 * [2026-02-17, 12:06:11](https://news.ycombinator.com/item?id=47046612) - [William Latham – Art and the Computer (1990)](https://www.youtube.com/watch?v=OwL3dsFBxpE)
 * [2026-02-17, 11:47:52](https://news.ycombinator.com/item?id=47046486) - [A chatbot's worst enemy is page refresh](https://zknill.io/posts/chatbots-worst-enemy-is-page-refresh/)
 * [2026-02-17, 11:01:09](https://news.ycombinator.com/item?id=47046070) - [Two Bits Are Better Than One: making bloom filters 2x more accurate](https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate)
