@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-22](index.md)
 
+* [2026-02-22, 13:41:45](https://news.ycombinator.com/item?id=47110927) - [New York Just Killed Its Robotaxi Plan. The Real Problem Isn't the Technology](https://www.phyware.io/blog/ny-robotaxi-trust-gap)
 * [2026-02-22, 13:20:07](https://news.ycombinator.com/item?id=47110781) - [Volatility: The volatile memory forensic extraction framework](https://github.com/volatilityfoundation/volatility3)
 * [2026-02-22, 12:41:37](https://news.ycombinator.com/item?id=47110549) - [The Dance Floor Is Disappearing in a Sea of Phones](https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture)
 * [2026-02-22, 12:36:46](https://news.ycombinator.com/item?id=47110515) - [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html)
