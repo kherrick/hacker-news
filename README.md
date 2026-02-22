@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-22, 05:40:22](https://news.ycombinator.com/item?id=47108538) - [U.S. Cannot Legally Impose Tariffs Using Section 122 of the Trade Act of 1974](https://ielp.worldtradelaw.net/2026/01/guest-post-president-trump-cannot-legally-impose-tariffs-using-section-122-of-the-trade-act-of-1974/)
 * [2026-02-22, 03:18:36](https://news.ycombinator.com/item?id=47107781) - [Japanese Woodblock Print Search](https://ukiyo-e.org/)
 * [2026-02-22, 01:08:17](https://news.ycombinator.com/item?id=47106985) - [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
 * [2026-02-22, 00:29:05](https://news.ycombinator.com/item?id=47106686) - [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
@@ -27,6 +26,7 @@
 * [2026-02-18, 14:56:58](https://news.ycombinator.com/item?id=47061614) - [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english)
 * [2026-02-18, 14:34:01](https://news.ycombinator.com/item?id=47061350) - [A New Perspective on Drawing Venn Diagrams for Data Visualization](https://arxiv.org/abs/2601.06980)
 * [2026-02-18, 12:34:52](https://news.ycombinator.com/item?id=47060334) - [Carelessness versus Craftsmanship in Cryptography](https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/)
+* [2026-02-18, 11:17:01](https://news.ycombinator.com/item?id=47059830) - [Wave Twisters (2001)](https://www.youtube.com/watch?v=cQVRTdRnQiQ)
 * [2026-02-17, 19:13:37](https://news.ycombinator.com/item?id=47051709) - [Scientists discover recent tectonic activity on the moon](https://phys.org/news/2026-02-scientists-tectonic-moon.html)
 * [2026-02-17, 11:01:09](https://news.ycombinator.com/item?id=47046070) - [Two Bits Are Better Than One: making bloom filters 2x more accurate](https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate)
 * [2026-02-17, 01:57:40](https://news.ycombinator.com/item?id=47042779) - [Finding forall-exists Hyperbugs using Symbolic Execution](https://dl.acm.org/doi/full/10.1145/3689761)
