@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-22, 16:39:48](https://news.ycombinator.com/item?id=47112440) - [AI System – Is It Your \"Cognitive Exoskeleton\" or Simply Your Super-Fast Intern?](https://news.ycombinator.com/item?id=47112440)
 * [2026-02-22, 16:21:07](https://news.ycombinator.com/item?id=47112252) - [Fungicide vinclozin causes disease via germline for 20 generations in rats](https://pnas.org/doi/10.1073/pnas.2523071123)
 * [2026-02-22, 16:12:31](https://news.ycombinator.com/item?id=47112174) - [Fix Your Tools](https://ochagavia.nl/blog/fix-your-tools/)
 * [2026-02-22, 15:53:02](https://news.ycombinator.com/item?id=47111981) - [Show HN: 3D Mahjong, Built in CSS](https://voxjong.com)
@@ -18,7 +19,6 @@
 * [2026-02-21, 20:57:30](https://news.ycombinator.com/item?id=47104667) - [Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer)
 * [2026-02-21, 19:40:06](https://news.ycombinator.com/item?id=47103931) - [Parse, Don't Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
 * [2026-02-21, 19:07:20](https://news.ycombinator.com/item?id=47103661) - [How Taalas “prints” LLM onto a chip?](https://www.anuragk.com/blog/posts/Taalas.html)
-* [2026-02-21, 14:32:16](https://news.ycombinator.com/item?id=47101171) - [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206)
 * [2026-02-21, 12:37:52](https://news.ycombinator.com/item?id=47100232) - [zclaw: personal AI assistant in under 888 KB, running on an ESP32](https://github.com/tnm/zclaw)
 * [2026-02-21, 12:32:06](https://news.ycombinator.com/item?id=47100190) - [The Four-Color Theorem 1852–1976](https://www.ams.org/journals/notices/202603/noti3305/noti3305.html)
 * [2026-02-21, 00:56:29](https://news.ycombinator.com/item?id=47096253) - [Claws are now a new layer on top of LLM agents](https://twitter.com/karpathy/status/2024987174077432126)
@@ -28,7 +28,7 @@
 * [2026-02-18, 14:56:58](https://news.ycombinator.com/item?id=47061614) - [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english)
 * [2026-02-18, 12:34:52](https://news.ycombinator.com/item?id=47060334) - [Carelessness versus craftsmanship in cryptography](https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/)
 * [2026-02-18, 10:29:08](https://news.ycombinator.com/item?id=47059516) - [Monkey Patching in VBA](https://ecp-solutions.github.io/ASF/Language%20reference.html)
-* [2026-02-17, 12:40:10](https://news.ycombinator.com/item?id=47046853) - [Unreal Numbers](https://lcamtuf.substack.com/p/unreal-numbers)
+* [2026-02-17, 12:40:10](https://news.ycombinator.com/item?id=47046853) - [Unreal numbers](https://lcamtuf.substack.com/p/unreal-numbers)
 * [2026-02-17, 11:01:09](https://news.ycombinator.com/item?id=47046070) - [Two Bits Are Better Than One: making bloom filters 2x more accurate](https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate)
 
 ## [Archives](archives/index.md)
