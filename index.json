@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-02-22, 07:14:22",
+      "https://news.ycombinator.com/item?id=47108977"
+    ],
+    [
+      "What's the best way to learn a new language?",
+      "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 03:18:36",
       "https://news.ycombinator.com/item?id=47107781"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2026-02-21, 20:10:13",
-      "https://news.ycombinator.com/item?id=47104185"
-    ],
-    [
-      "EDuke32 – Duke Nukem 3D (Open-Source)",
-      "https://www.eduke32.com/"
-    ]
-  ],
-  [
-    [
       "2026-02-21, 19:41:52",
       "https://news.ycombinator.com/item?id=47103945"
     ],
@@ -115,18 +115,8 @@
       "https://news.ycombinator.com/item?id=47103136"
     ],
     [
-      "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
+      "Toyota’s hydrogen-powered Mirai has experienced rapid depreciation",
       "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 17:08:12",
-      "https://news.ycombinator.com/item?id=47102576"
-    ],
-    [
-      "What not to write on your security clearance form (1988)",
-      "https://milk.com/wall-o-shame/security_clearance.html"
     ]
   ],
   [
@@ -147,6 +137,16 @@
     [
       "The Human Root of Trust – public domain framework for agent accountability",
       "https://humanrootoftrust.org/"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 12:49:24",
+      "https://news.ycombinator.com/item?id=47100328"
+    ],
+    [
+      "Show HN: Elecxzy – A lightweight, Lisp-free Emacs-like editor in Electron",
+      "https://github.com/kurouna/elecxzy"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=47060334"
     ],
     [
-      "Carelessness versus Craftsmanship in Cryptography",
+      "Carelessness versus craftsmanship in cryptography",
       "https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/"
     ]
   ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-02-17, 12:40:10",
+      "https://news.ycombinator.com/item?id=47046853"
+    ],
+    [
+      "Unreal Numbers",
+      "https://lcamtuf.substack.com/p/unreal-numbers"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 11:01:09",
       "https://news.ycombinator.com/item?id=47046070"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Minimalist Glitch Art Maker (100% client-side)",
       "https://yuyz0112.github.io/glitch-art-maker/"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 01:57:40",
-      "https://news.ycombinator.com/item?id=47042779"
-    ],
-    [
-      "Finding forall-exists Hyperbugs using Symbolic Execution",
-      "https://dl.acm.org/doi/full/10.1145/3689761"
     ]
   ]
 ]
