@@ -74,6 +74,7 @@
 * [2026-02-17, 10:02:36](https://news.ycombinator.com/item?id=47045612) - [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
 * [2026-02-17, 09:38:54](https://news.ycombinator.com/item?id=47045459) - [WD and Seagate confirm: Hard drives sold out for 2026](https://www.heise.de/en/news/WD-and-Seagate-confirm-Hard-drives-for-2026-sold-out-11178917.html)
 * [2026-02-17, 09:16:41](https://news.ycombinator.com/item?id=47045313) - [Denonomicon: The Dark Arts of Deno Foreign Function Interface Programming](https://denonomicon.deno.dev/introduction)
+* [2026-02-17, 09:03:12](https://news.ycombinator.com/item?id=47045246) - [Declarative, Inquisitive, then Imperative (2017) [pdf]](https://www.forth.org/svfig/kk/11-2017-Falvo.pdf)
 * [2026-02-17, 08:55:13](https://news.ycombinator.com/item?id=47045194) - [SwiftForth IDE for Windows, Linux, macOS](https://www.forth.com/swiftforth/)
 * [2026-02-17, 08:51:41](https://news.ycombinator.com/item?id=47045175) - [Gitas – A tool for Git account switching](https://github.com/letmutex/gitas)
 * [2026-02-17, 07:34:57](https://news.ycombinator.com/item?id=47044700) - [How to Review an AUR Package](https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html)
