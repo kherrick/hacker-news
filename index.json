@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-22, 00:29:05",
+      "https://news.ycombinator.com/item?id=47106686"
+    ],
+    [
+      "How I use Claude Code: Separation of planning and execution",
+      "https://boristane.com/blog/how-i-use-claude-code/"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 00:21:05",
+      "https://news.ycombinator.com/item?id=47106626"
+    ],
+    [
+      "Are compilers deterministic?",
+      "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 21:51:58",
       "https://news.ycombinator.com/item?id=47105198"
     ],
@@ -11,21 +31,11 @@
   ],
   [
     [
-      "2026-02-21, 21:40:13",
-      "https://news.ycombinator.com/item?id=47105087"
-    ],
-    [
-      "Happy Zelda's 40th first LLM running on N64 hardware (4MB RAM, 93MHz)",
-      "https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya"
-    ]
-  ],
-  [
-    [
       "2026-02-21, 21:28:13",
       "https://news.ycombinator.com/item?id=47104973"
     ],
     [
-      "Why is Claude an Electron App?",
+      "Why is Claude an Electron app?",
       "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html"
     ]
   ],
@@ -171,26 +181,6 @@
   ],
   [
     [
-      "2026-02-21, 12:02:14",
-      "https://news.ycombinator.com/item?id=47099982"
-    ],
-    [
-      "Padlet (YC W13) Is Hiring in San Francisco and Singapore",
-      "https://padlet.jobs"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 08:10:49",
-      "https://news.ycombinator.com/item?id=47098582"
-    ],
-    [
-      "AI uBlock Blacklist",
-      "https://github.com/alvi-se/ai-ublock-blacklist"
-    ]
-  ],
-  [
-    [
       "2026-02-21, 07:13:38",
       "https://news.ycombinator.com/item?id=47098296"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2026-02-20, 22:47:58",
+      "https://news.ycombinator.com/item?id=47095105"
+    ],
+    [
+      "A16Z partner says that the theory that we'll vibe code everything is ' wrong'",
+      "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 18:11:02",
       "https://news.ycombinator.com/item?id=47091557"
     ],
@@ -247,16 +247,6 @@
     [
       "Keep Android Open",
       "https://f-droid.org/2026/02/20/twif.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 19:25:46",
-      "https://news.ycombinator.com/item?id=47065146"
-    ],
-    [
-      "A solver for Semantle",
-      "https://victoriaritvo.com/blog/semantle-solver/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Permacomputing",
       "https://wiki.xxiivv.com/site/permacomputing.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 09:03:12",
+      "https://news.ycombinator.com/item?id=47045246"
+    ],
+    [
+      "Declarative, Inquisitive, then Imperative (2017) [pdf]",
+      "https://www.forth.org/svfig/kk/11-2017-Falvo.pdf"
     ]
   ],
   [
