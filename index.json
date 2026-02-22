@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2026-02-22, 19:25:19",
-      "https://news.ycombinator.com/item?id=47113817"
+      "2026-02-22, 19:32:37",
+      "https://news.ycombinator.com/item?id=47113883"
     ],
     [
-      "America's most partisan voters hold the most voting power",
-      "https://www.npr.org/2026/02/22/nx-s1-5707254/power-trump-congress-house-representatives-voters-control"
+      "Green lumber fallacy in software engineering (2022)",
+      "https://www.chrisbehan.ca/posts/green-lumber-fallacy-in-software"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 19:20:59",
+      "https://news.ycombinator.com/item?id=47113793"
+    ],
+    [
+      "Symplex, an open-source protocol semantic negotiation between distributed agents",
+      "https://github.com/olserra/symplex"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "NanoClaw Moved from Apple Containers to Docker",
       "https://twitter.com/Gavriel_Cohen/status/2025603982769410356"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 19:12:31",
+      "https://news.ycombinator.com/item?id=47113728"
+    ],
+    [
+      "I built Timeframe, our family e-paper dashboard",
+      "https://hawksley.org/2026/02/17/timeframe.html"
     ]
   ],
   [
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=47112174"
     ],
     [
-      "Fix Your Tools",
+      "Fix your tools",
       "https://ochagavia.nl/blog/fix-your-tools/"
     ]
   ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-02-22, 13:20:07",
-      "https://news.ycombinator.com/item?id=47110781"
-    ],
-    [
-      "Volatility: The volatile memory forensic extraction framework",
-      "https://github.com/volatilityfoundation/volatility3"
-    ]
-  ],
-  [
-    [
       "2026-02-22, 12:36:46",
       "https://news.ycombinator.com/item?id=47110515"
     ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=47110473"
     ],
     [
-      "What Is a Database Transaction?",
+      "What is a database transaction?",
       "https://planetscale.com/blog/database-transactions"
     ]
   ],
@@ -265,18 +275,8 @@
       "https://news.ycombinator.com/item?id=47074287"
     ],
     [
-      "International box-sizing Awareness Day",
+      "International box-sizing Awareness Day (2014)",
       "https://css-tricks.com/international-box-sizing-awareness-day/"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 04:27:23",
-      "https://news.ycombinator.com/item?id=47069918"
-    ],
-    [
-      "ReferenceFinder: Find coordinates on a piece of paper with only folds",
-      "https://mutsuntsai.github.io/reference-finder/"
     ]
   ],
   [
