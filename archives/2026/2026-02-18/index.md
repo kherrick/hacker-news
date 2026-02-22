@@ -49,6 +49,7 @@
 * [2026-02-18, 15:06:04](https://news.ycombinator.com/item?id=47061742) - [Show HN: Formally verified FPGA watchdog for AM broadcast in unmanned tunnels](https://github.com/Park07/amradio)
 * [2026-02-18, 14:59:16](https://news.ycombinator.com/item?id=47061642) - [What is happening to writing? Cognitive debt, Claude Code, the space around AI](https://resobscura.substack.com/p/what-is-happening-to-writing)
 * [2026-02-18, 14:56:58](https://news.ycombinator.com/item?id=47061614) - [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english)
+* [2026-02-18, 14:34:01](https://news.ycombinator.com/item?id=47061350) - [A New Perspective on Drawing Venn Diagrams for Data Visualization](https://arxiv.org/abs/2601.06980)
 * [2026-02-18, 14:08:11](https://news.ycombinator.com/item?id=47061062) - [AVX2 is slower than SSE2-4.x under Windows ARM emulation](https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/)
 * [2026-02-18, 14:05:39](https://news.ycombinator.com/item?id=47061029) - [Show HN: CEL by Example](https://celbyexample.com/)
 * [2026-02-18, 14:04:04](https://news.ycombinator.com/item?id=47061013) - [Show HN: I built a fuse box for microservices](https://www.openfuse.io)
