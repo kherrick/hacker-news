@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-22, 05:40:22](https://news.ycombinator.com/item?id=47108538) - [U.S. Cannot Legally Impose Tariffs Using Section 122 of the Trade Act of 1974](https://ielp.worldtradelaw.net/2026/01/guest-post-president-trump-cannot-legally-impose-tariffs-using-section-122-of-the-trade-act-of-1974/)
 * [2026-02-22, 03:18:36](https://news.ycombinator.com/item?id=47107781) - [Japanese Woodblock Print Search](https://ukiyo-e.org/)
 * [2026-02-22, 01:08:17](https://news.ycombinator.com/item?id=47106985) - [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
 * [2026-02-22, 00:29:05](https://news.ycombinator.com/item?id=47106686) - [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
@@ -10,7 +11,6 @@
 * [2026-02-21, 19:07:20](https://news.ycombinator.com/item?id=47103661) - [How Taalas \"prints\" LLM onto a chip?](https://www.anuragk.com/blog/posts/Taalas.html)
 * [2026-02-21, 18:50:19](https://news.ycombinator.com/item?id=47103506) - [Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++](https://github.com/a-e-k/canvas_ity)
 * [2026-02-21, 18:09:24](https://news.ycombinator.com/item?id=47103136) - [Toyota Mirai hydrogen car depreciation: 65% value loss in a year](https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/)
-* [2026-02-21, 17:08:12](https://news.ycombinator.com/item?id=47102576) - [What not to write on your security clearance form (1988)](https://milk.com/wall-o-shame/security_clearance.html)
 * [2026-02-21, 14:32:16](https://news.ycombinator.com/item?id=47101171) - [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206)
 * [2026-02-21, 14:01:45](https://news.ycombinator.com/item?id=47100935) - [The Human Root of Trust – public domain framework for agent accountability](https://humanrootoftrust.org/)
 * [2026-02-21, 12:37:52](https://news.ycombinator.com/item?id=47100232) - [zclaw: personal AI assistant in under 888 KB, running on an ESP32](https://github.com/tnm/zclaw)
