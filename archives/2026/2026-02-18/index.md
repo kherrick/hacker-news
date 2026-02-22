@@ -65,6 +65,7 @@
 * [2026-02-18, 11:49:20](https://news.ycombinator.com/item?id=47060041) - [AI made every test pass, but the code was still wrong](https://doodledapp.com/feed/ai-made-every-test-pass-the-code-was-still-wrong)
 * [2026-02-18, 11:17:01](https://news.ycombinator.com/item?id=47059830) - [Wave Twisters (2001)](https://www.youtube.com/watch?v=cQVRTdRnQiQ)
 * [2026-02-18, 10:29:30](https://news.ycombinator.com/item?id=47059520) - [Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)
+* [2026-02-18, 10:29:08](https://news.ycombinator.com/item?id=47059516) - [Monkey Patching in VBA](https://ecp-solutions.github.io/ASF/Language%20reference.html)
 * [2026-02-18, 10:00:11](https://news.ycombinator.com/item?id=47059275) - [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
 * [2026-02-18, 09:42:40](https://news.ycombinator.com/item?id=47059147) - [I Don't Like Magic](https://adactio.com/journal/22399)
 * [2026-02-18, 08:20:17](https://news.ycombinator.com/item?id=47058584) - [Index, Count, Offset, Size](https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/)
