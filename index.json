@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-02-23, 21:47:29",
-      "https://news.ycombinator.com/item?id=47129415"
-    ],
-    [
-      "AI-powered reverse-engineering of Rosetta 2 (for Linux VM)",
-      "https://github.com/Inokinoki/attesor"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 21:44:28",
       "https://news.ycombinator.com/item?id=47129361"
     ],
@@ -77,6 +67,16 @@
     [
       "UNIX99, a UNIX-like OS for the TI-99/4A",
       "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 20:03:51",
+      "https://news.ycombinator.com/item?id=47127954"
+    ],
+    [
+      "HackEurope 2026: A short rant on AI and hackathons",
+      "https://duti.dev/blog/2026/spr/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-02-22, 19:12:31",
-      "https://news.ycombinator.com/item?id=47113728"
-    ],
-    [
-      "I built Timeframe, our family e-paper dashboard",
-      "https://hawksley.org/2026/02/17/timeframe.html"
-    ]
-  ],
-  [
-    [
       "2026-02-22, 18:28:58",
       "https://news.ycombinator.com/item?id=47113401"
     ],
@@ -247,6 +237,16 @@
     [
       "'Viking' was a job description, not a matter of heredity: Ancient DNA study",
       "https://www.science.org/content/article/viking-was-job-description-not-matter-heredity-massive-ancient-dna-study-shows"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 13:55:08",
+      "https://news.ycombinator.com/item?id=47088076"
+    ],
+    [
+      "What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics",
+      "https://jamesoswald.dev/posts/bigoinequality/"
     ]
   ],
   [
