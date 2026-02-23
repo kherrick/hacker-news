@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-23, 08:22:34",
+      "https://news.ycombinator.com/item?id=47119530"
+    ],
+    [
+      "Elsevier Shuts Down Its Finance Journal Citation Cartel",
+      "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 07:33:57",
       "https://news.ycombinator.com/item?id=47119210"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47117780"
     ],
     [
-      "Freemediaheckyeah",
+      "Freemediaheckyeah – A collection of free stuff on the internet",
       "https://fmhy.net/"
     ]
   ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-02-22, 18:20:31",
-      "https://news.ycombinator.com/item?id=47113325"
-    ],
-    [
-      "Fresh File Explorer – VS Code extension for navigating recent work",
-      "https://github.com/FreHu/vscode-fresh-file-explorer"
-    ]
-  ],
-  [
-    [
       "2026-02-22, 17:39:50",
       "https://news.ycombinator.com/item?id=47112925"
     ],
@@ -187,16 +187,6 @@
     [
       "Fix your tools",
       "https://ochagavia.nl/blog/fix-your-tools/"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 15:12:15",
-      "https://news.ycombinator.com/item?id=47111626"
-    ],
-    [
-      "Xweather Live – Interactive global vector weather map",
-      "https://live.xweather.com/"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2026-02-20, 11:56:25",
+      "https://news.ycombinator.com/item?id=47086900"
+    ],
+    [
+      "A bug is a bug, but a patch is a policy: The case for bootable containers",
+      "https://tuananh.net/2026/02/20/patch-is-policy/"
+    ]
+  ],
+  [
+    [
       "2026-02-19, 19:37:00",
       "https://news.ycombinator.com/item?id=47078112"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=47075455"
     ],
     [
-      "Sub-$200 Lidar Could Reshuffle Auto Sensor Economics",
+      "Sub-$200 Lidar could reshuffle auto sensor economics",
       "https://spectrum.ieee.org/solid-state-lidar-microvision-adas"
     ]
   ],
