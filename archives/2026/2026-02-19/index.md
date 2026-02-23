@@ -22,6 +22,7 @@
 * [2026-02-19, 19:07:40](https://news.ycombinator.com/item?id=47077731) - [Techno-cynics are wounded techno-optimists](https://aftermath.site/anthropic-claude-ai-leftist-technology/)
 * [2026-02-19, 19:03:32](https://news.ycombinator.com/item?id=47077676) - [CTO Says 93% of Developers Use AI, but Productivity Is Still 10%](https://shiftmag.dev/this-cto-says-93-of-developers-use-ai-but-productivity-is-still-10-8013/)
 * [2026-02-19, 18:42:51](https://news.ycombinator.com/item?id=47077383) - [Farewell Rust](https://yieldcode.blog/post/farewell-rust/)
+* [2026-02-19, 18:40:35](https://news.ycombinator.com/item?id=47077358) - [What Is a Centipawn Advantage?](https://win-vector.com/2026/02/19/what-is-a-centipawn-advantage/)
 * [2026-02-19, 18:31:50](https://news.ycombinator.com/item?id=47077245) - [Archaeologists find possible first direct evidence of Hannibal's war elephants](https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/)
 * [2026-02-19, 18:26:44](https://news.ycombinator.com/item?id=47077163) - [South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection](https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea)
 * [2026-02-19, 18:12:16](https://news.ycombinator.com/item?id=47076966) - [AI Makes You Boring](https://www.marginalia.nu/log/a_132_ai_bores/)
