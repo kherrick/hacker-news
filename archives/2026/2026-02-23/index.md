@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-23](index.md)
 
+* [2026-02-23, 07:01:20](https://news.ycombinator.com/item?id=47118990) - [Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria](https://bitmovin.com/careers/8023403002/)
+* [2026-02-23, 06:24:19](https://news.ycombinator.com/item?id=47118774) - [Ask HN: Have you ever cloned a cat?](https://news.ycombinator.com/item?id=47118774)
+* [2026-02-23, 04:16:00](https://news.ycombinator.com/item?id=47118055) - [How close are we to a vision for 2010?](https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/)
 * [2026-02-23, 04:05:15](https://news.ycombinator.com/item?id=47117972) - [Show HN: Openslack – An open source version of Slack](https://github.com/BilalG1/openslack)
+* [2026-02-23, 04:01:49](https://news.ycombinator.com/item?id=47117946) - [What I learned designing a barebones UI engine](https://madebymohammed.com/miniui)
 * [2026-02-23, 03:35:31](https://news.ycombinator.com/item?id=47117780) - [Freemediaheckyeah](https://fmhy.net/)
 * [2026-02-23, 03:19:45](https://news.ycombinator.com/item?id=47117681) - [Show HN: I scraped 5,700 YC companies to find what niches are now getting funded](https://bigideasdb.com/saas-sellers-report)
 * [2026-02-23, 02:57:28](https://news.ycombinator.com/item?id=47117521) - [LGP to take Mister Car Wash private in $3.1B deal](https://www.alternativeswatch.com/2026/02/22/lgp-take-mister-car-wash-private-3-1-billion-deal/)
