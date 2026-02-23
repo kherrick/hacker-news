@@ -40,6 +40,7 @@
 * [2026-02-20, 14:03:06](https://news.ycombinator.com/item?id=47088181) - [I found a useful Git one liner buried in leaked CIA developer docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html)
 * [2026-02-20, 14:02:05](https://news.ycombinator.com/item?id=47088166) - [Show HN: A native macOS client for Hacker News, built with SwiftUI](https://github.com/IronsideXXVI/Hacker-News)
 * [2026-02-20, 13:51:04](https://news.ycombinator.com/item?id=47088037) - [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759)
+* [2026-02-20, 13:48:55](https://news.ycombinator.com/item?id=47088005) - [Show HN: A geometric analysis of Chopin's Prelude No. 4 using 3D topology](https://github.com/jimishol/cholidean-harmony-structure/blob/main/docs/03-case-study-chopin-prelude04.md)
 * [2026-02-20, 13:44:42](https://news.ycombinator.com/item?id=47087954) - [Mothers (YC X26) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-02-20, 13:22:32](https://news.ycombinator.com/item?id=47087719) - [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
 * [2026-02-20, 13:19:34](https://news.ycombinator.com/item?id=47087687) - [How to Stop Being Boring](https://www.joanwestenberg.com/how-to-stop-being-boring/)

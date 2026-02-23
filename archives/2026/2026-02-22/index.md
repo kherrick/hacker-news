@@ -18,6 +18,7 @@
 * [2026-02-22, 19:54:14](https://news.ycombinator.com/item?id=47114054) - [The Tears of Donald Knuth](https://cacm.acm.org/opinion/the-tears-of-donald-knuth/)
 * [2026-02-22, 19:52:52](https://news.ycombinator.com/item?id=47114043) - ['Peanut butter' pay raises could cost companies their top performers](https://www.cnbc.com/2026/02/22/peanut-butter-pay-raises-could-cost-companies-their-top-performers-according-to-experts-its-such-a-shortsighted-strategy.html)
 * [2026-02-22, 19:49:26](https://news.ycombinator.com/item?id=47114014) - [The Geometry of Tostitos Scoops](https://chip-tech-rob.zocomputer.io/)
+* [2026-02-22, 19:39:27](https://news.ycombinator.com/item?id=47113936) - [Ask HN: Chromebook leads for K-8 school in need?](https://news.ycombinator.com/item?id=47113936)
 * [2026-02-22, 19:33:22](https://news.ycombinator.com/item?id=47113892) - [Factory-built housing hasn't taken off in California](https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different)
 * [2026-02-22, 19:32:37](https://news.ycombinator.com/item?id=47113883) - [Green lumber fallacy in software engineering (2022)](https://www.chrisbehan.ca/posts/green-lumber-fallacy-in-software)
 * [2026-02-22, 19:25:19](https://news.ycombinator.com/item?id=47113817) - [America's most partisan voters hold the most voting power](https://www.npr.org/2026/02/22/nx-s1-5707254/power-trump-congress-house-representatives-voters-control)
