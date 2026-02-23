@@ -31,6 +31,7 @@
 * [2026-02-22, 18:56:40](https://news.ycombinator.com/item?id=47113618) - [Loops is a federated, open-source TikTok](https://joinloops.org/)
 * [2026-02-22, 18:50:14](https://news.ycombinator.com/item?id=47113567) - [Show HN: Local-First Linux MicroVMs for macOS](https://shuru.run)
 * [2026-02-22, 18:45:56](https://news.ycombinator.com/item?id=47113527) - [Linuxulator on FreeBSD Feels Like Magic](https://hayzam.com/blog/02-linuxulator-is-awesome/)
+* [2026-02-22, 18:28:58](https://news.ycombinator.com/item?id=47113401) - [Benchmarks for concurrent hash map implementations in Go](https://github.com/puzpuzpuz/go-concurrent-map-bench)
 * [2026-02-22, 18:20:31](https://news.ycombinator.com/item?id=47113325) - [Fresh File Explorer – VS Code extension for navigating recent work](https://github.com/FreHu/vscode-fresh-file-explorer)
 * [2026-02-22, 17:39:50](https://news.ycombinator.com/item?id=47112925) - [Hello Worg, the Org-Mode Community](https://orgmode.org/worg/)
 * [2026-02-22, 17:37:14](https://news.ycombinator.com/item?id=47112892) - [Emulated Windows 3.11 in the Browser](https://pieter.com/)

@@ -27,6 +27,7 @@
 * [2026-02-19, 18:26:44](https://news.ycombinator.com/item?id=47077163) - [South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection](https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea)
 * [2026-02-19, 18:12:16](https://news.ycombinator.com/item?id=47076966) - [AI Makes You Boring](https://www.marginalia.nu/log/a_132_ai_bores/)
 * [2026-02-19, 18:01:50](https://news.ycombinator.com/item?id=47076826) - [DOGE Bro's Grant Review Process Was Literally Just Asking ChatGPT 'Is This DEI?'](https://www.techdirt.com/2026/02/19/doge-bros-grant-review-process-was-literally-just-asking-chatgpt-is-this-dei/)
+* [2026-02-19, 17:58:27](https://news.ycombinator.com/item?id=47076789) - [Emulating Goto in Scheme with Continuations](https://terezi.pyrope.net/ccgoto/)
 * [2026-02-19, 17:47:25](https://news.ycombinator.com/item?id=47076659) - [A terminal weather app with ASCII animations driven by real-time weather data](https://github.com/Veirt/weathr)
 * [2026-02-19, 17:00:47](https://news.ycombinator.com/item?id=47076001) - [Why applicant tracking systems are broken by design](https://www.saj.ad/2026/ats)
 * [2026-02-19, 16:56:52](https://news.ycombinator.com/item?id=47075934) - [Choosing a Language Based on Its Syntax?](https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/)

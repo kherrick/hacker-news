@@ -6,11 +6,13 @@
 
 * [2026-02-23, 14:28:39](https://news.ycombinator.com/item?id=47122789) - [The peculiar case of Japanese web design](https://sabrinas.space)
 * [2026-02-23, 14:22:39](https://news.ycombinator.com/item?id=47122715) - [The Age Verification Trap, Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
+* [2026-02-23, 13:53:21](https://news.ycombinator.com/item?id=47122337) - [How in the Hell Did Joann Fabrics Die While Best Buy Survived? It Wasn't Amazon](https://www.governance.fyi/p/how-in-the-hell-did-joann-fabrics)
 * [2026-02-23, 13:10:56](https://news.ycombinator.com/item?id=47121864) - [VTT Test Donut Lab Battery Reaches 80% Charge in Under 10 Minutes [pdf]](https://pub-fee113bb711e441db5c353d2d31abbb3.r2.dev/VTT_CR_00092_26.pdf)
 * [2026-02-23, 12:38:54](https://news.ycombinator.com/item?id=47121539) - [femtolisp: A lightweight, robust, scheme-like Lisp implementation](https://github.com/JeffBezanson/femtolisp)
 * [2026-02-23, 12:28:06](https://news.ycombinator.com/item?id=47121442) - [I Donut Believe – Presenting Third Party Results (Donut Lab)](https://idonutbelieve.com/)
 * [2026-02-23, 12:01:46](https://news.ycombinator.com/item?id=47121210) - [Facebook's Fascination with My Robots.txt](https://blog.nytsoi.net/2026/02/23/facebook-robots-txt)
 * [2026-02-23, 11:44:10](https://news.ycombinator.com/item?id=47121029) - [Hetzner (European hosting provider) to increase prices by up to 38%](https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/)
+* [2026-02-23, 11:29:30](https://news.ycombinator.com/item?id=47120901) - [Don't host email yourself – your reminder in 2026](https://www.coinerella.com/dont-host-email-yourself-your-reminder-in-2026/)
 * [2026-02-23, 11:29:22](https://news.ycombinator.com/item?id=47120899) - [Ladybird Browser adopts Rust](https://ladybird.org/posts/adopting-rust/)
 * [2026-02-23, 09:58:33](https://news.ycombinator.com/item?id=47120201) - [SETI@home: Data Acquisition and Front-End Processing](https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7)
 * [2026-02-23, 09:57:33](https://news.ycombinator.com/item?id=47120196) - [QRTape – Audio Playback from Paper Tape with Computer Vision](http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html)
