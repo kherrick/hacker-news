@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-23, 14:28:39",
+      "https://news.ycombinator.com/item?id=47122789"
+    ],
+    [
+      "The peculiar case of Japanese web design",
+      "https://sabrinas.space"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 14:22:39",
+      "https://news.ycombinator.com/item?id=47122715"
+    ],
+    [
+      "The Age Verification Trap, Verifying age undermines everyone's data protection",
+      "https://spectrum.ieee.org/age-verification"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 13:10:56",
       "https://news.ycombinator.com/item?id=47121864"
     ],
@@ -17,16 +37,6 @@
     [
       "femtolisp: A lightweight, robust, scheme-like Lisp implementation",
       "https://github.com/JeffBezanson/femtolisp"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 12:28:06",
-      "https://news.ycombinator.com/item?id=47121442"
-    ],
-    [
-      "I Donut Believe – Presenting Third Party Results (Donut Lab)",
-      "https://idonutbelieve.com/"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-02-23, 04:03:58",
-      "https://news.ycombinator.com/item?id=47117966"
-    ],
-    [
-      "Pinterest is drowning in a sea of AI slop and auto-moderation",
-      "https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 03:54:32",
       "https://news.ycombinator.com/item?id=47117886"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-02-19, 16:23:19",
+      "https://news.ycombinator.com/item?id=47075446"
+    ],
+    [
+      "Microspeak: Escrow",
+      "https://devblogs.microsoft.com/oldnewthing/20260217-00/?p=112067"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 21:59:06",
       "https://news.ycombinator.com/item?id=47067031"
     ],
     [
       "My journey to the microwave alternate timeline",
       "https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 13:42:42",
-      "https://news.ycombinator.com/item?id=47060835"
-    ],
-    [
-      "A NASA Engineer Discovered a World of Semi Truck Aerodynamics by Accident",
-      "https://www.thedrive.com/news/how-a-nasa-engineer-discovered-a-world-of-semi-truck-aerodynamics-by-accident"
     ]
   ]
 ]
