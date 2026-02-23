@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-23, 19:24:54](https://news.ycombinator.com/item?id=47127421) - [India's VIP culture is out of control](https://www.economist.com/asia/2026/02/22/indias-vip-culture-is-out-of-control)
+* [2026-02-23, 20:16:08](https://news.ycombinator.com/item?id=47128138) - [\"Car Wash\" test with 53 models](https://opper.ai/blog/car-wash-test)
+* [2026-02-23, 20:05:15](https://news.ycombinator.com/item?id=47127986) - [UNIX99, a UNIX-like OS for the TI-99/4A](https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/)
 * [2026-02-23, 19:23:30](https://news.ycombinator.com/item?id=47127396) - [Binance fired employees who found $1.7B in crypto was sent to Iran](https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html)
 * [2026-02-23, 19:07:41](https://news.ycombinator.com/item?id=47127133) - [A lithium-ion breakthrough that could boost range and lower costs](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/forget-solid-state-batteries-researchers-have-made-a-lithium-ion-breakthrough-that-could-boost-range-and-drastically-lower-costs)
 * [2026-02-23, 19:04:34](https://news.ycombinator.com/item?id=47127081) - [Americans are destroying Flock surveillance cameras](https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/)
-* [2026-02-23, 18:36:31](https://news.ycombinator.com/item?id=47126656) - [Show HN: Shibuya – A High-Performance WAF in Rust with eBPF and ML Engine](https://ghostklan.com/shibuya.html)
 * [2026-02-23, 17:18:41](https://news.ycombinator.com/item?id=47125349) - [ASML unveils EUV light source advance that could yield 50% more chips by 2030](https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/)
 * [2026-02-23, 17:15:14](https://news.ycombinator.com/item?id=47125286) - [What it means that Ubuntu is using Rust](https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/)
 * [2026-02-23, 17:01:39](https://news.ycombinator.com/item?id=47125046) - [Decided to fly to the US to buy some hard drives](https://old.reddit.com/r/DataHoarder/comments/1rb9ot4/decided_to_fly_to_the_us_to_buy_some_hard_drives)
@@ -25,11 +25,11 @@
 * [2026-02-21, 13:24:04](https://news.ycombinator.com/item?id=47100612) - ['Viking' was a job description, not a matter of heredity: Ancient DNA study](https://www.science.org/content/article/viking-was-job-description-not-matter-heredity-massive-ancient-dna-study-shows)
 * [2026-02-20, 13:33:03](https://news.ycombinator.com/item?id=47087838) - [The Lighthouse: How extreme isolation transforms the body and mind](https://www.newscientist.com/article/2231732-the-lighthouse-how-extreme-isolation-transforms-the-body-and-mind/)
 * [2026-02-20, 07:59:21](https://news.ycombinator.com/item?id=47085061) - [Generalized Sequential Probability Ratio Test for Families of Hypotheses [pdf]](https://sites.stat.columbia.edu/jcliu/paper/GSPRT_SQA3.pdf)
+* [2026-02-20, 06:20:34](https://news.ycombinator.com/item?id=47084431) - [Show HN: Fostrom, an IoT Cloud Platform built for developers](https://fostrom.io/)
 * [2026-02-19, 19:37:00](https://news.ycombinator.com/item?id=47078112) - [0 A.D. Release 28: Boiorix](https://play0ad.com/new-release-0-a-d-release-28-boiorix/)
 * [2026-02-19, 18:40:35](https://news.ycombinator.com/item?id=47077358) - [What Is a Centipawn Advantage?](https://win-vector.com/2026/02/19/what-is-a-centipawn-advantage/)
 * [2026-02-19, 17:58:27](https://news.ycombinator.com/item?id=47076789) - [Emulating Goto in Scheme with Continuations](https://terezi.pyrope.net/ccgoto/)
 * [2026-02-19, 16:23:39](https://news.ycombinator.com/item?id=47075455) - [Sub-$200 Lidar could reshuffle auto sensor economics](https://spectrum.ieee.org/solid-state-lidar-microvision-adas)
-* [2026-02-19, 14:21:52](https://news.ycombinator.com/item?id=47074025) - [Yes there is a right way to stack the dishwasher. Here are the 5 rules](https://www.bbc.com/news/articles/cwy89lr3pl4o)
 
 ## [Archives](archives/index.md)
 
