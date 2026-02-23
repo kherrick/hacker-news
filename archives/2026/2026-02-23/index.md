@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-02-23](index.md)
 
+* [2026-02-23, 09:58:33](https://news.ycombinator.com/item?id=47120201) - [SETI@home: Data Acquisition and Front-End Processing](https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7)
+* [2026-02-23, 09:57:33](https://news.ycombinator.com/item?id=47120196) - [QRTape – Audio Playback from Paper Tape with Computer Vision](http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html)
+* [2026-02-23, 09:52:14](https://news.ycombinator.com/item?id=47120145) - [Hetzner Prices increase 30-40%](https://docs.hetzner.com/de/general/infrastructure-and-availability/price-adjustment/)
 * [2026-02-23, 08:22:34](https://news.ycombinator.com/item?id=47119530) - [Elsevier Shuts Down Its Finance Journal Citation Cartel](https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal)
+* [2026-02-23, 07:43:47](https://news.ycombinator.com/item?id=47119274) - [Magical Mushroom – Europe's first industrial-scale mycelium packaging producer](https://magicalmushroom.com/index)
 * [2026-02-23, 07:33:57](https://news.ycombinator.com/item?id=47119210) - [Pope tells priests to use their brains, not AI, to write homilies](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
 * [2026-02-23, 07:01:20](https://news.ycombinator.com/item?id=47118990) - [Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria](https://bitmovin.com/careers/8023403002/)
 * [2026-02-23, 06:24:19](https://news.ycombinator.com/item?id=47118774) - [Ask HN: Have you ever cloned a cat?](https://news.ycombinator.com/item?id=47118774)
 * [2026-02-23, 04:16:00](https://news.ycombinator.com/item?id=47118055) - [How close are we to a vision for 2010?](https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/)
 * [2026-02-23, 04:05:15](https://news.ycombinator.com/item?id=47117972) - [Show HN: Openslack – An open source version of Slack](https://github.com/BilalG1/openslack)
+* [2026-02-23, 04:03:58](https://news.ycombinator.com/item?id=47117966) - [Pinterest is drowning in a sea of AI slop and auto-moderation](https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/)
 * [2026-02-23, 04:01:49](https://news.ycombinator.com/item?id=47117946) - [What I learned designing a barebones UI engine](https://madebymohammed.com/miniui)
 * [2026-02-23, 03:35:31](https://news.ycombinator.com/item?id=47117780) - [Freemediaheckyeah](https://fmhy.net/)
 * [2026-02-23, 03:19:45](https://news.ycombinator.com/item?id=47117681) - [Show HN: I scraped 5,700 YC companies to find what niches are now getting funded](https://bigideasdb.com/saas-sellers-report)
