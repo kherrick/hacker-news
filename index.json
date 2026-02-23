@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-23, 13:10:56",
+      "https://news.ycombinator.com/item?id=47121864"
+    ],
+    [
+      "VTT Test Donut Lab Battery Reaches 80% Charge in Under 10 Minutes [pdf]",
+      "https://pub-fee113bb711e441db5c353d2d31abbb3.r2.dev/VTT_CR_00092_26.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 12:38:54",
+      "https://news.ycombinator.com/item?id=47121539"
+    ],
+    [
+      "femtolisp: A lightweight, robust, scheme-like Lisp implementation",
+      "https://github.com/JeffBezanson/femtolisp"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 12:28:06",
+      "https://news.ycombinator.com/item?id=47121442"
+    ],
+    [
+      "I Donut Believe – Presenting Third Party Results (Donut Lab)",
+      "https://idonutbelieve.com/"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 12:01:46",
       "https://news.ycombinator.com/item?id=47121210"
     ],
@@ -47,6 +77,16 @@
     [
       "QRTape – Audio Playback from Paper Tape with Computer Vision (2021)",
       "http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 09:56:57",
+      "https://news.ycombinator.com/item?id=47120188"
+    ],
+    [
+      "Hacker News.love – 22 projects Hacker News didn't love",
+      "https://hackernews.love/"
     ]
   ],
   [
@@ -111,32 +151,12 @@
   ],
   [
     [
-      "2026-02-23, 04:16:00",
-      "https://news.ycombinator.com/item?id=47118055"
-    ],
-    [
-      "How close are we to a vision for 2010?",
-      "https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 04:03:58",
       "https://news.ycombinator.com/item?id=47117966"
     ],
     [
       "Pinterest is drowning in a sea of AI slop and auto-moderation",
       "https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 04:01:49",
-      "https://news.ycombinator.com/item?id=47117946"
-    ],
-    [
-      "What I learned designing a barebones UI engine",
-      "https://madebymohammed.com/miniui"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-02-22, 16:12:31",
-      "https://news.ycombinator.com/item?id=47112174"
-    ],
-    [
-      "Fix your tools",
-      "https://ochagavia.nl/blog/fix-your-tools/"
-    ]
-  ],
-  [
-    [
       "2026-02-22, 14:44:42",
       "https://news.ycombinator.com/item?id=47111400"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2026-02-19, 16:42:04",
-      "https://news.ycombinator.com/item?id=47075716"
+      "2026-02-19, 18:40:35",
+      "https://news.ycombinator.com/item?id=47077358"
     ],
     [
-      "The Musidex: A physical music library for the streaming era",
-      "https://hannahilea.com/blog/musidex/"
+      "What Is a Centipawn Advantage?",
+      "https://win-vector.com/2026/02/19/what-is-a-centipawn-advantage/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "My journey to the microwave alternate timeline",
       "https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 21:10:09",
-      "https://news.ycombinator.com/item?id=47066446"
-    ],
-    [
-      "How to train your program verifier",
-      "https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/"
     ]
   ],
   [
