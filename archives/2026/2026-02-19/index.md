@@ -16,6 +16,7 @@
 * [2026-02-19, 20:32:09](https://news.ycombinator.com/item?id=47078840) - [Overall, the colorectal cancer story is encouraging](https://www.hankgreen.com/crc)
 * [2026-02-19, 19:55:11](https://news.ycombinator.com/item?id=47078324) - [AI is not a coworker, it's an exoskeleton](https://www.kasava.dev/blog/ai-as-exoskeleton)
 * [2026-02-19, 19:42:31](https://news.ycombinator.com/item?id=47078167) - [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)
+* [2026-02-19, 19:37:00](https://news.ycombinator.com/item?id=47078112) - [0 A.D. Release 28: Boiorix](https://play0ad.com/new-release-0-a-d-release-28-boiorix/)
 * [2026-02-19, 19:16:33](https://news.ycombinator.com/item?id=47077849) - [IRS lost 40% of IT staff, 80% of tech leaders in 'efficiency' shakeup](https://www.theregister.com/2026/02/19/irs_job_cuts/)
 * [2026-02-19, 19:16:12](https://news.ycombinator.com/item?id=47077844) - [California's New Bill Requires DOJ-Approved 3D Printers That Report Themselves](https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/)
 * [2026-02-19, 19:07:40](https://news.ycombinator.com/item?id=47077731) - [Techno-cynics are wounded techno-optimists](https://aftermath.site/anthropic-claude-ai-leftist-technology/)
