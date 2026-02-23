@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-02-23](index.md)
 
+* [2026-02-23, 19:07:41](https://news.ycombinator.com/item?id=47127133) - [A lithium-ion breakthrough that could boost range and lower costs](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/forget-solid-state-batteries-researchers-have-made-a-lithium-ion-breakthrough-that-could-boost-range-and-drastically-lower-costs)
+* [2026-02-23, 18:49:16](https://news.ycombinator.com/item?id=47126851) - [Waymo Is Destroying Tesla's Self-Driving Dreams](https://neuralfoundry.substack.com/p/waymo-is-destroying-teslas-self-driving)
+* [2026-02-23, 18:36:31](https://news.ycombinator.com/item?id=47126656) - [Show HN: Shibuya – A High-Performance WAF in Rust with eBPF and ML Engine](https://ghostklan.com/shibuya.html)
+* [2026-02-23, 18:33:38](https://news.ycombinator.com/item?id=47126614) - [Anthropic announces proof of distillation at scale by MiniMax, DeepSeek,Moonshot](https://twitter.com/anthropicai/status/2025997928242811253)
 * [2026-02-23, 17:20:25](https://news.ycombinator.com/item?id=47125374) - [Writing code is cheap now](https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/)
+* [2026-02-23, 17:18:41](https://news.ycombinator.com/item?id=47125349) - [ASML unveils EUV light source advance that could yield 50% more chips by 2030](https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/)
 * [2026-02-23, 17:15:22](https://news.ycombinator.com/item?id=47125287) - [Half million 'Words with Spaces' missing from dictionaries](https://www.linguabase.org/words-with-spaces.html)
 * [2026-02-23, 17:15:14](https://news.ycombinator.com/item?id=47125286) - [What it means that Ubuntu is using Rust](https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/)
 * [2026-02-23, 17:01:39](https://news.ycombinator.com/item?id=47125046) - [Decided to fly to the US to buy some hard drives](https://old.reddit.com/r/DataHoarder/comments/1rb9ot4/decided_to_fly_to_the_us_to_buy_some_hard_drives)
