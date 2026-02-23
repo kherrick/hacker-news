@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-23](index.md)
 
+* [2026-02-23, 19:24:54](https://news.ycombinator.com/item?id=47127421) - [India's VIP culture is out of control](https://www.economist.com/asia/2026/02/22/indias-vip-culture-is-out-of-control)
+* [2026-02-23, 19:23:30](https://news.ycombinator.com/item?id=47127396) - [Binance fired employees who found $1.7B in crypto was sent to Iran](https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html)
 * [2026-02-23, 19:07:41](https://news.ycombinator.com/item?id=47127133) - [A lithium-ion breakthrough that could boost range and lower costs](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/forget-solid-state-batteries-researchers-have-made-a-lithium-ion-breakthrough-that-could-boost-range-and-drastically-lower-costs)
+* [2026-02-23, 19:04:34](https://news.ycombinator.com/item?id=47127081) - [Americans are destroying Flock surveillance cameras](https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/)
 * [2026-02-23, 18:49:16](https://news.ycombinator.com/item?id=47126851) - [Waymo Is Destroying Tesla's Self-Driving Dreams](https://neuralfoundry.substack.com/p/waymo-is-destroying-teslas-self-driving)
 * [2026-02-23, 18:36:31](https://news.ycombinator.com/item?id=47126656) - [Show HN: Shibuya – A High-Performance WAF in Rust with eBPF and ML Engine](https://ghostklan.com/shibuya.html)
 * [2026-02-23, 18:33:38](https://news.ycombinator.com/item?id=47126614) - [Anthropic announces proof of distillation at scale by MiniMax, DeepSeek,Moonshot](https://twitter.com/anthropicai/status/2025997928242811253)

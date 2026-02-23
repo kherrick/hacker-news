@@ -47,6 +47,7 @@
 * [2026-02-19, 14:43:25](https://news.ycombinator.com/item?id=47074287) - [International box-sizing Awareness Day](https://css-tricks.com/international-box-sizing-awareness-day/)
 * [2026-02-19, 14:26:20](https://news.ycombinator.com/item?id=47074083) - [Against Theory-Motivated Experimentation](https://journals.sagepub.com/doi/10.1177/26339137261421577)
 * [2026-02-19, 14:23:40](https://news.ycombinator.com/item?id=47074049) - [Cursor’s debug mode is arguably its best feature](https://davidgomes.com/cursor-debug-mode/)
+* [2026-02-19, 14:21:52](https://news.ycombinator.com/item?id=47074025) - [Yes there is a right way to stack the dishwasher. Here are the 5 rules](https://www.bbc.com/news/articles/cwy89lr3pl4o)
 * [2026-02-19, 14:14:14](https://news.ycombinator.com/item?id=47073947) - [Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy)
 * [2026-02-19, 14:04:44](https://news.ycombinator.com/item?id=47073838) - [Ask HN: How do you employ LLMs for UI development?](https://news.ycombinator.com/item?id=47073838)
 * [2026-02-19, 13:49:49](https://news.ycombinator.com/item?id=47073684) - [Famous Signatures Through History](https://signatory.app/#famous-signatures)
