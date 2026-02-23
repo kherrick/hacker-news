@@ -42,6 +42,7 @@
 * [2026-02-20, 13:51:04](https://news.ycombinator.com/item?id=47088037) - [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759)
 * [2026-02-20, 13:48:55](https://news.ycombinator.com/item?id=47088005) - [Show HN: A geometric analysis of Chopin's Prelude No. 4 using 3D topology](https://github.com/jimishol/cholidean-harmony-structure/blob/main/docs/03-case-study-chopin-prelude04.md)
 * [2026-02-20, 13:44:42](https://news.ycombinator.com/item?id=47087954) - [Mothers (YC X26) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
+* [2026-02-20, 13:33:03](https://news.ycombinator.com/item?id=47087838) - [The Lighthouse: How extreme isolation transforms the body and mind](https://www.newscientist.com/article/2231732-the-lighthouse-how-extreme-isolation-transforms-the-body-and-mind/)
 * [2026-02-20, 13:22:32](https://news.ycombinator.com/item?id=47087719) - [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
 * [2026-02-20, 13:19:34](https://news.ycombinator.com/item?id=47087687) - [How to Stop Being Boring](https://www.joanwestenberg.com/how-to-stop-being-boring/)
 * [2026-02-20, 12:58:01](https://news.ycombinator.com/item?id=47087443) - [The Oracle of Bacon: Thirty Years Later](https://3quarksdaily.com/3quarksdaily/2026/02/the-oracle-of-bacon-thirty-years-later.html)
