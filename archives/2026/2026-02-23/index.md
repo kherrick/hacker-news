@@ -14,6 +14,7 @@
 * [2026-02-23, 20:45:34](https://news.ycombinator.com/item?id=47128535) - [Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)](https://github.com/vignesh07/babyshark)
 * [2026-02-23, 20:16:08](https://news.ycombinator.com/item?id=47128138) - [\"Car Wash\" test with 53 models](https://opper.ai/blog/car-wash-test)
 * [2026-02-23, 20:05:15](https://news.ycombinator.com/item?id=47127986) - [UNIX99, a UNIX-like OS for the TI-99/4A](https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/)
+* [2026-02-23, 20:03:51](https://news.ycombinator.com/item?id=47127954) - [HackEurope 2026: A short rant on AI and hackathons](https://duti.dev/blog/2026/spr/)
 * [2026-02-23, 19:24:54](https://news.ycombinator.com/item?id=47127421) - [India's VIP culture is out of control](https://www.economist.com/asia/2026/02/22/indias-vip-culture-is-out-of-control)
 * [2026-02-23, 19:23:30](https://news.ycombinator.com/item?id=47127396) - [Binance fired employees who found $1.7B in crypto was sent to Iran](https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html)
 * [2026-02-23, 19:07:41](https://news.ycombinator.com/item?id=47127133) - [A lithium-ion breakthrough that could boost range and lower costs](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/forget-solid-state-batteries-researchers-have-made-a-lithium-ion-breakthrough-that-could-boost-range-and-drastically-lower-costs)

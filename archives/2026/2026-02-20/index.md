@@ -39,6 +39,7 @@
 * [2026-02-20, 14:14:33](https://news.ycombinator.com/item?id=47088307) - [“Playmakers,” reviewed: The race to give every child a toy](https://www.newyorker.com/magazine/2026/02/16/playmakers-the-jewish-entrepreneurs-who-created-the-toy-industry-in-america-michael-kimmel-book-review)
 * [2026-02-20, 14:03:06](https://news.ycombinator.com/item?id=47088181) - [I found a useful Git one liner buried in leaked CIA developer docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html)
 * [2026-02-20, 14:02:05](https://news.ycombinator.com/item?id=47088166) - [Show HN: A native macOS client for Hacker News, built with SwiftUI](https://github.com/IronsideXXVI/Hacker-News)
+* [2026-02-20, 13:55:08](https://news.ycombinator.com/item?id=47088076) - [What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics](https://jamesoswald.dev/posts/bigoinequality/)
 * [2026-02-20, 13:51:04](https://news.ycombinator.com/item?id=47088037) - [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759)
 * [2026-02-20, 13:48:55](https://news.ycombinator.com/item?id=47088005) - [Show HN: A geometric analysis of Chopin's Prelude No. 4 using 3D topology](https://github.com/jimishol/cholidean-harmony-structure/blob/main/docs/03-case-study-chopin-prelude04.md)
 * [2026-02-20, 13:44:42](https://news.ycombinator.com/item?id=47087954) - [Mothers (YC X26) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
