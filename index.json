@@ -1,22 +1,52 @@
 [
   [
     [
-      "2026-02-23, 17:20:25",
-      "https://news.ycombinator.com/item?id=47125374"
+      "2026-02-23, 19:07:41",
+      "https://news.ycombinator.com/item?id=47127133"
     ],
     [
-      "Writing code is cheap now",
-      "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/"
+      "A lithium-ion breakthrough that could boost range and lower costs",
+      "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/forget-solid-state-batteries-researchers-have-made-a-lithium-ion-breakthrough-that-could-boost-range-and-drastically-lower-costs"
     ]
   ],
   [
     [
-      "2026-02-23, 17:15:22",
-      "https://news.ycombinator.com/item?id=47125287"
+      "2026-02-23, 18:49:16",
+      "https://news.ycombinator.com/item?id=47126851"
     ],
     [
-      "Half million 'Words with Spaces' missing from dictionaries",
-      "https://www.linguabase.org/words-with-spaces.html"
+      "Waymo Is Destroying Tesla's Self-Driving Dreams",
+      "https://neuralfoundry.substack.com/p/waymo-is-destroying-teslas-self-driving"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 18:36:31",
+      "https://news.ycombinator.com/item?id=47126656"
+    ],
+    [
+      "Show HN: Shibuya – A High-Performance WAF in Rust with eBPF and ML Engine",
+      "https://ghostklan.com/shibuya.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 18:33:38",
+      "https://news.ycombinator.com/item?id=47126614"
+    ],
+    [
+      "Anthropic announces proof of distillation at scale by MiniMax, DeepSeek,Moonshot",
+      "https://twitter.com/anthropicai/status/2025997928242811253"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 17:18:41",
+      "https://news.ycombinator.com/item?id=47125349"
+    ],
+    [
+      "ASML unveils EUV light source advance that could yield 50% more chips by 2030",
+      "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/"
     ]
   ],
   [
@@ -51,26 +81,6 @@
   ],
   [
     [
-      "2026-02-23, 17:00:15",
-      "https://news.ycombinator.com/item?id=47125019"
-    ],
-    [
-      "AI is destroying open source, and it's not even good yet [video]",
-      "https://www.youtube.com/watch?v=bZJ7A1QoUEI"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 16:51:03",
-      "https://news.ycombinator.com/item?id=47124877"
-    ],
-    [
-      "Large study finds link between cannabis use in teens and psychosis later",
-      "https://text.npr.org/nx-s1-5719338"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 16:01:18",
       "https://news.ycombinator.com/item?id=47124149"
     ],
@@ -87,16 +97,6 @@
     [
       "Show HN: Sowbot – open-hardware agricultural robot (ROS2, RTK GPS)",
       "https://sowbot.co.uk/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 15:41:31",
-      "https://news.ycombinator.com/item?id=47123760"
-    ],
-    [
-      "Ed's Stratego Site",
-      "https://www.edcollins.com/stratego/index.html"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-02-20, 07:59:21",
+      "https://news.ycombinator.com/item?id=47085061"
+    ],
+    [
+      "Generalized Sequential Probability Ratio Test for Families of Hypotheses [pdf]",
+      "https://sites.stat.columbia.edu/jcliu/paper/GSPRT_SQA3.pdf"
+    ]
+  ],
+  [
+    [
       "2026-02-19, 19:37:00",
       "https://news.ycombinator.com/item?id=47078112"
     ],
@@ -277,16 +287,6 @@
     [
       "Sub-$200 Lidar could reshuffle auto sensor economics",
       "https://spectrum.ieee.org/solid-state-lidar-microvision-adas"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 16:23:19",
-      "https://news.ycombinator.com/item?id=47075446"
-    ],
-    [
-      "Microspeak: Escrow",
-      "https://devblogs.microsoft.com/oldnewthing/20260217-00/?p=112067"
     ]
   ],
   [
