@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-02-23, 21:47:29",
+      "https://news.ycombinator.com/item?id=47129415"
+    ],
+    [
+      "AI-powered reverse-engineering of Rosetta 2 (for Linux VM)",
+      "https://github.com/Inokinoki/attesor"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 21:44:28",
+      "https://news.ycombinator.com/item?id=47129361"
+    ],
+    [
+      "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+      "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 21:15:20",
       "https://news.ycombinator.com/item?id=47128960"
     ],
     [
       "Flock cameras gifted by Horowitz Foundation, avoiding public oversight",
       "https://thenevadaindependent.com/article/vegas-police-are-big-users-of-license-plate-readers-public-has-little-input-because-its-a-gift"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 21:11:24",
-      "https://news.ycombinator.com/item?id=47128907"
-    ],
-    [
-      "IBM Plunges After Anthropic's Latest Update Takes on COBOL",
-      "https://www.zerohedge.com/markets/ibm-plunges-after-anthropics-latest-update-takes-cobol"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "ASML unveils EUV light source advance that could yield 50% more chips by 2030",
       "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 17:01:39",
-      "https://news.ycombinator.com/item?id=47125046"
-    ],
-    [
-      "Decided to fly to the US to buy some hard drives",
-      "https://old.reddit.com/r/DataHoarder/comments/1rb9ot4/decided_to_fly_to_the_us_to_buy_some_hard_drives"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-02-22, 19:12:31",
+      "https://news.ycombinator.com/item?id=47113728"
+    ],
+    [
+      "I built Timeframe, our family e-paper dashboard",
+      "https://hawksley.org/2026/02/17/timeframe.html"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 18:28:58",
       "https://news.ycombinator.com/item?id=47113401"
     ],
@@ -261,26 +271,6 @@
   ],
   [
     [
-      "2026-02-20, 06:20:34",
-      "https://news.ycombinator.com/item?id=47084431"
-    ],
-    [
-      "Show HN: Fostrom, an IoT Cloud Platform built for developers",
-      "https://fostrom.io/"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 19:37:00",
-      "https://news.ycombinator.com/item?id=47078112"
-    ],
-    [
-      "0 A.D. Release 28: Boiorix",
-      "https://play0ad.com/new-release-0-a-d-release-28-boiorix/"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 17:58:27",
       "https://news.ycombinator.com/item?id=47076789"
     ],
@@ -297,6 +287,16 @@
     [
       "Sub-$200 Lidar could reshuffle auto sensor economics",
       "https://spectrum.ieee.org/solid-state-lidar-microvision-adas"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 16:12:21",
+      "https://news.ycombinator.com/item?id=47075295"
+    ],
+    [
+      "Scent, in Silico",
+      "https://www.asimov.press/p/scent"
     ]
   ]
 ]
