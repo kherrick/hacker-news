@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-23](index.md)
 
+* [2026-02-23, 11:29:22](https://news.ycombinator.com/item?id=47120899) - [Ladybird Browser adopts Rust](https://ladybird.org/posts/adopting-rust/)
 * [2026-02-23, 09:58:33](https://news.ycombinator.com/item?id=47120201) - [SETI@home: Data Acquisition and Front-End Processing](https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7)
 * [2026-02-23, 09:57:33](https://news.ycombinator.com/item?id=47120196) - [QRTape – Audio Playback from Paper Tape with Computer Vision](http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html)
 * [2026-02-23, 09:56:57](https://news.ycombinator.com/item?id=47120188) - [Hacker News.love – 22 projects Hacker News didn't love](https://hackernews.love/)

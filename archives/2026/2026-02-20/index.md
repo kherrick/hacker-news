@@ -44,6 +44,7 @@
 * [2026-02-20, 13:44:42](https://news.ycombinator.com/item?id=47087954) - [Mothers (YC X26) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-02-20, 13:22:32](https://news.ycombinator.com/item?id=47087719) - [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
 * [2026-02-20, 13:19:34](https://news.ycombinator.com/item?id=47087687) - [How to Stop Being Boring](https://www.joanwestenberg.com/how-to-stop-being-boring/)
+* [2026-02-20, 12:58:01](https://news.ycombinator.com/item?id=47087443) - [The Oracle of Bacon: Thirty Years Later](https://3quarksdaily.com/3quarksdaily/2026/02/the-oracle-of-bacon-thirty-years-later.html)
 * [2026-02-20, 12:24:02](https://news.ycombinator.com/item?id=47087143) - [Exercise has 'similar effect' to therapy, study on depression shows](https://medicalxpress.com/news/2026-01-similar-effect-therapy-depression.html)
 * [2026-02-20, 12:04:35](https://news.ycombinator.com/item?id=47086980) - [Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment](https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323)
 * [2026-02-20, 12:01:14](https://news.ycombinator.com/item?id=47086946) - [Hyperbound (YC S23, Series A) needs a Engineer with something to prove](https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove)
