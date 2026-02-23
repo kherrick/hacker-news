@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-23, 14:28:39](https://news.ycombinator.com/item?id=47122789) - [The peculiar case of Japanese web design](https://sabrinas.space)
+* [2026-02-23, 14:22:39](https://news.ycombinator.com/item?id=47122715) - [The Age Verification Trap, Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
 * [2026-02-23, 13:10:56](https://news.ycombinator.com/item?id=47121864) - [VTT Test Donut Lab Battery Reaches 80% Charge in Under 10 Minutes [pdf]](https://pub-fee113bb711e441db5c353d2d31abbb3.r2.dev/VTT_CR_00092_26.pdf)
 * [2026-02-23, 12:38:54](https://news.ycombinator.com/item?id=47121539) - [femtolisp: A lightweight, robust, scheme-like Lisp implementation](https://github.com/JeffBezanson/femtolisp)
-* [2026-02-23, 12:28:06](https://news.ycombinator.com/item?id=47121442) - [I Donut Believe – Presenting Third Party Results (Donut Lab)](https://idonutbelieve.com/)
 * [2026-02-23, 12:01:46](https://news.ycombinator.com/item?id=47121210) - [Facebook's Fascination with My Robots.txt](https://blog.nytsoi.net/2026/02/23/facebook-robots-txt)
 * [2026-02-23, 11:44:10](https://news.ycombinator.com/item?id=47121029) - [Hetzner (European hosting provider) to increase prices by up to 38%](https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/)
 * [2026-02-23, 11:29:22](https://news.ycombinator.com/item?id=47120899) - [Ladybird Browser adopts Rust](https://ladybird.org/posts/adopting-rust/)
@@ -15,7 +16,6 @@
 * [2026-02-23, 07:43:47](https://news.ycombinator.com/item?id=47119274) - [Magical Mushroom – Europe's first industrial-scale mycelium packaging producer](https://magicalmushroom.com/index)
 * [2026-02-23, 07:33:57](https://news.ycombinator.com/item?id=47119210) - [Pope tells priests to use their brains, not AI, to write homilies](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
 * [2026-02-23, 07:01:20](https://news.ycombinator.com/item?id=47118990) - [Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria](https://bitmovin.com/careers/8023403002/)
-* [2026-02-23, 04:03:58](https://news.ycombinator.com/item?id=47117966) - [Pinterest is drowning in a sea of AI slop and auto-moderation](https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/)
 * [2026-02-23, 03:54:32](https://news.ycombinator.com/item?id=47117886) - [Crawling a billion web pages in just over 24 hours, in 2025](https://andrewkchan.dev/posts/crawler.html)
 * [2026-02-23, 02:49:16](https://news.ycombinator.com/item?id=47117459) - [The JavaScript Oxidation Compiler](https://oxc.rs/)
 * [2026-02-22, 23:07:55](https://news.ycombinator.com/item?id=47115805) - [Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
@@ -28,8 +28,8 @@
 * [2026-02-19, 19:37:00](https://news.ycombinator.com/item?id=47078112) - [0 A.D. Release 28: Boiorix](https://play0ad.com/new-release-0-a-d-release-28-boiorix/)
 * [2026-02-19, 18:40:35](https://news.ycombinator.com/item?id=47077358) - [What Is a Centipawn Advantage?](https://win-vector.com/2026/02/19/what-is-a-centipawn-advantage/)
 * [2026-02-19, 16:23:39](https://news.ycombinator.com/item?id=47075455) - [Sub-$200 Lidar could reshuffle auto sensor economics](https://spectrum.ieee.org/solid-state-lidar-microvision-adas)
+* [2026-02-19, 16:23:19](https://news.ycombinator.com/item?id=47075446) - [Microspeak: Escrow](https://devblogs.microsoft.com/oldnewthing/20260217-00/?p=112067)
 * [2026-02-18, 21:59:06](https://news.ycombinator.com/item?id=47067031) - [My journey to the microwave alternate timeline](https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline)
-* [2026-02-18, 13:42:42](https://news.ycombinator.com/item?id=47060835) - [A NASA Engineer Discovered a World of Semi Truck Aerodynamics by Accident](https://www.thedrive.com/news/how-a-nasa-engineer-discovered-a-world-of-semi-truck-aerodynamics-by-accident)
 
 ## [Archives](archives/index.md)
 

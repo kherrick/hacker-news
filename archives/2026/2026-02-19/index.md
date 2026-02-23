@@ -32,6 +32,7 @@
 * [2026-02-19, 16:56:52](https://news.ycombinator.com/item?id=47075934) - [Choosing a Language Based on Its Syntax?](https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/)
 * [2026-02-19, 16:42:04](https://news.ycombinator.com/item?id=47075716) - [The Musidex: A physical music library for the streaming era](https://hannahilea.com/blog/musidex/)
 * [2026-02-19, 16:23:39](https://news.ycombinator.com/item?id=47075455) - [Sub-$200 Lidar Could Reshuffle Auto Sensor Economics](https://spectrum.ieee.org/solid-state-lidar-microvision-adas)
+* [2026-02-19, 16:23:19](https://news.ycombinator.com/item?id=47075446) - [Microspeak: Escrow](https://devblogs.microsoft.com/oldnewthing/20260217-00/?p=112067)
 * [2026-02-19, 16:20:26](https://news.ycombinator.com/item?id=47075400) - [AI made coding more enjoyable](https://weberdominik.com/blog/ai-coding-enjoyable/)
 * [2026-02-19, 16:14:07](https://news.ycombinator.com/item?id=47075318) - [Gemini 3.1 Pro](https://deepmind.google/models/model-cards/gemini-3-1-pro/)
 * [2026-02-19, 16:07:14](https://news.ycombinator.com/item?id=47075245) - [Mark Zuckerberg Grilled on Usage Goals and Underage Users at California Trial](https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0)
