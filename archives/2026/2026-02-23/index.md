@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-23](index.md)
 
+* [2026-02-23, 21:47:29](https://news.ycombinator.com/item?id=47129415) - [AI-powered reverse-engineering of Rosetta 2 (for Linux VM)](https://github.com/Inokinoki/attesor)
+* [2026-02-23, 21:44:28](https://news.ycombinator.com/item?id=47129361) - [FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
 * [2026-02-23, 21:15:20](https://news.ycombinator.com/item?id=47128960) - [Flock cameras gifted by Horowitz Foundation, avoiding public oversight](https://thenevadaindependent.com/article/vegas-police-are-big-users-of-license-plate-readers-public-has-little-input-because-its-a-gift)
 * [2026-02-23, 21:11:24](https://news.ycombinator.com/item?id=47128907) - [IBM Plunges After Anthropic's Latest Update Takes on COBOL](https://www.zerohedge.com/markets/ibm-plunges-after-anthropics-latest-update-takes-cobol)
 * [2026-02-23, 21:04:19](https://news.ycombinator.com/item?id=47128799) - [Stop Killing Games update says EU petition advances](https://videocardz.com/newz/stop-killing-games-update-says-eu-petition-advances)

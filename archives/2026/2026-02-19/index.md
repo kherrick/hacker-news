@@ -36,6 +36,7 @@
 * [2026-02-19, 16:23:19](https://news.ycombinator.com/item?id=47075446) - [Microspeak: Escrow](https://devblogs.microsoft.com/oldnewthing/20260217-00/?p=112067)
 * [2026-02-19, 16:20:26](https://news.ycombinator.com/item?id=47075400) - [AI made coding more enjoyable](https://weberdominik.com/blog/ai-coding-enjoyable/)
 * [2026-02-19, 16:14:07](https://news.ycombinator.com/item?id=47075318) - [Gemini 3.1 Pro](https://deepmind.google/models/model-cards/gemini-3-1-pro/)
+* [2026-02-19, 16:12:21](https://news.ycombinator.com/item?id=47075295) - [Scent, in Silico](https://www.asimov.press/p/scent)
 * [2026-02-19, 16:07:14](https://news.ycombinator.com/item?id=47075245) - [Mark Zuckerberg Grilled on Usage Goals and Underage Users at California Trial](https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0)
 * [2026-02-19, 15:54:14](https://news.ycombinator.com/item?id=47075124) - [Show HN: Micasa – track your house from the terminal](https://micasa.dev)
 * [2026-02-19, 15:30:42](https://news.ycombinator.com/item?id=47074869) - [Dinosaur Food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
