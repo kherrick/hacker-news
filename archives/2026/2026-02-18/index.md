@@ -13,6 +13,7 @@
 * [2026-02-18, 22:16:07](https://news.ycombinator.com/item?id=47067187) - [Introduction to Out of Time Order Correlators (OTOCs)(2025)](https://quantumcomputer.blog/introduction-to-out-of-time-order-correlators/)
 * [2026-02-18, 21:59:06](https://news.ycombinator.com/item?id=47067031) - [My journey to the microwave alternate timeline](https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline)
 * [2026-02-18, 21:18:20](https://news.ycombinator.com/item?id=47066552) - [Womens Sizing](https://pudding.cool/2026/02/womens-sizing/)
+* [2026-02-18, 21:10:09](https://news.ycombinator.com/item?id=47066446) - [How to train your program verifier](https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/)
 * [2026-02-18, 21:00:32](https://news.ycombinator.com/item?id=47066310) - [Metriport (YC S22) is hiring a security engineer to harden healthcare infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
 * [2026-02-18, 20:54:31](https://news.ycombinator.com/item?id=47066241) - [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)
 * [2026-02-18, 20:30:22](https://news.ycombinator.com/item?id=47065972) - [Notes on Clarifying Man Pages](https://jvns.ca/blog/2026/02/18/man-pages/)

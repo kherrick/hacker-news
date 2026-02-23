@@ -4,5 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-23](index.md)
 
+* [2026-02-23, 03:35:31](https://news.ycombinator.com/item?id=47117780) - [Freemediaheckyeah](https://fmhy.net/)
+* [2026-02-23, 02:57:28](https://news.ycombinator.com/item?id=47117521) - [LGP to take Mister Car Wash private in $3.1B deal](https://www.alternativeswatch.com/2026/02/22/lgp-take-mister-car-wash-private-3-1-billion-deal/)
+* [2026-02-23, 02:49:16](https://news.ycombinator.com/item?id=47117459) - [The JavaScript Oxidation Compiler](https://oxc.rs/)
+* [2026-02-23, 02:41:43](https://news.ycombinator.com/item?id=47117408) - [Agentic Software Engineering Book](https://agenticse-book.github.io/)
+* [2026-02-23, 02:07:27](https://news.ycombinator.com/item?id=47117169) - [Aqua: A CLI message tool for AI agents](https://github.com/quailyquaily/aqua)
+* [2026-02-23, 01:54:16](https://news.ycombinator.com/item?id=47117087) - [$30B for laptops yielded a generation less cognitively capable than parents](https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html)
 * [2026-02-23, 01:23:18](https://news.ycombinator.com/item?id=47116866) - [The surprising power of daily rituals](https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress)
 * [2026-02-23, 00:21:23](https://news.ycombinator.com/item?id=47116385) - [IT Staffing Firms (TCS, Cognizant, Infosis Underpay Developers by 80–100%](https://h1bdatahub.com/blog/cognizant-tcs-infosys-low-h1b-salaries-exposed)
