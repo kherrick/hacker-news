@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-02-23](index.md)
 
+* [2026-02-23, 21:15:20](https://news.ycombinator.com/item?id=47128960) - [Flock cameras gifted by Horowitz Foundation, avoiding public oversight](https://thenevadaindependent.com/article/vegas-police-are-big-users-of-license-plate-readers-public-has-little-input-because-its-a-gift)
+* [2026-02-23, 21:11:24](https://news.ycombinator.com/item?id=47128907) - [IBM Plunges After Anthropic's Latest Update Takes on COBOL](https://www.zerohedge.com/markets/ibm-plunges-after-anthropics-latest-update-takes-cobol)
+* [2026-02-23, 21:04:19](https://news.ycombinator.com/item?id=47128799) - [Stop Killing Games update says EU petition advances](https://videocardz.com/newz/stop-killing-games-update-says-eu-petition-advances)
+* [2026-02-23, 21:00:28](https://news.ycombinator.com/item?id=47128740) - [SIM (YC X25) Is Hiring the Best Engineers in San Francisco](https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform)
+* [2026-02-23, 20:53:36](https://news.ycombinator.com/item?id=47128631) - [The challenges of porting Shufflepuck Cafe to the 8 bits Apple II](https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/)
+* [2026-02-23, 20:45:34](https://news.ycombinator.com/item?id=47128535) - [Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)](https://github.com/vignesh07/babyshark)
 * [2026-02-23, 20:16:08](https://news.ycombinator.com/item?id=47128138) - [\"Car Wash\" test with 53 models](https://opper.ai/blog/car-wash-test)
 * [2026-02-23, 20:05:15](https://news.ycombinator.com/item?id=47127986) - [UNIX99, a UNIX-like OS for the TI-99/4A](https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/)
 * [2026-02-23, 19:24:54](https://news.ycombinator.com/item?id=47127421) - [India's VIP culture is out of control](https://www.economist.com/asia/2026/02/22/indias-vip-culture-is-out-of-control)
