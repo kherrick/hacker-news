@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=47120201"
     ],
     [
-      "SETI@home: Data Acquisition and Front-End Processing",
+      "SETI@home: Data Acquisition and Front-End Processing (2025)",
       "https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7"
     ]
   ],
@@ -15,18 +15,28 @@
       "https://news.ycombinator.com/item?id=47120196"
     ],
     [
-      "QRTape – Audio Playback from Paper Tape with Computer Vision",
+      "QRTape – Audio Playback from Paper Tape with Computer Vision (2021)",
       "http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html"
     ]
   ],
   [
     [
-      "2026-02-23, 09:52:14",
-      "https://news.ycombinator.com/item?id=47120145"
+      "2026-02-23, 09:56:57",
+      "https://news.ycombinator.com/item?id=47120188"
     ],
     [
-      "Hetzner Prices increase 30-40%",
-      "https://docs.hetzner.com/de/general/infrastructure-and-availability/price-adjustment/"
+      "Hacker News.love – 22 projects Hacker News didn't love",
+      "https://hackernews.love/"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 09:07:44",
+      "https://news.ycombinator.com/item?id=47119871"
+    ],
+    [
+      "Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)",
+      "https://llm-timeline.com/"
     ]
   ],
   [
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2026-02-23, 03:54:32",
+      "https://news.ycombinator.com/item?id=47117886"
+    ],
+    [
+      "Crawling a billion web pages in just over 24 hours, in 2025",
+      "https://andrewkchan.dev/posts/crawler.html"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 02:49:16",
       "https://news.ycombinator.com/item?id=47117459"
     ],
@@ -127,16 +147,6 @@
     [
       "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
       "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 22:42:16",
-      "https://news.ycombinator.com/item?id=47115575"
-    ],
-    [
-      "Using the new bridges of FreeBSD 15",
-      "https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-02-20, 11:56:25",
-      "https://news.ycombinator.com/item?id=47086900"
-    ],
-    [
-      "A bug is a bug, but a patch is a policy: The case for bootable containers",
-      "https://tuananh.net/2026/02/20/patch-is-policy/"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 19:37:00",
       "https://news.ycombinator.com/item?id=47078112"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-02-19, 14:23:40",
-      "https://news.ycombinator.com/item?id=47074049"
-    ],
-    [
-      "Cursor’s debug mode is arguably its best feature",
-      "https://davidgomes.com/cursor-debug-mode/"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 21:59:06",
       "https://news.ycombinator.com/item?id=47067031"
     ],
@@ -297,6 +287,16 @@
     [
       "How to train your program verifier",
       "https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 13:42:42",
+      "https://news.ycombinator.com/item?id=47060835"
+    ],
+    [
+      "A NASA Engineer Discovered a World of Semi Truck Aerodynamics by Accident",
+      "https://www.thedrive.com/news/how-a-nasa-engineer-discovered-a-world-of-semi-truck-aerodynamics-by-accident"
     ]
   ]
 ]
