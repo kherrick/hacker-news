@@ -129,28 +129,68 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="47127421">
+        <section id="47128138">
           <h3>
-            <a
-              class="item"
-              href="https://www.economist.com/asia/2026/02/22/indias-vip-culture-is-out-of-control"
-              >India's VIP culture is out of control</a
+            <a class="item" href="https://opper.ai/blog/car-wash-test"
+              >"Car Wash" test with 53 models</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-02-23 @ 19:24:54</span
+              <span>2026-02-23 @ 20:16:08</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47127421"
+                ><a href="https://news.ycombinator.com/item?id=47128138"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
             <div class="text">
-              <a href="https://archive.is/iI6rY">https://archive.is/iI6rY</a>
+              <p>
+                On a single run, only 11 out of 53 got it right (42 said walk).
+                But a single run doesn't prove much, so I reran every model 10
+                times. Same prompt, no cache, clean slate.
+              </p>
+              <p>
+                The results got worse. Of the 11 that passed the single run,
+                only 5 could do it consistently. GPT-5 managed 7/10. GPT-5.1,
+                GPT-5.2, Claude Sonnet 4.5, every Llama and Mistral model scored
+                0/10 across all 10 runs.
+              </p>
+              <p>
+                People kept saying humans would fail this too, so I got a human
+                baseline through Rapidata (10k people, same forced choice):
+                71.5% said drive. Most models perform below that.
+              </p>
+              <p>
+                All reasoning traces (ran via Opper, my startup), full model
+                breakdown, human baseline data, and raw JSON files are in the
+                writeup for anyone who wants to dig in or run their own
+                analysis.
+              </p>
             </div>
+          </section>
+        </section>
+        <section id="47127986">
+          <h3>
+            <a
+              class="item"
+              href="https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/"
+              >UNIX99, a UNIX-like OS for the TI-99/4A</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-23 @ 20:05:15</span
+              ><span class="points-container"
+                >Points: <span class="points">93</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47127986"
+                  >Comments</a
+                ><span class="descendants">: 25</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="47127396">
@@ -166,11 +206,11 @@
             <h4>
               <span>2026-02-23 @ 19:23:30</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">236</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47127396"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -188,11 +228,11 @@
             <h4>
               <span>2026-02-23 @ 19:07:41</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47127133"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -209,83 +249,13 @@
             <h4>
               <span>2026-02-23 @ 19:04:34</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">334</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47127081"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 207</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47126656">
-          <h3>
-            <a class="item" href="https://ghostklan.com/shibuya.html"
-              >Show HN: Shibuya – A High-Performance WAF in Rust with eBPF and
-              ML Engine</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-23 @ 18:36:31</span
-              ><span class="points-container"
-                >Points: <span class="points">19</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47126656"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I’ve been working on Shibuya, a next-generation Web Application
-                Firewall (WAF) built from the ground up in Rust.
-              </p>
-              <p>
-                I wanted to build a WAF that didn't just rely on legacy regex
-                signatures but could understand intent and perform at line-rate
-                using modern kernel features.
-              </p>
-              <p>What makes Shibuya different:</p>
-              <p>
-                Multi-Layer Pipeline: It integrates a high-performance proxy
-                (built on Pingora) with rate limiting, bot detection, and threat
-                intelligence.
-              </p>
-              <p>
-                eBPF Kernel Filtering: For volumetric attacks, Shibuya can drop
-                malicious packets at the kernel level using XDP before they
-                consume userspace resources.
-              </p>
-              <p>
-                Dual ML Engine: It uses an ONNX-based engine for anomaly
-                detection and a Random Forest classifier to identify specific
-                attack classes like SQLi, XSS, and RCE.
-              </p>
-              <p>
-                API &amp; GraphQL Protection: Includes deep inspection for
-                GraphQL (depth and complexity analysis) and OpenAPI schema
-                validation.
-              </p>
-              <p>
-                WASM Extensibility: You can write and hot-load custom security
-                logic using WebAssembly plugins.
-              </p>
-              <p>
-                Ashigaru Lab: The project includes a deliberately vulnerable lab
-                environment with 6 different services and a "Red Team Bot" to
-                test the WAF against 100+ simulated payloads.
-              </p>
-              <p>
-                The Dashboard: The dashboard is built with SvelteKit and offers
-                real-time monitoring (ECharts), a "Panic Mode" for instant
-                hardening, and a visual editor for the YAML configuration.
-              </p>
-              <p>
-                I'm looking for feedback on the architecture and the performance
-                of the Rust-eBPF integration.
-              </p>
-            </div>
           </section>
         </section>
         <section id="47125349">
@@ -301,11 +271,11 @@
             <h4>
               <span>2026-02-23 @ 17:18:41</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">160</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47125349"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -322,11 +292,11 @@
             <h4>
               <span>2026-02-23 @ 17:15:14</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47125286"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -343,11 +313,11 @@
             <h4>
               <span>2026-02-23 @ 17:01:39</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47125046"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -381,11 +351,11 @@
             <h4>
               <span>2026-02-23 @ 16:01:18</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47124149"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -401,11 +371,11 @@
             <h4>
               <span>2026-02-23 @ 15:48:33</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47123894"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
             <div class="text">
@@ -465,7 +435,7 @@
             <h4>
               <span>2026-02-23 @ 15:33:24</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47123631"
                   >Comments</a
@@ -612,11 +582,11 @@
             <h4>
               <span>2026-02-23 @ 14:28:39</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47122789"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -632,11 +602,11 @@
             <h4>
               <span>2026-02-23 @ 14:22:39</span
               ><span class="points-container"
-                >Points: <span class="points">940</span></span
+                >Points: <span class="points">1016</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47122715"
                   >Comments</a
-                ><span class="descendants">: 761</span></span
+                ><span class="descendants">: 800</span></span
               >
             </h4>
           </section>
@@ -652,7 +622,7 @@
             <h4>
               <span>2026-02-23 @ 12:38:54</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47121539"
                   >Comments</a
@@ -671,11 +641,11 @@
             <h4>
               <span>2026-02-23 @ 11:29:22</span
               ><span class="points-container"
-                >Points: <span class="points">906</span></span
+                >Points: <span class="points">947</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47120899"
                   >Comments</a
-                ><span class="descendants">: 486</span></span
+                ><span class="descendants">: 516</span></span
               >
             </h4>
           </section>
@@ -692,7 +662,7 @@
             <h4>
               <span>2026-02-23 @ 09:58:33</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47120201"
                   >Comments</a
@@ -712,11 +682,11 @@
             <h4>
               <span>2026-02-23 @ 09:07:44</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47119871"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
             <div class="text">
@@ -738,11 +708,11 @@
             <h4>
               <span>2026-02-23 @ 08:22:34</span
               ><span class="points-container"
-                >Points: <span class="points">463</span></span
+                >Points: <span class="points">480</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47119530"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -758,11 +728,11 @@
             <h4>
               <span>2026-02-23 @ 07:43:47</span
               ><span class="points-container"
-                >Points: <span class="points">291</span></span
+                >Points: <span class="points">315</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47119274"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -779,11 +749,11 @@
             <h4>
               <span>2026-02-22 @ 19:12:31</span
               ><span class="points-container"
-                >Points: <span class="points">1473</span></span
+                >Points: <span class="points">1495</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47113728"
                   >Comments</a
-                ><span class="descendants">: 347</span></span
+                ><span class="descendants">: 348</span></span
               >
             </h4>
           </section>
@@ -800,11 +770,11 @@
             <h4>
               <span>2026-02-22 @ 18:28:58</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47113401"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -822,11 +792,11 @@
             <h4>
               <span>2026-02-21 @ 13:24:04</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47100612"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -844,11 +814,11 @@
             <h4>
               <span>2026-02-20 @ 13:33:03</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47087838"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -866,13 +836,97 @@
             <h4>
               <span>2026-02-20 @ 07:59:21</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47085061"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="47084431">
+          <h3>
+            <a class="item" href="https://fostrom.io/"
+              >Show HN: Fostrom, an IoT Cloud Platform built for developers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-20 @ 06:20:34</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47084431"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Fostrom is an IoT Cloud Platform designed for developers to make
+                it really easy to get started and scale fleets. We have Device
+                SDKs (in Python, JS, Elixir, more coming soon), Typed Schemas,
+                Per-Device Mailboxes, Programmable Actions, 4 Global Regions for
+                lower-latency connections, and much more.
+              </p>
+              <p>
+                We've built Fostrom to solve a real need we faced in our
+                previous startup, building a fully automated indoor vertical
+                farm. We spent more time figuring out IoT infrastructure than
+                writing automation logic. Fostrom is the platform we wished
+                existed back then.
+              </p>
+              <p>
+                Over the last few years we've experimented with a lot of
+                interesting tech and architectures, and settled on an
+                architecture that we believe is quite elegant. We wrote a
+                Go&lt;-&gt;Elixir bridge to execute JS code in WASM for Actions,
+                implemented a DuckDB library for Elixir, and wrote a Device
+                Agent in Rust that our SDKs run in the background (<a
+                  href="https://github.com/fostrom/devicekit"
+                  >https://github.com/fostrom/devicekit</a
+                >).
+              </p>
+              <p>
+                The most interesting realization we had was about the data
+                architecture. For years, we tried using distributed databases
+                and built complex layers on top of them, but all approaches had
+                significant limitations specifically around consistency and
+                querying. We want to provide operational correctness, rich
+                insights, and reliability. Finally, we came to the conclusion
+                that to achieve this we really need a SQL database for fleet
+                data. So we built a DuckDB-based replicated multi-tenant data
+                layer. We're still improving it (hence the Technical Preview
+                badge) but we're quite proud of this decision. It simplifies the
+                rest of the codebase, while keeping operational complexity in
+                just a few places.
+              </p>
+              <p>
+                Our vision is to make a powerful IoT platform that enables you
+                to build correct, secure, and reliable connected systems without
+                dealing with any of the plumbing or infrastructure.
+              </p>
+              <p>
+                Next up, we're gonna launch our CLI, add automatic device
+                monitoring to our Device SDKs, and improve the debugging
+                experience. We have some pretty cool ideas to make Fostrom and
+                the experience of developing connected systems better. We're
+                also going to write more about our architecture and journey
+                soon.
+              </p>
+              <p>
+                We also published our launch blog post which goes into more
+                detail about our vision, what we've built, and our future plans:
+                <a href="https://fostrom.io/blog/introducing-fostrom"
+                  >https://fostrom.io/blog/introducing-fostrom</a
+                >
+              </p>
+              <p>
+                Would love for you to try out Fostrom and give us your feedback
+                and thoughts.
+              </p>
+            </div>
           </section>
         </section>
         <section id="47078112">
@@ -887,11 +941,11 @@
             <h4>
               <span>2026-02-19 @ 19:37:00</span
               ><span class="points-container"
-                >Points: <span class="points">308</span></span
+                >Points: <span class="points">321</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47078112"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -908,11 +962,11 @@
             <h4>
               <span>2026-02-19 @ 18:40:35</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47077358"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -927,7 +981,7 @@
             <h4>
               <span>2026-02-19 @ 17:58:27</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47076789"
                   >Comments</a
@@ -948,33 +1002,11 @@
             <h4>
               <span>2026-02-19 @ 16:23:39</span
               ><span class="points-container"
-                >Points: <span class="points">348</span></span
+                >Points: <span class="points">362</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47075455"
                   >Comments</a
-                ><span class="descendants">: 464</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47074025">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bbc.com/news/articles/cwy89lr3pl4o"
-              >Yes there is a right way to stack the dishwasher. Here are the 5
-              rules</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-19 @ 14:21:52</span
-              ><span class="points-container"
-                >Points: <span class="points">11</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47074025"
-                  >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 491</span></span
               >
             </h4>
           </section>
