@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-02-23](index.md)
 
+* [2026-02-23, 17:00:43](https://news.ycombinator.com/item?id=47125026) - [Hadrius (YC W23) Is Hiring Designers Who Code](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer)
+* [2026-02-23, 16:51:03](https://news.ycombinator.com/item?id=47124877) - [Large study finds link between cannabis use in teens and psychosis later](https://text.npr.org/nx-s1-5719338)
+* [2026-02-23, 16:24:44](https://news.ycombinator.com/item?id=47124475) - [Silicon Valley can't import talent like before. So it's exporting jobs](https://restofworld.org/2026/h1b-visa-impact-india-tech-hiring-faamng/)
+* [2026-02-23, 16:14:10](https://news.ycombinator.com/item?id=47124325) - [C99 implementation of new O(m log^(2/3) n) shortest path algorithm](https://github.com/danalec/DMMSY-SSSP)
+* [2026-02-23, 16:01:18](https://news.ycombinator.com/item?id=47124149) - [A simple web we own](https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html)
+* [2026-02-23, 15:53:51](https://news.ycombinator.com/item?id=47124007) - [First, They Came for the Journalists](https://www.codastory.com/disinformation/first-they-came-for-the-journalists/)
+* [2026-02-23, 15:43:57](https://news.ycombinator.com/item?id=47123805) - [AIs can generate near-verbatim copies of novels from training data](https://arstechnica.com/ai/2026/02/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/)
+* [2026-02-23, 15:12:16](https://news.ycombinator.com/item?id=47123321) - [NASA uses Mars Helicopter's SoC for rover navigation upgrade](https://www.theregister.com/2026/02/23/perseverance_rover_soc_navigation_upgrade/)
 * [2026-02-23, 14:28:39](https://news.ycombinator.com/item?id=47122789) - [The peculiar case of Japanese web design](https://sabrinas.space)
 * [2026-02-23, 14:22:39](https://news.ycombinator.com/item?id=47122715) - [The Age Verification Trap, Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
 * [2026-02-23, 13:53:21](https://news.ycombinator.com/item?id=47122337) - [How in the Hell Did Joann Fabrics Die While Best Buy Survived? It Wasn't Amazon](https://www.governance.fyi/p/how-in-the-hell-did-joann-fabrics)

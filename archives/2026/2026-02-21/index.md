@@ -29,6 +29,7 @@
 * [2026-02-21, 14:32:16](https://news.ycombinator.com/item?id=47101171) - [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206)
 * [2026-02-21, 14:01:45](https://news.ycombinator.com/item?id=47100935) - [The Human Root of Trust – public domain framework for agent accountability](https://humanrootoftrust.org/)
 * [2026-02-21, 13:28:39](https://news.ycombinator.com/item?id=47100641) - [DJB's Cryptographic Odyssey: From Code Hero to Standards Gadfly](https://cryptography.watch/articles/djb-cryptographic-odyssey/)
+* [2026-02-21, 13:24:04](https://news.ycombinator.com/item?id=47100612) - ['Viking' was a job description, not a matter of heredity: Ancient DNA study](https://www.science.org/content/article/viking-was-job-description-not-matter-heredity-massive-ancient-dna-study-shows)
 * [2026-02-21, 12:49:24](https://news.ycombinator.com/item?id=47100328) - [Show HN: Elecxzy – A lightweight, Lisp-free Emacs-like editor in Electron](https://github.com/kurouna/elecxzy)
 * [2026-02-21, 12:37:52](https://news.ycombinator.com/item?id=47100232) - [zclaw: personal AI assistant in under 888 KB, running on an ESP32](https://github.com/tnm/zclaw)
 * [2026-02-21, 12:32:06](https://news.ycombinator.com/item?id=47100190) - [The Four-Color Theorem 1852–1976](https://www.ams.org/journals/notices/202603/noti3305/noti3305.html)
