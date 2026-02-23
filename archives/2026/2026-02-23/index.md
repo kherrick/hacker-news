@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-02-23](index.md)
 
+* [2026-02-23, 12:01:46](https://news.ycombinator.com/item?id=47121210) - [Facebook's Fascination with My Robots.txt](https://blog.nytsoi.net/2026/02/23/facebook-robots-txt)
+* [2026-02-23, 11:44:10](https://news.ycombinator.com/item?id=47121029) - [Hetzner (European hosting provider) to increase prices by up to 38%](https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/)
 * [2026-02-23, 11:29:22](https://news.ycombinator.com/item?id=47120899) - [Ladybird Browser adopts Rust](https://ladybird.org/posts/adopting-rust/)
 * [2026-02-23, 09:58:33](https://news.ycombinator.com/item?id=47120201) - [SETI@home: Data Acquisition and Front-End Processing](https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7)
 * [2026-02-23, 09:57:33](https://news.ycombinator.com/item?id=47120196) - [QRTape – Audio Playback from Paper Tape with Computer Vision](http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html)
 * [2026-02-23, 09:56:57](https://news.ycombinator.com/item?id=47120188) - [Hacker News.love – 22 projects Hacker News didn't love](https://hackernews.love/)
 * [2026-02-23, 09:52:14](https://news.ycombinator.com/item?id=47120145) - [Hetzner Prices increase 30-40%](https://docs.hetzner.com/de/general/infrastructure-and-availability/price-adjustment/)
+* [2026-02-23, 09:41:54](https://news.ycombinator.com/item?id=47120079) - [What I Learned After Building 3 TV Apps Coming from Mobile](https://dinkomarinac.dev/blog/what-i-learned-after-building-3-tv-apps-coming-from-mobile/)
 * [2026-02-23, 09:07:44](https://news.ycombinator.com/item?id=47119871) - [Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)](https://llm-timeline.com/)
 * [2026-02-23, 08:22:34](https://news.ycombinator.com/item?id=47119530) - [Elsevier Shuts Down Its Finance Journal Citation Cartel](https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal)
 * [2026-02-23, 07:43:47](https://news.ycombinator.com/item?id=47119274) - [Magical Mushroom – Europe's first industrial-scale mycelium packaging producer](https://magicalmushroom.com/index)
