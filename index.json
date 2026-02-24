@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-24, 13:04:16",
+      "https://news.ycombinator.com/item?id=47136611"
+    ],
+    [
+      "Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148",
+      "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 12:51:49",
+      "https://news.ycombinator.com/item?id=47136477"
+    ],
+    [
+      "xAI and Pentagon reach deal to use Grok in classified systems",
+      "https://www.axios.com/2026/02/23/ai-defense-department-deal-musk-xai-grok"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 09:15:56",
       "https://news.ycombinator.com/item?id=47134779"
     ],
@@ -87,16 +107,6 @@
     [
       "Making Wolfram tech available as a foundation tool for LLM systems",
       "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 21:44:28",
-      "https://news.ycombinator.com/item?id=47129361"
-    ],
-    [
-      "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
-      "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-02-21, 06:28:29",
-      "https://news.ycombinator.com/item?id=47098029"
-    ],
-    [
-      "Typed Assembly Language (2000)",
-      "https://www.cs.cornell.edu/talc/"
-    ]
-  ],
-  [
-    [
       "2026-02-21, 00:47:09",
       "https://news.ycombinator.com/item?id=47096186"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=47095266"
     ],
     [
-      "ΛProlog: Logic programming in higher-order logic",
+      "λProlog: Logic programming in higher-order logic",
       "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/"
     ]
   ],
