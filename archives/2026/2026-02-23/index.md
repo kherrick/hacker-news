@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-23](index.md)
 
+* [2026-02-23, 23:58:45](https://news.ycombinator.com/item?id=47130860) - [I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)
+* [2026-02-23, 23:16:03](https://news.ycombinator.com/item?id=47130431) - [Why Your Load Balancer Still Sends Traffic to Dead Backends](https://singh-sanjay.com/2026/01/12/health-checks-client-vs-server-side-lb.html)
 * [2026-02-23, 22:55:08](https://news.ycombinator.com/item?id=47130208) - [AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
 * [2026-02-23, 22:11:34](https://news.ycombinator.com/item?id=47129727) - [Making Wolfram Tech Available as a Foundation Tool for LLM Systems](https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/)
 * [2026-02-23, 22:05:27](https://news.ycombinator.com/item?id=47129647) - [You are not supposed to install OpenClaw on your personal computer](https://twitter.com/i/status/2025987544853188836)
