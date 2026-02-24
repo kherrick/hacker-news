@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-24, 19:43:34",
+      "https://news.ycombinator.com/item?id=47141797"
+    ],
+    [
+      "Hacking an old Kindle to display bus arrival times",
+      "https://www.mariannefeng.com/portfolio/kindle/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 19:18:48",
+      "https://news.ycombinator.com/item?id=47141385"
+    ],
+    [
+      "Manjaro website off-line again due to lapsed certificate",
+      "https://distrowatch.com/dwres.php?resource=showheadline&story=20140"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 18:46:25",
       "https://news.ycombinator.com/item?id=47140932"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-02-24, 17:03:37",
-      "https://news.ycombinator.com/item?id=47139519"
-    ],
-    [
-      "Cardiorespiratory fitness is associated with lower anger and anxiety",
-      "https://linkinghub.elsevier.com/retrieve/pii/S000169182600171X"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 17:00:34",
       "https://news.ycombinator.com/item?id=47139475"
     ],
@@ -137,26 +147,6 @@
     [
       "Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)",
       "https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 14:37:52",
-      "https://news.ycombinator.com/item?id=47137711"
-    ],
-    [
-      "Stripe valued at $159B, 2025 annual letter",
-      "https://stripe.com/newsroom/news/stripe-2025-update"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 13:08:56",
-      "https://news.ycombinator.com/item?id=47136658"
-    ],
-    [
-      "Why the KeePass format should be based on SQLite",
-      "https://mketab.org/blog/sqlite_kdbx/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Extending C with Prolog (1994)",
       "https://www.amzi.com/articles/irq_expert_system.htm"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 14:14:08",
+      "https://news.ycombinator.com/item?id=47101034"
+    ],
+    [
+      "Build Your Own Forth Interpreter",
+      "https://codingchallenges.fyi/challenges/challenge-forth/"
     ]
   ],
   [
