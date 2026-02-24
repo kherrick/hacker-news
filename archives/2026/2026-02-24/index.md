@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 21:54:07](https://news.ycombinator.com/item?id=47143755) - [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)
+* [2026-02-24, 21:53:59](https://news.ycombinator.com/item?id=47143754) - [Pi – a minimal terminal coding harness](https://pi.dev)
 * [2026-02-24, 21:51:11](https://news.ycombinator.com/item?id=47143717) - [Show HN: Recursively apply patterns for pathfinding](https://pattern-pathfinder.vercel.app/?fixtureId=%7B%22path%22%3A%22site%2Fexamples%2F_intro.fixture.tsx%22%7D)
 * [2026-02-24, 21:19:03](https://news.ycombinator.com/item?id=47143211) - [Looks Like it is Happening](https://www.math.columbia.edu/~woit/wordpress/?p=15500)
 * [2026-02-24, 21:13:45](https://news.ycombinator.com/item?id=47143152) - [Mac mini will be made at a new facility in Houston](https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/)
+* [2026-02-24, 21:01:28](https://news.ycombinator.com/item?id=47142975) - [Show HN: Declarative open-source framework for MCPs with search and execute](https://hyperterse.com)
 * [2026-02-24, 20:35:41](https://news.ycombinator.com/item?id=47142587) - [Pentagon threatens to make Anthropic a pariah](https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei)
 * [2026-02-24, 20:27:47](https://news.ycombinator.com/item?id=47142458) - [Why High FOV Sucks – Fixing It with Panini Projection](https://www.youtube.com/watch?v=LE9kxUQ-l14)
 * [2026-02-24, 20:07:00](https://news.ycombinator.com/item?id=47142156) - [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/)
