@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-24, 22:16:12",
+      "https://news.ycombinator.com/item?id=47144064"
+    ],
+    [
+      "Stripe reportedly makes offer to acquire PayPal",
+      "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 22:09:57",
+      "https://news.ycombinator.com/item?id=47143976"
+    ],
+    [
+      "Dream Recorder AI – a portal to your subconscious",
+      "https://dreamrecorder.ai/"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 21:54:07",
       "https://news.ycombinator.com/item?id=47143755"
     ],
@@ -51,22 +71,22 @@
   ],
   [
     [
-      "2026-02-24, 21:01:28",
-      "https://news.ycombinator.com/item?id=47142975"
-    ],
-    [
-      "Show HN: Declarative open-source framework for MCPs with search and execute",
-      "https://hyperterse.com"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 20:07:00",
       "https://news.ycombinator.com/item?id=47142156"
     ],
     [
       "How we rebuilt Next.js with AI in one week",
       "https://blog.cloudflare.com/vinext/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 20:01:54",
+      "https://news.ycombinator.com/item?id=47142078"
+    ],
+    [
+      "We Are Changing Our Developer Productivity Experiment Design",
+      "https://metr.org/blog/2026-02-24-uplift-update/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-02-24, 13:04:16",
-      "https://news.ycombinator.com/item?id=47136611"
-    ],
-    [
-      "Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148",
-      "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 13:03:51",
       "https://news.ycombinator.com/item?id=47136604"
     ],
@@ -207,16 +217,6 @@
     [
       "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
       "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 17:14:02",
-      "https://news.ycombinator.com/item?id=47125263"
-    ],
-    [
-      "Samsung Upcycle Promise",
-      "https://www.xda-developers.com/samsung-promised-make-old-phones-useful-galaxy-upcycle/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-02-20, 14:50:03",
-      "https://news.ycombinator.com/item?id=47088711"
+      "2026-02-20, 21:07:14",
+      "https://news.ycombinator.com/item?id=47093978"
     ],
     [
-      "Variable interpolatable smooth curves and outlines",
-      "https://thottingal.in/blog/2026/02/20/var-interpolatable-smooth-curves/"
+      "Optophone",
+      "https://en.wikipedia.org/wiki/Optophone"
     ]
   ]
 ]
