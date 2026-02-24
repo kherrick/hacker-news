@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-24, 18:46:25",
+      "https://news.ycombinator.com/item?id=47140932"
+    ],
+    [
+      "Tesla registrations crash 17% in Europe as BEV market surges 14%",
+      "https://electrek.co/2026/02/24/tesla-eu-registrations-crash-january-2026-bev-growth/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 18:24:17",
+      "https://news.ycombinator.com/item?id=47140657"
+    ],
+    [
+      "Steel Bank Common Lisp",
+      "https://www.sbcl.org/"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 18:23:03",
       "https://news.ycombinator.com/item?id=47140632"
     ],
@@ -11,12 +31,52 @@
   ],
   [
     [
-      "2026-02-24, 18:01:16",
-      "https://news.ycombinator.com/item?id=47140332"
+      "2026-02-24, 18:22:31",
+      "https://news.ycombinator.com/item?id=47140623"
     ],
     [
-      "Show HN: Tag Promptless on any GitHub PR/Issue to get updated user-facing docs",
-      "https://news.ycombinator.com/item?id=47140332"
+      "OpenAI resets spending expectations, from $1.4T to $600B",
+      "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 18:21:39",
+      "https://news.ycombinator.com/item?id=47140612"
+    ],
+    [
+      "I think WebRTC is better than SSH-ing for connecting to Mac terminal from iPhone",
+      "https://macky.dev"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 18:00:37",
+      "https://news.ycombinator.com/item?id=47140322"
+    ],
+    [
+      "Show HN: Emdash – Open-source agentic development environment",
+      "https://github.com/generalaction/emdash"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 17:40:40",
+      "https://news.ycombinator.com/item?id=47140042"
+    ],
+    [
+      "Nearby Glasses",
+      "https://github.com/yjeanrenaud/yj_nearbyglasses"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 17:30:19",
+      "https://news.ycombinator.com/item?id=47139902"
+    ],
+    [
+      "HuggingFace Agent Skills",
+      "https://github.com/huggingface/skills"
     ]
   ],
   [
@@ -131,52 +191,22 @@
   ],
   [
     [
+      "2026-02-24, 12:16:45",
+      "https://news.ycombinator.com/item?id=47136179"
+    ],
+    [
+      "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+      "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 11:59:14",
       "https://news.ycombinator.com/item?id=47136036"
     ],
     [
       "Discord cuts ties with identity verification software, Persona",
       "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 05:04:50",
-      "https://news.ycombinator.com/item?id=47133055"
-    ],
-    [
-      "Show HN: enveil – hide your .env secrets from prAIng eyes",
-      "https://github.com/GreatScott/enveil"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 02:27:14",
-      "https://news.ycombinator.com/item?id=47132102"
-    ],
-    [
-      "Show HN: X86CSS – An x86 CPU emulator written in CSS",
-      "https://lyra.horse/x86css/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 23:58:45",
-      "https://news.ycombinator.com/item?id=47130860"
-    ],
-    [
-      "I Ported Coreboot to the ThinkPad X270",
-      "https://dork.dev/posts/2026-02-20-ported-coreboot/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 22:11:34",
-      "https://news.ycombinator.com/item?id=47129727"
-    ],
-    [
-      "Making Wolfram tech available as a foundation tool for LLM systems",
-      "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/"
     ]
   ],
   [
@@ -211,6 +241,16 @@
   ],
   [
     [
+      "2026-02-23, 08:53:21",
+      "https://news.ycombinator.com/item?id=47119767"
+    ],
+    [
+      "Show HN: Chaos Monkey but for Audio Video Testing (WebRTC and UDP)",
+      "https://github.com/MdSadiqMd/AV-Chaos-Monkey"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 21:07:11",
       "https://news.ycombinator.com/item?id=47114678"
     ],
@@ -231,42 +271,12 @@
   ],
   [
     [
-      "2026-02-21, 16:55:23",
-      "https://news.ycombinator.com/item?id=47102441"
-    ],
-    [
-      "Catherine of Braganza, the Queen Who Brought Tea to England",
-      "https://www.thecollector.com/catherine-braganza-queen-tea-england/"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 13:36:45",
-      "https://news.ycombinator.com/item?id=47100714"
-    ],
-    [
-      "Unsung heroes: Flickr's URLs scheme",
-      "https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/"
-    ]
-  ],
-  [
-    [
       "2026-02-21, 10:31:37",
       "https://news.ycombinator.com/item?id=47099401"
     ],
     [
       "A distributed queue in a single JSON file on object storage",
       "https://turbopuffer.com/blog/object-storage-queue"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 04:08:32",
-      "https://news.ycombinator.com/item?id=47097405"
-    ],
-    [
-      "Tiny QR code achieved using electron microscope technology",
-      "https://newatlas.com/technology/smallest-qr-code-bacteria-tu-wien/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Diode – Build, program, and simulate hardware",
       "https://www.withdiode.com/"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 16:37:29",
-      "https://news.ycombinator.com/item?id=47090261"
-    ],
-    [
-      "The 7-Year Bug That Took 3 Minutes to Fix",
-      "https://agilitza.com/blog/the-7-year-bug-that-took-3-minutes-to-fix/"
     ]
   ]
 ]
