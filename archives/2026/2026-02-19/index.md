@@ -12,6 +12,7 @@
 * [2026-02-19, 21:30:04](https://news.ycombinator.com/item?id=47079718) - [Show HN: Ghostty-based terminal with vertical tabs and notifications](https://github.com/manaflow-ai/cmux)
 * [2026-02-19, 21:21:27](https://news.ycombinator.com/item?id=47079590) - [A psychedelic medicine performs well against depression](https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression)
 * [2026-02-19, 20:56:23](https://news.ycombinator.com/item?id=47079222) - [We're no longer attracting top talent: the brain drain killing American science](https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts)
+* [2026-02-19, 20:55:12](https://news.ycombinator.com/item?id=47079208) - [Baby chicks pass the bouba-kiki test, challenging a theory of language evolution](https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/)
 * [2026-02-19, 20:39:59](https://news.ycombinator.com/item?id=47078941) - [University of Texas limits on teaching of \"unnecessary controversial subjects\"](https://www.texastribune.org/2026/02/19/texas-university-ut-regents-unnecessarily-controversial-subjects/)
 * [2026-02-19, 20:32:09](https://news.ycombinator.com/item?id=47078840) - [Overall, the colorectal cancer story is encouraging](https://www.hankgreen.com/crc)
 * [2026-02-19, 19:55:11](https://news.ycombinator.com/item?id=47078324) - [AI is not a coworker, it's an exoskeleton](https://www.kasava.dev/blog/ai-as-exoskeleton)
