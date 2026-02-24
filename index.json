@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-24, 22:37:54",
+      "https://news.ycombinator.com/item?id=47144325"
+    ],
+    [
+      "Cell Service for the Fairly Paranoid",
+      "https://www.cape.co/"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 22:16:12",
       "https://news.ycombinator.com/item?id=47144064"
     ],
@@ -37,16 +47,6 @@
     [
       "Pi – a minimal terminal coding harness",
       "https://pi.dev"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 21:51:11",
-      "https://news.ycombinator.com/item?id=47143717"
-    ],
-    [
-      "Show HN: Recursively apply patterns for pathfinding",
-      "https://pattern-pathfinder.vercel.app/?fixtureId=%7B%22path%22%3A%22site%2Fexamples%2F_intro.fixture.tsx%22%7D"
     ]
   ],
   [
@@ -101,22 +101,32 @@
   ],
   [
     [
-      "2026-02-24, 19:18:48",
-      "https://news.ycombinator.com/item?id=47141385"
-    ],
-    [
-      "Manjaro website off-line again due to lapsed certificate",
-      "https://distrowatch.com/dwres.php?resource=showheadline&story=20140"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 18:24:17",
       "https://news.ycombinator.com/item?id=47140657"
     ],
     [
       "Steel Bank Common Lisp",
       "https://www.sbcl.org/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 18:23:03",
+      "https://news.ycombinator.com/item?id=47140632"
+    ],
+    [
+      "OpenAI, the US government and Persona built an identity surveillance machine",
+      "https://vmfunc.re/blog/persona/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 18:01:16",
+      "https://news.ycombinator.com/item?id=47140332"
+    ],
+    [
+      "Show HN: Tag Promptless on any GitHub PR/Issue to get updated user-facing docs",
+      "https://news.ycombinator.com/item?id=47140332"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-02-24, 17:21:11",
-      "https://news.ycombinator.com/item?id=47139765"
-    ],
-    [
-      "Open Letter to Google on Mandatory Developer Registration for App Distribution",
-      "https://keepandroidopen.org/open-letter/"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 17:15:17",
       "https://news.ycombinator.com/item?id=47139675"
     ],
@@ -181,12 +181,12 @@
   ],
   [
     [
-      "2026-02-24, 16:40:47",
-      "https://news.ycombinator.com/item?id=47139224"
+      "2026-02-24, 15:16:08",
+      "https://news.ycombinator.com/item?id=47138213"
     ],
     [
-      "Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)",
-      "https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/"
+      "The history of knocking on wood",
+      "https://resobscura.substack.com/p/neolithic-habits-machine-age-tools"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-02-21, 21:39:55",
+      "https://news.ycombinator.com/item?id=47105086"
+    ],
+    [
+      "Ask HN: Programmable Watches with WiFi?",
+      "https://news.ycombinator.com/item?id=47105086"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 14:14:08",
       "https://news.ycombinator.com/item?id=47101034"
     ],
@@ -277,16 +287,6 @@
     [
       "λProlog: Logic programming in higher-order logic",
       "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 22:14:13",
-      "https://news.ycombinator.com/item?id=47094768"
-    ],
-    [
-      "Diode – Build, program, and simulate hardware",
-      "https://www.withdiode.com/"
     ]
   ],
   [
