@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 05:47:23](https://news.ycombinator.com/item?id=47133313) - [Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 * [2026-02-24, 05:04:50](https://news.ycombinator.com/item?id=47133055) - [Show HN: enveil – hide your .env secrets from prAIng eyes](https://github.com/GreatScott/enveil)
 * [2026-02-24, 04:04:19](https://news.ycombinator.com/item?id=47132721) - [Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series](https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html)
 * [2026-02-24, 03:51:18](https://news.ycombinator.com/item?id=47132650) - [The Weird OS Built Around a Database [video]](https://www.youtube.com/watch?v=pWZBQMRmW7k)
