@@ -10,6 +10,7 @@
 * [2026-02-22, 22:42:16](https://news.ycombinator.com/item?id=47115575) - [Using New Bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
 * [2026-02-22, 21:41:27](https://news.ycombinator.com/item?id=47115009) - [Algolia Hacker News Search GitHub Project Archived](https://github.com/algolia/hn-search)
 * [2026-02-22, 21:22:39](https://news.ycombinator.com/item?id=47114830) - [Dental Disease May Undermine Elite Athletic Performance](https://www.medscape.com/viewarticle/dental-disease-performance-risk-2026a10005ea)
+* [2026-02-22, 21:07:11](https://news.ycombinator.com/item?id=47114678) - [We installed a single turnstile to feel secure](https://idiallo.com/blog/installed-single-turnstile-for-security-theater)
 * [2026-02-22, 21:06:17](https://news.ycombinator.com/item?id=47114672) - [Music Discovery](https://www.secondtrack.co/)
 * [2026-02-22, 20:56:18](https://news.ycombinator.com/item?id=47114579) - [Global Intelligence Crisis](https://www.citriniresearch.com/p/2028gic)
 * [2026-02-22, 20:50:23](https://news.ycombinator.com/item?id=47114530) - [Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable](https://cia-factbook-archive.fly.dev/)
