@@ -64,3 +64,4 @@
 * [2026-02-21, 00:51:05](https://news.ycombinator.com/item?id=47096210) - [Claude Code's compaction discards data that's still on disk](https://github.com/anthropics/claude-code/issues/26771)
 * [2026-02-21, 00:47:09](https://news.ycombinator.com/item?id=47096186) - [Show HN: Cellarium: A Playground for Cellular Automata](https://github.com/andrewosh/cellarium)
 * [2026-02-21, 00:44:28](https://news.ycombinator.com/item?id=47096167) - [Gamedate – A site to revive dead multiplayer games](https://gamedate.org/)
+* [2026-02-21, 00:18:31](https://news.ycombinator.com/item?id=47095972) - [ATAboy is a USB adapter for legacy CHS only style IDE (PATA) drives](https://github.com/redruM0381/ATAboy)
