@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-02-24, 07:41:59",
-      "https://news.ycombinator.com/item?id=47134063"
-    ],
-    [
-      "The Engine Behind the Hype",
-      "https://www.onuruzunismail.com/blog/the-engine-behind-the-hype"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 05:47:23",
       "https://news.ycombinator.com/item?id=47133313"
     ],
@@ -37,16 +27,6 @@
     [
       "Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series",
       "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 03:51:18",
-      "https://news.ycombinator.com/item?id=47132650"
-    ],
-    [
-      "The Weird OS Built Around a Database [video]",
-      "https://www.youtube.com/watch?v=pWZBQMRmW7k"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2026-02-23, 15:48:33",
+      "https://news.ycombinator.com/item?id=47123894"
+    ],
+    [
+      "Show HN: Sowbot – Open-hardware agricultural robot (ROS2, RTK GPS)",
+      "https://sowbot.co.uk/"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 15:36:50",
       "https://news.ycombinator.com/item?id=47123689"
     ],
@@ -275,18 +265,28 @@
       "https://news.ycombinator.com/item?id=47098029"
     ],
     [
-      "Typed Assembly Language",
+      "Typed Assembly Language (2000)",
       "https://www.cs.cornell.edu/talc/"
     ]
   ],
   [
     [
-      "2026-02-20, 21:05:52",
-      "https://news.ycombinator.com/item?id=47093959"
+      "2026-02-21, 00:47:09",
+      "https://news.ycombinator.com/item?id=47096186"
     ],
     [
-      "Lords of the Ring",
-      "https://harpers.org/archive/2026/03/lords-of-the-ring-joshua-hunt-cultural-politics-sumo-wrestling/"
+      "Show HN: Cellarium: A Playground for Cellular Automata",
+      "https://github.com/andrewosh/cellarium"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 22:14:13",
+      "https://news.ycombinator.com/item?id=47094768"
+    ],
+    [
+      "Diode – Build, program, and simulate hardware",
+      "https://www.withdiode.com/"
     ]
   ],
   [
