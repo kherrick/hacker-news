@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2026-02-24, 01:09:40",
-      "https://news.ycombinator.com/item?id=47131506"
-    ],
-    [
-      "Iowa farmers are leading the fight for repair",
-      "https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 00:38:02",
       "https://news.ycombinator.com/item?id=47131225"
     ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=47129727"
     ],
     [
-      "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+      "Making Wolfram tech available as a foundation tool for LLM systems",
       "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/"
     ]
   ],
@@ -117,16 +107,6 @@
     [
       "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
       "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 21:00:28",
-      "https://news.ycombinator.com/item?id=47128740"
-    ],
-    [
-      "SIM (YC X25) Is Hiring the Best Engineers in San Francisco",
-      "https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform"
     ]
   ],
   [
@@ -156,7 +136,7 @@
     ],
     [
       "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
-      "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/"
+      "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/page/5/#findComment-5713334"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2026-02-23, 09:52:14",
+      "https://news.ycombinator.com/item?id=47120145"
+    ],
+    [
+      "Hetzner Prices increase 30-40%",
+      "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 06:35:32",
       "https://news.ycombinator.com/item?id=47118838"
     ],
@@ -261,6 +251,26 @@
   ],
   [
     [
+      "2026-02-21, 13:24:04",
+      "https://news.ycombinator.com/item?id=47100612"
+    ],
+    [
+      "‘Viking’ was a job, not a matter of heredity: ancient DNA study (2020)",
+      "https://www.science.org/content/article/viking-was-job-description-not-matter-heredity-massive-ancient-dna-study-shows"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 10:31:37",
+      "https://news.ycombinator.com/item?id=47099401"
+    ],
+    [
+      "A distributed queue in a single JSON file on object storage",
+      "https://turbopuffer.com/blog/object-storage-queue"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 06:28:29",
       "https://news.ycombinator.com/item?id=47098029"
     ],
@@ -287,16 +297,6 @@
     [
       "Diode – Build, program, and simulate hardware",
       "https://www.withdiode.com/"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 20:55:12",
-      "https://news.ycombinator.com/item?id=47079208"
-    ],
-    [
-      "Baby chicks pass the bouba-kiki test, challenging a theory of language evolution",
-      "https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/"
     ]
   ]
 ]
