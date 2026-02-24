@@ -39,6 +39,7 @@
 * [2026-02-21, 12:02:06](https://news.ycombinator.com/item?id=47099980) - [Pipelined Relational Query Language, Pronounced \"Prequel\"](https://prql-lang.org/)
 * [2026-02-21, 11:39:18](https://news.ycombinator.com/item?id=47099844) - [Over 80% of 16 to 24-year-olds would vote to rejoin the EU](https://www.itv.com/news/2026-02-19/over-80-of-16-to-24-year-olds-would-vote-to-rejoin-the-eu-itv-poll-finds)
 * [2026-02-21, 10:45:52](https://news.ycombinator.com/item?id=47099473) - [What Happened to Software Is Happening to Finance and Accounting](https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/)
+* [2026-02-21, 10:31:37](https://news.ycombinator.com/item?id=47099401) - [A distributed queue in a single JSON file on object storage](https://turbopuffer.com/blog/object-storage-queue)
 * [2026-02-21, 09:53:15](https://news.ycombinator.com/item?id=47099160) - [Andrej Karpathy talks about \"Claws\"](https://simonwillison.net/2026/Feb/21/claws/)
 * [2026-02-21, 09:42:04](https://news.ycombinator.com/item?id=47099087) - [Instant AI Response](https://chatjimmy.ai/)
 * [2026-02-21, 08:56:00](https://news.ycombinator.com/item?id=47098839) - [Large Language Model Reasoning Failures](https://arxiv.org/abs/2602.06176)
