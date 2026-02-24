@@ -24,6 +24,7 @@
 * [2026-02-21, 17:49:02](https://news.ycombinator.com/item?id=47102975) - [Personal Statement of a CIA Analyst](https://antipolygraph.org/statements/statement-038.shtml)
 * [2026-02-21, 17:26:17](https://news.ycombinator.com/item?id=47102763) - [DialUp95 – A 90s inspired nostalgia hit](https://dialup95.com/)
 * [2026-02-21, 17:08:12](https://news.ycombinator.com/item?id=47102576) - [What Not to Write on Your Security Clearance Form](https://milk.com/wall-o-shame/security_clearance.html)
+* [2026-02-21, 16:55:23](https://news.ycombinator.com/item?id=47102441) - [Catherine of Braganza, the Queen Who Brought Tea to England](https://www.thecollector.com/catherine-braganza-queen-tea-england/)
 * [2026-02-21, 16:27:01](https://news.ycombinator.com/item?id=47102208) - [The Nekonomicon – Nekochan.net Archive, Updated](http://nekonomicon.irixnet.org/)
 * [2026-02-21, 15:52:20](https://news.ycombinator.com/item?id=47101890) - [Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust](https://github.com/Ragnaroek/iron-wolf)
 * [2026-02-21, 14:34:45](https://news.ycombinator.com/item?id=47101200) - [macOS's Little-Known Command-Line Sandboxing Tool](https://igorstechnoclub.com/sandbox-exec/)

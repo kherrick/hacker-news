@@ -4,8 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 17:21:11](https://news.ycombinator.com/item?id=47139765) - [Open Letter to Google on Mandatory Developer Registration for App Distribution](https://keepandroidopen.org/open-letter/)
+* [2026-02-24, 17:15:17](https://news.ycombinator.com/item?id=47139675) - [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
+* [2026-02-24, 17:03:37](https://news.ycombinator.com/item?id=47139519) - [Cardiorespiratory fitness is associated with lower anger and anxiety](https://linkinghub.elsevier.com/retrieve/pii/S000169182600171X)
+* [2026-02-24, 17:00:34](https://news.ycombinator.com/item?id=47139475) - [Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng](https://jobs.ashbyhq.com/verge-genomics)
+* [2026-02-24, 16:40:47](https://news.ycombinator.com/item?id=47139224) - [Kansai Airport has never lost a baggage in the 30 years since it opened (2024)](https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/)
 * [2026-02-24, 15:58:08](https://news.ycombinator.com/item?id=47138718) - [Software 3.1? – AI Functions](https://blog.mikegchambers.com/posts/software-31-ai-functions/)
+* [2026-02-24, 15:25:38](https://news.ycombinator.com/item?id=47138347) - [Federal data breach may be the biggest hack in US history](https://morningoverview.com/massive-federal-data-breach-may-be-the-biggest-hack-in-us-history/)
 * [2026-02-24, 14:37:52](https://news.ycombinator.com/item?id=47137711) - [Stripe valued at $159B, 2025 annual letter](https://stripe.com/newsroom/news/stripe-2025-update)
+* [2026-02-24, 13:08:56](https://news.ycombinator.com/item?id=47136658) - [Why the KeePass format should be based on SQLite](https://mketab.org/blog/sqlite_kdbx/)
 * [2026-02-24, 13:04:16](https://news.ycombinator.com/item?id=47136611) - [Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/)
 * [2026-02-24, 13:03:51](https://news.ycombinator.com/item?id=47136604) - [I Pitched a Roller Coaster to Disneyland at Age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
 * [2026-02-24, 12:58:14](https://news.ycombinator.com/item?id=47136537) - [IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html)
