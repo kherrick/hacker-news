@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 05:04:50](https://news.ycombinator.com/item?id=47133055) - [Show HN: enveil – hide your .env secrets from prAIng eyes](https://github.com/GreatScott/enveil)
+* [2026-02-24, 04:04:19](https://news.ycombinator.com/item?id=47132721) - [Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series](https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html)
+* [2026-02-24, 03:51:18](https://news.ycombinator.com/item?id=47132650) - [The Weird OS Built Around a Database [video]](https://www.youtube.com/watch?v=pWZBQMRmW7k)
 * [2026-02-24, 03:10:16](https://news.ycombinator.com/item?id=47132388) - [Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows](https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html)
 * [2026-02-24, 02:27:14](https://news.ycombinator.com/item?id=47132102) - [Show HN: X86CSS – An x86 CPU emulator written in CSS](https://lyra.horse/x86css/)
 * [2026-02-24, 01:31:09](https://news.ycombinator.com/item?id=47131689) - [NIST Seeking Public Comment on AI Agent Security (Deadline: March 9, 2026)](https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents)
