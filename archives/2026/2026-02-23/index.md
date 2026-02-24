@@ -68,6 +68,7 @@
 * [2026-02-23, 09:52:14](https://news.ycombinator.com/item?id=47120145) - [Hetzner Prices increase 30-40%](https://docs.hetzner.com/de/general/infrastructure-and-availability/price-adjustment/)
 * [2026-02-23, 09:41:54](https://news.ycombinator.com/item?id=47120079) - [What I Learned After Building 3 TV Apps Coming from Mobile](https://dinkomarinac.dev/blog/what-i-learned-after-building-3-tv-apps-coming-from-mobile/)
 * [2026-02-23, 09:07:44](https://news.ycombinator.com/item?id=47119871) - [Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)](https://llm-timeline.com/)
+* [2026-02-23, 08:53:21](https://news.ycombinator.com/item?id=47119767) - [Show HN: Chaos Monkey but for Audio Video Testing (WebRTC and UDP)](https://github.com/MdSadiqMd/AV-Chaos-Monkey)
 * [2026-02-23, 08:22:34](https://news.ycombinator.com/item?id=47119530) - [Elsevier Shuts Down Its Finance Journal Citation Cartel](https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal)
 * [2026-02-23, 07:43:47](https://news.ycombinator.com/item?id=47119274) - [Magical Mushroom – Europe's first industrial-scale mycelium packaging producer](https://magicalmushroom.com/index)
 * [2026-02-23, 07:33:57](https://news.ycombinator.com/item?id=47119210) - [Pope tells priests to use their brains, not AI, to write homilies](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)

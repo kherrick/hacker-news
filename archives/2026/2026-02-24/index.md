@@ -4,8 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 18:46:25](https://news.ycombinator.com/item?id=47140932) - [Tesla registrations crash 17% in Europe as BEV market surges 14%](https://electrek.co/2026/02/24/tesla-eu-registrations-crash-january-2026-bev-growth/)
+* [2026-02-24, 18:24:17](https://news.ycombinator.com/item?id=47140657) - [Steel Bank Common Lisp](https://www.sbcl.org/)
 * [2026-02-24, 18:23:03](https://news.ycombinator.com/item?id=47140632) - [OpenAI, the US government and Persona built an identity surveillance machine](https://vmfunc.re/blog/persona/)
+* [2026-02-24, 18:22:31](https://news.ycombinator.com/item?id=47140623) - [OpenAI resets spending expectations, from $1.4T to $600B](https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html)
+* [2026-02-24, 18:21:39](https://news.ycombinator.com/item?id=47140612) - [I think WebRTC is better than SSH-ing for connecting to Mac terminal from iPhone](https://macky.dev)
 * [2026-02-24, 18:01:16](https://news.ycombinator.com/item?id=47140332) - [Show HN: Tag Promptless on any GitHub PR/Issue to get updated user-facing docs](https://news.ycombinator.com/item?id=47140332)
+* [2026-02-24, 18:00:37](https://news.ycombinator.com/item?id=47140322) - [Show HN: Emdash – Open-source agentic development environment](https://github.com/generalaction/emdash)
+* [2026-02-24, 17:40:40](https://news.ycombinator.com/item?id=47140042) - [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
+* [2026-02-24, 17:30:19](https://news.ycombinator.com/item?id=47139902) - [HuggingFace Agent Skills](https://github.com/huggingface/skills)
 * [2026-02-24, 17:21:11](https://news.ycombinator.com/item?id=47139765) - [Open Letter to Google on Mandatory Developer Registration for App Distribution](https://keepandroidopen.org/open-letter/)
 * [2026-02-24, 17:16:12](https://news.ycombinator.com/item?id=47139690) - [Denver dumps Flock, awards contract to Axon](https://www.9news.com/article/news/local/denver-removing-flock-cameras-new-axon-contract/73-640b5af3-7c87-4fea-8aa1-2510ad3257b8)
 * [2026-02-24, 17:15:17](https://news.ycombinator.com/item?id=47139675) - [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
@@ -20,6 +27,7 @@
 * [2026-02-24, 13:03:51](https://news.ycombinator.com/item?id=47136604) - [I Pitched a Roller Coaster to Disneyland at Age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
 * [2026-02-24, 12:58:14](https://news.ycombinator.com/item?id=47136537) - [IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html)
 * [2026-02-24, 12:51:49](https://news.ycombinator.com/item?id=47136477) - [xAI and Pentagon reach deal to use Grok in classified systems](https://www.axios.com/2026/02/23/ai-defense-department-deal-musk-xai-grok)
+* [2026-02-24, 12:16:45](https://news.ycombinator.com/item?id=47136179) - [IDF killed Gaza aid workers at point blank range in 2025 massacre: Report](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
 * [2026-02-24, 11:59:14](https://news.ycombinator.com/item?id=47136036) - [Discord cuts ties with Peter Thiel-backed verification software](https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/)
 * [2026-02-24, 11:00:33](https://news.ycombinator.com/item?id=47135562) - [Atlantic: Sam Altman Is Losing His Grip on Humanity](https://www.theatlantic.com/technology/2026/02/sam-altman-train-a-human/686120/)
 * [2026-02-24, 09:37:19](https://news.ycombinator.com/item?id=47134946) - [AI-generated replies really are a scourge these days](https://twitter.com/simonw/status/2025909963445707171)
