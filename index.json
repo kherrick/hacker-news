@@ -1,22 +1,72 @@
 [
   [
     [
-      "2026-02-24, 00:37:26",
-      "https://news.ycombinator.com/item?id=47131219"
+      "2026-02-24, 03:10:16",
+      "https://news.ycombinator.com/item?id=47132388"
     ],
     [
-      "Psychology suggests making a shopping list is a sign of sharper thinking",
-      "https://economictimes.indiatimes.com/news/international/us/still-making-a-shopping-list-psychology-suggests-its-a-sign-of-sharper-thinking/articleshow/127796018.cms?from=mdr"
+      "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
+      "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html"
     ]
   ],
   [
     [
-      "2026-02-23, 22:55:08",
-      "https://news.ycombinator.com/item?id=47130208"
+      "2026-02-24, 01:31:09",
+      "https://news.ycombinator.com/item?id=47131689"
     ],
     [
-      "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
-      "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380"
+      "NIST Seeking Public Comment on AI Agent Security (Deadline: March 9, 2026)",
+      "https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 01:09:40",
+      "https://news.ycombinator.com/item?id=47131506"
+    ],
+    [
+      "Iowa farmers are leading the fight for repair",
+      "https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 00:38:02",
+      "https://news.ycombinator.com/item?id=47131225"
+    ],
+    [
+      "Show HN: Steerling-8B, a language model that can explain any token it generates",
+      "https://www.guidelabs.ai/post/steerling-8b-base-model-release/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 00:33:06",
+      "https://news.ycombinator.com/item?id=47131173"
+    ],
+    [
+      "Shatner is making an album with 35 metal icons",
+      "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 23:58:45",
+      "https://news.ycombinator.com/item?id=47130860"
+    ],
+    [
+      "I Ported Coreboot to the ThinkPad X270",
+      "https://dork.dev/posts/2026-02-20-ported-coreboot/"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 23:16:03",
+      "https://news.ycombinator.com/item?id=47130431"
+    ],
+    [
+      "Why Your Load Balancer Still Sends Traffic to Dead Backends",
+      "https://singh-sanjay.com/2026/01/12/health-checks-client-vs-server-side-lb.html"
     ]
   ],
   [
@@ -27,16 +77,6 @@
     [
       "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
       "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 22:05:27",
-      "https://news.ycombinator.com/item?id=47129647"
-    ],
-    [
-      "You are not supposed to install OpenClaw on your personal computer",
-      "https://twitter.com/i/status/2025987544853188836"
     ]
   ],
   [
@@ -81,11 +121,21 @@
   ],
   [
     [
+      "2026-02-23, 20:16:08",
+      "https://news.ycombinator.com/item?id=47128138"
+    ],
+    [
+      "“Car Wash” test with 53 models",
+      "https://opper.ai/blog/car-wash-test"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 20:05:15",
       "https://news.ycombinator.com/item?id=47127986"
     ],
     [
-      "UNIX99, a UNIX-like OS for the TI-99/4A",
+      "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
       "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/"
     ]
   ],
@@ -101,21 +151,11 @@
   ],
   [
     [
-      "2026-02-23, 19:04:34",
-      "https://news.ycombinator.com/item?id=47127081"
-    ],
-    [
-      "Americans are destroying Flock surveillance cameras",
-      "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 17:27:32",
       "https://news.ycombinator.com/item?id=47125484"
     ],
     [
-      "The Rise of Eyes Began with Just One",
+      "The rise of eyes began with just one",
       "https://www.nytimes.com/2026/02/23/science/evolution-vertebrate-eye.html"
     ]
   ],
@@ -145,7 +185,7 @@
       "https://news.ycombinator.com/item?id=47123894"
     ],
     [
-      "Show HN: Sowbot – open-hardware agricultural robot (ROS2, RTK GPS)",
+      "Show HN: Sowbot – Open-hardware agricultural robot (ROS2, RTK GPS)",
       "https://sowbot.co.uk/"
     ]
   ],
@@ -157,16 +197,6 @@
     [
       "Show HN: PgDog – Scale Postgres without changing the app",
       "https://github.com/pgdogdev/pgdog"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 14:28:39",
-      "https://news.ycombinator.com/item?id=47122789"
-    ],
-    [
-      "The peculiar case of Japanese web design (2022)",
-      "https://sabrinas.space"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2026-02-23, 08:22:34",
-      "https://news.ycombinator.com/item?id=47119530"
-    ],
-    [
-      "Elsevier shuts down its finance journal citation cartel",
-      "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 07:43:47",
-      "https://news.ycombinator.com/item?id=47119274"
-    ],
-    [
-      "Magical Mushroom – Europe's first industrial-scale mycelium packaging producer",
-      "https://magicalmushroom.com/index"
-    ]
-  ],
-  [
-    [
       "2026-02-22, 18:28:58",
       "https://news.ycombinator.com/item?id=47113401"
     ],
@@ -241,12 +251,22 @@
   ],
   [
     [
-      "2026-02-21, 13:24:04",
-      "https://news.ycombinator.com/item?id=47100612"
+      "2026-02-20, 21:05:52",
+      "https://news.ycombinator.com/item?id=47093959"
     ],
     [
-      "'Viking' was a job description, not a matter of heredity: Ancient DNA study",
-      "https://www.science.org/content/article/viking-was-job-description-not-matter-heredity-massive-ancient-dna-study-shows"
+      "Lords of the Ring",
+      "https://harpers.org/archive/2026/03/lords-of-the-ring-joshua-hunt-cultural-politics-sumo-wrestling/"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 15:41:17",
+      "https://news.ycombinator.com/item?id=47089405"
+    ],
+    [
+      "Unfavorable Semicircle",
+      "https://www.unfavorablesemicircle.com/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-02-20, 09:46:22",
-      "https://news.ycombinator.com/item?id=47085790"
+      "2026-02-20, 06:55:38",
+      "https://news.ycombinator.com/item?id=47084622"
     ],
     [
-      "I discovered a hidden tragedy tied to Russia's most famous painting",
-      "https://www.theguardian.com/artanddesign/2026/feb/20/an-unknown-woman-how-i-discovered-a-hidden-tragedy-tied-to-russias-most-famous-painting"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 07:59:21",
-      "https://news.ycombinator.com/item?id=47085061"
-    ],
-    [
-      "Generalized Sequential Probability Ratio Test for Families of Hypotheses [pdf]",
-      "https://sites.stat.columbia.edu/jcliu/paper/GSPRT_SQA3.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 17:58:27",
-      "https://news.ycombinator.com/item?id=47076789"
-    ],
-    [
-      "Emulating Goto in Scheme with Continuations",
-      "https://terezi.pyrope.net/ccgoto/"
+      "GPU Rack Power Density, 2015–2025",
+      "https://syaala.com/blog/gpu-rack-density-timeline-2026"
     ]
   ],
   [
