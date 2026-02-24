@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 11:00:33](https://news.ycombinator.com/item?id=47135562) - [Atlantic: Sam Altman Is Losing His Grip on Humanity](https://www.theatlantic.com/technology/2026/02/sam-altman-train-a-human/686120/)
 * [2026-02-24, 09:37:19](https://news.ycombinator.com/item?id=47134946) - [AI-generated replies really are a scourge these days](https://twitter.com/simonw/status/2025909963445707171)
+* [2026-02-24, 09:15:56](https://news.ycombinator.com/item?id=47134779) - [Decimal-Java is a library to convert java.math.BigDecimal to and from IEEE-754r](https://github.com/FirebirdSQL/decimal-java)
 * [2026-02-24, 07:41:59](https://news.ycombinator.com/item?id=47134063) - [The Engine Behind the Hype](https://www.onuruzunismail.com/blog/the-engine-behind-the-hype)
 * [2026-02-24, 05:47:23](https://news.ycombinator.com/item?id=47133313) - [Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 * [2026-02-24, 05:04:50](https://news.ycombinator.com/item?id=47133055) - [Show HN: enveil – hide your .env secrets from prAIng eyes](https://github.com/GreatScott/enveil)

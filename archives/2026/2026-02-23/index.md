@@ -40,6 +40,7 @@
 * [2026-02-23, 16:51:03](https://news.ycombinator.com/item?id=47124877) - [Large study finds link between cannabis use in teens and psychosis later](https://text.npr.org/nx-s1-5719338)
 * [2026-02-23, 16:24:44](https://news.ycombinator.com/item?id=47124475) - [Silicon Valley can't import talent like before. So it's exporting jobs](https://restofworld.org/2026/h1b-visa-impact-india-tech-hiring-faamng/)
 * [2026-02-23, 16:14:10](https://news.ycombinator.com/item?id=47124325) - [C99 implementation of new O(m log^(2/3) n) shortest path algorithm](https://github.com/danalec/DMMSY-SSSP)
+* [2026-02-23, 16:02:48](https://news.ycombinator.com/item?id=47124171) - [The Missing Semester of Your CS Education – Revised for 2026](https://missing.csail.mit.edu/)
 * [2026-02-23, 16:01:18](https://news.ycombinator.com/item?id=47124149) - [A simple web we own](https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html)
 * [2026-02-23, 15:53:51](https://news.ycombinator.com/item?id=47124007) - [First, They Came for the Journalists](https://www.codastory.com/disinformation/first-they-came-for-the-journalists/)
 * [2026-02-23, 15:48:33](https://news.ycombinator.com/item?id=47123894) - [Show HN: Sowbot – open-hardware agricultural robot (ROS2, RTK GPS)](https://sowbot.co.uk/)

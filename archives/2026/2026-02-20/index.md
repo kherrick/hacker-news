@@ -7,6 +7,7 @@
 * [2026-02-20, 23:35:33](https://news.ycombinator.com/item?id=47095597) - [Be Wary of Bluesky](https://kevinak.se/blog/be-wary-of-bluesky)
 * [2026-02-20, 23:35:15](https://news.ycombinator.com/item?id=47095592) - [Lexega Turns SQL into Signals](https://lexega.com/blog/how-lexega-turns-sql-into-signals)
 * [2026-02-20, 23:19:12](https://news.ycombinator.com/item?id=47095429) - [CERN rebuilt the original browser from 1989](https://worldwideweb.cern.ch)
+* [2026-02-20, 23:02:08](https://news.ycombinator.com/item?id=47095266) - [ΛProlog: Logic programming in higher-order logic](https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/)
 * [2026-02-20, 22:50:35](https://news.ycombinator.com/item?id=47095134) - [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling)
 * [2026-02-20, 22:47:58](https://news.ycombinator.com/item?id=47095105) - [A16Z partner says that the theory that we'll vibe code everything is ' wrong'](https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html)
 * [2026-02-20, 22:27:56](https://news.ycombinator.com/item?id=47094877) - [Don't create .gitkeep files, use .gitignore instead](https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/)
