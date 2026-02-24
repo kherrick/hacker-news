@@ -60,4 +60,5 @@
 * [2026-02-21, 01:27:35](https://news.ycombinator.com/item?id=47096466) - [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord)
 * [2026-02-21, 00:56:29](https://news.ycombinator.com/item?id=47096253) - [Claws are now a new layer on top of LLM agents](https://twitter.com/karpathy/status/2024987174077432126)
 * [2026-02-21, 00:51:05](https://news.ycombinator.com/item?id=47096210) - [Claude Code's compaction discards data that's still on disk](https://github.com/anthropics/claude-code/issues/26771)
+* [2026-02-21, 00:47:09](https://news.ycombinator.com/item?id=47096186) - [Show HN: Cellarium: A Playground for Cellular Automata](https://github.com/andrewosh/cellarium)
 * [2026-02-21, 00:44:28](https://news.ycombinator.com/item?id=47096167) - [Gamedate – A site to revive dead multiplayer games](https://gamedate.org/)
