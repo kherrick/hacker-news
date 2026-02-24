@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 22:37:54](https://news.ycombinator.com/item?id=47144325) - [Cell Service for the Fairly Paranoid](https://www.cape.co/)
 * [2026-02-24, 22:16:12](https://news.ycombinator.com/item?id=47144064) - [Stripe reportedly makes offer to acquire PayPal](https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html)
 * [2026-02-24, 22:09:57](https://news.ycombinator.com/item?id=47143976) - [Dream Recorder AI – a portal to your subconscious](https://dreamrecorder.ai/)
 * [2026-02-24, 21:54:07](https://news.ycombinator.com/item?id=47143755) - [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)
@@ -35,6 +36,7 @@
 * [2026-02-24, 16:40:47](https://news.ycombinator.com/item?id=47139224) - [Kansai Airport has never lost a baggage in the 30 years since it opened (2024)](https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/)
 * [2026-02-24, 15:58:08](https://news.ycombinator.com/item?id=47138718) - [Software 3.1? – AI Functions](https://blog.mikegchambers.com/posts/software-31-ai-functions/)
 * [2026-02-24, 15:25:38](https://news.ycombinator.com/item?id=47138347) - [Federal data breach may be the biggest hack in US history](https://morningoverview.com/massive-federal-data-breach-may-be-the-biggest-hack-in-us-history/)
+* [2026-02-24, 15:16:08](https://news.ycombinator.com/item?id=47138213) - [The history of knocking on wood](https://resobscura.substack.com/p/neolithic-habits-machine-age-tools)
 * [2026-02-24, 14:37:52](https://news.ycombinator.com/item?id=47137711) - [Stripe valued at $159B, 2025 annual letter](https://stripe.com/newsroom/news/stripe-2025-update)
 * [2026-02-24, 13:08:56](https://news.ycombinator.com/item?id=47136658) - [Why the KeePass format should be based on SQLite](https://mketab.org/blog/sqlite_kdbx/)
 * [2026-02-24, 13:04:16](https://news.ycombinator.com/item?id=47136611) - [Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/)
