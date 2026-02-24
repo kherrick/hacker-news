@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-02-24, 20:35:41",
-      "https://news.ycombinator.com/item?id=47142587"
+      "2026-02-24, 21:51:11",
+      "https://news.ycombinator.com/item?id=47143717"
     ],
     [
-      "Pentagon threatens to make Anthropic a pariah",
-      "https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei"
+      "Show HN: Recursively apply patterns for pathfinding",
+      "https://pattern-pathfinder.vercel.app/?fixtureId=%7B%22path%22%3A%22site%2Fexamples%2F_intro.fixture.tsx%22%7D"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 21:19:03",
+      "https://news.ycombinator.com/item?id=47143211"
+    ],
+    [
+      "Looks Like it is Happening",
+      "https://www.math.columbia.edu/~woit/wordpress/?p=15500"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 21:13:45",
+      "https://news.ycombinator.com/item?id=47143152"
+    ],
+    [
+      "Mac mini will be made at a new facility in Houston",
+      "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/"
     ]
   ],
   [
@@ -17,6 +37,16 @@
     [
       "Why High FOV Sucks – Fixing It with Panini Projection",
       "https://www.youtube.com/watch?v=LE9kxUQ-l14"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 20:07:00",
+      "https://news.ycombinator.com/item?id=47142156"
+    ],
+    [
+      "How we rebuilt Next.js with AI in one week",
+      "https://blog.cloudflare.com/vinext/"
     ]
   ],
   [
@@ -57,26 +87,6 @@
     [
       "OpenAI, the US government and Persona built an identity surveillance machine",
       "https://vmfunc.re/blog/persona/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 18:22:31",
-      "https://news.ycombinator.com/item?id=47140623"
-    ],
-    [
-      "OpenAI resets spending expectations, from $1.4T to $600B",
-      "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 18:21:39",
-      "https://news.ycombinator.com/item?id=47140612"
-    ],
-    [
-      "I think WebRTC is better than SSH-ing for connecting to Mac terminal from iPhone",
-      "https://macky.dev"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-02-23, 15:36:50",
-      "https://news.ycombinator.com/item?id=47123689"
-    ],
-    [
-      "Terence Tao, at 8 years old (1984) [pdf]",
-      "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 08:53:21",
       "https://news.ycombinator.com/item?id=47119767"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-02-21, 10:31:37",
-      "https://news.ycombinator.com/item?id=47099401"
-    ],
-    [
-      "A distributed queue in a single JSON file on object storage",
-      "https://turbopuffer.com/blog/object-storage-queue"
-    ]
-  ],
-  [
-    [
       "2026-02-20, 23:02:08",
       "https://news.ycombinator.com/item?id=47095266"
     ],
@@ -297,6 +287,16 @@
     [
       "Diode – Build, program, and simulate hardware",
       "https://www.withdiode.com/"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 14:50:03",
+      "https://news.ycombinator.com/item?id=47088711"
+    ],
+    [
+      "Variable interpolatable smooth curves and outlines",
+      "https://thottingal.in/blog/2026/02/20/var-interpolatable-smooth-curves/"
     ]
   ]
 ]
