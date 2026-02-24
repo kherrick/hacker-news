@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-02-24, 02:27:14",
+      "https://news.ycombinator.com/item?id=47132102"
+    ],
+    [
+      "Show HN: X86CSS – An x86 CPU emulator written in CSS",
+      "https://lyra.horse/x86css/"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 01:31:09",
       "https://news.ycombinator.com/item?id=47131689"
     ],
@@ -81,11 +91,21 @@
   ],
   [
     [
+      "2026-02-23, 22:05:27",
+      "https://news.ycombinator.com/item?id=47129647"
+    ],
+    [
+      "You are not supposed to install OpenClaw on your personal computer",
+      "https://twitter.com/BenjaminBadejo/status/2025987544853188836"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 21:44:28",
       "https://news.ycombinator.com/item?id=47129361"
     ],
     [
-      "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+      "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
       "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/"
     ]
   ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-02-23, 19:23:30",
-      "https://news.ycombinator.com/item?id=47127396"
-    ],
-    [
-      "Binance fired employees who found $1.7B in crypto was sent to Iran",
-      "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 17:27:32",
       "https://news.ycombinator.com/item?id=47125484"
     ],
@@ -161,12 +171,32 @@
   ],
   [
     [
+      "2026-02-23, 17:20:25",
+      "https://news.ycombinator.com/item?id=47125374"
+    ],
+    [
+      "Writing code is cheap now",
+      "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 17:18:41",
       "https://news.ycombinator.com/item?id=47125349"
     ],
     [
       "ASML unveils EUV light source advance that could yield 50% more chips by 2030",
       "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 17:15:14",
+      "https://news.ycombinator.com/item?id=47125286"
+    ],
+    [
+      "What it means that Ubuntu is using Rust",
+      "https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/"
     ]
   ],
   [
@@ -187,6 +217,16 @@
     [
       "Show HN: Sowbot – Open-hardware agricultural robot (ROS2, RTK GPS)",
       "https://sowbot.co.uk/"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 15:36:50",
+      "https://news.ycombinator.com/item?id=47123689"
+    ],
+    [
+      "Terence Tao, at 8 years old (1984) [pdf]",
+      "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf"
     ]
   ],
   [
@@ -225,28 +265,8 @@
       "https://news.ycombinator.com/item?id=47120899"
     ],
     [
-      "Ladybird adopts Rust",
+      "Ladybird adopts Rust, with help from AI",
       "https://ladybird.org/posts/adopting-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 09:07:44",
-      "https://news.ycombinator.com/item?id=47119871"
-    ],
-    [
-      "Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)",
-      "https://llm-timeline.com/"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 18:28:58",
-      "https://news.ycombinator.com/item?id=47113401"
-    ],
-    [
-      "Benchmarks for concurrent hash map implementations in Go",
-      "https://github.com/puzpuzpuz/go-concurrent-map-bench"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-02-20, 15:41:17",
-      "https://news.ycombinator.com/item?id=47089405"
-    ],
-    [
-      "Unfavorable Semicircle",
-      "https://www.unfavorablesemicircle.com/"
-    ]
-  ],
-  [
-    [
       "2026-02-20, 13:55:08",
       "https://news.ycombinator.com/item?id=47088076"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-02-20, 06:55:38",
-      "https://news.ycombinator.com/item?id=47084622"
+      "2026-02-19, 20:55:12",
+      "https://news.ycombinator.com/item?id=47079208"
     ],
     [
-      "GPU Rack Power Density, 2015–2025",
-      "https://syaala.com/blog/gpu-rack-density-timeline-2026"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 16:12:21",
-      "https://news.ycombinator.com/item?id=47075295"
-    ],
-    [
-      "Scent, in Silico",
-      "https://www.asimov.press/p/scent"
+      "Baby chicks pass the bouba-kiki test, challenging a theory of language evolution",
+      "https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/"
     ]
   ]
 ]
