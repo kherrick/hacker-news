@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 22:16:12](https://news.ycombinator.com/item?id=47144064) - [Stripe reportedly makes offer to acquire PayPal](https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html)
+* [2026-02-24, 22:09:57](https://news.ycombinator.com/item?id=47143976) - [Dream Recorder AI – a portal to your subconscious](https://dreamrecorder.ai/)
 * [2026-02-24, 21:54:07](https://news.ycombinator.com/item?id=47143755) - [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)
 * [2026-02-24, 21:53:59](https://news.ycombinator.com/item?id=47143754) - [Pi – a minimal terminal coding harness](https://pi.dev)
 * [2026-02-24, 21:51:11](https://news.ycombinator.com/item?id=47143717) - [Show HN: Recursively apply patterns for pathfinding](https://pattern-pathfinder.vercel.app/?fixtureId=%7B%22path%22%3A%22site%2Fexamples%2F_intro.fixture.tsx%22%7D)
@@ -13,6 +15,7 @@
 * [2026-02-24, 20:35:41](https://news.ycombinator.com/item?id=47142587) - [Pentagon threatens to make Anthropic a pariah](https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei)
 * [2026-02-24, 20:27:47](https://news.ycombinator.com/item?id=47142458) - [Why High FOV Sucks – Fixing It with Panini Projection](https://www.youtube.com/watch?v=LE9kxUQ-l14)
 * [2026-02-24, 20:07:00](https://news.ycombinator.com/item?id=47142156) - [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/)
+* [2026-02-24, 20:01:54](https://news.ycombinator.com/item?id=47142078) - [We Are Changing Our Developer Productivity Experiment Design](https://metr.org/blog/2026-02-24-uplift-update/)
 * [2026-02-24, 19:43:34](https://news.ycombinator.com/item?id=47141797) - [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/)
 * [2026-02-24, 19:18:48](https://news.ycombinator.com/item?id=47141385) - [Manjaro website off-line again due to lapsed certificate](https://distrowatch.com/dwres.php?resource=showheadline&story=20140)
 * [2026-02-24, 18:46:25](https://news.ycombinator.com/item?id=47140932) - [Tesla registrations crash 17% in Europe as BEV market surges 14%](https://electrek.co/2026/02/24/tesla-eu-registrations-crash-january-2026-bev-growth/)

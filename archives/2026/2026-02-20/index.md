@@ -17,6 +17,7 @@
 * [2026-02-20, 21:45:31](https://news.ycombinator.com/item?id=47094429) - [Loon: A functional lang with invisible types, safe ownership, and alg. effects](https://loonlang.com)
 * [2026-02-20, 21:25:41](https://news.ycombinator.com/item?id=47094192) - [Turn Dependabot Off](https://words.filippo.io/dependabot/)
 * [2026-02-20, 21:22:27](https://news.ycombinator.com/item?id=47094149) - [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/)
+* [2026-02-20, 21:07:14](https://news.ycombinator.com/item?id=47093978) - [Optophone](https://en.wikipedia.org/wiki/Optophone)
 * [2026-02-20, 21:05:52](https://news.ycombinator.com/item?id=47093959) - [Lords of the Ring](https://harpers.org/archive/2026/03/lords-of-the-ring-joshua-hunt-cultural-politics-sumo-wrestling/)
 * [2026-02-20, 21:05:44](https://news.ycombinator.com/item?id=47093953) - [Phil Spencer is exiting Microsoft as AI executive takes over Xbox](https://www.neowin.net/news/phil-spencer-is-exiting-microsoft-as-ai-executive-takes-over-xbox/)
 * [2026-02-20, 20:47:48](https://news.ycombinator.com/item?id=47093724) - [OpenScan](https://openscan.eu/pages/scan-gallery)
