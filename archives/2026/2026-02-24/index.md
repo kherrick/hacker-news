@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 18:23:03](https://news.ycombinator.com/item?id=47140632) - [OpenAI, the US government and Persona built an identity surveillance machine](https://vmfunc.re/blog/persona/)
+* [2026-02-24, 18:01:16](https://news.ycombinator.com/item?id=47140332) - [Show HN: Tag Promptless on any GitHub PR/Issue to get updated user-facing docs](https://news.ycombinator.com/item?id=47140332)
 * [2026-02-24, 17:21:11](https://news.ycombinator.com/item?id=47139765) - [Open Letter to Google on Mandatory Developer Registration for App Distribution](https://keepandroidopen.org/open-letter/)
+* [2026-02-24, 17:16:12](https://news.ycombinator.com/item?id=47139690) - [Denver dumps Flock, awards contract to Axon](https://www.9news.com/article/news/local/denver-removing-flock-cameras-new-axon-contract/73-640b5af3-7c87-4fea-8aa1-2510ad3257b8)
 * [2026-02-24, 17:15:17](https://news.ycombinator.com/item?id=47139675) - [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
 * [2026-02-24, 17:03:37](https://news.ycombinator.com/item?id=47139519) - [Cardiorespiratory fitness is associated with lower anger and anxiety](https://linkinghub.elsevier.com/retrieve/pii/S000169182600171X)
 * [2026-02-24, 17:00:34](https://news.ycombinator.com/item?id=47139475) - [Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng](https://jobs.ashbyhq.com/verge-genomics)
