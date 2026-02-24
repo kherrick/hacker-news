@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-02-24, 18:23:03",
+      "https://news.ycombinator.com/item?id=47140632"
+    ],
+    [
+      "OpenAI, the US government and Persona built an identity surveillance machine",
+      "https://vmfunc.re/blog/persona/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 18:01:16",
+      "https://news.ycombinator.com/item?id=47140332"
+    ],
+    [
+      "Show HN: Tag Promptless on any GitHub PR/Issue to get updated user-facing docs",
+      "https://news.ycombinator.com/item?id=47140332"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 17:21:11",
       "https://news.ycombinator.com/item?id=47139765"
     ],
     [
       "Open Letter to Google on Mandatory Developer Registration for App Distribution",
       "https://keepandroidopen.org/open-letter/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 17:16:12",
+      "https://news.ycombinator.com/item?id=47139690"
+    ],
+    [
+      "Denver dumps Flock, awards contract to Axon",
+      "https://www.9news.com/article/news/local/denver-removing-flock-cameras-new-axon-contract/73-640b5af3-7c87-4fea-8aa1-2510ad3257b8"
     ]
   ],
   [
@@ -45,18 +75,8 @@
       "https://news.ycombinator.com/item?id=47139224"
     ],
     [
-      "Kansai Airport has never lost a baggage in the 30 years since it opened (2024)",
+      "Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)",
       "https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 15:25:38",
-      "https://news.ycombinator.com/item?id=47138347"
-    ],
-    [
-      "Federal data breach may be the biggest hack in US history",
-      "https://morningoverview.com/massive-federal-data-breach-may-be-the-biggest-hack-in-us-history/"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=47136604"
     ],
     [
-      "I Pitched a Roller Coaster to Disneyland at Age 10 in 1978",
+      "I pitched a roller coaster to Disneyland at age 10 in 1978",
       "https://wordglyph.xyz/one-piece-at-a-time"
     ]
   ],
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=47136036"
     ],
     [
-      "Discord cuts ties with Peter Thiel-backed verification software",
+      "Discord cuts ties with identity verification software, Persona",
       "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/"
     ]
   ],
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2026-02-24, 03:10:16",
-      "https://news.ycombinator.com/item?id=47132388"
-    ],
-    [
-      "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
-      "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 02:27:14",
       "https://news.ycombinator.com/item?id=47132102"
     ],
     [
       "Show HN: X86CSS – An x86 CPU emulator written in CSS",
       "https://lyra.horse/x86css/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 00:38:02",
-      "https://news.ycombinator.com/item?id=47131225"
-    ],
-    [
-      "Show HN: Steerling-8B, a language model that can explain any token it generates",
-      "https://www.guidelabs.ai/post/steerling-8b-base-model-release/"
     ]
   ],
   [
@@ -207,16 +207,6 @@
     [
       "Terence Tao, at 8 years old (1984) [pdf]",
       "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 14:22:39",
-      "https://news.ycombinator.com/item?id=47122715"
-    ],
-    [
-      "The Age Verification Trap: Verifying age undermines everyone's data protection",
-      "https://spectrum.ieee.org/age-verification"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Diode – Build, program, and simulate hardware",
       "https://www.withdiode.com/"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 16:37:29",
+      "https://news.ycombinator.com/item?id=47090261"
+    ],
+    [
+      "The 7-Year Bug That Took 3 Minutes to Fix",
+      "https://agilitza.com/blog/the-7-year-bug-that-took-3-minutes-to-fix/"
     ]
   ]
 ]
