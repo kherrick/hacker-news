@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-02-24, 09:37:19",
-      "https://news.ycombinator.com/item?id=47134946"
+      "2026-02-24, 11:00:33",
+      "https://news.ycombinator.com/item?id=47135562"
     ],
     [
-      "AI-generated replies really are a scourge these days",
-      "https://twitter.com/simonw/status/2025909963445707171"
+      "Atlantic: Sam Altman Is Losing His Grip on Humanity",
+      "https://www.theatlantic.com/technology/2026/02/sam-altman-train-a-human/686120/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 09:15:56",
+      "https://news.ycombinator.com/item?id=47134779"
+    ],
+    [
+      "Decimal-Java is a library to convert java.math.BigDecimal to and from IEEE-754r",
+      "https://github.com/FirebirdSQL/decimal-java"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2026-02-24, 00:33:06",
-      "https://news.ycombinator.com/item?id=47131173"
-    ],
-    [
-      "Shatner is making an album with 35 metal icons",
-      "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 23:58:45",
       "https://news.ycombinator.com/item?id=47130860"
     ],
@@ -101,22 +101,12 @@
   ],
   [
     [
-      "2026-02-23, 21:44:28",
-      "https://news.ycombinator.com/item?id=47129361"
+      "2026-02-23, 21:00:28",
+      "https://news.ycombinator.com/item?id=47128740"
     ],
     [
-      "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
-      "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 20:45:34",
-      "https://news.ycombinator.com/item?id=47128535"
-    ],
-    [
-      "Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)",
-      "https://github.com/vignesh07/babyshark"
+      "SIM (YC X25) Is Hiring the Best Engineers in San Francisco",
+      "https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "What it means that Ubuntu is using Rust",
       "https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 16:02:48",
+      "https://news.ycombinator.com/item?id=47124171"
+    ],
+    [
+      "The Missing Semester of Your CS Education – Revised for 2026",
+      "https://missing.csail.mit.edu/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-02-21, 13:24:04",
-      "https://news.ycombinator.com/item?id=47100612"
-    ],
-    [
-      "‘Viking’ was a job, not a matter of heredity: ancient DNA study (2020)",
-      "https://www.science.org/content/article/viking-was-job-description-not-matter-heredity-massive-ancient-dna-study-shows"
-    ]
-  ],
-  [
-    [
       "2026-02-21, 10:31:37",
       "https://news.ycombinator.com/item?id=47099401"
     ],
@@ -287,6 +277,16 @@
     [
       "Show HN: Cellarium: A Playground for Cellular Automata",
       "https://github.com/andrewosh/cellarium"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 23:02:08",
+      "https://news.ycombinator.com/item?id=47095266"
+    ],
+    [
+      "ΛProlog: Logic programming in higher-order logic",
+      "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/"
     ]
   ],
   [
