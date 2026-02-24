@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 21:51:11](https://news.ycombinator.com/item?id=47143717) - [Show HN: Recursively apply patterns for pathfinding](https://pattern-pathfinder.vercel.app/?fixtureId=%7B%22path%22%3A%22site%2Fexamples%2F_intro.fixture.tsx%22%7D)
+* [2026-02-24, 21:19:03](https://news.ycombinator.com/item?id=47143211) - [Looks Like it is Happening](https://www.math.columbia.edu/~woit/wordpress/?p=15500)
+* [2026-02-24, 21:13:45](https://news.ycombinator.com/item?id=47143152) - [Mac mini will be made at a new facility in Houston](https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/)
 * [2026-02-24, 20:35:41](https://news.ycombinator.com/item?id=47142587) - [Pentagon threatens to make Anthropic a pariah](https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei)
 * [2026-02-24, 20:27:47](https://news.ycombinator.com/item?id=47142458) - [Why High FOV Sucks – Fixing It with Panini Projection](https://www.youtube.com/watch?v=LE9kxUQ-l14)
+* [2026-02-24, 20:07:00](https://news.ycombinator.com/item?id=47142156) - [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/)
 * [2026-02-24, 19:43:34](https://news.ycombinator.com/item?id=47141797) - [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/)
 * [2026-02-24, 19:18:48](https://news.ycombinator.com/item?id=47141385) - [Manjaro website off-line again due to lapsed certificate](https://distrowatch.com/dwres.php?resource=showheadline&story=20140)
 * [2026-02-24, 18:46:25](https://news.ycombinator.com/item?id=47140932) - [Tesla registrations crash 17% in Europe as BEV market surges 14%](https://electrek.co/2026/02/24/tesla-eu-registrations-crash-january-2026-bev-growth/)
