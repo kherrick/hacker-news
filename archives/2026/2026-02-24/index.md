@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
 * [2026-02-24, 13:04:16](https://news.ycombinator.com/item?id=47136611) - [Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/)
+* [2026-02-24, 13:03:51](https://news.ycombinator.com/item?id=47136604) - [I Pitched a Roller Coaster to Disneyland at Age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
+* [2026-02-24, 12:58:14](https://news.ycombinator.com/item?id=47136537) - [IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html)
 * [2026-02-24, 12:51:49](https://news.ycombinator.com/item?id=47136477) - [xAI and Pentagon reach deal to use Grok in classified systems](https://www.axios.com/2026/02/23/ai-defense-department-deal-musk-xai-grok)
+* [2026-02-24, 11:59:14](https://news.ycombinator.com/item?id=47136036) - [Discord cuts ties with Peter Thiel-backed verification software](https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/)
 * [2026-02-24, 11:00:33](https://news.ycombinator.com/item?id=47135562) - [Atlantic: Sam Altman Is Losing His Grip on Humanity](https://www.theatlantic.com/technology/2026/02/sam-altman-train-a-human/686120/)
 * [2026-02-24, 09:37:19](https://news.ycombinator.com/item?id=47134946) - [AI-generated replies really are a scourge these days](https://twitter.com/simonw/status/2025909963445707171)
 * [2026-02-24, 09:15:56](https://news.ycombinator.com/item?id=47134779) - [Decimal-Java is a library to convert java.math.BigDecimal to and from IEEE-754r](https://github.com/FirebirdSQL/decimal-java)
