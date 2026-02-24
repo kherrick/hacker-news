@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-24, 05:04:50",
+      "https://news.ycombinator.com/item?id=47133055"
+    ],
+    [
+      "Show HN: enveil – hide your .env secrets from prAIng eyes",
+      "https://github.com/GreatScott/enveil"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 04:04:19",
+      "https://news.ycombinator.com/item?id=47132721"
+    ],
+    [
+      "Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series",
+      "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 03:51:18",
+      "https://news.ycombinator.com/item?id=47132650"
+    ],
+    [
+      "The Weird OS Built Around a Database [video]",
+      "https://www.youtube.com/watch?v=pWZBQMRmW7k"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 03:10:16",
       "https://news.ycombinator.com/item?id=47132388"
     ],
@@ -17,16 +47,6 @@
     [
       "Show HN: X86CSS – An x86 CPU emulator written in CSS",
       "https://lyra.horse/x86css/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 01:31:09",
-      "https://news.ycombinator.com/item?id=47131689"
-    ],
-    [
-      "NIST Seeking Public Comment on AI Agent Security (Deadline: March 9, 2026)",
-      "https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
       "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 22:05:27",
-      "https://news.ycombinator.com/item?id=47129647"
-    ],
-    [
-      "You are not supposed to install OpenClaw on your personal computer",
-      "https://twitter.com/BenjaminBadejo/status/2025987544853188836"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-02-23, 17:18:41",
-      "https://news.ycombinator.com/item?id=47125349"
-    ],
-    [
-      "ASML unveils EUV light source advance that could yield 50% more chips by 2030",
-      "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 17:15:14",
       "https://news.ycombinator.com/item?id=47125286"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-02-23, 12:38:54",
-      "https://news.ycombinator.com/item?id=47121539"
-    ],
-    [
-      "femtolisp: A lightweight, robust, scheme-like Lisp implementation",
-      "https://github.com/JeffBezanson/femtolisp"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 11:29:22",
       "https://news.ycombinator.com/item?id=47120899"
     ],
@@ -271,22 +261,32 @@
   ],
   [
     [
+      "2026-02-23, 06:35:32",
+      "https://news.ycombinator.com/item?id=47118838"
+    ],
+    [
+      "Genetic underpinnings of chills from art and music",
+      "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012002"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 06:28:29",
+      "https://news.ycombinator.com/item?id=47098029"
+    ],
+    [
+      "Typed Assembly Language",
+      "https://www.cs.cornell.edu/talc/"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 21:05:52",
       "https://news.ycombinator.com/item?id=47093959"
     ],
     [
       "Lords of the Ring",
       "https://harpers.org/archive/2026/03/lords-of-the-ring-joshua-hunt-cultural-politics-sumo-wrestling/"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 13:55:08",
-      "https://news.ycombinator.com/item?id=47088076"
-    ],
-    [
-      "What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics",
-      "https://jamesoswald.dev/posts/bigoinequality/"
     ]
   ],
   [
