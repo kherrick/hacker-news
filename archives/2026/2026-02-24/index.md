@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-02-24](index.md)
+
+* [2026-02-24, 00:37:26](https://news.ycombinator.com/item?id=47131219) - [Psychology suggests making a shopping list is a sign of sharper thinking](https://economictimes.indiatimes.com/news/international/us/still-making-a-shopping-list-psychology-suggests-its-a-sign-of-sharper-thinking/articleshow/127796018.cms?from=mdr)

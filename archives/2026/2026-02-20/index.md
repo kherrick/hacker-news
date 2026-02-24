@@ -56,6 +56,7 @@
 * [2026-02-20, 10:50:58](https://news.ycombinator.com/item?id=47086319) - [Silicon Valley engineers were indicted for allegedly sending secrets to Iran](https://www.cnbc.com/2026/02/20/three-engineers-charged-stealing-google-trade-secrets-data-iran-soc-snapdragon.html)
 * [2026-02-20, 10:32:52](https://news.ycombinator.com/item?id=47086181) - [The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)
 * [2026-02-20, 10:31:17](https://news.ycombinator.com/item?id=47086170) - [SwiftUI Agent Skill: Build Better Views with AI](https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/)
+* [2026-02-20, 09:46:22](https://news.ycombinator.com/item?id=47085790) - [I discovered a hidden tragedy tied to Russia's most famous painting](https://www.theguardian.com/artanddesign/2026/feb/20/an-unknown-woman-how-i-discovered-a-hidden-tragedy-tied-to-russias-most-famous-painting)
 * [2026-02-20, 09:02:05](https://news.ycombinator.com/item?id=47085483) - [\"Made in EU\" – Building a Startup on European Infrastructure](https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/)
 * [2026-02-20, 08:52:17](https://news.ycombinator.com/item?id=47085425) - [Untapped Way to Learn a Codebase: Build a Visualizer](https://jimmyhmiller.com/learn-codebase-visualizer)
 * [2026-02-20, 08:48:05](https://news.ycombinator.com/item?id=47085387) - [Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse](https://learn.pimoroni.com/article/overclocking-the-pico-2)
