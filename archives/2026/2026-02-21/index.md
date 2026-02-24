@@ -29,6 +29,7 @@
 * [2026-02-21, 15:52:20](https://news.ycombinator.com/item?id=47101890) - [Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust](https://github.com/Ragnaroek/iron-wolf)
 * [2026-02-21, 14:34:45](https://news.ycombinator.com/item?id=47101200) - [macOS's Little-Known Command-Line Sandboxing Tool](https://igorstechnoclub.com/sandbox-exec/)
 * [2026-02-21, 14:32:16](https://news.ycombinator.com/item?id=47101171) - [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206)
+* [2026-02-21, 14:14:08](https://news.ycombinator.com/item?id=47101034) - [Build Your Own Forth Interpreter](https://codingchallenges.fyi/challenges/challenge-forth/)
 * [2026-02-21, 14:01:45](https://news.ycombinator.com/item?id=47100935) - [The Human Root of Trust – public domain framework for agent accountability](https://humanrootoftrust.org/)
 * [2026-02-21, 13:36:45](https://news.ycombinator.com/item?id=47100714) - [Unsung heroes: Flickr's URLs scheme](https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/)
 * [2026-02-21, 13:28:39](https://news.ycombinator.com/item?id=47100641) - [DJB's Cryptographic Odyssey: From Code Hero to Standards Gadfly](https://cryptography.watch/articles/djb-cryptographic-odyssey/)
