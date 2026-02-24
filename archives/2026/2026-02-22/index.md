@@ -40,6 +40,7 @@
 * [2026-02-22, 16:39:48](https://news.ycombinator.com/item?id=47112440) - [AI System – Is It Your \"Cognitive Exoskeleton\" or Simply Your Super-Fast Intern?](https://news.ycombinator.com/item?id=47112440)
 * [2026-02-22, 16:21:07](https://news.ycombinator.com/item?id=47112252) - [Fungicide vinclozin causes disease via germline for 20 generations in rats](https://pnas.org/doi/10.1073/pnas.2523071123)
 * [2026-02-22, 16:12:31](https://news.ycombinator.com/item?id=47112174) - [Fix Your Tools](https://ochagavia.nl/blog/fix-your-tools/)
+* [2026-02-22, 16:10:18](https://news.ycombinator.com/item?id=47112148) - [Extending C with Prolog (1994)](https://www.amzi.com/articles/irq_expert_system.htm)
 * [2026-02-22, 15:53:02](https://news.ycombinator.com/item?id=47111981) - [Show HN: 3D Mahjong, Built in CSS](https://voxjong.com)
 * [2026-02-22, 15:12:15](https://news.ycombinator.com/item?id=47111626) - [Xweather Live – Interactive global vector weather map](https://live.xweather.com/)
 * [2026-02-22, 14:50:44](https://news.ycombinator.com/item?id=47111440) - [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/)
