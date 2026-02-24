@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-24, 13:04:16](https://news.ycombinator.com/item?id=47136611) - [Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/)
+* [2026-02-24, 12:51:49](https://news.ycombinator.com/item?id=47136477) - [xAI and Pentagon reach deal to use Grok in classified systems](https://www.axios.com/2026/02/23/ai-defense-department-deal-musk-xai-grok)
 * [2026-02-24, 09:15:56](https://news.ycombinator.com/item?id=47134779) - [Decimal-Java is a library to convert java.math.BigDecimal to and from IEEE-754r](https://github.com/FirebirdSQL/decimal-java)
 * [2026-02-24, 05:47:23](https://news.ycombinator.com/item?id=47133313) - [Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 * [2026-02-24, 05:04:50](https://news.ycombinator.com/item?id=47133055) - [Show HN: enveil – hide your .env secrets from prAIng eyes](https://github.com/GreatScott/enveil)
@@ -9,7 +11,6 @@
 * [2026-02-24, 00:38:02](https://news.ycombinator.com/item?id=47131225) - [Show HN: Steerling-8B, a language model that can explain any token it generates](https://www.guidelabs.ai/post/steerling-8b-base-model-release/)
 * [2026-02-23, 23:58:45](https://news.ycombinator.com/item?id=47130860) - [I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)
 * [2026-02-23, 22:11:34](https://news.ycombinator.com/item?id=47129727) - [Making Wolfram tech available as a foundation tool for LLM systems](https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/)
-* [2026-02-23, 21:44:28](https://news.ycombinator.com/item?id=47129361) - [FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
 * [2026-02-23, 20:16:08](https://news.ycombinator.com/item?id=47128138) - [“Car Wash” test with 53 models](https://opper.ai/blog/car-wash-test)
 * [2026-02-23, 20:05:15](https://news.ycombinator.com/item?id=47127986) - [UNIX99, a UNIX-like OS for the TI-99/4A (2025)](https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/page/5/#findComment-5713334)
 * [2026-02-23, 17:20:25](https://news.ycombinator.com/item?id=47125374) - [Writing code is cheap now](https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/)
@@ -25,10 +26,9 @@
 * [2026-02-21, 21:33:28](https://news.ycombinator.com/item?id=47105038) - [Graph Topology and Battle Royale Mechanics](https://blog.lukesalamone.com/posts/beam-search-graph-pruning/)
 * [2026-02-21, 13:36:45](https://news.ycombinator.com/item?id=47100714) - [Unsung heroes: Flickr's URLs scheme](https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/)
 * [2026-02-21, 10:31:37](https://news.ycombinator.com/item?id=47099401) - [A distributed queue in a single JSON file on object storage](https://turbopuffer.com/blog/object-storage-queue)
-* [2026-02-21, 06:28:29](https://news.ycombinator.com/item?id=47098029) - [Typed Assembly Language (2000)](https://www.cs.cornell.edu/talc/)
 * [2026-02-21, 00:47:09](https://news.ycombinator.com/item?id=47096186) - [Show HN: Cellarium: A Playground for Cellular Automata](https://github.com/andrewosh/cellarium)
 * [2026-02-21, 00:18:31](https://news.ycombinator.com/item?id=47095972) - [ATAboy is a USB adapter for legacy CHS only style IDE (PATA) drives](https://github.com/redruM0381/ATAboy)
-* [2026-02-20, 23:02:08](https://news.ycombinator.com/item?id=47095266) - [ΛProlog: Logic programming in higher-order logic](https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/)
+* [2026-02-20, 23:02:08](https://news.ycombinator.com/item?id=47095266) - [λProlog: Logic programming in higher-order logic](https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/)
 * [2026-02-20, 22:14:13](https://news.ycombinator.com/item?id=47094768) - [Diode – Build, program, and simulate hardware](https://www.withdiode.com/)
 
 ## [Archives](archives/index.md)
