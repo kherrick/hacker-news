@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-24, 20:35:41](https://news.ycombinator.com/item?id=47142587) - [Pentagon threatens to make Anthropic a pariah](https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei)
+* [2026-02-24, 20:27:47](https://news.ycombinator.com/item?id=47142458) - [Why High FOV Sucks – Fixing It with Panini Projection](https://www.youtube.com/watch?v=LE9kxUQ-l14)
 * [2026-02-24, 19:43:34](https://news.ycombinator.com/item?id=47141797) - [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/)
 * [2026-02-24, 19:18:48](https://news.ycombinator.com/item?id=47141385) - [Manjaro website off-line again due to lapsed certificate](https://distrowatch.com/dwres.php?resource=showheadline&story=20140)
-* [2026-02-24, 18:46:25](https://news.ycombinator.com/item?id=47140932) - [Tesla registrations crash 17% in Europe as BEV market surges 14%](https://electrek.co/2026/02/24/tesla-eu-registrations-crash-january-2026-bev-growth/)
 * [2026-02-24, 18:24:17](https://news.ycombinator.com/item?id=47140657) - [Steel Bank Common Lisp](https://www.sbcl.org/)
 * [2026-02-24, 18:23:03](https://news.ycombinator.com/item?id=47140632) - [OpenAI, the US government and Persona built an identity surveillance machine](https://vmfunc.re/blog/persona/)
 * [2026-02-24, 18:22:31](https://news.ycombinator.com/item?id=47140623) - [OpenAI resets spending expectations, from $1.4T to $600B](https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html)
@@ -19,7 +20,6 @@
 * [2026-02-24, 13:03:51](https://news.ycombinator.com/item?id=47136604) - [I pitched a roller coaster to Disneyland at age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
 * [2026-02-24, 12:58:14](https://news.ycombinator.com/item?id=47136537) - [IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html)
 * [2026-02-24, 12:16:45](https://news.ycombinator.com/item?id=47136179) - [IDF killed Gaza aid workers at point blank range in 2025 massacre: Report](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
-* [2026-02-24, 11:59:14](https://news.ycombinator.com/item?id=47136036) - [Discord cuts ties with identity verification software, Persona](https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/)
 * [2026-02-23, 17:14:02](https://news.ycombinator.com/item?id=47125263) - [Samsung Upcycle Promise](https://www.xda-developers.com/samsung-promised-make-old-phones-useful-galaxy-upcycle/)
 * [2026-02-23, 16:02:48](https://news.ycombinator.com/item?id=47124171) - [The Missing Semester of Your CS Education – Revised for 2026](https://missing.csail.mit.edu/)
 * [2026-02-23, 15:36:50](https://news.ycombinator.com/item?id=47123689) - [Terence Tao, at 8 years old (1984) [pdf]](https://gwern.net/doc/iq/high/smpy/1984-clements.pdf)
