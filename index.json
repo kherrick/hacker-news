@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-02-24, 15:58:08",
-      "https://news.ycombinator.com/item?id=47138718"
+      "2026-02-24, 17:21:11",
+      "https://news.ycombinator.com/item?id=47139765"
     ],
     [
-      "Software 3.1? – AI Functions",
-      "https://blog.mikegchambers.com/posts/software-31-ai-functions/"
+      "Open Letter to Google on Mandatory Developer Registration for App Distribution",
+      "https://keepandroidopen.org/open-letter/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 17:15:17",
+      "https://news.ycombinator.com/item?id=47139675"
+    ],
+    [
+      "I'm helping my dog vibe code games",
+      "https://www.calebleak.com/posts/dog-game/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 17:03:37",
+      "https://news.ycombinator.com/item?id=47139519"
+    ],
+    [
+      "Cardiorespiratory fitness is associated with lower anger and anxiety",
+      "https://linkinghub.elsevier.com/retrieve/pii/S000169182600171X"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 17:00:34",
+      "https://news.ycombinator.com/item?id=47139475"
+    ],
+    [
+      "Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng",
+      "https://jobs.ashbyhq.com/verge-genomics"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 16:40:47",
+      "https://news.ycombinator.com/item?id=47139224"
+    ],
+    [
+      "Kansai Airport has never lost a baggage in the 30 years since it opened (2024)",
+      "https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 15:25:38",
+      "https://news.ycombinator.com/item?id=47138347"
+    ],
+    [
+      "Federal data breach may be the biggest hack in US history",
+      "https://morningoverview.com/massive-federal-data-breach-may-be-the-biggest-hack-in-us-history/"
     ]
   ],
   [
@@ -17,6 +67,16 @@
     [
       "Stripe valued at $159B, 2025 annual letter",
       "https://stripe.com/newsroom/news/stripe-2025-update"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 13:08:56",
+      "https://news.ycombinator.com/item?id=47136658"
+    ],
+    [
+      "Why the KeePass format should be based on SQLite",
+      "https://mketab.org/blog/sqlite_kdbx/"
     ]
   ],
   [
@@ -57,26 +117,6 @@
     [
       "Discord cuts ties with Peter Thiel-backed verification software",
       "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 09:15:56",
-      "https://news.ycombinator.com/item?id=47134779"
-    ],
-    [
-      "Decimal-Java is a library to convert java.math.BigDecimal to and from IEEE-754r",
-      "https://github.com/FirebirdSQL/decimal-java"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 05:47:23",
-      "https://news.ycombinator.com/item?id=47133313"
-    ],
-    [
-      "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
-      "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/"
     ]
   ],
   [
@@ -141,36 +181,6 @@
   ],
   [
     [
-      "2026-02-23, 20:16:08",
-      "https://news.ycombinator.com/item?id=47128138"
-    ],
-    [
-      "“Car Wash” test with 53 models",
-      "https://opper.ai/blog/car-wash-test"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 20:05:15",
-      "https://news.ycombinator.com/item?id=47127986"
-    ],
-    [
-      "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
-      "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/page/5/#findComment-5713334"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 17:20:25",
-      "https://news.ycombinator.com/item?id=47125374"
-    ],
-    [
-      "Writing code is cheap now",
-      "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 17:14:02",
       "https://news.ycombinator.com/item?id=47125263"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-02-23, 09:52:14",
-      "https://news.ycombinator.com/item?id=47120145"
-    ],
-    [
-      "Hetzner Prices increase 30-40%",
-      "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/"
-    ]
-  ],
-  [
-    [
       "2026-02-22, 21:07:11",
       "https://news.ycombinator.com/item?id=47114678"
     ],
@@ -237,6 +237,16 @@
     [
       "Extending C with Prolog (1994)",
       "https://www.amzi.com/articles/irq_expert_system.htm"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 16:55:23",
+      "https://news.ycombinator.com/item?id=47102441"
+    ],
+    [
+      "Catherine of Braganza, the Queen Who Brought Tea to England",
+      "https://www.thecollector.com/catherine-braganza-queen-tea-england/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Tiny QR code achieved using electron microscope technology",
       "https://newatlas.com/technology/smallest-qr-code-bacteria-tu-wien/"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 00:18:31",
-      "https://news.ycombinator.com/item?id=47095972"
-    ],
-    [
-      "ATAboy is a USB adapter for legacy CHS only style IDE (PATA) drives",
-      "https://github.com/redruM0381/ATAboy"
     ]
   ],
   [
