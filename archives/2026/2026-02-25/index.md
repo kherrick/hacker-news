@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 13:31:17](https://news.ycombinator.com/item?id=47151233) - [Never Buy A .online Domain](https://www.0xsid.com/blog/online-tld-is-pain)
 * [2026-02-25, 12:01:11](https://news.ycombinator.com/item?id=47150403) - [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer)
 * [2026-02-25, 10:34:41](https://news.ycombinator.com/item?id=47149811) - [Vinext – The Next.js API surface, reimplemented on Vite](https://github.com/cloudflare/vinext)
 * [2026-02-25, 10:24:23](https://news.ycombinator.com/item?id=47149752) - [100M-Row Challenge with PHP](https://github.com/tempestphp/100-million-row-challenge)

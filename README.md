@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-25, 13:31:17](https://news.ycombinator.com/item?id=47151233) - [Never Buy A .online Domain](https://www.0xsid.com/blog/online-tld-is-pain)
 * [2026-02-25, 12:01:11](https://news.ycombinator.com/item?id=47150403) - [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer)
 * [2026-02-25, 10:24:23](https://news.ycombinator.com/item?id=47149752) - [100M-Row Challenge with PHP](https://github.com/tempestphp/100-million-row-challenge)
 * [2026-02-25, 10:16:22](https://news.ycombinator.com/item?id=47149701) - [Danish government agency to ditch Microsoft software (2025)](https://therecord.media/denmark-digital-agency-microsoft-digital-independence)
@@ -25,11 +26,10 @@
 * [2026-02-24, 06:53:55](https://news.ycombinator.com/item?id=47133716) - [Show HN: Scheme-langserver – Digest incomplete code with static analysis](https://github.com/ufo5260987423/scheme-langserver)
 * [2026-02-24, 00:12:44](https://news.ycombinator.com/item?id=47130997) - [Meta problem with URPF our bundle in Boca raton](https://metafixthis.com/)
 * [2026-02-23, 17:15:22](https://news.ycombinator.com/item?id=47125287) - [Half million 'Words with Spaces' missing from dictionaries](https://www.linguabase.org/words-with-spaces.html)
+* [2026-02-22, 22:42:12](https://news.ycombinator.com/item?id=47115574) - [How to fold the Blade Runner origami unicorn (1996)](https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html)
 * [2026-02-22, 20:08:18](https://news.ycombinator.com/item?id=47114165) - [Japanese Death Poems](https://www.secretorum.life/p/japanese-death-poems-part-3)
-* [2026-02-22, 19:40:18](https://news.ycombinator.com/item?id=47113946) - [Read Locks Are Not Your Friends](https://eventual-consistency.vercel.app/posts/write-locks-faster)
 * [2026-02-22, 12:12:39](https://news.ycombinator.com/item?id=47110384) - [Cl-kawa: Scheme on Java on Common Lisp](https://github.com/atgreen/cl-kawa)
-* [2026-02-22, 06:58:13](https://news.ycombinator.com/item?id=47108894) - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1 (2024)](https://mahaloz.re/dec-history-pt1)
-* [2026-02-21, 20:14:13](https://news.ycombinator.com/item?id=47104227) - [Aesthetics of single threading](https://ta.fo/aesthetics-of-single-threading/)
+* [2026-02-22, 11:54:46](https://news.ycombinator.com/item?id=47110300) - [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/)
 
 ## [Archives](archives/index.md)
 

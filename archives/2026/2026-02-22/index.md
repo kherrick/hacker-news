@@ -8,6 +8,7 @@
 * [2026-02-22, 23:17:41](https://news.ycombinator.com/item?id=47115899) - [Zuckerberg's \"Fix\" for Child Safety Could End Anonymous Internet Access for All](https://reclaimthenet.org/zuckerberg-instagram-age-verification-trial)
 * [2026-02-22, 23:07:55](https://news.ycombinator.com/item?id=47115805) - [Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 * [2026-02-22, 22:42:16](https://news.ycombinator.com/item?id=47115575) - [Using New Bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
+* [2026-02-22, 22:42:12](https://news.ycombinator.com/item?id=47115574) - [How to fold the Blade Runner origami unicorn (1996)](https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html)
 * [2026-02-22, 21:41:27](https://news.ycombinator.com/item?id=47115009) - [Algolia Hacker News Search GitHub Project Archived](https://github.com/algolia/hn-search)
 * [2026-02-22, 21:22:39](https://news.ycombinator.com/item?id=47114830) - [Dental Disease May Undermine Elite Athletic Performance](https://www.medscape.com/viewarticle/dental-disease-performance-risk-2026a10005ea)
 * [2026-02-22, 21:07:11](https://news.ycombinator.com/item?id=47114678) - [We installed a single turnstile to feel secure](https://idiallo.com/blog/installed-single-turnstile-for-security-theater)
