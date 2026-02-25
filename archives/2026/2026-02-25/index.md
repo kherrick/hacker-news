@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
 * [2026-02-25, 23:16:40](https://news.ycombinator.com/item?id=47159430) - [Banned in California](https://www.bannedincalifornia.org/)
+* [2026-02-25, 23:09:33](https://news.ycombinator.com/item?id=47159364) - [Origin of the rule that swap size should be 2x of the physical memory](https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory)
 * [2026-02-25, 23:02:58](https://news.ycombinator.com/item?id=47159302) - [First Website](https://info.cern.ch)
 * [2026-02-25, 21:11:44](https://news.ycombinator.com/item?id=47157919) - [ECS Survivors Parts VII – X](https://blog.ptidej.net/ecs-survivors-parts-vii-x/)
 * [2026-02-25, 21:05:15](https://news.ycombinator.com/item?id=47157841) - [An autopsy of AI-generated 3D slop](https://aircada.com/blog/ai-vs-human-3d-ecommerce)

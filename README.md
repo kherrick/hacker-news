@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-25, 23:16:40](https://news.ycombinator.com/item?id=47159430) - [Banned in California](https://www.bannedincalifornia.org/)
+* [2026-02-25, 23:09:33](https://news.ycombinator.com/item?id=47159364) - [Origin of the rule that swap size should be 2x of the physical memory](https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory)
 * [2026-02-25, 23:02:58](https://news.ycombinator.com/item?id=47159302) - [First Website](https://info.cern.ch)
 * [2026-02-25, 20:29:37](https://news.ycombinator.com/item?id=47157398) - [Making MCP cheaper via CLI](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html)
 * [2026-02-25, 20:16:47](https://news.ycombinator.com/item?id=47157224) - [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
-* [2026-02-25, 20:11:37](https://news.ycombinator.com/item?id=47157160) - [PA Bench: Evaluating Frontier Models on Multi-Tab Pa Tasks](https://vibrantlabs.com/blog/pa-bench)
 * [2026-02-25, 18:41:23](https://news.ycombinator.com/item?id=47155811) - [Devirtualization and Static Polymorphism](https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/)
 * [2026-02-25, 18:28:37](https://news.ycombinator.com/item?id=47155597) - [Show HN: I ported Tree-sitter to Go](https://github.com/odvcencio/gotreesitter)
 * [2026-02-25, 17:48:21](https://news.ycombinator.com/item?id=47154971) - [The Om Programming Language](https://www.om-language.com/)
