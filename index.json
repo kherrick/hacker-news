@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-25, 21:05:15",
+      "https://news.ycombinator.com/item?id=47157841"
+    ],
+    [
+      "An autopsy of AI-generated 3D slop",
+      "https://aircada.com/blog/ai-vs-human-3d-ecommerce"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 20:29:37",
+      "https://news.ycombinator.com/item?id=47157398"
+    ],
+    [
+      "I made MCP cheaper",
+      "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html"
+    ]
+  ],
+  [
+    [
       "2026-02-25, 20:16:47",
       "https://news.ycombinator.com/item?id=47157224"
     ],
@@ -141,6 +161,16 @@
   ],
   [
     [
+      "2026-02-25, 14:21:19",
+      "https://news.ycombinator.com/item?id=47151842"
+    ],
+    [
+      "Show HN: Respectify – a comment moderator that teaches people to argue better",
+      "https://respectify.org/"
+    ]
+  ],
+  [
+    [
       "2026-02-25, 14:02:02",
       "https://news.ycombinator.com/item?id=47151598"
     ],
@@ -171,42 +201,12 @@
   ],
   [
     [
-      "2026-02-25, 10:24:23",
-      "https://news.ycombinator.com/item?id=47149752"
-    ],
-    [
-      "100M-Row Challenge with PHP",
-      "https://github.com/tempestphp/100-million-row-challenge"
-    ]
-  ],
-  [
-    [
       "2026-02-25, 10:16:22",
       "https://news.ycombinator.com/item?id=47149701"
     ],
     [
       "Danish government agency to ditch Microsoft software (2025)",
       "https://therecord.media/denmark-digital-agency-microsoft-digital-independence"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 10:02:45",
-      "https://news.ycombinator.com/item?id=47149586"
-    ],
-    [
-      "Show HN: A real-time strategy game that AI agents can play",
-      "https://llmskirmish.com/"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 09:05:40",
-      "https://news.ycombinator.com/item?id=47149151"
-    ],
-    [
-      "LLM=True",
-      "https://blog.codemine.be/posts/2026/20260222-be-quiet/"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-02-24, 23:33:58",
-      "https://news.ycombinator.com/item?id=47145082"
+      "2026-02-24, 18:59:31",
+      "https://news.ycombinator.com/item?id=47141107"
     ],
     [
-      "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
-      "https://www.playlinex.com/"
+      "Learnings from 4 months of Image-Video VAE experiments",
+      "https://www.linum.ai/field-notes/vae-reconstruction-vs-generation"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-02-22, 11:07:25",
+      "https://news.ycombinator.com/item?id=47110066"
+    ],
+    [
+      "Access to a Shared Unix Computer",
+      "http://tilde.club/"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 10:56:30",
       "https://news.ycombinator.com/item?id=47110023"
     ],
@@ -287,16 +297,6 @@
     [
       "Text-Based Google Directions",
       "https://gdir.telae.net/"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 04:16:55",
-      "https://news.ycombinator.com/item?id=47097446"
-    ],
-    [
-      "Topological Naming Problem",
-      "https://wiki.freecad.org/Topological_naming_problem"
     ]
   ]
 ]
