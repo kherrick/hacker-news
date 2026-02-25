@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 17:49:27](https://news.ycombinator.com/item?id=47154983) - [The Pentagon Threatens Anthropic](https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic)
+* [2026-02-25, 17:48:21](https://news.ycombinator.com/item?id=47154971) - [om](https://www.om-language.com/)
+* [2026-02-25, 17:37:04](https://news.ycombinator.com/item?id=47154803) - [Sandboxes won't save you from OpenClaw](https://tachyon.so/blog/sandboxes-wont-save-you)
 * [2026-02-25, 17:02:12](https://news.ycombinator.com/item?id=47154246) - [Trellis AI (YC W24) is hiring deployment lead to accelerate medication access](https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist)
+* [2026-02-25, 16:49:36](https://news.ycombinator.com/item?id=47154076) - [Why isn't LA repaving streets?](https://lapublicpress.org/2026/02/why-isnt-la-repaving-streets/)
 * [2026-02-25, 16:47:33](https://news.ycombinator.com/item?id=47154042) - [Racket v9.1](https://blog.racket-lang.org/2026/02/racket-v9-1.html)
 * [2026-02-25, 16:44:58](https://news.ycombinator.com/item?id=47154011) - [Large-scale online deanonymization with LLMs](https://arxiv.org/abs/2602.16800)
 * [2026-02-25, 16:44:54](https://news.ycombinator.com/item?id=47154009) - [Following 35% growth, solar has passed hydro on US grid](https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/)

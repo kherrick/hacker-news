@@ -26,6 +26,7 @@
 * [2026-02-21, 18:09:24](https://news.ycombinator.com/item?id=47103136) - [Toyota Mirai hydrogen car depreciation: 65% value loss in a year](https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/)
 * [2026-02-21, 17:49:02](https://news.ycombinator.com/item?id=47102975) - [Personal Statement of a CIA Analyst](https://antipolygraph.org/statements/statement-038.shtml)
 * [2026-02-21, 17:26:17](https://news.ycombinator.com/item?id=47102763) - [DialUp95 – A 90s inspired nostalgia hit](https://dialup95.com/)
+* [2026-02-21, 17:10:55](https://news.ycombinator.com/item?id=47102610) - [Text-Based Google Directions](https://gdir.telae.net/)
 * [2026-02-21, 17:08:12](https://news.ycombinator.com/item?id=47102576) - [What Not to Write on Your Security Clearance Form](https://milk.com/wall-o-shame/security_clearance.html)
 * [2026-02-21, 16:55:23](https://news.ycombinator.com/item?id=47102441) - [Catherine of Braganza, the Queen Who Brought Tea to England](https://www.thecollector.com/catherine-braganza-queen-tea-england/)
 * [2026-02-21, 16:27:01](https://news.ycombinator.com/item?id=47102208) - [The Nekonomicon – Nekochan.net Archive, Updated](http://nekonomicon.irixnet.org/)

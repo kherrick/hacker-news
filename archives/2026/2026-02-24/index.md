@@ -31,6 +31,7 @@
 * [2026-02-24, 17:40:40](https://news.ycombinator.com/item?id=47140042) - [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
 * [2026-02-24, 17:30:19](https://news.ycombinator.com/item?id=47139902) - [HuggingFace Agent Skills](https://github.com/huggingface/skills)
 * [2026-02-24, 17:21:11](https://news.ycombinator.com/item?id=47139765) - [Open Letter to Google on Mandatory Developer Registration for App Distribution](https://keepandroidopen.org/open-letter/)
+* [2026-02-24, 17:18:17](https://news.ycombinator.com/item?id=47139716) - [Large-Scale Online Deanonymization with LLMs](https://simonlermen.substack.com/p/large-scale-online-deanonymization)
 * [2026-02-24, 17:16:12](https://news.ycombinator.com/item?id=47139690) - [Denver dumps Flock, awards contract to Axon](https://www.9news.com/article/news/local/denver-removing-flock-cameras-new-axon-contract/73-640b5af3-7c87-4fea-8aa1-2510ad3257b8)
 * [2026-02-24, 17:15:17](https://news.ycombinator.com/item?id=47139675) - [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
 * [2026-02-24, 17:03:37](https://news.ycombinator.com/item?id=47139519) - [Cardiorespiratory fitness is associated with lower anger and anxiety](https://linkinghub.elsevier.com/retrieve/pii/S000169182600171X)
