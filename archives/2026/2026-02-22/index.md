@@ -49,6 +49,7 @@
 * [2026-02-22, 14:50:44](https://news.ycombinator.com/item?id=47111440) - [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/)
 * [2026-02-22, 14:44:42](https://news.ycombinator.com/item?id=47111400) - [Man accidentally gains control of 7k robot vacuums](https://www.popsci.com/technology/robot-vacuum-army/)
 * [2026-02-22, 14:21:35](https://news.ycombinator.com/item?id=47111218) - [Git's Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)
+* [2026-02-22, 14:03:01](https://news.ycombinator.com/item?id=47111092) - [Scipy.stats. Chatterjeexi](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chatterjeexi.html)
 * [2026-02-22, 13:59:40](https://news.ycombinator.com/item?id=47111067) - [Iran students stage first large anti-government protests since deadly crackdown](https://www.bbc.com/news/articles/c5yj2kzkrj0o)
 * [2026-02-22, 13:57:18](https://news.ycombinator.com/item?id=47111042) - [I put New Zealand behind a $1 paywall](https://rename.world/)
 * [2026-02-22, 13:44:27](https://news.ycombinator.com/item?id=47110946) - [Show HN: TLA+ Workbench skill for coding agents (compat. with Vercel skills CLI)](https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench)

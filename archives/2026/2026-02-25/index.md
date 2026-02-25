@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 18:38:33](https://news.ycombinator.com/item?id=47155772) - [Attyx – tiny and fast GPU-accelerated terminal emulator written in Zig](https://github.com/semos-labs/attyx)
+* [2026-02-25, 18:28:37](https://news.ycombinator.com/item?id=47155597) - [Show HN: I ported Tree-sitter to Go](https://github.com/odvcencio/gotreesitter)
+* [2026-02-25, 18:25:57](https://news.ycombinator.com/item?id=47155548) - [The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/)
 * [2026-02-25, 17:49:27](https://news.ycombinator.com/item?id=47154983) - [The Pentagon Threatens Anthropic](https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic)
 * [2026-02-25, 17:48:21](https://news.ycombinator.com/item?id=47154971) - [om](https://www.om-language.com/)
 * [2026-02-25, 17:37:04](https://news.ycombinator.com/item?id=47154803) - [Sandboxes won't save you from OpenClaw](https://tachyon.so/blog/sandboxes-wont-save-you)
@@ -15,6 +18,7 @@
 * [2026-02-25, 16:39:23](https://news.ycombinator.com/item?id=47153941) - [Show HN: Sgai – Goal-driven multi-agent software dev (GOAL.md → working code)](https://github.com/sandgardenhq/sgai)
 * [2026-02-25, 16:38:40](https://news.ycombinator.com/item?id=47153924) - [The Misuses of the University](https://www.publicbooks.org/the-misuses-of-the-university/)
 * [2026-02-25, 16:31:26](https://news.ycombinator.com/item?id=47153798) - [The United States needs fewer bus stops](https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/)
+* [2026-02-25, 16:23:52](https://news.ycombinator.com/item?id=47153675) - [I asked Claude for 37,500 random names, and it can't stop saying Marcus](https://github.com/benjismith/ai-randomness)
 * [2026-02-25, 15:37:29](https://news.ycombinator.com/item?id=47152982) - [GNU Texmacs](https://www.texmacs.org/tmweb/home/welcome.en.html)
 * [2026-02-25, 14:55:20](https://news.ycombinator.com/item?id=47152355) - [Ask HN: Have top AI research institutions just given up on the idea of safety?](https://news.ycombinator.com/item?id=47152355)
 * [2026-02-25, 14:48:17](https://news.ycombinator.com/item?id=47152252) - [US orders diplomats to fight data sovereignty initiatives](https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/)
