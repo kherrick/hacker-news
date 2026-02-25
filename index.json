@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-25, 18:41:23",
+      "https://news.ycombinator.com/item?id=47155811"
+    ],
+    [
+      "Devirtualization and Static Polymorphism",
+      "https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/"
+    ]
+  ],
+  [
+    [
       "2026-02-25, 18:38:33",
       "https://news.ycombinator.com/item?id=47155772"
     ],
@@ -21,22 +31,12 @@
   ],
   [
     [
-      "2026-02-25, 18:25:57",
-      "https://news.ycombinator.com/item?id=47155548"
+      "2026-02-25, 18:12:27",
+      "https://news.ycombinator.com/item?id=47155325"
     ],
     [
-      "The Slow Death of the Power User",
-      "https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 17:49:27",
-      "https://news.ycombinator.com/item?id=47154983"
-    ],
-    [
-      "The Pentagon Threatens Anthropic",
-      "https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic"
+      "The Appeal and Reality of Recycling LoRAs with Adaptive Merging",
+      "https://arxiv.org/abs/2602.12323"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "om",
       "https://www.om-language.com/"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 17:37:04",
+      "https://news.ycombinator.com/item?id=47154803"
+    ],
+    [
+      "Sandboxes won't save you from OpenClaw",
+      "https://tachyon.so/blog/sandboxes-wont-save-you"
     ]
   ],
   [
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=47152085"
     ],
     [
-      "New accounts on HN 10x more likely to use em-dashes",
+      "New accounts on HN more likely to use em-dashes",
       "https://www.marginalia.nu/weird-ai-crap/hn/"
     ]
   ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-02-24, 22:46:23",
-      "https://news.ycombinator.com/item?id=47144464"
-    ],
-    [
-      "Mercury 2: Fast reasoning LLM powered by diffusion",
-      "https://www.inceptionlabs.ai/blog/introducing-mercury-2"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 21:53:59",
       "https://news.ycombinator.com/item?id=47143754"
     ],
@@ -237,16 +237,6 @@
     [
       "Large-Scale Online Deanonymization with LLMs",
       "https://simonlermen.substack.com/p/large-scale-online-deanonymization"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 12:55:39",
-      "https://news.ycombinator.com/item?id=47121716"
-    ],
-    [
-      "Confusables.txt and NFKC disagree on 31 characters",
-      "https://paultendo.github.io/posts/unicode-confusables-nfkc-conflict/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "PL/0",
       "https://en.wikipedia.org/wiki/PL/0"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 10:56:30",
+      "https://news.ycombinator.com/item?id=47110023"
+    ],
+    [
+      "Show HN: Django-xbench – slow endpoint aggregation for Django",
+      "https://github.com/yeongbin05/django-xbench"
     ]
   ],
   [
