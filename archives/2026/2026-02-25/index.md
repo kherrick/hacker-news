@@ -4,9 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 17:02:12](https://news.ycombinator.com/item?id=47154246) - [Trellis AI (YC W24) is hiring deployment lead to accelerate medication access](https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist)
+* [2026-02-25, 16:47:33](https://news.ycombinator.com/item?id=47154042) - [Racket v9.1](https://blog.racket-lang.org/2026/02/racket-v9-1.html)
+* [2026-02-25, 16:44:58](https://news.ycombinator.com/item?id=47154011) - [Large-scale online deanonymization with LLMs](https://arxiv.org/abs/2602.16800)
+* [2026-02-25, 16:44:54](https://news.ycombinator.com/item?id=47154009) - [Following 35% growth, solar has passed hydro on US grid](https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/)
+* [2026-02-25, 16:39:23](https://news.ycombinator.com/item?id=47153941) - [Show HN: Sgai – Goal-driven multi-agent software dev (GOAL.md → working code)](https://github.com/sandgardenhq/sgai)
+* [2026-02-25, 16:38:40](https://news.ycombinator.com/item?id=47153924) - [The Misuses of the University](https://www.publicbooks.org/the-misuses-of-the-university/)
+* [2026-02-25, 16:31:26](https://news.ycombinator.com/item?id=47153798) - [The United States needs fewer bus stops](https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/)
 * [2026-02-25, 15:37:29](https://news.ycombinator.com/item?id=47152982) - [GNU Texmacs](https://www.texmacs.org/tmweb/home/welcome.en.html)
 * [2026-02-25, 14:55:20](https://news.ycombinator.com/item?id=47152355) - [Ask HN: Have top AI research institutions just given up on the idea of safety?](https://news.ycombinator.com/item?id=47152355)
 * [2026-02-25, 14:48:17](https://news.ycombinator.com/item?id=47152252) - [US orders diplomats to fight data sovereignty initiatives](https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/)
+* [2026-02-25, 14:37:21](https://news.ycombinator.com/item?id=47152085) - [New accounts on HN 10x more likely to use em-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
 * [2026-02-25, 14:31:35](https://news.ycombinator.com/item?id=47151995) - [Show HN: Django Control Room – All Your Tools Inside the Django Admin](https://github.com/yassi/dj-control-room)
 * [2026-02-25, 14:17:14](https://news.ycombinator.com/item?id=47151784) - [Show HN: Clocksimulator.com – A minimalist, distraction-free analog clock](https://www.clocksimulator.com/)
 * [2026-02-25, 14:02:02](https://news.ycombinator.com/item?id=47151598) - [Launch HN: TeamOut (YC W22) – AI agent for planning company events](https://app.teamout.com/ai)

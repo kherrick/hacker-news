@@ -58,6 +58,7 @@
 * [2026-02-22, 12:39:50](https://news.ycombinator.com/item?id=47110533) - [Sewage Spill in the Potomac River](https://www.vdh.virginia.gov/news/potomac-sewage-spill/)
 * [2026-02-22, 12:36:46](https://news.ycombinator.com/item?id=47110515) - [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html)
 * [2026-02-22, 12:34:00](https://news.ycombinator.com/item?id=47110495) - [Minions: Stripe's one-shot, end-to-end coding agents – Stripe Dot Dev Blog](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents)
+* [2026-02-22, 12:33:03](https://news.ycombinator.com/item?id=47110491) - [PL/0](https://en.wikipedia.org/wiki/PL/0)
 * [2026-02-22, 12:28:41](https://news.ycombinator.com/item?id=47110473) - [What Is a Database Transaction?](https://planetscale.com/blog/database-transactions)
 * [2026-02-22, 12:12:39](https://news.ycombinator.com/item?id=47110384) - [Scheme on Java on Common Lisp](https://github.com/atgreen/cl-kawa)
 * [2026-02-22, 11:56:39](https://news.ycombinator.com/item?id=47110310) - [Postgres Is Your Friend. ORM Is Not](https://hypha.pub/postgres-is-your-friend-orm-is-not)
