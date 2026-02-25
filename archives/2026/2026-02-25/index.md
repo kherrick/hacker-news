@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 10:34:41](https://news.ycombinator.com/item?id=47149811) - [Vinext – The Next.js API surface, reimplemented on Vite](https://github.com/cloudflare/vinext)
+* [2026-02-25, 10:16:22](https://news.ycombinator.com/item?id=47149701) - [Danish Gov agency to ditch Microsoft software in push for digital independence](https://therecord.media/denmark-digital-agency-microsoft-digital-independence)
+* [2026-02-25, 10:02:45](https://news.ycombinator.com/item?id=47149586) - [Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/)
 * [2026-02-25, 09:05:40](https://news.ycombinator.com/item?id=47149151) - [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/)
+* [2026-02-25, 07:22:56](https://news.ycombinator.com/item?id=47148454) - [Claude Code Remote Control](https://code.claude.com/docs/en/remote-control)
 * [2026-02-25, 06:45:24](https://news.ycombinator.com/item?id=47148159) - [Ed Zitron loses his mind annotating an AI doomer macro memo](https://www.dropbox.com/scl/fi/1p1n0y1ip48ianok9dvbp/Annotation-The-Global-Intelligence-Crisis.pdf?dl=0&e=1&noscript=1&rlkey=qaar8ea6l5hh6jqls4x6g8q4b)
 * [2026-02-25, 06:23:30](https://news.ycombinator.com/item?id=47148025) - [Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code](https://github.com/mksglu/claude-context-mode)
 * [2026-02-25, 05:16:39](https://news.ycombinator.com/item?id=47147609) - [Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput](https://arxiv.org/abs/2602.20762)

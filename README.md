@@ -1,6 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-25, 10:34:41](https://news.ycombinator.com/item?id=47149811) - [Vinext – The Next.js API surface, reimplemented on Vite](https://github.com/cloudflare/vinext)
+* [2026-02-25, 10:16:22](https://news.ycombinator.com/item?id=47149701) - [Danish Gov agency to ditch Microsoft software in push for digital independence](https://therecord.media/denmark-digital-agency-microsoft-digital-independence)
+* [2026-02-25, 10:02:45](https://news.ycombinator.com/item?id=47149586) - [Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/)
 * [2026-02-25, 09:05:40](https://news.ycombinator.com/item?id=47149151) - [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/)
+* [2026-02-25, 07:22:56](https://news.ycombinator.com/item?id=47148454) - [Claude Code Remote Control](https://code.claude.com/docs/en/remote-control)
 * [2026-02-25, 05:16:39](https://news.ycombinator.com/item?id=47147609) - [Turing Completeness of GNU find](https://arxiv.org/abs/2602.20762)
 * [2026-02-25, 01:08:46](https://news.ycombinator.com/item?id=47145963) - [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/)
 * [2026-02-25, 01:01:02](https://news.ycombinator.com/item?id=47145911) - [Corgi Labs (YC W23) Is Hiring](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate)
@@ -9,7 +13,6 @@
 * [2026-02-24, 22:37:54](https://news.ycombinator.com/item?id=47144325) - [Cell Service for the Fairly Paranoid](https://www.cape.co/)
 * [2026-02-24, 21:54:07](https://news.ycombinator.com/item?id=47143755) - [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)
 * [2026-02-24, 21:53:59](https://news.ycombinator.com/item?id=47143754) - [Pi – A minimal terminal coding harness](https://pi.dev)
-* [2026-02-24, 21:19:03](https://news.ycombinator.com/item?id=47143211) - [Looks like it is happening](https://www.math.columbia.edu/~woit/wordpress/?p=15500)
 * [2026-02-24, 21:13:45](https://news.ycombinator.com/item?id=47143152) - [Mac mini will be made at a new facility in Houston](https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/)
 * [2026-02-24, 19:43:34](https://news.ycombinator.com/item?id=47141797) - [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/)
 * [2026-02-24, 18:24:17](https://news.ycombinator.com/item?id=47140657) - [Steel Bank Common Lisp](https://www.sbcl.org/)
@@ -18,7 +21,6 @@
 * [2026-02-24, 17:30:19](https://news.ycombinator.com/item?id=47139902) - [Hugging Face Skills](https://github.com/huggingface/skills)
 * [2026-02-24, 17:15:17](https://news.ycombinator.com/item?id=47139675) - [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
 * [2026-02-24, 15:50:54](https://news.ycombinator.com/item?id=47138631) - [Show HN: Quantifying opportunity cost with a deliberately \"simple\" web app](https://shouldhavebought.com/)
-* [2026-02-24, 14:37:52](https://news.ycombinator.com/item?id=47137711) - [Stripe valued at $159B, 2025 annual letter](https://stripe.com/newsroom/news/stripe-2025-update)
 * [2026-02-24, 13:38:54](https://news.ycombinator.com/item?id=47137013) - [Sovereignty in a System Prompt](https://pop.rdi.sh/sovereignty-in-a-system-prompt/)
 * [2026-02-24, 13:03:51](https://news.ycombinator.com/item?id=47136604) - [I pitched a roller coaster to Disneyland at age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
 * [2026-02-24, 06:53:55](https://news.ycombinator.com/item?id=47133716) - [Show HN: Scheme-langserver – Digest incomplete code with static analysis](https://github.com/ufo5260987423/scheme-langserver)
@@ -27,9 +29,7 @@
 * [2026-02-22, 21:07:11](https://news.ycombinator.com/item?id=47114678) - [We installed a single turnstile to feel secure](https://idiallo.com/blog/installed-single-turnstile-for-security-theater)
 * [2026-02-22, 20:08:18](https://news.ycombinator.com/item?id=47114165) - [Japanese Death Poems](https://www.secretorum.life/p/japanese-death-poems-part-3)
 * [2026-02-22, 12:12:39](https://news.ycombinator.com/item?id=47110384) - [Cl-kawa: Scheme on Java on Common Lisp](https://github.com/atgreen/cl-kawa)
-* [2026-02-22, 06:58:13](https://news.ycombinator.com/item?id=47108894) - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1 (2024)](https://mahaloz.re/dec-history-pt1)
-* [2026-02-21, 20:14:13](https://news.ycombinator.com/item?id=47104227) - [Aesthetics of single threading](https://ta.fo/aesthetics-of-single-threading/)
-* [2026-02-21, 19:08:09](https://news.ycombinator.com/item?id=47103668) - [3D-Printed electric motor via multi-modal, multi-material extrusion](https://www.tandfonline.com/doi/full/10.1080/17452759.2026.2613185)
+* [2026-02-22, 11:54:46](https://news.ycombinator.com/item?id=47110300) - [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/)
 
 ## [Archives](archives/index.md)
 
