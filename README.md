@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-25, 14:55:20](https://news.ycombinator.com/item?id=47152355) - [Ask HN: Have top AI research institutions just given up on the idea of safety?](https://news.ycombinator.com/item?id=47152355)
+* [2026-02-25, 14:48:17](https://news.ycombinator.com/item?id=47152252) - [US orders diplomats to fight data sovereignty initiatives](https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/)
+* [2026-02-25, 14:31:35](https://news.ycombinator.com/item?id=47151995) - [Show HN: Django Control Room – All Your Tools Inside the Django Admin](https://github.com/yassi/dj-control-room)
 * [2026-02-25, 14:17:14](https://news.ycombinator.com/item?id=47151784) - [Show HN: Clocksimulator.com – A minimalist, distraction-free analog clock](https://www.clocksimulator.com/)
 * [2026-02-25, 14:02:02](https://news.ycombinator.com/item?id=47151598) - [Launch HN: TeamOut (YC W22) – AI agent for planning company events](https://app.teamout.com/ai)
-* [2026-02-25, 14:00:15](https://news.ycombinator.com/item?id=47151564) - [What are the best coping mechanisms for AI Fatalism?](https://news.ycombinator.com/item?id=47151564)
 * [2026-02-25, 13:31:17](https://news.ycombinator.com/item?id=47151233) - [Never Buy A .online Domain](https://www.0xsid.com/blog/online-tld-is-pain)
 * [2026-02-25, 13:25:53](https://news.ycombinator.com/item?id=47151163) - [Red Hat takes on Docker Desktop with its enterprise Podman Desktop build](https://thenewstack.io/red-hat-enters-the-cloud-native-developer-desktop-market/)
 * [2026-02-25, 12:01:11](https://news.ycombinator.com/item?id=47150403) - [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer)
@@ -12,8 +14,6 @@
 * [2026-02-25, 09:05:40](https://news.ycombinator.com/item?id=47149151) - [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/)
 * [2026-02-25, 07:22:56](https://news.ycombinator.com/item?id=47148454) - [Claude Code Remote Control](https://code.claude.com/docs/en/remote-control)
 * [2026-02-25, 05:16:39](https://news.ycombinator.com/item?id=47147609) - [Turing Completeness of GNU find](https://arxiv.org/abs/2602.20762)
-* [2026-02-25, 01:08:46](https://news.ycombinator.com/item?id=47145963) - [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/)
-* [2026-02-25, 01:00:45](https://news.ycombinator.com/item?id=47145907) - [Amazon accused of widespread scheme to inflate prices across the economy](https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price)
 * [2026-02-24, 22:46:23](https://news.ycombinator.com/item?id=47144464) - [Mercury 2: Fast reasoning LLM powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2)
 * [2026-02-24, 21:54:07](https://news.ycombinator.com/item?id=47143755) - [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)
 * [2026-02-24, 21:53:59](https://news.ycombinator.com/item?id=47143754) - [Pi – A minimal terminal coding harness](https://pi.dev)
@@ -25,11 +25,11 @@
 * [2026-02-24, 17:15:17](https://news.ycombinator.com/item?id=47139675) - [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
 * [2026-02-24, 13:03:51](https://news.ycombinator.com/item?id=47136604) - [I pitched a roller coaster to Disneyland at age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
 * [2026-02-24, 06:53:55](https://news.ycombinator.com/item?id=47133716) - [Show HN: Scheme-langserver – Digest incomplete code with static analysis](https://github.com/ufo5260987423/scheme-langserver)
-* [2026-02-23, 17:15:22](https://news.ycombinator.com/item?id=47125287) - [Half million 'Words with Spaces' missing from dictionaries](https://www.linguabase.org/words-with-spaces.html)
 * [2026-02-23, 12:55:39](https://news.ycombinator.com/item?id=47121716) - [Confusables.txt and NFKC disagree on 31 characters](https://paultendo.github.io/posts/unicode-confusables-nfkc-conflict/)
 * [2026-02-22, 22:42:12](https://news.ycombinator.com/item?id=47115574) - [How to fold the Blade Runner origami unicorn (1996)](https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html)
 * [2026-02-22, 20:08:18](https://news.ycombinator.com/item?id=47114165) - [Japanese Death Poems](https://www.secretorum.life/p/japanese-death-poems-part-3)
 * [2026-02-22, 12:12:39](https://news.ycombinator.com/item?id=47110384) - [Cl-kawa: Scheme on Java on Common Lisp](https://github.com/atgreen/cl-kawa)
+* [2026-02-22, 00:59:59](https://news.ycombinator.com/item?id=47106937) - [The History of a Security Hole](https://www.os2museum.com/wp/the-history-of-a-security-hole/)
 
 ## [Archives](archives/index.md)
 
