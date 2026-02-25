@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-25, 06:45:24](https://news.ycombinator.com/item?id=47148159) - [Ed Zitron loses his mind annotating an AI doomer macro memo](https://www.dropbox.com/scl/fi/1p1n0y1ip48ianok9dvbp/Annotation-The-Global-Intelligence-Crisis.pdf?dl=0&e=1&noscript=1&rlkey=qaar8ea6l5hh6jqls4x6g8q4b)
 * [2026-02-25, 06:23:30](https://news.ycombinator.com/item?id=47148025) - [Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code](https://github.com/mksglu/claude-context-mode)
 * [2026-02-25, 05:16:39](https://news.ycombinator.com/item?id=47147609) - [Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput](https://arxiv.org/abs/2602.20762)
-* [2026-02-25, 04:03:26](https://news.ycombinator.com/item?id=47147183) - [Ask HN: Share your productive usage of OpenClaw](https://news.ycombinator.com/item?id=47147183)
 * [2026-02-25, 01:08:46](https://news.ycombinator.com/item?id=47145963) - [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/)
 * [2026-02-25, 01:01:02](https://news.ycombinator.com/item?id=47145911) - [Corgi Labs (YC W23) Is Hiring](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate)
 * [2026-02-25, 01:00:45](https://news.ycombinator.com/item?id=47145907) - [Amazon accused of widespread scheme to inflate prices across the economy](https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price)
@@ -18,6 +18,7 @@
 * [2026-02-24, 17:40:40](https://news.ycombinator.com/item?id=47140042) - [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
 * [2026-02-24, 17:30:19](https://news.ycombinator.com/item?id=47139902) - [Hugging Face Skills](https://github.com/huggingface/skills)
 * [2026-02-24, 17:15:17](https://news.ycombinator.com/item?id=47139675) - [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
+* [2026-02-24, 15:50:54](https://news.ycombinator.com/item?id=47138631) - [Show HN: Quantifying opportunity cost with a deliberately \"simple\" web app](https://shouldhavebought.com/)
 * [2026-02-24, 14:37:52](https://news.ycombinator.com/item?id=47137711) - [Stripe valued at $159B, 2025 annual letter](https://stripe.com/newsroom/news/stripe-2025-update)
 * [2026-02-24, 13:38:54](https://news.ycombinator.com/item?id=47137013) - [Sovereignty in a System Prompt](https://pop.rdi.sh/sovereignty-in-a-system-prompt/)
 * [2026-02-24, 13:03:51](https://news.ycombinator.com/item?id=47136604) - [I pitched a roller coaster to Disneyland at age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
@@ -28,7 +29,6 @@
 * [2026-02-22, 12:12:39](https://news.ycombinator.com/item?id=47110384) - [Cl-kawa: Scheme on Java on Common Lisp](https://github.com/atgreen/cl-kawa)
 * [2026-02-21, 20:14:13](https://news.ycombinator.com/item?id=47104227) - [Aesthetics of single threading](https://ta.fo/aesthetics-of-single-threading/)
 * [2026-02-21, 19:08:09](https://news.ycombinator.com/item?id=47103668) - [3D-Printed electric motor via multi-modal, multi-material extrusion](https://www.tandfonline.com/doi/full/10.1080/17452759.2026.2613185)
-* [2026-02-20, 21:07:14](https://news.ycombinator.com/item?id=47093978) - [Optophone](https://en.wikipedia.org/wiki/Optophone)
 * [2026-02-20, 19:37:08](https://news.ycombinator.com/item?id=47092809) - [Georgian wine culture dates back, uninterrupted, approximately 8k years](https://www.wsetglobal.com/knowledge-centre/blog/2023/july/05/exploring-georgian-wine-history-grape-varieties-styles-and-amber-wine/)
 
 ## [Archives](archives/index.md)
