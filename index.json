@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-02-25, 10:34:41",
+      "https://news.ycombinator.com/item?id=47149811"
+    ],
+    [
+      "Vinext – The Next.js API surface, reimplemented on Vite",
+      "https://github.com/cloudflare/vinext"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 10:16:22",
+      "https://news.ycombinator.com/item?id=47149701"
+    ],
+    [
+      "Danish Gov agency to ditch Microsoft software in push for digital independence",
+      "https://therecord.media/denmark-digital-agency-microsoft-digital-independence"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 10:02:45",
+      "https://news.ycombinator.com/item?id=47149586"
+    ],
+    [
+      "Show HN: A real-time strategy game that AI agents can play",
+      "https://llmskirmish.com/"
+    ]
+  ],
+  [
+    [
       "2026-02-25, 09:05:40",
       "https://news.ycombinator.com/item?id=47149151"
     ],
     [
       "LLM=True",
       "https://blog.codemine.be/posts/2026/20260222-be-quiet/"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 07:22:56",
+      "https://news.ycombinator.com/item?id=47148454"
+    ],
+    [
+      "Claude Code Remote Control",
+      "https://code.claude.com/docs/en/remote-control"
     ]
   ],
   [
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2026-02-24, 21:19:03",
-      "https://news.ycombinator.com/item?id=47143211"
-    ],
-    [
-      "Looks like it is happening",
-      "https://www.math.columbia.edu/~woit/wordpress/?p=15500"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 21:13:45",
       "https://news.ycombinator.com/item?id=47143152"
     ],
@@ -177,16 +207,6 @@
     [
       "Show HN: Quantifying opportunity cost with a deliberately \"simple\" web app",
       "https://shouldhavebought.com/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 14:37:52",
-      "https://news.ycombinator.com/item?id=47137711"
-    ],
-    [
-      "Stripe valued at $159B, 2025 annual letter",
-      "https://stripe.com/newsroom/news/stripe-2025-update"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-02-22, 06:58:13",
-      "https://news.ycombinator.com/item?id=47108894"
+      "2026-02-22, 11:54:46",
+      "https://news.ycombinator.com/item?id=47110300"
     ],
     [
-      "30 Years of Decompilation and the Unsolved Structuring Problem: Part 1 (2024)",
-      "https://mahaloz.re/dec-history-pt1"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 20:14:13",
-      "https://news.ycombinator.com/item?id=47104227"
-    ],
-    [
-      "Aesthetics of single threading",
-      "https://ta.fo/aesthetics-of-single-threading/"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 19:08:09",
-      "https://news.ycombinator.com/item?id=47103668"
-    ],
-    [
-      "3D-Printed electric motor via multi-modal, multi-material extrusion",
-      "https://www.tandfonline.com/doi/full/10.1080/17452759.2026.2613185"
+      "Running RISC-V in a VM to test my snaps",
+      "https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/"
     ]
   ]
 ]
