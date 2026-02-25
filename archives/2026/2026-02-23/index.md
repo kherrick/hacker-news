@@ -38,6 +38,7 @@
 * [2026-02-23, 17:01:39](https://news.ycombinator.com/item?id=47125046) - [Decided to fly to the US to buy some hard drives](https://old.reddit.com/r/DataHoarder/comments/1rb9ot4/decided_to_fly_to_the_us_to_buy_some_hard_drives)
 * [2026-02-23, 17:00:43](https://news.ycombinator.com/item?id=47125026) - [Hadrius (YC W23) Is Hiring Designers Who Code](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer)
 * [2026-02-23, 17:00:15](https://news.ycombinator.com/item?id=47125019) - [AI is destroying open source, and it's not even good yet [video]](https://www.youtube.com/watch?v=bZJ7A1QoUEI)
+* [2026-02-23, 17:00:00](https://news.ycombinator.com/item?id=47125014) - [The First Fully General Computer Action Model](https://si.inc/posts/fdm1/)
 * [2026-02-23, 16:51:03](https://news.ycombinator.com/item?id=47124877) - [Large study finds link between cannabis use in teens and psychosis later](https://text.npr.org/nx-s1-5719338)
 * [2026-02-23, 16:24:44](https://news.ycombinator.com/item?id=47124475) - [Silicon Valley can't import talent like before. So it's exporting jobs](https://restofworld.org/2026/h1b-visa-impact-india-tech-hiring-faamng/)
 * [2026-02-23, 16:14:10](https://news.ycombinator.com/item?id=47124325) - [C99 implementation of new O(m log^(2/3) n) shortest path algorithm](https://github.com/danalec/DMMSY-SSSP)

@@ -10,7 +10,6 @@
 * [2026-02-25, 17:14:19](https://news.ycombinator.com/item?id=47154399) - [Windows 11 Notepad to support Markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
 * [2026-02-25, 17:02:12](https://news.ycombinator.com/item?id=47154246) - [Trellis AI (YC W24) is hiring deployment lead to accelerate medication access](https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist)
 * [2026-02-25, 16:49:36](https://news.ycombinator.com/item?id=47154076) - [Why isn't LA repaving streets?](https://lapublicpress.org/2026/02/why-isnt-la-repaving-streets/)
-* [2026-02-25, 16:47:33](https://news.ycombinator.com/item?id=47154042) - [Racket v9.1](https://blog.racket-lang.org/2026/02/racket-v9-1.html)
 * [2026-02-25, 16:44:54](https://news.ycombinator.com/item?id=47154009) - [Following 35% growth, solar has passed hydro on US grid](https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/)
 * [2026-02-25, 16:38:40](https://news.ycombinator.com/item?id=47153924) - [The Misuses of the University](https://www.publicbooks.org/the-misuses-of-the-university/)
 * [2026-02-25, 16:31:26](https://news.ycombinator.com/item?id=47153798) - [Bus stop balancing is fast, cheap, and effective](https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/)
@@ -26,10 +25,11 @@
 * [2026-02-24, 18:59:31](https://news.ycombinator.com/item?id=47141107) - [Learnings from 4 months of Image-Video VAE experiments](https://www.linum.ai/field-notes/vae-reconstruction-vs-generation)
 * [2026-02-24, 17:18:17](https://news.ycombinator.com/item?id=47139716) - [Large-Scale Online Deanonymization with LLMs](https://simonlermen.substack.com/p/large-scale-online-deanonymization)
 * [2026-02-24, 13:49:39](https://news.ycombinator.com/item?id=47137140) - [Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)](https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/)
+* [2026-02-23, 17:00:00](https://news.ycombinator.com/item?id=47125014) - [The First Fully General Computer Action Model](https://si.inc/posts/fdm1/)
 * [2026-02-22, 22:42:12](https://news.ycombinator.com/item?id=47115574) - [How to fold the Blade Runner origami unicorn (1996)](https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html)
-* [2026-02-22, 14:03:01](https://news.ycombinator.com/item?id=47111092) - [Scipy.stats. Chatterjeexi](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chatterjeexi.html)
 * [2026-02-22, 11:07:25](https://news.ycombinator.com/item?id=47110066) - [Access to a Shared Unix Computer](http://tilde.club/)
 * [2026-02-21, 17:10:55](https://news.ycombinator.com/item?id=47102610) - [Text-Based Google Directions](https://gdir.telae.net/)
+* [2026-02-21, 04:16:55](https://news.ycombinator.com/item?id=47097446) - [Topological Naming Problem](https://wiki.freecad.org/Topological_naming_problem)
 
 ## [Archives](archives/index.md)
 
