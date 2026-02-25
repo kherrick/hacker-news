@@ -1,22 +1,12 @@
 [
   [
     [
-      "2026-02-25, 06:45:24",
-      "https://news.ycombinator.com/item?id=47148159"
+      "2026-02-25, 09:05:40",
+      "https://news.ycombinator.com/item?id=47149151"
     ],
     [
-      "Ed Zitron loses his mind annotating an AI doomer macro memo",
-      "https://www.dropbox.com/scl/fi/1p1n0y1ip48ianok9dvbp/Annotation-The-Global-Intelligence-Crisis.pdf?dl=0&e=1&noscript=1&rlkey=qaar8ea6l5hh6jqls4x6g8q4b"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 06:23:30",
-      "https://news.ycombinator.com/item?id=47148025"
-    ],
-    [
-      "Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code",
-      "https://github.com/mksglu/claude-context-mode"
+      "LLM=True",
+      "https://blog.codemine.be/posts/2026/20260222-be-quiet/"
     ]
   ],
   [
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=47147609"
     ],
     [
-      "Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput",
+      "Turing Completeness of GNU find",
       "https://arxiv.org/abs/2602.20762"
     ]
   ],
@@ -221,22 +211,32 @@
   ],
   [
     [
-      "2026-02-24, 12:58:14",
-      "https://news.ycombinator.com/item?id=47136537"
+      "2026-02-24, 06:53:55",
+      "https://news.ycombinator.com/item?id=47133716"
     ],
     [
-      "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
-      "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html"
+      "Show HN: Scheme-langserver – Digest incomplete code with static analysis",
+      "https://github.com/ufo5260987423/scheme-langserver"
     ]
   ],
   [
     [
-      "2026-02-24, 12:16:45",
-      "https://news.ycombinator.com/item?id=47136179"
+      "2026-02-24, 00:12:44",
+      "https://news.ycombinator.com/item?id=47130997"
     ],
     [
-      "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
-      "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot"
+      "Meta problem with URPF our bundle in Boca raton",
+      "https://metafixthis.com/"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 17:15:22",
+      "https://news.ycombinator.com/item?id=47125287"
+    ],
+    [
+      "Half million 'Words with Spaces' missing from dictionaries",
+      "https://www.linguabase.org/words-with-spaces.html"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-02-22, 06:58:13",
+      "https://news.ycombinator.com/item?id=47108894"
+    ],
+    [
+      "30 Years of Decompilation and the Unsolved Structuring Problem: Part 1 (2024)",
+      "https://mahaloz.re/dec-history-pt1"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 20:14:13",
       "https://news.ycombinator.com/item?id=47104227"
     ],
@@ -287,16 +297,6 @@
     [
       "3D-Printed electric motor via multi-modal, multi-material extrusion",
       "https://www.tandfonline.com/doi/full/10.1080/17452759.2026.2613185"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 19:37:08",
-      "https://news.ycombinator.com/item?id=47092809"
-    ],
-    [
-      "Georgian wine culture dates back, uninterrupted, approximately 8k years",
-      "https://www.wsetglobal.com/knowledge-centre/blog/2023/july/05/exploring-georgian-wine-history-grape-varieties-styles-and-amber-wine/"
     ]
   ]
 ]
