@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 18:41:23](https://news.ycombinator.com/item?id=47155811) - [Devirtualization and Static Polymorphism](https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/)
 * [2026-02-25, 18:38:33](https://news.ycombinator.com/item?id=47155772) - [Attyx – tiny and fast GPU-accelerated terminal emulator written in Zig](https://github.com/semos-labs/attyx)
 * [2026-02-25, 18:28:37](https://news.ycombinator.com/item?id=47155597) - [Show HN: I ported Tree-sitter to Go](https://github.com/odvcencio/gotreesitter)
 * [2026-02-25, 18:25:57](https://news.ycombinator.com/item?id=47155548) - [The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/)
+* [2026-02-25, 18:12:27](https://news.ycombinator.com/item?id=47155325) - [The Appeal and Reality of Recycling LoRAs with Adaptive Merging](https://arxiv.org/abs/2602.12323)
 * [2026-02-25, 17:49:27](https://news.ycombinator.com/item?id=47154983) - [The Pentagon Threatens Anthropic](https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic)
 * [2026-02-25, 17:48:21](https://news.ycombinator.com/item?id=47154971) - [om](https://www.om-language.com/)
 * [2026-02-25, 17:37:04](https://news.ycombinator.com/item?id=47154803) - [Sandboxes won't save you from OpenClaw](https://tachyon.so/blog/sandboxes-wont-save-you)
