@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-25, 14:55:20",
+      "https://news.ycombinator.com/item?id=47152355"
+    ],
+    [
+      "Ask HN: Have top AI research institutions just given up on the idea of safety?",
+      "https://news.ycombinator.com/item?id=47152355"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 14:48:17",
+      "https://news.ycombinator.com/item?id=47152252"
+    ],
+    [
+      "US orders diplomats to fight data sovereignty initiatives",
+      "https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 14:31:35",
+      "https://news.ycombinator.com/item?id=47151995"
+    ],
+    [
+      "Show HN: Django Control Room – All Your Tools Inside the Django Admin",
+      "https://github.com/yassi/dj-control-room"
+    ]
+  ],
+  [
+    [
       "2026-02-25, 14:17:14",
       "https://news.ycombinator.com/item?id=47151784"
     ],
@@ -17,16 +47,6 @@
     [
       "Launch HN: TeamOut (YC W22) – AI agent for planning company events",
       "https://app.teamout.com/ai"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 14:00:15",
-      "https://news.ycombinator.com/item?id=47151564"
-    ],
-    [
-      "What are the best coping mechanisms for AI Fatalism?",
-      "https://news.ycombinator.com/item?id=47151564"
     ]
   ],
   [
@@ -117,26 +137,6 @@
     [
       "Turing Completeness of GNU find",
       "https://arxiv.org/abs/2602.20762"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 01:08:46",
-      "https://news.ycombinator.com/item?id=47145963"
-    ],
-    [
-      "Anthropic Drops Flagship Safety Pledge",
-      "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 01:00:45",
-      "https://news.ycombinator.com/item?id=47145907"
-    ],
-    [
-      "Amazon accused of widespread scheme to inflate prices across the economy",
-      "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-02-23, 17:15:22",
-      "https://news.ycombinator.com/item?id=47125287"
-    ],
-    [
-      "Half million 'Words with Spaces' missing from dictionaries",
-      "https://www.linguabase.org/words-with-spaces.html"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 12:55:39",
       "https://news.ycombinator.com/item?id=47121716"
     ],
@@ -297,6 +287,16 @@
     [
       "Cl-kawa: Scheme on Java on Common Lisp",
       "https://github.com/atgreen/cl-kawa"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 00:59:59",
+      "https://news.ycombinator.com/item?id=47106937"
+    ],
+    [
+      "The History of a Security Hole",
+      "https://www.os2museum.com/wp/the-history-of-a-security-hole/"
     ]
   ]
 ]
