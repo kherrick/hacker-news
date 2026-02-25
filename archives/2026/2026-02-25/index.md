@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 15:37:29](https://news.ycombinator.com/item?id=47152982) - [GNU Texmacs](https://www.texmacs.org/tmweb/home/welcome.en.html)
 * [2026-02-25, 14:55:20](https://news.ycombinator.com/item?id=47152355) - [Ask HN: Have top AI research institutions just given up on the idea of safety?](https://news.ycombinator.com/item?id=47152355)
 * [2026-02-25, 14:48:17](https://news.ycombinator.com/item?id=47152252) - [US orders diplomats to fight data sovereignty initiatives](https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/)
 * [2026-02-25, 14:31:35](https://news.ycombinator.com/item?id=47151995) - [Show HN: Django Control Room – All Your Tools Inside the Django Admin](https://github.com/yassi/dj-control-room)
