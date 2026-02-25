@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 21:05:15](https://news.ycombinator.com/item?id=47157841) - [An autopsy of AI-generated 3D slop](https://aircada.com/blog/ai-vs-human-3d-ecommerce)
+* [2026-02-25, 20:29:37](https://news.ycombinator.com/item?id=47157398) - [I made MCP cheaper](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html)
 * [2026-02-25, 20:16:47](https://news.ycombinator.com/item?id=47157224) - [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
 * [2026-02-25, 18:41:23](https://news.ycombinator.com/item?id=47155811) - [Devirtualization and Static Polymorphism](https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/)
 * [2026-02-25, 18:38:33](https://news.ycombinator.com/item?id=47155772) - [Attyx – tiny and fast GPU-accelerated terminal emulator written in Zig](https://github.com/semos-labs/attyx)
@@ -28,6 +30,7 @@
 * [2026-02-25, 14:48:17](https://news.ycombinator.com/item?id=47152252) - [US orders diplomats to fight data sovereignty initiatives](https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/)
 * [2026-02-25, 14:37:21](https://news.ycombinator.com/item?id=47152085) - [New accounts on HN 10x more likely to use em-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
 * [2026-02-25, 14:31:35](https://news.ycombinator.com/item?id=47151995) - [Show HN: Django Control Room – All Your Tools Inside the Django Admin](https://github.com/yassi/dj-control-room)
+* [2026-02-25, 14:21:19](https://news.ycombinator.com/item?id=47151842) - [Show HN: Respectify – a comment moderator that teaches people to argue better](https://respectify.org/)
 * [2026-02-25, 14:17:14](https://news.ycombinator.com/item?id=47151784) - [Show HN: Clocksimulator.com – A minimalist, distraction-free analog clock](https://www.clocksimulator.com/)
 * [2026-02-25, 14:02:02](https://news.ycombinator.com/item?id=47151598) - [Launch HN: TeamOut (YC W22) – AI agent for planning company events](https://app.teamout.com/ai)
 * [2026-02-25, 14:00:15](https://news.ycombinator.com/item?id=47151564) - [What are the best coping mechanisms for AI Fatalism?](https://news.ycombinator.com/item?id=47151564)

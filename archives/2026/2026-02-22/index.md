@@ -64,6 +64,7 @@
 * [2026-02-22, 12:12:39](https://news.ycombinator.com/item?id=47110384) - [Scheme on Java on Common Lisp](https://github.com/atgreen/cl-kawa)
 * [2026-02-22, 11:56:39](https://news.ycombinator.com/item?id=47110310) - [Postgres Is Your Friend. ORM Is Not](https://hypha.pub/postgres-is-your-friend-orm-is-not)
 * [2026-02-22, 11:54:46](https://news.ycombinator.com/item?id=47110300) - [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/)
+* [2026-02-22, 11:07:25](https://news.ycombinator.com/item?id=47110066) - [Access to a Shared Unix Computer](http://tilde.club/)
 * [2026-02-22, 10:56:30](https://news.ycombinator.com/item?id=47110023) - [Show HN: Django-xbench – slow endpoint aggregation for Django](https://github.com/yeongbin05/django-xbench)
 * [2026-02-22, 07:16:27](https://news.ycombinator.com/item?id=47108989) - [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
 * [2026-02-22, 07:14:22](https://news.ycombinator.com/item?id=47108977) - [What's the best way to learn a new language?](https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language)
