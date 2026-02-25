@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-02-25, 21:05:15",
-      "https://news.ycombinator.com/item?id=47157841"
+      "2026-02-25, 21:11:44",
+      "https://news.ycombinator.com/item?id=47157919"
     ],
     [
-      "An autopsy of AI-generated 3D slop",
-      "https://aircada.com/blog/ai-vs-human-3d-ecommerce"
+      "ECS Survivors Parts VII – X",
+      "https://blog.ptidej.net/ecs-survivors-parts-vii-x/"
     ]
   ],
   [
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=47157398"
     ],
     [
-      "I made MCP cheaper",
+      "Making MCP cheaper via CLI",
       "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html"
     ]
   ],
@@ -27,6 +27,16 @@
     [
       "Jimi Hendrix was a systems engineer",
       "https://spectrum.ieee.org/jimi-hendrix-systems-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 20:11:37",
+      "https://news.ycombinator.com/item?id=47157160"
+    ],
+    [
+      "PA Bench: Evaluating Frontier Models on Multi-Tab Pa Tasks",
+      "https://vibrantlabs.com/blog/pa-bench"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47154971"
     ],
     [
-      "om",
+      "The Om Programming Language",
       "https://www.om-language.com/"
     ]
   ],
@@ -77,6 +87,16 @@
     [
       "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access",
       "https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 16:49:36",
+      "https://news.ycombinator.com/item?id=47154076"
+    ],
+    [
+      "Why isn't LA repaving streets?",
+      "https://lapublicpress.org/2026/02/why-isnt-la-repaving-streets/"
     ]
   ],
   [
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=47151842"
     ],
     [
-      "Show HN: Respectify – a comment moderator that teaches people to argue better",
+      "Show HN: Respectify – A comment moderator that teaches people to argue better",
       "https://respectify.org/"
     ]
   ],
@@ -187,16 +207,6 @@
     [
       "Never buy a .online domain",
       "https://www.0xsid.com/blog/online-tld-is-pain"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 13:07:36",
-      "https://news.ycombinator.com/item?id=47151000"
-    ],
-    [
-      "AIs can't stop recommending nuclear strikes in war game simulations",
-      "https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2026-02-24, 13:49:39",
+      "https://news.ycombinator.com/item?id=47137140"
+    ],
+    [
+      "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
+      "https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 22:42:12",
       "https://news.ycombinator.com/item?id=47115574"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-02-22, 12:33:03",
-      "https://news.ycombinator.com/item?id=47110491"
-    ],
-    [
-      "PL/0",
-      "https://en.wikipedia.org/wiki/PL/0"
-    ]
-  ],
-  [
-    [
       "2026-02-22, 11:07:25",
       "https://news.ycombinator.com/item?id=47110066"
     ],
     [
       "Access to a Shared Unix Computer",
       "http://tilde.club/"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 10:56:30",
-      "https://news.ycombinator.com/item?id=47110023"
-    ],
-    [
-      "Show HN: Django-xbench – slow endpoint aggregation for Django",
-      "https://github.com/yeongbin05/django-xbench"
     ]
   ],
   [
