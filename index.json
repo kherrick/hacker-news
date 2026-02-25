@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2026-02-25, 16:47:33",
-      "https://news.ycombinator.com/item?id=47154042"
-    ],
-    [
-      "Racket v9.1",
-      "https://blog.racket-lang.org/2026/02/racket-v9-1.html"
-    ]
-  ],
-  [
-    [
       "2026-02-25, 16:44:54",
       "https://news.ycombinator.com/item?id=47154009"
     ],
@@ -261,22 +251,22 @@
   ],
   [
     [
+      "2026-02-23, 17:00:00",
+      "https://news.ycombinator.com/item?id=47125014"
+    ],
+    [
+      "The First Fully General Computer Action Model",
+      "https://si.inc/posts/fdm1/"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 22:42:12",
       "https://news.ycombinator.com/item?id=47115574"
     ],
     [
       "How to fold the Blade Runner origami unicorn (1996)",
       "https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 14:03:01",
-      "https://news.ycombinator.com/item?id=47111092"
-    ],
-    [
-      "Scipy.stats. Chatterjeexi",
-      "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chatterjeexi.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Text-Based Google Directions",
       "https://gdir.telae.net/"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 04:16:55",
+      "https://news.ycombinator.com/item?id=47097446"
+    ],
+    [
+      "Topological Naming Problem",
+      "https://wiki.freecad.org/Topological_naming_problem"
     ]
   ]
 ]
