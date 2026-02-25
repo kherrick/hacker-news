@@ -40,6 +40,7 @@
 * [2026-02-24, 15:25:38](https://news.ycombinator.com/item?id=47138347) - [Federal data breach may be the biggest hack in US history](https://morningoverview.com/massive-federal-data-breach-may-be-the-biggest-hack-in-us-history/)
 * [2026-02-24, 15:16:08](https://news.ycombinator.com/item?id=47138213) - [The history of knocking on wood](https://resobscura.substack.com/p/neolithic-habits-machine-age-tools)
 * [2026-02-24, 14:37:52](https://news.ycombinator.com/item?id=47137711) - [Stripe valued at $159B, 2025 annual letter](https://stripe.com/newsroom/news/stripe-2025-update)
+* [2026-02-24, 13:38:54](https://news.ycombinator.com/item?id=47137013) - [Sovereignty in a System Prompt](https://pop.rdi.sh/sovereignty-in-a-system-prompt/)
 * [2026-02-24, 13:08:56](https://news.ycombinator.com/item?id=47136658) - [Why the KeePass format should be based on SQLite](https://mketab.org/blog/sqlite_kdbx/)
 * [2026-02-24, 13:04:16](https://news.ycombinator.com/item?id=47136611) - [Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/)
 * [2026-02-24, 13:03:51](https://news.ycombinator.com/item?id=47136604) - [I Pitched a Roller Coaster to Disneyland at Age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)

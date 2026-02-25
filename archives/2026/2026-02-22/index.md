@@ -16,6 +16,7 @@
 * [2026-02-22, 20:50:23](https://news.ycombinator.com/item?id=47114530) - [Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable](https://cia-factbook-archive.fly.dev/)
 * [2026-02-22, 20:38:55](https://news.ycombinator.com/item?id=47114412) - [In World Without BlackBerry, Physical Keyboards on Phones Are Making a Comeback](https://www.cnet.com/tech/mobile/in-a-world-without-blackberry-physical-keyboards-on-phones-are-making-a-comeback/)
 * [2026-02-22, 20:17:12](https://news.ycombinator.com/item?id=47114235) - [Spain has blocked access to freedom.gov](https://twitter.com/Pirat_Nation/status/2025643188321714642)
+* [2026-02-22, 20:08:18](https://news.ycombinator.com/item?id=47114165) - [Japanese Death Poems](https://www.secretorum.life/p/japanese-death-poems-part-3)
 * [2026-02-22, 19:54:14](https://news.ycombinator.com/item?id=47114054) - [The Tears of Donald Knuth](https://cacm.acm.org/opinion/the-tears-of-donald-knuth/)
 * [2026-02-22, 19:52:52](https://news.ycombinator.com/item?id=47114043) - ['Peanut butter' pay raises could cost companies their top performers](https://www.cnbc.com/2026/02/22/peanut-butter-pay-raises-could-cost-companies-their-top-performers-according-to-experts-its-such-a-shortsighted-strategy.html)
 * [2026-02-22, 19:49:26](https://news.ycombinator.com/item?id=47114014) - [The Geometry of Tostitos Scoops](https://chip-tech-rob.zocomputer.io/)
