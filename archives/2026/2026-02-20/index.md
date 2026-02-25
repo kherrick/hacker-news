@@ -22,6 +22,7 @@
 * [2026-02-20, 21:05:44](https://news.ycombinator.com/item?id=47093953) - [Phil Spencer is exiting Microsoft as AI executive takes over Xbox](https://www.neowin.net/news/phil-spencer-is-exiting-microsoft-as-ai-executive-takes-over-xbox/)
 * [2026-02-20, 20:47:48](https://news.ycombinator.com/item?id=47093724) - [OpenScan](https://openscan.eu/pages/scan-gallery)
 * [2026-02-20, 20:39:06](https://news.ycombinator.com/item?id=47093604) - [Escaping Misconfigured VSCode Extensions (2023)](https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/)
+* [2026-02-20, 19:37:08](https://news.ycombinator.com/item?id=47092809) - [Georgian wine culture dates back, uninterrupted, approximately 8k years](https://www.wsetglobal.com/knowledge-centre/blog/2023/july/05/exploring-georgian-wine-history-grape-varieties-styles-and-amber-wine/)
 * [2026-02-20, 19:19:58](https://news.ycombinator.com/item?id=47092578) - [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer)
 * [2026-02-20, 19:04:55](https://news.ycombinator.com/item?id=47092348) - [Testing Super Mario Using a Behavior Model Autonomously](https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part1/)
 * [2026-02-20, 18:55:15](https://news.ycombinator.com/item?id=47092203) - [Every company building your AI assistant is now an ad company](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
