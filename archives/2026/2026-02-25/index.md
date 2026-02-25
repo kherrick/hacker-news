@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 21:11:44](https://news.ycombinator.com/item?id=47157919) - [ECS Survivors Parts VII – X](https://blog.ptidej.net/ecs-survivors-parts-vii-x/)
 * [2026-02-25, 21:05:15](https://news.ycombinator.com/item?id=47157841) - [An autopsy of AI-generated 3D slop](https://aircada.com/blog/ai-vs-human-3d-ecommerce)
 * [2026-02-25, 20:29:37](https://news.ycombinator.com/item?id=47157398) - [I made MCP cheaper](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html)
 * [2026-02-25, 20:16:47](https://news.ycombinator.com/item?id=47157224) - [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
+* [2026-02-25, 20:11:37](https://news.ycombinator.com/item?id=47157160) - [PA Bench: Evaluating Frontier Models on Multi-Tab Pa Tasks](https://vibrantlabs.com/blog/pa-bench)
 * [2026-02-25, 18:41:23](https://news.ycombinator.com/item?id=47155811) - [Devirtualization and Static Polymorphism](https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/)
 * [2026-02-25, 18:38:33](https://news.ycombinator.com/item?id=47155772) - [Attyx – tiny and fast GPU-accelerated terminal emulator written in Zig](https://github.com/semos-labs/attyx)
 * [2026-02-25, 18:28:37](https://news.ycombinator.com/item?id=47155597) - [Show HN: I ported Tree-sitter to Go](https://github.com/odvcencio/gotreesitter)
