@@ -27,9 +27,9 @@
 * [2026-02-24, 13:49:39](https://news.ycombinator.com/item?id=47137140) - [Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)](https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/)
 * [2026-02-23, 17:00:00](https://news.ycombinator.com/item?id=47125014) - [The First Fully General Computer Action Model](https://si.inc/posts/fdm1/)
 * [2026-02-22, 22:42:12](https://news.ycombinator.com/item?id=47115574) - [How to fold the Blade Runner origami unicorn (1996)](https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html)
+* [2026-02-22, 11:26:31](https://news.ycombinator.com/item?id=47110155) - [Why every automaker is quietly bringing back the inline-six engine](https://carbuzz.com/why-automakers-bringing-back-the-inline-six-engine/)
 * [2026-02-22, 11:07:25](https://news.ycombinator.com/item?id=47110066) - [Access to a Shared Unix Computer](http://tilde.club/)
 * [2026-02-21, 17:10:55](https://news.ycombinator.com/item?id=47102610) - [Text-Based Google Directions](https://gdir.telae.net/)
-* [2026-02-21, 04:16:55](https://news.ycombinator.com/item?id=47097446) - [Topological Naming Problem](https://wiki.freecad.org/Topological_naming_problem)
 
 ## [Archives](archives/index.md)
 
