@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-24, 23:34:26](https://news.ycombinator.com/item?id=47145088) - [Fed's Cook says AI triggering big changes, sees possible unemployment rise](https://www.reuters.com/business/feds-cook-says-ai-triggering-big-changes-sees-possible-short-term-unemployment-2026-02-24/)
 * [2026-02-24, 22:37:54](https://news.ycombinator.com/item?id=47144325) - [Cell Service for the Fairly Paranoid](https://www.cape.co/)
 * [2026-02-24, 22:16:12](https://news.ycombinator.com/item?id=47144064) - [Stripe reportedly makes offer to acquire PayPal](https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html)
 * [2026-02-24, 22:09:57](https://news.ycombinator.com/item?id=47143976) - [Dream Recorder AI – a portal to your subconscious](https://dreamrecorder.ai/)
@@ -25,7 +26,6 @@
 * [2026-02-23, 16:02:48](https://news.ycombinator.com/item?id=47124171) - [The Missing Semester of Your CS Education – Revised for 2026](https://missing.csail.mit.edu/)
 * [2026-02-23, 08:53:21](https://news.ycombinator.com/item?id=47119767) - [Show HN: Chaos Monkey but for Audio Video Testing (WebRTC and UDP)](https://github.com/MdSadiqMd/AV-Chaos-Monkey)
 * [2026-02-22, 21:07:11](https://news.ycombinator.com/item?id=47114678) - [We installed a single turnstile to feel secure](https://idiallo.com/blog/installed-single-turnstile-for-security-theater)
-* [2026-02-22, 16:10:18](https://news.ycombinator.com/item?id=47112148) - [Extending C with Prolog (1994)](https://www.amzi.com/articles/irq_expert_system.htm)
 * [2026-02-21, 21:39:55](https://news.ycombinator.com/item?id=47105086) - [Ask HN: Programmable Watches with WiFi?](https://news.ycombinator.com/item?id=47105086)
 * [2026-02-21, 14:14:08](https://news.ycombinator.com/item?id=47101034) - [Build Your Own Forth Interpreter](https://codingchallenges.fyi/challenges/challenge-forth/)
 * [2026-02-20, 23:02:08](https://news.ycombinator.com/item?id=47095266) - [λProlog: Logic programming in higher-order logic](https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/)
