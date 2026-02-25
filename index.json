@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-25, 06:23:30",
+      "https://news.ycombinator.com/item?id=47148025"
+    ],
+    [
+      "Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code",
+      "https://github.com/mksglu/claude-context-mode"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 05:16:39",
+      "https://news.ycombinator.com/item?id=47147609"
+    ],
+    [
+      "Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput",
+      "https://arxiv.org/abs/2602.20762"
+    ]
+  ],
+  [
+    [
       "2026-02-25, 04:03:26",
       "https://news.ycombinator.com/item?id=47147183"
     ],
@@ -41,22 +61,22 @@
   ],
   [
     [
-      "2026-02-25, 00:20:50",
-      "https://news.ycombinator.com/item?id=47145551"
-    ],
-    [
-      "US Military leaders meet with Anthropic to argue against Claude safeguards",
-      "https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 22:46:23",
       "https://news.ycombinator.com/item?id=47144464"
     ],
     [
-      "Mercury 2: The fastest reasoning LLM, powered by diffusion",
+      "Mercury 2: Fast reasoning LLM powered by diffusion",
       "https://www.inceptionlabs.ai/blog/introducing-mercury-2"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 22:37:54",
+      "https://news.ycombinator.com/item?id=47144325"
+    ],
+    [
+      "Cell Service for the Fairly Paranoid",
+      "https://www.cape.co/"
     ]
   ],
   [
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2026-02-24, 21:51:11",
-      "https://news.ycombinator.com/item?id=47143717"
-    ],
-    [
-      "Show HN: Recursively apply patterns for pathfinding",
-      "https://pattern-pathfinder.vercel.app/?fixtureId=%7B%22path%22%3A%22site%2Fexamples%2F_intro.fixture.tsx%22%7D"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 21:19:03",
       "https://news.ycombinator.com/item?id=47143211"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2026-02-24, 20:01:54",
+      "https://news.ycombinator.com/item?id=47142078"
+    ],
+    [
+      "We are changing our developer productivity experiment design",
+      "https://metr.org/blog/2026-02-24-uplift-update/"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 19:43:34",
       "https://news.ycombinator.com/item?id=47141797"
     ],
@@ -127,16 +147,6 @@
     [
       "Steel Bank Common Lisp",
       "https://www.sbcl.org/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 18:23:03",
-      "https://news.ycombinator.com/item?id=47140632"
-    ],
-    [
-      "OpenAI, the US government and Persona built an identity surveillance machine",
-      "https://vmfunc.re/blog/persona/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-02-24, 13:08:56",
-      "https://news.ycombinator.com/item?id=47136658"
-    ],
-    [
-      "Why the KeePass format should be based on SQLite",
-      "https://mketab.org/blog/sqlite_kdbx/"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 13:03:51",
       "https://news.ycombinator.com/item?id=47136604"
     ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=47110384"
     ],
     [
-      "Scheme on Java on Common Lisp",
+      "Cl-kawa: Scheme on Java on Common Lisp",
       "https://github.com/atgreen/cl-kawa"
     ]
   ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-02-21, 14:14:08",
-      "https://news.ycombinator.com/item?id=47101034"
+      "2026-02-21, 19:08:09",
+      "https://news.ycombinator.com/item?id=47103668"
     ],
     [
-      "Build Your Own Forth Interpreter",
-      "https://codingchallenges.fyi/challenges/challenge-forth/"
+      "3D-Printed electric motor via multi-modal, multi-material extrusion",
+      "https://www.tandfonline.com/doi/full/10.1080/17452759.2026.2613185"
     ]
   ],
   [
