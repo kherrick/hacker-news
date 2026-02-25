@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
 * [2026-02-24, 23:34:26](https://news.ycombinator.com/item?id=47145088) - [Fed's Cook says AI triggering big changes, sees possible unemployment rise](https://www.reuters.com/business/feds-cook-says-ai-triggering-big-changes-sees-possible-short-term-unemployment-2026-02-24/)
+* [2026-02-24, 23:33:58](https://news.ycombinator.com/item?id=47145082) - [Show HN: Linex – A daily challenge: placing pieces on a board that fights back](https://www.playlinex.com/)
 * [2026-02-24, 22:46:23](https://news.ycombinator.com/item?id=47144464) - [Mercury 2: The fastest reasoning LLM, powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2)
 * [2026-02-24, 22:37:54](https://news.ycombinator.com/item?id=47144325) - [Cell Service for the Fairly Paranoid](https://www.cape.co/)
 * [2026-02-24, 22:16:12](https://news.ycombinator.com/item?id=47144064) - [Stripe reportedly makes offer to acquire PayPal](https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html)

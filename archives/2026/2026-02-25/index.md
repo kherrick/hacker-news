@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 20:16:47](https://news.ycombinator.com/item?id=47157224) - [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
 * [2026-02-25, 18:41:23](https://news.ycombinator.com/item?id=47155811) - [Devirtualization and Static Polymorphism](https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/)
 * [2026-02-25, 18:38:33](https://news.ycombinator.com/item?id=47155772) - [Attyx – tiny and fast GPU-accelerated terminal emulator written in Zig](https://github.com/semos-labs/attyx)
 * [2026-02-25, 18:28:37](https://news.ycombinator.com/item?id=47155597) - [Show HN: I ported Tree-sitter to Go](https://github.com/odvcencio/gotreesitter)
@@ -12,6 +13,7 @@
 * [2026-02-25, 17:49:27](https://news.ycombinator.com/item?id=47154983) - [The Pentagon Threatens Anthropic](https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic)
 * [2026-02-25, 17:48:21](https://news.ycombinator.com/item?id=47154971) - [om](https://www.om-language.com/)
 * [2026-02-25, 17:37:04](https://news.ycombinator.com/item?id=47154803) - [Sandboxes won't save you from OpenClaw](https://tachyon.so/blog/sandboxes-wont-save-you)
+* [2026-02-25, 17:14:19](https://news.ycombinator.com/item?id=47154399) - [Windows 11 Notepad to support Markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
 * [2026-02-25, 17:02:12](https://news.ycombinator.com/item?id=47154246) - [Trellis AI (YC W24) is hiring deployment lead to accelerate medication access](https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist)
 * [2026-02-25, 16:49:36](https://news.ycombinator.com/item?id=47154076) - [Why isn't LA repaving streets?](https://lapublicpress.org/2026/02/why-isnt-la-repaving-streets/)
 * [2026-02-25, 16:47:33](https://news.ycombinator.com/item?id=47154042) - [Racket v9.1](https://blog.racket-lang.org/2026/02/racket-v9-1.html)
@@ -31,6 +33,7 @@
 * [2026-02-25, 14:00:15](https://news.ycombinator.com/item?id=47151564) - [What are the best coping mechanisms for AI Fatalism?](https://news.ycombinator.com/item?id=47151564)
 * [2026-02-25, 13:31:17](https://news.ycombinator.com/item?id=47151233) - [Never Buy A .online Domain](https://www.0xsid.com/blog/online-tld-is-pain)
 * [2026-02-25, 13:25:53](https://news.ycombinator.com/item?id=47151163) - [Red Hat takes on Docker Desktop with its enterprise Podman Desktop build](https://thenewstack.io/red-hat-enters-the-cloud-native-developer-desktop-market/)
+* [2026-02-25, 13:07:36](https://news.ycombinator.com/item?id=47151000) - [AIs can't stop recommending nuclear strikes in war game simulations](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
 * [2026-02-25, 12:01:11](https://news.ycombinator.com/item?id=47150403) - [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer)
 * [2026-02-25, 10:34:41](https://news.ycombinator.com/item?id=47149811) - [Vinext – The Next.js API surface, reimplemented on Vite](https://github.com/cloudflare/vinext)
 * [2026-02-25, 10:24:23](https://news.ycombinator.com/item?id=47149752) - [100M-Row Challenge with PHP](https://github.com/tempestphp/100-million-row-challenge)
