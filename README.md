@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-25, 21:11:44](https://news.ycombinator.com/item?id=47157919) - [ECS Survivors Parts VII – X](https://blog.ptidej.net/ecs-survivors-parts-vii-x/)
+* [2026-02-25, 23:16:40](https://news.ycombinator.com/item?id=47159430) - [Banned in California](https://www.bannedincalifornia.org/)
+* [2026-02-25, 23:02:58](https://news.ycombinator.com/item?id=47159302) - [First Website](https://info.cern.ch)
 * [2026-02-25, 20:29:37](https://news.ycombinator.com/item?id=47157398) - [Making MCP cheaper via CLI](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html)
 * [2026-02-25, 20:16:47](https://news.ycombinator.com/item?id=47157224) - [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
 * [2026-02-25, 20:11:37](https://news.ycombinator.com/item?id=47157160) - [PA Bench: Evaluating Frontier Models on Multi-Tab Pa Tasks](https://vibrantlabs.com/blog/pa-bench)
@@ -16,7 +17,6 @@
 * [2026-02-25, 15:37:29](https://news.ycombinator.com/item?id=47152982) - [GNU Texmacs](https://www.texmacs.org/tmweb/home/welcome.en.html)
 * [2026-02-25, 14:48:17](https://news.ycombinator.com/item?id=47152252) - [US orders diplomats to fight data sovereignty initiatives](https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/)
 * [2026-02-25, 14:37:21](https://news.ycombinator.com/item?id=47152085) - [New accounts on HN more likely to use em-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
-* [2026-02-25, 14:31:35](https://news.ycombinator.com/item?id=47151995) - [Show HN: Django Control Room – All Your Tools Inside the Django Admin](https://github.com/yassi/dj-control-room)
 * [2026-02-25, 14:21:19](https://news.ycombinator.com/item?id=47151842) - [Show HN: Respectify – A comment moderator that teaches people to argue better](https://respectify.org/)
 * [2026-02-25, 14:02:02](https://news.ycombinator.com/item?id=47151598) - [Launch HN: TeamOut (YC W22) – AI agent for planning company retreats](https://app.teamout.com/ai)
 * [2026-02-25, 13:31:17](https://news.ycombinator.com/item?id=47151233) - [Never buy a .online domain](https://www.0xsid.com/blog/online-tld-is-pain)
