@@ -25,6 +25,7 @@
 * [2026-02-19, 18:42:51](https://news.ycombinator.com/item?id=47077383) - [Farewell Rust](https://yieldcode.blog/post/farewell-rust/)
 * [2026-02-19, 18:40:35](https://news.ycombinator.com/item?id=47077358) - [What Is a Centipawn Advantage?](https://win-vector.com/2026/02/19/what-is-a-centipawn-advantage/)
 * [2026-02-19, 18:31:50](https://news.ycombinator.com/item?id=47077245) - [Archaeologists find possible first direct evidence of Hannibal's war elephants](https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/)
+* [2026-02-19, 18:29:55](https://news.ycombinator.com/item?id=47077215) - [Justifying Text-Wrap: Pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)
 * [2026-02-19, 18:26:44](https://news.ycombinator.com/item?id=47077163) - [South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection](https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea)
 * [2026-02-19, 18:12:16](https://news.ycombinator.com/item?id=47076966) - [AI Makes You Boring](https://www.marginalia.nu/log/a_132_ai_bores/)
 * [2026-02-19, 18:01:50](https://news.ycombinator.com/item?id=47076826) - [DOGE Bro's Grant Review Process Was Literally Just Asking ChatGPT 'Is This DEI?'](https://www.techdirt.com/2026/02/19/doge-bros-grant-review-process-was-literally-just-asking-chatgpt-is-this-dei/)
