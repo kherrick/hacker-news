@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 04:03:26](https://news.ycombinator.com/item?id=47147183) - [Ask HN: Share your productive usage of OpenClaw](https://news.ycombinator.com/item?id=47147183)
 * [2026-02-25, 03:55:30](https://news.ycombinator.com/item?id=47147122) - [What Happened to Fry's Electronics](https://dfarq.homeip.net/what-happened-to-frys-electronics/)
 * [2026-02-25, 01:45:15](https://news.ycombinator.com/item?id=47146247) - [Capybara: A Unified Visual Creation Model](https://github.com/xgen-universe/Capybara)
 * [2026-02-25, 01:08:46](https://news.ycombinator.com/item?id=47145963) - [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/)

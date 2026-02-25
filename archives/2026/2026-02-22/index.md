@@ -56,6 +56,7 @@
 * [2026-02-22, 12:36:46](https://news.ycombinator.com/item?id=47110515) - [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html)
 * [2026-02-22, 12:34:00](https://news.ycombinator.com/item?id=47110495) - [Minions: Stripe's one-shot, end-to-end coding agents – Stripe Dot Dev Blog](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents)
 * [2026-02-22, 12:28:41](https://news.ycombinator.com/item?id=47110473) - [What Is a Database Transaction?](https://planetscale.com/blog/database-transactions)
+* [2026-02-22, 12:12:39](https://news.ycombinator.com/item?id=47110384) - [Scheme on Java on Common Lisp](https://github.com/atgreen/cl-kawa)
 * [2026-02-22, 11:56:39](https://news.ycombinator.com/item?id=47110310) - [Postgres Is Your Friend. ORM Is Not](https://hypha.pub/postgres-is-your-friend-orm-is-not)
 * [2026-02-22, 07:16:27](https://news.ycombinator.com/item?id=47108989) - [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
 * [2026-02-22, 07:14:22](https://news.ycombinator.com/item?id=47108977) - [What's the best way to learn a new language?](https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language)
