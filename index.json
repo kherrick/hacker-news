@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-02-25, 14:17:14",
+      "https://news.ycombinator.com/item?id=47151784"
+    ],
+    [
+      "Show HN: Clocksimulator.com – A minimalist, distraction-free analog clock",
+      "https://www.clocksimulator.com/"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 14:02:02",
+      "https://news.ycombinator.com/item?id=47151598"
+    ],
+    [
+      "Launch HN: TeamOut (YC W22) – AI agent for planning company events",
+      "https://app.teamout.com/ai"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 14:00:15",
+      "https://news.ycombinator.com/item?id=47151564"
+    ],
+    [
+      "What are the best coping mechanisms for AI Fatalism?",
+      "https://news.ycombinator.com/item?id=47151564"
+    ]
+  ],
+  [
+    [
       "2026-02-25, 13:31:17",
       "https://news.ycombinator.com/item?id=47151233"
     ],
     [
       "Never Buy A .online Domain",
       "https://www.0xsid.com/blog/online-tld-is-pain"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 13:25:53",
+      "https://news.ycombinator.com/item?id=47151163"
+    ],
+    [
+      "Red Hat takes on Docker Desktop with its enterprise Podman Desktop build",
+      "https://thenewstack.io/red-hat-enters-the-cloud-native-developer-desktop-market/"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2026-02-24, 22:37:54",
-      "https://news.ycombinator.com/item?id=47144325"
-    ],
-    [
-      "Cell Service for the Fairly Paranoid",
-      "https://www.cape.co/"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 21:54:07",
       "https://news.ycombinator.com/item?id=47143755"
     ],
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2026-02-24, 17:30:19",
-      "https://news.ycombinator.com/item?id=47139902"
-    ],
-    [
-      "Hugging Face Skills",
-      "https://github.com/huggingface/skills"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 17:15:17",
       "https://news.ycombinator.com/item?id=47139675"
     ],
     [
       "I'm helping my dog vibe code games",
       "https://www.calebleak.com/posts/dog-game/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 14:37:52",
-      "https://news.ycombinator.com/item?id=47137711"
-    ],
-    [
-      "Stripe valued at $159B, 2025 annual letter",
-      "https://stripe.com/newsroom/news/stripe-2025-update"
     ]
   ],
   [
@@ -241,22 +251,22 @@
   ],
   [
     [
-      "2026-02-24, 00:12:44",
-      "https://news.ycombinator.com/item?id=47130997"
-    ],
-    [
-      "Meta problem with URPF our bundle in Boca raton",
-      "https://metafixthis.com/"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 17:15:22",
       "https://news.ycombinator.com/item?id=47125287"
     ],
     [
       "Half million 'Words with Spaces' missing from dictionaries",
       "https://www.linguabase.org/words-with-spaces.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 12:55:39",
+      "https://news.ycombinator.com/item?id=47121716"
+    ],
+    [
+      "Confusables.txt and NFKC disagree on 31 characters",
+      "https://paultendo.github.io/posts/unicode-confusables-nfkc-conflict/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Cl-kawa: Scheme on Java on Common Lisp",
       "https://github.com/atgreen/cl-kawa"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 11:54:46",
-      "https://news.ycombinator.com/item?id=47110300"
-    ],
-    [
-      "Running RISC-V in a VM to test my snaps",
-      "https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/"
     ]
   ]
 ]
