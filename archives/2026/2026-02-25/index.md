@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 12:01:11](https://news.ycombinator.com/item?id=47150403) - [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer)
 * [2026-02-25, 10:34:41](https://news.ycombinator.com/item?id=47149811) - [Vinext – The Next.js API surface, reimplemented on Vite](https://github.com/cloudflare/vinext)
+* [2026-02-25, 10:24:23](https://news.ycombinator.com/item?id=47149752) - [100M-Row Challenge with PHP](https://github.com/tempestphp/100-million-row-challenge)
 * [2026-02-25, 10:16:22](https://news.ycombinator.com/item?id=47149701) - [Danish Gov agency to ditch Microsoft software in push for digital independence](https://therecord.media/denmark-digital-agency-microsoft-digital-independence)
 * [2026-02-25, 10:02:45](https://news.ycombinator.com/item?id=47149586) - [Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/)
 * [2026-02-25, 09:05:40](https://news.ycombinator.com/item?id=47149151) - [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/)
