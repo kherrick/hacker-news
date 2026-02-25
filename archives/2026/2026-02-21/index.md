@@ -18,6 +18,7 @@
 * [2026-02-21, 20:10:13](https://news.ycombinator.com/item?id=47104185) - [EDuke32 – Duke Nukem 3D (Open-Source)](https://www.eduke32.com/)
 * [2026-02-21, 19:41:52](https://news.ycombinator.com/item?id=47103945) - [Inputlag.science – Repository of knowledge about input lag in gaming](https://inputlag.science)
 * [2026-02-21, 19:40:06](https://news.ycombinator.com/item?id=47103931) - [Parse, Don't Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
+* [2026-02-21, 19:08:09](https://news.ycombinator.com/item?id=47103668) - [3D-Printed electric motor via multi-modal, multi-material extrusion](https://www.tandfonline.com/doi/full/10.1080/17452759.2026.2613185)
 * [2026-02-21, 19:07:20](https://news.ycombinator.com/item?id=47103661) - [How Taalas \"prints\" LLM onto a chip?](https://www.anuragk.com/blog/posts/Taalas.html)
 * [2026-02-21, 19:05:31](https://news.ycombinator.com/item?id=47103649) - [Cloudflare outage on February 20, 2026](https://blog.cloudflare.com/cloudflare-outage-february-20-2026/)
 * [2026-02-21, 18:50:19](https://news.ycombinator.com/item?id=47103506) - [Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++](https://github.com/a-e-k/canvas_ity)
