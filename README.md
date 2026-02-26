@@ -4,7 +4,6 @@
 * [2026-02-26, 18:38:38](https://news.ycombinator.com/item?id=47170174) - [Launch HN: Cardboard (YC W26) – Agentic video editor](https://www.usecardboard.com/)
 * [2026-02-26, 18:37:59](https://news.ycombinator.com/item?id=47170157) - [OsmAnd's Faster Offline Navigation](https://osmand.net/blog/fast-routing/)
 * [2026-02-26, 18:27:11](https://news.ycombinator.com/item?id=47169984) - [He saw an abandoned trailer. Then, uncovered a surveillance network](https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/)
-* [2026-02-26, 18:16:45](https://news.ycombinator.com/item?id=47169815) - [iPhone and iPad approved to handle classified NATO information](https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/)
 * [2026-02-26, 18:12:26](https://news.ycombinator.com/item?id=47169757) - [What Claude Code Chooses](https://amplifying.ai/research/claude-code-picks)
 * [2026-02-26, 17:54:06](https://news.ycombinator.com/item?id=47169518) - [Show HN: Deff – side-by-side Git diff review in your terminal](https://github.com/flamestro/deff)
 * [2026-02-26, 17:38:03](https://news.ycombinator.com/item?id=47169278) - [Google Street View in 2026](https://tech.marksblogg.com/google-street-view-coverage.html)
@@ -29,6 +28,7 @@
 * [2026-02-24, 10:41:16](https://news.ycombinator.com/item?id=47135425) - [Show HN: Beehive – Multi-Workspace Agent Orchestrator](https://storozhenko98.github.io/beehive/)
 * [2026-02-23, 20:54:34](https://news.ycombinator.com/item?id=47128645) - [I baked a pie every day for a year and it changed my life](https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life)
 * [2026-02-23, 16:58:58](https://news.ycombinator.com/item?id=47124999) - [Museum of Plugs and Sockets](https://plugsocketmuseum.nl/index.html)
+* [2026-02-23, 12:19:43](https://news.ycombinator.com/item?id=47121352) - [Lidar waveforms are worth 40x128x33 words](https://openaccess.thecvf.com/content/ICCV2025/html/Scheuble_Lidar_Waveforms_are_Worth_40x128x33_Words_ICCV_2025_paper.html)
 * [2026-02-23, 08:39:47](https://news.ycombinator.com/item?id=47119665) - [The Wolfram S Combinator Challenge](https://www.combinatorprize.org/)
 
 ## [Archives](archives/index.md)

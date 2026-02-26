@@ -64,6 +64,7 @@
 * [2026-02-23, 12:55:39](https://news.ycombinator.com/item?id=47121716) - [Confusables.txt and NFKC disagree on 31 characters](https://paultendo.github.io/posts/unicode-confusables-nfkc-conflict/)
 * [2026-02-23, 12:38:54](https://news.ycombinator.com/item?id=47121539) - [femtolisp: A lightweight, robust, scheme-like Lisp implementation](https://github.com/JeffBezanson/femtolisp)
 * [2026-02-23, 12:28:06](https://news.ycombinator.com/item?id=47121442) - [I Donut Believe – Presenting Third Party Results (Donut Lab)](https://idonutbelieve.com/)
+* [2026-02-23, 12:19:43](https://news.ycombinator.com/item?id=47121352) - [Lidar waveforms are worth 40x128x33 words](https://openaccess.thecvf.com/content/ICCV2025/html/Scheuble_Lidar_Waveforms_are_Worth_40x128x33_Words_ICCV_2025_paper.html)
 * [2026-02-23, 12:01:46](https://news.ycombinator.com/item?id=47121210) - [Facebook's Fascination with My Robots.txt](https://blog.nytsoi.net/2026/02/23/facebook-robots-txt)
 * [2026-02-23, 11:44:10](https://news.ycombinator.com/item?id=47121029) - [Hetzner (European hosting provider) to increase prices by up to 38%](https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/)
 * [2026-02-23, 11:29:30](https://news.ycombinator.com/item?id=47120901) - [Don't host email yourself – your reminder in 2026](https://www.coinerella.com/dont-host-email-yourself-your-reminder-in-2026/)
