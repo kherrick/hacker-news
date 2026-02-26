@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-26](index.md)
 
+* [2026-02-26, 12:52:50](https://news.ycombinator.com/item?id=47165397) - [Anthropic ditches its core safety promise](https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change)
+* [2026-02-26, 12:44:28](https://news.ycombinator.com/item?id=47165299) - [Fentanyl makeover: Core structural redesign could lead to safer pain medications](https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html)
+* [2026-02-26, 12:18:11](https://news.ycombinator.com/item?id=47165060) - [Number of UK workers on zero-hours contracts hits record high ahead of crackdown](https://www.bbc.co.uk/news/articles/czj1m7d4gxpo)
+* [2026-02-26, 12:15:38](https://news.ycombinator.com/item?id=47165046) - [Show HN: Agent Swarm – Multi-agent self-learning teams (OSS)](https://github.com/desplega-ai/agent-swarm)
 * [2026-02-26, 12:02:14](https://news.ycombinator.com/item?id=47164933) - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)
 * [2026-02-26, 11:58:13](https://news.ycombinator.com/item?id=47164892) - [Men in their 50s may be aging faster due to toxic 'forever chemicals'](https://www.cnn.com/2026/02/26/health/forever-chemicals-aging-men-wellness)
 * [2026-02-26, 11:26:10](https://news.ycombinator.com/item?id=47164605) - [You Want to Visit the UK? You Better Have a Google Play or App Store Account](https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/)

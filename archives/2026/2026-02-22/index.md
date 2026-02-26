@@ -54,6 +54,7 @@
 * [2026-02-22, 14:03:01](https://news.ycombinator.com/item?id=47111092) - [Scipy.stats. Chatterjeexi](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chatterjeexi.html)
 * [2026-02-22, 13:59:40](https://news.ycombinator.com/item?id=47111067) - [Iran students stage first large anti-government protests since deadly crackdown](https://www.bbc.com/news/articles/c5yj2kzkrj0o)
 * [2026-02-22, 13:57:18](https://news.ycombinator.com/item?id=47111042) - [I put New Zealand behind a $1 paywall](https://rename.world/)
+* [2026-02-22, 13:52:30](https://news.ycombinator.com/item?id=47111006) - [What podcasts are you listening to?](https://news.ycombinator.com/item?id=47111006)
 * [2026-02-22, 13:44:27](https://news.ycombinator.com/item?id=47110946) - [Show HN: TLA+ Workbench skill for coding agents (compat. with Vercel skills CLI)](https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench)
 * [2026-02-22, 13:41:45](https://news.ycombinator.com/item?id=47110927) - [New York Just Killed Its Robotaxi Plan. The Real Problem Isn't the Technology](https://www.phyware.io/blog/ny-robotaxi-trust-gap)
 * [2026-02-22, 13:20:07](https://news.ycombinator.com/item?id=47110781) - [Volatility: The volatile memory forensic extraction framework](https://github.com/volatilityfoundation/volatility3)
