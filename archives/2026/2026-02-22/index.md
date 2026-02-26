@@ -62,6 +62,7 @@
 * [2026-02-22, 12:34:00](https://news.ycombinator.com/item?id=47110495) - [Minions: Stripe's one-shot, end-to-end coding agents – Stripe Dot Dev Blog](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents)
 * [2026-02-22, 12:33:03](https://news.ycombinator.com/item?id=47110491) - [PL/0](https://en.wikipedia.org/wiki/PL/0)
 * [2026-02-22, 12:28:41](https://news.ycombinator.com/item?id=47110473) - [What Is a Database Transaction?](https://planetscale.com/blog/database-transactions)
+* [2026-02-22, 12:13:15](https://news.ycombinator.com/item?id=47110393) - [Writers and Their Day Jobs](https://lithub.com/the-work-behind-the-writing-on-writers-and-their-day-jobs/)
 * [2026-02-22, 12:12:39](https://news.ycombinator.com/item?id=47110384) - [Scheme on Java on Common Lisp](https://github.com/atgreen/cl-kawa)
 * [2026-02-22, 11:56:39](https://news.ycombinator.com/item?id=47110310) - [Postgres Is Your Friend. ORM Is Not](https://hypha.pub/postgres-is-your-friend-orm-is-not)
 * [2026-02-22, 11:54:46](https://news.ycombinator.com/item?id=47110300) - [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/)
