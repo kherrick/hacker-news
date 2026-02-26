@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-02-26, 01:25:49",
-      "https://news.ycombinator.com/item?id=47160613"
+      "2026-02-26, 03:36:57",
+      "https://news.ycombinator.com/item?id=47161498"
     ],
     [
-      "Jane Street Hit with Terra $40B Insider Trading Suit",
-      "https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/"
+      "Self-improving software won't produce Skynet",
+      "https://contalign.jefflunt.com/self-improving-software/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 02:43:26",
+      "https://news.ycombinator.com/item?id=47161160"
+    ],
+    [
+      "RAM now represents 35 percent of bill of materials for HP PCs",
+      "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 02:19:02",
+      "https://news.ycombinator.com/item?id=47160980"
+    ],
+    [
+      "Show HN: OpenSwarm – Multi‑Agent Claude CLI Orchestrator for Linear/GitHub",
+      "https://github.com/Intrect-io/OpenSwarm"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=47160226"
     ],
     [
-      "Tech Companies Shouldn't Be Bullied into Doing Surveillance",
+      "Tech companies shouldn't be bullied into doing surveillance",
       "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance"
     ]
   ],
@@ -45,8 +65,18 @@
       "https://news.ycombinator.com/item?id=47158975"
     ],
     [
-      "How Will OpenAI Compete?",
+      "How will OpenAI compete?",
       "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 21:05:15",
+      "https://news.ycombinator.com/item?id=47157841"
+    ],
+    [
+      "An autopsy of AI-generated 3D slop",
+      "https://aircada.com/blog/ai-vs-human-3d-ecommerce"
     ]
   ],
   [
@@ -71,12 +101,22 @@
   ],
   [
     [
-      "2026-02-25, 18:41:23",
-      "https://news.ycombinator.com/item?id=47155811"
+      "2026-02-25, 20:11:37",
+      "https://news.ycombinator.com/item?id=47157160"
     ],
     [
-      "Devirtualization and Static Polymorphism",
-      "https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/"
+      "PA bench: Evaluating web agents on real world personal assistant workflows",
+      "https://vibrantlabs.com/blog/pa-bench"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 19:54:14",
+      "https://news.ycombinator.com/item?id=47156925"
+    ],
+    [
+      "Google API keys weren't secrets, but then Gemini changed the rules",
+      "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules"
     ]
   ],
   [
@@ -121,36 +161,6 @@
   ],
   [
     [
-      "2026-02-25, 16:49:36",
-      "https://news.ycombinator.com/item?id=47154076"
-    ],
-    [
-      "Why isn't LA repaving streets?",
-      "https://lapublicpress.org/2026/02/why-isnt-la-repaving-streets/"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 16:44:54",
-      "https://news.ycombinator.com/item?id=47154009"
-    ],
-    [
-      "Following 35% growth, solar has passed hydro on US grid",
-      "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 16:38:40",
-      "https://news.ycombinator.com/item?id=47153924"
-    ],
-    [
-      "The Misuses of the University",
-      "https://www.publicbooks.org/the-misuses-of-the-university/"
-    ]
-  ],
-  [
-    [
       "2026-02-25, 16:31:26",
       "https://news.ycombinator.com/item?id=47153798"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-02-25, 14:37:21",
-      "https://news.ycombinator.com/item?id=47152085"
-    ],
-    [
-      "New accounts on HN more likely to use em-dashes",
-      "https://www.marginalia.nu/weird-ai-crap/hn/"
-    ]
-  ],
-  [
-    [
       "2026-02-25, 14:21:19",
       "https://news.ycombinator.com/item?id=47151842"
     ],
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2026-02-25, 13:31:17",
-      "https://news.ycombinator.com/item?id=47151233"
+      "2026-02-25, 14:02:02",
+      "https://news.ycombinator.com/item?id=47151598"
     ],
     [
-      "Never buy a .online domain",
-      "https://www.0xsid.com/blog/online-tld-is-pain"
+      "Launch HN: TeamOut (YC W22) – AI agent for planning company retreats",
+      "https://app.teamout.com/ai"
     ]
   ],
   [
@@ -265,18 +265,8 @@
       "https://news.ycombinator.com/item?id=47112299"
     ],
     [
-      "Artist who \"paints\" portraits on glass by hitting it with a hammer",
+      "Artist who “paints” portraits on glass by hitting it with a hammer",
       "https://simonbergerart.com"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 11:07:25",
-      "https://news.ycombinator.com/item?id=47110066"
-    ],
-    [
-      "Access to a Shared Unix Computer",
-      "http://tilde.club/"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2026-02-21, 17:10:55",
-      "https://news.ycombinator.com/item?id=47102610"
+      "2026-02-22, 06:50:39",
+      "https://news.ycombinator.com/item?id=47108861"
     ],
     [
-      "Text-Based Google Directions",
-      "https://gdir.telae.net/"
+      "The Pleasures and Pains of Coffee (1830)",
+      "https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 21:49:23",
+      "https://news.ycombinator.com/item?id=47105175"
+    ],
+    [
+      "Gauss's Weekday Algorithm, Visualized",
+      "https://lukasmetzner.github.io/blog/gauss-weekday.html"
     ]
   ]
 ]
