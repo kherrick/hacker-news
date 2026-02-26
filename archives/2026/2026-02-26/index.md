@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-26](index.md)
 
+* [2026-02-26, 18:47:27](https://news.ycombinator.com/item?id=47170299) - [Show HN: Rev-dep – 20x faster knip.dev alternative build in Go](https://github.com/jayu/rev-dep)
+* [2026-02-26, 18:38:38](https://news.ycombinator.com/item?id=47170174) - [Launch HN: Cardboard (YC W26) – Agentic video editor](https://www.usecardboard.com/)
+* [2026-02-26, 18:37:59](https://news.ycombinator.com/item?id=47170157) - [OsmAnd's Faster Offline Navigation](https://osmand.net/blog/fast-routing/)
+* [2026-02-26, 18:27:11](https://news.ycombinator.com/item?id=47169984) - [He saw an abandoned trailer. Then, uncovered a surveillance network](https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/)
 * [2026-02-26, 18:16:45](https://news.ycombinator.com/item?id=47169815) - [iPhone and iPad approved to handle classified NATO information](https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/)
 * [2026-02-26, 18:11:56](https://news.ycombinator.com/item?id=47169748) - [Twitch: \"Hey, come back! This commercial break can't play while you're away.\"](https://twitter.com/KryDotExe/status/2026806591517856208)
+* [2026-02-26, 17:54:06](https://news.ycombinator.com/item?id=47169518) - [Show HN: Deff – side-by-side Git diff review in your terminal](https://github.com/flamestro/deff)
 * [2026-02-26, 17:38:03](https://news.ycombinator.com/item?id=47169278) - [Google Street View in 2026](https://tech.marksblogg.com/google-street-view-coverage.html)
 * [2026-02-26, 17:28:35](https://news.ycombinator.com/item?id=47169146) - [SynthID](https://deepmind.google/models/synthid/)
 * [2026-02-26, 17:01:05](https://news.ycombinator.com/item?id=47168726) - [Palm OS User Interface Guidelines [pdf, 2003]](https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf)
