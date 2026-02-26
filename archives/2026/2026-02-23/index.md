@@ -57,6 +57,7 @@
 * [2026-02-23, 14:28:39](https://news.ycombinator.com/item?id=47122789) - [The peculiar case of Japanese web design](https://sabrinas.space)
 * [2026-02-23, 14:22:39](https://news.ycombinator.com/item?id=47122715) - [The Age Verification Trap, Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
 * [2026-02-23, 13:53:21](https://news.ycombinator.com/item?id=47122337) - [How in the Hell Did Joann Fabrics Die While Best Buy Survived? It Wasn't Amazon](https://www.governance.fyi/p/how-in-the-hell-did-joann-fabrics)
+* [2026-02-23, 13:46:45](https://news.ycombinator.com/item?id=47122272) - [Better to Skip a Year for Hardware Upgrades?](https://boilingsteam.com/poll-better-to-skip-a-year-for-pc-upgrades/)
 * [2026-02-23, 13:10:56](https://news.ycombinator.com/item?id=47121864) - [VTT Test Donut Lab Battery Reaches 80% Charge in Under 10 Minutes [pdf]](https://pub-fee113bb711e441db5c353d2d31abbb3.r2.dev/VTT_CR_00092_26.pdf)
 * [2026-02-23, 12:55:39](https://news.ycombinator.com/item?id=47121716) - [Confusables.txt and NFKC disagree on 31 characters](https://paultendo.github.io/posts/unicode-confusables-nfkc-conflict/)
 * [2026-02-23, 12:38:54](https://news.ycombinator.com/item?id=47121539) - [femtolisp: A lightweight, robust, scheme-like Lisp implementation](https://github.com/JeffBezanson/femtolisp)
