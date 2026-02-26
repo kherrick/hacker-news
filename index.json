@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-02-26, 18:47:27",
+      "https://news.ycombinator.com/item?id=47170299"
+    ],
+    [
+      "Show HN: Rev-dep – 20x faster knip.dev alternative build in Go",
+      "https://github.com/jayu/rev-dep"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 18:38:38",
+      "https://news.ycombinator.com/item?id=47170174"
+    ],
+    [
+      "Launch HN: Cardboard (YC W26) – Agentic video editor",
+      "https://www.usecardboard.com/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 18:37:59",
+      "https://news.ycombinator.com/item?id=47170157"
+    ],
+    [
+      "OsmAnd's Faster Offline Navigation",
+      "https://osmand.net/blog/fast-routing/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 18:27:11",
+      "https://news.ycombinator.com/item?id=47169984"
+    ],
+    [
+      "He saw an abandoned trailer. Then, uncovered a surveillance network",
+      "https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/"
+    ]
+  ],
+  [
+    [
       "2026-02-26, 18:16:45",
       "https://news.ycombinator.com/item?id=47169815"
     ],
@@ -11,12 +51,12 @@
   ],
   [
     [
-      "2026-02-26, 18:11:56",
-      "https://news.ycombinator.com/item?id=47169748"
+      "2026-02-26, 17:54:06",
+      "https://news.ycombinator.com/item?id=47169518"
     ],
     [
-      "Twitch: \"Hey, come back! This commercial break can't play while you're away.\"",
-      "https://twitter.com/KryDotExe/status/2026806591517856208"
+      "Show HN: Deff – side-by-side Git diff review in your terminal",
+      "https://github.com/flamestro/deff"
     ]
   ],
   [
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=47168726"
     ],
     [
-      "Palm OS User Interface Guidelines [pdf, 2003]",
+      "Palm OS User Interface Guidelines (2003) [pdf]",
       "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf"
     ]
   ],
@@ -61,22 +101,22 @@
   ],
   [
     [
-      "2026-02-26, 16:23:07",
-      "https://news.ycombinator.com/item?id=47168165"
-    ],
-    [
-      "The Pentagon Feuding with an AI Company Is a Bad Sign",
-      "https://foreignpolicy.com/2026/02/25/anthropic-pentagon-feud-ai/"
-    ]
-  ],
-  [
-    [
       "2026-02-26, 16:13:06",
       "https://news.ycombinator.com/item?id=47168012"
     ],
     [
       "Open Source Endowment – new funding source for open source maintainers",
       "https://endowment.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 16:07:11",
+      "https://news.ycombinator.com/item?id=47167931"
+    ],
+    [
+      "Will vibe coding end like the maker movement?",
+      "https://read.technically.dev/p/vibe-coding-and-the-maker-movement"
     ]
   ],
   [
@@ -101,22 +141,22 @@
   ],
   [
     [
-      "2026-02-26, 14:21:05",
-      "https://news.ycombinator.com/item?id=47166473"
-    ],
-    [
-      "Story of XZ Backdoor [video]",
-      "https://www.youtube.com/watch?v=aoag03mSuXQ"
-    ]
-  ],
-  [
-    [
       "2026-02-26, 14:05:46",
       "https://news.ycombinator.com/item?id=47166264"
     ],
     [
       "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
       "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 13:28:59",
+      "https://news.ycombinator.com/item?id=47165792"
+    ],
+    [
+      "This time is different",
+      "https://shkspr.mobi/blog/2026/02/this-time-is-different/"
     ]
   ],
   [
@@ -137,16 +177,6 @@
     [
       "Show HN: Mission Control – Open-source task management for AI agents",
       "https://github.com/MeisnerDan/mission-control"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 12:52:50",
-      "https://news.ycombinator.com/item?id=47165397"
-    ],
-    [
-      "Anthropic ditches its core safety promise",
-      "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-02-25, 23:02:58",
-      "https://news.ycombinator.com/item?id=47159302"
-    ],
-    [
-      "First Website (1992)",
-      "https://info.cern.ch"
-    ]
-  ],
-  [
-    [
       "2026-02-25, 22:29:25",
       "https://news.ycombinator.com/item?id=47158975"
     ],
@@ -227,16 +247,6 @@
     [
       "Google API keys weren't secrets, but then Gemini changed the rules",
       "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 17:14:19",
-      "https://news.ycombinator.com/item?id=47154399"
-    ],
-    [
-      "Windows 11 Notepad to support Markdown",
-      "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-02-22, 03:54:01",
-      "https://news.ycombinator.com/item?id=47107974"
+      "2026-02-23, 08:39:47",
+      "https://news.ycombinator.com/item?id=47119665"
     ],
     [
-      "Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents",
-      "https://machinelearning.apple.com/research/ferret-ui"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 23:37:04",
-      "https://news.ycombinator.com/item?id=47106275"
-    ],
-    [
-      "Those who can, teach history",
-      "https://www.historytoday.com/archive/making-history/those-who-can-teach-history"
+      "The Wolfram S Combinator Challenge",
+      "https://www.combinatorprize.org/"
     ]
   ]
 ]
