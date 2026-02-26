@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-26](index.md)
 
+* [2026-02-26, 11:26:10](https://news.ycombinator.com/item?id=47164605) - [You Want to Visit the UK? You Better Have a Google Play or App Store Account](https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/)
+* [2026-02-26, 11:01:10](https://news.ycombinator.com/item?id=47164398) - [Google API Keys Weren't Secrets. But Then Gemini Changed the Rules](https://simonwillison.net/2026/Feb/26/google-api-keys/)
 * [2026-02-26, 10:40:45](https://news.ycombinator.com/item?id=47164270) - [Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line](https://gitlab.com/here_forawhile/terminalphone)
 * [2026-02-26, 10:08:01](https://news.ycombinator.com/item?id=47164079) - [Show HN: Better Hub – A better GitHub experience](https://www.better-hub.com/)
 * [2026-02-26, 09:35:08](https://news.ycombinator.com/item?id=47163885) - [Tell HN: YC companies scrape GitHub activity, send spam emails to users](https://news.ycombinator.com/item?id=47163885)

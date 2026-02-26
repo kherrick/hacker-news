@@ -69,6 +69,7 @@
 * [2026-02-22, 11:54:46](https://news.ycombinator.com/item?id=47110300) - [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/)
 * [2026-02-22, 11:26:31](https://news.ycombinator.com/item?id=47110155) - [Why every automaker is quietly bringing back the inline-six engine](https://carbuzz.com/why-automakers-bringing-back-the-inline-six-engine/)
 * [2026-02-22, 11:07:25](https://news.ycombinator.com/item?id=47110066) - [Access to a Shared Unix Computer](http://tilde.club/)
+* [2026-02-22, 11:03:19](https://news.ycombinator.com/item?id=47110049) - [Show HN: Modern Reimplementation of the Speck Molecule Renderer](https://github.com/vangelov/modern-speck)
 * [2026-02-22, 10:56:30](https://news.ycombinator.com/item?id=47110023) - [Show HN: Django-xbench – slow endpoint aggregation for Django](https://github.com/yeongbin05/django-xbench)
 * [2026-02-22, 07:30:17](https://news.ycombinator.com/item?id=47109058) - [Quasi-Zenith Satellite System](https://en.wikipedia.org/wiki/Quasi-Zenith_Satellite_System)
 * [2026-02-22, 07:16:27](https://news.ycombinator.com/item?id=47108989) - [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
