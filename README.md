@@ -19,7 +19,7 @@
 * [2026-02-25, 15:37:29](https://news.ycombinator.com/item?id=47152982) - [GNU Texmacs](https://www.texmacs.org/tmweb/home/welcome.en.html)
 * [2026-02-25, 14:21:19](https://news.ycombinator.com/item?id=47151842) - [Show HN: Respectify – A comment moderator that teaches people to argue better](https://respectify.org/)
 * [2026-02-25, 14:02:02](https://news.ycombinator.com/item?id=47151598) - [Launch HN: TeamOut (YC W22) – AI agent for planning company retreats](https://app.teamout.com/ai)
-* [2026-02-25, 13:31:17](https://news.ycombinator.com/item?id=47151233) - [Never buy a .online domain](https://www.0xsid.com/blog/online-tld-is-pain)
+* [2026-02-24, 20:41:15](https://news.ycombinator.com/item?id=47142673) - [Even the Mars Rover Uses Zip Ties (2021)](https://www.thedrive.com/tech/39426/even-the-mars-rover-has-zip-ties)
 * [2026-02-24, 18:59:31](https://news.ycombinator.com/item?id=47141107) - [Learnings from 4 months of Image-Video VAE experiments](https://www.linum.ai/field-notes/vae-reconstruction-vs-generation)
 * [2026-02-24, 17:18:17](https://news.ycombinator.com/item?id=47139716) - [Large-Scale Online Deanonymization with LLMs](https://simonlermen.substack.com/p/large-scale-online-deanonymization)
 * [2026-02-24, 13:49:39](https://news.ycombinator.com/item?id=47137140) - [Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)](https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/)

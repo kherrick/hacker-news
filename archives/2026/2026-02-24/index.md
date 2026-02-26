@@ -16,6 +16,7 @@
 * [2026-02-24, 21:19:03](https://news.ycombinator.com/item?id=47143211) - [Looks Like it is Happening](https://www.math.columbia.edu/~woit/wordpress/?p=15500)
 * [2026-02-24, 21:13:45](https://news.ycombinator.com/item?id=47143152) - [Mac mini will be made at a new facility in Houston](https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/)
 * [2026-02-24, 21:01:28](https://news.ycombinator.com/item?id=47142975) - [Show HN: Declarative open-source framework for MCPs with search and execute](https://hyperterse.com)
+* [2026-02-24, 20:41:15](https://news.ycombinator.com/item?id=47142673) - [Even the Mars Rover Uses Zip Ties (2021)](https://www.thedrive.com/tech/39426/even-the-mars-rover-has-zip-ties)
 * [2026-02-24, 20:35:41](https://news.ycombinator.com/item?id=47142587) - [Pentagon threatens to make Anthropic a pariah](https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei)
 * [2026-02-24, 20:27:47](https://news.ycombinator.com/item?id=47142458) - [Why High FOV Sucks – Fixing It with Panini Projection](https://www.youtube.com/watch?v=LE9kxUQ-l14)
 * [2026-02-24, 20:07:00](https://news.ycombinator.com/item?id=47142156) - [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/)
