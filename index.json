@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-02-26, 20:43:11",
-      "https://news.ycombinator.com/item?id=47171771"
-    ],
-    [
-      "America, and probably the world, stands on a precipice",
-      "https://garymarcus.substack.com/p/america-and-probably-the-world-stands"
-    ]
-  ],
-  [
-    [
       "2026-02-26, 19:58:46",
       "https://news.ycombinator.com/item?id=47171233"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: Hacker Smacker – spot great (and terrible) HN commenters at a glance",
       "https://hackersmacker.org"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 22:18:23",
+      "https://news.ycombinator.com/item?id=47129801"
+    ],
+    [
+      "Understanding the Go Runtime: The Memory Allocator",
+      "https://internals-for-interns.com/posts/go-memory-allocator/"
     ]
   ],
   [
