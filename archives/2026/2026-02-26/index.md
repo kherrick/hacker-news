@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-02-26](index.md)
 
+* [2026-02-26, 22:42:47](https://news.ycombinator.com/item?id=47173121) - [Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
+* [2026-02-26, 22:14:11](https://news.ycombinator.com/item?id=47172730) - [Hydroph0bia – a fixed SecureBoot bypass for UEFI firmware based on Insyde H2O](https://coderush.me/hydroph0bia-part3/)
+* [2026-02-26, 22:09:45](https://news.ycombinator.com/item?id=47172664) - [Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/)
+* [2026-02-26, 21:17:56](https://news.ycombinator.com/item?id=47172119) - [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343)
 * [2026-02-26, 20:43:11](https://news.ycombinator.com/item?id=47171771) - [America, and probably the world, stands on a precipice](https://garymarcus.substack.com/p/america-and-probably-the-world-stands)
+* [2026-02-26, 19:58:46](https://news.ycombinator.com/item?id=47171233) - [What does \" 2>&1 \" mean?](https://stackoverflow.com/questions/818255/what-does-21-mean)
 * [2026-02-26, 18:47:27](https://news.ycombinator.com/item?id=47170299) - [Show HN: Rev-dep – 20x faster knip.dev alternative build in Go](https://github.com/jayu/rev-dep)
 * [2026-02-26, 18:38:38](https://news.ycombinator.com/item?id=47170174) - [Launch HN: Cardboard (YC W26) – Agentic video editor](https://www.usecardboard.com/)
 * [2026-02-26, 18:37:59](https://news.ycombinator.com/item?id=47170157) - [OsmAnd's Faster Offline Navigation](https://osmand.net/blog/fast-routing/)
