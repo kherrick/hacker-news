@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 23:55:34](https://news.ycombinator.com/item?id=47159833) - [Steering interpretable language models with concept algebra](https://www.guidelabs.ai/post/steerling-steering-8b/)
 * [2026-02-25, 23:16:40](https://news.ycombinator.com/item?id=47159430) - [Banned in California](https://www.bannedincalifornia.org/)
 * [2026-02-25, 23:09:33](https://news.ycombinator.com/item?id=47159364) - [Origin of the rule that swap size should be 2x of the physical memory](https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory)
 * [2026-02-25, 23:02:58](https://news.ycombinator.com/item?id=47159302) - [First Website](https://info.cern.ch)

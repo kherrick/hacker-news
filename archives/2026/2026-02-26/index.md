@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-26](index.md)
 
+* [2026-02-26, 18:16:45](https://news.ycombinator.com/item?id=47169815) - [iPhone and iPad approved to handle classified NATO information](https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/)
+* [2026-02-26, 18:11:56](https://news.ycombinator.com/item?id=47169748) - [Twitch: \"Hey, come back! This commercial break can't play while you're away.\"](https://twitter.com/KryDotExe/status/2026806591517856208)
+* [2026-02-26, 17:38:03](https://news.ycombinator.com/item?id=47169278) - [Google Street View in 2026](https://tech.marksblogg.com/google-street-view-coverage.html)
+* [2026-02-26, 17:28:35](https://news.ycombinator.com/item?id=47169146) - [SynthID](https://deepmind.google/models/synthid/)
 * [2026-02-26, 17:01:05](https://news.ycombinator.com/item?id=47168726) - [Palm OS User Interface Guidelines [pdf, 2003]](https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf)
 * [2026-02-26, 17:00:25](https://news.ycombinator.com/item?id=47168721) - [Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable](https://www.workatastartup.com/jobs/80596)
 * [2026-02-26, 16:23:07](https://news.ycombinator.com/item?id=47168165) - [The Pentagon Feuding with an AI Company Is a Bad Sign](https://foreignpolicy.com/2026/02/25/anthropic-pentagon-feud-ai/)
@@ -11,6 +15,7 @@
 * [2026-02-26, 16:07:11](https://news.ycombinator.com/item?id=47167931) - [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement)
 * [2026-02-26, 16:02:37](https://news.ycombinator.com/item?id=47167858) - [Nano Banana 2: Google's latest AI image generation model](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 * [2026-02-26, 15:55:48](https://news.ycombinator.com/item?id=47167763) - [New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises](https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/)
+* [2026-02-26, 15:55:48](https://news.ycombinator.com/item?id=47167763) - [AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 * [2026-02-26, 15:53:30](https://news.ycombinator.com/item?id=47167733) - [Why Developers Keep Choosing Claude over Every Other AI](https://www.bhusalmanish.com.np/blog/posts/why-claude-wins-coding.html)
 * [2026-02-26, 15:14:20](https://news.ycombinator.com/item?id=47167171) - [In 2025, Meta paid an effective federal tax rate of 3.5%](https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i)
 * [2026-02-26, 14:24:29](https://news.ycombinator.com/item?id=47166522) - [Kansas Sends Letters to Trans People Demanding the Surrender of Drivers Licenses](https://www.erininthemorning.com/p/kansas-sends-letters-to-trans-people)
@@ -19,6 +24,7 @@
 * [2026-02-26, 13:28:59](https://news.ycombinator.com/item?id=47165792) - [Time Is Different](https://shkspr.mobi/blog/2026/02/this-time-is-different/)
 * [2026-02-26, 13:16:30](https://news.ycombinator.com/item?id=47165648) - [just-bash: Bash for Agents](https://github.com/vercel-labs/just-bash)
 * [2026-02-26, 13:12:54](https://news.ycombinator.com/item?id=47165606) - [Burger King will use AI to check if employees say 'please' and 'thank you'](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
+* [2026-02-26, 13:12:33](https://news.ycombinator.com/item?id=47165602) - [Show HN: Mission Control – Open-source task management for AI agents](https://github.com/MeisnerDan/mission-control)
 * [2026-02-26, 12:52:50](https://news.ycombinator.com/item?id=47165397) - [Anthropic ditches its core safety promise](https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change)
 * [2026-02-26, 12:44:28](https://news.ycombinator.com/item?id=47165299) - [Fentanyl makeover: Core structural redesign could lead to safer pain medications](https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html)
 * [2026-02-26, 12:18:11](https://news.ycombinator.com/item?id=47165060) - [Number of UK workers on zero-hours contracts hits record high ahead of crackdown](https://www.bbc.co.uk/news/articles/czj1m7d4gxpo)
