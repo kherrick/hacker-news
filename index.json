@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-02-26, 18:16:45",
+      "https://news.ycombinator.com/item?id=47169815"
+    ],
+    [
+      "iPhone and iPad approved to handle classified NATO information",
+      "https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 18:11:56",
+      "https://news.ycombinator.com/item?id=47169748"
+    ],
+    [
+      "Twitch: \"Hey, come back! This commercial break can't play while you're away.\"",
+      "https://twitter.com/KryDotExe/status/2026806591517856208"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 17:38:03",
+      "https://news.ycombinator.com/item?id=47169278"
+    ],
+    [
+      "Google Street View in 2026",
+      "https://tech.marksblogg.com/google-street-view-coverage.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 17:28:35",
+      "https://news.ycombinator.com/item?id=47169146"
+    ],
+    [
+      "SynthID",
+      "https://deepmind.google/models/synthid/"
+    ]
+  ],
+  [
+    [
       "2026-02-26, 17:01:05",
       "https://news.ycombinator.com/item?id=47168726"
     ],
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2026-02-26, 16:07:11",
-      "https://news.ycombinator.com/item?id=47167931"
-    ],
-    [
-      "Will vibe coding end like the maker movement?",
-      "https://read.technically.dev/p/vibe-coding-and-the-maker-movement"
-    ]
-  ],
-  [
-    [
       "2026-02-26, 16:02:37",
       "https://news.ycombinator.com/item?id=47167858"
     ],
@@ -65,8 +95,8 @@
       "https://news.ycombinator.com/item?id=47167763"
     ],
     [
-      "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
-      "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/"
+      "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf"
     ]
   ],
   [
@@ -91,22 +121,22 @@
   ],
   [
     [
-      "2026-02-26, 13:28:59",
-      "https://news.ycombinator.com/item?id=47165792"
-    ],
-    [
-      "Time Is Different",
-      "https://shkspr.mobi/blog/2026/02/this-time-is-different/"
-    ]
-  ],
-  [
-    [
       "2026-02-26, 13:16:30",
       "https://news.ycombinator.com/item?id=47165648"
     ],
     [
       "just-bash: Bash for Agents",
       "https://github.com/vercel-labs/just-bash"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 13:12:33",
+      "https://news.ycombinator.com/item?id=47165602"
+    ],
+    [
+      "Show HN: Mission Control – Open-source task management for AI agents",
+      "https://github.com/MeisnerDan/mission-control"
     ]
   ],
   [
@@ -141,6 +171,16 @@
   ],
   [
     [
+      "2026-02-25, 23:55:34",
+      "https://news.ycombinator.com/item?id=47159833"
+    ],
+    [
+      "Steering interpretable language models with concept algebra",
+      "https://www.guidelabs.ai/post/steerling-steering-8b/"
+    ]
+  ],
+  [
+    [
       "2026-02-25, 23:16:40",
       "https://news.ycombinator.com/item?id=47159430"
     ],
@@ -167,16 +207,6 @@
     [
       "How will OpenAI compete?",
       "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 20:29:37",
-      "https://news.ycombinator.com/item?id=47157398"
-    ],
-    [
-      "Making MCP cheaper via CLI",
-      "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html"
     ]
   ],
   [
@@ -211,72 +241,42 @@
   ],
   [
     [
-      "2026-02-25, 16:31:26",
-      "https://news.ycombinator.com/item?id=47153798"
+      "2026-02-24, 23:33:58",
+      "https://news.ycombinator.com/item?id=47145082"
     ],
     [
-      "Bus stop balancing is fast, cheap, and effective",
-      "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/"
+      "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
+      "https://www.playlinex.com/"
     ]
   ],
   [
     [
-      "2026-02-24, 17:18:17",
-      "https://news.ycombinator.com/item?id=47139716"
+      "2026-02-24, 19:00:16",
+      "https://news.ycombinator.com/item?id=47141119"
     ],
     [
-      "Large-Scale Online Deanonymization with LLMs",
-      "https://simonlermen.substack.com/p/large-scale-online-deanonymization"
+      "Show HN: Hacker Smacker – spot great (and terrible) HN commenters at a glance",
+      "https://hackersmacker.org"
     ]
   ],
   [
     [
-      "2026-02-23, 17:01:26",
-      "https://news.ycombinator.com/item?id=47125044"
+      "2026-02-24, 10:41:16",
+      "https://news.ycombinator.com/item?id=47135425"
     ],
     [
-      "Some silly Z3 scripts I wrote",
-      "https://www.hillelwayne.com/post/z3-examples/"
+      "Show HN: Beehive – Multi-Workspace Agent Orchestrator",
+      "https://storozhenko98.github.io/beehive/"
     ]
   ],
   [
     [
-      "2026-02-23, 13:46:45",
-      "https://news.ycombinator.com/item?id=47122272"
+      "2026-02-23, 20:54:34",
+      "https://news.ycombinator.com/item?id=47128645"
     ],
     [
-      "Better to Skip a Year for Hardware Upgrades?",
-      "https://boilingsteam.com/poll-better-to-skip-a-year-for-pc-upgrades/"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 16:25:48",
-      "https://news.ycombinator.com/item?id=47112299"
-    ],
-    [
-      "Artist who “paints” portraits on glass by hitting it with a hammer",
-      "https://simonbergerart.com"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 14:15:09",
-      "https://news.ycombinator.com/item?id=47111164"
-    ],
-    [
-      "A 26-Gram Butterfly-Inspired Robot Achieving Autonomous Tailless Flight",
-      "https://arxiv.org/abs/2602.06811"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 12:13:15",
-      "https://news.ycombinator.com/item?id=47110393"
-    ],
-    [
-      "Writers and Their Day Jobs",
-      "https://lithub.com/the-work-behind-the-writing-on-writers-and-their-day-jobs/"
+      "I baked a pie every day for a year and it changed my life",
+      "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life"
     ]
   ],
   [
