@@ -20,16 +20,16 @@
 * [2026-02-25, 15:37:29](https://news.ycombinator.com/item?id=47152982) - [GNU Texmacs](https://www.texmacs.org/tmweb/home/welcome.en.html)
 * [2026-02-25, 14:21:19](https://news.ycombinator.com/item?id=47151842) - [Show HN: Respectify – A comment moderator that teaches people to argue better](https://respectify.org/)
 * [2026-02-25, 14:02:02](https://news.ycombinator.com/item?id=47151598) - [Launch HN: TeamOut (YC W22) – AI agent for planning company retreats](https://app.teamout.com/ai)
+* [2026-02-25, 13:31:17](https://news.ycombinator.com/item?id=47151233) - [Never buy a .online domain](https://www.0xsid.com/blog/online-tld-is-pain)
 * [2026-02-24, 18:59:31](https://news.ycombinator.com/item?id=47141107) - [Learnings from 4 months of Image-Video VAE experiments](https://www.linum.ai/field-notes/vae-reconstruction-vs-generation)
 * [2026-02-24, 17:18:17](https://news.ycombinator.com/item?id=47139716) - [Large-Scale Online Deanonymization with LLMs](https://simonlermen.substack.com/p/large-scale-online-deanonymization)
 * [2026-02-24, 13:49:39](https://news.ycombinator.com/item?id=47137140) - [Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)](https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/)
-* [2026-02-24, 10:58:29](https://news.ycombinator.com/item?id=47135542) - [The Hydrogen Truck Problem Isn't the Truck](https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/)
 * [2026-02-23, 17:00:00](https://news.ycombinator.com/item?id=47125014) - [The First Fully General Computer Action Model](https://si.inc/posts/fdm1/)
-* [2026-02-22, 22:42:12](https://news.ycombinator.com/item?id=47115574) - [How to fold the Blade Runner origami unicorn (1996)](https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html)
 * [2026-02-22, 16:25:48](https://news.ycombinator.com/item?id=47112299) - [Artist who “paints” portraits on glass by hitting it with a hammer](https://simonbergerart.com)
 * [2026-02-22, 07:30:17](https://news.ycombinator.com/item?id=47109058) - [Quasi-Zenith Satellite System](https://en.wikipedia.org/wiki/Quasi-Zenith_Satellite_System)
 * [2026-02-22, 06:50:39](https://news.ycombinator.com/item?id=47108861) - [The Pleasures and Pains of Coffee (1830)](https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10)
 * [2026-02-21, 21:49:23](https://news.ycombinator.com/item?id=47105175) - [Gauss's Weekday Algorithm, Visualized](https://lukasmetzner.github.io/blog/gauss-weekday.html)
+* [2026-02-21, 14:41:41](https://news.ycombinator.com/item?id=47101271) - [What Pressure Does to an Athlete's Body](https://www.theatlantic.com/culture/2026/02/pressure-olympics-malinin-shiffrin/686097/)
 
 ## [Archives](archives/index.md)
 

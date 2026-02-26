@@ -32,6 +32,7 @@
 * [2026-02-21, 16:55:23](https://news.ycombinator.com/item?id=47102441) - [Catherine of Braganza, the Queen Who Brought Tea to England](https://www.thecollector.com/catherine-braganza-queen-tea-england/)
 * [2026-02-21, 16:27:01](https://news.ycombinator.com/item?id=47102208) - [The Nekonomicon – Nekochan.net Archive, Updated](http://nekonomicon.irixnet.org/)
 * [2026-02-21, 15:52:20](https://news.ycombinator.com/item?id=47101890) - [Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust](https://github.com/Ragnaroek/iron-wolf)
+* [2026-02-21, 14:41:41](https://news.ycombinator.com/item?id=47101271) - [What Pressure Does to an Athlete's Body](https://www.theatlantic.com/culture/2026/02/pressure-olympics-malinin-shiffrin/686097/)
 * [2026-02-21, 14:34:45](https://news.ycombinator.com/item?id=47101200) - [macOS's Little-Known Command-Line Sandboxing Tool](https://igorstechnoclub.com/sandbox-exec/)
 * [2026-02-21, 14:32:16](https://news.ycombinator.com/item?id=47101171) - [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206)
 * [2026-02-21, 14:14:08](https://news.ycombinator.com/item?id=47101034) - [Build Your Own Forth Interpreter](https://codingchallenges.fyi/challenges/challenge-forth/)
