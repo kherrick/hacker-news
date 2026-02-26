@@ -79,6 +79,7 @@
 * [2026-02-22, 06:50:39](https://news.ycombinator.com/item?id=47108861) - [The Pleasures and Pains of Coffee (1830)](https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10)
 * [2026-02-22, 05:40:22](https://news.ycombinator.com/item?id=47108538) - [U.S. Cannot Legally Impose Tariffs Using Section 122 of the Trade Act of 1974](https://ielp.worldtradelaw.net/2026/01/guest-post-president-trump-cannot-legally-impose-tariffs-using-section-122-of-the-trade-act-of-1974/)
 * [2026-02-22, 04:45:06](https://news.ycombinator.com/item?id=47108256) - [Iranian Students Protest as Anger Grows](https://www.wsj.com/world/middle-east/iranian-students-protest-as-anger-grows-89a6a44e)
+* [2026-02-22, 03:54:01](https://news.ycombinator.com/item?id=47107974) - [Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents](https://machinelearning.apple.com/research/ferret-ui)
 * [2026-02-22, 03:24:22](https://news.ycombinator.com/item?id=47107819) - [People Loved the Dot-Com Boom. The A.I. Boom, Not So Much](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)
 * [2026-02-22, 03:18:36](https://news.ycombinator.com/item?id=47107781) - [Japanese Woodblock Print Search](https://ukiyo-e.org/)
 * [2026-02-22, 02:29:06](https://news.ycombinator.com/item?id=47107512) - [Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive](https://github.com/Leading-AI-IO/palantir-ontology-strategy)
