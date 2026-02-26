@@ -16,11 +16,10 @@
 * [2026-02-26, 15:55:48](https://news.ycombinator.com/item?id=47167763) - [AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 * [2026-02-26, 14:05:46](https://news.ycombinator.com/item?id=47166264) - [BuildKit: Docker's Hidden Gem That Can Build Almost Anything](https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/)
 * [2026-02-26, 13:28:59](https://news.ycombinator.com/item?id=47165792) - [This time is different](https://shkspr.mobi/blog/2026/02/this-time-is-different/)
-* [2026-02-26, 13:16:30](https://news.ycombinator.com/item?id=47165648) - [just-bash: Bash for Agents](https://github.com/vercel-labs/just-bash)
+* [2026-02-26, 13:16:30](https://news.ycombinator.com/item?id=47165648) - [Just-bash: Bash for Agents](https://github.com/vercel-labs/just-bash)
 * [2026-02-26, 13:12:33](https://news.ycombinator.com/item?id=47165602) - [Show HN: Mission Control – Open-source task management for AI agents](https://github.com/MeisnerDan/mission-control)
 * [2026-02-26, 10:40:45](https://news.ycombinator.com/item?id=47164270) - [Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line](https://gitlab.com/here_forawhile/terminalphone)
 * [2026-02-26, 09:35:08](https://news.ycombinator.com/item?id=47163885) - [Tell HN: YC companies scrape GitHub activity, send spam emails to users](https://news.ycombinator.com/item?id=47163885)
-* [2026-02-25, 23:55:34](https://news.ycombinator.com/item?id=47159833) - [Steering interpretable language models with concept algebra](https://www.guidelabs.ai/post/steerling-steering-8b/)
 * [2026-02-25, 23:16:40](https://news.ycombinator.com/item?id=47159430) - [Banned in California](https://www.bannedincalifornia.org/)
 * [2026-02-25, 20:16:47](https://news.ycombinator.com/item?id=47157224) - [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
 * [2026-02-24, 23:33:58](https://news.ycombinator.com/item?id=47145082) - [Show HN: Linex – A daily challenge: placing pieces on a board that fights back](https://www.playlinex.com/)
@@ -30,6 +29,7 @@
 * [2026-02-23, 16:58:58](https://news.ycombinator.com/item?id=47124999) - [Museum of Plugs and Sockets](https://plugsocketmuseum.nl/index.html)
 * [2026-02-23, 12:19:43](https://news.ycombinator.com/item?id=47121352) - [Lidar waveforms are worth 40x128x33 words](https://openaccess.thecvf.com/content/ICCV2025/html/Scheuble_Lidar_Waveforms_are_Worth_40x128x33_Words_ICCV_2025_paper.html)
 * [2026-02-23, 08:39:47](https://news.ycombinator.com/item?id=47119665) - [The Wolfram S Combinator Challenge](https://www.combinatorprize.org/)
+* [2026-02-23, 07:04:59](https://news.ycombinator.com/item?id=47119013) - [The Ur-\"Conspiracy\": History of a Pseudoconcept](https://www.theparisreview.org/blog/2026/02/12/the-ur-conspiracy-history-of-a-pseudoconcept/)
 
 ## [Archives](archives/index.md)
 

@@ -82,6 +82,7 @@
 * [2026-02-23, 07:43:47](https://news.ycombinator.com/item?id=47119274) - [Magical Mushroom – Europe's first industrial-scale mycelium packaging producer](https://magicalmushroom.com/index)
 * [2026-02-23, 07:33:57](https://news.ycombinator.com/item?id=47119210) - [Pope tells priests to use their brains, not AI, to write homilies](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
 * [2026-02-23, 07:19:45](https://news.ycombinator.com/item?id=47119119) - [Out of Light Adjust Share: Caravaggio, La Tour, and the Art of Attention](https://harpers.org/archive/2026/03/out-of-light-nicole-krauss-caravaggio-georges-de-la-tour/)
+* [2026-02-23, 07:04:59](https://news.ycombinator.com/item?id=47119013) - [The Ur-\"Conspiracy\": History of a Pseudoconcept](https://www.theparisreview.org/blog/2026/02/12/the-ur-conspiracy-history-of-a-pseudoconcept/)
 * [2026-02-23, 07:01:20](https://news.ycombinator.com/item?id=47118990) - [Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria](https://bitmovin.com/careers/8023403002/)
 * [2026-02-23, 06:35:32](https://news.ycombinator.com/item?id=47118838) - [Genetic underpinnings of chills from art and music](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012002)
 * [2026-02-23, 06:24:19](https://news.ycombinator.com/item?id=47118774) - [Ask HN: Have you ever cloned a cat?](https://news.ycombinator.com/item?id=47118774)
