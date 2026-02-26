@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-26, 20:43:11](https://news.ycombinator.com/item?id=47171771) - [America, and probably the world, stands on a precipice](https://garymarcus.substack.com/p/america-and-probably-the-world-stands)
 * [2026-02-26, 18:47:27](https://news.ycombinator.com/item?id=47170299) - [Show HN: Rev-dep – 20x faster knip.dev alternative build in Go](https://github.com/jayu/rev-dep)
 * [2026-02-26, 18:38:38](https://news.ycombinator.com/item?id=47170174) - [Launch HN: Cardboard (YC W26) – Agentic video editor](https://www.usecardboard.com/)
 * [2026-02-26, 18:37:59](https://news.ycombinator.com/item?id=47170157) - [OsmAnd's Faster Offline Navigation](https://osmand.net/blog/fast-routing/)
@@ -22,7 +23,6 @@
 * [2026-02-25, 23:55:34](https://news.ycombinator.com/item?id=47159833) - [Steering interpretable language models with concept algebra](https://www.guidelabs.ai/post/steerling-steering-8b/)
 * [2026-02-25, 23:16:40](https://news.ycombinator.com/item?id=47159430) - [Banned in California](https://www.bannedincalifornia.org/)
 * [2026-02-25, 20:16:47](https://news.ycombinator.com/item?id=47157224) - [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
-* [2026-02-25, 19:54:14](https://news.ycombinator.com/item?id=47156925) - [Google API keys weren't secrets, but then Gemini changed the rules](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules)
 * [2026-02-24, 23:33:58](https://news.ycombinator.com/item?id=47145082) - [Show HN: Linex – A daily challenge: placing pieces on a board that fights back](https://www.playlinex.com/)
 * [2026-02-24, 19:00:16](https://news.ycombinator.com/item?id=47141119) - [Show HN: Hacker Smacker – spot great (and terrible) HN commenters at a glance](https://hackersmacker.org)
 * [2026-02-24, 10:41:16](https://news.ycombinator.com/item?id=47135425) - [Show HN: Beehive – Multi-Workspace Agent Orchestrator](https://storozhenko98.github.io/beehive/)

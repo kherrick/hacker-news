@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-26](index.md)
 
+* [2026-02-26, 20:43:11](https://news.ycombinator.com/item?id=47171771) - [America, and probably the world, stands on a precipice](https://garymarcus.substack.com/p/america-and-probably-the-world-stands)
 * [2026-02-26, 18:47:27](https://news.ycombinator.com/item?id=47170299) - [Show HN: Rev-dep – 20x faster knip.dev alternative build in Go](https://github.com/jayu/rev-dep)
 * [2026-02-26, 18:38:38](https://news.ycombinator.com/item?id=47170174) - [Launch HN: Cardboard (YC W26) – Agentic video editor](https://www.usecardboard.com/)
 * [2026-02-26, 18:37:59](https://news.ycombinator.com/item?id=47170157) - [OsmAnd's Faster Offline Navigation](https://osmand.net/blog/fast-routing/)
