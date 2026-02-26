@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-26](index.md)
 
+* [2026-02-26, 14:24:29](https://news.ycombinator.com/item?id=47166522) - [Kansas Sends Letters to Trans People Demanding the Surrender of Drivers Licenses](https://www.erininthemorning.com/p/kansas-sends-letters-to-trans-people)
+* [2026-02-26, 14:21:05](https://news.ycombinator.com/item?id=47166473) - [Story of XZ Backdoor [video]](https://www.youtube.com/watch?v=aoag03mSuXQ)
+* [2026-02-26, 13:16:30](https://news.ycombinator.com/item?id=47165648) - [just-bash: Bash for Agents](https://github.com/vercel-labs/just-bash)
+* [2026-02-26, 13:12:54](https://news.ycombinator.com/item?id=47165606) - [Burger King will use AI to check if employees say 'please' and 'thank you'](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
 * [2026-02-26, 12:52:50](https://news.ycombinator.com/item?id=47165397) - [Anthropic ditches its core safety promise](https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change)
 * [2026-02-26, 12:44:28](https://news.ycombinator.com/item?id=47165299) - [Fentanyl makeover: Core structural redesign could lead to safer pain medications](https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html)
 * [2026-02-26, 12:18:11](https://news.ycombinator.com/item?id=47165060) - [Number of UK workers on zero-hours contracts hits record high ahead of crackdown](https://www.bbc.co.uk/news/articles/czj1m7d4gxpo)
