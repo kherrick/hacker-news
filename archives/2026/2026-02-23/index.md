@@ -10,6 +10,7 @@
 * [2026-02-23, 22:11:34](https://news.ycombinator.com/item?id=47129727) - [Making Wolfram Tech Available as a Foundation Tool for LLM Systems](https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/)
 * [2026-02-23, 22:05:27](https://news.ycombinator.com/item?id=47129647) - [You are not supposed to install OpenClaw on your personal computer](https://twitter.com/i/status/2025987544853188836)
 * [2026-02-23, 22:05:27](https://news.ycombinator.com/item?id=47129647) - [You are not supposed to install OpenClaw on your personal computer](https://twitter.com/BenjaminBadejo/status/2025987544853188836)
+* [2026-02-23, 22:00:58](https://news.ycombinator.com/item?id=47129589) - [The Physics and Economics of Moving 44 Tonnes at 56mph](https://www.mikeayles.com/blog/heavy-haulage-basics/)
 * [2026-02-23, 21:47:29](https://news.ycombinator.com/item?id=47129415) - [AI-powered reverse-engineering of Rosetta 2 (for Linux VM)](https://github.com/Inokinoki/attesor)
 * [2026-02-23, 21:44:28](https://news.ycombinator.com/item?id=47129361) - [FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
 * [2026-02-23, 21:15:20](https://news.ycombinator.com/item?id=47128960) - [Flock cameras gifted by Horowitz Foundation, avoiding public oversight](https://thenevadaindependent.com/article/vegas-police-are-big-users-of-license-plate-readers-public-has-little-input-because-its-a-gift)

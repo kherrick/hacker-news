@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-02-26](index.md)
 
+* [2026-02-26, 12:02:14](https://news.ycombinator.com/item?id=47164933) - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)
+* [2026-02-26, 11:58:13](https://news.ycombinator.com/item?id=47164892) - [Men in their 50s may be aging faster due to toxic 'forever chemicals'](https://www.cnn.com/2026/02/26/health/forever-chemicals-aging-men-wellness)
 * [2026-02-26, 11:26:10](https://news.ycombinator.com/item?id=47164605) - [You Want to Visit the UK? You Better Have a Google Play or App Store Account](https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/)
 * [2026-02-26, 11:01:10](https://news.ycombinator.com/item?id=47164398) - [Google API Keys Weren't Secrets. But Then Gemini Changed the Rules](https://simonwillison.net/2026/Feb/26/google-api-keys/)
 * [2026-02-26, 10:40:45](https://news.ycombinator.com/item?id=47164270) - [Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line](https://gitlab.com/here_forawhile/terminalphone)
 * [2026-02-26, 10:08:01](https://news.ycombinator.com/item?id=47164079) - [Show HN: Better Hub – A better GitHub experience](https://www.better-hub.com/)
+* [2026-02-26, 09:51:48](https://news.ycombinator.com/item?id=47163985) - [Technical Excellence Is Not Enough](https://raccoon.land/posts/technical-excellence-is-not-enough/)
 * [2026-02-26, 09:35:08](https://news.ycombinator.com/item?id=47163885) - [Tell HN: YC companies scrape GitHub activity, send spam emails to users](https://news.ycombinator.com/item?id=47163885)
 * [2026-02-26, 04:59:01](https://news.ycombinator.com/item?id=47162059) - [I don't know how you get here from \"predict the next word.\"](https://www.grumpy-economist.com/p/refine)
 * [2026-02-26, 03:36:57](https://news.ycombinator.com/item?id=47161498) - [Self-improving software won't produce Skynet](https://contalign.jefflunt.com/self-improving-software/)
