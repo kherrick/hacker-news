@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-26](index.md)
 
+* [2026-02-26, 23:16:30](https://news.ycombinator.com/item?id=47173583) - [Netflix Backs Out of Warner Bros. Bidding, Paramount Set to Win](https://www.hollywoodreporter.com/business/business-news/netflix-backs-out-warners-deal-paramount-win-1236516763/)
+* [2026-02-26, 23:14:44](https://news.ycombinator.com/item?id=47173559) - [Anthropic says company 'cannot in good conscience accede' to Pentagon's demands](https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda)
 * [2026-02-26, 22:42:47](https://news.ycombinator.com/item?id=47173121) - [Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
 * [2026-02-26, 22:14:11](https://news.ycombinator.com/item?id=47172730) - [Hydroph0bia – a fixed SecureBoot bypass for UEFI firmware based on Insyde H2O](https://coderush.me/hydroph0bia-part3/)
 * [2026-02-26, 22:09:45](https://news.ycombinator.com/item?id=47172664) - [Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/)
