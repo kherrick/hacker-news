@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-26, 23:16:30",
+      "https://news.ycombinator.com/item?id=47173583"
+    ],
+    [
+      "Netflix Backs Out of Warner Bros. Bidding, Paramount Set to Win",
+      "https://www.hollywoodreporter.com/business/business-news/netflix-backs-out-warners-deal-paramount-win-1236516763/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 23:14:44",
+      "https://news.ycombinator.com/item?id=47173559"
+    ],
+    [
+      "Anthropic says company 'cannot in good conscience accede' to Pentagon's demands",
+      "https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda"
+    ]
+  ],
+  [
+    [
       "2026-02-26, 22:42:47",
       "https://news.ycombinator.com/item?id=47173121"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47172730"
     ],
     [
-      "Hydroph0bia – a fixed SecureBoot bypass for UEFI firmware based on Insyde H2O",
+      "Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)",
       "https://coderush.me/hydroph0bia-part3/"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "Show HN: Deff – Side-by-side Git diff review in your terminal",
       "https://github.com/flamestro/deff"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 17:38:03",
-      "https://news.ycombinator.com/item?id=47169278"
-    ],
-    [
-      "Google Street View in 2026",
-      "https://tech.marksblogg.com/google-street-view-coverage.html"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=47141119"
     ],
     [
-      "Show HN: Hacker Smacker – spot great (and terrible) HN commenters at a glance",
+      "Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance",
       "https://hackersmacker.org"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "Understanding the Go Runtime: The Memory Allocator",
       "https://internals-for-interns.com/posts/go-memory-allocator/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 22:00:58",
-      "https://news.ycombinator.com/item?id=47129589"
-    ],
-    [
-      "The Physics and Economics of Moving 44 Tonnes at 56mph",
-      "https://www.mikeayles.com/blog/heavy-haulage-basics/"
     ]
   ],
   [
