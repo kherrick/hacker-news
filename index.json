@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-26, 16:02:37",
+      "https://news.ycombinator.com/item?id=47167858"
+    ],
+    [
+      "Nano Banana 2: Google's latest AI image generation model",
+      "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 15:55:48",
+      "https://news.ycombinator.com/item?id=47167763"
+    ],
+    [
+      "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
+      "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 15:53:30",
+      "https://news.ycombinator.com/item?id=47167733"
+    ],
+    [
+      "Why Developers Keep Choosing Claude over Every Other AI",
+      "https://www.bhusalmanish.com.np/blog/posts/why-claude-wins-coding.html"
+    ]
+  ],
+  [
+    [
       "2026-02-26, 15:14:20",
       "https://news.ycombinator.com/item?id=47167171"
     ],
@@ -27,6 +57,16 @@
     [
       "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
       "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 13:28:59",
+      "https://news.ycombinator.com/item?id=47165792"
+    ],
+    [
+      "Time Is Different",
+      "https://shkspr.mobi/blog/2026/02/this-time-is-different/"
     ]
   ],
   [
@@ -101,26 +141,6 @@
   ],
   [
     [
-      "2026-02-26, 02:43:26",
-      "https://news.ycombinator.com/item?id=47161160"
-    ],
-    [
-      "RAM now represents 35 percent of bill of materials for HP PCs",
-      "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 00:37:32",
-      "https://news.ycombinator.com/item?id=47160226"
-    ],
-    [
-      "Tech companies shouldn't be bullied into doing surveillance",
-      "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance"
-    ]
-  ],
-  [
-    [
       "2026-02-25, 23:16:40",
       "https://news.ycombinator.com/item?id=47159430"
     ],
@@ -147,16 +167,6 @@
     [
       "How will OpenAI compete?",
       "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 21:05:15",
-      "https://news.ycombinator.com/item?id=47157841"
-    ],
-    [
-      "An autopsy of AI-generated 3D slop",
-      "https://aircada.com/blog/ai-vs-human-3d-ecommerce"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-02-25, 14:21:19",
-      "https://news.ycombinator.com/item?id=47151842"
-    ],
-    [
-      "Show HN: Respectify – A comment moderator that teaches people to argue better",
-      "https://respectify.org/"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 17:18:17",
       "https://news.ycombinator.com/item?id=47139716"
     ],
@@ -237,16 +237,6 @@
     [
       "Some silly Z3 scripts I wrote",
       "https://www.hillelwayne.com/post/z3-examples/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 17:00:00",
-      "https://news.ycombinator.com/item?id=47125014"
-    ],
-    [
-      "The First Fully General Computer Action Model",
-      "https://si.inc/posts/fdm1/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Show HN: Modern Reimplementation of the Speck Molecule Renderer",
       "https://github.com/vangelov/modern-speck"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 03:54:01",
+      "https://news.ycombinator.com/item?id=47107974"
+    ],
+    [
+      "Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents",
+      "https://machinelearning.apple.com/research/ferret-ui"
     ]
   ],
   [
