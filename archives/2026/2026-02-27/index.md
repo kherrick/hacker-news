@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-27](index.md)
 
+* [2026-02-27, 15:14:42](https://news.ycombinator.com/item?id=47181471) - [Show HN: Badge that shows how well your codebase fits in an LLM's context window](https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens)
+* [2026-02-27, 15:09:04](https://news.ycombinator.com/item?id=47181391) - [Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices](https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0)
+* [2026-02-27, 14:56:05](https://news.ycombinator.com/item?id=47181211) - [OpenAI raises $110B on $730B pre-money valuation](https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/)
+* [2026-02-27, 14:44:52](https://news.ycombinator.com/item?id=47181051) - [OpenAI's $110B funding round (investments from Amazon, Nvidia, SoftBank)](https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27/)
 * [2026-02-27, 14:02:53](https://news.ycombinator.com/item?id=47180569) - [We deserve a better streams API for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/)
 * [2026-02-27, 13:06:50](https://news.ycombinator.com/item?id=47180083) - [Show HN: RetroTick – Run classic Windows EXEs in the browser](https://retrotick.com/)
 * [2026-02-27, 13:02:56](https://news.ycombinator.com/item?id=47180040) - [Generative AI Use and Depressive Symptoms Among US Adults](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2844128)
