@@ -63,6 +63,7 @@
 * [2026-02-24, 11:00:33](https://news.ycombinator.com/item?id=47135562) - [Atlantic: Sam Altman Is Losing His Grip on Humanity](https://www.theatlantic.com/technology/2026/02/sam-altman-train-a-human/686120/)
 * [2026-02-24, 10:58:29](https://news.ycombinator.com/item?id=47135542) - [The Hydrogen Truck Problem Isn't the Truck](https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/)
 * [2026-02-24, 10:41:16](https://news.ycombinator.com/item?id=47135425) - [Show HN: Beehive – Multi-Workspace Agent Orchestrator](https://storozhenko98.github.io/beehive/)
+* [2026-02-24, 10:06:43](https://news.ycombinator.com/item?id=47135159) - [Sprites on the Web](https://www.joshwcomeau.com/animation/sprites/)
 * [2026-02-24, 09:37:19](https://news.ycombinator.com/item?id=47134946) - [AI-generated replies really are a scourge these days](https://twitter.com/simonw/status/2025909963445707171)
 * [2026-02-24, 09:15:56](https://news.ycombinator.com/item?id=47134779) - [Decimal-Java is a library to convert java.math.BigDecimal to and from IEEE-754r](https://github.com/FirebirdSQL/decimal-java)
 * [2026-02-24, 07:41:59](https://news.ycombinator.com/item?id=47134063) - [The Engine Behind the Hype](https://www.onuruzunismail.com/blog/the-engine-behind-the-hype)
