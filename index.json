@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-27, 06:21:23",
+      "https://news.ycombinator.com/item?id=47177186"
+    ],
+    [
+      "The normalization of corruption in organizations (2003) [pdf]",
+      "https://gwern.net/doc/sociology/2003-ashforth.pdf"
+    ]
+  ],
+  [
+    [
       "2026-02-27, 04:38:46",
       "https://news.ycombinator.com/item?id=47176581"
     ],
@@ -27,16 +37,6 @@
     [
       "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
       "https://github.com/Frikallo/parakeet.cpp"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 03:34:12",
-      "https://news.ycombinator.com/item?id=47176157"
-    ],
-    [
-      "A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives",
-      "https://bookriot.com/hr7661-book-ban-legislation/"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "Palm OS User Interface Guidelines (2003) [pdf]",
       "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 16:02:37",
-      "https://news.ycombinator.com/item?id=47167858"
-    ],
-    [
-      "Nano Banana 2: Google's latest AI image generation model",
-      "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Julia: Performance Tips",
       "https://docs.julialang.org/en/v1/manual/performance-tips/"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 14:56:58",
+      "https://news.ycombinator.com/item?id=47123109"
+    ],
+    [
+      "The Origins of Agar",
+      "https://www.asimov.press/p/agar"
     ]
   ]
 ]
