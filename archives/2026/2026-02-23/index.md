@@ -72,6 +72,7 @@
 * [2026-02-23, 11:44:10](https://news.ycombinator.com/item?id=47121029) - [Hetzner (European hosting provider) to increase prices by up to 38%](https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/)
 * [2026-02-23, 11:29:30](https://news.ycombinator.com/item?id=47120901) - [Don't host email yourself – your reminder in 2026](https://www.coinerella.com/dont-host-email-yourself-your-reminder-in-2026/)
 * [2026-02-23, 11:29:22](https://news.ycombinator.com/item?id=47120899) - [Ladybird Browser adopts Rust](https://ladybird.org/posts/adopting-rust/)
+* [2026-02-23, 11:25:51](https://news.ycombinator.com/item?id=47120869) - [Demystifying Debuggers, Part 5: Instruction-Level Stepping and Breakpoints](https://www.dgtlgrove.com/p/demystifying-debuggers-part-5-instruction)
 * [2026-02-23, 09:58:33](https://news.ycombinator.com/item?id=47120201) - [SETI@home: Data Acquisition and Front-End Processing](https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7)
 * [2026-02-23, 09:57:33](https://news.ycombinator.com/item?id=47120196) - [QRTape – Audio Playback from Paper Tape with Computer Vision](http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html)
 * [2026-02-23, 09:56:57](https://news.ycombinator.com/item?id=47120188) - [Hacker News.love – 22 projects Hacker News didn't love](https://hackernews.love/)
