@@ -46,6 +46,7 @@
 * [2026-02-23, 16:58:58](https://news.ycombinator.com/item?id=47124999) - [Museum of Plugs and Sockets](https://plugsocketmuseum.nl/index.html)
 * [2026-02-23, 16:51:03](https://news.ycombinator.com/item?id=47124877) - [Large study finds link between cannabis use in teens and psychosis later](https://text.npr.org/nx-s1-5719338)
 * [2026-02-23, 16:24:44](https://news.ycombinator.com/item?id=47124475) - [Silicon Valley can't import talent like before. So it's exporting jobs](https://restofworld.org/2026/h1b-visa-impact-india-tech-hiring-faamng/)
+* [2026-02-23, 16:23:01](https://news.ycombinator.com/item?id=47124454) - [An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published](https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html)
 * [2026-02-23, 16:14:10](https://news.ycombinator.com/item?id=47124325) - [C99 implementation of new O(m log^(2/3) n) shortest path algorithm](https://github.com/danalec/DMMSY-SSSP)
 * [2026-02-23, 16:02:48](https://news.ycombinator.com/item?id=47124171) - [The Missing Semester of Your CS Education – Revised for 2026](https://missing.csail.mit.edu/)
 * [2026-02-23, 16:01:18](https://news.ycombinator.com/item?id=47124149) - [A simple web we own](https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html)
