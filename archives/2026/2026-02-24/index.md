@@ -33,6 +33,7 @@
 * [2026-02-24, 18:01:16](https://news.ycombinator.com/item?id=47140332) - [Show HN: Tag Promptless on any GitHub PR/Issue to get updated user-facing docs](https://news.ycombinator.com/item?id=47140332)
 * [2026-02-24, 18:00:37](https://news.ycombinator.com/item?id=47140322) - [Show HN: Emdash – Open-source agentic development environment](https://github.com/generalaction/emdash)
 * [2026-02-24, 17:40:40](https://news.ycombinator.com/item?id=47140042) - [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
+* [2026-02-24, 17:31:05](https://news.ycombinator.com/item?id=47139911) - [An interactive intro to quadtrees](https://growingswe.com/blog/quadtrees)
 * [2026-02-24, 17:30:19](https://news.ycombinator.com/item?id=47139902) - [HuggingFace Agent Skills](https://github.com/huggingface/skills)
 * [2026-02-24, 17:21:11](https://news.ycombinator.com/item?id=47139765) - [Open Letter to Google on Mandatory Developer Registration for App Distribution](https://keepandroidopen.org/open-letter/)
 * [2026-02-24, 17:18:17](https://news.ycombinator.com/item?id=47139716) - [Large-Scale Online Deanonymization with LLMs](https://simonlermen.substack.com/p/large-scale-online-deanonymization)
