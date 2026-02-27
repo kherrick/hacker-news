@@ -52,6 +52,7 @@
 * [2026-02-26, 09:51:48](https://news.ycombinator.com/item?id=47163985) - [Technical Excellence Is Not Enough](https://raccoon.land/posts/technical-excellence-is-not-enough/)
 * [2026-02-26, 09:35:08](https://news.ycombinator.com/item?id=47163885) - [Tell HN: YC companies scrape GitHub activity, send spam emails to users](https://news.ycombinator.com/item?id=47163885)
 * [2026-02-26, 04:59:01](https://news.ycombinator.com/item?id=47162059) - [I don't know how you get here from \"predict the next word.\"](https://www.grumpy-economist.com/p/refine)
+* [2026-02-26, 04:34:26](https://news.ycombinator.com/item?id=47161889) - [Move tests to closed source repo](https://github.com/tldraw/tldraw/issues/8082)
 * [2026-02-26, 03:36:57](https://news.ycombinator.com/item?id=47161498) - [Self-improving software won't produce Skynet](https://contalign.jefflunt.com/self-improving-software/)
 * [2026-02-26, 02:43:26](https://news.ycombinator.com/item?id=47161160) - [RAM now represents 35 percent of bill of materials for HP PCs](https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/)
 * [2026-02-26, 02:19:02](https://news.ycombinator.com/item?id=47160980) - [Show HN: OpenSwarm – Multi‑Agent Claude CLI Orchestrator for Linear/GitHub](https://github.com/Intrect-io/OpenSwarm)
