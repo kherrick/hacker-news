@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-02-27, 03:48:05",
+      "https://news.ycombinator.com/item?id=47176239"
+    ],
+    [
+      "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
+      "https://github.com/Frikallo/parakeet.cpp"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 03:34:12",
+      "https://news.ycombinator.com/item?id=47176157"
+    ],
+    [
+      "A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives",
+      "https://bookriot.com/hr7661-book-ban-legislation/"
+    ]
+  ],
+  [
+    [
       "2026-02-27, 03:08:09",
       "https://news.ycombinator.com/item?id=47175931"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2026-02-26, 13:28:59",
-      "https://news.ycombinator.com/item?id=47165792"
-    ],
-    [
-      "This time is different",
-      "https://shkspr.mobi/blog/2026/02/this-time-is-different/"
-    ]
-  ],
-  [
-    [
       "2026-02-26, 04:34:26",
       "https://news.ycombinator.com/item?id=47161889"
     ],
     [
       "Move tests to closed source repo",
       "https://github.com/tldraw/tldraw/issues/8082"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 23:55:34",
-      "https://news.ycombinator.com/item?id=47159833"
-    ],
-    [
-      "Steering interpretable language models with concept algebra",
-      "https://www.guidelabs.ai/post/steerling-steering-8b/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-02-23, 08:39:47",
-      "https://news.ycombinator.com/item?id=47119665"
+      "2026-02-23, 11:25:51",
+      "https://news.ycombinator.com/item?id=47120869"
     ],
     [
-      "The Wolfram S Combinator Challenge",
-      "https://www.combinatorprize.org/"
+      "Demystifying Debuggers, Part 5: Instruction-Level Stepping and Breakpoints",
+      "https://www.dgtlgrove.com/p/demystifying-debuggers-part-5-instruction"
     ]
   ],
   [
