@@ -38,6 +38,7 @@
 * [2026-02-25, 14:48:17](https://news.ycombinator.com/item?id=47152252) - [US orders diplomats to fight data sovereignty initiatives](https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/)
 * [2026-02-25, 14:37:21](https://news.ycombinator.com/item?id=47152085) - [New accounts on HN 10x more likely to use em-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
 * [2026-02-25, 14:31:35](https://news.ycombinator.com/item?id=47151995) - [Show HN: Django Control Room – All Your Tools Inside the Django Admin](https://github.com/yassi/dj-control-room)
+* [2026-02-25, 14:29:48](https://news.ycombinator.com/item?id=47151961) - [What was the first life restoration of a sauropod?](https://svpow.com/2026/02/02/what-was-the-first-life-restoration-of-a-sauropod/)
 * [2026-02-25, 14:21:19](https://news.ycombinator.com/item?id=47151842) - [Show HN: Respectify – a comment moderator that teaches people to argue better](https://respectify.org/)
 * [2026-02-25, 14:17:14](https://news.ycombinator.com/item?id=47151784) - [Show HN: Clocksimulator.com – A minimalist, distraction-free analog clock](https://www.clocksimulator.com/)
 * [2026-02-25, 14:02:02](https://news.ycombinator.com/item?id=47151598) - [Launch HN: TeamOut (YC W22) – AI agent for planning company events](https://app.teamout.com/ai)
