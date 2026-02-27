@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-27, 04:38:46",
+      "https://news.ycombinator.com/item?id=47176581"
+    ],
+    [
+      "Dear Time Lords: Freeze Computers in 1993",
+      "https://graydon2.dreamwidth.org/322461.html"
+    ]
+  ],
+  [
+    [
       "2026-02-27, 03:49:48",
       "https://news.ycombinator.com/item?id=47176257"
     ],
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2026-02-25, 12:30:36",
+      "https://news.ycombinator.com/item?id=47150674"
+    ],
+    [
+      "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
+      "https://paultendo.github.io/posts/confusable-vision-visual-similarity/"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 23:33:58",
       "https://news.ycombinator.com/item?id=47145082"
     ],
@@ -217,6 +237,16 @@
     [
       "Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance",
       "https://hackersmacker.org"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 15:56:32",
+      "https://news.ycombinator.com/item?id=47138698"
+    ],
+    [
+      "80386 Protection",
+      "https://nand2mario.github.io/posts/2026/80386_protection/"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
       "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 12:19:43",
-      "https://news.ycombinator.com/item?id=47121352"
-    ],
-    [
-      "Lidar waveforms are worth 40x128x33 words",
-      "https://openaccess.thecvf.com/content/ICCV2025/html/Scheuble_Lidar_Waveforms_are_Worth_40x128x33_Words_ICCV_2025_paper.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 11:25:51",
-      "https://news.ycombinator.com/item?id=47120869"
-    ],
-    [
-      "Demystifying Debuggers, Part 5: Instruction-Level Stepping and Breakpoints",
-      "https://www.dgtlgrove.com/p/demystifying-debuggers-part-5-instruction"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 11:27:14",
-      "https://news.ycombinator.com/item?id=47110159"
-    ],
-    [
-      "Hacking Tauri for Designer",
-      "https://yujonglee.com/blog/hacking-tauri-for-designer/"
     ]
   ]
 ]
