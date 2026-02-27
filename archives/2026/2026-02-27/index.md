@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-27](index.md)
 
+* [2026-02-27, 13:06:50](https://news.ycombinator.com/item?id=47180083) - [Show HN: RetroTick – Run classic Windows EXEs in the browser](https://retrotick.com/)
 * [2026-02-27, 12:01:36](https://news.ycombinator.com/item?id=47179553) - [PostmarketOS in 2026-02: generic kernels, bans use of generative AI](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 * [2026-02-27, 11:37:49](https://news.ycombinator.com/item?id=47179356) - [Lawmakers say US Military used laser to take down Border Protection drone in TX](https://apnews.com/article/military-laser-border-drone-texas-airport-55aaab7093f7d6dd174f909f3875001c)
 * [2026-02-27, 10:52:07](https://news.ycombinator.com/item?id=47179038) - [MitID, Denmarks sole digital ID, has been down for over an hour and counting](https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid)
