@@ -47,6 +47,7 @@
 * [2026-02-24, 15:58:08](https://news.ycombinator.com/item?id=47138718) - [Software 3.1? – AI Functions](https://blog.mikegchambers.com/posts/software-31-ai-functions/)
 * [2026-02-24, 15:56:32](https://news.ycombinator.com/item?id=47138698) - [80386 Protection](https://nand2mario.github.io/posts/2026/80386_protection/)
 * [2026-02-24, 15:50:54](https://news.ycombinator.com/item?id=47138631) - [Show HN: Quantifying opportunity cost with a deliberately \"simple\" web app](https://shouldhavebought.com/)
+* [2026-02-24, 15:32:00](https://news.ycombinator.com/item?id=47138429) - [Distributed Systems for Fun and Profit](https://book.mixu.net/distsys/single-page.html)
 * [2026-02-24, 15:25:38](https://news.ycombinator.com/item?id=47138347) - [Federal data breach may be the biggest hack in US history](https://morningoverview.com/massive-federal-data-breach-may-be-the-biggest-hack-in-us-history/)
 * [2026-02-24, 15:16:08](https://news.ycombinator.com/item?id=47138213) - [The history of knocking on wood](https://resobscura.substack.com/p/neolithic-habits-machine-age-tools)
 * [2026-02-24, 14:37:52](https://news.ycombinator.com/item?id=47137711) - [Stripe valued at $159B, 2025 annual letter](https://stripe.com/newsroom/news/stripe-2025-update)
