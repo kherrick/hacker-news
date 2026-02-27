@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-02-26, 23:16:30",
-      "https://news.ycombinator.com/item?id=47173583"
+      "2026-02-27, 01:18:18",
+      "https://news.ycombinator.com/item?id=47175013"
     ],
     [
-      "Netflix Backs Out of Warner Bros. Bidding, Paramount Set to Win",
-      "https://www.hollywoodreporter.com/business/business-news/netflix-backs-out-warners-deal-paramount-win-1236516763/"
+      "LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity",
+      "https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer"
     ]
   ],
   [
     [
-      "2026-02-26, 23:14:44",
-      "https://news.ycombinator.com/item?id=47173559"
+      "2026-02-27, 00:53:57",
+      "https://news.ycombinator.com/item?id=47174777"
     ],
     [
-      "Anthropic says company 'cannot in good conscience accede' to Pentagon's demands",
-      "https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda"
+      "Palantir's AI Is Playing a Major Role in Tracking Gaza Aid Deliveries",
+      "https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2026-02-26, 18:47:27",
-      "https://news.ycombinator.com/item?id=47170299"
-    ],
-    [
-      "Show HN: Rev-dep – 20x faster knip.dev alternative build in Go",
-      "https://github.com/jayu/rev-dep"
-    ]
-  ],
-  [
-    [
       "2026-02-26, 18:38:38",
       "https://news.ycombinator.com/item?id=47170174"
     ],
@@ -127,26 +117,6 @@
     [
       "Palm OS User Interface Guidelines (2003) [pdf]",
       "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 17:00:25",
-      "https://news.ycombinator.com/item?id=47168721"
-    ],
-    [
-      "Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable",
-      "https://www.workatastartup.com/jobs/80596"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 16:13:06",
-      "https://news.ycombinator.com/item?id=47168012"
-    ],
-    [
-      "Open Source Endowment – new funding source for open source maintainers",
-      "https://endowment.dev/"
     ]
   ],
   [
@@ -221,12 +191,12 @@
   ],
   [
     [
-      "2026-02-25, 23:16:40",
-      "https://news.ycombinator.com/item?id=47159430"
+      "2026-02-25, 19:54:14",
+      "https://news.ycombinator.com/item?id=47156925"
     ],
     [
-      "Banned in California",
-      "https://www.bannedincalifornia.org/"
+      "Google API keys weren't secrets, but then Gemini changed the rules",
+      "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules"
     ]
   ],
   [
@@ -261,6 +231,16 @@
   ],
   [
     [
+      "2026-02-23, 22:00:58",
+      "https://news.ycombinator.com/item?id=47129589"
+    ],
+    [
+      "The Physics and Economics of Moving 44 Tonnes at 56mph",
+      "https://www.mikeayles.com/blog/heavy-haulage-basics/"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 20:54:34",
       "https://news.ycombinator.com/item?id=47128645"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2026-02-23, 16:23:01",
+      "https://news.ycombinator.com/item?id=47124454"
+    ],
+    [
+      "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
+      "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 12:19:43",
       "https://news.ycombinator.com/item?id=47121352"
     ],
@@ -297,6 +287,16 @@
     [
       "The Wolfram S Combinator Challenge",
       "https://www.combinatorprize.org/"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 11:27:14",
+      "https://news.ycombinator.com/item?id=47110159"
+    ],
+    [
+      "Hacking Tauri for Designer",
+      "https://yujonglee.com/blog/hacking-tauri-for-designer/"
     ]
   ]
 ]
