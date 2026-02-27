@@ -7,6 +7,7 @@
 * [2026-02-27, 10:52:07](https://news.ycombinator.com/item?id=47179038) - [MitID, Denmarks sole digital ID, has been down for over an hour and counting](https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid)
 * [2026-02-27, 10:27:29](https://news.ycombinator.com/item?id=47178863) - [F-Droid Board of Directors nominations 2026](https://f-droid.org/2026/02/26/board-of-directors-nominations.html)
 * [2026-02-27, 10:21:40](https://news.ycombinator.com/item?id=47178836) - [Dyson settles forced labour suit in landmark UK case](https://www.bbc.com/news/articles/cddnry8dnl7o)
+* [2026-02-27, 09:56:42](https://news.ycombinator.com/item?id=47178678) - [Breaking Free](https://www.forbrukerradet.no/breakingfree/)
 * [2026-02-27, 09:04:48](https://news.ycombinator.com/item?id=47178344) - [Working on Pharo Smalltalk: BPatterns: Rewrite Engine with Smalltalk Style](http://dionisiydk.blogspot.com/2026/02/bpatterns-rewrite-engine-with-smalltalk.html)
 * [2026-02-27, 08:45:02](https://news.ycombinator.com/item?id=47178176) - [Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA](https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer)
 * [2026-02-27, 08:02:52](https://news.ycombinator.com/item?id=47177877) - [The complete Manic Miner disassembly](https://skoolkit.ca/disassemblies/manic_miner/)
