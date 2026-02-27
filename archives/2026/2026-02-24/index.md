@@ -51,6 +51,7 @@
 * [2026-02-24, 15:16:08](https://news.ycombinator.com/item?id=47138213) - [The history of knocking on wood](https://resobscura.substack.com/p/neolithic-habits-machine-age-tools)
 * [2026-02-24, 14:37:52](https://news.ycombinator.com/item?id=47137711) - [Stripe valued at $159B, 2025 annual letter](https://stripe.com/newsroom/news/stripe-2025-update)
 * [2026-02-24, 14:28:28](https://news.ycombinator.com/item?id=47137579) - [UPP: Universal Predicate Pushdown to Smart Storage](https://dl.acm.org/doi/10.1145/3695053.3731005)
+* [2026-02-24, 13:54:21](https://news.ycombinator.com/item?id=47137199) - [Modeling Cycles of Grift with Evolutionary Game Theory](https://www.oranlooney.com/post/grifters-skeptics-marks/)
 * [2026-02-24, 13:49:39](https://news.ycombinator.com/item?id=47137140) - [Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)](https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/)
 * [2026-02-24, 13:38:54](https://news.ycombinator.com/item?id=47137013) - [Sovereignty in a System Prompt](https://pop.rdi.sh/sovereignty-in-a-system-prompt/)
 * [2026-02-24, 13:08:56](https://news.ycombinator.com/item?id=47136658) - [Why the KeePass format should be based on SQLite](https://mketab.org/blog/sqlite_kdbx/)

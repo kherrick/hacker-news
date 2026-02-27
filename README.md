@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-27, 16:46:29](https://news.ycombinator.com/item?id=47182635) - [ChatGPT Health performance in a structured test of triage recommendations](https://www.nature.com/articles/s41591-026-04297-7)
+* [2026-02-27, 16:48:02](https://news.ycombinator.com/item?id=47182659) - [Vibe coded Lovable-hosted app littered with basic flaws exposed 18K users](https://www.theregister.com/2026/02/27/lovable_app_vulnerabilities/)
+* [2026-02-27, 16:33:39](https://news.ycombinator.com/item?id=47182483) - [NASA announces major overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/)
 * [2026-02-27, 15:44:33](https://news.ycombinator.com/item?id=47181841) - [Experts sound alarm after ChatGPT Health fails to recognise medical emergencies](https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies)
 * [2026-02-27, 15:41:13](https://news.ycombinator.com/item?id=47181801) - [We gave terabytes of CI logs to an LLM](https://www.mendral.com/blog/llms-are-good-at-sql)
 * [2026-02-27, 15:14:42](https://news.ycombinator.com/item?id=47181471) - [Show HN: Badge that shows how well your codebase fits in an LLM's context window](https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens)
@@ -16,7 +17,6 @@
 * [2026-02-27, 08:02:52](https://news.ycombinator.com/item?id=47177877) - [The complete Manic Miner disassembly](https://skoolkit.ca/disassemblies/manic_miner/)
 * [2026-02-27, 06:21:23](https://news.ycombinator.com/item?id=47177186) - [The normalization of corruption in organizations (2003) [pdf]](https://gwern.net/doc/sociology/2003-ashforth.pdf)
 * [2026-02-27, 03:49:48](https://news.ycombinator.com/item?id=47176257) - [The Hunt for Dark Breakfast](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
-* [2026-02-27, 03:33:28](https://news.ycombinator.com/item?id=47176150) - [Compact disc story (1998)](https://www.researchgate.net/publication/294484774_Compact_disc_story)
 * [2026-02-26, 22:42:47](https://news.ycombinator.com/item?id=47173121) - [Statement from Dario Amodei on our discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
 * [2026-02-26, 21:17:56](https://news.ycombinator.com/item?id=47172119) - [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343)
 * [2026-02-26, 19:58:46](https://news.ycombinator.com/item?id=47171233) - [What does \" 2>&1 \" mean?](https://stackoverflow.com/questions/818255/what-does-21-mean)
@@ -27,7 +27,7 @@
 * [2026-02-24, 18:56:31](https://news.ycombinator.com/item?id=47141069) - [How to Allocate Memory](https://geocar.sdf1.org/alloc.html)
 * [2026-02-24, 17:31:05](https://news.ycombinator.com/item?id=47139911) - [An interactive intro to quadtrees](https://growingswe.com/blog/quadtrees)
 * [2026-02-24, 15:56:32](https://news.ycombinator.com/item?id=47138698) - [80386 Protection](https://nand2mario.github.io/posts/2026/80386_protection/)
-* [2026-02-24, 15:16:08](https://news.ycombinator.com/item?id=47138213) - [The history of knocking on wood](https://resobscura.substack.com/p/neolithic-habits-machine-age-tools)
+* [2026-02-24, 13:54:21](https://news.ycombinator.com/item?id=47137199) - [Modeling Cycles of Grift with Evolutionary Game Theory](https://www.oranlooney.com/post/grifters-skeptics-marks/)
 * [2026-02-24, 10:06:43](https://news.ycombinator.com/item?id=47135159) - [Sprites on the Web](https://www.joshwcomeau.com/animation/sprites/)
 * [2026-02-24, 02:06:50](https://news.ycombinator.com/item?id=47131980) - [Reading English from 1000 Ad](https://lewiscampbell.tech/blog/260224.html)
 
