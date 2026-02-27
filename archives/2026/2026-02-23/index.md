@@ -56,6 +56,7 @@
 * [2026-02-23, 15:43:57](https://news.ycombinator.com/item?id=47123805) - [AIs can generate near-verbatim copies of novels from training data](https://arstechnica.com/ai/2026/02/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/)
 * [2026-02-23, 15:41:31](https://news.ycombinator.com/item?id=47123760) - [Ed's Stratego Site](https://www.edcollins.com/stratego/index.html)
 * [2026-02-23, 15:36:50](https://news.ycombinator.com/item?id=47123689) - [Terence Tao, at 8 years old (1984) [pdf]](https://gwern.net/doc/iq/high/smpy/1984-clements.pdf)
+* [2026-02-23, 15:33:33](https://news.ycombinator.com/item?id=47123633) - [Julia: Performance Tips](https://docs.julialang.org/en/v1/manual/performance-tips/)
 * [2026-02-23, 15:33:24](https://news.ycombinator.com/item?id=47123631) - [Show HN: PgDog – Scale Postgres without changing the app](https://github.com/pgdogdev/pgdog)
 * [2026-02-23, 15:31:17](https://news.ycombinator.com/item?id=47123590) - [Anthropic Education the AI Fluency Index](https://www.anthropic.com/research/AI-fluency-index)
 * [2026-02-23, 15:12:16](https://news.ycombinator.com/item?id=47123321) - [NASA uses Mars Helicopter's SoC for rover navigation upgrade](https://www.theregister.com/2026/02/23/perseverance_rover_soc_navigation_upgrade/)
