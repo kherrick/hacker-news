@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-02-27, 18:37:53",
+      "https://news.ycombinator.com/item?id=47183907"
+    ],
+    [
+      "Kyber (YC W23) Is Hiring an Enterprise Account Executive",
+      "https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 18:18:58",
+      "https://news.ycombinator.com/item?id=47183660"
+    ],
+    [
+      "Block spent $68M on a single party in September 2025",
+      "https://twitter.com/BullTheoryio/status/2027250361816486085"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 18:13:39",
+      "https://news.ycombinator.com/item?id=47183578"
+    ],
+    [
+      "Dan Simmons, author of Hyperion, Song of Kali, dead at 77",
+      "https://en.wikipedia.org/wiki/Dan_Simmons"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 18:06:26",
+      "https://news.ycombinator.com/item?id=47183503"
+    ],
+    [
+      "Don't run OpenClaw on your main machine",
+      "https://blog.skypilot.co/openclaw-on-skypilot/"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 18:01:25",
+      "https://news.ycombinator.com/item?id=47183435"
+    ],
+    [
+      "Your Device Identity Is Probably a Liability",
+      "https://smallstep.com/blog/ncsc-zero-trust-device-identity/"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 17:41:30",
+      "https://news.ycombinator.com/item?id=47183191"
+    ],
+    [
+      "Theory of Constraints: \"Blue Light\" creating capacity for nothing (2007)",
+      "http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 17:39:42",
+      "https://news.ycombinator.com/item?id=47183176"
+    ],
+    [
+      "Show HN: SignalCend – API that resolves conflicting IoT device state in 47ms",
+      "https://signalcend.com/"
+    ]
+  ],
+  [
+    [
       "2026-02-27, 16:48:02",
       "https://news.ycombinator.com/item?id=47182659"
     ],
@@ -81,26 +151,6 @@
   ],
   [
     [
-      "2026-02-27, 15:08:29",
-      "https://news.ycombinator.com/item?id=47181380"
-    ],
-    [
-      "The Pentagon is making a mistake by threatening Anthropic",
-      "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 14:55:49",
-      "https://news.ycombinator.com/item?id=47181208"
-    ],
-    [
-      "New California law requires age verification for all OS accounts",
-      "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/"
-    ]
-  ],
-  [
-    [
       "2026-02-27, 14:02:53",
       "https://news.ycombinator.com/item?id=47180569"
     ],
@@ -151,26 +201,6 @@
   ],
   [
     [
-      "2026-02-27, 09:04:48",
-      "https://news.ycombinator.com/item?id=47178344"
-    ],
-    [
-      "Working on Pharo Smalltalk: BPatterns: Rewrite Engine with Smalltalk Style",
-      "http://dionisiydk.blogspot.com/2026/02/bpatterns-rewrite-engine-with-smalltalk.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 08:45:02",
-      "https://news.ycombinator.com/item?id=47178176"
-    ],
-    [
-      "Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA",
-      "https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer"
-    ]
-  ],
-  [
-    [
       "2026-02-27, 06:21:23",
       "https://news.ycombinator.com/item?id=47177186"
     ],
@@ -201,32 +231,22 @@
   ],
   [
     [
-      "2026-02-26, 19:58:46",
-      "https://news.ycombinator.com/item?id=47171233"
+      "2026-02-26, 21:30:19",
+      "https://news.ycombinator.com/item?id=47172238"
     ],
     [
-      "What does \" 2>&1 \" mean?",
-      "https://stackoverflow.com/questions/818255/what-does-21-mean"
+      "Show HN: Unfudged – version every change between commits - local-first",
+      "https://www.unfudged.io/"
     ]
   ],
   [
     [
-      "2026-02-26, 18:12:26",
-      "https://news.ycombinator.com/item?id=47169757"
+      "2026-02-25, 14:29:48",
+      "https://news.ycombinator.com/item?id=47151961"
     ],
     [
-      "What Claude Code chooses",
-      "https://amplifying.ai/research/claude-code-picks"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 15:55:48",
-      "https://news.ycombinator.com/item?id=47167763"
-    ],
-    [
-      "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
-      "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf"
+      "What was the first life restoration of a sauropod?",
+      "https://svpow.com/2026/02/02/what-was-the-first-life-restoration-of-a-sauropod/"
     ]
   ],
   [
@@ -247,16 +267,6 @@
     [
       "The quixotic team trying to build a world in a 20-year-old game",
       "https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 18:56:31",
-      "https://news.ycombinator.com/item?id=47141069"
-    ],
-    [
-      "How to Allocate Memory",
-      "https://geocar.sdf1.org/alloc.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Sprites on the Web",
       "https://www.joshwcomeau.com/animation/sprites/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 02:06:50",
-      "https://news.ycombinator.com/item?id=47131980"
-    ],
-    [
-      "Reading English from 1000 Ad",
-      "https://lewiscampbell.tech/blog/260224.html"
     ]
   ]
 ]
