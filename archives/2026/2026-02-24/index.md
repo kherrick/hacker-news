@@ -19,6 +19,7 @@
 * [2026-02-24, 20:41:15](https://news.ycombinator.com/item?id=47142673) - [Even the Mars Rover Uses Zip Ties (2021)](https://www.thedrive.com/tech/39426/even-the-mars-rover-has-zip-ties)
 * [2026-02-24, 20:35:41](https://news.ycombinator.com/item?id=47142587) - [Pentagon threatens to make Anthropic a pariah](https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei)
 * [2026-02-24, 20:27:47](https://news.ycombinator.com/item?id=47142458) - [Why High FOV Sucks – Fixing It with Panini Projection](https://www.youtube.com/watch?v=LE9kxUQ-l14)
+* [2026-02-24, 20:11:04](https://news.ycombinator.com/item?id=47142225) - [The quixotic team trying to build a world in a 20-year-old game](https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/)
 * [2026-02-24, 20:07:00](https://news.ycombinator.com/item?id=47142156) - [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/)
 * [2026-02-24, 20:01:54](https://news.ycombinator.com/item?id=47142078) - [We Are Changing Our Developer Productivity Experiment Design](https://metr.org/blog/2026-02-24-uplift-update/)
 * [2026-02-24, 19:43:34](https://news.ycombinator.com/item?id=47141797) - [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/)
