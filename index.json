@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-27, 19:51:33",
+      "https://news.ycombinator.com/item?id=47184744"
+    ],
+    [
+      "The Robotic Dexterity Deadlock",
+      "https://www.origami-robotics.com/blog/dexterity-deadlocks.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 19:26:38",
+      "https://news.ycombinator.com/item?id=47184480"
+    ],
+    [
+      "Red Dwarf creator Rob Grant has died",
+      "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 18:49:50",
+      "https://news.ycombinator.com/item?id=47184049"
+    ],
+    [
+      "Let's discuss sandbox isolation",
+      "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/"
+    ]
+  ],
+  [
+    [
       "2026-02-27, 18:37:53",
       "https://news.ycombinator.com/item?id=47183907"
     ],
@@ -21,16 +51,6 @@
   ],
   [
     [
-      "2026-02-27, 18:18:58",
-      "https://news.ycombinator.com/item?id=47183660"
-    ],
-    [
-      "Block spent $68M on a single party in September 2025",
-      "https://twitter.com/BullTheoryio/status/2027250361816486085"
-    ]
-  ],
-  [
-    [
       "2026-02-27, 18:13:39",
       "https://news.ycombinator.com/item?id=47183578"
     ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47183503"
     ],
     [
-      "Don't run OpenClaw on your main machine",
+      "Setting up OpenClaw on a cloud VM",
       "https://blog.skypilot.co/openclaw-on-skypilot/"
     ]
   ],
@@ -61,32 +81,12 @@
   ],
   [
     [
-      "2026-02-27, 16:48:02",
-      "https://news.ycombinator.com/item?id=47182659"
-    ],
-    [
-      "Vibe coded Lovable-hosted app littered with basic flaws exposed 18K users",
-      "https://www.theregister.com/2026/02/27/lovable_app_vulnerabilities/"
-    ]
-  ],
-  [
-    [
       "2026-02-27, 16:34:05",
       "https://news.ycombinator.com/item?id=47182487"
     ],
     [
       "Allocating on the Stack",
       "https://go.dev/blog/allocation-optimizations"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 16:33:39",
-      "https://news.ycombinator.com/item?id=47182483"
-    ],
-    [
-      "NASA announces major overhaul of Artemis program amid safety concerns, delays",
-      "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=47172238"
     ],
     [
-      "Show HN: Unfudged – version every change between commits - local-first",
+      "Show HN: Unfucked – version every change between commits - local-first",
       "https://www.unfudged.io/"
     ]
   ],
