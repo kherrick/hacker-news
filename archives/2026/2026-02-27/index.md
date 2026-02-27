@@ -38,6 +38,7 @@
 * [2026-02-27, 13:02:56](https://news.ycombinator.com/item?id=47180040) - [Generative AI Use and Depressive Symptoms Among US Adults](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2844128)
 * [2026-02-27, 12:01:36](https://news.ycombinator.com/item?id=47179553) - [PostmarketOS in 2026-02: generic kernels, bans use of generative AI](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 * [2026-02-27, 11:37:49](https://news.ycombinator.com/item?id=47179356) - [Lawmakers say US Military used laser to take down Border Protection drone in TX](https://apnews.com/article/military-laser-border-drone-texas-airport-55aaab7093f7d6dd174f909f3875001c)
+* [2026-02-27, 10:52:07](https://news.ycombinator.com/item?id=47179038) - [Tell HN: MitID, Denmark's digital ID, was down](https://news.ycombinator.com/item?id=47179038)
 * [2026-02-27, 10:52:07](https://news.ycombinator.com/item?id=47179038) - [MitID, Denmarks sole digital ID, has been down for over an hour and counting](https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid)
 * [2026-02-27, 10:27:29](https://news.ycombinator.com/item?id=47178863) - [F-Droid Board of Directors nominations 2026](https://f-droid.org/2026/02/26/board-of-directors-nominations.html)
 * [2026-02-27, 10:21:40](https://news.ycombinator.com/item?id=47178836) - [Dyson settles forced labour suit in landmark UK case](https://www.bbc.com/news/articles/cddnry8dnl7o)
