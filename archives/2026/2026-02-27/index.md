@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-02-27](index.md)
 
 * [2026-02-27, 18:37:53](https://news.ycombinator.com/item?id=47183907) - [Kyber (YC W23) Is Hiring an Enterprise Account Executive](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae)
+* [2026-02-27, 18:24:09](https://news.ycombinator.com/item?id=47183725) - [Writing a Guide to SDF Fonts](https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/)
 * [2026-02-27, 18:18:58](https://news.ycombinator.com/item?id=47183660) - [Block spent $68M on a single party in September 2025](https://twitter.com/BullTheoryio/status/2027250361816486085)
+* [2026-02-27, 18:13:39](https://news.ycombinator.com/item?id=47183578) - [Dan Simmons, author of Hyperion, has died](https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871)
 * [2026-02-27, 18:13:39](https://news.ycombinator.com/item?id=47183578) - [Dan Simmons, author of Hyperion, Song of Kali, dead at 77](https://en.wikipedia.org/wiki/Dan_Simmons)
 * [2026-02-27, 18:06:26](https://news.ycombinator.com/item?id=47183503) - [Don't run OpenClaw on your main machine](https://blog.skypilot.co/openclaw-on-skypilot/)
 * [2026-02-27, 18:01:25](https://news.ycombinator.com/item?id=47183435) - [Your Device Identity Is Probably a Liability](https://smallstep.com/blog/ncsc-zero-trust-device-identity/)
@@ -21,6 +23,7 @@
 * [2026-02-27, 15:14:42](https://news.ycombinator.com/item?id=47181471) - [Show HN: Badge that shows how well your codebase fits in an LLM's context window](https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens)
 * [2026-02-27, 15:09:04](https://news.ycombinator.com/item?id=47181391) - [Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices](https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0)
 * [2026-02-27, 15:08:29](https://news.ycombinator.com/item?id=47181380) - [The Pentagon is making a mistake by threatening Anthropic](https://www.understandingai.org/p/the-pentagon-is-making-a-mistake)
+* [2026-02-27, 15:03:12](https://news.ycombinator.com/item?id=47181316) - [We Built Secure, Scalable Agent Sandbox Infrastructure](https://browser-use.com/posts/two-ways-to-sandbox-agents)
 * [2026-02-27, 14:56:05](https://news.ycombinator.com/item?id=47181211) - [OpenAI raises $110B on $730B pre-money valuation](https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/)
 * [2026-02-27, 14:55:49](https://news.ycombinator.com/item?id=47181208) - [New California law requires age verification for all OS accounts](https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/)
 * [2026-02-27, 14:44:52](https://news.ycombinator.com/item?id=47181051) - [OpenAI's $110B funding round (investments from Amazon, Nvidia, SoftBank)](https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27/)
