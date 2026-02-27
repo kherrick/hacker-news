@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-27, 10:21:40",
+      "https://news.ycombinator.com/item?id=47178836"
+    ],
+    [
+      "Dyson settles forced labour suit in landmark UK case",
+      "https://www.bbc.com/news/articles/cddnry8dnl7o"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 09:04:48",
+      "https://news.ycombinator.com/item?id=47178344"
+    ],
+    [
+      "Working on Pharo Smalltalk: BPatterns: Rewrite Engine with Smalltalk Style",
+      "http://dionisiydk.blogspot.com/2026/02/bpatterns-rewrite-engine-with-smalltalk.html"
+    ]
+  ],
+  [
+    [
       "2026-02-27, 08:45:02",
       "https://news.ycombinator.com/item?id=47178176"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2026-02-27, 01:50:45",
-      "https://news.ycombinator.com/item?id=47175281"
-    ],
-    [
-      "Two insider cases we've recently closed",
-      "https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases"
-    ]
-  ],
-  [
-    [
       "2026-02-26, 22:42:47",
       "https://news.ycombinator.com/item?id=47173121"
     ],
@@ -67,16 +77,6 @@
     [
       "Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)",
       "https://coderush.me/hydroph0bia-part3/"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 22:09:45",
-      "https://news.ycombinator.com/item?id=47172664"
-    ],
-    [
-      "Smartphone market forecast to decline this year due to memory shortage",
-      "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/"
     ]
   ],
   [
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=47170157"
     ],
     [
-      "OsmAnd's Faster Offline Navigation (2025)",
+      "OsmAnd’s Faster Offline Navigation (2025)",
       "https://osmand.net/blog/fast-routing/"
     ]
   ],
@@ -127,16 +127,6 @@
     [
       "What Claude Code chooses",
       "https://amplifying.ai/research/claude-code-picks"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 17:54:06",
-      "https://news.ycombinator.com/item?id=47169518"
-    ],
-    [
-      "Show HN: Deff – Side-by-side Git diff review in your terminal",
-      "https://github.com/flamestro/deff"
     ]
   ],
   [
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=47149829"
     ],
     [
-      "Writing a \"clear room\" Z80 and Spectrum emulator with Claude Code",
+      "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
       "https://antirez.com/news/160"
     ]
   ],
@@ -217,6 +207,16 @@
     [
       "Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance",
       "https://hackersmacker.org"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 17:31:05",
+      "https://news.ycombinator.com/item?id=47139911"
+    ],
+    [
+      "An interactive intro to quadtrees",
+      "https://growingswe.com/blog/quadtrees"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=47126017"
     ],
     [
-      "Show HN: As Level Chemistry Lab Simulator",
+      "Show HN: AS Level Chemistry Lab Simulator",
       "https://github.com/nsriram/chem_lab"
     ]
   ],
