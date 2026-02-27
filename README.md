@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-27, 04:38:46](https://news.ycombinator.com/item?id=47176581) - [Dear Time Lords: Freeze Computers in 1993](https://graydon2.dreamwidth.org/322461.html)
 * [2026-02-27, 03:49:48](https://news.ycombinator.com/item?id=47176257) - [The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
 * [2026-02-27, 03:48:05](https://news.ycombinator.com/item?id=47176239) - [Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration](https://github.com/Frikallo/parakeet.cpp)
 * [2026-02-27, 03:34:12](https://news.ycombinator.com/item?id=47176157) - [A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives](https://bookriot.com/hr7661-book-ban-legislation/)
@@ -20,16 +21,15 @@
 * [2026-02-26, 15:55:48](https://news.ycombinator.com/item?id=47167763) - [AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 * [2026-02-26, 14:05:46](https://news.ycombinator.com/item?id=47166264) - [BuildKit: Docker's Hidden Gem That Can Build Almost Anything](https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/)
 * [2026-02-26, 04:34:26](https://news.ycombinator.com/item?id=47161889) - [Move tests to closed source repo](https://github.com/tldraw/tldraw/issues/8082)
+* [2026-02-25, 12:30:36](https://news.ycombinator.com/item?id=47150674) - [I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye](https://paultendo.github.io/posts/confusable-vision-visual-similarity/)
 * [2026-02-24, 23:33:58](https://news.ycombinator.com/item?id=47145082) - [Show HN: Linex – A daily challenge: placing pieces on a board that fights back](https://www.playlinex.com/)
 * [2026-02-24, 19:00:16](https://news.ycombinator.com/item?id=47141119) - [Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance](https://hackersmacker.org)
+* [2026-02-24, 15:56:32](https://news.ycombinator.com/item?id=47138698) - [80386 Protection](https://nand2mario.github.io/posts/2026/80386_protection/)
 * [2026-02-23, 22:18:23](https://news.ycombinator.com/item?id=47129801) - [Understanding the Go Runtime: The Memory Allocator](https://internals-for-interns.com/posts/go-memory-allocator/)
 * [2026-02-23, 20:54:34](https://news.ycombinator.com/item?id=47128645) - [I baked a pie every day for a year and it changed my life](https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life)
 * [2026-02-23, 18:13:10](https://news.ycombinator.com/item?id=47126286) - [Cartographic Symbologies: The Art and Design of Expression in Historic Maps](https://exhibits.stanford.edu/cartosym/browse)
 * [2026-02-23, 16:58:58](https://news.ycombinator.com/item?id=47124999) - [Museum of Plugs and Sockets](https://plugsocketmuseum.nl/index.html)
 * [2026-02-23, 16:23:01](https://news.ycombinator.com/item?id=47124454) - [An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published](https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html)
-* [2026-02-23, 12:19:43](https://news.ycombinator.com/item?id=47121352) - [Lidar waveforms are worth 40x128x33 words](https://openaccess.thecvf.com/content/ICCV2025/html/Scheuble_Lidar_Waveforms_are_Worth_40x128x33_Words_ICCV_2025_paper.html)
-* [2026-02-23, 11:25:51](https://news.ycombinator.com/item?id=47120869) - [Demystifying Debuggers, Part 5: Instruction-Level Stepping and Breakpoints](https://www.dgtlgrove.com/p/demystifying-debuggers-part-5-instruction)
-* [2026-02-22, 11:27:14](https://news.ycombinator.com/item?id=47110159) - [Hacking Tauri for Designer](https://yujonglee.com/blog/hacking-tauri-for-designer/)
 
 ## [Archives](archives/index.md)
 
