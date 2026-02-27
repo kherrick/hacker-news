@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-27](index.md)
 
+* [2026-02-27, 19:51:33](https://news.ycombinator.com/item?id=47184744) - [The Robotic Dexterity Deadlock](https://www.origami-robotics.com/blog/dexterity-deadlocks.html)
+* [2026-02-27, 19:26:38](https://news.ycombinator.com/item?id=47184480) - [Red Dwarf creator Rob Grant has died](https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant)
+* [2026-02-27, 18:49:50](https://news.ycombinator.com/item?id=47184049) - [Let's discuss sandbox isolation](https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/)
 * [2026-02-27, 18:37:53](https://news.ycombinator.com/item?id=47183907) - [Kyber (YC W23) Is Hiring an Enterprise Account Executive](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae)
 * [2026-02-27, 18:24:09](https://news.ycombinator.com/item?id=47183725) - [Writing a Guide to SDF Fonts](https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/)
 * [2026-02-27, 18:18:58](https://news.ycombinator.com/item?id=47183660) - [Block spent $68M on a single party in September 2025](https://twitter.com/BullTheoryio/status/2027250361816486085)
