@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=47176257"
     ],
     [
-      "The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?",
+      "The Hunt for Dark Breakfast",
       "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/"
     ]
   ],
@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2026-02-27, 03:08:09",
-      "https://news.ycombinator.com/item?id=47175931"
+      "2026-02-27, 01:50:45",
+      "https://news.ycombinator.com/item?id=47175281"
     ],
     [
-      "Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic",
-      "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html"
+      "Two insider cases we've recently closed",
+      "https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=47169757"
     ],
     [
-      "What Claude Code Chooses",
+      "What Claude Code chooses",
       "https://amplifying.ai/research/claude-code-picks"
     ]
   ],
@@ -157,16 +157,6 @@
     [
       "Palm OS User Interface Guidelines (2003) [pdf]",
       "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 16:07:11",
-      "https://news.ycombinator.com/item?id=47167931"
-    ],
-    [
-      "Will vibe coding end like the maker movement?",
-      "https://read.technically.dev/p/vibe-coding-and-the-maker-movement"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
       "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 13:28:59",
+      "https://news.ycombinator.com/item?id=47165792"
+    ],
+    [
+      "This time is different",
+      "https://shkspr.mobi/blog/2026/02/this-time-is-different/"
     ]
   ],
   [
@@ -265,18 +265,8 @@
       "https://news.ycombinator.com/item?id=47128645"
     ],
     [
-      "I baked a pie every day for a year and it changed my life",
+      "I baked a pie every day for a year",
       "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 18:13:10",
-      "https://news.ycombinator.com/item?id=47126286"
-    ],
-    [
-      "Cartographic Symbologies: The Art and Design of Expression in Historic Maps",
-      "https://exhibits.stanford.edu/cartosym/browse"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
       "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 15:33:33",
+      "https://news.ycombinator.com/item?id=47123633"
+    ],
+    [
+      "Julia: Performance Tips",
+      "https://docs.julialang.org/en/v1/manual/performance-tips/"
     ]
   ]
 ]
