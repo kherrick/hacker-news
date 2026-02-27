@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-02-27](index.md)
 
+* [2026-02-27, 14:02:53](https://news.ycombinator.com/item?id=47180569) - [We deserve a better streams API for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/)
 * [2026-02-27, 13:06:50](https://news.ycombinator.com/item?id=47180083) - [Show HN: RetroTick – Run classic Windows EXEs in the browser](https://retrotick.com/)
+* [2026-02-27, 13:02:56](https://news.ycombinator.com/item?id=47180040) - [Generative AI Use and Depressive Symptoms Among US Adults](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2844128)
 * [2026-02-27, 12:01:36](https://news.ycombinator.com/item?id=47179553) - [PostmarketOS in 2026-02: generic kernels, bans use of generative AI](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 * [2026-02-27, 11:37:49](https://news.ycombinator.com/item?id=47179356) - [Lawmakers say US Military used laser to take down Border Protection drone in TX](https://apnews.com/article/military-laser-border-drone-texas-airport-55aaab7093f7d6dd174f909f3875001c)
 * [2026-02-27, 10:52:07](https://news.ycombinator.com/item?id=47179038) - [MitID, Denmarks sole digital ID, has been down for over an hour and counting](https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid)
 * [2026-02-27, 10:27:29](https://news.ycombinator.com/item?id=47178863) - [F-Droid Board of Directors nominations 2026](https://f-droid.org/2026/02/26/board-of-directors-nominations.html)
 * [2026-02-27, 10:21:40](https://news.ycombinator.com/item?id=47178836) - [Dyson settles forced labour suit in landmark UK case](https://www.bbc.com/news/articles/cddnry8dnl7o)
 * [2026-02-27, 09:56:42](https://news.ycombinator.com/item?id=47178678) - [Breaking Free](https://www.forbrukerradet.no/breakingfree/)
+* [2026-02-27, 09:08:58](https://news.ycombinator.com/item?id=47178371) - [Get free Claude max 20x for open-source maintainers](https://claude.com/contact-sales/claude-for-oss)
 * [2026-02-27, 09:04:48](https://news.ycombinator.com/item?id=47178344) - [Working on Pharo Smalltalk: BPatterns: Rewrite Engine with Smalltalk Style](http://dionisiydk.blogspot.com/2026/02/bpatterns-rewrite-engine-with-smalltalk.html)
 * [2026-02-27, 08:45:02](https://news.ycombinator.com/item?id=47178176) - [Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA](https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer)
 * [2026-02-27, 08:02:52](https://news.ycombinator.com/item?id=47177877) - [The complete Manic Miner disassembly](https://skoolkit.ca/disassemblies/manic_miner/)

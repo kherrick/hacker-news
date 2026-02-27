@@ -26,6 +26,7 @@
 * [2026-02-24, 19:18:48](https://news.ycombinator.com/item?id=47141385) - [Manjaro website off-line again due to lapsed certificate](https://distrowatch.com/dwres.php?resource=showheadline&story=20140)
 * [2026-02-24, 19:00:16](https://news.ycombinator.com/item?id=47141119) - [Show HN: Hacker Smacker – spot great (and terrible) HN commenters at a glance](https://hackersmacker.org)
 * [2026-02-24, 18:59:31](https://news.ycombinator.com/item?id=47141107) - [Learnings from 4 months of Image-Video VAE experiments](https://www.linum.ai/field-notes/vae-reconstruction-vs-generation)
+* [2026-02-24, 18:56:31](https://news.ycombinator.com/item?id=47141069) - [How to Allocate Memory](https://geocar.sdf1.org/alloc.html)
 * [2026-02-24, 18:46:25](https://news.ycombinator.com/item?id=47140932) - [Tesla registrations crash 17% in Europe as BEV market surges 14%](https://electrek.co/2026/02/24/tesla-eu-registrations-crash-january-2026-bev-growth/)
 * [2026-02-24, 18:24:17](https://news.ycombinator.com/item?id=47140657) - [Steel Bank Common Lisp](https://www.sbcl.org/)
 * [2026-02-24, 18:23:03](https://news.ycombinator.com/item?id=47140632) - [OpenAI, the US government and Persona built an identity surveillance machine](https://vmfunc.re/blog/persona/)
