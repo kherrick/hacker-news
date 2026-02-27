@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-27, 23:25:59](https://news.ycombinator.com/item?id=47187450) - [Show HN: I built a site where you hire yourself instead of applying for jobs](https://hired.wtf)
 * [2026-02-27, 23:01:49](https://news.ycombinator.com/item?id=47187121) - [Emuko: Fast RISC-V emulator written in Rust, boots Linux](https://github.com/wkoszek/emuko)
 * [2026-02-27, 22:31:18](https://news.ycombinator.com/item?id=47186677) - [I am directing the Department of War to designate Anthropic a Supply-Chain Risk](https://twitter.com/secwar/status/2027507717469049070)
 * [2026-02-27, 22:13:54](https://news.ycombinator.com/item?id=47186444) - [Otters as Bioindicators of Estuarine Health](https://emt.pensoft.net/article/185117/)
@@ -12,7 +13,6 @@
 * [2026-02-27, 16:34:05](https://news.ycombinator.com/item?id=47182487) - [Allocating on the Stack](https://go.dev/blog/allocation-optimizations)
 * [2026-02-27, 16:33:39](https://news.ycombinator.com/item?id=47182483) - [NASA announces overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/)
 * [2026-02-27, 16:26:22](https://news.ycombinator.com/item?id=47182387) - [Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions](https://github.com/hjtenklooster/claude-file-recovery)
-* [2026-02-27, 15:52:27](https://news.ycombinator.com/item?id=47181944) - [A Chinese official’s use of ChatGPT revealed an intimidation operation](https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation)
 * [2026-02-27, 15:37:53](https://news.ycombinator.com/item?id=47181753) - [Open source calculator firmware DB48X forbids CA/CO use due to age verification](https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286)
 * [2026-02-27, 15:09:04](https://news.ycombinator.com/item?id=47181391) - [Court finds Fourth Amendment doesn’t support broad search of protesters’ devices](https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0)
 * [2026-02-27, 15:03:12](https://news.ycombinator.com/item?id=47181316) - [Building secure, scalable agent sandbox infrastructure](https://browser-use.com/posts/two-ways-to-sandbox-agents)

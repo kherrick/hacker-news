@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-27](index.md)
 
+* [2026-02-27, 23:25:59](https://news.ycombinator.com/item?id=47187450) - [Show HN: I built a site where you hire yourself instead of applying for jobs](https://hired.wtf)
 * [2026-02-27, 23:01:49](https://news.ycombinator.com/item?id=47187121) - [Emuko: Fast RISC-V emulator written in Rust, boots Linux](https://github.com/wkoszek/emuko)
 * [2026-02-27, 22:31:18](https://news.ycombinator.com/item?id=47186677) - [I am directing the Department of War to designate Anthropic a Supply-Chain Risk](https://twitter.com/secwar/status/2027507717469049070)
 * [2026-02-27, 22:31:18](https://news.ycombinator.com/item?id=47186677) - [Department of War Designates Anthropic Supply Chain Risk](https://twitter.com/i/status/2027507717469049070)
