@@ -33,6 +33,7 @@
 * [2026-02-23, 18:36:31](https://news.ycombinator.com/item?id=47126656) - [Show HN: Shibuya – A High-Performance WAF in Rust with eBPF and ML Engine](https://ghostklan.com/shibuya.html)
 * [2026-02-23, 18:33:38](https://news.ycombinator.com/item?id=47126614) - [Anthropic announces proof of distillation at scale by MiniMax, DeepSeek,Moonshot](https://twitter.com/anthropicai/status/2025997928242811253)
 * [2026-02-23, 18:13:10](https://news.ycombinator.com/item?id=47126286) - [Cartographic Symbologies: The Art and Design of Expression in Historic Maps](https://exhibits.stanford.edu/cartosym/browse)
+* [2026-02-23, 17:59:43](https://news.ycombinator.com/item?id=47126017) - [Show HN: As Level Chemistry Lab Simulator](https://github.com/nsriram/chem_lab)
 * [2026-02-23, 17:27:32](https://news.ycombinator.com/item?id=47125484) - [The Rise of Eyes Began with Just One](https://www.nytimes.com/2026/02/23/science/evolution-vertebrate-eye.html)
 * [2026-02-23, 17:20:25](https://news.ycombinator.com/item?id=47125374) - [Writing code is cheap now](https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/)
 * [2026-02-23, 17:18:41](https://news.ycombinator.com/item?id=47125349) - [ASML unveils EUV light source advance that could yield 50% more chips by 2030](https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/)

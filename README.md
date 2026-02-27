@@ -2,7 +2,6 @@
 
 * [2026-02-27, 08:45:02](https://news.ycombinator.com/item?id=47178176) - [Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA](https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer)
 * [2026-02-27, 06:21:23](https://news.ycombinator.com/item?id=47177186) - [The normalization of corruption in organizations (2003) [pdf]](https://gwern.net/doc/sociology/2003-ashforth.pdf)
-* [2026-02-27, 04:38:46](https://news.ycombinator.com/item?id=47176581) - [Dear Time Lords: Freeze Computers in 1993](https://graydon2.dreamwidth.org/322461.html)
 * [2026-02-27, 03:49:48](https://news.ycombinator.com/item?id=47176257) - [The Hunt for Dark Breakfast](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
 * [2026-02-27, 03:48:05](https://news.ycombinator.com/item?id=47176239) - [Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration](https://github.com/Frikallo/parakeet.cpp)
 * [2026-02-27, 01:50:45](https://news.ycombinator.com/item?id=47175281) - [Two insider cases we've recently closed](https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases)
@@ -26,6 +25,7 @@
 * [2026-02-24, 15:56:32](https://news.ycombinator.com/item?id=47138698) - [80386 Protection](https://nand2mario.github.io/posts/2026/80386_protection/)
 * [2026-02-23, 22:18:23](https://news.ycombinator.com/item?id=47129801) - [Understanding the Go Runtime: The Memory Allocator](https://internals-for-interns.com/posts/go-memory-allocator/)
 * [2026-02-23, 20:54:34](https://news.ycombinator.com/item?id=47128645) - [I baked a pie every day for a year](https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life)
+* [2026-02-23, 17:59:43](https://news.ycombinator.com/item?id=47126017) - [Show HN: As Level Chemistry Lab Simulator](https://github.com/nsriram/chem_lab)
 * [2026-02-23, 16:58:58](https://news.ycombinator.com/item?id=47124999) - [Museum of Plugs and Sockets](https://plugsocketmuseum.nl/index.html)
 * [2026-02-23, 16:23:01](https://news.ycombinator.com/item?id=47124454) - [An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published](https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html)
 * [2026-02-23, 15:33:33](https://news.ycombinator.com/item?id=47123633) - [Julia: Performance Tips](https://docs.julialang.org/en/v1/manual/performance-tips/)
