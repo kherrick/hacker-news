@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-27, 06:21:23](https://news.ycombinator.com/item?id=47177186) - [The normalization of corruption in organizations (2003) [pdf]](https://gwern.net/doc/sociology/2003-ashforth.pdf)
 * [2026-02-27, 04:38:46](https://news.ycombinator.com/item?id=47176581) - [Dear Time Lords: Freeze Computers in 1993](https://graydon2.dreamwidth.org/322461.html)
 * [2026-02-27, 03:49:48](https://news.ycombinator.com/item?id=47176257) - [The Hunt for Dark Breakfast](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
 * [2026-02-27, 03:48:05](https://news.ycombinator.com/item?id=47176239) - [Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration](https://github.com/Frikallo/parakeet.cpp)
-* [2026-02-27, 03:34:12](https://news.ycombinator.com/item?id=47176157) - [A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives](https://bookriot.com/hr7661-book-ban-legislation/)
 * [2026-02-27, 01:50:45](https://news.ycombinator.com/item?id=47175281) - [Two insider cases we've recently closed](https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases)
 * [2026-02-27, 01:18:18](https://news.ycombinator.com/item?id=47175013) - [LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity](https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer)
 * [2026-02-26, 22:42:47](https://news.ycombinator.com/item?id=47173121) - [Statement from Dario Amodei on our discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
@@ -16,7 +16,6 @@
 * [2026-02-26, 18:12:26](https://news.ycombinator.com/item?id=47169757) - [What Claude Code chooses](https://amplifying.ai/research/claude-code-picks)
 * [2026-02-26, 17:54:06](https://news.ycombinator.com/item?id=47169518) - [Show HN: Deff – Side-by-side Git diff review in your terminal](https://github.com/flamestro/deff)
 * [2026-02-26, 17:01:05](https://news.ycombinator.com/item?id=47168726) - [Palm OS User Interface Guidelines (2003) [pdf]](https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf)
-* [2026-02-26, 16:02:37](https://news.ycombinator.com/item?id=47167858) - [Nano Banana 2: Google's latest AI image generation model](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 * [2026-02-26, 15:55:48](https://news.ycombinator.com/item?id=47167763) - [AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 * [2026-02-26, 14:05:46](https://news.ycombinator.com/item?id=47166264) - [BuildKit: Docker's Hidden Gem That Can Build Almost Anything](https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/)
 * [2026-02-26, 13:28:59](https://news.ycombinator.com/item?id=47165792) - [This time is different](https://shkspr.mobi/blog/2026/02/this-time-is-different/)
@@ -30,6 +29,7 @@
 * [2026-02-23, 16:58:58](https://news.ycombinator.com/item?id=47124999) - [Museum of Plugs and Sockets](https://plugsocketmuseum.nl/index.html)
 * [2026-02-23, 16:23:01](https://news.ycombinator.com/item?id=47124454) - [An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published](https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html)
 * [2026-02-23, 15:33:33](https://news.ycombinator.com/item?id=47123633) - [Julia: Performance Tips](https://docs.julialang.org/en/v1/manual/performance-tips/)
+* [2026-02-23, 14:56:58](https://news.ycombinator.com/item?id=47123109) - [The Origins of Agar](https://www.asimov.press/p/agar)
 
 ## [Archives](archives/index.md)
 

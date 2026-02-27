@@ -60,6 +60,7 @@
 * [2026-02-23, 15:33:24](https://news.ycombinator.com/item?id=47123631) - [Show HN: PgDog – Scale Postgres without changing the app](https://github.com/pgdogdev/pgdog)
 * [2026-02-23, 15:31:17](https://news.ycombinator.com/item?id=47123590) - [Anthropic Education the AI Fluency Index](https://www.anthropic.com/research/AI-fluency-index)
 * [2026-02-23, 15:12:16](https://news.ycombinator.com/item?id=47123321) - [NASA uses Mars Helicopter's SoC for rover navigation upgrade](https://www.theregister.com/2026/02/23/perseverance_rover_soc_navigation_upgrade/)
+* [2026-02-23, 14:56:58](https://news.ycombinator.com/item?id=47123109) - [The Origins of Agar](https://www.asimov.press/p/agar)
 * [2026-02-23, 14:28:39](https://news.ycombinator.com/item?id=47122789) - [The peculiar case of Japanese web design](https://sabrinas.space)
 * [2026-02-23, 14:22:39](https://news.ycombinator.com/item?id=47122715) - [The Age Verification Trap, Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
 * [2026-02-23, 13:53:21](https://news.ycombinator.com/item?id=47122337) - [How in the Hell Did Joann Fabrics Die While Best Buy Survived? It Wasn't Amazon](https://www.governance.fyi/p/how-in-the-hell-did-joann-fabrics)
