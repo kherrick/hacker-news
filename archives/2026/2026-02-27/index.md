@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-27](index.md)
 
+* [2026-02-27, 20:05:17](https://news.ycombinator.com/item?id=47184864) - [DOS Memory Management](http://www.os2museum.com/wp/dos-memory-management/)
 * [2026-02-27, 19:51:33](https://news.ycombinator.com/item?id=47184744) - [The Robotic Dexterity Deadlock](https://www.origami-robotics.com/blog/dexterity-deadlocks.html)
 * [2026-02-27, 19:26:38](https://news.ycombinator.com/item?id=47184480) - [Red Dwarf creator Rob Grant has died](https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant)
+* [2026-02-27, 19:08:25](https://news.ycombinator.com/item?id=47184288) - [Leaving Google has actively improved my life](https://pseudosingleton.com/leaving-google-improved-my-life/)
 * [2026-02-27, 18:49:50](https://news.ycombinator.com/item?id=47184049) - [Let's discuss sandbox isolation](https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/)
 * [2026-02-27, 18:37:53](https://news.ycombinator.com/item?id=47183907) - [Kyber (YC W23) Is Hiring an Enterprise Account Executive](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae)
 * [2026-02-27, 18:24:09](https://news.ycombinator.com/item?id=47183725) - [Writing a Guide to SDF Fonts](https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/)
@@ -20,6 +22,7 @@
 * [2026-02-27, 16:46:29](https://news.ycombinator.com/item?id=47182635) - [ChatGPT Health performance in a structured test of triage recommendations](https://www.nature.com/articles/s41591-026-04297-7)
 * [2026-02-27, 16:34:05](https://news.ycombinator.com/item?id=47182487) - [Allocating on the Stack](https://go.dev/blog/allocation-optimizations)
 * [2026-02-27, 16:33:39](https://news.ycombinator.com/item?id=47182483) - [NASA announces major overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/)
+* [2026-02-27, 15:52:27](https://news.ycombinator.com/item?id=47181944) - [A Chinese official’s use of ChatGPT revealed an intimidation operation](https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation)
 * [2026-02-27, 15:44:33](https://news.ycombinator.com/item?id=47181841) - [Experts sound alarm after ChatGPT Health fails to recognise medical emergencies](https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies)
 * [2026-02-27, 15:41:13](https://news.ycombinator.com/item?id=47181801) - [We gave terabytes of CI logs to an LLM](https://www.mendral.com/blog/llms-are-good-at-sql)
 * [2026-02-27, 15:37:53](https://news.ycombinator.com/item?id=47181753) - [Open source calculator firmware DB48X forbids CA/CO use due to age verification](https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286)

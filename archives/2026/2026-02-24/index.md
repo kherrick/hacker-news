@@ -69,6 +69,7 @@
 * [2026-02-24, 09:15:56](https://news.ycombinator.com/item?id=47134779) - [Decimal-Java is a library to convert java.math.BigDecimal to and from IEEE-754r](https://github.com/FirebirdSQL/decimal-java)
 * [2026-02-24, 07:41:59](https://news.ycombinator.com/item?id=47134063) - [The Engine Behind the Hype](https://www.onuruzunismail.com/blog/the-engine-behind-the-hype)
 * [2026-02-24, 06:53:55](https://news.ycombinator.com/item?id=47133716) - [Show HN: Scheme-langserver – Digest incomplete code with static analysis](https://github.com/ufo5260987423/scheme-langserver)
+* [2026-02-24, 06:34:07](https://news.ycombinator.com/item?id=47133585) - [\"Just a little detail that wouldn't sell anything\"](https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/)
 * [2026-02-24, 05:47:23](https://news.ycombinator.com/item?id=47133313) - [Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 * [2026-02-24, 05:04:50](https://news.ycombinator.com/item?id=47133055) - [Show HN: enveil – hide your .env secrets from prAIng eyes](https://github.com/GreatScott/enveil)
 * [2026-02-24, 04:04:19](https://news.ycombinator.com/item?id=47132721) - [Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series](https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html)
