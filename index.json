@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-27, 03:49:48",
+      "https://news.ycombinator.com/item?id=47176257"
+    ],
+    [
+      "The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?",
+      "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 03:08:09",
+      "https://news.ycombinator.com/item?id=47175931"
+    ],
+    [
+      "Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic",
+      "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html"
+    ]
+  ],
+  [
+    [
       "2026-02-27, 01:18:18",
       "https://news.ycombinator.com/item?id=47175013"
     ],
@@ -11,21 +31,11 @@
   ],
   [
     [
-      "2026-02-27, 00:53:57",
-      "https://news.ycombinator.com/item?id=47174777"
-    ],
-    [
-      "Palantir's AI Is Playing a Major Role in Tracking Gaza Aid Deliveries",
-      "https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel"
-    ]
-  ],
-  [
-    [
       "2026-02-26, 22:42:47",
       "https://news.ycombinator.com/item?id=47173121"
     ],
     [
-      "Statement from Dario Amodei on Our Discussions with the Department of War",
+      "Statement from Dario Amodei on our discussions with the Department of War",
       "https://www.anthropic.com/news/statement-department-of-war"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47172664"
     ],
     [
-      "Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage",
+      "Smartphone market forecast to decline this year due to memory shortage",
       "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/"
     ]
   ],
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2026-02-26, 10:40:45",
-      "https://news.ycombinator.com/item?id=47164270"
+      "2026-02-26, 04:34:26",
+      "https://news.ycombinator.com/item?id=47161889"
     ],
     [
-      "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
-      "https://gitlab.com/here_forawhile/terminalphone"
+      "Move tests to closed source repo",
+      "https://github.com/tldraw/tldraw/issues/8082"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Steering interpretable language models with concept algebra",
       "https://www.guidelabs.ai/post/steerling-steering-8b/"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 19:54:14",
-      "https://news.ycombinator.com/item?id=47156925"
-    ],
-    [
-      "Google API keys weren't secrets, but then Gemini changed the rules",
-      "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2026-02-23, 22:00:58",
-      "https://news.ycombinator.com/item?id=47129589"
-    ],
-    [
-      "The Physics and Economics of Moving 44 Tonnes at 56mph",
-      "https://www.mikeayles.com/blog/heavy-haulage-basics/"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 20:54:34",
       "https://news.ycombinator.com/item?id=47128645"
     ],
     [
       "I baked a pie every day for a year and it changed my life",
       "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 18:13:10",
+      "https://news.ycombinator.com/item?id=47126286"
+    ],
+    [
+      "Cartographic Symbologies: The Art and Design of Expression in Historic Maps",
+      "https://exhibits.stanford.edu/cartosym/browse"
     ]
   ],
   [
