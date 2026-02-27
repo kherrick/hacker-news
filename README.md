@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-27, 16:46:29](https://news.ycombinator.com/item?id=47182635) - [ChatGPT Health performance in a structured test of triage recommendations](https://www.nature.com/articles/s41591-026-04297-7)
 * [2026-02-27, 15:44:33](https://news.ycombinator.com/item?id=47181841) - [Experts sound alarm after ChatGPT Health fails to recognise medical emergencies](https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies)
 * [2026-02-27, 15:41:13](https://news.ycombinator.com/item?id=47181801) - [We gave terabytes of CI logs to an LLM](https://www.mendral.com/blog/llms-are-good-at-sql)
 * [2026-02-27, 15:14:42](https://news.ycombinator.com/item?id=47181471) - [Show HN: Badge that shows how well your codebase fits in an LLM's context window](https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens)
 * [2026-02-27, 15:09:04](https://news.ycombinator.com/item?id=47181391) - [Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices](https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0)
-* [2026-02-27, 14:44:52](https://news.ycombinator.com/item?id=47181051) - [OpenAI's $110B funding round (investments from Amazon, Nvidia, SoftBank)](https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27/)
+* [2026-02-27, 15:08:29](https://news.ycombinator.com/item?id=47181380) - [The Pentagon is making a mistake by threatening Anthropic](https://www.understandingai.org/p/the-pentagon-is-making-a-mistake)
 * [2026-02-27, 14:02:53](https://news.ycombinator.com/item?id=47180569) - [We deserve a better streams API for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/)
 * [2026-02-27, 13:06:50](https://news.ycombinator.com/item?id=47180083) - [Show HN: RetroTick – Run classic Windows EXEs in the browser](https://retrotick.com/)
 * [2026-02-27, 10:27:29](https://news.ycombinator.com/item?id=47178863) - [F-Droid Board of Directors nominations 2026](https://f-droid.org/2026/02/26/board-of-directors-nominations.html)
@@ -29,7 +30,6 @@
 * [2026-02-24, 15:16:08](https://news.ycombinator.com/item?id=47138213) - [The history of knocking on wood](https://resobscura.substack.com/p/neolithic-habits-machine-age-tools)
 * [2026-02-24, 10:06:43](https://news.ycombinator.com/item?id=47135159) - [Sprites on the Web](https://www.joshwcomeau.com/animation/sprites/)
 * [2026-02-24, 02:06:50](https://news.ycombinator.com/item?id=47131980) - [Reading English from 1000 Ad](https://lewiscampbell.tech/blog/260224.html)
-* [2026-02-23, 14:56:58](https://news.ycombinator.com/item?id=47123109) - [The Origins of Agar](https://www.asimov.press/p/agar)
 
 ## [Archives](archives/index.md)
 
