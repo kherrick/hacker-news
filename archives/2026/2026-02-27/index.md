@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-27](index.md)
 
+* [2026-02-27, 22:31:18](https://news.ycombinator.com/item?id=47186677) - [Department of War Designates Anthropic Supply Chain Risk](https://twitter.com/i/status/2027507717469049070)
+* [2026-02-27, 22:13:54](https://news.ycombinator.com/item?id=47186444) - [Otters as Bioindicators of Estuarine Health](https://emt.pensoft.net/article/185117/)
+* [2026-02-27, 22:00:29](https://news.ycombinator.com/item?id=47186277) - [The Most-Seen UI on the Internet? Redesigning Turnstile and Challenge Pages](https://blog.cloudflare.com/the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages/)
 * [2026-02-27, 21:49:11](https://news.ycombinator.com/item?id=47186127) - [Trump orders US Government to cut ties with Anthropic](https://abcnews.com/Politics/anthropic-latest-pentagon-contract-bar-ai-autonomous-weapons/story?id=130558898)
 * [2026-02-27, 20:05:17](https://news.ycombinator.com/item?id=47184864) - [DOS Memory Management](http://www.os2museum.com/wp/dos-memory-management/)
 * [2026-02-27, 19:51:33](https://news.ycombinator.com/item?id=47184744) - [The Robotic Dexterity Deadlock](https://www.origami-robotics.com/blog/dexterity-deadlocks.html)
