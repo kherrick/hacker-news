@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-02-27, 16:34:05",
+      "https://news.ycombinator.com/item?id=47182487"
+    ],
+    [
+      "Allocating on the Stack",
+      "https://go.dev/blog/allocation-optimizations"
+    ]
+  ],
+  [
+    [
       "2026-02-27, 16:33:39",
       "https://news.ycombinator.com/item?id=47182483"
     ],
@@ -37,6 +47,16 @@
     [
       "We gave terabytes of CI logs to an LLM",
       "https://www.mendral.com/blog/llms-are-good-at-sql"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 15:37:53",
+      "https://news.ycombinator.com/item?id=47181753"
+    ],
+    [
+      "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
+      "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286"
     ]
   ],
   [
@@ -71,11 +91,21 @@
   ],
   [
     [
+      "2026-02-27, 14:55:49",
+      "https://news.ycombinator.com/item?id=47181208"
+    ],
+    [
+      "New California law requires age verification for all OS accounts",
+      "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/"
+    ]
+  ],
+  [
+    [
       "2026-02-27, 14:02:53",
       "https://news.ycombinator.com/item?id=47180569"
     ],
     [
-      "We deserve a better streams API for JavaScript",
+      "A better streams API is possible for JavaScript",
       "https://blog.cloudflare.com/a-better-web-streams-api/"
     ]
   ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-02-27, 08:02:52",
-      "https://news.ycombinator.com/item?id=47177877"
-    ],
-    [
-      "The complete Manic Miner disassembly",
-      "https://skoolkit.ca/disassemblies/manic_miner/"
-    ]
-  ],
-  [
-    [
       "2026-02-27, 06:21:23",
       "https://news.ycombinator.com/item?id=47177186"
     ],
@@ -177,16 +197,6 @@
     [
       "Statement from Dario Amodei on our discussions with the Department of War",
       "https://www.anthropic.com/news/statement-department-of-war"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 21:17:56",
-      "https://news.ycombinator.com/item?id=47172119"
-    ],
-    [
-      "Layoffs at Block",
-      "https://twitter.com/jack/status/2027129697092731343"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "An interactive intro to quadtrees",
       "https://growingswe.com/blog/quadtrees"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 15:56:32",
-      "https://news.ycombinator.com/item?id=47138698"
-    ],
-    [
-      "80386 Protection",
-      "https://nand2mario.github.io/posts/2026/80386_protection/"
     ]
   ],
   [
