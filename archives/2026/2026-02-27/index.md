@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-27](index.md)
 
+* [2026-02-27, 21:49:11](https://news.ycombinator.com/item?id=47186127) - [Trump orders US Government to cut ties with Anthropic](https://abcnews.com/Politics/anthropic-latest-pentagon-contract-bar-ai-autonomous-weapons/story?id=130558898)
 * [2026-02-27, 20:05:17](https://news.ycombinator.com/item?id=47184864) - [DOS Memory Management](http://www.os2museum.com/wp/dos-memory-management/)
 * [2026-02-27, 19:51:33](https://news.ycombinator.com/item?id=47184744) - [The Robotic Dexterity Deadlock](https://www.origami-robotics.com/blog/dexterity-deadlocks.html)
 * [2026-02-27, 19:26:38](https://news.ycombinator.com/item?id=47184480) - [Red Dwarf creator Rob Grant has died](https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant)
