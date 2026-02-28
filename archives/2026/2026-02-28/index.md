@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 17:43:22](https://news.ycombinator.com/item?id=47198099) - [CSP for Pentesters: Understanding the Fundamentals](https://www.kayssel.com/newsletter/issue-20/)
 * [2026-02-28, 16:58:54](https://news.ycombinator.com/item?id=47197595) - [Verified Spec-Driven Development (VSDD)](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
 * [2026-02-28, 16:51:49](https://news.ycombinator.com/item?id=47197505) - [The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam)
 * [2026-02-28, 16:31:53](https://news.ycombinator.com/item?id=47197267) - [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
