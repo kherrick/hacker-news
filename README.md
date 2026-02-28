@@ -6,7 +6,6 @@
 * [2026-02-28, 16:31:53](https://news.ycombinator.com/item?id=47197267) - [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
 * [2026-02-28, 13:50:13](https://news.ycombinator.com/item?id=47195371) - [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632)
 * [2026-02-28, 13:46:20](https://news.ycombinator.com/item?id=47195317) - [OpenAI fires an employee for prediction market insider trading](https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/)
-* [2026-02-28, 13:35:54](https://news.ycombinator.com/item?id=47195210) - [Everything Changes, and Nothing Changes](https://btao.org/posts/2026-02-28-everything-changes-nothing-changes/)
 * [2026-02-28, 13:32:28](https://news.ycombinator.com/item?id=47195157) - [The Life Cycle of Money](https://doap.metal.bohyen.space/blog/post/complete-life-cycle-of-money/)
 * [2026-02-28, 13:29:36](https://news.ycombinator.com/item?id=47195123) - [Show HN: Now I Get It – Translate scientific papers into interactive webpages](https://nowigetit.us)
 * [2026-02-28, 12:39:32](https://news.ycombinator.com/item?id=47194611) - [Don't trust AI agents](https://nanoclaw.dev/blog/nanoclaw-security-model)
@@ -28,6 +27,7 @@
 * [2026-02-25, 18:07:09](https://news.ycombinator.com/item?id=47155235) - [Ghosts'n Goblins – “Worse danger is ahead”](https://superchartisland.com/ghostsn-goblins/)
 * [2026-02-25, 17:28:33](https://news.ycombinator.com/item?id=47154637) - [New evidence that Cantor plagiarized Dedekind?](https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/)
 * [2026-02-25, 15:36:36](https://news.ycombinator.com/item?id=47152967) - [More Cows, More Wives](https://www.worksinprogress.news/p/more-cows-more-wives)
+* [2026-02-25, 11:55:06](https://news.ycombinator.com/item?id=47150352) - [What I learned while trying to build a production-ready nearest neighbor system](https://github.com/thatipamula-jashwanth/smart-knn)
 * [2026-02-25, 05:14:09](https://news.ycombinator.com/item?id=47147597) - [The Eternal Promise: A History of Attempts to Eliminate Programmers](https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/)
 * [2026-02-24, 23:14:16](https://news.ycombinator.com/item?id=47144835) - [How Long Is the Coast of Britain? (1967)](https://www.jstor.org/stable/1721427)
 

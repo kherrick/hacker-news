@@ -58,6 +58,7 @@
 * [2026-02-25, 12:30:36](https://news.ycombinator.com/item?id=47150674) - [I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye](https://paultendo.github.io/posts/confusable-vision-visual-similarity/)
 * [2026-02-25, 12:16:12](https://news.ycombinator.com/item?id=47150546) - [Inventing the Lisa user interface – Interactions](https://dl.acm.org/doi/10.1145/242388.242405)
 * [2026-02-25, 12:01:11](https://news.ycombinator.com/item?id=47150403) - [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer)
+* [2026-02-25, 11:55:06](https://news.ycombinator.com/item?id=47150352) - [What I learned while trying to build a production-ready nearest neighbor system](https://github.com/thatipamula-jashwanth/smart-knn)
 * [2026-02-25, 10:36:43](https://news.ycombinator.com/item?id=47149829) - [Writing a \"clear room\" Z80 and Spectrum emulator with Claude Code](https://antirez.com/news/160)
 * [2026-02-25, 10:34:41](https://news.ycombinator.com/item?id=47149811) - [Vinext – The Next.js API surface, reimplemented on Vite](https://github.com/cloudflare/vinext)
 * [2026-02-25, 10:24:23](https://news.ycombinator.com/item?id=47149752) - [100M-Row Challenge with PHP](https://github.com/tempestphp/100-million-row-challenge)
