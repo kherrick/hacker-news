@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-28, 07:45:36",
+      "https://news.ycombinator.com/item?id=47191844"
+    ],
+    [
+      "Inferring Car Movement Patterns from Passive TPMS Measurements",
+      "https://dspace.networks.imdea.org/handle/20.500.12761/2011"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 06:57:46",
       "https://news.ycombinator.com/item?id=47191414"
     ],
@@ -117,26 +127,6 @@
     [
       "Let's discuss sandbox isolation",
       "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 18:24:09",
-      "https://news.ycombinator.com/item?id=47183725"
-    ],
-    [
-      "Writing a Guide to SDF Fonts",
-      "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 16:34:05",
-      "https://news.ycombinator.com/item?id=47182487"
-    ],
-    [
-      "Allocating on the Stack",
-      "https://go.dev/blog/allocation-optimizations"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Inventing the Lisa user interface – Interactions",
       "https://dl.acm.org/doi/10.1145/242388.242405"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 05:14:09",
+      "https://news.ycombinator.com/item?id=47147597"
+    ],
+    [
+      "The Eternal Promise: A History of Attempts to Eliminate Programmers",
+      "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/"
     ]
   ],
   [
