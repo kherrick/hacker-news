@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=47190806"
     ],
     [
-      "Cash Issuing Terminals",
+      "Cash issuing terminals",
       "https://computer.rip/2026-02-27-ibm-atm.html"
     ]
   ],
@@ -91,22 +91,12 @@
   ],
   [
     [
-      "2026-02-27, 22:31:18",
-      "https://news.ycombinator.com/item?id=47186677"
+      "2026-02-27, 22:13:54",
+      "https://news.ycombinator.com/item?id=47186444"
     ],
     [
-      "I am directing the Department of War to designate Anthropic a supply-chain risk",
-      "https://twitter.com/secwar/status/2027507717469049070"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 21:40:40",
-      "https://news.ycombinator.com/item?id=47186031"
-    ],
-    [
-      "President Trump bans Anthropic from use in government systems",
-      "https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban"
+      "Otters as Bioindicators of Estuarine Health",
+      "https://emt.pensoft.net/article/185117/"
     ]
   ],
   [
@@ -121,22 +111,22 @@
   ],
   [
     [
-      "2026-02-27, 18:40:31",
-      "https://news.ycombinator.com/item?id=47183940"
-    ],
-    [
-      "GitHub Copilot CLI downloads and executes malware",
-      "https://www.promptarmor.com/resources/github-copilot-cli-downloads-and-executes-malware"
-    ]
-  ],
-  [
-    [
       "2026-02-27, 18:37:53",
       "https://news.ycombinator.com/item?id=47183907"
     ],
     [
       "Kyber (YC W23) Is Hiring an Enterprise Account Executive",
       "https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 18:24:09",
+      "https://news.ycombinator.com/item?id=47183725"
+    ],
+    [
+      "Writing a Guide to SDF Fonts",
+      "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/"
     ]
   ],
   [
@@ -221,21 +211,11 @@
   ],
   [
     [
-      "2026-02-27, 09:08:58",
-      "https://news.ycombinator.com/item?id=47178371"
-    ],
-    [
-      "Get free Claude max 20x for open-source maintainers",
-      "https://claude.com/contact-sales/claude-for-oss"
-    ]
-  ],
-  [
-    [
       "2026-02-26, 21:30:19",
       "https://news.ycombinator.com/item?id=47172238"
     ],
     [
-      "Show HN: Unfucked - version all changes (by anything) - local-first/source avail",
+      "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
       "https://www.unfudged.io/"
     ]
   ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2026-02-25, 02:20:13",
+      "https://news.ycombinator.com/item?id=47146487"
+    ],
+    [
+      "Can you reverse engineer our neural network?",
+      "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 13:04:25",
       "https://news.ycombinator.com/item?id=47136612"
     ],
     [
       "Eschewing Zshell for Emacs Shell (2014)",
       "https://www.howardism.org/Technical/Emacs/eshell-fun.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 12:58:11",
+      "https://news.ycombinator.com/item?id=47136535"
+    ],
+    [
+      "Semantic Syntax Highlighting for Lisp in Emacs",
+      "https://github.com/calsys456/lisp-semantic-hl.el"
     ]
   ]
 ]
