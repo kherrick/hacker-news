@@ -62,6 +62,7 @@
 * [2026-02-24, 12:58:14](https://news.ycombinator.com/item?id=47136537) - [IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html)
 * [2026-02-24, 12:58:11](https://news.ycombinator.com/item?id=47136535) - [Semantic Syntax Highlighting for Lisp in Emacs](https://github.com/calsys456/lisp-semantic-hl.el)
 * [2026-02-24, 12:51:49](https://news.ycombinator.com/item?id=47136477) - [xAI and Pentagon reach deal to use Grok in classified systems](https://www.axios.com/2026/02/23/ai-defense-department-deal-musk-xai-grok)
+* [2026-02-24, 12:27:44](https://news.ycombinator.com/item?id=47136272) - [Package Managers à la Carte: a formal model of dependency resolution](https://arxiv.org/abs/2602.18602)
 * [2026-02-24, 12:16:45](https://news.ycombinator.com/item?id=47136179) - [IDF killed Gaza aid workers at point blank range in 2025 massacre: Report](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
 * [2026-02-24, 11:59:14](https://news.ycombinator.com/item?id=47136036) - [Discord cuts ties with Peter Thiel-backed verification software](https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/)
 * [2026-02-24, 11:00:33](https://news.ycombinator.com/item?id=47135562) - [Atlantic: Sam Altman Is Losing His Grip on Humanity](https://www.theatlantic.com/technology/2026/02/sam-altman-train-a-human/686120/)

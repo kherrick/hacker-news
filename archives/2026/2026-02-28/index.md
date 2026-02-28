@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 05:55:01](https://news.ycombinator.com/item?id=47190997) - [How do I cancel my ChatGPT subscription?](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription)
+* [2026-02-28, 05:47:39](https://news.ycombinator.com/item?id=47190947) - [Rust Is Just a Tool](https://lewiscampbell.tech/blog/260204.html)
 * [2026-02-28, 05:21:21](https://news.ycombinator.com/item?id=47190806) - [Cash Issuing Terminals](https://computer.rip/2026-02-27-ibm-atm.html)
 * [2026-02-28, 03:23:16](https://news.ycombinator.com/item?id=47189853) - [OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 * [2026-02-28, 03:11:40](https://news.ycombinator.com/item?id=47189749) - [Please, please, please stop using passkeys for encrypting user data](https://blog.timcappalli.me/p/passkeys-prf-warning/)
