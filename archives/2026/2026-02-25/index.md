@@ -24,6 +24,7 @@
 * [2026-02-25, 18:24:46](https://news.ycombinator.com/item?id=47155526) - [Woxi: Wolfram Mathematica Reimplementation in Rust](https://github.com/ad-si/Woxi)
 * [2026-02-25, 18:15:07](https://news.ycombinator.com/item?id=47155375) - [Show HN: I ported Manim to TypeScript (run 3b1B math animations in the browser)](https://github.com/maloyan/manim-web)
 * [2026-02-25, 18:12:27](https://news.ycombinator.com/item?id=47155325) - [The Appeal and Reality of Recycling LoRAs with Adaptive Merging](https://arxiv.org/abs/2602.12323)
+* [2026-02-25, 18:07:09](https://news.ycombinator.com/item?id=47155235) - [Ghosts'n Goblins – \"Worse danger is ahead\"](https://superchartisland.com/ghostsn-goblins/)
 * [2026-02-25, 17:49:27](https://news.ycombinator.com/item?id=47154983) - [The Pentagon Threatens Anthropic](https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic)
 * [2026-02-25, 17:48:21](https://news.ycombinator.com/item?id=47154971) - [om](https://www.om-language.com/)
 * [2026-02-25, 17:47:47](https://news.ycombinator.com/item?id=47154962) - [Time-Travel Debugging: Replaying Production Bugs Locally](https://lackofimagination.org/2026/02/time-travel-debugging-replaying-production-bugs-locally/)
