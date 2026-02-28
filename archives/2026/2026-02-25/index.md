@@ -60,6 +60,7 @@
 * [2026-02-25, 10:16:22](https://news.ycombinator.com/item?id=47149701) - [Danish Gov agency to ditch Microsoft software in push for digital independence](https://therecord.media/denmark-digital-agency-microsoft-digital-independence)
 * [2026-02-25, 10:02:45](https://news.ycombinator.com/item?id=47149586) - [Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/)
 * [2026-02-25, 10:02:37](https://news.ycombinator.com/item?id=47149582) - [Debian Removes Free Pascal Compiler / Lazarus IDE](https://forum.lazarus.freepascal.org/index.php?topic=73405.0)
+* [2026-02-25, 09:31:22](https://news.ycombinator.com/item?id=47149348) - [Better Activation Functions for NNUE](https://cosmo.tardis.ac/files/2026-01-27-activation-2.html)
 * [2026-02-25, 09:05:40](https://news.ycombinator.com/item?id=47149151) - [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/)
 * [2026-02-25, 07:22:56](https://news.ycombinator.com/item?id=47148454) - [Claude Code Remote Control](https://code.claude.com/docs/en/remote-control)
 * [2026-02-25, 06:45:24](https://news.ycombinator.com/item?id=47148159) - [Ed Zitron loses his mind annotating an AI doomer macro memo](https://www.dropbox.com/scl/fi/1p1n0y1ip48ianok9dvbp/Annotation-The-Global-Intelligence-Crisis.pdf?dl=0&e=1&noscript=1&rlkey=qaar8ea6l5hh6jqls4x6g8q4b)
