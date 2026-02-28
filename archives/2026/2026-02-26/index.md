@@ -56,6 +56,7 @@
 * [2026-02-26, 10:08:01](https://news.ycombinator.com/item?id=47164079) - [Show HN: Better Hub – A better GitHub experience](https://www.better-hub.com/)
 * [2026-02-26, 09:51:48](https://news.ycombinator.com/item?id=47163985) - [Technical Excellence Is Not Enough](https://raccoon.land/posts/technical-excellence-is-not-enough/)
 * [2026-02-26, 09:35:08](https://news.ycombinator.com/item?id=47163885) - [Tell HN: YC companies scrape GitHub activity, send spam emails to users](https://news.ycombinator.com/item?id=47163885)
+* [2026-02-26, 07:52:29](https://news.ycombinator.com/item?id=47163167) - [From Noise to Image – interactive guide to diffusion](https://lighthousesoftware.co.uk/projects/from-noise-to-image/)
 * [2026-02-26, 04:59:01](https://news.ycombinator.com/item?id=47162059) - [I don't know how you get here from \"predict the next word.\"](https://www.grumpy-economist.com/p/refine)
 * [2026-02-26, 04:34:26](https://news.ycombinator.com/item?id=47161889) - [Move tests to closed source repo](https://github.com/tldraw/tldraw/issues/8082)
 * [2026-02-26, 03:36:57](https://news.ycombinator.com/item?id=47161498) - [Self-improving software won't produce Skynet](https://contalign.jefflunt.com/self-improving-software/)

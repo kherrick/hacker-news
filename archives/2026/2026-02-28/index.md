@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 15:15:08](https://news.ycombinator.com/item?id=47196263) - [Is GitHub Copilot still relevant in the enterprise?](https://news.ycombinator.com/item?id=47196263)
+* [2026-02-28, 14:58:02](https://news.ycombinator.com/item?id=47196069) - [Show HN: Rust-powered document chunker for RAG – 40x faster, O(1) memory](https://github.com/Krira-Labs/krira-chunker)
 * [2026-02-28, 14:10:04](https://news.ycombinator.com/item?id=47195582) - [Please do not use auto-scrolling content on the web and in applications](https://cerovac.com/a11y/2026/01/please-do-not-use-auto-scrolling-content-on-the-web-and-in-applications/)
 * [2026-02-28, 14:05:27](https://news.ycombinator.com/item?id=47195530) - [Show HN: Decided to play god this morning, so I built an agent civilisation](https://github.com/nocodemf/werld)
 * [2026-02-28, 13:50:13](https://news.ycombinator.com/item?id=47195371) - [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632)
