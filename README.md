@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-28, 13:29:36](https://news.ycombinator.com/item?id=47195123) - [Show HN: Now I Get It – Translate scientific papers into interactive webpages](https://nowigetit.us)
+* [2026-02-28, 13:26:51](https://news.ycombinator.com/item?id=47195093) - [Customer Update on Simplenote](https://forums.simplenote.com/forums/topic/customer-update-on-simplenote/?view=all)
 * [2026-02-28, 12:39:32](https://news.ycombinator.com/item?id=47194611) - [Don't trust AI agents](https://nanoclaw.dev/blog/nanoclaw-security-model)
 * [2026-02-28, 11:24:45](https://news.ycombinator.com/item?id=47193832) - [Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash](https://github.com/junevm/splathash)
 * [2026-02-28, 10:41:55](https://news.ycombinator.com/item?id=47193478) - [OpenAI – How to delete your account](https://help.openai.com/en/articles/6378407-how-to-delete-your-account)
 * [2026-02-28, 10:41:53](https://news.ycombinator.com/item?id=47193476) - [The Future of AI](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 * [2026-02-28, 08:56:33](https://news.ycombinator.com/item?id=47192505) - [Unsloth Dynamic 2.0 GGUFs](https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs)
-* [2026-02-28, 07:45:36](https://news.ycombinator.com/item?id=47191844) - [Inferring car movement patterns from passive TPMS measurements](https://dspace.networks.imdea.org/handle/20.500.12761/2011)
 * [2026-02-28, 06:34:07](https://news.ycombinator.com/item?id=47191232) - [US and Israel launch strikes on Iran, as Trump says ‘massive’ campaign underway](https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk)
 * [2026-02-28, 05:21:21](https://news.ycombinator.com/item?id=47190806) - [Cash issuing terminals](https://computer.rip/2026-02-27-ibm-atm.html)
 * [2026-02-28, 02:59:02](https://news.ycombinator.com/item?id=47189650) - [OpenAI agrees with Dept. of War to deploy models in their classified network](https://twitter.com/sama/status/2027578652477821175)
@@ -28,7 +29,6 @@
 * [2026-02-25, 15:36:36](https://news.ycombinator.com/item?id=47152967) - [More Cows, More Wives](https://www.worksinprogress.news/p/more-cows-more-wives)
 * [2026-02-25, 09:31:22](https://news.ycombinator.com/item?id=47149348) - [Better Activation Functions for NNUE](https://cosmo.tardis.ac/files/2026-01-27-activation-2.html)
 * [2026-02-25, 05:14:09](https://news.ycombinator.com/item?id=47147597) - [The Eternal Promise: A History of Attempts to Eliminate Programmers](https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/)
-* [2026-02-24, 13:04:25](https://news.ycombinator.com/item?id=47136612) - [Eschewing Zshell for Emacs Shell (2014)](https://www.howardism.org/Technical/Emacs/eshell-fun.html)
 * [2026-02-24, 12:27:44](https://news.ycombinator.com/item?id=47136272) - [Package Managers à la Carte: a formal model of dependency resolution](https://arxiv.org/abs/2602.18602)
 
 ## [Archives](archives/index.md)

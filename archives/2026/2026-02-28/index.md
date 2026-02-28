@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 13:29:36](https://news.ycombinator.com/item?id=47195123) - [Show HN: Now I Get It – Translate scientific papers into interactive webpages](https://nowigetit.us)
+* [2026-02-28, 13:26:51](https://news.ycombinator.com/item?id=47195093) - [Customer Update on Simplenote](https://forums.simplenote.com/forums/topic/customer-update-on-simplenote/?view=all)
 * [2026-02-28, 12:39:32](https://news.ycombinator.com/item?id=47194611) - [Don't trust AI agents](https://nanoclaw.dev/blog/nanoclaw-security-model)
 * [2026-02-28, 11:24:45](https://news.ycombinator.com/item?id=47193832) - [Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash](https://github.com/junevm/splathash)
 * [2026-02-28, 10:58:40](https://news.ycombinator.com/item?id=47193606) - [Tell HN: 3 months ago we feared AI was useless. Now we fear it will take our job](https://news.ycombinator.com/item?id=47193606)
