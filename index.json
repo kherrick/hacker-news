@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-28, 03:11:40",
+      "https://news.ycombinator.com/item?id=47189749"
+    ],
+    [
+      "Please, please, please stop using passkeys for encrypting user data",
+      "https://blog.timcappalli.me/p/passkeys-prf-warning/"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 02:59:02",
+      "https://news.ycombinator.com/item?id=47189650"
+    ],
+    [
+      "OpenAI Executes Agreement with Dept of War for Classified Environment Deployment",
+      "https://twitter.com/sama/status/2027578652477821175"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 01:20:10",
       "https://news.ycombinator.com/item?id=47188697"
     ],
@@ -61,12 +81,12 @@
   ],
   [
     [
-      "2026-02-27, 19:26:38",
-      "https://news.ycombinator.com/item?id=47184480"
+      "2026-02-27, 21:40:40",
+      "https://news.ycombinator.com/item?id=47186031"
     ],
     [
-      "Rob Grant, creator of Red Dwarf, has died",
-      "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant"
+      "President Trump bans Anthropic from use in government systems",
+      "https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-02-27, 15:09:04",
-      "https://news.ycombinator.com/item?id=47181391"
-    ],
-    [
-      "Court finds Fourth Amendment doesn’t support broad search of protesters’ devices",
-      "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0"
-    ]
-  ],
-  [
-    [
       "2026-02-27, 15:03:12",
       "https://news.ycombinator.com/item?id=47181316"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-02-26, 13:31:08",
-      "https://news.ycombinator.com/item?id=47165813"
-    ],
-    [
-      "Show HN: I built a self-hosted course platform in Clojure",
-      "https://clojure.stream"
-    ]
-  ],
-  [
-    [
       "2026-02-25, 12:16:12",
       "https://news.ycombinator.com/item?id=47150546"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-02-25, 04:01:11",
+      "https://news.ycombinator.com/item?id=47147165"
+    ],
+    [
+      "Gawk 5.4.0 is released, with replaced MinRX matcher",
+      "https://lists.gnu.org/archive/html/info-gnu/2026-02/msg00011.html"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 15:32:00",
       "https://news.ycombinator.com/item?id=47138429"
     ],
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2026-02-24, 13:54:21",
-      "https://news.ycombinator.com/item?id=47137199"
+      "2026-02-24, 13:04:25",
+      "https://news.ycombinator.com/item?id=47136612"
     ],
     [
-      "Modeling cycles of grift with evolutionary game theory",
-      "https://www.oranlooney.com/post/grifters-skeptics-marks/"
+      "Eschewing Zshell for Emacs Shell (2014)",
+      "https://www.howardism.org/Technical/Emacs/eshell-fun.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "PCB Tracer",
       "https://pcbtracer.com"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 02:06:50",
-      "https://news.ycombinator.com/item?id=47131980"
-    ],
-    [
-      "Reading English from 1000 AD",
-      "https://lewiscampbell.tech/blog/260224.html"
     ]
   ]
 ]
