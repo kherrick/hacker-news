@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-02-28, 12:39:32",
+      "https://news.ycombinator.com/item?id=47194611"
+    ],
+    [
+      "Don't trust AI agents",
+      "https://nanoclaw.dev/blog/nanoclaw-security-model"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 11:24:45",
+      "https://news.ycombinator.com/item?id=47193832"
+    ],
+    [
+      "Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash",
+      "https://github.com/junevm/splathash"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 10:41:55",
       "https://news.ycombinator.com/item?id=47193478"
     ],
     [
       "OpenAI – How to delete your account",
       "https://help.openai.com/en/articles/6378407-how-to-delete-your-account"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 10:41:53",
+      "https://news.ycombinator.com/item?id=47193476"
+    ],
+    [
+      "The Future of AI",
+      "https://lucijagregov.com/2026/02/26/the-future-of-ai/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Cash issuing terminals",
       "https://computer.rip/2026-02-27-ibm-atm.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-28, 03:11:40",
-      "https://news.ycombinator.com/item?id=47189749"
-    ],
-    [
-      "Don't use passkeys for encrypting user data",
-      "https://blog.timcappalli.me/p/passkeys-prf-warning/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-02-27, 15:41:13",
-      "https://news.ycombinator.com/item?id=47181801"
-    ],
-    [
-      "We gave terabytes of CI logs to an LLM",
-      "https://www.mendral.com/blog/llms-are-good-at-sql"
-    ]
-  ],
-  [
-    [
       "2026-02-27, 15:37:53",
       "https://news.ycombinator.com/item?id=47181753"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-02-26, 21:30:19",
-      "https://news.ycombinator.com/item?id=47172238"
-    ],
-    [
-      "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
-      "https://www.unfudged.io/"
-    ]
-  ],
-  [
-    [
       "2026-02-26, 18:29:56",
       "https://news.ycombinator.com/item?id=47170030"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-02-26, 03:03:00",
-      "https://news.ycombinator.com/item?id=47161277"
-    ],
-    [
-      "The man building Team USA's Olympic bobsleds",
-      "https://www.adirondackexplorer.org/community-news/people/lake-placid-man-builds-team-usas-olympic-bobsleds/"
-    ]
-  ],
-  [
-    [
       "2026-02-25, 21:04:58",
       "https://news.ycombinator.com/item?id=47157840"
     ],
@@ -257,6 +247,16 @@
     [
       "Time-Travel Debugging: Replaying Production Bugs Locally",
       "https://lackofimagination.org/2026/02/time-travel-debugging-replaying-production-bugs-locally/"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 15:36:36",
+      "https://news.ycombinator.com/item?id=47152967"
+    ],
+    [
+      "More Cows, More Wives",
+      "https://www.worksinprogress.news/p/more-cows-more-wives"
     ]
   ],
   [
