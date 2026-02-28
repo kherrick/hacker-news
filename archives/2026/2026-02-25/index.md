@@ -19,6 +19,7 @@
 * [2026-02-25, 18:38:33](https://news.ycombinator.com/item?id=47155772) - [Attyx – tiny and fast GPU-accelerated terminal emulator written in Zig](https://github.com/semos-labs/attyx)
 * [2026-02-25, 18:28:37](https://news.ycombinator.com/item?id=47155597) - [Show HN: I ported Tree-sitter to Go](https://github.com/odvcencio/gotreesitter)
 * [2026-02-25, 18:25:57](https://news.ycombinator.com/item?id=47155548) - [The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/)
+* [2026-02-25, 18:15:07](https://news.ycombinator.com/item?id=47155375) - [Show HN: I ported Manim to TypeScript (run 3b1B math animations in the browser)](https://github.com/maloyan/manim-web)
 * [2026-02-25, 18:12:27](https://news.ycombinator.com/item?id=47155325) - [The Appeal and Reality of Recycling LoRAs with Adaptive Merging](https://arxiv.org/abs/2602.12323)
 * [2026-02-25, 17:49:27](https://news.ycombinator.com/item?id=47154983) - [The Pentagon Threatens Anthropic](https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic)
 * [2026-02-25, 17:48:21](https://news.ycombinator.com/item?id=47154971) - [om](https://www.om-language.com/)
