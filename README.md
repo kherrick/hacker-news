@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-28, 20:35:29](https://news.ycombinator.com/item?id=47199948) - [Our Agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war)
+* [2026-02-28, 20:20:00](https://news.ycombinator.com/item?id=47199781) - [Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers](https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance)
 * [2026-02-28, 19:04:01](https://news.ycombinator.com/item?id=47198977) - [Block the \"Upgrade to Tahoe\" Alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/)
 * [2026-02-28, 16:58:54](https://news.ycombinator.com/item?id=47197595) - [Verified Spec-Driven Development (VSDD)](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
 * [2026-02-28, 16:51:49](https://news.ycombinator.com/item?id=47197505) - [The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam)
@@ -26,7 +27,6 @@
 * [2026-02-25, 18:24:46](https://news.ycombinator.com/item?id=47155526) - [Woxi: Wolfram Mathematica Reimplementation in Rust](https://github.com/ad-si/Woxi)
 * [2026-02-25, 18:07:09](https://news.ycombinator.com/item?id=47155235) - [Ghosts'n Goblins – “Worse danger is ahead”](https://superchartisland.com/ghostsn-goblins/)
 * [2026-02-25, 17:28:33](https://news.ycombinator.com/item?id=47154637) - [New evidence that Cantor plagiarized Dedekind?](https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/)
-* [2026-02-25, 16:31:24](https://news.ycombinator.com/item?id=47153797) - [Seeing Like a Sedan](https://asteriskmag.com/issues/13/seeing-like-a-sedan)
 * [2026-02-25, 11:55:06](https://news.ycombinator.com/item?id=47150352) - [What I learned while trying to build a production-ready nearest neighbor system](https://github.com/thatipamula-jashwanth/smart-knn)
 * [2026-02-25, 05:14:09](https://news.ycombinator.com/item?id=47147597) - [The Eternal Promise: A History of Attempts to Eliminate Programmers](https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/)
 * [2026-02-24, 23:14:16](https://news.ycombinator.com/item?id=47144835) - [How Long Is the Coast of Britain? (1967)](https://www.jstor.org/stable/1721427)
