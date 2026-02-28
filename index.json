@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-02-27, 23:25:59",
-      "https://news.ycombinator.com/item?id=47187450"
+      "2026-02-28, 01:20:10",
+      "https://news.ycombinator.com/item?id=47188697"
     ],
     [
-      "Show HN: I built a site where you hire yourself instead of applying for jobs",
-      "https://hired.wtf"
+      "Statement on the comments from Secretary of War Pete Hegseth",
+      "https://www.anthropic.com/news/statement-comments-secretary-war"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 00:54:53",
+      "https://news.ycombinator.com/item?id=47188473"
+    ],
+    [
+      "We Will Not Be Divided",
+      "https://notdivided.org"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 23:42:14",
+      "https://news.ycombinator.com/item?id=47187649"
+    ],
+    [
+      "Qt45: A small polymerase ribozyme that can synthesize itself",
+      "https://www.science.org/doi/10.1126/science.adt2760"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=47186677"
     ],
     [
-      "I am directing the Department of War to designate Anthropic a Supply-Chain Risk",
+      "I am directing the Department of War to designate Anthropic a supply-chain risk",
       "https://twitter.com/secwar/status/2027507717469049070"
     ]
   ],
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2026-02-27, 22:00:29",
-      "https://news.ycombinator.com/item?id=47186277"
-    ],
-    [
-      "The Most-Seen UI on the Internet? Redesigning Turnstile and Challenge Pages",
-      "https://blog.cloudflare.com/the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages/"
-    ]
-  ],
-  [
-    [
       "2026-02-27, 19:26:38",
       "https://news.ycombinator.com/item?id=47184480"
     ],
     [
       "Rob Grant, creator of Red Dwarf, has died",
       "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 19:08:25",
-      "https://news.ycombinator.com/item?id=47184288"
-    ],
-    [
-      "Leaving Google has actively improved my life",
-      "https://pseudosingleton.com/leaving-google-improved-my-life/"
     ]
   ],
   [
@@ -131,6 +131,26 @@
   ],
   [
     [
+      "2026-02-27, 15:52:27",
+      "https://news.ycombinator.com/item?id=47181944"
+    ],
+    [
+      "A Chinese official’s use of ChatGPT revealed an intimidation operation",
+      "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 15:41:13",
+      "https://news.ycombinator.com/item?id=47181801"
+    ],
+    [
+      "We gave terabytes of CI logs to an LLM",
+      "https://www.mendral.com/blog/llms-are-good-at-sql"
+    ]
+  ],
+  [
+    [
       "2026-02-27, 15:37:53",
       "https://news.ycombinator.com/item?id=47181753"
     ],
@@ -191,32 +211,22 @@
   ],
   [
     [
-      "2026-02-27, 13:06:50",
-      "https://news.ycombinator.com/item?id=47180083"
-    ],
-    [
-      "Show HN: RetroTick – Run classic Windows EXEs in the browser",
-      "https://retrotick.com/"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 10:52:07",
-      "https://news.ycombinator.com/item?id=47179038"
-    ],
-    [
-      "Tell HN: MitID, Denmark's digital ID, was down",
-      "https://news.ycombinator.com/item?id=47179038"
-    ]
-  ],
-  [
-    [
       "2026-02-27, 09:08:58",
       "https://news.ycombinator.com/item?id=47178371"
     ],
     [
       "Get free Claude max 20x for open-source maintainers",
       "https://claude.com/contact-sales/claude-for-oss"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 18:29:56",
+      "https://news.ycombinator.com/item?id=47170030"
+    ],
+    [
+      "Smallest transformer that can add two 10-digit numbers",
+      "https://github.com/anadim/AdderBoard"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
+      "2026-02-25, 12:16:12",
+      "https://news.ycombinator.com/item?id=47150546"
+    ],
+    [
+      "Inventing the Lisa user interface – Interactions",
+      "https://dl.acm.org/doi/10.1145/242388.242405"
+    ]
+  ],
+  [
+    [
       "2026-02-25, 10:36:43",
       "https://news.ycombinator.com/item?id=47149829"
     ],
     [
       "Implementing a Z80 / ZX Spectrum emulator with Claude Code",
       "https://antirez.com/news/160"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 02:20:13",
-      "https://news.ycombinator.com/item?id=47146487"
-    ],
-    [
-      "Can you reverse engineer our neural network?",
-      "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "PCB Tracer",
       "https://pcbtracer.com"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 06:34:07",
-      "https://news.ycombinator.com/item?id=47133585"
-    ],
-    [
-      "\"Just a little detail that wouldn't sell anything\"",
-      "https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/"
     ]
   ],
   [
