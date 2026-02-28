@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-28, 08:56:33](https://news.ycombinator.com/item?id=47192505) - [Unsloth Dynamic 2.0 GGUFs](https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs)
 * [2026-02-28, 07:45:36](https://news.ycombinator.com/item?id=47191844) - [Inferring Car Movement Patterns from Passive TPMS Measurements](https://dspace.networks.imdea.org/handle/20.500.12761/2011)
-* [2026-02-28, 06:57:46](https://news.ycombinator.com/item?id=47191414) - [U.S. and Israel Conduct Strikes on Iran](https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump)
 * [2026-02-28, 05:55:01](https://news.ycombinator.com/item?id=47190997) - [How do I cancel my ChatGPT subscription?](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription)
 * [2026-02-28, 05:47:39](https://news.ycombinator.com/item?id=47190947) - [Rust Is Just a Tool](https://lewiscampbell.tech/blog/260204.html)
 * [2026-02-28, 05:21:21](https://news.ycombinator.com/item?id=47190806) - [Cash issuing terminals](https://computer.rip/2026-02-27-ibm-atm.html)
@@ -22,12 +22,12 @@
 * [2026-02-27, 14:02:53](https://news.ycombinator.com/item?id=47180569) - [A better streams API is possible for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/)
 * [2026-02-26, 21:30:19](https://news.ycombinator.com/item?id=47172238) - [Show HN: Unfucked - version all changes (by any tool) - local-first/source avail](https://www.unfudged.io/)
 * [2026-02-26, 18:29:56](https://news.ycombinator.com/item?id=47170030) - [Smallest transformer that can add two 10-digit numbers](https://github.com/anadim/AdderBoard)
+* [2026-02-26, 03:03:00](https://news.ycombinator.com/item?id=47161277) - [The man building Team USA's Olympic bobsleds](https://www.adirondackexplorer.org/community-news/people/lake-placid-man-builds-team-usas-olympic-bobsleds/)
 * [2026-02-25, 19:47:07](https://news.ycombinator.com/item?id=47156814) - [5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools](https://phys.org/news/2026-02-year-drill-rewrites-story-ancient.html)
 * [2026-02-25, 18:15:07](https://news.ycombinator.com/item?id=47155375) - [Show HN: I ported Manim to TypeScript (run 3b1B math animations in the browser)](https://github.com/maloyan/manim-web)
 * [2026-02-25, 17:47:47](https://news.ycombinator.com/item?id=47154962) - [Time-Travel Debugging: Replaying Production Bugs Locally](https://lackofimagination.org/2026/02/time-travel-debugging-replaying-production-bugs-locally/)
 * [2026-02-25, 12:16:12](https://news.ycombinator.com/item?id=47150546) - [Inventing the Lisa user interface – Interactions](https://dl.acm.org/doi/10.1145/242388.242405)
 * [2026-02-25, 05:14:09](https://news.ycombinator.com/item?id=47147597) - [The Eternal Promise: A History of Attempts to Eliminate Programmers](https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/)
-* [2026-02-25, 02:20:13](https://news.ycombinator.com/item?id=47146487) - [Can you reverse engineer our neural network?](https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/)
 * [2026-02-24, 13:04:25](https://news.ycombinator.com/item?id=47136612) - [Eschewing Zshell for Emacs Shell (2014)](https://www.howardism.org/Technical/Emacs/eshell-fun.html)
 * [2026-02-24, 12:27:44](https://news.ycombinator.com/item?id=47136272) - [Package Managers à la Carte: a formal model of dependency resolution](https://arxiv.org/abs/2602.18602)
 
