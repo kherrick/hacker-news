@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-28, 05:21:21",
+      "https://news.ycombinator.com/item?id=47190806"
+    ],
+    [
+      "Cash Issuing Terminals",
+      "https://computer.rip/2026-02-27-ibm-atm.html"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 03:23:16",
       "https://news.ycombinator.com/item?id=47189853"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2026-02-27, 23:01:49",
-      "https://news.ycombinator.com/item?id=47187121"
-    ],
-    [
-      "Emuko: Fast RISC-V emulator written in Rust, boots Linux",
-      "https://github.com/wkoszek/emuko"
-    ]
-  ],
-  [
-    [
       "2026-02-27, 22:31:18",
       "https://news.ycombinator.com/item?id=47186677"
     ],
@@ -137,16 +137,6 @@
     [
       "Kyber (YC W23) Is Hiring an Enterprise Account Executive",
       "https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 18:24:09",
-      "https://news.ycombinator.com/item?id=47183725"
-    ],
-    [
-      "Writing a Guide to SDF Fonts",
-      "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Show HN: I ported Manim to TypeScript (run 3b1B math animations in the browser)",
       "https://github.com/maloyan/manim-web"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 17:47:47",
+      "https://news.ycombinator.com/item?id=47154962"
+    ],
+    [
+      "Time-Travel Debugging: Replaying Production Bugs Locally",
+      "https://lackofimagination.org/2026/02/time-travel-debugging-replaying-production-bugs-locally/"
     ]
   ],
   [
