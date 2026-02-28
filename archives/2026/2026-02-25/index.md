@@ -39,6 +39,7 @@
 * [2026-02-25, 16:39:23](https://news.ycombinator.com/item?id=47153941) - [Show HN: Sgai – Goal-driven multi-agent software dev (GOAL.md → working code)](https://github.com/sandgardenhq/sgai)
 * [2026-02-25, 16:38:40](https://news.ycombinator.com/item?id=47153924) - [The Misuses of the University](https://www.publicbooks.org/the-misuses-of-the-university/)
 * [2026-02-25, 16:31:26](https://news.ycombinator.com/item?id=47153798) - [The United States needs fewer bus stops](https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/)
+* [2026-02-25, 16:31:24](https://news.ycombinator.com/item?id=47153797) - [Seeing Like a Sedan](https://asteriskmag.com/issues/13/seeing-like-a-sedan)
 * [2026-02-25, 16:23:52](https://news.ycombinator.com/item?id=47153675) - [I asked Claude for 37,500 random names, and it can't stop saying Marcus](https://github.com/benjismith/ai-randomness)
 * [2026-02-25, 15:37:29](https://news.ycombinator.com/item?id=47152982) - [GNU Texmacs](https://www.texmacs.org/tmweb/home/welcome.en.html)
 * [2026-02-25, 15:36:36](https://news.ycombinator.com/item?id=47152967) - [More Cows, More Wives](https://www.worksinprogress.news/p/more-cows-more-wives)
