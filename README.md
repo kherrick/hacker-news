@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-28, 19:03:47](https://news.ycombinator.com/item?id=47198973) - [\"Cancel ChatGPT\" movement goes mainstream after OpenAI closes deal with U.S. Dow](https://www.windowscentral.com/artificial-intelligence/cancel-chatgpt-movement-goes-mainstream-after-openai-closes-deal-with-u-s-department-of-war-as-anthropic-refuses-to-surveil-american-citizens)
+* [2026-02-28, 18:57:43](https://news.ycombinator.com/item?id=47198912) - [Techno‑Feudal Elite Are Attempting to Build a Twenty‑First‑Century Fascist State](https://collapseofindustrialcivilization.com/2026/02/16/americas-oligarchic-techno-feudal-elite-are-attempting-to-build-a-twenty-first-century-fascist-state/)
 * [2026-02-28, 17:43:22](https://news.ycombinator.com/item?id=47198099) - [CSP for Pentesters: Understanding the Fundamentals](https://www.kayssel.com/newsletter/issue-20/)
 * [2026-02-28, 17:12:46](https://news.ycombinator.com/item?id=47197735) - [Show HN: Tomoshibi – A writing app where your words fade by firelight](https://tomoshibi.in-hakumei.com/)
 * [2026-02-28, 16:58:54](https://news.ycombinator.com/item?id=47197595) - [Verified Spec-Driven Development (VSDD)](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
@@ -11,7 +13,6 @@
 * [2026-02-28, 13:32:28](https://news.ycombinator.com/item?id=47195157) - [The Life Cycle of Money](https://doap.metal.bohyen.space/blog/post/complete-life-cycle-of-money/)
 * [2026-02-28, 13:29:36](https://news.ycombinator.com/item?id=47195123) - [Show HN: Now I Get It – Translate scientific papers into interactive webpages](https://nowigetit.us)
 * [2026-02-28, 12:39:32](https://news.ycombinator.com/item?id=47194611) - [Don't trust AI agents](https://nanoclaw.dev/blog/nanoclaw-security-model)
-* [2026-02-28, 11:24:45](https://news.ycombinator.com/item?id=47193832) - [Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash](https://github.com/junevm/splathash)
 * [2026-02-28, 10:41:53](https://news.ycombinator.com/item?id=47193476) - [The Future of AI](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 * [2026-02-28, 10:01:20](https://news.ycombinator.com/item?id=47193064) - [Stop Burning Your Context Window – How We Cut MCP Output by 98% in Claude Code](https://mksg.lu/blog/context-mode)
 * [2026-02-28, 08:56:33](https://news.ycombinator.com/item?id=47192505) - [Unsloth Dynamic 2.0 GGUFs](https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs)
@@ -26,7 +27,6 @@
 * [2026-02-25, 18:24:46](https://news.ycombinator.com/item?id=47155526) - [Woxi: Wolfram Mathematica Reimplementation in Rust](https://github.com/ad-si/Woxi)
 * [2026-02-25, 18:07:09](https://news.ycombinator.com/item?id=47155235) - [Ghosts'n Goblins – “Worse danger is ahead”](https://superchartisland.com/ghostsn-goblins/)
 * [2026-02-25, 17:28:33](https://news.ycombinator.com/item?id=47154637) - [New evidence that Cantor plagiarized Dedekind?](https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/)
-* [2026-02-25, 16:31:24](https://news.ycombinator.com/item?id=47153797) - [Seeing Like a Sedan](https://asteriskmag.com/issues/13/seeing-like-a-sedan)
 * [2026-02-25, 15:36:36](https://news.ycombinator.com/item?id=47152967) - [More Cows, More Wives](https://www.worksinprogress.news/p/more-cows-more-wives)
 * [2026-02-25, 05:14:09](https://news.ycombinator.com/item?id=47147597) - [The Eternal Promise: A History of Attempts to Eliminate Programmers](https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/)
 * [2026-02-24, 23:14:16](https://news.ycombinator.com/item?id=47144835) - [How Long Is the Coast of Britain? (1967)](https://www.jstor.org/stable/1721427)
