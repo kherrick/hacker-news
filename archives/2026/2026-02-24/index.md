@@ -56,6 +56,7 @@
 * [2026-02-24, 13:49:39](https://news.ycombinator.com/item?id=47137140) - [Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)](https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/)
 * [2026-02-24, 13:38:54](https://news.ycombinator.com/item?id=47137013) - [Sovereignty in a System Prompt](https://pop.rdi.sh/sovereignty-in-a-system-prompt/)
 * [2026-02-24, 13:08:56](https://news.ycombinator.com/item?id=47136658) - [Why the KeePass format should be based on SQLite](https://mketab.org/blog/sqlite_kdbx/)
+* [2026-02-24, 13:04:25](https://news.ycombinator.com/item?id=47136612) - [Eschewing Zshell for Emacs Shell (2014)](https://www.howardism.org/Technical/Emacs/eshell-fun.html)
 * [2026-02-24, 13:04:16](https://news.ycombinator.com/item?id=47136611) - [Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/)
 * [2026-02-24, 13:03:51](https://news.ycombinator.com/item?id=47136604) - [I Pitched a Roller Coaster to Disneyland at Age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
 * [2026-02-24, 12:58:14](https://news.ycombinator.com/item?id=47136537) - [IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html)

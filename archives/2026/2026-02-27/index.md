@@ -12,6 +12,7 @@
 * [2026-02-27, 22:13:54](https://news.ycombinator.com/item?id=47186444) - [Otters as Bioindicators of Estuarine Health](https://emt.pensoft.net/article/185117/)
 * [2026-02-27, 22:00:29](https://news.ycombinator.com/item?id=47186277) - [The Most-Seen UI on the Internet? Redesigning Turnstile and Challenge Pages](https://blog.cloudflare.com/the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages/)
 * [2026-02-27, 21:49:11](https://news.ycombinator.com/item?id=47186127) - [Trump orders US Government to cut ties with Anthropic](https://abcnews.com/Politics/anthropic-latest-pentagon-contract-bar-ai-autonomous-weapons/story?id=130558898)
+* [2026-02-27, 21:40:40](https://news.ycombinator.com/item?id=47186031) - [President Trump bans Anthropic from use in government systems](https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban)
 * [2026-02-27, 20:05:17](https://news.ycombinator.com/item?id=47184864) - [DOS Memory Management](http://www.os2museum.com/wp/dos-memory-management/)
 * [2026-02-27, 19:51:33](https://news.ycombinator.com/item?id=47184744) - [The Robotic Dexterity Deadlock](https://www.origami-robotics.com/blog/dexterity-deadlocks.html)
 * [2026-02-27, 19:26:38](https://news.ycombinator.com/item?id=47184480) - [Red Dwarf creator Rob Grant has died](https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant)
