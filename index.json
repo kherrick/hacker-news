@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-02-28, 07:00:18",
-      "https://news.ycombinator.com/item?id=47191437"
-    ],
-    [
-      "US and Israel carrying out strikes against Iran",
-      "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 06:57:46",
       "https://news.ycombinator.com/item?id=47191414"
     ],
@@ -57,16 +47,6 @@
     [
       "Cash issuing terminals",
       "https://computer.rip/2026-02-27-ibm-atm.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-28, 03:23:16",
-      "https://news.ycombinator.com/item?id=47189853"
-    ],
-    [
-      "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
-      "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/"
     ]
   ],
   [
@@ -147,6 +127,26 @@
     [
       "Let's discuss sandbox isolation",
       "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 18:24:09",
+      "https://news.ycombinator.com/item?id=47183725"
+    ],
+    [
+      "Writing a Guide to SDF Fonts",
+      "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 16:34:05",
+      "https://news.ycombinator.com/item?id=47182487"
+    ],
+    [
+      "Allocating on the Stack",
+      "https://go.dev/blog/allocation-optimizations"
     ]
   ],
   [
