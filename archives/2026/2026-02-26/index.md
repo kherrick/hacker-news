@@ -16,6 +16,7 @@
 * [2026-02-26, 18:47:27](https://news.ycombinator.com/item?id=47170299) - [Show HN: Rev-dep – 20x faster knip.dev alternative build in Go](https://github.com/jayu/rev-dep)
 * [2026-02-26, 18:38:38](https://news.ycombinator.com/item?id=47170174) - [Launch HN: Cardboard (YC W26) – Agentic video editor](https://www.usecardboard.com/)
 * [2026-02-26, 18:37:59](https://news.ycombinator.com/item?id=47170157) - [OsmAnd's Faster Offline Navigation](https://osmand.net/blog/fast-routing/)
+* [2026-02-26, 18:29:56](https://news.ycombinator.com/item?id=47170030) - [Smallest transformer that can add two 10-digit numbers](https://github.com/anadim/AdderBoard)
 * [2026-02-26, 18:27:11](https://news.ycombinator.com/item?id=47169984) - [He saw an abandoned trailer. Then, uncovered a surveillance network](https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/)
 * [2026-02-26, 18:16:45](https://news.ycombinator.com/item?id=47169815) - [iPhone and iPad approved to handle classified NATO information](https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/)
 * [2026-02-26, 18:12:26](https://news.ycombinator.com/item?id=47169757) - [What Claude Code Chooses](https://amplifying.ai/research/claude-code-picks)

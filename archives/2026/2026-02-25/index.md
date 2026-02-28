@@ -47,6 +47,7 @@
 * [2026-02-25, 13:25:53](https://news.ycombinator.com/item?id=47151163) - [Red Hat takes on Docker Desktop with its enterprise Podman Desktop build](https://thenewstack.io/red-hat-enters-the-cloud-native-developer-desktop-market/)
 * [2026-02-25, 13:07:36](https://news.ycombinator.com/item?id=47151000) - [AIs can't stop recommending nuclear strikes in war game simulations](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
 * [2026-02-25, 12:30:36](https://news.ycombinator.com/item?id=47150674) - [I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye](https://paultendo.github.io/posts/confusable-vision-visual-similarity/)
+* [2026-02-25, 12:16:12](https://news.ycombinator.com/item?id=47150546) - [Inventing the Lisa user interface – Interactions](https://dl.acm.org/doi/10.1145/242388.242405)
 * [2026-02-25, 12:01:11](https://news.ycombinator.com/item?id=47150403) - [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer)
 * [2026-02-25, 10:36:43](https://news.ycombinator.com/item?id=47149829) - [Writing a \"clear room\" Z80 and Spectrum emulator with Claude Code](https://antirez.com/news/160)
 * [2026-02-25, 10:34:41](https://news.ycombinator.com/item?id=47149811) - [Vinext – The Next.js API surface, reimplemented on Vite](https://github.com/cloudflare/vinext)
