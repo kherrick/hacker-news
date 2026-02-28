@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 23:26:59](https://news.ycombinator.com/item?id=47201629) - [HN is drowning in AI comments](https://news.ycombinator.com/item?id=47201629)
+* [2026-02-28, 22:54:42](https://news.ycombinator.com/item?id=47201283) - [The war against PDFs is heating up](https://www.economist.com/business/2026/02/24/the-war-against-pdfs-is-heating-up)
 * [2026-02-28, 22:33:09](https://news.ycombinator.com/item?id=47201028) - [Anthropic's Claude rises to No. 2 in the App Store following Pentagon dispute](https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/)
 * [2026-02-28, 22:19:36](https://news.ycombinator.com/item?id=47200904) - [The Windows 95 User Interface: A Case Study in Usability Engineering](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611)
 * [2026-02-28, 22:16:08](https://news.ycombinator.com/item?id=47200879) - [Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule](https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed)
