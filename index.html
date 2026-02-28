@@ -389,6 +389,27 @@
             </h4>
           </section>
         </section>
+        <section id="47184049">
+          <h3>
+            <a
+              class="item"
+              href="https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/"
+              >Let's discuss sandbox isolation</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-27 @ 18:49:50</span
+              ><span class="points-container"
+                >Points: <span class="points">143</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47184049"
+                  >Comments</a
+                ><span class="descendants">: 50</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47182483">
           <h3>
             <a
@@ -569,6 +590,145 @@
             </h4>
           </section>
         </section>
+        <section id="47172238">
+          <h3>
+            <a class="item" href="https://www.unfudged.io/"
+              >Show HN: Unfucked - version all changes (by any tool) -
+              local-first/source avail</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-26 @ 21:30:19</span
+              ><span class="points-container"
+                >Points: <span class="points">99</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47172238"
+                  >Comments</a
+                ><span class="descendants">: 63</span></span
+              >
+            </h4>
+            <div class="text">
+              <i>unf</i> after I pasted a prompt into the wrong agent terminal
+              and it overwrote hours of hand-edits across a handful of files.
+              Git couldn't help because I hadn't finished/committed my in
+              progress work. I wanted something that recorded every save
+              automatically so I could rewind to any point in time. I wanted to
+              make it difficult for an agent to permanently screw anything up,
+              even with an errant <i>rm -rf</i>
+              <p>
+                <i>unf</i> is a background daemon that watches directories you
+                choose (via CLI) and snapshots every text file on save. It
+                stores file contents in an object store, tracks metadata in
+                SQLite, and gives you a CLI to query and restore any version.
+                The install includes a UI, as well to explore the history
+                through time.
+              </p>
+              <p>
+                The tool skips binaries and respects `.gitignore` if one exists.
+                The interface borrows from git so it should feel familiar:
+                <i>unf log</i>, <i>unf diff</i>, <i>unf restore</i>.
+              </p>
+              <p>
+                I say "UN-EF" vs U.N.F, but that's for y'all to decide: I
+                started by calling the project Unfucked and got unfucked.ai,
+                which if you know me and the messes I get myself into, is a
+                fitting purchase.
+              </p>
+              <p>
+                The CLI command is `unf` and the Tauri desktop app is titled
+                "Unfudged" (kids safe name).
+              </p>
+              <p>
+                How it works:
+                <a href="https://unfucked.ai/tech">https://unfucked.ai/tech</a>
+                (summary below)
+              </p>
+              <p>
+                The daemon uses FSEvents on macOS and inotify on Linux. When a
+                file changes, `unf` hashes the content with BLAKE3 and checks
+                whether that hash already exists in the object store — if it
+                does, it just records a new metadata entry pointing to the
+                existing blob. If not, it writes the blob and records the entry.
+                Each snapshot is a row in SQLite. Restores read the blob back
+                from the object store and overwrite the file, after taking a
+                safety snapshot of the current state first (so restoring is
+                itself reversible).
+              </p>
+              <p>
+                There are two processes. The core daemon does the real work of
+                managing FSEvents/inotify subscriptions across multiple watched
+                directories and writing snapshots. A sentinel watchdog
+                supervises it, kept alive and aligned by launchd on macOS and
+                systemd on Linux. If the daemon crashes, the sentinel respawns
+                it and reconciles any drift between what you asked to watch and
+                what's actually being watched. It was hard to build the second
+                daemon because it felt like conceding that the core wasn't solid
+                enough, but I didn't want to ship a tool that demanded
+                perfection to deliver on the product promise, so the sentinel is
+                the safety net.
+              </p>
+              <p>
+                Fingers crossed, I haven’t seen it crash in over a week of
+                personal usage on my Mac. But, I don't want to trigger "works
+                for me" trauma.
+              </p>
+              <p>
+                The part I like most: On the UI, I enjoy viewing files through
+                time. You can select a time section and filter your projects on
+                a histogram of activity. That has been invaluable in seeing what
+                the agent was doing.
+              </p>
+              <p>
+                On the CLI, the commands are composable. Everything outputs to
+                stdout so you can pipe it into whatever you want. I use these
+                regularly and AI agents are better with the tool than I am:
+              </p>
+              <p></p>
+              <pre><code>  # What did my config look like before we broke it?
+  unf cat nginx.conf --at 1h | nginx -t -c /dev/stdin
+
+  # Grep through a deleted file
+  unf cat old-routes.rs --at 2d | grep "pub fn"
+
+  # Count how many lines changed in the last 10 minutes
+  unf diff --at 10m | grep '^[+-]' | wc -l
+
+  # Feed the last hour of changes to an AI for review
+  unf diff --at 1h | pbcopy
+
+  # Compare two points in time with your own diff tool
+  diff &lt;(unf cat app.tsx --at 1h) &lt;(unf cat app.tsx --at 5m)
+
+  # Restore just the .rs files that changed in the last 5 minutes
+  unf diff --at 5m --json | jq -r '.changes[].file' | grep '\.rs$' | xargs -I{} unf restore {} --at 5m
+
+  # Watch for changes in real time
+  watch -n5 'unf diff --at 30s'
+</code></pre>
+              What was new for me: I came to Rust in Nov. 2025 honestly because
+              of HN enthusiasm and some FOMO. No regrets. I enjoy the language
+              enough that I'm now working on custom clippy lints to enforce
+              functional programming practices. This project was also my first
+              Apple-notarized DMG, my first Homebrew tap, and my second Tauri
+              app (first one I've shared).
+              <p>Install &amp; Usage:</p>
+              <p></p>
+              <pre><code>  &gt; brew install cyrusradfar/unf/unfudged
+</code></pre>
+              Then <i>unf watch</i> in a directory. <i>unf help</i> covers the
+              details (or ask your agent to coach).
+              <p>
+                EDIT: Folks are asking for the source, if you're interested
+                watch
+                <a href="https://github.com/cyrusradfar/homebrew-unf"
+                  >https://github.com/cyrusradfar/homebrew-unf</a
+                >
+                -- I'll migrate there if you want it.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="47170030">
           <h3>
             <a class="item" href="https://github.com/anadim/AdderBoard"
@@ -626,97 +786,6 @@
                 ><span class="descendants">: 0</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47156814">
-          <h3>
-            <a
-              class="item"
-              href="https://phys.org/news/2026-02-year-drill-rewrites-story-ancient.html"
-              >5,300-year-old 'bow drill' rewrites story of ancient Egyptian
-              tools</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-25 @ 19:47:07</span
-              ><span class="points-container"
-                >Points: <span class="points">14</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47156814"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47155375">
-          <h3>
-            <a class="item" href="https://github.com/maloyan/manim-web"
-              >Show HN: I ported Manim to TypeScript (run 3b1B math animations
-              in the browser)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-25 @ 18:15:07</span
-              ><span class="points-container"
-                >Points: <span class="points">113</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47155375"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                The Problem: Like many here, I love Manim's visual style. But
-                setting it up locally is notoriously painful - it requires
-                Python, FFmpeg, Cairo, and a full LaTeX distribution. It creates
-                a massive barrier to entry, especially for students or people
-                who just want to quickly visualize a concept.
-              </p>
-              <p>
-                The Solution: I wanted to make it zero-setup, so I ported the
-                engine to TypeScript. Manim-Web runs entirely client-side in the
-                browser. No Python, no servers, no install. It runs animations
-                in real-time at 60fps.
-              </p>
-              <p>
-                How it works underneath: - Rendering: Uses Canvas API / WebGL
-                (via Three.js for 3D scenes). - LaTeX: Rendered and animated via
-                MathJax/KaTeX (no LaTeX install needed!). - API: I kept the API
-                almost identical to the Python version (e.g., scene.play(new
-                Transform(square, circle))), meaning existing Manim knowledge
-                transfers over directly. - Reactivity: Updaters and
-                ValueTrackers follow the exact same reactive pattern as the
-                Python original.
-              </p>
-              <p>
-                Because it's web-native, the animations are now inherently
-                interactive (objects can be draggable/clickable) and can be
-                embedded directly into React/Vue apps, interactive textbooks, or
-                blogs. I also included a py2ts converter to help migrate
-                existing scripts.
-              </p>
-              <p>
-                Live Demo:
-                <a href="https://maloyan.github.io/manim-web/examples"
-                  >https://maloyan.github.io/manim-web/examples</a
-                >
-                GitHub:
-                <a href="https://github.com/maloyan/manim-web"
-                  >https://github.com/maloyan/manim-web</a
-                >
-              </p>
-              <p>
-                It's open-source (MIT). I'm still actively building out feature
-                parity with the Python version, but core animations, geometry,
-                plotting, and 3D orbiting are working great. I would love to
-                hear your feedback, and I'll be hanging around to answer any
-                technical questions about rendering math in the browser!
-              </p>
-            </div>
           </section>
         </section>
         <section id="47154962">
