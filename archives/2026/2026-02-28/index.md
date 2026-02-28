@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 12:39:32](https://news.ycombinator.com/item?id=47194611) - [Don't trust AI agents](https://nanoclaw.dev/blog/nanoclaw-security-model)
+* [2026-02-28, 11:24:45](https://news.ycombinator.com/item?id=47193832) - [Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash](https://github.com/junevm/splathash)
 * [2026-02-28, 10:58:40](https://news.ycombinator.com/item?id=47193606) - [Tell HN: 3 months ago we feared AI was useless. Now we fear it will take our job](https://news.ycombinator.com/item?id=47193606)
 * [2026-02-28, 10:41:55](https://news.ycombinator.com/item?id=47193478) - [OpenAI – How to delete your account](https://help.openai.com/en/articles/6378407-how-to-delete-your-account)
+* [2026-02-28, 10:41:53](https://news.ycombinator.com/item?id=47193476) - [The Future of AI](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 * [2026-02-28, 08:56:33](https://news.ycombinator.com/item?id=47192505) - [Unsloth Dynamic 2.0 GGUFs](https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs)
 * [2026-02-28, 07:45:36](https://news.ycombinator.com/item?id=47191844) - [Inferring Car Movement Patterns from Passive TPMS Measurements](https://dspace.networks.imdea.org/handle/20.500.12761/2011)
 * [2026-02-28, 07:00:18](https://news.ycombinator.com/item?id=47191437) - [US and Israel carrying out strikes against Iran](https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl)

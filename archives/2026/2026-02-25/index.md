@@ -38,6 +38,7 @@
 * [2026-02-25, 16:31:26](https://news.ycombinator.com/item?id=47153798) - [The United States needs fewer bus stops](https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/)
 * [2026-02-25, 16:23:52](https://news.ycombinator.com/item?id=47153675) - [I asked Claude for 37,500 random names, and it can't stop saying Marcus](https://github.com/benjismith/ai-randomness)
 * [2026-02-25, 15:37:29](https://news.ycombinator.com/item?id=47152982) - [GNU Texmacs](https://www.texmacs.org/tmweb/home/welcome.en.html)
+* [2026-02-25, 15:36:36](https://news.ycombinator.com/item?id=47152967) - [More Cows, More Wives](https://www.worksinprogress.news/p/more-cows-more-wives)
 * [2026-02-25, 14:55:20](https://news.ycombinator.com/item?id=47152355) - [Ask HN: Have top AI research institutions just given up on the idea of safety?](https://news.ycombinator.com/item?id=47152355)
 * [2026-02-25, 14:48:17](https://news.ycombinator.com/item?id=47152252) - [US orders diplomats to fight data sovereignty initiatives](https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/)
 * [2026-02-25, 14:37:21](https://news.ycombinator.com/item?id=47152085) - [New accounts on HN 10x more likely to use em-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
