@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2026-02-28, 12:46:36",
-      "https://news.ycombinator.com/item?id=47194690"
-    ],
-    [
-      "No Bookmarks",
-      "https://nik.art/no-bookmarks/"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 12:45:28",
       "https://news.ycombinator.com/item?id=47194679"
     ],
@@ -211,22 +201,22 @@
   ],
   [
     [
+      "2026-02-28, 02:55:29",
+      "https://news.ycombinator.com/item?id=47189625"
+    ],
+    [
+      "Bootc and OSTree: Modernizing Linux System Deployment",
+      "https://a-cup-of.coffee/blog/ostree-bootc/"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 02:48:16",
       "https://news.ycombinator.com/item?id=47189535"
     ],
     [
       "Croatia declared free of landmines after 31 years",
       "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533"
-    ]
-  ],
-  [
-    [
-      "2026-02-28, 01:20:10",
-      "https://news.ycombinator.com/item?id=47188697"
-    ],
-    [
-      "Statement on the comments from Secretary of War Pete Hegseth",
-      "https://www.anthropic.com/news/statement-comments-secretary-war"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Smallest transformer that can add two 10-digit numbers",
       "https://github.com/anadim/AdderBoard"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 18:24:46",
+      "https://news.ycombinator.com/item?id=47155526"
+    ],
+    [
+      "Woxi: Wolfram Mathematica Reimplementation in Rust",
+      "https://github.com/ad-si/Woxi"
     ]
   ],
   [
