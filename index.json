@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-02-28, 22:33:09",
-      "https://news.ycombinator.com/item?id=47201028"
+      "2026-02-28, 22:19:36",
+      "https://news.ycombinator.com/item?id=47200904"
     ],
     [
-      "Anthropic's Claude rises to No. 2 in the App Store following Pentagon dispute",
-      "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/"
+      "The Windows 95 User Interface: A Case Study in Usability Engineering",
+      "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2026-02-28, 13:46:20",
-      "https://news.ycombinator.com/item?id=47195317"
-    ],
-    [
-      "OpenAI fires an employee for prediction market insider trading",
-      "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 13:29:36",
       "https://news.ycombinator.com/item?id=47195123"
     ],
@@ -217,6 +207,16 @@
     [
       "'Play like a dog biting God's feet': Steven Isserlis on György Kurtág at 100",
       "https://www.theguardian.com/music/2026/feb/26/steven-isserlis-on-the-formidable-gyorgy-kurtag-at-100"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 08:46:31",
+      "https://news.ycombinator.com/item?id=47163554"
+    ],
+    [
+      "Laravel Inertia Toast",
+      "https://github.com/veekthoven/laravel-inertia-toast"
     ]
   ],
   [
