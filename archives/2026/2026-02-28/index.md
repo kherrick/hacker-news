@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 05:21:21](https://news.ycombinator.com/item?id=47190806) - [Cash Issuing Terminals](https://computer.rip/2026-02-27-ibm-atm.html)
 * [2026-02-28, 03:23:16](https://news.ycombinator.com/item?id=47189853) - [OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 * [2026-02-28, 03:11:40](https://news.ycombinator.com/item?id=47189749) - [Please, please, please stop using passkeys for encrypting user data](https://blog.timcappalli.me/p/passkeys-prf-warning/)
 * [2026-02-28, 02:59:02](https://news.ycombinator.com/item?id=47189650) - [OpenAI Executes Agreement with Dept of War for Classified Environment Deployment](https://twitter.com/sama/status/2027578652477821175)
