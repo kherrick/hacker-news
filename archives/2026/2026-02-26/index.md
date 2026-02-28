@@ -33,6 +33,7 @@
 * [2026-02-26, 15:55:48](https://news.ycombinator.com/item?id=47167763) - [New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises](https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/)
 * [2026-02-26, 15:55:48](https://news.ycombinator.com/item?id=47167763) - [AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 * [2026-02-26, 15:53:30](https://news.ycombinator.com/item?id=47167733) - [Why Developers Keep Choosing Claude over Every Other AI](https://www.bhusalmanish.com.np/blog/posts/why-claude-wins-coding.html)
+* [2026-02-26, 15:40:42](https://news.ycombinator.com/item?id=47167545) - [SHELL: Global Tool for Calling and Chaining Procedures in the System (1965) [pdf]](https://people.csail.mit.edu/saltzer/Multics/Multics-Documents/MDN/MDN-4.pdf)
 * [2026-02-26, 15:14:20](https://news.ycombinator.com/item?id=47167171) - [In 2025, Meta paid an effective federal tax rate of 3.5%](https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i)
 * [2026-02-26, 14:24:29](https://news.ycombinator.com/item?id=47166522) - [Kansas Sends Letters to Trans People Demanding the Surrender of Drivers Licenses](https://www.erininthemorning.com/p/kansas-sends-letters-to-trans-people)
 * [2026-02-26, 14:21:05](https://news.ycombinator.com/item?id=47166473) - [Story of XZ Backdoor [video]](https://www.youtube.com/watch?v=aoag03mSuXQ)
