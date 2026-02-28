@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-02-28, 10:58:40",
-      "https://news.ycombinator.com/item?id=47193606"
-    ],
-    [
-      "Tell HN: 3 months ago we feared AI was useless. Now we fear it will take our job",
-      "https://news.ycombinator.com/item?id=47193606"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 10:41:55",
       "https://news.ycombinator.com/item?id=47193478"
     ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2026-02-27, 15:41:13",
+      "https://news.ycombinator.com/item?id=47181801"
+    ],
+    [
+      "We gave terabytes of CI logs to an LLM",
+      "https://www.mendral.com/blog/llms-are-good-at-sql"
+    ]
+  ],
+  [
+    [
       "2026-02-27, 15:37:53",
       "https://news.ycombinator.com/item?id=47181753"
     ],
@@ -197,6 +197,16 @@
     [
       "A better streams API is possible for JavaScript",
       "https://blog.cloudflare.com/a-better-web-streams-api/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 21:30:19",
+      "https://news.ycombinator.com/item?id=47172238"
+    ],
+    [
+      "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
+      "https://www.unfudged.io/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Time-Travel Debugging: Replaying Production Bugs Locally",
       "https://lackofimagination.org/2026/02/time-travel-debugging-replaying-production-bugs-locally/"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 12:16:12",
-      "https://news.ycombinator.com/item?id=47150546"
-    ],
-    [
-      "Inventing the Lisa user interface – Interactions",
-      "https://dl.acm.org/doi/10.1145/242388.242405"
     ]
   ],
   [
