@@ -28,6 +28,7 @@
 * [2026-02-25, 17:48:21](https://news.ycombinator.com/item?id=47154971) - [om](https://www.om-language.com/)
 * [2026-02-25, 17:47:47](https://news.ycombinator.com/item?id=47154962) - [Time-Travel Debugging: Replaying Production Bugs Locally](https://lackofimagination.org/2026/02/time-travel-debugging-replaying-production-bugs-locally/)
 * [2026-02-25, 17:37:04](https://news.ycombinator.com/item?id=47154803) - [Sandboxes won't save you from OpenClaw](https://tachyon.so/blog/sandboxes-wont-save-you)
+* [2026-02-25, 17:28:33](https://news.ycombinator.com/item?id=47154637) - [A Man Who Stole Infinity](https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/)
 * [2026-02-25, 17:14:19](https://news.ycombinator.com/item?id=47154399) - [Windows 11 Notepad to support Markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
 * [2026-02-25, 17:02:12](https://news.ycombinator.com/item?id=47154246) - [Trellis AI (YC W24) is hiring deployment lead to accelerate medication access](https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist)
 * [2026-02-25, 16:49:36](https://news.ycombinator.com/item?id=47154076) - [Why isn't LA repaving streets?](https://lapublicpress.org/2026/02/why-isnt-la-repaving-streets/)
