@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-28, 15:15:08](https://news.ycombinator.com/item?id=47196263) - [Is GitHub Copilot still relevant in the enterprise?](https://news.ycombinator.com/item?id=47196263)
+* [2026-02-28, 15:39:10](https://news.ycombinator.com/item?id=47196582) - [Cognitive Debt: When Velocity Exceeds Comprehension](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/)
 * [2026-02-28, 14:58:02](https://news.ycombinator.com/item?id=47196069) - [Show HN: Rust-powered document chunker for RAG – 40x faster, O(1) memory](https://github.com/Krira-Labs/krira-chunker)
-* [2026-02-28, 14:10:04](https://news.ycombinator.com/item?id=47195582) - [Please do not use auto-scrolling content on the web and in applications](https://cerovac.com/a11y/2026/01/please-do-not-use-auto-scrolling-content-on-the-web-and-in-applications/)
 * [2026-02-28, 14:05:27](https://news.ycombinator.com/item?id=47195530) - [Show HN: Decided to play god this morning, so I built an agent civilisation](https://github.com/nocodemf/werld)
 * [2026-02-28, 13:50:13](https://news.ycombinator.com/item?id=47195371) - [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632)
 * [2026-02-28, 13:46:20](https://news.ycombinator.com/item?id=47195317) - [OpenAI Fires an Employee for Prediction Market Insider Trading](https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/)
@@ -23,6 +22,7 @@
 * [2026-02-28, 02:59:02](https://news.ycombinator.com/item?id=47189650) - [OpenAI agrees with Dept. of War to deploy models in their classified network](https://twitter.com/sama/status/2027578652477821175)
 * [2026-02-28, 02:48:16](https://news.ycombinator.com/item?id=47189535) - [Croatia declared free of landmines after 31 years](https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533)
 * [2026-02-28, 00:54:53](https://news.ycombinator.com/item?id=47188473) - [We Will Not Be Divided](https://notdivided.org)
+* [2026-02-27, 17:22:00](https://news.ycombinator.com/item?id=47182986) - [747s and Coding Agents](https://carlkolon.com/2026/02/27/engineering-747-coding-agents/)
 * [2026-02-27, 14:56:05](https://news.ycombinator.com/item?id=47181211) - [OpenAI raises $110B on $730B pre-money valuation](https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/)
 * [2026-02-27, 14:55:49](https://news.ycombinator.com/item?id=47181208) - [A new California law says all operating systems need to have age verification](https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/)
 * [2026-02-26, 18:29:56](https://news.ycombinator.com/item?id=47170030) - [Smallest transformer that can add two 10-digit numbers](https://github.com/anadim/AdderBoard)
