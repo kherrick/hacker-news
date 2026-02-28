@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2026-02-28, 13:35:54",
-      "https://news.ycombinator.com/item?id=47195210"
-    ],
-    [
-      "Everything Changes, and Nothing Changes",
-      "https://btao.org/posts/2026-02-28-everything-changes-nothing-changes/"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 13:32:28",
       "https://news.ycombinator.com/item?id=47195157"
     ],
@@ -277,6 +267,16 @@
     [
       "More Cows, More Wives",
       "https://www.worksinprogress.news/p/more-cows-more-wives"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 11:55:06",
+      "https://news.ycombinator.com/item?id=47150352"
+    ],
+    [
+      "What I learned while trying to build a production-ready nearest neighbor system",
+      "https://github.com/thatipamula-jashwanth/smart-knn"
     ]
   ],
   [
