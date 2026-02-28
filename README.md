@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-02-28, 22:33:09](https://news.ycombinator.com/item?id=47201028) - [Anthropic's Claude rises to No. 2 in the App Store following Pentagon dispute](https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/)
+* [2026-02-28, 22:19:36](https://news.ycombinator.com/item?id=47200904) - [The Windows 95 User Interface: A Case Study in Usability Engineering](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611)
 * [2026-02-28, 22:16:08](https://news.ycombinator.com/item?id=47200879) - [Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule](https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed)
 * [2026-02-28, 22:10:21](https://news.ycombinator.com/item?id=47200828) - [Building a Minimal Transformer for 10-digit Addition](https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition)
 * [2026-02-28, 21:24:16](https://news.ycombinator.com/item?id=47200420) - [\"We do not think Anthropic should be designated as a supply chain risk\"](https://twitter.com/OpenAI/status/2027846016423321831)
@@ -12,7 +12,6 @@
 * [2026-02-28, 16:51:49](https://news.ycombinator.com/item?id=47197505) - [The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam)
 * [2026-02-28, 16:31:53](https://news.ycombinator.com/item?id=47197267) - [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
 * [2026-02-28, 13:50:13](https://news.ycombinator.com/item?id=47195371) - [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632)
-* [2026-02-28, 13:46:20](https://news.ycombinator.com/item?id=47195317) - [OpenAI fires an employee for prediction market insider trading](https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/)
 * [2026-02-28, 13:29:36](https://news.ycombinator.com/item?id=47195123) - [Show HN: Now I Get It – Translate scientific papers into interactive webpages](https://nowigetit.us)
 * [2026-02-28, 10:41:53](https://news.ycombinator.com/item?id=47193476) - [The Future of AI](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 * [2026-02-28, 10:01:20](https://news.ycombinator.com/item?id=47193064) - [Stop Burning Your Context Window – How We Cut MCP Output by 98% in Claude Code](https://mksg.lu/blog/context-mode)
@@ -22,6 +21,7 @@
 * [2026-02-27, 17:22:00](https://news.ycombinator.com/item?id=47182986) - [747s and Coding Agents](https://carlkolon.com/2026/02/27/engineering-747-coding-agents/)
 * [2026-02-27, 08:27:45](https://news.ycombinator.com/item?id=47178051) - [Werner Herzog Between Fact and Fiction](https://www.thenation.com/article/culture/werner-herzog-future-truth/)
 * [2026-02-26, 19:29:35](https://news.ycombinator.com/item?id=47170847) - ['Play like a dog biting God's feet': Steven Isserlis on György Kurtág at 100](https://www.theguardian.com/music/2026/feb/26/steven-isserlis-on-the-formidable-gyorgy-kurtag-at-100)
+* [2026-02-26, 08:46:31](https://news.ycombinator.com/item?id=47163554) - [Laravel Inertia Toast](https://github.com/veekthoven/laravel-inertia-toast)
 * [2026-02-26, 07:52:29](https://news.ycombinator.com/item?id=47163167) - [From Noise to Image – interactive guide to diffusion](https://lighthousesoftware.co.uk/projects/from-noise-to-image/)
 * [2026-02-26, 04:13:47](https://news.ycombinator.com/item?id=47161759) - [The happiest I've ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been)
 * [2026-02-25, 18:24:46](https://news.ycombinator.com/item?id=47155526) - [Woxi: Wolfram Mathematica Reimplementation in Rust](https://github.com/ad-si/Woxi)
