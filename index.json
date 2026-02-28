@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-02-28, 14:58:02",
-      "https://news.ycombinator.com/item?id=47196069"
-    ],
-    [
-      "Show HN: Rust-powered document chunker for RAG – 40x faster, O(1) memory",
-      "https://github.com/Krira-Labs/krira-chunker"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 14:05:27",
       "https://news.ycombinator.com/item?id=47195530"
     ],
@@ -197,6 +187,16 @@
     [
       "OpenAI agrees with Dept. of War to deploy models in their classified network",
       "https://twitter.com/sama/status/2027578652477821175"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 02:55:29",
+      "https://news.ycombinator.com/item?id=47189625"
+    ],
+    [
+      "Bootc and OSTree: Modernizing Linux System Deployment",
+      "https://a-cup-of.coffee/blog/ostree-bootc/"
     ]
   ],
   [
