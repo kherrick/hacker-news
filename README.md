@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-28, 07:45:36](https://news.ycombinator.com/item?id=47191844) - [Inferring Car Movement Patterns from Passive TPMS Measurements](https://dspace.networks.imdea.org/handle/20.500.12761/2011)
 * [2026-02-28, 06:57:46](https://news.ycombinator.com/item?id=47191414) - [U.S. and Israel Conduct Strikes on Iran](https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump)
 * [2026-02-28, 05:55:01](https://news.ycombinator.com/item?id=47190997) - [How do I cancel my ChatGPT subscription?](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription)
 * [2026-02-28, 05:47:39](https://news.ycombinator.com/item?id=47190947) - [Rust Is Just a Tool](https://lewiscampbell.tech/blog/260204.html)
@@ -12,8 +13,6 @@
 * [2026-02-28, 00:54:53](https://news.ycombinator.com/item?id=47188473) - [We Will Not Be Divided](https://notdivided.org)
 * [2026-02-27, 23:42:14](https://news.ycombinator.com/item?id=47187649) - [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760)
 * [2026-02-27, 18:49:50](https://news.ycombinator.com/item?id=47184049) - [Let's discuss sandbox isolation](https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/)
-* [2026-02-27, 18:24:09](https://news.ycombinator.com/item?id=47183725) - [Writing a Guide to SDF Fonts](https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/)
-* [2026-02-27, 16:34:05](https://news.ycombinator.com/item?id=47182487) - [Allocating on the Stack](https://go.dev/blog/allocation-optimizations)
 * [2026-02-27, 16:33:39](https://news.ycombinator.com/item?id=47182483) - [NASA announces overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/)
 * [2026-02-27, 16:26:22](https://news.ycombinator.com/item?id=47182387) - [Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions](https://github.com/hjtenklooster/claude-file-recovery)
 * [2026-02-27, 15:52:27](https://news.ycombinator.com/item?id=47181944) - [A Chinese official’s use of ChatGPT revealed an intimidation operation](https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation)
@@ -27,6 +26,7 @@
 * [2026-02-25, 18:15:07](https://news.ycombinator.com/item?id=47155375) - [Show HN: I ported Manim to TypeScript (run 3b1B math animations in the browser)](https://github.com/maloyan/manim-web)
 * [2026-02-25, 17:47:47](https://news.ycombinator.com/item?id=47154962) - [Time-Travel Debugging: Replaying Production Bugs Locally](https://lackofimagination.org/2026/02/time-travel-debugging-replaying-production-bugs-locally/)
 * [2026-02-25, 12:16:12](https://news.ycombinator.com/item?id=47150546) - [Inventing the Lisa user interface – Interactions](https://dl.acm.org/doi/10.1145/242388.242405)
+* [2026-02-25, 05:14:09](https://news.ycombinator.com/item?id=47147597) - [The Eternal Promise: A History of Attempts to Eliminate Programmers](https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/)
 * [2026-02-25, 02:20:13](https://news.ycombinator.com/item?id=47146487) - [Can you reverse engineer our neural network?](https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/)
 * [2026-02-24, 13:04:25](https://news.ycombinator.com/item?id=47136612) - [Eschewing Zshell for Emacs Shell (2014)](https://www.howardism.org/Technical/Emacs/eshell-fun.html)
 * [2026-02-24, 12:27:44](https://news.ycombinator.com/item?id=47136272) - [Package Managers à la Carte: a formal model of dependency resolution](https://arxiv.org/abs/2602.18602)

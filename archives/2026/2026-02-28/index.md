@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 07:45:36](https://news.ycombinator.com/item?id=47191844) - [Inferring Car Movement Patterns from Passive TPMS Measurements](https://dspace.networks.imdea.org/handle/20.500.12761/2011)
 * [2026-02-28, 07:00:18](https://news.ycombinator.com/item?id=47191437) - [US and Israel carrying out strikes against Iran](https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl)
 * [2026-02-28, 06:57:46](https://news.ycombinator.com/item?id=47191414) - [U.S. and Israel Conduct Strikes on Iran](https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump)
 * [2026-02-28, 06:34:07](https://news.ycombinator.com/item?id=47191232) - [Israel launches strike against Iran, declares state of emergency across country](https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk)
