@@ -59,6 +59,7 @@
 * [2026-02-26, 07:52:29](https://news.ycombinator.com/item?id=47163167) - [From Noise to Image – interactive guide to diffusion](https://lighthousesoftware.co.uk/projects/from-noise-to-image/)
 * [2026-02-26, 04:59:01](https://news.ycombinator.com/item?id=47162059) - [I don't know how you get here from \"predict the next word.\"](https://www.grumpy-economist.com/p/refine)
 * [2026-02-26, 04:34:26](https://news.ycombinator.com/item?id=47161889) - [Move tests to closed source repo](https://github.com/tldraw/tldraw/issues/8082)
+* [2026-02-26, 04:13:47](https://news.ycombinator.com/item?id=47161759) - [The happiest I've ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been)
 * [2026-02-26, 03:36:57](https://news.ycombinator.com/item?id=47161498) - [Self-improving software won't produce Skynet](https://contalign.jefflunt.com/self-improving-software/)
 * [2026-02-26, 03:03:00](https://news.ycombinator.com/item?id=47161277) - [The man building Team USA's Olympic bobsleds](https://www.adirondackexplorer.org/community-news/people/lake-placid-man-builds-team-usas-olympic-bobsleds/)
 * [2026-02-26, 02:43:26](https://news.ycombinator.com/item?id=47161160) - [RAM now represents 35 percent of bill of materials for HP PCs](https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/)

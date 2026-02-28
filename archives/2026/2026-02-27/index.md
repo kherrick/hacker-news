@@ -58,6 +58,7 @@
 * [2026-02-27, 09:08:58](https://news.ycombinator.com/item?id=47178371) - [Get free Claude max 20x for open-source maintainers](https://claude.com/contact-sales/claude-for-oss)
 * [2026-02-27, 09:04:48](https://news.ycombinator.com/item?id=47178344) - [Working on Pharo Smalltalk: BPatterns: Rewrite Engine with Smalltalk Style](http://dionisiydk.blogspot.com/2026/02/bpatterns-rewrite-engine-with-smalltalk.html)
 * [2026-02-27, 08:45:02](https://news.ycombinator.com/item?id=47178176) - [Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA](https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer)
+* [2026-02-27, 08:27:45](https://news.ycombinator.com/item?id=47178051) - [Werner Herzog Between Fact and Fiction](https://www.thenation.com/article/culture/werner-herzog-future-truth/)
 * [2026-02-27, 08:02:52](https://news.ycombinator.com/item?id=47177877) - [The complete Manic Miner disassembly](https://skoolkit.ca/disassemblies/manic_miner/)
 * [2026-02-27, 06:21:23](https://news.ycombinator.com/item?id=47177186) - [The normalization of corruption in organizations (2003) [pdf]](https://gwern.net/doc/sociology/2003-ashforth.pdf)
 * [2026-02-27, 04:38:46](https://news.ycombinator.com/item?id=47176581) - [Dear Time Lords: Freeze Computers in 1993](https://graydon2.dreamwidth.org/322461.html)
