@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-02-28, 16:58:54",
+      "https://news.ycombinator.com/item?id=47197595"
+    ],
+    [
+      "Verified Spec-Driven Development (VSDD)",
+      "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 16:31:53",
       "https://news.ycombinator.com/item?id=47197267"
     ],
     [
       "Obsidian Sync now has a headless client",
       "https://help.obsidian.md/sync/headless"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 16:11:58",
+      "https://news.ycombinator.com/item?id=47197003"
+    ],
+    [
+      "Show HN: SQLite for Rivet Actors – one database per agent, tenant, or document",
+      "https://github.com/rivet-dev/rivet"
     ]
   ],
   [
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2026-02-28, 05:21:21",
-      "https://news.ycombinator.com/item?id=47190806"
-    ],
-    [
-      "Cash issuing terminals",
-      "https://computer.rip/2026-02-27-ibm-atm.html"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 02:59:02",
       "https://news.ycombinator.com/item?id=47189650"
     ],
     [
       "OpenAI agrees with Dept. of War to deploy models in their classified network",
       "https://twitter.com/sama/status/2027578652477821175"
-    ]
-  ],
-  [
-    [
-      "2026-02-28, 02:55:29",
-      "https://news.ycombinator.com/item?id=47189625"
-    ],
-    [
-      "Bootc and OSTree: Modernizing Linux System Deployment",
-      "https://a-cup-of.coffee/blog/ostree-bootc/"
     ]
   ],
   [
