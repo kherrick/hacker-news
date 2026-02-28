@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-02-28, 05:47:39",
-      "https://news.ycombinator.com/item?id=47190947"
-    ],
-    [
-      "Rust is just a tool",
-      "https://lewiscampbell.tech/blog/260204.html"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 05:21:21",
       "https://news.ycombinator.com/item?id=47190806"
     ],
@@ -257,6 +247,16 @@
     [
       "Time-Travel Debugging: Replaying Production Bugs Locally",
       "https://lackofimagination.org/2026/02/time-travel-debugging-replaying-production-bugs-locally/"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 12:16:12",
+      "https://news.ycombinator.com/item?id=47150546"
+    ],
+    [
+      "Inventing the Lisa user interface – Interactions",
+      "https://dl.acm.org/doi/10.1145/242388.242405"
     ]
   ],
   [
