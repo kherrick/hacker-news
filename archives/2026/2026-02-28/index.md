@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 19:47:08](https://news.ycombinator.com/item?id=47199389) - [Khamenei Dead](https://twitter.com/BarakRavid/status/2027830773328302396)
 * [2026-02-28, 19:03:47](https://news.ycombinator.com/item?id=47198973) - [\"Cancel ChatGPT\" movement goes mainstream after OpenAI closes deal with U.S. Dow](https://www.windowscentral.com/artificial-intelligence/cancel-chatgpt-movement-goes-mainstream-after-openai-closes-deal-with-u-s-department-of-war-as-anthropic-refuses-to-surveil-american-citizens)
 * [2026-02-28, 18:57:43](https://news.ycombinator.com/item?id=47198912) - [Techno‑Feudal Elite Are Attempting to Build a Twenty‑First‑Century Fascist State](https://collapseofindustrialcivilization.com/2026/02/16/americas-oligarchic-techno-feudal-elite-are-attempting-to-build-a-twenty-first-century-fascist-state/)
 * [2026-02-28, 17:43:22](https://news.ycombinator.com/item?id=47198099) - [CSP for Pentesters: Understanding the Fundamentals](https://www.kayssel.com/newsletter/issue-20/)

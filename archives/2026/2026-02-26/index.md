@@ -13,6 +13,7 @@
 * [2026-02-26, 21:17:56](https://news.ycombinator.com/item?id=47172119) - [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343)
 * [2026-02-26, 20:43:11](https://news.ycombinator.com/item?id=47171771) - [America, and probably the world, stands on a precipice](https://garymarcus.substack.com/p/america-and-probably-the-world-stands)
 * [2026-02-26, 19:58:46](https://news.ycombinator.com/item?id=47171233) - [What does \" 2>&1 \" mean?](https://stackoverflow.com/questions/818255/what-does-21-mean)
+* [2026-02-26, 19:29:35](https://news.ycombinator.com/item?id=47170847) - ['Play like a dog biting God's feet': Steven Isserlis on György Kurtág at 100](https://www.theguardian.com/music/2026/feb/26/steven-isserlis-on-the-formidable-gyorgy-kurtag-at-100)
 * [2026-02-26, 18:47:27](https://news.ycombinator.com/item?id=47170299) - [Show HN: Rev-dep – 20x faster knip.dev alternative build in Go](https://github.com/jayu/rev-dep)
 * [2026-02-26, 18:38:38](https://news.ycombinator.com/item?id=47170174) - [Launch HN: Cardboard (YC W26) – Agentic video editor](https://www.usecardboard.com/)
 * [2026-02-26, 18:37:59](https://news.ycombinator.com/item?id=47170157) - [OsmAnd's Faster Offline Navigation](https://osmand.net/blog/fast-routing/)
