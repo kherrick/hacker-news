@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-02-28, 22:19:36](https://news.ycombinator.com/item?id=47200904) - [The Windows 95 User Interface: A Case Study in Usability Engineering](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611)
-* [2026-02-28, 22:16:08](https://news.ycombinator.com/item?id=47200879) - [Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule](https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed)
 * [2026-02-28, 22:10:21](https://news.ycombinator.com/item?id=47200828) - [Building a Minimal Transformer for 10-digit Addition](https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition)
 * [2026-02-28, 21:24:16](https://news.ycombinator.com/item?id=47200420) - [\"We do not think Anthropic should be designated as a supply chain risk\"](https://twitter.com/OpenAI/status/2027846016423321831)
 * [2026-02-28, 21:16:53](https://news.ycombinator.com/item?id=47200342) - [MinIO Is Dead, Long Live MinIO](https://blog.vonng.com/en/db/minio-resurrect/)
@@ -17,6 +16,7 @@
 * [2026-02-28, 10:01:20](https://news.ycombinator.com/item?id=47193064) - [Stop Burning Your Context Window – How We Cut MCP Output by 98% in Claude Code](https://mksg.lu/blog/context-mode)
 * [2026-02-28, 08:56:33](https://news.ycombinator.com/item?id=47192505) - [Unsloth Dynamic 2.0 GGUFs](https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs)
 * [2026-02-28, 06:34:07](https://news.ycombinator.com/item?id=47191232) - [The United States and Israel have launched a major attack on Iran](https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk)
+* [2026-02-28, 02:59:02](https://news.ycombinator.com/item?id=47189650) - [OpenAI agrees with Dept. of War to deploy models in their classified network](https://twitter.com/sama/status/2027578652477821175)
 * [2026-02-28, 00:54:53](https://news.ycombinator.com/item?id=47188473) - [We Will Not Be Divided](https://notdivided.org)
 * [2026-02-27, 17:22:00](https://news.ycombinator.com/item?id=47182986) - [747s and Coding Agents](https://carlkolon.com/2026/02/27/engineering-747-coding-agents/)
 * [2026-02-27, 08:27:45](https://news.ycombinator.com/item?id=47178051) - [Werner Herzog Between Fact and Fiction](https://www.thenation.com/article/culture/werner-herzog-future-truth/)
