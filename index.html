@@ -139,11 +139,11 @@
             <h4>
               <span>2026-02-28 @ 17:43:22</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47198099"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -159,11 +159,11 @@
             <h4>
               <span>2026-02-28 @ 17:12:46</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47197735"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
             <div class="text">
@@ -225,11 +225,11 @@
             <h4>
               <span>2026-02-28 @ 16:58:54</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47197595"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -246,11 +246,11 @@
             <h4>
               <span>2026-02-28 @ 16:51:49</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47197505"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -265,123 +265,13 @@
             <h4>
               <span>2026-02-28 @ 16:31:53</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47197267"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47197003">
-          <h3>
-            <a class="item" href="https://github.com/rivet-dev/rivet"
-              >Show HN: SQLite for Rivet Actors – one database per agent,
-              tenant, or document</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-02-28 @ 16:11:58</span
-              ><span class="points-container"
-                >Points: <span class="points">27</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47197003"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Today we've released SQLite storage for actors (Apache 2.0).
-              </p>
-              <p>
-                Every actor gets its own SQLite database. This means you can
-                have millions of independent databases: one for each agent,
-                tenant, user, or document.
-              </p>
-              <p>Useful for:</p>
-              <p>
-                - AI agents: per-agent DB for message history, state, embeddings
-              </p>
-              <p>
-                - Multi-tenant SaaS: real per-tenant isolation, no RLS hacks
-              </p>
-              <p>
-                - Collaborative documents: each document gets its own database
-                with built-in multiplayer
-              </p>
-              <p>
-                - Per-user databases: isolated, scales horizontally, runs at the
-                edge
-              </p>
-              <p>
-                The idea of splitting data per entity isn't new: Cassandra and
-                DynamoDB use partition keys to scale horizontally, but you're
-                stuck with rigid schemas ("single-table design" [3]), limited
-                queries, and painful migrations. SQLite per entity gives you the
-                same scalability without those tradeoffs [2].
-              </p>
-              <p>How this compares:</p>
-              <p>
-                - Cloudflare Durable Objects &amp; Agents: most similar to Rivet
-                Actors with colocated SQLite and compute, but closed-source and
-                vendor-locked
-              </p>
-              <p>
-                - Turso Cloud: Great platform, but closed-source + diff use
-                case. Clients query over the network, so reads are slow or
-                stale. Rivet's single-writer actor model keeps reads local and
-                fresh.
-              </p>
-              <p>
-                - D1, Turso (the DB), Litestream, rqlite, LiteFS: great tools
-                for running a single SQLite database with replication. Rivet is
-                for running lots of isolated databases.
-              </p>
-              <p>
-                Under the hood, SQLite runs in-process with each actor. A custom
-                VFS persists writes to HA storage (FoundationDB or Postgres).
-              </p>
-              <p>
-                Rivet Actors also provide realtime (WebSockets), React
-                integration (useActor), horizontal scalability, and actors that
-                sleep when idle.
-              </p>
-              <p>
-                GitHub:
-                <a href="https://github.com/rivet-dev/rivet"
-                  >https://github.com/rivet-dev/rivet</a
-                >
-              </p>
-              <p>
-                Docs:
-                <a href="https://www.rivet.dev/docs/actors/sqlite/"
-                  >https://www.rivet.dev/docs/actors/sqlite/</a
-                >
-              </p>
-              <p>
-                [1]
-                <a href="https://news.ycombinator.com/item?id=42472519"
-                  >https://news.ycombinator.com/item?id=42472519</a
-                >
-              </p>
-              <p>
-                [2]
-                <a
-                  href="https://rivet.dev/blog/2025-02-16-sqlite-on-the-server-is-misunderstood/"
-                  >https://rivet.dev/blog/2025-02-16-sqlite-on-the-server-is-mi...</a
-                >
-              </p>
-              <p>
-                [3]
-                <a
-                  href="https://www.alexdebrie.com/posts/dynamodb-single-table/"
-                  >https://www.alexdebrie.com/posts/dynamodb-single-table/</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="47196582">
@@ -396,11 +286,11 @@
             <h4>
               <span>2026-02-28 @ 15:39:10</span
               ><span class="points-container"
-                >Points: <span class="points">329</span></span
+                >Points: <span class="points">370</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47196582"
                   >Comments</a
-                ><span class="descendants">: 136</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
           </section>
@@ -417,11 +307,11 @@
             <h4>
               <span>2026-02-28 @ 13:50:13</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47195371"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -438,11 +328,11 @@
             <h4>
               <span>2026-02-28 @ 13:46:20</span
               ><span class="points-container"
-                >Points: <span class="points">186</span></span
+                >Points: <span class="points">191</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47195317"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -459,7 +349,7 @@
             <h4>
               <span>2026-02-28 @ 13:32:28</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47195157"
                   >Comments</a
@@ -479,11 +369,11 @@
             <h4>
               <span>2026-02-28 @ 13:29:36</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47195123"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
             <div class="text">
@@ -551,11 +441,11 @@
             <h4>
               <span>2026-02-28 @ 12:39:32</span
               ><span class="points-container"
-                >Points: <span class="points">253</span></span
+                >Points: <span class="points">261</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47194611"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
           </section>
@@ -572,7 +462,7 @@
             <h4>
               <span>2026-02-28 @ 10:41:53</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47193476"
                   >Comments</a
@@ -592,7 +482,7 @@
             <h4>
               <span>2026-02-28 @ 10:01:20</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47193064"
                   >Comments</a
@@ -613,7 +503,7 @@
             <h4>
               <span>2026-02-28 @ 08:56:33</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47192505"
                   >Comments</a
@@ -635,11 +525,11 @@
             <h4>
               <span>2026-02-28 @ 06:34:07</span
               ><span class="points-container"
-                >Points: <span class="points">789</span></span
+                >Points: <span class="points">803</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47191232"
                   >Comments</a
-                ><span class="descendants">: 1872</span></span
+                ><span class="descendants">: 1913</span></span
               >
             </h4>
             <div class="text">
@@ -659,11 +549,11 @@
             <h4>
               <span>2026-02-28 @ 03:11:40</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47189749"
                   >Comments</a
-                ><span class="descendants">: 172</span></span
+                ><span class="descendants">: 173</span></span
               >
             </h4>
           </section>
@@ -681,11 +571,11 @@
             <h4>
               <span>2026-02-28 @ 02:59:02</span
               ><span class="points-container"
-                >Points: <span class="points">1230</span></span
+                >Points: <span class="points">1240</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47189650"
                   >Comments</a
-                ><span class="descendants">: 585</span></span
+                ><span class="descendants">: 588</span></span
               >
             </h4>
             <div class="text">
@@ -711,11 +601,11 @@
             <h4>
               <span>2026-02-28 @ 00:54:53</span
               ><span class="points-container"
-                >Points: <span class="points">2376</span></span
+                >Points: <span class="points">2395</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47188473"
                   >Comments</a
-                ><span class="descendants">: 752</span></span
+                ><span class="descendants">: 757</span></span
               >
             </h4>
           </section>
@@ -732,11 +622,11 @@
             <h4>
               <span>2026-02-27 @ 17:22:00</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47182986"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -789,7 +679,7 @@
             <h4>
               <span>2026-02-27 @ 08:27:45</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47178051"
                   >Comments</a
@@ -810,7 +700,7 @@
             <h4>
               <span>2026-02-26 @ 07:52:29</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47163167"
                   >Comments</a
@@ -831,11 +721,11 @@
             <h4>
               <span>2026-02-26 @ 04:13:47</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47161759"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -850,11 +740,11 @@
             <h4>
               <span>2026-02-25 @ 18:24:46</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47155526"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -869,11 +759,11 @@
             <h4>
               <span>2026-02-25 @ 18:07:09</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47155235"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -890,11 +780,11 @@
             <h4>
               <span>2026-02-25 @ 17:28:33</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47154637"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -920,6 +810,27 @@
             </h4>
           </section>
         </section>
+        <section id="47152967">
+          <h3>
+            <a
+              class="item"
+              href="https://www.worksinprogress.news/p/more-cows-more-wives"
+              >More Cows, More Wives</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-02-25 @ 15:36:36</span
+              ><span class="points-container"
+                >Points: <span class="points">68</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47152967"
+                  >Comments</a
+                ><span class="descendants">: 43</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47147597">
           <h3>
             <a
@@ -933,11 +844,11 @@
             <h4>
               <span>2026-02-25 @ 05:14:09</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47147597"
                   >Comments</a
-                ><span class="descendants">: 120</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -952,7 +863,7 @@
             <h4>
               <span>2026-02-24 @ 23:14:16</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47144835"
                   >Comments</a
