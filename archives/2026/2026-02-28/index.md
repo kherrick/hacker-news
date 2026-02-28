@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 22:16:08](https://news.ycombinator.com/item?id=47200879) - [Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule](https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed)
+* [2026-02-28, 22:10:21](https://news.ycombinator.com/item?id=47200828) - [Building a Minimal Transformer for 10-digit Addition](https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition)
 * [2026-02-28, 21:16:53](https://news.ycombinator.com/item?id=47200342) - [MinIO Is Dead, Long Live MinIO](https://blog.vonng.com/en/db/minio-resurrect/)
 * [2026-02-28, 20:35:29](https://news.ycombinator.com/item?id=47199948) - [Our Agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war)
 * [2026-02-28, 20:20:00](https://news.ycombinator.com/item?id=47199781) - [Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers](https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance)

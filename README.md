@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-28, 22:16:08](https://news.ycombinator.com/item?id=47200879) - [Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule](https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed)
+* [2026-02-28, 22:10:21](https://news.ycombinator.com/item?id=47200828) - [Building a Minimal Transformer for 10-digit Addition](https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition)
 * [2026-02-28, 21:16:53](https://news.ycombinator.com/item?id=47200342) - [MinIO Is Dead, Long Live MinIO](https://blog.vonng.com/en/db/minio-resurrect/)
 * [2026-02-28, 20:35:29](https://news.ycombinator.com/item?id=47199948) - [Our Agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war)
 * [2026-02-28, 20:20:00](https://news.ycombinator.com/item?id=47199781) - [Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers](https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance)
@@ -9,7 +11,6 @@
 * [2026-02-28, 16:31:53](https://news.ycombinator.com/item?id=47197267) - [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
 * [2026-02-28, 13:50:13](https://news.ycombinator.com/item?id=47195371) - [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632)
 * [2026-02-28, 13:46:20](https://news.ycombinator.com/item?id=47195317) - [OpenAI fires an employee for prediction market insider trading](https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/)
-* [2026-02-28, 13:32:28](https://news.ycombinator.com/item?id=47195157) - [The Life Cycle of Money](https://doap.metal.bohyen.space/blog/post/complete-life-cycle-of-money/)
 * [2026-02-28, 13:29:36](https://news.ycombinator.com/item?id=47195123) - [Show HN: Now I Get It – Translate scientific papers into interactive webpages](https://nowigetit.us)
 * [2026-02-28, 10:41:53](https://news.ycombinator.com/item?id=47193476) - [The Future of AI](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 * [2026-02-28, 10:01:20](https://news.ycombinator.com/item?id=47193064) - [Stop Burning Your Context Window – How We Cut MCP Output by 98% in Claude Code](https://mksg.lu/blog/context-mode)
@@ -29,7 +30,6 @@
 * [2026-02-25, 15:28:52](https://news.ycombinator.com/item?id=47152835) - [The archivist preserving decaying floppy disks](https://www.popsci.com/technology/floppy-disk-archivist-project/)
 * [2026-02-25, 11:55:06](https://news.ycombinator.com/item?id=47150352) - [What I learned while trying to build a production-ready nearest neighbor system](https://github.com/thatipamula-jashwanth/smart-knn)
 * [2026-02-25, 05:14:09](https://news.ycombinator.com/item?id=47147597) - [The Eternal Promise: A History of Attempts to Eliminate Programmers](https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/)
-* [2026-02-24, 23:14:16](https://news.ycombinator.com/item?id=47144835) - [How Long Is the Coast of Britain? (1967)](https://www.jstor.org/stable/1721427)
 
 ## [Archives](archives/index.md)
 
