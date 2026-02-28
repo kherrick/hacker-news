@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 16:31:53](https://news.ycombinator.com/item?id=47197267) - [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
 * [2026-02-28, 15:39:10](https://news.ycombinator.com/item?id=47196582) - [Cognitive Debt: When Velocity Exceeds Comprehension](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/)
 * [2026-02-28, 15:15:08](https://news.ycombinator.com/item?id=47196263) - [Is GitHub Copilot still relevant in the enterprise?](https://news.ycombinator.com/item?id=47196263)
 * [2026-02-28, 14:58:02](https://news.ycombinator.com/item?id=47196069) - [Show HN: Rust-powered document chunker for RAG – 40x faster, O(1) memory](https://github.com/Krira-Labs/krira-chunker)

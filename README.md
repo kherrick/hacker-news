@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-02-28, 16:31:53](https://news.ycombinator.com/item?id=47197267) - [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
 * [2026-02-28, 15:39:10](https://news.ycombinator.com/item?id=47196582) - [Cognitive Debt: When Velocity Exceeds Comprehension](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/)
 * [2026-02-28, 13:50:13](https://news.ycombinator.com/item?id=47195371) - [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632)
 * [2026-02-28, 13:46:20](https://news.ycombinator.com/item?id=47195317) - [OpenAI Fires an Employee for Prediction Market Insider Trading](https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/)
@@ -9,7 +10,6 @@
 * [2026-02-28, 13:26:51](https://news.ycombinator.com/item?id=47195093) - [Customer Update on Simplenote](https://forums.simplenote.com/forums/topic/customer-update-on-simplenote/?view=all)
 * [2026-02-28, 13:05:03](https://news.ycombinator.com/item?id=47194847) - [What AI coding costs you](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 * [2026-02-28, 12:58:09](https://news.ycombinator.com/item?id=47194781) - [Latency numbers every programmer should know](https://cheat.sh/latency)
-* [2026-02-28, 12:46:36](https://news.ycombinator.com/item?id=47194690) - [No Bookmarks](https://nik.art/no-bookmarks/)
 * [2026-02-28, 12:39:32](https://news.ycombinator.com/item?id=47194611) - [Don't trust AI agents](https://nanoclaw.dev/blog/nanoclaw-security-model)
 * [2026-02-28, 11:24:45](https://news.ycombinator.com/item?id=47193832) - [Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash](https://github.com/junevm/splathash)
 * [2026-02-28, 10:41:55](https://news.ycombinator.com/item?id=47193478) - [OpenAI – How to delete your account](https://help.openai.com/en/articles/6378407-how-to-delete-your-account)
