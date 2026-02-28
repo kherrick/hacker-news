@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-28, 05:55:01",
+      "https://news.ycombinator.com/item?id=47190997"
+    ],
+    [
+      "How do I cancel my ChatGPT subscription?",
+      "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 05:47:39",
+      "https://news.ycombinator.com/item?id=47190947"
+    ],
+    [
+      "Rust Is Just a Tool",
+      "https://lewiscampbell.tech/blog/260204.html"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 05:21:21",
       "https://news.ycombinator.com/item?id=47190806"
     ],
@@ -87,16 +107,6 @@
     [
       "Qt45: A small polymerase ribozyme that can synthesize itself",
       "https://www.science.org/doi/10.1126/science.adt2760"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 22:13:54",
-      "https://news.ycombinator.com/item?id=47186444"
-    ],
-    [
-      "Otters as Bioindicators of Estuarine Health",
-      "https://emt.pensoft.net/article/185117/"
     ]
   ],
   [
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2026-02-25, 02:20:13",
-      "https://news.ycombinator.com/item?id=47146487"
-    ],
-    [
-      "Can you reverse engineer our neural network?",
-      "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 13:04:25",
       "https://news.ycombinator.com/item?id=47136612"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-02-24, 12:58:11",
-      "https://news.ycombinator.com/item?id=47136535"
+      "2026-02-24, 12:27:44",
+      "https://news.ycombinator.com/item?id=47136272"
     ],
     [
-      "Semantic Syntax Highlighting for Lisp in Emacs",
-      "https://github.com/calsys456/lisp-semantic-hl.el"
+      "Package Managers à la Carte: a formal model of dependency resolution",
+      "https://arxiv.org/abs/2602.18602"
     ]
   ]
 ]
