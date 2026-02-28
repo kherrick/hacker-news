@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-02-28, 14:05:27",
-      "https://news.ycombinator.com/item?id=47195530"
-    ],
-    [
-      "Show HN: Decided to play god this morning, so I built an agent civilisation",
-      "https://github.com/nocodemf/werld"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 13:50:13",
       "https://news.ycombinator.com/item?id=47195371"
     ],
@@ -81,16 +71,6 @@
   ],
   [
     [
-      "2026-02-28, 13:17:53",
-      "https://news.ycombinator.com/item?id=47194994"
-    ],
-    [
-      "Show HN: Reclaim Flowers – A 2D physics-based \"Digital Altar\" protocol",
-      "https://github.com/voice-of-japan/Virtual-Protest-Protocol/blob/main/README.md"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 13:05:03",
       "https://news.ycombinator.com/item?id=47194847"
     ],
@@ -147,6 +127,16 @@
     [
       "OpenAI – How to delete your account",
       "https://help.openai.com/en/articles/6378407-how-to-delete-your-account"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 10:01:20",
+      "https://news.ycombinator.com/item?id=47193064"
+    ],
+    [
+      "Stop Burning Your Context Window – How We Cut MCP Output by 98% in Claude Code",
+      "https://mksg.lu/blog/context-mode"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Woxi: Wolfram Mathematica Reimplementation in Rust",
       "https://github.com/ad-si/Woxi"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 17:28:33",
+      "https://news.ycombinator.com/item?id=47154637"
+    ],
+    [
+      "A Man Who Stole Infinity",
+      "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/"
     ]
   ],
   [
