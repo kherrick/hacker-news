@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-02-28, 02:55:29",
+      "https://news.ycombinator.com/item?id=47189625"
+    ],
+    [
+      "Bootc and OSTree: Modernizing Linux System Deployment",
+      "https://a-cup-of.coffee/blog/ostree-bootc/"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 02:48:16",
       "https://news.ycombinator.com/item?id=47189535"
     ],
@@ -87,16 +97,6 @@
     [
       "I am directing the Department of War to designate Anthropic a supply-chain risk",
       "https://twitter.com/secwar/status/2027507717469049070"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 22:13:54",
-      "https://news.ycombinator.com/item?id=47186444"
-    ],
-    [
-      "Otters as Bioindicators of Estuarine Health",
-      "https://emt.pensoft.net/article/185117/"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=47172238"
     ],
     [
-      "Show HN: Unfucked – version every change between commits - local-first",
+      "Show HN: Unfucked - version all changes (by anything) - local-first/source avail",
       "https://www.unfudged.io/"
     ]
   ],
