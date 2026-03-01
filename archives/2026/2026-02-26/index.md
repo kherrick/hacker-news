@@ -56,6 +56,7 @@
 * [2026-02-26, 11:58:13](https://news.ycombinator.com/item?id=47164892) - [Men in their 50s may be aging faster due to toxic 'forever chemicals'](https://www.cnn.com/2026/02/26/health/forever-chemicals-aging-men-wellness)
 * [2026-02-26, 11:26:10](https://news.ycombinator.com/item?id=47164605) - [You Want to Visit the UK? You Better Have a Google Play or App Store Account](https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/)
 * [2026-02-26, 11:01:10](https://news.ycombinator.com/item?id=47164398) - [Google API Keys Weren't Secrets. But Then Gemini Changed the Rules](https://simonwillison.net/2026/Feb/26/google-api-keys/)
+* [2026-02-26, 10:51:29](https://news.ycombinator.com/item?id=47164336) - [Pigeons and Planes Has a Website Again](https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again)
 * [2026-02-26, 10:40:45](https://news.ycombinator.com/item?id=47164270) - [Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line](https://gitlab.com/here_forawhile/terminalphone)
 * [2026-02-26, 10:08:01](https://news.ycombinator.com/item?id=47164079) - [Show HN: Better Hub – A better GitHub experience](https://www.better-hub.com/)
 * [2026-02-26, 09:51:48](https://news.ycombinator.com/item?id=47163985) - [Technical Excellence Is Not Enough](https://raccoon.land/posts/technical-excellence-is-not-enough/)
