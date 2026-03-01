@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-01, 09:26:59](https://news.ycombinator.com/item?id=47205127) - [Show HN: Terminal-Style Portfolio on the Internet](https://kuber.studio/)
 * [2026-03-01, 08:55:52](https://news.ycombinator.com/item?id=47204964) - [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
 * [2026-03-01, 07:36:52](https://news.ycombinator.com/item?id=47204571) - [Switch to Claude without starting over](https://claude.com/import-memory)
 * [2026-03-01, 07:35:03](https://news.ycombinator.com/item?id=47204559) - [10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org)
 * [2026-03-01, 02:09:41](https://news.ycombinator.com/item?id=47202864) - [The Science of Detecting LLM-Generated Text](https://dl.acm.org/doi/10.1145/3624725)
-* [2026-03-01, 01:59:00](https://news.ycombinator.com/item?id=47202808) - [Samsung Galaxy update removes Android recovery menu tools, including sideloading](https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/)
 * [2026-03-01, 01:39:26](https://news.ycombinator.com/item?id=47202708) - [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
 * [2026-02-28, 22:19:36](https://news.ycombinator.com/item?id=47200904) - [The Windows 95 user interface: A case study in usability engineering (1996)](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611)
 * [2026-02-28, 22:16:08](https://news.ycombinator.com/item?id=47200879) - [Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule](https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed)
