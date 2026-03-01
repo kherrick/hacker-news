@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-01](index.md)
 
+* [2026-03-01, 14:59:55](https://news.ycombinator.com/item?id=47207302) - [US Military says 3 service members have been killed](https://apnews.com/live/us-israel-strikes-iran-khamenei-03-01-2026)
 * [2026-03-01, 14:09:24](https://news.ycombinator.com/item?id=47206824) - [AI Made Writing Code Easier. It Made Being an Engineer Harder](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 * [2026-03-01, 14:09:06](https://news.ycombinator.com/item?id=47206820) - [Pentagon Adopts Incel-Speak](https://www.theguardian.com/science/2026/mar/01/incel-slang-mainstream-government-media)
+* [2026-03-01, 14:07:05](https://news.ycombinator.com/item?id=47206798) - [Ape Coding](https://rsaksida.com/blog/ape-coding/)
+* [2026-03-01, 13:49:21](https://news.ycombinator.com/item?id=47206663) - [AI is making junior devs useless](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 * [2026-03-01, 12:13:03](https://news.ycombinator.com/item?id=47206009) - [Ghostty – Terminal Emulator](https://ghostty.org/docs)
 * [2026-03-01, 11:49:01](https://news.ycombinator.com/item?id=47205890) - [I built a demo of what AI chat will look like when it's \"free\" and ad-supported](https://99helpers.com/tools/ad-supported-chat)
 * [2026-03-01, 11:05:28](https://news.ycombinator.com/item?id=47205659) - [Show HN: Vertex.js – A 1kloc SPA Framework](https://lukeb42.github.io/vertex-manual.html)
