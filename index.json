@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-03-01, 01:43:57",
-      "https://news.ycombinator.com/item?id=47202734"
-    ],
-    [
-      "Just two days of oatmeal cut bad cholesterol by 10%",
-      "https://www.sciencedaily.com/releases/2026/02/260225081217.htm"
-    ]
-  ],
-  [
-    [
       "2026-03-01, 01:39:26",
       "https://news.ycombinator.com/item?id=47202708"
     ],
@@ -37,16 +27,6 @@
     [
       "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
       "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-28, 23:51:04",
-      "https://news.ycombinator.com/item?id=47201882"
-    ],
-    [
-      "Pentagon chief blocks officers from Ivy League schools and top universities",
-      "https://fortune.com/2026/02/28/pentagon-officer-education-ivy-league-schools-universities-partners-ai-space/"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2026-02-26, 18:19:36",
+      "https://news.ycombinator.com/item?id=47169858"
+    ],
+    [
+      "Microsoft announces new \"mini PCs\" for Windows 365",
+      "https://www.neowin.net/news/microsoft-announces-new-mini-pcs-for-windows-365/"
+    ]
+  ],
+  [
+    [
       "2026-02-26, 09:18:57",
       "https://news.ycombinator.com/item?id=47163779"
     ],
@@ -247,6 +237,16 @@
     [
       "Deterministic Programming with LLMs",
       "https://www.mcherm.com/deterministic-programming-with-llms.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 20:20:21",
+      "https://news.ycombinator.com/item?id=47157265"
+    ],
+    [
+      "SpacetimeDB ThreeJS Support",
+      "https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052"
     ]
   ],
   [
