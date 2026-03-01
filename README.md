@@ -22,6 +22,7 @@
 * [2026-02-27, 17:58:48](https://news.ycombinator.com/item?id=47183396) - [Robust and efficient quantum-safe HTTPS](https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html)
 * [2026-02-27, 15:19:10](https://news.ycombinator.com/item?id=47181542) - [An ode to houseplant programming (2025)](https://hannahilea.com/blog/houseplant-programming/)
 * [2026-02-26, 15:31:39](https://news.ycombinator.com/item?id=47167432) - [Hardwood: A New Parser for Apache Parquet](https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/)
+* [2026-02-26, 12:38:48](https://news.ycombinator.com/item?id=47165230) - [The real cost of random I/O](https://vondra.me/posts/the-real-cost-of-random-io/)
 * [2026-02-26, 10:51:29](https://news.ycombinator.com/item?id=47164336) - [Pigeons and Planes Has a Website Again](https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again)
 * [2026-02-26, 09:18:57](https://news.ycombinator.com/item?id=47163779) - [H-Bomb: A Frank Lloyd Wright typographic mystery](https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic)
 * [2026-02-26, 04:13:47](https://news.ycombinator.com/item?id=47161759) - [The happiest I've ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been)
@@ -29,7 +30,6 @@
 * [2026-02-25, 18:24:46](https://news.ycombinator.com/item?id=47155526) - [Woxi: Wolfram Mathematica Reimplementation in Rust](https://github.com/ad-si/Woxi)
 * [2026-02-25, 17:28:33](https://news.ycombinator.com/item?id=47154637) - [New evidence that Cantor plagiarized Dedekind?](https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/)
 * [2026-02-25, 15:01:20](https://news.ycombinator.com/item?id=47152448) - [Sub-second volumetric 3D printing by synthesis of holographic light fields](https://www.nature.com/articles/s41586-026-10114-5)
-* [2026-02-25, 05:14:09](https://news.ycombinator.com/item?id=47147597) - [The Eternal Promise: A History of Attempts to Eliminate Programmers](https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/)
 
 ## [Archives](archives/index.md)
 

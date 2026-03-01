@@ -50,6 +50,7 @@
 * [2026-02-26, 13:12:33](https://news.ycombinator.com/item?id=47165602) - [Show HN: Mission Control – Open-source task management for AI agents](https://github.com/MeisnerDan/mission-control)
 * [2026-02-26, 12:52:50](https://news.ycombinator.com/item?id=47165397) - [Anthropic ditches its core safety promise](https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change)
 * [2026-02-26, 12:44:28](https://news.ycombinator.com/item?id=47165299) - [Fentanyl makeover: Core structural redesign could lead to safer pain medications](https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html)
+* [2026-02-26, 12:38:48](https://news.ycombinator.com/item?id=47165230) - [The real cost of random I/O](https://vondra.me/posts/the-real-cost-of-random-io/)
 * [2026-02-26, 12:18:11](https://news.ycombinator.com/item?id=47165060) - [Number of UK workers on zero-hours contracts hits record high ahead of crackdown](https://www.bbc.co.uk/news/articles/czj1m7d4gxpo)
 * [2026-02-26, 12:15:38](https://news.ycombinator.com/item?id=47165046) - [Show HN: Agent Swarm – Multi-agent self-learning teams (OSS)](https://github.com/desplega-ai/agent-swarm)
 * [2026-02-26, 12:02:14](https://news.ycombinator.com/item?id=47164933) - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)
