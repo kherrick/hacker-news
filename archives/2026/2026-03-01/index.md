@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-01](index.md)
 
 * [2026-03-01, 14:59:55](https://news.ycombinator.com/item?id=47207302) - [US Military says 3 service members have been killed](https://apnews.com/live/us-israel-strikes-iran-khamenei-03-01-2026)
+* [2026-03-01, 14:52:22](https://news.ycombinator.com/item?id=47207236) - [Why XML Tags Are So Fundamental to Claude](https://glthr.com/XML-fundamental-to-Claude)
 * [2026-03-01, 14:09:24](https://news.ycombinator.com/item?id=47206824) - [AI Made Writing Code Easier. It Made Being an Engineer Harder](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 * [2026-03-01, 14:09:06](https://news.ycombinator.com/item?id=47206820) - [Pentagon Adopts Incel-Speak](https://www.theguardian.com/science/2026/mar/01/incel-slang-mainstream-government-media)
 * [2026-03-01, 14:07:05](https://news.ycombinator.com/item?id=47206798) - [Ape Coding](https://rsaksida.com/blog/ape-coding/)
