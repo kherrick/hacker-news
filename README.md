@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-01, 19:24:30](https://news.ycombinator.com/item?id=47209781) - [AWS Middle East Central Down, apparently struck in war](https://health.aws.amazon.com/health/status)
-* [2026-03-01, 19:22:47](https://news.ycombinator.com/item?id=47209773) - [A new account made over $515,000 betting on the U.S. strike against Iran](https://xcancel.com/cabsav456/status/2027937130995921119)
+* [2026-03-01, 19:22:47](https://news.ycombinator.com/item?id=47209773) - [A new Polymarket account made over $500k betting on the U.S. strike against Iran](https://twitter.com/cabsav456/status/2027937130995921119)
 * [2026-03-01, 17:31:29](https://news.ycombinator.com/item?id=47208744) - [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
-* [2026-03-01, 16:58:03](https://news.ycombinator.com/item?id=47208423) - [I Built a Scheme Compiler with AI in 4 Days](https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/)
 * [2026-03-01, 16:54:49](https://news.ycombinator.com/item?id=47208398) - [When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
 * [2026-03-01, 15:52:02](https://news.ycombinator.com/item?id=47207806) - [Show HN: Audio Toolkit for Agents](https://github.com/shiehn/sas-audio-processor)
 * [2026-03-01, 15:23:42](https://news.ycombinator.com/item?id=47207531) - [Lil' Fun Langs' Guts](https://taylor.town/scrapscript-001)
@@ -25,6 +24,7 @@
 * [2026-02-27, 15:19:10](https://news.ycombinator.com/item?id=47181542) - [An ode to houseplant programming (2025)](https://hannahilea.com/blog/houseplant-programming/)
 * [2026-02-27, 14:58:58](https://news.ycombinator.com/item?id=47181256) - [How Dada Enables Internal References](https://smallcultfollowing.com/babysteps/blog/2026/02/27/dada-internal-references/)
 * [2026-02-27, 10:10:22](https://news.ycombinator.com/item?id=47178758) - [Aromatic 5-silicon rings synthesized at last](https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02)
+* [2026-02-27, 07:39:09](https://news.ycombinator.com/item?id=47177700) - [Gzpeek: Tool to Parse Gzip Metadata](https://evanhahn.com/introducing-gzpeek/)
 * [2026-02-26, 16:39:07](https://news.ycombinator.com/item?id=47168405) - [Interview with Øyvind Kolås, GIMP developer (2017)](https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/)
 * [2026-02-26, 12:38:48](https://news.ycombinator.com/item?id=47165230) - [The real cost of random I/O](https://vondra.me/posts/the-real-cost-of-random-io/)
 * [2026-02-26, 10:51:29](https://news.ycombinator.com/item?id=47164336) - [Pigeons and Planes Has a Website Again](https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again)
