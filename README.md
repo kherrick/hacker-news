@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-01, 16:58:03](https://news.ycombinator.com/item?id=47208423) - [I Built a Scheme Compiler with AI in 4 Days](https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/)
+* [2026-03-01, 16:44:03](https://news.ycombinator.com/item?id=47208280) - [Evil in the West Bank – David Shulman](https://www.nybooks.com/articles/2026/03/12/evil-in-the-west-bank-david-shulman/)
 * [2026-03-01, 15:23:42](https://news.ycombinator.com/item?id=47207531) - [Lil' Fun Langs' Guts](https://taylor.town/scrapscript-001)
 * [2026-03-01, 15:09:55](https://news.ycombinator.com/item?id=47207404) - [New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)
 * [2026-03-01, 14:52:22](https://news.ycombinator.com/item?id=47207236) - [Why XML Tags Are So Fundamental to Claude](https://glthr.com/XML-fundamental-to-Claude)
@@ -22,13 +24,11 @@
 * [2026-02-27, 17:07:42](https://news.ycombinator.com/item?id=47182907) - [Rydberg atoms detect clear signals from a handheld radio](https://phys.org/news/2026-02-rydberg-atoms-handheld-radio.html)
 * [2026-02-27, 15:19:10](https://news.ycombinator.com/item?id=47181542) - [An ode to houseplant programming (2025)](https://hannahilea.com/blog/houseplant-programming/)
 * [2026-02-27, 10:10:22](https://news.ycombinator.com/item?id=47178758) - [Aromatic 5-silicon rings synthesized at last](https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02)
-* [2026-02-26, 19:36:30](https://news.ycombinator.com/item?id=47170958) - [Setting up phones is a nightmare](https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/)
 * [2026-02-26, 16:39:07](https://news.ycombinator.com/item?id=47168405) - [Interview with Øyvind Kolås, GIMP developer (2017)](https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/)
 * [2026-02-26, 15:31:39](https://news.ycombinator.com/item?id=47167432) - [Hardwood: A New Parser for Apache Parquet](https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/)
 * [2026-02-26, 13:41:32](https://news.ycombinator.com/item?id=47165965) - [Long Range E-Bike](https://jacquesmattheij.com/long-range-ebike/)
 * [2026-02-26, 12:38:48](https://news.ycombinator.com/item?id=47165230) - [The real cost of random I/O](https://vondra.me/posts/the-real-cost-of-random-io/)
 * [2026-02-26, 10:51:29](https://news.ycombinator.com/item?id=47164336) - [Pigeons and Planes Has a Website Again](https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again)
-* [2026-02-26, 09:18:57](https://news.ycombinator.com/item?id=47163779) - [H-Bomb: A Frank Lloyd Wright typographic mystery](https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic)
 * [2026-02-26, 04:13:47](https://news.ycombinator.com/item?id=47161759) - [The happiest I've ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been)
 
 ## [Archives](archives/index.md)
