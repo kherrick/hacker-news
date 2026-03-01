@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-01](index.md)
 
+* [2026-03-01, 21:56:07](https://news.ycombinator.com/item?id=47211112) - [Big Breakfast Alters Appetite, Gut Health](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/big-breakfast-diet-composition-impacts-on-appetite-control-and-gut-health-a-randomized-weight-loss-trial-in-adults-with-overweight-or-obesity/69D4E150EAE7D9632D33904D7A4AE5FA)
+* [2026-03-01, 21:48:40](https://news.ycombinator.com/item?id=47211040) - [Working with memories can reduce fear of failure](https://medicalxpress.com/news/2026-02-memories-failure.html)
 * [2026-03-01, 20:55:22](https://news.ycombinator.com/item?id=47210572) - [How the Government Deceived Congress in the Debate over Surveillance Powers (2013)](https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived)
 * [2026-03-01, 20:05:24](https://news.ycombinator.com/item?id=47210157) - [This System Can Go Fuck Itself and Burn in Hell](https://shawnfromportland.substack.com/p/this-system-can-go-fuck-itself-and)
 * [2026-03-01, 19:25:04](https://news.ycombinator.com/item?id=47209788) - [Why does C have the best file API](https://maurycyz.com/misc/c_files/)

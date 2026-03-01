@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-01, 21:56:07](https://news.ycombinator.com/item?id=47211112) - [Big Breakfast Alters Appetite, Gut Health](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/big-breakfast-diet-composition-impacts-on-appetite-control-and-gut-health-a-randomized-weight-loss-trial-in-adults-with-overweight-or-obesity/69D4E150EAE7D9632D33904D7A4AE5FA)
+* [2026-03-01, 21:48:40](https://news.ycombinator.com/item?id=47211040) - [Working with memories can reduce fear of failure](https://medicalxpress.com/news/2026-02-memories-failure.html)
 * [2026-03-01, 20:55:22](https://news.ycombinator.com/item?id=47210572) - [How the Government Deceived Congress in the Debate over Surveillance Powers (2013)](https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived)
 * [2026-03-01, 19:25:04](https://news.ycombinator.com/item?id=47209788) - [Why does C have the best file API](https://maurycyz.com/misc/c_files/)
 * [2026-03-01, 19:24:30](https://news.ycombinator.com/item?id=47209781) - [Operational issue – Multiple services (UAE)](https://health.aws.amazon.com/health/status)
@@ -8,8 +10,6 @@
 * [2026-03-01, 15:23:42](https://news.ycombinator.com/item?id=47207531) - [Lil' Fun Langs' Guts](https://taylor.town/scrapscript-001)
 * [2026-03-01, 15:09:55](https://news.ycombinator.com/item?id=47207404) - [New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)
 * [2026-03-01, 14:52:22](https://news.ycombinator.com/item?id=47207236) - [Why XML tags are so fundamental to Claude](https://glthr.com/XML-fundamental-to-Claude)
-* [2026-03-01, 14:07:05](https://news.ycombinator.com/item?id=47206798) - [Ape Coding [fiction]](https://rsaksida.com/blog/ape-coding/)
-* [2026-03-01, 13:49:21](https://news.ycombinator.com/item?id=47206663) - [AI is making junior devs useless](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 * [2026-03-01, 12:13:03](https://news.ycombinator.com/item?id=47206009) - [Ghostty – Terminal Emulator](https://ghostty.org/docs)
 * [2026-03-01, 11:49:01](https://news.ycombinator.com/item?id=47205890) - [I built a demo of what AI chat will look like when it's \"free\" and ad-supported](https://99helpers.com/tools/ad-supported-chat)
 * [2026-03-01, 11:01:17](https://news.ycombinator.com/item?id=47205637) - [Flightradar24 for Ships](https://atlas.flexport.com/)
@@ -18,7 +18,6 @@
 * [2026-03-01, 08:55:52](https://news.ycombinator.com/item?id=47204964) - [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
 * [2026-03-01, 07:35:03](https://news.ycombinator.com/item?id=47204559) - [10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org)
 * [2026-03-01, 01:39:26](https://news.ycombinator.com/item?id=47202708) - [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
-* [2026-02-28, 16:31:53](https://news.ycombinator.com/item?id=47197267) - [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
 * [2026-02-27, 17:58:48](https://news.ycombinator.com/item?id=47183396) - [Robust and efficient quantum-safe HTTPS](https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html)
 * [2026-02-27, 15:19:10](https://news.ycombinator.com/item?id=47181542) - [An ode to houseplant programming (2025)](https://hannahilea.com/blog/houseplant-programming/)
 * [2026-02-27, 14:58:58](https://news.ycombinator.com/item?id=47181256) - [How Dada enables internal references](https://smallcultfollowing.com/babysteps/blog/2026/02/27/dada-internal-references/)
@@ -28,6 +27,7 @@
 * [2026-02-26, 19:36:30](https://news.ycombinator.com/item?id=47170958) - [Setting up phones is a nightmare](https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/)
 * [2026-02-26, 16:39:07](https://news.ycombinator.com/item?id=47168405) - [Interview with Øyvind Kolås, GIMP developer (2017)](https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/)
 * [2026-02-26, 13:41:32](https://news.ycombinator.com/item?id=47165965) - [Long Range E-Bike (2021)](https://jacquesmattheij.com/long-range-ebike/)
+* [2026-02-26, 11:27:06](https://news.ycombinator.com/item?id=47164608) - [Programming in K](https://github.com/JohnEarnest/ok/blob/gh-pages/docs/Programming.md)
 * [2026-02-25, 13:45:02](https://news.ycombinator.com/item?id=47151367) - [Python Type Checker Comparison: Empty Container Inference](https://pyrefly.org/blog/container-inference-comparison/)
 * [2026-02-24, 20:08:38](https://news.ycombinator.com/item?id=47142183) - [How to talk to anyone, and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should)
 
