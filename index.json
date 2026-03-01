@@ -11,22 +11,32 @@
   ],
   [
     [
+      "2026-03-01, 11:05:28",
+      "https://news.ycombinator.com/item?id=47205659"
+    ],
+    [
+      "Show HN: Vertex.js – A 1kloc SPA Framework",
+      "https://lukeb42.github.io/vertex-manual.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-01, 11:01:17",
+      "https://news.ycombinator.com/item?id=47205637"
+    ],
+    [
+      "Flightradar24 for Ships",
+      "https://atlas.flexport.com/"
+    ]
+  ],
+  [
+    [
       "2026-03-01, 09:27:34",
       "https://news.ycombinator.com/item?id=47205129"
     ],
     [
       "Why is the first C++ (m)allocation always 72 KB?",
       "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 09:26:59",
-      "https://news.ycombinator.com/item?id=47205127"
-    ],
-    [
-      "Show HN: Terminal-Style Portfolio on the Internet",
-      "https://kuber.studio/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "10-202: Introduction to Modern AI (CMU)",
       "https://modernaicourse.org"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 02:09:41",
-      "https://news.ycombinator.com/item?id=47202864"
-    ],
-    [
-      "The Science of Detecting LLM-Generated Text (2024)",
-      "https://dl.acm.org/doi/10.1145/3624725"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-02-25, 20:20:21",
-      "https://news.ycombinator.com/item?id=47157265"
-    ],
-    [
-      "SpacetimeDB ThreeJS Support",
-      "https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052"
-    ]
-  ],
-  [
-    [
       "2026-02-25, 18:24:46",
       "https://news.ycombinator.com/item?id=47155526"
     ],
@@ -297,6 +287,16 @@
     [
       "Sub-second volumetric 3D printing by synthesis of holographic light fields",
       "https://www.nature.com/articles/s41586-026-10114-5"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 05:14:09",
+      "https://news.ycombinator.com/item?id=47147597"
+    ],
+    [
+      "The Eternal Promise: A History of Attempts to Eliminate Programmers",
+      "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/"
     ]
   ]
 ]
