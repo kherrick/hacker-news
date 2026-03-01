@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-01, 16:58:03](https://news.ycombinator.com/item?id=47208423) - [I Built a Scheme Compiler with AI in 4 Days](https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/)
-* [2026-03-01, 16:44:03](https://news.ycombinator.com/item?id=47208280) - [Evil in the West Bank – David Shulman](https://www.nybooks.com/articles/2026/03/12/evil-in-the-west-bank-david-shulman/)
+* [2026-03-01, 16:54:49](https://news.ycombinator.com/item?id=47208398) - [MCP is dead. Long live the CLI](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
 * [2026-03-01, 15:23:42](https://news.ycombinator.com/item?id=47207531) - [Lil' Fun Langs' Guts](https://taylor.town/scrapscript-001)
 * [2026-03-01, 15:09:55](https://news.ycombinator.com/item?id=47207404) - [New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)
 * [2026-03-01, 14:52:22](https://news.ycombinator.com/item?id=47207236) - [Why XML Tags Are So Fundamental to Claude](https://glthr.com/XML-fundamental-to-Claude)
@@ -16,7 +16,6 @@
 * [2026-03-01, 07:36:52](https://news.ycombinator.com/item?id=47204571) - [Switch to Claude without starting over](https://claude.com/import-memory)
 * [2026-03-01, 07:35:03](https://news.ycombinator.com/item?id=47204559) - [10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org)
 * [2026-03-01, 01:39:26](https://news.ycombinator.com/item?id=47202708) - [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
-* [2026-02-28, 22:19:36](https://news.ycombinator.com/item?id=47200904) - [The Windows 95 user interface: A case study in usability engineering (1996)](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611)
 * [2026-02-28, 21:24:16](https://news.ycombinator.com/item?id=47200420) - [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)
 * [2026-02-28, 16:31:53](https://news.ycombinator.com/item?id=47197267) - [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
 * [2026-02-28, 10:01:20](https://news.ycombinator.com/item?id=47193064) - [MCP server that reduces Claude Code context consumption by 98%](https://mksg.lu/blog/context-mode)
@@ -29,6 +28,7 @@
 * [2026-02-26, 13:41:32](https://news.ycombinator.com/item?id=47165965) - [Long Range E-Bike](https://jacquesmattheij.com/long-range-ebike/)
 * [2026-02-26, 12:38:48](https://news.ycombinator.com/item?id=47165230) - [The real cost of random I/O](https://vondra.me/posts/the-real-cost-of-random-io/)
 * [2026-02-26, 10:51:29](https://news.ycombinator.com/item?id=47164336) - [Pigeons and Planes Has a Website Again](https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again)
+* [2026-02-26, 09:18:57](https://news.ycombinator.com/item?id=47163779) - [H-Bomb: A Frank Lloyd Wright typographic mystery](https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic)
 * [2026-02-26, 04:13:47](https://news.ycombinator.com/item?id=47161759) - [The happiest I've ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been)
 
 ## [Archives](archives/index.md)

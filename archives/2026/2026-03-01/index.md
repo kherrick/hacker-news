@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-01](index.md)
 
 * [2026-03-01, 16:58:03](https://news.ycombinator.com/item?id=47208423) - [I Built a Scheme Compiler with AI in 4 Days](https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/)
+* [2026-03-01, 16:54:49](https://news.ycombinator.com/item?id=47208398) - [MCP is dead. Long live the CLI](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
 * [2026-03-01, 16:44:03](https://news.ycombinator.com/item?id=47208280) - [Evil in the West Bank – David Shulman](https://www.nybooks.com/articles/2026/03/12/evil-in-the-west-bank-david-shulman/)
 * [2026-03-01, 15:23:42](https://news.ycombinator.com/item?id=47207531) - [Lil' Fun Langs' Guts](https://taylor.town/scrapscript-001)
 * [2026-03-01, 15:09:55](https://news.ycombinator.com/item?id=47207404) - [New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)
