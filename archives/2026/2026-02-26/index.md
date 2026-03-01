@@ -19,6 +19,7 @@
 * [2026-02-26, 18:37:59](https://news.ycombinator.com/item?id=47170157) - [OsmAnd's Faster Offline Navigation](https://osmand.net/blog/fast-routing/)
 * [2026-02-26, 18:29:56](https://news.ycombinator.com/item?id=47170030) - [Smallest transformer that can add two 10-digit numbers](https://github.com/anadim/AdderBoard)
 * [2026-02-26, 18:27:11](https://news.ycombinator.com/item?id=47169984) - [He saw an abandoned trailer. Then, uncovered a surveillance network](https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/)
+* [2026-02-26, 18:19:36](https://news.ycombinator.com/item?id=47169858) - [Microsoft announces new \"mini PCs\" for Windows 365](https://www.neowin.net/news/microsoft-announces-new-mini-pcs-for-windows-365/)
 * [2026-02-26, 18:16:45](https://news.ycombinator.com/item?id=47169815) - [iPhone and iPad approved to handle classified NATO information](https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/)
 * [2026-02-26, 18:12:26](https://news.ycombinator.com/item?id=47169757) - [What Claude Code Chooses](https://amplifying.ai/research/claude-code-picks)
 * [2026-02-26, 18:11:56](https://news.ycombinator.com/item?id=47169748) - [Twitch: \"Hey, come back! This commercial break can't play while you're away.\"](https://twitter.com/KryDotExe/status/2026806591517856208)

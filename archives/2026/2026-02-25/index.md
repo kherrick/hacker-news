@@ -14,6 +14,7 @@
 * [2026-02-25, 21:05:15](https://news.ycombinator.com/item?id=47157841) - [An autopsy of AI-generated 3D slop](https://aircada.com/blog/ai-vs-human-3d-ecommerce)
 * [2026-02-25, 21:04:58](https://news.ycombinator.com/item?id=47157840) - [A Fuzzer for the Toy Optimizer](https://bernsteinbear.com/blog/toy-fuzzer/)
 * [2026-02-25, 20:29:37](https://news.ycombinator.com/item?id=47157398) - [I made MCP cheaper](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html)
+* [2026-02-25, 20:20:21](https://news.ycombinator.com/item?id=47157265) - [SpacetimeDB ThreeJS Support](https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052)
 * [2026-02-25, 20:16:47](https://news.ycombinator.com/item?id=47157224) - [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
 * [2026-02-25, 20:11:37](https://news.ycombinator.com/item?id=47157160) - [PA Bench: Evaluating Frontier Models on Multi-Tab Pa Tasks](https://vibrantlabs.com/blog/pa-bench)
 * [2026-02-25, 19:54:14](https://news.ycombinator.com/item?id=47156925) - [Google API keys weren't secrets, but then Gemini changed the rules](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules)
