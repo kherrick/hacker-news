@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-01](index.md)
 
+* [2026-03-01, 22:39:27](https://news.ycombinator.com/item?id=47211476) - [Allegations of insider trading over prediction-market bets tied to Iran conflict](https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict)
 * [2026-03-01, 22:21:11](https://news.ycombinator.com/item?id=47211313) - [Psychology: Who dont maintain many close friends, learned independence too early](https://www.bolde.com/psychology-says-people-who-dont-maintain-many-close-friends-often-learned-independence-too-early/)
 * [2026-03-01, 22:18:10](https://news.ycombinator.com/item?id=47211280) - [Little Free Library Books](https://littlefreelibrary.org/)
 * [2026-03-01, 22:13:58](https://news.ycombinator.com/item?id=47211249) - [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-01, 22:39:27](https://news.ycombinator.com/item?id=47211476) - [Allegations of insider trading over prediction-market bets tied to Iran conflict](https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict)
 * [2026-03-01, 22:18:10](https://news.ycombinator.com/item?id=47211280) - [Little Free Library Books](https://littlefreelibrary.org/)
 * [2026-03-01, 22:13:58](https://news.ycombinator.com/item?id=47211249) - [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)
 * [2026-03-01, 21:59:00](https://news.ycombinator.com/item?id=47211145) - [Waymo blocking ambulance during deadly Austin shooting](https://www.mysanantonio.com/news/austin/article/waymo-austin-shooting-21948947.php)
@@ -22,7 +23,6 @@
 * [2026-03-01, 01:39:26](https://news.ycombinator.com/item?id=47202708) - [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
 * [2026-02-27, 16:17:53](https://news.ycombinator.com/item?id=47182284) - [Tove Jansson's criticized illustrations of The Hobbit](https://tovejansson.com/hobbit-tolkien/)
 * [2026-02-27, 13:12:38](https://news.ycombinator.com/item?id=47180140) - [Chorba: A novel CRC32 implementation (2024)](https://arxiv.org/abs/2412.16398)
-* [2026-02-27, 10:10:22](https://news.ycombinator.com/item?id=47178758) - [Aromatic 5-silicon rings synthesized at last](https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02)
 * [2026-02-27, 07:39:09](https://news.ycombinator.com/item?id=47177700) - [Gzpeek: Tool to Parse Gzip Metadata](https://evanhahn.com/introducing-gzpeek/)
 * [2026-02-26, 19:36:30](https://news.ycombinator.com/item?id=47170958) - [Setting up phones is a nightmare](https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/)
 * [2026-02-26, 16:39:07](https://news.ycombinator.com/item?id=47168405) - [Interview with Øyvind Kolås, GIMP developer (2017)](https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/)
