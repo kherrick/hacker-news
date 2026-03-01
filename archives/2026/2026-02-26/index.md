@@ -29,6 +29,7 @@
 * [2026-02-26, 17:28:35](https://news.ycombinator.com/item?id=47169146) - [SynthID](https://deepmind.google/models/synthid/)
 * [2026-02-26, 17:01:05](https://news.ycombinator.com/item?id=47168726) - [Palm OS User Interface Guidelines [pdf, 2003]](https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf)
 * [2026-02-26, 17:00:25](https://news.ycombinator.com/item?id=47168721) - [Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable](https://www.workatastartup.com/jobs/80596)
+* [2026-02-26, 16:39:07](https://news.ycombinator.com/item?id=47168405) - [Interview with Øyvind Kolås, GIMP developer](https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/)
 * [2026-02-26, 16:23:07](https://news.ycombinator.com/item?id=47168165) - [The Pentagon Feuding with an AI Company Is a Bad Sign](https://foreignpolicy.com/2026/02/25/anthropic-pentagon-feud-ai/)
 * [2026-02-26, 16:13:06](https://news.ycombinator.com/item?id=47168012) - [Open Source Endowment – new funding source for open source maintainers](https://endowment.dev/)
 * [2026-02-26, 16:07:11](https://news.ycombinator.com/item?id=47167931) - [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement)

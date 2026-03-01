@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-01](index.md)
 
+* [2026-03-01, 12:13:03](https://news.ycombinator.com/item?id=47206009) - [Ghostty – Terminal Emulator](https://ghostty.org/docs)
 * [2026-03-01, 11:49:01](https://news.ycombinator.com/item?id=47205890) - [I built a demo of what AI chat will look like when it's \"free\" and ad-supported](https://99helpers.com/tools/ad-supported-chat)
 * [2026-03-01, 11:05:28](https://news.ycombinator.com/item?id=47205659) - [Show HN: Vertex.js – A 1kloc SPA Framework](https://lukeb42.github.io/vertex-manual.html)
 * [2026-03-01, 11:01:17](https://news.ycombinator.com/item?id=47205637) - [Flightradar24 for Ships](https://atlas.flexport.com/)

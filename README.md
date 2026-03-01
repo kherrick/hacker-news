@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-01, 12:13:03](https://news.ycombinator.com/item?id=47206009) - [Ghostty – Terminal Emulator](https://ghostty.org/docs)
 * [2026-03-01, 11:49:01](https://news.ycombinator.com/item?id=47205890) - [I built a demo of what AI chat will look like when it's \"free\" and ad-supported](https://99helpers.com/tools/ad-supported-chat)
 * [2026-03-01, 11:05:28](https://news.ycombinator.com/item?id=47205659) - [Show HN: Vertex.js – A 1kloc SPA Framework](https://lukeb42.github.io/vertex-manual.html)
 * [2026-03-01, 11:01:17](https://news.ycombinator.com/item?id=47205637) - [Flightradar24 for Ships](https://atlas.flexport.com/)
@@ -12,7 +13,6 @@
 * [2026-02-28, 22:16:08](https://news.ycombinator.com/item?id=47200879) - [Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule](https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed)
 * [2026-02-28, 21:24:16](https://news.ycombinator.com/item?id=47200420) - [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)
 * [2026-02-28, 20:35:29](https://news.ycombinator.com/item?id=47199948) - [Our Agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war)
-* [2026-02-28, 20:20:00](https://news.ycombinator.com/item?id=47199781) - [Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers](https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance)
 * [2026-02-28, 19:04:01](https://news.ycombinator.com/item?id=47198977) - [Block the “Upgrade to Tahoe” Alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/)
 * [2026-02-28, 16:58:54](https://news.ycombinator.com/item?id=47197595) - [Verified Spec-Driven Development (VSDD)](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
 * [2026-02-28, 16:31:53](https://news.ycombinator.com/item?id=47197267) - [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
@@ -22,6 +22,7 @@
 * [2026-02-27, 17:58:48](https://news.ycombinator.com/item?id=47183396) - [Robust and efficient quantum-safe HTTPS](https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html)
 * [2026-02-27, 17:07:42](https://news.ycombinator.com/item?id=47182907) - [Rydberg atoms detect clear signals from a handheld radio](https://phys.org/news/2026-02-rydberg-atoms-handheld-radio.html)
 * [2026-02-27, 15:19:10](https://news.ycombinator.com/item?id=47181542) - [An ode to houseplant programming (2025)](https://hannahilea.com/blog/houseplant-programming/)
+* [2026-02-26, 16:39:07](https://news.ycombinator.com/item?id=47168405) - [Interview with Øyvind Kolås, GIMP developer](https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/)
 * [2026-02-26, 15:31:39](https://news.ycombinator.com/item?id=47167432) - [Hardwood: A New Parser for Apache Parquet](https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/)
 * [2026-02-26, 12:38:48](https://news.ycombinator.com/item?id=47165230) - [The real cost of random I/O](https://vondra.me/posts/the-real-cost-of-random-io/)
 * [2026-02-26, 10:51:29](https://news.ycombinator.com/item?id=47164336) - [Pigeons and Planes Has a Website Again](https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again)
@@ -29,7 +30,6 @@
 * [2026-02-26, 04:13:47](https://news.ycombinator.com/item?id=47161759) - [The happiest I've ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been)
 * [2026-02-25, 18:24:46](https://news.ycombinator.com/item?id=47155526) - [Woxi: Wolfram Mathematica Reimplementation in Rust](https://github.com/ad-si/Woxi)
 * [2026-02-25, 15:01:20](https://news.ycombinator.com/item?id=47152448) - [Sub-second volumetric 3D printing by synthesis of holographic light fields](https://www.nature.com/articles/s41586-026-10114-5)
-* [2026-02-25, 05:14:09](https://news.ycombinator.com/item?id=47147597) - [The Eternal Promise: A History of Attempts to Eliminate Programmers](https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/)
 
 ## [Archives](archives/index.md)
 
