@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-01](index.md)
 
+* [2026-03-01, 20:05:24](https://news.ycombinator.com/item?id=47210157) - [This System Can Go Fuck Itself and Burn in Hell](https://shawnfromportland.substack.com/p/this-system-can-go-fuck-itself-and)
 * [2026-03-01, 19:24:30](https://news.ycombinator.com/item?id=47209781) - [AWS Middle East Central Down, apparently struck in war](https://health.aws.amazon.com/health/status)
 * [2026-03-01, 19:22:47](https://news.ycombinator.com/item?id=47209773) - [A new account made over $515,000 betting on the U.S. strike against Iran](https://xcancel.com/cabsav456/status/2027937130995921119)
 * [2026-03-01, 19:22:47](https://news.ycombinator.com/item?id=47209773) - [A new Polymarket account made over $500k betting on the U.S. strike against Iran](https://twitter.com/cabsav456/status/2027937130995921119)
