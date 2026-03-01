@@ -26,6 +26,7 @@
 * [2026-02-27, 18:13:39](https://news.ycombinator.com/item?id=47183578) - [Dan Simmons, author of Hyperion, Song of Kali, dead at 77](https://en.wikipedia.org/wiki/Dan_Simmons)
 * [2026-02-27, 18:06:26](https://news.ycombinator.com/item?id=47183503) - [Don't run OpenClaw on your main machine](https://blog.skypilot.co/openclaw-on-skypilot/)
 * [2026-02-27, 18:01:25](https://news.ycombinator.com/item?id=47183435) - [Your Device Identity Is Probably a Liability](https://smallstep.com/blog/ncsc-zero-trust-device-identity/)
+* [2026-02-27, 17:58:48](https://news.ycombinator.com/item?id=47183396) - [Robust and efficient quantum-safe HTTPS](https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html)
 * [2026-02-27, 17:41:30](https://news.ycombinator.com/item?id=47183191) - [Theory of Constraints: \"Blue Light\" creating capacity for nothing (2007)](http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html)
 * [2026-02-27, 17:39:42](https://news.ycombinator.com/item?id=47183176) - [Show HN: SignalCend – API that resolves conflicting IoT device state in 47ms](https://signalcend.com/)
 * [2026-02-27, 17:22:00](https://news.ycombinator.com/item?id=47182986) - [747s and Coding Agents](https://carlkolon.com/2026/02/27/engineering-747-coding-agents/)
