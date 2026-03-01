@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-01, 11:49:01",
+      "https://news.ycombinator.com/item?id=47205890"
+    ],
+    [
+      "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
+      "https://99helpers.com/tools/ad-supported-chat"
+    ]
+  ],
+  [
+    [
       "2026-03-01, 09:27:34",
       "https://news.ycombinator.com/item?id=47205129"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-02-28, 16:51:49",
-      "https://news.ycombinator.com/item?id=47197505"
-    ],
-    [
-      "The whole thing was a scam",
-      "https://garymarcus.substack.com/p/the-whole-thing-was-scam"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 16:31:53",
       "https://news.ycombinator.com/item?id=47197267"
     ],
@@ -197,6 +197,16 @@
     [
       "Robust and efficient quantum-safe HTTPS",
       "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 17:07:42",
+      "https://news.ycombinator.com/item?id=47182907"
+    ],
+    [
+      "Rydberg atoms detect clear signals from a handheld radio",
+      "https://phys.org/news/2026-02-rydberg-atoms-handheld-radio.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Woxi: Wolfram Mathematica Reimplementation in Rust",
       "https://github.com/ad-si/Woxi"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 17:28:33",
-      "https://news.ycombinator.com/item?id=47154637"
-    ],
-    [
-      "New evidence that Cantor plagiarized Dedekind?",
-      "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/"
     ]
   ],
   [
