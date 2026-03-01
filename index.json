@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-01, 12:13:03",
+      "https://news.ycombinator.com/item?id=47206009"
+    ],
+    [
+      "Ghostty – Terminal Emulator",
+      "https://ghostty.org/docs"
+    ]
+  ],
+  [
+    [
       "2026-03-01, 11:49:01",
       "https://news.ycombinator.com/item?id=47205890"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-02-28, 20:20:00",
-      "https://news.ycombinator.com/item?id=47199781"
-    ],
-    [
-      "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
-      "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 19:04:01",
       "https://news.ycombinator.com/item?id=47198977"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-02-26, 16:39:07",
+      "https://news.ycombinator.com/item?id=47168405"
+    ],
+    [
+      "Interview with Øyvind Kolås, GIMP developer",
+      "https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/"
+    ]
+  ],
+  [
+    [
       "2026-02-26, 15:31:39",
       "https://news.ycombinator.com/item?id=47167432"
     ],
@@ -287,16 +297,6 @@
     [
       "Sub-second volumetric 3D printing by synthesis of holographic light fields",
       "https://www.nature.com/articles/s41586-026-10114-5"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 05:14:09",
-      "https://news.ycombinator.com/item?id=47147597"
-    ],
-    [
-      "The Eternal Promise: A History of Attempts to Eliminate Programmers",
-      "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/"
     ]
   ]
 ]
