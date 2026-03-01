@@ -21,6 +21,7 @@
 * [2026-02-27, 17:58:48](https://news.ycombinator.com/item?id=47183396) - [Robust and efficient quantum-safe HTTPS](https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html)
 * [2026-02-27, 17:07:42](https://news.ycombinator.com/item?id=47182907) - [Rydberg atoms detect clear signals from a handheld radio](https://phys.org/news/2026-02-rydberg-atoms-handheld-radio.html)
 * [2026-02-27, 15:19:10](https://news.ycombinator.com/item?id=47181542) - [An ode to houseplant programming (2025)](https://hannahilea.com/blog/houseplant-programming/)
+* [2026-02-27, 14:58:58](https://news.ycombinator.com/item?id=47181256) - [How Dada Enables Internal References](https://smallcultfollowing.com/babysteps/blog/2026/02/27/dada-internal-references/)
 * [2026-02-27, 10:10:22](https://news.ycombinator.com/item?id=47178758) - [Aromatic 5-silicon rings synthesized at last](https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02)
 * [2026-02-26, 16:39:07](https://news.ycombinator.com/item?id=47168405) - [Interview with Øyvind Kolås, GIMP developer (2017)](https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/)
 * [2026-02-26, 15:31:39](https://news.ycombinator.com/item?id=47167432) - [Hardwood: A New Parser for Apache Parquet](https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/)
@@ -28,7 +29,6 @@
 * [2026-02-26, 10:51:29](https://news.ycombinator.com/item?id=47164336) - [Pigeons and Planes Has a Website Again](https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again)
 * [2026-02-26, 09:18:57](https://news.ycombinator.com/item?id=47163779) - [H-Bomb: A Frank Lloyd Wright typographic mystery](https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic)
 * [2026-02-26, 04:13:47](https://news.ycombinator.com/item?id=47161759) - [The happiest I've ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been)
-* [2026-02-25, 18:24:46](https://news.ycombinator.com/item?id=47155526) - [Woxi: Wolfram Mathematica Reimplementation in Rust](https://github.com/ad-si/Woxi)
 * [2026-02-25, 13:45:02](https://news.ycombinator.com/item?id=47151367) - [Python Type Checker Comparison: Empty Container Inference](https://pyrefly.org/blog/container-inference-comparison/)
 
 ## [Archives](archives/index.md)
