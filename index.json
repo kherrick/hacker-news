@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-03-01, 17:02:15",
-      "https://news.ycombinator.com/item?id=47208471"
+      "2026-03-01, 17:31:29",
+      "https://news.ycombinator.com/item?id=47208744"
     ],
     [
-      "6 Practices that turned AI from prototyper to workhorse (106 PRs in 14 days)",
-      "https://news.ycombinator.com/item?id=47208471"
+      "January in Servo: preloads, better forms, details styling, and more",
+      "https://servo.org/blog/2026/02/28/january-in-servo/"
     ]
   ],
   [
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=47208398"
     ],
     [
-      "MCP is dead. Long live the CLI",
+      "When does MCP make sense vs CLI?",
       "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html"
     ]
   ],
@@ -67,26 +67,6 @@
     [
       "Why XML Tags Are So Fundamental to Claude",
       "https://glthr.com/XML-fundamental-to-Claude"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 14:09:24",
-      "https://news.ycombinator.com/item?id=47206824"
-    ],
-    [
-      "AI Made Writing Code Easier. It Made Being an Engineer Harder",
-      "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 14:07:05",
-      "https://news.ycombinator.com/item?id=47206798"
-    ],
-    [
-      "Ape Coding",
-      "https://rsaksida.com/blog/ape-coding/"
     ]
   ],
   [
@@ -201,16 +181,6 @@
   ],
   [
     [
-      "2026-02-28, 10:01:20",
-      "https://news.ycombinator.com/item?id=47193064"
-    ],
-    [
-      "MCP server that reduces Claude Code context consumption by 98%",
-      "https://mksg.lu/blog/context-mode"
-    ]
-  ],
-  [
-    [
       "2026-02-27, 17:58:48",
       "https://news.ycombinator.com/item?id=47183396"
     ],
@@ -261,6 +231,16 @@
   ],
   [
     [
+      "2026-02-26, 15:31:39",
+      "https://news.ycombinator.com/item?id=47167432"
+    ],
+    [
+      "Hardwood: A New Parser for Apache Parquet",
+      "https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/"
+    ]
+  ],
+  [
+    [
       "2026-02-26, 12:38:48",
       "https://news.ycombinator.com/item?id=47165230"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2026-02-26, 09:18:57",
+      "https://news.ycombinator.com/item?id=47163779"
+    ],
+    [
+      "H-Bomb: A Frank Lloyd Wright typographic mystery",
+      "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic"
+    ]
+  ],
+  [
+    [
       "2026-02-26, 04:13:47",
       "https://news.ycombinator.com/item?id=47161759"
     ],
     [
       "The happiest I've ever been",
       "https://ben-mini.com/2026/the-happiest-ive-ever-been"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 18:24:46",
+      "https://news.ycombinator.com/item?id=47155526"
+    ],
+    [
+      "Woxi: Wolfram Mathematica Reimplementation in Rust",
+      "https://github.com/ad-si/Woxi"
     ]
   ],
   [
