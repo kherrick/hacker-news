@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-01](index.md)
 
+* [2026-03-01, 17:31:29](https://news.ycombinator.com/item?id=47208744) - [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
 * [2026-03-01, 17:02:15](https://news.ycombinator.com/item?id=47208471) - [6 Practices that turned AI from prototyper to workhorse (106 PRs in 14 days)](https://news.ycombinator.com/item?id=47208471)
 * [2026-03-01, 16:58:03](https://news.ycombinator.com/item?id=47208423) - [I Built a Scheme Compiler with AI in 4 Days](https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/)
 * [2026-03-01, 16:54:49](https://news.ycombinator.com/item?id=47208398) - [MCP is dead. Long live the CLI](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
