@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-03-01, 20:05:24",
+      "https://news.ycombinator.com/item?id=47210157"
+    ],
+    [
+      "This System Can Go Fuck Itself and Burn in Hell",
+      "https://shawnfromportland.substack.com/p/this-system-can-go-fuck-itself-and"
+    ]
+  ],
+  [
+    [
       "2026-03-01, 19:24:30",
       "https://news.ycombinator.com/item?id=47209781"
     ],
     [
       "Operational issue – Multiple services (UAE)",
       "https://health.aws.amazon.com/health/status"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 19:22:47",
-      "https://news.ycombinator.com/item?id=47209773"
-    ],
-    [
-      "A new Polymarket account made over $500k betting on the U.S. strike against Iran",
-      "https://twitter.com/cabsav456/status/2027937130995921119"
     ]
   ],
   [
@@ -81,12 +81,12 @@
   ],
   [
     [
-      "2026-03-01, 13:49:21",
-      "https://news.ycombinator.com/item?id=47206663"
+      "2026-03-01, 14:07:05",
+      "https://news.ycombinator.com/item?id=47206798"
     ],
     [
-      "AI is making junior devs useless",
-      "https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/"
+      "Ape Coding [fiction]",
+      "https://rsaksida.com/blog/ape-coding/"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Decision trees – the unreasonable power of nested decision rules",
       "https://mlu-explain.github.io/decision-tree/"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 07:36:52",
-      "https://news.ycombinator.com/item?id=47204571"
-    ],
-    [
-      "Switch to Claude without starting over",
-      "https://claude.com/import-memory"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Python Type Checker Comparison: Empty Container Inference",
       "https://pyrefly.org/blog/container-inference-comparison/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 20:08:38",
+      "https://news.ycombinator.com/item?id=47142183"
+    ],
+    [
+      "How to talk to anyone, and why you should",
+      "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should"
     ]
   ]
 ]
