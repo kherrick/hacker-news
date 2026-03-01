@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-01, 07:35:03",
+      "https://news.ycombinator.com/item?id=47204559"
+    ],
+    [
+      "10-202: Introduction to Modern AI (CMU)",
+      "https://modernaicourse.org"
+    ]
+  ],
+  [
+    [
       "2026-03-01, 02:09:41",
       "https://news.ycombinator.com/item?id=47202864"
     ],
@@ -27,16 +37,6 @@
     [
       "Microgpt",
       "http://karpathy.github.io/2026/02/12/microgpt/"
-    ]
-  ],
-  [
-    [
-      "2026-02-28, 23:44:41",
-      "https://news.ycombinator.com/item?id=47201816"
-    ],
-    [
-      "Show HN: Xmloxide – an agent made rust replacement for libxml2",
-      "https://github.com/jonwiggins/xmloxide"
     ]
   ],
   [
@@ -171,22 +171,22 @@
   ],
   [
     [
-      "2026-02-28, 06:34:07",
-      "https://news.ycombinator.com/item?id=47191232"
-    ],
-    [
-      "The United States and Israel have launched a major attack on Iran",
-      "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk"
-    ]
-  ],
-  [
-    [
       "2026-02-27, 08:27:45",
       "https://news.ycombinator.com/item?id=47178051"
     ],
     [
       "Werner Herzog Between Fact and Fiction",
       "https://www.thenation.com/article/culture/werner-herzog-future-truth/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 22:05:48",
+      "https://news.ycombinator.com/item?id=47172608"
+    ],
+    [
+      "Cracking the Python Monorepo",
+      "https://gafni.dev/blog/cracking-the-python-monorepo/"
     ]
   ],
   [
