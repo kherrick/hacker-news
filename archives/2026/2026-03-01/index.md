@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-01](index.md)
 
 * [2026-03-01, 22:21:11](https://news.ycombinator.com/item?id=47211313) - [Psychology: Who dont maintain many close friends, learned independence too early](https://www.bolde.com/psychology-says-people-who-dont-maintain-many-close-friends-often-learned-independence-too-early/)
+* [2026-03-01, 22:13:58](https://news.ycombinator.com/item?id=47211249) - [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)
 * [2026-03-01, 21:59:00](https://news.ycombinator.com/item?id=47211145) - [Waymo blocking ambulance during deadly Austin shooting](https://www.mysanantonio.com/news/austin/article/waymo-austin-shooting-21948947.php)
 * [2026-03-01, 21:56:07](https://news.ycombinator.com/item?id=47211112) - [Big Breakfast Alters Appetite, Gut Health](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/big-breakfast-diet-composition-impacts-on-appetite-control-and-gut-health-a-randomized-weight-loss-trial-in-adults-with-overweight-or-obesity/69D4E150EAE7D9632D33904D7A4AE5FA)
 * [2026-03-01, 21:52:16](https://news.ycombinator.com/item?id=47211081) - [South Korean Police Lose Seized Crypto by Posting Password Online](https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191)

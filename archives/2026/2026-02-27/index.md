@@ -36,6 +36,7 @@
 * [2026-02-27, 16:34:05](https://news.ycombinator.com/item?id=47182487) - [Allocating on the Stack](https://go.dev/blog/allocation-optimizations)
 * [2026-02-27, 16:33:39](https://news.ycombinator.com/item?id=47182483) - [NASA announces major overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/)
 * [2026-02-27, 16:26:22](https://news.ycombinator.com/item?id=47182387) - [Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions](https://github.com/hjtenklooster/claude-file-recovery)
+* [2026-02-27, 16:17:53](https://news.ycombinator.com/item?id=47182284) - [Tove Jansson's criticized illustrations of The Hobbit](https://tovejansson.com/hobbit-tolkien/)
 * [2026-02-27, 15:52:27](https://news.ycombinator.com/item?id=47181944) - [A Chinese official’s use of ChatGPT revealed an intimidation operation](https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation)
 * [2026-02-27, 15:44:33](https://news.ycombinator.com/item?id=47181841) - [Experts sound alarm after ChatGPT Health fails to recognise medical emergencies](https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies)
 * [2026-02-27, 15:41:13](https://news.ycombinator.com/item?id=47181801) - [We gave terabytes of CI logs to an LLM](https://www.mendral.com/blog/llms-are-good-at-sql)
