@@ -57,6 +57,7 @@
 * [2026-02-26, 10:08:01](https://news.ycombinator.com/item?id=47164079) - [Show HN: Better Hub – A better GitHub experience](https://www.better-hub.com/)
 * [2026-02-26, 09:51:48](https://news.ycombinator.com/item?id=47163985) - [Technical Excellence Is Not Enough](https://raccoon.land/posts/technical-excellence-is-not-enough/)
 * [2026-02-26, 09:35:08](https://news.ycombinator.com/item?id=47163885) - [Tell HN: YC companies scrape GitHub activity, send spam emails to users](https://news.ycombinator.com/item?id=47163885)
+* [2026-02-26, 09:18:57](https://news.ycombinator.com/item?id=47163779) - [H-Bomb: A Frank Lloyd Wright Typographic Mystery](https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic)
 * [2026-02-26, 08:46:31](https://news.ycombinator.com/item?id=47163554) - [Laravel Inertia Toast](https://github.com/veekthoven/laravel-inertia-toast)
 * [2026-02-26, 07:52:29](https://news.ycombinator.com/item?id=47163167) - [From Noise to Image – interactive guide to diffusion](https://lighthousesoftware.co.uk/projects/from-noise-to-image/)
 * [2026-02-26, 04:59:01](https://news.ycombinator.com/item?id=47162059) - [I don't know how you get here from \"predict the next word.\"](https://www.grumpy-economist.com/p/refine)

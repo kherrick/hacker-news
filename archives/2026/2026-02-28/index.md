@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 23:51:04](https://news.ycombinator.com/item?id=47201882) - [Pentagon chief blocks officers from Ivy League schools and top universities](https://fortune.com/2026/02/28/pentagon-officer-education-ivy-league-schools-universities-partners-ai-space/)
+* [2026-02-28, 23:44:41](https://news.ycombinator.com/item?id=47201816) - [Show HN: Xmloxide – an agent made rust replacement for libxml2](https://github.com/jonwiggins/xmloxide)
 * [2026-02-28, 23:26:59](https://news.ycombinator.com/item?id=47201629) - [HN is drowning in AI comments](https://news.ycombinator.com/item?id=47201629)
 * [2026-02-28, 22:54:42](https://news.ycombinator.com/item?id=47201283) - [The war against PDFs is heating up](https://www.economist.com/business/2026/02/24/the-war-against-pdfs-is-heating-up)
 * [2026-02-28, 22:33:09](https://news.ycombinator.com/item?id=47201028) - [Anthropic's Claude rises to No. 2 in the App Store following Pentagon dispute](https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/)
