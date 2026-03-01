@@ -57,6 +57,7 @@
 * [2026-02-25, 14:17:14](https://news.ycombinator.com/item?id=47151784) - [Show HN: Clocksimulator.com – A minimalist, distraction-free analog clock](https://www.clocksimulator.com/)
 * [2026-02-25, 14:02:02](https://news.ycombinator.com/item?id=47151598) - [Launch HN: TeamOut (YC W22) – AI agent for planning company events](https://app.teamout.com/ai)
 * [2026-02-25, 14:00:15](https://news.ycombinator.com/item?id=47151564) - [What are the best coping mechanisms for AI Fatalism?](https://news.ycombinator.com/item?id=47151564)
+* [2026-02-25, 13:45:02](https://news.ycombinator.com/item?id=47151367) - [Python Type Checker Comparison: Empty Container Inference](https://pyrefly.org/blog/container-inference-comparison/)
 * [2026-02-25, 13:31:17](https://news.ycombinator.com/item?id=47151233) - [Never Buy A .online Domain](https://www.0xsid.com/blog/online-tld-is-pain)
 * [2026-02-25, 13:25:53](https://news.ycombinator.com/item?id=47151163) - [Red Hat takes on Docker Desktop with its enterprise Podman Desktop build](https://thenewstack.io/red-hat-enters-the-cloud-native-developer-desktop-market/)
 * [2026-02-25, 13:07:36](https://news.ycombinator.com/item?id=47151000) - [AIs can't stop recommending nuclear strikes in war game simulations](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
