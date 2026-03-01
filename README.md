@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-01, 20:05:24](https://news.ycombinator.com/item?id=47210157) - [This System Can Go Fuck Itself and Burn in Hell](https://shawnfromportland.substack.com/p/this-system-can-go-fuck-itself-and)
 * [2026-03-01, 19:24:30](https://news.ycombinator.com/item?id=47209781) - [Operational issue – Multiple services (UAE)](https://health.aws.amazon.com/health/status)
 * [2026-03-01, 17:31:29](https://news.ycombinator.com/item?id=47208744) - [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
 * [2026-03-01, 16:54:49](https://news.ycombinator.com/item?id=47208398) - [When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
@@ -9,6 +8,7 @@
 * [2026-03-01, 15:09:55](https://news.ycombinator.com/item?id=47207404) - [New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)
 * [2026-03-01, 14:52:22](https://news.ycombinator.com/item?id=47207236) - [Why XML tags are so fundamental to Claude](https://glthr.com/XML-fundamental-to-Claude)
 * [2026-03-01, 14:07:05](https://news.ycombinator.com/item?id=47206798) - [Ape Coding [fiction]](https://rsaksida.com/blog/ape-coding/)
+* [2026-03-01, 13:49:21](https://news.ycombinator.com/item?id=47206663) - [AI is making junior devs useless](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 * [2026-03-01, 12:13:03](https://news.ycombinator.com/item?id=47206009) - [Ghostty – Terminal Emulator](https://ghostty.org/docs)
 * [2026-03-01, 11:49:01](https://news.ycombinator.com/item?id=47205890) - [I built a demo of what AI chat will look like when it's \"free\" and ad-supported](https://99helpers.com/tools/ad-supported-chat)
 * [2026-03-01, 11:01:17](https://news.ycombinator.com/item?id=47205637) - [Flightradar24 for Ships](https://atlas.flexport.com/)
@@ -22,12 +22,12 @@
 * [2026-02-27, 17:58:48](https://news.ycombinator.com/item?id=47183396) - [Robust and efficient quantum-safe HTTPS](https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html)
 * [2026-02-27, 15:19:10](https://news.ycombinator.com/item?id=47181542) - [An ode to houseplant programming (2025)](https://hannahilea.com/blog/houseplant-programming/)
 * [2026-02-27, 14:58:58](https://news.ycombinator.com/item?id=47181256) - [How Dada enables internal references](https://smallcultfollowing.com/babysteps/blog/2026/02/27/dada-internal-references/)
+* [2026-02-27, 13:12:38](https://news.ycombinator.com/item?id=47180140) - [Chorba: A novel CRC32 implementation (2024)](https://arxiv.org/abs/2412.16398)
 * [2026-02-27, 10:10:22](https://news.ycombinator.com/item?id=47178758) - [Aromatic 5-silicon rings synthesized at last](https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02)
 * [2026-02-27, 07:39:09](https://news.ycombinator.com/item?id=47177700) - [Gzpeek: Tool to Parse Gzip Metadata](https://evanhahn.com/introducing-gzpeek/)
 * [2026-02-26, 19:36:30](https://news.ycombinator.com/item?id=47170958) - [Setting up phones is a nightmare](https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/)
 * [2026-02-26, 16:39:07](https://news.ycombinator.com/item?id=47168405) - [Interview with Øyvind Kolås, GIMP developer (2017)](https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/)
 * [2026-02-26, 13:41:32](https://news.ycombinator.com/item?id=47165965) - [Long Range E-Bike (2021)](https://jacquesmattheij.com/long-range-ebike/)
-* [2026-02-26, 12:38:48](https://news.ycombinator.com/item?id=47165230) - [The real cost of random I/O](https://vondra.me/posts/the-real-cost-of-random-io/)
 * [2026-02-25, 13:45:02](https://news.ycombinator.com/item?id=47151367) - [Python Type Checker Comparison: Empty Container Inference](https://pyrefly.org/blog/container-inference-comparison/)
 * [2026-02-24, 20:08:38](https://news.ycombinator.com/item?id=47142183) - [How to talk to anyone, and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should)
 
