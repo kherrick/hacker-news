@@ -30,6 +30,7 @@
 * [2026-02-27, 17:41:30](https://news.ycombinator.com/item?id=47183191) - [Theory of Constraints: \"Blue Light\" creating capacity for nothing (2007)](http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html)
 * [2026-02-27, 17:39:42](https://news.ycombinator.com/item?id=47183176) - [Show HN: SignalCend – API that resolves conflicting IoT device state in 47ms](https://signalcend.com/)
 * [2026-02-27, 17:22:00](https://news.ycombinator.com/item?id=47182986) - [747s and Coding Agents](https://carlkolon.com/2026/02/27/engineering-747-coding-agents/)
+* [2026-02-27, 17:07:42](https://news.ycombinator.com/item?id=47182907) - [Rydberg atoms detect clear signals from a handheld radio](https://phys.org/news/2026-02-rydberg-atoms-handheld-radio.html)
 * [2026-02-27, 16:48:02](https://news.ycombinator.com/item?id=47182659) - [Vibe coded Lovable-hosted app littered with basic flaws exposed 18K users](https://www.theregister.com/2026/02/27/lovable_app_vulnerabilities/)
 * [2026-02-27, 16:46:29](https://news.ycombinator.com/item?id=47182635) - [ChatGPT Health performance in a structured test of triage recommendations](https://www.nature.com/articles/s41591-026-04297-7)
 * [2026-02-27, 16:34:05](https://news.ycombinator.com/item?id=47182487) - [Allocating on the Stack](https://go.dev/blog/allocation-optimizations)
