@@ -44,6 +44,7 @@
 * [2026-02-26, 14:24:29](https://news.ycombinator.com/item?id=47166522) - [Kansas Sends Letters to Trans People Demanding the Surrender of Drivers Licenses](https://www.erininthemorning.com/p/kansas-sends-letters-to-trans-people)
 * [2026-02-26, 14:21:05](https://news.ycombinator.com/item?id=47166473) - [Story of XZ Backdoor [video]](https://www.youtube.com/watch?v=aoag03mSuXQ)
 * [2026-02-26, 14:05:46](https://news.ycombinator.com/item?id=47166264) - [BuildKit: Docker's Hidden Gem That Can Build Almost Anything](https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/)
+* [2026-02-26, 13:41:32](https://news.ycombinator.com/item?id=47165965) - [Long Range E-Bike](https://jacquesmattheij.com/long-range-ebike/)
 * [2026-02-26, 13:32:46](https://news.ycombinator.com/item?id=47165840) - [Quantitativity on the number of rational points in the Mordell conjecture](https://www.scientificamerican.com/article/mathematicians-make-a-breakthrough-on-2-000-year-old-problem-of-curves/)
 * [2026-02-26, 13:31:08](https://news.ycombinator.com/item?id=47165813) - [Show HN: I built a self-hosted course platform in Clojure](https://clojure.stream)
 * [2026-02-26, 13:28:59](https://news.ycombinator.com/item?id=47165792) - [Time Is Different](https://shkspr.mobi/blog/2026/02/this-time-is-different/)
