@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-01, 14:09:24](https://news.ycombinator.com/item?id=47206824) - [AI Made Writing Code Easier. It Made Being an Engineer Harder](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 * [2026-03-01, 12:13:03](https://news.ycombinator.com/item?id=47206009) - [Ghostty – Terminal Emulator](https://ghostty.org/docs)
 * [2026-03-01, 11:49:01](https://news.ycombinator.com/item?id=47205890) - [I built a demo of what AI chat will look like when it's \"free\" and ad-supported](https://99helpers.com/tools/ad-supported-chat)
 * [2026-03-01, 11:05:28](https://news.ycombinator.com/item?id=47205659) - [Show HN: Vertex.js – A 1kloc SPA Framework](https://lukeb42.github.io/vertex-manual.html)
@@ -10,7 +11,6 @@
 * [2026-03-01, 07:35:03](https://news.ycombinator.com/item?id=47204559) - [10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org)
 * [2026-03-01, 01:39:26](https://news.ycombinator.com/item?id=47202708) - [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
 * [2026-02-28, 22:19:36](https://news.ycombinator.com/item?id=47200904) - [The Windows 95 user interface: A case study in usability engineering (1996)](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611)
-* [2026-02-28, 22:16:08](https://news.ycombinator.com/item?id=47200879) - [Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule](https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed)
 * [2026-02-28, 21:24:16](https://news.ycombinator.com/item?id=47200420) - [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)
 * [2026-02-28, 20:35:29](https://news.ycombinator.com/item?id=47199948) - [Our Agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war)
 * [2026-02-28, 19:04:01](https://news.ycombinator.com/item?id=47198977) - [Block the “Upgrade to Tahoe” Alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/)
