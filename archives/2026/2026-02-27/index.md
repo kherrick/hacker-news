@@ -38,6 +38,7 @@
 * [2026-02-27, 15:44:33](https://news.ycombinator.com/item?id=47181841) - [Experts sound alarm after ChatGPT Health fails to recognise medical emergencies](https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies)
 * [2026-02-27, 15:41:13](https://news.ycombinator.com/item?id=47181801) - [We gave terabytes of CI logs to an LLM](https://www.mendral.com/blog/llms-are-good-at-sql)
 * [2026-02-27, 15:37:53](https://news.ycombinator.com/item?id=47181753) - [Open source calculator firmware DB48X forbids CA/CO use due to age verification](https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286)
+* [2026-02-27, 15:19:10](https://news.ycombinator.com/item?id=47181542) - [An Ode to Houseplant Programming](https://hannahilea.com/blog/houseplant-programming/)
 * [2026-02-27, 15:14:42](https://news.ycombinator.com/item?id=47181471) - [Show HN: Badge that shows how well your codebase fits in an LLM's context window](https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens)
 * [2026-02-27, 15:09:04](https://news.ycombinator.com/item?id=47181391) - [Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices](https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0)
 * [2026-02-27, 15:08:29](https://news.ycombinator.com/item?id=47181380) - [The Pentagon is making a mistake by threatening Anthropic](https://www.understandingai.org/p/the-pentagon-is-making-a-mistake)
