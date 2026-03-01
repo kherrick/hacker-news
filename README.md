@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-01, 07:36:52](https://news.ycombinator.com/item?id=47204571) - [Switch to Claude Without Starting Over](https://claude.com/import-memory)
 * [2026-03-01, 07:35:03](https://news.ycombinator.com/item?id=47204559) - [10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org)
 * [2026-03-01, 02:09:41](https://news.ycombinator.com/item?id=47202864) - [The Science of Detecting LLM-Generated Text](https://dl.acm.org/doi/10.1145/3624725)
 * [2026-03-01, 01:59:00](https://news.ycombinator.com/item?id=47202808) - [Samsung Galaxy update removes Android recovery menu tools, including sideloading](https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/)
@@ -16,7 +17,7 @@
 * [2026-02-28, 13:50:13](https://news.ycombinator.com/item?id=47195371) - [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632)
 * [2026-02-28, 13:29:36](https://news.ycombinator.com/item?id=47195123) - [Show HN: Now I Get It – Translate scientific papers into interactive webpages](https://nowigetit.us)
 * [2026-02-28, 10:01:20](https://news.ycombinator.com/item?id=47193064) - [MCP server that reduces Claude Code context consumption by 98%](https://mksg.lu/blog/context-mode)
-* [2026-02-28, 08:56:33](https://news.ycombinator.com/item?id=47192505) - [Unsloth Dynamic 2.0 GGUFs](https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs)
+* [2026-02-27, 17:22:00](https://news.ycombinator.com/item?id=47182986) - [747s and coding agents](https://carlkolon.com/2026/02/27/engineering-747-coding-agents/)
 * [2026-02-27, 08:27:45](https://news.ycombinator.com/item?id=47178051) - [Werner Herzog Between Fact and Fiction](https://www.thenation.com/article/culture/werner-herzog-future-truth/)
 * [2026-02-26, 22:05:48](https://news.ycombinator.com/item?id=47172608) - [Cracking the Python Monorepo](https://gafni.dev/blog/cracking-the-python-monorepo/)
 * [2026-02-26, 15:31:39](https://news.ycombinator.com/item?id=47167432) - [Hardwood: A New Parser for Apache Parquet](https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/)
@@ -25,7 +26,6 @@
 * [2026-02-25, 22:17:29](https://news.ycombinator.com/item?id=47158834) - [Deterministic Programming with LLMs](https://www.mcherm.com/deterministic-programming-with-llms.html)
 * [2026-02-25, 20:20:21](https://news.ycombinator.com/item?id=47157265) - [SpacetimeDB ThreeJS Support](https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052)
 * [2026-02-25, 18:24:46](https://news.ycombinator.com/item?id=47155526) - [Woxi: Wolfram Mathematica Reimplementation in Rust](https://github.com/ad-si/Woxi)
-* [2026-02-25, 18:07:09](https://news.ycombinator.com/item?id=47155235) - [Ghosts'n Goblins – “Worse danger is ahead”](https://superchartisland.com/ghostsn-goblins/)
 * [2026-02-25, 17:28:33](https://news.ycombinator.com/item?id=47154637) - [New evidence that Cantor plagiarized Dedekind?](https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/)
 * [2026-02-25, 15:28:52](https://news.ycombinator.com/item?id=47152835) - [The archivist preserving decaying floppy disks](https://www.popsci.com/technology/floppy-disk-archivist-project/)
 * [2026-02-25, 15:01:20](https://news.ycombinator.com/item?id=47152448) - [Sub-second volumetric 3D printing by synthesis of holographic light fields](https://www.nature.com/articles/s41586-026-10114-5)
