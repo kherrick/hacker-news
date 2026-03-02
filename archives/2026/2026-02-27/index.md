@@ -28,6 +28,7 @@
 * [2026-02-27, 18:06:26](https://news.ycombinator.com/item?id=47183503) - [Don't run OpenClaw on your main machine](https://blog.skypilot.co/openclaw-on-skypilot/)
 * [2026-02-27, 18:01:25](https://news.ycombinator.com/item?id=47183435) - [Your Device Identity Is Probably a Liability](https://smallstep.com/blog/ncsc-zero-trust-device-identity/)
 * [2026-02-27, 17:58:48](https://news.ycombinator.com/item?id=47183396) - [Robust and efficient quantum-safe HTTPS](https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html)
+* [2026-02-27, 17:41:51](https://news.ycombinator.com/item?id=47183196) - [Enable CORS for Your Blog](https://www.blogsareback.com/guides/enable-cors)
 * [2026-02-27, 17:41:30](https://news.ycombinator.com/item?id=47183191) - [Theory of Constraints: \"Blue Light\" creating capacity for nothing (2007)](http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html)
 * [2026-02-27, 17:39:42](https://news.ycombinator.com/item?id=47183176) - [Show HN: SignalCend – API that resolves conflicting IoT device state in 47ms](https://signalcend.com/)
 * [2026-02-27, 17:27:34](https://news.ycombinator.com/item?id=47183039) - [Show HN: Vibe Code your 3D Models](https://github.com/ierror/synaps-cad)

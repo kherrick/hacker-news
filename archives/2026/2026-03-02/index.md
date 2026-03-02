@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 05:59:03](https://news.ycombinator.com/item?id=47214367) - [An interactive intro to Elliptic Curve Cryptography](https://growingswe.com/blog/elliptic-curve-cryptography)
+* [2026-03-02, 05:39:36](https://news.ycombinator.com/item?id=47214250) - [Evolving descriptive text of mental content from human brain activity](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts)
+* [2026-03-02, 05:01:55](https://news.ycombinator.com/item?id=47214064) - [The inner workings of TCP zero-copy](https://blog.tohojo.dk/2026/02/the-inner-workings-of-tcp-zero-copy.html)
+* [2026-03-02, 05:01:08](https://news.ycombinator.com/item?id=47214063) - [Process-Based Concurrency: Why Beam and OTP Keep Being Right](https://variantsystems.io/blog/beam-otp-process-concurrency)
 * [2026-03-02, 04:23:53](https://news.ycombinator.com/item?id=47213866) - [Computer-generated dream world: Virtual reality for a 286 processor](https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/)
 * [2026-03-02, 04:15:16](https://news.ycombinator.com/item?id=47213819) - [How to Record and Retrieve Anything You've Ever Had to Look Up Twice](https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase)
 * [2026-03-02, 04:06:00](https://news.ycombinator.com/item?id=47213764) - [Everett shuts down Flock camera network after judge rules footage public record](https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae)
