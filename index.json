@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-02, 16:01:20",
+      "https://news.ycombinator.com/item?id=47219688"
+    ],
+    [
+      "Notes on Lagrange Interpolating Polynomials",
+      "https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 16:00:27",
+      "https://news.ycombinator.com/item?id=47219668"
+    ],
+    [
+      "Ask HN: Who is hiring? (March 2026)",
+      "https://news.ycombinator.com/item?id=47219668"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 14:54:58",
       "https://news.ycombinator.com/item?id=47218743"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
+      "2026-03-02, 14:52:52",
+      "https://news.ycombinator.com/item?id=47218711"
+    ],
+    [
+      "A bit of fluid mechanics from scratch not from scratch",
+      "https://tsvibt.blogspot.com/2026/02/a-bit-of-fluid-mechanics-from-scratch.html"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 14:28:41",
       "https://news.ycombinator.com/item?id=47218364"
     ],
     [
       "Judge finalizes order for Greenpeace to pay $345M in ND oil pipeline case",
       "https://northdakotamonitor.com/2026/02/27/judge-finalizes-order-for-greenpeace-to-pay-345-million-in-north-dakota-oil-pipeline-case/"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 14:24:15",
+      "https://news.ycombinator.com/item?id=47218318"
+    ],
+    [
+      "Parallel coding agents with tmux and Markdown specs",
+      "https://schipper.ai/posts/parallel-coding-agents/"
     ]
   ],
   [
@@ -61,6 +101,16 @@
   ],
   [
     [
+      "2026-03-02, 14:03:53",
+      "https://news.ycombinator.com/item?id=47218090"
+    ],
+    [
+      "Why Go Can't Try",
+      "https://niketpatel.com/essays/why-go-cant-try"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 13:38:02",
       "https://news.ycombinator.com/item?id=47217812"
     ],
@@ -87,16 +137,6 @@
     [
       "Show HN: Web Audio Studio – A Visual Debugger for Web Audio API Graphs",
       "https://webaudio.studio/"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 11:22:35",
-      "https://news.ycombinator.com/item?id=47216541"
-    ],
-    [
-      "Libxml2 Enterprise Edition (AGPL, from the previous maintainer)",
-      "https://codeberg.org/nwellnhof/libxml2-ee"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2026-03-02, 05:59:03",
-      "https://news.ycombinator.com/item?id=47214367"
-    ],
-    [
-      "An interactive intro to Elliptic Curve Cryptography",
-      "https://growingswe.com/blog/elliptic-curve-cryptography"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 04:23:53",
       "https://news.ycombinator.com/item?id=47213866"
     ],
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2026-03-02, 04:15:16",
-      "https://news.ycombinator.com/item?id=47213819"
-    ],
-    [
-      "How to record and retrieve anything you've ever had to look up twice",
-      "https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 00:27:52",
       "https://news.ycombinator.com/item?id=47212355"
     ],
     [
       "If AI writes code, should the session be part of the commit?",
       "https://github.com/mandel-macaque/memento"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 23:15:16",
-      "https://news.ycombinator.com/item?id=47211830"
-    ],
-    [
-      "Right-sizes LLM models to your system's RAM, CPU, and GPU",
-      "https://github.com/AlexsJones/llmfit"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 22:13:58",
-      "https://news.ycombinator.com/item?id=47211249"
-    ],
-    [
-      "WebMCP is available for early preview",
-      "https://developer.chrome.com/blog/webmcp-epp"
     ]
   ],
   [
