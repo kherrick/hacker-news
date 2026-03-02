@@ -23,6 +23,7 @@
 * [2026-03-01, 19:22:47](https://news.ycombinator.com/item?id=47209773) - [A new account made over $515,000 betting on the U.S. strike against Iran](https://xcancel.com/cabsav456/status/2027937130995921119)
 * [2026-03-01, 19:22:47](https://news.ycombinator.com/item?id=47209773) - [A new Polymarket account made over $500k betting on the U.S. strike against Iran](https://twitter.com/cabsav456/status/2027937130995921119)
 * [2026-03-01, 17:31:29](https://news.ycombinator.com/item?id=47208744) - [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
+* [2026-03-01, 17:11:44](https://news.ycombinator.com/item?id=47208573) - [Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering](https://maderix.substack.com/p/inside-the-m4-apple-neural-engine)
 * [2026-03-01, 17:02:15](https://news.ycombinator.com/item?id=47208471) - [6 Practices that turned AI from prototyper to workhorse (106 PRs in 14 days)](https://news.ycombinator.com/item?id=47208471)
 * [2026-03-01, 16:58:03](https://news.ycombinator.com/item?id=47208423) - [I Built a Scheme Compiler with AI in 4 Days](https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/)
 * [2026-03-01, 16:54:49](https://news.ycombinator.com/item?id=47208398) - [MCP is dead. Long live the CLI](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)

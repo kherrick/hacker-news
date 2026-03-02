@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
 * [2026-03-02, 13:05:37](https://news.ycombinator.com/item?id=47217491) - [Microslop Manifesto](http://microslop.com/)
+* [2026-03-02, 12:56:46](https://news.ycombinator.com/item?id=47217402) - [AMD Am386 released March 2, 1991](https://dfarq.homeip.net/amd-am386-released-march-2-1991/)
 * [2026-03-02, 11:47:44](https://news.ycombinator.com/item?id=47216773) - [Show HN: Web Audio Studio – A Visual Debugger for Web Audio API Graphs](https://webaudio.studio/)
+* [2026-03-02, 11:22:35](https://news.ycombinator.com/item?id=47216541) - [Libxml2 Enterprise Edition (AGPL, from the previous maintainer)](https://codeberg.org/nwellnhof/libxml2-ee)
 * [2026-03-02, 10:23:06](https://news.ycombinator.com/item?id=47216047) - [Microsoft bans the word \"Microslop\" on its Discord, then locks the server](https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/)
 * [2026-03-02, 10:21:24](https://news.ycombinator.com/item?id=47216037) - [Jolla phone – a full-stack European alternative](https://commerce.jolla.com/products/jolla-phone-sept-26)
 * [2026-03-02, 10:02:38](https://news.ycombinator.com/item?id=47215897) - [AWS data center hit by Iran](https://www.reuters.com/world/middle-east/amazons-cloud-unit-reports-fire-after-objects-hit-uae-data-center-2026-03-01/)

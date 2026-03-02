@@ -35,6 +35,7 @@
 * [2026-02-26, 16:39:07](https://news.ycombinator.com/item?id=47168405) - [Interview with Øyvind Kolås, GIMP developer](https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/)
 * [2026-02-26, 16:23:07](https://news.ycombinator.com/item?id=47168165) - [The Pentagon Feuding with an AI Company Is a Bad Sign](https://foreignpolicy.com/2026/02/25/anthropic-pentagon-feud-ai/)
 * [2026-02-26, 16:13:06](https://news.ycombinator.com/item?id=47168012) - [Open Source Endowment – new funding source for open source maintainers](https://endowment.dev/)
+* [2026-02-26, 16:09:07](https://news.ycombinator.com/item?id=47167960) - [Squidcasa/midipipe: ALSA Sequencer to plain text and back](https://codeberg.org/squidcasa/midipipe)
 * [2026-02-26, 16:07:11](https://news.ycombinator.com/item?id=47167931) - [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement)
 * [2026-02-26, 16:02:37](https://news.ycombinator.com/item?id=47167858) - [Nano Banana 2: Google's latest AI image generation model](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 * [2026-02-26, 15:55:48](https://news.ycombinator.com/item?id=47167763) - [New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises](https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/)
