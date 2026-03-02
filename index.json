@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-02, 17:01:20",
+      "https://news.ycombinator.com/item?id=47220666"
+    ],
+    [
+      "Reflex (YC W23) Is Hiring Software Engineers – Python",
+      "https://www.ycombinator.com/companies/reflex/jobs"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 16:39:21",
+      "https://news.ycombinator.com/item?id=47220320"
+    ],
+    [
+      "Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming",
+      "https://news.ycombinator.com/item?id=47220320"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 16:01:20",
       "https://news.ycombinator.com/item?id=47219688"
     ],
@@ -17,6 +37,16 @@
     [
       "Ask HN: Who is hiring? (March 2026)",
       "https://news.ycombinator.com/item?id=47219668"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 15:53:23",
+      "https://news.ycombinator.com/item?id=47219558"
+    ],
+    [
+      "Felix \"fx\" Lindner has died",
+      "https://blog.recurity-labs.com/2026-03-02/Farewell_Felix"
     ]
   ],
   [
@@ -71,32 +101,12 @@
   ],
   [
     [
-      "2026-03-02, 14:20:35",
-      "https://news.ycombinator.com/item?id=47218283"
-    ],
-    [
-      "Plastic is made from milk and it vanishes in 13 weeks",
-      "https://www.sciencedaily.com/releases/2026/02/260227071922.htm"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 14:12:18",
       "https://news.ycombinator.com/item?id=47218188"
     ],
     [
       "An Interesting Find: STM32 RDP1 Decryptor",
       "https://carlossless.io/stm32-rdp1-decryptor/"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 14:11:23",
-      "https://news.ycombinator.com/item?id=47218175"
-    ],
-    [
-      "Apple introduces the new iPad Air, powered by M4",
-      "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-03-02, 04:23:53",
-      "https://news.ycombinator.com/item?id=47213866"
-    ],
-    [
-      "Computer-generated dream world: Virtual reality for a 286 processor",
-      "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 00:27:52",
       "https://news.ycombinator.com/item?id=47212355"
     ],
@@ -247,6 +247,16 @@
     [
       "Why Objective-C",
       "https://inessential.com/2026/02/27/why-objective-c.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 00:47:39",
+      "https://news.ycombinator.com/item?id=47188401"
+    ],
+    [
+      "Zclaw – The 888 KiB Assistant",
+      "https://zclaw.dev"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Use the Mikado Method to do safe changes in a complex codebase",
       "https://understandlegacycode.com/blog/a-process-to-do-safe-changes-in-a-complex-codebase/"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 00:17:52",
-      "https://news.ycombinator.com/item?id=47160065"
-    ],
-    [
-      "Go-Native Durable Execution",
-      "https://www.dbos.dev/blog/how-we-built-golang-native-durable-execution"
     ]
   ]
 ]
