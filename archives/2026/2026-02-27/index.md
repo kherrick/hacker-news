@@ -75,6 +75,7 @@
 * [2026-02-27, 04:38:46](https://news.ycombinator.com/item?id=47176581) - [Dear Time Lords: Freeze Computers in 1993](https://graydon2.dreamwidth.org/322461.html)
 * [2026-02-27, 03:49:48](https://news.ycombinator.com/item?id=47176257) - [The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
 * [2026-02-27, 03:48:05](https://news.ycombinator.com/item?id=47176239) - [Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration](https://github.com/Frikallo/parakeet.cpp)
+* [2026-02-27, 03:43:19](https://news.ycombinator.com/item?id=47176209) - [Frankensqlite a Rust reimplementation of SQLite with concurrent writers](https://frankensqlite.com/)
 * [2026-02-27, 03:34:12](https://news.ycombinator.com/item?id=47176157) - [A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives](https://bookriot.com/hr7661-book-ban-legislation/)
 * [2026-02-27, 03:33:28](https://news.ycombinator.com/item?id=47176150) - [Compact disc story (1998)](https://www.researchgate.net/publication/294484774_Compact_disc_story)
 * [2026-02-27, 03:08:09](https://news.ycombinator.com/item?id=47175931) - [Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic](https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html)

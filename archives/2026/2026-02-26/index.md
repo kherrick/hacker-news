@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-26](index.md)
 
+* [2026-02-26, 23:59:52](https://news.ycombinator.com/item?id=47174189) - [C64 Copy Protection](https://www.commodoregames.net/copyprotection/)
 * [2026-02-26, 23:16:30](https://news.ycombinator.com/item?id=47173583) - [Netflix Backs Out of Warner Bros. Bidding, Paramount Set to Win](https://www.hollywoodreporter.com/business/business-news/netflix-backs-out-warners-deal-paramount-win-1236516763/)
 * [2026-02-26, 23:14:44](https://news.ycombinator.com/item?id=47173559) - [Anthropic says company 'cannot in good conscience accede' to Pentagon's demands](https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda)
 * [2026-02-26, 22:42:47](https://news.ycombinator.com/item?id=47173121) - [Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
