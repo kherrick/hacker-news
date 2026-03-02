@@ -25,10 +25,10 @@
 * [2026-03-02, 07:30:12](https://news.ycombinator.com/item?id=47214864) - [How to talk to anyone and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should)
 * [2026-03-02, 06:48:07](https://news.ycombinator.com/item?id=47214645) - [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 * [2026-03-01, 17:11:44](https://news.ycombinator.com/item?id=47208573) - [Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering](https://maderix.substack.com/p/inside-the-m4-apple-neural-engine)
+* [2026-02-28, 03:48:14](https://news.ycombinator.com/item?id=47190088) - [Build your own Command Line with ANSI escape codes (2016)](https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 * [2026-02-28, 00:47:39](https://news.ycombinator.com/item?id=47188401) - [Zclaw – The 888 KiB Assistant](https://zclaw.dev)
 * [2026-02-27, 15:28:57](https://news.ycombinator.com/item?id=47181656) - [Mondrian Entered the Public Domain. The Estate Disagrees](https://copyrightlately.com/mondrian-public-domain-controversy/)
 * [2026-02-27, 04:38:15](https://news.ycombinator.com/item?id=47176576) - [Making Video Games in 2025 (without an engine)](https://www.noelberry.ca/posts/making_games_in_2025/)
-* [2026-02-27, 01:35:26](https://news.ycombinator.com/item?id=47175160) - [Thirty years on, Pokémon is still a monster hit](https://www.economist.com/culture/2026/02/26/thirty-years-on-pokemon-is-still-a-monster-hit)
 * [2026-02-26, 15:03:34](https://news.ycombinator.com/item?id=47167058) - [Use the Mikado Method to do safe changes in a complex codebase](https://understandlegacycode.com/blog/a-process-to-do-safe-changes-in-a-complex-codebase/)
 
 ## [Archives](archives/index.md)
