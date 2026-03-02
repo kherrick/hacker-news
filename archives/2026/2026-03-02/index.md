@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 08:58:14](https://news.ycombinator.com/item?id=47215427) - [Show HN: Omni – Open-source workplace search and chat, built on Postgres](https://github.com/getomnico/omni)
+* [2026-03-02, 07:30:12](https://news.ycombinator.com/item?id=47214864) - [How to talk to anyone and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should)
 * [2026-03-02, 06:48:07](https://news.ycombinator.com/item?id=47214645) - [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 * [2026-03-02, 05:59:03](https://news.ycombinator.com/item?id=47214367) - [An interactive intro to Elliptic Curve Cryptography](https://growingswe.com/blog/elliptic-curve-cryptography)
 * [2026-03-02, 05:39:36](https://news.ycombinator.com/item?id=47214250) - [Evolving descriptive text of mental content from human brain activity](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts)
