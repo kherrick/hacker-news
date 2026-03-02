@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 23:03:59](https://news.ycombinator.com/item?id=47225505) - [Closure of the Weatherradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
+* [2026-03-02, 22:49:47](https://news.ycombinator.com/item?id=47225318) - [Dragon Ball Color Correction Process [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf)
 * [2026-03-02, 22:32:35](https://news.ycombinator.com/item?id=47225130) - [The workers behind Meta's smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 * [2026-03-02, 22:04:56](https://news.ycombinator.com/item?id=47224832) - [The 185-Microsecond Type Hint](https://blog.sturdystatistics.com/posts/type_hint/)
 * [2026-03-02, 21:23:40](https://news.ycombinator.com/item?id=47224295) - [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
