@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-03-02, 04:15:16",
+      "https://news.ycombinator.com/item?id=47213819"
+    ],
+    [
+      "How to Record and Retrieve Anything You've Ever Had to Look Up Twice",
+      "https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 04:06:00",
       "https://news.ycombinator.com/item?id=47213764"
     ],
@@ -37,16 +47,6 @@
     [
       "If AI writes code, should the session be part of the commit?",
       "https://github.com/mandel-macaque/memento"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 23:25:01",
-      "https://news.ycombinator.com/item?id=47211914"
-    ],
-    [
-      "Show HN: Logira – eBPF runtime auditing for AI agent runs",
-      "https://github.com/melonattacker/logira"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2026-03-01, 11:49:01",
-      "https://news.ycombinator.com/item?id=47205890"
-    ],
-    [
-      "I built a demo of what AI chat will look like when it's “free” and ad-supported",
-      "https://99helpers.com/tools/ad-supported-chat"
-    ]
-  ],
-  [
-    [
       "2026-03-01, 11:01:17",
       "https://news.ycombinator.com/item?id=47205637"
     ],
@@ -237,6 +227,16 @@
     [
       "Tove Jansson's criticized illustrations of The Hobbit (2023)",
       "https://tovejansson.com/hobbit-tolkien/"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 15:33:02",
+      "https://news.ycombinator.com/item?id=47181714"
+    ],
+    [
+      "Have your cake and decompress it too",
+      "https://spiraldb.com/post/cascading-compression-with-btrblocks"
     ]
   ],
   [
