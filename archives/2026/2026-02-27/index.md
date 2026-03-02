@@ -72,6 +72,7 @@
 * [2026-02-27, 09:08:58](https://news.ycombinator.com/item?id=47178371) - [Get free Claude max 20x for open-source maintainers](https://claude.com/contact-sales/claude-for-oss)
 * [2026-02-27, 09:04:48](https://news.ycombinator.com/item?id=47178344) - [Working on Pharo Smalltalk: BPatterns: Rewrite Engine with Smalltalk Style](http://dionisiydk.blogspot.com/2026/02/bpatterns-rewrite-engine-with-smalltalk.html)
 * [2026-02-27, 08:45:02](https://news.ycombinator.com/item?id=47178176) - [Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA](https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer)
+* [2026-02-27, 08:31:57](https://news.ycombinator.com/item?id=47178077) - [Pluralism and the Modern Poet](https://www.lrb.co.uk/the-paper/v48/n03/seamus-perry/pluralism-and-the-modern-poet)
 * [2026-02-27, 08:27:45](https://news.ycombinator.com/item?id=47178051) - [Werner Herzog Between Fact and Fiction](https://www.thenation.com/article/culture/werner-herzog-future-truth/)
 * [2026-02-27, 08:02:52](https://news.ycombinator.com/item?id=47177877) - [The complete Manic Miner disassembly](https://skoolkit.ca/disassemblies/manic_miner/)
 * [2026-02-27, 07:39:09](https://news.ycombinator.com/item?id=47177700) - [Gzpeek: Tool to Parse Gzip Metadata](https://evanhahn.com/introducing-gzpeek/)
