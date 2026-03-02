@@ -58,6 +58,7 @@
 * [2026-02-27, 14:55:49](https://news.ycombinator.com/item?id=47181208) - [New California law requires age verification for all OS accounts](https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/)
 * [2026-02-27, 14:44:52](https://news.ycombinator.com/item?id=47181051) - [OpenAI's $110B funding round (investments from Amazon, Nvidia, SoftBank)](https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27/)
 * [2026-02-27, 14:02:53](https://news.ycombinator.com/item?id=47180569) - [We deserve a better streams API for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/)
+* [2026-02-27, 13:54:21](https://news.ycombinator.com/item?id=47180511) - [Writing on Mount Hymettos in Duplo](https://viewsproject.wordpress.com/2026/02/20/writing-on-mount-hymettos-in-duplo/)
 * [2026-02-27, 13:12:38](https://news.ycombinator.com/item?id=47180140) - [Chorba: A novel CRC32 implementation (2024)](https://arxiv.org/abs/2412.16398)
 * [2026-02-27, 13:06:50](https://news.ycombinator.com/item?id=47180083) - [Show HN: RetroTick – Run classic Windows EXEs in the browser](https://retrotick.com/)
 * [2026-02-27, 13:02:56](https://news.ycombinator.com/item?id=47180040) - [Generative AI Use and Depressive Symptoms Among US Adults](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2844128)

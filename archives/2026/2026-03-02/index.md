@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 18:48:36](https://news.ycombinator.com/item?id=47222270) - [Go is the best language for agents](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
+* [2026-03-02, 18:29:26](https://news.ycombinator.com/item?id=47221994) - [Bars close and hundreds lose jobs as US firm buys Brewdog in £33M deal](https://www.bbc.com/news/articles/c05v0p1d0peo)
+* [2026-03-02, 17:40:17](https://news.ycombinator.com/item?id=47221264) - [Apple AI servers unused in warehouses due to low Apple Intelligence usage](https://9to5mac.com/2026/03/02/some-apple-ai-servers-are-reportedly-sitting-unused-on-warehouse-shelves-due-to-low-apple-intelligence-usage/)
 * [2026-03-02, 17:08:53](https://news.ycombinator.com/item?id=47220809) - [Show HN: Govbase – Follow a bill from source text to news bias to social posts](https://govbase.com)
 * [2026-03-02, 17:01:20](https://news.ycombinator.com/item?id=47220666) - [Reflex (YC W23) Is Hiring Software Engineers – Python](https://www.ycombinator.com/companies/reflex/jobs)
 * [2026-03-02, 16:39:21](https://news.ycombinator.com/item?id=47220320) - [Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming](https://news.ycombinator.com/item?id=47220320)
@@ -13,6 +16,7 @@
 * [2026-03-02, 15:53:23](https://news.ycombinator.com/item?id=47219558) - [Felix \"fx\" Lindner has died](https://blog.recurity-labs.com/2026-03-02/Farewell_Felix)
 * [2026-03-02, 14:54:58](https://news.ycombinator.com/item?id=47218743) - [First-ever in-utero stem cell therapy for fetal spina bifida repair is safe](https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02)
 * [2026-03-02, 14:52:52](https://news.ycombinator.com/item?id=47218711) - [A bit of fluid mechanics from scratch not from scratch](https://tsvibt.blogspot.com/2026/02/a-bit-of-fluid-mechanics-from-scratch.html)
+* [2026-03-02, 14:41:12](https://news.ycombinator.com/item?id=47218541) - [19th century silent film that first captured a robot attack](https://www.npr.org/2026/02/28/nx-s1-5730373/georges-melies-robot-film-1897-library-of-congress-gugusse-automate)
 * [2026-03-02, 14:28:41](https://news.ycombinator.com/item?id=47218364) - [Judge finalizes order for Greenpeace to pay $345M in ND oil pipeline case](https://northdakotamonitor.com/2026/02/27/judge-finalizes-order-for-greenpeace-to-pay-345-million-in-north-dakota-oil-pipeline-case/)
 * [2026-03-02, 14:24:15](https://news.ycombinator.com/item?id=47218318) - [Parallel coding agents with tmux and Markdown specs](https://schipper.ai/posts/parallel-coding-agents/)
 * [2026-03-02, 14:21:19](https://news.ycombinator.com/item?id=47218288) - [Anthropic Cowork feature creates 10GB VM bundle on macOS without warning](https://github.com/anthropics/claude-code/issues/22543)
