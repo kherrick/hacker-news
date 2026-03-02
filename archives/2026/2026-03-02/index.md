@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 21:09:47](https://news.ycombinator.com/item?id=47224118) - [Welcome (back) to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh)
 * [2026-03-02, 20:50:03](https://news.ycombinator.com/item?id=47223863) - [Show HN: Pianoterm – Run shell commands from your Piano. A Linux CLI tool](https://github.com/vustagc/pianoterm)
 * [2026-03-02, 20:30:52](https://news.ycombinator.com/item?id=47223620) - [British Columbia to end time changes, adopt year-round daylight time](https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657)
 * [2026-03-02, 19:50:32](https://news.ycombinator.com/item?id=47223147) - [Show HN: uBlock filter list to blur all Instagram Reels](https://gist.github.com/shraiwi/009c652da6ce8c99a6e1e0c86fe66886)
