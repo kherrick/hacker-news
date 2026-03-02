@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 13:05:37](https://news.ycombinator.com/item?id=47217491) - [Microslop Manifesto](http://microslop.com/)
+* [2026-03-02, 11:47:44](https://news.ycombinator.com/item?id=47216773) - [Show HN: Web Audio Studio – A Visual Debugger for Web Audio API Graphs](https://webaudio.studio/)
 * [2026-03-02, 10:23:06](https://news.ycombinator.com/item?id=47216047) - [Microsoft bans the word \"Microslop\" on its Discord, then locks the server](https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/)
 * [2026-03-02, 10:21:24](https://news.ycombinator.com/item?id=47216037) - [Jolla phone – a full-stack European alternative](https://commerce.jolla.com/products/jolla-phone-sept-26)
 * [2026-03-02, 10:02:38](https://news.ycombinator.com/item?id=47215897) - [AWS data center hit by Iran](https://www.reuters.com/world/middle-east/amazons-cloud-unit-reports-fire-after-objects-hit-uae-data-center-2026-03-01/)

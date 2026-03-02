@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-02, 13:05:37](https://news.ycombinator.com/item?id=47217491) - [Microslop Manifesto](http://microslop.com/)
+* [2026-03-02, 11:47:44](https://news.ycombinator.com/item?id=47216773) - [Show HN: Web Audio Studio – A Visual Debugger for Web Audio API Graphs](https://webaudio.studio/)
 * [2026-03-02, 10:23:06](https://news.ycombinator.com/item?id=47216047) - [Microsoft bans the word \"Microslop\" on its Discord, then locks the server](https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/)
 * [2026-03-02, 10:21:24](https://news.ycombinator.com/item?id=47216037) - [Jolla phone – a full-stack European alternative](https://commerce.jolla.com/products/jolla-phone-sept-26)
 * [2026-03-02, 09:20:06](https://news.ycombinator.com/item?id=47215565) - [U.S. science agency moves to restrict foreign scientists from its labs](https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs)
@@ -19,17 +21,15 @@
 * [2026-03-01, 22:18:10](https://news.ycombinator.com/item?id=47211280) - [Little Free Library](https://littlefreelibrary.org/)
 * [2026-03-01, 22:13:58](https://news.ycombinator.com/item?id=47211249) - [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)
 * [2026-03-01, 19:25:04](https://news.ycombinator.com/item?id=47209788) - [Why does C have the best file API](https://maurycyz.com/misc/c_files/)
-* [2026-03-01, 16:54:49](https://news.ycombinator.com/item?id=47208398) - [When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
 * [2026-03-01, 12:13:03](https://news.ycombinator.com/item?id=47206009) - [Ghostty – Terminal Emulator](https://ghostty.org/docs)
-* [2026-03-01, 09:43:43](https://news.ycombinator.com/item?id=47205208) - [Microgpt explained interactively](https://growingswe.com/blog/microgpt)
 * [2026-03-01, 08:55:52](https://news.ycombinator.com/item?id=47204964) - [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
 * [2026-02-27, 21:31:39](https://news.ycombinator.com/item?id=47185911) - [Neocaml – Rubocop Creator's New OCaml Mode for Emacs](https://github.com/bbatsov/neocaml)
 * [2026-02-27, 17:41:51](https://news.ycombinator.com/item?id=47183196) - [Enable CORS for Your Blog](https://www.blogsareback.com/guides/enable-cors)
-* [2026-02-27, 16:21:38](https://news.ycombinator.com/item?id=47182339) - [Next-gen spacecraft are overwhelming communication networks](https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/)
 * [2026-02-27, 16:17:53](https://news.ycombinator.com/item?id=47182284) - [Tove Jansson's criticized illustrations of The Hobbit (2023)](https://tovejansson.com/hobbit-tolkien/)
 * [2026-02-27, 15:28:57](https://news.ycombinator.com/item?id=47181656) - [Mondrian Entered the Public Domain. The Estate Disagrees](https://copyrightlately.com/mondrian-public-domain-controversy/)
 * [2026-02-27, 08:31:57](https://news.ycombinator.com/item?id=47178077) - [Pluralism and the Modern Poet](https://www.lrb.co.uk/the-paper/v48/n03/seamus-perry/pluralism-and-the-modern-poet)
 * [2026-02-27, 04:38:15](https://news.ycombinator.com/item?id=47176576) - [Making Video Games in 2025 (without an engine)](https://www.noelberry.ca/posts/making_games_in_2025/)
+* [2026-02-26, 00:17:52](https://news.ycombinator.com/item?id=47160065) - [Go-Native Durable Execution](https://www.dbos.dev/blog/how-we-built-golang-native-durable-execution)
 
 ## [Archives](archives/index.md)
 
