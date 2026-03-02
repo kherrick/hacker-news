@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 14:21:19](https://news.ycombinator.com/item?id=47218288) - [Anthropic Cowork feature creates 10GB VM bundle on macOS without warning](https://github.com/anthropics/claude-code/issues/22543)
+* [2026-03-02, 14:12:18](https://news.ycombinator.com/item?id=47218188) - [An Interesting Find: STM32 RDP1 Decryptor](https://carlossless.io/stm32-rdp1-decryptor/)
+* [2026-03-02, 14:11:23](https://news.ycombinator.com/item?id=47218175) - [Apple introduces the new iPad Air, powered by M4](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
+* [2026-03-02, 13:38:02](https://news.ycombinator.com/item?id=47217812) - [OpenClaw Surpasses React to Become the Most-Starred Software Project on GitHub](https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software)
 * [2026-03-02, 13:05:37](https://news.ycombinator.com/item?id=47217491) - [Microslop Manifesto](http://microslop.com/)
 * [2026-03-02, 12:56:46](https://news.ycombinator.com/item?id=47217402) - [AMD Am386 released March 2, 1991](https://dfarq.homeip.net/amd-am386-released-march-2-1991/)
 * [2026-03-02, 11:47:44](https://news.ycombinator.com/item?id=47216773) - [Show HN: Web Audio Studio – A Visual Debugger for Web Audio API Graphs](https://webaudio.studio/)

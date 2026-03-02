@@ -44,6 +44,7 @@
 * [2026-02-26, 15:40:42](https://news.ycombinator.com/item?id=47167545) - [SHELL: Global Tool for Calling and Chaining Procedures in the System (1965) [pdf]](https://people.csail.mit.edu/saltzer/Multics/Multics-Documents/MDN/MDN-4.pdf)
 * [2026-02-26, 15:31:39](https://news.ycombinator.com/item?id=47167432) - [Hardwood: A New Parser for Apache Parquet](https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/)
 * [2026-02-26, 15:14:20](https://news.ycombinator.com/item?id=47167171) - [In 2025, Meta paid an effective federal tax rate of 3.5%](https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i)
+* [2026-02-26, 15:03:34](https://news.ycombinator.com/item?id=47167058) - [Use the Mikado Method to do safe changes in a complex codebase](https://understandlegacycode.com/blog/a-process-to-do-safe-changes-in-a-complex-codebase/)
 * [2026-02-26, 14:24:29](https://news.ycombinator.com/item?id=47166522) - [Kansas Sends Letters to Trans People Demanding the Surrender of Drivers Licenses](https://www.erininthemorning.com/p/kansas-sends-letters-to-trans-people)
 * [2026-02-26, 14:21:05](https://news.ycombinator.com/item?id=47166473) - [Story of XZ Backdoor [video]](https://www.youtube.com/watch?v=aoag03mSuXQ)
 * [2026-02-26, 14:05:46](https://news.ycombinator.com/item?id=47166264) - [BuildKit: Docker's Hidden Gem That Can Build Almost Anything](https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/)
