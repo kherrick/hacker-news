@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-02, 22:32:35](https://news.ycombinator.com/item?id=47225130) - [The workers behind Meta's smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 * [2026-03-02, 22:04:56](https://news.ycombinator.com/item?id=47224832) - [The 185-Microsecond Type Hint](https://blog.sturdystatistics.com/posts/type_hint/)
 * [2026-03-02, 21:23:40](https://news.ycombinator.com/item?id=47224295) - [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
 * [2026-03-02, 21:09:47](https://news.ycombinator.com/item?id=47224118) - [Welcome (back) to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh)
@@ -15,7 +16,6 @@
 * [2026-03-02, 16:20:18](https://news.ycombinator.com/item?id=47220020) - [Packaging a Gleam app into a single executable](https://www.dhzdhd.dev/blog/gleam-executable)
 * [2026-03-02, 16:00:27](https://news.ycombinator.com/item?id=47219668) - [Ask HN: Who is hiring? (March 2026)](https://news.ycombinator.com/item?id=47219668)
 * [2026-03-02, 16:00:26](https://news.ycombinator.com/item?id=47219667) - [Ask HN: Who wants to be hired? (March 2026)](https://news.ycombinator.com/item?id=47219667)
-* [2026-03-02, 15:41:08](https://news.ycombinator.com/item?id=47219387) - [Language Model Contains Personality Subnetworks](https://arxiv.org/abs/2602.07164)
 * [2026-03-02, 14:54:58](https://news.ycombinator.com/item?id=47218743) - [First in-utero stem cell therapy for fetal spina bifida repair is safe: study](https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02)
 * [2026-03-02, 14:41:12](https://news.ycombinator.com/item?id=47218541) - [19th century silent film that first captured a robot attack](https://www.npr.org/2026/02/28/nx-s1-5730373/georges-melies-robot-film-1897-library-of-congress-gugusse-automate)
 * [2026-03-02, 14:24:15](https://news.ycombinator.com/item?id=47218318) - [Parallel coding agents with tmux and Markdown specs](https://schipper.ai/posts/parallel-coding-agents/)
@@ -27,8 +27,8 @@
 * [2026-02-28, 22:43:40](https://news.ycombinator.com/item?id=47201158) - [Programmable Cryptography](https://0xparc.org/writings/programmable-cryptography-1)
 * [2026-02-28, 12:41:33](https://news.ycombinator.com/item?id=47194630) - [Why Objective-C](https://inessential.com/2026/02/27/why-objective-c.html)
 * [2026-02-28, 03:48:14](https://news.ycombinator.com/item?id=47190088) - [Build your own Command Line with ANSI escape codes (2016)](https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
-* [2026-02-28, 00:47:39](https://news.ycombinator.com/item?id=47188401) - [Zclaw – The 888 KiB Assistant](https://zclaw.dev)
 * [2026-02-28, 00:12:24](https://news.ycombinator.com/item?id=47188014) - [LFortran compiles fpm](https://lfortran.org/blog/2026/02/lfortran-compiles-fpm/)
+* [2026-02-26, 19:09:18](https://news.ycombinator.com/item?id=47170599) - [RCade: Building a Community Arcade Cabinet](https://www.frankchiarulli.com/blog/building-the-rcade/)
 * [2026-02-26, 15:03:34](https://news.ycombinator.com/item?id=47167058) - [Use the Mikado Method to do safe changes in a complex codebase](https://understandlegacycode.com/blog/a-process-to-do-safe-changes-in-a-complex-codebase/)
 
 ## [Archives](archives/index.md)

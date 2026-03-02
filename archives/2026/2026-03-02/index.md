@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 22:32:35](https://news.ycombinator.com/item?id=47225130) - [The workers behind Meta's smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 * [2026-03-02, 22:04:56](https://news.ycombinator.com/item?id=47224832) - [The 185-Microsecond Type Hint](https://blog.sturdystatistics.com/posts/type_hint/)
 * [2026-03-02, 21:23:40](https://news.ycombinator.com/item?id=47224295) - [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
 * [2026-03-02, 21:09:47](https://news.ycombinator.com/item?id=47224118) - [Welcome (back) to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh)
