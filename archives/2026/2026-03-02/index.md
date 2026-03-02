@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 19:50:32](https://news.ycombinator.com/item?id=47223147) - [Show HN: uBlock filter list to blur all Instagram Reels](https://gist.github.com/shraiwi/009c652da6ce8c99a6e1e0c86fe66886)
 * [2026-03-02, 18:48:37](https://news.ycombinator.com/item?id=47222271) - [Show HN: Gapless.js – gapless web audio playback](https://github.com/RelistenNet/gapless.js)
 * [2026-03-02, 18:48:36](https://news.ycombinator.com/item?id=47222270) - [Go is the best language for agents](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
 * [2026-03-02, 18:45:12](https://news.ycombinator.com/item?id=47222226) - [\"That Shape Had None\" – A Horror of Substrate Independence (Short Fiction)](https://starlightconvenience.net/#that-shape-had-none)
@@ -15,6 +16,7 @@
 * [2026-03-02, 16:20:18](https://news.ycombinator.com/item?id=47220020) - [Packaging a Gleam app into a single executable](https://www.dhzdhd.dev/blog/gleam-executable)
 * [2026-03-02, 16:01:20](https://news.ycombinator.com/item?id=47219688) - [Notes on Lagrange Interpolating Polynomials](https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/)
 * [2026-03-02, 16:00:27](https://news.ycombinator.com/item?id=47219668) - [Ask HN: Who is hiring? (March 2026)](https://news.ycombinator.com/item?id=47219668)
+* [2026-03-02, 16:00:26](https://news.ycombinator.com/item?id=47219667) - [Ask HN: Who wants to be hired? (March 2026)](https://news.ycombinator.com/item?id=47219667)
 * [2026-03-02, 15:53:23](https://news.ycombinator.com/item?id=47219558) - [Felix \"fx\" Lindner has died](https://blog.recurity-labs.com/2026-03-02/Farewell_Felix)
 * [2026-03-02, 15:41:08](https://news.ycombinator.com/item?id=47219387) - [Language Model Contains Personality Subnetworks](https://arxiv.org/abs/2602.07164)
 * [2026-03-02, 14:54:58](https://news.ycombinator.com/item?id=47218743) - [First-ever in-utero stem cell therapy for fetal spina bifida repair is safe](https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02)

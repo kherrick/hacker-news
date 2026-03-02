@@ -68,3 +68,4 @@
 * [2026-02-28, 01:20:10](https://news.ycombinator.com/item?id=47188697) - [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war)
 * [2026-02-28, 00:54:53](https://news.ycombinator.com/item?id=47188473) - [We Will Not Be Divided](https://notdivided.org)
 * [2026-02-28, 00:47:39](https://news.ycombinator.com/item?id=47188401) - [Zclaw – The 888 KiB Assistant](https://zclaw.dev)
+* [2026-02-28, 00:12:24](https://news.ycombinator.com/item?id=47188014) - [LFortran Compiles Fpm](https://lfortran.org/blog/2026/02/lfortran-compiles-fpm/)
