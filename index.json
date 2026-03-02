@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-02, 10:02:38",
+      "https://news.ycombinator.com/item?id=47215897"
+    ],
+    [
+      "AWS data center hit by Iran",
+      "https://www.reuters.com/world/middle-east/amazons-cloud-unit-reports-fire-after-objects-hit-uae-data-center-2026-03-01/"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 09:09:44",
+      "https://news.ycombinator.com/item?id=47215489"
+    ],
+    [
+      "/e/OS is a complete \"deGoogled\", mobile ecosystem",
+      "https://e.foundation/e-os/"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 08:58:14",
       "https://news.ycombinator.com/item?id=47215427"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-03-01, 14:52:22",
-      "https://news.ycombinator.com/item?id=47207236"
-    ],
-    [
-      "Why XML tags are so fundamental to Claude",
-      "https://glthr.com/XML-fundamental-to-Claude"
-    ]
-  ],
-  [
-    [
       "2026-03-01, 14:07:05",
       "https://news.ycombinator.com/item?id=47206798"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2026-02-28, 02:35:45",
-      "https://news.ycombinator.com/item?id=47189434"
+      "2026-02-27, 21:31:39",
+      "https://news.ycombinator.com/item?id=47185911"
     ],
     [
-      "The Mini PET 40/80 (2022)",
-      "http://blog.tynemouthsoftware.co.uk/2022/02/the-mini-pet-4080.html"
+      "Neocaml – Rubocop Creator's New OCaml Mode for Emacs",
+      "https://github.com/bbatsov/neocaml"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Tove Jansson's criticized illustrations of The Hobbit (2023)",
       "https://tovejansson.com/hobbit-tolkien/"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 15:33:02",
-      "https://news.ycombinator.com/item?id=47181714"
-    ],
-    [
-      "Have your cake and decompress it too",
-      "https://spiraldb.com/post/cascading-compression-with-btrblocks"
     ]
   ],
   [
