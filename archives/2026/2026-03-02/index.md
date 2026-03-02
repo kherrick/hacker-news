@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 22:04:56](https://news.ycombinator.com/item?id=47224832) - [The 185-Microsecond Type Hint](https://blog.sturdystatistics.com/posts/type_hint/)
+* [2026-03-02, 21:23:40](https://news.ycombinator.com/item?id=47224295) - [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
 * [2026-03-02, 21:09:47](https://news.ycombinator.com/item?id=47224118) - [Welcome (back) to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh)
 * [2026-03-02, 20:50:03](https://news.ycombinator.com/item?id=47223863) - [Show HN: Pianoterm – Run shell commands from your Piano. A Linux CLI tool](https://github.com/vustagc/pianoterm)
 * [2026-03-02, 20:30:52](https://news.ycombinator.com/item?id=47223620) - [British Columbia to end time changes, adopt year-round daylight time](https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657)
