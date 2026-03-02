@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-03-02, 05:01:55",
-      "https://news.ycombinator.com/item?id=47214064"
-    ],
-    [
-      "The inner workings of TCP zero-copy",
-      "https://blog.tohojo.dk/2026/02/the-inner-workings-of-tcp-zero-copy.html"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 05:01:08",
       "https://news.ycombinator.com/item?id=47214063"
     ],
@@ -211,6 +201,26 @@
   ],
   [
     [
+      "2026-03-01, 01:39:26",
+      "https://news.ycombinator.com/item?id=47202708"
+    ],
+    [
+      "Microgpt",
+      "http://karpathy.github.io/2026/02/12/microgpt/"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 02:35:45",
+      "https://news.ycombinator.com/item?id=47189434"
+    ],
+    [
+      "The Mini PET 40/80 (2022)",
+      "http://blog.tynemouthsoftware.co.uk/2022/02/the-mini-pet-4080.html"
+    ]
+  ],
+  [
+    [
       "2026-02-27, 17:41:51",
       "https://news.ycombinator.com/item?id=47183196"
     ],
@@ -257,16 +267,6 @@
     [
       "Making Video Games in 2025 (without an engine)",
       "https://www.noelberry.ca/posts/making_games_in_2025/"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 03:43:19",
-      "https://news.ycombinator.com/item?id=47176209"
-    ],
-    [
-      "Frankensqlite a Rust reimplementation of SQLite with concurrent writers",
-      "https://frankensqlite.com/"
     ]
   ],
   [
