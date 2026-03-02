@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 17:01:20](https://news.ycombinator.com/item?id=47220666) - [Reflex (YC W23) Is Hiring Software Engineers – Python](https://www.ycombinator.com/companies/reflex/jobs)
+* [2026-03-02, 16:39:21](https://news.ycombinator.com/item?id=47220320) - [Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming](https://news.ycombinator.com/item?id=47220320)
 * [2026-03-02, 16:01:20](https://news.ycombinator.com/item?id=47219688) - [Notes on Lagrange Interpolating Polynomials](https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/)
 * [2026-03-02, 16:00:27](https://news.ycombinator.com/item?id=47219668) - [Ask HN: Who is hiring? (March 2026)](https://news.ycombinator.com/item?id=47219668)
+* [2026-03-02, 15:53:23](https://news.ycombinator.com/item?id=47219558) - [Felix \"fx\" Lindner has died](https://blog.recurity-labs.com/2026-03-02/Farewell_Felix)
 * [2026-03-02, 14:54:58](https://news.ycombinator.com/item?id=47218743) - [First-ever in-utero stem cell therapy for fetal spina bifida repair is safe](https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02)
 * [2026-03-02, 14:52:52](https://news.ycombinator.com/item?id=47218711) - [A bit of fluid mechanics from scratch not from scratch](https://tsvibt.blogspot.com/2026/02/a-bit-of-fluid-mechanics-from-scratch.html)
 * [2026-03-02, 14:28:41](https://news.ycombinator.com/item?id=47218364) - [Judge finalizes order for Greenpeace to pay $345M in ND oil pipeline case](https://northdakotamonitor.com/2026/02/27/judge-finalizes-order-for-greenpeace-to-pay-345-million-in-north-dakota-oil-pipeline-case/)
