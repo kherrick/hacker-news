@@ -31,26 +31,6 @@
   ],
   [
     [
-      "2026-03-01, 21:59:00",
-      "https://news.ycombinator.com/item?id=47211145"
-    ],
-    [
-      "Waymo blocking ambulance during deadly Austin shooting",
-      "https://www.mysanantonio.com/news/austin/article/waymo-austin-shooting-21948947.php"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 21:56:07",
-      "https://news.ycombinator.com/item?id=47211112"
-    ],
-    [
-      "Big Breakfast Alters Appetite, Gut Health",
-      "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/big-breakfast-diet-composition-impacts-on-appetite-control-and-gut-health-a-randomized-weight-loss-trial-in-adults-with-overweight-or-obesity/69D4E150EAE7D9632D33904D7A4AE5FA"
-    ]
-  ],
-  [
-    [
       "2026-03-01, 21:52:16",
       "https://news.ycombinator.com/item?id=47211081"
     ],
@@ -77,16 +57,6 @@
     [
       "How the Government Deceived Congress in the Debate over Surveillance Powers (2013)",
       "https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 19:25:04",
-      "https://news.ycombinator.com/item?id=47209788"
-    ],
-    [
-      "Why does C have the best file API",
-      "https://maurycyz.com/misc/c_files/"
     ]
   ],
   [
@@ -211,6 +181,26 @@
   ],
   [
     [
+      "2026-02-28, 16:31:53",
+      "https://news.ycombinator.com/item?id=47197267"
+    ],
+    [
+      "Obsidian Sync now has a headless client",
+      "https://help.obsidian.md/sync/headless"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 16:21:38",
+      "https://news.ycombinator.com/item?id=47182339"
+    ],
+    [
+      "How Next-Gen Spacecraft Are Overwhelming Our Communication Networks",
+      "https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/"
+    ]
+  ],
+  [
+    [
       "2026-02-27, 16:17:53",
       "https://news.ycombinator.com/item?id=47182284"
     ],
@@ -227,6 +217,16 @@
     [
       "Chorba: A novel CRC32 implementation (2024)",
       "https://arxiv.org/abs/2412.16398"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 10:10:22",
+      "https://news.ycombinator.com/item?id=47178758"
+    ],
+    [
+      "Aromatic 5-silicon rings synthesized at last",
+      "https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02"
     ]
   ],
   [
