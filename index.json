@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-03-02, 02:23:50",
+      "https://news.ycombinator.com/item?id=47213124"
+    ],
+    [
+      "Claude hits #1 on the App Store as users rally behind Anthropic",
+      "https://9to5mac.com/2026/03/01/claude-hits-1-on-the-app-store-as-users-rally-behind-anthropics-government-standoff/"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 00:57:40",
+      "https://news.ycombinator.com/item?id=47212576"
+    ],
+    [
+      "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
+      "https://github.com/kossisoroyce/timber"
+    ]
+  ],
+  [
+    [
+      "2026-03-01, 23:25:01",
+      "https://news.ycombinator.com/item?id=47211914"
+    ],
+    [
+      "Show HN: Logira – eBPF runtime auditing for AI agent runs",
+      "https://github.com/melonattacker/logira"
+    ]
+  ],
+  [
+    [
+      "2026-03-01, 23:15:16",
+      "https://news.ycombinator.com/item?id=47211830"
+    ],
+    [
+      "Right-sizes LLM models to your system's RAM, CPU, and GPU",
+      "https://github.com/AlexsJones/llmfit"
+    ]
+  ],
+  [
+    [
       "2026-03-01, 22:39:27",
       "https://news.ycombinator.com/item?id=47211476"
     ],
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47211280"
     ],
     [
-      "Little Free Library Books",
+      "Little Free Library",
       "https://littlefreelibrary.org/"
     ]
   ],
@@ -37,26 +77,6 @@
     [
       "South Korean Police Lose Seized Crypto by Posting Password Online",
       "https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 21:33:19",
-      "https://news.ycombinator.com/item?id=47210903"
-    ],
-    [
-      "Are the Mysteries of Quantum Mechanics Beginning to Dissolve?",
-      "https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 20:55:22",
-      "https://news.ycombinator.com/item?id=47210572"
-    ],
-    [
-      "How the Government Deceived Congress in the Debate over Surveillance Powers (2013)",
-      "https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived"
     ]
   ],
   [
@@ -181,12 +201,22 @@
   ],
   [
     [
-      "2026-02-28, 16:31:53",
-      "https://news.ycombinator.com/item?id=47197267"
+      "2026-02-27, 18:29:37",
+      "https://news.ycombinator.com/item?id=47183793"
     ],
     [
-      "Obsidian Sync now has a headless client",
-      "https://help.obsidian.md/sync/headless"
+      "Neural Guitar Pedal – Optimizing NAM for Daisy Seed Arm Cortex-M7",
+      "https://www.tone3000.com/blog/running-nam-on-embedded-hardware"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 17:27:34",
+      "https://news.ycombinator.com/item?id=47183039"
+    ],
+    [
+      "Show HN: Vibe Code your 3D Models",
+      "https://github.com/ierror/synaps-cad"
     ]
   ],
   [
@@ -221,22 +251,12 @@
   ],
   [
     [
-      "2026-02-27, 10:10:22",
-      "https://news.ycombinator.com/item?id=47178758"
+      "2026-02-26, 21:55:08",
+      "https://news.ycombinator.com/item?id=47172481"
     ],
     [
-      "Aromatic 5-silicon rings synthesized at last",
-      "https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 07:39:09",
-      "https://news.ycombinator.com/item?id=47177700"
-    ],
-    [
-      "Gzpeek: Tool to Parse Gzip Metadata",
-      "https://evanhahn.com/introducing-gzpeek/"
+      "What Your DNA Reveals about the Sex Life of Neanderthals",
+      "https://www.nytimes.com/2026/02/26/science/human-evolution-neanderthal-sex.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Programming in K",
       "https://github.com/JohnEarnest/ok/blob/gh-pages/docs/Programming.md"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 13:45:02",
-      "https://news.ycombinator.com/item?id=47151367"
-    ],
-    [
-      "Python Type Checker Comparison: Empty Container Inference",
-      "https://pyrefly.org/blog/container-inference-comparison/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 20:08:38",
-      "https://news.ycombinator.com/item?id=47142183"
-    ],
-    [
-      "How to talk to anyone, and why you should",
-      "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should"
     ]
   ]
 ]
