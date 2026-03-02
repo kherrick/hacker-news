@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 10:21:24](https://news.ycombinator.com/item?id=47216037) - [Jolla phone – a full-stack European alternative](https://commerce.jolla.com/products/jolla-phone-sept-26)
 * [2026-03-02, 10:02:38](https://news.ycombinator.com/item?id=47215897) - [AWS data center hit by Iran](https://www.reuters.com/world/middle-east/amazons-cloud-unit-reports-fire-after-objects-hit-uae-data-center-2026-03-01/)
 * [2026-03-02, 09:09:44](https://news.ycombinator.com/item?id=47215489) - [/e/OS is a complete \"deGoogled\", mobile ecosystem](https://e.foundation/e-os/)
 * [2026-03-02, 08:58:14](https://news.ycombinator.com/item?id=47215427) - [Show HN: Omni – Open-source workplace search and chat, built on Postgres](https://github.com/getomnico/omni)
