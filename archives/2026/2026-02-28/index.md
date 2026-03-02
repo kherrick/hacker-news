@@ -43,6 +43,7 @@
 * [2026-02-28, 12:58:09](https://news.ycombinator.com/item?id=47194781) - [Latency numbers every programmer should know](https://cheat.sh/latency)
 * [2026-02-28, 12:46:36](https://news.ycombinator.com/item?id=47194690) - [No Bookmarks](https://nik.art/no-bookmarks/)
 * [2026-02-28, 12:45:28](https://news.ycombinator.com/item?id=47194679) - [Show HN: Gitcredits – movie-style end credits for any Git repo in your terminal](https://github.com/Higangssh/gitcredits)
+* [2026-02-28, 12:41:33](https://news.ycombinator.com/item?id=47194630) - [Why Objective-C](https://inessential.com/2026/02/27/why-objective-c.html)
 * [2026-02-28, 12:39:32](https://news.ycombinator.com/item?id=47194611) - [Don't trust AI agents](https://nanoclaw.dev/blog/nanoclaw-security-model)
 * [2026-02-28, 11:24:45](https://news.ycombinator.com/item?id=47193832) - [Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash](https://github.com/junevm/splathash)
 * [2026-02-28, 10:58:40](https://news.ycombinator.com/item?id=47193606) - [Tell HN: 3 months ago we feared AI was useless. Now we fear it will take our job](https://news.ycombinator.com/item?id=47193606)

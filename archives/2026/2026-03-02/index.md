@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 14:54:58](https://news.ycombinator.com/item?id=47218743) - [First-ever in-utero stem cell therapy for fetal spina bifida repair is safe](https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02)
+* [2026-03-02, 14:28:41](https://news.ycombinator.com/item?id=47218364) - [Judge finalizes order for Greenpeace to pay $345M in ND oil pipeline case](https://northdakotamonitor.com/2026/02/27/judge-finalizes-order-for-greenpeace-to-pay-345-million-in-north-dakota-oil-pipeline-case/)
 * [2026-03-02, 14:21:19](https://news.ycombinator.com/item?id=47218288) - [Anthropic Cowork feature creates 10GB VM bundle on macOS without warning](https://github.com/anthropics/claude-code/issues/22543)
+* [2026-03-02, 14:20:35](https://news.ycombinator.com/item?id=47218283) - [Plastic is made from milk and it vanishes in 13 weeks](https://www.sciencedaily.com/releases/2026/02/260227071922.htm)
 * [2026-03-02, 14:12:18](https://news.ycombinator.com/item?id=47218188) - [An Interesting Find: STM32 RDP1 Decryptor](https://carlossless.io/stm32-rdp1-decryptor/)
 * [2026-03-02, 14:11:23](https://news.ycombinator.com/item?id=47218175) - [Apple introduces the new iPad Air, powered by M4](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
 * [2026-03-02, 13:38:02](https://news.ycombinator.com/item?id=47217812) - [OpenClaw Surpasses React to Become the Most-Starred Software Project on GitHub](https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software)
