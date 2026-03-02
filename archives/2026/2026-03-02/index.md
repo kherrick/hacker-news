@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 17:08:53](https://news.ycombinator.com/item?id=47220809) - [Show HN: Govbase – Follow a bill from source text to news bias to social posts](https://govbase.com)
 * [2026-03-02, 17:01:20](https://news.ycombinator.com/item?id=47220666) - [Reflex (YC W23) Is Hiring Software Engineers – Python](https://www.ycombinator.com/companies/reflex/jobs)
 * [2026-03-02, 16:39:21](https://news.ycombinator.com/item?id=47220320) - [Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming](https://news.ycombinator.com/item?id=47220320)
+* [2026-03-02, 16:20:18](https://news.ycombinator.com/item?id=47220020) - [Packaging a Gleam app into a single executable](https://www.dhzdhd.dev/blog/gleam-executable)
 * [2026-03-02, 16:01:20](https://news.ycombinator.com/item?id=47219688) - [Notes on Lagrange Interpolating Polynomials](https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/)
 * [2026-03-02, 16:00:27](https://news.ycombinator.com/item?id=47219668) - [Ask HN: Who is hiring? (March 2026)](https://news.ycombinator.com/item?id=47219668)
 * [2026-03-02, 15:53:23](https://news.ycombinator.com/item?id=47219558) - [Felix \"fx\" Lindner has died](https://blog.recurity-labs.com/2026-03-02/Farewell_Felix)
@@ -18,6 +20,7 @@
 * [2026-03-02, 14:12:18](https://news.ycombinator.com/item?id=47218188) - [An Interesting Find: STM32 RDP1 Decryptor](https://carlossless.io/stm32-rdp1-decryptor/)
 * [2026-03-02, 14:11:23](https://news.ycombinator.com/item?id=47218175) - [Apple introduces the new iPad Air, powered by M4](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
 * [2026-03-02, 14:03:53](https://news.ycombinator.com/item?id=47218090) - [Why Go Can't Try](https://niketpatel.com/essays/why-go-cant-try)
+* [2026-03-02, 14:03:00](https://news.ycombinator.com/item?id=47218084) - [iPhone 17e](https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/)
 * [2026-03-02, 13:38:02](https://news.ycombinator.com/item?id=47217812) - [OpenClaw Surpasses React to Become the Most-Starred Software Project on GitHub](https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software)
 * [2026-03-02, 13:05:37](https://news.ycombinator.com/item?id=47217491) - [Microslop Manifesto](http://microslop.com/)
 * [2026-03-02, 12:56:46](https://news.ycombinator.com/item?id=47217402) - [AMD Am386 released March 2, 1991](https://dfarq.homeip.net/amd-am386-released-march-2-1991/)
