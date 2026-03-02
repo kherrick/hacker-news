@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-02, 22:32:35",
+      "https://news.ycombinator.com/item?id=47225130"
+    ],
+    [
+      "The workers behind Meta's smart glasses can see everything",
+      "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 22:04:56",
       "https://news.ycombinator.com/item?id=47224832"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-03-02, 15:41:08",
-      "https://news.ycombinator.com/item?id=47219387"
-    ],
-    [
-      "Language Model Contains Personality Subnetworks",
-      "https://arxiv.org/abs/2602.07164"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 14:54:58",
       "https://news.ycombinator.com/item?id=47218743"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-02-28, 00:47:39",
-      "https://news.ycombinator.com/item?id=47188401"
-    ],
-    [
-      "Zclaw – The 888 KiB Assistant",
-      "https://zclaw.dev"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 00:12:24",
       "https://news.ycombinator.com/item?id=47188014"
     ],
     [
       "LFortran compiles fpm",
       "https://lfortran.org/blog/2026/02/lfortran-compiles-fpm/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 19:09:18",
+      "https://news.ycombinator.com/item?id=47170599"
+    ],
+    [
+      "RCade: Building a Community Arcade Cabinet",
+      "https://www.frankchiarulli.com/blog/building-the-rcade/"
     ]
   ],
   [
