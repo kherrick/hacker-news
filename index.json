@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2026-03-02, 12:56:46",
+      "https://news.ycombinator.com/item?id=47217402"
+    ],
+    [
+      "AMD Am386 released March 2, 1991",
+      "https://dfarq.homeip.net/amd-am386-released-march-2-1991/"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 11:47:44",
       "https://news.ycombinator.com/item?id=47216773"
     ],
     [
       "Show HN: Web Audio Studio – A Visual Debugger for Web Audio API Graphs",
       "https://webaudio.studio/"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 11:22:35",
+      "https://news.ycombinator.com/item?id=47216541"
+    ],
+    [
+      "Libxml2 Enterprise Edition (AGPL, from the previous maintainer)",
+      "https://codeberg.org/nwellnhof/libxml2-ee"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-03-01, 22:18:10",
-      "https://news.ycombinator.com/item?id=47211280"
-    ],
-    [
-      "Little Free Library",
-      "https://littlefreelibrary.org/"
-    ]
-  ],
-  [
-    [
       "2026-03-01, 22:13:58",
       "https://news.ycombinator.com/item?id=47211249"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2026-03-01, 19:25:04",
-      "https://news.ycombinator.com/item?id=47209788"
+      "2026-03-01, 17:11:44",
+      "https://news.ycombinator.com/item?id=47208573"
     ],
     [
-      "Why does C have the best file API",
-      "https://maurycyz.com/misc/c_files/"
+      "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
+      "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Ghostty – Terminal Emulator",
       "https://ghostty.org/docs"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 08:55:52",
-      "https://news.ycombinator.com/item?id=47204964"
-    ],
-    [
-      "Decision trees – the unreasonable power of nested decision rules",
-      "https://mlu-explain.github.io/decision-tree/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-02-27, 08:31:57",
-      "https://news.ycombinator.com/item?id=47178077"
-    ],
-    [
-      "Pluralism and the Modern Poet",
-      "https://www.lrb.co.uk/the-paper/v48/n03/seamus-perry/pluralism-and-the-modern-poet"
-    ]
-  ],
-  [
-    [
       "2026-02-27, 04:38:15",
       "https://news.ycombinator.com/item?id=47176576"
     ],
     [
       "Making Video Games in 2025 (without an engine)",
       "https://www.noelberry.ca/posts/making_games_in_2025/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 16:09:07",
+      "https://news.ycombinator.com/item?id=47167960"
+    ],
+    [
+      "Squidcasa/midipipe: ALSA Sequencer to plain text and back",
+      "https://codeberg.org/squidcasa/midipipe"
     ]
   ],
   [
