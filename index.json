@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-02, 21:09:47",
+      "https://news.ycombinator.com/item?id=47224118"
+    ],
+    [
+      "Welcome (back) to Macintosh",
+      "https://take.surf/2026/03/01/welcome-back-to-macintosh"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 20:50:03",
       "https://news.ycombinator.com/item?id=47223863"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-03-02, 14:41:12",
-      "https://news.ycombinator.com/item?id=47218541"
-    ],
-    [
-      "19th century silent film that first captured a robot attack",
-      "https://www.npr.org/2026/02/28/nx-s1-5730373/georges-melies-robot-film-1897-library-of-congress-gugusse-automate"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 14:24:15",
       "https://news.ycombinator.com/item?id=47218318"
     ],
@@ -187,16 +187,6 @@
     [
       "iPhone 17e",
       "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 13:38:02",
-      "https://news.ycombinator.com/item?id=47217812"
-    ],
-    [
-      "OpenClaw surpasses React to become the most-starred software project on GitHub",
-      "https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2026-02-28, 22:43:40",
+      "https://news.ycombinator.com/item?id=47201158"
+    ],
+    [
+      "Programmable Cryptography",
+      "https://0xparc.org/writings/programmable-cryptography-1"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 12:41:33",
       "https://news.ycombinator.com/item?id=47194630"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=47188014"
     ],
     [
-      "LFortran Compiles Fpm",
+      "LFortran compiles fpm",
       "https://lfortran.org/blog/2026/02/lfortran-compiles-fpm/"
     ]
   ],
