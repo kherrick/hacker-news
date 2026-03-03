@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-03-03, 11:15:57",
+      "https://news.ycombinator.com/item?id=47230847"
+    ],
+    [
+      "What's new in Linux kernel for PostgreSQL",
+      "https://erthalion.info/2026/02/03/new-linux-for-postgresql/"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 10:56:52",
+      "https://news.ycombinator.com/item?id=47230704"
+    ],
+    [
+      "The Xkcd thing, now interactive",
+      "https://editor.p5js.org/isohedral/full/vJa5RiZWs"
+    ]
+  ],
+  [
+    [
       "2026-03-03, 10:49:05",
       "https://news.ycombinator.com/item?id=47230663"
     ],
     [
       "The beauty and terror of modding Windows",
       "https://windowsread.me/p/windhawk-explained"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 10:28:36",
+      "https://news.ycombinator.com/item?id=47230539"
+    ],
+    [
+      "China's 450kmph bullet train is the fastest ever built",
+      "https://www.executivetraveller.com/news/china-cr450-world-s-fastest-bullet-train"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-03-02, 16:00:27",
-      "https://news.ycombinator.com/item?id=47219668"
-    ],
-    [
-      "Ask HN: Who is hiring? (March 2026)",
-      "https://news.ycombinator.com/item?id=47219668"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 14:54:58",
       "https://news.ycombinator.com/item?id=47218743"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-03-01, 12:54:47",
-      "https://news.ycombinator.com/item?id=47206280"
-    ],
-    [
-      "Against Query Based Compilers",
-      "https://matklad.github.io/2026/02/25/against-query-based-compilers.html"
-    ]
-  ],
-  [
-    [
       "2026-03-01, 10:51:46",
       "https://news.ycombinator.com/item?id=47205577"
     ],
@@ -267,16 +277,6 @@
     [
       "We Built a Video Rendering Engine by Lying to the Browser About What Time It Is",
       "https://blog.replit.com/browsers-dont-want-to-be-cameras"
-    ]
-  ],
-  [
-    [
-      "2026-02-28, 22:43:40",
-      "https://news.ycombinator.com/item?id=47201158"
-    ],
-    [
-      "Programmable Cryptography (2024)",
-      "https://0xparc.org/writings/programmable-cryptography-1"
     ]
   ],
   [
