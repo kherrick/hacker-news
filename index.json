@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-03-03, 17:43:27",
-      "https://news.ycombinator.com/item?id=47235943"
+      "2026-03-03, 19:02:14",
+      "https://news.ycombinator.com/item?id=47237088"
     ],
     [
-      "US Stock Market has lost $1 TRILLION in value since open Tuesday",
-      "https://old.reddit.com/r/StockMarket/comments/1rjtww8"
+      "GitHub Is Having Issues",
+      "https://www.githubstatus.com/incidents/n07yy1bk6kc4"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 18:58:33",
+      "https://news.ycombinator.com/item?id=47237018"
+    ],
+    [
+      "Tell HN: GitHub Having Issues",
+      "https://news.ycombinator.com/item?id=47237018"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 18:54:06",
+      "https://news.ycombinator.com/item?id=47236958"
+    ],
+    [
+      "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
+      "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 18:27:26",
+      "https://news.ycombinator.com/item?id=47236582"
+    ],
+    [
+      "Why payment fees matter more than you think",
+      "https://cuencahighlife.com/why-payment-fees-matter-more-than-you-think/"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 17:57:33",
+      "https://news.ycombinator.com/item?id=47236169"
+    ],
+    [
+      "GPT‑5.3 Instant",
+      "https://openai.com/index/gpt-5-3-instant/"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 17:55:49",
+      "https://news.ycombinator.com/item?id=47236147"
+    ],
+    [
+      "Someone Needs to Go to Jail",
+      "https://edwardelson.substack.com/p/someone-needs-to-go-to-jail"
     ]
   ],
   [
@@ -91,6 +141,16 @@
   ],
   [
     [
+      "2026-03-03, 14:00:11",
+      "https://news.ycombinator.com/item?id=47232421"
+    ],
+    [
+      "Apple Studio Display and Studio Display XDR",
+      "https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/"
+    ]
+  ],
+  [
+    [
       "2026-03-03, 13:45:33",
       "https://news.ycombinator.com/item?id=47232224"
     ],
@@ -107,16 +167,6 @@
     [
       "I'm losing the SEO battle for my own open source project",
       "https://twitter.com/Gavriel_Cohen/status/2028821432759717930"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 12:13:40",
-      "https://news.ycombinator.com/item?id=47231261"
-    ],
-    [
-      "India's top court angry after junior judge cites fake AI-generated orders",
-      "https://www.bbc.com/news/articles/c178zzw780xo"
     ]
   ],
   [
@@ -181,42 +231,12 @@
   ],
   [
     [
-      "2026-03-03, 01:12:30",
-      "https://news.ycombinator.com/item?id=47226608"
-    ],
-    [
-      "Ars Technica fires reporter after AI controversy involving fabricated quotes",
-      "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 22:32:35",
       "https://news.ycombinator.com/item?id=47225130"
     ],
     [
       "Meta’s AI smart glasses and data privacy concerns",
       "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 21:23:40",
-      "https://news.ycombinator.com/item?id=47224295"
-    ],
-    [
-      "Show HN: I built a sub-500ms latency voice agent from scratch",
-      "https://www.ntik.me/posts/voice-agent"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 20:30:52",
-      "https://news.ycombinator.com/item?id=47223620"
-    ],
-    [
-      "British Columbia is permanently adopting daylight time",
-      "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657"
     ]
   ],
   [
@@ -231,26 +251,6 @@
   ],
   [
     [
-      "2026-03-02, 12:35:37",
-      "https://news.ycombinator.com/item?id=47217224"
-    ],
-    [
-      "C64: Putting Sprite Multiplexing to Work",
-      "https://bumbershootsoft.wordpress.com/2026/02/28/c64-putting-sprite-multiplexing-to-work/"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 09:47:03",
-      "https://news.ycombinator.com/item?id=47205230"
-    ],
-    [
-      "Computer Says No",
-      "https://koenvangilst.nl/lab/computer-says-no"
-    ]
-  ],
-  [
-    [
       "2026-03-01, 09:21:04",
       "https://news.ycombinator.com/item?id=47205090"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-03-01, 04:50:02",
-      "https://news.ycombinator.com/item?id=47203827"
-    ],
-    [
-      "We Built a Video Rendering Engine by Lying to the Browser About What Time It Is",
-      "https://blog.replit.com/browsers-dont-want-to-be-cameras"
-    ]
-  ],
-  [
-    [
       "2026-03-01, 03:03:46",
       "https://news.ycombinator.com/item?id=47203219"
     ],
     [
       "TorchLean: Formalizing Neural Networks in Lean",
       "https://leandojo.org/torchlean.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 23:55:44",
+      "https://news.ycombinator.com/item?id=47201911"
+    ],
+    [
+      "Show HN: Explain Curl Commands",
+      "https://github.com/akgitrepos/explain-my-curl"
     ]
   ],
   [
