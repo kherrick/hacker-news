@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
+* [2026-03-03, 17:43:27](https://news.ycombinator.com/item?id=47235943) - [US Stock Market has lost $1 TRILLION in value since open Tuesday](https://old.reddit.com/r/StockMarket/comments/1rjtww8)
 * [2026-03-03, 16:57:28](https://news.ycombinator.com/item?id=47235254) - [FCC Chair Wants Networks to Pledge Loyalty for America's Big Bday](https://gizmodo.com/trumps-fcc-chair-wants-networks-to-run-nationalistic-content-and-pledge-loyalty-for-americas-big-bday-2000725152)
 * [2026-03-03, 16:47:15](https://news.ycombinator.com/item?id=47235117) - [Pass-Through of Tariffs: Evidence from European Wine Imports](https://www.nber.org/202603/digest/pass-through-tariffs-evidence-european-wine-imports)
+* [2026-03-03, 16:34:53](https://news.ycombinator.com/item?id=47234917) - [When AI Writes the Software, Who Verifies It?](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
 * [2026-03-03, 15:53:37](https://news.ycombinator.com/item?id=47234227) - [Why No AI Games?](https://franklantz.substack.com/p/why-no-ai-games)
 * [2026-03-03, 15:44:41](https://news.ycombinator.com/item?id=47234093) - [I Used Claude to File My Taxes for Free](https://kachess.dev/taxes/ai/personal-finance/2026/02/27/breaking-up-with-turbotax.html)
 * [2026-03-03, 14:42:30](https://news.ycombinator.com/item?id=47233110) - [My first science video in 3 years (Pysics Girl)](https://www.youtube.com/watch?v=B3m3AMRlYfc)
@@ -29,6 +31,7 @@
 * [2026-03-03, 10:56:52](https://news.ycombinator.com/item?id=47230704) - [The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
 * [2026-03-03, 10:49:05](https://news.ycombinator.com/item?id=47230663) - [The beauty and terror of modding Windows](https://windowsread.me/p/windhawk-explained)
 * [2026-03-03, 10:28:36](https://news.ycombinator.com/item?id=47230539) - [China's 450kmph bullet train is the fastest ever built](https://www.executivetraveller.com/news/china-cr450-world-s-fastest-bullet-train)
+* [2026-03-03, 10:11:44](https://news.ycombinator.com/item?id=47230438) - [Show HN: Open-Source Article 12 Logging Infrastructure for the EU AI Act](https://news.ycombinator.com/item?id=47230438)
 * [2026-03-03, 09:23:42](https://news.ycombinator.com/item?id=47230138) - [Simplifying Application Architecture with Modular Design and MIM](https://codingfox.net.pl/posts/mim/)
 * [2026-03-03, 08:58:30](https://news.ycombinator.com/item?id=47229953) - [Privacy-preserving age and identity verification via anonymous credentials](https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/)
 * [2026-03-03, 08:35:47](https://news.ycombinator.com/item?id=47229781) - [AWS outage due to drone attacks in UAE](https://www.bbc.com/news/articles/cgk28nj0lrjo)
