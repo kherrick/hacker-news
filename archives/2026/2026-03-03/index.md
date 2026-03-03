@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
+* [2026-03-03, 11:15:57](https://news.ycombinator.com/item?id=47230847) - [What's new in Linux kernel for PostgreSQL](https://erthalion.info/2026/02/03/new-linux-for-postgresql/)
+* [2026-03-03, 10:56:52](https://news.ycombinator.com/item?id=47230704) - [The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
 * [2026-03-03, 10:49:05](https://news.ycombinator.com/item?id=47230663) - [The beauty and terror of modding Windows](https://windowsread.me/p/windhawk-explained)
+* [2026-03-03, 10:28:36](https://news.ycombinator.com/item?id=47230539) - [China's 450kmph bullet train is the fastest ever built](https://www.executivetraveller.com/news/china-cr450-world-s-fastest-bullet-train)
 * [2026-03-03, 08:58:30](https://news.ycombinator.com/item?id=47229953) - [Privacy-preserving age and identity verification via anonymous credentials](https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/)
 * [2026-03-03, 08:35:47](https://news.ycombinator.com/item?id=47229781) - [AWS outage due to drone attacks in UAE](https://www.bbc.com/news/articles/cgk28nj0lrjo)
 * [2026-03-03, 07:34:47](https://news.ycombinator.com/item?id=47229344) - [Arm's Cortex X925: Reaching Desktop Performance](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
