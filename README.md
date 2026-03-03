@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-02, 23:05:59](https://news.ycombinator.com/item?id=47225536) - [Microsoft Creative Writer (1993)](https://classicreload.com/play/win3x-creative-writer.html)
 * [2026-03-02, 23:03:59](https://news.ycombinator.com/item?id=47225505) - [Closure of the Weatherradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
 * [2026-03-02, 22:49:47](https://news.ycombinator.com/item?id=47225318) - [Dragon Ball Color Correction Process [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf)
 * [2026-03-02, 22:32:35](https://news.ycombinator.com/item?id=47225130) - [The workers behind Meta's smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
@@ -17,7 +18,6 @@
 * [2026-03-02, 16:00:27](https://news.ycombinator.com/item?id=47219668) - [Ask HN: Who is hiring? (March 2026)](https://news.ycombinator.com/item?id=47219668)
 * [2026-03-02, 16:00:26](https://news.ycombinator.com/item?id=47219667) - [Ask HN: Who wants to be hired? (March 2026)](https://news.ycombinator.com/item?id=47219667)
 * [2026-03-02, 14:54:58](https://news.ycombinator.com/item?id=47218743) - [First in-utero stem cell therapy for fetal spina bifida repair is safe: study](https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02)
-* [2026-03-02, 14:41:12](https://news.ycombinator.com/item?id=47218541) - [19th century silent film that first captured a robot attack](https://www.npr.org/2026/02/28/nx-s1-5730373/georges-melies-robot-film-1897-library-of-congress-gugusse-automate)
 * [2026-03-02, 14:24:15](https://news.ycombinator.com/item?id=47218318) - [Parallel coding agents with tmux and Markdown specs](https://schipper.ai/posts/parallel-coding-agents/)
 * [2026-03-02, 14:11:23](https://news.ycombinator.com/item?id=47218175) - [New iPad Air, powered by M4](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
 * [2026-03-02, 14:03:00](https://news.ycombinator.com/item?id=47218084) - [iPhone 17e](https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/)
@@ -25,7 +25,7 @@
 * [2026-03-02, 06:48:07](https://news.ycombinator.com/item?id=47214645) - [Motorola announces a partnership with GrapheneOS](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 * [2026-03-01, 17:11:44](https://news.ycombinator.com/item?id=47208573) - [Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering](https://maderix.substack.com/p/inside-the-m4-apple-neural-engine)
 * [2026-02-28, 22:43:40](https://news.ycombinator.com/item?id=47201158) - [Programmable Cryptography](https://0xparc.org/writings/programmable-cryptography-1)
-* [2026-02-28, 12:41:33](https://news.ycombinator.com/item?id=47194630) - [Why Objective-C](https://inessential.com/2026/02/27/why-objective-c.html)
+* [2026-02-28, 06:04:05](https://news.ycombinator.com/item?id=47191052) - [Show HN: Visual Lambda Calculus – a thesis project (2008) revived for the web](https://github.com/bntre/visual-lambda)
 * [2026-02-28, 03:48:14](https://news.ycombinator.com/item?id=47190088) - [Build your own Command Line with ANSI escape codes (2016)](https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 * [2026-02-28, 00:12:24](https://news.ycombinator.com/item?id=47188014) - [LFortran compiles fpm](https://lfortran.org/blog/2026/02/lfortran-compiles-fpm/)
 * [2026-02-26, 19:09:18](https://news.ycombinator.com/item?id=47170599) - [RCade: Building a Community Arcade Cabinet](https://www.frankchiarulli.com/blog/building-the-rcade/)

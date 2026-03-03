@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 23:05:59](https://news.ycombinator.com/item?id=47225536) - [Microsoft Creative Writer (1993)](https://classicreload.com/play/win3x-creative-writer.html)
 * [2026-03-02, 23:03:59](https://news.ycombinator.com/item?id=47225505) - [Closure of the Weatherradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
 * [2026-03-02, 22:49:47](https://news.ycombinator.com/item?id=47225318) - [Dragon Ball Color Correction Process [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf)
 * [2026-03-02, 22:32:35](https://news.ycombinator.com/item?id=47225130) - [The workers behind Meta's smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
