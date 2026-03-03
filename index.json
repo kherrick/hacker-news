@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-03, 21:10:27",
+      "https://news.ycombinator.com/item?id=47239042"
+    ],
+    [
+      "Voxile: A ray-traced game made in its own engine and programming language",
+      "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update"
+    ]
+  ],
+  [
+    [
       "2026-03-03, 20:14:18",
       "https://news.ycombinator.com/item?id=47238279"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2026-03-03, 19:01:57",
-      "https://news.ycombinator.com/item?id=47237080"
-    ],
-    [
-      "Iran War Cost Tracker",
-      "https://iran-cost-ticker.com"
-    ]
-  ],
-  [
-    [
       "2026-03-03, 18:54:06",
       "https://news.ycombinator.com/item?id=47236958"
     ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47236582"
     ],
     [
-      "Why payment fees matter more than you think",
+      "Payment fees matter more than you think",
       "https://cuencahighlife.com/why-payment-fees-matter-more-than-you-think/"
     ]
   ],
@@ -87,6 +87,26 @@
     [
       "GPT‑5.3 Instant",
       "https://openai.com/index/gpt-5-3-instant/"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 17:09:15",
+      "https://news.ycombinator.com/item?id=47235430"
+    ],
+    [
+      "Claude is an Electron App because we've lost native",
+      "https://tonsky.me/blog/fall-of-native/"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 16:34:53",
+      "https://news.ycombinator.com/item?id=47234917"
+    ],
+    [
+      "When AI writes the software, who verifies it?",
+      "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-03-03, 10:11:44",
-      "https://news.ycombinator.com/item?id=47230438"
-    ],
-    [
-      "Show HN: Open-Source Article 12 Logging Infrastructure for the EU AI Act",
-      "https://news.ycombinator.com/item?id=47230438"
-    ]
-  ],
-  [
-    [
       "2026-03-03, 09:23:42",
       "https://news.ycombinator.com/item?id=47230138"
     ],
@@ -231,32 +241,22 @@
   ],
   [
     [
-      "2026-03-02, 22:32:35",
-      "https://news.ycombinator.com/item?id=47225130"
-    ],
-    [
-      "Meta’s AI smart glasses and data privacy concerns",
-      "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 17:11:08",
-      "https://news.ycombinator.com/item?id=47220831"
-    ],
-    [
-      "Points on a ring: An interactive walkthrough of a popular math problem",
-      "https://growingswe.com/blog/points-on-ring"
-    ]
-  ],
-  [
-    [
       "2026-03-01, 23:29:40",
       "https://news.ycombinator.com/item?id=47211955"
     ],
     [
       "The Two Kinds of Error",
       "https://evanhahn.com/the-two-kinds-of-error/"
+    ]
+  ],
+  [
+    [
+      "2026-03-01, 05:36:58",
+      "https://news.ycombinator.com/item?id=47204027"
+    ],
+    [
+      "Textadept",
+      "https://orbitalquark.github.io/textadept/"
     ]
   ],
   [
