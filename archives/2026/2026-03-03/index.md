@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
+* [2026-03-03, 20:14:18](https://news.ycombinator.com/item?id=47238279) - [We've freed Cookie's Bustle from copyright hell](https://gamehistory.org/cookies-bustle/)
+* [2026-03-03, 20:12:55](https://news.ycombinator.com/item?id=47238255) - [Show HN: Online OCR Free – Batch OCR UI for Tesseract, Gemini and OpenRouter](https://onlineocrfree.qzz.io)
 * [2026-03-03, 19:47:10](https://news.ycombinator.com/item?id=47237861) - [I Audited the Privacy of Popular Free Dev Tools, the Results Are Terrifying](https://www.toolbox-kit.com/blog/i-audited-popular-dev-tools-privacy-results-are-scary)
 * [2026-03-03, 19:34:37](https://news.ycombinator.com/item?id=47237692) - [A US Government iPhone-Hacking Toolkit Is Now in Foreign Spy and Criminal Hands](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/)
 * [2026-03-03, 19:30:10](https://news.ycombinator.com/item?id=47237592) - [Self-Hosted Software List](https://hostedsoftware.org/)
