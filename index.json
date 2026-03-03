@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-03-03, 04:20:37",
+      "https://news.ycombinator.com/item?id=47227999"
+    ],
+    [
+      "Intent-Based Commits",
+      "https://github.com/adamveld12/ghost"
+    ]
+  ],
+  [
+    [
       "2026-03-03, 03:31:07",
       "https://news.ycombinator.com/item?id=47227647"
     ],
     [
       "Elevated Errors in Claude.ai",
       "https://status.claude.com/incidents/yf48hzysrvl5"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 02:26:44",
-      "https://news.ycombinator.com/item?id=47227171"
-    ],
-    [
-      "Show HN: Giggles – A batteries-included React framework for TUIs",
-      "https://github.com/zion-off/giggles"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47225726"
     ],
     [
-      "How to Build Your Own Quantum Computer",
+      "Physicists developing a quantum computer that’s entirely open source",
       "https://physics.aps.org/articles/v19/24"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47225130"
     ],
     [
-      "A hidden workforce behind Meta’s new smart glasses",
+      "Meta’s AI smart glasses and data privacy concerns",
       "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything"
     ]
   ],
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-03-02, 14:24:15",
-      "https://news.ycombinator.com/item?id=47218318"
-    ],
-    [
-      "Parallel coding agents with tmux and Markdown specs",
-      "https://schipper.ai/posts/parallel-coding-agents/"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 14:11:23",
       "https://news.ycombinator.com/item?id=47218175"
     ],
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2026-03-01, 08:22:05",
+      "https://news.ycombinator.com/item?id=47204784"
+    ],
+    [
+      "Guilty Displeasures",
+      "https://www.hopefulmons.com/p/what-are-your-guilty-displeasures"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 22:43:40",
       "https://news.ycombinator.com/item?id=47201158"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2026-02-28, 17:23:43",
+      "https://news.ycombinator.com/item?id=47197858"
+    ],
+    [
+      "Moldova broke our data pipeline",
+      "https://www.avraam.dev/blog/moldova-broke-our-pipeline"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 06:04:05",
       "https://news.ycombinator.com/item?id=47191052"
     ],
     [
       "Show HN: Visual Lambda Calculus – a thesis project (2008) revived for the web",
       "https://github.com/bntre/visual-lambda"
-    ]
-  ],
-  [
-    [
-      "2026-02-28, 00:12:24",
-      "https://news.ycombinator.com/item?id=47188014"
-    ],
-    [
-      "LFortran compiles fpm",
-      "https://lfortran.org/blog/2026/02/lfortran-compiles-fpm/"
     ]
   ],
   [
