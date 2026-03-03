@@ -129,6 +129,173 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47232903">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=47232903"
+              >Launch HN: Cekura (YC F24) – Testing and monitoring for voice and
+              chat AI agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-03 @ 14:30:58</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47232903"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.cekura.ai">https://www.cekura.ai</a>). We've
+              been running voice agent simulation for 1.5 years, and recently
+              extended the same infrastructure to chat. Teams use Cekura to
+              simulate real user conversations, stress-test prompts and LLM
+              behavior, and catch regressions before they hit production.
+              <p>
+                The core problem: you can't manually QA an AI agent. When you
+                ship a new prompt, swap a model, or add a tool, how do you know
+                the agent still behaves correctly across the thousands of ways
+                users might interact with it? Most teams resort to manual
+                spot-checking (doesn't scale), waiting for users to complain
+                (too late), or brittle scripted tests.
+              </p>
+              <p>
+                Our answer is simulation: synthetic users interact with your
+                agent the way real users do, and LLM-based judges evaluate
+                whether it responded correctly - across the full conversational
+                arc, not just single turns. Three things make this actually
+                work: Scenario generation + real conversation import - Our
+                scenario generation agent bootstraps your test suite from a
+                description of your agent. But real users find paths no
+                generator anticipates, so we also ingest your production
+                conversations and automatically extract test cases from them.
+                Your coverage evolves as your users do.
+              </p>
+              <p>
+                Mock tool platform - Agents call tools. Running simulations
+                against real APIs is slow and flaky. Our mock tool platform lets
+                you define tool schemas, behavior, and return values so
+                simulations exercise tool selection and decision-making without
+                touching production systems.
+              </p>
+              <p>
+                Deterministic, structured test cases - LLMs are stochastic. A CI
+                test that passes "most of the time" is useless. Rather than
+                free-form prompts, our evaluators are defined as structured
+                conditional action trees: explicit conditions that trigger
+                specific responses, with support for fixed messages when
+                word-for-word precision matters. This means the synthetic user
+                behaves consistently across runs - same branching logic, same
+                inputs - so a failure is a real regression, not noise.
+              </p>
+              <p>
+                Cekura also monitors your live agent traffic. The obvious
+                alternative here is a tracing platform like Langfuse or
+                LangSmith - and they're great tools for debugging individual LLM
+                calls. But conversational agents have a different failure mode:
+                the bug isn't in any single turn, it's in how turns relate to
+                each other. Take a verification flow that requires name, date of
+                birth, and phone number before proceeding - if the agent skips
+                asking for DOB and moves on anyway, every individual turn looks
+                fine in isolation. The failure only becomes visible when you
+                evaluate the full session as a unit. Cekura is built around this
+                from the ground up. Where tracing platforms evaluate turn by
+                turn, Cekura evaluates the full session. Imagine a banking agent
+                where the user fails verification in step 1, but the agent
+                hallucinates and proceeds anyway. A turn-based evaluator sees
+                step 3 (address confirmation) and marks it green - the right
+                question was asked. Cekura's judge sees the full transcript and
+                flags the session as failed because verification never
+                succeeded.
+              </p>
+              <p>
+                Try us out at
+                <a href="https://www.cekura.ai">https://www.cekura.ai</a> -
+                7-day free trial, no credit card required. Paid plans from
+                $30/month.
+              </p>
+              <p>
+                We also put together a product video if you'd like to see it in
+                action:
+                <a href="https://www.youtube.com/watch?v=n8FFKv1-nMw"
+                  >https://www.youtube.com/watch?v=n8FFKv1-nMw</a
+                >. The first minute dives into quick onboarding - and if you
+                want to jump straight to the results, skip to 8:40.
+              </p>
+              <p>
+                Curious what the HN community is doing - how are you testing
+                behavioral regressions in your agents? What failure modes have
+                hurt you most? Happy to dig in below!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47232768">
+          <h3>
+            <a
+              class="item"
+              href="https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/"
+              >I'm reluctant to verify my identity or age for any online
+              services</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-03 @ 14:22:25</span
+              ><span class="points-container"
+                >Points: <span class="points">200</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47232768"
+                  >Comments</a
+                ><span class="descendants">: 80</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47232727">
+          <h3>
+            <a
+              class="item"
+              href="https://newsletter.manager.dev/p/dont-become-an-engineering-manager"
+              >Don't Become an Engineering Manager</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-03 @ 14:19:14</span
+              ><span class="points-container"
+                >Points: <span class="points">53</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47232727"
+                  >Comments</a
+                ><span class="descendants">: 38</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47232502">
+          <h3>
+            <a
+              class="item"
+              href="https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/"
+              >Apple introduces the new MacBook Air with M5</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-03 @ 14:04:56</span
+              ><span class="points-container"
+                >Points: <span class="points">93</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47232502"
+                  >Comments</a
+                ><span class="descendants">: 59</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47232453">
           <h3>
             <a
@@ -141,11 +308,55 @@
             <h4>
               <span>2026-03-03 @ 14:02:06</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">250</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47232453"
                   >Comments</a
-                ><span class="descendants">: 176</span></span
+                ><span class="descendants">: 278</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47232421">
+          <h3>
+            <a
+              class="item"
+              href="https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/"
+              >Apple unveils new Studio Display and all-new Studio Display
+              XDR</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-03 @ 14:00:11</span
+              ><span class="points-container"
+                >Points: <span class="points">89</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47232421"
+                  >Comments</a
+                ><span class="descendants">: 74</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47232289">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
+              >AI-generated art can't be copyrighted (Supreme Court declines
+              review)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-03 @ 13:51:34</span
+              ><span class="points-container"
+                >Points: <span class="points">62</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47232289"
+                  >Comments</a
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -161,11 +372,11 @@
             <h4>
               <span>2026-03-03 @ 13:45:33</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47232224"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -182,32 +393,11 @@
             <h4>
               <span>2026-03-03 @ 13:39:38</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47232158"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47231824">
-          <h3>
-            <a
-              class="item"
-              href="https://eversole.dev/blog/we-automated-everything/"
-              >We Automated Everything Except Knowing What's Going On</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-03 @ 13:14:20</span
-              ><span class="points-container"
-                >Points: <span class="points">46</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47231824"
-                  >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -225,11 +415,11 @@
             <h4>
               <span>2026-03-03 @ 12:13:40</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">230</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47231261"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -244,11 +434,11 @@
             <h4>
               <span>2026-03-03 @ 12:09:59</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47231242"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
@@ -266,11 +456,11 @@
             <h4>
               <span>2026-03-03 @ 10:57:42</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47230710"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -287,11 +477,11 @@
             <h4>
               <span>2026-03-03 @ 10:56:52</span
               ><span class="points-container"
-                >Points: <span class="points">513</span></span
+                >Points: <span class="points">627</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47230704"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -306,11 +496,11 @@
             <h4>
               <span>2026-03-03 @ 10:49:05</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47230663"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -328,11 +518,11 @@
             <h4>
               <span>2026-03-03 @ 08:58:30</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47229953"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -349,11 +539,11 @@
             <h4>
               <span>2026-03-03 @ 07:34:47</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47229344"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 93</span></span
               >
             </h4>
           </section>
@@ -370,32 +560,11 @@
             <h4>
               <span>2026-03-03 @ 07:06:22</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47229119"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47228639">
-          <h3>
-            <a
-              class="item"
-              href="https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies"
-              >Buckle Up for Bumpier Skies</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-03 @ 05:51:02</span
-              ><span class="points-container"
-                >Points: <span class="points">69</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47228639"
-                  >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -413,11 +582,11 @@
             <h4>
               <span>2026-03-03 @ 01:12:30</span
               ><span class="points-container"
-                >Points: <span class="points">447</span></span
+                >Points: <span class="points">473</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47226608"
                   >Comments</a
-                ><span class="descendants">: 276</span></span
+                ><span class="descendants">: 289</span></span
               >
             </h4>
           </section>
@@ -433,11 +602,11 @@
             <h4>
               <span>2026-03-02 @ 23:22:50</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47225726"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -454,11 +623,11 @@
             <h4>
               <span>2026-03-02 @ 22:32:35</span
               ><span class="points-container"
-                >Points: <span class="points">1236</span></span
+                >Points: <span class="points">1263</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47225130"
                   >Comments</a
-                ><span class="descendants">: 713</span></span
+                ><span class="descendants">: 720</span></span
               >
             </h4>
           </section>
@@ -473,11 +642,11 @@
             <h4>
               <span>2026-03-02 @ 21:23:40</span
               ><span class="points-container"
-                >Points: <span class="points">493</span></span
+                >Points: <span class="points">502</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47224295"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
             <div class="text">
@@ -530,11 +699,11 @@
             <h4>
               <span>2026-03-02 @ 20:30:52</span
               ><span class="points-container"
-                >Points: <span class="points">972</span></span
+                >Points: <span class="points">1001</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47223620"
                   >Comments</a
-                ><span class="descendants">: 476</span></span
+                ><span class="descendants">: 484</span></span
               >
             </h4>
           </section>
@@ -552,32 +721,11 @@
             <h4>
               <span>2026-03-02 @ 14:54:58</span
               ><span class="points-container"
-                >Points: <span class="points">330</span></span
+                >Points: <span class="points">333</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47218743"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47218175">
-          <h3>
-            <a
-              class="item"
-              href="https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/"
-              >New iPad Air, powered by M4</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-02 @ 14:11:23</span
-              ><span class="points-container"
-                >Points: <span class="points">426</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47218175"
-                  >Comments</a
-                ><span class="descendants">: 660</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -594,53 +742,11 @@
             <h4>
               <span>2026-03-02 @ 12:35:37</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47217224"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47214645">
-          <h3>
-            <a
-              class="item"
-              href="https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/"
-              >Motorola announces a partnership with GrapheneOS</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-02 @ 06:48:07</span
-              ><span class="points-container"
-                >Points: <span class="points">2260</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47214645"
-                  >Comments</a
-                ><span class="descendants">: 818</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47210162">
-          <h3>
-            <a
-              class="item"
-              href="https://gvanrossum.github.io/interviews/Thomas.html"
-              >Guido van Rossum Interviews Thomas Wouters (Python Core Dev)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-01 @ 20:06:08</span
-              ><span class="points-container"
-                >Points: <span class="points">76</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47210162"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -655,32 +761,11 @@
             <h4>
               <span>2026-03-01 @ 09:47:03</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47205230"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47204784">
-          <h3>
-            <a
-              class="item"
-              href="https://www.hopefulmons.com/p/what-are-your-guilty-displeasures"
-              >Guilty Displeasures</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-01 @ 08:22:05</span
-              ><span class="points-container"
-                >Points: <span class="points">99</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47204784"
-                  >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -698,11 +783,11 @@
             <h4>
               <span>2026-03-01 @ 04:50:02</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47203827"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -717,7 +802,7 @@
             <h4>
               <span>2026-02-28 @ 22:41:33</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47201132"
                   >Comments</a
@@ -738,7 +823,7 @@
             <h4>
               <span>2026-02-28 @ 16:00:48</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47196864"
                   >Comments</a
@@ -759,11 +844,11 @@
             <h4>
               <span>2026-02-28 @ 14:00:16</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47195476"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -779,11 +864,11 @@
             <h4>
               <span>2026-02-27 @ 18:22:50</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47183704"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
