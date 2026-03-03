@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-03, 16:57:28",
+      "https://news.ycombinator.com/item?id=47235254"
+    ],
+    [
+      "FCC Chair Wants Networks to Pledge Loyalty for America's Big Bday",
+      "https://gizmodo.com/trumps-fcc-chair-wants-networks-to-run-nationalistic-content-and-pledge-loyalty-for-americas-big-bday-2000725152"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 16:47:15",
+      "https://news.ycombinator.com/item?id=47235117"
+    ],
+    [
+      "Pass-Through of Tariffs: Evidence from European Wine Imports",
+      "https://www.nber.org/202603/digest/pass-through-tariffs-evidence-european-wine-imports"
+    ]
+  ],
+  [
+    [
       "2026-03-03, 15:53:37",
       "https://news.ycombinator.com/item?id=47234227"
     ],
@@ -11,32 +31,12 @@
   ],
   [
     [
-      "2026-03-03, 15:44:41",
-      "https://news.ycombinator.com/item?id=47234093"
-    ],
-    [
-      "I Used Claude to File My Taxes for Free",
-      "https://kachess.dev/taxes/ai/personal-finance/2026/02/27/breaking-up-with-turbotax.html"
-    ]
-  ],
-  [
-    [
       "2026-03-03, 14:42:30",
       "https://news.ycombinator.com/item?id=47233110"
     ],
     [
-      "My first science video in 3 years (Pysics Girl)",
+      "Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]",
       "https://www.youtube.com/watch?v=B3m3AMRlYfc"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 14:39:22",
-      "https://news.ycombinator.com/item?id=47233044"
-    ],
-    [
-      "Florida public universities to pause hiring new H-1B workers",
-      "https://www.wusf.org/education/2026-03-03/hiring-h1b-workers-florida-public-universities-pause-end-of-year"
     ]
   ],
   [
@@ -65,18 +65,8 @@
       "https://news.ycombinator.com/item?id=47232727"
     ],
     [
-      "Don't Become an Engineering Manager",
+      "Don't become an engineering manager",
       "https://newsletter.manager.dev/p/dont-become-an-engineering-manager"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 14:04:56",
-      "https://news.ycombinator.com/item?id=47232502"
-    ],
-    [
-      "Apple introduces the new MacBook Air with M5",
-      "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/"
     ]
   ],
   [
@@ -131,21 +121,11 @@
   ],
   [
     [
-      "2026-03-03, 12:09:59",
-      "https://news.ycombinator.com/item?id=47231242"
-    ],
-    [
-      "Mullvad VPN: Banned TV Ad in the Streets of London [video]",
-      "https://www.youtube.com/watch?v=rwhznrpgl7k"
-    ]
-  ],
-  [
-    [
       "2026-03-03, 10:57:42",
       "https://news.ycombinator.com/item?id=47230710"
     ],
     [
-      "Claude's Cycles: Claude Opus 4.6 solves a problem posed by Don Knuth [pdf]",
+      "Claude's Cycles [pdf]",
       "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf"
     ]
   ],
@@ -157,6 +137,16 @@
     [
       "The Xkcd thing, now interactive",
       "https://editor.p5js.org/isohedral/full/vJa5RiZWs"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 09:23:42",
+      "https://news.ycombinator.com/item?id=47230138"
+    ],
+    [
+      "Simplifying Application Architecture with Modular Design and MIM",
+      "https://codingfox.net.pl/posts/mim/"
     ]
   ],
   [
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2026-03-01, 07:36:33",
-      "https://news.ycombinator.com/item?id=47204570"
-    ],
-    [
-      "Show HN: React-Kino – Cinematic scroll storytelling for React (1KB core)",
-      "https://github.com/btahir/react-kino"
-    ]
-  ],
-  [
-    [
       "2026-03-01, 04:50:02",
       "https://news.ycombinator.com/item?id=47203827"
     ],
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2026-03-01, 03:03:46",
+      "https://news.ycombinator.com/item?id=47203219"
+    ],
+    [
+      "TorchLean: Formalizing Neural Networks in Lean",
+      "https://leandojo.org/torchlean.html"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 22:41:33",
       "https://news.ycombinator.com/item?id=47201132"
     ],
     [
       "Simple screw counter",
       "https://mitxela.com/projects/screwcounter"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 16:00:48",
+      "https://news.ycombinator.com/item?id=47196864"
+    ],
+    [
+      "DOS Memory Management",
+      "https://www.os2museum.com/wp/dos-memory-management/"
     ]
   ],
   [
