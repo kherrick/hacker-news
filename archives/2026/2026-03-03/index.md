@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
+* [2026-03-03, 21:10:27](https://news.ycombinator.com/item?id=47239042) - [Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update)
 * [2026-03-03, 20:14:18](https://news.ycombinator.com/item?id=47238279) - [We've freed Cookie's Bustle from copyright hell](https://gamehistory.org/cookies-bustle/)
 * [2026-03-03, 20:12:55](https://news.ycombinator.com/item?id=47238255) - [Show HN: Online OCR Free – Batch OCR UI for Tesseract, Gemini and OpenRouter](https://onlineocrfree.qzz.io)
 * [2026-03-03, 19:47:10](https://news.ycombinator.com/item?id=47237861) - [I Audited the Privacy of Popular Free Dev Tools, the Results Are Terrifying](https://www.toolbox-kit.com/blog/i-audited-popular-dev-tools-privacy-results-are-scary)
@@ -20,6 +21,7 @@
 * [2026-03-03, 17:57:33](https://news.ycombinator.com/item?id=47236169) - [GPT‑5.3 Instant](https://openai.com/index/gpt-5-3-instant/)
 * [2026-03-03, 17:55:49](https://news.ycombinator.com/item?id=47236147) - [Someone Needs to Go to Jail](https://edwardelson.substack.com/p/someone-needs-to-go-to-jail)
 * [2026-03-03, 17:43:27](https://news.ycombinator.com/item?id=47235943) - [US Stock Market has lost $1 TRILLION in value since open Tuesday](https://old.reddit.com/r/StockMarket/comments/1rjtww8)
+* [2026-03-03, 17:09:15](https://news.ycombinator.com/item?id=47235430) - [Claude is an Electron App because we've lost native](https://tonsky.me/blog/fall-of-native/)
 * [2026-03-03, 16:57:28](https://news.ycombinator.com/item?id=47235254) - [FCC Chair Wants Networks to Pledge Loyalty for America's Big Bday](https://gizmodo.com/trumps-fcc-chair-wants-networks-to-run-nationalistic-content-and-pledge-loyalty-for-americas-big-bday-2000725152)
 * [2026-03-03, 16:47:15](https://news.ycombinator.com/item?id=47235117) - [Pass-Through of Tariffs: Evidence from European Wine Imports](https://www.nber.org/202603/digest/pass-through-tariffs-evidence-european-wine-imports)
 * [2026-03-03, 16:34:53](https://news.ycombinator.com/item?id=47234917) - [When AI Writes the Software, Who Verifies It?](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)

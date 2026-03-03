@@ -57,6 +57,7 @@
 * [2026-03-01, 07:36:52](https://news.ycombinator.com/item?id=47204571) - [Switch to Claude Without Starting Over](https://claude.com/import-memory)
 * [2026-03-01, 07:36:33](https://news.ycombinator.com/item?id=47204570) - [Show HN: React-Kino – Cinematic scroll storytelling for React (1KB core)](https://github.com/btahir/react-kino)
 * [2026-03-01, 07:35:03](https://news.ycombinator.com/item?id=47204559) - [10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org)
+* [2026-03-01, 05:36:58](https://news.ycombinator.com/item?id=47204027) - [Textadept](https://orbitalquark.github.io/textadept/)
 * [2026-03-01, 04:50:02](https://news.ycombinator.com/item?id=47203827) - [We Built a Video Rendering Engine by Lying to the Browser About What Time It Is](https://blog.replit.com/browsers-dont-want-to-be-cameras)
 * [2026-03-01, 03:55:49](https://news.ycombinator.com/item?id=47203527) - [Plugtest](https://en.wikipedia.org/wiki/Plugtest)
 * [2026-03-01, 03:03:46](https://news.ycombinator.com/item?id=47203219) - [TorchLean: Formalizing Neural Networks in Lean](https://leandojo.org/torchlean.html)
