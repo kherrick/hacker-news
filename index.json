@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-03-03, 16:57:28",
-      "https://news.ycombinator.com/item?id=47235254"
+      "2026-03-03, 17:43:27",
+      "https://news.ycombinator.com/item?id=47235943"
     ],
     [
-      "FCC Chair Wants Networks to Pledge Loyalty for America's Big Bday",
-      "https://gizmodo.com/trumps-fcc-chair-wants-networks-to-run-nationalistic-content-and-pledge-loyalty-for-americas-big-bday-2000725152"
+      "US Stock Market has lost $1 TRILLION in value since open Tuesday",
+      "https://old.reddit.com/r/StockMarket/comments/1rjtww8"
     ]
   ],
   [
@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2026-03-03, 15:53:37",
-      "https://news.ycombinator.com/item?id=47234227"
+      "2026-03-03, 16:34:53",
+      "https://news.ycombinator.com/item?id=47234917"
     ],
     [
-      "Why No AI Games?",
-      "https://franklantz.substack.com/p/why-no-ai-games"
+      "When AI Writes the Software, Who Verifies It?",
+      "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html"
     ]
   ],
   [
@@ -71,22 +71,22 @@
   ],
   [
     [
-      "2026-03-03, 14:02:06",
-      "https://news.ycombinator.com/item?id=47232453"
+      "2026-03-03, 14:04:56",
+      "https://news.ycombinator.com/item?id=47232502"
     ],
     [
-      "Apple Introduces MacBook Pro with All‑New M5 Pro and M5 Max",
-      "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/"
+      "MacBook Air with M5",
+      "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/"
     ]
   ],
   [
     [
-      "2026-03-03, 14:00:11",
-      "https://news.ycombinator.com/item?id=47232421"
+      "2026-03-03, 14:02:06",
+      "https://news.ycombinator.com/item?id=47232453"
     ],
     [
-      "Apple unveils new Studio Display and all-new Studio Display XDR",
-      "https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/"
+      "MacBook Pro with new M5 Pro and M5 Max",
+      "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=47232224"
     ],
     [
-      "The Internet's Top Tech Publications Lost 58% of Their Google Traffic Since 2024",
+      "Most-read tech publications have lost over half their Google traffic since 2024",
       "https://growtika.com/blog/tech-media-collapse"
     ]
   ],
@@ -141,6 +141,26 @@
   ],
   [
     [
+      "2026-03-03, 10:49:05",
+      "https://news.ycombinator.com/item?id=47230663"
+    ],
+    [
+      "The beauty and terror of modding Windows",
+      "https://windowsread.me/p/windhawk-explained"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 10:11:44",
+      "https://news.ycombinator.com/item?id=47230438"
+    ],
+    [
+      "Show HN: Open-Source Article 12 Logging Infrastructure for the EU AI Act",
+      "https://news.ycombinator.com/item?id=47230438"
+    ]
+  ],
+  [
+    [
       "2026-03-03, 09:23:42",
       "https://news.ycombinator.com/item?id=47230138"
     ],
@@ -157,16 +177,6 @@
     [
       "Arm's Cortex X925: Reaching Desktop Performance",
       "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 07:06:22",
-      "https://news.ycombinator.com/item?id=47229119"
-    ],
-    [
-      "I built a pint-sized Macintosh",
-      "https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2026-03-01, 09:21:04",
+      "https://news.ycombinator.com/item?id=47205090"
+    ],
+    [
+      "Show HN: Effective Git",
+      "https://github.com/nolasoft/okgit"
+    ]
+  ],
+  [
+    [
       "2026-03-01, 04:50:02",
       "https://news.ycombinator.com/item?id=47203827"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-02-28, 16:00:48",
-      "https://news.ycombinator.com/item?id=47196864"
-    ],
-    [
-      "DOS Memory Management",
-      "https://www.os2museum.com/wp/dos-memory-management/"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 05:18:22",
       "https://news.ycombinator.com/item?id=47190782"
     ],
     [
       "Disable Your SSH access accidentally with scp",
       "https://sny.sh/hypha/blog/scp"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 18:22:50",
-      "https://news.ycombinator.com/item?id=47183704"
-    ],
-    [
-      "History of the Graphical User Interface: The Rise (and Fall?) Of WIMP Design",
-      "https://www.uxtigers.com/post/gui-history"
     ]
   ]
 ]
