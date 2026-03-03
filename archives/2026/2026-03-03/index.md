@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
+* [2026-03-03, 23:11:11](https://news.ycombinator.com/item?id=47240441) - [Talos: Hardware accelerator for deep convolutional neural networks](https://talos.wtf/)
+* [2026-03-03, 22:49:54](https://news.ycombinator.com/item?id=47240212) - [Helsinki just went a full year without a single traffic death](https://www.politico.eu/article/helsinki-no-traffic-death-roads-eu-accident-finland-driving-transport/)
 * [2026-03-03, 22:24:06](https://news.ycombinator.com/item?id=47239943) - [Don't Make Me Talk to Your Chatbot](https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/)
 * [2026-03-03, 22:15:49](https://news.ycombinator.com/item?id=47239850) - [Rubio to World: Stop Doing the Exact Same Thing the US Just Did](https://www.techdirt.com/2026/03/03/rubio-to-world-stop-doing-the-exact-same-thing-the-us-just-did/)
 * [2026-03-03, 22:09:18](https://news.ycombinator.com/item?id=47239768) - [OpenAI CEO Sam Altman Defends Pentagon Work to Staff](https://www.wsj.com/tech/ai/openai-ceo-altman-defends-pentagon-work-to-staff-calls-backlash-really-painful-76d769ec)
