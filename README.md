@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-03, 10:49:05](https://news.ycombinator.com/item?id=47230663) - [The beauty and terror of modding Windows](https://windowsread.me/p/windhawk-explained)
 * [2026-03-03, 08:58:30](https://news.ycombinator.com/item?id=47229953) - [Privacy-preserving age and identity verification via anonymous credentials](https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/)
 * [2026-03-03, 08:35:47](https://news.ycombinator.com/item?id=47229781) - [AWS outage due to drone attacks in UAE](https://www.bbc.com/news/articles/cgk28nj0lrjo)
 * [2026-03-03, 07:34:47](https://news.ycombinator.com/item?id=47229344) - [Arm's Cortex X925: Reaching Desktop Performance](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
@@ -18,6 +19,7 @@
 * [2026-03-02, 14:54:58](https://news.ycombinator.com/item?id=47218743) - [First in-utero stem cell therapy for fetal spina bifida repair is safe: study](https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02)
 * [2026-03-02, 14:11:23](https://news.ycombinator.com/item?id=47218175) - [New iPad Air, powered by M4](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
 * [2026-03-02, 14:03:00](https://news.ycombinator.com/item?id=47218084) - [iPhone 17e](https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/)
+* [2026-03-02, 12:35:37](https://news.ycombinator.com/item?id=47217224) - [C64: Putting Sprite Multiplexing to Work](https://bumbershootsoft.wordpress.com/2026/02/28/c64-putting-sprite-multiplexing-to-work/)
 * [2026-03-02, 06:48:07](https://news.ycombinator.com/item?id=47214645) - [Motorola announces a partnership with GrapheneOS](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 * [2026-03-01, 20:06:08](https://news.ycombinator.com/item?id=47210162) - [Guido van Rossum Interviews Thomas Wouters (Python Core Dev)](https://gvanrossum.github.io/interviews/Thomas.html)
 * [2026-03-01, 17:11:44](https://news.ycombinator.com/item?id=47208573) - [Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering](https://maderix.substack.com/p/inside-the-m4-apple-neural-engine)
@@ -25,11 +27,9 @@
 * [2026-03-01, 10:51:46](https://news.ycombinator.com/item?id=47205577) - [The Cathode Ray Tube site](https://www.crtsite.com/didactic-crt.html)
 * [2026-03-01, 08:22:05](https://news.ycombinator.com/item?id=47204784) - [Guilty Displeasures](https://www.hopefulmons.com/p/what-are-your-guilty-displeasures)
 * [2026-03-01, 04:50:02](https://news.ycombinator.com/item?id=47203827) - [We Built a Video Rendering Engine by Lying to the Browser About What Time It Is](https://blog.replit.com/browsers-dont-want-to-be-cameras)
-* [2026-03-01, 03:55:49](https://news.ycombinator.com/item?id=47203527) - [Plugtest](https://en.wikipedia.org/wiki/Plugtest)
 * [2026-02-28, 22:43:40](https://news.ycombinator.com/item?id=47201158) - [Programmable Cryptography (2024)](https://0xparc.org/writings/programmable-cryptography-1)
 * [2026-02-28, 22:41:33](https://news.ycombinator.com/item?id=47201132) - [Simple screw counter](https://mitxela.com/projects/screwcounter)
 * [2026-02-28, 16:00:48](https://news.ycombinator.com/item?id=47196864) - [DOS Memory Management](https://www.os2museum.com/wp/dos-memory-management/)
-* [2026-02-26, 19:09:18](https://news.ycombinator.com/item?id=47170599) - [RCade: Building a Community Arcade Cabinet](https://www.frankchiarulli.com/blog/building-the-rcade/)
 
 ## [Archives](archives/index.md)
 
