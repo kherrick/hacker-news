@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
+* [2026-03-03, 14:02:06](https://news.ycombinator.com/item?id=47232453) - [Apple Introduces MacBook Pro with All‑New M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/)
+* [2026-03-03, 13:45:33](https://news.ycombinator.com/item?id=47232224) - [The Internet's Top Tech Publications Lost 58% of Their Google Traffic Since 2024](https://growtika.com/blog/tech-media-collapse)
+* [2026-03-03, 13:39:38](https://news.ycombinator.com/item?id=47232158) - [I'm losing the SEO battle for my own open source project](https://twitter.com/Gavriel_Cohen/status/2028821432759717930)
+* [2026-03-03, 13:14:20](https://news.ycombinator.com/item?id=47231824) - [We Automated Everything Except Knowing What's Going On](https://eversole.dev/blog/we-automated-everything/)
 * [2026-03-03, 12:45:13](https://news.ycombinator.com/item?id=47231503) - [Porn depicting sex between step-relatives set to be banned in the UK](https://www.lbc.co.uk/article/pornography-sexual-relationships-step-relatives-5HjdTkd_2/)
 * [2026-03-03, 12:41:17](https://news.ycombinator.com/item?id=47231469) - [Stolen Gemini API key racks up $82,000 in 48 hours](https://llmhorrors.com/all/gemini-stolen-api-key-82k/)
 * [2026-03-03, 12:13:40](https://news.ycombinator.com/item?id=47231261) - [India's top court angry after junior judge cites fake AI-generated orders](https://www.bbc.com/news/articles/c178zzw780xo)
 * [2026-03-03, 12:09:59](https://news.ycombinator.com/item?id=47231242) - [Mullvad VPN: Banned TV Ad in the Streets of London [video]](https://www.youtube.com/watch?v=rwhznrpgl7k)
 * [2026-03-03, 11:15:57](https://news.ycombinator.com/item?id=47230847) - [What's new in Linux kernel for PostgreSQL](https://erthalion.info/2026/02/03/new-linux-for-postgresql/)
+* [2026-03-03, 10:57:42](https://news.ycombinator.com/item?id=47230710) - [Claude's Cycles: Claude Opus 4.6 solves a problem posed by Don Knuth [pdf]](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
 * [2026-03-03, 10:56:52](https://news.ycombinator.com/item?id=47230704) - [The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
 * [2026-03-03, 10:49:05](https://news.ycombinator.com/item?id=47230663) - [The beauty and terror of modding Windows](https://windowsread.me/p/windhawk-explained)
 * [2026-03-03, 10:28:36](https://news.ycombinator.com/item?id=47230539) - [China's 450kmph bullet train is the fastest ever built](https://www.executivetraveller.com/news/china-cr450-world-s-fastest-bullet-train)

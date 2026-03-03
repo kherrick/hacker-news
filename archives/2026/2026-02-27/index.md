@@ -23,6 +23,7 @@
 * [2026-02-27, 18:37:53](https://news.ycombinator.com/item?id=47183907) - [Kyber (YC W23) Is Hiring an Enterprise Account Executive](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae)
 * [2026-02-27, 18:29:37](https://news.ycombinator.com/item?id=47183793) - [Neural Guitar Pedal – Optimizing NAM for Daisy Seed Arm Cortex-M7](https://www.tone3000.com/blog/running-nam-on-embedded-hardware)
 * [2026-02-27, 18:24:09](https://news.ycombinator.com/item?id=47183725) - [Writing a Guide to SDF Fonts](https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/)
+* [2026-02-27, 18:22:50](https://news.ycombinator.com/item?id=47183704) - [History of the Graphical User Interface: The Rise (and Fall?) Of WIMP Design](https://www.uxtigers.com/post/gui-history)
 * [2026-02-27, 18:18:58](https://news.ycombinator.com/item?id=47183660) - [Block spent $68M on a single party in September 2025](https://twitter.com/BullTheoryio/status/2027250361816486085)
 * [2026-02-27, 18:13:39](https://news.ycombinator.com/item?id=47183578) - [Dan Simmons, author of Hyperion, has died](https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871)
 * [2026-02-27, 18:13:39](https://news.ycombinator.com/item?id=47183578) - [Dan Simmons, author of Hyperion, Song of Kali, dead at 77](https://en.wikipedia.org/wiki/Dan_Simmons)
