@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-03-03, 05:51:02",
+      "https://news.ycombinator.com/item?id=47228639"
+    ],
+    [
+      "Buckle Up for Bumpier Skies",
+      "https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies"
+    ]
+  ],
+  [
+    [
       "2026-03-03, 05:18:24",
       "https://news.ycombinator.com/item?id=47228390"
     ],
     [
-      "I've been running GrapheneOS on my Pixel Fold for over half a year",
+      "Daily Driving GrapheneOS",
       "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/"
     ]
   ],
@@ -17,6 +27,16 @@
     [
       "Intent-Based Commits",
       "https://github.com/adamveld12/ghost"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 03:31:07",
+      "https://news.ycombinator.com/item?id=47227647"
+    ],
+    [
+      "Elevated Errors in Claude.ai",
+      "https://status.claude.com/incidents/yf48hzysrvl5"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2026-03-02, 21:09:47",
-      "https://news.ycombinator.com/item?id=47224118"
-    ],
-    [
-      "Welcome (back) to Macintosh",
-      "https://take.surf/2026/03/01/welcome-back-to-macintosh"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 20:30:52",
       "https://news.ycombinator.com/item?id=47223620"
     ],
@@ -117,16 +127,6 @@
     [
       "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
       "https://govbase.com"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 17:01:20",
-      "https://news.ycombinator.com/item?id=47220666"
-    ],
-    [
-      "Reflex (YC W23) Is Hiring Software Engineers – Python",
-      "https://www.ycombinator.com/companies/reflex/jobs"
     ]
   ],
   [
@@ -151,32 +151,12 @@
   ],
   [
     [
-      "2026-03-02, 16:00:26",
-      "https://news.ycombinator.com/item?id=47219667"
-    ],
-    [
-      "Ask HN: Who wants to be hired? (March 2026)",
-      "https://news.ycombinator.com/item?id=47219667"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 14:54:58",
       "https://news.ycombinator.com/item?id=47218743"
     ],
     [
       "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
       "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 14:24:15",
-      "https://news.ycombinator.com/item?id=47218318"
-    ],
-    [
-      "Parallel coding agents with tmux and Markdown specs",
-      "https://schipper.ai/posts/parallel-coding-agents/"
     ]
   ],
   [
@@ -207,6 +187,16 @@
     [
       "Motorola announces a partnership with GrapheneOS",
       "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-03-01, 20:06:08",
+      "https://news.ycombinator.com/item?id=47210162"
+    ],
+    [
+      "Guido van Rossum Interviews Thomas Wouters (Python Core Dev)",
+      "https://gvanrossum.github.io/interviews/Thomas.html"
     ]
   ],
   [
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2026-02-28, 06:04:05",
-      "https://news.ycombinator.com/item?id=47191052"
+      "2026-02-28, 16:00:48",
+      "https://news.ycombinator.com/item?id=47196864"
     ],
     [
-      "Show HN: Visual Lambda Calculus – a thesis project (2008) revived for the web",
-      "https://github.com/bntre/visual-lambda"
+      "DOS Memory Management",
+      "https://www.os2museum.com/wp/dos-memory-management/"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 14:44:23",
+      "https://news.ycombinator.com/item?id=47195936"
+    ],
+    [
+      "I built an RGB controller with Arduino",
+      "https://svana.name/2026/02/i-built-an-rgb-controller-with-arduino/"
     ]
   ],
   [
