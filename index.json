@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-03, 19:47:10",
+      "https://news.ycombinator.com/item?id=47237861"
+    ],
+    [
+      "I Audited the Privacy of Popular Free Dev Tools, the Results Are Terrifying",
+      "https://www.toolbox-kit.com/blog/i-audited-popular-dev-tools-privacy-results-are-scary"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 19:30:10",
+      "https://news.ycombinator.com/item?id=47237592"
+    ],
+    [
+      "Self-Hosted Software List",
+      "https://hostedsoftware.org/"
+    ]
+  ],
+  [
+    [
       "2026-03-03, 19:02:14",
       "https://news.ycombinator.com/item?id=47237088"
     ],
@@ -21,22 +41,22 @@
   ],
   [
     [
-      "2026-03-03, 18:58:33",
-      "https://news.ycombinator.com/item?id=47237018"
-    ],
-    [
-      "Tell HN: GitHub Having Issues",
-      "https://news.ycombinator.com/item?id=47237018"
-    ]
-  ],
-  [
-    [
       "2026-03-03, 18:54:06",
       "https://news.ycombinator.com/item?id=47236958"
     ],
     [
       "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
       "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 18:48:29",
+      "https://news.ycombinator.com/item?id=47236893"
+    ],
+    [
+      "I Built a Spy Satellite Simulator in a Browser. Here's What I Learned",
+      "https://www.spatialintelligence.ai/p/i-built-a-spy-satellite-simulator"
     ]
   ],
   [
@@ -57,26 +77,6 @@
     [
       "GPT‑5.3 Instant",
       "https://openai.com/index/gpt-5-3-instant/"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 16:47:15",
-      "https://news.ycombinator.com/item?id=47235117"
-    ],
-    [
-      "Pass-Through of Tariffs: Evidence from European Wine Imports",
-      "https://www.nber.org/202603/digest/pass-through-tariffs-evidence-european-wine-imports"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 16:34:53",
-      "https://news.ycombinator.com/item?id=47234917"
-    ],
-    [
-      "When AI writes the software, who verifies it?",
-      "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2026-03-01, 23:29:40",
+      "https://news.ycombinator.com/item?id=47211955"
+    ],
+    [
+      "The Two Kinds of Error",
+      "https://evanhahn.com/the-two-kinds-of-error/"
+    ]
+  ],
+  [
+    [
       "2026-03-01, 09:47:03",
       "https://news.ycombinator.com/item?id=47205230"
     ],
     [
       "Computer Says No",
       "https://koenvangilst.nl/lab/computer-says-no"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 09:21:04",
-      "https://news.ycombinator.com/item?id=47205090"
-    ],
-    [
-      "Show HN: Effective Git",
-      "https://github.com/nolasoft/okgit"
     ]
   ],
   [
