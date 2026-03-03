@@ -45,6 +45,7 @@
 * [2026-03-01, 11:05:28](https://news.ycombinator.com/item?id=47205659) - [Show HN: Vertex.js – A 1kloc SPA Framework](https://lukeb42.github.io/vertex-manual.html)
 * [2026-03-01, 11:01:17](https://news.ycombinator.com/item?id=47205637) - [Flightradar24 for Ships](https://atlas.flexport.com/)
 * [2026-03-01, 10:51:46](https://news.ycombinator.com/item?id=47205577) - [The Cathode Ray Tube site](https://www.crtsite.com/didactic-crt.html)
+* [2026-03-01, 09:47:03](https://news.ycombinator.com/item?id=47205230) - [Computer Says No](https://koenvangilst.nl/lab/computer-says-no)
 * [2026-03-01, 09:43:43](https://news.ycombinator.com/item?id=47205208) - [Microgpt explained interactively](https://growingswe.com/blog/microgpt)
 * [2026-03-01, 09:27:34](https://news.ycombinator.com/item?id=47205129) - [Why is the first C++ (m)allocation always 72 KB?](https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/)
 * [2026-03-01, 09:26:59](https://news.ycombinator.com/item?id=47205127) - [Show HN: Terminal-Style Portfolio on the Internet](https://kuber.studio/)

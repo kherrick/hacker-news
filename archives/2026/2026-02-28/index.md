@@ -36,6 +36,7 @@
 * [2026-02-28, 14:44:23](https://news.ycombinator.com/item?id=47195936) - [I built an RGB controller with Arduino](https://svana.name/2026/02/i-built-an-rgb-controller-with-arduino/)
 * [2026-02-28, 14:10:04](https://news.ycombinator.com/item?id=47195582) - [Please do not use auto-scrolling content on the web and in applications](https://cerovac.com/a11y/2026/01/please-do-not-use-auto-scrolling-content-on-the-web-and-in-applications/)
 * [2026-02-28, 14:05:27](https://news.ycombinator.com/item?id=47195530) - [Show HN: Decided to play god this morning, so I built an agent civilisation](https://github.com/nocodemf/werld)
+* [2026-02-28, 14:00:16](https://news.ycombinator.com/item?id=47195476) - [How to sew a Hyperbolic Blanket (2021)](https://www.geometrygames.org/HyperbolicBlanket/index.html)
 * [2026-02-28, 13:50:13](https://news.ycombinator.com/item?id=47195371) - [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632)
 * [2026-02-28, 13:46:20](https://news.ycombinator.com/item?id=47195317) - [OpenAI Fires an Employee for Prediction Market Insider Trading](https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/)
 * [2026-02-28, 13:35:54](https://news.ycombinator.com/item?id=47195210) - [Everything Changes, and Nothing Changes](https://btao.org/posts/2026-02-28-everything-changes-nothing-changes/)
