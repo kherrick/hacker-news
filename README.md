@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-03, 07:06:22](https://news.ycombinator.com/item?id=47229119) - [I built a pint-sized Macintosh](https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/)
 * [2026-03-03, 05:51:02](https://news.ycombinator.com/item?id=47228639) - [Buckle Up for Bumpier Skies](https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies)
 * [2026-03-03, 05:18:24](https://news.ycombinator.com/item?id=47228390) - [Daily Driving GrapheneOS](https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/)
 * [2026-03-03, 04:20:37](https://news.ycombinator.com/item?id=47227999) - [Intent-Based Commits](https://github.com/adamveld12/ghost)
@@ -24,7 +25,6 @@
 * [2026-03-01, 12:54:47](https://news.ycombinator.com/item?id=47206280) - [Against Query Based Compilers](https://matklad.github.io/2026/02/25/against-query-based-compilers.html)
 * [2026-03-01, 10:51:46](https://news.ycombinator.com/item?id=47205577) - [The Cathode Ray Tube site](https://www.crtsite.com/didactic-crt.html)
 * [2026-03-01, 08:22:05](https://news.ycombinator.com/item?id=47204784) - [Guilty Displeasures](https://www.hopefulmons.com/p/what-are-your-guilty-displeasures)
-* [2026-02-28, 22:43:40](https://news.ycombinator.com/item?id=47201158) - [Programmable Cryptography (2024)](https://0xparc.org/writings/programmable-cryptography-1)
 * [2026-02-28, 22:41:33](https://news.ycombinator.com/item?id=47201132) - [Simple screw counter](https://mitxela.com/projects/screwcounter)
 * [2026-02-28, 17:23:43](https://news.ycombinator.com/item?id=47197858) - [Moldova broke our data pipeline](https://www.avraam.dev/blog/moldova-broke-our-pipeline)
 * [2026-02-28, 16:00:48](https://news.ycombinator.com/item?id=47196864) - [DOS Memory Management](https://www.os2museum.com/wp/dos-memory-management/)
