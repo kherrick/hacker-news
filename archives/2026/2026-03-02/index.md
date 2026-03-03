@@ -21,6 +21,7 @@
 * [2026-03-02, 18:45:12](https://news.ycombinator.com/item?id=47222226) - [\"That Shape Had None\" – A Horror of Substrate Independence (Short Fiction)](https://starlightconvenience.net/#that-shape-had-none)
 * [2026-03-02, 18:29:26](https://news.ycombinator.com/item?id=47221994) - [Bars close and hundreds lose jobs as US firm buys Brewdog in £33M deal](https://www.bbc.com/news/articles/c05v0p1d0peo)
 * [2026-03-02, 17:40:17](https://news.ycombinator.com/item?id=47221264) - [Apple AI servers unused in warehouses due to low Apple Intelligence usage](https://9to5mac.com/2026/03/02/some-apple-ai-servers-are-reportedly-sitting-unused-on-warehouse-shelves-due-to-low-apple-intelligence-usage/)
+* [2026-03-02, 17:11:08](https://news.ycombinator.com/item?id=47220831) - [Points on a ring: An interactive walkthrough of a popular math problem](https://growingswe.com/blog/points-on-ring)
 * [2026-03-02, 17:08:53](https://news.ycombinator.com/item?id=47220809) - [Show HN: Govbase – Follow a bill from source text to news bias to social posts](https://govbase.com)
 * [2026-03-02, 17:01:20](https://news.ycombinator.com/item?id=47220666) - [Reflex (YC W23) Is Hiring Software Engineers – Python](https://www.ycombinator.com/companies/reflex/jobs)
 * [2026-03-02, 16:39:21](https://news.ycombinator.com/item?id=47220320) - [Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming](https://news.ycombinator.com/item?id=47220320)

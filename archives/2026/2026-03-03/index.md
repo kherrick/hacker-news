@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
+* [2026-03-03, 15:53:37](https://news.ycombinator.com/item?id=47234227) - [Why No AI Games?](https://franklantz.substack.com/p/why-no-ai-games)
+* [2026-03-03, 15:44:41](https://news.ycombinator.com/item?id=47234093) - [I Used Claude to File My Taxes for Free](https://kachess.dev/taxes/ai/personal-finance/2026/02/27/breaking-up-with-turbotax.html)
+* [2026-03-03, 14:42:30](https://news.ycombinator.com/item?id=47233110) - [My first science video in 3 years (Pysics Girl)](https://www.youtube.com/watch?v=B3m3AMRlYfc)
 * [2026-03-03, 14:39:22](https://news.ycombinator.com/item?id=47233044) - [Florida public universities to pause hiring new H-1B workers](https://www.wusf.org/education/2026-03-03/hiring-h1b-workers-florida-public-universities-pause-end-of-year)
 * [2026-03-03, 14:30:58](https://news.ycombinator.com/item?id=47232903) - [Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents](https://news.ycombinator.com/item?id=47232903)
 * [2026-03-03, 14:22:25](https://news.ycombinator.com/item?id=47232768) - [I'm reluctant to verify my identity or age for any online services](https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/)
