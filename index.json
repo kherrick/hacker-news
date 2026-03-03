@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-03-03, 13:45:33",
-      "https://news.ycombinator.com/item?id=47232224"
-    ],
-    [
-      "Most-read tech publications have lost over half their Google traffic since 2024",
-      "https://growtika.com/blog/tech-media-collapse"
-    ]
-  ],
-  [
-    [
       "2026-03-03, 13:39:38",
       "https://news.ycombinator.com/item?id=47232158"
     ],
@@ -297,6 +287,16 @@
     [
       "Disable Your SSH access accidentally with scp",
       "https://sny.sh/hypha/blog/scp"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 19:37:45",
+      "https://news.ycombinator.com/item?id=47184586"
+    ],
+    [
+      "Intercepting messages inside Is­Dialog­Message, installing the message filter",
+      "https://devblogs.microsoft.com/oldnewthing/20260226-00/?p=112090"
     ]
   ]
 ]
