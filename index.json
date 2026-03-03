@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-03, 23:11:11",
+      "https://news.ycombinator.com/item?id=47240441"
+    ],
+    [
+      "Talos: Hardware accelerator for deep convolutional neural networks",
+      "https://talos.wtf/"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 22:49:54",
+      "https://news.ycombinator.com/item?id=47240212"
+    ],
+    [
+      "Helsinki just went a full year without a single traffic death",
+      "https://www.politico.eu/article/helsinki-no-traffic-death-roads-eu-accident-finland-driving-transport/"
+    ]
+  ],
+  [
+    [
       "2026-03-03, 22:24:06",
       "https://news.ycombinator.com/item?id=47239943"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2026-03-03, 20:12:55",
-      "https://news.ycombinator.com/item?id=47238255"
-    ],
-    [
-      "Show HN: Online OCR Free – Batch OCR UI for Tesseract, Gemini and OpenRouter",
-      "https://onlineocrfree.qzz.io"
-    ]
-  ],
-  [
-    [
       "2026-03-03, 19:34:37",
       "https://news.ycombinator.com/item?id=47237692"
     ],
@@ -87,16 +97,6 @@
     [
       "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
       "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 18:27:26",
-      "https://news.ycombinator.com/item?id=47236582"
-    ],
-    [
-      "Payment fees matter more than you think",
-      "https://cuencahighlife.com/why-payment-fees-matter-more-than-you-think/"
     ]
   ],
   [
@@ -231,12 +231,22 @@
   ],
   [
     [
-      "2026-03-03, 07:34:47",
-      "https://news.ycombinator.com/item?id=47229344"
+      "2026-03-03, 09:23:42",
+      "https://news.ycombinator.com/item?id=47230138"
     ],
     [
-      "Arm's Cortex X925: Reaching Desktop Performance",
-      "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop"
+      "Simplifying Application Architecture with Modular Design and MIM",
+      "https://codingfox.net.pl/posts/mim/"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 22:32:35",
+      "https://news.ycombinator.com/item?id=47225130"
+    ],
+    [
+      "Meta’s AI smart glasses and data privacy concerns",
+      "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Disable Your SSH access accidentally with scp",
       "https://sny.sh/hypha/blog/scp"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 19:37:45",
-      "https://news.ycombinator.com/item?id=47184586"
-    ],
-    [
-      "Intercepting messages inside Is­Dialog­Message, installing the message filter",
-      "https://devblogs.microsoft.com/oldnewthing/20260226-00/?p=112090"
     ]
   ]
 ]
