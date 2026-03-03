@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-01](index.md)
 
+* [2026-03-01, 23:56:48](https://news.ycombinator.com/item?id=47212150) - [TV's TV (1987) & TV Games Encyclopedia (1988)](https://blog.gingerbeardman.com/2026/03/01/tvs-tv-1987-and-tv-games-encyclopedia-1988/)
 * [2026-03-01, 23:29:40](https://news.ycombinator.com/item?id=47211955) - [The Two Kinds of Error](https://evanhahn.com/the-two-kinds-of-error/)
 * [2026-03-01, 23:25:01](https://news.ycombinator.com/item?id=47211914) - [Show HN: Logira – eBPF runtime auditing for AI agent runs](https://github.com/melonattacker/logira)
 * [2026-03-01, 23:15:16](https://news.ycombinator.com/item?id=47211830) - [Right-sizes LLM models to your system's RAM, CPU, and GPU](https://github.com/AlexsJones/llmfit)
