@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
+* [2026-03-03, 19:02:14](https://news.ycombinator.com/item?id=47237088) - [GitHub Is Having Issues](https://www.githubstatus.com/incidents/n07yy1bk6kc4)
+* [2026-03-03, 18:58:33](https://news.ycombinator.com/item?id=47237018) - [Tell HN: GitHub Having Issues](https://news.ycombinator.com/item?id=47237018)
+* [2026-03-03, 18:54:06](https://news.ycombinator.com/item?id=47236958) - [Intel's make-or-break 18A process node debuts for data center with 288-core Xeon](https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech)
+* [2026-03-03, 18:27:26](https://news.ycombinator.com/item?id=47236582) - [Why payment fees matter more than you think](https://cuencahighlife.com/why-payment-fees-matter-more-than-you-think/)
+* [2026-03-03, 17:57:33](https://news.ycombinator.com/item?id=47236169) - [GPT‑5.3 Instant](https://openai.com/index/gpt-5-3-instant/)
+* [2026-03-03, 17:55:49](https://news.ycombinator.com/item?id=47236147) - [Someone Needs to Go to Jail](https://edwardelson.substack.com/p/someone-needs-to-go-to-jail)
 * [2026-03-03, 17:43:27](https://news.ycombinator.com/item?id=47235943) - [US Stock Market has lost $1 TRILLION in value since open Tuesday](https://old.reddit.com/r/StockMarket/comments/1rjtww8)
 * [2026-03-03, 16:57:28](https://news.ycombinator.com/item?id=47235254) - [FCC Chair Wants Networks to Pledge Loyalty for America's Big Bday](https://gizmodo.com/trumps-fcc-chair-wants-networks-to-run-nationalistic-content-and-pledge-loyalty-for-americas-big-bday-2000725152)
 * [2026-03-03, 16:47:15](https://news.ycombinator.com/item?id=47235117) - [Pass-Through of Tariffs: Evidence from European Wine Imports](https://www.nber.org/202603/digest/pass-through-tariffs-evidence-european-wine-imports)
