@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
+* [2026-03-03, 14:30:58](https://news.ycombinator.com/item?id=47232903) - [Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents](https://news.ycombinator.com/item?id=47232903)
+* [2026-03-03, 14:22:25](https://news.ycombinator.com/item?id=47232768) - [I'm reluctant to verify my identity or age for any online services](https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/)
+* [2026-03-03, 14:19:14](https://news.ycombinator.com/item?id=47232727) - [Don't Become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager)
+* [2026-03-03, 14:04:56](https://news.ycombinator.com/item?id=47232502) - [Apple introduces the new MacBook Air with M5](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 * [2026-03-03, 14:02:06](https://news.ycombinator.com/item?id=47232453) - [Apple Introduces MacBook Pro with All‑New M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/)
+* [2026-03-03, 14:00:11](https://news.ycombinator.com/item?id=47232421) - [Apple unveils new Studio Display and all-new Studio Display XDR](https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/)
+* [2026-03-03, 13:51:34](https://news.ycombinator.com/item?id=47232289) - [AI-generated art can't be copyrighted (Supreme Court declines review)](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
 * [2026-03-03, 13:45:33](https://news.ycombinator.com/item?id=47232224) - [The Internet's Top Tech Publications Lost 58% of Their Google Traffic Since 2024](https://growtika.com/blog/tech-media-collapse)
 * [2026-03-03, 13:39:38](https://news.ycombinator.com/item?id=47232158) - [I'm losing the SEO battle for my own open source project](https://twitter.com/Gavriel_Cohen/status/2028821432759717930)
 * [2026-03-03, 13:14:20](https://news.ycombinator.com/item?id=47231824) - [We Automated Everything Except Knowing What's Going On](https://eversole.dev/blog/we-automated-everything/)
