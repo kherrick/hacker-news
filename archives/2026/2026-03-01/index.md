@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-01](index.md)
 
+* [2026-03-01, 23:29:40](https://news.ycombinator.com/item?id=47211955) - [The Two Kinds of Error](https://evanhahn.com/the-two-kinds-of-error/)
 * [2026-03-01, 23:25:01](https://news.ycombinator.com/item?id=47211914) - [Show HN: Logira – eBPF runtime auditing for AI agent runs](https://github.com/melonattacker/logira)
 * [2026-03-01, 23:15:16](https://news.ycombinator.com/item?id=47211830) - [Right-sizes LLM models to your system's RAM, CPU, and GPU](https://github.com/AlexsJones/llmfit)
 * [2026-03-01, 22:39:27](https://news.ycombinator.com/item?id=47211476) - [Allegations of insider trading over prediction-market bets tied to Iran conflict](https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict)
