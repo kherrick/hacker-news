@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
+* [2026-03-03, 14:39:22](https://news.ycombinator.com/item?id=47233044) - [Florida public universities to pause hiring new H-1B workers](https://www.wusf.org/education/2026-03-03/hiring-h1b-workers-florida-public-universities-pause-end-of-year)
 * [2026-03-03, 14:30:58](https://news.ycombinator.com/item?id=47232903) - [Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents](https://news.ycombinator.com/item?id=47232903)
 * [2026-03-03, 14:22:25](https://news.ycombinator.com/item?id=47232768) - [I'm reluctant to verify my identity or age for any online services](https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/)
 * [2026-03-03, 14:19:14](https://news.ycombinator.com/item?id=47232727) - [Don't Become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager)

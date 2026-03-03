@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-03, 14:39:22](https://news.ycombinator.com/item?id=47233044) - [Florida public universities to pause hiring new H-1B workers](https://www.wusf.org/education/2026-03-03/hiring-h1b-workers-florida-public-universities-pause-end-of-year)
 * [2026-03-03, 14:30:58](https://news.ycombinator.com/item?id=47232903) - [Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents](https://news.ycombinator.com/item?id=47232903)
 * [2026-03-03, 14:22:25](https://news.ycombinator.com/item?id=47232768) - [I'm reluctant to verify my identity or age for any online services](https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/)
 * [2026-03-03, 14:19:14](https://news.ycombinator.com/item?id=47232727) - [Don't Become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager)
@@ -13,8 +14,6 @@
 * [2026-03-03, 12:09:59](https://news.ycombinator.com/item?id=47231242) - [Mullvad VPN: Banned TV Ad in the Streets of London [video]](https://www.youtube.com/watch?v=rwhznrpgl7k)
 * [2026-03-03, 10:57:42](https://news.ycombinator.com/item?id=47230710) - [Claude's Cycles: Claude Opus 4.6 solves a problem posed by Don Knuth [pdf]](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
 * [2026-03-03, 10:56:52](https://news.ycombinator.com/item?id=47230704) - [The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
-* [2026-03-03, 10:49:05](https://news.ycombinator.com/item?id=47230663) - [The beauty and terror of modding Windows](https://windowsread.me/p/windhawk-explained)
-* [2026-03-03, 08:58:30](https://news.ycombinator.com/item?id=47229953) - [Privacy-preserving age and identity verification via anonymous credentials](https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/)
 * [2026-03-03, 07:34:47](https://news.ycombinator.com/item?id=47229344) - [Arm's Cortex X925: Reaching Desktop Performance](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
 * [2026-03-03, 07:06:22](https://news.ycombinator.com/item?id=47229119) - [I built a pint-sized Macintosh](https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/)
 * [2026-03-03, 01:12:30](https://news.ycombinator.com/item?id=47226608) - [Ars Technica fires reporter after AI controversy involving fabricated quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
@@ -25,6 +24,7 @@
 * [2026-03-02, 14:54:58](https://news.ycombinator.com/item?id=47218743) - [First in-utero stem cell therapy for fetal spina bifida repair is safe: study](https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02)
 * [2026-03-02, 12:35:37](https://news.ycombinator.com/item?id=47217224) - [C64: Putting Sprite Multiplexing to Work](https://bumbershootsoft.wordpress.com/2026/02/28/c64-putting-sprite-multiplexing-to-work/)
 * [2026-03-01, 09:47:03](https://news.ycombinator.com/item?id=47205230) - [Computer Says No](https://koenvangilst.nl/lab/computer-says-no)
+* [2026-03-01, 07:36:33](https://news.ycombinator.com/item?id=47204570) - [Show HN: React-Kino – Cinematic scroll storytelling for React (1KB core)](https://github.com/btahir/react-kino)
 * [2026-03-01, 04:50:02](https://news.ycombinator.com/item?id=47203827) - [We Built a Video Rendering Engine by Lying to the Browser About What Time It Is](https://blog.replit.com/browsers-dont-want-to-be-cameras)
 * [2026-02-28, 22:41:33](https://news.ycombinator.com/item?id=47201132) - [Simple screw counter](https://mitxela.com/projects/screwcounter)
 * [2026-02-28, 16:00:48](https://news.ycombinator.com/item?id=47196864) - [DOS Memory Management](https://www.os2museum.com/wp/dos-memory-management/)

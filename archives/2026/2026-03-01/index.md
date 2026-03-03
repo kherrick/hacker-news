@@ -53,6 +53,7 @@
 * [2026-03-01, 08:55:52](https://news.ycombinator.com/item?id=47204964) - [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
 * [2026-03-01, 08:22:05](https://news.ycombinator.com/item?id=47204784) - [What Are Your Guilty Displeasures?](https://www.hopefulmons.com/p/what-are-your-guilty-displeasures)
 * [2026-03-01, 07:36:52](https://news.ycombinator.com/item?id=47204571) - [Switch to Claude Without Starting Over](https://claude.com/import-memory)
+* [2026-03-01, 07:36:33](https://news.ycombinator.com/item?id=47204570) - [Show HN: React-Kino – Cinematic scroll storytelling for React (1KB core)](https://github.com/btahir/react-kino)
 * [2026-03-01, 07:35:03](https://news.ycombinator.com/item?id=47204559) - [10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org)
 * [2026-03-01, 04:50:02](https://news.ycombinator.com/item?id=47203827) - [We Built a Video Rendering Engine by Lying to the Browser About What Time It Is](https://blog.replit.com/browsers-dont-want-to-be-cameras)
 * [2026-03-01, 03:55:49](https://news.ycombinator.com/item?id=47203527) - [Plugtest](https://en.wikipedia.org/wiki/Plugtest)
