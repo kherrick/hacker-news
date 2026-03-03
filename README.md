@@ -16,7 +16,6 @@
 * [2026-03-03, 14:04:56](https://news.ycombinator.com/item?id=47232502) - [MacBook Air with M5](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 * [2026-03-03, 14:02:06](https://news.ycombinator.com/item?id=47232453) - [MacBook Pro with new M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/)
 * [2026-03-03, 14:00:11](https://news.ycombinator.com/item?id=47232421) - [Apple Studio Display and Studio Display XDR](https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/)
-* [2026-03-03, 13:45:33](https://news.ycombinator.com/item?id=47232224) - [Most-read tech publications have lost over half their Google traffic since 2024](https://growtika.com/blog/tech-media-collapse)
 * [2026-03-03, 13:39:38](https://news.ycombinator.com/item?id=47232158) - [I'm losing the SEO battle for my own open source project](https://twitter.com/Gavriel_Cohen/status/2028821432759717930)
 * [2026-03-03, 10:57:42](https://news.ycombinator.com/item?id=47230710) - [Claude's Cycles [pdf]](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
 * [2026-03-03, 10:56:52](https://news.ycombinator.com/item?id=47230704) - [The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
@@ -30,6 +29,7 @@
 * [2026-03-01, 03:03:46](https://news.ycombinator.com/item?id=47203219) - [TorchLean: Formalizing Neural Networks in Lean](https://leandojo.org/torchlean.html)
 * [2026-02-28, 23:55:44](https://news.ycombinator.com/item?id=47201911) - [Show HN: Explain Curl Commands](https://github.com/akgitrepos/explain-my-curl)
 * [2026-02-28, 05:18:22](https://news.ycombinator.com/item?id=47190782) - [Disable Your SSH access accidentally with scp](https://sny.sh/hypha/blog/scp)
+* [2026-02-27, 19:37:45](https://news.ycombinator.com/item?id=47184586) - [Intercepting messages inside Is­Dialog­Message, installing the message filter](https://devblogs.microsoft.com/oldnewthing/20260226-00/?p=112090)
 
 ## [Archives](archives/index.md)
 

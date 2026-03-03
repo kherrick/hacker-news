@@ -16,6 +16,7 @@
 * [2026-02-27, 21:31:39](https://news.ycombinator.com/item?id=47185911) - [Neocaml – Rubocop Creator's New OCaml Mode for Emacs](https://github.com/bbatsov/neocaml)
 * [2026-02-27, 20:05:17](https://news.ycombinator.com/item?id=47184864) - [DOS Memory Management](http://www.os2museum.com/wp/dos-memory-management/)
 * [2026-02-27, 19:51:33](https://news.ycombinator.com/item?id=47184744) - [The Robotic Dexterity Deadlock](https://www.origami-robotics.com/blog/dexterity-deadlocks.html)
+* [2026-02-27, 19:37:45](https://news.ycombinator.com/item?id=47184586) - [Intercepting messages inside Is­Dialog­Message, installing the message filter](https://devblogs.microsoft.com/oldnewthing/20260226-00/?p=112090)
 * [2026-02-27, 19:26:38](https://news.ycombinator.com/item?id=47184480) - [Red Dwarf creator Rob Grant has died](https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant)
 * [2026-02-27, 19:08:25](https://news.ycombinator.com/item?id=47184288) - [Leaving Google has actively improved my life](https://pseudosingleton.com/leaving-google-improved-my-life/)
 * [2026-02-27, 18:49:50](https://news.ycombinator.com/item?id=47184049) - [Let's discuss sandbox isolation](https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/)
