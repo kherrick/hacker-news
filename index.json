@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2026-03-03, 18:54:06",
+      "https://news.ycombinator.com/item?id=47236958"
+    ],
+    [
+      "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
+      "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech"
+    ]
+  ],
+  [
+    [
       "2026-03-03, 17:57:33",
       "https://news.ycombinator.com/item?id=47236169"
     ],
@@ -237,16 +247,6 @@
     [
       "RE#: how we built the fastest regex engine in F#",
       "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 11:02:55",
-      "https://news.ycombinator.com/item?id=47205650"
-    ],
-    [
-      "Show HN: Rust compiler in PHP emitting x86-64 executables",
-      "https://github.com/mrconter1/rustc-php"
     ]
   ],
   [
