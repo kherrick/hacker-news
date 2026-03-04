@@ -2,7 +2,7 @@
 
 * [2026-03-04, 20:30:16](https://news.ycombinator.com/item?id=47253364) - [Does that use a lot of energy?](https://hannahritchie.github.io/energy-use-comparisons/)
 * [2026-03-04, 20:19:43](https://news.ycombinator.com/item?id=47253221) - [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/)
-* [2026-03-04, 20:16:03](https://news.ycombinator.com/item?id=47253177) - [Building a New Flash](https://bill.newgrounds.com/news/post/1607118)
+* [2026-03-04, 20:16:03](https://news.ycombinator.com/item?id=47253177) - [Building a new flash](https://bill.newgrounds.com/news/post/1607118)
 * [2026-03-04, 20:15:06](https://news.ycombinator.com/item?id=47253160) - [Was Windows 1.0's lack of overlapping windows a legal or a technical matter?](https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter)
 * [2026-03-04, 19:48:07](https://news.ycombinator.com/item?id=47252838) - [Father claims Google's AI product fuelled son's delusional spiral](https://www.bbc.com/news/articles/czx44p99457o)
 * [2026-03-04, 19:40:22](https://news.ycombinator.com/item?id=47252726) - [Google ends its 30 percent app store fee and welcomes third-party app stores](https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html)
@@ -12,6 +12,7 @@
 * [2026-03-04, 18:12:39](https://news.ycombinator.com/item?id=47251480) - [Making Firefox's right-click not suck with about:config](https://joshua.hu/firefox-making-right-click-not-suck)
 * [2026-03-04, 18:02:21](https://news.ycombinator.com/item?id=47251332) - [The Space Race's Forgotten Theme Park](https://daily.jstor.org/the-space-races-forgotten-theme-park/)
 * [2026-03-04, 17:56:04](https://news.ycombinator.com/item?id=47251259) - [NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute](https://qlabs.sh/slowrun)
+* [2026-03-04, 17:49:44](https://news.ycombinator.com/item?id=47251163) - [Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra](https://roboflow.com/careers)
 * [2026-03-04, 16:20:36](https://news.ycombinator.com/item?id=47249744) - [Humans 40k yrs ago developed a system of conventional signs](https://www.pnas.org/doi/10.1073/pnas.2520385123)
 * [2026-03-04, 15:55:34](https://news.ycombinator.com/item?id=47249343) - [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/)
 * [2026-03-04, 14:52:46](https://news.ycombinator.com/item?id=47248319) - [“It turns out” (2010)](https://jsomers.net/blog/it-turns-out)
@@ -24,12 +25,11 @@
 * [2026-03-04, 10:21:13](https://news.ycombinator.com/item?id=47245491) - [Moss is a pixel canvas where every brush is a tiny program](https://www.moss.town/)
 * [2026-03-04, 07:47:06](https://news.ycombinator.com/item?id=47244395) - [To understand our fascination with crystals, researchers gave some to chimps](https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html)
 * [2026-03-04, 07:25:24](https://news.ycombinator.com/item?id=47244291) - [RFC 9849. TLS Encrypted Client Hello](https://www.rfc-editor.org/rfc/rfc9849.html)
-* [2026-03-04, 05:00:37](https://news.ycombinator.com/item?id=47243272) - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
-* [2026-03-04, 01:31:05](https://news.ycombinator.com/item?id=47241817) - [TikTok will not introduce end-to-end encryption, saying it makes users less safe](https://www.bbc.com/news/articles/cly2m5e5ke4o)
-* [2026-03-01, 17:25:27](https://news.ycombinator.com/item?id=47208688) - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
+* [2026-03-01, 17:25:27](https://news.ycombinator.com/item?id=47208688) - [The Rust calling convention we deserve (2024)](https://mcyoung.xyz/2024/04/17/calling-convention/)
 * [2026-03-01, 15:36:48](https://news.ycombinator.com/item?id=47207647) - [My Favorite 39C3 Talks](https://asindu.xyz/my-favorite-39c3-talks/)
 * [2026-03-01, 09:01:05](https://news.ycombinator.com/item?id=47204994) - [Libre Solar – Open Hardware for Renewable Energy](https://libre.solar)
 * [2026-03-01, 00:26:43](https://news.ycombinator.com/item?id=47202210) - [Raspberry Pi Pico as AM Radio Transmitter](https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter)
+* [2026-02-28, 02:29:51](https://news.ycombinator.com/item?id=47189390) - [Approximation Game](https://lcamtuf.substack.com/p/approximation-game)
 
 ## [Archives](archives/index.md)
 
