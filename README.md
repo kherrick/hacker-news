@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-04, 19:48:07](https://news.ycombinator.com/item?id=47252838) - [Father claims Google's AI product fuelled son's delusional spiral](https://www.bbc.com/news/articles/czx44p99457o)
+* [2026-03-04, 19:40:22](https://news.ycombinator.com/item?id=47252726) - [Google ends its 30 percent app store fee and welcomes third-party app stores](https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html)
 * [2026-03-04, 18:50:45](https://news.ycombinator.com/item?id=47252049) - [An interactive map of FLock Cams](https://deflock.org/map#map=5/37.125286/-96.284180)
 * [2026-03-04, 18:46:21](https://news.ycombinator.com/item?id=47251987) - [Data Has Weight but Only on SSDs](https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/)
 * [2026-03-04, 18:33:38](https://news.ycombinator.com/item?id=47251787) - [Faster C software with Dynamic Feature Detection](https://gist.github.com/jjl/d998164191af59a594500687a679b98d)
@@ -8,7 +10,6 @@
 * [2026-03-04, 17:56:04](https://news.ycombinator.com/item?id=47251259) - [NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute](https://qlabs.sh/slowrun)
 * [2026-03-04, 17:49:44](https://news.ycombinator.com/item?id=47251163) - [Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra](https://roboflow.com/careers)
 * [2026-03-04, 17:37:44](https://news.ycombinator.com/item?id=47250985) - [Who Writes the Bugs? A Deeper Look at 125,000 Kernel Vulnerabilities](https://pebblebed.com/blog/kernel-bugs-part2)
-* [2026-03-04, 16:24:18](https://news.ycombinator.com/item?id=47249809) - [Sea level much higher than assumed in most coastal hazard assessments](https://www.nature.com/articles/s41586-026-10196-1)
 * [2026-03-04, 15:55:34](https://news.ycombinator.com/item?id=47249343) - [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/)
 * [2026-03-04, 14:53:48](https://news.ycombinator.com/item?id=47248341) - [Government grant-funded research should not be published in for-profit journals](https://www.experimental-history.com/p/the-one-science-reform-we-can-all)
 * [2026-03-04, 14:52:46](https://news.ycombinator.com/item?id=47248319) - [“It turns out” (2010)](https://jsomers.net/blog/it-turns-out)
@@ -25,7 +26,6 @@
 * [2026-03-04, 01:31:05](https://news.ycombinator.com/item?id=47241817) - [TikTok will not introduce end-to-end encryption, saying it makes users less safe](https://www.bbc.com/news/articles/cly2m5e5ke4o)
 * [2026-03-04, 00:58:31](https://news.ycombinator.com/item?id=47241551) - [Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567)
 * [2026-03-02, 06:40:28](https://news.ycombinator.com/item?id=47214608) - [The 1,700-year-old megastructure history almost forgot](https://www.cnn.com/2026/02/28/travel/travel-news-jetavanaramaya-ephesus)
-* [2026-03-01, 18:09:08](https://news.ycombinator.com/item?id=47209122) - [Greg Knauss Is Losing Himself](https://shapeof.com/archives/2026/2/greg_knauss_is_losing_himself.html)
 * [2026-03-01, 15:36:48](https://news.ycombinator.com/item?id=47207647) - [My Favorite 39C3 Talks](https://asindu.xyz/my-favorite-39c3-talks/)
 * [2026-03-01, 13:47:36](https://news.ycombinator.com/item?id=47206647) - [RE#: how we built the fastest regex engine in F#](https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/)
 * [2026-03-01, 09:01:05](https://news.ycombinator.com/item?id=47204994) - [Libre Solar – Open Hardware for Renewable Energy](https://libre.solar)

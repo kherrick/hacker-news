@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
+* [2026-03-04, 19:48:07](https://news.ycombinator.com/item?id=47252838) - [Father claims Google's AI product fuelled son's delusional spiral](https://www.bbc.com/news/articles/czx44p99457o)
+* [2026-03-04, 19:40:22](https://news.ycombinator.com/item?id=47252726) - [Google ends its 30 percent app store fee and welcomes third-party app stores](https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html)
 * [2026-03-04, 18:51:49](https://news.ycombinator.com/item?id=47252062) - [AfricaMuseum refuses to yield Congo geological archives despite US pressure](https://www.vrt.be/vrtnws/en/2026/02/12/africamuseum-refuses-to-hand-over-geological-archive-on-congo-to/)
 * [2026-03-04, 18:50:45](https://news.ycombinator.com/item?id=47252049) - [An interactive map of FLock Cams](https://deflock.org/map#map=5/37.125286/-96.284180)
 * [2026-03-04, 18:46:21](https://news.ycombinator.com/item?id=47251987) - [Data Has Weight but Only on SSDs](https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/)
