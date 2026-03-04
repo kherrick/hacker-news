@@ -51,6 +51,7 @@
 * [2026-02-27, 15:33:02](https://news.ycombinator.com/item?id=47181714) - [Have your cake and decompress it too](https://spiraldb.com/post/cascading-compression-with-btrblocks)
 * [2026-02-27, 15:28:57](https://news.ycombinator.com/item?id=47181656) - [Mondrian Entered the Public Domain. The Estate Disagrees](https://copyrightlately.com/mondrian-public-domain-controversy/)
 * [2026-02-27, 15:19:10](https://news.ycombinator.com/item?id=47181542) - [An Ode to Houseplant Programming](https://hannahilea.com/blog/houseplant-programming/)
+* [2026-02-27, 15:18:42](https://news.ycombinator.com/item?id=47181534) - [Toxic combinations: when small signals add up to a security incident](https://blog.cloudflare.com/toxic-combinations-security/)
 * [2026-02-27, 15:14:42](https://news.ycombinator.com/item?id=47181471) - [Show HN: Badge that shows how well your codebase fits in an LLM's context window](https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens)
 * [2026-02-27, 15:09:04](https://news.ycombinator.com/item?id=47181391) - [Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices](https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0)
 * [2026-02-27, 15:08:29](https://news.ycombinator.com/item?id=47181380) - [The Pentagon is making a mistake by threatening Anthropic](https://www.understandingai.org/p/the-pentagon-is-making-a-mistake)
