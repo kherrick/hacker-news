@@ -47,6 +47,7 @@
 * [2026-03-04, 11:43:32](https://news.ycombinator.com/item?id=47246110) - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 * [2026-03-04, 11:33:46](https://news.ycombinator.com/item?id=47246044) - [Users fume over Outlook.com email 'carnage'](https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/)
 * [2026-03-04, 10:21:13](https://news.ycombinator.com/item?id=47245491) - [Moss is a pixel canvas where every brush is a tiny program](https://www.moss.town/)
+* [2026-03-04, 10:20:18](https://news.ycombinator.com/item?id=47245485) - [Show HN: A shell-native cd-compatible directory jumper using power-law frecency](https://github.com/jghub/sd-switchdir)
 * [2026-03-04, 09:42:20](https://news.ycombinator.com/item?id=47245211) - [Bet on German Train Delays](https://bahn.bet)
 * [2026-03-04, 09:39:35](https://news.ycombinator.com/item?id=47245186) - [The next era of social media: built and run in Europe, ruled by our laws](https://www.eurosky.tech)
 * [2026-03-04, 08:23:26](https://news.ycombinator.com/item?id=47244651) - [Nuclear War: An LLM Scenario](https://chrisclapham.com/blog/nuclear-war-an-llm-scenario)
