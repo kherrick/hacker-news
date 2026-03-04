@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-04, 15:55:34",
+      "https://news.ycombinator.com/item?id=47249343"
+    ],
+    [
+      "Something is afoot in the land of Qwen",
+      "https://simonwillison.net/2026/Mar/4/qwen/"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 15:02:36",
+      "https://news.ycombinator.com/item?id=47248511"
+    ],
+    [
+      "Medical journal says the case reports it has published for 25 years are fiction",
+      "https://retractionwatch.com/2026/03/03/canadian-pediatric-society-journal-correction-case-reports-fictional-paediatrics-child-health/"
+    ]
+  ],
+  [
+    [
       "2026-03-04, 14:53:48",
       "https://news.ycombinator.com/item?id=47248341"
     ],
@@ -57,6 +77,16 @@
     [
       "Glaze by Raycast",
       "https://www.glazeapp.com/"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 13:04:53",
+      "https://news.ycombinator.com/item?id=47246858"
+    ],
+    [
+      "MyFirst Kids Watch Hacked. Access to Camera and Microphone",
+      "https://www.kth.se/en/om/nyheter/centrala-nyheter/kth-studenten-hackade-klocka-for-barn-1.1461249"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2026-03-04, 01:52:21",
-      "https://news.ycombinator.com/item?id=47241976"
-    ],
-    [
-      "Weave – A language aware merge algorithm based on entities",
-      "https://github.com/Ataraxy-Labs/weave"
-    ]
-  ],
-  [
-    [
       "2026-03-04, 00:58:31",
       "https://news.ycombinator.com/item?id=47241551"
     ],
     [
       "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
       "https://grapheneos.social/@GrapheneOS/116160393783585567"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 21:10:27",
-      "https://news.ycombinator.com/item?id=47239042"
-    ],
-    [
-      "Voxile: A ray-traced game made in its own engine and programming language",
-      "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-03-03, 10:41:26",
-      "https://news.ycombinator.com/item?id=47230620"
-    ],
-    [
-      "Show HN: I made a zero-copy coroutine tracer to find my scheduler's lost wakeups",
-      "https://github.com/lixiasky-back/coroTracer"
-    ]
-  ],
-  [
-    [
       "2026-03-01, 18:09:08",
       "https://news.ycombinator.com/item?id=47209122"
     ],
@@ -247,16 +247,6 @@
     [
       "RE#: how we built the fastest regex engine in F#",
       "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 09:09:04",
-      "https://news.ycombinator.com/item?id=47205031"
-    ],
-    [
-      "On the Design of Programming Languages (1974) [pdf]",
-      "https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: Stacked Game of Life",
       "https://stacked-game-of-life.koenvangilst.nl/"
+    ]
+  ],
+  [
+    [
+      "2026-02-27, 15:18:42",
+      "https://news.ycombinator.com/item?id=47181534"
+    ],
+    [
+      "Toxic combinations: when small signals add up to a security incident",
+      "https://blog.cloudflare.com/toxic-combinations-security/"
     ]
   ]
 ]
