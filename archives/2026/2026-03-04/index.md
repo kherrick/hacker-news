@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
 * [2026-03-04, 06:19:11](https://news.ycombinator.com/item?id=47243818) - [How Mossad hacked traffic cameras to track Ayatollah Khamenei](https://www.google.com/search?q=How+Mossad+hacked+traffic+cameras+to+track+Ayatollah+Khamenei)
+* [2026-03-04, 06:17:10](https://news.ycombinator.com/item?id=47243804) - [Better JIT for Postgres](https://github.com/vladich/pg_jitter)
 * [2026-03-04, 05:00:37](https://news.ycombinator.com/item?id=47243272) - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
 * [2026-03-04, 04:30:32](https://news.ycombinator.com/item?id=47243069) - [A CPU that runs entirely on GPU](https://github.com/robertcprice/nCPU)
 * [2026-03-04, 03:40:18](https://news.ycombinator.com/item?id=47242765) - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
+* [2026-03-04, 03:37:48](https://news.ycombinator.com/item?id=47242739) - [Giving LLMs a personality is just good engineering](https://www.seangoedecke.com/giving-llms-a-personality/)
 * [2026-03-04, 03:36:18](https://news.ycombinator.com/item?id=47242725) - [California's Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
 * [2026-03-04, 03:24:20](https://news.ycombinator.com/item?id=47242637) - [Speculative Speculative Decoding (SSD)](https://arxiv.org/abs/2603.03251)
 * [2026-03-04, 03:00:32](https://news.ycombinator.com/item?id=47242453) - [LLMs can unmask pseudonymous users at scale with surprising accuracy](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/)
