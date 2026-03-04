@@ -34,6 +34,7 @@
 * [2026-03-01, 16:54:49](https://news.ycombinator.com/item?id=47208398) - [MCP is dead. Long live the CLI](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
 * [2026-03-01, 16:44:03](https://news.ycombinator.com/item?id=47208280) - [Evil in the West Bank – David Shulman](https://www.nybooks.com/articles/2026/03/12/evil-in-the-west-bank-david-shulman/)
 * [2026-03-01, 15:52:02](https://news.ycombinator.com/item?id=47207806) - [Show HN: Audio Toolkit for Agents](https://github.com/shiehn/sas-audio-processor)
+* [2026-03-01, 15:36:48](https://news.ycombinator.com/item?id=47207647) - [My Favorite 39C3 Talks](https://asindu.xyz/my-favorite-39c3-talks/)
 * [2026-03-01, 15:23:42](https://news.ycombinator.com/item?id=47207531) - [Lil' Fun Langs' Guts](https://taylor.town/scrapscript-001)
 * [2026-03-01, 15:09:55](https://news.ycombinator.com/item?id=47207404) - [New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)
 * [2026-03-01, 14:59:55](https://news.ycombinator.com/item?id=47207302) - [US Military says 3 service members have been killed](https://apnews.com/live/us-israel-strikes-iran-khamenei-03-01-2026)

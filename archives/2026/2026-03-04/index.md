@@ -9,6 +9,7 @@
 * [2026-03-04, 18:46:21](https://news.ycombinator.com/item?id=47251987) - [Data Has Weight but Only on SSDs](https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/)
 * [2026-03-04, 18:33:38](https://news.ycombinator.com/item?id=47251787) - [Faster C software with Dynamic Feature Detection](https://gist.github.com/jjl/d998164191af59a594500687a679b98d)
 * [2026-03-04, 18:12:39](https://news.ycombinator.com/item?id=47251480) - [Making Firefox's right-click not suck with about:config](https://joshua.hu/firefox-making-right-click-not-suck)
+* [2026-03-04, 18:02:21](https://news.ycombinator.com/item?id=47251332) - [The Space Race's Forgotten Theme Park](https://daily.jstor.org/the-space-races-forgotten-theme-park/)
 * [2026-03-04, 17:56:04](https://news.ycombinator.com/item?id=47251259) - [NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute](https://qlabs.sh/slowrun)
 * [2026-03-04, 17:49:44](https://news.ycombinator.com/item?id=47251163) - [Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra](https://roboflow.com/careers)
 * [2026-03-04, 17:37:44](https://news.ycombinator.com/item?id=47250985) - [Who Writes the Bugs? A Deeper Look at 125,000 Kernel Vulnerabilities](https://pebblebed.com/blog/kernel-bugs-part2)
