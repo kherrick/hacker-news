@@ -1,22 +1,32 @@
 [
   [
     [
-      "2026-03-04, 17:24:38",
-      "https://news.ycombinator.com/item?id=47250778"
+      "2026-03-04, 18:12:39",
+      "https://news.ycombinator.com/item?id=47251480"
     ],
     [
-      "You Bought Zuck's Ray-Bans. Now Someone in Nairobi Is Watching You Poop",
-      "https://blog.adafruit.com/2026/03/04/you-bought-zucks-ray-bans-now-someone-in-nairobi-is-watching-you-poop/"
+      "Making Firefox's right-click not suck with about:config",
+      "https://joshua.hu/firefox-making-right-click-not-suck"
     ]
   ],
   [
     [
-      "2026-03-04, 16:43:36",
-      "https://news.ycombinator.com/item?id=47250133"
+      "2026-03-04, 17:56:04",
+      "https://news.ycombinator.com/item?id=47251259"
     ],
     [
-      "Welcome to the Wasteland: A Thousand Gas Towns",
-      "https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f"
+      "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+      "https://qlabs.sh/slowrun"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 17:49:44",
+      "https://news.ycombinator.com/item?id=47251163"
+    ],
+    [
+      "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
+      "https://roboflow.com/careers"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Something is afoot in the land of Qwen",
       "https://simonwillison.net/2026/Mar/4/qwen/"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 15:22:03",
+      "https://news.ycombinator.com/item?id=47248806"
+    ],
+    [
+      "Notes on Project Oberon",
+      "https://sidhion.com/blog/oberon_notes/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-03-04, 12:01:42",
-      "https://news.ycombinator.com/item?id=47246268"
-    ],
-    [
-      "Jiga (YC W21) Is Hiring",
-      "https://jiga.io/about-us"
-    ]
-  ],
-  [
-    [
       "2026-03-04, 11:43:32",
       "https://news.ycombinator.com/item?id=47246110"
     ],
@@ -147,6 +157,16 @@
     [
       "Emails to Outlook.com rejected due to a fault or overzealous blocking rules",
       "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 10:21:13",
+      "https://news.ycombinator.com/item?id=47245491"
+    ],
+    [
+      "Moss is a pixel canvas where every brush is a tiny program",
+      "https://www.moss.town/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-03-03, 10:57:42",
-      "https://news.ycombinator.com/item?id=47230710"
-    ],
-    [
-      "Claude's Cycles [pdf]",
-      "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 06:17:28",
       "https://news.ycombinator.com/item?id=47214478"
     ],
@@ -277,16 +287,6 @@
     [
       "Raspberry Pi Pico as AM Radio Transmitter",
       "https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter"
-    ]
-  ],
-  [
-    [
-      "2026-02-28, 17:14:20",
-      "https://news.ycombinator.com/item?id=47197749"
-    ],
-    [
-      "Modern Illustration: Archive of illustration from c.1950-1975",
-      "https://www.modernillustration.org"
     ]
   ],
   [
