@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
+* [2026-03-04, 18:51:49](https://news.ycombinator.com/item?id=47252062) - [AfricaMuseum refuses to yield Congo geological archives despite US pressure](https://www.vrt.be/vrtnws/en/2026/02/12/africamuseum-refuses-to-hand-over-geological-archive-on-congo-to/)
+* [2026-03-04, 18:50:45](https://news.ycombinator.com/item?id=47252049) - [An interactive map of FLock Cams](https://deflock.org/map#map=5/37.125286/-96.284180)
+* [2026-03-04, 18:46:21](https://news.ycombinator.com/item?id=47251987) - [Data Has Weight but Only on SSDs](https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/)
+* [2026-03-04, 18:33:38](https://news.ycombinator.com/item?id=47251787) - [Faster C software with Dynamic Feature Detection](https://gist.github.com/jjl/d998164191af59a594500687a679b98d)
 * [2026-03-04, 18:12:39](https://news.ycombinator.com/item?id=47251480) - [Making Firefox's right-click not suck with about:config](https://joshua.hu/firefox-making-right-click-not-suck)
 * [2026-03-04, 17:56:04](https://news.ycombinator.com/item?id=47251259) - [NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute](https://qlabs.sh/slowrun)
 * [2026-03-04, 17:49:44](https://news.ycombinator.com/item?id=47251163) - [Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra](https://roboflow.com/careers)
+* [2026-03-04, 17:37:44](https://news.ycombinator.com/item?id=47250985) - [Who Writes the Bugs? A Deeper Look at 125,000 Kernel Vulnerabilities](https://pebblebed.com/blog/kernel-bugs-part2)
 * [2026-03-04, 17:24:38](https://news.ycombinator.com/item?id=47250778) - [You Bought Zuck's Ray-Bans. Now Someone in Nairobi Is Watching You Poop](https://blog.adafruit.com/2026/03/04/you-bought-zucks-ray-bans-now-someone-in-nairobi-is-watching-you-poop/)
+* [2026-03-04, 16:52:08](https://news.ycombinator.com/item?id=47250286) - [New York could prohibit chatbot medical, legal, engineering advice](https://folding-sky.com/blog/ny-senate-bill-s7263-chatbot-liability)
 * [2026-03-04, 16:43:36](https://news.ycombinator.com/item?id=47250133) - [Welcome to the Wasteland: A Thousand Gas Towns](https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f)
 * [2026-03-04, 16:24:18](https://news.ycombinator.com/item?id=47249809) - [Sea level much higher than assumed in most coastal hazard assessments](https://www.nature.com/articles/s41586-026-10196-1)
 * [2026-03-04, 15:55:34](https://news.ycombinator.com/item?id=47249343) - [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/)
