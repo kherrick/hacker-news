@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-03-04, 09:39:35",
-      "https://news.ycombinator.com/item?id=47245186"
-    ],
-    [
-      "The next era of social media: built and run in Europe, ruled by our laws",
-      "https://www.eurosky.tech"
-    ]
-  ],
-  [
-    [
       "2026-03-04, 07:25:24",
       "https://news.ycombinator.com/item?id=47244291"
     ],
@@ -237,6 +227,16 @@
     [
       "Reverse-Engineering the Wetware: Spiking Networks and the End of Matrix Math",
       "https://metaduck.com/reverse-engineering-the-wetware-spiking-networks-td-errors-and-the-end-of-matrix-math/"
+    ]
+  ],
+  [
+    [
+      "2026-03-01, 13:47:36",
+      "https://news.ycombinator.com/item?id=47206647"
+    ],
+    [
+      "RE#: how we built the fastest regex engine in F#",
+      "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/"
     ]
   ],
   [
