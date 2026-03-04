@@ -24,6 +24,7 @@
 * [2026-02-28, 19:04:01](https://news.ycombinator.com/item?id=47198977) - [Block the \"Upgrade to Tahoe\" Alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/)
 * [2026-02-28, 19:03:47](https://news.ycombinator.com/item?id=47198973) - [\"Cancel ChatGPT\" movement goes mainstream after OpenAI closes deal with U.S. Dow](https://www.windowscentral.com/artificial-intelligence/cancel-chatgpt-movement-goes-mainstream-after-openai-closes-deal-with-u-s-department-of-war-as-anthropic-refuses-to-surveil-american-citizens)
 * [2026-02-28, 18:57:43](https://news.ycombinator.com/item?id=47198912) - [Techno‑Feudal Elite Are Attempting to Build a Twenty‑First‑Century Fascist State](https://collapseofindustrialcivilization.com/2026/02/16/americas-oligarchic-techno-feudal-elite-are-attempting-to-build-a-twenty-first-century-fascist-state/)
+* [2026-02-28, 17:48:45](https://news.ycombinator.com/item?id=47198162) - [Flip Distance of Convex Triangulations and Tree Rotation Is NP-Complete](https://arxiv.org/abs/2602.22874)
 * [2026-02-28, 17:43:22](https://news.ycombinator.com/item?id=47198099) - [CSP for Pentesters: Understanding the Fundamentals](https://www.kayssel.com/newsletter/issue-20/)
 * [2026-02-28, 17:23:43](https://news.ycombinator.com/item?id=47197858) - [Moldova broke our data pipeline](https://www.avraam.dev/blog/moldova-broke-our-pipeline)
 * [2026-02-28, 17:14:20](https://news.ycombinator.com/item?id=47197749) - [Modern Illustration: Archive of illustration from c.1950-1975](https://www.modernillustration.org)
