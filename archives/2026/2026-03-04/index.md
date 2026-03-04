@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
+* [2026-03-04, 18:12:39](https://news.ycombinator.com/item?id=47251480) - [Making Firefox's right-click not suck with about:config](https://joshua.hu/firefox-making-right-click-not-suck)
+* [2026-03-04, 17:56:04](https://news.ycombinator.com/item?id=47251259) - [NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute](https://qlabs.sh/slowrun)
+* [2026-03-04, 17:49:44](https://news.ycombinator.com/item?id=47251163) - [Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra](https://roboflow.com/careers)
 * [2026-03-04, 17:24:38](https://news.ycombinator.com/item?id=47250778) - [You Bought Zuck's Ray-Bans. Now Someone in Nairobi Is Watching You Poop](https://blog.adafruit.com/2026/03/04/you-bought-zucks-ray-bans-now-someone-in-nairobi-is-watching-you-poop/)
 * [2026-03-04, 16:43:36](https://news.ycombinator.com/item?id=47250133) - [Welcome to the Wasteland: A Thousand Gas Towns](https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f)
 * [2026-03-04, 16:24:18](https://news.ycombinator.com/item?id=47249809) - [Sea level much higher than assumed in most coastal hazard assessments](https://www.nature.com/articles/s41586-026-10196-1)
 * [2026-03-04, 15:55:34](https://news.ycombinator.com/item?id=47249343) - [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/)
+* [2026-03-04, 15:22:03](https://news.ycombinator.com/item?id=47248806) - [Notes on Project Oberon](https://sidhion.com/blog/oberon_notes/)
 * [2026-03-04, 15:02:36](https://news.ycombinator.com/item?id=47248511) - [Medical journal says the case reports it has published for 25 years are fiction](https://retractionwatch.com/2026/03/03/canadian-pediatric-society-journal-correction-case-reports-fictional-paediatrics-child-health/)
 * [2026-03-04, 14:53:48](https://news.ycombinator.com/item?id=47248341) - [The one science reform we can all agree on, but we're too cowardly to do](https://www.experimental-history.com/p/the-one-science-reform-we-can-all)
 * [2026-03-04, 14:52:46](https://news.ycombinator.com/item?id=47248319) - [\"It Turns Out\"](https://jsomers.net/blog/it-turns-out)
@@ -24,6 +28,7 @@
 * [2026-03-04, 12:01:42](https://news.ycombinator.com/item?id=47246268) - [Jiga (YC W21) Is Hiring](https://jiga.io/about-us)
 * [2026-03-04, 11:43:32](https://news.ycombinator.com/item?id=47246110) - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 * [2026-03-04, 11:33:46](https://news.ycombinator.com/item?id=47246044) - [Users fume over Outlook.com email 'carnage'](https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/)
+* [2026-03-04, 10:21:13](https://news.ycombinator.com/item?id=47245491) - [Moss is a pixel canvas where every brush is a tiny program](https://www.moss.town/)
 * [2026-03-04, 09:42:20](https://news.ycombinator.com/item?id=47245211) - [Bet on German Train Delays](https://bahn.bet)
 * [2026-03-04, 09:39:35](https://news.ycombinator.com/item?id=47245186) - [The next era of social media: built and run in Europe, ruled by our laws](https://www.eurosky.tech)
 * [2026-03-04, 08:23:26](https://news.ycombinator.com/item?id=47244651) - [Nuclear War: An LLM Scenario](https://chrisclapham.com/blog/nuclear-war-an-llm-scenario)
