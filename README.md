@@ -5,9 +5,7 @@
 * [2026-03-04, 05:00:37](https://news.ycombinator.com/item?id=47243272) - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
 * [2026-03-04, 04:30:32](https://news.ycombinator.com/item?id=47243069) - [A CPU that runs entirely on GPU](https://github.com/robertcprice/nCPU)
 * [2026-03-04, 04:25:20](https://news.ycombinator.com/item?id=47243036) - [Indefinite Book Club Hiatus](https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/)
-* [2026-03-04, 03:36:18](https://news.ycombinator.com/item?id=47242725) - [California's Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
 * [2026-03-04, 03:24:20](https://news.ycombinator.com/item?id=47242637) - [Speculative Speculative Decoding (SSD)](https://arxiv.org/abs/2603.03251)
-* [2026-03-04, 02:43:05](https://news.ycombinator.com/item?id=47242342) - [Mac external displays for designers and developers, part 2 (2022)](https://bjango.com/articles/macexternaldisplays2/)
 * [2026-03-04, 02:34:06](https://news.ycombinator.com/item?id=47242277) - [Number Research Inc](https://numberresearch.xyz/)
 * [2026-03-04, 02:23:01](https://news.ycombinator.com/item?id=47242193) - [Graphics Programming Resources](https://develop--gpvm-website.netlify.app/resources/)
 * [2026-03-04, 01:52:21](https://news.ycombinator.com/item?id=47241976) - [Weave – A language aware merge algorithm based on entities](https://github.com/Ataraxy-Labs/weave)
@@ -17,6 +15,7 @@
 * [2026-03-03, 23:38:21](https://news.ycombinator.com/item?id=47240736) - [My spicy take on vibe coding for PMs](https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/)
 * [2026-03-03, 21:10:27](https://news.ycombinator.com/item?id=47239042) - [Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update)
 * [2026-03-03, 19:22:32](https://news.ycombinator.com/item?id=47237460) - [An Interactive Intro to CRDTs (2023)](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+* [2026-03-03, 18:54:06](https://news.ycombinator.com/item?id=47236958) - [Intel's make-or-break 18A process node debuts for data center with 288-core Xeon](https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech)
 * [2026-03-03, 17:57:33](https://news.ycombinator.com/item?id=47236169) - [GPT‑5.3 Instant](https://openai.com/index/gpt-5-3-instant/)
 * [2026-03-03, 16:34:53](https://news.ycombinator.com/item?id=47234917) - [When AI writes the software, who verifies it?](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
 * [2026-03-03, 14:30:58](https://news.ycombinator.com/item?id=47232903) - [Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents](https://news.ycombinator.com/item?id=47232903)
@@ -30,6 +29,7 @@
 * [2026-03-01, 06:25:10](https://news.ycombinator.com/item?id=47204203) - [Mount Mayhem at Netflix: Scaling Containers on Modern CPUs](https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac)
 * [2026-03-01, 05:36:58](https://news.ycombinator.com/item?id=47204027) - [Textadept](https://orbitalquark.github.io/textadept/)
 * [2026-02-28, 23:24:57](https://news.ycombinator.com/item?id=47201598) - [You can use newline characters in URLs](https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/)
+* [2026-02-28, 16:28:54](https://news.ycombinator.com/item?id=47197218) - [Show HN: Stacked Game of Life](https://stacked-game-of-life.koenvangilst.nl/)
 
 ## [Archives](archives/index.md)
 
