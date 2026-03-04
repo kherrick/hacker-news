@@ -28,6 +28,7 @@
 * [2026-03-01, 19:22:47](https://news.ycombinator.com/item?id=47209773) - [A new Polymarket account made over $500k betting on the U.S. strike against Iran](https://twitter.com/cabsav456/status/2027937130995921119)
 * [2026-03-01, 18:09:08](https://news.ycombinator.com/item?id=47209122) - [Greg Knauss Is Losing Himself](https://shapeof.com/archives/2026/2/greg_knauss_is_losing_himself.html)
 * [2026-03-01, 17:31:29](https://news.ycombinator.com/item?id=47208744) - [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
+* [2026-03-01, 17:25:27](https://news.ycombinator.com/item?id=47208688) - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
 * [2026-03-01, 17:11:44](https://news.ycombinator.com/item?id=47208573) - [Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering](https://maderix.substack.com/p/inside-the-m4-apple-neural-engine)
 * [2026-03-01, 17:02:15](https://news.ycombinator.com/item?id=47208471) - [6 Practices that turned AI from prototyper to workhorse (106 PRs in 14 days)](https://news.ycombinator.com/item?id=47208471)
 * [2026-03-01, 16:58:03](https://news.ycombinator.com/item?id=47208423) - [I Built a Scheme Compiler with AI in 4 Days](https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/)

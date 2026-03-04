@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
+* [2026-03-04, 20:30:16](https://news.ycombinator.com/item?id=47253364) - [Does that use a lot of energy?](https://hannahritchie.github.io/energy-use-comparisons/)
+* [2026-03-04, 20:19:43](https://news.ycombinator.com/item?id=47253221) - [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/)
+* [2026-03-04, 20:16:03](https://news.ycombinator.com/item?id=47253177) - [Building a New Flash](https://bill.newgrounds.com/news/post/1607118)
+* [2026-03-04, 20:15:06](https://news.ycombinator.com/item?id=47253160) - [Was Windows 1.0's lack of overlapping windows a legal or a technical matter?](https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter)
 * [2026-03-04, 19:48:07](https://news.ycombinator.com/item?id=47252838) - [Father claims Google's AI product fuelled son's delusional spiral](https://www.bbc.com/news/articles/czx44p99457o)
 * [2026-03-04, 19:40:22](https://news.ycombinator.com/item?id=47252726) - [Google ends its 30 percent app store fee and welcomes third-party app stores](https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html)
 * [2026-03-04, 18:51:49](https://news.ycombinator.com/item?id=47252062) - [AfricaMuseum refuses to yield Congo geological archives despite US pressure](https://www.vrt.be/vrtnws/en/2026/02/12/africamuseum-refuses-to-hand-over-geological-archive-on-congo-to/)
