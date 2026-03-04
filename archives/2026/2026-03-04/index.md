@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
+* [2026-03-04, 09:39:35](https://news.ycombinator.com/item?id=47245186) - [The next era of social media: built and run in Europe, ruled by our laws](https://www.eurosky.tech)
 * [2026-03-04, 07:25:24](https://news.ycombinator.com/item?id=47244291) - [RFC 9849. TLS Encrypted Client Hello](https://www.rfc-editor.org/rfc/rfc9849.html)
 * [2026-03-04, 06:19:11](https://news.ycombinator.com/item?id=47243818) - [How Mossad hacked traffic cameras to track Ayatollah Khamenei](https://www.google.com/search?q=How+Mossad+hacked+traffic+cameras+to+track+Ayatollah+Khamenei)
 * [2026-03-04, 06:17:10](https://news.ycombinator.com/item?id=47243804) - [Better JIT for Postgres](https://github.com/vladich/pg_jitter)

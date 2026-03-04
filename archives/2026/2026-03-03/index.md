@@ -55,6 +55,7 @@
 * [2026-03-03, 10:57:42](https://news.ycombinator.com/item?id=47230710) - [Claude's Cycles: Claude Opus 4.6 solves a problem posed by Don Knuth [pdf]](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
 * [2026-03-03, 10:56:52](https://news.ycombinator.com/item?id=47230704) - [The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
 * [2026-03-03, 10:49:05](https://news.ycombinator.com/item?id=47230663) - [The beauty and terror of modding Windows](https://windowsread.me/p/windhawk-explained)
+* [2026-03-03, 10:41:26](https://news.ycombinator.com/item?id=47230620) - [Show HN: I made a zero-copy coroutine tracer to find my scheduler's lost wakeups](https://github.com/lixiasky-back/coroTracer)
 * [2026-03-03, 10:28:36](https://news.ycombinator.com/item?id=47230539) - [China's 450kmph bullet train is the fastest ever built](https://www.executivetraveller.com/news/china-cr450-world-s-fastest-bullet-train)
 * [2026-03-03, 10:11:44](https://news.ycombinator.com/item?id=47230438) - [Show HN: Open-Source Article 12 Logging Infrastructure for the EU AI Act](https://news.ycombinator.com/item?id=47230438)
 * [2026-03-03, 09:23:42](https://news.ycombinator.com/item?id=47230138) - [Simplifying Application Architecture with Modular Design and MIM](https://codingfox.net.pl/posts/mim/)
