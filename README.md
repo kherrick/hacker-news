@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-04, 22:06:57](https://news.ycombinator.com/item?id=47254624) - [Accessibility Issues Are Often Usability Issues](https://protovate.com/blog/you-dont-need-accessibility-until-you-do/)
 * [2026-03-04, 21:56:20](https://news.ycombinator.com/item?id=47254516) - [NRC Issues First Commercial Reactor Construction Approval in 10 Years [pdf]](https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf)
 * [2026-03-04, 21:41:40](https://news.ycombinator.com/item?id=47254322) - [It is sweet and fitting to die for one's country (1921)](https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est)
 * [2026-03-04, 21:11:15](https://news.ycombinator.com/item?id=47253892) - [BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)
@@ -26,6 +25,7 @@
 * [2026-03-04, 07:47:06](https://news.ycombinator.com/item?id=47244395) - [To understand our fascination with crystals, researchers gave some to chimps](https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html)
 * [2026-03-01, 17:25:27](https://news.ycombinator.com/item?id=47208688) - [The Rust calling convention we deserve (2024)](https://mcyoung.xyz/2024/04/17/calling-convention/)
 * [2026-03-01, 15:36:48](https://news.ycombinator.com/item?id=47207647) - [My Favorite 39C3 Talks](https://asindu.xyz/my-favorite-39c3-talks/)
+* [2026-03-01, 11:05:28](https://news.ycombinator.com/item?id=47205659) - [Show HN: Vertex.js – A 1kloc SPA Framework](https://lukeb42.github.io/vertex-manual.html)
 * [2026-03-01, 09:01:05](https://news.ycombinator.com/item?id=47204994) - [Libre Solar – Open Hardware for Renewable Energy](https://libre.solar)
 * [2026-03-01, 00:26:43](https://news.ycombinator.com/item?id=47202210) - [Raspberry Pi Pico as AM Radio Transmitter](https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter)
 * [2026-02-28, 17:48:45](https://news.ycombinator.com/item?id=47198162) - [Flip Distance of Convex Triangulations and Tree Rotation Is NP-Complete](https://arxiv.org/abs/2602.22874)
