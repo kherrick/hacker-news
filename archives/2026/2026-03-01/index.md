@@ -41,6 +41,7 @@
 * [2026-03-01, 14:09:06](https://news.ycombinator.com/item?id=47206820) - [Pentagon Adopts Incel-Speak](https://www.theguardian.com/science/2026/mar/01/incel-slang-mainstream-government-media)
 * [2026-03-01, 14:07:05](https://news.ycombinator.com/item?id=47206798) - [Ape Coding](https://rsaksida.com/blog/ape-coding/)
 * [2026-03-01, 13:49:21](https://news.ycombinator.com/item?id=47206663) - [AI is making junior devs useless](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
+* [2026-03-01, 13:47:36](https://news.ycombinator.com/item?id=47206647) - [RE#: how we built the fastest regex engine in F#](https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/)
 * [2026-03-01, 12:54:47](https://news.ycombinator.com/item?id=47206280) - [Against Query Based Compilers](https://matklad.github.io/2026/02/25/against-query-based-compilers.html)
 * [2026-03-01, 12:54:30](https://news.ycombinator.com/item?id=47206275) - [Circle Games (2019)](https://srconstantin.wordpress.com/2019/06/06/circle-games/)
 * [2026-03-01, 12:25:11](https://news.ycombinator.com/item?id=47206082) - [Show HN: I built a zero-browser, pure-JS typesetting engine for bit-perfect PDFs](https://github.com/cosmiciron/vmprint)

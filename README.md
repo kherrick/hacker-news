@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-04, 09:39:35](https://news.ycombinator.com/item?id=47245186) - [The next era of social media: built and run in Europe, ruled by our laws](https://www.eurosky.tech)
 * [2026-03-04, 07:25:24](https://news.ycombinator.com/item?id=47244291) - [RFC 9849. TLS Encrypted Client Hello](https://www.rfc-editor.org/rfc/rfc9849.html)
 * [2026-03-04, 06:17:10](https://news.ycombinator.com/item?id=47243804) - [Better JIT for Postgres](https://github.com/vladich/pg_jitter)
 * [2026-03-04, 05:00:37](https://news.ycombinator.com/item?id=47243272) - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
@@ -24,6 +23,7 @@
 * [2026-03-03, 10:57:42](https://news.ycombinator.com/item?id=47230710) - [Claude's Cycles [pdf]](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
 * [2026-03-03, 10:41:26](https://news.ycombinator.com/item?id=47230620) - [Show HN: I made a zero-copy coroutine tracer to find my scheduler's lost wakeups](https://github.com/lixiasky-back/coroTracer)
 * [2026-03-01, 21:47:51](https://news.ycombinator.com/item?id=47211034) - [Reverse-Engineering the Wetware: Spiking Networks and the End of Matrix Math](https://metaduck.com/reverse-engineering-the-wetware-spiking-networks-td-errors-and-the-end-of-matrix-math/)
+* [2026-03-01, 13:47:36](https://news.ycombinator.com/item?id=47206647) - [RE#: how we built the fastest regex engine in F#](https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/)
 * [2026-03-01, 11:02:55](https://news.ycombinator.com/item?id=47205650) - [Show HN: Rust compiler in PHP emitting x86-64 executables](https://github.com/mrconter1/rustc-php)
 * [2026-03-01, 10:56:17](https://news.ycombinator.com/item?id=47205603) - [Welcoming Elizabeth Barron as the New Executive Director of the PHP Foundation](https://thephp.foundation/blog/2026/02/27/welcoming-elizabeth-barron-new-executive-director/)
 * [2026-03-01, 09:09:04](https://news.ycombinator.com/item?id=47205031) - [On the Design of Programming Languages (1974) [pdf]](https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF)
