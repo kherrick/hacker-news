@@ -55,6 +55,7 @@
 * [2026-03-01, 09:04:19](https://news.ycombinator.com/item?id=47205009) - [Intelligence is a commodity. Context is the real AI Moat](https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity)
 * [2026-03-01, 08:55:52](https://news.ycombinator.com/item?id=47204964) - [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
 * [2026-03-01, 08:22:05](https://news.ycombinator.com/item?id=47204784) - [What Are Your Guilty Displeasures?](https://www.hopefulmons.com/p/what-are-your-guilty-displeasures)
+* [2026-03-01, 08:15:27](https://news.ycombinator.com/item?id=47204754) - [What’s in a name? (2014)](https://sailsandcommas.com/2014/02/03/whats-in-a-name/)
 * [2026-03-01, 07:36:52](https://news.ycombinator.com/item?id=47204571) - [Switch to Claude Without Starting Over](https://claude.com/import-memory)
 * [2026-03-01, 07:36:33](https://news.ycombinator.com/item?id=47204570) - [Show HN: React-Kino – Cinematic scroll storytelling for React (1KB core)](https://github.com/btahir/react-kino)
 * [2026-03-01, 07:35:03](https://news.ycombinator.com/item?id=47204559) - [10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org)

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
+* [2026-03-03, 23:38:21](https://news.ycombinator.com/item?id=47240736) - [My take on vibe coding for PMs](https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/)
+* [2026-03-03, 23:34:05](https://news.ycombinator.com/item?id=47240694) - [Lenovo's New ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability)
+* [2026-03-03, 23:17:24](https://news.ycombinator.com/item?id=47240504) - [130k Lines of Formal Topology: Simple and Cheap Autoformalization for Everyone?](https://arxiv.org/abs/2601.03298)
 * [2026-03-03, 23:11:11](https://news.ycombinator.com/item?id=47240441) - [Talos: Hardware accelerator for deep convolutional neural networks](https://talos.wtf/)
 * [2026-03-03, 22:49:54](https://news.ycombinator.com/item?id=47240212) - [Helsinki just went a full year without a single traffic death](https://www.politico.eu/article/helsinki-no-traffic-death-roads-eu-accident-finland-driving-transport/)
 * [2026-03-03, 22:24:06](https://news.ycombinator.com/item?id=47239943) - [Don't Make Me Talk to Your Chatbot](https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/)
