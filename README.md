@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-04, 14:53:48](https://news.ycombinator.com/item?id=47248341) - [The one science reform we can all agree on, but we're too cowardly to do](https://www.experimental-history.com/p/the-one-science-reform-we-can-all)
+* [2026-03-04, 14:52:46](https://news.ycombinator.com/item?id=47248319) - [\"It Turns Out\"](https://jsomers.net/blog/it-turns-out)
 * [2026-03-04, 14:18:33](https://news.ycombinator.com/item?id=47247670) - [Apple Announces Low-Cost 'MacBook Neo' with A18 Pro Chip](https://www.macrumors.com/2026/03/04/apple-announces-low-cost-macbook-neo-with-a18-pro-chip/)
-* [2026-03-04, 14:16:56](https://news.ycombinator.com/item?id=47247649) - [MacBook Neo](https://www.apple.com/macbook-neo/)
 * [2026-03-04, 14:16:41](https://news.ycombinator.com/item?id=47247645) - [Apple Introduces MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
+* [2026-03-04, 13:39:28](https://news.ycombinator.com/item?id=47247245) - [A Visual Guide to DNA Sequencing](https://www.asimov.press/p/dna-sequencing)
 * [2026-03-04, 13:21:31](https://news.ycombinator.com/item?id=47247033) - [Glaze by Raycast](https://www.glazeapp.com/)
 * [2026-03-04, 12:54:04](https://news.ycombinator.com/item?id=47246746) - [Did Alibaba just kneecap its powerful Qwen AI team?](https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in)
 * [2026-03-04, 12:04:31](https://news.ycombinator.com/item?id=47246296) - [Qwen3.5 Fine-Tuning Guide – Unsloth Documentation](https://unsloth.ai/docs/models/qwen3.5/fine-tune)
-* [2026-03-04, 12:04:21](https://news.ycombinator.com/item?id=47246295) - [The JVG algorithm could break RSA-2048 encryption with fewer than 5k qubits](https://briefglance.com/articles/new-quantum-algorithm-warns-of-an-accelerated-crypto-apocalypse)
 * [2026-03-04, 12:01:42](https://news.ycombinator.com/item?id=47246268) - [Jiga (YC W21) Is Hiring](https://jiga.io/about-us)
 * [2026-03-04, 11:43:32](https://news.ycombinator.com/item?id=47246110) - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 * [2026-03-04, 09:42:20](https://news.ycombinator.com/item?id=47245211) - [Bet on German Train Delays](https://bahn.bet)
@@ -27,7 +28,6 @@
 * [2026-03-01, 09:09:04](https://news.ycombinator.com/item?id=47205031) - [On the Design of Programming Languages (1974) [pdf]](https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF)
 * [2026-03-01, 09:01:05](https://news.ycombinator.com/item?id=47204994) - [Libre Solar – Open Hardware for Renewable Energy](https://libre.solar)
 * [2026-03-01, 07:26:00](https://news.ycombinator.com/item?id=47204504) - [Elevator Saga: The elevator programming game (2015)](https://play.elevatorsaga.com/index.html)
-* [2026-03-01, 05:36:58](https://news.ycombinator.com/item?id=47204027) - [Textadept](https://orbitalquark.github.io/textadept/)
 * [2026-02-28, 17:14:20](https://news.ycombinator.com/item?id=47197749) - [Modern Illustration: Archive of illustration from c.1950-1975](https://www.modernillustration.org)
 * [2026-02-28, 16:28:54](https://news.ycombinator.com/item?id=47197218) - [Show HN: Stacked Game of Life](https://stacked-game-of-life.koenvangilst.nl/)
 

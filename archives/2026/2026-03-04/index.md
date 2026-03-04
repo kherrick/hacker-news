@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
+* [2026-03-04, 14:53:48](https://news.ycombinator.com/item?id=47248341) - [The one science reform we can all agree on, but we're too cowardly to do](https://www.experimental-history.com/p/the-one-science-reform-we-can-all)
+* [2026-03-04, 14:52:46](https://news.ycombinator.com/item?id=47248319) - [\"It Turns Out\"](https://jsomers.net/blog/it-turns-out)
 * [2026-03-04, 14:18:33](https://news.ycombinator.com/item?id=47247670) - [Apple Announces Low-Cost 'MacBook Neo' with A18 Pro Chip](https://www.macrumors.com/2026/03/04/apple-announces-low-cost-macbook-neo-with-a18-pro-chip/)
 * [2026-03-04, 14:16:56](https://news.ycombinator.com/item?id=47247649) - [MacBook Neo](https://www.apple.com/macbook-neo/)
 * [2026-03-04, 14:16:41](https://news.ycombinator.com/item?id=47247645) - [Apple Introduces MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
+* [2026-03-04, 13:39:28](https://news.ycombinator.com/item?id=47247245) - [A Visual Guide to DNA Sequencing](https://www.asimov.press/p/dna-sequencing)
 * [2026-03-04, 13:21:31](https://news.ycombinator.com/item?id=47247033) - [Glaze by Raycast](https://www.glazeapp.com/)
 * [2026-03-04, 12:54:04](https://news.ycombinator.com/item?id=47246746) - [Did Alibaba just kneecap its powerful Qwen AI team?](https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in)
 * [2026-03-04, 12:22:18](https://news.ycombinator.com/item?id=47246463) - [Iran war wreaking havoc on shipping and air cargo, could create global delays](https://www.theregister.com/2026/03/02/iran_war_tech_supply_chain/)
