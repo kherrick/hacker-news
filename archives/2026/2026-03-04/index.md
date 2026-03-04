@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
+* [2026-03-04, 22:06:57](https://news.ycombinator.com/item?id=47254624) - [Accessibility Issues Are Often Usability Issues](https://protovate.com/blog/you-dont-need-accessibility-until-you-do/)
+* [2026-03-04, 21:56:20](https://news.ycombinator.com/item?id=47254516) - [NRC Issues First Commercial Reactor Construction Approval in 10 Years [pdf]](https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf)
+* [2026-03-04, 21:41:40](https://news.ycombinator.com/item?id=47254322) - [It is sweet and fitting to die for one's country (1921)](https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est)
+* [2026-03-04, 21:11:15](https://news.ycombinator.com/item?id=47253892) - [BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)
 * [2026-03-04, 20:30:16](https://news.ycombinator.com/item?id=47253364) - [Does that use a lot of energy?](https://hannahritchie.github.io/energy-use-comparisons/)
 * [2026-03-04, 20:19:43](https://news.ycombinator.com/item?id=47253221) - [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/)
 * [2026-03-04, 20:16:03](https://news.ycombinator.com/item?id=47253177) - [Building a New Flash](https://bill.newgrounds.com/news/post/1607118)
