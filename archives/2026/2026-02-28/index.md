@@ -26,6 +26,7 @@
 * [2026-02-28, 18:57:43](https://news.ycombinator.com/item?id=47198912) - [Techno‑Feudal Elite Are Attempting to Build a Twenty‑First‑Century Fascist State](https://collapseofindustrialcivilization.com/2026/02/16/americas-oligarchic-techno-feudal-elite-are-attempting-to-build-a-twenty-first-century-fascist-state/)
 * [2026-02-28, 17:43:22](https://news.ycombinator.com/item?id=47198099) - [CSP for Pentesters: Understanding the Fundamentals](https://www.kayssel.com/newsletter/issue-20/)
 * [2026-02-28, 17:23:43](https://news.ycombinator.com/item?id=47197858) - [Moldova broke our data pipeline](https://www.avraam.dev/blog/moldova-broke-our-pipeline)
+* [2026-02-28, 17:14:20](https://news.ycombinator.com/item?id=47197749) - [Modern Illustration: Archive of illustration from c.1950-1975](https://www.modernillustration.org)
 * [2026-02-28, 17:12:46](https://news.ycombinator.com/item?id=47197735) - [Show HN: Tomoshibi – A writing app where your words fade by firelight](https://tomoshibi.in-hakumei.com/)
 * [2026-02-28, 16:58:54](https://news.ycombinator.com/item?id=47197595) - [Verified Spec-Driven Development (VSDD)](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
 * [2026-02-28, 16:51:49](https://news.ycombinator.com/item?id=47197505) - [The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam)

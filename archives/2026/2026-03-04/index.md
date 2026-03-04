@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
+* [2026-03-04, 12:22:18](https://news.ycombinator.com/item?id=47246463) - [Iran war wreaking havoc on shipping and air cargo, could create global delays](https://www.theregister.com/2026/03/02/iran_war_tech_supply_chain/)
+* [2026-03-04, 12:01:42](https://news.ycombinator.com/item?id=47246268) - [Jiga (YC W21) Is Hiring](https://jiga.io/about-us)
+* [2026-03-04, 11:43:32](https://news.ycombinator.com/item?id=47246110) - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 * [2026-03-04, 11:33:46](https://news.ycombinator.com/item?id=47246044) - [Users fume over Outlook.com email 'carnage'](https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/)
 * [2026-03-04, 09:42:20](https://news.ycombinator.com/item?id=47245211) - [Bet on German Train Delays](https://bahn.bet)
 * [2026-03-04, 09:39:35](https://news.ycombinator.com/item?id=47245186) - [The next era of social media: built and run in Europe, ruled by our laws](https://www.eurosky.tech)
