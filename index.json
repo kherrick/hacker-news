@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-03-04, 06:19:11",
-      "https://news.ycombinator.com/item?id=47243818"
+      "2026-03-04, 06:17:10",
+      "https://news.ycombinator.com/item?id=47243804"
     ],
     [
-      "How Mossad hacked traffic cameras to track Ayatollah Khamenei",
-      "https://www.google.com/search?q=How+Mossad+hacked+traffic+cameras+to+track+Ayatollah+Khamenei"
+      "Better JIT for Postgres",
+      "https://github.com/vladich/pg_jitter"
     ]
   ],
   [
@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2026-03-04, 03:40:18",
-      "https://news.ycombinator.com/item?id=47242765"
+      "2026-03-04, 03:37:48",
+      "https://news.ycombinator.com/item?id=47242739"
     ],
     [
-      "Nobody Gets Promoted for Simplicity",
-      "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/"
+      "Giving LLMs a personality is just good engineering",
+      "https://www.seangoedecke.com/giving-llms-a-personality/"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Speculative Speculative Decoding (SSD)",
       "https://arxiv.org/abs/2603.03251"
-    ]
-  ],
-  [
-    [
-      "2026-03-04, 03:00:32",
-      "https://news.ycombinator.com/item?id=47242453"
-    ],
-    [
-      "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-      "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/"
     ]
   ],
   [
@@ -241,6 +231,26 @@
   ],
   [
     [
+      "2026-03-01, 12:54:30",
+      "https://news.ycombinator.com/item?id=47206275"
+    ],
+    [
+      "Circle Games (2019)",
+      "https://srconstantin.wordpress.com/2019/06/06/circle-games/"
+    ]
+  ],
+  [
+    [
+      "2026-03-01, 11:02:55",
+      "https://news.ycombinator.com/item?id=47205650"
+    ],
+    [
+      "Show HN: Rust compiler in PHP emitting x86-64 executables",
+      "https://github.com/mrconter1/rustc-php"
+    ]
+  ],
+  [
+    [
       "2026-03-01, 10:56:17",
       "https://news.ycombinator.com/item?id=47205603"
     ],
@@ -277,16 +287,6 @@
     [
       "Textadept",
       "https://orbitalquark.github.io/textadept/"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 05:00:24",
-      "https://news.ycombinator.com/item?id=47203887"
-    ],
-    [
-      "A pretty looking web for a quantum mechanics tool",
-      "https://github.com/Jamessfks/mace"
     ]
   ],
   [
