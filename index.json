@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=47253177"
     ],
     [
-      "Building a New Flash",
+      "Building a new flash",
       "https://bill.newgrounds.com/news/post/1607118"
     ]
   ],
@@ -117,6 +117,16 @@
     [
       "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
       "https://qlabs.sh/slowrun"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 17:49:44",
+      "https://news.ycombinator.com/item?id=47251163"
+    ],
+    [
+      "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
+      "https://roboflow.com/careers"
     ]
   ],
   [
@@ -241,31 +251,11 @@
   ],
   [
     [
-      "2026-03-04, 05:00:37",
-      "https://news.ycombinator.com/item?id=47243272"
-    ],
-    [
-      "Agentic Engineering Patterns",
-      "https://simonwillison.net/guides/agentic-engineering-patterns/"
-    ]
-  ],
-  [
-    [
-      "2026-03-04, 01:31:05",
-      "https://news.ycombinator.com/item?id=47241817"
-    ],
-    [
-      "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
-      "https://www.bbc.com/news/articles/cly2m5e5ke4o"
-    ]
-  ],
-  [
-    [
       "2026-03-01, 17:25:27",
       "https://news.ycombinator.com/item?id=47208688"
     ],
     [
-      "The Rust Calling Convention We Deserve",
+      "The Rust calling convention we deserve (2024)",
       "https://mcyoung.xyz/2024/04/17/calling-convention/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Raspberry Pi Pico as AM Radio Transmitter",
       "https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 02:29:51",
+      "https://news.ycombinator.com/item?id=47189390"
+    ],
+    [
+      "Approximation Game",
+      "https://lcamtuf.substack.com/p/approximation-game"
     ]
   ]
 ]
