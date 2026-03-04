@@ -65,6 +65,7 @@
 * [2026-03-01, 07:36:52](https://news.ycombinator.com/item?id=47204571) - [Switch to Claude Without Starting Over](https://claude.com/import-memory)
 * [2026-03-01, 07:36:33](https://news.ycombinator.com/item?id=47204570) - [Show HN: React-Kino – Cinematic scroll storytelling for React (1KB core)](https://github.com/btahir/react-kino)
 * [2026-03-01, 07:35:03](https://news.ycombinator.com/item?id=47204559) - [10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org)
+* [2026-03-01, 07:26:00](https://news.ycombinator.com/item?id=47204504) - [Elevator Saga: The elevator programming game (2015)](https://play.elevatorsaga.com/index.html)
 * [2026-03-01, 06:25:10](https://news.ycombinator.com/item?id=47204203) - [Mount Mayhem at Netflix: Scaling Containers on Modern CPUs](https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac)
 * [2026-03-01, 05:36:58](https://news.ycombinator.com/item?id=47204027) - [Textadept](https://orbitalquark.github.io/textadept/)
 * [2026-03-01, 05:00:24](https://news.ycombinator.com/item?id=47203887) - [A pretty looking web for a quantum mechanics tool](https://github.com/Jamessfks/mace)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
+* [2026-03-04, 11:33:46](https://news.ycombinator.com/item?id=47246044) - [Users fume over Outlook.com email 'carnage'](https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/)
+* [2026-03-04, 09:42:20](https://news.ycombinator.com/item?id=47245211) - [Bet on German Train Delays](https://bahn.bet)
 * [2026-03-04, 09:39:35](https://news.ycombinator.com/item?id=47245186) - [The next era of social media: built and run in Europe, ruled by our laws](https://www.eurosky.tech)
 * [2026-03-04, 07:25:24](https://news.ycombinator.com/item?id=47244291) - [RFC 9849. TLS Encrypted Client Hello](https://www.rfc-editor.org/rfc/rfc9849.html)
 * [2026-03-04, 06:19:11](https://news.ycombinator.com/item?id=47243818) - [How Mossad hacked traffic cameras to track Ayatollah Khamenei](https://www.google.com/search?q=How+Mossad+hacked+traffic+cameras+to+track+Ayatollah+Khamenei)
