@@ -60,6 +60,7 @@
 * [2026-03-01, 09:21:04](https://news.ycombinator.com/item?id=47205090) - [Show HN: Effective Git](https://github.com/nolasoft/okgit)
 * [2026-03-01, 09:09:04](https://news.ycombinator.com/item?id=47205031) - [On the Design of Programming Languages (1974) [pdf]](https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF)
 * [2026-03-01, 09:04:19](https://news.ycombinator.com/item?id=47205009) - [Intelligence is a commodity. Context is the real AI Moat](https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity)
+* [2026-03-01, 09:01:05](https://news.ycombinator.com/item?id=47204994) - [Libre Solar – Open Hardware for Renewable Energy](https://libre.solar)
 * [2026-03-01, 08:55:52](https://news.ycombinator.com/item?id=47204964) - [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
 * [2026-03-01, 08:22:05](https://news.ycombinator.com/item?id=47204784) - [What Are Your Guilty Displeasures?](https://www.hopefulmons.com/p/what-are-your-guilty-displeasures)
 * [2026-03-01, 08:15:27](https://news.ycombinator.com/item?id=47204754) - [What’s in a name? (2014)](https://sailsandcommas.com/2014/02/03/whats-in-a-name/)
