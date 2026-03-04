@@ -53,6 +53,7 @@
 * [2026-03-01, 09:27:34](https://news.ycombinator.com/item?id=47205129) - [Why is the first C++ (m)allocation always 72 KB?](https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/)
 * [2026-03-01, 09:26:59](https://news.ycombinator.com/item?id=47205127) - [Show HN: Terminal-Style Portfolio on the Internet](https://kuber.studio/)
 * [2026-03-01, 09:21:04](https://news.ycombinator.com/item?id=47205090) - [Show HN: Effective Git](https://github.com/nolasoft/okgit)
+* [2026-03-01, 09:09:04](https://news.ycombinator.com/item?id=47205031) - [On the Design of Programming Languages (1974) [pdf]](https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF)
 * [2026-03-01, 09:04:19](https://news.ycombinator.com/item?id=47205009) - [Intelligence is a commodity. Context is the real AI Moat](https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity)
 * [2026-03-01, 08:55:52](https://news.ycombinator.com/item?id=47204964) - [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
 * [2026-03-01, 08:22:05](https://news.ycombinator.com/item?id=47204784) - [What Are Your Guilty Displeasures?](https://www.hopefulmons.com/p/what-are-your-guilty-displeasures)
