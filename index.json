@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-03-04, 20:30:16",
+      "https://news.ycombinator.com/item?id=47253364"
+    ],
+    [
+      "Does that use a lot of energy?",
+      "https://hannahritchie.github.io/energy-use-comparisons/"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 20:19:43",
+      "https://news.ycombinator.com/item?id=47253221"
+    ],
+    [
+      "The View from RSS",
+      "https://www.carolinecrampton.com/the-view-from-rss/"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 20:16:03",
+      "https://news.ycombinator.com/item?id=47253177"
+    ],
+    [
+      "Building a New Flash",
+      "https://bill.newgrounds.com/news/post/1607118"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 20:15:06",
+      "https://news.ycombinator.com/item?id=47253160"
+    ],
+    [
+      "Was Windows 1.0's lack of overlapping windows a legal or a technical matter?",
+      "https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter"
+    ]
+  ],
+  [
+    [
       "2026-03-04, 19:48:07",
       "https://news.ycombinator.com/item?id=47252838"
     ],
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2026-03-04, 14:53:48",
-      "https://news.ycombinator.com/item?id=47248341"
-    ],
-    [
-      "Government grant-funded research should not be published in for-profit journals",
-      "https://www.experimental-history.com/p/the-one-science-reform-we-can-all"
-    ]
-  ],
-  [
-    [
       "2026-03-04, 14:52:46",
       "https://news.ycombinator.com/item?id=47248319"
     ],
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2026-03-04, 04:30:32",
-      "https://news.ycombinator.com/item?id=47243069"
-    ],
-    [
-      "A CPU that runs entirely on GPU",
-      "https://github.com/robertcprice/nCPU"
-    ]
-  ],
-  [
-    [
       "2026-03-04, 01:31:05",
       "https://news.ycombinator.com/item?id=47241817"
     ],
@@ -241,22 +261,12 @@
   ],
   [
     [
-      "2026-03-04, 00:58:31",
-      "https://news.ycombinator.com/item?id=47241551"
+      "2026-03-01, 17:25:27",
+      "https://news.ycombinator.com/item?id=47208688"
     ],
     [
-      "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
-      "https://grapheneos.social/@GrapheneOS/116160393783585567"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 06:40:28",
-      "https://news.ycombinator.com/item?id=47214608"
-    ],
-    [
-      "The 1,700-year-old megastructure history almost forgot",
-      "https://www.cnn.com/2026/02/28/travel/travel-news-jetavanaramaya-ephesus"
+      "The Rust Calling Convention We Deserve",
+      "https://mcyoung.xyz/2024/04/17/calling-convention/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "My Favorite 39C3 Talks",
       "https://asindu.xyz/my-favorite-39c3-talks/"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 13:47:36",
-      "https://news.ycombinator.com/item?id=47206647"
-    ],
-    [
-      "RE#: how we built the fastest regex engine in F#",
-      "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/"
     ]
   ],
   [
