@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-04, 14:18:33",
+      "https://news.ycombinator.com/item?id=47247670"
+    ],
+    [
+      "Apple Announces Low-Cost 'MacBook Neo' with A18 Pro Chip",
+      "https://www.macrumors.com/2026/03/04/apple-announces-low-cost-macbook-neo-with-a18-pro-chip/"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 14:16:56",
+      "https://news.ycombinator.com/item?id=47247649"
+    ],
+    [
+      "MacBook Neo",
+      "https://www.apple.com/macbook-neo/"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 14:16:41",
+      "https://news.ycombinator.com/item?id=47247645"
+    ],
+    [
+      "Apple Introduces MacBook Neo",
+      "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/"
+    ]
+  ],
+  [
+    [
       "2026-03-04, 13:21:31",
       "https://news.ycombinator.com/item?id=47247033"
     ],
@@ -17,6 +47,26 @@
     [
       "Did Alibaba just kneecap its powerful Qwen AI team?",
       "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 12:04:31",
+      "https://news.ycombinator.com/item?id=47246296"
+    ],
+    [
+      "Qwen3.5 Fine-Tuning Guide – Unsloth Documentation",
+      "https://unsloth.ai/docs/models/qwen3.5/fine-tune"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 12:04:21",
+      "https://news.ycombinator.com/item?id=47246295"
+    ],
+    [
+      "The JVG algorithm could break RSA-2048 encryption with fewer than 5k qubits",
+      "https://briefglance.com/articles/new-quantum-algorithm-warns-of-an-accelerated-crypto-apocalypse"
     ]
   ],
   [
@@ -51,12 +101,12 @@
   ],
   [
     [
-      "2026-03-04, 08:23:26",
-      "https://news.ycombinator.com/item?id=47244651"
+      "2026-03-04, 07:47:06",
+      "https://news.ycombinator.com/item?id=47244395"
     ],
     [
-      "Nuclear War: An LLM Scenario",
-      "https://chrisclapham.com/blog/nuclear-war-an-llm-scenario"
+      "Chimpanzees Are into Crystals",
+      "https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html"
     ]
   ],
   [
@@ -101,16 +151,6 @@
   ],
   [
     [
-      "2026-03-04, 04:25:20",
-      "https://news.ycombinator.com/item?id=47243036"
-    ],
-    [
-      "Indefinite Book Club Hiatus",
-      "https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/"
-    ]
-  ],
-  [
-    [
       "2026-03-04, 02:23:01",
       "https://news.ycombinator.com/item?id=47242193"
     ],
@@ -131,32 +171,12 @@
   ],
   [
     [
-      "2026-03-04, 01:31:05",
-      "https://news.ycombinator.com/item?id=47241817"
-    ],
-    [
-      "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
-      "https://www.bbc.com/news/articles/cly2m5e5ke4o"
-    ]
-  ],
-  [
-    [
       "2026-03-04, 00:58:31",
       "https://news.ycombinator.com/item?id=47241551"
     ],
     [
       "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
       "https://grapheneos.social/@GrapheneOS/116160393783585567"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 23:38:21",
-      "https://news.ycombinator.com/item?id=47240736"
-    ],
-    [
-      "My spicy take on vibe coding for PMs",
-      "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2026-03-03, 16:34:53",
-      "https://news.ycombinator.com/item?id=47234917"
-    ],
-    [
-      "When AI writes the software, who verifies it?",
-      "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html"
-    ]
-  ],
-  [
-    [
       "2026-03-03, 14:55:57",
       "https://news.ycombinator.com/item?id=47233336"
     ],
     [
       "Charging a three-cell nickel-based battery pack with a Li-Ion charger [pdf]",
       "https://www.ti.com/lit/an/slyt468/slyt468.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 14:30:58",
-      "https://news.ycombinator.com/item?id=47232903"
-    ],
-    [
-      "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
-      "https://news.ycombinator.com/item?id=47232903"
     ]
   ],
   [
@@ -217,16 +217,6 @@
     [
       "Show HN: I made a zero-copy coroutine tracer to find my scheduler's lost wakeups",
       "https://github.com/lixiasky-back/coroTracer"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 21:47:51",
-      "https://news.ycombinator.com/item?id=47211034"
-    ],
-    [
-      "Reverse-Engineering the Wetware: Spiking Networks and the End of Matrix Math",
-      "https://metaduck.com/reverse-engineering-the-wetware-spiking-networks-td-errors-and-the-end-of-matrix-math/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "On the Design of Programming Languages (1974) [pdf]",
       "https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF"
+    ]
+  ],
+  [
+    [
+      "2026-03-01, 09:01:05",
+      "https://news.ycombinator.com/item?id=47204994"
+    ],
+    [
+      "Libre Solar – Open Hardware for Renewable Energy",
+      "https://libre.solar"
     ]
   ],
   [
