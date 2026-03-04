@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
+* [2026-03-04, 03:40:18](https://news.ycombinator.com/item?id=47242765) - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 * [2026-03-04, 03:36:18](https://news.ycombinator.com/item?id=47242725) - [California's Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
 * [2026-03-04, 03:24:20](https://news.ycombinator.com/item?id=47242637) - [Speculative Speculative Decoding (SSD)](https://arxiv.org/abs/2603.03251)
 * [2026-03-04, 03:00:32](https://news.ycombinator.com/item?id=47242453) - [LLMs can unmask pseudonymous users at scale with surprising accuracy](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/)
 * [2026-03-04, 02:43:05](https://news.ycombinator.com/item?id=47242342) - [Mac external displays for designers and developers, part 2](https://bjango.com/articles/macexternaldisplays2/)
+* [2026-03-04, 02:34:06](https://news.ycombinator.com/item?id=47242277) - [Number Research Inc](https://numberresearch.xyz/)
 * [2026-03-04, 02:23:01](https://news.ycombinator.com/item?id=47242193) - [Graphics Programming Resources](https://develop--gpvm-website.netlify.app/resources/)
 * [2026-03-04, 01:52:21](https://news.ycombinator.com/item?id=47241976) - [Weave – A language aware merge algorithm based on entities](https://github.com/Ataraxy-Labs/weave)
 * [2026-03-04, 01:42:43](https://news.ycombinator.com/item?id=47241910) - [Show HN: AgentBus – Centralized AI Agent-to-Agent Messaging via REST API](https://agentbus.org/)

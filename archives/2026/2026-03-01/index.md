@@ -46,6 +46,7 @@
 * [2026-03-01, 11:49:01](https://news.ycombinator.com/item?id=47205890) - [I built a demo of what AI chat will look like when it's \"free\" and ad-supported](https://99helpers.com/tools/ad-supported-chat)
 * [2026-03-01, 11:05:28](https://news.ycombinator.com/item?id=47205659) - [Show HN: Vertex.js – A 1kloc SPA Framework](https://lukeb42.github.io/vertex-manual.html)
 * [2026-03-01, 11:01:17](https://news.ycombinator.com/item?id=47205637) - [Flightradar24 for Ships](https://atlas.flexport.com/)
+* [2026-03-01, 10:56:17](https://news.ycombinator.com/item?id=47205603) - [Welcoming Elizabeth Barron as the New Executive Director of the PHP Foundation](https://thephp.foundation/blog/2026/02/27/welcoming-elizabeth-barron-new-executive-director/)
 * [2026-03-01, 10:51:46](https://news.ycombinator.com/item?id=47205577) - [The Cathode Ray Tube site](https://www.crtsite.com/didactic-crt.html)
 * [2026-03-01, 09:47:03](https://news.ycombinator.com/item?id=47205230) - [Computer Says No](https://koenvangilst.nl/lab/computer-says-no)
 * [2026-03-01, 09:43:43](https://news.ycombinator.com/item?id=47205208) - [Microgpt explained interactively](https://growingswe.com/blog/microgpt)
