@@ -74,6 +74,8 @@
 * [2026-03-01, 05:36:58](https://news.ycombinator.com/item?id=47204027) - [Textadept](https://orbitalquark.github.io/textadept/)
 * [2026-03-01, 05:00:24](https://news.ycombinator.com/item?id=47203887) - [A pretty looking web for a quantum mechanics tool](https://github.com/Jamessfks/mace)
 * [2026-03-01, 04:50:02](https://news.ycombinator.com/item?id=47203827) - [We Built a Video Rendering Engine by Lying to the Browser About What Time It Is](https://blog.replit.com/browsers-dont-want-to-be-cameras)
+* [2026-03-01, 04:05:24](https://news.ycombinator.com/item?id=47203584) - [Show HN: A GFM+GF-MathJax/Latex HTML formatting adventure](https://github.com/scottvr/phart/blob/main/docs/GHM-LATEX.md)
+* [2026-03-01, 03:56:42](https://news.ycombinator.com/item?id=47203533) - [Malm Whale](https://www.atlasobscura.com/places/malm-whale)
 * [2026-03-01, 03:55:49](https://news.ycombinator.com/item?id=47203527) - [Plugtest](https://en.wikipedia.org/wiki/Plugtest)
 * [2026-03-01, 03:03:46](https://news.ycombinator.com/item?id=47203219) - [TorchLean: Formalizing Neural Networks in Lean](https://leandojo.org/torchlean.html)
 * [2026-03-01, 02:09:41](https://news.ycombinator.com/item?id=47202864) - [The Science of Detecting LLM-Generated Text](https://dl.acm.org/doi/10.1145/3624725)
