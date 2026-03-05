@@ -36,6 +36,7 @@
 * [2026-03-01, 17:02:15](https://news.ycombinator.com/item?id=47208471) - [6 Practices that turned AI from prototyper to workhorse (106 PRs in 14 days)](https://news.ycombinator.com/item?id=47208471)
 * [2026-03-01, 16:58:03](https://news.ycombinator.com/item?id=47208423) - [I Built a Scheme Compiler with AI in 4 Days](https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/)
 * [2026-03-01, 16:54:49](https://news.ycombinator.com/item?id=47208398) - [MCP is dead. Long live the CLI](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
+* [2026-03-01, 16:49:46](https://news.ycombinator.com/item?id=47208341) - [World-first gigabit laser link between aircraft and geostationary satellite](https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite)
 * [2026-03-01, 16:44:03](https://news.ycombinator.com/item?id=47208280) - [Evil in the West Bank – David Shulman](https://www.nybooks.com/articles/2026/03/12/evil-in-the-west-bank-david-shulman/)
 * [2026-03-01, 15:52:02](https://news.ycombinator.com/item?id=47207806) - [Show HN: Audio Toolkit for Agents](https://github.com/shiehn/sas-audio-processor)
 * [2026-03-01, 15:36:48](https://news.ycombinator.com/item?id=47207647) - [My Favorite 39C3 Talks](https://asindu.xyz/my-favorite-39c3-talks/)

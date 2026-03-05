@@ -11,6 +11,7 @@
 * [2026-03-05, 07:43:41](https://news.ycombinator.com/item?id=47258801) - [Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)
 * [2026-03-05, 07:23:40](https://news.ycombinator.com/item?id=47258641) - [Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control](https://netbsd-jails.petermann-digital.de/)
 * [2026-03-05, 06:59:30](https://news.ycombinator.com/item?id=47258455) - [The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me](https://tim.blog/2026/03/04/the-self-help-trap/)
+* [2026-03-05, 06:16:36](https://news.ycombinator.com/item?id=47258169) - [OpenBSD on SGI: A Rollercoaster Story](http://miod.online.fr/software/openbsd/stories/sgiall.html)
 * [2026-03-05, 06:01:18](https://news.ycombinator.com/item?id=47258076) - [Relax NG is a schema language for XML](https://relaxng.org/)
 * [2026-03-05, 05:59:37](https://news.ycombinator.com/item?id=47258064) - [Zed new terms required to be 18 years old](https://zed.dev/terms)
 * [2026-03-05, 05:07:33](https://news.ycombinator.com/item?id=47257803) - [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
