@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-03-05, 19:24:35",
+      "https://news.ycombinator.com/item?id=47266084"
+    ],
+    [
+      "Pentagon Formally Labels Anthropic Supply-Chain Risk",
+      "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523"
+    ]
+  ],
+  [
+    [
       "2026-03-05, 19:21:03",
       "https://news.ycombinator.com/item?id=47266030"
     ],
     [
       "Let's Get Physical",
       "https://m4iler.cloud/posts/lets-get-physical/"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 19:06:14",
+      "https://news.ycombinator.com/item?id=47265825"
+    ],
+    [
+      "Kristi Noem Out as DHS Secretary",
+      "https://www.cbsnews.com/news/kristi-noem-out-as-secretary-of-homeland-security-markwayne-mullin/"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 18:50:33",
+      "https://news.ycombinator.com/item?id=47265619"
+    ],
+    [
+      "OpenTitan Shipping in Production",
+      "https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 18:43:59",
+      "https://news.ycombinator.com/item?id=47265521"
+    ],
+    [
+      "Remotely unlocking an encrypted hard disk",
+      "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/"
     ]
   ],
   [
@@ -21,32 +61,12 @@
   ],
   [
     [
-      "2026-03-05, 18:16:07",
-      "https://news.ycombinator.com/item?id=47265150"
-    ],
-    [
-      "GPT 5.4 Thinking and Pro",
-      "https://twitter.com/OpenAI/status/2029620619743219811"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 18:11:28",
-      "https://news.ycombinator.com/item?id=47265089"
-    ],
-    [
-      "GPT-5.4 Thinking and GPT-5.4 Pro",
-      "https://twitter.com/i/status/2029620619743219811"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 18:08:10",
       "https://news.ycombinator.com/item?id=47265045"
     ],
     [
-      "GPT-5.4 Thinking System Card",
-      "https://openai.com/index/gpt-5-4-thinking-system-card/"
+      "GPT-5.4",
+      "https://openai.com/index/introducing-gpt-5-4/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-03-05, 07:57:25",
-      "https://news.ycombinator.com/item?id=47258885"
-    ],
-    [
-      "Smalltalk's Browser: Unbeatable, yet Not Enough",
-      "https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 07:44:33",
       "https://news.ycombinator.com/item?id=47258809"
     ],
@@ -187,16 +197,6 @@
     [
       "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
       "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 07:23:40",
-      "https://news.ycombinator.com/item?id=47258641"
-    ],
-    [
-      "Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control",
-      "https://netbsd-jails.petermann-digital.de/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-03-02, 18:32:30",
+      "https://news.ycombinator.com/item?id=47222045"
+    ],
+    [
+      "Comparing Python packages for A/B test analysis (with code examples)",
+      "https://e10v.me/python-packages-for-ab-test-analysis/"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 14:30:51",
       "https://news.ycombinator.com/item?id=47218397"
     ],
@@ -287,16 +297,6 @@
     [
       "World-first gigabit laser link between aircraft and geostationary satellite",
       "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 09:04:19",
-      "https://news.ycombinator.com/item?id=47205009"
-    ],
-    [
-      "Intelligence is a commodity. Context is the real AI Moat",
-      "https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity"
     ]
   ]
 ]
