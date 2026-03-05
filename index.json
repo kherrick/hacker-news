@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2026-03-05, 02:55:57",
-      "https://news.ycombinator.com/item?id=47256923"
-    ],
-    [
-      "What Python’s asyncio primitives get wrong about shared state",
-      "https://www.inngest.com/blog/no-lost-updates-python-asyncio"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 02:00:07",
       "https://news.ycombinator.com/item?id=47256545"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2026-03-04, 12:04:31",
+      "https://news.ycombinator.com/item?id=47246296"
+    ],
+    [
+      "Qwen3.5 Fine-Tuning Guide",
+      "https://unsloth.ai/docs/models/qwen3.5/fine-tune"
+    ]
+  ],
+  [
+    [
       "2026-03-04, 10:21:13",
       "https://news.ycombinator.com/item?id=47245491"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-03-01, 18:27:20",
-      "https://news.ycombinator.com/item?id=47209315"
-    ],
-    [
-      "Aura-State: Formally Verified LLM State Machine Compiler",
-      "https://news.ycombinator.com/item?id=47209315"
-    ]
-  ],
-  [
-    [
       "2026-03-01, 16:49:46",
       "https://news.ycombinator.com/item?id=47208341"
     ],
     [
       "World-first gigabit laser link between aircraft and geostationary satellite",
       "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite"
+    ]
+  ],
+  [
+    [
+      "2026-03-01, 08:24:31",
+      "https://news.ycombinator.com/item?id=47204799"
+    ],
+    [
+      "Billy bookshelves as a retro motherboard \"rack\"",
+      "https://rubenerd.com/billy-bookcase-as-a-retro-motherboard-rack/"
     ]
   ]
 ]
