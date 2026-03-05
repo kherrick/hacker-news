@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-03-05, 21:41:31",
-      "https://news.ycombinator.com/item?id=47267694"
+      "2026-03-05, 22:55:01",
+      "https://news.ycombinator.com/item?id=47268391"
     ],
     [
-      "Ethiopia gets $350M World Bank financing for its digital ID project",
-      "https://www.mariblock.com/stories/ethiopia-to-get-350-million-world-bank-financing-for-its-digital-id-project"
+      "Labor market impacts of AI: A new measure and early evidence",
+      "https://www.anthropic.com/research/labor-market-impacts"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 22:04:59",
+      "https://news.ycombinator.com/item?id=47267947"
+    ],
+    [
+      "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+      "https://406.fail/"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 22:03:00",
+      "https://news.ycombinator.com/item?id=47267923"
+    ],
+    [
+      "Show HN: SitDeck – Customizable live dashboard of news, markets, threats",
+      "https://sitdeck.com"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-03-05, 17:16:22",
-      "https://news.ycombinator.com/item?id=47264341"
-    ],
-    [
-      "The Government Uses Targeted Advertising to Track Your Location",
-      "https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 17:01:47",
       "https://news.ycombinator.com/item?id=47264138"
     ],
@@ -145,18 +155,8 @@
       "https://news.ycombinator.com/item?id=47263323"
     ],
     [
-      "Wikipedia in read-only mode following mass admin account compromise",
+      "Wikipedia was in read-only mode following mass admin account compromise",
       "https://www.wikimediastatus.net"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 15:49:45",
-      "https://news.ycombinator.com/item?id=47263048"
-    ],
-    [
-      "AI and the Ship of Theseus",
-      "https://lucumr.pocoo.org/2026/3/5/theseus/"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "Show HN: Jido 2.0, Elixir Agent Framework",
       "https://jido.run/blog/jido-2-0-is-here"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 15:03:22",
-      "https://news.ycombinator.com/item?id=47262347"
-    ],
-    [
-      "Google Safe Browsing missed 84% of confirmed phishing sites",
-      "https://www.norn-labs.com/blog/huginn-report-feb-2026"
     ]
   ],
   [
@@ -201,32 +191,32 @@
   ],
   [
     [
-      "2026-03-05, 07:57:25",
-      "https://news.ycombinator.com/item?id=47258885"
-    ],
-    [
-      "Smalltalk's Browser: Unbeatable, yet Not Enough",
-      "https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 07:44:33",
       "https://news.ycombinator.com/item?id=47258809"
     ],
     [
       "Poor Man's Polaroid",
-      "https://boxart.lt/blog/poor_mans_polaroid"
+      "https://boxart.lt/blog/poor_mans_polaroid?locale=en"
     ]
   ],
   [
     [
-      "2026-03-05, 07:43:41",
-      "https://news.ycombinator.com/item?id=47258801"
+      "2026-03-04, 19:58:24",
+      "https://news.ycombinator.com/item?id=47252971"
     ],
     [
-      "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
-      "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23"
+      "10% of Firefox crashes are caused by bitflips",
+      "https://mas.to/@gabrielesvelto/116171750653898304"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 15:57:29",
+      "https://news.ycombinator.com/item?id=47249387"
+    ],
+    [
+      "CBP tapped into the online advertising ecosystem to track peoples’ movements",
+      "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Optimizing Recommendation Systems with JDK's Vector API",
       "https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 17:05:18",
+      "https://news.ycombinator.com/item?id=47220739"
+    ],
+    [
+      "A rabbit hole in 5 commits",
+      "https://www.codingwithjesse.com/blog/a-rabbit-hole-in-5-commits/"
     ]
   ],
   [
