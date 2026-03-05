@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-05](index.md)
 
+* [2026-03-05, 08:55:06](https://news.ycombinator.com/item?id=47259303) - [Noem Can't Explain Why She Hired 8-Day-Old Company for Ad Campaign](https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign)
+* [2026-03-05, 08:37:51](https://news.ycombinator.com/item?id=47259177) - [No right to relicense this project](https://github.com/chardet/chardet/issues/327)
 * [2026-03-05, 07:57:25](https://news.ycombinator.com/item?id=47258885) - [Smalltalk's Browser: Unbeatable, yet Not Enough](https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/)
 * [2026-03-05, 07:43:41](https://news.ycombinator.com/item?id=47258801) - [Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)
+* [2026-03-05, 07:23:40](https://news.ycombinator.com/item?id=47258641) - [Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control](https://netbsd-jails.petermann-digital.de/)
 * [2026-03-05, 06:59:30](https://news.ycombinator.com/item?id=47258455) - [The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me](https://tim.blog/2026/03/04/the-self-help-trap/)
 * [2026-03-05, 06:01:18](https://news.ycombinator.com/item?id=47258076) - [Relax NG is a schema language for XML](https://relaxng.org/)
 * [2026-03-05, 05:59:37](https://news.ycombinator.com/item?id=47258064) - [Zed new terms required to be 18 years old](https://zed.dev/terms)
