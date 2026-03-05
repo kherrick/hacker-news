@@ -68,6 +68,7 @@
 * [2026-03-03, 07:06:22](https://news.ycombinator.com/item?id=47229119) - [I built a pint-sized Macintosh](https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/)
 * [2026-03-03, 05:51:02](https://news.ycombinator.com/item?id=47228639) - [Buckle Up for Bumpier Skies](https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies)
 * [2026-03-03, 05:18:24](https://news.ycombinator.com/item?id=47228390) - [I've been running GrapheneOS on my Pixel Fold for over half a year](https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/)
+* [2026-03-03, 04:33:50](https://news.ycombinator.com/item?id=47228091) - [Optimizing Recommendation Systems with JDK's Vector API](https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec)
 * [2026-03-03, 04:20:37](https://news.ycombinator.com/item?id=47227999) - [Intent-Based Commits](https://github.com/adamveld12/ghost)
 * [2026-03-03, 03:31:07](https://news.ycombinator.com/item?id=47227647) - [Elevated Errors in Claude.ai](https://status.claude.com/incidents/yf48hzysrvl5)
 * [2026-03-03, 02:49:22](https://news.ycombinator.com/item?id=47227340) - [Arabic document from 17th-cent. rubbish heap confirms semi-legendary Nubian king](https://phys.org/news/2026-02-arabic-document-17th-century-rubbish.html)
