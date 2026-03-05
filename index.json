@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-03-05, 19:21:03",
+      "https://news.ycombinator.com/item?id=47266030"
+    ],
+    [
+      "Let's Get Physical",
+      "https://m4iler.cloud/posts/lets-get-physical/"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 18:27:33",
+      "https://news.ycombinator.com/item?id=47265291"
+    ],
+    [
+      "US asked Ukraine for help fighting Iranian drones, Zelensky says",
+      "https://www.bbc.com/news/articles/cr5llg0e9g9o"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 18:16:07",
+      "https://news.ycombinator.com/item?id=47265150"
+    ],
+    [
+      "GPT 5.4 Thinking and Pro",
+      "https://twitter.com/OpenAI/status/2029620619743219811"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 18:11:28",
+      "https://news.ycombinator.com/item?id=47265089"
+    ],
+    [
+      "GPT-5.4 Thinking and GPT-5.4 Pro",
+      "https://twitter.com/i/status/2029620619743219811"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 18:08:10",
+      "https://news.ycombinator.com/item?id=47265045"
+    ],
+    [
+      "GPT-5.4 Thinking System Card",
+      "https://openai.com/index/gpt-5-4-thinking-system-card/"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 17:44:10",
+      "https://news.ycombinator.com/item?id=47264756"
+    ],
+    [
+      "The Brand Age",
+      "https://paulgraham.com/brandage.html"
+    ]
+  ],
+  [
+    [
       "2026-03-05, 17:43:31",
       "https://news.ycombinator.com/item?id=47264741"
     ],
@@ -71,16 +131,6 @@
   ],
   [
     [
-      "2026-03-05, 15:07:20",
-      "https://news.ycombinator.com/item?id=47262402"
-    ],
-    [
-      "The IRIX 6.5.7M (sgi) source code",
-      "https://github.com/calmsacibis995/irix-657m-src"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 15:03:22",
       "https://news.ycombinator.com/item?id=47262347"
     ],
@@ -97,16 +147,6 @@
     [
       "Fast-Servers",
       "https://geocar.sdf1.org/fast-servers.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 14:05:46",
-      "https://news.ycombinator.com/item?id=47261688"
-    ],
-    [
-      "Judge orders government to begin refunding more than $130B in tariffs",
-      "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c"
     ]
   ],
   [
@@ -161,32 +201,12 @@
   ],
   [
     [
-      "2026-03-05, 06:16:36",
-      "https://news.ycombinator.com/item?id=47258169"
-    ],
-    [
-      "OpenBSD on SGI: A Rollercoaster Story",
-      "http://miod.online.fr/software/openbsd/stories/sgiall.html"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 05:07:33",
       "https://news.ycombinator.com/item?id=47257803"
     ],
     [
       "Relicensing with AI-Assisted Rewrite",
       "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 04:02:32",
-      "https://news.ycombinator.com/item?id=47257394"
-    ],
-    [
-      "The L in \"LLM\" Stands for Lying",
-      "https://acko.net/blog/the-l-in-llm-stands-for-lying/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-03-04, 15:55:34",
-      "https://news.ycombinator.com/item?id=47249343"
-    ],
-    [
-      "Something is afoot in the land of Qwen",
-      "https://simonwillison.net/2026/Mar/4/qwen/"
-    ]
-  ],
-  [
-    [
       "2026-03-03, 23:09:21",
       "https://news.ycombinator.com/item?id=47240424"
     ],
@@ -231,32 +241,12 @@
   ],
   [
     [
-      "2026-03-03, 23:07:02",
-      "https://news.ycombinator.com/item?id=47240393"
-    ],
-    [
-      "Earth Garden: Field Recordings Around the World",
-      "https://earth-garden.alen.ro/"
-    ]
-  ],
-  [
-    [
       "2026-03-03, 04:33:50",
       "https://news.ycombinator.com/item?id=47228091"
     ],
     [
       "Optimizing Recommendation Systems with JDK's Vector API",
       "https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 02:49:22",
-      "https://news.ycombinator.com/item?id=47227340"
-    ],
-    [
-      "Arabic document from 17th-cent. rubbish heap confirms semi-legendary Nubian king",
-      "https://phys.org/news/2026-02-arabic-document-17th-century-rubbish.html"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time",
       "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 09:26:04",
+      "https://news.ycombinator.com/item?id=47215602"
+    ],
+    [
+      "Hardware hotplug events on Linux, the gory details",
+      "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html"
     ]
   ],
   [
