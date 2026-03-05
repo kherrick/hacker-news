@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-05](index.md)
 
+* [2026-03-05, 21:01:30](https://news.ycombinator.com/item?id=47267236) - [Structured AI (YC F25) Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant)
+* [2026-03-05, 20:18:37](https://news.ycombinator.com/item?id=47266736) - [GLiNER2: Unified Schema-Based Information Extraction](https://github.com/fastino-ai/GLiNER2)
 * [2026-03-05, 19:24:35](https://news.ycombinator.com/item?id=47266084) - [Pentagon Formally Labels Anthropic Supply-Chain Risk](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523)
 * [2026-03-05, 19:21:03](https://news.ycombinator.com/item?id=47266030) - [Let's Get Physical](https://m4iler.cloud/posts/lets-get-physical/)
 * [2026-03-05, 19:06:14](https://news.ycombinator.com/item?id=47265825) - [Kristi Noem Out as DHS Secretary](https://www.cbsnews.com/news/kristi-noem-out-as-secretary-of-homeland-security-markwayne-mullin/)

@@ -16,6 +16,7 @@
 * [2026-03-03, 22:09:18](https://news.ycombinator.com/item?id=47239768) - [OpenAI CEO Sam Altman Defends Pentagon Work to Staff](https://www.wsj.com/tech/ai/openai-ceo-altman-defends-pentagon-work-to-staff-calls-backlash-really-painful-76d769ec)
 * [2026-03-03, 21:10:27](https://news.ycombinator.com/item?id=47239042) - [Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update)
 * [2026-03-03, 20:14:18](https://news.ycombinator.com/item?id=47238279) - [We've freed Cookie's Bustle from copyright hell](https://gamehistory.org/cookies-bustle/)
+* [2026-03-03, 20:14:03](https://news.ycombinator.com/item?id=47238272) - [A ternary plot of citrus geneology](https://www.jlauf.com/writing/citrus/)
 * [2026-03-03, 20:12:55](https://news.ycombinator.com/item?id=47238255) - [Show HN: Online OCR Free – Batch OCR UI for Tesseract, Gemini and OpenRouter](https://onlineocrfree.qzz.io)
 * [2026-03-03, 19:47:10](https://news.ycombinator.com/item?id=47237861) - [I Audited the Privacy of Popular Free Dev Tools, the Results Are Terrifying](https://www.toolbox-kit.com/blog/i-audited-popular-dev-tools-privacy-results-are-scary)
 * [2026-03-03, 19:34:37](https://news.ycombinator.com/item?id=47237692) - [A US Government iPhone-Hacking Toolkit Is Now in Foreign Spy and Criminal Hands](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/)
