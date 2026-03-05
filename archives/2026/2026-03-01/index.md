@@ -20,6 +20,7 @@
 * [2026-03-01, 21:47:13](https://news.ycombinator.com/item?id=47211029) - [You don't have to](https://www.scottsmitelli.com/articles/you-dont-have-to/)
 * [2026-03-01, 21:33:19](https://news.ycombinator.com/item?id=47210903) - [Are the Mysteries of Quantum Mechanics Beginning to Dissolve?](https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/)
 * [2026-03-01, 20:55:22](https://news.ycombinator.com/item?id=47210572) - [How the Government Deceived Congress in the Debate over Surveillance Powers (2013)](https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived)
+* [2026-03-01, 20:48:30](https://news.ycombinator.com/item?id=47210509) - [Dbslice: Extract a slice of your production database to reproduce bugs](https://github.com/nabroleonx/dbslice)
 * [2026-03-01, 20:06:08](https://news.ycombinator.com/item?id=47210162) - [Guido van Rossum Interviews Thomas Wouters (Python Core Dev)](https://gvanrossum.github.io/interviews/Thomas.html)
 * [2026-03-01, 20:05:24](https://news.ycombinator.com/item?id=47210157) - [This System Can Go Fuck Itself and Burn in Hell](https://shawnfromportland.substack.com/p/this-system-can-go-fuck-itself-and)
 * [2026-03-01, 19:25:04](https://news.ycombinator.com/item?id=47209788) - [Why does C have the best file API](https://maurycyz.com/misc/c_files/)

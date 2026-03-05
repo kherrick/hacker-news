@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-05, 07:57:25](https://news.ycombinator.com/item?id=47258885) - [Smalltalk's Browser: Unbeatable, yet Not Enough](https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/)
+* [2026-03-05, 07:43:41](https://news.ycombinator.com/item?id=47258801) - [Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)
 * [2026-03-05, 06:59:30](https://news.ycombinator.com/item?id=47258455) - [The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me](https://tim.blog/2026/03/04/the-self-help-trap/)
 * [2026-03-05, 06:01:18](https://news.ycombinator.com/item?id=47258076) - [Relax NG is a schema language for XML](https://relaxng.org/)
-* [2026-03-05, 05:07:33](https://news.ycombinator.com/item?id=47257803) - [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 * [2026-03-05, 04:37:43](https://news.ycombinator.com/item?id=47257637) - [You Just Reveived](https://dylan.gr/1772520728)
 * [2026-03-05, 04:02:32](https://news.ycombinator.com/item?id=47257394) - [The L in \"LLM\" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/)
 * [2026-03-05, 03:56:38](https://news.ycombinator.com/item?id=47257352) - [Show HN: Poppy – a simple app to stay intentional with relationships](https://poppy-connection-keeper.netlify.app/)
@@ -15,7 +16,6 @@
 * [2026-03-04, 21:41:40](https://news.ycombinator.com/item?id=47254322) - [Dulce et Decorum Est (1921)](https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est)
 * [2026-03-04, 20:19:43](https://news.ycombinator.com/item?id=47253221) - [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/)
 * [2026-03-04, 20:16:03](https://news.ycombinator.com/item?id=47253177) - [Building a new Flash](https://bill.newgrounds.com/news/post/1607118)
-* [2026-03-04, 20:15:06](https://news.ycombinator.com/item?id=47253160) - [Was Windows 1.0's lack of overlapping windows a legal or a technical matter?](https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter)
 * [2026-03-04, 17:56:04](https://news.ycombinator.com/item?id=47251259) - [NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute](https://qlabs.sh/slowrun)
 * [2026-03-04, 17:49:44](https://news.ycombinator.com/item?id=47251163) - [Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra](https://roboflow.com/careers)
 * [2026-03-04, 16:20:36](https://news.ycombinator.com/item?id=47249744) - [Humans 40k yrs ago developed a system of conventional signs](https://www.pnas.org/doi/10.1073/pnas.2520385123)
@@ -27,9 +27,9 @@
 * [2026-03-04, 10:21:13](https://news.ycombinator.com/item?id=47245491) - [Moss is a pixel canvas where every brush is a tiny program](https://www.moss.town/)
 * [2026-03-02, 11:51:57](https://news.ycombinator.com/item?id=47216825) - [AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for first time](https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/)
 * [2026-03-02, 00:40:52](https://news.ycombinator.com/item?id=47212451) - [Picking Up a Zillion Pieces of Litter](https://www.sixstepstobetterhealth.com/litter.html)
+* [2026-03-01, 20:48:30](https://news.ycombinator.com/item?id=47210509) - [Dbslice: Extract a slice of your production database to reproduce bugs](https://github.com/nabroleonx/dbslice)
 * [2026-03-01, 09:01:05](https://news.ycombinator.com/item?id=47204994) - [Libre Solar – Open Hardware for Renewable Energy](https://libre.solar)
 * [2026-03-01, 03:56:42](https://news.ycombinator.com/item?id=47203533) - [Malm Whale](https://www.atlasobscura.com/places/malm-whale)
-* [2026-03-01, 00:26:43](https://news.ycombinator.com/item?id=47202210) - [Raspberry Pi Pico as AM Radio Transmitter](https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter)
 
 ## [Archives](archives/index.md)
 
