@@ -28,6 +28,7 @@
 * [2026-03-01, 19:22:47](https://news.ycombinator.com/item?id=47209773) - [A new account made over $515,000 betting on the U.S. strike against Iran](https://xcancel.com/cabsav456/status/2027937130995921119)
 * [2026-03-01, 19:22:47](https://news.ycombinator.com/item?id=47209773) - [A new Polymarket account made over $500k betting on the U.S. strike against Iran](https://twitter.com/cabsav456/status/2027937130995921119)
 * [2026-03-01, 18:50:07](https://news.ycombinator.com/item?id=47209506) - [The Great Online Game (2021)](https://www.notboring.co/p/the-great-online-game)
+* [2026-03-01, 18:27:20](https://news.ycombinator.com/item?id=47209315) - [Aura-State: Formally Verified LLM State Machine Compiler](https://news.ycombinator.com/item?id=47209315)
 * [2026-03-01, 18:09:08](https://news.ycombinator.com/item?id=47209122) - [Greg Knauss Is Losing Himself](https://shapeof.com/archives/2026/2/greg_knauss_is_losing_himself.html)
 * [2026-03-01, 17:31:29](https://news.ycombinator.com/item?id=47208744) - [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
 * [2026-03-01, 17:25:27](https://news.ycombinator.com/item?id=47208688) - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
