@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-05](index.md)
 
+* [2026-03-05, 19:21:03](https://news.ycombinator.com/item?id=47266030) - [Let's Get Physical](https://m4iler.cloud/posts/lets-get-physical/)
+* [2026-03-05, 18:27:33](https://news.ycombinator.com/item?id=47265291) - [US asked Ukraine for help fighting Iranian drones, Zelensky says](https://www.bbc.com/news/articles/cr5llg0e9g9o)
+* [2026-03-05, 18:16:07](https://news.ycombinator.com/item?id=47265150) - [GPT 5.4 Thinking and Pro](https://twitter.com/OpenAI/status/2029620619743219811)
+* [2026-03-05, 18:11:28](https://news.ycombinator.com/item?id=47265089) - [GPT-5.4 Thinking and GPT-5.4 Pro](https://twitter.com/i/status/2029620619743219811)
+* [2026-03-05, 18:08:10](https://news.ycombinator.com/item?id=47265045) - [GPT-5.4 Thinking System Card](https://openai.com/index/gpt-5-4-thinking-system-card/)
+* [2026-03-05, 17:44:10](https://news.ycombinator.com/item?id=47264756) - [The Brand Age](https://paulgraham.com/brandage.html)
 * [2026-03-05, 17:43:31](https://news.ycombinator.com/item?id=47264741) - [Launch HN: Vela (YC W26) – AI for complex scheduling](https://news.ycombinator.com/item?id=47264741)
 * [2026-03-05, 17:16:22](https://news.ycombinator.com/item?id=47264341) - [The Government Uses Targeted Advertising to Track Your Location](https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp)
 * [2026-03-05, 17:01:47](https://news.ycombinator.com/item?id=47264138) - [Show HN: PageAgent, A GUI agent that lives inside your web app](https://alibaba.github.io/page-agent/)

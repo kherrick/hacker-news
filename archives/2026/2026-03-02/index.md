@@ -54,6 +54,7 @@
 * [2026-03-02, 10:23:06](https://news.ycombinator.com/item?id=47216047) - [Microsoft bans the word \"Microslop\" on its Discord, then locks the server](https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/)
 * [2026-03-02, 10:21:24](https://news.ycombinator.com/item?id=47216037) - [Jolla phone – a full-stack European alternative](https://commerce.jolla.com/products/jolla-phone-sept-26)
 * [2026-03-02, 10:02:38](https://news.ycombinator.com/item?id=47215897) - [AWS data center hit by Iran](https://www.reuters.com/world/middle-east/amazons-cloud-unit-reports-fire-after-objects-hit-uae-data-center-2026-03-01/)
+* [2026-03-02, 09:26:04](https://news.ycombinator.com/item?id=47215602) - [Hardware hotplug events on Linux, the gory details](https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html)
 * [2026-03-02, 09:20:06](https://news.ycombinator.com/item?id=47215565) - [U.S. science agency moves to restrict foreign scientists from its labs](https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs)
 * [2026-03-02, 09:09:44](https://news.ycombinator.com/item?id=47215489) - [/e/OS is a complete \"deGoogled\", mobile ecosystem](https://e.foundation/e-os/)
 * [2026-03-02, 08:58:14](https://news.ycombinator.com/item?id=47215427) - [Show HN: Omni – Open-source workplace search and chat, built on Postgres](https://github.com/getomnico/omni)
