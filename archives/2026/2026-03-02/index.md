@@ -59,6 +59,7 @@
 * [2026-03-02, 09:20:06](https://news.ycombinator.com/item?id=47215565) - [U.S. science agency moves to restrict foreign scientists from its labs](https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs)
 * [2026-03-02, 09:09:44](https://news.ycombinator.com/item?id=47215489) - [/e/OS is a complete \"deGoogled\", mobile ecosystem](https://e.foundation/e-os/)
 * [2026-03-02, 08:58:14](https://news.ycombinator.com/item?id=47215427) - [Show HN: Omni – Open-source workplace search and chat, built on Postgres](https://github.com/getomnico/omni)
+* [2026-03-02, 08:16:55](https://news.ycombinator.com/item?id=47215180) - [Converting dash cam videos into Panoramax images](https://www.openstreetmap.org/user/FeetAndInches/diary/408268)
 * [2026-03-02, 07:30:12](https://news.ycombinator.com/item?id=47214864) - [How to talk to anyone and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should)
 * [2026-03-02, 06:48:07](https://news.ycombinator.com/item?id=47214645) - [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 * [2026-03-02, 06:40:28](https://news.ycombinator.com/item?id=47214608) - [The 1,700-year-old megastructure history almost forgot](https://www.cnn.com/2026/02/28/travel/travel-news-jetavanaramaya-ephesus)
