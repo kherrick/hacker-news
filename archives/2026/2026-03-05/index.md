@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-05](index.md)
 
 * [2026-03-05, 05:07:33](https://news.ycombinator.com/item?id=47257803) - [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
+* [2026-03-05, 04:37:43](https://news.ycombinator.com/item?id=47257637) - [You Just Reveived](https://dylan.gr/1772520728)
 * [2026-03-05, 03:56:38](https://news.ycombinator.com/item?id=47257352) - [Show HN: Poppy – a simple app to stay intentional with relationships](https://poppy-connection-keeper.netlify.app/)
 * [2026-03-05, 02:55:57](https://news.ycombinator.com/item?id=47256923) - [What Python's asyncio primitives get wrong about shared state](https://www.inngest.com/blog/no-lost-updates-python-asyncio)
 * [2026-03-05, 02:33:58](https://news.ycombinator.com/item?id=47256781) - [Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic](https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/)
