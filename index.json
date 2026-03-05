@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-03-05, 08:55:06",
-      "https://news.ycombinator.com/item?id=47259303"
-    ],
-    [
-      "Noem Can't Explain Why She Hired 8-Day-Old Company for Ad Campaign",
-      "https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 08:37:51",
       "https://news.ycombinator.com/item?id=47259177"
     ],
@@ -61,12 +51,12 @@
   ],
   [
     [
-      "2026-03-05, 06:59:30",
-      "https://news.ycombinator.com/item?id=47258455"
+      "2026-03-05, 06:16:36",
+      "https://news.ycombinator.com/item?id=47258169"
     ],
     [
-      "The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me",
-      "https://tim.blog/2026/03/04/the-self-help-trap/"
+      "OpenBSD on SGI: A Rollercoaster Story",
+      "http://miod.online.fr/software/openbsd/stories/sgiall.html"
     ]
   ],
   [
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2026-03-04, 14:52:46",
+      "https://news.ycombinator.com/item?id=47248319"
+    ],
+    [
+      "“It turns out” (2010)",
+      "https://jsomers.net/blog/it-turns-out"
+    ]
+  ],
+  [
+    [
       "2026-03-04, 14:16:41",
       "https://news.ycombinator.com/item?id=47247645"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-03-01, 20:48:30",
-      "https://news.ycombinator.com/item?id=47210509"
-    ],
-    [
-      "Dbslice: Extract a slice of your production database to reproduce bugs",
-      "https://github.com/nabroleonx/dbslice"
-    ]
-  ],
-  [
-    [
       "2026-03-01, 18:27:20",
       "https://news.ycombinator.com/item?id=47209315"
     ],
     [
       "Aura-State: Formally Verified LLM State Machine Compiler",
       "https://news.ycombinator.com/item?id=47209315"
+    ]
+  ],
+  [
+    [
+      "2026-03-01, 16:49:46",
+      "https://news.ycombinator.com/item?id=47208341"
+    ],
+    [
+      "World-first gigabit laser link between aircraft and geostationary satellite",
+      "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite"
     ]
   ]
 ]
