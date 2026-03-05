@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-03-05, 07:44:33",
+      "https://news.ycombinator.com/item?id=47258809"
+    ],
+    [
+      "Poor Man's Polaroid",
+      "https://boxart.lt/blog/poor_mans_polaroid"
+    ]
+  ],
+  [
+    [
       "2026-03-05, 07:43:41",
       "https://news.ycombinator.com/item?id=47258801"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-03-04, 17:56:04",
-      "https://news.ycombinator.com/item?id=47251259"
-    ],
-    [
-      "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
-      "https://qlabs.sh/slowrun"
-    ]
-  ],
-  [
-    [
       "2026-03-04, 16:20:36",
       "https://news.ycombinator.com/item?id=47249744"
     ],
@@ -227,16 +227,6 @@
     [
       "Something is afoot in the land of Qwen",
       "https://simonwillison.net/2026/Mar/4/qwen/"
-    ]
-  ],
-  [
-    [
-      "2026-03-04, 14:52:46",
-      "https://news.ycombinator.com/item?id=47248319"
-    ],
-    [
-      "“It turns out” (2010)",
-      "https://jsomers.net/blog/it-turns-out"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Dbslice: Extract a slice of your production database to reproduce bugs",
       "https://github.com/nabroleonx/dbslice"
+    ]
+  ],
+  [
+    [
+      "2026-03-01, 18:27:20",
+      "https://news.ycombinator.com/item?id=47209315"
+    ],
+    [
+      "Aura-State: Formally Verified LLM State Machine Compiler",
+      "https://news.ycombinator.com/item?id=47209315"
     ]
   ]
 ]
