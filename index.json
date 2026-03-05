@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-05, 08:55:06",
+      "https://news.ycombinator.com/item?id=47259303"
+    ],
+    [
+      "Noem Can't Explain Why She Hired 8-Day-Old Company for Ad Campaign",
+      "https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 08:37:51",
+      "https://news.ycombinator.com/item?id=47259177"
+    ],
+    [
+      "No right to relicense this project",
+      "https://github.com/chardet/chardet/issues/327"
+    ]
+  ],
+  [
+    [
       "2026-03-05, 07:57:25",
       "https://news.ycombinator.com/item?id=47258885"
     ],
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2026-03-05, 07:23:40",
+      "https://news.ycombinator.com/item?id=47258641"
+    ],
+    [
+      "Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control",
+      "https://netbsd-jails.petermann-digital.de/"
+    ]
+  ],
+  [
+    [
       "2026-03-05, 06:59:30",
       "https://news.ycombinator.com/item?id=47258455"
     ],
@@ -35,8 +65,18 @@
       "https://news.ycombinator.com/item?id=47258076"
     ],
     [
-      "Relax NG is a schema language for XML",
+      "Relax NG is a schema language for XML (2014)",
       "https://relaxng.org/"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 05:07:33",
+      "https://news.ycombinator.com/item?id=47257803"
+    ],
+    [
+      "Relicensing with AI-Assisted Rewrite",
+      "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/"
     ]
   ],
   [
@@ -65,7 +105,7 @@
       "https://news.ycombinator.com/item?id=47257352"
     ],
     [
-      "Show HN: Poppy – a simple app to stay intentional with relationships",
+      "Show HN: Poppy – A simple app to stay intentional with relationships",
       "https://poppy-connection-keeper.netlify.app/"
     ]
   ],
@@ -75,18 +115,18 @@
       "https://news.ycombinator.com/item?id=47256923"
     ],
     [
-      "What Python's asyncio primitives get wrong about shared state",
+      "What Python’s asyncio primitives get wrong about shared state",
       "https://www.inngest.com/blog/no-lost-updates-python-asyncio"
     ]
   ],
   [
     [
-      "2026-03-05, 02:33:58",
-      "https://news.ycombinator.com/item?id=47256781"
+      "2026-03-05, 02:00:07",
+      "https://news.ycombinator.com/item?id=47256545"
     ],
     [
-      "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
-      "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/"
+      "US tech firms pledge at White House to bear costs of energy for datacenters",
+      "https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house"
     ]
   ],
   [
@@ -141,12 +181,12 @@
   ],
   [
     [
-      "2026-03-04, 20:19:43",
-      "https://news.ycombinator.com/item?id=47253221"
+      "2026-03-04, 21:11:15",
+      "https://news.ycombinator.com/item?id=47253892"
     ],
     [
-      "The View from RSS",
-      "https://www.carolinecrampton.com/the-view-from-rss/"
+      "BMW Group to deploy humanoid robots in production in Germany for the first time",
+      "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en"
     ]
   ],
   [
@@ -167,16 +207,6 @@
     [
       "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
       "https://qlabs.sh/slowrun"
-    ]
-  ],
-  [
-    [
-      "2026-03-04, 17:49:44",
-      "https://news.ycombinator.com/item?id=47251163"
-    ],
-    [
-      "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
-      "https://roboflow.com/careers"
     ]
   ],
   [
@@ -221,26 +251,6 @@
   ],
   [
     [
-      "2026-03-04, 13:21:31",
-      "https://news.ycombinator.com/item?id=47247033"
-    ],
-    [
-      "Glaze by Raycast",
-      "https://www.glazeapp.com/"
-    ]
-  ],
-  [
-    [
-      "2026-03-04, 12:04:31",
-      "https://news.ycombinator.com/item?id=47246296"
-    ],
-    [
-      "Qwen3.5 Fine-Tuning Guide",
-      "https://unsloth.ai/docs/models/qwen3.5/fine-tune"
-    ]
-  ],
-  [
-    [
       "2026-03-04, 10:21:13",
       "https://news.ycombinator.com/item?id=47245491"
     ],
@@ -251,11 +261,21 @@
   ],
   [
     [
+      "2026-03-03, 02:49:22",
+      "https://news.ycombinator.com/item?id=47227340"
+    ],
+    [
+      "Arabic document from 17th-cent. rubbish heap confirms semi-legendary Nubian king",
+      "https://phys.org/news/2026-02-arabic-document-17th-century-rubbish.html"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 11:51:57",
       "https://news.ycombinator.com/item?id=47216825"
     ],
     [
-      "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for first time",
+      "AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time",
       "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/"
     ]
   ],
@@ -277,26 +297,6 @@
     [
       "Dbslice: Extract a slice of your production database to reproduce bugs",
       "https://github.com/nabroleonx/dbslice"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 09:01:05",
-      "https://news.ycombinator.com/item?id=47204994"
-    ],
-    [
-      "Libre Solar – Open Hardware for Renewable Energy",
-      "https://libre.solar"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 03:56:42",
-      "https://news.ycombinator.com/item?id=47203533"
-    ],
-    [
-      "Malm Whale",
-      "https://www.atlasobscura.com/places/malm-whale"
     ]
   ]
 ]
