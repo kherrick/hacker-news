@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-05](index.md)
 
+* [2026-03-05, 06:59:30](https://news.ycombinator.com/item?id=47258455) - [The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me](https://tim.blog/2026/03/04/the-self-help-trap/)
 * [2026-03-05, 06:01:18](https://news.ycombinator.com/item?id=47258076) - [Relax NG is a schema language for XML](https://relaxng.org/)
 * [2026-03-05, 05:59:37](https://news.ycombinator.com/item?id=47258064) - [Zed new terms required to be 18 years old](https://zed.dev/terms)
 * [2026-03-05, 05:07:33](https://news.ycombinator.com/item?id=47257803) - [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
