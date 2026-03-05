@@ -11,7 +11,6 @@
 * [2026-03-05, 04:37:43](https://news.ycombinator.com/item?id=47257637) - [You Just Reveived](https://dylan.gr/1772520728)
 * [2026-03-05, 04:02:32](https://news.ycombinator.com/item?id=47257394) - [The L in \"LLM\" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/)
 * [2026-03-05, 03:56:38](https://news.ycombinator.com/item?id=47257352) - [Show HN: Poppy – A simple app to stay intentional with relationships](https://poppy-connection-keeper.netlify.app/)
-* [2026-03-05, 02:55:57](https://news.ycombinator.com/item?id=47256923) - [What Python’s asyncio primitives get wrong about shared state](https://www.inngest.com/blog/no-lost-updates-python-asyncio)
 * [2026-03-05, 02:00:07](https://news.ycombinator.com/item?id=47256545) - [US tech firms pledge at White House to bear costs of energy for datacenters](https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house)
 * [2026-03-05, 00:22:09](https://news.ycombinator.com/item?id=47255881) - [Google Workspace CLI](https://github.com/googleworkspace/cli)
 * [2026-03-04, 23:51:10](https://news.ycombinator.com/item?id=47255662) - [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
@@ -23,13 +22,14 @@
 * [2026-03-04, 15:55:34](https://news.ycombinator.com/item?id=47249343) - [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/)
 * [2026-03-04, 14:52:46](https://news.ycombinator.com/item?id=47248319) - [“It turns out” (2010)](https://jsomers.net/blog/it-turns-out)
 * [2026-03-04, 14:16:41](https://news.ycombinator.com/item?id=47247645) - [MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
+* [2026-03-04, 12:04:31](https://news.ycombinator.com/item?id=47246296) - [Qwen3.5 Fine-Tuning Guide](https://unsloth.ai/docs/models/qwen3.5/fine-tune)
 * [2026-03-04, 10:21:13](https://news.ycombinator.com/item?id=47245491) - [Moss is a pixel canvas where every brush is a tiny program](https://www.moss.town/)
 * [2026-03-03, 23:07:02](https://news.ycombinator.com/item?id=47240393) - [Earth Garden: Field Recordings Around the World](https://earth-garden.alen.ro/)
 * [2026-03-03, 02:49:22](https://news.ycombinator.com/item?id=47227340) - [Arabic document from 17th-cent. rubbish heap confirms semi-legendary Nubian king](https://phys.org/news/2026-02-arabic-document-17th-century-rubbish.html)
 * [2026-03-02, 11:51:57](https://news.ycombinator.com/item?id=47216825) - [AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time](https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/)
 * [2026-03-02, 00:40:52](https://news.ycombinator.com/item?id=47212451) - [Picking Up a Zillion Pieces of Litter](https://www.sixstepstobetterhealth.com/litter.html)
-* [2026-03-01, 18:27:20](https://news.ycombinator.com/item?id=47209315) - [Aura-State: Formally Verified LLM State Machine Compiler](https://news.ycombinator.com/item?id=47209315)
 * [2026-03-01, 16:49:46](https://news.ycombinator.com/item?id=47208341) - [World-first gigabit laser link between aircraft and geostationary satellite](https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite)
+* [2026-03-01, 08:24:31](https://news.ycombinator.com/item?id=47204799) - [Billy bookshelves as a retro motherboard \"rack\"](https://rubenerd.com/billy-bookcase-as-a-retro-motherboard-rack/)
 
 ## [Archives](archives/index.md)
 
