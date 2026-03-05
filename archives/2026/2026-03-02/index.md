@@ -25,6 +25,7 @@
 * [2026-03-02, 17:40:17](https://news.ycombinator.com/item?id=47221264) - [Apple AI servers unused in warehouses due to low Apple Intelligence usage](https://9to5mac.com/2026/03/02/some-apple-ai-servers-are-reportedly-sitting-unused-on-warehouse-shelves-due-to-low-apple-intelligence-usage/)
 * [2026-03-02, 17:11:08](https://news.ycombinator.com/item?id=47220831) - [Points on a ring: An interactive walkthrough of a popular math problem](https://growingswe.com/blog/points-on-ring)
 * [2026-03-02, 17:08:53](https://news.ycombinator.com/item?id=47220809) - [Show HN: Govbase – Follow a bill from source text to news bias to social posts](https://govbase.com)
+* [2026-03-02, 17:05:18](https://news.ycombinator.com/item?id=47220739) - [A rabbit hole in 5 commits](https://www.codingwithjesse.com/blog/a-rabbit-hole-in-5-commits/)
 * [2026-03-02, 17:01:20](https://news.ycombinator.com/item?id=47220666) - [Reflex (YC W23) Is Hiring Software Engineers – Python](https://www.ycombinator.com/companies/reflex/jobs)
 * [2026-03-02, 16:39:21](https://news.ycombinator.com/item?id=47220320) - [Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming](https://news.ycombinator.com/item?id=47220320)
 * [2026-03-02, 16:20:18](https://news.ycombinator.com/item?id=47220020) - [Packaging a Gleam app into a single executable](https://www.dhzdhd.dev/blog/gleam-executable)

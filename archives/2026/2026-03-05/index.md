@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-05](index.md)
 
+* [2026-03-05, 22:55:01](https://news.ycombinator.com/item?id=47268391) - [Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)
+* [2026-03-05, 22:04:59](https://news.ycombinator.com/item?id=47267947) - [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/)
+* [2026-03-05, 22:03:00](https://news.ycombinator.com/item?id=47267923) - [Show HN: SitDeck – Customizable live dashboard of news, markets, threats](https://sitdeck.com)
 * [2026-03-05, 21:41:31](https://news.ycombinator.com/item?id=47267694) - [Ethiopia gets $350M World Bank financing for its digital ID project](https://www.mariblock.com/stories/ethiopia-to-get-350-million-world-bank-financing-for-its-digital-id-project)
 * [2026-03-05, 21:35:40](https://news.ycombinator.com/item?id=47267628) - [Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/)
 * [2026-03-05, 21:01:30](https://news.ycombinator.com/item?id=47267236) - [Structured AI (YC F25) Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant)
@@ -38,6 +41,7 @@
 * [2026-03-05, 08:55:06](https://news.ycombinator.com/item?id=47259303) - [Noem Can't Explain Why She Hired 8-Day-Old Company for Ad Campaign](https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign)
 * [2026-03-05, 08:37:51](https://news.ycombinator.com/item?id=47259177) - [No right to relicense this project](https://github.com/chardet/chardet/issues/327)
 * [2026-03-05, 07:57:25](https://news.ycombinator.com/item?id=47258885) - [Smalltalk's Browser: Unbeatable, yet Not Enough](https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/)
+* [2026-03-05, 07:44:33](https://news.ycombinator.com/item?id=47258809) - [Poor Man's Polaroid](https://boxart.lt/blog/poor_mans_polaroid?locale=en)
 * [2026-03-05, 07:44:33](https://news.ycombinator.com/item?id=47258809) - [Poor Man's Polaroid](https://boxart.lt/blog/poor_mans_polaroid)
 * [2026-03-05, 07:43:41](https://news.ycombinator.com/item?id=47258801) - [Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)
 * [2026-03-05, 07:23:40](https://news.ycombinator.com/item?id=47258641) - [Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control](https://netbsd-jails.petermann-digital.de/)
