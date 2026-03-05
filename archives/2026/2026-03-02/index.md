@@ -20,6 +20,7 @@
 * [2026-03-02, 18:48:37](https://news.ycombinator.com/item?id=47222271) - [Show HN: Gapless.js – gapless web audio playback](https://github.com/RelistenNet/gapless.js)
 * [2026-03-02, 18:48:36](https://news.ycombinator.com/item?id=47222270) - [Go is the best language for agents](https://getbruin.com/blog/go-is-the-best-language-for-agents/)
 * [2026-03-02, 18:45:12](https://news.ycombinator.com/item?id=47222226) - [\"That Shape Had None\" – A Horror of Substrate Independence (Short Fiction)](https://starlightconvenience.net/#that-shape-had-none)
+* [2026-03-02, 18:32:30](https://news.ycombinator.com/item?id=47222045) - [Comparing Python packages for A/B test analysis (with code examples)](https://e10v.me/python-packages-for-ab-test-analysis/)
 * [2026-03-02, 18:29:26](https://news.ycombinator.com/item?id=47221994) - [Bars close and hundreds lose jobs as US firm buys Brewdog in £33M deal](https://www.bbc.com/news/articles/c05v0p1d0peo)
 * [2026-03-02, 17:40:17](https://news.ycombinator.com/item?id=47221264) - [Apple AI servers unused in warehouses due to low Apple Intelligence usage](https://9to5mac.com/2026/03/02/some-apple-ai-servers-are-reportedly-sitting-unused-on-warehouse-shelves-due-to-low-apple-intelligence-usage/)
 * [2026-03-02, 17:11:08](https://news.ycombinator.com/item?id=47220831) - [Points on a ring: An interactive walkthrough of a popular math problem](https://growingswe.com/blog/points-on-ring)
