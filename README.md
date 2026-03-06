@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-06, 05:20:10](https://news.ycombinator.com/item?id=47271187) - [TeX Live 2026 is available for download now](https://www.tug.org/texlive/acquire.html)
 * [2026-03-06, 04:15:40](https://news.ycombinator.com/item?id=47270807) - [Show HN: Swarm – Program a colony of 200 ants using a custom assembly language](https://dev.moment.com/)
 * [2026-03-06, 04:12:26](https://news.ycombinator.com/item?id=47270784) - [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)
 * [2026-03-06, 03:56:52](https://news.ycombinator.com/item?id=47270672) - [Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages](https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/)
-* [2026-03-06, 03:45:23](https://news.ycombinator.com/item?id=47270607) - [Every Claim from Meta Child Safety Trials](https://meta-trials.vercel.app/)
 * [2026-03-06, 00:43:47](https://news.ycombinator.com/item?id=47269288) - [How to install and start using LineageOS on your phone](https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html)
 * [2026-03-06, 00:40:41](https://news.ycombinator.com/item?id=47269263) - [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war)
 * [2026-03-05, 23:15:57](https://news.ycombinator.com/item?id=47268574) - [Stop Using Grey Text (2025)](https://catskull.net/stop-using-grey-text.html)
@@ -11,7 +11,6 @@
 * [2026-03-05, 22:04:59](https://news.ycombinator.com/item?id=47267947) - [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/)
 * [2026-03-05, 21:35:40](https://news.ycombinator.com/item?id=47267628) - [Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/)
 * [2026-03-05, 21:01:30](https://news.ycombinator.com/item?id=47267236) - [Structured AI (YC F25) Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant)
-* [2026-03-05, 18:50:33](https://news.ycombinator.com/item?id=47265619) - [OpenTitan Shipping in Production](https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html)
 * [2026-03-05, 18:43:59](https://news.ycombinator.com/item?id=47265521) - [Remotely unlocking an encrypted hard disk](https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/)
 * [2026-03-05, 18:08:10](https://news.ycombinator.com/item?id=47265045) - [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)
 * [2026-03-05, 17:44:10](https://news.ycombinator.com/item?id=47264756) - [The Brand Age](https://paulgraham.com/brandage.html)
@@ -26,10 +25,11 @@
 * [2026-03-04, 19:58:24](https://news.ycombinator.com/item?id=47252971) - [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304)
 * [2026-03-04, 15:57:29](https://news.ycombinator.com/item?id=47249387) - [CBP tapped into the online advertising ecosystem to track peoples’ movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/)
 * [2026-03-03, 20:14:03](https://news.ycombinator.com/item?id=47238272) - [A ternary plot of citrus geneology](https://www.jlauf.com/writing/citrus/)
+* [2026-03-03, 12:05:08](https://news.ycombinator.com/item?id=47231201) - [Data Does Not Speak to You](https://tantaman.com/2026-03-02-data-doesnt-speak.html)
+* [2026-03-03, 10:19:19](https://news.ycombinator.com/item?id=47230482) - [Fixpoints to think clearly](https://blog.yellowflash.in/posts/2026-03-03-fixpoints-for-clarity.html)
 * [2026-03-02, 23:16:20](https://news.ycombinator.com/item?id=47225655) - [Nobody ever got fired for using a struct](https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct)
 * [2026-03-02, 09:26:04](https://news.ycombinator.com/item?id=47215602) - [Hardware hotplug events on Linux, the gory details](https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html)
 * [2026-03-02, 07:56:43](https://news.ycombinator.com/item?id=47215042) - [Hacking Super Mario 64 using covering spaces](https://happel.ai/posts/covering-spaces-geometries-visualized/)
-* [2026-03-02, 00:12:43](https://news.ycombinator.com/item?id=47212277) - [Code World Models for Parameter Control in Evolutionary Algorithms](https://www.alphaxiv.org/abs/2602.22260)
 
 ## [Archives](archives/index.md)
 
