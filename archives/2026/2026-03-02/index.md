@@ -18,6 +18,7 @@
 * [2026-03-02, 20:30:52](https://news.ycombinator.com/item?id=47223620) - [British Columbia to end time changes, adopt year-round daylight time](https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657)
 * [2026-03-02, 19:50:32](https://news.ycombinator.com/item?id=47223147) - [Show HN: uBlock filter list to blur all Instagram Reels](https://gist.github.com/shraiwi/009c652da6ce8c99a6e1e0c86fe66886)
 * [2026-03-02, 19:48:04](https://news.ycombinator.com/item?id=47223115) - [Boss-CSS: I created another \"CSS-in-JS\" lib](https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc)
+* [2026-03-02, 19:22:23](https://news.ycombinator.com/item?id=47222777) - [Xous security focused open source on 22nm custom silicon](https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/xous-0-10-0-introducing-baochip-1x-support)
 * [2026-03-02, 18:51:43](https://news.ycombinator.com/item?id=47222313) - [Completing the formal proof of higher-dimensional sphere packing](https://www.math.inc/sphere-packing)
 * [2026-03-02, 18:48:37](https://news.ycombinator.com/item?id=47222271) - [Show HN: Gapless.js – gapless web audio playback](https://github.com/RelistenNet/gapless.js)
 * [2026-03-02, 18:48:36](https://news.ycombinator.com/item?id=47222270) - [Go is the best language for agents](https://getbruin.com/blog/go-is-the-best-language-for-agents/)

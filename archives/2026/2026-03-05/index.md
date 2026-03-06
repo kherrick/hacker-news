@@ -29,6 +29,7 @@
 * [2026-03-05, 17:01:47](https://news.ycombinator.com/item?id=47264138) - [Show HN: PageAgent, A GUI agent that lives inside your web app](https://alibaba.github.io/page-agent/)
 * [2026-03-05, 16:26:29](https://news.ycombinator.com/item?id=47263661) - [Datasets for Reconstructing Visual Perception from Brain Data](https://github.com/seelikat/neuro-visual-reconstruction-dataset-index)
 * [2026-03-05, 16:22:01](https://news.ycombinator.com/item?id=47263595) - [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
+* [2026-03-05, 16:12:44](https://news.ycombinator.com/item?id=47263441) - [Analytic Fog Rendering with Volumetric Primitives](https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/)
 * [2026-03-05, 16:04:54](https://news.ycombinator.com/item?id=47263323) - [Wikipedia in read-only mode following mass admin account compromise](https://www.wikimediastatus.net)
 * [2026-03-05, 15:49:45](https://news.ycombinator.com/item?id=47263048) - [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/)
 * [2026-03-05, 15:48:52](https://news.ycombinator.com/item?id=47263036) - [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here)

@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 14:22:59](https://news.ycombinator.com/item?id=47275236) - [Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting](https://github.com/moongate-community/moongatev2)
+* [2026-03-06, 14:20:33](https://news.ycombinator.com/item?id=47275205) - [Why Going to Mars Would Be Bad for Your Health](https://slate.com/technology/2026/03/elon-musk-mars-space-travel-health-muscle-atrophy.html)
+* [2026-03-06, 14:10:03](https://news.ycombinator.com/item?id=47275088) - [Global Warming Has Accelerated Significantly](https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly)
+* [2026-03-06, 14:04:18](https://news.ycombinator.com/item?id=47275035) - [US economy unexpectedly sheds 92,000 jobs in February](https://www.bbc.com/news/articles/cjd98091g28o)
 * [2026-03-06, 13:30:54](https://news.ycombinator.com/item?id=47274676) - [Workers who love 'synergizing paradigms' might be bad at their jobs](https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs)
 * [2026-03-06, 12:10:35](https://news.ycombinator.com/item?id=47274010) - [Elite Overproduction](https://en.wikipedia.org/wiki/Elite_overproduction)
 * [2026-03-06, 12:06:00](https://news.ycombinator.com/item?id=47273964) - [First MacBook Neo Benchmarks Are In](https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/)
