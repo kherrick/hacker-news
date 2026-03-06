@@ -72,6 +72,7 @@
 * [2026-03-02, 08:06:07](https://news.ycombinator.com/item?id=47215112) - [Triplet Superconductor](https://www.sciencedaily.com/releases/2026/02/260221000252.htm)
 * [2026-03-02, 07:56:43](https://news.ycombinator.com/item?id=47215042) - [Hacking Super Mario 64 using covering spaces](https://happel.ai/posts/covering-spaces-geometries-visualized/)
 * [2026-03-02, 07:30:12](https://news.ycombinator.com/item?id=47214864) - [How to talk to anyone and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should)
+* [2026-03-02, 07:01:19](https://news.ycombinator.com/item?id=47214708) - [Math Notepad](https://mathnotepad.com)
 * [2026-03-02, 06:48:07](https://news.ycombinator.com/item?id=47214645) - [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 * [2026-03-02, 06:40:28](https://news.ycombinator.com/item?id=47214608) - [The 1,700-year-old megastructure history almost forgot](https://www.cnn.com/2026/02/28/travel/travel-news-jetavanaramaya-ephesus)
 * [2026-03-02, 06:17:28](https://news.ycombinator.com/item?id=47214478) - [SRGB↔XYZ Conversion (2021)](https://mina86.com/2019/srgb-xyz-conversion/)
