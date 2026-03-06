@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-06, 11:32:33](https://news.ycombinator.com/item?id=47273698) - [U.S. Capabilities Are Showing Signs of Rot](https://www.theatlantic.com/ideas/2026/03/military-failures-trump-iran/686244/)
 * [2026-03-06, 09:22:00](https://news.ycombinator.com/item?id=47272799) - [LibreSprite – open-source pixel art editor](https://libresprite.github.io/)
+* [2026-03-06, 09:21:56](https://news.ycombinator.com/item?id=47272797) - [If AI has a bright future, why does AI think it doesn't?](https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195)
 * [2026-03-06, 08:41:51](https://news.ycombinator.com/item?id=47272534) - [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
 * [2026-03-06, 07:02:08](https://news.ycombinator.com/item?id=47271858) - [Stardex (YC S21) is hiring customer success engineers](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
-* [2026-03-06, 05:20:10](https://news.ycombinator.com/item?id=47271187) - [TeX Live 2026 is available for download now](https://www.tug.org/texlive/acquire.html)
 * [2026-03-06, 04:15:40](https://news.ycombinator.com/item?id=47270807) - [Show HN: Swarm – Program a colony of 200 ants using a custom assembly language](https://dev.moment.com/)
 * [2026-03-06, 04:12:26](https://news.ycombinator.com/item?id=47270784) - [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)
 * [2026-03-06, 00:43:47](https://news.ycombinator.com/item?id=47269288) - [How to install and start using LineageOS on your phone](https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html)
@@ -29,7 +30,6 @@
 * [2026-03-02, 18:05:43](https://news.ycombinator.com/item?id=47221645) - [Show HN: Tensor Spy: inspect NumPy and PyTorch tensors in the browser, no upload](https://tensorspy.com/)
 * [2026-03-02, 14:39:36](https://news.ycombinator.com/item?id=47218521) - [Screeching Sound of Peeling Tape](https://journals.aps.org/pre/abstract/10.1103/p19h-9ysx)
 * [2026-03-02, 09:26:04](https://news.ycombinator.com/item?id=47215602) - [Hardware hotplug events on Linux, the gory details](https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html)
-* [2026-03-02, 07:56:43](https://news.ycombinator.com/item?id=47215042) - [Hacking Super Mario 64 using covering spaces](https://happel.ai/posts/covering-spaces-geometries-visualized/)
 
 ## [Archives](archives/index.md)
 

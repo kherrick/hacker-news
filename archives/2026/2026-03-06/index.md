@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 11:32:33](https://news.ycombinator.com/item?id=47273698) - [U.S. Capabilities Are Showing Signs of Rot](https://www.theatlantic.com/ideas/2026/03/military-failures-trump-iran/686244/)
 * [2026-03-06, 10:06:06](https://news.ycombinator.com/item?id=47273070) - [How Much Money Jeff Bezos Made Since You Started Reading This Page](https://bezoscalculator.com/)
 * [2026-03-06, 09:22:00](https://news.ycombinator.com/item?id=47272799) - [LibreSprite – open-source pixel art editor](https://libresprite.github.io/)
+* [2026-03-06, 09:21:56](https://news.ycombinator.com/item?id=47272797) - [If AI has a bright future, why does AI think it doesn't?](https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195)
 * [2026-03-06, 09:13:30](https://news.ycombinator.com/item?id=47272734) - [We Might All Be AI Engineers Now](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 * [2026-03-06, 08:41:51](https://news.ycombinator.com/item?id=47272534) - [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
 * [2026-03-06, 07:02:08](https://news.ycombinator.com/item?id=47271858) - [Stardex (YC S21) is hiring customer success engineers](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
