@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-03-06, 14:22:59",
+      "https://news.ycombinator.com/item?id=47275236"
+    ],
+    [
+      "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+      "https://github.com/moongate-community/moongatev2"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 14:20:33",
+      "https://news.ycombinator.com/item?id=47275205"
+    ],
+    [
+      "Why Going to Mars Would Be Bad for Your Health",
+      "https://slate.com/technology/2026/03/elon-musk-mars-space-travel-health-muscle-atrophy.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 14:10:03",
+      "https://news.ycombinator.com/item?id=47275088"
+    ],
+    [
+      "Global Warming Has Accelerated Significantly",
+      "https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 14:04:18",
+      "https://news.ycombinator.com/item?id=47275035"
+    ],
+    [
+      "US economy unexpectedly sheds 92,000 jobs in February",
+      "https://www.bbc.com/news/articles/cjd98091g28o"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 13:30:54",
       "https://news.ycombinator.com/item?id=47274676"
     ],
@@ -11,32 +51,12 @@
   ],
   [
     [
-      "2026-03-06, 12:06:00",
-      "https://news.ycombinator.com/item?id=47273964"
-    ],
-    [
-      "First MacBook Neo Benchmarks Are In",
-      "https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/"
-    ]
-  ],
-  [
-    [
       "2026-03-06, 11:53:18",
       "https://news.ycombinator.com/item?id=47273854"
     ],
     [
       "Hardening Firefox with Anthropic's Red Team",
       "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 11:52:01",
-      "https://news.ycombinator.com/item?id=47273845"
-    ],
-    [
-      "Async Programming Is Just Inject Time",
-      "https://willhbr.net/2026/03/02/async-inject-and-effects/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-03-05, 18:43:59",
-      "https://news.ycombinator.com/item?id=47265521"
-    ],
-    [
-      "Remotely unlocking an encrypted hard disk",
-      "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 18:08:10",
       "https://news.ycombinator.com/item?id=47265045"
     ],
@@ -161,22 +171,22 @@
   ],
   [
     [
-      "2026-03-05, 17:01:47",
-      "https://news.ycombinator.com/item?id=47264138"
-    ],
-    [
-      "Show HN: PageAgent, A GUI agent that lives inside your web app",
-      "https://alibaba.github.io/page-agent/"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 16:22:01",
       "https://news.ycombinator.com/item?id=47263595"
     ],
     [
       "A GitHub Issue Title Compromised 4k Developer Machines",
       "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 16:12:44",
+      "https://news.ycombinator.com/item?id=47263441"
+    ],
+    [
+      "Analytic Fog Rendering with Volumetric Primitives",
+      "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "AI and the Ship of Theseus",
       "https://lucumr.pocoo.org/2026/3/5/theseus/"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 14:05:46",
-      "https://news.ycombinator.com/item?id=47261688"
-    ],
-    [
-      "Judge orders government to begin refunding more than $130B in tariffs",
-      "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-03-02, 19:22:23",
+      "https://news.ycombinator.com/item?id=47222777"
+    ],
+    [
+      "Xous security focused open source on 22nm custom silicon",
+      "https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/xous-0-10-0-introducing-baochip-1x-support"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 16:45:43",
       "https://news.ycombinator.com/item?id=47220411"
     ],
@@ -287,16 +297,6 @@
     [
       "Screeching Sound of Peeling Tape",
       "https://journals.aps.org/pre/abstract/10.1103/p19h-9ysx"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 09:26:04",
-      "https://news.ycombinator.com/item?id=47215602"
-    ],
-    [
-      "Hardware hotplug events on Linux, the gory details",
-      "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html"
     ]
   ]
 ]
