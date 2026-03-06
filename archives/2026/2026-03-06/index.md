@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 22:37:37](https://news.ycombinator.com/item?id=47282060) - [Wild crows in Sweden help clean up cigarette butts](https://www.samodobrevijesti.com/en/news/wild-crows-in-sweden-help-clean-up-cigarette-butts/)
 * [2026-03-06, 21:52:44](https://news.ycombinator.com/item?id=47281593) - [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
 * [2026-03-06, 21:43:39](https://news.ycombinator.com/item?id=47281485) - [Art Bits from Apple Macintosh HyperCard](https://archives.somnolescent.net/web/mari_v2/junk/hypercard/)
 * [2026-03-06, 21:29:37](https://news.ycombinator.com/item?id=47281328) - [Nintendo Sues U.S. Government for Tariff Refunds](https://www.scribd.com/document/1008639172/Nintendo-Sues-U-S-Government-For-Tariff-Refunds)
+* [2026-03-06, 21:19:25](https://news.ycombinator.com/item?id=47281221) - [The Shady World of IP Leasing](https://acid.vegas/blog/the-shady-world-of-ip-leasing/)
 * [2026-03-06, 21:07:43](https://news.ycombinator.com/item?id=47281080) - [The Worst Acquisition in History, Again](https://www.profgmedia.com/p/the-worst-acquisition-in-history)
 * [2026-03-06, 20:21:01](https://news.ycombinator.com/item?id=47280567) - [TypeScript 6.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/)
 * [2026-03-06, 20:19:26](https://news.ycombinator.com/item?id=47280550) - [Why it takes you and an elephant the same amount of time to poop](https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop)
