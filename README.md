@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-06, 02:04:04](https://news.ycombinator.com/item?id=47269914) - [The Home Computer War](https://technicshistory.com/2026/03/06/the-home-computer-war/)
+* [2026-03-06, 04:15:40](https://news.ycombinator.com/item?id=47270807) - [Show HN: Swarm – Program a colony of 200 ants using a custom assembly language](https://dev.moment.com/)
 * [2026-03-06, 00:43:47](https://news.ycombinator.com/item?id=47269288) - [How to install and start using LineageOS on your phone](https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html)
 * [2026-03-06, 00:40:41](https://news.ycombinator.com/item?id=47269263) - [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war)
 * [2026-03-05, 23:26:52](https://news.ycombinator.com/item?id=47268662) - [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/)
@@ -16,6 +16,7 @@
 * [2026-03-05, 18:43:59](https://news.ycombinator.com/item?id=47265521) - [Remotely unlocking an encrypted hard disk](https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/)
 * [2026-03-05, 18:08:10](https://news.ycombinator.com/item?id=47265045) - [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)
 * [2026-03-05, 17:44:10](https://news.ycombinator.com/item?id=47264756) - [The Brand Age](https://paulgraham.com/brandage.html)
+* [2026-03-05, 17:01:47](https://news.ycombinator.com/item?id=47264138) - [Show HN: PageAgent, A GUI agent that lives inside your web app](https://alibaba.github.io/page-agent/)
 * [2026-03-05, 16:22:01](https://news.ycombinator.com/item?id=47263595) - [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
 * [2026-03-05, 16:04:54](https://news.ycombinator.com/item?id=47263323) - [Wikipedia was in read-only mode following mass admin account compromise](https://www.wikimediastatus.net)
 * [2026-03-05, 15:49:45](https://news.ycombinator.com/item?id=47263048) - [AI and the Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/)
@@ -26,7 +27,6 @@
 * [2026-03-04, 15:57:29](https://news.ycombinator.com/item?id=47249387) - [CBP tapped into the online advertising ecosystem to track peoples’ movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/)
 * [2026-03-03, 20:14:03](https://news.ycombinator.com/item?id=47238272) - [A ternary plot of citrus geneology](https://www.jlauf.com/writing/citrus/)
 * [2026-03-02, 23:16:20](https://news.ycombinator.com/item?id=47225655) - [Nobody ever got fired for using a struct](https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct)
-* [2026-03-02, 22:15:39](https://news.ycombinator.com/item?id=47224949) - [The Remaking of Thomas Mann](https://www.commonwealmagazine.org/thomas-mann-magic-mountain-jensen)
 * [2026-03-02, 09:26:04](https://news.ycombinator.com/item?id=47215602) - [Hardware hotplug events on Linux, the gory details](https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html)
 * [2026-03-02, 08:16:55](https://news.ycombinator.com/item?id=47215180) - [Converting dash cam videos into Panoramax images](https://www.openstreetmap.org/user/FeetAndInches/diary/408268)
 * [2026-03-02, 07:56:43](https://news.ycombinator.com/item?id=47215042) - [Hacking Super Mario 64 using covering spaces](https://happel.ai/posts/covering-spaces-geometries-visualized/)
