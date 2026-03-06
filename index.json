@@ -11,6 +11,36 @@
   ],
   [
     [
+      "2026-03-06, 04:12:26",
+      "https://news.ycombinator.com/item?id=47270784"
+    ],
+    [
+      "System76 on Age Verification Laws",
+      "https://blog.system76.com/post/system76-on-age-verification/"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 03:56:52",
+      "https://news.ycombinator.com/item?id=47270672"
+    ],
+    [
+      "Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages",
+      "https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 03:45:23",
+      "https://news.ycombinator.com/item?id=47270607"
+    ],
+    [
+      "Every Claim from Meta Child Safety Trials",
+      "https://meta-trials.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 00:43:47",
       "https://news.ycombinator.com/item?id=47269288"
     ],
@@ -27,16 +57,6 @@
     [
       "Where things stand with the Department of War",
       "https://www.anthropic.com/news/where-stand-department-war"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 23:26:52",
-      "https://news.ycombinator.com/item?id=47268662"
-    ],
-    [
-      "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
-      "https://charm.land/blog/v2/"
     ]
   ],
   [
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2026-03-05, 21:41:31",
-      "https://news.ycombinator.com/item?id=47267694"
-    ],
-    [
-      "Ethiopia gets $350M World Bank financing for its digital ID project (2024)",
-      "https://www.mariblock.com/stories/ethiopia-to-get-350-million-world-bank-financing-for-its-digital-id-project"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 21:35:40",
       "https://news.ycombinator.com/item?id=47267628"
     ],
@@ -97,26 +107,6 @@
     [
       "Structured AI (YC F25) Is Hiring",
       "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 20:18:37",
-      "https://news.ycombinator.com/item?id=47266736"
-    ],
-    [
-      "GLiNER2: Unified Schema-Based Information Extraction",
-      "https://github.com/fastino-ai/GLiNER2"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 19:21:03",
-      "https://news.ycombinator.com/item?id=47266030"
-    ],
-    [
-      "Let's Get Physical",
-      "https://m4iler.cloud/posts/lets-get-physical/"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "The Brand Age",
       "https://paulgraham.com/brandage.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 17:43:31",
+      "https://news.ycombinator.com/item?id=47264741"
+    ],
+    [
+      "Launch HN: Vela (YC W26) – AI for complex scheduling",
+      "https://news.ycombinator.com/item?id=47264741"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-03-02, 08:16:55",
-      "https://news.ycombinator.com/item?id=47215180"
-    ],
-    [
-      "Converting dash cam videos into Panoramax images",
-      "https://www.openstreetmap.org/user/FeetAndInches/diary/408268"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 07:56:43",
       "https://news.ycombinator.com/item?id=47215042"
     ],
     [
       "Hacking Super Mario 64 using covering spaces",
       "https://happel.ai/posts/covering-spaces-geometries-visualized/"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 00:12:43",
+      "https://news.ycombinator.com/item?id=47212277"
+    ],
+    [
+      "Code World Models for Parameter Control in Evolutionary Algorithms",
+      "https://www.alphaxiv.org/abs/2602.22260"
     ]
   ]
 ]
