@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-03-06, 09:22:00",
+      "https://news.ycombinator.com/item?id=47272799"
+    ],
+    [
+      "LibreSprite – open-source pixel art editor",
+      "https://libresprite.github.io/"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 09:13:30",
       "https://news.ycombinator.com/item?id=47272734"
     ],
     [
-      "We Might All Be AI Engineers Now",
+      "We might all be AI engineers now",
       "https://yasint.dev/we-might-all-be-ai-engineers-now/"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "System76 on Age Verification Laws",
       "https://blog.system76.com/post/system76-on-age-verification/"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 02:04:04",
-      "https://news.ycombinator.com/item?id=47269914"
-    ],
-    [
-      "The home computer war",
-      "https://technicshistory.com/2026/03/06/the-home-computer-war/"
     ]
   ],
   [
@@ -255,8 +255,18 @@
       "https://news.ycombinator.com/item?id=47231201"
     ],
     [
-      "Data Does Not Speak to You",
+      "Data does not speak to you",
       "https://tantaman.com/2026-03-02-data-doesnt-speak.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 04:17:14",
+      "https://news.ycombinator.com/item?id=47227974"
+    ],
+    [
+      "Stupidly Obscure Programming in a Troubled Time (2018)",
+      "https://blog.podsnap.com/apply.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Hardware hotplug events on Linux, the gory details",
       "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 07:56:43",
-      "https://news.ycombinator.com/item?id=47215042"
-    ],
-    [
-      "Hacking Super Mario 64 using covering spaces",
-      "https://happel.ai/posts/covering-spaces-geometries-visualized/"
     ]
   ]
 ]
