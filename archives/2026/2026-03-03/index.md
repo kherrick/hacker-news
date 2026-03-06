@@ -36,6 +36,7 @@
 * [2026-03-03, 16:57:28](https://news.ycombinator.com/item?id=47235254) - [FCC Chair Wants Networks to Pledge Loyalty for America's Big Bday](https://gizmodo.com/trumps-fcc-chair-wants-networks-to-run-nationalistic-content-and-pledge-loyalty-for-americas-big-bday-2000725152)
 * [2026-03-03, 16:47:15](https://news.ycombinator.com/item?id=47235117) - [Pass-Through of Tariffs: Evidence from European Wine Imports](https://www.nber.org/202603/digest/pass-through-tariffs-evidence-european-wine-imports)
 * [2026-03-03, 16:34:53](https://news.ycombinator.com/item?id=47234917) - [When AI Writes the Software, Who Verifies It?](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
+* [2026-03-03, 16:34:26](https://news.ycombinator.com/item?id=47234907) - [Show HN: A trainable, modular electronic nose for industrial use](https://sniphi.com/)
 * [2026-03-03, 15:53:37](https://news.ycombinator.com/item?id=47234227) - [Why No AI Games?](https://franklantz.substack.com/p/why-no-ai-games)
 * [2026-03-03, 15:44:41](https://news.ycombinator.com/item?id=47234093) - [I Used Claude to File My Taxes for Free](https://kachess.dev/taxes/ai/personal-finance/2026/02/27/breaking-up-with-turbotax.html)
 * [2026-03-03, 14:55:57](https://news.ycombinator.com/item?id=47233336) - [Charging a three-cell nickel-based battery pack with a Li-Ion charger [pdf]](https://www.ti.com/lit/an/slyt468/slyt468.pdf)

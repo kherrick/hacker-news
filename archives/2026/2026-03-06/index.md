@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 18:26:21](https://news.ycombinator.com/item?id=47278980) - [Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278980)
+* [2026-03-06, 18:17:14](https://news.ycombinator.com/item?id=47278836) - [Never Bet Against x86](https://www.osnews.com/story/144527/never-bet-against-x86/)
+* [2026-03-06, 18:07:52](https://news.ycombinator.com/item?id=47278720) - [Claude Code wiped our production database with a Terraform command](https://twitter.com/Al_Grigor/status/2029889772181934425)
 * [2026-03-06, 17:46:45](https://news.ycombinator.com/item?id=47278426) - [Tech employment now significantly worse than the 2008 or 2020 recessions](https://twitter.com/JosephPolitano/status/2029916364664611242)
 * [2026-03-06, 17:15:33](https://news.ycombinator.com/item?id=47277949) - [Strikes in Middle East since 28th Feb in real time](https://iranstrike.com)
 * [2026-03-06, 17:00:38](https://news.ycombinator.com/item?id=47277679) - [Multifactor (YC F25) Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead)
