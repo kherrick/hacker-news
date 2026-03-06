@@ -38,6 +38,7 @@
 * [2026-03-02, 16:00:27](https://news.ycombinator.com/item?id=47219668) - [Ask HN: Who is hiring? (March 2026)](https://news.ycombinator.com/item?id=47219668)
 * [2026-03-02, 16:00:26](https://news.ycombinator.com/item?id=47219667) - [Ask HN: Who wants to be hired? (March 2026)](https://news.ycombinator.com/item?id=47219667)
 * [2026-03-02, 15:53:23](https://news.ycombinator.com/item?id=47219558) - [Felix \"fx\" Lindner has died](https://blog.recurity-labs.com/2026-03-02/Farewell_Felix)
+* [2026-03-02, 15:46:51](https://news.ycombinator.com/item?id=47219462) - [Open Camera is a FOSS Camera App for Android](https://opencamera.org.uk/)
 * [2026-03-02, 15:41:08](https://news.ycombinator.com/item?id=47219387) - [Language Model Contains Personality Subnetworks](https://arxiv.org/abs/2602.07164)
 * [2026-03-02, 15:31:06](https://news.ycombinator.com/item?id=47219256) - [Image manipulation with convolution using Julia](https://medium.com/@Ahmad_Hamze/image-manipulation-with-convolution-using-julia-f898995ac1e5)
 * [2026-03-02, 14:54:58](https://news.ycombinator.com/item?id=47218743) - [First-ever in-utero stem cell therapy for fetal spina bifida repair is safe](https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02)
