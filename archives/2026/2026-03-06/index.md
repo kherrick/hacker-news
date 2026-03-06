@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-03-06](index.md)
+
+* [2026-03-06, 00:40:41](https://news.ycombinator.com/item?id=47269263) - [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war)

@@ -64,6 +64,7 @@
 * [2026-03-03, 10:11:44](https://news.ycombinator.com/item?id=47230438) - [Show HN: Open-Source Article 12 Logging Infrastructure for the EU AI Act](https://news.ycombinator.com/item?id=47230438)
 * [2026-03-03, 09:23:42](https://news.ycombinator.com/item?id=47230138) - [Simplifying Application Architecture with Modular Design and MIM](https://codingfox.net.pl/posts/mim/)
 * [2026-03-03, 08:58:30](https://news.ycombinator.com/item?id=47229953) - [Privacy-preserving age and identity verification via anonymous credentials](https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/)
+* [2026-03-03, 08:55:08](https://news.ycombinator.com/item?id=47229931) - [Show HN: Kanon 2 Enricher – the first hierarchical graphitization model](https://isaacus.com/blog/kanon-2-enricher)
 * [2026-03-03, 08:35:47](https://news.ycombinator.com/item?id=47229781) - [AWS outage due to drone attacks in UAE](https://www.bbc.com/news/articles/cgk28nj0lrjo)
 * [2026-03-03, 07:34:47](https://news.ycombinator.com/item?id=47229344) - [Arm's Cortex X925: Reaching Desktop Performance](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
 * [2026-03-03, 07:06:22](https://news.ycombinator.com/item?id=47229119) - [I built a pint-sized Macintosh](https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-05](index.md)
 
+* [2026-03-05, 23:26:52](https://news.ycombinator.com/item?id=47268662) - [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/)
 * [2026-03-05, 22:55:01](https://news.ycombinator.com/item?id=47268391) - [Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)
 * [2026-03-05, 22:04:59](https://news.ycombinator.com/item?id=47267947) - [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/)
 * [2026-03-05, 22:03:00](https://news.ycombinator.com/item?id=47267923) - [Show HN: SitDeck – Customizable live dashboard of news, markets, threats](https://sitdeck.com)
