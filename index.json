@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-06, 02:04:04",
+      "https://news.ycombinator.com/item?id=47269914"
+    ],
+    [
+      "The Home Computer War",
+      "https://technicshistory.com/2026/03/06/the-home-computer-war/"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 00:43:47",
+      "https://news.ycombinator.com/item?id=47269288"
+    ],
+    [
+      "How to install and start using LineageOS on your phone",
+      "https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 00:40:41",
       "https://news.ycombinator.com/item?id=47269263"
     ],
@@ -17,6 +37,26 @@
     [
       "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
       "https://charm.land/blog/v2/"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 23:15:57",
+      "https://news.ycombinator.com/item?id=47268574"
+    ],
+    [
+      "Stop Using Grey Text (2025)",
+      "https://catskull.net/stop-using-grey-text.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 22:55:01",
+      "https://news.ycombinator.com/item?id=47268391"
+    ],
+    [
+      "Labor market impacts of AI: A new measure and early evidence",
+      "https://www.anthropic.com/research/labor-market-impacts"
     ]
   ],
   [
@@ -47,6 +87,16 @@
     [
       "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
       "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 21:01:30",
+      "https://news.ycombinator.com/item?id=47267236"
+    ],
+    [
+      "Structured AI (YC F25) Is Hiring",
+      "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant"
     ]
   ],
   [
@@ -111,36 +161,6 @@
   ],
   [
     [
-      "2026-03-05, 17:43:31",
-      "https://news.ycombinator.com/item?id=47264741"
-    ],
-    [
-      "Launch HN: Vela (YC W26) – AI for complex scheduling",
-      "https://news.ycombinator.com/item?id=47264741"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 17:01:47",
-      "https://news.ycombinator.com/item?id=47264138"
-    ],
-    [
-      "Show HN: PageAgent, A GUI agent that lives inside your web app",
-      "https://alibaba.github.io/page-agent/"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 16:26:29",
-      "https://news.ycombinator.com/item?id=47263661"
-    ],
-    [
-      "Datasets for Reconstructing Visual Perception from Brain Data",
-      "https://github.com/seelikat/neuro-visual-reconstruction-dataset-index"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 16:22:01",
       "https://news.ycombinator.com/item?id=47263595"
     ],
@@ -157,6 +177,16 @@
     [
       "Wikipedia was in read-only mode following mass admin account compromise",
       "https://www.wikimediastatus.net"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 15:49:45",
+      "https://news.ycombinator.com/item?id=47263048"
+    ],
+    [
+      "AI and the Ship of Theseus",
+      "https://lucumr.pocoo.org/2026/3/5/theseus/"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2026-03-03, 23:09:21",
-      "https://news.ycombinator.com/item?id=47240424"
-    ],
-    [
-      "A man who broke into jail",
-      "https://www.newyorker.com/magazine/2026/03/09/alexander-friedmann-profile-prison-reform"
-    ]
-  ],
-  [
-    [
       "2026-03-03, 20:14:03",
       "https://news.ycombinator.com/item?id=47238272"
     ],
@@ -231,42 +251,22 @@
   ],
   [
     [
-      "2026-03-03, 08:55:08",
-      "https://news.ycombinator.com/item?id=47229931"
+      "2026-03-02, 23:16:20",
+      "https://news.ycombinator.com/item?id=47225655"
     ],
     [
-      "Show HN: Kanon 2 Enricher – the first hierarchical graphitization model",
-      "https://isaacus.com/blog/kanon-2-enricher"
+      "Nobody ever got fired for using a struct",
+      "https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct"
     ]
   ],
   [
     [
-      "2026-03-03, 04:33:50",
-      "https://news.ycombinator.com/item?id=47228091"
+      "2026-03-02, 22:15:39",
+      "https://news.ycombinator.com/item?id=47224949"
     ],
     [
-      "Optimizing Recommendation Systems with JDK's Vector API",
-      "https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 17:05:18",
-      "https://news.ycombinator.com/item?id=47220739"
-    ],
-    [
-      "A rabbit hole in 5 commits",
-      "https://www.codingwithjesse.com/blog/a-rabbit-hole-in-5-commits/"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 14:30:51",
-      "https://news.ycombinator.com/item?id=47218397"
-    ],
-    [
-      "Greg Kroah-Hartman Stretches Support Periods for Key Linux LTS Kernels",
-      "https://fossforce.com/2026/03/greg-kroah-hartman-stretches-support-periods-for-key-linux-lts-kernels/"
+      "The Remaking of Thomas Mann",
+      "https://www.commonwealmagazine.org/thomas-mann-magic-mountain-jensen"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-03-01, 16:49:46",
-      "https://news.ycombinator.com/item?id=47208341"
+      "2026-03-02, 07:56:43",
+      "https://news.ycombinator.com/item?id=47215042"
     ],
     [
-      "World-first gigabit laser link between aircraft and geostationary satellite",
-      "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite"
+      "Hacking Super Mario 64 using covering spaces",
+      "https://happel.ai/posts/covering-spaces-geometries-visualized/"
     ]
   ]
 ]
