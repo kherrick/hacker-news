@@ -129,6 +129,200 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47278980">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=47278980"
+              >Launch HN: Palus Finance (YC W26): Better yields on idle cash for
+              startups, SMBs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-06 @ 18:26:21</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47278980"
+                  >Comments</a
+                ><span class="descendants">: 18</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://palus.finance">https://palus.finance</a>). We’re
+              building a treasury management platform for startups and SMBs to
+              earn higher yields with a high-yield bond portfolio.
+              <p>
+                We were funded by YC for a consumer-focused product for
+                higher-yield savings. But when we joined YC and got our funding,
+                we realized we needed the product for our own startup’s cash
+                reserves, and other startups in the batch started telling us
+                they wanted this too.
+              </p>
+              <p>
+                We realized that traditional startup treasury products do much
+                the same thing: open a brokerage account, sweep your cash into a
+                money market fund (MMF), and charge a management fee. No
+                strategy involved. (There <i>is</i> actually one
+                widely-advertised treasury product that differentiates on yield,
+                but instead of an MMF it uses a mutual fund where your principal
+                is at considerable risk – it had a 9% loss in 2022 that took
+                years to recover.)
+              </p>
+              <p>
+                I come from a finance background, so this norm felt weird to me.
+                The typical startup cashflow pattern is a large infusion from a
+                raise covering 18–24 months of burn, drawn down gradually.
+                That's a lot of capital sitting idle for a long time, where even
+                a modest yield improvement compounds into real money.
+              </p>
+              <p>
+                MMFs are the lowest rung of what's available in fixed income.
+                Yes, they’re very safe and liquid, but when you leave your whole
+                treasury in one, you’re giving up yield to get same-day
+                liquidity on cash you won’t touch for six months or more. Big
+                companies have treasury teams that actively manage their
+                holdings and invest in a range of safe assets to maximize yield.
+                But those sophisticated bond portfolios were just never made
+                accessible to startups. That’s what we’re building.
+              </p>
+              <p>
+                Our bond portfolio holds short-duration floating-rate agency
+                mortgage-backed securities (MBS), which are an ideal, safe,
+                high-yielding asset for long-term startup cash reserves under
+                most circumstances.[1]
+              </p>
+              <p>
+                The bond portfolio is managed by Regan Capital, which runs MBSF,
+                the largest floating-rate agency MBS ETF in the country. Right
+                now we're using MBSF to generate yields for customers (you can
+                see its historical returns, including dividends, here:
+                <a href="https://totalrealreturns.com/n/USDOLLAR,MBSF"
+                  >https://totalrealreturns.com/n/USDOLLAR,MBSF</a
+                >). We're working with Regan to set up a dedicated account with
+                the same strategy, which will let us reduce fees and give each
+                startup direct ownership of the underlying securities. All
+                assets are held with an SEC-licensed custodian.
+              </p>
+              <p>
+                Based on historical returns, we target 4.5–5% returns vs.
+                roughly 3.5% from most money market funds.[2] Liquidity is
+                typically available in 1-2 business days. We will charge a flat
+                0.25% annual fee on AUM, compared to the 0.15–0.60%, depending
+                on balance, charged by other treasury providers.
+              </p>
+              <p>
+                We think that startup banking products themselves (Brex,
+                Mercury, etc.) are genuinely good at what they do: payments,
+                payroll, card management. The problem is the treasury product
+                bundled with them, not the bank. So rather than building another
+                neobank, we built Palus to connect to your existing bank account
+                via Plaid. Our goal was to create the simplest possible UX for
+                this product: two buttons and a giant number that goes up.
+              </p>
+              <p>
+                See here:
+                <a href="https://www.youtube.com/watch?v=8Q_gwSqtnxM"
+                  >https://www.youtube.com/watch?v=8Q_gwSqtnxM</a
+                >
+              </p>
+              <p>
+                We are live with early customers from within YC, and accepting
+                new customers on a rolling basis; you can sign up at
+                <a href="https://palus.finance/">https://palus.finance/</a>.
+              </p>
+              <p>
+                We'd love feedback from founders who've thought about idle cash
+                management or people with a background in fixed-income and
+                structured products. Happy to go deep in the comments.
+              </p>
+              <p>
+                [1] Agency MBS are pools of residential mortgages guaranteed by
+                federal government agencies (Ginnie Mae, Fannie Mae, and Freddie
+                Mac). It's a $9T market with the same government backing and
+                AAA/AA+ rating as the Treasuries in a money market fund. No
+                investor has ever lost money in agency MBS due to borrower
+                default.
+              </p>
+              <p>
+                It's worth acknowledging that many people associate
+                “mortgage-backed securities” with the 2008 financial crisis. But
+                the assets that blew up in 2008 were private-label MBS, bundles
+                of risky subprime mortgages without federal guarantees. Agency
+                MBS holders suffered no credit losses during the crisis, and
+                post-2008 underwriting standards became even stricter. If
+                anything, 2008 was evidence for the safety of agency MBS, not
+                against it.
+              </p>
+              <p>
+                The agency guarantee eliminates credit risk. Our short-duration,
+                floating-rate strategy addresses the other main risk: price
+                risk. Fixed-rate bonds lose value when rates rise, but
+                floating-rate bonds reset their coupon based on the SOFR
+                benchmark, protecting against interest rate movements.
+              </p>
+              <p>
+                [2] This comes from the historical spread between MMFs and
+                floating-rate agency MBS; MMFs typically pay very close to SOFR,
+                while the MBS pay SOFR + 1 to 1.5%. This means that if the
+                Federal Reserve changes interest rates and SOFR moves, both
+                asset types will move by about the same amount, and that 1-1.5%
+                premium will remain.
+              </p>
+              <p>
+                <i
+                  >This post is for educational purposes only and does not
+                  constitute financial, investment, or legal advice. Past
+                  performance does not guarantee future results. Yields and
+                  spreads referenced are approximate and based on historical
+                  data.</i
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47278836">
+          <h3>
+            <a
+              class="item"
+              href="https://www.osnews.com/story/144527/never-bet-against-x86/"
+              >Never Bet Against x86</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-06 @ 18:17:14</span
+              ><span class="points-container"
+                >Points: <span class="points">47</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47278836"
+                  >Comments</a
+                ><span class="descendants">: 34</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47278720">
+          <h3>
+            <a
+              class="item"
+              href="https://twitter.com/Al_Grigor/status/2029889772181934425"
+              >Claude Code wiped our production database with a Terraform
+              command</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-06 @ 18:07:52</span
+              ><span class="points-container"
+                >Points: <span class="points">96</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47278720"
+                  >Comments</a
+                ><span class="descendants">: 98</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47278426">
           <h3>
             <a
@@ -142,30 +336,11 @@
             <h4>
               <span>2026-03-06 @ 17:46:45</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">202</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47278426"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47277949">
-          <h3>
-            <a class="item" href="https://iranstrike.com"
-              >Strikes in Middle East since 28th Feb in real time</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-06 @ 17:15:33</span
-              ><span class="points-container"
-                >Points: <span class="points">25</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47277949"
-                  >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
           </section>
@@ -197,11 +372,11 @@
             <h4>
               <span>2026-03-06 @ 16:46:50</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47277420"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -216,11 +391,11 @@
             <h4>
               <span>2026-03-06 @ 16:14:30</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47276865"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -236,7 +411,7 @@
             <h4>
               <span>2026-03-06 @ 15:57:27</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47276604"
                   >Comments</a
@@ -291,11 +466,11 @@
             <h4>
               <span>2026-03-06 @ 15:53:32</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47276539"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -312,11 +487,11 @@
             <h4>
               <span>2026-03-06 @ 15:33:17</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47276220"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -334,11 +509,11 @@
             <h4>
               <span>2026-03-06 @ 14:22:59</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47275236"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
             <div class="text">
@@ -393,11 +568,11 @@
             <h4>
               <span>2026-03-06 @ 14:22:25</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47275230"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -414,30 +589,11 @@
             <h4>
               <span>2026-03-06 @ 14:16:06</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47275152"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47275121">
-          <h3>
-            <a class="item" href="https://seafloor.pages.dev"
-              >Show HN: Interactive 3D globe of EU shipping emissions</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-06 @ 14:12:45</span
-              ><span class="points-container"
-                >Points: <span class="points">14</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47275121"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -454,32 +610,11 @@
             <h4>
               <span>2026-03-06 @ 14:10:03</span
               ><span class="points-container"
-                >Points: <span class="points">710</span></span
+                >Points: <span class="points">746</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47275088"
                   >Comments</a
-                ><span class="descendants">: 674</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47275035">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bbc.com/news/articles/cjd98091g28o"
-              >US economy unexpectedly sheds 92k jobs in February</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-06 @ 14:04:18</span
-              ><span class="points-container"
-                >Points: <span class="points">437</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47275035"
-                  >Comments</a
-                ><span class="descendants">: 568</span></span
+                ><span class="descendants">: 732</span></span
               >
             </h4>
           </section>
@@ -497,11 +632,11 @@
             <h4>
               <span>2026-03-06 @ 13:30:54</span
               ><span class="points-container"
-                >Points: <span class="points">387</span></span
+                >Points: <span class="points">407</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47274676"
                   >Comments</a
-                ><span class="descendants">: 213</span></span
+                ><span class="descendants">: 230</span></span
               >
             </h4>
           </section>
@@ -518,11 +653,11 @@
             <h4>
               <span>2026-03-06 @ 11:53:18</span
               ><span class="points-container"
-                >Points: <span class="points">289</span></span
+                >Points: <span class="points">301</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47273854"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -537,11 +672,11 @@
             <h4>
               <span>2026-03-06 @ 09:22:00</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47272799"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -558,11 +693,11 @@
             <h4>
               <span>2026-03-06 @ 09:13:30</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47272734"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 149</span></span
               >
             </h4>
           </section>
@@ -577,7 +712,7 @@
             <h4>
               <span>2026-03-06 @ 08:41:51</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47272534"
                   >Comments</a
@@ -599,11 +734,11 @@
             <h4>
               <span>2026-03-06 @ 08:13:28</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47272338"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -619,11 +754,11 @@
             <h4>
               <span>2026-03-06 @ 04:15:40</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47270807"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
             <div class="text">
@@ -664,11 +799,11 @@
             <h4>
               <span>2026-03-06 @ 04:12:26</span
               ><span class="points-container"
-                >Points: <span class="points">736</span></span
+                >Points: <span class="points">749</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47270784"
                   >Comments</a
-                ><span class="descendants">: 535</span></span
+                ><span class="descendants">: 539</span></span
               >
             </h4>
           </section>
@@ -683,11 +818,11 @@
             <h4>
               <span>2026-03-05 @ 18:08:10</span
               ><span class="points-container"
-                >Points: <span class="points">962</span></span
+                >Points: <span class="points">964</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47265045"
                   >Comments</a
-                ><span class="descendants">: 754</span></span
+                ><span class="descendants">: 756</span></span
               >
             </h4>
             <div class="text">
@@ -712,11 +847,11 @@
             <h4>
               <span>2026-03-05 @ 17:44:10</span
               ><span class="points-container"
-                >Points: <span class="points">441</span></span
+                >Points: <span class="points">448</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47264756"
                   >Comments</a
-                ><span class="descendants">: 343</span></span
+                ><span class="descendants">: 347</span></span
               >
             </h4>
           </section>
@@ -733,11 +868,11 @@
             <h4>
               <span>2026-03-05 @ 16:22:01</span
               ><span class="points-container"
-                >Points: <span class="points">588</span></span
+                >Points: <span class="points">590</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47263595"
                   >Comments</a
-                ><span class="descendants">: 181</span></span
+                ><span class="descendants">: 182</span></span
               >
             </h4>
             <div class="text">
@@ -759,7 +894,7 @@
             <h4>
               <span>2026-03-05 @ 16:12:44</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47263441"
                   >Comments</a
@@ -768,25 +903,109 @@
             </h4>
           </section>
         </section>
-        <section id="47252971">
+        <section id="47234907">
           <h3>
-            <a
-              class="item"
-              href="https://mas.to/@gabrielesvelto/116171750653898304"
-              >10% of Firefox crashes are caused by bitflips</a
+            <a class="item" href="https://sniphi.com/"
+              >Show HN: A trainable, modular electronic nose for industrial
+              use</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-04 @ 19:58:24</span
+              <span>2026-03-03 @ 16:34:26</span
               ><span class="points-container"
-                >Points: <span class="points">852</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47252971"
+                ><a href="https://news.ycombinator.com/item?id=47234907"
                   >Comments</a
-                ><span class="descendants">: 441</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
+            <div class="text">
+              <p>I’m part of the team building Sniphi.</p>
+              <p>
+                Sniphi is a modular digital nose that uses gas sensors and
+                machine-learning models to convert volatile organic compound
+                (VOC) data into a machine-readable signal that can be integrated
+                into existing QA, monitoring, or automation systems. The system
+                is currently in an R&amp;D phase, but already exists as working
+                hardware and software and is being tested in real environments.
+              </p>
+              <p>
+                The project grew out of earlier collaborations with university
+                researchers on gas sensors and odor classification. What we kept
+                running into was a gap between promising lab results and systems
+                that could actually be deployed, integrated, and maintained in
+                real production environments.
+              </p>
+              <p>
+                One of our core goals was to avoid building a single-purpose
+                device. The same hardware and software stack can be trained for
+                different use cases by changing the training data and models,
+                rather than the physical setup. In that sense, we think of it as
+                a “universal” electronic nose: one platform, multiple
+                smell-based tasks.
+              </p>
+              <p>Some design principles we optimized for:</p>
+              <p>
+                - Composable architecture: sensor ingestion, ML inference, and
+                analytics are decoupled and exposed via APIs/events
+              </p>
+              <p>
+                - Deployment-first thinking: designed for rollout in factories
+                and warehouses, not just controlled lab setups
+              </p>
+              <p>
+                - Cloud-backed operations: model management, monitoring, updates
+                run on Azure, which makes it easier to integrate with existing
+                industrial IT setups
+              </p>
+              <p>
+                - Trainable across use cases: the same platform can be retrained
+                for different classification or monitoring tasks without
+                redesigning the hardware
+              </p>
+              <p>
+                One public demo we show is classifying different coffee aromas,
+                but that’s just a convenient example. In practice, we’re
+                exploring use cases such as:
+              </p>
+              <p>- Quality control and process monitoring</p>
+              <p>- Early detection of contamination or spoilage</p>
+              <p>
+                - Continuous monitoring in large storage environments (e.g.
+                detecting parasite-related grain contamination in warehouses)
+              </p>
+              <p>
+                Because this is a hardware system, there’s no simple way to try
+                it over the internet. To make it concrete, we’ve shared:
+              </p>
+              <p>
+                - A short end-to-end demo video showing the system in action
+                (YouTube)
+              </p>
+              <p>
+                - A technical overview of the architecture and deployment model:
+                <a href="https://sniphi.com/">https://sniphi.com/</a>
+              </p>
+              <p>
+                At this stage, we’re especially interested in feedback and
+                conversations with people who:
+              </p>
+              <p>- Have deployed physical sensors at scale</p>
+              <p>
+                - Have run into problems that smell data <i>might</i> help with
+              </p>
+              <p>
+                - Are curious about piloting or testing something like this in
+                practice
+              </p>
+              <p>
+                We’re not fundraising here. We’re mainly trying to learn where
+                this kind of sensing is genuinely useful and where it isn’t.
+              </p>
+              <p>Happy to answer technical questions.</p>
+            </div>
           </section>
         </section>
         <section id="47222777">
@@ -801,11 +1020,11 @@
             <h4>
               <span>2026-03-02 @ 19:22:23</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47222777"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -820,11 +1039,11 @@
             <h4>
               <span>2026-03-02 @ 16:45:43</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">216</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47220411"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -839,11 +1058,11 @@
             <h4>
               <span>2026-03-02 @ 15:46:51</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47219462"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
