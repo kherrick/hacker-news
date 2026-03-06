@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 07:02:08](https://news.ycombinator.com/item?id=47271858) - [Stardex (YC S21) is hiring customer success engineers](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
 * [2026-03-06, 05:20:10](https://news.ycombinator.com/item?id=47271187) - [TeX Live 2026 is available for download now](https://www.tug.org/texlive/acquire.html)
 * [2026-03-06, 04:15:40](https://news.ycombinator.com/item?id=47270807) - [Show HN: Swarm – Program a colony of 200 ants using a custom assembly language](https://dev.moment.com/)
 * [2026-03-06, 04:12:26](https://news.ycombinator.com/item?id=47270784) - [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)
