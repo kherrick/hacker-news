@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-06, 23:17:19](https://news.ycombinator.com/item?id=47282390) - [Show HN: The Roman Industrial Revolution that could have been (Vol 2)](https://thelydianstone.com/volume-2)
 * [2026-03-06, 22:55:37](https://news.ycombinator.com/item?id=47282230) - [C# Strings Silently Kill Your SQL Server Indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)
 * [2026-03-06, 21:52:44](https://news.ycombinator.com/item?id=47281593) - [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
 * [2026-03-06, 21:43:39](https://news.ycombinator.com/item?id=47281485) - [Art Bits from HyperCard](https://archives.somnolescent.net/web/mari_v2/junk/hypercard/)
 * [2026-03-06, 21:19:25](https://news.ycombinator.com/item?id=47281221) - [The Shady World of IP Leasing](https://acid.vegas/blog/the-shady-world-of-ip-leasing/)
-* [2026-03-06, 21:07:43](https://news.ycombinator.com/item?id=47281080) - [The worst acquisition in history, again](https://www.profgmedia.com/p/the-worst-acquisition-in-history)
 * [2026-03-06, 20:21:01](https://news.ycombinator.com/item?id=47280567) - [TypeScript 6.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/)
 * [2026-03-06, 20:03:48](https://news.ycombinator.com/item?id=47280352) - [Ada 2022](https://www.adaic.org/ada-resources/standards/ada22/)
 * [2026-03-06, 19:52:08](https://news.ycombinator.com/item?id=47280200) - [Anthropic, please make a new Slack](https://www.fivetran.com/blog/anthropic-please-make-a-new-slack)
