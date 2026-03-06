@@ -79,3 +79,4 @@
 * [2026-03-02, 00:57:40](https://news.ycombinator.com/item?id=47212576) - [Show HN: Timber – Ollama for classical ML models, 336x faster than Python](https://github.com/kossisoroyce/timber)
 * [2026-03-02, 00:40:52](https://news.ycombinator.com/item?id=47212451) - [Picking Up a Zillion Pieces of Litter](https://www.sixstepstobetterhealth.com/litter.html)
 * [2026-03-02, 00:27:52](https://news.ycombinator.com/item?id=47212355) - [If AI writes code, should the session be part of the commit?](https://github.com/mandel-macaque/memento)
+* [2026-03-02, 00:12:43](https://news.ycombinator.com/item?id=47212277) - [Code World Models for Parameter Control in Evolutionary Algorithms](https://www.alphaxiv.org/abs/2602.22260)
