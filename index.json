@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-03-06, 11:32:33",
-      "https://news.ycombinator.com/item?id=47273698"
+      "2026-03-06, 12:10:35",
+      "https://news.ycombinator.com/item?id=47274010"
     ],
     [
-      "U.S. Capabilities Are Showing Signs of Rot",
-      "https://www.theatlantic.com/ideas/2026/03/military-failures-trump-iran/686244/"
+      "Elite Overproduction",
+      "https://en.wikipedia.org/wiki/Elite_overproduction"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 12:06:00",
+      "https://news.ycombinator.com/item?id=47273964"
+    ],
+    [
+      "First MacBook Neo Benchmarks Are In",
+      "https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 11:53:18",
+      "https://news.ycombinator.com/item?id=47273854"
+    ],
+    [
+      "Hardening Firefox with Anthropic's Red Team",
+      "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 11:52:01",
+      "https://news.ycombinator.com/item?id=47273845"
+    ],
+    [
+      "Async Programming Is Just Inject Time",
+      "https://willhbr.net/2026/03/02/async-inject-and-effects/"
     ]
   ],
   [
@@ -17,16 +47,6 @@
     [
       "LibreSprite – open-source pixel art editor",
       "https://libresprite.github.io/"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 09:21:56",
-      "https://news.ycombinator.com/item?id=47272797"
-    ],
-    [
-      "If AI has a bright future, why does AI think it doesn't?",
-      "https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-03-05, 17:43:31",
-      "https://news.ycombinator.com/item?id=47264741"
-    ],
-    [
-      "Launch HN: Vela (YC W26) – AI for complex scheduling",
-      "https://news.ycombinator.com/item?id=47264741"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 17:01:47",
       "https://news.ycombinator.com/item?id=47264138"
     ],
@@ -187,16 +197,6 @@
     [
       "AI and the Ship of Theseus",
       "https://lucumr.pocoo.org/2026/3/5/theseus/"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 15:48:52",
-      "https://news.ycombinator.com/item?id=47263036"
-    ],
-    [
-      "Show HN: Jido 2.0, Elixir Agent Framework",
-      "https://jido.run/blog/jido-2-0-is-here"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-03-03, 13:34:10",
-      "https://news.ycombinator.com/item?id=47232091"
-    ],
-    [
-      "Ask HN: How many of you hold an amateur radio license in your country?",
-      "https://news.ycombinator.com/item?id=47232091"
-    ]
-  ],
-  [
-    [
       "2026-03-03, 04:17:14",
       "https://news.ycombinator.com/item?id=47227974"
     ],
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2026-03-02, 18:05:43",
-      "https://news.ycombinator.com/item?id=47221645"
+      "2026-03-02, 16:45:43",
+      "https://news.ycombinator.com/item?id=47220411"
     ],
     [
-      "Show HN: Tensor Spy: inspect NumPy and PyTorch tensors in the browser, no upload",
-      "https://tensorspy.com/"
+      "Payphone Go",
+      "https://walzr.com/payphone-go/"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 15:31:06",
+      "https://news.ycombinator.com/item?id=47219256"
+    ],
+    [
+      "Image manipulation with convolution using Julia",
+      "https://medium.com/@Ahmad_Hamze/image-manipulation-with-convolution-using-julia-f898995ac1e5"
     ]
   ],
   [
