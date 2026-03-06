@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-06, 05:20:10",
+      "https://news.ycombinator.com/item?id=47271187"
+    ],
+    [
+      "TeX Live 2026 is available for download now",
+      "https://www.tug.org/texlive/acquire.html"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 04:15:40",
       "https://news.ycombinator.com/item?id=47270807"
     ],
@@ -27,16 +37,6 @@
     [
       "Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages",
       "https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 03:45:23",
-      "https://news.ycombinator.com/item?id=47270607"
-    ],
-    [
-      "Every Claim from Meta Child Safety Trials",
-      "https://meta-trials.vercel.app/"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Structured AI (YC F25) Is Hiring",
       "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 18:50:33",
-      "https://news.ycombinator.com/item?id=47265619"
-    ],
-    [
-      "OpenTitan Shipping in Production",
-      "https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html"
     ]
   ],
   [
@@ -261,6 +251,26 @@
   ],
   [
     [
+      "2026-03-03, 12:05:08",
+      "https://news.ycombinator.com/item?id=47231201"
+    ],
+    [
+      "Data Does Not Speak to You",
+      "https://tantaman.com/2026-03-02-data-doesnt-speak.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 10:19:19",
+      "https://news.ycombinator.com/item?id=47230482"
+    ],
+    [
+      "Fixpoints to think clearly",
+      "https://blog.yellowflash.in/posts/2026-03-03-fixpoints-for-clarity.html"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 23:16:20",
       "https://news.ycombinator.com/item?id=47225655"
     ],
@@ -287,16 +297,6 @@
     [
       "Hacking Super Mario 64 using covering spaces",
       "https://happel.ai/posts/covering-spaces-geometries-visualized/"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 00:12:43",
-      "https://news.ycombinator.com/item?id=47212277"
-    ],
-    [
-      "Code World Models for Parameter Control in Evolutionary Algorithms",
-      "https://www.alphaxiv.org/abs/2602.22260"
     ]
   ]
 ]
