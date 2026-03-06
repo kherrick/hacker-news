@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 12:10:35](https://news.ycombinator.com/item?id=47274010) - [Elite Overproduction](https://en.wikipedia.org/wiki/Elite_overproduction)
+* [2026-03-06, 12:06:00](https://news.ycombinator.com/item?id=47273964) - [First MacBook Neo Benchmarks Are In](https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/)
+* [2026-03-06, 11:53:18](https://news.ycombinator.com/item?id=47273854) - [Hardening Firefox with Anthropic's Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)
+* [2026-03-06, 11:52:01](https://news.ycombinator.com/item?id=47273845) - [Async Programming Is Just Inject Time](https://willhbr.net/2026/03/02/async-inject-and-effects/)
 * [2026-03-06, 11:32:33](https://news.ycombinator.com/item?id=47273698) - [U.S. Capabilities Are Showing Signs of Rot](https://www.theatlantic.com/ideas/2026/03/military-failures-trump-iran/686244/)
 * [2026-03-06, 10:06:06](https://news.ycombinator.com/item?id=47273070) - [How Much Money Jeff Bezos Made Since You Started Reading This Page](https://bezoscalculator.com/)
 * [2026-03-06, 09:22:00](https://news.ycombinator.com/item?id=47272799) - [LibreSprite – open-source pixel art editor](https://libresprite.github.io/)
