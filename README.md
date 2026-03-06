@@ -29,7 +29,7 @@
 * [2026-03-02, 23:16:20](https://news.ycombinator.com/item?id=47225655) - [Nobody ever got fired for using a struct](https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct)
 * [2026-03-02, 09:26:04](https://news.ycombinator.com/item?id=47215602) - [Hardware hotplug events on Linux, the gory details](https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html)
 * [2026-03-02, 07:56:43](https://news.ycombinator.com/item?id=47215042) - [Hacking Super Mario 64 using covering spaces](https://happel.ai/posts/covering-spaces-geometries-visualized/)
-* [2026-03-01, 00:49:27](https://news.ycombinator.com/item?id=47202360) - [The Mystery of Skype](https://clevcode.org/the-mystery-of-skype/)
+* [2026-03-01, 16:49:46](https://news.ycombinator.com/item?id=47208341) - [World-first gigabit laser link between aircraft and geostationary satellite](https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite)
 
 ## [Archives](archives/index.md)
 
