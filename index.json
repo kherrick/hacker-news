@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-06, 07:02:08",
+      "https://news.ycombinator.com/item?id=47271858"
+    ],
+    [
+      "Stardex (YC S21) is hiring customer success engineers",
+      "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 05:20:10",
       "https://news.ycombinator.com/item?id=47271187"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2026-03-05, 23:15:57",
-      "https://news.ycombinator.com/item?id=47268574"
-    ],
-    [
-      "Stop Using Grey Text (2025)",
-      "https://catskull.net/stop-using-grey-text.html"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 22:55:01",
       "https://news.ycombinator.com/item?id=47268391"
     ],
@@ -101,12 +101,12 @@
   ],
   [
     [
-      "2026-03-05, 21:01:30",
-      "https://news.ycombinator.com/item?id=47267236"
+      "2026-03-05, 18:50:33",
+      "https://news.ycombinator.com/item?id=47265619"
     ],
     [
-      "Structured AI (YC F25) Is Hiring",
-      "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant"
+      "OpenTitan Shipping in Production",
+      "https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-03-03, 10:19:19",
-      "https://news.ycombinator.com/item?id=47230482"
-    ],
-    [
-      "Fixpoints to think clearly",
-      "https://blog.yellowflash.in/posts/2026-03-03-fixpoints-for-clarity.html"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 23:16:20",
       "https://news.ycombinator.com/item?id=47225655"
     ],
@@ -297,6 +287,16 @@
     [
       "Hacking Super Mario 64 using covering spaces",
       "https://happel.ai/posts/covering-spaces-geometries-visualized/"
+    ]
+  ],
+  [
+    [
+      "2026-03-01, 00:49:27",
+      "https://news.ycombinator.com/item?id=47202360"
+    ],
+    [
+      "The Mystery of Skype",
+      "https://clevcode.org/the-mystery-of-skype/"
     ]
   ]
 ]
