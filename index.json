@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-03-06, 17:00:38",
+      "https://news.ycombinator.com/item?id=47277679"
+    ],
+    [
+      "Multifactor (YC F25) Is Hiring an Engineering Lead",
+      "https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 16:46:50",
+      "https://news.ycombinator.com/item?id=47277420"
+    ],
+    [
+      "Supertoast Tables",
+      "https://hatchet.run/blog/supertoast-tables"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 16:19:56",
       "https://news.ycombinator.com/item?id=47276952"
     ],
     [
       "CBP says it can't comply with refund order",
       "https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 16:14:30",
+      "https://news.ycombinator.com/item?id=47276865"
+    ],
+    [
+      "Astra: An open-source observatory control software",
+      "https://github.com/ppp-one/astra"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 15:53:32",
+      "https://news.ycombinator.com/item?id=47276539"
+    ],
+    [
+      "Entomologists Use a Particle Accelerator to Image Ants at Scale",
+      "https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan"
     ]
   ],
   [
@@ -55,7 +95,7 @@
       "https://news.ycombinator.com/item?id=47275088"
     ],
     [
-      "Global Warming Has Accelerated Significantly",
+      "Global warming has accelerated significantly",
       "https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly"
     ]
   ],
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2026-03-06, 07:02:08",
-      "https://news.ycombinator.com/item?id=47271858"
-    ],
-    [
-      "Stardex (YC S21) is hiring customer success engineers",
-      "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration"
-    ]
-  ],
-  [
-    [
       "2026-03-06, 04:15:40",
       "https://news.ycombinator.com/item?id=47270807"
     ],
@@ -147,26 +177,6 @@
     [
       "System76 on Age Verification Laws",
       "https://blog.system76.com/post/system76-on-age-verification/"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 00:40:41",
-      "https://news.ycombinator.com/item?id=47269263"
-    ],
-    [
-      "Where things stand with the Department of War",
-      "https://www.anthropic.com/news/where-stand-department-war"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 22:55:01",
-      "https://news.ycombinator.com/item?id=47268391"
-    ],
-    [
-      "Labor market impacts of AI: A new measure and early evidence",
-      "https://www.anthropic.com/research/labor-market-impacts"
     ]
   ],
   [
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=47263441"
     ],
     [
-      "Analytic Fog Rendering with Volumetric Primitives",
+      "Analytic Fog Rendering with Volumetric Primitives (2025)",
       "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "10% of Firefox crashes are caused by bitflips",
       "https://mas.to/@gabrielesvelto/116171750653898304"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 14:55:57",
-      "https://news.ycombinator.com/item?id=47233336"
-    ],
-    [
-      "Charging a three-cell nickel-based battery pack with a Li-Ion charger [pdf]",
-      "https://www.ti.com/lit/an/slyt468/slyt468.pdf"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-03-02, 14:39:36",
-      "https://news.ycombinator.com/item?id=47218521"
+      "2026-02-28, 15:35:03",
+      "https://news.ycombinator.com/item?id=47196525"
     ],
     [
-      "Screeching Sound of Peeling Tape",
-      "https://journals.aps.org/pre/abstract/10.1103/p19h-9ysx"
+      "\"Our programs are fun to use\" – Beagle Bros",
+      "https://unsung.aresluna.org/our-programs-are-fun-to-use/"
     ]
   ]
 ]
