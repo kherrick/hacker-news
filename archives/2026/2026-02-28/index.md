@@ -36,6 +36,7 @@
 * [2026-02-28, 16:11:58](https://news.ycombinator.com/item?id=47197003) - [Show HN: SQLite for Rivet Actors – one database per agent, tenant, or document](https://github.com/rivet-dev/rivet)
 * [2026-02-28, 16:00:48](https://news.ycombinator.com/item?id=47196864) - [DOS Memory Management](https://www.os2museum.com/wp/dos-memory-management/)
 * [2026-02-28, 15:39:10](https://news.ycombinator.com/item?id=47196582) - [Cognitive Debt: When Velocity Exceeds Comprehension](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/)
+* [2026-02-28, 15:35:03](https://news.ycombinator.com/item?id=47196525) - [\"Our programs are fun to use\" – Beagle Bros](https://unsung.aresluna.org/our-programs-are-fun-to-use/)
 * [2026-02-28, 15:15:08](https://news.ycombinator.com/item?id=47196263) - [Is GitHub Copilot still relevant in the enterprise?](https://news.ycombinator.com/item?id=47196263)
 * [2026-02-28, 14:58:02](https://news.ycombinator.com/item?id=47196069) - [Show HN: Rust-powered document chunker for RAG – 40x faster, O(1) memory](https://github.com/Krira-Labs/krira-chunker)
 * [2026-02-28, 14:44:23](https://news.ycombinator.com/item?id=47195936) - [I built an RGB controller with Arduino](https://svana.name/2026/02/i-built-an-rgb-controller-with-arduino/)

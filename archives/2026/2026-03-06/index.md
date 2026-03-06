@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 17:00:38](https://news.ycombinator.com/item?id=47277679) - [Multifactor (YC F25) Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead)
+* [2026-03-06, 16:46:50](https://news.ycombinator.com/item?id=47277420) - [Supertoast Tables](https://hatchet.run/blog/supertoast-tables)
 * [2026-03-06, 16:19:56](https://news.ycombinator.com/item?id=47276952) - [CBP says it can't comply with refund order](https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html)
+* [2026-03-06, 16:14:30](https://news.ycombinator.com/item?id=47276865) - [Astra: An open-source observatory control software](https://github.com/ppp-one/astra)
+* [2026-03-06, 15:53:32](https://news.ycombinator.com/item?id=47276539) - [Entomologists Use a Particle Accelerator to Image Ants at Scale](https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan)
 * [2026-03-06, 14:22:59](https://news.ycombinator.com/item?id=47275236) - [Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting](https://github.com/moongate-community/moongatev2)
 * [2026-03-06, 14:22:25](https://news.ycombinator.com/item?id=47275230) - [Good Bad ISPs](https://community.torproject.org/relay/community-resources/good-bad-isps/)
 * [2026-03-06, 14:20:33](https://news.ycombinator.com/item?id=47275205) - [Why Going to Mars Would Be Bad for Your Health](https://slate.com/technology/2026/03/elon-musk-mars-space-travel-health-muscle-atrophy.html)
