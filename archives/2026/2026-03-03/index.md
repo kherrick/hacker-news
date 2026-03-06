@@ -50,6 +50,7 @@
 * [2026-03-03, 13:51:34](https://news.ycombinator.com/item?id=47232289) - [AI-generated art can't be copyrighted (Supreme Court declines review)](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
 * [2026-03-03, 13:45:33](https://news.ycombinator.com/item?id=47232224) - [The Internet's Top Tech Publications Lost 58% of Their Google Traffic Since 2024](https://growtika.com/blog/tech-media-collapse)
 * [2026-03-03, 13:39:38](https://news.ycombinator.com/item?id=47232158) - [I'm losing the SEO battle for my own open source project](https://twitter.com/Gavriel_Cohen/status/2028821432759717930)
+* [2026-03-03, 13:34:10](https://news.ycombinator.com/item?id=47232091) - [Ask HN: How many of you hold an amateur radio license in your country?](https://news.ycombinator.com/item?id=47232091)
 * [2026-03-03, 13:14:20](https://news.ycombinator.com/item?id=47231824) - [We Automated Everything Except Knowing What's Going On](https://eversole.dev/blog/we-automated-everything/)
 * [2026-03-03, 12:45:13](https://news.ycombinator.com/item?id=47231503) - [Porn depicting sex between step-relatives set to be banned in the UK](https://www.lbc.co.uk/article/pornography-sexual-relationships-step-relatives-5HjdTkd_2/)
 * [2026-03-03, 12:41:17](https://news.ycombinator.com/item?id=47231469) - [Stolen Gemini API key racks up $82,000 in 48 hours](https://llmhorrors.com/all/gemini-stolen-api-key-82k/)

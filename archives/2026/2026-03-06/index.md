@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 10:06:06](https://news.ycombinator.com/item?id=47273070) - [How Much Money Jeff Bezos Made Since You Started Reading This Page](https://bezoscalculator.com/)
 * [2026-03-06, 09:22:00](https://news.ycombinator.com/item?id=47272799) - [LibreSprite – open-source pixel art editor](https://libresprite.github.io/)
 * [2026-03-06, 09:13:30](https://news.ycombinator.com/item?id=47272734) - [We Might All Be AI Engineers Now](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 * [2026-03-06, 08:41:51](https://news.ycombinator.com/item?id=47272534) - [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
