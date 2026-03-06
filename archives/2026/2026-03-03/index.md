@@ -48,6 +48,7 @@
 * [2026-03-03, 14:04:56](https://news.ycombinator.com/item?id=47232502) - [Apple introduces the new MacBook Air with M5](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 * [2026-03-03, 14:02:06](https://news.ycombinator.com/item?id=47232453) - [Apple Introduces MacBook Pro with All‑New M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/)
 * [2026-03-03, 14:00:11](https://news.ycombinator.com/item?id=47232421) - [Apple unveils new Studio Display and all-new Studio Display XDR](https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/)
+* [2026-03-03, 13:55:11](https://news.ycombinator.com/item?id=47232339) - [Show HN: Reconstruct any image using primitive shapes, runs in-browser via WASM](https://github.com/taiseiue/primitive-playground)
 * [2026-03-03, 13:51:34](https://news.ycombinator.com/item?id=47232289) - [AI-generated art can't be copyrighted (Supreme Court declines review)](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
 * [2026-03-03, 13:45:33](https://news.ycombinator.com/item?id=47232224) - [The Internet's Top Tech Publications Lost 58% of Their Google Traffic Since 2024](https://growtika.com/blog/tech-media-collapse)
 * [2026-03-03, 13:39:38](https://news.ycombinator.com/item?id=47232158) - [I'm losing the SEO battle for my own open source project](https://twitter.com/Gavriel_Cohen/status/2028821432759717930)

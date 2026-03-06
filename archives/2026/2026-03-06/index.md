@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 20:21:01](https://news.ycombinator.com/item?id=47280567) - [TypeScript 6.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/)
 * [2026-03-06, 20:19:26](https://news.ycombinator.com/item?id=47280550) - [Why it takes you and an elephant the same amount of time to poop](https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop)
 * [2026-03-06, 20:03:48](https://news.ycombinator.com/item?id=47280352) - [Ada 2022](https://www.adaic.org/ada-resources/standards/ada22/)
 * [2026-03-06, 19:52:08](https://news.ycombinator.com/item?id=47280200) - [Anthropic, Please Make a New Slack](https://www.fivetran.com/blog/anthropic-please-make-a-new-slack)
 * [2026-03-06, 18:45:37](https://news.ycombinator.com/item?id=47279251) - [New imagery suggests U.S. responsible for Iran school strike](https://www.cnn.com/2026/03/06/world/video/updates-suggests-us-responsible-iran-school-strike-digvid)
+* [2026-03-06, 18:40:27](https://news.ycombinator.com/item?id=47279189) - [TSA leaves passenger needing surgery after illegally forcing her through scanner](https://www.thetravel.com/tsa-leaves-passenger-needing-surgery-after-illegally-forcing-her-through-scanner-spinal-cord-implant/)
 * [2026-03-06, 18:26:21](https://news.ycombinator.com/item?id=47278980) - [Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278980)
 * [2026-03-06, 18:17:14](https://news.ycombinator.com/item?id=47278836) - [Never Bet Against x86](https://www.osnews.com/story/144527/never-bet-against-x86/)
 * [2026-03-06, 18:07:52](https://news.ycombinator.com/item?id=47278720) - [Claude Code wiped our production database with a Terraform command](https://twitter.com/Al_Grigor/status/2029889772181934425)
