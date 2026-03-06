@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 21:29:37](https://news.ycombinator.com/item?id=47281328) - [Nintendo Sues U.S. Government for Tariff Refunds](https://www.scribd.com/document/1008639172/Nintendo-Sues-U-S-Government-For-Tariff-Refunds)
+* [2026-03-06, 21:07:43](https://news.ycombinator.com/item?id=47281080) - [The Worst Acquisition in History, Again](https://www.profgmedia.com/p/the-worst-acquisition-in-history)
 * [2026-03-06, 20:21:01](https://news.ycombinator.com/item?id=47280567) - [TypeScript 6.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/)
 * [2026-03-06, 20:19:26](https://news.ycombinator.com/item?id=47280550) - [Why it takes you and an elephant the same amount of time to poop](https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop)
 * [2026-03-06, 20:03:48](https://news.ycombinator.com/item?id=47280352) - [Ada 2022](https://www.adaic.org/ada-resources/standards/ada22/)

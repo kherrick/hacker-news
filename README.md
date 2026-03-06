@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-06, 21:29:37](https://news.ycombinator.com/item?id=47281328) - [Nintendo Sues U.S. Government for Tariff Refunds](https://www.scribd.com/document/1008639172/Nintendo-Sues-U-S-Government-For-Tariff-Refunds)
+* [2026-03-06, 21:07:43](https://news.ycombinator.com/item?id=47281080) - [The Worst Acquisition in History, Again](https://www.profgmedia.com/p/the-worst-acquisition-in-history)
 * [2026-03-06, 20:21:01](https://news.ycombinator.com/item?id=47280567) - [TypeScript 6.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/)
 * [2026-03-06, 20:19:26](https://news.ycombinator.com/item?id=47280550) - [Why it takes you and an elephant the same amount of time to poop (2017)](https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop)
 * [2026-03-06, 20:03:48](https://news.ycombinator.com/item?id=47280352) - [Ada 2022](https://www.adaic.org/ada-resources/standards/ada22/)
@@ -8,7 +10,6 @@
 * [2026-03-06, 18:26:21](https://news.ycombinator.com/item?id=47278980) - [Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278980)
 * [2026-03-06, 17:46:45](https://news.ycombinator.com/item?id=47278426) - [Tech employment now significantly worse than the 2008 or 2020 recessions](https://twitter.com/JosephPolitano/status/2029916364664611242)
 * [2026-03-06, 17:00:38](https://news.ycombinator.com/item?id=47277679) - [Multifactor (YC F25) Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead)
-* [2026-03-06, 16:46:50](https://news.ycombinator.com/item?id=47277420) - [Supertoast tables](https://hatchet.run/blog/supertoast-tables)
 * [2026-03-06, 16:14:30](https://news.ycombinator.com/item?id=47276865) - [Astra: An open-source observatory control software](https://github.com/ppp-one/astra)
 * [2026-03-06, 15:57:27](https://news.ycombinator.com/item?id=47276604) - [Show HN: Claude-replay – A video-like player for Claude Code sessions](https://github.com/es617/claude-replay)
 * [2026-03-06, 15:53:32](https://news.ycombinator.com/item?id=47276539) - [Entomologists use a particle accelerator to image ants at scale](https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan)
@@ -22,7 +23,6 @@
 * [2026-03-06, 11:53:18](https://news.ycombinator.com/item?id=47273854) - [Hardening Firefox with Anthropic's Red Team](https://www.anthropic.com/news/mozilla-firefox-security)
 * [2026-03-06, 09:22:00](https://news.ycombinator.com/item?id=47272799) - [LibreSprite – open-source pixel art editor](https://libresprite.github.io/)
 * [2026-03-06, 09:13:30](https://news.ycombinator.com/item?id=47272734) - [We might all be AI engineers now](https://yasint.dev/we-might-all-be-ai-engineers-now/)
-* [2026-03-06, 08:13:28](https://news.ycombinator.com/item?id=47272338) - [It took four years until 2011’s iOS 5 gave everyone an emoji keyboard](https://unsung.aresluna.org/im-obviously-taking-a-risk-here-by-advertising-emoji-directly/)
 * [2026-03-05, 16:12:44](https://news.ycombinator.com/item?id=47263441) - [Analytic Fog Rendering with Volumetric Primitives (2025)](https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/)
 * [2026-03-03, 16:34:26](https://news.ycombinator.com/item?id=47234907) - [Show HN: A trainable, modular electronic nose for industrial use](https://sniphi.com/)
 * [2026-03-03, 13:55:11](https://news.ycombinator.com/item?id=47232339) - [Show HN: Reconstruct any image using primitive shapes, runs in-browser via WASM](https://github.com/taiseiue/primitive-playground)
