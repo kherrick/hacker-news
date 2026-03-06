@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 20:19:26](https://news.ycombinator.com/item?id=47280550) - [Why it takes you and an elephant the same amount of time to poop](https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop)
+* [2026-03-06, 20:03:48](https://news.ycombinator.com/item?id=47280352) - [Ada 2022](https://www.adaic.org/ada-resources/standards/ada22/)
 * [2026-03-06, 18:45:37](https://news.ycombinator.com/item?id=47279251) - [New imagery suggests U.S. responsible for Iran school strike](https://www.cnn.com/2026/03/06/world/video/updates-suggests-us-responsible-iran-school-strike-digvid)
 * [2026-03-06, 18:26:21](https://news.ycombinator.com/item?id=47278980) - [Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278980)
 * [2026-03-06, 18:17:14](https://news.ycombinator.com/item?id=47278836) - [Never Bet Against x86](https://www.osnews.com/story/144527/never-bet-against-x86/)
@@ -31,6 +33,7 @@
 * [2026-03-06, 12:20:40](https://news.ycombinator.com/item?id=47274086) - [70k Books Found in Hidden Library in This Germany Home](https://bookstr.com/article/70k-books-found-in-hidden-library-in-this-germany-home/)
 * [2026-03-06, 12:10:35](https://news.ycombinator.com/item?id=47274010) - [Elite Overproduction](https://en.wikipedia.org/wiki/Elite_overproduction)
 * [2026-03-06, 12:06:00](https://news.ycombinator.com/item?id=47273964) - [First MacBook Neo Benchmarks Are In](https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/)
+* [2026-03-06, 11:53:18](https://news.ycombinator.com/item?id=47273854) - [Hardening Firefox with Anthropic's Red Team](https://www.anthropic.com/news/mozilla-firefox-security)
 * [2026-03-06, 11:53:18](https://news.ycombinator.com/item?id=47273854) - [Hardening Firefox with Anthropic's Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)
 * [2026-03-06, 11:52:01](https://news.ycombinator.com/item?id=47273845) - [Async Programming Is Just Inject Time](https://willhbr.net/2026/03/02/async-inject-and-effects/)
 * [2026-03-06, 11:32:33](https://news.ycombinator.com/item?id=47273698) - [U.S. Capabilities Are Showing Signs of Rot](https://www.theatlantic.com/ideas/2026/03/military-failures-trump-iran/686244/)

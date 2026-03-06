@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-06, 18:45:37](https://news.ycombinator.com/item?id=47279251) - [New imagery suggests U.S. responsible for Iran school strike](https://www.cnn.com/2026/03/06/world/video/updates-suggests-us-responsible-iran-school-strike-digvid)
+* [2026-03-06, 20:19:26](https://news.ycombinator.com/item?id=47280550) - [Why it takes you and an elephant the same amount of time to poop](https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop)
+* [2026-03-06, 20:03:48](https://news.ycombinator.com/item?id=47280352) - [Ada 2022](https://www.adaic.org/ada-resources/standards/ada22/)
 * [2026-03-06, 18:26:21](https://news.ycombinator.com/item?id=47278980) - [Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278980)
 * [2026-03-06, 17:46:45](https://news.ycombinator.com/item?id=47278426) - [Tech employment now significantly worse than the 2008 or 2020 recessions](https://twitter.com/JosephPolitano/status/2029916364664611242)
-* [2026-03-06, 17:15:33](https://news.ycombinator.com/item?id=47277949) - [Strikes in Middle East since 28th Feb in real time](https://iranstrike.com)
 * [2026-03-06, 17:00:38](https://news.ycombinator.com/item?id=47277679) - [Multifactor (YC F25) Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead)
 * [2026-03-06, 16:46:50](https://news.ycombinator.com/item?id=47277420) - [Supertoast tables](https://hatchet.run/blog/supertoast-tables)
 * [2026-03-06, 16:14:30](https://news.ycombinator.com/item?id=47276865) - [Astra: An open-source observatory control software](https://github.com/ppp-one/astra)
@@ -17,11 +17,10 @@
 * [2026-03-06, 14:10:03](https://news.ycombinator.com/item?id=47275088) - [Global warming has accelerated significantly](https://www.researchsquare.com/article/rs-6079807/v1)
 * [2026-03-06, 13:30:54](https://news.ycombinator.com/item?id=47274676) - [Workers who love ‘synergizing paradigms’ might be bad at their jobs](https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs)
 * [2026-03-06, 12:20:40](https://news.ycombinator.com/item?id=47274086) - [70k Books Found in Hidden Library in This Germany Home (2023)](https://bookstr.com/article/70k-books-found-in-hidden-library-in-this-germany-home/)
-* [2026-03-06, 11:53:18](https://news.ycombinator.com/item?id=47273854) - [Hardening Firefox with Anthropic's Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)
+* [2026-03-06, 11:53:18](https://news.ycombinator.com/item?id=47273854) - [Hardening Firefox with Anthropic's Red Team](https://www.anthropic.com/news/mozilla-firefox-security)
 * [2026-03-06, 09:22:00](https://news.ycombinator.com/item?id=47272799) - [LibreSprite – open-source pixel art editor](https://libresprite.github.io/)
 * [2026-03-06, 09:13:30](https://news.ycombinator.com/item?id=47272734) - [We might all be AI engineers now](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 * [2026-03-06, 08:13:28](https://news.ycombinator.com/item?id=47272338) - [It took four years until 2011’s iOS 5 gave everyone an emoji keyboard](https://unsung.aresluna.org/im-obviously-taking-a-risk-here-by-advertising-emoji-directly/)
-* [2026-03-06, 04:15:40](https://news.ycombinator.com/item?id=47270807) - [Show HN: Swarm – Program a colony of 200 ants using a custom assembly language](https://dev.moment.com/)
 * [2026-03-06, 04:12:26](https://news.ycombinator.com/item?id=47270784) - [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)
 * [2026-03-05, 17:44:10](https://news.ycombinator.com/item?id=47264756) - [The Brand Age](https://paulgraham.com/brandage.html)
 * [2026-03-05, 16:12:44](https://news.ycombinator.com/item?id=47263441) - [Analytic Fog Rendering with Volumetric Primitives (2025)](https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/)
@@ -30,6 +29,7 @@
 * [2026-03-02, 16:45:43](https://news.ycombinator.com/item?id=47220411) - [Payphone Go](https://walzr.com/payphone-go/)
 * [2026-03-02, 15:46:51](https://news.ycombinator.com/item?id=47219462) - [Open Camera is a FOSS Camera App for Android](https://opencamera.org.uk/)
 * [2026-03-02, 08:06:07](https://news.ycombinator.com/item?id=47215112) - [Triplet Superconductor](https://www.sciencedaily.com/releases/2026/02/260221000252.htm)
+* [2026-03-01, 14:27:12](https://news.ycombinator.com/item?id=47206990) - [Apache Otava](https://otava.apache.org/)
 
 ## [Archives](archives/index.md)
 
