@@ -2,6 +2,7 @@
 
 * [2026-03-06, 20:19:26](https://news.ycombinator.com/item?id=47280550) - [Why it takes you and an elephant the same amount of time to poop](https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop)
 * [2026-03-06, 20:03:48](https://news.ycombinator.com/item?id=47280352) - [Ada 2022](https://www.adaic.org/ada-resources/standards/ada22/)
+* [2026-03-06, 19:52:08](https://news.ycombinator.com/item?id=47280200) - [Anthropic, Please Make a New Slack](https://www.fivetran.com/blog/anthropic-please-make-a-new-slack)
 * [2026-03-06, 18:26:21](https://news.ycombinator.com/item?id=47278980) - [Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278980)
 * [2026-03-06, 17:46:45](https://news.ycombinator.com/item?id=47278426) - [Tech employment now significantly worse than the 2008 or 2020 recessions](https://twitter.com/JosephPolitano/status/2029916364664611242)
 * [2026-03-06, 17:00:38](https://news.ycombinator.com/item?id=47277679) - [Multifactor (YC F25) Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead)
@@ -22,7 +23,6 @@
 * [2026-03-06, 09:13:30](https://news.ycombinator.com/item?id=47272734) - [We might all be AI engineers now](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 * [2026-03-06, 08:13:28](https://news.ycombinator.com/item?id=47272338) - [It took four years until 2011’s iOS 5 gave everyone an emoji keyboard](https://unsung.aresluna.org/im-obviously-taking-a-risk-here-by-advertising-emoji-directly/)
 * [2026-03-06, 04:12:26](https://news.ycombinator.com/item?id=47270784) - [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)
-* [2026-03-05, 17:44:10](https://news.ycombinator.com/item?id=47264756) - [The Brand Age](https://paulgraham.com/brandage.html)
 * [2026-03-05, 16:12:44](https://news.ycombinator.com/item?id=47263441) - [Analytic Fog Rendering with Volumetric Primitives (2025)](https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/)
 * [2026-03-03, 16:34:26](https://news.ycombinator.com/item?id=47234907) - [Show HN: A trainable, modular electronic nose for industrial use](https://sniphi.com/)
 * [2026-03-02, 19:22:23](https://news.ycombinator.com/item?id=47222777) - [Xous security focused open source on 22nm custom silicon](https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/xous-0-10-0-introducing-baochip-1x-support)
