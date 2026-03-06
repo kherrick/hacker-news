@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-03-06, 22:37:37",
-      "https://news.ycombinator.com/item?id=47282060"
+      "2026-03-06, 22:55:37",
+      "https://news.ycombinator.com/item?id=47282230"
     ],
     [
-      "Wild crows in Sweden help clean up cigarette butts",
-      "https://www.samodobrevijesti.com/en/news/wild-crows-in-sweden-help-clean-up-cigarette-butts/"
+      "C# Strings Silently Kill Your SQL Server Indexes in Dapper",
+      "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-03-06, 15:33:17",
-      "https://news.ycombinator.com/item?id=47276220"
-    ],
-    [
-      "Paul Brainerd, founder of Aldus PageMaker, has died",
-      "https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/"
-    ]
-  ],
-  [
-    [
       "2026-03-06, 14:27:55",
       "https://news.ycombinator.com/item?id=47275291"
     ],
@@ -237,6 +227,16 @@
     [
       "Analytic Fog Rendering with Volumetric Primitives (2025)",
       "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 21:22:47",
+      "https://news.ycombinator.com/item?id=47254078"
+    ],
+    [
+      "The disappearing Form D (2018)",
+      "https://techcrunch.com/2018/11/07/the-disappearing-form-d/"
     ]
   ],
   [
