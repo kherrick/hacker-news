@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 13:30:54](https://news.ycombinator.com/item?id=47274676) - [Workers who love 'synergizing paradigms' might be bad at their jobs](https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs)
 * [2026-03-06, 12:10:35](https://news.ycombinator.com/item?id=47274010) - [Elite Overproduction](https://en.wikipedia.org/wiki/Elite_overproduction)
 * [2026-03-06, 12:06:00](https://news.ycombinator.com/item?id=47273964) - [First MacBook Neo Benchmarks Are In](https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/)
 * [2026-03-06, 11:53:18](https://news.ycombinator.com/item?id=47273854) - [Hardening Firefox with Anthropic's Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)
@@ -14,6 +15,7 @@
 * [2026-03-06, 09:21:56](https://news.ycombinator.com/item?id=47272797) - [If AI has a bright future, why does AI think it doesn't?](https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195)
 * [2026-03-06, 09:13:30](https://news.ycombinator.com/item?id=47272734) - [We Might All Be AI Engineers Now](https://yasint.dev/we-might-all-be-ai-engineers-now/)
 * [2026-03-06, 08:41:51](https://news.ycombinator.com/item?id=47272534) - [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
+* [2026-03-06, 08:13:28](https://news.ycombinator.com/item?id=47272338) - [\"I'm obviously taking a risk here by advertising emoji directly.\"](https://unsung.aresluna.org/im-obviously-taking-a-risk-here-by-advertising-emoji-directly/)
 * [2026-03-06, 07:02:08](https://news.ycombinator.com/item?id=47271858) - [Stardex (YC S21) is hiring customer success engineers](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
 * [2026-03-06, 05:20:10](https://news.ycombinator.com/item?id=47271187) - [TeX Live 2026 is available for download now](https://www.tug.org/texlive/acquire.html)
 * [2026-03-06, 04:15:40](https://news.ycombinator.com/item?id=47270807) - [Show HN: Swarm – Program a colony of 200 ants using a custom assembly language](https://dev.moment.com/)
