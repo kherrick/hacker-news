@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 22:55:37](https://news.ycombinator.com/item?id=47282230) - [C# Strings Silently Kill Your SQL Server Indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)
 * [2026-03-06, 22:37:37](https://news.ycombinator.com/item?id=47282060) - [Wild crows in Sweden help clean up cigarette butts](https://www.samodobrevijesti.com/en/news/wild-crows-in-sweden-help-clean-up-cigarette-butts/)
 * [2026-03-06, 21:52:44](https://news.ycombinator.com/item?id=47281593) - [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
 * [2026-03-06, 21:43:39](https://news.ycombinator.com/item?id=47281485) - [Art Bits from Apple Macintosh HyperCard](https://archives.somnolescent.net/web/mari_v2/junk/hypercard/)

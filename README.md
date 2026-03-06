@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-06, 22:37:37](https://news.ycombinator.com/item?id=47282060) - [Wild crows in Sweden help clean up cigarette butts](https://www.samodobrevijesti.com/en/news/wild-crows-in-sweden-help-clean-up-cigarette-butts/)
+* [2026-03-06, 22:55:37](https://news.ycombinator.com/item?id=47282230) - [C# Strings Silently Kill Your SQL Server Indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)
 * [2026-03-06, 21:52:44](https://news.ycombinator.com/item?id=47281593) - [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
 * [2026-03-06, 21:43:39](https://news.ycombinator.com/item?id=47281485) - [Art Bits from HyperCard](https://archives.somnolescent.net/web/mari_v2/junk/hypercard/)
 * [2026-03-06, 21:19:25](https://news.ycombinator.com/item?id=47281221) - [The Shady World of IP Leasing](https://acid.vegas/blog/the-shady-world-of-ip-leasing/)
@@ -14,7 +14,6 @@
 * [2026-03-06, 16:14:30](https://news.ycombinator.com/item?id=47276865) - [Astra: An open-source observatory control software](https://github.com/ppp-one/astra)
 * [2026-03-06, 15:57:27](https://news.ycombinator.com/item?id=47276604) - [Show HN: Claude-replay – A video-like player for Claude Code sessions](https://github.com/es617/claude-replay)
 * [2026-03-06, 15:53:32](https://news.ycombinator.com/item?id=47276539) - [Entomologists use a particle accelerator to image ants at scale](https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan)
-* [2026-03-06, 15:33:17](https://news.ycombinator.com/item?id=47276220) - [Paul Brainerd, founder of Aldus PageMaker, has died](https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/)
 * [2026-03-06, 14:27:55](https://news.ycombinator.com/item?id=47275291) - [A tool that removes censorship from open-weight LLMs](https://github.com/elder-plinius/OBLITERATUS)
 * [2026-03-06, 14:22:59](https://news.ycombinator.com/item?id=47275236) - [Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting](https://github.com/moongate-community/moongatev2)
 * [2026-03-06, 14:22:25](https://news.ycombinator.com/item?id=47275230) - [Good Bad ISPs](https://community.torproject.org/relay/community-resources/good-bad-isps/)
@@ -24,6 +23,7 @@
 * [2026-03-06, 11:53:18](https://news.ycombinator.com/item?id=47273854) - [Hardening Firefox with Anthropic's Red Team](https://www.anthropic.com/news/mozilla-firefox-security)
 * [2026-03-06, 09:22:00](https://news.ycombinator.com/item?id=47272799) - [LibreSprite – open-source pixel art editor](https://libresprite.github.io/)
 * [2026-03-05, 16:12:44](https://news.ycombinator.com/item?id=47263441) - [Analytic Fog Rendering with Volumetric Primitives (2025)](https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/)
+* [2026-03-04, 21:22:47](https://news.ycombinator.com/item?id=47254078) - [The disappearing Form D (2018)](https://techcrunch.com/2018/11/07/the-disappearing-form-d/)
 * [2026-03-03, 13:55:11](https://news.ycombinator.com/item?id=47232339) - [Show HN: Reconstruct any image using primitive shapes, runs in-browser via WASM](https://github.com/taiseiue/primitive-playground)
 * [2026-03-02, 16:45:43](https://news.ycombinator.com/item?id=47220411) - [Payphone Go](https://walzr.com/payphone-go/)
 * [2026-03-02, 15:46:51](https://news.ycombinator.com/item?id=47219462) - [Open Camera is a FOSS camera app for Android](https://opencamera.org.uk/)
