@@ -10,6 +10,7 @@
 * [2026-03-04, 21:41:40](https://news.ycombinator.com/item?id=47254322) - [It is sweet and fitting to die for one's country (1921)](https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est)
 * [2026-03-04, 21:22:47](https://news.ycombinator.com/item?id=47254078) - [The disappearing Form D (2018)](https://techcrunch.com/2018/11/07/the-disappearing-form-d/)
 * [2026-03-04, 21:11:15](https://news.ycombinator.com/item?id=47253892) - [BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)
+* [2026-03-04, 20:53:33](https://news.ycombinator.com/item?id=47253643) - [Compiling Match Statements to Bytecode](https://xnacly.me/posts/2026/compiling-match-statements-to-bytecode/)
 * [2026-03-04, 20:30:16](https://news.ycombinator.com/item?id=47253364) - [Does that use a lot of energy?](https://hannahritchie.github.io/energy-use-comparisons/)
 * [2026-03-04, 20:19:43](https://news.ycombinator.com/item?id=47253221) - [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/)
 * [2026-03-04, 20:16:03](https://news.ycombinator.com/item?id=47253177) - [Building a New Flash](https://bill.newgrounds.com/news/post/1607118)
