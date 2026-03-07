@@ -67,6 +67,7 @@
 * [2026-03-04, 05:00:37](https://news.ycombinator.com/item?id=47243272) - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
 * [2026-03-04, 04:30:32](https://news.ycombinator.com/item?id=47243069) - [A CPU that runs entirely on GPU](https://github.com/robertcprice/nCPU)
 * [2026-03-04, 04:25:20](https://news.ycombinator.com/item?id=47243036) - [Indefinite Book Club Hiatus](https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/)
+* [2026-03-04, 03:42:17](https://news.ycombinator.com/item?id=47242775) - [Lock Scroll with a Vengeance](https://unsung.aresluna.org/lock-scroll-with-a-vengeance/)
 * [2026-03-04, 03:40:18](https://news.ycombinator.com/item?id=47242765) - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 * [2026-03-04, 03:37:48](https://news.ycombinator.com/item?id=47242739) - [Giving LLMs a personality is just good engineering](https://www.seangoedecke.com/giving-llms-a-personality/)
 * [2026-03-04, 03:36:18](https://news.ycombinator.com/item?id=47242725) - [California's Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
