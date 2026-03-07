@@ -18,6 +18,7 @@
 * [2026-03-05, 19:21:03](https://news.ycombinator.com/item?id=47266030) - [Let's Get Physical](https://m4iler.cloud/posts/lets-get-physical/)
 * [2026-03-05, 19:06:14](https://news.ycombinator.com/item?id=47265825) - [Kristi Noem Out as DHS Secretary](https://www.cbsnews.com/news/kristi-noem-out-as-secretary-of-homeland-security-markwayne-mullin/)
 * [2026-03-05, 18:50:33](https://news.ycombinator.com/item?id=47265619) - [OpenTitan Shipping in Production](https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html)
+* [2026-03-05, 18:47:57](https://news.ycombinator.com/item?id=47265580) - [Modernizing swapping: virtual swap spaces](https://lwn.net/Articles/1059201/)
 * [2026-03-05, 18:43:59](https://news.ycombinator.com/item?id=47265521) - [Remotely unlocking an encrypted hard disk](https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/)
 * [2026-03-05, 18:27:33](https://news.ycombinator.com/item?id=47265291) - [US asked Ukraine for help fighting Iranian drones, Zelensky says](https://www.bbc.com/news/articles/cr5llg0e9g9o)
 * [2026-03-05, 18:16:07](https://news.ycombinator.com/item?id=47265150) - [GPT 5.4 Thinking and Pro](https://twitter.com/OpenAI/status/2029620619743219811)
