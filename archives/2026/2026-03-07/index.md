@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-07](index.md)
 
 * [2026-03-07, 15:38:18](https://news.ycombinator.com/item?id=47288571) - [Show HN: Argus – VSCode debugger for Claude Code sessions](https://github.com/yessGlory17/argus)
+* [2026-03-07, 15:33:36](https://news.ycombinator.com/item?id=47288533) - [The Millisecond That Could Change Cancer Treatment](https://spectrum.ieee.org/flash-radiotherapy)
 * [2026-03-07, 14:38:29](https://news.ycombinator.com/item?id=47288046) - [LLM Doesn't Write Correct Code. It Writes Plausible Code](https://twitter.com/KatanaLarp/status/2029928471632224486)
 * [2026-03-07, 14:34:16](https://news.ycombinator.com/item?id=47288007) - [Show HN: ANSI-Saver – A macOS Screensaver](https://github.com/lardissone/ansi-saver)
 * [2026-03-07, 14:10:17](https://news.ycombinator.com/item?id=47287792) - [PC processors entered the Gigahertz era today in the year 2000 with AMD's Athlon](https://www.tomshardware.com/pc-components/cpus/pc-processors-entered-the-gigahertz-era-today-in-the-year-2000-with-amds-athlon-amd-hit-marketing-gold-with-its-1-ghz-athlon-beat-intel-by-a-nose)
@@ -20,6 +21,7 @@
 * [2026-03-07, 10:11:13](https://news.ycombinator.com/item?id=47286221) - [Show HN: The Fastest Way to Ship TanStack Apps](https://tanstackstarterkit.com/)
 * [2026-03-07, 09:45:58](https://news.ycombinator.com/item?id=47286082) - [Boy I was wrong about the Fediverse](https://matduggan.com/boy-i-was-wrong-about-the-fediverse/)
 * [2026-03-07, 09:18:40](https://news.ycombinator.com/item?id=47285960) - [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
+* [2026-03-07, 08:59:11](https://news.ycombinator.com/item?id=47285876) - [Show HN: µJS, a 5KB alternative to Htmx and Turbo with zero dependencies](https://mujs.org)
 * [2026-03-07, 08:53:47](https://news.ycombinator.com/item?id=47285846) - [QGIS 4.0](https://changelog.qgis.org/en/version/4.0/)
 * [2026-03-07, 07:51:24](https://news.ycombinator.com/item?id=47285465) - [xAI loses bid to halt California AI data disclosure law](https://www.reuters.com/legal/government/xai-loses-bid-halt-california-ai-data-disclosure-law-2026-03-05/)
 * [2026-03-07, 07:43:57](https://news.ycombinator.com/item?id=47285422) - [Sarvam 105B, the first competitive Indian open source LLM](https://www.sarvam.ai/blogs/sarvam-30b-105b)
