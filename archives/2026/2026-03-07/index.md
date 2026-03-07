@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-03-07](index.md)
 
+* [2026-03-07, 14:38:29](https://news.ycombinator.com/item?id=47288046) - [LLM Doesn't Write Correct Code. It Writes Plausible Code](https://twitter.com/KatanaLarp/status/2029928471632224486)
+* [2026-03-07, 14:34:16](https://news.ycombinator.com/item?id=47288007) - [Show HN: ANSI-Saver – A macOS Screensaver](https://github.com/lardissone/ansi-saver)
 * [2026-03-07, 14:10:17](https://news.ycombinator.com/item?id=47287792) - [PC processors entered the Gigahertz era today in the year 2000 with AMD's Athlon](https://www.tomshardware.com/pc-components/cpus/pc-processors-entered-the-gigahertz-era-today-in-the-year-2000-with-amds-athlon-amd-hit-marketing-gold-with-its-1-ghz-athlon-beat-intel-by-a-nose)
 * [2026-03-07, 14:06:46](https://news.ycombinator.com/item?id=47287763) - [Tinnitus Is Connected to Sleep](https://www.sciencealert.com/tinnitus-is-somehow-connected-to-a-crucial-bodily-function)
 * [2026-03-07, 13:28:48](https://news.ycombinator.com/item?id=47287458) - [Palantir and Anthropic AI helped the US hit 1k Iran targets in 24 hours](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
 * [2026-03-07, 13:13:22](https://news.ycombinator.com/item?id=47287349) - [The Case of the Disappearing Secretary](https://rowlandmanthorpe.substack.com/p/the-case-of-the-disappearing-secretary)
+* [2026-03-07, 13:12:40](https://news.ycombinator.com/item?id=47287344) - [The yoghurt delivery women combatting loneliness in Japan](https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan)
 * [2026-03-07, 12:13:04](https://news.ycombinator.com/item?id=47286933) - [US economy sheds 92,000 jobs in February in sharp slide](https://www.ft.com/content/6542bd0c-59ca-493b-ab5d-2d69e4e00cae)
 * [2026-03-07, 10:48:43](https://news.ycombinator.com/item?id=47286408) - [Filesystems Are Having a Moment](https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/)
 * [2026-03-07, 10:29:13](https://news.ycombinator.com/item?id=47286311) - [Ki Editor - an editor that operates on the AST](https://ki-editor.org/)
