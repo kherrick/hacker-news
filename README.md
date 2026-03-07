@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-07, 15:38:18](https://news.ycombinator.com/item?id=47288571) - [Show HN: Argus – VSCode debugger for Claude Code sessions](https://github.com/yessGlory17/argus)
 * [2026-03-07, 14:38:29](https://news.ycombinator.com/item?id=47288046) - [LLM Doesn't Write Correct Code. It Writes Plausible Code](https://twitter.com/KatanaLarp/status/2029928471632224486)
 * [2026-03-07, 14:34:16](https://news.ycombinator.com/item?id=47288007) - [Show HN: ANSI-Saver – A macOS Screensaver](https://github.com/lardissone/ansi-saver)
 * [2026-03-07, 14:10:17](https://news.ycombinator.com/item?id=47287792) - [PC processors entered the Gigahertz era today in the year 2000 with AMD's Athlon](https://www.tomshardware.com/pc-components/cpus/pc-processors-entered-the-gigahertz-era-today-in-the-year-2000-with-amds-athlon-amd-hit-marketing-gold-with-its-1-ghz-athlon-beat-intel-by-a-nose)
@@ -8,6 +9,7 @@
 * [2026-03-07, 12:13:04](https://news.ycombinator.com/item?id=47286933) - [US economy sheds 92,000 jobs in February in sharp slide](https://www.ft.com/content/6542bd0c-59ca-493b-ab5d-2d69e4e00cae)
 * [2026-03-07, 10:48:43](https://news.ycombinator.com/item?id=47286408) - [Filesystems Are Having a Moment](https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/)
 * [2026-03-07, 10:29:13](https://news.ycombinator.com/item?id=47286311) - [Ki Editor - an editor that operates on the AST](https://ki-editor.org/)
+* [2026-03-07, 09:45:58](https://news.ycombinator.com/item?id=47286082) - [Boy I was wrong about the Fediverse](https://matduggan.com/boy-i-was-wrong-about-the-fediverse/)
 * [2026-03-07, 09:18:40](https://news.ycombinator.com/item?id=47285960) - [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
 * [2026-03-07, 08:53:47](https://news.ycombinator.com/item?id=47285846) - [QGIS 4.0](https://changelog.qgis.org/en/version/4.0/)
 * [2026-03-07, 07:43:57](https://news.ycombinator.com/item?id=47285422) - [Sarvam 105B, the first competitive Indian open source LLM](https://www.sarvam.ai/blogs/sarvam-30b-105b)
@@ -25,11 +27,9 @@
 * [2026-03-05, 12:12:13](https://news.ycombinator.com/item?id=47260712) - [Migrating from Heroku to Magic Containers](https://bunny.net/blog/migrating-from-heroku-to-magic-containers/)
 * [2026-03-05, 00:10:42](https://news.ycombinator.com/item?id=47255798) - [48x32, a 1536 LED Game Computer (2023)](https://jacquesmattheij.com/48x32-introduction/)
 * [2026-03-04, 20:53:33](https://news.ycombinator.com/item?id=47253643) - [Compiling Match Statements to Bytecode](https://xnacly.me/posts/2026/compiling-match-statements-to-bytecode/)
-* [2026-03-04, 13:21:24](https://news.ycombinator.com/item?id=47247030) - [Editing changes in patch format with Jujutsu](https://www.knifepoint.net/~kat/kb-jj-patchedit.html)
 * [2026-03-04, 03:42:17](https://news.ycombinator.com/item?id=47242775) - [Lock Scroll with a Vengeance](https://unsung.aresluna.org/lock-scroll-with-a-vengeance/)
 * [2026-03-03, 18:12:06](https://news.ycombinator.com/item?id=47236346) - [Seurat Most Famous for Paris Park Painting Yet Half His Paintings Were Seascapes](https://www.smithsonianmag.com/smart-news/georges-seurat-is-most-famous-for-his-pointillist-painting-of-a-paris-park-but-more-than-half-of-his-canvases-were-stunning-seascapes-180988245/)
 * [2026-03-03, 15:02:32](https://news.ycombinator.com/item?id=47233441) - [Working and Communicating with Japanese Engineers](https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers)
-* [2026-03-03, 13:17:11](https://news.ycombinator.com/item?id=47231871) - [Querying 3B Vectors](https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/)
 
 ## [Archives](archives/index.md)
 

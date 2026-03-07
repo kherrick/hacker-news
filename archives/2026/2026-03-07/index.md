@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-07](index.md)
 
+* [2026-03-07, 15:38:18](https://news.ycombinator.com/item?id=47288571) - [Show HN: Argus – VSCode debugger for Claude Code sessions](https://github.com/yessGlory17/argus)
 * [2026-03-07, 14:38:29](https://news.ycombinator.com/item?id=47288046) - [LLM Doesn't Write Correct Code. It Writes Plausible Code](https://twitter.com/KatanaLarp/status/2029928471632224486)
 * [2026-03-07, 14:34:16](https://news.ycombinator.com/item?id=47288007) - [Show HN: ANSI-Saver – A macOS Screensaver](https://github.com/lardissone/ansi-saver)
 * [2026-03-07, 14:10:17](https://news.ycombinator.com/item?id=47287792) - [PC processors entered the Gigahertz era today in the year 2000 with AMD's Athlon](https://www.tomshardware.com/pc-components/cpus/pc-processors-entered-the-gigahertz-era-today-in-the-year-2000-with-amds-athlon-amd-hit-marketing-gold-with-its-1-ghz-athlon-beat-intel-by-a-nose)
