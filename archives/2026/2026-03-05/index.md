@@ -27,6 +27,7 @@
 * [2026-03-05, 17:43:31](https://news.ycombinator.com/item?id=47264741) - [Launch HN: Vela (YC W26) – AI for complex scheduling](https://news.ycombinator.com/item?id=47264741)
 * [2026-03-05, 17:16:22](https://news.ycombinator.com/item?id=47264341) - [The Government Uses Targeted Advertising to Track Your Location](https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp)
 * [2026-03-05, 17:01:47](https://news.ycombinator.com/item?id=47264138) - [Show HN: PageAgent, A GUI agent that lives inside your web app](https://alibaba.github.io/page-agent/)
+* [2026-03-05, 16:47:27](https://news.ycombinator.com/item?id=47263938) - [Galileo's handwritten notes found in ancient astronomy text](https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text)
 * [2026-03-05, 16:26:29](https://news.ycombinator.com/item?id=47263661) - [Datasets for Reconstructing Visual Perception from Brain Data](https://github.com/seelikat/neuro-visual-reconstruction-dataset-index)
 * [2026-03-05, 16:22:01](https://news.ycombinator.com/item?id=47263595) - [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
 * [2026-03-05, 16:12:44](https://news.ycombinator.com/item?id=47263441) - [Analytic Fog Rendering with Volumetric Primitives](https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/)
