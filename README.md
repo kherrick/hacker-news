@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-07, 20:43:51](https://news.ycombinator.com/item?id=47291292) - [CasNum](https://github.com/0x0mer/CasNum)
+* [2026-03-07, 20:32:49](https://news.ycombinator.com/item?id=47291202) - [Sam Altman's greed and dishonesty are finally catching up to him](https://garymarcus.substack.com/p/breaking-sam-altmans-greed-and-dishonesty)
 * [2026-03-07, 20:09:30](https://news.ycombinator.com/item?id=47291036) - [War Prediction Markets Are a National-Security Threat](https://www.theatlantic.com/technology/2026/03/polymarket-insider-trading-going-get-people-killed/686283/)
 * [2026-03-07, 19:01:01](https://news.ycombinator.com/item?id=47290457) - [We're Training Students to Write Worse to Prove They're Not Robots](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 * [2026-03-07, 17:01:14](https://news.ycombinator.com/item?id=47289357) - [SigNoz (YC W21, open source Datadog) Is Hiring across roles](https://signoz.io/careers)
@@ -15,7 +16,6 @@
 * [2026-03-07, 09:18:40](https://news.ycombinator.com/item?id=47285960) - [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
 * [2026-03-07, 08:59:11](https://news.ycombinator.com/item?id=47285876) - [Show HN: µJS, a 5KB alternative to Htmx and Turbo with zero dependencies](https://mujs.org)
 * [2026-03-07, 02:03:21](https://news.ycombinator.com/item?id=47283665) - [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
-* [2026-03-07, 00:05:06](https://news.ycombinator.com/item?id=47282777) - [Tell HN: I'm 60 years old. Claude Code has re-ignited a passion](https://news.ycombinator.com/item?id=47282777)
 * [2026-03-06, 23:59:16](https://news.ycombinator.com/item?id=47282736) - [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
 * [2026-03-06, 23:53:29](https://news.ycombinator.com/item?id=47282701) - [Helix: A post-modern text editor](https://helix-editor.com/)
 * [2026-03-06, 21:52:44](https://news.ycombinator.com/item?id=47281593) - [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
