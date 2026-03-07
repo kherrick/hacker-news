@@ -30,6 +30,7 @@
 * [2026-03-04, 17:37:44](https://news.ycombinator.com/item?id=47250985) - [Who Writes the Bugs? A Deeper Look at 125,000 Kernel Vulnerabilities](https://pebblebed.com/blog/kernel-bugs-part2)
 * [2026-03-04, 17:24:38](https://news.ycombinator.com/item?id=47250778) - [You Bought Zuck's Ray-Bans. Now Someone in Nairobi Is Watching You Poop](https://blog.adafruit.com/2026/03/04/you-bought-zucks-ray-bans-now-someone-in-nairobi-is-watching-you-poop/)
 * [2026-03-04, 17:08:46](https://news.ycombinator.com/item?id=47250573) - [Daemon (2006)](https://en.wikipedia.org/wiki/Daemon_(novel))
+* [2026-03-04, 17:05:00](https://news.ycombinator.com/item?id=47250500) - [macOS code injection for fun and no profit (2024)](https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/)
 * [2026-03-04, 16:52:08](https://news.ycombinator.com/item?id=47250286) - [New York could prohibit chatbot medical, legal, engineering advice](https://folding-sky.com/blog/ny-senate-bill-s7263-chatbot-liability)
 * [2026-03-04, 16:43:36](https://news.ycombinator.com/item?id=47250133) - [Welcome to the Wasteland: A Thousand Gas Towns](https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f)
 * [2026-03-04, 16:24:18](https://news.ycombinator.com/item?id=47249809) - [Sea level much higher than assumed in most coastal hazard assessments](https://www.nature.com/articles/s41586-026-10196-1)
