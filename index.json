@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-07, 02:03:21",
+      "https://news.ycombinator.com/item?id=47283665"
+    ],
+    [
+      "UUID package coming to Go standard library",
+      "https://github.com/golang/go/issues/62026"
+    ]
+  ],
+  [
+    [
+      "2026-03-07, 01:17:57",
+      "https://news.ycombinator.com/item?id=47283337"
+    ],
+    [
+      "LLMs work best when the user defines their acceptance criteria first",
+      "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code"
+    ]
+  ],
+  [
+    [
       "2026-03-07, 00:07:25",
       "https://news.ycombinator.com/item?id=47282807"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47282777"
     ],
     [
-      "I'm 60 years old. Claude Code has ignited a passion again",
+      "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
       "https://news.ycombinator.com/item?id=47282777"
     ]
   ],
@@ -27,16 +47,6 @@
     [
       "Plasma Bigscreen – 10-foot interface for KDE plasma",
       "https://plasma-bigscreen.org"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 23:17:19",
-      "https://news.ycombinator.com/item?id=47282390"
-    ],
-    [
-      "Show HN: The Roman Industrial Revolution that could have been (Vol 2)",
-      "https://thelydianstone.com/volume-2"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "The Shady World of IP Leasing",
       "https://acid.vegas/blog/the-shady-world-of-ip-leasing/"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 21:07:43",
-      "https://news.ycombinator.com/item?id=47281080"
-    ],
-    [
-      "The worst acquisition in history, again",
-      "https://www.profgmedia.com/p/the-worst-acquisition-in-history"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2026-03-06, 15:57:27",
+      "https://news.ycombinator.com/item?id=47276604"
+    ],
+    [
+      "Show HN: Claude-replay – A video-like player for Claude Code sessions",
+      "https://github.com/es617/claude-replay"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 15:53:32",
       "https://news.ycombinator.com/item?id=47276539"
     ],
@@ -177,6 +187,16 @@
     [
       "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
       "https://github.com/moongate-community/moongatev2"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 14:22:25",
+      "https://news.ycombinator.com/item?id=47275230"
+    ],
+    [
+      "Good Bad ISPs",
+      "https://community.torproject.org/relay/community-resources/good-bad-isps/"
     ]
   ],
   [
@@ -221,6 +241,26 @@
   ],
   [
     [
+      "2026-03-06, 06:47:29",
+      "https://news.ycombinator.com/item?id=47271751"
+    ],
+    [
+      "Show HN: 1v1 coding game that LLMs struggle with",
+      "https://yare.io"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 22:10:11",
+      "https://news.ycombinator.com/item?id=47267998"
+    ],
+    [
+      "A Modular Robot Dashboard",
+      "https://github.com/transitiverobotics/transact"
+    ]
+  ],
+  [
+    [
       "2026-03-05, 16:47:27",
       "https://news.ycombinator.com/item?id=47263938"
     ],
@@ -231,72 +271,32 @@
   ],
   [
     [
-      "2026-03-04, 21:22:47",
-      "https://news.ycombinator.com/item?id=47254078"
+      "2026-03-05, 16:12:44",
+      "https://news.ycombinator.com/item?id=47263441"
     ],
     [
-      "The disappearing Form D (2018)",
-      "https://techcrunch.com/2018/11/07/the-disappearing-form-d/"
+      "Analytic Fog Rendering with Volumetric Primitives (2025)",
+      "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/"
     ]
   ],
   [
     [
-      "2026-03-04, 12:36:53",
-      "https://news.ycombinator.com/item?id=47246600"
+      "2026-03-05, 02:58:10",
+      "https://news.ycombinator.com/item?id=47256941"
     ],
     [
-      "Polar Factor Beyond Newton-Schulz – Fast Matrix Inverse Square Root",
-      "https://jiha-kim.github.io/posts/polar-factor-beyond-newton-schulz-fast-matrix-inverse-square-root/"
+      "Maybe There's a Pattern Here?",
+      "https://dynomight.net/pattern/"
     ]
   ],
   [
     [
-      "2026-03-02, 16:45:43",
-      "https://news.ycombinator.com/item?id=47220411"
+      "2026-03-04, 09:00:56",
+      "https://news.ycombinator.com/item?id=47244882"
     ],
     [
-      "Payphone Go",
-      "https://walzr.com/payphone-go/"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 15:46:51",
-      "https://news.ycombinator.com/item?id=47219462"
-    ],
-    [
-      "Open Camera is a FOSS camera app for Android",
-      "https://opencamera.org.uk/"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 08:06:07",
-      "https://news.ycombinator.com/item?id=47215112"
-    ],
-    [
-      "Triplet Superconductor",
-      "https://www.sciencedaily.com/releases/2026/02/260221000252.htm"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 07:01:19",
-      "https://news.ycombinator.com/item?id=47214708"
-    ],
-    [
-      "Math Notepad",
-      "https://mathnotepad.com"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 14:27:12",
-      "https://news.ycombinator.com/item?id=47206990"
-    ],
-    [
-      "Apache Otava",
-      "https://otava.apache.org/"
+      "What canceled my Go context?",
+      "https://rednafi.com/go/context-cancellation-cause/"
     ]
   ]
 ]
