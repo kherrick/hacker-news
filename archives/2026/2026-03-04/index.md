@@ -44,6 +44,7 @@
 * [2026-03-04, 14:16:41](https://news.ycombinator.com/item?id=47247645) - [Apple Introduces MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
 * [2026-03-04, 13:39:28](https://news.ycombinator.com/item?id=47247245) - [A Visual Guide to DNA Sequencing](https://www.asimov.press/p/dna-sequencing)
 * [2026-03-04, 13:21:31](https://news.ycombinator.com/item?id=47247033) - [Glaze by Raycast](https://www.glazeapp.com/)
+* [2026-03-04, 13:21:24](https://news.ycombinator.com/item?id=47247030) - [Editing changes in patch format with Jujutsu](https://www.knifepoint.net/~kat/kb-jj-patchedit.html)
 * [2026-03-04, 13:04:53](https://news.ycombinator.com/item?id=47246858) - [MyFirst Kids Watch Hacked. Access to Camera and Microphone](https://www.kth.se/en/om/nyheter/centrala-nyheter/kth-studenten-hackade-klocka-for-barn-1.1461249)
 * [2026-03-04, 12:54:04](https://news.ycombinator.com/item?id=47246746) - [Did Alibaba just kneecap its powerful Qwen AI team?](https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in)
 * [2026-03-04, 12:36:53](https://news.ycombinator.com/item?id=47246600) - [Polar Factor Beyond Newton-Schulz – Fast Matrix Inverse Square Root](https://jiha-kim.github.io/posts/polar-factor-beyond-newton-schulz-fast-matrix-inverse-square-root/)
