@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-07, 23:39:04",
+      "https://news.ycombinator.com/item?id=47292574"
+    ],
+    [
+      "Why developers using AI are working longer hours",
+      "https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/"
+    ]
+  ],
+  [
+    [
+      "2026-03-07, 23:26:26",
+      "https://news.ycombinator.com/item?id=47292485"
+    ],
+    [
+      "Put the Zipcode First",
+      "https://zipcodefirst.com"
+    ]
+  ],
+  [
+    [
       "2026-03-07, 21:56:16",
       "https://news.ycombinator.com/item?id=47291834"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2026-03-07, 17:08:30",
-      "https://news.ycombinator.com/item?id=47289406"
-    ],
-    [
-      "Verification debt: the hidden cost of AI-generated code",
-      "https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981"
-    ]
-  ],
-  [
-    [
       "2026-03-07, 17:01:14",
       "https://news.ycombinator.com/item?id=47289357"
     ],
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2026-03-07, 10:48:43",
-      "https://news.ycombinator.com/item?id=47286408"
-    ],
-    [
-      "Filesystems are having a moment",
-      "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/"
-    ]
-  ],
-  [
-    [
       "2026-03-07, 10:29:13",
       "https://news.ycombinator.com/item?id=47286311"
     ],
     [
       "Ki Editor - an editor that operates on the AST",
       "https://ki-editor.org/"
-    ]
-  ],
-  [
-    [
-      "2026-03-07, 09:18:40",
-      "https://news.ycombinator.com/item?id=47285960"
-    ],
-    [
-      "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
-      "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2026-03-05, 23:26:26",
+      "https://news.ycombinator.com/item?id=47268659"
+    ],
+    [
+      "Trampolining Nix with GenericClosure",
+      "https://blog.kleisli.io/post/trampolining-nix-with-generic-closure"
+    ]
+  ],
+  [
+    [
       "2026-03-05, 10:33:19",
       "https://news.ycombinator.com/item?id=47260028"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=47255869"
     ],
     [
-      "Package Managers Need to Cool Down",
+      "Package managers need to cool down",
       "https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html"
     ]
   ],
