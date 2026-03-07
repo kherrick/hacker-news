@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2026-03-06, 22:55:37",
-      "https://news.ycombinator.com/item?id=47282230"
-    ],
-    [
-      "C# strings silently kill your SQL Server indexes in Dapper",
-      "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap"
-    ]
-  ],
-  [
-    [
       "2026-03-06, 21:52:44",
       "https://news.ycombinator.com/item?id=47281593"
     ],
@@ -177,6 +167,16 @@
     [
       "CT Scans of Health Wearables",
       "https://www.lumafield.com/scan-of-the-month/health-wearables"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 11:53:18",
+      "https://news.ycombinator.com/item?id=47273854"
+    ],
+    [
+      "Hardening Firefox with Anthropic's Red Team",
+      "https://www.anthropic.com/news/mozilla-firefox-security"
     ]
   ],
   [
