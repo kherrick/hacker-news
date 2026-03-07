@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-07](index.md)
 
 * [2026-03-07, 07:51:24](https://news.ycombinator.com/item?id=47285465) - [xAI loses bid to halt California AI data disclosure law](https://www.reuters.com/legal/government/xai-loses-bid-halt-california-ai-data-disclosure-law-2026-03-05/)
+* [2026-03-07, 07:43:57](https://news.ycombinator.com/item?id=47285422) - [Sarvam 105B, the first competitive Indian open source LLM](https://www.sarvam.ai/blogs/sarvam-30b-105b)
 * [2026-03-07, 07:31:58](https://news.ycombinator.com/item?id=47285375) - [German police probe student poster slur (Lick my balls Merz) against Merz](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:260306-99-743434/)
 * [2026-03-07, 05:59:10](https://news.ycombinator.com/item?id=47284916) - [Why New Zealand is seeing an exodus of over-30s](https://www.cnn.com/2026/03/06/world/new-zealand-australia-emigration-midlife-intl-hnk-dst)
 * [2026-03-07, 05:41:04](https://news.ycombinator.com/item?id=47284834) - [AI Error May Have Contributed to Girl's School Bombing in Iran](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)

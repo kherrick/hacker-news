@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-07, 07:51:24](https://news.ycombinator.com/item?id=47285465) - [xAI loses bid to halt California AI data disclosure law](https://www.reuters.com/legal/government/xai-loses-bid-halt-california-ai-data-disclosure-law-2026-03-05/)
+* [2026-03-07, 07:43:57](https://news.ycombinator.com/item?id=47285422) - [Sarvam 105B, the first competitive Indian open source LLM](https://www.sarvam.ai/blogs/sarvam-30b-105b)
 * [2026-03-07, 02:03:21](https://news.ycombinator.com/item?id=47283665) - [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
 * [2026-03-07, 01:17:57](https://news.ycombinator.com/item?id=47283337) - [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
 * [2026-03-07, 00:07:25](https://news.ycombinator.com/item?id=47282807) - [Show HN: Kula – Lightweight, self-contained Linux server monitoring tool](https://github.com/c0m4r/kula)
