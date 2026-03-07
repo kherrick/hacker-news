@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-07, 15:38:18",
+      "https://news.ycombinator.com/item?id=47288571"
+    ],
+    [
+      "Show HN: Argus – VSCode debugger for Claude Code sessions",
+      "https://github.com/yessGlory17/argus"
+    ]
+  ],
+  [
+    [
       "2026-03-07, 14:38:29",
       "https://news.ycombinator.com/item?id=47288046"
     ],
@@ -77,6 +87,16 @@
     [
       "Ki Editor - an editor that operates on the AST",
       "https://ki-editor.org/"
+    ]
+  ],
+  [
+    [
+      "2026-03-07, 09:45:58",
+      "https://news.ycombinator.com/item?id=47286082"
+    ],
+    [
+      "Boy I was wrong about the Fediverse",
+      "https://matduggan.com/boy-i-was-wrong-about-the-fediverse/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2026-03-04, 13:21:24",
-      "https://news.ycombinator.com/item?id=47247030"
-    ],
-    [
-      "Editing changes in patch format with Jujutsu",
-      "https://www.knifepoint.net/~kat/kb-jj-patchedit.html"
-    ]
-  ],
-  [
-    [
       "2026-03-04, 03:42:17",
       "https://news.ycombinator.com/item?id=47242775"
     ],
@@ -287,16 +297,6 @@
     [
       "Working and Communicating with Japanese Engineers",
       "https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 13:17:11",
-      "https://news.ycombinator.com/item?id=47231871"
-    ],
-    [
-      "Querying 3B Vectors",
-      "https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/"
     ]
   ]
 ]
