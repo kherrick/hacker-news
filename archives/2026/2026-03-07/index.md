@@ -7,6 +7,7 @@
 * [2026-03-07, 17:12:25](https://news.ycombinator.com/item?id=47289440) - [Addicted to Claude Code–Help](https://news.ycombinator.com/item?id=47289440)
 * [2026-03-07, 17:08:30](https://news.ycombinator.com/item?id=47289406) - [Verification debt: the hidden cost of AI-generated code](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
 * [2026-03-07, 17:01:14](https://news.ycombinator.com/item?id=47289357) - [SigNoz (YC W21, open source Datadog) Is Hiring across roles](https://signoz.io/careers)
+* [2026-03-07, 16:56:53](https://news.ycombinator.com/item?id=47289331) - [The Banality of Surveillance](https://benn.substack.com/p/the-banality-of-surveillance)
 * [2026-03-07, 16:55:18](https://news.ycombinator.com/item?id=47289311) - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
 * [2026-03-07, 16:36:19](https://news.ycombinator.com/item?id=47289123) - [Tech jobs are getting demolished in ways not seen since 2008](https://www.businessinsider.com/tech-jobs-getting-demolished-great-recession-dot-com-era-2026-3)
 * [2026-03-07, 15:38:18](https://news.ycombinator.com/item?id=47288571) - [Show HN: Argus – VSCode debugger for Claude Code sessions](https://github.com/yessGlory17/argus)

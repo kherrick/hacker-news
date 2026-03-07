@@ -2,6 +2,7 @@
 
 * [2026-03-07, 17:08:30](https://news.ycombinator.com/item?id=47289406) - [Verification debt: the hidden cost of AI-generated code](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
 * [2026-03-07, 17:01:14](https://news.ycombinator.com/item?id=47289357) - [SigNoz (YC W21, open source Datadog) Is Hiring across roles](https://signoz.io/careers)
+* [2026-03-07, 16:56:53](https://news.ycombinator.com/item?id=47289331) - [The Banality of Surveillance](https://benn.substack.com/p/the-banality-of-surveillance)
 * [2026-03-07, 16:55:18](https://news.ycombinator.com/item?id=47289311) - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
 * [2026-03-07, 15:38:18](https://news.ycombinator.com/item?id=47288571) - [Show HN: Argus – VSCode debugger for Claude Code sessions](https://github.com/yessGlory17/argus)
 * [2026-03-07, 15:33:36](https://news.ycombinator.com/item?id=47288533) - [The Millisecond That Could Change Cancer Treatment](https://spectrum.ieee.org/flash-radiotherapy)
@@ -23,7 +24,6 @@
 * [2026-03-06, 20:57:07](https://news.ycombinator.com/item?id=47280958) - [Re-creating the complex cuisine of prehistoric Europeans](https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/)
 * [2026-03-05, 23:48:26](https://news.ycombinator.com/item?id=47268838) - [Self-Portrait by Ernst Mach (1886)](https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/)
 * [2026-03-05, 16:47:27](https://news.ycombinator.com/item?id=47263938) - [Galileo's handwritten notes found in ancient astronomy text](https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text)
-* [2026-03-05, 12:12:13](https://news.ycombinator.com/item?id=47260712) - [Migrating from Heroku to Magic Containers](https://bunny.net/blog/migrating-from-heroku-to-magic-containers/)
 * [2026-03-05, 10:33:19](https://news.ycombinator.com/item?id=47260028) - [Bourdieu's theory of taste: a grumbling abrégé](https://dynomight.net/bourdieu/)
 * [2026-03-05, 00:10:42](https://news.ycombinator.com/item?id=47255798) - [48x32, a 1536 LED Game Computer (2023)](https://jacquesmattheij.com/48x32-introduction/)
 * [2026-03-04, 03:42:17](https://news.ycombinator.com/item?id=47242775) - [Lock Scroll with a Vengeance](https://unsung.aresluna.org/lock-scroll-with-a-vengeance/)
