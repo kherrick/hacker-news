@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-07, 20:09:30](https://news.ycombinator.com/item?id=47291036) - [War Prediction Markets Are a National-Security Threat](https://www.theatlantic.com/technology/2026/03/polymarket-insider-trading-going-get-people-killed/686283/)
 * [2026-03-07, 19:01:01](https://news.ycombinator.com/item?id=47290457) - [We're Training Students to Write Worse to Prove They're Not Robots](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 * [2026-03-07, 17:01:14](https://news.ycombinator.com/item?id=47289357) - [SigNoz (YC W21, open source Datadog) Is Hiring across roles](https://signoz.io/careers)
 * [2026-03-07, 16:56:53](https://news.ycombinator.com/item?id=47289331) - [The Banality of Surveillance](https://benn.substack.com/p/the-banality-of-surveillance)
@@ -26,7 +27,6 @@
 * [2026-03-05, 10:33:19](https://news.ycombinator.com/item?id=47260028) - [Bourdieu's theory of taste: a grumbling abrégé](https://dynomight.net/bourdieu/)
 * [2026-03-05, 00:10:42](https://news.ycombinator.com/item?id=47255798) - [48x32, a 1536 LED Game Computer (2023)](https://jacquesmattheij.com/48x32-introduction/)
 * [2026-03-04, 17:05:00](https://news.ycombinator.com/item?id=47250500) - [macOS code injection for fun and no profit (2024)](https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/)
-* [2026-03-04, 03:42:17](https://news.ycombinator.com/item?id=47242775) - [Lock Scroll with a Vengeance](https://unsung.aresluna.org/lock-scroll-with-a-vengeance/)
 * [2026-03-03, 22:45:10](https://news.ycombinator.com/item?id=47240169) - [Compiling Prolog to Forth [pdf]](https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf)
 * [2026-03-03, 18:12:06](https://news.ycombinator.com/item?id=47236346) - [Seurat Most Famous for Paris Park Painting Yet Half His Paintings Were Seascapes](https://www.smithsonianmag.com/smart-news/georges-seurat-is-most-famous-for-his-pointillist-painting-of-a-paris-park-but-more-than-half-of-his-canvases-were-stunning-seascapes-180988245/)
 * [2026-03-03, 15:02:32](https://news.ycombinator.com/item?id=47233441) - [Working and Communicating with Japanese Engineers](https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers)
