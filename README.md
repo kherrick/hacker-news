@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-07, 05:59:10](https://news.ycombinator.com/item?id=47284916) - [Why New Zealand is seeing an exodus of over-30s](https://www.cnn.com/2026/03/06/world/new-zealand-australia-emigration-midlife-intl-hnk-dst)
+* [2026-03-07, 05:41:04](https://news.ycombinator.com/item?id=47284834) - [AI Error May Have Contributed to Girl's School Bombing in Iran](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
 * [2026-03-07, 03:06:58](https://news.ycombinator.com/item?id=47284061) - [Can a wealthy family change the course of a deadly brain disease?](https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease)
 * [2026-03-07, 02:03:21](https://news.ycombinator.com/item?id=47283665) - [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
 * [2026-03-07, 01:17:57](https://news.ycombinator.com/item?id=47283337) - [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
@@ -16,7 +17,6 @@
 * [2026-03-06, 18:26:21](https://news.ycombinator.com/item?id=47278980) - [Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278980)
 * [2026-03-06, 17:46:45](https://news.ycombinator.com/item?id=47278426) - [Tech employment now significantly worse than the 2008 or 2020 recessions](https://twitter.com/JosephPolitano/status/2029916364664611242)
 * [2026-03-06, 15:53:32](https://news.ycombinator.com/item?id=47276539) - [Entomologists use a particle accelerator to image ants at scale](https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan)
-* [2026-03-06, 14:27:55](https://news.ycombinator.com/item?id=47275291) - [A tool that removes censorship from open-weight LLMs](https://github.com/elder-plinius/OBLITERATUS)
 * [2026-03-06, 14:22:59](https://news.ycombinator.com/item?id=47275236) - [Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting](https://github.com/moongate-community/moongatev2)
 * [2026-03-06, 14:16:06](https://news.ycombinator.com/item?id=47275152) - [CT Scans of Health Wearables](https://www.lumafield.com/scan-of-the-month/health-wearables)
 * [2026-03-06, 13:30:54](https://news.ycombinator.com/item?id=47274676) - [Workers who love ‘synergizing paradigms’ might be bad at their jobs](https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs)
