@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
 * [2026-03-06, 23:59:16](https://news.ycombinator.com/item?id=47282736) - [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
+* [2026-03-06, 23:53:29](https://news.ycombinator.com/item?id=47282701) - [Helix: A post-modern text editor](https://helix-editor.com/)
 * [2026-03-06, 23:17:19](https://news.ycombinator.com/item?id=47282390) - [Show HN: The Roman Industrial Revolution that could have been (Vol 2)](https://thelydianstone.com/volume-2)
 * [2026-03-06, 22:55:37](https://news.ycombinator.com/item?id=47282230) - [C# Strings Silently Kill Your SQL Server Indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)
 * [2026-03-06, 22:37:37](https://news.ycombinator.com/item?id=47282060) - [Wild crows in Sweden help clean up cigarette butts](https://www.samodobrevijesti.com/en/news/wild-crows-in-sweden-help-clean-up-cigarette-butts/)
