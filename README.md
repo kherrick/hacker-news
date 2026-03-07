@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-07, 13:28:48](https://news.ycombinator.com/item?id=47287458) - [Palantir and Anthropic AI helped the US hit 1k Iran targets in 24 hours](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html)
 * [2026-03-07, 12:13:04](https://news.ycombinator.com/item?id=47286933) - [US economy sheds 92,000 jobs in February in sharp slide](https://www.ft.com/content/6542bd0c-59ca-493b-ab5d-2d69e4e00cae)
 * [2026-03-07, 10:29:13](https://news.ycombinator.com/item?id=47286311) - [Ki Editor - an editor that operates on the AST](https://ki-editor.org/)
-* [2026-03-07, 10:11:13](https://news.ycombinator.com/item?id=47286221) - [Show HN: The Fastest Way to Ship TanStack Apps](https://tanstackstarterkit.com/)
 * [2026-03-07, 09:45:58](https://news.ycombinator.com/item?id=47286082) - [Boy I was wrong about the Fediverse](https://matduggan.com/boy-i-was-wrong-about-the-fediverse/)
 * [2026-03-07, 09:18:40](https://news.ycombinator.com/item?id=47285960) - [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
 * [2026-03-07, 08:53:47](https://news.ycombinator.com/item?id=47285846) - [QGIS 4.0](https://changelog.qgis.org/en/version/4.0/)
@@ -18,7 +18,7 @@
 * [2026-03-06, 15:53:32](https://news.ycombinator.com/item?id=47276539) - [Entomologists use a particle accelerator to image ants at scale](https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan)
 * [2026-03-06, 14:22:59](https://news.ycombinator.com/item?id=47275236) - [Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting](https://github.com/moongate-community/moongatev2)
 * [2026-03-06, 14:16:06](https://news.ycombinator.com/item?id=47275152) - [CT Scans of Health Wearables](https://www.lumafield.com/scan-of-the-month/health-wearables)
-* [2026-03-06, 11:53:18](https://news.ycombinator.com/item?id=47273854) - [Hardening Firefox with Anthropic's Red Team](https://www.anthropic.com/news/mozilla-firefox-security)
+* [2026-03-05, 23:48:26](https://news.ycombinator.com/item?id=47268838) - [Self-Portrait by Ernst Mach (1886)](https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/)
 * [2026-03-05, 18:47:57](https://news.ycombinator.com/item?id=47265580) - [Modernizing swapping: virtual swap spaces](https://lwn.net/Articles/1059201/)
 * [2026-03-05, 17:43:33](https://news.ycombinator.com/item?id=47264742) - [My application programmer instincts failed when debugging assembler](https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/)
 * [2026-03-05, 16:47:27](https://news.ycombinator.com/item?id=47263938) - [Galileo's handwritten notes found in ancient astronomy text](https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text)

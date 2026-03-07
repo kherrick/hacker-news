@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-05](index.md)
 
+* [2026-03-05, 23:48:26](https://news.ycombinator.com/item?id=47268838) - [Self-Portrait by Ernst Mach (1886)](https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/)
 * [2026-03-05, 23:26:52](https://news.ycombinator.com/item?id=47268662) - [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/)
 * [2026-03-05, 23:15:57](https://news.ycombinator.com/item?id=47268574) - [Stop Using Grey Text (2025)](https://catskull.net/stop-using-grey-text.html)
 * [2026-03-05, 22:55:01](https://news.ycombinator.com/item?id=47268391) - [Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)
