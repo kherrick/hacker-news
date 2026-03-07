@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-07](index.md)
 
 * [2026-03-07, 22:08:27](https://news.ycombinator.com/item?id=47291906) - [Does Apple‘s M5 Max Really “Destroy” a 96-Core Threadripper?](https://slashdot.org/submission/17345398/does-apples-m5-max-really-destroy-a-96-core-threadripper)
+* [2026-03-07, 21:56:16](https://news.ycombinator.com/item?id=47291834) - [$3T Blind Spot: US nonprofits](https://charitysense.com/insights/the-3-trillion-blind-spot)
 * [2026-03-07, 21:37:29](https://news.ycombinator.com/item?id=47291699) - [Ask HN: Would you use a job board where every listing is verified?](https://news.ycombinator.com/item?id=47291699)
 * [2026-03-07, 21:10:08](https://news.ycombinator.com/item?id=47291525) - [The Day NY Publishing Lost Its Soul](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul)
 * [2026-03-07, 21:08:40](https://news.ycombinator.com/item?id=47291513) - [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-07, 22:08:27](https://news.ycombinator.com/item?id=47291906) - [Does Apple‘s M5 Max Really “Destroy” a 96-Core Threadripper?](https://slashdot.org/submission/17345398/does-apples-m5-max-really-destroy-a-96-core-threadripper)
+* [2026-03-07, 21:56:16](https://news.ycombinator.com/item?id=47291834) - [$3T Blind Spot: US nonprofits](https://charitysense.com/insights/the-3-trillion-blind-spot)
 * [2026-03-07, 21:37:29](https://news.ycombinator.com/item?id=47291699) - [Ask HN: Would you use a job board where every listing is verified?](https://news.ycombinator.com/item?id=47291699)
 * [2026-03-07, 21:10:08](https://news.ycombinator.com/item?id=47291525) - [The Day NY Publishing Lost Its Soul](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul)
 * [2026-03-07, 21:08:40](https://news.ycombinator.com/item?id=47291513) - [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)
@@ -19,7 +20,6 @@
 * [2026-03-07, 10:29:13](https://news.ycombinator.com/item?id=47286311) - [Ki Editor - an editor that operates on the AST](https://ki-editor.org/)
 * [2026-03-07, 08:59:11](https://news.ycombinator.com/item?id=47285876) - [Show HN: µJS, a 5KB alternative to Htmx and Turbo with zero dependencies](https://mujs.org)
 * [2026-03-07, 02:03:21](https://news.ycombinator.com/item?id=47283665) - [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
-* [2026-03-07, 01:17:57](https://news.ycombinator.com/item?id=47283337) - [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
 * [2026-03-06, 23:53:29](https://news.ycombinator.com/item?id=47282701) - [Helix: A post-modern text editor](https://helix-editor.com/)
 * [2026-03-06, 20:57:07](https://news.ycombinator.com/item?id=47280958) - [Re-creating the complex cuisine of prehistoric Europeans](https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/)
 * [2026-03-06, 07:17:48](https://news.ycombinator.com/item?id=47271988) - [Dumping Lego NXT firmware off of an existing brick (2025)](https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html)
