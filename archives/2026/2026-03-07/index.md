@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-07](index.md)
 
+* [2026-03-07, 10:27:46](https://news.ycombinator.com/item?id=47286300) - [Show HN: Tanstaafl – Pay-to-inbox email on Bitcoin Lightning](https://tanstaafl.email)
+* [2026-03-07, 10:14:26](https://news.ycombinator.com/item?id=47286236) - [Claude AI Helped Bomb Iran. But How Exactly?](https://www.bloomberg.com/opinion/articles/2026-03-04/iran-strikes-anthropic-claude-ai-helped-us-attack-but-how-exactly)
 * [2026-03-07, 09:18:40](https://news.ycombinator.com/item?id=47285960) - [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
 * [2026-03-07, 08:53:47](https://news.ycombinator.com/item?id=47285846) - [QGIS 4.0](https://changelog.qgis.org/en/version/4.0/)
 * [2026-03-07, 07:51:24](https://news.ycombinator.com/item?id=47285465) - [xAI loses bid to halt California AI data disclosure law](https://www.reuters.com/legal/government/xai-loses-bid-halt-california-ai-data-disclosure-law-2026-03-05/)
