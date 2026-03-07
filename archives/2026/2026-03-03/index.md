@@ -29,6 +29,7 @@
 * [2026-03-03, 18:48:29](https://news.ycombinator.com/item?id=47236893) - [I Built a Spy Satellite Simulator in a Browser. Here's What I Learned](https://www.spatialintelligence.ai/p/i-built-a-spy-satellite-simulator)
 * [2026-03-03, 18:46:18](https://news.ycombinator.com/item?id=47236858) - [Fire the CEO, Introducing the AxO's](https://boringops.sh/articles/fire_the_ceo/)
 * [2026-03-03, 18:27:26](https://news.ycombinator.com/item?id=47236582) - [Why payment fees matter more than you think](https://cuencahighlife.com/why-payment-fees-matter-more-than-you-think/)
+* [2026-03-03, 18:12:06](https://news.ycombinator.com/item?id=47236346) - [Seurat Most Famous for Paris Park Painting Yet Half His Paintings Were Seascapes](https://www.smithsonianmag.com/smart-news/georges-seurat-is-most-famous-for-his-pointillist-painting-of-a-paris-park-but-more-than-half-of-his-canvases-were-stunning-seascapes-180988245/)
 * [2026-03-03, 17:57:33](https://news.ycombinator.com/item?id=47236169) - [GPT‑5.3 Instant](https://openai.com/index/gpt-5-3-instant/)
 * [2026-03-03, 17:55:49](https://news.ycombinator.com/item?id=47236147) - [Someone Needs to Go to Jail](https://edwardelson.substack.com/p/someone-needs-to-go-to-jail)
 * [2026-03-03, 17:43:27](https://news.ycombinator.com/item?id=47235943) - [US Stock Market has lost $1 TRILLION in value since open Tuesday](https://old.reddit.com/r/StockMarket/comments/1rjtww8)
