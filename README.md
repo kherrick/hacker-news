@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-07, 05:59:10](https://news.ycombinator.com/item?id=47284916) - [Why New Zealand is seeing an exodus of over-30s](https://www.cnn.com/2026/03/06/world/new-zealand-australia-emigration-midlife-intl-hnk-dst)
+* [2026-03-07, 07:51:24](https://news.ycombinator.com/item?id=47285465) - [xAI loses bid to halt California AI data disclosure law](https://www.reuters.com/legal/government/xai-loses-bid-halt-california-ai-data-disclosure-law-2026-03-05/)
 * [2026-03-07, 02:03:21](https://news.ycombinator.com/item?id=47283665) - [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
 * [2026-03-07, 01:17:57](https://news.ycombinator.com/item?id=47283337) - [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
-* [2026-03-07, 00:28:56](https://news.ycombinator.com/item?id=47282980) - [Game about Data of America](https://americaindata.com/)
 * [2026-03-07, 00:07:25](https://news.ycombinator.com/item?id=47282807) - [Show HN: Kula – Lightweight, self-contained Linux server monitoring tool](https://github.com/c0m4r/kula)
 * [2026-03-07, 00:05:06](https://news.ycombinator.com/item?id=47282777) - [Tell HN: I'm 60 years old. Claude Code has re-ignited a passion](https://news.ycombinator.com/item?id=47282777)
 * [2026-03-06, 23:59:16](https://news.ycombinator.com/item?id=47282736) - [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
@@ -29,6 +28,7 @@
 * [2026-03-04, 13:21:24](https://news.ycombinator.com/item?id=47247030) - [Editing changes in patch format with Jujutsu](https://www.knifepoint.net/~kat/kb-jj-patchedit.html)
 * [2026-03-04, 09:00:56](https://news.ycombinator.com/item?id=47244882) - [What canceled my Go context?](https://rednafi.com/go/context-cancellation-cause/)
 * [2026-03-03, 16:19:08](https://news.ycombinator.com/item?id=47234689) - [The Longing (1999)](https://www.cluetrain.com/book/longing.html)
+* [2026-03-03, 15:02:32](https://news.ycombinator.com/item?id=47233441) - [Working and Communicating with Japanese Engineers](https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers)
 * [2026-03-03, 13:17:11](https://news.ycombinator.com/item?id=47231871) - [Querying 3B Vectors](https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/)
 
 ## [Archives](archives/index.md)

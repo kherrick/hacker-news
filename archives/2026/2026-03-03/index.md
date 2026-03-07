@@ -40,6 +40,7 @@
 * [2026-03-03, 16:19:08](https://news.ycombinator.com/item?id=47234689) - [The Longing (1999)](https://www.cluetrain.com/book/longing.html)
 * [2026-03-03, 15:53:37](https://news.ycombinator.com/item?id=47234227) - [Why No AI Games?](https://franklantz.substack.com/p/why-no-ai-games)
 * [2026-03-03, 15:44:41](https://news.ycombinator.com/item?id=47234093) - [I Used Claude to File My Taxes for Free](https://kachess.dev/taxes/ai/personal-finance/2026/02/27/breaking-up-with-turbotax.html)
+* [2026-03-03, 15:02:32](https://news.ycombinator.com/item?id=47233441) - [Working and Communicating with Japanese Engineers](https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers)
 * [2026-03-03, 14:55:57](https://news.ycombinator.com/item?id=47233336) - [Charging a three-cell nickel-based battery pack with a Li-Ion charger [pdf]](https://www.ti.com/lit/an/slyt468/slyt468.pdf)
 * [2026-03-03, 14:42:30](https://news.ycombinator.com/item?id=47233110) - [My first science video in 3 years (Pysics Girl)](https://www.youtube.com/watch?v=B3m3AMRlYfc)
 * [2026-03-03, 14:39:22](https://news.ycombinator.com/item?id=47233044) - [Florida public universities to pause hiring new H-1B workers](https://www.wusf.org/education/2026-03-03/hiring-h1b-workers-florida-public-universities-pause-end-of-year)
