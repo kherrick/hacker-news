@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-03-07, 21:08:40",
+      "https://news.ycombinator.com/item?id=47291513"
+    ],
+    [
+      "LLM Writing Tropes.md",
+      "https://tropes.fyi/tropes-md"
+    ]
+  ],
+  [
+    [
       "2026-03-07, 20:55:48",
       "https://news.ycombinator.com/item?id=47291406"
     ],
@@ -47,6 +57,16 @@
     [
       "CasNum",
       "https://github.com/0x0mer/CasNum"
+    ]
+  ],
+  [
+    [
+      "2026-03-07, 20:22:45",
+      "https://news.ycombinator.com/item?id=47291123"
+    ],
+    [
+      "Autoresearch: Agents researching on single-GPU nanochat training automatically",
+      "https://github.com/karpathy/autoresearch"
     ]
   ],
   [
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2026-03-06, 23:59:16",
-      "https://news.ycombinator.com/item?id=47282736"
-    ],
-    [
-      "Plasma Bigscreen – 10-foot interface for KDE plasma",
-      "https://plasma-bigscreen.org"
-    ]
-  ],
-  [
-    [
       "2026-03-06, 23:53:29",
       "https://news.ycombinator.com/item?id=47282701"
     ],
     [
       "Helix: A post-modern text editor",
       "https://helix-editor.com/"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 21:52:44",
-      "https://news.ycombinator.com/item?id=47281593"
-    ],
-    [
-      "this css proves me human",
-      "https://will-keleher.com/posts/this-css-makes-me-human/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-03-05, 00:21:13",
+      "https://news.ycombinator.com/item?id=47255869"
+    ],
+    [
+      "Package Managers Need to Cool Down",
+      "https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html"
+    ]
+  ],
+  [
+    [
       "2026-03-05, 00:10:42",
       "https://news.ycombinator.com/item?id=47255798"
     ],
@@ -287,16 +297,6 @@
     [
       "Compiling Prolog to Forth [pdf]",
       "https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 13:08:16",
-      "https://news.ycombinator.com/item?id=47231745"
-    ],
-    [
-      "To update blobs or not to update blobs",
-      "https://codon.org.uk/~mjg59/blog/p/to-update-blobs-or-not-to-update-blobs/"
     ]
   ]
 ]
