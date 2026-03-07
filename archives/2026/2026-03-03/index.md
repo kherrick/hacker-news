@@ -60,6 +60,7 @@
 * [2026-03-03, 13:34:10](https://news.ycombinator.com/item?id=47232091) - [Ask HN: How many of you hold an amateur radio license in your country?](https://news.ycombinator.com/item?id=47232091)
 * [2026-03-03, 13:17:11](https://news.ycombinator.com/item?id=47231871) - [Querying 3B Vectors](https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/)
 * [2026-03-03, 13:14:20](https://news.ycombinator.com/item?id=47231824) - [We Automated Everything Except Knowing What's Going On](https://eversole.dev/blog/we-automated-everything/)
+* [2026-03-03, 13:08:16](https://news.ycombinator.com/item?id=47231745) - [To update blobs or not to update blobs](https://codon.org.uk/~mjg59/blog/p/to-update-blobs-or-not-to-update-blobs/)
 * [2026-03-03, 12:45:13](https://news.ycombinator.com/item?id=47231503) - [Porn depicting sex between step-relatives set to be banned in the UK](https://www.lbc.co.uk/article/pornography-sexual-relationships-step-relatives-5HjdTkd_2/)
 * [2026-03-03, 12:41:17](https://news.ycombinator.com/item?id=47231469) - [Stolen Gemini API key racks up $82,000 in 48 hours](https://llmhorrors.com/all/gemini-stolen-api-key-82k/)
 * [2026-03-03, 12:13:40](https://news.ycombinator.com/item?id=47231261) - [India's top court angry after junior judge cites fake AI-generated orders](https://www.bbc.com/news/articles/c178zzw780xo)
