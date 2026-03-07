@@ -44,6 +44,7 @@
 * [2026-03-04, 14:18:33](https://news.ycombinator.com/item?id=47247670) - [Apple Announces Low-Cost 'MacBook Neo' with A18 Pro Chip](https://www.macrumors.com/2026/03/04/apple-announces-low-cost-macbook-neo-with-a18-pro-chip/)
 * [2026-03-04, 14:16:56](https://news.ycombinator.com/item?id=47247649) - [MacBook Neo](https://www.apple.com/macbook-neo/)
 * [2026-03-04, 14:16:41](https://news.ycombinator.com/item?id=47247645) - [Apple Introduces MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
+* [2026-03-04, 14:16:31](https://news.ycombinator.com/item?id=47247644) - [In 1985 Maxell built a bunch of life-size robots for its bad floppy ad](https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/)
 * [2026-03-04, 13:39:28](https://news.ycombinator.com/item?id=47247245) - [A Visual Guide to DNA Sequencing](https://www.asimov.press/p/dna-sequencing)
 * [2026-03-04, 13:21:31](https://news.ycombinator.com/item?id=47247033) - [Glaze by Raycast](https://www.glazeapp.com/)
 * [2026-03-04, 13:21:24](https://news.ycombinator.com/item?id=47247030) - [Editing changes in patch format with Jujutsu](https://www.knifepoint.net/~kat/kb-jj-patchedit.html)
