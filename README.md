@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-07, 17:34:34](https://news.ycombinator.com/item?id=47289646) - [Show HN: Prompt Armour – Real-time PII detection for AI chatbots, 100% local](https://prompt-armour.vercel.app/)
+* [2026-03-07, 19:01:01](https://news.ycombinator.com/item?id=47290457) - [We're Training Students to Write Worse to Prove They're Not Robots](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 * [2026-03-07, 17:01:14](https://news.ycombinator.com/item?id=47289357) - [SigNoz (YC W21, open source Datadog) Is Hiring across roles](https://signoz.io/careers)
 * [2026-03-07, 16:56:53](https://news.ycombinator.com/item?id=47289331) - [The Banality of Surveillance](https://benn.substack.com/p/the-banality-of-surveillance)
 * [2026-03-07, 16:55:18](https://news.ycombinator.com/item?id=47289311) - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
@@ -13,7 +13,6 @@
 * [2026-03-07, 10:29:13](https://news.ycombinator.com/item?id=47286311) - [Ki Editor - an editor that operates on the AST](https://ki-editor.org/)
 * [2026-03-07, 09:18:40](https://news.ycombinator.com/item?id=47285960) - [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
 * [2026-03-07, 08:59:11](https://news.ycombinator.com/item?id=47285876) - [Show HN: µJS, a 5KB alternative to Htmx and Turbo with zero dependencies](https://mujs.org)
-* [2026-03-07, 08:53:47](https://news.ycombinator.com/item?id=47285846) - [QGIS 4.0](https://changelog.qgis.org/en/version/4.0/)
 * [2026-03-07, 02:03:21](https://news.ycombinator.com/item?id=47283665) - [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
 * [2026-03-07, 01:17:57](https://news.ycombinator.com/item?id=47283337) - [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
 * [2026-03-07, 00:05:06](https://news.ycombinator.com/item?id=47282777) - [Tell HN: I'm 60 years old. Claude Code has re-ignited a passion](https://news.ycombinator.com/item?id=47282777)
@@ -21,6 +20,7 @@
 * [2026-03-06, 23:53:29](https://news.ycombinator.com/item?id=47282701) - [Helix: A post-modern text editor](https://helix-editor.com/)
 * [2026-03-06, 21:52:44](https://news.ycombinator.com/item?id=47281593) - [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
 * [2026-03-06, 20:57:07](https://news.ycombinator.com/item?id=47280958) - [Re-creating the complex cuisine of prehistoric Europeans](https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/)
+* [2026-03-06, 07:17:48](https://news.ycombinator.com/item?id=47271988) - [Dumping Lego NXT firmware off of an existing brick](https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html)
 * [2026-03-05, 23:48:26](https://news.ycombinator.com/item?id=47268838) - [Self-Portrait by Ernst Mach (1886)](https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/)
 * [2026-03-05, 16:47:27](https://news.ycombinator.com/item?id=47263938) - [Galileo's handwritten notes found in ancient astronomy text](https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text)
 * [2026-03-05, 10:33:19](https://news.ycombinator.com/item?id=47260028) - [Bourdieu's theory of taste: a grumbling abrégé](https://dynomight.net/bourdieu/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-07](index.md)
 
+* [2026-03-07, 19:01:01](https://news.ycombinator.com/item?id=47290457) - [We're Training Students to Write Worse to Prove They're Not Robots](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 * [2026-03-07, 17:34:34](https://news.ycombinator.com/item?id=47289646) - [Show HN: Prompt Armour – Real-time PII detection for AI chatbots, 100% local](https://prompt-armour.vercel.app/)
 * [2026-03-07, 17:12:25](https://news.ycombinator.com/item?id=47289440) - [Addicted to Claude Code–Help](https://news.ycombinator.com/item?id=47289440)
 * [2026-03-07, 17:08:30](https://news.ycombinator.com/item?id=47289406) - [Verification debt: the hidden cost of AI-generated code](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981)
