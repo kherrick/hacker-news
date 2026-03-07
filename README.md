@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-07, 10:27:46](https://news.ycombinator.com/item?id=47286300) - [Show HN: Tanstaafl – Pay-to-inbox email on Bitcoin Lightning](https://tanstaafl.email)
-* [2026-03-07, 10:14:26](https://news.ycombinator.com/item?id=47286236) - [Claude AI Helped Bomb Iran. But How Exactly?](https://www.bloomberg.com/opinion/articles/2026-03-04/iran-strikes-anthropic-claude-ai-helped-us-attack-but-how-exactly)
 * [2026-03-07, 09:18:40](https://news.ycombinator.com/item?id=47285960) - [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
 * [2026-03-07, 08:53:47](https://news.ycombinator.com/item?id=47285846) - [QGIS 4.0](https://changelog.qgis.org/en/version/4.0/)
 * [2026-03-07, 07:43:57](https://news.ycombinator.com/item?id=47285422) - [Sarvam 105B, the first competitive Indian open source LLM](https://www.sarvam.ai/blogs/sarvam-30b-105b)
@@ -16,6 +15,7 @@
 * [2026-03-06, 18:26:21](https://news.ycombinator.com/item?id=47278980) - [Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278980)
 * [2026-03-06, 17:46:45](https://news.ycombinator.com/item?id=47278426) - [Tech employment now significantly worse than the 2008 or 2020 recessions](https://twitter.com/JosephPolitano/status/2029916364664611242)
 * [2026-03-06, 15:53:32](https://news.ycombinator.com/item?id=47276539) - [Entomologists use a particle accelerator to image ants at scale](https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan)
+* [2026-03-06, 14:27:55](https://news.ycombinator.com/item?id=47275291) - [A tool that removes censorship from open-weight LLMs](https://github.com/elder-plinius/OBLITERATUS)
 * [2026-03-06, 14:22:59](https://news.ycombinator.com/item?id=47275236) - [Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting](https://github.com/moongate-community/moongatev2)
 * [2026-03-06, 14:16:06](https://news.ycombinator.com/item?id=47275152) - [CT Scans of Health Wearables](https://www.lumafield.com/scan-of-the-month/health-wearables)
 * [2026-03-06, 11:53:18](https://news.ycombinator.com/item?id=47273854) - [Hardening Firefox with Anthropic's Red Team](https://www.anthropic.com/news/mozilla-firefox-security)
