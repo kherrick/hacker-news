@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-08, 21:56:06](https://news.ycombinator.com/item?id=47301967) - [Detection Is Not Protection: What WAF Detection Mode Does (and Doesn't)](https://blog.ebbypeter.com/2026/03/detection-is-not-protection-what-azure-waf-detection-mode-actually-does-and-doesnt/)
 * [2026-03-08, 21:40:35](https://news.ycombinator.com/item?id=47301808) - [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
 * [2026-03-08, 20:43:19](https://news.ycombinator.com/item?id=47301241) - [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
 * [2026-03-08, 20:42:41](https://news.ycombinator.com/item?id=47301233) - [Artificial-life: A simple (300 lines of code) reproduction of Computational Life](https://github.com/Rabrg/artificial-life)
@@ -28,7 +29,6 @@
 * [2026-03-05, 02:38:07](https://news.ycombinator.com/item?id=47256810) - [Z80 Sans – a disassembler in a font (2024)](https://github.com/nevesnunes/z80-sans)
 * [2026-03-05, 01:37:42](https://news.ycombinator.com/item?id=47256376) - [My “grand vision” for Rust](https://blog.yoshuawuyts.com/a-grand-vision-for-rust/)
 * [2026-03-04, 22:30:27](https://news.ycombinator.com/item?id=47254896) - [Why can't you tune your guitar? (2019)](https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/)
-* [2026-03-04, 15:42:49](https://news.ycombinator.com/item?id=47249139) - [Rijksmuseum researchers discover new painting by Rembrandt van Rijn](https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn)
 * [2026-03-03, 21:15:23](https://news.ycombinator.com/item?id=47239117) - [Log messages are mostly for the people operating your software](https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation)
 
 ## [Archives](archives/index.md)

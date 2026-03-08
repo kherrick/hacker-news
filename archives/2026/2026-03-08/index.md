@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-08](index.md)
 
+* [2026-03-08, 21:56:06](https://news.ycombinator.com/item?id=47301967) - [Detection Is Not Protection: What WAF Detection Mode Does (and Doesn't)](https://blog.ebbypeter.com/2026/03/detection-is-not-protection-what-azure-waf-detection-mode-actually-does-and-doesnt/)
 * [2026-03-08, 21:40:35](https://news.ycombinator.com/item?id=47301808) - [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
 * [2026-03-08, 20:46:49](https://news.ycombinator.com/item?id=47301275) - [71% Desk Workers Say Screen-Related Visual Discomfort Is Reducing Productivity](https://www.vspvision.com/newsroom/eye-health-and-wellness/vision-care/new-research-from-vsp-vision-care-and-workplace-intelligence-finds-desk-workers-spend-nearly-100-hours-a-week-on-screens)
 * [2026-03-08, 20:45:49](https://news.ycombinator.com/item?id=47301264) - [She called 911 for an ambulance. She got a nightmare instead](https://www.seattletimes.com/seattle-news/times-watchdog/seattle-womans-911-calls-reveal-gaps-in-ambulance-service/)
