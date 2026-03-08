@@ -22,7 +22,6 @@
 * [2026-03-07, 16:55:18](https://news.ycombinator.com/item?id=47289311) - [A decade of Docker containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
 * [2026-03-07, 13:12:40](https://news.ycombinator.com/item?id=47287344) - [Yoghurt delivery women combatting loneliness in Japan](https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan)
 * [2026-03-07, 01:21:47](https://news.ycombinator.com/item?id=47283365) - [Some Words on WigglyPaint](https://beyondloom.com/blog/onwigglypaint.html)
-* [2026-03-05, 10:23:15](https://news.ycombinator.com/item?id=47259961) - [Emacs internals: Deconstructing Lisp_Object in C (Part 2)](https://thecloudlet.github.io/blog/project/emacs-02/)
 * [2026-03-05, 07:36:22](https://news.ycombinator.com/item?id=47258737) - [Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/)
 * [2026-03-04, 22:30:27](https://news.ycombinator.com/item?id=47254896) - [Why can't you tune your guitar? (2019)](https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/)
 * [2026-03-04, 15:42:49](https://news.ycombinator.com/item?id=47249139) - [Rijksmuseum researchers discover new painting by Rembrandt van Rijn](https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn)
@@ -30,6 +29,7 @@
 * [2026-03-04, 12:36:03](https://news.ycombinator.com/item?id=47246594) - [Accessing inactive union members through char](https://www.sandordargo.com/blog/2026/03/04/char-representation-and-UB)
 * [2026-03-04, 09:24:13](https://news.ycombinator.com/item?id=47245061) - [From RGB to L*a*b* color space (2024)](https://kaizoudou.com/from-rgb-to-lab-color-space/)
 * [2026-03-03, 22:24:54](https://news.ycombinator.com/item?id=47239955) - [The Lobster Programming Language](https://strlen.com/lobster/)
+* [2026-03-03, 21:15:23](https://news.ycombinator.com/item?id=47239117) - [Log messages are mostly for the people operating your software](https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation)
 
 ## [Archives](archives/index.md)
 
