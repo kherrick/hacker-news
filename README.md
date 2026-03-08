@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-08, 10:54:32](https://news.ycombinator.com/item?id=47296302) - [Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage](https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/)
 * [2026-03-08, 09:24:54](https://news.ycombinator.com/item?id=47295837) - [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)
-* [2026-03-08, 08:43:29](https://news.ycombinator.com/item?id=47295670) - [I'm Not Consulting an LLM](https://lr0.org/blog/p/gpt/)
 * [2026-03-08, 08:11:50](https://news.ycombinator.com/item?id=47295537) - [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)
 * [2026-03-08, 07:16:15](https://news.ycombinator.com/item?id=47295279) - [Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope](https://curiosity-telescope.vercel.app/)
 * [2026-03-08, 06:21:28](https://news.ycombinator.com/item?id=47295040) - [To the Polypropylene Makers](https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers)

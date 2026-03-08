@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-08](index.md)
 
+* [2026-03-08, 10:54:32](https://news.ycombinator.com/item?id=47296302) - [Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage](https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/)
 * [2026-03-08, 09:24:54](https://news.ycombinator.com/item?id=47295837) - [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)
 * [2026-03-08, 08:52:19](https://news.ycombinator.com/item?id=47295708) - [Llm9p: LLM as a Plan 9 file system](https://github.com/NERVsystems/llm9p)
 * [2026-03-08, 08:43:29](https://news.ycombinator.com/item?id=47295670) - [I'm Not Consulting an LLM](https://lr0.org/blog/p/gpt/)
