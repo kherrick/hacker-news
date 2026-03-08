@@ -2,7 +2,6 @@
 
 * [2026-03-08, 09:24:54](https://news.ycombinator.com/item?id=47295837) - [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)
 * [2026-03-08, 08:43:29](https://news.ycombinator.com/item?id=47295670) - [I'm Not Consulting an LLM](https://lr0.org/blog/p/gpt/)
-* [2026-03-08, 08:32:10](https://news.ycombinator.com/item?id=47295628) - [Ask HN: Why there are no actual studies that show AI is more productive?](https://news.ycombinator.com/item?id=47295628)
 * [2026-03-08, 08:11:50](https://news.ycombinator.com/item?id=47295537) - [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)
 * [2026-03-08, 07:16:15](https://news.ycombinator.com/item?id=47295279) - [Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope](https://curiosity-telescope.vercel.app/)
 * [2026-03-08, 06:21:28](https://news.ycombinator.com/item?id=47295040) - [To the Polypropylene Makers](https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers)
@@ -12,10 +11,10 @@
 * [2026-03-08, 00:44:32](https://news.ycombinator.com/item?id=47293119) - [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
 * [2026-03-07, 23:32:17](https://news.ycombinator.com/item?id=47292522) - [How to run Qwen 3.5 locally](https://unsloth.ai/docs/models/qwen3.5)
 * [2026-03-07, 22:21:57](https://news.ycombinator.com/item?id=47292029) - [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp)
+* [2026-03-07, 21:08:40](https://news.ycombinator.com/item?id=47291513) - [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)
 * [2026-03-07, 20:43:51](https://news.ycombinator.com/item?id=47291292) - [CasNum](https://github.com/0x0mer/CasNum)
 * [2026-03-07, 20:22:45](https://news.ycombinator.com/item?id=47291123) - [Autoresearch: Agents researching on single-GPU nanochat training automatically](https://github.com/karpathy/autoresearch)
 * [2026-03-07, 18:32:05](https://news.ycombinator.com/item?id=47290198) - [The surprising whimsy of the Time Zone Database](https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/)
-* [2026-03-07, 17:01:14](https://news.ycombinator.com/item?id=47289357) - [SigNoz (YC W21) is hiring for engineering, growth and product roles](https://signoz.io/careers)
 * [2026-03-07, 16:55:18](https://news.ycombinator.com/item?id=47289311) - [A decade of Docker containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
 * [2026-03-07, 15:33:36](https://news.ycombinator.com/item?id=47288533) - [FLASH radiotherapy's bold approach to cancer treatment](https://spectrum.ieee.org/flash-radiotherapy)
 * [2026-03-07, 13:12:40](https://news.ycombinator.com/item?id=47287344) - [Yoghurt delivery women combatting loneliness in Japan](https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan)
@@ -30,6 +29,7 @@
 * [2026-03-04, 14:24:24](https://news.ycombinator.com/item?id=47247762) - [Show HN: A weird thing that detects your pulse from the browser video](https://pulsefeedback.io/)
 * [2026-03-04, 14:16:31](https://news.ycombinator.com/item?id=47247644) - [In 1985 Maxell built a bunch of life-size robots for its bad floppy ad](https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/)
 * [2026-03-04, 09:24:13](https://news.ycombinator.com/item?id=47245061) - [From RGB to L*a*b* color space (2024)](https://kaizoudou.com/from-rgb-to-lab-color-space/)
+* [2026-03-03, 22:24:54](https://news.ycombinator.com/item?id=47239955) - [The Lobster Programming Language](https://strlen.com/lobster/)
 
 ## [Archives](archives/index.md)
 
