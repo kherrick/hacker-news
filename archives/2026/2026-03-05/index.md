@@ -70,6 +70,7 @@
 * [2026-03-05, 02:33:58](https://news.ycombinator.com/item?id=47256781) - [Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic](https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/)
 * [2026-03-05, 02:00:07](https://news.ycombinator.com/item?id=47256545) - [US tech firms pledge at White House to bear costs of energy for datacenters](https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house)
 * [2026-03-05, 01:50:51](https://news.ycombinator.com/item?id=47256478) - [Chaos and Dystopian news for the dead internet survivors](https://www.fubardaily.com)
+* [2026-03-05, 01:37:42](https://news.ycombinator.com/item?id=47256376) - [A Grand Vision for Rust](https://blog.yoshuawuyts.com/a-grand-vision-for-rust/)
 * [2026-03-05, 00:54:31](https://news.ycombinator.com/item?id=47256105) - [What's Driving Rising Business Costs?](https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/)
 * [2026-03-05, 00:22:09](https://news.ycombinator.com/item?id=47255881) - [Googleworkspace/CLI](https://github.com/googleworkspace/cli)
 * [2026-03-05, 00:21:13](https://news.ycombinator.com/item?id=47255869) - [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html)
