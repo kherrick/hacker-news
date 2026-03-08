@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-08](index.md)
 
+* [2026-03-08, 22:50:55](https://news.ycombinator.com/item?id=47302463) - [Linux Internals: How /proc/self/mem writes to unwritable memory (2021)](https://offlinemark.com/an-obscure-quirk-of-proc/)
 * [2026-03-08, 22:01:32](https://news.ycombinator.com/item?id=47302022) - [Most of the US economy is in a recession](https://www.businessinsider.com/recession-economy-us-tech-wall-street-strategist-investing-stocks-market-2026-3)
 * [2026-03-08, 21:56:06](https://news.ycombinator.com/item?id=47301967) - [Detection Is Not Protection: What WAF Detection Mode Does (and Doesn't)](https://blog.ebbypeter.com/2026/03/detection-is-not-protection-what-azure-waf-detection-mode-actually-does-and-doesnt/)
 * [2026-03-08, 21:40:35](https://news.ycombinator.com/item?id=47301808) - [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
@@ -57,6 +58,7 @@
 * [2026-03-08, 07:16:15](https://news.ycombinator.com/item?id=47295279) - [Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope](https://curiosity-telescope.vercel.app/)
 * [2026-03-08, 06:21:28](https://news.ycombinator.com/item?id=47295040) - [To the Polypropylene Makers](https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers)
 * [2026-03-08, 06:01:26](https://news.ycombinator.com/item?id=47294924) - [Sem – Semantic version control. Entity-level diffs on top of Git](https://github.com/ataraxy-labs/sem)
+* [2026-03-08, 05:04:14](https://news.ycombinator.com/item?id=47294582) - [PCB devboard the size of a USB-C plug](https://github.com/Dieu-de-l-elec/AngstromIO-devboard)
 * [2026-03-08, 04:47:36](https://news.ycombinator.com/item?id=47294487) - [Fatbikes are wreaking havoc in Sydney's wealthy beach suburbs](https://www.bbc.com/news/articles/cy8l1d221evo)
 * [2026-03-08, 03:07:05](https://news.ycombinator.com/item?id=47293985) - [Revisiting Time: UT1, UTC, NTP and NTS](https://www.potaroo.net/ispcol/2026-03/nts.html)
 * [2026-03-08, 02:59:35](https://news.ycombinator.com/item?id=47293938) - [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin)
