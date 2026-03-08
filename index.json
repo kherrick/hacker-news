@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-03-08, 12:55:05",
+      "https://news.ycombinator.com/item?id=47296932"
+    ],
+    [
+      "Show HN: I logged Gemini's stock predictions for 38 days to study LLM drift",
+      "https://huggingface.co/datasets/louidev/glassballai"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 12:40:14",
+      "https://news.ycombinator.com/item?id=47296849"
+    ],
+    [
+      "I ported Linux to the PS5 and turned it into a Steam Machine",
+      "https://xcancel.com/theflow0/status/2030011206040256841"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 12:30:31",
+      "https://news.ycombinator.com/item?id=47296787"
+    ],
+    [
+      "You Don't Need a Vector Database",
+      "https://vecstore.app/blog/you-dont-need-a-vector-database"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 11:41:17",
+      "https://news.ycombinator.com/item?id=47296547"
+    ],
+    [
+      "Ask HN: How to Be Alone?",
+      "https://news.ycombinator.com/item?id=47296547"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 11:04:04",
       "https://news.ycombinator.com/item?id=47296355"
     ],
@@ -47,16 +87,6 @@
     [
       "Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope",
       "https://curiosity-telescope.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 06:21:28",
-      "https://news.ycombinator.com/item?id=47295040"
-    ],
-    [
-      "To the Polypropylene Makers",
-      "https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-03-07, 15:33:36",
-      "https://news.ycombinator.com/item?id=47288533"
-    ],
-    [
-      "FLASH radiotherapy's bold approach to cancer treatment",
-      "https://spectrum.ieee.org/flash-radiotherapy"
-    ]
-  ],
-  [
-    [
       "2026-03-07, 13:12:40",
       "https://news.ycombinator.com/item?id=47287344"
     ],
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2026-03-06, 13:40:16",
-      "https://news.ycombinator.com/item?id=47274768"
+      "2026-03-07, 01:21:47",
+      "https://news.ycombinator.com/item?id=47283365"
     ],
     [
-      "Best performance of a C++ singleton",
-      "https://andreasfertig.com/blog/2026/03/best-performance-of-a-cpp-singleton/"
+      "Some Words on WigglyPaint",
+      "https://beyondloom.com/blog/onwigglypaint.html"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2026-03-05, 14:25:46",
-      "https://news.ycombinator.com/item?id=47261858"
-    ],
-    [
-      "Ten years of deploying to production",
-      "https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 10:23:15",
       "https://news.ycombinator.com/item?id=47259961"
     ],
     [
       "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
       "https://thecloudlet.github.io/blog/project/emacs-02/"
-    ]
-  ],
-  [
-    [
-      "2026-03-04, 17:05:00",
-      "https://news.ycombinator.com/item?id=47250500"
-    ],
-    [
-      "macOS code injection for fun and no profit (2024)",
-      "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/"
     ]
   ],
   [
