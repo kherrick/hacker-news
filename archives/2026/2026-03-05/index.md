@@ -44,6 +44,7 @@
 * [2026-03-05, 15:07:20](https://news.ycombinator.com/item?id=47262402) - [The IRIX 6.5.7M (sgi) source code](https://github.com/calmsacibis995/irix-657m-src)
 * [2026-03-05, 15:03:22](https://news.ycombinator.com/item?id=47262347) - [Google Safe Browsing missed 84% of phishing sites we found in February](https://www.norn-labs.com/blog/huginn-report-feb-2026)
 * [2026-03-05, 14:34:45](https://news.ycombinator.com/item?id=47261968) - [Rising carbon dioxide levels now detected in human blood](https://phys.org/news/2026-02-carbon-dioxide-human-blood.html)
+* [2026-03-05, 14:25:46](https://news.ycombinator.com/item?id=47261858) - [Ten Years of Deploying to Production](https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html)
 * [2026-03-05, 14:11:22](https://news.ycombinator.com/item?id=47261734) - [Fast-Servers](https://geocar.sdf1.org/fast-servers.html)
 * [2026-03-05, 14:05:46](https://news.ycombinator.com/item?id=47261688) - [Judge Orders Government to Begin Refunding More Than $130B in Tariffs](https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c)
 * [2026-03-05, 13:52:43](https://news.ycombinator.com/item?id=47261561) - [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop)

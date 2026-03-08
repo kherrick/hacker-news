@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-07](index.md)
 
 * [2026-03-07, 23:39:04](https://news.ycombinator.com/item?id=47292574) - [Why developers using AI are working longer hours](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
+* [2026-03-07, 23:32:17](https://news.ycombinator.com/item?id=47292522) - [How to run Qwen 3.5 locally](https://unsloth.ai/docs/models/qwen3.5)
 * [2026-03-07, 23:26:26](https://news.ycombinator.com/item?id=47292485) - [Put the Zipcode First](https://zipcodefirst.com)
 * [2026-03-07, 23:09:51](https://news.ycombinator.com/item?id=47292381) - [Caitlin Kalinowski: I resigned from OpenAI](https://twitter.com/kalinowski007/status/2030320074121478618)
 * [2026-03-07, 22:21:57](https://news.ycombinator.com/item?id=47292029) - [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp)
