@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-08](index.md)
 
+* [2026-03-08, 17:16:38](https://news.ycombinator.com/item?id=47299009) - [Based on its own charter, OpenAI should surrender the race](https://mlumiste.com/general/openai-charter/)
+* [2026-03-08, 17:14:53](https://news.ycombinator.com/item?id=47298997) - [Claude Struggles to Cope with ChatGPT Exodus](https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/)
+* [2026-03-08, 16:46:10](https://news.ycombinator.com/item?id=47298743) - [My Homelab Setup](https://bryananthonio.com/blog/my-homelab-setup/)
 * [2026-03-08, 15:37:32](https://news.ycombinator.com/item?id=47298183) - [Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
 * [2026-03-08, 15:21:09](https://news.ycombinator.com/item?id=47298044) - [FrameBook](https://fb.edoo.gg)
 * [2026-03-08, 15:07:28](https://news.ycombinator.com/item?id=47297919) - [Living Human Brain Cells Play Doom on a CL1](https://corticallabs.com/doom.html)
