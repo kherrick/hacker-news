@@ -23,7 +23,7 @@
 * [2026-03-08, 00:57:57](https://news.ycombinator.com/item?id=47293195) - [Pushing and Pulling: Three reactivity algorithms](https://jonathan-frere.com/posts/reactivity-algorithms/)
 * [2026-03-07, 22:03:37](https://news.ycombinator.com/item?id=47291876) - [Microscopes Can See Video on a LaserDisc](https://www.youtube.com/watch?v=qZuR-772cks)
 * [2026-03-07, 21:08:40](https://news.ycombinator.com/item?id=47291513) - [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)
-* [2026-03-06, 05:46:28](https://news.ycombinator.com/item?id=47271338) - [A basket of new fruit varieties is coming your way](https://www.economist.com/science-and-technology/2026/03/04/a-basket-of-new-fruit-varieties-is-coming-your-way)
+* [2026-03-06, 14:41:19](https://news.ycombinator.com/item?id=47275463) - [An Analysis of User-Space Idle State Instructions on x86 Processors](https://dl.acm.org/doi/10.1145/3676151.3719370)
 * [2026-03-05, 19:08:54](https://news.ycombinator.com/item?id=47265856) - [SQG (SQL to Code Generator) Now with Java Streams and List Type Support](https://sqg.dev/blog/java-streams-and-list-types/)
 * [2026-03-05, 12:24:10](https://news.ycombinator.com/item?id=47260812) - [Every single board computer I tested in 2025](https://bret.dk/every-single-board-computer-i-tested-in-2025/)
 * [2026-03-05, 02:38:07](https://news.ycombinator.com/item?id=47256810) - [Z80 Sans – a disassembler in a font (2024)](https://github.com/nevesnunes/z80-sans)
