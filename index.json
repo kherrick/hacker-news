@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-03-08, 00:15:24",
-      "https://news.ycombinator.com/item?id=47292902"
-    ],
-    [
-      "I don't know if my job will still exist in ten years",
-      "https://www.seangoedecke.com/will-my-job-still-exist/"
-    ]
-  ],
-  [
-    [
       "2026-03-07, 23:32:17",
       "https://news.ycombinator.com/item?id=47292522"
     ],
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2026-03-07, 10:29:13",
-      "https://news.ycombinator.com/item?id=47286311"
-    ],
-    [
-      "Ki Editor - an editor that operates on the AST",
-      "https://ki-editor.org/"
-    ]
-  ],
-  [
-    [
       "2026-03-06, 20:57:07",
       "https://news.ycombinator.com/item?id=47280958"
     ],
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2026-03-06, 00:15:54",
+      "https://news.ycombinator.com/item?id=47269058"
+    ],
+    [
+      "The Editor Who Helped Build a Golden Age of American Letters",
+      "https://newrepublic.com/article/205583/editor-helped-build-golden-age-american-letters"
+    ]
+  ],
+  [
+    [
       "2026-03-05, 14:25:46",
       "https://news.ycombinator.com/item?id=47261858"
     ],
@@ -237,6 +227,16 @@
     [
       "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
       "https://thecloudlet.github.io/blog/project/emacs-02/"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 01:37:42",
+      "https://news.ycombinator.com/item?id=47256376"
+    ],
+    [
+      "A Grand Vision for Rust",
+      "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/"
     ]
   ],
   [
