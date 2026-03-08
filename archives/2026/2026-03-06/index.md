@@ -44,6 +44,7 @@
 * [2026-03-06, 14:10:03](https://news.ycombinator.com/item?id=47275088) - [Global warming has accelerated significantly](https://www.researchsquare.com/article/rs-6079807/v1)
 * [2026-03-06, 14:10:03](https://news.ycombinator.com/item?id=47275088) - [Global Warming Has Accelerated Significantly](https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly)
 * [2026-03-06, 14:04:18](https://news.ycombinator.com/item?id=47275035) - [US economy unexpectedly sheds 92,000 jobs in February](https://www.bbc.com/news/articles/cjd98091g28o)
+* [2026-03-06, 13:40:16](https://news.ycombinator.com/item?id=47274768) - [Best Performance of a C++ Singleton](https://andreasfertig.com/blog/2026/03/best-performance-of-a-cpp-singleton/)
 * [2026-03-06, 13:30:54](https://news.ycombinator.com/item?id=47274676) - [Workers who love 'synergizing paradigms' might be bad at their jobs](https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs)
 * [2026-03-06, 12:20:40](https://news.ycombinator.com/item?id=47274086) - [70k Books Found in Hidden Library in This Germany Home](https://bookstr.com/article/70k-books-found-in-hidden-library-in-this-germany-home/)
 * [2026-03-06, 12:10:35](https://news.ycombinator.com/item?id=47274010) - [Elite Overproduction](https://en.wikipedia.org/wiki/Elite_overproduction)
