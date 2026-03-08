@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-08](index.md)
 
+* [2026-03-08, 18:37:37](https://news.ycombinator.com/item?id=47299794) - [Google just gave Sundar Pichai a $692M pay package](https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/)
+* [2026-03-08, 18:21:20](https://news.ycombinator.com/item?id=47299625) - [\"I Can't Do That, Dave\" – No Agent Yet](https://systemic.engineering/ai-needs-identity/)
+* [2026-03-08, 17:17:54](https://news.ycombinator.com/item?id=47299022) - [Show HN: Skir – like Protocol Buffer but better](https://skir.build/)
 * [2026-03-08, 17:16:38](https://news.ycombinator.com/item?id=47299009) - [Based on its own charter, OpenAI should surrender the race](https://mlumiste.com/general/openai-charter/)
 * [2026-03-08, 17:14:53](https://news.ycombinator.com/item?id=47298997) - [Claude Struggles to Cope with ChatGPT Exodus](https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/)
 * [2026-03-08, 17:01:50](https://news.ycombinator.com/item?id=47298885) - [LibreOffice Writer now supports Markdown](https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/)
