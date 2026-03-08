@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-03-05, 10:23:15",
-      "https://news.ycombinator.com/item?id=47259961"
-    ],
-    [
-      "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
-      "https://thecloudlet.github.io/blog/project/emacs-02/"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 07:36:22",
       "https://news.ycombinator.com/item?id=47258737"
     ],
@@ -297,6 +287,16 @@
     [
       "The Lobster Programming Language",
       "https://strlen.com/lobster/"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 21:15:23",
+      "https://news.ycombinator.com/item?id=47239117"
+    ],
+    [
+      "Log messages are mostly for the people operating your software",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation"
     ]
   ]
 ]
