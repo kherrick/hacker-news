@@ -21,26 +21,6 @@
   ],
   [
     [
-      "2026-03-08, 18:57:21",
-      "https://news.ycombinator.com/item?id=47299988"
-    ],
-    [
-      "AI doesn't replace white collar work",
-      "https://www.marble.onl/posts/ai_doesnt_replace_work.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 18:37:37",
-      "https://news.ycombinator.com/item?id=47299794"
-    ],
-    [
-      "Google just gave Sundar Pichai a $692M pay package",
-      "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/"
-    ]
-  ],
-  [
-    [
       "2026-03-08, 18:18:40",
       "https://news.ycombinator.com/item?id=47299606"
     ],
@@ -97,6 +77,16 @@
     [
       "LibreOffice Writer now supports Markdown",
       "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 16:33:30",
+      "https://news.ycombinator.com/item?id=47298655"
+    ],
+    [
+      "The human.json Protocol",
+      "https://codeberg.org/robida/human.json"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
       "https://arxiv.org/abs/2603.03823"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 00:57:57",
+      "https://news.ycombinator.com/item?id=47293195"
+    ],
+    [
+      "Pushing and Pulling: Three reactivity algorithms",
+      "https://jonathan-frere.com/posts/reactivity-algorithms/"
     ]
   ],
   [
