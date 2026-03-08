@@ -62,6 +62,7 @@
 * [2026-03-04, 10:20:18](https://news.ycombinator.com/item?id=47245485) - [Show HN: A shell-native cd-compatible directory jumper using power-law frecency](https://github.com/jghub/sd-switchdir)
 * [2026-03-04, 09:42:20](https://news.ycombinator.com/item?id=47245211) - [Bet on German Train Delays](https://bahn.bet)
 * [2026-03-04, 09:39:35](https://news.ycombinator.com/item?id=47245186) - [The next era of social media: built and run in Europe, ruled by our laws](https://www.eurosky.tech)
+* [2026-03-04, 09:24:13](https://news.ycombinator.com/item?id=47245061) - [From RGB to L*a*b* color space (2024)](https://kaizoudou.com/from-rgb-to-lab-color-space/)
 * [2026-03-04, 09:00:56](https://news.ycombinator.com/item?id=47244882) - [What canceled my Go context?](https://rednafi.com/go/context-cancellation-cause/)
 * [2026-03-04, 08:23:26](https://news.ycombinator.com/item?id=47244651) - [Nuclear War: An LLM Scenario](https://chrisclapham.com/blog/nuclear-war-an-llm-scenario)
 * [2026-03-04, 07:47:06](https://news.ycombinator.com/item?id=47244395) - [Chimpanzees Are into Crystals](https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html)
