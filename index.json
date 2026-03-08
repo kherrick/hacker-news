@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-03-08, 17:01:50",
+      "https://news.ycombinator.com/item?id=47298885"
+    ],
+    [
+      "LibreOffice Writer now supports Markdown",
+      "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 16:46:10",
       "https://news.ycombinator.com/item?id=47298743"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-03-08, 06:01:26",
-      "https://news.ycombinator.com/item?id=47294924"
-    ],
-    [
-      "Sem – Semantic version control. Entity-level diffs on top of Git",
-      "https://github.com/ataraxy-labs/sem"
-    ]
-  ],
-  [
-    [
       "2026-03-08, 01:35:21",
       "https://news.ycombinator.com/item?id=47293415"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-03-05, 13:49:16",
+      "https://news.ycombinator.com/item?id=47261529"
+    ],
+    [
+      "We Turned Our Wireshark Wizard into a Markdown File",
+      "https://www.checklyhq.com/blog/building-an-ai-agent/"
+    ]
+  ],
+  [
+    [
       "2026-03-05, 07:36:22",
       "https://news.ycombinator.com/item?id=47258737"
     ],
@@ -267,16 +277,6 @@
     [
       "Accessing inactive union members through char",
       "https://www.sandordargo.com/blog/2026/03/04/char-representation-and-UB"
-    ]
-  ],
-  [
-    [
-      "2026-03-04, 09:24:13",
-      "https://news.ycombinator.com/item?id=47245061"
-    ],
-    [
-      "From RGB to L*a*b* color space (2024)",
-      "https://kaizoudou.com/from-rgb-to-lab-color-space/"
     ]
   ],
   [
