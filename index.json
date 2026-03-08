@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-08, 22:50:55",
+      "https://news.ycombinator.com/item?id=47302463"
+    ],
+    [
+      "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
+      "https://offlinemark.com/an-obscure-quirk-of-proc/"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 22:01:32",
       "https://news.ycombinator.com/item?id=47302022"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-03-08, 13:28:26",
-      "https://news.ycombinator.com/item?id=47297167"
-    ],
-    [
-      "Beagle, a source code management system that stores AST trees",
-      "https://github.com/gritzko/librdx/tree/master/be"
-    ]
-  ],
-  [
-    [
       "2026-03-08, 11:41:17",
       "https://news.ycombinator.com/item?id=47296547"
     ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2026-03-08, 05:04:14",
+      "https://news.ycombinator.com/item?id=47294582"
+    ],
+    [
+      "PCB devboard the size of a USB-C plug",
+      "https://github.com/Dieu-de-l-elec/AngstromIO-devboard"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 00:57:57",
       "https://news.ycombinator.com/item?id=47293195"
     ],
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=47291876"
     ],
     [
-      "Microscopes Can See Video on a LaserDisc",
+      "Microscopes can see video on a laserdisc",
       "https://www.youtube.com/watch?v=qZuR-772cks"
     ]
   ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=47265856"
     ],
     [
-      "SQG (SQL to Code Generator) Now with Java Streams and List Type Support",
+      "SQG (SQL to Code Generator) v0.10: Java Streams and List Type Support",
       "https://sqg.dev/blog/java-streams-and-list-types/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Why can't you tune your guitar? (2019)",
       "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/"
-    ]
-  ],
-  [
-    [
-      "2026-03-04, 07:23:49",
-      "https://news.ycombinator.com/item?id=47244274"
-    ],
-    [
-      "How important was the Battle of Hastings?",
-      "https://www.historytoday.com/archive/head-head/how-important-was-battle-hastings"
     ]
   ],
   [
