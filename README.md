@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-08, 15:21:09](https://news.ycombinator.com/item?id=47298044) - [FrameBook](https://fb.edoo.gg)
 * [2026-03-08, 14:09:09](https://news.ycombinator.com/item?id=47297453) - [LibreOffice: Request to the European Commission to adhere to its own guidances](https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/)
 * [2026-03-08, 13:28:26](https://news.ycombinator.com/item?id=47297167) - [Beagle, a source code management system that stores AST trees](https://github.com/gritzko/librdx/tree/master/be)
 * [2026-03-08, 13:16:14](https://news.ycombinator.com/item?id=47297091) - [CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git](https://github.com/kantord/blogtato)
@@ -19,15 +20,14 @@
 * [2026-03-07, 18:32:05](https://news.ycombinator.com/item?id=47290198) - [The surprising whimsy of the Time Zone Database](https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/)
 * [2026-03-07, 16:55:18](https://news.ycombinator.com/item?id=47289311) - [A decade of Docker containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
 * [2026-03-07, 13:12:40](https://news.ycombinator.com/item?id=47287344) - [Yoghurt delivery women combatting loneliness in Japan](https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan)
-* [2026-03-07, 10:48:43](https://news.ycombinator.com/item?id=47286408) - [Files are the interface humans and agents interact with](https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/)
 * [2026-03-07, 01:21:47](https://news.ycombinator.com/item?id=47283365) - [Some Words on WigglyPaint](https://beyondloom.com/blog/onwigglypaint.html)
 * [2026-03-06, 07:17:48](https://news.ycombinator.com/item?id=47271988) - [Dumping Lego NXT firmware off of an existing brick (2025)](https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html)
 * [2026-03-05, 10:23:15](https://news.ycombinator.com/item?id=47259961) - [Emacs internals: Deconstructing Lisp_Object in C (Part 2)](https://thecloudlet.github.io/blog/project/emacs-02/)
 * [2026-03-05, 07:36:22](https://news.ycombinator.com/item?id=47258737) - [Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/)
 * [2026-03-04, 22:30:27](https://news.ycombinator.com/item?id=47254896) - [Why can't you tune your guitar? (2019)](https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/)
 * [2026-03-04, 15:42:49](https://news.ycombinator.com/item?id=47249139) - [Rijksmuseum researchers discover new painting by Rembrandt van Rijn](https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn)
-* [2026-03-04, 14:16:31](https://news.ycombinator.com/item?id=47247644) - [In 1985 Maxell built a bunch of life-size robots for its bad floppy ad](https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/)
 * [2026-03-04, 13:39:34](https://news.ycombinator.com/item?id=47247248) - [The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp](https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/)
+* [2026-03-04, 12:36:03](https://news.ycombinator.com/item?id=47246594) - [Accessing inactive union members through char](https://www.sandordargo.com/blog/2026/03/04/char-representation-and-UB)
 * [2026-03-04, 09:24:13](https://news.ycombinator.com/item?id=47245061) - [From RGB to L*a*b* color space (2024)](https://kaizoudou.com/from-rgb-to-lab-color-space/)
 * [2026-03-03, 22:24:54](https://news.ycombinator.com/item?id=47239955) - [The Lobster Programming Language](https://strlen.com/lobster/)
 

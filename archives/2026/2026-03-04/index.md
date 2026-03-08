@@ -56,6 +56,7 @@
 * [2026-03-04, 13:04:53](https://news.ycombinator.com/item?id=47246858) - [MyFirst Kids Watch Hacked. Access to Camera and Microphone](https://www.kth.se/en/om/nyheter/centrala-nyheter/kth-studenten-hackade-klocka-for-barn-1.1461249)
 * [2026-03-04, 12:54:04](https://news.ycombinator.com/item?id=47246746) - [Did Alibaba just kneecap its powerful Qwen AI team?](https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in)
 * [2026-03-04, 12:36:53](https://news.ycombinator.com/item?id=47246600) - [Polar Factor Beyond Newton-Schulz – Fast Matrix Inverse Square Root](https://jiha-kim.github.io/posts/polar-factor-beyond-newton-schulz-fast-matrix-inverse-square-root/)
+* [2026-03-04, 12:36:03](https://news.ycombinator.com/item?id=47246594) - [Accessing inactive union members through char](https://www.sandordargo.com/blog/2026/03/04/char-representation-and-UB)
 * [2026-03-04, 12:22:18](https://news.ycombinator.com/item?id=47246463) - [Iran war wreaking havoc on shipping and air cargo, could create global delays](https://www.theregister.com/2026/03/02/iran_war_tech_supply_chain/)
 * [2026-03-04, 12:04:31](https://news.ycombinator.com/item?id=47246296) - [Qwen3.5 Fine-Tuning Guide – Unsloth Documentation](https://unsloth.ai/docs/models/qwen3.5/fine-tune)
 * [2026-03-04, 12:04:21](https://news.ycombinator.com/item?id=47246295) - [The JVG algorithm could break RSA-2048 encryption with fewer than 5k qubits](https://briefglance.com/articles/new-quantum-algorithm-warns-of-an-accelerated-crypto-apocalypse)
