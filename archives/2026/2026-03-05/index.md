@@ -18,6 +18,7 @@
 * [2026-03-05, 20:18:37](https://news.ycombinator.com/item?id=47266736) - [GLiNER2: Unified Schema-Based Information Extraction](https://github.com/fastino-ai/GLiNER2)
 * [2026-03-05, 19:24:35](https://news.ycombinator.com/item?id=47266084) - [Pentagon Formally Labels Anthropic Supply-Chain Risk](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523)
 * [2026-03-05, 19:21:03](https://news.ycombinator.com/item?id=47266030) - [Let's Get Physical](https://m4iler.cloud/posts/lets-get-physical/)
+* [2026-03-05, 19:08:54](https://news.ycombinator.com/item?id=47265856) - [SQG (SQL to Code Generator) Now with Java Streams and List Type Support](https://sqg.dev/blog/java-streams-and-list-types/)
 * [2026-03-05, 19:06:14](https://news.ycombinator.com/item?id=47265825) - [Kristi Noem Out as DHS Secretary](https://www.cbsnews.com/news/kristi-noem-out-as-secretary-of-homeland-security-markwayne-mullin/)
 * [2026-03-05, 18:50:33](https://news.ycombinator.com/item?id=47265619) - [OpenTitan Shipping in Production](https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html)
 * [2026-03-05, 18:47:57](https://news.ycombinator.com/item?id=47265580) - [Modernizing swapping: virtual swap spaces](https://lwn.net/Articles/1059201/)

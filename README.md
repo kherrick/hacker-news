@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-08, 20:45:49](https://news.ycombinator.com/item?id=47301264) - [She called 911 for an ambulance. She got a nightmare instead](https://www.seattletimes.com/seattle-news/times-watchdog/seattle-womans-911-calls-reveal-gaps-in-ambulance-service/)
 * [2026-03-08, 20:43:19](https://news.ycombinator.com/item?id=47301241) - [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
 * [2026-03-08, 20:42:41](https://news.ycombinator.com/item?id=47301233) - [Artificial-life: A simple (300 lines of code) reproduction of Computational Life](https://github.com/Rabrg/artificial-life)
 * [2026-03-08, 20:30:18](https://news.ycombinator.com/item?id=47301085) - [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
@@ -14,7 +13,6 @@
 * [2026-03-08, 17:16:38](https://news.ycombinator.com/item?id=47299009) - [The changing goalposts of AGI and timelines](https://mlumiste.com/general/openai-charter/)
 * [2026-03-08, 17:01:50](https://news.ycombinator.com/item?id=47298885) - [LibreOffice Writer now supports Markdown](https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/)
 * [2026-03-08, 16:46:10](https://news.ycombinator.com/item?id=47298743) - [My Homelab Setup](https://bryananthonio.com/blog/my-homelab-setup/)
-* [2026-03-08, 16:33:30](https://news.ycombinator.com/item?id=47298655) - [The human.json Protocol](https://codeberg.org/robida/human.json)
 * [2026-03-08, 15:21:09](https://news.ycombinator.com/item?id=47298044) - [FrameBook](https://fb.edoo.gg)
 * [2026-03-08, 15:07:28](https://news.ycombinator.com/item?id=47297919) - [Living human brain cells play DOOM on a CL1 [video]](https://www.youtube.com/watch?v=yRV8fSw6HaE)
 * [2026-03-08, 15:05:40](https://news.ycombinator.com/item?id=47297913) - [What if the Apple ][ had run on Field-Sequential?](https://nicole.express/2026/the-apple-that-wasnt.html)
@@ -25,10 +23,12 @@
 * [2026-03-07, 22:03:37](https://news.ycombinator.com/item?id=47291876) - [Microscopes Can See Video on a LaserDisc](https://www.youtube.com/watch?v=qZuR-772cks)
 * [2026-03-07, 21:08:40](https://news.ycombinator.com/item?id=47291513) - [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)
 * [2026-03-06, 05:46:28](https://news.ycombinator.com/item?id=47271338) - [A basket of new fruit varieties is coming your way](https://www.economist.com/science-and-technology/2026/03/04/a-basket-of-new-fruit-varieties-is-coming-your-way)
-* [2026-03-05, 12:24:10](https://news.ycombinator.com/item?id=47260812) - [Every Single Board Computer I Tested in 2025](https://bret.dk/every-single-board-computer-i-tested-in-2025/)
+* [2026-03-05, 19:08:54](https://news.ycombinator.com/item?id=47265856) - [SQG (SQL to Code Generator) Now with Java Streams and List Type Support](https://sqg.dev/blog/java-streams-and-list-types/)
+* [2026-03-05, 12:24:10](https://news.ycombinator.com/item?id=47260812) - [Every single board computer I tested in 2025](https://bret.dk/every-single-board-computer-i-tested-in-2025/)
 * [2026-03-05, 02:38:07](https://news.ycombinator.com/item?id=47256810) - [Z80 Sans – a disassembler in a font (2024)](https://github.com/nevesnunes/z80-sans)
 * [2026-03-05, 01:37:42](https://news.ycombinator.com/item?id=47256376) - [My “grand vision” for Rust](https://blog.yoshuawuyts.com/a-grand-vision-for-rust/)
 * [2026-03-04, 22:30:27](https://news.ycombinator.com/item?id=47254896) - [Why can't you tune your guitar? (2019)](https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/)
+* [2026-03-04, 15:42:49](https://news.ycombinator.com/item?id=47249139) - [Rijksmuseum researchers discover new painting by Rembrandt van Rijn](https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn)
 * [2026-03-03, 21:15:23](https://news.ycombinator.com/item?id=47239117) - [Log messages are mostly for the people operating your software](https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation)
 
 ## [Archives](archives/index.md)
