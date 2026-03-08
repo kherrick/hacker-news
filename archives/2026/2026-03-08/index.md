@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-08](index.md)
 
+* [2026-03-08, 13:12:15](https://news.ycombinator.com/item?id=47297054) - [How Big Diaper absorbs billions of extra dollars from American parents](https://thehustle.co/originals/how-big-diaper-absorbs-billions-of-extra-dollars-from-american-parents)
 * [2026-03-08, 12:55:05](https://news.ycombinator.com/item?id=47296932) - [Show HN: I logged Gemini's stock predictions for 38 days to study LLM drift](https://huggingface.co/datasets/louidev/glassballai)
 * [2026-03-08, 12:40:14](https://news.ycombinator.com/item?id=47296849) - [I ported Linux to the PS5 and turned it into a Steam Machine](https://xcancel.com/theflow0/status/2030011206040256841)
 * [2026-03-08, 12:30:31](https://news.ycombinator.com/item?id=47296787) - [You Don't Need a Vector Database](https://vecstore.app/blog/you-dont-need-a-vector-database)
