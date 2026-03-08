@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-08, 13:16:14",
+      "https://news.ycombinator.com/item?id=47297091"
+    ],
+    [
+      "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
+      "https://github.com/kantord/blogtato"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 13:12:15",
       "https://news.ycombinator.com/item?id=47297054"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
+      "2026-03-08, 13:08:44",
+      "https://news.ycombinator.com/item?id=47297017"
+    ],
+    [
+      "The New Apple Begins to Emerge",
+      "https://parkerortolani.blog/2026/03/07/the-new-apple-finally-begins.html"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 12:40:14",
       "https://news.ycombinator.com/item?id=47296849"
     ],
     [
       "I ported Linux to the PS5 and turned it into a Steam Machine",
       "https://xcancel.com/theflow0/status/2030011206040256841"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 12:30:31",
-      "https://news.ycombinator.com/item?id=47296787"
-    ],
-    [
-      "You Don't Need a Vector Database",
-      "https://vecstore.app/blog/you-dont-need-a-vector-database"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Sem – Semantic version control. Entity-level diffs on top of Git",
       "https://github.com/ataraxy-labs/sem"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 02:16:02",
-      "https://news.ycombinator.com/item?id=47293682"
-    ],
-    [
-      "MonoGame: A .NET framework for making cross-platform games",
-      "https://github.com/MonoGame/MonoGame"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-03-06, 13:40:16",
+      "https://news.ycombinator.com/item?id=47274768"
+    ],
+    [
+      "Best performance of a C++ singleton",
+      "https://andreasfertig.com/blog/2026/03/best-performance-of-a-cpp-singleton/"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 07:17:48",
       "https://news.ycombinator.com/item?id=47271988"
     ],
@@ -247,16 +257,6 @@
     [
       "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
       "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn"
-    ]
-  ],
-  [
-    [
-      "2026-03-04, 14:24:24",
-      "https://news.ycombinator.com/item?id=47247762"
-    ],
-    [
-      "Show HN: A weird thing that detects your pulse from the browser video",
-      "https://pulsefeedback.io/"
     ]
   ],
   [
