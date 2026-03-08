@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-08](index.md)
 
+* [2026-03-08, 09:24:54](https://news.ycombinator.com/item?id=47295837) - [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)
 * [2026-03-08, 08:52:19](https://news.ycombinator.com/item?id=47295708) - [Llm9p: LLM as a Plan 9 file system](https://github.com/NERVsystems/llm9p)
 * [2026-03-08, 08:43:29](https://news.ycombinator.com/item?id=47295670) - [I'm Not Consulting an LLM](https://lr0.org/blog/p/gpt/)
 * [2026-03-08, 08:32:10](https://news.ycombinator.com/item?id=47295628) - [Ask HN: Why there are no actual studies that show AI is more productive?](https://news.ycombinator.com/item?id=47295628)
@@ -12,6 +13,7 @@
 * [2026-03-08, 07:52:38](https://news.ycombinator.com/item?id=47295454) - [New Research Reassesses the Value of Agents.md Files for AI Coding](https://www.infoq.com/news/2026/03/agents-context-file-value-review/)
 * [2026-03-08, 07:16:15](https://news.ycombinator.com/item?id=47295279) - [Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope](https://curiosity-telescope.vercel.app/)
 * [2026-03-08, 06:21:28](https://news.ycombinator.com/item?id=47295040) - [To the Polypropylene Makers](https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers)
+* [2026-03-08, 06:01:26](https://news.ycombinator.com/item?id=47294924) - [Sem – Semantic version control. Entity-level diffs on top of Git](https://github.com/ataraxy-labs/sem)
 * [2026-03-08, 03:07:05](https://news.ycombinator.com/item?id=47293985) - [Revisiting Time: UT1, UTC, NTP and NTS](https://www.potaroo.net/ispcol/2026-03/nts.html)
 * [2026-03-08, 02:59:35](https://news.ycombinator.com/item?id=47293938) - [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin)
 * [2026-03-08, 02:16:02](https://news.ycombinator.com/item?id=47293682) - [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame)
