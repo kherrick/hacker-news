@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2026-03-07, 23:26:26",
-      "https://news.ycombinator.com/item?id=47292485"
+      "2026-03-07, 23:32:17",
+      "https://news.ycombinator.com/item?id=47292522"
     ],
     [
-      "Put the zip code first",
-      "https://zipcodefirst.com"
+      "How to run Qwen 3.5 locally",
+      "https://unsloth.ai/docs/models/qwen3.5"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-03-05, 14:25:46",
+      "https://news.ycombinator.com/item?id=47261858"
+    ],
+    [
+      "Ten Years of Deploying to Production",
+      "https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html"
+    ]
+  ],
+  [
+    [
       "2026-03-05, 10:33:19",
       "https://news.ycombinator.com/item?id=47260028"
     ],
@@ -227,16 +237,6 @@
     [
       "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
       "https://thecloudlet.github.io/blog/project/emacs-02/"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 01:37:42",
-      "https://news.ycombinator.com/item?id=47256376"
-    ],
-    [
-      "A Grand Vision for Rust",
-      "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/"
     ]
   ],
   [
