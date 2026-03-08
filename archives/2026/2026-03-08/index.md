@@ -10,6 +10,7 @@
 * [2026-03-08, 12:55:05](https://news.ycombinator.com/item?id=47296932) - [Show HN: I logged Gemini's stock predictions for 38 days to study LLM drift](https://huggingface.co/datasets/louidev/glassballai)
 * [2026-03-08, 12:40:14](https://news.ycombinator.com/item?id=47296849) - [I ported Linux to the PS5 and turned it into a Steam Machine](https://xcancel.com/theflow0/status/2030011206040256841)
 * [2026-03-08, 12:30:31](https://news.ycombinator.com/item?id=47296787) - [You Don't Need a Vector Database](https://vecstore.app/blog/you-dont-need-a-vector-database)
+* [2026-03-08, 12:04:48](https://news.ycombinator.com/item?id=47296664) - [Show HN: AI agents run my one-person company on Gemini's free tier – $0/month](https://news.ycombinator.com/item?id=47296664)
 * [2026-03-08, 11:41:17](https://news.ycombinator.com/item?id=47296547) - [Ask HN: How to Be Alone?](https://news.ycombinator.com/item?id=47296547)
 * [2026-03-08, 11:04:04](https://news.ycombinator.com/item?id=47296355) - [Show HN: Eyot, A programming language where the GPU is just another thread](https://cowleyforniastudios.com/2026/03/08/announcing-eyot/)
 * [2026-03-08, 10:54:32](https://news.ycombinator.com/item?id=47296302) - [Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage](https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/)

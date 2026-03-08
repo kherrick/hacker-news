@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
 * [2026-03-04, 23:51:10](https://news.ycombinator.com/item?id=47255662) - [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
+* [2026-03-04, 22:30:27](https://news.ycombinator.com/item?id=47254896) - [Why can't you tune your guitar? (2019)](https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/)
 * [2026-03-04, 22:06:57](https://news.ycombinator.com/item?id=47254624) - [Accessibility Issues Are Often Usability Issues](https://protovate.com/blog/you-dont-need-accessibility-until-you-do/)
 * [2026-03-04, 21:56:20](https://news.ycombinator.com/item?id=47254516) - [NRC Issues First Commercial Reactor Construction Approval in 10 Years [pdf]](https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf)
 * [2026-03-04, 21:41:40](https://news.ycombinator.com/item?id=47254322) - [It is sweet and fitting to die for one's country (1921)](https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est)
