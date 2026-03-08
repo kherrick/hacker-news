@@ -15,6 +15,7 @@
 * [2026-03-08, 07:16:15](https://news.ycombinator.com/item?id=47295279) - [Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope](https://curiosity-telescope.vercel.app/)
 * [2026-03-08, 06:21:28](https://news.ycombinator.com/item?id=47295040) - [To the Polypropylene Makers](https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers)
 * [2026-03-08, 06:01:26](https://news.ycombinator.com/item?id=47294924) - [Sem – Semantic version control. Entity-level diffs on top of Git](https://github.com/ataraxy-labs/sem)
+* [2026-03-08, 04:47:36](https://news.ycombinator.com/item?id=47294487) - [Fatbikes are wreaking havoc in Sydney's wealthy beach suburbs](https://www.bbc.com/news/articles/cy8l1d221evo)
 * [2026-03-08, 03:07:05](https://news.ycombinator.com/item?id=47293985) - [Revisiting Time: UT1, UTC, NTP and NTS](https://www.potaroo.net/ispcol/2026-03/nts.html)
 * [2026-03-08, 02:59:35](https://news.ycombinator.com/item?id=47293938) - [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin)
 * [2026-03-08, 02:16:02](https://news.ycombinator.com/item?id=47293682) - [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame)
