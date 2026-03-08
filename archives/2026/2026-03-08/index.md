@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-08](index.md)
 
+* [2026-03-08, 06:21:28](https://news.ycombinator.com/item?id=47295040) - [To the Polypropylene Makers](https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers)
 * [2026-03-08, 02:59:35](https://news.ycombinator.com/item?id=47293938) - [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin)
 * [2026-03-08, 02:16:02](https://news.ycombinator.com/item?id=47293682) - [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame)
 * [2026-03-08, 01:50:45](https://news.ycombinator.com/item?id=47293514) - [Iranian Women Graduate in Stem 3× the Rate of U.S. Women and Has 5× More PhDs](https://hrnews1.substack.com/p/iranian-women-graduate-in-stem-at)

@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-08, 06:21:28](https://news.ycombinator.com/item?id=47295040) - [To the Polypropylene Makers](https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers)
 * [2026-03-08, 02:16:02](https://news.ycombinator.com/item?id=47293682) - [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame)
 * [2026-03-08, 01:35:21](https://news.ycombinator.com/item?id=47293415) - [\"Warn about PyPy being unmaintained\"](https://github.com/astral-sh/uv/pull/17643)
 * [2026-03-08, 00:44:32](https://news.ycombinator.com/item?id=47293119) - [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
 * [2026-03-07, 23:32:17](https://news.ycombinator.com/item?id=47292522) - [How to run Qwen 3.5 locally](https://unsloth.ai/docs/models/qwen3.5)
 * [2026-03-07, 22:21:57](https://news.ycombinator.com/item?id=47292029) - [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp)
-* [2026-03-07, 21:10:08](https://news.ycombinator.com/item?id=47291525) - [The stagnancy of publishing and the disappearance of the midlist](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul)
 * [2026-03-07, 21:08:40](https://news.ycombinator.com/item?id=47291513) - [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)
 * [2026-03-07, 20:43:51](https://news.ycombinator.com/item?id=47291292) - [CasNum](https://github.com/0x0mer/CasNum)
 * [2026-03-07, 20:22:45](https://news.ycombinator.com/item?id=47291123) - [Autoresearch: Agents researching on single-GPU nanochat training automatically](https://github.com/karpathy/autoresearch)
