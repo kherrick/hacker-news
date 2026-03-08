@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-08](index.md)
 
+* [2026-03-08, 19:26:59](https://news.ycombinator.com/item?id=47300329) - [Ask HN: Please restrict new accounts from posting](https://news.ycombinator.com/item?id=47300329)
 * [2026-03-08, 19:07:33](https://news.ycombinator.com/item?id=47300102) - [Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds](https://github.com/BigBodyCobain/Shadowbroker)
+* [2026-03-08, 18:57:21](https://news.ycombinator.com/item?id=47299988) - [AI doesn't replace white collar work](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
 * [2026-03-08, 18:37:37](https://news.ycombinator.com/item?id=47299794) - [Google just gave Sundar Pichai a $692M pay package](https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/)
 * [2026-03-08, 18:21:20](https://news.ycombinator.com/item?id=47299625) - [\"I Can't Do That, Dave\" – No Agent Yet](https://systemic.engineering/ai-needs-identity/)
 * [2026-03-08, 18:18:40](https://news.ycombinator.com/item?id=47299606) - [I made a programming language with M&Ms](https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/)
