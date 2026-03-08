@@ -35,6 +35,7 @@
 * [2026-03-04, 16:43:36](https://news.ycombinator.com/item?id=47250133) - [Welcome to the Wasteland: A Thousand Gas Towns](https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f)
 * [2026-03-04, 16:24:18](https://news.ycombinator.com/item?id=47249809) - [Sea level much higher than assumed in most coastal hazard assessments](https://www.nature.com/articles/s41586-026-10196-1)
 * [2026-03-04, 16:20:36](https://news.ycombinator.com/item?id=47249744) - [Humans 40k yrs ago developed a system of conventional signs](https://www.pnas.org/doi/10.1073/pnas.2520385123)
+* [2026-03-04, 16:16:23](https://news.ycombinator.com/item?id=47249685) - [Digital Iris [video]](https://www.youtube.com/watch?v=Kg_2MAgS_pE)
 * [2026-03-04, 15:57:29](https://news.ycombinator.com/item?id=47249387) - [CBP tapped into the online advertising ecosystem to track peoples’ movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/)
 * [2026-03-04, 15:55:34](https://news.ycombinator.com/item?id=47249343) - [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/)
 * [2026-03-04, 15:22:03](https://news.ycombinator.com/item?id=47248806) - [Notes on Project Oberon](https://sidhion.com/blog/oberon_notes/)
