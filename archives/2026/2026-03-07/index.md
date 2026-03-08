@@ -55,6 +55,7 @@
 * [2026-03-07, 03:14:50](https://news.ycombinator.com/item?id=47284114) - [AI and the Illegal War](https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/)
 * [2026-03-07, 03:06:58](https://news.ycombinator.com/item?id=47284061) - [Can a wealthy family change the course of a deadly brain disease?](https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease)
 * [2026-03-07, 02:03:21](https://news.ycombinator.com/item?id=47283665) - [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
+* [2026-03-07, 01:21:47](https://news.ycombinator.com/item?id=47283365) - [Some Words on WigglyPaint](https://beyondloom.com/blog/onwigglypaint.html)
 * [2026-03-07, 01:17:57](https://news.ycombinator.com/item?id=47283337) - [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
 * [2026-03-07, 00:28:56](https://news.ycombinator.com/item?id=47282980) - [Game about Data of America](https://americaindata.com/)
 * [2026-03-07, 00:07:25](https://news.ycombinator.com/item?id=47282807) - [Show HN: Kula – Lightweight, self-contained Linux server monitoring tool](https://github.com/c0m4r/kula)
