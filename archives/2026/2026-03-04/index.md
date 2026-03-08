@@ -38,6 +38,7 @@
 * [2026-03-04, 16:16:23](https://news.ycombinator.com/item?id=47249685) - [Digital Iris [video]](https://www.youtube.com/watch?v=Kg_2MAgS_pE)
 * [2026-03-04, 15:57:29](https://news.ycombinator.com/item?id=47249387) - [CBP tapped into the online advertising ecosystem to track peoples’ movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/)
 * [2026-03-04, 15:55:34](https://news.ycombinator.com/item?id=47249343) - [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/)
+* [2026-03-04, 15:42:49](https://news.ycombinator.com/item?id=47249139) - [Rijksmuseum researchers discover new painting by Rembrandt van Rijn](https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn)
 * [2026-03-04, 15:22:03](https://news.ycombinator.com/item?id=47248806) - [Notes on Project Oberon](https://sidhion.com/blog/oberon_notes/)
 * [2026-03-04, 15:02:36](https://news.ycombinator.com/item?id=47248511) - [Medical journal says the case reports it has published for 25 years are fiction](https://retractionwatch.com/2026/03/03/canadian-pediatric-society-journal-correction-case-reports-fictional-paediatrics-child-health/)
 * [2026-03-04, 14:53:48](https://news.ycombinator.com/item?id=47248341) - [The one science reform we can all agree on, but we're too cowardly to do](https://www.experimental-history.com/p/the-one-science-reform-we-can-all)
