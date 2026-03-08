@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-08](index.md)
 
+* [2026-03-08, 15:37:32](https://news.ycombinator.com/item?id=47298183) - [Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
 * [2026-03-08, 15:21:09](https://news.ycombinator.com/item?id=47298044) - [FrameBook](https://fb.edoo.gg)
+* [2026-03-08, 15:07:28](https://news.ycombinator.com/item?id=47297919) - [Living Human Brain Cells Play Doom on a CL1](https://corticallabs.com/doom.html)
+* [2026-03-08, 15:05:40](https://news.ycombinator.com/item?id=47297913) - [What if the Apple ][ had run on Field-Sequential?](https://nicole.express/2026/the-apple-that-wasnt.html)
 * [2026-03-08, 14:09:09](https://news.ycombinator.com/item?id=47297453) - [LibreOffice: Request to the European Commission to adhere to its own guidances](https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/)
 * [2026-03-08, 13:28:26](https://news.ycombinator.com/item?id=47297167) - [Beagle, a source code management system that stores AST trees](https://github.com/gritzko/librdx/tree/master/be)
 * [2026-03-08, 13:16:14](https://news.ycombinator.com/item?id=47297091) - [CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git](https://github.com/kantord/blogtato)
@@ -15,6 +18,7 @@
 * [2026-03-08, 12:30:31](https://news.ycombinator.com/item?id=47296787) - [You Don't Need a Vector Database](https://vecstore.app/blog/you-dont-need-a-vector-database)
 * [2026-03-08, 12:04:48](https://news.ycombinator.com/item?id=47296664) - [Show HN: AI agents run my one-person company on Gemini's free tier – $0/month](https://news.ycombinator.com/item?id=47296664)
 * [2026-03-08, 11:41:17](https://news.ycombinator.com/item?id=47296547) - [Ask HN: How to Be Alone?](https://news.ycombinator.com/item?id=47296547)
+* [2026-03-08, 11:27:49](https://news.ycombinator.com/item?id=47296481) - [If It Quacks Like a Package Manager](https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html)
 * [2026-03-08, 11:04:04](https://news.ycombinator.com/item?id=47296355) - [Show HN: Eyot, A programming language where the GPU is just another thread](https://cowleyforniastudios.com/2026/03/08/announcing-eyot/)
 * [2026-03-08, 10:54:32](https://news.ycombinator.com/item?id=47296302) - [Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage](https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/)
 * [2026-03-08, 09:24:54](https://news.ycombinator.com/item?id=47295837) - [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)
