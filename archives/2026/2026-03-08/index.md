@@ -6,6 +6,8 @@
 
 * [2026-03-08, 20:46:49](https://news.ycombinator.com/item?id=47301275) - [71% Desk Workers Say Screen-Related Visual Discomfort Is Reducing Productivity](https://www.vspvision.com/newsroom/eye-health-and-wellness/vision-care/new-research-from-vsp-vision-care-and-workplace-intelligence-finds-desk-workers-spend-nearly-100-hours-a-week-on-screens)
 * [2026-03-08, 20:45:49](https://news.ycombinator.com/item?id=47301264) - [She called 911 for an ambulance. She got a nightmare instead](https://www.seattletimes.com/seattle-news/times-watchdog/seattle-womans-911-calls-reveal-gaps-in-ambulance-service/)
+* [2026-03-08, 20:43:19](https://news.ycombinator.com/item?id=47301241) - [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
+* [2026-03-08, 20:42:41](https://news.ycombinator.com/item?id=47301233) - [Artificial-life: A simple (300 lines of code) reproduction of Computational Life](https://github.com/Rabrg/artificial-life)
 * [2026-03-08, 20:30:18](https://news.ycombinator.com/item?id=47301085) - [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
 * [2026-03-08, 20:14:54](https://news.ycombinator.com/item?id=47300934) - [Neural Boids](https://campedersen.com/noid)
 * [2026-03-08, 19:58:15](https://news.ycombinator.com/item?id=47300747) - [We should revisit literate programming in the agent era](https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/)
