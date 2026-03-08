@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-08, 09:24:54",
+      "https://news.ycombinator.com/item?id=47295837"
+    ],
+    [
+      "Notes on Writing WASM",
+      "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 08:43:29",
       "https://news.ycombinator.com/item?id=47295670"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2026-03-08, 06:01:26",
+      "https://news.ycombinator.com/item?id=47294924"
+    ],
+    [
+      "Sem – Semantic version control. Entity-level diffs on top of Git",
+      "https://github.com/ataraxy-labs/sem"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 02:16:02",
       "https://news.ycombinator.com/item?id=47293682"
     ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=47293415"
     ],
     [
-      "\"Warn about PyPy being unmaintained\"",
+      "Warn about PyPy being unmaintained",
       "https://github.com/astral-sh/uv/pull/17643"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "Lisp-style C++ template meta programming",
       "https://github.com/mistivia/lmp"
-    ]
-  ],
-  [
-    [
-      "2026-03-07, 21:08:40",
-      "https://news.ycombinator.com/item?id=47291513"
-    ],
-    [
-      "LLM Writing Tropes.md",
-      "https://tropes.fyi/tropes-md"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "From RGB to L*a*b* color space (2024)",
       "https://kaizoudou.com/from-rgb-to-lab-color-space/"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 22:45:10",
-      "https://news.ycombinator.com/item?id=47240169"
-    ],
-    [
-      "Compiling Prolog to Forth [pdf]",
-      "https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf"
     ]
   ]
 ]
