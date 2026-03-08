@@ -11,7 +11,6 @@
 * [2026-03-08, 00:44:32](https://news.ycombinator.com/item?id=47293119) - [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
 * [2026-03-07, 23:32:17](https://news.ycombinator.com/item?id=47292522) - [How to run Qwen 3.5 locally](https://unsloth.ai/docs/models/qwen3.5)
 * [2026-03-07, 22:21:57](https://news.ycombinator.com/item?id=47292029) - [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp)
-* [2026-03-07, 21:08:40](https://news.ycombinator.com/item?id=47291513) - [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)
 * [2026-03-07, 20:43:51](https://news.ycombinator.com/item?id=47291292) - [CasNum](https://github.com/0x0mer/CasNum)
 * [2026-03-07, 20:22:45](https://news.ycombinator.com/item?id=47291123) - [Autoresearch: Agents researching on single-GPU nanochat training automatically](https://github.com/karpathy/autoresearch)
 * [2026-03-07, 18:32:05](https://news.ycombinator.com/item?id=47290198) - [The surprising whimsy of the Time Zone Database](https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/)
@@ -29,6 +28,7 @@
 * [2026-03-04, 14:24:24](https://news.ycombinator.com/item?id=47247762) - [Show HN: A weird thing that detects your pulse from the browser video](https://pulsefeedback.io/)
 * [2026-03-04, 14:16:31](https://news.ycombinator.com/item?id=47247644) - [In 1985 Maxell built a bunch of life-size robots for its bad floppy ad](https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/)
 * [2026-03-04, 09:24:13](https://news.ycombinator.com/item?id=47245061) - [From RGB to L*a*b* color space (2024)](https://kaizoudou.com/from-rgb-to-lab-color-space/)
+* [2026-03-03, 22:45:10](https://news.ycombinator.com/item?id=47240169) - [Compiling Prolog to Forth [pdf]](https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf)
 * [2026-03-03, 22:24:54](https://news.ycombinator.com/item?id=47239955) - [The Lobster Programming Language](https://strlen.com/lobster/)
 
 ## [Archives](archives/index.md)
