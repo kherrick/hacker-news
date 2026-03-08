@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-03-08, 08:52:19",
-      "https://news.ycombinator.com/item?id=47295708"
+      "2026-03-08, 08:43:29",
+      "https://news.ycombinator.com/item?id=47295670"
     ],
     [
-      "Llm9p: LLM as a Plan 9 file system",
-      "https://github.com/NERVsystems/llm9p"
+      "I'm Not Consulting an LLM",
+      "https://lr0.org/blog/p/gpt/"
     ]
   ],
   [
     [
-      "2026-03-08, 08:16:53",
-      "https://news.ycombinator.com/item?id=47295559"
+      "2026-03-08, 08:32:10",
+      "https://news.ycombinator.com/item?id=47295628"
     ],
     [
-      "Invoker Commands API",
-      "https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API"
+      "Ask HN: Why there are no actual studies that show AI is more productive?",
+      "https://news.ycombinator.com/item?id=47295628"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
       "https://arxiv.org/abs/2603.03823"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 07:52:38",
-      "https://news.ycombinator.com/item?id=47295454"
-    ],
-    [
-      "New Research Reassesses the Value of Agents.md Files for AI Coding",
-      "https://www.infoq.com/news/2026/03/agents-context-file-value-review/"
     ]
   ],
   [
@@ -57,16 +47,6 @@
     [
       "To the Polypropylene Makers",
       "https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 03:07:05",
-      "https://news.ycombinator.com/item?id=47293985"
-    ],
-    [
-      "Revisiting Time: UT1, UTC, NTP and NTS",
-      "https://www.potaroo.net/ispcol/2026-03/nts.html"
     ]
   ],
   [
@@ -121,6 +101,16 @@
   ],
   [
     [
+      "2026-03-07, 21:08:40",
+      "https://news.ycombinator.com/item?id=47291513"
+    ],
+    [
+      "LLM Writing Tropes.md",
+      "https://tropes.fyi/tropes-md"
+    ]
+  ],
+  [
+    [
       "2026-03-07, 20:43:51",
       "https://news.ycombinator.com/item?id=47291292"
     ],
@@ -147,6 +137,16 @@
     [
       "The surprising whimsy of the Time Zone Database",
       "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/"
+    ]
+  ],
+  [
+    [
+      "2026-03-07, 17:01:14",
+      "https://news.ycombinator.com/item?id=47289357"
+    ],
+    [
+      "SigNoz (YC W21) is hiring for engineering, growth and product roles",
+      "https://signoz.io/careers"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-03-04, 15:42:49",
+      "https://news.ycombinator.com/item?id=47249139"
+    ],
+    [
+      "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+      "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn"
+    ]
+  ],
+  [
+    [
       "2026-03-04, 14:24:24",
       "https://news.ycombinator.com/item?id=47247762"
     ],
@@ -287,16 +297,6 @@
     [
       "How important was the Battle of Hastings?",
       "https://www.historytoday.com/archive/head-head/how-important-was-battle-hastings"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 22:45:10",
-      "https://news.ycombinator.com/item?id=47240169"
-    ],
-    [
-      "Compiling Prolog to Forth [pdf]",
-      "https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf"
     ]
   ]
 ]
