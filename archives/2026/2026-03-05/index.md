@@ -49,6 +49,7 @@
 * [2026-03-05, 14:05:46](https://news.ycombinator.com/item?id=47261688) - [Judge Orders Government to Begin Refunding More Than $130B in Tariffs](https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c)
 * [2026-03-05, 13:52:43](https://news.ycombinator.com/item?id=47261561) - [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop)
 * [2026-03-05, 13:49:16](https://news.ycombinator.com/item?id=47261529) - [We Turned Our Wireshark Wizard into a Markdown File](https://www.checklyhq.com/blog/building-an-ai-agent/)
+* [2026-03-05, 12:24:10](https://news.ycombinator.com/item?id=47260812) - [Every Single Board Computer I Tested in 2025](https://bret.dk/every-single-board-computer-i-tested-in-2025/)
 * [2026-03-05, 12:12:13](https://news.ycombinator.com/item?id=47260712) - [Migrating from Heroku to Magic Containers](https://bunny.net/blog/migrating-from-heroku-to-magic-containers/)
 * [2026-03-05, 10:33:19](https://news.ycombinator.com/item?id=47260028) - [Bourdieu's theory of taste: a grumbling abrégé](https://dynomight.net/bourdieu/)
 * [2026-03-05, 10:23:15](https://news.ycombinator.com/item?id=47259961) - [Emacs internals: Deconstructing Lisp_Object in C (Part 2)](https://thecloudlet.github.io/blog/project/emacs-02/)

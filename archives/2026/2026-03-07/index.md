@@ -10,6 +10,7 @@
 * [2026-03-07, 23:09:51](https://news.ycombinator.com/item?id=47292381) - [Caitlin Kalinowski: I resigned from OpenAI](https://twitter.com/kalinowski007/status/2030320074121478618)
 * [2026-03-07, 22:21:57](https://news.ycombinator.com/item?id=47292029) - [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp)
 * [2026-03-07, 22:08:27](https://news.ycombinator.com/item?id=47291906) - [Does Apple‘s M5 Max Really “Destroy” a 96-Core Threadripper?](https://slashdot.org/submission/17345398/does-apples-m5-max-really-destroy-a-96-core-threadripper)
+* [2026-03-07, 22:03:37](https://news.ycombinator.com/item?id=47291876) - [Microscopes Can See Video on a LaserDisc](https://www.youtube.com/watch?v=qZuR-772cks)
 * [2026-03-07, 21:56:16](https://news.ycombinator.com/item?id=47291834) - [$3T Blind Spot: US nonprofits](https://charitysense.com/insights/the-3-trillion-blind-spot)
 * [2026-03-07, 21:37:29](https://news.ycombinator.com/item?id=47291699) - [Ask HN: Would you use a job board where every listing is verified?](https://news.ycombinator.com/item?id=47291699)
 * [2026-03-07, 21:10:08](https://news.ycombinator.com/item?id=47291525) - [The Day NY Publishing Lost Its Soul](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul)

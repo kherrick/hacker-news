@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-08](index.md)
 
+* [2026-03-08, 20:30:18](https://news.ycombinator.com/item?id=47301085) - [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
+* [2026-03-08, 20:14:54](https://news.ycombinator.com/item?id=47300934) - [Neural Boids](https://campedersen.com/noid)
+* [2026-03-08, 19:45:54](https://news.ycombinator.com/item?id=47300560) - [Show HN: WhatsApp Clone – No Setup or Signup](https://positive-intentions.com/)
 * [2026-03-08, 19:26:59](https://news.ycombinator.com/item?id=47300329) - [Ask HN: Please restrict new accounts from posting](https://news.ycombinator.com/item?id=47300329)
 * [2026-03-08, 19:07:33](https://news.ycombinator.com/item?id=47300102) - [Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds](https://github.com/BigBodyCobain/Shadowbroker)
 * [2026-03-08, 18:57:21](https://news.ycombinator.com/item?id=47299988) - [AI doesn't replace white collar work](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
