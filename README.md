@@ -29,7 +29,7 @@
 * [2026-03-04, 14:24:24](https://news.ycombinator.com/item?id=47247762) - [Show HN: A weird thing that detects your pulse from the browser video](https://pulsefeedback.io/)
 * [2026-03-04, 14:16:31](https://news.ycombinator.com/item?id=47247644) - [In 1985 Maxell built a bunch of life-size robots for its bad floppy ad](https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/)
 * [2026-03-04, 09:24:13](https://news.ycombinator.com/item?id=47245061) - [From RGB to L*a*b* color space (2024)](https://kaizoudou.com/from-rgb-to-lab-color-space/)
-* [2026-03-04, 07:23:49](https://news.ycombinator.com/item?id=47244274) - [How important was the Battle of Hastings?](https://www.historytoday.com/archive/head-head/how-important-was-battle-hastings)
+* [2026-03-03, 22:45:10](https://news.ycombinator.com/item?id=47240169) - [Compiling Prolog to Forth [pdf]](https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf)
 
 ## [Archives](archives/index.md)
 
