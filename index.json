@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-09, 20:32:45",
+      "https://news.ycombinator.com/item?id=47315079"
+    ],
+    [
+      "Thomas Selfridge: The First Airplane Fatality",
+      "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html"
+    ]
+  ],
+  [
+    [
       "2026-03-09, 19:24:58",
       "https://news.ycombinator.com/item?id=47314131"
     ],
     [
       "Uber reported to the state that I was fired for \"annoying a coworker.\"",
       "https://anon-ex-uber.medium.com/uber-reported-to-the-state-that-i-was-fired-for-annoying-a-coworker-4ba7490cc0b8"
+    ]
+  ],
+  [
+    [
+      "2026-03-09, 19:24:20",
+      "https://news.ycombinator.com/item?id=47314123"
+    ],
+    [
+      "Things I've Done with AI",
+      "https://sjer.red/blog/2026/built-with-ai/"
     ]
   ],
   [
@@ -211,6 +231,16 @@
   ],
   [
     [
+      "2026-03-09, 12:15:07",
+      "https://news.ycombinator.com/item?id=47308059"
+    ],
+    [
+      "No leap second will be introduced at the end of June 2026",
+      "https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/"
+    ]
+  ],
+  [
+    [
       "2026-03-09, 10:14:59",
       "https://news.ycombinator.com/item?id=47307055"
     ],
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2026-03-09, 05:37:15",
-      "https://news.ycombinator.com/item?id=47305236"
-    ],
-    [
-      "FFmpeg at Meta: Media Processing at Scale",
-      "https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/"
-    ]
-  ],
-  [
-    [
       "2026-03-08, 16:22:24",
       "https://news.ycombinator.com/item?id=47298553"
     ],
@@ -277,26 +297,6 @@
     [
       "Velxio, Arduino Emulator",
       "https://velxio.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 08:41:37",
-      "https://news.ycombinator.com/item?id=47272531"
-    ],
-    [
-      "Unlocking Python's Cores:Energy Implications of Removing the GIL",
-      "https://arxiv.org/abs/2603.04782"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 09:04:16",
-      "https://news.ycombinator.com/item?id=47259366"
-    ],
-    [
-      "Grammarly is offering ‘expert’ AI reviews from famous dead and living writers",
-      "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/"
     ]
   ]
 ]
