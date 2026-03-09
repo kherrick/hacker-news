@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-03-09, 17:02:22",
+      "https://news.ycombinator.com/item?id=47311815"
+    ],
+    [
+      "Building a Procedural Hex Map with Wave Function Collapse",
+      "https://felixturner.github.io/hex-map-wfc/article/"
+    ]
+  ],
+  [
+    [
+      "2026-03-09, 16:59:05",
+      "https://news.ycombinator.com/item?id=47311745"
+    ],
+    [
+      "The 1979 Design Choice Breaking AI Workloads",
+      "https://www.cerebrium.ai/blog/rethinking-container-image-distribution-to-eliminate-cold-starts"
+    ]
+  ],
+  [
+    [
+      "2026-03-09, 16:54:31",
+      "https://news.ycombinator.com/item?id=47311669"
+    ],
+    [
+      "DARPA's new X-76 Experimental Plane",
+      "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter"
+    ]
+  ],
+  [
+    [
+      "2026-03-09, 16:53:52",
+      "https://news.ycombinator.com/item?id=47311657"
+    ],
+    [
+      "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
+      "https://news.ycombinator.com/item?id=47311657"
+    ]
+  ],
+  [
+    [
+      "2026-03-09, 16:41:54",
+      "https://news.ycombinator.com/item?id=47311456"
+    ],
+    [
+      "Jolla on track to ship new phone with Sailfish OS, user-replaceable battery",
+      "https://liliputing.com/the-new-jolla-phone-with-sailfish-os-is-on-track-to-start-shipping-in-the-first-half-of-2026/"
+    ]
+  ],
+  [
+    [
       "2026-03-09, 15:44:04",
       "https://news.ycombinator.com/item?id=47310556"
     ],
@@ -21,6 +71,16 @@
   ],
   [
     [
+      "2026-03-09, 15:12:53",
+      "https://news.ycombinator.com/item?id=47310160"
+    ],
+    [
+      "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+      "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/"
+    ]
+  ],
+  [
+    [
       "2026-03-09, 15:05:09",
       "https://news.ycombinator.com/item?id=47310073"
     ],
@@ -31,12 +91,12 @@
   ],
   [
     [
-      "2026-03-09, 15:03:22",
-      "https://news.ycombinator.com/item?id=47310054"
+      "2026-03-09, 14:55:42",
+      "https://news.ycombinator.com/item?id=47309953"
     ],
     [
-      "I'm Getting a Whiff of Iain Banks' Culture",
-      "https://probablydance.com/2026/03/07/im-getting-a-whiff-of-iain-banks-culture/"
+      "Show HN: DenchClaw – Local CRM on Top of OpenClaw",
+      "https://github.com/DenchHQ/DenchClaw"
     ]
   ],
   [
@@ -151,32 +211,12 @@
   ],
   [
     [
-      "2026-03-08, 22:50:55",
-      "https://news.ycombinator.com/item?id=47302463"
-    ],
-    [
-      "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
-      "https://offlinemark.com/an-obscure-quirk-of-proc/"
-    ]
-  ],
-  [
-    [
       "2026-03-08, 20:30:18",
       "https://news.ycombinator.com/item?id=47301085"
     ],
     [
       "Agent Safehouse – macOS-native sandboxing for local agents",
       "https://agent-safehouse.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 16:46:10",
-      "https://news.ycombinator.com/item?id=47298743"
-    ],
-    [
-      "My Homelab Setup",
-      "https://bryananthonio.com/blog/my-homelab-setup/"
     ]
   ],
   [
@@ -191,12 +231,12 @@
   ],
   [
     [
-      "2026-03-08, 15:21:09",
-      "https://news.ycombinator.com/item?id=47298044"
+      "2026-03-08, 11:37:00",
+      "https://news.ycombinator.com/item?id=47296532"
     ],
     [
-      "FrameBook",
-      "https://fb.edoo.gg"
+      "Lazy JWT Key Rotation in .NET: Redis-Powered JWKS That Just Works",
+      "https://www.aaronpina.com/lazy-jwt-key-rotation-in-net-redis-powered-jwks-that-just-works/"
     ]
   ],
   [
@@ -207,16 +247,6 @@
     [
       "Segagaga Has Been Translated into English",
       "https://www.thedreamcastjunkyard.co.uk/2026/02/segagaga-has-finally-been-translated.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 09:30:25",
-      "https://news.ycombinator.com/item?id=47295871"
-    ],
-    [
-      "Ask HN: Can I repurpose a Bluetooth voice remote as input device for a PC?",
-      "https://news.ycombinator.com/item?id=47295871"
     ]
   ],
   [
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2026-03-06, 15:46:53",
-      "https://news.ycombinator.com/item?id=47276447"
-    ],
-    [
-      "The Finger and the Moon",
-      "https://taylor.town/finger-moon"
-    ]
-  ],
-  [
-    [
       "2026-03-06, 08:41:37",
       "https://news.ycombinator.com/item?id=47272531"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-03-05, 12:24:10",
-      "https://news.ycombinator.com/item?id=47260812"
-    ],
-    [
-      "Every single board computer I tested in 2025",
-      "https://bret.dk/every-single-board-computer-i-tested-in-2025/"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 09:04:16",
       "https://news.ycombinator.com/item?id=47259366"
     ],
     [
       "Grammarly is offering ‘expert’ AI reviews from famous dead and living writers",
       "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 01:37:42",
-      "https://news.ycombinator.com/item?id=47256376"
-    ],
-    [
-      "My “grand vision” for Rust",
-      "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/"
     ]
   ]
 ]
