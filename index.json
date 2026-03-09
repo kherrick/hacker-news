@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-03-09, 13:01:01",
-      "https://news.ycombinator.com/item?id=47308468"
+      "2026-03-09, 12:52:20",
+      "https://news.ycombinator.com/item?id=47308394"
     ],
     [
-      "Owner of ICE detention facility sees big opportunity in AI man camps",
-      "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/"
+      "FreeBSD Capsicum vs. Linux Seccomp Process Sandboxing",
+      "https://vivianvoss.net/blog/capsicum-vs-seccomp"
+    ]
+  ],
+  [
+    [
+      "2026-03-09, 12:38:46",
+      "https://news.ycombinator.com/item?id=47308278"
+    ],
+    [
+      "Reverse-engineering the UniFi inform protocol",
+      "https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol"
     ]
   ],
   [
@@ -71,22 +81,12 @@
   ],
   [
     [
-      "2026-03-09, 05:18:46",
-      "https://news.ycombinator.com/item?id=47305149"
+      "2026-03-09, 05:37:15",
+      "https://news.ycombinator.com/item?id=47305236"
     ],
     [
-      "Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP",
-      "https://github.com/knowsuchagency/mcp2cli"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 04:27:59",
-      "https://news.ycombinator.com/item?id=47304886"
-    ],
-    [
-      "The death of social media is the renaissance of RSS (2025)",
-      "https://www.smartlab.at/rss-revival-life-after-social-media/"
+      "FFmpeg at Meta: Media Processing at Scale",
+      "https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2026-03-08, 11:59:43",
+      "https://news.ycombinator.com/item?id=47296635"
+    ],
+    [
+      "Python's Lazy Imports: Why It Took Three Years and Two Attempts",
+      "https://techlife.blog/posts/the-story-of-pythons-lazy-imports-why-it-took-three-years-and-two-attempts/"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 11:41:17",
       "https://news.ycombinator.com/item?id=47296547"
     ],
@@ -267,16 +277,6 @@
     [
       "Every single board computer I tested in 2025",
       "https://bret.dk/every-single-board-computer-i-tested-in-2025/"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 02:38:07",
-      "https://news.ycombinator.com/item?id=47256810"
-    ],
-    [
-      "Z80 Sans – a disassembler in a font (2024)",
-      "https://github.com/nevesnunes/z80-sans"
     ]
   ],
   [
