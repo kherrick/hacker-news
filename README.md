@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-09, 06:28:02](https://news.ycombinator.com/item?id=47305461) - [US Court of Appeals: TOS may be updated by email, continued use implies consent [pdf]](https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf)
+* [2026-03-09, 06:28:02](https://news.ycombinator.com/item?id=47305461) - [US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]](https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf)
+* [2026-03-09, 05:18:46](https://news.ycombinator.com/item?id=47305149) - [Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP](https://github.com/knowsuchagency/mcp2cli)
 * [2026-03-09, 04:38:03](https://news.ycombinator.com/item?id=47304934) - [Thermal Grizzly was scammed twice on raw materials worth €40k](https://videocardz.com/newz/der8auer-explains-thermal-grizzly-delays-after-company-was-scammed-twice-on-raw-materials-worth-e40000)
 * [2026-03-09, 04:27:59](https://news.ycombinator.com/item?id=47304886) - [The death of social media is the renaissance of RSS (2025)](https://www.smartlab.at/rss-revival-life-after-social-media/)
 * [2026-03-09, 04:16:33](https://news.ycombinator.com/item?id=47304831) - [How the Sriracha guys screwed over their supplier](https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/)
@@ -21,7 +22,6 @@
 * [2026-03-08, 05:04:14](https://news.ycombinator.com/item?id=47294582) - [PCB devboard the size of a USB-C plug](https://github.com/Dieu-de-l-elec/AngstromIO-devboard)
 * [2026-03-08, 00:57:57](https://news.ycombinator.com/item?id=47293195) - [Pushing and Pulling: Three reactivity algorithms](https://jonathan-frere.com/posts/reactivity-algorithms/)
 * [2026-03-07, 22:03:37](https://news.ycombinator.com/item?id=47291876) - [Microscopes can see video on a laserdisc](https://www.youtube.com/watch?v=qZuR-772cks)
-* [2026-03-07, 12:56:43](https://news.ycombinator.com/item?id=47287259) - [Show HN: Reviving a 20-year-old puzzle game Chromatron with Ghidra and AI](https://quesma.com/blog/chromatron-recompiled/)
 * [2026-03-06, 22:13:41](https://news.ycombinator.com/item?id=47281827) - [The legendary Mojave Phone Booth is back (2013)](https://dailydot.com/mojave-phone-booth-back-number)
 * [2026-03-05, 23:34:17](https://news.ycombinator.com/item?id=47268736) - [Humanoid robot: The evolution of Kawasaki’s challenge](https://kawasakirobotics.com/in/blog/202511_kaleido/)
 * [2026-03-05, 20:43:30](https://news.ycombinator.com/item?id=47267022) - [Triumph of the toons: how animation came to rule the box office](https://economist.com/culture/2026/03/05/triumph-of-the-toons-how-animation-came-to-rule-the-box-office)
