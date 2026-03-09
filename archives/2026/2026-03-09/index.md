@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-09](index.md)
 
+* [2026-03-09, 18:31:26](https://news.ycombinator.com/item?id=47313269) - [Oil Is Near a Price That Hurts the Economy](https://www.wsj.com/business/energy-oil/oil-is-already-near-a-price-that-hurts-the-economy-3cebcfdc)
 * [2026-03-09, 17:57:00](https://news.ycombinator.com/item?id=47312728) - [Show HN: The Mog Programming Language](https://moglang.org)
 * [2026-03-09, 17:34:27](https://news.ycombinator.com/item?id=47312329) - [Fixfest is a global gathering of repairers, tinkerers, and activists](https://fixfest.therestartproject.org/)
 * [2026-03-09, 17:20:29](https://news.ycombinator.com/item?id=47312090) - [Florida Judge Rules Red Light Camera Tickets Are Unconstitutional](https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional)
