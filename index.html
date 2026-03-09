@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47313269">
+          <h3>
+            <a
+              class="item"
+              href="https://www.wsj.com/business/energy-oil/oil-is-already-near-a-price-that-hurts-the-economy-3cebcfdc"
+              >Oil Is Near a Price That Hurts the Economy</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-09 @ 18:31:26</span
+              ><span class="points-container"
+                >Points: <span class="points">52</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47313269"
+                  >Comments</a
+                ><span class="descendants">: 61</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47312728">
           <h3>
             <a class="item" href="https://moglang.org"
@@ -139,13 +160,134 @@
             <h4>
               <span>2026-03-09 @ 17:57:00</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47312728"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                - Mog is a statically typed, compiled, embedded language (think
+                statically typed Lua) designed to be written by LLMs -- the full
+                spec fits in 3,200 tokens. - An AI agent writes a Mog program,
+                compiles it, and dynamically loads it as a plugin, script, or
+                hook. - The host controls exactly which functions a Mog program
+                can call (capability-based permissions), so permissions
+                propagate from agent to agent-written code. - Compiled to native
+                code for low-latency plugin execution -- no interpreter
+                overhead, no JIT, no process startup cost. - The compiler is
+                written in safe Rust so the entire toolchain can be audited for
+                security. Even without a full security audit, Mog is already
+                useful for agents extending themselves with their own code. -
+                MIT licensed, contributions welcome.
+              </p>
+              <p>Motivations for Mog:</p>
+              <p>
+                1. Syntax Only an AI Could Love: Mog is written for AIs to
+                write, so the spec fits easily in context (~3200 tokens), and
+                it's intended to minimize foot-guns to lower the error rate when
+                generating Mog code. This is why Mog has no operator precedence:
+                non-associative operations have to use parentheses, e.g. (a + b)
+                * c. It's also why there's no implicit type coercion, which I've
+                found over the decades to be an annoying source of runtime bugs.
+                There's also less support in Mog for generics, and there's
+                absolutely no support for metaprogramming, macros, or syntactic
+                abstraction.
+              </p>
+              <p>
+                When asking people to write code in a language, these
+                restrictions could be onerous. But LLMs don't care, and the less
+                expressivity you trust them with, the better.
+              </p>
+              <p>
+                2. Capabilities-Based Permissionsl: There's a paradox with
+                existing security models for AI agents. If you give an agent
+                like OpenClaw unfettered access to your data, that's insecure
+                and you'll get pwned. But if you sandbox it, it can't do most of
+                what you want. Worse, if you run scripts the agent wrote, those
+                scripts don't inherit the permissions that constrain the agent's
+                own bash tool calls, which leads to pwnage and other chaos. And
+                that's not even assuming you run one of the many OpenClaw
+                plugins with malware.
+              </p>
+              <p>
+                Mog tries to solve this by taking inspiration from embedded
+                languages. It compiles all the way to machine code, ahead of
+                time, but the compiler doesn't output any dangerous code (at
+                least it shouldn't -- Mog is quite new, so that could still be
+                buggy). This allows a host program, such as an AI agent, to
+                generate Mog source code, compile it, and load it into itself
+                using dlopen(), while maintaining security guarantees.
+              </p>
+              <p>
+                The main trick is that a Mog program on its own can't do much.
+                It has no direct access to syscalls, libc, or memory. It can
+                basically call functions, do heap allocations (but only within
+                the arena the host gives it), and return something. If the host
+                wants the Mog program to be able to do I/O, it has to supply the
+                functions that the Mog program will call. A core invariant is
+                that a Mog program should never be able to crash the host
+                program, corrupt its state, or consume more resources than the
+                host allows.
+              </p>
+              <p>
+                This allows the host to inspect the arguments to any potentially
+                dangerous operation that the Mog program attempts, since it's
+                code that runs in the host. For example, a host agent could give
+                a Mog program a function to run a bash command, then enforce its
+                own session-level permissions on that command, even though the
+                command was dynamically generated by a plugin that was written
+                without prior knowledge of those permission settings.
+              </p>
+              <p>
+                (There are a couple other tricks that PL people might find
+                interesting. One is that the host can limit the execution time
+                of the guest program. It does this using cooperative interrupt
+                polling, i.e. the compiler inserts runtime checks that check if
+                the host has asked the guest to stop. This causes a roughly 10%
+                drop in performance on extremely tight loops, which are the
+                worst case. It could almost certainly be optimized.)
+              </p>
+              <p>
+                3. Self Modification Without Restart: When I try to modify my
+                OpenClaw from my phone, I have to restart the whole agent. Mog
+                fixes this: an agent can compile and run new plugins without
+                interrupting a session, which makes it dynamically responsive to
+                user feedback (e.g., you tell it to always ask you before
+                deleting a file and without any interruption it compiles and
+                loads the code to... actually do that).
+              </p>
+              <p>
+                Async support is built into the language, by adapting LLVM's
+                coroutine lowering to our Rust port of the QBE compiler, which
+                is what Mog uses for compilation. The Mog host library can be
+                slotted into an async event loop (tested with Bun), so Mog async
+                calls get scheduled seamlessly by the agent's event loop.
+                Another trick is that the Mog program uses a stack inside the
+                memory arena that the host provides for it to run in, rather
+                than the system stack. The system tracks a guard page between
+                the stack and heap. This design prevents stack overflow without
+                runtime overhead.
+              </p>
+              <p>
+                Lots of work still needs to be done to make Mog a
+                "batteries-included" experience like Python. Most of that work
+                involves fleshing out a standard library to include things like
+                JSON, CSV, Sqlite, and HTTP. One high-impact addition would be
+                an `llm` library that allows the guest to make LLM calls through
+                the agent, which should support multiple models and token
+                budgeting, so the host could prevent the plugin from burning too
+                many tokens.
+              </p>
+              <p>
+                I suspect we'll also want to do more work to make the program
+                lifecycle operations more ergonomic. And finally, there should
+                be a more fully featured library for integrating a Mog host into
+                an AI agent like OpenClaw or OpenAI's Codex CLI.
+              </p>
+            </div>
           </section>
         </section>
         <section id="47312329">
@@ -159,33 +301,11 @@
             <h4>
               <span>2026-03-09 @ 17:34:27</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47312329"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47312090">
-          <h3>
-            <a
-              class="item"
-              href="https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional"
-              >Florida Judge Rules Red Light Camera Tickets Are
-              Unconstitutional</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-09 @ 17:20:29</span
-              ><span class="points-container"
-                >Points: <span class="points">82</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47312090"
-                  >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -202,11 +322,11 @@
             <h4>
               <span>2026-03-09 @ 17:02:22</span
               ><span class="points-container"
-                >Points: <span class="points">127</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47311815"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -223,11 +343,11 @@
             <h4>
               <span>2026-03-09 @ 16:54:31</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47311669"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -243,11 +363,11 @@
             <h4>
               <span>2026-03-09 @ 16:53:52</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47311657"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
             <div class="text">
@@ -362,11 +482,11 @@
             <h4>
               <span>2026-03-09 @ 16:49:55</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47311585"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -381,11 +501,11 @@
             <h4>
               <span>2026-03-09 @ 16:43:39</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47311484"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -403,31 +523,11 @@
             <h4>
               <span>2026-03-09 @ 16:41:54</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47311456"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47311380">
-          <h3>
-            <a class="item" href="https://github.com/robotmem/robotmem"
-              >Show HN: I gave my robot physical memory – it stopped repeating
-              mistakes</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-09 @ 16:36:15</span
-              ><span class="points-container"
-                >Points: <span class="points">11</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47311380"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -445,11 +545,11 @@
             <h4>
               <span>2026-03-09 @ 16:24:22</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47311179"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -466,11 +566,11 @@
             <h4>
               <span>2026-03-09 @ 15:23:08</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47310296"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -488,11 +588,11 @@
             <h4>
               <span>2026-03-09 @ 15:12:53</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47310160"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 142</span></span
               >
             </h4>
           </section>
@@ -507,11 +607,11 @@
             <h4>
               <span>2026-03-09 @ 14:55:42</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47309953"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
             <div class="text">
@@ -559,18 +659,11 @@
               <p></p>
               <pre><code>  npx denchclaw
 </code></pre>
-              It has a CRM focus because we asked a couple dozen hard-core
-              OpenClaw users "what do you actually do", and it was sales
-              automation, lead enrichment, biz dev, creating slides, linkedin
-              outreach, email/notion/calendar stuff, and it's always painful to
-              set up.
-              <p>
-                But I use DenchClaw daily for almost everything I do. It also
-                works as a coding agent like Cursor - DenchClaw built DenchClaw.
-                I am addicted now that I can ask it, “hey in the companies table
-                only show me the ones who have more than 5 employees” and it
-                updates it live than me having to manually add a filter.
-              </p>
+              I use DenchClaw daily for almost everything I do. It also works as
+              a coding agent like Cursor - DenchClaw built DenchClaw. I am
+              addicted now that I can ask it, “hey in the companies table only
+              show me the ones who have more than 5 employees” and it updates it
+              live than me having to manually add a filter.
               <p>
                 On Dench, everything sits in a file system, the table filters,
                 views, column toggles, calendar/gantt views, etc, so OpenClaw
@@ -630,11 +723,11 @@
             <h4>
               <span>2026-03-09 @ 14:38:11</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47309726"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -649,11 +742,11 @@
             <h4>
               <span>2026-03-09 @ 14:28:43</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47309605"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -670,11 +763,11 @@
             <h4>
               <span>2026-03-09 @ 12:52:20</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47308394"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -691,32 +784,11 @@
             <h4>
               <span>2026-03-09 @ 12:38:46</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47308278"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47308059">
-          <h3>
-            <a
-              class="item"
-              href="https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/"
-              >No leap second will be introduced at the end of June 2026</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-09 @ 12:15:07</span
-              ><span class="points-container"
-                >Points: <span class="points">47</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47308059"
-                  >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -734,11 +806,11 @@
             <h4>
               <span>2026-03-09 @ 10:28:08</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47307169"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
             <div class="text">
@@ -766,11 +838,11 @@
             <h4>
               <span>2026-03-09 @ 10:14:59</span
               ><span class="points-container"
-                >Points: <span class="points">692</span></span
+                >Points: <span class="points">721</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47307055"
                   >Comments</a
-                ><span class="descendants">: 418</span></span
+                ><span class="descendants">: 436</span></span
               >
             </h4>
           </section>
@@ -785,11 +857,11 @@
             <h4>
               <span>2026-03-09 @ 09:25:02</span
               ><span class="points-container"
-                >Points: <span class="points">347</span></span
+                >Points: <span class="points">359</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47306655"
                   >Comments</a
-                ><span class="descendants">: 114</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -807,11 +879,11 @@
             <h4>
               <span>2026-03-09 @ 06:28:02</span
               ><span class="points-container"
-                >Points: <span class="points">479</span></span
+                >Points: <span class="points">486</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47305461"
                   >Comments</a
-                ><span class="descendants">: 370</span></span
+                ><span class="descendants">: 375</span></span
               >
             </h4>
           </section>
@@ -828,32 +900,35 @@
             <h4>
               <span>2026-03-09 @ 05:37:15</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47305236"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47301085">
+        <section id="47303111">
           <h3>
-            <a class="item" href="https://agent-safehouse.dev/"
-              >Agent Safehouse – macOS-native sandboxing for local agents</a
+            <a class="item" href="https://news.ycombinator.com/item?id=47303111"
+              >Ask HN: What Are You Working On? (March 2026)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-08 @ 20:30:18</span
+              <span>2026-03-09 @ 00:07:18</span
               ><span class="points-container"
-                >Points: <span class="points">769</span></span
+                >Points: <span class="points">253</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47301085"
+                ><a href="https://news.ycombinator.com/item?id=47303111"
                   >Comments</a
-                ><span class="descendants">: 173</span></span
+                ><span class="descendants">: 935</span></span
               >
             </h4>
+            <div class="text">
+              What are you working on? Any new ideas that you're thinking about?
+            </div>
           </section>
         </section>
         <section id="47298553">
@@ -868,11 +943,33 @@
             <h4>
               <span>2026-03-08 @ 16:22:24</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47298553"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 46</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47296532">
+          <h3>
+            <a
+              class="item"
+              href="https://www.aaronpina.com/lazy-jwt-key-rotation-in-net-redis-powered-jwks-that-just-works/"
+              >Lazy JWT Key Rotation in .NET: Redis-Powered JWKS That Just
+              Works</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-08 @ 11:37:00</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47296532"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -889,30 +986,32 @@
             <h4>
               <span>2026-03-08 @ 10:47:21</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47296259"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47291876">
+        <section id="47294572">
           <h3>
-            <a class="item" href="https://www.youtube.com/watch?v=qZuR-772cks"
-              >Microscopes can see video on a laserdisc</a
+            <a
+              class="item"
+              href="https://github.com/manifold-systems/manifold/blob/master/docs/articles/binding_exprs.md"
+              >Rethinking Syntax: Binding by Adjacency</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-07 @ 22:03:37</span
+              <span>2026-03-08 @ 05:03:03</span
               ><span class="points-container"
-                >Points: <span class="points">594</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47291876"
+                ><a href="https://news.ycombinator.com/item?id=47294572"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -929,11 +1028,11 @@
             <h4>
               <span>2026-03-06 @ 22:38:47</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47282085"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -949,13 +1048,45 @@
             <h4>
               <span>2026-03-06 @ 08:41:37</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47272531"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="47259366">
+          <h3>
+            <a
+              class="item"
+              href="https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/"
+              >Grammarly is offering ‘expert’ AI reviews from famous dead and
+              living writers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-05 @ 09:04:16</span
+              ><span class="points-container"
+                >Points: <span class="points">110</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47259366"
+                  >Comments</a
+                ><span class="descendants">: 141</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Grammarly is using our identities without permission,
+                <a
+                  href="https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews"
+                  >https://www.theverge.com/ai-artificial-intelligence/890921/g...</a
+                >,
+                <a href="https://archive.ph/1w1oO">https://archive.ph/1w1oO</a>
+              </p>
+            </div>
           </section>
         </section>
       </section>
