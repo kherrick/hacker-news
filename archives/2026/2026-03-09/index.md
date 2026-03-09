@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-09](index.md)
 
+* [2026-03-09, 22:55:09](https://news.ycombinator.com/item?id=47316880) - [Sir Tony Hoare has died](http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
 * [2026-03-09, 21:34:45](https://news.ycombinator.com/item?id=47315869) - [Rendezvous with Rama](https://blog.engora.com/2026/03/rendezvous-with-rama.html)
 * [2026-03-09, 21:19:58](https://news.ycombinator.com/item?id=47315701) - [Zuckerberg has \"finished\" with Alexandr Wang, worth US$14B](https://www.idnfinancials.com/news/61918/zuckerberg-has-finished-with-alexandr-wang-worth-us14-billion)
 * [2026-03-09, 20:50:59](https://news.ycombinator.com/item?id=47315341) - [So you want to write an \"app\" (2025)](https://arcanenibble.github.io/so-you-want-to-write-an-app.html)
