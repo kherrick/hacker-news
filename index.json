@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-09, 23:19:31",
+      "https://news.ycombinator.com/item?id=47317115"
+    ],
+    [
+      "Helios: Real real-time long video generation model",
+      "https://www.alphaxiv.org/abs/2603.04379"
+    ]
+  ],
+  [
+    [
       "2026-03-09, 22:55:09",
       "https://news.ycombinator.com/item?id=47316880"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47315341"
     ],
     [
-      "So you want to write an \"app\" (2025)",
+      "So you want to write an “app” (2025)",
       "https://arcanenibble.github.io/so-you-want-to-write-an-app.html"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47315079"
     ],
     [
-      "The First Airplane Fatality",
+      "The first airplane fatality",
       "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html"
     ]
   ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=47311669"
     ],
     [
-      "DARPA's new X-76",
+      "DARPA’s new X-76",
       "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter"
     ]
   ],
@@ -147,16 +157,6 @@
     [
       "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
       "https://news.ycombinator.com/item?id=47311657"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 16:49:55",
-      "https://news.ycombinator.com/item?id=47311585"
-    ],
-    [
-      "What I Always Wanted to Know about Second Class Values",
-      "https://dl.acm.org/doi/epdf/10.1145/3759427.3760373"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-03-09, 14:28:43",
-      "https://news.ycombinator.com/item?id=47309605"
-    ],
-    [
-      "Algebraic topology: knots links and braids",
-      "https://aeb.win.tue.nl/at/algtop-5.html"
-    ]
-  ],
-  [
-    [
       "2026-03-09, 12:38:46",
       "https://news.ycombinator.com/item?id=47308278"
     ],
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=47306655"
     ],
     [
-      "Fontcrafter: Turn Your Handwriting into a Real Font",
+      "FontCrafter: Turn your handwriting into a real font",
       "https://arcade.pirillo.com/fontcrafter.html"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Velxio, Arduino Emulator",
       "https://velxio.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 20:27:50",
+      "https://news.ycombinator.com/item?id=47280654"
+    ],
+    [
+      "Show HN: Remotely use my guitar tuner",
+      "https://realtuner.online/"
     ]
   ]
 ]
