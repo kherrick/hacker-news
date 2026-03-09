@@ -9,6 +9,7 @@
 * [2026-03-06, 23:17:19](https://news.ycombinator.com/item?id=47282390) - [Show HN: The Roman Industrial Revolution that could have been (Vol 2)](https://thelydianstone.com/volume-2)
 * [2026-03-06, 22:55:37](https://news.ycombinator.com/item?id=47282230) - [C# Strings Silently Kill Your SQL Server Indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)
 * [2026-03-06, 22:37:37](https://news.ycombinator.com/item?id=47282060) - [Wild crows in Sweden help clean up cigarette butts](https://www.samodobrevijesti.com/en/news/wild-crows-in-sweden-help-clean-up-cigarette-butts/)
+* [2026-03-06, 22:13:41](https://news.ycombinator.com/item?id=47281827) - [The legendary Mojave Phone Booth is back (2013)](https://dailydot.com/mojave-phone-booth-back-number)
 * [2026-03-06, 21:52:44](https://news.ycombinator.com/item?id=47281593) - [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
 * [2026-03-06, 21:43:39](https://news.ycombinator.com/item?id=47281485) - [Art Bits from Apple Macintosh HyperCard](https://archives.somnolescent.net/web/mari_v2/junk/hypercard/)
 * [2026-03-06, 21:29:37](https://news.ycombinator.com/item?id=47281328) - [Nintendo Sues U.S. Government for Tariff Refunds](https://www.scribd.com/document/1008639172/Nintendo-Sues-U-S-Government-For-Tariff-Refunds)

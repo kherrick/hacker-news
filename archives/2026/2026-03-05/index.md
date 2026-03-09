@@ -31,6 +31,7 @@
 * [2026-03-05, 17:44:10](https://news.ycombinator.com/item?id=47264756) - [The Brand Age](https://paulgraham.com/brandage.html)
 * [2026-03-05, 17:43:33](https://news.ycombinator.com/item?id=47264742) - [My application programmer instincts failed when debugging assembler](https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/)
 * [2026-03-05, 17:43:31](https://news.ycombinator.com/item?id=47264741) - [Launch HN: Vela (YC W26) – AI for complex scheduling](https://news.ycombinator.com/item?id=47264741)
+* [2026-03-05, 17:37:11](https://news.ycombinator.com/item?id=47264660) - [Case Study: lynnandtonic.com 2025 refresh](https://lynnandtonic.com/thoughts/entries/case-study-2025-refresh/)
 * [2026-03-05, 17:16:22](https://news.ycombinator.com/item?id=47264341) - [The Government Uses Targeted Advertising to Track Your Location](https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp)
 * [2026-03-05, 17:01:47](https://news.ycombinator.com/item?id=47264138) - [Show HN: PageAgent, A GUI agent that lives inside your web app](https://alibaba.github.io/page-agent/)
 * [2026-03-05, 16:47:27](https://news.ycombinator.com/item?id=47263938) - [Galileo's handwritten notes found in ancient astronomy text](https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text)
