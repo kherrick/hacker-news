@@ -8,6 +8,7 @@
 * [2026-03-06, 23:53:29](https://news.ycombinator.com/item?id=47282701) - [Helix: A post-modern text editor](https://helix-editor.com/)
 * [2026-03-06, 23:17:19](https://news.ycombinator.com/item?id=47282390) - [Show HN: The Roman Industrial Revolution that could have been (Vol 2)](https://thelydianstone.com/volume-2)
 * [2026-03-06, 22:55:37](https://news.ycombinator.com/item?id=47282230) - [C# Strings Silently Kill Your SQL Server Indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)
+* [2026-03-06, 22:38:47](https://news.ycombinator.com/item?id=47282085) - [The Window Chrome of Our Discontent](https://pxlnv.com/blog/window-chrome-of-our-discontent/)
 * [2026-03-06, 22:37:37](https://news.ycombinator.com/item?id=47282060) - [Wild crows in Sweden help clean up cigarette butts](https://www.samodobrevijesti.com/en/news/wild-crows-in-sweden-help-clean-up-cigarette-butts/)
 * [2026-03-06, 22:13:41](https://news.ycombinator.com/item?id=47281827) - [The legendary Mojave Phone Booth is back (2013)](https://dailydot.com/mojave-phone-booth-back-number)
 * [2026-03-06, 21:52:44](https://news.ycombinator.com/item?id=47281593) - [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)

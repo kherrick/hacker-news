@@ -49,6 +49,7 @@
 * [2026-03-08, 11:27:49](https://news.ycombinator.com/item?id=47296481) - [If It Quacks Like a Package Manager](https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html)
 * [2026-03-08, 11:04:04](https://news.ycombinator.com/item?id=47296355) - [Show HN: Eyot, A programming language where the GPU is just another thread](https://cowleyforniastudios.com/2026/03/08/announcing-eyot/)
 * [2026-03-08, 10:54:32](https://news.ycombinator.com/item?id=47296302) - [Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage](https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/)
+* [2026-03-08, 10:47:21](https://news.ycombinator.com/item?id=47296259) - [Segagaga Has Been Translated into English](https://www.thedreamcastjunkyard.co.uk/2026/02/segagaga-has-finally-been-translated.html)
 * [2026-03-08, 09:24:54](https://news.ycombinator.com/item?id=47295837) - [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)
 * [2026-03-08, 08:52:19](https://news.ycombinator.com/item?id=47295708) - [Llm9p: LLM as a Plan 9 file system](https://github.com/NERVsystems/llm9p)
 * [2026-03-08, 08:43:29](https://news.ycombinator.com/item?id=47295670) - [I'm Not Consulting an LLM](https://lr0.org/blog/p/gpt/)
