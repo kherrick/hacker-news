@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-09](index.md)
 
+* [2026-03-09, 19:24:58](https://news.ycombinator.com/item?id=47314131) - [Uber reported to the state that I was fired for \"annoying a coworker.\"](https://anon-ex-uber.medium.com/uber-reported-to-the-state-that-i-was-fired-for-annoying-a-coworker-4ba7490cc0b8)
+* [2026-03-09, 19:09:03](https://news.ycombinator.com/item?id=47313884) - [Bluesky CEO Jay Graber is stepping down](https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky)
+* [2026-03-09, 18:51:34](https://news.ycombinator.com/item?id=47313613) - [Workers report watching Ray-Ban Meta-shot footage of people using the bathroom](https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/)
 * [2026-03-09, 18:31:26](https://news.ycombinator.com/item?id=47313269) - [Oil Is Near a Price That Hurts the Economy](https://www.wsj.com/business/energy-oil/oil-is-already-near-a-price-that-hurts-the-economy-3cebcfdc)
 * [2026-03-09, 17:57:00](https://news.ycombinator.com/item?id=47312728) - [Show HN: The Mog Programming Language](https://moglang.org)
 * [2026-03-09, 17:34:27](https://news.ycombinator.com/item?id=47312329) - [Fixfest is a global gathering of repairers, tinkerers, and activists](https://fixfest.therestartproject.org/)
