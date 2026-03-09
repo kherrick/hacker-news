@@ -31,6 +31,7 @@
 * [2026-03-08, 17:01:50](https://news.ycombinator.com/item?id=47298885) - [LibreOffice Writer now supports Markdown](https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/)
 * [2026-03-08, 16:46:10](https://news.ycombinator.com/item?id=47298743) - [My Homelab Setup](https://bryananthonio.com/blog/my-homelab-setup/)
 * [2026-03-08, 16:33:30](https://news.ycombinator.com/item?id=47298655) - [The human.json Protocol](https://codeberg.org/robida/human.json)
+* [2026-03-08, 16:22:24](https://news.ycombinator.com/item?id=47298553) - [Flash media longevity testing – 6 years later](https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/)
 * [2026-03-08, 15:37:32](https://news.ycombinator.com/item?id=47298183) - [Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
 * [2026-03-08, 15:21:09](https://news.ycombinator.com/item?id=47298044) - [FrameBook](https://fb.edoo.gg)
 * [2026-03-08, 15:07:28](https://news.ycombinator.com/item?id=47297919) - [Living human brain cells play DOOM on a CL1 [video]](https://www.youtube.com/watch?v=yRV8fSw6HaE)

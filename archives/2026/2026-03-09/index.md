@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-09](index.md)
 
+* [2026-03-09, 15:06:37](https://news.ycombinator.com/item?id=47310092) - [New farm bill would condemn pigs to a lifetime in gestation crates](https://twitter.com/Lewis_Bollard/status/2030985704902099335)
+* [2026-03-09, 15:05:09](https://news.ycombinator.com/item?id=47310073) - [The engine of Germany's wealth is blocking its future](https://europeancorrespondent.com/en/r/the-engine-of-germanys-wealth-is-blocking-its-future)
 * [2026-03-09, 13:01:01](https://news.ycombinator.com/item?id=47308468) - [Owner of ICE detention facility sees big opportunity in AI man camps](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
 * [2026-03-09, 12:52:20](https://news.ycombinator.com/item?id=47308394) - [FreeBSD Capsicum vs. Linux Seccomp Process Sandboxing](https://vivianvoss.net/blog/capsicum-vs-seccomp)
 * [2026-03-09, 12:38:46](https://news.ycombinator.com/item?id=47308278) - [Reverse-engineering the UniFi inform protocol](https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol)

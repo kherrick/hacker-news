@@ -34,6 +34,7 @@
 * [2026-03-06, 16:14:30](https://news.ycombinator.com/item?id=47276865) - [Astra: An open-source observatory control software](https://github.com/ppp-one/astra)
 * [2026-03-06, 15:57:27](https://news.ycombinator.com/item?id=47276604) - [Show HN: Claude-replay – A video-like player for Claude Code sessions](https://github.com/es617/claude-replay)
 * [2026-03-06, 15:53:32](https://news.ycombinator.com/item?id=47276539) - [Entomologists Use a Particle Accelerator to Image Ants at Scale](https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan)
+* [2026-03-06, 15:46:53](https://news.ycombinator.com/item?id=47276447) - [The Finger and the Moon](https://taylor.town/finger-moon)
 * [2026-03-06, 15:33:17](https://news.ycombinator.com/item?id=47276220) - [Paul Brainerd, Founder of Aldus PageMaker, has died](https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/)
 * [2026-03-06, 15:29:38](https://news.ycombinator.com/item?id=47276159) - [Overheads (2023)](https://blog.xoria.org/hidden-overheads/)
 * [2026-03-06, 14:41:19](https://news.ycombinator.com/item?id=47275463) - [An Analysis of User-Space Idle State Instructions on x86 Processors](https://dl.acm.org/doi/10.1145/3676151.3719370)
