@@ -17,6 +17,7 @@
 * [2026-03-06, 21:19:25](https://news.ycombinator.com/item?id=47281221) - [The Shady World of IP Leasing](https://acid.vegas/blog/the-shady-world-of-ip-leasing/)
 * [2026-03-06, 21:07:43](https://news.ycombinator.com/item?id=47281080) - [The Worst Acquisition in History, Again](https://www.profgmedia.com/p/the-worst-acquisition-in-history)
 * [2026-03-06, 20:57:07](https://news.ycombinator.com/item?id=47280958) - [Re-creating the complex cuisine of prehistoric Europeans](https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/)
+* [2026-03-06, 20:27:50](https://news.ycombinator.com/item?id=47280654) - [Show HN: Remotely use my guitar tuner](https://realtuner.online/)
 * [2026-03-06, 20:21:01](https://news.ycombinator.com/item?id=47280567) - [TypeScript 6.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/)
 * [2026-03-06, 20:19:26](https://news.ycombinator.com/item?id=47280550) - [Why it takes you and an elephant the same amount of time to poop](https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop)
 * [2026-03-06, 20:03:48](https://news.ycombinator.com/item?id=47280352) - [Ada 2022](https://www.adaic.org/ada-resources/standards/ada22/)
