@@ -4,11 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-03-09](index.md)
 
+* [2026-03-09, 17:02:22](https://news.ycombinator.com/item?id=47311815) - [Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/)
+* [2026-03-09, 16:59:05](https://news.ycombinator.com/item?id=47311745) - [The 1979 Design Choice Breaking AI Workloads](https://www.cerebrium.ai/blog/rethinking-container-image-distribution-to-eliminate-cold-starts)
+* [2026-03-09, 16:54:31](https://news.ycombinator.com/item?id=47311669) - [DARPA's new X-76 Experimental Plane](https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter)
+* [2026-03-09, 16:53:52](https://news.ycombinator.com/item?id=47311657) - [Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents](https://news.ycombinator.com/item?id=47311657)
+* [2026-03-09, 16:41:54](https://news.ycombinator.com/item?id=47311456) - [Jolla on track to ship new phone with Sailfish OS, user-replaceable battery](https://liliputing.com/the-new-jolla-phone-with-sailfish-os-is-on-track-to-start-shipping-in-the-first-half-of-2026/)
 * [2026-03-09, 15:44:04](https://news.ycombinator.com/item?id=47310556) - [Kuwaiti F/A-18's Triple Friendly Fire Shootdown Gets Stranger by the Day](https://www.twz.com/air/kuwaiti-f-a-18s-triple-friendly-fire-shootdown-gets-stranger-by-the-day)
 * [2026-03-09, 15:23:08](https://news.ycombinator.com/item?id=47310296) - [Restoring a Sun SPARCstation IPX Part 1: PSU and Nvram](https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram)
+* [2026-03-09, 15:12:53](https://news.ycombinator.com/item?id=47310160) - [Is legal the same as legitimate: AI reimplementation and the erosion of copyleft](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
 * [2026-03-09, 15:06:37](https://news.ycombinator.com/item?id=47310092) - [New farm bill would condemn pigs to a lifetime in gestation crates](https://twitter.com/Lewis_Bollard/status/2030985704902099335)
 * [2026-03-09, 15:05:09](https://news.ycombinator.com/item?id=47310073) - [The engine of Germany's wealth is blocking its future](https://europeancorrespondent.com/en/r/the-engine-of-germanys-wealth-is-blocking-its-future)
 * [2026-03-09, 15:03:22](https://news.ycombinator.com/item?id=47310054) - [I'm Getting a Whiff of Iain Banks' Culture](https://probablydance.com/2026/03/07/im-getting-a-whiff-of-iain-banks-culture/)
+* [2026-03-09, 14:55:42](https://news.ycombinator.com/item?id=47309953) - [Show HN: DenchClaw – Local CRM on Top of OpenClaw](https://github.com/DenchHQ/DenchClaw)
 * [2026-03-09, 14:45:12](https://news.ycombinator.com/item?id=47309811) - [Revealed: UK's multibillion AI drive is built on 'phantom investments'](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
 * [2026-03-09, 14:28:43](https://news.ycombinator.com/item?id=47309605) - [Algebraic topology: knots links and braids](https://aeb.win.tue.nl/at/algtop-5.html)
 * [2026-03-09, 13:01:01](https://news.ycombinator.com/item?id=47308468) - [Owner of ICE detention facility sees big opportunity in AI man camps](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
