@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-09, 20:32:45](https://news.ycombinator.com/item?id=47315079) - [Thomas Selfridge: The First Airplane Fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
 * [2026-03-09, 19:24:58](https://news.ycombinator.com/item?id=47314131) - [Uber reported to the state that I was fired for \"annoying a coworker.\"](https://anon-ex-uber.medium.com/uber-reported-to-the-state-that-i-was-fired-for-annoying-a-coworker-4ba7490cc0b8)
+* [2026-03-09, 19:24:20](https://news.ycombinator.com/item?id=47314123) - [Things I've Done with AI](https://sjer.red/blog/2026/built-with-ai/)
 * [2026-03-09, 19:12:14](https://news.ycombinator.com/item?id=47313934) - [The Most Beautiful Freezer in the World: Notes on Baking at the South Pole](https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world)
 * [2026-03-09, 19:09:03](https://news.ycombinator.com/item?id=47313884) - [Bluesky CEO Jay Graber is stepping down](https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky)
 * [2026-03-09, 18:59:32](https://news.ycombinator.com/item?id=47313721) - [Durdraw – ANSI art editor for Unix-like systems](https://durdraw.org/)
@@ -21,15 +23,13 @@
 * [2026-03-09, 14:28:43](https://news.ycombinator.com/item?id=47309605) - [Algebraic topology: knots links and braids](https://aeb.win.tue.nl/at/algtop-5.html)
 * [2026-03-09, 12:52:20](https://news.ycombinator.com/item?id=47308394) - [FreeBSD Capsicum vs. Linux Seccomp Process Sandboxing](https://vivianvoss.net/blog/capsicum-vs-seccomp)
 * [2026-03-09, 12:38:46](https://news.ycombinator.com/item?id=47308278) - [Reverse-engineering the UniFi inform protocol](https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol)
+* [2026-03-09, 12:15:07](https://news.ycombinator.com/item?id=47308059) - [No leap second will be introduced at the end of June 2026](https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/)
 * [2026-03-09, 10:14:59](https://news.ycombinator.com/item?id=47307055) - [Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)](https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/)
 * [2026-03-09, 09:25:02](https://news.ycombinator.com/item?id=47306655) - [Fontcrafter: Turn Your Handwriting into a Real Font](https://arcade.pirillo.com/fontcrafter.html)
 * [2026-03-09, 06:28:02](https://news.ycombinator.com/item?id=47305461) - [US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]](https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf)
-* [2026-03-09, 05:37:15](https://news.ycombinator.com/item?id=47305236) - [FFmpeg at Meta: Media Processing at Scale](https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/)
 * [2026-03-08, 16:22:24](https://news.ycombinator.com/item?id=47298553) - [Flash media longevity testing – 6 years later](https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/)
 * [2026-03-08, 05:03:03](https://news.ycombinator.com/item?id=47294572) - [Rethinking Syntax: Binding by Adjacency](https://github.com/manifold-systems/manifold/blob/master/docs/articles/binding_exprs.md)
 * [2026-03-08, 05:02:38](https://news.ycombinator.com/item?id=47294568) - [Velxio, Arduino Emulator](https://velxio.dev/)
-* [2026-03-06, 08:41:37](https://news.ycombinator.com/item?id=47272531) - [Unlocking Python's Cores:Energy Implications of Removing the GIL](https://arxiv.org/abs/2603.04782)
-* [2026-03-05, 09:04:16](https://news.ycombinator.com/item?id=47259366) - [Grammarly is offering ‘expert’ AI reviews from famous dead and living writers](https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/)
 
 ## [Archives](archives/index.md)
 

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-09](index.md)
 
+* [2026-03-09, 20:32:45](https://news.ycombinator.com/item?id=47315079) - [Thomas Selfridge: The First Airplane Fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
 * [2026-03-09, 19:24:58](https://news.ycombinator.com/item?id=47314131) - [Uber reported to the state that I was fired for \"annoying a coworker.\"](https://anon-ex-uber.medium.com/uber-reported-to-the-state-that-i-was-fired-for-annoying-a-coworker-4ba7490cc0b8)
+* [2026-03-09, 19:24:20](https://news.ycombinator.com/item?id=47314123) - [Things I've Done with AI](https://sjer.red/blog/2026/built-with-ai/)
 * [2026-03-09, 19:12:14](https://news.ycombinator.com/item?id=47313934) - [The Most Beautiful Freezer in the World: Notes on Baking at the South Pole](https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world)
 * [2026-03-09, 19:09:03](https://news.ycombinator.com/item?id=47313884) - [Bluesky CEO Jay Graber is stepping down](https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky)
 * [2026-03-09, 18:59:32](https://news.ycombinator.com/item?id=47313721) - [Durdraw – ANSI art editor for Unix-like systems](https://durdraw.org/)
