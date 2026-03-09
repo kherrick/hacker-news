@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-03-09](index.md)
 
 * [2026-03-09, 13:01:01](https://news.ycombinator.com/item?id=47308468) - [Owner of ICE detention facility sees big opportunity in AI man camps](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
+* [2026-03-09, 12:52:20](https://news.ycombinator.com/item?id=47308394) - [FreeBSD Capsicum vs. Linux Seccomp Process Sandboxing](https://vivianvoss.net/blog/capsicum-vs-seccomp)
+* [2026-03-09, 12:38:46](https://news.ycombinator.com/item?id=47308278) - [Reverse-engineering the UniFi inform protocol](https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol)
 * [2026-03-09, 10:58:15](https://news.ycombinator.com/item?id=47307419) - [Nvidia backs AI data center startup Nscale as it hits $14.6B valuation](https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html)
 * [2026-03-09, 10:28:08](https://news.ycombinator.com/item?id=47307169) - [Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer)
 * [2026-03-09, 10:14:59](https://news.ycombinator.com/item?id=47307055) - [Ireland shuts last coal plant, becomes 15th coal-free country in Europe](https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/)
@@ -14,6 +16,7 @@
 * [2026-03-09, 08:19:17](https://news.ycombinator.com/item?id=47306157) - [Grammarly is using our identities without permission](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews)
 * [2026-03-09, 07:32:11](https://news.ycombinator.com/item?id=47305863) - [Iranians describe scenes of catastrophe after Tehran's oil depots bombed](https://www.theguardian.com/world/2026/mar/08/dark-like-our-future-iranians-describe-scenes-of-catastrophe-after-tehrans-oil-depots-bombed)
 * [2026-03-09, 06:28:02](https://news.ycombinator.com/item?id=47305461) - [US Court of Appeals: TOS may be updated by email, continued use implies consent [pdf]](https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf)
+* [2026-03-09, 05:37:15](https://news.ycombinator.com/item?id=47305236) - [FFmpeg at Meta: Media Processing at Scale](https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/)
 * [2026-03-09, 05:18:46](https://news.ycombinator.com/item?id=47305149) - [Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP](https://github.com/knowsuchagency/mcp2cli)
 * [2026-03-09, 04:38:03](https://news.ycombinator.com/item?id=47304934) - [Thermal Grizzly was scammed twice on raw materials worth €40k](https://videocardz.com/newz/der8auer-explains-thermal-grizzly-delays-after-company-was-scammed-twice-on-raw-materials-worth-e40000)
 * [2026-03-09, 04:27:59](https://news.ycombinator.com/item?id=47304886) - [The death of social media is the renaissance of RSS (2025)](https://www.smartlab.at/rss-revival-life-after-social-media/)
