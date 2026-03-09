@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-09, 00:07:18](https://news.ycombinator.com/item?id=47303111) - [Ask HN: What Are You Working On? (March 2026)](https://news.ycombinator.com/item?id=47303111)
+* [2026-03-08, 22:54:08](https://news.ycombinator.com/item?id=47302490) - [Last Statements](https://walzr.com/last-statements)
 * [2026-03-08, 22:50:55](https://news.ycombinator.com/item?id=47302463) - [Linux Internals: How /proc/self/mem writes to unwritable memory (2021)](https://offlinemark.com/an-obscure-quirk-of-proc/)
 * [2026-03-08, 21:40:35](https://news.ycombinator.com/item?id=47301808) - [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
 * [2026-03-08, 20:43:19](https://news.ycombinator.com/item?id=47301241) - [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
@@ -22,14 +23,13 @@
 * [2026-03-08, 05:04:14](https://news.ycombinator.com/item?id=47294582) - [PCB devboard the size of a USB-C plug](https://github.com/Dieu-de-l-elec/AngstromIO-devboard)
 * [2026-03-08, 00:57:57](https://news.ycombinator.com/item?id=47293195) - [Pushing and Pulling: Three reactivity algorithms](https://jonathan-frere.com/posts/reactivity-algorithms/)
 * [2026-03-07, 22:03:37](https://news.ycombinator.com/item?id=47291876) - [Microscopes can see video on a laserdisc](https://www.youtube.com/watch?v=qZuR-772cks)
+* [2026-03-07, 12:56:43](https://news.ycombinator.com/item?id=47287259) - [Show HN: Reviving a 20-year-old puzzle game Chromatron with Ghidra and AI](https://quesma.com/blog/chromatron-recompiled/)
 * [2026-03-06, 22:13:41](https://news.ycombinator.com/item?id=47281827) - [The legendary Mojave Phone Booth is back (2013)](https://dailydot.com/mojave-phone-booth-back-number)
-* [2026-03-05, 19:08:54](https://news.ycombinator.com/item?id=47265856) - [SQG (SQL to Code Generator) v0.10: Java Streams and List Type Support](https://sqg.dev/blog/java-streams-and-list-types/)
 * [2026-03-05, 17:37:11](https://news.ycombinator.com/item?id=47264660) - [Case Study: lynnandtonic.com 2025 refresh](https://lynnandtonic.com/thoughts/entries/case-study-2025-refresh/)
 * [2026-03-05, 12:24:10](https://news.ycombinator.com/item?id=47260812) - [Every single board computer I tested in 2025](https://bret.dk/every-single-board-computer-i-tested-in-2025/)
 * [2026-03-05, 02:38:07](https://news.ycombinator.com/item?id=47256810) - [Z80 Sans – a disassembler in a font (2024)](https://github.com/nevesnunes/z80-sans)
 * [2026-03-05, 01:37:42](https://news.ycombinator.com/item?id=47256376) - [My “grand vision” for Rust](https://blog.yoshuawuyts.com/a-grand-vision-for-rust/)
 * [2026-03-04, 22:30:27](https://news.ycombinator.com/item?id=47254896) - [Why can't you tune your guitar? (2019)](https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/)
-* [2026-03-03, 21:15:23](https://news.ycombinator.com/item?id=47239117) - [Log messages are mostly for the people operating your software](https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation)
 
 ## [Archives](archives/index.md)
 
