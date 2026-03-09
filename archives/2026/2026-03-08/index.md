@@ -66,6 +66,7 @@
 * [2026-03-08, 06:01:26](https://news.ycombinator.com/item?id=47294924) - [Sem – Semantic version control. Entity-level diffs on top of Git](https://github.com/ataraxy-labs/sem)
 * [2026-03-08, 05:04:14](https://news.ycombinator.com/item?id=47294582) - [PCB devboard the size of a USB-C plug](https://github.com/Dieu-de-l-elec/AngstromIO-devboard)
 * [2026-03-08, 05:03:03](https://news.ycombinator.com/item?id=47294572) - [Rethinking Syntax: Binding by Adjacency](https://github.com/manifold-systems/manifold/blob/master/docs/articles/binding_exprs.md)
+* [2026-03-08, 05:02:38](https://news.ycombinator.com/item?id=47294568) - [Velxio, Arduino Emulator](https://velxio.dev/)
 * [2026-03-08, 04:47:36](https://news.ycombinator.com/item?id=47294487) - [Fatbikes are wreaking havoc in Sydney's wealthy beach suburbs](https://www.bbc.com/news/articles/cy8l1d221evo)
 * [2026-03-08, 03:07:05](https://news.ycombinator.com/item?id=47293985) - [Revisiting Time: UT1, UTC, NTP and NTS](https://www.potaroo.net/ispcol/2026-03/nts.html)
 * [2026-03-08, 02:59:35](https://news.ycombinator.com/item?id=47293938) - [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin)
