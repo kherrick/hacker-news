@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-09, 08:19:17",
+      "https://news.ycombinator.com/item?id=47306157"
+    ],
+    [
+      "Grammarly is using our identities without permission",
+      "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews"
+    ]
+  ],
+  [
+    [
+      "2026-03-09, 07:32:11",
+      "https://news.ycombinator.com/item?id=47305863"
+    ],
+    [
+      "Iranians describe scenes of catastrophe after Tehran's oil depots bombed",
+      "https://www.theguardian.com/world/2026/mar/08/dark-like-our-future-iranians-describe-scenes-of-catastrophe-after-tehrans-oil-depots-bombed"
+    ]
+  ],
+  [
+    [
       "2026-03-09, 06:28:02",
       "https://news.ycombinator.com/item?id=47305461"
     ],
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2026-03-08, 22:54:08",
-      "https://news.ycombinator.com/item?id=47302490"
-    ],
-    [
-      "Last Statements",
-      "https://walzr.com/last-statements"
-    ]
-  ],
-  [
-    [
       "2026-03-08, 22:50:55",
       "https://news.ycombinator.com/item?id=47302463"
     ],
     [
       "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
       "https://offlinemark.com/an-obscure-quirk-of-proc/"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 21:40:35",
-      "https://news.ycombinator.com/item?id=47301808"
-    ],
-    [
-      "Blacksky AppView",
-      "https://github.com/blacksky-algorithms/atproto"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-03-07, 13:13:29",
+      "https://news.ycombinator.com/item?id=47287350"
+    ],
+    [
+      "Claude built a system in 3 rounds, latent bugs from round 1 exploded in round 3",
+      "https://github.com/mycelium-clj/mycelium/blob/main/benchmarks/SCALING.md"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 22:13:41",
       "https://news.ycombinator.com/item?id=47281827"
     ],
@@ -247,16 +257,6 @@
     [
       "Triumph of the toons: how animation came to rule the box office",
       "https://economist.com/culture/2026/03/05/triumph-of-the-toons-how-animation-came-to-rule-the-box-office"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 17:37:11",
-      "https://news.ycombinator.com/item?id=47264660"
-    ],
-    [
-      "Case Study: lynnandtonic.com 2025 refresh",
-      "https://lynnandtonic.com/thoughts/entries/case-study-2025-refresh/"
     ]
   ],
   [
