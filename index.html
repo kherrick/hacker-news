@@ -129,6 +129,209 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47311815">
+          <h3>
+            <a
+              class="item"
+              href="https://felixturner.github.io/hex-map-wfc/article/"
+              >Building a Procedural Hex Map with Wave Function Collapse</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-09 @ 17:02:22</span
+              ><span class="points-container"
+                >Points: <span class="points">71</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47311815"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47311745">
+          <h3>
+            <a
+              class="item"
+              href="https://www.cerebrium.ai/blog/rethinking-container-image-distribution-to-eliminate-cold-starts"
+              >The 1979 Design Choice Breaking AI Workloads</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-09 @ 16:59:05</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47311745"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47311669">
+          <h3>
+            <a
+              class="item"
+              href="https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter"
+              >DARPA's new X-76 Experimental Plane</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-09 @ 16:54:31</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47311669"
+                  >Comments</a
+                ><span class="descendants">: 15</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47311657">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=47311657"
+              >Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based
+              agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-09 @ 16:53:52</span
+              ><span class="points-container"
+                >Points: <span class="points">19</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47311657"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.terminaluse.com/"
+                >https://www.terminaluse.com/</a
+              >). We built Terminal Use to make it easier to deploy agents that
+              work in a sandboxed environment and need filesystems to do work.
+              This includes coding agents, research agents, document processing
+              agents, and internal tools that read and write files.
+              <p>
+                Here's a demo:
+                <a href="https://www.youtube.com/watch?v=ttMl96l9xPA"
+                  >https://www.youtube.com/watch?v=ttMl96l9xPA</a
+                >.
+              </p>
+              <p>
+                Our biggest pain point with hosting agents was that you'd need
+                to stitch together multiple pieces: packaging your agent,
+                running it in a sandbox, streaming messages back to users,
+                persisting state across turns, and managing getting files to and
+                from the agent workspace.
+              </p>
+              <p>
+                We wanted something like Cog from Replicate, but for agents: a
+                simple way to package agent code from a repo and serve it behind
+                a clean API/SDK. We wanted to provide a protocol to communicate
+                with your agent, but not constraint the agent logic or harness
+                itself.
+              </p>
+              <p>
+                On Terminal Use, you package your agent from a repo with a
+                config.yaml and Dockerfile, then deploy it with our CLI. You
+                define the logic of three endpoints (on_create, on_event, and
+                on_cancel) which track the lifecycle of a task (conversation).
+                The config.yaml contains details about resources, build context,
+                etc.
+              </p>
+              <p>
+                Out of the box, we support Claude Agent SDK and Codex SDK
+                agents. By support, we mean that we have an adapter that
+                converts from the SDK message types to ours. If you'd like to
+                use your own custom harness, you can convert and send messages
+                with our types (Vercel AI SDK v6 compatible). For the frontend,
+                we have a Vercel AI SDK provider that lets you use your agent
+                with Vercel's AI SDK, and have a messages module so that you
+                don't have to manage streaming and persistence yourself.
+              </p>
+              <p>The part we think is most different is storage.</p>
+              <p>
+                We treat filesystems as first-class primitives, separate from
+                the lifecycle of a task. That means you can persist a workspace
+                across turns, share it between different agents, or upload /
+                download files independent of the sandbox being active. Further,
+                our filesystem SDK provides presigned urls which makes it easy
+                for your users to directly upload and download files which means
+                that you don't need to proxy file transfer through your backend.
+              </p>
+              <p>
+                Since your agent logic and filesystem storage are decoupled,
+                this makes it easy to iterate on your agents without worrying
+                about the files in the sandbox: if you ship a bug, you can
+                deploy and auto-migrate all your tasks to the new deployment. If
+                you make a breaking change, you can specify that existing tasks
+                stay on the existing version, and only new tasks use the new
+                version.
+              </p>
+              <p>
+                We're also adding support for multi-filesystem mounts with
+                configurable mount paths and read/write modes, so storage stays
+                durable and reusable while mount layout stays task-specific.
+              </p>
+              <p>
+                On the deployment side, we've been influenced by modern
+                developer platforms: simple CLI deployments, preview/production
+                environments, git-based environment targeting, logs, and
+                rollback. All the configuration you need to build, deploy &amp;
+                manage resources for your agent is stored in the config.yaml
+                file which makes it easy to build &amp; deploy your agent in
+                CI/CD pipelines.
+              </p>
+              <p>
+                Finally, we've explicitly designed our platform for your CLI
+                coding agents to help you build, test, &amp; iterate with your
+                agents. With our CLI, your coding agents can send messages to
+                your deployed agents, and download filesystem contents to help
+                you understand your agent's output. A common way we test our
+                agents is that we make markdown files with user scenarios we'd
+                like to test, and then ask Claude Code to impersonate our users
+                and chat with our deployed agent.
+              </p>
+              <p>
+                What we do not have yet: full parity with general-purpose
+                sandbox providers. For example, preview URLs and lower-level
+                sandbox.exec(...) style APIs are still on the roadmap.
+              </p>
+              <p>
+                We're excited to hear any thoughts, insights, questions, and
+                concerns in the comments below!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47311456">
+          <h3>
+            <a
+              class="item"
+              href="https://liliputing.com/the-new-jolla-phone-with-sailfish-os-is-on-track-to-start-shipping-in-the-first-half-of-2026/"
+              >Jolla on track to ship new phone with Sailfish OS,
+              user-replaceable battery</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-09 @ 16:41:54</span
+              ><span class="points-container"
+                >Points: <span class="points">71</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47311456"
+                  >Comments</a
+                ><span class="descendants">: 29</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47310556">
           <h3>
             <a
@@ -142,11 +345,11 @@
             <h4>
               <span>2026-03-09 @ 15:44:04</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47310556"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -163,11 +366,33 @@
             <h4>
               <span>2026-03-09 @ 15:23:08</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47310296"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 22</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47310160">
+          <h3>
+            <a
+              class="item"
+              href="https://writings.hongminhee.org/2026/03/legal-vs-legitimate/"
+              >Is legal the same as legitimate: AI reimplementation and the
+              erosion of copyleft</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-09 @ 15:12:53</span
+              ><span class="points-container"
+                >Points: <span class="points">107</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47310160"
+                  >Comments</a
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -184,34 +409,134 @@
             <h4>
               <span>2026-03-09 @ 15:05:09</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47310073"
                   >Comments</a
-                ><span class="descendants">: 182</span></span
+                ><span class="descendants">: 206</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47310054">
+        <section id="47309953">
           <h3>
-            <a
-              class="item"
-              href="https://probablydance.com/2026/03/07/im-getting-a-whiff-of-iain-banks-culture/"
-              >I'm Getting a Whiff of Iain Banks' Culture</a
+            <a class="item" href="https://github.com/DenchHQ/DenchClaw"
+              >Show HN: DenchClaw – Local CRM on Top of OpenClaw</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-09 @ 15:03:22</span
+              <span>2026-03-09 @ 14:55:42</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47310054"
+                ><a href="https://news.ycombinator.com/item?id=47309953"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://denchclaw.com">https://denchclaw.com</a>). We
+              were part of YC S24, an agentic workflow company that previously
+              worked with sales floors automating niche enterprise tasks such as
+              outbound calling, legal intake, etc.
+              <p>
+                Building consumer / power-user software always gave me more joy
+                than FDEing into an enterprise. It did not give me joy to
+                manually add AI tools to a cloud harness for every small new
+                thing, at least not as much as completely local software that is
+                open source and has all the powers of OpenClaw (I can now talk
+                to my CRM on Telegram!).
+              </p>
+              <p>
+                A week ago, we launched Ironclaw, an Open Source OpenClaw CRM
+                Framework (<a
+                  href="https://x.com/garrytan/status/2023518514120937672?s=20"
+                  >https://x.com/garrytan/status/2023518514120937672?s=20</a
+                >) but people confused us with NearAI’s Ironclaw, so we changed
+                our name to DenchClaw (<a href="https://denchclaw.com"
+                  >https://denchclaw.com</a
+                >).
+              </p>
+              <p>
+                OpenClaw today feels like early React: the primitive is
+                incredibly powerful, but the patterns are still forming, and
+                everyone is piecing together their own way to actually use it.
+                What made React explode was the emergence of frameworks like
+                Gatsby and Next.js that turned raw capability into something
+                opinionated, repeatable, and easy to adopt.
+              </p>
+              <p>
+                That is how we think about DenchClaw. We are trying to make it
+                one of the clearest, most practical, and most complete ways to
+                use OpenClaw in the real world.
+              </p>
+              <p>
+                Demo:
+                <a href="https://www.youtube.com/watch?v=pfACTbc3Bh4#t=43"
+                  >https://www.youtube.com/watch?v=pfACTbc3Bh4#t=43</a
+                >
+              </p>
+              <p></p>
+              <pre><code>  npx denchclaw
+</code></pre>
+              It has a CRM focus because we asked a couple dozen hard-core
+              OpenClaw users "what do you actually do", and it was sales
+              automation, lead enrichment, biz dev, creating slides, linkedin
+              outreach, email/notion/calendar stuff, and it's always painful to
+              set up.
+              <p>
+                But I use DenchClaw daily for almost everything I do. It also
+                works as a coding agent like Cursor - DenchClaw built DenchClaw.
+                I am addicted now that I can ask it, “hey in the companies table
+                only show me the ones who have more than 5 employees” and it
+                updates it live than me having to manually add a filter.
+              </p>
+              <p>
+                On Dench, everything sits in a file system, the table filters,
+                views, column toggles, calendar/gantt views, etc, so OpenClaw
+                can directly work with it using Dench’s CRM skill.
+              </p>
+              <p>
+                The CRM is built on top of DuckDB, the smallest, most performant
+                and at the same time also feature rich database we could find.
+                Thank you DuckDB team!
+              </p>
+              <p>
+                It creates a new OpenClaw profile called “dench”, and opens a
+                new OpenClaw Gateway… that means you can run all your usual
+                openclaw commands by just prefixing every command with `openclaw
+                --profile dench` . It will start your gateway on port 19001
+                range. You will be able to access the DenchClaw frontend at
+                localhost:3100. Once you open it on Safari, just add it to your
+                Dock to use it as a PWA.
+              </p>
+              <p>
+                Think of it as Cursor for your Mac (also works on Linux and
+                Windows) which is based on OpenClaw. DenchClaw has a file tree
+                view for you to use it as an elevated finder tool to do anything
+                on your mac. I use it to create slides, do linkedin outreach
+                using MY browser.
+              </p>
+              <p>
+                DenchClaw finds your Chrome Profile and copies it fully into its
+                own, so you won’t have to log in into all your websites again.
+                DenchClaw sees what you see, does what you do. It’s an
+                everything app, that sits locally on your mac.
+              </p>
+              <p>
+                Just ask it “hey import my notion”, “hey import everything from
+                my hubspot”, and it will literally go into your browser, export
+                all objects and documents and put it in its own workspace that
+                you can use.
+              </p>
+              <p>
+                We would love you all to break it, stress test its CRM
+                capabilities, how it streams subagents for lead enrichment, hook
+                it into your Apollo, Gmail, Notion and everything there is.
+                Looking forward to comments/feedback!
+              </p>
+            </div>
           </section>
         </section>
         <section id="47309811">
@@ -227,11 +552,11 @@
             <h4>
               <span>2026-03-09 @ 14:45:12</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47309811"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -246,11 +571,11 @@
             <h4>
               <span>2026-03-09 @ 14:28:43</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47309605"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -267,11 +592,11 @@
             <h4>
               <span>2026-03-09 @ 12:52:20</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47308394"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -288,11 +613,11 @@
             <h4>
               <span>2026-03-09 @ 12:38:46</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47308278"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -309,11 +634,11 @@
             <h4>
               <span>2026-03-09 @ 12:15:07</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47308059"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -331,11 +656,11 @@
             <h4>
               <span>2026-03-09 @ 10:28:08</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47307169"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
             <div class="text">
@@ -363,11 +688,11 @@
             <h4>
               <span>2026-03-09 @ 10:14:59</span
               ><span class="points-container"
-                >Points: <span class="points">607</span></span
+                >Points: <span class="points">644</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47307055"
                   >Comments</a
-                ><span class="descendants">: 361</span></span
+                ><span class="descendants">: 393</span></span
               >
             </h4>
           </section>
@@ -382,11 +707,11 @@
             <h4>
               <span>2026-03-09 @ 09:25:02</span
               ><span class="points-container"
-                >Points: <span class="points">312</span></span
+                >Points: <span class="points">328</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47306655"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 109</span></span
               >
             </h4>
           </section>
@@ -404,11 +729,11 @@
             <h4>
               <span>2026-03-09 @ 06:28:02</span
               ><span class="points-container"
-                >Points: <span class="points">458</span></span
+                >Points: <span class="points">468</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47305461"
                   >Comments</a
-                ><span class="descendants">: 347</span></span
+                ><span class="descendants">: 364</span></span
               >
             </h4>
           </section>
@@ -425,11 +750,11 @@
             <h4>
               <span>2026-03-09 @ 05:37:15</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47305236"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -448,34 +773,12 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47303111"
                   >Comments</a
-                ><span class="descendants">: 884</span></span
+                ><span class="descendants">: 900</span></span
               >
             </h4>
             <div class="text">
               What are you working on? Any new ideas that you're thinking about?
             </div>
-          </section>
-        </section>
-        <section id="47302463">
-          <h3>
-            <a
-              class="item"
-              href="https://offlinemark.com/an-obscure-quirk-of-proc/"
-              >Linux Internals: How /proc/self/mem writes to unwritable memory
-              (2021)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-08 @ 22:50:55</span
-              ><span class="points-container"
-                >Points: <span class="points">117</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47302463"
-                  >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="47301085">
@@ -488,32 +791,11 @@
             <h4>
               <span>2026-03-08 @ 20:30:18</span
               ><span class="points-container"
-                >Points: <span class="points">752</span></span
+                >Points: <span class="points">761</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47301085"
                   >Comments</a
-                ><span class="descendants">: 171</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47298743">
-          <h3>
-            <a
-              class="item"
-              href="https://bryananthonio.com/blog/my-homelab-setup/"
-              >My Homelab Setup</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-08 @ 16:46:10</span
-              ><span class="points-container"
-                >Points: <span class="points">310</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47298743"
-                  >Comments</a
-                ><span class="descendants">: 209</span></span
+                ><span class="descendants">: 172</span></span
               >
             </h4>
           </section>
@@ -530,26 +812,33 @@
             <h4>
               <span>2026-03-08 @ 16:22:24</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47298553"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47298044">
-          <h3><a class="item" href="https://fb.edoo.gg">FrameBook</a></h3>
+        <section id="47296532">
+          <h3>
+            <a
+              class="item"
+              href="https://www.aaronpina.com/lazy-jwt-key-rotation-in-net-redis-powered-jwks-that-just-works/"
+              >Lazy JWT Key Rotation in .NET: Redis-Powered JWKS That Just
+              Works</a
+            >
+          </h3>
           <section>
             <h4>
-              <span>2026-03-08 @ 15:21:09</span
+              <span>2026-03-08 @ 11:37:00</span
               ><span class="points-container"
-                >Points: <span class="points">500</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47298044"
+                ><a href="https://news.ycombinator.com/item?id=47296532"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -566,52 +855,13 @@
             <h4>
               <span>2026-03-08 @ 10:47:21</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47296259"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47295871">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=47295871"
-              >Ask HN: Can I repurpose a Bluetooth voice remote as input device
-              for a PC?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-08 @ 09:30:25</span
-              ><span class="points-container"
-                >Points: <span class="points">8</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47295871"
-                  >Comments</a
-                ><span class="descendants">: 8</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Testing out using Wispr Flow and similar voice inputs -- seems
-                to work fine for some use cases.
-              </p>
-              <p>
-                I also place the laptop on a treadmill sometimes and try to to
-                get some research / browsing / work done. Mouse (trackball) and
-                typing are the current weakest link.
-              </p>
-              <p>
-                are there decent handheld input gadgets that allow simple
-                trackpad / click / scroll up&amp;down / next&amp;previous type
-                of navigation and a push-to-talk voice input? I am looking at
-                cheap remotes for FireTV stick and other streaming boxes that
-                seem to have voice input -- anyway one could hack one of those
-                to do our bidding and pair with a PC?
-              </p>
-            </div>
           </section>
         </section>
         <section id="47294582">
@@ -626,11 +876,11 @@
             <h4>
               <span>2026-03-08 @ 05:04:14</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">246</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47294582"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -645,11 +895,11 @@
             <h4>
               <span>2026-03-07 @ 22:03:37</span
               ><span class="points-container"
-                >Points: <span class="points">582</span></span
+                >Points: <span class="points">590</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47291876"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -666,30 +916,11 @@
             <h4>
               <span>2026-03-06 @ 22:38:47</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47282085"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47276447">
-          <h3>
-            <a class="item" href="https://taylor.town/finger-moon"
-              >The Finger and the Moon</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-06 @ 15:46:53</span
-              ><span class="points-container"
-                >Points: <span class="points">17</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47276447"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -705,32 +936,11 @@
             <h4>
               <span>2026-03-06 @ 08:41:37</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47272531"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47260812">
-          <h3>
-            <a
-              class="item"
-              href="https://bret.dk/every-single-board-computer-i-tested-in-2025/"
-              >Every single board computer I tested in 2025</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-05 @ 12:24:10</span
-              ><span class="points-container"
-                >Points: <span class="points">210</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47260812"
-                  >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -748,11 +958,11 @@
             <h4>
               <span>2026-03-05 @ 09:04:16</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47259366"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 101</span></span
               >
             </h4>
             <div class="text">
@@ -765,27 +975,6 @@
                 <a href="https://archive.ph/1w1oO">https://archive.ph/1w1oO</a>
               </p>
             </div>
-          </section>
-        </section>
-        <section id="47256376">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.yoshuawuyts.com/a-grand-vision-for-rust/"
-              >My “grand vision” for Rust</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-05 @ 01:37:42</span
-              ><span class="points-container"
-                >Points: <span class="points">257</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47256376"
-                  >Comments</a
-                ><span class="descendants">: 281</span></span
-              >
-            </h4>
           </section>
         </section>
       </section>
