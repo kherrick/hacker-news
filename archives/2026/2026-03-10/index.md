@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-10](index.md)
 
 * [2026-03-10, 20:11:54](https://news.ycombinator.com/item?id=47328214) - [RISC-V Is Sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
+* [2026-03-10, 20:02:36](https://news.ycombinator.com/item?id=47328104) - [Iowa Payphone Defends Itself (Associated Press, 1984)](https://www.payphone-project.com/iowa-payphone-defends-itself-ap-story-from-october-1984.html)
 * [2026-03-10, 19:17:26](https://news.ycombinator.com/item?id=47327641) - [New HyperCard discovery: Neuromancer / Count Zero / Mona Lisa Overdrive](https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive)
 * [2026-03-10, 19:12:22](https://news.ycombinator.com/item?id=47327589) - [Google to Discontinue Widevine Cloud License Service in April 2027](https://castlabs.com/blog/widevine-retiring-cloud-license-service/)
 * [2026-03-10, 19:09:46](https://news.ycombinator.com/item?id=47327559) - [You Hired the AI to Write the Tests. Of Course They Pass](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
@@ -43,6 +44,7 @@
 * [2026-03-10, 10:50:30](https://news.ycombinator.com/item?id=47321533) - [Yann LeCun's AI startup raises $1B in Europe's largest ever seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
 * [2026-03-10, 10:45:09](https://news.ycombinator.com/item?id=47321499) - [FreeBSD 14.4-Release Announcement](https://www.freebsd.org/releases/14.4R/announce/)
 * [2026-03-10, 10:07:48](https://news.ycombinator.com/item?id=47321233) - [I put my whole life into a single database](https://howisfelix.today/)
+* [2026-03-10, 10:01:58](https://news.ycombinator.com/item?id=47321188) - [Show HN: What's my JND? – a colour guessing game](https://www.keithcirkel.co.uk/whats-my-jnd/?r=ARUjKP__-ve-)
 * [2026-03-10, 09:51:24](https://news.ycombinator.com/item?id=47321085) - [EVi, a Hard-Fork of Vim](https://codeberg.org/NerdNextDoor/evi)
 * [2026-03-10, 08:54:53](https://news.ycombinator.com/item?id=47320661) - [Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
 * [2026-03-10, 08:48:40](https://news.ycombinator.com/item?id=47320614) - [Levels of Agentic Engineering](https://www.bassimeledath.com/blog/levels-of-agentic-engineering)
