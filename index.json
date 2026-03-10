@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-03-10, 19:59:39",
+      "https://news.ycombinator.com/item?id=47328071"
+    ],
+    [
+      "Against vibes: When is a generative model useful",
+      "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 19:56:52",
       "https://news.ycombinator.com/item?id=47328034"
     ],
@@ -67,6 +77,36 @@
     [
       "Agents that run while I sleep",
       "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 19:02:01",
+      "https://news.ycombinator.com/item?id=47327473"
+    ],
+    [
+      "Mesh over Bluetooth LE, TCP, or Reticulum",
+      "https://github.com/torlando-tech/columba"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 18:52:03",
+      "https://news.ycombinator.com/item?id=47327351"
+    ],
+    [
+      "Show HN: Modulus – Cross-repository knowledge orchestration for coding agents",
+      "https://modulus.so"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 18:38:44",
+      "https://news.ycombinator.com/item?id=47327163"
+    ],
+    [
+      "Networking with agents: Put them in the right conversations with Tailscale",
+      "https://blog.firetiger.com/networking-with-agents-how-to-put-them-in-the-right-conversations/"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2026-03-10, 16:37:29",
-      "https://news.ycombinator.com/item?id=47325595"
-    ],
-    [
-      "I built a programming language using Claude Code",
-      "https://ankursethi.com/blog/programming-language-claude-code/"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 15:08:05",
       "https://news.ycombinator.com/item?id=47324296"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-03-10, 14:50:43",
-      "https://news.ycombinator.com/item?id=47324058"
-    ],
-    [
-      "We are building data breach machines and nobody cares",
-      "https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 14:50:16",
       "https://news.ycombinator.com/item?id=47324054"
     ],
@@ -157,16 +177,6 @@
     [
       "Meta acquires Moltbook",
       "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 13:38:39",
-      "https://news.ycombinator.com/item?id=47323105"
-    ],
-    [
-      "Rebasing in Magit",
-      "https://entropicthoughts.com/rebasing-in-magit"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2026-03-09, 23:37:08",
-      "https://news.ycombinator.com/item?id=47317288"
+      "2026-03-10, 06:11:42",
+      "https://news.ycombinator.com/item?id=47319587"
     ],
     [
-      "Open Weights isn't Open Training",
-      "https://www.workshoplabs.ai/blog/open-weights-open-training"
+      "Ask HN: How are people doing AI evals these days?",
+      "https://news.ycombinator.com/item?id=47319587"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Invoker Commands API",
       "https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 06:45:45",
-      "https://news.ycombinator.com/item?id=47295151"
-    ],
-    [
-      "Show HN: Joha – a free browser-based drawing playground with preset shape tools",
-      "https://joha-app.pages.dev/"
     ]
   ],
   [
