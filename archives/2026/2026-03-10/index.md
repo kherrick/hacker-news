@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-10](index.md)
 
+* [2026-03-10, 22:33:48](https://news.ycombinator.com/item?id=47329608) - [Universal vaccine against respiratory infections and allergens](https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html)
+* [2026-03-10, 22:33:45](https://news.ycombinator.com/item?id=47329605) - [U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
+* [2026-03-10, 22:27:15](https://news.ycombinator.com/item?id=47329557) - [Cloudflare Crawl Endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
 * [2026-03-10, 20:11:54](https://news.ycombinator.com/item?id=47328214) - [RISC-V Is Sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
 * [2026-03-10, 20:02:36](https://news.ycombinator.com/item?id=47328104) - [Iowa Payphone Defends Itself (Associated Press, 1984)](https://www.payphone-project.com/iowa-payphone-defends-itself-ap-story-from-october-1984.html)
 * [2026-03-10, 19:17:26](https://news.ycombinator.com/item?id=47327641) - [New HyperCard discovery: Neuromancer / Count Zero / Mona Lisa Overdrive](https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive)

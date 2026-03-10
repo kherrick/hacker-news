@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-10, 22:33:48](https://news.ycombinator.com/item?id=47329608) - [Universal vaccine against respiratory infections and allergens](https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html)
+* [2026-03-10, 22:33:45](https://news.ycombinator.com/item?id=47329605) - [U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
+* [2026-03-10, 22:27:15](https://news.ycombinator.com/item?id=47329557) - [Cloudflare Crawl Endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
 * [2026-03-10, 20:11:54](https://news.ycombinator.com/item?id=47328214) - [RISC-V Is Sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
-* [2026-03-10, 20:02:36](https://news.ycombinator.com/item?id=47328104) - [Iowa Payphone Defends Itself (Associated Press, 1984)](https://www.payphone-project.com/iowa-payphone-defends-itself-ap-story-from-october-1984.html)
 * [2026-03-10, 19:17:26](https://news.ycombinator.com/item?id=47327641) - [HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive (2022)](https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive)
 * [2026-03-10, 19:09:46](https://news.ycombinator.com/item?id=47327559) - [Agents that run while I sleep](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
 * [2026-03-10, 18:26:39](https://news.ycombinator.com/item?id=47327015) - [FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
@@ -9,7 +11,6 @@
 * [2026-03-10, 17:14:52](https://news.ycombinator.com/item?id=47326101) - [Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon](https://github.com/RunanywhereAI/rcli)
 * [2026-03-10, 17:07:27](https://news.ycombinator.com/item?id=47326025) - [Defeat as Method](https://www.cabinetmagazine.org/issues/71/khosravi.php)
 * [2026-03-10, 16:37:29](https://news.ycombinator.com/item?id=47325595) - [I built a programming language using Claude Code](https://ankursethi.com/blog/programming-language-claude-code/)
-* [2026-03-10, 15:12:52](https://news.ycombinator.com/item?id=47324364) - [Surpassing vLLM with a Generated Inference Stack](https://infinity.inc/case-studies/qwen3-optimization)
 * [2026-03-10, 15:08:05](https://news.ycombinator.com/item?id=47324296) - [Launch HN: Didit (YC W26) – Stripe for Identity Verification](https://news.ycombinator.com/item?id=47324296)
 * [2026-03-10, 14:53:13](https://news.ycombinator.com/item?id=47324087) - [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
 * [2026-03-10, 14:50:43](https://news.ycombinator.com/item?id=47324058) - [We are building data breach machines and nobody cares](https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/)
@@ -27,9 +28,8 @@
 * [2026-03-10, 08:46:53](https://news.ycombinator.com/item?id=47320600) - [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 * [2026-03-09, 23:37:08](https://news.ycombinator.com/item?id=47317288) - [Open Weights isn't Open Training](https://www.workshoplabs.ai/blog/open-weights-open-training)
 * [2026-03-08, 08:16:53](https://news.ycombinator.com/item?id=47295559) - [Invoker Commands API](https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API)
-* [2026-03-07, 19:54:26](https://news.ycombinator.com/item?id=47290918) - [I used pulsar detection techniques to turn a phone into a watch timegrapher](https://www.chronolog.watch/timegrapher)
+* [2026-03-08, 06:45:45](https://news.ycombinator.com/item?id=47295151) - [Show HN: Joha – a free browser-based drawing playground with preset shape tools](https://joha-app.pages.dev/)
 * [2026-03-07, 17:29:54](https://news.ycombinator.com/item?id=47289590) - [Exploring the ocean with Raspberry Pi–powered marine robots](https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/)
-* [2026-03-07, 11:28:37](https://news.ycombinator.com/item?id=47286657) - [The Gervais Principle, or the Office According to “The Office” (2009)](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 
 ## [Archives](archives/index.md)
 

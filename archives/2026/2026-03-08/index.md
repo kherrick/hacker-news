@@ -64,6 +64,7 @@
 * [2026-03-08, 08:11:50](https://news.ycombinator.com/item?id=47295537) - [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)
 * [2026-03-08, 07:52:38](https://news.ycombinator.com/item?id=47295454) - [New Research Reassesses the Value of Agents.md Files for AI Coding](https://www.infoq.com/news/2026/03/agents-context-file-value-review/)
 * [2026-03-08, 07:16:15](https://news.ycombinator.com/item?id=47295279) - [Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope](https://curiosity-telescope.vercel.app/)
+* [2026-03-08, 06:45:45](https://news.ycombinator.com/item?id=47295151) - [Show HN: Joha – a free browser-based drawing playground with preset shape tools](https://joha-app.pages.dev/)
 * [2026-03-08, 06:21:28](https://news.ycombinator.com/item?id=47295040) - [To the Polypropylene Makers](https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers)
 * [2026-03-08, 06:01:26](https://news.ycombinator.com/item?id=47294924) - [Sem – Semantic version control. Entity-level diffs on top of Git](https://github.com/ataraxy-labs/sem)
 * [2026-03-08, 05:04:14](https://news.ycombinator.com/item?id=47294582) - [PCB devboard the size of a USB-C plug](https://github.com/Dieu-de-l-elec/AngstromIO-devboard)
