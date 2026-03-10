@@ -6,6 +6,7 @@
 
 * [2026-03-09, 23:43:29](https://news.ycombinator.com/item?id=47317348) - [Getting Started in Common Lisp](https://lisp-stat.dev/blog/2026/03/09/getting-started/)
 * [2026-03-09, 23:38:35](https://news.ycombinator.com/item?id=47317306) - [The Cost of 'Lightweight' Frameworks: From Tauri to Native Rust](https://www.gethopp.app/blog/hate-webkit)
+* [2026-03-09, 23:37:08](https://news.ycombinator.com/item?id=47317288) - [Open Weights Isn't Open Training](https://www.workshoplabs.ai/blog/open-weights-open-training)
 * [2026-03-09, 23:22:06](https://news.ycombinator.com/item?id=47317132) - [No, it doesn't cost Anthropic $5k per Claude Code user](https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/)
 * [2026-03-09, 23:19:31](https://news.ycombinator.com/item?id=47317115) - [Helios: Real real-time long video generation model](https://www.alphaxiv.org/abs/2603.04379)
 * [2026-03-09, 22:55:09](https://news.ycombinator.com/item?id=47316880) - [Sir Tony Hoare has died](http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
