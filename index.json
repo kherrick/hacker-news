@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-03-10, 16:17:55",
-      "https://news.ycombinator.com/item?id=47325280"
+      "2026-03-10, 17:14:52",
+      "https://news.ycombinator.com/item?id=47326101"
     ],
     [
-      "Ad-tech is fascist tech",
-      "https://pluralistic.net/2026/03/10/ice-tech/#foreseeable-outcomes"
+      "Show HN: RunAnwhere – Faster AI Inference on Apple Silicon",
+      "https://github.com/RunanywhereAI/rcli"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 16:37:29",
+      "https://news.ycombinator.com/item?id=47325595"
+    ],
+    [
+      "I built a programming language using Claude Code",
+      "https://ankursethi.com/blog/programming-language-claude-code/"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 16:24:26",
+      "https://news.ycombinator.com/item?id=47325381"
+    ],
+    [
+      "$3 ChromeOS Flex stick will revive old and outdated computers",
+      "https://9to5google.com/2026/03/10/this-3-chromeos-stick-will-revive-old-and-outdated-computers/"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "Debian decides not to decide on AI-generated contributions",
       "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 14:50:43",
+      "https://news.ycombinator.com/item?id=47324058"
+    ],
+    [
+      "We are building data breach machines and nobody cares",
+      "https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-03-10, 08:54:53",
-      "https://news.ycombinator.com/item?id=47320661"
-    ],
-    [
-      "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 06:16:06",
       "https://news.ycombinator.com/item?id=47319620"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2026-03-09, 17:02:22",
-      "https://news.ycombinator.com/item?id=47311815"
+      "2026-03-07, 19:54:26",
+      "https://news.ycombinator.com/item?id=47290918"
     ],
     [
-      "Building a Procedural Hex Map with Wave Function Collapse",
-      "https://felixturner.github.io/hex-map-wfc/article/"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 16:43:39",
-      "https://news.ycombinator.com/item?id=47311484"
-    ],
-    [
-      "JSLinux Now Supports x86_64",
-      "https://bellard.org/jslinux/"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 22:54:17",
-      "https://news.ycombinator.com/item?id=47302493"
-    ],
-    [
-      "Optimizing Top K in Postgres",
-      "https://www.paradedb.com/blog/optimizing-top-k"
+      "I used pulsar detection techniques to turn a phone into a watch timegrapher",
+      "https://www.chronolog.watch/timegrapher"
     ]
   ],
   [
