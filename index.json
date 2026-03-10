@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-10, 02:24:52",
+      "https://news.ycombinator.com/item?id=47318421"
+    ],
+    [
+      "Learnings from paying artists royalties for AI-generated art",
+      "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 00:35:19",
       "https://news.ycombinator.com/item?id=47317739"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=47315128"
     ],
     [
-      "Oracle is building yesterday's data centers with tomorrow's debt",
+      "OpenAI is walking away from expanding its Stargate data center with Oracle",
       "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html"
     ]
   ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2026-03-08, 05:02:38",
-      "https://news.ycombinator.com/item?id=47294568"
+      "2026-03-07, 16:24:24",
+      "https://news.ycombinator.com/item?id=47289007"
     ],
     [
-      "Velxio, Arduino Emulator",
-      "https://velxio.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-03-07, 11:05:38",
-      "https://news.ycombinator.com/item?id=47286511"
-    ],
-    [
-      "“ma” is a minimalistic clone of the acme[1] editor used in Plan 9",
-      "http://www.call-with-current-continuation.org/ma/README"
+      "Graphing how the 10k* most common English words define each other",
+      "https://wyattsell.com/experiments/word-graph/"
     ]
   ],
   [
