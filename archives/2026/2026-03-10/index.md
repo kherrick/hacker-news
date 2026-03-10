@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-10](index.md)
 
+* [2026-03-10, 20:11:54](https://news.ycombinator.com/item?id=47328214) - [RISC-V Is Sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
 * [2026-03-10, 19:17:26](https://news.ycombinator.com/item?id=47327641) - [New HyperCard discovery: Neuromancer / Count Zero / Mona Lisa Overdrive](https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive)
 * [2026-03-10, 19:12:22](https://news.ycombinator.com/item?id=47327589) - [Google to Discontinue Widevine Cloud License Service in April 2027](https://castlabs.com/blog/widevine-retiring-cloud-license-service/)
 * [2026-03-10, 19:09:46](https://news.ycombinator.com/item?id=47327559) - [You Hired the AI to Write the Tests. Of Course They Pass](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)

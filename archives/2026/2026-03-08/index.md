@@ -76,6 +76,7 @@
 * [2026-03-08, 01:50:45](https://news.ycombinator.com/item?id=47293514) - [Iranian Women Graduate in Stem 3× the Rate of U.S. Women and Has 5× More PhDs](https://hrnews1.substack.com/p/iranian-women-graduate-in-stem-at)
 * [2026-03-08, 01:46:05](https://news.ycombinator.com/item?id=47293482) - [They all said Hormuz closure would be brief. What if they were wrong?](https://www.lloydslist.com/LL1156532/They-all-said-Hormuz-closure-would-be-brief-What-if-they-were-wrong)
 * [2026-03-08, 01:35:21](https://news.ycombinator.com/item?id=47293415) - [\"Warn about PyPy being unmaintained\"](https://github.com/astral-sh/uv/pull/17643)
+* [2026-03-08, 01:20:05](https://news.ycombinator.com/item?id=47293337) - [Roblox is minting teen millionaires](https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry)
 * [2026-03-08, 00:57:57](https://news.ycombinator.com/item?id=47293195) - [Pushing and Pulling: Three reactivity algorithms](https://jonathan-frere.com/posts/reactivity-algorithms/)
 * [2026-03-08, 00:44:32](https://news.ycombinator.com/item?id=47293119) - [Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
 * [2026-03-08, 00:15:24](https://news.ycombinator.com/item?id=47292902) - [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/)
