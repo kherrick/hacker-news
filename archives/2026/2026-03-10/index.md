@@ -4,10 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-03-10](index.md)
 
+* [2026-03-10, 15:08:05](https://news.ycombinator.com/item?id=47324296) - [Launch HN: Didit (YC W26) – Stripe for Identity Verification](https://news.ycombinator.com/item?id=47324296)
+* [2026-03-10, 15:01:35](https://news.ycombinator.com/item?id=47324211) - [Amazon is holding a mandatory meeting about AI breaking its systems](https://twitter.com/lukolejnik/status/2031257644724342957)
+* [2026-03-10, 14:53:13](https://news.ycombinator.com/item?id=47324087) - [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+* [2026-03-10, 14:50:16](https://news.ycombinator.com/item?id=47324054) - [Turing Award winner and former Oxford professor Tony Hoare passed away](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
+* [2026-03-10, 14:38:06](https://news.ycombinator.com/item?id=47323900) - [Meta hires duo behind Moltbook](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)
+* [2026-03-10, 14:37:55](https://news.ycombinator.com/item?id=47323891) - [RFC 454545 – Human Em Dash Standard](https://gist.github.com/bignimbus/a75cc9d703abf0b21a57c0d21a79e2be)
 * [2026-03-10, 13:38:39](https://news.ycombinator.com/item?id=47323105) - [Rebasing in Magit](https://entropicthoughts.com/rebasing-in-magit)
 * [2026-03-10, 13:32:05](https://news.ycombinator.com/item?id=47323028) - [Germany's Solar Boom Eases Power Costs as Gas Price Jumps](https://www.bloomberg.com/news/articles/2026-03-06/germany-s-solar-boom-eases-power-costs-as-gas-price-jumps)
 * [2026-03-10, 13:29:21](https://news.ycombinator.com/item?id=47322998) - [Sending Jabber/XMPP Messages via HTTP](https://gultsch.de/posts/xmpp-via-http/)
 * [2026-03-10, 13:26:47](https://news.ycombinator.com/item?id=47322966) - [Hisense TVs add unskippable startup ads before live TV](https://www.guru3d.com/story/hisense-vidaa-tvs-reportedly-add-unskippable-startup-ads-before-live-tv/)
+* [2026-03-10, 13:18:55](https://news.ycombinator.com/item?id=47322887) - [Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs](https://dnhkng.github.io/posts/rys/)
 * [2026-03-10, 13:13:48](https://news.ycombinator.com/item?id=47322838) - [Show HN: DD Photos – open-source photo album site generator (Go and SvelteKit)](https://github.com/dougdonohoe/ddphotos)
 * [2026-03-10, 13:10:48](https://news.ycombinator.com/item?id=47322815) - [Intel Demos Chip to Compute with Encrypted Data](https://spectrum.ieee.org/fhe-intel)
 * [2026-03-10, 13:09:00](https://news.ycombinator.com/item?id=47322794) - [SHOW HN: A usage circuit breaker for Cloudflare Workers](https://news.ycombinator.com/item?id=47322794)
