@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-09](index.md)
 
+* [2026-03-09, 23:38:35](https://news.ycombinator.com/item?id=47317306) - [The Cost of 'Lightweight' Frameworks: From Tauri to Native Rust](https://www.gethopp.app/blog/hate-webkit)
 * [2026-03-09, 23:19:31](https://news.ycombinator.com/item?id=47317115) - [Helios: Real real-time long video generation model](https://www.alphaxiv.org/abs/2603.04379)
 * [2026-03-09, 22:55:09](https://news.ycombinator.com/item?id=47316880) - [Sir Tony Hoare has died](http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
 * [2026-03-09, 21:34:45](https://news.ycombinator.com/item?id=47315869) - [Rendezvous with Rama](https://blog.engora.com/2026/03/rendezvous-with-rama.html)

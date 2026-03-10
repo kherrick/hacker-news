@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-09, 23:38:35](https://news.ycombinator.com/item?id=47317306) - [The Cost of 'Lightweight' Frameworks: From Tauri to Native Rust](https://www.gethopp.app/blog/hate-webkit)
 * [2026-03-09, 23:19:31](https://news.ycombinator.com/item?id=47317115) - [Helios: Real real-time long video generation model](https://www.alphaxiv.org/abs/2603.04379)
 * [2026-03-09, 22:55:09](https://news.ycombinator.com/item?id=47316880) - [Sir Tony Hoare has died](http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
 * [2026-03-09, 21:34:45](https://news.ycombinator.com/item?id=47315869) - [Rendezvous with Rama](https://blog.engora.com/2026/03/rendezvous-with-rama.html)
@@ -17,7 +18,6 @@
 * [2026-03-09, 16:54:31](https://news.ycombinator.com/item?id=47311669) - [DARPA’s new X-76](https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter)
 * [2026-03-09, 16:53:52](https://news.ycombinator.com/item?id=47311657) - [Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents](https://news.ycombinator.com/item?id=47311657)
 * [2026-03-09, 16:43:39](https://news.ycombinator.com/item?id=47311484) - [JSLinux Now Supports x86_64](https://bellard.org/jslinux/)
-* [2026-03-09, 16:41:54](https://news.ycombinator.com/item?id=47311456) - [Jolla on track to ship new phone with Sailfish OS, user-replaceable battery](https://liliputing.com/the-new-jolla-phone-with-sailfish-os-is-on-track-to-start-shipping-in-the-first-half-of-2026/)
 * [2026-03-09, 16:24:22](https://news.ycombinator.com/item?id=47311179) - [An opinionated take on how to do important research that matters](https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html)
 * [2026-03-09, 15:23:08](https://news.ycombinator.com/item?id=47310296) - [Restoring a Sun SPARCstation IPX part 1: PSU and NVRAM (2020)](https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram)
 * [2026-03-09, 15:12:53](https://news.ycombinator.com/item?id=47310160) - [Is legal the same as legitimate: AI reimplementation and the erosion of copyleft](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
