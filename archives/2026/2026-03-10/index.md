@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-10](index.md)
 
+* [2026-03-10, 16:17:55](https://news.ycombinator.com/item?id=47325280) - [Ad-tech is fascist tech](https://pluralistic.net/2026/03/10/ice-tech/#foreseeable-outcomes)
 * [2026-03-10, 15:08:05](https://news.ycombinator.com/item?id=47324296) - [Launch HN: Didit (YC W26) – Stripe for Identity Verification](https://news.ycombinator.com/item?id=47324296)
 * [2026-03-10, 15:01:35](https://news.ycombinator.com/item?id=47324211) - [Amazon is holding a mandatory meeting about AI breaking its systems](https://twitter.com/lukolejnik/status/2031257644724342957)
 * [2026-03-10, 14:53:13](https://news.ycombinator.com/item?id=47324087) - [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
