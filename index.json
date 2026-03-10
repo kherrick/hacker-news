@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2026-03-10, 10:45:09",
+      "https://news.ycombinator.com/item?id=47321499"
+    ],
+    [
+      "FreeBSD 14.4-Release Announcement",
+      "https://www.freebsd.org/releases/14.4R/announce/"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 10:07:48",
       "https://news.ycombinator.com/item?id=47321233"
     ],
     [
       "I put my whole life into a single database",
       "https://howisfelix.today/"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 09:51:24",
+      "https://news.ycombinator.com/item?id=47321085"
+    ],
+    [
+      "EVi, a Hard-Fork of Vim",
+      "https://codeberg.org/NerdNextDoor/evi"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
       "https://loger-project.github.io"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 05:29:48",
-      "https://news.ycombinator.com/item?id=47319387"
-    ],
-    [
-      "Baochip-1x: A Mostly-Open, 22nm SoC for High Assurance Applications",
-      "https://www.bunniestudios.com/blog/2026/baochip-1x-a-mostly-open-22nm-soc-for-high-assurance-applications/"
     ]
   ],
   [
@@ -101,32 +111,12 @@
   ],
   [
     [
-      "2026-03-09, 23:43:29",
-      "https://news.ycombinator.com/item?id=47317348"
-    ],
-    [
-      "Getting Started in Common Lisp",
-      "https://lisp-stat.dev/blog/2026/03/09/getting-started/"
-    ]
-  ],
-  [
-    [
       "2026-03-09, 23:22:06",
       "https://news.ycombinator.com/item?id=47317132"
     ],
     [
       "No, it doesn't cost Anthropic $5k per Claude Code user",
       "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 19:12:14",
-      "https://news.ycombinator.com/item?id=47313934"
-    ],
-    [
-      "Notes on Baking at the South Pole",
-      "https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world"
     ]
   ],
   [
@@ -225,7 +215,7 @@
       "https://news.ycombinator.com/item?id=47286657"
     ],
     [
-      "The Gervais Principle, or the Office According to \"The Office\"",
+      "The Gervais Principle, or the Office According to \"The Office\" (2009)",
       "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "The hidden compile-time cost of C++26 reflection",
       "https://vittorioromeo.com/index/blog/refl_compiletime.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 15:59:29",
+      "https://news.ycombinator.com/item?id=47276644"
+    ],
+    [
+      "Caxlsx: Ruby gem for xlsx generation with charts, images, schema validation",
+      "https://github.com/caxlsx/caxlsx"
     ]
   ],
   [
