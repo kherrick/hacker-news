@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-10, 10:50:30](https://news.ycombinator.com/item?id=47321533) - [Yann LeCun's AI startup raises $1B in Europe's largest ever seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+* [2026-03-10, 10:07:48](https://news.ycombinator.com/item?id=47321233) - [I put my whole life into a single database](https://howisfelix.today/)
 * [2026-03-10, 08:54:53](https://news.ycombinator.com/item?id=47320661) - [Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
 * [2026-03-10, 06:16:06](https://news.ycombinator.com/item?id=47319620) - [LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)](https://loger-project.github.io)
 * [2026-03-10, 05:04:23](https://news.ycombinator.com/item?id=47319255) - [Show HN: I Was Here – Draw on street view, others can find your drawings](https://washere.live)
@@ -19,7 +21,6 @@
 * [2026-03-09, 15:12:53](https://news.ycombinator.com/item?id=47310160) - [Is legal the same as legitimate: AI reimplementation and the erosion of copyleft](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
 * [2026-03-09, 14:55:42](https://news.ycombinator.com/item?id=47309953) - [Show HN: DenchClaw – Local CRM on Top of OpenClaw](https://github.com/DenchHQ/DenchClaw)
 * [2026-03-09, 12:15:07](https://news.ycombinator.com/item?id=47308059) - [No leap second will be introduced at the end of June 2026](https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/)
-* [2026-03-09, 10:14:59](https://news.ycombinator.com/item?id=47307055) - [Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)](https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/)
 * [2026-03-08, 22:54:17](https://news.ycombinator.com/item?id=47302493) - [Optimizing Top K in Postgres](https://www.paradedb.com/blog/optimizing-top-k)
 * [2026-03-07, 16:24:24](https://news.ycombinator.com/item?id=47289007) - [Graphing how the 10k* most common English words define each other](https://wyattsell.com/experiments/word-graph/)
 * [2026-03-07, 11:28:37](https://news.ycombinator.com/item?id=47286657) - [The Gervais Principle, or the Office According to \"The Office\"](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
@@ -28,7 +29,6 @@
 * [2026-03-06, 19:20:18](https://news.ycombinator.com/item?id=47279761) - [macOS Tahoe windows have different corner radiuses](https://lapcatsoftware.com/articles/2026/3/1.html)
 * [2026-03-06, 19:11:24](https://news.ycombinator.com/item?id=47279633) - [Lotus 1-2-3 on the PC with DOS](https://stonetools.ghost.io/lotus123-dos/)
 * [2026-03-06, 17:10:45](https://news.ycombinator.com/item?id=47277865) - [The hidden compile-time cost of C++26 reflection](https://vittorioromeo.com/index/blog/refl_compiletime.html)
-* [2026-03-06, 17:03:39](https://news.ycombinator.com/item?id=47277735) - [A useless infinite scroll experiment](https://futile.ch/en/)
 * [2026-03-06, 15:40:45](https://news.ycombinator.com/item?id=47276343) - [Darkrealms BBS](http://www.darkrealms.ca/)
 
 ## [Archives](archives/index.md)
