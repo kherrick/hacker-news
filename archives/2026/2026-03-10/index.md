@@ -28,6 +28,7 @@
 * [2026-03-10, 14:37:55](https://news.ycombinator.com/item?id=47323891) - [RFC 454545 – Human Em Dash Standard](https://gist.github.com/bignimbus/a75cc9d703abf0b21a57c0d21a79e2be)
 * [2026-03-10, 13:38:39](https://news.ycombinator.com/item?id=47323105) - [Rebasing in Magit](https://entropicthoughts.com/rebasing-in-magit)
 * [2026-03-10, 13:32:05](https://news.ycombinator.com/item?id=47323028) - [Germany's Solar Boom Eases Power Costs as Gas Price Jumps](https://www.bloomberg.com/news/articles/2026-03-06/germany-s-solar-boom-eases-power-costs-as-gas-price-jumps)
+* [2026-03-10, 13:31:17](https://news.ycombinator.com/item?id=47323017) - [After outages, Amazon to make senior engineers sign off on AI-assisted changes](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 * [2026-03-10, 13:29:21](https://news.ycombinator.com/item?id=47322998) - [Sending Jabber/XMPP Messages via HTTP](https://gultsch.de/posts/xmpp-via-http/)
 * [2026-03-10, 13:26:47](https://news.ycombinator.com/item?id=47322966) - [Hisense TVs add unskippable startup ads before live TV](https://www.guru3d.com/story/hisense-vidaa-tvs-reportedly-add-unskippable-startup-ads-before-live-tv/)
 * [2026-03-10, 13:18:55](https://news.ycombinator.com/item?id=47322887) - [Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs](https://dnhkng.github.io/posts/rys/)
