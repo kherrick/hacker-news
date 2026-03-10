@@ -37,6 +37,7 @@
 * [2026-03-06, 16:46:50](https://news.ycombinator.com/item?id=47277420) - [Supertoast Tables](https://hatchet.run/blog/supertoast-tables)
 * [2026-03-06, 16:19:56](https://news.ycombinator.com/item?id=47276952) - [CBP says it can't comply with refund order](https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html)
 * [2026-03-06, 16:14:30](https://news.ycombinator.com/item?id=47276865) - [Astra: An open-source observatory control software](https://github.com/ppp-one/astra)
+* [2026-03-06, 15:59:29](https://news.ycombinator.com/item?id=47276644) - [Caxlsx: Ruby gem for xlsx generation with charts, images, schema validation](https://github.com/caxlsx/caxlsx)
 * [2026-03-06, 15:57:27](https://news.ycombinator.com/item?id=47276604) - [Show HN: Claude-replay – A video-like player for Claude Code sessions](https://github.com/es617/claude-replay)
 * [2026-03-06, 15:53:32](https://news.ycombinator.com/item?id=47276539) - [Entomologists Use a Particle Accelerator to Image Ants at Scale](https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan)
 * [2026-03-06, 15:46:53](https://news.ycombinator.com/item?id=47276447) - [The Finger and the Moon](https://taylor.town/finger-moon)
