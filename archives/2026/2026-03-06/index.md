@@ -22,6 +22,7 @@
 * [2026-03-06, 20:19:26](https://news.ycombinator.com/item?id=47280550) - [Why it takes you and an elephant the same amount of time to poop](https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop)
 * [2026-03-06, 20:03:48](https://news.ycombinator.com/item?id=47280352) - [Ada 2022](https://www.adaic.org/ada-resources/standards/ada22/)
 * [2026-03-06, 19:52:08](https://news.ycombinator.com/item?id=47280200) - [Anthropic, Please Make a New Slack](https://www.fivetran.com/blog/anthropic-please-make-a-new-slack)
+* [2026-03-06, 19:20:18](https://news.ycombinator.com/item?id=47279761) - [macOS Tahoe windows have different corner radiuses](https://lapcatsoftware.com/articles/2026/3/1.html)
 * [2026-03-06, 19:11:24](https://news.ycombinator.com/item?id=47279633) - [Lotus 1-2-3 on the PC with DOS](https://stonetools.ghost.io/lotus123-dos/)
 * [2026-03-06, 18:45:37](https://news.ycombinator.com/item?id=47279251) - [New imagery suggests U.S. responsible for Iran school strike](https://www.cnn.com/2026/03/06/world/video/updates-suggests-us-responsible-iran-school-strike-digvid)
 * [2026-03-06, 18:40:27](https://news.ycombinator.com/item?id=47279189) - [TSA leaves passenger needing surgery after illegally forcing her through scanner](https://www.thetravel.com/tsa-leaves-passenger-needing-surgery-after-illegally-forcing-her-through-scanner-spinal-cord-implant/)
