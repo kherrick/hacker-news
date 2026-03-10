@@ -29,6 +29,7 @@
 * [2026-03-07, 16:56:53](https://news.ycombinator.com/item?id=47289331) - [The Banality of Surveillance](https://benn.substack.com/p/the-banality-of-surveillance)
 * [2026-03-07, 16:55:18](https://news.ycombinator.com/item?id=47289311) - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
 * [2026-03-07, 16:36:19](https://news.ycombinator.com/item?id=47289123) - [Tech jobs are getting demolished in ways not seen since 2008](https://www.businessinsider.com/tech-jobs-getting-demolished-great-recession-dot-com-era-2026-3)
+* [2026-03-07, 16:24:24](https://news.ycombinator.com/item?id=47289007) - [Graphing how the 10k* most common English words define each other](https://wyattsell.com/experiments/word-graph/)
 * [2026-03-07, 15:38:18](https://news.ycombinator.com/item?id=47288571) - [Show HN: Argus – VSCode debugger for Claude Code sessions](https://github.com/yessGlory17/argus)
 * [2026-03-07, 15:33:36](https://news.ycombinator.com/item?id=47288533) - [The Millisecond That Could Change Cancer Treatment](https://spectrum.ieee.org/flash-radiotherapy)
 * [2026-03-07, 14:38:29](https://news.ycombinator.com/item?id=47288046) - [LLM Doesn't Write Correct Code. It Writes Plausible Code](https://twitter.com/KatanaLarp/status/2029928471632224486)
