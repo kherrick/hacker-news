@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-03-10, 19:17:26",
+      "https://news.ycombinator.com/item?id=47327641"
+    ],
+    [
+      "New HyperCard discovery: Neuromancer / Count Zero / Mona Lisa Overdrive",
+      "https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 19:12:22",
+      "https://news.ycombinator.com/item?id=47327589"
+    ],
+    [
+      "Google to Discontinue Widevine Cloud License Service in April 2027",
+      "https://castlabs.com/blog/widevine-retiring-cloud-license-service/"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 19:09:46",
+      "https://news.ycombinator.com/item?id=47327559"
+    ],
+    [
+      "You Hired the AI to Write the Tests. Of Course They Pass",
+      "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 18:37:18",
+      "https://news.ycombinator.com/item?id=47327143"
+    ],
+    [
+      "Maybe the G in AGI stands for Gemini",
+      "https://www.robinsloan.com/lab/gemini-agi/"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 18:26:39",
+      "https://news.ycombinator.com/item?id=47327015"
+    ],
+    [
+      "FFmpeg-over-IP – Connect to remote FFmpeg servers",
+      "https://github.com/steelbrain/ffmpeg-over-ip"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 17:49:53",
       "https://news.ycombinator.com/item?id=47326555"
     ],
@@ -17,16 +67,6 @@
     [
       "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
       "https://github.com/RunanywhereAI/rcli"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 17:07:59",
-      "https://news.ycombinator.com/item?id=47326034"
-    ],
-    [
-      "Isotopic Evidence for a Cold and Distant Origin of Interstellar Object 3I/Atlas",
-      "https://arxiv.org/abs/2603.06911"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2026-03-10, 11:58:36",
-      "https://news.ycombinator.com/item?id=47322033"
-    ],
-    [
-      "PgAdmin 4 9.13 with AI Assistant Panel",
-      "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 10:07:48",
       "https://news.ycombinator.com/item?id=47321233"
     ],
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2026-03-08, 13:54:08",
-      "https://news.ycombinator.com/item?id=47297326"
-    ],
-    [
-      "Bypassing Apache Fop PostScript Escaping to Reach GhostScript",
-      "https://offsec.almond.consulting/bypassing-apache-fop-escaping-to-reach-ghostscript.html"
-    ]
-  ],
-  [
-    [
       "2026-03-07, 20:22:48",
       "https://news.ycombinator.com/item?id=47291124"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-03-07, 18:56:56",
-      "https://news.ycombinator.com/item?id=47290426"
-    ],
-    [
-      "A new Oracle Solaris Common Build Environment (CBE) release",
-      "https://blogs.oracle.com/solaris/announcing-a-new-version-of-our-oracle-solaris-environment-for-developers"
-    ]
-  ],
-  [
-    [
       "2026-03-07, 11:28:37",
       "https://news.ycombinator.com/item?id=47286657"
     ],
     [
       "The Gervais Principle, or the Office According to \"The Office\" (2009)",
       "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/"
-    ]
-  ],
-  [
-    [
-      "2026-03-07, 05:31:13",
-      "https://news.ycombinator.com/item?id=47284781"
-    ],
-    [
-      "How many options fit into a boolean?",
-      "https://herecomesthemoon.net/2025/11/how-many-options-fit-into-a-boolean/"
     ]
   ]
 ]
