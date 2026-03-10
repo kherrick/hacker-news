@@ -20,6 +20,7 @@
 * [2026-03-07, 20:32:49](https://news.ycombinator.com/item?id=47291202) - [Sam Altman's greed and dishonesty are finally catching up to him](https://garymarcus.substack.com/p/breaking-sam-altmans-greed-and-dishonesty)
 * [2026-03-07, 20:22:45](https://news.ycombinator.com/item?id=47291123) - [Autoresearch: Agents researching on single-GPU nanochat training automatically](https://github.com/karpathy/autoresearch)
 * [2026-03-07, 20:09:30](https://news.ycombinator.com/item?id=47291036) - [War Prediction Markets Are a National-Security Threat](https://www.theatlantic.com/technology/2026/03/polymarket-insider-trading-going-get-people-killed/686283/)
+* [2026-03-07, 19:54:26](https://news.ycombinator.com/item?id=47290918) - [I used pulsar detection techniques to turn a phone into a watch timegrapher](https://www.chronolog.watch/timegrapher)
 * [2026-03-07, 19:42:23](https://news.ycombinator.com/item?id=47290809) - [On Being a Dad](https://www.derekthompson.org/p/three-reasons-to-be-a-parent)
 * [2026-03-07, 19:01:01](https://news.ycombinator.com/item?id=47290457) - [We're Training Students to Write Worse to Prove They're Not Robots](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 * [2026-03-07, 18:56:56](https://news.ycombinator.com/item?id=47290426) - [A New Version of Our Oracle Solaris Environment for Developers](https://blogs.oracle.com/solaris/announcing-a-new-version-of-our-oracle-solaris-environment-for-developers)

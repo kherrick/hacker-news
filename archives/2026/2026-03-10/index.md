@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-03-10](index.md)
 
+* [2026-03-10, 17:14:52](https://news.ycombinator.com/item?id=47326101) - [Show HN: RunAnwhere – Faster AI Inference on Apple Silicon](https://github.com/RunanywhereAI/rcli)
+* [2026-03-10, 16:37:29](https://news.ycombinator.com/item?id=47325595) - [I built a programming language using Claude Code](https://ankursethi.com/blog/programming-language-claude-code/)
+* [2026-03-10, 16:24:26](https://news.ycombinator.com/item?id=47325381) - [$3 ChromeOS Flex stick will revive old and outdated computers](https://9to5google.com/2026/03/10/this-3-chromeos-stick-will-revive-old-and-outdated-computers/)
 * [2026-03-10, 16:17:55](https://news.ycombinator.com/item?id=47325280) - [Ad-tech is fascist tech](https://pluralistic.net/2026/03/10/ice-tech/#foreseeable-outcomes)
 * [2026-03-10, 15:08:05](https://news.ycombinator.com/item?id=47324296) - [Launch HN: Didit (YC W26) – Stripe for Identity Verification](https://news.ycombinator.com/item?id=47324296)
 * [2026-03-10, 15:01:35](https://news.ycombinator.com/item?id=47324211) - [Amazon is holding a mandatory meeting about AI breaking its systems](https://twitter.com/lukolejnik/status/2031257644724342957)
 * [2026-03-10, 14:53:13](https://news.ycombinator.com/item?id=47324087) - [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+* [2026-03-10, 14:50:43](https://news.ycombinator.com/item?id=47324058) - [We are building data breach machines and nobody cares](https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/)
 * [2026-03-10, 14:50:16](https://news.ycombinator.com/item?id=47324054) - [Turing Award winner and former Oxford professor Tony Hoare passed away](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
 * [2026-03-10, 14:38:06](https://news.ycombinator.com/item?id=47323900) - [Meta hires duo behind Moltbook](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)
 * [2026-03-10, 14:37:55](https://news.ycombinator.com/item?id=47323891) - [RFC 454545 – Human Em Dash Standard](https://gist.github.com/bignimbus/a75cc9d703abf0b21a57c0d21a79e2be)
