@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-10, 17:49:53",
+      "https://news.ycombinator.com/item?id=47326555"
+    ],
+    [
+      "Billion-Parameter Theories",
+      "https://www.worldgov.org/complexity.html"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 17:14:52",
       "https://news.ycombinator.com/item?id=47326101"
     ],
     [
       "Show HN: RunAnwhere – Faster AI Inference on Apple Silicon",
       "https://github.com/RunanywhereAI/rcli"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 17:07:27",
+      "https://news.ycombinator.com/item?id=47326025"
+    ],
+    [
+      "Defeat as Method",
+      "https://www.cabinetmagazine.org/issues/71/khosravi.php"
     ]
   ],
   [
@@ -21,12 +41,32 @@
   ],
   [
     [
-      "2026-03-10, 16:24:26",
-      "https://news.ycombinator.com/item?id=47325381"
+      "2026-03-10, 15:35:19",
+      "https://news.ycombinator.com/item?id=47324691"
     ],
     [
-      "$3 ChromeOS Flex stick will revive old and outdated computers",
-      "https://9to5google.com/2026/03/10/this-3-chromeos-stick-will-revive-old-and-outdated-computers/"
+      "Throwing away 18 months of code and starting over",
+      "https://tompiagg.io/posts/we-threw-away-1-5-years-of-code"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 15:18:39",
+      "https://news.ycombinator.com/item?id=47324448"
+    ],
+    [
+      "The Enterprise Context Layer",
+      "https://andychen32.substack.com/p/the-enterprise-context-layer"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 15:12:52",
+      "https://news.ycombinator.com/item?id=47324364"
+    ],
+    [
+      "Surpassing vLLM with a Generated Inference Stack",
+      "https://infinity.inc/case-studies/qwen3-optimization"
     ]
   ],
   [
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2026-03-10, 12:55:14",
-      "https://news.ycombinator.com/item?id=47322629"
-    ],
-    [
-      "Traffic from Russia to Cloudflare is 60% down from last year",
-      "https://radar.cloudflare.com/traffic/ru?dateRange=52w"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 11:58:36",
       "https://news.ycombinator.com/item?id=47322033"
     ],
@@ -191,32 +221,32 @@
   ],
   [
     [
-      "2026-03-10, 06:16:06",
-      "https://news.ycombinator.com/item?id=47319620"
+      "2026-03-10, 08:48:40",
+      "https://news.ycombinator.com/item?id=47320614"
     ],
     [
-      "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
-      "https://loger-project.github.io"
+      "Levels of Agentic Engineering",
+      "https://www.bassimeledath.com/blog/levels-of-agentic-engineering"
     ]
   ],
   [
     [
-      "2026-03-10, 00:16:44",
-      "https://news.ycombinator.com/item?id=47317616"
+      "2026-03-10, 02:04:25",
+      "https://news.ycombinator.com/item?id=47318313"
     ],
     [
-      "Two Years of Emacs Solo",
-      "https://www.rahuljuliato.com/posts/emacs-solo-two-years"
+      "More agent tools and AI tools should be pricing on outcomes",
+      "https://jxnl.co/writing/2025/06/12/lovable-monetization-and-the-vibe-coder-economy/"
     ]
   ],
   [
     [
-      "2026-03-09, 23:22:06",
-      "https://news.ycombinator.com/item?id=47317132"
+      "2026-03-09, 23:37:08",
+      "https://news.ycombinator.com/item?id=47317288"
     ],
     [
-      "No, it doesn't cost Anthropic $5k per Claude Code user",
-      "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/"
+      "Open Weights Isn't Open Training",
+      "https://www.workshoplabs.ai/blog/open-weights-open-training"
     ]
   ],
   [
@@ -257,36 +287,6 @@
     [
       "How many options fit into a boolean?",
       "https://herecomesthemoon.net/2025/11/how-many-options-fit-into-a-boolean/"
-    ]
-  ],
-  [
-    [
-      "2026-03-07, 04:49:38",
-      "https://news.ycombinator.com/item?id=47284587"
-    ],
-    [
-      "TCXO Failure Analysis",
-      "https://serd.es/2026/03/06/TCXO-failure-analysis.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-07, 04:22:20",
-      "https://news.ycombinator.com/item?id=47284461"
-    ],
-    [
-      "Practical Guide to Bare Metal C++",
-      "https://arobenko.github.io/bare_metal_cpp/#_abstract_classes"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 19:11:24",
-      "https://news.ycombinator.com/item?id=47279633"
-    ],
-    [
-      "Lotus 1-2-3 on the PC with DOS",
-      "https://stonetools.ghost.io/lotus123-dos/"
     ]
   ],
   [
