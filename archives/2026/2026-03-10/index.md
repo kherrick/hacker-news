@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-10](index.md)
 
+* [2026-03-10, 08:54:53](https://news.ycombinator.com/item?id=47320661) - [Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
 * [2026-03-10, 06:16:06](https://news.ycombinator.com/item?id=47319620) - [LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)](https://loger-project.github.io)
 * [2026-03-10, 05:12:54](https://news.ycombinator.com/item?id=47319294) - [Claude Code, Claude Cowork and Codex #5](https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/)
 * [2026-03-10, 05:07:59](https://news.ycombinator.com/item?id=47319273) - [Amazon holds engineering meeting following AI-related outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
