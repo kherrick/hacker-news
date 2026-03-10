@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-10](index.md)
 
+* [2026-03-10, 19:17:26](https://news.ycombinator.com/item?id=47327641) - [New HyperCard discovery: Neuromancer / Count Zero / Mona Lisa Overdrive](https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive)
+* [2026-03-10, 19:12:22](https://news.ycombinator.com/item?id=47327589) - [Google to Discontinue Widevine Cloud License Service in April 2027](https://castlabs.com/blog/widevine-retiring-cloud-license-service/)
+* [2026-03-10, 19:09:46](https://news.ycombinator.com/item?id=47327559) - [You Hired the AI to Write the Tests. Of Course They Pass](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
+* [2026-03-10, 18:37:18](https://news.ycombinator.com/item?id=47327143) - [Maybe the G in AGI stands for Gemini](https://www.robinsloan.com/lab/gemini-agi/)
+* [2026-03-10, 18:26:39](https://news.ycombinator.com/item?id=47327015) - [FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
 * [2026-03-10, 17:49:53](https://news.ycombinator.com/item?id=47326555) - [Billion-Parameter Theories](https://www.worldgov.org/complexity.html)
 * [2026-03-10, 17:14:52](https://news.ycombinator.com/item?id=47326101) - [Show HN: RunAnwhere – Faster AI Inference on Apple Silicon](https://github.com/RunanywhereAI/rcli)
 * [2026-03-10, 17:07:59](https://news.ycombinator.com/item?id=47326034) - [Isotopic Evidence for a Cold and Distant Origin of Interstellar Object 3I/Atlas](https://arxiv.org/abs/2603.06911)
