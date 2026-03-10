@@ -2,7 +2,6 @@
 
 * [2026-03-10, 20:11:54](https://news.ycombinator.com/item?id=47328214) - [RISC-V Is Sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
 * [2026-03-10, 19:17:26](https://news.ycombinator.com/item?id=47327641) - [HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive (2022)](https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive)
-* [2026-03-10, 19:12:22](https://news.ycombinator.com/item?id=47327589) - [Widevine retiring its Cloud License Service (CLS)](https://castlabs.com/blog/widevine-retiring-cloud-license-service/)
 * [2026-03-10, 19:09:46](https://news.ycombinator.com/item?id=47327559) - [Agents that run while I sleep](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
 * [2026-03-10, 18:26:39](https://news.ycombinator.com/item?id=47327015) - [FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
 * [2026-03-10, 17:49:53](https://news.ycombinator.com/item?id=47326555) - [Billion-Parameter Theories](https://www.worldgov.org/complexity.html)
@@ -26,6 +25,7 @@
 * [2026-03-10, 08:46:53](https://news.ycombinator.com/item?id=47320600) - [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 * [2026-03-09, 23:37:08](https://news.ycombinator.com/item?id=47317288) - [Open Weights isn't Open Training](https://www.workshoplabs.ai/blog/open-weights-open-training)
 * [2026-03-08, 01:20:05](https://news.ycombinator.com/item?id=47293337) - [Roblox is minting teen millionaires](https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry)
+* [2026-03-07, 21:47:33](https://news.ycombinator.com/item?id=47291767) - [Because Algospeak](https://www.tbray.org/ongoing/When/202x/2026/03/05/Because-Algospeak)
 * [2026-03-07, 19:54:26](https://news.ycombinator.com/item?id=47290918) - [I used pulsar detection techniques to turn a phone into a watch timegrapher](https://www.chronolog.watch/timegrapher)
 * [2026-03-07, 17:29:54](https://news.ycombinator.com/item?id=47289590) - [Exploring the ocean with Raspberry Pi–powered marine robots](https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/)
 * [2026-03-07, 11:28:37](https://news.ycombinator.com/item?id=47286657) - [The Gervais Principle, or the Office According to “The Office” (2009)](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
