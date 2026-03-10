@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=47327641"
     ],
     [
-      "New HyperCard discovery: Neuromancer / Count Zero / Mona Lisa Overdrive",
+      "HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive (2022)",
       "https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=47327589"
     ],
     [
-      "Google to Discontinue Widevine Cloud License Service in April 2027",
+      "Widevine retiring its Cloud License Service (CLS)",
       "https://castlabs.com/blog/widevine-retiring-cloud-license-service/"
     ]
   ],
@@ -25,18 +25,8 @@
       "https://news.ycombinator.com/item?id=47327559"
     ],
     [
-      "You Hired the AI to Write the Tests. Of Course They Pass",
+      "Agents that run while I sleep",
       "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 18:37:18",
-      "https://news.ycombinator.com/item?id=47327143"
-    ],
-    [
-      "Maybe the G in AGI stands for Gemini",
-      "https://www.robinsloan.com/lab/gemini-agi/"
     ]
   ],
   [
@@ -87,16 +77,6 @@
     [
       "I built a programming language using Claude Code",
       "https://ankursethi.com/blog/programming-language-claude-code/"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 15:35:19",
-      "https://news.ycombinator.com/item?id=47324691"
-    ],
-    [
-      "Throwing away 18 months of code and starting over",
-      "https://tompiagg.io/posts/we-threw-away-1-5-years-of-code"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2026-03-10, 13:31:17",
+      "https://news.ycombinator.com/item?id=47323017"
+    ],
+    [
+      "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+      "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 13:18:55",
       "https://news.ycombinator.com/item?id=47322887"
     ],
@@ -265,18 +255,18 @@
       "https://news.ycombinator.com/item?id=47317288"
     ],
     [
-      "Open Weights Isn't Open Training",
+      "Open Weights isn't Open Training",
       "https://www.workshoplabs.ai/blog/open-weights-open-training"
     ]
   ],
   [
     [
-      "2026-03-07, 20:22:48",
-      "https://news.ycombinator.com/item?id=47291124"
+      "2026-03-07, 21:47:33",
+      "https://news.ycombinator.com/item?id=47291767"
     ],
     [
-      "MariaDB innovation: vector index performance",
-      "http://smalldatum.blogspot.com/2026/02/mariadb-innovation-vector-index.html"
+      "Because Algospeak",
+      "https://www.tbray.org/ongoing/When/202x/2026/03/05/Because-Algospeak"
     ]
   ],
   [
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=47286657"
     ],
     [
-      "The Gervais Principle, or the Office According to \"The Office\" (2009)",
+      "The Gervais Principle, or the Office According to “The Office” (2009)",
       "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/"
+    ]
+  ],
+  [
+    [
+      "2026-03-07, 02:38:17",
+      "https://news.ycombinator.com/item?id=47283884"
+    ],
+    [
+      "Converting Binary Floating-Point Numbers to Shortest Decimal Strings",
+      "https://onlinelibrary.wiley.com/doi/10.1002/spe.70056"
     ]
   ]
 ]
