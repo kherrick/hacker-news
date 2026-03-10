@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-03-10](index.md)
 
+* [2026-03-10, 13:38:39](https://news.ycombinator.com/item?id=47323105) - [Rebasing in Magit](https://entropicthoughts.com/rebasing-in-magit)
 * [2026-03-10, 13:32:05](https://news.ycombinator.com/item?id=47323028) - [Germany's Solar Boom Eases Power Costs as Gas Price Jumps](https://www.bloomberg.com/news/articles/2026-03-06/germany-s-solar-boom-eases-power-costs-as-gas-price-jumps)
+* [2026-03-10, 13:29:21](https://news.ycombinator.com/item?id=47322998) - [Sending Jabber/XMPP Messages via HTTP](https://gultsch.de/posts/xmpp-via-http/)
 * [2026-03-10, 13:26:47](https://news.ycombinator.com/item?id=47322966) - [Hisense TVs add unskippable startup ads before live TV](https://www.guru3d.com/story/hisense-vidaa-tvs-reportedly-add-unskippable-startup-ads-before-live-tv/)
 * [2026-03-10, 13:13:48](https://news.ycombinator.com/item?id=47322838) - [Show HN: DD Photos – open-source photo album site generator (Go and SvelteKit)](https://github.com/dougdonohoe/ddphotos)
 * [2026-03-10, 13:10:48](https://news.ycombinator.com/item?id=47322815) - [Intel Demos Chip to Compute with Encrypted Data](https://spectrum.ieee.org/fhe-intel)
+* [2026-03-10, 13:09:00](https://news.ycombinator.com/item?id=47322794) - [SHOW HN: A usage circuit breaker for Cloudflare Workers](https://news.ycombinator.com/item?id=47322794)
 * [2026-03-10, 12:55:42](https://news.ycombinator.com/item?id=47322635) - [Online age-verification tools for child safety are surveilling adults](https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html)
 * [2026-03-10, 12:55:14](https://news.ycombinator.com/item?id=47322629) - [Traffic from Russia to Cloudflare is 60% down from last year](https://radar.cloudflare.com/traffic/ru?dateRange=52w)
+* [2026-03-10, 11:58:36](https://news.ycombinator.com/item?id=47322033) - [PgAdmin 4 9.13 with AI Assistant Panel](https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel)
 * [2026-03-10, 11:24:00](https://news.ycombinator.com/item?id=47321760) - [Ask HN: Remember Fidonet?](https://news.ycombinator.com/item?id=47321760)
 * [2026-03-10, 10:50:30](https://news.ycombinator.com/item?id=47321533) - [Yann LeCun's AI startup raises $1B in Europe's largest ever seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
 * [2026-03-10, 10:45:09](https://news.ycombinator.com/item?id=47321499) - [FreeBSD 14.4-Release Announcement](https://www.freebsd.org/releases/14.4R/announce/)
