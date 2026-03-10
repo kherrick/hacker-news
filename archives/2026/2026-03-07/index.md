@@ -20,6 +20,7 @@
 * [2026-03-07, 20:32:49](https://news.ycombinator.com/item?id=47291202) - [Sam Altman's greed and dishonesty are finally catching up to him](https://garymarcus.substack.com/p/breaking-sam-altmans-greed-and-dishonesty)
 * [2026-03-07, 20:22:45](https://news.ycombinator.com/item?id=47291123) - [Autoresearch: Agents researching on single-GPU nanochat training automatically](https://github.com/karpathy/autoresearch)
 * [2026-03-07, 20:09:30](https://news.ycombinator.com/item?id=47291036) - [War Prediction Markets Are a National-Security Threat](https://www.theatlantic.com/technology/2026/03/polymarket-insider-trading-going-get-people-killed/686283/)
+* [2026-03-07, 19:42:23](https://news.ycombinator.com/item?id=47290809) - [On Being a Dad](https://www.derekthompson.org/p/three-reasons-to-be-a-parent)
 * [2026-03-07, 19:01:01](https://news.ycombinator.com/item?id=47290457) - [We're Training Students to Write Worse to Prove They're Not Robots](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 * [2026-03-07, 18:32:05](https://news.ycombinator.com/item?id=47290198) - [The surprising whimsy of the Time Zone Database](https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/)
 * [2026-03-07, 17:34:34](https://news.ycombinator.com/item?id=47289646) - [Show HN: Prompt Armour – Real-time PII detection for AI chatbots, 100% local](https://prompt-armour.vercel.app/)
