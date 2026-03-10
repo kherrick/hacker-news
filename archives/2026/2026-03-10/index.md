@@ -6,6 +6,7 @@
 
 * [2026-03-10, 17:49:53](https://news.ycombinator.com/item?id=47326555) - [Billion-Parameter Theories](https://www.worldgov.org/complexity.html)
 * [2026-03-10, 17:14:52](https://news.ycombinator.com/item?id=47326101) - [Show HN: RunAnwhere – Faster AI Inference on Apple Silicon](https://github.com/RunanywhereAI/rcli)
+* [2026-03-10, 17:07:59](https://news.ycombinator.com/item?id=47326034) - [Isotopic Evidence for a Cold and Distant Origin of Interstellar Object 3I/Atlas](https://arxiv.org/abs/2603.06911)
 * [2026-03-10, 17:07:27](https://news.ycombinator.com/item?id=47326025) - [Defeat as Method](https://www.cabinetmagazine.org/issues/71/khosravi.php)
 * [2026-03-10, 16:37:29](https://news.ycombinator.com/item?id=47325595) - [I built a programming language using Claude Code](https://ankursethi.com/blog/programming-language-claude-code/)
 * [2026-03-10, 16:24:26](https://news.ycombinator.com/item?id=47325381) - [$3 ChromeOS Flex stick will revive old and outdated computers](https://9to5google.com/2026/03/10/this-3-chromeos-stick-will-revive-old-and-outdated-computers/)
@@ -38,6 +39,7 @@
 * [2026-03-10, 09:51:24](https://news.ycombinator.com/item?id=47321085) - [EVi, a Hard-Fork of Vim](https://codeberg.org/NerdNextDoor/evi)
 * [2026-03-10, 08:54:53](https://news.ycombinator.com/item?id=47320661) - [Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
 * [2026-03-10, 08:48:40](https://news.ycombinator.com/item?id=47320614) - [Levels of Agentic Engineering](https://www.bassimeledath.com/blog/levels-of-agentic-engineering)
+* [2026-03-10, 08:46:53](https://news.ycombinator.com/item?id=47320600) - [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 * [2026-03-10, 06:16:06](https://news.ycombinator.com/item?id=47319620) - [LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)](https://loger-project.github.io)
 * [2026-03-10, 05:29:48](https://news.ycombinator.com/item?id=47319387) - [Baochip-1x: A Mostly-Open, 22nm SoC for High Assurance Applications](https://www.bunniestudios.com/blog/2026/baochip-1x-a-mostly-open-22nm-soc-for-high-assurance-applications/)
 * [2026-03-10, 05:12:54](https://news.ycombinator.com/item?id=47319294) - [Claude Code, Claude Cowork and Codex #5](https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/)
