@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-10, 11:24:00",
+      "https://news.ycombinator.com/item?id=47321760"
+    ],
+    [
+      "Ask HN: Remember Fidonet?",
+      "https://news.ycombinator.com/item?id=47321760"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 10:50:30",
       "https://news.ycombinator.com/item?id=47321533"
     ],
@@ -37,6 +47,16 @@
     [
       "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
       "https://loger-project.github.io"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 05:29:48",
+      "https://news.ycombinator.com/item?id=47319387"
+    ],
+    [
+      "Baochip-1x: A Mostly-Open, 22nm SoC for High Assurance Applications",
+      "https://www.bunniestudios.com/blog/2026/baochip-1x-a-mostly-open-22nm-soc-for-high-assurance-applications/"
     ]
   ],
   [
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2026-03-09, 20:36:43",
-      "https://news.ycombinator.com/item?id=47315128"
-    ],
-    [
-      "OpenAI is walking away from expanding its Stargate data center with Oracle",
-      "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html"
-    ]
-  ],
-  [
-    [
       "2026-03-09, 19:12:14",
       "https://news.ycombinator.com/item?id=47313934"
     ],
     [
       "Notes on Baking at the South Pole",
       "https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 17:20:29",
-      "https://news.ycombinator.com/item?id=47312090"
-    ],
-    [
-      "Florida judge rules red light camera tickets are unconstitutional",
-      "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-03-09, 12:15:07",
-      "https://news.ycombinator.com/item?id=47308059"
-    ],
-    [
-      "No leap second will be introduced at the end of June 2026",
-      "https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/"
-    ]
-  ],
-  [
-    [
       "2026-03-08, 22:54:17",
       "https://news.ycombinator.com/item?id=47302493"
     ],
@@ -247,6 +237,16 @@
     [
       "TCXO Failure Analysis",
       "https://serd.es/2026/03/06/TCXO-failure-analysis.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-07, 04:22:20",
+      "https://news.ycombinator.com/item?id=47284461"
+    ],
+    [
+      "Practical Guide to Bare Metal C++",
+      "https://arobenko.github.io/bare_metal_cpp/#_abstract_classes"
     ]
   ],
   [
