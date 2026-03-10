@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-10, 04:48:52",
+      "https://news.ycombinator.com/item?id=47319179"
+    ],
+    [
+      "Windows: Microsoft broke the only thing that mattered",
+      "https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 02:24:52",
       "https://news.ycombinator.com/item?id=47318421"
     ],
@@ -27,6 +37,16 @@
     [
       "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
       "https://www.rahuljuliato.com/posts/emacs-solo-two-years"
+    ]
+  ],
+  [
+    [
+      "2026-03-09, 23:22:06",
+      "https://news.ycombinator.com/item?id=47317132"
+    ],
+    [
+      "No, it doesn't cost Anthropic $5k per Claude Code user",
+      "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-03-09, 16:53:14",
-      "https://news.ycombinator.com/item?id=47311647"
-    ],
-    [
-      "I don't know Apple's endgame for the Fn/Globe key–or if Apple does",
-      "https://aresluna.org/fn/"
-    ]
-  ],
-  [
-    [
       "2026-03-09, 16:43:39",
       "https://news.ycombinator.com/item?id=47311484"
     ],
@@ -177,16 +187,6 @@
     [
       "An opinionated take on how to do important research that matters",
       "https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 15:23:08",
-      "https://news.ycombinator.com/item?id=47310296"
-    ],
-    [
-      "Restoring a Sun SPARCstation IPX part 1: PSU and NVRAM (2020)",
-      "https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-03-08, 22:54:17",
+      "https://news.ycombinator.com/item?id=47302493"
+    ],
+    [
+      "How we optimized Top K in Postgres",
+      "https://www.paradedb.com/blog/optimizing-top-k"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 16:22:24",
       "https://news.ycombinator.com/item?id=47298553"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
-      "2026-03-08, 05:03:03",
-      "https://news.ycombinator.com/item?id=47294572"
-    ],
-    [
-      "Rethinking Syntax: Binding by Adjacency",
-      "https://github.com/manifold-systems/manifold/blob/master/docs/articles/binding_exprs.md"
-    ]
-  ],
-  [
-    [
       "2026-03-07, 16:24:24",
       "https://news.ycombinator.com/item?id=47289007"
     ],
     [
       "Graphing how the 10k* most common English words define each other",
       "https://wyattsell.com/experiments/word-graph/"
+    ]
+  ],
+  [
+    [
+      "2026-03-07, 07:30:45",
+      "https://news.ycombinator.com/item?id=47285367"
+    ],
+    [
+      "RVA23 Ends Speculation's Monopoly in RISC-V CPUs",
+      "https://semiwiki.com/ip/risc-v/367094-rva23-ends-speculations-monopoly-in-risc-v-cpus/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Darkrealms BBS",
       "http://www.darkrealms.ca/"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 14:38:25",
-      "https://news.ycombinator.com/item?id=47275425"
-    ],
-    [
-      "Show HN: Hopalong Attractor. An old classic with a new perspective in 3D",
-      "https://github.com/ratwolfzero/hopalong_python"
     ]
   ]
 ]
