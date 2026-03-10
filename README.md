@@ -24,12 +24,12 @@
 * [2026-03-10, 08:48:40](https://news.ycombinator.com/item?id=47320614) - [Levels of Agentic Engineering](https://www.bassimeledath.com/blog/levels-of-agentic-engineering)
 * [2026-03-10, 08:46:53](https://news.ycombinator.com/item?id=47320600) - [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 * [2026-03-09, 23:37:08](https://news.ycombinator.com/item?id=47317288) - [Open Weights isn't Open Training](https://www.workshoplabs.ai/blog/open-weights-open-training)
+* [2026-03-08, 08:16:53](https://news.ycombinator.com/item?id=47295559) - [Invoker Commands API](https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API)
 * [2026-03-08, 01:20:05](https://news.ycombinator.com/item?id=47293337) - [Roblox is minting teen millionaires](https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry)
 * [2026-03-07, 21:47:33](https://news.ycombinator.com/item?id=47291767) - [Because Algospeak](https://www.tbray.org/ongoing/When/202x/2026/03/05/Because-Algospeak)
 * [2026-03-07, 19:54:26](https://news.ycombinator.com/item?id=47290918) - [I used pulsar detection techniques to turn a phone into a watch timegrapher](https://www.chronolog.watch/timegrapher)
 * [2026-03-07, 17:29:54](https://news.ycombinator.com/item?id=47289590) - [Exploring the ocean with Raspberry Pi–powered marine robots](https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/)
 * [2026-03-07, 11:28:37](https://news.ycombinator.com/item?id=47286657) - [The Gervais Principle, or the Office According to “The Office” (2009)](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
-* [2026-03-07, 02:38:17](https://news.ycombinator.com/item?id=47283884) - [Converting Binary Floating-Point Numbers to Shortest Decimal Strings](https://onlinelibrary.wiley.com/doi/10.1002/spe.70056)
 
 ## [Archives](archives/index.md)
 
