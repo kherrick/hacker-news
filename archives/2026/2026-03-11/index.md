@@ -4,14 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-03-11](index.md)
 
+* [2026-03-11, 21:01:42](https://news.ycombinator.com/item?id=47341760) - [Meticulous (YC S21) is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
+* [2026-03-11, 20:24:20](https://news.ycombinator.com/item?id=47341007) - [Iran warns U.S. tech firms could become targets as war expands](https://www.wired.me/story/war-on-big-tech-iran-names-israeli-linked-us-firms-as-potential-targets)
 * [2026-03-11, 20:20:22](https://news.ycombinator.com/item?id=47340935) - [The dead Internet is not a theory anymore](https://www.adriankrebs.ch/blog/dead-internet/)
 * [2026-03-11, 20:12:36](https://news.ycombinator.com/item?id=47340768) - [What Is a Tort?](https://harvardlawreview.org/print/vol-139/what-is-a-tort/)
+* [2026-03-11, 20:11:50](https://news.ycombinator.com/item?id=47340754) - [X is selling existing users' handles](https://news.ycombinator.com/item?id=47340754)
 * [2026-03-11, 20:01:48](https://news.ycombinator.com/item?id=47340554) - [We Were Right About Havana Syndrome](https://warontherocks.com/2026/03/we-were-right-about-havana-syndrome/)
 * [2026-03-11, 19:29:29](https://news.ycombinator.com/item?id=47340079) - [Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/newsguidelines.html#generated)
 * [2026-03-11, 19:28:59](https://news.ycombinator.com/item?id=47340071) - [I'm glad the Anthropic fight is happening now](https://www.dwarkesh.com/p/dow-anthropic)
 * [2026-03-11, 19:13:35](https://news.ycombinator.com/item?id=47339888) - [Hisense TVs force owners to watch intrusive ads](https://www.tomshardware.com/tech-industry/big-tech/hisense-tvs-force-owners-to-watch-intrusive-ads-when-switching-inputs-visiting-the-home-screen-or-even-changing-channels-practice-infuriates-consumers-brand-denies-wrongdoing)
 * [2026-03-11, 18:57:58](https://news.ycombinator.com/item?id=47339705) - [CRusTTY: A pedagogical C interpreter with time-travel debugging capabilities](https://github.com/aicheye/crustty)
 * [2026-03-11, 18:22:21](https://news.ycombinator.com/item?id=47339223) - [Personal Computer by Perplexity](https://www.perplexity.ai/personal-computer-waitlist)
+* [2026-03-11, 18:17:30](https://news.ycombinator.com/item?id=47339164) - [I was interviewed by an AI bot for a job](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 * [2026-03-11, 18:17:30](https://news.ycombinator.com/item?id=47339164) - [I Was Interviewed by an AI Bot for a Job](https://schwarztech.net/snippets/i-was-interviewed-by-an-ai-bot-for-a-job)
 * [2026-03-11, 16:56:51](https://news.ycombinator.com/item?id=47338091) - [Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids](https://fuelingcuriosity.com/game.html)
 * [2026-03-11, 16:53:11](https://news.ycombinator.com/item?id=47338055) - [Fungal Electronics](https://arxiv.org/abs/2111.11231)
