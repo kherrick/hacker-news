@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-11](index.md)
 
+* [2026-03-11, 13:52:01](https://news.ycombinator.com/item?id=47335572) - [Whistleblower: DOGE member took Social Security data to new job](https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/)
+* [2026-03-11, 13:32:12](https://news.ycombinator.com/item?id=47335349) - [The entities enabling scientific fraud at scale are large, resilient and growing](https://doi.org/10.1073/pnas.2420092122)
+* [2026-03-11, 13:22:39](https://news.ycombinator.com/item?id=47335237) - [Lego's 0.002 mm Specification and Its Implications for Manufacturing (2025)](https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/)
 * [2026-03-11, 12:27:15](https://news.ycombinator.com/item?id=47334694) - [Microsoft BitNet: 100B Param 1-Bit model for local CPUs](https://github.com/microsoft/BitNet)
 * [2026-03-11, 10:34:34](https://news.ycombinator.com/item?id=47333852) - [As US missiles leave South Korea, the Philippines asks: are we next?](https://www.scmp.com/week-asia/politics/article/3346226/us-missiles-leave-south-korea-philippines-asks-are-we-next)
+* [2026-03-11, 09:59:03](https://news.ycombinator.com/item?id=47333627) - [AI Agent Hacks McKinsey](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 * [2026-03-11, 09:30:22](https://news.ycombinator.com/item?id=47333433) - [Google to Provide Pentagon with AI Agents](https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work)
 * [2026-03-11, 08:22:28](https://news.ycombinator.com/item?id=47332939) - [Why does AI tell you to use Terminal so much?](https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/)
 * [2026-03-11, 07:42:10](https://news.ycombinator.com/item?id=47332688) - [AutoKernel: Autoresearch for GPU Kernels](https://github.com/RightNow-AI/autokernel)
