@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-11, 10:34:34",
+      "https://news.ycombinator.com/item?id=47333852"
+    ],
+    [
+      "As US missiles leave South Korea, the Philippines asks: are we next?",
+      "https://www.scmp.com/week-asia/politics/article/3346226/us-missiles-leave-south-korea-philippines-asks-are-we-next"
+    ]
+  ],
+  [
+    [
       "2026-03-11, 09:30:22",
       "https://news.ycombinator.com/item?id=47333433"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-03-10, 15:08:05",
-      "https://news.ycombinator.com/item?id=47324296"
-    ],
-    [
-      "Launch HN: Didit (YC W26) – Stripe for Identity Verification",
-      "https://news.ycombinator.com/item?id=47324296"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 14:53:13",
       "https://news.ycombinator.com/item?id=47324087"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-03-07, 03:55:28",
-      "https://news.ycombinator.com/item?id=47284328"
+      "2026-03-06, 15:04:10",
+      "https://news.ycombinator.com/item?id=47275743"
     ],
     [
-      "Support for Aquantia AQC113 and AQC113C Ethernet Controllers on FreeBSD",
-      "https://github.com/Aquantia/aqtion-freebsd/issues/32"
+      "Docs directories are doomed",
+      "https://yagmin.com/blog/your-docs-directory-is-doomed/"
     ]
   ]
 ]
