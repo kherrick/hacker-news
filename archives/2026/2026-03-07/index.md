@@ -71,6 +71,7 @@
 * [2026-03-07, 05:12:53](https://news.ycombinator.com/item?id=47284699) - [Worming out molecular secrets behind collective behaviour](https://iisc.ac.in/events/worming-out-molecular-secrets-behind-collective-behaviour/)
 * [2026-03-07, 04:49:38](https://news.ycombinator.com/item?id=47284587) - [TCXO Failure Analysis](https://serd.es/2026/03/06/TCXO-failure-analysis.html)
 * [2026-03-07, 04:22:20](https://news.ycombinator.com/item?id=47284461) - [Practical Guide to Bare Metal C++](https://arobenko.github.io/bare_metal_cpp/#_abstract_classes)
+* [2026-03-07, 03:55:28](https://news.ycombinator.com/item?id=47284328) - [Support for Aquantia AQC113 and AQC113C Ethernet Controllers on FreeBSD](https://github.com/Aquantia/aqtion-freebsd/issues/32)
 * [2026-03-07, 03:14:50](https://news.ycombinator.com/item?id=47284114) - [AI and the Illegal War](https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/)
 * [2026-03-07, 03:06:58](https://news.ycombinator.com/item?id=47284061) - [Can a wealthy family change the course of a deadly brain disease?](https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease)
 * [2026-03-07, 02:38:17](https://news.ycombinator.com/item?id=47283884) - [Converting Binary Floating-Point Numbers to Shortest Decimal Strings](https://onlinelibrary.wiley.com/doi/10.1002/spe.70056)
