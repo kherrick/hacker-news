@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-03-11, 05:45:49",
+      "https://news.ycombinator.com/item?id=47332074"
+    ],
+    [
+      "Create value for others and don’t worry about the returns",
+      "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 05:42:55",
+      "https://news.ycombinator.com/item?id=47332054"
+    ],
+    [
+      "TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization",
+      "https://www.hume.ai/blog/opensource-tada"
+    ]
+  ],
+  [
+    [
       "2026-03-11, 04:42:23",
       "https://news.ycombinator.com/item?id=47331802"
     ],
     [
-      "Standardizing Source Maps",
+      "Standardizing source maps",
       "https://bloomberg.github.io/js-blog/post/standardizing-source-maps/"
     ]
   ],
@@ -61,12 +81,12 @@
   ],
   [
     [
-      "2026-03-10, 19:56:32",
-      "https://news.ycombinator.com/item?id=47328029"
+      "2026-03-10, 20:11:54",
+      "https://news.ycombinator.com/item?id=47328214"
     ],
     [
-      "Mother of All Grease Fires (1994)",
-      "https://milk.com/wall-o-shame/bucket.html"
+      "RISC-V Is Sloooow",
+      "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/"
     ]
   ],
   [
@@ -131,6 +151,16 @@
   ],
   [
     [
+      "2026-03-10, 14:50:43",
+      "https://news.ycombinator.com/item?id=47324058"
+    ],
+    [
+      "We are building data breach machines and nobody cares",
+      "https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 14:50:16",
       "https://news.ycombinator.com/item?id=47324054"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-03-10, 13:38:39",
-      "https://news.ycombinator.com/item?id=47323105"
-    ],
-    [
-      "Rebasing in Magit",
-      "https://entropicthoughts.com/rebasing-in-magit"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 13:31:17",
       "https://news.ycombinator.com/item?id=47323017"
     ],
@@ -171,22 +191,12 @@
   ],
   [
     [
-      "2026-03-10, 13:18:55",
-      "https://news.ycombinator.com/item?id=47322887"
+      "2026-03-10, 08:48:40",
+      "https://news.ycombinator.com/item?id=47320614"
     ],
     [
-      "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
-      "https://dnhkng.github.io/posts/rys/"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 13:10:48",
-      "https://news.ycombinator.com/item?id=47322815"
-    ],
-    [
-      "Intel Demos Chip to Compute with Encrypted Data",
-      "https://spectrum.ieee.org/fhe-intel"
+      "Levels of Agentic Engineering",
+      "https://www.bassimeledath.com/blog/levels-of-agentic-engineering"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "SSH Secret Menu",
       "https://twitter.com/rebane2001/status/2031037389347406054"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 23:37:08",
-      "https://news.ycombinator.com/item?id=47317288"
-    ],
-    [
-      "Open Weights isn't Open Training",
-      "https://www.workshoplabs.ai/blog/open-weights-open-training"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-03-07, 17:50:35",
-      "https://news.ycombinator.com/item?id=47289809"
-    ],
-    [
-      "Traditional tales from Cornwall, with maps for stories' locations",
-      "https://www.mazedtales.org/"
-    ]
-  ],
-  [
-    [
       "2026-03-07, 17:29:54",
       "https://news.ycombinator.com/item?id=47289590"
     ],
     [
       "Exploring the ocean with Raspberry Pi–powered marine robots",
       "https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/"
+    ]
+  ],
+  [
+    [
+      "2026-03-07, 03:55:28",
+      "https://news.ycombinator.com/item?id=47284328"
+    ],
+    [
+      "Support for Aquantia AQC113 and AQC113C Ethernet Controllers on FreeBSD",
+      "https://github.com/Aquantia/aqtion-freebsd/issues/32"
     ]
   ]
 ]
