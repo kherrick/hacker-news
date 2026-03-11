@@ -129,6 +129,203 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47336989">
+          <h3>
+            <a
+              class="item"
+              href="https://bloomberg.github.io/js-blog/post/temporal/"
+              >Temporal: The 9-Year Journey to Fix Time in JavaScript</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-11 @ 15:35:50</span
+              ><span class="points-container"
+                >Points: <span class="points">110</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47336989"
+                  >Comments</a
+                ><span class="descendants">: 34</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47336953">
+          <h3>
+            <a
+              class="item"
+              href="https://www.chrbutler.com/modern-wealth-parlour-game"
+              >Modern wealth is a parlour game played by the well fed</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-11 @ 15:33:41</span
+              ><span class="points-container"
+                >Points: <span class="points">19</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47336953"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47336806">
+          <h3>
+            <a
+              class="item"
+              href="https://www.wsj.com/lifestyle/jeffrey-epstein-files-bad-grammar-spelling-trump-ellison-dorsey-gates-thiel-cbfe9fb1"
+              >Why the Global Elite Gave Up on Spelling and Grammar</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-11 @ 15:22:10</span
+              ><span class="points-container"
+                >Points: <span class="points">31</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47336806"
+                  >Comments</a
+                ><span class="descendants">: 58</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47336569">
+          <h3>
+            <a
+              class="item"
+              href="https://ntietz.com/blog/let-yourself-fall-down-more/"
+              >Let yourself fall down more</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-11 @ 15:04:25</span
+              ><span class="points-container"
+                >Points: <span class="points">31</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47336569"
+                  >Comments</a
+                ><span class="descendants">: 26</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47336476">
+          <h3>
+            <a
+              class="item"
+              href="https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz"
+              >Wiz Joins Google</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-11 @ 14:58:20</span
+              ><span class="points-container"
+                >Points: <span class="points">62</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47336476"
+                  >Comments</a
+                ><span class="descendants">: 30</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47336171">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/theredsix/agent-browser-protocol"
+              >Show HN: Open-source browser for AI agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-11 @ 14:39:30</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47336171"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                ABP is designed to keep the acting agent synchronized with the
+                browser at every step. After each action (click, type, etc), it
+                freezes JavaScript execution and rendering, then captures the
+                resulting state. It also compiles the notable events that
+                occurred during that action loop, such as navigation, file
+                pickers, permission prompts, alerts, and downloads, and sends
+                that along with a screenshot of the frozen page state back to
+                the agent.
+              </p>
+              <p>
+                The result is that browser interaction starts to feel more like
+                a multimodal chat loop. The agent takes an action, gets back a
+                fresh visual state and a structured summary of what happened,
+                then decides what to do next from there. That fits much better
+                with how LLMs already work.
+              </p>
+              <p>
+                A few common browser-use failures ABP helps eliminate: * A modal
+                appears after the last Playwright screenshot and blocks the
+                input the agent was about to use * Dynamic filters cause the
+                page to reflow between steps * An autocomplete dropdown opens
+                and covers the element the agent intended to click * alert() /
+                confirm() interrupts the flow * Downloads are triggered, but the
+                agent has no reliable way to know when they’ve completed
+              </p>
+              <p>
+                As proof, ABP with opus 4.6 as the driver scores 90.5% on the
+                Online Mind2Web benchmark. I think modern LLMs already
+                understand websites, they just need a better tool to interact
+                with them. Happy to answer questions about the architecture,
+                forking chrome or anything else in the comments below.
+              </p>
+              <p>
+                Try it out: `claude mcp add browser -- npx -y
+                agent-browser-protocol --mcp` (Codex/OpenCode instructions in
+                the docs)
+              </p>
+              <p>
+                Demo video:
+                <a
+                  href="https://www.loom.com/share/387f6349196f417d8b4b16a5452c3369"
+                  >https://www.loom.com/share/387f6349196f417d8b4b16a5452c3369</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47336163">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=47336163"
+              >Ask HN: Is Claude Down Again?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-11 @ 14:39:21</span
+              ><span class="points-container"
+                >Points: <span class="points">58</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47336163"
+                  >Comments</a
+                ><span class="descendants">: 51</span></span
+              >
+            </h4>
+            <div class="text">
+              I've started getting some 401 errors on a subscription again and
+              oauth seems to be struggling to restore the session. Is it just
+              me?
+            </div>
+          </section>
+        </section>
         <section id="47336111">
           <h3>
             <a
@@ -141,33 +338,11 @@
             <h4>
               <span>2026-03-11 @ 14:35:53</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47336111"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47335772">
-          <h3>
-            <a
-              class="item"
-              href="https://www.openrightsgroup.org/press-releases/mps-give-ministers-powers-to-restrict-entire-internet/"
-              >UK MPs give ministers powers to restrict Internet for under
-              18s</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-11 @ 14:08:48</span
-              ><span class="points-container"
-                >Points: <span class="points">65</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47335772"
-                  >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -185,32 +360,11 @@
             <h4>
               <span>2026-03-11 @ 13:52:01</span
               ><span class="points-container"
-                >Points: <span class="points">367</span></span
+                >Points: <span class="points">454</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47335572"
                   >Comments</a
-                ><span class="descendants">: 137</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47335369">
-          <h3>
-            <a
-              class="item"
-              href="https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses"
-              >Where did you think the training data was coming from?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-11 @ 13:33:33</span
-              ><span class="points-container"
-                >Points: <span class="points">34</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47335369"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 178</span></span
               >
             </h4>
           </section>
@@ -226,11 +380,11 @@
             <h4>
               <span>2026-03-11 @ 13:32:12</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47335349"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -248,11 +402,31 @@
             <h4>
               <span>2026-03-11 @ 13:22:39</span
               ><span class="points-container"
-                >Points: <span class="points">203</span></span
+                >Points: <span class="points">254</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47335237"
                   >Comments</a
-                ><span class="descendants">: 139</span></span
+                ><span class="descendants">: 195</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47335072">
+          <h3>
+            <a class="item" href="https://tunnelbroker.net"
+              >Hurricane Electric (HE.NET) IPv6 tunnelbroker page offline due to
+              expired domain</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-11 @ 13:06:44</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47335072"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -267,11 +441,11 @@
             <h4>
               <span>2026-03-11 @ 12:27:15</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47334694"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -288,11 +462,11 @@
             <h4>
               <span>2026-03-11 @ 09:59:03</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47333627"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -309,11 +483,11 @@
             <h4>
               <span>2026-03-11 @ 05:45:49</span
               ><span class="points-container"
-                >Points: <span class="points">572</span></span
+                >Points: <span class="points">597</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47332074"
                   >Comments</a
-                ><span class="descendants">: 392</span></span
+                ><span class="descendants">: 401</span></span
               >
             </h4>
           </section>
@@ -329,51 +503,32 @@
             <h4>
               <span>2026-03-11 @ 05:42:55</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47332054"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47331802">
+        <section id="47331811">
           <h3>
             <a
               class="item"
-              href="https://bloomberg.github.io/js-blog/post/standardizing-source-maps/"
-              >Standardizing source maps</a
+              href="https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/"
+              >Making WebAssembly a first-class language on the Web</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-11 @ 04:42:23</span
+              <span>2026-03-11 @ 04:44:46</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47331802"
+                ><a href="https://news.ycombinator.com/item?id=47331811"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47331034">
-          <h3>
-            <a class="item" href="https://blog.jsbarretto.com/post/text-editor"
-              >Writing my own text editor, and daily-driving it</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-11 @ 02:04:22</span
-              ><span class="points-container"
-                >Points: <span class="points">163</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47331034"
-                  >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -388,32 +543,11 @@
             <h4>
               <span>2026-03-11 @ 01:24:47</span
               ><span class="points-container"
-                >Points: <span class="points">347</span></span
+                >Points: <span class="points">356</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47330836"
                   >Comments</a
-                ><span class="descendants">: 182</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47329608">
-          <h3>
-            <a
-              class="item"
-              href="https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html"
-              >Universal vaccine against respiratory infections and allergens</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-10 @ 22:33:48</span
-              ><span class="points-container"
-                >Points: <span class="points">329</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47329608"
-                  >Comments</a
-                ><span class="descendants">: 121</span></span
+                ><span class="descendants">: 195</span></span
               >
             </h4>
           </section>
@@ -428,11 +562,11 @@
             <h4>
               <span>2026-03-10 @ 22:33:45</span
               ><span class="points-container"
-                >Points: <span class="points">367</span></span
+                >Points: <span class="points">373</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47329605"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -449,11 +583,11 @@
             <h4>
               <span>2026-03-10 @ 22:27:15</span
               ><span class="points-container"
-                >Points: <span class="points">408</span></span
+                >Points: <span class="points">426</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47329557"
                   >Comments</a
-                ><span class="descendants">: 154</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
           </section>
@@ -470,11 +604,11 @@
             <h4>
               <span>2026-03-10 @ 20:11:54</span
               ><span class="points-container"
-                >Points: <span class="points">289</span></span
+                >Points: <span class="points">294</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47328214"
                   >Comments</a
-                ><span class="descendants">: 309</span></span
+                ><span class="descendants">: 316</span></span
               >
             </h4>
           </section>
@@ -491,150 +625,13 @@
             <h4>
               <span>2026-03-10 @ 19:09:46</span
               ><span class="points-container"
-                >Points: <span class="points">386</span></span
+                >Points: <span class="points">396</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47327559"
                   >Comments</a
-                ><span class="descendants">: 437</span></span
+                ><span class="descendants">: 451</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47326101">
-          <h3>
-            <a class="item" href="https://github.com/RunanywhereAI/rcli"
-              >Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple
-              Silicon</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-10 @ 17:14:52</span
-              ><span class="points-container"
-                >Points: <span class="points">231</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47326101"
-                  >Comments</a
-                ><span class="descendants">: 143</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Also, we've open-sourced RCLI, the fastest end-to-end voice AI
-                pipeline on Apple Silicon. Mic to spoken response, entirely
-                on-device. No cloud, no API keys.
-              </p>
-              <p>To get started:</p>
-              <p></p>
-              <pre><code>  brew tap RunanywhereAI/rcli https://github.com/RunanywhereAI/RCLI.git
-  brew install rcli
-  rcli setup   # downloads ~1 GB of models
-  rcli         # interactive mode with push-to-talk
-</code></pre>
-              Or:
-              <p></p>
-              <pre><code>  curl -fsSL https://raw.githubusercontent.com/RunanywhereAI/RCLI/main/install.sh | bash
-</code></pre>
-              The numbers (M4 Max, 64 GB, reproducible via `rcli bench`):
-              <p>
-                LLM decode – 1.67x faster than llama.cpp, 1.19x faster than
-                Apple MLX (same model files): - Qwen3-0.6B: 658 tok/s (vs mlx-lm
-                552, llama.cpp 295) - Qwen3-4B: 186 tok/s (vs mlx-lm 170,
-                llama.cpp 87) - LFM2.5-1.2B: 570 tok/s (vs mlx-lm 509, llama.cpp
-                372) - Time-to-first-token: 6.6 ms
-              </p>
-              <p>
-                STT – 70 seconds of audio transcribed in *101 ms*. That's 714x
-                real-time. 4.6x faster than mlx-whisper.
-              </p>
-              <p>
-                TTS – 178 ms synthesis. 2.8x faster than mlx-audio and
-                sherpa-onnx.
-              </p>
-              <p>
-                We built this because demoing on-device AI is easy but shipping
-                it is brutal. Voice is the hardest test: you're chaining STT,
-                LLM, and TTS sequentially, and if any stage is slow, the user
-                feels it. Most teams fall back to cloud APIs not because local
-                models are bad, but because local inference infrastructure is.
-              </p>
-              <p>
-                The thing that's hard to solve is latency compounding. In a
-                voice pipeline, you're stacking three models in sequence. If
-                each adds 200ms, you're at 600ms before the user hears a word,
-                and that feels broken. You can't optimize one stage and call it
-                done. Every stage needs to be fast, on one device, with no
-                network round-trip to hide behind.
-              </p>
-              <p>
-                We went straight to Metal. Custom GPU compute shaders, all
-                memory pre-allocated at init (zero allocations during
-                inference), and one unified engine for all three modalities
-                instead of stitching separate runtimes together.
-              </p>
-              <p>
-                MetalRT is the first engine to handle all three modalities
-                natively on Apple Silicon. Full methodology:
-              </p>
-              <p>
-                LLM benchmarks:
-                <a
-                  href="https://www.runanywhere.ai/blog/metalrt-fastest-llm-decode-engine-apple-silicon"
-                  >https://www.runanywhere.ai/blog/metalrt-fastest-llm-decode-e...</a
-                >
-              </p>
-              <p>
-                Speech benchmarks:
-                <a
-                  href="https://www.runanywhere.ai/blog/metalrt-speech-fastest-stt-tts-apple-silicon"
-                  >https://www.runanywhere.ai/blog/metalrt-speech-fastest-stt-t...</a
-                >
-              </p>
-              <p>
-                How: Most inference engines add layers between you and the GPU:
-                graph schedulers, runtime dispatchers, memory managers. MetalRT
-                skips all of it. Custom Metal compute shaders for quantized
-                matmul, attention, and activation - compiled ahead of time,
-                dispatched directly.
-              </p>
-              <p>
-                Voice Pipeline optimizations details:
-                <a
-                  href="https://www.runanywhere.ai/blog/fastvoice-on-device-voice-ai-pipeline-apple-silicon"
-                  >https://www.runanywhere.ai/blog/fastvoice-on-device-voice-ai...</a
-                >
-                RAG optimizations:
-                <a
-                  href="https://www.runanywhere.ai/blog/fastvoice-rag-on-device-retrieval-augmented-voice-ai"
-                  >https://www.runanywhere.ai/blog/fastvoice-rag-on-device-retr...</a
-                >
-              </p>
-              <p>
-                RCLI is the open-source voice pipeline (MIT) built on MetalRT:
-                three concurrent threads with lock-free ring buffers,
-                double-buffered TTS, 38 macOS actions by voice, local RAG (~4 ms
-                over 5K+ chunks), 20 hot-swappable models, and a full-screen TUI
-                with per-op latency readouts. Falls back to llama.cpp when
-                MetalRT isn't installed.
-              </p>
-              <p>
-                Source:
-                <a href="https://github.com/RunanywhereAI/RCLI"
-                  >https://github.com/RunanywhereAI/RCLI</a
-                >
-                (MIT)
-              </p>
-              <p>
-                Demo:
-                <a href="https://www.youtube.com/watch?v=eTYwkgNoaKg"
-                  >https://www.youtube.com/watch?v=eTYwkgNoaKg</a
-                >
-              </p>
-              <p>
-                What would you build if on-device AI were genuinely as fast as
-                cloud?
-              </p>
-            </div>
           </section>
         </section>
         <section id="47324087">
@@ -649,11 +646,11 @@
             <h4>
               <span>2026-03-10 @ 14:53:13</span
               ><span class="points-container"
-                >Points: <span class="points">360</span></span
+                >Points: <span class="points">362</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47324087"
                   >Comments</a
-                ><span class="descendants">: 271</span></span
+                ><span class="descendants">: 273</span></span
               >
             </h4>
           </section>
@@ -670,32 +667,11 @@
             <h4>
               <span>2026-03-10 @ 14:50:16</span
               ><span class="points-container"
-                >Points: <span class="points">1927</span></span
+                >Points: <span class="points">1943</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47324054"
                   >Comments</a
                 ><span class="descendants">: 252</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47320614">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bassimeledath.com/blog/levels-of-agentic-engineering"
-              >Levels of Agentic Engineering</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-10 @ 08:48:40</span
-              ><span class="points-container"
-                >Points: <span class="points">248</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47320614"
-                  >Comments</a
-                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -713,11 +689,11 @@
             <h4>
               <span>2026-03-10 @ 08:46:53</span
               ><span class="points-container"
-                >Points: <span class="points">556</span></span
+                >Points: <span class="points">566</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47320600"
                   >Comments</a
-                ><span class="descendants">: 452</span></span
+                ><span class="descendants">: 459</span></span
               >
             </h4>
             <div class="text">
@@ -748,11 +724,11 @@
             <h4>
               <span>2026-03-10 @ 03:28:38</span
               ><span class="points-container"
-                >Points: <span class="points">293</span></span
+                >Points: <span class="points">306</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47318797"
                   >Comments</a
-                ><span class="descendants">: 137</span></span
+                ><span class="descendants">: 142</span></span
               >
             </h4>
             <div class="text">
@@ -774,38 +750,13 @@
             <h4>
               <span>2026-03-08 @ 10:46:56</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47296255"
                   >Comments</a
                 ><span class="descendants">: 15</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47296163">
-          <h3>
-            <a class="item" href="https://thehardesthardwarelessons.com/"
-              >Show HN: I wrote down every expensive hardware development
-              mistake I've seen</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-08 @ 10:29:50</span
-              ><span class="points-container"
-                >Points: <span class="points">11</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47296163"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://thehardesthardwarelessons.com"
-                >https://thehardesthardwarelessons.com</a
-              >
-            </div>
           </section>
         </section>
         <section id="47295855">
@@ -819,11 +770,11 @@
             <h4>
               <span>2026-03-08 @ 09:27:34</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47295855"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -841,37 +792,13 @@
             <h4>
               <span>2026-03-08 @ 08:37:02</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47295647"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47293337">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry"
-              >Roblox is minting teen millionaires</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-08 @ 01:20:05</span
-              ><span class="points-container"
-                >Points: <span class="points">202</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47293337"
-                  >Comments</a
-                ><span class="descendants">: 242</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://archive.ph/6V4RI">https://archive.ph/6V4RI</a>
-            </div>
           </section>
         </section>
         <section id="47291574">
@@ -886,11 +813,11 @@
             <h4>
               <span>2026-03-07 @ 21:18:11</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47291574"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
