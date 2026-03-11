@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-11](index.md)
 
+* [2026-03-11, 20:20:22](https://news.ycombinator.com/item?id=47340935) - [The dead Internet is not a theory anymore](https://www.adriankrebs.ch/blog/dead-internet/)
+* [2026-03-11, 20:12:36](https://news.ycombinator.com/item?id=47340768) - [What Is a Tort?](https://harvardlawreview.org/print/vol-139/what-is-a-tort/)
+* [2026-03-11, 20:01:48](https://news.ycombinator.com/item?id=47340554) - [We Were Right About Havana Syndrome](https://warontherocks.com/2026/03/we-were-right-about-havana-syndrome/)
 * [2026-03-11, 19:29:29](https://news.ycombinator.com/item?id=47340079) - [Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/newsguidelines.html#generated)
+* [2026-03-11, 19:28:59](https://news.ycombinator.com/item?id=47340071) - [I'm glad the Anthropic fight is happening now](https://www.dwarkesh.com/p/dow-anthropic)
 * [2026-03-11, 19:13:35](https://news.ycombinator.com/item?id=47339888) - [Hisense TVs force owners to watch intrusive ads](https://www.tomshardware.com/tech-industry/big-tech/hisense-tvs-force-owners-to-watch-intrusive-ads-when-switching-inputs-visiting-the-home-screen-or-even-changing-channels-practice-infuriates-consumers-brand-denies-wrongdoing)
 * [2026-03-11, 18:57:58](https://news.ycombinator.com/item?id=47339705) - [CRusTTY: A pedagogical C interpreter with time-travel debugging capabilities](https://github.com/aicheye/crustty)
 * [2026-03-11, 18:22:21](https://news.ycombinator.com/item?id=47339223) - [Personal Computer by Perplexity](https://www.perplexity.ai/personal-computer-waitlist)
@@ -40,6 +44,7 @@
 * [2026-03-11, 09:59:03](https://news.ycombinator.com/item?id=47333627) - [AI Agent Hacks McKinsey](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 * [2026-03-11, 09:30:22](https://news.ycombinator.com/item?id=47333433) - [Google to Provide Pentagon with AI Agents](https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work)
 * [2026-03-11, 08:22:28](https://news.ycombinator.com/item?id=47332939) - [Why does AI tell you to use Terminal so much?](https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/)
+* [2026-03-11, 08:09:52](https://news.ycombinator.com/item?id=47332857) - [The mechanics of autonomous software translation](https://alperenkeles.com/posts/autonomous-translations/)
 * [2026-03-11, 07:42:10](https://news.ycombinator.com/item?id=47332688) - [AutoKernel: Autoresearch for GPU Kernels](https://github.com/RightNow-AI/autokernel)
 * [2026-03-11, 07:36:18](https://news.ycombinator.com/item?id=47332649) - [I'm going to build my own OpenClaw, with blackjack and bun](https://github.com/rcarmo/piclaw)
 * [2026-03-11, 05:45:49](https://news.ycombinator.com/item?id=47332074) - [Create value for others and don’t worry about the returns](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
