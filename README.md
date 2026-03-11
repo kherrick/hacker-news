@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-11, 10:34:34](https://news.ycombinator.com/item?id=47333852) - [As US missiles leave South Korea, the Philippines asks: are we next?](https://www.scmp.com/week-asia/politics/article/3346226/us-missiles-leave-south-korea-philippines-asks-are-we-next)
-* [2026-03-11, 09:30:22](https://news.ycombinator.com/item?id=47333433) - [Google to Provide Pentagon with AI Agents](https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work)
+* [2026-03-11, 12:27:15](https://news.ycombinator.com/item?id=47334694) - [Microsoft BitNet: 100B Param 1-Bit model for local CPUs](https://github.com/microsoft/BitNet)
 * [2026-03-11, 07:42:10](https://news.ycombinator.com/item?id=47332688) - [AutoKernel: Autoresearch for GPU Kernels](https://github.com/RightNow-AI/autokernel)
-* [2026-03-11, 07:36:18](https://news.ycombinator.com/item?id=47332649) - [I'm going to build my own OpenClaw, with blackjack and bun](https://github.com/rcarmo/piclaw)
 * [2026-03-11, 05:45:49](https://news.ycombinator.com/item?id=47332074) - [Create value for others and don’t worry about the returns](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
 * [2026-03-11, 05:42:55](https://news.ycombinator.com/item?id=47332054) - [TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization](https://www.hume.ai/blog/opensource-tada)
 * [2026-03-11, 04:42:23](https://news.ycombinator.com/item?id=47331802) - [Standardizing source maps](https://bloomberg.github.io/js-blog/post/standardizing-source-maps/)
@@ -18,6 +16,7 @@
 * [2026-03-10, 18:26:39](https://news.ycombinator.com/item?id=47327015) - [FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
 * [2026-03-10, 17:14:52](https://news.ycombinator.com/item?id=47326101) - [Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon](https://github.com/RunanywhereAI/rcli)
 * [2026-03-10, 15:12:52](https://news.ycombinator.com/item?id=47324364) - [Surpassing vLLM with a Generated Inference Stack](https://infinity.inc/case-studies/qwen3-optimization)
+* [2026-03-10, 15:08:05](https://news.ycombinator.com/item?id=47324296) - [Launch HN: Didit (YC W26) – Stripe for Identity Verification](https://news.ycombinator.com/item?id=47324296)
 * [2026-03-10, 14:53:13](https://news.ycombinator.com/item?id=47324087) - [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
 * [2026-03-10, 14:50:16](https://news.ycombinator.com/item?id=47324054) - [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
 * [2026-03-10, 14:38:06](https://news.ycombinator.com/item?id=47323900) - [Meta acquires Moltbook](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)
@@ -25,11 +24,12 @@
 * [2026-03-10, 08:46:53](https://news.ycombinator.com/item?id=47320600) - [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 * [2026-03-10, 03:28:38](https://news.ycombinator.com/item?id=47318797) - [SSH Secret Menu](https://twitter.com/rebane2001/status/2031037389347406054)
 * [2026-03-08, 10:51:54](https://news.ycombinator.com/item?id=47296284) - [Pike: To Exit or Not to Exit](https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/)
+* [2026-03-08, 10:46:56](https://news.ycombinator.com/item?id=47296255) - [PeppyOS: A simpler alternative to ROS 2 (now with containers support)](https://peppy.bot/)
 * [2026-03-08, 09:27:34](https://news.ycombinator.com/item?id=47295855) - [Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider](https://github.com/gcv/julia-snail)
 * [2026-03-08, 08:37:02](https://news.ycombinator.com/item?id=47295647) - [When the chain becomes the product: Seven years inside a token-funded venture](https://markmhendrickson.com/posts/when-the-chain-becomes-the-product/)
 * [2026-03-08, 01:20:05](https://news.ycombinator.com/item?id=47293337) - [Roblox is minting teen millionaires](https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry)
 * [2026-03-07, 21:18:11](https://news.ycombinator.com/item?id=47291574) - [Building a TB-303 from Scratch](https://loopmaster.xyz/tutorials/tb303-from-scratch)
-* [2026-03-06, 15:04:10](https://news.ycombinator.com/item?id=47275743) - [Docs directories are doomed](https://yagmin.com/blog/your-docs-directory-is-doomed/)
+* [2026-03-07, 17:29:54](https://news.ycombinator.com/item?id=47289590) - [Exploring the ocean with Raspberry Pi–powered marine robots](https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/)
 
 ## [Archives](archives/index.md)
 
