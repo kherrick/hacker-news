@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-11, 21:06:06](https://news.ycombinator.com/item?id=47341845) - [Britain is ejecting hereditary nobles from Parliament after 700 years](https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4)
 * [2026-03-11, 21:01:42](https://news.ycombinator.com/item?id=47341760) - [Meticulous (YC S21) is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
-* [2026-03-11, 20:24:20](https://news.ycombinator.com/item?id=47341007) - [Iran warns U.S. tech firms could become targets as war expands](https://www.wired.me/story/war-on-big-tech-iran-names-israeli-linked-us-firms-as-potential-targets)
+* [2026-03-11, 20:56:52](https://news.ycombinator.com/item?id=47341645) - [Many SWE-bench-Passing PRs would not be merged](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/)
 * [2026-03-11, 20:20:22](https://news.ycombinator.com/item?id=47340935) - [The dead Internet is not a theory anymore](https://www.adriankrebs.ch/blog/dead-internet/)
 * [2026-03-11, 20:12:36](https://news.ycombinator.com/item?id=47340768) - [What Is a Tort?](https://harvardlawreview.org/print/vol-139/what-is-a-tort/)
 * [2026-03-11, 20:11:50](https://news.ycombinator.com/item?id=47340754) - [X is selling existing users' handles](https://news.ycombinator.com/item?id=47340754)
@@ -19,7 +20,6 @@
 * [2026-03-11, 15:35:50](https://news.ycombinator.com/item?id=47336989) - [Temporal: A nine-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)
 * [2026-03-11, 14:58:20](https://news.ycombinator.com/item?id=47336476) - [Google closes deal to acquire Wiz](https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz)
 * [2026-03-11, 14:39:30](https://news.ycombinator.com/item?id=47336171) - [Show HN: Open-source browser for AI agents](https://github.com/theredsix/agent-browser-protocol)
-* [2026-03-11, 13:38:17](https://news.ycombinator.com/item?id=47335431) - [Show HN: I built an ISP infrastructure emulator from scratch with a custom vBNG](https://aether.saphal.me/dashboard/default)
 * [2026-03-11, 13:32:12](https://news.ycombinator.com/item?id=47335349) - [Entities enabling scientific fraud at scale (2025)](https://doi.org/10.1073/pnas.2420092122)
 * [2026-03-11, 13:22:39](https://news.ycombinator.com/item?id=47335237) - [Lego's 0.002mm specification and its implications for manufacturing (2025)](https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/)
 * [2026-03-11, 12:57:41](https://news.ycombinator.com/item?id=47334982) - [Swiss e-voting pilot can't count 2,048 ballots after decryption failure](https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/)
