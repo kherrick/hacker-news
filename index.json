@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-11, 08:22:28",
+      "https://news.ycombinator.com/item?id=47332939"
+    ],
+    [
+      "Why does AI tell you to use Terminal so much?",
+      "https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/"
+    ]
+  ],
+  [
+    [
       "2026-03-11, 07:42:10",
       "https://news.ycombinator.com/item?id=47332688"
     ],
     [
       "AutoKernel: Autoresearch for GPU Kernels",
       "https://github.com/RightNow-AI/autokernel"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 07:36:18",
+      "https://news.ycombinator.com/item?id=47332649"
+    ],
+    [
+      "I'm going to build my own OpenClaw, with blackjack and bun",
+      "https://github.com/rcarmo/piclaw"
     ]
   ],
   [
@@ -141,6 +161,16 @@
   ],
   [
     [
+      "2026-03-10, 15:12:52",
+      "https://news.ycombinator.com/item?id=47324364"
+    ],
+    [
+      "Surpassing vLLM with a Generated Inference Stack",
+      "https://infinity.inc/case-studies/qwen3-optimization"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 15:08:05",
       "https://news.ycombinator.com/item?id=47324296"
     ],
@@ -177,16 +207,6 @@
     [
       "Meta acquires Moltbook",
       "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 13:31:17",
-      "https://news.ycombinator.com/item?id=47323017"
-    ],
-    [
-      "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
-      "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2026-03-08, 10:01:23",
-      "https://news.ycombinator.com/item?id=47295996"
-    ],
-    [
-      "Bippy: React Internals Toolkit",
-      "https://www.bippy.dev/"
-    ]
-  ],
-  [
-    [
       "2026-03-08, 09:27:34",
       "https://news.ycombinator.com/item?id=47295855"
     ],
     [
       "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
       "https://github.com/gcv/julia-snail"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 08:16:53",
-      "https://news.ycombinator.com/item?id=47295559"
-    ],
-    [
-      "Invoker Commands API",
-      "https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API"
     ]
   ],
   [
