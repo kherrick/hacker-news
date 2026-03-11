@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-11, 09:30:22](https://news.ycombinator.com/item?id=47333433) - [Google to Provide Pentagon with AI Agents](https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work)
 * [2026-03-11, 07:42:10](https://news.ycombinator.com/item?id=47332688) - [AutoKernel: Autoresearch for GPU Kernels](https://github.com/RightNow-AI/autokernel)
 * [2026-03-11, 07:36:18](https://news.ycombinator.com/item?id=47332649) - [I'm going to build my own OpenClaw, with blackjack and bun](https://github.com/rcarmo/piclaw)
 * [2026-03-11, 05:45:49](https://news.ycombinator.com/item?id=47332074) - [Create value for others and don’t worry about the returns](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
@@ -22,7 +23,6 @@
 * [2026-03-10, 14:38:06](https://news.ycombinator.com/item?id=47323900) - [Meta acquires Moltbook](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)
 * [2026-03-10, 08:48:40](https://news.ycombinator.com/item?id=47320614) - [Levels of Agentic Engineering](https://www.bassimeledath.com/blog/levels-of-agentic-engineering)
 * [2026-03-10, 08:46:53](https://news.ycombinator.com/item?id=47320600) - [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
-* [2026-03-10, 03:34:52](https://news.ycombinator.com/item?id=47318830) - [EQT eyes potential $6B sale of Linux pioneer SUSE, sources say](https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09)
 * [2026-03-10, 03:28:38](https://news.ycombinator.com/item?id=47318797) - [SSH Secret Menu](https://twitter.com/rebane2001/status/2031037389347406054)
 * [2026-03-08, 10:51:54](https://news.ycombinator.com/item?id=47296284) - [Pike: To Exit or Not to Exit](https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/)
 * [2026-03-08, 09:27:34](https://news.ycombinator.com/item?id=47295855) - [Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider](https://github.com/gcv/julia-snail)
