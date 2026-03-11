@@ -27,6 +27,7 @@
 * [2026-03-07, 19:01:01](https://news.ycombinator.com/item?id=47290457) - [We're Training Students to Write Worse to Prove They're Not Robots](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
 * [2026-03-07, 18:56:56](https://news.ycombinator.com/item?id=47290426) - [A New Version of Our Oracle Solaris Environment for Developers](https://blogs.oracle.com/solaris/announcing-a-new-version-of-our-oracle-solaris-environment-for-developers)
 * [2026-03-07, 18:32:05](https://news.ycombinator.com/item?id=47290198) - [The surprising whimsy of the Time Zone Database](https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/)
+* [2026-03-07, 17:50:35](https://news.ycombinator.com/item?id=47289809) - [Traditional tales from Cornwall, with maps for stories' locations](https://www.mazedtales.org/)
 * [2026-03-07, 17:34:34](https://news.ycombinator.com/item?id=47289646) - [Show HN: Prompt Armour – Real-time PII detection for AI chatbots, 100% local](https://prompt-armour.vercel.app/)
 * [2026-03-07, 17:29:54](https://news.ycombinator.com/item?id=47289590) - [Exploring the ocean with Raspberry Pi–powered marine robots](https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/)
 * [2026-03-07, 17:12:25](https://news.ycombinator.com/item?id=47289440) - [Addicted to Claude Code–Help](https://news.ycombinator.com/item?id=47289440)
