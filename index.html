@@ -129,86 +129,420 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47338091">
+          <h3>
+            <a class="item" href="https://fuelingcuriosity.com/game.html"
+              >Show HN: Vanilla JavaScript refinery simulator built to explain
+              job to my kids</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-11 @ 16:56:51</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47338091"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Here's a simple runthrough:
+                <a href="https://www.youtube.com/watch?v=is-moBz6upU"
+                  >https://www.youtube.com/watch?v=is-moBz6upU</a
+                >. I pushed to get through a full product pathway to show the
+                V-804 replay.
+              </p>
+              <p>
+                I am not a software developer by trade, so I relied heavily on
+                LLMs (Claude, Copilot, Gemini) to help write the code. What
+                started as a simple concept turned into a 9,000-line single-page
+                app built with vanilla HTML, CSS, and JavaScript. I used
+                Matter.js for the 2D physics minigames.
+              </p>
+              <p>
+                A few technical takeaways from building this as a non-dev: *
+                Managing the LLM workflow: Once the script.js file got large,
+                letting the models output full file rewrites was a disaster
+                (truncations, hallucinations, invisible curly-quote replacements
+                that broke the JS). I started forcing them to act like patch
+                files, strictly outputting "Find this exact block" and "Replace
+                with this exact block." This was the only way to maintain
+                improvements without breaking existing logic.
+              </p>
+              <p>
+                * Mapping physics to CSS: I wanted the minigames to visually sit
+                inside circular CSS containers (border-radius: 50%). Matter.js
+                doesn't natively care about your CSS. Getting the rigid body
+                physics to respect a dynamic, responsive DOM boundary across
+                different screen sizes required running an elliptical boundary
+                equation (dx * dx) / (rx * rx) + (dy * dy) / (ry * ry) &gt; 1 on
+                every single frame. Maybe this was overkill to try to handle the
+                resizing between phones and PCs.
+              </p>
+              <p>
+                * Mobile browser events: Forcing iOS Safari to ignore its
+                default behaviors (double-tap zoom, swipe-to-scroll) while still
+                allowing the user to tap and drag Matter.js objects required a
+                ridiculous amount of custom event listener management and CSS
+                (touch-action: manipulation; user-select: none;). I also learned
+                that these actions very easily kill the mouse scroll making it
+                very frustrating for PC users. I am hoping I hit a good middle
+                ground.
+              </p>
+              <p>
+                * State management: Since I didn't use React or any frameworks,
+                I had to rely on a global state object. Because the game jumps
+                between different phases/minigames, I ran into massive memory
+                leaks from old setInterval loops and Matter.js bodies stacking
+                up. I had to build strict teardown functions to wipe the slate
+                clean on every map transition.
+              </p>
+              <p>
+                The game walks through electrostatic desalting, fractional
+                distillation, hydrotreating, catalytic cracking, and gasoline
+                blending (hitting specific Octane and RVP specs).
+              </p>
+              <p>
+                It’s completely free, runs client-side, and has zero ads or
+                sign-ups. I'd appreciate any feedback on the mechanics, or let
+                me know if you manage to break the physics engine. Happy to
+                answer any questions about the chemical engineering side of
+                things as well.
+              </p>
+              <p>
+                For some reason the URL box is not getting recognized, maybe
+                someone can help me feel less dumb there too.
+                <a href="https://fuelingcuriosity.com/game"
+                  >https://fuelingcuriosity.com/game</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47337659">
+          <h3>
+            <a class="item" href="https://www.sentrial.com/"
+              >Launch HN: Sentrial (YC W26) – Catch AI Agent Failures Before
+              Your Users Do</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-11 @ 16:24:17</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47337659"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://sentrial.com">https://sentrial.com</a>). It’s
+              production monitoring for AI products. We automatically detect
+              failure patterns: loops, hallucinations, tool misuse, and user
+              frustrations the moment they happen. When issues surface, Sentrial
+              diagnoses the root cause by analyzing conversation patterns, model
+              outputs, and tool interactions, then recommends specific fixes.
+              <p>
+                Here's a demo if you're interested:
+                <a href="https://www.youtube.com/watch?v=cc4DWrJF7hk"
+                  >https://www.youtube.com/watch?v=cc4DWrJF7hk</a
+                >. When agents fail, choose wrong tools, or blow cost budgets,
+                there's no way to know why - usually just logs and guesswork. As
+                agents move from demos to production with real SLAs and real
+                users, this is not sustainable.
+              </p>
+              <p>
+                Neel and I lived this, building agents at SenseHQ and Accenture
+                where we found that debugging agents was often harder than
+                actually building them. Agents are untrustworthy in prod because
+                there’s no good infrastructure to verify what they’re actually
+                doing.
+              </p>
+              <p>
+                In practice this looks like: - A support agent that began
+                misclassifying refund requests as product questions, which meant
+                customers never reached the refund flow. - A document drafting
+                agent that would occasionally hallucinate missing sections when
+                parsing long specs, producing confident but incorrect outputs.
+                There’s no stack trace or 500 error and you only figure this out
+                when a customer is angry.
+              </p>
+              <p>
+                We both realized teams were flying blind in production, and that
+                agent native monitoring was going to be foundational
+                infrastructure for every serious AI product. We started Sentrial
+                as a verification layer designed to take care of this.
+              </p>
+              <p>
+                How it works: You wrap your client with our SDK in only a couple
+                of lines. From there, we detect drift for you: - Wrong tool
+                invocations - Misunderstood intents - Hallucinations - Quality
+                regressions over time. You see it on our platform before a
+                customer files a ticket.
+              </p>
+              <p>
+                There’s a quick mcp set up, just give claude code: claude mcp
+                add --transport http Sentrial
+                <a href="https://www.sentrial.com/docs/mcp"
+                  >https://www.sentrial.com/docs/mcp</a
+                >
+              </p>
+              <p>
+                We have a free tier (14 days, no credit card required). We’d
+                love any feedback from anyone running agents whether they be for
+                personal use or within a professional setting.
+              </p>
+              <p>We’ll be around in the comments!</p>
+            </div>
+          </section>
+        </section>
+        <section id="47337548">
+          <h3>
+            <a class="item" href="https://www.prismvideos.com"
+              >Launch HN: Prism (YC X25) – Workspace and API to generate and
+              edit videos</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-11 @ 16:16:12</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47337548"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.prismvideos.com"
+                >https://www.prismvideos.com</a
+              >), an AI video creation platform and API.
+              <p>
+                Here’s a quick demo of how you can remix any video with Prism:
+                <a href="https://youtu.be/0eez_2DnayI"
+                  >https://youtu.be/0eez_2DnayI</a
+                >
+              </p>
+              <p>
+                Here’s a quick demo of how you can automate UGC-style ads with
+                Openclaw + Prism:
+                <a href="https://www.youtube.com/watch?v=5dWaD23qnro"
+                  >https://www.youtube.com/watch?v=5dWaD23qnro</a
+                >
+              </p>
+              <p>
+                Accompanying skill.md file:
+                <a
+                  href="https://docs.google.com/document/d/1lIskVljW1OqbkXFyXeLHRsfMictCfuxGGwczAnB1vhk"
+                  >https://docs.google.com/document/d/1lIskVljW1OqbkXFyXeLHRsfM...</a
+                >
+              </p>
+              <p>
+                Making an AI video today usually means stitching together a
+                dozen tools (image generation, image-to-video, upscalers,
+                lip-sync, voiceover, and an editor). Every step turns into
+                export/import and file juggling, so assets end up scattered
+                across tabs and local storage, and iterating on a multi-scene
+                video is slow.
+              </p>
+              <p>
+                Prism keeps the workflow in one place: you generate assets
+                (images/video clips) and assemble them directly in a timeline
+                editor without downloading files between tools. Practically,
+                that means you can try different models (Kling, Veo, Sora,
+                Hailuo, etc) and settings for a single clip, swap it on the
+                timeline, and keep iterating without re-exporting and rebuilding
+                the edit elsewhere.
+              </p>
+              <p>
+                We also support templates and one-click asset recreation, so you
+                can reuse workflows from us or the community instead of
+                rebuilding each asset from scratch. Those templates are exposed
+                through our API, letting your AI agents discover templates in
+                our catalog, supply the required inputs, and generate videos in
+                a repeatable way without manually stitching the workflow
+                together.
+              </p>
+              <p>
+                We built Prism because we were making AI videos ourselves and
+                were unsatisfied with the available tools. We kept losing time
+                to repetitive “glue work” such as constantly downloading files,
+                keeping track of prompts/versions, and stitching clips in a
+                separate video editing software. We’re trying to make the boring
+                parts of multi-step AI video creation less manual so users can
+                generate → review → edit → assemble → export, all inside one
+                platform.
+              </p>
+              <p>
+                Pricing is based on usage credits, with a free tier (100
+                credits/month) and free models, so you can try it without
+                providing a credit card:
+                <a href="https://prismvideos.com">https://prismvideos.com</a>.
+              </p>
+              <p>
+                We’d love to hear from people who’ve tried making AI videos:
+                where does your workflow break, what parts are the most tedious,
+                and what do you wish video creation tools on the market could
+                do?
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47337249">
+          <h3>
+            <a class="item" href="https://klausai.com/"
+              >Show HN: Klaus – OpenClaw on a VM, batteries included</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-11 @ 15:54:23</span
+              ><span class="points-container"
+                >Points: <span class="points">34</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47337249"
+                  >Comments</a
+                ><span class="descendants">: 19</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://klausai.com/">https://klausai.com/</a>): hosted
+              OpenClaw that is secure and powerful out of the box.
+              <p>
+                Running OpenClaw requires setting up a cloud VM or local
+                container (a pain) or giving OpenClaw root access to your
+                machine (insecure). Many basic integrations (eg Slack, Google
+                Workspace) require you to create your own OAuth app.
+              </p>
+              <p>
+                We make running OpenClaw simple by giving each user their own
+                EC2 instance, preconfigured with keys for OpenRouter, AgentMail,
+                and Orthogonal. And we have OAuth apps to make it easy to
+                integrate with Slack and Google Workspace.
+              </p>
+              <p>
+                We are both HN readers (Bailey has been on here for ~10 years)
+                and we know OpenClaw has serious security concerns. We do a lot
+                to make our users’ instances more secure: we run on a private
+                subnet, automatically update the OpenClaw version our users run,
+                and because you’re on our VM by default the only keys you leak
+                if you get hacked belong to us. Connecting your email is still a
+                risk. The best defense I know of is Opus 4.6 for resilience to
+                prompt injection. If you have a better solution, we’d love to
+                hear it!
+              </p>
+              <p>
+                We learned a lot about infrastructure management in the past
+                month. Kimi K2.5 and Mimimax M2.5 are extremely good at
+                hallucinating new ways to break openclaw.json and otherwise
+                wreaking havoc on an EC2 instance. The week after our launch we
+                spent 20+ hours fixing broken machines by hand.
+              </p>
+              <p>
+                We wrote a ton of best practices on using OpenClaw on AWS Linux
+                into our users’ AGENTS.md, got really good at un-bricking EC2
+                machines over SSM, added a command-and-control server to every
+                instance to facilitate hotfixes and migrations, and set up a
+                Klaus instance to answer FAQs on discord.
+              </p>
+              <p>
+                In addition to all of this, we built ClawBert, our AI SRE for
+                hotfixing OpenClaw instances automatically:
+                <a href="https://www.youtube.com/watch?v=v65F6VBXqKY"
+                  >https://www.youtube.com/watch?v=v65F6VBXqKY</a
+                >. Clawbert is a Claude Code instance that runs whenever a
+                health check fails or the user triggers it in the UI. It can
+                read that user’s entries in our database and execute commands on
+                the user’s instance. We expose a log of Clawbert’s runs to the
+                user.
+              </p>
+              <p>
+                We know that setting up OpenClaw is easy for most HN readers,
+                but I promise it is not for most people. Klaus has a long way to
+                go, but it’s still very rewarding to see people who’ve never
+                used Claude Code get their first taste of AI agents.
+              </p>
+              <p>
+                We charge $19/m for a t4g.small, $49/m for a t4g.medium, and
+                $200/m for a t4g.xlarge and priority support. You get $15 in
+                tokens and $20 in Orthogonal credits one-time.
+              </p>
+              <p>
+                We want to know what you are building on OpenClaw so we can make
+                sure we support it. We are already working with companies like
+                Orthogonal and Openrouter that are building things to make
+                agents more useful, and we’re sure there are more tools out
+                there we don’t know about. If you’ve built something agents
+                want, please let us know. Comments welcome!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47337177">
+          <h3>
+            <a
+              class="item"
+              href="https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/"
+              >Where Some See Strings, She Sees a Space-Time Made of Fractals</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-11 @ 15:48:29</span
+              ><span class="points-container"
+                >Points: <span class="points">48</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47337177"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47336989">
           <h3>
             <a
               class="item"
               href="https://bloomberg.github.io/js-blog/post/temporal/"
-              >Temporal: The 9-Year Journey to Fix Time in JavaScript</a
+              >Temporal: A nine-year journey to fix time in JavaScript</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-11 @ 15:35:50</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47336989"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47336953">
+        <section id="47336889">
           <h3>
             <a
               class="item"
-              href="https://www.chrbutler.com/modern-wealth-parlour-game"
-              >Modern wealth is a parlour game played by the well fed</a
+              href="https://status.claude.com/incidents/jm3b4jjy2jrt"
+              >Elevated errors on login with Claude Code</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-11 @ 15:33:41</span
+              <span>2026-03-11 @ 15:28:18</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47336953"
+                ><a href="https://news.ycombinator.com/item?id=47336889"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47336806">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wsj.com/lifestyle/jeffrey-epstein-files-bad-grammar-spelling-trump-ellison-dorsey-gates-thiel-cbfe9fb1"
-              >Why the Global Elite Gave Up on Spelling and Grammar</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-11 @ 15:22:10</span
-              ><span class="points-container"
-                >Points: <span class="points">31</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47336806"
-                  >Comments</a
-                ><span class="descendants">: 58</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47336569">
-          <h3>
-            <a
-              class="item"
-              href="https://ntietz.com/blog/let-yourself-fall-down-more/"
-              >Let yourself fall down more</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-11 @ 15:04:25</span
-              ><span class="points-container"
-                >Points: <span class="points">31</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47336569"
-                  >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -218,18 +552,18 @@
             <a
               class="item"
               href="https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz"
-              >Wiz Joins Google</a
+              >Wiz joins Google</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-11 @ 14:58:20</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47336476"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -246,11 +580,11 @@
             <h4>
               <span>2026-03-11 @ 14:39:30</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47336171"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
@@ -302,47 +636,23 @@
             </div>
           </section>
         </section>
-        <section id="47336163">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=47336163"
-              >Ask HN: Is Claude Down Again?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-11 @ 14:39:21</span
-              ><span class="points-container"
-                >Points: <span class="points">58</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47336163"
-                  >Comments</a
-                ><span class="descendants">: 51</span></span
-              >
-            </h4>
-            <div class="text">
-              I've started getting some 401 errors on a subscription again and
-              oauth seems to be struggling to restore the session. Is it just
-              me?
-            </div>
-          </section>
-        </section>
         <section id="47336111">
           <h3>
             <a
               class="item"
               href="https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/"
-              >Faster Asin() Was Hiding in Plain Sight</a
+              >Faster asin() was hiding in plain sight</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-11 @ 14:35:53</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47336111"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -352,39 +662,144 @@
             <a
               class="item"
               href="https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/"
-              >Whistleblower: DOGE member took Social Security data to new
-              job</a
+              >Whistleblower claims ex-DOGE member says he took Social Security
+              data to new job</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-11 @ 13:52:01</span
               ><span class="points-container"
-                >Points: <span class="points">454</span></span
+                >Points: <span class="points">492</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47335572"
                   >Comments</a
-                ><span class="descendants">: 178</span></span
+                ><span class="descendants">: 205</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="47335431">
+          <h3>
+            <a class="item" href="https://aether.saphal.me/dashboard/default"
+              >Show HN: I built an ISP infrastructure emulator from scratch with
+              a custom vBNG</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-11 @ 13:38:17</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47335431"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://aether.saphal.me">https://aether.saphal.me</a>
+              GitHub:
+              <a href="https://github.com/saphalpdyl/Aether"
+                >https://github.com/saphalpdyl/Aether</a
+              >
+              <p>
+                Aether is a multi-BNG (Broadband Network Gateway) ISP
+                infrastructure lab built almost from scratch that emulates IPoE
+                IPv4 subscriber management end-to-end. It supports IPoE/Ipv4
+                networks and runs a python-based vBNG with RADIUS AAA,
+                per-subscriber traffic shaping, and traffic simulation emulated
+                on Containerlab. It is also my first personal networking
+                project, built roughly over a month.
+              </p>
+              <p>Motivations behind the project</p>
+              <p>
+                I'm a CS sophomore. About three years ago, I was assigned, as an
+                intern, to build a OSS/BSS platform for a regional ISP by myself
+                without mentoring. Referencing demo.splynx.com , I developed
+                most of the BSS side ( bookkeeping, accounting, inventory
+                management ), but, in terms of networking, I managed to install
+                and setup RADIUS and that was about it. I didn't have anyone to
+                mentor me or ask questions to, so I had given up then.
+              </p>
+              <p>
+                Three years later, I decided to try cracking it again. This
+                project is meant to serve as a learning reference for anyone
+                who's been in that same position i.e staring at closed-source
+                vendor stacks without proper guidance. This is absolutely not
+                production-grade, but I hope it gives someone a place to start.
+              </p>
+              <p>Architecture overview</p>
+              <p>
+                The core component, the BNG, runs on an event-driven
+                architecture where state changes are passed around as messages
+                to avoid handling mutexes and locks. The session manager is the
+                sole owner of the session state. To keep it clean and
+                predictable, the direBNG never accepts external inputctly. The
+                one exception is the Go RADIUS CoA daemon, which passes CoA
+                messages in via IPC sockets. Everything the BNG produces(events,
+                session snapshots) gets pushed to Redis Streams, where the
+                bng-ingestor picks them up, processes them, and persists them.
+              </p>
+              <p>Simulation and meta-configs</p>
+              <p>
+                I am generating traffic through a simulator node that mounts the
+                host's docker socket and runs docker exec commands on selected
+                hosts. The topology.yaml used by Containerlab to define the
+                network topology grows bigger as more BNG's and access nodes are
+                added. So aether.config.yaml, a simpler configuration, is
+                consumed by the configuration pipeline to generate the
+                topology.yaml and other files (nginx.conf, kea-dhcp.conf, RADIUS
+                clients.conf etc.)
+              </p>
+              <p>Known Limitations</p>
+              <p>
+                - Multiple veth hops through the emulated topology add
+                significant overhead. Profiling with iperf3 (-P 10 -t 10, 9500
+                MTU, 24 vCPUs) shows BNG→upstream at ~24 Gbit/s, but
+                host→BNG→upstream drops to ~3.5 Gbit/s. The 9500 MTU also isn't
+                representative of real ISP deployments. This gets worse when the
+                actual network is reintroduced capping my throughput to 1.6
+                Gbits/sec in local. - The circuit ID format (1/0/X) is
+                non-standard. I simplified it for clarity. - No iBGP or VLAN
+                support. - No Ipv6 support. I wanted to target IPv4 networks
+                from the start to avoid getting too much breadth without a lot
+                of depth.
+              </p>
+              <p>
+                Nearly everything I know about networking (except some sections
+                from AWS) I learned building this. A lot was figured out on the
+                fly, so engineers will likely spot questionable decisions in the
+                codebase. I'd genuinely appreciate that feedback.
+              </p>
+              <p>Questions</p>
+              <p>
+                - Currently, the circuit where the user connects is arbitrarily
+                decided by the demo user. In a real system with thousands of
+                circuits, it'd be very difficult to properly assess which
+                circuit the customer might connect to. When adding a new
+                customer to a service, how does the operator decide, based on
+                customer's location, which circuit to provide the service to ?
+              </p>
+            </div>
           </section>
         </section>
         <section id="47335349">
           <h3>
             <a class="item" href="https://doi.org/10.1073/pnas.2420092122"
-              >The entities enabling scientific fraud at scale are large,
-              resilient and growing</a
+              >Entities enabling scientific fraud at scale are large, resilient,
+              growing (2025)</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-11 @ 13:32:12</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47335349"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -394,39 +809,19 @@
             <a
               class="item"
               href="https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/"
-              >Lego's 0.002 mm Specification and Its Implications for
-              Manufacturing (2025)</a
+              >Lego's 0.002mm specification and its implications for
+              manufacturing (2025)</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-11 @ 13:22:39</span
               ><span class="points-container"
-                >Points: <span class="points">254</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47335237"
                   >Comments</a
-                ><span class="descendants">: 195</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47335072">
-          <h3>
-            <a class="item" href="https://tunnelbroker.net"
-              >Hurricane Electric (HE.NET) IPv6 tunnelbroker page offline due to
-              expired domain</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-11 @ 13:06:44</span
-              ><span class="points-container"
-                >Points: <span class="points">16</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47335072"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 216</span></span
               >
             </h4>
           </section>
@@ -434,18 +829,18 @@
         <section id="47334694">
           <h3>
             <a class="item" href="https://github.com/microsoft/BitNet"
-              >Microsoft BitNet: 100B Param 1-Bit model for local CPUs</a
+              >BitNet: 100B Param 1-Bit model for local CPUs</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-11 @ 12:27:15</span
               ><span class="points-container"
-                >Points: <span class="points">188</span></span
+                >Points: <span class="points">211</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47334694"
                   >Comments</a
-                ><span class="descendants">: 100</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -462,11 +857,11 @@
             <h4>
               <span>2026-03-11 @ 09:59:03</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">218</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47333627"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -483,11 +878,11 @@
             <h4>
               <span>2026-03-11 @ 05:45:49</span
               ><span class="points-container"
-                >Points: <span class="points">597</span></span
+                >Points: <span class="points">607</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47332074"
                   >Comments</a
-                ><span class="descendants">: 401</span></span
+                ><span class="descendants">: 403</span></span
               >
             </h4>
           </section>
@@ -495,15 +890,14 @@
         <section id="47332054">
           <h3>
             <a class="item" href="https://www.hume.ai/blog/opensource-tada"
-              >TADA: Fast, Reliable Speech Generation Through Text-Acoustic
-              Synchronization</a
+              >TADA: Speech generation through text-acoustic synchronization</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-11 @ 05:42:55</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47332054"
                   >Comments</a
@@ -524,11 +918,30 @@
             <h4>
               <span>2026-03-11 @ 04:44:46</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47331811"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 43</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47331034">
+          <h3>
+            <a class="item" href="https://blog.jsbarretto.com/post/text-editor"
+              >Writing my own text editor, and daily-driving it</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-11 @ 02:04:22</span
+              ><span class="points-container"
+                >Points: <span class="points">188</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47331034"
+                  >Comments</a
+                ><span class="descendants">: 101</span></span
               >
             </h4>
           </section>
@@ -543,11 +956,11 @@
             <h4>
               <span>2026-03-11 @ 01:24:47</span
               ><span class="points-container"
-                >Points: <span class="points">356</span></span
+                >Points: <span class="points">363</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47330836"
                   >Comments</a
-                ><span class="descendants">: 195</span></span
+                ><span class="descendants">: 201</span></span
               >
             </h4>
           </section>
@@ -562,7 +975,7 @@
             <h4>
               <span>2026-03-10 @ 22:33:45</span
               ><span class="points-container"
-                >Points: <span class="points">373</span></span
+                >Points: <span class="points">376</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47329605"
                   >Comments</a
@@ -583,74 +996,11 @@
             <h4>
               <span>2026-03-10 @ 22:27:15</span
               ><span class="points-container"
-                >Points: <span class="points">426</span></span
+                >Points: <span class="points">434</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47329557"
                   >Comments</a
-                ><span class="descendants">: 163</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47328214">
-          <h3>
-            <a
-              class="item"
-              href="https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/"
-              >RISC-V Is Sloooow</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-10 @ 20:11:54</span
-              ><span class="points-container"
-                >Points: <span class="points">294</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47328214"
-                  >Comments</a
-                ><span class="descendants">: 316</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47327559">
-          <h3>
-            <a
-              class="item"
-              href="https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep"
-              >Agents that run while I sleep</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-10 @ 19:09:46</span
-              ><span class="points-container"
-                >Points: <span class="points">396</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47327559"
-                  >Comments</a
-                ><span class="descendants">: 451</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47324087">
-          <h3>
-            <a
-              class="item"
-              href="https://lwn.net/SubscriberLink/1061544/125f911834966dd0/"
-              >Debian decides not to decide on AI-generated contributions</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-10 @ 14:53:13</span
-              ><span class="points-container"
-                >Points: <span class="points">362</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47324087"
-                  >Comments</a
-                ><span class="descendants">: 273</span></span
+                ><span class="descendants">: 166</span></span
               >
             </h4>
           </section>
@@ -667,11 +1017,32 @@
             <h4>
               <span>2026-03-10 @ 14:50:16</span
               ><span class="points-container"
-                >Points: <span class="points">1943</span></span
+                >Points: <span class="points">1950</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47324054"
                   >Comments</a
-                ><span class="descendants">: 252</span></span
+                ><span class="descendants">: 255</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47321481">
+          <h3>
+            <a
+              class="item"
+              href="https://www.abahgat.com/blog/visualizing-ukkonens-algorithm/"
+              >Visualizing Ukkonen's Suffix Tree Algorithm</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-10 @ 10:42:37</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47321481"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -689,11 +1060,11 @@
             <h4>
               <span>2026-03-10 @ 08:46:53</span
               ><span class="points-container"
-                >Points: <span class="points">566</span></span
+                >Points: <span class="points">573</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47320600"
                   >Comments</a
-                ><span class="descendants">: 459</span></span
+                ><span class="descendants">: 466</span></span
               >
             </h4>
             <div class="text">
@@ -724,11 +1095,11 @@
             <h4>
               <span>2026-03-10 @ 03:28:38</span
               ><span class="points-container"
-                >Points: <span class="points">306</span></span
+                >Points: <span class="points">314</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47318797"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 151</span></span
               >
             </h4>
             <div class="text">
@@ -737,6 +1108,27 @@
                 >https://xcancel.com/rebane2001/status/2031037389347406054</a
               >
             </div>
+          </section>
+        </section>
+        <section id="47296662">
+          <h3>
+            <a
+              class="item"
+              href="http://uninformed.org/index.cgi?v=3&amp;a=3&amp;t=txt"
+              >Bypassing PatchGuard on Windows x64 (2005)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-08 @ 12:04:36</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47296662"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="47296255">
@@ -750,53 +1142,11 @@
             <h4>
               <span>2026-03-08 @ 10:46:56</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47296255"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47295855">
-          <h3>
-            <a class="item" href="https://github.com/gcv/julia-snail"
-              >Julia Snail – An Emacs Development Environment for Julia Like
-              Clojure's Cider</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-08 @ 09:27:34</span
-              ><span class="points-container"
-                >Points: <span class="points">134</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47295855"
-                  >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47295647">
-          <h3>
-            <a
-              class="item"
-              href="https://markmhendrickson.com/posts/when-the-chain-becomes-the-product/"
-              >When the chain becomes the product: Seven years inside a
-              token-funded venture</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-08 @ 08:37:02</span
-              ><span class="points-container"
-                >Points: <span class="points">43</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47295647"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -813,11 +1163,11 @@
             <h4>
               <span>2026-03-07 @ 21:18:11</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47291574"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
