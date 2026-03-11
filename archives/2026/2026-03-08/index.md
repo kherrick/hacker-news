@@ -62,6 +62,7 @@
 * [2026-03-08, 09:24:54](https://news.ycombinator.com/item?id=47295837) - [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)
 * [2026-03-08, 08:52:19](https://news.ycombinator.com/item?id=47295708) - [Llm9p: LLM as a Plan 9 file system](https://github.com/NERVsystems/llm9p)
 * [2026-03-08, 08:43:29](https://news.ycombinator.com/item?id=47295670) - [I'm Not Consulting an LLM](https://lr0.org/blog/p/gpt/)
+* [2026-03-08, 08:37:02](https://news.ycombinator.com/item?id=47295647) - [When the chain becomes the product: Seven years inside a token-funded venture](https://markmhendrickson.com/posts/when-the-chain-becomes-the-product/)
 * [2026-03-08, 08:32:10](https://news.ycombinator.com/item?id=47295628) - [Ask HN: Why there are no actual studies that show AI is more productive?](https://news.ycombinator.com/item?id=47295628)
 * [2026-03-08, 08:16:53](https://news.ycombinator.com/item?id=47295559) - [Invoker Commands API](https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API)
 * [2026-03-08, 08:11:50](https://news.ycombinator.com/item?id=47295537) - [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)
