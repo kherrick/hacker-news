@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-03-11, 19:29:29",
+      "https://news.ycombinator.com/item?id=47340079"
+    ],
+    [
+      "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+      "https://news.ycombinator.com/newsguidelines.html#generated"
+    ]
+  ],
+  [
+    [
       "2026-03-11, 19:13:35",
       "https://news.ycombinator.com/item?id=47339888"
     ],
     [
       "Hisense TVs force owners to watch intrusive ads",
       "https://www.tomshardware.com/tech-industry/big-tech/hisense-tvs-force-owners-to-watch-intrusive-ads-when-switching-inputs-visiting-the-home-screen-or-even-changing-channels-practice-infuriates-consumers-brand-denies-wrongdoing"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 18:57:58",
+      "https://news.ycombinator.com/item?id=47339705"
+    ],
+    [
+      "CRusTTY: A pedagogical C interpreter with time-travel debugging capabilities",
+      "https://github.com/aicheye/crustty"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 18:22:21",
+      "https://news.ycombinator.com/item?id=47339223"
+    ],
+    [
+      "Personal Computer by Perplexity",
+      "https://www.perplexity.ai/personal-computer-waitlist"
     ]
   ],
   [
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47337659"
     ],
     [
-      "Launch HN: Sentrial (YC W26) – Catch AI Agent Failures Before Your Users Do",
+      "Launch HN: Sentrial (YC W26) – Catch AI agent failures before your users do",
       "https://www.sentrial.com/"
     ]
   ],
@@ -97,16 +127,6 @@
     [
       "Temporal: A nine-year journey to fix time in JavaScript",
       "https://bloomberg.github.io/js-blog/post/temporal/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 15:22:10",
-      "https://news.ycombinator.com/item?id=47336806"
-    ],
-    [
-      "Why the global elite gave up on spelling and grammar",
-      "https://www.wsj.com/lifestyle/jeffrey-epstein-files-bad-grammar-spelling-trump-ellison-dorsey-gates-thiel-cbfe9fb1"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2026-03-11, 02:04:22",
-      "https://news.ycombinator.com/item?id=47331034"
-    ],
-    [
-      "Writing my own text editor, and daily-driving it",
-      "https://blog.jsbarretto.com/post/text-editor"
-    ]
-  ],
-  [
-    [
       "2026-03-11, 01:24:47",
       "https://news.ycombinator.com/item?id=47330836"
     ],
@@ -241,22 +251,22 @@
   ],
   [
     [
-      "2026-03-10, 22:27:15",
-      "https://news.ycombinator.com/item?id=47329557"
-    ],
-    [
-      "Cloudflare crawl endpoint",
-      "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 10:42:37",
       "https://news.ycombinator.com/item?id=47321481"
     ],
     [
       "Visualizing Ukkonen's Suffix Tree Algorithm",
       "https://www.abahgat.com/blog/visualizing-ukkonens-algorithm/"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 07:01:01",
+      "https://news.ycombinator.com/item?id=47319905"
+    ],
+    [
+      "The Darkness from the Darkness",
+      "https://thebaffler.com/latest/the-darkness-from-the-darkness-giraldi"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: Satellite imagery object detection using text prompts",
       "https://www.useful-ai-tools.com/tools/satellite-analysis-demo/"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 10:46:56",
-      "https://news.ycombinator.com/item?id=47296255"
-    ],
-    [
-      "PeppyOS: A simpler alternative to ROS 2 (now with containers support)",
-      "https://peppy.bot/"
     ]
   ],
   [
