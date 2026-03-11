@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-11, 02:04:22",
+      "https://news.ycombinator.com/item?id=47331034"
+    ],
+    [
+      "Writing my own text editor, and daily-driving it",
+      "https://blog.jsbarretto.com/post/text-editor"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 01:24:47",
+      "https://news.ycombinator.com/item?id=47330836"
+    ],
+    [
+      "Zig – Type Resolution Redesign and Language Changes",
+      "https://ziglang.org/devlog/2026/#2026-03-10"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 22:33:48",
       "https://news.ycombinator.com/item?id=47329608"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2026-03-10, 19:17:26",
-      "https://news.ycombinator.com/item?id=47327641"
-    ],
-    [
-      "HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive (2022)",
-      "https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 19:09:46",
       "https://news.ycombinator.com/item?id=47327559"
     ],
@@ -81,32 +91,12 @@
   ],
   [
     [
-      "2026-03-10, 18:38:44",
-      "https://news.ycombinator.com/item?id=47327163"
-    ],
-    [
-      "Networking with agents: Put them in the right conversations with Tailscale",
-      "https://blog.firetiger.com/networking-with-agents-how-to-put-them-in-the-right-conversations/"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 18:26:39",
       "https://news.ycombinator.com/item?id=47327015"
     ],
     [
       "FFmpeg-over-IP – Connect to remote FFmpeg servers",
       "https://github.com/steelbrain/ffmpeg-over-ip"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 17:49:53",
-      "https://news.ycombinator.com/item?id=47326555"
-    ],
-    [
-      "Billion-Parameter Theories",
-      "https://www.worldgov.org/complexity.html"
     ]
   ],
   [
@@ -211,22 +201,22 @@
   ],
   [
     [
-      "2026-03-10, 10:07:48",
-      "https://news.ycombinator.com/item?id=47321233"
-    ],
-    [
-      "I put my whole life into a single database",
-      "https://howisfelix.today/"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 08:46:53",
       "https://news.ycombinator.com/item?id=47320600"
     ],
     [
       "Yann LeCun raises $1B to build AI that understands the physical world",
       "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 03:34:52",
+      "https://news.ycombinator.com/item?id=47318830"
+    ],
+    [
+      "EQT eyes potential $6B sale of Linux pioneer SUSE, sources say",
+      "https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09"
     ]
   ],
   [
@@ -241,22 +231,22 @@
   ],
   [
     [
-      "2026-03-09, 23:37:08",
-      "https://news.ycombinator.com/item?id=47317288"
-    ],
-    [
-      "Open Weights isn't Open Training",
-      "https://www.workshoplabs.ai/blog/open-weights-open-training"
-    ]
-  ],
-  [
-    [
       "2026-03-08, 10:01:23",
       "https://news.ycombinator.com/item?id=47295996"
     ],
     [
       "Bippy: React Internals Toolkit",
       "https://www.bippy.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 09:27:34",
+      "https://news.ycombinator.com/item?id=47295855"
+    ],
+    [
+      "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
+      "https://github.com/gcv/julia-snail"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Gervais Principle, or the Office According to “The Office” (2009)",
       "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/"
+    ]
+  ],
+  [
+    [
+      "2026-03-07, 06:56:43",
+      "https://news.ycombinator.com/item?id=47285166"
+    ],
+    [
+      "\"I built a spell checker for back end configuration mistakes.\"",
+      "https://www.npmjs.com/package/safelaunch"
     ]
   ]
 ]
