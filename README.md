@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-11, 07:42:10](https://news.ycombinator.com/item?id=47332688) - [AutoKernel: Autoresearch for GPU Kernels](https://github.com/RightNow-AI/autokernel)
 * [2026-03-11, 05:45:49](https://news.ycombinator.com/item?id=47332074) - [Create value for others and don’t worry about the returns](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
 * [2026-03-11, 05:42:55](https://news.ycombinator.com/item?id=47332054) - [TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization](https://www.hume.ai/blog/opensource-tada)
 * [2026-03-11, 04:42:23](https://news.ycombinator.com/item?id=47331802) - [Standardizing source maps](https://bloomberg.github.io/js-blog/post/standardizing-source-maps/)
@@ -15,7 +16,6 @@
 * [2026-03-10, 17:14:52](https://news.ycombinator.com/item?id=47326101) - [Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon](https://github.com/RunanywhereAI/rcli)
 * [2026-03-10, 15:08:05](https://news.ycombinator.com/item?id=47324296) - [Launch HN: Didit (YC W26) – Stripe for Identity Verification](https://news.ycombinator.com/item?id=47324296)
 * [2026-03-10, 14:53:13](https://news.ycombinator.com/item?id=47324087) - [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
-* [2026-03-10, 14:50:43](https://news.ycombinator.com/item?id=47324058) - [We are building data breach machines and nobody cares](https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/)
 * [2026-03-10, 14:50:16](https://news.ycombinator.com/item?id=47324054) - [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
 * [2026-03-10, 14:38:06](https://news.ycombinator.com/item?id=47323900) - [Meta acquires Moltbook](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network)
 * [2026-03-10, 13:31:17](https://news.ycombinator.com/item?id=47323017) - [After outages, Amazon to make senior engineers sign off on AI-assisted changes](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
