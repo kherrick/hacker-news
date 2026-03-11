@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-11](index.md)
 
+* [2026-03-11, 14:35:53](https://news.ycombinator.com/item?id=47336111) - [Faster Asin() Was Hiding in Plain Sight](https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/)
+* [2026-03-11, 14:08:48](https://news.ycombinator.com/item?id=47335772) - [UK MPs give ministers powers to restrict Internet for under 18s](https://www.openrightsgroup.org/press-releases/mps-give-ministers-powers-to-restrict-entire-internet/)
 * [2026-03-11, 13:52:01](https://news.ycombinator.com/item?id=47335572) - [Whistleblower: DOGE member took Social Security data to new job](https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/)
+* [2026-03-11, 13:33:33](https://news.ycombinator.com/item?id=47335369) - [Where did you think the training data was coming from?](https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses)
 * [2026-03-11, 13:32:12](https://news.ycombinator.com/item?id=47335349) - [The entities enabling scientific fraud at scale are large, resilient and growing](https://doi.org/10.1073/pnas.2420092122)
 * [2026-03-11, 13:22:39](https://news.ycombinator.com/item?id=47335237) - [Lego's 0.002 mm Specification and Its Implications for Manufacturing (2025)](https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/)
 * [2026-03-11, 12:27:15](https://news.ycombinator.com/item?id=47334694) - [Microsoft BitNet: 100B Param 1-Bit model for local CPUs](https://github.com/microsoft/BitNet)

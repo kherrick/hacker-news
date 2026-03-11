@@ -57,6 +57,7 @@
 * [2026-03-08, 10:51:54](https://news.ycombinator.com/item?id=47296284) - [Pike: To Exit or Not to Exit](https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/)
 * [2026-03-08, 10:47:21](https://news.ycombinator.com/item?id=47296259) - [Segagaga Has Been Translated into English](https://www.thedreamcastjunkyard.co.uk/2026/02/segagaga-has-finally-been-translated.html)
 * [2026-03-08, 10:46:56](https://news.ycombinator.com/item?id=47296255) - [PeppyOS: A simpler alternative to ROS 2 (now with containers support)](https://peppy.bot/)
+* [2026-03-08, 10:29:50](https://news.ycombinator.com/item?id=47296163) - [Show HN: I wrote down every expensive hardware development mistake I've seen](https://thehardesthardwarelessons.com/)
 * [2026-03-08, 10:01:23](https://news.ycombinator.com/item?id=47295996) - [Bippy: React Internals Toolkit](https://www.bippy.dev/)
 * [2026-03-08, 09:30:25](https://news.ycombinator.com/item?id=47295871) - [Ask HN: Can I repurpose a Bluetooth voice remote as input device for a PC?](https://news.ycombinator.com/item?id=47295871)
 * [2026-03-08, 09:27:34](https://news.ycombinator.com/item?id=47295855) - [Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider](https://github.com/gcv/julia-snail)
