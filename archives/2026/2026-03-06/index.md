@@ -44,6 +44,7 @@
 * [2026-03-06, 15:40:45](https://news.ycombinator.com/item?id=47276343) - [Darkrealms BBS](http://www.darkrealms.ca/)
 * [2026-03-06, 15:33:17](https://news.ycombinator.com/item?id=47276220) - [Paul Brainerd, Founder of Aldus PageMaker, has died](https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/)
 * [2026-03-06, 15:29:38](https://news.ycombinator.com/item?id=47276159) - [Overheads (2023)](https://blog.xoria.org/hidden-overheads/)
+* [2026-03-06, 15:04:10](https://news.ycombinator.com/item?id=47275743) - [Docs directories are doomed](https://yagmin.com/blog/your-docs-directory-is-doomed/)
 * [2026-03-06, 14:41:19](https://news.ycombinator.com/item?id=47275463) - [An Analysis of User-Space Idle State Instructions on x86 Processors](https://dl.acm.org/doi/10.1145/3676151.3719370)
 * [2026-03-06, 14:38:25](https://news.ycombinator.com/item?id=47275425) - [Show HN: Hopalong Attractor. An old classic with a new perspective in 3D](https://github.com/ratwolfzero/hopalong_python)
 * [2026-03-06, 14:27:55](https://news.ycombinator.com/item?id=47275291) - [A tool that removes censorship from open-weight LLMs](https://github.com/elder-plinius/OBLITERATUS)
