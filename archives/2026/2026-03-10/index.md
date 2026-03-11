@@ -59,6 +59,7 @@
 * [2026-03-10, 08:54:53](https://news.ycombinator.com/item?id=47320661) - [Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
 * [2026-03-10, 08:48:40](https://news.ycombinator.com/item?id=47320614) - [Levels of Agentic Engineering](https://www.bassimeledath.com/blog/levels-of-agentic-engineering)
 * [2026-03-10, 08:46:53](https://news.ycombinator.com/item?id=47320600) - [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+* [2026-03-10, 07:01:01](https://news.ycombinator.com/item?id=47319905) - [The Darkness from the Darkness](https://thebaffler.com/latest/the-darkness-from-the-darkness-giraldi)
 * [2026-03-10, 06:16:06](https://news.ycombinator.com/item?id=47319620) - [LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)](https://loger-project.github.io)
 * [2026-03-10, 06:11:42](https://news.ycombinator.com/item?id=47319587) - [Ask HN: How are people doing AI evals these days?](https://news.ycombinator.com/item?id=47319587)
 * [2026-03-10, 05:58:56](https://news.ycombinator.com/item?id=47319520) - [5,200 holes carved into a Peruvian mountain left by an ancient economy](https://newatlas.com/environment/5-200-holes-peruvian-mountain/)

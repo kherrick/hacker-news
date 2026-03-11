@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-11](index.md)
 
+* [2026-03-11, 19:29:29](https://news.ycombinator.com/item?id=47340079) - [Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/newsguidelines.html#generated)
 * [2026-03-11, 19:13:35](https://news.ycombinator.com/item?id=47339888) - [Hisense TVs force owners to watch intrusive ads](https://www.tomshardware.com/tech-industry/big-tech/hisense-tvs-force-owners-to-watch-intrusive-ads-when-switching-inputs-visiting-the-home-screen-or-even-changing-channels-practice-infuriates-consumers-brand-denies-wrongdoing)
+* [2026-03-11, 18:57:58](https://news.ycombinator.com/item?id=47339705) - [CRusTTY: A pedagogical C interpreter with time-travel debugging capabilities](https://github.com/aicheye/crustty)
+* [2026-03-11, 18:22:21](https://news.ycombinator.com/item?id=47339223) - [Personal Computer by Perplexity](https://www.perplexity.ai/personal-computer-waitlist)
 * [2026-03-11, 18:17:30](https://news.ycombinator.com/item?id=47339164) - [I Was Interviewed by an AI Bot for a Job](https://schwarztech.net/snippets/i-was-interviewed-by-an-ai-bot-for-a-job)
 * [2026-03-11, 16:56:51](https://news.ycombinator.com/item?id=47338091) - [Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids](https://fuelingcuriosity.com/game.html)
 * [2026-03-11, 16:53:11](https://news.ycombinator.com/item?id=47338055) - [Fungal Electronics](https://arxiv.org/abs/2111.11231)
