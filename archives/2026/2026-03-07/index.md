@@ -14,6 +14,7 @@
 * [2026-03-07, 21:56:16](https://news.ycombinator.com/item?id=47291834) - [$3T Blind Spot: US nonprofits](https://charitysense.com/insights/the-3-trillion-blind-spot)
 * [2026-03-07, 21:47:33](https://news.ycombinator.com/item?id=47291767) - [Because Algospeak](https://www.tbray.org/ongoing/When/202x/2026/03/05/Because-Algospeak)
 * [2026-03-07, 21:37:29](https://news.ycombinator.com/item?id=47291699) - [Ask HN: Would you use a job board where every listing is verified?](https://news.ycombinator.com/item?id=47291699)
+* [2026-03-07, 21:18:11](https://news.ycombinator.com/item?id=47291574) - [Building a TB-303 from Scratch](https://loopmaster.xyz/tutorials/tb303-from-scratch)
 * [2026-03-07, 21:10:08](https://news.ycombinator.com/item?id=47291525) - [The Day NY Publishing Lost Its Soul](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul)
 * [2026-03-07, 21:08:40](https://news.ycombinator.com/item?id=47291513) - [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)
 * [2026-03-07, 20:55:48](https://news.ycombinator.com/item?id=47291406) - [Senators Launch Effort Ban Elected Officials Profiting from Prediction Markets](https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/)
