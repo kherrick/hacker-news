@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-03-11](index.md)
 
+* [2026-03-11, 16:56:51](https://news.ycombinator.com/item?id=47338091) - [Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids](https://fuelingcuriosity.com/game.html)
+* [2026-03-11, 16:24:17](https://news.ycombinator.com/item?id=47337659) - [Launch HN: Sentrial (YC W26) – Catch AI Agent Failures Before Your Users Do](https://www.sentrial.com/)
+* [2026-03-11, 16:16:12](https://news.ycombinator.com/item?id=47337548) - [Launch HN: Prism (YC X25) – Workspace and API to generate and edit videos](https://www.prismvideos.com)
+* [2026-03-11, 15:54:23](https://news.ycombinator.com/item?id=47337249) - [Show HN: Klaus – OpenClaw on a VM, batteries included](https://klausai.com/)
+* [2026-03-11, 15:48:29](https://news.ycombinator.com/item?id=47337177) - [Where Some See Strings, She Sees a Space-Time Made of Fractals](https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/)
 * [2026-03-11, 15:35:50](https://news.ycombinator.com/item?id=47336989) - [Temporal: The 9-Year Journey to Fix Time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)
 * [2026-03-11, 15:33:41](https://news.ycombinator.com/item?id=47336953) - [Modern wealth is a parlour game played by the well fed](https://www.chrbutler.com/modern-wealth-parlour-game)
+* [2026-03-11, 15:28:18](https://news.ycombinator.com/item?id=47336889) - [Elevated errors on login with Claude Code](https://status.claude.com/incidents/jm3b4jjy2jrt)
 * [2026-03-11, 15:22:10](https://news.ycombinator.com/item?id=47336806) - [Why the Global Elite Gave Up on Spelling and Grammar](https://www.wsj.com/lifestyle/jeffrey-epstein-files-bad-grammar-spelling-trump-ellison-dorsey-gates-thiel-cbfe9fb1)
 * [2026-03-11, 15:04:25](https://news.ycombinator.com/item?id=47336569) - [Let yourself fall down more](https://ntietz.com/blog/let-yourself-fall-down-more/)
 * [2026-03-11, 14:58:20](https://news.ycombinator.com/item?id=47336476) - [Wiz Joins Google](https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz)
@@ -14,6 +20,7 @@
 * [2026-03-11, 14:35:53](https://news.ycombinator.com/item?id=47336111) - [Faster Asin() Was Hiding in Plain Sight](https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/)
 * [2026-03-11, 14:08:48](https://news.ycombinator.com/item?id=47335772) - [UK MPs give ministers powers to restrict Internet for under 18s](https://www.openrightsgroup.org/press-releases/mps-give-ministers-powers-to-restrict-entire-internet/)
 * [2026-03-11, 13:52:01](https://news.ycombinator.com/item?id=47335572) - [Whistleblower: DOGE member took Social Security data to new job](https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/)
+* [2026-03-11, 13:38:17](https://news.ycombinator.com/item?id=47335431) - [Show HN: I built an ISP infrastructure emulator from scratch with a custom vBNG](https://aether.saphal.me/dashboard/default)
 * [2026-03-11, 13:33:33](https://news.ycombinator.com/item?id=47335369) - [Where did you think the training data was coming from?](https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses)
 * [2026-03-11, 13:32:12](https://news.ycombinator.com/item?id=47335349) - [The entities enabling scientific fraud at scale are large, resilient and growing](https://doi.org/10.1073/pnas.2420092122)
 * [2026-03-11, 13:22:39](https://news.ycombinator.com/item?id=47335237) - [Lego's 0.002 mm Specification and Its Implications for Manufacturing (2025)](https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/)

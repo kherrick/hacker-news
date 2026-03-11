@@ -48,6 +48,7 @@
 * [2026-03-08, 12:40:14](https://news.ycombinator.com/item?id=47296849) - [I ported Linux to the PS5 and turned it into a Steam Machine](https://xcancel.com/theflow0/status/2030011206040256841)
 * [2026-03-08, 12:30:31](https://news.ycombinator.com/item?id=47296787) - [You Don't Need a Vector Database](https://vecstore.app/blog/you-dont-need-a-vector-database)
 * [2026-03-08, 12:04:48](https://news.ycombinator.com/item?id=47296664) - [Show HN: AI agents run my one-person company on Gemini's free tier – $0/month](https://news.ycombinator.com/item?id=47296664)
+* [2026-03-08, 12:04:36](https://news.ycombinator.com/item?id=47296662) - [Bypassing PatchGuard on Windows x64 (2005)](http://uninformed.org/index.cgi?v=3&a=3&t=txt)
 * [2026-03-08, 11:59:43](https://news.ycombinator.com/item?id=47296635) - [Python's Lazy Imports: Why It Took Three Years and Two Attempts](https://techlife.blog/posts/the-story-of-pythons-lazy-imports-why-it-took-three-years-and-two-attempts/)
 * [2026-03-08, 11:41:17](https://news.ycombinator.com/item?id=47296547) - [Ask HN: How to Be Alone?](https://news.ycombinator.com/item?id=47296547)
 * [2026-03-08, 11:37:00](https://news.ycombinator.com/item?id=47296532) - [Lazy JWT Key Rotation in .NET: Redis-Powered JWKS That Just Works](https://www.aaronpina.com/lazy-jwt-key-rotation-in-net-redis-powered-jwks-that-just-works/)

@@ -52,6 +52,7 @@
 * [2026-03-10, 11:24:00](https://news.ycombinator.com/item?id=47321760) - [Ask HN: Remember Fidonet?](https://news.ycombinator.com/item?id=47321760)
 * [2026-03-10, 10:50:30](https://news.ycombinator.com/item?id=47321533) - [Yann LeCun's AI startup raises $1B in Europe's largest ever seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
 * [2026-03-10, 10:45:09](https://news.ycombinator.com/item?id=47321499) - [FreeBSD 14.4-Release Announcement](https://www.freebsd.org/releases/14.4R/announce/)
+* [2026-03-10, 10:42:37](https://news.ycombinator.com/item?id=47321481) - [Visualizing Ukkonen's Suffix Tree Algorithm](https://www.abahgat.com/blog/visualizing-ukkonens-algorithm/)
 * [2026-03-10, 10:07:48](https://news.ycombinator.com/item?id=47321233) - [I put my whole life into a single database](https://howisfelix.today/)
 * [2026-03-10, 10:01:58](https://news.ycombinator.com/item?id=47321188) - [Show HN: What's my JND? – a colour guessing game](https://www.keithcirkel.co.uk/whats-my-jnd/?r=ARUjKP__-ve-)
 * [2026-03-10, 09:51:24](https://news.ycombinator.com/item?id=47321085) - [EVi, a Hard-Fork of Vim](https://codeberg.org/NerdNextDoor/evi)
