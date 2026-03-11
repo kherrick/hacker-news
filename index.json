@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-03-11, 15:35:50",
+      "https://news.ycombinator.com/item?id=47336989"
+    ],
+    [
+      "Temporal: The 9-Year Journey to Fix Time in JavaScript",
+      "https://bloomberg.github.io/js-blog/post/temporal/"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 15:33:41",
+      "https://news.ycombinator.com/item?id=47336953"
+    ],
+    [
+      "Modern wealth is a parlour game played by the well fed",
+      "https://www.chrbutler.com/modern-wealth-parlour-game"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 15:22:10",
+      "https://news.ycombinator.com/item?id=47336806"
+    ],
+    [
+      "Why the Global Elite Gave Up on Spelling and Grammar",
+      "https://www.wsj.com/lifestyle/jeffrey-epstein-files-bad-grammar-spelling-trump-ellison-dorsey-gates-thiel-cbfe9fb1"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 15:04:25",
+      "https://news.ycombinator.com/item?id=47336569"
+    ],
+    [
+      "Let yourself fall down more",
+      "https://ntietz.com/blog/let-yourself-fall-down-more/"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 14:58:20",
+      "https://news.ycombinator.com/item?id=47336476"
+    ],
+    [
+      "Wiz Joins Google",
+      "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 14:39:30",
+      "https://news.ycombinator.com/item?id=47336171"
+    ],
+    [
+      "Show HN: Open-source browser for AI agents",
+      "https://github.com/theredsix/agent-browser-protocol"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 14:39:21",
+      "https://news.ycombinator.com/item?id=47336163"
+    ],
+    [
+      "Ask HN: Is Claude Down Again?",
+      "https://news.ycombinator.com/item?id=47336163"
+    ]
+  ],
+  [
+    [
       "2026-03-11, 14:35:53",
       "https://news.ycombinator.com/item?id=47336111"
     ],
@@ -11,32 +81,12 @@
   ],
   [
     [
-      "2026-03-11, 14:08:48",
-      "https://news.ycombinator.com/item?id=47335772"
-    ],
-    [
-      "UK MPs give ministers powers to restrict Internet for under 18s",
-      "https://www.openrightsgroup.org/press-releases/mps-give-ministers-powers-to-restrict-entire-internet/"
-    ]
-  ],
-  [
-    [
       "2026-03-11, 13:52:01",
       "https://news.ycombinator.com/item?id=47335572"
     ],
     [
       "Whistleblower: DOGE member took Social Security data to new job",
       "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 13:33:33",
-      "https://news.ycombinator.com/item?id=47335369"
-    ],
-    [
-      "Where did you think the training data was coming from?",
-      "https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses"
     ]
   ],
   [
@@ -57,6 +107,16 @@
     [
       "Lego's 0.002 mm Specification and Its Implications for Manufacturing (2025)",
       "https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 13:06:44",
+      "https://news.ycombinator.com/item?id=47335072"
+    ],
+    [
+      "Hurricane Electric (HE.NET) IPv6 tunnelbroker page offline due to expired domain",
+      "https://tunnelbroker.net"
     ]
   ],
   [
@@ -101,22 +161,12 @@
   ],
   [
     [
-      "2026-03-11, 04:42:23",
-      "https://news.ycombinator.com/item?id=47331802"
+      "2026-03-11, 04:44:46",
+      "https://news.ycombinator.com/item?id=47331811"
     ],
     [
-      "Standardizing source maps",
-      "https://bloomberg.github.io/js-blog/post/standardizing-source-maps/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 02:04:22",
-      "https://news.ycombinator.com/item?id=47331034"
-    ],
-    [
-      "Writing my own text editor, and daily-driving it",
-      "https://blog.jsbarretto.com/post/text-editor"
+      "Making WebAssembly a first-class language on the Web",
+      "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/"
     ]
   ],
   [
@@ -127,16 +177,6 @@
     [
       "Zig – Type Resolution Redesign and Language Changes",
       "https://ziglang.org/devlog/2026/#2026-03-10"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 22:33:48",
-      "https://news.ycombinator.com/item?id=47329608"
-    ],
-    [
-      "Universal vaccine against respiratory infections and allergens",
-      "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2026-03-10, 17:14:52",
-      "https://news.ycombinator.com/item?id=47326101"
-    ],
-    [
-      "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
-      "https://github.com/RunanywhereAI/rcli"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 14:53:13",
       "https://news.ycombinator.com/item?id=47324087"
     ],
@@ -207,16 +237,6 @@
     [
       "Tony Hoare has died",
       "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 08:48:40",
-      "https://news.ycombinator.com/item?id=47320614"
-    ],
-    [
-      "Levels of Agentic Engineering",
-      "https://www.bassimeledath.com/blog/levels-of-agentic-engineering"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2026-03-08, 10:29:50",
-      "https://news.ycombinator.com/item?id=47296163"
-    ],
-    [
-      "Show HN: I wrote down every expensive hardware development mistake I've seen",
-      "https://thehardesthardwarelessons.com/"
-    ]
-  ],
-  [
-    [
       "2026-03-08, 09:27:34",
       "https://news.ycombinator.com/item?id=47295855"
     ],
@@ -277,16 +287,6 @@
     [
       "When the chain becomes the product: Seven years inside a token-funded venture",
       "https://markmhendrickson.com/posts/when-the-chain-becomes-the-product/"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 01:20:05",
-      "https://news.ycombinator.com/item?id=47293337"
-    ],
-    [
-      "Roblox is minting teen millionaires",
-      "https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry"
     ]
   ],
   [
