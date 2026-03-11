@@ -57,6 +57,7 @@
 * [2026-03-08, 10:47:21](https://news.ycombinator.com/item?id=47296259) - [Segagaga Has Been Translated into English](https://www.thedreamcastjunkyard.co.uk/2026/02/segagaga-has-finally-been-translated.html)
 * [2026-03-08, 10:01:23](https://news.ycombinator.com/item?id=47295996) - [Bippy: React Internals Toolkit](https://www.bippy.dev/)
 * [2026-03-08, 09:30:25](https://news.ycombinator.com/item?id=47295871) - [Ask HN: Can I repurpose a Bluetooth voice remote as input device for a PC?](https://news.ycombinator.com/item?id=47295871)
+* [2026-03-08, 09:27:34](https://news.ycombinator.com/item?id=47295855) - [Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider](https://github.com/gcv/julia-snail)
 * [2026-03-08, 09:24:54](https://news.ycombinator.com/item?id=47295837) - [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)
 * [2026-03-08, 08:52:19](https://news.ycombinator.com/item?id=47295708) - [Llm9p: LLM as a Plan 9 file system](https://github.com/NERVsystems/llm9p)
 * [2026-03-08, 08:43:29](https://news.ycombinator.com/item?id=47295670) - [I'm Not Consulting an LLM](https://lr0.org/blog/p/gpt/)

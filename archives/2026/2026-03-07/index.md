@@ -63,6 +63,7 @@
 * [2026-03-07, 07:43:57](https://news.ycombinator.com/item?id=47285422) - [Sarvam 105B, the first competitive Indian open source LLM](https://www.sarvam.ai/blogs/sarvam-30b-105b)
 * [2026-03-07, 07:31:58](https://news.ycombinator.com/item?id=47285375) - [German police probe student poster slur (Lick my balls Merz) against Merz](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:260306-99-743434/)
 * [2026-03-07, 07:30:45](https://news.ycombinator.com/item?id=47285367) - [RVA23 Ends Speculation's Monopoly in RISC-V CPUs](https://semiwiki.com/ip/risc-v/367094-rva23-ends-speculations-monopoly-in-risc-v-cpus/)
+* [2026-03-07, 06:56:43](https://news.ycombinator.com/item?id=47285166) - [\"I built a spell checker for back end configuration mistakes.\"](https://www.npmjs.com/package/safelaunch)
 * [2026-03-07, 05:59:10](https://news.ycombinator.com/item?id=47284916) - [Why New Zealand is seeing an exodus of over-30s](https://www.cnn.com/2026/03/06/world/new-zealand-australia-emigration-midlife-intl-hnk-dst)
 * [2026-03-07, 05:41:04](https://news.ycombinator.com/item?id=47284834) - [AI Error May Have Contributed to Girl's School Bombing in Iran](https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/)
 * [2026-03-07, 05:31:13](https://news.ycombinator.com/item?id=47284781) - [How many options fit into a boolean?](https://herecomesthemoon.net/2025/11/how-many-options-fit-into-a-boolean/)
