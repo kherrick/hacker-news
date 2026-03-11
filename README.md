@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-11, 04:42:23](https://news.ycombinator.com/item?id=47331802) - [Standardizing Source Maps](https://bloomberg.github.io/js-blog/post/standardizing-source-maps/)
 * [2026-03-11, 02:04:22](https://news.ycombinator.com/item?id=47331034) - [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor)
 * [2026-03-11, 01:24:47](https://news.ycombinator.com/item?id=47330836) - [Zig – Type Resolution Redesign and Language Changes](https://ziglang.org/devlog/2026/#2026-03-10)
 * [2026-03-10, 22:33:48](https://news.ycombinator.com/item?id=47329608) - [Universal vaccine against respiratory infections and allergens](https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html)
 * [2026-03-10, 22:33:45](https://news.ycombinator.com/item?id=47329605) - [U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
 * [2026-03-10, 22:27:15](https://news.ycombinator.com/item?id=47329557) - [Cloudflare crawl endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
-* [2026-03-10, 19:56:52](https://news.ycombinator.com/item?id=47328034) - [Tell HN: Apple development certificate server seems down?](https://news.ycombinator.com/item?id=47328034)
 * [2026-03-10, 19:56:32](https://news.ycombinator.com/item?id=47328029) - [Mother of All Grease Fires (1994)](https://milk.com/wall-o-shame/bucket.html)
 * [2026-03-10, 19:09:46](https://news.ycombinator.com/item?id=47327559) - [Agents that run while I sleep](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
 * [2026-03-10, 19:02:01](https://news.ycombinator.com/item?id=47327473) - [Mesh over Bluetooth LE, TCP, or Reticulum](https://github.com/torlando-tech/columba)
@@ -23,13 +23,13 @@
 * [2026-03-10, 03:34:52](https://news.ycombinator.com/item?id=47318830) - [EQT eyes potential $6B sale of Linux pioneer SUSE, sources say](https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09)
 * [2026-03-10, 03:28:38](https://news.ycombinator.com/item?id=47318797) - [SSH Secret Menu](https://twitter.com/rebane2001/status/2031037389347406054)
 * [2026-03-09, 23:37:08](https://news.ycombinator.com/item?id=47317288) - [Open Weights isn't Open Training](https://www.workshoplabs.ai/blog/open-weights-open-training)
+* [2026-03-08, 10:51:54](https://news.ycombinator.com/item?id=47296284) - [Pike: To Exit or Not to Exit](https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/)
 * [2026-03-08, 10:01:23](https://news.ycombinator.com/item?id=47295996) - [Bippy: React Internals Toolkit](https://www.bippy.dev/)
 * [2026-03-08, 09:27:34](https://news.ycombinator.com/item?id=47295855) - [Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider](https://github.com/gcv/julia-snail)
 * [2026-03-08, 08:16:53](https://news.ycombinator.com/item?id=47295559) - [Invoker Commands API](https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API)
 * [2026-03-08, 01:20:05](https://news.ycombinator.com/item?id=47293337) - [Roblox is minting teen millionaires](https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry)
 * [2026-03-07, 17:50:35](https://news.ycombinator.com/item?id=47289809) - [Traditional tales from Cornwall, with maps for stories' locations](https://www.mazedtales.org/)
 * [2026-03-07, 17:29:54](https://news.ycombinator.com/item?id=47289590) - [Exploring the ocean with Raspberry Pi–powered marine robots](https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/)
-* [2026-03-07, 06:56:43](https://news.ycombinator.com/item?id=47285166) - [Show HN: Safelaunch – Validates your environment before you push to production](https://www.npmjs.com/package/safelaunch)
 
 ## [Archives](archives/index.md)
 

@@ -54,6 +54,7 @@
 * [2026-03-08, 11:27:49](https://news.ycombinator.com/item?id=47296481) - [If It Quacks Like a Package Manager](https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html)
 * [2026-03-08, 11:04:04](https://news.ycombinator.com/item?id=47296355) - [Show HN: Eyot, A programming language where the GPU is just another thread](https://cowleyforniastudios.com/2026/03/08/announcing-eyot/)
 * [2026-03-08, 10:54:32](https://news.ycombinator.com/item?id=47296302) - [Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage](https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/)
+* [2026-03-08, 10:51:54](https://news.ycombinator.com/item?id=47296284) - [Pike: To Exit or Not to Exit](https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/)
 * [2026-03-08, 10:47:21](https://news.ycombinator.com/item?id=47296259) - [Segagaga Has Been Translated into English](https://www.thedreamcastjunkyard.co.uk/2026/02/segagaga-has-finally-been-translated.html)
 * [2026-03-08, 10:01:23](https://news.ycombinator.com/item?id=47295996) - [Bippy: React Internals Toolkit](https://www.bippy.dev/)
 * [2026-03-08, 09:30:25](https://news.ycombinator.com/item?id=47295871) - [Ask HN: Can I repurpose a Bluetooth voice remote as input device for a PC?](https://news.ycombinator.com/item?id=47295871)
