@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-03-11, 14:35:53",
+      "https://news.ycombinator.com/item?id=47336111"
+    ],
+    [
+      "Faster Asin() Was Hiding in Plain Sight",
+      "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 14:08:48",
+      "https://news.ycombinator.com/item?id=47335772"
+    ],
+    [
+      "UK MPs give ministers powers to restrict Internet for under 18s",
+      "https://www.openrightsgroup.org/press-releases/mps-give-ministers-powers-to-restrict-entire-internet/"
+    ]
+  ],
+  [
+    [
       "2026-03-11, 13:52:01",
       "https://news.ycombinator.com/item?id=47335572"
     ],
     [
       "Whistleblower: DOGE member took Social Security data to new job",
       "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 13:33:33",
+      "https://news.ycombinator.com/item?id=47335369"
+    ],
+    [
+      "Where did you think the training data was coming from?",
+      "https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses"
     ]
   ],
   [
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2026-03-10, 19:02:01",
-      "https://news.ycombinator.com/item?id=47327473"
-    ],
-    [
-      "Mesh over Bluetooth LE, TCP, or Reticulum",
-      "https://github.com/torlando-tech/columba"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 17:14:52",
       "https://news.ycombinator.com/item?id=47326101"
     ],
     [
       "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
       "https://github.com/RunanywhereAI/rcli"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 15:12:52",
-      "https://news.ycombinator.com/item?id=47324364"
-    ],
-    [
-      "Surpassing vLLM with a Generated Inference Stack",
-      "https://infinity.inc/case-studies/qwen3-optimization"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2026-03-08, 10:51:54",
-      "https://news.ycombinator.com/item?id=47296284"
-    ],
-    [
-      "Pike: To Exit or Not to Exit",
-      "https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/"
-    ]
-  ],
-  [
-    [
       "2026-03-08, 10:46:56",
       "https://news.ycombinator.com/item?id=47296255"
     ],
     [
       "PeppyOS: A simpler alternative to ROS 2 (now with containers support)",
       "https://peppy.bot/"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 10:29:50",
+      "https://news.ycombinator.com/item?id=47296163"
+    ],
+    [
+      "Show HN: I wrote down every expensive hardware development mistake I've seen",
+      "https://thehardesthardwarelessons.com/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Building a TB-303 from Scratch",
       "https://loopmaster.xyz/tutorials/tb303-from-scratch"
-    ]
-  ],
-  [
-    [
-      "2026-03-07, 20:40:37",
-      "https://news.ycombinator.com/item?id=47291258"
-    ],
-    [
-      "Show HN: Custom Git-receive-pack implementation",
-      "https://github.com/runxiyu/furgit/tree/master/cmd/receivepack9418"
     ]
   ]
 ]
