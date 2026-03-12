@@ -129,6 +129,56 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47355213">
+          <h3>
+            <a class="item" href="https://github.com/Luka12-dev/AurionOS"
+              >Show HN: Aurion OS – A 32-bit GUI operating system written from
+              scratch in C</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-12 @ 18:33:30</span
+              ><span class="points-container"
+                >Points: <span class="points">30</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47355213"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                It's a 32-bit x86 operating system written entirely in C and x86
+                Assembly with no external libraries.
+              </p>
+              <p>
+                What it has: Custom bootloader and kernel VESA framebuffer
+                graphics (1920x1080, double-buffered) Window manager with
+                draggable, overlapping windows macOS-inspired dock with
+                transparency PS/2 keyboard and mouse drivers ATA hard drive
+                driver with filesystem PCI bus enumeration RTL8139 network
+                driver (WIP) Real-time clock Runs on just 16MB RAM (up to 10
+                windows simultaneously)
+              </p>
+              <p>
+                Built-in apps: Terminal (with DOS mode), Notepad (save/load),
+                Calculator, Paint (multiple colors and brush sizes), Snake game,
+                Settings (theme switching), and System Info.
+              </p>
+              <p>
+                Currently works best on QEMU, VirtualBox, and VMware. Real
+                hardware support is still a work in progress.
+              </p>
+              <p>Next goal: TCP/IP networking stack.</p>
+              <p>
+                I'd love any feedback, suggestions, or criticism. This is my
+                first OS project and I learned mass amounts while building it.
+                Happy to answer any technical questions!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="47354366">
           <h3>
             <a class="item" href="https://github.com/loderunner/scrt"
@@ -140,11 +190,33 @@
             <h4>
               <span>2026-03-12 @ 17:31:47</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47354366"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47354263">
+          <h3>
+            <a
+              class="item"
+              href="https://vidimitrov.substack.com/p/contextual-commits-an-open-standard"
+              >Contextual commits – An open standard for capturing the why in
+              Git history</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-12 @ 17:25:27</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47354263"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -161,11 +233,11 @@
             <h4>
               <span>2026-03-12 @ 17:13:56</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47354098"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -183,112 +255,13 @@
             <h4>
               <span>2026-03-12 @ 17:07:16</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47353993"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47353981">
-          <h3>
-            <a class="item" href="https://logclaw.ai"
-              >Show HN: LogClaw – Open-source AI SRE that auto-creates tickets
-              from logs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-12 @ 17:06:42</span
-              ><span class="points-container"
-                >Points: <span class="points">17</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47353981"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                LogClaw is an open-source log intelligence platform that runs on
-                Kubernetes. It ingests logs via OpenTelemetry and detects
-                anomalies using signal-based composite scoring — not simple
-                threshold alerting. The system extracts 8 failure-type signals
-                (OOM, crashes, resource exhaustion, dependency failures, DB
-                deadlocks, timeouts, connection errors, auth failures), combines
-                them with statistical z-score analysis, blast radius, error
-                velocity, and recurrence signals into a composite score.
-                Critical failures (OOM, panics) trigger the immediate detection
-                path in &lt;100ms — before a time window even completes. The
-                detection achieves 99.8% for critical failures while filtering
-                noise (validation errors and 404s don't fire incidents).
-              </p>
-              <p>
-                Once an anomaly is confirmed, a 5-layer trace correlation engine
-                groups logs by traceId, maps service dependencies, tracks error
-                propagation cascades, and computes blast radius across affected
-                services. Then the Ticketing Agent pulls the correlated
-                timeline, sends it to an LLM for root cause analysis, and
-                creates a deduplicated ticket on Jira, ServiceNow, PagerDuty,
-                OpsGenie, Slack, or Zammad. The loop from log noise to a filed
-                ticket is about 90 seconds.
-              </p>
-              <p>
-                Architecture: OTel Collector → Kafka (Strimzi, KRaft mode) →
-                Bridge (Python, 4 concurrent threads: ETL, anomaly detection,
-                OpenSearch indexing, trace correlation) → OpenSearch + Ticketing
-                Agent. The AI layer supports OpenAI, Claude, or Ollama for fully
-                air-gapped deployments. Everything deploys with a single Helm
-                chart per tenant, namespace-isolated, no shared data plane.
-              </p>
-              <p>
-                To try it locally:
-                <a href="https://docs.logclaw.ai/local-development"
-                  >https://docs.logclaw.ai/local-development</a
-                >
-              </p>
-              <p>
-                What it does NOT do yet: - Metrics and traces — this is
-                logs-only right now. Metrics support is on the roadmap. - The
-                anomaly detection is signal-based + statistical (composite
-                scoring with z-score), not deep learning. It catches 99.8% of
-                critical failures but won't detect subtle performance drift
-                patterns yet. - The dashboard is functional but basic. We use
-                OpenSearch Dashboards for the heavy lifting.
-              </p>
-              <p>
-                Licensed Apache 2.0. The managed cloud version is $0.30/GB
-                ingested if you don't want to self-host.
-              </p>
-              <p>
-                Hi HN — I’m Robel. I built LogClaw after getting tired of waking
-                up to alerts that only said “something is wrong” with no
-                context. LogClaw is an open-source log intelligence platform for
-                Kubernetes. It ingests logs via OpenTelemetry and detects
-                operational failures using signal-based anomaly detection rather
-                than simple thresholds. Instead of looking at a single metric,
-                LogClaw extracts failure signals from logs (OOMs, crashes,
-                dependency failures, DB deadlocks, timeouts, etc.) and combines
-                them with statistical signals like error velocity, recurrence,
-                z-score anomalies, and blast radius to compute a composite
-                anomaly score. Critical failures bypass time windows and trigger
-                detection in &lt;100ms. Once an anomaly is confirmed, a
-                correlation engine reconstructs the trace timeline across
-                services, detects error propagation, and computes the blast
-                radius. A ticketing agent then generates a root-cause summary
-                and creates deduplicated incidents in Jira, ServiceNow,
-                PagerDuty, OpsGenie, Slack, or Zammad. Architecture: OTel
-                Collector → Kafka → Detection Engine → OpenSearch → Ticketing
-                Agent Repo:
-                <a href="https://github.com/logclaw/logclaw"
-                  >https://github.com/logclaw/logclaw</a
-                >
-                Would love feedback from people running large production
-                systems.
-              </p>
-            </div>
           </section>
         </section>
         <section id="47353957">
@@ -302,7 +275,7 @@
             <h4>
               <span>2026-03-12 @ 17:04:35</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47353957"
                   >Comments</a
@@ -381,11 +354,11 @@
             <h4>
               <span>2026-03-12 @ 16:41:06</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47353558"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
             <div class="text">
@@ -445,11 +418,11 @@
             <h4>
               <span>2026-03-12 @ 16:38:51</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47353533"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -465,11 +438,11 @@
             <h4>
               <span>2026-03-12 @ 15:59:00</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47352751"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -486,11 +459,11 @@
             <h4>
               <span>2026-03-12 @ 15:43:39</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47352459"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -506,30 +479,11 @@
             <h4>
               <span>2026-03-12 @ 15:39:50</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47352385"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47352353">
-          <h3>
-            <a class="item" href="https://theorem.dev/blog/lf-lean/"
-              >Lf-lean: The frontier of verified software engineering</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-12 @ 15:37:37</span
-              ><span class="points-container"
-                >Points: <span class="points">13</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47352353"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -547,11 +501,11 @@
             <h4>
               <span>2026-03-12 @ 15:34:41</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47352297"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -566,11 +520,11 @@
             <h4>
               <span>2026-03-12 @ 15:31:21</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47352236"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -588,11 +542,11 @@
             <h4>
               <span>2026-03-12 @ 15:30:37</span
               ><span class="points-container"
-                >Points: <span class="points">275</span></span
+                >Points: <span class="points">311</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47352215"
                   >Comments</a
-                ><span class="descendants">: 177</span></span
+                ><span class="descendants">: 222</span></span
               >
             </h4>
           </section>
@@ -602,40 +556,18 @@
             <a
               class="item"
               href="https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller"
-              >ATMs didn't kill bank Teller jobs, but the iPhone did</a
+              >ATMs didn't kill bank teller jobs, but the iPhone did</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-12 @ 14:48:57</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">187</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47351371"
                   >Comments</a
-                ><span class="descendants">: 214</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47351239">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nbcchicago.com/consumer/suburban-school-district-uses-license-plate-readers-to-verify-student-residency/3906703/"
-              >Suburban school district uses license plate readers to verify
-              student residency</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-12 @ 14:41:12</span
-              ><span class="points-container"
-                >Points: <span class="points">166</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47351239"
-                  >Comments</a
-                ><span class="descendants">: 204</span></span
+                ><span class="descendants">: 238</span></span
               >
             </h4>
           </section>
@@ -651,13 +583,81 @@
             <h4>
               <span>2026-03-12 @ 14:22:43</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">224</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47350931"
                   >Comments</a
-                ><span class="descendants">: 170</span></span
+                ><span class="descendants">: 183</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="47350516">
+          <h3>
+            <a class="item" href="https://github.com/jrswab/axe"
+              >Show HN: Axe – A 12MB binary that replaces your AI framework</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-12 @ 13:49:12</span
+              ><span class="points-container"
+                >Points: <span class="points">78</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47350516"
+                  >Comments</a
+                ><span class="descendants">: 67</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Most frameworks want a long-lived session with a massive context
+                window doing everything at once. That's expensive, slow, and
+                fragile. Good software is small, focused, and composable... AI
+                agents should be too.
+              </p>
+              <p>
+                Axe treats LLM agents like Unix programs. Each agent is a TOML
+                config with a focused job. Such as code reviewer, log analyzer,
+                commit message writer. You can run them from the CLI, pipe data
+                in, get results out. You can use pipes to chain them together.
+                Or trigger from cron, git hooks, CI.
+              </p>
+              <p>What Axe is:</p>
+              <p>
+                - 12MB binary, two dependencies. no framework, no Python, no
+                Docker (unless you want it)
+              </p>
+              <p>
+                - Stdin piping, something like `git diff | axe run reviewer`
+                just works
+              </p>
+              <p>
+                - Sub-agent delegation. Where agents call other agents via tool
+                use, depth-limited
+              </p>
+              <p>
+                - Persistent memory. If you want, agents can remember across
+                runs without you managing state
+              </p>
+              <p>
+                - MCP support. Axe can connect any MCP server to your agents
+              </p>
+              <p>
+                - Built-in tools. Such as web_search and url_fetch out of the
+                box
+              </p>
+              <p>
+                - Multi-provider. Bring what you love to use.. Anthropic,
+                OpenAI, Ollama, or anything in models.dev format
+              </p>
+              <p>
+                - Path-sandboxed file ops. Keeps agents locked to a working
+                directory
+              </p>
+              <p>Written in Go. No daemon, no GUI.</p>
+              <p>What would you automate first?</p>
+            </div>
           </section>
         </section>
         <section id="47350424">
@@ -670,11 +670,11 @@
             <h4>
               <span>2026-03-12 @ 13:42:04</span
               ><span class="points-container"
-                >Points: <span class="points">647</span></span
+                >Points: <span class="points">729</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47350424"
                   >Comments</a
-                ><span class="descendants">: 256</span></span
+                ><span class="descendants">: 296</span></span
               >
             </h4>
             <div class="text">
@@ -682,6 +682,46 @@
                 href="https://fosdem.org/2026/schedule/event/SUVS7G-lets_end_open_source_together_with_this_one_simple_trick/"
                 >https://fosdem.org/2026/schedule/event/SUVS7G-lets_end_open_...</a
               >
+            </div>
+          </section>
+        </section>
+        <section id="47350416">
+          <h3>
+            <a class="item" href="https://github.com/obsessiondb/rudel"
+              >Show HN: Rudel – Claude Code Session Analytics</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-12 @ 13:41:12</span
+              ><span class="points-container"
+                >Points: <span class="points">110</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47350416"
+                  >Comments</a
+                ><span class="descendants">: 68</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                So we built an analytics layer for it. After connecting our own
+                sessions, we ended up with a dataset of 1,573 real Claude Code
+                sessions, 15M+ tokens, 270K+ interactions.
+              </p>
+              <p>
+                Some things we found that surprised us: - Skills were only being
+                used in 4% of our sessions - 26% of sessions are abandoned, most
+                within the first 60 seconds - Session success rate varies
+                significantly by task type (documentation scores highest,
+                refactoring lowest) - Error cascade patterns appear in the first
+                2 minutes and predict abandonment with reasonable accuracy -
+                There is no meaningful benchmark for 'good' agentic session
+                performance, we are building one.
+              </p>
+              <p>
+                The tool is free to use and fully open source, happy to answer
+                questions about the data or how we built it.
+              </p>
             </div>
           </section>
         </section>
@@ -696,11 +736,11 @@
             <h4>
               <span>2026-03-12 @ 13:16:11</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47350136"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -717,11 +757,11 @@
             <h4>
               <span>2026-03-12 @ 12:43:26</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47349798"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 129</span></span
               >
             </h4>
           </section>
@@ -739,11 +779,11 @@
             <h4>
               <span>2026-03-12 @ 12:41:29</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47349780"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -760,11 +800,11 @@
             <h4>
               <span>2026-03-12 @ 09:23:01</span
               ><span class="points-container"
-                >Points: <span class="points">240</span></span
+                >Points: <span class="points">247</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47348304"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -779,11 +819,11 @@
             <h4>
               <span>2026-03-12 @ 09:06:57</span
               ><span class="points-container"
-                >Points: <span class="points">187</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47348192"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -804,7 +844,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47347945"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -812,18 +852,18 @@
         <section id="47320559">
           <h3>
             <a class="item" href="https://sure.is/ansi/"
-              >Show HN: Web-Based ANSI Art Viewer</a
+              >Show HN: Web-based ANSI art viewer</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-10 @ 08:40:03</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47320559"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
@@ -831,6 +871,27 @@
                 There are some example links at the top if you're feeling lucky.
               </p>
             </div>
+          </section>
+        </section>
+        <section id="47319539">
+          <h3>
+            <a
+              class="item"
+              href="https://www.systemverilog.io/design/ddr4-initialization-and-calibration/"
+              >DDR4 Sdram – Initialization, Training and Calibration</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-10 @ 06:02:27</span
+              ><span class="points-container"
+                >Points: <span class="points">27</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47319539"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="47312226">
@@ -845,30 +906,11 @@
             <h4>
               <span>2026-03-09 @ 17:28:34</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47312226"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47308190">
-          <h3>
-            <a class="item" href="https://github.com/kaonashi-tyc/zi2zi-JiT"
-              >High fidelity font synthesis for CJK languages</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-09 @ 12:29:00</span
-              ><span class="points-container"
-                >Points: <span class="points">45</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47308190"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -885,30 +927,11 @@
             <h4>
               <span>2026-03-08 @ 16:11:02</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47298448"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47296645">
-          <h3>
-            <a class="item" href="https://github.com/carlini/printf-tac-toe"
-              >Printf-Tac-Toe</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-08 @ 12:01:07</span
-              ><span class="points-container"
-                >Points: <span class="points">110</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47296645"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
