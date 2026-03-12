@@ -88,6 +88,7 @@
 * [2026-03-08, 05:03:03](https://news.ycombinator.com/item?id=47294572) - [Rethinking Syntax: Binding by Adjacency](https://github.com/manifold-systems/manifold/blob/master/docs/articles/binding_exprs.md)
 * [2026-03-08, 05:02:38](https://news.ycombinator.com/item?id=47294568) - [Velxio, Arduino Emulator](https://velxio.dev/)
 * [2026-03-08, 04:47:36](https://news.ycombinator.com/item?id=47294487) - [Fatbikes are wreaking havoc in Sydney's wealthy beach suburbs](https://www.bbc.com/news/articles/cy8l1d221evo)
+* [2026-03-08, 03:57:30](https://news.ycombinator.com/item?id=47294271) - [Forcing Flash Attention onto a TPU and Learning the Hard Way](https://archerzhang.me/forcing-flash-attention-onto-a-tpu)
 * [2026-03-08, 03:07:05](https://news.ycombinator.com/item?id=47293985) - [Revisiting Time: UT1, UTC, NTP and NTS](https://www.potaroo.net/ispcol/2026-03/nts.html)
 * [2026-03-08, 02:59:35](https://news.ycombinator.com/item?id=47293938) - [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin)
 * [2026-03-08, 02:16:02](https://news.ycombinator.com/item?id=47293682) - [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame)

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
+* [2026-03-12, 21:21:08](https://news.ycombinator.com/item?id=47357294) - [Illinois introduces OS-level age verification law](https://legiscan.com/IL/bill/SB3977/2025)
+* [2026-03-12, 21:01:10](https://news.ycombinator.com/item?id=47357042) - [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
+* [2026-03-12, 20:55:51](https://news.ycombinator.com/item?id=47356968) - [AI error jails innocent grandmother for months in North Dakota fraud case](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 * [2026-03-12, 20:13:15](https://news.ycombinator.com/item?id=47356392) - [Bringing Chrome to ARM64 Linux Devices](https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html)
 * [2026-03-12, 19:41:35](https://news.ycombinator.com/item?id=47356017) - [An old photo of a large BBS](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
 * [2026-03-12, 19:21:45](https://news.ycombinator.com/item?id=47355781) - [Runners Are Discovering It's Surprisingly Easy to Churn Butter on Their Runs](https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/)
@@ -39,6 +42,7 @@
 * [2026-03-12, 13:45:09](https://news.ycombinator.com/item?id=47350467) - [USDA is closing buildings, relocating staff, and downsizing-a lot](https://www.foodpolitics.com/2026/03/usda-is-closing-buildings-relocating-staff-and-downsizing-a-lot/)
 * [2026-03-12, 13:42:04](https://news.ycombinator.com/item?id=47350424) - [Malus – Clean Room as a Service](https://malus.sh)
 * [2026-03-12, 13:41:12](https://news.ycombinator.com/item?id=47350416) - [Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work](https://github.com/obsessiondb/rudel)
+* [2026-03-12, 13:40:36](https://news.ycombinator.com/item?id=47350407) - [Document poisoning in RAG systems: How attackers corrupt AI's sources](https://aminrj.com/posts/rag-document-poisoning/)
 * [2026-03-12, 13:27:19](https://news.ycombinator.com/item?id=47350244) - [ArcaOS 5.1.2 (based on OS/2 Warp 4.52) now available](https://www.arcanoae.com/arcaos-5-1-2-now-available/)
 * [2026-03-12, 13:16:11](https://news.ycombinator.com/item?id=47350136) - [Long Overlooked as Crucial to Life, Fungi Start to Get Their Due](https://e360.yale.edu/features/fungi-kingdom)
 * [2026-03-12, 13:13:02](https://news.ycombinator.com/item?id=47350108) - [Show HN: Calyx – Ghostty-Based macOS Terminal with Liquid Glass UI](https://github.com/yuuichieguchi/Calyx)

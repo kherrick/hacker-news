@@ -49,6 +49,7 @@
 * [2026-03-11, 13:22:39](https://news.ycombinator.com/item?id=47335237) - [Lego's 0.002 mm Specification and Its Implications for Manufacturing (2025)](https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/)
 * [2026-03-11, 13:06:44](https://news.ycombinator.com/item?id=47335072) - [Hurricane Electric (HE.NET) IPv6 tunnelbroker page offline due to expired domain](https://tunnelbroker.net)
 * [2026-03-11, 12:57:41](https://news.ycombinator.com/item?id=47334982) - [Swiss e-voting pilot can't count 2,048 ballots after decryption failure](https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/)
+* [2026-03-11, 12:30:19](https://news.ycombinator.com/item?id=47334722) - [Should hack-back be legal?](https://speculumx.at/blogpost/should-hack-back-be-legal)
 * [2026-03-11, 12:27:15](https://news.ycombinator.com/item?id=47334694) - [Microsoft BitNet: 100B Param 1-Bit model for local CPUs](https://github.com/microsoft/BitNet)
 * [2026-03-11, 11:37:24](https://news.ycombinator.com/item?id=47334293) - [The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo)
 * [2026-03-11, 10:34:34](https://news.ycombinator.com/item?id=47333852) - [As US missiles leave South Korea, the Philippines asks: are we next?](https://www.scmp.com/week-asia/politics/article/3346226/us-missiles-leave-south-korea-philippines-asks-are-we-next)
