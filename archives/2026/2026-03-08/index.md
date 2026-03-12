@@ -16,6 +16,7 @@
 * [2026-03-08, 20:42:41](https://news.ycombinator.com/item?id=47301233) - [Artificial-life: A simple (300 lines of code) reproduction of Computational Life](https://github.com/Rabrg/artificial-life)
 * [2026-03-08, 20:30:18](https://news.ycombinator.com/item?id=47301085) - [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
 * [2026-03-08, 20:14:54](https://news.ycombinator.com/item?id=47300934) - [Neural Boids](https://campedersen.com/noid)
+* [2026-03-08, 20:01:19](https://news.ycombinator.com/item?id=47300785) - [What Happens After You Die? (2016)](https://lamag.com/news/the-end/)
 * [2026-03-08, 19:58:15](https://news.ycombinator.com/item?id=47300747) - [We should revisit literate programming in the agent era](https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/)
 * [2026-03-08, 19:45:54](https://news.ycombinator.com/item?id=47300560) - [Show HN: WhatsApp Clone – No Setup or Signup](https://positive-intentions.com/)
 * [2026-03-08, 19:26:59](https://news.ycombinator.com/item?id=47300329) - [Ask HN: Please restrict new accounts from posting](https://news.ycombinator.com/item?id=47300329)

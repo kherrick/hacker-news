@@ -47,6 +47,7 @@
 * [2026-03-09, 14:28:43](https://news.ycombinator.com/item?id=47309605) - [Algebraic topology: knots links and braids](https://aeb.win.tue.nl/at/algtop-5.html)
 * [2026-03-09, 13:01:01](https://news.ycombinator.com/item?id=47308468) - [Owner of ICE detention facility sees big opportunity in AI man camps](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
 * [2026-03-09, 12:52:20](https://news.ycombinator.com/item?id=47308394) - [FreeBSD Capsicum vs. Linux Seccomp Process Sandboxing](https://vivianvoss.net/blog/capsicum-vs-seccomp)
+* [2026-03-09, 12:47:11](https://news.ycombinator.com/item?id=47308349) - [WebPKI and You](https://blog.brycekerley.net/2026/03/08/webpki-and-you.html)
 * [2026-03-09, 12:38:46](https://news.ycombinator.com/item?id=47308278) - [Reverse-engineering the UniFi inform protocol](https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol)
 * [2026-03-09, 12:15:07](https://news.ycombinator.com/item?id=47308059) - [No leap second will be introduced at the end of June 2026](https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/)
 * [2026-03-09, 10:58:15](https://news.ycombinator.com/item?id=47307419) - [Nvidia backs AI data center startup Nscale as it hits $14.6B valuation](https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html)
