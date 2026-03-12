@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-12, 12:44:45",
+      "https://news.ycombinator.com/item?id=47349806"
+    ],
+    [
+      "US private credit defaults hit record 9.2% in 2025, Fitch says",
+      "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 11:49:05",
+      "https://news.ycombinator.com/item?id=47349334"
+    ],
+    [
+      "Are LLMs not getting better?",
+      "https://entropicthoughts.com/no-swe-bench-improvement"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 11:41:14",
+      "https://news.ycombinator.com/item?id=47349277"
+    ],
+    [
+      "Big Data on the Cheapest MacBook",
+      "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 09:46:00",
       "https://news.ycombinator.com/item?id=47348440"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-03-11, 15:54:23",
-      "https://news.ycombinator.com/item?id=47337249"
-    ],
-    [
-      "Show HN: Klaus – OpenClaw on a VM, batteries included",
-      "https://klausai.com/"
-    ]
-  ],
-  [
-    [
       "2026-03-11, 15:35:50",
       "https://news.ycombinator.com/item?id=47336989"
     ],
@@ -221,6 +241,16 @@
   ],
   [
     [
+      "2026-03-09, 18:12:16",
+      "https://news.ycombinator.com/item?id=47313008"
+    ],
+    [
+      "Thinnings: Sublist Witnesses and de Bruijn Index Shift Clumping",
+      "https://www.philipzucker.com/thin1/"
+    ]
+  ],
+  [
+    [
       "2026-03-09, 15:48:02",
       "https://news.ycombinator.com/item?id=47310617"
     ],
@@ -251,42 +281,12 @@
   ],
   [
     [
-      "2026-03-08, 20:01:19",
-      "https://news.ycombinator.com/item?id=47300785"
-    ],
-    [
-      "What Happens After You Die? (2016)",
-      "https://lamag.com/news/the-end/"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 15:08:48",
-      "https://news.ycombinator.com/item?id=47297930"
-    ],
-    [
-      "Galaxy Zoo",
-      "https://www.zooniverse.org/projects/zookeeper/galaxy-zoo"
-    ]
-  ],
-  [
-    [
       "2026-03-08, 12:01:07",
       "https://news.ycombinator.com/item?id=47296645"
     ],
     [
       "Printf-Tac-Toe",
       "https://github.com/carlini/printf-tac-toe"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 11:59:11",
-      "https://news.ycombinator.com/item?id=47296630"
-    ],
-    [
-      "About memory pressure, lock contention, and Data-oriented Design",
-      "https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/"
     ]
   ],
   [
