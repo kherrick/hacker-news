@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-12, 17:01:46",
+      "https://news.ycombinator.com/item?id=47353904"
+    ],
+    [
+      "Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite)",
+      "https://www.runconverge.com/careers/founding-platform-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 16:41:06",
+      "https://news.ycombinator.com/item?id=47353558"
+    ],
+    [
+      "Show HN: OneCLI – Vault for AI Agents in Rust",
+      "https://github.com/onecli/onecli"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 15:59:00",
+      "https://news.ycombinator.com/item?id=47352751"
+    ],
+    [
+      "Claude now creates interactive charts, diagrams and visualizations",
+      "https://claude.com/blog/claude-builds-visuals"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 15:43:39",
       "https://news.ycombinator.com/item?id=47352459"
     ],
@@ -41,16 +71,6 @@
   ],
   [
     [
-      "2026-03-12, 15:32:54",
-      "https://news.ycombinator.com/item?id=47352262"
-    ],
-    [
-      "US- and Greek-owned tankers ablaze after Iran claims 'underwater drone' strike",
-      "https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 15:30:37",
       "https://news.ycombinator.com/item?id=47352215"
     ],
@@ -81,32 +101,12 @@
   ],
   [
     [
-      "2026-03-12, 14:32:46",
-      "https://news.ycombinator.com/item?id=47351089"
-    ],
-    [
-      "Hive (YC S14) is hiring scrappy product managers and product/data engineers",
-      "https://jobs.ashbyhq.com/hive.co"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 14:22:43",
       "https://news.ycombinator.com/item?id=47350931"
     ],
     [
       "Kotlin creator's new language: a formal way to talk to LLMs instead of English",
       "https://codespeak.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 13:49:12",
-      "https://news.ycombinator.com/item?id=47350516"
-    ],
-    [
-      "Show HN: Axe A 12MB binary that replaces your AI framework",
-      "https://github.com/jrswab/axe"
     ]
   ],
   [
@@ -131,12 +131,12 @@
   ],
   [
     [
-      "2026-03-12, 13:27:19",
-      "https://news.ycombinator.com/item?id=47350244"
+      "2026-03-12, 13:16:11",
+      "https://news.ycombinator.com/item?id=47350136"
     ],
     [
-      "ArcaOS 5.1.2 (based on OS/2 Warp 4.52) now available",
-      "https://www.arcanoae.com/arcaos-5-1-2-now-available/"
+      "Long Overlooked as Crucial to Life, Fungi Start to Get Their Due",
+      "https://e360.yale.edu/features/fungi-kingdom"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-03-12, 00:22:19",
-      "https://news.ycombinator.com/item?id=47344548"
+      "2026-03-11, 19:29:29",
+      "https://news.ycombinator.com/item?id=47340079"
     ],
     [
-      "Show HN: s@: decentralized social networking over static sites",
-      "http://satproto.org/"
+      "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "https://news.ycombinator.com/newsguidelines.html#generated"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-03-09, 16:52:50",
-      "https://news.ycombinator.com/item?id=47311634"
+      "2026-03-09, 17:28:34",
+      "https://news.ycombinator.com/item?id=47312226"
     ],
     [
-      "The purpose of Continuous Integration is to fail",
-      "https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail"
+      "The Cost of Indirection in Rust",
+      "https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/"
     ]
   ],
   [
