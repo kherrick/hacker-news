@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-03-12, 20:13:15",
+      "https://news.ycombinator.com/item?id=47356392"
+    ],
+    [
+      "Bringing Chrome to ARM64 Linux Devices",
+      "https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 19:41:35",
       "https://news.ycombinator.com/item?id=47356017"
     ],
     [
-      "An old photo of a large BBS",
+      "An old photo of a large BBS (2022)",
       "https://rachelbythebay.com/w/2022/01/26/swcbbs/"
     ]
   ],
   [
     [
-      "2026-03-12, 19:14:21",
-      "https://news.ycombinator.com/item?id=47355702"
+      "2026-03-12, 19:21:45",
+      "https://news.ycombinator.com/item?id=47355781"
     ],
     [
-      "White House plan to break up iconic U.S. climate lab moves forward",
-      "https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward"
+      "Runners Are Discovering It's Surprisingly Easy to Churn Butter on Their Runs",
+      "https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/"
     ]
   ],
   [
@@ -151,12 +161,12 @@
   ],
   [
     [
-      "2026-03-12, 15:30:37",
-      "https://news.ycombinator.com/item?id=47352215"
+      "2026-03-12, 15:31:21",
+      "https://news.ycombinator.com/item?id=47352236"
     ],
     [
-      "Asia rolls out 4-day weeks, WFH to solve fuel crisis caused by Iran war",
-      "https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/"
+      "The Road Not Taken: A World Where IPv4 Evolved",
+      "https://owl.billpg.com/ipv4x/"
     ]
   ],
   [
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=47350931"
     ],
     [
-      "Kotlin creator's new language: a formal way to talk to LLMs instead of English",
+      "Kotlin creator's new language: talk to LLMs in specs, not English",
       "https://codespeak.dev/"
     ]
   ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2026-03-12, 12:43:26",
-      "https://news.ycombinator.com/item?id=47349798"
+      "2026-03-12, 12:44:45",
+      "https://news.ycombinator.com/item?id=47349806"
     ],
     [
-      "US banks' exposure to private credit hits $300B (2025)",
-      "https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/"
+      "US private credit defaults hit record 9.2% in 2025, Fitch says",
+      "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Dolphin Progress Release 2603",
       "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 08:40:03",
-      "https://news.ycombinator.com/item?id=47320559"
-    ],
-    [
-      "Show HN: Web-based ANSI art viewer",
-      "https://sure.is/ansi/"
     ]
   ],
   [
