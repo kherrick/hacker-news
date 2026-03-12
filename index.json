@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-12, 21:21:08",
+      "https://news.ycombinator.com/item?id=47357294"
+    ],
+    [
+      "Illinois introduces OS-level age verification law",
+      "https://legiscan.com/IL/bill/SB3977/2025"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 21:01:10",
+      "https://news.ycombinator.com/item?id=47357042"
+    ],
+    [
+      "Shall I implement it? No",
+      "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 20:55:51",
+      "https://news.ycombinator.com/item?id=47356968"
+    ],
+    [
+      "AI error jails innocent grandmother for months in North Dakota fraud case",
+      "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 20:13:15",
       "https://news.ycombinator.com/item?id=47356392"
     ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47355781"
     ],
     [
-      "Runners Are Discovering It's Surprisingly Easy to Churn Butter on Their Runs",
+      "Runners who churn butter on their runs",
       "https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/"
     ]
   ],
@@ -41,32 +71,12 @@
   ],
   [
     [
-      "2026-03-12, 17:25:27",
-      "https://news.ycombinator.com/item?id=47354263"
-    ],
-    [
-      "Contextual commits – An open standard for capturing the why in Git history",
-      "https://vidimitrov.substack.com/p/contextual-commits-an-open-standard"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 17:13:56",
       "https://news.ycombinator.com/item?id=47354098"
     ],
     [
       "Bubble Sorted Amen Break",
       "https://parametricavocado.itch.io/amen-sorting"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 17:07:16",
-      "https://news.ycombinator.com/item?id=47353993"
-    ],
-    [
-      "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
-      "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/"
     ]
   ],
   [
@@ -111,31 +121,11 @@
   ],
   [
     [
-      "2026-03-12, 16:12:04",
-      "https://news.ycombinator.com/item?id=47353019"
-    ],
-    [
-      "The Emotional Labor Behind AI Intimacy (2025) [pdf]",
-      "https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 15:59:00",
-      "https://news.ycombinator.com/item?id=47352751"
-    ],
-    [
-      "Claude now creates interactive charts, diagrams and visualizations",
-      "https://claude.com/blog/claude-builds-visuals"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 15:43:39",
       "https://news.ycombinator.com/item?id=47352459"
     ],
     [
-      "The Met Releases High-Def 3D Scans of 140 Famous Art Objects",
+      "The Met releases high-def 3D scans of 140 famous art objects",
       "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html"
     ]
   ],
@@ -147,16 +137,6 @@
     [
       "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
       "https://github.com/wolfssl/wolfip"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 15:34:41",
-      "https://news.ycombinator.com/item?id=47352297"
-    ],
-    [
-      "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion",
-      "https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/"
     ]
   ],
   [
@@ -177,16 +157,6 @@
     [
       "ATMs didn't kill bank teller jobs, but the iPhone did",
       "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 14:22:43",
-      "https://news.ycombinator.com/item?id=47350931"
-    ],
-    [
-      "Kotlin creator's new language: talk to LLMs in specs, not English",
-      "https://codespeak.dev/"
     ]
   ],
   [
@@ -221,12 +191,12 @@
   ],
   [
     [
-      "2026-03-12, 13:16:11",
-      "https://news.ycombinator.com/item?id=47350136"
+      "2026-03-12, 13:40:36",
+      "https://news.ycombinator.com/item?id=47350407"
     ],
     [
-      "Long Overlooked as Crucial to Life, Fungi Start to Get Their Due",
-      "https://e360.yale.edu/features/fungi-kingdom"
+      "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+      "https://aminrj.com/posts/rag-document-poisoning/"
     ]
   ],
   [
@@ -241,12 +211,42 @@
   ],
   [
     [
+      "2026-03-12, 11:49:05",
+      "https://news.ycombinator.com/item?id=47349334"
+    ],
+    [
+      "Are LLM merge rates not getting better?",
+      "https://entropicthoughts.com/no-swe-bench-improvement"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 11:41:14",
+      "https://news.ycombinator.com/item?id=47349277"
+    ],
+    [
+      "Big data on the cheapest MacBook",
+      "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 09:23:01",
       "https://news.ycombinator.com/item?id=47348304"
     ],
     [
       "Dolphin Progress Release 2603",
       "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 12:30:19",
+      "https://news.ycombinator.com/item?id=47334722"
+    ],
+    [
+      "Should hack-back be legal?",
+      "https://speculumx.at/blogpost/should-hack-back-be-legal"
     ]
   ],
   [
@@ -271,22 +271,12 @@
   ],
   [
     [
-      "2026-03-08, 19:27:50",
-      "https://news.ycombinator.com/item?id=47300343"
+      "2026-03-09, 00:00:05",
+      "https://news.ycombinator.com/item?id=47303044"
     ],
     [
-      "The Biggest Identity Sandpiles and How to Compute Them",
-      "https://eavan.blog/posts/big-identity-sandpiles.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 18:08:38",
-      "https://news.ycombinator.com/item?id=47299508"
-    ],
-    [
-      "NaN Is Weird",
-      "https://brassnet.biz/blog/nan-is-weird.html"
+      "NASA's DART spacecraft changed an asteroid's orbit around the sun",
+      "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Full Spectrum and Infrared Photography",
       "https://timstr.website/blog/fullspectrumphotography.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 03:57:30",
+      "https://news.ycombinator.com/item?id=47294271"
+    ],
+    [
+      "Forcing Flash Attention onto a TPU and Learning the Hard Way",
+      "https://archerzhang.me/forcing-flash-attention-onto-a-tpu"
     ]
   ]
 ]
