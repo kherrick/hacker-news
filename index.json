@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-12, 09:46:00",
+      "https://news.ycombinator.com/item?id=47348440"
+    ],
+    [
+      "1B identity records exposed in ID verification data leak",
+      "https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 08:27:16",
       "https://news.ycombinator.com/item?id=47347945"
     ],
     [
       "3D-Knitting: The Ultimate Guide",
       "https://www.oliver-charles.com/pages/3d-knitting"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 08:19:46",
+      "https://news.ycombinator.com/item?id=47347901"
+    ],
+    [
+      "Reliable Software in the LLM Era",
+      "https://quint-lang.org/posts/llm_era"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2026-03-11, 19:28:59",
-      "https://news.ycombinator.com/item?id=47340071"
-    ],
-    [
-      "I'm glad the Anthropic fight is happening now",
-      "https://www.dwarkesh.com/p/dow-anthropic"
-    ]
-  ],
-  [
-    [
       "2026-03-11, 18:22:21",
       "https://news.ycombinator.com/item?id=47339223"
     ],
@@ -127,16 +137,6 @@
     [
       "Show HN: I built a tool that watches webpages and exposes changes as RSS",
       "https://sitespy.app"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 15:54:23",
-      "https://news.ycombinator.com/item?id=47337249"
-    ],
-    [
-      "Show HN: Klaus – OpenClaw on a VM, batteries included",
-      "https://klausai.com/"
     ]
   ],
   [
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=47334694"
     ],
     [
-      "BitNet: 100B Param 1-Bit model for local CPUs",
+      "BitNet: Inference framework for 1-bit LLMs",
       "https://github.com/microsoft/BitNet"
     ]
   ],
