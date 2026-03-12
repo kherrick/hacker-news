@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-12, 21:38:06](https://news.ycombinator.com/item?id=47357515) - [Show HN: OpenClaw-class agents on ESP32 (and the IDE that makes it possible)](https://pycoclaw.com/)
+* [2026-03-12, 22:35:08](https://news.ycombinator.com/item?id=47358206) - [The AI coding divide: craft lovers vs. result chasers](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 * [2026-03-12, 21:01:10](https://news.ycombinator.com/item?id=47357042) - [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
 * [2026-03-12, 20:55:51](https://news.ycombinator.com/item?id=47356968) - [Innocent woman jailed after being misidentified using AI facial recognition](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 * [2026-03-12, 20:13:15](https://news.ycombinator.com/item?id=47356392) - [Bringing Chrome to ARM64 Linux Devices](https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html)
@@ -24,7 +24,7 @@
 * [2026-03-12, 11:49:05](https://news.ycombinator.com/item?id=47349334) - [Are LLM merge rates not getting better?](https://entropicthoughts.com/no-swe-bench-improvement)
 * [2026-03-12, 11:41:14](https://news.ycombinator.com/item?id=47349277) - [Big data on the cheapest MacBook](https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook)
 * [2026-03-12, 09:23:01](https://news.ycombinator.com/item?id=47348304) - [Dolphin Progress Release 2603](https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/)
-* [2026-03-10, 06:02:27](https://news.ycombinator.com/item?id=47319539) - [DDR4 Sdram – Initialization, Training and Calibration](https://www.systemverilog.io/design/ddr4-initialization-and-calibration/)
+* [2026-03-10, 04:48:50](https://news.ycombinator.com/item?id=47319177) - [Language Birth](https://asteriskmag.com/issues/13/language-birth)
 * [2026-03-09, 17:28:34](https://news.ycombinator.com/item?id=47312226) - [The Cost of Indirection in Rust](https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/)
 * [2026-03-09, 00:00:05](https://news.ycombinator.com/item?id=47303044) - [NASA's DART spacecraft changed an asteroid's orbit around the sun](https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa)
 * [2026-03-08, 16:11:02](https://news.ycombinator.com/item?id=47298448) - [Full Spectrum and Infrared Photography](https://timstr.website/blog/fullspectrumphotography.html)
