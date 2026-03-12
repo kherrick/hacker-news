@@ -24,10 +24,10 @@
 * [2026-03-12, 11:49:05](https://news.ycombinator.com/item?id=47349334) - [Are LLM merge rates not getting better?](https://entropicthoughts.com/no-swe-bench-improvement)
 * [2026-03-12, 11:41:14](https://news.ycombinator.com/item?id=47349277) - [Big data on the cheapest MacBook](https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook)
 * [2026-03-12, 09:23:01](https://news.ycombinator.com/item?id=47348304) - [Dolphin Progress Release 2603](https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/)
+* [2026-03-10, 06:02:27](https://news.ycombinator.com/item?id=47319539) - [DDR4 Sdram – Initialization, Training and Calibration](https://www.systemverilog.io/design/ddr4-initialization-and-calibration/)
 * [2026-03-10, 04:48:50](https://news.ycombinator.com/item?id=47319177) - [Language Birth](https://asteriskmag.com/issues/13/language-birth)
 * [2026-03-09, 17:28:34](https://news.ycombinator.com/item?id=47312226) - [The Cost of Indirection in Rust](https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/)
 * [2026-03-09, 00:00:05](https://news.ycombinator.com/item?id=47303044) - [NASA's DART spacecraft changed an asteroid's orbit around the sun](https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa)
-* [2026-03-08, 16:11:02](https://news.ycombinator.com/item?id=47298448) - [Full Spectrum and Infrared Photography](https://timstr.website/blog/fullspectrumphotography.html)
 * [2026-03-08, 13:51:36](https://news.ycombinator.com/item?id=47297308) - [Show HN: Detect any object in satellite imagery using a text prompt](https://www.useful-ai-tools.com/tools/satellite-analysis-demo/)
 * [2026-03-08, 03:57:30](https://news.ycombinator.com/item?id=47294271) - [Forcing Flash Attention onto a TPU and Learning the Hard Way](https://archerzhang.me/forcing-flash-attention-onto-a-tpu)
 
