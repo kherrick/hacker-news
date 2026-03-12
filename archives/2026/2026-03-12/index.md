@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
+* [2026-03-12, 15:43:39](https://news.ycombinator.com/item?id=47352459) - [The Met Releases High-Def 3D Scans of 140 Famous Art Objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html)
+* [2026-03-12, 15:36:53](https://news.ycombinator.com/item?id=47352335) - [Atlassian CEO: AI doesn't replace people here, but we're firing them anyway](https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html)
+* [2026-03-12, 15:34:41](https://news.ycombinator.com/item?id=47352297) - [Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion](https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/)
+* [2026-03-12, 15:33:34](https://news.ycombinator.com/item?id=47352277) - [Colon cancer now leading cause of cancer deaths under 50 in US](https://www.theguardian.com/us-news/2026/mar/12/colon-cancer-leading-deaths)
+* [2026-03-12, 15:32:54](https://news.ycombinator.com/item?id=47352262) - [US- and Greek-owned tankers ablaze after Iran claims 'underwater drone' strike](https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters)
+* [2026-03-12, 15:30:37](https://news.ycombinator.com/item?id=47352215) - [Asia rolls out 4-day weeks, WFH to solve fuel crisis caused by Iran war](https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/)
 * [2026-03-12, 14:48:57](https://news.ycombinator.com/item?id=47351371) - [ATMs didn't kill bank Teller jobs, but the iPhone did](https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller)
 * [2026-03-12, 14:41:12](https://news.ycombinator.com/item?id=47351239) - [Suburban school district uses license plate readers to verify student residency](https://www.nbcchicago.com/consumer/suburban-school-district-uses-license-plate-readers-to-verify-student-residency/3906703/)
 * [2026-03-12, 14:32:46](https://news.ycombinator.com/item?id=47351089) - [Hive (YC S14) is hiring scrappy product managers and product/data engineers](https://jobs.ashbyhq.com/hive.co)
