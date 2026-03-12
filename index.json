@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-03-12, 04:17:44",
-      "https://news.ycombinator.com/item?id=47346383"
+      "2026-03-12, 04:38:49",
+      "https://news.ycombinator.com/item?id=47346511"
     ],
     [
-      "US intelligence says Iran government is not at risk of collapse",
-      "https://www.reuters.com/business/media-telecom/us-intelligence-says-iran-government-is-not-risk-collapse-say-sources-2026-03-11/"
+      "WireGuard Is Two Things",
+      "https://www.proxylity.com/articles/wireguard-is-two-things.html"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "DHS Contracts Explorer – Hacked data from the Office of Industry Partnership",
       "https://micahflee.github.io/ice-contracts/"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 01:59:47",
+      "https://news.ycombinator.com/item?id=47345364"
+    ],
+    [
+      "Urea prices",
+      "https://tradingeconomics.com/commodity/urea"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Show HN: A context-aware permission guard for Claude Code",
       "https://github.com/manuelschipper/nah/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 21:23:24",
-      "https://news.ycombinator.com/item?id=47342139"
-    ],
-    [
-      "Preliminary data from a longitudinal AI impact study",
-      "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "https://news.ycombinator.com/newsguidelines.html#generated"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 18:22:21",
-      "https://news.ycombinator.com/item?id=47339223"
-    ],
-    [
-      "Personal Computer by Perplexity",
-      "https://www.perplexity.ai/personal-computer-waitlist"
     ]
   ],
   [
@@ -171,22 +161,22 @@
   ],
   [
     [
+      "2026-03-11, 14:35:53",
+      "https://news.ycombinator.com/item?id=47336111"
+    ],
+    [
+      "Faster asin() was hiding in plain sight",
+      "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/"
+    ]
+  ],
+  [
+    [
       "2026-03-11, 13:32:12",
       "https://news.ycombinator.com/item?id=47335349"
     ],
     [
       "Entities enabling scientific fraud at scale (2025)",
       "https://doi.org/10.1073/pnas.2420092122"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 12:57:41",
-      "https://news.ycombinator.com/item?id=47334982"
-    ],
-    [
-      "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
-      "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "The MacBook Neo",
       "https://daringfireball.net/2026/03/the_macbook_neo"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 09:59:03",
+      "https://news.ycombinator.com/item?id=47333627"
+    ],
+    [
+      "How we hacked McKinsey's AI platform",
+      "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
     ]
   ],
   [
