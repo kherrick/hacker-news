@@ -36,6 +36,7 @@
 * [2026-03-08, 16:22:24](https://news.ycombinator.com/item?id=47298553) - [Flash media longevity testing – 6 years later](https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/)
 * [2026-03-08, 15:37:32](https://news.ycombinator.com/item?id=47298183) - [Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
 * [2026-03-08, 15:21:09](https://news.ycombinator.com/item?id=47298044) - [FrameBook](https://fb.edoo.gg)
+* [2026-03-08, 15:08:48](https://news.ycombinator.com/item?id=47297930) - [Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo)
 * [2026-03-08, 15:07:28](https://news.ycombinator.com/item?id=47297919) - [Living human brain cells play DOOM on a CL1 [video]](https://www.youtube.com/watch?v=yRV8fSw6HaE)
 * [2026-03-08, 15:07:28](https://news.ycombinator.com/item?id=47297919) - [Living Human Brain Cells Play Doom on a CL1](https://corticallabs.com/doom.html)
 * [2026-03-08, 15:05:40](https://news.ycombinator.com/item?id=47297913) - [What if the Apple ][ had run on Field-Sequential?](https://nicole.express/2026/the-apple-that-wasnt.html)

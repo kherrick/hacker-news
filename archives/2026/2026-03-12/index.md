@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
 * [2026-03-12, 09:46:00](https://news.ycombinator.com/item?id=47348440) - [1B identity records exposed in ID verification data leak](https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html)
+* [2026-03-12, 09:06:57](https://news.ycombinator.com/item?id=47348192) - [Avoiding Trigonometry (2013)](https://iquilezles.org/articles/noacos/)
 * [2026-03-12, 08:27:16](https://news.ycombinator.com/item?id=47347945) - [3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting)
 * [2026-03-12, 08:19:46](https://news.ycombinator.com/item?id=47347901) - [Reliable Software in the LLM Era](https://quint-lang.org/posts/llm_era)
 * [2026-03-12, 06:55:56](https://news.ycombinator.com/item?id=47347362) - [SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf)
