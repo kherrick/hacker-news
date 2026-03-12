@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-03-12, 15:43:39",
+      "https://news.ycombinator.com/item?id=47352459"
+    ],
+    [
+      "The Met Releases High-Def 3D Scans of 140 Famous Art Objects",
+      "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 15:36:53",
+      "https://news.ycombinator.com/item?id=47352335"
+    ],
+    [
+      "Atlassian CEO: AI doesn't replace people here, but we're firing them anyway",
+      "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 15:34:41",
+      "https://news.ycombinator.com/item?id=47352297"
+    ],
+    [
+      "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion",
+      "https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 15:33:34",
+      "https://news.ycombinator.com/item?id=47352277"
+    ],
+    [
+      "Colon cancer now leading cause of cancer deaths under 50 in US",
+      "https://www.theguardian.com/us-news/2026/mar/12/colon-cancer-leading-deaths"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 15:32:54",
+      "https://news.ycombinator.com/item?id=47352262"
+    ],
+    [
+      "US- and Greek-owned tankers ablaze after Iran claims 'underwater drone' strike",
+      "https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 15:30:37",
+      "https://news.ycombinator.com/item?id=47352215"
+    ],
+    [
+      "Asia rolls out 4-day weeks, WFH to solve fuel crisis caused by Iran war",
+      "https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 14:48:57",
       "https://news.ycombinator.com/item?id=47351371"
     ],
@@ -51,16 +111,6 @@
   ],
   [
     [
-      "2026-03-12, 13:45:09",
-      "https://news.ycombinator.com/item?id=47350467"
-    ],
-    [
-      "USDA is closing buildings, relocating staff, and downsizing-a lot",
-      "https://www.foodpolitics.com/2026/03/usda-is-closing-buildings-relocating-staff-and-downsizing-a-lot/"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 13:42:04",
       "https://news.ycombinator.com/item?id=47350424"
     ],
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2026-03-12, 13:13:02",
-      "https://news.ycombinator.com/item?id=47350108"
-    ],
-    [
-      "Show HN: Calyx – Ghostty-Based macOS Terminal with Liquid Glass UI",
-      "https://github.com/yuuichieguchi/Calyx"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 12:43:26",
       "https://news.ycombinator.com/item?id=47349798"
     ],
@@ -127,16 +167,6 @@
     [
       "Big Data on the Cheapest MacBook",
       "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 09:46:00",
-      "https://news.ycombinator.com/item?id=47348440"
-    ],
-    [
-      "1B identity records exposed in ID verification data leak",
-      "https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html"
     ]
   ],
   [
@@ -211,22 +241,12 @@
   ],
   [
     [
-      "2026-03-11, 19:29:29",
-      "https://news.ycombinator.com/item?id=47340079"
+      "2026-03-10, 13:09:00",
+      "https://news.ycombinator.com/item?id=47322794"
     ],
     [
-      "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "https://news.ycombinator.com/newsguidelines.html#generated"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 18:17:30",
-      "https://news.ycombinator.com/item?id=47339164"
-    ],
-    [
-      "I was interviewed by an AI bot for a job",
-      "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job"
+      "SHOW HN: A usage circuit breaker for Cloudflare Workers",
+      "https://news.ycombinator.com/item?id=47322794"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2026-03-09, 12:47:11",
-      "https://news.ycombinator.com/item?id=47308349"
-    ],
-    [
-      "WebPKI and You",
-      "https://blog.brycekerley.net/2026/03/08/webpki-and-you.html"
-    ]
-  ],
-  [
-    [
       "2026-03-09, 12:29:00",
       "https://news.ycombinator.com/item?id=47308190"
     ],
     [
       "High fidelity font synthesis for CJK languages",
       "https://github.com/kaonashi-tyc/zi2zi-JiT"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 00:00:05",
-      "https://news.ycombinator.com/item?id=47303044"
-    ],
-    [
-      "NASA's DART spacecraft changed an asteroid's orbit around the sun",
-      "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa"
     ]
   ],
   [
