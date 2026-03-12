@@ -1,12 +1,72 @@
 [
   [
     [
-      "2026-03-12, 13:54:56",
-      "https://news.ycombinator.com/item?id=47350578"
+      "2026-03-12, 14:48:57",
+      "https://news.ycombinator.com/item?id=47351371"
     ],
     [
-      "Iranian Hacktivists Strike Medical Device Maker Stryker and Wiped Systems",
-      "https://www.zetter-zeroday.com/iranian-hacktivists-strike-medical-device-maker-stryker-in-severe-attack-that-wiped-systems/"
+      "ATMs didn't kill bank Teller jobs, but the iPhone did",
+      "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 14:41:12",
+      "https://news.ycombinator.com/item?id=47351239"
+    ],
+    [
+      "Suburban school district uses license plate readers to verify student residency",
+      "https://www.nbcchicago.com/consumer/suburban-school-district-uses-license-plate-readers-to-verify-student-residency/3906703/"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 14:32:46",
+      "https://news.ycombinator.com/item?id=47351089"
+    ],
+    [
+      "Hive (YC S14) is hiring scrappy product managers and product/data engineers",
+      "https://jobs.ashbyhq.com/hive.co"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 14:22:43",
+      "https://news.ycombinator.com/item?id=47350931"
+    ],
+    [
+      "Kotlin creator's new language: a formal way to talk to LLMs instead of English",
+      "https://codespeak.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 13:49:12",
+      "https://news.ycombinator.com/item?id=47350516"
+    ],
+    [
+      "Show HN: Axe A 12MB binary that replaces your AI framework",
+      "https://github.com/jrswab/axe"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 13:45:09",
+      "https://news.ycombinator.com/item?id=47350467"
+    ],
+    [
+      "USDA is closing buildings, relocating staff, and downsizing-a lot",
+      "https://www.foodpolitics.com/2026/03/usda-is-closing-buildings-relocating-staff-and-downsizing-a-lot/"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 13:42:04",
+      "https://news.ycombinator.com/item?id=47350424"
+    ],
+    [
+      "Malus – Clean Room as a Service",
+      "https://malus.sh"
     ]
   ],
   [
@@ -41,21 +101,11 @@
   ],
   [
     [
-      "2026-03-12, 12:44:45",
-      "https://news.ycombinator.com/item?id=47349806"
-    ],
-    [
-      "US private credit defaults hit record 9.2% in 2025, Fitch says",
-      "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 12:43:26",
       "https://news.ycombinator.com/item?id=47349798"
     ],
     [
-      "US banks' exposure to private credit hits $300B",
+      "US banks' exposure to private credit hits $300B (2025)",
       "https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/"
     ]
   ],
@@ -161,16 +211,6 @@
   ],
   [
     [
-      "2026-03-11, 21:01:42",
-      "https://news.ycombinator.com/item?id=47341760"
-    ],
-    [
-      "Meticulous (YC S21) is hiring to redefine software dev",
-      "https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e"
-    ]
-  ],
-  [
-    [
       "2026-03-11, 19:29:29",
       "https://news.ycombinator.com/item?id=47340079"
     ],
@@ -191,52 +231,12 @@
   ],
   [
     [
-      "2026-03-11, 16:21:06",
-      "https://news.ycombinator.com/item?id=47337607"
+      "2026-03-09, 16:52:50",
+      "https://news.ycombinator.com/item?id=47311634"
     ],
     [
-      "Show HN: I built a tool that watches webpages and exposes changes as RSS",
-      "https://sitespy.app"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 15:35:50",
-      "https://news.ycombinator.com/item?id=47336989"
-    ],
-    [
-      "Temporal: The 9-year journey to fix time in JavaScript",
-      "https://bloomberg.github.io/js-blog/post/temporal/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 11:37:24",
-      "https://news.ycombinator.com/item?id=47334293"
-    ],
-    [
-      "The MacBook Neo",
-      "https://daringfireball.net/2026/03/the_macbook_neo"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 04:44:46",
-      "https://news.ycombinator.com/item?id=47331811"
-    ],
-    [
-      "Making WebAssembly a first-class language on the Web",
-      "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 18:12:16",
-      "https://news.ycombinator.com/item?id=47313008"
-    ],
-    [
-      "Thinnings: Sublist Witnesses and de Bruijn Index Shift Clumping",
-      "https://www.philipzucker.com/thin1/"
+      "The purpose of Continuous Integration is to fail",
+      "https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail"
     ]
   ],
   [
