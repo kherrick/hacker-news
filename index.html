@@ -129,6 +129,230 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47354366">
+          <h3>
+            <a class="item" href="https://github.com/loderunner/scrt"
+              >Scrt: A CLI secret manager for developers, sysadmins and
+              DevOps</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-12 @ 17:31:47</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47354366"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47354098">
+          <h3>
+            <a
+              class="item"
+              href="https://parametricavocado.itch.io/amen-sorting"
+              >Bubble Sorted Amen Break</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-12 @ 17:13:56</span
+              ><span class="points-container"
+                >Points: <span class="points">103</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47354098"
+                  >Comments</a
+                ><span class="descendants">: 42</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47353993">
+          <h3>
+            <a
+              class="item"
+              href="https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/"
+              >Apple's MacBook Neo makes repairs easier and cheaper than other
+              MacBooks</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-12 @ 17:07:16</span
+              ><span class="points-container"
+                >Points: <span class="points">78</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47353993"
+                  >Comments</a
+                ><span class="descendants">: 30</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47353981">
+          <h3>
+            <a class="item" href="https://logclaw.ai"
+              >Show HN: LogClaw – Open-source AI SRE that auto-creates tickets
+              from logs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-12 @ 17:06:42</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47353981"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                LogClaw is an open-source log intelligence platform that runs on
+                Kubernetes. It ingests logs via OpenTelemetry and detects
+                anomalies using signal-based composite scoring — not simple
+                threshold alerting. The system extracts 8 failure-type signals
+                (OOM, crashes, resource exhaustion, dependency failures, DB
+                deadlocks, timeouts, connection errors, auth failures), combines
+                them with statistical z-score analysis, blast radius, error
+                velocity, and recurrence signals into a composite score.
+                Critical failures (OOM, panics) trigger the immediate detection
+                path in &lt;100ms — before a time window even completes. The
+                detection achieves 99.8% for critical failures while filtering
+                noise (validation errors and 404s don't fire incidents).
+              </p>
+              <p>
+                Once an anomaly is confirmed, a 5-layer trace correlation engine
+                groups logs by traceId, maps service dependencies, tracks error
+                propagation cascades, and computes blast radius across affected
+                services. Then the Ticketing Agent pulls the correlated
+                timeline, sends it to an LLM for root cause analysis, and
+                creates a deduplicated ticket on Jira, ServiceNow, PagerDuty,
+                OpsGenie, Slack, or Zammad. The loop from log noise to a filed
+                ticket is about 90 seconds.
+              </p>
+              <p>
+                Architecture: OTel Collector → Kafka (Strimzi, KRaft mode) →
+                Bridge (Python, 4 concurrent threads: ETL, anomaly detection,
+                OpenSearch indexing, trace correlation) → OpenSearch + Ticketing
+                Agent. The AI layer supports OpenAI, Claude, or Ollama for fully
+                air-gapped deployments. Everything deploys with a single Helm
+                chart per tenant, namespace-isolated, no shared data plane.
+              </p>
+              <p>
+                To try it locally:
+                <a href="https://docs.logclaw.ai/local-development"
+                  >https://docs.logclaw.ai/local-development</a
+                >
+              </p>
+              <p>
+                What it does NOT do yet: - Metrics and traces — this is
+                logs-only right now. Metrics support is on the roadmap. - The
+                anomaly detection is signal-based + statistical (composite
+                scoring with z-score), not deep learning. It catches 99.8% of
+                critical failures but won't detect subtle performance drift
+                patterns yet. - The dashboard is functional but basic. We use
+                OpenSearch Dashboards for the heavy lifting.
+              </p>
+              <p>
+                Licensed Apache 2.0. The managed cloud version is $0.30/GB
+                ingested if you don't want to self-host.
+              </p>
+              <p>
+                Hi HN — I’m Robel. I built LogClaw after getting tired of waking
+                up to alerts that only said “something is wrong” with no
+                context. LogClaw is an open-source log intelligence platform for
+                Kubernetes. It ingests logs via OpenTelemetry and detects
+                operational failures using signal-based anomaly detection rather
+                than simple thresholds. Instead of looking at a single metric,
+                LogClaw extracts failure signals from logs (OOMs, crashes,
+                dependency failures, DB deadlocks, timeouts, etc.) and combines
+                them with statistical signals like error velocity, recurrence,
+                z-score anomalies, and blast radius to compute a composite
+                anomaly score. Critical failures bypass time windows and trigger
+                detection in &lt;100ms. Once an anomaly is confirmed, a
+                correlation engine reconstructs the trace timeline across
+                services, detects error propagation, and computes the blast
+                radius. A ticketing agent then generates a root-cause summary
+                and creates deduplicated incidents in Jira, ServiceNow,
+                PagerDuty, OpsGenie, Slack, or Zammad. Architecture: OTel
+                Collector → Kafka → Detection Engine → OpenSearch → Ticketing
+                Agent Repo:
+                <a href="https://github.com/logclaw/logclaw"
+                  >https://github.com/logclaw/logclaw</a
+                >
+                Would love feedback from people running large production
+                systems.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47353957">
+          <h3>
+            <a class="item" href="https://github.com/understudy-ai/understudy"
+              >Show HN: Understudy – Teach a desktop agent by demonstrating a
+              task once</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-12 @ 17:04:35</span
+              ><span class="points-container"
+                >Points: <span class="points">36</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47353957"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Understudy is a local-first desktop agent runtime that can
+                operate GUI apps, browsers, shell tools, files, and messaging in
+                one session. The part I'm most interested in feedback on is
+                teach-by-demonstration: you do a task once, the agent records
+                screen video + semantic events, extracts the intent rather than
+                coordinates, and turns it into a reusable skill.
+              </p>
+              <p>
+                Demo video:
+                <a href="https://www.youtube.com/watch?v=3d5cRGnlb_0"
+                  >https://www.youtube.com/watch?v=3d5cRGnlb_0</a
+                >
+              </p>
+              <p>
+                In the demo I teach it: Google Image search -&gt; download a
+                photo -&gt; remove background in Pixelmator Pro -&gt; export
+                -&gt; send via Telegram. Then I ask it to do the same for Elon
+                Musk. The replay isn't a brittle macro: the published skill
+                stores intent steps, route options, and GUI hints only as a
+                fallback. In this example it can also prefer faster routes when
+                they are available instead of repeating every GUI step.
+              </p>
+              <p>
+                Current state: macOS only. Layers 1-2 are working today; Layers
+                3-4 are partial and still early.
+              </p>
+              <p></p>
+              <pre><code>    npm install -g @understudy-ai/understudy
+    understudy wizard
+</code></pre>
+              GitHub:
+              <a href="https://github.com/understudy-ai/understudy"
+                >https://github.com/understudy-ai/understudy</a
+              >
+              <p>
+                Happy to answer questions about the architecture,
+                teach-by-demonstration, or the limits of the current
+                implementation.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="47353904">
           <h3>
             <a
@@ -157,11 +381,11 @@
             <h4>
               <span>2026-03-12 @ 16:41:06</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47353558"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
             <div class="text">
@@ -209,6 +433,27 @@
             </div>
           </section>
         </section>
+        <section id="47353533">
+          <h3>
+            <a
+              class="item"
+              href="https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html"
+              >Reversing memory loss via gut-brain communication</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-12 @ 16:38:51</span
+              ><span class="points-container"
+                >Points: <span class="points">79</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47353533"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47352751">
           <h3>
             <a class="item" href="https://claude.com/blog/claude-builds-visuals"
@@ -220,11 +465,11 @@
             <h4>
               <span>2026-03-12 @ 15:59:00</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47352751"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -241,33 +486,50 @@
             <h4>
               <span>2026-03-12 @ 15:43:39</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47352459"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47352335">
+        <section id="47352385">
           <h3>
-            <a
-              class="item"
-              href="https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html"
-              >Atlassian CEO: AI doesn't replace people here, but we're firing
-              them anyway</a
+            <a class="item" href="https://github.com/wolfssl/wolfip"
+              >WolfIP: Lightweight TCP/IP stack with no dynamic memory
+              allocations</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-12 @ 15:36:53</span
+              <span>2026-03-12 @ 15:39:50</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47352335"
+                ><a href="https://news.ycombinator.com/item?id=47352385"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47352353">
+          <h3>
+            <a class="item" href="https://theorem.dev/blog/lf-lean/"
+              >Lf-lean: The frontier of verified software engineering</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-12 @ 15:37:37</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47352353"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -285,32 +547,30 @@
             <h4>
               <span>2026-03-12 @ 15:34:41</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47352297"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47352277">
+        <section id="47352236">
           <h3>
-            <a
-              class="item"
-              href="https://www.theguardian.com/us-news/2026/mar/12/colon-cancer-leading-deaths"
-              >Colon cancer now leading cause of cancer deaths under 50 in US</a
+            <a class="item" href="https://owl.billpg.com/ipv4x/"
+              >The Road Not Taken: A World Where IPv4 Evolved</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-12 @ 15:33:34</span
+              <span>2026-03-12 @ 15:31:21</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47352277"
+                ><a href="https://news.ycombinator.com/item?id=47352236"
                   >Comments</a
-                ><span class="descendants">: 138</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -328,11 +588,11 @@
             <h4>
               <span>2026-03-12 @ 15:30:37</span
               ><span class="points-container"
-                >Points: <span class="points">218</span></span
+                >Points: <span class="points">275</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47352215"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 177</span></span
               >
             </h4>
           </section>
@@ -349,11 +609,11 @@
             <h4>
               <span>2026-03-12 @ 14:48:57</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47351371"
                   >Comments</a
-                ><span class="descendants">: 179</span></span
+                ><span class="descendants">: 214</span></span
               >
             </h4>
           </section>
@@ -371,11 +631,11 @@
             <h4>
               <span>2026-03-12 @ 14:41:12</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47351239"
                   >Comments</a
-                ><span class="descendants">: 178</span></span
+                ><span class="descendants">: 204</span></span
               >
             </h4>
           </section>
@@ -391,11 +651,11 @@
             <h4>
               <span>2026-03-12 @ 14:22:43</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47350931"
                   >Comments</a
-                ><span class="descendants">: 147</span></span
+                ><span class="descendants">: 170</span></span
               >
             </h4>
           </section>
@@ -410,53 +670,18 @@
             <h4>
               <span>2026-03-12 @ 13:42:04</span
               ><span class="points-container"
-                >Points: <span class="points">548</span></span
+                >Points: <span class="points">647</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47350424"
                   >Comments</a
-                ><span class="descendants">: 199</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47350416">
-          <h3>
-            <a class="item" href="https://github.com/obsessiondb/rudel"
-              >Show HN: We analyzed 1,573 Claude Code sessions to see how AI
-              agents work</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-12 @ 13:41:12</span
-              ><span class="points-container"
-                >Points: <span class="points">104</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47350416"
-                  >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 256</span></span
               >
             </h4>
             <div class="text">
-              <p>
-                So we built an analytics layer for it. After connecting our own
-                sessions, we ended up with a dataset of 1,573 real Claude Code
-                sessions, 15M+ tokens, 270K+ interactions.
-              </p>
-              <p>
-                Some things we found that surprised us: - Skills were only being
-                used in 4% of our sessions - 26% of sessions are abandoned, most
-                within the first 60 seconds - Session success rate varies
-                significantly by task type (documentation scores highest,
-                refactoring lowest) - Error cascade patterns appear in the first
-                2 minutes and predict abandonment with reasonable accuracy -
-                There is no meaningful benchmark for 'good' agentic session
-                performance, we are building one.
-              </p>
-              <p>
-                The tool is free to use and fully open source, happy to answer
-                questions about the data or how we built it.
-              </p>
+              <a
+                href="https://fosdem.org/2026/schedule/event/SUVS7G-lets_end_open_source_together_with_this_one_simple_trick/"
+                >https://fosdem.org/2026/schedule/event/SUVS7G-lets_end_open_...</a
+              >
             </div>
           </section>
         </section>
@@ -471,11 +696,11 @@
             <h4>
               <span>2026-03-12 @ 13:16:11</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47350136"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -492,11 +717,11 @@
             <h4>
               <span>2026-03-12 @ 12:43:26</span
               ><span class="points-container"
-                >Points: <span class="points">179</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47349798"
                   >Comments</a
-                ><span class="descendants">: 101</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -514,32 +739,11 @@
             <h4>
               <span>2026-03-12 @ 12:41:29</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47349780"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47349277">
-          <h3>
-            <a
-              class="item"
-              href="https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook"
-              >Big Data on the Cheapest MacBook</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-12 @ 11:41:14</span
-              ><span class="points-container"
-                >Points: <span class="points">247</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47349277"
-                  >Comments</a
-                ><span class="descendants">: 222</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -556,7 +760,7 @@
             <h4>
               <span>2026-03-12 @ 09:23:01</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">240</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47348304"
                   >Comments</a
@@ -575,11 +779,11 @@
             <h4>
               <span>2026-03-12 @ 09:06:57</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">187</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47348192"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -596,185 +800,35 @@
             <h4>
               <span>2026-03-12 @ 08:27:16</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47347945"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47347901">
+        <section id="47320559">
           <h3>
-            <a class="item" href="https://quint-lang.org/posts/llm_era"
-              >Reliable Software in the LLM Era</a
+            <a class="item" href="https://sure.is/ansi/"
+              >Show HN: Web-Based ANSI Art Viewer</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-12 @ 08:19:46</span
+              <span>2026-03-10 @ 08:40:03</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47347901"
+                ><a href="https://news.ycombinator.com/item?id=47320559"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47347362">
-          <h3>
-            <a
-              class="item"
-              href="https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf"
-              >SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-12 @ 06:55:56</span
-              ><span class="points-container"
-                >Points: <span class="points">105</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47347362"
-                  >Comments</a
-                ><span class="descendants">: 69</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47347064">
-          <h3>
-            <a
-              class="item"
-              href="https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/"
-              >Returning to Rails in 2026</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-12 @ 06:06:46</span
-              ><span class="points-container"
-                >Points: <span class="points">315</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47347064"
-                  >Comments</a
-                ><span class="descendants">: 192</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47340079">
-          <h3>
-            <a
-              class="item"
-              href="https://news.ycombinator.com/newsguidelines.html#generated"
-              >Don't post generated/AI-edited comments. HN is for conversation
-              between humans</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-11 @ 19:29:29</span
-              ><span class="points-container"
-                >Points: <span class="points">4053</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47340079"
-                  >Comments</a
-                ><span class="descendants">: 1535</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47322794">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=47322794"
-              >SHOW HN: A usage circuit breaker for Cloudflare Workers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-10 @ 13:09:00</span
-              ><span class="points-container"
-                >Points: <span class="points">26</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47322794"
-                  >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
             <div class="text">
               <p>
-                The problem: Workers Paid Plan has hard monthly limits (10M
-                requests, 1M KV writes, 1M queue ops, etc.). There's no built-in
-                "pause when you hit the limit", CF just starts billing overages.
-                KV writes cost $5/M over the cap, so a retry loop bug can get
-                expensive fast.
-              </p>
-              <p>
-                AWS has Budget Alerts, but those are passive notifications, by
-                the time you read the email, the damage is done. I wanted
-                active, application-level self-protection.
-              </p>
-              <p>
-                So I built a circuit breaker that faces inward, instead of
-                protecting against downstream failures (the Hystrix pattern), it
-                monitors my own resource consumption and gracefully degrades
-                before hitting the ceiling.
-              </p>
-              <p>Key design decisions:</p>
-              <p>
-                - Per-resource thresholds: Workers Requests ($0.30/M overage)
-                only warns at 80%. KV Writes ($5/M overage) can trip the breaker
-                at 90%. Not all resources are equally dangerous, so some are
-                configured as warn-only (trip=null).
-              </p>
-              <p>
-                - Hysteresis: Trips at 90%, recovers at 85%. The 5% gap prevents
-                oscillation, without it the system flaps between tripped and
-                recovered every check cycle.
-              </p>
-              <p>
-                - Fail-safe on monitoring failure: If the CF usage API is down,
-                maintain last known state rather than assuming "everything is
-                fine." A monitoring outage shouldn't mask a usage spike.
-              </p>
-              <p>
-                - Alert dedup: Per-resource, per-month. Without it you'd get
-                ~8,600 identical emails for the rest of the month once a
-                resource hits 80%.
-              </p>
-              <p>
-                Implementation: every 5 minutes, queries CF's GraphQL API
-                (requests, CPU, KV, queues) + Observability Telemetry API
-                (logs/traces) in parallel, evaluates 8 resource dimensions,
-                caches state to KV. Between checks it's a single KV read —
-                essentially free.
-              </p>
-              <p>
-                When tripped, all scheduled tasks are skipped. The cron trigger
-                still fires (you can't stop that), but the first thing it does
-                is check the breaker and bail out if tripped.
-              </p>
-              <p>
-                It's been running in production for two weeks. Caught a KV reads
-                spike at 82% early in the month, got one warning email,
-                investigated, fixed the root cause, never hit the trip
-                threshold.
-              </p>
-              <p>
-                The pattern should apply to any metered serverless platform
-                (Lambda, Vercel, Supabase) or any API with budget ceilings
-                (OpenAI, Twilio). The core idea: treat your own resource budget
-                as a health signal, just like you'd treat a downstream service's
-                error rate.
-              </p>
-              <p>Happy to share code details if there's interest.</p>
-              <p>
-                Full writeup with implementation code and tests:
-                https://yingjiezhao.com/en/articles/Usage-Circuit-Breaker-for-Cloudflare-Workers
+                There are some example links at the top if you're feeling lucky.
               </p>
             </div>
           </section>
@@ -791,30 +845,11 @@
             <h4>
               <span>2026-03-09 @ 17:28:34</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47312226"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47310617">
-          <h3>
-            <a class="item" href="https://0dd.company/galleries/witches/7.html"
-              >Datahäxan</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-09 @ 15:48:02</span
-              ><span class="points-container"
-                >Points: <span class="points">118</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47310617"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -829,11 +864,32 @@
             <h4>
               <span>2026-03-09 @ 12:29:00</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47308190"
                   >Comments</a
                 ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47298448">
+          <h3>
+            <a
+              class="item"
+              href="https://timstr.website/blog/fullspectrumphotography.html"
+              >Full Spectrum and Infrared Photography</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-08 @ 16:11:02</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47298448"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -848,33 +904,11 @@
             <h4>
               <span>2026-03-08 @ 12:01:07</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47296645"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47296568">
-          <h3>
-            <a
-              class="item"
-              href="https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/"
-              >Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and
-              Results</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-08 @ 11:44:56</span
-              ><span class="points-container"
-                >Points: <span class="points">229</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47296568"
-                  >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
