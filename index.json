@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-12, 06:55:56",
+      "https://news.ycombinator.com/item?id=47347362"
+    ],
+    [
+      "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
+      "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 06:06:46",
       "https://news.ycombinator.com/item?id=47347064"
     ],
@@ -17,16 +27,6 @@
     [
       "Iran-backed hackers claim wiper attack on medtech firm Stryker",
       "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 02:03:01",
-      "https://news.ycombinator.com/item?id=47345393"
-    ],
-    [
-      "DHS Contracts Explorer – Hacked data from the Office of Industry Partnership",
-      "https://micahflee.github.io/ice-contracts/"
     ]
   ],
   [
