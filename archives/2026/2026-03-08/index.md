@@ -45,6 +45,7 @@
 * [2026-03-08, 15:05:40](https://news.ycombinator.com/item?id=47297913) - [What if the Apple ][ had run on Field-Sequential?](https://nicole.express/2026/the-apple-that-wasnt.html)
 * [2026-03-08, 14:09:09](https://news.ycombinator.com/item?id=47297453) - [LibreOffice: Request to the European Commission to adhere to its own guidances](https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/)
 * [2026-03-08, 13:54:08](https://news.ycombinator.com/item?id=47297326) - [Bypassing Apache Fop PostScript Escaping to Reach GhostScript](https://offsec.almond.consulting/bypassing-apache-fop-escaping-to-reach-ghostscript.html)
+* [2026-03-08, 13:51:36](https://news.ycombinator.com/item?id=47297308) - [Show HN: Detect any object in satellite imagery using a text prompt](https://www.useful-ai-tools.com/tools/satellite-analysis-demo/)
 * [2026-03-08, 13:28:26](https://news.ycombinator.com/item?id=47297167) - [Beagle, a source code management system that stores AST trees](https://github.com/gritzko/librdx/tree/master/be)
 * [2026-03-08, 13:16:14](https://news.ycombinator.com/item?id=47297091) - [CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git](https://github.com/kantord/blogtato)
 * [2026-03-08, 13:12:15](https://news.ycombinator.com/item?id=47297054) - [How Big Diaper absorbs billions of extra dollars from American parents](https://thehustle.co/originals/how-big-diaper-absorbs-billions-of-extra-dollars-from-american-parents)

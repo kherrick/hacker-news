@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
+* [2026-03-12, 21:38:06](https://news.ycombinator.com/item?id=47357515) - [Show HN: OpenClaw-class agents on ESP32 (and the IDE that makes it possible)](https://pycoclaw.com/)
 * [2026-03-12, 21:21:08](https://news.ycombinator.com/item?id=47357294) - [Illinois introduces OS-level age verification law](https://legiscan.com/IL/bill/SB3977/2025)
 * [2026-03-12, 21:01:10](https://news.ycombinator.com/item?id=47357042) - [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
 * [2026-03-12, 20:55:51](https://news.ycombinator.com/item?id=47356968) - [AI error jails innocent grandmother for months in North Dakota fraud case](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
