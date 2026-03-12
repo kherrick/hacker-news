@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
+* [2026-03-12, 18:33:30](https://news.ycombinator.com/item?id=47355213) - [Show HN: Aurion OS – A 32-bit GUI operating system written from scratch in C](https://github.com/Luka12-dev/AurionOS)
 * [2026-03-12, 17:31:47](https://news.ycombinator.com/item?id=47354366) - [Scrt: A CLI secret manager for developers, sysadmins and DevOps](https://github.com/loderunner/scrt)
+* [2026-03-12, 17:25:27](https://news.ycombinator.com/item?id=47354263) - [Contextual commits – An open standard for capturing the why in Git history](https://vidimitrov.substack.com/p/contextual-commits-an-open-standard)
 * [2026-03-12, 17:13:56](https://news.ycombinator.com/item?id=47354098) - [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting)
 * [2026-03-12, 17:07:16](https://news.ycombinator.com/item?id=47353993) - [Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks](https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/)
 * [2026-03-12, 17:06:42](https://news.ycombinator.com/item?id=47353981) - [Show HN: LogClaw – Open-source AI SRE that auto-creates tickets from logs](https://logclaw.ai)

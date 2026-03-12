@@ -64,6 +64,7 @@
 * [2026-03-10, 07:01:01](https://news.ycombinator.com/item?id=47319905) - [The Darkness from the Darkness](https://thebaffler.com/latest/the-darkness-from-the-darkness-giraldi)
 * [2026-03-10, 06:16:06](https://news.ycombinator.com/item?id=47319620) - [LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)](https://loger-project.github.io)
 * [2026-03-10, 06:11:42](https://news.ycombinator.com/item?id=47319587) - [Ask HN: How are people doing AI evals these days?](https://news.ycombinator.com/item?id=47319587)
+* [2026-03-10, 06:02:27](https://news.ycombinator.com/item?id=47319539) - [DDR4 Sdram – Initialization, Training and Calibration](https://www.systemverilog.io/design/ddr4-initialization-and-calibration/)
 * [2026-03-10, 05:58:56](https://news.ycombinator.com/item?id=47319520) - [5,200 holes carved into a Peruvian mountain left by an ancient economy](https://newatlas.com/environment/5-200-holes-peruvian-mountain/)
 * [2026-03-10, 05:29:48](https://news.ycombinator.com/item?id=47319387) - [Baochip-1x: A Mostly-Open, 22nm SoC for High Assurance Applications](https://www.bunniestudios.com/blog/2026/baochip-1x-a-mostly-open-22nm-soc-for-high-assurance-applications/)
 * [2026-03-10, 05:12:54](https://news.ycombinator.com/item?id=47319294) - [Claude Code, Claude Cowork and Codex #5](https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/)
