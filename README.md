@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-12, 06:55:56](https://news.ycombinator.com/item?id=47347362) - [SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf)
 * [2026-03-12, 06:06:46](https://news.ycombinator.com/item?id=47347064) - [Returning to Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/)
 * [2026-03-12, 03:29:28](https://news.ycombinator.com/item?id=47346091) - [Iran-backed hackers claim wiper attack on medtech firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
-* [2026-03-12, 02:03:01](https://news.ycombinator.com/item?id=47345393) - [DHS Contracts Explorer – Hacked data from the Office of Industry Partnership](https://micahflee.github.io/ice-contracts/)
 * [2026-03-12, 01:59:47](https://news.ycombinator.com/item?id=47345364) - [Urea prices](https://tradingeconomics.com/commodity/urea)
 * [2026-03-12, 00:22:19](https://news.ycombinator.com/item?id=47344548) - [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
 * [2026-03-11, 23:27:18](https://news.ycombinator.com/item?id=47343935) - [Show HN: Autoresearch@home](https://www.ensue-network.ai/autoresearch)
