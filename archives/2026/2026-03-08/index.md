@@ -19,6 +19,7 @@
 * [2026-03-08, 20:01:19](https://news.ycombinator.com/item?id=47300785) - [What Happens After You Die? (2016)](https://lamag.com/news/the-end/)
 * [2026-03-08, 19:58:15](https://news.ycombinator.com/item?id=47300747) - [We should revisit literate programming in the agent era](https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/)
 * [2026-03-08, 19:45:54](https://news.ycombinator.com/item?id=47300560) - [Show HN: WhatsApp Clone – No Setup or Signup](https://positive-intentions.com/)
+* [2026-03-08, 19:27:50](https://news.ycombinator.com/item?id=47300343) - [The Biggest Identity Sandpiles and How to Compute Them](https://eavan.blog/posts/big-identity-sandpiles.html)
 * [2026-03-08, 19:26:59](https://news.ycombinator.com/item?id=47300329) - [Ask HN: Please restrict new accounts from posting](https://news.ycombinator.com/item?id=47300329)
 * [2026-03-08, 19:07:33](https://news.ycombinator.com/item?id=47300102) - [Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds](https://github.com/BigBodyCobain/Shadowbroker)
 * [2026-03-08, 18:57:21](https://news.ycombinator.com/item?id=47299988) - [AI doesn't replace white collar work](https://www.marble.onl/posts/ai_doesnt_replace_work.html)

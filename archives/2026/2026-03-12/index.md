@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
+* [2026-03-12, 19:14:21](https://news.ycombinator.com/item?id=47355702) - [White House plan to break up iconic U.S. climate lab moves forward](https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward)
+* [2026-03-12, 18:52:36](https://news.ycombinator.com/item?id=47355410) - [Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference](https://ionrouter.io)
 * [2026-03-12, 18:33:30](https://news.ycombinator.com/item?id=47355213) - [Show HN: Aurion OS – A 32-bit GUI operating system written from scratch in C](https://github.com/Luka12-dev/AurionOS)
 * [2026-03-12, 17:31:47](https://news.ycombinator.com/item?id=47354366) - [Scrt: A CLI secret manager for developers, sysadmins and DevOps](https://github.com/loderunner/scrt)
 * [2026-03-12, 17:25:27](https://news.ycombinator.com/item?id=47354263) - [Contextual commits – An open standard for capturing the why in Git history](https://vidimitrov.substack.com/p/contextual-commits-an-open-standard)
@@ -14,6 +16,7 @@
 * [2026-03-12, 17:01:46](https://news.ycombinator.com/item?id=47353904) - [Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite)](https://www.runconverge.com/careers/founding-platform-engineer)
 * [2026-03-12, 16:41:06](https://news.ycombinator.com/item?id=47353558) - [Show HN: OneCLI – Vault for AI Agents in Rust](https://github.com/onecli/onecli)
 * [2026-03-12, 16:38:51](https://news.ycombinator.com/item?id=47353533) - [Reversing memory loss via gut-brain communication](https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html)
+* [2026-03-12, 16:12:04](https://news.ycombinator.com/item?id=47353019) - [The Emotional Labor Behind AI Intimacy (2025) [pdf]](https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf)
 * [2026-03-12, 15:59:00](https://news.ycombinator.com/item?id=47352751) - [Claude now creates interactive charts, diagrams and visualizations](https://claude.com/blog/claude-builds-visuals)
 * [2026-03-12, 15:43:39](https://news.ycombinator.com/item?id=47352459) - [The Met Releases High-Def 3D Scans of 140 Famous Art Objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html)
 * [2026-03-12, 15:39:50](https://news.ycombinator.com/item?id=47352385) - [WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations](https://github.com/wolfssl/wolfip)
