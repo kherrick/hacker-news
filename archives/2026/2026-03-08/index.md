@@ -51,6 +51,7 @@
 * [2026-03-08, 12:30:31](https://news.ycombinator.com/item?id=47296787) - [You Don't Need a Vector Database](https://vecstore.app/blog/you-dont-need-a-vector-database)
 * [2026-03-08, 12:04:48](https://news.ycombinator.com/item?id=47296664) - [Show HN: AI agents run my one-person company on Gemini's free tier – $0/month](https://news.ycombinator.com/item?id=47296664)
 * [2026-03-08, 12:04:36](https://news.ycombinator.com/item?id=47296662) - [Bypassing PatchGuard on Windows x64 (2005)](http://uninformed.org/index.cgi?v=3&a=3&t=txt)
+* [2026-03-08, 12:01:07](https://news.ycombinator.com/item?id=47296645) - [Printf-Tac-Toe](https://github.com/carlini/printf-tac-toe)
 * [2026-03-08, 11:59:43](https://news.ycombinator.com/item?id=47296635) - [Python's Lazy Imports: Why It Took Three Years and Two Attempts](https://techlife.blog/posts/the-story-of-pythons-lazy-imports-why-it-took-three-years-and-two-attempts/)
 * [2026-03-08, 11:59:11](https://news.ycombinator.com/item?id=47296630) - [About memory pressure, lock contention, and Data-oriented Design](https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/)
 * [2026-03-08, 11:44:56](https://news.ycombinator.com/item?id=47296568) - [Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results](https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/)

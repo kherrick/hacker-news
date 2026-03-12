@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-12, 08:27:16](https://news.ycombinator.com/item?id=47347945) - [3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting)
 * [2026-03-12, 06:55:56](https://news.ycombinator.com/item?id=47347362) - [SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf)
 * [2026-03-12, 06:06:46](https://news.ycombinator.com/item?id=47347064) - [Returning to Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/)
 * [2026-03-12, 03:29:28](https://news.ycombinator.com/item?id=47346091) - [Iran-backed hackers claim wiper attack on medtech firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
@@ -20,14 +21,13 @@
 * [2026-03-11, 12:27:15](https://news.ycombinator.com/item?id=47334694) - [BitNet: 100B Param 1-Bit model for local CPUs](https://github.com/microsoft/BitNet)
 * [2026-03-11, 11:37:24](https://news.ycombinator.com/item?id=47334293) - [The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo)
 * [2026-03-11, 04:44:46](https://news.ycombinator.com/item?id=47331811) - [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/)
-* [2026-03-10, 19:59:39](https://news.ycombinator.com/item?id=47328071) - [Against vibes: When is a generative model useful](https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/)
 * [2026-03-10, 05:58:56](https://news.ycombinator.com/item?id=47319520) - [5,200 holes carved into a Peruvian mountain left by an ancient economy](https://newatlas.com/environment/5-200-holes-peruvian-mountain/)
 * [2026-03-09, 15:48:02](https://news.ycombinator.com/item?id=47310617) - [Datahäxan](https://0dd.company/galleries/witches/7.html)
 * [2026-03-09, 12:47:11](https://news.ycombinator.com/item?id=47308349) - [WebPKI and You](https://blog.brycekerley.net/2026/03/08/webpki-and-you.html)
 * [2026-03-09, 06:04:24](https://news.ycombinator.com/item?id=47305357) - [Show HN: XLA-based array computing framework for R](https://github.com/r-xla/anvil)
 * [2026-03-09, 00:00:05](https://news.ycombinator.com/item?id=47303044) - [NASA's DART spacecraft changed an asteroid's orbit around the sun](https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa)
 * [2026-03-08, 20:01:19](https://news.ycombinator.com/item?id=47300785) - [What Happens After You Die? (2016)](https://lamag.com/news/the-end/)
-* [2026-03-08, 12:59:47](https://news.ycombinator.com/item?id=47296963) - [Challenging the Single-Responsibility Principle](https://kiss-and-solid.com/blog/keep-it-simple)
+* [2026-03-08, 12:01:07](https://news.ycombinator.com/item?id=47296645) - [Printf-Tac-Toe](https://github.com/carlini/printf-tac-toe)
 * [2026-03-08, 11:59:11](https://news.ycombinator.com/item?id=47296630) - [About memory pressure, lock contention, and Data-oriented Design](https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/)
 * [2026-03-08, 11:44:56](https://news.ycombinator.com/item?id=47296568) - [Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results](https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/)
 
