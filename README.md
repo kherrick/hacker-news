@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-12, 21:21:08](https://news.ycombinator.com/item?id=47357294) - [Illinois introduces OS-level age verification law](https://legiscan.com/IL/bill/SB3977/2025)
 * [2026-03-12, 21:01:10](https://news.ycombinator.com/item?id=47357042) - [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
-* [2026-03-12, 20:55:51](https://news.ycombinator.com/item?id=47356968) - [AI error jails innocent grandmother for months in North Dakota fraud case](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+* [2026-03-12, 20:55:51](https://news.ycombinator.com/item?id=47356968) - [Innocent woman jailed after being misidentified using AI facial recognition](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 * [2026-03-12, 20:13:15](https://news.ycombinator.com/item?id=47356392) - [Bringing Chrome to ARM64 Linux Devices](https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html)
 * [2026-03-12, 19:41:35](https://news.ycombinator.com/item?id=47356017) - [An old photo of a large BBS (2022)](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
 * [2026-03-12, 19:21:45](https://news.ycombinator.com/item?id=47355781) - [Runners who churn butter on their runs](https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/)
@@ -14,6 +13,7 @@
 * [2026-03-12, 16:38:51](https://news.ycombinator.com/item?id=47353533) - [Reversing memory loss via gut-brain communication](https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html)
 * [2026-03-12, 15:43:39](https://news.ycombinator.com/item?id=47352459) - [The Met releases high-def 3D scans of 140 famous art objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html)
 * [2026-03-12, 15:39:50](https://news.ycombinator.com/item?id=47352385) - [WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations](https://github.com/wolfssl/wolfip)
+* [2026-03-12, 15:34:41](https://news.ycombinator.com/item?id=47352297) - [Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion](https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/)
 * [2026-03-12, 15:31:21](https://news.ycombinator.com/item?id=47352236) - [The Road Not Taken: A World Where IPv4 Evolved](https://owl.billpg.com/ipv4x/)
 * [2026-03-12, 14:48:57](https://news.ycombinator.com/item?id=47351371) - [ATMs didn't kill bank teller jobs, but the iPhone did](https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller)
 * [2026-03-12, 13:49:12](https://news.ycombinator.com/item?id=47350516) - [Show HN: Axe – A 12MB binary that replaces your AI framework](https://github.com/jrswab/axe)
