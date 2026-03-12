@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-12, 08:27:16",
+      "https://news.ycombinator.com/item?id=47347945"
+    ],
+    [
+      "3D-Knitting: The Ultimate Guide",
+      "https://www.oliver-charles.com/pages/3d-knitting"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 06:55:56",
       "https://news.ycombinator.com/item?id=47347362"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-03-10, 19:59:39",
-      "https://news.ycombinator.com/item?id=47328071"
-    ],
-    [
-      "Against vibes: When is a generative model useful",
-      "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 05:58:56",
       "https://news.ycombinator.com/item?id=47319520"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-03-08, 12:59:47",
-      "https://news.ycombinator.com/item?id=47296963"
+      "2026-03-08, 12:01:07",
+      "https://news.ycombinator.com/item?id=47296645"
     ],
     [
-      "Challenging the Single-Responsibility Principle",
-      "https://kiss-and-solid.com/blog/keep-it-simple"
+      "Printf-Tac-Toe",
+      "https://github.com/carlini/printf-tac-toe"
     ]
   ],
   [
