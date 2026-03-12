@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-12, 18:33:30",
+      "https://news.ycombinator.com/item?id=47355213"
+    ],
+    [
+      "Show HN: Aurion OS – A 32-bit GUI operating system written from scratch in C",
+      "https://github.com/Luka12-dev/AurionOS"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 17:31:47",
       "https://news.ycombinator.com/item?id=47354366"
     ],
     [
       "Scrt: A CLI secret manager for developers, sysadmins and DevOps",
       "https://github.com/loderunner/scrt"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 17:25:27",
+      "https://news.ycombinator.com/item?id=47354263"
+    ],
+    [
+      "Contextual commits – An open standard for capturing the why in Git history",
+      "https://vidimitrov.substack.com/p/contextual-commits-an-open-standard"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
       "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 17:06:42",
-      "https://news.ycombinator.com/item?id=47353981"
-    ],
-    [
-      "Show HN: LogClaw – Open-source AI SRE that auto-creates tickets from logs",
-      "https://logclaw.ai"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2026-03-12, 15:37:37",
-      "https://news.ycombinator.com/item?id=47352353"
-    ],
-    [
-      "Lf-lean: The frontier of verified software engineering",
-      "https://theorem.dev/blog/lf-lean/"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 15:34:41",
       "https://news.ycombinator.com/item?id=47352297"
     ],
@@ -155,18 +155,8 @@
       "https://news.ycombinator.com/item?id=47351371"
     ],
     [
-      "ATMs didn't kill bank Teller jobs, but the iPhone did",
+      "ATMs didn't kill bank teller jobs, but the iPhone did",
       "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 14:41:12",
-      "https://news.ycombinator.com/item?id=47351239"
-    ],
-    [
-      "Suburban school district uses license plate readers to verify student residency",
-      "https://www.nbcchicago.com/consumer/suburban-school-district-uses-license-plate-readers-to-verify-student-residency/3906703/"
     ]
   ],
   [
@@ -181,12 +171,32 @@
   ],
   [
     [
+      "2026-03-12, 13:49:12",
+      "https://news.ycombinator.com/item?id=47350516"
+    ],
+    [
+      "Show HN: Axe – A 12MB binary that replaces your AI framework",
+      "https://github.com/jrswab/axe"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 13:42:04",
       "https://news.ycombinator.com/item?id=47350424"
     ],
     [
       "Malus – Clean Room as a Service",
       "https://malus.sh"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 13:41:12",
+      "https://news.ycombinator.com/item?id=47350416"
+    ],
+    [
+      "Show HN: Rudel – Claude Code Session Analytics",
+      "https://github.com/obsessiondb/rudel"
     ]
   ],
   [
@@ -255,8 +265,18 @@
       "https://news.ycombinator.com/item?id=47320559"
     ],
     [
-      "Show HN: Web-Based ANSI Art Viewer",
+      "Show HN: Web-based ANSI art viewer",
       "https://sure.is/ansi/"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 06:02:27",
+      "https://news.ycombinator.com/item?id=47319539"
+    ],
+    [
+      "DDR4 Sdram – Initialization, Training and Calibration",
+      "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-03-09, 12:29:00",
-      "https://news.ycombinator.com/item?id=47308190"
-    ],
-    [
-      "High fidelity font synthesis for CJK languages",
-      "https://github.com/kaonashi-tyc/zi2zi-JiT"
-    ]
-  ],
-  [
-    [
       "2026-03-08, 16:11:02",
       "https://news.ycombinator.com/item?id=47298448"
     ],
     [
       "Full Spectrum and Infrared Photography",
       "https://timstr.website/blog/fullspectrumphotography.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 12:01:07",
-      "https://news.ycombinator.com/item?id=47296645"
-    ],
-    [
-      "Printf-Tac-Toe",
-      "https://github.com/carlini/printf-tac-toe"
     ]
   ]
 ]
