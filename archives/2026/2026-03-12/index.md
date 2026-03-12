@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
+* [2026-03-12, 13:54:56](https://news.ycombinator.com/item?id=47350578) - [Iranian Hacktivists Strike Medical Device Maker Stryker and Wiped Systems](https://www.zetter-zeroday.com/iranian-hacktivists-strike-medical-device-maker-stryker-in-severe-attack-that-wiped-systems/)
+* [2026-03-12, 13:41:12](https://news.ycombinator.com/item?id=47350416) - [Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work](https://github.com/obsessiondb/rudel)
+* [2026-03-12, 13:27:19](https://news.ycombinator.com/item?id=47350244) - [ArcaOS 5.1.2 (based on OS/2 Warp 4.52) now available](https://www.arcanoae.com/arcaos-5-1-2-now-available/)
+* [2026-03-12, 13:13:02](https://news.ycombinator.com/item?id=47350108) - [Show HN: Calyx – Ghostty-Based macOS Terminal with Liquid Glass UI](https://github.com/yuuichieguchi/Calyx)
 * [2026-03-12, 12:44:45](https://news.ycombinator.com/item?id=47349806) - [US private credit defaults hit record 9.2% in 2025, Fitch says](https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d)
+* [2026-03-12, 12:43:26](https://news.ycombinator.com/item?id=47349798) - [US banks' exposure to private credit hits $300B](https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/)
+* [2026-03-12, 12:41:29](https://news.ycombinator.com/item?id=47349780) - [Emacs internals: Tagged pointers vs. C++ std:variant and LLVM (Part 3)](https://thecloudlet.github.io/blog/project/emacs-03/)
 * [2026-03-12, 11:49:05](https://news.ycombinator.com/item?id=47349334) - [Are LLMs not getting better?](https://entropicthoughts.com/no-swe-bench-improvement)
 * [2026-03-12, 11:41:14](https://news.ycombinator.com/item?id=47349277) - [Big Data on the Cheapest MacBook](https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook)
 * [2026-03-12, 09:46:00](https://news.ycombinator.com/item?id=47348440) - [1B identity records exposed in ID verification data leak](https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html)

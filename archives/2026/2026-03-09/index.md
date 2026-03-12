@@ -51,6 +51,7 @@
 * [2026-03-09, 12:52:20](https://news.ycombinator.com/item?id=47308394) - [FreeBSD Capsicum vs. Linux Seccomp Process Sandboxing](https://vivianvoss.net/blog/capsicum-vs-seccomp)
 * [2026-03-09, 12:47:11](https://news.ycombinator.com/item?id=47308349) - [WebPKI and You](https://blog.brycekerley.net/2026/03/08/webpki-and-you.html)
 * [2026-03-09, 12:38:46](https://news.ycombinator.com/item?id=47308278) - [Reverse-engineering the UniFi inform protocol](https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol)
+* [2026-03-09, 12:29:00](https://news.ycombinator.com/item?id=47308190) - [High fidelity font synthesis for CJK languages](https://github.com/kaonashi-tyc/zi2zi-JiT)
 * [2026-03-09, 12:15:07](https://news.ycombinator.com/item?id=47308059) - [No leap second will be introduced at the end of June 2026](https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/)
 * [2026-03-09, 10:58:15](https://news.ycombinator.com/item?id=47307419) - [Nvidia backs AI data center startup Nscale as it hits $14.6B valuation](https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html)
 * [2026-03-09, 10:28:08](https://news.ycombinator.com/item?id=47307169) - [Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer)
