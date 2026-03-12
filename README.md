@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-12, 19:41:35](https://news.ycombinator.com/item?id=47356017) - [An old photo of a large BBS](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
 * [2026-03-12, 19:14:21](https://news.ycombinator.com/item?id=47355702) - [White House plan to break up iconic U.S. climate lab moves forward](https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward)
 * [2026-03-12, 18:52:36](https://news.ycombinator.com/item?id=47355410) - [Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference](https://ionrouter.io)
-* [2026-03-12, 18:33:30](https://news.ycombinator.com/item?id=47355213) - [Show HN: Aurion OS – A 32-bit GUI operating system written from scratch in C](https://github.com/Luka12-dev/AurionOS)
 * [2026-03-12, 17:25:27](https://news.ycombinator.com/item?id=47354263) - [Contextual commits – An open standard for capturing the why in Git history](https://vidimitrov.substack.com/p/contextual-commits-an-open-standard)
 * [2026-03-12, 17:13:56](https://news.ycombinator.com/item?id=47354098) - [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting)
 * [2026-03-12, 17:07:16](https://news.ycombinator.com/item?id=47353993) - [Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks](https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/)
@@ -24,11 +24,11 @@
 * [2026-03-12, 13:16:11](https://news.ycombinator.com/item?id=47350136) - [Long Overlooked as Crucial to Life, Fungi Start to Get Their Due](https://e360.yale.edu/features/fungi-kingdom)
 * [2026-03-12, 12:43:26](https://news.ycombinator.com/item?id=47349798) - [US banks' exposure to private credit hits $300B (2025)](https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/)
 * [2026-03-12, 09:23:01](https://news.ycombinator.com/item?id=47348304) - [Dolphin Progress Release 2603](https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/)
-* [2026-03-12, 09:06:57](https://news.ycombinator.com/item?id=47348192) - [Avoiding Trigonometry (2013)](https://iquilezles.org/articles/noacos/)
 * [2026-03-10, 08:40:03](https://news.ycombinator.com/item?id=47320559) - [Show HN: Web-based ANSI art viewer](https://sure.is/ansi/)
 * [2026-03-10, 06:02:27](https://news.ycombinator.com/item?id=47319539) - [DDR4 Sdram – Initialization, Training and Calibration](https://www.systemverilog.io/design/ddr4-initialization-and-calibration/)
 * [2026-03-09, 17:28:34](https://news.ycombinator.com/item?id=47312226) - [The Cost of Indirection in Rust](https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/)
 * [2026-03-08, 19:27:50](https://news.ycombinator.com/item?id=47300343) - [The Biggest Identity Sandpiles and How to Compute Them](https://eavan.blog/posts/big-identity-sandpiles.html)
+* [2026-03-08, 18:08:38](https://news.ycombinator.com/item?id=47299508) - [NaN Is Weird](https://brassnet.biz/blog/nan-is-weird.html)
 * [2026-03-08, 16:11:02](https://news.ycombinator.com/item?id=47298448) - [Full Spectrum and Infrared Photography](https://timstr.website/blog/fullspectrumphotography.html)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
+* [2026-03-12, 19:41:35](https://news.ycombinator.com/item?id=47356017) - [An old photo of a large BBS](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
 * [2026-03-12, 19:14:21](https://news.ycombinator.com/item?id=47355702) - [White House plan to break up iconic U.S. climate lab moves forward](https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward)
 * [2026-03-12, 18:52:36](https://news.ycombinator.com/item?id=47355410) - [Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference](https://ionrouter.io)
 * [2026-03-12, 18:33:30](https://news.ycombinator.com/item?id=47355213) - [Show HN: Aurion OS – A 32-bit GUI operating system written from scratch in C](https://github.com/Luka12-dev/AurionOS)
