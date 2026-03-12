@@ -59,6 +59,7 @@
 * [2026-03-10, 08:54:53](https://news.ycombinator.com/item?id=47320661) - [Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
 * [2026-03-10, 08:48:40](https://news.ycombinator.com/item?id=47320614) - [Levels of Agentic Engineering](https://www.bassimeledath.com/blog/levels-of-agentic-engineering)
 * [2026-03-10, 08:46:53](https://news.ycombinator.com/item?id=47320600) - [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+* [2026-03-10, 08:40:03](https://news.ycombinator.com/item?id=47320559) - [Show HN: Web-Based ANSI Art Viewer](https://sure.is/ansi/)
 * [2026-03-10, 07:22:25](https://news.ycombinator.com/item?id=47320040) - [Can the Dictionary Keep Up?](https://www.thenation.com/article/culture/stefan-fatsis-dictionary-history/)
 * [2026-03-10, 07:01:01](https://news.ycombinator.com/item?id=47319905) - [The Darkness from the Darkness](https://thebaffler.com/latest/the-darkness-from-the-darkness-giraldi)
 * [2026-03-10, 06:16:06](https://news.ycombinator.com/item?id=47319620) - [LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)](https://loger-project.github.io)
