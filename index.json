@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-03-12, 19:14:21",
+      "https://news.ycombinator.com/item?id=47355702"
+    ],
+    [
+      "White House plan to break up iconic U.S. climate lab moves forward",
+      "https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 18:52:36",
+      "https://news.ycombinator.com/item?id=47355410"
+    ],
+    [
+      "Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference",
+      "https://ionrouter.io"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 18:33:30",
       "https://news.ycombinator.com/item?id=47355213"
     ],
     [
       "Show HN: Aurion OS – A 32-bit GUI operating system written from scratch in C",
       "https://github.com/Luka12-dev/AurionOS"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 17:31:47",
-      "https://news.ycombinator.com/item?id=47354366"
-    ],
-    [
-      "Scrt: A CLI secret manager for developers, sysadmins and DevOps",
-      "https://github.com/loderunner/scrt"
     ]
   ],
   [
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2026-03-12, 16:12:04",
+      "https://news.ycombinator.com/item?id=47353019"
+    ],
+    [
+      "The Emotional Labor Behind AI Intimacy (2025) [pdf]",
+      "https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 15:59:00",
       "https://news.ycombinator.com/item?id=47352751"
     ],
@@ -127,16 +147,6 @@
     [
       "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion",
       "https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 15:31:21",
-      "https://news.ycombinator.com/item?id=47352236"
-    ],
-    [
-      "The Road Not Taken: A World Where IPv4 Evolved",
-      "https://owl.billpg.com/ipv4x/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-03-12, 12:41:29",
-      "https://news.ycombinator.com/item?id=47349780"
-    ],
-    [
-      "Emacs internals: Tagged pointers vs. C++ std:variant and LLVM (Part 3)",
-      "https://thecloudlet.github.io/blog/project/emacs-03/"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 09:23:01",
       "https://news.ycombinator.com/item?id=47348304"
     ],
@@ -247,16 +247,6 @@
     [
       "Avoiding Trigonometry (2013)",
       "https://iquilezles.org/articles/noacos/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 08:27:16",
-      "https://news.ycombinator.com/item?id=47347945"
-    ],
-    [
-      "3D-Knitting: The Ultimate Guide",
-      "https://www.oliver-charles.com/pages/3d-knitting"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Cost of Indirection in Rust",
       "https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 19:27:50",
+      "https://news.ycombinator.com/item?id=47300343"
+    ],
+    [
+      "The Biggest Identity Sandpiles and How to Compute Them",
+      "https://eavan.blog/posts/big-identity-sandpiles.html"
     ]
   ],
   [
