@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-03-12, 17:31:47",
+      "https://news.ycombinator.com/item?id=47354366"
+    ],
+    [
+      "Scrt: A CLI secret manager for developers, sysadmins and DevOps",
+      "https://github.com/loderunner/scrt"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 17:13:56",
+      "https://news.ycombinator.com/item?id=47354098"
+    ],
+    [
+      "Bubble Sorted Amen Break",
+      "https://parametricavocado.itch.io/amen-sorting"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 17:07:16",
+      "https://news.ycombinator.com/item?id=47353993"
+    ],
+    [
+      "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
+      "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 17:06:42",
+      "https://news.ycombinator.com/item?id=47353981"
+    ],
+    [
+      "Show HN: LogClaw – Open-source AI SRE that auto-creates tickets from logs",
+      "https://logclaw.ai"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 17:04:35",
+      "https://news.ycombinator.com/item?id=47353957"
+    ],
+    [
+      "Show HN: Understudy – Teach a desktop agent by demonstrating a task once",
+      "https://github.com/understudy-ai/understudy"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 17:01:46",
       "https://news.ycombinator.com/item?id=47353904"
     ],
@@ -17,6 +67,16 @@
     [
       "Show HN: OneCLI – Vault for AI Agents in Rust",
       "https://github.com/onecli/onecli"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 16:38:51",
+      "https://news.ycombinator.com/item?id=47353533"
+    ],
+    [
+      "Reversing memory loss via gut-brain communication",
+      "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html"
     ]
   ],
   [
@@ -41,12 +101,22 @@
   ],
   [
     [
-      "2026-03-12, 15:36:53",
-      "https://news.ycombinator.com/item?id=47352335"
+      "2026-03-12, 15:39:50",
+      "https://news.ycombinator.com/item?id=47352385"
     ],
     [
-      "Atlassian CEO: AI doesn't replace people here, but we're firing them anyway",
-      "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html"
+      "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
+      "https://github.com/wolfssl/wolfip"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 15:37:37",
+      "https://news.ycombinator.com/item?id=47352353"
+    ],
+    [
+      "Lf-lean: The frontier of verified software engineering",
+      "https://theorem.dev/blog/lf-lean/"
     ]
   ],
   [
@@ -61,12 +131,12 @@
   ],
   [
     [
-      "2026-03-12, 15:33:34",
-      "https://news.ycombinator.com/item?id=47352277"
+      "2026-03-12, 15:31:21",
+      "https://news.ycombinator.com/item?id=47352236"
     ],
     [
-      "Colon cancer now leading cause of cancer deaths under 50 in US",
-      "https://www.theguardian.com/us-news/2026/mar/12/colon-cancer-leading-deaths"
+      "The Road Not Taken: A World Where IPv4 Evolved",
+      "https://owl.billpg.com/ipv4x/"
     ]
   ],
   [
@@ -121,16 +191,6 @@
   ],
   [
     [
-      "2026-03-12, 13:41:12",
-      "https://news.ycombinator.com/item?id=47350416"
-    ],
-    [
-      "Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work",
-      "https://github.com/obsessiondb/rudel"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 13:16:11",
       "https://news.ycombinator.com/item?id=47350136"
     ],
@@ -157,16 +217,6 @@
     [
       "Emacs internals: Tagged pointers vs. C++ std:variant and LLVM (Part 3)",
       "https://thecloudlet.github.io/blog/project/emacs-03/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 11:41:14",
-      "https://news.ycombinator.com/item?id=47349277"
-    ],
-    [
-      "Big Data on the Cheapest MacBook",
-      "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook"
     ]
   ],
   [
@@ -201,52 +251,12 @@
   ],
   [
     [
-      "2026-03-12, 08:19:46",
-      "https://news.ycombinator.com/item?id=47347901"
+      "2026-03-10, 08:40:03",
+      "https://news.ycombinator.com/item?id=47320559"
     ],
     [
-      "Reliable Software in the LLM Era",
-      "https://quint-lang.org/posts/llm_era"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 06:55:56",
-      "https://news.ycombinator.com/item?id=47347362"
-    ],
-    [
-      "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
-      "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 06:06:46",
-      "https://news.ycombinator.com/item?id=47347064"
-    ],
-    [
-      "Returning to Rails in 2026",
-      "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 19:29:29",
-      "https://news.ycombinator.com/item?id=47340079"
-    ],
-    [
-      "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "https://news.ycombinator.com/newsguidelines.html#generated"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 13:09:00",
-      "https://news.ycombinator.com/item?id=47322794"
-    ],
-    [
-      "SHOW HN: A usage circuit breaker for Cloudflare Workers",
-      "https://news.ycombinator.com/item?id=47322794"
+      "Show HN: Web-Based ANSI Art Viewer",
+      "https://sure.is/ansi/"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2026-03-09, 15:48:02",
-      "https://news.ycombinator.com/item?id=47310617"
-    ],
-    [
-      "Datahäxan",
-      "https://0dd.company/galleries/witches/7.html"
-    ]
-  ],
-  [
-    [
       "2026-03-09, 12:29:00",
       "https://news.ycombinator.com/item?id=47308190"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-03-08, 16:11:02",
+      "https://news.ycombinator.com/item?id=47298448"
+    ],
+    [
+      "Full Spectrum and Infrared Photography",
+      "https://timstr.website/blog/fullspectrumphotography.html"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 12:01:07",
       "https://news.ycombinator.com/item?id=47296645"
     ],
     [
       "Printf-Tac-Toe",
       "https://github.com/carlini/printf-tac-toe"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 11:44:56",
-      "https://news.ycombinator.com/item?id=47296568"
-    ],
-    [
-      "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
-      "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/"
     ]
   ]
 ]
