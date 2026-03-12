@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
+* [2026-03-12, 06:06:46](https://news.ycombinator.com/item?id=47347064) - [Returning to Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/)
 * [2026-03-12, 04:38:49](https://news.ycombinator.com/item?id=47346511) - [WireGuard Is Two Things](https://www.proxylity.com/articles/wireguard-is-two-things.html)
 * [2026-03-12, 04:17:44](https://news.ycombinator.com/item?id=47346383) - [US intelligence says Iran government is not at risk of collapse](https://www.reuters.com/business/media-telecom/us-intelligence-says-iran-government-is-not-risk-collapse-say-sources-2026-03-11/)
 * [2026-03-12, 03:29:28](https://news.ycombinator.com/item?id=47346091) - [Iran-backed hackers claim wiper attack on medtech firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)

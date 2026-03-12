@@ -35,6 +35,7 @@
 * [2026-03-09, 16:41:54](https://news.ycombinator.com/item?id=47311456) - [Jolla on track to ship new phone with Sailfish OS, user-replaceable battery](https://liliputing.com/the-new-jolla-phone-with-sailfish-os-is-on-track-to-start-shipping-in-the-first-half-of-2026/)
 * [2026-03-09, 16:36:15](https://news.ycombinator.com/item?id=47311380) - [Show HN: I gave my robot physical memory – it stopped repeating mistakes](https://github.com/robotmem/robotmem)
 * [2026-03-09, 16:24:22](https://news.ycombinator.com/item?id=47311179) - [An opinionated take on how to do important research that matters](https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html)
+* [2026-03-09, 15:48:02](https://news.ycombinator.com/item?id=47310617) - [Datahäxan](https://0dd.company/galleries/witches/7.html)
 * [2026-03-09, 15:44:04](https://news.ycombinator.com/item?id=47310556) - [Kuwaiti F/A-18's Triple Friendly Fire Shootdown Gets Stranger by the Day](https://www.twz.com/air/kuwaiti-f-a-18s-triple-friendly-fire-shootdown-gets-stranger-by-the-day)
 * [2026-03-09, 15:23:08](https://news.ycombinator.com/item?id=47310296) - [Restoring a Sun SPARCstation IPX Part 1: PSU and Nvram](https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram)
 * [2026-03-09, 15:12:53](https://news.ycombinator.com/item?id=47310160) - [Is legal the same as legitimate: AI reimplementation and the erosion of copyleft](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
@@ -66,3 +67,4 @@
 * [2026-03-09, 04:27:59](https://news.ycombinator.com/item?id=47304886) - [The death of social media is the renaissance of RSS (2025)](https://www.smartlab.at/rss-revival-life-after-social-media/)
 * [2026-03-09, 04:16:33](https://news.ycombinator.com/item?id=47304831) - [How the Sriracha guys screwed over their supplier](https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/)
 * [2026-03-09, 00:07:18](https://news.ycombinator.com/item?id=47303111) - [Ask HN: What Are You Working On? (March 2026)](https://news.ycombinator.com/item?id=47303111)
+* [2026-03-09, 00:00:05](https://news.ycombinator.com/item?id=47303044) - [NASA's DART spacecraft changed an asteroid's orbit around the sun](https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa)
