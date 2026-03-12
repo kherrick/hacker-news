@@ -31,6 +31,7 @@
 * [2026-03-09, 16:54:31](https://news.ycombinator.com/item?id=47311669) - [DARPA's new X-76 Experimental Plane](https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter)
 * [2026-03-09, 16:53:52](https://news.ycombinator.com/item?id=47311657) - [Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents](https://news.ycombinator.com/item?id=47311657)
 * [2026-03-09, 16:53:14](https://news.ycombinator.com/item?id=47311647) - [I don't know Apple's endgame for the Fn/Globe key–or if Apple does](https://aresluna.org/fn/)
+* [2026-03-09, 16:52:50](https://news.ycombinator.com/item?id=47311634) - [The purpose of Continuous Integration is to fail](https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail)
 * [2026-03-09, 16:49:55](https://news.ycombinator.com/item?id=47311585) - [What I Always Wanted to Know about Second Class Values](https://dl.acm.org/doi/epdf/10.1145/3759427.3760373)
 * [2026-03-09, 16:43:39](https://news.ycombinator.com/item?id=47311484) - [JSLinux Now Supports x86_64](https://bellard.org/jslinux/)
 * [2026-03-09, 16:41:54](https://news.ycombinator.com/item?id=47311456) - [Jolla on track to ship new phone with Sailfish OS, user-replaceable battery](https://liliputing.com/the-new-jolla-phone-with-sailfish-os-is-on-track-to-start-shipping-in-the-first-half-of-2026/)

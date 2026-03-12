@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
+* [2026-03-12, 14:48:57](https://news.ycombinator.com/item?id=47351371) - [ATMs didn't kill bank Teller jobs, but the iPhone did](https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller)
+* [2026-03-12, 14:41:12](https://news.ycombinator.com/item?id=47351239) - [Suburban school district uses license plate readers to verify student residency](https://www.nbcchicago.com/consumer/suburban-school-district-uses-license-plate-readers-to-verify-student-residency/3906703/)
+* [2026-03-12, 14:32:46](https://news.ycombinator.com/item?id=47351089) - [Hive (YC S14) is hiring scrappy product managers and product/data engineers](https://jobs.ashbyhq.com/hive.co)
+* [2026-03-12, 14:22:43](https://news.ycombinator.com/item?id=47350931) - [Kotlin creator's new language: a formal way to talk to LLMs instead of English](https://codespeak.dev/)
 * [2026-03-12, 13:54:56](https://news.ycombinator.com/item?id=47350578) - [Iranian Hacktivists Strike Medical Device Maker Stryker and Wiped Systems](https://www.zetter-zeroday.com/iranian-hacktivists-strike-medical-device-maker-stryker-in-severe-attack-that-wiped-systems/)
+* [2026-03-12, 13:49:12](https://news.ycombinator.com/item?id=47350516) - [Show HN: Axe A 12MB binary that replaces your AI framework](https://github.com/jrswab/axe)
+* [2026-03-12, 13:45:09](https://news.ycombinator.com/item?id=47350467) - [USDA is closing buildings, relocating staff, and downsizing-a lot](https://www.foodpolitics.com/2026/03/usda-is-closing-buildings-relocating-staff-and-downsizing-a-lot/)
+* [2026-03-12, 13:42:04](https://news.ycombinator.com/item?id=47350424) - [Malus – Clean Room as a Service](https://malus.sh)
 * [2026-03-12, 13:41:12](https://news.ycombinator.com/item?id=47350416) - [Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work](https://github.com/obsessiondb/rudel)
 * [2026-03-12, 13:27:19](https://news.ycombinator.com/item?id=47350244) - [ArcaOS 5.1.2 (based on OS/2 Warp 4.52) now available](https://www.arcanoae.com/arcaos-5-1-2-now-available/)
 * [2026-03-12, 13:13:02](https://news.ycombinator.com/item?id=47350108) - [Show HN: Calyx – Ghostty-Based macOS Terminal with Liquid Glass UI](https://github.com/yuuichieguchi/Calyx)
