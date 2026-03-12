@@ -25,6 +25,7 @@
 * [2026-03-09, 18:12:16](https://news.ycombinator.com/item?id=47313008) - [Thinnings: Sublist Witnesses and de Bruijn Index Shift Clumping](https://www.philipzucker.com/thin1/)
 * [2026-03-09, 17:57:00](https://news.ycombinator.com/item?id=47312728) - [Show HN: The Mog Programming Language](https://moglang.org)
 * [2026-03-09, 17:34:27](https://news.ycombinator.com/item?id=47312329) - [Fixfest is a global gathering of repairers, tinkerers, and activists](https://fixfest.therestartproject.org/)
+* [2026-03-09, 17:28:34](https://news.ycombinator.com/item?id=47312226) - [The Cost of Indirection in Rust](https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/)
 * [2026-03-09, 17:20:29](https://news.ycombinator.com/item?id=47312090) - [Florida Judge Rules Red Light Camera Tickets Are Unconstitutional](https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional)
 * [2026-03-09, 17:02:22](https://news.ycombinator.com/item?id=47311815) - [Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/)
 * [2026-03-09, 16:59:05](https://news.ycombinator.com/item?id=47311745) - [The 1979 Design Choice Breaking AI Workloads](https://www.cerebrium.ai/blog/rethinking-container-image-distribution-to-eliminate-cold-starts)

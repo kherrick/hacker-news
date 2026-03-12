@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
+* [2026-03-12, 17:01:46](https://news.ycombinator.com/item?id=47353904) - [Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite)](https://www.runconverge.com/careers/founding-platform-engineer)
+* [2026-03-12, 16:41:06](https://news.ycombinator.com/item?id=47353558) - [Show HN: OneCLI – Vault for AI Agents in Rust](https://github.com/onecli/onecli)
+* [2026-03-12, 15:59:00](https://news.ycombinator.com/item?id=47352751) - [Claude now creates interactive charts, diagrams and visualizations](https://claude.com/blog/claude-builds-visuals)
 * [2026-03-12, 15:43:39](https://news.ycombinator.com/item?id=47352459) - [The Met Releases High-Def 3D Scans of 140 Famous Art Objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html)
 * [2026-03-12, 15:36:53](https://news.ycombinator.com/item?id=47352335) - [Atlassian CEO: AI doesn't replace people here, but we're firing them anyway](https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html)
 * [2026-03-12, 15:34:41](https://news.ycombinator.com/item?id=47352297) - [Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion](https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/)
@@ -20,6 +23,7 @@
 * [2026-03-12, 13:42:04](https://news.ycombinator.com/item?id=47350424) - [Malus – Clean Room as a Service](https://malus.sh)
 * [2026-03-12, 13:41:12](https://news.ycombinator.com/item?id=47350416) - [Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work](https://github.com/obsessiondb/rudel)
 * [2026-03-12, 13:27:19](https://news.ycombinator.com/item?id=47350244) - [ArcaOS 5.1.2 (based on OS/2 Warp 4.52) now available](https://www.arcanoae.com/arcaos-5-1-2-now-available/)
+* [2026-03-12, 13:16:11](https://news.ycombinator.com/item?id=47350136) - [Long Overlooked as Crucial to Life, Fungi Start to Get Their Due](https://e360.yale.edu/features/fungi-kingdom)
 * [2026-03-12, 13:13:02](https://news.ycombinator.com/item?id=47350108) - [Show HN: Calyx – Ghostty-Based macOS Terminal with Liquid Glass UI](https://github.com/yuuichieguchi/Calyx)
 * [2026-03-12, 12:44:45](https://news.ycombinator.com/item?id=47349806) - [US private credit defaults hit record 9.2% in 2025, Fitch says](https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d)
 * [2026-03-12, 12:43:26](https://news.ycombinator.com/item?id=47349798) - [US banks' exposure to private credit hits $300B](https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/)
