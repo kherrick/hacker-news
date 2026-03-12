@@ -31,32 +31,12 @@
   ],
   [
     [
-      "2026-03-12, 01:59:47",
-      "https://news.ycombinator.com/item?id=47345364"
-    ],
-    [
-      "Urea prices",
-      "https://tradingeconomics.com/commodity/urea"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 00:22:19",
       "https://news.ycombinator.com/item?id=47344548"
     ],
     [
       "Show HN: s@: decentralized social networking over static sites",
       "http://satproto.org/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 23:27:18",
-      "https://news.ycombinator.com/item?id=47343935"
-    ],
-    [
-      "Show HN: Autoresearch@home",
-      "https://www.ensue-network.ai/autoresearch"
     ]
   ],
   [
@@ -97,6 +77,26 @@
     [
       "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "https://news.ycombinator.com/newsguidelines.html#generated"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 19:28:59",
+      "https://news.ycombinator.com/item?id=47340071"
+    ],
+    [
+      "I'm glad the Anthropic fight is happening now",
+      "https://www.dwarkesh.com/p/dow-anthropic"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 18:22:21",
+      "https://news.ycombinator.com/item?id=47339223"
+    ],
+    [
+      "Personal Computer by Perplexity",
+      "https://www.perplexity.ai/personal-computer-waitlist"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-03-09, 06:04:24",
+      "https://news.ycombinator.com/item?id=47305357"
+    ],
+    [
+      "Show HN: XLA-based array computing framework for R",
+      "https://github.com/r-xla/anvil"
+    ]
+  ],
+  [
+    [
       "2026-03-09, 00:00:05",
       "https://news.ycombinator.com/item?id=47303044"
     ],
@@ -287,16 +297,6 @@
     [
       "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
       "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 11:22:42",
-      "https://news.ycombinator.com/item?id=47296461"
-    ],
-    [
-      "CNN Explainer – Learn Convolutional Neural Network in Your Browser (2020)",
-      "https://poloclub.github.io/cnn-explainer/"
     ]
   ]
 ]
