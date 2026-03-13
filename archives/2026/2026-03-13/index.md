@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 05:18:01](https://news.ycombinator.com/item?id=47360978) - [Lost Doctor Who Episodes Found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o)
 * [2026-03-13, 05:06:36](https://news.ycombinator.com/item?id=47360892) - [Why Technology Makes Us More Productive but Not Richer](https://www.fullstackpm.tech/blog/productivity-paradox-capital-lockup)
+* [2026-03-13, 04:42:22](https://news.ycombinator.com/item?id=47360760) - [Show HN: Global Maritime Chokepoints](https://ryanshook.org/chokepoints/)
 * [2026-03-13, 04:36:40](https://news.ycombinator.com/item?id=47360730) - [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8)
 * [2026-03-13, 03:32:18](https://news.ycombinator.com/item?id=47360383) - [Hyperlinks in Terminal Emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda)
 * [2026-03-13, 03:06:37](https://news.ycombinator.com/item?id=47360243) - [Can You Instruct a Robot to Make a PBJ Sandwich?](https://pbj.deliberateinc.com/)
