@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 16:40:27](https://news.ycombinator.com/item?id=47366664) - [OVH forgot they donated documentation hosting to Pandas](https://github.com/pandas-dev/pandas/issues/64584)
+* [2026-03-13, 16:17:00](https://news.ycombinator.com/item?id=47366400) - [Channel Surfer – Watch YouTube Like It's Cable TV](https://channelsurfer.tv/)
 * [2026-03-13, 15:45:33](https://news.ycombinator.com/item?id=47366011) - [Launch HN: Captain (YC W26) – Automated RAG for Files](https://www.runcaptain.com/)
 * [2026-03-13, 15:29:16](https://news.ycombinator.com/item?id=47365784) - [NASA targets Artemis II crewed moon mission for April 1 launch](https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch)
 * [2026-03-13, 15:14:29](https://news.ycombinator.com/item?id=47365597) - [Meta Platforms: Lobbying, Dark Money, and the App Store Accountability Act](https://github.com/upper-up/meta-lobbying-and-other-findings)
