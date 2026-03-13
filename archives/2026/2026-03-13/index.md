@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 19:15:06](https://news.ycombinator.com/item?id=47368430) - [Stanford researchers report first recording of a blue whale's heart rate (2019)](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate)
 * [2026-03-13, 18:34:12](https://news.ycombinator.com/item?id=47367932) - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
+* [2026-03-13, 18:21:57](https://news.ycombinator.com/item?id=47367790) - [My Life Got 100x Better When I Stopped Thinking About Google](https://joostboer.com/google-quality-of-life)
 * [2026-03-13, 18:02:32](https://news.ycombinator.com/item?id=47367568) - [Your Phone Is an Entire Computer](https://medhir.com/blog/your-phone-is-an-entire-computer)
 * [2026-03-13, 17:58:22](https://news.ycombinator.com/item?id=47367526) - [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway)
 * [2026-03-13, 17:51:34](https://news.ycombinator.com/item?id=47367463) - [John Carmack about open source and anti-AI activists](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 * [2026-03-13, 17:49:54](https://news.ycombinator.com/item?id=47367443) - [The Accidental Room (2018)](https://99percentinvisible.org/episode/the-accidental-room/)
 * [2026-03-13, 17:27:12](https://news.ycombinator.com/item?id=47367220) - [Why the militaries are scrambling to create their own Starlink](https://www.newscientist.com/article/2517766-why-the-worlds-militaries-are-scrambling-to-create-their-own-starlink/)
 * [2026-03-13, 17:02:34](https://news.ycombinator.com/item?id=47366931) - [Revealed: Face of 75,000-year-old female Neanderthal from cave](https://www.cam.ac.uk/stories/shanidar-z-face-revealed)
+* [2026-03-13, 16:40:42](https://news.ycombinator.com/item?id=47366666) - [Elon Musk pushes out more xAI founders as AI coding effort falters](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
 * [2026-03-13, 16:40:27](https://news.ycombinator.com/item?id=47366664) - [OVH forgot they donated documentation hosting to Pandas](https://github.com/pandas-dev/pandas/issues/64584)
 * [2026-03-13, 16:17:00](https://news.ycombinator.com/item?id=47366400) - [Channel Surfer – Watch YouTube Like It's Cable TV](https://channelsurfer.tv/)
 * [2026-03-13, 16:13:30](https://news.ycombinator.com/item?id=47366374) - [The Wyden Siren Goes Off Again: We'll Be \"Stunned\" by NSA Under Section 702](https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/)
