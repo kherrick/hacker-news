@@ -47,6 +47,7 @@
 * [2026-03-11, 14:08:48](https://news.ycombinator.com/item?id=47335772) - [UK MPs give ministers powers to restrict Internet for under 18s](https://www.openrightsgroup.org/press-releases/mps-give-ministers-powers-to-restrict-entire-internet/)
 * [2026-03-11, 13:52:01](https://news.ycombinator.com/item?id=47335572) - [Whistleblower: DOGE member took Social Security data to new job](https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/)
 * [2026-03-11, 13:38:17](https://news.ycombinator.com/item?id=47335431) - [Show HN: I built an ISP infrastructure emulator from scratch with a custom vBNG](https://aether.saphal.me/dashboard/default)
+* [2026-03-11, 13:37:24](https://news.ycombinator.com/item?id=47335416) - [MetaGenesis Core – offline verification for computational claims](https://www.metagenesis-core.dev/)
 * [2026-03-11, 13:33:33](https://news.ycombinator.com/item?id=47335369) - [Where did you think the training data was coming from?](https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses)
 * [2026-03-11, 13:32:12](https://news.ycombinator.com/item?id=47335349) - [The entities enabling scientific fraud at scale are large, resilient and growing](https://doi.org/10.1073/pnas.2420092122)
 * [2026-03-11, 13:22:39](https://news.ycombinator.com/item?id=47335237) - [Lego's 0.002 mm Specification and Its Implications for Manufacturing (2025)](https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/)
