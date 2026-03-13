@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 18:02:32](https://news.ycombinator.com/item?id=47367568) - [Your Phone Is an Entire Computer](https://medhir.com/blog/your-phone-is-an-entire-computer)
+* [2026-03-13, 17:58:22](https://news.ycombinator.com/item?id=47367526) - [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway)
 * [2026-03-13, 17:49:54](https://news.ycombinator.com/item?id=47367443) - [The Accidental Room (2018)](https://99percentinvisible.org/episode/the-accidental-room/)
 * [2026-03-13, 17:27:12](https://news.ycombinator.com/item?id=47367220) - [Why the militaries are scrambling to create their own Starlink](https://www.newscientist.com/article/2517766-why-the-worlds-militaries-are-scrambling-to-create-their-own-starlink/)
 * [2026-03-13, 17:02:34](https://news.ycombinator.com/item?id=47366931) - [Revealed: Face of 75,000-year-old female Neanderthal from cave](https://www.cam.ac.uk/stories/shanidar-z-face-revealed)
