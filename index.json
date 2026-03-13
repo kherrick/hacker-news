@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-13, 16:40:27",
+      "https://news.ycombinator.com/item?id=47366664"
+    ],
+    [
+      "OVH forgot they donated documentation hosting to Pandas",
+      "https://github.com/pandas-dev/pandas/issues/64584"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 16:17:00",
+      "https://news.ycombinator.com/item?id=47366400"
+    ],
+    [
+      "Channel Surfer – Watch YouTube Like It's Cable TV",
+      "https://channelsurfer.tv/"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 15:45:33",
       "https://news.ycombinator.com/item?id=47366011"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2026-03-13, 14:11:36",
-      "https://news.ycombinator.com/item?id=47364729"
-    ],
-    [
-      "Parallels Confirms MacBook Neo Can Run Windows in a Virtual Machine",
-      "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/"
-    ]
-  ],
-  [
-    [
       "2026-03-13, 13:45:32",
       "https://news.ycombinator.com/item?id=47364397"
     ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=47363754"
     ],
     [
-      "Can I Run AI locally?",
+      "Can I run AI locally?",
       "https://www.canirun.ai/"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "Gvisor on Raspbian",
       "https://nubificus.co.uk/blog/gvisor-rpi5/"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 09:45:30",
-      "https://news.ycombinator.com/item?id=47362350"
-    ],
-    [
-      "Source code of Swedish e-government services has been leaked",
-      "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/"
     ]
   ],
   [
@@ -177,6 +177,16 @@
     [
       "An old photo of a large BBS (2022)",
       "https://rachelbythebay.com/w/2022/01/26/swcbbs/"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 17:13:56",
+      "https://news.ycombinator.com/item?id=47354098"
+    ],
+    [
+      "Bubble Sorted Amen Break",
+      "https://parametricavocado.itch.io/amen-sorting"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=47309445"
     ],
     [
-      "The Mrs Fractal: Mirror, Rotate, Scale",
+      "The Mrs Fractal: Mirror, Rotate, Scale (2025)",
       "https://www.4rknova.com//blog/2025/06/22/mrs-fractal"
     ]
   ],
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=47299518"
     ],
     [
-      "Monster Is the Machine",
+      "The Bovadium Fragments: Together with The Origin of Bovadium",
       "https://kirkcenter.org/reviews/monster-is-the-machine/"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 16:46:51",
-      "https://news.ycombinator.com/item?id=47298754"
-    ],
-    [
-      "Art Crimes: The Writing on the Wall",
-      "https://www.graffiti.org/"
     ]
   ]
 ]
