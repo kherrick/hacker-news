@@ -18,6 +18,7 @@
 * [2026-03-13, 10:08:54](https://news.ycombinator.com/item?id=47362487) - [Gvisor on Raspbian](https://nubificus.co.uk/blog/gvisor-rpi5/)
 * [2026-03-13, 10:08:36](https://news.ycombinator.com/item?id=47362485) - [Show HN: fftool – A Terminal UI for FFmpeg – Shows Command Before It Runs](https://bensantora.com/posts/fftool-ffmpeg-tui-go/)
 * [2026-03-13, 09:45:30](https://news.ycombinator.com/item?id=47362350) - [Source code of Swedish e-government services has been leaked](https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/)
+* [2026-03-13, 08:42:23](https://news.ycombinator.com/item?id=47361982) - [Vite+ Alpha: Unified Toolchain for the Web (MIT License)](https://voidzero.dev/posts/announcing-vite-plus-alpha)
 * [2026-03-13, 08:31:33](https://news.ycombinator.com/item?id=47361913) - [Bucketsquatting Is (Finally) Dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
 * [2026-03-13, 06:30:58](https://news.ycombinator.com/item?id=47361313) - [Ceno, browse the web without internet access](https://ceno.app/en/index.html?)
 * [2026-03-13, 05:18:01](https://news.ycombinator.com/item?id=47360978) - [Lost Doctor Who Episodes Found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o)

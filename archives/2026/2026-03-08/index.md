@@ -28,6 +28,7 @@
 * [2026-03-08, 18:21:20](https://news.ycombinator.com/item?id=47299625) - [\"I Can't Do That, Dave\" – No Agent Yet](https://systemic.engineering/ai-needs-identity/)
 * [2026-03-08, 18:18:40](https://news.ycombinator.com/item?id=47299606) - [I made a programming language with M&Ms](https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/)
 * [2026-03-08, 18:17:53](https://news.ycombinator.com/item?id=47299599) - [In vitro neurons learn and exhibit sentience when embodied in a game-world(2022)](https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627322008066%3Fshowall%3Dtrue)
+* [2026-03-08, 18:09:57](https://news.ycombinator.com/item?id=47299518) - [Monster Is the Machine](https://kirkcenter.org/reviews/monster-is-the-machine/)
 * [2026-03-08, 18:08:38](https://news.ycombinator.com/item?id=47299508) - [NaN Is Weird](https://brassnet.biz/blog/nan-is-weird.html)
 * [2026-03-08, 18:08:36](https://news.ycombinator.com/item?id=47299505) - [WSL Manager](https://github.com/bostrot/wsl2-distro-manager)
 * [2026-03-08, 17:17:54](https://news.ycombinator.com/item?id=47299022) - [Show HN: Skir – like Protocol Buffer but better](https://skir.build/)
