@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-13, 19:35:18",
+      "https://news.ycombinator.com/item?id=47368703"
+    ],
+    [
+      "The wild six weeks for NanoClaw's creator that led to a deal with Docker",
+      "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 19:15:06",
       "https://news.ycombinator.com/item?id=47368430"
     ],
@@ -11,22 +21,32 @@
   ],
   [
     [
+      "2026-03-13, 18:52:17",
+      "https://news.ycombinator.com/item?id=47368135"
+    ],
+    [
+      "Digg is gone again",
+      "https://digg.com/"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 18:42:54",
+      "https://news.ycombinator.com/item?id=47368033"
+    ],
+    [
+      "Mouser: An open source alternative to Logi-Plus mouse software",
+      "https://github.com/TomBadash/MouseControl"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 18:34:12",
       "https://news.ycombinator.com/item?id=47367932"
     ],
     [
       "Hammerspoon",
       "https://github.com/Hammerspoon/hammerspoon"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 18:21:57",
-      "https://news.ycombinator.com/item?id=47367790"
-    ],
-    [
-      "My Life Got 100x Better When I Stopped Thinking About Google",
-      "https://joostboer.com/google-quality-of-life"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2026-03-10, 15:04:35",
-      "https://news.ycombinator.com/item?id=47324256"
-    ],
-    [
-      "Show HN: Svglib a SVG parser and renderer for Windows",
-      "https://github.com/bibhas2/svglib"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 07:38:59",
       "https://news.ycombinator.com/item?id=47320158"
     ],
@@ -287,16 +297,6 @@
     [
       "Okmain: How to pick an OK main colour of an image",
       "https://dgroshev.com/blog/okmain/"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 10:21:58",
-      "https://news.ycombinator.com/item?id=47307124"
-    ],
-    [
-      "Willingness to look stupid",
-      "https://sharif.io/looking-stupid"
     ]
   ]
 ]
