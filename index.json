@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-13, 15:45:33",
+      "https://news.ycombinator.com/item?id=47366011"
+    ],
+    [
+      "Launch HN: Captain (YC W26) – Automated RAG for Files",
+      "https://www.runcaptain.com/"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 15:29:16",
+      "https://news.ycombinator.com/item?id=47365784"
+    ],
+    [
+      "NASA targets Artemis II crewed moon mission for April 1 launch",
+      "https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 15:14:29",
+      "https://news.ycombinator.com/item?id=47365597"
+    ],
+    [
+      "Meta Platforms: Lobbying, Dark Money, and the App Store Accountability Act",
+      "https://github.com/upper-up/meta-lobbying-and-other-findings"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 15:04:41",
       "https://news.ycombinator.com/item?id=47365461"
     ],
@@ -47,6 +77,16 @@
     [
       "E2E encrypted messaging on Instagram will no longer be supported after 8 May",
       "https://help.instagram.com/491565145294150"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 12:46:10",
+      "https://news.ycombinator.com/item?id=47363754"
+    ],
+    [
+      "Can I Run AI locally?",
+      "https://www.canirun.ai/"
     ]
   ],
   [
@@ -131,32 +171,12 @@
   ],
   [
     [
-      "2026-03-12, 21:01:10",
-      "https://news.ycombinator.com/item?id=47357042"
-    ],
-    [
-      "Shall I implement it? No",
-      "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 19:41:35",
       "https://news.ycombinator.com/item?id=47356017"
     ],
     [
       "An old photo of a large BBS (2022)",
       "https://rachelbythebay.com/w/2022/01/26/swcbbs/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 17:13:56",
-      "https://news.ycombinator.com/item?id=47354098"
-    ],
-    [
-      "Bubble Sorted Amen Break",
-      "https://parametricavocado.itch.io/amen-sorting"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2026-03-12, 15:43:39",
-      "https://news.ycombinator.com/item?id=47352459"
-    ],
-    [
-      "The Met releases high-def 3D scans of 140 famous art objects",
-      "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 14:48:57",
       "https://news.ycombinator.com/item?id=47351371"
     ],
     [
       "ATMs didn’t kill bank teller jobs, but the iPhone did",
       "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 12:44:45",
-      "https://news.ycombinator.com/item?id=47349806"
-    ],
-    [
-      "US private credit defaults hit record 9.2% in 2025, Fitch says",
-      "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d"
     ]
   ],
   [
@@ -227,16 +227,6 @@
     [
       "What we learned from a 22-Day storage bug (and how we fixed it)",
       "https://www.mux.com/blog/22-day-storage-bug"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 14:54:31",
-      "https://news.ycombinator.com/item?id=47309940"
-    ],
-    [
-      "Understanding the Go Runtime: The Scheduler",
-      "https://internals-for-interns.com/posts/go-runtime-scheduler/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Monster Is the Machine",
       "https://kirkcenter.org/reviews/monster-is-the-machine/"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 16:46:51",
+      "https://news.ycombinator.com/item?id=47298754"
+    ],
+    [
+      "Art Crimes: The Writing on the Wall",
+      "https://www.graffiti.org/"
     ]
   ]
 ]
