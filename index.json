@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-13, 19:58:02",
+      "https://news.ycombinator.com/item?id=47369036"
+    ],
+    [
+      "Who Goes Nazi? (1941)",
+      "https://harpers.org/archive/1941/08/who-goes-nazi/"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 19:48:03",
+      "https://news.ycombinator.com/item?id=47368874"
+    ],
+    [
+      "How do you capture WHY engineering decisions were made, not just what?",
+      "https://news.ycombinator.com/item?id=47368874"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 19:35:18",
       "https://news.ycombinator.com/item?id=47368703"
     ],
@@ -201,12 +221,12 @@
   ],
   [
     [
-      "2026-03-13, 10:08:54",
-      "https://news.ycombinator.com/item?id=47362487"
+      "2026-03-13, 09:45:30",
+      "https://news.ycombinator.com/item?id=47362350"
     ],
     [
-      "Gvisor on Raspbian",
-      "https://nubificus.co.uk/blog/gvisor-rpi5/"
+      "Source code of Swedish e-government services has been leaked",
+      "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/"
     ]
   ],
   [
@@ -215,7 +235,7 @@
       "https://news.ycombinator.com/item?id=47361913"
     ],
     [
-      "Bucketsquatting is (finally) dead",
+      "Bucketsquatting is finally dead",
       "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead"
     ]
   ],
@@ -231,22 +251,22 @@
   ],
   [
     [
-      "2026-03-12, 10:29:45",
-      "https://news.ycombinator.com/item?id=47348733"
+      "2026-03-13, 03:32:18",
+      "https://news.ycombinator.com/item?id=47360383"
     ],
     [
-      "Coding after coders: The end of computer programming as we know it",
-      "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share"
+      "Hyperlinks in terminal emulators",
+      "https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda"
     ]
   ],
   [
     [
-      "2026-03-12, 09:17:56",
-      "https://news.ycombinator.com/item?id=47348275"
+      "2026-03-11, 20:46:24",
+      "https://news.ycombinator.com/item?id=47341432"
     ],
     [
-      "Executing programs inside transformers with exponentially faster inference",
-      "https://www.percepta.ai/blog/can-llms-be-computers"
+      "New 'negative light' technology hides data transfers in plain sight",
+      "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Using Thunderbird for RSS",
       "https://rubenerd.com/using-thunderbird-for-rss/"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 14:49:30",
-      "https://news.ycombinator.com/item?id=47309877"
-    ],
-    [
-      "Removing recursion via explicit callstack simulation",
-      "https://jnkr.tech/blog/removing-recursion"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 14:19:50",
-      "https://news.ycombinator.com/item?id=47309445"
-    ],
-    [
-      "The Mrs Fractal: Mirror, Rotate, Scale (2025)",
-      "https://www.4rknova.com//blog/2025/06/22/mrs-fractal"
     ]
   ],
   [
