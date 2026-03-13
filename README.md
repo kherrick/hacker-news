@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-13, 19:48:03](https://news.ycombinator.com/item?id=47368874) - [How do you capture WHY engineering decisions were made, not just what?](https://news.ycombinator.com/item?id=47368874)
 * [2026-03-13, 19:35:18](https://news.ycombinator.com/item?id=47368703) - [The wild six weeks for NanoClaw's creator that led to a deal with Docker](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)
 * [2026-03-13, 19:15:06](https://news.ycombinator.com/item?id=47368430) - [Stanford researchers report first recording of a blue whale's heart rate (2019)](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate)
-* [2026-03-13, 18:52:17](https://news.ycombinator.com/item?id=47368135) - [Digg is gone again](https://digg.com/)
 * [2026-03-13, 18:42:54](https://news.ycombinator.com/item?id=47368033) - [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
 * [2026-03-13, 18:34:12](https://news.ycombinator.com/item?id=47367932) - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
 * [2026-03-13, 18:25:02](https://news.ycombinator.com/item?id=47367825) - [You deleted everything and AWS is still charging you?](https://jvogel.me/posts/2026/aws-still-charging-you/)
@@ -26,8 +24,10 @@
 * [2026-03-13, 08:31:33](https://news.ycombinator.com/item?id=47361913) - [Bucketsquatting is finally dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
 * [2026-03-13, 05:18:01](https://news.ycombinator.com/item?id=47360978) - [Lost Doctor Who Episodes Found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o)
 * [2026-03-13, 03:32:18](https://news.ycombinator.com/item?id=47360383) - [Hyperlinks in terminal emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda)
+* [2026-03-12, 09:17:56](https://news.ycombinator.com/item?id=47348275) - [Executing programs inside transformers with exponentially faster inference](https://www.percepta.ai/blog/can-llms-be-computers)
 * [2026-03-11, 20:46:24](https://news.ycombinator.com/item?id=47341432) - [New 'negative light' technology hides data transfers in plain sight](https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight)
 * [2026-03-11, 14:34:57](https://news.ycombinator.com/item?id=47336100) - [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv)
+* [2026-03-11, 08:14:19](https://news.ycombinator.com/item?id=47332883) - [Exploring JEPA for real-time speech translation](https://www.startpinch.com/research/en/jepa-encoder-translation/)
 * [2026-03-10, 07:38:59](https://news.ycombinator.com/item?id=47320158) - [Using Thunderbird for RSS](https://rubenerd.com/using-thunderbird-for-rss/)
 * [2026-03-09, 14:16:53](https://news.ycombinator.com/item?id=47309397) - [Okmain: How to pick an OK main colour of an image](https://dgroshev.com/blog/okmain/)
 

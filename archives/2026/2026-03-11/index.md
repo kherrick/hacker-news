@@ -58,6 +58,7 @@
 * [2026-03-11, 09:59:03](https://news.ycombinator.com/item?id=47333627) - [AI Agent Hacks McKinsey](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 * [2026-03-11, 09:30:22](https://news.ycombinator.com/item?id=47333433) - [Google to Provide Pentagon with AI Agents](https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work)
 * [2026-03-11, 08:22:28](https://news.ycombinator.com/item?id=47332939) - [Why does AI tell you to use Terminal so much?](https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/)
+* [2026-03-11, 08:14:19](https://news.ycombinator.com/item?id=47332883) - [Exploring JEPA for real-time speech translation](https://www.startpinch.com/research/en/jepa-encoder-translation/)
 * [2026-03-11, 08:09:52](https://news.ycombinator.com/item?id=47332857) - [The mechanics of autonomous software translation](https://alperenkeles.com/posts/autonomous-translations/)
 * [2026-03-11, 07:42:10](https://news.ycombinator.com/item?id=47332688) - [AutoKernel: Autoresearch for GPU Kernels](https://github.com/RightNow-AI/autokernel)
 * [2026-03-11, 07:36:18](https://news.ycombinator.com/item?id=47332649) - [I'm going to build my own OpenClaw, with blackjack and bun](https://github.com/rcarmo/piclaw)
