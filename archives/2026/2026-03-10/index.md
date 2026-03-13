@@ -26,6 +26,7 @@
 * [2026-03-10, 17:07:27](https://news.ycombinator.com/item?id=47326025) - [Defeat as Method](https://www.cabinetmagazine.org/issues/71/khosravi.php)
 * [2026-03-10, 16:37:29](https://news.ycombinator.com/item?id=47325595) - [I built a programming language using Claude Code](https://ankursethi.com/blog/programming-language-claude-code/)
 * [2026-03-10, 16:24:26](https://news.ycombinator.com/item?id=47325381) - [$3 ChromeOS Flex stick will revive old and outdated computers](https://9to5google.com/2026/03/10/this-3-chromeos-stick-will-revive-old-and-outdated-computers/)
+* [2026-03-10, 16:18:40](https://news.ycombinator.com/item?id=47325296) - [Show HN: What was the world listening to? Music charts, 20 countries (1940–2025)](https://88mph.fm/)
 * [2026-03-10, 16:17:55](https://news.ycombinator.com/item?id=47325280) - [Ad-tech is fascist tech](https://pluralistic.net/2026/03/10/ice-tech/#foreseeable-outcomes)
 * [2026-03-10, 15:35:19](https://news.ycombinator.com/item?id=47324691) - [Throwing away 18 months of code and starting over](https://tompiagg.io/posts/we-threw-away-1-5-years-of-code)
 * [2026-03-10, 15:18:39](https://news.ycombinator.com/item?id=47324448) - [The Enterprise Context Layer](https://andychen32.substack.com/p/the-enterprise-context-layer)
