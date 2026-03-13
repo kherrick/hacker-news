@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 08:31:33](https://news.ycombinator.com/item?id=47361913) - [Bucketsquatting Is (Finally) Dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
+* [2026-03-13, 06:30:58](https://news.ycombinator.com/item?id=47361313) - [Ceno, browse the web without internet access](https://ceno.app/en/index.html?)
 * [2026-03-13, 05:18:01](https://news.ycombinator.com/item?id=47360978) - [Lost Doctor Who Episodes Found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o)
 * [2026-03-13, 05:06:36](https://news.ycombinator.com/item?id=47360892) - [Why Technology Makes Us More Productive but Not Richer](https://www.fullstackpm.tech/blog/productivity-paradox-capital-lockup)
 * [2026-03-13, 04:42:22](https://news.ycombinator.com/item?id=47360760) - [Show HN: Global Maritime Chokepoints](https://ryanshook.org/chokepoints/)
