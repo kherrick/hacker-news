@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-13, 05:06:36",
+      "https://news.ycombinator.com/item?id=47360892"
+    ],
+    [
+      "Why Technology Makes Us More Productive but Not Richer",
+      "https://www.fullstackpm.tech/blog/productivity-paradox-capital-lockup"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 04:36:40",
       "https://news.ycombinator.com/item?id=47360730"
     ],
@@ -25,18 +35,8 @@
       "https://news.ycombinator.com/item?id=47360243"
     ],
     [
-      "Can You Instruct a Robot to Make a PBJ Sandwich?",
+      "Can you instruct a robot to make a PBJ sandwich?",
       "https://pbj.deliberateinc.com/"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 01:58:41",
-      "https://news.ycombinator.com/item?id=47359822"
-    ],
-    [
-      "Golden Sets: Regression Engineering for Probabilistic Systems",
-      "https://heavythoughtcloud.com/knowledge/designing-a-golden-set"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "“This is not the computer for you”",
       "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 22:35:08",
+      "https://news.ycombinator.com/item?id=47358206"
+    ],
+    [
+      "Grief and the AI split",
+      "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Bubble Sorted Amen Break",
       "https://parametricavocado.itch.io/amen-sorting"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 17:01:46",
-      "https://news.ycombinator.com/item?id=47353904"
-    ],
-    [
-      "Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite)",
-      "https://www.runconverge.com/careers/founding-platform-engineer"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-03-10, 06:02:27",
-      "https://news.ycombinator.com/item?id=47319539"
+      "2026-03-10, 14:18:25",
+      "https://news.ycombinator.com/item?id=47323629"
     ],
     [
-      "DDR4 Sdram – Initialization, Training and Calibration",
-      "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/"
+      "The Unpredicted vs. the Over-Expected",
+      "https://kevinkelly.substack.com/p/the-unpredicted-vs-the-over-expected"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=47307124"
     ],
     [
-      "A willingness to look stupid is the most underrated moat in doing creative work",
+      "Willingness to look stupid",
       "https://sharif.io/looking-stupid"
     ]
   ],
