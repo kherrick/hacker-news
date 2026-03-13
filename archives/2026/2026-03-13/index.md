@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 12:31:09](https://news.ycombinator.com/item?id=47363584) - [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
+* [2026-03-13, 12:15:11](https://news.ycombinator.com/item?id=47363400) - [Show HN: Algorithms and Data Structures in TypeScript – Free Book (~400 Pages)](http://amoilanen.github.io/Algorithms-with-Typescript/)
+* [2026-03-13, 11:38:15](https://news.ycombinator.com/item?id=47363074) - [Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)](https://prompt-caching.ai/)
 * [2026-03-13, 10:44:06](https://news.ycombinator.com/item?id=47362684) - [AI toys for children misread emotions and respond inappropriately](https://www.bbc.co.uk/news/articles/clyg4wx6nxgo)
+* [2026-03-13, 10:32:45](https://news.ycombinator.com/item?id=47362613) - [TUI Studio – visual terminal UI design tool](https://tui.studio/)
 * [2026-03-13, 10:31:21](https://news.ycombinator.com/item?id=47362608) - [Peter Thiel's Antichrist Lectures](https://apnews.com/article/italy-peter-thiel-paypal-pope-vatican-c3a6c7d2daba501caf8152558ac2d743)
 * [2026-03-13, 10:15:56](https://news.ycombinator.com/item?id=47362528) - [I traced $2B in grants and 45 states' lobbying behind age‑verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
+* [2026-03-13, 10:08:54](https://news.ycombinator.com/item?id=47362487) - [Gvisor on Raspbian](https://nubificus.co.uk/blog/gvisor-rpi5/)
 * [2026-03-13, 10:08:36](https://news.ycombinator.com/item?id=47362485) - [Show HN: fftool – A Terminal UI for FFmpeg – Shows Command Before It Runs](https://bensantora.com/posts/fftool-ffmpeg-tui-go/)
 * [2026-03-13, 09:45:30](https://news.ycombinator.com/item?id=47362350) - [Source code of Swedish e-government services has been leaked](https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/)
 * [2026-03-13, 08:31:33](https://news.ycombinator.com/item?id=47361913) - [Bucketsquatting Is (Finally) Dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
