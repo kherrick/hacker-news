@@ -16,6 +16,7 @@
 * [2026-03-09, 20:50:59](https://news.ycombinator.com/item?id=47315341) - [So you want to write an \"app\" (2025)](https://arcanenibble.github.io/so-you-want-to-write-an-app.html)
 * [2026-03-09, 20:36:43](https://news.ycombinator.com/item?id=47315128) - [Oracle is building yesterday's data centers with tomorrow's debt](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html)
 * [2026-03-09, 20:32:45](https://news.ycombinator.com/item?id=47315079) - [Thomas Selfridge: The First Airplane Fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
+* [2026-03-09, 19:25:10](https://news.ycombinator.com/item?id=47314140) - [Specimen Gallery – CC0 transparent specimen PNGs organized by taxonomy](https://specimen.gallery/)
 * [2026-03-09, 19:24:58](https://news.ycombinator.com/item?id=47314131) - [Uber reported to the state that I was fired for \"annoying a coworker.\"](https://anon-ex-uber.medium.com/uber-reported-to-the-state-that-i-was-fired-for-annoying-a-coworker-4ba7490cc0b8)
 * [2026-03-09, 19:24:20](https://news.ycombinator.com/item?id=47314123) - [Things I've Done with AI](https://sjer.red/blog/2026/built-with-ai/)
 * [2026-03-09, 19:12:14](https://news.ycombinator.com/item?id=47313934) - [The Most Beautiful Freezer in the World: Notes on Baking at the South Pole](https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world)

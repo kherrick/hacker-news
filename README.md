@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-13, 08:31:33](https://news.ycombinator.com/item?id=47361913) - [Bucketsquatting Is (Finally) Dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
+* [2026-03-13, 08:31:33](https://news.ycombinator.com/item?id=47361913) - [Bucketsquatting is (finally) dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
 * [2026-03-13, 06:30:58](https://news.ycombinator.com/item?id=47361313) - [Ceno, browse the web without internet access](https://ceno.app/en/index.html?)
 * [2026-03-13, 04:36:40](https://news.ycombinator.com/item?id=47360730) - [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8)
 * [2026-03-13, 03:32:18](https://news.ycombinator.com/item?id=47360383) - [Hyperlinks in Terminal Emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda)
@@ -16,7 +16,6 @@
 * [2026-03-12, 15:43:39](https://news.ycombinator.com/item?id=47352459) - [The Met releases high-def 3D scans of 140 famous art objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html)
 * [2026-03-12, 15:39:50](https://news.ycombinator.com/item?id=47352385) - [WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations](https://github.com/wolfssl/wolfip)
 * [2026-03-12, 14:48:57](https://news.ycombinator.com/item?id=47351371) - [ATMs didn’t kill bank teller jobs, but the iPhone did](https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller)
-* [2026-03-12, 13:49:12](https://news.ycombinator.com/item?id=47350516) - [Show HN: Axe – A 12MB binary that replaces your AI framework](https://github.com/jrswab/axe)
 * [2026-03-12, 13:42:04](https://news.ycombinator.com/item?id=47350424) - [Malus – Clean Room as a Service](https://malus.sh)
 * [2026-03-12, 13:40:36](https://news.ycombinator.com/item?id=47350407) - [Document poisoning in RAG systems: How attackers corrupt AI's sources](https://aminrj.com/posts/rag-document-poisoning/)
 * [2026-03-12, 12:44:45](https://news.ycombinator.com/item?id=47349806) - [US private credit defaults hit record 9.2% in 2025, Fitch says](https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d)
@@ -25,6 +24,7 @@
 * [2026-03-12, 09:17:56](https://news.ycombinator.com/item?id=47348275) - [Executing programs inside transformers with exponentially faster inference](https://www.percepta.ai/blog/can-llms-be-computers)
 * [2026-03-12, 08:33:00](https://news.ycombinator.com/item?id=47347977) - [Celebrating Interesting Flickr Technologies](https://medium.com/@brightcarvings/celebrating-flickr-technology-3c93c8ddecc2)
 * [2026-03-09, 23:02:19](https://news.ycombinator.com/item?id=47316958) - [Worldwide Sidewalk Joy: Adding whimsy to neighborhoods](https://worldwidesidewalkjoy.com)
+* [2026-03-09, 19:25:10](https://news.ycombinator.com/item?id=47314140) - [Specimen Gallery – CC0 transparent specimen PNGs organized by taxonomy](https://specimen.gallery/)
 * [2026-03-09, 14:54:31](https://news.ycombinator.com/item?id=47309940) - [Understanding the Go Runtime: The Scheduler](https://internals-for-interns.com/posts/go-runtime-scheduler/)
 * [2026-03-09, 13:07:45](https://news.ycombinator.com/item?id=47308547) - [IMG_0416 (2024)](https://ben-mini.com/2024/img-0416)
 * [2026-03-09, 10:21:58](https://news.ycombinator.com/item?id=47307124) - [Willingness to look stupid](https://sharif.io/looking-stupid)
