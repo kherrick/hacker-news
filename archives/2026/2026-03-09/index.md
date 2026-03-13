@@ -53,6 +53,7 @@
 * [2026-03-09, 14:45:12](https://news.ycombinator.com/item?id=47309811) - [Revealed: UK's multibillion AI drive is built on 'phantom investments'](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
 * [2026-03-09, 14:38:11](https://news.ycombinator.com/item?id=47309726) - [The optimal age to freeze eggs is 19](https://www.lesswrong.com/posts/dxffBxGqt2eidxwRR/the-optimal-age-to-freeze-eggs-is-19)
 * [2026-03-09, 14:28:43](https://news.ycombinator.com/item?id=47309605) - [Algebraic topology: knots links and braids](https://aeb.win.tue.nl/at/algtop-5.html)
+* [2026-03-09, 14:19:50](https://news.ycombinator.com/item?id=47309445) - [The Mrs Fractal: Mirror, Rotate, Scale](https://www.4rknova.com//blog/2025/06/22/mrs-fractal)
 * [2026-03-09, 14:16:53](https://news.ycombinator.com/item?id=47309397) - [Okmain: How to pick an OK main colour of an image](https://dgroshev.com/blog/okmain/)
 * [2026-03-09, 13:07:45](https://news.ycombinator.com/item?id=47308547) - [IMG_0416 (2024)](https://ben-mini.com/2024/img-0416)
 * [2026-03-09, 13:01:01](https://news.ycombinator.com/item?id=47308468) - [Owner of ICE detention facility sees big opportunity in AI man camps](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
