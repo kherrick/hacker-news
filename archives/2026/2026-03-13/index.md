@@ -11,6 +11,7 @@
 * [2026-03-13, 18:52:17](https://news.ycombinator.com/item?id=47368135) - [Digg is gone again](https://digg.com/)
 * [2026-03-13, 18:42:54](https://news.ycombinator.com/item?id=47368033) - [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
 * [2026-03-13, 18:34:12](https://news.ycombinator.com/item?id=47367932) - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
+* [2026-03-13, 18:25:02](https://news.ycombinator.com/item?id=47367825) - [You deleted everything and AWS is still charging you?](https://jvogel.me/posts/2026/aws-still-charging-you/)
 * [2026-03-13, 18:21:57](https://news.ycombinator.com/item?id=47367790) - [My Life Got 100x Better When I Stopped Thinking About Google](https://joostboer.com/google-quality-of-life)
 * [2026-03-13, 18:02:32](https://news.ycombinator.com/item?id=47367568) - [Your Phone Is an Entire Computer](https://medhir.com/blog/your-phone-is-an-entire-computer)
 * [2026-03-13, 17:58:22](https://news.ycombinator.com/item?id=47367526) - [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway)
