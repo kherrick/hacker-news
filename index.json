@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-03-12, 22:35:08",
-      "https://news.ycombinator.com/item?id=47358206"
+      "2026-03-12, 21:38:06",
+      "https://news.ycombinator.com/item?id=47357515"
     ],
     [
-      "The AI coding divide: craft lovers vs. result chasers",
-      "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
+      "Show HN: OpenClaw-class agents on ESP32 (and the IDE that makes it possible)",
+      "https://pycoclaw.com/"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Innocent woman jailed after being misidentified using AI facial recognition",
       "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 20:13:15",
-      "https://news.ycombinator.com/item?id=47356392"
-    ],
-    [
-      "Bringing Chrome to ARM64 Linux Devices",
-      "https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2026-03-12, 06:06:46",
+      "https://news.ycombinator.com/item?id=47347064"
+    ],
+    [
+      "Returning to Rails in 2026",
+      "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 06:02:27",
       "https://news.ycombinator.com/item?id=47319539"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2026-03-10, 04:48:50",
-      "https://news.ycombinator.com/item?id=47319177"
-    ],
-    [
-      "Language Birth",
-      "https://asteriskmag.com/issues/13/language-birth"
-    ]
-  ],
-  [
-    [
       "2026-03-09, 17:28:34",
       "https://news.ycombinator.com/item?id=47312226"
     ],
     [
       "The Cost of Indirection in Rust",
       "https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2026-03-09, 14:54:31",
+      "https://news.ycombinator.com/item?id=47309940"
+    ],
+    [
+      "Understanding the Go Runtime: The Scheduler",
+      "https://internals-for-interns.com/posts/go-runtime-scheduler/"
     ]
   ],
   [
