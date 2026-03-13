@@ -46,6 +46,7 @@
 * [2026-03-09, 15:05:09](https://news.ycombinator.com/item?id=47310073) - [The engine of Germany's wealth is blocking its future](https://europeancorrespondent.com/en/r/the-engine-of-germanys-wealth-is-blocking-its-future)
 * [2026-03-09, 15:03:22](https://news.ycombinator.com/item?id=47310054) - [I'm Getting a Whiff of Iain Banks' Culture](https://probablydance.com/2026/03/07/im-getting-a-whiff-of-iain-banks-culture/)
 * [2026-03-09, 14:55:42](https://news.ycombinator.com/item?id=47309953) - [Show HN: DenchClaw – Local CRM on Top of OpenClaw](https://github.com/DenchHQ/DenchClaw)
+* [2026-03-09, 14:54:31](https://news.ycombinator.com/item?id=47309940) - [Understanding the Go Runtime: The Scheduler](https://internals-for-interns.com/posts/go-runtime-scheduler/)
 * [2026-03-09, 14:45:12](https://news.ycombinator.com/item?id=47309811) - [Revealed: UK's multibillion AI drive is built on 'phantom investments'](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
 * [2026-03-09, 14:38:11](https://news.ycombinator.com/item?id=47309726) - [The optimal age to freeze eggs is 19](https://www.lesswrong.com/posts/dxffBxGqt2eidxwRR/the-optimal-age-to-freeze-eggs-is-19)
 * [2026-03-09, 14:28:43](https://news.ycombinator.com/item?id=47309605) - [Algebraic topology: knots links and braids](https://aeb.win.tue.nl/at/algtop-5.html)
