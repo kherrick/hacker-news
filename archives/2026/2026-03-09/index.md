@@ -9,6 +9,7 @@
 * [2026-03-09, 23:37:08](https://news.ycombinator.com/item?id=47317288) - [Open Weights Isn't Open Training](https://www.workshoplabs.ai/blog/open-weights-open-training)
 * [2026-03-09, 23:22:06](https://news.ycombinator.com/item?id=47317132) - [No, it doesn't cost Anthropic $5k per Claude Code user](https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/)
 * [2026-03-09, 23:19:31](https://news.ycombinator.com/item?id=47317115) - [Helios: Real real-time long video generation model](https://www.alphaxiv.org/abs/2603.04379)
+* [2026-03-09, 23:02:19](https://news.ycombinator.com/item?id=47316958) - [Worldwide Sidewalk Joy: Adding whimsy to neighborhoods](https://worldwidesidewalkjoy.com)
 * [2026-03-09, 22:55:09](https://news.ycombinator.com/item?id=47316880) - [Sir Tony Hoare has died](http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
 * [2026-03-09, 21:34:45](https://news.ycombinator.com/item?id=47315869) - [Rendezvous with Rama](https://blog.engora.com/2026/03/rendezvous-with-rama.html)
 * [2026-03-09, 21:19:58](https://news.ycombinator.com/item?id=47315701) - [Zuckerberg has \"finished\" with Alexandr Wang, worth US$14B](https://www.idnfinancials.com/news/61918/zuckerberg-has-finished-with-alexandr-wang-worth-us14-billion)
