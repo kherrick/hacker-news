@@ -32,6 +32,7 @@
 * [2026-03-10, 15:18:39](https://news.ycombinator.com/item?id=47324448) - [The Enterprise Context Layer](https://andychen32.substack.com/p/the-enterprise-context-layer)
 * [2026-03-10, 15:12:52](https://news.ycombinator.com/item?id=47324364) - [Surpassing vLLM with a Generated Inference Stack](https://infinity.inc/case-studies/qwen3-optimization)
 * [2026-03-10, 15:08:05](https://news.ycombinator.com/item?id=47324296) - [Launch HN: Didit (YC W26) – Stripe for Identity Verification](https://news.ycombinator.com/item?id=47324296)
+* [2026-03-10, 15:04:35](https://news.ycombinator.com/item?id=47324256) - [Show HN: Svglib a SVG parser and renderer for Windows](https://github.com/bibhas2/svglib)
 * [2026-03-10, 15:01:35](https://news.ycombinator.com/item?id=47324211) - [Amazon is holding a mandatory meeting about AI breaking its systems](https://twitter.com/lukolejnik/status/2031257644724342957)
 * [2026-03-10, 14:53:13](https://news.ycombinator.com/item?id=47324087) - [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
 * [2026-03-10, 14:50:43](https://news.ycombinator.com/item?id=47324058) - [We are building data breach machines and nobody cares](https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/)
