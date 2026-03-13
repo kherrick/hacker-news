@@ -59,6 +59,7 @@
 * [2026-03-09, 12:15:07](https://news.ycombinator.com/item?id=47308059) - [No leap second will be introduced at the end of June 2026](https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/)
 * [2026-03-09, 10:58:15](https://news.ycombinator.com/item?id=47307419) - [Nvidia backs AI data center startup Nscale as it hits $14.6B valuation](https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html)
 * [2026-03-09, 10:28:08](https://news.ycombinator.com/item?id=47307169) - [Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer)
+* [2026-03-09, 10:21:58](https://news.ycombinator.com/item?id=47307124) - [A willingness to look stupid is the most underrated moat in doing creative work](https://sharif.io/looking-stupid)
 * [2026-03-09, 10:14:59](https://news.ycombinator.com/item?id=47307055) - [Ireland shuts last coal plant, becomes 15th coal-free country in Europe](https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/)
 * [2026-03-09, 09:25:02](https://news.ycombinator.com/item?id=47306655) - [Fontcrafter: Turn Your Handwriting into a Real Font](https://arcade.pirillo.com/fontcrafter.html)
 * [2026-03-09, 08:59:36](https://news.ycombinator.com/item?id=47306447) - [MiniMax Music 2.5 – AI Music Generation Model for Fast Song Creation](https://www.minimax-music.com/minimax-music-2-5)
