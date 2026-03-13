@@ -1,26 +1,6 @@
 [
   [
     [
-      "2026-03-13, 05:18:01",
-      "https://news.ycombinator.com/item?id=47360978"
-    ],
-    [
-      "Lost Doctor Who Episodes Found",
-      "https://www.bbc.co.uk/news/articles/c4g7kwq1k11o"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 04:42:22",
-      "https://news.ycombinator.com/item?id=47360760"
-    ],
-    [
-      "Show HN: Global Maritime Chokepoints",
-      "https://ryanshook.org/chokepoints/"
-    ]
-  ],
-  [
-    [
       "2026-03-13, 04:36:40",
       "https://news.ycombinator.com/item?id=47360730"
     ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2026-03-12, 09:17:56",
+      "https://news.ycombinator.com/item?id=47348275"
+    ],
+    [
+      "Executing programs inside transformers with exponentially faster inference",
+      "https://www.percepta.ai/blog/can-llms-be-computers"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 08:33:00",
       "https://news.ycombinator.com/item?id=47347977"
     ],
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2026-03-10, 06:02:27",
-      "https://news.ycombinator.com/item?id=47319539"
+      "2026-03-10, 14:18:25",
+      "https://news.ycombinator.com/item?id=47323629"
     ],
     [
-      "DDR4 Sdram – Initialization, Training and Calibration",
-      "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/"
+      "The Unpredicted vs. the Over-Expected",
+      "https://kevinkelly.substack.com/p/the-unpredicted-vs-the-over-expected"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Prefix sums at gigabytes per second with ARM NEON",
       "https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 11:17:26",
+      "https://news.ycombinator.com/item?id=47296426"
+    ],
+    [
+      "Never Snooze a Future",
+      "https://jacko.io/snooze.html"
     ]
   ]
 ]
