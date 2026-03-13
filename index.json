@@ -1,22 +1,42 @@
 [
   [
     [
-      "2026-03-13, 10:44:06",
-      "https://news.ycombinator.com/item?id=47362684"
+      "2026-03-13, 12:31:09",
+      "https://news.ycombinator.com/item?id=47363584"
     ],
     [
-      "AI toys for children misread emotions and respond inappropriately",
-      "https://www.bbc.co.uk/news/articles/clyg4wx6nxgo"
+      "Qatar helium shutdown puts chip supply chain on a two-week clock",
+      "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock"
     ]
   ],
   [
     [
-      "2026-03-13, 10:31:21",
-      "https://news.ycombinator.com/item?id=47362608"
+      "2026-03-13, 12:15:11",
+      "https://news.ycombinator.com/item?id=47363400"
     ],
     [
-      "Peter Thiel's Antichrist Lectures",
-      "https://apnews.com/article/italy-peter-thiel-paypal-pope-vatican-c3a6c7d2daba501caf8152558ac2d743"
+      "Show HN: Algorithms and Data Structures in TypeScript – Free Book (~400 Pages)",
+      "http://amoilanen.github.io/Algorithms-with-Typescript/"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 11:38:15",
+      "https://news.ycombinator.com/item?id=47363074"
+    ],
+    [
+      "Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)",
+      "https://prompt-caching.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 10:32:45",
+      "https://news.ycombinator.com/item?id=47362613"
+    ],
+    [
+      "TUI Studio – visual terminal UI design tool",
+      "https://tui.studio/"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "I traced $2B in grants and 45 states' lobbying behind age‑verification bills",
       "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 10:08:54",
+      "https://news.ycombinator.com/item?id=47362487"
+    ],
+    [
+      "Gvisor on Raspbian",
+      "https://nubificus.co.uk/blog/gvisor-rpi5/"
     ]
   ],
   [
@@ -91,32 +121,12 @@
   ],
   [
     [
-      "2026-03-12, 22:35:08",
-      "https://news.ycombinator.com/item?id=47358206"
-    ],
-    [
-      "Grief and the AI split",
-      "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 21:01:10",
       "https://news.ycombinator.com/item?id=47357042"
     ],
     [
       "Shall I implement it? No",
       "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 20:13:15",
-      "https://news.ycombinator.com/item?id=47356392"
-    ],
-    [
-      "Bringing Chrome to ARM64 Linux Devices",
-      "https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-03-12, 11:41:14",
-      "https://news.ycombinator.com/item?id=47349277"
-    ],
-    [
-      "Big data on the cheapest MacBook",
-      "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 09:17:56",
       "https://news.ycombinator.com/item?id=47348275"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2026-03-12, 08:33:00",
-      "https://news.ycombinator.com/item?id=47347977"
-    ],
-    [
-      "Celebrating Interesting Flickr Technologies",
-      "https://medium.com/@brightcarvings/celebrating-flickr-technology-3c93c8ddecc2"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 16:18:40",
       "https://news.ycombinator.com/item?id=47325296"
     ],
     [
       "Show HN: What was the world listening to? Music charts, 20 countries (1940–2025)",
       "https://88mph.fm/"
+    ]
+  ],
+  [
+    [
+      "2026-03-09, 16:34:29",
+      "https://news.ycombinator.com/item?id=47311351"
+    ],
+    [
+      "What we learned from a 22-Day storage bug (and how we fixed it)",
+      "https://www.mux.com/blog/22-day-storage-bug"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-03-09, 07:49:49",
+      "https://news.ycombinator.com/item?id=47305957"
+    ],
+    [
+      "Dijkstra's Crisis: The End of Algol and Beginning of Software Engineering (2010) [pdf]",
+      "https://www.tomandmaria.com/Tom/Writing/DijkstrasCrisis_LeidenDRAFT.pdf"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 20:22:26",
       "https://news.ycombinator.com/item?id=47301017"
     ],
     [
       "Prefix sums at gigabytes per second with ARM NEON",
       "https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 11:17:26",
-      "https://news.ycombinator.com/item?id=47296426"
-    ],
-    [
-      "Never snooze a future",
-      "https://jacko.io/snooze.html"
     ]
   ]
 ]
