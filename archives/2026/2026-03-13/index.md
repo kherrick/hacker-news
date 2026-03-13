@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 22:52:05](https://news.ycombinator.com/item?id=47371064) - [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
+* [2026-03-13, 22:28:04](https://news.ycombinator.com/item?id=47370822) - [Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group](https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/)
 * [2026-03-13, 19:58:02](https://news.ycombinator.com/item?id=47369036) - [Who Goes Nazi? (1941)](https://harpers.org/archive/1941/08/who-goes-nazi/)
 * [2026-03-13, 19:48:03](https://news.ycombinator.com/item?id=47368874) - [How do you capture WHY engineering decisions were made, not just what?](https://news.ycombinator.com/item?id=47368874)
 * [2026-03-13, 19:35:18](https://news.ycombinator.com/item?id=47368703) - [The wild six weeks for NanoClaw's creator that led to a deal with Docker](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)

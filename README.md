@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-13, 22:52:05](https://news.ycombinator.com/item?id=47371064) - [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
+* [2026-03-13, 22:28:04](https://news.ycombinator.com/item?id=47370822) - [Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group](https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/)
 * [2026-03-13, 19:35:18](https://news.ycombinator.com/item?id=47368703) - [The wild six weeks for NanoClaw's creator that led to a deal with Docker](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)
 * [2026-03-13, 19:15:06](https://news.ycombinator.com/item?id=47368430) - [Stanford researchers report first recording of a blue whale's heart rate (2019)](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate)
 * [2026-03-13, 18:42:54](https://news.ycombinator.com/item?id=47368033) - [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
@@ -14,7 +16,6 @@
 * [2026-03-13, 15:45:33](https://news.ycombinator.com/item?id=47366011) - [Launch HN: Captain (YC W26) – Automated RAG for Files](https://www.runcaptain.com/)
 * [2026-03-13, 14:11:36](https://news.ycombinator.com/item?id=47364729) - [Parallels confirms MacBook Neo can run Windows in a virtual machine](https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/)
 * [2026-03-13, 13:22:40](https://news.ycombinator.com/item?id=47364116) - [Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas](https://www.getspine.ai/)
-* [2026-03-13, 13:03:42](https://news.ycombinator.com/item?id=47363922) - [E2E encrypted messaging on Instagram will no longer be supported after 8 May](https://help.instagram.com/491565145294150)
 * [2026-03-13, 12:46:10](https://news.ycombinator.com/item?id=47363754) - [Can I run AI locally?](https://www.canirun.ai/)
 * [2026-03-13, 12:31:09](https://news.ycombinator.com/item?id=47363584) - [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
 * [2026-03-13, 10:32:45](https://news.ycombinator.com/item?id=47362613) - [TUI Studio – visual terminal UI design tool](https://tui.studio/)
@@ -25,7 +26,6 @@
 * [2026-03-13, 03:32:18](https://news.ycombinator.com/item?id=47360383) - [Hyperlinks in terminal emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda)
 * [2026-03-12, 09:17:56](https://news.ycombinator.com/item?id=47348275) - [Executing programs inside transformers with exponentially faster inference](https://www.percepta.ai/blog/can-llms-be-computers)
 * [2026-03-11, 20:46:24](https://news.ycombinator.com/item?id=47341432) - [New 'negative light' technology hides data transfers in plain sight](https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight)
-* [2026-03-11, 19:37:46](https://news.ycombinator.com/item?id=47340203) - [Wired headphone sales are exploding. What's with the Bluetooth backlash?](https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth)
 * [2026-03-11, 14:34:57](https://news.ycombinator.com/item?id=47336100) - [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv)
 * [2026-03-11, 08:14:19](https://news.ycombinator.com/item?id=47332883) - [Exploring JEPA for real-time speech translation](https://www.startpinch.com/research/en/jepa-encoder-translation/)
 * [2026-03-10, 07:38:59](https://news.ycombinator.com/item?id=47320158) - [Using Thunderbird for RSS](https://rubenerd.com/using-thunderbird-for-rss/)
