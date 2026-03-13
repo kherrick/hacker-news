@@ -41,6 +41,7 @@
 * [2026-03-11, 14:39:30](https://news.ycombinator.com/item?id=47336171) - [Show HN: Open-source browser for AI agents](https://github.com/theredsix/agent-browser-protocol)
 * [2026-03-11, 14:39:21](https://news.ycombinator.com/item?id=47336163) - [Ask HN: Is Claude Down Again?](https://news.ycombinator.com/item?id=47336163)
 * [2026-03-11, 14:35:53](https://news.ycombinator.com/item?id=47336111) - [Faster Asin() Was Hiding in Plain Sight](https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/)
+* [2026-03-11, 14:34:57](https://news.ycombinator.com/item?id=47336100) - [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv)
 * [2026-03-11, 14:08:48](https://news.ycombinator.com/item?id=47335772) - [UK MPs give ministers powers to restrict Internet for under 18s](https://www.openrightsgroup.org/press-releases/mps-give-ministers-powers-to-restrict-entire-internet/)
 * [2026-03-11, 13:52:01](https://news.ycombinator.com/item?id=47335572) - [Whistleblower: DOGE member took Social Security data to new job](https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/)
 * [2026-03-11, 13:38:17](https://news.ycombinator.com/item?id=47335431) - [Show HN: I built an ISP infrastructure emulator from scratch with a custom vBNG](https://aether.saphal.me/dashboard/default)

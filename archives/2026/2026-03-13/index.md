@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 17:49:54](https://news.ycombinator.com/item?id=47367443) - [The Accidental Room (2018)](https://99percentinvisible.org/episode/the-accidental-room/)
+* [2026-03-13, 17:27:12](https://news.ycombinator.com/item?id=47367220) - [Why the militaries are scrambling to create their own Starlink](https://www.newscientist.com/article/2517766-why-the-worlds-militaries-are-scrambling-to-create-their-own-starlink/)
+* [2026-03-13, 17:02:34](https://news.ycombinator.com/item?id=47366931) - [Revealed: Face of 75,000-year-old female Neanderthal from cave](https://www.cam.ac.uk/stories/shanidar-z-face-revealed)
 * [2026-03-13, 16:40:27](https://news.ycombinator.com/item?id=47366664) - [OVH forgot they donated documentation hosting to Pandas](https://github.com/pandas-dev/pandas/issues/64584)
 * [2026-03-13, 16:17:00](https://news.ycombinator.com/item?id=47366400) - [Channel Surfer – Watch YouTube Like It's Cable TV](https://channelsurfer.tv/)
+* [2026-03-13, 16:13:30](https://news.ycombinator.com/item?id=47366374) - [The Wyden Siren Goes Off Again: We'll Be \"Stunned\" by NSA Under Section 702](https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/)
 * [2026-03-13, 15:45:33](https://news.ycombinator.com/item?id=47366011) - [Launch HN: Captain (YC W26) – Automated RAG for Files](https://www.runcaptain.com/)
 * [2026-03-13, 15:29:16](https://news.ycombinator.com/item?id=47365784) - [NASA targets Artemis II crewed moon mission for April 1 launch](https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch)
 * [2026-03-13, 15:14:29](https://news.ycombinator.com/item?id=47365597) - [Meta Platforms: Lobbying, Dark Money, and the App Store Accountability Act](https://github.com/upper-up/meta-lobbying-and-other-findings)
@@ -22,6 +26,7 @@
 * [2026-03-13, 10:44:06](https://news.ycombinator.com/item?id=47362684) - [AI toys for children misread emotions and respond inappropriately](https://www.bbc.co.uk/news/articles/clyg4wx6nxgo)
 * [2026-03-13, 10:32:45](https://news.ycombinator.com/item?id=47362613) - [TUI Studio – visual terminal UI design tool](https://tui.studio/)
 * [2026-03-13, 10:31:21](https://news.ycombinator.com/item?id=47362608) - [Peter Thiel's Antichrist Lectures](https://apnews.com/article/italy-peter-thiel-paypal-pope-vatican-c3a6c7d2daba501caf8152558ac2d743)
+* [2026-03-13, 10:15:56](https://news.ycombinator.com/item?id=47362528) - [Meta Platforms: Lobbying, dark money, and the App Store Accountability Act](https://github.com/upper-up/meta-lobbying-and-other-findings)
 * [2026-03-13, 10:15:56](https://news.ycombinator.com/item?id=47362528) - [I traced $2B in grants and 45 states' lobbying behind age‑verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
 * [2026-03-13, 10:08:54](https://news.ycombinator.com/item?id=47362487) - [Gvisor on Raspbian](https://nubificus.co.uk/blog/gvisor-rpi5/)
 * [2026-03-13, 10:08:36](https://news.ycombinator.com/item?id=47362485) - [Show HN: fftool – A Terminal UI for FFmpeg – Shows Command Before It Runs](https://bensantora.com/posts/fftool-ffmpeg-tui-go/)
