@@ -129,6 +129,258 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47364397">
+          <h3>
+            <a
+              class="item"
+              href="https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/"
+              >Run NanoClaw in Docker Sandboxes</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-13 @ 13:45:32</span
+              ><span class="points-container"
+                >Points: <span class="points">54</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47364397"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47364116">
+          <h3>
+            <a class="item" href="https://www.getspine.ai/"
+              >Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a
+              visual canvas</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-13 @ 13:22:40</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47364116"
+                  >Comments</a
+                ><span class="descendants">: 20</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.getspine.ai">https://www.getspine.ai</a>).
+              <p>
+                Spine Swarm is a multi-agent system that works on an infinite
+                visual canvas to complete complex non-coding projects:
+                competitive analysis, financial modeling, SEO audits, pitch
+                decks, interactive prototypes, and more.
+              </p>
+              <p>
+                Here's a video of Spine Swarm in action:
+                <a href="https://youtu.be/R_2-ggpZz0Q"
+                  >https://youtu.be/R_2-ggpZz0Q</a
+                >
+              </p>
+              <p>
+                We've been friends for over 13 years. We took our first ML
+                course together at NTU, in a part of campus called North Spine,
+                which is where the name comes from. We went through YC in S23
+                and have spent about 3 years building Spine across many product
+                iterations.
+              </p>
+              <p>
+                The core idea: chat is the wrong interface for complex AI work.
+                It's a linear thread, and real projects aren't linear. Sure, you
+                can ask a chatbot to reference the financial model from earlier
+                in the thread, or run research and market sizing together, but
+                you're trusting the model to juggle that context implicitly.
+                There's no way to see how it's connecting the pieces, no way to
+                correct one step without rerunning everything, and no way to
+                branch off and explore two strategies side by side. ChatGPT was
+                a demo that blew up, and chat stuck around as the default
+                interface, not because it's the right abstraction. We thought
+                humans and agents needed a real workspace where the structure of
+                the work is explicit and user-controllable, not hidden inside a
+                context window.
+              </p>
+              <p>
+                So we built an infinite visual canvas where you think in blocks
+                instead of threads. Each block is our abstraction on top of AI
+                models. There are dedicated block types for LLM calls, image
+                generation, web browsing, apps, slides, spreadsheets, and more.
+                Think of them as Lego bricks for AI workflows: each one does
+                something specific, but they can be snapped together and
+                composed in many different ways. You can connect any block to
+                any other block, and that connection guarantees the passing of
+                context regardless of block type. The whole system is
+                model-agnostic, so in a single workflow you can go from an
+                OpenAI LLM call, to an image generation mode like Nano Banana
+                Pro, to Claude generating an interactive app, each block using
+                whatever model fits best. Multiple blocks can fan out from the
+                same input, analyzing it in different ways with different
+                models, then feed their outputs into a downstream block that
+                synthesizes the results.
+              </p>
+              <p>
+                The first version of the canvas was fully manual. Users entered
+                prompts, chose models, ran blocks, and made connections
+                themselves. It clicked with founders and product managers
+                because they could branch in different directions from the same
+                starting point: take a product idea and generate a prototype in
+                one branch, a PRD in another, a competitive critique in a third,
+                and a pitch deck in a fourth, all sharing the same upstream
+                context. But new users didn't want to learn the interface. They
+                kept asking us to build a chat layer that would generate and
+                connect blocks on their behalf, to replicate the way we were
+                using the tool. So we built that, and in doing so discovered
+                something we didn't expect: the agents were capable of running
+                autonomously for hours, producing complete deliverables. It
+                turned out agents could run longer and keep their context
+                windows clean by delegating work to blocks and storing
+                intermediary context on the canvas, rather than holding
+                everything in a single context window.
+              </p>
+              <p>
+                Here's how it works now. When you submit a task, a central
+                orchestrator decomposes it into subtasks and delegates each to
+                specialized persona agents. These agents operate on the canvas
+                blocks and can override default settings, primarily the model
+                and prompt, to fit each subtask. Agents pick the best model for
+                each block and sometimes run the same block with multiple models
+                to compare and synthesize outputs. Multiple agents work in
+                parallel when their subtasks don't have dependencies, and
+                downstream agents automatically receive context from upstream
+                work. The user doesn't configure any of this. You can also
+                dispatch multiple tasks at once and the system will queue
+                dependent ones or start independent ones immediately.
+              </p>
+              <p>
+                Agents aren't fully autonomous by default. Any agent can pause
+                execution and ask the user for clarification or feedback before
+                continuing, which keeps the human in the loop where it matters.
+                And once agents have produced output, you can select a subset of
+                blocks on the canvas and iterate on them through the chat
+                without rerunning the entire workflow.
+              </p>
+              <p>
+                The canvas gives agents something that filesystems and
+                message-passing don't: a persistent, structured representation
+                of the entire project that any agent can read and contribute to
+                at any point. In typical multi-agent systems, context degrades
+                as it passes between agents. The canvas addresses this because
+                agents store intermediary results in blocks rather than trying
+                to hold everything in memory, and they leave explicit structured
+                handoffs designed to be consumed efficiently by the next agent
+                in the chain. Every step is also fully auditable, so you can
+                trace exactly how each agent arrived at its conclusions.
+              </p>
+              <p>
+                We ran benchmarks to validate what we were seeing. On Google
+                DeepMind's DeepSearchQA, which is 900 questions spanning 17
+                fields, each structured as a causal chain where each step
+                depends on completing the previous one, Spine Swarm scored 87.6%
+                on the full dataset with zero human intervention. For the
+                benchmark we used a subset of block types relevant to the
+                questions (LLM calls, web browsing, table) and removed
+                irrelevant ones like document, spreadsheet, and slide
+                generation. We also disabled human clarification so agents ran
+                fully independently. The agents were not just auditable but also
+                state of the art. The auditability also exposed actual errors in
+                an older benchmark (GAIA Level 3), cases where the expected
+                answer was wrong or ambiguous, which you'd never catch with a
+                black-box pipeline. We detail the methodology, architecture, and
+                benchmark errors in the full writeup:
+                <a
+                  href="https://blog.getspine.ai/spine-swarm-hits-1-on-gaia-level-3-and-google-deepmind-deepsearchqa"
+                  >https://blog.getspine.ai/spine-swarm-hits-1-on-gaia-level-3-...</a
+                >
+              </p>
+              <p>
+                Benchmarks measure accuracy on closed-ended questions. Turns out
+                the same architecture also leads to better open-ended outputs
+                like decks, reports, and prototypes with minimal supervision.
+                We've seen early users split into two camps: some watch the
+                agents work and jump in to redirect mid-flow, others queue a
+                task and come back to a finished deliverable. Both work because
+                the canvas preserves the full chain of work, so you can audit or
+                intervene whenever you want.
+              </p>
+              <p>
+                A good first task to try: give it your website URL and ask for a
+                full SEO analysis, competitive landscape, and a prioritized
+                growth roadmap with a slide deck. You'll see multiple agents
+                spin up on the canvas simultaneously. People have also used it
+                for fundraising pitch decks with financial models, prototyping
+                features from screenshots and PRDs, competitive analysis reports
+                and deep-dive learning plans that research a topic from multiple
+                angles and produce structured material you can explore further.
+              </p>
+              <p>
+                Pricing is usage-based credits tied to block usage and the
+                underlying models used. Agents tend to use more credits than
+                manual workflows because they're tuned to get you the best
+                possible outcome, which means they pick the best blocks and do
+                more work. Details here:
+                <a href="https://www.getspine.ai/pricing"
+                  >https://www.getspine.ai/pricing</a
+                >. There's a free tier, and one honest caveat: we sized it to
+                let you try a real task, but tasks vary in complexity. If you
+                run out before you've had a proper chance to explore, email us
+                at founders@getspine.ai and we'll work with you.
+              </p>
+              <p>
+                We'd love your feedback on the experience: what worked, what
+                didn't, and where it fell short. We're also curious how others
+                here approach complex, multi-step AI work beyond coding. What
+                tools are you using, and what breaks first? We'll be in the
+                comments all day.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47363990">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theregister.com/2026/03/13/opinion_os_verification/"
+              >Nanny state discovers Linux, demands it check kids' IDs before
+              booting</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-13 @ 13:10:50</span
+              ><span class="points-container"
+                >Points: <span class="points">134</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47363990"
+                  >Comments</a
+                ><span class="descendants">: 98</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47363922">
+          <h3>
+            <a class="item" href="https://help.instagram.com/491565145294150"
+              >E2E encrypted messaging on Instagram will no longer be supported
+              after 8 May</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-13 @ 13:03:42</span
+              ><span class="points-container"
+                >Points: <span class="points">88</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47363922"
+                  >Comments</a
+                ><span class="descendants">: 27</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47363584">
           <h3>
             <a
@@ -142,11 +394,11 @@
             <h4>
               <span>2026-03-13 @ 12:31:09</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47363584"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -164,11 +416,11 @@
             <h4>
               <span>2026-03-13 @ 12:15:11</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47363400"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
             <div class="text">
@@ -221,11 +473,11 @@
             <h4>
               <span>2026-03-13 @ 11:38:15</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47363074"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -240,11 +492,11 @@
             <h4>
               <span>2026-03-13 @ 10:32:45</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">224</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47362613"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -262,11 +514,11 @@
             <h4>
               <span>2026-03-13 @ 10:15:56</span
               ><span class="points-container"
-                >Points: <span class="points">489</span></span
+                >Points: <span class="points">642</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47362528"
                   >Comments</a
-                ><span class="descendants">: 174</span></span
+                ><span class="descendants">: 227</span></span
               >
             </h4>
           </section>
@@ -281,33 +533,11 @@
             <h4>
               <span>2026-03-13 @ 10:08:54</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47362487"
                   >Comments</a
                 ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47362485">
-          <h3>
-            <a
-              class="item"
-              href="https://bensantora.com/posts/fftool-ffmpeg-tui-go/"
-              >Show HN: fftool – A Terminal UI for FFmpeg – Shows Command Before
-              It Runs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-13 @ 10:08:36</span
-              ><span class="points-container"
-                >Points: <span class="points">33</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47362485"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -324,11 +554,11 @@
             <h4>
               <span>2026-03-13 @ 09:45:30</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47362350"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 123</span></span
               >
             </h4>
           </section>
@@ -345,11 +575,11 @@
             <h4>
               <span>2026-03-13 @ 08:31:33</span
               ><span class="points-container"
-                >Points: <span class="points">186</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47361913"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -364,11 +594,11 @@
             <h4>
               <span>2026-03-13 @ 06:30:58</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47361313"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -383,11 +613,11 @@
             <h4>
               <span>2026-03-13 @ 04:36:40</span
               ><span class="points-container"
-                >Points: <span class="points">402</span></span
+                >Points: <span class="points">435</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47360730"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
           </section>
@@ -404,11 +634,11 @@
             <h4>
               <span>2026-03-13 @ 01:45:49</span
               ><span class="points-container"
-                >Points: <span class="points">658</span></span
+                >Points: <span class="points">705</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47359744"
                   >Comments</a
-                ><span class="descendants">: 263</span></span
+                ><span class="descendants">: 281</span></span
               >
             </h4>
           </section>
@@ -425,11 +655,11 @@
             <h4>
               <span>2026-03-12 @ 21:01:10</span
               ><span class="points-container"
-                >Points: <span class="points">1389</span></span
+                >Points: <span class="points">1422</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47357042"
                   >Comments</a
-                ><span class="descendants">: 509</span></span
+                ><span class="descendants">: 514</span></span
               >
             </h4>
           </section>
@@ -446,11 +676,11 @@
             <h4>
               <span>2026-03-12 @ 19:41:35</span
               ><span class="points-container"
-                >Points: <span class="points">234</span></span
+                >Points: <span class="points">242</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47356017"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 152</span></span
               >
             </h4>
           </section>
@@ -467,11 +697,11 @@
             <h4>
               <span>2026-03-12 @ 17:13:56</span
               ><span class="points-container"
-                >Points: <span class="points">361</span></span
+                >Points: <span class="points">364</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47354098"
                   >Comments</a
-                ><span class="descendants">: 108</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -489,32 +719,11 @@
             <h4>
               <span>2026-03-12 @ 16:38:51</span
               ><span class="points-container"
-                >Points: <span class="points">341</span></span
+                >Points: <span class="points">350</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47353533"
                   >Comments</a
-                ><span class="descendants">: 157</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47352459">
-          <h3>
-            <a
-              class="item"
-              href="https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html"
-              >The Met releases high-def 3D scans of 140 famous art objects</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-12 @ 15:43:39</span
-              ><span class="points-container"
-                >Points: <span class="points">313</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47352459"
-                  >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 167</span></span
               >
             </h4>
           </section>
@@ -531,11 +740,11 @@
             <h4>
               <span>2026-03-12 @ 14:48:57</span
               ><span class="points-container"
-                >Points: <span class="points">461</span></span
+                >Points: <span class="points">472</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47351371"
                   >Comments</a
-                ><span class="descendants">: 479</span></span
+                ><span class="descendants">: 488</span></span
               >
             </h4>
           </section>
@@ -550,11 +759,11 @@
             <h4>
               <span>2026-03-12 @ 13:42:04</span
               ><span class="points-container"
-                >Points: <span class="points">1343</span></span
+                >Points: <span class="points">1361</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47350424"
                   >Comments</a
-                ><span class="descendants">: 494</span></span
+                ><span class="descendants">: 497</span></span
               >
             </h4>
             <div class="text">
@@ -567,88 +776,6 @@
                   >https://malus.sh/blog.html</a
                 >
               </p>
-            </div>
-          </section>
-        </section>
-        <section id="47350407">
-          <h3>
-            <a
-              class="item"
-              href="https://aminrj.com/posts/rag-document-poisoning/"
-              >Document poisoning in RAG systems: How attackers corrupt AI's
-              sources</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-12 @ 13:40:36</span
-              ><span class="points-container"
-                >Points: <span class="points">134</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47350407"
-                  >Comments</a
-                ><span class="descendants">: 54</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://github.com/aminrj-labs/mcp-attack-labs/tree/main/labs/04-rag-security"
-                >https://github.com/aminrj-labs/mcp-attack-labs/tree/main/lab...</a
-              >
-              <p>
-                The lab runs entirely on LM Studio + Qwen2.5-7B-Instruct
-                (Q4_K_M) + ChromaDB — no cloud APIs, no GPU required, no API
-                keys.
-              </p>
-              <p>
-                From zero to seeing the poisoning succeed: git clone, make
-                setup, make attack1. About 10 minutes.
-              </p>
-              <p>Two things worth flagging upfront:</p>
-              <p>
-                - The 95% success rate is against a 5-document corpus (best case
-                for the attacker). In a mature collection you need
-                proportionally more poisoned docs to dominate retrieval — but
-                the mechanism is the same.
-              </p>
-              <p>
-                - Embedding anomaly detection at ingestion was the biggest
-                surprise: 95% → 20% as a standalone control, outperforming all
-                three generation-phase defenses combined. It runs on embeddings
-                your pipeline already produces — no additional model.
-              </p>
-              <p>All five layers combined: 10% residual.</p>
-              <p>
-                Happy to discuss methodology, the PoisonedRAG comparison, or
-                anything that looks off.
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="47349806">
-          <h3>
-            <a
-              class="item"
-              href="https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d"
-              >US private credit defaults hit record 9.2% in 2025, Fitch says</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-12 @ 12:44:45</span
-              ><span class="points-container"
-                >Points: <span class="points">399</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47349806"
-                  >Comments</a
-                ><span class="descendants">: 436</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/"
-                >https://alternativecreditinvestor.com/2025/10/22/us-banks-ex...</a
-              >
             </div>
           </section>
         </section>
@@ -665,11 +792,11 @@
             <h4>
               <span>2026-03-12 @ 09:17:56</span
               ><span class="points-container"
-                >Points: <span class="points">182</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47348275"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -685,11 +812,11 @@
             <h4>
               <span>2026-03-10 @ 16:18:40</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47325296"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
             <div class="text">
@@ -717,11 +844,11 @@
             <h4>
               <span>2026-03-09 @ 16:34:29</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47311351"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -738,11 +865,11 @@
             <h4>
               <span>2026-03-09 @ 14:54:31</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47309940"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -757,11 +884,11 @@
             <h4>
               <span>2026-03-09 @ 14:16:53</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47309397"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -776,11 +903,11 @@
             <h4>
               <span>2026-03-09 @ 13:07:45</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47308547"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -795,11 +922,11 @@
             <h4>
               <span>2026-03-09 @ 10:21:58</span
               ><span class="points-container"
-                >Points: <span class="points">491</span></span
+                >Points: <span class="points">534</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47307124"
                   >Comments</a
-                ><span class="descendants">: 170</span></span
+                ><span class="descendants">: 180</span></span
               >
             </h4>
           </section>
@@ -817,11 +944,11 @@
             <h4>
               <span>2026-03-09 @ 07:49:49</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47305957"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -838,11 +965,11 @@
             <h4>
               <span>2026-03-08 @ 20:22:26</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47301017"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
