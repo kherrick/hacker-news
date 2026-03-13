@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-13, 23:14:37",
+      "https://news.ycombinator.com/item?id=47371275"
+    ],
+    [
+      "I beg you to follow Crocker's Rules, even if you will be rude to me",
+      "https://lr0.org/blog/p/crocker/"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 22:52:05",
       "https://news.ycombinator.com/item?id=47371064"
     ],
@@ -17,16 +27,6 @@
     [
       "Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group",
       "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 19:35:18",
-      "https://news.ycombinator.com/item?id=47368703"
-    ],
-    [
-      "The wild six weeks for NanoClaw's creator that led to a deal with Docker",
-      "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/"
     ]
   ],
   [
@@ -87,26 +87,6 @@
     [
       "John Carmack about open source and anti-AI activists",
       "https://twitter.com/id_aa_carmack/status/2032460578669691171"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 17:49:54",
-      "https://news.ycombinator.com/item?id=47367443"
-    ],
-    [
-      "The Accidental Room (2018)",
-      "https://99percentinvisible.org/episode/the-accidental-room/"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 17:27:12",
-      "https://news.ycombinator.com/item?id=47367220"
-    ],
-    [
-      "Militaries are scrambling to create their own Starlink",
-      "https://www.newscientist.com/article/2517766-why-the-worlds-militaries-are-scrambling-to-create-their-own-starlink/"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2026-03-11, 13:37:24",
+      "https://news.ycombinator.com/item?id=47335416"
+    ],
+    [
+      "MetaGenesis Core – offline verification for computational claims",
+      "https://www.metagenesis-core.dev/"
+    ]
+  ],
+  [
+    [
       "2026-03-11, 08:14:19",
       "https://news.ycombinator.com/item?id=47332883"
     ],
     [
       "Exploring JEPA for real-time speech translation",
       "https://www.startpinch.com/research/en/jepa-encoder-translation/"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 10:57:57",
+      "https://news.ycombinator.com/item?id=47321579"
+    ],
+    [
+      "OpenTelemetry for Rust Developers",
+      "https://signoz.io/blog/opentelemetry-rust/"
     ]
   ],
   [
