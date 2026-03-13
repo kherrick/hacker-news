@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-13, 19:35:18](https://news.ycombinator.com/item?id=47368703) - [The wild six weeks for NanoClaw's creator that led to a deal with Docker](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)
 * [2026-03-13, 19:15:06](https://news.ycombinator.com/item?id=47368430) - [Stanford researchers report first recording of a blue whale's heart rate (2019)](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate)
+* [2026-03-13, 18:52:17](https://news.ycombinator.com/item?id=47368135) - [Digg is gone again](https://digg.com/)
+* [2026-03-13, 18:42:54](https://news.ycombinator.com/item?id=47368033) - [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
 * [2026-03-13, 18:34:12](https://news.ycombinator.com/item?id=47367932) - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
-* [2026-03-13, 18:21:57](https://news.ycombinator.com/item?id=47367790) - [My Life Got 100x Better When I Stopped Thinking About Google](https://joostboer.com/google-quality-of-life)
 * [2026-03-13, 18:02:32](https://news.ycombinator.com/item?id=47367568) - [Your phone is an entire computer](https://medhir.com/blog/your-phone-is-an-entire-computer)
 * [2026-03-13, 17:58:22](https://news.ycombinator.com/item?id=47367526) - [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway)
 * [2026-03-13, 17:51:34](https://news.ycombinator.com/item?id=47367463) - [John Carmack about open source and anti-AI activists](https://twitter.com/id_aa_carmack/status/2032460578669691171)
@@ -24,12 +26,10 @@
 * [2026-03-12, 10:29:45](https://news.ycombinator.com/item?id=47348733) - [Coding after coders: The end of computer programming as we know it](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share)
 * [2026-03-12, 09:17:56](https://news.ycombinator.com/item?id=47348275) - [Executing programs inside transformers with exponentially faster inference](https://www.percepta.ai/blog/can-llms-be-computers)
 * [2026-03-11, 14:34:57](https://news.ycombinator.com/item?id=47336100) - [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv)
-* [2026-03-10, 15:04:35](https://news.ycombinator.com/item?id=47324256) - [Show HN: Svglib a SVG parser and renderer for Windows](https://github.com/bibhas2/svglib)
 * [2026-03-10, 07:38:59](https://news.ycombinator.com/item?id=47320158) - [Using Thunderbird for RSS](https://rubenerd.com/using-thunderbird-for-rss/)
 * [2026-03-09, 14:49:30](https://news.ycombinator.com/item?id=47309877) - [Removing recursion via explicit callstack simulation](https://jnkr.tech/blog/removing-recursion)
 * [2026-03-09, 14:19:50](https://news.ycombinator.com/item?id=47309445) - [The Mrs Fractal: Mirror, Rotate, Scale (2025)](https://www.4rknova.com//blog/2025/06/22/mrs-fractal)
 * [2026-03-09, 14:16:53](https://news.ycombinator.com/item?id=47309397) - [Okmain: How to pick an OK main colour of an image](https://dgroshev.com/blog/okmain/)
-* [2026-03-09, 10:21:58](https://news.ycombinator.com/item?id=47307124) - [Willingness to look stupid](https://sharif.io/looking-stupid)
 
 ## [Archives](archives/index.md)
 
