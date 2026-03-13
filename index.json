@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-13, 15:04:41",
+      "https://news.ycombinator.com/item?id=47365461"
+    ],
+    [
+      "Two long-lost episodes of 'Doctor Who' have been found",
+      "https://apnews.com/article/doctor-who-lost-episodes-found-daleks-6849b09faa6eca9377b2a0db45d47ff8"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 14:11:36",
+      "https://news.ycombinator.com/item?id=47364729"
+    ],
+    [
+      "Parallels Confirms MacBook Neo Can Run Windows in a Virtual Machine",
+      "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 13:45:32",
       "https://news.ycombinator.com/item?id=47364397"
     ],
@@ -21,42 +41,12 @@
   ],
   [
     [
-      "2026-03-13, 13:10:50",
-      "https://news.ycombinator.com/item?id=47363990"
-    ],
-    [
-      "Nanny state discovers Linux, demands it check kids' IDs before booting",
-      "https://www.theregister.com/2026/03/13/opinion_os_verification/"
-    ]
-  ],
-  [
-    [
       "2026-03-13, 13:03:42",
       "https://news.ycombinator.com/item?id=47363922"
     ],
     [
       "E2E encrypted messaging on Instagram will no longer be supported after 8 May",
       "https://help.instagram.com/491565145294150"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 12:15:11",
-      "https://news.ycombinator.com/item?id=47363400"
-    ],
-    [
-      "Show HN: Algorithms and Data Structures in TypeScript – Free Book (~400 Pages)",
-      "http://amoilanen.github.io/Algorithms-with-Typescript/"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 11:38:15",
-      "https://news.ycombinator.com/item?id=47363074"
-    ],
-    [
-      "Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)",
-      "https://prompt-caching.ai/"
     ]
   ],
   [
@@ -97,16 +87,6 @@
     [
       "Source code of Swedish e-government services has been leaked",
       "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 08:42:23",
-      "https://news.ycombinator.com/item?id=47361982"
-    ],
-    [
-      "Vite+ Alpha: Unified Toolchain for the Web (MIT License)",
-      "https://voidzero.dev/posts/announcing-vite-plus-alpha"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2026-03-12, 12:44:45",
+      "https://news.ycombinator.com/item?id=47349806"
+    ],
+    [
+      "US private credit defaults hit record 9.2% in 2025, Fitch says",
+      "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 09:17:56",
       "https://news.ycombinator.com/item?id=47348275"
     ],
@@ -247,6 +237,16 @@
     [
       "Understanding the Go Runtime: The Scheduler",
       "https://internals-for-interns.com/posts/go-runtime-scheduler/"
+    ]
+  ],
+  [
+    [
+      "2026-03-09, 14:19:50",
+      "https://news.ycombinator.com/item?id=47309445"
+    ],
+    [
+      "The Mrs Fractal: Mirror, Rotate, Scale",
+      "https://www.4rknova.com//blog/2025/06/22/mrs-fractal"
     ]
   ],
   [
