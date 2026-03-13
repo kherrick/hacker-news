@@ -35,6 +35,7 @@
 * [2026-03-08, 17:16:38](https://news.ycombinator.com/item?id=47299009) - [Based on its own charter, OpenAI should surrender the race](https://mlumiste.com/general/openai-charter/)
 * [2026-03-08, 17:14:53](https://news.ycombinator.com/item?id=47298997) - [Claude Struggles to Cope with ChatGPT Exodus](https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/)
 * [2026-03-08, 17:01:50](https://news.ycombinator.com/item?id=47298885) - [LibreOffice Writer now supports Markdown](https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/)
+* [2026-03-08, 16:46:51](https://news.ycombinator.com/item?id=47298754) - [Art Crimes: The Writing on the Wall](https://www.graffiti.org/)
 * [2026-03-08, 16:46:10](https://news.ycombinator.com/item?id=47298743) - [My Homelab Setup](https://bryananthonio.com/blog/my-homelab-setup/)
 * [2026-03-08, 16:33:30](https://news.ycombinator.com/item?id=47298655) - [The human.json Protocol](https://codeberg.org/robida/human.json)
 * [2026-03-08, 16:22:24](https://news.ycombinator.com/item?id=47298553) - [Flash media longevity testing – 6 years later](https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/)

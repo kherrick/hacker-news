@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 15:45:33](https://news.ycombinator.com/item?id=47366011) - [Launch HN: Captain (YC W26) – Automated RAG for Files](https://www.runcaptain.com/)
+* [2026-03-13, 15:29:16](https://news.ycombinator.com/item?id=47365784) - [NASA targets Artemis II crewed moon mission for April 1 launch](https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch)
+* [2026-03-13, 15:14:29](https://news.ycombinator.com/item?id=47365597) - [Meta Platforms: Lobbying, Dark Money, and the App Store Accountability Act](https://github.com/upper-up/meta-lobbying-and-other-findings)
 * [2026-03-13, 15:04:41](https://news.ycombinator.com/item?id=47365461) - [Two long-lost episodes of 'Doctor Who' have been found](https://apnews.com/article/doctor-who-lost-episodes-found-daleks-6849b09faa6eca9377b2a0db45d47ff8)
 * [2026-03-13, 14:11:36](https://news.ycombinator.com/item?id=47364729) - [Parallels Confirms MacBook Neo Can Run Windows in a Virtual Machine](https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/)
 * [2026-03-13, 13:45:32](https://news.ycombinator.com/item?id=47364397) - [Run NanoClaw in Docker Sandboxes](https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/)
 * [2026-03-13, 13:22:40](https://news.ycombinator.com/item?id=47364116) - [Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas](https://www.getspine.ai/)
 * [2026-03-13, 13:10:50](https://news.ycombinator.com/item?id=47363990) - [Nanny state discovers Linux, demands it check kids' IDs before booting](https://www.theregister.com/2026/03/13/opinion_os_verification/)
 * [2026-03-13, 13:03:42](https://news.ycombinator.com/item?id=47363922) - [E2E encrypted messaging on Instagram will no longer be supported after 8 May](https://help.instagram.com/491565145294150)
+* [2026-03-13, 12:46:10](https://news.ycombinator.com/item?id=47363754) - [Can I Run AI locally?](https://www.canirun.ai/)
 * [2026-03-13, 12:31:09](https://news.ycombinator.com/item?id=47363584) - [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
 * [2026-03-13, 12:15:11](https://news.ycombinator.com/item?id=47363400) - [Show HN: Algorithms and Data Structures in TypeScript – Free Book (~400 Pages)](http://amoilanen.github.io/Algorithms-with-Typescript/)
 * [2026-03-13, 11:38:15](https://news.ycombinator.com/item?id=47363074) - [Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)](https://prompt-caching.ai/)
