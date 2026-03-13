@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-13, 05:18:01](https://news.ycombinator.com/item?id=47360978) - [Lost Doctor Who Episodes Found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o)
-* [2026-03-13, 04:42:22](https://news.ycombinator.com/item?id=47360760) - [Show HN: Global Maritime Chokepoints](https://ryanshook.org/chokepoints/)
 * [2026-03-13, 04:36:40](https://news.ycombinator.com/item?id=47360730) - [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8)
 * [2026-03-13, 03:32:18](https://news.ycombinator.com/item?id=47360383) - [Hyperlinks in Terminal Emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda)
 * [2026-03-13, 03:06:37](https://news.ycombinator.com/item?id=47360243) - [Can you instruct a robot to make a PBJ sandwich?](https://pbj.deliberateinc.com/)
@@ -24,12 +22,14 @@
 * [2026-03-12, 12:44:45](https://news.ycombinator.com/item?id=47349806) - [US private credit defaults hit record 9.2% in 2025, Fitch says](https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d)
 * [2026-03-12, 11:49:05](https://news.ycombinator.com/item?id=47349334) - [Are LLM merge rates not getting better?](https://entropicthoughts.com/no-swe-bench-improvement)
 * [2026-03-12, 11:41:14](https://news.ycombinator.com/item?id=47349277) - [Big data on the cheapest MacBook](https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook)
+* [2026-03-12, 09:17:56](https://news.ycombinator.com/item?id=47348275) - [Executing programs inside transformers with exponentially faster inference](https://www.percepta.ai/blog/can-llms-be-computers)
 * [2026-03-12, 08:33:00](https://news.ycombinator.com/item?id=47347977) - [Celebrating Interesting Flickr Technologies](https://medium.com/@brightcarvings/celebrating-flickr-technology-3c93c8ddecc2)
-* [2026-03-10, 06:02:27](https://news.ycombinator.com/item?id=47319539) - [DDR4 Sdram – Initialization, Training and Calibration](https://www.systemverilog.io/design/ddr4-initialization-and-calibration/)
+* [2026-03-10, 14:18:25](https://news.ycombinator.com/item?id=47323629) - [The Unpredicted vs. the Over-Expected](https://kevinkelly.substack.com/p/the-unpredicted-vs-the-over-expected)
 * [2026-03-09, 14:54:31](https://news.ycombinator.com/item?id=47309940) - [Understanding the Go Runtime: The Scheduler](https://internals-for-interns.com/posts/go-runtime-scheduler/)
 * [2026-03-09, 13:07:45](https://news.ycombinator.com/item?id=47308547) - [IMG_0416 (2024)](https://ben-mini.com/2024/img-0416)
 * [2026-03-09, 10:21:58](https://news.ycombinator.com/item?id=47307124) - [Willingness to look stupid](https://sharif.io/looking-stupid)
 * [2026-03-08, 20:22:26](https://news.ycombinator.com/item?id=47301017) - [Prefix sums at gigabytes per second with ARM NEON](https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/)
+* [2026-03-08, 11:17:26](https://news.ycombinator.com/item?id=47296426) - [Never Snooze a Future](https://jacko.io/snooze.html)
 
 ## [Archives](archives/index.md)
 

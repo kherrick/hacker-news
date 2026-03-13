@@ -65,6 +65,7 @@
 * [2026-03-08, 11:37:00](https://news.ycombinator.com/item?id=47296532) - [Lazy JWT Key Rotation in .NET: Redis-Powered JWKS That Just Works](https://www.aaronpina.com/lazy-jwt-key-rotation-in-net-redis-powered-jwks-that-just-works/)
 * [2026-03-08, 11:27:49](https://news.ycombinator.com/item?id=47296481) - [If It Quacks Like a Package Manager](https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html)
 * [2026-03-08, 11:22:42](https://news.ycombinator.com/item?id=47296461) - [CNN Explainer – Learn Convolutional Neural Network in Your Browser (2020)](https://poloclub.github.io/cnn-explainer/)
+* [2026-03-08, 11:17:26](https://news.ycombinator.com/item?id=47296426) - [Never Snooze a Future](https://jacko.io/snooze.html)
 * [2026-03-08, 11:04:04](https://news.ycombinator.com/item?id=47296355) - [Show HN: Eyot, A programming language where the GPU is just another thread](https://cowleyforniastudios.com/2026/03/08/announcing-eyot/)
 * [2026-03-08, 10:54:32](https://news.ycombinator.com/item?id=47296302) - [Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage](https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/)
 * [2026-03-08, 10:51:54](https://news.ycombinator.com/item?id=47296284) - [Pike: To Exit or Not to Exit](https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/)

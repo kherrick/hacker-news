@@ -55,6 +55,7 @@
 * [2026-03-12, 11:41:14](https://news.ycombinator.com/item?id=47349277) - [Big Data on the Cheapest MacBook](https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook)
 * [2026-03-12, 09:46:00](https://news.ycombinator.com/item?id=47348440) - [1B identity records exposed in ID verification data leak](https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html)
 * [2026-03-12, 09:23:01](https://news.ycombinator.com/item?id=47348304) - [Dolphin Progress Release 2603](https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/)
+* [2026-03-12, 09:17:56](https://news.ycombinator.com/item?id=47348275) - [Executing programs inside transformers with exponentially faster inference](https://www.percepta.ai/blog/can-llms-be-computers)
 * [2026-03-12, 09:06:57](https://news.ycombinator.com/item?id=47348192) - [Avoiding Trigonometry (2013)](https://iquilezles.org/articles/noacos/)
 * [2026-03-12, 08:33:00](https://news.ycombinator.com/item?id=47347977) - [Celebrating Interesting Flickr Technologies](https://medium.com/@brightcarvings/celebrating-flickr-technology-3c93c8ddecc2)
 * [2026-03-12, 08:27:16](https://news.ycombinator.com/item?id=47347945) - [3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting)
