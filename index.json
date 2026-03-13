@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-03-13, 05:06:36",
-      "https://news.ycombinator.com/item?id=47360892"
+      "2026-03-13, 05:18:01",
+      "https://news.ycombinator.com/item?id=47360978"
     ],
     [
-      "Why Technology Makes Us More Productive but Not Richer",
-      "https://www.fullstackpm.tech/blog/productivity-paradox-capital-lockup"
+      "Lost Doctor Who Episodes Found",
+      "https://www.bbc.co.uk/news/articles/c4g7kwq1k11o"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 04:42:22",
+      "https://news.ycombinator.com/item?id=47360760"
+    ],
+    [
+      "Show HN: Global Maritime Chokepoints",
+      "https://ryanshook.org/chokepoints/"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2026-03-10, 14:18:25",
-      "https://news.ycombinator.com/item?id=47323629"
+      "2026-03-10, 06:02:27",
+      "https://news.ycombinator.com/item?id=47319539"
     ],
     [
-      "The Unpredicted vs. the Over-Expected",
-      "https://kevinkelly.substack.com/p/the-unpredicted-vs-the-over-expected"
+      "DDR4 Sdram – Initialization, Training and Calibration",
+      "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-03-09, 00:09:54",
-      "https://news.ycombinator.com/item?id=47303133"
+      "2026-03-08, 20:22:26",
+      "https://news.ycombinator.com/item?id=47301017"
     ],
     [
-      "How people woke up before alarm clocks",
-      "https://www.bbc.com/future/article/20260306-the-wake-up-tricks-people-used-before-alarm-clocks"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 03:57:30",
-      "https://news.ycombinator.com/item?id=47294271"
-    ],
-    [
-      "Forcing Flash Attention onto a TPU and Learning the Hard Way",
-      "https://archerzhang.me/forcing-flash-attention-onto-a-tpu"
+      "Prefix sums at gigabytes per second with ARM NEON",
+      "https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/"
     ]
   ]
 ]
