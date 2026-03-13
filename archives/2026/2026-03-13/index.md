@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 19:58:02](https://news.ycombinator.com/item?id=47369036) - [Who Goes Nazi? (1941)](https://harpers.org/archive/1941/08/who-goes-nazi/)
+* [2026-03-13, 19:48:03](https://news.ycombinator.com/item?id=47368874) - [How do you capture WHY engineering decisions were made, not just what?](https://news.ycombinator.com/item?id=47368874)
 * [2026-03-13, 19:35:18](https://news.ycombinator.com/item?id=47368703) - [The wild six weeks for NanoClaw's creator that led to a deal with Docker](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)
 * [2026-03-13, 19:15:06](https://news.ycombinator.com/item?id=47368430) - [Stanford researchers report first recording of a blue whale's heart rate (2019)](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate)
 * [2026-03-13, 18:52:17](https://news.ycombinator.com/item?id=47368135) - [Digg is gone again](https://digg.com/)
