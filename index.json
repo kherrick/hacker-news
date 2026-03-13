@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-03-13, 12:31:09",
-      "https://news.ycombinator.com/item?id=47363584"
-    ],
-    [
-      "Qatar helium shutdown puts chip supply chain on a two-week clock",
-      "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock"
-    ]
-  ],
-  [
-    [
       "2026-03-13, 12:15:11",
       "https://news.ycombinator.com/item?id=47363400"
     ],
@@ -107,6 +97,16 @@
     [
       "Source code of Swedish e-government services has been leaked",
       "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 08:42:23",
+      "https://news.ycombinator.com/item?id=47361982"
+    ],
+    [
+      "Vite+ Alpha: Unified Toolchain for the Web (MIT License)",
+      "https://voidzero.dev/posts/announcing-vite-plus-alpha"
     ]
   ],
   [
@@ -191,22 +191,22 @@
   ],
   [
     [
+      "2026-03-12, 15:43:39",
+      "https://news.ycombinator.com/item?id=47352459"
+    ],
+    [
+      "The Met releases high-def 3D scans of 140 famous art objects",
+      "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 14:48:57",
       "https://news.ycombinator.com/item?id=47351371"
     ],
     [
       "ATMs didn’t kill bank teller jobs, but the iPhone did",
       "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 13:42:04",
-      "https://news.ycombinator.com/item?id=47350424"
-    ],
-    [
-      "Malus – Clean Room as a Service",
-      "https://malus.sh"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-03-08, 20:22:26",
-      "https://news.ycombinator.com/item?id=47301017"
+      "2026-03-08, 18:09:57",
+      "https://news.ycombinator.com/item?id=47299518"
     ],
     [
-      "Prefix sums at gigabytes per second with ARM NEON",
-      "https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/"
+      "Monster Is the Machine",
+      "https://kirkcenter.org/reviews/monster-is-the-machine/"
     ]
   ]
 ]
