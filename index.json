@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-13, 18:34:12",
+      "https://news.ycombinator.com/item?id=47367932"
+    ],
+    [
+      "Hammerspoon",
+      "https://github.com/Hammerspoon/hammerspoon"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 18:02:32",
       "https://news.ycombinator.com/item?id=47367568"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2026-03-13, 17:51:34",
+      "https://news.ycombinator.com/item?id=47367463"
+    ],
+    [
+      "John Carmack about open source and anti-AI activists",
+      "https://twitter.com/id_aa_carmack/status/2032460578669691171"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 17:49:54",
       "https://news.ycombinator.com/item?id=47367443"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47367220"
     ],
     [
-      "Why the militaries are scrambling to create their own Starlink",
+      "Militaries are scrambling to create their own Starlink",
       "https://www.newscientist.com/article/2517766-why-the-worlds-militaries-are-scrambling-to-create-their-own-starlink/"
     ]
   ],
@@ -71,32 +91,12 @@
   ],
   [
     [
-      "2026-03-13, 15:29:16",
-      "https://news.ycombinator.com/item?id=47365784"
-    ],
-    [
-      "NASA targets Artemis II crewed moon mission for April 1 launch",
-      "https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch"
-    ]
-  ],
-  [
-    [
       "2026-03-13, 14:11:36",
       "https://news.ycombinator.com/item?id=47364729"
     ],
     [
       "Parallels confirms MacBook Neo can run Windows in a virtual machine",
       "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 13:45:32",
-      "https://news.ycombinator.com/item?id=47364397"
-    ],
-    [
-      "Run NanoClaw in Docker Sandboxes",
-      "https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-03-09, 16:34:29",
-      "https://news.ycombinator.com/item?id=47311351"
+      "2026-03-10, 15:04:35",
+      "https://news.ycombinator.com/item?id=47324256"
     ],
     [
-      "What we learned from a 22-Day storage bug (and how we fixed it)",
-      "https://www.mux.com/blog/22-day-storage-bug"
+      "Show HN: Svglib a SVG parser and renderer for Windows",
+      "https://github.com/bibhas2/svglib"
     ]
   ],
   [
