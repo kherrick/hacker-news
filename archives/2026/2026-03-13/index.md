@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 13:45:32](https://news.ycombinator.com/item?id=47364397) - [Run NanoClaw in Docker Sandboxes](https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/)
+* [2026-03-13, 13:22:40](https://news.ycombinator.com/item?id=47364116) - [Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas](https://www.getspine.ai/)
+* [2026-03-13, 13:10:50](https://news.ycombinator.com/item?id=47363990) - [Nanny state discovers Linux, demands it check kids' IDs before booting](https://www.theregister.com/2026/03/13/opinion_os_verification/)
+* [2026-03-13, 13:03:42](https://news.ycombinator.com/item?id=47363922) - [E2E encrypted messaging on Instagram will no longer be supported after 8 May](https://help.instagram.com/491565145294150)
 * [2026-03-13, 12:31:09](https://news.ycombinator.com/item?id=47363584) - [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
 * [2026-03-13, 12:15:11](https://news.ycombinator.com/item?id=47363400) - [Show HN: Algorithms and Data Structures in TypeScript – Free Book (~400 Pages)](http://amoilanen.github.io/Algorithms-with-Typescript/)
 * [2026-03-13, 11:38:15](https://news.ycombinator.com/item?id=47363074) - [Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)](https://prompt-caching.ai/)
