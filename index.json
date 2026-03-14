@@ -1,21 +1,11 @@
 [
   [
     [
-      "2026-03-14, 14:51:24",
-      "https://news.ycombinator.com/item?id=47377277"
-    ],
-    [
-      "Arizona's Meteor Crater is still revealing new secrets 50k years later",
-      "https://www.space.com/stargazing/meteor-showers/arizonas-meteor-crater-is-still-revealing-new-secrets-50-000-years-later"
-    ]
-  ],
-  [
-    [
       "2026-03-14, 14:49:15",
       "https://news.ycombinator.com/item?id=47377262"
     ],
     [
-      "AI Didn't Simplify Software Engineering: It Just Made Bad Engineering Easier",
+      "AI didn't simplify software engineering: It just made bad engineering easier",
       "https://robenglander.com/writing/ai-did-not-simplify/"
     ]
   ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=47376767"
     ],
     [
-      "Montana Leads the Nation with Groundbreaking Right to Compute Act",
+      "Montana passes Right to Compute act",
       "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/"
     ]
   ],
@@ -97,6 +87,16 @@
     [
       "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
       "https://github.com/drojaazu/megadev"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 00:02:37",
+      "https://news.ycombinator.com/item?id=47371692"
+    ],
+    [
+      "Games with loot boxes to get minimum 16 age rating across Europe",
+      "https://www.bbc.com/news/articles/cge84xqjg5lo"
     ]
   ],
   [
@@ -215,8 +215,18 @@
       "https://news.ycombinator.com/item?id=47339219"
     ],
     [
-      "Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About",
+      "Baochip-1x: What it is, why I'm doing it now and how it came about",
       "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 15:39:03",
+      "https://news.ycombinator.com/item?id=47337028"
+    ],
+    [
+      "Show HN: Ink – Deploy full-stack apps from AI agents via MCP or Skills",
+      "https://ml.ink/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Python: The Optimization Ladder",
       "https://cemrehancavdar.com/2026/03/10/optimization-ladder/"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 14:18:21",
-      "https://news.ycombinator.com/item?id=47323625"
-    ],
-    [
-      "You gotta think outside the hypercube",
-      "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube"
     ]
   ],
   [
