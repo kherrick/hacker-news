@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 15:06:07](https://news.ycombinator.com/item?id=47377431) - [Jürgen Habermas, influential German philosopher, dies at 96](https://apnews.com/article/juergen-habermas-dead-germany-2b541721af6cb19abfaa923359d091b5)
 * [2026-03-14, 14:51:24](https://news.ycombinator.com/item?id=47377277) - [Arizona's Meteor Crater is still revealing new secrets 50k years later](https://www.space.com/stargazing/meteor-showers/arizonas-meteor-crater-is-still-revealing-new-secrets-50-000-years-later)
 * [2026-03-14, 14:49:15](https://news.ycombinator.com/item?id=47377262) - [AI Didn't Simplify Software Engineering: It Just Made Bad Engineering Easier](https://robenglander.com/writing/ai-did-not-simplify/)
 * [2026-03-14, 14:08:18](https://news.ycombinator.com/item?id=47376848) - [Philosoph Jürgen Habermas Gestorben](https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363)
