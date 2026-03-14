@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47376848">
+          <h3>
+            <a
+              class="item"
+              href="https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363"
+              >Philosoph Jürgen Habermas Gestorben</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-14 @ 14:08:18</span
+              ><span class="points-container"
+                >Points: <span class="points">28</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47376848"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47376619">
           <h3>
             <a
@@ -158,7 +179,7 @@
             <h4>
               <span>2026-03-14 @ 12:59:10</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47376234"
                   >Comments</a
@@ -179,11 +200,11 @@
             <h4>
               <span>2026-03-14 @ 11:59:13</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47375764"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 101</span></span
               >
             </h4>
           </section>
@@ -200,32 +221,11 @@
             <h4>
               <span>2026-03-14 @ 11:46:29</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47375682"
                   >Comments</a
-                ><span class="descendants">: 143</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47375610">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price"
-              >How Lego builds a new Lego set</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-14 @ 11:35:49</span
-              ><span class="points-container"
-                >Points: <span class="points">32</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47375610"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 155</span></span
               >
             </h4>
           </section>
@@ -243,13 +243,89 @@
             <h4>
               <span>2026-03-14 @ 10:05:58</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47375085"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="47374958">
+          <h3>
+            <a class="item" href="https://github.com/Agastya910/agentarmor"
+              >Show HN: AgentArmor – open-source 8-layer security framework for
+              AI agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-14 @ 09:44:36</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47374958"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                So I built AgentArmor: an open-source framework that wraps any
+                agentic architecture with 8 independent security layers, each
+                targeting a distinct attack surface in the agent's data flow.
+              </p>
+              <p>
+                The 8 layers: L1 – Ingestion: prompt injection + jailbreak
+                detection (20+ patterns, DAN, extraction attempts, Unicode
+                steganography) L2 – Storage: AES-256-GCM encryption at rest +
+                BLAKE3 integrity for vector DBs L3 – Context: instruction-data
+                separation (like parameterized SQL, but for LLM context), canary
+                tokens, prompt hardening L4 – Planning: action risk scoring
+                (READ=1 → DELETE=7 → EXECUTE=8 → ADMIN=10), chain depth limits,
+                bulk operation detection L5 – Execution: network egress control,
+                per-action rate limiting, human approval gates with conditional
+                rules L6 – Output: PII redaction via Microsoft Presidio + regex
+                fallback L7 – Inter-agent: HMAC-SHA256 mutual auth, trust
+                scoring, delegation depth limits, timestamp-bound replay
+                prevention L8 – Identity: agent-native identity, JIT
+                permissions, short-lived credentials
+              </p>
+              <p>
+                I tested it against all 10 OWASP ASI (Agentic Security
+                Integrity) risks from the December 2025 spec. The red team suite
+                is included in the repo.
+              </p>
+              <p>
+                Works as: (a) a Python library you wrap around tool calls, (b) a
+                FastAPI proxy server for framework-agnostic deployment, or (c) a
+                CLI for scanning prompts in CI.
+              </p>
+              <p>
+                Integrations included for: LangChain, OpenAI Agents SDK, MCP
+                servers.
+              </p>
+              <p>
+                I ran it live with a local Ollama agent (qwen2:7b) – you can
+                watch it block a `database.delete` at L8 (permission check),
+                redact PII from file content at L6, and kill a prompt injection
+                at L1 before it ever reaches the model.
+              </p>
+              <p>
+                GitHub:
+                <a href="https://github.com/Agastya910/agentarmor"
+                  >https://github.com/Agastya910/agentarmor</a
+                >
+                PyPI: pip install agentarmor-core
+              </p>
+              <p>
+                Would love feedback, especially from people who have actually
+                built production agents and hit security issues I haven't
+                thought of.
+              </p>
+              <p>TAGS: security, python, llm, ai, agents</p>
+            </div>
           </section>
         </section>
         <section id="47374745">
@@ -263,7 +339,7 @@
             <h4>
               <span>2026-03-14 @ 09:04:39</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47374745"
                   >Comments</a
@@ -285,11 +361,11 @@
             <h4>
               <span>2026-03-14 @ 00:02:37</span
               ><span class="points-container"
-                >Points: <span class="points">250</span></span
+                >Points: <span class="points">257</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47371692"
                   >Comments</a
-                ><span class="descendants">: 158</span></span
+                ><span class="descendants">: 161</span></span
               >
             </h4>
           </section>
@@ -305,11 +381,11 @@
             <h4>
               <span>2026-03-13 @ 23:14:37</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47371275"
                   >Comments</a
-                ><span class="descendants">: 150</span></span
+                ><span class="descendants">: 153</span></span
               >
             </h4>
           </section>
@@ -327,11 +403,11 @@
             <h4>
               <span>2026-03-13 @ 22:52:05</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">141</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47371064"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -344,11 +420,11 @@
             <h4>
               <span>2026-03-13 @ 18:52:17</span
               ><span class="points-container"
-                >Points: <span class="points">261</span></span
+                >Points: <span class="points">269</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47368135"
                   >Comments</a
-                ><span class="descendants">: 260</span></span
+                ><span class="descendants">: 270</span></span
               >
             </h4>
           </section>
@@ -363,11 +439,11 @@
             <h4>
               <span>2026-03-13 @ 18:42:54</span
               ><span class="points-container"
-                >Points: <span class="points">359</span></span
+                >Points: <span class="points">369</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47368033"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
             <div class="text">
@@ -396,7 +472,7 @@
             <h4>
               <span>2026-03-13 @ 18:34:12</span
               ><span class="points-container"
-                >Points: <span class="points">308</span></span
+                >Points: <span class="points">313</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47367932"
                   >Comments</a
@@ -416,11 +492,11 @@
             <h4>
               <span>2026-03-13 @ 17:19:01</span
               ><span class="points-container"
-                >Points: <span class="points">886</span></span
+                >Points: <span class="points">906</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47367129"
                   >Comments</a
-                ><span class="descendants">: 344</span></span
+                ><span class="descendants">: 352</span></span
               >
             </h4>
           </section>
@@ -435,11 +511,11 @@
             <h4>
               <span>2026-03-13 @ 12:46:10</span
               ><span class="points-container"
-                >Points: <span class="points">1296</span></span
+                >Points: <span class="points">1304</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47363754"
                   >Comments</a
-                ><span class="descendants">: 320</span></span
+                ><span class="descendants">: 321</span></span
               >
             </h4>
           </section>
@@ -457,11 +533,11 @@
             <h4>
               <span>2026-03-13 @ 12:31:09</span
               ><span class="points-container"
-                >Points: <span class="points">644</span></span
+                >Points: <span class="points">647</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47363584"
                   >Comments</a
-                ><span class="descendants">: 561</span></span
+                ><span class="descendants">: 567</span></span
               >
             </h4>
           </section>
@@ -479,11 +555,11 @@
             <h4>
               <span>2026-03-12 @ 10:29:45</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47348733"
                   >Comments</a
-                ><span class="descendants">: 239</span></span
+                ><span class="descendants">: 246</span></span
               >
             </h4>
           </section>
@@ -500,7 +576,7 @@
             <h4>
               <span>2026-03-12 @ 08:22:32</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47347920"
                   >Comments</a
@@ -521,11 +597,11 @@
             <h4>
               <span>2026-03-11 @ 19:37:46</span
               ><span class="points-container"
-                >Points: <span class="points">239</span></span
+                >Points: <span class="points">253</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47340203"
                   >Comments</a
-                ><span class="descendants">: 409</span></span
+                ><span class="descendants">: 438</span></span
               >
             </h4>
           </section>
@@ -542,7 +618,7 @@
             <h4>
               <span>2026-03-11 @ 18:35:39</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47339403"
                   >Comments</a
@@ -564,7 +640,7 @@
             <h4>
               <span>2026-03-11 @ 18:21:58</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47339219"
                   >Comments</a
@@ -583,11 +659,11 @@
             <h4>
               <span>2026-03-11 @ 14:34:57</span
               ><span class="points-container"
-                >Points: <span class="points">550</span></span
+                >Points: <span class="points">555</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47336100"
                   >Comments</a
-                ><span class="descendants">: 161</span></span
+                ><span class="descendants">: 162</span></span
               >
             </h4>
             <div class="text">
@@ -610,11 +686,11 @@
             <h4>
               <span>2026-03-11 @ 07:09:25</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47332493"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -631,11 +707,11 @@
             <h4>
               <span>2026-03-11 @ 01:46:43</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47330946"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -652,7 +728,7 @@
             <h4>
               <span>2026-03-10 @ 19:22:39</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47327703"
                   >Comments</a
@@ -671,7 +747,7 @@
             <h4>
               <span>2026-03-10 @ 18:38:18</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47327155"
                   >Comments</a
@@ -692,32 +768,11 @@
             <h4>
               <span>2026-03-10 @ 14:18:21</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47323625"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47319071">
-          <h3>
-            <a
-              class="item"
-              href="https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/"
-              >Emacs and Vim in the Age of AI</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-10 @ 04:21:32</span
-              ><span class="points-container"
-                >Points: <span class="points">177</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47319071"
-                  >Comments</a
-                ><span class="descendants">: 121</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -734,7 +789,7 @@
             <h4>
               <span>2026-03-10 @ 02:43:34</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47318528"
                   >Comments</a
@@ -753,11 +808,11 @@
             <h4>
               <span>2026-03-10 @ 02:16:51</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47318386"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
