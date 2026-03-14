@@ -12,6 +12,7 @@
 * [2026-03-10, 19:59:39](https://news.ycombinator.com/item?id=47328071) - [Against vibes: When is a generative model useful](https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/)
 * [2026-03-10, 19:56:52](https://news.ycombinator.com/item?id=47328034) - [Tell HN: Apple development certificate server seems down?](https://news.ycombinator.com/item?id=47328034)
 * [2026-03-10, 19:56:32](https://news.ycombinator.com/item?id=47328029) - [Mother of All Grease Fires (1994)](https://milk.com/wall-o-shame/bucket.html)
+* [2026-03-10, 19:22:39](https://news.ycombinator.com/item?id=47327703) - [Python: The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
 * [2026-03-10, 19:17:26](https://news.ycombinator.com/item?id=47327641) - [New HyperCard discovery: Neuromancer / Count Zero / Mona Lisa Overdrive](https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive)
 * [2026-03-10, 19:12:22](https://news.ycombinator.com/item?id=47327589) - [Google to Discontinue Widevine Cloud License Service in April 2027](https://castlabs.com/blog/widevine-retiring-cloud-license-service/)
 * [2026-03-10, 19:09:46](https://news.ycombinator.com/item?id=47327559) - [You Hired the AI to Write the Tests. Of Course They Pass](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
