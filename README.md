@@ -1,6 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-14, 17:24:24](https://news.ycombinator.com/item?id=47378917) - [AI Gets Wrong Woman Jailed for Six Months, Life Ruined](https://www.youtube.com/watch?v=mzS7dmCUzcQ)
+* [2026-03-14, 16:58:40](https://news.ycombinator.com/item?id=47378638) - [What happens when US economic data becomes unreliable](https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable)
+* [2026-03-14, 16:37:02](https://news.ycombinator.com/item?id=47378399) - [UBI Is Your Productivity Dividend – The Only Way to All Share What We All Built](https://scottsantens.substack.com/p/universal-basic-income-is-your-productivity)
 * [2026-03-14, 16:25:34](https://news.ycombinator.com/item?id=47378268) - [NMAP in the Movies](https://nmap.org/movies/)
+* [2026-03-14, 16:01:23](https://news.ycombinator.com/item?id=47377998) - [An Ode to Bzip](https://purplesyringa.moe/blog/an-ode-to-bzip/)
 * [2026-03-14, 15:53:58](https://news.ycombinator.com/item?id=47377907) - [Online astroturfing: A problem beyond disinformation](https://journals.sagepub.com/doi/10.1177/01914537221108467)
 * [2026-03-14, 14:08:18](https://news.ycombinator.com/item?id=47376848) - [Philosoph Jürgen Habermas Gestorben](https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363)
 * [2026-03-14, 13:59:58](https://news.ycombinator.com/item?id=47376767) - [Montana passes Right to Compute act (2025)](https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/)
@@ -19,17 +23,13 @@
 * [2026-03-13, 12:46:10](https://news.ycombinator.com/item?id=47363754) - [Can I run AI locally?](https://www.canirun.ai/)
 * [2026-03-12, 08:22:32](https://news.ycombinator.com/item?id=47347920) - [The Isolation Trap: Erlang](https://causality.blog/essays/the-isolation-trap/)
 * [2026-03-11, 19:37:46](https://news.ycombinator.com/item?id=47340203) - [Wired headphone sales are exploding](https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth)
-* [2026-03-11, 18:35:39](https://news.ycombinator.com/item?id=47339403) - [Atari 2600 BASIC Programming (2015)](https://huguesjohnson.com/programming/atari-2600-basic/)
 * [2026-03-11, 18:21:58](https://news.ycombinator.com/item?id=47339219) - [Baochip-1x: What it is, why I'm doing it now and how it came about](https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about)
-* [2026-03-11, 15:39:03](https://news.ycombinator.com/item?id=47337028) - [Show HN: Ink – Deploy full-stack apps from AI agents via MCP or Skills](https://ml.ink/)
 * [2026-03-11, 14:34:57](https://news.ycombinator.com/item?id=47336100) - [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv)
-* [2026-03-11, 07:09:25](https://news.ycombinator.com/item?id=47332493) - [Michael Faraday: Scientist and Nonconformist (1996)](http://silas.psfc.mit.edu/Faraday/)
 * [2026-03-11, 01:46:43](https://news.ycombinator.com/item?id=47330946) - [Recursive Problems Benefit from Recursive Solutions](https://jnkr.tech/blog/recursive-benefits-recursive)
 * [2026-03-10, 19:22:39](https://news.ycombinator.com/item?id=47327703) - [Python: The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
 * [2026-03-10, 16:54:23](https://news.ycombinator.com/item?id=47325825) - [Everything you never wanted to know about visually-hidden](https://dbushell.com/2026/02/20/visually-hidden/)
 * [2026-03-10, 08:27:34](https://news.ycombinator.com/item?id=47320482) - [Nominal Types in WebAssembly](https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly)
 * [2026-03-10, 02:43:34](https://news.ycombinator.com/item?id=47318528) - [Secure Secrets Management for Cursor Cloud Agents](https://infisical.com/blog/secure-secrets-management-for-cursor-cloud-agents)
-* [2026-03-10, 02:16:51](https://news.ycombinator.com/item?id=47318386) - [A Survival Guide to a PhD (2016)](http://karpathy.github.io/2016/09/07/phd/)
 
 ## [Archives](archives/index.md)
 
