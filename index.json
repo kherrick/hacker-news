@@ -1,12 +1,22 @@
 [
   [
     [
+      "2026-03-14, 02:27:00",
+      "https://news.ycombinator.com/item?id=47372672"
+    ],
+    [
+      "Optimizing Content for Agents",
+      "https://cra.mr/optimizing-content-for-agents/"
+    ]
+  ],
+  [
+    [
       "2026-03-14, 01:19:18",
       "https://news.ycombinator.com/item?id=47372290"
     ],
     [
       "An investigation of the forces behind the age-verification bills",
-      "https://lwn.net/Articles/1062779/"
+      "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
       "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 22:28:04",
-      "https://news.ycombinator.com/item?id=47370822"
-    ],
-    [
-      "Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people",
-      "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=47360978"
     ],
     [
-      "Lost Doctor Who Episodes Found",
+      "Lost Doctor Who episodes found",
       "https://www.bbc.co.uk/news/articles/c4g7kwq1k11o"
     ]
   ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-03-10, 04:21:32",
+      "https://news.ycombinator.com/item?id=47319071"
+    ],
+    [
+      "Emacs and Vim in the Age of AI",
+      "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/"
+    ]
+  ],
+  [
+    [
       "2026-03-09, 22:29:57",
       "https://news.ycombinator.com/item?id=47316592"
     ],
     [
       "Shipping Grayscale Photos at Small Scale",
       "https://underjord.io/shipping-grayscale-photos-at-small-scale.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 16:01:23",
-      "https://news.ycombinator.com/item?id=47310815"
-    ],
-    [
-      "Coding My Handwriting",
-      "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript"
     ]
   ]
 ]
