@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 16:25:34](https://news.ycombinator.com/item?id=47378268) - [NMAP in the Movies](https://nmap.org/movies/)
+* [2026-03-14, 15:53:58](https://news.ycombinator.com/item?id=47377907) - [Online astroturfing: A problem beyond disinformation](https://journals.sagepub.com/doi/10.1177/01914537221108467)
 * [2026-03-14, 15:06:07](https://news.ycombinator.com/item?id=47377431) - [Jürgen Habermas, influential German philosopher, dies at 96](https://apnews.com/article/juergen-habermas-dead-germany-2b541721af6cb19abfaa923359d091b5)
 * [2026-03-14, 14:51:24](https://news.ycombinator.com/item?id=47377277) - [Arizona's Meteor Crater is still revealing new secrets 50k years later](https://www.space.com/stargazing/meteor-showers/arizonas-meteor-crater-is-still-revealing-new-secrets-50-000-years-later)
 * [2026-03-14, 14:49:15](https://news.ycombinator.com/item?id=47377262) - [AI Didn't Simplify Software Engineering: It Just Made Bad Engineering Easier](https://robenglander.com/writing/ai-did-not-simplify/)
 * [2026-03-14, 14:08:18](https://news.ycombinator.com/item?id=47376848) - [Philosoph Jürgen Habermas Gestorben](https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363)
 * [2026-03-14, 13:59:58](https://news.ycombinator.com/item?id=47376767) - [Montana Leads the Nation with Groundbreaking Right to Compute Act](https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/)
 * [2026-03-14, 13:45:04](https://news.ycombinator.com/item?id=47376619) - [Mothers Defense (YC X26) Is Hiring in Austin](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
+* [2026-03-14, 13:41:25](https://news.ycombinator.com/item?id=47376584) - [Show HN: GitAgent – An open standard that turns any Git repo into an AI agent](https://www.gitagent.sh/)
 * [2026-03-14, 12:59:10](https://news.ycombinator.com/item?id=47376234) - [The Browser Becomes Your WordPress](https://wordpress.org/news/2026/03/announcing-my-wordpress/)
 * [2026-03-14, 12:27:30](https://news.ycombinator.com/item?id=47375987) - [Image generation models can think](https://medium.com/seeds-for-the-future/nano-banana-2-image-generators-can-now-think-462a017a95c1)
 * [2026-03-14, 12:21:28](https://news.ycombinator.com/item?id=47375935) - [The Forth Language [Byte Magazine Volume 05 Number 08]](https://archive.org/details/byte-magazine-1980-08)

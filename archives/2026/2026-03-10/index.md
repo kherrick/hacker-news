@@ -26,6 +26,7 @@
 * [2026-03-10, 17:14:52](https://news.ycombinator.com/item?id=47326101) - [Show HN: RunAnwhere – Faster AI Inference on Apple Silicon](https://github.com/RunanywhereAI/rcli)
 * [2026-03-10, 17:07:59](https://news.ycombinator.com/item?id=47326034) - [Isotopic Evidence for a Cold and Distant Origin of Interstellar Object 3I/Atlas](https://arxiv.org/abs/2603.06911)
 * [2026-03-10, 17:07:27](https://news.ycombinator.com/item?id=47326025) - [Defeat as Method](https://www.cabinetmagazine.org/issues/71/khosravi.php)
+* [2026-03-10, 16:54:23](https://news.ycombinator.com/item?id=47325825) - [Everything you never wanted to know about visually-hidden](https://dbushell.com/2026/02/20/visually-hidden/)
 * [2026-03-10, 16:37:29](https://news.ycombinator.com/item?id=47325595) - [I built a programming language using Claude Code](https://ankursethi.com/blog/programming-language-claude-code/)
 * [2026-03-10, 16:24:26](https://news.ycombinator.com/item?id=47325381) - [$3 ChromeOS Flex stick will revive old and outdated computers](https://9to5google.com/2026/03/10/this-3-chromeos-stick-will-revive-old-and-outdated-computers/)
 * [2026-03-10, 16:18:40](https://news.ycombinator.com/item?id=47325296) - [Show HN: What was the world listening to? Music charts, 20 countries (1940–2025)](https://88mph.fm/)
