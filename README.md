@@ -12,7 +12,6 @@
 * [2026-03-14, 20:08:54](https://news.ycombinator.com/item?id=47380647) - [Claude March 2026 usage promotion](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion)
 * [2026-03-14, 19:56:38](https://news.ycombinator.com/item?id=47380512) - [Fedora 44 on the Raspberry Pi 5](https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/)
 * [2026-03-14, 19:35:40](https://news.ycombinator.com/item?id=47380295) - [Marketing for Founders](https://github.com/EdoStra/Marketing-for-Founders)
-* [2026-03-14, 19:28:47](https://news.ycombinator.com/item?id=47380231) - [It's time to move your docs in the repo](https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo)
 * [2026-03-14, 18:57:12](https://news.ycombinator.com/item?id=47379898) - [Show HN: Ichinichi – One note per day, E2E encrypted, local-first](https://news.ycombinator.com/item?id=47379898)
 * [2026-03-14, 18:39:10](https://news.ycombinator.com/item?id=47379712) - [Hostile Volume – A game about adjusting volume with intentionally bad UI](https://hostilevolume.com/)
 * [2026-03-14, 17:40:23](https://news.ycombinator.com/item?id=47379067) - [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband)
@@ -28,6 +27,7 @@
 * [2026-03-11, 14:10:31](https://news.ycombinator.com/item?id=47335796) - [A Recursive Algorithm to Render Signed Distance Fields](https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/)
 * [2026-03-11, 08:03:37](https://news.ycombinator.com/item?id=47332821) - [Generalizing Knuth's Pseudocode Architecture From Algorithms to Knowledge](https://www.researchgate.net/publication/401189185_Towards_a_Generalization_of_Knuth%27s_Pseudocode_Architecture_From_Algorithms_to_Knowledge)
 * [2026-03-10, 19:22:39](https://news.ycombinator.com/item?id=47327703) - [Python: The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
+* [2026-03-10, 09:31:19](https://news.ycombinator.com/item?id=47320921) - [Making your JITted Code known: Let me count the ways](https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/)
 * [2026-03-10, 08:55:42](https://news.ycombinator.com/item?id=47320667) - [CSMWrap: Legacy BIOS booting on UEFI-only systems via SeaBIOS](https://github.com/CSMWrap/CSMWrap)
 * [2026-03-10, 08:41:37](https://news.ycombinator.com/item?id=47320571) - [Offloading FFmpeg with Cloudflare](https://kentcdodds.com/blog/offloading-ffmpeg-with-cloudflare)
 

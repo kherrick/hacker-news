@@ -65,6 +65,7 @@
 * [2026-03-10, 10:07:48](https://news.ycombinator.com/item?id=47321233) - [I put my whole life into a single database](https://howisfelix.today/)
 * [2026-03-10, 10:01:58](https://news.ycombinator.com/item?id=47321188) - [Show HN: What's my JND? – a colour guessing game](https://www.keithcirkel.co.uk/whats-my-jnd/?r=ARUjKP__-ve-)
 * [2026-03-10, 09:51:24](https://news.ycombinator.com/item?id=47321085) - [EVi, a Hard-Fork of Vim](https://codeberg.org/NerdNextDoor/evi)
+* [2026-03-10, 09:31:19](https://news.ycombinator.com/item?id=47320921) - [Making your JITted Code known: Let me count the ways](https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/)
 * [2026-03-10, 08:55:42](https://news.ycombinator.com/item?id=47320667) - [CSMWrap: Legacy BIOS booting on UEFI-only systems via SeaBIOS](https://github.com/CSMWrap/CSMWrap)
 * [2026-03-10, 08:54:53](https://news.ycombinator.com/item?id=47320661) - [Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
 * [2026-03-10, 08:48:40](https://news.ycombinator.com/item?id=47320614) - [Levels of Agentic Engineering](https://www.bassimeledath.com/blog/levels-of-agentic-engineering)
