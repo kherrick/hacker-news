@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 22:04:48](https://news.ycombinator.com/item?id=47381746) - [Changes to OpenTTD Distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
+* [2026-03-14, 22:02:48](https://news.ycombinator.com/item?id=47381731) - [Learning Creative Coding](https://stigmollerhansen.dk/resume/learning-creative-coding/)
 * [2026-03-14, 21:27:33](https://news.ycombinator.com/item?id=47381382) - [Show HN: Han – A Korean programming language written in Rust](https://github.com/xodn348/han)
+* [2026-03-14, 21:23:42](https://news.ycombinator.com/item?id=47381340) - [Anthropic invests $100M into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network)
+* [2026-03-14, 21:23:35](https://news.ycombinator.com/item?id=47381336) - [Cursor billed us $450 for a seat that existed for seconds](https://cursor.com)
+* [2026-03-14, 21:16:53](https://news.ycombinator.com/item?id=47381261) - [Jared Kushner Solicits Funds for His Firm While Working as Mideast Envoy](https://www.nytimes.com/2026/03/13/business/jared-kushner-affinity-mideast-funds.html)
+* [2026-03-14, 21:14:03](https://news.ycombinator.com/item?id=47381238) - [Postgres with Builtin File Systems](https://db9.ai/)
+* [2026-03-14, 20:49:10](https://news.ycombinator.com/item?id=47381011) - [Bumblebee queens breathe underwater to survive drowning](https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/)
 * [2026-03-14, 20:18:41](https://news.ycombinator.com/item?id=47380743) - [The Washington Post Is Using Reader Data to Set Subscription Prices](https://washingtonian.com/2026/03/12/the-washington-post-is-using-reader-data-to-set-subscription-prices-how-does-that-work/)
 * [2026-03-14, 20:16:19](https://news.ycombinator.com/item?id=47380726) - [Library of Short Stories](https://www.libraryofshortstories.com/)
 * [2026-03-14, 20:08:54](https://news.ycombinator.com/item?id=47380647) - [Claude Doubles Usage Limits During Off-Peak Hours (March 13–27, 2026)](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion)
