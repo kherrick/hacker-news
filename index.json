@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-03-14, 12:27:30",
+      "https://news.ycombinator.com/item?id=47375987"
+    ],
+    [
+      "Image generation models can think",
+      "https://medium.com/seeds-for-the-future/nano-banana-2-image-generators-can-now-think-462a017a95c1"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 11:59:13",
+      "https://news.ycombinator.com/item?id=47375764"
+    ],
+    [
+      "XML Is a Cheap DSL",
+      "https://unplannedobsolescence.com/blog/xml-cheap-dsl/"
+    ]
+  ],
+  [
+    [
       "2026-03-14, 11:46:29",
       "https://news.ycombinator.com/item?id=47375682"
     ],
     [
-      "Claude Code's binary reveals silent A/B tests on core features",
+      "Claude Code conducts A/B tests on core features",
       "https://backnotprop.com/blog/do-not-ab-test-my-workflow/"
     ]
   ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-03-13, 16:40:42",
-      "https://news.ycombinator.com/item?id=47366666"
-    ],
-    [
-      "Elon Musk pushes out more xAI founders as AI coding effort falters",
-      "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5"
-    ]
-  ],
-  [
-    [
       "2026-03-13, 14:11:36",
       "https://news.ycombinator.com/item?id=47364729"
     ],
@@ -177,16 +187,6 @@
     [
       "The Isolation Trap: Erlang",
       "https://causality.blog/essays/the-isolation-trap/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 20:46:24",
-      "https://news.ycombinator.com/item?id=47341432"
-    ],
-    [
-      "New 'negative light' technology hides data transfers in plain sight",
-      "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-03-10, 19:22:39",
+      "https://news.ycombinator.com/item?id=47327703"
+    ],
+    [
+      "Python: The Optimization Ladder",
+      "https://cemrehancavdar.com/2026/03/10/optimization-ladder/"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 18:38:18",
       "https://news.ycombinator.com/item?id=47327155"
     ],
@@ -267,16 +277,6 @@
     [
       "You gotta think outside the hypercube",
       "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 07:38:59",
-      "https://news.ycombinator.com/item?id=47320158"
-    ],
-    [
-      "Using Thunderbird for RSS",
-      "https://rubenerd.com/using-thunderbird-for-rss/"
     ]
   ],
   [
