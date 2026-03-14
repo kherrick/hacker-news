@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-14, 08:52:14](https://news.ycombinator.com/item?id=47374676) - [Age Verification Lobbying: Dark Money, Model Legislation, Institutional Capture](https://tboteproject.com)
 * [2026-03-14, 02:27:00](https://news.ycombinator.com/item?id=47372672) - [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
 * [2026-03-14, 00:29:50](https://news.ycombinator.com/item?id=47371922) - [Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/)
 * [2026-03-14, 00:02:37](https://news.ycombinator.com/item?id=47371692) - [Games with loot boxes to get minimum 16 age rating across Europe](https://www.bbc.com/news/articles/cge84xqjg5lo)
@@ -10,6 +9,7 @@
 * [2026-03-13, 18:52:17](https://news.ycombinator.com/item?id=47368135) - [Digg is gone again](https://digg.com/)
 * [2026-03-13, 18:42:54](https://news.ycombinator.com/item?id=47368033) - [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
 * [2026-03-13, 18:34:12](https://news.ycombinator.com/item?id=47367932) - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
+* [2026-03-13, 18:02:32](https://news.ycombinator.com/item?id=47367568) - [Your phone is an entire computer](https://medhir.com/blog/your-phone-is-an-entire-computer)
 * [2026-03-13, 17:58:22](https://news.ycombinator.com/item?id=47367526) - [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway)
 * [2026-03-13, 17:19:01](https://news.ycombinator.com/item?id=47367129) - [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)
 * [2026-03-13, 16:40:42](https://news.ycombinator.com/item?id=47366666) - [Elon Musk pushes out more xAI founders as AI coding effort falters](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
