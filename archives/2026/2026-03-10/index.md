@@ -84,6 +84,7 @@
 * [2026-03-10, 04:21:32](https://news.ycombinator.com/item?id=47319071) - [Emacs and Vim in the Age of AI](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/)
 * [2026-03-10, 03:34:52](https://news.ycombinator.com/item?id=47318830) - [EQT eyes potential $6B sale of Linux pioneer SUSE, sources say](https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09)
 * [2026-03-10, 03:28:38](https://news.ycombinator.com/item?id=47318797) - [SSH Secret Menu](https://twitter.com/rebane2001/status/2031037389347406054)
+* [2026-03-10, 02:43:34](https://news.ycombinator.com/item?id=47318528) - [Secure Secrets Management for Cursor Cloud Agents](https://infisical.com/blog/secure-secrets-management-for-cursor-cloud-agents)
 * [2026-03-10, 02:24:52](https://news.ycombinator.com/item?id=47318421) - [Learnings from paying artists royalties for AI-generated art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
 * [2026-03-10, 02:16:51](https://news.ycombinator.com/item?id=47318386) - [A Survival Guide to a PhD (2016)](http://karpathy.github.io/2016/09/07/phd/)
 * [2026-03-10, 02:04:25](https://news.ycombinator.com/item?id=47318313) - [More agent tools and AI tools should be pricing on outcomes](https://jxnl.co/writing/2025/06/12/lovable-monetization-and-the-vibe-coder-economy/)

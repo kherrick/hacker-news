@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 13:45:04](https://news.ycombinator.com/item?id=47376619) - [Mothers Defense (YC X26) Is Hiring in Austin](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-03-14, 12:59:10](https://news.ycombinator.com/item?id=47376234) - [The Browser Becomes Your WordPress](https://wordpress.org/news/2026/03/announcing-my-wordpress/)
 * [2026-03-14, 12:27:30](https://news.ycombinator.com/item?id=47375987) - [Image generation models can think](https://medium.com/seeds-for-the-future/nano-banana-2-image-generators-can-now-think-462a017a95c1)
 * [2026-03-14, 11:59:13](https://news.ycombinator.com/item?id=47375764) - [XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)
