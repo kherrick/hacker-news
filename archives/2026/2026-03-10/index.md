@@ -82,6 +82,7 @@
 * [2026-03-10, 03:34:52](https://news.ycombinator.com/item?id=47318830) - [EQT eyes potential $6B sale of Linux pioneer SUSE, sources say](https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09)
 * [2026-03-10, 03:28:38](https://news.ycombinator.com/item?id=47318797) - [SSH Secret Menu](https://twitter.com/rebane2001/status/2031037389347406054)
 * [2026-03-10, 02:24:52](https://news.ycombinator.com/item?id=47318421) - [Learnings from paying artists royalties for AI-generated art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+* [2026-03-10, 02:16:51](https://news.ycombinator.com/item?id=47318386) - [A Survival Guide to a PhD (2016)](http://karpathy.github.io/2016/09/07/phd/)
 * [2026-03-10, 02:04:25](https://news.ycombinator.com/item?id=47318313) - [More agent tools and AI tools should be pricing on outcomes](https://jxnl.co/writing/2025/06/12/lovable-monetization-and-the-vibe-coder-economy/)
 * [2026-03-10, 00:46:45](https://news.ycombinator.com/item?id=47317811) - [Newcomb's Paradox Needs a Demon](https://samestep.com/blog/newcombs-paradox/)
 * [2026-03-10, 00:35:19](https://news.ycombinator.com/item?id=47317739) - [The “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)
