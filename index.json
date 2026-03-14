@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-03-14, 20:18:41",
+      "https://news.ycombinator.com/item?id=47380743"
+    ],
+    [
+      "The Washington Post Is Using Reader Data to Set Subscription Prices",
+      "https://washingtonian.com/2026/03/12/the-washington-post-is-using-reader-data-to-set-subscription-prices-how-does-that-work/"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 20:16:19",
+      "https://news.ycombinator.com/item?id=47380726"
+    ],
+    [
+      "Library of Short Stories",
+      "https://www.libraryofshortstories.com/"
+    ]
+  ],
+  [
+    [
       "2026-03-14, 20:08:54",
       "https://news.ycombinator.com/item?id=47380647"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47380465"
     ],
     [
-      "Gimp 3.2 Released",
+      "GIMP 3.2 released",
       "https://www.gimp.org/news/2026/03/14/gimp-3-2-released/"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=47380270"
     ],
     [
-      "MCP Is Dead; Long Live MCP",
+      "MCP is dead; long live MCP",
       "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/"
     ]
   ],
@@ -107,36 +127,6 @@
     [
       "Sunsetting Jazzband",
       "https://jazzband.co/news/2026/03/14/sunsetting-jazzband"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 17:12:18",
-      "https://news.ycombinator.com/item?id=47378787"
-    ],
-    [
-      "In Praise of Stupid Questions",
-      "https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 16:58:40",
-      "https://news.ycombinator.com/item?id=47378638"
-    ],
-    [
-      "What happens when US economic data becomes unreliable",
-      "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 16:37:02",
-      "https://news.ycombinator.com/item?id=47378399"
-    ],
-    [
-      "UBI as a productivity dividend",
-      "https://scottsantens.substack.com/p/universal-basic-income-is-your-productivity"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Show HN: GitAgent – An open standard that turns any Git repo into an AI agent",
       "https://www.gitagent.sh/"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 11:59:13",
+      "https://news.ycombinator.com/item?id=47375764"
+    ],
+    [
+      "XML is a cheap DSL",
+      "https://unplannedobsolescence.com/blog/xml-cheap-dsl/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-03-10, 16:54:23",
-      "https://news.ycombinator.com/item?id=47325825"
-    ],
-    [
-      "Everything you never wanted to know about visually-hidden",
-      "https://dbushell.com/2026/02/20/visually-hidden/"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 08:55:42",
       "https://news.ycombinator.com/item?id=47320667"
     ],
     [
       "CSMWrap: Legacy BIOS booting on UEFI-only systems via SeaBIOS",
       "https://github.com/CSMWrap/CSMWrap"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 08:41:37",
+      "https://news.ycombinator.com/item?id=47320571"
+    ],
+    [
+      "Offloading FFmpeg with Cloudflare",
+      "https://kentcdodds.com/blog/offloading-ffmpeg-with-cloudflare"
     ]
   ]
 ]
