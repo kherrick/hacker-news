@@ -36,6 +36,7 @@
 * [2026-03-11, 15:54:23](https://news.ycombinator.com/item?id=47337249) - [Show HN: Klaus – OpenClaw on a VM, batteries included](https://klausai.com/)
 * [2026-03-11, 15:48:29](https://news.ycombinator.com/item?id=47337177) - [Where Some See Strings, She Sees a Space-Time Made of Fractals](https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/)
 * [2026-03-11, 15:48:11](https://news.ycombinator.com/item?id=47337168) - [Searching for the Agentic IDE](https://twitter.com/karpathy/status/2031616709560610993)
+* [2026-03-11, 15:39:03](https://news.ycombinator.com/item?id=47337028) - [Show HN: Ink – Deploy full-stack apps from AI agents via MCP or Skills](https://ml.ink/)
 * [2026-03-11, 15:35:50](https://news.ycombinator.com/item?id=47336989) - [Temporal: The 9-Year Journey to Fix Time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)
 * [2026-03-11, 15:33:41](https://news.ycombinator.com/item?id=47336953) - [Modern wealth is a parlour game played by the well fed](https://www.chrbutler.com/modern-wealth-parlour-game)
 * [2026-03-11, 15:28:18](https://news.ycombinator.com/item?id=47336889) - [Elevated errors on login with Claude Code](https://status.claude.com/incidents/jm3b4jjy2jrt)
