@@ -70,4 +70,5 @@
 * [2026-03-11, 04:44:46](https://news.ycombinator.com/item?id=47331811) - [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/)
 * [2026-03-11, 04:42:23](https://news.ycombinator.com/item?id=47331802) - [Standardizing Source Maps](https://bloomberg.github.io/js-blog/post/standardizing-source-maps/)
 * [2026-03-11, 02:04:22](https://news.ycombinator.com/item?id=47331034) - [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor)
+* [2026-03-11, 01:46:43](https://news.ycombinator.com/item?id=47330946) - [Recursive Problems Benefit from Recursive Solutions](https://jnkr.tech/blog/recursive-benefits-recursive)
 * [2026-03-11, 01:24:47](https://news.ycombinator.com/item?id=47330836) - [Zig – Type Resolution Redesign and Language Changes](https://ziglang.org/devlog/2026/#2026-03-10)
