@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-14, 23:00:05](https://news.ycombinator.com/item?id=47382196) - [The Sound of Contamination: Headphones Contain Ing Hormone-Disrupting Chemicals](https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals)
+* [2026-03-14, 22:10:26](https://news.ycombinator.com/item?id=47381791) - [Ageless Linux. We are legally required to ask how old you are. We won't](https://agelesslinux.org/)
 * [2026-03-14, 22:04:48](https://news.ycombinator.com/item?id=47381746) - [Changes to OpenTTD Distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
 * [2026-03-14, 22:02:48](https://news.ycombinator.com/item?id=47381731) - [Learning Creative Coding](https://stigmollerhansen.dk/resume/learning-creative-coding/)
 * [2026-03-14, 21:27:33](https://news.ycombinator.com/item?id=47381382) - [Show HN: Han – A Korean programming language written in Rust](https://github.com/xodn348/han)
@@ -10,7 +12,6 @@
 * [2026-03-14, 20:08:54](https://news.ycombinator.com/item?id=47380647) - [Claude March 2026 usage promotion](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion)
 * [2026-03-14, 19:56:38](https://news.ycombinator.com/item?id=47380512) - [Fedora 44 on the Raspberry Pi 5](https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/)
 * [2026-03-14, 19:35:40](https://news.ycombinator.com/item?id=47380295) - [Marketing for Founders](https://github.com/EdoStra/Marketing-for-Founders)
-* [2026-03-14, 19:32:13](https://news.ycombinator.com/item?id=47380270) - [MCP is dead; long live MCP](https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/)
 * [2026-03-14, 19:28:47](https://news.ycombinator.com/item?id=47380231) - [It's time to move your docs in the repo](https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo)
 * [2026-03-14, 18:57:12](https://news.ycombinator.com/item?id=47379898) - [Show HN: Ichinichi – One note per day, E2E encrypted, local-first](https://news.ycombinator.com/item?id=47379898)
 * [2026-03-14, 18:39:10](https://news.ycombinator.com/item?id=47379712) - [Hostile Volume – A game about adjusting volume with intentionally bad UI](https://hostilevolume.com/)
@@ -22,7 +23,6 @@
 * [2026-03-14, 11:59:13](https://news.ycombinator.com/item?id=47375764) - [XML is a cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)
 * [2026-03-14, 09:14:51](https://news.ycombinator.com/item?id=47374796) - [Starlink militarization and its impact on global strategic stability](https://interpret.csis.org/translations/starlink-militarization-and-its-impact-on-global-strategic-stability/)
 * [2026-03-14, 09:04:39](https://news.ycombinator.com/item?id=47374745) - [Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware](https://github.com/drojaazu/megadev)
-* [2026-03-13, 17:19:01](https://news.ycombinator.com/item?id=47367129) - [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)
 * [2026-03-11, 18:21:58](https://news.ycombinator.com/item?id=47339219) - [Baochip-1x: What it is, why I'm doing it now and how it came about](https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about)
 * [2026-03-11, 17:59:19](https://news.ycombinator.com/item?id=47338935) - [An interactive presentation about the Grammar of Graphic](https://timeplus-io.github.io/gg-vistral-introduction/)
 * [2026-03-11, 14:10:31](https://news.ycombinator.com/item?id=47335796) - [A Recursive Algorithm to Render Signed Distance Fields](https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/)

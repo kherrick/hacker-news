@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 23:00:05](https://news.ycombinator.com/item?id=47382196) - [The Sound of Contamination: Headphones Contain Ing Hormone-Disrupting Chemicals](https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals)
+* [2026-03-14, 22:10:26](https://news.ycombinator.com/item?id=47381791) - [Ageless Linux. We are legally required to ask how old you are. We won't](https://agelesslinux.org/)
 * [2026-03-14, 22:04:48](https://news.ycombinator.com/item?id=47381746) - [Changes to OpenTTD Distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
 * [2026-03-14, 22:02:48](https://news.ycombinator.com/item?id=47381731) - [Learning Creative Coding](https://stigmollerhansen.dk/resume/learning-creative-coding/)
 * [2026-03-14, 21:27:33](https://news.ycombinator.com/item?id=47381382) - [Show HN: Han – A Korean programming language written in Rust](https://github.com/xodn348/han)
