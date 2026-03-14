@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
 * [2026-03-14, 21:27:33](https://news.ycombinator.com/item?id=47381382) - [Show HN: Han – A Korean programming language written in Rust](https://github.com/xodn348/han)
+* [2026-03-14, 20:18:41](https://news.ycombinator.com/item?id=47380743) - [The Washington Post Is Using Reader Data to Set Subscription Prices](https://washingtonian.com/2026/03/12/the-washington-post-is-using-reader-data-to-set-subscription-prices-how-does-that-work/)
+* [2026-03-14, 20:16:19](https://news.ycombinator.com/item?id=47380726) - [Library of Short Stories](https://www.libraryofshortstories.com/)
 * [2026-03-14, 20:08:54](https://news.ycombinator.com/item?id=47380647) - [Claude Doubles Usage Limits During Off-Peak Hours (March 13–27, 2026)](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion)
 * [2026-03-14, 19:56:38](https://news.ycombinator.com/item?id=47380512) - [Fedora 44 on the Raspberry Pi 5](https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/)
 * [2026-03-14, 19:51:25](https://news.ycombinator.com/item?id=47380465) - [Gimp 3.2 Released](https://www.gimp.org/news/2026/03/14/gimp-3-2-released/)
