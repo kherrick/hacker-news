@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 18:39:10](https://news.ycombinator.com/item?id=47379712) - [Hostile Volume – A game about adjusting volume with intentionally bad UI](https://hostilevolume.com/)
+* [2026-03-14, 18:09:38](https://news.ycombinator.com/item?id=47379391) - [Digg.com Closing Due to Spam](https://digg.com?hn)
 * [2026-03-14, 17:40:23](https://news.ycombinator.com/item?id=47379067) - [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband)
 * [2026-03-14, 17:24:24](https://news.ycombinator.com/item?id=47378917) - [AI Gets Wrong Woman Jailed for Six Months, Life Ruined](https://www.youtube.com/watch?v=mzS7dmCUzcQ)
+* [2026-03-14, 17:12:18](https://news.ycombinator.com/item?id=47378787) - [In Praise of Stupid Questions](https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/)
 * [2026-03-14, 16:58:40](https://news.ycombinator.com/item?id=47378638) - [What happens when US economic data becomes unreliable](https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable)
 * [2026-03-14, 16:37:02](https://news.ycombinator.com/item?id=47378399) - [UBI Is Your Productivity Dividend – The Only Way to All Share What We All Built](https://scottsantens.substack.com/p/universal-basic-income-is-your-productivity)
 * [2026-03-14, 16:25:34](https://news.ycombinator.com/item?id=47378268) - [NMAP in the Movies](https://nmap.org/movies/)

@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-14, 18:39:10](https://news.ycombinator.com/item?id=47379712) - [Hostile Volume – A game about adjusting volume with intentionally bad UI](https://hostilevolume.com/)
+* [2026-03-14, 18:09:38](https://news.ycombinator.com/item?id=47379391) - [Digg.com Closing Due to Spam](https://digg.com?hn)
 * [2026-03-14, 17:40:23](https://news.ycombinator.com/item?id=47379067) - [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband)
+* [2026-03-14, 17:12:18](https://news.ycombinator.com/item?id=47378787) - [In Praise of Stupid Questions](https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/)
 * [2026-03-14, 16:58:40](https://news.ycombinator.com/item?id=47378638) - [What happens when US economic data becomes unreliable](https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable)
 * [2026-03-14, 16:25:34](https://news.ycombinator.com/item?id=47378268) - [NMAP in the Movies](https://nmap.org/movies/)
 * [2026-03-14, 16:24:02](https://news.ycombinator.com/item?id=47378251) - [Show HN: Learn Arabic with spaced repetition and comprehensible input](https://abjadpro.com)
@@ -22,14 +25,11 @@
 * [2026-03-11, 19:37:46](https://news.ycombinator.com/item?id=47340203) - [Wired headphone sales are exploding](https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth)
 * [2026-03-11, 18:35:39](https://news.ycombinator.com/item?id=47339403) - [Atari 2600 BASIC Programming (2015)](https://huguesjohnson.com/programming/atari-2600-basic/)
 * [2026-03-11, 18:21:58](https://news.ycombinator.com/item?id=47339219) - [Baochip-1x: What it is, why I'm doing it now and how it came about](https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about)
-* [2026-03-11, 15:39:03](https://news.ycombinator.com/item?id=47337028) - [Show HN: Ink – Deploy full-stack apps from AI agents via MCP or Skills](https://ml.ink/)
 * [2026-03-11, 08:08:15](https://news.ycombinator.com/item?id=47332847) - [The $2 per hour worker behind the OnlyFans boom](https://www.bbc.com/news/articles/cq571g9gd4lo)
-* [2026-03-11, 01:46:43](https://news.ycombinator.com/item?id=47330946) - [Recursive Problems Benefit from Recursive Solutions](https://jnkr.tech/blog/recursive-benefits-recursive)
+* [2026-03-11, 08:03:37](https://news.ycombinator.com/item?id=47332821) - [Generalizing Knuth's Pseudocode Architecture to Knowledge](https://zenodo.org/records/18767666)
 * [2026-03-10, 19:22:39](https://news.ycombinator.com/item?id=47327703) - [Python: The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
 * [2026-03-10, 16:54:23](https://news.ycombinator.com/item?id=47325825) - [Everything you never wanted to know about visually-hidden](https://dbushell.com/2026/02/20/visually-hidden/)
 * [2026-03-10, 08:27:34](https://news.ycombinator.com/item?id=47320482) - [Nominal Types in WebAssembly](https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly)
-* [2026-03-10, 02:43:34](https://news.ycombinator.com/item?id=47318528) - [Secure Secrets Management for Cursor Cloud Agents](https://infisical.com/blog/secure-secrets-management-for-cursor-cloud-agents)
-* [2026-03-10, 02:16:51](https://news.ycombinator.com/item?id=47318386) - [A Survival Guide to a PhD (2016)](http://karpathy.github.io/2016/09/07/phd/)
 
 ## [Archives](archives/index.md)
 
