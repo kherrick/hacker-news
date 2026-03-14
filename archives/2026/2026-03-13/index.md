@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 23:15:22](https://news.ycombinator.com/item?id=47371284) - [Show HN: Simple plugin to get Claude Code to listen to you](https://www.gopeek.ai)
 * [2026-03-13, 23:14:37](https://news.ycombinator.com/item?id=47371275) - [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
 * [2026-03-13, 22:52:05](https://news.ycombinator.com/item?id=47371064) - [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
 * [2026-03-13, 22:28:04](https://news.ycombinator.com/item?id=47370822) - [Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group](https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/)
