@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 17:40:23](https://news.ycombinator.com/item?id=47379067) - [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband)
 * [2026-03-14, 17:24:24](https://news.ycombinator.com/item?id=47378917) - [AI Gets Wrong Woman Jailed for Six Months, Life Ruined](https://www.youtube.com/watch?v=mzS7dmCUzcQ)
 * [2026-03-14, 16:58:40](https://news.ycombinator.com/item?id=47378638) - [What happens when US economic data becomes unreliable](https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable)
 * [2026-03-14, 16:37:02](https://news.ycombinator.com/item?id=47378399) - [UBI Is Your Productivity Dividend – The Only Way to All Share What We All Built](https://scottsantens.substack.com/p/universal-basic-income-is-your-productivity)
 * [2026-03-14, 16:25:34](https://news.ycombinator.com/item?id=47378268) - [NMAP in the Movies](https://nmap.org/movies/)
+* [2026-03-14, 16:24:02](https://news.ycombinator.com/item?id=47378251) - [Show HN: Learn Arabic with spaced repetition and comprehensible input](https://abjadpro.com)
 * [2026-03-14, 16:01:23](https://news.ycombinator.com/item?id=47377998) - [An Ode to Bzip](https://purplesyringa.moe/blog/an-ode-to-bzip/)
 * [2026-03-14, 15:53:58](https://news.ycombinator.com/item?id=47377907) - [Online astroturfing: A problem beyond disinformation](https://journals.sagepub.com/doi/10.1177/01914537221108467)
 * [2026-03-14, 15:06:07](https://news.ycombinator.com/item?id=47377431) - [Jürgen Habermas, influential German philosopher, dies at 96](https://apnews.com/article/juergen-habermas-dead-germany-2b541721af6cb19abfaa923359d091b5)
