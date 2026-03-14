@@ -18,6 +18,7 @@
 * [2026-03-10, 19:02:01](https://news.ycombinator.com/item?id=47327473) - [Mesh over Bluetooth LE, TCP, or Reticulum](https://github.com/torlando-tech/columba)
 * [2026-03-10, 18:52:03](https://news.ycombinator.com/item?id=47327351) - [Show HN: Modulus – Cross-repository knowledge orchestration for coding agents](https://modulus.so)
 * [2026-03-10, 18:38:44](https://news.ycombinator.com/item?id=47327163) - [Networking with agents: Put them in the right conversations with Tailscale](https://blog.firetiger.com/networking-with-agents-how-to-put-them-in-the-right-conversations/)
+* [2026-03-10, 18:38:18](https://news.ycombinator.com/item?id=47327155) - [AEP (API Design Standard and Tooling Ecosystem)](https://aep.dev/)
 * [2026-03-10, 18:37:18](https://news.ycombinator.com/item?id=47327143) - [Maybe the G in AGI stands for Gemini](https://www.robinsloan.com/lab/gemini-agi/)
 * [2026-03-10, 18:26:39](https://news.ycombinator.com/item?id=47327015) - [FFmpeg-over-IP – Connect to remote FFmpeg servers](https://github.com/steelbrain/ffmpeg-over-ip)
 * [2026-03-10, 17:49:53](https://news.ycombinator.com/item?id=47326555) - [Billion-Parameter Theories](https://www.worldgov.org/complexity.html)
