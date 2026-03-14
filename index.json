@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-03-14, 15:06:07",
-      "https://news.ycombinator.com/item?id=47377431"
+      "2026-03-14, 16:25:34",
+      "https://news.ycombinator.com/item?id=47378268"
     ],
     [
-      "Jürgen Habermas, influential German philosopher, dies at 96",
-      "https://apnews.com/article/juergen-habermas-dead-germany-2b541721af6cb19abfaa923359d091b5"
+      "NMAP in the Movies",
+      "https://nmap.org/movies/"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 15:53:58",
+      "https://news.ycombinator.com/item?id=47377907"
+    ],
+    [
+      "Online astroturfing: A problem beyond disinformation",
+      "https://journals.sagepub.com/doi/10.1177/01914537221108467"
     ]
   ],
   [
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2026-03-14, 12:21:28",
-      "https://news.ycombinator.com/item?id=47375935"
+      "2026-03-14, 13:41:25",
+      "https://news.ycombinator.com/item?id=47376584"
     ],
     [
-      "The Forth Language [Byte Magazine Volume 05 Number 08]",
-      "https://archive.org/details/byte-magazine-1980-08"
+      "Show HN: GitAgent – An open standard that turns any Git repo into an AI agent",
+      "https://www.gitagent.sh/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
       "https://github.com/drojaazu/megadev"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 23:14:37",
-      "https://news.ycombinator.com/item?id=47371275"
-    ],
-    [
-      "I beg you to follow Crocker's Rules, even if you will be rude to me",
-      "https://lr0.org/blog/p/crocker/"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "Can I run AI locally?",
       "https://www.canirun.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 10:29:45",
-      "https://news.ycombinator.com/item?id=47348733"
-    ],
-    [
-      "Coding after coders: The end of computer programming as we know it?",
-      "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Python: The Optimization Ladder",
       "https://cemrehancavdar.com/2026/03/10/optimization-ladder/"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 16:54:23",
+      "https://news.ycombinator.com/item?id=47325825"
+    ],
+    [
+      "Everything you never wanted to know about visually-hidden",
+      "https://dbushell.com/2026/02/20/visually-hidden/"
     ]
   ],
   [
