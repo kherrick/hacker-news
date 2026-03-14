@@ -41,26 +41,6 @@
   ],
   [
     [
-      "2026-03-14, 21:23:35",
-      "https://news.ycombinator.com/item?id=47381336"
-    ],
-    [
-      "Cursor billed us $450 for a seat that existed for seconds",
-      "https://cursor.com"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 21:16:53",
-      "https://news.ycombinator.com/item?id=47381261"
-    ],
-    [
-      "Jared Kushner Solicits Funds for His Firm While Working as Mideast Envoy",
-      "https://www.nytimes.com/2026/03/13/business/jared-kushner-affinity-mideast-funds.html"
-    ]
-  ],
-  [
-    [
       "2026-03-14, 21:14:03",
       "https://news.ycombinator.com/item?id=47381238"
     ],
@@ -107,16 +87,6 @@
     [
       "Fedora 44 on the Raspberry Pi 5",
       "https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 19:51:25",
-      "https://news.ycombinator.com/item?id=47380465"
-    ],
-    [
-      "GIMP 3.2 released",
-      "https://www.gimp.org/news/2026/03/14/gimp-3-2-released/"
     ]
   ],
   [
@@ -241,12 +211,42 @@
   ],
   [
     [
+      "2026-03-14, 09:04:39",
+      "https://news.ycombinator.com/item?id=47374745"
+    ],
+    [
+      "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
+      "https://github.com/drojaazu/megadev"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 17:19:01",
+      "https://news.ycombinator.com/item?id=47367129"
+    ],
+    [
+      "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "https://claude.com/blog/1m-context-ga"
+    ]
+  ],
+  [
+    [
       "2026-03-11, 18:21:58",
       "https://news.ycombinator.com/item?id=47339219"
     ],
     [
       "Baochip-1x: What it is, why I'm doing it now and how it came about",
       "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 17:59:19",
+      "https://news.ycombinator.com/item?id=47338935"
+    ],
+    [
+      "An interactive presentation about the Grammar of Graphic",
+      "https://timeplus-io.github.io/gg-vistral-introduction/"
     ]
   ],
   [
