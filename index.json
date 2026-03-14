@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-03-14, 18:39:10",
+      "https://news.ycombinator.com/item?id=47379712"
+    ],
+    [
+      "Hostile Volume – A game about adjusting volume with intentionally bad UI",
+      "https://hostilevolume.com/"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 18:09:38",
+      "https://news.ycombinator.com/item?id=47379391"
+    ],
+    [
+      "Digg.com Closing Due to Spam",
+      "https://digg.com?hn"
+    ]
+  ],
+  [
+    [
       "2026-03-14, 17:40:23",
       "https://news.ycombinator.com/item?id=47379067"
     ],
     [
       "Sunsetting Jazzband",
       "https://jazzband.co/news/2026/03/14/sunsetting-jazzband"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 17:12:18",
+      "https://news.ycombinator.com/item?id=47378787"
+    ],
+    [
+      "In Praise of Stupid Questions",
+      "https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2026-03-11, 15:39:03",
-      "https://news.ycombinator.com/item?id=47337028"
-    ],
-    [
-      "Show HN: Ink – Deploy full-stack apps from AI agents via MCP or Skills",
-      "https://ml.ink/"
-    ]
-  ],
-  [
-    [
       "2026-03-11, 08:08:15",
       "https://news.ycombinator.com/item?id=47332847"
     ],
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2026-03-11, 01:46:43",
-      "https://news.ycombinator.com/item?id=47330946"
+      "2026-03-11, 08:03:37",
+      "https://news.ycombinator.com/item?id=47332821"
     ],
     [
-      "Recursive Problems Benefit from Recursive Solutions",
-      "https://jnkr.tech/blog/recursive-benefits-recursive"
+      "Generalizing Knuth's Pseudocode Architecture to Knowledge",
+      "https://zenodo.org/records/18767666"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Nominal Types in WebAssembly",
       "https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 02:43:34",
-      "https://news.ycombinator.com/item?id=47318528"
-    ],
-    [
-      "Secure Secrets Management for Cursor Cloud Agents",
-      "https://infisical.com/blog/secure-secrets-management-for-cursor-cloud-agents"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 02:16:51",
-      "https://news.ycombinator.com/item?id=47318386"
-    ],
-    [
-      "A Survival Guide to a PhD (2016)",
-      "http://karpathy.github.io/2016/09/07/phd/"
     ]
   ]
 ]
