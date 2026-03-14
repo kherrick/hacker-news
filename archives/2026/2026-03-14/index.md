@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 19:46:49](https://news.ycombinator.com/item?id=47380405) - [2026 tech layoffs reach 45,000 in March](https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/)
+* [2026-03-14, 19:37:51](https://news.ycombinator.com/item?id=47380314) - [Show HN: Zap Code – AI code generator that teaches kids real HTML/CSS/JS](https://www.zapcode.dev)
+* [2026-03-14, 19:35:37](https://news.ycombinator.com/item?id=47380294) - [Head of FCC threatens broadcaster licenses over critical coverage of Iran war](https://twitter.com/BrendanCarrFCC/status/2032855414233047172)
+* [2026-03-14, 19:35:27](https://news.ycombinator.com/item?id=47380290) - [Claude spring break usage promotion](https://support.claude.com/en/articles/14063676-claude-spring-break-usage-promotion)
+* [2026-03-14, 19:28:47](https://news.ycombinator.com/item?id=47380231) - [It's time to move your docs into a repo – especially because of AI](https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo)
+* [2026-03-14, 19:26:24](https://news.ycombinator.com/item?id=47380203) - [Claudetop – htop for Claude Code sessions (see your AI spend in real-time)](https://github.com/liorwn/claudetop)
 * [2026-03-14, 18:57:12](https://news.ycombinator.com/item?id=47379898) - [Show HN: Ichinichi – One note per day, E2E encrypted, local-first](https://news.ycombinator.com/item?id=47379898)
 * [2026-03-14, 18:39:10](https://news.ycombinator.com/item?id=47379712) - [Hostile Volume – A game about adjusting volume with intentionally bad UI](https://hostilevolume.com/)
 * [2026-03-14, 18:09:38](https://news.ycombinator.com/item?id=47379391) - [Digg.com Closing Due to Spam](https://digg.com?hn)

@@ -67,6 +67,7 @@
 * [2026-03-11, 08:09:52](https://news.ycombinator.com/item?id=47332857) - [The mechanics of autonomous software translation](https://alperenkeles.com/posts/autonomous-translations/)
 * [2026-03-11, 08:08:15](https://news.ycombinator.com/item?id=47332847) - [The $2 per hour worker behind the OnlyFans boom](https://www.bbc.com/news/articles/cq571g9gd4lo)
 * [2026-03-11, 08:03:37](https://news.ycombinator.com/item?id=47332821) - [Generalizing Knuth's Pseudocode Architecture to Knowledge](https://zenodo.org/records/18767666)
+* [2026-03-11, 08:03:37](https://news.ycombinator.com/item?id=47332821) - [Generalizing Knuth's Pseudocode Architecture From Algorithms to Knowledge](https://www.researchgate.net/publication/401189185_Towards_a_Generalization_of_Knuth%27s_Pseudocode_Architecture_From_Algorithms_to_Knowledge)
 * [2026-03-11, 07:42:10](https://news.ycombinator.com/item?id=47332688) - [AutoKernel: Autoresearch for GPU Kernels](https://github.com/RightNow-AI/autokernel)
 * [2026-03-11, 07:36:18](https://news.ycombinator.com/item?id=47332649) - [I'm going to build my own OpenClaw, with blackjack and bun](https://github.com/rcarmo/piclaw)
 * [2026-03-11, 07:09:25](https://news.ycombinator.com/item?id=47332493) - [Michael Faraday: Scientist and Nonconformist (1996)](http://silas.psfc.mit.edu/Faraday/)
