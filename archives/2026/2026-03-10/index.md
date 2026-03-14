@@ -78,6 +78,7 @@
 * [2026-03-10, 05:04:23](https://news.ycombinator.com/item?id=47319255) - [Show HN: I Was Here – Draw on street view, others can find your drawings](https://washere.live)
 * [2026-03-10, 04:48:52](https://news.ycombinator.com/item?id=47319179) - [Windows: Microsoft broke the only thing that mattered](https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/)
 * [2026-03-10, 04:48:50](https://news.ycombinator.com/item?id=47319177) - [Language Birth](https://asteriskmag.com/issues/13/language-birth)
+* [2026-03-10, 04:21:32](https://news.ycombinator.com/item?id=47319071) - [Emacs and Vim in the Age of AI](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/)
 * [2026-03-10, 03:34:52](https://news.ycombinator.com/item?id=47318830) - [EQT eyes potential $6B sale of Linux pioneer SUSE, sources say](https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09)
 * [2026-03-10, 03:28:38](https://news.ycombinator.com/item?id=47318797) - [SSH Secret Menu](https://twitter.com/rebane2001/status/2031037389347406054)
 * [2026-03-10, 02:24:52](https://news.ycombinator.com/item?id=47318421) - [Learnings from paying artists royalties for AI-generated art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
