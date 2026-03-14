@@ -21,6 +21,7 @@
 * [2026-03-13, 17:58:22](https://news.ycombinator.com/item?id=47367526) - [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway)
 * [2026-03-13, 17:51:34](https://news.ycombinator.com/item?id=47367463) - [John Carmack about open source and anti-AI activists](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 * [2026-03-13, 17:49:54](https://news.ycombinator.com/item?id=47367443) - [The Accidental Room (2018)](https://99percentinvisible.org/episode/the-accidental-room/)
+* [2026-03-13, 17:39:35](https://news.ycombinator.com/item?id=47367336) - [Cookie Jars Capture American Kitsch (2023)](https://www.eater.com/23651631/cookie-jar-trend-appreciation-collecting-history)
 * [2026-03-13, 17:27:12](https://news.ycombinator.com/item?id=47367220) - [Why the militaries are scrambling to create their own Starlink](https://www.newscientist.com/article/2517766-why-the-worlds-militaries-are-scrambling-to-create-their-own-starlink/)
 * [2026-03-13, 17:19:01](https://news.ycombinator.com/item?id=47367129) - [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)
 * [2026-03-13, 17:02:34](https://news.ycombinator.com/item?id=47366931) - [Revealed: Face of 75,000-year-old female Neanderthal from cave](https://www.cam.ac.uk/stories/shanidar-z-face-revealed)

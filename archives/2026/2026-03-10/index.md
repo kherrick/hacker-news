@@ -68,6 +68,7 @@
 * [2026-03-10, 08:48:40](https://news.ycombinator.com/item?id=47320614) - [Levels of Agentic Engineering](https://www.bassimeledath.com/blog/levels-of-agentic-engineering)
 * [2026-03-10, 08:46:53](https://news.ycombinator.com/item?id=47320600) - [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
 * [2026-03-10, 08:40:03](https://news.ycombinator.com/item?id=47320559) - [Show HN: Web-Based ANSI Art Viewer](https://sure.is/ansi/)
+* [2026-03-10, 08:27:34](https://news.ycombinator.com/item?id=47320482) - [Nominal Types in WebAssembly](https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly)
 * [2026-03-10, 07:38:59](https://news.ycombinator.com/item?id=47320158) - [Using Thunderbird for RSS](https://rubenerd.com/using-thunderbird-for-rss/)
 * [2026-03-10, 07:22:25](https://news.ycombinator.com/item?id=47320040) - [Can the Dictionary Keep Up?](https://www.thenation.com/article/culture/stefan-fatsis-dictionary-history/)
 * [2026-03-10, 07:01:01](https://news.ycombinator.com/item?id=47319905) - [The Darkness from the Darkness](https://thebaffler.com/latest/the-darkness-from-the-darkness-giraldi)
