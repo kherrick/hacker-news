@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 10:05:58](https://news.ycombinator.com/item?id=47375085) - [RAM kits are now sold with one fake RAM stick alongside a real one](https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens)
+* [2026-03-14, 09:54:40](https://news.ycombinator.com/item?id=47375008) - [UCP Protocol: The Internet Has 100M Shops and No Front Door](https://askucp.com/blog)
 * [2026-03-14, 09:04:39](https://news.ycombinator.com/item?id=47374745) - [Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware](https://github.com/drojaazu/megadev)
 * [2026-03-14, 08:52:14](https://news.ycombinator.com/item?id=47374676) - [Age Verification Lobbying: Dark Money, Model Legislation, Institutional Capture](https://tboteproject.com)
 * [2026-03-14, 02:27:00](https://news.ycombinator.com/item?id=47372672) - [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
