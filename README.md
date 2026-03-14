@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-14, 20:08:54](https://news.ycombinator.com/item?id=47380647) - [Claude Doubles Usage Limits During Off-Peak Hours (March 13–27, 2026)](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion)
 * [2026-03-14, 19:51:25](https://news.ycombinator.com/item?id=47380465) - [Gimp 3.2 Released](https://www.gimp.org/news/2026/03/14/gimp-3-2-released/)
 * [2026-03-14, 19:46:49](https://news.ycombinator.com/item?id=47380405) - [2026 tech layoffs reach 45,000 in March](https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/)
 * [2026-03-14, 19:35:40](https://news.ycombinator.com/item?id=47380295) - [Marketing for Founders](https://github.com/EdoStra/Marketing-for-Founders)
@@ -18,7 +19,6 @@
 * [2026-03-14, 13:59:58](https://news.ycombinator.com/item?id=47376767) - [Montana passes Right to Compute act (2025)](https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/)
 * [2026-03-14, 13:45:04](https://news.ycombinator.com/item?id=47376619) - [9 Mothers Defense (YC P26) Is Hiring in Austin](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-03-14, 13:41:25](https://news.ycombinator.com/item?id=47376584) - [Show HN: GitAgent – An open standard that turns any Git repo into an AI agent](https://www.gitagent.sh/)
-* [2026-03-14, 11:59:13](https://news.ycombinator.com/item?id=47375764) - [XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)
 * [2026-03-14, 10:05:58](https://news.ycombinator.com/item?id=47375085) - [RAM kits are now sold with one fake RAM stick alongside a real one](https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens)
 * [2026-03-14, 09:14:51](https://news.ycombinator.com/item?id=47374796) - [Starlink militarization and its impact on global strategic stability](https://interpret.csis.org/translations/starlink-militarization-and-its-impact-on-global-strategic-stability/)
 * [2026-03-14, 09:04:39](https://news.ycombinator.com/item?id=47374745) - [Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware](https://github.com/drojaazu/megadev)

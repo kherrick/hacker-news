@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 20:08:54](https://news.ycombinator.com/item?id=47380647) - [Claude Doubles Usage Limits During Off-Peak Hours (March 13–27, 2026)](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion)
 * [2026-03-14, 19:51:25](https://news.ycombinator.com/item?id=47380465) - [Gimp 3.2 Released](https://www.gimp.org/news/2026/03/14/gimp-3-2-released/)
 * [2026-03-14, 19:46:49](https://news.ycombinator.com/item?id=47380405) - [2026 tech layoffs reach 45,000 in March](https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/)
 * [2026-03-14, 19:37:51](https://news.ycombinator.com/item?id=47380314) - [Show HN: Zap Code – AI code generator that teaches kids real HTML/CSS/JS](https://www.zapcode.dev)
