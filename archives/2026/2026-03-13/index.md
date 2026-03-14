@@ -21,6 +21,7 @@
 * [2026-03-13, 17:51:34](https://news.ycombinator.com/item?id=47367463) - [John Carmack about open source and anti-AI activists](https://twitter.com/id_aa_carmack/status/2032460578669691171)
 * [2026-03-13, 17:49:54](https://news.ycombinator.com/item?id=47367443) - [The Accidental Room (2018)](https://99percentinvisible.org/episode/the-accidental-room/)
 * [2026-03-13, 17:27:12](https://news.ycombinator.com/item?id=47367220) - [Why the militaries are scrambling to create their own Starlink](https://www.newscientist.com/article/2517766-why-the-worlds-militaries-are-scrambling-to-create-their-own-starlink/)
+* [2026-03-13, 17:19:01](https://news.ycombinator.com/item?id=47367129) - [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)
 * [2026-03-13, 17:02:34](https://news.ycombinator.com/item?id=47366931) - [Revealed: Face of 75,000-year-old female Neanderthal from cave](https://www.cam.ac.uk/stories/shanidar-z-face-revealed)
 * [2026-03-13, 16:40:42](https://news.ycombinator.com/item?id=47366666) - [Elon Musk pushes out more xAI founders as AI coding effort falters](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
 * [2026-03-13, 16:40:27](https://news.ycombinator.com/item?id=47366664) - [OVH forgot they donated documentation hosting to Pandas](https://github.com/pandas-dev/pandas/issues/64584)

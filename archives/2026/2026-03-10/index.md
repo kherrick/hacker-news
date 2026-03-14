@@ -52,6 +52,7 @@
 * [2026-03-10, 12:55:42](https://news.ycombinator.com/item?id=47322635) - [Online age-verification tools for child safety are surveilling adults](https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html)
 * [2026-03-10, 12:55:14](https://news.ycombinator.com/item?id=47322629) - [Traffic from Russia to Cloudflare is 60% down from last year](https://radar.cloudflare.com/traffic/ru?dateRange=52w)
 * [2026-03-10, 11:58:36](https://news.ycombinator.com/item?id=47322033) - [PgAdmin 4 9.13 with AI Assistant Panel](https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel)
+* [2026-03-10, 11:33:36](https://news.ycombinator.com/item?id=47321850) - [Kovan: From Production MVCC Systems to Wait-Free Memory Reclamation](https://vertexclique.com/blog/kovan-from-prod-to-mr/)
 * [2026-03-10, 11:24:00](https://news.ycombinator.com/item?id=47321760) - [Ask HN: Remember Fidonet?](https://news.ycombinator.com/item?id=47321760)
 * [2026-03-10, 10:57:57](https://news.ycombinator.com/item?id=47321579) - [OpenTelemetry for Rust Developers](https://signoz.io/blog/opentelemetry-rust/)
 * [2026-03-10, 10:50:30](https://news.ycombinator.com/item?id=47321533) - [Yann LeCun's AI startup raises $1B in Europe's largest ever seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
