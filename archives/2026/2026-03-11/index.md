@@ -65,6 +65,7 @@
 * [2026-03-11, 08:22:28](https://news.ycombinator.com/item?id=47332939) - [Why does AI tell you to use Terminal so much?](https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/)
 * [2026-03-11, 08:14:19](https://news.ycombinator.com/item?id=47332883) - [Exploring JEPA for real-time speech translation](https://www.startpinch.com/research/en/jepa-encoder-translation/)
 * [2026-03-11, 08:09:52](https://news.ycombinator.com/item?id=47332857) - [The mechanics of autonomous software translation](https://alperenkeles.com/posts/autonomous-translations/)
+* [2026-03-11, 08:08:15](https://news.ycombinator.com/item?id=47332847) - [The $2 per hour worker behind the OnlyFans boom](https://www.bbc.com/news/articles/cq571g9gd4lo)
 * [2026-03-11, 07:42:10](https://news.ycombinator.com/item?id=47332688) - [AutoKernel: Autoresearch for GPU Kernels](https://github.com/RightNow-AI/autokernel)
 * [2026-03-11, 07:36:18](https://news.ycombinator.com/item?id=47332649) - [I'm going to build my own OpenClaw, with blackjack and bun](https://github.com/rcarmo/piclaw)
 * [2026-03-11, 07:09:25](https://news.ycombinator.com/item?id=47332493) - [Michael Faraday: Scientist and Nonconformist (1996)](http://silas.psfc.mit.edu/Faraday/)
