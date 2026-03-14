@@ -141,11 +141,11 @@
             <h4>
               <span>2026-03-14 @ 14:08:18</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47376848"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -167,23 +167,23 @@
             </h4>
           </section>
         </section>
-        <section id="47376234">
+        <section id="47375935">
           <h3>
             <a
               class="item"
-              href="https://wordpress.org/news/2026/03/announcing-my-wordpress/"
-              >The Browser Becomes Your WordPress</a
+              href="https://archive.org/details/byte-magazine-1980-08"
+              >The Forth Language [Byte Magazine Volume 05 Number 08]</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-14 @ 12:59:10</span
+              <span>2026-03-14 @ 12:21:28</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47376234"
+                ><a href="https://news.ycombinator.com/item?id=47375935"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -200,32 +200,11 @@
             <h4>
               <span>2026-03-14 @ 11:59:13</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47375764"
                   >Comments</a
-                ><span class="descendants">: 101</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47375682">
-          <h3>
-            <a
-              class="item"
-              href="https://backnotprop.com/blog/do-not-ab-test-my-workflow/"
-              >Please Do Not A/B Test My Workflow</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-14 @ 11:46:29</span
-              ><span class="points-container"
-                >Points: <span class="points">133</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47375682"
-                  >Comments</a
-                ><span class="descendants">: 155</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
           </section>
@@ -243,89 +222,35 @@
             <h4>
               <span>2026-03-14 @ 10:05:58</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47375085"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 93</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47374958">
+        <section id="47374796">
           <h3>
-            <a class="item" href="https://github.com/Agastya910/agentarmor"
-              >Show HN: AgentArmor – open-source 8-layer security framework for
-              AI agents</a
+            <a
+              class="item"
+              href="https://interpret.csis.org/translations/starlink-militarization-and-its-impact-on-global-strategic-stability/"
+              >Starlink Militarization and Its Impact on Global Strategic
+              Stability</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-14 @ 09:44:36</span
+              <span>2026-03-14 @ 09:14:51</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47374958"
+                ><a href="https://news.ycombinator.com/item?id=47374796"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
-            <div class="text">
-              <p>
-                So I built AgentArmor: an open-source framework that wraps any
-                agentic architecture with 8 independent security layers, each
-                targeting a distinct attack surface in the agent's data flow.
-              </p>
-              <p>
-                The 8 layers: L1 – Ingestion: prompt injection + jailbreak
-                detection (20+ patterns, DAN, extraction attempts, Unicode
-                steganography) L2 – Storage: AES-256-GCM encryption at rest +
-                BLAKE3 integrity for vector DBs L3 – Context: instruction-data
-                separation (like parameterized SQL, but for LLM context), canary
-                tokens, prompt hardening L4 – Planning: action risk scoring
-                (READ=1 → DELETE=7 → EXECUTE=8 → ADMIN=10), chain depth limits,
-                bulk operation detection L5 – Execution: network egress control,
-                per-action rate limiting, human approval gates with conditional
-                rules L6 – Output: PII redaction via Microsoft Presidio + regex
-                fallback L7 – Inter-agent: HMAC-SHA256 mutual auth, trust
-                scoring, delegation depth limits, timestamp-bound replay
-                prevention L8 – Identity: agent-native identity, JIT
-                permissions, short-lived credentials
-              </p>
-              <p>
-                I tested it against all 10 OWASP ASI (Agentic Security
-                Integrity) risks from the December 2025 spec. The red team suite
-                is included in the repo.
-              </p>
-              <p>
-                Works as: (a) a Python library you wrap around tool calls, (b) a
-                FastAPI proxy server for framework-agnostic deployment, or (c) a
-                CLI for scanning prompts in CI.
-              </p>
-              <p>
-                Integrations included for: LangChain, OpenAI Agents SDK, MCP
-                servers.
-              </p>
-              <p>
-                I ran it live with a local Ollama agent (qwen2:7b) – you can
-                watch it block a `database.delete` at L8 (permission check),
-                redact PII from file content at L6, and kill a prompt injection
-                at L1 before it ever reaches the model.
-              </p>
-              <p>
-                GitHub:
-                <a href="https://github.com/Agastya910/agentarmor"
-                  >https://github.com/Agastya910/agentarmor</a
-                >
-                PyPI: pip install agentarmor-core
-              </p>
-              <p>
-                Would love feedback, especially from people who have actually
-                built production agents and hit security issues I haven't
-                thought of.
-              </p>
-              <p>TAGS: security, python, llm, ai, agents</p>
-            </div>
           </section>
         </section>
         <section id="47374745">
@@ -339,11 +264,11 @@
             <h4>
               <span>2026-03-14 @ 09:04:39</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47374745"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -361,11 +286,11 @@
             <h4>
               <span>2026-03-14 @ 00:02:37</span
               ><span class="points-container"
-                >Points: <span class="points">257</span></span
+                >Points: <span class="points">270</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47371692"
                   >Comments</a
-                ><span class="descendants">: 161</span></span
+                ><span class="descendants">: 173</span></span
               >
             </h4>
           </section>
@@ -381,11 +306,11 @@
             <h4>
               <span>2026-03-13 @ 23:14:37</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47371275"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 159</span></span
               >
             </h4>
           </section>
@@ -403,7 +328,7 @@
             <h4>
               <span>2026-03-13 @ 22:52:05</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47371064"
                   >Comments</a
@@ -420,11 +345,11 @@
             <h4>
               <span>2026-03-13 @ 18:52:17</span
               ><span class="points-container"
-                >Points: <span class="points">269</span></span
+                >Points: <span class="points">289</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47368135"
                   >Comments</a
-                ><span class="descendants">: 270</span></span
+                ><span class="descendants">: 292</span></span
               >
             </h4>
           </section>
@@ -439,11 +364,11 @@
             <h4>
               <span>2026-03-13 @ 18:42:54</span
               ><span class="points-container"
-                >Points: <span class="points">369</span></span
+                >Points: <span class="points">380</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47368033"
                   >Comments</a
-                ><span class="descendants">: 115</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
             <div class="text">
@@ -472,11 +397,32 @@
             <h4>
               <span>2026-03-13 @ 18:34:12</span
               ><span class="points-container"
-                >Points: <span class="points">313</span></span
+                >Points: <span class="points">316</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47367932"
                   >Comments</a
                 ><span class="descendants">: 116</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47367336">
+          <h3>
+            <a
+              class="item"
+              href="https://www.eater.com/23651631/cookie-jar-trend-appreciation-collecting-history"
+              >Cookie Jars Capture American Kitsch (2023)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-13 @ 17:39:35</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47367336"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -492,11 +438,11 @@
             <h4>
               <span>2026-03-13 @ 17:19:01</span
               ><span class="points-container"
-                >Points: <span class="points">906</span></span
+                >Points: <span class="points">945</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47367129"
                   >Comments</a
-                ><span class="descendants">: 352</span></span
+                ><span class="descendants">: 368</span></span
               >
             </h4>
           </section>
@@ -511,33 +457,11 @@
             <h4>
               <span>2026-03-13 @ 12:46:10</span
               ><span class="points-container"
-                >Points: <span class="points">1304</span></span
+                >Points: <span class="points">1312</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47363754"
                   >Comments</a
                 ><span class="descendants">: 321</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47363584">
-          <h3>
-            <a
-              class="item"
-              href="https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock"
-              >Qatar helium shutdown puts chip supply chain on a two-week
-              clock</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-13 @ 12:31:09</span
-              ><span class="points-container"
-                >Points: <span class="points">647</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47363584"
-                  >Comments</a
-                ><span class="descendants">: 567</span></span
               >
             </h4>
           </section>
@@ -555,11 +479,11 @@
             <h4>
               <span>2026-03-12 @ 10:29:45</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47348733"
                   >Comments</a
-                ><span class="descendants">: 246</span></span
+                ><span class="descendants">: 256</span></span
               >
             </h4>
           </section>
@@ -576,11 +500,11 @@
             <h4>
               <span>2026-03-12 @ 08:22:32</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47347920"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -597,11 +521,11 @@
             <h4>
               <span>2026-03-11 @ 19:37:46</span
               ><span class="points-container"
-                >Points: <span class="points">253</span></span
+                >Points: <span class="points">265</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47340203"
                   >Comments</a
-                ><span class="descendants">: 438</span></span
+                ><span class="descendants">: 469</span></span
               >
             </h4>
           </section>
@@ -640,7 +564,7 @@
             <h4>
               <span>2026-03-11 @ 18:21:58</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">146</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47339219"
                   >Comments</a
@@ -659,11 +583,11 @@
             <h4>
               <span>2026-03-11 @ 14:34:57</span
               ><span class="points-container"
-                >Points: <span class="points">555</span></span
+                >Points: <span class="points">558</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47336100"
                   >Comments</a
-                ><span class="descendants">: 162</span></span
+                ><span class="descendants">: 164</span></span
               >
             </h4>
             <div class="text">
@@ -686,7 +610,7 @@
             <h4>
               <span>2026-03-11 @ 07:09:25</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47332493"
                   >Comments</a
@@ -707,11 +631,11 @@
             <h4>
               <span>2026-03-11 @ 01:46:43</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47330946"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -728,11 +652,11 @@
             <h4>
               <span>2026-03-10 @ 19:22:39</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47327703"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -751,7 +675,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47327155"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -768,11 +692,32 @@
             <h4>
               <span>2026-03-10 @ 14:18:21</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47323625"
                   >Comments</a
                 ><span class="descendants">: 24</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47320482">
+          <h3>
+            <a
+              class="item"
+              href="https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly"
+              >Nominal Types in WebAssembly</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-10 @ 08:27:34</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47320482"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -789,7 +734,7 @@
             <h4>
               <span>2026-03-10 @ 02:43:34</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47318528"
                   >Comments</a
@@ -808,11 +753,11 @@
             <h4>
               <span>2026-03-10 @ 02:16:51</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47318386"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
