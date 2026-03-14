@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-03-13, 23:14:37",
-      "https://news.ycombinator.com/item?id=47371275"
+      "2026-03-14, 01:19:18",
+      "https://news.ycombinator.com/item?id=47372290"
     ],
     [
-      "I beg you to follow Crocker's Rules, even if you will be rude to me",
-      "https://lr0.org/blog/p/crocker/"
+      "An investigation of the forces behind the age-verification bills",
+      "https://lwn.net/Articles/1062779/"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 00:29:50",
+      "https://news.ycombinator.com/item?id=47371922"
+    ],
+    [
+      "Our Experience with I-Ready",
+      "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 00:02:37",
+      "https://news.ycombinator.com/item?id=47371692"
+    ],
+    [
+      "Games with loot boxes to get minimum 16 age rating across Europe",
+      "https://www.bbc.com/news/articles/cge84xqjg5lo"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=47370822"
     ],
     [
-      "Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group",
+      "Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people",
       "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/"
     ]
   ],
@@ -87,6 +107,16 @@
     [
       "John Carmack about open source and anti-AI activists",
       "https://twitter.com/id_aa_carmack/status/2032460578669691171"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 17:19:01",
+      "https://news.ycombinator.com/item?id=47367129"
+    ],
+    [
+      "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "https://claude.com/blog/1m-context-ga"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2026-03-13, 10:15:56",
-      "https://news.ycombinator.com/item?id=47362528"
-    ],
-    [
-      "Meta Platforms: Lobbying, dark money, and the App Store Accountability Act",
-      "https://github.com/upper-up/meta-lobbying-and-other-findings"
-    ]
-  ],
-  [
-    [
       "2026-03-13, 09:45:30",
       "https://news.ycombinator.com/item?id=47362350"
     ],
     [
       "Source code of Swedish e-government services has been leaked",
       "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 08:31:33",
-      "https://news.ycombinator.com/item?id=47361913"
-    ],
-    [
-      "Bucketsquatting is finally dead",
-      "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-03-12, 09:17:56",
-      "https://news.ycombinator.com/item?id=47348275"
-    ],
-    [
-      "Executing programs inside transformers with exponentially faster inference",
-      "https://www.percepta.ai/blog/can-llms-be-computers"
-    ]
-  ],
-  [
-    [
       "2026-03-11, 20:46:24",
       "https://news.ycombinator.com/item?id=47341432"
     ],
@@ -251,22 +251,12 @@
   ],
   [
     [
-      "2026-03-11, 13:37:24",
-      "https://news.ycombinator.com/item?id=47335416"
+      "2026-03-10, 11:33:36",
+      "https://news.ycombinator.com/item?id=47321850"
     ],
     [
-      "MetaGenesis Core – offline verification for computational claims",
-      "https://www.metagenesis-core.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 08:14:19",
-      "https://news.ycombinator.com/item?id=47332883"
-    ],
-    [
-      "Exploring JEPA for real-time speech translation",
-      "https://www.startpinch.com/research/en/jepa-encoder-translation/"
+      "Kovan: From Production MVCC Systems to Wait-Free Memory Reclamation",
+      "https://vertexclique.com/blog/kovan-from-prod-to-mr/"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2026-03-09, 14:16:53",
-      "https://news.ycombinator.com/item?id=47309397"
+      "2026-03-09, 22:29:57",
+      "https://news.ycombinator.com/item?id=47316592"
     ],
     [
-      "Okmain: How to pick an OK main colour of an image",
-      "https://dgroshev.com/blog/okmain/"
+      "Shipping Grayscale Photos at Small Scale",
+      "https://underjord.io/shipping-grayscale-photos-at-small-scale.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-09, 16:01:23",
+      "https://news.ycombinator.com/item?id=47310815"
+    ],
+    [
+      "Coding My Handwriting",
+      "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript"
     ]
   ]
 ]
