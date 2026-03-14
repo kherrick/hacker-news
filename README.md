@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-14, 14:08:18](https://news.ycombinator.com/item?id=47376848) - [Philosoph Jürgen Habermas Gestorben](https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363)
 * [2026-03-14, 13:45:04](https://news.ycombinator.com/item?id=47376619) - [Mothers Defense (YC X26) Is Hiring in Austin](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-03-14, 12:59:10](https://news.ycombinator.com/item?id=47376234) - [The Browser Becomes Your WordPress](https://wordpress.org/news/2026/03/announcing-my-wordpress/)
 * [2026-03-14, 11:59:13](https://news.ycombinator.com/item?id=47375764) - [XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)
 * [2026-03-14, 11:46:29](https://news.ycombinator.com/item?id=47375682) - [Please Do Not A/B Test My Workflow](https://backnotprop.com/blog/do-not-ab-test-my-workflow/)
-* [2026-03-14, 11:35:49](https://news.ycombinator.com/item?id=47375610) - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
 * [2026-03-14, 10:05:58](https://news.ycombinator.com/item?id=47375085) - [RAM kits are now sold with one fake RAM stick alongside a real one](https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens)
+* [2026-03-14, 09:44:36](https://news.ycombinator.com/item?id=47374958) - [Show HN: AgentArmor – open-source 8-layer security framework for AI agents](https://github.com/Agastya910/agentarmor)
 * [2026-03-14, 09:04:39](https://news.ycombinator.com/item?id=47374745) - [Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware](https://github.com/drojaazu/megadev)
 * [2026-03-14, 00:02:37](https://news.ycombinator.com/item?id=47371692) - [Games with loot boxes to get minimum 16 age rating across Europe](https://www.bbc.com/news/articles/cge84xqjg5lo)
 * [2026-03-13, 23:14:37](https://news.ycombinator.com/item?id=47371275) - [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
@@ -27,7 +28,6 @@
 * [2026-03-10, 19:22:39](https://news.ycombinator.com/item?id=47327703) - [Python: The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
 * [2026-03-10, 18:38:18](https://news.ycombinator.com/item?id=47327155) - [AEP (API Design Standard and Tooling Ecosystem)](https://aep.dev/)
 * [2026-03-10, 14:18:21](https://news.ycombinator.com/item?id=47323625) - [You gotta think outside the hypercube](https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube)
-* [2026-03-10, 04:21:32](https://news.ycombinator.com/item?id=47319071) - [Emacs and Vim in the Age of AI](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/)
 * [2026-03-10, 02:43:34](https://news.ycombinator.com/item?id=47318528) - [Secure Secrets Management for Cursor Cloud Agents](https://infisical.com/blog/secure-secrets-management-for-cursor-cloud-agents)
 * [2026-03-10, 02:16:51](https://news.ycombinator.com/item?id=47318386) - [A Survival Guide to a PhD (2016)](http://karpathy.github.io/2016/09/07/phd/)
 
