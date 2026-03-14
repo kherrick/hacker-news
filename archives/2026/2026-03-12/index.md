@@ -60,6 +60,7 @@
 * [2026-03-12, 09:06:57](https://news.ycombinator.com/item?id=47348192) - [Avoiding Trigonometry (2013)](https://iquilezles.org/articles/noacos/)
 * [2026-03-12, 08:33:00](https://news.ycombinator.com/item?id=47347977) - [Celebrating Interesting Flickr Technologies](https://medium.com/@brightcarvings/celebrating-flickr-technology-3c93c8ddecc2)
 * [2026-03-12, 08:27:16](https://news.ycombinator.com/item?id=47347945) - [3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting)
+* [2026-03-12, 08:22:32](https://news.ycombinator.com/item?id=47347920) - [The Isolation Trap: Erlang](https://causality.blog/essays/the-isolation-trap/)
 * [2026-03-12, 08:19:46](https://news.ycombinator.com/item?id=47347901) - [Reliable Software in the LLM Era](https://quint-lang.org/posts/llm_era)
 * [2026-03-12, 06:55:56](https://news.ycombinator.com/item?id=47347362) - [SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf)
 * [2026-03-12, 06:06:46](https://news.ycombinator.com/item?id=47347064) - [Returning to Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/)
