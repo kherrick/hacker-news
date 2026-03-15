@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-15, 19:12:53",
+      "https://news.ycombinator.com/item?id=47390817"
+    ],
+    [
+      "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
+      "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 18:22:36",
       "https://news.ycombinator.com/item?id=47390233"
     ],
@@ -87,16 +97,6 @@
     [
       "Separating the Wayland compositor and window manager",
       "https://isaacfreund.com/blog/river-window-management/"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 14:43:33",
-      "https://news.ycombinator.com/item?id=47387870"
-    ],
-    [
-      "The Webpage Has Instructions. The Agent Has Your Credentials",
-      "https://openguard.sh/blog/prompt-injections/"
     ]
   ],
   [
