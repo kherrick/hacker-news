@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-15, 21:22:16",
+      "https://news.ycombinator.com/item?id=47392084"
+    ],
+    [
+      "Canada's Bill C-22 Mandates Mass Metadata Surveillance of Canadians",
+      "https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-reading"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 21:12:37",
+      "https://news.ycombinator.com/item?id=47391982"
+    ],
+    [
+      "Show HN: Lux – Drop-in Redis replacement in Rust. 5.6x faster, ~1MB Docker image",
+      "https://github.com/lux-db/lux"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 19:25:18",
       "https://news.ycombinator.com/item?id=47390945"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-03-15, 12:09:30",
-      "https://news.ycombinator.com/item?id=47386636"
-    ],
-    [
-      "The 100 hour gap between a vibecoded prototype and a working product",
-      "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 12:01:00",
       "https://news.ycombinator.com/item?id=47386581"
     ],
@@ -267,16 +277,6 @@
     [
       "//go:fix inline and the source-level inliner",
       "https://go.dev/blog/inliner"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 13:30:31",
-      "https://news.ycombinator.com/item?id=47335325"
-    ],
-    [
-      "Why Mathematica does not simplify sinh(arccosh(x))",
-      "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/"
     ]
   ],
   [
