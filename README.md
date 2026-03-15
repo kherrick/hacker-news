@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-15, 05:36:00](https://news.ycombinator.com/item?id=47384619) - [Jeff Bezos Upended the Washington Post](https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html)
-* [2026-03-15, 04:50:08](https://news.ycombinator.com/item?id=47384467) - [Microslop](https://www.s-config.com/microslop/)
 * [2026-03-15, 04:23:43](https://news.ycombinator.com/item?id=47384352) - [Rack-Mount Hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
 * [2026-03-15, 03:29:17](https://news.ycombinator.com/item?id=47384032) - [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
 * [2026-03-15, 00:51:55](https://news.ycombinator.com/item?id=47383059) - [Tree Search Distillation for Language Models Using PPO](https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/)
@@ -30,6 +29,7 @@
 * [2026-03-11, 15:42:26](https://news.ycombinator.com/item?id=47337087) - [A look inside Dialector, filmmaker Chris Marker's chatbot from 1988](https://kubicki.org/letters/the-festival-of-the-machines/)
 * [2026-03-11, 14:10:31](https://news.ycombinator.com/item?id=47335796) - [A Recursive Algorithm to Render Signed Distance Fields](https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/)
 * [2026-03-10, 19:22:39](https://news.ycombinator.com/item?id=47327703) - [Python: The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
+* [2026-03-10, 15:18:39](https://news.ycombinator.com/item?id=47324448) - [The Enterprise Context Layer](https://andychen32.substack.com/p/the-enterprise-context-layer)
 
 ## [Archives](archives/index.md)
 
