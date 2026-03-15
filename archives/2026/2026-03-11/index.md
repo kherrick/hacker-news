@@ -80,6 +80,7 @@
 * [2026-03-11, 08:03:37](https://news.ycombinator.com/item?id=47332821) - [Generalizing Knuth's Pseudocode Architecture From Algorithms to Knowledge](https://www.researchgate.net/publication/401189185_Towards_a_Generalization_of_Knuth%27s_Pseudocode_Architecture_From_Algorithms_to_Knowledge)
 * [2026-03-11, 07:42:10](https://news.ycombinator.com/item?id=47332688) - [AutoKernel: Autoresearch for GPU Kernels](https://github.com/RightNow-AI/autokernel)
 * [2026-03-11, 07:36:18](https://news.ycombinator.com/item?id=47332649) - [I'm going to build my own OpenClaw, with blackjack and bun](https://github.com/rcarmo/piclaw)
+* [2026-03-11, 07:27:00](https://news.ycombinator.com/item?id=47332593) - [C++26: The Oxford Variadic Comma](https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma)
 * [2026-03-11, 07:09:25](https://news.ycombinator.com/item?id=47332493) - [Michael Faraday: Scientist and Nonconformist (1996)](http://silas.psfc.mit.edu/Faraday/)
 * [2026-03-11, 05:45:49](https://news.ycombinator.com/item?id=47332074) - [Create value for others and don’t worry about the returns](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
 * [2026-03-11, 05:42:55](https://news.ycombinator.com/item?id=47332054) - [TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization](https://www.hume.ai/blog/opensource-tada)
