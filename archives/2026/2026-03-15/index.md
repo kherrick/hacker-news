@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 15:45:24](https://news.ycombinator.com/item?id=47388519) - [UMD Scientists Create 'Smart Underwear' to Measure Human Flatulence](https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence)
+* [2026-03-15, 15:40:13](https://news.ycombinator.com/item?id=47388479) - [Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300](https://firthemouse.github.io/)
 * [2026-03-15, 15:09:41](https://news.ycombinator.com/item?id=47388141) - [What makes Intel Optane stand out (2023)](https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/)
 * [2026-03-15, 14:56:45](https://news.ycombinator.com/item?id=47387997) - [The Official DR DOS Website](https://www.dr-dos.com/)
 * [2026-03-15, 14:51:28](https://news.ycombinator.com/item?id=47387956) - [The U.S. Mint dropped the olive branch from the dime](https://fortune.com/2026/03/12/us-mint-drops-olive-branch-dime-peace-war/)
