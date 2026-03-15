@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
 * [2026-03-15, 13:47:34](https://news.ycombinator.com/item?id=47387353) - [NetBlocks says Iran blackout enters day 16 as arrests target Starlink users](https://www.iranintl.com/en/202603157402)
+* [2026-03-15, 12:59:31](https://news.ycombinator.com/item?id=47386993) - [Small U.S. town, big company. Can it weather the tariff Blizzard? (Digi-Key)](https://www.npr.org/2025/04/24/nx-s1-5332209/digikey-tariff-small-minnesota-town-big-company)
 * [2026-03-15, 12:48:17](https://news.ycombinator.com/item?id=47386908) - [A Theory of the World as run by large adult children](https://tomclancy.info/harold-and-george.html)
+* [2026-03-15, 12:41:56](https://news.ycombinator.com/item?id=47386856) - [Hollywood Enters Oscars Weekend in Existential Crisis](https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/)
 * [2026-03-15, 12:11:32](https://news.ycombinator.com/item?id=47386651) - [Pentagon expands oversight of Stars and Stripes, limits content](https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html)
 * [2026-03-15, 12:09:30](https://news.ycombinator.com/item?id=47386636) - [100 hour gap between a vibecoded prototype and a working product](https://kanfa.macbudkowski.com/vibecoding-cryptosaurus)
 * [2026-03-15, 12:01:00](https://news.ycombinator.com/item?id=47386581) - [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch)

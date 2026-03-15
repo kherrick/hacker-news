@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-15, 13:47:34](https://news.ycombinator.com/item?id=47387353) - [NetBlocks says Iran blackout enters day 16 as arrests target Starlink users](https://www.iranintl.com/en/202603157402)
+* [2026-03-15, 12:59:31](https://news.ycombinator.com/item?id=47386993) - [Small U.S. town, big company. Can it weather the tariff Blizzard? (Digi-Key)](https://www.npr.org/2025/04/24/nx-s1-5332209/digikey-tariff-small-minnesota-town-big-company)
 * [2026-03-15, 12:48:17](https://news.ycombinator.com/item?id=47386908) - [A Theory of the World as run by large adult children](https://tomclancy.info/harold-and-george.html)
+* [2026-03-15, 12:41:56](https://news.ycombinator.com/item?id=47386856) - [Hollywood Enters Oscars Weekend in Existential Crisis](https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/)
 * [2026-03-15, 12:11:32](https://news.ycombinator.com/item?id=47386651) - [Pentagon expands oversight of Stars and Stripes, limits content](https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html)
 * [2026-03-15, 12:09:30](https://news.ycombinator.com/item?id=47386636) - [100 hour gap between a vibecoded prototype and a working product](https://kanfa.macbudkowski.com/vibecoding-cryptosaurus)
 * [2026-03-15, 12:01:00](https://news.ycombinator.com/item?id=47386581) - [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch)
@@ -27,7 +28,6 @@
 * [2026-03-12, 09:55:48](https://news.ycombinator.com/item?id=47348502) - [Human Organ Atlas](https://www.science.org/doi/10.1126/sciadv.adz2240)
 * [2026-03-11, 16:07:00](https://news.ycombinator.com/item?id=47337423) - [Centuries of selective breeding turned wild cabbage into different vegetables](https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are)
 * [2026-03-11, 15:42:26](https://news.ycombinator.com/item?id=47337087) - [A look inside Dialector, filmmaker Chris Marker's chatbot from 1988](https://kubicki.org/letters/the-festival-of-the-machines/)
-* [2026-03-11, 14:10:31](https://news.ycombinator.com/item?id=47335796) - [A Recursive Algorithm to Render Signed Distance Fields](https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/)
 * [2026-03-11, 13:30:31](https://news.ycombinator.com/item?id=47335325) - [Why Mathematica does not simplify sinh(arccosh(x))](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
 * [2026-03-11, 12:24:09](https://news.ycombinator.com/item?id=47334668) - [Examples for the tcpdump and dig man pages](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/)
 
