@@ -55,6 +55,7 @@
 * [2026-03-12, 11:49:05](https://news.ycombinator.com/item?id=47349334) - [Are LLMs not getting better?](https://entropicthoughts.com/no-swe-bench-improvement)
 * [2026-03-12, 11:41:14](https://news.ycombinator.com/item?id=47349277) - [Big Data on the Cheapest MacBook](https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook)
 * [2026-03-12, 10:29:45](https://news.ycombinator.com/item?id=47348733) - [Coding after coders: The end of computer programming as we know it](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share)
+* [2026-03-12, 09:55:48](https://news.ycombinator.com/item?id=47348502) - [Human Organ Atlas](https://www.science.org/doi/10.1126/sciadv.adz2240)
 * [2026-03-12, 09:46:00](https://news.ycombinator.com/item?id=47348440) - [1B identity records exposed in ID verification data leak](https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html)
 * [2026-03-12, 09:23:01](https://news.ycombinator.com/item?id=47348304) - [Dolphin Progress Release 2603](https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/)
 * [2026-03-12, 09:17:56](https://news.ycombinator.com/item?id=47348275) - [Executing programs inside transformers with exponentially faster inference](https://www.percepta.ai/blog/can-llms-be-computers)
