@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-03-15, 12:11:32",
+      "https://news.ycombinator.com/item?id=47386651"
+    ],
+    [
+      "Pentagon expands oversight of Stars and Stripes, limits content",
+      "https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 12:01:00",
+      "https://news.ycombinator.com/item?id=47386581"
+    ],
+    [
+      "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
+      "https://signet.watch"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 11:42:01",
+      "https://news.ycombinator.com/item?id=47386441"
+    ],
+    [
+      "Generating All 32-Bit Primes (Part I)",
+      "https://hnlyman.github.io/pages/prime32_I.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 11:06:45",
+      "https://news.ycombinator.com/item?id=47386246"
+    ],
+    [
+      "IBM, sonic delay lines, and the history of the 80×24 display",
+      "https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 10:47:35",
       "https://news.ycombinator.com/item?id=47386116"
     ],
@@ -17,16 +57,6 @@
     [
       "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
       "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 09:06:35",
-      "https://news.ycombinator.com/item?id=47385576"
-    ],
-    [
-      "The enshittification of Amazon paperback books",
-      "https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-03-14, 23:10:24",
-      "https://news.ycombinator.com/item?id=47382277"
-    ],
-    [
-      "Airbus is preparing two uncrewed combat aircraft",
-      "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european"
-    ]
-  ],
-  [
-    [
       "2026-03-14, 22:10:26",
       "https://news.ycombinator.com/item?id=47381791"
     ],
@@ -151,26 +171,6 @@
   ],
   [
     [
-      "2026-03-14, 20:16:19",
-      "https://news.ycombinator.com/item?id=47380726"
-    ],
-    [
-      "Library of Short Stories",
-      "https://www.libraryofshortstories.com/"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 19:56:38",
-      "https://news.ycombinator.com/item?id=47380512"
-    ],
-    [
-      "Fedora 44 on the Raspberry Pi 5",
-      "https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/"
-    ]
-  ],
-  [
-    [
       "2026-03-14, 19:35:40",
       "https://news.ycombinator.com/item?id=47380295"
     ],
@@ -187,16 +187,6 @@
     [
       "MCP is dead; long live MCP",
       "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 18:39:10",
-      "https://news.ycombinator.com/item?id=47379712"
-    ],
-    [
-      "Hostile Volume – A game about adjusting volume with intentionally bad UI",
-      "https://hostilevolume.com/"
     ]
   ],
   [
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2026-03-11, 18:21:58",
-      "https://news.ycombinator.com/item?id=47339219"
+      "2026-03-12, 09:55:48",
+      "https://news.ycombinator.com/item?id=47348502"
     ],
     [
-      "Baochip-1x: What it is, why I'm doing it now and how it came about",
-      "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about"
+      "Human Organ Atlas",
+      "https://www.science.org/doi/10.1126/sciadv.adz2240"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Examples for the tcpdump and dig man pages",
       "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 09:19:30",
+      "https://news.ycombinator.com/item?id=47333356"
+    ],
+    [
+      "Discovering Little Worlds (2020)",
+      "https://dmitrybrant.com/2020/08/01/discovering-little-worlds"
     ]
   ],
   [
