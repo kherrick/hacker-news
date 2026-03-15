@@ -65,6 +65,7 @@
 * [2026-03-11, 12:57:41](https://news.ycombinator.com/item?id=47334982) - [Swiss e-voting pilot can't count 2,048 ballots after decryption failure](https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/)
 * [2026-03-11, 12:30:19](https://news.ycombinator.com/item?id=47334722) - [Should hack-back be legal?](https://speculumx.at/blogpost/should-hack-back-be-legal)
 * [2026-03-11, 12:27:15](https://news.ycombinator.com/item?id=47334694) - [Microsoft BitNet: 100B Param 1-Bit model for local CPUs](https://github.com/microsoft/BitNet)
+* [2026-03-11, 12:24:09](https://news.ycombinator.com/item?id=47334668) - [Examples for the tcpdump and dig man pages](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/)
 * [2026-03-11, 11:37:24](https://news.ycombinator.com/item?id=47334293) - [The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo)
 * [2026-03-11, 10:34:34](https://news.ycombinator.com/item?id=47333852) - [As US missiles leave South Korea, the Philippines asks: are we next?](https://www.scmp.com/week-asia/politics/article/3346226/us-missiles-leave-south-korea-philippines-asks-are-we-next)
 * [2026-03-11, 09:59:03](https://news.ycombinator.com/item?id=47333627) - [AI Agent Hacks McKinsey](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
