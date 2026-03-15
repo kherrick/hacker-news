@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-15, 19:12:53](https://news.ycombinator.com/item?id=47390817) - [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
 * [2026-03-15, 18:22:36](https://news.ycombinator.com/item?id=47390233) - [Office.eu launches as Europe's sovereign office platform](https://office.eu/media/pressrelease-20260304)
 * [2026-03-15, 17:43:19](https://news.ycombinator.com/item?id=47389784) - [Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried)
 * [2026-03-15, 16:01:09](https://news.ycombinator.com/item?id=47388676) - [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
@@ -9,7 +10,6 @@
 * [2026-03-15, 15:21:04](https://news.ycombinator.com/item?id=47388273) - [Learning athletic humanoid tennis skills from imperfect human motion data](https://zzk273.github.io/LATENT/)
 * [2026-03-15, 15:09:41](https://news.ycombinator.com/item?id=47388141) - [What makes Intel Optane stand out (2023)](https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/)
 * [2026-03-15, 15:09:24](https://news.ycombinator.com/item?id=47388137) - [Separating the Wayland compositor and window manager](https://isaacfreund.com/blog/river-window-management/)
-* [2026-03-15, 14:43:33](https://news.ycombinator.com/item?id=47387870) - [The Webpage Has Instructions. The Agent Has Your Credentials](https://openguard.sh/blog/prompt-injections/)
 * [2026-03-15, 13:08:02](https://news.ycombinator.com/item?id=47387047) - [Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories](https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode)
 * [2026-03-15, 12:58:13](https://news.ycombinator.com/item?id=47386983) - [Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?](https://octetta.github.io/k-synth/)
 * [2026-03-15, 12:41:56](https://news.ycombinator.com/item?id=47386856) - [Hollywood Enters Oscars Weekend in Existential Crisis](https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/)
