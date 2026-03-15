@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-03-15, 10:15:47",
+      "https://news.ycombinator.com/item?id=47385935"
+    ],
+    [
+      "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+      "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 09:06:35",
       "https://news.ycombinator.com/item?id=47385576"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-03-14, 21:23:42",
-      "https://news.ycombinator.com/item?id=47381340"
-    ],
-    [
-      "Launching the Claude Partner Network",
-      "https://www.anthropic.com/news/claude-partner-network"
-    ]
-  ],
-  [
-    [
       "2026-03-14, 20:49:10",
       "https://news.ycombinator.com/item?id=47381011"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-03-13, 17:19:01",
-      "https://news.ycombinator.com/item?id=47367129"
-    ],
-    [
-      "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-      "https://claude.com/blog/1m-context-ga"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 12:51:15",
       "https://news.ycombinator.com/item?id=47349871"
     ],
@@ -287,6 +277,16 @@
     [
       "Why Mathematica does not simplify sinh(arccosh(x))",
       "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 12:24:09",
+      "https://news.ycombinator.com/item?id=47334668"
+    ],
+    [
+      "Examples for the tcpdump and dig man pages",
+      "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/"
     ]
   ],
   [
