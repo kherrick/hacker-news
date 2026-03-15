@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-15, 18:22:36",
+      "https://news.ycombinator.com/item?id=47390233"
+    ],
+    [
+      "Office.eu launches as Europe's sovereign office platform",
+      "https://office.eu/media/pressrelease-20260304"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 17:43:19",
       "https://news.ycombinator.com/item?id=47389784"
     ],
@@ -11,22 +21,12 @@
   ],
   [
     [
-      "2026-03-15, 17:00:35",
-      "https://news.ycombinator.com/item?id=47389292"
+      "2026-03-15, 16:01:09",
+      "https://news.ycombinator.com/item?id=47388676"
     ],
     [
-      "SuperTux 0.7.0",
-      "https://github.com/SuperTux/supertux/releases/tag/v0.7.0"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 15:58:23",
-      "https://news.ycombinator.com/item?id=47388646"
-    ],
-    [
-      "Ask HN: How is AI-assisted coding going for you professionally?",
-      "https://news.ycombinator.com/item?id=47388646"
+      "LLM Architecture Gallery",
+      "https://sebastianraschka.com/llm-architecture-gallery/"
     ]
   ],
   [
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=47388137"
     ],
     [
-      "Separating the Wayland Compositor and Window Manager",
+      "Separating the Wayland compositor and window manager",
       "https://isaacfreund.com/blog/river-window-management/"
     ]
   ],
@@ -241,12 +241,22 @@
   ],
   [
     [
-      "2026-03-12, 09:55:48",
-      "https://news.ycombinator.com/item?id=47348502"
+      "2026-03-14, 08:35:42",
+      "https://news.ycombinator.com/item?id=47374572"
     ],
     [
-      "Human Organ Atlas",
-      "https://www.science.org/doi/10.1126/sciadv.adz2240"
+      "Autoresearch Hub",
+      "http://autoresearchhub.com/"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 19:07:12",
+      "https://news.ycombinator.com/item?id=47339818"
+    ],
+    [
+      "Bus travel from Lima to Rio de Janeiro",
+      "https://kenschutte.com/lima-to-rio-by-bus/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Why Mathematica does not simplify sinh(arccosh(x))",
       "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 12:24:09",
-      "https://news.ycombinator.com/item?id=47334668"
-    ],
-    [
-      "Examples for the tcpdump and dig man pages",
-      "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/"
     ]
   ],
   [
