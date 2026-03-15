@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 23:22:39](https://news.ycombinator.com/item?id=47382398) - [SBCL Fibers – Lightweight Cooperative Threads](https://atgreen.github.io/repl-yell/posts/sbcl-fibers/)
+* [2026-03-14, 23:10:24](https://news.ycombinator.com/item?id=47382277) - [Airbus is preparing two uncrewed combat aircraft](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
 * [2026-03-14, 23:00:05](https://news.ycombinator.com/item?id=47382196) - [The Sound of Contamination: Headphones Contain Ing Hormone-Disrupting Chemicals](https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals)
+* [2026-03-14, 22:41:28](https://news.ycombinator.com/item?id=47382072) - [Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net](https://github.com/groverburger/grobpaint)
 * [2026-03-14, 22:10:26](https://news.ycombinator.com/item?id=47381791) - [Ageless Linux. We are legally required to ask how old you are. We won't](https://agelesslinux.org/)
 * [2026-03-14, 22:04:48](https://news.ycombinator.com/item?id=47381746) - [Changes to OpenTTD Distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
 * [2026-03-14, 22:02:48](https://news.ycombinator.com/item?id=47381731) - [Learning Creative Coding](https://stigmollerhansen.dk/resume/learning-creative-coding/)
