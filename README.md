@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-15, 19:12:53](https://news.ycombinator.com/item?id=47390817) - [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
-* [2026-03-15, 18:22:36](https://news.ycombinator.com/item?id=47390233) - [Office.eu launches as Europe's sovereign office platform](https://office.eu/media/pressrelease-20260304)
 * [2026-03-15, 17:43:19](https://news.ycombinator.com/item?id=47389784) - [Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried)
 * [2026-03-15, 16:01:09](https://news.ycombinator.com/item?id=47388676) - [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
 * [2026-03-15, 15:46:19](https://news.ycombinator.com/item?id=47388531) - [In Memoriam: John W. Addison, my PhD advisor](https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/)
@@ -25,6 +24,7 @@
 * [2026-03-15, 00:15:10](https://news.ycombinator.com/item?id=47382791) - [How kernel anti-cheats work](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/)
 * [2026-03-14, 22:03:47](https://news.ycombinator.com/item?id=47381736) - [Allow me to get to know you, mistakes and all](https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/)
 * [2026-03-14, 08:35:42](https://news.ycombinator.com/item?id=47374572) - [Autoresearch Hub](http://autoresearchhub.com/)
+* [2026-03-12, 09:55:48](https://news.ycombinator.com/item?id=47348502) - [Human Organ Atlas](https://www.science.org/doi/10.1126/sciadv.adz2240)
 * [2026-03-11, 19:07:12](https://news.ycombinator.com/item?id=47339818) - [Bus travel from Lima to Rio de Janeiro](https://kenschutte.com/lima-to-rio-by-bus/)
 * [2026-03-11, 13:30:31](https://news.ycombinator.com/item?id=47335325) - [Why Mathematica does not simplify sinh(arccosh(x))](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
 * [2026-03-11, 10:39:24](https://news.ycombinator.com/item?id=47333885) - [Zipp 2001 Restoration](https://robot-daycare.com/posts/zipp-2001-restoration-part-1/)
