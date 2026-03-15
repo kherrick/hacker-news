@@ -1,10 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-15, 13:47:34](https://news.ycombinator.com/item?id=47387353) - [NetBlocks says Iran blackout enters day 16 as arrests target Starlink users](https://www.iranintl.com/en/202603157402)
+* [2026-03-15, 12:48:17](https://news.ycombinator.com/item?id=47386908) - [A Theory of the World as run by large adult children](https://tomclancy.info/harold-and-george.html)
 * [2026-03-15, 12:11:32](https://news.ycombinator.com/item?id=47386651) - [Pentagon expands oversight of Stars and Stripes, limits content](https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html)
+* [2026-03-15, 12:09:30](https://news.ycombinator.com/item?id=47386636) - [100 hour gap between a vibecoded prototype and a working product](https://kanfa.macbudkowski.com/vibecoding-cryptosaurus)
 * [2026-03-15, 12:01:00](https://news.ycombinator.com/item?id=47386581) - [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch)
 * [2026-03-15, 11:42:01](https://news.ycombinator.com/item?id=47386441) - [Generating All 32-Bit Primes (Part I)](https://hnlyman.github.io/pages/prime32_I.html)
 * [2026-03-15, 11:06:45](https://news.ycombinator.com/item?id=47386246) - [IBM, sonic delay lines, and the history of the 80×24 display](https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html)
-* [2026-03-15, 10:47:35](https://news.ycombinator.com/item?id=47386116) - [A Visual Introduction to Machine Learning](https://r2d3.us/visual-intro-to-machine-learning-part-1/)
+* [2026-03-15, 10:47:35](https://news.ycombinator.com/item?id=47386116) - [A Visual Introduction to Machine Learning (2015)](https://r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [2026-03-15, 10:15:47](https://news.ycombinator.com/item?id=47385935) - [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
 * [2026-03-15, 08:04:55](https://news.ycombinator.com/item?id=47385272) - [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 * [2026-03-15, 04:23:43](https://news.ycombinator.com/item?id=47384352) - [Rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
@@ -17,7 +20,6 @@
 * [2026-03-14, 22:03:47](https://news.ycombinator.com/item?id=47381736) - [Allow me to get to know you, mistakes and all](https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/)
 * [2026-03-14, 21:27:33](https://news.ycombinator.com/item?id=47381382) - [Show HN: Han – A Korean programming language written in Rust](https://github.com/xodn348/han)
 * [2026-03-14, 20:49:10](https://news.ycombinator.com/item?id=47381011) - [Bumblebee queens breathe underwater to survive drowning](https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/)
-* [2026-03-14, 19:35:40](https://news.ycombinator.com/item?id=47380295) - [Marketing for Founders](https://github.com/EdoStra/Marketing-for-Founders)
 * [2026-03-14, 19:32:13](https://news.ycombinator.com/item?id=47380270) - [MCP is dead; long live MCP](https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/)
 * [2026-03-14, 16:01:23](https://news.ycombinator.com/item?id=47377998) - [An ode to bzip](https://purplesyringa.moe/blog/an-ode-to-bzip/)
 * [2026-03-14, 09:38:37](https://news.ycombinator.com/item?id=47374924) - [Mathematics Distillation Challenge – Equational Theories](https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/)
@@ -28,8 +30,6 @@
 * [2026-03-11, 14:10:31](https://news.ycombinator.com/item?id=47335796) - [A Recursive Algorithm to Render Signed Distance Fields](https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/)
 * [2026-03-11, 13:30:31](https://news.ycombinator.com/item?id=47335325) - [Why Mathematica does not simplify sinh(arccosh(x))](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
 * [2026-03-11, 12:24:09](https://news.ycombinator.com/item?id=47334668) - [Examples for the tcpdump and dig man pages](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/)
-* [2026-03-11, 09:19:30](https://news.ycombinator.com/item?id=47333356) - [Discovering Little Worlds (2020)](https://dmitrybrant.com/2020/08/01/discovering-little-worlds)
-* [2026-03-11, 08:09:52](https://news.ycombinator.com/item?id=47332857) - [The mechanics of autonomous software translation](https://alperenkeles.com/posts/autonomous-translations/)
 
 ## [Archives](archives/index.md)
 

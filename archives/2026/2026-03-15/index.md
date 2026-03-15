@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 13:47:34](https://news.ycombinator.com/item?id=47387353) - [NetBlocks says Iran blackout enters day 16 as arrests target Starlink users](https://www.iranintl.com/en/202603157402)
+* [2026-03-15, 12:48:17](https://news.ycombinator.com/item?id=47386908) - [A Theory of the World as run by large adult children](https://tomclancy.info/harold-and-george.html)
 * [2026-03-15, 12:11:32](https://news.ycombinator.com/item?id=47386651) - [Pentagon expands oversight of Stars and Stripes, limits content](https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html)
+* [2026-03-15, 12:09:30](https://news.ycombinator.com/item?id=47386636) - [100 hour gap between a vibecoded prototype and a working product](https://kanfa.macbudkowski.com/vibecoding-cryptosaurus)
 * [2026-03-15, 12:01:00](https://news.ycombinator.com/item?id=47386581) - [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch)
 * [2026-03-15, 11:42:01](https://news.ycombinator.com/item?id=47386441) - [Generating All 32-Bit Primes (Part I)](https://hnlyman.github.io/pages/prime32_I.html)
 * [2026-03-15, 11:06:45](https://news.ycombinator.com/item?id=47386246) - [IBM, sonic delay lines, and the history of the 80×24 display](https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html)
