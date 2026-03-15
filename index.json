@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=47384619"
     ],
     [
-      "Jeff Bezos Upended the Washington Post",
+      "How Jeff Bezos Upended The Washington Post",
       "https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=47384352"
     ],
     [
-      "Rack-Mount Hydroponics",
+      "Rack-mount hydroponics",
       "https://sa.lj.am/rack-mount-hydroponics/"
     ]
   ],
@@ -27,6 +27,16 @@
     [
       "A most elegant TCP hole punching algorithm",
       "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 02:48:33",
+      "https://news.ycombinator.com/item?id=47383804"
+    ],
+    [
+      "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
+      "https://www.bbc.com/news/articles/cg4g7kn99q3o"
     ]
   ],
   [
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47382791"
     ],
     [
-      "How Kernel Anti-Cheats Work",
+      "How kernel anti-cheats work",
       "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/"
     ]
   ],
@@ -91,32 +101,12 @@
   ],
   [
     [
-      "2026-03-14, 22:04:48",
-      "https://news.ycombinator.com/item?id=47381746"
-    ],
-    [
-      "Changes to OpenTTD Distribution on Steam",
-      "https://www.openttd.org/news/2026/03/14/steam-changes"
-    ]
-  ],
-  [
-    [
       "2026-03-14, 22:03:47",
       "https://news.ycombinator.com/item?id=47381736"
     ],
     [
       "Allow me to get to know you, mistakes and all",
       "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 22:02:48",
-      "https://news.ycombinator.com/item?id=47381731"
-    ],
-    [
-      "Learning Creative Coding",
-      "https://stigmollerhansen.dk/resume/learning-creative-coding/"
     ]
   ],
   [
@@ -191,12 +181,32 @@
   ],
   [
     [
+      "2026-03-14, 19:32:13",
+      "https://news.ycombinator.com/item?id=47380270"
+    ],
+    [
+      "MCP is dead; long live MCP",
+      "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/"
+    ]
+  ],
+  [
+    [
       "2026-03-14, 18:57:12",
       "https://news.ycombinator.com/item?id=47379898"
     ],
     [
       "Show HN: Ichinichi – One note per day, E2E encrypted, local-first",
       "https://news.ycombinator.com/item?id=47379898"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 18:39:10",
+      "https://news.ycombinator.com/item?id=47379712"
+    ],
+    [
+      "Hostile Volume – A game about adjusting volume with intentionally bad UI",
+      "https://hostilevolume.com/"
     ]
   ],
   [
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2026-03-14, 13:59:58",
-      "https://news.ycombinator.com/item?id=47376767"
-    ],
-    [
-      "Montana passes Right to Compute act (2025)",
-      "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/"
-    ]
-  ],
-  [
-    [
       "2026-03-14, 09:38:37",
       "https://news.ycombinator.com/item?id=47374924"
     ],
     [
       "Mathematics Distillation Challenge – Equational Theories",
       "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 17:19:01",
-      "https://news.ycombinator.com/item?id=47367129"
-    ],
-    [
-      "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-      "https://claude.com/blog/1m-context-ga"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "A Recursive Algorithm to Render Signed Distance Fields",
       "https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 13:30:31",
+      "https://news.ycombinator.com/item?id=47335325"
+    ],
+    [
+      "Why Mathematica does not simplify sinh(arccosh(x))",
+      "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/"
     ]
   ],
   [
