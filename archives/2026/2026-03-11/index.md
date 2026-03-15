@@ -17,6 +17,7 @@
 * [2026-03-11, 20:20:22](https://news.ycombinator.com/item?id=47340935) - [The dead Internet is not a theory anymore](https://www.adriankrebs.ch/blog/dead-internet/)
 * [2026-03-11, 20:12:36](https://news.ycombinator.com/item?id=47340768) - [What Is a Tort?](https://harvardlawreview.org/print/vol-139/what-is-a-tort/)
 * [2026-03-11, 20:11:50](https://news.ycombinator.com/item?id=47340754) - [X is selling existing users' handles](https://news.ycombinator.com/item?id=47340754)
+* [2026-03-11, 20:03:30](https://news.ycombinator.com/item?id=47340597) - [Chasing the Ivory-Billed Woodpecker (2023)](https://gardenandgun.com/feature/chasing-the-ivory-billed-woodpecker/)
 * [2026-03-11, 20:01:48](https://news.ycombinator.com/item?id=47340554) - [We Were Right About Havana Syndrome](https://warontherocks.com/2026/03/we-were-right-about-havana-syndrome/)
 * [2026-03-11, 19:37:46](https://news.ycombinator.com/item?id=47340203) - [Wired headphone sales are exploding. What's with the Bluetooth backlash?](https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth)
 * [2026-03-11, 19:29:29](https://news.ycombinator.com/item?id=47340079) - [Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/newsguidelines.html#generated)
