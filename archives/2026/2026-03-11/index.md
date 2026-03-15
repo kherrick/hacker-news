@@ -25,6 +25,7 @@
 * [2026-03-11, 19:13:35](https://news.ycombinator.com/item?id=47339888) - [Hisense TVs force owners to watch intrusive ads](https://www.tomshardware.com/tech-industry/big-tech/hisense-tvs-force-owners-to-watch-intrusive-ads-when-switching-inputs-visiting-the-home-screen-or-even-changing-channels-practice-infuriates-consumers-brand-denies-wrongdoing)
 * [2026-03-11, 19:07:12](https://news.ycombinator.com/item?id=47339818) - [Bus travel from Lima to Rio de Janeiro](https://kenschutte.com/lima-to-rio-by-bus/)
 * [2026-03-11, 18:57:58](https://news.ycombinator.com/item?id=47339705) - [CRusTTY: A pedagogical C interpreter with time-travel debugging capabilities](https://github.com/aicheye/crustty)
+* [2026-03-11, 18:39:25](https://news.ycombinator.com/item?id=47339463) - [//go:fix inline and the source-level inliner](https://go.dev/blog/inliner)
 * [2026-03-11, 18:35:39](https://news.ycombinator.com/item?id=47339403) - [Atari 2600 BASIC Programming (2015)](https://huguesjohnson.com/programming/atari-2600-basic/)
 * [2026-03-11, 18:22:21](https://news.ycombinator.com/item?id=47339223) - [Personal Computer by Perplexity](https://www.perplexity.ai/personal-computer-waitlist)
 * [2026-03-11, 18:21:58](https://news.ycombinator.com/item?id=47339219) - [Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About](https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about)

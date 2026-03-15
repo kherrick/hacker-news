@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 19:25:18](https://news.ycombinator.com/item?id=47390945) - [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
 * [2026-03-15, 19:12:53](https://news.ycombinator.com/item?id=47390817) - [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
 * [2026-03-15, 18:22:36](https://news.ycombinator.com/item?id=47390233) - [Office.eu launches as Europe's sovereign office platform](https://office.eu/media/pressrelease-20260304)
 * [2026-03-15, 17:43:19](https://news.ycombinator.com/item?id=47389784) - [Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried)
