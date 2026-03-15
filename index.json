@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-15, 23:34:35",
+      "https://news.ycombinator.com/item?id=47393225"
+    ],
+    [
+      "Excel incorrectly assumes that the year 1900 is a leap year",
+      "https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 22:29:46",
+      "https://news.ycombinator.com/item?id=47392677"
+    ],
+    [
+      "Show HN: Open-source playground to red-team AI agents with exploits published",
+      "https://github.com/fabraix/playground"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 22:16:09",
       "https://news.ycombinator.com/item?id=47392550"
     ],
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2026-03-15, 21:29:52",
+      "https://news.ycombinator.com/item?id=47392158"
+    ],
+    [
+      "Show HN: Free OpenAI API Access with ChatGPT Account",
+      "https://github.com/EvanZhouDev/openai-oauth"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 21:22:16",
       "https://news.ycombinator.com/item?id=47392084"
     ],
@@ -41,12 +71,12 @@
   ],
   [
     [
-      "2026-03-15, 21:12:37",
-      "https://news.ycombinator.com/item?id=47391982"
+      "2026-03-15, 20:56:21",
+      "https://news.ycombinator.com/item?id=47391803"
     ],
     [
-      "Show HN: Lux – Drop-in Redis replacement in Rust. 5.6x faster, ~1MB Docker image",
-      "https://github.com/lux-db/lux"
+      "LLMs can be exhausting",
+      "https://tomjohnell.com/llms-can-be-absolutely-exhausting/"
     ]
   ],
   [
@@ -221,42 +251,12 @@
   ],
   [
     [
-      "2026-03-15, 11:42:01",
-      "https://news.ycombinator.com/item?id=47386441"
-    ],
-    [
-      "Generating All 32-Bit Primes (Part I)",
-      "https://hnlyman.github.io/pages/prime32_I.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 11:06:45",
-      "https://news.ycombinator.com/item?id=47386246"
-    ],
-    [
-      "IBM, sonic delay lines, and the history of the 80×24 display (2019)",
-      "https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 10:47:35",
       "https://news.ycombinator.com/item?id=47386116"
     ],
     [
       "A Visual Introduction to Machine Learning (2015)",
       "https://r2d3.us/visual-intro-to-machine-learning-part-1/"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 08:35:42",
-      "https://news.ycombinator.com/item?id=47374572"
-    ],
-    [
-      "Autoresearch Hub",
-      "http://autoresearchhub.com/"
     ]
   ],
   [
