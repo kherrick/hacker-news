@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-15, 05:36:00](https://news.ycombinator.com/item?id=47384619) - [Jeff Bezos wants Washington Post’s newsroom budget halved, productivity doubled](https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html)
+* [2026-03-15, 08:04:55](https://news.ycombinator.com/item?id=47385272) - [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 * [2026-03-15, 04:23:43](https://news.ycombinator.com/item?id=47384352) - [Rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
 * [2026-03-15, 03:29:17](https://news.ycombinator.com/item?id=47384032) - [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
 * [2026-03-15, 02:48:33](https://news.ycombinator.com/item?id=47383804) - [Treasure hunter freed from jail after refusing to turn over shipwreck gold](https://www.bbc.com/news/articles/cg4g7kn99q3o)
@@ -13,7 +13,6 @@
 * [2026-03-14, 22:03:47](https://news.ycombinator.com/item?id=47381736) - [Allow me to get to know you, mistakes and all](https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/)
 * [2026-03-14, 21:27:33](https://news.ycombinator.com/item?id=47381382) - [Show HN: Han – A Korean programming language written in Rust](https://github.com/xodn348/han)
 * [2026-03-14, 21:23:42](https://news.ycombinator.com/item?id=47381340) - [Launching the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network)
-* [2026-03-14, 21:14:03](https://news.ycombinator.com/item?id=47381238) - [Postgres with Builtin File Systems](https://db9.ai/)
 * [2026-03-14, 20:49:10](https://news.ycombinator.com/item?id=47381011) - [Bumblebee queens breathe underwater to survive drowning](https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/)
 * [2026-03-14, 20:16:19](https://news.ycombinator.com/item?id=47380726) - [Library of Short Stories](https://www.libraryofshortstories.com/)
 * [2026-03-14, 19:56:38](https://news.ycombinator.com/item?id=47380512) - [Fedora 44 on the Raspberry Pi 5](https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/)
@@ -28,6 +27,7 @@
 * [2026-03-11, 15:42:26](https://news.ycombinator.com/item?id=47337087) - [A look inside Dialector, filmmaker Chris Marker's chatbot from 1988](https://kubicki.org/letters/the-festival-of-the-machines/)
 * [2026-03-11, 14:10:31](https://news.ycombinator.com/item?id=47335796) - [A Recursive Algorithm to Render Signed Distance Fields](https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/)
 * [2026-03-11, 13:30:31](https://news.ycombinator.com/item?id=47335325) - [Why Mathematica does not simplify sinh(arccosh(x))](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
+* [2026-03-11, 08:09:52](https://news.ycombinator.com/item?id=47332857) - [The mechanics of autonomous software translation](https://alperenkeles.com/posts/autonomous-translations/)
 * [2026-03-10, 19:22:39](https://news.ycombinator.com/item?id=47327703) - [Python: The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
 * [2026-03-10, 15:18:39](https://news.ycombinator.com/item?id=47324448) - [The Enterprise Context Layer](https://andychen32.substack.com/p/the-enterprise-context-layer)
 

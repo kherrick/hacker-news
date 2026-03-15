@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 08:04:55](https://news.ycombinator.com/item?id=47385272) - [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 * [2026-03-15, 05:36:00](https://news.ycombinator.com/item?id=47384619) - [Jeff Bezos Upended the Washington Post](https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html)
 * [2026-03-15, 04:50:08](https://news.ycombinator.com/item?id=47384467) - [Microslop](https://www.s-config.com/microslop/)
 * [2026-03-15, 04:23:43](https://news.ycombinator.com/item?id=47384352) - [Rack-Mount Hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
