@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-15, 21:22:16](https://news.ycombinator.com/item?id=47392084) - [Canada's Bill C-22 Mandates Mass Metadata Surveillance of Canadians](https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-reading)
+* [2026-03-15, 21:12:37](https://news.ycombinator.com/item?id=47391982) - [Show HN: Lux – Drop-in Redis replacement in Rust. 5.6x faster, ~1MB Docker image](https://github.com/lux-db/lux)
 * [2026-03-15, 19:25:18](https://news.ycombinator.com/item?id=47390945) - [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
 * [2026-03-15, 19:12:53](https://news.ycombinator.com/item?id=47390817) - [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
 * [2026-03-15, 18:22:36](https://news.ycombinator.com/item?id=47390233) - [Office.eu launches as Europe's sovereign office platform](https://office.eu/media/pressrelease-20260304)
@@ -16,7 +18,6 @@
 * [2026-03-15, 13:08:02](https://news.ycombinator.com/item?id=47387047) - [Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories](https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode)
 * [2026-03-15, 12:58:13](https://news.ycombinator.com/item?id=47386983) - [Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?](https://octetta.github.io/k-synth/)
 * [2026-03-15, 12:41:56](https://news.ycombinator.com/item?id=47386856) - [Hollywood Enters Oscars Weekend in Existential Crisis](https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/)
-* [2026-03-15, 12:09:30](https://news.ycombinator.com/item?id=47386636) - [The 100 hour gap between a vibecoded prototype and a working product](https://kanfa.macbudkowski.com/vibecoding-cryptosaurus)
 * [2026-03-15, 12:01:00](https://news.ycombinator.com/item?id=47386581) - [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch)
 * [2026-03-15, 11:42:01](https://news.ycombinator.com/item?id=47386441) - [Generating All 32-Bit Primes (Part I)](https://hnlyman.github.io/pages/prime32_I.html)
 * [2026-03-15, 11:06:45](https://news.ycombinator.com/item?id=47386246) - [IBM, sonic delay lines, and the history of the 80×24 display (2019)](https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html)
@@ -27,7 +28,6 @@
 * [2026-03-11, 20:03:30](https://news.ycombinator.com/item?id=47340597) - [Chasing the Ivory-Billed Woodpecker (2023)](https://gardenandgun.com/feature/chasing-the-ivory-billed-woodpecker/)
 * [2026-03-11, 19:07:12](https://news.ycombinator.com/item?id=47339818) - [Bus travel from Lima to Rio de Janeiro](https://kenschutte.com/lima-to-rio-by-bus/)
 * [2026-03-11, 18:39:25](https://news.ycombinator.com/item?id=47339463) - [//go:fix inline and the source-level inliner](https://go.dev/blog/inliner)
-* [2026-03-11, 13:30:31](https://news.ycombinator.com/item?id=47335325) - [Why Mathematica does not simplify sinh(arccosh(x))](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
 * [2026-03-11, 07:27:00](https://news.ycombinator.com/item?id=47332593) - [C++26: The Oxford Variadic Comma](https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma)
 * [2026-03-10, 15:20:27](https://news.ycombinator.com/item?id=47324478) - [Kniterate Notes](https://soup.agnescameron.info//2026/03/07/kniterate-notes.html)
 
