@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-15, 10:47:35",
+      "https://news.ycombinator.com/item?id=47386116"
+    ],
+    [
+      "A Visual Introduction to Machine Learning",
+      "https://r2d3.us/visual-intro-to-machine-learning-part-1/"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 09:06:35",
       "https://news.ycombinator.com/item?id=47385576"
     ],
@@ -211,22 +221,22 @@
   ],
   [
     [
+      "2026-03-13, 17:19:01",
+      "https://news.ycombinator.com/item?id=47367129"
+    ],
+    [
+      "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "https://claude.com/blog/1m-context-ga"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 12:51:15",
       "https://news.ycombinator.com/item?id=47349871"
     ],
     [
       "Slicing Bezier Surfaces",
       "https://fatih-erikli-potato.github.io/blog/slicing-bezier-surfaces.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 19:17:33",
-      "https://news.ycombinator.com/item?id=47339928"
-    ],
-    [
-      "The Passion of Will Self",
-      "https://www.newstatesman.com/culture/books/2026/03/the-passion-of-will-self"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The mechanics of autonomous software translation",
       "https://alperenkeles.com/posts/autonomous-translations/"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 15:18:39",
-      "https://news.ycombinator.com/item?id=47324448"
-    ],
-    [
-      "The Enterprise Context Layer",
-      "https://andychen32.substack.com/p/the-enterprise-context-layer"
     ]
   ]
 ]
