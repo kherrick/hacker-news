@@ -35,6 +35,7 @@
 * [2026-03-11, 16:21:06](https://news.ycombinator.com/item?id=47337607) - [Show HN: Site Spy – Track webpage changes with diffs, element picking, and RSS](https://sitespy.app)
 * [2026-03-11, 16:17:42](https://news.ycombinator.com/item?id=47337568) - [Refinement Modeling and Verification of RISC-V Assembly Using Knuckledragger](https://www.philipzucker.com/refine_assembly/)
 * [2026-03-11, 16:16:12](https://news.ycombinator.com/item?id=47337548) - [Launch HN: Prism (YC X25) – Workspace and API to generate and edit videos](https://www.prismvideos.com)
+* [2026-03-11, 16:07:00](https://news.ycombinator.com/item?id=47337423) - [An unappetizing shrub became different vegetables](https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are)
 * [2026-03-11, 15:54:23](https://news.ycombinator.com/item?id=47337249) - [Show HN: Klaus – OpenClaw on a VM, batteries included](https://klausai.com/)
 * [2026-03-11, 15:48:29](https://news.ycombinator.com/item?id=47337177) - [Where Some See Strings, She Sees a Space-Time Made of Fractals](https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/)
 * [2026-03-11, 15:48:11](https://news.ycombinator.com/item?id=47337168) - [Searching for the Agentic IDE](https://twitter.com/karpathy/status/2031616709560610993)

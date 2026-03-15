@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 05:36:00](https://news.ycombinator.com/item?id=47384619) - [Jeff Bezos Upended the Washington Post](https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html)
+* [2026-03-15, 04:50:08](https://news.ycombinator.com/item?id=47384467) - [Microslop](https://www.s-config.com/microslop/)
+* [2026-03-15, 04:23:43](https://news.ycombinator.com/item?id=47384352) - [Rack-Mount Hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
+* [2026-03-15, 03:29:17](https://news.ycombinator.com/item?id=47384032) - [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
 * [2026-03-15, 02:48:33](https://news.ycombinator.com/item?id=47383804) - [Treasure hunter freed from jail after refusing to turn over shipwreck gold](https://www.bbc.com/news/articles/cg4g7kn99q3o)
 * [2026-03-15, 01:27:25](https://news.ycombinator.com/item?id=47383298) - [Federal Surveillance Tech Becomes Mandatory in New Cars by 2027](https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027)
 * [2026-03-15, 00:51:55](https://news.ycombinator.com/item?id=47383059) - [Tree Search Distillation for Language Models Using PPO](https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/)
