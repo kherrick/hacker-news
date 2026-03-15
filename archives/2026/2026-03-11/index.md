@@ -9,6 +9,7 @@
 * [2026-03-11, 22:47:03](https://news.ycombinator.com/item?id=47343411) - [Building Better Country Selects](https://talysto.com/blog/building-better-country-selects/)
 * [2026-03-11, 22:29:42](https://news.ycombinator.com/item?id=47343156) - [Atlassian to cut roughly 1,600 jobs in pivot to AI](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
 * [2026-03-11, 21:23:24](https://news.ycombinator.com/item?id=47342139) - [AI productivity gains are 10%, not 10x](https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not)
+* [2026-03-11, 21:13:52](https://news.ycombinator.com/item?id=47341995) - [Type systems are leaky abstractions: the case of Map.take!/2](https://dashbit.co/blog/type-systems-are-leaky-abstractions-map-take)
 * [2026-03-11, 21:06:06](https://news.ycombinator.com/item?id=47341845) - [Britain is ejecting hereditary nobles from Parliament after 700 years](https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4)
 * [2026-03-11, 21:01:42](https://news.ycombinator.com/item?id=47341760) - [Meticulous (YC S21) is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
 * [2026-03-11, 20:56:52](https://news.ycombinator.com/item?id=47341645) - [Many SWE-bench-Passing PRs would not be merged](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/)

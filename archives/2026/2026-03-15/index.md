@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 22:16:09](https://news.ycombinator.com/item?id=47392550) - [Nasdaq's Shame](https://keubiko.substack.com/p/nasdaqs-shame)
+* [2026-03-15, 22:15:50](https://news.ycombinator.com/item?id=47392547) - [A new Bigfoot documentary helps explain our conspiracy-minded era](https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px)
+* [2026-03-15, 22:11:17](https://news.ycombinator.com/item?id=47392514) - [Kangina](https://en.wikipedia.org/wiki/Kangina)
+* [2026-03-15, 21:22:16](https://news.ycombinator.com/item?id=47392084) - [Canada's bill C-22 mandates mass metadata surveillance of Canadians](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)
 * [2026-03-15, 21:22:16](https://news.ycombinator.com/item?id=47392084) - [Canada's Bill C-22 Mandates Mass Metadata Surveillance of Canadians](https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-reading)
 * [2026-03-15, 21:12:37](https://news.ycombinator.com/item?id=47391982) - [Show HN: Lux – Drop-in Redis replacement in Rust. 5.6x faster, ~1MB Docker image](https://github.com/lux-db/lux)
 * [2026-03-15, 19:25:18](https://news.ycombinator.com/item?id=47390945) - [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
