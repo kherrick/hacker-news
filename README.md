@@ -23,7 +23,7 @@
 * [2026-03-14, 09:38:37](https://news.ycombinator.com/item?id=47374924) - [Mathematics Distillation Challenge – Equational Theories](https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/)
 * [2026-03-11, 19:17:33](https://news.ycombinator.com/item?id=47339928) - [The Passion of Will Self](https://www.newstatesman.com/culture/books/2026/03/the-passion-of-will-self)
 * [2026-03-11, 18:21:58](https://news.ycombinator.com/item?id=47339219) - [Baochip-1x: What it is, why I'm doing it now and how it came about](https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about)
-* [2026-03-11, 16:07:00](https://news.ycombinator.com/item?id=47337423) - [An unappetizing shrub became different vegetables](https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are)
+* [2026-03-11, 16:07:00](https://news.ycombinator.com/item?id=47337423) - [Centuries of selective breeding turned wild cabbage into different vegetables](https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are)
 * [2026-03-11, 15:42:26](https://news.ycombinator.com/item?id=47337087) - [A look inside Dialector, filmmaker Chris Marker's chatbot from 1988](https://kubicki.org/letters/the-festival-of-the-machines/)
 * [2026-03-11, 14:10:31](https://news.ycombinator.com/item?id=47335796) - [A Recursive Algorithm to Render Signed Distance Fields](https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/)
 * [2026-03-11, 13:30:31](https://news.ycombinator.com/item?id=47335325) - [Why Mathematica does not simplify sinh(arccosh(x))](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
