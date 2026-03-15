@@ -58,6 +58,7 @@
 * [2026-03-11, 13:37:24](https://news.ycombinator.com/item?id=47335416) - [MetaGenesis Core – offline verification for computational claims](https://www.metagenesis-core.dev/)
 * [2026-03-11, 13:33:33](https://news.ycombinator.com/item?id=47335369) - [Where did you think the training data was coming from?](https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses)
 * [2026-03-11, 13:32:12](https://news.ycombinator.com/item?id=47335349) - [The entities enabling scientific fraud at scale are large, resilient and growing](https://doi.org/10.1073/pnas.2420092122)
+* [2026-03-11, 13:30:31](https://news.ycombinator.com/item?id=47335325) - [Why Mathematica does not simplify sinh(arccosh(x))](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
 * [2026-03-11, 13:22:39](https://news.ycombinator.com/item?id=47335237) - [Lego's 0.002 mm Specification and Its Implications for Manufacturing (2025)](https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/)
 * [2026-03-11, 13:06:44](https://news.ycombinator.com/item?id=47335072) - [Hurricane Electric (HE.NET) IPv6 tunnelbroker page offline due to expired domain](https://tunnelbroker.net)
 * [2026-03-11, 12:57:41](https://news.ycombinator.com/item?id=47334982) - [Swiss e-voting pilot can't count 2,048 ballots after decryption failure](https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/)
