@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 18:22:36](https://news.ycombinator.com/item?id=47390233) - [Office.eu launches as Europe's sovereign office platform](https://office.eu/media/pressrelease-20260304)
 * [2026-03-15, 17:43:19](https://news.ycombinator.com/item?id=47389784) - [Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried)
 * [2026-03-15, 17:00:35](https://news.ycombinator.com/item?id=47389292) - [SuperTux 0.7.0](https://github.com/SuperTux/supertux/releases/tag/v0.7.0)
 * [2026-03-15, 16:16:16](https://news.ycombinator.com/item?id=47388830) - [Palantir defends its role in the kill chain: \"We are proud of that\"](https://www.heise.de/en/news/Palantir-defends-its-role-in-the-kill-chain-We-are-very-very-proud-of-that-11211275.html)
+* [2026-03-15, 16:01:09](https://news.ycombinator.com/item?id=47388676) - [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
 * [2026-03-15, 15:58:23](https://news.ycombinator.com/item?id=47388646) - [Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)
 * [2026-03-15, 15:46:19](https://news.ycombinator.com/item?id=47388531) - [In Memoriam: John W. Addison, my PhD advisor](https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/)
 * [2026-03-15, 15:45:24](https://news.ycombinator.com/item?id=47388519) - [UMD Scientists Create 'Smart Underwear' to Measure Human Flatulence](https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence)

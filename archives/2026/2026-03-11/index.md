@@ -23,6 +23,7 @@
 * [2026-03-11, 19:28:59](https://news.ycombinator.com/item?id=47340071) - [I'm glad the Anthropic fight is happening now](https://www.dwarkesh.com/p/dow-anthropic)
 * [2026-03-11, 19:17:33](https://news.ycombinator.com/item?id=47339928) - [The Passion of Will Self](https://www.newstatesman.com/culture/books/2026/03/the-passion-of-will-self)
 * [2026-03-11, 19:13:35](https://news.ycombinator.com/item?id=47339888) - [Hisense TVs force owners to watch intrusive ads](https://www.tomshardware.com/tech-industry/big-tech/hisense-tvs-force-owners-to-watch-intrusive-ads-when-switching-inputs-visiting-the-home-screen-or-even-changing-channels-practice-infuriates-consumers-brand-denies-wrongdoing)
+* [2026-03-11, 19:07:12](https://news.ycombinator.com/item?id=47339818) - [Bus travel from Lima to Rio de Janeiro](https://kenschutte.com/lima-to-rio-by-bus/)
 * [2026-03-11, 18:57:58](https://news.ycombinator.com/item?id=47339705) - [CRusTTY: A pedagogical C interpreter with time-travel debugging capabilities](https://github.com/aicheye/crustty)
 * [2026-03-11, 18:35:39](https://news.ycombinator.com/item?id=47339403) - [Atari 2600 BASIC Programming (2015)](https://huguesjohnson.com/programming/atari-2600-basic/)
 * [2026-03-11, 18:22:21](https://news.ycombinator.com/item?id=47339223) - [Personal Computer by Perplexity](https://www.perplexity.ai/personal-computer-waitlist)
