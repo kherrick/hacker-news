@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-03-15, 22:16:09",
+      "https://news.ycombinator.com/item?id=47392550"
+    ],
+    [
+      "Nasdaq's Shame",
+      "https://keubiko.substack.com/p/nasdaqs-shame"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 22:15:50",
+      "https://news.ycombinator.com/item?id=47392547"
+    ],
+    [
+      "A new Bigfoot documentary helps explain our conspiracy-minded era",
+      "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 22:11:17",
+      "https://news.ycombinator.com/item?id=47392514"
+    ],
+    [
+      "Kangina",
+      "https://en.wikipedia.org/wiki/Kangina"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 21:22:16",
       "https://news.ycombinator.com/item?id=47392084"
     ],
     [
-      "Canada's Bill C-22 Mandates Mass Metadata Surveillance of Canadians",
-      "https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-reading"
+      "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+      "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47390945"
     ],
     [
-      "The 49MB Web Page",
+      "The 49MB web page",
       "https://thatshubham.com/blog/news-audit"
     ]
   ],
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47390817"
     ],
     [
-      "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
+      "Chrome DevTools MCP",
       "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session"
     ]
   ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=47389784"
     ],
     [
-      "Grandparents are glued to their phones, families are worried [video]",
+      "Grandparents are glued to their phones [video]",
       "https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried"
     ]
   ],
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2026-03-15, 10:15:47",
-      "https://news.ycombinator.com/item?id=47385935"
-    ],
-    [
-      "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-      "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket"
-    ]
-  ],
-  [
-    [
       "2026-03-14, 08:35:42",
       "https://news.ycombinator.com/item?id=47374572"
     ],
@@ -241,22 +261,12 @@
   ],
   [
     [
-      "2026-03-12, 00:39:40",
-      "https://news.ycombinator.com/item?id=47344696"
+      "2026-03-11, 21:13:52",
+      "https://news.ycombinator.com/item?id=47341995"
     ],
     [
-      "Measure of Justice: Covering the Cerîde-I Adliye Covers (2017)",
-      "https://www.denizcemonduygu.com/2017/05/measure-of-justice/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 20:03:30",
-      "https://news.ycombinator.com/item?id=47340597"
-    ],
-    [
-      "Chasing the Ivory-Billed Woodpecker (2023)",
-      "https://gardenandgun.com/feature/chasing-the-ivory-billed-woodpecker/"
+      "Type systems are leaky abstractions: the case of Map.take!/2",
+      "https://dashbit.co/blog/type-systems-are-leaky-abstractions-map-take"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "C++26: The Oxford Variadic Comma",
       "https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 15:20:27",
-      "https://news.ycombinator.com/item?id=47324478"
-    ],
-    [
-      "Kniterate Notes",
-      "https://soup.agnescameron.info//2026/03/07/kniterate-notes.html"
     ]
   ]
 ]
