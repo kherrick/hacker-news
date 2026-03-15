@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-03-15, 16:16:16",
-      "https://news.ycombinator.com/item?id=47388830"
-    ],
-    [
-      "Palantir defends its role in the kill chain: \"We are proud of that\"",
-      "https://www.heise.de/en/news/Palantir-defends-its-role-in-the-kill-chain-We-are-very-very-proud-of-that-11211275.html"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 15:45:24",
       "https://news.ycombinator.com/item?id=47388519"
     ],
@@ -31,6 +21,16 @@
   ],
   [
     [
+      "2026-03-15, 15:21:04",
+      "https://news.ycombinator.com/item?id=47388273"
+    ],
+    [
+      "Learning athletic humanoid tennis skills from imperfect human motion data",
+      "https://zzk273.github.io/LATENT/"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 15:09:41",
       "https://news.ycombinator.com/item?id=47388141"
     ],
@@ -41,12 +41,22 @@
   ],
   [
     [
-      "2026-03-15, 14:56:45",
-      "https://news.ycombinator.com/item?id=47387997"
+      "2026-03-15, 15:09:24",
+      "https://news.ycombinator.com/item?id=47388137"
     ],
     [
-      "The Official DR DOS Website",
-      "https://www.dr-dos.com/"
+      "Separating the Wayland Compositor and Window Manager",
+      "https://isaacfreund.com/blog/river-window-management/"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 14:43:33",
+      "https://news.ycombinator.com/item?id=47387870"
+    ],
+    [
+      "The Webpage Has Instructions. The Agent Has Your Credentials",
+      "https://openguard.sh/blog/prompt-injections/"
     ]
   ],
   [
@@ -81,12 +91,32 @@
   ],
   [
     [
+      "2026-03-15, 12:41:56",
+      "https://news.ycombinator.com/item?id=47386856"
+    ],
+    [
+      "Hollywood Enters Oscars Weekend in Existential Crisis",
+      "https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 12:11:32",
       "https://news.ycombinator.com/item?id=47386651"
     ],
     [
       "Pentagon expands oversight of Stars and Stripes, limits content",
       "https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 12:09:30",
+      "https://news.ycombinator.com/item?id=47386636"
+    ],
+    [
+      "The 100 hour gap between a vibecoded prototype and a working product",
+      "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus"
     ]
   ],
   [
@@ -137,16 +167,6 @@
     [
       "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
       "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 08:04:55",
-      "https://news.ycombinator.com/item?id=47385272"
-    ],
-    [
-      "The Appalling Stupidity of Spotify's AI DJ",
-      "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2026-03-14, 20:49:10",
-      "https://news.ycombinator.com/item?id=47381011"
-    ],
-    [
-      "Bumblebee queens breathe underwater to survive drowning",
-      "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 12:51:15",
-      "https://news.ycombinator.com/item?id=47349871"
-    ],
-    [
-      "Slicing Bezier Surfaces",
-      "https://fatih-erikli-potato.github.io/blog/slicing-bezier-surfaces.html"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 09:55:48",
       "https://news.ycombinator.com/item?id=47348502"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-03-10, 16:44:33",
-      "https://news.ycombinator.com/item?id=47325699"
+      "2026-03-11, 10:39:24",
+      "https://news.ycombinator.com/item?id=47333885"
     ],
     [
-      "Trust no one: are one-way trusts one way?",
-      "https://offsec.almond.consulting/trust-no-one_are-one-way-trusts-really-one-way.html"
+      "Zipp 2001 Restoration",
+      "https://robot-daycare.com/posts/zipp-2001-restoration-part-1/"
     ]
   ],
   [
