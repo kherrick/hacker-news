@@ -48,6 +48,7 @@
 * [2026-03-12, 13:27:19](https://news.ycombinator.com/item?id=47350244) - [ArcaOS 5.1.2 (based on OS/2 Warp 4.52) now available](https://www.arcanoae.com/arcaos-5-1-2-now-available/)
 * [2026-03-12, 13:16:11](https://news.ycombinator.com/item?id=47350136) - [Long Overlooked as Crucial to Life, Fungi Start to Get Their Due](https://e360.yale.edu/features/fungi-kingdom)
 * [2026-03-12, 13:13:02](https://news.ycombinator.com/item?id=47350108) - [Show HN: Calyx – Ghostty-Based macOS Terminal with Liquid Glass UI](https://github.com/yuuichieguchi/Calyx)
+* [2026-03-12, 12:51:15](https://news.ycombinator.com/item?id=47349871) - [Slicing Bezier Surfaces](https://fatih-erikli-potato.github.io/blog/slicing-bezier-surfaces.html)
 * [2026-03-12, 12:44:45](https://news.ycombinator.com/item?id=47349806) - [US private credit defaults hit record 9.2% in 2025, Fitch says](https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d)
 * [2026-03-12, 12:43:26](https://news.ycombinator.com/item?id=47349798) - [US banks' exposure to private credit hits $300B](https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/)
 * [2026-03-12, 12:41:29](https://news.ycombinator.com/item?id=47349780) - [Emacs internals: Tagged pointers vs. C++ std:variant and LLVM (Part 3)](https://thecloudlet.github.io/blog/project/emacs-03/)

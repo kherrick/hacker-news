@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-15, 09:06:35](https://news.ycombinator.com/item?id=47385576) - [The enshittification of Amazon paperback books](https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/)
 * [2026-03-15, 08:04:55](https://news.ycombinator.com/item?id=47385272) - [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 * [2026-03-15, 04:23:43](https://news.ycombinator.com/item?id=47384352) - [Rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
 * [2026-03-15, 03:29:17](https://news.ycombinator.com/item?id=47384032) - [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
@@ -8,7 +9,6 @@
 * [2026-03-15, 00:15:10](https://news.ycombinator.com/item?id=47382791) - [How kernel anti-cheats work](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/)
 * [2026-03-14, 23:22:39](https://news.ycombinator.com/item?id=47382398) - [SBCL Fibers – Lightweight Cooperative Threads](https://atgreen.github.io/repl-yell/posts/sbcl-fibers/)
 * [2026-03-14, 23:10:24](https://news.ycombinator.com/item?id=47382277) - [Airbus is preparing two uncrewed combat aircraft](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
-* [2026-03-14, 22:41:28](https://news.ycombinator.com/item?id=47382072) - [Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net](https://github.com/groverburger/grobpaint)
 * [2026-03-14, 22:10:26](https://news.ycombinator.com/item?id=47381791) - [Ageless Linux – Software for humans of indeterminate age](https://agelesslinux.org/)
 * [2026-03-14, 22:03:47](https://news.ycombinator.com/item?id=47381736) - [Allow me to get to know you, mistakes and all](https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/)
 * [2026-03-14, 21:27:33](https://news.ycombinator.com/item?id=47381382) - [Show HN: Han – A Korean programming language written in Rust](https://github.com/xodn348/han)
@@ -21,6 +21,7 @@
 * [2026-03-14, 18:39:10](https://news.ycombinator.com/item?id=47379712) - [Hostile Volume – A game about adjusting volume with intentionally bad UI](https://hostilevolume.com/)
 * [2026-03-14, 16:01:23](https://news.ycombinator.com/item?id=47377998) - [An ode to bzip](https://purplesyringa.moe/blog/an-ode-to-bzip/)
 * [2026-03-14, 09:38:37](https://news.ycombinator.com/item?id=47374924) - [Mathematics Distillation Challenge – Equational Theories](https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/)
+* [2026-03-12, 12:51:15](https://news.ycombinator.com/item?id=47349871) - [Slicing Bezier Surfaces](https://fatih-erikli-potato.github.io/blog/slicing-bezier-surfaces.html)
 * [2026-03-11, 19:17:33](https://news.ycombinator.com/item?id=47339928) - [The Passion of Will Self](https://www.newstatesman.com/culture/books/2026/03/the-passion-of-will-self)
 * [2026-03-11, 18:21:58](https://news.ycombinator.com/item?id=47339219) - [Baochip-1x: What it is, why I'm doing it now and how it came about](https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about)
 * [2026-03-11, 16:07:00](https://news.ycombinator.com/item?id=47337423) - [Centuries of selective breeding turned wild cabbage into different vegetables](https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are)
@@ -28,7 +29,6 @@
 * [2026-03-11, 14:10:31](https://news.ycombinator.com/item?id=47335796) - [A Recursive Algorithm to Render Signed Distance Fields](https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/)
 * [2026-03-11, 13:30:31](https://news.ycombinator.com/item?id=47335325) - [Why Mathematica does not simplify sinh(arccosh(x))](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
 * [2026-03-11, 08:09:52](https://news.ycombinator.com/item?id=47332857) - [The mechanics of autonomous software translation](https://alperenkeles.com/posts/autonomous-translations/)
-* [2026-03-10, 19:22:39](https://news.ycombinator.com/item?id=47327703) - [Python: The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
 * [2026-03-10, 15:18:39](https://news.ycombinator.com/item?id=47324448) - [The Enterprise Context Layer](https://andychen32.substack.com/p/the-enterprise-context-layer)
 
 ## [Archives](archives/index.md)
