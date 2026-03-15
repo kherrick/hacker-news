@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 15:09:41](https://news.ycombinator.com/item?id=47388141) - [What makes Intel Optane stand out (2023)](https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/)
+* [2026-03-15, 14:56:45](https://news.ycombinator.com/item?id=47387997) - [The Official DR DOS Website](https://www.dr-dos.com/)
 * [2026-03-15, 14:51:28](https://news.ycombinator.com/item?id=47387956) - [The U.S. Mint dropped the olive branch from the dime](https://fortune.com/2026/03/12/us-mint-drops-olive-branch-dime-peace-war/)
 * [2026-03-15, 13:47:34](https://news.ycombinator.com/item?id=47387353) - [NetBlocks says Iran blackout enters day 16 as arrests target Starlink users](https://www.iranintl.com/en/202603157402)
 * [2026-03-15, 13:08:02](https://news.ycombinator.com/item?id=47387047) - [Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories](https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode)

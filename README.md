@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-15, 14:51:28](https://news.ycombinator.com/item?id=47387956) - [The U.S. Mint dropped the olive branch from the dime](https://fortune.com/2026/03/12/us-mint-drops-olive-branch-dime-peace-war/)
+* [2026-03-15, 15:09:41](https://news.ycombinator.com/item?id=47388141) - [What makes Intel Optane stand out (2023)](https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/)
+* [2026-03-15, 14:56:45](https://news.ycombinator.com/item?id=47387997) - [The Official DR DOS Website](https://www.dr-dos.com/)
 * [2026-03-15, 13:08:02](https://news.ycombinator.com/item?id=47387047) - [Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories](https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode)
-* [2026-03-15, 12:59:31](https://news.ycombinator.com/item?id=47386993) - [Small U.S. town, big company. Can it weather the tariff Blizzard? (Digi-Key) (2025)](https://www.npr.org/2025/04/24/nx-s1-5332209/digikey-tariff-small-minnesota-town-big-company)
 * [2026-03-15, 12:58:13](https://news.ycombinator.com/item?id=47386983) - [Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?](https://octetta.github.io/k-synth/)
 * [2026-03-15, 12:48:17](https://news.ycombinator.com/item?id=47386908) - [A Theory of the World as run by large adult children](https://tomclancy.info/harold-and-george.html)
 * [2026-03-15, 12:11:32](https://news.ycombinator.com/item?id=47386651) - [Pentagon expands oversight of Stars and Stripes, limits content](https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html)
