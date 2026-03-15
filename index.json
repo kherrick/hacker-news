@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-15, 19:25:18",
+      "https://news.ycombinator.com/item?id=47390945"
+    ],
+    [
+      "The 49MB Web Page",
+      "https://thatshubham.com/blog/news-audit"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 19:12:53",
       "https://news.ycombinator.com/item?id=47390817"
     ],
     [
       "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
       "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 18:22:36",
+      "https://news.ycombinator.com/item?id=47390233"
+    ],
+    [
+      "Office.eu launches as Europe's sovereign office platform",
+      "https://office.eu/media/pressrelease-20260304"
     ]
   ],
   [
@@ -31,22 +51,22 @@
   ],
   [
     [
+      "2026-03-15, 15:58:23",
+      "https://news.ycombinator.com/item?id=47388646"
+    ],
+    [
+      "Ask HN: How is AI-assisted coding going for you professionally?",
+      "https://news.ycombinator.com/item?id=47388646"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 15:46:19",
       "https://news.ycombinator.com/item?id=47388531"
     ],
     [
       "In Memoriam: John W. Addison, my PhD advisor",
       "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 15:45:24",
-      "https://news.ycombinator.com/item?id=47388519"
-    ],
-    [
-      "UMD Scientists Create 'Smart Underwear' to Measure Human Flatulence",
-      "https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-03-15, 02:48:33",
-      "https://news.ycombinator.com/item?id=47383804"
-    ],
-    [
-      "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-      "https://www.bbc.com/news/articles/cg4g7kn99q3o"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 00:15:10",
       "https://news.ycombinator.com/item?id=47382791"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-03-12, 09:55:48",
-      "https://news.ycombinator.com/item?id=47348502"
-    ],
-    [
-      "Human Organ Atlas",
-      "https://www.science.org/doi/10.1126/sciadv.adz2240"
-    ]
-  ],
-  [
-    [
       "2026-03-11, 19:07:12",
       "https://news.ycombinator.com/item?id=47339818"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2026-03-11, 18:39:25",
+      "https://news.ycombinator.com/item?id=47339463"
+    ],
+    [
+      "//go:fix inline and the source-level inliner",
+      "https://go.dev/blog/inliner"
+    ]
+  ],
+  [
+    [
       "2026-03-11, 13:30:31",
       "https://news.ycombinator.com/item?id=47335325"
     ],
     [
       "Why Mathematica does not simplify sinh(arccosh(x))",
       "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 10:39:24",
-      "https://news.ycombinator.com/item?id=47333885"
-    ],
-    [
-      "Zipp 2001 Restoration",
-      "https://robot-daycare.com/posts/zipp-2001-restoration-part-1/"
     ]
   ],
   [
