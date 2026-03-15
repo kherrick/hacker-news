@@ -33,6 +33,7 @@
 * [2026-03-10, 16:18:40](https://news.ycombinator.com/item?id=47325296) - [Show HN: What was the world listening to? Music charts, 20 countries (1940–2025)](https://88mph.fm/)
 * [2026-03-10, 16:17:55](https://news.ycombinator.com/item?id=47325280) - [Ad-tech is fascist tech](https://pluralistic.net/2026/03/10/ice-tech/#foreseeable-outcomes)
 * [2026-03-10, 15:35:19](https://news.ycombinator.com/item?id=47324691) - [Throwing away 18 months of code and starting over](https://tompiagg.io/posts/we-threw-away-1-5-years-of-code)
+* [2026-03-10, 15:20:27](https://news.ycombinator.com/item?id=47324478) - [Kniterate Notes](https://soup.agnescameron.info//2026/03/07/kniterate-notes.html)
 * [2026-03-10, 15:18:39](https://news.ycombinator.com/item?id=47324448) - [The Enterprise Context Layer](https://andychen32.substack.com/p/the-enterprise-context-layer)
 * [2026-03-10, 15:12:52](https://news.ycombinator.com/item?id=47324364) - [Surpassing vLLM with a Generated Inference Stack](https://infinity.inc/case-studies/qwen3-optimization)
 * [2026-03-10, 15:08:05](https://news.ycombinator.com/item?id=47324296) - [Launch HN: Didit (YC W26) – Stripe for Identity Verification](https://news.ycombinator.com/item?id=47324296)
