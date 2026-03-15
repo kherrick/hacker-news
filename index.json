@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-03-15, 01:27:25",
-      "https://news.ycombinator.com/item?id=47383298"
+      "2026-03-15, 02:48:33",
+      "https://news.ycombinator.com/item?id=47383804"
     ],
     [
-      "Federal Surveillance Tech Becomes Mandatory in New Cars by 2027",
-      "https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027"
+      "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
+      "https://www.bbc.com/news/articles/cg4g7kn99q3o"
     ]
   ],
   [
@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-03-15, 00:08:22",
-      "https://news.ycombinator.com/item?id=47382739"
-    ],
-    [
-      "FCC chairman threatens TV broadcast licenses over news coverage",
-      "https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/"
-    ]
-  ],
-  [
-    [
       "2026-03-14, 23:22:39",
       "https://news.ycombinator.com/item?id=47382398"
     ],
@@ -57,16 +47,6 @@
     [
       "Airbus is preparing two uncrewed combat aircraft",
       "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 23:00:05",
-      "https://news.ycombinator.com/item?id=47382196"
-    ],
-    [
-      "Hazardous substances found in all headphones tested by ToxFREE project",
-      "https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals"
     ]
   ],
   [
@@ -97,6 +77,16 @@
     [
       "Changes to OpenTTD Distribution on Steam",
       "https://www.openttd.org/news/2026/03/14/steam-changes"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 22:03:47",
+      "https://news.ycombinator.com/item?id=47381736"
+    ],
+    [
+      "Allow me to get to know you, mistakes and all",
+      "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/"
     ]
   ],
   [
@@ -211,12 +201,22 @@
   ],
   [
     [
-      "2026-03-14, 13:45:04",
-      "https://news.ycombinator.com/item?id=47376619"
+      "2026-03-14, 13:41:25",
+      "https://news.ycombinator.com/item?id=47376584"
     ],
     [
-      "9 Mothers Defense (YC P26) Is Hiring in Austin",
-      "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q"
+      "Show HN: GitAgent – An open standard that turns any Git repo into an AI agent",
+      "https://www.gitagent.sh/"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 09:38:37",
+      "https://news.ycombinator.com/item?id=47374924"
+    ],
+    [
+      "Mathematics Distillation Challenge – Equational Theories",
+      "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/"
     ]
   ],
   [
@@ -231,12 +231,52 @@
   ],
   [
     [
+      "2026-03-13, 17:19:01",
+      "https://news.ycombinator.com/item?id=47367129"
+    ],
+    [
+      "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "https://claude.com/blog/1m-context-ga"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 05:40:14",
+      "https://news.ycombinator.com/item?id=47346920"
+    ],
+    [
+      "Making Sense of the DXY",
+      "https://dm13450.github.io/2026/03/10/Making-Sense-of-the-DXY.html"
+    ]
+  ],
+  [
+    [
       "2026-03-11, 18:21:58",
       "https://news.ycombinator.com/item?id=47339219"
     ],
     [
       "Baochip-1x: What it is, why I'm doing it now and how it came about",
       "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 16:17:42",
+      "https://news.ycombinator.com/item?id=47337568"
+    ],
+    [
+      "Refinement Modeling and Verification of RISC-V Assembly Using Knuckledragger",
+      "https://www.philipzucker.com/refine_assembly/"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 15:42:26",
+      "https://news.ycombinator.com/item?id=47337087"
+    ],
+    [
+      "A look inside Dialector, filmmaker Chris Marker's chatbot from 1988",
+      "https://kubicki.org/letters/the-festival-of-the-machines/"
     ]
   ],
   [
@@ -257,46 +297,6 @@
     [
       "Python: The Optimization Ladder",
       "https://cemrehancavdar.com/2026/03/10/optimization-ladder/"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 16:38:12",
-      "https://news.ycombinator.com/item?id=47325606"
-    ],
-    [
-      "From Braun T3 to Apple's iPod",
-      "https://drams.framer.website/journal/from-braun-t3-to-apples-ipod"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 10:41:00",
-      "https://news.ycombinator.com/item?id=47321469"
-    ],
-    [
-      "Deriving Type Erasure",
-      "https://david.alvarezrosa.com/posts/deriving-type-erasure/"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 09:31:19",
-      "https://news.ycombinator.com/item?id=47320921"
-    ],
-    [
-      "Making your JITted Code known: Let me count the ways",
-      "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 08:41:37",
-      "https://news.ycombinator.com/item?id=47320571"
-    ],
-    [
-      "Offloading FFmpeg with Cloudflare",
-      "https://kentcdodds.com/blog/offloading-ffmpeg-with-cloudflare"
     ]
   ]
 ]
