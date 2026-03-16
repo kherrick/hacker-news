@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-16, 04:09:50",
+      "https://news.ycombinator.com/item?id=47395147"
+    ],
+    [
+      "ASCII and Unicode quotation marks (2007)",
+      "https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html"
+    ]
+  ],
+  [
+    [
       "2026-03-16, 01:58:56",
       "https://news.ycombinator.com/item?id=47394264"
     ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=47392084"
     ],
     [
-      "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+      "Canada's bill C-22 mandates mass metadata surveillance",
       "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/"
     ]
   ],
@@ -137,16 +147,6 @@
     [
       "LLM Architecture Gallery",
       "https://sebastianraschka.com/llm-architecture-gallery/"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 15:46:19",
-      "https://news.ycombinator.com/item?id=47388531"
-    ],
-    [
-      "In Memoriam: John W. Addison, my PhD advisor",
-      "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2026-03-12, 12:11:20",
+      "https://news.ycombinator.com/item?id=47349499"
+    ],
+    [
+      "How far can you go with IX Route Servers only?",
+      "https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers"
+    ]
+  ],
+  [
+    [
       "2026-03-11, 23:24:22",
       "https://news.ycombinator.com/item?id=47343902"
     ],
     [
       "What every computer scientist should know about floating-point arithmetic (1991) [pdf]",
       "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 21:13:52",
-      "https://news.ycombinator.com/item?id=47341995"
-    ],
-    [
-      "Type systems are leaky abstractions: the case of Map.take!/2",
-      "https://dashbit.co/blog/type-systems-are-leaky-abstractions-map-take"
     ]
   ],
   [
