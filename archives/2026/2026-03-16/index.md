@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 17:17:57](https://news.ycombinator.com/item?id=47401879) - [Kevin Boone: The \"small web\" is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
+* [2026-03-16, 17:09:34](https://news.ycombinator.com/item?id=47401766) - [Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure](https://www.usechamber.io/)
+* [2026-03-16, 17:07:37](https://news.ycombinator.com/item?id=47401734) - [Speed at the Cost of Quality. Study of Use of Cursor AI in Open Source Projects](https://arxiv.org/abs/2511.04427)
+* [2026-03-16, 17:00:17](https://news.ycombinator.com/item?id=47401618) - [Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs](https://www.kaizenautomation.com/careers)
 * [2026-03-16, 16:21:07](https://news.ycombinator.com/item?id=47401042) - [Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps](https://news.ycombinator.com/item?id=47401042)
 * [2026-03-16, 15:25:36](https://news.ycombinator.com/item?id=47400261) - [MCP Server Is Eating Your Context Window. There's a Simpler Way](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
 * [2026-03-16, 15:10:30](https://news.ycombinator.com/item?id=47400060) - [US Job Market Visualizer – Andrej Karpathy](https://karpathy.ai/jobs/)
