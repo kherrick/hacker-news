@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 15:25:36](https://news.ycombinator.com/item?id=47400261) - [MCP Server Is Eating Your Context Window. There's a Simpler Way](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
+* [2026-03-16, 13:45:29](https://news.ycombinator.com/item?id=47398971) - [FreeBSD risks losing relevance by ignoring AI tooling like Claude Code](https://discoverbsd.com/p/8a7660c31b)
 * [2026-03-16, 13:09:58](https://news.ycombinator.com/item?id=47398534) - [My Journey to a reliable and enjoyable locally hosted voice assistant](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860)
+* [2026-03-16, 13:05:33](https://news.ycombinator.com/item?id=47398479) - ['Pokémon Go' players unknowingly trained delivery robots with 30B images](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)
 * [2026-03-16, 13:01:48](https://news.ycombinator.com/item?id=47398441) - [Show HN: Hackerbrief – Top posts on Hacker News summarized daily](https://hackerbrief.vercel.app/)
 * [2026-03-16, 12:30:16](https://news.ycombinator.com/item?id=47398080) - [Even Faster Asin() Was Staring Right at Me](https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/)
 * [2026-03-16, 12:25:18](https://news.ycombinator.com/item?id=47398023) - [Comparing Python Type Checkers: Typing Spec Conformance](https://pyrefly.org/blog/typing-conformance-comparison/)
