@@ -36,6 +36,7 @@
 * [2026-03-11, 18:17:30](https://news.ycombinator.com/item?id=47339164) - [I was interviewed by an AI bot for a job](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 * [2026-03-11, 18:17:30](https://news.ycombinator.com/item?id=47339164) - [I Was Interviewed by an AI Bot for a Job](https://schwarztech.net/snippets/i-was-interviewed-by-an-ai-bot-for-a-job)
 * [2026-03-11, 17:59:19](https://news.ycombinator.com/item?id=47338935) - [An interactive presentation about the Grammar of Graphic](https://timeplus-io.github.io/gg-vistral-introduction/)
+* [2026-03-11, 17:14:19](https://news.ycombinator.com/item?id=47338338) - [Simple, fast and open-source PHP framework frozen in C-extension](https://www.iceframework.org/)
 * [2026-03-11, 16:56:51](https://news.ycombinator.com/item?id=47338091) - [Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids](https://fuelingcuriosity.com/game.html)
 * [2026-03-11, 16:53:11](https://news.ycombinator.com/item?id=47338055) - [Fungal Electronics](https://arxiv.org/abs/2111.11231)
 * [2026-03-11, 16:24:17](https://news.ycombinator.com/item?id=47337659) - [Launch HN: Sentrial (YC W26) – Catch AI Agent Failures Before Your Users Do](https://www.sentrial.com/)

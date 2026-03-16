@@ -4,10 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 13:09:58](https://news.ycombinator.com/item?id=47398534) - [My Journey to a reliable and enjoyable locally hosted voice assistant](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860)
 * [2026-03-16, 13:01:48](https://news.ycombinator.com/item?id=47398441) - [Show HN: Hackerbrief – Top posts on Hacker News summarized daily](https://hackerbrief.vercel.app/)
+* [2026-03-16, 12:30:16](https://news.ycombinator.com/item?id=47398080) - [Even Faster Asin() Was Staring Right at Me](https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/)
+* [2026-03-16, 12:25:18](https://news.ycombinator.com/item?id=47398023) - [Comparing Python Type Checkers: Typing Spec Conformance](https://pyrefly.org/blog/typing-conformance-comparison/)
+* [2026-03-16, 12:13:59](https://news.ycombinator.com/item?id=47397920) - [Obsession with growth is destroying nature, 150 countries warn](https://www.politico.eu/article/obsession-with-growth-destroying-nature-150-countries-warn/)
+* [2026-03-16, 12:09:44](https://news.ycombinator.com/item?id=47397883) - [Bringing Semiconductors to Kazakhstan](https://www.siliconimist.com/p/bringing-semiconductors-to-kazakhstan)
+* [2026-03-16, 12:05:08](https://news.ycombinator.com/item?id=47397857) - [Lazycut: A simple terminal video trimmer using FFmpeg](https://github.com/emin-ozata/lazycut)
 * [2026-03-16, 12:03:13](https://news.ycombinator.com/item?id=47397842) - [Nango (YC W23, API Access for Agents and Apps) Is Hiring](https://jobs.ashbyhq.com/Nango)
 * [2026-03-16, 12:00:06](https://news.ycombinator.com/item?id=47397822) - [Polymarket gamblers threaten to kill me over Iran missile story](https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/)
+* [2026-03-16, 11:57:33](https://news.ycombinator.com/item?id=47397797) - [MoD sources warn Palantir role at heart of government is threat to UK security](https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets)
 * [2026-03-16, 11:25:31](https://news.ycombinator.com/item?id=47397593) - [Corruption erodes social trust more in democracies than in autocracies](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full)
+* [2026-03-16, 11:23:14](https://news.ycombinator.com/item?id=47397574) - [I Love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/)
 * [2026-03-16, 11:16:39](https://news.ycombinator.com/item?id=47397528) - [Scientists discover a surprising way to quiet the anxious mind (2025)](https://www.sciencedaily.com/releases/2025/10/251027023816.htm)
 * [2026-03-16, 10:41:01](https://news.ycombinator.com/item?id=47397291) - [Linux 7.1 to Retire UDP-Lite – Allows for Better Performance with Cleansed Code](https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite)
 * [2026-03-16, 10:24:02](https://news.ycombinator.com/item?id=47397190) - [Ask HN: What is it like being in a CS major program these days?](https://news.ycombinator.com/item?id=47397190)
