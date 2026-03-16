@@ -25,18 +25,8 @@
       "https://news.ycombinator.com/item?id=47402640"
     ],
     [
-      "Meta’s Renewed Commitment to jemalloc",
+      "Meta’s renewed commitment to jemalloc",
       "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 17:35:58",
-      "https://news.ycombinator.com/item?id=47402118"
-    ],
-    [
-      "Agent Skills – Open Security Database",
-      "https://index.tego.security/skills/"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "US Job Market Visualizer",
       "https://karpathy.ai/jobs/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 14:21:07",
+      "https://news.ycombinator.com/item?id=47399437"
+    ],
+    [
+      "Event Publisher enables event integration between Keycloak and OpenFGA",
+      "https://github.com/embesozzi/keycloak-openfga-event-publisher"
     ]
   ],
   [
