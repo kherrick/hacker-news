@@ -1,22 +1,92 @@
 [
   [
     [
-      "2026-03-15, 23:34:35",
-      "https://news.ycombinator.com/item?id=47393225"
+      "2026-03-16, 02:02:12",
+      "https://news.ycombinator.com/item?id=47394291"
     ],
     [
-      "Excel incorrectly assumes that the year 1900 is a leap year",
-      "https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year"
+      "AI tools are making me lose interest in CS fundamentals",
+      "https://news.ycombinator.com/item?id=47394291"
     ]
   ],
   [
     [
-      "2026-03-15, 22:29:46",
-      "https://news.ycombinator.com/item?id=47392677"
+      "2026-03-16, 01:58:56",
+      "https://news.ycombinator.com/item?id=47394264"
     ],
     [
-      "Show HN: Open-source playground to red-team AI agents with exploits published",
-      "https://github.com/fabraix/playground"
+      "Federal Right to Privacy Act – Draft legislation",
+      "https://righttoprivacyact.github.io"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 01:24:09",
+      "https://news.ycombinator.com/item?id=47394022"
+    ],
+    [
+      "How I write software with LLMs",
+      "https://www.stavros.io/posts/how-i-write-software-with-llms/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 01:21:39",
+      "https://news.ycombinator.com/item?id=47394004"
+    ],
+    [
+      "Quillx is an open standard for disclosing AI involvement in software projects",
+      "https://github.com/QAInsights/AIx"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 01:11:52",
+      "https://news.ycombinator.com/item?id=47393941"
+    ],
+    [
+      "I built an ephemeral P2P chat with WebRTC, without servers",
+      "https://ephemchat.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 01:07:47",
+      "https://news.ycombinator.com/item?id=47393908"
+    ],
+    [
+      "What Is Agentic Engineering?",
+      "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 00:51:18",
+      "https://news.ycombinator.com/item?id=47393805"
+    ],
+    [
+      "An experiment to use GitHub Actions as a control plane for a PaaS",
+      "https://towlion.github.io"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 00:22:48",
+      "https://news.ycombinator.com/item?id=47393619"
+    ],
+    [
+      "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
+      "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 23:51:26",
+      "https://news.ycombinator.com/item?id=47393388"
+    ],
+    [
+      "The Linux Programming Interface as a university course text",
+      "https://man7.org/tlpi/academic/index.html"
     ]
   ],
   [
@@ -37,16 +107,6 @@
     [
       "A new Bigfoot documentary helps explain our conspiracy-minded era",
       "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 22:11:17",
-      "https://news.ycombinator.com/item?id=47392514"
-    ],
-    [
-      "Kangina",
-      "https://en.wikipedia.org/wiki/Kangina"
     ]
   ],
   [
@@ -101,26 +161,6 @@
   ],
   [
     [
-      "2026-03-15, 18:04:34",
-      "https://news.ycombinator.com/item?id=47390021"
-    ],
-    [
-      "Animated 'Firefly' Reboot in Development from Nathan Fillion, 20th TV",
-      "https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 17:43:19",
-      "https://news.ycombinator.com/item?id=47389784"
-    ],
-    [
-      "Grandparents are glued to their phones [video]",
-      "https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 17:25:00",
       "https://news.ycombinator.com/item?id=47389570"
     ],
@@ -141,32 +181,12 @@
   ],
   [
     [
-      "2026-03-15, 15:58:23",
-      "https://news.ycombinator.com/item?id=47388646"
-    ],
-    [
-      "Ask HN: How is AI-assisted coding going for you professionally?",
-      "https://news.ycombinator.com/item?id=47388646"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 15:46:19",
       "https://news.ycombinator.com/item?id=47388531"
     ],
     [
       "In Memoriam: John W. Addison, my PhD advisor",
       "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 15:40:13",
-      "https://news.ycombinator.com/item?id=47388479"
-    ],
-    [
-      "Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300",
-      "https://firthemouse.github.io/"
     ]
   ],
   [
@@ -205,38 +225,8 @@
       "https://news.ycombinator.com/item?id=47387047"
     ],
     [
-      "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
+      "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
       "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 12:58:13",
-      "https://news.ycombinator.com/item?id=47386983"
-    ],
-    [
-      "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
-      "https://octetta.github.io/k-synth/"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 12:41:56",
-      "https://news.ycombinator.com/item?id=47386856"
-    ],
-    [
-      "Hollywood Enters Oscars Weekend in Existential Crisis",
-      "https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 12:01:00",
-      "https://news.ycombinator.com/item?id=47386581"
-    ],
-    [
-      "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
-      "https://signet.watch"
     ]
   ],
   [
@@ -251,12 +241,32 @@
   ],
   [
     [
-      "2026-03-14, 08:35:42",
-      "https://news.ycombinator.com/item?id=47374572"
+      "2026-03-15, 09:06:35",
+      "https://news.ycombinator.com/item?id=47385576"
     ],
     [
-      "Autoresearch Hub",
-      "http://autoresearchhub.com/"
+      "The emergence of print-on-demand Amazon paperback books",
+      "https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 20:41:51",
+      "https://news.ycombinator.com/item?id=47356782"
+    ],
+    [
+      "A Plain Anabaptist Story: The Hutterites",
+      "https://ulmer457718.substack.com/p/a-plain-anabaptist-story-the-hutterites"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 14:10:56",
+      "https://news.ycombinator.com/item?id=47350763"
+    ],
+    [
+      "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
+      "https://www.youtube.com/watch?v=HK0uAKkt0AE"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "//go:fix inline and the source-level inliner",
       "https://go.dev/blog/inliner"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 07:27:00",
-      "https://news.ycombinator.com/item?id=47332593"
-    ],
-    [
-      "C++26: The Oxford Variadic Comma",
-      "https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma"
     ]
   ]
 ]
