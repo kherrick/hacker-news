@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-03-16, 15:25:36",
+      "https://news.ycombinator.com/item?id=47400261"
+    ],
+    [
+      "MCP Server Is Eating Your Context Window. There's a Simpler Way",
+      "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 13:45:29",
+      "https://news.ycombinator.com/item?id=47398971"
+    ],
+    [
+      "FreeBSD risks losing relevance by ignoring AI tooling like Claude Code",
+      "https://discoverbsd.com/p/8a7660c31b"
+    ]
+  ],
+  [
+    [
       "2026-03-16, 13:09:58",
       "https://news.ycombinator.com/item?id=47398534"
     ],
     [
       "My Journey to a reliable and enjoyable locally hosted voice assistant",
       "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 13:05:33",
+      "https://news.ycombinator.com/item?id=47398479"
+    ],
+    [
+      "'Pokémon Go' players unknowingly trained delivery robots with 30B images",
+      "https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-03-15, 23:51:26",
-      "https://news.ycombinator.com/item?id=47393388"
-    ],
-    [
-      "The Linux Programming Interface as a university course text",
-      "https://man7.org/tlpi/academic/index.html"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 21:22:16",
       "https://news.ycombinator.com/item?id=47392084"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-03-15, 15:09:24",
-      "https://news.ycombinator.com/item?id=47388137"
-    ],
-    [
-      "Separating the Wayland compositor and window manager",
-      "https://isaacfreund.com/blog/river-window-management/"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 09:07:52",
       "https://news.ycombinator.com/item?id=47385579"
     ],
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2026-03-15, 09:06:35",
-      "https://news.ycombinator.com/item?id=47385576"
+      "2026-03-14, 08:35:42",
+      "https://news.ycombinator.com/item?id=47374572"
     ],
     [
-      "The emergence of print-on-demand Amazon paperback books",
-      "https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 17:49:54",
-      "https://news.ycombinator.com/item?id=47367443"
-    ],
-    [
-      "The Accidental Room (2018)",
-      "https://99percentinvisible.org/episode/the-accidental-room/"
+      "Autoresearch Hub",
+      "http://autoresearchhub.com/"
     ]
   ],
   [
