@@ -16,6 +16,7 @@
 * [2026-03-11, 21:01:42](https://news.ycombinator.com/item?id=47341760) - [Meticulous (YC S21) is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
 * [2026-03-11, 20:56:52](https://news.ycombinator.com/item?id=47341645) - [Many SWE-bench-Passing PRs would not be merged](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/)
 * [2026-03-11, 20:46:24](https://news.ycombinator.com/item?id=47341432) - [New 'negative light' technology hides data transfers in plain sight](https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight)
+* [2026-03-11, 20:40:51](https://news.ycombinator.com/item?id=47341321) - [Where does engineering go? Retreat findings and insights [pdf]](https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/tw_future%20_of_software_development_retreat_%20key_takeaways.pdf)
 * [2026-03-11, 20:24:20](https://news.ycombinator.com/item?id=47341007) - [Iran warns U.S. tech firms could become targets as war expands](https://www.wired.me/story/war-on-big-tech-iran-names-israeli-linked-us-firms-as-potential-targets)
 * [2026-03-11, 20:20:22](https://news.ycombinator.com/item?id=47340935) - [The dead Internet is not a theory anymore](https://www.adriankrebs.ch/blog/dead-internet/)
 * [2026-03-11, 20:12:36](https://news.ycombinator.com/item?id=47340768) - [What Is a Tort?](https://harvardlawreview.org/print/vol-139/what-is-a-tort/)

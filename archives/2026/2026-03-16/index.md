@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 18:38:14](https://news.ycombinator.com/item?id=47402950) - [Palestinian boy, 12, describes how Israeli forces killed his family in car](https://www.bbc.com/news/articles/c70n2x7p22do)
 * [2026-03-16, 18:13:18](https://news.ycombinator.com/item?id=47402651) - [The return-to-the-office trend backfires](https://thehill.com/opinion/technology/5775420-remote-first-productivity-growth/)
 * [2026-03-16, 18:12:32](https://news.ycombinator.com/item?id=47402640) - [Jemalloc Un-Abandoned by Meta](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
+* [2026-03-16, 17:35:58](https://news.ycombinator.com/item?id=47402118) - [Agent Skills – Open Security Database](https://index.tego.security/skills/)
 * [2026-03-16, 17:19:13](https://news.ycombinator.com/item?id=47401901) - [Language Model Teams as Distrbuted Systems](https://arxiv.org/abs/2603.12229)
 * [2026-03-16, 17:17:57](https://news.ycombinator.com/item?id=47401879) - [Kevin Boone: The \"small web\" is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
 * [2026-03-16, 17:09:34](https://news.ycombinator.com/item?id=47401766) - [Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure](https://www.usechamber.io/)
