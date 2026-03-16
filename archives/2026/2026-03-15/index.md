@@ -17,6 +17,7 @@
 * [2026-03-15, 20:56:21](https://news.ycombinator.com/item?id=47391803) - [LLMs can be exhausting](https://tomjohnell.com/llms-can-be-absolutely-exhausting/)
 * [2026-03-15, 19:25:18](https://news.ycombinator.com/item?id=47390945) - [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
 * [2026-03-15, 19:12:53](https://news.ycombinator.com/item?id=47390817) - [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
+* [2026-03-15, 18:56:58](https://news.ycombinator.com/item?id=47390609) - [The \"are you sure?\" Problem: Why AI keeps changing its mind](https://www.randalolson.com/2026/02/07/the-are-you-sure-problem-why-your-ai-keeps-changing-its-mind/)
 * [2026-03-15, 18:22:36](https://news.ycombinator.com/item?id=47390233) - [Office.eu launches as Europe's sovereign office platform](https://office.eu/media/pressrelease-20260304)
 * [2026-03-15, 18:04:34](https://news.ycombinator.com/item?id=47390021) - [Animated 'Firefly' Reboot in Development from Nathan Fillion, 20th TV](https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/)
 * [2026-03-15, 17:43:19](https://news.ycombinator.com/item?id=47389784) - [Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried)

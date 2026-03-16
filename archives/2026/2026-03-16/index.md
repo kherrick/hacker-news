@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 13:01:48](https://news.ycombinator.com/item?id=47398441) - [Show HN: Hackerbrief – Top posts on Hacker News summarized daily](https://hackerbrief.vercel.app/)
+* [2026-03-16, 12:03:13](https://news.ycombinator.com/item?id=47397842) - [Nango (YC W23, API Access for Agents and Apps) Is Hiring](https://jobs.ashbyhq.com/Nango)
+* [2026-03-16, 12:00:06](https://news.ycombinator.com/item?id=47397822) - [Polymarket gamblers threaten to kill me over Iran missile story](https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/)
+* [2026-03-16, 11:25:31](https://news.ycombinator.com/item?id=47397593) - [Corruption erodes social trust more in democracies than in autocracies](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full)
 * [2026-03-16, 11:16:39](https://news.ycombinator.com/item?id=47397528) - [Scientists discover a surprising way to quiet the anxious mind (2025)](https://www.sciencedaily.com/releases/2025/10/251027023816.htm)
 * [2026-03-16, 10:41:01](https://news.ycombinator.com/item?id=47397291) - [Linux 7.1 to Retire UDP-Lite – Allows for Better Performance with Cleansed Code](https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite)
 * [2026-03-16, 10:24:02](https://news.ycombinator.com/item?id=47397190) - [Ask HN: What is it like being in a CS major program these days?](https://news.ycombinator.com/item?id=47397190)
