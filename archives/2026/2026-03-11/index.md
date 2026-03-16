@@ -6,6 +6,7 @@
 
 * [2026-03-11, 23:27:18](https://news.ycombinator.com/item?id=47343935) - [Show HN: Autoresearch_at_home – SETI_at_home but for LLM training](https://www.ensue-network.ai/autoresearch)
 * [2026-03-11, 23:26:25](https://news.ycombinator.com/item?id=47343927) - [Show HN: A context-aware permission guard for Claude Code](https://github.com/manuelschipper/nah/)
+* [2026-03-11, 23:24:22](https://news.ycombinator.com/item?id=47343902) - [What every computer scientist should know about floating-point arithmetic (1991) [pdf]](https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf)
 * [2026-03-11, 22:47:03](https://news.ycombinator.com/item?id=47343411) - [Building Better Country Selects](https://talysto.com/blog/building-better-country-selects/)
 * [2026-03-11, 22:29:42](https://news.ycombinator.com/item?id=47343156) - [Atlassian to cut roughly 1,600 jobs in pivot to AI](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
 * [2026-03-11, 21:23:24](https://news.ycombinator.com/item?id=47342139) - [AI productivity gains are 10%, not 10x](https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not)

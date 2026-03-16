@@ -61,3 +61,4 @@
 * [2026-03-13, 03:06:37](https://news.ycombinator.com/item?id=47360243) - [Can You Instruct a Robot to Make a PBJ Sandwich?](https://pbj.deliberateinc.com/)
 * [2026-03-13, 01:58:41](https://news.ycombinator.com/item?id=47359822) - [Golden Sets: Regression Engineering for Probabilistic Systems](https://heavythoughtcloud.com/knowledge/designing-a-golden-set)
 * [2026-03-13, 01:45:49](https://news.ycombinator.com/item?id=47359744) - [“This is not the computer for you”](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
+* [2026-03-13, 01:38:44](https://news.ycombinator.com/item?id=47359712) - [Lies I was told about collaborative editing, Part 2: Why we don't use Yjs](https://www.moment.dev/blog/lies-i-was-told-pt-2)

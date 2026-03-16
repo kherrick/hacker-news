@@ -50,6 +50,7 @@
 * [2026-03-15, 10:15:47](https://news.ycombinator.com/item?id=47385935) - [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
 * [2026-03-15, 09:06:35](https://news.ycombinator.com/item?id=47385576) - [The enshittification of Amazon paperback books](https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/)
 * [2026-03-15, 08:04:55](https://news.ycombinator.com/item?id=47385272) - [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
+* [2026-03-15, 07:11:32](https://news.ycombinator.com/item?id=47385011) - [SpiceCrypt: A Python library for decrypting LTspice encrypted model files](https://github.com/jtsylve/spice-crypt)
 * [2026-03-15, 05:36:00](https://news.ycombinator.com/item?id=47384619) - [Jeff Bezos Upended the Washington Post](https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html)
 * [2026-03-15, 04:50:08](https://news.ycombinator.com/item?id=47384467) - [Microslop](https://www.s-config.com/microslop/)
 * [2026-03-15, 04:23:43](https://news.ycombinator.com/item?id=47384352) - [Rack-Mount Hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
