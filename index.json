@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-16, 18:38:14",
+      "https://news.ycombinator.com/item?id=47402950"
+    ],
+    [
+      "Palestinian boy, 12, describes how Israeli forces killed his family in car",
+      "https://www.bbc.com/news/articles/c70n2x7p22do"
+    ]
+  ],
+  [
+    [
       "2026-03-16, 18:13:18",
       "https://news.ycombinator.com/item?id=47402651"
     ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=47402640"
     ],
     [
-      "Jemalloc Un-Abandoned by Meta",
+      "Jemalloc un-abandoned by Meta",
       "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 17:35:58",
+      "https://news.ycombinator.com/item?id=47402118"
+    ],
+    [
+      "Agent Skills – Open Security Database",
+      "https://index.tego.security/skills/"
     ]
   ],
   [
@@ -131,21 +151,11 @@
   ],
   [
     [
-      "2026-03-16, 13:05:33",
-      "https://news.ycombinator.com/item?id=47398479"
-    ],
-    [
-      "'Pokémon Go' players unknowingly trained delivery robots with 30B images",
-      "https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/"
-    ]
-  ],
-  [
-    [
       "2026-03-16, 12:30:16",
       "https://news.ycombinator.com/item?id=47398080"
     ],
     [
-      "Even Faster Asin() Was Staring Right at Me",
+      "Even faster asin() was staring right at me",
       "https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/"
     ]
   ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=47397574"
     ],
     [
-      "I Love FreeBSD",
+      "Why I love FreeBSD",
       "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "Starlink Mini as a failover",
       "https://www.jackpearce.co.uk/posts/starlink-failover/"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 01:24:09",
-      "https://news.ycombinator.com/item?id=47394022"
-    ],
-    [
-      "How I write software with LLMs",
-      "https://www.stavros.io/posts/how-i-write-software-with-llms/"
     ]
   ],
   [
@@ -247,16 +247,6 @@
     [
       "The bureaucracy blocking the chance at a cure",
       "https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 12:18:47",
-      "https://news.ycombinator.com/item?id=47386699"
-    ],
-    [
-      "Human Organ Atlas",
-      "https://human-organ-atlas.esrf.fr/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Kona EV Hacking",
       "http://techno-fandom.org/~hobbit/cars/ev/"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 20:40:51",
+      "https://news.ycombinator.com/item?id=47341321"
+    ],
+    [
+      "Where does engineering go? Retreat findings and insights [pdf]",
+      "https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/tw_future%20_of_software_development_retreat_%20key_takeaways.pdf"
     ]
   ]
 ]
