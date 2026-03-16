@@ -2,8 +2,7 @@
 
 * [2026-03-16, 20:01:02](https://news.ycombinator.com/item?id=47404074) - [Nvidia Launches Vera CPU, Purpose-Built for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
 * [2026-03-16, 18:38:14](https://news.ycombinator.com/item?id=47402950) - [Palestinian boy, 12, describes how Israeli forces killed his family in car](https://www.bbc.com/news/articles/c70n2x7p22do)
-* [2026-03-16, 18:12:32](https://news.ycombinator.com/item?id=47402640) - [Meta’s Renewed Commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
-* [2026-03-16, 17:35:58](https://news.ycombinator.com/item?id=47402118) - [Agent Skills – Open Security Database](https://index.tego.security/skills/)
+* [2026-03-16, 18:12:32](https://news.ycombinator.com/item?id=47402640) - [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
 * [2026-03-16, 17:19:13](https://news.ycombinator.com/item?id=47401901) - [Language Model Teams as Distrbuted Systems](https://arxiv.org/abs/2603.12229)
 * [2026-03-16, 17:17:57](https://news.ycombinator.com/item?id=47401879) - [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
 * [2026-03-16, 17:09:34](https://news.ycombinator.com/item?id=47401766) - [Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure](https://www.usechamber.io/)
@@ -13,6 +12,7 @@
 * [2026-03-16, 16:07:29](https://news.ycombinator.com/item?id=47400868) - [Show HN: Claude Code skills that build complete Godot games](https://github.com/htdt/godogen)
 * [2026-03-16, 15:25:36](https://news.ycombinator.com/item?id=47400261) - [Apideck CLI – An AI-agent interface with much lower context consumption than MCP](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
 * [2026-03-16, 15:10:30](https://news.ycombinator.com/item?id=47400060) - [US Job Market Visualizer](https://karpathy.ai/jobs/)
+* [2026-03-16, 14:21:07](https://news.ycombinator.com/item?id=47399437) - [Event Publisher enables event integration between Keycloak and OpenFGA](https://github.com/embesozzi/keycloak-openfga-event-publisher)
 * [2026-03-16, 13:22:03](https://news.ycombinator.com/item?id=47398681) - [AirPods Max 2](https://www.apple.com/airpods-max/)
 * [2026-03-16, 13:09:58](https://news.ycombinator.com/item?id=47398534) - [My Journey to a reliable and enjoyable locally hosted voice assistant (2025)](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860)
 * [2026-03-16, 12:30:16](https://news.ycombinator.com/item?id=47398080) - [Even faster asin() was staring right at me](https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/)
