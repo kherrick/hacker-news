@@ -129,6 +129,88 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47401042">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=47401042"
+              >Launch HN: Voygr (YC W26) – A better maps API for agents and AI
+              apps</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-16 @ 16:21:07</span
+              ><span class="points-container"
+                >Points: <span class="points">27</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47401042"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://voygr.tech/">https://voygr.tech/</a>), working on
+              better real-world place intelligence for app developers and
+              agents. Here’s a demo:
+              <a href="https://www.youtube.com/watch?v=cNIpcWIE0n4"
+                >https://www.youtube.com/watch?v=cNIpcWIE0n4</a
+              >.
+              <p>
+                Google Maps can tell you a restaurant is "4.2 stars, open till
+                10." Their API can't tell you the chef left last month, wait
+                times doubled, and locals moved on. Maps APIs today just give
+                you a fixed snapshot. We're building an infinite, queryable
+                place profile that combines accurate place data with fresh web
+                context like news, articles, and events.
+              </p>
+              <p>
+                Vlad worked on the Google Maps APIs as well as in ridesharing
+                and travel. Yarik led ML/Search infrastructure at Apple, Google,
+                and Meta powering products used by hundreds of millions of users
+                daily. We realized nobody was treating place data freshness as
+                infrastructure, so we're building it.
+              </p>
+              <p>
+                We started with one of the hardest parts - knowing whether a
+                place is even real. Our Business Validation API (<a
+                  href="https://github.com/voygr-tech/dev-tools"
+                  >https://github.com/voygr-tech/dev-tools</a
+                >) tells you whether a business is actually operating, closed,
+                rebranded, or invalid. We aggregate multiple data sources,
+                detect conflicting signals, and return a structured verdict.
+                Think of it as continuous integration, but for the physical
+                world.
+              </p>
+              <p>
+                The problem: ~40% of Google searches and up to 20% of LLM
+                prompts involve local context. 25-30% of places churn every
+                year. The world doesn't emit structured "I closed" events - you
+                have to actively detect it. As agents start searching, booking,
+                and shopping in the real world, this problem gets 10x bigger -
+                and nobody's building the infrastructure for it. We recently
+                benchmarked how well LLMs handle local place queries (<a
+                  href="https://news.ycombinator.com/item?id=47366423"
+                  >https://news.ycombinator.com/item?id=47366423</a
+                >) - the results were bad: even the best gets 1 in 12 local
+                queries wrong
+              </p>
+              <p>
+                We're processing tens of thousands of places per day for
+                enterprise customers, including leading mapping and tech
+                companies. Today we're opening API access to the developer
+                community. Please find details here:
+                <a href="https://github.com/voygr-tech/dev-tools"
+                  >https://github.com/voygr-tech/dev-tools</a
+                >
+              </p>
+              <p>
+                We'd love honest feedback - whether it's about the problem, our
+                approach, or where you think we're wrong. If you're dealing with
+                stale place data in your own products, we'd especially love to
+                hear what breaks. We're here all day, AMA.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="47400261">
           <h3>
             <a
@@ -142,31 +224,72 @@
             <h4>
               <span>2026-03-16 @ 15:25:36</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47400261"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47398971">
+        <section id="47400060">
           <h3>
-            <a class="item" href="https://discoverbsd.com/p/8a7660c31b"
-              >FreeBSD risks losing relevance by ignoring AI tooling like Claude
-              Code</a
+            <a class="item" href="https://karpathy.ai/jobs/"
+              >US Job Market Visualizer – Andrej Karpathy</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-16 @ 13:45:29</span
+              <span>2026-03-16 @ 15:10:30</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">201</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47398971"
+                ><a href="https://news.ycombinator.com/item?id=47400060"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 175</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47399437">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/embesozzi/keycloak-openfga-event-publisher"
+              >Event Publisher enables event integration between Keycloak and
+              OpenFGA</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-16 @ 14:21:07</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47399437"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47398926">
+          <h3>
+            <a class="item" href="https://github.com/eljulians/skillfile"
+              >Skillfile, the declarative skill manager, now with search for
+              110K+ skills</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-16 @ 13:41:39</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47398926"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -184,11 +307,11 @@
             <h4>
               <span>2026-03-16 @ 13:09:58</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47398534"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -206,11 +329,11 @@
             <h4>
               <span>2026-03-16 @ 13:05:33</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47398479"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -226,11 +349,11 @@
             <h4>
               <span>2026-03-16 @ 13:01:48</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47398441"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -247,11 +370,11 @@
             <h4>
               <span>2026-03-16 @ 12:30:16</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47398080"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -268,11 +391,11 @@
             <h4>
               <span>2026-03-16 @ 12:25:18</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47398023"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -289,11 +412,11 @@
             <h4>
               <span>2026-03-16 @ 12:13:59</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">228</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47397920"
                   >Comments</a
-                ><span class="descendants">: 115</span></span
+                ><span class="descendants">: 152</span></span
               >
             </h4>
           </section>
@@ -310,11 +433,11 @@
             <h4>
               <span>2026-03-16 @ 12:09:44</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47397883"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -329,11 +452,11 @@
             <h4>
               <span>2026-03-16 @ 12:05:08</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47397857"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -366,11 +489,11 @@
             <h4>
               <span>2026-03-16 @ 12:00:06</span
               ><span class="points-container"
-                >Points: <span class="points">776</span></span
+                >Points: <span class="points">856</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47397822"
                   >Comments</a
-                ><span class="descendants">: 464</span></span
+                ><span class="descendants">: 522</span></span
               >
             </h4>
           </section>
@@ -388,11 +511,11 @@
             <h4>
               <span>2026-03-16 @ 11:57:33</span
               ><span class="points-container"
-                >Points: <span class="points">343</span></span
+                >Points: <span class="points">430</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47397797"
                   >Comments</a
-                ><span class="descendants">: 116</span></span
+                ><span class="descendants">: 151</span></span
               >
             </h4>
           </section>
@@ -410,11 +533,11 @@
             <h4>
               <span>2026-03-16 @ 11:25:31</span
               ><span class="points-container"
-                >Points: <span class="points">449</span></span
+                >Points: <span class="points">523</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47397593"
                   >Comments</a
-                ><span class="descendants">: 198</span></span
+                ><span class="descendants">: 237</span></span
               >
             </h4>
           </section>
@@ -431,11 +554,11 @@
             <h4>
               <span>2026-03-16 @ 11:23:14</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47397574"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -452,11 +575,32 @@
             <h4>
               <span>2026-03-16 @ 01:24:09</span
               ><span class="points-container"
-                >Points: <span class="points">400</span></span
+                >Points: <span class="points">421</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47394022"
                   >Comments</a
-                ><span class="descendants">: 374</span></span
+                ><span class="descendants">: 395</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47392510">
+          <h3>
+            <a
+              class="item"
+              href="https://www.grepular.com/Cert_Authorities_Check_for_DNSSEC_From_Today"
+              >Cert Authorities Check for DNSSEC from Today</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-15 @ 22:10:47</span
+              ><span class="points-container"
+                >Points: <span class="points">36</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47392510"
+                  >Comments</a
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -473,11 +617,11 @@
             <h4>
               <span>2026-03-15 @ 21:22:16</span
               ><span class="points-container"
-                >Points: <span class="points">920</span></span
+                >Points: <span class="points">947</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47392084"
                   >Comments</a
-                ><span class="descendants">: 289</span></span
+                ><span class="descendants">: 301</span></span
               >
             </h4>
             <div class="text">
@@ -486,27 +630,6 @@
                 >https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-r...</a
               >
             </div>
-          </section>
-        </section>
-        <section id="47391803">
-          <h3>
-            <a
-              class="item"
-              href="https://tomjohnell.com/llms-can-be-absolutely-exhausting/"
-              >LLMs can be exhausting</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-15 @ 20:56:21</span
-              ><span class="points-container"
-                >Points: <span class="points">304</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47391803"
-                  >Comments</a
-                ><span class="descendants">: 197</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="47390945">
@@ -519,11 +642,11 @@
             <h4>
               <span>2026-03-15 @ 19:25:18</span
               ><span class="points-container"
-                >Points: <span class="points">734</span></span
+                >Points: <span class="points">748</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47390945"
                   >Comments</a
-                ><span class="descendants">: 318</span></span
+                ><span class="descendants">: 325</span></span
               >
             </h4>
           </section>
@@ -540,11 +663,32 @@
             <h4>
               <span>2026-03-15 @ 19:12:53</span
               ><span class="points-container"
-                >Points: <span class="points">549</span></span
+                >Points: <span class="points">560</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47390817"
                   >Comments</a
-                ><span class="descendants">: 217</span></span
+                ><span class="descendants">: 220</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47390345">
+          <h3>
+            <a
+              class="item"
+              href="https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance"
+              >The bureaucracy blocking the chance at a cure</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-15 @ 18:32:27</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47390345"
+                  >Comments</a
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -559,32 +703,30 @@
             <h4>
               <span>2026-03-15 @ 17:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">555</span></span
+                >Points: <span class="points">575</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47389570"
                   >Comments</a
-                ><span class="descendants">: 217</span></span
+                ><span class="descendants">: 226</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47388676">
+        <section id="47386699">
           <h3>
-            <a
-              class="item"
-              href="https://sebastianraschka.com/llm-architecture-gallery/"
-              >LLM Architecture Gallery</a
+            <a class="item" href="https://human-organ-atlas.esrf.fr/"
+              >Human Organ Atlas</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-15 @ 16:01:09</span
+              <span>2026-03-15 @ 12:18:47</span
               ><span class="points-container"
-                >Points: <span class="points">526</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47388676"
+                ><a href="https://news.ycombinator.com/item?id=47386699"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -602,11 +744,11 @@
             <h4>
               <span>2026-03-15 @ 09:07:52</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47385579"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -621,11 +763,11 @@
             <h4>
               <span>2026-03-14 @ 08:35:42</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47374572"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -640,53 +782,11 @@
             <h4>
               <span>2026-03-12 @ 14:10:50</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47350759"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47350016">
-          <h3>
-            <a
-              class="item"
-              href="https://robot-daycare.com/posts/actuation_series_1/"
-              >Electric motor scaling laws and inertia in robot actuators</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-12 @ 13:04:35</span
-              ><span class="points-container"
-                >Points: <span class="points">149</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47350016"
-                  >Comments</a
-                ><span class="descendants">: 30</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47349889">
-          <h3>
-            <a
-              class="item"
-              href="https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/"
-              >Reviewing Large Changes with Jujutsu</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-12 @ 12:52:49</span
-              ><span class="points-container"
-                >Points: <span class="points">76</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47349889"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -703,53 +803,11 @@
             <h4>
               <span>2026-03-12 @ 10:19:14</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47348652"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47343902">
-          <h3>
-            <a
-              class="item"
-              href="https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf"
-              >What every computer scientist should know about floating-point
-              arithmetic (1991) [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-11 @ 23:24:22</span
-              ><span class="points-container"
-                >Points: <span class="points">107</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47343902"
-                  >Comments</a
-                ><span class="descendants">: 42</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47338338">
-          <h3>
-            <a class="item" href="https://www.iceframework.org/"
-              >Simple, fast and open-source PHP framework frozen in
-              C-extension</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-11 @ 17:14:19</span
-              ><span class="points-container"
-                >Points: <span class="points">14</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47338338"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
