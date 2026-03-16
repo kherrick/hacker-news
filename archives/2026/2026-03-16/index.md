@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 10:41:01](https://news.ycombinator.com/item?id=47397291) - [Linux 7.1 to Retire UDP-Lite – Allows for Better Performance with Cleansed Code](https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite)
+* [2026-03-16, 10:24:02](https://news.ycombinator.com/item?id=47397190) - [Ask HN: What is it like being in a CS major program these days?](https://news.ycombinator.com/item?id=47397190)
 * [2026-03-16, 08:07:29](https://news.ycombinator.com/item?id=47396264) - [Starlink Mini as a Failover](https://www.jackpearce.co.uk/posts/starlink-failover/)
 * [2026-03-16, 04:09:50](https://news.ycombinator.com/item?id=47395147) - [ASCII and Unicode quotation marks (2007)](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html)
 * [2026-03-16, 02:02:12](https://news.ycombinator.com/item?id=47394291) - [AI tools are making me lose interest in CS fundamentals](https://news.ycombinator.com/item?id=47394291)

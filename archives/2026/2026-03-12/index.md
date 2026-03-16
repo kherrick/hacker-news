@@ -51,6 +51,7 @@
 * [2026-03-12, 13:16:11](https://news.ycombinator.com/item?id=47350136) - [Long Overlooked as Crucial to Life, Fungi Start to Get Their Due](https://e360.yale.edu/features/fungi-kingdom)
 * [2026-03-12, 13:13:02](https://news.ycombinator.com/item?id=47350108) - [Show HN: Calyx – Ghostty-Based macOS Terminal with Liquid Glass UI](https://github.com/yuuichieguchi/Calyx)
 * [2026-03-12, 13:04:35](https://news.ycombinator.com/item?id=47350016) - [Electric motor scaling laws and inertia in robot actuators](https://robot-daycare.com/posts/actuation_series_1/)
+* [2026-03-12, 12:52:49](https://news.ycombinator.com/item?id=47349889) - [Reviewing Large Changes with Jujutsu](https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/)
 * [2026-03-12, 12:51:15](https://news.ycombinator.com/item?id=47349871) - [Slicing Bezier Surfaces](https://fatih-erikli-potato.github.io/blog/slicing-bezier-surfaces.html)
 * [2026-03-12, 12:44:45](https://news.ycombinator.com/item?id=47349806) - [US private credit defaults hit record 9.2% in 2025, Fitch says](https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d)
 * [2026-03-12, 12:43:26](https://news.ycombinator.com/item?id=47349798) - [US banks' exposure to private credit hits $300B](https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/)
