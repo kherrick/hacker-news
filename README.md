@@ -7,6 +7,7 @@
 * [2026-03-16, 18:12:32](https://news.ycombinator.com/item?id=47402640) - [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
 * [2026-03-16, 17:19:13](https://news.ycombinator.com/item?id=47401901) - [Language Model Teams as Distrbuted Systems](https://arxiv.org/abs/2603.12229)
 * [2026-03-16, 17:17:57](https://news.ycombinator.com/item?id=47401879) - [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
+* [2026-03-16, 17:13:27](https://news.ycombinator.com/item?id=47401809) - [US commercial insurers pay 254% of Medicare for the same hospital procedures](https://github.com/rexrodeo/american-healthcare-conundrum)
 * [2026-03-16, 17:09:34](https://news.ycombinator.com/item?id=47401766) - [Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure](https://www.usechamber.io/)
 * [2026-03-16, 17:07:37](https://news.ycombinator.com/item?id=47401734) - [Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)](https://arxiv.org/abs/2511.04427)
 * [2026-03-16, 16:21:07](https://news.ycombinator.com/item?id=47401042) - [Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps](https://news.ycombinator.com/item?id=47401042)
@@ -15,7 +16,6 @@
 * [2026-03-16, 15:10:30](https://news.ycombinator.com/item?id=47400060) - [US Job Market Visualizer](https://karpathy.ai/jobs/)
 * [2026-03-16, 13:22:03](https://news.ycombinator.com/item?id=47398681) - [AirPods Max 2](https://www.apple.com/airpods-max/)
 * [2026-03-16, 13:09:58](https://news.ycombinator.com/item?id=47398534) - [My Journey to a reliable and enjoyable locally hosted voice assistant (2025)](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860)
-* [2026-03-16, 12:30:16](https://news.ycombinator.com/item?id=47398080) - [Even faster asin() was staring right at me](https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/)
 * [2026-03-16, 12:25:18](https://news.ycombinator.com/item?id=47398023) - [Comparing Python Type Checkers: Typing Spec Conformance](https://pyrefly.org/blog/typing-conformance-comparison/)
 * [2026-03-16, 12:05:08](https://news.ycombinator.com/item?id=47397857) - [Lazycut: A simple terminal video trimmer using FFmpeg](https://github.com/emin-ozata/lazycut)
 * [2026-03-16, 12:00:06](https://news.ycombinator.com/item?id=47397822) - [Polymarket gamblers threaten to kill me over Iran missile story](https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/)
@@ -25,11 +25,11 @@
 * [2026-03-16, 08:07:29](https://news.ycombinator.com/item?id=47396264) - [Starlink Mini as a failover](https://www.jackpearce.co.uk/posts/starlink-failover/)
 * [2026-03-15, 22:10:47](https://news.ycombinator.com/item?id=47392510) - [Cert Authorities Check for DNSSEC from Today](https://www.grepular.com/Cert_Authorities_Check_for_DNSSEC_From_Today)
 * [2026-03-15, 18:32:27](https://news.ycombinator.com/item?id=47390345) - [The bureaucracy blocking the chance at a cure](https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance)
+* [2026-03-13, 13:35:12](https://news.ycombinator.com/item?id=47364260) - [Show HN: Oxyde – Pydantic-native async ORM with a Rust core](https://github.com/mr-fatalyst/oxyde)
 * [2026-03-13, 01:38:44](https://news.ycombinator.com/item?id=47359712) - [Lies I was told about collaborative editing, Part 2: Why we don't use Yjs](https://www.moment.dev/blog/lies-i-was-told-pt-2)
 * [2026-03-12, 10:19:14](https://news.ycombinator.com/item?id=47348652) - [Home Assistant waters my plants](https://finnian.io/blog/home-assistant-waters-my-plants/)
 * [2026-03-12, 00:53:12](https://news.ycombinator.com/item?id=47344821) - [On The Need For Understanding](https://blog.information-superhighway.net/on-the-need-for-understanding)
 * [2026-03-11, 21:26:16](https://news.ycombinator.com/item?id=47342185) - [Kona EV Hacking](http://techno-fandom.org/~hobbit/cars/ev/)
-* [2026-03-11, 20:40:51](https://news.ycombinator.com/item?id=47341321) - [Where does engineering go? Retreat findings and insights [pdf]](https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/tw_future%20_of_software_development_retreat_%20key_takeaways.pdf)
 
 ## [Archives](archives/index.md)
 

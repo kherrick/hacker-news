@@ -13,6 +13,7 @@
 * [2026-03-16, 17:35:58](https://news.ycombinator.com/item?id=47402118) - [Agent Skills – Open Security Database](https://index.tego.security/skills/)
 * [2026-03-16, 17:19:13](https://news.ycombinator.com/item?id=47401901) - [Language Model Teams as Distrbuted Systems](https://arxiv.org/abs/2603.12229)
 * [2026-03-16, 17:17:57](https://news.ycombinator.com/item?id=47401879) - [Kevin Boone: The \"small web\" is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
+* [2026-03-16, 17:13:27](https://news.ycombinator.com/item?id=47401809) - [US commercial insurers pay 254% of Medicare for the same hospital procedures](https://github.com/rexrodeo/american-healthcare-conundrum)
 * [2026-03-16, 17:09:34](https://news.ycombinator.com/item?id=47401766) - [Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure](https://www.usechamber.io/)
 * [2026-03-16, 17:07:37](https://news.ycombinator.com/item?id=47401734) - [Speed at the Cost of Quality. Study of Use of Cursor AI in Open Source Projects](https://arxiv.org/abs/2511.04427)
 * [2026-03-16, 17:00:17](https://news.ycombinator.com/item?id=47401618) - [Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs](https://www.kaizenautomation.com/careers)
