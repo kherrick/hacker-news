@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 04:09:50](https://news.ycombinator.com/item?id=47395147) - [ASCII and Unicode quotation marks (2007)](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html)
 * [2026-03-16, 02:02:12](https://news.ycombinator.com/item?id=47394291) - [AI tools are making me lose interest in CS fundamentals](https://news.ycombinator.com/item?id=47394291)
 * [2026-03-16, 01:58:56](https://news.ycombinator.com/item?id=47394264) - [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io)
 * [2026-03-16, 01:24:09](https://news.ycombinator.com/item?id=47394022) - [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)

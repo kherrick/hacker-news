@@ -55,6 +55,7 @@
 * [2026-03-12, 12:44:45](https://news.ycombinator.com/item?id=47349806) - [US private credit defaults hit record 9.2% in 2025, Fitch says](https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d)
 * [2026-03-12, 12:43:26](https://news.ycombinator.com/item?id=47349798) - [US banks' exposure to private credit hits $300B](https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/)
 * [2026-03-12, 12:41:29](https://news.ycombinator.com/item?id=47349780) - [Emacs internals: Tagged pointers vs. C++ std:variant and LLVM (Part 3)](https://thecloudlet.github.io/blog/project/emacs-03/)
+* [2026-03-12, 12:11:20](https://news.ycombinator.com/item?id=47349499) - [How far can you go with IX Route Servers only?](https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers)
 * [2026-03-12, 11:49:05](https://news.ycombinator.com/item?id=47349334) - [Are LLMs not getting better?](https://entropicthoughts.com/no-swe-bench-improvement)
 * [2026-03-12, 11:41:14](https://news.ycombinator.com/item?id=47349277) - [Big Data on the Cheapest MacBook](https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook)
 * [2026-03-12, 10:29:45](https://news.ycombinator.com/item?id=47348733) - [Coding after coders: The end of computer programming as we know it](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share)
