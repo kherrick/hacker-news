@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-03-16, 02:02:12",
-      "https://news.ycombinator.com/item?id=47394291"
-    ],
-    [
-      "AI tools are making me lose interest in CS fundamentals",
-      "https://news.ycombinator.com/item?id=47394291"
-    ]
-  ],
-  [
-    [
       "2026-03-16, 01:58:56",
       "https://news.ycombinator.com/item?id=47394264"
     ],
@@ -41,21 +31,11 @@
   ],
   [
     [
-      "2026-03-16, 01:11:52",
-      "https://news.ycombinator.com/item?id=47393941"
-    ],
-    [
-      "I built an ephemeral P2P chat with WebRTC, without servers",
-      "https://ephemchat.vercel.app/"
-    ]
-  ],
-  [
-    [
       "2026-03-16, 01:07:47",
       "https://news.ycombinator.com/item?id=47393908"
     ],
     [
-      "What Is Agentic Engineering?",
+      "What is agentic engineering?",
       "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/"
     ]
   ],
@@ -101,26 +81,6 @@
   ],
   [
     [
-      "2026-03-15, 22:15:50",
-      "https://news.ycombinator.com/item?id=47392547"
-    ],
-    [
-      "A new Bigfoot documentary helps explain our conspiracy-minded era",
-      "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 21:29:52",
-      "https://news.ycombinator.com/item?id=47392158"
-    ],
-    [
-      "Show HN: Free OpenAI API Access with ChatGPT Account",
-      "https://github.com/EvanZhouDev/openai-oauth"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 21:22:16",
       "https://news.ycombinator.com/item?id=47392084"
     ],
@@ -155,7 +115,7 @@
       "https://news.ycombinator.com/item?id=47390817"
     ],
     [
-      "Chrome DevTools MCP",
+      "Chrome DevTools MCP (2025)",
       "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session"
     ]
   ],
@@ -251,6 +211,26 @@
   ],
   [
     [
+      "2026-03-15, 07:11:32",
+      "https://news.ycombinator.com/item?id=47385011"
+    ],
+    [
+      "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
+      "https://github.com/jtsylve/spice-crypt"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 01:38:44",
+      "https://news.ycombinator.com/item?id=47359712"
+    ],
+    [
+      "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
+      "https://www.moment.dev/blog/lies-i-was-told-pt-2"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 20:41:51",
       "https://news.ycombinator.com/item?id=47356782"
     ],
@@ -267,6 +247,26 @@
     [
       "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
       "https://www.youtube.com/watch?v=HK0uAKkt0AE"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 13:04:35",
+      "https://news.ycombinator.com/item?id=47350016"
+    ],
+    [
+      "Electric motor scaling laws and inertia in robot actuators",
+      "https://robot-daycare.com/posts/actuation_series_1/"
+    ]
+  ],
+  [
+    [
+      "2026-03-11, 23:24:22",
+      "https://news.ycombinator.com/item?id=47343902"
+    ],
+    [
+      "What every computer scientist should know about floating-point arithmetic (1991) [pdf]",
+      "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf"
     ]
   ],
   [
