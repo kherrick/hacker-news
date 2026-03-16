@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 20:01:02](https://news.ycombinator.com/item?id=47404074) - [Nvidia Launches Vera CPU, Purpose-Built for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
 * [2026-03-16, 18:38:14](https://news.ycombinator.com/item?id=47402950) - [Palestinian boy, 12, describes how Israeli forces killed his family in car](https://www.bbc.com/news/articles/c70n2x7p22do)
 * [2026-03-16, 18:13:18](https://news.ycombinator.com/item?id=47402651) - [The return-to-the-office trend backfires](https://thehill.com/opinion/technology/5775420-remote-first-productivity-growth/)
 * [2026-03-16, 18:12:32](https://news.ycombinator.com/item?id=47402640) - [Jemalloc Un-Abandoned by Meta](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
@@ -14,6 +15,7 @@
 * [2026-03-16, 17:07:37](https://news.ycombinator.com/item?id=47401734) - [Speed at the Cost of Quality. Study of Use of Cursor AI in Open Source Projects](https://arxiv.org/abs/2511.04427)
 * [2026-03-16, 17:00:17](https://news.ycombinator.com/item?id=47401618) - [Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs](https://www.kaizenautomation.com/careers)
 * [2026-03-16, 16:21:07](https://news.ycombinator.com/item?id=47401042) - [Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps](https://news.ycombinator.com/item?id=47401042)
+* [2026-03-16, 16:07:29](https://news.ycombinator.com/item?id=47400868) - [Show HN: Claude Code skills that build complete Godot games](https://github.com/htdt/godogen)
 * [2026-03-16, 15:25:36](https://news.ycombinator.com/item?id=47400261) - [MCP Server Is Eating Your Context Window. There's a Simpler Way](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
 * [2026-03-16, 15:10:30](https://news.ycombinator.com/item?id=47400060) - [US Job Market Visualizer – Andrej Karpathy](https://karpathy.ai/jobs/)
 * [2026-03-16, 14:21:07](https://news.ycombinator.com/item?id=47399437) - [Event Publisher enables event integration between Keycloak and OpenFGA](https://github.com/embesozzi/keycloak-openfga-event-publisher)
