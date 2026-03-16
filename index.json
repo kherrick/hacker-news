@@ -1,12 +1,72 @@
 [
   [
     [
+      "2026-03-16, 13:09:58",
+      "https://news.ycombinator.com/item?id=47398534"
+    ],
+    [
+      "My Journey to a reliable and enjoyable locally hosted voice assistant",
+      "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860"
+    ]
+  ],
+  [
+    [
       "2026-03-16, 13:01:48",
       "https://news.ycombinator.com/item?id=47398441"
     ],
     [
       "Show HN: Hackerbrief – Top posts on Hacker News summarized daily",
       "https://hackerbrief.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 12:30:16",
+      "https://news.ycombinator.com/item?id=47398080"
+    ],
+    [
+      "Even Faster Asin() Was Staring Right at Me",
+      "https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 12:25:18",
+      "https://news.ycombinator.com/item?id=47398023"
+    ],
+    [
+      "Comparing Python Type Checkers: Typing Spec Conformance",
+      "https://pyrefly.org/blog/typing-conformance-comparison/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 12:13:59",
+      "https://news.ycombinator.com/item?id=47397920"
+    ],
+    [
+      "Obsession with growth is destroying nature, 150 countries warn",
+      "https://www.politico.eu/article/obsession-with-growth-destroying-nature-150-countries-warn/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 12:09:44",
+      "https://news.ycombinator.com/item?id=47397883"
+    ],
+    [
+      "Bringing Semiconductors to Kazakhstan",
+      "https://www.siliconimist.com/p/bringing-semiconductors-to-kazakhstan"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 12:05:08",
+      "https://news.ycombinator.com/item?id=47397857"
+    ],
+    [
+      "Lazycut: A simple terminal video trimmer using FFmpeg",
+      "https://github.com/emin-ozata/lazycut"
     ]
   ],
   [
@@ -31,6 +91,16 @@
   ],
   [
     [
+      "2026-03-16, 11:57:33",
+      "https://news.ycombinator.com/item?id=47397797"
+    ],
+    [
+      "MoD sources warn Palantir role at heart of government is threat to UK security",
+      "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets"
+    ]
+  ],
+  [
+    [
       "2026-03-16, 11:25:31",
       "https://news.ycombinator.com/item?id=47397593"
     ],
@@ -41,12 +111,12 @@
   ],
   [
     [
-      "2026-03-16, 11:16:39",
-      "https://news.ycombinator.com/item?id=47397528"
+      "2026-03-16, 11:23:14",
+      "https://news.ycombinator.com/item?id=47397574"
     ],
     [
-      "Scientists discover a surprising way to quiet the anxious mind (2025)",
-      "https://www.sciencedaily.com/releases/2025/10/251027023816.htm"
+      "I Love FreeBSD",
+      "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/"
     ]
   ],
   [
@@ -111,16 +181,6 @@
   ],
   [
     [
-      "2026-03-15, 18:56:58",
-      "https://news.ycombinator.com/item?id=47390609"
-    ],
-    [
-      "The \"are you sure?\" Problem: Why AI keeps changing its mind",
-      "https://www.randalolson.com/2026/02/07/the-are-you-sure-problem-why-your-ai-keeps-changing-its-mind/"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 17:25:00",
       "https://news.ycombinator.com/item?id=47389570"
     ],
@@ -141,32 +201,12 @@
   ],
   [
     [
-      "2026-03-15, 15:09:41",
-      "https://news.ycombinator.com/item?id=47388141"
-    ],
-    [
-      "What makes Intel Optane stand out (2023)",
-      "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 15:09:24",
       "https://news.ycombinator.com/item?id=47388137"
     ],
     [
       "Separating the Wayland compositor and window manager",
       "https://isaacfreund.com/blog/river-window-management/"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 13:08:02",
-      "https://news.ycombinator.com/item?id=47387047"
-    ],
-    [
-      "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
-      "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode"
     ]
   ],
   [
@@ -201,16 +241,6 @@
   ],
   [
     [
-      "2026-03-13, 01:38:44",
-      "https://news.ycombinator.com/item?id=47359712"
-    ],
-    [
-      "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
-      "https://www.moment.dev/blog/lies-i-was-told-pt-2"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 14:10:50",
       "https://news.ycombinator.com/item?id=47350759"
     ],
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2026-03-12, 12:11:20",
-      "https://news.ycombinator.com/item?id=47349499"
-    ],
-    [
-      "How far can you go with IX Route Servers only?",
-      "https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 10:19:14",
       "https://news.ycombinator.com/item?id=47348652"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-03-11, 21:26:16",
-      "https://news.ycombinator.com/item?id=47342185"
+      "2026-03-11, 17:14:19",
+      "https://news.ycombinator.com/item?id=47338338"
     ],
     [
-      "Kona EV Hacking",
-      "http://techno-fandom.org/~hobbit/cars/ev/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 19:07:12",
-      "https://news.ycombinator.com/item?id=47339818"
-    ],
-    [
-      "Bus travel from Lima to Rio de Janeiro",
-      "https://kenschutte.com/lima-to-rio-by-bus/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 18:39:25",
-      "https://news.ycombinator.com/item?id=47339463"
-    ],
-    [
-      "//go:fix inline and the source-level inliner",
-      "https://go.dev/blog/inliner"
+      "Simple, fast and open-source PHP framework frozen in C-extension",
+      "https://www.iceframework.org/"
     ]
   ]
 ]
