@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 23:36:43](https://news.ycombinator.com/item?id=47406569) - [Show HN: Trackm, a personal finance web app](https://trackm.net)
 * [2026-03-16, 21:00:06](https://news.ycombinator.com/item?id=47404801) - [AnswerThis (YC F25) Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead)
 * [2026-03-16, 20:59:40](https://news.ycombinator.com/item?id=47404796) - [Mistral Releases Leanstral](https://mistral.ai/news/leanstral)
 * [2026-03-16, 20:01:02](https://news.ycombinator.com/item?id=47404074) - [Nvidia Launches Vera CPU, Purpose-Built for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)

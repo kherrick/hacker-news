@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-16, 23:36:43](https://news.ycombinator.com/item?id=47406569) - [Show HN: Trackm, a personal finance web app](https://trackm.net)
 * [2026-03-16, 21:00:06](https://news.ycombinator.com/item?id=47404801) - [AnswerThis (YC F25) Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead)
 * [2026-03-16, 20:59:40](https://news.ycombinator.com/item?id=47404796) - [Leanstral: Open-Source foundation for trustworthy vibe-coding](https://mistral.ai/news/leanstral)
 * [2026-03-16, 20:01:02](https://news.ycombinator.com/item?id=47404074) - [Nvidia Launches Vera CPU, Purpose-Built for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
@@ -8,7 +9,6 @@
 * [2026-03-16, 17:17:57](https://news.ycombinator.com/item?id=47401879) - [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
 * [2026-03-16, 17:13:27](https://news.ycombinator.com/item?id=47401809) - [US commercial insurers pay 254% of Medicare for the same hospital procedures](https://github.com/rexrodeo/american-healthcare-conundrum)
 * [2026-03-16, 17:09:34](https://news.ycombinator.com/item?id=47401766) - [Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure](https://www.usechamber.io/)
-* [2026-03-16, 17:07:37](https://news.ycombinator.com/item?id=47401734) - [Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)](https://arxiv.org/abs/2511.04427)
 * [2026-03-16, 16:21:07](https://news.ycombinator.com/item?id=47401042) - [Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps](https://news.ycombinator.com/item?id=47401042)
 * [2026-03-16, 16:07:29](https://news.ycombinator.com/item?id=47400868) - [Show HN: Claude Code skills that build complete Godot games](https://github.com/htdt/godogen)
 * [2026-03-16, 15:25:36](https://news.ycombinator.com/item?id=47400261) - [Apideck CLI – An AI-agent interface with much lower context consumption than MCP](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
