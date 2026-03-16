@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 23:51:26](https://news.ycombinator.com/item?id=47393388) - [The Linux Programming Interface as a university course text](https://man7.org/tlpi/academic/index.html)
 * [2026-03-15, 23:34:35](https://news.ycombinator.com/item?id=47393225) - [Excel incorrectly assumes that the year 1900 is a leap year](https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year)
 * [2026-03-15, 22:29:46](https://news.ycombinator.com/item?id=47392677) - [Show HN: Open-source playground to red-team AI agents with exploits published](https://github.com/fabraix/playground)
 * [2026-03-15, 22:16:09](https://news.ycombinator.com/item?id=47392550) - [Nasdaq's Shame](https://keubiko.substack.com/p/nasdaqs-shame)
