@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-16, 21:00:06",
+      "https://news.ycombinator.com/item?id=47404801"
+    ],
+    [
+      "AnswerThis (YC F25) Is Hiring",
+      "https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 20:59:40",
+      "https://news.ycombinator.com/item?id=47404796"
+    ],
+    [
+      "Mistral Releases Leanstral",
+      "https://mistral.ai/news/leanstral"
+    ]
+  ],
+  [
+    [
       "2026-03-16, 20:01:02",
       "https://news.ycombinator.com/item?id=47404074"
     ],
@@ -65,18 +85,8 @@
       "https://news.ycombinator.com/item?id=47401734"
     ],
     [
-      "Speed at the cost of quality: Study of use of Cursor AI in open source projects",
+      "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
       "https://arxiv.org/abs/2511.04427"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 17:00:17",
-      "https://news.ycombinator.com/item?id=47401618"
-    ],
-    [
-      "Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs",
-      "https://www.kaizenautomation.com/careers"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "US Job Market Visualizer",
       "https://karpathy.ai/jobs/"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 14:21:07",
-      "https://news.ycombinator.com/item?id=47399437"
-    ],
-    [
-      "Event Publisher enables event integration between Keycloak and OpenFGA",
-      "https://github.com/embesozzi/keycloak-openfga-event-publisher"
     ]
   ],
   [
