@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 18:13:18](https://news.ycombinator.com/item?id=47402651) - [The return-to-the-office trend backfires](https://thehill.com/opinion/technology/5775420-remote-first-productivity-growth/)
+* [2026-03-16, 18:12:32](https://news.ycombinator.com/item?id=47402640) - [Jemalloc Un-Abandoned by Meta](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
+* [2026-03-16, 17:19:13](https://news.ycombinator.com/item?id=47401901) - [Language Model Teams as Distrbuted Systems](https://arxiv.org/abs/2603.12229)
 * [2026-03-16, 17:17:57](https://news.ycombinator.com/item?id=47401879) - [Kevin Boone: The \"small web\" is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
 * [2026-03-16, 17:09:34](https://news.ycombinator.com/item?id=47401766) - [Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure](https://www.usechamber.io/)
 * [2026-03-16, 17:07:37](https://news.ycombinator.com/item?id=47401734) - [Speed at the Cost of Quality. Study of Use of Cursor AI in Open Source Projects](https://arxiv.org/abs/2511.04427)
@@ -14,6 +17,7 @@
 * [2026-03-16, 14:21:07](https://news.ycombinator.com/item?id=47399437) - [Event Publisher enables event integration between Keycloak and OpenFGA](https://github.com/embesozzi/keycloak-openfga-event-publisher)
 * [2026-03-16, 13:45:29](https://news.ycombinator.com/item?id=47398971) - [FreeBSD risks losing relevance by ignoring AI tooling like Claude Code](https://discoverbsd.com/p/8a7660c31b)
 * [2026-03-16, 13:41:39](https://news.ycombinator.com/item?id=47398926) - [Skillfile, the declarative skill manager, now with search for 110K+ skills](https://github.com/eljulians/skillfile)
+* [2026-03-16, 13:22:03](https://news.ycombinator.com/item?id=47398681) - [AirPods Max 2](https://www.apple.com/airpods-max/)
 * [2026-03-16, 13:09:58](https://news.ycombinator.com/item?id=47398534) - [My Journey to a reliable and enjoyable locally hosted voice assistant](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860)
 * [2026-03-16, 13:05:33](https://news.ycombinator.com/item?id=47398479) - ['Pokémon Go' players unknowingly trained delivery robots with 30B images](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/)
 * [2026-03-16, 13:01:48](https://news.ycombinator.com/item?id=47398441) - [Show HN: Hackerbrief – Top posts on Hacker News summarized daily](https://hackerbrief.vercel.app/)
