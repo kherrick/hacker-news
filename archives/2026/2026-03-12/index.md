@@ -41,6 +41,7 @@
 * [2026-03-12, 14:32:46](https://news.ycombinator.com/item?id=47351089) - [Hive (YC S14) is hiring scrappy product managers and product/data engineers](https://jobs.ashbyhq.com/hive.co)
 * [2026-03-12, 14:22:43](https://news.ycombinator.com/item?id=47350931) - [Kotlin creator's new language: a formal way to talk to LLMs instead of English](https://codespeak.dev/)
 * [2026-03-12, 14:10:56](https://news.ycombinator.com/item?id=47350763) - [Bandit: A 32bit baremetal computer that runs Color Forth [video]](https://www.youtube.com/watch?v=HK0uAKkt0AE)
+* [2026-03-12, 14:10:50](https://news.ycombinator.com/item?id=47350759) - [Why Are Viral Capsids Icosahedral?](https://www.asimov.press/p/viral-capsids)
 * [2026-03-12, 13:54:56](https://news.ycombinator.com/item?id=47350578) - [Iranian Hacktivists Strike Medical Device Maker Stryker and Wiped Systems](https://www.zetter-zeroday.com/iranian-hacktivists-strike-medical-device-maker-stryker-in-severe-attack-that-wiped-systems/)
 * [2026-03-12, 13:49:12](https://news.ycombinator.com/item?id=47350516) - [Show HN: Axe A 12MB binary that replaces your AI framework](https://github.com/jrswab/axe)
 * [2026-03-12, 13:45:09](https://news.ycombinator.com/item?id=47350467) - [USDA is closing buildings, relocating staff, and downsizing-a lot](https://www.foodpolitics.com/2026/03/usda-is-closing-buildings-relocating-staff-and-downsizing-a-lot/)

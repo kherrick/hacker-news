@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 11:16:39](https://news.ycombinator.com/item?id=47397528) - [Scientists discover a surprising way to quiet the anxious mind (2025)](https://www.sciencedaily.com/releases/2025/10/251027023816.htm)
 * [2026-03-16, 10:41:01](https://news.ycombinator.com/item?id=47397291) - [Linux 7.1 to Retire UDP-Lite – Allows for Better Performance with Cleansed Code](https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite)
 * [2026-03-16, 10:24:02](https://news.ycombinator.com/item?id=47397190) - [Ask HN: What is it like being in a CS major program these days?](https://news.ycombinator.com/item?id=47397190)
 * [2026-03-16, 08:07:29](https://news.ycombinator.com/item?id=47396264) - [Starlink Mini as a Failover](https://www.jackpearce.co.uk/posts/starlink-failover/)
