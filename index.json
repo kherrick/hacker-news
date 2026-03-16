@@ -1,32 +1,52 @@
 [
   [
     [
+      "2026-03-16, 13:01:48",
+      "https://news.ycombinator.com/item?id=47398441"
+    ],
+    [
+      "Show HN: Hackerbrief – Top posts on Hacker News summarized daily",
+      "https://hackerbrief.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 12:03:13",
+      "https://news.ycombinator.com/item?id=47397842"
+    ],
+    [
+      "Nango (YC W23, API Access for Agents and Apps) Is Hiring",
+      "https://jobs.ashbyhq.com/Nango"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 12:00:06",
+      "https://news.ycombinator.com/item?id=47397822"
+    ],
+    [
+      "Polymarket gamblers threaten to kill me over Iran missile story",
+      "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 11:25:31",
+      "https://news.ycombinator.com/item?id=47397593"
+    ],
+    [
+      "Corruption erodes social trust more in democracies than in autocracies",
+      "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full"
+    ]
+  ],
+  [
+    [
       "2026-03-16, 11:16:39",
       "https://news.ycombinator.com/item?id=47397528"
     ],
     [
       "Scientists discover a surprising way to quiet the anxious mind (2025)",
       "https://www.sciencedaily.com/releases/2025/10/251027023816.htm"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 10:24:02",
-      "https://news.ycombinator.com/item?id=47397190"
-    ],
-    [
-      "Ask HN: What is it like being in a CS major program these days?",
-      "https://news.ycombinator.com/item?id=47397190"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 04:09:50",
-      "https://news.ycombinator.com/item?id=47395147"
-    ],
-    [
-      "ASCII and Unicode quotation marks (2007)",
-      "https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "The Linux Programming Interface as a university course text",
       "https://man7.org/tlpi/academic/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 22:15:50",
-      "https://news.ycombinator.com/item?id=47392547"
-    ],
-    [
-      "A new Bigfoot documentary helps explain our conspiracy-minded era",
-      "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px"
     ]
   ],
   [
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2026-03-15, 18:56:58",
+      "https://news.ycombinator.com/item?id=47390609"
+    ],
+    [
+      "The \"are you sure?\" Problem: Why AI keeps changing its mind",
+      "https://www.randalolson.com/2026/02/07/the-are-you-sure-problem-why-your-ai-keeps-changing-its-mind/"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 17:25:00",
       "https://news.ycombinator.com/item?id=47389570"
     ],
@@ -117,16 +137,6 @@
     [
       "LLM Architecture Gallery",
       "https://sebastianraschka.com/llm-architecture-gallery/"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 15:21:04",
-      "https://news.ycombinator.com/item?id=47388273"
-    ],
-    [
-      "Learning athletic humanoid tennis skills from imperfect human motion data",
-      "https://zzk273.github.io/LATENT/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-03-15, 10:47:35",
-      "https://news.ycombinator.com/item?id=47386116"
-    ],
-    [
-      "A Visual Introduction to Machine Learning (2015)",
-      "https://r2d3.us/visual-intro-to-machine-learning-part-1/"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 09:07:52",
       "https://news.ycombinator.com/item?id=47385579"
     ],
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2026-03-15, 07:11:32",
-      "https://news.ycombinator.com/item?id=47385011"
+      "2026-03-13, 17:49:54",
+      "https://news.ycombinator.com/item?id=47367443"
     ],
     [
-      "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
-      "https://github.com/jtsylve/spice-crypt"
+      "The Accidental Room (2018)",
+      "https://99percentinvisible.org/episode/the-accidental-room/"
     ]
   ],
   [
