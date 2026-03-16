@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-16, 21:00:06](https://news.ycombinator.com/item?id=47404801) - [AnswerThis (YC F25) Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead)
-* [2026-03-16, 20:59:40](https://news.ycombinator.com/item?id=47404796) - [Mistral Releases Leanstral](https://mistral.ai/news/leanstral)
+* [2026-03-16, 20:59:40](https://news.ycombinator.com/item?id=47404796) - [Leanstral: Open-Source foundation for trustworthy vibe-coding](https://mistral.ai/news/leanstral)
 * [2026-03-16, 20:01:02](https://news.ycombinator.com/item?id=47404074) - [Nvidia Launches Vera CPU, Purpose-Built for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
-* [2026-03-16, 18:38:14](https://news.ycombinator.com/item?id=47402950) - [Palestinian boy, 12, describes how Israeli forces killed his family in car](https://www.bbc.com/news/articles/c70n2x7p22do)
 * [2026-03-16, 18:12:32](https://news.ycombinator.com/item?id=47402640) - [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
 * [2026-03-16, 17:19:13](https://news.ycombinator.com/item?id=47401901) - [Language Model Teams as Distrbuted Systems](https://arxiv.org/abs/2603.12229)
 * [2026-03-16, 17:17:57](https://news.ycombinator.com/item?id=47401879) - [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
@@ -25,6 +24,7 @@
 * [2026-03-16, 08:07:29](https://news.ycombinator.com/item?id=47396264) - [Starlink Mini as a failover](https://www.jackpearce.co.uk/posts/starlink-failover/)
 * [2026-03-15, 22:10:47](https://news.ycombinator.com/item?id=47392510) - [Cert Authorities Check for DNSSEC from Today](https://www.grepular.com/Cert_Authorities_Check_for_DNSSEC_From_Today)
 * [2026-03-15, 18:32:27](https://news.ycombinator.com/item?id=47390345) - [The bureaucracy blocking the chance at a cure](https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance)
+* [2026-03-13, 16:49:01](https://news.ycombinator.com/item?id=47366766) - [Show HN: Thermal Receipt Printers – Markdown and Web UI](https://github.com/sadreck/ThermalMarky)
 * [2026-03-13, 13:35:12](https://news.ycombinator.com/item?id=47364260) - [Show HN: Oxyde – Pydantic-native async ORM with a Rust core](https://github.com/mr-fatalyst/oxyde)
 * [2026-03-13, 01:38:44](https://news.ycombinator.com/item?id=47359712) - [Lies I was told about collaborative editing, Part 2: Why we don't use Yjs](https://www.moment.dev/blog/lies-i-was-told-pt-2)
 * [2026-03-12, 10:19:14](https://news.ycombinator.com/item?id=47348652) - [Home Assistant waters my plants](https://finnian.io/blog/home-assistant-waters-my-plants/)
