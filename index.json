@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-03-17, 04:39:42",
+      "https://news.ycombinator.com/item?id=47408703"
+    ],
+    [
+      "Kagi Translate now supports LinkedIn Speak as an output language",
+      "https://translate.kagi.com/?from=en&to=LinkedIn+speak"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 04:10:31",
+      "https://news.ycombinator.com/item?id=47408497"
+    ],
+    [
+      "Zenclora OS",
+      "https://zenclora.org/"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 04:00:28",
+      "https://news.ycombinator.com/item?id=47408441"
+    ],
+    [
+      "Monkey Island for Commodore 64 Ground Up",
+      "https://pixeldust.se/monkey-island-project"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 03:46:22",
+      "https://news.ycombinator.com/item?id=47408360"
+    ],
+    [
+      "Jepsen: MariaDB Galera Cluster 12.1.2",
+      "https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 03:20:36",
+      "https://news.ycombinator.com/item?id=47408205"
+    ],
+    [
+      "Every layer of review makes you 10x slower",
+      "https://apenwarr.ca/log/20260316"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 00:02:35",
       "https://news.ycombinator.com/item?id=47406779"
     ],
@@ -101,16 +151,6 @@
   ],
   [
     [
-      "2026-03-16, 15:25:36",
-      "https://news.ycombinator.com/item?id=47400261"
-    ],
-    [
-      "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-      "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"
-    ]
-  ],
-  [
-    [
       "2026-03-16, 13:22:03",
       "https://news.ycombinator.com/item?id=47398681"
     ],
@@ -131,32 +171,12 @@
   ],
   [
     [
-      "2026-03-16, 12:05:08",
-      "https://news.ycombinator.com/item?id=47397857"
-    ],
-    [
-      "Lazycut: A simple terminal video trimmer using FFmpeg",
-      "https://github.com/emin-ozata/lazycut"
-    ]
-  ],
-  [
-    [
       "2026-03-16, 12:00:06",
       "https://news.ycombinator.com/item?id=47397822"
     ],
     [
       "Polymarket gamblers threaten to kill me over Iran missile story",
       "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 11:25:31",
-      "https://news.ycombinator.com/item?id=47397593"
-    ],
-    [
-      "Corruption erodes social trust more in democracies than in autocracies",
-      "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "Starlink Mini as a failover",
       "https://www.jackpearce.co.uk/posts/starlink-failover/"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 22:10:47",
-      "https://news.ycombinator.com/item?id=47392510"
-    ],
-    [
-      "Cert Authorities Check for DNSSEC from Today",
-      "https://www.grepular.com/Cert_Authorities_Check_for_DNSSEC_From_Today"
     ]
   ],
   [
@@ -217,6 +227,16 @@
     [
       "Show HN: Thermal Receipt Printers – Markdown and Web UI",
       "https://github.com/sadreck/ThermalMarky"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 14:53:10",
+      "https://news.ycombinator.com/item?id=47365299"
+    ],
+    [
+      "Claude Tips for 3D Work",
+      "https://www.davesnider.com/posts/claude-3d"
     ]
   ],
   [
@@ -261,12 +281,12 @@
   ],
   [
     [
-      "2026-03-12, 16:20:06",
-      "https://news.ycombinator.com/item?id=47353169"
+      "2026-03-12, 15:37:37",
+      "https://news.ycombinator.com/item?id=47352353"
     ],
     [
-      "Show HN: GitClassic.com, a fast, lightweight GitHub thin client (pages <14KB)",
-      "https://gitclassic.com"
+      "Lf-lean: The frontier of verified software engineering",
+      "https://theorem.dev/blog/lf-lean/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Home Assistant waters my plants",
       "https://finnian.io/blog/home-assistant-waters-my-plants/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 00:53:12",
-      "https://news.ycombinator.com/item?id=47344821"
-    ],
-    [
-      "On The Need For Understanding",
-      "https://blog.information-superhighway.net/on-the-need-for-understanding"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 21:26:16",
-      "https://news.ycombinator.com/item?id=47342185"
-    ],
-    [
-      "Kona EV Hacking",
-      "http://techno-fandom.org/~hobbit/cars/ev/"
     ]
   ]
 ]
