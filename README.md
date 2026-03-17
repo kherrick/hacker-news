@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-17, 15:16:29](https://news.ycombinator.com/item?id=47413876) - [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level)
 * [2026-03-17, 14:51:57](https://news.ycombinator.com/item?id=47413525) - [FFmpeg 8.1](https://ffmpeg.org/index.html#pr8.1)
 * [2026-03-17, 14:28:37](https://news.ycombinator.com/item?id=47413195) - [Why Node.js needs a virtual file system](https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system)
 * [2026-03-17, 13:54:17](https://news.ycombinator.com/item?id=47412726) - [OpenSUSE Kalpa](https://kalpadesktop.org/)
 * [2026-03-17, 13:03:38](https://news.ycombinator.com/item?id=47412097) - [A proposal to classify happiness as a psychiatric disorder](https://pmc.ncbi.nlm.nih.gov/articles/PMC1376114/)
 * [2026-03-17, 12:01:05](https://news.ycombinator.com/item?id=47411480) - [Ryugu asteroid samples contain all DNA and RNA building blocks](https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html)
-* [2026-03-17, 10:39:48](https://news.ycombinator.com/item?id=47410870) - [Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech](https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech)
 * [2026-03-17, 09:53:53](https://news.ycombinator.com/item?id=47410542) - [Kagi Small Web](https://kagi.com/smallweb/)
 * [2026-03-17, 09:52:34](https://news.ycombinator.com/item?id=47410532) - [Building a Shell](https://healeycodes.com/building-a-shell)
 * [2026-03-17, 08:15:34](https://news.ycombinator.com/item?id=47409885) - [Reverse-engineering Viktor and making it Open Source](https://matijacniacki.com/blog/openviktor)
@@ -18,7 +18,6 @@
 * [2026-03-16, 17:17:57](https://news.ycombinator.com/item?id=47401879) - [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
 * [2026-03-16, 17:13:27](https://news.ycombinator.com/item?id=47401809) - [The American Healthcare Conundrum](https://github.com/rexrodeo/american-healthcare-conundrum)
 * [2026-03-16, 15:12:50](https://news.ycombinator.com/item?id=47400089) - [Give Django your time and money, not your tokens](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/)
-* [2026-03-16, 13:09:58](https://news.ycombinator.com/item?id=47398534) - [My Journey to a reliable and enjoyable locally hosted voice assistant (2025)](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860)
 * [2026-03-16, 11:23:14](https://news.ycombinator.com/item?id=47397574) - [Why I love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/)
 * [2026-03-13, 19:31:56](https://news.ycombinator.com/item?id=47368660) - [Gummy Geometry](https://newkrok.github.io/nape-js/examples.html?open=soft-body&mode=3d&outline=0)
 * [2026-03-13, 17:34:45](https://news.ycombinator.com/item?id=47367298) - [Pyodide: a Python distribution based on WebAssembly](https://github.com/pyodide/pyodide)
@@ -30,6 +29,7 @@
 * [2026-03-12, 22:51:04](https://news.ycombinator.com/item?id=47358335) - [How long does it take to get last liquid drops from kitchen containers?](https://www.brown.edu/news/2026-03-04/kitchen-fluid-dynamics)
 * [2026-03-12, 22:00:49](https://news.ycombinator.com/item?id=47357846) - [Diels-grabsch2: Self Hashing C Program (2019)](https://www.ioccc.org/2019/diels-grabsch2/)
 * [2026-03-12, 21:44:51](https://news.ycombinator.com/item?id=47357633) - [Perlsky Is a Perl 5 Implementation of an at Protocol Personal Data Server](https://tangled.org/alice.mosphere.at/perlsky)
+* [2026-03-12, 20:12:45](https://news.ycombinator.com/item?id=47356382) - [The Official GBBS Pro Repository](https://gbbs.applearchives.com/)
 
 ## [Archives](archives/index.md)
 

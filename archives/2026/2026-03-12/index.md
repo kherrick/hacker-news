@@ -15,6 +15,7 @@
 * [2026-03-12, 20:55:51](https://news.ycombinator.com/item?id=47356968) - [AI error jails innocent grandmother for months in North Dakota fraud case](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 * [2026-03-12, 20:41:51](https://news.ycombinator.com/item?id=47356782) - [A Plain Anabaptist Story: The Hutterites](https://ulmer457718.substack.com/p/a-plain-anabaptist-story-the-hutterites)
 * [2026-03-12, 20:13:15](https://news.ycombinator.com/item?id=47356392) - [Bringing Chrome to ARM64 Linux Devices](https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html)
+* [2026-03-12, 20:12:45](https://news.ycombinator.com/item?id=47356382) - [The Official GBBS Pro Repository](https://gbbs.applearchives.com/)
 * [2026-03-12, 19:41:35](https://news.ycombinator.com/item?id=47356017) - [An old photo of a large BBS](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
 * [2026-03-12, 19:21:45](https://news.ycombinator.com/item?id=47355781) - [Runners Are Discovering It's Surprisingly Easy to Churn Butter on Their Runs](https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/)
 * [2026-03-12, 19:14:21](https://news.ycombinator.com/item?id=47355702) - [White House plan to break up iconic U.S. climate lab moves forward](https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward)
