@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-03-17, 20:39:19",
-      "https://news.ycombinator.com/item?id=47417983"
+      "2026-03-17, 21:42:39",
+      "https://news.ycombinator.com/item?id=47418722"
     ],
     [
-      "Warranty Void If Regenerated",
-      "https://nearzero.software/p/warranty-void-if-regenerated"
+      "Why AI systems don't learn – On autonomous learning from cognitive science",
+      "https://arxiv.org/abs/2603.15381"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 21:04:26",
+      "https://news.ycombinator.com/item?id=47418295"
+    ],
+    [
+      "Mistral AI Releases Forge",
+      "https://mistral.ai/news/forge"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-03-17, 08:15:34",
-      "https://news.ycombinator.com/item?id=47409885"
-    ],
-    [
-      "Reverse-engineering Viktor and making it open source",
-      "https://matijacniacki.com/blog/openviktor"
-    ]
-  ],
-  [
-    [
       "2026-03-17, 04:43:29",
       "https://news.ycombinator.com/item?id=47408727"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2026-03-14, 00:12:44",
+      "https://news.ycombinator.com/item?id=47371785"
+    ],
+    [
+      "Show HN: Fatal Core Dump – a debugging murder mystery played with GDB",
+      "https://www.robopenguins.com/fatal_core_dump/"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 19:14:46",
       "https://news.ycombinator.com/item?id=47368425"
     ],
     [
       "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
       "https://www.youtube.com/watch?v=3Ploi723hg4"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 16:35:44",
-      "https://news.ycombinator.com/item?id=47366616"
-    ],
-    [
-      "Font Smuggler – Copy hidden brand fonts into Google Docs",
-      "https://brianmoore.com/fontsmuggler/"
     ]
   ],
   [
