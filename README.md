@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-17, 20:39:19](https://news.ycombinator.com/item?id=47417983) - [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
 * [2026-03-17, 20:24:33](https://news.ycombinator.com/item?id=47417814) - [Meta and TikTok let harmful content rise to drove engagement, say whistleblowers](https://www.bbc.com/news/articles/cqj9kgxqjwjo)
 * [2026-03-17, 20:23:39](https://news.ycombinator.com/item?id=47417804) - [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done)
 * [2026-03-17, 18:59:50](https://news.ycombinator.com/item?id=47416736) - [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
@@ -19,10 +20,8 @@
 * [2026-03-17, 12:56:24](https://news.ycombinator.com/item?id=47412015) - [Show HN: March Madness Bracket Challenge for AI Agents Only](https://www.Bracketmadness.ai)
 * [2026-03-17, 12:01:05](https://news.ycombinator.com/item?id=47411480) - [Ryugu asteroid samples contain all DNA and RNA building blocks](https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html)
 * [2026-03-17, 09:53:53](https://news.ycombinator.com/item?id=47410542) - [Kagi Small Web](https://kagi.com/smallweb/)
-* [2026-03-17, 09:52:34](https://news.ycombinator.com/item?id=47410532) - [Building a Shell](https://healeycodes.com/building-a-shell)
 * [2026-03-17, 08:15:34](https://news.ycombinator.com/item?id=47409885) - [Reverse-engineering Viktor and making it open source](https://matijacniacki.com/blog/openviktor)
 * [2026-03-17, 04:43:29](https://news.ycombinator.com/item?id=47408727) - [Show HN: Crust – A CLI framework for TypeScript and Bun](https://github.com/chenxin-yan/crust)
-* [2026-03-16, 20:59:40](https://news.ycombinator.com/item?id=47404796) - [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral)
 * [2026-03-16, 10:52:33](https://news.ycombinator.com/item?id=47397367) - [Toward automated verification of unreviewed AI-generated code](https://peterlavigne.com/writing/verifying-ai-generated-code)
 * [2026-03-15, 13:38:08](https://news.ycombinator.com/item?id=47387268) - [Honda is killing its EVs](https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/)
 * [2026-03-14, 07:25:09](https://news.ycombinator.com/item?id=47374197) - [Torturing Rustc by Emulating HKTs](https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/)
@@ -30,6 +29,7 @@
 * [2026-03-13, 16:35:44](https://news.ycombinator.com/item?id=47366616) - [Font Smuggler – Copy hidden brand fonts into Google Docs](https://brianmoore.com/fontsmuggler/)
 * [2026-03-13, 15:57:21](https://news.ycombinator.com/item?id=47366177) - [The Plumbing of Everyday Magic](https://plumbing-of-everyday-magic.hyperclay.com/)
 * [2026-03-13, 13:40:21](https://news.ycombinator.com/item?id=47364337) - [Finding a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
+* [2026-03-13, 06:18:17](https://news.ycombinator.com/item?id=47361251) - [Chrome extension adjusts video speed based on how fast the speaker is talking](https://github.com/ywong137/speech-speed)
 
 ## [Archives](archives/index.md)
 
