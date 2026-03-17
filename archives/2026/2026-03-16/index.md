@@ -22,6 +22,7 @@
 * [2026-03-16, 16:21:07](https://news.ycombinator.com/item?id=47401042) - [Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps](https://news.ycombinator.com/item?id=47401042)
 * [2026-03-16, 16:07:29](https://news.ycombinator.com/item?id=47400868) - [Show HN: Claude Code skills that build complete Godot games](https://github.com/htdt/godogen)
 * [2026-03-16, 15:25:36](https://news.ycombinator.com/item?id=47400261) - [MCP Server Is Eating Your Context Window. There's a Simpler Way](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
+* [2026-03-16, 15:12:50](https://news.ycombinator.com/item?id=47400089) - [Give Django your time and money, not your tokens](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/)
 * [2026-03-16, 15:10:30](https://news.ycombinator.com/item?id=47400060) - [US Job Market Visualizer – Andrej Karpathy](https://karpathy.ai/jobs/)
 * [2026-03-16, 14:21:07](https://news.ycombinator.com/item?id=47399437) - [Event Publisher enables event integration between Keycloak and OpenFGA](https://github.com/embesozzi/keycloak-openfga-event-publisher)
 * [2026-03-16, 13:45:29](https://news.ycombinator.com/item?id=47398971) - [FreeBSD risks losing relevance by ignoring AI tooling like Claude Code](https://discoverbsd.com/p/8a7660c31b)

@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
 * [2026-03-12, 23:55:07](https://news.ycombinator.com/item?id=47358958) - [Enabling Efficient Sparse Computations Using Linear Algebra Aware Compilers](https://www.osti.gov/biblio/3013883)
+* [2026-03-12, 22:51:04](https://news.ycombinator.com/item?id=47358335) - [How long does it take to get last liquid drops from kitchen containers?](https://www.brown.edu/news/2026-03-04/kitchen-fluid-dynamics)
 * [2026-03-12, 22:35:08](https://news.ycombinator.com/item?id=47358206) - [The AI coding divide: craft lovers vs. result chasers](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+* [2026-03-12, 22:00:49](https://news.ycombinator.com/item?id=47357846) - [Diels-grabsch2: Self Hashing C Program (2019)](https://www.ioccc.org/2019/diels-grabsch2/)
+* [2026-03-12, 21:44:51](https://news.ycombinator.com/item?id=47357633) - [Perlsky Is a Perl 5 Implementation of an at Protocol Personal Data Server](https://tangled.org/alice.mosphere.at/perlsky)
 * [2026-03-12, 21:38:06](https://news.ycombinator.com/item?id=47357515) - [Show HN: OpenClaw-class agents on ESP32 (and the IDE that makes it possible)](https://pycoclaw.com/)
 * [2026-03-12, 21:21:08](https://news.ycombinator.com/item?id=47357294) - [Illinois introduces OS-level age verification law](https://legiscan.com/IL/bill/SB3977/2025)
 * [2026-03-12, 21:01:10](https://news.ycombinator.com/item?id=47357042) - [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)

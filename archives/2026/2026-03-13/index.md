@@ -41,6 +41,7 @@
 * [2026-03-13, 14:53:10](https://news.ycombinator.com/item?id=47365299) - [Claude Tips for 3D Work](https://www.davesnider.com/posts/claude-3d)
 * [2026-03-13, 14:11:36](https://news.ycombinator.com/item?id=47364729) - [Parallels Confirms MacBook Neo Can Run Windows in a Virtual Machine](https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/)
 * [2026-03-13, 13:45:32](https://news.ycombinator.com/item?id=47364397) - [Run NanoClaw in Docker Sandboxes](https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/)
+* [2026-03-13, 13:40:21](https://news.ycombinator.com/item?id=47364337) - [Finding a CPU Design Bug in the Xbox 360](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
 * [2026-03-13, 13:35:12](https://news.ycombinator.com/item?id=47364260) - [Show HN: Oxyde – Pydantic-native async ORM with a Rust core](https://github.com/mr-fatalyst/oxyde)
 * [2026-03-13, 13:22:40](https://news.ycombinator.com/item?id=47364116) - [Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas](https://www.getspine.ai/)
 * [2026-03-13, 13:10:50](https://news.ycombinator.com/item?id=47363990) - [Nanny state discovers Linux, demands it check kids' IDs before booting](https://www.theregister.com/2026/03/13/opinion_os_verification/)

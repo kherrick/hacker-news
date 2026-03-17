@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-17](index.md)
 
+* [2026-03-17, 14:51:57](https://news.ycombinator.com/item?id=47413525) - [FFmpeg 8.1](https://ffmpeg.org/index.html#pr8.1)
+* [2026-03-17, 14:28:37](https://news.ycombinator.com/item?id=47413195) - [Why Node.js needs a virtual file system](https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system)
+* [2026-03-17, 13:54:17](https://news.ycombinator.com/item?id=47412726) - [OpenSUSE Kalpa](https://kalpadesktop.org/)
 * [2026-03-17, 13:03:38](https://news.ycombinator.com/item?id=47412097) - [A proposal to classify happiness as a psychiatric disorder](https://pmc.ncbi.nlm.nih.gov/articles/PMC1376114/)
 * [2026-03-17, 12:56:59](https://news.ycombinator.com/item?id=47412023) - [Silicon Valley's \"Pronatalists\" Killed WFH. The Strait of Hormuz Brought It Back](https://www.governance.fyi/p/silicon-valleys-pronatalists-killed)
 * [2026-03-17, 12:01:05](https://news.ycombinator.com/item?id=47411480) - [Ryugu asteroid samples contain all DNA and RNA building blocks](https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html)
