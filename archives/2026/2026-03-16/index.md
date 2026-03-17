@@ -42,6 +42,7 @@
 * [2026-03-16, 11:25:31](https://news.ycombinator.com/item?id=47397593) - [Corruption erodes social trust more in democracies than in autocracies](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full)
 * [2026-03-16, 11:23:14](https://news.ycombinator.com/item?id=47397574) - [I Love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/)
 * [2026-03-16, 11:16:39](https://news.ycombinator.com/item?id=47397528) - [Scientists discover a surprising way to quiet the anxious mind (2025)](https://www.sciencedaily.com/releases/2025/10/251027023816.htm)
+* [2026-03-16, 10:52:33](https://news.ycombinator.com/item?id=47397367) - [Toward automated verification of unreviewed AI-generated code](https://peterlavigne.com/writing/verifying-ai-generated-code)
 * [2026-03-16, 10:41:01](https://news.ycombinator.com/item?id=47397291) - [Linux 7.1 to Retire UDP-Lite – Allows for Better Performance with Cleansed Code](https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite)
 * [2026-03-16, 10:24:02](https://news.ycombinator.com/item?id=47397190) - [Ask HN: What is it like being in a CS major program these days?](https://news.ycombinator.com/item?id=47397190)
 * [2026-03-16, 08:07:29](https://news.ycombinator.com/item?id=47396264) - [Starlink Mini as a Failover](https://www.jackpearce.co.uk/posts/starlink-failover/)
