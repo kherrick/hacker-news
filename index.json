@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-17, 09:53:53",
+      "https://news.ycombinator.com/item?id=47410542"
+    ],
+    [
+      "Kagi Small Web",
+      "https://kagi.com/smallweb/"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 09:26:48",
+      "https://news.ycombinator.com/item?id=47410349"
+    ],
+    [
+      "Grace Hopper's Revenge",
+      "https://www.thefuriousopposites.com/p/grace-hoppers-revenge"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 04:39:42",
       "https://news.ycombinator.com/item?id=47408703"
     ],
@@ -17,16 +37,6 @@
     [
       "Monkey Island for Commodore 64 Ground Up",
       "https://pixeldust.se/monkey-island-project"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 03:46:22",
-      "https://news.ycombinator.com/item?id=47408360"
-    ],
-    [
-      "Jepsen: MariaDB Galera Cluster 12.1.2",
-      "https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Meta’s renewed commitment to jemalloc",
       "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 17:19:13",
-      "https://news.ycombinator.com/item?id=47401901"
-    ],
-    [
-      "Language model teams as distributed systems",
-      "https://arxiv.org/abs/2603.12229"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-03-13, 04:16:26",
-      "https://news.ycombinator.com/item?id=47360633"
-    ],
-    [
-      "Show HN: Droeftoeter, a Terminal Coding Toy",
-      "https://github.com/whtspc/droeftoeter"
-    ]
-  ],
-  [
-    [
       "2026-03-13, 03:16:08",
       "https://news.ycombinator.com/item?id=47360293"
     ],
@@ -297,6 +287,16 @@
     [
       "In space, no one can hear you kernel panic (2020)",
       "https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 15:50:09",
+      "https://news.ycombinator.com/item?id=47352578"
+    ],
+    [
+      "What CI looks like at a 100-person team (PostHog)",
+      "https://www.mendral.com/blog/ci-at-scale"
     ]
   ]
 ]
