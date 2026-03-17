@@ -45,6 +45,7 @@
 * [2026-03-13, 12:46:10](https://news.ycombinator.com/item?id=47363754) - [Can I Run AI locally?](https://www.canirun.ai/)
 * [2026-03-13, 12:31:09](https://news.ycombinator.com/item?id=47363584) - [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
 * [2026-03-13, 12:15:11](https://news.ycombinator.com/item?id=47363400) - [Show HN: Algorithms and Data Structures in TypeScript – Free Book (~400 Pages)](http://amoilanen.github.io/Algorithms-with-Typescript/)
+* [2026-03-13, 11:44:27](https://news.ycombinator.com/item?id=47363133) - [Sci-Fi Short Film \"There Is No Antimemetics Division\" [video]](https://www.youtube.com/watch?v=3v8AsTHfAG0)
 * [2026-03-13, 11:38:15](https://news.ycombinator.com/item?id=47363074) - [Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)](https://prompt-caching.ai/)
 * [2026-03-13, 10:44:06](https://news.ycombinator.com/item?id=47362684) - [AI toys for children misread emotions and respond inappropriately](https://www.bbc.co.uk/news/articles/clyg4wx6nxgo)
 * [2026-03-13, 10:32:45](https://news.ycombinator.com/item?id=47362613) - [TUI Studio – visual terminal UI design tool](https://tui.studio/)

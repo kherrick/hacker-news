@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-17, 04:39:42](https://news.ycombinator.com/item?id=47408703) - [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak)
-* [2026-03-17, 04:10:31](https://news.ycombinator.com/item?id=47408497) - [Zenclora OS](https://zenclora.org/)
 * [2026-03-17, 04:00:28](https://news.ycombinator.com/item?id=47408441) - [Monkey Island for Commodore 64 Ground Up](https://pixeldust.se/monkey-island-project)
 * [2026-03-17, 03:46:22](https://news.ycombinator.com/item?id=47408360) - [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
 * [2026-03-17, 03:20:36](https://news.ycombinator.com/item?id=47408205) - [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
@@ -25,6 +24,7 @@
 * [2026-03-13, 16:49:01](https://news.ycombinator.com/item?id=47366766) - [Show HN: Thermal Receipt Printers – Markdown and Web UI](https://github.com/sadreck/ThermalMarky)
 * [2026-03-13, 14:53:10](https://news.ycombinator.com/item?id=47365299) - [Claude Tips for 3D Work](https://www.davesnider.com/posts/claude-3d)
 * [2026-03-13, 13:35:12](https://news.ycombinator.com/item?id=47364260) - [Show HN: Oxyde – Pydantic-native async ORM with a Rust core](https://github.com/mr-fatalyst/oxyde)
+* [2026-03-13, 11:44:27](https://news.ycombinator.com/item?id=47363133) - [Sci-Fi Short Film \"There Is No Antimemetics Division\" [video]](https://www.youtube.com/watch?v=3v8AsTHfAG0)
 * [2026-03-13, 01:38:44](https://news.ycombinator.com/item?id=47359712) - [Lies I was told about collaborative editing, Part 2: Why we don't use Yjs](https://www.moment.dev/blog/lies-i-was-told-pt-2)
 * [2026-03-13, 00:02:00](https://news.ycombinator.com/item?id=47359010) - [In space, no one can hear you kernel panic (2020)](https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/)
 * [2026-03-12, 18:24:10](https://news.ycombinator.com/item?id=47355100) - [Canopy Height Maps v2](https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/?_fb_noscript=1)
