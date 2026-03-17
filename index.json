@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2026-03-16, 12:05:08",
+      "https://news.ycombinator.com/item?id=47397857"
+    ],
+    [
+      "Lazycut: A simple terminal video trimmer using FFmpeg",
+      "https://github.com/emin-ozata/lazycut"
+    ]
+  ],
+  [
+    [
       "2026-03-16, 12:00:06",
       "https://news.ycombinator.com/item?id=47397822"
     ],
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2026-03-13, 16:20:00",
+      "https://news.ycombinator.com/item?id=47366435"
+    ],
+    [
+      "The unlikely story of Teardown Multiplayer",
+      "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 14:53:10",
       "https://news.ycombinator.com/item?id=47365299"
     ],
@@ -251,6 +271,16 @@
   ],
   [
     [
+      "2026-03-13, 03:16:08",
+      "https://news.ycombinator.com/item?id=47360293"
+    ],
+    [
+      "Gitana 18: the new flying Ultim trimaran",
+      "https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 01:38:44",
       "https://news.ycombinator.com/item?id=47359712"
     ],
@@ -267,36 +297,6 @@
     [
       "In space, no one can hear you kernel panic (2020)",
       "https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 18:24:10",
-      "https://news.ycombinator.com/item?id=47355100"
-    ],
-    [
-      "Canopy Height Maps v2",
-      "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/?_fb_noscript=1"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 15:37:37",
-      "https://news.ycombinator.com/item?id=47352353"
-    ],
-    [
-      "Lf-lean: The frontier of verified software engineering",
-      "https://theorem.dev/blog/lf-lean/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 10:19:14",
-      "https://news.ycombinator.com/item?id=47348652"
-    ],
-    [
-      "Home Assistant waters my plants",
-      "https://finnian.io/blog/home-assistant-waters-my-plants/"
     ]
   ]
 ]
