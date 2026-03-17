@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-03-17, 14:51:57",
+      "https://news.ycombinator.com/item?id=47413525"
+    ],
+    [
+      "FFmpeg 8.1",
+      "https://ffmpeg.org/index.html#pr8.1"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 14:28:37",
+      "https://news.ycombinator.com/item?id=47413195"
+    ],
+    [
+      "Why Node.js needs a virtual file system",
+      "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 13:54:17",
+      "https://news.ycombinator.com/item?id=47412726"
+    ],
+    [
+      "OpenSUSE Kalpa",
+      "https://kalpadesktop.org/"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 13:03:38",
       "https://news.ycombinator.com/item?id=47412097"
     ],
     [
       "A proposal to classify happiness as a psychiatric disorder",
       "https://pmc.ncbi.nlm.nih.gov/articles/PMC1376114/"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 12:56:59",
-      "https://news.ycombinator.com/item?id=47412023"
-    ],
-    [
-      "Silicon Valley's \"Pronatalists\" Killed WFH. The Strait of Hormuz Brought It Back",
-      "https://www.governance.fyi/p/silicon-valleys-pronatalists-killed"
     ]
   ],
   [
@@ -151,12 +171,12 @@
   ],
   [
     [
-      "2026-03-16, 13:22:03",
-      "https://news.ycombinator.com/item?id=47398681"
+      "2026-03-16, 15:12:50",
+      "https://news.ycombinator.com/item?id=47400089"
     ],
     [
-      "AirPods Max 2",
-      "https://www.apple.com/airpods-max/"
+      "Give Django your time and money, not your tokens",
+      "https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "Why I love FreeBSD",
       "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 08:07:29",
-      "https://news.ycombinator.com/item?id=47396264"
-    ],
-    [
-      "Starlink Mini as a failover",
-      "https://www.jackpearce.co.uk/posts/starlink-failover/"
     ]
   ],
   [
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2026-03-13, 14:53:10",
-      "https://news.ycombinator.com/item?id=47365299"
+      "2026-03-13, 13:40:21",
+      "https://news.ycombinator.com/item?id=47364337"
     ],
     [
-      "Claude Tips for 3D Work",
-      "https://www.davesnider.com/posts/claude-3d"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 13:35:12",
-      "https://news.ycombinator.com/item?id=47364260"
-    ],
-    [
-      "Show HN: Oxyde – Pydantic-native async ORM with a Rust core",
-      "https://github.com/mr-fatalyst/oxyde"
+      "Finding a CPU Design Bug in the Xbox 360",
+      "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/"
     ]
   ],
   [
@@ -261,26 +261,6 @@
   ],
   [
     [
-      "2026-03-13, 06:00:07",
-      "https://news.ycombinator.com/item?id=47361151"
-    ],
-    [
-      "Fatal Core Dump Game",
-      "https://www.robopenguins.com/core-dump-game/"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 03:16:08",
-      "https://news.ycombinator.com/item?id=47360293"
-    ],
-    [
-      "Gitana 18: the new flying Ultim trimaran",
-      "https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 23:55:07",
       "https://news.ycombinator.com/item?id=47358958"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
-      "2026-03-12, 15:50:09",
-      "https://news.ycombinator.com/item?id=47352578"
+      "2026-03-12, 22:51:04",
+      "https://news.ycombinator.com/item?id=47358335"
     ],
     [
-      "What CI looks like at a 100-person team (PostHog)",
-      "https://www.mendral.com/blog/ci-at-scale"
+      "How long does it take to get last liquid drops from kitchen containers?",
+      "https://www.brown.edu/news/2026-03-04/kitchen-fluid-dynamics"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 22:00:49",
+      "https://news.ycombinator.com/item?id=47357846"
+    ],
+    [
+      "Diels-grabsch2: Self Hashing C Program (2019)",
+      "https://www.ioccc.org/2019/diels-grabsch2/"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 21:44:51",
+      "https://news.ycombinator.com/item?id=47357633"
+    ],
+    [
+      "Perlsky Is a Perl 5 Implementation of an at Protocol Personal Data Server",
+      "https://tangled.org/alice.mosphere.at/perlsky"
     ]
   ]
 ]
