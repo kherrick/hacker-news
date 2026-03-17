@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-17, 17:00:50",
+      "https://news.ycombinator.com/item?id=47415350"
+    ],
+    [
+      "Spice Data (YC S19) Is Hiring a Product Specialist",
+      "https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 15:56:09",
+      "https://news.ycombinator.com/item?id=47414440"
+    ],
+    [
+      "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil",
+      "https://theasc.com/articles/the-secret-agent-cinematography"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 15:45:15",
+      "https://news.ycombinator.com/item?id=47414291"
+    ],
+    [
+      "Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go",
+      "https://github.com/antflydb/antfly"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 15:16:29",
       "https://news.ycombinator.com/item?id=47413876"
     ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47413195"
     ],
     [
-      "Why Node.js needs a virtual file system",
+      "Node.js needs a virtual file system",
       "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system"
     ]
   ],
@@ -45,18 +75,18 @@
       "https://news.ycombinator.com/item?id=47412097"
     ],
     [
-      "A proposal to classify happiness as a psychiatric disorder",
+      "A proposal to classify happiness as a psychiatric disorder (1992)",
       "https://pmc.ncbi.nlm.nih.gov/articles/PMC1376114/"
     ]
   ],
   [
     [
-      "2026-03-17, 12:01:05",
-      "https://news.ycombinator.com/item?id=47411480"
+      "2026-03-17, 12:56:24",
+      "https://news.ycombinator.com/item?id=47412015"
     ],
     [
-      "Ryugu asteroid samples contain all DNA and RNA building blocks",
-      "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html"
+      "Show HN: March Madness Bracket Challenge for AI Agents Only",
+      "https://www.Bracketmadness.ai"
     ]
   ],
   [
@@ -91,6 +121,16 @@
   ],
   [
     [
+      "2026-03-17, 04:43:29",
+      "https://news.ycombinator.com/item?id=47408727"
+    ],
+    [
+      "Show HN: Crust – A CLI framework for TypeScript and Bun",
+      "https://github.com/chenxin-yan/crust"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 04:39:42",
       "https://news.ycombinator.com/item?id=47408703"
     ],
@@ -117,16 +157,6 @@
     [
       "US SEC preparing to scrap quarterly reporting requirement",
       "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 20:59:49",
-      "https://news.ycombinator.com/item?id=47404798"
-    ],
-    [
-      "Beyond has dropped “meat” from its name and expanded its high-protein drink line",
-      "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/"
     ]
   ],
   [
@@ -181,12 +211,22 @@
   ],
   [
     [
-      "2026-03-16, 11:23:14",
-      "https://news.ycombinator.com/item?id=47397574"
+      "2026-03-16, 10:52:33",
+      "https://news.ycombinator.com/item?id=47397367"
     ],
     [
-      "Why I love FreeBSD",
-      "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/"
+      "Toward automated verification of unreviewed AI-generated code",
+      "https://peterlavigne.com/writing/verifying-ai-generated-code"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 21:45:27",
+      "https://news.ycombinator.com/item?id=47370384"
+    ],
+    [
+      "What I Learned When I Started a Design Studio (2011)",
+      "https://www.subtraction.com/2011/12/12/when-i-started-a-design-studio/"
     ]
   ],
   [
@@ -215,7 +255,7 @@
       "https://news.ycombinator.com/item?id=47366616"
     ],
     [
-      "Font Smuggler – copy hidden brand fonts into Google Docs",
+      "Font Smuggler – Copy hidden brand fonts into Google Docs",
       "https://brianmoore.com/fontsmuggler/"
     ]
   ],
@@ -235,7 +275,7 @@
       "https://news.ycombinator.com/item?id=47364337"
     ],
     [
-      "Finding a CPU Design Bug in the Xbox 360",
+      "Finding a CPU Design Bug in the Xbox 360 (2018)",
       "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/"
     ]
   ],
@@ -255,48 +295,8 @@
       "https://news.ycombinator.com/item?id=47358958"
     ],
     [
-      "Enabling Efficient Sparse Computations Using Linear Algebra Aware Compilers",
+      "Efficient sparse computations using linear algebra aware compilers (2025)",
       "https://www.osti.gov/biblio/3013883"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 22:51:04",
-      "https://news.ycombinator.com/item?id=47358335"
-    ],
-    [
-      "How long does it take to get last liquid drops from kitchen containers?",
-      "https://www.brown.edu/news/2026-03-04/kitchen-fluid-dynamics"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 22:00:49",
-      "https://news.ycombinator.com/item?id=47357846"
-    ],
-    [
-      "Diels-grabsch2: Self Hashing C Program (2019)",
-      "https://www.ioccc.org/2019/diels-grabsch2/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 21:44:51",
-      "https://news.ycombinator.com/item?id=47357633"
-    ],
-    [
-      "Perlsky Is a Perl 5 Implementation of an at Protocol Personal Data Server",
-      "https://tangled.org/alice.mosphere.at/perlsky"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 20:12:45",
-      "https://news.ycombinator.com/item?id=47356382"
-    ],
-    [
-      "The Official GBBS Pro Repository",
-      "https://gbbs.applearchives.com/"
     ]
   ]
 ]
