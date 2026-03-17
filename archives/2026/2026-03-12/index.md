@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
+* [2026-03-12, 23:55:07](https://news.ycombinator.com/item?id=47358958) - [Enabling Efficient Sparse Computations Using Linear Algebra Aware Compilers](https://www.osti.gov/biblio/3013883)
 * [2026-03-12, 22:35:08](https://news.ycombinator.com/item?id=47358206) - [The AI coding divide: craft lovers vs. result chasers](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
 * [2026-03-12, 21:38:06](https://news.ycombinator.com/item?id=47357515) - [Show HN: OpenClaw-class agents on ESP32 (and the IDE that makes it possible)](https://pycoclaw.com/)
 * [2026-03-12, 21:21:08](https://news.ycombinator.com/item?id=47357294) - [Illinois introduces OS-level age verification law](https://legiscan.com/IL/bill/SB3977/2025)

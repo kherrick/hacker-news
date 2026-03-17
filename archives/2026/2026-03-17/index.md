@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-17](index.md)
 
+* [2026-03-17, 13:03:38](https://news.ycombinator.com/item?id=47412097) - [A proposal to classify happiness as a psychiatric disorder](https://pmc.ncbi.nlm.nih.gov/articles/PMC1376114/)
+* [2026-03-17, 12:56:59](https://news.ycombinator.com/item?id=47412023) - [Silicon Valley's \"Pronatalists\" Killed WFH. The Strait of Hormuz Brought It Back](https://www.governance.fyi/p/silicon-valleys-pronatalists-killed)
 * [2026-03-17, 12:01:05](https://news.ycombinator.com/item?id=47411480) - [Ryugu asteroid samples contain all DNA and RNA building blocks](https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html)
 * [2026-03-17, 10:39:48](https://news.ycombinator.com/item?id=47410870) - [Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech](https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech)
 * [2026-03-17, 09:53:53](https://news.ycombinator.com/item?id=47410542) - [Kagi Small Web](https://kagi.com/smallweb/)
