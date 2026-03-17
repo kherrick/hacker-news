@@ -27,7 +27,7 @@
 * [2026-03-14, 07:25:09](https://news.ycombinator.com/item?id=47374197) - [Torturing Rustc by Emulating HKTs](https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/)
 * [2026-03-14, 00:43:27](https://news.ycombinator.com/item?id=47372020) - [Show HN: I built an interactive 3D three-body problem simulator in the browser](https://structuredlabs.github.io/threebodyproblem/)
 * [2026-03-13, 19:14:46](https://news.ycombinator.com/item?id=47368425) - [It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]](https://www.youtube.com/watch?v=3Ploi723hg4)
-* [2026-03-13, 15:57:21](https://news.ycombinator.com/item?id=47366177) - [The Plumbing of Everyday Magic](https://plumbing-of-everyday-magic.hyperclay.com/)
+* [2026-03-13, 16:35:44](https://news.ycombinator.com/item?id=47366616) - [Font Smuggler – Copy hidden brand fonts into Google Docs](https://brianmoore.com/fontsmuggler/)
 * [2026-03-13, 13:40:21](https://news.ycombinator.com/item?id=47364337) - [Finding a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
 * [2026-03-13, 06:18:17](https://news.ycombinator.com/item?id=47361251) - [Chrome extension adjusts video speed based on how fast the speaker is talking](https://github.com/ywong137/speech-speed)
 
