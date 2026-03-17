@@ -39,6 +39,7 @@
 * [2026-03-15, 14:43:33](https://news.ycombinator.com/item?id=47387870) - [The Webpage Has Instructions. The Agent Has Your Credentials](https://openguard.sh/blog/prompt-injections/)
 * [2026-03-15, 13:58:13](https://news.ycombinator.com/item?id=47387434) - [Codegen is not productivity](https://www.antifound.com/posts/codegen-is-not-productivity/)
 * [2026-03-15, 13:47:34](https://news.ycombinator.com/item?id=47387353) - [NetBlocks says Iran blackout enters day 16 as arrests target Starlink users](https://www.iranintl.com/en/202603157402)
+* [2026-03-15, 13:38:08](https://news.ycombinator.com/item?id=47387268) - [Honda is killing its EVs](https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/)
 * [2026-03-15, 13:08:02](https://news.ycombinator.com/item?id=47387047) - [Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories](https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode)
 * [2026-03-15, 12:59:31](https://news.ycombinator.com/item?id=47386993) - [Small U.S. town, big company. Can it weather the tariff Blizzard? (Digi-Key)](https://www.npr.org/2025/04/24/nx-s1-5332209/digikey-tariff-small-minnesota-town-big-company)
 * [2026-03-15, 12:58:13](https://news.ycombinator.com/item?id=47386983) - [Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?](https://octetta.github.io/k-synth/)

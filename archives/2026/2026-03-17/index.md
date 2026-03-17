@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-03-17](index.md)
 
+* [2026-03-17, 20:24:33](https://news.ycombinator.com/item?id=47417814) - [Meta, TikTok let harmful content rise after evidence outrage drove engagement](https://www.bbc.com/news/articles/cqj9kgxqjwjo)
+* [2026-03-17, 20:23:39](https://news.ycombinator.com/item?id=47417804) - [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done)
 * [2026-03-17, 19:55:54](https://news.ycombinator.com/item?id=47417470) - [Claude Is Having an Outage](https://news.ycombinator.com/item?id=47417470)
 * [2026-03-17, 19:17:16](https://news.ycombinator.com/item?id=47416940) - [Meta Horizon Worlds on Meta Quest is being discontinued](https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435)
 * [2026-03-17, 18:59:50](https://news.ycombinator.com/item?id=47416736) - [Slug Text Rendering Algorithm Dedicated to Public Domain](https://terathon.com/blog/decade-slug.html)
 * [2026-03-17, 18:49:22](https://news.ycombinator.com/item?id=47416604) - [How OpenClaw's Memory System Works](https://www.db0.ai/blog/how-openclaw-memory-works)
 * [2026-03-17, 18:44:09](https://news.ycombinator.com/item?id=47416548) - [Java 26 is here, and with it a solid foundation for the future](https://hanno.codes/2026/03/17/java-26-is-here/)
+* [2026-03-17, 18:37:27](https://news.ycombinator.com/item?id=47416486) - [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
 * [2026-03-17, 18:14:24](https://news.ycombinator.com/item?id=47416227) - [Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust](https://github.com/peters/horizon)
 * [2026-03-17, 18:06:07](https://news.ycombinator.com/item?id=47416131) - [Illinois Introducing Operating System Account Age Bill](https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511)
 * [2026-03-17, 18:01:50](https://news.ycombinator.com/item?id=47416081) - [Edge.js: Run Node apps inside a WebAssembly sandbox](https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox)
@@ -17,6 +20,7 @@
 * [2026-03-17, 17:00:50](https://news.ycombinator.com/item?id=47415350) - [Spice Data (YC S19) Is Hiring a Product Specialist](https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad)
 * [2026-03-17, 15:56:09](https://news.ycombinator.com/item?id=47414440) - ['The Secret Agent': Exploring a Vibrant, yet Violent Brazil](https://theasc.com/articles/the-secret-agent-cinematography)
 * [2026-03-17, 15:45:15](https://news.ycombinator.com/item?id=47414291) - [Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go](https://github.com/antflydb/antfly)
+* [2026-03-17, 15:26:32](https://news.ycombinator.com/item?id=47414032) - [Unsloth Studio](https://unsloth.ai/docs/new/studio)
 * [2026-03-17, 15:16:29](https://news.ycombinator.com/item?id=47413876) - [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level)
 * [2026-03-17, 14:51:57](https://news.ycombinator.com/item?id=47413525) - [FFmpeg 8.1](https://ffmpeg.org/index.html#pr8.1)
 * [2026-03-17, 14:28:37](https://news.ycombinator.com/item?id=47413195) - [Why Node.js needs a virtual file system](https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system)
