@@ -70,6 +70,7 @@
 * [2026-03-13, 04:36:40](https://news.ycombinator.com/item?id=47360730) - [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8)
 * [2026-03-13, 04:16:26](https://news.ycombinator.com/item?id=47360633) - [Show HN: Droeftoeter, a Terminal Coding Toy](https://github.com/whtspc/droeftoeter)
 * [2026-03-13, 03:32:18](https://news.ycombinator.com/item?id=47360383) - [Hyperlinks in Terminal Emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda)
+* [2026-03-13, 03:29:52](https://news.ycombinator.com/item?id=47360359) - [Heart, head, life, fate](https://www.lrb.co.uk/the-paper/v48/n05/steven-shapin/heart-head-life-fate)
 * [2026-03-13, 03:16:08](https://news.ycombinator.com/item?id=47360293) - [Gitana 18: the new flying Ultim trimaran](https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran)
 * [2026-03-13, 03:06:37](https://news.ycombinator.com/item?id=47360243) - [Can You Instruct a Robot to Make a PBJ Sandwich?](https://pbj.deliberateinc.com/)
 * [2026-03-13, 01:58:41](https://news.ycombinator.com/item?id=47359822) - [Golden Sets: Regression Engineering for Probabilistic Systems](https://heavythoughtcloud.com/knowledge/designing-a-golden-set)

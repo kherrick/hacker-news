@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-17](index.md)
 
+* [2026-03-17, 18:06:07](https://news.ycombinator.com/item?id=47416131) - [Illinois Introducing Operating System Account Age Bill](https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511)
+* [2026-03-17, 17:07:06](https://news.ycombinator.com/item?id=47415441) - [GPT‑5.4 Mini and Nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)
 * [2026-03-17, 17:00:50](https://news.ycombinator.com/item?id=47415350) - [Spice Data (YC S19) Is Hiring a Product Specialist](https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad)
 * [2026-03-17, 15:56:09](https://news.ycombinator.com/item?id=47414440) - ['The Secret Agent': Exploring a Vibrant, yet Violent Brazil](https://theasc.com/articles/the-secret-agent-cinematography)
 * [2026-03-17, 15:45:15](https://news.ycombinator.com/item?id=47414291) - [Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go](https://github.com/antflydb/antfly)
