@@ -35,6 +35,7 @@
 * [2026-03-13, 15:29:16](https://news.ycombinator.com/item?id=47365784) - [NASA targets Artemis II crewed moon mission for April 1 launch](https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch)
 * [2026-03-13, 15:14:29](https://news.ycombinator.com/item?id=47365597) - [Meta Platforms: Lobbying, Dark Money, and the App Store Accountability Act](https://github.com/upper-up/meta-lobbying-and-other-findings)
 * [2026-03-13, 15:04:41](https://news.ycombinator.com/item?id=47365461) - [Two long-lost episodes of 'Doctor Who' have been found](https://apnews.com/article/doctor-who-lost-episodes-found-daleks-6849b09faa6eca9377b2a0db45d47ff8)
+* [2026-03-13, 14:53:10](https://news.ycombinator.com/item?id=47365299) - [Claude Tips for 3D Work](https://www.davesnider.com/posts/claude-3d)
 * [2026-03-13, 14:11:36](https://news.ycombinator.com/item?id=47364729) - [Parallels Confirms MacBook Neo Can Run Windows in a Virtual Machine](https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/)
 * [2026-03-13, 13:45:32](https://news.ycombinator.com/item?id=47364397) - [Run NanoClaw in Docker Sandboxes](https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/)
 * [2026-03-13, 13:35:12](https://news.ycombinator.com/item?id=47364260) - [Show HN: Oxyde – Pydantic-native async ORM with a Rust core](https://github.com/mr-fatalyst/oxyde)
