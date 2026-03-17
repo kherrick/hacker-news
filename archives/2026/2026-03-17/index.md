@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-03-17](index.md)
 
+* [2026-03-17, 19:17:16](https://news.ycombinator.com/item?id=47416940) - [Meta Horizon Worlds on Meta Quest is being discontinued](https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435)
+* [2026-03-17, 18:59:50](https://news.ycombinator.com/item?id=47416736) - [Slug Text Rendering Algorithm Dedicated to Public Domain](https://terathon.com/blog/decade-slug.html)
+* [2026-03-17, 18:49:22](https://news.ycombinator.com/item?id=47416604) - [How OpenClaw's Memory System Works](https://www.db0.ai/blog/how-openclaw-memory-works)
+* [2026-03-17, 18:44:09](https://news.ycombinator.com/item?id=47416548) - [Java 26 is here, and with it a solid foundation for the future](https://hanno.codes/2026/03/17/java-26-is-here/)
+* [2026-03-17, 18:14:24](https://news.ycombinator.com/item?id=47416227) - [Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust](https://github.com/peters/horizon)
 * [2026-03-17, 18:06:07](https://news.ycombinator.com/item?id=47416131) - [Illinois Introducing Operating System Account Age Bill](https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511)
+* [2026-03-17, 18:01:50](https://news.ycombinator.com/item?id=47416081) - [Edge.js: Run Node apps inside a WebAssembly sandbox](https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox)
+* [2026-03-17, 17:48:50](https://news.ycombinator.com/item?id=47415919) - [If you thought the code writing speed was your problem; you have bigger problems](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
 * [2026-03-17, 17:07:06](https://news.ycombinator.com/item?id=47415441) - [GPT‑5.4 Mini and Nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)
 * [2026-03-17, 17:00:50](https://news.ycombinator.com/item?id=47415350) - [Spice Data (YC S19) Is Hiring a Product Specialist](https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad)
 * [2026-03-17, 15:56:09](https://news.ycombinator.com/item?id=47414440) - ['The Secret Agent': Exploring a Vibrant, yet Violent Brazil](https://theasc.com/articles/the-secret-agent-cinematography)

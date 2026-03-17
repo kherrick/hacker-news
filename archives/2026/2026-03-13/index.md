@@ -35,6 +35,7 @@
 * [2026-03-13, 16:20:00](https://news.ycombinator.com/item?id=47366435) - [The unlikely story of Teardown Multiplayer](https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html)
 * [2026-03-13, 16:17:00](https://news.ycombinator.com/item?id=47366400) - [Channel Surfer – Watch YouTube Like It's Cable TV](https://channelsurfer.tv/)
 * [2026-03-13, 16:13:30](https://news.ycombinator.com/item?id=47366374) - [The Wyden Siren Goes Off Again: We'll Be \"Stunned\" by NSA Under Section 702](https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/)
+* [2026-03-13, 15:57:21](https://news.ycombinator.com/item?id=47366177) - [The Plumbing of Everyday Magic](https://plumbing-of-everyday-magic.hyperclay.com/)
 * [2026-03-13, 15:45:33](https://news.ycombinator.com/item?id=47366011) - [Launch HN: Captain (YC W26) – Automated RAG for Files](https://www.runcaptain.com/)
 * [2026-03-13, 15:29:16](https://news.ycombinator.com/item?id=47365784) - [NASA targets Artemis II crewed moon mission for April 1 launch](https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch)
 * [2026-03-13, 15:14:29](https://news.ycombinator.com/item?id=47365597) - [Meta Platforms: Lobbying, Dark Money, and the App Store Accountability Act](https://github.com/upper-up/meta-lobbying-and-other-findings)
