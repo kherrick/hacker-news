@@ -29,6 +29,7 @@
 * [2026-03-12, 16:20:06](https://news.ycombinator.com/item?id=47353169) - [Show HN: GitClassic.com, a fast, lightweight GitHub thin client (pages <14KB)](https://gitclassic.com)
 * [2026-03-12, 16:12:04](https://news.ycombinator.com/item?id=47353019) - [The Emotional Labor Behind AI Intimacy (2025) [pdf]](https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf)
 * [2026-03-12, 15:59:00](https://news.ycombinator.com/item?id=47352751) - [Claude now creates interactive charts, diagrams and visualizations](https://claude.com/blog/claude-builds-visuals)
+* [2026-03-12, 15:50:09](https://news.ycombinator.com/item?id=47352578) - [What CI looks like at a 100-person team (PostHog)](https://www.mendral.com/blog/ci-at-scale)
 * [2026-03-12, 15:43:39](https://news.ycombinator.com/item?id=47352459) - [The Met Releases High-Def 3D Scans of 140 Famous Art Objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html)
 * [2026-03-12, 15:39:50](https://news.ycombinator.com/item?id=47352385) - [WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations](https://github.com/wolfssl/wolfip)
 * [2026-03-12, 15:37:37](https://news.ycombinator.com/item?id=47352353) - [Lf-lean: The frontier of verified software engineering](https://theorem.dev/blog/lf-lean/)

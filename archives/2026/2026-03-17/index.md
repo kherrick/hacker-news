@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-17](index.md)
 
+* [2026-03-17, 09:53:53](https://news.ycombinator.com/item?id=47410542) - [Kagi Small Web](https://kagi.com/smallweb/)
+* [2026-03-17, 09:26:48](https://news.ycombinator.com/item?id=47410349) - [Grace Hopper's Revenge](https://www.thefuriousopposites.com/p/grace-hoppers-revenge)
 * [2026-03-17, 04:39:42](https://news.ycombinator.com/item?id=47408703) - [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak)
 * [2026-03-17, 04:10:31](https://news.ycombinator.com/item?id=47408497) - [Zenclora OS](https://zenclora.org/)
 * [2026-03-17, 04:00:28](https://news.ycombinator.com/item?id=47408441) - [Monkey Island for Commodore 64 Ground Up](https://pixeldust.se/monkey-island-project)
