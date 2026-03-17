@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-17, 00:02:35",
+      "https://news.ycombinator.com/item?id=47406779"
+    ],
+    [
+      "US SEC preparing to scrap quarterly reporting requirement",
+      "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/"
+    ]
+  ],
+  [
+    [
       "2026-03-16, 23:36:43",
       "https://news.ycombinator.com/item?id=47406569"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47404796"
     ],
     [
-      "Leanstral: Open-Source foundation for trustworthy vibe-coding",
+      "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
       "https://mistral.ai/news/leanstral"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "US commercial insurers pay 254% of Medicare for the same hospital procedures",
       "https://github.com/rexrodeo/american-healthcare-conundrum"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 17:09:34",
-      "https://news.ycombinator.com/item?id=47401766"
-    ],
-    [
-      "Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure",
-      "https://www.usechamber.io/"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
       "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 12:25:18",
-      "https://news.ycombinator.com/item?id=47398023"
-    ],
-    [
-      "Comparing Python Type Checkers: Typing Spec Conformance",
-      "https://pyrefly.org/blog/typing-conformance-comparison/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
       "https://www.moment.dev/blog/lies-i-was-told-pt-2"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 00:02:00",
+      "https://news.ycombinator.com/item?id=47359010"
+    ],
+    [
+      "In space, no one can hear you kernel panic",
+      "https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/"
     ]
   ],
   [
