@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-17](index.md)
 
+* [2026-03-17, 19:55:54](https://news.ycombinator.com/item?id=47417470) - [Claude Is Having an Outage](https://news.ycombinator.com/item?id=47417470)
 * [2026-03-17, 19:17:16](https://news.ycombinator.com/item?id=47416940) - [Meta Horizon Worlds on Meta Quest is being discontinued](https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435)
 * [2026-03-17, 18:59:50](https://news.ycombinator.com/item?id=47416736) - [Slug Text Rendering Algorithm Dedicated to Public Domain](https://terathon.com/blog/decade-slug.html)
 * [2026-03-17, 18:49:22](https://news.ycombinator.com/item?id=47416604) - [How OpenClaw's Memory System Works](https://www.db0.ai/blog/how-openclaw-memory-works)
