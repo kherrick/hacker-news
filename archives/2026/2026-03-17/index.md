@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-17](index.md)
 
+* [2026-03-17, 12:01:05](https://news.ycombinator.com/item?id=47411480) - [Ryugu asteroid samples contain all DNA and RNA building blocks](https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html)
 * [2026-03-17, 10:39:48](https://news.ycombinator.com/item?id=47410870) - [Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech](https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech)
 * [2026-03-17, 09:53:53](https://news.ycombinator.com/item?id=47410542) - [Kagi Small Web](https://kagi.com/smallweb/)
 * [2026-03-17, 09:52:34](https://news.ycombinator.com/item?id=47410532) - [Building a Shell](https://healeycodes.com/building-a-shell)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-17, 12:01:05](https://news.ycombinator.com/item?id=47411480) - [Ryugu asteroid samples contain all DNA and RNA building blocks](https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html)
 * [2026-03-17, 10:39:48](https://news.ycombinator.com/item?id=47410870) - [Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech](https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech)
 * [2026-03-17, 09:53:53](https://news.ycombinator.com/item?id=47410542) - [Kagi Small Web](https://kagi.com/smallweb/)
 * [2026-03-17, 09:52:34](https://news.ycombinator.com/item?id=47410532) - [Building a Shell](https://healeycodes.com/building-a-shell)
@@ -21,14 +22,13 @@
 * [2026-03-16, 08:07:29](https://news.ycombinator.com/item?id=47396264) - [Starlink Mini as a failover](https://www.jackpearce.co.uk/posts/starlink-failover/)
 * [2026-03-13, 19:31:56](https://news.ycombinator.com/item?id=47368660) - [Gummy Geometry](https://newkrok.github.io/nape-js/examples.html?open=soft-body&mode=3d&outline=0)
 * [2026-03-13, 17:34:45](https://news.ycombinator.com/item?id=47367298) - [Pyodide: a Python distribution based on WebAssembly](https://github.com/pyodide/pyodide)
-* [2026-03-13, 16:49:01](https://news.ycombinator.com/item?id=47366766) - [Show HN: Thermal Receipt Printers – Markdown and Web UI](https://github.com/sadreck/ThermalMarky)
+* [2026-03-13, 16:35:44](https://news.ycombinator.com/item?id=47366616) - [Font Smuggler – copy hidden brand fonts into Google Docs](https://brianmoore.com/fontsmuggler/)
 * [2026-03-13, 16:20:00](https://news.ycombinator.com/item?id=47366435) - [The unlikely story of Teardown Multiplayer](https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html)
 * [2026-03-13, 14:53:10](https://news.ycombinator.com/item?id=47365299) - [Claude Tips for 3D Work](https://www.davesnider.com/posts/claude-3d)
 * [2026-03-13, 13:35:12](https://news.ycombinator.com/item?id=47364260) - [Show HN: Oxyde – Pydantic-native async ORM with a Rust core](https://github.com/mr-fatalyst/oxyde)
 * [2026-03-13, 11:44:27](https://news.ycombinator.com/item?id=47363133) - [Sci-Fi Short Film “There Is No Antimemetics Division” [video]](https://www.youtube.com/watch?v=3v8AsTHfAG0)
 * [2026-03-13, 06:00:07](https://news.ycombinator.com/item?id=47361151) - [Fatal Core Dump Game](https://www.robopenguins.com/core-dump-game/)
 * [2026-03-13, 03:16:08](https://news.ycombinator.com/item?id=47360293) - [Gitana 18: the new flying Ultim trimaran](https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran)
-* [2026-03-13, 00:02:00](https://news.ycombinator.com/item?id=47359010) - [In space, no one can hear you kernel panic (2020)](https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/)
 * [2026-03-12, 15:50:09](https://news.ycombinator.com/item?id=47352578) - [What CI looks like at a 100-person team (PostHog)](https://www.mendral.com/blog/ci-at-scale)
 
 ## [Archives](archives/index.md)

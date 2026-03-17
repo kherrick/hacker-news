@@ -30,6 +30,7 @@
 * [2026-03-13, 16:49:01](https://news.ycombinator.com/item?id=47366766) - [Show HN: Thermal Receipt Printers – Markdown and Web UI](https://github.com/sadreck/ThermalMarky)
 * [2026-03-13, 16:40:42](https://news.ycombinator.com/item?id=47366666) - [Elon Musk pushes out more xAI founders as AI coding effort falters](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
 * [2026-03-13, 16:40:27](https://news.ycombinator.com/item?id=47366664) - [OVH forgot they donated documentation hosting to Pandas](https://github.com/pandas-dev/pandas/issues/64584)
+* [2026-03-13, 16:35:44](https://news.ycombinator.com/item?id=47366616) - [Font Smuggler – copy hidden brand fonts into Google Docs](https://brianmoore.com/fontsmuggler/)
 * [2026-03-13, 16:20:00](https://news.ycombinator.com/item?id=47366435) - [The unlikely story of Teardown Multiplayer](https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html)
 * [2026-03-13, 16:17:00](https://news.ycombinator.com/item?id=47366400) - [Channel Surfer – Watch YouTube Like It's Cable TV](https://channelsurfer.tv/)
 * [2026-03-13, 16:13:30](https://news.ycombinator.com/item?id=47366374) - [The Wyden Siren Goes Off Again: We'll Be \"Stunned\" by NSA Under Section 702](https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/)
