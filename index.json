@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-17, 15:16:29",
+      "https://news.ycombinator.com/item?id=47413876"
+    ],
+    [
+      "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+      "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 14:51:57",
       "https://news.ycombinator.com/item?id=47413525"
     ],
@@ -47,16 +57,6 @@
     [
       "Ryugu asteroid samples contain all DNA and RNA building blocks",
       "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 10:39:48",
-      "https://news.ycombinator.com/item?id=47410870"
-    ],
-    [
-      "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
-      "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-03-16, 13:09:58",
-      "https://news.ycombinator.com/item?id=47398534"
-    ],
-    [
-      "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
-      "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860"
-    ]
-  ],
-  [
-    [
       "2026-03-16, 11:23:14",
       "https://news.ycombinator.com/item?id=47397574"
     ],
@@ -297,6 +287,16 @@
     [
       "Perlsky Is a Perl 5 Implementation of an at Protocol Personal Data Server",
       "https://tangled.org/alice.mosphere.at/perlsky"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 20:12:45",
+      "https://news.ycombinator.com/item?id=47356382"
+    ],
+    [
+      "The Official GBBS Pro Repository",
+      "https://gbbs.applearchives.com/"
     ]
   ]
 ]
