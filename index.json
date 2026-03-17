@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-17, 20:39:19",
+      "https://news.ycombinator.com/item?id=47417983"
+    ],
+    [
+      "Warranty Void If Regenerated",
+      "https://nearzero.software/p/warranty-void-if-regenerated"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 20:24:33",
       "https://news.ycombinator.com/item?id=47417814"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-03-17, 09:52:34",
-      "https://news.ycombinator.com/item?id=47410532"
-    ],
-    [
-      "Building a Shell",
-      "https://healeycodes.com/building-a-shell"
-    ]
-  ],
-  [
-    [
       "2026-03-17, 08:15:34",
       "https://news.ycombinator.com/item?id=47409885"
     ],
@@ -217,16 +217,6 @@
     [
       "Show HN: Crust – A CLI framework for TypeScript and Bun",
       "https://github.com/chenxin-yan/crust"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 20:59:40",
-      "https://news.ycombinator.com/item?id=47404796"
-    ],
-    [
-      "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "https://mistral.ai/news/leanstral"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Finding a CPU Design Bug in the Xbox 360 (2018)",
       "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 06:18:17",
+      "https://news.ycombinator.com/item?id=47361251"
+    ],
+    [
+      "Chrome extension adjusts video speed based on how fast the speaker is talking",
+      "https://github.com/ywong137/speech-speed"
     ]
   ]
 ]
