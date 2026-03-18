@@ -29,6 +29,7 @@
 * [2026-03-17, 14:51:57](https://news.ycombinator.com/item?id=47413525) - [FFmpeg 8.1](https://ffmpeg.org/index.html#pr8.1)
 * [2026-03-17, 14:28:37](https://news.ycombinator.com/item?id=47413195) - [Why Node.js needs a virtual file system](https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system)
 * [2026-03-17, 13:54:17](https://news.ycombinator.com/item?id=47412726) - [OpenSUSE Kalpa](https://kalpadesktop.org/)
+* [2026-03-17, 13:43:44](https://news.ycombinator.com/item?id=47412569) - [Show HN: Sub-millisecond VM sandboxes using CoW memory forking](https://github.com/adammiribyan/zeroboot)
 * [2026-03-17, 13:03:38](https://news.ycombinator.com/item?id=47412097) - [A proposal to classify happiness as a psychiatric disorder](https://pmc.ncbi.nlm.nih.gov/articles/PMC1376114/)
 * [2026-03-17, 12:56:59](https://news.ycombinator.com/item?id=47412023) - [Silicon Valley's \"Pronatalists\" Killed WFH. The Strait of Hormuz Brought It Back](https://www.governance.fyi/p/silicon-valleys-pronatalists-killed)
 * [2026-03-17, 12:56:24](https://news.ycombinator.com/item?id=47412015) - [Show HN: March Madness Bracket Challenge for AI Agents Only](https://www.Bracketmadness.ai)

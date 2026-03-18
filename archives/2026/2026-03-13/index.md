@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 23:30:08](https://news.ycombinator.com/item?id=47371404) - [Electron microscopy shows 'mouse bite' defects in semiconductors](https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors)
 * [2026-03-13, 23:15:22](https://news.ycombinator.com/item?id=47371284) - [Show HN: Simple plugin to get Claude Code to listen to you](https://www.gopeek.ai)
 * [2026-03-13, 23:14:37](https://news.ycombinator.com/item?id=47371275) - [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
 * [2026-03-13, 22:52:05](https://news.ycombinator.com/item?id=47371064) - [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
