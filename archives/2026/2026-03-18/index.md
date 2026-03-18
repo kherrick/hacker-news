@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
+* [2026-03-18, 09:59:54](https://news.ycombinator.com/item?id=47423647) - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
+* [2026-03-18, 09:56:48](https://news.ycombinator.com/item?id=47423624) - [Kagi is contemplating the removal of the assistant from its professional tier](https://kagifeedback.org/d/10116-kagi-assistant-standalone-subscription)
 * [2026-03-18, 08:06:24](https://news.ycombinator.com/item?id=47422942) - [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)
 * [2026-03-18, 07:02:55](https://news.ycombinator.com/item?id=47422437) - [Animation 10k Starlink Satellites](https://spaceweather.com/archive.php?view=1&day=18&month=03&year=2026)
 * [2026-03-18, 07:00:13](https://news.ycombinator.com/item?id=47422408) - [Ndea (YC W26) is hiring a symbolic RL search guidance lead](https://ndea.com/jobs/search-guidance)
