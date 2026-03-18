@@ -129,6 +129,38 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47431237">
+          <h3>
+            <a
+              class="item"
+              href="https://nearzero.software/p/warranty-void-if-regenerated"
+              >Warranty Void If Regenerated</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-18 @ 20:45:54</span
+              ><span class="points-container"
+                >Points: <span class="points">28</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47431237"
+                  >Comments</a
+                ><span class="descendants">: 36</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Over the last couple months, I've been building world bibles,
+                writing and visual style guides, and other documents for this
+                project… think the fiction equivalent of all the markdown files
+                we use for agentic development now. After that, this was about
+                two weeks of additional polish work to cut out a lot of fluff
+                and a lot of the LLM-isms. Happy to answer any questions about
+                the process too if that would be interesting to anybody.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="47430797">
           <h3>
             <a
@@ -142,11 +174,11 @@
             <h4>
               <span>2026-03-18 @ 20:09:52</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47430797"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -163,7 +195,7 @@
             <h4>
               <span>2026-03-18 @ 19:01:54</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47429988"
                   >Comments</a
@@ -182,11 +214,11 @@
             <h4>
               <span>2026-03-18 @ 17:46:25</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47428868"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
             <div class="text">
@@ -250,13 +282,149 @@
             <h4>
               <span>2026-03-18 @ 17:42:10</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47428810"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="47428734">
+          <h3>
+            <a
+              class="item"
+              href="https://axelk.ee/i-havent-used-a-mouse-for-14-years-and-how-to-enable-three-fingers-drag-on-macos/"
+              >I haven't used a mouse for 14 years</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-18 @ 17:36:31</span
+              ><span class="points-container"
+                >Points: <span class="points">38</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47428734"
+                  >Comments</a
+                ><span class="descendants">: 59</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47428650">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=47428650"
+              >Show HN: Will my flight have Starlink?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-18 @ 17:29:21</span
+              ><span class="points-container"
+                >Points: <span class="points">106</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47428650"
+                  >Comments</a
+                ><span class="descendants">: 107</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                However, its availability on flights is patchy and hard to
+                predict. So we built a database of all airlines that have rolled
+                out Starlink (beyond just a trial), and a flight search tool to
+                predict it. Plug in a flight number and date, and we'll estimate
+                the likelihood of Starlink on-board based on aircraft type and
+                tail number.
+              </p>
+              <p>
+                If you don’t have any trips coming up, you can also look up
+                specific routes to see what flights offer Starlink. You can find
+                it here:
+                <a href="https://stardrift.ai/starlink"
+                  >https://stardrift.ai/starlink</a
+                >
+                .
+              </p>
+              <p>-</p>
+              <p>
+                I wanted to add a few notes on how this works too. There are
+                three things we check, in order, when we answer a query:
+              </p>
+              <p>- Does this airline have Starlink?</p>
+              <p>- Does this aircraft body have Starlink?</p>
+              <p>- Does <i>this specific aircraft</i> have Starlink?</p>
+              <p>
+                Only a few airlines at all have Starlink right now: United,
+                Hawaiian, Alaskan, Air France, Qatar, JSX, and a handful of
+                others. So if an aircraft is operated by any other airline, we
+                can issue a blanket no immediately.
+              </p>
+              <p>
+                Then, we check the actual body that's flying on the plane.
+                Airlines usually publish equipment assignments in advance, and
+                they're also rolling out Starlink body-by-body. So we know, for
+                instance, that all JSX E145s have Starlink and that none of Air
+                France's A320s have Starlink. (You can see a summary of our data
+                at
+                <a href="https://stardrift.ai/starlink/fleet-summary"
+                  >https://stardrift.ai/starlink/fleet-summary</a
+                >, though the live logic has a few rules not encoded there.)
+              </p>
+              <p>
+                If there's a complete match at the body type level, we can
+                confidently tell you your flight will have Starlink. However, in
+                most cases, the airline has only rolled out a
+                <i>partial</i> upgrade to that aircraft type. In that case, we
+                need to drill down a little more and figure out exactly
+                <i>which</i> plane is flying on your route.
+              </p>
+              <p>
+                We can do this by looking up the 'tail number' (think of it as a
+                license plate for the plane). <i>Unfortunately</i>, the tail
+                number is usually only assigned a few days before a flight. So,
+                before that, the best we can do is calculate the probability
+                that your plane will be assigned an aircraft with Starlink
+                enabled.
+              </p>
+              <p>
+                To do this, we had to build a mapping of aircraft tails to
+                Starlink status. Here, I have to thank online airline
+                enthusiasts who maintain meticulous spreadsheets and forum
+                threads to track this data! As I understand it,
+                <i>they</i> usually get this data from airline staff who are
+                enthusiastic about Starlink rollouts, so it's a reliable,
+                frequently updated source. Most of <i>our</i> work was finding
+                each source, normalizing their formats, building a reliable
+                &amp; responsible system to pull them in, and then tying them
+                together with our other data sources.
+              </p>
+              <p>
+                Basically, it's a data normalization problem! I used to work on
+                financial data systems and I was surprised how similar this
+                problem was.
+              </p>
+              <p>-</p>
+              <p>
+                Starlink itself is also a pretty cool technology. I also wrote a
+                blog post (<a
+                  href="https://stardrift.ai/blog/why-is-starlink-so-good"
+                  >https://stardrift.ai/blog/why-is-starlink-so-good</a
+                >) on why it's so much better than all the other aircraft wifi
+                options out there. At a high level, it's only possible because
+                rocket launches are so cheap nowadays, which is incredibly cool.
+              </p>
+              <p>
+                The performance is great, so it's well worth planning your
+                flights around it where possible. Right now, your best bet in
+                the US is on United regional flights and JSX/Hawaiian.
+                Internationally, Qatar is the best option (though obviously not
+                right now), with Air France a distance second. This will change
+                throughout the year as more airlines roll it out though, and
+                we'll keep our database updated!
+              </p>
+            </div>
           </section>
         </section>
         <section id="47428541">
@@ -271,33 +439,11 @@
             <h4>
               <span>2026-03-18 @ 17:22:02</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47428541"
                   >Comments</a
-                ><span class="descendants">: 304</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47427647">
-          <h3>
-            <a
-              class="item"
-              href="https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review"
-              >Google Engineers Launch "Sashiko" for Agentic AI Code Review of
-              the Linux Kernel</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-18 @ 16:17:44</span
-              ><span class="points-container"
-                >Points: <span class="points">79</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47427647"
-                  >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 323</span></span
               >
             </h4>
           </section>
@@ -315,11 +461,11 @@
             <h4>
               <span>2026-03-18 @ 15:50:44</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47427299"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -337,11 +483,11 @@
             <h4>
               <span>2026-03-18 @ 15:43:19</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47427208"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -356,11 +502,11 @@
             <h4>
               <span>2026-03-18 @ 15:31:07</span
               ><span class="points-container"
-                >Points: <span class="points">175</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47427027"
                   >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 141</span></span
               >
             </h4>
           </section>
@@ -377,11 +523,11 @@
             <h4>
               <span>2026-03-18 @ 15:30:07</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">204</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47427017"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -398,11 +544,11 @@
             <h4>
               <span>2026-03-18 @ 15:24:12</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47426936"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -419,11 +565,11 @@
             <h4>
               <span>2026-03-18 @ 15:23:58</span
               ><span class="points-container"
-                >Points: <span class="points">307</span></span
+                >Points: <span class="points">314</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47426932"
                   >Comments</a
-                ><span class="descendants">: 168</span></span
+                ><span class="descendants">: 171</span></span
               >
             </h4>
           </section>
@@ -433,39 +579,19 @@
             <a
               class="item"
               href="https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government"
-              >Federal Cyber Experts Called Microsoft's Cloud "A Pile of Shit",
-              yet Approved It</a
+              >Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud
+              Service</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-18 @ 14:14:02</span
               ><span class="points-container"
-                >Points: <span class="points">401</span></span
+                >Points: <span class="points">404</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47426057"
                   >Comments</a
-                ><span class="descendants">: 183</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47425918">
-          <h3>
-            <a class="item" href="https://github.com/joaoh82/rustunnel"
-              >A ngrok-style secure tunnel server written in Rust and Open
-              Source</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-18 @ 14:00:43</span
-              ><span class="points-container"
-                >Points: <span class="points">60</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47425918"
-                  >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 184</span></span
               >
             </h4>
           </section>
@@ -482,97 +608,51 @@
               <span>2026-03-18 @ 13:57:51</span
               ><span class="points-container"
                 >Points: <span class="points">16</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47425889"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
               >
             </h4>
-            <div class="text">
-              <p>
-                I built elisym — an open protocol that lets AI agents discover
-                each other, exchange work, and settle payments autonomously. No
-                platform, no middleman.
-              </p>
-              <p>How it works:</p>
-              <p>
-                - Discovery — Agents publish capabilities to Nostr relays using
-                standard NIPs (NIP-89). Customers search by capability tags.
-              </p>
-              <p>
-                - Marketplace — Job requests and results flow through NIP-90.
-                Customer sends a task, provider delivers the result.
-              </p>
-              <p>
-                - Payments — Pluggable backends. Currently Solana (SOL on
-                devnet) and Lightning (LDK-node, self-custodial). Agents hold
-                their own keys. 3% protocol fee, no custodian.
-              </p>
-              <p>
-                The payment flow: provider receives job → sends payment request
-                with amount + reference key → customer sends SOL on-chain →
-                provider verifies transaction → executes skill → delivers
-                result. All peer-to-peer.
-              </p>
-              <p>
-                Demo (video):
-                <a href="https://www.youtube.com/watch?v=ftYXOyiLyLk"
-                  >https://www.youtube.com/watch?v=ftYXOyiLyLk</a
-                >
-              </p>
-              <p>
-                In the demo, a Claude Code session (customer) asks an elisym
-                agent to summarize a YouTube video. The provider agent picks up
-                the job, requests 0.14 SOL, receives payment, runs the
-                youtube-summary skill, and returns the result — all in ~60
-                seconds. You can see both sides: the customer in Claude Code and
-                the provider's TUI dashboard.
-              </p>
-              <p>Three components, all MIT-licensed Rust:</p>
-              <p>
-                - elisym-core — SDK for discovery, marketplace, messaging,
-                payments
-              </p>
-              <p>
-                - elisym-client — CLI agent runner with TUI dashboard and skill
-                system
-              </p>
-              <p>
-                - elisym-mcp — MCP server that plugs into Claude Code, Cursor,
-                etc.
-              </p>
-              <p>What makes this different from agent platforms:</p>
-              <p>
-                1. No platform lock-in — any LLM, any framework. Agents discover
-                each other on decentralized Nostr relays.
-              </p>
-              <p>
-                2. Self-custodial payments — agents run their own wallets. No
-                one can freeze funds or deplatform you.
-              </p>
-              <p>
-                3. Permissionless — MIT licensed, run an agent immediately. No
-                approval, no API keys to the marketplace itself.
-              </p>
-              <p>
-                4. Standard protocols — NIP-89, NIP-90, NIP-17. Nothing
-                proprietary.
-              </p>
-              <p>
-                GitHub:
-                <a href="https://github.com/elisymprotocol"
-                  >https://github.com/elisymprotocol</a
-                >
-              </p>
-              <p>
-                Website:
-                <a href="https://elisym.network">https://elisym.network</a>
-              </p>
-              <p>
-                Happy to answer questions about the protocol design, payment
-                flows, or Nostr integration.
-              </p>
-            </div>
+          </section>
+        </section>
+        <section id="47425176">
+          <h3>
+            <a
+              class="item"
+              href="https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c"
+              >Trevor Milton is raising funds for a new jet he claims will
+              transform flying</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-18 @ 12:52:47</span
+              ><span class="points-container"
+                >Points: <span class="points">60</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47425176"
+                  >Comments</a
+                ><span class="descendants">: 90</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47424458">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/"
+              >Measuring progress toward AGI: A cognitive framework</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-18 @ 11:44:44</span
+              ><span class="points-container"
+                >Points: <span class="points">79</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47424458"
+                  >Comments</a
+                ><span class="descendants">: 134</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="47423694">
@@ -585,11 +665,11 @@
             <h4>
               <span>2026-03-18 @ 10:10:01</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47423694"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
             <div class="text">
@@ -630,11 +710,11 @@
             <h4>
               <span>2026-03-18 @ 09:59:54</span
               ><span class="points-container"
-                >Points: <span class="points">764</span></span
+                >Points: <span class="points">771</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47423647"
                   >Comments</a
-                ><span class="descendants">: 383</span></span
+                ><span class="descendants">: 385</span></span
               >
             </h4>
           </section>
@@ -650,11 +730,11 @@
             <h4>
               <span>2026-03-18 @ 08:06:24</span
               ><span class="points-container"
-                >Points: <span class="points">442</span></span
+                >Points: <span class="points">448</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47422942"
                   >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -669,112 +749,13 @@
             <h4>
               <span>2026-03-18 @ 07:43:13</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47422759"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47422408">
-          <h3>
-            <a class="item" href="https://ndea.com/jobs/search-guidance"
-              >Ndea (YC W26) is hiring a symbolic RL search guidance lead</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-18 @ 07:00:13</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47422228">
-          <h3>
-            <a
-              class="item"
-              href="https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/"
-              >Celebrating Tony Hoare's mark on computer science</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-18 @ 06:31:14</span
-              ><span class="points-container"
-                >Points: <span class="points">111</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47422228"
-                  >Comments</a
-                ><span class="descendants">: 30</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47420432">
-          <h3>
-            <a
-              class="item"
-              href="https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design"
-              >The pleasures of poor product design</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-18 @ 01:00:45</span
-              ><span class="points-container"
-                >Points: <span class="points">241</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47420432"
-                  >Comments</a
-                ><span class="descendants">: 90</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47412569">
-          <h3>
-            <a class="item" href="https://github.com/adammiribyan/zeroboot"
-              >Show HN: Sub-millisecond VM sandboxes using CoW memory forking</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-17 @ 13:43:44</span
-              ><span class="points-container"
-                >Points: <span class="points">288</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47412569"
-                  >Comments</a
-                ><span class="descendants">: 65</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                So instead of launching a new microVM per execution, I boot
-                Firecracker once with Python and numpy already loaded, then
-                snapshot the full VM state. Every execution after that creates a
-                new KVM VM backed by a `MAP_PRIVATE` mapping of the snapshot
-                memory, so Linux gives me copy-on-write pages automatically.
-              </p>
-              <p>
-                That means each sandbox starts from an already-running Python
-                process inside a real VM, runs the code, and exits.
-              </p>
-              <p>
-                These are real KVM VMs, not containers: separate guest kernel,
-                separate guest memory, separate page tables. When a VM writes to
-                memory, it gets a private copy of that page.
-              </p>
-              <p>
-                The hard part was not CoW itself. The hard part was resuming the
-                snapshotted VM correctly.
-              </p>
-              <p>Rust, Apache 2.0.</p>
-            </div>
           </section>
         </section>
         <section id="47399330">
@@ -787,33 +768,11 @@
             <h4>
               <span>2026-03-16 @ 14:12:45</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47399330"
                   >Comments</a
                 ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47395786">
-          <h3>
-            <a
-              class="item"
-              href="https://bay41.com/posts/tiiny-ai-pocket-lab-review/"
-              >I reverse-engineered the TiinyAI Pocket Lab from marketing
-              photos</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-16 @ 06:41:59</span
-              ><span class="points-container"
-                >Points: <span class="points">17</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47395786"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -830,11 +789,30 @@
             <h4>
               <span>2026-03-15 @ 17:36:48</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">220</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47389696"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 47</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47389055">
+          <h3>
+            <a class="item" href="https://epsilon.ac.uk/"
+              >Explore 19th Century Scientific Correspondence</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-15 @ 16:38:15</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47389055"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -847,11 +825,11 @@
             <h4>
               <span>2026-03-15 @ 12:20:14</span
               ><span class="points-container"
-                >Points: <span class="points">271</span></span
+                >Points: <span class="points">310</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47386703"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -868,11 +846,11 @@
             <h4>
               <span>2026-03-15 @ 08:03:44</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47385260"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -887,11 +865,11 @@
             <h4>
               <span>2026-03-14 @ 20:15:03</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47380714"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -909,11 +887,28 @@
             <h4>
               <span>2026-03-14 @ 17:12:03</span
               ><span class="points-container"
-                >Points: <span class="points">221</span></span
+                >Points: <span class="points">238</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47378781"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 103</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47372072">
+          <h3>
+            <a class="item" href="https://moq.dev/blog/on-a-boat/">On a Boat</a>
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-14 @ 00:50:20</span
+              ><span class="points-container"
+                >Points: <span class="points">105</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47372072"
+                  >Comments</a
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
