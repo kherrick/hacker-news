@@ -47,6 +47,7 @@
 * [2026-03-15, 12:58:13](https://news.ycombinator.com/item?id=47386983) - [Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?](https://octetta.github.io/k-synth/)
 * [2026-03-15, 12:48:17](https://news.ycombinator.com/item?id=47386908) - [A Theory of the World as run by large adult children](https://tomclancy.info/harold-and-george.html)
 * [2026-03-15, 12:41:56](https://news.ycombinator.com/item?id=47386856) - [Hollywood Enters Oscars Weekend in Existential Crisis](https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/)
+* [2026-03-15, 12:20:14](https://news.ycombinator.com/item?id=47386703) - [OpenRocket](https://openrocket.info/)
 * [2026-03-15, 12:18:47](https://news.ycombinator.com/item?id=47386699) - [Human Organ Atlas](https://human-organ-atlas.esrf.fr/)
 * [2026-03-15, 12:11:32](https://news.ycombinator.com/item?id=47386651) - [Pentagon expands oversight of Stars and Stripes, limits content](https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html)
 * [2026-03-15, 12:09:30](https://news.ycombinator.com/item?id=47386636) - [100 hour gap between a vibecoded prototype and a working product](https://kanfa.macbudkowski.com/vibecoding-cryptosaurus)

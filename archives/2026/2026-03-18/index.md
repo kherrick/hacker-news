@@ -4,6 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
+* [2026-03-18, 16:21:50](https://news.ycombinator.com/item?id=47427698) - [Government backtracks on AI and copyright after outcry from major artists](https://www.bbc.co.uk/news/articles/cvg1gr5v333o)
+* [2026-03-18, 16:07:54](https://news.ycombinator.com/item?id=47427520) - [A data center opened next door. Then came the high-pitched whine](https://www.politico.com/news/2026/03/11/data-centers-ai-electricity-virginia-00815219)
+* [2026-03-18, 15:59:58](https://news.ycombinator.com/item?id=47427416) - [North Korean's 100k fake IT workers net $500M a year for Kim](https://www.theregister.com/2026/03/18/researchers_lift_the_lid_on/)
+* [2026-03-18, 15:57:48](https://news.ycombinator.com/item?id=47427388) - [A tiny, decentralised tool to explore the small web](https://codeberg.org/susam/wander)
+* [2026-03-18, 15:49:52](https://news.ycombinator.com/item?id=47427290) - [Wander – A tiny, decentralised tool (just 2 files) to explore the small web](https://susam.net/wander/)
+* [2026-03-18, 15:48:04](https://news.ycombinator.com/item?id=47427271) - [Wide logging: Stripe's canonical log line pattern](https://blog.alcazarsec.com/tech/posts/wide-logging)
+* [2026-03-18, 15:43:38](https://news.ycombinator.com/item?id=47427214) - [Meta will shut down VR Horizon Worlds access June 15](https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html)
+* [2026-03-18, 15:31:07](https://news.ycombinator.com/item?id=47427027) - [Nvidia NemoClaw](https://github.com/NVIDIA/NemoClaw)
+* [2026-03-18, 15:30:07](https://news.ycombinator.com/item?id=47427017) - [Snowflake AI Escapes Sandbox and Executes Malware](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
+* [2026-03-18, 15:24:12](https://news.ycombinator.com/item?id=47426936) - [Machine Payments Protocol (MPP)](https://stripe.com/blog/machine-payments-protocol)
+* [2026-03-18, 15:23:58](https://news.ycombinator.com/item?id=47426932) - [Death to Scroll Fade](https://dbushell.com/2026/01/09/death-to-scroll-fade/)
 * [2026-03-18, 14:28:40](https://news.ycombinator.com/item?id=47426246) - [Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild](https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/)
 * [2026-03-18, 14:14:02](https://news.ycombinator.com/item?id=47426057) - [Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It](https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government)
 * [2026-03-18, 14:00:43](https://news.ycombinator.com/item?id=47425918) - [A ngrok-style secure tunnel server written in Rust and Open Source](https://github.com/joaoh82/rustunnel)
