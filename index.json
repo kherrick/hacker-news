@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-18, 20:09:52",
+      "https://news.ycombinator.com/item?id=47430797"
+    ],
+    [
+      "FBI is buying location data to track US citizens, director confirms",
+      "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 19:01:54",
       "https://news.ycombinator.com/item?id=47429988"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2026-03-18, 17:29:21",
-      "https://news.ycombinator.com/item?id=47428650"
-    ],
-    [
-      "Show HN: Will my flight have Starlink?",
-      "https://news.ycombinator.com/item?id=47428650"
-    ]
-  ],
-  [
-    [
       "2026-03-18, 17:22:02",
       "https://news.ycombinator.com/item?id=47428541"
     ],
@@ -61,12 +61,12 @@
   ],
   [
     [
-      "2026-03-18, 15:49:52",
-      "https://news.ycombinator.com/item?id=47427290"
+      "2026-03-18, 15:50:44",
+      "https://news.ycombinator.com/item?id=47427299"
     ],
     [
-      "Wander – A tiny, decentralised tool (just 2 files) to explore the small web",
-      "https://susam.net/wander/"
+      "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
+      "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2026-03-18, 13:57:51",
+      "https://news.ycombinator.com/item?id=47425889"
+    ],
+    [
+      "Show HN: Elisym – Open protocol for AI agents to discover and pay each other",
+      "https://news.ycombinator.com/item?id=47425889"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 10:10:01",
       "https://news.ycombinator.com/item?id=47423694"
     ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=47423647"
     ],
     [
-      "Rob Pike's Rules of Programming (1989)",
+      "Rob Pike’s Rules of Programming (1989)",
       "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html"
     ]
   ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=47422759"
     ],
     [
-      "Wanter – A tiny, decentralised tool to explore the small web",
+      "Wander – A tiny, decentralised tool to explore the small web",
       "https://susam.net/wander/"
     ]
   ],
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2026-03-17, 20:23:39",
-      "https://news.ycombinator.com/item?id=47417804"
-    ],
-    [
-      "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
-      "https://github.com/gsd-build/get-shit-done"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 18:37:27",
-      "https://news.ycombinator.com/item?id=47416486"
-    ],
-    [
-      "Python 3.15's JIT is now back on track",
-      "https://fidget-spinner.github.io/posts/jit-on-track.html"
-    ]
-  ],
-  [
-    [
       "2026-03-17, 13:43:44",
       "https://news.ycombinator.com/item?id=47412569"
     ],
@@ -247,6 +237,16 @@
     [
       "Using calculus to do number theory",
       "https://hidden-phenomena.com/articles/hensels"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 06:41:59",
+      "https://news.ycombinator.com/item?id=47395786"
+    ],
+    [
+      "I reverse-engineered the TiinyAI Pocket Lab from marketing photos",
+      "https://bay41.com/posts/tiiny-ai-pocket-lab-review/"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-03-15, 08:03:44",
+      "https://news.ycombinator.com/item?id=47385260"
+    ],
+    [
+      "Samsung Galaxy S26 Ultra Review: The Privacy Screen",
+      "https://www.wired.com/review/samsung-galaxy-s26-ultra/"
+    ]
+  ],
+  [
+    [
       "2026-03-14, 20:15:03",
       "https://news.ycombinator.com/item?id=47380714"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
       "https://huggingface.co/datasets/open-index/hacker-news"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 08:28:16",
-      "https://news.ycombinator.com/item?id=47374519"
-    ],
-    [
-      "Restoring the first recording of computer music (2018)",
-      "https://www.bl.uk/stories/blogs/posts/restoring-the-first-recording-of-computer-music"
     ]
   ]
 ]
