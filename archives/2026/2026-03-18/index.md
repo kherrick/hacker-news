@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
+* [2026-03-18, 20:09:52](https://news.ycombinator.com/item?id=47430797) - [FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/)
 * [2026-03-18, 19:01:54](https://news.ycombinator.com/item?id=47429988) - [Show HN: Playing LongTurn FreeCiv with Friends](https://github.com/ndroo/freeciv.andrewmcgrath.info)
 * [2026-03-18, 17:52:57](https://news.ycombinator.com/item?id=47428963) - [Oil nears $110 a barrel after gas field strike](https://www.bbc.com/news/articles/c78x83lpgngo)
 * [2026-03-18, 17:46:25](https://news.ycombinator.com/item?id=47428868) - [Show HN: Tmux-IDE, OSS agent-first terminal IDE](https://tmux.thijsverreck.com)
@@ -19,6 +20,7 @@
 * [2026-03-18, 16:07:54](https://news.ycombinator.com/item?id=47427520) - [A data center opened next door. Then came the high-pitched whine](https://www.politico.com/news/2026/03/11/data-centers-ai-electricity-virginia-00815219)
 * [2026-03-18, 15:59:58](https://news.ycombinator.com/item?id=47427416) - [North Korean's 100k fake IT workers net $500M a year for Kim](https://www.theregister.com/2026/03/18/researchers_lift_the_lid_on/)
 * [2026-03-18, 15:57:48](https://news.ycombinator.com/item?id=47427388) - [A tiny, decentralised tool to explore the small web](https://codeberg.org/susam/wander)
+* [2026-03-18, 15:50:44](https://news.ycombinator.com/item?id=47427299) - [Show HN: I built 48 lightweight SVG backgrounds you can copy/paste](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)
 * [2026-03-18, 15:49:52](https://news.ycombinator.com/item?id=47427290) - [Wander – A tiny, decentralised tool (just 2 files) to explore the small web](https://susam.net/wander/)
 * [2026-03-18, 15:48:04](https://news.ycombinator.com/item?id=47427271) - [Wide logging: Stripe's canonical log line pattern](https://blog.alcazarsec.com/tech/posts/wide-logging)
 * [2026-03-18, 15:43:38](https://news.ycombinator.com/item?id=47427214) - [Meta will shut down VR Horizon Worlds access June 15](https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html)
@@ -30,6 +32,7 @@
 * [2026-03-18, 14:28:40](https://news.ycombinator.com/item?id=47426246) - [Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild](https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/)
 * [2026-03-18, 14:14:02](https://news.ycombinator.com/item?id=47426057) - [Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It](https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government)
 * [2026-03-18, 14:00:43](https://news.ycombinator.com/item?id=47425918) - [A ngrok-style secure tunnel server written in Rust and Open Source](https://github.com/joaoh82/rustunnel)
+* [2026-03-18, 13:57:51](https://news.ycombinator.com/item?id=47425889) - [Show HN: Elisym – Open protocol for AI agents to discover and pay each other](https://news.ycombinator.com/item?id=47425889)
 * [2026-03-18, 13:32:48](https://news.ycombinator.com/item?id=47425607) - [FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall](https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/)
 * [2026-03-18, 13:04:15](https://news.ycombinator.com/item?id=47425297) - [Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts](https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking)
 * [2026-03-18, 11:44:44](https://news.ycombinator.com/item?id=47424458) - [Measuring progress toward AGI: A cognitive framework](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/)
@@ -39,6 +42,7 @@
 * [2026-03-18, 09:59:54](https://news.ycombinator.com/item?id=47423647) - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 * [2026-03-18, 09:56:48](https://news.ycombinator.com/item?id=47423624) - [Kagi is contemplating the removal of the assistant from its professional tier](https://kagifeedback.org/d/10116-kagi-assistant-standalone-subscription)
 * [2026-03-18, 08:06:24](https://news.ycombinator.com/item?id=47422942) - [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)
+* [2026-03-18, 07:43:13](https://news.ycombinator.com/item?id=47422759) - [Wander – A tiny, decentralised tool to explore the small web](https://susam.net/wander/)
 * [2026-03-18, 07:02:55](https://news.ycombinator.com/item?id=47422437) - [Animation 10k Starlink Satellites](https://spaceweather.com/archive.php?view=1&day=18&month=03&year=2026)
 * [2026-03-18, 07:00:13](https://news.ycombinator.com/item?id=47422408) - [Ndea (YC W26) is hiring a symbolic RL search guidance lead](https://ndea.com/jobs/search-guidance)
 * [2026-03-18, 06:31:14](https://news.ycombinator.com/item?id=47422228) - [Celebrating Tony Hoare's mark on computer science](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/)
