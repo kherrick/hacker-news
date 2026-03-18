@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-03-18, 20:12:11",
-      "https://news.ycombinator.com/item?id=47430826"
-    ],
-    [
-      "Remove your ring camera with a claw hammer",
-      "https://www.hamiltonnolan.com/p/remove-your-ring-camera-with-a-claw"
-    ]
-  ],
-  [
-    [
       "2026-03-18, 20:09:52",
       "https://news.ycombinator.com/item?id=47430797"
     ],
@@ -47,16 +37,6 @@
     [
       "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
       "https://tmux.thijsverreck.com"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 17:36:31",
-      "https://news.ycombinator.com/item?id=47428734"
-    ],
-    [
-      "I haven't used a mouse for 14 years",
-      "https://axelk.ee/i-havent-used-a-mouse-for-14-years-and-how-to-enable-three-fingers-drag-on-macos/"
     ]
   ],
   [
@@ -137,6 +117,16 @@
     [
       "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
       "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 14:00:43",
+      "https://news.ycombinator.com/item?id=47425918"
+    ],
+    [
+      "A ngrok-style secure tunnel server written in Rust and Open Source",
+      "https://github.com/joaoh82/rustunnel"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Explore 19th Century Scientific Correspondence",
       "https://epsilon.ac.uk/"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 15:59:09",
+      "https://news.ycombinator.com/item?id=47388658"
+    ],
+    [
+      "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+      "https://gitlab.com/IsolatedOctopi/nvidia_greenboost"
     ]
   ],
   [
