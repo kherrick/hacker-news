@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-18, 20:45:54",
+      "https://news.ycombinator.com/item?id=47431237"
+    ],
+    [
+      "Warranty Void If Regenerated",
+      "https://nearzero.software/p/warranty-void-if-regenerated"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 20:09:52",
       "https://news.ycombinator.com/item?id=47430797"
     ],
@@ -41,22 +51,32 @@
   ],
   [
     [
+      "2026-03-18, 17:36:31",
+      "https://news.ycombinator.com/item?id=47428734"
+    ],
+    [
+      "I haven't used a mouse for 14 years",
+      "https://axelk.ee/i-havent-used-a-mouse-for-14-years-and-how-to-enable-three-fingers-drag-on-macos/"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 17:29:21",
+      "https://news.ycombinator.com/item?id=47428650"
+    ],
+    [
+      "Show HN: Will my flight have Starlink?",
+      "https://news.ycombinator.com/item?id=47428650"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 17:22:02",
       "https://news.ycombinator.com/item?id=47428541"
     ],
     [
       "AI coding is gambling",
       "https://notes.visaint.space/ai-coding-is-gambling/"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 16:17:44",
-      "https://news.ycombinator.com/item?id=47427647"
-    ],
-    [
-      "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
-      "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review"
     ]
   ],
   [
@@ -125,18 +145,8 @@
       "https://news.ycombinator.com/item?id=47426057"
     ],
     [
-      "Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It",
+      "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
       "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 14:00:43",
-      "https://news.ycombinator.com/item?id=47425918"
-    ],
-    [
-      "A ngrok-style secure tunnel server written in Rust and Open Source",
-      "https://github.com/joaoh82/rustunnel"
     ]
   ],
   [
@@ -147,6 +157,26 @@
     [
       "Show HN: Elisym – Open protocol for AI agents to discover and pay each other",
       "https://news.ycombinator.com/item?id=47425889"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 12:52:47",
+      "https://news.ycombinator.com/item?id=47425176"
+    ],
+    [
+      "Trevor Milton is raising funds for a new jet he claims will transform flying",
+      "https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 11:44:44",
+      "https://news.ycombinator.com/item?id=47424458"
+    ],
+    [
+      "Measuring progress toward AGI: A cognitive framework",
+      "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/"
     ]
   ],
   [
@@ -191,46 +221,6 @@
   ],
   [
     [
-      "2026-03-18, 07:00:13",
-      "https://news.ycombinator.com/item?id=47422408"
-    ],
-    [
-      "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
-      "https://ndea.com/jobs/search-guidance"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 06:31:14",
-      "https://news.ycombinator.com/item?id=47422228"
-    ],
-    [
-      "Celebrating Tony Hoare's mark on computer science",
-      "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 01:00:45",
-      "https://news.ycombinator.com/item?id=47420432"
-    ],
-    [
-      "The pleasures of poor product design",
-      "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 13:43:44",
-      "https://news.ycombinator.com/item?id=47412569"
-    ],
-    [
-      "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
-      "https://github.com/adammiribyan/zeroboot"
-    ]
-  ],
-  [
-    [
       "2026-03-16, 14:12:45",
       "https://news.ycombinator.com/item?id=47399330"
     ],
@@ -241,22 +231,22 @@
   ],
   [
     [
-      "2026-03-16, 06:41:59",
-      "https://news.ycombinator.com/item?id=47395786"
-    ],
-    [
-      "I reverse-engineered the TiinyAI Pocket Lab from marketing photos",
-      "https://bay41.com/posts/tiiny-ai-pocket-lab-review/"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 17:36:48",
       "https://news.ycombinator.com/item?id=47389696"
     ],
     [
       "Write up of my homebrew CPU build",
       "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 16:38:15",
+      "https://news.ycombinator.com/item?id=47389055"
+    ],
+    [
+      "Explore 19th Century Scientific Correspondence",
+      "https://epsilon.ac.uk/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
       "https://huggingface.co/datasets/open-index/hacker-news"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 00:50:20",
+      "https://news.ycombinator.com/item?id=47372072"
+    ],
+    [
+      "On a Boat",
+      "https://moq.dev/blog/on-a-boat/"
     ]
   ]
 ]
