@@ -39,6 +39,7 @@
 * [2026-03-14, 17:12:18](https://news.ycombinator.com/item?id=47378787) - [In Praise of Stupid Questions](https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/)
 * [2026-03-14, 17:12:03](https://news.ycombinator.com/item?id=47378781) - [Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m](https://huggingface.co/datasets/open-index/hacker-news)
 * [2026-03-14, 16:58:40](https://news.ycombinator.com/item?id=47378638) - [What happens when US economic data becomes unreliable](https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable)
+* [2026-03-14, 16:53:03](https://news.ycombinator.com/item?id=47378568) - [A dither generator for triangular and hexagonal pixels (2025)](https://danieltemkin.com/DitherStudies)
 * [2026-03-14, 16:37:02](https://news.ycombinator.com/item?id=47378399) - [UBI Is Your Productivity Dividend – The Only Way to All Share What We All Built](https://scottsantens.substack.com/p/universal-basic-income-is-your-productivity)
 * [2026-03-14, 16:25:34](https://news.ycombinator.com/item?id=47378268) - [NMAP in the Movies](https://nmap.org/movies/)
 * [2026-03-14, 16:24:02](https://news.ycombinator.com/item?id=47378251) - [Show HN: Learn Arabic with spaced repetition and comprehensible input](https://abjadpro.com)
