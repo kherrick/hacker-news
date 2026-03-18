@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-18, 19:01:54",
+      "https://news.ycombinator.com/item?id=47429988"
+    ],
+    [
+      "Show HN: Playing LongTurn FreeCiv with Friends",
+      "https://github.com/ndroo/freeciv.andrewmcgrath.info"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 17:46:25",
       "https://news.ycombinator.com/item?id=47428868"
     ],
     [
       "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
       "https://tmux.thijsverreck.com"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 17:42:10",
+      "https://news.ycombinator.com/item?id=47428810"
+    ],
+    [
+      "EU Inc.: A new harmonised corporate legal regime",
+      "https://commission.europa.eu/topics/business-and-industry/doing-business-eu/company-law-and-corporate-governance/eu-inc-new-harmonised-corporate-legal-regime_en"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "AI coding is gambling",
       "https://notes.visaint.space/ai-coding-is-gambling/"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 17:11:30",
-      "https://news.ycombinator.com/item?id=47428391"
-    ],
-    [
-      "Spotify playing ads for paid subscribers",
-      "https://news.ycombinator.com/item?id=47428391"
     ]
   ],
   [
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2026-03-17, 15:32:11",
-      "https://news.ycombinator.com/item?id=47414112"
+      "2026-03-17, 18:37:27",
+      "https://news.ycombinator.com/item?id=47416486"
     ],
     [
-      "A Fuzzer for the Toy Optimizer",
-      "https://bernsteinbear.com/blog/toy-fuzzer/"
+      "Python 3.15's JIT is now back on track",
+      "https://fidget-spinner.github.io/posts/jit-on-track.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
       "https://huggingface.co/datasets/open-index/hacker-news"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 16:53:03",
-      "https://news.ycombinator.com/item?id=47378568"
-    ],
-    [
-      "A dither generator for triangular and hexagonal pixels (2025)",
-      "https://danieltemkin.com/DitherStudies"
     ]
   ],
   [
