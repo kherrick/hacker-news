@@ -52,6 +52,7 @@
 * [2026-03-15, 12:09:30](https://news.ycombinator.com/item?id=47386636) - [100 hour gap between a vibecoded prototype and a working product](https://kanfa.macbudkowski.com/vibecoding-cryptosaurus)
 * [2026-03-15, 12:01:00](https://news.ycombinator.com/item?id=47386581) - [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch)
 * [2026-03-15, 11:42:01](https://news.ycombinator.com/item?id=47386441) - [Generating All 32-Bit Primes (Part I)](https://hnlyman.github.io/pages/prime32_I.html)
+* [2026-03-15, 11:16:05](https://news.ycombinator.com/item?id=47386284) - [Ask HN: What breaks first when your team grows from 10 to 50 people?](https://news.ycombinator.com/item?id=47386284)
 * [2026-03-15, 11:06:45](https://news.ycombinator.com/item?id=47386246) - [IBM, sonic delay lines, and the history of the 80×24 display](https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html)
 * [2026-03-15, 10:47:35](https://news.ycombinator.com/item?id=47386116) - [A Visual Introduction to Machine Learning](https://r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [2026-03-15, 10:15:47](https://news.ycombinator.com/item?id=47385935) - [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)

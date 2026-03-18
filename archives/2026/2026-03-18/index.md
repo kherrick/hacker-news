@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
+* [2026-03-18, 10:57:57](https://news.ycombinator.com/item?id=47424042) - [Judge orders restoration of Voice of America](https://apnews.com/article/voice-of-america-kari-lake-trump-cd6d1ef05272f842705da0ed38d3de24)
+* [2026-03-18, 10:49:19](https://news.ycombinator.com/item?id=47423976) - [OpenAI Has New Focus (On the IPO)](https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/)
 * [2026-03-18, 09:59:54](https://news.ycombinator.com/item?id=47423647) - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 * [2026-03-18, 09:56:48](https://news.ycombinator.com/item?id=47423624) - [Kagi is contemplating the removal of the assistant from its professional tier](https://kagifeedback.org/d/10116-kagi-assistant-standalone-subscription)
 * [2026-03-18, 08:06:24](https://news.ycombinator.com/item?id=47422942) - [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)
