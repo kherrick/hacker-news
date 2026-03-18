@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47421442"
     ],
     [
-      "Have a Fucking Website",
+      "Have a fucking website",
       "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/"
     ]
   ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-03-17, 06:11:17",
+      "https://news.ycombinator.com/item?id=47409222"
+    ],
+    [
+      "Show HN: Pgit – A Git-like CLI backed by PostgreSQL",
+      "https://oseifert.ch/blog/building-pgit"
+    ]
+  ],
+  [
+    [
       "2026-03-16, 11:27:47",
       "https://news.ycombinator.com/item?id=47397605"
     ],
@@ -257,16 +267,6 @@
     [
       "JPEG Compression",
       "https://www.sophielwang.com/blog/jpeg"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 00:12:44",
-      "https://news.ycombinator.com/item?id=47371785"
-    ],
-    [
-      "Show HN: Fatal Core Dump – A debugging murder mystery played with GDB",
-      "https://www.robopenguins.com/fatal_core_dump/"
     ]
   ],
   [
