@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
+* [2026-03-18, 17:29:21](https://news.ycombinator.com/item?id=47428650) - [Show HN: Will my flight have Starlink?](https://news.ycombinator.com/item?id=47428650)
+* [2026-03-18, 17:27:11](https://news.ycombinator.com/item?id=47428611) - [Iran's South Pars Gas Field Is Attacked by Israel, Sending Energy Prices Soaring](https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-south-pars-gas-oil-prices.html)
 * [2026-03-18, 16:21:50](https://news.ycombinator.com/item?id=47427698) - [Government backtracks on AI and copyright after outcry from major artists](https://www.bbc.co.uk/news/articles/cvg1gr5v333o)
+* [2026-03-18, 16:17:44](https://news.ycombinator.com/item?id=47427647) - [Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
 * [2026-03-18, 16:07:54](https://news.ycombinator.com/item?id=47427520) - [A data center opened next door. Then came the high-pitched whine](https://www.politico.com/news/2026/03/11/data-centers-ai-electricity-virginia-00815219)
 * [2026-03-18, 15:59:58](https://news.ycombinator.com/item?id=47427416) - [North Korean's 100k fake IT workers net $500M a year for Kim](https://www.theregister.com/2026/03/18/researchers_lift_the_lid_on/)
 * [2026-03-18, 15:57:48](https://news.ycombinator.com/item?id=47427388) - [A tiny, decentralised tool to explore the small web](https://codeberg.org/susam/wander)

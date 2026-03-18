@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-18, 16:21:50](https://news.ycombinator.com/item?id=47427698) - [Government backtracks on AI and copyright after outcry from major artists](https://www.bbc.co.uk/news/articles/cvg1gr5v333o)
+* [2026-03-18, 17:29:21](https://news.ycombinator.com/item?id=47428650) - [Show HN: Will my flight have Starlink?](https://news.ycombinator.com/item?id=47428650)
+* [2026-03-18, 17:27:11](https://news.ycombinator.com/item?id=47428611) - [Iran's South Pars Gas Field Is Attacked by Israel, Sending Energy Prices Soaring](https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-south-pars-gas-oil-prices.html)
+* [2026-03-18, 16:17:44](https://news.ycombinator.com/item?id=47427647) - [Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
 * [2026-03-18, 16:07:54](https://news.ycombinator.com/item?id=47427520) - [A data center opened next door. Then came the high-pitched whine](https://www.politico.com/news/2026/03/11/data-centers-ai-electricity-virginia-00815219)
 * [2026-03-18, 15:59:58](https://news.ycombinator.com/item?id=47427416) - [North Korean's 100k fake IT workers net $500M a year for Kim](https://www.theregister.com/2026/03/18/researchers_lift_the_lid_on/)
 * [2026-03-18, 15:57:48](https://news.ycombinator.com/item?id=47427388) - [A tiny, decentralised tool to explore the small web](https://codeberg.org/susam/wander)
@@ -20,16 +22,14 @@
 * [2026-03-18, 01:00:45](https://news.ycombinator.com/item?id=47420432) - [The pleasures of poor product design](https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design)
 * [2026-03-17, 21:04:26](https://news.ycombinator.com/item?id=47418295) - [Mistral AI Releases Forge](https://mistral.ai/news/forge)
 * [2026-03-17, 18:59:50](https://news.ycombinator.com/item?id=47416736) - [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
+* [2026-03-17, 18:37:27](https://news.ycombinator.com/item?id=47416486) - [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
 * [2026-03-17, 15:32:11](https://news.ycombinator.com/item?id=47414112) - [A Fuzzer for the Toy Optimizer](https://bernsteinbear.com/blog/toy-fuzzer/)
 * [2026-03-17, 13:43:44](https://news.ycombinator.com/item?id=47412569) - [Show HN: Sub-millisecond VM sandboxes using CoW memory forking](https://github.com/adammiribyan/zeroboot)
 * [2026-03-16, 14:12:45](https://news.ycombinator.com/item?id=47399330) - [Using calculus to do number theory](https://hidden-phenomena.com/articles/hensels)
 * [2026-03-15, 17:36:48](https://news.ycombinator.com/item?id=47389696) - [Write up of my homebrew CPU build](https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/)
 * [2026-03-15, 12:20:14](https://news.ycombinator.com/item?id=47386703) - [OpenRocket](https://openrocket.info/)
+* [2026-03-14, 17:12:03](https://news.ycombinator.com/item?id=47378781) - [Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m](https://huggingface.co/datasets/open-index/hacker-news)
 * [2026-03-14, 08:28:16](https://news.ycombinator.com/item?id=47374519) - [Restoring the first recording of computer music (2018)](https://www.bl.uk/stories/blogs/posts/restoring-the-first-recording-of-computer-music)
-* [2026-03-14, 01:31:48](https://news.ycombinator.com/item?id=47372367) - [JPEG Compression](https://www.sophielwang.com/blog/jpeg)
-* [2026-03-14, 00:50:20](https://news.ycombinator.com/item?id=47372072) - [On a Boat](https://moq.dev/blog/on-a-boat/)
-* [2026-03-14, 00:08:16](https://news.ycombinator.com/item?id=47371749) - [A Tiny Camera Revealed a Hidden Passage in the Great Pyramid](https://modernengineeringmarvels.com/2026/03/13/a-tiny-camera-revealed-a-hidden-passage-in-the-great-pyramid/)
-* [2026-03-13, 18:05:23](https://news.ycombinator.com/item?id=47367601) - [Pandas Exercises for Data Analysis (Interactive)](https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/)
 
 ## [Archives](archives/index.md)
 
