@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2026-03-18, 14:00:43",
+      "https://news.ycombinator.com/item?id=47425918"
+    ],
+    [
+      "A ngrok-style secure tunnel server written in Rust and Open Source",
+      "https://github.com/joaoh82/rustunnel"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 13:32:48",
+      "https://news.ycombinator.com/item?id=47425607"
+    ],
+    [
+      "FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall",
+      "https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 13:04:15",
       "https://news.ycombinator.com/item?id=47425297"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-03-17, 21:42:39",
-      "https://news.ycombinator.com/item?id=47418722"
-    ],
-    [
-      "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "https://arxiv.org/abs/2603.15381"
-    ]
-  ],
-  [
-    [
       "2026-03-17, 21:04:26",
       "https://news.ycombinator.com/item?id=47418295"
     ],
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2026-03-17, 15:32:11",
+      "https://news.ycombinator.com/item?id=47414112"
+    ],
+    [
+      "A Fuzzer for the Toy Optimizer",
+      "https://bernsteinbear.com/blog/toy-fuzzer/"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 15:26:32",
       "https://news.ycombinator.com/item?id=47414032"
     ],
@@ -177,16 +197,6 @@
     [
       "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
       "https://github.com/adammiribyan/zeroboot"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 12:01:05",
-      "https://news.ycombinator.com/item?id=47411480"
-    ],
-    [
-      "Ryugu asteroid samples contain all DNA and RNA building blocks",
-      "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2026-03-14, 08:28:16",
+      "https://news.ycombinator.com/item?id=47374519"
+    ],
+    [
+      "Restoring the first recording of computer music (2018)",
+      "https://www.bl.uk/stories/blogs/posts/restoring-the-first-recording-of-computer-music"
+    ]
+  ],
+  [
+    [
       "2026-03-14, 01:31:48",
       "https://news.ycombinator.com/item?id=47372367"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-03-13, 23:30:08",
-      "https://news.ycombinator.com/item?id=47371404"
-    ],
-    [
-      "Electron microscopy shows ‘mouse bite’ defects in semiconductors",
-      "https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors"
-    ]
-  ],
-  [
-    [
       "2026-03-13, 21:04:35",
       "https://news.ycombinator.com/item?id=47369883"
     ],
     [
       "More than 135 open hardware devices flashable with your own firmware",
       "https://openhardware.directory"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 19:14:46",
-      "https://news.ycombinator.com/item?id=47368425"
-    ],
-    [
-      "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
-      "https://www.youtube.com/watch?v=3Ploi723hg4"
     ]
   ],
   [
