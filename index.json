@@ -1,12 +1,112 @@
 [
   [
     [
-      "2026-03-18, 14:28:40",
-      "https://news.ycombinator.com/item?id=47426246"
+      "2026-03-18, 16:21:50",
+      "https://news.ycombinator.com/item?id=47427698"
     ],
     [
-      "Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild",
-      "https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/"
+      "Government backtracks on AI and copyright after outcry from major artists",
+      "https://www.bbc.co.uk/news/articles/cvg1gr5v333o"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 16:07:54",
+      "https://news.ycombinator.com/item?id=47427520"
+    ],
+    [
+      "A data center opened next door. Then came the high-pitched whine",
+      "https://www.politico.com/news/2026/03/11/data-centers-ai-electricity-virginia-00815219"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 15:59:58",
+      "https://news.ycombinator.com/item?id=47427416"
+    ],
+    [
+      "North Korean's 100k fake IT workers net $500M a year for Kim",
+      "https://www.theregister.com/2026/03/18/researchers_lift_the_lid_on/"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 15:57:48",
+      "https://news.ycombinator.com/item?id=47427388"
+    ],
+    [
+      "A tiny, decentralised tool to explore the small web",
+      "https://codeberg.org/susam/wander"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 15:49:52",
+      "https://news.ycombinator.com/item?id=47427290"
+    ],
+    [
+      "Wander – A tiny, decentralised tool (just 2 files) to explore the small web",
+      "https://susam.net/wander/"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 15:48:04",
+      "https://news.ycombinator.com/item?id=47427271"
+    ],
+    [
+      "Wide logging: Stripe's canonical log line pattern",
+      "https://blog.alcazarsec.com/tech/posts/wide-logging"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 15:43:38",
+      "https://news.ycombinator.com/item?id=47427214"
+    ],
+    [
+      "Meta will shut down VR Horizon Worlds access June 15",
+      "https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 15:31:07",
+      "https://news.ycombinator.com/item?id=47427027"
+    ],
+    [
+      "Nvidia NemoClaw",
+      "https://github.com/NVIDIA/NemoClaw"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 15:30:07",
+      "https://news.ycombinator.com/item?id=47427017"
+    ],
+    [
+      "Snowflake AI Escapes Sandbox and Executes Malware",
+      "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 15:24:12",
+      "https://news.ycombinator.com/item?id=47426936"
+    ],
+    [
+      "Machine Payments Protocol (MPP)",
+      "https://stripe.com/blog/machine-payments-protocol"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 15:23:58",
+      "https://news.ycombinator.com/item?id=47426932"
+    ],
+    [
+      "Death to Scroll Fade",
+      "https://dbushell.com/2026/01/09/death-to-scroll-fade/"
     ]
   ],
   [
@@ -31,31 +131,11 @@
   ],
   [
     [
-      "2026-03-18, 13:32:48",
-      "https://news.ycombinator.com/item?id=47425607"
-    ],
-    [
-      "FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall",
-      "https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 13:04:15",
-      "https://news.ycombinator.com/item?id=47425297"
-    ],
-    [
-      "Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts",
-      "https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking"
-    ]
-  ],
-  [
-    [
       "2026-03-18, 09:59:54",
       "https://news.ycombinator.com/item?id=47423647"
     ],
     [
-      "Rob Pike's 5 Rules of Programming",
+      "Rob Pike's Rules of Programming (1989)",
       "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html"
     ]
   ],
@@ -91,32 +171,12 @@
   ],
   [
     [
-      "2026-03-18, 03:53:42",
-      "https://news.ycombinator.com/item?id=47421442"
-    ],
-    [
-      "Have a fucking website",
-      "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/"
-    ]
-  ],
-  [
-    [
       "2026-03-18, 01:00:45",
       "https://news.ycombinator.com/item?id=47420432"
     ],
     [
       "The pleasures of poor product design",
       "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 00:53:10",
-      "https://news.ycombinator.com/item?id=47420388"
-    ],
-    [
-      "A tale about fixing eBPF spinlock issues in the Linux kernel",
-      "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/"
     ]
   ],
   [
@@ -131,32 +191,12 @@
   ],
   [
     [
-      "2026-03-17, 20:23:39",
-      "https://news.ycombinator.com/item?id=47417804"
-    ],
-    [
-      "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
-      "https://github.com/gsd-build/get-shit-done"
-    ]
-  ],
-  [
-    [
       "2026-03-17, 18:59:50",
       "https://news.ycombinator.com/item?id=47416736"
     ],
     [
       "A Decade of Slug",
       "https://terathon.com/blog/decade-slug.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 18:37:27",
-      "https://news.ycombinator.com/item?id=47416486"
-    ],
-    [
-      "Python 3.15's JIT is now back on track",
-      "https://fidget-spinner.github.io/posts/jit-on-track.html"
     ]
   ],
   [
@@ -171,42 +211,12 @@
   ],
   [
     [
-      "2026-03-17, 15:26:32",
-      "https://news.ycombinator.com/item?id=47414032"
-    ],
-    [
-      "Unsloth Studio",
-      "https://unsloth.ai/docs/new/studio"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 15:16:29",
-      "https://news.ycombinator.com/item?id=47413876"
-    ],
-    [
-      "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-      "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level"
-    ]
-  ],
-  [
-    [
       "2026-03-17, 13:43:44",
       "https://news.ycombinator.com/item?id=47412569"
     ],
     [
       "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
       "https://github.com/adammiribyan/zeroboot"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 06:11:17",
-      "https://news.ycombinator.com/item?id=47409222"
-    ],
-    [
-      "Show HN: Pgit – A Git-like CLI backed by PostgreSQL",
-      "https://oseifert.ch/blog/building-pgit"
     ]
   ],
   [
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2026-03-15, 23:44:34",
-      "https://news.ycombinator.com/item?id=47393324"
-    ],
-    [
-      "How the Eon Team Produced a Virtual Embodied Fly",
-      "https://eon.systems/updates/embodied-brain-emulation"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 17:36:48",
       "https://news.ycombinator.com/item?id=47389696"
     ],
     [
       "Write up of my homebrew CPU build",
       "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 12:20:14",
+      "https://news.ycombinator.com/item?id=47386703"
+    ],
+    [
+      "OpenRocket",
+      "https://openrocket.info/"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=47372072"
     ],
     [
-      "(Media over QUIC) on a Boat",
+      "On a Boat",
       "https://moq.dev/blog/on-a-boat/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "A Tiny Camera Revealed a Hidden Passage in the Great Pyramid",
       "https://modernengineeringmarvels.com/2026/03/13/a-tiny-camera-revealed-a-hidden-passage-in-the-great-pyramid/"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 21:04:35",
-      "https://news.ycombinator.com/item?id=47369883"
-    ],
-    [
-      "More than 135 open hardware devices flashable with your own firmware",
-      "https://openhardware.directory"
     ]
   ],
   [
