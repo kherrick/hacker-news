@@ -10,6 +10,7 @@
 * [2026-03-18, 17:29:21](https://news.ycombinator.com/item?id=47428650) - [Show HN: Will my flight have Starlink?](https://news.ycombinator.com/item?id=47428650)
 * [2026-03-18, 17:27:11](https://news.ycombinator.com/item?id=47428611) - [Iran's South Pars Gas Field Is Attacked by Israel, Sending Energy Prices Soaring](https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-south-pars-gas-oil-prices.html)
 * [2026-03-18, 17:22:02](https://news.ycombinator.com/item?id=47428541) - [AI Coding Is Gambling](https://notes.visaint.space/ai-coding-is-gambling/)
+* [2026-03-18, 17:11:30](https://news.ycombinator.com/item?id=47428391) - [Spotify playing ads for paid subscribers](https://news.ycombinator.com/item?id=47428391)
 * [2026-03-18, 17:07:21](https://news.ycombinator.com/item?id=47428335) - [Americans Recognize AI as a Wealth Inequality Machine, Polls Find](https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713)
 * [2026-03-18, 16:21:50](https://news.ycombinator.com/item?id=47427698) - [Government backtracks on AI and copyright after outcry from major artists](https://www.bbc.co.uk/news/articles/cvg1gr5v333o)
 * [2026-03-18, 16:17:44](https://news.ycombinator.com/item?id=47427647) - [Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
