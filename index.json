@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-18, 08:06:24",
+      "https://news.ycombinator.com/item?id=47422942"
+    ],
+    [
+      "Nightingale – open-source karaoke app that works with any song on your computer",
+      "https://nightingale.cafe/"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 07:02:55",
+      "https://news.ycombinator.com/item?id=47422437"
+    ],
+    [
+      "Animation 10k Starlink Satellites",
+      "https://spaceweather.com/archive.php?view=1&day=18&month=03&year=2026"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 07:00:13",
       "https://news.ycombinator.com/item?id=47422408"
     ],
@@ -17,16 +37,6 @@
     [
       "Celebrating Tony Hoare's mark on computer science",
       "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 05:18:02",
-      "https://news.ycombinator.com/item?id=47421828"
-    ],
-    [
-      "SSH has no Host header",
-      "https://blog.exe.dev/ssh-host-header"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-03-17, 18:01:50",
-      "https://news.ycombinator.com/item?id=47416081"
-    ],
-    [
-      "Edge.js: Run Node apps inside a WebAssembly sandbox",
-      "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox"
-    ]
-  ],
-  [
-    [
       "2026-03-17, 15:26:32",
       "https://news.ycombinator.com/item?id=47414032"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-03-16, 11:27:47",
-      "https://news.ycombinator.com/item?id=47397605"
-    ],
-    [
-      "I Simulated 38,612 Countryle Games to Find the Best Strategy",
-      "https://stoffregen.io/posts/countryle/"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 17:36:48",
       "https://news.ycombinator.com/item?id=47389696"
     ],
@@ -267,6 +257,16 @@
     [
       "JPEG Compression",
       "https://www.sophielwang.com/blog/jpeg"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 00:50:20",
+      "https://news.ycombinator.com/item?id=47372072"
+    ],
+    [
+      "(Media over QUIC) on a Boat",
+      "https://moq.dev/blog/on-a-boat/"
     ]
   ],
   [
