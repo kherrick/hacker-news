@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-03-18, 07:00:13",
+      "https://news.ycombinator.com/item?id=47422408"
+    ],
+    [
+      "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
+      "https://ndea.com/jobs/search-guidance"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 05:58:34",
+      "https://news.ycombinator.com/item?id=47422022"
+    ],
+    [
+      "Show HN: The Lottery of Life",
+      "https://claude.ai/public/artifacts/a62c4bac-3c05-4443-9d0a-50a9bd3f9d8d"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 05:44:23",
+      "https://news.ycombinator.com/item?id=47421946"
+    ],
+    [
+      "Switzerland Built an Alternative to BGP",
+      "https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 05:18:02",
       "https://news.ycombinator.com/item?id=47421828"
     ],
     [
       "SSH has no Host header",
       "https://blog.exe.dev/ssh-host-header"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 04:44:12",
+      "https://news.ycombinator.com/item?id=47421670"
+    ],
+    [
+      "Review of Microsoft's ClearType Font Collection (2005)",
+      "https://typographica.org/on-typography/microsofts-cleartype-font-collection-a-fair-and-balanced-review/"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2026-03-17, 15:56:09",
-      "https://news.ycombinator.com/item?id=47414440"
-    ],
-    [
-      "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
-      "https://theasc.com/articles/the-secret-agent-cinematography"
-    ]
-  ],
-  [
-    [
       "2026-03-17, 15:26:32",
       "https://news.ycombinator.com/item?id=47414032"
     ],
@@ -157,26 +187,6 @@
     [
       "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 14:28:37",
-      "https://news.ycombinator.com/item?id=47413195"
-    ],
-    [
-      "Node.js needs a virtual file system",
-      "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 13:54:17",
-      "https://news.ycombinator.com/item?id=47412726"
-    ],
-    [
-      "OpenSUSE Kalpa",
-      "https://kalpadesktop.org/"
     ]
   ],
   [
@@ -201,22 +211,22 @@
   ],
   [
     [
-      "2026-03-17, 09:53:53",
-      "https://news.ycombinator.com/item?id=47410542"
-    ],
-    [
-      "Kagi Small Web",
-      "https://kagi.com/smallweb/"
-    ]
-  ],
-  [
-    [
       "2026-03-16, 11:27:47",
       "https://news.ycombinator.com/item?id=47397605"
     ],
     [
       "I Simulated 38,612 Countryle Games to Find the Best Strategy",
       "https://stoffregen.io/posts/countryle/"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 17:36:48",
+      "https://news.ycombinator.com/item?id=47389696"
+    ],
+    [
+      "Write up of my homebrew CPU build",
+      "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/"
     ]
   ],
   [
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2026-03-14, 01:47:56",
-      "https://news.ycombinator.com/item?id=47372473"
+      "2026-03-14, 01:31:48",
+      "https://news.ycombinator.com/item?id=47372367"
     ],
     [
-      "Arno's Engram Keyboard Layouts",
-      "https://github.com/binarybottle/engram"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 00:43:27",
-      "https://news.ycombinator.com/item?id=47372020"
-    ],
-    [
-      "Show HN: I built an interactive 3D three-body problem simulator in the browser",
-      "https://structuredlabs.github.io/threebodyproblem/"
+      "JPEG Compression",
+      "https://www.sophielwang.com/blog/jpeg"
     ]
   ],
   [
