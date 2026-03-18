@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-18, 05:18:02](https://news.ycombinator.com/item?id=47421828) - [SSH has no Host header](https://blog.exe.dev/ssh-host-header)
 * [2026-03-18, 04:11:20](https://news.ycombinator.com/item?id=47421513) - [Forget Flags and Scripts: Just Rename the File](https://robertsdotpm.github.io/software_engineering/program_names_as_input.html)
 * [2026-03-18, 03:53:42](https://news.ycombinator.com/item?id=47421442) - [Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/)
 * [2026-03-18, 01:10:19](https://news.ycombinator.com/item?id=47420493) - [Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html)
@@ -12,7 +13,6 @@
 * [2026-03-17, 18:59:50](https://news.ycombinator.com/item?id=47416736) - [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
 * [2026-03-17, 18:37:27](https://news.ycombinator.com/item?id=47416486) - [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
 * [2026-03-17, 18:01:50](https://news.ycombinator.com/item?id=47416081) - [Edge.js: Run Node apps inside a WebAssembly sandbox](https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox)
-* [2026-03-17, 17:00:50](https://news.ycombinator.com/item?id=47415350) - [Spice Data (YC S19) Is Hiring a Product Specialist](https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad)
 * [2026-03-17, 15:56:09](https://news.ycombinator.com/item?id=47414440) - ['The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)](https://theasc.com/articles/the-secret-agent-cinematography)
 * [2026-03-17, 15:26:32](https://news.ycombinator.com/item?id=47414032) - [Unsloth Studio](https://unsloth.ai/docs/new/studio)
 * [2026-03-17, 15:16:29](https://news.ycombinator.com/item?id=47413876) - [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level)
@@ -21,15 +21,15 @@
 * [2026-03-17, 13:43:44](https://news.ycombinator.com/item?id=47412569) - [Show HN: Sub-millisecond VM sandboxes using CoW memory forking](https://github.com/adammiribyan/zeroboot)
 * [2026-03-17, 12:01:05](https://news.ycombinator.com/item?id=47411480) - [Ryugu asteroid samples contain all DNA and RNA building blocks](https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html)
 * [2026-03-17, 09:53:53](https://news.ycombinator.com/item?id=47410542) - [Kagi Small Web](https://kagi.com/smallweb/)
+* [2026-03-16, 11:27:47](https://news.ycombinator.com/item?id=47397605) - [I Simulated 38,612 Countryle Games to Find the Best Strategy](https://stoffregen.io/posts/countryle/)
 * [2026-03-15, 13:38:08](https://news.ycombinator.com/item?id=47387268) - [Honda is killing its EVs](https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/)
-* [2026-03-15, 05:46:35](https://news.ycombinator.com/item?id=47384653) - [Leviathan](https://www.gutenberg.org/files/3207/3207-h/3207-h.htm)
+* [2026-03-15, 05:46:35](https://news.ycombinator.com/item?id=47384653) - [Leviathan (1651)](https://www.gutenberg.org/files/3207/3207-h/3207-h.htm)
 * [2026-03-14, 01:47:56](https://news.ycombinator.com/item?id=47372473) - [Arno's Engram Keyboard Layouts](https://github.com/binarybottle/engram)
 * [2026-03-14, 00:43:27](https://news.ycombinator.com/item?id=47372020) - [Show HN: I built an interactive 3D three-body problem simulator in the browser](https://structuredlabs.github.io/threebodyproblem/)
 * [2026-03-14, 00:12:44](https://news.ycombinator.com/item?id=47371785) - [Show HN: Fatal Core Dump – A debugging murder mystery played with GDB](https://www.robopenguins.com/fatal_core_dump/)
-* [2026-03-13, 23:30:08](https://news.ycombinator.com/item?id=47371404) - [Electron microscopy shows 'mouse bite' defects in semiconductors](https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors)
+* [2026-03-13, 23:30:08](https://news.ycombinator.com/item?id=47371404) - [Electron microscopy shows ‘mouse bite’ defects in semiconductors](https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors)
 * [2026-03-13, 21:04:35](https://news.ycombinator.com/item?id=47369883) - [More than 135 open hardware devices flashable with your own firmware](https://openhardware.directory)
 * [2026-03-13, 19:14:46](https://news.ycombinator.com/item?id=47368425) - [It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]](https://www.youtube.com/watch?v=3Ploi723hg4)
-* [2026-03-13, 16:03:28](https://news.ycombinator.com/item?id=47366256) - [The Starving Time in Jamestown](https://www.historytoday.com/archive/history-matters/starving-time-jamestown)
 
 ## [Archives](archives/index.md)
 

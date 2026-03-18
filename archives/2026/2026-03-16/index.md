@@ -39,6 +39,7 @@
 * [2026-03-16, 12:03:13](https://news.ycombinator.com/item?id=47397842) - [Nango (YC W23, API Access for Agents and Apps) Is Hiring](https://jobs.ashbyhq.com/Nango)
 * [2026-03-16, 12:00:06](https://news.ycombinator.com/item?id=47397822) - [Polymarket gamblers threaten to kill me over Iran missile story](https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/)
 * [2026-03-16, 11:57:33](https://news.ycombinator.com/item?id=47397797) - [MoD sources warn Palantir role at heart of government is threat to UK security](https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets)
+* [2026-03-16, 11:27:47](https://news.ycombinator.com/item?id=47397605) - [I Simulated 38,612 Countryle Games to Find the Best Strategy](https://stoffregen.io/posts/countryle/)
 * [2026-03-16, 11:25:31](https://news.ycombinator.com/item?id=47397593) - [Corruption erodes social trust more in democracies than in autocracies](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full)
 * [2026-03-16, 11:23:14](https://news.ycombinator.com/item?id=47397574) - [I Love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/)
 * [2026-03-16, 11:16:39](https://news.ycombinator.com/item?id=47397528) - [Scientists discover a surprising way to quiet the anxious mind (2025)](https://www.sciencedaily.com/releases/2025/10/251027023816.htm)
