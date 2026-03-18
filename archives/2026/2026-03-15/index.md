@@ -30,6 +30,7 @@
 * [2026-03-15, 16:38:15](https://news.ycombinator.com/item?id=47389055) - [Explore 19th Century Scientific Correspondence](https://epsilon.ac.uk/)
 * [2026-03-15, 16:16:16](https://news.ycombinator.com/item?id=47388830) - [Palantir defends its role in the kill chain: \"We are proud of that\"](https://www.heise.de/en/news/Palantir-defends-its-role-in-the-kill-chain-We-are-very-very-proud-of-that-11211275.html)
 * [2026-03-15, 16:01:09](https://news.ycombinator.com/item?id=47388676) - [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
+* [2026-03-15, 15:59:09](https://news.ycombinator.com/item?id=47388658) - [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
 * [2026-03-15, 15:58:23](https://news.ycombinator.com/item?id=47388646) - [Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)
 * [2026-03-15, 15:46:19](https://news.ycombinator.com/item?id=47388531) - [In Memoriam: John W. Addison, my PhD advisor](https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/)
 * [2026-03-15, 15:45:24](https://news.ycombinator.com/item?id=47388519) - [UMD Scientists Create 'Smart Underwear' to Measure Human Flatulence](https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence)
