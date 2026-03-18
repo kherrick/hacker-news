@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
 * [2026-03-18, 07:00:13](https://news.ycombinator.com/item?id=47422408) - [Ndea (YC W26) is hiring a symbolic RL search guidance lead](https://ndea.com/jobs/search-guidance)
+* [2026-03-18, 06:31:14](https://news.ycombinator.com/item?id=47422228) - [Celebrating Tony Hoare's mark on computer science](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/)
 * [2026-03-18, 05:58:34](https://news.ycombinator.com/item?id=47422022) - [Show HN: The Lottery of Life](https://claude.ai/public/artifacts/a62c4bac-3c05-4443-9d0a-50a9bd3f9d8d)
 * [2026-03-18, 05:44:23](https://news.ycombinator.com/item?id=47421946) - [Switzerland Built an Alternative to BGP](https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/)
 * [2026-03-18, 05:18:02](https://news.ycombinator.com/item?id=47421828) - [SSH has no Host header](https://blog.exe.dev/ssh-host-header)

@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-18, 07:00:13](https://news.ycombinator.com/item?id=47422408) - [Ndea (YC W26) is hiring a symbolic RL search guidance lead](https://ndea.com/jobs/search-guidance)
-* [2026-03-18, 05:58:34](https://news.ycombinator.com/item?id=47422022) - [Show HN: The Lottery of Life](https://claude.ai/public/artifacts/a62c4bac-3c05-4443-9d0a-50a9bd3f9d8d)
-* [2026-03-18, 05:44:23](https://news.ycombinator.com/item?id=47421946) - [Switzerland Built an Alternative to BGP](https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/)
+* [2026-03-18, 06:31:14](https://news.ycombinator.com/item?id=47422228) - [Celebrating Tony Hoare's mark on computer science](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/)
 * [2026-03-18, 05:18:02](https://news.ycombinator.com/item?id=47421828) - [SSH has no Host header](https://blog.exe.dev/ssh-host-header)
 * [2026-03-18, 04:44:12](https://news.ycombinator.com/item?id=47421670) - [Review of Microsoft's ClearType Font Collection (2005)](https://typographica.org/on-typography/microsofts-cleartype-font-collection-a-fair-and-balanced-review/)
 * [2026-03-18, 04:11:20](https://news.ycombinator.com/item?id=47421513) - [Forget Flags and Scripts: Just Rename the File](https://robertsdotpm.github.io/software_engineering/program_names_as_input.html)
@@ -25,6 +24,7 @@
 * [2026-03-16, 11:27:47](https://news.ycombinator.com/item?id=47397605) - [I Simulated 38,612 Countryle Games to Find the Best Strategy](https://stoffregen.io/posts/countryle/)
 * [2026-03-15, 17:36:48](https://news.ycombinator.com/item?id=47389696) - [Write up of my homebrew CPU build](https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/)
 * [2026-03-15, 13:38:08](https://news.ycombinator.com/item?id=47387268) - [Honda is killing its EVs](https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/)
+* [2026-03-15, 06:00:34](https://news.ycombinator.com/item?id=47384715) - [Aggregated File System (AGFS), a modern tribute to the spirit of Plan 9](https://github.com/c4pt0r/agfs)
 * [2026-03-15, 05:46:35](https://news.ycombinator.com/item?id=47384653) - [Leviathan (1651)](https://www.gutenberg.org/files/3207/3207-h/3207-h.htm)
 * [2026-03-14, 01:31:48](https://news.ycombinator.com/item?id=47372367) - [JPEG Compression](https://www.sophielwang.com/blog/jpeg)
 * [2026-03-13, 23:30:08](https://news.ycombinator.com/item?id=47371404) - [Electron microscopy shows ‘mouse bite’ defects in semiconductors](https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors)
