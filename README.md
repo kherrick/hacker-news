@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-18, 23:08:14](https://news.ycombinator.com/item?id=47432522) - [Website to post Claude fuck ups](https://claudedidwhat.wtf)
 * [2026-03-18, 21:57:58](https://news.ycombinator.com/item?id=47431930) - [What's on HTTP?](https://whatsonhttp.com/)
 * [2026-03-18, 20:45:54](https://news.ycombinator.com/item?id=47431237) - [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
 * [2026-03-18, 20:09:52](https://news.ycombinator.com/item?id=47430797) - [FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/)
@@ -10,6 +9,7 @@
 * [2026-03-18, 15:50:44](https://news.ycombinator.com/item?id=47427299) - [Show HN: I built 48 lightweight SVG backgrounds you can copy/paste](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)
 * [2026-03-18, 15:43:19](https://news.ycombinator.com/item?id=47427208) - [CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root](https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root)
 * [2026-03-18, 15:31:07](https://news.ycombinator.com/item?id=47427027) - [Nvidia NemoClaw](https://github.com/NVIDIA/NemoClaw)
+* [2026-03-18, 15:30:07](https://news.ycombinator.com/item?id=47427017) - [Snowflake AI Escapes Sandbox and Executes Malware](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
 * [2026-03-18, 15:24:12](https://news.ycombinator.com/item?id=47426936) - [Machine Payments Protocol (MPP)](https://stripe.com/blog/machine-payments-protocol)
 * [2026-03-18, 15:23:58](https://news.ycombinator.com/item?id=47426932) - [Death to Scroll Fade](https://dbushell.com/2026/01/09/death-to-scroll-fade/)
 * [2026-03-18, 14:14:02](https://news.ycombinator.com/item?id=47426057) - [Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service](https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government)
