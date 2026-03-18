@@ -27,6 +27,7 @@
 * [2026-03-15, 17:36:48](https://news.ycombinator.com/item?id=47389696) - [Write up of my homebrew CPU build](https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/)
 * [2026-03-15, 17:25:00](https://news.ycombinator.com/item?id=47389570) - [Stop Sloppypasta](https://stopsloppypasta.ai/)
 * [2026-03-15, 17:00:35](https://news.ycombinator.com/item?id=47389292) - [SuperTux 0.7.0](https://github.com/SuperTux/supertux/releases/tag/v0.7.0)
+* [2026-03-15, 16:38:15](https://news.ycombinator.com/item?id=47389055) - [Explore 19th Century Scientific Correspondence](https://epsilon.ac.uk/)
 * [2026-03-15, 16:16:16](https://news.ycombinator.com/item?id=47388830) - [Palantir defends its role in the kill chain: \"We are proud of that\"](https://www.heise.de/en/news/Palantir-defends-its-role-in-the-kill-chain-We-are-very-very-proud-of-that-11211275.html)
 * [2026-03-15, 16:01:09](https://news.ycombinator.com/item?id=47388676) - [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
 * [2026-03-15, 15:58:23](https://news.ycombinator.com/item?id=47388646) - [Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)
