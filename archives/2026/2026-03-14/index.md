@@ -75,4 +75,5 @@
 * [2026-03-14, 00:43:27](https://news.ycombinator.com/item?id=47372020) - [Show HN: I built an interactive 3D three-body problem simulator in the browser](https://structuredlabs.github.io/threebodyproblem/)
 * [2026-03-14, 00:29:50](https://news.ycombinator.com/item?id=47371922) - [Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/)
 * [2026-03-14, 00:12:44](https://news.ycombinator.com/item?id=47371785) - [Show HN: Fatal Core Dump – a debugging murder mystery played with GDB](https://www.robopenguins.com/fatal_core_dump/)
+* [2026-03-14, 00:08:16](https://news.ycombinator.com/item?id=47371749) - [A Tiny Camera Revealed a Hidden Passage in the Great Pyramid](https://modernengineeringmarvels.com/2026/03/13/a-tiny-camera-revealed-a-hidden-passage-in-the-great-pyramid/)
 * [2026-03-14, 00:02:37](https://news.ycombinator.com/item?id=47371692) - [Games with loot boxes to get minimum 16 age rating across Europe](https://www.bbc.com/news/articles/cge84xqjg5lo)

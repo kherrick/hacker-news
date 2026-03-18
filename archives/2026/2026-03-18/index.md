@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
+* [2026-03-18, 14:28:40](https://news.ycombinator.com/item?id=47426246) - [Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild](https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/)
+* [2026-03-18, 14:14:02](https://news.ycombinator.com/item?id=47426057) - [Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It](https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government)
 * [2026-03-18, 13:04:15](https://news.ycombinator.com/item?id=47425297) - [Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts](https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking)
 * [2026-03-18, 11:44:44](https://news.ycombinator.com/item?id=47424458) - [Measuring progress toward AGI: A cognitive framework](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/)
 * [2026-03-18, 10:57:57](https://news.ycombinator.com/item?id=47424042) - [Judge orders restoration of Voice of America](https://apnews.com/article/voice-of-america-kari-lake-trump-cd6d1ef05272f842705da0ed38d3de24)
