@@ -129,24 +129,161 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="47427698">
+        <section id="47428650">
           <h3>
-            <a
-              class="item"
-              href="https://www.bbc.co.uk/news/articles/cvg1gr5v333o"
-              >Government backtracks on AI and copyright after outcry from major
-              artists</a
+            <a class="item" href="https://news.ycombinator.com/item?id=47428650"
+              >Show HN: Will my flight have Starlink?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-18 @ 16:21:50</span
+              <span>2026-03-18 @ 17:29:21</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47427698"
+                ><a href="https://news.ycombinator.com/item?id=47428650"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 40</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                However, its availability on flights is patchy and hard to
+                predict. So we built a database of all airlines that have rolled
+                out Starlink (beyond just a trial), and a flight search tool to
+                predict it. Plug in a flight number and date, and we'll estimate
+                the likelihood of Starlink on-board based on aircraft type and
+                tail number.
+              </p>
+              <p>
+                If you don’t have any trips coming up, you can also look up
+                specific routes to see what flights offer Starlink. You can find
+                it here:
+                <a href="https://stardrift.ai/starlink"
+                  >https://stardrift.ai/starlink</a
+                >
+                .
+              </p>
+              <p>-</p>
+              <p>
+                I wanted to add a few notes on how this works too. There are
+                three things we check, in order, when we answer a query:
+              </p>
+              <p>- Does this airline have Starlink?</p>
+              <p>- Does this aircraft body have Starlink?</p>
+              <p>- Does <i>this specific aircraft</i> have Starlink?</p>
+              <p>
+                Only a few airlines at all have Starlink right now: United,
+                Hawaiian, Alaskan, Air France, Qatar, JSX, and a handful of
+                others. So if an aircraft is operated by any other airline, we
+                can issue a blanket no immediately.
+              </p>
+              <p>
+                Then, we check the actual body that's flying on the plane.
+                Airlines usually publish equipment assignments in advance, and
+                they're also rolling out Starlink body-by-body. So we know, for
+                instance, that all JSX E145s have Starlink and that none of Air
+                France's A320s have Starlink. (You can see a summary of our data
+                at
+                <a href="https://stardrift.ai/starlink/fleet-summary"
+                  >https://stardrift.ai/starlink/fleet-summary</a
+                >, though the live logic has a few rules not encoded there.)
+              </p>
+              <p>
+                If there's a complete match at the body type level, we can
+                confidently tell you your flight will have Starlink. However, in
+                most cases, the airline has only rolled out a
+                <i>partial</i> upgrade to that aircraft type. In that case, we
+                need to drill down a little more and figure out exactly
+                <i>which</i> plane is flying on your route.
+              </p>
+              <p>
+                We can do this by looking up the 'tail number' (think of it as a
+                license plate for the plane). <i>Unfortunately</i>, the tail
+                number is usually only assigned a few days before a flight. So,
+                before that, the best we can do is calculate the probability
+                that your plane will be assigned an aircraft with Starlink
+                enabled.
+              </p>
+              <p>
+                To do this, we had to build a mapping of aircraft tails to
+                Starlink status. Here, I have to thank online airline
+                enthusiasts who maintain meticulous spreadsheets and forum
+                threads to track this data! As I understand it,
+                <i>they</i> usually get this data from airline staff who are
+                enthusiastic about Starlink rollouts, so it's a reliable,
+                frequently updated source. Most of <i>our</i> work was finding
+                each source, normalizing their formats, building a reliable
+                &amp; responsible system to pull them in, and then tying them
+                together with our other data sources.
+              </p>
+              <p>
+                Basically, it's a data normalization problem! I used to work on
+                financial data systems and I was surprised how similar this
+                problem was.
+              </p>
+              <p>-</p>
+              <p>
+                Starlink itself is also a pretty cool technology. I also wrote a
+                blog post (<a
+                  href="https://stardrift.ai/blog/why-is-starlink-so-good"
+                  >https://stardrift.ai/blog/why-is-starlink-so-good</a
+                >) on why it's so much better than all the other aircraft wifi
+                options out there. At a high level, it's only possible because
+                rocket launches are so cheap nowadays, which is incredibly cool.
+              </p>
+              <p>
+                The performance is great, so it's well worth planning your
+                flights around it where possible. Right now, your best bet in
+                the US is on United regional flights and JSX/Hawaiian.
+                Internationally, Qatar is the best option (though obviously not
+                right now), with Air France a distance second. This will change
+                throughout the year as more airlines roll it out though, and
+                we'll keep our database updated!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47428611">
+          <h3>
+            <a
+              class="item"
+              href="https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-south-pars-gas-oil-prices.html"
+              >Iran's South Pars Gas Field Is Attacked by Israel, Sending Energy
+              Prices Soaring</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-18 @ 17:27:11</span
+              ><span class="points-container"
+                >Points: <span class="points">33</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47428611"
+                  >Comments</a
+                ><span class="descendants">: 25</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47427647">
+          <h3>
+            <a
+              class="item"
+              href="https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review"
+              >Google Engineers Launch "Sashiko" for Agentic AI Code Review of
+              the Linux Kernel</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-18 @ 16:17:44</span
+              ><span class="points-container"
+                >Points: <span class="points">46</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47427647"
+                  >Comments</a
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -164,11 +301,11 @@
             <h4>
               <span>2026-03-18 @ 16:07:54</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47427520"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -185,11 +322,11 @@
             <h4>
               <span>2026-03-18 @ 15:59:58</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47427416"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -204,11 +341,11 @@
             <h4>
               <span>2026-03-18 @ 15:57:48</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47427388"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -224,11 +361,11 @@
             <h4>
               <span>2026-03-18 @ 15:49:52</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47427290"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -245,11 +382,11 @@
             <h4>
               <span>2026-03-18 @ 15:48:04</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47427271"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -266,11 +403,11 @@
             <h4>
               <span>2026-03-18 @ 15:43:38</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47427214"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 99</span></span
               >
             </h4>
           </section>
@@ -285,11 +422,11 @@
             <h4>
               <span>2026-03-18 @ 15:31:07</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47427027"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -306,11 +443,11 @@
             <h4>
               <span>2026-03-18 @ 15:30:07</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47427017"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -327,11 +464,11 @@
             <h4>
               <span>2026-03-18 @ 15:24:12</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47426936"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -348,11 +485,11 @@
             <h4>
               <span>2026-03-18 @ 15:23:58</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">243</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47426932"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -370,11 +507,11 @@
             <h4>
               <span>2026-03-18 @ 14:14:02</span
               ><span class="points-container"
-                >Points: <span class="points">256</span></span
+                >Points: <span class="points">302</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47426057"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -390,11 +527,11 @@
             <h4>
               <span>2026-03-18 @ 14:00:43</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47425918"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -411,11 +548,11 @@
             <h4>
               <span>2026-03-18 @ 09:59:54</span
               ><span class="points-container"
-                >Points: <span class="points">594</span></span
+                >Points: <span class="points">628</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47423647"
                   >Comments</a
-                ><span class="descendants">: 332</span></span
+                ><span class="descendants">: 342</span></span
               >
             </h4>
           </section>
@@ -431,11 +568,11 @@
             <h4>
               <span>2026-03-18 @ 08:06:24</span
               ><span class="points-container"
-                >Points: <span class="points">377</span></span
+                >Points: <span class="points">388</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47422942"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 108</span></span
               >
             </h4>
           </section>
@@ -467,11 +604,11 @@
             <h4>
               <span>2026-03-18 @ 06:31:14</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47422228"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -488,11 +625,11 @@
             <h4>
               <span>2026-03-18 @ 01:00:45</span
               ><span class="points-container"
-                >Points: <span class="points">216</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47420432"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -507,11 +644,11 @@
             <h4>
               <span>2026-03-17 @ 21:04:26</span
               ><span class="points-container"
-                >Points: <span class="points">671</span></span
+                >Points: <span class="points">684</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47418295"
                   >Comments</a
-                ><span class="descendants">: 171</span></span
+                ><span class="descendants">: 174</span></span
               >
             </h4>
           </section>
@@ -526,11 +663,11 @@
             <h4>
               <span>2026-03-17 @ 18:59:50</span
               ><span class="points-container"
-                >Points: <span class="points">709</span></span
+                >Points: <span class="points">715</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47416736"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
             <div class="text">
@@ -539,6 +676,27 @@
                 >https://web.archive.org/web/20260317185928/https://terathon....</a
               >
             </div>
+          </section>
+        </section>
+        <section id="47416486">
+          <h3>
+            <a
+              class="item"
+              href="https://fidget-spinner.github.io/posts/jit-on-track.html"
+              >Python 3.15's JIT is now back on track</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-17 @ 18:37:27</span
+              ><span class="points-container"
+                >Points: <span class="points">460</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47416486"
+                  >Comments</a
+                ><span class="descendants">: 273</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="47414112">
@@ -570,11 +728,11 @@
             <h4>
               <span>2026-03-17 @ 13:43:44</span
               ><span class="points-container"
-                >Points: <span class="points">263</span></span
+                >Points: <span class="points">268</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47412569"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
             <div class="text">
@@ -612,11 +770,11 @@
             <h4>
               <span>2026-03-16 @ 14:12:45</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47399330"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -633,11 +791,11 @@
             <h4>
               <span>2026-03-15 @ 17:36:48</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47389696"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -650,11 +808,33 @@
             <h4>
               <span>2026-03-15 @ 12:20:14</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47386703"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 20</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47378781">
+          <h3>
+            <a
+              class="item"
+              href="https://huggingface.co/datasets/open-index/hacker-news"
+              >Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet,
+              updated every 5m</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-14 @ 17:12:03</span
+              ><span class="points-container"
+                >Points: <span class="points">80</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47378781"
+                  >Comments</a
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -671,89 +851,11 @@
             <h4>
               <span>2026-03-14 @ 08:28:16</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47374519"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47372367">
-          <h3>
-            <a class="item" href="https://www.sophielwang.com/blog/jpeg"
-              >JPEG Compression</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-14 @ 01:31:48</span
-              ><span class="points-container"
-                >Points: <span class="points">382</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47372367"
-                  >Comments</a
-                ><span class="descendants">: 104</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47372072">
-          <h3>
-            <a class="item" href="https://moq.dev/blog/on-a-boat/">On a Boat</a>
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-14 @ 00:50:20</span
-              ><span class="points-container"
-                >Points: <span class="points">98</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47372072"
-                  >Comments</a
-                ><span class="descendants">: 21</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47371749">
-          <h3>
-            <a
-              class="item"
-              href="https://modernengineeringmarvels.com/2026/03/13/a-tiny-camera-revealed-a-hidden-passage-in-the-great-pyramid/"
-              >A Tiny Camera Revealed a Hidden Passage in the Great Pyramid</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-14 @ 00:08:16</span
-              ><span class="points-container"
-                >Points: <span class="points">80</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47371749"
-                  >Comments</a
-                ><span class="descendants">: 41</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47367601">
-          <h3>
-            <a
-              class="item"
-              href="https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/"
-              >Pandas Exercises for Data Analysis (Interactive)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-13 @ 18:05:23</span
-              ><span class="points-container"
-                >Points: <span class="points">119</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47367601"
-                  >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
