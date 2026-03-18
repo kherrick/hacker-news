@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-18, 10:57:57](https://news.ycombinator.com/item?id=47424042) - [Judge orders restoration of Voice of America](https://apnews.com/article/voice-of-america-kari-lake-trump-cd6d1ef05272f842705da0ed38d3de24)
-* [2026-03-18, 10:49:19](https://news.ycombinator.com/item?id=47423976) - [OpenAI Has New Focus (On the IPO)](https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/)
+* [2026-03-18, 13:04:15](https://news.ycombinator.com/item?id=47425297) - [Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts](https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking)
+* [2026-03-18, 11:44:44](https://news.ycombinator.com/item?id=47424458) - [Measuring progress toward AGI: A cognitive framework](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/)
 * [2026-03-18, 09:59:54](https://news.ycombinator.com/item?id=47423647) - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 * [2026-03-18, 08:06:24](https://news.ycombinator.com/item?id=47422942) - [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)
 * [2026-03-18, 07:02:55](https://news.ycombinator.com/item?id=47422437) - [Animation 10k Starlink Satellites](https://spaceweather.com/archive.php?view=1&day=18&month=03&year=2026)
@@ -23,13 +23,13 @@
 * [2026-03-17, 06:11:17](https://news.ycombinator.com/item?id=47409222) - [Show HN: Pgit – A Git-like CLI backed by PostgreSQL](https://oseifert.ch/blog/building-pgit)
 * [2026-03-15, 23:44:34](https://news.ycombinator.com/item?id=47393324) - [How the Eon Team Produced a Virtual Embodied Fly](https://eon.systems/updates/embodied-brain-emulation)
 * [2026-03-15, 17:36:48](https://news.ycombinator.com/item?id=47389696) - [Write up of my homebrew CPU build](https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/)
-* [2026-03-15, 11:16:05](https://news.ycombinator.com/item?id=47386284) - [Ask HN: What breaks first when your team grows from 10 to 50 people?](https://news.ycombinator.com/item?id=47386284)
 * [2026-03-15, 05:46:35](https://news.ycombinator.com/item?id=47384653) - [Leviathan (1651)](https://www.gutenberg.org/files/3207/3207-h/3207-h.htm)
 * [2026-03-14, 01:31:48](https://news.ycombinator.com/item?id=47372367) - [JPEG Compression](https://www.sophielwang.com/blog/jpeg)
 * [2026-03-14, 00:50:20](https://news.ycombinator.com/item?id=47372072) - [(Media over QUIC) on a Boat](https://moq.dev/blog/on-a-boat/)
 * [2026-03-13, 23:30:08](https://news.ycombinator.com/item?id=47371404) - [Electron microscopy shows ‘mouse bite’ defects in semiconductors](https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors)
 * [2026-03-13, 21:04:35](https://news.ycombinator.com/item?id=47369883) - [More than 135 open hardware devices flashable with your own firmware](https://openhardware.directory)
 * [2026-03-13, 19:14:46](https://news.ycombinator.com/item?id=47368425) - [It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]](https://www.youtube.com/watch?v=3Ploi723hg4)
+* [2026-03-13, 18:05:23](https://news.ycombinator.com/item?id=47367601) - [Pandas Exercises for Data Analysis (Interactive)](https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/)
 
 ## [Archives](archives/index.md)
 

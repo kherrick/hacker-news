@@ -22,6 +22,7 @@
 * [2026-03-13, 18:34:12](https://news.ycombinator.com/item?id=47367932) - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
 * [2026-03-13, 18:25:02](https://news.ycombinator.com/item?id=47367825) - [You deleted everything and AWS is still charging you?](https://jvogel.me/posts/2026/aws-still-charging-you/)
 * [2026-03-13, 18:21:57](https://news.ycombinator.com/item?id=47367790) - [My Life Got 100x Better When I Stopped Thinking About Google](https://joostboer.com/google-quality-of-life)
+* [2026-03-13, 18:05:23](https://news.ycombinator.com/item?id=47367601) - [Pandas Exercises for Data Analysis (Interactive)](https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/)
 * [2026-03-13, 18:02:32](https://news.ycombinator.com/item?id=47367568) - [Your Phone Is an Entire Computer](https://medhir.com/blog/your-phone-is-an-entire-computer)
 * [2026-03-13, 17:58:22](https://news.ycombinator.com/item?id=47367526) - [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway)
 * [2026-03-13, 17:51:34](https://news.ycombinator.com/item?id=47367463) - [John Carmack about open source and anti-AI activists](https://twitter.com/id_aa_carmack/status/2032460578669691171)
