@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-03-17, 14:51:57",
-      "https://news.ycombinator.com/item?id=47413525"
-    ],
-    [
-      "FFmpeg 8.1",
-      "https://ffmpeg.org/index.html#pr8.1"
-    ]
-  ],
-  [
-    [
       "2026-03-17, 14:28:37",
       "https://news.ycombinator.com/item?id=47413195"
     ],
@@ -187,6 +177,16 @@
     [
       "OpenSUSE Kalpa",
       "https://kalpadesktop.org/"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 13:43:44",
+      "https://news.ycombinator.com/item?id=47412569"
+    ],
+    [
+      "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+      "https://github.com/adammiribyan/zeroboot"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2026-03-17, 08:15:34",
+      "https://news.ycombinator.com/item?id=47409885"
+    ],
+    [
+      "Reverse-engineering Viktor and making it open source",
+      "https://matijacniacki.com/blog/openviktor"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 04:43:29",
       "https://news.ycombinator.com/item?id=47408727"
     ],
     [
       "Show HN: Crust – A CLI framework for TypeScript and Bun",
       "https://github.com/chenxin-yan/crust"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 10:52:33",
-      "https://news.ycombinator.com/item?id=47397367"
-    ],
-    [
-      "Toward automated verification of unreviewed AI-generated code",
-      "https://peterlavigne.com/writing/verifying-ai-generated-code"
     ]
   ],
   [
@@ -265,8 +265,18 @@
       "https://news.ycombinator.com/item?id=47371785"
     ],
     [
-      "Show HN: Fatal Core Dump – a debugging murder mystery played with GDB",
+      "Show HN: Fatal Core Dump – A debugging murder mystery played with GDB",
       "https://www.robopenguins.com/fatal_core_dump/"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 23:30:08",
+      "https://news.ycombinator.com/item?id=47371404"
+    ],
+    [
+      "Electron microscopy shows 'mouse bite' defects in semiconductors",
+      "https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
       "https://www.youtube.com/watch?v=3Ploi723hg4"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 13:40:21",
-      "https://news.ycombinator.com/item?id=47364337"
-    ],
-    [
-      "Finding a CPU Design Bug in the Xbox 360 (2018)",
-      "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/"
     ]
   ],
   [
