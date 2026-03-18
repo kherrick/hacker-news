@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
+* [2026-03-18, 08:06:24](https://news.ycombinator.com/item?id=47422942) - [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)
+* [2026-03-18, 07:02:55](https://news.ycombinator.com/item?id=47422437) - [Animation 10k Starlink Satellites](https://spaceweather.com/archive.php?view=1&day=18&month=03&year=2026)
 * [2026-03-18, 07:00:13](https://news.ycombinator.com/item?id=47422408) - [Ndea (YC W26) is hiring a symbolic RL search guidance lead](https://ndea.com/jobs/search-guidance)
 * [2026-03-18, 06:31:14](https://news.ycombinator.com/item?id=47422228) - [Celebrating Tony Hoare's mark on computer science](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/)
 * [2026-03-18, 05:58:34](https://news.ycombinator.com/item?id=47422022) - [Show HN: The Lottery of Life](https://claude.ai/public/artifacts/a62c4bac-3c05-4443-9d0a-50a9bd3f9d8d)

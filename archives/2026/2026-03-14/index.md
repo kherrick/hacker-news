@@ -71,6 +71,7 @@
 * [2026-03-14, 01:31:48](https://news.ycombinator.com/item?id=47372367) - [JPEG Compression](https://www.sophielwang.com/blog/jpeg)
 * [2026-03-14, 01:19:18](https://news.ycombinator.com/item?id=47372290) - [An investigation of the forces behind the age-verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
 * [2026-03-14, 01:19:18](https://news.ycombinator.com/item?id=47372290) - [An investigation of the forces behind the age-verification bills](https://lwn.net/Articles/1062779/)
+* [2026-03-14, 00:50:20](https://news.ycombinator.com/item?id=47372072) - [(Media over QUIC) on a Boat](https://moq.dev/blog/on-a-boat/)
 * [2026-03-14, 00:43:27](https://news.ycombinator.com/item?id=47372020) - [Show HN: I built an interactive 3D three-body problem simulator in the browser](https://structuredlabs.github.io/threebodyproblem/)
 * [2026-03-14, 00:29:50](https://news.ycombinator.com/item?id=47371922) - [Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/)
 * [2026-03-14, 00:12:44](https://news.ycombinator.com/item?id=47371785) - [Show HN: Fatal Core Dump – a debugging murder mystery played with GDB](https://www.robopenguins.com/fatal_core_dump/)
