@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-18, 01:10:19",
+      "https://news.ycombinator.com/item?id=47420493"
+    ],
+    [
+      "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+      "https://amaiya.github.io/onprem/examples_agent.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 01:00:45",
+      "https://news.ycombinator.com/item?id=47420432"
+    ],
+    [
+      "The Pleasures of Poor Product Design",
+      "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 00:53:10",
+      "https://news.ycombinator.com/item?id=47420388"
+    ],
+    [
+      "A tale about fixing eBPF spinlock issues in the Linux kernel",
+      "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 21:42:39",
       "https://news.ycombinator.com/item?id=47418722"
     ],
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47417804"
     ],
     [
-      "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+      "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
       "https://github.com/gsd-build/get-shit-done"
     ]
   ],
@@ -47,16 +77,6 @@
     [
       "Launch HN: Kita (YC W26) – Automate credit review in emerging markets",
       "https://news.ycombinator.com/item?id=47417335"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 19:17:16",
-      "https://news.ycombinator.com/item?id=47416940"
-    ],
-    [
-      "Meta Horizon Worlds on Meta Quest is being discontinued",
-      "https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435"
     ]
   ],
   [
@@ -87,26 +107,6 @@
     [
       "Python 3.15's JIT is now back on track",
       "https://fidget-spinner.github.io/posts/jit-on-track.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 18:14:24",
-      "https://news.ycombinator.com/item?id=47416227"
-    ],
-    [
-      "Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust",
-      "https://github.com/peters/horizon"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 18:06:07",
-      "https://news.ycombinator.com/item?id=47416131"
-    ],
-    [
-      "Illinois Introducing Operating System Account Age Bill",
-      "https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511"
     ]
   ],
   [
@@ -211,26 +211,6 @@
   ],
   [
     [
-      "2026-03-17, 08:15:34",
-      "https://news.ycombinator.com/item?id=47409885"
-    ],
-    [
-      "Reverse-engineering Viktor and making it open source",
-      "https://matijacniacki.com/blog/openviktor"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 04:43:29",
-      "https://news.ycombinator.com/item?id=47408727"
-    ],
-    [
-      "Show HN: Crust – A CLI framework for TypeScript and Bun",
-      "https://github.com/chenxin-yan/crust"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 13:38:08",
       "https://news.ycombinator.com/item?id=47387268"
     ],
@@ -247,6 +227,16 @@
     [
       "Torturing Rustc by Emulating HKTs",
       "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 01:47:56",
+      "https://news.ycombinator.com/item?id=47372473"
+    ],
+    [
+      "Arno's Engram Keyboard Layouts",
+      "https://github.com/binarybottle/engram"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Electron microscopy shows 'mouse bite' defects in semiconductors",
       "https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 21:04:35",
+      "https://news.ycombinator.com/item?id=47369883"
+    ],
+    [
+      "More than 135 open hardware devices flashable with your own firmware",
+      "https://openhardware.directory"
     ]
   ],
   [
