@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-18, 05:18:02",
+      "https://news.ycombinator.com/item?id=47421828"
+    ],
+    [
+      "SSH has no Host header",
+      "https://blog.exe.dev/ssh-host-header"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 04:11:20",
       "https://news.ycombinator.com/item?id=47421513"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-03-17, 17:00:50",
-      "https://news.ycombinator.com/item?id=47415350"
-    ],
-    [
-      "Spice Data (YC S19) Is Hiring a Product Specialist",
-      "https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad"
-    ]
-  ],
-  [
-    [
       "2026-03-17, 15:56:09",
       "https://news.ycombinator.com/item?id=47414440"
     ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-03-16, 11:27:47",
+      "https://news.ycombinator.com/item?id=47397605"
+    ],
+    [
+      "I Simulated 38,612 Countryle Games to Find the Best Strategy",
+      "https://stoffregen.io/posts/countryle/"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 13:38:08",
       "https://news.ycombinator.com/item?id=47387268"
     ],
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=47384653"
     ],
     [
-      "Leviathan",
+      "Leviathan (1651)",
       "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm"
     ]
   ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=47371404"
     ],
     [
-      "Electron microscopy shows 'mouse bite' defects in semiconductors",
+      "Electron microscopy shows ‘mouse bite’ defects in semiconductors",
       "https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
       "https://www.youtube.com/watch?v=3Ploi723hg4"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 16:03:28",
-      "https://news.ycombinator.com/item?id=47366256"
-    ],
-    [
-      "The Starving Time in Jamestown",
-      "https://www.historytoday.com/archive/history-matters/starving-time-jamestown"
     ]
   ]
 ]
