@@ -37,6 +37,7 @@
 * [2026-03-16, 12:25:18](https://news.ycombinator.com/item?id=47398023) - [Comparing Python Type Checkers: Typing Spec Conformance](https://pyrefly.org/blog/typing-conformance-comparison/)
 * [2026-03-16, 12:13:59](https://news.ycombinator.com/item?id=47397920) - [Obsession with growth is destroying nature, 150 countries warn](https://www.politico.eu/article/obsession-with-growth-destroying-nature-150-countries-warn/)
 * [2026-03-16, 12:09:44](https://news.ycombinator.com/item?id=47397883) - [Bringing Semiconductors to Kazakhstan](https://www.siliconimist.com/p/bringing-semiconductors-to-kazakhstan)
+* [2026-03-16, 12:06:32](https://news.ycombinator.com/item?id=47397862) - [Czech Man's Stone in Barn's Foundations Is Rare Bronze Age Spearhead Mold](https://www.smithsonianmag.com/smart-news/a-czech-man-used-this-stone-in-his-barns-foundations-it-turned-out-to-be-rare-bronze-age-spearhead-mold-180988339/)
 * [2026-03-16, 12:05:08](https://news.ycombinator.com/item?id=47397857) - [Lazycut: A simple terminal video trimmer using FFmpeg](https://github.com/emin-ozata/lazycut)
 * [2026-03-16, 12:03:13](https://news.ycombinator.com/item?id=47397842) - [Nango (YC W23, API Access for Agents and Apps) Is Hiring](https://jobs.ashbyhq.com/Nango)
 * [2026-03-16, 12:00:06](https://news.ycombinator.com/item?id=47397822) - [Polymarket gamblers threaten to kill me over Iran missile story](https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/)

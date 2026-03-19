@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
+* [2026-03-18, 23:58:05](https://news.ycombinator.com/item?id=47432915) - [RX – a new random-access JSON alternative](https://github.com/creationix/rx)
 * [2026-03-18, 23:08:14](https://news.ycombinator.com/item?id=47432522) - [Website to post Claude fuck ups](https://claudedidwhat.wtf)
 * [2026-03-18, 21:57:58](https://news.ycombinator.com/item?id=47431930) - [What's on HTTP?](https://whatsonhttp.com/)
+* [2026-03-18, 21:31:12](https://news.ycombinator.com/item?id=47431671) - [Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training](https://github.com/alainnothere/llm-circuit-finder)
 * [2026-03-18, 20:45:54](https://news.ycombinator.com/item?id=47431237) - [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
 * [2026-03-18, 20:12:11](https://news.ycombinator.com/item?id=47430826) - [Remove your ring camera with a claw hammer](https://www.hamiltonnolan.com/p/remove-your-ring-camera-with-a-claw)
 * [2026-03-18, 20:09:52](https://news.ycombinator.com/item?id=47430797) - [FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/)

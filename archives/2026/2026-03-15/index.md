@@ -42,6 +42,7 @@
 * [2026-03-15, 14:51:28](https://news.ycombinator.com/item?id=47387956) - [The U.S. Mint dropped the olive branch from the dime](https://fortune.com/2026/03/12/us-mint-drops-olive-branch-dime-peace-war/)
 * [2026-03-15, 14:43:33](https://news.ycombinator.com/item?id=47387870) - [The Webpage Has Instructions. The Agent Has Your Credentials](https://openguard.sh/blog/prompt-injections/)
 * [2026-03-15, 13:58:13](https://news.ycombinator.com/item?id=47387434) - [Codegen is not productivity](https://www.antifound.com/posts/codegen-is-not-productivity/)
+* [2026-03-15, 13:57:24](https://news.ycombinator.com/item?id=47387431) - [An x86-64 back end for raven-uxn](https://www.mattkeeter.com/blog/2026-03-15-uxn/)
 * [2026-03-15, 13:47:34](https://news.ycombinator.com/item?id=47387353) - [NetBlocks says Iran blackout enters day 16 as arrests target Starlink users](https://www.iranintl.com/en/202603157402)
 * [2026-03-15, 13:38:08](https://news.ycombinator.com/item?id=47387268) - [Honda is killing its EVs](https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/)
 * [2026-03-15, 13:08:02](https://news.ycombinator.com/item?id=47387047) - [Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories](https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode)
