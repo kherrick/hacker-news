@@ -12,6 +12,7 @@
 * [2026-03-16, 20:54:14](https://news.ycombinator.com/item?id=47404726) - [Show HN: Mavera – Predict audience response with GANs, not LLM sentiment](https://docs.mavera.io/introduction)
 * [2026-03-16, 20:01:02](https://news.ycombinator.com/item?id=47404074) - [Nvidia Launches Vera CPU, Purpose-Built for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
 * [2026-03-16, 18:38:14](https://news.ycombinator.com/item?id=47402950) - [Palestinian boy, 12, describes how Israeli forces killed his family in car](https://www.bbc.com/news/articles/c70n2x7p22do)
+* [2026-03-16, 18:16:26](https://news.ycombinator.com/item?id=47402687) - [My Random Forest Was Mostly Learning Time-to-Expiry Noise](https://illya.sh/threads/out-of-sample-permutation-feature-importance-for-random)
 * [2026-03-16, 18:13:18](https://news.ycombinator.com/item?id=47402651) - [The return-to-the-office trend backfires](https://thehill.com/opinion/technology/5775420-remote-first-productivity-growth/)
 * [2026-03-16, 18:12:32](https://news.ycombinator.com/item?id=47402640) - [Jemalloc Un-Abandoned by Meta](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
 * [2026-03-16, 17:35:58](https://news.ycombinator.com/item?id=47402118) - [Agent Skills – Open Security Database](https://index.tego.security/skills/)

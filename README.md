@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-19, 22:59:18](https://news.ycombinator.com/item?id=47447600) - [Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html)
+* [2026-03-19, 22:33:08](https://news.ycombinator.com/item?id=47447317) - [Minecraft Source Code Is Interesting](https://www.karanjanthe.me/posts/minecraft-source/)
 * [2026-03-19, 21:23:24](https://news.ycombinator.com/item?id=47446373) - [Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)
 * [2026-03-19, 21:13:40](https://news.ycombinator.com/item?id=47446211) - [The Need for an Independent AI Grid](https://amppublic.com/)
 * [2026-03-19, 21:12:44](https://news.ycombinator.com/item?id=47446192) - [Xiaomi launches next-gen SU7 with 902 km range and Lidar, still undercuts Tesla](https://electrek.co/2026/03/19/xiaomi-launches-next-gen-su7-902-km-range-undercuts-tesla/)
@@ -9,7 +11,6 @@
 * [2026-03-19, 20:13:35](https://news.ycombinator.com/item?id=47445246) - [Waymo Safety Impact](https://waymo.com/safety/impact/)
 * [2026-03-19, 20:09:02](https://news.ycombinator.com/item?id=47445175) - [Tesla: Failure of the FSD's degradation detection system [pdf]](https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf)
 * [2026-03-19, 19:50:51](https://news.ycombinator.com/item?id=47444906) - [Clockwise acquired by Salesforce and shutting down next week](https://www.getclockwise.com)
-* [2026-03-19, 19:37:26](https://news.ycombinator.com/item?id=47444748) - [Anthropic takes legal action against OpenCode](https://github.com/anomalyco/opencode/pull/18186)
 * [2026-03-19, 19:18:25](https://news.ycombinator.com/item?id=47444460) - [From Oscilloscope to Wireshark: A UDP Story (2022)](https://www.mattkeeter.com/blog/2022-08-11-udp/)
 * [2026-03-19, 18:51:25](https://news.ycombinator.com/item?id=47444072) - [NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute](https://qlabs.sh/10x)
 * [2026-03-19, 18:17:15](https://news.ycombinator.com/item?id=47443588) - [Noq: n0's new QUIC implementation in Rust](https://www.iroh.computer/blog/noq-announcement)
@@ -23,13 +24,12 @@
 * [2026-03-19, 14:46:25](https://news.ycombinator.com/item?id=47440430) - [4Chan mocks £520k fine for UK online safety breaches](https://www.bbc.com/news/articles/c624330lg1ko)
 * [2026-03-19, 14:37:27](https://news.ycombinator.com/item?id=47440284) - [The Shape of Inequalities](https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/)
 * [2026-03-19, 13:43:26](https://news.ycombinator.com/item?id=47439320) - [OpenBSD: PF queues break the 4 Gbps barrier](https://undeadly.org/cgi?action=article;sid=20260319125859)
-* [2026-03-19, 13:42:14](https://news.ycombinator.com/item?id=47439300) - [I turned Markdown into a protocol for generative UI](https://fabian-kuebler.com/posts/markdown-agentic-ui/)
 * [2026-03-19, 13:05:50](https://news.ycombinator.com/item?id=47438723) - [Astral to Join OpenAI](https://astral.sh/blog/openai)
 * [2026-03-19, 13:02:35](https://news.ycombinator.com/item?id=47438675) - [Juggalo makeup blocks facial recognition technology (2019)](https://consequence.net/2019/07/juggalo-makeup-facial-recognition/)
 * [2026-03-19, 11:34:24](https://news.ycombinator.com/item?id=47437655) - [“Your frustration is the product”](https://daringfireball.net/2026/03/your_frustration_is_the_product)
-* [2026-03-19, 09:51:56](https://news.ycombinator.com/item?id=47436950) - [Afroman found not liable in defamation case](https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/)
 * [2026-03-17, 19:19:44](https://news.ycombinator.com/item?id=47416972) - [How the Turner twins are mythbusting modern technical apparel](https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/)
 * [2026-03-16, 22:56:13](https://news.ycombinator.com/item?id=47406160) - [Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
+* [2026-03-16, 18:16:26](https://news.ycombinator.com/item?id=47402687) - [My Random Forest Was Mostly Learning Time-to-Expiry Noise](https://illya.sh/threads/out-of-sample-permutation-feature-importance-for-random)
 
 ## [Archives](archives/index.md)
 

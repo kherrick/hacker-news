@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-19](index.md)
 
+* [2026-03-19, 22:59:18](https://news.ycombinator.com/item?id=47447600) - [Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html)
+* [2026-03-19, 22:33:08](https://news.ycombinator.com/item?id=47447317) - [Minecraft Source Code Is Interesting](https://www.karanjanthe.me/posts/minecraft-source/)
 * [2026-03-19, 21:23:24](https://news.ycombinator.com/item?id=47446373) - [Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)
 * [2026-03-19, 21:13:40](https://news.ycombinator.com/item?id=47446211) - [The Need for an Independent AI Grid](https://amppublic.com/)
 * [2026-03-19, 21:12:44](https://news.ycombinator.com/item?id=47446192) - [Xiaomi launches next-gen SU7 with 902 km range and Lidar, still undercuts Tesla](https://electrek.co/2026/03/19/xiaomi-launches-next-gen-su7-902-km-range-undercuts-tesla/)
