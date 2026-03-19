@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-03-19, 15:42:46",
+      "https://news.ycombinator.com/item?id=47441351"
+    ],
+    [
+      "Oil and gas prices jump after Iran and Israel attack gasfields",
+      "https://www.theguardian.com/business/2026/mar/19/oil-prices-gas-prices-rise-iran-israel-donald-trump"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 15:06:58",
+      "https://news.ycombinator.com/item?id=47440759"
+    ],
+    [
+      "macOS 26 breaks custom DNS settings including .internal",
+      "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 14:38:51",
+      "https://news.ycombinator.com/item?id=47440309"
+    ],
+    [
+      "Hyper-optimized reverse geocoding API",
+      "https://github.com/traccar/traccar-geocoder"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 14:37:27",
+      "https://news.ycombinator.com/item?id=47440284"
+    ],
+    [
+      "The Shape of Inequalities",
+      "https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 14:06:39",
       "https://news.ycombinator.com/item?id=47439718"
     ],
@@ -27,16 +67,6 @@
     [
       "Astral to Join OpenAI",
       "https://astral.sh/blog/openai"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 13:05:17",
-      "https://news.ycombinator.com/item?id=47438716"
-    ],
-    [
-      "OpenAI to Acquire Astral",
-      "https://openai.com/index/openai-to-acquire-astral/"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2026-03-19, 12:43:29",
-      "https://news.ycombinator.com/item?id=47438403"
-    ],
-    [
-      "WFH is becoming a benefit again",
-      "https://news.ycombinator.com/item?id=47438403"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 12:13:00",
       "https://news.ycombinator.com/item?id=47438001"
     ],
@@ -97,16 +117,6 @@
     [
       "'Your Frustration Is the Product'",
       "https://daringfireball.net/2026/03/your_frustration_is_the_product"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 11:15:27",
-      "https://news.ycombinator.com/item?id=47437516"
-    ],
-    [
-      "Iran war energy shock sparks global push to reduce fossil fuel dependence",
-      "https://www.reuters.com/business/energy/iran-war-energy-shock-sparks-global-push-reduce-fossil-fuel-dependence-2026-03-18/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-03-18, 15:50:44",
-      "https://news.ycombinator.com/item?id=47427299"
-    ],
-    [
-      "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
-      "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/"
-    ]
-  ],
-  [
-    [
       "2026-03-18, 15:31:07",
       "https://news.ycombinator.com/item?id=47427027"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-03-15, 12:20:14",
-      "https://news.ycombinator.com/item?id=47386703"
-    ],
-    [
-      "OpenRocket",
-      "https://openrocket.info/"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 08:40:59",
       "https://news.ycombinator.com/item?id=47385439"
     ],
     [
       "LotusNotes",
       "https://computer.rip/2026-03-14-lotusnotes.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 21:36:51",
+      "https://news.ycombinator.com/item?id=47381476"
+    ],
+    [
+      "A Preview of Coalton 0.2",
+      "https://coalton-lang.github.io/20260312-coalton0p2/"
     ]
   ]
 ]
