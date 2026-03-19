@@ -129,23 +129,195 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="47441351">
+        <section id="47442297">
           <h3>
-            <a
-              class="item"
-              href="https://www.theguardian.com/business/2026/mar/19/oil-prices-gas-prices-rise-iran-israel-donald-trump"
-              >Oil and gas prices jump after Iran and Israel attack gasfields</a
+            <a class="item" href="https://orbilu.uni.lu/handle/10993/67962"
+              >A survey on LLMs for spreadsheet intelligence</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-19 @ 15:42:46</span
+              <span>2026-03-19 @ 16:47:02</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47441351"
+                ><a href="https://news.ycombinator.com/item?id=47442297"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47441629">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=47441629"
+              >Launch HN: Canary (YC W26) – AI QA that understands your code</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-19 @ 16:01:30</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47441629"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.runcanary.ai">https://www.runcanary.ai</a>).
+              We build AI agents that read your codebase, figure out what a pull
+              request actually changed, and generate and execute tests for every
+              affected user workflow.
+              <p>
+                Aakash and I previously built AI coding tools at Windsurf,
+                Cognition, and Google. AI tools were making every team faster at
+                shipping, but nobody was testing real user behavior before
+                merge. PRs got bigger, reviews still happened in file diffs, and
+                changes that looked clean broke checkout, auth, and billing in
+                production. We saw it firsthand. We started Canary to close that
+                gap. Here's how it works:
+              </p>
+              <p>
+                Canary starts by connecting to your codebase and understands how
+                your app is built: routes, controllers, validation logic. You
+                push a PR and Canary reads the diff, understands the intent
+                behind the changes, then generates and runs tests against your
+                preview app checking real user flows end to end. It comments
+                directly on the PR with test results and recordings showing what
+                changed and flagging anything that doesn't behave as expected.
+                You can also trigger specific user workflow tests via a PR
+                comment.
+              </p>
+              <p>
+                Beyond PR testing, tests generated from the PR can be moved into
+                regression suites. You can also create tests by just prompting
+                what you want tested in plain English. Canary generates a full
+                test suite from your codebase, schedules it, and runs it
+                continuously. One of our construction tech customers had an
+                invoicing flow where the amount due drifted from the original
+                proposal total by ~$1,600. Canary caught the regression in their
+                invoice flow before release.
+              </p>
+              <p>
+                This isn't something a single family of foundation models can do
+                on its own. QA spans across many modalities like source code,
+                DOM/ARIA, device emulators, visual verifications, analyzing
+                screen recordings, network/console logs, live browser state etc.
+                for any single model to be specialized in. You also need custom
+                browser fleets, user sessions, ephemeral environments, on-device
+                farms and data seeding to run the tests reliably. On top of
+                that, catching second-order effects of code changes requires a
+                specialized harness that breaks the application in multiple
+                possible ways across different types of users that a normal
+                happy path testing flow wouldn't.
+              </p>
+              <p>
+                To measure how well our purpose built QA agent works, we
+                published QA-Bench v0, the first benchmark for code
+                verification. Given a real PR, can an AI model identify every
+                affected user workflow and produce relevant tests? We tested our
+                purpose-built QA agent against GPT 5.4, Claude Code (Opus 4.6),
+                and Sonnet 4.6 across 35 real PRs on Grafana, Mattermost,
+                Cal.com, and Apache Superset on three dimensions: Relevance,
+                Coverage, and Coherence. Coverage is where the gap was largest.
+                Canary leads by 11 points over GPT 5.4, 18 over Claude Code, and
+                26 over Sonnet 4.6. For full methodology and per-repo breakdowns
+                give our benchmark report a read:
+                <a href="https://www.runcanary.ai/blog/qa-bench-v0"
+                  >https://www.runcanary.ai/blog/qa-bench-v0</a
+                >
+              </p>
+              <p>
+                You can check out the product demo here:
+                <a href="https://youtu.be/NeD9g1do_BU"
+                  >https://youtu.be/NeD9g1do_BU</a
+                >
+              </p>
+              <p>
+                We'd love feedback from anyone working on code verification or
+                thinking about how to measure this differently.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47441546">
+          <h3>
+            <a class="item" href="https://github.com/KittenML/KittenTTS"
+              >Show HN: Three new Kitten TTS models – smallest less than 25MB</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-19 @ 15:56:06</span
+              ><span class="points-container"
+                >Points: <span class="points">99</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47441546"
+                  >Comments</a
+                ><span class="descendants">: 24</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/KittenML/KittenTTS"
+                >https://github.com/KittenML/KittenTTS</a
+              >) is an open-source series of tiny and expressive text-to-speech
+              models for on-device applications. We had a thread last year here:
+              <a href="https://news.ycombinator.com/item?id=44807868"
+                >https://news.ycombinator.com/item?id=44807868</a
+              >.
+              <p>
+                Today we're releasing three new models with 80M, 40M and 14M
+                parameters.
+              </p>
+              <p>
+                The largest model (80M) has the highest quality. The 14M variant
+                reaches new SOTA in expressivity among similar sized models,
+                despite being &lt;25MB in size. This release is a major upgrade
+                from the previous one and supports English text-to-speech
+                applications in eight voices: four male and four female.
+              </p>
+              <p>
+                Here's a short demo:
+                <a href="https://www.youtube.com/watch?v=ge3u5qblqZA"
+                  >https://www.youtube.com/watch?v=ge3u5qblqZA</a
+                >.
+              </p>
+              <p>
+                Most models are quantized to int8 + fp16, and they use ONNX for
+                runtime. Our models are designed to run anywhere eg. raspberry
+                pi, low-end smartphones, wearables, browsers etc. No GPU
+                required! This release aims to bridge the gap between on-device
+                and cloud models for tts applications. Multi-lingual model
+                release is coming soon.
+              </p>
+              <p>
+                On-device AI is bottlenecked by one thing: a lack of tiny models
+                that actually perform. Our goal is to open-source more models to
+                run production-ready voice agents and apps entirely on-device.
+              </p>
+              <p>We would love your feedback!</p>
+            </div>
+          </section>
+        </section>
+        <section id="47441499">
+          <h3>
+            <a
+              class="item"
+              href="https://glama.ai/blog/2026-03-19-open-source-has-a-bot-problem"
+              >Prompt Injecting Contributing.md</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-19 @ 15:52:12</span
+              ><span class="points-container"
+                >Points: <span class="points">43</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47441499"
+                  >Comments</a
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -162,11 +334,11 @@
             <h4>
               <span>2026-03-19 @ 15:06:58</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47440759"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
             <div class="text">
@@ -188,11 +360,11 @@
             <h4>
               <span>2026-03-19 @ 14:38:51</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47440309"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -209,11 +381,11 @@
             <h4>
               <span>2026-03-19 @ 14:37:27</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47440284"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -230,11 +402,11 @@
             <h4>
               <span>2026-03-19 @ 14:06:39</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47439718"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -251,11 +423,11 @@
             <h4>
               <span>2026-03-19 @ 13:43:26</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47439320"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -270,11 +442,11 @@
             <h4>
               <span>2026-03-19 @ 13:05:50</span
               ><span class="points-container"
-                >Points: <span class="points">716</span></span
+                >Points: <span class="points">804</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47438723"
                   >Comments</a
-                ><span class="descendants">: 447</span></span
+                ><span class="descendants">: 496</span></span
               >
             </h4>
             <div class="text">
@@ -296,11 +468,11 @@
             <h4>
               <span>2026-03-19 @ 13:02:35</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47438675"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -317,33 +489,30 @@
             <h4>
               <span>2026-03-19 @ 12:49:21</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47438490"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47438482">
+        <section id="47438342">
           <h3>
-            <a
-              class="item"
-              href="https://www.politico.com/newsletters/digital-future-daily/2026/03/16/the-facial-recognition-grocery-fight-00830499"
-              >The next fight over the use of facial recognition could be in the
-              supermarkets</a
+            <a class="item" href="https://ramtrack.eu"
+              >Ramtrack.eu – RAM Price Intelligence</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-19 @ 12:48:58</span
+              <span>2026-03-19 @ 12:39:46</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47438482"
+                ><a href="https://news.ycombinator.com/item?id=47438342"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -361,32 +530,11 @@
             <h4>
               <span>2026-03-19 @ 12:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">347</span></span
+                >Points: <span class="points">368</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47438001"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47437655">
-          <h3>
-            <a
-              class="item"
-              href="https://daringfireball.net/2026/03/your_frustration_is_the_product"
-              >'Your Frustration Is the Product'</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-19 @ 11:34:24</span
-              ><span class="points-container"
-                >Points: <span class="points">246</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47437655"
-                  >Comments</a
-                ><span class="descendants">: 157</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -404,11 +552,11 @@
             <h4>
               <span>2026-03-19 @ 10:17:46</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47437101"
                   >Comments</a
-                ><span class="descendants">: 139</span></span
+                ><span class="descendants">: 143</span></span
               >
             </h4>
           </section>
@@ -425,13 +573,25 @@
             <h4>
               <span>2026-03-19 @ 09:51:56</span
               ><span class="points-container"
-                >Points: <span class="points">839</span></span
+                >Points: <span class="points">894</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47436950"
                   >Comments</a
-                ><span class="descendants">: 395</span></span
+                ><span class="descendants">: 494</span></span
               >
             </h4>
+            <div class="text">
+              <a
+                href="https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html"
+                >https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-ca...</a
+              >
+              <p>
+                <a
+                  href="https://www.washingtonpost.com/national-security/2026/03/18/afroman-lawsuit-deputies-raid-ohio/"
+                  >https://www.washingtonpost.com/national-security/2026/03/18/...</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="47435453">
@@ -446,11 +606,11 @@
             <h4>
               <span>2026-03-19 @ 05:53:04</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47435453"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -467,11 +627,11 @@
             <h4>
               <span>2026-03-19 @ 03:55:03</span
               ><span class="points-container"
-                >Points: <span class="points">278</span></span
+                >Points: <span class="points">285</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47434732"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -488,30 +648,11 @@
             <h4>
               <span>2026-03-19 @ 02:23:17</span
               ><span class="points-container"
-                >Points: <span class="points">535</span></span
+                >Points: <span class="points">543</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47434047"
                   >Comments</a
-                ><span class="descendants">: 291</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47433265">
-          <h3>
-            <a class="item" href="https://github.com/iliazintchenko/agent-sat"
-              >Autoresearch for SAT Solvers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-19 @ 00:40:32</span
-              ><span class="points-container"
-                >Points: <span class="points">156</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47433265"
-                  >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 299</span></span
               >
             </h4>
           </section>
@@ -528,11 +669,11 @@
             <h4>
               <span>2026-03-19 @ 00:15:39</span
               ><span class="points-container"
-                >Points: <span class="points">725</span></span
+                >Points: <span class="points">737</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47433058"
                   >Comments</a
-                ><span class="descendants">: 865</span></span
+                ><span class="descendants">: 891</span></span
               >
             </h4>
           </section>
@@ -550,11 +691,11 @@
             <h4>
               <span>2026-03-18 @ 21:31:12</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">219</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47431671"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
             <div class="text">
@@ -603,57 +744,6 @@
             </div>
           </section>
         </section>
-        <section id="47431237">
-          <h3>
-            <a
-              class="item"
-              href="https://nearzero.software/p/warranty-void-if-regenerated"
-              >Warranty Void If Regenerated</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-18 @ 20:45:54</span
-              ><span class="points-container"
-                >Points: <span class="points">469</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47431237"
-                  >Comments</a
-                ><span class="descendants">: 286</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Over the last couple months, I've been building world bibles,
-                writing and visual style guides, and other documents for this
-                project… think the fiction equivalent of all the markdown files
-                we use for agentic development now. After that, this was about
-                two weeks of additional polish work to cut out a lot of fluff
-                and a lot of the LLM-isms. Happy to answer any questions about
-                the process too if that would be interesting to anybody.
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="47427027">
-          <h3>
-            <a class="item" href="https://github.com/NVIDIA/NemoClaw"
-              >Nvidia NemoClaw</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-18 @ 15:31:07</span
-              ><span class="points-container"
-                >Points: <span class="points">360</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47427027"
-                  >Comments</a
-                ><span class="descendants">: 235</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="47422759">
           <h3>
             <a class="item" href="https://susam.net/wander/"
@@ -664,11 +754,11 @@
             <h4>
               <span>2026-03-18 @ 07:43:13</span
               ><span class="points-container"
-                >Points: <span class="points">338</span></span
+                >Points: <span class="points">341</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47422759"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -683,34 +773,63 @@
             <h4>
               <span>2026-03-17 @ 14:48:01</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47413475"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47401489">
+        <section id="47404726">
           <h3>
-            <a
-              class="item"
-              href="https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/"
-              >The math that explains why bell curves are everywhere</a
+            <a class="item" href="https://docs.mavera.io/introduction"
+              >Show HN: Mavera – Predict audience response with GANs, not LLM
+              sentiment</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-16 @ 16:51:32</span
+              <span>2026-03-16 @ 20:54:14</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">4</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47401489"
+                ><a href="https://news.ycombinator.com/item?id=47404726"
                   >Comments</a
-                ><span class="descendants">: 114</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                To show this in practice, we ran all 101 Super Bowl LX ads
+                through Mavera on game night: https://superbowl.mavera.io. We
+                simulated how audiences would emotionally and behaviorally
+                respond by platform and segment. We returned a distribution
+                rather than a single score as part of a full analysis of each ad
+                in under 4 hours.
+              </p>
+              <p>
+                The model is a GAN adapted for language, emotion, and cognition.
+                A generator produces synthetic audience responses and a
+                discriminator validates them against human benchmarks. Scoring
+                follows a feel-think-act framework: emotional activation,
+                cognitive framing, behavioral prediction. We validated scoring
+                against the Harvard/Illinois OASIS benchmark. MAE on emotional
+                response is 0.02-0.15 versus 1.0-2.5+ for GPT and Claude. Every
+                response includes a confidence score and a hallucination risk
+                score. You can also build-in spread of opinion, response
+                stability, and impact of news/market context scores to your
+                outputs.
+              </p>
+              <p>
+                The API is OpenAI-compatible. Change the base URL to
+                app.mavera.io/api/v1, add a persona_id, and you are running
+                against 50+ pre-built personas or you can customize your own.
+                Sub-100ms latency at P99. Free API key and docs at
+                https://docs.mavera.io/introduction.
+              </p>
+            </div>
           </section>
         </section>
         <section id="47400192">
@@ -725,11 +844,32 @@
             <h4>
               <span>2026-03-16 @ 15:20:01</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47400192"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47397809">
+          <h3>
+            <a
+              class="item"
+              href="https://medium.com/@bzurak/what-if-python-was-natively-distributable-3bfae485a408"
+              >What if Python was natively distributable?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-16 @ 11:58:49</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47397809"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -747,11 +887,11 @@
             <h4>
               <span>2026-03-15 @ 15:59:09</span
               ><span class="points-container"
-                >Points: <span class="points">445</span></span
+                >Points: <span class="points">449</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47388658"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 124</span></span
               >
             </h4>
           </section>
@@ -768,11 +908,11 @@
             <h4>
               <span>2026-03-15 @ 15:23:26</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47388293"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -789,11 +929,11 @@
             <h4>
               <span>2026-03-15 @ 08:40:59</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47385439"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 93</span></span
               >
             </h4>
           </section>
@@ -810,7 +950,7 @@
             <h4>
               <span>2026-03-14 @ 21:36:51</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47381476"
                   >Comments</a
