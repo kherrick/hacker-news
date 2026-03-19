@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-19, 06:47:52](https://news.ycombinator.com/item?id=47435782) - [Ask HN: What do you look for in your first 10 hires?](https://news.ycombinator.com/item?id=47435782)
 * [2026-03-19, 05:00:56](https://news.ycombinator.com/item?id=47435156) - [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews)
 * [2026-03-19, 03:55:03](https://news.ycombinator.com/item?id=47434732) - [Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)
 * [2026-03-19, 03:31:01](https://news.ycombinator.com/item?id=47434567) - [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
@@ -17,6 +16,7 @@
 * [2026-03-18, 15:50:44](https://news.ycombinator.com/item?id=47427299) - [Show HN: I built 48 lightweight SVG backgrounds you can copy/paste](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)
 * [2026-03-18, 15:43:19](https://news.ycombinator.com/item?id=47427208) - [CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root](https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root)
 * [2026-03-18, 15:31:07](https://news.ycombinator.com/item?id=47427027) - [Nvidia NemoClaw](https://github.com/NVIDIA/NemoClaw)
+* [2026-03-18, 15:24:12](https://news.ycombinator.com/item?id=47426936) - [Machine Payments Protocol (MPP)](https://stripe.com/blog/machine-payments-protocol)
 * [2026-03-18, 10:49:19](https://news.ycombinator.com/item?id=47423976) - [OpenAI Has New Focus (on the IPO)](https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/)
 * [2026-03-18, 09:59:54](https://news.ycombinator.com/item?id=47423647) - [Rob Pike’s Rules of Programming (1989)](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 * [2026-03-18, 07:43:13](https://news.ycombinator.com/item?id=47422759) - [Wander – A tiny, decentralised tool to explore the small web](https://susam.net/wander/)
