@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-19](index.md)
 
+* [2026-03-19, 21:23:24](https://news.ycombinator.com/item?id=47446373) - [Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)
+* [2026-03-19, 21:13:40](https://news.ycombinator.com/item?id=47446211) - [The Need for an Independent AI Grid](https://amppublic.com/)
+* [2026-03-19, 21:01:03](https://news.ycombinator.com/item?id=47446021) - [EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages](https://esolang-bench.vercel.app/)
 * [2026-03-19, 20:33:02](https://news.ycombinator.com/item?id=47445599) - [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit)
+* [2026-03-19, 20:13:35](https://news.ycombinator.com/item?id=47445246) - [Waymo Safety Impact](https://waymo.com/safety/impact/)
 * [2026-03-19, 20:13:35](https://news.ycombinator.com/item?id=47445246) - [Waymo 13x safer than human drivers](https://twitter.com/Waymo/status/2034646084073480224)
 * [2026-03-19, 20:09:02](https://news.ycombinator.com/item?id=47445175) - [Tesla: Failure of the FSD's degradation detection system [pdf]](https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf)
 * [2026-03-19, 19:50:51](https://news.ycombinator.com/item?id=47444906) - [Clockwise acquired by Salesforce and shutting down next week](https://www.getclockwise.com)
