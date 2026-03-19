@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-19, 19:37:26](https://news.ycombinator.com/item?id=47444748) - [Anthropic takes legal action against OpenCode](https://github.com/anomalyco/opencode/pull/18186)
 * [2026-03-19, 19:18:25](https://news.ycombinator.com/item?id=47444460) - [From Oscilloscope to Wireshark: A UDP Story](https://www.mattkeeter.com/blog/2022-08-11-udp/)
 * [2026-03-19, 19:00:43](https://news.ycombinator.com/item?id=47444212) - [Show HN: I built a P2P network where AI agents publish formally verified science](https://news.ycombinator.com/item?id=47444212)
 * [2026-03-19, 18:59:02](https://news.ycombinator.com/item?id=47444195) - [A rogue AI led to a serious security incident at Meta](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
@@ -13,7 +14,6 @@
 * [2026-03-19, 16:55:45](https://news.ycombinator.com/item?id=47442435) - [Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster](https://blog.skypilot.co/scaling-autoresearch/)
 * [2026-03-19, 16:12:48](https://news.ycombinator.com/item?id=47441784) - [World Happiness Report 2026](https://www.worldhappiness.report/ed/2026/)
 * [2026-03-19, 16:01:30](https://news.ycombinator.com/item?id=47441629) - [Launch HN: Canary (YC W26) – AI QA that understands your code](https://news.ycombinator.com/item?id=47441629)
-* [2026-03-19, 15:59:04](https://news.ycombinator.com/item?id=47441587) - [Show HN: Dumped Wix for an AI Edge agent so I never have to hire junior staff](https://news.ycombinator.com/item?id=47441587)
 * [2026-03-19, 15:56:06](https://news.ycombinator.com/item?id=47441546) - [Show HN: Three new Kitten TTS models – smallest less than 25MB](https://github.com/KittenML/KittenTTS)
 * [2026-03-19, 15:52:12](https://news.ycombinator.com/item?id=47441499) - [Prompt Injecting Contributing.md](https://glama.ai/blog/2026-03-19-open-source-has-a-bot-problem)
 * [2026-03-19, 15:06:58](https://news.ycombinator.com/item?id=47440759) - [macOS 26 breaks custom DNS settings including .internal](https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a)
@@ -25,11 +25,11 @@
 * [2026-03-19, 13:42:14](https://news.ycombinator.com/item?id=47439300) - [I turned Markdown into a protocol for generative UI](https://fabian-kuebler.com/posts/markdown-agentic-ui/)
 * [2026-03-19, 13:05:50](https://news.ycombinator.com/item?id=47438723) - [Astral to Join OpenAI](https://astral.sh/blog/openai)
 * [2026-03-19, 13:02:35](https://news.ycombinator.com/item?id=47438675) - [Juggalo makeup blocks facial recognition technology (2019)](https://consequence.net/2019/07/juggalo-makeup-facial-recognition/)
-* [2026-03-19, 12:39:46](https://news.ycombinator.com/item?id=47438342) - [Ramtrack.eu – RAM Price Intelligence](https://ramtrack.eu)
+* [2026-03-19, 11:34:24](https://news.ycombinator.com/item?id=47437655) - [“Your frustration is the product”](https://daringfireball.net/2026/03/your_frustration_is_the_product)
 * [2026-03-19, 09:51:56](https://news.ycombinator.com/item?id=47436950) - [Afroman found not liable in defamation case](https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/)
-* [2026-03-19, 03:55:03](https://news.ycombinator.com/item?id=47434732) - [Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)
 * [2026-03-16, 22:56:13](https://news.ycombinator.com/item?id=47406160) - [Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 * [2026-03-16, 11:58:49](https://news.ycombinator.com/item?id=47397809) - [What if Python was natively distributable?](https://medium.com/@bzurak/what-if-python-was-natively-distributable-3bfae485a408)
+* [2026-03-15, 21:44:51](https://news.ycombinator.com/item?id=47392285) - [Successes and Breakdowns in Everyday Non-Display Smart Glasses Use](https://arxiv.org/abs/2602.22340)
 
 ## [Archives](archives/index.md)
 

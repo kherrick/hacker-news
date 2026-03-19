@@ -12,6 +12,7 @@
 * [2026-03-15, 22:15:50](https://news.ycombinator.com/item?id=47392547) - [A new Bigfoot documentary helps explain our conspiracy-minded era](https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px)
 * [2026-03-15, 22:11:17](https://news.ycombinator.com/item?id=47392514) - [Kangina](https://en.wikipedia.org/wiki/Kangina)
 * [2026-03-15, 22:10:47](https://news.ycombinator.com/item?id=47392510) - [Cert Authorities Check for DNSSEC from Today](https://www.grepular.com/Cert_Authorities_Check_for_DNSSEC_From_Today)
+* [2026-03-15, 21:44:51](https://news.ycombinator.com/item?id=47392285) - [Successes and Breakdowns in Everyday Non-Display Smart Glasses Use](https://arxiv.org/abs/2602.22340)
 * [2026-03-15, 21:29:52](https://news.ycombinator.com/item?id=47392158) - [Show HN: Free OpenAI API Access with ChatGPT Account](https://github.com/EvanZhouDev/openai-oauth)
 * [2026-03-15, 21:22:16](https://news.ycombinator.com/item?id=47392084) - [Canada's bill C-22 mandates mass metadata surveillance of Canadians](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)
 * [2026-03-15, 21:22:16](https://news.ycombinator.com/item?id=47392084) - [Canada's Bill C-22 Mandates Mass Metadata Surveillance of Canadians](https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-reading)

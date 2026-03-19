@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-19](index.md)
 
+* [2026-03-19, 19:37:26](https://news.ycombinator.com/item?id=47444748) - [Anthropic takes legal action against OpenCode](https://github.com/anomalyco/opencode/pull/18186)
 * [2026-03-19, 19:18:25](https://news.ycombinator.com/item?id=47444460) - [From Oscilloscope to Wireshark: A UDP Story](https://www.mattkeeter.com/blog/2022-08-11-udp/)
 * [2026-03-19, 19:00:43](https://news.ycombinator.com/item?id=47444212) - [Show HN: I built a P2P network where AI agents publish formally verified science](https://news.ycombinator.com/item?id=47444212)
 * [2026-03-19, 18:59:02](https://news.ycombinator.com/item?id=47444195) - [A rogue AI led to a serious security incident at Meta](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
