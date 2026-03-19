@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-19, 11:49:37](https://news.ycombinator.com/item?id=47437782) - [Denmark was reportedly preparing for full-scale war with the US over Greenland](https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f)
+* [2026-03-19, 11:34:24](https://news.ycombinator.com/item?id=47437655) - ['Your Frustration Is the Product'](https://daringfireball.net/2026/03/your_frustration_is_the_product)
 * [2026-03-19, 10:17:46](https://news.ycombinator.com/item?id=47437101) - [2% of ICML papers desk rejected because the authors used LLM in their reviews](https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/)
+* [2026-03-19, 09:51:56](https://news.ycombinator.com/item?id=47436950) - [Afroman found not liable in defamation case brought by Ohio cops who raided home](https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/)
 * [2026-03-19, 05:53:04](https://news.ycombinator.com/item?id=47435453) - [Eniac, the First General-Purpose Digital Computer, Turns 80](https://spectrum.ieee.org/eniac-80-ieee-milestone)
-* [2026-03-19, 05:00:56](https://news.ycombinator.com/item?id=47435156) - [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews)
 * [2026-03-19, 03:55:03](https://news.ycombinator.com/item?id=47434732) - [Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)
 * [2026-03-19, 03:31:01](https://news.ycombinator.com/item?id=47434567) - [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
 * [2026-03-19, 02:23:17](https://news.ycombinator.com/item?id=47434047) - [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
@@ -16,7 +18,6 @@
 * [2026-03-18, 15:50:44](https://news.ycombinator.com/item?id=47427299) - [Show HN: I built 48 lightweight SVG backgrounds you can copy/paste](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)
 * [2026-03-18, 15:31:07](https://news.ycombinator.com/item?id=47427027) - [Nvidia NemoClaw](https://github.com/NVIDIA/NemoClaw)
 * [2026-03-18, 10:49:19](https://news.ycombinator.com/item?id=47423976) - [OpenAI Has New Focus (on the IPO)](https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/)
-* [2026-03-18, 09:59:54](https://news.ycombinator.com/item?id=47423647) - [Rob Pike’s Rules of Programming (1989)](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 * [2026-03-18, 07:43:13](https://news.ycombinator.com/item?id=47422759) - [Wander – A tiny, decentralised tool to explore the small web](https://susam.net/wander/)
 * [2026-03-17, 14:48:01](https://news.ycombinator.com/item?id=47413475) - [Stdwin: Standard window interface by Guido Van Rossum [pdf]](https://ir.cwi.nl/pub/5998/5998D.pdf)
 * [2026-03-16, 16:51:32](https://news.ycombinator.com/item?id=47401489) - [The math that explains why bell curves are everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/)
@@ -27,7 +28,6 @@
 * [2026-03-15, 15:59:09](https://news.ycombinator.com/item?id=47388658) - [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
 * [2026-03-15, 12:20:14](https://news.ycombinator.com/item?id=47386703) - [OpenRocket](https://openrocket.info/)
 * [2026-03-15, 08:40:59](https://news.ycombinator.com/item?id=47385439) - [LotusNotes](https://computer.rip/2026-03-14-lotusnotes.html)
-* [2026-03-15, 08:00:08](https://news.ycombinator.com/item?id=47385247) - [The Serial Safety Net: Efficient Concurrency Control on Modern Hardware](http://muratbuffalo.blogspot.com/2026/03/the-serial-safety-net-efficient.html)
 * [2026-03-15, 00:56:43](https://news.ycombinator.com/item?id=47383103) - [Show HN: Pano, a bookmarking tool built around shareable shelves](https://www.panoit.com)
 * [2026-03-14, 20:15:03](https://news.ycombinator.com/item?id=47380714) - [Book: The Emerging Science of Machine Learning Benchmarks](https://mlbenchmarks.org/00-preface.html)
 
