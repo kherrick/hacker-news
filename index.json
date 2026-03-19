@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-19, 08:32:37",
+      "https://news.ycombinator.com/item?id=47436453"
+    ],
+    [
+      "Translate Garry Tan's LinkedIn-speak to plain English",
+      "https://github.com/garrytan/gstack/pull/213"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 05:53:04",
+      "https://news.ycombinator.com/item?id=47435453"
+    ],
+    [
+      "Eniac, the First General-Purpose Digital Computer, Turns 80",
+      "https://spectrum.ieee.org/eniac-80-ieee-milestone"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 05:00:56",
       "https://news.ycombinator.com/item?id=47435156"
     ],
@@ -91,12 +111,12 @@
   ],
   [
     [
-      "2026-03-18, 21:57:58",
-      "https://news.ycombinator.com/item?id=47431930"
+      "2026-03-18, 21:31:12",
+      "https://news.ycombinator.com/item?id=47431671"
     ],
     [
-      "What’s on HTTP?",
-      "https://whatsonhttp.com/"
+      "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+      "https://github.com/alainnothere/llm-circuit-finder"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Warranty Void If Regenerated",
       "https://nearzero.software/p/warranty-void-if-regenerated"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 19:01:54",
-      "https://news.ycombinator.com/item?id=47429988"
-    ],
-    [
-      "Show HN: Playing LongTurn FreeCiv with Friends",
-      "https://github.com/ndroo/freeciv.andrewmcgrath.info"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Nvidia NemoClaw",
       "https://github.com/NVIDIA/NemoClaw"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 15:24:12",
-      "https://news.ycombinator.com/item?id=47426936"
-    ],
-    [
-      "Machine Payments Protocol (MPP)",
-      "https://stripe.com/blog/machine-payments-protocol"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "Czech Man's Stone in Barn's Foundations Is Rare Bronze Age Spearhead Mold",
       "https://www.smithsonianmag.com/smart-news/a-czech-man-used-this-stone-in-his-barns-foundations-it-turned-out-to-be-rare-bronze-age-spearhead-mold-180988339/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 09:51:18",
+      "https://news.ycombinator.com/item?id=47396973"
+    ],
+    [
+      "Why Cloudflare rule order matters?",
+      "https://www.brzozowski.io/web-applications/2025/03/11/why-cloudflare-rule-order-matters.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: Pano, a bookmarking tool built around shareable shelves",
       "https://www.panoit.com"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 22:14:26",
-      "https://news.ycombinator.com/item?id=47381834"
-    ],
-    [
-      "Framework doesn't matter",
-      "https://cemrehancavdar.com/2026/02/19/your-framework-may-not-matter/"
     ]
   ],
   [
