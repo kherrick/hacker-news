@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-03-19, 19:18:25",
+      "https://news.ycombinator.com/item?id=47444460"
+    ],
+    [
+      "From Oscilloscope to Wireshark: A UDP Story",
+      "https://www.mattkeeter.com/blog/2022-08-11-udp/"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 19:00:43",
+      "https://news.ycombinator.com/item?id=47444212"
+    ],
+    [
+      "Show HN: I built a P2P network where AI agents publish formally verified science",
+      "https://news.ycombinator.com/item?id=47444212"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 18:59:02",
       "https://news.ycombinator.com/item?id=47444195"
     ],
     [
       "A rogue AI led to a serious security incident at Meta",
       "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 18:51:25",
+      "https://news.ycombinator.com/item?id=47444072"
+    ],
+    [
+      "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
+      "https://qlabs.sh/10x"
     ]
   ],
   [
@@ -31,16 +61,6 @@
   ],
   [
     [
-      "2026-03-19, 17:27:33",
-      "https://news.ycombinator.com/item?id=47442838"
-    ],
-    [
-      "UK's Ofcom has today fined 4chan £450k for not having age checks in place",
-      "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/4chan-fined-450000-for-not-protecting-children-from-online-pornography"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 17:27:17",
       "https://news.ycombinator.com/item?id=47442834"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47442699"
     ],
     [
-      "How to Not Pay Your Taxes",
+      "How to defer US taxes",
       "https://taylor.town/succession-000"
     ]
   ],
@@ -65,8 +85,8 @@
       "https://news.ycombinator.com/item?id=47442690"
     ],
     [
-      "Android: Balancing Openness and Choice with Safety",
-      "https://android-developers.googleblog.com/2026/03/android-developer-verification.html"
+      "Google details new 24-hour process to sideload unverified Android apps",
+      "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
       "https://blog.skypilot.co/scaling-autoresearch/"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 16:41:39",
-      "https://news.ycombinator.com/item?id=47442215"
-    ],
-    [
-      "Love of corporate bullshit is correlated with bad judgment",
-      "https://pluralistic.net/2026/03/19/jargon-watch/"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=47438675"
     ],
     [
-      "Juggalo Makeup Blocks Facial Recognition Technology (2019)",
+      "Juggalo makeup blocks facial recognition technology (2019)",
       "https://consequence.net/2019/07/juggalo-makeup-facial-recognition/"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Conway's Game of Life, in real life",
       "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 23:55:42",
-      "https://news.ycombinator.com/item?id=47432893"
-    ],
-    [
-      "Monuses and Heaps",
-      "https://doisinkidney.com/posts/2026-03-03-monus-heaps.html"
     ]
   ],
   [
