@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-03-19, 15:42:46",
-      "https://news.ycombinator.com/item?id=47441351"
+      "2026-03-19, 16:47:02",
+      "https://news.ycombinator.com/item?id=47442297"
     ],
     [
-      "Oil and gas prices jump after Iran and Israel attack gasfields",
-      "https://www.theguardian.com/business/2026/mar/19/oil-prices-gas-prices-rise-iran-israel-donald-trump"
+      "A survey on LLMs for spreadsheet intelligence",
+      "https://orbilu.uni.lu/handle/10993/67962"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 16:01:30",
+      "https://news.ycombinator.com/item?id=47441629"
+    ],
+    [
+      "Launch HN: Canary (YC W26) – AI QA that understands your code",
+      "https://news.ycombinator.com/item?id=47441629"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 15:56:06",
+      "https://news.ycombinator.com/item?id=47441546"
+    ],
+    [
+      "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+      "https://github.com/KittenML/KittenTTS"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 15:52:12",
+      "https://news.ycombinator.com/item?id=47441499"
+    ],
+    [
+      "Prompt Injecting Contributing.md",
+      "https://glama.ai/blog/2026-03-19-open-source-has-a-bot-problem"
     ]
   ],
   [
@@ -91,12 +121,12 @@
   ],
   [
     [
-      "2026-03-19, 12:48:58",
-      "https://news.ycombinator.com/item?id=47438482"
+      "2026-03-19, 12:39:46",
+      "https://news.ycombinator.com/item?id=47438342"
     ],
     [
-      "The next fight over the use of facial recognition could be in the supermarkets",
-      "https://www.politico.com/newsletters/digital-future-daily/2026/03/16/the-facial-recognition-grocery-fight-00830499"
+      "Ramtrack.eu – RAM Price Intelligence",
+      "https://ramtrack.eu"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos",
       "https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 11:34:24",
-      "https://news.ycombinator.com/item?id=47437655"
-    ],
-    [
-      "'Your Frustration Is the Product'",
-      "https://daringfireball.net/2026/03/your_frustration_is_the_product"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-03-19, 00:40:32",
-      "https://news.ycombinator.com/item?id=47433265"
-    ],
-    [
-      "Autoresearch for SAT Solvers",
-      "https://github.com/iliazintchenko/agent-sat"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 00:15:39",
       "https://news.ycombinator.com/item?id=47433058"
     ],
@@ -197,26 +207,6 @@
     [
       "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
       "https://github.com/alainnothere/llm-circuit-finder"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 20:45:54",
-      "https://news.ycombinator.com/item?id=47431237"
-    ],
-    [
-      "Warranty Void If Regenerated",
-      "https://nearzero.software/p/warranty-void-if-regenerated"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 15:31:07",
-      "https://news.ycombinator.com/item?id=47427027"
-    ],
-    [
-      "Nvidia NemoClaw",
-      "https://github.com/NVIDIA/NemoClaw"
     ]
   ],
   [
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2026-03-16, 16:51:32",
-      "https://news.ycombinator.com/item?id=47401489"
+      "2026-03-16, 20:54:14",
+      "https://news.ycombinator.com/item?id=47404726"
     ],
     [
-      "The math that explains why bell curves are everywhere",
-      "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/"
+      "Show HN: Mavera – Predict audience response with GANs, not LLM sentiment",
+      "https://docs.mavera.io/introduction"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Gluon: Explicit Performance",
       "https://www.lei.chat/posts/gluon-explicit-performance/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 11:58:49",
+      "https://news.ycombinator.com/item?id=47397809"
+    ],
+    [
+      "What if Python was natively distributable?",
+      "https://medium.com/@bzurak/what-if-python-was-natively-distributable-3bfae485a408"
     ]
   ],
   [
