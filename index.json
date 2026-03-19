@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-03-19, 17:48:20",
-      "https://news.ycombinator.com/item?id=47443175"
+      "2026-03-19, 18:59:02",
+      "https://news.ycombinator.com/item?id=47444195"
     ],
     [
-      "US has \"lost control of its own foreign policy\", Oman says",
-      "https://www.theguardian.com/world/2026/mar/19/us-lost-control-of-its-own-foreign-policy-oman-foreign-minister"
+      "A rogue AI led to a serious security incident at Meta",
+      "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 18:17:15",
+      "https://news.ycombinator.com/item?id=47443588"
+    ],
+    [
+      "Noq: n0's new QUIC implementation in Rust",
+      "https://www.iroh.computer/blog/noq-announcement"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 17:52:11",
+      "https://news.ycombinator.com/item?id=47443239"
+    ],
+    [
+      "Connecticut and the 1 Kilometer Effect",
+      "https://alearningaday.blog/2026/03/19/connecticut-and-the-1-kilometer-effect/"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 17:27:33",
+      "https://news.ycombinator.com/item?id=47442838"
+    ],
+    [
+      "UK's Ofcom has today fined 4chan £450k for not having age checks in place",
+      "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/4chan-fined-450000-for-not-protecting-children-from-online-pornography"
     ]
   ],
   [
@@ -21,22 +51,22 @@
   ],
   [
     [
-      "2026-03-19, 17:22:05",
-      "https://news.ycombinator.com/item?id=47442774"
-    ],
-    [
-      "Gauntlet AI (YC S17): Fly you to Austin, train you in AI, give you $200k+ job",
-      "https://gauntletai.com/apply?utm_src=hackernews"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 17:16:36",
       "https://news.ycombinator.com/item?id=47442699"
     ],
     [
       "How to Not Pay Your Taxes",
       "https://taylor.town/succession-000"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 17:16:04",
+      "https://news.ycombinator.com/item?id=47442690"
+    ],
+    [
+      "Android: Balancing Openness and Choice with Safety",
+      "https://android-developers.googleblog.com/2026/03/android-developer-verification.html"
     ]
   ],
   [
@@ -91,6 +121,16 @@
   ],
   [
     [
+      "2026-03-19, 15:59:04",
+      "https://news.ycombinator.com/item?id=47441587"
+    ],
+    [
+      "Show HN: Dumped Wix for an AI Edge agent so I never have to hire junior staff",
+      "https://news.ycombinator.com/item?id=47441587"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 15:56:06",
       "https://news.ycombinator.com/item?id=47441546"
     ],
@@ -125,7 +165,7 @@
       "https://news.ycombinator.com/item?id=47440430"
     ],
     [
-      "US messageboard 4Chan mocks £520k fine for UK online safety breaches",
+      "4Chan mocks £520k fine for UK online safety breaches",
       "https://www.bbc.com/news/articles/c624330lg1ko"
     ]
   ],
@@ -201,16 +241,6 @@
   ],
   [
     [
-      "2026-03-19, 12:49:21",
-      "https://news.ycombinator.com/item?id=47438490"
-    ],
-    [
-      "How many branches can your CPU predict?",
-      "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 12:39:46",
       "https://news.ycombinator.com/item?id=47438342"
     ],
@@ -227,16 +257,6 @@
     [
       "Afroman found not liable in defamation case",
       "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 05:53:04",
-      "https://news.ycombinator.com/item?id=47435453"
-    ],
-    [
-      "Eniac, the First General-Purpose Digital Computer, Turns 80",
-      "https://spectrum.ieee.org/eniac-80-ieee-milestone"
     ]
   ],
   [
@@ -261,12 +281,12 @@
   ],
   [
     [
-      "2026-03-16, 15:20:01",
-      "https://news.ycombinator.com/item?id=47400192"
+      "2026-03-16, 22:56:13",
+      "https://news.ycombinator.com/item?id=47406160"
     ],
     [
-      "Gluon: Explicit Performance",
-      "https://www.lei.chat/posts/gluon-explicit-performance/"
+      "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
+      "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "What if Python was natively distributable?",
       "https://medium.com/@bzurak/what-if-python-was-natively-distributable-3bfae485a408"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 15:59:09",
-      "https://news.ycombinator.com/item?id=47388658"
-    ],
-    [
-      "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
-      "https://gitlab.com/IsolatedOctopi/nvidia_greenboost"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 15:23:26",
-      "https://news.ycombinator.com/item?id=47388293"
-    ],
-    [
-      "Pretraining Language Models via Neural Cellular Automata",
-      "https://hanseungwook.github.io/blog/nca-pre-pre-training/"
     ]
   ]
 ]
