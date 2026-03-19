@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-19, 22:59:18",
+      "https://news.ycombinator.com/item?id=47447600"
+    ],
+    [
+      "Bombarding gamblers with offers greatly increases betting and gambling harm",
+      "https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 22:33:08",
+      "https://news.ycombinator.com/item?id=47447317"
+    ],
+    [
+      "Minecraft Source Code Is Interesting",
+      "https://www.karanjanthe.me/posts/minecraft-source/"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 21:23:24",
       "https://news.ycombinator.com/item?id=47446373"
     ],
@@ -87,16 +107,6 @@
     [
       "Clockwise acquired by Salesforce and shutting down next week",
       "https://www.getclockwise.com"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 19:37:26",
-      "https://news.ycombinator.com/item?id=47444748"
-    ],
-    [
-      "Anthropic takes legal action against OpenCode",
-      "https://github.com/anomalyco/opencode/pull/18186"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-03-19, 13:42:14",
-      "https://news.ycombinator.com/item?id=47439300"
-    ],
-    [
-      "I turned Markdown into a protocol for generative UI",
-      "https://fabian-kuebler.com/posts/markdown-agentic-ui/"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 13:05:50",
       "https://news.ycombinator.com/item?id=47438723"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-03-19, 09:51:56",
-      "https://news.ycombinator.com/item?id=47436950"
-    ],
-    [
-      "Afroman found not liable in defamation case",
-      "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/"
-    ]
-  ],
-  [
-    [
       "2026-03-17, 19:19:44",
       "https://news.ycombinator.com/item?id=47416972"
     ],
@@ -297,6 +287,16 @@
     [
       "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
       "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 18:16:26",
+      "https://news.ycombinator.com/item?id=47402687"
+    ],
+    [
+      "My Random Forest Was Mostly Learning Time-to-Expiry Noise",
+      "https://illya.sh/threads/out-of-sample-permutation-feature-importance-for-random"
     ]
   ]
 ]
