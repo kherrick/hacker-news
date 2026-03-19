@@ -27,6 +27,7 @@
 * [2026-03-16, 15:10:30](https://news.ycombinator.com/item?id=47400060) - [US Job Market Visualizer – Andrej Karpathy](https://karpathy.ai/jobs/)
 * [2026-03-16, 14:21:07](https://news.ycombinator.com/item?id=47399437) - [Event Publisher enables event integration between Keycloak and OpenFGA](https://github.com/embesozzi/keycloak-openfga-event-publisher)
 * [2026-03-16, 14:12:45](https://news.ycombinator.com/item?id=47399330) - [Using calculus to do number theory](https://hidden-phenomena.com/articles/hensels)
+* [2026-03-16, 13:51:59](https://news.ycombinator.com/item?id=47399049) - [David Altrath Photography Diary](https://davidaltrath.com/diary/)
 * [2026-03-16, 13:45:29](https://news.ycombinator.com/item?id=47398971) - [FreeBSD risks losing relevance by ignoring AI tooling like Claude Code](https://discoverbsd.com/p/8a7660c31b)
 * [2026-03-16, 13:41:39](https://news.ycombinator.com/item?id=47398926) - [Skillfile, the declarative skill manager, now with search for 110K+ skills](https://github.com/eljulians/skillfile)
 * [2026-03-16, 13:22:03](https://news.ycombinator.com/item?id=47398681) - [AirPods Max 2](https://www.apple.com/airpods-max/)
