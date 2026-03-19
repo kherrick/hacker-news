@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-19, 10:17:46](https://news.ycombinator.com/item?id=47437101) - [2% of ICML papers desk rejected because the authors used LLM in their reviews](https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/)
 * [2026-03-19, 05:53:04](https://news.ycombinator.com/item?id=47435453) - [Eniac, the First General-Purpose Digital Computer, Turns 80](https://spectrum.ieee.org/eniac-80-ieee-milestone)
 * [2026-03-19, 05:00:56](https://news.ycombinator.com/item?id=47435156) - [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews)
 * [2026-03-19, 03:55:03](https://news.ycombinator.com/item?id=47434732) - [Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)
@@ -9,7 +10,6 @@
 * [2026-03-19, 00:40:32](https://news.ycombinator.com/item?id=47433265) - [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat)
 * [2026-03-19, 00:15:39](https://news.ycombinator.com/item?id=47433058) - [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
 * [2026-03-18, 23:58:05](https://news.ycombinator.com/item?id=47432915) - [RX – a new random-access JSON alternative](https://github.com/creationix/rx)
-* [2026-03-18, 21:57:58](https://news.ycombinator.com/item?id=47431930) - [What’s on HTTP?](https://whatsonhttp.com/)
 * [2026-03-18, 21:31:12](https://news.ycombinator.com/item?id=47431671) - [Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training](https://github.com/alainnothere/llm-circuit-finder)
 * [2026-03-18, 20:45:54](https://news.ycombinator.com/item?id=47431237) - [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
 * [2026-03-18, 17:29:21](https://news.ycombinator.com/item?id=47428650) - [Show HN: Will my flight have Starlink?](https://news.ycombinator.com/item?id=47428650)
@@ -25,9 +25,9 @@
 * [2026-03-16, 09:51:18](https://news.ycombinator.com/item?id=47396973) - [Why Cloudflare rule order matters?](https://www.brzozowski.io/web-applications/2025/03/11/why-cloudflare-rule-order-matters.html)
 * [2026-03-16, 08:51:10](https://news.ycombinator.com/item?id=47396496) - [Show HN: Browser grand strategy game for hundreds of players on huge maps](https://borderhold.io/play)
 * [2026-03-15, 15:59:09](https://news.ycombinator.com/item?id=47388658) - [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
-* [2026-03-15, 13:57:24](https://news.ycombinator.com/item?id=47387431) - [An x86-64 back end for raven-uxn](https://www.mattkeeter.com/blog/2026-03-15-uxn/)
 * [2026-03-15, 12:20:14](https://news.ycombinator.com/item?id=47386703) - [OpenRocket](https://openrocket.info/)
 * [2026-03-15, 08:40:59](https://news.ycombinator.com/item?id=47385439) - [LotusNotes](https://computer.rip/2026-03-14-lotusnotes.html)
+* [2026-03-15, 08:00:08](https://news.ycombinator.com/item?id=47385247) - [The Serial Safety Net: Efficient Concurrency Control on Modern Hardware](http://muratbuffalo.blogspot.com/2026/03/the-serial-safety-net-efficient.html)
 * [2026-03-15, 00:56:43](https://news.ycombinator.com/item?id=47383103) - [Show HN: Pano, a bookmarking tool built around shareable shelves](https://www.panoit.com)
 * [2026-03-14, 20:15:03](https://news.ycombinator.com/item?id=47380714) - [Book: The Emerging Science of Machine Learning Benchmarks](https://mlbenchmarks.org/00-preface.html)
 

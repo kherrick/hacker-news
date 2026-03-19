@@ -65,6 +65,7 @@
 * [2026-03-15, 08:40:59](https://news.ycombinator.com/item?id=47385439) - [LotusNotes](https://computer.rip/2026-03-14-lotusnotes.html)
 * [2026-03-15, 08:04:55](https://news.ycombinator.com/item?id=47385272) - [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 * [2026-03-15, 08:03:44](https://news.ycombinator.com/item?id=47385260) - [Samsung Galaxy S26 Ultra Review: The Privacy Screen](https://www.wired.com/review/samsung-galaxy-s26-ultra/)
+* [2026-03-15, 08:00:08](https://news.ycombinator.com/item?id=47385247) - [The Serial Safety Net: Efficient Concurrency Control on Modern Hardware](http://muratbuffalo.blogspot.com/2026/03/the-serial-safety-net-efficient.html)
 * [2026-03-15, 07:11:32](https://news.ycombinator.com/item?id=47385011) - [SpiceCrypt: A Python library for decrypting LTspice encrypted model files](https://github.com/jtsylve/spice-crypt)
 * [2026-03-15, 06:00:34](https://news.ycombinator.com/item?id=47384715) - [Aggregated File System (AGFS), a modern tribute to the spirit of Plan 9](https://github.com/c4pt0r/agfs)
 * [2026-03-15, 05:46:35](https://news.ycombinator.com/item?id=47384653) - [Leviathan](https://www.gutenberg.org/files/3207/3207-h/3207-h.htm)
