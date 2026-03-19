@@ -28,6 +28,7 @@
 * [2026-03-17, 15:26:32](https://news.ycombinator.com/item?id=47414032) - [Unsloth Studio](https://unsloth.ai/docs/new/studio)
 * [2026-03-17, 15:16:29](https://news.ycombinator.com/item?id=47413876) - [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level)
 * [2026-03-17, 14:51:57](https://news.ycombinator.com/item?id=47413525) - [FFmpeg 8.1](https://ffmpeg.org/index.html#pr8.1)
+* [2026-03-17, 14:48:01](https://news.ycombinator.com/item?id=47413475) - [Stdwin: Standard window interface by Guido Van Rossum [pdf]](https://ir.cwi.nl/pub/5998/5998D.pdf)
 * [2026-03-17, 14:28:37](https://news.ycombinator.com/item?id=47413195) - [Why Node.js needs a virtual file system](https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system)
 * [2026-03-17, 13:54:17](https://news.ycombinator.com/item?id=47412726) - [OpenSUSE Kalpa](https://kalpadesktop.org/)
 * [2026-03-17, 13:43:44](https://news.ycombinator.com/item?id=47412569) - [Show HN: Sub-millisecond VM sandboxes using CoW memory forking](https://github.com/adammiribyan/zeroboot)
