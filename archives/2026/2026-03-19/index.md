@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-19](index.md)
 
+* [2026-03-19, 16:47:02](https://news.ycombinator.com/item?id=47442297) - [A survey on LLMs for spreadsheet intelligence](https://orbilu.uni.lu/handle/10993/67962)
+* [2026-03-19, 16:01:30](https://news.ycombinator.com/item?id=47441629) - [Launch HN: Canary (YC W26) – AI QA that understands your code](https://news.ycombinator.com/item?id=47441629)
+* [2026-03-19, 15:56:06](https://news.ycombinator.com/item?id=47441546) - [Show HN: Three new Kitten TTS models – smallest less than 25MB](https://github.com/KittenML/KittenTTS)
+* [2026-03-19, 15:52:12](https://news.ycombinator.com/item?id=47441499) - [Prompt Injecting Contributing.md](https://glama.ai/blog/2026-03-19-open-source-has-a-bot-problem)
 * [2026-03-19, 15:42:46](https://news.ycombinator.com/item?id=47441351) - [Oil and gas prices jump after Iran and Israel attack gasfields](https://www.theguardian.com/business/2026/mar/19/oil-prices-gas-prices-rise-iran-israel-donald-trump)
 * [2026-03-19, 15:06:58](https://news.ycombinator.com/item?id=47440759) - [macOS 26 breaks custom DNS settings including .internal](https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a)
 * [2026-03-19, 14:38:51](https://news.ycombinator.com/item?id=47440309) - [Hyper-optimized reverse geocoding API](https://github.com/traccar/traccar-geocoder)
@@ -16,6 +20,7 @@
 * [2026-03-19, 12:49:21](https://news.ycombinator.com/item?id=47438490) - [How many branches can your CPU predict?](https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/)
 * [2026-03-19, 12:48:58](https://news.ycombinator.com/item?id=47438482) - [The next fight over the use of facial recognition could be in the supermarkets](https://www.politico.com/newsletters/digital-future-daily/2026/03/16/the-facial-recognition-grocery-fight-00830499)
 * [2026-03-19, 12:43:29](https://news.ycombinator.com/item?id=47438403) - [WFH is becoming a benefit again](https://news.ycombinator.com/item?id=47438403)
+* [2026-03-19, 12:39:46](https://news.ycombinator.com/item?id=47438342) - [Ramtrack.eu – RAM Price Intelligence](https://ramtrack.eu)
 * [2026-03-19, 12:26:13](https://news.ycombinator.com/item?id=47438182) - [The strait of Hormuz blockade will strangle US defense industry](https://www.theguardian.com/world/2026/mar/19/west-point-analysis-iran-war-costs)
 * [2026-03-19, 12:13:00](https://news.ycombinator.com/item?id=47438001) - [Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos](https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html)
 * [2026-03-19, 11:49:37](https://news.ycombinator.com/item?id=47437782) - [Denmark was reportedly preparing for full-scale war with the US over Greenland](https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f)
