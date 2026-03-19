@@ -62,6 +62,7 @@
 * [2026-03-15, 10:15:47](https://news.ycombinator.com/item?id=47385935) - [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
 * [2026-03-15, 09:07:52](https://news.ycombinator.com/item?id=47385579) - [Six ingenious ways how Canon DSLRs used to illuminate their autofocus points](https://exclusivearchitecture.com/03-technical-articles-CSDS-00-table-of-contents.html)
 * [2026-03-15, 09:06:35](https://news.ycombinator.com/item?id=47385576) - [The enshittification of Amazon paperback books](https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/)
+* [2026-03-15, 08:40:59](https://news.ycombinator.com/item?id=47385439) - [LotusNotes](https://computer.rip/2026-03-14-lotusnotes.html)
 * [2026-03-15, 08:04:55](https://news.ycombinator.com/item?id=47385272) - [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
 * [2026-03-15, 08:03:44](https://news.ycombinator.com/item?id=47385260) - [Samsung Galaxy S26 Ultra Review: The Privacy Screen](https://www.wired.com/review/samsung-galaxy-s26-ultra/)
 * [2026-03-15, 07:11:32](https://news.ycombinator.com/item?id=47385011) - [SpiceCrypt: A Python library for decrypting LTspice encrypted model files](https://github.com/jtsylve/spice-crypt)

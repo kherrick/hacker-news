@@ -49,6 +49,7 @@
 * [2026-03-16, 10:52:33](https://news.ycombinator.com/item?id=47397367) - [Toward automated verification of unreviewed AI-generated code](https://peterlavigne.com/writing/verifying-ai-generated-code)
 * [2026-03-16, 10:41:01](https://news.ycombinator.com/item?id=47397291) - [Linux 7.1 to Retire UDP-Lite – Allows for Better Performance with Cleansed Code](https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite)
 * [2026-03-16, 10:24:02](https://news.ycombinator.com/item?id=47397190) - [Ask HN: What is it like being in a CS major program these days?](https://news.ycombinator.com/item?id=47397190)
+* [2026-03-16, 08:51:10](https://news.ycombinator.com/item?id=47396496) - [Show HN: Browser grand strategy game for hundreds of players on huge maps](https://borderhold.io/play)
 * [2026-03-16, 08:07:29](https://news.ycombinator.com/item?id=47396264) - [Starlink Mini as a Failover](https://www.jackpearce.co.uk/posts/starlink-failover/)
 * [2026-03-16, 06:41:59](https://news.ycombinator.com/item?id=47395786) - [I reverse-engineered the TiinyAI Pocket Lab from marketing photos](https://bay41.com/posts/tiiny-ai-pocket-lab-review/)
 * [2026-03-16, 04:09:50](https://news.ycombinator.com/item?id=47395147) - [ASCII and Unicode quotation marks (2007)](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html)
