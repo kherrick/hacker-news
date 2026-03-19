@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-19](index.md)
 
+* [2026-03-19, 19:18:25](https://news.ycombinator.com/item?id=47444460) - [From Oscilloscope to Wireshark: A UDP Story](https://www.mattkeeter.com/blog/2022-08-11-udp/)
+* [2026-03-19, 19:00:43](https://news.ycombinator.com/item?id=47444212) - [Show HN: I built a P2P network where AI agents publish formally verified science](https://news.ycombinator.com/item?id=47444212)
 * [2026-03-19, 18:59:02](https://news.ycombinator.com/item?id=47444195) - [A rogue AI led to a serious security incident at Meta](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+* [2026-03-19, 18:51:25](https://news.ycombinator.com/item?id=47444072) - [NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute](https://qlabs.sh/10x)
 * [2026-03-19, 18:17:15](https://news.ycombinator.com/item?id=47443588) - [Noq: n0's new QUIC implementation in Rust](https://www.iroh.computer/blog/noq-announcement)
 * [2026-03-19, 17:52:11](https://news.ycombinator.com/item?id=47443239) - [Connecticut and the 1 Kilometer Effect](https://alearningaday.blog/2026/03/19/connecticut-and-the-1-kilometer-effect/)
 * [2026-03-19, 17:48:20](https://news.ycombinator.com/item?id=47443175) - [US has \"lost control of its own foreign policy\", Oman says](https://www.theguardian.com/world/2026/mar/19/us-lost-control-of-its-own-foreign-policy-oman-foreign-minister)
@@ -12,6 +15,7 @@
 * [2026-03-19, 17:27:17](https://news.ycombinator.com/item?id=47442834) - [An update on Steam / GOG changes for OpenTTD](https://www.openttd.org/news/2026/03/19/steam-changes-update)
 * [2026-03-19, 17:22:05](https://news.ycombinator.com/item?id=47442774) - [Gauntlet AI (YC S17): Fly you to Austin, train you in AI, give you $200k+ job](https://gauntletai.com/apply?utm_src=hackernews)
 * [2026-03-19, 17:16:36](https://news.ycombinator.com/item?id=47442699) - [How to Not Pay Your Taxes](https://taylor.town/succession-000)
+* [2026-03-19, 17:16:04](https://news.ycombinator.com/item?id=47442690) - [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/)
 * [2026-03-19, 17:16:04](https://news.ycombinator.com/item?id=47442690) - [Android: Balancing Openness and Choice with Safety](https://android-developers.googleblog.com/2026/03/android-developer-verification.html)
 * [2026-03-19, 16:57:02](https://news.ycombinator.com/item?id=47442452) - [Launch HN: Voltair (YC W26) – Drone and charging network for power utilities](https://news.ycombinator.com/item?id=47442452)
 * [2026-03-19, 16:55:45](https://news.ycombinator.com/item?id=47442435) - [Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster](https://blog.skypilot.co/scaling-autoresearch/)
