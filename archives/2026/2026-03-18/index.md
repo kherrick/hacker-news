@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
 * [2026-03-18, 23:58:05](https://news.ycombinator.com/item?id=47432915) - [RX – a new random-access JSON alternative](https://github.com/creationix/rx)
+* [2026-03-18, 23:55:42](https://news.ycombinator.com/item?id=47432893) - [Monuses and Heaps](https://doisinkidney.com/posts/2026-03-03-monus-heaps.html)
 * [2026-03-18, 23:08:14](https://news.ycombinator.com/item?id=47432522) - [Website to post Claude fuck ups](https://claudedidwhat.wtf)
 * [2026-03-18, 21:57:58](https://news.ycombinator.com/item?id=47431930) - [What's on HTTP?](https://whatsonhttp.com/)
 * [2026-03-18, 21:31:12](https://news.ycombinator.com/item?id=47431671) - [Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training](https://github.com/alainnothere/llm-circuit-finder)
