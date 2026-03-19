@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-19, 21:23:24",
+      "https://news.ycombinator.com/item?id=47446373"
+    ],
+    [
+      "Be intentional about how AI changes your codebase",
+      "https://aicode.swerdlow.dev"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 21:13:40",
+      "https://news.ycombinator.com/item?id=47446211"
+    ],
+    [
+      "The Need for an Independent AI Grid",
+      "https://amppublic.com/"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 21:01:03",
+      "https://news.ycombinator.com/item?id=47446021"
+    ],
+    [
+      "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
+      "https://esolang-bench.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 20:33:02",
       "https://news.ycombinator.com/item?id=47445599"
     ],
@@ -15,8 +45,8 @@
       "https://news.ycombinator.com/item?id=47445246"
     ],
     [
-      "Waymo 13x safer than human drivers",
-      "https://twitter.com/Waymo/status/2034646084073480224"
+      "Waymo Safety Impact",
+      "https://waymo.com/safety/impact/"
     ]
   ],
   [
@@ -51,32 +81,12 @@
   ],
   [
     [
-      "2026-03-19, 19:35:37",
-      "https://news.ycombinator.com/item?id=47444714"
-    ],
-    [
-      "No AI in Node.js Core",
-      "https://github.com/indutny/no-ai-in-nodejs-core"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 19:18:25",
       "https://news.ycombinator.com/item?id=47444460"
     ],
     [
-      "From Oscilloscope to Wireshark: A UDP Story",
+      "From Oscilloscope to Wireshark: A UDP Story (2022)",
       "https://www.mattkeeter.com/blog/2022-08-11-udp/"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 18:59:02",
-      "https://news.ycombinator.com/item?id=47444195"
-    ],
-    [
-      "A rogue AI led to a serious security incident at Meta",
-      "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident"
     ]
   ],
   [
@@ -151,42 +161,12 @@
   ],
   [
     [
-      "2026-03-19, 16:12:48",
-      "https://news.ycombinator.com/item?id=47441784"
-    ],
-    [
-      "World Happiness Report 2026",
-      "https://www.worldhappiness.report/ed/2026/"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 16:01:30",
-      "https://news.ycombinator.com/item?id=47441629"
-    ],
-    [
-      "Launch HN: Canary (YC W26) – AI QA that understands your code",
-      "https://news.ycombinator.com/item?id=47441629"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 15:56:06",
       "https://news.ycombinator.com/item?id=47441546"
     ],
     [
       "Show HN: Three new Kitten TTS models – smallest less than 25MB",
       "https://github.com/KittenML/KittenTTS"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 15:52:12",
-      "https://news.ycombinator.com/item?id=47441499"
-    ],
-    [
-      "Prompt Injecting Contributing.md",
-      "https://glama.ai/blog/2026-03-19-open-source-has-a-bot-problem"
     ]
   ],
   [
@@ -277,6 +257,26 @@
     [
       "Afroman found not liable in defamation case",
       "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 19:19:44",
+      "https://news.ycombinator.com/item?id=47416972"
+    ],
+    [
+      "How the Turner twins are mythbusting modern technical apparel",
+      "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 04:16:40",
+      "https://news.ycombinator.com/item?id=47408546"
+    ],
+    [
+      "The Power of Playtesting in the Classroom",
+      "https://landenlove.com/the-power-of-playtesting-in-the-classroom/"
     ]
   ],
   [
