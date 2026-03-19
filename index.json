@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-03-19, 00:40:32",
+      "https://news.ycombinator.com/item?id=47433265"
+    ],
+    [
+      "Autoresearch for SAT Solvers",
+      "https://github.com/iliazintchenko/agent-sat"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 00:15:39",
+      "https://news.ycombinator.com/item?id=47433058"
+    ],
+    [
+      "Austin’s surge of new housing construction drove down rents",
+      "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 23:58:05",
+      "https://news.ycombinator.com/item?id=47432915"
+    ],
+    [
+      "RX – a new random-access JSON alternative",
+      "https://github.com/creationix/rx"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 21:57:58",
       "https://news.ycombinator.com/item?id=47431930"
     ],
     [
-      "What's on HTTP?",
+      "What’s on HTTP?",
       "https://whatsonhttp.com/"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 21:31:12",
+      "https://news.ycombinator.com/item?id=47431671"
+    ],
+    [
+      "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+      "https://github.com/alainnothere/llm-circuit-finder"
     ]
   ],
   [
@@ -17,16 +57,6 @@
     [
       "Warranty Void If Regenerated",
       "https://nearzero.software/p/warranty-void-if-regenerated"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 20:09:52",
-      "https://news.ycombinator.com/item?id=47430797"
-    ],
-    [
-      "FBI is buying location data to track US citizens, director confirms",
-      "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-03-18, 15:30:07",
-      "https://news.ycombinator.com/item?id=47427017"
-    ],
-    [
-      "Snowflake AI Escapes Sandbox and Executes Malware",
-      "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware"
-    ]
-  ],
-  [
-    [
       "2026-03-18, 15:24:12",
       "https://news.ycombinator.com/item?id=47426936"
     ],
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2026-03-18, 15:23:58",
-      "https://news.ycombinator.com/item?id=47426932"
-    ],
-    [
-      "Death to Scroll Fade",
-      "https://dbushell.com/2026/01/09/death-to-scroll-fade/"
-    ]
-  ],
-  [
-    [
       "2026-03-18, 14:14:02",
       "https://news.ycombinator.com/item?id=47426057"
     ],
     [
       "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
       "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 14:00:43",
-      "https://news.ycombinator.com/item?id=47425918"
-    ],
-    [
-      "A ngrok-style secure tunnel server written in Rust and Open Source",
-      "https://github.com/joaoh82/rustunnel"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-03-18, 06:31:14",
-      "https://news.ycombinator.com/item?id=47422228"
-    ],
-    [
-      "Celebrating Tony Hoare's mark on computer science",
-      "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/"
-    ]
-  ],
-  [
-    [
       "2026-03-16, 16:51:32",
       "https://news.ycombinator.com/item?id=47401489"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2026-03-16, 14:12:45",
-      "https://news.ycombinator.com/item?id=47399330"
+      "2026-03-16, 12:06:32",
+      "https://news.ycombinator.com/item?id=47397862"
     ],
     [
-      "Using calculus to do number theory",
-      "https://hidden-phenomena.com/articles/hensels"
+      "Czech Man's Stone in Barn's Foundations Is Rare Bronze Age Spearhead Mold",
+      "https://www.smithsonianmag.com/smart-news/a-czech-man-used-this-stone-in-his-barns-foundations-it-turned-out-to-be-rare-bronze-age-spearhead-mold-180988339/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
       "https://gitlab.com/IsolatedOctopi/nvidia_greenboost"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 13:57:24",
+      "https://news.ycombinator.com/item?id=47387431"
+    ],
+    [
+      "An x86-64 back end for raven-uxn",
+      "https://www.mattkeeter.com/blog/2026-03-15-uxn/"
     ]
   ],
   [
