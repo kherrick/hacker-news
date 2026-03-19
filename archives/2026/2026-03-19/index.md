@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-19](index.md)
 
+* [2026-03-19, 12:26:13](https://news.ycombinator.com/item?id=47438182) - [The strait of Hormuz blockade will strangle US defense industry](https://www.theguardian.com/world/2026/mar/19/west-point-analysis-iran-war-costs)
 * [2026-03-19, 11:49:37](https://news.ycombinator.com/item?id=47437782) - [Denmark was reportedly preparing for full-scale war with the US over Greenland](https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f)
 * [2026-03-19, 11:34:24](https://news.ycombinator.com/item?id=47437655) - ['Your Frustration Is the Product'](https://daringfireball.net/2026/03/your_frustration_is_the_product)
+* [2026-03-19, 11:15:27](https://news.ycombinator.com/item?id=47437516) - [Iran war energy shock sparks global push to reduce fossil fuel dependence](https://www.reuters.com/business/energy/iran-war-energy-shock-sparks-global-push-reduce-fossil-fuel-dependence-2026-03-18/)
 * [2026-03-19, 10:17:46](https://news.ycombinator.com/item?id=47437101) - [2% of ICML papers desk rejected because the authors used LLM in their reviews](https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/)
 * [2026-03-19, 09:51:56](https://news.ycombinator.com/item?id=47436950) - [Afroman found not liable in defamation case brought by Ohio cops who raided home](https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/)
 * [2026-03-19, 08:32:37](https://news.ycombinator.com/item?id=47436453) - [Translate Garry Tan's LinkedIn-speak to plain English](https://github.com/garrytan/gstack/pull/213)

@@ -35,6 +35,7 @@
 * [2026-03-15, 15:46:19](https://news.ycombinator.com/item?id=47388531) - [In Memoriam: John W. Addison, my PhD advisor](https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/)
 * [2026-03-15, 15:45:24](https://news.ycombinator.com/item?id=47388519) - [UMD Scientists Create 'Smart Underwear' to Measure Human Flatulence](https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence)
 * [2026-03-15, 15:40:13](https://news.ycombinator.com/item?id=47388479) - [Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300](https://firthemouse.github.io/)
+* [2026-03-15, 15:23:26](https://news.ycombinator.com/item?id=47388293) - [Pretraining Language Models via Neural Cellular Automata](https://hanseungwook.github.io/blog/nca-pre-pre-training/)
 * [2026-03-15, 15:21:04](https://news.ycombinator.com/item?id=47388273) - [Learning athletic humanoid tennis skills from imperfect human motion data](https://zzk273.github.io/LATENT/)
 * [2026-03-15, 15:09:41](https://news.ycombinator.com/item?id=47388141) - [What makes Intel Optane stand out (2023)](https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/)
 * [2026-03-15, 15:09:24](https://news.ycombinator.com/item?id=47388137) - [Separating the Wayland Compositor and Window Manager](https://isaacfreund.com/blog/river-window-management/)
