@@ -8,6 +8,7 @@
 * [2026-03-14, 23:10:24](https://news.ycombinator.com/item?id=47382277) - [Airbus is preparing two uncrewed combat aircraft](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
 * [2026-03-14, 23:00:05](https://news.ycombinator.com/item?id=47382196) - [The Sound of Contamination: Headphones Contain Ing Hormone-Disrupting Chemicals](https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals)
 * [2026-03-14, 22:41:28](https://news.ycombinator.com/item?id=47382072) - [Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net](https://github.com/groverburger/grobpaint)
+* [2026-03-14, 22:14:26](https://news.ycombinator.com/item?id=47381834) - [Framework doesn't matter](https://cemrehancavdar.com/2026/02/19/your-framework-may-not-matter/)
 * [2026-03-14, 22:10:26](https://news.ycombinator.com/item?id=47381791) - [Ageless Linux. We are legally required to ask how old you are. We won't](https://agelesslinux.org/)
 * [2026-03-14, 22:04:48](https://news.ycombinator.com/item?id=47381746) - [Changes to OpenTTD Distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
 * [2026-03-14, 22:03:47](https://news.ycombinator.com/item?id=47381736) - [Allow me to get to know you, mistakes and all](https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/)

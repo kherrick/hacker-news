@@ -17,7 +17,6 @@
 * [2026-03-18, 15:43:19](https://news.ycombinator.com/item?id=47427208) - [CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root](https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root)
 * [2026-03-18, 15:31:07](https://news.ycombinator.com/item?id=47427027) - [Nvidia NemoClaw](https://github.com/NVIDIA/NemoClaw)
 * [2026-03-18, 10:49:19](https://news.ycombinator.com/item?id=47423976) - [OpenAI Has New Focus (on the IPO)](https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/)
-* [2026-03-18, 10:10:01](https://news.ycombinator.com/item?id=47423694) - [2025 Turing award given for quantum information science](https://awards.acm.org/about/2025-turing)
 * [2026-03-18, 09:59:54](https://news.ycombinator.com/item?id=47423647) - [Rob Pike’s Rules of Programming (1989)](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 * [2026-03-18, 07:43:13](https://news.ycombinator.com/item?id=47422759) - [Wander – A tiny, decentralised tool to explore the small web](https://susam.net/wander/)
 * [2026-03-16, 16:51:32](https://news.ycombinator.com/item?id=47401489) - [The math that explains why bell curves are everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/)
@@ -28,6 +27,7 @@
 * [2026-03-15, 13:57:24](https://news.ycombinator.com/item?id=47387431) - [An x86-64 back end for raven-uxn](https://www.mattkeeter.com/blog/2026-03-15-uxn/)
 * [2026-03-15, 12:20:14](https://news.ycombinator.com/item?id=47386703) - [OpenRocket](https://openrocket.info/)
 * [2026-03-15, 08:40:59](https://news.ycombinator.com/item?id=47385439) - [LotusNotes](https://computer.rip/2026-03-14-lotusnotes.html)
+* [2026-03-14, 22:14:26](https://news.ycombinator.com/item?id=47381834) - [Framework doesn't matter](https://cemrehancavdar.com/2026/02/19/your-framework-may-not-matter/)
 * [2026-03-14, 20:15:03](https://news.ycombinator.com/item?id=47380714) - [Book: The Emerging Science of Machine Learning Benchmarks](https://mlbenchmarks.org/00-preface.html)
 * [2026-03-14, 00:50:20](https://news.ycombinator.com/item?id=47372072) - [On a Boat](https://moq.dev/blog/on-a-boat/)
 
