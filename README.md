@@ -2,8 +2,10 @@
 
 * [2026-03-19, 21:23:24](https://news.ycombinator.com/item?id=47446373) - [Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)
 * [2026-03-19, 21:13:40](https://news.ycombinator.com/item?id=47446211) - [The Need for an Independent AI Grid](https://amppublic.com/)
+* [2026-03-19, 21:12:44](https://news.ycombinator.com/item?id=47446192) - [Xiaomi launches next-gen SU7 with 902 km range and Lidar, still undercuts Tesla](https://electrek.co/2026/03/19/xiaomi-launches-next-gen-su7-902-km-range-undercuts-tesla/)
 * [2026-03-19, 21:01:03](https://news.ycombinator.com/item?id=47446021) - [EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages](https://esolang-bench.vercel.app/)
 * [2026-03-19, 20:33:02](https://news.ycombinator.com/item?id=47445599) - [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit)
+* [2026-03-19, 20:19:59](https://news.ycombinator.com/item?id=47445361) - [Android developer verification: Balancing openness and choice with safety](https://android-developers.googleblog.com/2026/03/android-developer-verification.html)
 * [2026-03-19, 20:13:35](https://news.ycombinator.com/item?id=47445246) - [Waymo Safety Impact](https://waymo.com/safety/impact/)
 * [2026-03-19, 20:09:02](https://news.ycombinator.com/item?id=47445175) - [Tesla: Failure of the FSD's degradation detection system [pdf]](https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf)
 * [2026-03-19, 19:50:51](https://news.ycombinator.com/item?id=47444906) - [Clockwise acquired by Salesforce and shutting down next week](https://www.getclockwise.com)
@@ -27,9 +29,7 @@
 * [2026-03-19, 11:34:24](https://news.ycombinator.com/item?id=47437655) - [“Your frustration is the product”](https://daringfireball.net/2026/03/your_frustration_is_the_product)
 * [2026-03-19, 09:51:56](https://news.ycombinator.com/item?id=47436950) - [Afroman found not liable in defamation case](https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/)
 * [2026-03-17, 19:19:44](https://news.ycombinator.com/item?id=47416972) - [How the Turner twins are mythbusting modern technical apparel](https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/)
-* [2026-03-17, 04:16:40](https://news.ycombinator.com/item?id=47408546) - [The Power of Playtesting in the Classroom](https://landenlove.com/the-power-of-playtesting-in-the-classroom/)
 * [2026-03-16, 22:56:13](https://news.ycombinator.com/item?id=47406160) - [Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
-* [2026-03-15, 21:44:51](https://news.ycombinator.com/item?id=47392285) - [Successes and Breakdowns in Everyday Non-Display Smart Glasses Use](https://arxiv.org/abs/2602.22340)
 
 ## [Archives](archives/index.md)
 

@@ -6,8 +6,10 @@
 
 * [2026-03-19, 21:23:24](https://news.ycombinator.com/item?id=47446373) - [Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)
 * [2026-03-19, 21:13:40](https://news.ycombinator.com/item?id=47446211) - [The Need for an Independent AI Grid](https://amppublic.com/)
+* [2026-03-19, 21:12:44](https://news.ycombinator.com/item?id=47446192) - [Xiaomi launches next-gen SU7 with 902 km range and Lidar, still undercuts Tesla](https://electrek.co/2026/03/19/xiaomi-launches-next-gen-su7-902-km-range-undercuts-tesla/)
 * [2026-03-19, 21:01:03](https://news.ycombinator.com/item?id=47446021) - [EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages](https://esolang-bench.vercel.app/)
 * [2026-03-19, 20:33:02](https://news.ycombinator.com/item?id=47445599) - [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit)
+* [2026-03-19, 20:19:59](https://news.ycombinator.com/item?id=47445361) - [Android developer verification: Balancing openness and choice with safety](https://android-developers.googleblog.com/2026/03/android-developer-verification.html)
 * [2026-03-19, 20:13:35](https://news.ycombinator.com/item?id=47445246) - [Waymo Safety Impact](https://waymo.com/safety/impact/)
 * [2026-03-19, 20:13:35](https://news.ycombinator.com/item?id=47445246) - [Waymo 13x safer than human drivers](https://twitter.com/Waymo/status/2034646084073480224)
 * [2026-03-19, 20:09:02](https://news.ycombinator.com/item?id=47445175) - [Tesla: Failure of the FSD's degradation detection system [pdf]](https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf)
