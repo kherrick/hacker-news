@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-19, 19:37:26",
+      "https://news.ycombinator.com/item?id=47444748"
+    ],
+    [
+      "Anthropic takes legal action against OpenCode",
+      "https://github.com/anomalyco/opencode/pull/18186"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 19:18:25",
       "https://news.ycombinator.com/item?id=47444460"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-03-19, 15:59:04",
-      "https://news.ycombinator.com/item?id=47441587"
-    ],
-    [
-      "Show HN: Dumped Wix for an AI Edge agent so I never have to hire junior staff",
-      "https://news.ycombinator.com/item?id=47441587"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 15:56:06",
       "https://news.ycombinator.com/item?id=47441546"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-03-19, 12:39:46",
-      "https://news.ycombinator.com/item?id=47438342"
+      "2026-03-19, 11:34:24",
+      "https://news.ycombinator.com/item?id=47437655"
     ],
     [
-      "Ramtrack.eu – RAM Price Intelligence",
-      "https://ramtrack.eu"
+      "“Your frustration is the product”",
+      "https://daringfireball.net/2026/03/your_frustration_is_the_product"
     ]
   ],
   [
@@ -267,16 +267,6 @@
     [
       "Afroman found not liable in defamation case",
       "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 03:55:03",
-      "https://news.ycombinator.com/item?id=47434732"
-    ],
-    [
-      "Conway's Game of Life, in real life",
-      "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "What if Python was natively distributable?",
       "https://medium.com/@bzurak/what-if-python-was-natively-distributable-3bfae485a408"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 21:44:51",
+      "https://news.ycombinator.com/item?id=47392285"
+    ],
+    [
+      "Successes and Breakdowns in Everyday Non-Display Smart Glasses Use",
+      "https://arxiv.org/abs/2602.22340"
     ]
   ]
 ]
