@@ -1,12 +1,82 @@
 [
   [
     [
-      "2026-03-19, 16:47:02",
-      "https://news.ycombinator.com/item?id=47442297"
+      "2026-03-19, 17:48:20",
+      "https://news.ycombinator.com/item?id=47443175"
     ],
     [
-      "A survey on LLMs for spreadsheet intelligence",
-      "https://orbilu.uni.lu/handle/10993/67962"
+      "US has \"lost control of its own foreign policy\", Oman says",
+      "https://www.theguardian.com/world/2026/mar/19/us-lost-control-of-its-own-foreign-policy-oman-foreign-minister"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 17:27:17",
+      "https://news.ycombinator.com/item?id=47442834"
+    ],
+    [
+      "An update on Steam / GOG changes for OpenTTD",
+      "https://www.openttd.org/news/2026/03/19/steam-changes-update"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 17:22:05",
+      "https://news.ycombinator.com/item?id=47442774"
+    ],
+    [
+      "Gauntlet AI (YC S17): Fly you to Austin, train you in AI, give you $200k+ job",
+      "https://gauntletai.com/apply?utm_src=hackernews"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 17:16:36",
+      "https://news.ycombinator.com/item?id=47442699"
+    ],
+    [
+      "How to Not Pay Your Taxes",
+      "https://taylor.town/succession-000"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 16:57:02",
+      "https://news.ycombinator.com/item?id=47442452"
+    ],
+    [
+      "Launch HN: Voltair (YC W26) – Drone and charging network for power utilities",
+      "https://news.ycombinator.com/item?id=47442452"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 16:55:45",
+      "https://news.ycombinator.com/item?id=47442435"
+    ],
+    [
+      "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
+      "https://blog.skypilot.co/scaling-autoresearch/"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 16:41:39",
+      "https://news.ycombinator.com/item?id=47442215"
+    ],
+    [
+      "Love of corporate bullshit is correlated with bad judgment",
+      "https://pluralistic.net/2026/03/19/jargon-watch/"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 16:12:48",
+      "https://news.ycombinator.com/item?id=47441784"
+    ],
+    [
+      "World Happiness Report 2026",
+      "https://www.worldhappiness.report/ed/2026/"
     ]
   ],
   [
@@ -51,6 +121,16 @@
   ],
   [
     [
+      "2026-03-19, 14:46:25",
+      "https://news.ycombinator.com/item?id=47440430"
+    ],
+    [
+      "US messageboard 4Chan mocks £520k fine for UK online safety breaches",
+      "https://www.bbc.com/news/articles/c624330lg1ko"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 14:38:51",
       "https://news.ycombinator.com/item?id=47440309"
     ],
@@ -87,6 +167,16 @@
     [
       "OpenBSD: PF queues break the 4 Gbps barrier",
       "https://undeadly.org/cgi?action=article;sid=20260319125859"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 13:42:14",
+      "https://news.ycombinator.com/item?id=47439300"
+    ],
+    [
+      "I turned Markdown into a protocol for generative UI",
+      "https://fabian-kuebler.com/posts/markdown-agentic-ui/"
     ]
   ],
   [
@@ -131,26 +221,6 @@
   ],
   [
     [
-      "2026-03-19, 12:13:00",
-      "https://news.ycombinator.com/item?id=47438001"
-    ],
-    [
-      "Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos",
-      "https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 10:17:46",
-      "https://news.ycombinator.com/item?id=47437101"
-    ],
-    [
-      "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 09:51:56",
       "https://news.ycombinator.com/item?id=47436950"
     ],
@@ -181,62 +251,12 @@
   ],
   [
     [
-      "2026-03-19, 02:23:17",
-      "https://news.ycombinator.com/item?id=47434047"
+      "2026-03-18, 23:55:42",
+      "https://news.ycombinator.com/item?id=47432893"
     ],
     [
-      "A sufficiently detailed spec is code",
-      "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 00:15:39",
-      "https://news.ycombinator.com/item?id=47433058"
-    ],
-    [
-      "Austin’s surge of new housing construction drove down rents",
-      "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 21:31:12",
-      "https://news.ycombinator.com/item?id=47431671"
-    ],
-    [
-      "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
-      "https://github.com/alainnothere/llm-circuit-finder"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 07:43:13",
-      "https://news.ycombinator.com/item?id=47422759"
-    ],
-    [
-      "Wander – A tiny, decentralised tool to explore the small web",
-      "https://susam.net/wander/"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 14:48:01",
-      "https://news.ycombinator.com/item?id=47413475"
-    ],
-    [
-      "Stdwin: Standard window interface by Guido Van Rossum [pdf]",
-      "https://ir.cwi.nl/pub/5998/5998D.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 20:54:14",
-      "https://news.ycombinator.com/item?id=47404726"
-    ],
-    [
-      "Show HN: Mavera – Predict audience response with GANs, not LLM sentiment",
-      "https://docs.mavera.io/introduction"
+      "Monuses and Heaps",
+      "https://doisinkidney.com/posts/2026-03-03-monus-heaps.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Pretraining Language Models via Neural Cellular Automata",
       "https://hanseungwook.github.io/blog/nca-pre-pre-training/"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 08:40:59",
-      "https://news.ycombinator.com/item?id=47385439"
-    ],
-    [
-      "LotusNotes",
-      "https://computer.rip/2026-03-14-lotusnotes.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 21:36:51",
-      "https://news.ycombinator.com/item?id=47381476"
-    ],
-    [
-      "A Preview of Coalton 0.2",
-      "https://coalton-lang.github.io/20260312-coalton0p2/"
     ]
   ]
 ]
