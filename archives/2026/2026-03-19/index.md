@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-19](index.md)
 
+* [2026-03-19, 20:33:02](https://news.ycombinator.com/item?id=47445599) - [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit)
+* [2026-03-19, 20:13:35](https://news.ycombinator.com/item?id=47445246) - [Waymo 13x safer than human drivers](https://twitter.com/Waymo/status/2034646084073480224)
+* [2026-03-19, 20:09:02](https://news.ycombinator.com/item?id=47445175) - [Tesla: Failure of the FSD's degradation detection system [pdf]](https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf)
+* [2026-03-19, 19:50:51](https://news.ycombinator.com/item?id=47444906) - [Clockwise acquired by Salesforce and shutting down next week](https://www.getclockwise.com)
 * [2026-03-19, 19:37:26](https://news.ycombinator.com/item?id=47444748) - [Anthropic takes legal action against OpenCode](https://github.com/anomalyco/opencode/pull/18186)
+* [2026-03-19, 19:35:37](https://news.ycombinator.com/item?id=47444714) - [No AI in Node.js Core](https://github.com/indutny/no-ai-in-nodejs-core)
 * [2026-03-19, 19:18:25](https://news.ycombinator.com/item?id=47444460) - [From Oscilloscope to Wireshark: A UDP Story](https://www.mattkeeter.com/blog/2022-08-11-udp/)
 * [2026-03-19, 19:00:43](https://news.ycombinator.com/item?id=47444212) - [Show HN: I built a P2P network where AI agents publish formally verified science](https://news.ycombinator.com/item?id=47444212)
 * [2026-03-19, 18:59:02](https://news.ycombinator.com/item?id=47444195) - [A rogue AI led to a serious security incident at Meta](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
