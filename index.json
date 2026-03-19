@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-19, 14:06:39",
+      "https://news.ycombinator.com/item?id=47439718"
+    ],
+    [
+      "Consensus Board Game",
+      "https://matklad.github.io/2026/03/19/consensus-board-game.html"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 13:43:26",
       "https://news.ycombinator.com/item?id=47439320"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=47438675"
     ],
     [
-      "Juggalo Makeup Blocks Facial Recognition Technology",
+      "Juggalo Makeup Blocks Facial Recognition Technology (2019)",
       "https://consequence.net/2019/07/juggalo-makeup-facial-recognition/"
     ]
   ],
@@ -57,6 +67,16 @@
     [
       "The next fight over the use of facial recognition could be in the supermarkets",
       "https://www.politico.com/newsletters/digital-future-daily/2026/03/16/the-facial-recognition-grocery-fight-00830499"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 12:43:29",
+      "https://news.ycombinator.com/item?id=47438403"
+    ],
+    [
+      "WFH is becoming a benefit again",
+      "https://news.ycombinator.com/item?id=47438403"
     ]
   ],
   [
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=47436950"
     ],
     [
-      "Afroman found not liable in defamation case brought by Ohio cops who raided home",
+      "Afroman found not liable in defamation case",
       "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/"
     ]
   ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-03-19, 02:20:34",
-      "https://news.ycombinator.com/item?id=47434024"
-    ],
-    [
-      "Cook: A simple CLI for orchestrating Claude Code",
-      "https://rjcorwin.github.io/cook/"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 00:40:32",
       "https://news.ycombinator.com/item?id=47433265"
     ],
@@ -167,16 +177,6 @@
     [
       "Austin’s surge of new housing construction drove down rents",
       "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 23:58:05",
-      "https://news.ycombinator.com/item?id=47432915"
-    ],
-    [
-      "RX – a new random-access JSON alternative",
-      "https://github.com/creationix/rx"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-03-16, 12:51:13",
-      "https://news.ycombinator.com/item?id=47398324"
+      "2026-03-16, 15:20:01",
+      "https://news.ycombinator.com/item?id=47400192"
     ],
     [
-      "Twelve-Tone Composition",
-      "https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/"
+      "Gluon: Explicit Performance",
+      "https://www.lei.chat/posts/gluon-explicit-performance/"
     ]
   ],
   [
