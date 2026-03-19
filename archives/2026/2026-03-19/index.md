@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-03-19](index.md)
 
+* [2026-03-19, 13:43:26](https://news.ycombinator.com/item?id=47439320) - [OpenBSD: PF queues break the 4 Gbps barrier](https://undeadly.org/cgi?action=article;sid=20260319125859)
+* [2026-03-19, 13:05:50](https://news.ycombinator.com/item?id=47438723) - [Astral to Join OpenAI](https://astral.sh/blog/openai)
+* [2026-03-19, 13:05:17](https://news.ycombinator.com/item?id=47438716) - [OpenAI to Acquire Astral](https://openai.com/index/openai-to-acquire-astral/)
+* [2026-03-19, 13:02:35](https://news.ycombinator.com/item?id=47438675) - [Juggalo Makeup Blocks Facial Recognition Technology](https://consequence.net/2019/07/juggalo-makeup-facial-recognition/)
+* [2026-03-19, 12:49:21](https://news.ycombinator.com/item?id=47438490) - [How many branches can your CPU predict?](https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/)
+* [2026-03-19, 12:48:58](https://news.ycombinator.com/item?id=47438482) - [The next fight over the use of facial recognition could be in the supermarkets](https://www.politico.com/newsletters/digital-future-daily/2026/03/16/the-facial-recognition-grocery-fight-00830499)
 * [2026-03-19, 12:26:13](https://news.ycombinator.com/item?id=47438182) - [The strait of Hormuz blockade will strangle US defense industry](https://www.theguardian.com/world/2026/mar/19/west-point-analysis-iran-war-costs)
+* [2026-03-19, 12:13:00](https://news.ycombinator.com/item?id=47438001) - [Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos](https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html)
 * [2026-03-19, 11:49:37](https://news.ycombinator.com/item?id=47437782) - [Denmark was reportedly preparing for full-scale war with the US over Greenland](https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f)
 * [2026-03-19, 11:34:24](https://news.ycombinator.com/item?id=47437655) - ['Your Frustration Is the Product'](https://daringfireball.net/2026/03/your_frustration_is_the_product)
 * [2026-03-19, 11:15:27](https://news.ycombinator.com/item?id=47437516) - [Iran war energy shock sparks global push to reduce fossil fuel dependence](https://www.reuters.com/business/energy/iran-war-energy-shock-sparks-global-push-reduce-fossil-fuel-dependence-2026-03-18/)
