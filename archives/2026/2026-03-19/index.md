@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-19](index.md)
 
+* [2026-03-19, 15:42:46](https://news.ycombinator.com/item?id=47441351) - [Oil and gas prices jump after Iran and Israel attack gasfields](https://www.theguardian.com/business/2026/mar/19/oil-prices-gas-prices-rise-iran-israel-donald-trump)
+* [2026-03-19, 15:06:58](https://news.ycombinator.com/item?id=47440759) - [macOS 26 breaks custom DNS settings including .internal](https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a)
+* [2026-03-19, 14:38:51](https://news.ycombinator.com/item?id=47440309) - [Hyper-optimized reverse geocoding API](https://github.com/traccar/traccar-geocoder)
+* [2026-03-19, 14:37:27](https://news.ycombinator.com/item?id=47440284) - [The Shape of Inequalities](https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/)
 * [2026-03-19, 14:06:39](https://news.ycombinator.com/item?id=47439718) - [Consensus Board Game](https://matklad.github.io/2026/03/19/consensus-board-game.html)
 * [2026-03-19, 13:43:26](https://news.ycombinator.com/item?id=47439320) - [OpenBSD: PF queues break the 4 Gbps barrier](https://undeadly.org/cgi?action=article;sid=20260319125859)
 * [2026-03-19, 13:05:50](https://news.ycombinator.com/item?id=47438723) - [Astral to Join OpenAI](https://astral.sh/blog/openai)

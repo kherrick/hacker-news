@@ -13,6 +13,7 @@
 * [2026-03-14, 22:04:48](https://news.ycombinator.com/item?id=47381746) - [Changes to OpenTTD Distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
 * [2026-03-14, 22:03:47](https://news.ycombinator.com/item?id=47381736) - [Allow me to get to know you, mistakes and all](https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/)
 * [2026-03-14, 22:02:48](https://news.ycombinator.com/item?id=47381731) - [Learning Creative Coding](https://stigmollerhansen.dk/resume/learning-creative-coding/)
+* [2026-03-14, 21:36:51](https://news.ycombinator.com/item?id=47381476) - [A Preview of Coalton 0.2](https://coalton-lang.github.io/20260312-coalton0p2/)
 * [2026-03-14, 21:27:33](https://news.ycombinator.com/item?id=47381382) - [Show HN: Han – A Korean programming language written in Rust](https://github.com/xodn348/han)
 * [2026-03-14, 21:23:42](https://news.ycombinator.com/item?id=47381340) - [Anthropic invests $100M into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network)
 * [2026-03-14, 21:23:35](https://news.ycombinator.com/item?id=47381336) - [Cursor billed us $450 for a seat that existed for seconds](https://cursor.com)
