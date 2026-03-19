@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-19, 06:47:52](https://news.ycombinator.com/item?id=47435782) - [Ask HN: What do you look for in your first 10 hires?](https://news.ycombinator.com/item?id=47435782)
 * [2026-03-19, 05:00:56](https://news.ycombinator.com/item?id=47435156) - [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews)
 * [2026-03-19, 03:55:03](https://news.ycombinator.com/item?id=47434732) - [Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)
 * [2026-03-19, 03:31:01](https://news.ycombinator.com/item?id=47434567) - [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
@@ -20,16 +21,15 @@
 * [2026-03-18, 09:59:54](https://news.ycombinator.com/item?id=47423647) - [Rob Pike’s Rules of Programming (1989)](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 * [2026-03-18, 07:43:13](https://news.ycombinator.com/item?id=47422759) - [Wander – A tiny, decentralised tool to explore the small web](https://susam.net/wander/)
 * [2026-03-16, 16:51:32](https://news.ycombinator.com/item?id=47401489) - [The math that explains why bell curves are everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/)
-* [2026-03-16, 13:51:59](https://news.ycombinator.com/item?id=47399049) - [David Altrath Photography Diary](https://davidaltrath.com/diary/)
 * [2026-03-16, 12:06:32](https://news.ycombinator.com/item?id=47397862) - [Czech Man's Stone in Barn's Foundations Is Rare Bronze Age Spearhead Mold](https://www.smithsonianmag.com/smart-news/a-czech-man-used-this-stone-in-his-barns-foundations-it-turned-out-to-be-rare-bronze-age-spearhead-mold-180988339/)
 * [2026-03-16, 08:51:10](https://news.ycombinator.com/item?id=47396496) - [Show HN: Browser grand strategy game for hundreds of players on huge maps](https://borderhold.io/play)
 * [2026-03-15, 15:59:09](https://news.ycombinator.com/item?id=47388658) - [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
 * [2026-03-15, 13:57:24](https://news.ycombinator.com/item?id=47387431) - [An x86-64 back end for raven-uxn](https://www.mattkeeter.com/blog/2026-03-15-uxn/)
 * [2026-03-15, 12:20:14](https://news.ycombinator.com/item?id=47386703) - [OpenRocket](https://openrocket.info/)
 * [2026-03-15, 08:40:59](https://news.ycombinator.com/item?id=47385439) - [LotusNotes](https://computer.rip/2026-03-14-lotusnotes.html)
+* [2026-03-15, 00:56:43](https://news.ycombinator.com/item?id=47383103) - [Show HN: Pano, a bookmarking tool built around shareable shelves](https://www.panoit.com)
 * [2026-03-14, 22:14:26](https://news.ycombinator.com/item?id=47381834) - [Framework doesn't matter](https://cemrehancavdar.com/2026/02/19/your-framework-may-not-matter/)
 * [2026-03-14, 20:15:03](https://news.ycombinator.com/item?id=47380714) - [Book: The Emerging Science of Machine Learning Benchmarks](https://mlbenchmarks.org/00-preface.html)
-* [2026-03-14, 00:50:20](https://news.ycombinator.com/item?id=47372072) - [On a Boat](https://moq.dev/blog/on-a-boat/)
 
 ## [Archives](archives/index.md)
 
