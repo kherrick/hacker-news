@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-20, 23:11:09](https://news.ycombinator.com/item?id=47462061) - [How the Iran war threatens global food supply](https://www.npr.org/2026/03/20/nx-s1-5750812/how-the-iran-war-threatens-global-food-supply)
 * [2026-03-20, 22:25:51](https://news.ycombinator.com/item?id=47461529) - [Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers](https://github.com/RedGridTactical/RedGridLink)
 * [2026-03-20, 22:11:37](https://news.ycombinator.com/item?id=47461378) - [Ghostling](https://github.com/ghostty-org/ghostling)
 * [2026-03-20, 22:06:51](https://news.ycombinator.com/item?id=47461321) - [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky)
@@ -9,7 +8,6 @@
 * [2026-03-20, 21:04:11](https://news.ycombinator.com/item?id=47460528) - [Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts](https://github.com/FormerLab/shadow-fleet-tracker-light)
 * [2026-03-20, 21:03:52](https://news.ycombinator.com/item?id=47460525) - [OpenCode – The open source AI coding agent](https://opencode.ai/)
 * [2026-03-20, 20:54:57](https://news.ycombinator.com/item?id=47460452) - [A Japanese Glossary of Chopsticks Faux Pas](https://www.nippon.com/en/japan-data/h01362/)
-* [2026-03-20, 20:47:45](https://news.ycombinator.com/item?id=47460379) - [Monkey C – Small familiar language for apps on Garmin watches](https://developer.garmin.com/connect-iq/monkey-c/)
 * [2026-03-20, 19:29:39](https://news.ycombinator.com/item?id=47459447) - [NumKong: 2'000 Mixed Precision Kernels for All](https://ashvardanian.com/posts/numkong/)
 * [2026-03-20, 19:16:13](https://news.ycombinator.com/item?id=47459296) - [Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)
 * [2026-03-20, 18:23:41](https://news.ycombinator.com/item?id=47458595) - [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)
@@ -28,8 +26,10 @@
 * [2026-03-17, 18:43:53](https://news.ycombinator.com/item?id=47416543) - [The Los Angeles Aqueduct Is Wild](https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild)
 * [2026-03-17, 15:45:17](https://news.ycombinator.com/item?id=47414292) - [I love my dumb watches](https://gary.onl/a-post-about-watches/)
 * [2026-03-17, 10:39:55](https://news.ycombinator.com/item?id=47410871) - [VisiCalc Reconstructed](https://zserge.com/posts/visicalc/)
+* [2026-03-17, 05:38:26](https://news.ycombinator.com/item?id=47409055) - [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://arxiv.org/abs/2603.09229)
 * [2026-03-17, 01:02:41](https://news.ycombinator.com/item?id=47407293) - [Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg](https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg)
 * [2026-03-17, 00:48:15](https://news.ycombinator.com/item?id=47407184) - [Show HN: An open-source safety net for home hemodialysis](https://safehemo.com/)
+* [2026-03-16, 19:49:20](https://news.ycombinator.com/item?id=47403905) - [FSF statement on copyright infringement lawsuit Bartz v. Anthropic](https://www.fsf.org/blogs/licensing/2026-anthropic-settlement)
 
 ## [Archives](archives/index.md)
 
