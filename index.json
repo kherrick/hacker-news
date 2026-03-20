@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-03-20, 17:05:38",
+      "https://news.ycombinator.com/item?id=47457472"
+    ],
+    [
+      "Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility",
+      "https://news.ycombinator.com/item?id=47457472"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 16:41:42",
+      "https://news.ycombinator.com/item?id=47457107"
+    ],
+    [
+      "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
+      "https://www.sharpai.org/benchmark/"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 16:34:04",
+      "https://news.ycombinator.com/item?id=47456987"
+    ],
+    [
+      "90% of crypto's Illinois primary spending failed to achieve its objective",
+      "https://www.mollywhite.net/micro/entry/202603172318"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 15:39:19",
       "https://news.ycombinator.com/item?id=47456153"
     ],
     [
-      "Oregon School Cell Phone Ban: 'Engaged Students, Joyful Teachers'",
+      "Oregon school cell phone ban: 'Engaged students, joyful teachers'",
       "https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 14:56:03",
+      "https://news.ycombinator.com/item?id=47455489"
+    ],
+    [
+      "Having Kids (2019)",
+      "https://paulgraham.com/kids.html"
     ]
   ],
   [
@@ -31,32 +71,12 @@
   ],
   [
     [
-      "2026-03-20, 14:04:39",
-      "https://news.ycombinator.com/item?id=47454694"
-    ],
-    [
-      "Germany Mandates ODF for Public Administration",
-      "https://linuxiac.com/germany-mandates-odf-for-public-administration/"
-    ]
-  ],
-  [
-    [
       "2026-03-20, 13:43:23",
       "https://news.ycombinator.com/item?id=47454384"
     ],
     [
       "Java is fast, code might not be",
       "https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 13:38:56",
-      "https://news.ycombinator.com/item?id=47454341"
-    ],
-    [
-      "I'm OK being left behind, thanks",
-      "https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/"
     ]
   ],
   [
@@ -77,6 +97,16 @@
     [
       "The Social Smolnet",
       "https://ploum.net/2026-03-20-social-smolnet.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 13:01:56",
+      "https://news.ycombinator.com/item?id=47453942"
+    ],
+    [
+      "France's aircraft carrier located in real time by Le Monde through fitness app",
+      "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html"
     ]
   ],
   [
@@ -161,22 +191,12 @@
   ],
   [
     [
-      "2026-03-19, 17:16:04",
-      "https://news.ycombinator.com/item?id=47442690"
+      "2026-03-19, 19:08:02",
+      "https://news.ycombinator.com/item?id=47444319"
     ],
     [
-      "Google details new 24-hour process to sideload unverified Android apps",
-      "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 15:56:06",
-      "https://news.ycombinator.com/item?id=47441546"
-    ],
-    [
-      "Show HN: Three new Kitten TTS models – smallest less than 25MB",
-      "https://github.com/KittenML/KittenTTS"
+      "Delve – Fake Compliance as a Service",
+      "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service"
     ]
   ],
   [
@@ -187,16 +207,6 @@
     [
       "Parallel Perl – autoparallelizing interpreter with JIT",
       "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 02:28:23",
-      "https://news.ycombinator.com/item?id=47420950"
-    ],
-    [
-      "Too Much Color",
-      "https://www.keithcirkel.co.uk/too-much-color/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg",
       "https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 22:56:13",
-      "https://news.ycombinator.com/item?id=47406160"
-    ],
-    [
-      "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
-      "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742"
     ]
   ],
   [
