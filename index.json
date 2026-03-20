@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-20, 04:31:01",
+      "https://news.ycombinator.com/item?id=47450514"
+    ],
+    [
+      "Kin: Semantic version control that tracks code as entities, not files",
+      "https://github.com/firelock-ai/kin"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 04:24:11",
       "https://news.ycombinator.com/item?id=47450478"
     ],
     [
       "ArXiv Declares Independence from Cornell",
       "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 02:12:41",
+      "https://news.ycombinator.com/item?id=47449576"
+    ],
+    [
+      "Physicists Trace Sun's Magnetic Engine, 200k Kilometers Below Surface",
+      "https://news.njit.edu/njit-physicists-trace-sun%E2%80%99s-magnetic-engine-200000-kilometers-below-surface"
     ]
   ],
   [
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2026-03-19, 21:01:03",
-      "https://news.ycombinator.com/item?id=47446021"
-    ],
-    [
-      "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
-      "https://esolang-bench.vercel.app/"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 20:33:02",
       "https://news.ycombinator.com/item?id=47445599"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-03-19, 17:27:17",
-      "https://news.ycombinator.com/item?id=47442834"
-    ],
-    [
-      "An update on Steam / GOG changes for OpenTTD",
-      "https://www.openttd.org/news/2026/03/19/steam-changes-update"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 17:16:04",
       "https://news.ycombinator.com/item?id=47442690"
     ],
@@ -207,16 +207,6 @@
     [
       "4Chan mocks £520k fine for UK online safety breaches",
       "https://www.bbc.com/news/articles/c624330lg1ko"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 14:37:27",
-      "https://news.ycombinator.com/item?id=47440284"
-    ],
-    [
-      "The Shape of Inequalities",
-      "https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
       "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 19:49:20",
+      "https://news.ycombinator.com/item?id=47403905"
+    ],
+    [
+      "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
+      "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement"
     ]
   ],
   [
