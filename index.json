@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-20, 17:37:33",
+      "https://news.ycombinator.com/item?id=47457929"
+    ],
+    [
+      "US to deploy additional troops to the Middle East, officials say",
+      "https://www.reuters.com/world/us-deploy-thousands-additional-troops-middle-east-officials-say-2026-03-20/"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 17:05:38",
       "https://news.ycombinator.com/item?id=47457472"
     ],
@@ -61,31 +71,11 @@
   ],
   [
     [
-      "2026-03-20, 14:09:58",
-      "https://news.ycombinator.com/item?id=47454782"
-    ],
-    [
-      "Chuck Norris has died",
-      "https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 13:43:23",
-      "https://news.ycombinator.com/item?id=47454384"
-    ],
-    [
-      "Java is fast, code might not be",
-      "https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/"
-    ]
-  ],
-  [
-    [
       "2026-03-20, 13:23:56",
       "https://news.ycombinator.com/item?id=47454164"
     ],
     [
-      "HP realizes that mandatory 15-minute support call wait times isn't good support",
+      "HP trialed mandatory 15-minute support call wait times (2025)",
       "https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/"
     ]
   ],
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2026-03-19, 19:08:02",
-      "https://news.ycombinator.com/item?id=47444319"
-    ],
-    [
-      "Delve – Fake Compliance as a Service",
-      "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service"
-    ]
-  ],
-  [
-    [
       "2026-03-18, 11:59:05",
       "https://news.ycombinator.com/item?id=47424592"
     ],
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2026-03-17, 15:01:39",
+      "https://news.ycombinator.com/item?id=47413661"
+    ],
+    [
+      "Randomization in Controlled Experiments",
+      "https://queue.acm.org/detail.cfm?id=3778029"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 10:39:55",
       "https://news.ycombinator.com/item?id=47410871"
     ],
@@ -277,6 +267,16 @@
     [
       "Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg",
       "https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 19:49:20",
+      "https://news.ycombinator.com/item?id=47403905"
+    ],
+    [
+      "FSF statement on copyright infringement lawsuit Bartz v. Anthropic",
+      "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement"
     ]
   ],
   [
