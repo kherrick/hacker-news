@@ -11,6 +11,7 @@
 * [2026-03-16, 20:59:40](https://news.ycombinator.com/item?id=47404796) - [Mistral Releases Leanstral](https://mistral.ai/news/leanstral)
 * [2026-03-16, 20:54:14](https://news.ycombinator.com/item?id=47404726) - [Show HN: Mavera – Predict audience response with GANs, not LLM sentiment](https://docs.mavera.io/introduction)
 * [2026-03-16, 20:01:02](https://news.ycombinator.com/item?id=47404074) - [Nvidia Launches Vera CPU, Purpose-Built for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
+* [2026-03-16, 19:49:20](https://news.ycombinator.com/item?id=47403905) - [FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel](https://www.fsf.org/blogs/licensing/2026-anthropic-settlement)
 * [2026-03-16, 18:38:14](https://news.ycombinator.com/item?id=47402950) - [Palestinian boy, 12, describes how Israeli forces killed his family in car](https://www.bbc.com/news/articles/c70n2x7p22do)
 * [2026-03-16, 18:16:26](https://news.ycombinator.com/item?id=47402687) - [My Random Forest Was Mostly Learning Time-to-Expiry Noise](https://illya.sh/threads/out-of-sample-permutation-feature-importance-for-random)
 * [2026-03-16, 18:13:18](https://news.ycombinator.com/item?id=47402651) - [The return-to-the-office trend backfires](https://thehill.com/opinion/technology/5775420-remote-first-productivity-growth/)
