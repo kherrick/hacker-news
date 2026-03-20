@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-20, 07:09:07",
+      "https://news.ycombinator.com/item?id=47451429"
+    ],
+    [
+      "FSFE supporters affected: Payment provider Nexi cancelled us",
+      "https://fsfe.org/news/2026/news-20260316-01.en.html"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 04:31:01",
       "https://news.ycombinator.com/item?id=47450514"
     ],
@@ -57,26 +67,6 @@
     [
       "Push events into a running session with channels",
       "https://code.claude.com/docs/en/channels"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 00:01:40",
-      "https://news.ycombinator.com/item?id=47448328"
-    ],
-    [
-      "Wayland set the Linux Desktop back by 10 years?",
-      "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 22:59:18",
-      "https://news.ycombinator.com/item?id=47447600"
-    ],
-    [
-      "Bombarding gamblers with offers greatly increases betting and gambling harm",
-      "https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Last love: a romance in a care home (2023)",
       "https://www.theguardian.com/lifeandstyle/2023/nov/23/last-love-a-romance-in-a-care-home"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 09:04:43",
+      "https://news.ycombinator.com/item?id=47396593"
+    ],
+    [
+      "Building a Reader for the Smallest Hard Drive",
+      "https://www.willwhang.dev/Reading-MK4001MTD/"
     ]
   ]
 ]
