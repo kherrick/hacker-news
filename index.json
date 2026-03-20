@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-03-20, 09:40:56",
+      "https://news.ycombinator.com/item?id=47452399"
+    ],
+    [
+      "The Soul of a Pedicab Driver",
+      "https://www.sheldonbrown.com/pedicab.html"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 09:17:44",
       "https://news.ycombinator.com/item?id=47452248"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2026-03-19, 20:13:35",
-      "https://news.ycombinator.com/item?id=47445246"
-    ],
-    [
-      "Waymo Safety Impact",
-      "https://waymo.com/safety/impact/"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 19:50:51",
       "https://news.ycombinator.com/item?id=47444906"
     ],
@@ -157,16 +157,6 @@
     [
       "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
       "https://blog.skypilot.co/scaling-autoresearch/"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 16:01:30",
-      "https://news.ycombinator.com/item?id=47441629"
-    ],
-    [
-      "Launch HN: Canary (YC W26) – AI QA that understands your code",
-      "https://news.ycombinator.com/item?id=47441629"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2026-03-17, 05:38:26",
+      "https://news.ycombinator.com/item?id=47409055"
+    ],
+    [
+      "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
+      "https://arxiv.org/abs/2603.09229"
+    ]
+  ],
+  [
+    [
       "2026-03-16, 22:56:13",
       "https://news.ycombinator.com/item?id=47406160"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=47403905"
     ],
     [
-      "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
+      "FSF statement on copyright infringement lawsuit Bartz v. Anthropic",
       "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement"
     ]
   ],
