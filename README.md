@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-20, 08:40:12](https://news.ycombinator.com/item?id=47452014) - [CAIveat Emptor: What You Tell AI Can and Will Be Used Against You](https://natlawreview.com/article/caiveat-emptor-what-you-tell-ai-can-and-will-be-used-against-you)
 * [2026-03-20, 07:09:07](https://news.ycombinator.com/item?id=47451429) - [FSFE supporters affected: Payment provider Nexi cancelled us](https://fsfe.org/news/2026/news-20260316-01.en.html)
 * [2026-03-20, 04:24:11](https://news.ycombinator.com/item?id=47450478) - [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)
 * [2026-03-20, 01:09:45](https://news.ycombinator.com/item?id=47448994) - [Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)
@@ -23,6 +22,7 @@
 * [2026-03-19, 13:05:50](https://news.ycombinator.com/item?id=47438723) - [Astral to Join OpenAI](https://astral.sh/blog/openai)
 * [2026-03-18, 23:39:58](https://news.ycombinator.com/item?id=47432779) - [How many branches can your CPU predict?](https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/)
 * [2026-03-18, 12:28:44](https://news.ycombinator.com/item?id=47424881) - [Linux Page Faults, MMAP, and userfaultfd for faster VM boots](https://www.shayon.dev/post/2026/65/linux-page-faults-mmap-and-userfaultfd/)
+* [2026-03-18, 02:28:23](https://news.ycombinator.com/item?id=47420950) - [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/)
 * [2026-03-17, 19:41:19](https://news.ycombinator.com/item?id=47417269) - [A Journey Through Infertility](https://pudding.cool/2026/03/ivf/)
 * [2026-03-17, 19:19:44](https://news.ycombinator.com/item?id=47416972) - [How the Turner twins are mythbusting modern technical apparel](https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/)
 * [2026-03-17, 15:16:39](https://news.ycombinator.com/item?id=47413879) - [Drawvg Filter for FFmpeg](https://ayosec.github.io/ffmpeg-drawvg/)
