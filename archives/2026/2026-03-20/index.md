@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
+* [2026-03-20, 08:40:12](https://news.ycombinator.com/item?id=47452014) - [CAIveat Emptor: What You Tell AI Can and Will Be Used Against You](https://natlawreview.com/article/caiveat-emptor-what-you-tell-ai-can-and-will-be-used-against-you)
 * [2026-03-20, 07:09:07](https://news.ycombinator.com/item?id=47451429) - [FSFE supporters affected: Payment provider Nexi cancelled us](https://fsfe.org/news/2026/news-20260316-01.en.html)
 * [2026-03-20, 04:31:01](https://news.ycombinator.com/item?id=47450514) - [Kin: Semantic version control that tracks code as entities, not files](https://github.com/firelock-ai/kin)
 * [2026-03-20, 04:24:11](https://news.ycombinator.com/item?id=47450478) - [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)
