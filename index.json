@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-03-20, 11:10:17",
-      "https://news.ycombinator.com/item?id=47453010"
+      "2026-03-20, 12:41:56",
+      "https://news.ycombinator.com/item?id=47453728"
     ],
     [
-      "AI (2014)",
-      "https://blog.samaltman.com/ai"
+      "The 12\" chef knife, a humble plea",
+      "https://kellykozakandjoshdonald.substack.com/p/the-12-chef-knife-a-humble-plea"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 11:45:20",
+      "https://news.ycombinator.com/item?id=47453261"
+    ],
+    [
+      "Delphi 13.1 Released, with ARM64 support",
+      "https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence-update-1/"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 11:15:44",
+      "https://news.ycombinator.com/item?id=47453045"
+    ],
+    [
+      "The Reason Windows Hate Is Exploding: It's the End of Personal Computing [video]",
+      "https://www.youtube.com/watch?v=e7a89ZYcTo8"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2026-03-20, 10:46:15",
-      "https://news.ycombinator.com/item?id=47452828"
+      "2026-03-20, 09:59:56",
+      "https://news.ycombinator.com/item?id=47452515"
     ],
     [
-      "3M's PFAS exit killed the supply chain for two-phase immersion cooling in DCs",
-      "https://thecoolingreport.com/intel.html"
+      "Show HN: Sonar – A tiny CLI to see and kill whatever's running on localhost",
+      "https://github.com/RasKrebs/sonar"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "The Soul of a Pedicab Driver",
       "https://www.sheldonbrown.com/pedicab.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 07:09:07",
-      "https://news.ycombinator.com/item?id=47451429"
-    ],
-    [
-      "FSFE supporters affected: Payment provider Nexi cancelled us",
-      "https://fsfe.org/news/2026/news-20260316-01.en.html"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-03-19, 16:57:02",
-      "https://news.ycombinator.com/item?id=47442452"
-    ],
-    [
-      "Launch HN: Voltair (YC W26) – Drone and charging network for power utilities",
-      "https://news.ycombinator.com/item?id=47442452"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 16:55:45",
       "https://news.ycombinator.com/item?id=47442435"
     ],
@@ -187,16 +187,6 @@
     [
       "4Chan mocks £520k fine for UK online safety breaches",
       "https://www.bbc.com/news/articles/c624330lg1ko"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 13:43:26",
-      "https://news.ycombinator.com/item?id=47439320"
-    ],
-    [
-      "OpenBSD: PF queues break the 4 Gbps barrier",
-      "https://undeadly.org/cgi?action=article;sid=20260319125859"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
       "https://arxiv.org/abs/2603.09229"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 01:02:41",
+      "https://news.ycombinator.com/item?id=47407293"
+    ],
+    [
+      "Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg",
+      "https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg"
     ]
   ],
   [
