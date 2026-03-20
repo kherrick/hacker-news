@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-20, 07:09:07](https://news.ycombinator.com/item?id=47451429) - [FSFE supporters affected: Payment provider Nexi cancelled us](https://fsfe.org/news/2026/news-20260316-01.en.html)
-* [2026-03-20, 04:31:01](https://news.ycombinator.com/item?id=47450514) - [Kin: Semantic version control that tracks code as entities, not files](https://github.com/firelock-ai/kin)
 * [2026-03-20, 04:24:11](https://news.ycombinator.com/item?id=47450478) - [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)
 * [2026-03-20, 02:12:41](https://news.ycombinator.com/item?id=47449576) - [Physicists Trace Sun's Magnetic Engine, 200k Kilometers Below Surface](https://news.njit.edu/njit-physicists-trace-sun%E2%80%99s-magnetic-engine-200000-kilometers-below-surface)
 * [2026-03-20, 01:09:45](https://news.ycombinator.com/item?id=47448994) - [Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)
 * [2026-03-20, 00:26:47](https://news.ycombinator.com/item?id=47448566) - [Drugwars for the TI-82/83/83 Calculators (2011)](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404)
 * [2026-03-20, 00:22:08](https://news.ycombinator.com/item?id=47448524) - [Push events into a running session with channels](https://code.claude.com/docs/en/channels)
+* [2026-03-19, 22:59:18](https://news.ycombinator.com/item?id=47447600) - [Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html)
 * [2026-03-19, 21:23:24](https://news.ycombinator.com/item?id=47446373) - [Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)
 * [2026-03-19, 20:33:02](https://news.ycombinator.com/item?id=47445599) - [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit)
 * [2026-03-19, 20:13:35](https://news.ycombinator.com/item?id=47445246) - [Waymo Safety Impact](https://waymo.com/safety/impact/)
