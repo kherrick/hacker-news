@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-03-20, 01:09:45",
+      "https://news.ycombinator.com/item?id=47448994"
+    ],
+    [
+      "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 00:26:47",
+      "https://news.ycombinator.com/item?id=47448566"
+    ],
+    [
+      "Drugwars for the TI-82/83/83 Calculators",
+      "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 00:22:08",
+      "https://news.ycombinator.com/item?id=47448524"
+    ],
+    [
+      "Push events into a running session with channels",
+      "https://code.claude.com/docs/en/channels"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 00:01:40",
+      "https://news.ycombinator.com/item?id=47448328"
+    ],
+    [
+      "Wayland set the Linux Desktop back by 10 years?",
+      "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 23:08:37",
+      "https://news.ycombinator.com/item?id=47447690"
+    ],
+    [
+      "The day I discovered type design",
+      "https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 22:59:18",
       "https://news.ycombinator.com/item?id=47447600"
     ],
@@ -11,42 +61,12 @@
   ],
   [
     [
-      "2026-03-19, 22:33:08",
-      "https://news.ycombinator.com/item?id=47447317"
-    ],
-    [
-      "Minecraft Source Code Is Interesting",
-      "https://www.karanjanthe.me/posts/minecraft-source/"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 21:23:24",
       "https://news.ycombinator.com/item?id=47446373"
     ],
     [
       "Be intentional about how AI changes your codebase",
       "https://aicode.swerdlow.dev"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 21:13:40",
-      "https://news.ycombinator.com/item?id=47446211"
-    ],
-    [
-      "The Need for an Independent AI Grid",
-      "https://amppublic.com/"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 21:12:44",
-      "https://news.ycombinator.com/item?id=47446192"
-    ],
-    [
-      "Xiaomi launches next-gen SU7 with 902 km range and Lidar, still undercuts Tesla",
-      "https://electrek.co/2026/03/19/xiaomi-launches-next-gen-su7-902-km-range-undercuts-tesla/"
     ]
   ],
   [
@@ -71,32 +91,12 @@
   ],
   [
     [
-      "2026-03-19, 20:19:59",
-      "https://news.ycombinator.com/item?id=47445361"
-    ],
-    [
-      "Android developer verification: Balancing openness and choice with safety",
-      "https://android-developers.googleblog.com/2026/03/android-developer-verification.html"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 20:13:35",
       "https://news.ycombinator.com/item?id=47445246"
     ],
     [
       "Waymo Safety Impact",
       "https://waymo.com/safety/impact/"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 20:09:02",
-      "https://news.ycombinator.com/item?id=47445175"
-    ],
-    [
-      "Tesla: Failure of the FSD's degradation detection system [pdf]",
-      "https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-03-19, 17:52:11",
-      "https://news.ycombinator.com/item?id=47443239"
-    ],
-    [
-      "Connecticut and the 1 Kilometer Effect",
-      "https://alearningaday.blog/2026/03/19/connecticut-and-the-1-kilometer-effect/"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 17:27:17",
       "https://news.ycombinator.com/item?id=47442834"
     ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2026-03-19, 16:01:30",
+      "https://news.ycombinator.com/item?id=47441629"
+    ],
+    [
+      "Launch HN: Canary (YC W26) – AI QA that understands your code",
+      "https://news.ycombinator.com/item?id=47441629"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 15:56:06",
       "https://news.ycombinator.com/item?id=47441546"
     ],
@@ -201,32 +201,12 @@
   ],
   [
     [
-      "2026-03-19, 15:06:58",
-      "https://news.ycombinator.com/item?id=47440759"
-    ],
-    [
-      "macOS 26 breaks custom DNS settings including .internal",
-      "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 14:46:25",
       "https://news.ycombinator.com/item?id=47440430"
     ],
     [
       "4Chan mocks £520k fine for UK online safety breaches",
       "https://www.bbc.com/news/articles/c624330lg1ko"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 14:37:27",
-      "https://news.ycombinator.com/item?id=47440284"
-    ],
-    [
-      "The Shape of Inequalities",
-      "https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2026-03-18, 23:39:58",
+      "https://news.ycombinator.com/item?id=47432779"
+    ],
+    [
+      "How many branches can your CPU predict?",
+      "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 19:19:44",
       "https://news.ycombinator.com/item?id=47416972"
     ],
@@ -297,6 +287,16 @@
     [
       "My Random Forest Was Mostly Learning Time-to-Expiry Noise",
       "https://illya.sh/threads/out-of-sample-permutation-feature-importance-for-random"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 22:05:24",
+      "https://news.ycombinator.com/item?id=47392457"
+    ],
+    [
+      "Cover Flow with Modern CSS: Scroll-Driven Animations in Action (2025)",
+      "https://addyosmani.com/blog/coverflow/"
     ]
   ]
 ]
