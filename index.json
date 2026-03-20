@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-20, 23:11:09",
+      "https://news.ycombinator.com/item?id=47462061"
+    ],
+    [
+      "How the Iran war threatens global food supply",
+      "https://www.npr.org/2026/03/20/nx-s1-5750812/how-the-iran-war-threatens-global-food-supply"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 22:25:51",
+      "https://news.ycombinator.com/item?id=47461529"
+    ],
+    [
+      "Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",
+      "https://github.com/RedGridTactical/RedGridLink"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 22:11:37",
       "https://news.ycombinator.com/item?id=47461378"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47461018"
     ],
     [
-      "Heart Attack and Stroke Risk Jumps When People Stop Taking GLP-1s",
+      "Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists",
       "https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029"
     ]
   ],
@@ -67,6 +87,16 @@
     [
       "A Japanese Glossary of Chopsticks Faux Pas",
       "https://www.nippon.com/en/japan-data/h01362/"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 20:47:45",
+      "https://news.ycombinator.com/item?id=47460379"
+    ],
+    [
+      "Monkey C – Small familiar language for apps on Garmin watches",
+      "https://developer.garmin.com/connect-iq/monkey-c/"
     ]
   ],
   [
@@ -171,22 +201,22 @@
   ],
   [
     [
-      "2026-03-20, 04:24:11",
-      "https://news.ycombinator.com/item?id=47450478"
-    ],
-    [
-      "ArXiv declares independence from Cornell",
-      "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 19:08:02",
       "https://news.ycombinator.com/item?id=47444319"
     ],
     [
       "Delve – Fake Compliance as a Service",
       "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 12:24:46",
+      "https://news.ycombinator.com/item?id=47438169"
+    ],
+    [
+      "An FAQ on Reinforcement Learning Environments",
+      "https://epoch.ai/gradient-updates/state-of-rl-envs"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2026-03-17, 21:00:54",
-      "https://news.ycombinator.com/item?id=47418247"
-    ],
-    [
-      "Regex Blaster",
-      "https://mdp.github.io/regex-blaster/"
-    ]
-  ],
-  [
-    [
       "2026-03-17, 18:43:53",
       "https://news.ycombinator.com/item?id=47416543"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-03-17, 05:38:26",
-      "https://news.ycombinator.com/item?id=47409055"
-    ],
-    [
-      "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
-      "https://arxiv.org/abs/2603.09229"
-    ]
-  ],
-  [
-    [
       "2026-03-17, 01:02:41",
       "https://news.ycombinator.com/item?id=47407293"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: An open-source safety net for home hemodialysis",
       "https://safehemo.com/"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 19:49:20",
-      "https://news.ycombinator.com/item?id=47403905"
-    ],
-    [
-      "FSF statement on copyright infringement lawsuit Bartz v. Anthropic",
-      "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement"
     ]
   ]
 ]
