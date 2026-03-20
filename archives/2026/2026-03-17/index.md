@@ -45,6 +45,7 @@
 * [2026-03-17, 09:26:48](https://news.ycombinator.com/item?id=47410349) - [Grace Hopper's Revenge](https://www.thefuriousopposites.com/p/grace-hoppers-revenge)
 * [2026-03-17, 08:15:34](https://news.ycombinator.com/item?id=47409885) - [Reverse-engineering Viktor and making it Open Source](https://matijacniacki.com/blog/openviktor)
 * [2026-03-17, 06:11:17](https://news.ycombinator.com/item?id=47409222) - [Show HN: Pgit – A Git-like CLI backed by PostgreSQL](https://oseifert.ch/blog/building-pgit)
+* [2026-03-17, 05:38:26](https://news.ycombinator.com/item?id=47409055) - [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://arxiv.org/abs/2603.09229)
 * [2026-03-17, 04:43:29](https://news.ycombinator.com/item?id=47408727) - [Show HN: Crust – A CLI framework for TypeScript and Bun](https://github.com/chenxin-yan/crust)
 * [2026-03-17, 04:39:42](https://news.ycombinator.com/item?id=47408703) - [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak)
 * [2026-03-17, 04:16:40](https://news.ycombinator.com/item?id=47408546) - [The Power of Playtesting in the Classroom](https://landenlove.com/the-power-of-playtesting-in-the-classroom/)
