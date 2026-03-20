@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
+* [2026-03-20, 09:41:51](https://news.ycombinator.com/item?id=47452404) - [Cursor Composer 2 is just Kimi K2.5 with RL](https://twitter.com/fynnso/status/2034706304875602030)
+* [2026-03-20, 09:17:44](https://news.ycombinator.com/item?id=47452248) - [Essex police pause facial recognition camera use after study finds racial bias](https://www.theguardian.com/technology/2026/mar/19/essex-police-pause-facial-recognition-camera-use-study-racial-bias)
 * [2026-03-20, 08:40:12](https://news.ycombinator.com/item?id=47452014) - [CAIveat Emptor: What You Tell AI Can and Will Be Used Against You](https://natlawreview.com/article/caiveat-emptor-what-you-tell-ai-can-and-will-be-used-against-you)
 * [2026-03-20, 07:09:07](https://news.ycombinator.com/item?id=47451429) - [FSFE supporters affected: Payment provider Nexi cancelled us](https://fsfe.org/news/2026/news-20260316-01.en.html)
 * [2026-03-20, 04:31:01](https://news.ycombinator.com/item?id=47450514) - [Kin: Semantic version control that tracks code as entities, not files](https://github.com/firelock-ai/kin)
