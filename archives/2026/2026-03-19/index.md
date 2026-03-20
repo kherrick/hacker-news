@@ -59,6 +59,7 @@
 * [2026-03-19, 12:43:29](https://news.ycombinator.com/item?id=47438403) - [WFH is becoming a benefit again](https://news.ycombinator.com/item?id=47438403)
 * [2026-03-19, 12:39:46](https://news.ycombinator.com/item?id=47438342) - [Ramtrack.eu – RAM Price Intelligence](https://ramtrack.eu)
 * [2026-03-19, 12:26:13](https://news.ycombinator.com/item?id=47438182) - [The strait of Hormuz blockade will strangle US defense industry](https://www.theguardian.com/world/2026/mar/19/west-point-analysis-iran-war-costs)
+* [2026-03-19, 12:24:46](https://news.ycombinator.com/item?id=47438169) - [An FAQ on Reinforcement Learning Environments](https://epoch.ai/gradient-updates/state-of-rl-envs)
 * [2026-03-19, 12:13:00](https://news.ycombinator.com/item?id=47438001) - [Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos](https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html)
 * [2026-03-19, 11:49:37](https://news.ycombinator.com/item?id=47437782) - [Denmark was reportedly preparing for full-scale war with the US over Greenland](https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f)
 * [2026-03-19, 11:34:24](https://news.ycombinator.com/item?id=47437655) - ['Your Frustration Is the Product'](https://daringfireball.net/2026/03/your_frustration_is_the_product)
