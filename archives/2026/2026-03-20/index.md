@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
+* [2026-03-20, 13:38:56](https://news.ycombinator.com/item?id=47454341) - [I'm OK being left behind, thanks](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/)
+* [2026-03-20, 13:23:56](https://news.ycombinator.com/item?id=47454164) - [HP realizes that mandatory 15-minute support call wait times isn't good support](https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/)
+* [2026-03-20, 13:18:36](https://news.ycombinator.com/item?id=47454091) - [Schizophrenia study finds new biomarker, drug candidate to treat symptoms](https://news.northwestern.edu/stories/2026/03/schizophrenia-study-finds-new-biomarker-drug-candidate-to-treat-cognitive-symptoms)
+* [2026-03-20, 13:01:56](https://news.ycombinator.com/item?id=47453942) - [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 * [2026-03-20, 12:41:56](https://news.ycombinator.com/item?id=47453728) - [The 12\" chef knife, a humble plea](https://kellykozakandjoshdonald.substack.com/p/the-12-chef-knife-a-humble-plea)
 * [2026-03-20, 11:45:20](https://news.ycombinator.com/item?id=47453261) - [Delphi 13.1 Released, with ARM64 support](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence-update-1/)
 * [2026-03-20, 11:15:44](https://news.ycombinator.com/item?id=47453045) - [The Reason Windows Hate Is Exploding: It's the End of Personal Computing [video]](https://www.youtube.com/watch?v=e7a89ZYcTo8)
