@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-03-20, 22:06:51",
+      "https://news.ycombinator.com/item?id=47461321"
+    ],
+    [
+      "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
+      "https://github.com/FormerLab/fortransky"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 21:48:06",
+      "https://news.ycombinator.com/item?id=47461094"
+    ],
+    [
+      "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
+      "https://www.openui.com/blog/rust-wasm-parser"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 21:42:16",
+      "https://news.ycombinator.com/item?id=47461018"
+    ],
+    [
+      "Heart Attack and Stroke Risk Jumps When People Stop Taking GLP-1s",
+      "https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 21:04:11",
+      "https://news.ycombinator.com/item?id=47460528"
+    ],
+    [
+      "Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts",
+      "https://github.com/FormerLab/shadow-fleet-tracker-light"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 21:03:52",
       "https://news.ycombinator.com/item?id=47460525"
     ],
@@ -81,32 +121,22 @@
   ],
   [
     [
+      "2026-03-20, 15:55:40",
+      "https://news.ycombinator.com/item?id=47456421"
+    ],
+    [
+      "Meme Buildings",
+      "https://misfitsarchitecture.com/2026/03/15/meme-buildings/"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 14:48:09",
       "https://news.ycombinator.com/item?id=47455365"
     ],
     [
       "Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot",
       "https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 13:43:23",
-      "https://news.ycombinator.com/item?id=47454384"
-    ],
-    [
-      "Java is fast, code might not be",
-      "https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 13:23:56",
-      "https://news.ycombinator.com/item?id=47454164"
-    ],
-    [
-      "HP trialed mandatory 15-minute support call wait times (2025)",
-      "https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/"
     ]
   ],
   [
@@ -137,26 +167,6 @@
     [
       "Entso-E final report on Iberian 2025 blackout",
       "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 09:59:56",
-      "https://news.ycombinator.com/item?id=47452515"
-    ],
-    [
-      "Show HN: Sonar – A tiny CLI to see and kill whatever's running on localhost",
-      "https://github.com/RasKrebs/sonar"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 09:40:56",
-      "https://news.ycombinator.com/item?id=47452399"
-    ],
-    [
-      "The Soul of a Pedicab Driver",
-      "https://www.sheldonbrown.com/pedicab.html"
     ]
   ],
   [
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=47424592"
     ],
     [
-      "Parallel Perl – autoparallelizing interpreter with JIT",
+      "Parallel Perl – Autoparallelizing interpreter with JIT",
       "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "The worst volume control UI in the world (2017)",
       "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 02:28:23",
-      "https://news.ycombinator.com/item?id=47420950"
-    ],
-    [
-      "Too Much Color",
-      "https://www.keithcirkel.co.uk/too-much-color/"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "The Los Angeles Aqueduct Is Wild",
       "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 15:45:17",
+      "https://news.ycombinator.com/item?id=47414292"
+    ],
+    [
+      "I love my dumb watches",
+      "https://gary.onl/a-post-about-watches/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "FSF statement on copyright infringement lawsuit Bartz v. Anthropic",
       "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 10:53:10",
-      "https://news.ycombinator.com/item?id=47397372"
-    ],
-    [
-      "Just Put It on a Map",
-      "https://progressandpoverty.substack.com/p/just-put-it-on-a-map"
     ]
   ]
 ]
