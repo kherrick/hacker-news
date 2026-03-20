@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
+* [2026-03-20, 19:16:13](https://news.ycombinator.com/item?id=47459296) - [Our Commitment to Windows Quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)
 * [2026-03-20, 18:23:41](https://news.ycombinator.com/item?id=47458595) - [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)
 * [2026-03-20, 18:19:58](https://news.ycombinator.com/item?id=47458549) - [BYD's bet on EVs is paying off as drivers ditch gas amid rising oil prices](https://electrek.co/2026/03/20/byd-ev-demand-surges-drivers-ditch-gas-amid-rising-oil-prices/)
 * [2026-03-20, 17:37:33](https://news.ycombinator.com/item?id=47457929) - [US to deploy additional troops to the Middle East, officials say](https://www.reuters.com/world/us-deploy-thousands-additional-troops-middle-east-officials-say-2026-03-20/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-20, 19:16:13](https://news.ycombinator.com/item?id=47459296) - [Our Commitment to Windows Quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)
 * [2026-03-20, 18:23:41](https://news.ycombinator.com/item?id=47458595) - [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)
 * [2026-03-20, 18:19:58](https://news.ycombinator.com/item?id=47458549) - [BYD's bet on EVs is paying off as drivers ditch gas amid rising oil prices](https://electrek.co/2026/03/20/byd-ev-demand-surges-drivers-ditch-gas-amid-rising-oil-prices/)
 * [2026-03-20, 17:05:38](https://news.ycombinator.com/item?id=47457472) - [Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility](https://news.ycombinator.com/item?id=47457472)
@@ -17,7 +18,6 @@
 * [2026-03-20, 01:09:45](https://news.ycombinator.com/item?id=47448994) - [Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)
 * [2026-03-20, 00:26:47](https://news.ycombinator.com/item?id=47448566) - [Drugwars for the TI-82/83/83 Calculators (2011)](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404)
 * [2026-03-19, 19:08:02](https://news.ycombinator.com/item?id=47444319) - [Delve – Fake Compliance as a Service](https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service)
-* [2026-03-19, 14:06:28](https://news.ycombinator.com/item?id=47439714) - [Switch Your Phone to an MVNO](https://practicalbetterments.com/switch-your-phone-to-an-mvno/)
 * [2026-03-18, 11:59:05](https://news.ycombinator.com/item?id=47424592) - [Parallel Perl – autoparallelizing interpreter with JIT](https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1)
 * [2026-03-18, 02:28:23](https://news.ycombinator.com/item?id=47420950) - [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/)
 * [2026-03-17, 21:00:54](https://news.ycombinator.com/item?id=47418247) - [Regex Blaster](https://mdp.github.io/regex-blaster/)
