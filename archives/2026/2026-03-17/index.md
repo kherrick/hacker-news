@@ -11,6 +11,7 @@
 * [2026-03-17, 20:23:39](https://news.ycombinator.com/item?id=47417804) - [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done)
 * [2026-03-17, 19:55:54](https://news.ycombinator.com/item?id=47417470) - [Claude Is Having an Outage](https://news.ycombinator.com/item?id=47417470)
 * [2026-03-17, 19:46:29](https://news.ycombinator.com/item?id=47417335) - [Launch HN: Kita (YC W26) – Automate credit review in emerging markets](https://news.ycombinator.com/item?id=47417335)
+* [2026-03-17, 19:41:19](https://news.ycombinator.com/item?id=47417269) - [A Journey Through Infertility](https://pudding.cool/2026/03/ivf/)
 * [2026-03-17, 19:19:44](https://news.ycombinator.com/item?id=47416972) - [How the Turner twins are mythbusting modern technical apparel](https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/)
 * [2026-03-17, 19:17:16](https://news.ycombinator.com/item?id=47416940) - [Meta Horizon Worlds on Meta Quest is being discontinued](https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435)
 * [2026-03-17, 18:59:50](https://news.ycombinator.com/item?id=47416736) - [Slug Text Rendering Algorithm Dedicated to Public Domain](https://terathon.com/blog/decade-slug.html)
