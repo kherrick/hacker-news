@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
+* [2026-03-20, 21:03:52](https://news.ycombinator.com/item?id=47460525) - [OpenCode – The open source AI coding agent](https://opencode.ai/)
 * [2026-03-20, 20:54:57](https://news.ycombinator.com/item?id=47460452) - [A Japanese Glossary of Chopsticks Faux Pas](https://www.nippon.com/en/japan-data/h01362/)
 * [2026-03-20, 20:25:23](https://news.ycombinator.com/item?id=47460154) - [The bespoke software revolution? I'm not buying it](https://world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec)
 * [2026-03-20, 19:29:39](https://news.ycombinator.com/item?id=47459447) - [NumKong: 2'000 Mixed Precision Kernels for All](https://ashvardanian.com/posts/numkong/)
@@ -15,6 +16,7 @@
 * [2026-03-20, 17:05:38](https://news.ycombinator.com/item?id=47457472) - [Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility](https://news.ycombinator.com/item?id=47457472)
 * [2026-03-20, 16:41:42](https://news.ycombinator.com/item?id=47457107) - [MacBook M5 Pro and Qwen3.5 = Local AI Security System](https://www.sharpai.org/benchmark/)
 * [2026-03-20, 16:34:04](https://news.ycombinator.com/item?id=47456987) - [90% of crypto's Illinois primary spending failed to achieve its objective](https://www.mollywhite.net/micro/entry/202603172318)
+* [2026-03-20, 15:55:40](https://news.ycombinator.com/item?id=47456421) - [Meme Buildings](https://misfitsarchitecture.com/2026/03/15/meme-buildings/)
 * [2026-03-20, 15:39:19](https://news.ycombinator.com/item?id=47456153) - [Oregon School Cell Phone Ban: 'Engaged Students, Joyful Teachers'](https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/)
 * [2026-03-20, 14:56:03](https://news.ycombinator.com/item?id=47455489) - [Having Kids (2019)](https://paulgraham.com/kids.html)
 * [2026-03-20, 14:48:09](https://news.ycombinator.com/item?id=47455365) - [Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot](https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/)
