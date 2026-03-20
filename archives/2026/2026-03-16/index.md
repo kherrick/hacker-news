@@ -25,6 +25,7 @@
 * [2026-03-16, 16:51:32](https://news.ycombinator.com/item?id=47401489) - [The math that explains why bell curves are everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/)
 * [2026-03-16, 16:21:07](https://news.ycombinator.com/item?id=47401042) - [Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps](https://news.ycombinator.com/item?id=47401042)
 * [2026-03-16, 16:07:29](https://news.ycombinator.com/item?id=47400868) - [Show HN: Claude Code skills that build complete Godot games](https://github.com/htdt/godogen)
+* [2026-03-16, 15:59:10](https://news.ycombinator.com/item?id=47400744) - [Last love: a romance in a care home (2023)](https://www.theguardian.com/lifeandstyle/2023/nov/23/last-love-a-romance-in-a-care-home)
 * [2026-03-16, 15:25:36](https://news.ycombinator.com/item?id=47400261) - [MCP Server Is Eating Your Context Window. There's a Simpler Way](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
 * [2026-03-16, 15:20:01](https://news.ycombinator.com/item?id=47400192) - [Gluon: Explicit Performance](https://www.lei.chat/posts/gluon-explicit-performance/)
 * [2026-03-16, 15:12:50](https://news.ycombinator.com/item?id=47400089) - [Give Django your time and money, not your tokens](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/)
