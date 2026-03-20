@@ -129,6 +129,75 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47462061">
+          <h3>
+            <a
+              class="item"
+              href="https://www.npr.org/2026/03/20/nx-s1-5750812/how-the-iran-war-threatens-global-food-supply"
+              >How the Iran war threatens global food supply</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-20 @ 23:11:09</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47462061"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47461529">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/RedGridTactical/RedGridLink"
+              >Show HN: Red Grid Link – peer-to-peer team tracking over
+              Bluetooth, no servers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-20 @ 22:25:51</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47461529"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Red Grid Link does that. Start a session, and anyone nearby
+                running the app shows up on your offline map. When they walk out
+                of range their marker stays as a "ghost" that slowly fades.
+              </p>
+              <p>
+                The hard part was making sync reliable over BLE. The connections
+                drop all the time. Someone turns a corner, walks behind a
+                vehicle, whatever. I built a CRDT sync layer (LWW Register +
+                G-Counter) so there's never merge conflicts. Each update is just
+                under 200 bytes (from what I have tested so far). When a
+                user/teammate disappears the app does exponential backoff from 2
+                to 30 seconds before giving up and marking them as a ghost.
+              </p>
+              <p>
+                Everything is encrypted (AES-256-GCM, ECDH P-256 key exchange
+                per peer pair). Sessions can require a PIN or QR code to join.
+                It also offers offline topo maps with MGRS grid coordinates,
+                same system as in my other app, Red Grid MGRS.
+              </p>
+              <p>
+                The app is free, and I'm looking for some honest feedback from
+                other real-world users. Let me know if you have any questions!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="47461378">
           <h3>
             <a class="item" href="https://github.com/ghostty-org/ghostling"
@@ -139,11 +208,11 @@
             <h4>
               <span>2026-03-20 @ 22:11:37</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47461378"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -159,11 +228,11 @@
             <h4>
               <span>2026-03-20 @ 22:06:51</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47461321"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
             <div class="text">Yes, that Fortran.</div>
@@ -180,11 +249,11 @@
             <h4>
               <span>2026-03-20 @ 21:48:06</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47461094"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -194,19 +263,19 @@
             <a
               class="item"
               href="https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029"
-              >Heart Attack and Stroke Risk Jumps When People Stop Taking
-              GLP-1s</a
+              >Discontinuation and reinitiation of dual-labeled GLP-1 receptor
+              agonists</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-20 @ 21:42:16</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47461018"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
             <div class="text">
@@ -229,11 +298,11 @@
             <h4>
               <span>2026-03-20 @ 21:04:11</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47460528"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -248,11 +317,11 @@
             <h4>
               <span>2026-03-20 @ 21:03:52</span
               ><span class="points-container"
-                >Points: <span class="points">280</span></span
+                >Points: <span class="points">296</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47460525"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 139</span></span
               >
             </h4>
           </section>
@@ -267,11 +336,32 @@
             <h4>
               <span>2026-03-20 @ 20:54:57</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47460452"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 81</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47460379">
+          <h3>
+            <a
+              class="item"
+              href="https://developer.garmin.com/connect-iq/monkey-c/"
+              >Monkey C – Small familiar language for apps on Garmin watches</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-20 @ 20:47:45</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47460379"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -307,11 +397,11 @@
             <h4>
               <span>2026-03-20 @ 19:16:13</span
               ><span class="points-container"
-                >Points: <span class="points">305</span></span
+                >Points: <span class="points">316</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47459296"
                   >Comments</a
-                ><span class="descendants">: 535</span></span
+                ><span class="descendants">: 572</span></span
               >
             </h4>
           </section>
@@ -328,7 +418,7 @@
             <h4>
               <span>2026-03-20 @ 18:23:41</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47458595"
                   >Comments</a
@@ -347,11 +437,11 @@
             <h4>
               <span>2026-03-20 @ 18:06:20</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47458348"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
             <div class="text">
@@ -496,7 +586,7 @@
             <h4>
               <span>2026-03-20 @ 15:55:40</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47456421"
                   >Comments</a
@@ -518,7 +608,7 @@
             <h4>
               <span>2026-03-20 @ 14:48:09</span
               ><span class="points-container"
-                >Points: <span class="points">303</span></span
+                >Points: <span class="points">307</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47455365"
                   >Comments</a
@@ -539,7 +629,7 @@
             <h4>
               <span>2026-03-20 @ 13:02:19</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47453947"
                   >Comments</a
@@ -561,11 +651,11 @@
             <h4>
               <span>2026-03-20 @ 13:01:56</span
               ><span class="points-container"
-                >Points: <span class="points">440</span></span
+                >Points: <span class="points">444</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47453942"
                   >Comments</a
-                ><span class="descendants">: 371</span></span
+                ><span class="descendants">: 375</span></span
               >
             </h4>
           </section>
@@ -582,32 +672,11 @@
             <h4>
               <span>2026-03-20 @ 11:03:27</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47452955"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47450478">
-          <h3>
-            <a
-              class="item"
-              href="https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell"
-              >ArXiv declares independence from Cornell</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-20 @ 04:24:11</span
-              ><span class="points-container"
-                >Points: <span class="points">709</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47450478"
-                  >Comments</a
-                ><span class="descendants">: 244</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -624,11 +693,32 @@
             <h4>
               <span>2026-03-19 @ 19:08:02</span
               ><span class="points-container"
-                >Points: <span class="points">497</span></span
+                >Points: <span class="points">510</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47444319"
                   >Comments</a
                 ><span class="descendants">: 180</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47438169">
+          <h3>
+            <a
+              class="item"
+              href="https://epoch.ai/gradient-updates/state-of-rl-envs"
+              >An FAQ on Reinforcement Learning Environments</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-19 @ 12:24:46</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47438169"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -645,7 +735,7 @@
             <h4>
               <span>2026-03-18 @ 20:52:30</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47431304"
                   >Comments</a
@@ -687,30 +777,11 @@
             <h4>
               <span>2026-03-18 @ 10:22:38</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47423762"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47418247">
-          <h3>
-            <a class="item" href="https://mdp.github.io/regex-blaster/"
-              >Regex Blaster</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-17 @ 21:00:54</span
-              ><span class="points-container"
-                >Points: <span class="points">141</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47418247"
-                  >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -727,7 +798,7 @@
             <h4>
               <span>2026-03-17 @ 18:43:53</span
               ><span class="points-container"
-                >Points: <span class="points">273</span></span
+                >Points: <span class="points">275</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47416543"
                   >Comments</a
@@ -746,11 +817,11 @@
             <h4>
               <span>2026-03-17 @ 15:45:17</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47414292"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -774,25 +845,6 @@
             </h4>
           </section>
         </section>
-        <section id="47409055">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2603.09229"
-              >Flash-KMeans: Fast and Memory-Efficient Exact K-Means</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-17 @ 05:38:26</span
-              ><span class="points-container"
-                >Points: <span class="points">160</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47409055"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="47407293">
           <h3>
             <a
@@ -806,11 +858,11 @@
             <h4>
               <span>2026-03-17 @ 01:02:41</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47407293"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -825,33 +877,11 @@
             <h4>
               <span>2026-03-17 @ 00:48:15</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47407184"
                   >Comments</a
                 ><span class="descendants">: 6</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47403905">
-          <h3>
-            <a
-              class="item"
-              href="https://www.fsf.org/blogs/licensing/2026-anthropic-settlement"
-              >FSF statement on copyright infringement lawsuit Bartz v.
-              Anthropic</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-16 @ 19:49:20</span
-              ><span class="points-container"
-                >Points: <span class="points">252</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47403905"
-                  >Comments</a
-                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
