@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
+* [2026-03-20, 07:09:07](https://news.ycombinator.com/item?id=47451429) - [FSFE supporters affected: Payment provider Nexi cancelled us](https://fsfe.org/news/2026/news-20260316-01.en.html)
 * [2026-03-20, 04:31:01](https://news.ycombinator.com/item?id=47450514) - [Kin: Semantic version control that tracks code as entities, not files](https://github.com/firelock-ai/kin)
 * [2026-03-20, 04:24:11](https://news.ycombinator.com/item?id=47450478) - [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)
 * [2026-03-20, 02:12:41](https://news.ycombinator.com/item?id=47449576) - [Physicists Trace Sun's Magnetic Engine, 200k Kilometers Below Surface](https://news.njit.edu/njit-physicists-trace-sun%E2%80%99s-magnetic-engine-200000-kilometers-below-surface)
