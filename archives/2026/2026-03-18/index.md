@@ -49,6 +49,7 @@
 * [2026-03-18, 11:44:44](https://news.ycombinator.com/item?id=47424458) - [Measuring progress toward AGI: A cognitive framework](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/)
 * [2026-03-18, 10:57:57](https://news.ycombinator.com/item?id=47424042) - [Judge orders restoration of Voice of America](https://apnews.com/article/voice-of-america-kari-lake-trump-cd6d1ef05272f842705da0ed38d3de24)
 * [2026-03-18, 10:49:19](https://news.ycombinator.com/item?id=47423976) - [OpenAI Has New Focus (On the IPO)](https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/)
+* [2026-03-18, 10:22:38](https://news.ycombinator.com/item?id=47423762) - [The worst volume control UI in the world](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950)
 * [2026-03-18, 10:10:01](https://news.ycombinator.com/item?id=47423694) - [2025 Turing award given for quantum information science](https://awards.acm.org/about/2025-turing)
 * [2026-03-18, 09:59:54](https://news.ycombinator.com/item?id=47423647) - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 * [2026-03-18, 09:56:48](https://news.ycombinator.com/item?id=47423624) - [Kagi is contemplating the removal of the assistant from its professional tier](https://kagifeedback.org/d/10116-kagi-assistant-standalone-subscription)
