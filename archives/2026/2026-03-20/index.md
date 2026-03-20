@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
+* [2026-03-20, 18:19:58](https://news.ycombinator.com/item?id=47458549) - [BYD's bet on EVs is paying off as drivers ditch gas amid rising oil prices](https://electrek.co/2026/03/20/byd-ev-demand-surges-drivers-ditch-gas-amid-rising-oil-prices/)
 * [2026-03-20, 17:37:33](https://news.ycombinator.com/item?id=47457929) - [US to deploy additional troops to the Middle East, officials say](https://www.reuters.com/world/us-deploy-thousands-additional-troops-middle-east-officials-say-2026-03-20/)
 * [2026-03-20, 17:05:38](https://news.ycombinator.com/item?id=47457472) - [Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility](https://news.ycombinator.com/item?id=47457472)
 * [2026-03-20, 16:41:42](https://news.ycombinator.com/item?id=47457107) - [MacBook M5 Pro and Qwen3.5 = Local AI Security System](https://www.sharpai.org/benchmark/)

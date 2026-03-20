@@ -58,4 +58,5 @@
 * [2026-03-17, 03:46:22](https://news.ycombinator.com/item?id=47408360) - [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
 * [2026-03-17, 03:20:36](https://news.ycombinator.com/item?id=47408205) - [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
 * [2026-03-17, 01:02:41](https://news.ycombinator.com/item?id=47407293) - [Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg](https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg)
+* [2026-03-17, 00:48:15](https://news.ycombinator.com/item?id=47407184) - [Show HN: An open-source safety net for home hemodialysis](https://safehemo.com/)
 * [2026-03-17, 00:02:35](https://news.ycombinator.com/item?id=47406779) - [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/)
