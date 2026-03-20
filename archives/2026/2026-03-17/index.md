@@ -27,6 +27,7 @@
 * [2026-03-17, 17:07:06](https://news.ycombinator.com/item?id=47415441) - [GPT‑5.4 Mini and Nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)
 * [2026-03-17, 17:00:50](https://news.ycombinator.com/item?id=47415350) - [Spice Data (YC S19) Is Hiring a Product Specialist](https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad)
 * [2026-03-17, 15:56:09](https://news.ycombinator.com/item?id=47414440) - ['The Secret Agent': Exploring a Vibrant, yet Violent Brazil](https://theasc.com/articles/the-secret-agent-cinematography)
+* [2026-03-17, 15:45:17](https://news.ycombinator.com/item?id=47414292) - [I love my dumb watches](https://gary.onl/a-post-about-watches/)
 * [2026-03-17, 15:45:15](https://news.ycombinator.com/item?id=47414291) - [Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go](https://github.com/antflydb/antfly)
 * [2026-03-17, 15:32:11](https://news.ycombinator.com/item?id=47414112) - [A Fuzzer for the Toy Optimizer](https://bernsteinbear.com/blog/toy-fuzzer/)
 * [2026-03-17, 15:26:32](https://news.ycombinator.com/item?id=47414032) - [Unsloth Studio](https://unsloth.ai/docs/new/studio)
