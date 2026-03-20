@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
+* [2026-03-20, 11:10:17](https://news.ycombinator.com/item?id=47453010) - [AI (2014)](https://blog.samaltman.com/ai)
 * [2026-03-20, 09:41:51](https://news.ycombinator.com/item?id=47452404) - [Cursor Composer 2 is just Kimi K2.5 with RL](https://twitter.com/fynnso/status/2034706304875602030)
 * [2026-03-20, 09:40:56](https://news.ycombinator.com/item?id=47452399) - [The Soul of a Pedicab Driver](https://www.sheldonbrown.com/pedicab.html)
 * [2026-03-20, 09:17:44](https://news.ycombinator.com/item?id=47452248) - [Essex police pause facial recognition camera use after study finds racial bias](https://www.theguardian.com/technology/2026/mar/19/essex-police-pause-facial-recognition-camera-use-study-racial-bias)

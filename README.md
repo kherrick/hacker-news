@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-20, 11:10:17](https://news.ycombinator.com/item?id=47453010) - [AI (2014)](https://blog.samaltman.com/ai)
 * [2026-03-20, 09:41:51](https://news.ycombinator.com/item?id=47452404) - [Cursor Composer 2 is just Kimi K2.5 with RL](https://twitter.com/fynnso/status/2034706304875602030)
 * [2026-03-20, 09:40:56](https://news.ycombinator.com/item?id=47452399) - [The Soul of a Pedicab Driver](https://www.sheldonbrown.com/pedicab.html)
-* [2026-03-20, 09:17:44](https://news.ycombinator.com/item?id=47452248) - [Essex police pause facial recognition camera use after study finds racial bias](https://www.theguardian.com/technology/2026/mar/19/essex-police-pause-facial-recognition-camera-use-study-racial-bias)
 * [2026-03-20, 07:09:07](https://news.ycombinator.com/item?id=47451429) - [FSFE supporters affected: Payment provider Nexi cancelled us](https://fsfe.org/news/2026/news-20260316-01.en.html)
 * [2026-03-20, 04:24:11](https://news.ycombinator.com/item?id=47450478) - [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)
 * [2026-03-20, 01:09:45](https://news.ycombinator.com/item?id=47448994) - [Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)
@@ -20,7 +20,6 @@
 * [2026-03-19, 14:46:25](https://news.ycombinator.com/item?id=47440430) - [4Chan mocks £520k fine for UK online safety breaches](https://www.bbc.com/news/articles/c624330lg1ko)
 * [2026-03-19, 13:43:26](https://news.ycombinator.com/item?id=47439320) - [OpenBSD: PF queues break the 4 Gbps barrier](https://undeadly.org/cgi?action=article;sid=20260319125859)
 * [2026-03-19, 13:05:50](https://news.ycombinator.com/item?id=47438723) - [Astral to Join OpenAI](https://astral.sh/blog/openai)
-* [2026-03-18, 23:39:58](https://news.ycombinator.com/item?id=47432779) - [How many branches can your CPU predict?](https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/)
 * [2026-03-18, 12:28:44](https://news.ycombinator.com/item?id=47424881) - [Linux Page Faults, MMAP, and userfaultfd for faster VM boots](https://www.shayon.dev/post/2026/65/linux-page-faults-mmap-and-userfaultfd/)
 * [2026-03-18, 02:28:23](https://news.ycombinator.com/item?id=47420950) - [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/)
 * [2026-03-17, 19:41:19](https://news.ycombinator.com/item?id=47417269) - [A Journey Through Infertility](https://pudding.cool/2026/03/ivf/)
@@ -29,6 +28,7 @@
 * [2026-03-17, 05:38:26](https://news.ycombinator.com/item?id=47409055) - [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://arxiv.org/abs/2603.09229)
 * [2026-03-16, 22:56:13](https://news.ycombinator.com/item?id=47406160) - [Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 * [2026-03-16, 19:49:20](https://news.ycombinator.com/item?id=47403905) - [FSF statement on copyright infringement lawsuit Bartz v. Anthropic](https://www.fsf.org/blogs/licensing/2026-anthropic-settlement)
+* [2026-03-16, 10:53:10](https://news.ycombinator.com/item?id=47397372) - [Just Put It on a Map](https://progressandpoverty.substack.com/p/just-put-it-on-a-map)
 * [2026-03-16, 09:04:43](https://news.ycombinator.com/item?id=47396593) - [Building a Reader for the Smallest Hard Drive](https://www.willwhang.dev/Reading-MK4001MTD/)
 
 ## [Archives](archives/index.md)
