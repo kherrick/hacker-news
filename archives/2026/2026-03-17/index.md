@@ -18,6 +18,7 @@
 * [2026-03-17, 18:59:50](https://news.ycombinator.com/item?id=47416736) - [Slug Text Rendering Algorithm Dedicated to Public Domain](https://terathon.com/blog/decade-slug.html)
 * [2026-03-17, 18:49:22](https://news.ycombinator.com/item?id=47416604) - [How OpenClaw's Memory System Works](https://www.db0.ai/blog/how-openclaw-memory-works)
 * [2026-03-17, 18:44:09](https://news.ycombinator.com/item?id=47416548) - [Java 26 is here, and with it a solid foundation for the future](https://hanno.codes/2026/03/17/java-26-is-here/)
+* [2026-03-17, 18:43:53](https://news.ycombinator.com/item?id=47416543) - [The Los Angeles Aqueduct Is Wild](https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild)
 * [2026-03-17, 18:37:27](https://news.ycombinator.com/item?id=47416486) - [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
 * [2026-03-17, 18:14:24](https://news.ycombinator.com/item?id=47416227) - [Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust](https://github.com/peters/horizon)
 * [2026-03-17, 18:06:07](https://news.ycombinator.com/item?id=47416131) - [Illinois Introducing Operating System Account Age Bill](https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511)
