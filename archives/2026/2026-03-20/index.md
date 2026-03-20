@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
+* [2026-03-20, 12:41:56](https://news.ycombinator.com/item?id=47453728) - [The 12\" chef knife, a humble plea](https://kellykozakandjoshdonald.substack.com/p/the-12-chef-knife-a-humble-plea)
+* [2026-03-20, 11:45:20](https://news.ycombinator.com/item?id=47453261) - [Delphi 13.1 Released, with ARM64 support](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence-update-1/)
+* [2026-03-20, 11:15:44](https://news.ycombinator.com/item?id=47453045) - [The Reason Windows Hate Is Exploding: It's the End of Personal Computing [video]](https://www.youtube.com/watch?v=e7a89ZYcTo8)
 * [2026-03-20, 11:10:17](https://news.ycombinator.com/item?id=47453010) - [AI (2014)](https://blog.samaltman.com/ai)
 * [2026-03-20, 11:03:27](https://news.ycombinator.com/item?id=47452955) - [Entso-E final report on Iberian 2025 blackout](https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/)
 * [2026-03-20, 10:46:15](https://news.ycombinator.com/item?id=47452828) - [3M's PFAS exit killed the supply chain for two-phase immersion cooling in DCs](https://thecoolingreport.com/intel.html)
+* [2026-03-20, 09:59:56](https://news.ycombinator.com/item?id=47452515) - [Show HN: Sonar – A tiny CLI to see and kill whatever's running on localhost](https://github.com/RasKrebs/sonar)
 * [2026-03-20, 09:41:51](https://news.ycombinator.com/item?id=47452404) - [Cursor Composer 2 is just Kimi K2.5 with RL](https://twitter.com/fynnso/status/2034706304875602030)
 * [2026-03-20, 09:40:56](https://news.ycombinator.com/item?id=47452399) - [The Soul of a Pedicab Driver](https://www.sheldonbrown.com/pedicab.html)
 * [2026-03-20, 09:17:44](https://news.ycombinator.com/item?id=47452248) - [Essex police pause facial recognition camera use after study finds racial bias](https://www.theguardian.com/technology/2026/mar/19/essex-police-pause-facial-recognition-camera-use-study-racial-bias)
