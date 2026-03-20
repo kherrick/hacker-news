@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
+* [2026-03-20, 17:05:38](https://news.ycombinator.com/item?id=47457472) - [Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility](https://news.ycombinator.com/item?id=47457472)
+* [2026-03-20, 16:41:42](https://news.ycombinator.com/item?id=47457107) - [MacBook M5 Pro and Qwen3.5 = Local AI Security System](https://www.sharpai.org/benchmark/)
+* [2026-03-20, 16:34:04](https://news.ycombinator.com/item?id=47456987) - [90% of crypto's Illinois primary spending failed to achieve its objective](https://www.mollywhite.net/micro/entry/202603172318)
 * [2026-03-20, 15:39:19](https://news.ycombinator.com/item?id=47456153) - [Oregon School Cell Phone Ban: 'Engaged Students, Joyful Teachers'](https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/)
+* [2026-03-20, 14:56:03](https://news.ycombinator.com/item?id=47455489) - [Having Kids (2019)](https://paulgraham.com/kids.html)
 * [2026-03-20, 14:48:09](https://news.ycombinator.com/item?id=47455365) - [Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot](https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/)
 * [2026-03-20, 14:09:58](https://news.ycombinator.com/item?id=47454782) - [Chuck Norris Has Died](https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/)
 * [2026-03-20, 14:04:39](https://news.ycombinator.com/item?id=47454694) - [Germany Mandates ODF for Public Administration](https://linuxiac.com/germany-mandates-odf-for-public-administration/)
