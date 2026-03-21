@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-21](index.md)
 
+* [2026-03-21, 21:49:56](https://news.ycombinator.com/item?id=47471805) - [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)
+* [2026-03-21, 21:49:15](https://news.ycombinator.com/item?id=47471801) - [Floci – A free, open-source local AWS emulator](https://github.com/hectorvent/floci)
 * [2026-03-21, 21:27:50](https://news.ycombinator.com/item?id=47471601) - [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
 * [2026-03-21, 20:53:43](https://news.ycombinator.com/item?id=47471213) - [Revert \"userdb: add birthDate field to JSON user records](https://github.com/systemd/systemd/pull/41179)
 * [2026-03-21, 20:32:20](https://news.ycombinator.com/item?id=47470991) - [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/)
@@ -19,11 +21,13 @@
 * [2026-03-21, 17:52:51](https://news.ycombinator.com/item?id=47469417) - [Passengers who refuse to use headphones can now be kicked off United flights](https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries)
 * [2026-03-21, 17:48:53](https://news.ycombinator.com/item?id=47469373) - [Why Some Men Struggle to Keep Up with Friendships](https://www.theatlantic.com/newsletters/2026/03/an-unlikely-model-for-male-friendship/686496/)
 * [2026-03-21, 17:46:00](https://news.ycombinator.com/item?id=47469331) - [Hide macOS Tahoe's Menu Icons](https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/)
+* [2026-03-21, 17:03:32](https://news.ycombinator.com/item?id=47468849) - [Seam carving with forward energy](https://pictolab.io/seam-carving)
 * [2026-03-21, 15:59:42](https://news.ycombinator.com/item?id=47468209) - [Apple Announces New Mac Sales Record Following MacBook Neo Launch](https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/)
 * [2026-03-21, 15:49:30](https://news.ycombinator.com/item?id=47468104) - [Show HN: A deterministic middleware to compress LLM prompts by 50-80%](https://github.com/ARPAHLS/skillware)
 * [2026-03-21, 15:30:29](https://news.ycombinator.com/item?id=47467913) - [Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
 * [2026-03-21, 15:10:54](https://news.ycombinator.com/item?id=47467746) - [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/)
 * [2026-03-21, 15:02:30](https://news.ycombinator.com/item?id=47467671) - [Show HN: Joonote – A note-taking app on your lock screen and notification panel](https://joonote.com/)
+* [2026-03-21, 14:55:42](https://news.ycombinator.com/item?id=47467623) - [How Ford burned $12B in Brazil (2021)](https://www.reuters.com/business/autos-transportation/how-ford-burned-12-billion-brazil-2021-05-20/)
 * [2026-03-21, 14:54:38](https://news.ycombinator.com/item?id=47467609) - [Iran launched unsuccessful attack on UK's Diego Garcia](https://www.bbc.com/news/articles/c5yljdgwppzo)
 * [2026-03-21, 14:50:18](https://news.ycombinator.com/item?id=47467567) - [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/)
 * [2026-03-21, 14:50:13](https://news.ycombinator.com/item?id=47467566) - [Senior European journalist suspended over AI-generated quotes](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
