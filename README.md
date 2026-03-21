@@ -2,6 +2,7 @@
 
 * [2026-03-21, 20:08:37](https://news.ycombinator.com/item?id=47470773) - [Tinybox- offline AI device 120B parameters](https://tinygrad.org/#tinybox)
 * [2026-03-21, 20:05:58](https://news.ycombinator.com/item?id=47470750) - [No evidence cannabis helps anxiety, depression, or PTSD](https://www.sciencedaily.com/releases/2026/03/260319044656.htm)
+* [2026-03-21, 20:04:08](https://news.ycombinator.com/item?id=47470734) - [Common Lisp Development Tooling](https://www.creativetension.co/posts/common-lisp-development-tooling)
 * [2026-03-21, 19:55:23](https://news.ycombinator.com/item?id=47470658) - [Hawaii's worst flooding in 20 years threatens dam, prompts evacuations](https://www.nbcnews.com/weather/floods/hawaii-worst-flooding-in-20-years-rcna264573)
 * [2026-03-21, 18:42:38](https://news.ycombinator.com/item?id=47469949) - [Show HN: Termcraft – terminal-first 2D sandbox survival in Rust](https://github.com/pagel-s/termcraft)
 * [2026-03-21, 15:30:29](https://news.ycombinator.com/item?id=47467913) - [Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
@@ -20,7 +21,6 @@
 * [2026-03-20, 21:03:52](https://news.ycombinator.com/item?id=47460525) - [OpenCode – Open source AI coding agent](https://opencode.ai/)
 * [2026-03-20, 20:54:57](https://news.ycombinator.com/item?id=47460452) - [A Japanese glossary of chopsticks faux pas (2022)](https://www.nippon.com/en/japan-data/h01362/)
 * [2026-03-20, 14:33:41](https://news.ycombinator.com/item?id=47455138) - [Molly guard in reverse](https://unsung.aresluna.org/molly-guard-in-reverse/)
-* [2026-03-19, 04:49:33](https://news.ycombinator.com/item?id=47435081) - [Fujifilm X RAW STUDIO webapp clone](https://github.com/eggricesoy/filmkit)
 * [2026-03-19, 04:40:59](https://news.ycombinator.com/item?id=47435028) - [How Invisalign became the biggest user of 3D printers](https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/)
 * [2026-03-19, 04:35:51](https://news.ycombinator.com/item?id=47434986) - [Electronics for Kids, 2nd Edition](https://nostarch.com/electronics-for-kids-2e)
 * [2026-03-19, 00:58:25](https://news.ycombinator.com/item?id=47433429) - [Books of the Century by Le Monde](https://standardebooks.org/collections/le-mondes-100-books-of-the-century)

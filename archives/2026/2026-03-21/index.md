@@ -6,6 +6,7 @@
 
 * [2026-03-21, 20:08:37](https://news.ycombinator.com/item?id=47470773) - [Tinybox- offline AI device 120B parameters](https://tinygrad.org/#tinybox)
 * [2026-03-21, 20:05:58](https://news.ycombinator.com/item?id=47470750) - [No evidence cannabis helps anxiety, depression, or PTSD](https://www.sciencedaily.com/releases/2026/03/260319044656.htm)
+* [2026-03-21, 20:04:08](https://news.ycombinator.com/item?id=47470734) - [Common Lisp Development Tooling](https://www.creativetension.co/posts/common-lisp-development-tooling)
 * [2026-03-21, 19:55:23](https://news.ycombinator.com/item?id=47470658) - [Hawaii's worst flooding in 20 years threatens dam, prompts evacuations](https://www.nbcnews.com/weather/floods/hawaii-worst-flooding-in-20-years-rcna264573)
 * [2026-03-21, 18:42:38](https://news.ycombinator.com/item?id=47469949) - [Show HN: Termcraft – terminal-first 2D sandbox survival in Rust](https://github.com/pagel-s/termcraft)
 * [2026-03-21, 18:42:04](https://news.ycombinator.com/item?id=47469945) - [C Bit-Field Pitfalls](https://www.os2museum.com/wp/bitfield-pitfalls/)
