@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-03-21, 00:54:27",
-      "https://news.ycombinator.com/item?id=47462915"
-    ],
-    [
-      "Traces of Evil",
-      "https://www.tracesofevil.com/"
-    ]
-  ],
-  [
-    [
       "2026-03-20, 23:57:22",
       "https://news.ycombinator.com/item?id=47462483"
     ],
@@ -77,6 +67,16 @@
     [
       "We rewrote our Rust WASM parser in TypeScript and it got faster",
       "https://www.openui.com/blog/rust-wasm-parser"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 21:04:11",
+      "https://news.ycombinator.com/item?id=47460528"
+    ],
+    [
+      "Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts",
+      "https://github.com/FormerLab/shadow-fleet-tracker-light"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-03-17, 22:45:12",
+      "https://news.ycombinator.com/item?id=47419391"
+    ],
+    [
+      "Mamba-3",
+      "https://www.together.ai/blog/mamba-3"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 18:43:53",
       "https://news.ycombinator.com/item?id=47416543"
     ],
@@ -287,16 +297,6 @@
     [
       "VisiCalc Reconstructed",
       "https://zserge.com/posts/visicalc/"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 01:02:41",
-      "https://news.ycombinator.com/item?id=47407293"
-    ],
-    [
-      "Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg",
-      "https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg"
     ]
   ]
 ]
