@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-03-21](index.md)
 
+* [2026-03-21, 14:50:18](https://news.ycombinator.com/item?id=47467567) - [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/)
+* [2026-03-21, 14:46:56](https://news.ycombinator.com/item?id=47467537) - [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
 * [2026-03-21, 14:22:48](https://news.ycombinator.com/item?id=47467300) - [Major leap towards reanimation after death as mammal's brain preserved](https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/)
 * [2026-03-21, 13:52:22](https://news.ycombinator.com/item?id=47467034) - [Why western carmakers' retreat from electric risks dooming them to irrelevance](https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china)
 * [2026-03-21, 13:38:11](https://news.ycombinator.com/item?id=47466922) - [Just make it hard to fail](https://nekolucifer.substack.com/p/just-make-it-really-hard-to-fail)
 * [2026-03-21, 13:12:10](https://news.ycombinator.com/item?id=47466697) - [Mayor of Paris removed parking spaces, \"drastically\" reduced the number of cars](https://www.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor)
 * [2026-03-21, 12:06:03](https://news.ycombinator.com/item?id=47466294) - [How BYD Got EV Chargers to Work Almost as Fast as Gas Pumps](https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/)
 * [2026-03-21, 10:35:20](https://news.ycombinator.com/item?id=47465824) - [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/)
+* [2026-03-21, 09:38:23](https://news.ycombinator.com/item?id=47465550) - [AI Team OS – Turn Claude Code into a Self-Managing AI Team](https://github.com/CronusL-1141/AI-company)
 * [2026-03-21, 07:36:07](https://news.ycombinator.com/item?id=47464859) - [Man pleads guilty to $8M AI-generated music scheme](https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme)
 * [2026-03-21, 07:30:16](https://news.ycombinator.com/item?id=47464818) - [Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 * [2026-03-21, 06:45:55](https://news.ycombinator.com/item?id=47464574) - [Italy, Belgium set to lose gas supply after biggest LNG plant bombed](https://www.politico.eu/article/italy-belgium-lose-gas-supply-world-biggest-lng-plant-bombed/)
