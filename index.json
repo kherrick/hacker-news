@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2026-03-21, 15:30:29",
+      "https://news.ycombinator.com/item?id=47467913"
+    ],
+    [
+      "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646"
+    ]
+  ],
+  [
+    [
       "2026-03-21, 15:10:54",
       "https://news.ycombinator.com/item?id=47467746"
     ],
     [
       "404 Deno CEO not found",
       "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 15:02:30",
+      "https://news.ycombinator.com/item?id=47467671"
+    ],
+    [
+      "Show HN: Joonote – A note-taking app on your lock screen and notification panel",
+      "https://joonote.com/"
     ]
   ],
   [
@@ -57,26 +77,6 @@
     [
       "Some Things Just Take Time",
       "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 12:43:09",
-      "https://news.ycombinator.com/item?id=47466513"
-    ],
-    [
-      "Show HN: AI SDLC Scaffold, repo template for AI-assisted software development",
-      "https://github.com/pangon/ai-sdlc-scaffold/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 12:36:51",
-      "https://news.ycombinator.com/item?id=47466463"
-    ],
-    [
-      "Is playing music good for the brain?",
-      "https://www.economist.com/science-and-technology/2026/03/20/is-playing-music-good-for-the-brain"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-03-18, 21:29:14",
-      "https://news.ycombinator.com/item?id=47431653"
-    ],
-    [
-      "Cryptography in Home Entertainment (2004)",
-      "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/"
-    ]
-  ],
-  [
-    [
       "2026-03-18, 21:26:23",
       "https://news.ycombinator.com/item?id=47431625"
     ],
@@ -247,6 +237,26 @@
     [
       "An industrial piping contractor on Claude Code [video]",
       "https://twitter.com/toddsaunders/status/2034243420147859716"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 18:33:09",
+      "https://news.ycombinator.com/item?id=47429562"
+    ],
+    [
+      "I Built a Spy Satellite Simulator in a Browser. Here's What I Learned",
+      "https://www.spatialintelligence.ai/p/i-built-a-spy-satellite-simulator"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 17:22:04",
+      "https://news.ycombinator.com/item?id=47428544"
+    ],
+    [
+      "How HN: Ironkernel – Python expressions, Rust parallel",
+      "https://github.com/YuminosukeSato/ironkernel"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Mamba-3",
       "https://www.together.ai/blog/mamba-3"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 18:49:39",
-      "https://news.ycombinator.com/item?id=47416607"
-    ],
-    [
-      "Padel Chess – tactical simulator for padel",
-      "https://www.padelchess.me/"
     ]
   ],
   [
