@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-21, 07:36:07](https://news.ycombinator.com/item?id=47464859) - [Man pleads guilty to $8M AI-generated music scheme](https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme)
-* [2026-03-21, 06:45:55](https://news.ycombinator.com/item?id=47464574) - [Italy, Belgium set to lose gas supply after biggest LNG plant bombed](https://www.politico.eu/article/italy-belgium-lose-gas-supply-world-biggest-lng-plant-bombed/)
 * [2026-03-21, 05:06:11](https://news.ycombinator.com/item?id=47464134) - [Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords](https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/)
 * [2026-03-21, 02:47:13](https://news.ycombinator.com/item?id=47463547) - [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/)
 * [2026-03-21, 02:09:08](https://news.ycombinator.com/item?id=47463354) - [purl: a curl-esque CLI for making HTTP requests that require payment](https://www.purl.dev/)
@@ -16,6 +15,7 @@
 * [2026-03-20, 18:23:41](https://news.ycombinator.com/item?id=47458595) - [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)
 * [2026-03-20, 14:33:41](https://news.ycombinator.com/item?id=47455138) - [Molly Guard](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html)
 * [2026-03-20, 13:01:56](https://news.ycombinator.com/item?id=47453942) - [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
+* [2026-03-20, 11:03:27](https://news.ycombinator.com/item?id=47452955) - [Entso-E final report on Iberian 2025 blackout](https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/)
 * [2026-03-20, 04:24:11](https://news.ycombinator.com/item?id=47450478) - [ArXiv declares independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)
 * [2026-03-19, 19:08:02](https://news.ycombinator.com/item?id=47444319) - [Delve – Fake Compliance as a Service](https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service)
 * [2026-03-19, 04:49:33](https://news.ycombinator.com/item?id=47435081) - [Fujifilm X RAW STUDIO webapp clone](https://github.com/eggricesoy/filmkit)
