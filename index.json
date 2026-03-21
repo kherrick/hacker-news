@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-21, 02:47:13",
+      "https://news.ycombinator.com/item?id=47463547"
+    ],
+    [
+      "FFmpeg 101 (2024)",
+      "https://blogs.igalia.com/llepage/ffmpeg-101/"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 02:09:08",
+      "https://news.ycombinator.com/item?id=47463354"
+    ],
+    [
+      "purl: a curl-esque CLI for making HTTP requests that require payment",
+      "https://www.purl.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 00:54:27",
+      "https://news.ycombinator.com/item?id=47462915"
+    ],
+    [
+      "Traces of Evil",
+      "https://www.tracesofevil.com/"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 23:57:22",
       "https://news.ycombinator.com/item?id=47462483"
     ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2026-03-20, 21:04:11",
-      "https://news.ycombinator.com/item?id=47460528"
-    ],
-    [
-      "Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts",
-      "https://github.com/FormerLab/shadow-fleet-tracker-light"
-    ]
-  ],
-  [
-    [
       "2026-03-20, 21:03:52",
       "https://news.ycombinator.com/item?id=47460525"
     ],
@@ -107,26 +127,6 @@
     [
       "Attention Residuals",
       "https://github.com/MoonshotAI/Attention-Residuals"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 18:06:20",
-      "https://news.ycombinator.com/item?id=47458348"
-    ],
-    [
-      "Show HN: I made an email app inspired by Arc browser",
-      "https://demo.define.app"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 15:55:40",
-      "https://news.ycombinator.com/item?id=47456421"
-    ],
-    [
-      "Meme Buildings",
-      "https://misfitsarchitecture.com/2026/03/15/meme-buildings/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-03-18, 21:29:14",
+      "https://news.ycombinator.com/item?id=47431653"
+    ],
+    [
+      "A look at content scrambling in DVDs",
+      "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 16:52:58",
       "https://news.ycombinator.com/item?id=47428132"
     ],
@@ -277,16 +287,6 @@
     [
       "VisiCalc Reconstructed",
       "https://zserge.com/posts/visicalc/"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 05:38:26",
-      "https://news.ycombinator.com/item?id=47409055"
-    ],
-    [
-      "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
-      "https://arxiv.org/abs/2603.09229"
     ]
   ],
   [
