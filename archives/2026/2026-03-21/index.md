@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-21](index.md)
 
+* [2026-03-21, 20:08:37](https://news.ycombinator.com/item?id=47470773) - [Tinybox- offline AI device 120B parameters](https://tinygrad.org/#tinybox)
+* [2026-03-21, 18:42:38](https://news.ycombinator.com/item?id=47469949) - [Show HN: Termcraft – terminal-first 2D sandbox survival in Rust](https://github.com/pagel-s/termcraft)
 * [2026-03-21, 18:42:04](https://news.ycombinator.com/item?id=47469945) - [C Bit-Field Pitfalls](https://www.os2museum.com/wp/bitfield-pitfalls/)
 * [2026-03-21, 18:21:50](https://news.ycombinator.com/item?id=47469757) - [Former FBI Director Robert Mueller Has Died](https://apnews.com/article/robert-mueller-fbi-director-trump-russia-investigation-7aca939dc25d4652815376f73e0f9aaf)
 * [2026-03-21, 17:52:51](https://news.ycombinator.com/item?id=47469417) - [Passengers who refuse to use headphones can now be kicked off United flights](https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries)
