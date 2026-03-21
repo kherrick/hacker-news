@@ -21,6 +21,7 @@
 * [2026-03-18, 17:46:25](https://news.ycombinator.com/item?id=47428868) - [Show HN: Tmux-IDE, OSS agent-first terminal IDE](https://tmux.thijsverreck.com)
 * [2026-03-18, 17:42:10](https://news.ycombinator.com/item?id=47428810) - [EU Inc.: A new harmonised corporate legal regime](https://commission.europa.eu/topics/business-and-industry/doing-business-eu/company-law-and-corporate-governance/eu-inc-new-harmonised-corporate-legal-regime_en)
 * [2026-03-18, 17:36:31](https://news.ycombinator.com/item?id=47428734) - [I haven't used a mouse for 14 years](https://axelk.ee/i-havent-used-a-mouse-for-14-years-and-how-to-enable-three-fingers-drag-on-macos/)
+* [2026-03-18, 17:33:26](https://news.ycombinator.com/item?id=47428698) - [Why One Key Shouldn't Rule Them All: Threshold Signatures for the Rest of Us](https://eric.mann.blog/why-one-key-shouldnt-rule-them-all-threshold-signatures-for-the-rest-of-us/)
 * [2026-03-18, 17:29:21](https://news.ycombinator.com/item?id=47428650) - [Show HN: Will my flight have Starlink?](https://news.ycombinator.com/item?id=47428650)
 * [2026-03-18, 17:27:11](https://news.ycombinator.com/item?id=47428611) - [Iran's South Pars Gas Field Is Attacked by Israel, Sending Energy Prices Soaring](https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-south-pars-gas-oil-prices.html)
 * [2026-03-18, 17:22:02](https://news.ycombinator.com/item?id=47428541) - [AI Coding Is Gambling](https://notes.visaint.space/ai-coding-is-gambling/)
