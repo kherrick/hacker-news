@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-03-21, 15:49:30",
+      "https://news.ycombinator.com/item?id=47468104"
+    ],
+    [
+      "Show HN: A deterministic middleware to compress LLM prompts by 50-80%",
+      "https://github.com/ARPAHLS/skillware"
+    ]
+  ],
+  [
+    [
       "2026-03-21, 15:10:54",
       "https://news.ycombinator.com/item?id=47467746"
     ],
@@ -31,22 +41,22 @@
   ],
   [
     [
+      "2026-03-21, 14:50:13",
+      "https://news.ycombinator.com/item?id=47467566"
+    ],
+    [
+      "Senior European journalist suspended over AI-generated quotes",
+      "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes"
+    ]
+  ],
+  [
+    [
       "2026-03-21, 14:46:56",
       "https://news.ycombinator.com/item?id=47467537"
     ],
     [
       "Some Things Just Take Time",
       "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 14:22:48",
-      "https://news.ycombinator.com/item?id=47467300"
-    ],
-    [
-      "Major leap towards reanimation after death as mammal's brain preserved",
-      "https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/"
     ]
   ],
   [
@@ -165,18 +175,8 @@
       "https://news.ycombinator.com/item?id=47455138"
     ],
     [
-      "Molly Guard",
-      "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 13:01:56",
-      "https://news.ycombinator.com/item?id=47453942"
-    ],
-    [
-      "France's aircraft carrier located in real time by Le Monde through fitness app",
-      "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html"
+      "Molly guard in reverse",
+      "https://unsung.aresluna.org/molly-guard-in-reverse/"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-03-18, 21:29:14",
-      "https://news.ycombinator.com/item?id=47431653"
+      "2026-03-18, 21:26:23",
+      "https://news.ycombinator.com/item?id=47431625"
     ],
     [
-      "Cryptography in Home Entertainment (2004)",
-      "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/"
+      "ZJIT removes redundant object loads and stores",
+      "https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/"
     ]
   ],
   [
