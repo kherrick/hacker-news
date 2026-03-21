@@ -68,6 +68,7 @@
 * [2026-03-18, 05:58:34](https://news.ycombinator.com/item?id=47422022) - [Show HN: The Lottery of Life](https://claude.ai/public/artifacts/a62c4bac-3c05-4443-9d0a-50a9bd3f9d8d)
 * [2026-03-18, 05:44:23](https://news.ycombinator.com/item?id=47421946) - [Switzerland Built an Alternative to BGP](https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/)
 * [2026-03-18, 05:18:02](https://news.ycombinator.com/item?id=47421828) - [SSH has no Host header](https://blog.exe.dev/ssh-host-header)
+* [2026-03-18, 05:00:18](https://news.ycombinator.com/item?id=47421749) - [Meta's Omnilingual MT for 1,600 Languages](https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1)
 * [2026-03-18, 04:44:12](https://news.ycombinator.com/item?id=47421670) - [Review of Microsoft's ClearType Font Collection (2005)](https://typographica.org/on-typography/microsofts-cleartype-font-collection-a-fair-and-balanced-review/)
 * [2026-03-18, 04:11:20](https://news.ycombinator.com/item?id=47421513) - [Forget Flags and Scripts: Just Rename the File](https://robertsdotpm.github.io/software_engineering/program_names_as_input.html)
 * [2026-03-18, 03:53:42](https://news.ycombinator.com/item?id=47421442) - [Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/)
