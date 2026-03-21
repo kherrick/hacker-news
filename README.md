@@ -19,6 +19,7 @@
 * [2026-03-19, 04:49:33](https://news.ycombinator.com/item?id=47435081) - [Fujifilm X RAW STUDIO webapp clone](https://github.com/eggricesoy/filmkit)
 * [2026-03-19, 01:45:23](https://news.ycombinator.com/item?id=47433755) - [The Story of Marina Abramovic and Ulay (2020)](https://www.sydney-yaeko.com/artsandculture/marina-and-ulay)
 * [2026-03-18, 21:29:14](https://news.ycombinator.com/item?id=47431653) - [Cryptography in Home Entertainment (2004)](https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/)
+* [2026-03-18, 17:22:04](https://news.ycombinator.com/item?id=47428544) - [How HN: Ironkernel – Python expressions, Rust parallel](https://github.com/YuminosukeSato/ironkernel)
 * [2026-03-18, 16:52:58](https://news.ycombinator.com/item?id=47428132) - [The Ugliest Airplane: An Appreciation](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
 * [2026-03-18, 13:00:39](https://news.ycombinator.com/item?id=47425257) - [Lent and Lisp](https://leancrew.com/all-this/2026/02/lent-and-lisp/)
 * [2026-03-18, 12:16:26](https://news.ycombinator.com/item?id=47424752) - [Turing Award Honors Bennett and Brassard for Quantum Information Science](https://amturing.acm.org)
@@ -28,7 +29,6 @@
 * [2026-03-17, 18:49:39](https://news.ycombinator.com/item?id=47416607) - [Padel Chess – tactical simulator for padel](https://www.padelchess.me/)
 * [2026-03-17, 18:43:53](https://news.ycombinator.com/item?id=47416543) - [The Los Angeles Aqueduct Is Wild](https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild)
 * [2026-03-17, 16:39:30](https://news.ycombinator.com/item?id=47415044) - [Show HN: I fixed FFmpeg's subtitle conversion (the bug from 2014)](https://connollydavid.github.io/pgs-release/)
-* [2026-03-17, 15:50:03](https://news.ycombinator.com/item?id=47414356) - [We give every user SQL access to a shared ClickHouse cluster](https://trigger.dev/blog/how-trql-works)
 * [2026-03-17, 10:39:55](https://news.ycombinator.com/item?id=47410871) - [VisiCalc Reconstructed](https://zserge.com/posts/visicalc/)
 
 ## [Archives](archives/index.md)

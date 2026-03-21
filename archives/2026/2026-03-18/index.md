@@ -24,6 +24,7 @@
 * [2026-03-18, 17:33:26](https://news.ycombinator.com/item?id=47428698) - [Why One Key Shouldn't Rule Them All: Threshold Signatures for the Rest of Us](https://eric.mann.blog/why-one-key-shouldnt-rule-them-all-threshold-signatures-for-the-rest-of-us/)
 * [2026-03-18, 17:29:21](https://news.ycombinator.com/item?id=47428650) - [Show HN: Will my flight have Starlink?](https://news.ycombinator.com/item?id=47428650)
 * [2026-03-18, 17:27:11](https://news.ycombinator.com/item?id=47428611) - [Iran's South Pars Gas Field Is Attacked by Israel, Sending Energy Prices Soaring](https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-south-pars-gas-oil-prices.html)
+* [2026-03-18, 17:22:04](https://news.ycombinator.com/item?id=47428544) - [How HN: Ironkernel – Python expressions, Rust parallel](https://github.com/YuminosukeSato/ironkernel)
 * [2026-03-18, 17:22:02](https://news.ycombinator.com/item?id=47428541) - [AI Coding Is Gambling](https://notes.visaint.space/ai-coding-is-gambling/)
 * [2026-03-18, 17:11:30](https://news.ycombinator.com/item?id=47428391) - [Spotify playing ads for paid subscribers](https://news.ycombinator.com/item?id=47428391)
 * [2026-03-18, 17:07:21](https://news.ycombinator.com/item?id=47428335) - [Americans Recognize AI as a Wealth Inequality Machine, Polls Find](https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713)
