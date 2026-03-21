@@ -2,7 +2,6 @@
 
 * [2026-03-21, 18:21:50](https://news.ycombinator.com/item?id=47469757) - [Former FBI Director Robert Mueller Has Died](https://apnews.com/article/robert-mueller-fbi-director-trump-russia-investigation-7aca939dc25d4652815376f73e0f9aaf)
 * [2026-03-21, 17:52:51](https://news.ycombinator.com/item?id=47469417) - [Passengers who refuse to use headphones can now be kicked off United flights](https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries)
-* [2026-03-21, 17:48:53](https://news.ycombinator.com/item?id=47469373) - [Why Some Men Struggle to Keep Up with Friendships](https://www.theatlantic.com/newsletters/2026/03/an-unlikely-model-for-male-friendship/686496/)
 * [2026-03-21, 15:30:29](https://news.ycombinator.com/item?id=47467913) - [Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
 * [2026-03-21, 15:10:54](https://news.ycombinator.com/item?id=47467746) - [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/)
 * [2026-03-21, 15:02:30](https://news.ycombinator.com/item?id=47467671) - [Show HN: Joonote – A note-taking app on your lock screen and notification panel](https://joonote.com/)
@@ -30,6 +29,7 @@
 * [2026-03-18, 05:00:18](https://news.ycombinator.com/item?id=47421749) - [Meta's Omnilingual MT for 1,600 Languages](https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1)
 * [2026-03-17, 22:45:12](https://news.ycombinator.com/item?id=47419391) - [Mamba-3](https://www.together.ai/blog/mamba-3)
 * [2026-03-17, 15:50:03](https://news.ycombinator.com/item?id=47414356) - [How we give every user SQL access to a shared ClickHouse cluster](https://trigger.dev/blog/how-trql-works)
+* [2026-03-17, 11:14:23](https://news.ycombinator.com/item?id=47411110) - [The seven hour explosion nobody could explain](https://phys.org/news/2026-03-hour-explosion.html)
 
 ## [Archives](archives/index.md)
 
