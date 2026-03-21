@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-21, 06:13:59",
+      "https://news.ycombinator.com/item?id=47464438"
+    ],
+    [
+      "Ask ChatGPT to pick a number from 1-10000, it generally selects from 7200-7500",
+      "https://old.reddit.com/r/ChatGPT/comments/1rz2ooh/i_am_betting_my_house_that_if_you_ask_gpt_to_pick/"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 06:03:46",
+      "https://news.ycombinator.com/item?id=47464394"
+    ],
+    [
+      "Google adds 24-hour wait and mandatory reboot to Android sideloading flow",
+      "https://android-developers.googleblog.com/2025/08/elevating-android-security.html"
+    ]
+  ],
+  [
+    [
       "2026-03-21, 05:06:11",
       "https://news.ycombinator.com/item?id=47464134"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-03-20, 19:29:39",
-      "https://news.ycombinator.com/item?id=47459447"
-    ],
-    [
-      "NumKong: 2'000 Mixed Precision Kernels for All",
-      "https://ashvardanian.com/posts/numkong/"
-    ]
-  ],
-  [
-    [
       "2026-03-20, 19:16:13",
       "https://news.ycombinator.com/item?id=47459296"
     ],
@@ -177,16 +187,6 @@
     [
       "Delve – Fake Compliance as a Service",
       "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 12:24:46",
-      "https://news.ycombinator.com/item?id=47438169"
-    ],
-    [
-      "An FAQ on Reinforcement Learning Environments",
-      "https://epoch.ai/gradient-updates/state-of-rl-envs"
     ]
   ],
   [
