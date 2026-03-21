@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-21](index.md)
 
+* [2026-03-21, 15:59:42](https://news.ycombinator.com/item?id=47468209) - [Apple Announces New Mac Sales Record Following MacBook Neo Launch](https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/)
+* [2026-03-21, 15:10:54](https://news.ycombinator.com/item?id=47467746) - [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/)
 * [2026-03-21, 14:50:18](https://news.ycombinator.com/item?id=47467567) - [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/)
 * [2026-03-21, 14:46:56](https://news.ycombinator.com/item?id=47467537) - [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
 * [2026-03-21, 14:22:48](https://news.ycombinator.com/item?id=47467300) - [Major leap towards reanimation after death as mammal's brain preserved](https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/)
