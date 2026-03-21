@@ -11,6 +11,7 @@
 * [2026-03-18, 21:57:58](https://news.ycombinator.com/item?id=47431930) - [What's on HTTP?](https://whatsonhttp.com/)
 * [2026-03-18, 21:31:12](https://news.ycombinator.com/item?id=47431671) - [Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training](https://github.com/alainnothere/llm-circuit-finder)
 * [2026-03-18, 21:29:14](https://news.ycombinator.com/item?id=47431653) - [A look at content scrambling in DVDs](https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/)
+* [2026-03-18, 21:26:23](https://news.ycombinator.com/item?id=47431625) - [ZJIT removes redundant object loads and stores](https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/)
 * [2026-03-18, 20:52:30](https://news.ycombinator.com/item?id=47431304) - [Work_mem: It's a Trap](https://mydbanotebook.org/posts/work_mem-its-a-trap/)
 * [2026-03-18, 20:50:56](https://news.ycombinator.com/item?id=47431288) - [An industrial piping contractor on Claude Code [video]](https://twitter.com/toddsaunders/status/2034243420147859716)
 * [2026-03-18, 20:45:54](https://news.ycombinator.com/item?id=47431237) - [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
