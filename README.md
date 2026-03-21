@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-21, 14:22:48](https://news.ycombinator.com/item?id=47467300) - [Major leap towards reanimation after death as mammal's brain preserved](https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/)
 * [2026-03-21, 13:52:22](https://news.ycombinator.com/item?id=47467034) - [Why western carmakers' retreat from electric risks dooming them to irrelevance](https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china)
 * [2026-03-21, 13:38:11](https://news.ycombinator.com/item?id=47466922) - [Just make it hard to fail](https://nekolucifer.substack.com/p/just-make-it-really-hard-to-fail)
 * [2026-03-21, 13:12:10](https://news.ycombinator.com/item?id=47466697) - [Mayor of Paris removed parking spaces, \"drastically\" reduced the number of cars](https://www.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor)
-* [2026-03-21, 10:35:20](https://news.ycombinator.com/item?id=47465824) - [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/)
 * [2026-03-21, 07:30:16](https://news.ycombinator.com/item?id=47464818) - [Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 * [2026-03-21, 02:47:13](https://news.ycombinator.com/item?id=47463547) - [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/)
 * [2026-03-20, 23:57:22](https://news.ycombinator.com/item?id=47462483) - [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e)
@@ -17,6 +17,7 @@
 * [2026-03-20, 13:01:56](https://news.ycombinator.com/item?id=47453942) - [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 * [2026-03-19, 04:49:33](https://news.ycombinator.com/item?id=47435081) - [Fujifilm X RAW STUDIO webapp clone](https://github.com/eggricesoy/filmkit)
 * [2026-03-19, 01:45:23](https://news.ycombinator.com/item?id=47433755) - [The Story of Marina Abramovic and Ulay (2020)](https://www.sydney-yaeko.com/artsandculture/marina-and-ulay)
+* [2026-03-19, 00:58:25](https://news.ycombinator.com/item?id=47433429) - [Books of the Century by Le Monde](https://standardebooks.org/collections/le-mondes-100-books-of-the-century)
 * [2026-03-18, 21:29:14](https://news.ycombinator.com/item?id=47431653) - [Cryptography in Home Entertainment (2004)](https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/)
 * [2026-03-18, 20:50:56](https://news.ycombinator.com/item?id=47431288) - [An industrial piping contractor on Claude Code [video]](https://twitter.com/toddsaunders/status/2034243420147859716)
 * [2026-03-18, 17:22:04](https://news.ycombinator.com/item?id=47428544) - [How HN: Ironkernel – Python expressions, Rust parallel](https://github.com/YuminosukeSato/ironkernel)
@@ -28,7 +29,6 @@
 * [2026-03-17, 22:45:12](https://news.ycombinator.com/item?id=47419391) - [Mamba-3](https://www.together.ai/blog/mamba-3)
 * [2026-03-17, 18:49:39](https://news.ycombinator.com/item?id=47416607) - [Padel Chess – tactical simulator for padel](https://www.padelchess.me/)
 * [2026-03-17, 18:43:53](https://news.ycombinator.com/item?id=47416543) - [The Los Angeles Aqueduct Is Wild](https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild)
-* [2026-03-17, 16:39:30](https://news.ycombinator.com/item?id=47415044) - [Show HN: I fixed FFmpeg's subtitle conversion (the bug from 2014)](https://connollydavid.github.io/pgs-release/)
 * [2026-03-17, 10:39:55](https://news.ycombinator.com/item?id=47410871) - [VisiCalc Reconstructed](https://zserge.com/posts/visicalc/)
 
 ## [Archives](archives/index.md)

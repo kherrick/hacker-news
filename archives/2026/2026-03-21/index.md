@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-21](index.md)
 
+* [2026-03-21, 14:22:48](https://news.ycombinator.com/item?id=47467300) - [Major leap towards reanimation after death as mammal's brain preserved](https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/)
 * [2026-03-21, 13:52:22](https://news.ycombinator.com/item?id=47467034) - [Why western carmakers' retreat from electric risks dooming them to irrelevance](https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china)
 * [2026-03-21, 13:38:11](https://news.ycombinator.com/item?id=47466922) - [Just make it hard to fail](https://nekolucifer.substack.com/p/just-make-it-really-hard-to-fail)
 * [2026-03-21, 13:12:10](https://news.ycombinator.com/item?id=47466697) - [Mayor of Paris removed parking spaces, \"drastically\" reduced the number of cars](https://www.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor)
