@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-21, 13:52:22](https://news.ycombinator.com/item?id=47467034) - [Why western carmakers' retreat from electric risks dooming them to irrelevance](https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china)
+* [2026-03-21, 13:38:11](https://news.ycombinator.com/item?id=47466922) - [Just make it hard to fail](https://nekolucifer.substack.com/p/just-make-it-really-hard-to-fail)
 * [2026-03-21, 13:12:10](https://news.ycombinator.com/item?id=47466697) - [Mayor of Paris removed parking spaces, \"drastically\" reduced the number of cars](https://www.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor)
 * [2026-03-21, 10:35:20](https://news.ycombinator.com/item?id=47465824) - [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/)
 * [2026-03-21, 07:30:16](https://news.ycombinator.com/item?id=47464818) - [Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
@@ -10,7 +12,6 @@
 * [2026-03-20, 21:48:06](https://news.ycombinator.com/item?id=47461094) - [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser)
 * [2026-03-20, 21:03:52](https://news.ycombinator.com/item?id=47460525) - [OpenCode – Open source AI coding agent](https://opencode.ai/)
 * [2026-03-20, 20:54:57](https://news.ycombinator.com/item?id=47460452) - [A Japanese glossary of chopsticks faux pas (2022)](https://www.nippon.com/en/japan-data/h01362/)
-* [2026-03-20, 19:16:13](https://news.ycombinator.com/item?id=47459296) - [Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)
 * [2026-03-20, 18:23:41](https://news.ycombinator.com/item?id=47458595) - [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)
 * [2026-03-20, 14:33:41](https://news.ycombinator.com/item?id=47455138) - [Molly Guard](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html)
 * [2026-03-20, 13:01:56](https://news.ycombinator.com/item?id=47453942) - [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
@@ -18,7 +19,6 @@
 * [2026-03-19, 04:49:33](https://news.ycombinator.com/item?id=47435081) - [Fujifilm X RAW STUDIO webapp clone](https://github.com/eggricesoy/filmkit)
 * [2026-03-19, 01:45:23](https://news.ycombinator.com/item?id=47433755) - [The Story of Marina Abramovic and Ulay (2020)](https://www.sydney-yaeko.com/artsandculture/marina-and-ulay)
 * [2026-03-18, 21:29:14](https://news.ycombinator.com/item?id=47431653) - [Cryptography in Home Entertainment (2004)](https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/)
-* [2026-03-18, 20:50:56](https://news.ycombinator.com/item?id=47431288) - [An industrial piping contractor on Claude Code [video]](https://twitter.com/toddsaunders/status/2034243420147859716)
 * [2026-03-18, 16:52:58](https://news.ycombinator.com/item?id=47428132) - [The Ugliest Airplane: An Appreciation](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
 * [2026-03-18, 13:00:39](https://news.ycombinator.com/item?id=47425257) - [Lent and Lisp](https://leancrew.com/all-this/2026/02/lent-and-lisp/)
 * [2026-03-18, 12:16:26](https://news.ycombinator.com/item?id=47424752) - [Turing Award Honors Bennett and Brassard for Quantum Information Science](https://amturing.acm.org)

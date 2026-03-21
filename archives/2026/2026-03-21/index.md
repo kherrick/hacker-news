@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-21](index.md)
 
+* [2026-03-21, 13:52:22](https://news.ycombinator.com/item?id=47467034) - [Why western carmakers' retreat from electric risks dooming them to irrelevance](https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china)
+* [2026-03-21, 13:38:11](https://news.ycombinator.com/item?id=47466922) - [Just make it hard to fail](https://nekolucifer.substack.com/p/just-make-it-really-hard-to-fail)
 * [2026-03-21, 13:12:10](https://news.ycombinator.com/item?id=47466697) - [Mayor of Paris removed parking spaces, \"drastically\" reduced the number of cars](https://www.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor)
 * [2026-03-21, 12:06:03](https://news.ycombinator.com/item?id=47466294) - [How BYD Got EV Chargers to Work Almost as Fast as Gas Pumps](https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/)
 * [2026-03-21, 10:35:20](https://news.ycombinator.com/item?id=47465824) - [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/)
