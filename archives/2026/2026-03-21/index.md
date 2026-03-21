@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-21](index.md)
 
+* [2026-03-21, 18:21:50](https://news.ycombinator.com/item?id=47469757) - [Former FBI Director Robert Mueller Has Died](https://apnews.com/article/robert-mueller-fbi-director-trump-russia-investigation-7aca939dc25d4652815376f73e0f9aaf)
 * [2026-03-21, 17:52:51](https://news.ycombinator.com/item?id=47469417) - [Passengers who refuse to use headphones can now be kicked off United flights](https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries)
+* [2026-03-21, 17:48:53](https://news.ycombinator.com/item?id=47469373) - [Why Some Men Struggle to Keep Up with Friendships](https://www.theatlantic.com/newsletters/2026/03/an-unlikely-model-for-male-friendship/686496/)
 * [2026-03-21, 15:59:42](https://news.ycombinator.com/item?id=47468209) - [Apple Announces New Mac Sales Record Following MacBook Neo Launch](https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/)
 * [2026-03-21, 15:49:30](https://news.ycombinator.com/item?id=47468104) - [Show HN: A deterministic middleware to compress LLM prompts by 50-80%](https://github.com/ARPAHLS/skillware)
 * [2026-03-21, 15:30:29](https://news.ycombinator.com/item?id=47467913) - [Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
