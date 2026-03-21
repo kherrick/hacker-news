@@ -17,6 +17,7 @@
 * [2026-03-17, 19:19:44](https://news.ycombinator.com/item?id=47416972) - [How the Turner twins are mythbusting modern technical apparel](https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/)
 * [2026-03-17, 19:17:16](https://news.ycombinator.com/item?id=47416940) - [Meta Horizon Worlds on Meta Quest is being discontinued](https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435)
 * [2026-03-17, 18:59:50](https://news.ycombinator.com/item?id=47416736) - [Slug Text Rendering Algorithm Dedicated to Public Domain](https://terathon.com/blog/decade-slug.html)
+* [2026-03-17, 18:49:39](https://news.ycombinator.com/item?id=47416607) - [Padel Chess – tactical simulator for padel](https://www.padelchess.me/)
 * [2026-03-17, 18:49:22](https://news.ycombinator.com/item?id=47416604) - [How OpenClaw's Memory System Works](https://www.db0.ai/blog/how-openclaw-memory-works)
 * [2026-03-17, 18:44:09](https://news.ycombinator.com/item?id=47416548) - [Java 26 is here, and with it a solid foundation for the future](https://hanno.codes/2026/03/17/java-26-is-here/)
 * [2026-03-17, 18:43:53](https://news.ycombinator.com/item?id=47416543) - [The Los Angeles Aqueduct Is Wild](https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild)
