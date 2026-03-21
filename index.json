@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-03-21, 14:54:38",
-      "https://news.ycombinator.com/item?id=47467609"
-    ],
-    [
-      "Iran launched unsuccessful attack on UK's Diego Garcia",
-      "https://www.bbc.com/news/articles/c5yljdgwppzo"
-    ]
-  ],
-  [
-    [
       "2026-03-21, 14:50:18",
       "https://news.ycombinator.com/item?id=47467567"
     ],
@@ -57,16 +47,6 @@
     [
       "Show HN: AI SDLC Scaffold, repo template for AI-assisted software development",
       "https://github.com/pangon/ai-sdlc-scaffold/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 09:38:23",
-      "https://news.ycombinator.com/item?id=47465550"
-    ],
-    [
-      "AI Team OS – Turn Claude Code into a Self-Managing AI Team",
-      "https://github.com/CronusL-1141/AI-company"
     ]
   ],
   [
@@ -181,12 +161,32 @@
   ],
   [
     [
+      "2026-03-20, 13:01:56",
+      "https://news.ycombinator.com/item?id=47453942"
+    ],
+    [
+      "France's aircraft carrier located in real time by Le Monde through fitness app",
+      "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 04:49:33",
       "https://news.ycombinator.com/item?id=47435081"
     ],
     [
       "Fujifilm X RAW STUDIO webapp clone",
       "https://github.com/eggricesoy/filmkit"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 04:40:59",
+      "https://news.ycombinator.com/item?id=47435028"
+    ],
+    [
+      "Invisalign Became the Biggest User of 3D Printers",
+      "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-03-18, 17:22:04",
-      "https://news.ycombinator.com/item?id=47428544"
+      "2026-03-18, 12:16:26",
+      "https://news.ycombinator.com/item?id=47424752"
     ],
     [
-      "How HN: Ironkernel – Python expressions, Rust parallel",
-      "https://github.com/YuminosukeSato/ironkernel"
+      "Turing Award Honors Bennett and Brassard for Quantum Information Science",
+      "https://amturing.acm.org"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=47414356"
     ],
     [
-      "We give every user SQL access to a shared ClickHouse cluster",
+      "How we give every user SQL access to a shared ClickHouse cluster",
       "https://trigger.dev/blog/how-trql-works"
     ]
   ]
