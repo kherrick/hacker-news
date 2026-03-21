@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2026-03-18, 17:22:04",
+      "https://news.ycombinator.com/item?id=47428544"
+    ],
+    [
+      "How HN: Ironkernel – Python expressions, Rust parallel",
+      "https://github.com/YuminosukeSato/ironkernel"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 16:52:58",
       "https://news.ycombinator.com/item?id=47428132"
     ],
@@ -277,16 +287,6 @@
     [
       "Show HN: I fixed FFmpeg's subtitle conversion (the bug from 2014)",
       "https://connollydavid.github.io/pgs-release/"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 15:50:03",
-      "https://news.ycombinator.com/item?id=47414356"
-    ],
-    [
-      "We give every user SQL access to a shared ClickHouse cluster",
-      "https://trigger.dev/blog/how-trql-works"
     ]
   ],
   [
