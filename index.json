@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-21, 10:35:20",
+      "https://news.ycombinator.com/item?id=47465824"
+    ],
+    [
+      "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
+      "https://blog.atuin.sh/atuin-v18-13/"
+    ]
+  ],
+  [
+    [
       "2026-03-21, 07:30:16",
       "https://news.ycombinator.com/item?id=47464818"
     ],
@@ -27,16 +37,6 @@
     [
       "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
       "https://github.com/arnoldrobbins/LinuxByExample-2e"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 22:25:51",
-      "https://news.ycombinator.com/item?id=47461529"
-    ],
-    [
-      "Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",
-      "https://github.com/RedGridTactical/RedGridLink"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Molly Guard",
       "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 13:02:19",
-      "https://news.ycombinator.com/item?id=47453947"
-    ],
-    [
-      "The Social Smolnet",
-      "https://ploum.net/2026-03-20-social-smolnet.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Los Angeles Aqueduct Is Wild",
       "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 15:50:03",
+      "https://news.ycombinator.com/item?id=47414356"
+    ],
+    [
+      "We give every user SQL access to a shared ClickHouse cluster",
+      "https://trigger.dev/blog/how-trql-works"
     ]
   ],
   [
