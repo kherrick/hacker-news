@@ -28,6 +28,7 @@
 * [2026-03-17, 17:48:50](https://news.ycombinator.com/item?id=47415919) - [If you thought the code writing speed was your problem; you have bigger problems](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
 * [2026-03-17, 17:07:06](https://news.ycombinator.com/item?id=47415441) - [GPT‑5.4 Mini and Nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)
 * [2026-03-17, 17:00:50](https://news.ycombinator.com/item?id=47415350) - [Spice Data (YC S19) Is Hiring a Product Specialist](https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad)
+* [2026-03-17, 16:48:51](https://news.ycombinator.com/item?id=47415179) - [The paddle wheel aircraft carriers of Lake Michigan](https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/)
 * [2026-03-17, 16:39:30](https://news.ycombinator.com/item?id=47415044) - [Show HN: I fixed FFmpeg's subtitle conversion (the bug from 2014)](https://connollydavid.github.io/pgs-release/)
 * [2026-03-17, 15:56:09](https://news.ycombinator.com/item?id=47414440) - ['The Secret Agent': Exploring a Vibrant, yet Violent Brazil](https://theasc.com/articles/the-secret-agent-cinematography)
 * [2026-03-17, 15:50:03](https://news.ycombinator.com/item?id=47414356) - [We give every user SQL access to a shared ClickHouse cluster](https://trigger.dev/blog/how-trql-works)
