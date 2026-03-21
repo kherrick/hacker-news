@@ -72,6 +72,7 @@
 * [2026-03-19, 05:53:04](https://news.ycombinator.com/item?id=47435453) - [Eniac, the First General-Purpose Digital Computer, Turns 80](https://spectrum.ieee.org/eniac-80-ieee-milestone)
 * [2026-03-19, 05:00:56](https://news.ycombinator.com/item?id=47435156) - [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews)
 * [2026-03-19, 04:49:33](https://news.ycombinator.com/item?id=47435081) - [Fujifilm X RAW STUDIO webapp clone](https://github.com/eggricesoy/filmkit)
+* [2026-03-19, 04:40:59](https://news.ycombinator.com/item?id=47435028) - [Invisalign Became the Biggest User of 3D Printers](https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/)
 * [2026-03-19, 03:55:03](https://news.ycombinator.com/item?id=47434732) - [Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)
 * [2026-03-19, 03:31:01](https://news.ycombinator.com/item?id=47434567) - [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
 * [2026-03-19, 02:53:37](https://news.ycombinator.com/item?id=47434311) - [We Have Learned Nothing](https://colossus.com/article/we-have-learned-nothing-startup-pundits/)
