@@ -1,32 +1,22 @@
 [
   [
     [
-      "2026-03-21, 15:59:42",
-      "https://news.ycombinator.com/item?id=47468209"
-    ],
-    [
-      "Apple Announces New Mac Sales Record Following MacBook Neo Launch",
-      "https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 15:49:30",
-      "https://news.ycombinator.com/item?id=47468104"
-    ],
-    [
-      "Show HN: A deterministic middleware to compress LLM prompts by 50-80%",
-      "https://github.com/ARPAHLS/skillware"
-    ]
-  ],
-  [
-    [
       "2026-03-21, 15:10:54",
       "https://news.ycombinator.com/item?id=47467746"
     ],
     [
       "404 Deno CEO not found",
       "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 14:54:38",
+      "https://news.ycombinator.com/item?id=47467609"
+    ],
+    [
+      "Iran launched unsuccessful attack on UK's Diego Garcia",
+      "https://www.bbc.com/news/articles/c5yljdgwppzo"
     ]
   ],
   [
@@ -61,12 +51,12 @@
   ],
   [
     [
-      "2026-03-21, 13:38:11",
-      "https://news.ycombinator.com/item?id=47466922"
+      "2026-03-21, 12:43:09",
+      "https://news.ycombinator.com/item?id=47466513"
     ],
     [
-      "Just make it hard to fail",
-      "https://nekolucifer.substack.com/p/just-make-it-really-hard-to-fail"
+      "Show HN: AI SDLC Scaffold, repo template for AI-assisted software development",
+      "https://github.com/pangon/ai-sdlc-scaffold/"
     ]
   ],
   [
@@ -87,6 +77,16 @@
     [
       "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
       "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 05:06:11",
+      "https://news.ycombinator.com/item?id=47464134"
+    ],
+    [
+      "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
+      "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-03-18, 21:29:14",
+      "https://news.ycombinator.com/item?id=47431653"
+    ],
+    [
+      "Cryptography in Home Entertainment (2004)",
+      "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 21:26:23",
       "https://news.ycombinator.com/item?id=47431625"
     ],
@@ -237,16 +247,6 @@
     [
       "How HN: Ironkernel – Python expressions, Rust parallel",
       "https://github.com/YuminosukeSato/ironkernel"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 12:16:26",
-      "https://news.ycombinator.com/item?id=47424752"
-    ],
-    [
-      "Turing Award Honors Bennett and Brassard for Quantum Information Science",
-      "https://amturing.acm.org"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-03-17, 18:43:53",
-      "https://news.ycombinator.com/item?id=47416543"
+      "2026-03-17, 15:50:03",
+      "https://news.ycombinator.com/item?id=47414356"
     ],
     [
-      "The Los Angeles Aqueduct Is Wild",
-      "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild"
+      "We give every user SQL access to a shared ClickHouse cluster",
+      "https://trigger.dev/blog/how-trql-works"
     ]
   ]
 ]
