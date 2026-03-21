@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-21, 12:06:03](https://news.ycombinator.com/item?id=47466294) - [How BYD Got EV Chargers to Work Almost as Fast as Gas Pumps](https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/)
+* [2026-03-21, 13:12:10](https://news.ycombinator.com/item?id=47466697) - [Mayor of Paris removed parking spaces, \"drastically\" reduced the number of cars](https://www.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor)
 * [2026-03-21, 10:35:20](https://news.ycombinator.com/item?id=47465824) - [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/)
 * [2026-03-21, 07:30:16](https://news.ycombinator.com/item?id=47464818) - [Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 * [2026-03-21, 02:47:13](https://news.ycombinator.com/item?id=47463547) - [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/)
@@ -14,7 +14,6 @@
 * [2026-03-20, 18:23:41](https://news.ycombinator.com/item?id=47458595) - [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)
 * [2026-03-20, 14:33:41](https://news.ycombinator.com/item?id=47455138) - [Molly Guard](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html)
 * [2026-03-20, 13:01:56](https://news.ycombinator.com/item?id=47453942) - [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
-* [2026-03-20, 11:03:27](https://news.ycombinator.com/item?id=47452955) - [Entso-E final report on Iberian 2025 blackout](https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/)
 * [2026-03-20, 04:24:11](https://news.ycombinator.com/item?id=47450478) - [ArXiv declares independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)
 * [2026-03-19, 04:49:33](https://news.ycombinator.com/item?id=47435081) - [Fujifilm X RAW STUDIO webapp clone](https://github.com/eggricesoy/filmkit)
 * [2026-03-19, 01:45:23](https://news.ycombinator.com/item?id=47433755) - [The Story of Marina Abramovic and Ulay (2020)](https://www.sydney-yaeko.com/artsandculture/marina-and-ulay)
@@ -28,6 +27,7 @@
 * [2026-03-17, 22:45:12](https://news.ycombinator.com/item?id=47419391) - [Mamba-3](https://www.together.ai/blog/mamba-3)
 * [2026-03-17, 18:49:39](https://news.ycombinator.com/item?id=47416607) - [Padel Chess – tactical simulator for padel](https://www.padelchess.me/)
 * [2026-03-17, 18:43:53](https://news.ycombinator.com/item?id=47416543) - [The Los Angeles Aqueduct Is Wild](https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild)
+* [2026-03-17, 16:39:30](https://news.ycombinator.com/item?id=47415044) - [Show HN: I fixed FFmpeg's subtitle conversion (the bug from 2014)](https://connollydavid.github.io/pgs-release/)
 * [2026-03-17, 15:50:03](https://news.ycombinator.com/item?id=47414356) - [We give every user SQL access to a shared ClickHouse cluster](https://trigger.dev/blog/how-trql-works)
 * [2026-03-17, 10:39:55](https://news.ycombinator.com/item?id=47410871) - [VisiCalc Reconstructed](https://zserge.com/posts/visicalc/)
 
