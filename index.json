@@ -45,18 +45,8 @@
       "https://news.ycombinator.com/item?id=47461094"
     ],
     [
-      "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
+      "We rewrote our Rust WASM parser in TypeScript and it got faster",
       "https://www.openui.com/blog/rust-wasm-parser"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 21:42:16",
-      "https://news.ycombinator.com/item?id=47461018"
-    ],
-    [
-      "Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists",
-      "https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029"
     ]
   ],
   [
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2026-03-20, 14:33:41",
+      "https://news.ycombinator.com/item?id=47455138"
+    ],
+    [
+      "Molly Guard",
+      "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 13:02:19",
       "https://news.ycombinator.com/item?id=47453947"
     ],
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-03-18, 20:52:30",
-      "https://news.ycombinator.com/item?id=47431304"
+      "2026-03-18, 16:52:58",
+      "https://news.ycombinator.com/item?id=47428132"
     ],
     [
-      "Work_mem: It's a Trap",
-      "https://mydbanotebook.org/posts/work_mem-its-a-trap/"
+      "The Ugliest Airplane: An Appreciation",
+      "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/"
     ]
   ],
   [
@@ -227,6 +227,16 @@
     [
       "Lent and Lisp",
       "https://leancrew.com/all-this/2026/02/lent-and-lisp/"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 12:16:26",
+      "https://news.ycombinator.com/item?id=47424752"
+    ],
+    [
+      "Turing Award Honors Bennett and Brassard for Quantum Information Science",
+      "https://amturing.acm.org"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg",
       "https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 00:48:15",
-      "https://news.ycombinator.com/item?id=47407184"
-    ],
-    [
-      "Show HN: An open-source safety net for home hemodialysis",
-      "https://safehemo.com/"
     ]
   ]
 ]
