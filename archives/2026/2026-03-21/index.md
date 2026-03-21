@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-21](index.md)
 
+* [2026-03-21, 21:27:50](https://news.ycombinator.com/item?id=47471601) - [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
 * [2026-03-21, 20:53:43](https://news.ycombinator.com/item?id=47471213) - [Revert \"userdb: add birthDate field to JSON user records](https://github.com/systemd/systemd/pull/41179)
 * [2026-03-21, 20:32:20](https://news.ycombinator.com/item?id=47470991) - [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/)
 * [2026-03-21, 20:08:37](https://news.ycombinator.com/item?id=47470773) - [Tinybox- offline AI device 120B parameters](https://tinygrad.org/#tinybox)

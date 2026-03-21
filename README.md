@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-21, 20:53:43](https://news.ycombinator.com/item?id=47471213) - [Revert \"userdb: add birthDate field to JSON user records](https://github.com/systemd/systemd/pull/41179)
+* [2026-03-21, 21:27:50](https://news.ycombinator.com/item?id=47471601) - [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
 * [2026-03-21, 20:32:20](https://news.ycombinator.com/item?id=47470991) - [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/)
 * [2026-03-21, 20:08:37](https://news.ycombinator.com/item?id=47470773) - [Tinybox- offline AI device 120B parameters](https://tinygrad.org/#tinybox)
 * [2026-03-21, 20:05:58](https://news.ycombinator.com/item?id=47470750) - [No evidence cannabis helps anxiety, depression, or PTSD](https://www.sciencedaily.com/releases/2026/03/260319044656.htm)
@@ -11,7 +11,6 @@
 * [2026-03-21, 18:42:38](https://news.ycombinator.com/item?id=47469949) - [Show HN: Termcraft – terminal-first 2D sandbox survival in Rust](https://github.com/pagel-s/termcraft)
 * [2026-03-21, 17:46:00](https://news.ycombinator.com/item?id=47469331) - [Hide macOS Tahoe's Menu Icons](https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/)
 * [2026-03-21, 15:30:29](https://news.ycombinator.com/item?id=47467913) - [Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
-* [2026-03-21, 15:10:54](https://news.ycombinator.com/item?id=47467746) - [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/)
 * [2026-03-21, 15:02:30](https://news.ycombinator.com/item?id=47467671) - [Show HN: Joonote – A note-taking app on your lock screen and notification panel](https://joonote.com/)
 * [2026-03-21, 14:50:18](https://news.ycombinator.com/item?id=47467567) - [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/)
 * [2026-03-21, 14:46:56](https://news.ycombinator.com/item?id=47467537) - [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
@@ -29,6 +28,7 @@
 * [2026-03-18, 05:00:18](https://news.ycombinator.com/item?id=47421749) - [Meta's Omnilingual MT for 1,600 Languages](https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1)
 * [2026-03-17, 22:45:12](https://news.ycombinator.com/item?id=47419391) - [Mamba-3](https://www.together.ai/blog/mamba-3)
 * [2026-03-17, 16:48:51](https://news.ycombinator.com/item?id=47415179) - [The paddle wheel aircraft carriers of Lake Michigan](https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/)
+* [2026-03-17, 14:48:51](https://news.ycombinator.com/item?id=47413486) - [Esqueleto Tutorial](https://entropicthoughts.com/esqueleto-tutorial)
 * [2026-03-17, 11:14:23](https://news.ycombinator.com/item?id=47411110) - [The seven hour explosion nobody could explain](https://phys.org/news/2026-03-hour-explosion.html)
 
 ## [Archives](archives/index.md)
