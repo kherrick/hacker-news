@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-03-21, 18:21:50",
-      "https://news.ycombinator.com/item?id=47469757"
+      "2026-03-21, 18:42:04",
+      "https://news.ycombinator.com/item?id=47469945"
     ],
     [
-      "Former FBI Director Robert Mueller Has Died",
-      "https://apnews.com/article/robert-mueller-fbi-director-trump-russia-investigation-7aca939dc25d4652815376f73e0f9aaf"
+      "C Bit-Field Pitfalls",
+      "https://www.os2museum.com/wp/bitfield-pitfalls/"
     ]
   ],
   [
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=47467537"
     ],
     [
-      "Some Things Just Take Time",
+      "Some things just take time",
       "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/"
     ]
   ],
@@ -137,6 +137,16 @@
     [
       "Ghostling",
       "https://github.com/ghostty-org/ghostling"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 21:48:06",
+      "https://news.ycombinator.com/item?id=47461094"
+    ],
+    [
+      "We rewrote our Rust WASM parser in TypeScript and it got faster",
+      "https://www.openui.com/blog/rust-wasm-parser"
     ]
   ],
   [
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=47435028"
     ],
     [
-      "Invisalign Became the Biggest User of 3D Printers",
+      "Invisalign became the biggest user of 3D printers",
       "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "An industrial piping contractor on Claude Code [video]",
       "https://twitter.com/toddsaunders/status/2034243420147859716"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 18:33:09",
-      "https://news.ycombinator.com/item?id=47429562"
-    ],
-    [
-      "I Built a Spy Satellite Simulator in a Browser. Here's What I Learned",
-      "https://www.spatialintelligence.ai/p/i-built-a-spy-satellite-simulator"
     ]
   ],
   [
