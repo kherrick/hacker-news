@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-21, 21:49:56",
+      "https://news.ycombinator.com/item?id=47471805"
+    ],
+    [
+      "Attempts to post the latest Trivy security incident have been marked [dead]",
+      "https://news.ycombinator.com/from?site=github.com%2Faquasecurity"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 21:49:15",
+      "https://news.ycombinator.com/item?id=47471801"
+    ],
+    [
+      "Floci – A free, open-source local AWS emulator",
+      "https://github.com/hectorvent/floci"
+    ]
+  ],
+  [
+    [
       "2026-03-21, 21:27:50",
       "https://news.ycombinator.com/item?id=47471601"
     ],
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2026-03-21, 17:03:32",
+      "https://news.ycombinator.com/item?id=47468849"
+    ],
+    [
+      "Seam carving with forward energy",
+      "https://pictolab.io/seam-carving"
+    ]
+  ],
+  [
+    [
       "2026-03-21, 15:30:29",
       "https://news.ycombinator.com/item?id=47467913"
     ],
@@ -117,6 +147,16 @@
     [
       "Show HN: Joonote – A note-taking app on your lock screen and notification panel",
       "https://joonote.com/"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 14:55:42",
+      "https://news.ycombinator.com/item?id=47467623"
+    ],
+    [
+      "How Ford burned $12B in Brazil (2021)",
+      "https://www.reuters.com/business/autos-transportation/how-ford-burned-12-billion-brazil-2021-05-20/"
     ]
   ],
   [
@@ -141,52 +181,12 @@
   ],
   [
     [
-      "2026-03-21, 14:22:48",
-      "https://news.ycombinator.com/item?id=47467300"
-    ],
-    [
-      "A pig's brain has been frozen with its cellular activity locked in place",
-      "https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 07:30:16",
-      "https://news.ycombinator.com/item?id=47464818"
-    ],
-    [
-      "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"
-    ]
-  ],
-  [
-    [
       "2026-03-21, 05:06:11",
       "https://news.ycombinator.com/item?id=47464134"
     ],
     [
       "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
       "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 02:47:13",
-      "https://news.ycombinator.com/item?id=47463547"
-    ],
-    [
-      "FFmpeg 101 (2024)",
-      "https://blogs.igalia.com/llepage/ffmpeg-101/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 21:03:52",
-      "https://news.ycombinator.com/item?id=47460525"
-    ],
-    [
-      "OpenCode – Open source AI coding agent",
-      "https://opencode.ai/"
     ]
   ],
   [
@@ -201,12 +201,22 @@
   ],
   [
     [
-      "2026-03-20, 14:33:41",
-      "https://news.ycombinator.com/item?id=47455138"
+      "2026-03-20, 17:13:28",
+      "https://news.ycombinator.com/item?id=47457570"
     ],
     [
-      "Molly guard in reverse",
-      "https://unsung.aresluna.org/molly-guard-in-reverse/"
+      "Boomloom: Think with your hands",
+      "https://www.theboomloom.com"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 12:42:40",
+      "https://news.ycombinator.com/item?id=47453738"
+    ],
+    [
+      "You can run a DNS server (2025)",
+      "https://simonsafar.com/2025/running_dns/"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2026-03-18, 17:52:18",
+      "https://news.ycombinator.com/item?id=47428953"
+    ],
+    [
+      "Bayesian statistics for confused data scientists",
+      "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 05:00:18",
       "https://news.ycombinator.com/item?id=47421749"
     ],
@@ -277,26 +297,6 @@
     [
       "The paddle wheel aircraft carriers of Lake Michigan",
       "https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 14:48:51",
-      "https://news.ycombinator.com/item?id=47413486"
-    ],
-    [
-      "Esqueleto Tutorial",
-      "https://entropicthoughts.com/esqueleto-tutorial"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 11:14:23",
-      "https://news.ycombinator.com/item?id=47411110"
-    ],
-    [
-      "The seven hour explosion nobody could explain",
-      "https://phys.org/news/2026-03-hour-explosion.html"
     ]
   ]
 ]
