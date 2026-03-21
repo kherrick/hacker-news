@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-21, 18:21:50",
+      "https://news.ycombinator.com/item?id=47469757"
+    ],
+    [
+      "Former FBI Director Robert Mueller Has Died",
+      "https://apnews.com/article/robert-mueller-fbi-director-trump-russia-investigation-7aca939dc25d4652815376f73e0f9aaf"
+    ]
+  ],
+  [
+    [
       "2026-03-21, 17:52:51",
       "https://news.ycombinator.com/item?id=47469417"
     ],
     [
       "Passengers who refuse to use headphones can now be kicked off United flights",
       "https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 17:48:53",
+      "https://news.ycombinator.com/item?id=47469373"
+    ],
+    [
+      "Why Some Men Struggle to Keep Up with Friendships",
+      "https://www.theatlantic.com/newsletters/2026/03/an-unlikely-model-for-male-friendship/686496/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-03-20, 21:48:06",
-      "https://news.ycombinator.com/item?id=47461094"
-    ],
-    [
-      "We rewrote our Rust WASM parser in TypeScript and it got faster",
-      "https://www.openui.com/blog/rust-wasm-parser"
-    ]
-  ],
-  [
-    [
       "2026-03-20, 21:03:52",
       "https://news.ycombinator.com/item?id=47460525"
     ],
@@ -247,16 +257,6 @@
     [
       "I Built a Spy Satellite Simulator in a Browser. Here's What I Learned",
       "https://www.spatialintelligence.ai/p/i-built-a-spy-satellite-simulator"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 17:22:04",
-      "https://news.ycombinator.com/item?id=47428544"
-    ],
-    [
-      "How HN: Ironkernel – Python expressions, Rust parallel",
-      "https://github.com/YuminosukeSato/ironkernel"
     ]
   ],
   [
