@@ -2,12 +2,12 @@
 
 * [2026-03-21, 02:47:13](https://news.ycombinator.com/item?id=47463547) - [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/)
 * [2026-03-21, 02:09:08](https://news.ycombinator.com/item?id=47463354) - [purl: a curl-esque CLI for making HTTP requests that require payment](https://www.purl.dev/)
-* [2026-03-21, 00:54:27](https://news.ycombinator.com/item?id=47462915) - [Traces of Evil](https://www.tracesofevil.com/)
 * [2026-03-20, 23:57:22](https://news.ycombinator.com/item?id=47462483) - [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e)
 * [2026-03-20, 22:25:51](https://news.ycombinator.com/item?id=47461529) - [Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers](https://github.com/RedGridTactical/RedGridLink)
 * [2026-03-20, 22:11:37](https://news.ycombinator.com/item?id=47461378) - [Ghostling](https://github.com/ghostty-org/ghostling)
 * [2026-03-20, 22:06:51](https://news.ycombinator.com/item?id=47461321) - [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky)
 * [2026-03-20, 21:48:06](https://news.ycombinator.com/item?id=47461094) - [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser)
+* [2026-03-20, 21:04:11](https://news.ycombinator.com/item?id=47460528) - [Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts](https://github.com/FormerLab/shadow-fleet-tracker-light)
 * [2026-03-20, 21:03:52](https://news.ycombinator.com/item?id=47460525) - [OpenCode – Open source AI coding agent](https://opencode.ai/)
 * [2026-03-20, 20:54:57](https://news.ycombinator.com/item?id=47460452) - [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/)
 * [2026-03-20, 19:29:39](https://news.ycombinator.com/item?id=47459447) - [NumKong: 2'000 Mixed Precision Kernels for All](https://ashvardanian.com/posts/numkong/)
@@ -27,9 +27,9 @@
 * [2026-03-18, 12:16:26](https://news.ycombinator.com/item?id=47424752) - [Turing Award Honors Bennett and Brassard for Quantum Information Science](https://amturing.acm.org)
 * [2026-03-18, 11:59:05](https://news.ycombinator.com/item?id=47424592) - [Parallel Perl – Autoparallelizing interpreter with JIT](https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1)
 * [2026-03-18, 10:22:38](https://news.ycombinator.com/item?id=47423762) - [The worst volume control UI in the world (2017)](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950)
+* [2026-03-17, 22:45:12](https://news.ycombinator.com/item?id=47419391) - [Mamba-3](https://www.together.ai/blog/mamba-3)
 * [2026-03-17, 18:43:53](https://news.ycombinator.com/item?id=47416543) - [The Los Angeles Aqueduct Is Wild](https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild)
 * [2026-03-17, 10:39:55](https://news.ycombinator.com/item?id=47410871) - [VisiCalc Reconstructed](https://zserge.com/posts/visicalc/)
-* [2026-03-17, 01:02:41](https://news.ycombinator.com/item?id=47407293) - [Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg](https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg)
 
 ## [Archives](archives/index.md)
 
