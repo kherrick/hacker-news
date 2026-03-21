@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-03-21, 18:42:04",
-      "https://news.ycombinator.com/item?id=47469945"
+      "2026-03-21, 20:08:37",
+      "https://news.ycombinator.com/item?id=47470773"
     ],
     [
-      "C Bit-Field Pitfalls",
-      "https://www.os2museum.com/wp/bitfield-pitfalls/"
+      "Tinybox- offline AI device 120B parameters",
+      "https://tinygrad.org/#tinybox"
     ]
   ],
   [
     [
-      "2026-03-21, 17:52:51",
-      "https://news.ycombinator.com/item?id=47469417"
+      "2026-03-21, 18:42:38",
+      "https://news.ycombinator.com/item?id=47469949"
     ],
     [
-      "Passengers who refuse to use headphones can now be kicked off United flights",
-      "https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries"
+      "Show HN: Termcraft – terminal-first 2D sandbox survival in Rust",
+      "https://github.com/pagel-s/termcraft"
     ]
   ],
   [
@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-03-21, 14:54:38",
-      "https://news.ycombinator.com/item?id=47467609"
-    ],
-    [
-      "Iran launched unsuccessful attack on UK's Diego Garcia",
-      "https://www.bbc.com/news/articles/c5yljdgwppzo"
-    ]
-  ],
-  [
-    [
       "2026-03-21, 14:50:18",
       "https://news.ycombinator.com/item?id=47467567"
     ],
@@ -87,6 +77,56 @@
     [
       "Some things just take time",
       "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 14:22:48",
+      "https://news.ycombinator.com/item?id=47467300"
+    ],
+    [
+      "A pig's brain has been frozen with its cellular activity locked in place",
+      "https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 13:52:22",
+      "https://news.ycombinator.com/item?id=47467034"
+    ],
+    [
+      "Western carmakers' retreat from electric risks dooming them to irrelevance",
+      "https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 13:12:10",
+      "https://news.ycombinator.com/item?id=47466697"
+    ],
+    [
+      "Mayor of Paris removed parking spaces, reduced the number of cars",
+      "https://www.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 12:06:03",
+      "https://news.ycombinator.com/item?id=47466294"
+    ],
+    [
+      "How BYD got EV chargers to work almost as fast as gas pumps",
+      "https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 10:35:20",
+      "https://news.ycombinator.com/item?id=47465824"
+    ],
+    [
+      "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
+      "https://blog.atuin.sh/atuin-v18-13/"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2026-03-20, 21:48:06",
-      "https://news.ycombinator.com/item?id=47461094"
-    ],
-    [
-      "We rewrote our Rust WASM parser in TypeScript and it got faster",
-      "https://www.openui.com/blog/rust-wasm-parser"
-    ]
-  ],
-  [
-    [
       "2026-03-20, 21:03:52",
       "https://news.ycombinator.com/item?id=47460525"
     ],
@@ -167,16 +197,6 @@
     [
       "A Japanese glossary of chopsticks faux pas (2022)",
       "https://www.nippon.com/en/japan-data/h01362/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 18:23:41",
-      "https://news.ycombinator.com/item?id=47458595"
-    ],
-    [
-      "Attention Residuals",
-      "https://github.com/MoonshotAI/Attention-Residuals"
     ]
   ],
   [
@@ -205,18 +225,8 @@
       "https://news.ycombinator.com/item?id=47435028"
     ],
     [
-      "Invisalign became the biggest user of 3D printers",
+      "How Invisalign became the biggest user of 3D printers",
       "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 01:45:23",
-      "https://news.ycombinator.com/item?id=47433755"
-    ],
-    [
-      "The Story of Marina Abramovic and Ulay (2020)",
-      "https://www.sydney-yaeko.com/artsandculture/marina-and-ulay"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "An industrial piping contractor on Claude Code [video]",
       "https://twitter.com/toddsaunders/status/2034243420147859716"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 10:22:38",
-      "https://news.ycombinator.com/item?id=47423762"
-    ],
-    [
-      "The worst volume control UI in the world (2017)",
-      "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950"
     ]
   ],
   [
