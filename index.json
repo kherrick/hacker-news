@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-20, 23:57:22",
+      "https://news.ycombinator.com/item?id=47462483"
+    ],
+    [
+      "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "https://github.com/arnoldrobbins/LinuxByExample-2e"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 22:25:51",
       "https://news.ycombinator.com/item?id=47461529"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47460525"
     ],
     [
-      "OpenCode – The open source AI coding agent",
+      "OpenCode – Open source AI coding agent",
       "https://opencode.ai/"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=47460452"
     ],
     [
-      "A Japanese Glossary of Chopsticks Faux Pas",
+      "A Japanese glossary of chopsticks faux pas",
       "https://www.nippon.com/en/japan-data/h01362/"
     ]
   ],
@@ -121,32 +131,12 @@
   ],
   [
     [
-      "2026-03-20, 17:05:38",
-      "https://news.ycombinator.com/item?id=47457472"
-    ],
-    [
-      "Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility",
-      "https://news.ycombinator.com/item?id=47457472"
-    ]
-  ],
-  [
-    [
       "2026-03-20, 15:55:40",
       "https://news.ycombinator.com/item?id=47456421"
     ],
     [
       "Meme Buildings",
       "https://misfitsarchitecture.com/2026/03/15/meme-buildings/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 14:48:09",
-      "https://news.ycombinator.com/item?id=47455365"
-    ],
-    [
-      "Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot",
-      "https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2026-03-20, 04:24:11",
+      "https://news.ycombinator.com/item?id=47450478"
+    ],
+    [
+      "ArXiv declares independence from Cornell",
+      "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 19:08:02",
       "https://news.ycombinator.com/item?id=47444319"
     ],
@@ -201,12 +201,32 @@
   ],
   [
     [
+      "2026-03-19, 08:06:28",
+      "https://news.ycombinator.com/item?id=47436287"
+    ],
+    [
+      "Heisuke Hironaka Has Died",
+      "https://japannews.yomiuri.co.jp/society/general-news/20260319-317449/"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 20:52:30",
       "https://news.ycombinator.com/item?id=47431304"
     ],
     [
       "Work_mem: It's a Trap",
       "https://mydbanotebook.org/posts/work_mem-its-a-trap/"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 13:00:39",
+      "https://news.ycombinator.com/item?id=47425257"
+    ],
+    [
+      "Lent and Lisp",
+      "https://leancrew.com/all-this/2026/02/lent-and-lisp/"
     ]
   ],
   [
@@ -237,16 +257,6 @@
     [
       "The Los Angeles Aqueduct Is Wild",
       "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 15:45:17",
-      "https://news.ycombinator.com/item?id=47414292"
-    ],
-    [
-      "I love my dumb watches",
-      "https://gary.onl/a-post-about-watches/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: An open-source safety net for home hemodialysis",
       "https://safehemo.com/"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 19:49:20",
-      "https://news.ycombinator.com/item?id=47403905"
-    ],
-    [
-      "FSF statement on copyright infringement lawsuit Bartz v. Anthropic",
-      "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement"
     ]
   ]
 ]
