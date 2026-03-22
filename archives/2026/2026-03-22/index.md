@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
 * [2026-03-22, 15:33:42](https://news.ycombinator.com/item?id=47478579) - [Atlassian Says It Had Right to Fire Engineer for Suggesting CEO Is 'Rich Jerk'](https://www.bloomberg.com/news/articles/2026-03-16/atlassian-defends-firing-worker-who-suggested-ceo-is-rich-jerk)
+* [2026-03-22, 15:30:54](https://news.ycombinator.com/item?id=47478548) - [You Are Not Your Job](https://jry.io/writing/you-are-not-your-job/)
 * [2026-03-22, 15:16:28](https://news.ycombinator.com/item?id=47478401) - [A Coherent Vision for the Future of Version Control](https://bramcohen.com/p/manyana)
 * [2026-03-22, 15:06:29](https://news.ycombinator.com/item?id=47478298) - [I Hate: Programming Wayland Applications](https://www.p4m.dev/posts/29/index.html)
 * [2026-03-22, 14:34:35](https://news.ycombinator.com/item?id=47477938) - [iBook Clamshell](https://www.ibook-clamshell.com/index.php/en/)
