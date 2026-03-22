@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 03:59:46](https://news.ycombinator.com/item?id=47474323) - [Sashiko: An agentic Linux kernel code review system](https://sashiko.dev/)
 * [2026-03-22, 03:43:51](https://news.ycombinator.com/item?id=47474255) - [Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2](https://radar.cloudflare.com/domains/domain/archive.today)
+* [2026-03-22, 03:38:10](https://news.ycombinator.com/item?id=47474236) - [Alpha Micro AM-1000E and AM-1200](http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html)
 * [2026-03-22, 02:32:25](https://news.ycombinator.com/item?id=47473884) - [Ant Mill](https://en.wikipedia.org/wiki/Ant_mill)
 * [2026-03-22, 02:04:31](https://news.ycombinator.com/item?id=47473718) - [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
 * [2026-03-22, 01:02:10](https://news.ycombinator.com/item?id=47473279) - [Chest Fridge (2009)](https://mtbest.net/chest-fridge/)

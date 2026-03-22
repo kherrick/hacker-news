@@ -43,6 +43,7 @@
 * [2026-03-20, 12:59:03](https://news.ycombinator.com/item?id=47453911) - [Exploring 8 Shaft Weaving](https://slab.org/2026/03/11/exploring-8-shaft-weaving/)
 * [2026-03-20, 12:42:40](https://news.ycombinator.com/item?id=47453738) - [You can run a DNS server (2025)](https://simonsafar.com/2025/running_dns/)
 * [2026-03-20, 12:41:56](https://news.ycombinator.com/item?id=47453728) - [The 12\" chef knife, a humble plea](https://kellykozakandjoshdonald.substack.com/p/the-12-chef-knife-a-humble-plea)
+* [2026-03-20, 12:04:49](https://news.ycombinator.com/item?id=47453414) - [Training Center for Maneuvering on Manned Model Ships](https://www.portrevel.com/)
 * [2026-03-20, 11:45:20](https://news.ycombinator.com/item?id=47453261) - [Delphi 13.1 Released, with ARM64 support](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence-update-1/)
 * [2026-03-20, 11:15:44](https://news.ycombinator.com/item?id=47453045) - [The Reason Windows Hate Is Exploding: It's the End of Personal Computing [video]](https://www.youtube.com/watch?v=e7a89ZYcTo8)
 * [2026-03-20, 11:10:17](https://news.ycombinator.com/item?id=47453010) - [AI (2014)](https://blog.samaltman.com/ai)
