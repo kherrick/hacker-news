@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-22, 03:43:51",
+      "https://news.ycombinator.com/item?id=47474255"
+    ],
+    [
+      "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
+      "https://radar.cloudflare.com/domains/domain/archive.today"
+    ]
+  ],
+  [
+    [
       "2026-03-22, 02:32:25",
       "https://news.ycombinator.com/item?id=47473884"
     ],
@@ -27,16 +37,6 @@
     [
       "Chest Fridge (2009)",
       "https://mtbest.net/chest-fridge/"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 00:46:32",
-      "https://news.ycombinator.com/item?id=47473178"
-    ],
-    [
-      "Why craft-lovers are losing their craft",
-      "https://writings.hongminhee.org/2026/03/craft-alienation-llm/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-03-19, 05:47:13",
-      "https://news.ycombinator.com/item?id=47435418"
-    ],
-    [
-      "Desperately Seeking Space Friends",
-      "https://reviewcanada.ca/magazine/2026/04/desperately-seeking-space-friends-review-the-pale-blue-data-point/"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 04:40:59",
       "https://news.ycombinator.com/item?id=47435028"
     ],
@@ -257,6 +247,16 @@
     [
       "Bayesian statistics for confused data scientists",
       "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 12:53:15",
+      "https://news.ycombinator.com/item?id=47425186"
+    ],
+    [
+      "It's Their Mona Lisa",
+      "https://ironicsans.ghost.io/its-t-mona-lisa/"
     ]
   ],
   [
