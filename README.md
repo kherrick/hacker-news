@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-22, 10:22:28](https://news.ycombinator.com/item?id=47476060) - ['Miracle': Europe reconnects with lost spacecraft](https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html)
 * [2026-03-22, 09:00:37](https://news.ycombinator.com/item?id=47475686) - [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/)
 * [2026-03-22, 07:07:15](https://news.ycombinator.com/item?id=47475155) - [Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence](https://zenodo.org/records/18976656)
 * [2026-03-22, 06:23:59](https://news.ycombinator.com/item?id=47474967) - [HopTab–free,open source macOS app switcher and tiler that replaces Cmd+Tab](https://www.royalbhati.com/hoptab)
@@ -24,7 +25,6 @@
 * [2026-03-20, 03:30:07](https://news.ycombinator.com/item?id=47450142) - [Trivy ecosystem supply chain briefly compromised](https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23)
 * [2026-03-19, 20:23:50](https://news.ycombinator.com/item?id=47445433) - [Show HN: Time Keep – Location timezones, timers, alarms, countdowns in one place](https://news.ycombinator.com/item?id=47445433)
 * [2026-03-19, 19:51:07](https://news.ycombinator.com/item?id=47444909) - [My first patch to the Linux kernel](https://pooladkhay.com/posts/first-kernel-patch/)
-* [2026-03-19, 04:40:59](https://news.ycombinator.com/item?id=47435028) - [How Invisalign became the biggest user of 3D printers](https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/)
 * [2026-03-19, 04:35:51](https://news.ycombinator.com/item?id=47434986) - [Electronics for Kids, 2nd Edition](https://nostarch.com/electronics-for-kids-2e)
 * [2026-03-18, 23:41:38](https://news.ycombinator.com/item?id=47432789) - [Linking Smaller Haskell Binaries (2023)](https://brandon.si/code/linking-smaller-haskell-binaries/)
 * [2026-03-18, 17:52:18](https://news.ycombinator.com/item?id=47428953) - [Bayesian statistics for confused data scientists](https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/)

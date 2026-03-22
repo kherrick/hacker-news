@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 10:22:28](https://news.ycombinator.com/item?id=47476060) - ['Miracle': Europe reconnects with lost spacecraft](https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html)
 * [2026-03-22, 09:00:37](https://news.ycombinator.com/item?id=47475686) - [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/)
 * [2026-03-22, 07:21:22](https://news.ycombinator.com/item?id=47475232) - [We've had front end reactivity since 2018 – via Async Iterables](https://github.com/SacDeNoeuds/yawn)
 * [2026-03-22, 07:07:15](https://news.ycombinator.com/item?id=47475155) - [Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence](https://zenodo.org/records/18976656)
