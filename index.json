@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-22, 07:21:22",
+      "https://news.ycombinator.com/item?id=47475232"
+    ],
+    [
+      "We've had front end reactivity since 2018 – via Async Iterables",
+      "https://github.com/SacDeNoeuds/yawn"
+    ]
+  ],
+  [
+    [
       "2026-03-22, 07:07:15",
       "https://news.ycombinator.com/item?id=47475155"
     ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=47469949"
     ],
     [
-      "Show HN: Termcraft – terminal-first 2D sandbox survival in Rust",
+      "Show HN: Termcraft – Terminal-first 2D sandbox survival in Rust",
       "https://github.com/pagel-s/termcraft"
     ]
   ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=47432789"
     ],
     [
-      "Linking Smaller Haskell Binaries",
+      "Linking Smaller Haskell Binaries (2023)",
       "https://brandon.si/code/linking-smaller-haskell-binaries/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "It's Their Mona Lisa",
       "https://ironicsans.ghost.io/its-t-mona-lisa/"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 00:27:13",
-      "https://news.ycombinator.com/item?id=47420230"
-    ],
-    [
-      "A digital resource for studying the graffiti of Herculaneum and Pompeii",
-      "https://ancientgraffiti.org/Graffiti/"
     ]
   ],
   [
