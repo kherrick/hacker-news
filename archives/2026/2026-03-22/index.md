@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
 * [2026-03-22, 15:33:42](https://news.ycombinator.com/item?id=47478579) - [Atlassian Says It Had Right to Fire Engineer for Suggesting CEO Is 'Rich Jerk'](https://www.bloomberg.com/news/articles/2026-03-16/atlassian-defends-firing-worker-who-suggested-ceo-is-rich-jerk)
+* [2026-03-22, 15:16:28](https://news.ycombinator.com/item?id=47478401) - [A Coherent Vision for the Future of Version Control](https://bramcohen.com/p/manyana)
 * [2026-03-22, 15:06:29](https://news.ycombinator.com/item?id=47478298) - [I Hate: Programming Wayland Applications](https://www.p4m.dev/posts/29/index.html)
 * [2026-03-22, 14:34:35](https://news.ycombinator.com/item?id=47477938) - [iBook Clamshell](https://www.ibook-clamshell.com/index.php/en/)
 * [2026-03-22, 14:01:28](https://news.ycombinator.com/item?id=47477653) - [Nintendo's not-AI, not-a-game toy](https://tapestry.news/culture/nintendo-talking-flower/)
@@ -26,6 +27,7 @@
 * [2026-03-22, 11:30:03](https://news.ycombinator.com/item?id=47476422) - [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe)
 * [2026-03-22, 10:22:28](https://news.ycombinator.com/item?id=47476060) - ['Miracle': Europe reconnects with lost spacecraft](https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html)
 * [2026-03-22, 09:57:31](https://news.ycombinator.com/item?id=47475938) - [Windows native app development is a mess](https://domenic.me/windows-native-dev/)
+* [2026-03-22, 09:37:30](https://news.ycombinator.com/item?id=47475859) - [Ask HN: AI productivity gains – do you fire devs or build better products?](https://news.ycombinator.com/item?id=47475859)
 * [2026-03-22, 09:35:54](https://news.ycombinator.com/item?id=47475849) - [Vatican Rebukes Peter Thiel's Antichrist Lectures in Rome](https://www.thenerdreich.com/peter-thiels-antichrist-circus-smacked-down-in-rome/)
 * [2026-03-22, 09:00:37](https://news.ycombinator.com/item?id=47475686) - [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/)
 * [2026-03-22, 07:21:22](https://news.ycombinator.com/item?id=47475232) - [We've had front end reactivity since 2018 – via Async Iterables](https://github.com/SacDeNoeuds/yawn)
