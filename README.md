@@ -8,7 +8,7 @@
 * [2026-03-21, 21:49:15](https://news.ycombinator.com/item?id=47471801) - [Floci – A free, open-source local AWS emulator](https://github.com/hectorvent/floci)
 * [2026-03-21, 21:27:50](https://news.ycombinator.com/item?id=47471601) - [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
 * [2026-03-21, 20:32:20](https://news.ycombinator.com/item?id=47470991) - [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/)
-* [2026-03-21, 20:08:37](https://news.ycombinator.com/item?id=47470773) - [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox)
+* [2026-03-21, 20:08:37](https://news.ycombinator.com/item?id=47470773) - [Tinybox – A powerful computer for deep learning](https://tinygrad.org/#tinybox)
 * [2026-03-21, 20:04:08](https://news.ycombinator.com/item?id=47470734) - [Common Lisp Development Tooling](https://www.creativetension.co/posts/common-lisp-development-tooling)
 * [2026-03-21, 19:31:39](https://news.ycombinator.com/item?id=47470433) - [Show HN: Atomic – Self-hosted, semantically-connected personal knowledge base](https://github.com/kenforthewin/atomic)
 * [2026-03-21, 18:42:38](https://news.ycombinator.com/item?id=47469949) - [Show HN: Termcraft – terminal-first 2D sandbox survival in Rust](https://github.com/pagel-s/termcraft)
