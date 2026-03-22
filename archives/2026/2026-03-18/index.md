@@ -20,6 +20,7 @@
 * [2026-03-18, 20:09:52](https://news.ycombinator.com/item?id=47430797) - [FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/)
 * [2026-03-18, 19:01:54](https://news.ycombinator.com/item?id=47429988) - [Show HN: Playing LongTurn FreeCiv with Friends](https://github.com/ndroo/freeciv.andrewmcgrath.info)
 * [2026-03-18, 18:33:09](https://news.ycombinator.com/item?id=47429562) - [I Built a Spy Satellite Simulator in a Browser. Here's What I Learned](https://www.spatialintelligence.ai/p/i-built-a-spy-satellite-simulator)
+* [2026-03-18, 18:16:04](https://news.ycombinator.com/item?id=47429285) - [Why Lab Coats Turned White](https://www.asimov.press/p/lab-coat)
 * [2026-03-18, 17:52:57](https://news.ycombinator.com/item?id=47428963) - [Oil nears $110 a barrel after gas field strike](https://www.bbc.com/news/articles/c78x83lpgngo)
 * [2026-03-18, 17:52:18](https://news.ycombinator.com/item?id=47428953) - [Bayesian statistics for confused data scientists](https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/)
 * [2026-03-18, 17:46:25](https://news.ycombinator.com/item?id=47428868) - [Show HN: Tmux-IDE, OSS agent-first terminal IDE](https://tmux.thijsverreck.com)
