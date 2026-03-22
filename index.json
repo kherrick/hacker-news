@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-03-22, 17:17:06",
+      "https://news.ycombinator.com/item?id=47479751"
+    ],
+    [
+      "Why I love NixOS",
+      "https://www.birkey.co/2026-03-22-why-i-love-nixos.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 15:43:21",
+      "https://news.ycombinator.com/item?id=47478687"
+    ],
+    [
+      "MAUI Is Coming to Linux",
+      "https://avaloniaui.net/blog/maui-avalonia-preview-1"
+    ]
+  ],
+  [
+    [
       "2026-03-22, 15:30:54",
       "https://news.ycombinator.com/item?id=47478548"
     ],
     [
-      "You Are Not Your Job",
+      "You are not your job",
       "https://jry.io/writing/you-are-not-your-job/"
     ]
   ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47478401"
     ],
     [
-      "A Coherent Vision for the Future of Version Control",
+      "The Future of Version Control",
       "https://bramcohen.com/p/manyana"
     ]
   ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2026-03-22, 12:55:37",
-      "https://news.ycombinator.com/item?id=47477024"
-    ],
-    [
-      "Apple's intentional crippling of Mobile Safari",
-      "https://pwa.gripe/"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 12:28:38",
       "https://news.ycombinator.com/item?id=47476821"
     ],
@@ -95,18 +105,8 @@
       "https://news.ycombinator.com/item?id=47476776"
     ],
     [
-      "Brute-Forcing My Algorithmic Ignorance with an LLM in 7 Days",
+      "Brute-forcing my algorithmic ignorance with an LLM in 7 days",
       "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 12:14:06",
-      "https://news.ycombinator.com/item?id=47476707"
-    ],
-    [
-      "How We Synchronized Editing for Rec Room's Multiplayer Scripting System",
-      "https://www.tyleo.com/blog/how-we-synchronized-editing-for-rec-rooms-multiplayer-scripting-system"
     ]
   ],
   [
@@ -141,22 +141,22 @@
   ],
   [
     [
+      "2026-03-22, 11:09:34",
+      "https://news.ycombinator.com/item?id=47476315"
+    ],
+    [
+      "Reports of code's death are greatly exaggerated",
+      "https://stevekrouse.com/precision"
+    ]
+  ],
+  [
+    [
       "2026-03-22, 09:57:31",
       "https://news.ycombinator.com/item?id=47475938"
     ],
     [
       "Windows native app development is a mess",
       "https://domenic.me/windows-native-dev/"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 09:37:30",
-      "https://news.ycombinator.com/item?id=47475859"
-    ],
-    [
-      "Ask HN: AI productivity gains – do you fire devs or build better products?",
-      "https://news.ycombinator.com/item?id=47475859"
     ]
   ],
   [
@@ -197,16 +197,6 @@
     [
       "Chest Fridge (2009)",
       "https://mtbest.net/chest-fridge/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 21:49:15",
-      "https://news.ycombinator.com/item?id=47471801"
-    ],
-    [
-      "Floci – A free, open-source local AWS emulator",
-      "https://github.com/hectorvent/floci"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "25 Years of Eggs",
       "https://www.john-rush.com/posts/eggs-25-years-20260219.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 18:07:34",
+      "https://news.ycombinator.com/item?id=47416149"
+    ],
+    [
+      "Zero ZGC4: A Better Graphing Calculator for School and Beyond",
+      "https://www.zerocalculators.com/features"
     ]
   ],
   [
