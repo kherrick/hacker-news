@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 18:38:21](https://news.ycombinator.com/item?id=47480644) - [Nebraska wildfires leave ranchers scrambling for forage](https://www.farmprogress.com/forage/nebraska-wildfires-leave-ranchers-scrambling-for-forage)
 * [2026-03-22, 17:56:26](https://news.ycombinator.com/item?id=47480200) - [Palantir extends reach into British state as gets access to sensitive FCA data](https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data)
+* [2026-03-22, 17:35:28](https://news.ycombinator.com/item?id=47479962) - [OpenClaw Is a Security Nightmare Dressed Up as a Daydream](https://composio.dev/content/openclaw-security-and-vulnerabilities)
 * [2026-03-22, 17:17:06](https://news.ycombinator.com/item?id=47479751) - [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html)
 * [2026-03-22, 17:06:38](https://news.ycombinator.com/item?id=47479627) - [Five Years of Running a Systems Reading Group at Microsoft](https://armaansood.com/posts/systems-reading-group/)
 * [2026-03-22, 16:48:37](https://news.ycombinator.com/item?id=47479417) - [Introducing DoorDash Tasks](https://about.doordash.com/en-us/news/introducing-doordash-tasks)
+* [2026-03-22, 16:28:52](https://news.ycombinator.com/item?id=47479183) - [GrapheneOS refuses to comply with new age verification laws for operating system](https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws)
 * [2026-03-22, 16:23:50](https://news.ycombinator.com/item?id=47479115) - [Ask HN: Apple terminated our dev account over a rogue employee](https://news.ycombinator.com/item?id=47479115)
 * [2026-03-22, 15:43:21](https://news.ycombinator.com/item?id=47478687) - [MAUI Is Coming to Linux](https://avaloniaui.net/blog/maui-avalonia-preview-1)
 * [2026-03-22, 15:33:42](https://news.ycombinator.com/item?id=47478579) - [Atlassian Says It Had Right to Fire Engineer for Suggesting CEO Is 'Rich Jerk'](https://www.bloomberg.com/news/articles/2026-03-16/atlassian-defends-firing-worker-who-suggested-ceo-is-rich-jerk)

@@ -40,6 +40,7 @@
 * [2026-03-19, 16:55:45](https://news.ycombinator.com/item?id=47442435) - [Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster](https://blog.skypilot.co/scaling-autoresearch/)
 * [2026-03-19, 16:47:02](https://news.ycombinator.com/item?id=47442297) - [A survey on LLMs for spreadsheet intelligence](https://orbilu.uni.lu/handle/10993/67962)
 * [2026-03-19, 16:41:39](https://news.ycombinator.com/item?id=47442215) - [Love of corporate bullshit is correlated with bad judgment](https://pluralistic.net/2026/03/19/jargon-watch/)
+* [2026-03-19, 16:40:37](https://news.ycombinator.com/item?id=47442194) - [Vectorization of Verilog Designs and its Effects on Verification and Synthesis](https://arxiv.org/abs/2603.17099)
 * [2026-03-19, 16:12:48](https://news.ycombinator.com/item?id=47441784) - [World Happiness Report 2026](https://www.worldhappiness.report/ed/2026/)
 * [2026-03-19, 16:01:30](https://news.ycombinator.com/item?id=47441629) - [Launch HN: Canary (YC W26) – AI QA that understands your code](https://news.ycombinator.com/item?id=47441629)
 * [2026-03-19, 15:59:04](https://news.ycombinator.com/item?id=47441587) - [Show HN: Dumped Wix for an AI Edge agent so I never have to hire junior staff](https://news.ycombinator.com/item?id=47441587)
