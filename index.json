@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-22, 18:38:21",
+      "https://news.ycombinator.com/item?id=47480644"
+    ],
+    [
+      "Nebraska wildfires leave ranchers scrambling for forage",
+      "https://www.farmprogress.com/forage/nebraska-wildfires-leave-ranchers-scrambling-for-forage"
+    ]
+  ],
+  [
+    [
       "2026-03-22, 17:56:26",
       "https://news.ycombinator.com/item?id=47480200"
     ],
     [
       "Palantir extends reach into British state as gets access to sensitive FCA data",
       "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 17:35:28",
+      "https://news.ycombinator.com/item?id=47479962"
+    ],
+    [
+      "OpenClaw Is a Security Nightmare Dressed Up as a Daydream",
+      "https://composio.dev/content/openclaw-security-and-vulnerabilities"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Five Years of Running a Systems Reading Group at Microsoft",
       "https://armaansood.com/posts/systems-reading-group/"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 16:28:52",
+      "https://news.ycombinator.com/item?id=47479183"
+    ],
+    [
+      "GrapheneOS refuses to comply with new age verification laws for operating system",
+      "https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-03-22, 12:23:04",
-      "https://news.ycombinator.com/item?id=47476776"
-    ],
-    [
-      "Brute-forcing my algorithmic ignorance with an LLM in 7 days",
-      "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 11:53:37",
       "https://news.ycombinator.com/item?id=47476566"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-03-22, 09:37:30",
-      "https://news.ycombinator.com/item?id=47475859"
-    ],
-    [
-      "Ask HN: AI productivity gains – do you fire devs or build better products?",
-      "https://news.ycombinator.com/item?id=47475859"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 06:23:59",
       "https://news.ycombinator.com/item?id=47474967"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-03-22, 02:04:31",
-      "https://news.ycombinator.com/item?id=47473718"
-    ],
-    [
-      "The three pillars of JavaScript bloat",
-      "https://43081j.com/2026/03/three-pillars-of-javascript-bloat"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 00:53:55",
       "https://news.ycombinator.com/item?id=47473231"
     ],
@@ -217,6 +217,16 @@
     [
       "My first patch to the Linux kernel",
       "https://pooladkhay.com/posts/first-kernel-patch/"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 16:40:37",
+      "https://news.ycombinator.com/item?id=47442194"
+    ],
+    [
+      "Vectorization of Verilog Designs and its Effects on Verification and Synthesis",
+      "https://arxiv.org/abs/2603.17099"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Zero ZGC4: A Better Graphing Calculator for School and Beyond",
       "https://www.zerocalculators.com/features"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 15:32:11",
-      "https://news.ycombinator.com/item?id=47414112"
-    ],
-    [
-      "A Fuzzer for the Toy Optimizer",
-      "https://bernsteinbear.com/blog/toy-fuzzer/"
     ]
   ]
 ]
