@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-03-22, 22:19:03",
+      "https://news.ycombinator.com/item?id=47482825"
+    ],
+    [
+      "Rust Project Perspectives on AI",
+      "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html"
+    ]
+  ],
+  [
+    [
       "2026-03-22, 21:14:11",
       "https://news.ycombinator.com/item?id=47482217"
     ],
     [
       "GrapheneOS will remain usable by anyone without requiring personal information",
       "https://grapheneos.social/@GrapheneOS/116261301913660830"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 19:32:15",
-      "https://news.ycombinator.com/item?id=47481202"
-    ],
-    [
-      "Personal Computing (2022)",
-      "https://josh8.com/blog/personal_computing.html"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
       "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 18:18:01",
-      "https://news.ycombinator.com/item?id=47480447"
-    ],
-    [
-      "What Young Workers Are Doing to AI-Proof Themselves",
-      "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
     ]
   ],
   [
@@ -147,16 +137,6 @@
     [
       "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
       "https://noquiche.fyi/voodoo"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 13:03:55",
-      "https://news.ycombinator.com/item?id=47477090"
-    ],
-    [
-      "A case against currying",
-      "https://emi-h.com/articles/a-case-against-currying.html"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2026-03-19, 06:19:47",
+      "https://news.ycombinator.com/item?id=47435616"
+    ],
+    [
+      "Theodosian Land Walls of Constantinople",
+      "https://turkisharchaeonews.net/object/theodosian-land-walls-constantinople"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 15:44:08",
       "https://news.ycombinator.com/item?id=47427224"
     ],
@@ -297,6 +287,16 @@
     [
       "LLMs Predict My Coffee",
       "https://dynomight.net/coffee/"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 18:07:34",
+      "https://news.ycombinator.com/item?id=47416149"
+    ],
+    [
+      "Zero ZGC4: A Better Graphing Calculator for School and Beyond",
+      "https://www.zerocalculators.com/features"
     ]
   ]
 ]
