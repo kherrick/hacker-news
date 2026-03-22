@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 20:20:29](https://news.ycombinator.com/item?id=47481729) - [We indexed the Delve audit leak: 533 reports, 455 companies, 99.8% identical](https://trustcompliance.xyz)
 * [2026-03-22, 19:32:15](https://news.ycombinator.com/item?id=47481202) - [Personal Computing (2022)](https://josh8.com/blog/personal_computing.html)
 * [2026-03-22, 19:04:00](https://news.ycombinator.com/item?id=47480900) - [Teaching Claude to QA a mobile app](https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html)
+* [2026-03-22, 19:02:43](https://news.ycombinator.com/item?id=47480886) - [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
 * [2026-03-22, 18:38:21](https://news.ycombinator.com/item?id=47480644) - [Nebraska wildfires leave ranchers scrambling for forage](https://www.farmprogress.com/forage/nebraska-wildfires-leave-ranchers-scrambling-for-forage)
 * [2026-03-22, 18:23:40](https://news.ycombinator.com/item?id=47480507) - [PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
 * [2026-03-22, 18:21:48](https://news.ycombinator.com/item?id=47480492) - [Show HN: A Markdown file that turns your AI agent into an autonomous researcher](https://github.com/krzysztofdudek/ResearcherSkill)
+* [2026-03-22, 18:18:01](https://news.ycombinator.com/item?id=47480447) - [What Young Workers Are Doing to AI-Proof Themselves](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
 * [2026-03-22, 17:56:26](https://news.ycombinator.com/item?id=47480200) - [Palantir extends reach into British state as gets access to sensitive FCA data](https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data)
 * [2026-03-22, 17:35:28](https://news.ycombinator.com/item?id=47479962) - [OpenClaw Is a Security Nightmare Dressed Up as a Daydream](https://composio.dev/content/openclaw-security-and-vulnerabilities)
 * [2026-03-22, 17:17:06](https://news.ycombinator.com/item?id=47479751) - [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html)
