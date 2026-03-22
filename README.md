@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-22, 07:07:15](https://news.ycombinator.com/item?id=47475155) - [Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence](https://zenodo.org/records/18976656)
+* [2026-03-22, 06:23:59](https://news.ycombinator.com/item?id=47474967) - [HopTab–free,open source macOS app switcher and tiler that replaces Cmd+Tab](https://www.royalbhati.com/hoptab)
 * [2026-03-22, 03:59:46](https://news.ycombinator.com/item?id=47474323) - [Sashiko: An agentic Linux kernel code review system](https://sashiko.dev/)
 * [2026-03-22, 03:43:51](https://news.ycombinator.com/item?id=47474255) - [Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2](https://radar.cloudflare.com/domains/domain/archive.today)
 * [2026-03-22, 03:38:10](https://news.ycombinator.com/item?id=47474236) - [Alpha Micro AM-1000E and AM-1200](http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html)
@@ -10,7 +12,6 @@
 * [2026-03-21, 20:32:20](https://news.ycombinator.com/item?id=47470991) - [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/)
 * [2026-03-21, 20:08:37](https://news.ycombinator.com/item?id=47470773) - [Tinybox – A powerful computer for deep learning](https://tinygrad.org/#tinybox)
 * [2026-03-21, 20:04:08](https://news.ycombinator.com/item?id=47470734) - [Common Lisp Development Tooling](https://www.creativetension.co/posts/common-lisp-development-tooling)
-* [2026-03-21, 19:31:39](https://news.ycombinator.com/item?id=47470433) - [Show HN: Atomic – Self-hosted, semantically-connected personal knowledge base](https://github.com/kenforthewin/atomic)
 * [2026-03-21, 18:42:38](https://news.ycombinator.com/item?id=47469949) - [Show HN: Termcraft – terminal-first 2D sandbox survival in Rust](https://github.com/pagel-s/termcraft)
 * [2026-03-21, 17:46:00](https://news.ycombinator.com/item?id=47469331) - [Hide macOS Tahoe's Menu Icons](https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/)
 * [2026-03-21, 15:30:29](https://news.ycombinator.com/item?id=47467913) - [Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
@@ -24,11 +25,10 @@
 * [2026-03-19, 19:51:07](https://news.ycombinator.com/item?id=47444909) - [My first patch to the Linux kernel](https://pooladkhay.com/posts/first-kernel-patch/)
 * [2026-03-19, 04:40:59](https://news.ycombinator.com/item?id=47435028) - [How Invisalign became the biggest user of 3D printers](https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/)
 * [2026-03-19, 04:35:51](https://news.ycombinator.com/item?id=47434986) - [Electronics for Kids, 2nd Edition](https://nostarch.com/electronics-for-kids-2e)
-* [2026-03-18, 21:26:23](https://news.ycombinator.com/item?id=47431625) - [ZJIT removes redundant object loads and stores](https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/)
+* [2026-03-18, 23:41:38](https://news.ycombinator.com/item?id=47432789) - [Linking Smaller Haskell Binaries](https://brandon.si/code/linking-smaller-haskell-binaries/)
 * [2026-03-18, 17:52:18](https://news.ycombinator.com/item?id=47428953) - [Bayesian statistics for confused data scientists](https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/)
 * [2026-03-18, 12:53:15](https://news.ycombinator.com/item?id=47425186) - [It's Their Mona Lisa](https://ironicsans.ghost.io/its-t-mona-lisa/)
 * [2026-03-18, 00:27:13](https://news.ycombinator.com/item?id=47420230) - [A digital resource for studying the graffiti of Herculaneum and Pompeii](https://ancientgraffiti.org/Graffiti/)
-* [2026-03-17, 18:00:01](https://news.ycombinator.com/item?id=47416049) - [Sandboxing: Foolproof Boundaries vs. Unbounded Foolishness (2025)](https://spawn-queue.acm.org/doi/10.1145/3733699)
 * [2026-03-17, 16:48:51](https://news.ycombinator.com/item?id=47415179) - [The paddle wheel aircraft carriers of Lake Michigan](https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/)
 
 ## [Archives](archives/index.md)

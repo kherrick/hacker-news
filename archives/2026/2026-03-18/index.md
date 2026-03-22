@@ -6,6 +6,7 @@
 
 * [2026-03-18, 23:58:05](https://news.ycombinator.com/item?id=47432915) - [RX – a new random-access JSON alternative](https://github.com/creationix/rx)
 * [2026-03-18, 23:55:42](https://news.ycombinator.com/item?id=47432893) - [Monuses and Heaps](https://doisinkidney.com/posts/2026-03-03-monus-heaps.html)
+* [2026-03-18, 23:41:38](https://news.ycombinator.com/item?id=47432789) - [Linking Smaller Haskell Binaries](https://brandon.si/code/linking-smaller-haskell-binaries/)
 * [2026-03-18, 23:39:58](https://news.ycombinator.com/item?id=47432779) - [How many branches can your CPU predict?](https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/)
 * [2026-03-18, 23:08:14](https://news.ycombinator.com/item?id=47432522) - [Website to post Claude fuck ups](https://claudedidwhat.wtf)
 * [2026-03-18, 21:57:58](https://news.ycombinator.com/item?id=47431930) - [What's on HTTP?](https://whatsonhttp.com/)
