@@ -29,6 +29,7 @@
 * [2026-03-19, 18:17:15](https://news.ycombinator.com/item?id=47443588) - [Noq: n0's new QUIC implementation in Rust](https://www.iroh.computer/blog/noq-announcement)
 * [2026-03-19, 17:52:11](https://news.ycombinator.com/item?id=47443239) - [Connecticut and the 1 Kilometer Effect](https://alearningaday.blog/2026/03/19/connecticut-and-the-1-kilometer-effect/)
 * [2026-03-19, 17:48:20](https://news.ycombinator.com/item?id=47443175) - [US has \"lost control of its own foreign policy\", Oman says](https://www.theguardian.com/world/2026/mar/19/us-lost-control-of-its-own-foreign-policy-oman-foreign-minister)
+* [2026-03-19, 17:27:45](https://news.ycombinator.com/item?id=47442841) - [Show HN: Oku – One tab to filter out noise from feeds and content sources](https://oku.io)
 * [2026-03-19, 17:27:33](https://news.ycombinator.com/item?id=47442838) - [UK's Ofcom has today fined 4chan £450k for not having age checks in place](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/4chan-fined-450000-for-not-protecting-children-from-online-pornography)
 * [2026-03-19, 17:27:17](https://news.ycombinator.com/item?id=47442834) - [An update on Steam / GOG changes for OpenTTD](https://www.openttd.org/news/2026/03/19/steam-changes-update)
 * [2026-03-19, 17:22:05](https://news.ycombinator.com/item?id=47442774) - [Gauntlet AI (YC S17): Fly you to Austin, train you in AI, give you $200k+ job](https://gauntletai.com/apply?utm_src=hackernews)
