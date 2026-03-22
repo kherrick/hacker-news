@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-03-22, 15:33:42",
-      "https://news.ycombinator.com/item?id=47478579"
+      "2026-03-22, 15:16:28",
+      "https://news.ycombinator.com/item?id=47478401"
     ],
     [
-      "Atlassian Says It Had Right to Fire Engineer for Suggesting CEO Is 'Rich Jerk'",
-      "https://www.bloomberg.com/news/articles/2026-03-16/atlassian-defends-firing-worker-who-suggested-ceo-is-rich-jerk"
+      "A Coherent Vision for the Future of Version Control",
+      "https://bramcohen.com/p/manyana"
     ]
   ],
   [
@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2026-03-22, 13:00:45",
-      "https://news.ycombinator.com/item?id=47477068"
+      "2026-03-22, 13:03:55",
+      "https://news.ycombinator.com/item?id=47477090"
     ],
     [
-      "Convincing Is Not Persuading",
-      "https://blog.alaindichiappari.dev/p/convincing-is-not-persuading"
+      "A case against currying",
+      "https://emi-h.com/articles/a-case-against-currying.html"
     ]
   ],
   [
@@ -65,18 +65,8 @@
       "https://news.ycombinator.com/item?id=47477024"
     ],
     [
-      "Apple's intentional crippling of Mobile Safari continues",
+      "Apple's intentional crippling of Mobile Safari",
       "https://pwa.gripe/"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 12:52:58",
-      "https://news.ycombinator.com/item?id=47477003"
-    ],
-    [
-      "Turns out your coffee addiction may be doing your brain a favor",
-      "https://www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/"
     ]
   ],
   [
@@ -97,16 +87,6 @@
     [
       "Brute-Forcing My Algorithmic Ignorance with an LLM in 7 Days",
       "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 12:22:50",
-      "https://news.ycombinator.com/item?id=47476772"
-    ],
-    [
-      "$ teebot.dev – from terminal to tee in 6 seconds",
-      "https://teebot.dev"
     ]
   ],
   [
@@ -151,12 +131,22 @@
   ],
   [
     [
-      "2026-03-22, 09:00:37",
-      "https://news.ycombinator.com/item?id=47475686"
+      "2026-03-22, 09:57:31",
+      "https://news.ycombinator.com/item?id=47475938"
     ],
     [
-      "Hormuz Minesweeper – Are you tired of winning?",
-      "https://hormuz.pythonic.ninja/"
+      "Windows native app development is a mess",
+      "https://domenic.me/windows-native-dev/"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 09:37:30",
+      "https://news.ycombinator.com/item?id=47475859"
+    ],
+    [
+      "Ask HN: AI productivity gains – do you fire devs or build better products?",
+      "https://news.ycombinator.com/item?id=47475859"
     ]
   ],
   [
@@ -167,6 +157,16 @@
     [
       "HopTab–free,open source macOS app switcher and tiler that replaces Cmd+Tab",
       "https://www.royalbhati.com/hoptab"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 03:43:51",
+      "https://news.ycombinator.com/item?id=47474255"
+    ],
+    [
+      "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
+      "https://radar.cloudflare.com/domains/domain/archive.today"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-03-19, 04:35:51",
-      "https://news.ycombinator.com/item?id=47434986"
-    ],
-    [
-      "Electronics for Kids, 2nd Edition",
-      "https://nostarch.com/electronics-for-kids-2e"
-    ]
-  ],
-  [
-    [
       "2026-03-18, 23:55:42",
       "https://news.ycombinator.com/item?id=47432893"
     ],
@@ -297,6 +287,16 @@
     [
       "25 Years of Eggs",
       "https://www.john-rush.com/posts/eggs-25-years-20260219.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 15:32:11",
+      "https://news.ycombinator.com/item?id=47414112"
+    ],
+    [
+      "A Fuzzer for the Toy Optimizer",
+      "https://bernsteinbear.com/blog/toy-fuzzer/"
     ]
   ]
 ]
