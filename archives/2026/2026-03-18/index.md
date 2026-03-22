@@ -33,6 +33,7 @@
 * [2026-03-18, 17:11:30](https://news.ycombinator.com/item?id=47428391) - [Spotify playing ads for paid subscribers](https://news.ycombinator.com/item?id=47428391)
 * [2026-03-18, 17:07:21](https://news.ycombinator.com/item?id=47428335) - [Americans Recognize AI as a Wealth Inequality Machine, Polls Find](https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713)
 * [2026-03-18, 16:52:58](https://news.ycombinator.com/item?id=47428132) - [The Ugliest Airplane: An Appreciation](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
+* [2026-03-18, 16:51:51](https://news.ycombinator.com/item?id=47428117) - [Node.js worker threads are problematic, but they work great for us](https://www.inngest.com/blog/node-worker-threads)
 * [2026-03-18, 16:21:50](https://news.ycombinator.com/item?id=47427698) - [Government backtracks on AI and copyright after outcry from major artists](https://www.bbc.co.uk/news/articles/cvg1gr5v333o)
 * [2026-03-18, 16:17:44](https://news.ycombinator.com/item?id=47427647) - [Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
 * [2026-03-18, 16:07:54](https://news.ycombinator.com/item?id=47427520) - [A data center opened next door. Then came the high-pitched whine](https://www.politico.com/news/2026/03/11/data-centers-ai-electricity-virginia-00815219)
