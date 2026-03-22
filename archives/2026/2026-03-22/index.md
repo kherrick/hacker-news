@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
 * [2026-03-22, 19:32:15](https://news.ycombinator.com/item?id=47481202) - [Personal Computing (2022)](https://josh8.com/blog/personal_computing.html)
+* [2026-03-22, 19:04:00](https://news.ycombinator.com/item?id=47480900) - [Teaching Claude to QA a mobile app](https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html)
 * [2026-03-22, 18:38:21](https://news.ycombinator.com/item?id=47480644) - [Nebraska wildfires leave ranchers scrambling for forage](https://www.farmprogress.com/forage/nebraska-wildfires-leave-ranchers-scrambling-for-forage)
 * [2026-03-22, 18:23:40](https://news.ycombinator.com/item?id=47480507) - [PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
 * [2026-03-22, 18:21:48](https://news.ycombinator.com/item?id=47480492) - [Show HN: A Markdown file that turns your AI agent into an autonomous researcher](https://github.com/krzysztofdudek/ResearcherSkill)
