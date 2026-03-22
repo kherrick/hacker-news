@@ -4,8 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 13:28:45](https://news.ycombinator.com/item?id=47477339) - [Revise – An AI Editor for Documents](https://revise.io)
+* [2026-03-22, 13:12:31](https://news.ycombinator.com/item?id=47477158) - [Bored of eating your own dogfood? Try smelling your own farts](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/)
+* [2026-03-22, 13:03:55](https://news.ycombinator.com/item?id=47477090) - [A Case Against Currying](https://emi-h.com/articles/a-case-against-currying.html)
+* [2026-03-22, 13:00:45](https://news.ycombinator.com/item?id=47477068) - [Convincing Is Not Persuading](https://blog.alaindichiappari.dev/p/convincing-is-not-persuading)
+* [2026-03-22, 12:52:58](https://news.ycombinator.com/item?id=47477003) - [Turns out your coffee addiction may be doing your brain a favor](https://www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/)
+* [2026-03-22, 12:28:38](https://news.ycombinator.com/item?id=47476821) - [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us)
+* [2026-03-22, 12:23:04](https://news.ycombinator.com/item?id=47476776) - [Brute-Forcing My Algorithmic Ignorance with an LLM in 7 Days](http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1)
+* [2026-03-22, 12:22:50](https://news.ycombinator.com/item?id=47476772) - [$ teebot.dev – from terminal to tee in 6 seconds](https://teebot.dev)
 * [2026-03-22, 12:14:06](https://news.ycombinator.com/item?id=47476707) - [How We Synchronized Editing for Rec Room's Multiplayer Scripting System](https://www.tyleo.com/blog/how-we-synchronized-editing-for-rec-rooms-multiplayer-scripting-system)
 * [2026-03-22, 11:51:52](https://news.ycombinator.com/item?id=47476562) - [More common mistakes to avoid when creating system architecture diagrams](https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/)
+* [2026-03-22, 11:43:57](https://news.ycombinator.com/item?id=47476509) - [Can Programming Be Liberated from the von Neumann Style? (1977) [pdf]](https://worrydream.com/refs/Backus_1978_-_Can_Programming_Be_Liberated_from_the_von_Neumann_Style.pdf)
 * [2026-03-22, 11:30:03](https://news.ycombinator.com/item?id=47476422) - [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe)
 * [2026-03-22, 10:22:28](https://news.ycombinator.com/item?id=47476060) - ['Miracle': Europe reconnects with lost spacecraft](https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html)
 * [2026-03-22, 09:57:31](https://news.ycombinator.com/item?id=47475938) - [Windows native app development is a mess](https://domenic.me/windows-native-dev/)

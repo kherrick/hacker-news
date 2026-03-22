@@ -71,6 +71,7 @@
 * [2026-03-19, 09:51:56](https://news.ycombinator.com/item?id=47436950) - [Afroman found not liable in defamation case brought by Ohio cops who raided home](https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/)
 * [2026-03-19, 08:32:37](https://news.ycombinator.com/item?id=47436453) - [Translate Garry Tan's LinkedIn-speak to plain English](https://github.com/garrytan/gstack/pull/213)
 * [2026-03-19, 08:06:28](https://news.ycombinator.com/item?id=47436287) - [Heisuke Hironaka Has Died](https://japannews.yomiuri.co.jp/society/general-news/20260319-317449/)
+* [2026-03-19, 06:47:54](https://news.ycombinator.com/item?id=47435783) - [A Review of Dice That Came with the White Castle](https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle)
 * [2026-03-19, 06:47:52](https://news.ycombinator.com/item?id=47435782) - [Ask HN: What do you look for in your first 10 hires?](https://news.ycombinator.com/item?id=47435782)
 * [2026-03-19, 05:53:04](https://news.ycombinator.com/item?id=47435453) - [Eniac, the First General-Purpose Digital Computer, Turns 80](https://spectrum.ieee.org/eniac-80-ieee-milestone)
 * [2026-03-19, 05:47:13](https://news.ycombinator.com/item?id=47435418) - [Desperately Seeking Space Friends](https://reviewcanada.ca/magazine/2026/04/desperately-seeking-space-friends-review-the-pale-blue-data-point/)
