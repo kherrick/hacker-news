@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 13:44:28](https://news.ycombinator.com/item?id=47477491) - [Show HN: Crack – Turn your MacBook into a squeaky door](http://crackmacapp.com/)
 * [2026-03-22, 13:28:45](https://news.ycombinator.com/item?id=47477339) - [Revise – An AI Editor for Documents](https://revise.io)
 * [2026-03-22, 13:12:31](https://news.ycombinator.com/item?id=47477158) - [Bored of eating your own dogfood? Try smelling your own farts](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/)
 * [2026-03-22, 13:03:55](https://news.ycombinator.com/item?id=47477090) - [A Case Against Currying](https://emi-h.com/articles/a-case-against-currying.html)

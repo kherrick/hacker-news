@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-22, 13:44:28](https://news.ycombinator.com/item?id=47477491) - [Show HN: Crack – Turn your MacBook into a squeaky door](http://crackmacapp.com/)
 * [2026-03-22, 13:28:45](https://news.ycombinator.com/item?id=47477339) - [Revise – An AI Editor for Documents](https://revise.io)
 * [2026-03-22, 13:12:31](https://news.ycombinator.com/item?id=47477158) - [Bored of eating your own dogfood? Try smelling your own farts](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/)
 * [2026-03-22, 13:03:55](https://news.ycombinator.com/item?id=47477090) - [A Case Against Currying](https://emi-h.com/articles/a-case-against-currying.html)
@@ -10,9 +11,9 @@
 * [2026-03-22, 12:22:50](https://news.ycombinator.com/item?id=47476772) - [$ teebot.dev – from terminal to tee in 6 seconds](https://teebot.dev)
 * [2026-03-22, 12:14:06](https://news.ycombinator.com/item?id=47476707) - [How We Synchronized Editing for Rec Room's Multiplayer Scripting System](https://www.tyleo.com/blog/how-we-synchronized-editing-for-rec-rooms-multiplayer-scripting-system)
 * [2026-03-22, 11:51:52](https://news.ycombinator.com/item?id=47476562) - [More common mistakes to avoid when creating system architecture diagrams](https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/)
-* [2026-03-22, 11:43:57](https://news.ycombinator.com/item?id=47476509) - [Can Programming Be Liberated from the von Neumann Style? (1977) [pdf]](https://worrydream.com/refs/Backus_1978_-_Can_Programming_Be_Liberated_from_the_von_Neumann_Style.pdf)
 * [2026-03-22, 11:30:03](https://news.ycombinator.com/item?id=47476422) - [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe)
 * [2026-03-22, 10:22:28](https://news.ycombinator.com/item?id=47476060) - ['Miracle': Europe reconnects with lost spacecraft](https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html)
+* [2026-03-22, 09:57:31](https://news.ycombinator.com/item?id=47475938) - [Windows native app development is a mess](https://domenic.me/windows-native-dev/)
 * [2026-03-22, 09:35:54](https://news.ycombinator.com/item?id=47475849) - [Vatican Rebukes Peter Thiel's Antichrist Lectures in Rome](https://www.thenerdreich.com/peter-thiels-antichrist-circus-smacked-down-in-rome/)
 * [2026-03-22, 09:00:37](https://news.ycombinator.com/item?id=47475686) - [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/)
 * [2026-03-22, 07:07:15](https://news.ycombinator.com/item?id=47475155) - [Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence](https://zenodo.org/records/18976656)
@@ -27,7 +28,6 @@
 * [2026-03-19, 19:51:07](https://news.ycombinator.com/item?id=47444909) - [My first patch to the Linux kernel](https://pooladkhay.com/posts/first-kernel-patch/)
 * [2026-03-19, 06:47:54](https://news.ycombinator.com/item?id=47435783) - [A Review of Dice That Came with the White Castle](https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle)
 * [2026-03-19, 04:35:51](https://news.ycombinator.com/item?id=47434986) - [Electronics for Kids, 2nd Edition](https://nostarch.com/electronics-for-kids-2e)
-* [2026-03-18, 17:52:18](https://news.ycombinator.com/item?id=47428953) - [Bayesian statistics for confused data scientists](https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/)
 * [2026-03-18, 16:51:51](https://news.ycombinator.com/item?id=47428117) - [Node.js worker threads are problematic, but they work great for us](https://www.inngest.com/blog/node-worker-threads)
 * [2026-03-18, 15:44:08](https://news.ycombinator.com/item?id=47427224) - [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html)
 
