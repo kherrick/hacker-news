@@ -1,0 +1,8 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-03-22](index.md)
+
+* [2026-03-22, 00:53:55](https://news.ycombinator.com/item?id=47473231) - [JavaScript Is Enough](https://geajs.com/)
+* [2026-03-22, 00:46:32](https://news.ycombinator.com/item?id=47473178) - [Why craft-lovers are losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/)
