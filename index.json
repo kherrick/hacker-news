@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-22, 12:14:06",
+      "https://news.ycombinator.com/item?id=47476707"
+    ],
+    [
+      "How We Synchronized Editing for Rec Room's Multiplayer Scripting System",
+      "https://www.tyleo.com/blog/how-we-synchronized-editing-for-rec-rooms-multiplayer-scripting-system"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 11:51:52",
+      "https://news.ycombinator.com/item?id=47476562"
+    ],
+    [
+      "More common mistakes to avoid when creating system architecture diagrams",
+      "https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/"
+    ]
+  ],
+  [
+    [
       "2026-03-22, 11:30:03",
       "https://news.ycombinator.com/item?id=47476422"
     ],
@@ -17,6 +37,26 @@
     [
       "'Miracle': Europe reconnects with lost spacecraft",
       "https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 09:57:31",
+      "https://news.ycombinator.com/item?id=47475938"
+    ],
+    [
+      "Windows native app development is a mess",
+      "https://domenic.me/windows-native-dev/"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 09:35:54",
+      "https://news.ycombinator.com/item?id=47475849"
+    ],
+    [
+      "Vatican Rebukes Peter Thiel's Antichrist Lectures in Rome",
+      "https://www.thenerdreich.com/peter-thiels-antichrist-circus-smacked-down-in-rome/"
     ]
   ],
   [
@@ -57,26 +97,6 @@
     [
       "Sashiko: An agentic Linux kernel code review system",
       "https://sashiko.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 03:43:51",
-      "https://news.ycombinator.com/item?id=47474255"
-    ],
-    [
-      "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
-      "https://radar.cloudflare.com/domains/domain/archive.today"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 03:38:10",
-      "https://news.ycombinator.com/item?id=47474236"
-    ],
-    [
-      "Alpha Micro AM-1000E and AM-1200",
-      "http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-03-21, 18:42:38",
-      "https://news.ycombinator.com/item?id=47469949"
-    ],
-    [
-      "Show HN: Termcraft – Terminal-first 2D sandbox survival in Rust",
-      "https://github.com/pagel-s/termcraft"
-    ]
-  ],
-  [
-    [
       "2026-03-21, 17:46:00",
       "https://news.ycombinator.com/item?id=47469331"
     ],
@@ -197,26 +207,6 @@
     [
       "Boomloom: Think with your hands",
       "https://www.theboomloom.com"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 12:04:49",
-      "https://news.ycombinator.com/item?id=47453414"
-    ],
-    [
-      "Training Center for Maneuvering on Manned Model Ships",
-      "https://www.portrevel.com/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 03:30:07",
-      "https://news.ycombinator.com/item?id=47450142"
-    ],
-    [
-      "Trivy ecosystem supply chain briefly compromised",
-      "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Bayesian statistics for confused data scientists",
       "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 16:51:51",
+      "https://news.ycombinator.com/item?id=47428117"
+    ],
+    [
+      "Node.js worker threads are problematic, but they work great for us",
+      "https://www.inngest.com/blog/node-worker-threads"
     ]
   ],
   [
