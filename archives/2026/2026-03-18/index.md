@@ -50,6 +50,7 @@
 * [2026-03-18, 15:30:07](https://news.ycombinator.com/item?id=47427017) - [Snowflake AI Escapes Sandbox and Executes Malware](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
 * [2026-03-18, 15:24:12](https://news.ycombinator.com/item?id=47426936) - [Machine Payments Protocol (MPP)](https://stripe.com/blog/machine-payments-protocol)
 * [2026-03-18, 15:23:58](https://news.ycombinator.com/item?id=47426932) - [Death to Scroll Fade](https://dbushell.com/2026/01/09/death-to-scroll-fade/)
+* [2026-03-18, 15:17:25](https://news.ycombinator.com/item?id=47426857) - [Show HN: Codala, a social network built on scanning barcodes](https://play.google.com/store/apps/details?id=com.hsynkrkye.codala&hl=en)
 * [2026-03-18, 14:28:40](https://news.ycombinator.com/item?id=47426246) - [Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild](https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/)
 * [2026-03-18, 14:14:02](https://news.ycombinator.com/item?id=47426057) - [Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It](https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government)
 * [2026-03-18, 14:00:43](https://news.ycombinator.com/item?id=47425918) - [A ngrok-style secure tunnel server written in Rust and Open Source](https://github.com/joaoh82/rustunnel)

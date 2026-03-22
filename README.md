@@ -27,9 +27,9 @@
 * [2026-03-19, 16:40:37](https://news.ycombinator.com/item?id=47442194) - [Vectorization of Verilog Designs and its Effects on Verification and Synthesis](https://arxiv.org/abs/2603.17099)
 * [2026-03-19, 06:47:54](https://news.ycombinator.com/item?id=47435783) - [A review of dice that came with the white castle](https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle)
 * [2026-03-18, 15:44:08](https://news.ycombinator.com/item?id=47427224) - [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html)
+* [2026-03-18, 15:17:25](https://news.ycombinator.com/item?id=47426857) - [Show HN: Codala, a social network built on scanning barcodes](https://play.google.com/store/apps/details?id=com.hsynkrkye.codala&hl=en)
 * [2026-03-18, 13:56:37](https://news.ycombinator.com/item?id=47425874) - [LLMs Predict My Coffee](https://dynomight.net/coffee/)
 * [2026-03-17, 18:07:34](https://news.ycombinator.com/item?id=47416149) - [Zero ZGC4: A Better Graphing Calculator for School and Beyond](https://www.zerocalculators.com/features)
-* [2026-03-17, 15:41:20](https://news.ycombinator.com/item?id=47414231) - [Turkish Coffee? Since the 16th Century, It's in the Water](https://specialprojects.sprudge.com/?p=868)
 
 ## [Archives](archives/index.md)
 
