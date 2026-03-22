@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-22, 22:19:03](https://news.ycombinator.com/item?id=47482825) - [Rust Project Perspectives on AI](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
+* [2026-03-22, 22:11:54](https://news.ycombinator.com/item?id=47482760) - [They're Vibe-Coding Spam Now](https://tedium.co/2026/02/25/vibe-coded-email-spam/)
+* [2026-03-22, 22:01:03](https://news.ycombinator.com/item?id=47482667) - [Iran war energy crisis is a renewable energy wake-up call](https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e)
 * [2026-03-22, 21:14:11](https://news.ycombinator.com/item?id=47482217) - [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830)
 * [2026-03-22, 19:04:00](https://news.ycombinator.com/item?id=47480900) - [Teaching Claude to QA a mobile app](https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html)
 * [2026-03-22, 19:02:43](https://news.ycombinator.com/item?id=47480886) - [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
@@ -12,7 +14,6 @@
 * [2026-03-22, 16:28:52](https://news.ycombinator.com/item?id=47479183) - [GrapheneOS refuses to comply with new age verification laws for operating system](https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws)
 * [2026-03-22, 15:43:21](https://news.ycombinator.com/item?id=47478687) - [MAUI Is Coming to Linux](https://avaloniaui.net/blog/maui-avalonia-preview-1)
 * [2026-03-22, 15:16:28](https://news.ycombinator.com/item?id=47478401) - [The future of version control](https://bramcohen.com/p/manyana)
-* [2026-03-22, 13:28:45](https://news.ycombinator.com/item?id=47477339) - [Show HN: Revise – An AI Editor for Documents](https://revise.io)
 * [2026-03-22, 13:24:38](https://news.ycombinator.com/item?id=47477284) - [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo)
 * [2026-03-22, 12:28:38](https://news.ycombinator.com/item?id=47476821) - [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us)
 * [2026-03-22, 12:23:04](https://news.ycombinator.com/item?id=47476776) - [Brute-forcing my algorithmic ignorance](http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1)
@@ -29,7 +30,6 @@
 * [2026-03-18, 15:44:08](https://news.ycombinator.com/item?id=47427224) - [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html)
 * [2026-03-18, 15:17:25](https://news.ycombinator.com/item?id=47426857) - [Show HN: Codala, a social network built on scanning barcodes](https://play.google.com/store/apps/details?id=com.hsynkrkye.codala&hl=en)
 * [2026-03-18, 13:56:37](https://news.ycombinator.com/item?id=47425874) - [LLMs Predict My Coffee](https://dynomight.net/coffee/)
-* [2026-03-17, 18:07:34](https://news.ycombinator.com/item?id=47416149) - [Zero ZGC4: A Better Graphing Calculator for School and Beyond](https://www.zerocalculators.com/features)
 
 ## [Archives](archives/index.md)
 
