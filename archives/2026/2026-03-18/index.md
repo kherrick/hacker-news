@@ -41,6 +41,7 @@
 * [2026-03-18, 15:50:44](https://news.ycombinator.com/item?id=47427299) - [Show HN: I built 48 lightweight SVG backgrounds you can copy/paste](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)
 * [2026-03-18, 15:49:52](https://news.ycombinator.com/item?id=47427290) - [Wander – A tiny, decentralised tool (just 2 files) to explore the small web](https://susam.net/wander/)
 * [2026-03-18, 15:48:04](https://news.ycombinator.com/item?id=47427271) - [Wide logging: Stripe's canonical log line pattern](https://blog.alcazarsec.com/tech/posts/wide-logging)
+* [2026-03-18, 15:44:08](https://news.ycombinator.com/item?id=47427224) - [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html)
 * [2026-03-18, 15:43:38](https://news.ycombinator.com/item?id=47427214) - [Meta will shut down VR Horizon Worlds access June 15](https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html)
 * [2026-03-18, 15:43:19](https://news.ycombinator.com/item?id=47427208) - [CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root](https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root)
 * [2026-03-18, 15:31:07](https://news.ycombinator.com/item?id=47427027) - [Nvidia NemoClaw](https://github.com/NVIDIA/NemoClaw)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-22, 09:00:37](https://news.ycombinator.com/item?id=47475686) - [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/)
 * [2026-03-22, 07:07:15](https://news.ycombinator.com/item?id=47475155) - [Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence](https://zenodo.org/records/18976656)
 * [2026-03-22, 06:23:59](https://news.ycombinator.com/item?id=47474967) - [HopTab–free,open source macOS app switcher and tiler that replaces Cmd+Tab](https://www.royalbhati.com/hoptab)
 * [2026-03-22, 03:59:46](https://news.ycombinator.com/item?id=47474323) - [Sashiko: An agentic Linux kernel code review system](https://sashiko.dev/)
@@ -15,7 +16,6 @@
 * [2026-03-21, 18:42:38](https://news.ycombinator.com/item?id=47469949) - [Show HN: Termcraft – Terminal-first 2D sandbox survival in Rust](https://github.com/pagel-s/termcraft)
 * [2026-03-21, 17:46:00](https://news.ycombinator.com/item?id=47469331) - [Hide macOS Tahoe's Menu Icons](https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/)
 * [2026-03-21, 15:30:29](https://news.ycombinator.com/item?id=47467913) - [Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
-* [2026-03-21, 14:55:42](https://news.ycombinator.com/item?id=47467623) - [How Ford burned $12B in Brazil (2021)](https://www.reuters.com/business/autos-transportation/how-ford-burned-12-billion-brazil-2021-05-20/)
 * [2026-03-21, 14:50:18](https://news.ycombinator.com/item?id=47467567) - [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/)
 * [2026-03-21, 14:46:56](https://news.ycombinator.com/item?id=47467537) - [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
 * [2026-03-21, 05:06:11](https://news.ycombinator.com/item?id=47464134) - [Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords](https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/)
@@ -28,8 +28,8 @@
 * [2026-03-19, 04:35:51](https://news.ycombinator.com/item?id=47434986) - [Electronics for Kids, 2nd Edition](https://nostarch.com/electronics-for-kids-2e)
 * [2026-03-18, 23:41:38](https://news.ycombinator.com/item?id=47432789) - [Linking Smaller Haskell Binaries (2023)](https://brandon.si/code/linking-smaller-haskell-binaries/)
 * [2026-03-18, 17:52:18](https://news.ycombinator.com/item?id=47428953) - [Bayesian statistics for confused data scientists](https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/)
+* [2026-03-18, 15:44:08](https://news.ycombinator.com/item?id=47427224) - [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html)
 * [2026-03-18, 12:53:15](https://news.ycombinator.com/item?id=47425186) - [It's Their Mona Lisa](https://ironicsans.ghost.io/its-t-mona-lisa/)
-* [2026-03-17, 16:48:51](https://news.ycombinator.com/item?id=47415179) - [The paddle wheel aircraft carriers of Lake Michigan](https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/)
 
 ## [Archives](archives/index.md)
 
