@@ -70,6 +70,7 @@
 * [2026-03-19, 08:06:28](https://news.ycombinator.com/item?id=47436287) - [Heisuke Hironaka Has Died](https://japannews.yomiuri.co.jp/society/general-news/20260319-317449/)
 * [2026-03-19, 06:47:52](https://news.ycombinator.com/item?id=47435782) - [Ask HN: What do you look for in your first 10 hires?](https://news.ycombinator.com/item?id=47435782)
 * [2026-03-19, 05:53:04](https://news.ycombinator.com/item?id=47435453) - [Eniac, the First General-Purpose Digital Computer, Turns 80](https://spectrum.ieee.org/eniac-80-ieee-milestone)
+* [2026-03-19, 05:47:13](https://news.ycombinator.com/item?id=47435418) - [Desperately Seeking Space Friends](https://reviewcanada.ca/magazine/2026/04/desperately-seeking-space-friends-review-the-pale-blue-data-point/)
 * [2026-03-19, 05:00:56](https://news.ycombinator.com/item?id=47435156) - [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews)
 * [2026-03-19, 04:49:33](https://news.ycombinator.com/item?id=47435081) - [Fujifilm X RAW STUDIO webapp clone](https://github.com/eggricesoy/filmkit)
 * [2026-03-19, 04:40:59](https://news.ycombinator.com/item?id=47435028) - [Invisalign Became the Biggest User of 3D Printers](https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/)
