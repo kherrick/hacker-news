@@ -16,6 +16,7 @@
 * [2026-03-19, 20:13:35](https://news.ycombinator.com/item?id=47445246) - [Waymo Safety Impact](https://waymo.com/safety/impact/)
 * [2026-03-19, 20:13:35](https://news.ycombinator.com/item?id=47445246) - [Waymo 13x safer than human drivers](https://twitter.com/Waymo/status/2034646084073480224)
 * [2026-03-19, 20:09:02](https://news.ycombinator.com/item?id=47445175) - [Tesla: Failure of the FSD's degradation detection system [pdf]](https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf)
+* [2026-03-19, 19:51:07](https://news.ycombinator.com/item?id=47444909) - [My first patch to the Linux kernel](https://pooladkhay.com/posts/first-kernel-patch/)
 * [2026-03-19, 19:50:51](https://news.ycombinator.com/item?id=47444906) - [Clockwise acquired by Salesforce and shutting down next week](https://www.getclockwise.com)
 * [2026-03-19, 19:37:26](https://news.ycombinator.com/item?id=47444748) - [Anthropic takes legal action against OpenCode](https://github.com/anomalyco/opencode/pull/18186)
 * [2026-03-19, 19:35:37](https://news.ycombinator.com/item?id=47444714) - [No AI in Node.js Core](https://github.com/indutny/no-ai-in-nodejs-core)
