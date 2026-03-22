@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-03-22, 20:20:29",
-      "https://news.ycombinator.com/item?id=47481729"
-    ],
-    [
-      "We indexed the Delve audit leak: 533 reports, 455 companies, 99.8% identical",
-      "https://trustcompliance.xyz"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 19:32:15",
       "https://news.ycombinator.com/item?id=47481202"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47480507"
     ],
     [
-      "PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading",
+      "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
       "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47479962"
     ],
     [
-      "OpenClaw Is a Security Nightmare Dressed Up as a Daydream",
+      "OpenClaw is a security nightmare dressed up as a daydream",
       "https://composio.dev/content/openclaw-security-and-vulnerabilities"
     ]
   ],
@@ -125,8 +115,18 @@
       "https://news.ycombinator.com/item?id=47478401"
     ],
     [
-      "The Future of Version Control",
+      "The future of version control",
       "https://bramcohen.com/p/manyana"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 13:28:45",
+      "https://news.ycombinator.com/item?id=47477339"
+    ],
+    [
+      "Show HN: Revise – An AI Editor for Documents",
+      "https://revise.io"
     ]
   ],
   [
@@ -157,6 +157,16 @@
     [
       "Project Nomad – Knowledge That Never Goes Offline",
       "https://www.projectnomad.us"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 12:23:04",
+      "https://news.ycombinator.com/item?id=47476776"
+    ],
+    [
+      "Brute-forcing my algorithmic ignorance",
+      "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-03-19, 19:51:07",
-      "https://news.ycombinator.com/item?id=47444909"
-    ],
-    [
-      "My first patch to the Linux kernel",
-      "https://pooladkhay.com/posts/first-kernel-patch/"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 16:40:37",
       "https://news.ycombinator.com/item?id=47442194"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-03-17, 20:16:14",
-      "https://news.ycombinator.com/item?id=47417707"
+      "2026-03-18, 13:56:37",
+      "https://news.ycombinator.com/item?id=47425874"
     ],
     [
-      "Learnings from training a font recognition model from scratch",
-      "https://www.mixfont.com/blog/learnings-from-training-a-font-recognition-model-from-scratch"
+      "LLMs Predict My Coffee",
+      "https://dynomight.net/coffee/"
     ]
   ],
   [
