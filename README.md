@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-22, 21:14:11](https://news.ycombinator.com/item?id=47482217) - [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830)
 * [2026-03-22, 19:32:15](https://news.ycombinator.com/item?id=47481202) - [Personal Computing (2022)](https://josh8.com/blog/personal_computing.html)
 * [2026-03-22, 19:04:00](https://news.ycombinator.com/item?id=47480900) - [Teaching Claude to QA a mobile app](https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html)
 * [2026-03-22, 19:02:43](https://news.ycombinator.com/item?id=47480886) - [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
@@ -29,7 +30,6 @@
 * [2026-03-18, 15:44:08](https://news.ycombinator.com/item?id=47427224) - [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html)
 * [2026-03-18, 15:17:25](https://news.ycombinator.com/item?id=47426857) - [Show HN: Codala, a social network built on scanning barcodes](https://play.google.com/store/apps/details?id=com.hsynkrkye.codala&hl=en)
 * [2026-03-18, 13:56:37](https://news.ycombinator.com/item?id=47425874) - [LLMs Predict My Coffee](https://dynomight.net/coffee/)
-* [2026-03-17, 18:07:34](https://news.ycombinator.com/item?id=47416149) - [Zero ZGC4: A Better Graphing Calculator for School and Beyond](https://www.zerocalculators.com/features)
 
 ## [Archives](archives/index.md)
 
