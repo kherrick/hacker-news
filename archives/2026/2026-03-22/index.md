@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 22:19:03](https://news.ycombinator.com/item?id=47482825) - [Rust Project Perspectives on AI](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
 * [2026-03-22, 21:14:11](https://news.ycombinator.com/item?id=47482217) - [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830)
 * [2026-03-22, 20:20:29](https://news.ycombinator.com/item?id=47481729) - [We indexed the Delve audit leak: 533 reports, 455 companies, 99.8% identical](https://trustcompliance.xyz)
 * [2026-03-22, 19:32:15](https://news.ycombinator.com/item?id=47481202) - [Personal Computing (2022)](https://josh8.com/blog/personal_computing.html)

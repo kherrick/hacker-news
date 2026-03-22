@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-22, 22:19:03](https://news.ycombinator.com/item?id=47482825) - [Rust Project Perspectives on AI](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
 * [2026-03-22, 21:14:11](https://news.ycombinator.com/item?id=47482217) - [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830)
-* [2026-03-22, 19:32:15](https://news.ycombinator.com/item?id=47481202) - [Personal Computing (2022)](https://josh8.com/blog/personal_computing.html)
 * [2026-03-22, 19:04:00](https://news.ycombinator.com/item?id=47480900) - [Teaching Claude to QA a mobile app](https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html)
 * [2026-03-22, 19:02:43](https://news.ycombinator.com/item?id=47480886) - [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
 * [2026-03-22, 18:23:40](https://news.ycombinator.com/item?id=47480507) - [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
-* [2026-03-22, 18:18:01](https://news.ycombinator.com/item?id=47480447) - [What Young Workers Are Doing to AI-Proof Themselves](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
 * [2026-03-22, 17:56:26](https://news.ycombinator.com/item?id=47480200) - [Palantir extends reach into British state as gets access to sensitive FCA data](https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data)
 * [2026-03-22, 17:35:28](https://news.ycombinator.com/item?id=47479962) - [OpenClaw is a security nightmare dressed up as a daydream](https://composio.dev/content/openclaw-security-and-vulnerabilities)
 * [2026-03-22, 17:17:06](https://news.ycombinator.com/item?id=47479751) - [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html)
@@ -15,7 +14,6 @@
 * [2026-03-22, 15:16:28](https://news.ycombinator.com/item?id=47478401) - [The future of version control](https://bramcohen.com/p/manyana)
 * [2026-03-22, 13:28:45](https://news.ycombinator.com/item?id=47477339) - [Show HN: Revise – An AI Editor for Documents](https://revise.io)
 * [2026-03-22, 13:24:38](https://news.ycombinator.com/item?id=47477284) - [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo)
-* [2026-03-22, 13:03:55](https://news.ycombinator.com/item?id=47477090) - [A case against currying](https://emi-h.com/articles/a-case-against-currying.html)
 * [2026-03-22, 12:28:38](https://news.ycombinator.com/item?id=47476821) - [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us)
 * [2026-03-22, 12:23:04](https://news.ycombinator.com/item?id=47476776) - [Brute-forcing my algorithmic ignorance](http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1)
 * [2026-03-22, 11:53:37](https://news.ycombinator.com/item?id=47476566) - [The IBM scientist who rewrote the rules of information just won a Turing Award](https://www.ibm.com/think/news/ibm-scientist-charles-bennett-turing-award)
@@ -27,9 +25,11 @@
 * [2026-03-21, 20:58:01](https://news.ycombinator.com/item?id=47471271) - [How to Attract AI Bots to Your Open Source Project](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
 * [2026-03-19, 16:40:37](https://news.ycombinator.com/item?id=47442194) - [Vectorization of Verilog Designs and its Effects on Verification and Synthesis](https://arxiv.org/abs/2603.17099)
 * [2026-03-19, 06:47:54](https://news.ycombinator.com/item?id=47435783) - [A review of dice that came with the white castle](https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle)
+* [2026-03-19, 06:19:47](https://news.ycombinator.com/item?id=47435616) - [Theodosian Land Walls of Constantinople](https://turkisharchaeonews.net/object/theodosian-land-walls-constantinople)
 * [2026-03-18, 15:44:08](https://news.ycombinator.com/item?id=47427224) - [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html)
 * [2026-03-18, 15:17:25](https://news.ycombinator.com/item?id=47426857) - [Show HN: Codala, a social network built on scanning barcodes](https://play.google.com/store/apps/details?id=com.hsynkrkye.codala&hl=en)
 * [2026-03-18, 13:56:37](https://news.ycombinator.com/item?id=47425874) - [LLMs Predict My Coffee](https://dynomight.net/coffee/)
+* [2026-03-17, 18:07:34](https://news.ycombinator.com/item?id=47416149) - [Zero ZGC4: A Better Graphing Calculator for School and Beyond](https://www.zerocalculators.com/features)
 
 ## [Archives](archives/index.md)
 
