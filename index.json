@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-03-21, 21:49:56",
-      "https://news.ycombinator.com/item?id=47471805"
+      "2026-03-22, 00:53:55",
+      "https://news.ycombinator.com/item?id=47473231"
     ],
     [
-      "Attempts to post the latest Trivy security incident have been marked [dead]",
-      "https://news.ycombinator.com/from?site=github.com%2Faquasecurity"
+      "JavaScript Is Enough",
+      "https://geajs.com/"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 00:46:32",
+      "https://news.ycombinator.com/item?id=47473178"
+    ],
+    [
+      "Why craft-lovers are losing their craft",
+      "https://writings.hongminhee.org/2026/03/craft-alienation-llm/"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 22:03:05",
+      "https://news.ycombinator.com/item?id=47471943"
+    ],
+    [
+      "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
+      "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47470773"
     ],
     [
-      "Tinybox- offline AI device 120B parameters",
+      "Tinybox – Offline AI device 120B parameters",
       "https://tinygrad.org/#tinybox"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47470750"
     ],
     [
-      "No evidence cannabis helps anxiety, depression, or PTSD",
+      "Study finds no evidence cannabis helps anxiety, depression, or PTSD",
       "https://www.sciencedaily.com/releases/2026/03/260319044656.htm"
     ]
   ],
@@ -71,32 +91,12 @@
   ],
   [
     [
-      "2026-03-21, 19:55:23",
-      "https://news.ycombinator.com/item?id=47470658"
-    ],
-    [
-      "Hawaii's worst flooding in 20 years threatens dam, prompts evacuations",
-      "https://www.nbcnews.com/weather/floods/hawaii-worst-flooding-in-20-years-rcna264573"
-    ]
-  ],
-  [
-    [
       "2026-03-21, 19:31:39",
       "https://news.ycombinator.com/item?id=47470433"
     ],
     [
-      "Show HN: Atomic – self-hosted, semantically-connected personal knowledge base",
+      "Show HN: Atomic – Self-hosted, semantically-connected personal knowledge base",
       "https://github.com/kenforthewin/atomic"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 19:07:20",
-      "https://news.ycombinator.com/item?id=47470200"
-    ],
-    [
-      "No Semicolons Needed",
-      "https://terts.dev/blog/no-semicolons-needed/"
     ]
   ],
   [
@@ -127,26 +127,6 @@
     [
       "Seam carving with forward energy",
       "https://pictolab.io/seam-carving"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 15:30:29",
-      "https://news.ycombinator.com/item?id=47467913"
-    ],
-    [
-      "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 15:02:30",
-      "https://news.ycombinator.com/item?id=47467671"
-    ],
-    [
-      "Show HN: Joonote – A note-taking app on your lock screen and notification panel",
-      "https://joonote.com/"
     ]
   ],
   [
@@ -191,16 +171,6 @@
   ],
   [
     [
-      "2026-03-21, 02:47:13",
-      "https://news.ycombinator.com/item?id=47463547"
-    ],
-    [
-      "FFmpeg 101 (2024)",
-      "https://blogs.igalia.com/llepage/ffmpeg-101/"
-    ]
-  ],
-  [
-    [
       "2026-03-20, 20:54:57",
       "https://news.ycombinator.com/item?id=47460452"
     ],
@@ -217,6 +187,16 @@
     [
       "Boomloom: Think with your hands",
       "https://www.theboomloom.com"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 03:30:07",
+      "https://news.ycombinator.com/item?id=47450142"
+    ],
+    [
+      "Trivy ecosystem supply chain briefly compromised",
+      "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "Mamba-3",
       "https://www.together.ai/blog/mamba-3"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 19:52:36",
+      "https://news.ycombinator.com/item?id=47417424"
+    ],
+    [
+      "Welcome to the Block Universe",
+      "https://nautil.us/welcome-to-the-block-universe-1278973"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 18:00:01",
+      "https://news.ycombinator.com/item?id=47416049"
+    ],
+    [
+      "Sandboxing: Foolproof Boundaries vs. Unbounded Foolishness (2025)",
+      "https://spawn-queue.acm.org/doi/10.1145/3733699"
     ]
   ],
   [
