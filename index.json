@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-22, 07:07:15",
+      "https://news.ycombinator.com/item?id=47475155"
+    ],
+    [
+      "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
+      "https://zenodo.org/records/18976656"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 06:23:59",
+      "https://news.ycombinator.com/item?id=47474967"
+    ],
+    [
+      "HopTab–free,open source macOS app switcher and tiler that replaces Cmd+Tab",
+      "https://www.royalbhati.com/hoptab"
+    ]
+  ],
+  [
+    [
       "2026-03-22, 03:59:46",
       "https://news.ycombinator.com/item?id=47474323"
     ],
@@ -97,16 +117,6 @@
     [
       "Common Lisp Development Tooling",
       "https://www.creativetension.co/posts/common-lisp-development-tooling"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 19:31:39",
-      "https://news.ycombinator.com/item?id=47470433"
-    ],
-    [
-      "Show HN: Atomic – Self-hosted, semantically-connected personal knowledge base",
-      "https://github.com/kenforthewin/atomic"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2026-03-18, 21:26:23",
-      "https://news.ycombinator.com/item?id=47431625"
+      "2026-03-18, 23:41:38",
+      "https://news.ycombinator.com/item?id=47432789"
     ],
     [
-      "ZJIT removes redundant object loads and stores",
-      "https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/"
+      "Linking Smaller Haskell Binaries",
+      "https://brandon.si/code/linking-smaller-haskell-binaries/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "A digital resource for studying the graffiti of Herculaneum and Pompeii",
       "https://ancientgraffiti.org/Graffiti/"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 18:00:01",
-      "https://news.ycombinator.com/item?id=47416049"
-    ],
-    [
-      "Sandboxing: Foolproof Boundaries vs. Unbounded Foolishness (2025)",
-      "https://spawn-queue.acm.org/doi/10.1145/3733699"
     ]
   ],
   [
