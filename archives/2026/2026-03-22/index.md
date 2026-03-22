@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
 * [2026-03-22, 17:17:06](https://news.ycombinator.com/item?id=47479751) - [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html)
+* [2026-03-22, 16:48:37](https://news.ycombinator.com/item?id=47479417) - [Introducing DoorDash Tasks](https://about.doordash.com/en-us/news/introducing-doordash-tasks)
 * [2026-03-22, 15:43:21](https://news.ycombinator.com/item?id=47478687) - [MAUI Is Coming to Linux](https://avaloniaui.net/blog/maui-avalonia-preview-1)
 * [2026-03-22, 15:33:42](https://news.ycombinator.com/item?id=47478579) - [Atlassian Says It Had Right to Fire Engineer for Suggesting CEO Is 'Rich Jerk'](https://www.bloomberg.com/news/articles/2026-03-16/atlassian-defends-firing-worker-who-suggested-ceo-is-rich-jerk)
 * [2026-03-22, 15:30:54](https://news.ycombinator.com/item?id=47478548) - [You Are Not Your Job](https://jry.io/writing/you-are-not-your-job/)
