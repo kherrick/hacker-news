@@ -24,6 +24,7 @@
 * [2026-03-17, 18:43:53](https://news.ycombinator.com/item?id=47416543) - [The Los Angeles Aqueduct Is Wild](https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild)
 * [2026-03-17, 18:37:27](https://news.ycombinator.com/item?id=47416486) - [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
 * [2026-03-17, 18:14:24](https://news.ycombinator.com/item?id=47416227) - [Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust](https://github.com/peters/horizon)
+* [2026-03-17, 18:07:34](https://news.ycombinator.com/item?id=47416149) - [Zero ZGC4: A Better Graphing Calculator for School and Beyond](https://www.zerocalculators.com/features)
 * [2026-03-17, 18:06:07](https://news.ycombinator.com/item?id=47416131) - [Illinois Introducing Operating System Account Age Bill](https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511)
 * [2026-03-17, 18:01:50](https://news.ycombinator.com/item?id=47416081) - [Edge.js: Run Node apps inside a WebAssembly sandbox](https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox)
 * [2026-03-17, 18:00:01](https://news.ycombinator.com/item?id=47416049) - [Sandboxing: Foolproof Boundaries vs. Unbounded Foolishness (2025)](https://spawn-queue.acm.org/doi/10.1145/3733699)

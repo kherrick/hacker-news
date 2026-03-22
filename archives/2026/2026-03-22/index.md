@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 17:17:06](https://news.ycombinator.com/item?id=47479751) - [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html)
+* [2026-03-22, 15:43:21](https://news.ycombinator.com/item?id=47478687) - [MAUI Is Coming to Linux](https://avaloniaui.net/blog/maui-avalonia-preview-1)
 * [2026-03-22, 15:33:42](https://news.ycombinator.com/item?id=47478579) - [Atlassian Says It Had Right to Fire Engineer for Suggesting CEO Is 'Rich Jerk'](https://www.bloomberg.com/news/articles/2026-03-16/atlassian-defends-firing-worker-who-suggested-ceo-is-rich-jerk)
 * [2026-03-22, 15:30:54](https://news.ycombinator.com/item?id=47478548) - [You Are Not Your Job](https://jry.io/writing/you-are-not-your-job/)
 * [2026-03-22, 15:16:28](https://news.ycombinator.com/item?id=47478401) - [A Coherent Vision for the Future of Version Control](https://bramcohen.com/p/manyana)
@@ -26,6 +28,7 @@
 * [2026-03-22, 11:51:52](https://news.ycombinator.com/item?id=47476562) - [More common mistakes to avoid when creating system architecture diagrams](https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/)
 * [2026-03-22, 11:43:57](https://news.ycombinator.com/item?id=47476509) - [Can Programming Be Liberated from the von Neumann Style? (1977) [pdf]](https://worrydream.com/refs/Backus_1978_-_Can_Programming_Be_Liberated_from_the_von_Neumann_Style.pdf)
 * [2026-03-22, 11:30:03](https://news.ycombinator.com/item?id=47476422) - [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe)
+* [2026-03-22, 11:09:34](https://news.ycombinator.com/item?id=47476315) - [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision)
 * [2026-03-22, 10:22:28](https://news.ycombinator.com/item?id=47476060) - ['Miracle': Europe reconnects with lost spacecraft](https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html)
 * [2026-03-22, 09:57:31](https://news.ycombinator.com/item?id=47475938) - [Windows native app development is a mess](https://domenic.me/windows-native-dev/)
 * [2026-03-22, 09:37:30](https://news.ycombinator.com/item?id=47475859) - [Ask HN: AI productivity gains – do you fire devs or build better products?](https://news.ycombinator.com/item?id=47475859)
