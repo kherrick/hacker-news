@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 23:00:02](https://news.ycombinator.com/item?id=47483233) - [Supply Chain Attack on Trivy](https://www.wiz.io/blog/trivy-compromised-teampcp-supply-chain-attack)
+* [2026-03-22, 22:33:13](https://news.ycombinator.com/item?id=47482949) - [Can the world get its supply of oil by bypassing the Strait of Hormuz?](https://www.firstpost.com/explainers/iran-war-strait-of-hormuz-blocked-possible-alternatives-oil-gas-supply-13989112.html)
 * [2026-03-22, 22:19:03](https://news.ycombinator.com/item?id=47482825) - [Rust Project Perspectives on AI](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
 * [2026-03-22, 22:11:54](https://news.ycombinator.com/item?id=47482760) - [They're Vibe-Coding Spam Now](https://tedium.co/2026/02/25/vibe-coded-email-spam/)
 * [2026-03-22, 22:01:03](https://news.ycombinator.com/item?id=47482667) - [Iran war energy crisis is a renewable energy wake-up call](https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e)

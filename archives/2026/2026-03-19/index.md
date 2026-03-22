@@ -55,6 +55,7 @@
 * [2026-03-19, 14:06:28](https://news.ycombinator.com/item?id=47439714) - [Switch Your Phone to an MVNO](https://practicalbetterments.com/switch-your-phone-to-an-mvno/)
 * [2026-03-19, 13:43:26](https://news.ycombinator.com/item?id=47439320) - [OpenBSD: PF queues break the 4 Gbps barrier](https://undeadly.org/cgi?action=article;sid=20260319125859)
 * [2026-03-19, 13:42:14](https://news.ycombinator.com/item?id=47439300) - [I turned Markdown into a protocol for generative UI](https://fabian-kuebler.com/posts/markdown-agentic-ui/)
+* [2026-03-19, 13:25:59](https://news.ycombinator.com/item?id=47439031) - [First and Lego Education Partnership Update](https://community.firstinspires.org/first-lego-education-partnership-update)
 * [2026-03-19, 13:05:50](https://news.ycombinator.com/item?id=47438723) - [Astral to Join OpenAI](https://astral.sh/blog/openai)
 * [2026-03-19, 13:05:17](https://news.ycombinator.com/item?id=47438716) - [OpenAI to Acquire Astral](https://openai.com/index/openai-to-acquire-astral/)
 * [2026-03-19, 13:02:35](https://news.ycombinator.com/item?id=47438675) - [Juggalo Makeup Blocks Facial Recognition Technology](https://consequence.net/2019/07/juggalo-makeup-facial-recognition/)
