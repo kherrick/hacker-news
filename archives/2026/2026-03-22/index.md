@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 14:34:35](https://news.ycombinator.com/item?id=47477938) - [iBook Clamshell](https://www.ibook-clamshell.com/index.php/en/)
 * [2026-03-22, 14:01:28](https://news.ycombinator.com/item?id=47477653) - [Nintendo's not-AI, not-a-game toy](https://tapestry.news/culture/nintendo-talking-flower/)
 * [2026-03-22, 13:44:28](https://news.ycombinator.com/item?id=47477491) - [Show HN: Crack – Turn your MacBook into a squeaky door](http://crackmacapp.com/)
 * [2026-03-22, 13:28:45](https://news.ycombinator.com/item?id=47477339) - [Revise – An AI Editor for Documents](https://revise.io)
