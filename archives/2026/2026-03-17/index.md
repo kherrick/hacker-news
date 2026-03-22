@@ -11,6 +11,7 @@
 * [2026-03-17, 20:39:19](https://news.ycombinator.com/item?id=47417983) - [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
 * [2026-03-17, 20:24:33](https://news.ycombinator.com/item?id=47417814) - [Meta, TikTok let harmful content rise after evidence outrage drove engagement](https://www.bbc.com/news/articles/cqj9kgxqjwjo)
 * [2026-03-17, 20:23:39](https://news.ycombinator.com/item?id=47417804) - [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done)
+* [2026-03-17, 20:16:14](https://news.ycombinator.com/item?id=47417707) - [Learnings from training a font recognition model from scratch](https://www.mixfont.com/blog/learnings-from-training-a-font-recognition-model-from-scratch)
 * [2026-03-17, 19:55:54](https://news.ycombinator.com/item?id=47417470) - [Claude Is Having an Outage](https://news.ycombinator.com/item?id=47417470)
 * [2026-03-17, 19:52:36](https://news.ycombinator.com/item?id=47417424) - [Welcome to the Block Universe](https://nautil.us/welcome-to-the-block-universe-1278973)
 * [2026-03-17, 19:46:29](https://news.ycombinator.com/item?id=47417335) - [Launch HN: Kita (YC W26) – Automate credit review in emerging markets](https://news.ycombinator.com/item?id=47417335)
