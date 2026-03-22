@@ -53,6 +53,7 @@
 * [2026-03-18, 13:32:48](https://news.ycombinator.com/item?id=47425607) - [FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall](https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/)
 * [2026-03-18, 13:04:15](https://news.ycombinator.com/item?id=47425297) - [Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts](https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking)
 * [2026-03-18, 13:00:39](https://news.ycombinator.com/item?id=47425257) - [Lent and Lisp](https://leancrew.com/all-this/2026/02/lent-and-lisp/)
+* [2026-03-18, 12:53:15](https://news.ycombinator.com/item?id=47425186) - [It's Their Mona Lisa](https://ironicsans.ghost.io/its-t-mona-lisa/)
 * [2026-03-18, 12:52:47](https://news.ycombinator.com/item?id=47425176) - [Trevor Milton is raising funds for a new jet he claims will transform flying](https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c)
 * [2026-03-18, 12:28:44](https://news.ycombinator.com/item?id=47424881) - [Linux Page Faults, MMAP, and userfaultfd for faster VM boots](https://www.shayon.dev/post/2026/65/linux-page-faults-mmap-and-userfaultfd/)
 * [2026-03-18, 12:16:26](https://news.ycombinator.com/item?id=47424752) - [Turing Award Honors Bennett and Brassard for Quantum Information Science](https://amturing.acm.org)

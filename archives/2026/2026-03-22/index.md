@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 03:43:51](https://news.ycombinator.com/item?id=47474255) - [Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2](https://radar.cloudflare.com/domains/domain/archive.today)
 * [2026-03-22, 02:32:25](https://news.ycombinator.com/item?id=47473884) - [Ant Mill](https://en.wikipedia.org/wiki/Ant_mill)
 * [2026-03-22, 02:04:31](https://news.ycombinator.com/item?id=47473718) - [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
 * [2026-03-22, 01:02:10](https://news.ycombinator.com/item?id=47473279) - [Chest Fridge (2009)](https://mtbest.net/chest-fridge/)
