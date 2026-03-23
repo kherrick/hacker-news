@@ -55,6 +55,7 @@
 * [2026-03-22, 09:37:30](https://news.ycombinator.com/item?id=47475859) - [Ask HN: AI productivity gains – do you fire devs or build better products?](https://news.ycombinator.com/item?id=47475859)
 * [2026-03-22, 09:35:54](https://news.ycombinator.com/item?id=47475849) - [Vatican Rebukes Peter Thiel's Antichrist Lectures in Rome](https://www.thenerdreich.com/peter-thiels-antichrist-circus-smacked-down-in-rome/)
 * [2026-03-22, 09:00:37](https://news.ycombinator.com/item?id=47475686) - [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/)
+* [2026-03-22, 08:06:18](https://news.ycombinator.com/item?id=47475417) - [Dune3d: A parametric 3D CAD application](https://github.com/dune3d/dune3d)
 * [2026-03-22, 07:21:22](https://news.ycombinator.com/item?id=47475232) - [We've had front end reactivity since 2018 – via Async Iterables](https://github.com/SacDeNoeuds/yawn)
 * [2026-03-22, 07:07:15](https://news.ycombinator.com/item?id=47475155) - [Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence](https://zenodo.org/records/18976656)
 * [2026-03-22, 06:23:59](https://news.ycombinator.com/item?id=47474967) - [HopTab–free,open source macOS app switcher and tiler that replaces Cmd+Tab](https://www.royalbhati.com/hoptab)
