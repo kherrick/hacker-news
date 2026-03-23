@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-23, 21:11:27](https://news.ycombinator.com/item?id=47495168) - [The Minimalist Entrepreneur – Claude Code Skills](https://github.com/slavingia/skills)
+* [2026-03-23, 20:49:10](https://news.ycombinator.com/item?id=47494890) - [How I'm Productive with Claude Code](https://neilkakkar.com/productive-with-claude-code.html)
 * [2026-03-23, 20:25:10](https://news.ycombinator.com/item?id=47494629) - [Bets on US-Iran ceasefire show signs of insider knowledge, say experts](https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket)
 * [2026-03-23, 20:11:38](https://news.ycombinator.com/item?id=47494469) - [American Aviation Is Near Collapse](https://www.theatlantic.com/newsletters/2026/03/aviation-failures-tsa-dhs-shutdown/686505/)
 * [2026-03-23, 18:57:08](https://news.ycombinator.com/item?id=47493657) - [Local Stack Archived their GitHub repo and requires an account to run](https://github.com/localstack/localstack)
@@ -19,8 +21,6 @@
 * [2026-03-23, 07:24:19](https://news.ycombinator.com/item?id=47486386) - [Two pilots dead after plane and ground vehicle collide at LaGuardia](https://www.bbc.com/news/articles/cy01g522ww4o)
 * [2026-03-23, 01:43:45](https://news.ycombinator.com/item?id=47484519) - [“Collaboration” is bullshit](https://www.joanwestenberg.com/collaboration-is-bullshit/)
 * [2026-03-22, 19:02:43](https://news.ycombinator.com/item?id=47480886) - [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
-* [2026-03-22, 18:23:40](https://news.ycombinator.com/item?id=47480507) - [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
-* [2026-03-22, 11:09:34](https://news.ycombinator.com/item?id=47476315) - [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision)
 * [2026-03-22, 09:45:14](https://news.ycombinator.com/item?id=47475888) - [Trivy under attack again: Widespread GitHub Actions tag compromise secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise)
 * [2026-03-22, 08:06:18](https://news.ycombinator.com/item?id=47475417) - [Dune3d: A parametric 3D CAD application](https://github.com/dune3d/dune3d)
 * [2026-03-20, 19:20:49](https://news.ycombinator.com/item?id=47459363) - [BIO: The Bao I/O Coprocessor](https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/)

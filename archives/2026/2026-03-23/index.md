@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-23](index.md)
 
+* [2026-03-23, 21:11:27](https://news.ycombinator.com/item?id=47495168) - [The Minimalist Entrepreneur – Claude Code Skills](https://github.com/slavingia/skills)
+* [2026-03-23, 20:49:10](https://news.ycombinator.com/item?id=47494890) - [How I'm Productive with Claude Code](https://neilkakkar.com/productive-with-claude-code.html)
 * [2026-03-23, 20:25:10](https://news.ycombinator.com/item?id=47494629) - [Bets on US-Iran ceasefire show signs of insider knowledge, say experts](https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket)
 * [2026-03-23, 20:11:38](https://news.ycombinator.com/item?id=47494469) - [American Aviation Is Near Collapse](https://www.theatlantic.com/newsletters/2026/03/aviation-failures-tsa-dhs-shutdown/686505/)
 * [2026-03-23, 18:57:08](https://news.ycombinator.com/item?id=47493657) - [Local Stack Archived their GitHub repo and requires an account to run](https://github.com/localstack/localstack)
