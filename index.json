@@ -1,11 +1,41 @@
 [
   [
     [
+      "2026-03-23, 16:13:40",
+      "https://news.ycombinator.com/item?id=47491496"
+    ],
+    [
+      "Is it a pint?",
+      "https://isitapint.com/"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 16:08:01",
+      "https://news.ycombinator.com/item?id=47491414"
+    ],
+    [
+      "Show HN: Threadprocs – executables sharing one address space (0-copy pointers)",
+      "https://github.com/jer-irl/threadprocs"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 15:25:04",
+      "https://news.ycombinator.com/item?id=47490816"
+    ],
+    [
+      "Cyber.mil serving file downloads using TLS certificate which expired 3 days ago",
+      "https://www.cyber.mil/stigs/downloads"
+    ]
+  ],
+  [
+    [
       "2026-03-23, 14:52:52",
       "https://news.ycombinator.com/item?id=47490365"
     ],
     [
-      "If Dspy is so great, why isn't anyone using it?",
+      "If DSPy is so great, why isn't anyone using it?",
       "https://skylarbpayne.com/posts/dspy-engineering-patterns/"
     ]
   ],
@@ -31,11 +61,31 @@
   ],
   [
     [
+      "2026-03-23, 13:13:30",
+      "https://news.ycombinator.com/item?id=47489058"
+    ],
+    [
+      "Cyberattack on vehicle breathalyzer company leaves drivers stranded in the US",
+      "https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 13:12:30",
+      "https://news.ycombinator.com/item?id=47489044"
+    ],
+    [
+      "America tells private firms to \"hack back\"",
+      "https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back"
+    ]
+  ],
+  [
+    [
       "2026-03-23, 11:31:19",
       "https://news.ycombinator.com/item?id=47488015"
     ],
     [
-      "Attractive students no longer receive better results as classes moved online",
+      "Student beauty and grades under in-person and remote teaching",
       "https://www.sciencedirect.com/science/article/pii/S016517652200283X"
     ]
   ],
@@ -51,22 +101,22 @@
   ],
   [
     [
+      "2026-03-23, 10:32:33",
+      "https://news.ycombinator.com/item?id=47487536"
+    ],
+    [
+      "I built an AI receptionist for a mechanic shop",
+      "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/"
+    ]
+  ],
+  [
+    [
       "2026-03-23, 10:17:32",
       "https://news.ycombinator.com/item?id=47487436"
     ],
     [
       "Migrating to the EU",
       "https://rz01.org/eu-migration/"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 09:01:55",
-      "https://news.ycombinator.com/item?id=47486915"
-    ],
-    [
-      "Dataframe 1.0.0.0",
-      "https://discourse.haskell.org/t/ann-dataframe-1-0-0-0/13834"
     ]
   ],
   [
@@ -101,16 +151,6 @@
   ],
   [
     [
-      "2026-03-22, 21:14:11",
-      "https://news.ycombinator.com/item?id=47482217"
-    ],
-    [
-      "GrapheneOS will remain usable by anyone without requiring personal information",
-      "https://grapheneos.social/@GrapheneOS/116261301913660830"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 19:02:43",
       "https://news.ycombinator.com/item?id=47480886"
     ],
@@ -131,32 +171,12 @@
   ],
   [
     [
-      "2026-03-22, 18:18:01",
-      "https://news.ycombinator.com/item?id=47480447"
-    ],
-    [
-      "What young workers are doing to AI-proof themselves",
-      "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 17:17:06",
       "https://news.ycombinator.com/item?id=47479751"
     ],
     [
       "Why I love NixOS",
       "https://www.birkey.co/2026-03-22-why-i-love-nixos.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 15:30:54",
-      "https://news.ycombinator.com/item?id=47478548"
-    ],
-    [
-      "You are not your job",
-      "https://jry.io/writing/you-are-not-your-job/"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "Project Nomad – Knowledge That Never Goes Offline",
       "https://www.projectnomad.us"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 11:30:03",
-      "https://news.ycombinator.com/item?id=47476422"
-    ],
-    [
-      "Flash-MoE: Running a 397B Parameter Model on a Laptop",
-      "https://github.com/danveloper/flash-moe"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=47437005"
     ],
     [
-      "An Unsolicited Guide to Being a Researcher [pdf]",
+      "An unsolicited guide to being a researcher [pdf]",
       "https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf"
     ]
   ],
@@ -275,28 +285,18 @@
       "https://news.ycombinator.com/item?id=47436592"
     ],
     [
-      "Bombadil: Property-based testing for web UIs by Antithesis",
+      "Bombadil: Property-based testing for web UIs",
       "https://github.com/antithesishq/bombadil"
     ]
   ],
   [
     [
-      "2026-03-17, 23:45:47",
-      "https://news.ycombinator.com/item?id=47419900"
+      "2026-03-18, 13:57:21",
+      "https://news.ycombinator.com/item?id=47425882"
     ],
     [
-      "The LCA problem revisited [pdf]",
-      "https://www3.cs.stonybrook.edu/~bender/talks/BenderFa00-lca-talk.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 15:31:52",
-      "https://news.ycombinator.com/item?id=47414104"
-    ],
-    [
-      "Ordered dithering with arbitrary or irregular colour palettes (2023)",
-      "https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/"
+      "Side-Effectful Expressions in C (2023)",
+      "https://blog.xoria.org/expr-stmt-c/"
     ]
   ]
 ]
