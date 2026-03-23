@@ -17,6 +17,7 @@
 * [2026-03-20, 20:47:45](https://news.ycombinator.com/item?id=47460379) - [Monkey C – Small familiar language for apps on Garmin watches](https://developer.garmin.com/connect-iq/monkey-c/)
 * [2026-03-20, 20:25:23](https://news.ycombinator.com/item?id=47460154) - [The bespoke software revolution? I'm not buying it](https://world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec)
 * [2026-03-20, 19:29:39](https://news.ycombinator.com/item?id=47459447) - [NumKong: 2'000 Mixed Precision Kernels for All](https://ashvardanian.com/posts/numkong/)
+* [2026-03-20, 19:20:49](https://news.ycombinator.com/item?id=47459363) - [BIO: The Bao I/O Coprocessor](https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/)
 * [2026-03-20, 19:16:13](https://news.ycombinator.com/item?id=47459296) - [Our Commitment to Windows Quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)
 * [2026-03-20, 18:23:41](https://news.ycombinator.com/item?id=47458595) - [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)
 * [2026-03-20, 18:19:58](https://news.ycombinator.com/item?id=47458549) - [BYD's bet on EVs is paying off as drivers ditch gas amid rising oil prices](https://electrek.co/2026/03/20/byd-ev-demand-surges-drivers-ditch-gas-amid-rising-oil-prices/)
