@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-23, 18:57:08",
+      "https://news.ycombinator.com/item?id=47493657"
+    ],
+    [
+      "Local Stack Archived their GitHub repo and requires an account to run",
+      "https://github.com/localstack/localstack"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 18:40:58",
+      "https://news.ycombinator.com/item?id=47493460"
+    ],
+    [
+      "I tried Karpathy's Autoresearch on an old research project",
+      "https://ykumar.me/blog/eclip-autoresearch/"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 17:35:38",
+      "https://news.ycombinator.com/item?id=47492599"
+    ],
+    [
+      "US govt pays TotalEnergies nearly $1B to stop US offshore wind projects",
+      "https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html"
+    ]
+  ],
+  [
+    [
       "2026-03-23, 16:13:40",
       "https://news.ycombinator.com/item?id=47491496"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-03-23, 03:33:41",
-      "https://news.ycombinator.com/item?id=47485231"
-    ],
-    [
-      "GoGoGrandparent (YC S16) is hiring Back end Engineers",
-      "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer"
-    ]
-  ],
-  [
-    [
       "2026-03-23, 01:43:45",
       "https://news.ycombinator.com/item?id=47484519"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2026-03-22, 17:17:06",
-      "https://news.ycombinator.com/item?id=47479751"
-    ],
-    [
-      "Why I love NixOS",
-      "https://www.birkey.co/2026-03-22-why-i-love-nixos.html"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 15:16:28",
       "https://news.ycombinator.com/item?id=47478401"
     ],
     [
       "The future of version control",
       "https://bramcohen.com/p/manyana"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 12:28:38",
-      "https://news.ycombinator.com/item?id=47476821"
-    ],
-    [
-      "Project Nomad – Knowledge That Never Goes Offline",
-      "https://www.projectnomad.us"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-03-19, 10:10:13",
-      "https://news.ycombinator.com/item?id=47437062"
+      "2026-03-19, 18:40:02",
+      "https://news.ycombinator.com/item?id=47443903"
     ],
     [
-      "Nanopositioning Metrology, Gödel, and Bootstraps",
-      "https://www.pi-usa.us/en/tech-blog/nanopositioning-metrology-goedel-and-bootstraps"
+      "The quadratic problem nobody fixed",
+      "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/"
     ]
   ],
   [
