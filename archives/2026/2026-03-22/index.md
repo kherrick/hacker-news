@@ -51,6 +51,7 @@
 * [2026-03-22, 11:09:34](https://news.ycombinator.com/item?id=47476315) - [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision)
 * [2026-03-22, 10:22:28](https://news.ycombinator.com/item?id=47476060) - ['Miracle': Europe reconnects with lost spacecraft](https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html)
 * [2026-03-22, 09:57:31](https://news.ycombinator.com/item?id=47475938) - [Windows native app development is a mess](https://domenic.me/windows-native-dev/)
+* [2026-03-22, 09:45:14](https://news.ycombinator.com/item?id=47475888) - [Trivy under attack again: Widespread GitHub Actions tag compromise secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise)
 * [2026-03-22, 09:37:30](https://news.ycombinator.com/item?id=47475859) - [Ask HN: AI productivity gains – do you fire devs or build better products?](https://news.ycombinator.com/item?id=47475859)
 * [2026-03-22, 09:35:54](https://news.ycombinator.com/item?id=47475849) - [Vatican Rebukes Peter Thiel's Antichrist Lectures in Rome](https://www.thenerdreich.com/peter-thiels-antichrist-circus-smacked-down-in-rome/)
 * [2026-03-22, 09:00:37](https://news.ycombinator.com/item?id=47475686) - [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/)
