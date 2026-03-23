@@ -55,6 +55,7 @@
 * [2026-03-18, 14:14:02](https://news.ycombinator.com/item?id=47426057) - [Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It](https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government)
 * [2026-03-18, 14:00:43](https://news.ycombinator.com/item?id=47425918) - [A ngrok-style secure tunnel server written in Rust and Open Source](https://github.com/joaoh82/rustunnel)
 * [2026-03-18, 13:57:51](https://news.ycombinator.com/item?id=47425889) - [Show HN: Elisym – Open protocol for AI agents to discover and pay each other](https://news.ycombinator.com/item?id=47425889)
+* [2026-03-18, 13:57:21](https://news.ycombinator.com/item?id=47425882) - [Side-Effectful Expressions in C (2023)](https://blog.xoria.org/expr-stmt-c/)
 * [2026-03-18, 13:56:37](https://news.ycombinator.com/item?id=47425874) - [LLMs Predict My Coffee](https://dynomight.net/coffee/)
 * [2026-03-18, 13:32:48](https://news.ycombinator.com/item?id=47425607) - [FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall](https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/)
 * [2026-03-18, 13:04:15](https://news.ycombinator.com/item?id=47425297) - [Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts](https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking)

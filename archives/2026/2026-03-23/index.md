@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-03-23](index.md)
 
+* [2026-03-23, 16:13:40](https://news.ycombinator.com/item?id=47491496) - [Is it a pint?](https://isitapint.com/)
+* [2026-03-23, 16:08:01](https://news.ycombinator.com/item?id=47491414) - [Show HN: Threadprocs – executables sharing one address space (0-copy pointers)](https://github.com/jer-irl/threadprocs)
+* [2026-03-23, 15:25:04](https://news.ycombinator.com/item?id=47490816) - [Cyber.mil serving file downloads using TLS certificate which expired 3 days ago](https://www.cyber.mil/stigs/downloads)
 * [2026-03-23, 14:52:52](https://news.ycombinator.com/item?id=47490365) - [If Dspy is so great, why isn't anyone using it?](https://skylarbpayne.com/posts/dspy-engineering-patterns/)
 * [2026-03-23, 14:36:30](https://news.ycombinator.com/item?id=47490150) - [Study: 'Security Fatigue' May Weaken Digital Defenses](https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses)
 * [2026-03-23, 14:30:10](https://news.ycombinator.com/item?id=47490070) - [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412)
 * [2026-03-23, 14:25:45](https://news.ycombinator.com/item?id=47490018) - [355 Issues of the UK music magazine NME from 1969-1983](https://archive.org/search?query=creator%3A%22NME+-+New+Musical+Express%22&sort=-addeddate)
 * [2026-03-23, 13:13:30](https://news.ycombinator.com/item?id=47489058) - [Cyberattack on vehicle breathalyzer company leaves drivers stranded in the US](https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/)
+* [2026-03-23, 13:12:30](https://news.ycombinator.com/item?id=47489044) - [America tells private firms to \"hack back\"](https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back)
 * [2026-03-23, 12:37:39](https://news.ycombinator.com/item?id=47488635) - [Fyn: An uv fork with new features, bug fixes, stripped telemetry](https://github.com/duriantaco/fyn)
 * [2026-03-23, 11:31:19](https://news.ycombinator.com/item?id=47488015) - [Attractive students no longer receive better results as classes moved online](https://www.sciencedirect.com/science/article/pii/S016517652200283X)
 * [2026-03-23, 11:08:02](https://news.ycombinator.com/item?id=47487790) - [Jazz CRJ9 at New York on Mar 22nd 2026, collision with fire truck on runway](https://avherald.com/h?article=536bb98e)
