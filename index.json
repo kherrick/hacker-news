@@ -231,6 +231,26 @@
   ],
   [
     [
+      "2026-03-20, 13:21:51",
+      "https://news.ycombinator.com/item?id=47454127"
+    ],
+    [
+      "The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y",
+      "https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 12:11:35",
+      "https://news.ycombinator.com/item?id=47453462"
+    ],
+    [
+      "Can you get root with only a cigarette lighter? (2024)",
+      "https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 14:18:58",
       "https://news.ycombinator.com/item?id=47439948"
     ],
@@ -247,16 +267,6 @@
     [
       "First and Lego Education Partnership Update",
       "https://community.firstinspires.org/first-lego-education-partnership-update"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 13:11:26",
-      "https://news.ycombinator.com/item?id=47438804"
-    ],
-    [
-      "Answer Engine Optimization",
-      "https://juliasolorzano.com/blog/2026/03/16/answer-engine-optimization/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "LLMs predict my coffee",
       "https://dynomight.net/coffee/"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 15:31:52",
-      "https://news.ycombinator.com/item?id=47414104"
-    ],
-    [
-      "Ordered Dithering with Arbitrary or Irregular Colour Palettes (2023)",
-      "https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/"
     ]
   ]
 ]
