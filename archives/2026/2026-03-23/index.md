@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-23](index.md)
 
+* [2026-03-23, 11:08:02](https://news.ycombinator.com/item?id=47487790) - [Jazz CRJ9 at New York on Mar 22nd 2026, collision with fire truck on runway](https://avherald.com/h?article=536bb98e)
+* [2026-03-23, 10:39:39](https://news.ycombinator.com/item?id=47487584) - [GitHub appears to be struggling with measly three nines availability](https://www.theregister.com/2026/02/10/github_outages/)
+* [2026-03-23, 10:32:33](https://news.ycombinator.com/item?id=47487536) - [I Built an AI Receptionist for a Luxury Mechanic Shop – Part 1](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
+* [2026-03-23, 10:17:32](https://news.ycombinator.com/item?id=47487436) - [Migrating to the EU](https://rz01.org/eu-migration/)
 * [2026-03-23, 09:01:55](https://news.ycombinator.com/item?id=47486915) - [Dataframe 1.0.0.0](https://discourse.haskell.org/t/ann-dataframe-1-0-0-0/13834)
 * [2026-03-23, 08:29:27](https://news.ycombinator.com/item?id=47486726) - [POSSE](https://indieweb.org/POSSE)
 * [2026-03-23, 08:21:57](https://news.ycombinator.com/item?id=47486680) - [Show HN: The King Wen Permutation: [52, 10, 2]](https://gzw1987-bit.github.io/iching-math/)
