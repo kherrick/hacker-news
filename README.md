@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-23, 12:37:39](https://news.ycombinator.com/item?id=47488635) - [Fyn: An uv fork with new features, bug fixes, stripped telemetry](https://github.com/duriantaco/fyn)
+* [2026-03-23, 14:25:45](https://news.ycombinator.com/item?id=47490018) - [355 Issues of the UK music magazine NME from 1969-1983](https://archive.org/search?query=creator%3A%22NME+-+New+Musical+Express%22&sort=-addeddate)
+* [2026-03-23, 13:13:30](https://news.ycombinator.com/item?id=47489058) - [Cyberattack on vehicle breathalyzer company leaves drivers stranded in the US](https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/)
 * [2026-03-23, 11:31:19](https://news.ycombinator.com/item?id=47488015) - [Attractive students no longer receive better results as classes moved online](https://www.sciencedirect.com/science/article/pii/S016517652200283X)
 * [2026-03-23, 11:08:02](https://news.ycombinator.com/item?id=47487790) - [Jazz CRJ9 at New York on Mar 22nd 2026, collision with fire truck on runway](https://avherald.com/h?article=536bb98e)
 * [2026-03-23, 10:39:39](https://news.ycombinator.com/item?id=47487584) - [GitHub appears to be struggling with measly three nines availability](https://www.theregister.com/2026/02/10/github_outages/)
@@ -14,7 +15,6 @@
 * [2026-03-22, 18:23:40](https://news.ycombinator.com/item?id=47480507) - [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
 * [2026-03-22, 18:18:01](https://news.ycombinator.com/item?id=47480447) - [What young workers are doing to AI-proof themselves](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
 * [2026-03-22, 17:17:06](https://news.ycombinator.com/item?id=47479751) - [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html)
-* [2026-03-22, 17:06:38](https://news.ycombinator.com/item?id=47479627) - [Five years of running a systems reading group at Microsoft](https://armaansood.com/posts/systems-reading-group/)
 * [2026-03-22, 15:30:54](https://news.ycombinator.com/item?id=47478548) - [You are not your job](https://jry.io/writing/you-are-not-your-job/)
 * [2026-03-22, 15:16:28](https://news.ycombinator.com/item?id=47478401) - [The future of version control](https://bramcohen.com/p/manyana)
 * [2026-03-22, 13:24:38](https://news.ycombinator.com/item?id=47477284) - [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo)
@@ -26,10 +26,10 @@
 * [2026-03-20, 13:21:51](https://news.ycombinator.com/item?id=47454127) - [The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y](https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies)
 * [2026-03-20, 12:11:35](https://news.ycombinator.com/item?id=47453462) - [Can you get root with only a cigarette lighter? (2024)](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
 * [2026-03-19, 19:42:35](https://news.ycombinator.com/item?id=47444812) - [Walmart: ChatGPT checkout converted 3x worse than website](https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071)
+* [2026-03-19, 18:14:10](https://news.ycombinator.com/item?id=47443547) - [Fear and Fragility: The Glass Delusion and Its History](https://publicdomainreview.org/essay/fear-and-fragility-the-glass-delusion-and-its-history)
 * [2026-03-19, 10:00:42](https://news.ycombinator.com/item?id=47437005) - [An Unsolicited Guide to Being a Researcher [pdf]](https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf)
 * [2026-03-19, 08:53:36](https://news.ycombinator.com/item?id=47436592) - [Bombadil: Property-based testing for web UIs by Antithesis](https://github.com/antithesishq/bombadil)
 * [2026-03-17, 23:45:47](https://news.ycombinator.com/item?id=47419900) - [The LCA problem revisited [pdf]](https://www3.cs.stonybrook.edu/~bender/talks/BenderFa00-lca-talk.pdf)
-* [2026-03-17, 15:31:52](https://news.ycombinator.com/item?id=47414104) - [Ordered dithering with arbitrary or irregular colour palettes (2023)](https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/)
 
 ## [Archives](archives/index.md)
 

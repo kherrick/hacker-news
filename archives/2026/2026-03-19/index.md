@@ -28,6 +28,7 @@
 * [2026-03-19, 18:59:02](https://news.ycombinator.com/item?id=47444195) - [A rogue AI led to a serious security incident at Meta](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
 * [2026-03-19, 18:51:25](https://news.ycombinator.com/item?id=47444072) - [NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute](https://qlabs.sh/10x)
 * [2026-03-19, 18:17:15](https://news.ycombinator.com/item?id=47443588) - [Noq: n0's new QUIC implementation in Rust](https://www.iroh.computer/blog/noq-announcement)
+* [2026-03-19, 18:14:10](https://news.ycombinator.com/item?id=47443547) - [Fear and Fragility: The Glass Delusion and Its History](https://publicdomainreview.org/essay/fear-and-fragility-the-glass-delusion-and-its-history)
 * [2026-03-19, 17:52:11](https://news.ycombinator.com/item?id=47443239) - [Connecticut and the 1 Kilometer Effect](https://alearningaday.blog/2026/03/19/connecticut-and-the-1-kilometer-effect/)
 * [2026-03-19, 17:48:20](https://news.ycombinator.com/item?id=47443175) - [US has \"lost control of its own foreign policy\", Oman says](https://www.theguardian.com/world/2026/mar/19/us-lost-control-of-its-own-foreign-policy-oman-foreign-minister)
 * [2026-03-19, 17:27:45](https://news.ycombinator.com/item?id=47442841) - [Show HN: Oku – One tab to filter out noise from feeds and content sources](https://oku.io)
