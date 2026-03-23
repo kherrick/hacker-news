@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-23](index.md)
 
+* [2026-03-23, 22:52:35](https://news.ycombinator.com/item?id=47496221) - [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)
+* [2026-03-23, 22:37:15](https://news.ycombinator.com/item?id=47496089) - [IRIX 3dfx Voodoo driver and glide2x IRIX port](https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/)
+* [2026-03-23, 22:24:09](https://news.ycombinator.com/item?id=47495966) - [Nvidia CEO Jensen Huang says 'I think we've achieved AGI'](https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi)
 * [2026-03-23, 22:08:43](https://news.ycombinator.com/item?id=47495820) - [FCC adds \"routers produced in foreign countries\" to covered list [pdf]](https://docs.fcc.gov/public/attachments/DA-26-278A1.pdf)
+* [2026-03-23, 22:07:10](https://news.ycombinator.com/item?id=47495803) - [Talking Liquid Glass with Apple](https://captainswiftui.substack.com/p/talking-liquid-glass-with-apple)
 * [2026-03-23, 22:01:15](https://news.ycombinator.com/item?id=47495719) - [Hacker Mints $80M USD Worth of USR Stablecoins](https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swaps-them-for-eth/)
 * [2026-03-23, 21:47:42](https://news.ycombinator.com/item?id=47495568) - [Chat GPT 5.2 cannot explain the German word \"geschniegelt\"](https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/)
 * [2026-03-23, 21:44:20](https://news.ycombinator.com/item?id=47495527) - [Printable Claude Code Cheat Sheet (auto-updated daily)](https://cc.storyfox.cz)
@@ -13,6 +17,7 @@
 * [2026-03-23, 20:56:48](https://news.ycombinator.com/item?id=47494999) - [Flipper Zero, Everyone's Favorite Legally Dubious Hacker Tool, Gets AI Upgrade](https://gizmodo.com/flipper-zero-everyones-favorite-legally-dubious-hacker-tool-gets-an-ai-upgrade-2000736967)
 * [2026-03-23, 20:49:10](https://news.ycombinator.com/item?id=47494890) - [How I'm Productive with Claude Code](https://neilkakkar.com/productive-with-claude-code.html)
 * [2026-03-23, 20:48:25](https://news.ycombinator.com/item?id=47494879) - [The Treasury just declared the U.S. insolvent](https://fortune.com/2026/03/23/us-government-insolvent-fiscal-crisis-fix/)
+* [2026-03-23, 20:42:22](https://news.ycombinator.com/item?id=47494821) - [A retro terminal music player inspired by Winamp](https://github.com/bjarneo/cliamp)
 * [2026-03-23, 20:27:36](https://news.ycombinator.com/item?id=47494655) - [Next-generation electricity is almost here](https://www.gatesnotes.com/work/accelerate-energy-innovation/reader/the-next-generation-of-electricity-is-almost-here)
 * [2026-03-23, 20:25:10](https://news.ycombinator.com/item?id=47494629) - [Bets on US-Iran ceasefire show signs of insider knowledge, say experts](https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket)
 * [2026-03-23, 20:11:38](https://news.ycombinator.com/item?id=47494469) - [American Aviation Is Near Collapse](https://www.theatlantic.com/newsletters/2026/03/aviation-failures-tsa-dhs-shutdown/686505/)
@@ -21,6 +26,7 @@
 * [2026-03-23, 18:19:05](https://news.ycombinator.com/item?id=47493194) - [AI Risks \"Hypernormal\" Science](https://www.asimov.press/p/ai-science)
 * [2026-03-23, 17:35:38](https://news.ycombinator.com/item?id=47492599) - [US govt pays TotalEnergies nearly $1B to stop US offshore wind projects](https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html)
 * [2026-03-23, 16:13:40](https://news.ycombinator.com/item?id=47491496) - [Is it a pint?](https://isitapint.com/)
+* [2026-03-23, 16:11:03](https://news.ycombinator.com/item?id=47491466) - [Show HN: Cq – Stack Overflow for AI coding agents](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
 * [2026-03-23, 16:08:01](https://news.ycombinator.com/item?id=47491414) - [Show HN: Threadprocs – executables sharing one address space (0-copy pointers)](https://github.com/jer-irl/threadprocs)
 * [2026-03-23, 15:25:04](https://news.ycombinator.com/item?id=47490816) - [Cyber.mil serving file downloads using TLS certificate which expired 3 days ago](https://www.cyber.mil/stigs/downloads)
 * [2026-03-23, 15:13:22](https://news.ycombinator.com/item?id=47490648) - [An Incoherent Rust](https://www.boxyuwu.blog/posts/an-incoherent-rust/)

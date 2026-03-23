@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-19](index.md)
 
+* [2026-03-19, 23:31:02](https://news.ycombinator.com/item?id=47447970) - [New Open Source Release](https://news.ycombinator.com/item?id=47447970)
 * [2026-03-19, 23:08:37](https://news.ycombinator.com/item?id=47447690) - [The day I discovered type design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/)
 * [2026-03-19, 22:59:18](https://news.ycombinator.com/item?id=47447600) - [Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html)
 * [2026-03-19, 22:33:08](https://news.ycombinator.com/item?id=47447317) - [Minecraft Source Code Is Interesting](https://www.karanjanthe.me/posts/minecraft-source/)
