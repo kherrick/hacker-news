@@ -1,22 +1,32 @@
 [
   [
     [
-      "2026-03-23, 14:25:45",
-      "https://news.ycombinator.com/item?id=47490018"
+      "2026-03-23, 14:52:52",
+      "https://news.ycombinator.com/item?id=47490365"
     ],
     [
-      "355 Issues of the UK music magazine NME from 1969-1983",
-      "https://archive.org/search?query=creator%3A%22NME+-+New+Musical+Express%22&sort=-addeddate"
+      "If Dspy is so great, why isn't anyone using it?",
+      "https://skylarbpayne.com/posts/dspy-engineering-patterns/"
     ]
   ],
   [
     [
-      "2026-03-23, 13:13:30",
-      "https://news.ycombinator.com/item?id=47489058"
+      "2026-03-23, 14:36:30",
+      "https://news.ycombinator.com/item?id=47490150"
     ],
     [
-      "Cyberattack on vehicle breathalyzer company leaves drivers stranded in the US",
-      "https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/"
+      "Study: 'Security Fatigue' May Weaken Digital Defenses",
+      "https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 14:30:10",
+      "https://news.ycombinator.com/item?id=47490070"
+    ],
+    [
+      "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "https://twitter.com/anemll/status/2035901335984611412"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "Attractive students no longer receive better results as classes moved online",
       "https://www.sciencedirect.com/science/article/pii/S016517652200283X"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 11:08:02",
-      "https://news.ycombinator.com/item?id=47487790"
-    ],
-    [
-      "Jazz CRJ9 at New York on Mar 22nd 2026, collision with fire truck on runway",
-      "https://avherald.com/h?article=536bb98e"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2026-03-22, 13:24:38",
-      "https://news.ycombinator.com/item?id=47477284"
-    ],
-    [
-      "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
-      "https://noquiche.fyi/voodoo"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 12:28:38",
       "https://news.ycombinator.com/item?id=47476821"
     ],
@@ -207,16 +197,6 @@
     [
       "Reports of code's death are greatly exaggerated",
       "https://stevekrouse.com/precision"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 17:59:35",
-      "https://news.ycombinator.com/item?id=47458248"
-    ],
-    [
-      "General Motors Is Assisting with the Restoration of a Rare EV1",
-      "https://evinfo.net/2026/03/general-motors-is-assisting-with-the-restoration-of-an-1996-ev1/"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2026-03-19, 10:10:13",
+      "https://news.ycombinator.com/item?id=47437062"
+    ],
+    [
+      "Nanopositioning Metrology, Gödel, and Bootstraps",
+      "https://www.pi-usa.us/en/tech-blog/nanopositioning-metrology-goedel-and-bootstraps"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 10:00:42",
       "https://news.ycombinator.com/item?id=47437005"
     ],
@@ -297,6 +287,16 @@
     [
       "The LCA problem revisited [pdf]",
       "https://www3.cs.stonybrook.edu/~bender/talks/BenderFa00-lca-talk.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 15:31:52",
+      "https://news.ycombinator.com/item?id=47414104"
+    ],
+    [
+      "Ordered dithering with arbitrary or irregular colour palettes (2023)",
+      "https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/"
     ]
   ]
 ]
