@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-03-23, 21:11:27",
-      "https://news.ycombinator.com/item?id=47495168"
+      "2026-03-23, 20:56:48",
+      "https://news.ycombinator.com/item?id=47494999"
     ],
     [
-      "The Minimalist Entrepreneur – Claude Code Skills",
-      "https://github.com/slavingia/skills"
+      "Flipper Zero, Everyone's Favorite Legally Dubious Hacker Tool, Gets AI Upgrade",
+      "https://gizmodo.com/flipper-zero-everyones-favorite-legally-dubious-hacker-tool-gets-an-ai-upgrade-2000736967"
     ]
   ],
   [
@@ -21,22 +21,22 @@
   ],
   [
     [
+      "2026-03-23, 20:48:25",
+      "https://news.ycombinator.com/item?id=47494879"
+    ],
+    [
+      "The Treasury just declared the U.S. insolvent",
+      "https://fortune.com/2026/03/23/us-government-insolvent-fiscal-crisis-fix/"
+    ]
+  ],
+  [
+    [
       "2026-03-23, 20:25:10",
       "https://news.ycombinator.com/item?id=47494629"
     ],
     [
       "Bets on US-Iran ceasefire show signs of insider knowledge, say experts",
       "https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 20:11:38",
-      "https://news.ycombinator.com/item?id=47494469"
-    ],
-    [
-      "American Aviation Is Near Collapse",
-      "https://www.theatlantic.com/newsletters/2026/03/aviation-failures-tsa-dhs-shutdown/686505/"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2026-03-23, 14:52:52",
-      "https://news.ycombinator.com/item?id=47490365"
-    ],
-    [
-      "If DSPy is so great, why isn't anyone using it?",
-      "https://skylarbpayne.com/posts/dspy-engineering-patterns/"
-    ]
-  ],
-  [
-    [
       "2026-03-23, 14:30:10",
       "https://news.ycombinator.com/item?id=47490070"
     ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=47486916"
     ],
     [
-      "Digs: Offline-first iOS app to browse your Discogs vinyl collection",
+      "Digs: iOS app that syncs your Discogs collection and lets you browse it offline",
       "https://lustin.fr/blog/building-digs/"
     ]
   ],
@@ -197,16 +187,6 @@
     [
       "“Collaboration” is bullshit",
       "https://www.joanwestenberg.com/collaboration-is-bullshit/"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 19:02:43",
-      "https://news.ycombinator.com/item?id=47480886"
-    ],
-    [
-      "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
-      "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2026-03-20, 14:02:14",
+      "https://news.ycombinator.com/item?id=47454647"
+    ],
+    [
+      "Tin Can, a 'landline' for kids",
+      "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 19:42:35",
       "https://news.ycombinator.com/item?id=47444812"
     ],
@@ -267,6 +257,16 @@
     [
       "Finding all regex matches has always been O(n²)",
       "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 14:11:56",
+      "https://news.ycombinator.com/item?id=47439821"
+    ],
+    [
+      "Conway's Game of Life, in real life",
+      "https://lcamtuf.coredump.cx/blog/conway/"
     ]
   ],
   [
