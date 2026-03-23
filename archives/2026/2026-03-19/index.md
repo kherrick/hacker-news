@@ -55,6 +55,7 @@
 * [2026-03-19, 14:38:51](https://news.ycombinator.com/item?id=47440309) - [Hyper-optimized reverse geocoding API](https://github.com/traccar/traccar-geocoder)
 * [2026-03-19, 14:37:27](https://news.ycombinator.com/item?id=47440284) - [The Shape of Inequalities](https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/)
 * [2026-03-19, 14:18:58](https://news.ycombinator.com/item?id=47439948) - [A Copy-Paste Bug That Broke PSpice AES-256 Encryption](https://jtsylve.blog/post/2026/03/18/PSpice-Encryption-Weakness)
+* [2026-03-19, 14:11:56](https://news.ycombinator.com/item?id=47439821) - [Conway's Game of Life, in real life](https://lcamtuf.coredump.cx/blog/conway/)
 * [2026-03-19, 14:06:39](https://news.ycombinator.com/item?id=47439718) - [Consensus Board Game](https://matklad.github.io/2026/03/19/consensus-board-game.html)
 * [2026-03-19, 14:06:28](https://news.ycombinator.com/item?id=47439714) - [Switch Your Phone to an MVNO](https://practicalbetterments.com/switch-your-phone-to-an-mvno/)
 * [2026-03-19, 13:43:26](https://news.ycombinator.com/item?id=47439320) - [OpenBSD: PF queues break the 4 Gbps barrier](https://undeadly.org/cgi?action=article;sid=20260319125859)
