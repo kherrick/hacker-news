@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-23](index.md)
 
+* [2026-03-23, 18:57:08](https://news.ycombinator.com/item?id=47493657) - [Local Stack Archived their GitHub repo and requires an account to run](https://github.com/localstack/localstack)
+* [2026-03-23, 18:40:58](https://news.ycombinator.com/item?id=47493460) - [I tried Karpathy's Autoresearch on an old research project](https://ykumar.me/blog/eclip-autoresearch/)
+* [2026-03-23, 17:35:38](https://news.ycombinator.com/item?id=47492599) - [US govt pays TotalEnergies nearly $1B to stop US offshore wind projects](https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html)
 * [2026-03-23, 16:13:40](https://news.ycombinator.com/item?id=47491496) - [Is it a pint?](https://isitapint.com/)
 * [2026-03-23, 16:08:01](https://news.ycombinator.com/item?id=47491414) - [Show HN: Threadprocs – executables sharing one address space (0-copy pointers)](https://github.com/jer-irl/threadprocs)
 * [2026-03-23, 15:25:04](https://news.ycombinator.com/item?id=47490816) - [Cyber.mil serving file downloads using TLS certificate which expired 3 days ago](https://www.cyber.mil/stigs/downloads)
