@@ -34,6 +34,7 @@
 * [2026-03-20, 14:33:41](https://news.ycombinator.com/item?id=47455138) - [Molly Guard](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html)
 * [2026-03-20, 14:09:58](https://news.ycombinator.com/item?id=47454782) - [Chuck Norris Has Died](https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/)
 * [2026-03-20, 14:04:39](https://news.ycombinator.com/item?id=47454694) - [Germany Mandates ODF for Public Administration](https://linuxiac.com/germany-mandates-odf-for-public-administration/)
+* [2026-03-20, 14:02:14](https://news.ycombinator.com/item?id=47454647) - [The hottest new phone is Tin Can, a 'landline' for kids](https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9)
 * [2026-03-20, 13:43:23](https://news.ycombinator.com/item?id=47454384) - [Java Is Fast. Your Code Might Not Be](https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/)
 * [2026-03-20, 13:38:56](https://news.ycombinator.com/item?id=47454341) - [I'm OK being left behind, thanks](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/)
 * [2026-03-20, 13:23:56](https://news.ycombinator.com/item?id=47454164) - [HP realizes that mandatory 15-minute support call wait times isn't good support](https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/)

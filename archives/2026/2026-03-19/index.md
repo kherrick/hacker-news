@@ -79,6 +79,7 @@
 * [2026-03-19, 05:53:04](https://news.ycombinator.com/item?id=47435453) - [Eniac, the First General-Purpose Digital Computer, Turns 80](https://spectrum.ieee.org/eniac-80-ieee-milestone)
 * [2026-03-19, 05:47:13](https://news.ycombinator.com/item?id=47435418) - [Desperately Seeking Space Friends](https://reviewcanada.ca/magazine/2026/04/desperately-seeking-space-friends-review-the-pale-blue-data-point/)
 * [2026-03-19, 05:00:56](https://news.ycombinator.com/item?id=47435156) - [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews)
+* [2026-03-19, 04:56:25](https://news.ycombinator.com/item?id=47435127) - [I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos](https://bay41.com/posts/tiiny-ai-pocket-lab-review/)
 * [2026-03-19, 04:49:33](https://news.ycombinator.com/item?id=47435081) - [Fujifilm X RAW STUDIO webapp clone](https://github.com/eggricesoy/filmkit)
 * [2026-03-19, 04:40:59](https://news.ycombinator.com/item?id=47435028) - [Invisalign Became the Biggest User of 3D Printers](https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/)
 * [2026-03-19, 04:35:51](https://news.ycombinator.com/item?id=47434986) - [Electronics for Kids, 2nd Edition](https://nostarch.com/electronics-for-kids-2e)

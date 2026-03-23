@@ -40,6 +40,7 @@
 * [2026-03-17, 15:45:15](https://news.ycombinator.com/item?id=47414291) - [Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go](https://github.com/antflydb/antfly)
 * [2026-03-17, 15:41:20](https://news.ycombinator.com/item?id=47414231) - [Turkish Coffee? Since the 16th Century, It's in the Water](https://specialprojects.sprudge.com/?p=868)
 * [2026-03-17, 15:32:11](https://news.ycombinator.com/item?id=47414112) - [A Fuzzer for the Toy Optimizer](https://bernsteinbear.com/blog/toy-fuzzer/)
+* [2026-03-17, 15:31:52](https://news.ycombinator.com/item?id=47414104) - [Ordered Dithering with Arbitrary or Irregular Colour Palettes (2023)](https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/)
 * [2026-03-17, 15:26:32](https://news.ycombinator.com/item?id=47414032) - [Unsloth Studio](https://unsloth.ai/docs/new/studio)
 * [2026-03-17, 15:16:39](https://news.ycombinator.com/item?id=47413879) - [Drawvg Filter for FFmpeg](https://ayosec.github.io/ffmpeg-drawvg/)
 * [2026-03-17, 15:16:29](https://news.ycombinator.com/item?id=47413876) - [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level)
