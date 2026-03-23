@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-23, 22:08:43",
+      "https://news.ycombinator.com/item?id=47495820"
+    ],
+    [
+      "FCC adds \"routers produced in foreign countries\" to covered list [pdf]",
+      "https://docs.fcc.gov/public/attachments/DA-26-278A1.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 22:01:15",
+      "https://news.ycombinator.com/item?id=47495719"
+    ],
+    [
+      "Hacker Mints $80M USD Worth of USR Stablecoins",
+      "https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swaps-them-for-eth/"
+    ]
+  ],
+  [
+    [
       "2026-03-23, 21:47:42",
       "https://news.ycombinator.com/item?id=47495568"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2026-03-23, 20:56:48",
-      "https://news.ycombinator.com/item?id=47494999"
+      "2026-03-23, 21:28:02",
+      "https://news.ycombinator.com/item?id=47495344"
     ],
     [
-      "Flipper Zero gets an AI upgrade",
-      "https://gizmodo.com/flipper-zero-everyones-favorite-legally-dubious-hacker-tool-gets-an-ai-upgrade-2000736967"
+      "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+      "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "How I'm Productive with Claude Code",
       "https://neilkakkar.com/productive-with-claude-code.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 20:27:36",
-      "https://news.ycombinator.com/item?id=47494655"
-    ],
-    [
-      "Next-generation electricity is almost here",
-      "https://www.gatesnotes.com/work/accelerate-energy-innovation/reader/the-next-generation-of-electricity-is-almost-here"
     ]
   ],
   [
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=47489044"
     ],
     [
-      "America tells private firms to \"hack back\"",
+      "America tells private firms to “hack back”",
       "https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back"
     ]
   ],
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2026-03-21, 15:07:29",
+      "https://news.ycombinator.com/item?id=47467719"
+    ],
+    [
+      "Ju Ci (锔瓷): The Ancient Art of Repairing Porcelain",
+      "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 19:20:49",
       "https://news.ycombinator.com/item?id=47459363"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-03-19, 14:11:56",
-      "https://news.ycombinator.com/item?id=47439821"
-    ],
-    [
-      "Conway's Game of Life, in real life",
-      "https://lcamtuf.coredump.cx/blog/conway/"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 10:00:42",
       "https://news.ycombinator.com/item?id=47437005"
     ],
@@ -287,16 +297,6 @@
     [
       "Bombadil: Property-based testing for web UIs",
       "https://github.com/antithesishq/bombadil"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 13:57:21",
-      "https://news.ycombinator.com/item?id=47425882"
-    ],
-    [
-      "Side-Effectful Expressions in C (2023)",
-      "https://blog.xoria.org/expr-stmt-c/"
     ]
   ]
 ]
