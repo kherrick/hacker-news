@@ -28,6 +28,7 @@
 * [2026-03-21, 15:49:30](https://news.ycombinator.com/item?id=47468104) - [Show HN: A deterministic middleware to compress LLM prompts by 50-80%](https://github.com/ARPAHLS/skillware)
 * [2026-03-21, 15:30:29](https://news.ycombinator.com/item?id=47467913) - [Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
 * [2026-03-21, 15:10:54](https://news.ycombinator.com/item?id=47467746) - [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/)
+* [2026-03-21, 15:07:29](https://news.ycombinator.com/item?id=47467719) - [Ju Ci (锔瓷): The Ancient Art of Repairing Porcelain](https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/)
 * [2026-03-21, 15:02:30](https://news.ycombinator.com/item?id=47467671) - [Show HN: Joonote – A note-taking app on your lock screen and notification panel](https://joonote.com/)
 * [2026-03-21, 14:55:42](https://news.ycombinator.com/item?id=47467623) - [How Ford burned $12B in Brazil (2021)](https://www.reuters.com/business/autos-transportation/how-ford-burned-12-billion-brazil-2021-05-20/)
 * [2026-03-21, 14:54:38](https://news.ycombinator.com/item?id=47467609) - [Iran launched unsuccessful attack on UK's Diego Garcia](https://www.bbc.com/news/articles/c5yljdgwppzo)

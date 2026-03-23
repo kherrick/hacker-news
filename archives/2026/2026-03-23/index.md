@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-23](index.md)
 
+* [2026-03-23, 22:08:43](https://news.ycombinator.com/item?id=47495820) - [FCC adds \"routers produced in foreign countries\" to covered list [pdf]](https://docs.fcc.gov/public/attachments/DA-26-278A1.pdf)
+* [2026-03-23, 22:01:15](https://news.ycombinator.com/item?id=47495719) - [Hacker Mints $80M USD Worth of USR Stablecoins](https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swaps-them-for-eth/)
 * [2026-03-23, 21:47:42](https://news.ycombinator.com/item?id=47495568) - [Chat GPT 5.2 cannot explain the German word \"geschniegelt\"](https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/)
 * [2026-03-23, 21:44:20](https://news.ycombinator.com/item?id=47495527) - [Printable Claude Code Cheat Sheet (auto-updated daily)](https://cc.storyfox.cz)
+* [2026-03-23, 21:28:02](https://news.ycombinator.com/item?id=47495344) - [FCC Updates Covered List to Include Foreign-Made Consumer Routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers)
 * [2026-03-23, 21:11:27](https://news.ycombinator.com/item?id=47495168) - [The Minimalist Entrepreneur – Claude Code Skills](https://github.com/slavingia/skills)
 * [2026-03-23, 20:56:48](https://news.ycombinator.com/item?id=47494999) - [Flipper Zero, Everyone's Favorite Legally Dubious Hacker Tool, Gets AI Upgrade](https://gizmodo.com/flipper-zero-everyones-favorite-legally-dubious-hacker-tool-gets-an-ai-upgrade-2000736967)
 * [2026-03-23, 20:49:10](https://news.ycombinator.com/item?id=47494890) - [How I'm Productive with Claude Code](https://neilkakkar.com/productive-with-claude-code.html)
