@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-23, 20:25:10",
+      "https://news.ycombinator.com/item?id=47494629"
+    ],
+    [
+      "Bets on US-Iran ceasefire show signs of insider knowledge, say experts",
+      "https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 20:11:38",
+      "https://news.ycombinator.com/item?id=47494469"
+    ],
+    [
+      "American Aviation Is Near Collapse",
+      "https://www.theatlantic.com/newsletters/2026/03/aviation-failures-tsa-dhs-shutdown/686505/"
+    ]
+  ],
+  [
+    [
       "2026-03-23, 18:57:08",
       "https://news.ycombinator.com/item?id=47493657"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47493460"
     ],
     [
-      "I tried Karpathy's Autoresearch on an old research project",
+      "Autoresearch on an old research idea",
       "https://ykumar.me/blog/eclip-autoresearch/"
     ]
   ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=47490648"
     ],
     [
-      "An Incoherent Rust",
+      "An incoherent Rust",
       "https://www.boxyuwu.blog/posts/an-incoherent-rust/"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-03-22, 15:16:28",
-      "https://news.ycombinator.com/item?id=47478401"
-    ],
-    [
-      "The future of version control",
-      "https://bramcohen.com/p/manyana"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 11:09:34",
       "https://news.ycombinator.com/item?id=47476315"
     ],
@@ -207,6 +217,16 @@
     [
       "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
       "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 08:06:18",
+      "https://news.ycombinator.com/item?id=47475417"
+    ],
+    [
+      "Dune3d: A parametric 3D CAD application",
+      "https://github.com/dune3d/dune3d"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-03-20, 14:02:14",
-      "https://news.ycombinator.com/item?id=47454647"
-    ],
-    [
-      "Tin Can, a 'landline' for kids",
-      "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 19:42:35",
       "https://news.ycombinator.com/item?id=47444812"
     ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=47443903"
     ],
     [
-      "The quadratic problem nobody fixed",
+      "Finding all regex matches has always been O(n²)",
       "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Bombadil: Property-based testing for web UIs",
       "https://github.com/antithesishq/bombadil"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 06:24:20",
-      "https://news.ycombinator.com/item?id=47435646"
-    ],
-    [
-      "Anchor: Hardware-based authentication using SanDisk USB devices",
-      "https://news.ycombinator.com/item?id=47435646"
     ]
   ],
   [
