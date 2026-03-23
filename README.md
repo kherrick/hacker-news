@@ -23,13 +23,13 @@
 * [2026-03-22, 09:57:31](https://news.ycombinator.com/item?id=47475938) - [Windows native app development is a mess](https://domenic.me/windows-native-dev/)
 * [2026-03-21, 20:58:01](https://news.ycombinator.com/item?id=47471271) - [How to Attract AI Bots to Your Open Source Project](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
 * [2026-03-20, 14:02:14](https://news.ycombinator.com/item?id=47454647) - [Tin Can, a 'landline' for kids](https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9)
+* [2026-03-20, 13:21:51](https://news.ycombinator.com/item?id=47454127) - [The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y](https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies)
+* [2026-03-20, 12:11:35](https://news.ycombinator.com/item?id=47453462) - [Can you get root with only a cigarette lighter? (2024)](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
 * [2026-03-19, 14:18:58](https://news.ycombinator.com/item?id=47439948) - [A Copy-Paste Bug That Broke PSpice AES-256 Encryption](https://jtsylve.blog/post/2026/03/18/PSpice-Encryption-Weakness)
 * [2026-03-19, 13:25:59](https://news.ycombinator.com/item?id=47439031) - [First and Lego Education Partnership Update](https://community.firstinspires.org/first-lego-education-partnership-update)
-* [2026-03-19, 13:11:26](https://news.ycombinator.com/item?id=47438804) - [Answer Engine Optimization](https://juliasolorzano.com/blog/2026/03/16/answer-engine-optimization/)
 * [2026-03-19, 04:56:25](https://news.ycombinator.com/item?id=47435127) - [I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos](https://bay41.com/posts/tiiny-ai-pocket-lab-review/)
 * [2026-03-18, 15:44:08](https://news.ycombinator.com/item?id=47427224) - [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html)
 * [2026-03-18, 13:56:37](https://news.ycombinator.com/item?id=47425874) - [LLMs predict my coffee](https://dynomight.net/coffee/)
-* [2026-03-17, 15:31:52](https://news.ycombinator.com/item?id=47414104) - [Ordered Dithering with Arbitrary or Irregular Colour Palettes (2023)](https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/)
 
 ## [Archives](archives/index.md)
 
