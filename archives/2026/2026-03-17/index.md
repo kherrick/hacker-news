@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-17](index.md)
 
+* [2026-03-17, 23:45:47](https://news.ycombinator.com/item?id=47419900) - [The LCA problem revisited [pdf]](https://www3.cs.stonybrook.edu/~bender/talks/BenderFa00-lca-talk.pdf)
 * [2026-03-17, 22:45:12](https://news.ycombinator.com/item?id=47419391) - [Mamba-3](https://www.together.ai/blog/mamba-3)
 * [2026-03-17, 21:42:39](https://news.ycombinator.com/item?id=47418722) - [Why AI systems don't learn – On autonomous learning from cognitive science](https://arxiv.org/abs/2603.15381)
 * [2026-03-17, 21:04:26](https://news.ycombinator.com/item?id=47418295) - [Mistral AI Releases Forge](https://mistral.ai/news/forge)
