@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-23, 12:37:39",
+      "https://news.ycombinator.com/item?id=47488635"
+    ],
+    [
+      "Fyn: An uv fork with new features, bug fixes, stripped telemetry",
+      "https://github.com/duriantaco/fyn"
+    ]
+  ],
+  [
+    [
       "2026-03-23, 11:31:19",
       "https://news.ycombinator.com/item?id=47488015"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2026-03-22, 22:11:54",
-      "https://news.ycombinator.com/item?id=47482760"
-    ],
-    [
-      "They’re vibe-coding spam now",
-      "https://tedium.co/2026/02/25/vibe-coded-email-spam/"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 21:14:11",
       "https://news.ycombinator.com/item?id=47482217"
     ],
@@ -147,16 +147,6 @@
     [
       "Five years of running a systems reading group at Microsoft",
       "https://armaansood.com/posts/systems-reading-group/"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 15:43:21",
-      "https://news.ycombinator.com/item?id=47478687"
-    ],
-    [
-      "MAUI Is Coming to Linux",
-      "https://avaloniaui.net/blog/maui-avalonia-preview-1"
     ]
   ],
   [
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2026-03-18, 13:56:37",
-      "https://news.ycombinator.com/item?id=47425874"
+      "2026-03-19, 10:00:42",
+      "https://news.ycombinator.com/item?id=47437005"
     ],
     [
-      "LLMs predict my coffee",
-      "https://dynomight.net/coffee/"
+      "An Unsolicited Guide to Being a Researcher [pdf]",
+      "https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 08:53:36",
+      "https://news.ycombinator.com/item?id=47436592"
+    ],
+    [
+      "Bombadil: Property-based testing for web UIs by Antithesis",
+      "https://github.com/antithesishq/bombadil"
     ]
   ],
   [
