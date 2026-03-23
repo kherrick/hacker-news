@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-23](index.md)
 
+* [2026-03-23, 14:52:52](https://news.ycombinator.com/item?id=47490365) - [If Dspy is so great, why isn't anyone using it?](https://skylarbpayne.com/posts/dspy-engineering-patterns/)
+* [2026-03-23, 14:36:30](https://news.ycombinator.com/item?id=47490150) - [Study: 'Security Fatigue' May Weaken Digital Defenses](https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses)
+* [2026-03-23, 14:30:10](https://news.ycombinator.com/item?id=47490070) - [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412)
 * [2026-03-23, 14:25:45](https://news.ycombinator.com/item?id=47490018) - [355 Issues of the UK music magazine NME from 1969-1983](https://archive.org/search?query=creator%3A%22NME+-+New+Musical+Express%22&sort=-addeddate)
 * [2026-03-23, 13:13:30](https://news.ycombinator.com/item?id=47489058) - [Cyberattack on vehicle breathalyzer company leaves drivers stranded in the US](https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/)
 * [2026-03-23, 12:37:39](https://news.ycombinator.com/item?id=47488635) - [Fyn: An uv fork with new features, bug fixes, stripped telemetry](https://github.com/duriantaco/fyn)
