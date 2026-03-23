@@ -129,23 +129,129 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47491496">
+          <h3>
+            <a class="item" href="https://isitapint.com/">Is it a pint?</a>
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-23 @ 16:13:40</span
+              ><span class="points-container"
+                >Points: <span class="points">79</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47491496"
+                  >Comments</a
+                ><span class="descendants">: 76</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47491414">
+          <h3>
+            <a class="item" href="https://github.com/jer-irl/threadprocs"
+              >Show HN: Threadprocs – executables sharing one address space
+              (0-copy pointers)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-23 @ 16:08:01</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47491414"
+                  >Comments</a
+                ><span class="descendants">: 18</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Unlike threads, each threadproc is a standalone and
+                semi-isolated process. Unlike dlopen-based plugin systems,
+                threadprocs run traditional executables with a `main()`
+                function. Unlike POSIX processes, pointers remain valid across
+                threadprocs because they share the same address space.
+              </p>
+              <p>
+                This means that idiomatic pointer-based data structures like
+                `std::string` or `std::unordered_map` can be passed between
+                threadprocs and accessed directly (with the usual data race
+                considerations).
+              </p>
+              <p>
+                This accomplishes a programming model somewhere between pthreads
+                and multi-process shared memory IPC.
+              </p>
+              <p>
+                The implementation relies on directing ASLR and virtual address
+                layout at load time and implementing a user-space analogue of
+                `exec()`, as well as careful manipulation of threadproc file
+                descriptors, signals, etc. It is implemented entirely in
+                unprivileged user space code: &lt;<a
+                  href="https://github.com/jer-irl/threadprocs/blob/main/docs/02-implementation.md"
+                  >https://github.com/jer-irl/threadprocs/blob/main/docs/02-imp...</a
+                >&gt;.
+              </p>
+              <p>
+                There is a simple demo demonstrating “cross-threadproc” memory
+                dereferencing at &lt;<a
+                  href="https://github.com/jer-irl/threadprocs/tree/main?tab=readme-ov-file#demo"
+                  >https://github.com/jer-irl/threadprocs/tree/main?tab=readme-...</a
+                >&gt;, including a high-level diagram.
+              </p>
+              <p>
+                This is relevant to systems of multiple processes with shared
+                memory (often ring buffers or flat tables). These designs often
+                require serialization or copying, and tend away from idiomatic
+                C++ or Rust data structures. Pointer-based data structures
+                cannot be passed directly.
+              </p>
+              <p>
+                There are significant limitations and edge cases, and it’s not
+                clear this is a practical model, but the project explores a way
+                to relax traditional process memory boundaries while still
+                structuring a system as independently launched components.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47490816">
+          <h3>
+            <a class="item" href="https://www.cyber.mil/stigs/downloads"
+              >Cyber.mil serving file downloads using TLS certificate which
+              expired 3 days ago</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-23 @ 15:25:04</span
+              ><span class="points-container"
+                >Points: <span class="points">74</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47490816"
+                  >Comments</a
+                ><span class="descendants">: 75</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47490365">
           <h3>
             <a
               class="item"
               href="https://skylarbpayne.com/posts/dspy-engineering-patterns/"
-              >If Dspy is so great, why isn't anyone using it?</a
+              >If DSPy is so great, why isn't anyone using it?</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-23 @ 14:52:52</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47490365"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -162,11 +268,11 @@
             <h4>
               <span>2026-03-23 @ 14:36:30</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47490150"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -183,11 +289,11 @@
             <h4>
               <span>2026-03-23 @ 14:30:10</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47490070"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
             <div class="text">
@@ -197,24 +303,69 @@
             </div>
           </section>
         </section>
+        <section id="47489058">
+          <h3>
+            <a
+              class="item"
+              href="https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/"
+              >Cyberattack on vehicle breathalyzer company leaves drivers
+              stranded in the US</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-23 @ 13:13:30</span
+              ><span class="points-container"
+                >Points: <span class="points">85</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47489058"
+                  >Comments</a
+                ><span class="descendants">: 100</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47489044">
+          <h3>
+            <a
+              class="item"
+              href="https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back"
+              >America tells private firms to "hack back"</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-23 @ 13:12:30</span
+              ><span class="points-container"
+                >Points: <span class="points">42</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47489044"
+                  >Comments</a
+                ><span class="descendants">: 46</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://archive.ph/vwuA1">https://archive.ph/vwuA1</a>
+            </div>
+          </section>
+        </section>
         <section id="47488015">
           <h3>
             <a
               class="item"
               href="https://www.sciencedirect.com/science/article/pii/S016517652200283X"
-              >Attractive students no longer receive better results as classes
-              moved online</a
+              >Student beauty and grades under in-person and remote teaching</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-23 @ 11:31:19</span
               ><span class="points-container"
-                >Points: <span class="points">322</span></span
+                >Points: <span class="points">330</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47488015"
                   >Comments</a
-                ><span class="descendants">: 324</span></span
+                ><span class="descendants">: 362</span></span
               >
             </h4>
           </section>
@@ -232,11 +383,32 @@
             <h4>
               <span>2026-03-23 @ 10:39:39</span
               ><span class="points-container"
-                >Points: <span class="points">307</span></span
+                >Points: <span class="points">331</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47487584"
                   >Comments</a
-                ><span class="descendants">: 159</span></span
+                ><span class="descendants">: 176</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47487536">
+          <h3>
+            <a
+              class="item"
+              href="https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/"
+              >I built an AI receptionist for a mechanic shop</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-23 @ 10:32:33</span
+              ><span class="points-container"
+                >Points: <span class="points">64</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47487536"
+                  >Comments</a
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -251,32 +423,11 @@
             <h4>
               <span>2026-03-23 @ 10:17:32</span
               ><span class="points-container"
-                >Points: <span class="points">601</span></span
+                >Points: <span class="points">644</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47487436"
                   >Comments</a
-                ><span class="descendants">: 498</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47486915">
-          <h3>
-            <a
-              class="item"
-              href="https://discourse.haskell.org/t/ann-dataframe-1-0-0-0/13834"
-              >Dataframe 1.0.0.0</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-23 @ 09:01:55</span
-              ><span class="points-container"
-                >Points: <span class="points">95</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47486915"
-                  >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 525</span></span
               >
             </h4>
           </section>
@@ -291,11 +442,11 @@
             <h4>
               <span>2026-03-23 @ 08:29:27</span
               ><span class="points-container"
-                >Points: <span class="points">334</span></span
+                >Points: <span class="points">352</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47486726"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -310,11 +461,11 @@
             <h4>
               <span>2026-03-23 @ 08:21:57</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47486680"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
             <div class="text">
@@ -343,28 +494,6 @@
             </h4>
           </section>
         </section>
-        <section id="47482217">
-          <h3>
-            <a
-              class="item"
-              href="https://grapheneos.social/@GrapheneOS/116261301913660830"
-              >GrapheneOS will remain usable by anyone without requiring
-              personal information</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-22 @ 21:14:11</span
-              ><span class="points-container"
-                >Points: <span class="points">552</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47482217"
-                  >Comments</a
-                ><span class="descendants">: 160</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="47480886">
           <h3>
             <a
@@ -378,11 +507,11 @@
             <h4>
               <span>2026-03-22 @ 19:02:43</span
               ><span class="points-container"
-                >Points: <span class="points">503</span></span
+                >Points: <span class="points">512</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47480886"
                   >Comments</a
-                ><span class="descendants">: 135</span></span
+                ><span class="descendants">: 140</span></span
               >
             </h4>
           </section>
@@ -400,32 +529,11 @@
             <h4>
               <span>2026-03-22 @ 18:23:40</span
               ><span class="points-container"
-                >Points: <span class="points">753</span></span
+                >Points: <span class="points">764</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47480507"
                   >Comments</a
-                ><span class="descendants">: 345</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47480447">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
-              >What young workers are doing to AI-proof themselves</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-22 @ 18:18:01</span
-              ><span class="points-container"
-                >Points: <span class="points">202</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47480447"
-                  >Comments</a
-                ><span class="descendants">: 328</span></span
+                ><span class="descendants">: 351</span></span
               >
             </h4>
           </section>
@@ -442,30 +550,11 @@
             <h4>
               <span>2026-03-22 @ 17:17:06</span
               ><span class="points-container"
-                >Points: <span class="points">394</span></span
+                >Points: <span class="points">404</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47479751"
                   >Comments</a
-                ><span class="descendants">: 270</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47478548">
-          <h3>
-            <a class="item" href="https://jry.io/writing/you-are-not-your-job/"
-              >You are not your job</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-22 @ 15:30:54</span
-              ><span class="points-container"
-                >Points: <span class="points">316</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47478548"
-                  >Comments</a
-                ><span class="descendants">: 337</span></span
+                ><span class="descendants">: 273</span></span
               >
             </h4>
           </section>
@@ -480,11 +569,11 @@
             <h4>
               <span>2026-03-22 @ 15:16:28</span
               ><span class="points-container"
-                >Points: <span class="points">606</span></span
+                >Points: <span class="points">617</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47478401"
                   >Comments</a
-                ><span class="descendants">: 342</span></span
+                ><span class="descendants">: 346</span></span
               >
             </h4>
           </section>
@@ -499,30 +588,11 @@
             <h4>
               <span>2026-03-22 @ 12:28:38</span
               ><span class="points-container"
-                >Points: <span class="points">535</span></span
+                >Points: <span class="points">548</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47476821"
                   >Comments</a
-                ><span class="descendants">: 197</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47476422">
-          <h3>
-            <a class="item" href="https://github.com/danveloper/flash-moe"
-              >Flash-MoE: Running a 397B Parameter Model on a Laptop</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-22 @ 11:30:03</span
-              ><span class="points-container"
-                >Points: <span class="points">382</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47476422"
-                  >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 203</span></span
               >
             </h4>
           </section>
@@ -537,11 +607,11 @@
             <h4>
               <span>2026-03-22 @ 11:09:34</span
               ><span class="points-container"
-                >Points: <span class="points">516</span></span
+                >Points: <span class="points">525</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47476315"
                   >Comments</a
-                ><span class="descendants">: 381</span></span
+                ><span class="descendants">: 387</span></span
               >
             </h4>
           </section>
@@ -558,11 +628,11 @@
             <h4>
               <span>2026-03-20 @ 14:02:14</span
               ><span class="points-container"
-                >Points: <span class="points">253</span></span
+                >Points: <span class="points">268</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47454647"
                   >Comments</a
-                ><span class="descendants">: 211</span></span
+                ><span class="descendants">: 214</span></span
               >
             </h4>
           </section>
@@ -580,11 +650,11 @@
             <h4>
               <span>2026-03-20 @ 13:21:51</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47454127"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -601,11 +671,11 @@
             <h4>
               <span>2026-03-20 @ 12:11:35</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">146</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47453462"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -622,11 +692,11 @@
             <h4>
               <span>2026-03-19 @ 19:42:35</span
               ><span class="points-container"
-                >Points: <span class="points">259</span></span
+                >Points: <span class="points">281</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47444812"
                   >Comments</a
-                ><span class="descendants">: 185</span></span
+                ><span class="descendants">: 197</span></span
               >
             </h4>
           </section>
@@ -643,11 +713,11 @@
             <h4>
               <span>2026-03-19 @ 18:14:10</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47443547"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -664,11 +734,11 @@
             <h4>
               <span>2026-03-19 @ 10:10:13</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47437062"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -678,18 +748,18 @@
             <a
               class="item"
               href="https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf"
-              >An Unsolicited Guide to Being a Researcher [pdf]</a
+              >An unsolicited guide to being a researcher [pdf]</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-19 @ 10:00:42</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47437005"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -697,61 +767,37 @@
         <section id="47436592">
           <h3>
             <a class="item" href="https://github.com/antithesishq/bombadil"
-              >Bombadil: Property-based testing for web UIs by Antithesis</a
+              >Bombadil: Property-based testing for web UIs</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-03-19 @ 08:53:36</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47436592"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47419900">
+        <section id="47425882">
           <h3>
-            <a
-              class="item"
-              href="https://www3.cs.stonybrook.edu/~bender/talks/BenderFa00-lca-talk.pdf"
-              >The LCA problem revisited [pdf]</a
+            <a class="item" href="https://blog.xoria.org/expr-stmt-c/"
+              >Side-Effectful Expressions in C (2023)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-03-17 @ 23:45:47</span
+              <span>2026-03-18 @ 13:57:21</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47419900"
+                ><a href="https://news.ycombinator.com/item?id=47425882"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47414104">
-          <h3>
-            <a
-              class="item"
-              href="https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/"
-              >Ordered dithering with arbitrary or irregular colour palettes
-              (2023)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-17 @ 15:31:52</span
-              ><span class="points-container"
-                >Points: <span class="points">70</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47414104"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
