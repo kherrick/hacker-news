@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-03-23, 12:37:39",
-      "https://news.ycombinator.com/item?id=47488635"
+      "2026-03-23, 14:25:45",
+      "https://news.ycombinator.com/item?id=47490018"
     ],
     [
-      "Fyn: An uv fork with new features, bug fixes, stripped telemetry",
-      "https://github.com/duriantaco/fyn"
+      "355 Issues of the UK music magazine NME from 1969-1983",
+      "https://archive.org/search?query=creator%3A%22NME+-+New+Musical+Express%22&sort=-addeddate"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 13:13:30",
+      "https://news.ycombinator.com/item?id=47489058"
+    ],
+    [
+      "Cyberattack on vehicle breathalyzer company leaves drivers stranded in the US",
+      "https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-03-22, 17:06:38",
-      "https://news.ycombinator.com/item?id=47479627"
-    ],
-    [
-      "Five years of running a systems reading group at Microsoft",
-      "https://armaansood.com/posts/systems-reading-group/"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 15:30:54",
       "https://news.ycombinator.com/item?id=47478548"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-03-19, 18:14:10",
+      "https://news.ycombinator.com/item?id=47443547"
+    ],
+    [
+      "Fear and Fragility: The Glass Delusion and Its History",
+      "https://publicdomainreview.org/essay/fear-and-fragility-the-glass-delusion-and-its-history"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 10:00:42",
       "https://news.ycombinator.com/item?id=47437005"
     ],
@@ -287,16 +297,6 @@
     [
       "The LCA problem revisited [pdf]",
       "https://www3.cs.stonybrook.edu/~bender/talks/BenderFa00-lca-talk.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 15:31:52",
-      "https://news.ycombinator.com/item?id=47414104"
-    ],
-    [
-      "Ordered dithering with arbitrary or irregular colour palettes (2023)",
-      "https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/"
     ]
   ]
 ]
