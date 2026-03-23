@@ -21,6 +21,7 @@
 * [2026-03-20, 18:23:41](https://news.ycombinator.com/item?id=47458595) - [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)
 * [2026-03-20, 18:19:58](https://news.ycombinator.com/item?id=47458549) - [BYD's bet on EVs is paying off as drivers ditch gas amid rising oil prices](https://electrek.co/2026/03/20/byd-ev-demand-surges-drivers-ditch-gas-amid-rising-oil-prices/)
 * [2026-03-20, 18:06:20](https://news.ycombinator.com/item?id=47458348) - [Show HN: I made an email app inspired by Arc browser](https://demo.define.app)
+* [2026-03-20, 17:59:35](https://news.ycombinator.com/item?id=47458248) - [General Motors Is Assisting with the Restoration of a Rare EV1](https://evinfo.net/2026/03/general-motors-is-assisting-with-the-restoration-of-an-1996-ev1/)
 * [2026-03-20, 17:37:33](https://news.ycombinator.com/item?id=47457929) - [US to deploy additional troops to the Middle East, officials say](https://www.reuters.com/world/us-deploy-thousands-additional-troops-middle-east-officials-say-2026-03-20/)
 * [2026-03-20, 17:13:28](https://news.ycombinator.com/item?id=47457570) - [Boomloom: Think with your hands](https://www.theboomloom.com)
 * [2026-03-20, 17:05:38](https://news.ycombinator.com/item?id=47457472) - [Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility](https://news.ycombinator.com/item?id=47457472)
