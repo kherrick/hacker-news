@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-03-23, 14:36:30",
-      "https://news.ycombinator.com/item?id=47490150"
-    ],
-    [
-      "Study: 'Security Fatigue' May Weaken Digital Defenses",
-      "https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses"
-    ]
-  ],
-  [
-    [
       "2026-03-23, 14:30:10",
       "https://news.ycombinator.com/item?id=47490070"
     ],
@@ -101,12 +91,22 @@
   ],
   [
     [
-      "2026-03-23, 08:29:27",
-      "https://news.ycombinator.com/item?id=47486726"
+      "2026-03-23, 09:02:05",
+      "https://news.ycombinator.com/item?id=47486916"
     ],
     [
-      "POSSE – Publish on your Own Site, Syndicate Elsewhere",
-      "https://indieweb.org/POSSE"
+      "Digs: Offline-first iOS app to browse your Discogs vinyl collection",
+      "https://lustin.fr/blog/building-digs/"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 08:21:57",
+      "https://news.ycombinator.com/item?id=47486680"
+    ],
+    [
+      "Show HN: The King Wen Permutation: [52, 10, 2]",
+      "https://gzw1987-bit.github.io/iching-math/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-03-20, 19:20:49",
+      "https://news.ycombinator.com/item?id=47459363"
+    ],
+    [
+      "BIO: The Bao I/O Coprocessor",
+      "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 17:59:35",
       "https://news.ycombinator.com/item?id=47458248"
     ],
@@ -227,16 +237,6 @@
     [
       "Tin Can, a 'landline' for kids",
       "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 13:21:51",
-      "https://news.ycombinator.com/item?id=47454127"
-    ],
-    [
-      "The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y",
-      "https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies"
     ]
   ],
   [
