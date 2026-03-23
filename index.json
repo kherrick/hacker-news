@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-03-22, 22:19:03",
-      "https://news.ycombinator.com/item?id=47482825"
+      "2026-03-23, 01:43:45",
+      "https://news.ycombinator.com/item?id=47484519"
     ],
     [
-      "Diverse perspectives on AI from Rust contributors and maintainers",
-      "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html"
+      "\"Collaboration\" Is Bullshit",
+      "https://www.joanwestenberg.com/collaboration-is-bullshit/"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 01:06:35",
+      "https://news.ycombinator.com/item?id=47484227"
+    ],
+    [
+      "Intuitions for Tranformer Circuits",
+      "https://www.connorjdavis.com/p/intuitions-for-transformer-circuits"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 00:15:10",
+      "https://news.ycombinator.com/item?id=47483830"
+    ],
+    [
+      "Migrating the American Express Payment Network, Twice",
+      "https://americanexpress.io/migrating-the-payments-network-twice/"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "They're Vibe-Coding Spam Now",
       "https://tedium.co/2026/02/25/vibe-coded-email-spam/"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 22:01:03",
-      "https://news.ycombinator.com/item?id=47482667"
-    ],
-    [
-      "Iran war energy crisis is a renewable energy wake-up call",
-      "https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e"
     ]
   ],
   [
@@ -81,26 +91,6 @@
   ],
   [
     [
-      "2026-03-22, 17:56:26",
-      "https://news.ycombinator.com/item?id=47480200"
-    ],
-    [
-      "Palantir extends reach into British state as gets access to sensitive FCA data",
-      "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 17:35:28",
-      "https://news.ycombinator.com/item?id=47479962"
-    ],
-    [
-      "OpenClaw is a security nightmare dressed up as a daydream",
-      "https://composio.dev/content/openclaw-security-and-vulnerabilities"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 17:17:06",
       "https://news.ycombinator.com/item?id=47479751"
     ],
@@ -127,6 +117,16 @@
     [
       "MAUI Is Coming to Linux",
       "https://avaloniaui.net/blog/maui-avalonia-preview-1"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 15:30:54",
+      "https://news.ycombinator.com/item?id=47478548"
+    ],
+    [
+      "You are not your job",
+      "https://jry.io/writing/you-are-not-your-job/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-03-22, 03:43:51",
-      "https://news.ycombinator.com/item?id=47474255"
-    ],
-    [
-      "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
-      "https://radar.cloudflare.com/domains/domain/archive.today"
-    ]
-  ],
-  [
-    [
       "2026-03-21, 20:58:01",
       "https://news.ycombinator.com/item?id=47471271"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2026-03-19, 16:40:37",
-      "https://news.ycombinator.com/item?id=47442194"
+      "2026-03-20, 14:02:14",
+      "https://news.ycombinator.com/item?id=47454647"
     ],
     [
-      "Vectorization of Verilog Designs and its Effects on Verification and Synthesis",
-      "https://arxiv.org/abs/2603.17099"
+      "The hottest new phone is Tin Can, a 'landline' for kids",
+      "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9"
     ]
   ],
   [
@@ -251,22 +241,22 @@
   ],
   [
     [
-      "2026-03-19, 06:47:54",
-      "https://news.ycombinator.com/item?id=47435783"
-    ],
-    [
-      "A review of dice that came with the white castle",
-      "https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 06:19:47",
       "https://news.ycombinator.com/item?id=47435616"
     ],
     [
-      "Theodosian Land Walls of Constantinople",
+      "Theodosian Land Walls of Constantinople (2025)",
       "https://turkisharchaeonews.net/object/theodosian-land-walls-constantinople"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 04:56:25",
+      "https://news.ycombinator.com/item?id=47435127"
+    ],
+    [
+      "I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
+      "https://bay41.com/posts/tiiny-ai-pocket-lab-review/"
     ]
   ],
   [
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=47425874"
     ],
     [
-      "LLMs Predict My Coffee",
+      "LLMs predict my coffee",
       "https://dynomight.net/coffee/"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 15:31:52",
+      "https://news.ycombinator.com/item?id=47414104"
+    ],
+    [
+      "Ordered Dithering with Arbitrary or Irregular Colour Palettes (2023)",
+      "https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/"
     ]
   ]
 ]
