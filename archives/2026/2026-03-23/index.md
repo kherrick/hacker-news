@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-03-23](index.md)
 
+* [2026-03-23, 21:47:42](https://news.ycombinator.com/item?id=47495568) - [Chat GPT 5.2 cannot explain the German word \"geschniegelt\"](https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/)
+* [2026-03-23, 21:44:20](https://news.ycombinator.com/item?id=47495527) - [Printable Claude Code Cheat Sheet (auto-updated daily)](https://cc.storyfox.cz)
 * [2026-03-23, 21:11:27](https://news.ycombinator.com/item?id=47495168) - [The Minimalist Entrepreneur – Claude Code Skills](https://github.com/slavingia/skills)
 * [2026-03-23, 20:56:48](https://news.ycombinator.com/item?id=47494999) - [Flipper Zero, Everyone's Favorite Legally Dubious Hacker Tool, Gets AI Upgrade](https://gizmodo.com/flipper-zero-everyones-favorite-legally-dubious-hacker-tool-gets-an-ai-upgrade-2000736967)
 * [2026-03-23, 20:49:10](https://news.ycombinator.com/item?id=47494890) - [How I'm Productive with Claude Code](https://neilkakkar.com/productive-with-claude-code.html)
 * [2026-03-23, 20:48:25](https://news.ycombinator.com/item?id=47494879) - [The Treasury just declared the U.S. insolvent](https://fortune.com/2026/03/23/us-government-insolvent-fiscal-crisis-fix/)
+* [2026-03-23, 20:27:36](https://news.ycombinator.com/item?id=47494655) - [Next-generation electricity is almost here](https://www.gatesnotes.com/work/accelerate-energy-innovation/reader/the-next-generation-of-electricity-is-almost-here)
 * [2026-03-23, 20:25:10](https://news.ycombinator.com/item?id=47494629) - [Bets on US-Iran ceasefire show signs of insider knowledge, say experts](https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket)
 * [2026-03-23, 20:11:38](https://news.ycombinator.com/item?id=47494469) - [American Aviation Is Near Collapse](https://www.theatlantic.com/newsletters/2026/03/aviation-failures-tsa-dhs-shutdown/686505/)
 * [2026-03-23, 18:57:08](https://news.ycombinator.com/item?id=47493657) - [Local Stack Archived their GitHub repo and requires an account to run](https://github.com/localstack/localstack)
