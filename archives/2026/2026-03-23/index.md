@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-23](index.md)
 
+* [2026-03-23, 23:32:17](https://news.ycombinator.com/item?id=47496583) - [AI boom risks widening wealth divide, says BlackRock's Larry Fink](https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink)
 * [2026-03-23, 22:52:35](https://news.ycombinator.com/item?id=47496221) - [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)
 * [2026-03-23, 22:37:15](https://news.ycombinator.com/item?id=47496089) - [IRIX 3dfx Voodoo driver and glide2x IRIX port](https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/)
 * [2026-03-23, 22:24:09](https://news.ycombinator.com/item?id=47495966) - [Nvidia CEO Jensen Huang says 'I think we've achieved AGI'](https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi)
