@@ -2,7 +2,6 @@
 
 * [2026-03-24, 05:32:53](https://news.ycombinator.com/item?id=47498924) - [Log File Viewer for the Terminal](https://lnav.org/)
 * [2026-03-24, 05:00:21](https://news.ycombinator.com/item?id=47498766) - [Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist](https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11)
-* [2026-03-24, 02:15:40](https://news.ycombinator.com/item?id=47497910) - [Ubisoft's death by a thousand cuts](https://www.thegamebusiness.com/p/ubisofts-death-by-a-thousand-cuts)
 * [2026-03-24, 01:54:03](https://news.ycombinator.com/item?id=47497763) - [Sunsetting the Techempower Framework Benchmarks](https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932)
 * [2026-03-24, 01:53:09](https://news.ycombinator.com/item?id=47497757) - [Epoch confirms GPT5.4 Pro solved a frontier math open problem](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)
 * [2026-03-23, 22:52:35](https://news.ycombinator.com/item?id=47496221) - [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)
@@ -29,6 +28,7 @@
 * [2026-03-20, 02:33:34](https://news.ycombinator.com/item?id=47449741) - [TI-89 Height-Mapped Raycaster](https://github.com/dzoba/ti-89-raycasting-with-z)
 * [2026-03-19, 19:12:36](https://news.ycombinator.com/item?id=47444387) - [Gerd Faltings, who proved the Mordell conjecture, wins the Abel Prize](https://www.scientificamerican.com/article/gerd-faltings-mathematician-who-proved-the-mordell-conjecture-wins-the-abel/)
 * [2026-03-19, 18:40:02](https://news.ycombinator.com/item?id=47443903) - [Finding all regex matches has always been O(n²)](https://iev.ee/blog/the-quadratic-problem-nobody-fixed/)
+* [2026-03-19, 10:00:42](https://news.ycombinator.com/item?id=47437005) - [An unsolicited guide to being a researcher [pdf]](https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf)
 * [2026-03-18, 18:23:10](https://news.ycombinator.com/item?id=47429393) - [Abusing Customizable Selects](https://css-tricks.com/abusing-customizable-selects/)
 
 ## [Archives](archives/index.md)
