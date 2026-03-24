@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-24](index.md)
 
+* [2026-03-24, 20:31:08](https://news.ycombinator.com/item?id=47508745) - [Is anybody else bored of talking about AI?](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+* [2026-03-24, 20:23:34](https://news.ycombinator.com/item?id=47508608) - [GitHub is once again down](https://www.githubstatus.com/incidents/kp06czybl7dw)
 * [2026-03-24, 19:53:51](https://news.ycombinator.com/item?id=47508149) - [Welcome to FastMCP](https://gofastmcp.com/getting-started/welcome)
 * [2026-03-24, 18:47:13](https://news.ycombinator.com/item?id=47507354) - [Young Graduates Face the Grimmest Job Market in Years](https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html)
 * [2026-03-24, 18:34:52](https://news.ycombinator.com/item?id=47507150) - [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/)
