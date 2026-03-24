@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-24, 09:36:29",
+      "https://news.ycombinator.com/item?id=47500335"
+    ],
+    [
+      "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
+      "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/"
+    ]
+  ],
+  [
+    [
       "2026-03-24, 07:54:02",
       "https://news.ycombinator.com/item?id=47499721"
     ],
@@ -17,6 +27,16 @@
     [
       "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
       "https://proofshot.argil.io/"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 06:31:39",
+      "https://news.ycombinator.com/item?id=47499245"
+    ],
+    [
+      "Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}",
+      "https://burntsushi.net/ripgrep/"
     ]
   ],
   [
@@ -91,32 +111,12 @@
   ],
   [
     [
-      "2026-03-23, 20:49:10",
-      "https://news.ycombinator.com/item?id=47494890"
-    ],
-    [
-      "How I'm Productive with Claude Code",
-      "https://neilkakkar.com/productive-with-claude-code.html"
-    ]
-  ],
-  [
-    [
       "2026-03-23, 20:42:22",
       "https://news.ycombinator.com/item?id=47494821"
     ],
     [
       "A retro terminal music player inspired by Winamp",
       "https://github.com/bjarneo/cliamp"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 18:57:08",
-      "https://news.ycombinator.com/item?id=47493657"
-    ],
-    [
-      "Local Stack Archived their GitHub repo and requires an account to run",
-      "https://github.com/localstack/localstack"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-03-20, 14:54:30",
-      "https://news.ycombinator.com/item?id=47455456"
-    ],
-    [
-      "How to Spot a Liar: Kate White on the Techniques of Deception in Mysteries",
-      "https://crimereads.com/how-to-spot-a-liar-kate-white-on-the-techniques-of-deception-in-mysteries/"
-    ]
-  ],
-  [
-    [
       "2026-03-20, 12:02:00",
       "https://news.ycombinator.com/item?id=47453398"
     ],
@@ -287,6 +277,16 @@
     [
       "Finding all regex matches has always been O(n²)",
       "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 13:49:12",
+      "https://news.ycombinator.com/item?id=47439413"
+    ],
+    [
+      "No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML",
+      "https://qitejs.qount25.dev"
     ]
   ],
   [
