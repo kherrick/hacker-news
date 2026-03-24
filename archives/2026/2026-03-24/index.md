@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-24](index.md)
 
 * [2026-03-24, 21:24:33](https://news.ycombinator.com/item?id=47509571) - [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead)
+* [2026-03-24, 21:01:21](https://news.ycombinator.com/item?id=47509234) - [Disney Exits OpenAI Deal After AI Giant Shutters Sora](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
 * [2026-03-24, 20:31:08](https://news.ycombinator.com/item?id=47508745) - [Is anybody else bored of talking about AI?](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 * [2026-03-24, 20:23:34](https://news.ycombinator.com/item?id=47508608) - [GitHub is once again down](https://www.githubstatus.com/incidents/kp06czybl7dw)
 * [2026-03-24, 19:53:51](https://news.ycombinator.com/item?id=47508149) - [Welcome to FastMCP](https://gofastmcp.com/getting-started/welcome)
