@@ -1,22 +1,32 @@
 [
   [
     [
-      "2026-03-24, 04:11:46",
-      "https://news.ycombinator.com/item?id=47498509"
+      "2026-03-24, 05:32:53",
+      "https://news.ycombinator.com/item?id=47498924"
     ],
     [
-      "Box of Secrets: Discreetly modding an apartment intercom with Matter",
-      "https://www.jackhogan.me/blog/box-of-secrets/"
+      "Log File Viewer for the Terminal",
+      "https://lnav.org/"
     ]
   ],
   [
     [
-      "2026-03-24, 03:32:14",
-      "https://news.ycombinator.com/item?id=47498325"
+      "2026-03-24, 05:00:21",
+      "https://news.ycombinator.com/item?id=47498766"
     ],
     [
-      "Cuba's Fragile Power Grid Finds a Powerful New Partner",
-      "https://oilprice.com/Energy/Energy-General/Cubas-Fragile-Power-Grid-Finds-a-Powerful-New-Partner.html"
+      "Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist",
+      "https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 02:15:40",
+      "https://news.ycombinator.com/item?id=47497910"
+    ],
+    [
+      "Ubisoft's death by a thousand cuts",
+      "https://www.thegamebusiness.com/p/ubisofts-death-by-a-thousand-cuts"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-03-23, 17:35:38",
-      "https://news.ycombinator.com/item?id=47492599"
-    ],
-    [
-      "US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects",
-      "https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html"
-    ]
-  ],
-  [
-    [
       "2026-03-23, 16:11:03",
       "https://news.ycombinator.com/item?id=47491466"
     ],
@@ -167,6 +167,16 @@
     [
       "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "https://twitter.com/anemll/status/2035901335984611412"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 12:42:00",
+      "https://news.ycombinator.com/item?id=47488686"
+    ],
+    [
+      "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
+      "https://www.jackhogan.me/blog/box-of-secrets/"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2026-03-20, 15:26:24",
+      "https://news.ycombinator.com/item?id=47455961"
+    ],
+    [
+      "Microservices and the First Law of Distributed Objects (2014)",
+      "https://martinfowler.com/articles/distributed-objects-microservices.html"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 12:02:00",
       "https://news.ycombinator.com/item?id=47453398"
     ],
@@ -267,26 +287,6 @@
     [
       "Finding all regex matches has always been O(n²)",
       "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 10:00:42",
-      "https://news.ycombinator.com/item?id=47437005"
-    ],
-    [
-      "An unsolicited guide to being a researcher [pdf]",
-      "https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 08:53:36",
-      "https://news.ycombinator.com/item?id=47436592"
-    ],
-    [
-      "Bombadil: Property-based testing for web UIs",
-      "https://github.com/antithesishq/bombadil"
     ]
   ],
   [
