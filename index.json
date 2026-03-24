@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-03-24, 07:46:46",
+      "https://news.ycombinator.com/item?id=47499672"
+    ],
+    [
+      "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
+      "https://proofshot.argil.io/"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 05:57:00",
+      "https://news.ycombinator.com/item?id=47499033"
+    ],
+    [
+      "Pool spare GPU capacity to run LLMs at larger scale",
+      "https://github.com/michaelneale/mesh-llm"
+    ]
+  ],
+  [
+    [
       "2026-03-24, 05:32:53",
       "https://news.ycombinator.com/item?id=47498924"
     ],
     [
       "Log File Viewer for the Terminal",
       "https://lnav.org/"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 05:00:21",
-      "https://news.ycombinator.com/item?id=47498766"
-    ],
-    [
-      "Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist",
-      "https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2026-03-20, 16:34:24",
+      "https://news.ycombinator.com/item?id=47456997"
+    ],
+    [
+      "A 6502 disassembler with a TUI: A modern take on Regenerator",
+      "https://github.com/ricardoquesada/regenerator2000"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 15:26:24",
       "https://news.ycombinator.com/item?id=47455961"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2026-03-20, 02:33:34",
-      "https://news.ycombinator.com/item?id=47449741"
-    ],
-    [
-      "TI-89 Height-Mapped Raycaster",
-      "https://github.com/dzoba/ti-89-raycasting-with-z"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 19:12:36",
       "https://news.ycombinator.com/item?id=47444387"
     ],
@@ -277,16 +287,6 @@
     [
       "Finding all regex matches has always been O(n²)",
       "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 10:00:42",
-      "https://news.ycombinator.com/item?id=47437005"
-    ],
-    [
-      "An unsolicited guide to being a researcher [pdf]",
-      "https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf"
     ]
   ],
   [
