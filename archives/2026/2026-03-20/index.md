@@ -49,6 +49,7 @@
 * [2026-03-20, 13:01:56](https://news.ycombinator.com/item?id=47453942) - [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 * [2026-03-20, 12:59:03](https://news.ycombinator.com/item?id=47453911) - [Exploring 8 Shaft Weaving](https://slab.org/2026/03/11/exploring-8-shaft-weaving/)
 * [2026-03-20, 12:42:40](https://news.ycombinator.com/item?id=47453738) - [You can run a DNS server (2025)](https://simonsafar.com/2025/running_dns/)
+* [2026-03-20, 12:42:37](https://news.ycombinator.com/item?id=47453737) - [Overcoming the Friendship Recession](https://joeprevite.com/friendship-recession/)
 * [2026-03-20, 12:41:56](https://news.ycombinator.com/item?id=47453728) - [The 12\" chef knife, a humble plea](https://kellykozakandjoshdonald.substack.com/p/the-12-chef-knife-a-humble-plea)
 * [2026-03-20, 12:11:35](https://news.ycombinator.com/item?id=47453462) - [Can you get root with only a cigarette lighter? (2024)](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
 * [2026-03-20, 12:04:49](https://news.ycombinator.com/item?id=47453414) - [Training Center for Maneuvering on Manned Model Ships](https://www.portrevel.com/)
