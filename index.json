@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-03-24, 15:28:17",
+      "https://news.ycombinator.com/item?id=47504094"
+    ],
+    [
+      "Hypothesis, Antithesis, Synthesis",
+      "https://antithesis.com/blog/2026/hegel/"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 15:25:52",
+      "https://news.ycombinator.com/item?id=47504060"
+    ],
+    [
+      "Major insider trading on oil detected ahead of Iran talks",
+      "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 15:19:19",
+      "https://news.ycombinator.com/item?id=47503965"
+    ],
+    [
+      "LaGuardia pilots raised safety alarms months before deadly runway crash",
+      "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 14:39:20",
+      "https://news.ycombinator.com/item?id=47503296"
+    ],
+    [
+      "The bridge to wealth is being pulled up with AI",
+      "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/"
+    ]
+  ],
+  [
+    [
       "2026-03-24, 14:19:59",
       "https://news.ycombinator.com/item?id=47503006"
     ],
     [
       "So where are all the AI apps?",
       "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 13:21:24",
+      "https://news.ycombinator.com/item?id=47502193"
+    ],
+    [
+      "io_uring, libaio performance across Linux kernels and an unexpected IOMMU trap",
+      "https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14"
     ]
   ],
   [
@@ -131,26 +181,6 @@
   ],
   [
     [
-      "2026-03-23, 22:37:15",
-      "https://news.ycombinator.com/item?id=47496089"
-    ],
-    [
-      "IRIX 3dfx Voodoo driver and glide2x IRIX port",
-      "https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 22:01:15",
-      "https://news.ycombinator.com/item?id=47495719"
-    ],
-    [
-      "The Resolv hack: How one compromised key printed $23M",
-      "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/"
-    ]
-  ],
-  [
-    [
       "2026-03-23, 21:44:20",
       "https://news.ycombinator.com/item?id=47495527"
     ],
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2026-03-20, 19:44:43",
-      "https://news.ycombinator.com/item?id=47459625"
-    ],
-    [
-      "I Quit Editing Photos",
-      "https://jamesbaker.uk/i-quit-editing-photos/"
-    ]
-  ],
-  [
-    [
       "2026-03-20, 16:34:24",
       "https://news.ycombinator.com/item?id=47456997"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-03-20, 15:26:24",
-      "https://news.ycombinator.com/item?id=47455961"
+      "2026-03-20, 15:49:20",
+      "https://news.ycombinator.com/item?id=47456320"
     ],
     [
-      "Microservices and the First Law of Distributed Objects (2014)",
-      "https://martinfowler.com/articles/distributed-objects-microservices.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 12:02:00",
-      "https://news.ycombinator.com/item?id=47453398"
-    ],
-    [
-      "Pompeii's battle scars linked to an ancient 'machine gun'",
-      "https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 18:40:02",
-      "https://news.ycombinator.com/item?id=47443903"
-    ],
-    [
-      "Finding all regex matches has always been O(n²)",
-      "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/"
+      "The Jellies That Evolved a Different Way to Keep Time",
+      "https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/"
     ]
   ],
   [
