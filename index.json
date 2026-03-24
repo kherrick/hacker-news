@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-24, 18:47:13",
+      "https://news.ycombinator.com/item?id=47507354"
+    ],
+    [
+      "Young Graduates Face the Grimmest Job Market in Years",
+      "https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 18:34:52",
+      "https://news.ycombinator.com/item?id=47507150"
+    ],
+    [
+      "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+      "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/"
+    ]
+  ],
+  [
+    [
       "2026-03-24, 17:59:16",
       "https://news.ycombinator.com/item?id=47506641"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2026-03-24, 17:32:31",
-      "https://news.ycombinator.com/item?id=47506279"
-    ],
-    [
-      "Country that put backdoors in Cisco routers to spy on world bans foreign routers",
-      "https://www.theregister.com/2026/03/24/fcc_foreign_routers/"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 17:30:55",
       "https://news.ycombinator.com/item?id=47506259"
     ],
@@ -47,6 +57,16 @@
     [
       "Arm AGI CPU",
       "https://newsroom.arm.com/blog/introducing-arm-agi-cpu"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 16:57:47",
+      "https://news.ycombinator.com/item?id=47505731"
+    ],
+    [
+      "Show HN: Gridland: make terminal apps that also run in the browser",
+      "https://www.gridland.io/"
     ]
   ],
   [
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=47504094"
     ],
     [
-      "Hypothesis, Antithesis, Synthesis",
+      "Hypothesis, Antithesis, synthesis",
       "https://antithesis.com/blog/2026/hegel/"
     ]
   ],
@@ -117,6 +137,16 @@
     [
       "LaGuardia pilots raised safety alarms months before deadly runway crash",
       "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 15:09:30",
+      "https://news.ycombinator.com/item?id=47503810"
+    ],
+    [
+      "Epic Games to cut more than 1k jobs as Fortnite usage falls",
+      "https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/"
     ]
   ],
   [
@@ -151,22 +181,22 @@
   ],
   [
     [
-      "2026-03-24, 12:36:20",
-      "https://news.ycombinator.com/item?id=47501729"
-    ],
-    [
-      "Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer",
-      "https://github.com/BerriAI/litellm/issues/24512"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 12:14:56",
       "https://news.ycombinator.com/item?id=47501511"
     ],
     [
       "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
       "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 12:06:29",
+      "https://news.ycombinator.com/item?id=47501426"
+    ],
+    [
+      "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "https://github.com/BerriAI/litellm/issues/24512"
     ]
   ],
   [
@@ -187,16 +217,6 @@
     [
       "Debunking Zswap and Zram Myths",
       "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 10:33:54",
-      "https://news.ycombinator.com/item?id=47500709"
-    ],
-    [
-      "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
-      "https://dnhkng.github.io/posts/rys-ii/"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
       "https://burntsushi.net/ripgrep/"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 05:32:53",
-      "https://news.ycombinator.com/item?id=47498924"
-    ],
-    [
-      "Log File Viewer for the Terminal",
-      "https://lnav.org/"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 12:42:00",
-      "https://news.ycombinator.com/item?id=47488686"
-    ],
-    [
-      "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
-      "https://www.jackhogan.me/blog/box-of-secrets/"
     ]
   ],
   [
