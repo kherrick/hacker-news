@@ -35,6 +35,7 @@
 * [2026-03-21, 14:54:38](https://news.ycombinator.com/item?id=47467609) - [Iran launched unsuccessful attack on UK's Diego Garcia](https://www.bbc.com/news/articles/c5yljdgwppzo)
 * [2026-03-21, 14:50:18](https://news.ycombinator.com/item?id=47467567) - [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/)
 * [2026-03-21, 14:50:13](https://news.ycombinator.com/item?id=47467566) - [Senior European journalist suspended over AI-generated quotes](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
+* [2026-03-21, 14:47:58](https://news.ycombinator.com/item?id=47467543) - [MSA: Memory Sparse Attention](https://github.com/EverMind-AI/MSA)
 * [2026-03-21, 14:46:56](https://news.ycombinator.com/item?id=47467537) - [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
 * [2026-03-21, 14:22:48](https://news.ycombinator.com/item?id=47467300) - [Major leap towards reanimation after death as mammal's brain preserved](https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/)
 * [2026-03-21, 13:52:22](https://news.ycombinator.com/item?id=47467034) - [Why western carmakers' retreat from electric risks dooming them to irrelevance](https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china)
