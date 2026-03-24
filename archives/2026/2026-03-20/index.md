@@ -6,6 +6,7 @@
 
 * [2026-03-20, 23:57:22](https://news.ycombinator.com/item?id=47462483) - [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e)
 * [2026-03-20, 23:11:09](https://news.ycombinator.com/item?id=47462061) - [How the Iran war threatens global food supply](https://www.npr.org/2026/03/20/nx-s1-5750812/how-the-iran-war-threatens-global-food-supply)
+* [2026-03-20, 22:45:52](https://news.ycombinator.com/item?id=47461766) - [What Happened to Gem?](https://dfarq.homeip.net/whatever-happened-to-gem/)
 * [2026-03-20, 22:25:51](https://news.ycombinator.com/item?id=47461529) - [Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers](https://github.com/RedGridTactical/RedGridLink)
 * [2026-03-20, 22:11:37](https://news.ycombinator.com/item?id=47461378) - [Ghostling](https://github.com/ghostty-org/ghostling)
 * [2026-03-20, 22:06:51](https://news.ycombinator.com/item?id=47461321) - [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky)
