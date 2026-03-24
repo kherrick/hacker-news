@@ -31,6 +31,7 @@
 * [2026-03-20, 16:34:24](https://news.ycombinator.com/item?id=47456997) - [A 6502 disassembler with a TUI: A modern take on Regenerator](https://github.com/ricardoquesada/regenerator2000)
 * [2026-03-20, 16:34:04](https://news.ycombinator.com/item?id=47456987) - [90% of crypto's Illinois primary spending failed to achieve its objective](https://www.mollywhite.net/micro/entry/202603172318)
 * [2026-03-20, 15:55:40](https://news.ycombinator.com/item?id=47456421) - [Meme Buildings](https://misfitsarchitecture.com/2026/03/15/meme-buildings/)
+* [2026-03-20, 15:49:20](https://news.ycombinator.com/item?id=47456320) - [The Jellies That Evolved a Different Way to Keep Time](https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/)
 * [2026-03-20, 15:39:19](https://news.ycombinator.com/item?id=47456153) - [Oregon School Cell Phone Ban: 'Engaged Students, Joyful Teachers'](https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/)
 * [2026-03-20, 15:26:24](https://news.ycombinator.com/item?id=47455961) - [Microservices and the First Law of Distributed Objects (2014)](https://martinfowler.com/articles/distributed-objects-microservices.html)
 * [2026-03-20, 14:56:03](https://news.ycombinator.com/item?id=47455489) - [Having Kids (2019)](https://paulgraham.com/kids.html)
