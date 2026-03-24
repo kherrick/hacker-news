@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-03-24, 02:15:40",
-      "https://news.ycombinator.com/item?id=47497910"
-    ],
-    [
-      "Ubisoft's death by a thousand cuts",
-      "https://www.thegamebusiness.com/p/ubisofts-death-by-a-thousand-cuts"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 01:54:03",
       "https://news.ycombinator.com/item?id=47497763"
     ],
@@ -287,6 +277,16 @@
     [
       "Finding all regex matches has always been O(n²)",
       "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 10:00:42",
+      "https://news.ycombinator.com/item?id=47437005"
+    ],
+    [
+      "An unsolicited guide to being a researcher [pdf]",
+      "https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf"
     ]
   ],
   [
