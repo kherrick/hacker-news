@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-24, 21:24:33](https://news.ycombinator.com/item?id=47509571) - [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead)
 * [2026-03-24, 20:31:08](https://news.ycombinator.com/item?id=47508745) - [Is anybody else bored of talking about AI?](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 * [2026-03-24, 20:23:34](https://news.ycombinator.com/item?id=47508608) - [GitHub is once again down](https://www.githubstatus.com/incidents/kp06czybl7dw)
 * [2026-03-24, 19:53:51](https://news.ycombinator.com/item?id=47508149) - [Welcome to FastMCP](https://gofastmcp.com/getting-started/welcome)
+* [2026-03-24, 19:32:32](https://news.ycombinator.com/item?id=47507856) - [Show HN: Antimatter – Match the opposites (Mahjong solitaire mechanic)](https://www.linguabase.org/antimatter/)
 * [2026-03-24, 18:34:52](https://news.ycombinator.com/item?id=47507150) - [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/)
 * [2026-03-24, 17:59:16](https://news.ycombinator.com/item?id=47506641) - [ARM AGI CPU: Specs and SKUs](https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/)
 * [2026-03-24, 17:47:23](https://news.ycombinator.com/item?id=47506490) - [Lago (YC S21) Is Hiring](https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link)
@@ -26,10 +28,8 @@
 * [2026-03-24, 07:46:46](https://news.ycombinator.com/item?id=47499672) - [Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://github.com/AmElmo/proofshot)
 * [2026-03-24, 06:31:39](https://news.ycombinator.com/item?id=47499245) - [Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)](https://burntsushi.net/ripgrep/)
 * [2026-03-22, 09:55:23](https://news.ycombinator.com/item?id=47475930) - [Data Manipulation in Clojure Compared to R and Python](https://codewithkira.com/2024-07-18-tablecloth-dplyr-pandas-polars.html)
-* [2026-03-20, 21:43:16](https://news.ycombinator.com/item?id=47461036) - [Tony Hoare and His Imprint on Computer Science](https://cacm.acm.org/blogcacm/tony-hoare-and-his-imprint-on-computer-science/)
+* [2026-03-21, 02:09:08](https://news.ycombinator.com/item?id=47463354) - [purl: a curl-esque CLI for making HTTP requests that require payment](https://www.purl.dev/)
 * [2026-03-20, 14:29:48](https://news.ycombinator.com/item?id=47455079) - [How the world’s first electric grid was built](https://worksinprogress.co/issue/how-the-worlds-first-electric-grid-was-built/)
-* [2026-03-19, 13:49:12](https://news.ycombinator.com/item?id=47439413) - [Qite.js – Frontend framework for people who hate React and love HTML](https://qitejs.qount25.dev)
-* [2026-03-18, 21:07:29](https://news.ycombinator.com/item?id=47431465) - [Building Liberal Compute](https://simongrimm.substack.com/p/building-liberal-compute)
 
 ## [Archives](archives/index.md)
 
