@@ -32,6 +32,7 @@
 * [2026-03-22, 15:06:29](https://news.ycombinator.com/item?id=47478298) - [I Hate: Programming Wayland Applications](https://www.p4m.dev/posts/29/index.html)
 * [2026-03-22, 14:34:35](https://news.ycombinator.com/item?id=47477938) - [iBook Clamshell](https://www.ibook-clamshell.com/index.php/en/)
 * [2026-03-22, 14:01:28](https://news.ycombinator.com/item?id=47477653) - [Nintendo's not-AI, not-a-game toy](https://tapestry.news/culture/nintendo-talking-flower/)
+* [2026-03-22, 13:47:57](https://news.ycombinator.com/item?id=47477525) - [Testing the Swift C compatibility with Raylib (+WASM)](https://carette.xyz/posts/swift_c_compatibility_with_raylib/)
 * [2026-03-22, 13:44:28](https://news.ycombinator.com/item?id=47477491) - [Show HN: Crack – Turn your MacBook into a squeaky door](http://crackmacapp.com/)
 * [2026-03-22, 13:28:45](https://news.ycombinator.com/item?id=47477339) - [Revise – An AI Editor for Documents](https://revise.io)
 * [2026-03-22, 13:24:38](https://news.ycombinator.com/item?id=47477284) - [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo)

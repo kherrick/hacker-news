@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-03-24](index.md)
 
+* [2026-03-24, 16:02:22](https://news.ycombinator.com/item?id=47504695) - [Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe](https://github.com/t8/hypura)
+* [2026-03-24, 15:58:04](https://news.ycombinator.com/item?id=47504615) - [No Terms. No Conditions](https://notermsnoconditions.com)
+* [2026-03-24, 15:51:55](https://news.ycombinator.com/item?id=47504498) - [WolfGuard: WireGuard with FIPS 140-3 cryptography](https://github.com/wolfssl/wolfguard)
+* [2026-03-24, 15:29:41](https://news.ycombinator.com/item?id=47504112) - [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/)
 * [2026-03-24, 15:28:17](https://news.ycombinator.com/item?id=47504094) - [Hypothesis, Antithesis, Synthesis](https://antithesis.com/blog/2026/hegel/)
 * [2026-03-24, 15:25:52](https://news.ycombinator.com/item?id=47504060) - [Major insider trading on oil detected ahead of Iran talks](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6)
 * [2026-03-24, 15:19:19](https://news.ycombinator.com/item?id=47503965) - [LaGuardia pilots raised safety alarms months before deadly runway crash](https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash)
+* [2026-03-24, 14:58:27](https://news.ycombinator.com/item?id=47503617) - [Show HN: Gemini can now natively embed video, so I built sub-second video search](https://github.com/ssrajadh/sentrysearch)
 * [2026-03-24, 14:39:20](https://news.ycombinator.com/item?id=47503296) - [The bridge to wealth is being pulled up with AI](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
 * [2026-03-24, 14:19:59](https://news.ycombinator.com/item?id=47503006) - [So where are all the AI apps?](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
 * [2026-03-24, 13:21:24](https://news.ycombinator.com/item?id=47502193) - [io_uring, libaio performance across Linux kernels and an unexpected IOMMU trap](https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14)
