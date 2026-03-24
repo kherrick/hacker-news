@@ -1,11 +1,41 @@
 [
   [
     [
+      "2026-03-24, 04:11:46",
+      "https://news.ycombinator.com/item?id=47498509"
+    ],
+    [
+      "Box of Secrets: Discreetly modding an apartment intercom with Matter",
+      "https://www.jackhogan.me/blog/box-of-secrets/"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 03:32:14",
+      "https://news.ycombinator.com/item?id=47498325"
+    ],
+    [
+      "Cuba's Fragile Power Grid Finds a Powerful New Partner",
+      "https://oilprice.com/Energy/Energy-General/Cubas-Fragile-Power-Grid-Finds-a-Powerful-New-Partner.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 01:54:03",
+      "https://news.ycombinator.com/item?id=47497763"
+    ],
+    [
+      "Sunsetting the Techempower Framework Benchmarks",
+      "https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932"
+    ]
+  ],
+  [
+    [
       "2026-03-24, 01:53:09",
       "https://news.ycombinator.com/item?id=47497757"
     ],
     [
-      "Epoch confirms GPT5.4 Pro solved a Frontier Math Open Problem for the first time",
+      "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
       "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs"
     ]
   ],
@@ -15,18 +45,8 @@
       "https://news.ycombinator.com/item?id=47497679"
     ],
     [
-      "I Created My First AI-Assisted Pull Request and I Feel Like a Fraud",
+      "I created my first AI-assisted pull request",
       "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 23:32:17",
-      "https://news.ycombinator.com/item?id=47496583"
-    ],
-    [
-      "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
-      "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink"
     ]
   ],
   [
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2026-03-23, 22:01:15",
+      "https://news.ycombinator.com/item?id=47495719"
+    ],
+    [
+      "The Resolv hack: How one compromised key printed $23M",
+      "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/"
+    ]
+  ],
+  [
+    [
       "2026-03-23, 21:44:20",
       "https://news.ycombinator.com/item?id=47495527"
     ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=47495344"
     ],
     [
-      "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+      "FCC updates covered list to include foreign-made consumer routers",
       "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers"
     ]
   ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2026-03-23, 17:35:38",
-      "https://news.ycombinator.com/item?id=47492599"
-    ],
-    [
-      "US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects",
-      "https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html"
-    ]
-  ],
-  [
-    [
       "2026-03-23, 16:11:03",
       "https://news.ycombinator.com/item?id=47491466"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-03-23, 13:12:30",
-      "https://news.ycombinator.com/item?id=47489044"
-    ],
-    [
-      "America tells private firms to “hack back”",
-      "https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back"
-    ]
-  ],
-  [
-    [
       "2026-03-23, 10:32:33",
       "https://news.ycombinator.com/item?id=47487536"
     ],
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2026-03-23, 10:17:32",
-      "https://news.ycombinator.com/item?id=47487436"
+      "2026-03-23, 07:55:41",
+      "https://news.ycombinator.com/item?id=47486520"
     ],
     [
-      "Migrating to the EU",
-      "https://rz01.org/eu-migration/"
+      "Scott Hanselman says he's working on Windows local accounts",
+      "https://twitter.com/shanselman/status/2035110958314745891"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Two pilots dead after plane and ground vehicle collide at LaGuardia",
       "https://www.bbc.com/news/articles/cy01g522ww4o"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 01:43:45",
-      "https://news.ycombinator.com/item?id=47484519"
-    ],
-    [
-      "“Collaboration” is bullshit",
-      "https://www.joanwestenberg.com/collaboration-is-bullshit/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-03-19, 19:12:36",
+      "https://news.ycombinator.com/item?id=47444387"
+    ],
+    [
+      "Gerd Faltings, who proved the Mordell conjecture, wins the Abel Prize",
+      "https://www.scientificamerican.com/article/gerd-faltings-mathematician-who-proved-the-mordell-conjecture-wins-the-abel/"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 18:40:02",
       "https://news.ycombinator.com/item?id=47443903"
     ],
@@ -277,16 +287,6 @@
     [
       "An unsolicited guide to being a researcher [pdf]",
       "https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 08:53:36",
-      "https://news.ycombinator.com/item?id=47436592"
-    ],
-    [
-      "Bombadil: Property-based testing for web UIs",
-      "https://github.com/antithesishq/bombadil"
     ]
   ],
   [
