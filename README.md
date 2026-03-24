@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-24, 17:32:31](https://news.ycombinator.com/item?id=47506279) - [Country that put backdoors in Cisco routers to spy on world bans foreign routers](https://www.theregister.com/2026/03/24/fcc_foreign_routers/)
+* [2026-03-24, 16:26:00](https://news.ycombinator.com/item?id=47505144) - [Show HN: Email.md – Markdown to responsive, email-safe HTML](https://www.emailmd.dev/)
 * [2026-03-24, 16:02:22](https://news.ycombinator.com/item?id=47504695) - [Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe](https://github.com/t8/hypura)
 * [2026-03-24, 15:58:04](https://news.ycombinator.com/item?id=47504615) - [No Terms. No Conditions](https://notermsnoconditions.com)
 * [2026-03-24, 15:51:55](https://news.ycombinator.com/item?id=47504498) - [WolfGuard: WireGuard with FIPS 140-3 cryptography](https://github.com/wolfssl/wolfguard)
@@ -7,7 +9,6 @@
 * [2026-03-24, 15:28:17](https://news.ycombinator.com/item?id=47504094) - [Hypothesis, Antithesis, Synthesis](https://antithesis.com/blog/2026/hegel/)
 * [2026-03-24, 15:19:19](https://news.ycombinator.com/item?id=47503965) - [LaGuardia pilots raised safety alarms months before deadly runway crash](https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash)
 * [2026-03-24, 14:58:27](https://news.ycombinator.com/item?id=47503617) - [Show HN: Gemini can now natively embed video, so I built sub-second video search](https://github.com/ssrajadh/sentrysearch)
-* [2026-03-24, 14:39:20](https://news.ycombinator.com/item?id=47503296) - [The bridge to wealth is being pulled up with AI](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
 * [2026-03-24, 14:19:59](https://news.ycombinator.com/item?id=47503006) - [So where are all the AI apps?](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
 * [2026-03-24, 13:21:24](https://news.ycombinator.com/item?id=47502193) - [io_uring, libaio performance across Linux kernels and an unexpected IOMMU trap](https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14)
 * [2026-03-24, 12:48:04](https://news.ycombinator.com/item?id=47501840) - [NanoClaw Adopts OneCLI Agent Vault](https://nanoclaw.dev/blog/nanoclaw-agent-vault/)
@@ -21,15 +22,14 @@
 * [2026-03-24, 07:54:02](https://news.ycombinator.com/item?id=47499721) - [Opera: Rewind The Web to 1996 (Opera at 30)](https://www.web-rewind.com)
 * [2026-03-24, 06:31:39](https://news.ycombinator.com/item?id=47499245) - [Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)](https://burntsushi.net/ripgrep/)
 * [2026-03-24, 05:32:53](https://news.ycombinator.com/item?id=47498924) - [Log File Viewer for the Terminal](https://lnav.org/)
-* [2026-03-23, 21:28:02](https://news.ycombinator.com/item?id=47495344) - [FCC updates covered list to include foreign-made consumer routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers)
 * [2026-03-23, 18:40:58](https://news.ycombinator.com/item?id=47493460) - [Autoresearch on an old research idea](https://ykumar.me/blog/eclip-autoresearch/)
 * [2026-03-23, 14:30:10](https://news.ycombinator.com/item?id=47490070) - [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412)
 * [2026-03-23, 12:42:00](https://news.ycombinator.com/item?id=47488686) - [Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home](https://www.jackhogan.me/blog/box-of-secrets/)
 * [2026-03-22, 13:47:57](https://news.ycombinator.com/item?id=47477525) - [Testing the Swift C compatibility with Raylib (+WASM)](https://carette.xyz/posts/swift_c_compatibility_with_raylib/)
 * [2026-03-21, 18:21:01](https://news.ycombinator.com/item?id=47469744) - [BIO – The Bao I/O Co-Processor](https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor)
 * [2026-03-21, 14:47:58](https://news.ycombinator.com/item?id=47467543) - [MSA: Memory Sparse Attention](https://github.com/EverMind-AI/MSA)
+* [2026-03-20, 21:43:16](https://news.ycombinator.com/item?id=47461036) - [Tony Hoare and His Imprint on Computer Science](https://cacm.acm.org/blogcacm/tony-hoare-and-his-imprint-on-computer-science/)
 * [2026-03-20, 15:49:20](https://news.ycombinator.com/item?id=47456320) - [The Jellies That Evolved a Different Way to Keep Time](https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/)
-* [2026-03-19, 13:49:12](https://news.ycombinator.com/item?id=47439413) - [No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML](https://qitejs.qount25.dev)
 
 ## [Archives](archives/index.md)
 

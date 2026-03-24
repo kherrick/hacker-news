@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-24](index.md)
 
+* [2026-03-24, 17:32:31](https://news.ycombinator.com/item?id=47506279) - [Country that put backdoors in Cisco routers to spy on world bans foreign routers](https://www.theregister.com/2026/03/24/fcc_foreign_routers/)
+* [2026-03-24, 16:26:00](https://news.ycombinator.com/item?id=47505144) - [Show HN: Email.md – Markdown to responsive, email-safe HTML](https://www.emailmd.dev/)
 * [2026-03-24, 16:02:22](https://news.ycombinator.com/item?id=47504695) - [Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe](https://github.com/t8/hypura)
 * [2026-03-24, 15:58:04](https://news.ycombinator.com/item?id=47504615) - [No Terms. No Conditions](https://notermsnoconditions.com)
 * [2026-03-24, 15:51:55](https://news.ycombinator.com/item?id=47504498) - [WolfGuard: WireGuard with FIPS 140-3 cryptography](https://github.com/wolfssl/wolfguard)
