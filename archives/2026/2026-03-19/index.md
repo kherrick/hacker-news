@@ -60,6 +60,7 @@
 * [2026-03-19, 14:11:56](https://news.ycombinator.com/item?id=47439821) - [Conway's Game of Life, in real life](https://lcamtuf.coredump.cx/blog/conway/)
 * [2026-03-19, 14:06:39](https://news.ycombinator.com/item?id=47439718) - [Consensus Board Game](https://matklad.github.io/2026/03/19/consensus-board-game.html)
 * [2026-03-19, 14:06:28](https://news.ycombinator.com/item?id=47439714) - [Switch Your Phone to an MVNO](https://practicalbetterments.com/switch-your-phone-to-an-mvno/)
+* [2026-03-19, 13:49:12](https://news.ycombinator.com/item?id=47439413) - [No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML](https://qitejs.qount25.dev)
 * [2026-03-19, 13:43:26](https://news.ycombinator.com/item?id=47439320) - [OpenBSD: PF queues break the 4 Gbps barrier](https://undeadly.org/cgi?action=article;sid=20260319125859)
 * [2026-03-19, 13:42:14](https://news.ycombinator.com/item?id=47439300) - [I turned Markdown into a protocol for generative UI](https://fabian-kuebler.com/posts/markdown-agentic-ui/)
 * [2026-03-19, 13:25:59](https://news.ycombinator.com/item?id=47439031) - [First and Lego Education Partnership Update](https://community.firstinspires.org/first-lego-education-partnership-update)
