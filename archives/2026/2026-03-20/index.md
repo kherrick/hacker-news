@@ -27,6 +27,7 @@
 * [2026-03-20, 17:13:28](https://news.ycombinator.com/item?id=47457570) - [Boomloom: Think with your hands](https://www.theboomloom.com)
 * [2026-03-20, 17:05:38](https://news.ycombinator.com/item?id=47457472) - [Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility](https://news.ycombinator.com/item?id=47457472)
 * [2026-03-20, 16:41:42](https://news.ycombinator.com/item?id=47457107) - [MacBook M5 Pro and Qwen3.5 = Local AI Security System](https://www.sharpai.org/benchmark/)
+* [2026-03-20, 16:34:24](https://news.ycombinator.com/item?id=47456997) - [A 6502 disassembler with a TUI: A modern take on Regenerator](https://github.com/ricardoquesada/regenerator2000)
 * [2026-03-20, 16:34:04](https://news.ycombinator.com/item?id=47456987) - [90% of crypto's Illinois primary spending failed to achieve its objective](https://www.mollywhite.net/micro/entry/202603172318)
 * [2026-03-20, 15:55:40](https://news.ycombinator.com/item?id=47456421) - [Meme Buildings](https://misfitsarchitecture.com/2026/03/15/meme-buildings/)
 * [2026-03-20, 15:39:19](https://news.ycombinator.com/item?id=47456153) - [Oregon School Cell Phone Ban: 'Engaged Students, Joyful Teachers'](https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/)

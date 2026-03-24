@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-24](index.md)
 
+* [2026-03-24, 07:46:46](https://news.ycombinator.com/item?id=47499672) - [Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://proofshot.argil.io/)
+* [2026-03-24, 05:57:00](https://news.ycombinator.com/item?id=47499033) - [Pool spare GPU capacity to run LLMs at larger scale](https://github.com/michaelneale/mesh-llm)
 * [2026-03-24, 05:32:53](https://news.ycombinator.com/item?id=47498924) - [Log File Viewer for the Terminal](https://lnav.org/)
 * [2026-03-24, 05:00:21](https://news.ycombinator.com/item?id=47498766) - [Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist](https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11)
 * [2026-03-24, 04:11:46](https://news.ycombinator.com/item?id=47498509) - [Box of Secrets: Discreetly modding an apartment intercom with Matter](https://www.jackhogan.me/blog/box-of-secrets/)
