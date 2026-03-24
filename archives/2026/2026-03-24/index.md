@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-24](index.md)
 
+* [2026-03-24, 10:49:18](https://news.ycombinator.com/item?id=47500823) - [ICE: $45 an Hour to Stand There. TSA: $0 an Hour to Keep You Safe](https://botonomous.ai/featured/government_shutdown/article-v2.html)
+* [2026-03-24, 10:39:21](https://news.ycombinator.com/item?id=47500746) - [Debunking Zswap and Zram Myths](https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html)
+* [2026-03-24, 10:06:02](https://news.ycombinator.com/item?id=47500522) - [curl > /dev/sda: How I made a Linux distro that runs wget | dd](https://astrid.tech/2026/03/24/0/curl-to-dev-sda/)
 * [2026-03-24, 09:36:29](https://news.ycombinator.com/item?id=47500335) - [Microsoft's \"Fix\" for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/)
+* [2026-03-24, 08:09:14](https://news.ycombinator.com/item?id=47499814) - [MagicAudio – Free Noise, Echo and Background Music Remover](https://magicaudio.pro/)
 * [2026-03-24, 07:54:02](https://news.ycombinator.com/item?id=47499721) - [Opera: Rewind The Web to 1996 (Opera at 30)](https://www.web-rewind.com)
 * [2026-03-24, 07:46:46](https://news.ycombinator.com/item?id=47499672) - [Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://proofshot.argil.io/)
 * [2026-03-24, 06:31:39](https://news.ycombinator.com/item?id=47499245) - [Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}](https://burntsushi.net/ripgrep/)

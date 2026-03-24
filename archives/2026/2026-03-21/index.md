@@ -21,6 +21,7 @@
 * [2026-03-21, 18:42:04](https://news.ycombinator.com/item?id=47469945) - [C Bit-Field Pitfalls](https://www.os2museum.com/wp/bitfield-pitfalls/)
 * [2026-03-21, 18:21:50](https://news.ycombinator.com/item?id=47469757) - [Former FBI Director Robert Mueller Has Died](https://apnews.com/article/robert-mueller-fbi-director-trump-russia-investigation-7aca939dc25d4652815376f73e0f9aaf)
 * [2026-03-21, 18:21:01](https://news.ycombinator.com/item?id=47469744) - [BIO – The Bao I/O Co-Processor](https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor)
+* [2026-03-21, 18:05:50](https://news.ycombinator.com/item?id=47469555) - [What makes time-series database KDB-X so fast?](https://medium.com/kx-systems/what-makes-time-series-database-kdb-x-so-fast-80d254e936aa)
 * [2026-03-21, 17:52:51](https://news.ycombinator.com/item?id=47469417) - [Passengers who refuse to use headphones can now be kicked off United flights](https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries)
 * [2026-03-21, 17:48:53](https://news.ycombinator.com/item?id=47469373) - [Why Some Men Struggle to Keep Up with Friendships](https://www.theatlantic.com/newsletters/2026/03/an-unlikely-model-for-male-friendship/686496/)
 * [2026-03-21, 17:46:00](https://news.ycombinator.com/item?id=47469331) - [Hide macOS Tahoe's Menu Icons](https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/)
