@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-03-24, 10:49:18",
-      "https://news.ycombinator.com/item?id=47500823"
+      "2026-03-24, 13:00:38",
+      "https://news.ycombinator.com/item?id=47501950"
     ],
     [
-      "ICE: $45 an Hour to Stand There. TSA: $0 an Hour to Keep You Safe",
-      "https://botonomous.ai/featured/government_shutdown/article-v2.html"
+      "Missile Defense Is NP-Complete",
+      "https://smu160.github.io/posts/missile-defense-is-np-complete/"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 12:48:04",
+      "https://news.ycombinator.com/item?id=47501840"
+    ],
+    [
+      "NanoClaw Adopts OneCLI Agent Vault",
+      "https://nanoclaw.dev/blog/nanoclaw-agent-vault/"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 12:36:20",
+      "https://news.ycombinator.com/item?id=47501729"
+    ],
+    [
+      "LiteLLM Python package compromised by supply-chain attack",
+      "https://github.com/BerriAI/litellm/issues/24512"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 12:14:56",
+      "https://news.ycombinator.com/item?id=47501511"
+    ],
+    [
+      "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
+      "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
       "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 08:09:14",
-      "https://news.ycombinator.com/item?id=47499814"
-    ],
-    [
-      "MagicAudio – Free Noise, Echo and Background Music Remover",
-      "https://magicaudio.pro/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-03-23, 15:13:22",
-      "https://news.ycombinator.com/item?id=47490648"
-    ],
-    [
-      "An incoherent Rust",
-      "https://www.boxyuwu.blog/posts/an-incoherent-rust/"
-    ]
-  ],
-  [
-    [
       "2026-03-23, 14:30:10",
       "https://news.ycombinator.com/item?id=47490070"
     ],
@@ -167,16 +177,6 @@
     [
       "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
       "https://www.jackhogan.me/blog/box-of-secrets/"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 10:32:33",
-      "https://news.ycombinator.com/item?id=47487536"
-    ],
-    [
-      "I built an AI receptionist for a mechanic shop",
-      "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-03-21, 18:05:50",
-      "https://news.ycombinator.com/item?id=47469555"
-    ],
-    [
-      "What makes time-series database KDB-X so fast?",
-      "https://medium.com/kx-systems/what-makes-time-series-database-kdb-x-so-fast-80d254e936aa"
-    ]
-  ],
-  [
-    [
       "2026-03-21, 14:47:58",
       "https://news.ycombinator.com/item?id=47467543"
     ],
@@ -247,6 +237,16 @@
     [
       "Microservices and the First Law of Distributed Objects (2014)",
       "https://martinfowler.com/articles/distributed-objects-microservices.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 12:42:37",
+      "https://news.ycombinator.com/item?id=47453737"
+    ],
+    [
+      "Overcoming the Friendship Recession",
+      "https://joeprevite.com/friendship-recession/"
     ]
   ],
   [
