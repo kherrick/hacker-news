@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-24, 20:31:08",
+      "https://news.ycombinator.com/item?id=47508745"
+    ],
+    [
+      "Is anybody else bored of talking about AI?",
+      "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 20:23:34",
+      "https://news.ycombinator.com/item?id=47508608"
+    ],
+    [
+      "GitHub is once again down",
+      "https://www.githubstatus.com/incidents/kp06czybl7dw"
+    ]
+  ],
+  [
+    [
       "2026-03-24, 19:53:51",
       "https://news.ycombinator.com/item?id=47508149"
     ],
@@ -231,26 +251,6 @@
   ],
   [
     [
-      "2026-03-22, 13:47:57",
-      "https://news.ycombinator.com/item?id=47477525"
-    ],
-    [
-      "Testing the Swift C compatibility with Raylib (+WASM)",
-      "https://carette.xyz/posts/swift_c_compatibility_with_raylib/"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 13:24:54",
-      "https://news.ycombinator.com/item?id=47477290"
-    ],
-    [
-      "How to use storytelling to fit inline assembly into Rust",
-      "https://www.ralfj.de/blog/2026/03/13/inline-asm.html"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 09:55:23",
       "https://news.ycombinator.com/item?id=47475930"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-03-20, 12:42:37",
-      "https://news.ycombinator.com/item?id=47453737"
-    ],
-    [
-      "Overcoming the friendship recession",
-      "https://joeprevite.com/friendship-recession/"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 13:49:12",
       "https://news.ycombinator.com/item?id=47439413"
     ],
     [
       "Qite.js – Frontend framework for people who hate React and love HTML",
       "https://qitejs.qount25.dev"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 21:07:29",
+      "https://news.ycombinator.com/item?id=47431465"
+    ],
+    [
+      "Building Liberal Compute",
+      "https://simongrimm.substack.com/p/building-liberal-compute"
     ]
   ]
 ]
