@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-24](index.md)
 
+* [2026-03-24, 19:53:51](https://news.ycombinator.com/item?id=47508149) - [Welcome to FastMCP](https://gofastmcp.com/getting-started/welcome)
 * [2026-03-24, 18:47:13](https://news.ycombinator.com/item?id=47507354) - [Young Graduates Face the Grimmest Job Market in Years](https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html)
 * [2026-03-24, 18:34:52](https://news.ycombinator.com/item?id=47507150) - [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/)
 * [2026-03-24, 17:59:16](https://news.ycombinator.com/item?id=47506641) - [ARM AGI CPU: Specs and SKUs](https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/)
@@ -18,6 +19,7 @@
 * [2026-03-24, 15:51:55](https://news.ycombinator.com/item?id=47504498) - [WolfGuard: WireGuard with FIPS 140-3 cryptography](https://github.com/wolfssl/wolfguard)
 * [2026-03-24, 15:29:41](https://news.ycombinator.com/item?id=47504112) - [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/)
 * [2026-03-24, 15:28:17](https://news.ycombinator.com/item?id=47504094) - [Hypothesis, Antithesis, Synthesis](https://antithesis.com/blog/2026/hegel/)
+* [2026-03-24, 15:25:52](https://news.ycombinator.com/item?id=47504060) - [Mystery jump in oil trading ahead of Trump post draws scrutiny](https://www.bbc.com/news/articles/cg547ljepvzo)
 * [2026-03-24, 15:25:52](https://news.ycombinator.com/item?id=47504060) - [Major insider trading on oil detected ahead of Iran talks](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6)
 * [2026-03-24, 15:19:19](https://news.ycombinator.com/item?id=47503965) - [LaGuardia pilots raised safety alarms months before deadly runway crash](https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash)
 * [2026-03-24, 15:09:30](https://news.ycombinator.com/item?id=47503810) - [Epic Games to cut more than 1k jobs as Fortnite usage falls](https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/)

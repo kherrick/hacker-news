@@ -35,6 +35,7 @@
 * [2026-03-22, 13:47:57](https://news.ycombinator.com/item?id=47477525) - [Testing the Swift C compatibility with Raylib (+WASM)](https://carette.xyz/posts/swift_c_compatibility_with_raylib/)
 * [2026-03-22, 13:44:28](https://news.ycombinator.com/item?id=47477491) - [Show HN: Crack – Turn your MacBook into a squeaky door](http://crackmacapp.com/)
 * [2026-03-22, 13:28:45](https://news.ycombinator.com/item?id=47477339) - [Revise – An AI Editor for Documents](https://revise.io)
+* [2026-03-22, 13:24:54](https://news.ycombinator.com/item?id=47477290) - [How to use storytelling to fit inline assembly into Rust](https://www.ralfj.de/blog/2026/03/13/inline-asm.html)
 * [2026-03-22, 13:24:38](https://news.ycombinator.com/item?id=47477284) - [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo)
 * [2026-03-22, 13:12:31](https://news.ycombinator.com/item?id=47477158) - [Bored of eating your own dogfood? Try smelling your own farts](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/)
 * [2026-03-22, 13:03:55](https://news.ycombinator.com/item?id=47477090) - [A Case Against Currying](https://emi-h.com/articles/a-case-against-currying.html)
