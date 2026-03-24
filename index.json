@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47499245"
     ],
     [
-      "Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}",
+      "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
       "https://burntsushi.net/ripgrep/"
     ]
   ],
@@ -57,16 +57,6 @@
     [
       "Sunsetting the Techempower Framework Benchmarks",
       "https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 01:53:09",
-      "https://news.ycombinator.com/item?id=47497757"
-    ],
-    [
-      "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
-      "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs"
     ]
   ],
   [
@@ -107,6 +97,16 @@
     [
       "FCC updates covered list to include foreign-made consumer routers",
       "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 20:49:10",
+      "https://news.ycombinator.com/item?id=47494890"
+    ],
+    [
+      "How I'm Productive with Claude Code",
+      "https://neilkakkar.com/productive-with-claude-code.html"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-03-20, 19:20:49",
-      "https://news.ycombinator.com/item?id=47459363"
+      "2026-03-21, 14:47:58",
+      "https://news.ycombinator.com/item?id=47467543"
     ],
     [
-      "BIO: The Bao I/O Coprocessor",
-      "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/"
+      "MSA: Memory Sparse Attention",
+      "https://github.com/EverMind-AI/MSA"
     ]
   ],
   [
