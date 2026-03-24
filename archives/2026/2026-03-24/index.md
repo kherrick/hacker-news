@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-24](index.md)
 
+* [2026-03-24, 17:59:16](https://news.ycombinator.com/item?id=47506641) - [ARM AGI CPU: Specs and SKUs](https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/)
+* [2026-03-24, 17:47:23](https://news.ycombinator.com/item?id=47506490) - [Lago (YC S21) Is Hiring](https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link)
 * [2026-03-24, 17:32:31](https://news.ycombinator.com/item?id=47506279) - [Country that put backdoors in Cisco routers to spy on world bans foreign routers](https://www.theregister.com/2026/03/24/fcc_foreign_routers/)
+* [2026-03-24, 17:30:55](https://news.ycombinator.com/item?id=47506259) - [The AI Industry Is Lying to You](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
+* [2026-03-24, 17:30:42](https://news.ycombinator.com/item?id=47506251) - [Arm AGI CPU](https://newsroom.arm.com/blog/introducing-arm-agi-cpu)
 * [2026-03-24, 16:26:00](https://news.ycombinator.com/item?id=47505144) - [Show HN: Email.md – Markdown to responsive, email-safe HTML](https://www.emailmd.dev/)
 * [2026-03-24, 16:02:22](https://news.ycombinator.com/item?id=47504695) - [Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe](https://github.com/t8/hypura)
 * [2026-03-24, 15:58:04](https://news.ycombinator.com/item?id=47504615) - [No Terms. No Conditions](https://notermsnoconditions.com)
@@ -30,6 +34,7 @@
 * [2026-03-24, 08:09:14](https://news.ycombinator.com/item?id=47499814) - [MagicAudio – Free Noise, Echo and Background Music Remover](https://magicaudio.pro/)
 * [2026-03-24, 07:54:02](https://news.ycombinator.com/item?id=47499721) - [Opera: Rewind The Web to 1996 (Opera at 30)](https://www.web-rewind.com)
 * [2026-03-24, 07:46:46](https://news.ycombinator.com/item?id=47499672) - [Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://proofshot.argil.io/)
+* [2026-03-24, 07:46:46](https://news.ycombinator.com/item?id=47499672) - [Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://github.com/AmElmo/proofshot)
 * [2026-03-24, 06:31:39](https://news.ycombinator.com/item?id=47499245) - [Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}](https://burntsushi.net/ripgrep/)
 * [2026-03-24, 05:57:00](https://news.ycombinator.com/item?id=47499033) - [Pool spare GPU capacity to run LLMs at larger scale](https://github.com/michaelneale/mesh-llm)
 * [2026-03-24, 05:32:53](https://news.ycombinator.com/item?id=47498924) - [Log File Viewer for the Terminal](https://lnav.org/)
