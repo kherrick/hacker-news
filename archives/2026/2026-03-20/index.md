@@ -30,6 +30,7 @@
 * [2026-03-20, 16:34:04](https://news.ycombinator.com/item?id=47456987) - [90% of crypto's Illinois primary spending failed to achieve its objective](https://www.mollywhite.net/micro/entry/202603172318)
 * [2026-03-20, 15:55:40](https://news.ycombinator.com/item?id=47456421) - [Meme Buildings](https://misfitsarchitecture.com/2026/03/15/meme-buildings/)
 * [2026-03-20, 15:39:19](https://news.ycombinator.com/item?id=47456153) - [Oregon School Cell Phone Ban: 'Engaged Students, Joyful Teachers'](https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/)
+* [2026-03-20, 15:26:24](https://news.ycombinator.com/item?id=47455961) - [Microservices and the First Law of Distributed Objects (2014)](https://martinfowler.com/articles/distributed-objects-microservices.html)
 * [2026-03-20, 14:56:03](https://news.ycombinator.com/item?id=47455489) - [Having Kids (2019)](https://paulgraham.com/kids.html)
 * [2026-03-20, 14:48:09](https://news.ycombinator.com/item?id=47455365) - [Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot](https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/)
 * [2026-03-20, 14:33:41](https://news.ycombinator.com/item?id=47455138) - [Molly guard in reverse](https://unsung.aresluna.org/molly-guard-in-reverse/)
