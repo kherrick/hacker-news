@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-03-25, 16:07:12",
-      "https://news.ycombinator.com/item?id=47519308"
+      "2026-03-25, 17:29:33",
+      "https://news.ycombinator.com/item?id=47520505"
     ],
     [
-      "A Eulogy for Vim",
-      "https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html"
+      "Meta and YouTube Found Negligent in Landmark Social Media Addiction Case",
+      "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 16:31:15",
+      "https://news.ycombinator.com/item?id=47519625"
+    ],
+    [
+      "Jury says Meta knowingly harmed children for profit, awarding landmark verdict",
+      "https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 16:24:15",
+      "https://news.ycombinator.com/item?id=47519519"
+    ],
+    [
+      "Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote",
+      "https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a"
     ]
   ],
   [
@@ -61,26 +81,6 @@
   ],
   [
     [
-      "2026-03-25, 14:34:09",
-      "https://news.ycombinator.com/item?id=47517885"
-    ],
-    [
-      "Ubuntu wants to strip some of GRUB features in 26.10 for security purposes",
-      "https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 14:20:24",
-      "https://news.ycombinator.com/item?id=47517701"
-    ],
-    [
-      "Apple Just Lost Me",
-      "https://andregarzia.com/2026/03/apple-just-lost-me.html"
-    ]
-  ],
-  [
-    [
       "2026-03-25, 14:07:14",
       "https://news.ycombinator.com/item?id=47517539"
     ],
@@ -107,16 +107,6 @@
     [
       "Building a coding agent in Swift from scratch",
       "https://github.com/ivan-magda/swift-claude-code"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 08:52:50",
-      "https://news.ycombinator.com/item?id=47514916"
-    ],
-    [
-      "Meta told to pay $375M for misleading users over child safety",
-      "https://www.bbc.com/news/articles/cql75dn07n2o"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
       "https://github.com/BerriAI/litellm/issues/24512"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 18:49:02",
+      "https://news.ycombinator.com/item?id=47493567"
+    ],
+    [
+      "Show HN: I built a site that maps the web from a bounty hunter's perspective",
+      "https://www.neobotnet.com/"
     ]
   ],
   [
