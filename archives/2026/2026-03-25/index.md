@@ -20,6 +20,7 @@
 * [2026-03-25, 18:16:03](https://news.ycombinator.com/item?id=47521150) - [ARC-AGI-3](https://arcprize.org/arc-agi/3)
 * [2026-03-25, 17:43:17](https://news.ycombinator.com/item?id=47520717) - [Meta and Google found liable in social media addiction trial](https://www.bbc.co.uk/news/articles/c747x7gz249o)
 * [2026-03-25, 17:29:33](https://news.ycombinator.com/item?id=47520505) - [Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html)
+* [2026-03-25, 17:10:21](https://news.ycombinator.com/item?id=47520220) - [Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR](https://github.com/jonwiggins/optio)
 * [2026-03-25, 16:43:08](https://news.ycombinator.com/item?id=47519802) - [Tracy Kidder, Author of 'The Soul of a New Machine,' Dies at 80](https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html)
 * [2026-03-25, 16:31:15](https://news.ycombinator.com/item?id=47519625) - [Jury says Meta knowingly harmed children for profit, awarding landmark verdict](https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict)
 * [2026-03-25, 16:24:15](https://news.ycombinator.com/item?id=47519519) - [Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote](https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a)
