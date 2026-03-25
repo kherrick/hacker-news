@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-03-24, 21:54:27",
-      "https://news.ycombinator.com/item?id=47509984"
+      "2026-03-25, 00:44:55",
+      "https://news.ycombinator.com/item?id=47511703"
     ],
     [
-      "Jury finds Meta liable in case over child sexual exploitation on its platforms",
-      "https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation"
+      "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
+      "https://spectrum.ieee.org/data-center-dc"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 00:29:45",
+      "https://news.ycombinator.com/item?id=47511589"
+    ],
+    [
+      "Flighty Airports",
+      "https://flighty.com/airports"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 23:44:47",
+      "https://news.ycombinator.com/item?id=47511208"
+    ],
+    [
+      "A Compiler Writing Journey",
+      "https://github.com/DoctorWkt/acwj"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47508246"
     ],
     [
-      "We’re saying goodbye to Sora",
+      "Goodbye to Sora",
       "https://twitter.com/soraofficialapp/status/2036532795984715896"
     ]
   ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-03-24, 15:19:19",
-      "https://news.ycombinator.com/item?id=47503965"
-    ],
-    [
-      "LaGuardia pilots raised safety alarms months before deadly runway crash",
-      "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 15:09:30",
       "https://news.ycombinator.com/item?id=47503810"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-03-24, 07:46:46",
-      "https://news.ycombinator.com/item?id=47499672"
-    ],
-    [
-      "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
-      "https://github.com/AmElmo/proofshot"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 06:31:39",
       "https://news.ycombinator.com/item?id=47499245"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-03-21, 22:20:25",
+      "https://news.ycombinator.com/item?id=47472120"
+    ],
+    [
+      "An Aural Companion for Decades, CBS News Radio Crackles to a Close",
+      "https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html"
+    ]
+  ],
+  [
+    [
       "2026-03-21, 19:27:57",
       "https://news.ycombinator.com/item?id=47470405"
     ],
@@ -271,21 +281,11 @@
   ],
   [
     [
-      "2026-03-21, 02:09:08",
-      "https://news.ycombinator.com/item?id=47463354"
-    ],
-    [
-      "purl: a curl-esque CLI for making HTTP requests that require payment",
-      "https://www.purl.dev/"
-    ]
-  ],
-  [
-    [
       "2026-03-20, 22:45:52",
       "https://news.ycombinator.com/item?id=47461766"
     ],
     [
-      "What Happened to Gem?",
+      "What happened to GEM?",
       "https://dfarq.homeip.net/whatever-happened-to-gem/"
     ]
   ],
