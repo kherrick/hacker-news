@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-25, 01:51:16",
+      "https://news.ycombinator.com/item?id=47512204"
+    ],
+    [
+      "Oil at $150 will trigger global recession, says boss of financial BlackRock",
+      "https://www.bbc.com/news/articles/c9wqrdkx8ppo"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 00:44:55",
       "https://news.ycombinator.com/item?id=47511703"
     ],
     [
       "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
       "https://spectrum.ieee.org/data-center-dc"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 00:36:46",
+      "https://news.ycombinator.com/item?id=47511631"
+    ],
+    [
+      "Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean's Types",
+      "https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Is anybody else bored of talking about AI?",
       "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 20:23:34",
-      "https://news.ycombinator.com/item?id=47508608"
-    ],
-    [
-      "GitHub is once again down",
-      "https://www.githubstatus.com/incidents/kp06czybl7dw"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Arm AGI CPU",
       "https://newsroom.arm.com/blog/introducing-arm-agi-cpu"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 16:57:47",
-      "https://news.ycombinator.com/item?id=47505731"
-    ],
-    [
-      "Show HN: Gridland: make terminal apps that also run in the browser",
-      "https://www.gridland.io/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-03-24, 06:31:39",
-      "https://news.ycombinator.com/item?id=47499245"
-    ],
-    [
-      "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
-      "https://burntsushi.net/ripgrep/"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 01:53:09",
       "https://news.ycombinator.com/item?id=47497757"
     ],
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2026-03-21, 19:27:57",
-      "https://news.ycombinator.com/item?id=47470405"
+      "2026-03-21, 08:35:51",
+      "https://news.ycombinator.com/item?id=47465197"
     ],
     [
-      "Show HN: I ran a language model on a PS2",
-      "https://github.com/xaskasdf/ps2-llm"
+      "Intel Device Modeling Language for virtual platforms",
+      "https://github.com/intel/device-modeling-language"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 02:47:26",
+      "https://news.ycombinator.com/item?id=47463548"
+    ],
+    [
+      "Algorithm Visualizer",
+      "https://algorithm-visualizer.org/"
     ]
   ],
   [
