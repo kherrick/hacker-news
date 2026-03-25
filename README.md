@@ -20,6 +20,7 @@
 * [2026-03-24, 15:28:17](https://news.ycombinator.com/item?id=47504094) - [Hypothesis, Antithesis, synthesis](https://antithesis.com/blog/2026/hegel/)
 * [2026-03-24, 14:58:27](https://news.ycombinator.com/item?id=47503617) - [Show HN: Gemini can now natively embed video, so I built sub-second video search](https://github.com/ssrajadh/sentrysearch)
 * [2026-03-24, 13:00:38](https://news.ycombinator.com/item?id=47501950) - [Missile defense is NP-complete](https://smu160.github.io/posts/missile-defense-is-np-complete/)
+* [2026-03-24, 12:46:22](https://news.ycombinator.com/item?id=47501825) - [Why did the chicken cross the road?](https://taylor.town/other-side)
 * [2026-03-24, 12:06:29](https://news.ycombinator.com/item?id=47501426) - [Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512)
 * [2026-03-22, 16:44:18](https://news.ycombinator.com/item?id=47479362) - [VNDB founder Yorhel has died](https://vndb.org/t24787)
 * [2026-03-21, 23:19:28](https://news.ycombinator.com/item?id=47472566) - [Looking at Unity made me understand the point of C++ coroutines](https://mropert.github.io/2026/03/20/unity_cpp_coroutines/)
@@ -28,7 +29,6 @@
 * [2026-03-21, 22:12:47](https://news.ycombinator.com/item?id=47472039) - [The Last Testaments of Richard II and Henry IV](https://www.historytoday.com/archive/feature/last-testaments-richard-ii-and-henry-iv)
 * [2026-03-21, 08:35:51](https://news.ycombinator.com/item?id=47465197) - [Intel Device Modeling Language for virtual platforms](https://github.com/intel/device-modeling-language)
 * [2026-03-21, 02:47:26](https://news.ycombinator.com/item?id=47463548) - [Algorithm Visualizer](https://algorithm-visualizer.org/)
-* [2026-03-20, 14:29:48](https://news.ycombinator.com/item?id=47455079) - [How the world’s first electric grid was built](https://worksinprogress.co/issue/how-the-worlds-first-electric-grid-was-built/)
 * [2026-03-20, 12:42:40](https://news.ycombinator.com/item?id=47453738) - [You can run a DNS server (2025)](https://simonsafar.com/2025/running_dns/)
 
 ## [Archives](archives/index.md)
