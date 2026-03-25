@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-25, 21:11:57](https://news.ycombinator.com/item?id=47523330) - [Running Tesla Model 3's Computer on My Desk Using Parts from Crashed Cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
+* [2026-03-25, 21:11:57](https://news.ycombinator.com/item?id=47523330) - [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
 * [2026-03-25, 20:58:43](https://news.ycombinator.com/item?id=47523169) - [Health NZ staff told to stop using ChatGPT to write clinical notes](https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes)
 * [2026-03-25, 20:55:36](https://news.ycombinator.com/item?id=47523106) - [China is mass-producing hypersonic missiles for $99,000](https://kdwalmsley.substack.com/p/on-sale-now-china-is-mass-producing)
 * [2026-03-25, 20:27:03](https://news.ycombinator.com/item?id=47522709) - [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar)
 * [2026-03-25, 20:19:58](https://news.ycombinator.com/item?id=47522608) - [Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range](https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/)
-* [2026-03-25, 20:09:19](https://news.ycombinator.com/item?id=47522492) - [Tired of Ghost Positions in Companies?](https://ghostjobs.net)
 * [2026-03-25, 19:19:50](https://news.ycombinator.com/item?id=47521945) - [FreeCAD  v1.1](https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/)
 * [2026-03-25, 19:14:42](https://news.ycombinator.com/item?id=47521876) - [Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed](https://lapcatsoftware.com/articles/2026/3/11.html)
 * [2026-03-25, 19:09:16](https://news.ycombinator.com/item?id=47521799) - [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
@@ -28,6 +27,7 @@
 * [2026-03-24, 21:54:27](https://news.ycombinator.com/item?id=47509984) - [Jury finds Meta liable in case over child sexual exploitation on its platforms](https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation)
 * [2026-03-24, 20:01:05](https://news.ycombinator.com/item?id=47508246) - [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)
 * [2026-03-24, 18:03:48](https://news.ycombinator.com/item?id=47506713) - [Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller](https://videojs.org/blog/videojs-v10-beta-hello-world-again)
+* [2026-03-22, 23:06:57](https://news.ycombinator.com/item?id=47483286) - [My DIY FPGA board can run Quake II](https://blog.mikhe.ch/quake2-on-fpga/part4.html)
 * [2026-03-22, 14:28:06](https://news.ycombinator.com/item?id=47477873) - [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm)
 * [2026-03-21, 23:19:28](https://news.ycombinator.com/item?id=47472566) - [Looking at Unity made me understand the point of C++ coroutines](https://mropert.github.io/2026/03/20/unity_cpp_coroutines/)
 
