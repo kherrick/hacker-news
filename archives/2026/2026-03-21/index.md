@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-21](index.md)
 
+* [2026-03-21, 23:19:28](https://news.ycombinator.com/item?id=47472566) - [Looking at Unity made me understand the point of C++ coroutines](https://mropert.github.io/2026/03/20/unity_cpp_coroutines/)
 * [2026-03-21, 22:43:49](https://news.ycombinator.com/item?id=47472286) - [Fun with CSF firmware (RK3588 GPU firmware)](https://icecream95.gitlab.io/fun-with-csf-firmware.html)
 * [2026-03-21, 22:20:25](https://news.ycombinator.com/item?id=47472120) - [An Aural Companion for Decades, CBS News Radio Crackles to a Close](https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html)
 * [2026-03-21, 22:12:47](https://news.ycombinator.com/item?id=47472039) - [The Last Testaments of Richard II and Henry IV](https://www.historytoday.com/archive/feature/last-testaments-richard-ii-and-henry-iv)

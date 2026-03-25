@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-25](index.md)
 
+* [2026-03-25, 10:28:49](https://news.ycombinator.com/item?id=47515502) - [I tried to prove I'm not AI. My aunt wasn't convinced](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
+* [2026-03-25, 08:52:50](https://news.ycombinator.com/item?id=47514916) - [Meta told to pay $375M for misleading users over child safety](https://www.bbc.com/news/articles/cql75dn07n2o)
 * [2026-03-25, 08:05:17](https://news.ycombinator.com/item?id=47514603) - [I Forked Httpx](https://tildeweb.nl/~michiel/httpxyz.html)
 * [2026-03-25, 05:42:09](https://news.ycombinator.com/item?id=47513728) - [Implementing automatic eSIM installation on Android](https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb)
 * [2026-03-25, 05:00:54](https://news.ycombinator.com/item?id=47513475) - [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
