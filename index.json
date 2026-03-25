@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-03-25, 20:27:03",
+      "https://news.ycombinator.com/item?id=47522709"
+    ],
+    [
+      "The EU still wants to scan  your private messages and photos",
+      "https://fightchatcontrol.eu/?foo=bar"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 19:46:22",
+      "https://news.ycombinator.com/item?id=47522238"
+    ],
+    [
+      "ARC-AGI-3 benchmark is out now",
+      "https://arcprize.org/tasks/ls20"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 19:36:39",
+      "https://news.ycombinator.com/item?id=47522112"
+    ],
+    [
+      "Drone Attack on Parked U.S. Army BlackHawk in Iraq a Harbinger of What's to Come",
+      "https://www.twz.com/air/drone-attack-on-parked-u-s-army-black-hawk-in-iraq-a-harbinger-of-whats-to-come"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 19:19:50",
+      "https://news.ycombinator.com/item?id=47521945"
+    ],
+    [
+      "FreeCAD Version 1.1 Released",
+      "https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 19:14:42",
+      "https://news.ycombinator.com/item?id=47521876"
+    ],
+    [
+      "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+      "https://lapcatsoftware.com/articles/2026/3/11.html"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 19:09:16",
       "https://news.ycombinator.com/item?id=47521799"
     ],
@@ -21,6 +71,16 @@
   ],
   [
     [
+      "2026-03-25, 18:16:40",
+      "https://news.ycombinator.com/item?id=47521157"
+    ],
+    [
+      "90% of Claude-linked output going to GitHub repos w <2 stars",
+      "https://www.claudescode.dev/?window=since_launch"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 18:16:03",
       "https://news.ycombinator.com/item?id=47521150"
     ],
@@ -35,7 +95,7 @@
       "https://news.ycombinator.com/item?id=47520505"
     ],
     [
-      "Meta and YouTube Found Negligent in Landmark Social Media Addiction Case",
+      "Meta and YouTube found negligent in landmark social media addiction case",
       "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html"
     ]
   ],
@@ -47,16 +107,6 @@
     [
       "Tracy Kidder has died",
       "https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 16:24:15",
-      "https://news.ycombinator.com/item?id=47519519"
-    ],
-    [
-      "Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote",
-      "https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a"
     ]
   ],
   [
@@ -217,56 +267,6 @@
     [
       "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
       "https://videojs.org/blog/videojs-v10-beta-hello-world-again"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 17:30:42",
-      "https://news.ycombinator.com/item?id=47506251"
-    ],
-    [
-      "Arm AGI CPU",
-      "https://newsroom.arm.com/blog/introducing-arm-agi-cpu"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 15:29:41",
-      "https://news.ycombinator.com/item?id=47504112"
-    ],
-    [
-      "Apple Business",
-      "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 12:06:29",
-      "https://news.ycombinator.com/item?id=47501426"
-    ],
-    [
-      "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-      "https://github.com/BerriAI/litellm/issues/24512"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 18:49:02",
-      "https://news.ycombinator.com/item?id=47493567"
-    ],
-    [
-      "Show HN: I built a site that maps the web from a bounty hunter's perspective",
-      "https://www.neobotnet.com/"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 21:18:30",
-      "https://news.ycombinator.com/item?id=47482259"
-    ],
-    [
-      "Microbenchmarking Chipsets for Giggles",
-      "https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles"
     ]
   ],
   [
