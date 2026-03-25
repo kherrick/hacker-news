@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-03-25, 10:28:49",
+      "https://news.ycombinator.com/item?id=47515502"
+    ],
+    [
+      "I tried to prove I'm not AI. My aunt wasn't convinced",
+      "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 08:52:50",
+      "https://news.ycombinator.com/item?id=47514916"
+    ],
+    [
+      "Meta told to pay $375M for misleading users over child safety",
+      "https://www.bbc.com/news/articles/cql75dn07n2o"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 08:05:17",
       "https://news.ycombinator.com/item?id=47514603"
     ],
     [
       "Why I forked httpx",
       "https://tildeweb.nl/~michiel/httpxyz.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 05:42:09",
-      "https://news.ycombinator.com/item?id=47513728"
-    ],
-    [
-      "Implementing automatic eSIM installation on Android",
-      "https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Goodbye to Sora",
       "https://twitter.com/soraofficialapp/status/2036532795984715896"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 19:15:27",
-      "https://news.ycombinator.com/item?id=47507666"
-    ],
-    [
-      "Show HN: AI Roundtable – Let 200 models debate your question",
-      "https://opper.ai/ai-roundtable/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-03-21, 23:19:28",
+      "https://news.ycombinator.com/item?id=47472566"
+    ],
+    [
+      "Looking at Unity made me understand the point of C++ coroutines",
+      "https://mropert.github.io/2026/03/20/unity_cpp_coroutines/"
+    ]
+  ],
+  [
+    [
       "2026-03-21, 22:43:49",
       "https://news.ycombinator.com/item?id=47472286"
     ],
@@ -267,16 +277,6 @@
     [
       "Algorithm Visualizer",
       "https://algorithm-visualizer.org/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 22:45:52",
-      "https://news.ycombinator.com/item?id=47461766"
-    ],
-    [
-      "What happened to GEM?",
-      "https://dfarq.homeip.net/whatever-happened-to-gem/"
     ]
   ],
   [
