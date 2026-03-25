@@ -22,12 +22,12 @@
 * [2026-03-24, 13:00:38](https://news.ycombinator.com/item?id=47501950) - [Missile defense is NP-complete](https://smu160.github.io/posts/missile-defense-is-np-complete/)
 * [2026-03-24, 12:46:22](https://news.ycombinator.com/item?id=47501825) - [Why did the chicken cross the road?](https://taylor.town/other-side)
 * [2026-03-24, 12:06:29](https://news.ycombinator.com/item?id=47501426) - [Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512)
+* [2026-03-22, 21:18:30](https://news.ycombinator.com/item?id=47482259) - [Microbenchmarking Chipsets for Giggles](https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles)
 * [2026-03-22, 16:44:18](https://news.ycombinator.com/item?id=47479362) - [VNDB founder Yorhel has died](https://vndb.org/t24787)
 * [2026-03-21, 23:19:28](https://news.ycombinator.com/item?id=47472566) - [Looking at Unity made me understand the point of C++ coroutines](https://mropert.github.io/2026/03/20/unity_cpp_coroutines/)
 * [2026-03-21, 22:43:49](https://news.ycombinator.com/item?id=47472286) - [Fun with CSF firmware (RK3588 GPU firmware)](https://icecream95.gitlab.io/fun-with-csf-firmware.html)
 * [2026-03-21, 22:20:25](https://news.ycombinator.com/item?id=47472120) - [An Aural Companion for Decades, CBS News Radio Crackles to a Close](https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html)
 * [2026-03-21, 22:12:47](https://news.ycombinator.com/item?id=47472039) - [The Last Testaments of Richard II and Henry IV](https://www.historytoday.com/archive/feature/last-testaments-richard-ii-and-henry-iv)
-* [2026-03-21, 08:35:51](https://news.ycombinator.com/item?id=47465197) - [Intel Device Modeling Language for virtual platforms](https://github.com/intel/device-modeling-language)
 * [2026-03-21, 02:47:26](https://news.ycombinator.com/item?id=47463548) - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 * [2026-03-20, 12:42:40](https://news.ycombinator.com/item?id=47453738) - [You can run a DNS server (2025)](https://simonsafar.com/2025/running_dns/)
 

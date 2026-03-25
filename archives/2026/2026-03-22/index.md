@@ -9,6 +9,7 @@
 * [2026-03-22, 22:19:03](https://news.ycombinator.com/item?id=47482825) - [Rust Project Perspectives on AI](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
 * [2026-03-22, 22:11:54](https://news.ycombinator.com/item?id=47482760) - [They're Vibe-Coding Spam Now](https://tedium.co/2026/02/25/vibe-coded-email-spam/)
 * [2026-03-22, 22:01:03](https://news.ycombinator.com/item?id=47482667) - [Iran war energy crisis is a renewable energy wake-up call](https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e)
+* [2026-03-22, 21:18:30](https://news.ycombinator.com/item?id=47482259) - [Microbenchmarking Chipsets for Giggles](https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles)
 * [2026-03-22, 21:14:11](https://news.ycombinator.com/item?id=47482217) - [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830)
 * [2026-03-22, 20:20:29](https://news.ycombinator.com/item?id=47481729) - [We indexed the Delve audit leak: 533 reports, 455 companies, 99.8% identical](https://trustcompliance.xyz)
 * [2026-03-22, 19:32:15](https://news.ycombinator.com/item?id=47481202) - [Personal Computing (2022)](https://josh8.com/blog/personal_computing.html)
