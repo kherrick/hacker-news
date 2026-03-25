@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-03-25, 16:07:12",
+      "https://news.ycombinator.com/item?id=47519308"
+    ],
+    [
+      "A Eulogy for Vim",
+      "https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 15:46:44",
+      "https://news.ycombinator.com/item?id=47518965"
+    ],
+    [
+      "Musketeer d'Artagnan's remains believed found under Dutch church",
+      "https://www.bbc.co.uk/news/articles/cm2rew2dgzzo"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 15:34:02",
+      "https://news.ycombinator.com/item?id=47518785"
+    ],
+    [
+      "Sony V. Cox Decision Reversed",
+      "https://supreme.justia.com/cases/federal/us/607/24-171/"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 15:26:01",
+      "https://news.ycombinator.com/item?id=47518649"
+    ],
+    [
+      "Hubble Snaps a New Dazzling Photo of the Crab Nebula",
+      "https://nautil.us/hubble-snaps-a-new-dazzling-photo-of-the-crab-nebula-1279203"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 15:02:56",
       "https://news.ycombinator.com/item?id=47518281"
     ],
@@ -11,22 +51,22 @@
   ],
   [
     [
-      "2026-03-25, 14:52:30",
-      "https://news.ycombinator.com/item?id=47518121"
+      "2026-03-25, 14:56:28",
+      "https://news.ycombinator.com/item?id=47518171"
     ],
     [
-      "How to Keep ICE Agents Out of Your Devices at Airports",
-      "https://theintercept.com/2026/03/25/ice-airports-phone-security-privacy-safety/"
+      "Antimatter has been transported for the first time",
+      "https://www.nature.com/articles/d41586-026-00950-w"
     ]
   ],
   [
     [
-      "2026-03-25, 14:44:10",
-      "https://news.ycombinator.com/item?id=47518001"
+      "2026-03-25, 14:34:09",
+      "https://news.ycombinator.com/item?id=47517885"
     ],
     [
-      "OpenAI's latest repo has Claude as the third top contributor",
-      "https://twitter.com/CodeByNZ/status/2036723050197012771"
+      "Ubuntu wants to strip some of GRUB features in 26.10 for security purposes",
+      "https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069"
     ]
   ],
   [
@@ -37,6 +77,16 @@
     [
       "Apple Just Lost Me",
       "https://andregarzia.com/2026/03/apple-just-lost-me.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 14:07:14",
+      "https://news.ycombinator.com/item?id=47517539"
+    ],
+    [
+      "Thoughts on Slowing the Fuck Down",
+      "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/"
     ]
   ],
   [
@@ -57,16 +107,6 @@
     [
       "Building a coding agent in Swift from scratch",
       "https://github.com/ivan-magda/swift-claude-code"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 10:28:49",
-      "https://news.ycombinator.com/item?id=47515502"
-    ],
-    [
-      "I tried to prove I'm not AI. My aunt wasn't convinced",
-      "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake"
     ]
   ],
   [
@@ -101,12 +141,12 @@
   ],
   [
     [
-      "2026-03-25, 03:28:04",
-      "https://news.ycombinator.com/item?id=47512891"
+      "2026-03-25, 04:27:14",
+      "https://news.ycombinator.com/item?id=47513229"
     ],
     [
-      "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
-      "https://github.com/cigrainger/duckdb-hnsw-acorn"
+      "Miscellanea: The War in Iran",
+      "https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/"
     ]
   ],
   [
@@ -125,7 +165,7 @@
       "https://news.ycombinator.com/item?id=47511703"
     ],
     [
-      "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
+      "Data centers are transitioning from AC to DC",
       "https://spectrum.ieee.org/data-center-dc"
     ]
   ],
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2026-03-24, 18:34:52",
-      "https://news.ycombinator.com/item?id=47507150"
-    ],
-    [
-      "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
-      "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 18:03:48",
       "https://news.ycombinator.com/item?id=47506713"
     ],
@@ -187,16 +217,6 @@
     [
       "Arm AGI CPU",
       "https://newsroom.arm.com/blog/introducing-arm-agi-cpu"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 16:26:00",
-      "https://news.ycombinator.com/item?id=47505144"
-    ],
-    [
-      "Show HN: Email.md – Markdown to responsive, email-safe HTML",
-      "https://www.emailmd.dev/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-03-21, 22:43:49",
-      "https://news.ycombinator.com/item?id=47472286"
-    ],
-    [
-      "Fun with CSF firmware (RK3588 GPU firmware)",
-      "https://icecream95.gitlab.io/fun-with-csf-firmware.html"
-    ]
-  ],
-  [
-    [
       "2026-03-21, 22:12:47",
       "https://news.ycombinator.com/item?id=47472039"
     ],
@@ -287,16 +297,6 @@
     [
       "Algorithm Visualizer",
       "https://algorithm-visualizer.org/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 12:42:40",
-      "https://news.ycombinator.com/item?id=47453738"
-    ],
-    [
-      "You can run a DNS server (2025)",
-      "https://simonsafar.com/2025/running_dns/"
     ]
   ]
 ]
