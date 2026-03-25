@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-03-25](index.md)
 
+* [2026-03-25, 20:27:03](https://news.ycombinator.com/item?id=47522709) - [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar)
+* [2026-03-25, 19:46:22](https://news.ycombinator.com/item?id=47522238) - [ARC-AGI-3 benchmark is out now](https://arcprize.org/tasks/ls20)
+* [2026-03-25, 19:36:39](https://news.ycombinator.com/item?id=47522112) - [Drone Attack on Parked U.S. Army BlackHawk in Iraq a Harbinger of What's to Come](https://www.twz.com/air/drone-attack-on-parked-u-s-army-black-hawk-in-iraq-a-harbinger-of-whats-to-come)
+* [2026-03-25, 19:19:50](https://news.ycombinator.com/item?id=47521945) - [FreeCAD Version 1.1 Released](https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/)
+* [2026-03-25, 19:14:42](https://news.ycombinator.com/item?id=47521876) - [Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed](https://lapcatsoftware.com/articles/2026/3/11.html)
 * [2026-03-25, 19:09:16](https://news.ycombinator.com/item?id=47521799) - [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
 * [2026-03-25, 19:08:38](https://news.ycombinator.com/item?id=47521787) - [Ball Pit](https://codepen.io/mrdoob_/full/NPRwLZd)
+* [2026-03-25, 18:16:40](https://news.ycombinator.com/item?id=47521157) - [90% of Claude-linked output going to GitHub repos w <2 stars](https://www.claudescode.dev/?window=since_launch)
 * [2026-03-25, 18:16:03](https://news.ycombinator.com/item?id=47521150) - [ARC-AGI-3](https://arcprize.org/arc-agi/3)
 * [2026-03-25, 17:43:17](https://news.ycombinator.com/item?id=47520717) - [Meta and Google found liable in social media addiction trial](https://www.bbc.co.uk/news/articles/c747x7gz249o)
 * [2026-03-25, 17:29:33](https://news.ycombinator.com/item?id=47520505) - [Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html)
