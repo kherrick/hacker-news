@@ -4,10 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-03-25](index.md)
 
+* [2026-03-25, 16:07:12](https://news.ycombinator.com/item?id=47519308) - [A Eulogy for Vim](https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html)
+* [2026-03-25, 15:46:44](https://news.ycombinator.com/item?id=47518965) - [Musketeer d'Artagnan's remains believed found under Dutch church](https://www.bbc.co.uk/news/articles/cm2rew2dgzzo)
+* [2026-03-25, 15:34:02](https://news.ycombinator.com/item?id=47518785) - [Sony V. Cox Decision Reversed](https://supreme.justia.com/cases/federal/us/607/24-171/)
+* [2026-03-25, 15:26:01](https://news.ycombinator.com/item?id=47518649) - [Hubble Snaps a New Dazzling Photo of the Crab Nebula](https://nautil.us/hubble-snaps-a-new-dazzling-photo-of-the-crab-nebula-1279203)
 * [2026-03-25, 15:02:56](https://news.ycombinator.com/item?id=47518281) - [Supreme Court Sides with Cox in Copyright Fight over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html)
+* [2026-03-25, 14:56:28](https://news.ycombinator.com/item?id=47518171) - [Antimatter has been transported for the first time](https://www.nature.com/articles/d41586-026-00950-w)
 * [2026-03-25, 14:52:30](https://news.ycombinator.com/item?id=47518121) - [How to Keep ICE Agents Out of Your Devices at Airports](https://theintercept.com/2026/03/25/ice-airports-phone-security-privacy-safety/)
 * [2026-03-25, 14:44:10](https://news.ycombinator.com/item?id=47518001) - [OpenAI's latest repo has Claude as the third top contributor](https://twitter.com/CodeByNZ/status/2036723050197012771)
+* [2026-03-25, 14:34:09](https://news.ycombinator.com/item?id=47517885) - [Ubuntu wants to strip some of GRUB features in 26.10 for security purposes](https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069)
 * [2026-03-25, 14:20:24](https://news.ycombinator.com/item?id=47517701) - [Apple Just Lost Me](https://andregarzia.com/2026/03/apple-just-lost-me.html)
+* [2026-03-25, 14:07:14](https://news.ycombinator.com/item?id=47517539) - [Thoughts on Slowing the Fuck Down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
 * [2026-03-25, 13:29:54](https://news.ycombinator.com/item?id=47517105) - [Palestinians warn of expanding West Bank settler violence](https://www.bbc.com/news/articles/c747x00m83vo)
 * [2026-03-25, 12:49:14](https://news.ycombinator.com/item?id=47516650) - [Local LLM by Ente](https://ente.com/blog/ensu/)
 * [2026-03-25, 11:59:36](https://news.ycombinator.com/item?id=47516189) - [Open source isn't a tip jar – it's time to charge for access](https://www.theregister.com/2026/03/25/open_source_bill_opinion/)
