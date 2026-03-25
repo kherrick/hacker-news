@@ -24,6 +24,7 @@
 * [2026-03-23, 20:25:10](https://news.ycombinator.com/item?id=47494629) - [Bets on US-Iran ceasefire show signs of insider knowledge, say experts](https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket)
 * [2026-03-23, 20:11:38](https://news.ycombinator.com/item?id=47494469) - [American Aviation Is Near Collapse](https://www.theatlantic.com/newsletters/2026/03/aviation-failures-tsa-dhs-shutdown/686505/)
 * [2026-03-23, 18:57:08](https://news.ycombinator.com/item?id=47493657) - [Local Stack Archived their GitHub repo and requires an account to run](https://github.com/localstack/localstack)
+* [2026-03-23, 18:49:02](https://news.ycombinator.com/item?id=47493567) - [Show HN: I built a site that maps the web from a bounty hunter's perspective](https://www.neobotnet.com/)
 * [2026-03-23, 18:40:58](https://news.ycombinator.com/item?id=47493460) - [I tried Karpathy's Autoresearch on an old research project](https://ykumar.me/blog/eclip-autoresearch/)
 * [2026-03-23, 18:19:05](https://news.ycombinator.com/item?id=47493194) - [AI Risks \"Hypernormal\" Science](https://www.asimov.press/p/ai-science)
 * [2026-03-23, 17:35:38](https://news.ycombinator.com/item?id=47492599) - [US govt pays TotalEnergies nearly $1B to stop US offshore wind projects](https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html)

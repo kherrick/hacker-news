@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-25](index.md)
 
+* [2026-03-25, 17:29:33](https://news.ycombinator.com/item?id=47520505) - [Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html)
+* [2026-03-25, 16:31:15](https://news.ycombinator.com/item?id=47519625) - [Jury says Meta knowingly harmed children for profit, awarding landmark verdict](https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict)
+* [2026-03-25, 16:24:15](https://news.ycombinator.com/item?id=47519519) - [Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote](https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a)
 * [2026-03-25, 16:07:12](https://news.ycombinator.com/item?id=47519308) - [A Eulogy for Vim](https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html)
 * [2026-03-25, 15:46:44](https://news.ycombinator.com/item?id=47518965) - [Musketeer d'Artagnan's remains believed found under Dutch church](https://www.bbc.co.uk/news/articles/cm2rew2dgzzo)
 * [2026-03-25, 15:34:02](https://news.ycombinator.com/item?id=47518785) - [Sony V. Cox Decision Reversed](https://supreme.justia.com/cases/federal/us/607/24-171/)
