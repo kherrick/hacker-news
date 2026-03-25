@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-25](index.md)
 
+* [2026-03-25, 20:58:43](https://news.ycombinator.com/item?id=47523169) - [Health NZ staff told to stop using ChatGPT to write clinical notes](https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes)
+* [2026-03-25, 20:55:36](https://news.ycombinator.com/item?id=47523106) - [China is mass-producing hypersonic missiles for $99,000](https://kdwalmsley.substack.com/p/on-sale-now-china-is-mass-producing)
 * [2026-03-25, 20:27:03](https://news.ycombinator.com/item?id=47522709) - [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar)
+* [2026-03-25, 20:19:58](https://news.ycombinator.com/item?id=47522608) - [Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range](https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/)
 * [2026-03-25, 19:46:22](https://news.ycombinator.com/item?id=47522238) - [ARC-AGI-3 benchmark is out now](https://arcprize.org/tasks/ls20)
 * [2026-03-25, 19:36:39](https://news.ycombinator.com/item?id=47522112) - [Drone Attack on Parked U.S. Army BlackHawk in Iraq a Harbinger of What's to Come](https://www.twz.com/air/drone-attack-on-parked-u-s-army-black-hawk-in-iraq-a-harbinger-of-whats-to-come)
 * [2026-03-25, 19:19:50](https://news.ycombinator.com/item?id=47521945) - [FreeCAD Version 1.1 Released](https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/)
@@ -29,6 +32,7 @@
 * [2026-03-25, 14:44:10](https://news.ycombinator.com/item?id=47518001) - [OpenAI's latest repo has Claude as the third top contributor](https://twitter.com/CodeByNZ/status/2036723050197012771)
 * [2026-03-25, 14:34:09](https://news.ycombinator.com/item?id=47517885) - [Ubuntu wants to strip some of GRUB features in 26.10 for security purposes](https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069)
 * [2026-03-25, 14:20:24](https://news.ycombinator.com/item?id=47517701) - [Apple Just Lost Me](https://andregarzia.com/2026/03/apple-just-lost-me.html)
+* [2026-03-25, 14:12:04](https://news.ycombinator.com/item?id=47517606) - [Earthquake scientists reveal how overplowing weakens soil at experimental farm](https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/)
 * [2026-03-25, 14:07:14](https://news.ycombinator.com/item?id=47517539) - [Thoughts on Slowing the Fuck Down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
 * [2026-03-25, 13:29:54](https://news.ycombinator.com/item?id=47517105) - [Palestinians warn of expanding West Bank settler violence](https://www.bbc.com/news/articles/c747x00m83vo)
 * [2026-03-25, 12:49:14](https://news.ycombinator.com/item?id=47516650) - [Local LLM by Ente](https://ente.com/blog/ensu/)
