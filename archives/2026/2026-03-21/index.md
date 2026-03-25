@@ -6,6 +6,7 @@
 
 * [2026-03-21, 22:43:49](https://news.ycombinator.com/item?id=47472286) - [Fun with CSF firmware (RK3588 GPU firmware)](https://icecream95.gitlab.io/fun-with-csf-firmware.html)
 * [2026-03-21, 22:20:25](https://news.ycombinator.com/item?id=47472120) - [An Aural Companion for Decades, CBS News Radio Crackles to a Close](https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html)
+* [2026-03-21, 22:12:47](https://news.ycombinator.com/item?id=47472039) - [The Last Testaments of Richard II and Henry IV](https://www.historytoday.com/archive/feature/last-testaments-richard-ii-and-henry-iv)
 * [2026-03-21, 22:03:05](https://news.ycombinator.com/item?id=47471943) - [The Impact of AI on Game Dev Jobs. Open to Work Crisis](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
 * [2026-03-21, 21:49:56](https://news.ycombinator.com/item?id=47471805) - [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)
 * [2026-03-21, 21:49:15](https://news.ycombinator.com/item?id=47471801) - [Floci – A free, open-source local AWS emulator](https://github.com/hectorvent/floci)
