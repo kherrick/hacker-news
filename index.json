@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-03-25, 01:51:16",
-      "https://news.ycombinator.com/item?id=47512204"
+      "2026-03-25, 04:04:09",
+      "https://news.ycombinator.com/item?id=47513098"
     ],
     [
-      "Oil at $150 will trigger global recession, says boss of financial BlackRock",
-      "https://www.bbc.com/news/articles/c9wqrdkx8ppo"
+      "Meta ordered to pay $375M in New Mexico trial over child exploitation",
+      "https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 03:44:52",
+      "https://news.ycombinator.com/item?id=47513008"
+    ],
+    [
+      "US Army raises enlistment age to 42 and removes marijuana waiver requirement",
+      "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 03:28:04",
+      "https://news.ycombinator.com/item?id=47512891"
+    ],
+    [
+      "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
+      "https://github.com/cigrainger/duckdb-hnsw-acorn"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 03:17:06",
+      "https://news.ycombinator.com/item?id=47512816"
+    ],
+    [
+      "VitruvianOS – Desktop Linux Inspired by the BeOS",
+      "https://v-os.dev"
     ]
   ],
   [
@@ -61,22 +91,22 @@
   ],
   [
     [
-      "2026-03-24, 20:31:08",
-      "https://news.ycombinator.com/item?id=47508745"
-    ],
-    [
-      "Is anybody else bored of talking about AI?",
-      "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 20:01:05",
       "https://news.ycombinator.com/item?id=47508246"
     ],
     [
       "Goodbye to Sora",
       "https://twitter.com/soraofficialapp/status/2036532795984715896"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 19:15:27",
+      "https://news.ycombinator.com/item?id=47507666"
+    ],
+    [
+      "Show HN: AI Roundtable – Let 200 models debate your question",
+      "https://opper.ai/ai-roundtable/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
       "https://videojs.org/blog/videojs-v10-beta-hello-world-again"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 17:59:16",
-      "https://news.ycombinator.com/item?id=47506641"
-    ],
-    [
-      "ARM AGI CPU: Specs and SKUs",
-      "https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-03-24, 15:58:04",
-      "https://news.ycombinator.com/item?id=47504615"
-    ],
-    [
-      "No Terms. No Conditions",
-      "https://notermsnoconditions.com"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 15:29:41",
       "https://news.ycombinator.com/item?id=47504112"
     ],
@@ -177,16 +187,6 @@
     [
       "Hypothesis, Antithesis, synthesis",
       "https://antithesis.com/blog/2026/hegel/"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 15:09:30",
-      "https://news.ycombinator.com/item?id=47503810"
-    ],
-    [
-      "Epic Games to cut more than 1k jobs as Fortnite usage falls",
-      "https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-03-24, 12:46:22",
+      "https://news.ycombinator.com/item?id=47501825"
+    ],
+    [
+      "Why did the chicken cross the road?",
+      "https://taylor.town/other-side"
+    ]
+  ],
+  [
+    [
       "2026-03-24, 12:06:29",
       "https://news.ycombinator.com/item?id=47501426"
     ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2026-03-24, 11:40:21",
-      "https://news.ycombinator.com/item?id=47501211"
-    ],
-    [
-      "Nanobrew: The fastest macOS package manager compatible with brew",
-      "https://nanobrew.trilok.ai/"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 01:53:09",
       "https://news.ycombinator.com/item?id=47497757"
     ],
     [
       "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
       "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 09:55:23",
-      "https://news.ycombinator.com/item?id=47475930"
-    ],
-    [
-      "Data Manipulation in Clojure Compared to R and Python",
-      "https://codewithkira.com/2024-07-18-tablecloth-dplyr-pandas-polars.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How the world’s first electric grid was built",
       "https://worksinprogress.co/issue/how-the-worlds-first-electric-grid-was-built/"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 12:42:40",
+      "https://news.ycombinator.com/item?id=47453738"
+    ],
+    [
+      "You can run a DNS server (2025)",
+      "https://simonsafar.com/2025/running_dns/"
     ]
   ]
 ]
