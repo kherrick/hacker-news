@@ -23,6 +23,7 @@
 * [2026-03-22, 17:17:06](https://news.ycombinator.com/item?id=47479751) - [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html)
 * [2026-03-22, 17:06:38](https://news.ycombinator.com/item?id=47479627) - [Five Years of Running a Systems Reading Group at Microsoft](https://armaansood.com/posts/systems-reading-group/)
 * [2026-03-22, 16:48:37](https://news.ycombinator.com/item?id=47479417) - [Introducing DoorDash Tasks](https://about.doordash.com/en-us/news/introducing-doordash-tasks)
+* [2026-03-22, 16:44:18](https://news.ycombinator.com/item?id=47479362) - [VNDB founder Yorhel has died](https://vndb.org/t24787)
 * [2026-03-22, 16:28:52](https://news.ycombinator.com/item?id=47479183) - [GrapheneOS refuses to comply with new age verification laws for operating system](https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws)
 * [2026-03-22, 16:23:50](https://news.ycombinator.com/item?id=47479115) - [Ask HN: Apple terminated our dev account over a rogue employee](https://news.ycombinator.com/item?id=47479115)
 * [2026-03-22, 15:43:21](https://news.ycombinator.com/item?id=47478687) - [MAUI Is Coming to Linux](https://avaloniaui.net/blog/maui-avalonia-preview-1)

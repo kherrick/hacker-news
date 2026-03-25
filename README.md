@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-25, 08:05:17](https://news.ycombinator.com/item?id=47514603) - [I Forked Httpx](https://tildeweb.nl/~michiel/httpxyz.html)
 * [2026-03-25, 05:42:09](https://news.ycombinator.com/item?id=47513728) - [Implementing automatic eSIM installation on Android](https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb)
 * [2026-03-25, 05:00:54](https://news.ycombinator.com/item?id=47513475) - [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 * [2026-03-25, 03:28:04](https://news.ycombinator.com/item?id=47512891) - [Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1](https://github.com/cigrainger/duckdb-hnsw-acorn)
@@ -8,7 +9,6 @@
 * [2026-03-24, 23:44:47](https://news.ycombinator.com/item?id=47511208) - [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
 * [2026-03-24, 21:24:33](https://news.ycombinator.com/item?id=47509571) - [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead)
 * [2026-03-24, 20:01:05](https://news.ycombinator.com/item?id=47508246) - [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)
-* [2026-03-24, 19:15:27](https://news.ycombinator.com/item?id=47507666) - [Show HN: AI Roundtable – Let 200 models debate your question](https://opper.ai/ai-roundtable/)
 * [2026-03-24, 18:34:52](https://news.ycombinator.com/item?id=47507150) - [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/)
 * [2026-03-24, 18:03:48](https://news.ycombinator.com/item?id=47506713) - [Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller](https://videojs.org/blog/videojs-v10-beta-hello-world-again)
 * [2026-03-24, 17:30:42](https://news.ycombinator.com/item?id=47506251) - [Arm AGI CPU](https://newsroom.arm.com/blog/introducing-arm-agi-cpu)
@@ -20,7 +20,7 @@
 * [2026-03-24, 13:00:38](https://news.ycombinator.com/item?id=47501950) - [Missile defense is NP-complete](https://smu160.github.io/posts/missile-defense-is-np-complete/)
 * [2026-03-24, 12:06:29](https://news.ycombinator.com/item?id=47501426) - [Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512)
 * [2026-03-24, 11:40:21](https://news.ycombinator.com/item?id=47501211) - [Nanobrew: The fastest macOS package manager compatible with brew](https://nanobrew.trilok.ai/)
-* [2026-03-24, 01:53:09](https://news.ycombinator.com/item?id=47497757) - [Epoch confirms GPT5.4 Pro solved a frontier math open problem](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)
+* [2026-03-22, 16:44:18](https://news.ycombinator.com/item?id=47479362) - [VNDB founder Yorhel has died](https://vndb.org/t24787)
 * [2026-03-21, 22:43:49](https://news.ycombinator.com/item?id=47472286) - [Fun with CSF firmware (RK3588 GPU firmware)](https://icecream95.gitlab.io/fun-with-csf-firmware.html)
 * [2026-03-21, 22:20:25](https://news.ycombinator.com/item?id=47472120) - [An Aural Companion for Decades, CBS News Radio Crackles to a Close](https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html)
 * [2026-03-21, 21:30:17](https://news.ycombinator.com/item?id=47471618) - [A Chess Playing Machine – Shannon (1950) [pdf]](https://www.paradise.caltech.edu/ist4/lectures/shannonchess1950.pdf)
