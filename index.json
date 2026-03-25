@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-25, 17:43:17",
+      "https://news.ycombinator.com/item?id=47520717"
+    ],
+    [
+      "Meta and Google found liable in social media addiction trial",
+      "https://www.bbc.co.uk/news/articles/c747x7gz249o"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 17:29:33",
       "https://news.ycombinator.com/item?id=47520505"
     ],
     [
       "Meta and YouTube Found Negligent in Landmark Social Media Addiction Case",
       "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 16:43:08",
+      "https://news.ycombinator.com/item?id=47519802"
+    ],
+    [
+      "Tracy Kidder, Author of 'The Soul of a New Machine,' Dies at 80",
+      "https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote",
       "https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 16:06:34",
+      "https://news.ycombinator.com/item?id=47519295"
+    ],
+    [
+      "Quantization from the Ground Up",
+      "https://ngrok.com/blog/quantization"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Building a coding agent in Swift from scratch",
       "https://github.com/ivan-magda/swift-claude-code"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 08:05:17",
-      "https://news.ycombinator.com/item?id=47514603"
-    ],
-    [
-      "Why I forked httpx",
-      "https://tildeweb.nl/~michiel/httpxyz.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Looking at Unity made me understand the point of C++ coroutines",
       "https://mropert.github.io/2026/03/20/unity_cpp_coroutines/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 22:12:47",
-      "https://news.ycombinator.com/item?id=47472039"
-    ],
-    [
-      "The Last Testaments of Richard II and Henry IV",
-      "https://www.historytoday.com/archive/feature/last-testaments-richard-ii-and-henry-iv"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 02:47:26",
-      "https://news.ycombinator.com/item?id=47463548"
-    ],
-    [
-      "Algorithm Visualizer",
-      "https://algorithm-visualizer.org/"
     ]
   ]
 ]
