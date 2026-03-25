@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-25](index.md)
 
+* [2026-03-25, 19:09:16](https://news.ycombinator.com/item?id=47521799) - [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
 * [2026-03-25, 19:08:38](https://news.ycombinator.com/item?id=47521787) - [Ball Pit](https://codepen.io/mrdoob_/full/NPRwLZd)
+* [2026-03-25, 18:16:03](https://news.ycombinator.com/item?id=47521150) - [ARC-AGI-3](https://arcprize.org/arc-agi/3)
 * [2026-03-25, 17:43:17](https://news.ycombinator.com/item?id=47520717) - [Meta and Google found liable in social media addiction trial](https://www.bbc.co.uk/news/articles/c747x7gz249o)
 * [2026-03-25, 17:29:33](https://news.ycombinator.com/item?id=47520505) - [Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html)
 * [2026-03-25, 16:43:08](https://news.ycombinator.com/item?id=47519802) - [Tracy Kidder, Author of 'The Soul of a New Machine,' Dies at 80](https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html)
