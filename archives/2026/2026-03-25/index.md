@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-25](index.md)
 
+* [2026-03-25, 13:29:54](https://news.ycombinator.com/item?id=47517105) - [Palestinians warn of expanding West Bank settler violence](https://www.bbc.com/news/articles/c747x00m83vo)
+* [2026-03-25, 12:49:14](https://news.ycombinator.com/item?id=47516650) - [Local LLM by Ente](https://ente.com/blog/ensu/)
+* [2026-03-25, 11:59:36](https://news.ycombinator.com/item?id=47516189) - [Open source isn't a tip jar – it's time to charge for access](https://www.theregister.com/2026/03/25/open_source_bill_opinion/)
+* [2026-03-25, 10:45:40](https://news.ycombinator.com/item?id=47515605) - [Building a coding agent in Swift from scratch](https://github.com/ivan-magda/swift-claude-code)
 * [2026-03-25, 10:28:49](https://news.ycombinator.com/item?id=47515502) - [I tried to prove I'm not AI. My aunt wasn't convinced](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
 * [2026-03-25, 08:52:50](https://news.ycombinator.com/item?id=47514916) - [Meta told to pay $375M for misleading users over child safety](https://www.bbc.com/news/articles/cql75dn07n2o)
 * [2026-03-25, 08:05:17](https://news.ycombinator.com/item?id=47514603) - [I Forked Httpx](https://tildeweb.nl/~michiel/httpxyz.html)

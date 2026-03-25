@@ -33,6 +33,7 @@
 * [2026-03-22, 15:16:28](https://news.ycombinator.com/item?id=47478401) - [A Coherent Vision for the Future of Version Control](https://bramcohen.com/p/manyana)
 * [2026-03-22, 15:06:29](https://news.ycombinator.com/item?id=47478298) - [I Hate: Programming Wayland Applications](https://www.p4m.dev/posts/29/index.html)
 * [2026-03-22, 14:34:35](https://news.ycombinator.com/item?id=47477938) - [iBook Clamshell](https://www.ibook-clamshell.com/index.php/en/)
+* [2026-03-22, 14:28:06](https://news.ycombinator.com/item?id=47477873) - [My Astrophotography in the Movie Project Hail Mary](https://rpastro.square.site/s/stories/phm)
 * [2026-03-22, 14:01:28](https://news.ycombinator.com/item?id=47477653) - [Nintendo's not-AI, not-a-game toy](https://tapestry.news/culture/nintendo-talking-flower/)
 * [2026-03-22, 13:47:57](https://news.ycombinator.com/item?id=47477525) - [Testing the Swift C compatibility with Raylib (+WASM)](https://carette.xyz/posts/swift_c_compatibility_with_raylib/)
 * [2026-03-22, 13:44:28](https://news.ycombinator.com/item?id=47477491) - [Show HN: Crack – Turn your MacBook into a squeaky door](http://crackmacapp.com/)
