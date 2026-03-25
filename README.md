@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-25, 23:29:13](https://news.ycombinator.com/item?id=47524704) - [Show HN: A plain-text cognitive architecture for Claude Code](https://lab.puga.com.br/cog/)
+* [2026-03-25, 21:39:55](https://news.ycombinator.com/item?id=47523645) - [Show HN: Automate your workflow in plain English](https://www.operator23.com/)
 * [2026-03-25, 21:11:57](https://news.ycombinator.com/item?id=47523330) - [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
 * [2026-03-25, 20:58:43](https://news.ycombinator.com/item?id=47523169) - [Health NZ staff told to stop using ChatGPT to write clinical notes](https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes)
 * [2026-03-25, 20:55:36](https://news.ycombinator.com/item?id=47523106) - [China is mass-producing hypersonic missiles for $99,000](https://kdwalmsley.substack.com/p/on-sale-now-china-is-mass-producing)
@@ -13,7 +15,6 @@
 * [2026-03-25, 18:16:03](https://news.ycombinator.com/item?id=47521150) - [ARC-AGI-3](https://arcprize.org/arc-agi/3)
 * [2026-03-25, 17:29:33](https://news.ycombinator.com/item?id=47520505) - [Meta and YouTube found negligent in landmark social media addiction case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html)
 * [2026-03-25, 17:10:21](https://news.ycombinator.com/item?id=47520220) - [Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR](https://github.com/jonwiggins/optio)
-* [2026-03-25, 16:43:08](https://news.ycombinator.com/item?id=47519802) - [Tracy Kidder has died](https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html)
 * [2026-03-25, 16:06:34](https://news.ycombinator.com/item?id=47519295) - [Quantization from the Ground Up](https://ngrok.com/blog/quantization)
 * [2026-03-25, 15:02:56](https://news.ycombinator.com/item?id=47518281) - [Supreme Court Sides with Cox in Copyright Fight over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html)
 * [2026-03-25, 14:56:28](https://news.ycombinator.com/item?id=47518171) - [Antimatter has been transported for the first time](https://www.nature.com/articles/d41586-026-00950-w)
@@ -25,10 +26,9 @@
 * [2026-03-25, 03:17:06](https://news.ycombinator.com/item?id=47512816) - [VitruvianOS – Desktop Linux Inspired by the BeOS](https://v-os.dev)
 * [2026-03-25, 00:29:45](https://news.ycombinator.com/item?id=47511589) - [Flighty Airports](https://flighty.com/airports)
 * [2026-03-24, 21:54:27](https://news.ycombinator.com/item?id=47509984) - [Jury finds Meta liable in case over child sexual exploitation on its platforms](https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation)
-* [2026-03-24, 20:01:05](https://news.ycombinator.com/item?id=47508246) - [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)
-* [2026-03-24, 18:03:48](https://news.ycombinator.com/item?id=47506713) - [Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller](https://videojs.org/blog/videojs-v10-beta-hello-world-again)
 * [2026-03-22, 23:06:57](https://news.ycombinator.com/item?id=47483286) - [My DIY FPGA board can run Quake II](https://blog.mikhe.ch/quake2-on-fpga/part4.html)
 * [2026-03-22, 14:28:06](https://news.ycombinator.com/item?id=47477873) - [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm)
+* [2026-03-22, 09:31:08](https://news.ycombinator.com/item?id=47475826) - [Rendering complex scripts in terminal and OSC 66](https://thottingal.in/blog/2026/03/22/complex-scripts-in-terminal/)
 * [2026-03-21, 23:19:28](https://news.ycombinator.com/item?id=47472566) - [Looking at Unity made me understand the point of C++ coroutines](https://mropert.github.io/2026/03/20/unity_cpp_coroutines/)
 
 ## [Archives](archives/index.md)

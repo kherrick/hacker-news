@@ -61,6 +61,7 @@
 * [2026-03-22, 09:45:14](https://news.ycombinator.com/item?id=47475888) - [Trivy under attack again: Widespread GitHub Actions tag compromise secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise)
 * [2026-03-22, 09:37:30](https://news.ycombinator.com/item?id=47475859) - [Ask HN: AI productivity gains – do you fire devs or build better products?](https://news.ycombinator.com/item?id=47475859)
 * [2026-03-22, 09:35:54](https://news.ycombinator.com/item?id=47475849) - [Vatican Rebukes Peter Thiel's Antichrist Lectures in Rome](https://www.thenerdreich.com/peter-thiels-antichrist-circus-smacked-down-in-rome/)
+* [2026-03-22, 09:31:08](https://news.ycombinator.com/item?id=47475826) - [Rendering complex scripts in terminal and OSC 66](https://thottingal.in/blog/2026/03/22/complex-scripts-in-terminal/)
 * [2026-03-22, 09:00:37](https://news.ycombinator.com/item?id=47475686) - [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/)
 * [2026-03-22, 08:06:18](https://news.ycombinator.com/item?id=47475417) - [Dune3d: A parametric 3D CAD application](https://github.com/dune3d/dune3d)
 * [2026-03-22, 07:21:22](https://news.ycombinator.com/item?id=47475232) - [We've had front end reactivity since 2018 – via Async Iterables](https://github.com/SacDeNoeuds/yawn)
