@@ -29,6 +29,7 @@
 * [2026-03-23, 18:19:05](https://news.ycombinator.com/item?id=47493194) - [AI Risks \"Hypernormal\" Science](https://www.asimov.press/p/ai-science)
 * [2026-03-23, 17:35:38](https://news.ycombinator.com/item?id=47492599) - [US govt pays TotalEnergies nearly $1B to stop US offshore wind projects](https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html)
 * [2026-03-23, 16:13:40](https://news.ycombinator.com/item?id=47491496) - [Is it a pint?](https://isitapint.com/)
+* [2026-03-23, 16:12:55](https://news.ycombinator.com/item?id=47491481) - [The Mystery of Rennes-Le-Château, Part 1: The Priest's Treasure](https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-1-the-priests-treasure/)
 * [2026-03-23, 16:11:03](https://news.ycombinator.com/item?id=47491466) - [Show HN: Cq – Stack Overflow for AI coding agents](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
 * [2026-03-23, 16:08:01](https://news.ycombinator.com/item?id=47491414) - [Show HN: Threadprocs – executables sharing one address space (0-copy pointers)](https://github.com/jer-irl/threadprocs)
 * [2026-03-23, 15:25:04](https://news.ycombinator.com/item?id=47490816) - [Cyber.mil serving file downloads using TLS certificate which expired 3 days ago](https://www.cyber.mil/stigs/downloads)
