@@ -15,6 +15,7 @@
 * [2026-03-25, 20:19:58](https://news.ycombinator.com/item?id=47522608) - [Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range](https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/)
 * [2026-03-25, 20:09:19](https://news.ycombinator.com/item?id=47522492) - [Tired of Ghost Positions in Companies?](https://ghostjobs.net)
 * [2026-03-25, 19:46:22](https://news.ycombinator.com/item?id=47522238) - [ARC-AGI-3 benchmark is out now](https://arcprize.org/tasks/ls20)
+* [2026-03-25, 19:41:51](https://news.ycombinator.com/item?id=47522173) - [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias)
 * [2026-03-25, 19:36:39](https://news.ycombinator.com/item?id=47522112) - [Drone Attack on Parked U.S. Army BlackHawk in Iraq a Harbinger of What's to Come](https://www.twz.com/air/drone-attack-on-parked-u-s-army-black-hawk-in-iraq-a-harbinger-of-whats-to-come)
 * [2026-03-25, 19:19:50](https://news.ycombinator.com/item?id=47521945) - [FreeCAD Version 1.1 Released](https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/)
 * [2026-03-25, 19:14:42](https://news.ycombinator.com/item?id=47521876) - [Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed](https://lapcatsoftware.com/articles/2026/3/11.html)

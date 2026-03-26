@@ -43,6 +43,7 @@
 * [2026-03-23, 13:12:30](https://news.ycombinator.com/item?id=47489044) - [America tells private firms to \"hack back\"](https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back)
 * [2026-03-23, 12:42:00](https://news.ycombinator.com/item?id=47488686) - [Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home](https://www.jackhogan.me/blog/box-of-secrets/)
 * [2026-03-23, 12:37:39](https://news.ycombinator.com/item?id=47488635) - [Fyn: An uv fork with new features, bug fixes, stripped telemetry](https://github.com/duriantaco/fyn)
+* [2026-03-23, 12:09:35](https://news.ycombinator.com/item?id=47488348) - [What Came After the 486?](https://dfarq.homeip.net/what-came-after-486/)
 * [2026-03-23, 11:31:19](https://news.ycombinator.com/item?id=47488015) - [Attractive students no longer receive better results as classes moved online](https://www.sciencedirect.com/science/article/pii/S016517652200283X)
 * [2026-03-23, 11:08:02](https://news.ycombinator.com/item?id=47487790) - [Jazz CRJ9 at New York on Mar 22nd 2026, collision with fire truck on runway](https://avherald.com/h?article=536bb98e)
 * [2026-03-23, 10:39:39](https://news.ycombinator.com/item?id=47487584) - [GitHub appears to be struggling with measly three nines availability](https://www.theregister.com/2026/02/10/github_outages/)
