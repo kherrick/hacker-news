@@ -10,6 +10,7 @@
 * [2026-03-23, 22:24:09](https://news.ycombinator.com/item?id=47495966) - [Nvidia CEO Jensen Huang says 'I think we've achieved AGI'](https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi)
 * [2026-03-23, 22:08:43](https://news.ycombinator.com/item?id=47495820) - [FCC adds \"routers produced in foreign countries\" to covered list [pdf]](https://docs.fcc.gov/public/attachments/DA-26-278A1.pdf)
 * [2026-03-23, 22:07:10](https://news.ycombinator.com/item?id=47495803) - [Talking Liquid Glass with Apple](https://captainswiftui.substack.com/p/talking-liquid-glass-with-apple)
+* [2026-03-23, 22:06:49](https://news.ycombinator.com/item?id=47495795) - [Cloudflare's Gen 13 servers: trading cache for cores for 2x performance](https://blog.cloudflare.com/gen13-launch/)
 * [2026-03-23, 22:01:15](https://news.ycombinator.com/item?id=47495719) - [The Resolv hack: How one compromised key printed $23M](https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/)
 * [2026-03-23, 22:01:15](https://news.ycombinator.com/item?id=47495719) - [Hacker Mints $80M USD Worth of USR Stablecoins](https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swaps-them-for-eth/)
 * [2026-03-23, 21:47:42](https://news.ycombinator.com/item?id=47495568) - [Chat GPT 5.2 cannot explain the German word \"geschniegelt\"](https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/)
