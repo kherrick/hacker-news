@@ -54,6 +54,7 @@
 * [2026-03-24, 07:54:02](https://news.ycombinator.com/item?id=47499721) - [Opera: Rewind The Web to 1996 (Opera at 30)](https://www.web-rewind.com)
 * [2026-03-24, 07:46:46](https://news.ycombinator.com/item?id=47499672) - [Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://proofshot.argil.io/)
 * [2026-03-24, 07:46:46](https://news.ycombinator.com/item?id=47499672) - [Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://github.com/AmElmo/proofshot)
+* [2026-03-24, 06:53:30](https://news.ycombinator.com/item?id=47499356) - [From zero to a RAG system: successes and failures](https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/)
 * [2026-03-24, 06:31:39](https://news.ycombinator.com/item?id=47499245) - [Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}](https://burntsushi.net/ripgrep/)
 * [2026-03-24, 05:57:00](https://news.ycombinator.com/item?id=47499033) - [Pool spare GPU capacity to run LLMs at larger scale](https://github.com/michaelneale/mesh-llm)
 * [2026-03-24, 05:32:53](https://news.ycombinator.com/item?id=47498924) - [Log File Viewer for the Terminal](https://lnav.org/)

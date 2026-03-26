@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-26](index.md)
 
+* [2026-03-26, 10:13:38](https://news.ycombinator.com/item?id=47528605) - [LibreOffice and the Art of Overreacting](https://blog.documentfoundation.org/blog/2026/03/25/libreoffice-and-the-art-of-overreacting/)
 * [2026-03-26, 09:37:56](https://news.ycombinator.com/item?id=47528380) - [Why Sora Failed: $15M/day inference cost vs. $2.1M lifetime revenue](https://www.revolutioninai.com/2026/03/%20chatgpt-gpt-54-mini-silent-switch-march-2026.html)
 * [2026-03-26, 08:41:11](https://news.ycombinator.com/item?id=47528006) - [You probably don't want to buy a retro console](https://medium.com/@razorbeamz/you-probably-dont-want-to-buy-a-retro-console-a-guide-for-people-who-aren-t-freaks-90031659bd21)
 * [2026-03-26, 07:27:11](https://news.ycombinator.com/item?id=47527590) - [Swift 6.3 Released](https://www.swift.org/blog/swift-6.3-released/)
