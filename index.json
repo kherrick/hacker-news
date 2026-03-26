@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-26, 00:46:31",
+      "https://news.ycombinator.com/item?id=47525378"
+    ],
+    [
+      "False claims in a widely-cited paper. No corrections. No consequences",
+      "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 23:30:55",
+      "https://news.ycombinator.com/item?id=47524719"
+    ],
+    [
+      "Woman who never stopped updating her lost dog's chip reunites with him after 11y",
+      "https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 23:29:13",
       "https://news.ycombinator.com/item?id=47524704"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2026-03-25, 21:39:55",
-      "https://news.ycombinator.com/item?id=47523645"
+      "2026-03-25, 23:11:34",
+      "https://news.ycombinator.com/item?id=47524519"
     ],
     [
-      "Show HN: Automate your workflow in plain English",
-      "https://www.operator23.com/"
+      "\"Disregard That\" Attacks",
+      "https://calpaterson.com/disregard.html"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Health NZ staff told to stop using ChatGPT to write clinical notes",
       "https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 20:55:36",
-      "https://news.ycombinator.com/item?id=47523106"
-    ],
-    [
-      "China is mass-producing hypersonic missiles for $99,000",
-      "https://kdwalmsley.substack.com/p/on-sale-now-china-is-mass-producing"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2026-03-25, 19:08:38",
-      "https://news.ycombinator.com/item?id=47521787"
-    ],
-    [
-      "Ball Pit",
-      "https://codepen.io/mrdoob_/full/NPRwLZd"
-    ]
-  ],
-  [
-    [
       "2026-03-25, 18:16:40",
       "https://news.ycombinator.com/item?id=47521157"
     ],
@@ -131,22 +131,22 @@
   ],
   [
     [
-      "2026-03-25, 17:29:33",
-      "https://news.ycombinator.com/item?id=47520505"
-    ],
-    [
-      "Meta and YouTube found negligent in landmark social media addiction case",
-      "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html"
-    ]
-  ],
-  [
-    [
       "2026-03-25, 17:10:21",
       "https://news.ycombinator.com/item?id=47520220"
     ],
     [
       "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
       "https://github.com/jonwiggins/optio"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 16:43:08",
+      "https://news.ycombinator.com/item?id=47519802"
+    ],
+    [
+      "Tracy Kidder has died",
+      "https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-03-25, 05:00:54",
-      "https://news.ycombinator.com/item?id=47513475"
+      "2026-03-25, 10:28:49",
+      "https://news.ycombinator.com/item?id=47515502"
     ],
     [
-      "TurboQuant: Redefining AI efficiency with extreme compression",
-      "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
+      "I tried to prove I'm not AI. My aunt wasn't convinced",
+      "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2026-03-25, 00:29:45",
-      "https://news.ycombinator.com/item?id=47511589"
-    ],
-    [
-      "Flighty Airports",
-      "https://flighty.com/airports"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 21:54:27",
       "https://news.ycombinator.com/item?id=47509984"
     ],
@@ -261,12 +251,32 @@
   ],
   [
     [
+      "2026-03-23, 16:12:55",
+      "https://news.ycombinator.com/item?id=47491481"
+    ],
+    [
+      "The Mystery of Rennes-Le-Château, Part 1: The Priest's Treasure",
+      "https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-1-the-priests-treasure/"
+    ]
+  ],
+  [
+    [
       "2026-03-22, 23:06:57",
       "https://news.ycombinator.com/item?id=47483286"
     ],
     [
       "My DIY FPGA board can run Quake II",
       "https://blog.mikhe.ch/quake2-on-fpga/part4.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 15:34:44",
+      "https://news.ycombinator.com/item?id=47478599"
+    ],
+    [
+      "Two Studies in Compiler Optimisations",
+      "https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Rendering complex scripts in terminal and OSC 66",
       "https://thottingal.in/blog/2026/03/22/complex-scripts-in-terminal/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 23:19:28",
-      "https://news.ycombinator.com/item?id=47472566"
-    ],
-    [
-      "Looking at Unity made me understand the point of C++ coroutines",
-      "https://mropert.github.io/2026/03/20/unity_cpp_coroutines/"
     ]
   ]
 ]
