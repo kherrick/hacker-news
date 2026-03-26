@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-26](index.md)
 
+* [2026-03-26, 07:00:28](https://news.ycombinator.com/item?id=47527399) - [Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn)
+* [2026-03-26, 06:11:01](https://news.ycombinator.com/item?id=47527130) - [Data is everywhere. The government is buying it without a warrant](https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic)
 * [2026-03-26, 04:28:37](https://news.ycombinator.com/item?id=47526642) - [Squirrel seen 'vaping' in London park](https://www.telegraph.co.uk/news/2026/03/23/squirrel-seen-vaping-in-london-park/)
 * [2026-03-26, 03:55:52](https://news.ycombinator.com/item?id=47526486) - [Show HN: Robust LLM Extractor for Websites in TypeScript](https://github.com/lightfeed/extractor)
 * [2026-03-26, 00:46:31](https://news.ycombinator.com/item?id=47525378) - [False claims in a widely-cited paper](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/)
