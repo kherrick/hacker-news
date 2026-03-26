@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-03-26, 21:55:04",
-      "https://news.ycombinator.com/item?id=47536316"
+      "2026-03-26, 22:41:25",
+      "https://news.ycombinator.com/item?id=47536761"
     ],
     [
-      "Iran oil revenue soars as it's the only exporter out of Hormuz",
-      "https://financialpost.com/commodities/energy/oil-gas/iran-oil-revenue-soars-hormuz"
+      "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 22:36:41",
+      "https://news.ycombinator.com/item?id=47536712"
+    ],
+    [
+      "We Rewrote JSONata with AI in a Day, Saved $500K/Year",
+      "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "Deploytarot.com – tarot card reading for deployments",
       "https://deploytarot.com/setup"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 20:35:53",
-      "https://news.ycombinator.com/item?id=47535380"
-    ],
-    [
-      "The Little Book of C",
-      "https://little-book-of.github.io/c/books/en-US/book.html"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-03-26, 14:32:34",
-      "https://news.ycombinator.com/item?id=47530945"
-    ],
-    [
-      "Olympic Committee bars transgender athletes from women’s events",
-      "https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 13:38:25",
       "https://news.ycombinator.com/item?id=47530330"
     ],
@@ -201,22 +191,22 @@
   ],
   [
     [
+      "2026-03-26, 11:47:26",
+      "https://news.ycombinator.com/item?id=47529306"
+    ],
+    [
+      "Show HN: Veil – Dark mode PDFs without destroying images, runs in the browser",
+      "https://veil.simoneamico.com/"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 21:11:57",
       "https://news.ycombinator.com/item?id=47523330"
     ],
     [
       "Running Tesla Model 3's computer on my desk using parts from crashed cars",
       "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 19:41:51",
-      "https://news.ycombinator.com/item?id=47522173"
-    ],
-    [
-      "Personal Encyclopedias",
-      "https://whoami.wiki/blog/personal-encyclopedias"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Cloudflare's Gen 13 servers: trading cache for cores for 2x performance",
       "https://blog.cloudflare.com/gen13-launch/"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 21:13:16",
+      "https://news.ycombinator.com/item?id=47495190"
+    ],
+    [
+      "Whistler: Live eBPF Programming from the Common Lisp REPL",
+      "https://atgreen.github.io/repl-yell/posts/whistler/"
     ]
   ],
   [
