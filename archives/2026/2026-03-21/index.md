@@ -66,3 +66,4 @@
 * [2026-03-21, 02:47:13](https://news.ycombinator.com/item?id=47463547) - [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/)
 * [2026-03-21, 02:09:08](https://news.ycombinator.com/item?id=47463354) - [purl: a curl-esque CLI for making HTTP requests that require payment](https://www.purl.dev/)
 * [2026-03-21, 00:54:27](https://news.ycombinator.com/item?id=47462915) - [Traces of Evil](https://www.tracesofevil.com/)
+* [2026-03-21, 00:41:20](https://news.ycombinator.com/item?id=47462834) - [Ant Chat](https://www.baothiento.com/ant-chat)
