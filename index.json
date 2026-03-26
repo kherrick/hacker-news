@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-26, 17:51:42",
+      "https://news.ycombinator.com/item?id=47533555"
+    ],
+    [
+      "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
+      "https://john.regehr.org/writing/zero_dof_programming.html"
+    ]
+  ],
+  [
+    [
       "2026-03-26, 17:29:58",
       "https://news.ycombinator.com/item?id=47533283"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2026-03-26, 16:00:47",
-      "https://news.ycombinator.com/item?id=47532145"
-    ],
-    [
-      "Show HN: Claude skill that evaluates B2B vendors by talking to their AI agents",
-      "https://github.com/salespeak-ai/buyer-eval-skill"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 15:48:40",
       "https://news.ycombinator.com/item?id=47531967"
     ],
@@ -77,6 +77,16 @@
     [
       "Intel Announces Arc Pro B70 and Arc Pro B65 GPUs",
       "https://www.techpowerup.com/347703/intel-announces-arc-pro-b70-and-arc-pro-b65-gpus-maxes-out-xe2-battlemage-architecture"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 14:32:34",
+      "https://news.ycombinator.com/item?id=47530945"
+    ],
+    [
+      "Olympic Committee bars transgender athletes from women’s events",
+      "https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html"
     ]
   ],
   [
@@ -127,6 +137,16 @@
     [
       "Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions",
       "https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 05:07:51",
+      "https://news.ycombinator.com/item?id=47526813"
+    ],
+    [
+      "Show HN: Orloj – agent infrastructure as code (YAML and GitOps)",
+      "https://github.com/OrlojHQ/orloj"
     ]
   ],
   [
@@ -187,16 +207,6 @@
     [
       "Why so many control rooms were seafoam green (2025)",
       "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 14:12:04",
-      "https://news.ycombinator.com/item?id=47517606"
-    ],
-    [
-      "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
-      "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-03-21, 00:41:20",
-      "https://news.ycombinator.com/item?id=47462834"
+      "2026-03-20, 17:00:45",
+      "https://news.ycombinator.com/item?id=47457407"
     ],
     [
-      "Ant Chat",
-      "https://www.baothiento.com/ant-chat"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 18:41:23",
-      "https://news.ycombinator.com/item?id=47458805"
-    ],
-    [
-      "Optimization lessons from a Minecraft structure locator",
-      "https://purplesyringa.moe/blog/optimization-lessons-from-a-minecraft-structure-locator/"
+      "Fermented foods shaped human biology",
+      "https://press.asimov.com/articles/culture-shift"
     ]
   ]
 ]
