@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-03-26, 17:29:58",
+      "https://news.ycombinator.com/item?id=47533283"
+    ],
+    [
+      "Colibri – chat platform built on the AT Protocol for communities big and small",
+      "https://colibri.social/"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 17:16:21",
+      "https://news.ycombinator.com/item?id=47533090"
+    ],
+    [
+      "Building a Blog with Elixir and Phoenix",
+      "https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix"
+    ]
+  ],
+  [
+    [
       "2026-03-26, 16:14:56",
       "https://news.ycombinator.com/item?id=47532339"
     ],
     [
-      "OpenTelemetry Profiles Enters Public Alpha",
+      "OpenTelemetry profiles enters public alpha",
       "https://opentelemetry.io/blog/2026/profiles-alpha/"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 16:00:57",
+      "https://news.ycombinator.com/item?id=47532148"
+    ],
+    [
+      "Stripe Projects: Provision and manage services from the CLI",
+      "https://projects.dev/"
     ]
   ],
   [
@@ -31,21 +61,11 @@
   ],
   [
     [
-      "2026-03-26, 15:05:00",
-      "https://news.ycombinator.com/item?id=47531400"
-    ],
-    [
-      "French e, è, é, ê, ë – what's the difference?",
-      "https://jakubmarian.com/french-e-e-e-e-e-whats-the-difference/"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 14:51:17",
       "https://news.ycombinator.com/item?id=47531184"
     ],
     [
-      "Cory Doctorow: Interoperability Can Save the Open Web",
+      "Interoperability Can Save the Open Web (2023)",
       "https://spectrum.ieee.org/doctorow-interoperability"
     ]
   ],
@@ -61,26 +81,6 @@
   ],
   [
     [
-      "2026-03-26, 14:34:58",
-      "https://news.ycombinator.com/item?id=47530981"
-    ],
-    [
-      "Newly purchased Vizio TVs now require Walmart accounts to use smart features",
-      "https://arstechnica.com/gadgets/2026/03/newly-purchased-vizio-tvs-now-require-walmart-accounts-to-use-smart-features/"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 14:32:34",
-      "https://news.ycombinator.com/item?id=47530945"
-    ],
-    [
-      "Olympic Committee bars transgender athletes from women’s events",
-      "https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 13:38:25",
       "https://news.ycombinator.com/item?id=47530330"
     ],
@@ -91,12 +91,12 @@
   ],
   [
     [
-      "2026-03-26, 12:30:59",
-      "https://news.ycombinator.com/item?id=47529646"
+      "2026-03-26, 13:32:23",
+      "https://news.ycombinator.com/item?id=47530264"
     ],
     [
-      "European Parliament decided that Chat Control 1.0 must stop",
-      "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c"
+      "AI users whose lives were wrecked by delusion",
+      "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion"
     ]
   ],
   [
@@ -105,18 +105,8 @@
       "https://news.ycombinator.com/item?id=47529609"
     ],
     [
-      "End of \"Chat Control\": EU Parliament Stops Mass Surveillance in Voting Thriller",
+      "End of \"Chat Control\": EU parliament stops mass surveillance",
       "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 10:13:38",
-      "https://news.ycombinator.com/item?id=47528605"
-    ],
-    [
-      "LibreOffice and the Art of Overreacting",
-      "https://blog.documentfoundation.org/blog/2026/03/25/libreoffice-and-the-art-of-overreacting/"
     ]
   ],
   [
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2026-03-25, 20:27:03",
-      "https://news.ycombinator.com/item?id=47522709"
-    ],
-    [
-      "The EU still wants to scan  your private messages and photos",
-      "https://fightchatcontrol.eu/?foo=bar"
-    ]
-  ],
-  [
-    [
       "2026-03-25, 19:41:51",
       "https://news.ycombinator.com/item?id=47522173"
     ],
@@ -201,12 +181,42 @@
   ],
   [
     [
+      "2026-03-25, 15:46:29",
+      "https://news.ycombinator.com/item?id=47518960"
+    ],
+    [
+      "Why so many control rooms were seafoam green (2025)",
+      "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 14:12:04",
       "https://news.ycombinator.com/item?id=47517606"
     ],
     [
       "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
       "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 16:54:10",
+      "https://news.ycombinator.com/item?id=47505670"
+    ],
+    [
+      "HyperAgents: Self-referential self-improving agents",
+      "https://github.com/facebookresearch/hyperagents"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 12:52:04",
+      "https://news.ycombinator.com/item?id=47501875"
+    ],
+    [
+      "Optimizing a lock-free ring buffer",
+      "https://david.alvarezrosa.com/posts/optimizing-a-lock-free-ring-buffer/"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2026-03-23, 16:39:53",
-      "https://news.ycombinator.com/item?id=47491848"
+      "2026-03-23, 15:17:38",
+      "https://news.ycombinator.com/item?id=47490705"
     ],
     [
-      "More precise elevation data for GraphHopper routing engine",
-      "https://www.graphhopper.com/blog/2026/03/23/more-precise-elevation-data-for-graphhopper/"
+      "Doom entirely from DNS records",
+      "https://github.com/resumex/doom-over-dns"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2026-03-23, 12:09:35",
-      "https://news.ycombinator.com/item?id=47488348"
-    ],
-    [
-      "What came after the 486?",
-      "https://dfarq.homeip.net/what-came-after-486/"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 23:15:03",
       "https://news.ycombinator.com/item?id=47483364"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-03-22, 23:06:57",
-      "https://news.ycombinator.com/item?id=47483286"
+      "2026-03-21, 00:41:20",
+      "https://news.ycombinator.com/item?id=47462834"
     ],
     [
-      "My DIY FPGA board can run Quake II",
-      "https://blog.mikhe.ch/quake2-on-fpga/part4.html"
+      "Ant Chat",
+      "https://www.baothiento.com/ant-chat"
     ]
   ],
   [
