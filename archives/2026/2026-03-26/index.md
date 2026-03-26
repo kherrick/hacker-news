@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-03-26](index.md)
 
+* [2026-03-26, 16:14:56](https://news.ycombinator.com/item?id=47532339) - [OpenTelemetry Profiles Enters Public Alpha](https://opentelemetry.io/blog/2026/profiles-alpha/)
+* [2026-03-26, 16:00:47](https://news.ycombinator.com/item?id=47532145) - [Show HN: Claude skill that evaluates B2B vendors by talking to their AI agents](https://github.com/salespeak-ai/buyer-eval-skill)
 * [2026-03-26, 15:48:40](https://news.ycombinator.com/item?id=47531967) - [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/)
 * [2026-03-26, 15:05:00](https://news.ycombinator.com/item?id=47531400) - [French e, è, é, ê, ë – what's the difference?](https://jakubmarian.com/french-e-e-e-e-e-whats-the-difference/)
 * [2026-03-26, 14:51:17](https://news.ycombinator.com/item?id=47531184) - [Cory Doctorow: Interoperability Can Save the Open Web](https://spectrum.ieee.org/doctorow-interoperability)
 * [2026-03-26, 14:36:04](https://news.ycombinator.com/item?id=47530986) - [Intel Announces Arc Pro B70 and Arc Pro B65 GPUs](https://www.techpowerup.com/347703/intel-announces-arc-pro-b70-and-arc-pro-b65-gpus-maxes-out-xe2-battlemage-architecture)
 * [2026-03-26, 14:35:40](https://news.ycombinator.com/item?id=47530984) - [Meta and YouTube Found Negligent in Social-Media Addiction Trial](https://www.wsj.com/tech/personal-tech/meta-and-youtube-found-negligent-in-social-media-addiction-trial-35b2830d)
 * [2026-03-26, 14:34:58](https://news.ycombinator.com/item?id=47530981) - [Newly purchased Vizio TVs now require Walmart accounts to use smart features](https://arstechnica.com/gadgets/2026/03/newly-purchased-vizio-tvs-now-require-walmart-accounts-to-use-smart-features/)
+* [2026-03-26, 14:32:34](https://news.ycombinator.com/item?id=47530945) - [Olympic Committee bars transgender athletes from women’s events](https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html)
 * [2026-03-26, 13:38:25](https://news.ycombinator.com/item?id=47530330) - [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html)
 * [2026-03-26, 12:30:59](https://news.ycombinator.com/item?id=47529646) - [European Parliament decided that Chat Control 1.0 must stop](https://bsky.app/profile/tuta.com/post/3mhxkfowv322c)
 * [2026-03-26, 12:24:36](https://news.ycombinator.com/item?id=47529609) - [End of \"Chat Control\": EU Parliament Stops Mass Surveillance in Voting Thriller](https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/)

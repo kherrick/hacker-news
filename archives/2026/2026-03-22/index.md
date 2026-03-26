@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 23:15:03](https://news.ycombinator.com/item?id=47483364) - [Light on Glass: Why do you start making a game engine?](https://analogdreamdev.substack.com/p/light-on-glass)
 * [2026-03-22, 23:06:57](https://news.ycombinator.com/item?id=47483286) - [My DIY FPGA board can run Quake II](https://blog.mikhe.ch/quake2-on-fpga/part4.html)
 * [2026-03-22, 23:00:02](https://news.ycombinator.com/item?id=47483233) - [Supply Chain Attack on Trivy](https://www.wiz.io/blog/trivy-compromised-teampcp-supply-chain-attack)
 * [2026-03-22, 22:33:13](https://news.ycombinator.com/item?id=47482949) - [Can the world get its supply of oil by bypassing the Strait of Hormuz?](https://www.firstpost.com/explainers/iran-war-strait-of-hormuz-blocked-possible-alternatives-oil-gas-supply-13989112.html)
