@@ -14,7 +14,6 @@
 * [2026-03-25, 21:11:57](https://news.ycombinator.com/item?id=47523330) - [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
 * [2026-03-25, 20:27:03](https://news.ycombinator.com/item?id=47522709) - [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar)
 * [2026-03-25, 19:41:51](https://news.ycombinator.com/item?id=47522173) - [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias)
-* [2026-03-25, 19:14:42](https://news.ycombinator.com/item?id=47521876) - [Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed](https://lapcatsoftware.com/articles/2026/3/11.html)
 * [2026-03-25, 18:16:40](https://news.ycombinator.com/item?id=47521157) - [90% of Claude-linked output going to GitHub repos w <2 stars](https://www.claudescode.dev/?window=since_launch)
 * [2026-03-25, 18:16:03](https://news.ycombinator.com/item?id=47521150) - [ARC-AGI-3](https://arcprize.org/arc-agi/3)
 * [2026-03-25, 17:10:21](https://news.ycombinator.com/item?id=47520220) - [Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR](https://github.com/jonwiggins/optio)
@@ -30,6 +29,7 @@
 * [2026-03-22, 23:06:57](https://news.ycombinator.com/item?id=47483286) - [My DIY FPGA board can run Quake II](https://blog.mikhe.ch/quake2-on-fpga/part4.html)
 * [2026-03-22, 15:34:44](https://news.ycombinator.com/item?id=47478599) - [Two studies in compiler optimisations](https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/)
 * [2026-03-22, 01:58:23](https://news.ycombinator.com/item?id=47473673) - [The truth that haunts the Ramones: 'They sold more T-shirts than records'](https://english.elpais.com/culture/2026-03-17/the-uncomfortable-truth-that-will-always-haunt-the-ramones-they-sold-more-t-shirts-than-records.html)
+* [2026-03-20, 18:41:23](https://news.ycombinator.com/item?id=47458805) - [Optimization lessons from a Minecraft structure locator](https://purplesyringa.moe/blog/optimization-lessons-from-a-minecraft-structure-locator/)
 
 ## [Archives](archives/index.md)
 
