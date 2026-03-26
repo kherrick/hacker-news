@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-26, 23:18:38](https://news.ycombinator.com/item?id=47537106) - [Chicago artist creates tourism posters for city's neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/)
+* [2026-03-26, 23:11:45](https://news.ycombinator.com/item?id=47537051) - [Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf)
 * [2026-03-26, 22:41:25](https://news.ycombinator.com/item?id=47536761) - [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 * [2026-03-26, 22:36:41](https://news.ycombinator.com/item?id=47536712) - [We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 * [2026-03-26, 21:37:15](https://news.ycombinator.com/item?id=47536110) - [Anthropic Subprocessor Changes](https://trust.anthropic.com)
@@ -14,7 +16,6 @@
 * [2026-03-26, 18:38:50](https://news.ycombinator.com/item?id=47534086) - [John Bradley, author of xv, has died](https://voxday.net/2026/03/25/rip-john-bradley/)
 * [2026-03-26, 17:51:42](https://news.ycombinator.com/item?id=47533555) - [Taming LLMs: Using Executable Oracles to Prevent Bad Code](https://john.regehr.org/writing/zero_dof_programming.html)
 * [2026-03-26, 17:29:58](https://news.ycombinator.com/item?id=47533283) - [Colibri – chat platform built on the AT Protocol for communities big and small](https://colibri.social/)
-* [2026-03-26, 17:16:21](https://news.ycombinator.com/item?id=47533090) - [Building a Blog with Elixir and Phoenix](https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix)
 * [2026-03-26, 16:14:56](https://news.ycombinator.com/item?id=47532339) - [OpenTelemetry profiles enters public alpha](https://opentelemetry.io/blog/2026/profiles-alpha/)
 * [2026-03-26, 16:00:57](https://news.ycombinator.com/item?id=47532148) - [Stripe Projects: Provision and manage services from the CLI](https://projects.dev/)
 * [2026-03-26, 15:48:40](https://news.ycombinator.com/item?id=47531967) - [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/)
@@ -28,7 +29,6 @@
 * [2026-03-23, 22:06:49](https://news.ycombinator.com/item?id=47495795) - [Cloudflare's Gen 13 servers: trading cache for cores for 2x performance](https://blog.cloudflare.com/gen13-launch/)
 * [2026-03-23, 21:13:16](https://news.ycombinator.com/item?id=47495190) - [Whistler: Live eBPF Programming from the Common Lisp REPL](https://atgreen.github.io/repl-yell/posts/whistler/)
 * [2026-03-23, 15:17:38](https://news.ycombinator.com/item?id=47490705) - [DOOM Over DNS](https://github.com/resumex/doom-over-dns)
-* [2026-03-23, 13:56:54](https://news.ycombinator.com/item?id=47489620) - [My home network observes bedtime with OpenBSD and pf](https://ratfactor.com/openbsd/pf-gateway-bedtime)
 * [2026-03-23, 12:45:57](https://news.ycombinator.com/item?id=47488726) - [Non-Messing-Up++: Diagonal Sorting and Young Tableaux](https://winwang.blog/posts/non-messing-up++)
 
 ## [Archives](archives/index.md)
