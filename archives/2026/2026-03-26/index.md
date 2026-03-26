@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-03-26](index.md)
 
+* [2026-03-26, 09:37:56](https://news.ycombinator.com/item?id=47528380) - [Why Sora Failed: $15M/day inference cost vs. $2.1M lifetime revenue](https://www.revolutioninai.com/2026/03/%20chatgpt-gpt-54-mini-silent-switch-march-2026.html)
 * [2026-03-26, 08:41:11](https://news.ycombinator.com/item?id=47528006) - [You probably don't want to buy a retro console](https://medium.com/@razorbeamz/you-probably-dont-want-to-buy-a-retro-console-a-guide-for-people-who-aren-t-freaks-90031659bd21)
 * [2026-03-26, 07:27:11](https://news.ycombinator.com/item?id=47527590) - [Swift 6.3 Released](https://www.swift.org/blog/swift-6.3-released/)
 * [2026-03-26, 07:00:28](https://news.ycombinator.com/item?id=47527399) - [Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn)
 * [2026-03-26, 06:11:01](https://news.ycombinator.com/item?id=47527130) - [Data is everywhere. The government is buying it without a warrant](https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic)
 * [2026-03-26, 04:28:37](https://news.ycombinator.com/item?id=47526642) - [Squirrel seen 'vaping' in London park](https://www.telegraph.co.uk/news/2026/03/23/squirrel-seen-vaping-in-london-park/)
 * [2026-03-26, 03:55:52](https://news.ycombinator.com/item?id=47526486) - [Show HN: Robust LLM Extractor for Websites in TypeScript](https://github.com/lightfeed/extractor)
+* [2026-03-26, 03:54:27](https://news.ycombinator.com/item?id=47526478) - [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/)
+* [2026-03-26, 03:54:13](https://news.ycombinator.com/item?id=47526473) - [The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)](https://www.metropolitanreview.org/p/the-last-contract)
+* [2026-03-26, 03:53:40](https://news.ycombinator.com/item?id=47526467) - [The Cassandra of 'The Machine'](https://www.thenewatlantis.com/publications/the-cassandra-of-the-machine)
 * [2026-03-26, 00:46:31](https://news.ycombinator.com/item?id=47525378) - [False claims in a widely-cited paper](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/)
 * [2026-03-26, 00:46:31](https://news.ycombinator.com/item?id=47525378) - [False claims in a widely-cited paper. No corrections. No consequences](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259)
 * [2026-03-26, 00:28:38](https://news.ycombinator.com/item?id=47525243) - [Shell Tricks That Make Life Easier (and Save Your Sanity)](https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/)
