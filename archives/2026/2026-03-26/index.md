@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-26](index.md)
 
+* [2026-03-26, 12:30:59](https://news.ycombinator.com/item?id=47529646) - [European Parliament decided that Chat Control 1.0 must stop](https://bsky.app/profile/tuta.com/post/3mhxkfowv322c)
+* [2026-03-26, 12:24:36](https://news.ycombinator.com/item?id=47529609) - [End of \"Chat Control\": EU Parliament Stops Mass Surveillance in Voting Thriller](https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/)
+* [2026-03-26, 12:15:33](https://news.ycombinator.com/item?id=47529534) - [Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids](https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict)
 * [2026-03-26, 10:13:38](https://news.ycombinator.com/item?id=47528605) - [LibreOffice and the Art of Overreacting](https://blog.documentfoundation.org/blog/2026/03/25/libreoffice-and-the-art-of-overreacting/)
 * [2026-03-26, 09:37:56](https://news.ycombinator.com/item?id=47528380) - [Why Sora Failed: $15M/day inference cost vs. $2.1M lifetime revenue](https://www.revolutioninai.com/2026/03/%20chatgpt-gpt-54-mini-silent-switch-march-2026.html)
 * [2026-03-26, 08:41:11](https://news.ycombinator.com/item?id=47528006) - [You probably don't want to buy a retro console](https://medium.com/@razorbeamz/you-probably-dont-want-to-buy-a-retro-console-a-guide-for-people-who-aren-t-freaks-90031659bd21)

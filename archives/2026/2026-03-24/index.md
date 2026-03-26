@@ -39,6 +39,7 @@
 * [2026-03-24, 14:19:59](https://news.ycombinator.com/item?id=47503006) - [So where are all the AI apps?](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
 * [2026-03-24, 13:21:24](https://news.ycombinator.com/item?id=47502193) - [io_uring, libaio performance across Linux kernels and an unexpected IOMMU trap](https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14)
 * [2026-03-24, 13:00:38](https://news.ycombinator.com/item?id=47501950) - [Missile Defense Is NP-Complete](https://smu160.github.io/posts/missile-defense-is-np-complete/)
+* [2026-03-24, 12:52:04](https://news.ycombinator.com/item?id=47501875) - [Optimizing a Lock-Free Ring Buffer](https://david.alvarezrosa.com/posts/optimizing-a-lock-free-ring-buffer/)
 * [2026-03-24, 12:48:04](https://news.ycombinator.com/item?id=47501840) - [NanoClaw Adopts OneCLI Agent Vault](https://nanoclaw.dev/blog/nanoclaw-agent-vault/)
 * [2026-03-24, 12:46:22](https://news.ycombinator.com/item?id=47501825) - [Why did the chicken cross the road?](https://taylor.town/other-side)
 * [2026-03-24, 12:36:20](https://news.ycombinator.com/item?id=47501729) - [LiteLLM Python package compromised by supply-chain attack](https://github.com/BerriAI/litellm/issues/24512)
