@@ -73,6 +73,7 @@
 * [2026-03-22, 03:38:10](https://news.ycombinator.com/item?id=47474236) - [Alpha Micro AM-1000E and AM-1200](http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html)
 * [2026-03-22, 02:32:25](https://news.ycombinator.com/item?id=47473884) - [Ant Mill](https://en.wikipedia.org/wiki/Ant_mill)
 * [2026-03-22, 02:04:31](https://news.ycombinator.com/item?id=47473718) - [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
+* [2026-03-22, 01:58:23](https://news.ycombinator.com/item?id=47473673) - [The truth that haunts the Ramones: 'They sold more T-shirts than records'](https://english.elpais.com/culture/2026-03-17/the-uncomfortable-truth-that-will-always-haunt-the-ramones-they-sold-more-t-shirts-than-records.html)
 * [2026-03-22, 01:02:10](https://news.ycombinator.com/item?id=47473279) - [Chest Fridge (2009)](https://mtbest.net/chest-fridge/)
 * [2026-03-22, 00:53:55](https://news.ycombinator.com/item?id=47473231) - [JavaScript Is Enough](https://geajs.com/)
 * [2026-03-22, 00:46:32](https://news.ycombinator.com/item?id=47473178) - [Why craft-lovers are losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/)
