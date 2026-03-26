@@ -59,6 +59,7 @@
 * [2026-03-24, 07:32:42](https://news.ycombinator.com/item?id=47499566) - [SpaceStarCarz KoolWheelz Paper Models](https://davesdesigns.ca/dcc/html/spacestarcarz_.html)
 * [2026-03-24, 06:53:30](https://news.ycombinator.com/item?id=47499356) - [From zero to a RAG system: successes and failures](https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/)
 * [2026-03-24, 06:31:39](https://news.ycombinator.com/item?id=47499245) - [Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}](https://burntsushi.net/ripgrep/)
+* [2026-03-24, 06:31:15](https://news.ycombinator.com/item?id=47499242) - [Fast regex search: indexing text for agent tools](https://cursor.com/blog/fast-regex-search)
 * [2026-03-24, 05:57:00](https://news.ycombinator.com/item?id=47499033) - [Pool spare GPU capacity to run LLMs at larger scale](https://github.com/michaelneale/mesh-llm)
 * [2026-03-24, 05:32:53](https://news.ycombinator.com/item?id=47498924) - [Log File Viewer for the Terminal](https://lnav.org/)
 * [2026-03-24, 05:00:21](https://news.ycombinator.com/item?id=47498766) - [Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist](https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11)
