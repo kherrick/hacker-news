@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-26, 19:48:05](https://news.ycombinator.com/item?id=47534848) - [We Haven't Seen the Worst of What Gambling and Prediction Markets Will Do](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
+* [2026-03-26, 19:48:05](https://news.ycombinator.com/item?id=47534848) - [We haven't seen the worst of what gambling and prediction markets will do](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
 * [2026-03-26, 19:47:01](https://news.ycombinator.com/item?id=47534837) - [How much precision can you squeeze out of a table?](https://www.johndcook.com/blog/2026/03/26/table-precision/)
 * [2026-03-26, 19:30:35](https://news.ycombinator.com/item?id=47534629) - [CERN to host Europe's flagship open access publishing platform](https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform)
 * [2026-03-26, 19:26:23](https://news.ycombinator.com/item?id=47534578) - [Show HN: Layerleak – Like Trufflehog, but for Docker Hub](https://github.com/Brumbelow/layerleak)
@@ -8,6 +8,7 @@
 * [2026-03-26, 18:38:50](https://news.ycombinator.com/item?id=47534086) - [John Bradley, author of xv, has passed away](https://voxday.net/2026/03/25/rip-john-bradley/)
 * [2026-03-26, 17:51:42](https://news.ycombinator.com/item?id=47533555) - [Taming LLMs: Using Executable Oracles to Prevent Bad Code](https://john.regehr.org/writing/zero_dof_programming.html)
 * [2026-03-26, 17:29:58](https://news.ycombinator.com/item?id=47533283) - [Colibri – chat platform built on the AT Protocol for communities big and small](https://colibri.social/)
+* [2026-03-26, 17:21:50](https://news.ycombinator.com/item?id=47533160) - [The Oxford Comma – Why and Why Not](https://www.deborahcourtbooks.com/post/the-oxford-comma-why-and-why-not)
 * [2026-03-26, 17:16:21](https://news.ycombinator.com/item?id=47533090) - [Building a Blog with Elixir and Phoenix](https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix)
 * [2026-03-26, 16:14:56](https://news.ycombinator.com/item?id=47532339) - [OpenTelemetry profiles enters public alpha](https://opentelemetry.io/blog/2026/profiles-alpha/)
 * [2026-03-26, 16:00:57](https://news.ycombinator.com/item?id=47532148) - [Stripe Projects: Provision and manage services from the CLI](https://projects.dev/)
@@ -16,7 +17,6 @@
 * [2026-03-26, 14:32:34](https://news.ycombinator.com/item?id=47530945) - [Olympic Committee bars transgender athletes from women’s events](https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html)
 * [2026-03-26, 13:38:25](https://news.ycombinator.com/item?id=47530330) - [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html)
 * [2026-03-26, 12:24:36](https://news.ycombinator.com/item?id=47529609) - [End of \"Chat Control\": EU parliament stops mass surveillance](https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/)
-* [2026-03-26, 07:27:11](https://news.ycombinator.com/item?id=47527590) - [Swift 6.3](https://www.swift.org/blog/swift-6.3-released/)
 * [2026-03-26, 05:07:51](https://news.ycombinator.com/item?id=47526813) - [Show HN: Orloj – agent infrastructure as code (YAML and GitOps)](https://github.com/OrlojHQ/orloj)
 * [2026-03-26, 03:54:27](https://news.ycombinator.com/item?id=47526478) - [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/)
 * [2026-03-26, 00:28:38](https://news.ycombinator.com/item?id=47525243) - [Shell Tricks That Make Life Easier (and Save Your Sanity)](https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/)

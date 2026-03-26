@@ -12,6 +12,7 @@
 * [2026-03-26, 18:38:50](https://news.ycombinator.com/item?id=47534086) - [John Bradley, author of xv, has passed away](https://voxday.net/2026/03/25/rip-john-bradley/)
 * [2026-03-26, 17:51:42](https://news.ycombinator.com/item?id=47533555) - [Taming LLMs: Using Executable Oracles to Prevent Bad Code](https://john.regehr.org/writing/zero_dof_programming.html)
 * [2026-03-26, 17:29:58](https://news.ycombinator.com/item?id=47533283) - [Colibri – chat platform built on the AT Protocol for communities big and small](https://colibri.social/)
+* [2026-03-26, 17:21:50](https://news.ycombinator.com/item?id=47533160) - [The Oxford Comma – Why and Why Not](https://www.deborahcourtbooks.com/post/the-oxford-comma-why-and-why-not)
 * [2026-03-26, 17:16:21](https://news.ycombinator.com/item?id=47533090) - [Building a Blog with Elixir and Phoenix](https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix)
 * [2026-03-26, 16:14:56](https://news.ycombinator.com/item?id=47532339) - [OpenTelemetry Profiles Enters Public Alpha](https://opentelemetry.io/blog/2026/profiles-alpha/)
 * [2026-03-26, 16:00:57](https://news.ycombinator.com/item?id=47532148) - [Stripe Projects: Provision and manage services from the CLI](https://projects.dev/)
