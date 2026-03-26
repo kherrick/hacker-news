@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-26](index.md)
 
+* [2026-03-26, 20:58:04](https://news.ycombinator.com/item?id=47535626) - [Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer](https://github.com/ViciousSquid/Fio)
 * [2026-03-26, 20:53:54](https://news.ycombinator.com/item?id=47535586) - [Deploytarot.com – tarot card reading for deployments](https://deploytarot.com/setup)
 * [2026-03-26, 20:35:53](https://news.ycombinator.com/item?id=47535380) - [The Little Book of C](https://little-book-of.github.io/c/books/en-US/book.html)
 * [2026-03-26, 20:35:04](https://news.ycombinator.com/item?id=47535371) - [New York City hospitals drop Palantir as controversial AI firm expands in UK](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
+* [2026-03-26, 20:23:10](https://news.ycombinator.com/item?id=47535249) - [Using FireWire on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/)
 * [2026-03-26, 19:48:05](https://news.ycombinator.com/item?id=47534848) - [We Haven't Seen the Worst of What Gambling and Prediction Markets Will Do](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
 * [2026-03-26, 19:47:01](https://news.ycombinator.com/item?id=47534837) - [How much precision can you squeeze out of a table?](https://www.johndcook.com/blog/2026/03/26/table-precision/)
 * [2026-03-26, 19:30:35](https://news.ycombinator.com/item?id=47534629) - [CERN to host Europe's flagship open access publishing platform](https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform)

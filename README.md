@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-26, 20:58:04](https://news.ycombinator.com/item?id=47535626) - [Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer](https://github.com/ViciousSquid/Fio)
 * [2026-03-26, 20:53:54](https://news.ycombinator.com/item?id=47535586) - [Deploytarot.com – tarot card reading for deployments](https://deploytarot.com/setup)
 * [2026-03-26, 20:35:53](https://news.ycombinator.com/item?id=47535380) - [The Little Book of C](https://little-book-of.github.io/c/books/en-US/book.html)
 * [2026-03-26, 20:35:04](https://news.ycombinator.com/item?id=47535371) - [New York City hospitals drop Palantir as controversial AI firm expands in UK](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
+* [2026-03-26, 20:23:10](https://news.ycombinator.com/item?id=47535249) - [Using FireWire on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/)
 * [2026-03-26, 19:48:05](https://news.ycombinator.com/item?id=47534848) - [We haven't seen the worst of what gambling and prediction markets will do](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
 * [2026-03-26, 19:47:01](https://news.ycombinator.com/item?id=47534837) - [How much precision can you squeeze out of a table?](https://www.johndcook.com/blog/2026/03/26/table-precision/)
 * [2026-03-26, 19:30:35](https://news.ycombinator.com/item?id=47534629) - [CERN to host Europe's flagship open access publishing platform](https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform)
@@ -10,7 +12,6 @@
 * [2026-03-26, 18:38:50](https://news.ycombinator.com/item?id=47534086) - [John Bradley, author of xv, has passed away](https://voxday.net/2026/03/25/rip-john-bradley/)
 * [2026-03-26, 17:51:42](https://news.ycombinator.com/item?id=47533555) - [Taming LLMs: Using Executable Oracles to Prevent Bad Code](https://john.regehr.org/writing/zero_dof_programming.html)
 * [2026-03-26, 17:29:58](https://news.ycombinator.com/item?id=47533283) - [Colibri – chat platform built on the AT Protocol for communities big and small](https://colibri.social/)
-* [2026-03-26, 17:21:50](https://news.ycombinator.com/item?id=47533160) - [The Oxford Comma – Why and Why Not](https://www.deborahcourtbooks.com/post/the-oxford-comma-why-and-why-not)
 * [2026-03-26, 17:16:21](https://news.ycombinator.com/item?id=47533090) - [Building a Blog with Elixir and Phoenix](https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix)
 * [2026-03-26, 16:14:56](https://news.ycombinator.com/item?id=47532339) - [OpenTelemetry profiles enters public alpha](https://opentelemetry.io/blog/2026/profiles-alpha/)
 * [2026-03-26, 16:00:57](https://news.ycombinator.com/item?id=47532148) - [Stripe Projects: Provision and manage services from the CLI](https://projects.dev/)
@@ -28,7 +29,6 @@
 * [2026-03-24, 06:31:15](https://news.ycombinator.com/item?id=47499242) - [Fast regex search: indexing text for agent tools](https://cursor.com/blog/fast-regex-search)
 * [2026-03-23, 15:17:38](https://news.ycombinator.com/item?id=47490705) - [Doom entirely from DNS records](https://github.com/resumex/doom-over-dns)
 * [2026-03-23, 13:56:54](https://news.ycombinator.com/item?id=47489620) - [My home network observes bedtime with OpenBSD and pf](https://ratfactor.com/openbsd/pf-gateway-bedtime)
-* [2026-03-22, 23:15:03](https://news.ycombinator.com/item?id=47483364) - [Light on Glass: Why do you start making a game engine?](https://analogdreamdev.substack.com/p/light-on-glass)
 * [2026-03-20, 17:00:45](https://news.ycombinator.com/item?id=47457407) - [Fermented foods shaped human biology](https://press.asimov.com/articles/culture-shift)
 
 ## [Archives](archives/index.md)
