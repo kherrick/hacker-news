@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-26, 14:35:40",
+      "https://news.ycombinator.com/item?id=47530984"
+    ],
+    [
+      "Meta and YouTube Found Negligent in Social-Media Addiction Trial",
+      "https://www.wsj.com/tech/personal-tech/meta-and-youtube-found-negligent-in-social-media-addiction-trial-35b2830d"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 14:34:58",
+      "https://news.ycombinator.com/item?id=47530981"
+    ],
+    [
+      "Newly purchased Vizio TVs now require Walmart accounts to use smart features",
+      "https://arstechnica.com/gadgets/2026/03/newly-purchased-vizio-tvs-now-require-walmart-accounts-to-use-smart-features/"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 13:38:25",
+      "https://news.ycombinator.com/item?id=47530330"
+    ],
+    [
+      "Moving from GitHub to Codeberg, for lazy people",
+      "https://unterwaditzer.net/2025/codeberg.html"
+    ]
+  ],
+  [
+    [
       "2026-03-26, 12:30:59",
       "https://news.ycombinator.com/item?id=47529646"
     ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2026-03-26, 03:55:52",
-      "https://news.ycombinator.com/item?id=47526486"
-    ],
-    [
-      "Show HN: Robust LLM Extractor for Websites in TypeScript",
-      "https://github.com/lightfeed/extractor"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 03:54:27",
       "https://news.ycombinator.com/item?id=47526478"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-03-25, 17:10:21",
-      "https://news.ycombinator.com/item?id=47520220"
-    ],
-    [
-      "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
-      "https://github.com/jonwiggins/optio"
-    ]
-  ],
-  [
-    [
       "2026-03-25, 16:06:34",
       "https://news.ycombinator.com/item?id=47519295"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-03-24, 21:54:27",
-      "https://news.ycombinator.com/item?id=47509984"
-    ],
-    [
-      "Jury finds Meta liable in case over child sexual exploitation on its platforms",
-      "https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 12:52:04",
       "https://news.ycombinator.com/item?id=47501875"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-03-24, 01:56:51",
-      "https://news.ycombinator.com/item?id=47497781"
-    ],
-    [
-      "Maxell MXCP-P100 – wireless cassette player",
-      "https://maxell-usa.com/product/cassetteplayer/"
-    ]
-  ],
-  [
-    [
       "2026-03-23, 20:57:19",
       "https://news.ycombinator.com/item?id=47495008"
     ],
@@ -247,6 +237,16 @@
     [
       "More precise elevation data for GraphHopper routing engine",
       "https://www.graphhopper.com/blog/2026/03/23/more-precise-elevation-data-for-graphhopper/"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 13:56:54",
+      "https://news.ycombinator.com/item?id=47489620"
+    ],
+    [
+      "My home network observes bedtime with OpenBSD and pf",
+      "https://ratfactor.com/openbsd/pf-gateway-bedtime"
     ]
   ],
   [
