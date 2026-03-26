@@ -16,6 +16,7 @@
 * [2026-03-23, 21:47:42](https://news.ycombinator.com/item?id=47495568) - [Chat GPT 5.2 cannot explain the German word \"geschniegelt\"](https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/)
 * [2026-03-23, 21:44:20](https://news.ycombinator.com/item?id=47495527) - [Printable Claude Code Cheat Sheet (auto-updated daily)](https://cc.storyfox.cz)
 * [2026-03-23, 21:28:02](https://news.ycombinator.com/item?id=47495344) - [FCC Updates Covered List to Include Foreign-Made Consumer Routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers)
+* [2026-03-23, 21:13:16](https://news.ycombinator.com/item?id=47495190) - [Whistler: Live eBPF Programming from the Common Lisp REPL](https://atgreen.github.io/repl-yell/posts/whistler/)
 * [2026-03-23, 21:11:27](https://news.ycombinator.com/item?id=47495168) - [The Minimalist Entrepreneur – Claude Code Skills](https://github.com/slavingia/skills)
 * [2026-03-23, 20:57:19](https://news.ycombinator.com/item?id=47495008) - [Niche Museums](https://www.niche-museums.com/)
 * [2026-03-23, 20:56:48](https://news.ycombinator.com/item?id=47494999) - [Flipper Zero, Everyone's Favorite Legally Dubious Hacker Tool, Gets AI Upgrade](https://gizmodo.com/flipper-zero-everyones-favorite-legally-dubious-hacker-tool-gets-an-ai-upgrade-2000736967)

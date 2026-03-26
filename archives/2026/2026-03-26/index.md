@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-26](index.md)
 
+* [2026-03-26, 22:41:25](https://news.ycombinator.com/item?id=47536761) - [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
+* [2026-03-26, 22:36:41](https://news.ycombinator.com/item?id=47536712) - [We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 * [2026-03-26, 21:55:04](https://news.ycombinator.com/item?id=47536316) - [Iran oil revenue soars as it's the only exporter out of Hormuz](https://financialpost.com/commodities/energy/oil-gas/iran-oil-revenue-soars-hormuz)
 * [2026-03-26, 21:37:15](https://news.ycombinator.com/item?id=47536110) - [Anthropic Subprocessor Changes](https://trust.anthropic.com)
 * [2026-03-26, 20:58:04](https://news.ycombinator.com/item?id=47535626) - [Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer](https://github.com/ViciousSquid/Fio)
@@ -36,6 +38,7 @@
 * [2026-03-26, 12:30:59](https://news.ycombinator.com/item?id=47529646) - [European Parliament decided that Chat Control 1.0 must stop](https://bsky.app/profile/tuta.com/post/3mhxkfowv322c)
 * [2026-03-26, 12:24:36](https://news.ycombinator.com/item?id=47529609) - [End of \"Chat Control\": EU Parliament Stops Mass Surveillance in Voting Thriller](https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/)
 * [2026-03-26, 12:15:33](https://news.ycombinator.com/item?id=47529534) - [Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids](https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict)
+* [2026-03-26, 11:47:26](https://news.ycombinator.com/item?id=47529306) - [Show HN: Veil – Dark mode PDFs without destroying images, runs in the browser](https://veil.simoneamico.com/)
 * [2026-03-26, 10:13:38](https://news.ycombinator.com/item?id=47528605) - [LibreOffice and the Art of Overreacting](https://blog.documentfoundation.org/blog/2026/03/25/libreoffice-and-the-art-of-overreacting/)
 * [2026-03-26, 09:37:56](https://news.ycombinator.com/item?id=47528380) - [Why Sora Failed: $15M/day inference cost vs. $2.1M lifetime revenue](https://www.revolutioninai.com/2026/03/%20chatgpt-gpt-54-mini-silent-switch-march-2026.html)
 * [2026-03-26, 08:41:11](https://news.ycombinator.com/item?id=47528006) - [You probably don't want to buy a retro console](https://medium.com/@razorbeamz/you-probably-dont-want-to-buy-a-retro-console-a-guide-for-people-who-aren-t-freaks-90031659bd21)
