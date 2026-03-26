@@ -40,6 +40,7 @@
 * [2026-03-23, 14:36:30](https://news.ycombinator.com/item?id=47490150) - [Study: 'Security Fatigue' May Weaken Digital Defenses](https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses)
 * [2026-03-23, 14:30:10](https://news.ycombinator.com/item?id=47490070) - [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412)
 * [2026-03-23, 14:25:45](https://news.ycombinator.com/item?id=47490018) - [355 Issues of the UK music magazine NME from 1969-1983](https://archive.org/search?query=creator%3A%22NME+-+New+Musical+Express%22&sort=-addeddate)
+* [2026-03-23, 13:56:54](https://news.ycombinator.com/item?id=47489620) - [My home network observes bedtime with OpenBSD and pf](https://ratfactor.com/openbsd/pf-gateway-bedtime)
 * [2026-03-23, 13:13:30](https://news.ycombinator.com/item?id=47489058) - [Cyberattack on vehicle breathalyzer company leaves drivers stranded in the US](https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/)
 * [2026-03-23, 13:12:30](https://news.ycombinator.com/item?id=47489044) - [America tells private firms to \"hack back\"](https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back)
 * [2026-03-23, 12:42:00](https://news.ycombinator.com/item?id=47488686) - [Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home](https://www.jackhogan.me/blog/box-of-secrets/)
