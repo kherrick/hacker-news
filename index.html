@@ -129,6 +129,202 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47534848">
+          <h3>
+            <a
+              class="item"
+              href="https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what"
+              >We Haven't Seen the Worst of What Gambling and Prediction Markets
+              Will Do</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-26 @ 19:48:05</span
+              ><span class="points-container"
+                >Points: <span class="points">185</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47534848"
+                  >Comments</a
+                ><span class="descendants">: 98</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47534837">
+          <h3>
+            <a
+              class="item"
+              href="https://www.johndcook.com/blog/2026/03/26/table-precision/"
+              >How much precision can you squeeze out of a table?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-26 @ 19:47:01</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47534837"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47534629">
+          <h3>
+            <a
+              class="item"
+              href="https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform"
+              >CERN to host Europe's flagship open access publishing platform</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-26 @ 19:30:35</span
+              ><span class="points-container"
+                >Points: <span class="points">68</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47534629"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47534578">
+          <h3>
+            <a class="item" href="https://github.com/Brumbelow/layerleak"
+              >Show HN: Layerleak – Like Trufflehog, but for Docker Hub</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-26 @ 19:26:23</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47534578"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47534283">
+          <h3>
+            <a class="item" href="https://github.com/russellromney/turbolite"
+              >Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN
+              queries from S3</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-26 @ 18:58:19</span
+              ><span class="points-container"
+                >Points: <span class="points">50</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47534283"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                It’s called turbolite. It is experimental, buggy, and may
+                corrupt data. I would not trust it with anything important yet.
+              </p>
+              <p>
+                I wanted to explore whether object storage has gotten fast
+                enough to support embedded databases over cloud storage.
+                Filesystems reward tiny random reads and in-place mutation. S3
+                rewards fewer requests, bigger transfers, immutable objects, and
+                aggressively parallel operations where bandwidth is often the
+                real constraint. This was explicitly inspired by turbopuffer’s
+                ground-up S3-native design.
+                <a href="https://turbopuffer.com/blog/turbopuffer"
+                  >https://turbopuffer.com/blog/turbopuffer</a
+                >
+              </p>
+              <p>
+                The use case I had in mind is lots of mostly-cold SQLite
+                databases (database-per-tenant, database-per-session, or
+                database-per-user architectures) where keeping a separate
+                attached volume for inactive database feels wasteful. turbolite
+                assumes a single write source and is aimed much more at “many
+                databases with bursty cold reads” than “one hot database.”
+              </p>
+              <p>
+                Instead of doing naive page-at-a-time reads from a raw SQLite
+                file, turbolite introspects SQLite B-trees, stores related pages
+                together in compressed page groups, and keeps a manifest that is
+                the source of truth for where every page lives. Cache misses use
+                seekable zstd frames and S3 range GETs for search queries, so
+                fetching one needed page does not require downloading an entire
+                object.
+              </p>
+              <p>
+                At query time, turbolite can also pass storage operations from
+                the query plan down to the VFS to frontrun downloads for indexes
+                and large scans in the order they will be accessed.
+              </p>
+              <p>
+                You can tune how aggressively turbolite prefetches. For point
+                queries and small joins, it can stay conservative and avoid
+                prefetching whole tables. For scans, it can get much more
+                aggressive.
+              </p>
+              <p>
+                It also groups pages by page type in S3. Interior B-tree pages
+                are bundled separately and loaded eagerly. Index pages prefetch
+                aggressively. Data pages are stored by table. The goal is to
+                make cold point queries and joins decent, while making scans
+                less awful than naive remote paging would.
+              </p>
+              <p>
+                On a 1M-row / 1.5GB benchmark on EC2 + S3 Express, I’m seeing
+                results like sub-100ms cold point lookups, sub-200ms cold 5-join
+                profile queries, and sub-600ms scans from an empty cache with a
+                1.5GB database. It’s somewhat slower on normal S3/Tigris.
+              </p>
+              <p>
+                Current limitations are pretty straightforward: it’s
+                single-writer only, and it is still very much a systems
+                experiment rather than production infrastructure.
+              </p>
+              <p>
+                I’d love feedback from people who’ve worked on
+                SQLite-over-network, storage engines, VFSes, or
+                object-storage-backed databases. I’m especially interested in
+                whether the B-tree-aware grouping / manifest /
+                seekable-range-GET direction feels like the right one to keep
+                pushing.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47534086">
+          <h3>
+            <a
+              class="item"
+              href="https://voxday.net/2026/03/25/rip-john-bradley/"
+              >John Bradley, author of xv, has passed away</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-26 @ 18:38:50</span
+              ><span class="points-container"
+                >Points: <span class="points">102</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47534086"
+                  >Comments</a
+                ><span class="descendants">: 37</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47533555">
           <h3>
             <a
@@ -141,11 +337,11 @@
             <h4>
               <span>2026-03-26 @ 17:51:42</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47533555"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -161,11 +357,11 @@
             <h4>
               <span>2026-03-26 @ 17:29:58</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47533283"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -182,11 +378,11 @@
             <h4>
               <span>2026-03-26 @ 17:16:21</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47533090"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -203,7 +399,7 @@
             <h4>
               <span>2026-03-26 @ 16:14:56</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47532339"
                   >Comments</a
@@ -222,11 +418,11 @@
             <h4>
               <span>2026-03-26 @ 16:00:57</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47532148"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -243,11 +439,11 @@
             <h4>
               <span>2026-03-26 @ 15:48:40</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47531967"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
             <div class="text">
@@ -272,32 +468,11 @@
             <h4>
               <span>2026-03-26 @ 14:51:17</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47531184"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47530986">
-          <h3>
-            <a
-              class="item"
-              href="https://www.techpowerup.com/347703/intel-announces-arc-pro-b70-and-arc-pro-b65-gpus-maxes-out-xe2-battlemage-architecture"
-              >Intel Announces Arc Pro B70 and Arc Pro B65 GPUs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-26 @ 14:36:04</span
-              ><span class="points-container"
-                >Points: <span class="points">125</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47530986"
-                  >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -315,11 +490,11 @@
             <h4>
               <span>2026-03-26 @ 14:32:34</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47530945"
                   >Comments</a
-                ><span class="descendants">: 246</span></span
+                ><span class="descendants">: 315</span></span
               >
             </h4>
             <div class="text">
@@ -340,32 +515,11 @@
             <h4>
               <span>2026-03-26 @ 13:38:25</span
               ><span class="points-container"
-                >Points: <span class="points">420</span></span
+                >Points: <span class="points">442</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47530330"
                   >Comments</a
-                ><span class="descendants">: 212</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47530264">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion"
-              >AI users whose lives were wrecked by delusion</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-26 @ 13:32:23</span
-              ><span class="points-container"
-                >Points: <span class="points">164</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47530264"
-                  >Comments</a
-                ><span class="descendants">: 185</span></span
+                ><span class="descendants">: 228</span></span
               >
             </h4>
           </section>
@@ -382,11 +536,11 @@
             <h4>
               <span>2026-03-26 @ 12:24:36</span
               ><span class="points-container"
-                >Points: <span class="points">445</span></span
+                >Points: <span class="points">470</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47529609"
                   >Comments</a
-                ><span class="descendants">: 232</span></span
+                ><span class="descendants">: 244</span></span
               >
             </h4>
           </section>
@@ -403,28 +557,11 @@
             <h4>
               <span>2026-03-26 @ 07:27:11</span
               ><span class="points-container"
-                >Points: <span class="points">283</span></span
+                >Points: <span class="points">285</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47527590"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47527399">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&amp;utm_source=hn"
-              >Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-26 @ 07:00:28</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
+                ><span class="descendants">: 187</span></span
               >
             </h4>
           </section>
@@ -440,97 +577,82 @@
             <h4>
               <span>2026-03-26 @ 05:07:51</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47526813"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
             <div class="text">
               <a href="https://orloj.dev">https://orloj.dev</a>), an open-source
-              (Apache 2.0) orchestration runtime for multi-agent AI systems. You
-              define agents, tools, policies, and workflows in declarative YAML
+              orchestration runtime for multi-agent AI systems. You define
+              agents, tools, policies, and workflows in declarative YAML
               manifests, and Orloj handles scheduling, execution, governance,
               and reliability.
               <p>
-                We built this because running AI agents in production today
-                looks a lot like running containers before Kubernetes: ad-hoc
-                scripts, no governance, no observability, no standard way to
-                manage the lifecycle of an agent fleet. Everyone we talked to
-                was writing the same messy glue code to wire agents together,
-                and nobody had a good answer for "which agent called which tool,
-                and was it supposed to?"
+                Over the past year we tried to use many different
+                platforms/frameworks to build out agent systems and while
+                building we hit some sort of problem with all of them, so we
+                decided to have a go at it. Jon has worked with kubernettes and
+                terraform for years and always liked the declarative nature so
+                took patterns and concepts from both to build out Orloj.
               </p>
               <p>
                 Orloj treats agents the way infrastructure-as-code treats cloud
                 resources. You write a manifest that declares an agent's model,
                 tools, permissions, and execution limits. You compose agents
-                into directed graphs — pipelines, hierarchies, or swarm loops.
+                into directed graphs (pipelines, hierarchies, or swarm loops).
               </p>
               <p>
-                The part we're most excited about is governance. AgentPolicy,
-                AgentRole, and ToolPermission are evaluated inline during
-                execution, before every agent turn and tool call. Instead of
-                prompt instructions that the model might ignore, these policies
-                are a runtime gate. Unauthorized actions fail closed with
-                structured errors and full audit trails. You can set token
-                budgets per run, whitelist models, block specific tools, and
-                scope policies to individual agent systems.
+                Governance has been overlooked so we made resource policies
+                (AgentPolicy, AgentRole, and ToolPermission) that are evaluated
+                inline during execution, before every agent turn and tool call.
+                Instead of prompt instructions that the model might ignore,
+                these policies are a runtime gate. Unauthorized actions fail
+                closed with structured errors and full audit trails. You can set
+                token budgets per run, whitelist models, block specific tools,
+                and scope policies to individual agent systems.
               </p>
               <p>
                 For reliability, we built lease-based task ownership (so crashed
-                workers don't leave orphan tasks), capped exponential retry with
-                jitter, idempotent replay, and dead-letter handling. The
-                scheduler supports cron triggers and webhook-driven task
-                creation.
+                workers don't leave orphan tasks), which allows you to run
+                workers on different machines with whatever compute that’s
+                needed. It helps when we need a GPU for certain tasks (like we
+                did). The scheduler also supports cron triggers and
+                webhook-driven task creation.
               </p>
               <p>
-                The architecture is a server/worker split. orlojd hosts the API,
-                resource store (in-memory for dev, Postgres for production), and
-                task scheduler. orlojworker instances claim and execute tasks,
-                route model requests through a gateway (OpenAI, Anthropic,
-                Ollama, etc.), and run tools in configurable isolation — direct,
-                sandboxed, container, or WASM. For local development, you can
-                run everything in a single process with orlojd --embedded-worker
-                --storage-backend=memory.
+                The architecture is a server/worker split like kubernettes.
+                orlojd hosts the API, resource store (in-memory for dev,
+                Postgres for production), and task scheduler. orlojworker
+                instances claim and execute tasks, route model requests through
+                a gateway (OpenAI, Anthropic, Ollama, etc.), and run tools in
+                configurable isolation (direct, sandboxed, container, or WASM).
               </p>
               <p>
-                Tool isolation was important to us. A web search tool probably
-                doesn't need sandboxing, but a code execution tool should run in
-                a container with no network, a read-only filesystem, and a
-                memory cap. You configure this per tool based on risk level, and
-                the runtime enforces it.
-              </p>
-              <p>
-                We also added native MCP support. You register an MCP server
+                We work with a lot of MCP servers so wanted to make MCP
+                integration as easy as possible. You register an MCP server
                 (stdio or HTTP), Orloj auto-discovers its tools, and they become
                 first-class resources with governance applied. So you can
                 connect something like the GitHub MCP server and still have
                 policy enforcement over what agents are allowed to do with it.
               </p>
               <p>
-                Three starter blueprints are included (pipeline, hierarchical,
-                swarm-loop).
+                It comes shipped with a built in UI to manage all your workflows
+                and topology to see everything working in real time. There are a
+                few examples and starter templates in the repo to start playing
+                around with to get a feel for what’s possible.
               </p>
               <p>
-                Docs:
+                More info in the docs:
                 <a href="https://docs.orloj.dev">https://docs.orloj.dev</a>
               </p>
               <p>
-                We're also building out starter templates for operational
-                workflows where governance really matters. First on the roadmap:
-                1. Incident response triage, 2. Compliance evidence collector,
-                3. CVE investigation pipeline, and 4. Secret rotation auditor.
-                We have 20 templates in mind and community contributions are
-                welcome.
-              </p>
-              <p>
                 We're a small team and this is v0.1.0, so there's a lot still on
-                the roadmap — hosted cloud, compliance packaging, and more. But
-                the full runtime is open source today and we'd love feedback on
-                what we've built so far. What would you use this for? What's
-                missing?
+                the roadmap, but the full runtime is open source today and we'd
+                love feedback on what we've built so far. What would you use
+                this for? What's missing?
               </p>
             </div>
           </section>
@@ -545,7 +667,7 @@
             <h4>
               <span>2026-03-26 @ 03:54:27</span
               ><span class="points-container"
-                >Points: <span class="points">188</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47526478"
                   >Comments</a
@@ -566,11 +688,11 @@
             <h4>
               <span>2026-03-26 @ 00:28:38</span
               ><span class="points-container"
-                >Points: <span class="points">433</span></span
+                >Points: <span class="points">455</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47525243"
                   >Comments</a
-                ><span class="descendants">: 212</span></span
+                ><span class="descendants">: 219</span></span
               >
             </h4>
           </section>
@@ -588,11 +710,11 @@
             <h4>
               <span>2026-03-25 @ 21:11:57</span
               ><span class="points-container"
-                >Points: <span class="points">814</span></span
+                >Points: <span class="points">824</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47523330"
                   >Comments</a
-                ><span class="descendants">: 283</span></span
+                ><span class="descendants">: 288</span></span
               >
             </h4>
           </section>
@@ -609,36 +731,13 @@
             <h4>
               <span>2026-03-25 @ 19:41:51</span
               ><span class="points-container"
-                >Points: <span class="points">732</span></span
+                >Points: <span class="points">750</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47522173"
                   >Comments</a
-                ><span class="descendants">: 147</span></span
+                ><span class="descendants">: 152</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47521150">
-          <h3>
-            <a class="item" href="https://arcprize.org/arc-agi/3">ARC-AGI-3</a>
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-25 @ 18:16:03</span
-              ><span class="points-container"
-                >Points: <span class="points">483</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47521150"
-                  >Comments</a
-                ><span class="descendants">: 318</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://arcprize.org/media/ARC_AGI_3_Technical_Report.pdf"
-                >https://arcprize.org/media/ARC_AGI_3_Technical_Report.pdf</a
-              >
-            </div>
           </section>
         </section>
         <section id="47518960">
@@ -653,11 +752,11 @@
             <h4>
               <span>2026-03-25 @ 15:46:29</span
               ><span class="points-container"
-                >Points: <span class="points">288</span></span
+                >Points: <span class="points">329</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47518960"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -674,11 +773,11 @@
             <h4>
               <span>2026-03-24 @ 16:54:10</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47505670"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
             <div class="text">
@@ -686,48 +785,6 @@
                 >https://arxiv.org/abs/2603.19461</a
               >
             </div>
-          </section>
-        </section>
-        <section id="47501875">
-          <h3>
-            <a
-              class="item"
-              href="https://david.alvarezrosa.com/posts/optimizing-a-lock-free-ring-buffer/"
-              >Optimizing a lock-free ring buffer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-24 @ 12:52:04</span
-              ><span class="points-container"
-                >Points: <span class="points">77</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47501875"
-                  >Comments</a
-                ><span class="descendants">: 65</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47499566">
-          <h3>
-            <a
-              class="item"
-              href="https://davesdesigns.ca/dcc/html/spacestarcarz_.html"
-              >SpaceStarCarz KoolWheelz Paper Models</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-24 @ 07:32:42</span
-              ><span class="points-container"
-                >Points: <span class="points">32</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47499566"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="47499356">
@@ -742,30 +799,11 @@
             <h4>
               <span>2026-03-24 @ 06:53:30</span
               ><span class="points-container"
-                >Points: <span class="points">237</span></span
+                >Points: <span class="points">244</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47499356"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47495008">
-          <h3>
-            <a class="item" href="https://www.niche-museums.com/"
-              >Niche Museums</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-23 @ 20:57:19</span
-              ><span class="points-container"
-                >Points: <span class="points">98</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47495008"
-                  >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -780,11 +818,11 @@
             <h4>
               <span>2026-03-23 @ 15:17:38</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47490705"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -801,13 +839,78 @@
             <h4>
               <span>2026-03-23 @ 13:56:54</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47489620"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="47486365">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=47486365"
+              >Ask HN: Running legacy IE/ActiveX clients without local admin
+              rights?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-23 @ 07:20:50</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47486365"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The problem is the client side. It’s ancient, strictly requires
+                Internet Explorer, and heavily relies on ActiveX. If a standard
+                domain user launches the browser, the data fails to load and the
+                browser completely hangs. It only functions correctly if run
+                with local administrator privileges.
+              </p>
+              <p>
+                Giving users local admin rights is a massive security risk we
+                can't take. Currently, I have a workaround running in production
+                using Task Scheduler to elevate just this specific application
+                without giving the user the actual admin password. I documented
+                the specific approach we are using here:
+                https://www.hiddenobelisk.com/how-to-let-a-standard-domain-user-run-one-program-as-administrator-without-giving-admin-rights/#:~:text=least%20privilege.-,Approach%202%20%E2%80%94%20Running%20Applications%20with%20Administrative%20Privileges%20Using%20Task%20Scheduler,users%20can%20simply%20double%2Dclick%20the%20shortcut%20to%20launch%20the%20application.,-Changing%20the%20Shortcut
+              </p>
+              <p>
+                I recently started a thread over on r/sysadmin trying to find a
+                cleaner solution:
+                https://www.reddit.com/r/sysadmin/comments/1rm6uv4/how_do_you_let_a_standard_domain_user_run_one/
+              </p>
+              <p>
+                The general consensus there was to either buy an expensive
+                enterprise PAM (Privileged Access Management) solution, or
+                deep-dive with Procmon. I am currently analyzing the software
+                with Procmon based on that advice, but so far, I haven't been
+                able to make the client work without the Task Scheduler
+                workaround.
+              </p>
+              <p>My questions for the HN community:</p>
+              <p>
+                1) Are there any reliable open-source PAM alternatives or
+                privilege elevation tools for Windows that handle this "per-app"
+                scenario effectively?
+              </p>
+              <p>
+                2) When dealing with hostile ActiveX components, are there
+                specific legacy behaviors (beyond obvious file/registry Access
+                Denied) I should be looking for in my Procmon captures?
+              </p>
+              <p>
+                3) How do you isolate this kind of hardcoded legacy requirement
+                when there is zero budget for commercial enterprise tools?
+              </p>
+            </div>
           </section>
         </section>
         <section id="47483364">
@@ -822,11 +925,11 @@
             <h4>
               <span>2026-03-22 @ 23:15:03</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47483364"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -843,11 +946,11 @@
             <h4>
               <span>2026-03-20 @ 17:00:45</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47457407"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
