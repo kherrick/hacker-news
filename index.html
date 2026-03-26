@@ -129,6 +129,95 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47532339">
+          <h3>
+            <a
+              class="item"
+              href="https://opentelemetry.io/blog/2026/profiles-alpha/"
+              >OpenTelemetry Profiles Enters Public Alpha</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-26 @ 16:14:56</span
+              ><span class="points-container"
+                >Points: <span class="points">64</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47532339"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47532145">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/salespeak-ai/buyer-eval-skill"
+              >Show HN: Claude skill that evaluates B2B vendors by talking to
+              their AI agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-26 @ 16:00:47</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47532145"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Researches your company automatically -- industry, size, stack
+                -- so you don't fill out a form Asks 2-4 category-specific
+                questions before evaluating anything. Not generic. For a CS
+                platform evaluation it might ask "is your team high-touch or
+                low-touch? Most CS platforms are built for one and barely work
+                for the other." These surface requirements buyers didn't know
+                they had. Tries to find and talk directly to each vendor's AI
+                agent -- a REST API call that checks for a Company Agent, then
+                runs a structured due diligence conversation if one exists Asks
+                adversarial questions: "What are your customers' most common
+                complaints?" and "What use cases are you NOT a good fit for?" --
+                and flags when agents deflect instead of answering
+                Cross-references every vendor claim against independent sources
+                (G2, Gartner, press) in a Claims vs. Evidence table Produces a
+                scorecard with transparent evidence tracking -- each score shows
+                whether it's backed by vendor-verified evidence or public
+                sources only
+              </p>
+              <p>
+                The agent-to-agent piece is technically new. When a vendor has
+                an AI agent, Claude (working for the buyer) interrogates it
+                directly, then fact-checks its answers. When vendors have
+                different evidence levels, the skill quantifies what would
+                change if the missing evidence were confirmed -- so it doesn't
+                silently favor vendors that happen to have AI agents. It works
+                fully for any vendor, with or without an AI agent. Vendors
+                without one get evaluated on public sources with the same
+                scoring framework. We built this at Salespeak -- we help B2B
+                vendors build AI Company Agents. So yes, there's a connection:
+                when an agent finds a vendor's Company Agent, it uses our
+                Frontdoor API to talk to it. But the skill is genuinely useful
+                without that, and we wanted to be honest about that rather than
+                ship something that only works as a product demo. MIT licensed.
+                To install, just ask Claude Code: "Install the buyer-eval skill
+                from salespeak-ai on GitHub." Then /buyer-eval to run it. Felt
+                appropriate that installing a skill for AI agents works the same
+                way. Repo:
+                <a href="https://github.com/salespeak-ai/buyer-eval-skill"
+                  >https://github.com/salespeak-ai/buyer-eval-skill</a
+                >
+                Happy to answer questions about how the agent-to-agent
+                conversation works technically.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="47531967">
           <h3>
             <a
@@ -141,13 +230,21 @@
             <h4>
               <span>2026-03-26 @ 15:48:40</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47531967"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
+            <div class="text">
+              <i>Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised</i>
+              -
+              <a href="https://news.ycombinator.com/item?id=47501426"
+                >https://news.ycombinator.com/item?id=47501426</a
+              >
+              (483 comments)
+            </div>
           </section>
         </section>
         <section id="47531400">
@@ -162,11 +259,11 @@
             <h4>
               <span>2026-03-26 @ 15:05:00</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47531400"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -183,11 +280,11 @@
             <h4>
               <span>2026-03-26 @ 14:51:17</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47531184"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -204,33 +301,11 @@
             <h4>
               <span>2026-03-26 @ 14:36:04</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47530986"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47530984">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wsj.com/tech/personal-tech/meta-and-youtube-found-negligent-in-social-media-addiction-trial-35b2830d"
-              >Meta and YouTube Found Negligent in Social-Media Addiction
-              Trial</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-26 @ 14:35:40</span
-              ><span class="points-container"
-                >Points: <span class="points">63</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47530984"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -248,13 +323,41 @@
             <h4>
               <span>2026-03-26 @ 14:34:58</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47530981"
                   >Comments</a
-                ><span class="descendants">: 132</span></span
+                ><span class="descendants">: 149</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="47530945">
+          <h3>
+            <a
+              class="item"
+              href="https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html"
+              >Olympic Committee bars transgender athletes from women’s
+              events</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-26 @ 14:32:34</span
+              ><span class="points-container"
+                >Points: <span class="points">55</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47530945"
+                  >Comments</a
+                ><span class="descendants">: 103</span></span
+              >
+            </h4>
+            <div class="text">
+              <a
+                href="https://sports.yahoo.com/olympics/breaking-news/article/transgender-athletes-banned-from-competing-in-womens-category-starting-at-2028-olympics-international-olympic-committee-announces-140151332.html"
+                >https://sports.yahoo.com/olympics/breaking-news/article/tran...</a
+              >
+            </div>
           </section>
         </section>
         <section id="47530330">
@@ -267,11 +370,11 @@
             <h4>
               <span>2026-03-26 @ 13:38:25</span
               ><span class="points-container"
-                >Points: <span class="points">310</span></span
+                >Points: <span class="points">375</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47530330"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
+                ><span class="descendants">: 179</span></span
               >
             </h4>
           </section>
@@ -288,11 +391,11 @@
             <h4>
               <span>2026-03-26 @ 12:30:59</span
               ><span class="points-container"
-                >Points: <span class="points">531</span></span
+                >Points: <span class="points">540</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47529646"
                   >Comments</a
-                ><span class="descendants">: 120</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -310,33 +413,11 @@
             <h4>
               <span>2026-03-26 @ 12:24:36</span
               ><span class="points-container"
-                >Points: <span class="points">310</span></span
+                >Points: <span class="points">357</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47529609"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47529534">
-          <h3>
-            <a
-              class="item"
-              href="https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict"
-              >Landmark L.A. jury verdict finds Instagram, YouTube were designed
-              to addict kids</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-26 @ 12:15:33</span
-              ><span class="points-container"
-                >Points: <span class="points">292</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47529534"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 201</span></span
               >
             </h4>
           </section>
@@ -353,11 +434,11 @@
             <h4>
               <span>2026-03-26 @ 10:13:38</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47528605"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -374,11 +455,11 @@
             <h4>
               <span>2026-03-26 @ 07:27:11</span
               ><span class="points-container"
-                >Points: <span class="points">254</span></span
+                >Points: <span class="points">275</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47527590"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 166</span></span
               >
             </h4>
           </section>
@@ -400,28 +481,6 @@
             </h4>
           </section>
         </section>
-        <section id="47527130">
-          <h3>
-            <a
-              class="item"
-              href="https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic"
-              >Government agencies buy commercial data about Americans in
-              bulk</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-26 @ 06:11:01</span
-              ><span class="points-container"
-                >Points: <span class="points">214</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47527130"
-                  >Comments</a
-                ><span class="descendants">: 70</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="47526478">
           <h3>
             <a class="item" href="https://citiesandmemory.com/obsolete-sounds/"
@@ -432,11 +491,11 @@
             <h4>
               <span>2026-03-26 @ 03:54:27</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47526478"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -453,11 +512,11 @@
             <h4>
               <span>2026-03-26 @ 00:28:38</span
               ><span class="points-container"
-                >Points: <span class="points">375</span></span
+                >Points: <span class="points">399</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47525243"
                   >Comments</a
-                ><span class="descendants">: 169</span></span
+                ><span class="descendants">: 187</span></span
               >
             </h4>
           </section>
@@ -475,11 +534,11 @@
             <h4>
               <span>2026-03-25 @ 21:11:57</span
               ><span class="points-container"
-                >Points: <span class="points">781</span></span
+                >Points: <span class="points">794</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47523330"
                   >Comments</a
-                ><span class="descendants">: 265</span></span
+                ><span class="descendants">: 276</span></span
               >
             </h4>
           </section>
@@ -494,11 +553,11 @@
             <h4>
               <span>2026-03-25 @ 20:27:03</span
               ><span class="points-container"
-                >Points: <span class="points">1379</span></span
+                >Points: <span class="points">1394</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47522709"
                   >Comments</a
-                ><span class="descendants">: 367</span></span
+                ><span class="descendants">: 373</span></span
               >
             </h4>
           </section>
@@ -515,11 +574,11 @@
             <h4>
               <span>2026-03-25 @ 19:41:51</span
               ><span class="points-container"
-                >Points: <span class="points">650</span></span
+                >Points: <span class="points">687</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47522173"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 138</span></span
               >
             </h4>
           </section>
@@ -532,11 +591,11 @@
             <h4>
               <span>2026-03-25 @ 18:16:03</span
               ><span class="points-container"
-                >Points: <span class="points">470</span></span
+                >Points: <span class="points">478</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47521150"
                   >Comments</a
-                ><span class="descendants">: 302</span></span
+                ><span class="descendants">: 307</span></span
               >
             </h4>
             <div class="text">
@@ -560,11 +619,11 @@
             <h4>
               <span>2026-03-25 @ 14:12:04</span
               ><span class="points-container"
-                >Points: <span class="points">203</span></span
+                >Points: <span class="points">206</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47517606"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
             <div class="text">
@@ -586,7 +645,7 @@
             <h4>
               <span>2026-03-24 @ 07:32:42</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47499566"
                   >Comments</a
@@ -607,11 +666,11 @@
             <h4>
               <span>2026-03-24 @ 06:53:30</span
               ><span class="points-container"
-                >Points: <span class="points">204</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47499356"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -626,11 +685,11 @@
             <h4>
               <span>2026-03-23 @ 20:57:19</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47495008"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -647,7 +706,7 @@
             <h4>
               <span>2026-03-23 @ 16:39:53</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47491848"
                   >Comments</a
@@ -668,11 +727,11 @@
             <h4>
               <span>2026-03-23 @ 13:56:54</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47489620"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -687,11 +746,32 @@
             <h4>
               <span>2026-03-23 @ 12:09:35</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47488348"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 115</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47483364">
+          <h3>
+            <a
+              class="item"
+              href="https://analogdreamdev.substack.com/p/light-on-glass"
+              >Light on Glass: Why do you start making a game engine?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-22 @ 23:15:03</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47483364"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -708,33 +788,11 @@
             <h4>
               <span>2026-03-22 @ 23:06:57</span
               ><span class="points-container"
-                >Points: <span class="points">208</span></span
+                >Points: <span class="points">211</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47483286"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47473673">
-          <h3>
-            <a
-              class="item"
-              href="https://english.elpais.com/culture/2026-03-17/the-uncomfortable-truth-that-will-always-haunt-the-ramones-they-sold-more-t-shirts-than-records.html"
-              >The truth that haunts the Ramones: 'They sold more T-shirts than
-              records'</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-22 @ 01:58:23</span
-              ><span class="points-container"
-                >Points: <span class="points">231</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47473673"
-                  >Comments</a
-                ><span class="descendants">: 201</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -751,11 +809,11 @@
             <h4>
               <span>2026-03-20 @ 18:41:23</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47458805"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
