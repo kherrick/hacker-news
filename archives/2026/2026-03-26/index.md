@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-26](index.md)
 
+* [2026-03-26, 21:55:04](https://news.ycombinator.com/item?id=47536316) - [Iran oil revenue soars as it's the only exporter out of Hormuz](https://financialpost.com/commodities/energy/oil-gas/iran-oil-revenue-soars-hormuz)
+* [2026-03-26, 21:37:15](https://news.ycombinator.com/item?id=47536110) - [Anthropic Subprocessor Changes](https://trust.anthropic.com)
 * [2026-03-26, 20:58:04](https://news.ycombinator.com/item?id=47535626) - [Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer](https://github.com/ViciousSquid/Fio)
 * [2026-03-26, 20:53:54](https://news.ycombinator.com/item?id=47535586) - [Deploytarot.com – tarot card reading for deployments](https://deploytarot.com/setup)
 * [2026-03-26, 20:35:53](https://news.ycombinator.com/item?id=47535380) - [The Little Book of C](https://little-book-of.github.io/c/books/en-US/book.html)

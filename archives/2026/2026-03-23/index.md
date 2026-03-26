@@ -45,6 +45,7 @@
 * [2026-03-23, 13:56:54](https://news.ycombinator.com/item?id=47489620) - [My home network observes bedtime with OpenBSD and pf](https://ratfactor.com/openbsd/pf-gateway-bedtime)
 * [2026-03-23, 13:13:30](https://news.ycombinator.com/item?id=47489058) - [Cyberattack on vehicle breathalyzer company leaves drivers stranded in the US](https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/)
 * [2026-03-23, 13:12:30](https://news.ycombinator.com/item?id=47489044) - [America tells private firms to \"hack back\"](https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back)
+* [2026-03-23, 12:45:57](https://news.ycombinator.com/item?id=47488726) - [Non-Messing-Up++: Diagonal Sorting and Young Tableaux](https://winwang.blog/posts/non-messing-up++)
 * [2026-03-23, 12:42:00](https://news.ycombinator.com/item?id=47488686) - [Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home](https://www.jackhogan.me/blog/box-of-secrets/)
 * [2026-03-23, 12:37:39](https://news.ycombinator.com/item?id=47488635) - [Fyn: An uv fork with new features, bug fixes, stripped telemetry](https://github.com/duriantaco/fyn)
 * [2026-03-23, 12:09:35](https://news.ycombinator.com/item?id=47488348) - [What Came After the 486?](https://dfarq.homeip.net/what-came-after-486/)
