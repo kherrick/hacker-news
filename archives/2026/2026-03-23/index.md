@@ -59,6 +59,7 @@
 * [2026-03-23, 08:16:34](https://news.ycombinator.com/item?id=47486644) - [White-Collar AI Apocalypse Narrative Is Just Another Bullshit](https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/)
 * [2026-03-23, 07:55:41](https://news.ycombinator.com/item?id=47486520) - [Scott Hanselman says he's working on Windows local accounts](https://twitter.com/shanselman/status/2035110958314745891)
 * [2026-03-23, 07:24:19](https://news.ycombinator.com/item?id=47486386) - [Plane and ground vehicle collide at New York's LaGuardia airport halting flights](https://www.bbc.com/news/articles/cy01g522ww4o)
+* [2026-03-23, 07:20:50](https://news.ycombinator.com/item?id=47486365) - [Ask HN: Running legacy IE/ActiveX clients without local admin rights?](https://news.ycombinator.com/item?id=47486365)
 * [2026-03-23, 07:06:42](https://news.ycombinator.com/item?id=47486287) - [Show HN: Agent Kernel – Three Markdown files that make any AI agent stateful](https://github.com/oguzbilgic/agent-kernel)
 * [2026-03-23, 06:42:39](https://news.ycombinator.com/item?id=47486135) - [AI Proteomics Competition 2026 – $13K Prize, Internships and Compute Support](https://www.bohrium.com/competitions/9813928053?tab=introduce)
 * [2026-03-23, 03:33:41](https://news.ycombinator.com/item?id=47485231) - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
