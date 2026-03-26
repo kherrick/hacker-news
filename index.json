@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-26, 20:53:54",
+      "https://news.ycombinator.com/item?id=47535586"
+    ],
+    [
+      "Deploytarot.com – tarot card reading for deployments",
+      "https://deploytarot.com/setup"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 20:35:53",
+      "https://news.ycombinator.com/item?id=47535380"
+    ],
+    [
+      "The Little Book of C",
+      "https://little-book-of.github.io/c/books/en-US/book.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 20:35:04",
+      "https://news.ycombinator.com/item?id=47535371"
+    ],
+    [
+      "New York City hospitals drop Palantir as controversial AI firm expands in UK",
+      "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai"
+    ]
+  ],
+  [
+    [
       "2026-03-26, 19:48:05",
       "https://news.ycombinator.com/item?id=47534848"
     ],
@@ -27,16 +57,6 @@
     [
       "CERN to host Europe's flagship open access publishing platform",
       "https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 19:26:23",
-      "https://news.ycombinator.com/item?id=47534578"
-    ],
-    [
-      "Show HN: Layerleak – Like Trufflehog, but for Docker Hub",
-      "https://github.com/Brumbelow/layerleak"
     ]
   ],
   [
@@ -171,26 +191,6 @@
   ],
   [
     [
-      "2026-03-26, 05:07:51",
-      "https://news.ycombinator.com/item?id=47526813"
-    ],
-    [
-      "Show HN: Orloj – agent infrastructure as code (YAML and GitOps)",
-      "https://github.com/OrlojHQ/orloj"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 03:54:27",
-      "https://news.ycombinator.com/item?id=47526478"
-    ],
-    [
-      "Obsolete Sounds",
-      "https://citiesandmemory.com/obsolete-sounds/"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 00:28:38",
       "https://news.ycombinator.com/item?id=47525243"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-03-24, 06:31:15",
+      "https://news.ycombinator.com/item?id=47499242"
+    ],
+    [
+      "Fast regex search: indexing text for agent tools",
+      "https://cursor.com/blog/fast-regex-search"
+    ]
+  ],
+  [
+    [
       "2026-03-23, 15:17:38",
       "https://news.ycombinator.com/item?id=47490705"
     ],
@@ -267,16 +277,6 @@
     [
       "My home network observes bedtime with OpenBSD and pf",
       "https://ratfactor.com/openbsd/pf-gateway-bedtime"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 07:20:50",
-      "https://news.ycombinator.com/item?id=47486365"
-    ],
-    [
-      "Ask HN: Running legacy IE/ActiveX clients without local admin rights?",
-      "https://news.ycombinator.com/item?id=47486365"
     ]
   ],
   [
