@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 21:04:51](https://news.ycombinator.com/item?id=47548243) - [If you don't opt out by Apr 24 GitHub will train on your private repos](https://news.ycombinator.com/item?id=47548243)
+* [2026-03-27, 20:51:03](https://news.ycombinator.com/item?id=47548087) - [Slovenia becomes first EU country to introduce fuel rationing](https://www.bbc.com/news/articles/c77m4zx6zvmo)
+* [2026-03-27, 20:44:33](https://news.ycombinator.com/item?id=47548013) - [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
 * [2026-03-27, 20:02:05](https://news.ycombinator.com/item?id=47547508) - [ISBN Visualization – Annas Archive](https://annas-archive.gd/isbn-visualization?)
 * [2026-03-27, 19:15:19](https://news.ycombinator.com/item?id=47547009) - [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/)
 * [2026-03-27, 19:06:44](https://news.ycombinator.com/item?id=47546911) - [Capability-Based Security for Redox: Namespace and CWD as Capabilities](https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/)
