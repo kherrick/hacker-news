@@ -45,6 +45,8 @@
 * [2026-03-23, 14:30:10](https://news.ycombinator.com/item?id=47490070) - [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412)
 * [2026-03-23, 14:25:45](https://news.ycombinator.com/item?id=47490018) - [355 Issues of the UK music magazine NME from 1969-1983](https://archive.org/search?query=creator%3A%22NME+-+New+Musical+Express%22&sort=-addeddate)
 * [2026-03-23, 13:56:54](https://news.ycombinator.com/item?id=47489620) - [My home network observes bedtime with OpenBSD and pf](https://ratfactor.com/openbsd/pf-gateway-bedtime)
+* [2026-03-23, 13:51:03](https://news.ycombinator.com/item?id=47489535) - [Generators in Lone Lisp](https://www.matheusmoreira.com/articles/generators-in-lone-lisp)
+* [2026-03-23, 13:24:59](https://news.ycombinator.com/item?id=47489213) - [Dobase – Your workspace, your server](https://dobase.co/)
 * [2026-03-23, 13:13:30](https://news.ycombinator.com/item?id=47489058) - [Cyberattack on vehicle breathalyzer company leaves drivers stranded in the US](https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/)
 * [2026-03-23, 13:12:30](https://news.ycombinator.com/item?id=47489044) - [America tells private firms to \"hack back\"](https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back)
 * [2026-03-23, 12:45:57](https://news.ycombinator.com/item?id=47488726) - [Non-Messing-Up++: Diagonal Sorting and Young Tableaux](https://winwang.blog/posts/non-messing-up++)
