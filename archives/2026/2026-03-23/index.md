@@ -29,6 +29,7 @@
 * [2026-03-23, 18:57:08](https://news.ycombinator.com/item?id=47493657) - [Local Stack Archived their GitHub repo and requires an account to run](https://github.com/localstack/localstack)
 * [2026-03-23, 18:49:02](https://news.ycombinator.com/item?id=47493567) - [Show HN: I built a site that maps the web from a bounty hunter's perspective](https://www.neobotnet.com/)
 * [2026-03-23, 18:40:58](https://news.ycombinator.com/item?id=47493460) - [I tried Karpathy's Autoresearch on an old research project](https://ykumar.me/blog/eclip-autoresearch/)
+* [2026-03-23, 18:22:33](https://news.ycombinator.com/item?id=47493246) - [Everything old is new again: memory optimization](https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html)
 * [2026-03-23, 18:19:05](https://news.ycombinator.com/item?id=47493194) - [AI Risks \"Hypernormal\" Science](https://www.asimov.press/p/ai-science)
 * [2026-03-23, 17:56:31](https://news.ycombinator.com/item?id=47492894) - [The Legibility of Serif and Sans Serif Typefaces (2022)](https://library.oapen.org//handle/20.500.12657/53344)
 * [2026-03-23, 17:54:51](https://news.ycombinator.com/item?id=47492871) - [Show HN: Minimalist library to generate SVG views of scientific data](https://github.com/alefore/mini_svg/)
