@@ -31,6 +31,7 @@
 * [2026-03-26, 17:29:58](https://news.ycombinator.com/item?id=47533283) - [Colibri – chat platform built on the AT Protocol for communities big and small](https://colibri.social/)
 * [2026-03-26, 17:21:50](https://news.ycombinator.com/item?id=47533160) - [The Oxford Comma – Why and Why Not](https://www.deborahcourtbooks.com/post/the-oxford-comma-why-and-why-not)
 * [2026-03-26, 17:16:21](https://news.ycombinator.com/item?id=47533090) - [Building a Blog with Elixir and Phoenix](https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix)
+* [2026-03-26, 16:48:12](https://news.ycombinator.com/item?id=47532770) - [Improving Composer through real-time RL](https://cursor.com/blog/real-time-rl-for-composer)
 * [2026-03-26, 16:14:56](https://news.ycombinator.com/item?id=47532339) - [OpenTelemetry Profiles Enters Public Alpha](https://opentelemetry.io/blog/2026/profiles-alpha/)
 * [2026-03-26, 16:00:57](https://news.ycombinator.com/item?id=47532148) - [Stripe Projects: Provision and manage services from the CLI](https://projects.dev/)
 * [2026-03-26, 16:00:47](https://news.ycombinator.com/item?id=47532145) - [Show HN: Claude skill that evaluates B2B vendors by talking to their AI agents](https://github.com/salespeak-ai/buyer-eval-skill)

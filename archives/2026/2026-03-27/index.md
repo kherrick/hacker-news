@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 23:19:18](https://news.ycombinator.com/item?id=47549649) - [Why are executives enamored with AI, but ICs aren't?](https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/)
 * [2026-03-27, 22:22:20](https://news.ycombinator.com/item?id=47549160) - [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
 * [2026-03-27, 21:41:41](https://news.ycombinator.com/item?id=47548670) - [DOJ confirms FBI Director Kash Patel's personal email was hacked](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/)
 * [2026-03-27, 21:04:51](https://news.ycombinator.com/item?id=47548243) - [If you don't opt out by Apr 24 GitHub will train on your private repos](https://news.ycombinator.com/item?id=47548243)
