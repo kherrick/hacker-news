@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-27, 21:41:41](https://news.ycombinator.com/item?id=47548670) - [DOJ confirms FBI Director Kash Patel's personal email was hacked](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/)
 * [2026-03-27, 21:04:51](https://news.ycombinator.com/item?id=47548243) - [If you don't opt out by Apr 24 GitHub will train on your private repos](https://news.ycombinator.com/item?id=47548243)
 * [2026-03-27, 20:51:03](https://news.ycombinator.com/item?id=47548087) - [Slovenia becomes first EU country to introduce fuel rationing](https://www.bbc.com/news/articles/c77m4zx6zvmo)
 * [2026-03-27, 20:44:33](https://news.ycombinator.com/item?id=47548013) - [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
 * [2026-03-27, 20:02:05](https://news.ycombinator.com/item?id=47547508) - [ISBN Visualization – Annas Archive](https://annas-archive.gd/isbn-visualization?)
 * [2026-03-27, 19:15:19](https://news.ycombinator.com/item?id=47547009) - [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/)
 * [2026-03-27, 19:06:44](https://news.ycombinator.com/item?id=47546911) - [Capability-Based Security for Redox: Namespace and CWD as Capabilities](https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/)
-* [2026-03-27, 17:25:05](https://news.ycombinator.com/item?id=47545642) - [Show HN: Open-Source Animal Crossing–Style UI for Claude Code Agents](https://github.com/outworked/outworked/releases/tag/v0.3.0)
-* [2026-03-27, 16:56:41](https://news.ycombinator.com/item?id=47545223) - [Browser-based SFX synthesizer using WASM/Zig](https://knell.medieval.software/studio)
-* [2026-03-27, 16:39:32](https://news.ycombinator.com/item?id=47544980) - [AI got the blame for the Iran school bombing. The truth is more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
+* [2026-03-27, 15:46:50](https://news.ycombinator.com/item?id=47544238) - [The Future of SCIP](https://sourcegraph.com/blog/the-future-of-scip)
 * [2026-03-27, 15:31:20](https://news.ycombinator.com/item?id=47543943) - [Desk for people who work at home with a cat](https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/)
 * [2026-03-27, 14:41:02](https://news.ycombinator.com/item?id=47543204) - [Meow.camera](https://meow.camera/#4258783365322591678)
 * [2026-03-27, 14:35:45](https://news.ycombinator.com/item?id=47543139) - [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
@@ -30,6 +29,7 @@
 * [2026-03-24, 03:08:56](https://news.ycombinator.com/item?id=47498222) - [Embracing Bayesian methods in clinical trials](https://jamanetwork.com/journals/jama/fullarticle/2847011)
 * [2026-03-23, 21:18:53](https://news.ycombinator.com/item?id=47495245) - [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html)
 * [2026-03-23, 18:59:03](https://news.ycombinator.com/item?id=47493677) - [Explore the Hidden World of Sand](https://magnifiedsand.com/)
+* [2026-03-23, 18:22:33](https://news.ycombinator.com/item?id=47493246) - [Everything old is new again: memory optimization](https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html)
 
 ## [Archives](archives/index.md)
 
