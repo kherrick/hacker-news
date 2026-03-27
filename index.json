@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-27, 04:47:15",
+      "https://news.ycombinator.com/item?id=47539188"
+    ],
+    [
+      "Schedule tasks on the web",
+      "https://code.claude.com/docs/en/web-scheduled-tasks"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 02:19:12",
       "https://news.ycombinator.com/item?id=47538433"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=47538190"
     ],
     [
-      "Agent-to-Agent Pair Programming",
+      "Agent-to-agent pair programming",
       "https://axeldelafosse.com/blog/agent-to-agent-pair-programming"
     ]
   ],
@@ -31,32 +41,12 @@
   ],
   [
     [
-      "2026-03-26, 23:33:53",
-      "https://news.ycombinator.com/item?id=47537228"
-    ],
-    [
-      "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
-      "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 23:18:38",
       "https://news.ycombinator.com/item?id=47537106"
     ],
     [
       "Chicago artist creates tourism posters for city's neighborhoods",
       "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 23:11:45",
-      "https://news.ycombinator.com/item?id=47537051"
-    ],
-    [
-      "Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]",
-      "https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf"
     ]
   ],
   [
@@ -211,22 +201,22 @@
   ],
   [
     [
-      "2026-03-26, 13:38:25",
-      "https://news.ycombinator.com/item?id=47530330"
+      "2026-03-26, 07:27:11",
+      "https://news.ycombinator.com/item?id=47527590"
     ],
     [
-      "Moving from GitHub to Codeberg, for lazy people",
-      "https://unterwaditzer.net/2025/codeberg.html"
+      "Swift 6.3",
+      "https://www.swift.org/blog/swift-6.3-released/"
     ]
   ],
   [
     [
-      "2026-03-26, 11:47:26",
-      "https://news.ycombinator.com/item?id=47529306"
+      "2026-03-26, 00:28:38",
+      "https://news.ycombinator.com/item?id=47525243"
     ],
     [
-      "Show HN: Veil – Dark mode PDFs without destroying images, runs in the browser",
-      "https://veil.simoneamico.com/"
+      "Shell Tricks That Make Life Easier (and Save Your Sanity)",
+      "https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Whistler: Live eBPF Programming from the Common Lisp REPL",
       "https://atgreen.github.io/repl-yell/posts/whistler/"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 17:56:31",
+      "https://news.ycombinator.com/item?id=47492894"
+    ],
+    [
+      "The Legibility of Serif and Sans Serif Typefaces (2022)",
+      "https://library.oapen.org//handle/20.500.12657/53344"
     ]
   ],
   [
