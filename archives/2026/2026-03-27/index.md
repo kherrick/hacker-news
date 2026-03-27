@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 16:11:27](https://news.ycombinator.com/item?id=47544614) - [Apple says no one using Lockdown Mode has been hacked with spyware](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/)
+* [2026-03-27, 15:33:54](https://news.ycombinator.com/item?id=47544006) - [SimpleX Chat](https://simplex.chat/)
+* [2026-03-27, 15:31:20](https://news.ycombinator.com/item?id=47543943) - [Desk for people who work at home with a cat](https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/)
 * [2026-03-27, 14:53:43](https://news.ycombinator.com/item?id=47543361) - [Rising Air-Conditioning Use Intensifies Global Warming](https://www.nature.com/articles/s41467-026-69393-1)
 * [2026-03-27, 14:44:42](https://news.ycombinator.com/item?id=47543247) - [Rank the 50 best Apple products](https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products)
+* [2026-03-27, 14:40:57](https://news.ycombinator.com/item?id=47543201) - [The Last Gasps of the Rent Seeking Class](https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html)
 * [2026-03-27, 14:40:06](https://news.ycombinator.com/item?id=47543189) - [Anthropic's Claude loses its >99% uptime in Q1 2026](https://bsky.app/profile/teropa.bsky.social/post/3mi2dbt27m226)
 * [2026-03-27, 14:38:28](https://news.ycombinator.com/item?id=47543167) - [Iran-linked hackers claim breach of FBI director's personal email](https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/)
 * [2026-03-27, 14:35:45](https://news.ycombinator.com/item?id=47543139) - [Anatomy of the .claude/ Folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
