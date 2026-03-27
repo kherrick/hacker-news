@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-03-27, 18:51:06",
+      "https://news.ycombinator.com/item?id=47546732"
+    ],
+    [
+      "Vibe-Coded Ext4 for OpenBSD",
+      "https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 18:13:57",
+      "https://news.ycombinator.com/item?id=47546265"
+    ],
+    [
+      "PyPI package telnyx has been compromised in yet another supply chain attack",
+      "https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-canisterworm"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 17:58:52",
+      "https://news.ycombinator.com/item?id=47546081"
+    ],
+    [
+      "Telnyx Python SDK: Supply Chain Security Notice",
+      "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 17:55:44",
+      "https://news.ycombinator.com/item?id=47546028"
+    ],
+    [
+      "We broke 92% of SHA-256 – you should start to migrate from it",
+      "https://stateofutopia.com/papers/2/we-broke-92-percent-of-sha-256.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 17:21:11",
+      "https://news.ycombinator.com/item?id=47545594"
+    ],
+    [
+      "Byte Magazine Archive 1975 to 1995",
+      "https://www.worldradiohistory.com/Byte_Magazine.htm"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 16:42:02",
       "https://news.ycombinator.com/item?id=47545032"
     ],
@@ -17,16 +67,6 @@
     [
       "AI got the blame for the Iran school bombing. The truth is more worrying",
       "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 16:25:50",
-      "https://news.ycombinator.com/item?id=47544785"
-    ],
-    [
-      "Netflix raises prices for every subscription tier by up to 12.5 percent",
-      "https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/"
     ]
   ],
   [
@@ -57,16 +97,6 @@
     [
       "Meow.camera",
       "https://meow.camera/#4258783365322591678"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 14:40:57",
-      "https://news.ycombinator.com/item?id=47543201"
-    ],
-    [
-      "Last gasps of the rent seeking class?",
-      "https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-03-27, 07:00:49",
-      "https://news.ycombinator.com/item?id=47539767"
-    ],
-    [
-      "The European AllSky7 fireball network",
-      "https://www.allsky7.net/#archive"
-    ]
-  ],
-  [
-    [
       "2026-03-27, 04:47:15",
       "https://news.ycombinator.com/item?id=47539188"
     ],
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2026-03-26, 17:31:24",
-      "https://news.ycombinator.com/item?id=47533297"
-    ],
-    [
-      "$500 GPU outperforms Claude Sonnet on coding benchmarks",
-      "https://github.com/itigges22/ATLAS"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 15:45:14",
-      "https://news.ycombinator.com/item?id=47531922"
-    ],
-    [
-      "Show HN: Sup AI, a confidence-weighted ensemble (52.15% on Humanity's Last Exam)",
-      "https://sup.ai"
-    ]
-  ],
-  [
-    [
       "2026-03-25, 22:20:47",
       "https://news.ycombinator.com/item?id=47524051"
     ],
@@ -237,6 +237,16 @@
     [
       "EMachines never obsolete PCs: More than a meme",
       "https://dfarq.homeip.net/emachines-never-obsolete-pcs-more-than-a-meme/"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 10:22:51",
+      "https://news.ycombinator.com/item?id=47500647"
+    ],
+    [
+      "Can It Resolve Doom? Game Engine in 2k DNS Records",
+      "https://core-jmp.org/2026/03/can-it-resolve-doom-game-engine-in-2000-dns-records/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Everything old is new again: memory optimization",
       "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 17:56:31",
-      "https://news.ycombinator.com/item?id=47492894"
-    ],
-    [
-      "The Legibility of Serif and Sans Serif Typefaces (2022)",
-      "https://library.oapen.org//handle/20.500.12657/53344"
     ]
   ],
   [
