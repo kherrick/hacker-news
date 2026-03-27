@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-27, 20:02:05",
+      "https://news.ycombinator.com/item?id=47547508"
+    ],
+    [
+      "ISBN Visualization – Annas Archive",
+      "https://annas-archive.gd/isbn-visualization?"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 19:15:19",
       "https://news.ycombinator.com/item?id=47547009"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2026-03-27, 18:51:06",
-      "https://news.ycombinator.com/item?id=47546732"
+      "2026-03-27, 19:06:44",
+      "https://news.ycombinator.com/item?id=47546911"
     ],
     [
-      "Vibe-Coded Ext4 for OpenBSD",
-      "https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/"
+      "Capability-Based Security for Redox: Namespace and CWD as Capabilities",
+      "https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "AI got the blame for the Iran school bombing. The truth is more worrying",
       "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 16:11:27",
-      "https://news.ycombinator.com/item?id=47544614"
-    ],
-    [
-      "Apple says no one using Lockdown Mode has been hacked with spyware",
-      "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-03-27, 07:00:49",
-      "https://news.ycombinator.com/item?id=47539767"
-    ],
-    [
-      "The European AllSky7 fireball network",
-      "https://www.allsky7.net/#archive"
-    ]
-  ],
-  [
-    [
       "2026-03-27, 04:47:15",
       "https://news.ycombinator.com/item?id=47539188"
     ],
@@ -217,6 +207,16 @@
     [
       "21,864 Yugoslavian .yu domains",
       "https://jacobfilipp.com/yu/"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 19:05:37",
+      "https://news.ycombinator.com/item?id=47507576"
+    ],
+    [
+      "Solving Semantle with the Wrong Embeddings",
+      "https://victoriaritvo.com/blog/robust-semantle-solver/"
     ]
   ],
   [
