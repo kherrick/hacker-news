@@ -31,6 +31,7 @@
 * [2026-03-23, 18:40:58](https://news.ycombinator.com/item?id=47493460) - [I tried Karpathy's Autoresearch on an old research project](https://ykumar.me/blog/eclip-autoresearch/)
 * [2026-03-23, 18:19:05](https://news.ycombinator.com/item?id=47493194) - [AI Risks \"Hypernormal\" Science](https://www.asimov.press/p/ai-science)
 * [2026-03-23, 17:35:38](https://news.ycombinator.com/item?id=47492599) - [US govt pays TotalEnergies nearly $1B to stop US offshore wind projects](https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html)
+* [2026-03-23, 17:30:34](https://news.ycombinator.com/item?id=47492542) - [What Does a Hologram Trademark Signify When the Hologram Isn't There?](https://blog.ericgoldman.org/archives/2026/03/what-does-a-hologram-trademark-signify-when-the-hologram-isnt-there-upper-deck-v-pixels.htm)
 * [2026-03-23, 16:39:53](https://news.ycombinator.com/item?id=47491848) - [More precise elevation data for GraphHopper routing engine](https://www.graphhopper.com/blog/2026/03/23/more-precise-elevation-data-for-graphhopper/)
 * [2026-03-23, 16:13:40](https://news.ycombinator.com/item?id=47491496) - [Is it a pint?](https://isitapint.com/)
 * [2026-03-23, 16:12:55](https://news.ycombinator.com/item?id=47491481) - [The Mystery of Rennes-Le-Château, Part 1: The Priest's Treasure](https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-1-the-priests-treasure/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-26](index.md)
 
+* [2026-03-26, 23:33:53](https://news.ycombinator.com/item?id=47537228) - [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk)
 * [2026-03-26, 23:18:38](https://news.ycombinator.com/item?id=47537106) - [Chicago artist creates tourism posters for city's neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/)
 * [2026-03-26, 23:11:45](https://news.ycombinator.com/item?id=47537051) - [Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf)
 * [2026-03-26, 22:41:25](https://news.ycombinator.com/item?id=47536761) - [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
@@ -22,6 +23,7 @@
 * [2026-03-26, 18:58:19](https://news.ycombinator.com/item?id=47534283) - [Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3](https://github.com/russellromney/turbolite)
 * [2026-03-26, 18:38:50](https://news.ycombinator.com/item?id=47534086) - [John Bradley, author of xv, has passed away](https://voxday.net/2026/03/25/rip-john-bradley/)
 * [2026-03-26, 17:51:42](https://news.ycombinator.com/item?id=47533555) - [Taming LLMs: Using Executable Oracles to Prevent Bad Code](https://john.regehr.org/writing/zero_dof_programming.html)
+* [2026-03-26, 17:31:24](https://news.ycombinator.com/item?id=47533297) - [$500 GPU outperforms Claude Sonnet on coding benchmarks](https://github.com/itigges22/ATLAS)
 * [2026-03-26, 17:29:58](https://news.ycombinator.com/item?id=47533283) - [Colibri – chat platform built on the AT Protocol for communities big and small](https://colibri.social/)
 * [2026-03-26, 17:21:50](https://news.ycombinator.com/item?id=47533160) - [The Oxford Comma – Why and Why Not](https://www.deborahcourtbooks.com/post/the-oxford-comma-why-and-why-not)
 * [2026-03-26, 17:16:21](https://news.ycombinator.com/item?id=47533090) - [Building a Blog with Elixir and Phoenix](https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix)
