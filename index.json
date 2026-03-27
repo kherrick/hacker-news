@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-27, 19:15:19",
+      "https://news.ycombinator.com/item?id=47547009"
+    ],
+    [
+      "Make macOS consistently bad (unironically)",
+      "https://lr0.org/blog/p/macos/"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 18:51:06",
       "https://news.ycombinator.com/item?id=47546732"
     ],
@@ -11,42 +21,12 @@
   ],
   [
     [
-      "2026-03-27, 18:13:57",
-      "https://news.ycombinator.com/item?id=47546265"
+      "2026-03-27, 16:56:41",
+      "https://news.ycombinator.com/item?id=47545223"
     ],
     [
-      "PyPI package telnyx has been compromised in yet another supply chain attack",
-      "https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-canisterworm"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 17:58:52",
-      "https://news.ycombinator.com/item?id=47546081"
-    ],
-    [
-      "Telnyx Python SDK: Supply Chain Security Notice",
-      "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 17:55:44",
-      "https://news.ycombinator.com/item?id=47546028"
-    ],
-    [
-      "We broke 92% of SHA-256 – you should start to migrate from it",
-      "https://stateofutopia.com/papers/2/we-broke-92-percent-of-sha-256.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 17:21:11",
-      "https://news.ycombinator.com/item?id=47545594"
-    ],
-    [
-      "Byte Magazine Archive 1975 to 1995",
-      "https://www.worldradiohistory.com/Byte_Magazine.htm"
+      "Browser-based SFX synthesizer using WASM/Zig",
+      "https://knell.medieval.software/studio"
     ]
   ],
   [
@@ -101,6 +81,16 @@
   ],
   [
     [
+      "2026-03-27, 14:40:57",
+      "https://news.ycombinator.com/item?id=47543201"
+    ],
+    [
+      "Last gasps of the rent seeking class?",
+      "https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 14:35:45",
       "https://news.ycombinator.com/item?id=47543139"
     ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=47542644"
     ],
     [
-      "Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot",
+      "Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot",
       "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)"
     ]
   ],
@@ -157,6 +147,16 @@
     [
       "Hold on to Your Hardware",
       "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 08:57:02",
+      "https://news.ycombinator.com/item?id=47540388"
+    ],
+    [
+      "Telnyx package compromised on PyPI",
+      "https://github.com/team-telnyx/telnyx-python/issues/235"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-03-25, 15:46:29",
-      "https://news.ycombinator.com/item?id=47518960"
-    ],
-    [
-      "Why so many control rooms were seafoam green (2025)",
-      "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 15:12:16",
       "https://news.ycombinator.com/item?id=47503853"
     ],
@@ -245,8 +235,18 @@
       "https://news.ycombinator.com/item?id=47500647"
     ],
     [
-      "Can It Resolve Doom? Game Engine in 2k DNS Records",
+      "Can It Resolve DOOM? Game Engine in 2k DNS Records",
       "https://core-jmp.org/2026/03/can-it-resolve-doom-game-engine-in-2000-dns-records/"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 09:23:27",
+      "https://news.ycombinator.com/item?id=47500239"
+    ],
+    [
+      "Ask HN: Founders of estonian e-businesses – is it worth it?",
+      "https://news.ycombinator.com/item?id=47500239"
     ]
   ],
   [
@@ -261,11 +261,21 @@
   ],
   [
     [
+      "2026-03-24, 04:22:15",
+      "https://news.ycombinator.com/item?id=47498571"
+    ],
+    [
+      "Nashville library launches Memory Lab for digitizing home movies",
+      "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies"
+    ]
+  ],
+  [
+    [
       "2026-03-24, 03:08:56",
       "https://news.ycombinator.com/item?id=47498222"
     ],
     [
-      "Embracing Bayesian Methods in Clinical Trials",
+      "Embracing Bayesian methods in clinical trials",
       "https://jamanetwork.com/journals/jama/fullarticle/2847011"
     ]
   ],
@@ -275,7 +285,7 @@
       "https://news.ycombinator.com/item?id=47493677"
     ],
     [
-      "Sand from Different Beaches in the World",
+      "Explore the Hidden World of Sand",
       "https://magnifiedsand.com/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Everything old is new again: memory optimization",
       "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 15:10:43",
-      "https://news.ycombinator.com/item?id=47490609"
-    ],
-    [
-      "How and why to take a logarithm of an image [video]",
-      "https://www.youtube.com/watch?v=ldxFjLJ3rVY"
     ]
   ]
 ]
