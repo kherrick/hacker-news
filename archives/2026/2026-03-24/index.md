@@ -51,6 +51,7 @@
 * [2026-03-24, 10:49:18](https://news.ycombinator.com/item?id=47500823) - [ICE: $45 an Hour to Stand There. TSA: $0 an Hour to Keep You Safe](https://botonomous.ai/featured/government_shutdown/article-v2.html)
 * [2026-03-24, 10:39:21](https://news.ycombinator.com/item?id=47500746) - [Debunking Zswap and Zram Myths](https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html)
 * [2026-03-24, 10:33:54](https://news.ycombinator.com/item?id=47500709) - [LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?](https://dnhkng.github.io/posts/rys-ii/)
+* [2026-03-24, 10:22:51](https://news.ycombinator.com/item?id=47500647) - [Can It Resolve Doom? Game Engine in 2k DNS Records](https://core-jmp.org/2026/03/can-it-resolve-doom-game-engine-in-2000-dns-records/)
 * [2026-03-24, 10:06:02](https://news.ycombinator.com/item?id=47500522) - [curl > /dev/sda: How I made a Linux distro that runs wget | dd](https://astrid.tech/2026/03/24/0/curl-to-dev-sda/)
 * [2026-03-24, 09:36:45](https://news.ycombinator.com/item?id=47500337) - [Local Bernstein theory, and lower bounds for Lebesgue constants](https://terrytao.wordpress.com/2026/03/23/local-bernstein-theory-and-lower-bounds-for-lebesgue-constants/)
 * [2026-03-24, 09:36:29](https://news.ycombinator.com/item?id=47500335) - [Microsoft's \"Fix\" for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/)

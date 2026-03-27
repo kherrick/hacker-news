@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 18:51:06](https://news.ycombinator.com/item?id=47546732) - [Vibe-Coded Ext4 for OpenBSD](https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/)
+* [2026-03-27, 18:13:57](https://news.ycombinator.com/item?id=47546265) - [PyPI package telnyx has been compromised in yet another supply chain attack](https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-canisterworm)
+* [2026-03-27, 17:58:52](https://news.ycombinator.com/item?id=47546081) - [Telnyx Python SDK: Supply Chain Security Notice](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026)
+* [2026-03-27, 17:55:44](https://news.ycombinator.com/item?id=47546028) - [We broke 92% of SHA-256 – you should start to migrate from it](https://stateofutopia.com/papers/2/we-broke-92-percent-of-sha-256.html)
+* [2026-03-27, 17:21:11](https://news.ycombinator.com/item?id=47545594) - [Byte Magazine Archive 1975 to 1995](https://www.worldradiohistory.com/Byte_Magazine.htm)
 * [2026-03-27, 16:42:02](https://news.ycombinator.com/item?id=47545032) - [Iran-linked hackers have breached FBI director's personal emails](https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel)
 * [2026-03-27, 16:41:59](https://news.ycombinator.com/item?id=47545030) - [I am leaving the AI party after one drink](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
 * [2026-03-27, 16:39:32](https://news.ycombinator.com/item?id=47544980) - [AI got the blame for the Iran school bombing. The truth is more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
