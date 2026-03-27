@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-27, 10:27:28](https://news.ycombinator.com/item?id=47540929) - [Should QA Exist](https://www.rubick.com/should-qa-exist/)
 * [2026-03-27, 10:10:41](https://news.ycombinator.com/item?id=47540833) - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
 * [2026-03-27, 07:12:26](https://news.ycombinator.com/item?id=47539825) - [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/)
 * [2026-03-27, 07:00:49](https://news.ycombinator.com/item?id=47539767) - [The European AllSky7 fireball network](https://www.allsky7.net/#archive)
@@ -9,6 +8,7 @@
 * [2026-03-26, 22:41:25](https://news.ycombinator.com/item?id=47536761) - [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 * [2026-03-26, 22:36:41](https://news.ycombinator.com/item?id=47536712) - [We rewrote JSONata with AI in a day, saved $500k/year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 * [2026-03-26, 21:37:15](https://news.ycombinator.com/item?id=47536110) - [Anthropic Subprocessor Changes](https://trust.anthropic.com)
+* [2026-03-26, 21:36:51](https://news.ycombinator.com/item?id=47536102) - [An unstoppable mushroom is tearing through North American forests](https://www.bbc.com/future/article/20260325-an-unstoppable-mushroom-is-tearing-through-north-american-forests)
 * [2026-03-26, 21:04:50](https://news.ycombinator.com/item?id=47535708) - [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/)
 * [2026-03-26, 20:58:04](https://news.ycombinator.com/item?id=47535626) - [Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer](https://github.com/ViciousSquid/Fio)
 * [2026-03-26, 20:23:10](https://news.ycombinator.com/item?id=47535249) - [Using FireWire on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/)

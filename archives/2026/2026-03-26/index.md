@@ -11,6 +11,7 @@
 * [2026-03-26, 22:36:41](https://news.ycombinator.com/item?id=47536712) - [We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 * [2026-03-26, 21:55:04](https://news.ycombinator.com/item?id=47536316) - [Iran oil revenue soars as it's the only exporter out of Hormuz](https://financialpost.com/commodities/energy/oil-gas/iran-oil-revenue-soars-hormuz)
 * [2026-03-26, 21:37:15](https://news.ycombinator.com/item?id=47536110) - [Anthropic Subprocessor Changes](https://trust.anthropic.com)
+* [2026-03-26, 21:36:51](https://news.ycombinator.com/item?id=47536102) - [An unstoppable mushroom is tearing through North American forests](https://www.bbc.com/future/article/20260325-an-unstoppable-mushroom-is-tearing-through-north-american-forests)
 * [2026-03-26, 21:04:50](https://news.ycombinator.com/item?id=47535708) - [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/)
 * [2026-03-26, 20:58:04](https://news.ycombinator.com/item?id=47535626) - [Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer](https://github.com/ViciousSquid/Fio)
 * [2026-03-26, 20:53:54](https://news.ycombinator.com/item?id=47535586) - [Deploytarot.com – tarot card reading for deployments](https://deploytarot.com/setup)
