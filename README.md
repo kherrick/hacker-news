@@ -21,7 +21,6 @@
 * [2026-03-26, 16:14:56](https://news.ycombinator.com/item?id=47532339) - [OpenTelemetry profiles enters public alpha](https://opentelemetry.io/blog/2026/profiles-alpha/)
 * [2026-03-26, 15:48:40](https://news.ycombinator.com/item?id=47531967) - [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/)
 * [2026-03-26, 07:27:11](https://news.ycombinator.com/item?id=47527590) - [Swift 6.3](https://www.swift.org/blog/swift-6.3-released/)
-* [2026-03-26, 00:28:38](https://news.ycombinator.com/item?id=47525243) - [Shell Tricks That Make Life Easier (and Save Your Sanity)](https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/)
 * [2026-03-25, 21:11:57](https://news.ycombinator.com/item?id=47523330) - [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
 * [2026-03-25, 15:46:29](https://news.ycombinator.com/item?id=47518960) - [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam)
 * [2026-03-24, 16:54:10](https://news.ycombinator.com/item?id=47505670) - [HyperAgents: Self-referential self-improving agents](https://github.com/facebookresearch/hyperagents)
@@ -30,6 +29,7 @@
 * [2026-03-23, 15:17:38](https://news.ycombinator.com/item?id=47490705) - [DOOM Over DNS](https://github.com/resumex/doom-over-dns)
 * [2026-03-23, 13:51:03](https://news.ycombinator.com/item?id=47489535) - [Generators in Lone Lisp](https://www.matheusmoreira.com/articles/generators-in-lone-lisp)
 * [2026-03-23, 13:24:59](https://news.ycombinator.com/item?id=47489213) - [Dobase – Your workspace, your server](https://dobase.co/)
+* [2026-03-23, 08:25:55](https://news.ycombinator.com/item?id=47486705) - [Chopping my brain into bits – turning my brain into a 3D model on the web](https://srg.id.au/posts/brain/)
 
 ## [Archives](archives/index.md)
 

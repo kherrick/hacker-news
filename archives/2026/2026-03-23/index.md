@@ -62,6 +62,7 @@
 * [2026-03-23, 09:02:05](https://news.ycombinator.com/item?id=47486916) - [Digs: Offline-first iOS app to browse your Discogs vinyl collection](https://lustin.fr/blog/building-digs/)
 * [2026-03-23, 09:01:55](https://news.ycombinator.com/item?id=47486915) - [Dataframe 1.0.0.0](https://discourse.haskell.org/t/ann-dataframe-1-0-0-0/13834)
 * [2026-03-23, 08:29:27](https://news.ycombinator.com/item?id=47486726) - [POSSE](https://indieweb.org/POSSE)
+* [2026-03-23, 08:25:55](https://news.ycombinator.com/item?id=47486705) - [Chopping my brain into bits – turning my brain into a 3D model on the web](https://srg.id.au/posts/brain/)
 * [2026-03-23, 08:21:57](https://news.ycombinator.com/item?id=47486680) - [Show HN: The King Wen Permutation: [52, 10, 2]](https://gzw1987-bit.github.io/iching-math/)
 * [2026-03-23, 08:16:34](https://news.ycombinator.com/item?id=47486644) - [White-Collar AI Apocalypse Narrative Is Just Another Bullshit](https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/)
 * [2026-03-23, 07:55:41](https://news.ycombinator.com/item?id=47486520) - [Scott Hanselman says he's working on Windows local accounts](https://twitter.com/shanselman/status/2035110958314745891)
