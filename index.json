@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-27, 21:04:51",
+      "https://news.ycombinator.com/item?id=47548243"
+    ],
+    [
+      "If you don't opt out by Apr 24 GitHub will train on your private repos",
+      "https://news.ycombinator.com/item?id=47548243"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 20:51:03",
+      "https://news.ycombinator.com/item?id=47548087"
+    ],
+    [
+      "Slovenia becomes first EU country to introduce fuel rationing",
+      "https://www.bbc.com/news/articles/c77m4zx6zvmo"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 20:44:33",
+      "https://news.ycombinator.com/item?id=47548013"
+    ],
+    [
+      "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
+      "https://github.com/davidmonterocrespo24/velxio"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 20:02:05",
       "https://news.ycombinator.com/item?id=47547508"
     ],
@@ -27,16 +57,6 @@
     [
       "Capability-Based Security for Redox: Namespace and CWD as Capabilities",
       "https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 17:32:48",
-      "https://news.ycombinator.com/item?id=47545748"
-    ],
-    [
-      "Some uncomfortable truths about AI coding agents",
-      "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-03-27, 12:46:49",
-      "https://news.ycombinator.com/item?id=47542057"
-    ],
-    [
-      "The 'paperwork flood': How I drowned a bureaucrat before dinner",
-      "https://sightlessscribbles.com/posts/the-paperwork-flood/"
-    ]
-  ],
-  [
-    [
       "2026-03-27, 10:27:28",
       "https://news.ycombinator.com/item?id=47540929"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-03-24, 19:05:37",
-      "https://news.ycombinator.com/item?id=47507576"
-    ],
-    [
-      "Solving Semantle with the Wrong Embeddings",
-      "https://victoriaritvo.com/blog/robust-semantle-solver/"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 15:12:16",
       "https://news.ycombinator.com/item?id=47503853"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-03-23, 21:18:53",
+      "https://news.ycombinator.com/item?id=47495245"
+    ],
+    [
+      "LG's new 1Hz display is the secret behind a new laptop's battery life",
+      "https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html"
+    ]
+  ],
+  [
+    [
       "2026-03-23, 18:59:03",
       "https://news.ycombinator.com/item?id=47493677"
     ],
     [
       "Explore the Hidden World of Sand",
       "https://magnifiedsand.com/"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 18:22:33",
-      "https://news.ycombinator.com/item?id=47493246"
-    ],
-    [
-      "Everything old is new again: memory optimization",
-      "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html"
     ]
   ]
 ]
