@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-27, 07:12:26](https://news.ycombinator.com/item?id=47539825) - [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/)
+* [2026-03-27, 07:00:49](https://news.ycombinator.com/item?id=47539767) - [The European AllSky7 fireball network](https://www.allsky7.net/#archive)
 * [2026-03-27, 04:47:15](https://news.ycombinator.com/item?id=47539188) - [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks)
-* [2026-03-27, 02:19:12](https://news.ycombinator.com/item?id=47538433) - [HandyMKV for MakeMKV and HandBrake Automation](https://github.com/dmars8047/handymkv)
 * [2026-03-27, 01:47:55](https://news.ycombinator.com/item?id=47538190) - [Agent-to-agent pair programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming)
 * [2026-03-27, 01:32:10](https://news.ycombinator.com/item?id=47538078) - [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3)
 * [2026-03-26, 23:18:38](https://news.ycombinator.com/item?id=47537106) - [Chicago artist creates tourism posters for city's neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/)
@@ -12,7 +13,6 @@
 * [2026-03-26, 20:58:04](https://news.ycombinator.com/item?id=47535626) - [Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer](https://github.com/ViciousSquid/Fio)
 * [2026-03-26, 20:23:10](https://news.ycombinator.com/item?id=47535249) - [Using FireWire on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/)
 * [2026-03-26, 19:48:05](https://news.ycombinator.com/item?id=47534848) - [We haven't seen the worst of what gambling and prediction markets will do](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
-* [2026-03-26, 19:30:35](https://news.ycombinator.com/item?id=47534629) - [CERN to host a new phase of Open Research Europe](https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform)
 * [2026-03-26, 19:25:19](https://news.ycombinator.com/item?id=47534564) - [Chroma Context-1: Training a Self-Editing Search Agent](https://www.trychroma.com/research/context-1)
 * [2026-03-26, 18:58:19](https://news.ycombinator.com/item?id=47534283) - [Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3](https://github.com/russellromney/turbolite)
 * [2026-03-26, 18:38:50](https://news.ycombinator.com/item?id=47534086) - [John Bradley, author of xv, has died](https://voxday.net/2026/03/25/rip-john-bradley/)
@@ -26,10 +26,10 @@
 * [2026-03-24, 16:54:10](https://news.ycombinator.com/item?id=47505670) - [HyperAgents: Self-referential self-improving agents](https://github.com/facebookresearch/hyperagents)
 * [2026-03-23, 21:13:16](https://news.ycombinator.com/item?id=47495190) - [Whistler: Live eBPF Programming from the Common Lisp REPL](https://atgreen.github.io/repl-yell/posts/whistler/)
 * [2026-03-23, 17:56:31](https://news.ycombinator.com/item?id=47492894) - [The Legibility of Serif and Sans Serif Typefaces (2022)](https://library.oapen.org//handle/20.500.12657/53344)
+* [2026-03-23, 17:54:51](https://news.ycombinator.com/item?id=47492871) - [Show HN: Minimalist library to generate SVG views of scientific data](https://github.com/alefore/mini_svg/)
 * [2026-03-23, 15:17:38](https://news.ycombinator.com/item?id=47490705) - [DOOM Over DNS](https://github.com/resumex/doom-over-dns)
 * [2026-03-23, 13:51:03](https://news.ycombinator.com/item?id=47489535) - [Generators in Lone Lisp](https://www.matheusmoreira.com/articles/generators-in-lone-lisp)
 * [2026-03-23, 13:24:59](https://news.ycombinator.com/item?id=47489213) - [Dobase – Your workspace, your server](https://dobase.co/)
-* [2026-03-23, 08:25:55](https://news.ycombinator.com/item?id=47486705) - [Chopping my brain into bits – turning my brain into a 3D model on the web](https://srg.id.au/posts/brain/)
 
 ## [Archives](archives/index.md)
 
