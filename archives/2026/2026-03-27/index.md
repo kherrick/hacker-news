@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 13:57:36](https://news.ycombinator.com/item?id=47542722) - [Hong Kong Police Can Now Demand Phone Passwords Under New Security Rules](https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules)
 * [2026-03-27, 12:46:49](https://news.ycombinator.com/item?id=47542057) - [The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner](https://sightlessscribbles.com/posts/the-paperwork-flood/)
 * [2026-03-27, 10:27:28](https://news.ycombinator.com/item?id=47540929) - [Should QA Exist](https://www.rubick.com/should-qa-exist/)
 * [2026-03-27, 10:10:41](https://news.ycombinator.com/item?id=47540833) - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
