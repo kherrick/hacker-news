@@ -4,7 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 14:53:43](https://news.ycombinator.com/item?id=47543361) - [Rising Air-Conditioning Use Intensifies Global Warming](https://www.nature.com/articles/s41467-026-69393-1)
+* [2026-03-27, 14:44:42](https://news.ycombinator.com/item?id=47543247) - [Rank the 50 best Apple products](https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products)
+* [2026-03-27, 14:40:06](https://news.ycombinator.com/item?id=47543189) - [Anthropic's Claude loses its >99% uptime in Q1 2026](https://bsky.app/profile/teropa.bsky.social/post/3mi2dbt27m226)
+* [2026-03-27, 14:38:28](https://news.ycombinator.com/item?id=47543167) - [Iran-linked hackers claim breach of FBI director's personal email](https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/)
+* [2026-03-27, 14:35:45](https://news.ycombinator.com/item?id=47543139) - [Anatomy of the .claude/ Folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
+* [2026-03-27, 14:15:45](https://news.ycombinator.com/item?id=47542916) - [Author of Red Mars calls 'bullshit' on emigrating to the planet](https://www.newscientist.com/article/2520312-author-of-red-mars-calls-bullshit-on-emigrating-to-the-planet/)
 * [2026-03-27, 13:57:36](https://news.ycombinator.com/item?id=47542722) - [Hong Kong Police Can Now Demand Phone Passwords Under New Security Rules](https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules)
+* [2026-03-27, 13:54:35](https://news.ycombinator.com/item?id=47542695) - [People inside Microsoft are fighting to drop mandatory Microsoft Account](https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup)
+* [2026-03-27, 13:49:51](https://news.ycombinator.com/item?id=47542644) - [Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot](https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare))
 * [2026-03-27, 12:46:49](https://news.ycombinator.com/item?id=47542057) - [The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner](https://sightlessscribbles.com/posts/the-paperwork-flood/)
 * [2026-03-27, 10:27:28](https://news.ycombinator.com/item?id=47540929) - [Should QA Exist](https://www.rubick.com/should-qa-exist/)
 * [2026-03-27, 10:10:41](https://news.ycombinator.com/item?id=47540833) - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
