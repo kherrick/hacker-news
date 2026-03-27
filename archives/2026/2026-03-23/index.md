@@ -39,6 +39,7 @@
 * [2026-03-23, 16:12:55](https://news.ycombinator.com/item?id=47491481) - [The Mystery of Rennes-Le-Château, Part 1: The Priest's Treasure](https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-1-the-priests-treasure/)
 * [2026-03-23, 16:11:03](https://news.ycombinator.com/item?id=47491466) - [Show HN: Cq – Stack Overflow for AI coding agents](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
 * [2026-03-23, 16:08:01](https://news.ycombinator.com/item?id=47491414) - [Show HN: Threadprocs – executables sharing one address space (0-copy pointers)](https://github.com/jer-irl/threadprocs)
+* [2026-03-23, 15:30:23](https://news.ycombinator.com/item?id=47490871) - [21,864 Yugoslavian .yu Domains](https://jacobfilipp.com/yu/)
 * [2026-03-23, 15:25:04](https://news.ycombinator.com/item?id=47490816) - [Cyber.mil serving file downloads using TLS certificate which expired 3 days ago](https://www.cyber.mil/stigs/downloads)
 * [2026-03-23, 15:17:38](https://news.ycombinator.com/item?id=47490705) - [Doom entirely from DNS records](https://github.com/resumex/doom-over-dns)
 * [2026-03-23, 15:13:22](https://news.ycombinator.com/item?id=47490648) - [An Incoherent Rust](https://www.boxyuwu.blog/posts/an-incoherent-rust/)
