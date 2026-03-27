@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-26, 23:33:53",
+      "https://news.ycombinator.com/item?id=47537228"
+    ],
+    [
+      "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+      "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk"
+    ]
+  ],
+  [
+    [
       "2026-03-26, 23:18:38",
       "https://news.ycombinator.com/item?id=47537106"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2026-03-26, 22:36:41",
-      "https://news.ycombinator.com/item?id=47536712"
-    ],
-    [
-      "We Rewrote JSONata with AI in a Day, Saved $500K/Year",
-      "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 21:37:15",
       "https://news.ycombinator.com/item?id=47536110"
     ],
@@ -65,18 +65,8 @@
       "https://news.ycombinator.com/item?id=47535586"
     ],
     [
-      "Deploytarot.com – tarot card reading for deployments",
+      "DeployTarot.com – Tarot card reading for deployments",
       "https://deploytarot.com/setup"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 20:35:04",
-      "https://news.ycombinator.com/item?id=47535371"
-    ],
-    [
-      "New York City hospitals drop Palantir as controversial AI firm expands in UK",
-      "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai"
     ]
   ],
   [
@@ -141,22 +131,12 @@
   ],
   [
     [
-      "2026-03-26, 17:51:42",
-      "https://news.ycombinator.com/item?id=47533555"
+      "2026-03-26, 17:31:24",
+      "https://news.ycombinator.com/item?id=47533297"
     ],
     [
-      "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
-      "https://john.regehr.org/writing/zero_dof_programming.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 17:29:58",
-      "https://news.ycombinator.com/item?id=47533283"
-    ],
-    [
-      "Colibri – chat platform built on the AT Protocol for communities big and small",
-      "https://colibri.social/"
+      "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+      "https://github.com/itigges22/ATLAS"
     ]
   ],
   [
@@ -187,6 +167,16 @@
     [
       "My minute-by-minute response to the LiteLLM malware attack",
       "https://futuresearch.ai/blog/litellm-attack-transcript/"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 14:32:34",
+      "https://news.ycombinator.com/item?id=47530945"
+    ],
+    [
+      "Olympic Committee bars transgender athletes from women’s events",
+      "https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html"
     ]
   ],
   [
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2026-03-23, 17:30:34",
+      "https://news.ycombinator.com/item?id=47492542"
+    ],
+    [
+      "What Does a Hologram Trademark Signify When the Hologram Isn't There?",
+      "https://blog.ericgoldman.org/archives/2026/03/what-does-a-hologram-trademark-signify-when-the-hologram-isnt-there-upper-deck-v-pixels.htm"
+    ]
+  ],
+  [
+    [
       "2026-03-23, 15:17:38",
       "https://news.ycombinator.com/item?id=47490705"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-03-23, 12:45:57",
-      "https://news.ycombinator.com/item?id=47488726"
+      "2026-03-23, 13:56:54",
+      "https://news.ycombinator.com/item?id=47489620"
     ],
     [
-      "Non-Messing-Up++: Diagonal Sorting and Young Tableaux",
-      "https://winwang.blog/posts/non-messing-up++"
+      "My home network observes bedtime with OpenBSD and pf",
+      "https://ratfactor.com/openbsd/pf-gateway-bedtime"
     ]
   ]
 ]
