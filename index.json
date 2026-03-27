@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-03-27, 07:12:26",
+      "https://news.ycombinator.com/item?id=47539825"
+    ],
+    [
+      "A Faster Alternative to Jq",
+      "https://micahkepe.com/blog/jsongrep/"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 07:00:49",
+      "https://news.ycombinator.com/item?id=47539767"
+    ],
+    [
+      "The European AllSky7 fireball network",
+      "https://www.allsky7.net/#archive"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 04:47:15",
       "https://news.ycombinator.com/item?id=47539188"
     ],
     [
       "Schedule tasks on the web",
       "https://code.claude.com/docs/en/web-scheduled-tasks"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 02:19:12",
-      "https://news.ycombinator.com/item?id=47538433"
-    ],
-    [
-      "HandyMKV for MakeMKV and HandBrake Automation",
-      "https://github.com/dmars8047/handymkv"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "We haven't seen the worst of what gambling and prediction markets will do",
       "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 19:30:35",
-      "https://news.ycombinator.com/item?id=47534629"
-    ],
-    [
-      "CERN to host a new phase of Open Research Europe",
-      "https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-03-23, 17:54:51",
+      "https://news.ycombinator.com/item?id=47492871"
+    ],
+    [
+      "Show HN: Minimalist library to generate SVG views of scientific data",
+      "https://github.com/alefore/mini_svg/"
+    ]
+  ],
+  [
+    [
       "2026-03-23, 15:17:38",
       "https://news.ycombinator.com/item?id=47490705"
     ],
@@ -287,16 +297,6 @@
     [
       "Dobase – Your workspace, your server",
       "https://dobase.co/"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 08:25:55",
-      "https://news.ycombinator.com/item?id=47486705"
-    ],
-    [
-      "Chopping my brain into bits – turning my brain into a 3D model on the web",
-      "https://srg.id.au/posts/brain/"
     ]
   ]
 ]
