@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 19:15:19](https://news.ycombinator.com/item?id=47547009) - [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/)
 * [2026-03-27, 18:51:06](https://news.ycombinator.com/item?id=47546732) - [Vibe-Coded Ext4 for OpenBSD](https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/)
 * [2026-03-27, 18:13:57](https://news.ycombinator.com/item?id=47546265) - [PyPI package telnyx has been compromised in yet another supply chain attack](https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-canisterworm)
 * [2026-03-27, 17:58:52](https://news.ycombinator.com/item?id=47546081) - [Telnyx Python SDK: Supply Chain Security Notice](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026)
 * [2026-03-27, 17:55:44](https://news.ycombinator.com/item?id=47546028) - [We broke 92% of SHA-256 – you should start to migrate from it](https://stateofutopia.com/papers/2/we-broke-92-percent-of-sha-256.html)
 * [2026-03-27, 17:21:11](https://news.ycombinator.com/item?id=47545594) - [Byte Magazine Archive 1975 to 1995](https://www.worldradiohistory.com/Byte_Magazine.htm)
+* [2026-03-27, 16:56:41](https://news.ycombinator.com/item?id=47545223) - [Browser-based SFX synthesizer using WASM/Zig](https://knell.medieval.software/studio)
 * [2026-03-27, 16:42:02](https://news.ycombinator.com/item?id=47545032) - [Iran-linked hackers have breached FBI director's personal emails](https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel)
 * [2026-03-27, 16:41:59](https://news.ycombinator.com/item?id=47545030) - [I am leaving the AI party after one drink](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
 * [2026-03-27, 16:39:32](https://news.ycombinator.com/item?id=47544980) - [AI got the blame for the Iran school bombing. The truth is more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
@@ -30,6 +32,7 @@
 * [2026-03-27, 12:46:49](https://news.ycombinator.com/item?id=47542057) - [The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner](https://sightlessscribbles.com/posts/the-paperwork-flood/)
 * [2026-03-27, 10:27:28](https://news.ycombinator.com/item?id=47540929) - [Should QA Exist](https://www.rubick.com/should-qa-exist/)
 * [2026-03-27, 10:10:41](https://news.ycombinator.com/item?id=47540833) - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
+* [2026-03-27, 08:57:02](https://news.ycombinator.com/item?id=47540388) - [Telnyx package compromised on PyPI](https://github.com/team-telnyx/telnyx-python/issues/235)
 * [2026-03-27, 08:55:43](https://news.ycombinator.com/item?id=47540383) - [Suddenly energy independence feels practical:Europeans building mini solar farms](https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho)
 * [2026-03-27, 07:12:26](https://news.ycombinator.com/item?id=47539825) - [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/)
 * [2026-03-27, 07:00:49](https://news.ycombinator.com/item?id=47539767) - [The European AllSky7 fireball network](https://www.allsky7.net/#archive)
