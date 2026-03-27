@@ -44,6 +44,7 @@
 * [2026-03-23, 15:25:04](https://news.ycombinator.com/item?id=47490816) - [Cyber.mil serving file downloads using TLS certificate which expired 3 days ago](https://www.cyber.mil/stigs/downloads)
 * [2026-03-23, 15:17:38](https://news.ycombinator.com/item?id=47490705) - [Doom entirely from DNS records](https://github.com/resumex/doom-over-dns)
 * [2026-03-23, 15:13:22](https://news.ycombinator.com/item?id=47490648) - [An Incoherent Rust](https://www.boxyuwu.blog/posts/an-incoherent-rust/)
+* [2026-03-23, 15:10:43](https://news.ycombinator.com/item?id=47490609) - [This picture broke my brain [3B1B video]](https://www.youtube.com/watch?v=ldxFjLJ3rVY)
 * [2026-03-23, 14:52:52](https://news.ycombinator.com/item?id=47490365) - [If Dspy is so great, why isn't anyone using it?](https://skylarbpayne.com/posts/dspy-engineering-patterns/)
 * [2026-03-23, 14:36:30](https://news.ycombinator.com/item?id=47490150) - [Study: 'Security Fatigue' May Weaken Digital Defenses](https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses)
 * [2026-03-23, 14:30:10](https://news.ycombinator.com/item?id=47490070) - [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412)

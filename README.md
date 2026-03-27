@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-27, 12:46:49](https://news.ycombinator.com/item?id=47542057) - [The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner](https://sightlessscribbles.com/posts/the-paperwork-flood/)
 * [2026-03-27, 10:10:41](https://news.ycombinator.com/item?id=47540833) - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
 * [2026-03-27, 07:12:26](https://news.ycombinator.com/item?id=47539825) - [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/)
 * [2026-03-27, 07:00:49](https://news.ycombinator.com/item?id=47539767) - [The European AllSky7 fireball network](https://www.allsky7.net/#archive)
@@ -14,9 +15,7 @@
 * [2026-03-26, 20:23:10](https://news.ycombinator.com/item?id=47535249) - [Using FireWire on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/)
 * [2026-03-26, 19:48:05](https://news.ycombinator.com/item?id=47534848) - [We haven't seen the worst of what gambling and prediction markets will do](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
 * [2026-03-26, 19:25:19](https://news.ycombinator.com/item?id=47534564) - [Chroma Context-1: Training a Self-Editing Search Agent](https://www.trychroma.com/research/context-1)
-* [2026-03-26, 18:38:50](https://news.ycombinator.com/item?id=47534086) - [John Bradley, author of xv, has died](https://voxday.net/2026/03/25/rip-john-bradley/)
 * [2026-03-26, 17:31:24](https://news.ycombinator.com/item?id=47533297) - [$500 GPU outperforms Claude Sonnet on coding benchmarks](https://github.com/itigges22/ATLAS)
-* [2026-03-26, 17:29:58](https://news.ycombinator.com/item?id=47533283) - [Colibri – chat platform built on the AT Protocol for communities big and small](https://colibri.social/)
 * [2026-03-26, 16:14:56](https://news.ycombinator.com/item?id=47532339) - [OpenTelemetry profiles enters public alpha](https://opentelemetry.io/blog/2026/profiles-alpha/)
 * [2026-03-26, 15:48:40](https://news.ycombinator.com/item?id=47531967) - [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/)
 * [2026-03-25, 21:11:57](https://news.ycombinator.com/item?id=47523330) - [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
@@ -28,6 +27,7 @@
 * [2026-03-23, 17:56:31](https://news.ycombinator.com/item?id=47492894) - [The Legibility of Serif and Sans Serif Typefaces (2022)](https://library.oapen.org//handle/20.500.12657/53344)
 * [2026-03-23, 17:54:51](https://news.ycombinator.com/item?id=47492871) - [Show HN: Minimalist library to generate SVG views of scientific data](https://github.com/alefore/mini_svg/)
 * [2026-03-23, 15:17:38](https://news.ycombinator.com/item?id=47490705) - [DOOM Over DNS](https://github.com/resumex/doom-over-dns)
+* [2026-03-23, 15:10:43](https://news.ycombinator.com/item?id=47490609) - [This picture broke my brain [3B1B video]](https://www.youtube.com/watch?v=ldxFjLJ3rVY)
 * [2026-03-23, 13:51:03](https://news.ycombinator.com/item?id=47489535) - [Generators in Lone Lisp](https://www.matheusmoreira.com/articles/generators-in-lone-lisp)
 * [2026-03-23, 01:16:03](https://news.ycombinator.com/item?id=47484295) - [QRV Operating System: QNX on RISC-V](https://r-tty.blogspot.com/2026/03/qrv-operating-system-first-publication.html)
 
