@@ -1,12 +1,92 @@
 [
   [
     [
+      "2026-03-27, 14:53:43",
+      "https://news.ycombinator.com/item?id=47543361"
+    ],
+    [
+      "Rising Air-Conditioning Use Intensifies Global Warming",
+      "https://www.nature.com/articles/s41467-026-69393-1"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 14:44:42",
+      "https://news.ycombinator.com/item?id=47543247"
+    ],
+    [
+      "Rank the 50 best Apple products",
+      "https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 14:40:06",
+      "https://news.ycombinator.com/item?id=47543189"
+    ],
+    [
+      "Anthropic's Claude loses its >99% uptime in Q1 2026",
+      "https://bsky.app/profile/teropa.bsky.social/post/3mi2dbt27m226"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 14:38:28",
+      "https://news.ycombinator.com/item?id=47543167"
+    ],
+    [
+      "Iran-linked hackers claim breach of FBI director's personal email",
+      "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 14:35:45",
+      "https://news.ycombinator.com/item?id=47543139"
+    ],
+    [
+      "Anatomy of the .claude/ Folder",
+      "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 14:15:45",
+      "https://news.ycombinator.com/item?id=47542916"
+    ],
+    [
+      "Author of Red Mars calls 'bullshit' on emigrating to the planet",
+      "https://www.newscientist.com/article/2520312-author-of-red-mars-calls-bullshit-on-emigrating-to-the-planet/"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 13:57:36",
       "https://news.ycombinator.com/item?id=47542722"
     ],
     [
       "Hong Kong Police Can Now Demand Phone Passwords Under New Security Rules",
       "https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 13:54:35",
+      "https://news.ycombinator.com/item?id=47542695"
+    ],
+    [
+      "People inside Microsoft are fighting to drop mandatory Microsoft Account",
+      "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 13:49:51",
+      "https://news.ycombinator.com/item?id=47542644"
+    ],
+    [
+      "Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot",
+      "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)"
     ]
   ],
   [
@@ -61,16 +141,6 @@
   ],
   [
     [
-      "2026-03-27, 01:47:55",
-      "https://news.ycombinator.com/item?id=47538190"
-    ],
-    [
-      "Agent-to-agent pair programming",
-      "https://axeldelafosse.com/blog/agent-to-agent-pair-programming"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 22:41:25",
       "https://news.ycombinator.com/item?id=47536761"
     ],
@@ -91,26 +161,6 @@
   ],
   [
     [
-      "2026-03-26, 21:37:15",
-      "https://news.ycombinator.com/item?id=47536110"
-    ],
-    [
-      "Anthropic Subprocessor Changes",
-      "https://trust.anthropic.com"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 21:36:51",
-      "https://news.ycombinator.com/item?id=47536102"
-    ],
-    [
-      "An unstoppable mushroom is tearing through North American forests",
-      "https://www.bbc.com/future/article/20260325-an-unstoppable-mushroom-is-tearing-through-north-american-forests"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 21:04:50",
       "https://news.ycombinator.com/item?id=47535708"
     ],
@@ -121,52 +171,12 @@
   ],
   [
     [
-      "2026-03-26, 20:23:10",
-      "https://news.ycombinator.com/item?id=47535249"
-    ],
-    [
-      "Using FireWire on a Raspberry Pi",
-      "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 19:48:05",
-      "https://news.ycombinator.com/item?id=47534848"
-    ],
-    [
-      "We haven't seen the worst of what gambling and prediction markets will do",
-      "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 19:25:19",
-      "https://news.ycombinator.com/item?id=47534564"
-    ],
-    [
-      "Chroma Context-1: Training a Self-Editing Search Agent",
-      "https://www.trychroma.com/research/context-1"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 17:31:24",
       "https://news.ycombinator.com/item?id=47533297"
     ],
     [
       "$500 GPU outperforms Claude Sonnet on coding benchmarks",
       "https://github.com/itigges22/ATLAS"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 16:14:56",
-      "https://news.ycombinator.com/item?id=47532339"
-    ],
-    [
-      "OpenTelemetry profiles enters public alpha",
-      "https://opentelemetry.io/blog/2026/profiles-alpha/"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2026-03-24, 16:54:10",
-      "https://news.ycombinator.com/item?id=47505670"
+      "2026-03-24, 15:12:16",
+      "https://news.ycombinator.com/item?id=47503853"
     ],
     [
-      "HyperAgents: Self-referential self-improving agents",
-      "https://github.com/facebookresearch/hyperagents"
+      "EMachines never obsolete PCs: More than a meme",
+      "https://dfarq.homeip.net/emachines-never-obsolete-pcs-more-than-a-meme/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "This picture broke my brain [3B1B video]",
       "https://www.youtube.com/watch?v=ldxFjLJ3rVY"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 13:51:03",
-      "https://news.ycombinator.com/item?id=47489535"
-    ],
-    [
-      "Generators in Lone Lisp",
-      "https://www.matheusmoreira.com/articles/generators-in-lone-lisp"
     ]
   ],
   [
