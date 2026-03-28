@@ -36,6 +36,7 @@
 * [2026-03-25, 16:24:15](https://news.ycombinator.com/item?id=47519519) - [Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote](https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a)
 * [2026-03-25, 16:07:12](https://news.ycombinator.com/item?id=47519308) - [A Eulogy for Vim](https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html)
 * [2026-03-25, 16:06:34](https://news.ycombinator.com/item?id=47519295) - [Quantization from the Ground Up](https://ngrok.com/blog/quantization)
+* [2026-03-25, 16:04:21](https://news.ycombinator.com/item?id=47519255) - [RSA and Python](https://xnacly.me/posts/2023/rsa/)
 * [2026-03-25, 15:46:44](https://news.ycombinator.com/item?id=47518965) - [Musketeer d'Artagnan's remains believed found under Dutch church](https://www.bbc.co.uk/news/articles/cm2rew2dgzzo)
 * [2026-03-25, 15:46:29](https://news.ycombinator.com/item?id=47518960) - [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam)
 * [2026-03-25, 15:34:02](https://news.ycombinator.com/item?id=47518785) - [Sony V. Cox Decision Reversed](https://supreme.justia.com/cases/federal/us/607/24-171/)
