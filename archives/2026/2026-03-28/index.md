@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-28](index.md)
 
+* [2026-03-28, 22:00:39](https://news.ycombinator.com/item?id=47558496) - [Goldman Sachs now reckons that oil could take out the 2008 record of $147](https://www.ft.com/content/360ca227-4d2a-41a4-a05f-41baedc0f7d2)
 * [2026-03-28, 21:43:00](https://news.ycombinator.com/item?id=47558372) - [Private equity turned vulnerable elderly people into human ATMs](https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms)
 * [2026-03-28, 21:35:22](https://news.ycombinator.com/item?id=47558305) - [InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer](https://inpharmd.com/jobs/senior-ruby-on-rails-engineer)
 * [2026-03-28, 21:18:06](https://news.ycombinator.com/item?id=47558195) - [Ötzi the Iceman's DNA Reveals a Living Relative 5k Years Later](https://blog.familytreedna.com/otzi-the-iceman-dna/)
