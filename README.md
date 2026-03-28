@@ -15,7 +15,6 @@
 * [2026-03-27, 14:35:45](https://news.ycombinator.com/item?id=47543139) - [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
 * [2026-03-27, 13:54:35](https://news.ycombinator.com/item?id=47542695) - [People inside Microsoft are fighting to drop mandatory Microsoft Account](https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup)
 * [2026-03-27, 13:49:51](https://news.ycombinator.com/item?id=47542644) - [Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot](https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare))
-* [2026-03-27, 10:10:41](https://news.ycombinator.com/item?id=47540833) - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
 * [2026-03-27, 08:57:02](https://news.ycombinator.com/item?id=47540388) - [Telnyx package compromised on PyPI](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026)
 * [2026-03-27, 08:55:43](https://news.ycombinator.com/item?id=47540383) - [‘Energy independence feels practical’: Europeans building mini solar farms](https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho)
 * [2026-03-26, 18:03:43](https://news.ycombinator.com/item?id=47533709) - [Building FireStriker: Making Civic Tech Free](https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free)
@@ -25,11 +24,12 @@
 * [2026-03-25, 11:09:21](https://news.ycombinator.com/item?id=47515783) - [.apks are just .zips; semi-legally hacking software for orphaned hardware [video]](https://www.youtube.com/watch?v=P1kfuCkWo24)
 * [2026-03-25, 00:27:59](https://news.ycombinator.com/item?id=47511581) - [Fets and Crosses: Tic-Tac-Toe built from 2458 discrete transistors](https://schilk.co/projects/fetsncrosses/)
 * [2026-03-24, 23:34:06](https://news.ycombinator.com/item?id=47511112) - [Arm releases first in-house chip, with Meta as debut customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
-* [2026-03-24, 22:40:32](https://news.ycombinator.com/item?id=47510561) - [The Interactive Lost Place Map](https://lostfoundations.org/)
+* [2026-03-24, 23:00:02](https://news.ycombinator.com/item?id=47510768) - [Type Construction and Cycle Detection](https://go.dev/blog/type-construction-and-cycle-detection)
 * [2026-03-24, 04:22:15](https://news.ycombinator.com/item?id=47498571) - [Nashville library launches Memory Lab for digitizing home movies](https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies)
 * [2026-03-24, 03:08:56](https://news.ycombinator.com/item?id=47498222) - [Embracing Bayesian methods in clinical trials](https://jamanetwork.com/journals/jama/fullarticle/2847011)
 * [2026-03-23, 21:18:53](https://news.ycombinator.com/item?id=47495245) - [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html)
 * [2026-03-23, 18:59:03](https://news.ycombinator.com/item?id=47493677) - [Explore the Hidden World of Sand](https://magnifiedsand.com/)
+* [2026-03-23, 18:22:33](https://news.ycombinator.com/item?id=47493246) - [Everything old is new again: memory optimization](https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html)
 
 ## [Archives](archives/index.md)
 
