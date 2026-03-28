@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-28, 14:49:25",
+      "https://news.ycombinator.com/item?id=47555090"
+    ],
+    [
+      "Folk are getting dangerously attached to AI that always tells them they're right",
+      "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/"
+    ]
+  ],
+  [
+    [
       "2026-03-28, 14:08:33",
       "https://news.ycombinator.com/item?id=47554773"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-03-27, 20:44:33",
-      "https://news.ycombinator.com/item?id=47548013"
-    ],
-    [
-      "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
-      "https://github.com/davidmonterocrespo24/velxio"
-    ]
-  ],
-  [
-    [
       "2026-03-27, 20:02:05",
       "https://news.ycombinator.com/item?id=47547508"
     ],
@@ -147,16 +147,6 @@
     [
       "Make macOS consistently bad unironically",
       "https://lr0.org/blog/p/macos/"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 14:41:02",
-      "https://news.ycombinator.com/item?id=47543204"
-    ],
-    [
-      "Meow.camera",
-      "https://meow.camera/#4258783365322591678"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
       "https://github.com/dbrll/ATTN-11"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 10:51:48",
+      "https://news.ycombinator.com/item?id=47515652"
+    ],
+    [
+      "C++26: A User-Friednly assert() macro",
+      "https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert"
     ]
   ],
   [
