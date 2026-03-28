@@ -53,6 +53,7 @@
 * [2026-03-26, 10:13:38](https://news.ycombinator.com/item?id=47528605) - [LibreOffice and the Art of Overreacting](https://blog.documentfoundation.org/blog/2026/03/25/libreoffice-and-the-art-of-overreacting/)
 * [2026-03-26, 09:37:56](https://news.ycombinator.com/item?id=47528380) - [Why Sora Failed: $15M/day inference cost vs. $2.1M lifetime revenue](https://www.revolutioninai.com/2026/03/%20chatgpt-gpt-54-mini-silent-switch-march-2026.html)
 * [2026-03-26, 08:41:11](https://news.ycombinator.com/item?id=47528006) - [You probably don't want to buy a retro console](https://medium.com/@razorbeamz/you-probably-dont-want-to-buy-a-retro-console-a-guide-for-people-who-aren-t-freaks-90031659bd21)
+* [2026-03-26, 07:52:39](https://news.ycombinator.com/item?id=47527723) - [Gerard of Cremona](https://en.wikipedia.org/wiki/Gerard_of_Cremona)
 * [2026-03-26, 07:27:11](https://news.ycombinator.com/item?id=47527590) - [Swift 6.3 Released](https://www.swift.org/blog/swift-6.3-released/)
 * [2026-03-26, 07:00:28](https://news.ycombinator.com/item?id=47527399) - [Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn)
 * [2026-03-26, 06:11:01](https://news.ycombinator.com/item?id=47527130) - [Data is everywhere. The government is buying it without a warrant](https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic)
