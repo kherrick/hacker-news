@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-28, 18:38:59",
+      "https://news.ycombinator.com/item?id=47557166"
+    ],
+    [
+      "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "https://twitter.com/BoWang87/status/2037648937453232504"
+    ]
+  ],
+  [
+    [
+      "2026-03-28, 18:21:52",
+      "https://news.ycombinator.com/item?id=47557058"
+    ],
+    [
+      "Improving personal tax filing with Claude CLI and Obsidian",
+      "https://www.mrafayaleem.com/blog/improving-personal-tax-filing-with-claude-obsidian"
+    ]
+  ],
+  [
+    [
       "2026-03-28, 17:39:49",
       "https://news.ycombinator.com/item?id=47556729"
     ],
@@ -17,6 +37,16 @@
     [
       "Linux is an interpreter",
       "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/"
+    ]
+  ],
+  [
+    [
+      "2026-03-28, 16:49:46",
+      "https://news.ycombinator.com/item?id=47556267"
+    ],
+    [
+      "Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms",
+      "https://androwish.org/home/wiki?name=undroidwish"
     ]
   ],
   [
@@ -41,32 +71,12 @@
   ],
   [
     [
-      "2026-03-28, 16:02:59",
-      "https://news.ycombinator.com/item?id=47555814"
-    ],
-    [
-      "Militarized snowflakes: The accidental beauty of Renaissance star forts",
-      "https://bigthink.com/strange-maps/star-forts/"
-    ]
-  ],
-  [
-    [
       "2026-03-28, 15:37:17",
       "https://news.ycombinator.com/item?id=47555556"
     ],
     [
       "I decompiled the White House's new app",
       "https://thereallo.dev/blog/decompiling-the-white-house-app"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 14:49:30",
-      "https://news.ycombinator.com/item?id=47555093"
-    ],
-    [
-      "Show HN: We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA",
-      "https://enlidea.com"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-03-27, 14:38:28",
-      "https://news.ycombinator.com/item?id=47543167"
-    ],
-    [
-      "Iran-linked hackers breach FBI director's personal email",
-      "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/"
-    ]
-  ],
-  [
-    [
       "2026-03-27, 14:35:45",
       "https://news.ycombinator.com/item?id=47543139"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-03-24, 20:29:44",
+      "https://news.ycombinator.com/item?id=47508710"
+    ],
+    [
+      "Detecting file changes on macOS with kqueue",
+      "https://www.vegardstikbakke.com/kqueue/"
+    ]
+  ],
+  [
+    [
       "2026-03-24, 15:02:38",
       "https://news.ycombinator.com/item?id=47503687"
     ],
     [
       "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",
       "https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 21:18:53",
-      "https://news.ycombinator.com/item?id=47495245"
-    ],
-    [
-      "LG's new 1Hz display is the secret behind a new laptop's battery life",
-      "https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html"
     ]
   ]
 ]
