@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-28](index.md)
 
+* [2026-03-28, 17:39:49](https://news.ycombinator.com/item?id=47556729) - [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
 * [2026-03-28, 16:59:34](https://news.ycombinator.com/item?id=47556359) - [Linux Is an Interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
 * [2026-03-28, 16:26:08](https://news.ycombinator.com/item?id=47556033) - [rpg.actor Game Jam](https://rpg.actor/jam)
 * [2026-03-28, 16:23:31](https://news.ycombinator.com/item?id=47556001) - [Circuit-level PDP-11/34 emulator](https://github.com/dbrll/ll-34)
