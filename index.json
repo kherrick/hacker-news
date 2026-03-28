@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-28, 12:01:27",
+      "https://news.ycombinator.com/item?id=47553798"
+    ],
+    [
+      "I put all 8,642 Spanish laws in Git – every reform is a commit",
+      "https://github.com/EnriqueLop/legalize-es"
+    ]
+  ],
+  [
+    [
+      "2026-03-28, 12:01:07",
+      "https://news.ycombinator.com/item?id=47553796"
+    ],
+    [
+      "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
+      "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-03-28, 11:49:28",
+      "https://news.ycombinator.com/item?id=47553717"
+    ],
+    [
+      "I Built an Open-World Engine for the N64 [video]",
+      "https://www.youtube.com/watch?v=lXxmIw9axWw"
+    ]
+  ],
+  [
+    [
       "2026-03-28, 11:13:23",
       "https://news.ycombinator.com/item?id=47553516"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2026-03-28, 10:49:44",
-      "https://news.ycombinator.com/item?id=47553403"
+      "2026-03-28, 11:06:44",
+      "https://news.ycombinator.com/item?id=47553484"
     ],
     [
-      "Treason in the Futures Markets",
-      "https://paulkrugman.substack.com/p/treason-in-the-futures-markets"
+      "Britain today generating 90%+ of electricity from renewables",
+      "https://grid.iamkate.com/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-03-27, 13:54:35",
-      "https://news.ycombinator.com/item?id=47542695"
-    ],
-    [
-      "People inside Microsoft are fighting to drop mandatory Microsoft Account",
-      "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup"
-    ]
-  ],
-  [
-    [
       "2026-03-27, 13:49:51",
       "https://news.ycombinator.com/item?id=47542644"
     ],
@@ -181,22 +201,22 @@
   ],
   [
     [
-      "2026-03-26, 16:48:12",
-      "https://news.ycombinator.com/item?id=47532770"
-    ],
-    [
-      "Improving Composer through real-time RL",
-      "https://cursor.com/blog/real-time-rl-for-composer"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 03:53:47",
       "https://news.ycombinator.com/item?id=47526468"
     ],
     [
       "Desperately Seeking Space Friends",
       "https://reviewcanada.ca/magazine/2026/04/desperately-seeking-space-friends-review-the-pale-blue-data-point/"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 17:49:33",
+      "https://news.ycombinator.com/item?id=47520807"
+    ],
+    [
+      "A single-file C allocator with explicit heaps and tuning knobs",
+      "https://github.com/xtellect/spaces"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-03-25, 11:09:21",
-      "https://news.ycombinator.com/item?id=47515783"
-    ],
-    [
-      ".apks are just .zips; semi-legally hacking software for orphaned hardware [video]",
-      "https://www.youtube.com/watch?v=P1kfuCkWo24"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 23:34:06",
       "https://news.ycombinator.com/item?id=47511112"
     ],
@@ -257,16 +267,6 @@
     [
       "Go Naming Conventions: A Practical Guide",
       "https://www.alexedwards.net/blog/go-naming-conventions"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 09:23:27",
-      "https://news.ycombinator.com/item?id=47500239"
-    ],
-    [
-      "Ask HN: Founders of estonian e-businesses – is it worth it?",
-      "https://news.ycombinator.com/item?id=47500239"
     ]
   ],
   [
