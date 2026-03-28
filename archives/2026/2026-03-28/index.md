@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-03-28](index.md)
 
 * [2026-03-28, 19:06:47](https://news.ycombinator.com/item?id=47557355) - [Nothing new to see here](https://feld.com/archives/2026/03/nothing-new-to-see-here/)
+* [2026-03-28, 18:42:08](https://news.ycombinator.com/item?id=47557185) - [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/)
 * [2026-03-28, 18:38:59](https://news.ycombinator.com/item?id=47557166) - [Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem](https://twitter.com/BoWang87/status/2037648937453232504)
+* [2026-03-28, 18:22:45](https://news.ycombinator.com/item?id=47557064) - [OpenCiv1 – open-source rewrite of Civ1](https://github.com/rajko-horvat/OpenCiv1)
 * [2026-03-28, 18:21:52](https://news.ycombinator.com/item?id=47557058) - [Improving personal tax filing with Claude CLI and Obsidian](https://www.mrafayaleem.com/blog/improving-personal-tax-filing-with-claude-obsidian)
 * [2026-03-28, 17:39:49](https://news.ycombinator.com/item?id=47556729) - [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
 * [2026-03-28, 16:59:34](https://news.ycombinator.com/item?id=47556359) - [Linux Is an Interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
