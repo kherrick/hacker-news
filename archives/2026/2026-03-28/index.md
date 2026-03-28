@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-28](index.md)
 
+* [2026-03-28, 16:59:34](https://news.ycombinator.com/item?id=47556359) - [Linux Is an Interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
 * [2026-03-28, 16:02:59](https://news.ycombinator.com/item?id=47555814) - [Militarized snowflakes: The accidental beauty of Renaissance star forts](https://bigthink.com/strange-maps/star-forts/)
 * [2026-03-28, 15:44:58](https://news.ycombinator.com/item?id=47555636) - [Show HN: Free, in-browser PDF editor](https://breezepdf.com/?v=2)
 * [2026-03-28, 15:37:17](https://news.ycombinator.com/item?id=47555556) - [I decompiled the White House's new app](https://thereallo.dev/blog/decompiling-the-white-house-app)
