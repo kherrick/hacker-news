@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-28, 21:43:00](https://news.ycombinator.com/item?id=47558372) - [Private equity turned vulnerable elderly people into human ATMs](https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms)
 * [2026-03-28, 21:35:22](https://news.ycombinator.com/item?id=47558305) - [InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer](https://inpharmd.com/jobs/senior-ruby-on-rails-engineer)
+* [2026-03-28, 21:18:06](https://news.ycombinator.com/item?id=47558195) - [Ötzi the Iceman's DNA Reveals a Living Relative 5k Years Later](https://blog.familytreedna.com/otzi-the-iceman-dna/)
 * [2026-03-28, 20:39:01](https://news.ycombinator.com/item?id=47557960) - [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
 * [2026-03-28, 20:28:03](https://news.ycombinator.com/item?id=47557901) - [Google just gave Android power users a sideloading win](https://www.androidauthority.com/android-sideload-carry-over-3652845/)
 * [2026-03-28, 18:42:08](https://news.ycombinator.com/item?id=47557185) - [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/)
@@ -20,9 +22,7 @@
 * [2026-03-28, 08:06:19](https://news.ycombinator.com/item?id=47552562) - [CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 * [2026-03-28, 02:17:04](https://news.ycombinator.com/item?id=47550878) - [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
 * [2026-03-28, 00:39:54](https://news.ycombinator.com/item?id=47550282) - [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)
-* [2026-03-25, 17:35:16](https://news.ycombinator.com/item?id=47520599) - [The bee that everyone wants to save](https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/)
 * [2026-03-25, 15:20:08](https://news.ycombinator.com/item?id=47518568) - [Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer](https://github.com/dbrll/ATTN-11)
-* [2026-03-25, 12:29:58](https://news.ycombinator.com/item?id=47516456) - [Nobody Reads Your Setup Docs](https://hanzilla.co/blog/mcp-onboarding-ten-agents-one-command/)
 * [2026-03-25, 11:09:21](https://news.ycombinator.com/item?id=47515783) - [Hacking old hardware by renaming to .zip [video]](https://www.youtube.com/watch?v=P1kfuCkWo24)
 * [2026-03-25, 10:51:48](https://news.ycombinator.com/item?id=47515652) - [C++26: A User-Friednly assert() macro](https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert)
 * [2026-03-25, 05:01:58](https://news.ycombinator.com/item?id=47513482) - [1929: Inside the Greatest Crash in Wall Street History](https://www.nybooks.com/articles/2026/03/26/tick-tick-boom-1929-andrew-ross-sorkin/)
