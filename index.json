@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-28, 17:39:49",
+      "https://news.ycombinator.com/item?id=47556729"
+    ],
+    [
+      "Founder of GitLab battles cancer by founding companies",
+      "https://sytse.com/cancer/"
+    ]
+  ],
+  [
+    [
       "2026-03-28, 16:59:34",
       "https://news.ycombinator.com/item?id=47556359"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47555093"
     ],
     [
-      "We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA",
+      "Show HN: We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA",
       "https://enlidea.com"
     ]
   ],
@@ -67,16 +77,6 @@
     [
       "Folk are getting dangerously attached to AI that always tells them they're right",
       "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 14:30:30",
-      "https://news.ycombinator.com/item?id=47554948"
-    ],
-    [
-      "ICAO issued new power bank restriction on flight",
-      "https://www.icao.int/news/new-power-bank-restrictions-will-safeguard-international-aviation"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=47552562"
     ],
     [
-      "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+      "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
       "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering"
     ]
   ],
