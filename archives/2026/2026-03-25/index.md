@@ -54,6 +54,7 @@
 * [2026-03-25, 12:11:51](https://news.ycombinator.com/item?id=47516297) - [Sports Betting Is Everywhere, Especially on Credit Reports](https://libertystreeteconomics.newyorkfed.org/2026/03/sports-betting-is-everywhere-especially-on-credit-reports/)
 * [2026-03-25, 11:59:36](https://news.ycombinator.com/item?id=47516189) - [Open source isn't a tip jar – it's time to charge for access](https://www.theregister.com/2026/03/25/open_source_bill_opinion/)
 * [2026-03-25, 11:09:21](https://news.ycombinator.com/item?id=47515783) - [.apks are just .zips; semi-legally hacking software for orphaned hardware [video]](https://www.youtube.com/watch?v=P1kfuCkWo24)
+* [2026-03-25, 10:51:48](https://news.ycombinator.com/item?id=47515652) - [C++26: A User-Friednly assert() macro](https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert)
 * [2026-03-25, 10:45:40](https://news.ycombinator.com/item?id=47515605) - [Building a coding agent in Swift from scratch](https://github.com/ivan-magda/swift-claude-code)
 * [2026-03-25, 10:28:49](https://news.ycombinator.com/item?id=47515502) - [I tried to prove I'm not AI. My aunt wasn't convinced](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
 * [2026-03-25, 08:52:50](https://news.ycombinator.com/item?id=47514916) - [Meta told to pay $375M for misleading users over child safety](https://www.bbc.com/news/articles/cql75dn07n2o)
