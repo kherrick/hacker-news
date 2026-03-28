@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-28, 08:06:19](https://news.ycombinator.com/item?id=47552562) - [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 * [2026-03-28, 02:17:04](https://news.ycombinator.com/item?id=47550878) - [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
 * [2026-03-28, 00:39:54](https://news.ycombinator.com/item?id=47550282) - [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)
 * [2026-03-27, 22:22:20](https://news.ycombinator.com/item?id=47549160) - [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
@@ -20,16 +21,15 @@
 * [2026-03-26, 18:03:43](https://news.ycombinator.com/item?id=47533709) - [Building FireStriker: Making Civic Tech Free](https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free)
 * [2026-03-26, 16:48:12](https://news.ycombinator.com/item?id=47532770) - [Improving Composer through real-time RL](https://cursor.com/blog/real-time-rl-for-composer)
 * [2026-03-26, 16:43:33](https://news.ycombinator.com/item?id=47532717) - [Trust Signals as Sparklines for Hacker News](https://hn-trustspark.com/)
+* [2026-03-26, 03:53:47](https://news.ycombinator.com/item?id=47526468) - [Desperately Seeking Space Friends](https://reviewcanada.ca/magazine/2026/04/desperately-seeking-space-friends-review-the-pale-blue-data-point/)
 * [2026-03-25, 19:12:12](https://news.ycombinator.com/item?id=47521845) - [Automatically generate all 3D print files for organizing a drawer](https://geniecrate.com/)
 * [2026-03-25, 17:35:16](https://news.ycombinator.com/item?id=47520599) - [The bee that everyone wants to save](https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/)
 * [2026-03-25, 11:09:21](https://news.ycombinator.com/item?id=47515783) - [.apks are just .zips; semi-legally hacking software for orphaned hardware [video]](https://www.youtube.com/watch?v=P1kfuCkWo24)
 * [2026-03-25, 00:27:59](https://news.ycombinator.com/item?id=47511581) - [Fets and Crosses: Tic-Tac-Toe built from 2458 discrete transistors](https://schilk.co/projects/fetsncrosses/)
 * [2026-03-24, 23:34:06](https://news.ycombinator.com/item?id=47511112) - [Arm releases first in-house chip, with Meta as debut customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
 * [2026-03-24, 04:22:15](https://news.ycombinator.com/item?id=47498571) - [Nashville library launches Memory Lab for digitizing home movies](https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies)
-* [2026-03-24, 03:08:56](https://news.ycombinator.com/item?id=47498222) - [Embracing Bayesian methods in clinical trials](https://jamanetwork.com/journals/jama/fullarticle/2847011)
 * [2026-03-23, 21:18:53](https://news.ycombinator.com/item?id=47495245) - [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html)
 * [2026-03-23, 18:59:03](https://news.ycombinator.com/item?id=47493677) - [Explore the Hidden World of Sand](https://magnifiedsand.com/)
-* [2026-03-23, 18:22:33](https://news.ycombinator.com/item?id=47493246) - [Everything old is new again: memory optimization](https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html)
 
 ## [Archives](archives/index.md)
 

@@ -61,6 +61,7 @@
 * [2026-03-26, 03:55:52](https://news.ycombinator.com/item?id=47526486) - [Show HN: Robust LLM Extractor for Websites in TypeScript](https://github.com/lightfeed/extractor)
 * [2026-03-26, 03:54:27](https://news.ycombinator.com/item?id=47526478) - [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/)
 * [2026-03-26, 03:54:13](https://news.ycombinator.com/item?id=47526473) - [The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)](https://www.metropolitanreview.org/p/the-last-contract)
+* [2026-03-26, 03:53:47](https://news.ycombinator.com/item?id=47526468) - [Desperately Seeking Space Friends](https://reviewcanada.ca/magazine/2026/04/desperately-seeking-space-friends-review-the-pale-blue-data-point/)
 * [2026-03-26, 03:53:40](https://news.ycombinator.com/item?id=47526467) - [The Cassandra of 'The Machine'](https://www.thenewatlantis.com/publications/the-cassandra-of-the-machine)
 * [2026-03-26, 00:46:31](https://news.ycombinator.com/item?id=47525378) - [False claims in a widely-cited paper](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/)
 * [2026-03-26, 00:46:31](https://news.ycombinator.com/item?id=47525378) - [False claims in a widely-cited paper. No corrections. No consequences](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259)
