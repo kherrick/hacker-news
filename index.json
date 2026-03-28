@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-28, 22:00:39",
+      "https://news.ycombinator.com/item?id=47558496"
+    ],
+    [
+      "Goldman Sachs now reckons that oil could take out the 2008 record of $147",
+      "https://www.ft.com/content/360ca227-4d2a-41a4-a05f-41baedc0f7d2"
+    ]
+  ],
+  [
+    [
       "2026-03-28, 21:43:00",
       "https://news.ycombinator.com/item?id=47558372"
     ],
@@ -21,32 +31,12 @@
   ],
   [
     [
-      "2026-03-28, 21:18:06",
-      "https://news.ycombinator.com/item?id=47558195"
-    ],
-    [
-      "Ötzi the Iceman's DNA Reveals a Living Relative 5k Years Later",
-      "https://blog.familytreedna.com/otzi-the-iceman-dna/"
-    ]
-  ],
-  [
-    [
       "2026-03-28, 20:39:01",
       "https://news.ycombinator.com/item?id=47557960"
     ],
     [
       "CSS is DOOMed",
       "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 20:28:03",
-      "https://news.ycombinator.com/item?id=47557901"
-    ],
-    [
-      "Google just gave Android power users a sideloading win",
-      "https://www.androidauthority.com/android-sideload-carry-over-3652845/"
     ]
   ],
   [
@@ -211,12 +201,22 @@
   ],
   [
     [
-      "2026-03-28, 00:39:54",
-      "https://news.ycombinator.com/item?id=47550282"
+      "2026-03-25, 17:35:16",
+      "https://news.ycombinator.com/item?id=47520599"
     ],
     [
-      "Go hard on agents, not on your filesystem",
-      "https://jai.scs.stanford.edu/"
+      "The bee that everyone wants to save",
+      "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 15:20:08",
+      "https://news.ycombinator.com/item?id=47518568"
+    ],
+    [
+      "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
+      "https://github.com/dbrll/ATTN-11"
     ]
   ],
   [
