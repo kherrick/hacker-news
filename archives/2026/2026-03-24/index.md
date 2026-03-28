@@ -41,6 +41,7 @@
 * [2026-03-24, 15:19:19](https://news.ycombinator.com/item?id=47503965) - [LaGuardia pilots raised safety alarms months before deadly runway crash](https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash)
 * [2026-03-24, 15:12:16](https://news.ycombinator.com/item?id=47503853) - [EMachines never obsolete PCs: More than a meme](https://dfarq.homeip.net/emachines-never-obsolete-pcs-more-than-a-meme/)
 * [2026-03-24, 15:09:30](https://news.ycombinator.com/item?id=47503810) - [Epic Games to cut more than 1k jobs as Fortnite usage falls](https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/)
+* [2026-03-24, 15:02:38](https://news.ycombinator.com/item?id=47503687) - [Improved Git Diffs with Delta, Fzf and a Little Shell Scripting](https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting)
 * [2026-03-24, 14:58:27](https://news.ycombinator.com/item?id=47503617) - [Show HN: Gemini can now natively embed video, so I built sub-second video search](https://github.com/ssrajadh/sentrysearch)
 * [2026-03-24, 14:39:20](https://news.ycombinator.com/item?id=47503296) - [The bridge to wealth is being pulled up with AI](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
 * [2026-03-24, 14:19:59](https://news.ycombinator.com/item?id=47503006) - [So where are all the AI apps?](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-28, 13:28:34](https://news.ycombinator.com/item?id=47554412) - [You Do Not, in Fact, Have to Hand It to Them](https://2ndbreakfast.audreywatters.com/you-do-not-in-fact-have-to-hand-it-to-them/)
+* [2026-03-28, 12:27:45](https://news.ycombinator.com/item?id=47553957) - [Byte Interviews Chuck Peddle, Father of the MOS 6502 and Commodore PET (1982)](https://computeradsfromthepast.substack.com/p/byte-interviews-chuck-peddle-father)
 * [2026-03-28, 12:01:27](https://news.ycombinator.com/item?id=47553798) - [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es)
 * [2026-03-28, 12:01:07](https://news.ycombinator.com/item?id=47553796) - [Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers](https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer)
 * [2026-03-28, 11:49:28](https://news.ycombinator.com/item?id=47553717) - [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw)
@@ -13,12 +15,10 @@
 * [2026-03-27, 20:44:33](https://news.ycombinator.com/item?id=47548013) - [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
 * [2026-03-27, 20:02:05](https://news.ycombinator.com/item?id=47547508) - [ISBN Visualization](https://annas-archive.gd/isbn-visualization?)
 * [2026-03-27, 19:15:19](https://news.ycombinator.com/item?id=47547009) - [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/)
-* [2026-03-27, 15:46:50](https://news.ycombinator.com/item?id=47544238) - [The Future of SCIP](https://sourcegraph.com/blog/the-future-of-scip)
 * [2026-03-27, 14:41:02](https://news.ycombinator.com/item?id=47543204) - [Meow.camera](https://meow.camera/#4258783365322591678)
 * [2026-03-27, 14:38:28](https://news.ycombinator.com/item?id=47543167) - [Iran-linked hackers breach FBI director's personal email](https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/)
 * [2026-03-27, 14:35:45](https://news.ycombinator.com/item?id=47543139) - [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
 * [2026-03-27, 13:49:51](https://news.ycombinator.com/item?id=47542644) - [Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot](https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare))
-* [2026-03-27, 08:57:02](https://news.ycombinator.com/item?id=47540388) - [Telnyx package compromised on PyPI](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026)
 * [2026-03-27, 08:55:43](https://news.ycombinator.com/item?id=47540383) - [‘Energy independence feels practical’: Europeans building mini solar farms](https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho)
 * [2026-03-26, 03:53:47](https://news.ycombinator.com/item?id=47526468) - [Desperately Seeking Space Friends](https://reviewcanada.ca/magazine/2026/04/desperately-seeking-space-friends-review-the-pale-blue-data-point/)
 * [2026-03-25, 17:49:33](https://news.ycombinator.com/item?id=47520807) - [A single-file C allocator with explicit heaps and tuning knobs](https://github.com/xtellect/spaces)
@@ -27,9 +27,9 @@
 * [2026-03-25, 15:20:08](https://news.ycombinator.com/item?id=47518568) - [Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer](https://github.com/dbrll/ATTN-11)
 * [2026-03-24, 23:34:06](https://news.ycombinator.com/item?id=47511112) - [Arm releases first in-house chip, with Meta as debut customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
 * [2026-03-24, 20:49:09](https://news.ycombinator.com/item?id=47509031) - [Go Naming Conventions: A Practical Guide](https://www.alexedwards.net/blog/go-naming-conventions)
+* [2026-03-24, 15:02:38](https://news.ycombinator.com/item?id=47503687) - [Improved Git Diffs with Delta, Fzf and a Little Shell Scripting](https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting)
 * [2026-03-24, 04:22:15](https://news.ycombinator.com/item?id=47498571) - [Nashville library launches Memory Lab for digitizing home movies](https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies)
 * [2026-03-23, 21:18:53](https://news.ycombinator.com/item?id=47495245) - [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html)
-* [2026-03-23, 18:59:03](https://news.ycombinator.com/item?id=47493677) - [Explore the Hidden World of Sand](https://magnifiedsand.com/)
 
 ## [Archives](archives/index.md)
 
