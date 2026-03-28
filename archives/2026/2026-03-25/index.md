@@ -67,6 +67,7 @@
 * [2026-03-25, 03:44:52](https://news.ycombinator.com/item?id=47513008) - [US Army raises enlistment age to 42 and removes marijuana waiver requirement](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf)
 * [2026-03-25, 03:28:04](https://news.ycombinator.com/item?id=47512891) - [Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1](https://github.com/cigrainger/duckdb-hnsw-acorn)
 * [2026-03-25, 03:17:06](https://news.ycombinator.com/item?id=47512816) - [VitruvianOS – Desktop Linux Inspired by the BeOS](https://v-os.dev)
+* [2026-03-25, 02:33:05](https://news.ycombinator.com/item?id=47512492) - [StationeryObject](https://stationeryobject.com/archive/)
 * [2026-03-25, 01:51:16](https://news.ycombinator.com/item?id=47512204) - [Oil at $150 will trigger global recession, says boss of financial BlackRock](https://www.bbc.com/news/articles/c9wqrdkx8ppo)
 * [2026-03-25, 01:02:55](https://news.ycombinator.com/item?id=47511838) - [Matlab Alternatives 2026: Benchmarks, GPU, Browser and Compatibility Compared](https://runmat.com/blog/free-matlab-alternatives)
 * [2026-03-25, 00:44:55](https://news.ycombinator.com/item?id=47511703) - [In Edison’s Revenge, Data Centers Are Transitioning From AC to DC](https://spectrum.ieee.org/data-center-dc)

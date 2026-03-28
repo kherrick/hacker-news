@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-03-28](index.md)
 
+* [2026-03-28, 16:02:59](https://news.ycombinator.com/item?id=47555814) - [Militarized snowflakes: The accidental beauty of Renaissance star forts](https://bigthink.com/strange-maps/star-forts/)
+* [2026-03-28, 15:44:58](https://news.ycombinator.com/item?id=47555636) - [Show HN: Free, in-browser PDF editor](https://breezepdf.com/?v=2)
+* [2026-03-28, 15:37:17](https://news.ycombinator.com/item?id=47555556) - [I decompiled the White House's new app](https://thereallo.dev/blog/decompiling-the-white-house-app)
 * [2026-03-28, 14:49:30](https://news.ycombinator.com/item?id=47555093) - [We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA](https://enlidea.com)
 * [2026-03-28, 14:49:25](https://news.ycombinator.com/item?id=47555090) - [Folk are getting dangerously attached to AI that always tells them they're right](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
 * [2026-03-28, 14:48:14](https://news.ycombinator.com/item?id=47555081) - [The risk of AI isn't making us lazy, but making \"lazy\" look productive](https://news.ycombinator.com/item?id=47555081)
+* [2026-03-28, 14:30:30](https://news.ycombinator.com/item?id=47554948) - [ICAO issued new power bank restriction on flight](https://www.icao.int/news/new-power-bank-restrictions-will-safeguard-international-aviation)
 * [2026-03-28, 14:09:24](https://news.ycombinator.com/item?id=47554779) - [Behind the Scenes of the Westworld UI](https://vanschneider.com/blog/behind-the-scenes-of-the-westworld-ui/)
 * [2026-03-28, 14:08:33](https://news.ycombinator.com/item?id=47554773) - [AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 * [2026-03-28, 13:28:34](https://news.ycombinator.com/item?id=47554412) - [You Do Not, in Fact, Have to Hand It to Them](https://2ndbreakfast.audreywatters.com/you-do-not-in-fact-have-to-hand-it-to-them/)
@@ -22,3 +26,4 @@
 * [2026-03-28, 02:17:04](https://news.ycombinator.com/item?id=47550878) - [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
 * [2026-03-28, 01:43:49](https://news.ycombinator.com/item?id=47550684) - [Brave Browser unable to block certain ads due to Rust language limitations](https://github.com/brave/brave-browser/issues/43098)
 * [2026-03-28, 00:39:54](https://news.ycombinator.com/item?id=47550282) - [Don't YOLO your file system](https://jai.scs.stanford.edu/)
+* [2026-03-28, 00:03:47](https://news.ycombinator.com/item?id=47550016) - [Going Founder Mode on Cancer](https://centuryofbio.com/p/sid)
