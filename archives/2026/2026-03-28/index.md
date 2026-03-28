@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-28](index.md)
 
+* [2026-03-28, 11:13:23](https://news.ycombinator.com/item?id=47553516) - [No one is happy with NASA's new idea for private space stations](https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/)
 * [2026-03-28, 10:49:44](https://news.ycombinator.com/item?id=47553403) - [Treason in the Futures Markets](https://paulkrugman.substack.com/p/treason-in-the-futures-markets)
 * [2026-03-28, 10:06:13](https://news.ycombinator.com/item?id=47553185) - [Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way)
 * [2026-03-28, 08:06:19](https://news.ycombinator.com/item?id=47552562) - [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
