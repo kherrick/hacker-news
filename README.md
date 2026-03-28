@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-28, 18:38:59](https://news.ycombinator.com/item?id=47557166) - [Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem](https://twitter.com/BoWang87/status/2037648937453232504)
+* [2026-03-28, 18:21:52](https://news.ycombinator.com/item?id=47557058) - [Improving personal tax filing with Claude CLI and Obsidian](https://www.mrafayaleem.com/blog/improving-personal-tax-filing-with-claude-obsidian)
 * [2026-03-28, 17:39:49](https://news.ycombinator.com/item?id=47556729) - [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
 * [2026-03-28, 16:59:34](https://news.ycombinator.com/item?id=47556359) - [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
+* [2026-03-28, 16:49:46](https://news.ycombinator.com/item?id=47556267) - [Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms](https://androwish.org/home/wiki?name=undroidwish)
 * [2026-03-28, 16:26:08](https://news.ycombinator.com/item?id=47556033) - [rpg.actor Game Jam](https://rpg.actor/jam)
 * [2026-03-28, 16:23:31](https://news.ycombinator.com/item?id=47556001) - [Circuit-level PDP-11/34 emulator](https://github.com/dbrll/ll-34)
-* [2026-03-28, 16:02:59](https://news.ycombinator.com/item?id=47555814) - [Militarized snowflakes: The accidental beauty of Renaissance star forts](https://bigthink.com/strange-maps/star-forts/)
 * [2026-03-28, 15:37:17](https://news.ycombinator.com/item?id=47555556) - [I decompiled the White House's new app](https://thereallo.dev/blog/decompiling-the-white-house-app)
-* [2026-03-28, 14:49:30](https://news.ycombinator.com/item?id=47555093) - [Show HN: We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA](https://enlidea.com)
 * [2026-03-28, 14:49:25](https://news.ycombinator.com/item?id=47555090) - [Folk are getting dangerously attached to AI that always tells them they're right](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
 * [2026-03-28, 14:08:33](https://news.ycombinator.com/item?id=47554773) - [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 * [2026-03-28, 12:01:27](https://news.ycombinator.com/item?id=47553798) - [Spanish legislation as a Git repo](https://github.com/EnriqueLop/legalize-es)
@@ -17,7 +18,6 @@
 * [2026-03-28, 02:17:04](https://news.ycombinator.com/item?id=47550878) - [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
 * [2026-03-28, 00:39:54](https://news.ycombinator.com/item?id=47550282) - [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)
 * [2026-03-27, 19:15:19](https://news.ycombinator.com/item?id=47547009) - [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/)
-* [2026-03-27, 14:38:28](https://news.ycombinator.com/item?id=47543167) - [Iran-linked hackers breach FBI director's personal email](https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/)
 * [2026-03-27, 14:35:45](https://news.ycombinator.com/item?id=47543139) - [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
 * [2026-03-26, 07:52:39](https://news.ycombinator.com/item?id=47527723) - [Gerard of Cremona](https://en.wikipedia.org/wiki/Gerard_of_Cremona)
 * [2026-03-25, 17:49:33](https://news.ycombinator.com/item?id=47520807) - [A single-file C allocator with explicit heaps and tuning knobs](https://github.com/xtellect/spaces)
@@ -28,8 +28,8 @@
 * [2026-03-25, 02:33:05](https://news.ycombinator.com/item?id=47512492) - [StationeryObject](https://stationeryobject.com/archive/)
 * [2026-03-24, 23:34:06](https://news.ycombinator.com/item?id=47511112) - [Arm releases first in-house chip, with Meta as debut customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
 * [2026-03-24, 20:49:09](https://news.ycombinator.com/item?id=47509031) - [Go Naming Conventions: A Practical Guide](https://www.alexedwards.net/blog/go-naming-conventions)
+* [2026-03-24, 20:29:44](https://news.ycombinator.com/item?id=47508710) - [Detecting file changes on macOS with kqueue](https://www.vegardstikbakke.com/kqueue/)
 * [2026-03-24, 15:02:38](https://news.ycombinator.com/item?id=47503687) - [Improved Git Diffs with Delta, Fzf and a Little Shell Scripting](https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting)
-* [2026-03-23, 21:18:53](https://news.ycombinator.com/item?id=47495245) - [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html)
 
 ## [Archives](archives/index.md)
 

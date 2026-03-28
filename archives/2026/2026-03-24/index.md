@@ -14,6 +14,7 @@
 * [2026-03-24, 21:01:21](https://news.ycombinator.com/item?id=47509234) - [Disney Exits OpenAI Deal After AI Giant Shutters Sora](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
 * [2026-03-24, 20:49:09](https://news.ycombinator.com/item?id=47509031) - [Go Naming Conventions: A Practical Guide](https://www.alexedwards.net/blog/go-naming-conventions)
 * [2026-03-24, 20:31:08](https://news.ycombinator.com/item?id=47508745) - [Is anybody else bored of talking about AI?](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+* [2026-03-24, 20:29:44](https://news.ycombinator.com/item?id=47508710) - [Detecting file changes on macOS with kqueue](https://www.vegardstikbakke.com/kqueue/)
 * [2026-03-24, 20:23:34](https://news.ycombinator.com/item?id=47508608) - [GitHub is once again down](https://www.githubstatus.com/incidents/kp06czybl7dw)
 * [2026-03-24, 20:01:05](https://news.ycombinator.com/item?id=47508246) - [We’re saying goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)
 * [2026-03-24, 19:53:51](https://news.ycombinator.com/item?id=47508149) - [Welcome to FastMCP](https://gofastmcp.com/getting-started/welcome)

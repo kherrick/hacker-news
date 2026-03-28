@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-28](index.md)
 
+* [2026-03-28, 18:38:59](https://news.ycombinator.com/item?id=47557166) - [Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem](https://twitter.com/BoWang87/status/2037648937453232504)
+* [2026-03-28, 18:21:52](https://news.ycombinator.com/item?id=47557058) - [Improving personal tax filing with Claude CLI and Obsidian](https://www.mrafayaleem.com/blog/improving-personal-tax-filing-with-claude-obsidian)
 * [2026-03-28, 17:39:49](https://news.ycombinator.com/item?id=47556729) - [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
 * [2026-03-28, 16:59:34](https://news.ycombinator.com/item?id=47556359) - [Linux Is an Interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
+* [2026-03-28, 16:49:46](https://news.ycombinator.com/item?id=47556267) - [Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms](https://androwish.org/home/wiki?name=undroidwish)
 * [2026-03-28, 16:26:08](https://news.ycombinator.com/item?id=47556033) - [rpg.actor Game Jam](https://rpg.actor/jam)
 * [2026-03-28, 16:23:31](https://news.ycombinator.com/item?id=47556001) - [Circuit-level PDP-11/34 emulator](https://github.com/dbrll/ll-34)
 * [2026-03-28, 16:02:59](https://news.ycombinator.com/item?id=47555814) - [Militarized snowflakes: The accidental beauty of Renaissance star forts](https://bigthink.com/strange-maps/star-forts/)
