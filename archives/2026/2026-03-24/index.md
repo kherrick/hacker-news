@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-24](index.md)
 
 * [2026-03-24, 23:44:47](https://news.ycombinator.com/item?id=47511208) - [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
+* [2026-03-24, 23:34:06](https://news.ycombinator.com/item?id=47511112) - [Arm releases first in-house chip, with Meta as debut customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
 * [2026-03-24, 23:00:02](https://news.ycombinator.com/item?id=47510768) - [Type Construction and Cycle Detection](https://go.dev/blog/type-construction-and-cycle-detection)
 * [2026-03-24, 22:50:05](https://news.ycombinator.com/item?id=47510657) - [Thoughts on LLMs – Psychological Complications](https://parsingphase.dev/tech/LLMs/psychologicalFactors.html)
 * [2026-03-24, 22:40:32](https://news.ycombinator.com/item?id=47510561) - [The Interactive Lost Place Map](https://lostfoundations.org/)
