@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-28, 20:39:01](https://news.ycombinator.com/item?id=47557960) - [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
 * [2026-03-28, 18:42:08](https://news.ycombinator.com/item?id=47557185) - [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/)
 * [2026-03-28, 18:38:59](https://news.ycombinator.com/item?id=47557166) - [Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem](https://twitter.com/BoWang87/status/2037648937453232504)
 * [2026-03-28, 18:22:45](https://news.ycombinator.com/item?id=47557064) - [OpenCiv1 – open-source rewrite of Civ1](https://github.com/rajko-horvat/OpenCiv1)
@@ -9,7 +10,7 @@
 * [2026-03-28, 16:26:08](https://news.ycombinator.com/item?id=47556033) - [rpg.actor Game Jam](https://rpg.actor/jam)
 * [2026-03-28, 16:23:31](https://news.ycombinator.com/item?id=47556001) - [Circuit-level PDP-11/34 emulator](https://github.com/dbrll/ll-34)
 * [2026-03-28, 15:37:17](https://news.ycombinator.com/item?id=47555556) - [I decompiled the White House's new app](https://thereallo.dev/blog/decompiling-the-white-house-app)
-* [2026-03-28, 14:49:25](https://news.ycombinator.com/item?id=47555090) - [Folk are getting dangerously attached to AI that always tells them they're right](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
+* [2026-03-28, 14:30:30](https://news.ycombinator.com/item?id=47554948) - [ICAO issued new power bank restriction on flight](https://www.icao.int/news/new-power-bank-restrictions-will-safeguard-international-aviation)
 * [2026-03-28, 14:08:33](https://news.ycombinator.com/item?id=47554773) - [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 * [2026-03-28, 12:01:27](https://news.ycombinator.com/item?id=47553798) - [Spanish legislation as a Git repo](https://github.com/EnriqueLop/legalize-es)
 * [2026-03-28, 12:01:07](https://news.ycombinator.com/item?id=47553796) - [Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers](https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer)
@@ -23,11 +24,10 @@
 * [2026-03-25, 16:04:21](https://news.ycombinator.com/item?id=47519255) - [RSA and Python](https://xnacly.me/posts/2023/rsa/)
 * [2026-03-25, 15:20:08](https://news.ycombinator.com/item?id=47518568) - [Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer](https://github.com/dbrll/ATTN-11)
 * [2026-03-25, 12:29:58](https://news.ycombinator.com/item?id=47516456) - [Nobody Reads Your Setup Docs](https://hanzilla.co/blog/mcp-onboarding-ten-agents-one-command/)
+* [2026-03-25, 11:09:21](https://news.ycombinator.com/item?id=47515783) - [Hacking old hardware by renaming to .zip [video]](https://www.youtube.com/watch?v=P1kfuCkWo24)
 * [2026-03-25, 10:51:48](https://news.ycombinator.com/item?id=47515652) - [C++26: A User-Friednly assert() macro](https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert)
 * [2026-03-25, 05:01:58](https://news.ycombinator.com/item?id=47513482) - [1929: Inside the Greatest Crash in Wall Street History](https://www.nybooks.com/articles/2026/03/26/tick-tick-boom-1929-andrew-ross-sorkin/)
 * [2026-03-25, 02:33:05](https://news.ycombinator.com/item?id=47512492) - [StationeryObject](https://stationeryobject.com/archive/)
-* [2026-03-24, 23:34:06](https://news.ycombinator.com/item?id=47511112) - [Arm releases first in-house chip, with Meta as debut customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
-* [2026-03-24, 20:49:09](https://news.ycombinator.com/item?id=47509031) - [Go Naming Conventions: A Practical Guide](https://www.alexedwards.net/blog/go-naming-conventions)
 * [2026-03-24, 20:29:44](https://news.ycombinator.com/item?id=47508710) - [Detecting file changes on macOS with kqueue](https://www.vegardstikbakke.com/kqueue/)
 * [2026-03-24, 15:02:38](https://news.ycombinator.com/item?id=47503687) - [Improved Git Diffs with Delta, Fzf and a Little Shell Scripting](https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting)
 
