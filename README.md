@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-28, 10:49:44](https://news.ycombinator.com/item?id=47553403) - [Treason in the Futures Markets](https://paulkrugman.substack.com/p/treason-in-the-futures-markets)
+* [2026-03-28, 10:06:13](https://news.ycombinator.com/item?id=47553185) - [Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way)
 * [2026-03-28, 08:06:19](https://news.ycombinator.com/item?id=47552562) - [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 * [2026-03-28, 02:17:04](https://news.ycombinator.com/item?id=47550878) - [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
 * [2026-03-28, 00:39:54](https://news.ycombinator.com/item?id=47550282) - [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)
@@ -8,7 +10,6 @@
 * [2026-03-27, 20:02:05](https://news.ycombinator.com/item?id=47547508) - [ISBN Visualization](https://annas-archive.gd/isbn-visualization?)
 * [2026-03-27, 19:15:19](https://news.ycombinator.com/item?id=47547009) - [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/)
 * [2026-03-27, 15:46:50](https://news.ycombinator.com/item?id=47544238) - [The Future of SCIP](https://sourcegraph.com/blog/the-future-of-scip)
-* [2026-03-27, 15:31:20](https://news.ycombinator.com/item?id=47543943) - [Desk for people who work at home with a cat](https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/)
 * [2026-03-27, 14:41:02](https://news.ycombinator.com/item?id=47543204) - [Meow.camera](https://meow.camera/#4258783365322591678)
 * [2026-03-27, 14:38:28](https://news.ycombinator.com/item?id=47543167) - [Iran-linked hackers breach FBI director's personal email](https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/)
 * [2026-03-27, 14:35:45](https://news.ycombinator.com/item?id=47543139) - [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
@@ -16,7 +17,6 @@
 * [2026-03-27, 13:49:51](https://news.ycombinator.com/item?id=47542644) - [Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot](https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare))
 * [2026-03-27, 08:57:02](https://news.ycombinator.com/item?id=47540388) - [Telnyx package compromised on PyPI](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026)
 * [2026-03-27, 08:55:43](https://news.ycombinator.com/item?id=47540383) - [‘Energy independence feels practical’: Europeans building mini solar farms](https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho)
-* [2026-03-26, 18:03:43](https://news.ycombinator.com/item?id=47533709) - [Building FireStriker: Making Civic Tech Free](https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free)
 * [2026-03-26, 16:48:12](https://news.ycombinator.com/item?id=47532770) - [Improving Composer through real-time RL](https://cursor.com/blog/real-time-rl-for-composer)
 * [2026-03-26, 16:43:33](https://news.ycombinator.com/item?id=47532717) - [Trust Signals as Sparklines for Hacker News](https://hn-trustspark.com/)
 * [2026-03-26, 03:53:47](https://news.ycombinator.com/item?id=47526468) - [Desperately Seeking Space Friends](https://reviewcanada.ca/magazine/2026/04/desperately-seeking-space-friends-review-the-pale-blue-data-point/)
