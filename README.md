@@ -22,12 +22,12 @@
 * [2026-03-28, 08:06:19](https://news.ycombinator.com/item?id=47552562) - [CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 * [2026-03-28, 02:17:04](https://news.ycombinator.com/item?id=47550878) - [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
 * [2026-03-28, 00:39:54](https://news.ycombinator.com/item?id=47550282) - [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)
-* [2026-03-25, 15:20:08](https://news.ycombinator.com/item?id=47518568) - [Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer](https://github.com/dbrll/ATTN-11)
 * [2026-03-25, 11:09:21](https://news.ycombinator.com/item?id=47515783) - [Hacking old hardware by renaming to .zip [video]](https://www.youtube.com/watch?v=P1kfuCkWo24)
 * [2026-03-25, 10:51:48](https://news.ycombinator.com/item?id=47515652) - [C++26: A User-Friednly assert() macro](https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert)
 * [2026-03-25, 05:01:58](https://news.ycombinator.com/item?id=47513482) - [1929: Inside the Greatest Crash in Wall Street History](https://www.nybooks.com/articles/2026/03/26/tick-tick-boom-1929-andrew-ross-sorkin/)
 * [2026-03-25, 02:33:05](https://news.ycombinator.com/item?id=47512492) - [StationeryObject](https://stationeryobject.com/archive/)
 * [2026-03-24, 20:29:44](https://news.ycombinator.com/item?id=47508710) - [Detecting file changes on macOS with kqueue](https://www.vegardstikbakke.com/kqueue/)
+* [2026-03-24, 18:52:31](https://news.ycombinator.com/item?id=47507420) - [My heuristics are wrong. What now?](https://brooker.co.za/blog/2026/03/20/ic-leadership.html)
 * [2026-03-24, 18:17:19](https://news.ycombinator.com/item?id=47506889) - [Meta Partners with Arm to Develop New Class of Data Center Silicon](https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/)
 * [2026-03-24, 15:02:38](https://news.ycombinator.com/item?id=47503687) - [Improved Git Diffs with Delta, Fzf and a Little Shell Scripting](https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting)
 

@@ -21,6 +21,7 @@
 * [2026-03-24, 19:32:32](https://news.ycombinator.com/item?id=47507856) - [Show HN: Antimatter – Match the opposites (Mahjong solitaire mechanic)](https://www.linguabase.org/antimatter/)
 * [2026-03-24, 19:15:27](https://news.ycombinator.com/item?id=47507666) - [Show HN: AI Roundtable – Let 200 models debate your question](https://opper.ai/ai-roundtable/)
 * [2026-03-24, 19:05:37](https://news.ycombinator.com/item?id=47507576) - [Solving Semantle with the Wrong Embeddings](https://victoriaritvo.com/blog/robust-semantle-solver/)
+* [2026-03-24, 18:52:31](https://news.ycombinator.com/item?id=47507420) - [My heuristics are wrong. What now?](https://brooker.co.za/blog/2026/03/20/ic-leadership.html)
 * [2026-03-24, 18:47:13](https://news.ycombinator.com/item?id=47507354) - [Young Graduates Face the Grimmest Job Market in Years](https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html)
 * [2026-03-24, 18:34:52](https://news.ycombinator.com/item?id=47507150) - [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/)
 * [2026-03-24, 18:17:19](https://news.ycombinator.com/item?id=47506889) - [Meta Partners with Arm to Develop New Class of Data Center Silicon](https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/)
