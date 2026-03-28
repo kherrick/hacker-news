@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-28, 14:08:33](https://news.ycombinator.com/item?id=47554773) - [AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 * [2026-03-28, 12:27:45](https://news.ycombinator.com/item?id=47553957) - [Byte Interviews Chuck Peddle, Father of the MOS 6502 and Commodore PET (1982)](https://computeradsfromthepast.substack.com/p/byte-interviews-chuck-peddle-father)
 * [2026-03-28, 12:01:27](https://news.ycombinator.com/item?id=47553798) - [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es)
 * [2026-03-28, 12:01:07](https://news.ycombinator.com/item?id=47553796) - [Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers](https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer)
@@ -17,7 +18,6 @@
 * [2026-03-27, 14:41:02](https://news.ycombinator.com/item?id=47543204) - [Meow.camera](https://meow.camera/#4258783365322591678)
 * [2026-03-27, 14:38:28](https://news.ycombinator.com/item?id=47543167) - [Iran-linked hackers breach FBI director's personal email](https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/)
 * [2026-03-27, 14:35:45](https://news.ycombinator.com/item?id=47543139) - [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
-* [2026-03-27, 13:49:51](https://news.ycombinator.com/item?id=47542644) - [Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot](https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare))
 * [2026-03-27, 08:55:43](https://news.ycombinator.com/item?id=47540383) - [‘Energy independence feels practical’: Europeans building mini solar farms](https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho)
 * [2026-03-26, 07:52:39](https://news.ycombinator.com/item?id=47527723) - [Gerard of Cremona](https://en.wikipedia.org/wiki/Gerard_of_Cremona)
 * [2026-03-26, 03:53:47](https://news.ycombinator.com/item?id=47526468) - [Desperately Seeking Space Friends](https://reviewcanada.ca/magazine/2026/04/desperately-seeking-space-friends-review-the-pale-blue-data-point/)

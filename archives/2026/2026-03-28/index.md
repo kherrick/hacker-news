@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-28](index.md)
 
+* [2026-03-28, 14:08:33](https://news.ycombinator.com/item?id=47554773) - [AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 * [2026-03-28, 13:28:34](https://news.ycombinator.com/item?id=47554412) - [You Do Not, in Fact, Have to Hand It to Them](https://2ndbreakfast.audreywatters.com/you-do-not-in-fact-have-to-hand-it-to-them/)
 * [2026-03-28, 12:27:45](https://news.ycombinator.com/item?id=47553957) - [Byte Interviews Chuck Peddle, Father of the MOS 6502 and Commodore PET (1982)](https://computeradsfromthepast.substack.com/p/byte-interviews-chuck-peddle-father)
 * [2026-03-28, 12:01:27](https://news.ycombinator.com/item?id=47553798) - [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es)
