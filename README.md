@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-29, 22:28:11](https://news.ycombinator.com/item?id=47568080) - [There is No Spoon. A software engineers primer for demystified ML](https://github.com/dreddnafious/thereisnospoon)
 * [2026-03-29, 22:21:34](https://news.ycombinator.com/item?id=47568028) - [Coding Agents Could Make Free Software Matter Again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/)
+* [2026-03-29, 22:15:06](https://news.ycombinator.com/item?id=47567969) - [Claude Code runs Git reset –hard origin/main against project repo every 10 mins](https://github.com/anthropics/claude-code/issues/40710)
 * [2026-03-29, 20:38:26](https://news.ycombinator.com/item?id=47567049) - [Show HN: Crazierl – An Erlang Operating System](https://crazierl.org/demo/)
 * [2026-03-29, 20:30:02](https://news.ycombinator.com/item?id=47566960) - [The road signs that teach travellers about France](https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france)
 * [2026-03-29, 20:21:05](https://news.ycombinator.com/item?id=47566865) - [ChatGPT Won't Let You Type Until Cloudflare Reads Your React State](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
@@ -8,7 +10,6 @@
 * [2026-03-29, 20:00:02](https://news.ycombinator.com/item?id=47566653) - [Midnight train from GA: A view of America from the tracks as airports struggle](https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a)
 * [2026-03-29, 19:36:21](https://news.ycombinator.com/item?id=47566442) - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
 * [2026-03-29, 19:26:14](https://news.ycombinator.com/item?id=47566332) - [More on Version Control](https://bramcohen.com/p/more-on-version-control)
-* [2026-03-29, 19:08:20](https://news.ycombinator.com/item?id=47566143) - [My MacBook Keyboard Is Broken and It's Insanely Expensive to Fix](https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/)
 * [2026-03-29, 19:08:07](https://news.ycombinator.com/item?id=47566140) - [Kyushu Railway Company Train Varieties](https://www.jrkyushu.co.jp/english/train/index.html)
 * [2026-03-29, 18:35:58](https://news.ycombinator.com/item?id=47565831) - [Show HN: I made a \"programming language\" looking for feedback](https://github.com/alonsovm44/glupe)
 * [2026-03-29, 17:46:12](https://news.ycombinator.com/item?id=47565365) - [C++26 is done ISO C++ standards meeting, Trip Report](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/)
@@ -28,7 +29,6 @@
 * [2026-03-26, 19:45:29](https://news.ycombinator.com/item?id=47534812) - [I'll buy your electronics to feed our robot](https://www.dayworkx.com/)
 * [2026-03-26, 15:17:17](https://news.ycombinator.com/item?id=47531576) - [The RISE RISC-V Runners: free, native RISC-V CI on GitHub](https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/)
 * [2026-03-26, 14:08:34](https://news.ycombinator.com/item?id=47530670) - [Creating West Coast Buddhism (2024)](https://letter.palladiummag.com/p/creating-west-coast-buddhism)
-* [2026-03-25, 23:35:47](https://news.ycombinator.com/item?id=47524778) - [A nearly perfect USB cable tester](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/)
 * [2026-03-25, 13:46:18](https://news.ycombinator.com/item?id=47517306) - [The Epistemology of Microphysics](https://www.edwardfeser.com/unpublishedpapers/microphysics.html)
 
 ## [Archives](archives/index.md)

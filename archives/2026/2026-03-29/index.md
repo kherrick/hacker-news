@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-29](index.md)
 
+* [2026-03-29, 22:28:11](https://news.ycombinator.com/item?id=47568080) - [There is No Spoon. A software engineers primer for demystified ML](https://github.com/dreddnafious/thereisnospoon)
 * [2026-03-29, 22:21:34](https://news.ycombinator.com/item?id=47568028) - [Coding Agents Could Make Free Software Matter Again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/)
+* [2026-03-29, 22:15:06](https://news.ycombinator.com/item?id=47567969) - [Claude Code runs Git reset –hard origin/main against project repo every 10 mins](https://github.com/anthropics/claude-code/issues/40710)
 * [2026-03-29, 20:38:26](https://news.ycombinator.com/item?id=47567049) - [Show HN: Crazierl – An Erlang Operating System](https://crazierl.org/demo/)
 * [2026-03-29, 20:30:02](https://news.ycombinator.com/item?id=47566960) - [The road signs that teach travellers about France](https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france)
 * [2026-03-29, 20:21:05](https://news.ycombinator.com/item?id=47566865) - [ChatGPT Won't Let You Type Until Cloudflare Reads Your React State](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
