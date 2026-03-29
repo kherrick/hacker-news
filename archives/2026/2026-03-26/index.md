@@ -24,6 +24,7 @@
 * [2026-03-26, 19:58:19](https://news.ycombinator.com/item?id=47534953) - [Monado became the foundation for OpenXR runtimes](https://www.collabora.com/news-and-blog/news-and-events/how-monado-became-the-foundation-for-openxr-runtimes.html)
 * [2026-03-26, 19:48:05](https://news.ycombinator.com/item?id=47534848) - [We Haven't Seen the Worst of What Gambling and Prediction Markets Will Do](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
 * [2026-03-26, 19:47:01](https://news.ycombinator.com/item?id=47534837) - [How much precision can you squeeze out of a table?](https://www.johndcook.com/blog/2026/03/26/table-precision/)
+* [2026-03-26, 19:45:29](https://news.ycombinator.com/item?id=47534812) - [I'll buy your electronics to feed our robot](https://www.dayworkx.com/)
 * [2026-03-26, 19:30:35](https://news.ycombinator.com/item?id=47534629) - [CERN to host Europe's flagship open access publishing platform](https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform)
 * [2026-03-26, 19:26:23](https://news.ycombinator.com/item?id=47534578) - [Show HN: Layerleak – Like Trufflehog, but for Docker Hub](https://github.com/Brumbelow/layerleak)
 * [2026-03-26, 19:25:19](https://news.ycombinator.com/item?id=47534564) - [Chroma Context-1: Training a Self-Editing Search Agent](https://www.trychroma.com/research/context-1)
