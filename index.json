@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-29, 12:24:56",
+      "https://news.ycombinator.com/item?id=47562589"
+    ],
+    [
+      "The Cloud: The dystopian book that changed Germany (2022)",
+      "https://www.bbc.com/culture/article/20221101-the-cloud-the-nuclear-novel-that-shaped-germany"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 11:42:31",
       "https://news.ycombinator.com/item?id=47562288"
     ],
@@ -37,6 +47,16 @@
     [
       "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
       "https://github.com/1st1/lat.md"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 08:58:24",
+      "https://news.ycombinator.com/item?id=47561489"
+    ],
+    [
+      "LinkedIn uses 2.4 GB RAM across two tabs",
+      "https://news.ycombinator.com/item?id=47561489"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2026-03-28, 12:01:27",
-      "https://news.ycombinator.com/item?id=47553798"
-    ],
-    [
-      "Spanish legislation as a Git repo",
-      "https://github.com/EnriqueLop/legalize-es"
-    ]
-  ],
-  [
-    [
       "2026-03-28, 11:49:28",
       "https://news.ycombinator.com/item?id=47553717"
     ],
     [
       "I Built an Open-World Engine for the N64 [video]",
       "https://www.youtube.com/watch?v=lXxmIw9axWw"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 08:23:26",
-      "https://news.ycombinator.com/item?id=47552643"
-    ],
-    [
-      "Cat Itecture: Better Cat Window Boxes (2023)",
-      "https://gwern.net/catitecture"
     ]
   ],
   [
@@ -251,32 +251,22 @@
   ],
   [
     [
+      "2026-03-26, 16:06:14",
+      "https://news.ycombinator.com/item?id=47532212"
+    ],
+    [
+      "The Hackers Who Tracked My Sleep Cycle",
+      "https://glama.ai/blog/2026-03-26-the-hackers-who-tracked-my-sleep-cycle"
+    ]
+  ],
+  [
+    [
       "2026-03-26, 10:47:36",
       "https://news.ycombinator.com/item?id=47528853"
     ],
     [
       "A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)",
       "https://github.com/ben-j-c/verilog2factorio"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 03:54:13",
-      "https://news.ycombinator.com/item?id=47526473"
-    ],
-    [
-      "The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)",
-      "https://www.metropolitanreview.org/p/the-last-contract"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 03:53:59",
-      "https://news.ycombinator.com/item?id=47526470"
-    ],
-    [
-      "The Loneliness of a Room of One's Own",
-      "https://newrepublic.com/article/206731/loneliness-room-one-virginia-woolf-hold-up"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Nonfiction Publishing, Under Threat, Is More Important",
       "https://newrepublic.com/article/207659/non-fiction-publishing-threat-important-ever"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 21:56:07",
+      "https://news.ycombinator.com/item?id=47510005"
+    ],
+    [
+      "Show HN: Create a full language server in Go with 3.17 spec support",
+      "https://github.com/owenrumney/go-lsp"
     ]
   ]
 ]
