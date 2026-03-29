@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-29, 16:26:55",
+      "https://news.ycombinator.com/item?id=47564579"
+    ],
+    [
+      "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
+      "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 16:17:30",
       "https://news.ycombinator.com/item?id=47564469"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=47564246"
     ],
     [
-      "Stop Publishing Garbage Data, It's Embarrassing",
+      "Twice this week, I have come across embarassingly bad data",
       "https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing/"
     ]
   ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2026-03-29, 15:49:30",
+      "https://news.ycombinator.com/item?id=47564188"
+    ],
+    [
+      "Catching the LiteLLM and Telnyx supply chain zero-days via semantic analysis",
+      "https://point-wild.github.io/who-touched-my-packages/"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 15:46:26",
       "https://news.ycombinator.com/item?id=47564159"
     ],
@@ -61,12 +81,12 @@
   ],
   [
     [
-      "2026-03-29, 15:22:21",
-      "https://news.ycombinator.com/item?id=47563921"
+      "2026-03-29, 15:28:27",
+      "https://news.ycombinator.com/item?id=47563978"
     ],
     [
-      "App that shows real-time lightning on Earth is showing bombings in Middle East",
-      "https://maps.blitzortung.org/"
+      "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
+      "https://github.com/DavidHavoc/ayaFlow"
     ]
   ],
   [
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=47561711"
     ],
     [
-      "Overestimation of microplastics potentially caused by scientists' gloves",
+      "Nitrile and latex gloves may cause overestimation of microplastics",
       "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/"
     ]
   ],
@@ -117,16 +137,6 @@
     [
       "LinkedIn uses 2.4 GB RAM across two tabs",
       "https://news.ycombinator.com/item?id=47561489"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 08:18:55",
-      "https://news.ycombinator.com/item?id=47561297"
-    ],
-    [
-      "What if AI doesn't need more RAM but better math?",
-      "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Nonfiction Publishing, Under Threat, Is More Important",
       "https://newrepublic.com/article/207659/non-fiction-publishing-threat-important-ever"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 09:51:12",
-      "https://news.ycombinator.com/item?id=47515271"
-    ],
-    [
-      "Building a Mostly IPv6 Only Home Network",
-      "https://varunpriolkar.com/2026/03/building-a-mostly-ipv6-only-home-network/"
     ]
   ],
   [
