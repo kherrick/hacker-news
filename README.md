@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-29, 20:38:26](https://news.ycombinator.com/item?id=47567049) - [Show HN: Crazierl – An Erlang Operating System](https://crazierl.org/demo/)
+* [2026-03-29, 20:30:02](https://news.ycombinator.com/item?id=47566960) - [The road signs that teach travellers about France](https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france)
 * [2026-03-29, 20:21:05](https://news.ycombinator.com/item?id=47566865) - [ChatGPT Won't Let You Type Until Cloudflare Reads Your React State](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
 * [2026-03-29, 20:04:50](https://news.ycombinator.com/item?id=47566702) - [Sky Wins Irish Court Order to Unmask 300 Pirate IPTV Users via Revolut Bank](https://torrentfreak.com/sky-wins-irish-court-order-to-unmask-300-pirate-iptv-users-via-revolut-bank/)
 * [2026-03-29, 20:00:02](https://news.ycombinator.com/item?id=47566653) - [Midnight train from GA: A view of America from the tracks as airports struggle](https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a)
@@ -24,7 +25,6 @@
 * [2026-03-28, 21:03:23](https://news.ycombinator.com/item?id=47558094) - [Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes](https://github.com/elixir-volt/quickbeam)
 * [2026-03-28, 16:52:45](https://news.ycombinator.com/item?id=47556290) - [Pretext: TypeScript library for multiline text measurement and layout](https://github.com/chenglou/pretext)
 * [2026-03-27, 12:56:31](https://news.ycombinator.com/item?id=47542142) - [Observations from carbon dioxide monitoring](https://grieve-smith.com/ftn/2026/03/nine-observations-from-carbon-dioxide-monitoring/)
-* [2026-03-27, 12:36:21](https://news.ycombinator.com/item?id=47541969) - [I turned my Kindle into my own personal newspaper](https://manualdousuario.net/en/how-to-kindle-personal-newspaper/)
 * [2026-03-27, 04:41:07](https://news.ycombinator.com/item?id=47539165) - [Ohm's Peg-to-WASM Compiler](https://ohmjs.org/blog/2026/03/12/peg-to-wasm)
 * [2026-03-26, 15:17:17](https://news.ycombinator.com/item?id=47531576) - [The RISE RISC-V Runners: free, native RISC-V CI on GitHub](https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/)
 * [2026-03-26, 14:08:34](https://news.ycombinator.com/item?id=47530670) - [Creating West Coast Buddhism (2024)](https://letter.palladiummag.com/p/creating-west-coast-buddhism)
