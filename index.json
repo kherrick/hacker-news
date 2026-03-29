@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-29, 22:28:11",
+      "https://news.ycombinator.com/item?id=47568080"
+    ],
+    [
+      "There is No Spoon. A software engineers primer for demystified ML",
+      "https://github.com/dreddnafious/thereisnospoon"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 22:21:34",
       "https://news.ycombinator.com/item?id=47568028"
     ],
     [
       "Coding Agents Could Make Free Software Matter Again",
       "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 22:15:06",
+      "https://news.ycombinator.com/item?id=47567969"
+    ],
+    [
+      "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+      "https://github.com/anthropics/claude-code/issues/40710"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "More on Version Control",
       "https://bramcohen.com/p/more-on-version-control"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 19:08:20",
-      "https://news.ycombinator.com/item?id=47566143"
-    ],
-    [
-      "My MacBook Keyboard Is Broken and It's Insanely Expensive to Fix",
-      "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Creating West Coast Buddhism (2024)",
       "https://letter.palladiummag.com/p/creating-west-coast-buddhism"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 23:35:47",
-      "https://news.ycombinator.com/item?id=47524778"
-    ],
-    [
-      "A nearly perfect USB cable tester",
-      "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/"
     ]
   ],
   [
