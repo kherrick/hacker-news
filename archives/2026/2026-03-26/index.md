@@ -30,6 +30,7 @@
 * [2026-03-26, 18:38:50](https://news.ycombinator.com/item?id=47534086) - [John Bradley, author of xv, has passed away](https://voxday.net/2026/03/25/rip-john-bradley/)
 * [2026-03-26, 18:03:43](https://news.ycombinator.com/item?id=47533709) - [Building FireStriker: Making Civic Tech Free](https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free)
 * [2026-03-26, 17:51:42](https://news.ycombinator.com/item?id=47533555) - [Taming LLMs: Using Executable Oracles to Prevent Bad Code](https://john.regehr.org/writing/zero_dof_programming.html)
+* [2026-03-26, 17:33:25](https://news.ycombinator.com/item?id=47533324) - [Siclair Microvision (1977)](https://r-type.org/articles/art-452.htm)
 * [2026-03-26, 17:31:24](https://news.ycombinator.com/item?id=47533297) - [$500 GPU outperforms Claude Sonnet on coding benchmarks](https://github.com/itigges22/ATLAS)
 * [2026-03-26, 17:29:58](https://news.ycombinator.com/item?id=47533283) - [Colibri – chat platform built on the AT Protocol for communities big and small](https://colibri.social/)
 * [2026-03-26, 17:21:50](https://news.ycombinator.com/item?id=47533160) - [The Oxford Comma – Why and Why Not](https://www.deborahcourtbooks.com/post/the-oxford-comma-why-and-why-not)
