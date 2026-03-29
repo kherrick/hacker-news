@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-03-29, 08:59:52](https://news.ycombinator.com/item?id=47561496) - [Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown](https://github.com/1st1/lat.md)
-* [2026-03-29, 08:48:36](https://news.ycombinator.com/item?id=47561445) - [Solar is winning the energy race](https://www.dw.com/en/solar-is-winning-the-energy-race/a-76517556)
 * [2026-03-29, 08:18:55](https://news.ycombinator.com/item?id=47561297) - [What if AI doesn't need more RAM but better math?](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
 * [2026-03-29, 07:38:58](https://news.ycombinator.com/item?id=47561132) - [Show HN: Public transit systems as data – lines, stations, railcars, and history](https://publictransit.systems)
-* [2026-03-29, 07:00:48](https://news.ycombinator.com/item?id=47560981) - [The road to electric in charts and data](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/)
 * [2026-03-29, 00:53:30](https://news.ycombinator.com/item?id=47559481) - [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194)
+* [2026-03-28, 23:29:04](https://news.ycombinator.com/item?id=47558997) - [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
 * [2026-03-28, 22:50:49](https://news.ycombinator.com/item?id=47558782) - [A laser-based process that enables adhesive-free paper packaging](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html)
 * [2026-03-28, 21:35:22](https://news.ycombinator.com/item?id=47558305) - [InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer](https://inpharmd.com/jobs/senior-ruby-on-rails-engineer)
 * [2026-03-28, 20:39:01](https://news.ycombinator.com/item?id=47557960) - [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
@@ -26,10 +25,11 @@
 * [2026-03-26, 17:33:25](https://news.ycombinator.com/item?id=47533324) - [Siclair Microvision (1977)](https://r-type.org/articles/art-452.htm)
 * [2026-03-26, 16:06:14](https://news.ycombinator.com/item?id=47532212) - [The Hackers Who Tracked My Sleep Cycle](https://glama.ai/blog/2026-03-26-the-hackers-who-tracked-my-sleep-cycle)
 * [2026-03-26, 10:47:36](https://news.ycombinator.com/item?id=47528853) - [A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)](https://github.com/ben-j-c/verilog2factorio)
+* [2026-03-26, 03:54:13](https://news.ycombinator.com/item?id=47526473) - [The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)](https://www.metropolitanreview.org/p/the-last-contract)
 * [2026-03-26, 03:53:59](https://news.ycombinator.com/item?id=47526470) - [The Loneliness of a Room of One's Own](https://newrepublic.com/article/206731/loneliness-room-one-virginia-woolf-hold-up)
 * [2026-03-25, 23:35:47](https://news.ycombinator.com/item?id=47524778) - [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/)
 * [2026-03-25, 20:56:51](https://news.ycombinator.com/item?id=47523138) - [Nonfiction Publishing, Under Threat, Is More Important](https://newrepublic.com/article/207659/non-fiction-publishing-threat-important-ever)
-* [2026-03-24, 19:49:56](https://news.ycombinator.com/item?id=47508078) - [The case for becoming a manager](https://newsletter.thelongcommit.com/p/the-case-for-becoming-a-manager)
+* [2026-03-25, 05:01:58](https://news.ycombinator.com/item?id=47513482) - [1929: Inside the Greatest Crash in Wall Street History](https://www.nybooks.com/articles/2026/03/26/tick-tick-boom-1929-andrew-ross-sorkin/)
 
 ## [Archives](archives/index.md)
 
