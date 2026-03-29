@@ -63,6 +63,7 @@
 * [2026-03-25, 10:51:48](https://news.ycombinator.com/item?id=47515652) - [C++26: A User-Friednly assert() macro](https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert)
 * [2026-03-25, 10:45:40](https://news.ycombinator.com/item?id=47515605) - [Building a coding agent in Swift from scratch](https://github.com/ivan-magda/swift-claude-code)
 * [2026-03-25, 10:28:49](https://news.ycombinator.com/item?id=47515502) - [I tried to prove I'm not AI. My aunt wasn't convinced](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
+* [2026-03-25, 09:51:12](https://news.ycombinator.com/item?id=47515271) - [Building a Mostly IPv6 Only Home Network](https://varunpriolkar.com/2026/03/building-a-mostly-ipv6-only-home-network/)
 * [2026-03-25, 08:52:50](https://news.ycombinator.com/item?id=47514916) - [Meta told to pay $375M for misleading users over child safety](https://www.bbc.com/news/articles/cql75dn07n2o)
 * [2026-03-25, 08:05:17](https://news.ycombinator.com/item?id=47514603) - [I Forked Httpx](https://tildeweb.nl/~michiel/httpxyz.html)
 * [2026-03-25, 05:42:09](https://news.ycombinator.com/item?id=47513728) - [Implementing automatic eSIM installation on Android](https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb)
