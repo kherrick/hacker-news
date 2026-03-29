@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-03-29](index.md)
 
+* [2026-03-29, 16:26:55](https://news.ycombinator.com/item?id=47564579) - [The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history](https://www.righto.com/2026/03/ibm-4-pi-computer-history.html)
 * [2026-03-29, 16:17:30](https://news.ycombinator.com/item?id=47564469) - [The bot situation on the internet is worse than you could imagine](https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why)
 * [2026-03-29, 16:12:22](https://news.ycombinator.com/item?id=47564421) - [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/)
 * [2026-03-29, 16:06:11](https://news.ycombinator.com/item?id=47564356) - [Comparison shows audiophiles waste a lot of money](https://www.tomshardware.com/pc-components/sound-cards/comparison-of-usd4-000-boutique-audio-cable-to-usd7-amazon-basics-cable-shows-audiophiles-waste-a-lot-of-money-scientific-audio-equipment-analysis-with-analyzer-shows-no-difference-in-quality)
 * [2026-03-29, 15:54:27](https://news.ycombinator.com/item?id=47564246) - [Stop Publishing Garbage Data, It's Embarrassing](https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing/)
 * [2026-03-29, 15:54:25](https://news.ycombinator.com/item?id=47564245) - [Full network of clitoral nerves mapped out for first time](https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery)
+* [2026-03-29, 15:49:30](https://news.ycombinator.com/item?id=47564188) - [Catching the LiteLLM and Telnyx supply chain zero-days via semantic analysis](https://point-wild.github.io/who-touched-my-packages/)
 * [2026-03-29, 15:46:26](https://news.ycombinator.com/item?id=47564159) - [Figma's MCP Update Reflects a Larger Industry Shift](https://metedata.substack.com/p/a-small-figma-update-and-a-big-signal)
+* [2026-03-29, 15:28:27](https://news.ycombinator.com/item?id=47563978) - [AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust](https://github.com/DavidHavoc/ayaFlow)
 * [2026-03-29, 15:22:21](https://news.ycombinator.com/item?id=47563921) - [App that shows real-time lightning on Earth is showing bombings in Middle East](https://maps.blitzortung.org/)
 * [2026-03-29, 15:16:26](https://news.ycombinator.com/item?id=47563886) - [No Kings protests fill streets at over 3,300 rallies in all 50 states](https://www.washingtonpost.com/nation/2026/03/28/no-kings-protests-marches-record-turnout/)
 * [2026-03-29, 14:51:20](https://news.ycombinator.com/item?id=47563655) - [Say No to Palantir in Europe](https://action.wemove.eu/sign/2026-03-palantir-petition-EN)
