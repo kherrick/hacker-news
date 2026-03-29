@@ -12,6 +12,7 @@
 * [2026-03-25, 21:39:55](https://news.ycombinator.com/item?id=47523645) - [Show HN: Automate your workflow in plain English](https://www.operator23.com/)
 * [2026-03-25, 21:11:57](https://news.ycombinator.com/item?id=47523330) - [Running Tesla Model 3's Computer on My Desk Using Parts from Crashed Cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
 * [2026-03-25, 20:58:43](https://news.ycombinator.com/item?id=47523169) - [Health NZ staff told to stop using ChatGPT to write clinical notes](https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes)
+* [2026-03-25, 20:56:51](https://news.ycombinator.com/item?id=47523138) - [Nonfiction Publishing, Under Threat, Is More Important](https://newrepublic.com/article/207659/non-fiction-publishing-threat-important-ever)
 * [2026-03-25, 20:55:36](https://news.ycombinator.com/item?id=47523106) - [China is mass-producing hypersonic missiles for $99,000](https://kdwalmsley.substack.com/p/on-sale-now-china-is-mass-producing)
 * [2026-03-25, 20:27:03](https://news.ycombinator.com/item?id=47522709) - [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar)
 * [2026-03-25, 20:19:58](https://news.ycombinator.com/item?id=47522608) - [Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range](https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/)
