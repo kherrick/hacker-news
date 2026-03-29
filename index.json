@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-29, 17:34:20",
+      "https://news.ycombinator.com/item?id=47565264"
+    ],
+    [
+      "Netscape News Feed Straight Out of the Late 00s",
+      "https://isp.netscape.com/"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 17:14:59",
+      "https://news.ycombinator.com/item?id=47565075"
+    ],
+    [
+      "First Western Digital, now Sony: The tech giant suspends SD card sales",
+      "https://mashable.com/article/sony-sd-card-sales-suspended-memory-shortage"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 16:26:55",
       "https://news.ycombinator.com/item?id=47564579"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47564356"
     ],
     [
-      "Comparison shows audiophiles waste a lot of money",
+      "Scientific audio equipment analysis with analyzer shows no difference in quality",
       "https://www.tomshardware.com/pc-components/sound-cards/comparison-of-usd4-000-boutique-audio-cable-to-usd7-amazon-basics-cable-shows-audiophiles-waste-a-lot-of-money-scientific-audio-equipment-analysis-with-analyzer-shows-no-difference-in-quality"
     ]
   ],
@@ -61,26 +81,6 @@
   ],
   [
     [
-      "2026-03-29, 15:49:30",
-      "https://news.ycombinator.com/item?id=47564188"
-    ],
-    [
-      "Catching the LiteLLM and Telnyx supply chain zero-days via semantic analysis",
-      "https://point-wild.github.io/who-touched-my-packages/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 15:46:26",
-      "https://news.ycombinator.com/item?id=47564159"
-    ],
-    [
-      "Figma's MCP Update Reflects a Larger Industry Shift",
-      "https://metedata.substack.com/p/a-small-figma-update-and-a-big-signal"
-    ]
-  ],
-  [
-    [
       "2026-03-29, 15:28:27",
       "https://news.ycombinator.com/item?id=47563978"
     ],
@@ -91,22 +91,42 @@
   ],
   [
     [
-      "2026-03-29, 14:51:20",
-      "https://news.ycombinator.com/item?id=47563655"
-    ],
-    [
-      "Say No to Palantir in Europe",
-      "https://action.wemove.eu/sign/2026-03-palantir-petition-EN"
-    ]
-  ],
-  [
-    [
       "2026-03-29, 14:20:23",
       "https://news.ycombinator.com/item?id=47563384"
     ],
     [
       "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
       "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 13:47:32",
+      "https://news.ycombinator.com/item?id=47563103"
+    ],
+    [
+      "Show HN: BreezePDF – Free, in-browser PDF editor",
+      "https://breezepdf.com/?v=3"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 13:32:25",
+      "https://news.ycombinator.com/item?id=47563007"
+    ],
+    [
+      "TSA lines are so out of control that travelers are hiring line-sitters",
+      "https://www.washingtonpost.com/travel/2026/03/28/tsa-line-sitters/"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 11:42:31",
+      "https://news.ycombinator.com/item?id=47562288"
+    ],
+    [
+      "Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders",
+      "https://sheetninja.io"
     ]
   ],
   [
@@ -151,22 +171,22 @@
   ],
   [
     [
+      "2026-03-28, 21:03:23",
+      "https://news.ycombinator.com/item?id=47558094"
+    ],
+    [
+      "Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes",
+      "https://github.com/elixir-volt/quickbeam"
+    ]
+  ],
+  [
+    [
       "2026-03-28, 20:39:01",
       "https://news.ycombinator.com/item?id=47557960"
     ],
     [
       "CSS is DOOMed",
       "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 18:38:59",
-      "https://news.ycombinator.com/item?id=47557166"
-    ],
-    [
-      "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-      "https://twitter.com/BoWang87/status/2037648937453232504"
     ]
   ],
   [
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2026-03-28, 15:37:17",
-      "https://news.ycombinator.com/item?id=47555556"
+      "2026-03-28, 16:52:45",
+      "https://news.ycombinator.com/item?id=47556290"
     ],
     [
-      "I decompiled the White House's new app",
-      "https://thereallo.dev/blog/decompiling-the-white-house-app"
+      "Pretext: TypeScript library for multiline text measurement and layout",
+      "https://github.com/chenglou/pretext"
     ]
   ],
   [
@@ -197,26 +217,6 @@
     [
       "AI overly affirms users asking for personal advice",
       "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 11:49:28",
-      "https://news.ycombinator.com/item?id=47553717"
-    ],
-    [
-      "I Built an Open-World Engine for the N64 [video]",
-      "https://www.youtube.com/watch?v=lXxmIw9axWw"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 14:39:51",
-      "https://news.ycombinator.com/item?id=47543186"
-    ],
-    [
-      "OpenBSD on Motorola 88000 Processors",
-      "http://miod.online.fr/software/openbsd/stories/m88k1.html"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=47538596"
     ],
     [
-      "The Failure of the Thermodynamics of Computation(2010)",
+      "The Failure of the Thermodynamics of Computation (2010)",
       "https://sites.pitt.edu/~jdnorton/Goodies/Idealization/index.html"
     ]
   ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-03-26, 10:47:36",
-      "https://news.ycombinator.com/item?id=47528853"
+      "2026-03-26, 03:54:04",
+      "https://news.ycombinator.com/item?id=47526471"
     ],
     [
-      "A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)",
-      "https://github.com/ben-j-c/verilog2factorio"
+      "When Do We Become Adults, Really?",
+      "https://www.newyorker.com/culture/annals-of-inquiry/when-do-we-become-adults-really"
     ]
   ],
   [
@@ -275,18 +275,18 @@
       "https://news.ycombinator.com/item?id=47524778"
     ],
     [
-      "Technology: The (nearly) perfect USB cable tester does exist",
+      "A nearly perfect USB cable tester",
       "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/"
     ]
   ],
   [
     [
-      "2026-03-25, 20:56:51",
-      "https://news.ycombinator.com/item?id=47523138"
+      "2026-03-25, 14:25:42",
+      "https://news.ycombinator.com/item?id=47517774"
     ],
     [
-      "Nonfiction Publishing, Under Threat, Is More Important",
-      "https://newrepublic.com/article/207659/non-fiction-publishing-threat-important-ever"
+      "VR Is Not Dead",
+      "https://yadin.com/notes/vr-abides/"
     ]
   ],
   [
