@@ -44,6 +44,7 @@
 * [2026-03-26, 16:00:47](https://news.ycombinator.com/item?id=47532145) - [Show HN: Claude skill that evaluates B2B vendors by talking to their AI agents](https://github.com/salespeak-ai/buyer-eval-skill)
 * [2026-03-26, 15:48:40](https://news.ycombinator.com/item?id=47531967) - [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/)
 * [2026-03-26, 15:45:14](https://news.ycombinator.com/item?id=47531922) - [Show HN: Sup AI, a confidence-weighted ensemble (52.15% on Humanity's Last Exam)](https://sup.ai)
+* [2026-03-26, 15:17:17](https://news.ycombinator.com/item?id=47531576) - [The RISE RISC-V Runners: free, native RISC-V CI on GitHub](https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/)
 * [2026-03-26, 15:05:00](https://news.ycombinator.com/item?id=47531400) - [French e, è, é, ê, ë – what's the difference?](https://jakubmarian.com/french-e-e-e-e-e-whats-the-difference/)
 * [2026-03-26, 14:51:17](https://news.ycombinator.com/item?id=47531184) - [Cory Doctorow: Interoperability Can Save the Open Web](https://spectrum.ieee.org/doctorow-interoperability)
 * [2026-03-26, 14:36:04](https://news.ycombinator.com/item?id=47530986) - [Intel Announces Arc Pro B70 and Arc Pro B65 GPUs](https://www.techpowerup.com/347703/intel-announces-arc-pro-b70-and-arc-pro-b65-gpus-maxes-out-xe2-battlemage-architecture)
