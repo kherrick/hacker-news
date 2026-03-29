@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-29, 20:38:26](https://news.ycombinator.com/item?id=47567049) - [Show HN: Crazierl – An Erlang Operating System](https://crazierl.org/demo/)
 * [2026-03-29, 20:21:05](https://news.ycombinator.com/item?id=47566865) - [ChatGPT Won't Let You Type Until Cloudflare Reads Your React State](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
+* [2026-03-29, 20:04:50](https://news.ycombinator.com/item?id=47566702) - [Sky Wins Irish Court Order to Unmask 300 Pirate IPTV Users via Revolut Bank](https://torrentfreak.com/sky-wins-irish-court-order-to-unmask-300-pirate-iptv-users-via-revolut-bank/)
 * [2026-03-29, 20:00:02](https://news.ycombinator.com/item?id=47566653) - [Midnight train from GA: A view of America from the tracks as airports struggle](https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a)
-* [2026-03-29, 19:42:26](https://news.ycombinator.com/item?id=47566491) - [The \"Vibe Coding\" Wall of Shame](https://crackr.dev/vibe-coding-failures)
 * [2026-03-29, 19:36:21](https://news.ycombinator.com/item?id=47566442) - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
 * [2026-03-29, 19:26:14](https://news.ycombinator.com/item?id=47566332) - [More on Version Control](https://bramcohen.com/p/more-on-version-control)
 * [2026-03-29, 19:08:20](https://news.ycombinator.com/item?id=47566143) - [My MacBook Keyboard Is Broken and It's Insanely Expensive to Fix](https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/)
@@ -29,7 +30,6 @@
 * [2026-03-26, 14:08:34](https://news.ycombinator.com/item?id=47530670) - [Creating West Coast Buddhism (2024)](https://letter.palladiummag.com/p/creating-west-coast-buddhism)
 * [2026-03-25, 23:35:47](https://news.ycombinator.com/item?id=47524778) - [A nearly perfect USB cable tester](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/)
 * [2026-03-25, 13:46:18](https://news.ycombinator.com/item?id=47517306) - [The Epistemology of Microphysics](https://www.edwardfeser.com/unpublishedpapers/microphysics.html)
-* [2026-03-24, 21:56:07](https://news.ycombinator.com/item?id=47510005) - [Show HN: Create a full language server in Go with 3.17 spec support](https://github.com/owenrumney/go-lsp)
 
 ## [Archives](archives/index.md)
 
