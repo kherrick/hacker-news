@@ -21,6 +21,7 @@
 * [2026-03-26, 20:35:04](https://news.ycombinator.com/item?id=47535371) - [New York City hospitals drop Palantir as controversial AI firm expands in UK](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
 * [2026-03-26, 20:34:56](https://news.ycombinator.com/item?id=47535369) - [The Many Roots of Our Suffering: Reflections on Robert Trivers (1943–2026)](https://quillette.com/2026/03/25/the-many-roots-of-our-suffering-reflections-on-robert-trivers-1943-2026/)
 * [2026-03-26, 20:23:10](https://news.ycombinator.com/item?id=47535249) - [Using FireWire on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/)
+* [2026-03-26, 19:58:19](https://news.ycombinator.com/item?id=47534953) - [Monado became the foundation for OpenXR runtimes](https://www.collabora.com/news-and-blog/news-and-events/how-monado-became-the-foundation-for-openxr-runtimes.html)
 * [2026-03-26, 19:48:05](https://news.ycombinator.com/item?id=47534848) - [We Haven't Seen the Worst of What Gambling and Prediction Markets Will Do](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
 * [2026-03-26, 19:47:01](https://news.ycombinator.com/item?id=47534837) - [How much precision can you squeeze out of a table?](https://www.johndcook.com/blog/2026/03/26/table-precision/)
 * [2026-03-26, 19:30:35](https://news.ycombinator.com/item?id=47534629) - [CERN to host Europe's flagship open access publishing platform](https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform)
