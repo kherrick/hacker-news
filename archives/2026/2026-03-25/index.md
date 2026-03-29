@@ -53,6 +53,7 @@
 * [2026-03-25, 14:07:14](https://news.ycombinator.com/item?id=47517539) - [Thoughts on Slowing the Fuck Down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
 * [2026-03-25, 13:29:54](https://news.ycombinator.com/item?id=47517105) - [Palestinians warn of expanding West Bank settler violence](https://www.bbc.com/news/articles/c747x00m83vo)
 * [2026-03-25, 12:49:14](https://news.ycombinator.com/item?id=47516650) - [Local LLM by Ente](https://ente.com/blog/ensu/)
+* [2026-03-25, 12:47:04](https://news.ycombinator.com/item?id=47516626) - [Modeling what makes paper-folding puzzles hard](https://www.dailyunfold.com/blog/spatial-difficulty)
 * [2026-03-25, 12:29:58](https://news.ycombinator.com/item?id=47516456) - [Nobody Reads Your Setup Docs](https://hanzilla.co/blog/mcp-onboarding-ten-agents-one-command/)
 * [2026-03-25, 12:11:51](https://news.ycombinator.com/item?id=47516297) - [Sports Betting Is Everywhere, Especially on Credit Reports](https://libertystreeteconomics.newyorkfed.org/2026/03/sports-betting-is-everywhere-especially-on-credit-reports/)
 * [2026-03-25, 11:59:36](https://news.ycombinator.com/item?id=47516189) - [Open source isn't a tip jar – it's time to charge for access](https://www.theregister.com/2026/03/25/open_source_bill_opinion/)

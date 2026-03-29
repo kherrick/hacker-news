@@ -18,6 +18,7 @@
 * [2026-03-24, 20:23:34](https://news.ycombinator.com/item?id=47508608) - [GitHub is once again down](https://www.githubstatus.com/incidents/kp06czybl7dw)
 * [2026-03-24, 20:01:05](https://news.ycombinator.com/item?id=47508246) - [We’re saying goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)
 * [2026-03-24, 19:53:51](https://news.ycombinator.com/item?id=47508149) - [Welcome to FastMCP](https://gofastmcp.com/getting-started/welcome)
+* [2026-03-24, 19:49:56](https://news.ycombinator.com/item?id=47508078) - [The case for becoming a manager](https://newsletter.thelongcommit.com/p/the-case-for-becoming-a-manager)
 * [2026-03-24, 19:32:32](https://news.ycombinator.com/item?id=47507856) - [Show HN: Antimatter – Match the opposites (Mahjong solitaire mechanic)](https://www.linguabase.org/antimatter/)
 * [2026-03-24, 19:15:27](https://news.ycombinator.com/item?id=47507666) - [Show HN: AI Roundtable – Let 200 models debate your question](https://opper.ai/ai-roundtable/)
 * [2026-03-24, 19:05:37](https://news.ycombinator.com/item?id=47507576) - [Solving Semantle with the Wrong Embeddings](https://victoriaritvo.com/blog/robust-semantle-solver/)
