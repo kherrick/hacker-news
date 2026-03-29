@@ -28,7 +28,7 @@
 * [2026-03-26, 03:53:59](https://news.ycombinator.com/item?id=47526470) - [The Loneliness of a Room of One's Own](https://newrepublic.com/article/206731/loneliness-room-one-virginia-woolf-hold-up)
 * [2026-03-25, 23:35:47](https://news.ycombinator.com/item?id=47524778) - [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/)
 * [2026-03-25, 20:56:51](https://news.ycombinator.com/item?id=47523138) - [Nonfiction Publishing, Under Threat, Is More Important](https://newrepublic.com/article/207659/non-fiction-publishing-threat-important-ever)
-* [2026-03-25, 05:01:58](https://news.ycombinator.com/item?id=47513482) - [1929: Inside the Greatest Crash in Wall Street History](https://www.nybooks.com/articles/2026/03/26/tick-tick-boom-1929-andrew-ross-sorkin/)
+* [2026-03-25, 14:44:47](https://news.ycombinator.com/item?id=47518010) - [The 667MHz Machine](https://www.0xsid.com/blog/667mhz-machine)
 * [2026-03-24, 19:49:56](https://news.ycombinator.com/item?id=47508078) - [The case for becoming a manager](https://newsletter.thelongcommit.com/p/the-case-for-becoming-a-manager)
 
 ## [Archives](archives/index.md)
