@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-29](index.md)
 
+* [2026-03-29, 15:54:27](https://news.ycombinator.com/item?id=47564246) - [Stop Publishing Garbage Data, It's Embarrassing](https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing/)
+* [2026-03-29, 15:16:26](https://news.ycombinator.com/item?id=47563886) - [No Kings protests fill streets at over 3,300 rallies in all 50 states](https://www.washingtonpost.com/nation/2026/03/28/no-kings-protests-marches-record-turnout/)
 * [2026-03-29, 14:51:20](https://news.ycombinator.com/item?id=47563655) - [Say No to Palantir in Europe](https://action.wemove.eu/sign/2026-03-palantir-petition-EN)
 * [2026-03-29, 14:20:23](https://news.ycombinator.com/item?id=47563384) - [Police used AI facial recognition to wrongly arrest TN woman for crimes in ND](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 * [2026-03-29, 14:14:22](https://news.ycombinator.com/item?id=47563325) - [Show HN: 2.7KB Zig WASM – live globe showing executions at 300 CF edges](https://mcpaas.live/globe)

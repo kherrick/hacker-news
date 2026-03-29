@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-03-29, 15:54:27](https://news.ycombinator.com/item?id=47564246) - [Stop Publishing Garbage Data, It's Embarrassing](https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing/)
+* [2026-03-29, 15:16:26](https://news.ycombinator.com/item?id=47563886) - [No Kings protests fill streets at over 3,300 rallies in all 50 states](https://www.washingtonpost.com/nation/2026/03/28/no-kings-protests-marches-record-turnout/)
 * [2026-03-29, 14:51:20](https://news.ycombinator.com/item?id=47563655) - [Say No to Palantir in Europe](https://action.wemove.eu/sign/2026-03-palantir-petition-EN)
 * [2026-03-29, 14:20:23](https://news.ycombinator.com/item?id=47563384) - [Police used AI facial recognition to wrongly arrest TN woman for crimes in ND](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
-* [2026-03-29, 13:55:04](https://news.ycombinator.com/item?id=47563172) - [Patriot Crisis: US Embezzles Switzerland's Fighter Jet Funds](https://clashreport.com/defense/articles/patriot-crisis-us-seizes-switzerlands-fighter-jet-funds-07crgkch8ihr)
 * [2026-03-29, 10:10:12](https://news.ycombinator.com/item?id=47561819) - [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma)
 * [2026-03-29, 09:46:58](https://news.ycombinator.com/item?id=47561711) - [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/)
 * [2026-03-29, 08:59:52](https://news.ycombinator.com/item?id=47561496) - [Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown](https://github.com/1st1/lat.md)
@@ -23,7 +24,6 @@
 * [2026-03-27, 12:36:21](https://news.ycombinator.com/item?id=47541969) - [I turned my Kindle into my own personal newspaper](https://manualdousuario.net/en/how-to-kindle-personal-newspaper/)
 * [2026-03-27, 02:47:48](https://news.ycombinator.com/item?id=47538596) - [The Failure of the Thermodynamics of Computation(2010)](https://sites.pitt.edu/~jdnorton/Goodies/Idealization/index.html)
 * [2026-03-26, 17:33:25](https://news.ycombinator.com/item?id=47533324) - [Siclair Microvision (1977)](https://r-type.org/articles/art-452.htm)
-* [2026-03-26, 16:06:14](https://news.ycombinator.com/item?id=47532212) - [The Hackers Who Tracked My Sleep Cycle](https://glama.ai/blog/2026-03-26-the-hackers-who-tracked-my-sleep-cycle)
 * [2026-03-26, 10:47:36](https://news.ycombinator.com/item?id=47528853) - [A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)](https://github.com/ben-j-c/verilog2factorio)
 * [2026-03-25, 23:35:47](https://news.ycombinator.com/item?id=47524778) - [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/)
 * [2026-03-25, 20:56:51](https://news.ycombinator.com/item?id=47523138) - [Nonfiction Publishing, Under Threat, Is More Important](https://newrepublic.com/article/207659/non-fiction-publishing-threat-important-ever)
