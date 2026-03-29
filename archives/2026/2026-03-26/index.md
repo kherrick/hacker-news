@@ -37,6 +37,7 @@
 * [2026-03-26, 16:48:12](https://news.ycombinator.com/item?id=47532770) - [Improving Composer through real-time RL](https://cursor.com/blog/real-time-rl-for-composer)
 * [2026-03-26, 16:43:33](https://news.ycombinator.com/item?id=47532717) - [Trust Signals as Sparklines for Hacker News](https://hn-trustspark.com/)
 * [2026-03-26, 16:14:56](https://news.ycombinator.com/item?id=47532339) - [OpenTelemetry Profiles Enters Public Alpha](https://opentelemetry.io/blog/2026/profiles-alpha/)
+* [2026-03-26, 16:06:14](https://news.ycombinator.com/item?id=47532212) - [The Hackers Who Tracked My Sleep Cycle](https://glama.ai/blog/2026-03-26-the-hackers-who-tracked-my-sleep-cycle)
 * [2026-03-26, 16:00:57](https://news.ycombinator.com/item?id=47532148) - [Stripe Projects: Provision and manage services from the CLI](https://projects.dev/)
 * [2026-03-26, 16:00:47](https://news.ycombinator.com/item?id=47532145) - [Show HN: Claude skill that evaluates B2B vendors by talking to their AI agents](https://github.com/salespeak-ai/buyer-eval-skill)
 * [2026-03-26, 15:48:40](https://news.ycombinator.com/item?id=47531967) - [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/)

@@ -30,6 +30,7 @@
 * [2026-03-27, 15:46:50](https://news.ycombinator.com/item?id=47544238) - [The Future of SCIP](https://sourcegraph.com/blog/the-future-of-scip)
 * [2026-03-27, 15:33:54](https://news.ycombinator.com/item?id=47544006) - [SimpleX Chat](https://simplex.chat/)
 * [2026-03-27, 15:31:20](https://news.ycombinator.com/item?id=47543943) - [Desk for people who work at home with a cat](https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/)
+* [2026-03-27, 15:05:56](https://news.ycombinator.com/item?id=47543531) - [Tell HN: GitHub's Dependabot REST API is silently returning incomplete results](https://news.ycombinator.com/item?id=47543531)
 * [2026-03-27, 14:53:43](https://news.ycombinator.com/item?id=47543361) - [Rising Air-Conditioning Use Intensifies Global Warming](https://www.nature.com/articles/s41467-026-69393-1)
 * [2026-03-27, 14:44:42](https://news.ycombinator.com/item?id=47543247) - [Rank the 50 best Apple products](https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products)
 * [2026-03-27, 14:41:02](https://news.ycombinator.com/item?id=47543204) - [Meow.camera](https://meow.camera/#4258783365322591678)

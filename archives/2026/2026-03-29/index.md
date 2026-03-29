@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-29](index.md)
 
+* [2026-03-29, 08:48:36](https://news.ycombinator.com/item?id=47561445) - [Solar is winning the energy race](https://www.dw.com/en/solar-is-winning-the-energy-race/a-76517556)
 * [2026-03-29, 08:18:55](https://news.ycombinator.com/item?id=47561297) - [What if AI doesn't need more RAM but better math?](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
+* [2026-03-29, 07:38:58](https://news.ycombinator.com/item?id=47561132) - [Show HN: Public transit systems as data – lines, stations, railcars, and history](https://publictransit.systems)
 * [2026-03-29, 07:00:48](https://news.ycombinator.com/item?id=47560981) - [The road to electric – in charts and data [UK]](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/)
 * [2026-03-29, 06:03:30](https://news.ycombinator.com/item?id=47560768) - [Shipment of KitKat bars stolen en route from Italy to Poland](https://apnews.com/article/nestle-switzerland-candy-bar-stolen-kitkat-51073cce27a0e193651aa7f31aaa506e)
 * [2026-03-29, 05:20:48](https://news.ycombinator.com/item?id=47560592) - [The United States is driving a public health emergency of international concern](https://www.bmj.com/content/392/bmj-2026-089474)
