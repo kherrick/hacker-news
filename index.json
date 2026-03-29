@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-29, 10:10:12",
+      "https://news.ycombinator.com/item?id=47561819"
+    ],
+    [
+      "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "https://github.com/austin-weeks/miasma"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 09:46:58",
+      "https://news.ycombinator.com/item?id=47561711"
+    ],
+    [
+      "Overestimation of microplastics potentially caused by scientists' gloves",
+      "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 08:59:52",
       "https://news.ycombinator.com/item?id=47561496"
     ],
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2026-03-28, 23:29:04",
-      "https://news.ycombinator.com/item?id=47558997"
-    ],
-    [
-      "South Korea Mandates Solar Panels for Public Parking Lots",
-      "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ"
-    ]
-  ],
-  [
-    [
       "2026-03-28, 22:50:49",
       "https://news.ycombinator.com/item?id=47558782"
     ],
     [
       "A laser-based process that enables adhesive-free paper packaging",
       "https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 21:35:22",
-      "https://news.ycombinator.com/item?id=47558305"
-    ],
-    [
-      "InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer",
-      "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-03-26, 19:58:19",
+      "https://news.ycombinator.com/item?id=47534953"
+    ],
+    [
+      "Monado became the foundation for OpenXR runtimes",
+      "https://www.collabora.com/news-and-blog/news-and-events/how-monado-became-the-foundation-for-openxr-runtimes.html"
+    ]
+  ],
+  [
+    [
       "2026-03-26, 17:33:25",
       "https://news.ycombinator.com/item?id=47533324"
     ],
@@ -287,16 +297,6 @@
     [
       "Nonfiction Publishing, Under Threat, Is More Important",
       "https://newrepublic.com/article/207659/non-fiction-publishing-threat-important-ever"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 05:01:58",
-      "https://news.ycombinator.com/item?id=47513482"
-    ],
-    [
-      "1929: Inside the Greatest Crash in Wall Street History",
-      "https://www.nybooks.com/articles/2026/03/26/tick-tick-boom-1929-andrew-ross-sorkin/"
     ]
   ]
 ]
