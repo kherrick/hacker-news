@@ -35,6 +35,7 @@
 * [2026-03-27, 14:41:02](https://news.ycombinator.com/item?id=47543204) - [Meow.camera](https://meow.camera/#4258783365322591678)
 * [2026-03-27, 14:40:57](https://news.ycombinator.com/item?id=47543201) - [The Last Gasps of the Rent Seeking Class](https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html)
 * [2026-03-27, 14:40:06](https://news.ycombinator.com/item?id=47543189) - [Anthropic's Claude loses its >99% uptime in Q1 2026](https://bsky.app/profile/teropa.bsky.social/post/3mi2dbt27m226)
+* [2026-03-27, 14:39:51](https://news.ycombinator.com/item?id=47543186) - [OpenBSD on Motorola 88000 Processors](http://miod.online.fr/software/openbsd/stories/m88k1.html)
 * [2026-03-27, 14:38:28](https://news.ycombinator.com/item?id=47543167) - [Iran-linked hackers claim breach of FBI director's personal email](https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/)
 * [2026-03-27, 14:35:45](https://news.ycombinator.com/item?id=47543139) - [Anatomy of the .claude/ Folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
 * [2026-03-27, 14:15:45](https://news.ycombinator.com/item?id=47542916) - [Author of Red Mars calls 'bullshit' on emigrating to the planet](https://www.newscientist.com/article/2520312-author-of-red-mars-calls-bullshit-on-emigrating-to-the-planet/)
