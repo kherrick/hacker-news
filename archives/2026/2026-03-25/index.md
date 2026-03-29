@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-25](index.md)
 
+* [2026-03-25, 23:35:47](https://news.ycombinator.com/item?id=47524778) - [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/)
 * [2026-03-25, 23:30:55](https://news.ycombinator.com/item?id=47524719) - [Woman who never stopped updating her lost dog's chip reunites with him after 11y](https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780)
 * [2026-03-25, 23:29:13](https://news.ycombinator.com/item?id=47524704) - [Show HN: A plain-text cognitive architecture for Claude Code](https://lab.puga.com.br/cog/)
 * [2026-03-25, 23:11:34](https://news.ycombinator.com/item?id=47524519) - [\"Disregard That\" Attacks](https://calpaterson.com/disregard.html)

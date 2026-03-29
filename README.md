@@ -4,7 +4,7 @@
 * [2026-03-29, 04:26:13](https://news.ycombinator.com/item?id=47560380) - [OpenYak – An open-source Cowork that runs any model and owns your filesystem](https://github.com/openyak/desktop)
 * [2026-03-29, 00:53:30](https://news.ycombinator.com/item?id=47559481) - [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194)
 * [2026-03-28, 23:29:04](https://news.ycombinator.com/item?id=47558997) - [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
-* [2026-03-28, 22:50:49](https://news.ycombinator.com/item?id=47558782) - [Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html)
+* [2026-03-28, 22:50:49](https://news.ycombinator.com/item?id=47558782) - [A laser-based process that enables adhesive-free paper packaging](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html)
 * [2026-03-28, 21:35:22](https://news.ycombinator.com/item?id=47558305) - [InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer](https://inpharmd.com/jobs/senior-ruby-on-rails-engineer)
 * [2026-03-28, 20:39:01](https://news.ycombinator.com/item?id=47557960) - [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
 * [2026-03-28, 20:28:03](https://news.ycombinator.com/item?id=47557901) - [Android’s new sideload settings will carry over to new devices](https://www.androidauthority.com/android-sideload-carry-over-3652845/)
@@ -23,13 +23,13 @@
 * [2026-03-27, 12:36:21](https://news.ycombinator.com/item?id=47541969) - [I turned my Kindle into my own personal newspaper](https://manualdousuario.net/en/how-to-kindle-personal-newspaper/)
 * [2026-03-26, 21:54:18](https://news.ycombinator.com/item?id=47536306) - [The ANSI art \"telecomics\" of the 1992 election](https://breakintochat.com/blog/2026/03/25/don-lokke-and-mack-the-mouse/)
 * [2026-03-26, 10:47:36](https://news.ycombinator.com/item?id=47528853) - [A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)](https://github.com/ben-j-c/verilog2factorio)
+* [2026-03-25, 23:35:47](https://news.ycombinator.com/item?id=47524778) - [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/)
 * [2026-03-25, 14:44:47](https://news.ycombinator.com/item?id=47518010) - [The 667MHz Machine](https://www.0xsid.com/blog/667mhz-machine)
 * [2026-03-25, 12:47:04](https://news.ycombinator.com/item?id=47516626) - [Modeling what makes paper-folding puzzles hard](https://www.dailyunfold.com/blog/spatial-difficulty)
 * [2026-03-25, 11:09:21](https://news.ycombinator.com/item?id=47515783) - [Hacking old hardware by renaming to .zip [video]](https://www.youtube.com/watch?v=P1kfuCkWo24)
 * [2026-03-25, 05:01:58](https://news.ycombinator.com/item?id=47513482) - [1929: Inside the Greatest Crash in Wall Street History](https://www.nybooks.com/articles/2026/03/26/tick-tick-boom-1929-andrew-ross-sorkin/)
 * [2026-03-24, 20:29:44](https://news.ycombinator.com/item?id=47508710) - [Detecting file changes on macOS with kqueue](https://www.vegardstikbakke.com/kqueue/)
 * [2026-03-24, 19:49:56](https://news.ycombinator.com/item?id=47508078) - [The case for becoming a manager](https://newsletter.thelongcommit.com/p/the-case-for-becoming-a-manager)
-* [2026-03-24, 18:17:19](https://news.ycombinator.com/item?id=47506889) - [Meta Partners with Arm to Develop New Class of Data Center Silicon](https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/)
 
 ## [Archives](archives/index.md)
 
