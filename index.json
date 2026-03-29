@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-03-29, 05:20:48",
-      "https://news.ycombinator.com/item?id=47560592"
+      "2026-03-29, 06:03:30",
+      "https://news.ycombinator.com/item?id=47560768"
     ],
     [
-      "The United States is driving a public health emergency of international concern",
-      "https://www.bmj.com/content/392/bmj-2026-089474"
+      "Shipment of KitKat bars stolen en route from Italy to Poland",
+      "https://apnews.com/article/nestle-switzerland-candy-bar-stolen-kitkat-51073cce27a0e193651aa7f31aaa506e"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47557901"
     ],
     [
-      "Google just gave Android power users a sideloading win",
+      "Android’s new sideload settings will carry over to new devices",
       "https://www.androidauthority.com/android-sideload-carry-over-3652845/"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=47556267"
     ],
     [
-      "Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms",
+      "Undroidwish – A single-file, batteries-included Tcl/Tk binary for many platforms",
       "https://androwish.org/home/wiki?name=undroidwish"
     ]
   ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=47552643"
     ],
     [
-      "Cat Itecture: Better Cat Window Boxes",
+      "Cat Itecture: Better Cat Window Boxes (2023)",
       "https://gwern.net/catitecture"
     ]
   ],
@@ -197,6 +197,16 @@
     [
       "OpenBSD on Motorola 88000 Processors",
       "http://miod.online.fr/software/openbsd/stories/m88k1.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 12:36:21",
+      "https://news.ycombinator.com/item?id=47541969"
+    ],
+    [
+      "I turned my Kindle into my own personal newspaper",
+      "https://manualdousuario.net/en/how-to-kindle-personal-newspaper/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Meta Partners with Arm to Develop New Class of Data Center Silicon",
       "https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 15:02:38",
-      "https://news.ycombinator.com/item?id=47503687"
-    ],
-    [
-      "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",
-      "https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting"
     ]
   ]
 ]
