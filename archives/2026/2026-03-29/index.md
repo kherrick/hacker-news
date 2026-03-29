@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-29](index.md)
 
+* [2026-03-29, 14:51:20](https://news.ycombinator.com/item?id=47563655) - [Say No to Palantir in Europe](https://action.wemove.eu/sign/2026-03-palantir-petition-EN)
 * [2026-03-29, 14:20:23](https://news.ycombinator.com/item?id=47563384) - [Police used AI facial recognition to wrongly arrest TN woman for crimes in ND](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 * [2026-03-29, 14:14:22](https://news.ycombinator.com/item?id=47563325) - [Show HN: 2.7KB Zig WASM – live globe showing executions at 300 CF edges](https://mcpaas.live/globe)
+* [2026-03-29, 13:55:04](https://news.ycombinator.com/item?id=47563172) - [Patriot Crisis: US Embezzles Switzerland's Fighter Jet Funds](https://clashreport.com/defense/articles/patriot-crisis-us-seizes-switzerlands-fighter-jet-funds-07crgkch8ihr)
 * [2026-03-29, 13:32:25](https://news.ycombinator.com/item?id=47563007) - [TSA lines are so out of control that travelers are hiring line-sitters](https://www.washingtonpost.com/travel/2026/03/28/tsa-line-sitters/)
 * [2026-03-29, 12:24:56](https://news.ycombinator.com/item?id=47562589) - [The Cloud: The dystopian book that changed Germany (2022)](https://www.bbc.com/culture/article/20221101-the-cloud-the-nuclear-novel-that-shaped-germany)
 * [2026-03-29, 11:42:31](https://news.ycombinator.com/item?id=47562288) - [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io)

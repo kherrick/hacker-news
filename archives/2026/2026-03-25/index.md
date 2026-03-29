@@ -53,6 +53,7 @@
 * [2026-03-25, 14:20:24](https://news.ycombinator.com/item?id=47517701) - [Apple Just Lost Me](https://andregarzia.com/2026/03/apple-just-lost-me.html)
 * [2026-03-25, 14:12:04](https://news.ycombinator.com/item?id=47517606) - [Earthquake scientists reveal how overplowing weakens soil at experimental farm](https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/)
 * [2026-03-25, 14:07:14](https://news.ycombinator.com/item?id=47517539) - [Thoughts on Slowing the Fuck Down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
+* [2026-03-25, 13:46:18](https://news.ycombinator.com/item?id=47517306) - [The Epistemology of Microphysics](https://www.edwardfeser.com/unpublishedpapers/microphysics.html)
 * [2026-03-25, 13:29:54](https://news.ycombinator.com/item?id=47517105) - [Palestinians warn of expanding West Bank settler violence](https://www.bbc.com/news/articles/c747x00m83vo)
 * [2026-03-25, 12:49:14](https://news.ycombinator.com/item?id=47516650) - [Local LLM by Ente](https://ente.com/blog/ensu/)
 * [2026-03-25, 12:47:04](https://news.ycombinator.com/item?id=47516626) - [Modeling what makes paper-folding puzzles hard](https://www.dailyunfold.com/blog/spatial-difficulty)
