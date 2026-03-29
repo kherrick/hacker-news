@@ -24,12 +24,12 @@
 * [2026-03-29, 08:58:24](https://news.ycombinator.com/item?id=47561489) - [LinkedIn uses 2.4 GB RAM across two tabs](https://news.ycombinator.com/item?id=47561489)
 * [2026-03-28, 21:03:23](https://news.ycombinator.com/item?id=47558094) - [Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes](https://github.com/elixir-volt/quickbeam)
 * [2026-03-28, 16:52:45](https://news.ycombinator.com/item?id=47556290) - [Pretext: TypeScript library for multiline text measurement and layout](https://github.com/chenglou/pretext)
+* [2026-03-27, 23:10:36](https://news.ycombinator.com/item?id=47549586) - [About the Atmosphere](https://toni.org/2026/03/27/about-the-atmosphere/)
 * [2026-03-27, 12:56:31](https://news.ycombinator.com/item?id=47542142) - [Observations from carbon dioxide monitoring](https://grieve-smith.com/ftn/2026/03/nine-observations-from-carbon-dioxide-monitoring/)
 * [2026-03-27, 04:41:07](https://news.ycombinator.com/item?id=47539165) - [Ohm's Peg-to-WASM Compiler](https://ohmjs.org/blog/2026/03/12/peg-to-wasm)
 * [2026-03-26, 19:45:29](https://news.ycombinator.com/item?id=47534812) - [I'll buy your electronics to feed our robot](https://www.dayworkx.com/)
 * [2026-03-26, 15:17:17](https://news.ycombinator.com/item?id=47531576) - [The RISE RISC-V Runners: free, native RISC-V CI on GitHub](https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/)
 * [2026-03-26, 14:08:34](https://news.ycombinator.com/item?id=47530670) - [Creating West Coast Buddhism (2024)](https://letter.palladiummag.com/p/creating-west-coast-buddhism)
-* [2026-03-25, 13:46:18](https://news.ycombinator.com/item?id=47517306) - [The Epistemology of Microphysics](https://www.edwardfeser.com/unpublishedpapers/microphysics.html)
 
 ## [Archives](archives/index.md)
 
