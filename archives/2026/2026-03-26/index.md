@@ -10,6 +10,7 @@
 * [2026-03-26, 22:41:25](https://news.ycombinator.com/item?id=47536761) - [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 * [2026-03-26, 22:36:41](https://news.ycombinator.com/item?id=47536712) - [We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 * [2026-03-26, 21:55:04](https://news.ycombinator.com/item?id=47536316) - [Iran oil revenue soars as it's the only exporter out of Hormuz](https://financialpost.com/commodities/energy/oil-gas/iran-oil-revenue-soars-hormuz)
+* [2026-03-26, 21:54:18](https://news.ycombinator.com/item?id=47536306) - [The ANSI art \"telecomics\" of the 1992 election](https://breakintochat.com/blog/2026/03/25/don-lokke-and-mack-the-mouse/)
 * [2026-03-26, 21:37:15](https://news.ycombinator.com/item?id=47536110) - [Anthropic Subprocessor Changes](https://trust.anthropic.com)
 * [2026-03-26, 21:36:51](https://news.ycombinator.com/item?id=47536102) - [An unstoppable mushroom is tearing through North American forests](https://www.bbc.com/future/article/20260325-an-unstoppable-mushroom-is-tearing-through-north-american-forests)
 * [2026-03-26, 21:16:03](https://news.ycombinator.com/item?id=47535863) - [Memory That Collaborates](https://datahike.io/notes/collaborate-without-infrastructure/)
