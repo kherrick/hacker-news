@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-29](index.md)
 
+* [2026-03-29, 17:34:20](https://news.ycombinator.com/item?id=47565264) - [Netscape News Feed Straight Out of the Late 00s](https://isp.netscape.com/)
+* [2026-03-29, 17:14:59](https://news.ycombinator.com/item?id=47565075) - [First Western Digital, now Sony: The tech giant suspends SD card sales](https://mashable.com/article/sony-sd-card-sales-suspended-memory-shortage)
 * [2026-03-29, 16:26:55](https://news.ycombinator.com/item?id=47564579) - [The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history](https://www.righto.com/2026/03/ibm-4-pi-computer-history.html)
 * [2026-03-29, 16:17:30](https://news.ycombinator.com/item?id=47564469) - [The bot situation on the internet is worse than you could imagine](https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why)
 * [2026-03-29, 16:12:22](https://news.ycombinator.com/item?id=47564421) - [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/)
@@ -19,6 +21,7 @@
 * [2026-03-29, 14:20:23](https://news.ycombinator.com/item?id=47563384) - [Police used AI facial recognition to wrongly arrest TN woman for crimes in ND](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 * [2026-03-29, 14:14:22](https://news.ycombinator.com/item?id=47563325) - [Show HN: 2.7KB Zig WASM – live globe showing executions at 300 CF edges](https://mcpaas.live/globe)
 * [2026-03-29, 13:55:04](https://news.ycombinator.com/item?id=47563172) - [Patriot Crisis: US Embezzles Switzerland's Fighter Jet Funds](https://clashreport.com/defense/articles/patriot-crisis-us-seizes-switzerlands-fighter-jet-funds-07crgkch8ihr)
+* [2026-03-29, 13:47:32](https://news.ycombinator.com/item?id=47563103) - [Show HN: BreezePDF – Free, in-browser PDF editor](https://breezepdf.com/?v=3)
 * [2026-03-29, 13:32:25](https://news.ycombinator.com/item?id=47563007) - [TSA lines are so out of control that travelers are hiring line-sitters](https://www.washingtonpost.com/travel/2026/03/28/tsa-line-sitters/)
 * [2026-03-29, 12:24:56](https://news.ycombinator.com/item?id=47562589) - [The Cloud: The dystopian book that changed Germany (2022)](https://www.bbc.com/culture/article/20221101-the-cloud-the-nuclear-novel-that-shaped-germany)
 * [2026-03-29, 11:42:31](https://news.ycombinator.com/item?id=47562288) - [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io)

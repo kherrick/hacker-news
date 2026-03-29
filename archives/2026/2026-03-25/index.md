@@ -50,6 +50,7 @@
 * [2026-03-25, 14:44:47](https://news.ycombinator.com/item?id=47518010) - [The 667MHz Machine](https://www.0xsid.com/blog/667mhz-machine)
 * [2026-03-25, 14:44:10](https://news.ycombinator.com/item?id=47518001) - [OpenAI's latest repo has Claude as the third top contributor](https://twitter.com/CodeByNZ/status/2036723050197012771)
 * [2026-03-25, 14:34:09](https://news.ycombinator.com/item?id=47517885) - [Ubuntu wants to strip some of GRUB features in 26.10 for security purposes](https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069)
+* [2026-03-25, 14:25:42](https://news.ycombinator.com/item?id=47517774) - [VR Is Not Dead](https://yadin.com/notes/vr-abides/)
 * [2026-03-25, 14:20:24](https://news.ycombinator.com/item?id=47517701) - [Apple Just Lost Me](https://andregarzia.com/2026/03/apple-just-lost-me.html)
 * [2026-03-25, 14:12:04](https://news.ycombinator.com/item?id=47517606) - [Earthquake scientists reveal how overplowing weakens soil at experimental farm](https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/)
 * [2026-03-25, 14:07:14](https://news.ycombinator.com/item?id=47517539) - [Thoughts on Slowing the Fuck Down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
