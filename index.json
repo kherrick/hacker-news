@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-29, 16:17:30",
+      "https://news.ycombinator.com/item?id=47564469"
+    ],
+    [
+      "The bot situation on the internet is worse than you could imagine",
+      "https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 16:12:22",
+      "https://news.ycombinator.com/item?id=47564421"
+    ],
+    [
+      "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+      "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 16:06:11",
+      "https://news.ycombinator.com/item?id=47564356"
+    ],
+    [
+      "Comparison shows audiophiles waste a lot of money",
+      "https://www.tomshardware.com/pc-components/sound-cards/comparison-of-usd4-000-boutique-audio-cable-to-usd7-amazon-basics-cable-shows-audiophiles-waste-a-lot-of-money-scientific-audio-equipment-analysis-with-analyzer-shows-no-difference-in-quality"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 15:54:27",
       "https://news.ycombinator.com/item?id=47564246"
     ],
@@ -11,12 +41,32 @@
   ],
   [
     [
-      "2026-03-29, 15:16:26",
-      "https://news.ycombinator.com/item?id=47563886"
+      "2026-03-29, 15:54:25",
+      "https://news.ycombinator.com/item?id=47564245"
     ],
     [
-      "No Kings protests fill streets at over 3,300 rallies in all 50 states",
-      "https://www.washingtonpost.com/nation/2026/03/28/no-kings-protests-marches-record-turnout/"
+      "Full network of clitoral nerves mapped out for first time",
+      "https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 15:46:26",
+      "https://news.ycombinator.com/item?id=47564159"
+    ],
+    [
+      "Figma's MCP Update Reflects a Larger Industry Shift",
+      "https://metedata.substack.com/p/a-small-figma-update-and-a-big-signal"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 15:22:21",
+      "https://news.ycombinator.com/item?id=47563921"
+    ],
+    [
+      "App that shows real-time lightning on Earth is showing bombings in Middle East",
+      "https://maps.blitzortung.org/"
     ]
   ],
   [
@@ -61,16 +111,6 @@
   ],
   [
     [
-      "2026-03-29, 08:59:52",
-      "https://news.ycombinator.com/item?id=47561496"
-    ],
-    [
-      "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
-      "https://github.com/1st1/lat.md"
-    ]
-  ],
-  [
-    [
       "2026-03-29, 08:58:24",
       "https://news.ycombinator.com/item?id=47561489"
     ],
@@ -91,32 +131,12 @@
   ],
   [
     [
-      "2026-03-29, 07:38:58",
-      "https://news.ycombinator.com/item?id=47561132"
-    ],
-    [
-      "Show HN: Public transit systems as data – lines, stations, railcars, and history",
-      "https://publictransit.systems"
-    ]
-  ],
-  [
-    [
       "2026-03-29, 00:53:30",
       "https://news.ycombinator.com/item?id=47559481"
     ],
     [
       "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
       "https://www.bmj.com/content/387/bmj-2024-082194"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 22:50:49",
-      "https://news.ycombinator.com/item?id=47558782"
-    ],
-    [
-      "A laser-based process that enables adhesive-free paper packaging",
-      "https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html"
     ]
   ],
   [
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2026-03-28, 20:28:03",
-      "https://news.ycombinator.com/item?id=47557901"
-    ],
-    [
-      "Android’s new sideload settings will carry over to new devices",
-      "https://www.androidauthority.com/android-sideload-carry-over-3652845/"
-    ]
-  ],
-  [
-    [
       "2026-03-28, 18:38:59",
       "https://news.ycombinator.com/item?id=47557166"
     ],
     [
       "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
       "https://twitter.com/BoWang87/status/2037648937453232504"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 18:22:45",
-      "https://news.ycombinator.com/item?id=47557064"
-    ],
-    [
-      "OpenCiv1 – open-source rewrite of Civ1",
-      "https://github.com/rajko-horvat/OpenCiv1"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-03-26, 15:17:17",
+      "https://news.ycombinator.com/item?id=47531576"
+    ],
+    [
+      "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
+      "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/"
+    ]
+  ],
+  [
+    [
       "2026-03-26, 10:47:36",
       "https://news.ycombinator.com/item?id=47528853"
     ],
@@ -267,16 +277,6 @@
     [
       "Nonfiction Publishing, Under Threat, Is More Important",
       "https://newrepublic.com/article/207659/non-fiction-publishing-threat-important-ever"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 13:46:18",
-      "https://news.ycombinator.com/item?id=47517306"
-    ],
-    [
-      "The Epistemology of Microphysics",
-      "https://www.edwardfeser.com/unpublishedpapers/microphysics.html"
     ]
   ],
   [
