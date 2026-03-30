@@ -13,6 +13,7 @@
 * [2026-03-26, 21:54:18](https://news.ycombinator.com/item?id=47536306) - [The ANSI art \"telecomics\" of the 1992 election](https://breakintochat.com/blog/2026/03/25/don-lokke-and-mack-the-mouse/)
 * [2026-03-26, 21:37:15](https://news.ycombinator.com/item?id=47536110) - [Anthropic Subprocessor Changes](https://trust.anthropic.com)
 * [2026-03-26, 21:36:51](https://news.ycombinator.com/item?id=47536102) - [An unstoppable mushroom is tearing through North American forests](https://www.bbc.com/future/article/20260325-an-unstoppable-mushroom-is-tearing-through-north-american-forests)
+* [2026-03-26, 21:22:32](https://news.ycombinator.com/item?id=47535937) - [The First Video Game Was Just a Box in the Corner of a Bar](https://lithub.com/the-very-first-video-game-was-just-a-box-in-the-corner-of-a-bar/)
 * [2026-03-26, 21:16:03](https://news.ycombinator.com/item?id=47535863) - [Memory That Collaborates](https://datahike.io/notes/collaborate-without-infrastructure/)
 * [2026-03-26, 21:04:50](https://news.ycombinator.com/item?id=47535708) - [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/)
 * [2026-03-26, 20:58:04](https://news.ycombinator.com/item?id=47535626) - [Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer](https://github.com/ViciousSquid/Fio)

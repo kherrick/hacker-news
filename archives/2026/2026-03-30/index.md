@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
 * [2026-03-30, 08:52:07](https://news.ycombinator.com/item?id=47572008) - [Apple nailed AI by doing fucking nothing lol](https://xcancel.com/cryptopunk7213/status/2038351931589193953?s=20)
+* [2026-03-30, 08:51:18](https://news.ycombinator.com/item?id=47572000) - [Stripe is down](https://status.stripe.com/)
 * [2026-03-30, 08:51:18](https://news.ycombinator.com/item?id=47572000) - [Stripe Is Down](https://dashboard.stripe.com/login)
 * [2026-03-30, 08:13:17](https://news.ycombinator.com/item?id=47571746) - [How to Survive in the Tech industry in 2026](https://blog.phuaxueyong.com/post/2026-03-23-how-to-survive-tech-in-2026/)
 * [2026-03-30, 07:34:04](https://news.ycombinator.com/item?id=47571495) - [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)
