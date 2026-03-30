@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-30, 02:43:17",
+      "https://news.ycombinator.com/item?id=47569837"
+    ],
+    [
+      "The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT",
+      "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 01:43:20",
+      "https://news.ycombinator.com/item?id=47569502"
+    ],
+    [
+      "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
+      "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 01:38:17",
+      "https://news.ycombinator.com/item?id=47569471"
+    ],
+    [
+      "Philly courts will ban all smart eyeglasses starting next week",
+      "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 22:28:11",
       "https://news.ycombinator.com/item?id=47568080"
     ],
@@ -61,26 +91,6 @@
   ],
   [
     [
-      "2026-03-29, 20:04:50",
-      "https://news.ycombinator.com/item?id=47566702"
-    ],
-    [
-      "Sky Wins Irish Court Order to Unmask 300 Pirate IPTV Users via Revolut Bank",
-      "https://torrentfreak.com/sky-wins-irish-court-order-to-unmask-300-pirate-iptv-users-via-revolut-bank/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 20:00:02",
-      "https://news.ycombinator.com/item?id=47566653"
-    ],
-    [
-      "Midnight train from GA: A view of America from the tracks as airports struggle",
-      "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a"
-    ]
-  ],
-  [
-    [
       "2026-03-29, 19:36:21",
       "https://news.ycombinator.com/item?id=47566442"
     ],
@@ -107,16 +117,6 @@
     [
       "Kyushu Railway Company Train Varieties",
       "https://www.jrkyushu.co.jp/english/train/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 18:35:58",
-      "https://news.ycombinator.com/item?id=47565831"
-    ],
-    [
-      "Show HN: I made a \"programming language\" looking for feedback",
-      "https://github.com/alonsovm44/glupe"
     ]
   ],
   [
@@ -157,26 +157,6 @@
     [
       "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
       "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 15:54:25",
-      "https://news.ycombinator.com/item?id=47564245"
-    ],
-    [
-      "Full network of clitoral nerves mapped out for first time",
-      "https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 15:28:27",
-      "https://news.ycombinator.com/item?id=47563978"
-    ],
-    [
-      "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
-      "https://github.com/DavidHavoc/ayaFlow"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2026-03-28, 11:56:27",
+      "https://news.ycombinator.com/item?id=47553766"
+    ],
+    [
+      "Quantum Control Plane",
+      "https://github.com/mareksuchodolski12-hash/kwantowy"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 23:10:36",
       "https://news.ycombinator.com/item?id=47549586"
     ],
@@ -257,6 +247,16 @@
     [
       "15 Years of Forking",
       "https://www.waterfox.com/blog/15-years-of-forking/"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 14:40:47",
+      "https://news.ycombinator.com/item?id=47543198"
+    ],
+    [
+      "Interview: Nobonoko, Master of the Minimal Sequencer",
+      "https://fi-le.net/nobo/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-03-26, 16:14:48",
+      "https://news.ycombinator.com/item?id=47532338"
+    ],
+    [
+      "Gonon: Building a Clock with No Numerals",
+      "https://tonygaeta.com/perceptor/code/gonon"
+    ]
+  ],
+  [
+    [
       "2026-03-26, 15:17:17",
       "https://news.ycombinator.com/item?id=47531576"
     ],
     [
       "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
       "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 14:08:34",
-      "https://news.ycombinator.com/item?id=47530670"
-    ],
-    [
-      "Creating West Coast Buddhism (2024)",
-      "https://letter.palladiummag.com/p/creating-west-coast-buddhism"
     ]
   ]
 ]
