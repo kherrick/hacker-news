@@ -40,6 +40,7 @@
 * [2026-03-28, 12:27:45](https://news.ycombinator.com/item?id=47553957) - [Byte Interviews Chuck Peddle, Father of the MOS 6502 and Commodore PET (1982)](https://computeradsfromthepast.substack.com/p/byte-interviews-chuck-peddle-father)
 * [2026-03-28, 12:01:27](https://news.ycombinator.com/item?id=47553798) - [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es)
 * [2026-03-28, 12:01:07](https://news.ycombinator.com/item?id=47553796) - [Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers](https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer)
+* [2026-03-28, 11:56:27](https://news.ycombinator.com/item?id=47553766) - [Quantum Control Plane](https://github.com/mareksuchodolski12-hash/kwantowy)
 * [2026-03-28, 11:49:28](https://news.ycombinator.com/item?id=47553717) - [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw)
 * [2026-03-28, 11:13:23](https://news.ycombinator.com/item?id=47553516) - [No one is happy with NASA's new idea for private space stations](https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/)
 * [2026-03-28, 11:06:44](https://news.ycombinator.com/item?id=47553484) - [Britain today generating 90%+ of electricity from renewables](https://grid.iamkate.com/)
