@@ -38,6 +38,7 @@
 * [2026-03-28, 14:30:30](https://news.ycombinator.com/item?id=47554948) - [ICAO issued new power bank restriction on flight](https://www.icao.int/news/new-power-bank-restrictions-will-safeguard-international-aviation)
 * [2026-03-28, 14:09:24](https://news.ycombinator.com/item?id=47554779) - [Behind the Scenes of the Westworld UI](https://vanschneider.com/blog/behind-the-scenes-of-the-westworld-ui/)
 * [2026-03-28, 14:08:33](https://news.ycombinator.com/item?id=47554773) - [AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+* [2026-03-28, 13:39:40](https://news.ycombinator.com/item?id=47554493) - [Roulette Computers: Hidden Devices That Predict Spins](https://www.roulette-computers.com/)
 * [2026-03-28, 13:28:34](https://news.ycombinator.com/item?id=47554412) - [You Do Not, in Fact, Have to Hand It to Them](https://2ndbreakfast.audreywatters.com/you-do-not-in-fact-have-to-hand-it-to-them/)
 * [2026-03-28, 12:27:45](https://news.ycombinator.com/item?id=47553957) - [Byte Interviews Chuck Peddle, Father of the MOS 6502 and Commodore PET (1982)](https://computeradsfromthepast.substack.com/p/byte-interviews-chuck-peddle-father)
 * [2026-03-28, 12:20:28](https://news.ycombinator.com/item?id=47553910) - [From Proxmox to FreeBSD and Sylve in Our Office Lab](https://www.iptechnics.com/blogs/from-proxmox-to-freebsd-and-sylve-in-our-office-lab)

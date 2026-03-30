@@ -30,6 +30,7 @@
 * [2026-03-27, 16:39:32](https://news.ycombinator.com/item?id=47544980) - [AI got the blame for the Iran school bombing. The truth is more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
 * [2026-03-27, 16:25:50](https://news.ycombinator.com/item?id=47544785) - [Netflix raises prices for every subscription tier by up to 12.5 percent](https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/)
 * [2026-03-27, 16:11:27](https://news.ycombinator.com/item?id=47544614) - [Apple says no one using Lockdown Mode has been hacked with spyware](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/)
+* [2026-03-27, 15:55:26](https://news.ycombinator.com/item?id=47544388) - [What Construction at a Train Station Taught Me About Software Engineering](https://engineering.leanix.net/blog/engineering/)
 * [2026-03-27, 15:46:50](https://news.ycombinator.com/item?id=47544238) - [The Future of SCIP](https://sourcegraph.com/blog/the-future-of-scip)
 * [2026-03-27, 15:40:23](https://news.ycombinator.com/item?id=47544114) - [When Coupled Volcanoes Talk, These Researchers Listen](https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/)
 * [2026-03-27, 15:33:54](https://news.ycombinator.com/item?id=47544006) - [SimpleX Chat](https://simplex.chat/)

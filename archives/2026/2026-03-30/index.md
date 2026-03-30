@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 19:22:33](https://news.ycombinator.com/item?id=47578572) - [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/)
 * [2026-03-30, 19:13:05](https://news.ycombinator.com/item?id=47578464) - [William Blake, Remote by the Sea](https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea)
+* [2026-03-30, 18:43:38](https://news.ycombinator.com/item?id=47578086) - [Vulnerability Research Is Cooked](https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/)
 * [2026-03-30, 18:34:47](https://news.ycombinator.com/item?id=47577979) - [A sea of sparks: Seeing radioactivity](https://maurycyz.com/projects/spinthariscope/)
 * [2026-03-30, 18:16:00](https://news.ycombinator.com/item?id=47577761) - [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
 * [2026-03-30, 18:13:00](https://news.ycombinator.com/item?id=47577735) - [\"CEO Said a Thing \" Journalism](https://karlbode.com/ceo-said-a-thing-journalism/)
+* [2026-03-30, 17:21:49](https://news.ycombinator.com/item?id=47577120) - [Recover Apple Keychain](https://arkoinad.com/posts/apple_keychain_recovery.html)
 * [2026-03-30, 17:14:06](https://news.ycombinator.com/item?id=47577032) - [DigitalOcean Seeks $800M in Funding](https://www.datacenterdynamics.com/en/news/digitalocean-seeks-800m-in-funding/)
 * [2026-03-30, 17:09:56](https://news.ycombinator.com/item?id=47576978) - [You are falling behind because you haven't fed the insincerity machine](https://christianheilmann.com/2026/03/28/you-are-falling-behind-because-you-havent-fed-the-insincerity-machine-in-the-last-5-minutes/)
 * [2026-03-30, 17:01:35](https://news.ycombinator.com/item?id=47576861) - [New Washington state law bans noncompete agreements](https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/)
