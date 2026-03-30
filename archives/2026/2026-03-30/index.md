@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 22:10:22](https://news.ycombinator.com/item?id=47580350) - [Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?](https://30u30.fyi)
+* [2026-03-30, 22:05:21](https://news.ycombinator.com/item?id=47580297) - [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)
+* [2026-03-30, 21:40:57](https://news.ycombinator.com/item?id=47580059) - [Agentic AI and the next intelligence explosion](https://arxiv.org/abs/2603.20639)
+* [2026-03-30, 21:32:24](https://news.ycombinator.com/item?id=47579977) - [Tickets Are Prompts](https://dheer.co/tickets-are-prompts/)
 * [2026-03-30, 21:18:52](https://news.ycombinator.com/item?id=47579818) - [What we learned building 100 API integrations with OpenCode](https://nango.dev/blog/learned-building-200-api-integrations-with-opencode/)
 * [2026-03-30, 20:19:43](https://news.ycombinator.com/item?id=47579229) - [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)
 * [2026-03-30, 20:16:59](https://news.ycombinator.com/item?id=47579200) - [America Is Now a Rogue Superpower](https://www.theatlantic.com/international/2026/03/trump-us-power-iran/686567/)

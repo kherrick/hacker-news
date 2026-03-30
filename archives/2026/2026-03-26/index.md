@@ -56,6 +56,7 @@
 * [2026-03-26, 14:34:58](https://news.ycombinator.com/item?id=47530981) - [Newly purchased Vizio TVs now require Walmart accounts to use smart features](https://arstechnica.com/gadgets/2026/03/newly-purchased-vizio-tvs-now-require-walmart-accounts-to-use-smart-features/)
 * [2026-03-26, 14:32:34](https://news.ycombinator.com/item?id=47530945) - [Olympic Committee bars transgender athletes from women’s events](https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html)
 * [2026-03-26, 14:08:34](https://news.ycombinator.com/item?id=47530670) - [Creating West Coast Buddhism (2024)](https://letter.palladiummag.com/p/creating-west-coast-buddhism)
+* [2026-03-26, 13:49:47](https://news.ycombinator.com/item?id=47530449) - [IronGlass Brings Legendary Soviet Cinema Lenses to Mirrorless Cameras](https://petapixel.com/2026/02/19/ironglass-brings-legendary-soviet-cinema-lenses-to-mirrorless-cameras/)
 * [2026-03-26, 13:38:25](https://news.ycombinator.com/item?id=47530330) - [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html)
 * [2026-03-26, 13:32:23](https://news.ycombinator.com/item?id=47530264) - [AI users whose lives were wrecked by delusion](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
 * [2026-03-26, 12:30:59](https://news.ycombinator.com/item?id=47529646) - [European Parliament decided that Chat Control 1.0 must stop](https://bsky.app/profile/tuta.com/post/3mhxkfowv322c)
