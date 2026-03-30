@@ -12,6 +12,7 @@
 * [2026-03-30, 20:19:43](https://news.ycombinator.com/item?id=47579229) - [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)
 * [2026-03-30, 20:16:59](https://news.ycombinator.com/item?id=47579200) - [America Is Now a Rogue Superpower](https://www.theatlantic.com/international/2026/03/trump-us-power-iran/686567/)
 * [2026-03-30, 19:47:42](https://news.ycombinator.com/item?id=47578855) - [Car Seats as Contraception](https://www.journals.uchicago.edu/doi/abs/10.1086/731812)
+* [2026-03-30, 19:37:45](https://news.ycombinator.com/item?id=47578741) - [Why I'm betting on ATProto (and why you should, too)](https://brittanyellich.com/atproto/)
 * [2026-03-30, 19:22:33](https://news.ycombinator.com/item?id=47578572) - [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/)
 * [2026-03-30, 19:13:05](https://news.ycombinator.com/item?id=47578464) - [William Blake, Remote by the Sea](https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea)
 * [2026-03-30, 18:45:17](https://news.ycombinator.com/item?id=47578109) - [How Iran is making a mint from the current war](https://www.economist.com/finance-and-economics/2026/03/29/how-iran-is-making-a-mint-from-donald-trumps-war)

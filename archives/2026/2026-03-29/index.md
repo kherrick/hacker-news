@@ -21,6 +21,7 @@
 * [2026-03-29, 19:21:06](https://news.ycombinator.com/item?id=47566268) - [Personal AI Development Environment](https://github.com/rbren/personal-ai-devbox)
 * [2026-03-29, 19:08:20](https://news.ycombinator.com/item?id=47566143) - [My MacBook Keyboard Is Broken and It's Insanely Expensive to Fix](https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/)
 * [2026-03-29, 19:08:07](https://news.ycombinator.com/item?id=47566140) - [Kyushu Railway Company Train Varieties](https://www.jrkyushu.co.jp/english/train/index.html)
+* [2026-03-29, 18:48:51](https://news.ycombinator.com/item?id=47565952) - [The Digital Leviathan](https://brownstone.org/articles/the-digital-leviathan/)
 * [2026-03-29, 18:37:39](https://news.ycombinator.com/item?id=47565848) - [Typing and Keyboards](https://lzon.ca/posts/series/grateful/typing-and-keyboards/)
 * [2026-03-29, 18:35:58](https://news.ycombinator.com/item?id=47565831) - [Show HN: I made a \"programming language\" looking for feedback](https://github.com/alonsovm44/glupe)
 * [2026-03-29, 17:46:12](https://news.ycombinator.com/item?id=47565365) - [C++26 is done ISO C++ standards meeting, Trip Report](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/)
