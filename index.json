@@ -1,22 +1,42 @@
 [
   [
     [
-      "2026-03-30, 12:08:47",
-      "https://news.ycombinator.com/item?id=47573224"
+      "2026-03-30, 13:30:00",
+      "https://news.ycombinator.com/item?id=47574045"
     ],
     [
-      "Ask HN: Where have you found the coding limits of current models?",
-      "https://news.ycombinator.com/item?id=47573224"
+      "Show HN: Phantom – Open-source AI agent on its own VM that rewrites its config",
+      "https://github.com/ghostwright/phantom"
     ]
   ],
   [
     [
-      "2026-03-30, 12:06:57",
-      "https://news.ycombinator.com/item?id=47573205"
+      "2026-03-30, 13:28:54",
+      "https://news.ycombinator.com/item?id=47574034"
     ],
     [
-      "Spain closes airspace to aircraft involved in Iran war",
-      "https://english.elpais.com/international/2026-03-30/spain-closes-airspace-to-aircraft-involved-in-iran-war-but-us-bases-are-being-used-in-other-ways.html"
+      "How to Turn Anything into a Router",
+      "https://nbailey.ca/post/router/"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 13:14:27",
+      "https://news.ycombinator.com/item?id=47573887"
+    ],
+    [
+      "Parrots pack twice as many neurons as primate brains of the same mass",
+      "https://www.dhanishsemar.com/writing/bird-brains"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 12:28:36",
+      "https://news.ycombinator.com/item?id=47573420"
+    ],
+    [
+      "How the AI Bubble Bursts",
+      "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
       "https://dani2442.github.io/posts/continuous-rl/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 07:19:20",
-      "https://news.ycombinator.com/item?id=47571401"
-    ],
-    [
-      "Show HN: The Alphabetical Clock",
-      "https://boat.horse/clock/"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-03-29, 20:30:02",
-      "https://news.ycombinator.com/item?id=47566960"
-    ],
-    [
-      "The road signs that teach travellers about France",
-      "https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france"
-    ]
-  ],
-  [
-    [
       "2026-03-29, 20:21:05",
       "https://news.ycombinator.com/item?id=47566865"
     ],
@@ -157,16 +157,6 @@
     [
       "Midnight train from GA: A view of America from the tracks as airports struggle",
       "https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 19:36:21",
-      "https://news.ycombinator.com/item?id=47566442"
-    ],
-    [
-      "The Cognitive Dark Forest",
-      "https://ryelang.org/blog/posts/cognitive-dark-forest/"
     ]
   ],
   [
@@ -251,6 +241,26 @@
   ],
   [
     [
+      "2026-03-26, 18:29:56",
+      "https://news.ycombinator.com/item?id=47534003"
+    ],
+    [
+      "Spring Boot Done Right: Lessons from a 400-Module Codebase",
+      "https://medium.com/all-things-software/spring-boot-done-right-lessons-from-a-400-module-codebase-e636c3c34149"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 09:41:44",
+      "https://news.ycombinator.com/item?id=47528403"
+    ],
+    [
+      "In Math, Rigor Is Vital. But Are Digitized Proofs Taking It Too Far?",
+      "https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 22:09:27",
       "https://news.ycombinator.com/item?id=47523946"
     ],
@@ -267,16 +277,6 @@
     [
       "Douglas Lenat's Automated Mathematician Source Code",
       "https://github.com/white-flame/am"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 15:08:47",
-      "https://news.ycombinator.com/item?id=47518382"
-    ],
-    [
-      "\"Roadrunner\": a bipedal, wheeled robot for multi-modal locomotion [video]",
-      "https://www.youtube.com/watch?v=9kae-UAME1U"
     ]
   ],
   [
