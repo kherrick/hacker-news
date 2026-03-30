@@ -17,6 +17,7 @@
 * [2026-03-28, 20:39:01](https://news.ycombinator.com/item?id=47557960) - [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
 * [2026-03-28, 20:28:03](https://news.ycombinator.com/item?id=47557901) - [Google just gave Android power users a sideloading win](https://www.androidauthority.com/android-sideload-carry-over-3652845/)
 * [2026-03-28, 19:06:47](https://news.ycombinator.com/item?id=47557355) - [Nothing new to see here](https://feld.com/archives/2026/03/nothing-new-to-see-here/)
+* [2026-03-28, 18:58:13](https://news.ycombinator.com/item?id=47557299) - [Hardware Image Compression](https://www.ludicon.com/castano/blog/2026/03/hardware-image-compression/)
 * [2026-03-28, 18:42:08](https://news.ycombinator.com/item?id=47557185) - [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/)
 * [2026-03-28, 18:38:59](https://news.ycombinator.com/item?id=47557166) - [Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem](https://twitter.com/BoWang87/status/2037648937453232504)
 * [2026-03-28, 18:22:45](https://news.ycombinator.com/item?id=47557064) - [OpenCiv1 – open-source rewrite of Civ1](https://github.com/rajko-horvat/OpenCiv1)
