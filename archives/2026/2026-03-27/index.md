@@ -50,6 +50,7 @@
 * [2026-03-27, 12:46:49](https://news.ycombinator.com/item?id=47542057) - [The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner](https://sightlessscribbles.com/posts/the-paperwork-flood/)
 * [2026-03-27, 12:36:21](https://news.ycombinator.com/item?id=47541969) - [I turned my Kindle into my own personal newspaper](https://manualdousuario.net/en/how-to-kindle-personal-newspaper/)
 * [2026-03-27, 10:27:28](https://news.ycombinator.com/item?id=47540929) - [Should QA Exist](https://www.rubick.com/should-qa-exist/)
+* [2026-03-27, 10:23:38](https://news.ycombinator.com/item?id=47540903) - [ninja: a small build system with a focus on speed](https://github.com/ninja-build/ninja)
 * [2026-03-27, 10:10:41](https://news.ycombinator.com/item?id=47540833) - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
 * [2026-03-27, 08:57:02](https://news.ycombinator.com/item?id=47540388) - [Telnyx package compromised on PyPI](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026)
 * [2026-03-27, 08:57:02](https://news.ycombinator.com/item?id=47540388) - [Telnyx package compromised on PyPI](https://github.com/team-telnyx/telnyx-python/issues/235)

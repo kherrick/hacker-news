@@ -35,6 +35,7 @@
 * [2026-03-25, 16:45:52](https://news.ycombinator.com/item?id=47519845) - [Matadisco – Decentralized Data Discovery](https://matadisco.org/)
 * [2026-03-25, 16:43:08](https://news.ycombinator.com/item?id=47519802) - [Tracy Kidder, Author of 'The Soul of a New Machine,' Dies at 80](https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html)
 * [2026-03-25, 16:31:15](https://news.ycombinator.com/item?id=47519625) - [Jury says Meta knowingly harmed children for profit, awarding landmark verdict](https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict)
+* [2026-03-25, 16:31:11](https://news.ycombinator.com/item?id=47519622) - [Douglas Lenat's Automated Mathematician Source Code](https://github.com/white-flame/am)
 * [2026-03-25, 16:24:15](https://news.ycombinator.com/item?id=47519519) - [Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote](https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a)
 * [2026-03-25, 16:07:12](https://news.ycombinator.com/item?id=47519308) - [A Eulogy for Vim](https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html)
 * [2026-03-25, 16:06:34](https://news.ycombinator.com/item?id=47519295) - [Quantization from the Ground Up](https://ngrok.com/blog/quantization)
