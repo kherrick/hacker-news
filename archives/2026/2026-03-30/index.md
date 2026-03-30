@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 21:18:52](https://news.ycombinator.com/item?id=47579818) - [What we learned building 100 API integrations with OpenCode](https://nango.dev/blog/learned-building-200-api-integrations-with-opencode/)
+* [2026-03-30, 20:19:43](https://news.ycombinator.com/item?id=47579229) - [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)
 * [2026-03-30, 20:16:59](https://news.ycombinator.com/item?id=47579200) - [America Is Now a Rogue Superpower](https://www.theatlantic.com/international/2026/03/trump-us-power-iran/686567/)
+* [2026-03-30, 19:47:42](https://news.ycombinator.com/item?id=47578855) - [Car Seats as Contraception](https://www.journals.uchicago.edu/doi/abs/10.1086/731812)
 * [2026-03-30, 19:22:33](https://news.ycombinator.com/item?id=47578572) - [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/)
 * [2026-03-30, 19:13:05](https://news.ycombinator.com/item?id=47578464) - [William Blake, Remote by the Sea](https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea)
+* [2026-03-30, 18:45:17](https://news.ycombinator.com/item?id=47578109) - [How Iran is making a mint from the current war](https://www.economist.com/finance-and-economics/2026/03/29/how-iran-is-making-a-mint-from-donald-trumps-war)
 * [2026-03-30, 18:43:38](https://news.ycombinator.com/item?id=47578086) - [Vulnerability Research Is Cooked](https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/)
 * [2026-03-30, 18:34:47](https://news.ycombinator.com/item?id=47577979) - [A sea of sparks: Seeing radioactivity](https://maurycyz.com/projects/spinthariscope/)
 * [2026-03-30, 18:16:00](https://news.ycombinator.com/item?id=47577761) - [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
@@ -34,6 +38,7 @@
 * [2026-03-30, 12:06:57](https://news.ycombinator.com/item?id=47573205) - [Spain closes airspace to aircraft involved in Iran war](https://english.elpais.com/international/2026-03-30/spain-closes-airspace-to-aircraft-involved-in-iran-war-but-us-bases-are-being-used-in-other-ways.html)
 * [2026-03-30, 11:25:50](https://news.ycombinator.com/item?id=47572910) - [Ghostmoon.app – The Swiss Army Knife for your macOS menu bar](https://www.mgrunwald.com/ghostmoon/)
 * [2026-03-30, 11:05:37](https://news.ycombinator.com/item?id=47572771) - [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524)
+* [2026-03-30, 11:02:14](https://news.ycombinator.com/item?id=47572748) - [The stealthy startup that pitched brainless human clones](https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/)
 * [2026-03-30, 10:21:09](https://news.ycombinator.com/item?id=47572530) - [How Reverse Game Theory Could Solve the Housing Shortage](https://www.noemamag.com/the-architecture-of-cooperation/)
 * [2026-03-30, 08:52:07](https://news.ycombinator.com/item?id=47572008) - [Apple nailed AI by doing fucking nothing lol](https://xcancel.com/cryptopunk7213/status/2038351931589193953?s=20)
 * [2026-03-30, 08:51:18](https://news.ycombinator.com/item?id=47572000) - [Stripe is down](https://status.stripe.com/)
