@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 15:00:28](https://news.ycombinator.com/item?id=47575212) - [\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"](https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/)
+* [2026-03-30, 14:49:58](https://news.ycombinator.com/item?id=47575089) - [72% of the dollar's purchasing power was destroyed in just four episodes](https://eco3min.fr/en/us-inflation-is-not-linear/)
 * [2026-03-30, 13:30:00](https://news.ycombinator.com/item?id=47574045) - [Show HN: Phantom – Open-source AI agent on its own VM that rewrites its config](https://github.com/ghostwright/phantom)
 * [2026-03-30, 13:28:54](https://news.ycombinator.com/item?id=47574034) - [How to Turn Anything into a Router](https://nbailey.ca/post/router/)
 * [2026-03-30, 13:14:27](https://news.ycombinator.com/item?id=47573887) - [Parrots pack twice as many neurons as primate brains of the same mass](https://www.dhanishsemar.com/writing/bird-brains)
@@ -12,6 +14,7 @@
 * [2026-03-30, 12:06:57](https://news.ycombinator.com/item?id=47573205) - [Spain closes airspace to aircraft involved in Iran war](https://english.elpais.com/international/2026-03-30/spain-closes-airspace-to-aircraft-involved-in-iran-war-but-us-bases-are-being-used-in-other-ways.html)
 * [2026-03-30, 11:25:50](https://news.ycombinator.com/item?id=47572910) - [Ghostmoon.app – The Swiss Army Knife for your macOS menu bar](https://www.mgrunwald.com/ghostmoon/)
 * [2026-03-30, 11:05:37](https://news.ycombinator.com/item?id=47572771) - [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524)
+* [2026-03-30, 10:21:09](https://news.ycombinator.com/item?id=47572530) - [How Reverse Game Theory Could Solve the Housing Shortage](https://www.noemamag.com/the-architecture-of-cooperation/)
 * [2026-03-30, 08:52:07](https://news.ycombinator.com/item?id=47572008) - [Apple nailed AI by doing fucking nothing lol](https://xcancel.com/cryptopunk7213/status/2038351931589193953?s=20)
 * [2026-03-30, 08:51:18](https://news.ycombinator.com/item?id=47572000) - [Stripe is down](https://status.stripe.com/)
 * [2026-03-30, 08:51:18](https://news.ycombinator.com/item?id=47572000) - [Stripe Is Down](https://dashboard.stripe.com/login)
