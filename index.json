@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-30, 15:59:01",
+      "https://news.ycombinator.com/item?id=47575950"
+    ],
+    [
+      "Bitwarden Integrates with OneCLI Agent Vault",
+      "https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 15:32:37",
+      "https://news.ycombinator.com/item?id=47575616"
+    ],
+    [
+      "FTC Action Against Match and OkCupid for Deceiving Users, Sharing Personal Data",
+      "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 15:16:35",
+      "https://news.ycombinator.com/item?id=47575403"
+    ],
+    [
+      "CodingFont: A game to help you pick a coding font",
+      "https://www.codingfont.com/"
+    ]
+  ],
+  [
+    [
       "2026-03-30, 15:00:28",
       "https://news.ycombinator.com/item?id=47575212"
     ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47574034"
     ],
     [
-      "How to Turn Anything into a Router",
+      "How to turn anything into a router",
       "https://nbailey.ca/post/router/"
     ]
   ],
@@ -41,42 +71,12 @@
   ],
   [
     [
-      "2026-03-30, 12:28:36",
-      "https://news.ycombinator.com/item?id=47573420"
-    ],
-    [
-      "How the AI Bubble Bursts",
-      "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 11:25:50",
-      "https://news.ycombinator.com/item?id=47572910"
-    ],
-    [
-      "Ghostmoon.app – The Swiss Army Knife for your macOS menu bar",
-      "https://www.mgrunwald.com/ghostmoon/"
-    ]
-  ],
-  [
-    [
       "2026-03-30, 11:05:37",
       "https://news.ycombinator.com/item?id=47572771"
     ],
     [
       "Mathematical methods and human thought in the age of AI",
       "https://arxiv.org/abs/2603.26524"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 10:21:09",
-      "https://news.ycombinator.com/item?id=47572530"
-    ],
-    [
-      "How Reverse Game Theory Could Solve the Housing Shortage",
-      "https://www.noemamag.com/the-architecture-of-cooperation/"
     ]
   ],
   [
@@ -95,8 +95,18 @@
       "https://news.ycombinator.com/item?id=47571376"
     ],
     [
-      "I use excalidraw to manage my diagrams for my blog",
+      "I use Excalidraw to manage my diagrams for my blog",
       "https://blog.lysk.tech/excalidraw-frame-export/"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 07:03:18",
+      "https://news.ycombinator.com/item?id=47571279"
+    ],
+    [
+      "I am definitely missing the pre-AI writing era",
+      "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Philly courts will ban all smart eyeglasses starting next week",
       "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 22:21:34",
-      "https://news.ycombinator.com/item?id=47568028"
-    ],
-    [
-      "Coding agents could make free software matter again",
-      "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-03-28, 12:20:28",
+      "https://news.ycombinator.com/item?id=47553910"
+    ],
+    [
+      "From Proxmox to FreeBSD and Sylve in Our Office Lab",
+      "https://www.iptechnics.com/blogs/from-proxmox-to-freebsd-and-sylve-in-our-office-lab"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 17:22:11",
       "https://news.ycombinator.com/item?id=47545607"
     ],
@@ -267,16 +277,6 @@
     [
       "In Math, Rigor Is Vital. But Are Digitized Proofs Taking It Too Far?",
       "https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 05:11:22",
-      "https://news.ycombinator.com/item?id=47526828"
-    ],
-    [
-      "The coming PLG to SLG apocalypse",
-      "https://www.withsahel.com/blog/plg-to-enterprise-timeline-compression"
     ]
   ],
   [
