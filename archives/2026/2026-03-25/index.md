@@ -48,6 +48,7 @@
 * [2026-03-25, 15:20:08](https://news.ycombinator.com/item?id=47518568) - [Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer](https://github.com/dbrll/ATTN-11)
 * [2026-03-25, 15:08:47](https://news.ycombinator.com/item?id=47518382) - [\"Roadrunner\": a bipedal, wheeled robot for multi-modal locomotion [video]](https://www.youtube.com/watch?v=9kae-UAME1U)
 * [2026-03-25, 15:02:56](https://news.ycombinator.com/item?id=47518281) - [Supreme Court Sides with Cox in Copyright Fight over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html)
+* [2026-03-25, 15:01:59](https://news.ycombinator.com/item?id=47518264) - [Comprehensive C++ Hashmap Benchmarks (2022)](https://martin.ankerl.com/2022/08/27/hashmap-bench-01/)
 * [2026-03-25, 14:56:28](https://news.ycombinator.com/item?id=47518171) - [Antimatter has been transported for the first time](https://www.nature.com/articles/d41586-026-00950-w)
 * [2026-03-25, 14:52:30](https://news.ycombinator.com/item?id=47518121) - [How to Keep ICE Agents Out of Your Devices at Airports](https://theintercept.com/2026/03/25/ice-airports-phone-security-privacy-safety/)
 * [2026-03-25, 14:44:47](https://news.ycombinator.com/item?id=47518010) - [The 667MHz Machine](https://www.0xsid.com/blog/667mhz-machine)
