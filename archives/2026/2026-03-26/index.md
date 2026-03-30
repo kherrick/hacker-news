@@ -73,6 +73,7 @@
 * [2026-03-26, 06:11:01](https://news.ycombinator.com/item?id=47527130) - [Data is everywhere. The government is buying it without a warrant](https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic)
 * [2026-03-26, 05:11:22](https://news.ycombinator.com/item?id=47526828) - [The coming PLG to SLG apocalypse](https://www.withsahel.com/blog/plg-to-enterprise-timeline-compression)
 * [2026-03-26, 05:07:51](https://news.ycombinator.com/item?id=47526813) - [Show HN: Orloj – agent infrastructure as code (YAML and GitOps)](https://github.com/OrlojHQ/orloj)
+* [2026-03-26, 04:53:21](https://news.ycombinator.com/item?id=47526744) - [Proactively Parasocial](https://nicklandolfi.com/posts/proactively-parasocial.html)
 * [2026-03-26, 04:28:37](https://news.ycombinator.com/item?id=47526642) - [Squirrel seen 'vaping' in London park](https://www.telegraph.co.uk/news/2026/03/23/squirrel-seen-vaping-in-london-park/)
 * [2026-03-26, 03:55:52](https://news.ycombinator.com/item?id=47526486) - [Show HN: Robust LLM Extractor for Websites in TypeScript](https://github.com/lightfeed/extractor)
 * [2026-03-26, 03:54:27](https://news.ycombinator.com/item?id=47526478) - [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/)

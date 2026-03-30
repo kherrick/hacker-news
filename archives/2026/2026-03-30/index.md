@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 18:13:00](https://news.ycombinator.com/item?id=47577735) - [\"CEO Said a Thing \" Journalism](https://karlbode.com/ceo-said-a-thing-journalism/)
+* [2026-03-30, 17:14:06](https://news.ycombinator.com/item?id=47577032) - [DigitalOcean Seeks $800M in Funding](https://www.datacenterdynamics.com/en/news/digitalocean-seeks-800m-in-funding/)
 * [2026-03-30, 17:09:56](https://news.ycombinator.com/item?id=47576978) - [You are falling behind because you haven't fed the insincerity machine](https://christianheilmann.com/2026/03/28/you-are-falling-behind-because-you-havent-fed-the-insincerity-machine-in-the-last-5-minutes/)
 * [2026-03-30, 17:01:35](https://news.ycombinator.com/item?id=47576861) - [New Washington state law bans noncompete agreements](https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/)
 * [2026-03-30, 16:23:56](https://news.ycombinator.com/item?id=47576317) - [Take Better Notes, by Hand](https://brianschrader.com/archive/take-better-notes-by-hand/)
@@ -11,9 +13,11 @@
 * [2026-03-30, 15:59:01](https://news.ycombinator.com/item?id=47575950) - [Bitwarden Integrates with OneCLI Agent Vault](https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli)
 * [2026-03-30, 15:58:11](https://news.ycombinator.com/item?id=47575935) - [An NSFW Filter for Marginalia Search](https://www.marginalia.nu/log/a_134_nsfw/)
 * [2026-03-30, 15:32:37](https://news.ycombinator.com/item?id=47575616) - [FTC Action Against Match and OkCupid for Deceiving Users, Sharing Personal Data](https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party)
+* [2026-03-30, 15:17:51](https://news.ycombinator.com/item?id=47575417) - [Show HN: Coasts – Containerized Hosts for Agents](https://github.com/coast-guard/coasts)
 * [2026-03-30, 15:16:35](https://news.ycombinator.com/item?id=47575403) - [CodingFont: A game to help you pick a coding font](https://www.codingfont.com/)
 * [2026-03-30, 15:00:28](https://news.ycombinator.com/item?id=47575212) - [\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"](https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/)
 * [2026-03-30, 14:49:58](https://news.ycombinator.com/item?id=47575089) - [72% of the dollar's purchasing power was destroyed in just four episodes](https://eco3min.fr/en/us-inflation-is-not-linear/)
+* [2026-03-30, 13:51:31](https://news.ycombinator.com/item?id=47574346) - [The ladder is missing rungs – Engineering Progression When AI Ate the Middle](https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/)
 * [2026-03-30, 13:30:00](https://news.ycombinator.com/item?id=47574045) - [Show HN: Phantom – Open-source AI agent on its own VM that rewrites its config](https://github.com/ghostwright/phantom)
 * [2026-03-30, 13:28:54](https://news.ycombinator.com/item?id=47574034) - [How to Turn Anything into a Router](https://nbailey.ca/post/router/)
 * [2026-03-30, 13:14:27](https://news.ycombinator.com/item?id=47573887) - [Parrots pack twice as many neurons as primate brains of the same mass](https://www.dhanishsemar.com/writing/bird-brains)
