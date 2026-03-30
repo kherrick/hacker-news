@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 23:39:44](https://news.ycombinator.com/item?id=47549824) - [Cherri – programming language that compiles directly to a Apple Shortuct](https://github.com/electrikmilk/cherri)
 * [2026-03-27, 23:19:18](https://news.ycombinator.com/item?id=47549649) - [Why are executives enamored with AI, but ICs aren't?](https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/)
 * [2026-03-27, 23:10:36](https://news.ycombinator.com/item?id=47549586) - [About the Atmosphere](https://toni.org/2026/03/27/about-the-atmosphere/)
 * [2026-03-27, 22:22:20](https://news.ycombinator.com/item?id=47549160) - [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)

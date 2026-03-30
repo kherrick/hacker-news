@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 17:09:56](https://news.ycombinator.com/item?id=47576978) - [You are falling behind because you haven't fed the insincerity machine](https://christianheilmann.com/2026/03/28/you-are-falling-behind-because-you-havent-fed-the-insincerity-machine-in-the-last-5-minutes/)
+* [2026-03-30, 17:01:35](https://news.ycombinator.com/item?id=47576861) - [New Washington state law bans noncompete agreements](https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/)
+* [2026-03-30, 16:23:56](https://news.ycombinator.com/item?id=47576317) - [Take Better Notes, by Hand](https://brianschrader.com/archive/take-better-notes-by-hand/)
+* [2026-03-30, 16:05:46](https://news.ycombinator.com/item?id=47576055) - [OCR For construction documents does not work, we fixed it](https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors)
 * [2026-03-30, 15:59:01](https://news.ycombinator.com/item?id=47575950) - [Bitwarden Integrates with OneCLI Agent Vault](https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli)
+* [2026-03-30, 15:58:11](https://news.ycombinator.com/item?id=47575935) - [An NSFW Filter for Marginalia Search](https://www.marginalia.nu/log/a_134_nsfw/)
 * [2026-03-30, 15:32:37](https://news.ycombinator.com/item?id=47575616) - [FTC Action Against Match and OkCupid for Deceiving Users, Sharing Personal Data](https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party)
 * [2026-03-30, 15:16:35](https://news.ycombinator.com/item?id=47575403) - [CodingFont: A game to help you pick a coding font](https://www.codingfont.com/)
 * [2026-03-30, 15:00:28](https://news.ycombinator.com/item?id=47575212) - [\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"](https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/)
