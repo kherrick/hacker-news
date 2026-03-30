@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 13:30:00](https://news.ycombinator.com/item?id=47574045) - [Show HN: Phantom – Open-source AI agent on its own VM that rewrites its config](https://github.com/ghostwright/phantom)
+* [2026-03-30, 13:28:54](https://news.ycombinator.com/item?id=47574034) - [How to Turn Anything into a Router](https://nbailey.ca/post/router/)
+* [2026-03-30, 13:14:27](https://news.ycombinator.com/item?id=47573887) - [Parrots pack twice as many neurons as primate brains of the same mass](https://www.dhanishsemar.com/writing/bird-brains)
+* [2026-03-30, 12:28:36](https://news.ycombinator.com/item?id=47573420) - [How the AI Bubble Bursts](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
 * [2026-03-30, 12:08:47](https://news.ycombinator.com/item?id=47573224) - [Ask HN: Where have you found the coding limits of current models?](https://news.ycombinator.com/item?id=47573224)
 * [2026-03-30, 12:06:57](https://news.ycombinator.com/item?id=47573205) - [Spain closes airspace to aircraft involved in Iran war](https://english.elpais.com/international/2026-03-30/spain-closes-airspace-to-aircraft-involved-in-iran-war-but-us-bases-are-being-used-in-other-ways.html)
 * [2026-03-30, 11:25:50](https://news.ycombinator.com/item?id=47572910) - [Ghostmoon.app – The Swiss Army Knife for your macOS menu bar](https://www.mgrunwald.com/ghostmoon/)
