@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-03-30, 07:34:04",
+      "https://news.ycombinator.com/item?id=47571495"
+    ],
+    [
+      "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+      "https://dani2442.github.io/posts/continuous-rl/"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 07:17:06",
+      "https://news.ycombinator.com/item?id=47571376"
+    ],
+    [
+      "I use excalidraw to manage my diagrams for my blog",
+      "https://blog.lysk.tech/excalidraw-frame-export/"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 07:03:18",
+      "https://news.ycombinator.com/item?id=47571279"
+    ],
+    [
+      "I am definitely missing the pre-AI writing era",
+      "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 06:29:17",
+      "https://news.ycombinator.com/item?id=47571064"
+    ],
+    [
+      "AI and bots have officially taken over the internet",
+      "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 06:08:53",
+      "https://news.ycombinator.com/item?id=47570940"
+    ],
+    [
+      "15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die",
+      "https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803"
+    ]
+  ],
+  [
+    [
       "2026-03-30, 05:27:18",
       "https://news.ycombinator.com/item?id=47570666"
     ],
@@ -41,16 +91,6 @@
   ],
   [
     [
-      "2026-03-30, 01:43:20",
-      "https://news.ycombinator.com/item?id=47569502"
-    ],
-    [
-      "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
-      "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/"
-    ]
-  ],
-  [
-    [
       "2026-03-30, 01:38:17",
       "https://news.ycombinator.com/item?id=47569471"
     ],
@@ -67,6 +107,16 @@
     [
       "Coding Agents Could Make Free Software Matter Again",
       "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 22:15:06",
+      "https://news.ycombinator.com/item?id=47567969"
+    ],
+    [
+      "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+      "https://github.com/anthropics/claude-code/issues/40710"
     ]
   ],
   [
@@ -91,22 +141,22 @@
   ],
   [
     [
+      "2026-03-29, 20:00:02",
+      "https://news.ycombinator.com/item?id=47566653"
+    ],
+    [
+      "Midnight train from GA: A view of America from the tracks as airports struggle",
+      "https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 19:36:21",
       "https://news.ycombinator.com/item?id=47566442"
     ],
     [
       "The Cognitive Dark Forest",
       "https://ryelang.org/blog/posts/cognitive-dark-forest/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 19:26:14",
-      "https://news.ycombinator.com/item?id=47566332"
-    ],
-    [
-      "More on Version Control",
-      "https://bramcohen.com/p/more-on-version-control"
     ]
   ],
   [
@@ -121,32 +171,12 @@
   ],
   [
     [
-      "2026-03-29, 19:08:07",
-      "https://news.ycombinator.com/item?id=47566140"
-    ],
-    [
-      "Kyushu Railway Company Train Varieties",
-      "https://www.jrkyushu.co.jp/english/train/index.html"
-    ]
-  ],
-  [
-    [
       "2026-03-29, 17:46:12",
       "https://news.ycombinator.com/item?id=47565365"
     ],
     [
-      "C++26 is done ISO C++ standards meeting, Trip Report",
+      "C++26 is done: ISO C++ standards meeting Trip Report",
       "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 16:26:55",
-      "https://news.ycombinator.com/item?id=47564579"
-    ],
-    [
-      "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-      "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html"
     ]
   ],
   [
@@ -157,36 +187,6 @@
     [
       "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
       "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 09:46:58",
-      "https://news.ycombinator.com/item?id=47561711"
-    ],
-    [
-      "Nitrile and latex gloves may cause overestimation of microplastics",
-      "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 08:58:24",
-      "https://news.ycombinator.com/item?id=47561489"
-    ],
-    [
-      "LinkedIn uses 2.4 GB RAM across two tabs",
-      "https://news.ycombinator.com/item?id=47561489"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 05:54:47",
-      "https://news.ycombinator.com/item?id=47560724"
-    ],
-    [
-      "Moretti replication published in AER",
-      "https://blog.michaelwiebe.com/p/moretti-replication-published-in"
     ]
   ],
   [
@@ -241,22 +241,12 @@
   ],
   [
     [
-      "2026-03-27, 04:41:07",
-      "https://news.ycombinator.com/item?id=47539165"
+      "2026-03-27, 10:23:38",
+      "https://news.ycombinator.com/item?id=47540903"
     ],
     [
-      "Ohm's Peg-to-WASM Compiler",
-      "https://ohmjs.org/blog/2026/03/12/peg-to-wasm"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 19:45:29",
-      "https://news.ycombinator.com/item?id=47534812"
-    ],
-    [
-      "I'll buy your electronics to feed our robot",
-      "https://www.dayworkx.com/"
+      "ninja: a small build system with a focus on speed",
+      "https://github.com/ninja-build/ninja"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
       "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 16:31:11",
+      "https://news.ycombinator.com/item?id=47519622"
+    ],
+    [
+      "Douglas Lenat's Automated Mathematician Source Code",
+      "https://github.com/white-flame/am"
     ]
   ],
   [
