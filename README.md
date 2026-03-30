@@ -2,8 +2,8 @@
 
 * [2026-03-30, 08:51:18](https://news.ycombinator.com/item?id=47572000) - [Stripe is down](https://status.stripe.com/)
 * [2026-03-30, 07:34:04](https://news.ycombinator.com/item?id=47571495) - [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)
+* [2026-03-30, 07:19:20](https://news.ycombinator.com/item?id=47571401) - [Show HN: The Alphabetical Clock](https://boat.horse/clock/)
 * [2026-03-30, 07:17:06](https://news.ycombinator.com/item?id=47571376) - [I use excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/)
-* [2026-03-30, 07:03:18](https://news.ycombinator.com/item?id=47571279) - [I am definitely missing the pre-AI writing era](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
 * [2026-03-30, 06:08:53](https://news.ycombinator.com/item?id=47570940) - [15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die](https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803)
 * [2026-03-30, 05:27:18](https://news.ycombinator.com/item?id=47570666) - [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/)
 * [2026-03-30, 04:39:15](https://news.ycombinator.com/item?id=47570435) - [VHDL's Crown Jewel](https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/)
@@ -26,7 +26,7 @@
 * [2026-03-27, 10:23:38](https://news.ycombinator.com/item?id=47540903) - [Ninja is a small build system with a focus on speed](https://github.com/ninja-build/ninja)
 * [2026-03-26, 21:22:32](https://news.ycombinator.com/item?id=47535937) - [The First Video Game Was Just a Box in the Corner of a Bar](https://lithub.com/the-very-first-video-game-was-just-a-box-in-the-corner-of-a-bar/)
 * [2026-03-26, 16:14:48](https://news.ycombinator.com/item?id=47532338) - [Gonon: Building a Clock with No Numerals](https://tonygaeta.com/perceptor/code/gonon)
-* [2026-03-26, 15:17:17](https://news.ycombinator.com/item?id=47531576) - [The RISE RISC-V Runners: free, native RISC-V CI on GitHub](https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/)
+* [2026-03-25, 22:09:27](https://news.ycombinator.com/item?id=47523946) - [How A Spartan Revolutionized Baseball](https://msutoday.msu.edu/news/2026/03/spartan-revolutionize-baseball)
 * [2026-03-25, 16:31:11](https://news.ycombinator.com/item?id=47519622) - [Douglas Lenat's Automated Mathematician Source Code](https://github.com/white-flame/am)
 * [2026-03-25, 15:08:47](https://news.ycombinator.com/item?id=47518382) - [\"Roadrunner\": a bipedal, wheeled robot for multi-modal locomotion [video]](https://www.youtube.com/watch?v=9kae-UAME1U)
 * [2026-03-25, 13:27:02](https://news.ycombinator.com/item?id=47517076) - [Eclipse GlassFish: This Isn't Your Father's GlassFish](https://foojay.io/today/eclipse-glassfish-this-isnt-your-fathers-glassfish/)

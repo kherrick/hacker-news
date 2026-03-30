@@ -9,6 +9,7 @@
 * [2026-03-30, 08:51:18](https://news.ycombinator.com/item?id=47572000) - [Stripe Is Down](https://dashboard.stripe.com/login)
 * [2026-03-30, 08:13:17](https://news.ycombinator.com/item?id=47571746) - [How to Survive in the Tech industry in 2026](https://blog.phuaxueyong.com/post/2026-03-23-how-to-survive-tech-in-2026/)
 * [2026-03-30, 07:34:04](https://news.ycombinator.com/item?id=47571495) - [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)
+* [2026-03-30, 07:19:20](https://news.ycombinator.com/item?id=47571401) - [Show HN: The Alphabetical Clock](https://boat.horse/clock/)
 * [2026-03-30, 07:17:06](https://news.ycombinator.com/item?id=47571376) - [I use excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/)
 * [2026-03-30, 07:03:18](https://news.ycombinator.com/item?id=47571279) - [I am definitely missing the pre-AI writing era](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
 * [2026-03-30, 06:29:17](https://news.ycombinator.com/item?id=47571064) - [AI and bots have officially taken over the internet](https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html)

@@ -9,6 +9,7 @@
 * [2026-03-25, 23:29:13](https://news.ycombinator.com/item?id=47524704) - [Show HN: A plain-text cognitive architecture for Claude Code](https://lab.puga.com.br/cog/)
 * [2026-03-25, 23:11:34](https://news.ycombinator.com/item?id=47524519) - [\"Disregard That\" Attacks](https://calpaterson.com/disregard.html)
 * [2026-03-25, 22:20:47](https://news.ycombinator.com/item?id=47524051) - [21,864 Yugoslavian .yu domains](https://jacobfilipp.com/yu/)
+* [2026-03-25, 22:09:27](https://news.ycombinator.com/item?id=47523946) - [How A Spartan Revolutionized Baseball](https://msutoday.msu.edu/news/2026/03/spartan-revolutionize-baseball)
 * [2026-03-25, 21:39:55](https://news.ycombinator.com/item?id=47523645) - [Show HN: Automate your workflow in plain English](https://www.operator23.com/)
 * [2026-03-25, 21:11:57](https://news.ycombinator.com/item?id=47523330) - [Running Tesla Model 3's Computer on My Desk Using Parts from Crashed Cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
 * [2026-03-25, 20:58:43](https://news.ycombinator.com/item?id=47523169) - [Health NZ staff told to stop using ChatGPT to write clinical notes](https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes)
