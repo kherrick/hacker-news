@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 08:52:07](https://news.ycombinator.com/item?id=47572008) - [Apple nailed AI by doing fucking nothing lol](https://xcancel.com/cryptopunk7213/status/2038351931589193953?s=20)
+* [2026-03-30, 08:51:18](https://news.ycombinator.com/item?id=47572000) - [Stripe Is Down](https://dashboard.stripe.com/login)
+* [2026-03-30, 08:13:17](https://news.ycombinator.com/item?id=47571746) - [How to Survive in the Tech industry in 2026](https://blog.phuaxueyong.com/post/2026-03-23-how-to-survive-tech-in-2026/)
 * [2026-03-30, 07:34:04](https://news.ycombinator.com/item?id=47571495) - [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)
 * [2026-03-30, 07:17:06](https://news.ycombinator.com/item?id=47571376) - [I use excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/)
 * [2026-03-30, 07:03:18](https://news.ycombinator.com/item?id=47571279) - [I am definitely missing the pre-AI writing era](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
