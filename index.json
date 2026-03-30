@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-03-30, 13:30:00",
-      "https://news.ycombinator.com/item?id=47574045"
+      "2026-03-30, 15:00:28",
+      "https://news.ycombinator.com/item?id=47575212"
     ],
     [
-      "Show HN: Phantom – Open-source AI agent on its own VM that rewrites its config",
-      "https://github.com/ghostwright/phantom"
+      "\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"",
+      "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 14:49:58",
+      "https://news.ycombinator.com/item?id=47575089"
+    ],
+    [
+      "72% of the dollar's purchasing power was destroyed in just four episodes",
+      "https://eco3min.fr/en/us-inflation-is-not-linear/"
     ]
   ],
   [
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2026-03-30, 10:21:09",
+      "https://news.ycombinator.com/item?id=47572530"
+    ],
+    [
+      "How Reverse Game Theory Could Solve the Housing Shortage",
+      "https://www.noemamag.com/the-architecture-of-cooperation/"
+    ]
+  ],
+  [
+    [
       "2026-03-30, 07:34:04",
       "https://news.ycombinator.com/item?id=47571495"
     ],
@@ -77,16 +97,6 @@
     [
       "I use excalidraw to manage my diagrams for my blog",
       "https://blog.lysk.tech/excalidraw-frame-export/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 06:08:53",
-      "https://news.ycombinator.com/item?id=47570940"
-    ],
-    [
-      "15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die",
-      "https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803"
     ]
   ],
   [
@@ -141,22 +151,22 @@
   ],
   [
     [
+      "2026-03-29, 20:58:22",
+      "https://news.ycombinator.com/item?id=47567242"
+    ],
+    [
+      "Build123d: A Python CAD programming library",
+      "https://github.com/gumyr/build123d"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 20:21:05",
       "https://news.ycombinator.com/item?id=47566865"
     ],
     [
       "ChatGPT won't let you type until Cloudflare reads your React state",
       "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 20:00:02",
-      "https://news.ycombinator.com/item?id=47566653"
-    ],
-    [
-      "Midnight train from GA: A view of America from the tracks as airports struggle",
-      "https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2026-03-25, 22:09:27",
-      "https://news.ycombinator.com/item?id=47523946"
+      "2026-03-26, 05:11:22",
+      "https://news.ycombinator.com/item?id=47526828"
     ],
     [
-      "How A Spartan Revolutionized Baseball",
-      "https://msutoday.msu.edu/news/2026/03/spartan-revolutionize-baseball"
+      "The coming PLG to SLG apocalypse",
+      "https://www.withsahel.com/blog/plg-to-enterprise-timeline-compression"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Comprehensive C++ Hashmap Benchmarks (2022)",
       "https://martin.ankerl.com/2022/08/27/hashmap-bench-01/"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 13:27:02",
-      "https://news.ycombinator.com/item?id=47517076"
-    ],
-    [
-      "Eclipse GlassFish: This Isn't Your Father's GlassFish",
-      "https://foojay.io/today/eclipse-glassfish-this-isnt-your-fathers-glassfish/"
     ]
   ]
 ]
