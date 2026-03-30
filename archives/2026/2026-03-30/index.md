@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 19:13:05](https://news.ycombinator.com/item?id=47578464) - [William Blake, Remote by the Sea](https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea)
+* [2026-03-30, 18:34:47](https://news.ycombinator.com/item?id=47577979) - [A sea of sparks: Seeing radioactivity](https://maurycyz.com/projects/spinthariscope/)
+* [2026-03-30, 18:16:00](https://news.ycombinator.com/item?id=47577761) - [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
 * [2026-03-30, 18:13:00](https://news.ycombinator.com/item?id=47577735) - [\"CEO Said a Thing \" Journalism](https://karlbode.com/ceo-said-a-thing-journalism/)
 * [2026-03-30, 17:14:06](https://news.ycombinator.com/item?id=47577032) - [DigitalOcean Seeks $800M in Funding](https://www.datacenterdynamics.com/en/news/digitalocean-seeks-800m-in-funding/)
 * [2026-03-30, 17:09:56](https://news.ycombinator.com/item?id=47576978) - [You are falling behind because you haven't fed the insincerity machine](https://christianheilmann.com/2026/03/28/you-are-falling-behind-because-you-havent-fed-the-insincerity-machine-in-the-last-5-minutes/)
@@ -21,6 +24,7 @@
 * [2026-03-30, 13:30:00](https://news.ycombinator.com/item?id=47574045) - [Show HN: Phantom – Open-source AI agent on its own VM that rewrites its config](https://github.com/ghostwright/phantom)
 * [2026-03-30, 13:28:54](https://news.ycombinator.com/item?id=47574034) - [How to Turn Anything into a Router](https://nbailey.ca/post/router/)
 * [2026-03-30, 13:14:27](https://news.ycombinator.com/item?id=47573887) - [Parrots pack twice as many neurons as primate brains of the same mass](https://www.dhanishsemar.com/writing/bird-brains)
+* [2026-03-30, 12:39:56](https://news.ycombinator.com/item?id=47573519) - [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/)
 * [2026-03-30, 12:28:36](https://news.ycombinator.com/item?id=47573420) - [How the AI Bubble Bursts](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
 * [2026-03-30, 12:08:47](https://news.ycombinator.com/item?id=47573224) - [Ask HN: Where have you found the coding limits of current models?](https://news.ycombinator.com/item?id=47573224)
 * [2026-03-30, 12:06:57](https://news.ycombinator.com/item?id=47573205) - [Spain closes airspace to aircraft involved in Iran war](https://english.elpais.com/international/2026-03-30/spain-closes-airspace-to-aircraft-involved-in-iran-war-but-us-bases-are-being-used-in-other-ways.html)
