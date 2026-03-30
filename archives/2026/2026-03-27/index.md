@@ -21,6 +21,7 @@
 * [2026-03-27, 17:55:44](https://news.ycombinator.com/item?id=47546028) - [We broke 92% of SHA-256 – you should start to migrate from it](https://stateofutopia.com/papers/2/we-broke-92-percent-of-sha-256.html)
 * [2026-03-27, 17:32:48](https://news.ycombinator.com/item?id=47545748) - [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/)
 * [2026-03-27, 17:25:05](https://news.ycombinator.com/item?id=47545642) - [Show HN: Open-Source Animal Crossing–Style UI for Claude Code Agents](https://github.com/outworked/outworked/releases/tag/v0.3.0)
+* [2026-03-27, 17:22:11](https://news.ycombinator.com/item?id=47545607) - [15 Years of Forking](https://www.waterfox.com/blog/15-years-of-forking/)
 * [2026-03-27, 17:21:11](https://news.ycombinator.com/item?id=47545594) - [Byte Magazine Archive 1975 to 1995](https://www.worldradiohistory.com/Byte_Magazine.htm)
 * [2026-03-27, 16:56:41](https://news.ycombinator.com/item?id=47545223) - [Browser-based SFX synthesizer using WASM/Zig](https://knell.medieval.software/studio)
 * [2026-03-27, 16:42:02](https://news.ycombinator.com/item?id=47545032) - [Iran-linked hackers have breached FBI director's personal emails](https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel)
