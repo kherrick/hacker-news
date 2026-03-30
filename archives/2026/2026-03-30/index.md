@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 15:59:01](https://news.ycombinator.com/item?id=47575950) - [Bitwarden Integrates with OneCLI Agent Vault](https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli)
+* [2026-03-30, 15:32:37](https://news.ycombinator.com/item?id=47575616) - [FTC Action Against Match and OkCupid for Deceiving Users, Sharing Personal Data](https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party)
+* [2026-03-30, 15:16:35](https://news.ycombinator.com/item?id=47575403) - [CodingFont: A game to help you pick a coding font](https://www.codingfont.com/)
 * [2026-03-30, 15:00:28](https://news.ycombinator.com/item?id=47575212) - [\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"](https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/)
 * [2026-03-30, 14:49:58](https://news.ycombinator.com/item?id=47575089) - [72% of the dollar's purchasing power was destroyed in just four episodes](https://eco3min.fr/en/us-inflation-is-not-linear/)
 * [2026-03-30, 13:30:00](https://news.ycombinator.com/item?id=47574045) - [Show HN: Phantom – Open-source AI agent on its own VM that rewrites its config](https://github.com/ghostwright/phantom)
