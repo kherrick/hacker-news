@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-30, 18:13:00",
+      "https://news.ycombinator.com/item?id=47577735"
+    ],
+    [
+      "\"CEO Said a Thing \" Journalism",
+      "https://karlbode.com/ceo-said-a-thing-journalism/"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 17:14:06",
+      "https://news.ycombinator.com/item?id=47577032"
+    ],
+    [
+      "DigitalOcean Seeks $800M in Funding",
+      "https://www.datacenterdynamics.com/en/news/digitalocean-seeks-800m-in-funding/"
+    ]
+  ],
+  [
+    [
       "2026-03-30, 17:09:56",
       "https://news.ycombinator.com/item?id=47576978"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=47576317"
     ],
     [
-      "Take Better Notes, by Hand",
+      "Take better notes, by hand",
       "https://brianschrader.com/archive/take-better-notes-by-hand/"
     ]
   ],
@@ -35,18 +55,8 @@
       "https://news.ycombinator.com/item?id=47576055"
     ],
     [
-      "OCR For construction documents does not work, we fixed it",
+      "OCR for construction documents does not work, we fixed it",
       "https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 15:59:01",
-      "https://news.ycombinator.com/item?id=47575950"
-    ],
-    [
-      "Bitwarden Integrates with OneCLI Agent Vault",
-      "https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47575935"
     ],
     [
-      "An NSFW Filter for Marginalia Search",
+      "An NSFW filter for Marginalia search",
       "https://www.marginalia.nu/log/a_134_nsfw/"
     ]
   ],
@@ -65,8 +75,18 @@
       "https://news.ycombinator.com/item?id=47575616"
     ],
     [
-      "FTC Action Against Match and OkCupid for Deceiving Users, Sharing Personal Data",
+      "FTC action against Match and OkCupid for deceiving users, sharing personal data",
       "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 15:17:51",
+      "https://news.ycombinator.com/item?id=47575417"
+    ],
+    [
+      "Show HN: Coasts – Containerized Hosts for Agents",
+      "https://github.com/coast-guard/coasts"
     ]
   ],
   [
@@ -81,22 +101,12 @@
   ],
   [
     [
-      "2026-03-30, 15:00:28",
-      "https://news.ycombinator.com/item?id=47575212"
+      "2026-03-30, 13:51:31",
+      "https://news.ycombinator.com/item?id=47574346"
     ],
     [
-      "\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"",
-      "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 14:49:58",
-      "https://news.ycombinator.com/item?id=47575089"
-    ],
-    [
-      "72% of the dollar's purchasing power was destroyed in just four episodes",
-      "https://eco3min.fr/en/us-inflation-is-not-linear/"
+      "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
+      "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/"
     ]
   ],
   [
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=47573887"
     ],
     [
-      "Parrots pack twice as many neurons as primate brains of the same mass",
+      "Bird brains (2023)",
       "https://www.dhanishsemar.com/writing/bird-brains"
     ]
   ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=47549824"
     ],
     [
-      "Cherri – programming language that compiles directly to a Apple Shortuct",
+      "Cherri – programming language that compiles to an Apple Shortuct",
       "https://github.com/electrikmilk/cherri"
     ]
   ],
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2026-03-26, 18:29:56",
-      "https://news.ycombinator.com/item?id=47534003"
+      "2026-03-26, 04:53:21",
+      "https://news.ycombinator.com/item?id=47526744"
     ],
     [
-      "Spring Boot Done Right: Lessons from a 400-Module Codebase",
-      "https://medium.com/all-things-software/spring-boot-done-right-lessons-from-a-400-module-codebase-e636c3c34149"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 09:41:44",
-      "https://news.ycombinator.com/item?id=47528403"
-    ],
-    [
-      "In Math, Rigor Is Vital. But Are Digitized Proofs Taking It Too Far?",
-      "https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/"
+      "Proactively Parasocial",
+      "https://nicklandolfi.com/posts/proactively-parasocial.html"
     ]
   ],
   [
