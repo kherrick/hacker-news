@@ -9,6 +9,7 @@
 * [2026-03-30, 21:40:57](https://news.ycombinator.com/item?id=47580059) - [Agentic AI and the next intelligence explosion](https://arxiv.org/abs/2603.20639)
 * [2026-03-30, 21:32:24](https://news.ycombinator.com/item?id=47579977) - [Tickets Are Prompts](https://dheer.co/tickets-are-prompts/)
 * [2026-03-30, 21:18:52](https://news.ycombinator.com/item?id=47579818) - [What we learned building 100 API integrations with OpenCode](https://nango.dev/blog/learned-building-200-api-integrations-with-opencode/)
+* [2026-03-30, 21:12:46](https://news.ycombinator.com/item?id=47579754) - [OpenGridWorks: The Electricity Infrasctructure, Mapped](https://www.opengridworks.com)
 * [2026-03-30, 20:19:43](https://news.ycombinator.com/item?id=47579229) - [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)
 * [2026-03-30, 20:16:59](https://news.ycombinator.com/item?id=47579200) - [America Is Now a Rogue Superpower](https://www.theatlantic.com/international/2026/03/trump-us-power-iran/686567/)
 * [2026-03-30, 19:47:42](https://news.ycombinator.com/item?id=47578855) - [Car Seats as Contraception](https://www.journals.uchicago.edu/doi/abs/10.1086/731812)
