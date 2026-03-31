@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 21:22:48](https://news.ycombinator.com/item?id=47593634) - [Ordinary Lab Gloves May Have Skewed Microplastic Data](https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386)
+* [2026-03-31, 21:15:01](https://news.ycombinator.com/item?id=47593556) - [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system)
 * [2026-03-31, 21:02:07](https://news.ycombinator.com/item?id=47593432) - [OpenAI raises $122B to accelerate the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai/)
+* [2026-03-31, 21:01:18](https://news.ycombinator.com/item?id=47593422) - [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/)
 * [2026-03-31, 20:48:15](https://news.ycombinator.com/item?id=47593285) - [Ministack (Replacement for LocalStack)](https://ministack.org/)
 * [2026-03-31, 20:21:50](https://news.ycombinator.com/item?id=47592939) - [JSSE: A JavaScript Engine Built by an Agent](https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html)
 * [2026-03-31, 20:07:30](https://news.ycombinator.com/item?id=47592755) - [OpenAI raises $122B](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)

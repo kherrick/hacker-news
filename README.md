@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-31, 21:02:07](https://news.ycombinator.com/item?id=47593432) - [OpenAI raises $122B to accelerate the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai/)
+* [2026-03-31, 21:22:48](https://news.ycombinator.com/item?id=47593634) - [Ordinary Lab Gloves May Have Skewed Microplastic Data](https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386)
+* [2026-03-31, 21:15:01](https://news.ycombinator.com/item?id=47593556) - [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system)
+* [2026-03-31, 21:01:18](https://news.ycombinator.com/item?id=47593422) - [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/)
 * [2026-03-31, 20:48:15](https://news.ycombinator.com/item?id=47593285) - [Ministack (Replacement for LocalStack)](https://ministack.org/)
 * [2026-03-31, 20:07:30](https://news.ycombinator.com/item?id=47592755) - [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
 * [2026-03-31, 19:57:54](https://news.ycombinator.com/item?id=47592626) - [Super Micro Computer Investors Look for Exits](https://catenaa.com/markets/equities/super-micro-computer-investors-look-for-exits/)
@@ -9,8 +11,6 @@
 * [2026-03-31, 17:55:04](https://news.ycombinator.com/item?id=47591104) - [OkCupid gave 3M dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/)
 * [2026-03-31, 16:29:52](https://news.ycombinator.com/item?id=47589856) - [Show HN: Postgres extension for BM25 relevance-ranked full-text search](https://github.com/timescale/pg_textsearch)
 * [2026-03-31, 16:27:02](https://news.ycombinator.com/item?id=47589818) - [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe)
-* [2026-03-31, 16:12:29](https://news.ycombinator.com/item?id=47589567) - [Scotty: A beautiful SSH task runner](https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner)
-* [2026-03-31, 16:00:29](https://news.ycombinator.com/item?id=47589370) - [Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]](https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf)
 * [2026-03-31, 15:01:35](https://news.ycombinator.com/item?id=47588349) - [GitHub Monaspace Case Study](https://lettermatic.com/custom/monaspace-case-study)
 * [2026-03-31, 14:32:26](https://news.ycombinator.com/item?id=47587953) - [Slop is not necessarily the future](https://www.greptile.com/blog/ai-slopware-future)
 * [2026-03-31, 14:25:37](https://news.ycombinator.com/item?id=47587866) - [Microsoft: Copilot is for entertainment purposes only](https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse)
