@@ -70,3 +70,4 @@
 * [2026-03-27, 02:19:12](https://news.ycombinator.com/item?id=47538433) - [HandyMKV for MakeMKV and HandBrake Automation](https://github.com/dmars8047/handymkv)
 * [2026-03-27, 01:47:55](https://news.ycombinator.com/item?id=47538190) - [Agent-to-Agent Pair Programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming)
 * [2026-03-27, 01:32:10](https://news.ycombinator.com/item?id=47538078) - [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3)
+* [2026-03-27, 01:00:49](https://news.ycombinator.com/item?id=47537875) - [A Primer on Long-Duration Life Support](https://mceglowski.substack.com/p/a-primer-on-long-duration-life-support)

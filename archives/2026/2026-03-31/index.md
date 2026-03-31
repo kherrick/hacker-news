@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 18:38:29](https://news.ycombinator.com/item?id=47591630) - [Show HN: My open-world voxel game with a magic system, playable in the browser](https://kouh.me/wildmagic)
+* [2026-03-31, 17:55:04](https://news.ycombinator.com/item?id=47591104) - [OkCupid gave 3M dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/)
 * [2026-03-31, 16:57:34](https://news.ycombinator.com/item?id=47590261) - [Ask HN: Academic study on AI's impact on software development – want to join?](https://news.ycombinator.com/item?id=47590261)
 * [2026-03-31, 16:27:02](https://news.ycombinator.com/item?id=47589818) - [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe)
+* [2026-03-31, 16:25:43](https://news.ycombinator.com/item?id=47589797) - [Show HN: PhAIL – Real-robot benchmark for AI models](https://phail.ai)
 * [2026-03-31, 16:12:29](https://news.ycombinator.com/item?id=47589567) - [Scotty: A beautiful SSH task runner](https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner)
 * [2026-03-31, 16:05:20](https://news.ycombinator.com/item?id=47589451) - [Show HN: Hyprmoncfg – Terminal-based monitor config manager for Hyprland](https://paolino.me/hyprmoncfg-monitor-configuration-for-hyprland/)
 * [2026-03-31, 16:00:29](https://news.ycombinator.com/item?id=47589370) - [Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]](https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf)
