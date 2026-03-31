@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 21:02:07](https://news.ycombinator.com/item?id=47593432) - [OpenAI raises $122B to accelerate the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai/)
 * [2026-03-31, 20:48:15](https://news.ycombinator.com/item?id=47593285) - [Ministack (Replacement for LocalStack)](https://ministack.org/)
 * [2026-03-31, 20:21:50](https://news.ycombinator.com/item?id=47592939) - [JSSE: A JavaScript Engine Built by an Agent](https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html)
 * [2026-03-31, 20:07:30](https://news.ycombinator.com/item?id=47592755) - [OpenAI raises $122B](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
 * [2026-03-31, 20:07:30](https://news.ycombinator.com/item?id=47592755) - [Accelerating the Next Phase of AI](https://openai.com/index/accelerating-the-next-phase-ai)
+* [2026-03-31, 19:57:54](https://news.ycombinator.com/item?id=47592626) - [Super Micro Computer Investors Look for Exits](https://catenaa.com/markets/equities/super-micro-computer-investors-look-for-exits/)
 * [2026-03-31, 19:46:43](https://news.ycombinator.com/item?id=47592462) - [I Traced My Traffic Through a Home Tailscale Exit Node](https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/)
 * [2026-03-31, 19:22:58](https://news.ycombinator.com/item?id=47592183) - [Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology](https://cerno.sh)
 * [2026-03-31, 19:01:29](https://news.ycombinator.com/item?id=47591928) - [GitHub's Historic Uptime](https://damrnelson.github.io/github-historical-uptime/)

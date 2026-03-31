@@ -19,6 +19,7 @@
 * [2026-03-27, 20:02:05](https://news.ycombinator.com/item?id=47547508) - [ISBN Visualization – Annas Archive](https://annas-archive.gd/isbn-visualization?)
 * [2026-03-27, 19:15:19](https://news.ycombinator.com/item?id=47547009) - [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/)
 * [2026-03-27, 19:06:44](https://news.ycombinator.com/item?id=47546911) - [Capability-Based Security for Redox: Namespace and CWD as Capabilities](https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/)
+* [2026-03-27, 18:55:02](https://news.ycombinator.com/item?id=47546775) - [Back to FreeBSD – Part 2 – Jails](https://hypha.pub/back-to-freebsd-part-2)
 * [2026-03-27, 18:51:06](https://news.ycombinator.com/item?id=47546732) - [Vibe-Coded Ext4 for OpenBSD](https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/)
 * [2026-03-27, 18:13:57](https://news.ycombinator.com/item?id=47546265) - [PyPI package telnyx has been compromised in yet another supply chain attack](https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-canisterworm)
 * [2026-03-27, 17:58:52](https://news.ycombinator.com/item?id=47546081) - [Telnyx Python SDK: Supply Chain Security Notice](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026)
