@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-28](index.md)
 
 * [2026-03-28, 23:29:04](https://news.ycombinator.com/item?id=47558997) - [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
+* [2026-03-28, 23:07:15](https://news.ycombinator.com/item?id=47558867) - [One of the largest salt mines in the world exists under Lake Erie](https://apnews.com/article/cleveland-salt-mine-winter-road-0daf091e3d56f65766bcf6a597683893)
 * [2026-03-28, 23:04:14](https://news.ycombinator.com/item?id=47558849) - [Computer chip material inspired by the human brain could slash AI energy use](https://www.cam.ac.uk/research/news/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use)
 * [2026-03-28, 23:03:35](https://news.ycombinator.com/item?id=47558843) - [TreeTrek – A raw Git repository viewer web app](https://repo.autonoma.ca/treetrek)
 * [2026-03-28, 22:50:49](https://news.ycombinator.com/item?id=47558782) - [Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html)
