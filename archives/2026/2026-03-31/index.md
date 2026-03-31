@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 16:57:34](https://news.ycombinator.com/item?id=47590261) - [Ask HN: Academic study on AI's impact on software development – want to join?](https://news.ycombinator.com/item?id=47590261)
 * [2026-03-31, 16:27:02](https://news.ycombinator.com/item?id=47589818) - [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe)
 * [2026-03-31, 16:12:29](https://news.ycombinator.com/item?id=47589567) - [Scotty: A beautiful SSH task runner](https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner)
 * [2026-03-31, 16:05:20](https://news.ycombinator.com/item?id=47589451) - [Show HN: Hyprmoncfg – Terminal-based monitor config manager for Hyprland](https://paolino.me/hyprmoncfg-monitor-configuration-for-hyprland/)
@@ -17,6 +18,7 @@
 * [2026-03-31, 14:08:37](https://news.ycombinator.com/item?id=47587631) - [RubyGems Fracture Incident Report](https://rubycentral.org/news/rubygems-fracture-incident-report/)
 * [2026-03-31, 14:05:42](https://news.ycombinator.com/item?id=47587597) - [Distributed data centers in our basements](https://news.ycombinator.com/item?id=47587597)
 * [2026-03-31, 13:07:33](https://news.ycombinator.com/item?id=47586814) - [Nobody Is Coming to Save Your Career](https://alifeengineered.substack.com/p/nobody-is-coming-to-save-your-career)
+* [2026-03-31, 13:04:30](https://news.ycombinator.com/item?id=47586778) - [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/)
 * [2026-03-31, 12:50:23](https://news.ycombinator.com/item?id=47586614) - [Open source CAD in the browser (Solvespace)](https://solvespace.com/webver.pl)
 * [2026-03-31, 12:11:29](https://news.ycombinator.com/item?id=47586176) - [Anthropic: Claude Code users hitting usage limits 'way faster than expected'](https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/)
 * [2026-03-31, 11:49:03](https://news.ycombinator.com/item?id=47585974) - [Combinators](https://tinyapl.rubenverg.com/docs/info/combinators)
@@ -26,6 +28,7 @@
 * [2026-03-31, 09:00:40](https://news.ycombinator.com/item?id=47584540) - [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963)
 * [2026-03-31, 08:29:24](https://news.ycombinator.com/item?id=47584304) - [Closed Source AI = Neofeudalism](https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html)
 * [2026-03-31, 07:47:50](https://news.ycombinator.com/item?id=47584009) - [Show HN: Free AI Coding Skills for Rails](https://www.railsreviews.com/skills)
+* [2026-03-31, 07:40:18](https://news.ycombinator.com/item?id=47583959) - [Accidentally created my first fork bomb with Claude Code](https://www.droppedasbaby.com/posts/2602-01/)
 * [2026-03-31, 07:01:15](https://news.ycombinator.com/item?id=47583712) - [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer)
 * [2026-03-31, 05:39:41](https://news.ycombinator.com/item?id=47583151) - [Show HN: Raincast – Describe an app, get a native desktop app (open source)](https://github.com/tihiera/raincast)
 * [2026-03-31, 05:21:59](https://news.ycombinator.com/item?id=47583045) - [Google's 200M-parameter time-series foundation model with 16k context](https://github.com/google-research/timesfm)
