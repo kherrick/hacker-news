@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-31, 09:00:40",
+      "https://news.ycombinator.com/item?id=47584540"
+    ],
+    [
+      "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "https://twitter.com/Fried_rice/status/2038894956459290963"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 08:29:24",
+      "https://news.ycombinator.com/item?id=47584304"
+    ],
+    [
+      "Closed Source AI = Neofeudalism",
+      "https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 07:47:50",
       "https://news.ycombinator.com/item?id=47584009"
     ],
@@ -27,16 +47,6 @@
     [
       "Google's 200M-parameter time-series foundation model with 16k context",
       "https://github.com/google-research/timesfm"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 05:12:35",
-      "https://news.ycombinator.com/item?id=47582990"
-    ],
-    [
-      "Sony halts memory card shipments due to NAND shortage",
-      "https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Universal Claude.md – cut Claude output tokens",
       "https://github.com/drona23/claude-token-efficient"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 23:20:02",
-      "https://news.ycombinator.com/item?id=47580910"
-    ],
-    [
-      "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
-      "https://github.com/virpo/pegboard"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-03-30, 09:18:47",
+      "https://news.ycombinator.com/item?id=47572162"
+    ],
+    [
+      "We're Pausing Asimov Press",
+      "https://www.asimov.press/p/pause"
+    ]
+  ],
+  [
+    [
       "2026-03-30, 07:11:11",
       "https://news.ycombinator.com/item?id=47571330"
     ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2026-03-29, 09:34:20",
+      "https://news.ycombinator.com/item?id=47561653"
+    ],
+    [
+      "What fork() Actually Copies",
+      "https://tech.daniellbastos.com.br/posts/what-fork-actually-copies/"
+    ]
+  ],
+  [
+    [
       "2026-03-28, 23:07:15",
       "https://news.ycombinator.com/item?id=47558867"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2026-03-28, 15:30:40",
-      "https://news.ycombinator.com/item?id=47555492"
-    ],
-    [
-      "Rock Star: Reading the Rosetta Stone",
-      "https://www.historytoday.com/archive/feature/original-rock-star"
-    ]
-  ],
-  [
-    [
       "2026-03-27, 23:39:44",
       "https://news.ycombinator.com/item?id=47549824"
     ],
     [
       "Cherri – programming language that compiles to an Apple Shortuct",
       "https://github.com/electrikmilk/cherri"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 20:57:17",
-      "https://news.ycombinator.com/item?id=47548164"
-    ],
-    [
-      "Researchers find 3,500-year-old loom that reveals textile revolution",
-      "https://web.ua.es/en/actualidad-universitaria/2026/marzo2026/23-31/ua-researchers-find-3-500-year-old-loom-that-reveals-key-aspects-of-textile-revolution-in-the-bronze-age.html"
     ]
   ],
   [
