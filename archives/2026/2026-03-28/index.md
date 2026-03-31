@@ -27,6 +27,7 @@
 * [2026-03-28, 16:59:34](https://news.ycombinator.com/item?id=47556359) - [Linux Is an Interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
 * [2026-03-28, 16:52:45](https://news.ycombinator.com/item?id=47556290) - [Pretext: TypeScript library for multiline text measurement and layout](https://github.com/chenglou/pretext)
 * [2026-03-28, 16:49:46](https://news.ycombinator.com/item?id=47556267) - [Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms](https://androwish.org/home/wiki?name=undroidwish)
+* [2026-03-28, 16:29:28](https://news.ycombinator.com/item?id=47556076) - [What major works of literature were written after age of 85? 75? 65?](https://statmodeling.stat.columbia.edu/2026/03/25/what-major-works-of-literature-were-written-after-age-of-85-75-65/)
 * [2026-03-28, 16:28:32](https://news.ycombinator.com/item?id=47556063) - [Seeing Like a Spreadsheet](https://davidoks.blog/p/how-the-spreadsheet-reshaped-america)
 * [2026-03-28, 16:26:08](https://news.ycombinator.com/item?id=47556033) - [rpg.actor Game Jam](https://rpg.actor/jam)
 * [2026-03-28, 16:23:31](https://news.ycombinator.com/item?id=47556001) - [Circuit-level PDP-11/34 emulator](https://github.com/dbrll/ll-34)

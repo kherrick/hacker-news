@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 13:07:33](https://news.ycombinator.com/item?id=47586814) - [Nobody Is Coming to Save Your Career](https://alifeengineered.substack.com/p/nobody-is-coming-to-save-your-career)
+* [2026-03-31, 12:50:23](https://news.ycombinator.com/item?id=47586614) - [Open source CAD in the browser (Solvespace)](https://solvespace.com/webver.pl)
+* [2026-03-31, 12:11:29](https://news.ycombinator.com/item?id=47586176) - [Anthropic: Claude Code users hitting usage limits 'way faster than expected'](https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/)
+* [2026-03-31, 11:49:03](https://news.ycombinator.com/item?id=47585974) - [Combinators](https://tinyapl.rubenverg.com/docs/info/combinators)
+* [2026-03-31, 11:37:52](https://news.ycombinator.com/item?id=47585860) - [In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive](https://www.quantamagazine.org/in-expanding-de-sitter-space-quantum-mechanics-gets-even-more-elusive-20260330/)
 * [2026-03-31, 10:02:34](https://news.ycombinator.com/item?id=47585008) - [7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown](https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026)
 * [2026-03-31, 09:40:12](https://news.ycombinator.com/item?id=47584850) - [Claude Code full source code leaked on NPM](https://github.com/chatgptprojects/claude-code)
 * [2026-03-31, 09:00:40](https://news.ycombinator.com/item?id=47584540) - [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963)
