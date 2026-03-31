@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 10:02:34](https://news.ycombinator.com/item?id=47585008) - [7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown](https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026)
 * [2026-03-31, 09:40:12](https://news.ycombinator.com/item?id=47584850) - [Claude Code full source code leaked on NPM](https://github.com/chatgptprojects/claude-code)
 * [2026-03-31, 09:00:40](https://news.ycombinator.com/item?id=47584540) - [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963)
 * [2026-03-31, 08:29:24](https://news.ycombinator.com/item?id=47584304) - [Closed Source AI = Neofeudalism](https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html)

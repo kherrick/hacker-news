@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-03-31, 09:40:12](https://news.ycombinator.com/item?id=47584850) - [Claude Code full source code leaked on NPM](https://github.com/chatgptprojects/claude-code)
+* [2026-03-31, 10:02:34](https://news.ycombinator.com/item?id=47585008) - [7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown](https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026)
 * [2026-03-31, 09:00:40](https://news.ycombinator.com/item?id=47584540) - [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963)
 * [2026-03-31, 07:01:15](https://news.ycombinator.com/item?id=47583712) - [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer)
 * [2026-03-31, 05:21:59](https://news.ycombinator.com/item?id=47583045) - [Google's 200M-parameter time-series foundation model with 16k context](https://github.com/google-research/timesfm)
@@ -14,6 +14,7 @@
 * [2026-03-30, 23:20:02](https://news.ycombinator.com/item?id=47580910) - [Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent](https://github.com/virpo/pegboard)
 * [2026-03-30, 22:05:21](https://news.ycombinator.com/item?id=47580297) - [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)
 * [2026-03-30, 21:12:46](https://news.ycombinator.com/item?id=47579754) - [OpenGridWorks: The Electricity Infrasctructure, Mapped](https://www.opengridworks.com)
+* [2026-03-30, 19:37:45](https://news.ycombinator.com/item?id=47578741) - [I'm betting on ATProto](https://brittanyellich.com/atproto/)
 * [2026-03-30, 19:22:33](https://news.ycombinator.com/item?id=47578572) - [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/)
 * [2026-03-30, 18:43:38](https://news.ycombinator.com/item?id=47578086) - [Vulnerability research is cooked](https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/)
 * [2026-03-30, 18:16:00](https://news.ycombinator.com/item?id=47577761) - [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
@@ -25,10 +26,9 @@
 * [2026-03-30, 07:11:11](https://news.ycombinator.com/item?id=47571330) - [Good CTE, Bad CTE](https://boringsql.com/posts/good-cte-bad-cte/)
 * [2026-03-29, 21:53:42](https://news.ycombinator.com/item?id=47567790) - [Oscar Reutersvärd (2021)](https://escherinhetpaleis.nl/en/about-escher/escher-today/oscar-reutersvard)
 * [2026-03-28, 23:07:15](https://news.ycombinator.com/item?id=47558867) - [One of the largest salt mines in the world exists under Lake Erie](https://apnews.com/article/cleveland-salt-mine-winter-road-0daf091e3d56f65766bcf6a597683893)
+* [2026-03-28, 15:08:22](https://news.ycombinator.com/item?id=47555273) - [Audio tapes reveal mass rule-breaking in Milgram's obedience experiments](https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/)
 * [2026-03-27, 23:39:44](https://news.ycombinator.com/item?id=47549824) - [Cherri – programming language that compiles to an Apple Shortuct](https://github.com/electrikmilk/cherri)
-* [2026-03-27, 20:57:17](https://news.ycombinator.com/item?id=47548164) - [Researchers find 3,500-year-old loom that reveals textile revolution](https://web.ua.es/en/actualidad-universitaria/2026/marzo2026/23-31/ua-researchers-find-3-500-year-old-loom-that-reveals-key-aspects-of-textile-revolution-in-the-bronze-age.html)
 * [2026-03-27, 20:30:05](https://news.ycombinator.com/item?id=47547843) - [Agents of Chaos](https://agentsofchaos.baulab.info/report.html)
-* [2026-03-26, 17:15:33](https://news.ycombinator.com/item?id=47533079) - [Unit: A self-replicating Forth mesh agent running in a browser tab](https://davidcanhelp.github.io/unit/)
 * [2026-03-26, 17:00:54](https://news.ycombinator.com/item?id=47532891) - [Clojure: The Documentary, official trailer [video]](https://www.youtube.com/watch?v=JJEyffSdBsk)
 
 ## [Archives](archives/index.md)
