@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 23:20:02](https://news.ycombinator.com/item?id=47580910) - [Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent](https://github.com/virpo/pegboard)
 * [2026-03-30, 22:10:22](https://news.ycombinator.com/item?id=47580350) - [Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?](https://30u30.fyi)
 * [2026-03-30, 22:05:21](https://news.ycombinator.com/item?id=47580297) - [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)
 * [2026-03-30, 21:40:57](https://news.ycombinator.com/item?id=47580059) - [Agentic AI and the next intelligence explosion](https://arxiv.org/abs/2603.20639)
