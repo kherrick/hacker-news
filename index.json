@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-31, 20:48:15",
+      "https://news.ycombinator.com/item?id=47593285"
+    ],
+    [
+      "Ministack (Replacement for LocalStack)",
+      "https://ministack.org/"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 20:21:50",
       "https://news.ycombinator.com/item?id=47592939"
     ],
@@ -15,8 +25,8 @@
       "https://news.ycombinator.com/item?id=47592755"
     ],
     [
-      "Accelerating the Next Phase of AI",
-      "https://openai.com/index/accelerating-the-next-phase-ai"
+      "OpenAI raises $122B",
+      "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "I Traced My Traffic Through a Home Tailscale Exit Node",
       "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 19:22:58",
-      "https://news.ycombinator.com/item?id=47592183"
-    ],
-    [
-      "Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology",
-      "https://cerno.sh"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47589856"
     ],
     [
-      "Show HN: How This Graybeard Built the Fastest and Freest Postgres BM25 Search",
+      "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
       "https://github.com/timescale/pg_textsearch"
     ]
   ],
@@ -77,16 +77,6 @@
     [
       "Cohere Transcribe: Speech Recognition",
       "https://cohere.com/blog/transcribe"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 16:25:43",
-      "https://news.ycombinator.com/item?id=47589797"
-    ],
-    [
-      "Show HN: PhAIL – Real-robot benchmark for AI models",
-      "https://phail.ai"
     ]
   ],
   [
@@ -181,22 +171,22 @@
   ],
   [
     [
-      "2026-03-31, 12:11:29",
-      "https://news.ycombinator.com/item?id=47586176"
-    ],
-    [
-      "Claude Code users hitting usage limits 'way faster than expected'",
-      "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 11:49:03",
       "https://news.ycombinator.com/item?id=47585974"
     ],
     [
       "Combinators",
       "https://tinyapl.rubenverg.com/docs/info/combinators"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 09:30:43",
+      "https://news.ycombinator.com/item?id=47584795"
+    ],
+    [
+      "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+      "https://responsiblestatecraft.org/iran-strait-of-hormuz/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Teenage Engineering's PO-32 acoustic modem and synth implementation",
       "https://github.com/ericlewis/libpo32"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 22:19:34",
+      "https://news.ycombinator.com/item?id=47549128"
+    ],
+    [
+      "4D Doom",
+      "https://github.com/danieldugas/HYPERHELL"
     ]
   ],
   [
