@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 20:21:50](https://news.ycombinator.com/item?id=47592939) - [JSSE: A JavaScript Engine Built by an Agent](https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html)
+* [2026-03-31, 20:07:30](https://news.ycombinator.com/item?id=47592755) - [Accelerating the Next Phase of AI](https://openai.com/index/accelerating-the-next-phase-ai)
+* [2026-03-31, 19:46:43](https://news.ycombinator.com/item?id=47592462) - [I Traced My Traffic Through a Home Tailscale Exit Node](https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/)
 * [2026-03-31, 19:22:58](https://news.ycombinator.com/item?id=47592183) - [Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology](https://cerno.sh)
 * [2026-03-31, 19:01:29](https://news.ycombinator.com/item?id=47591928) - [GitHub's Historic Uptime](https://damrnelson.github.io/github-historical-uptime/)
 * [2026-03-31, 18:38:29](https://news.ycombinator.com/item?id=47591630) - [Show HN: My open-world voxel game with a magic system, playable in the browser](https://kouh.me/wildmagic)
