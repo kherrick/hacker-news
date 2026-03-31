@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-03-31, 13:07:33",
+      "https://news.ycombinator.com/item?id=47586814"
+    ],
+    [
+      "Nobody Is Coming to Save Your Career",
+      "https://alifeengineered.substack.com/p/nobody-is-coming-to-save-your-career"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 12:50:23",
+      "https://news.ycombinator.com/item?id=47586614"
+    ],
+    [
+      "Open source CAD in the browser (Solvespace)",
+      "https://solvespace.com/webver.pl"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 12:11:29",
+      "https://news.ycombinator.com/item?id=47586176"
+    ],
+    [
+      "Anthropic: Claude Code users hitting usage limits 'way faster than expected'",
+      "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 11:49:03",
+      "https://news.ycombinator.com/item?id=47585974"
+    ],
+    [
+      "Combinators",
+      "https://tinyapl.rubenverg.com/docs/info/combinators"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 11:37:52",
+      "https://news.ycombinator.com/item?id=47585860"
+    ],
+    [
+      "In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive",
+      "https://www.quantamagazine.org/in-expanding-de-sitter-space-quantum-mechanics-gets-even-more-elusive-20260330/"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 10:02:34",
       "https://news.ycombinator.com/item?id=47585008"
     ],
@@ -71,16 +121,6 @@
   ],
   [
     [
-      "2026-03-31, 02:26:15",
-      "https://news.ycombinator.com/item?id=47582056"
-    ],
-    [
-      "Mr. Chatterbox is a Victorian-era ethically trained model",
-      "https://simonwillison.net/2026/Mar/30/mr-chatterbox/"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 02:23:50",
       "https://news.ycombinator.com/item?id=47582043"
     ],
@@ -97,16 +137,6 @@
     [
       "Universal Claude.md – cut Claude output tokens",
       "https://github.com/drona23/claude-token-efficient"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 23:20:02",
-      "https://news.ycombinator.com/item?id=47580910"
-    ],
-    [
-      "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
-      "https://github.com/virpo/pegboard"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-03-30, 19:37:45",
-      "https://news.ycombinator.com/item?id=47578741"
-    ],
-    [
-      "I'm betting on ATProto",
-      "https://brittanyellich.com/atproto/"
-    ]
-  ],
-  [
-    [
       "2026-03-30, 19:22:33",
       "https://news.ycombinator.com/item?id=47578572"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2026-03-30, 18:43:38",
-      "https://news.ycombinator.com/item?id=47578086"
-    ],
-    [
-      "Vulnerability research is cooked",
-      "https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/"
-    ]
-  ],
-  [
-    [
       "2026-03-30, 18:16:00",
       "https://news.ycombinator.com/item?id=47577761"
     ],
     [
       "Fedware: Government apps that spy harder than the apps they ban",
       "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 15:16:35",
-      "https://news.ycombinator.com/item?id=47575403"
-    ],
-    [
-      "CodingFont: A game to help you pick a coding font",
-      "https://www.codingfont.com/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-03-28, 16:29:28",
+      "https://news.ycombinator.com/item?id=47556076"
+    ],
+    [
+      "What major works of literature were written after age of 85? 75? 65?",
+      "https://statmodeling.stat.columbia.edu/2026/03/25/what-major-works-of-literature-were-written-after-age-of-85-75-65/"
+    ]
+  ],
+  [
+    [
       "2026-03-28, 15:08:22",
       "https://news.ycombinator.com/item?id=47555273"
     ],
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2026-03-27, 23:39:44",
-      "https://news.ycombinator.com/item?id=47549824"
+      "2026-03-26, 22:37:37",
+      "https://news.ycombinator.com/item?id=47536719"
     ],
     [
-      "Cherri – programming language that compiles to an Apple Shortuct",
-      "https://github.com/electrikmilk/cherri"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 20:30:05",
-      "https://news.ycombinator.com/item?id=47547843"
-    ],
-    [
-      "Agents of Chaos",
-      "https://agentsofchaos.baulab.info/report.html"
+      "Multiple Sclerosis",
+      "https://subfictional.com/multiple-sclerosis/"
     ]
   ],
   [
