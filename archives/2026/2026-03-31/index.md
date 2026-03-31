@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 14:30:48](https://news.ycombinator.com/item?id=47587935) - [Oracle slashes 30k jobs with a cold 6 a.m. email](https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/)
+* [2026-03-31, 14:05:42](https://news.ycombinator.com/item?id=47587597) - [Distributed data centers in our basements](https://news.ycombinator.com/item?id=47587597)
 * [2026-03-31, 13:07:33](https://news.ycombinator.com/item?id=47586814) - [Nobody Is Coming to Save Your Career](https://alifeengineered.substack.com/p/nobody-is-coming-to-save-your-career)
 * [2026-03-31, 12:50:23](https://news.ycombinator.com/item?id=47586614) - [Open source CAD in the browser (Solvespace)](https://solvespace.com/webver.pl)
 * [2026-03-31, 12:11:29](https://news.ycombinator.com/item?id=47586176) - [Anthropic: Claude Code users hitting usage limits 'way faster than expected'](https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/)
