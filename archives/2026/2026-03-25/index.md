@@ -24,6 +24,7 @@
 * [2026-03-25, 19:19:50](https://news.ycombinator.com/item?id=47521945) - [FreeCAD Version 1.1 Released](https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/)
 * [2026-03-25, 19:14:42](https://news.ycombinator.com/item?id=47521876) - [Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed](https://lapcatsoftware.com/articles/2026/3/11.html)
 * [2026-03-25, 19:12:12](https://news.ycombinator.com/item?id=47521845) - [Automatically generate all 3D print files for organizing a drawer](https://geniecrate.com/)
+* [2026-03-25, 19:10:26](https://news.ycombinator.com/item?id=47521813) - [A Love Letter to 'Girl Games'](https://aftermath.site/a-love-letter-to-girl-games/)
 * [2026-03-25, 19:09:16](https://news.ycombinator.com/item?id=47521799) - [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
 * [2026-03-25, 19:08:38](https://news.ycombinator.com/item?id=47521787) - [Ball Pit](https://codepen.io/mrdoob_/full/NPRwLZd)
 * [2026-03-25, 18:16:40](https://news.ycombinator.com/item?id=47521157) - [90% of Claude-linked output going to GitHub repos w <2 stars](https://www.claudescode.dev/?window=since_launch)

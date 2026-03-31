@@ -22,6 +22,7 @@
 * [2026-03-30, 18:34:47](https://news.ycombinator.com/item?id=47577979) - [A sea of sparks: Seeing radioactivity](https://maurycyz.com/projects/spinthariscope/)
 * [2026-03-30, 18:16:00](https://news.ycombinator.com/item?id=47577761) - [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
 * [2026-03-30, 18:13:00](https://news.ycombinator.com/item?id=47577735) - [\"CEO Said a Thing \" Journalism](https://karlbode.com/ceo-said-a-thing-journalism/)
+* [2026-03-30, 17:26:10](https://news.ycombinator.com/item?id=47577177) - [Lime (bikes) is a data company](https://ktoya.me/lime-data-company/)
 * [2026-03-30, 17:21:49](https://news.ycombinator.com/item?id=47577120) - [Recover Apple Keychain](https://arkoinad.com/posts/apple_keychain_recovery.html)
 * [2026-03-30, 17:14:06](https://news.ycombinator.com/item?id=47577032) - [DigitalOcean Seeks $800M in Funding](https://www.datacenterdynamics.com/en/news/digitalocean-seeks-800m-in-funding/)
 * [2026-03-30, 17:09:56](https://news.ycombinator.com/item?id=47576978) - [You are falling behind because you haven't fed the insincerity machine](https://christianheilmann.com/2026/03/28/you-are-falling-behind-because-you-havent-fed-the-insincerity-machine-in-the-last-5-minutes/)
