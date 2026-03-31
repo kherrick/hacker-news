@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-03-31, 02:54:17",
+      "https://news.ycombinator.com/item?id=47582220"
+    ],
+    [
+      "Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan",
+      "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 02:23:50",
+      "https://news.ycombinator.com/item?id=47582043"
+    ],
+    [
+      "Artemis II is not safe to fly",
+      "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 01:28:18",
+      "https://news.ycombinator.com/item?id=47581721"
+    ],
+    [
+      "Incident March 30th, 2026 – Accidental CDN Caching",
+      "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 01:23:34",
+      "https://news.ycombinator.com/item?id=47581701"
+    ],
+    [
+      "Universal Claude.md – cut Claude output tokens by 63%",
+      "https://github.com/drona23/claude-token-efficient"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 23:20:02",
+      "https://news.ycombinator.com/item?id=47580910"
+    ],
+    [
+      "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
+      "https://github.com/virpo/pegboard"
+    ]
+  ],
+  [
+    [
       "2026-03-30, 22:05:21",
       "https://news.ycombinator.com/item?id=47580297"
     ],
@@ -91,26 +141,6 @@
   ],
   [
     [
-      "2026-03-30, 16:23:56",
-      "https://news.ycombinator.com/item?id=47576317"
-    ],
-    [
-      "Take better notes, by hand",
-      "https://brianschrader.com/archive/take-better-notes-by-hand/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 15:32:37",
-      "https://news.ycombinator.com/item?id=47575616"
-    ],
-    [
-      "FTC action against Match and OkCupid for deceiving users, sharing personal data",
-      "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party"
-    ]
-  ],
-  [
-    [
       "2026-03-30, 15:17:51",
       "https://news.ycombinator.com/item?id=47575417"
     ],
@@ -127,16 +157,6 @@
     [
       "CodingFont: A game to help you pick a coding font",
       "https://www.codingfont.com/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 13:51:31",
-      "https://news.ycombinator.com/item?id=47574346"
-    ],
-    [
-      "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
-      "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/"
     ]
   ],
   [
@@ -171,26 +191,6 @@
   ],
   [
     [
-      "2026-03-30, 11:05:37",
-      "https://news.ycombinator.com/item?id=47572771"
-    ],
-    [
-      "Mathematical methods and human thought in the age of AI",
-      "https://arxiv.org/abs/2603.26524"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 07:34:04",
-      "https://news.ycombinator.com/item?id=47571495"
-    ],
-    [
-      "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "https://dani2442.github.io/posts/continuous-rl/"
-    ]
-  ],
-  [
-    [
       "2026-03-30, 07:03:18",
       "https://news.ycombinator.com/item?id=47571279"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-03-29, 18:48:51",
-      "https://news.ycombinator.com/item?id=47565952"
-    ],
-    [
-      "The Digital Leviathan",
-      "https://brownstone.org/articles/the-digital-leviathan/"
-    ]
-  ],
-  [
-    [
       "2026-03-28, 16:28:32",
       "https://news.ycombinator.com/item?id=47556063"
     ],
@@ -237,16 +227,6 @@
     [
       "Roulette Computers: Hidden Devices That Predict Spins",
       "https://www.roulette-computers.com/"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 12:20:28",
-      "https://news.ycombinator.com/item?id=47553910"
-    ],
-    [
-      "From Proxmox to FreeBSD and Sylve in our office lab",
-      "https://www.iptechnics.com/blogs/from-proxmox-to-freebsd-and-sylve-in-our-office-lab"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
-      "2026-03-26, 13:49:47",
-      "https://news.ycombinator.com/item?id=47530449"
+      "2026-03-26, 17:15:33",
+      "https://news.ycombinator.com/item?id=47533079"
     ],
     [
-      "IronGlass Brings Legendary Soviet Cinema Lenses to Mirrorless Cameras",
-      "https://petapixel.com/2026/02/19/ironglass-brings-legendary-soviet-cinema-lenses-to-mirrorless-cameras/"
+      "Unit: A self-replicating Forth mesh agent running in a browser tab",
+      "https://davidcanhelp.github.io/unit/"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 17:00:54",
+      "https://news.ycombinator.com/item?id=47532891"
+    ],
+    [
+      "Clojure: The Documentary, official trailer [video]",
+      "https://www.youtube.com/watch?v=JJEyffSdBsk"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 15:22:46",
+      "https://news.ycombinator.com/item?id=47531644"
+    ],
+    [
+      "Principles and Gear",
+      "https://arun.is/blog/on-running/"
     ]
   ],
   [
