@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-03-31, 14:05:42",
-      "https://news.ycombinator.com/item?id=47587597"
-    ],
-    [
-      "Ask HN: Distributed data centers in our basements",
-      "https://news.ycombinator.com/item?id=47587597"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 13:04:30",
       "https://news.ycombinator.com/item?id=47586778"
     ],
@@ -227,6 +217,16 @@
     [
       "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
       "https://news.future-shock.ai/the-weight-of-remembering/"
+    ]
+  ],
+  [
+    [
+      "2026-03-28, 16:29:16",
+      "https://news.ycombinator.com/item?id=47556074"
+    ],
+    [
+      "Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?",
+      "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/"
     ]
   ],
   [
