@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-31, 16:57:34",
+      "https://news.ycombinator.com/item?id=47590261"
+    ],
+    [
+      "Ask HN: Academic study on AI's impact on software development – want to join?",
+      "https://news.ycombinator.com/item?id=47590261"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 16:27:02",
       "https://news.ycombinator.com/item?id=47589818"
     ],
@@ -21,32 +31,12 @@
   ],
   [
     [
-      "2026-03-31, 16:05:20",
-      "https://news.ycombinator.com/item?id=47589451"
-    ],
-    [
-      "Show HN: Hyprmoncfg – Terminal-based monitor config manager for Hyprland",
-      "https://paolino.me/hyprmoncfg-monitor-configuration-for-hyprland/"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 16:00:29",
       "https://news.ycombinator.com/item?id=47589370"
     ],
     [
       "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
       "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 15:39:45",
-      "https://news.ycombinator.com/item?id=47589011"
-    ],
-    [
-      "Italy blocks US use of Sicily air base for Middle East war",
-      "https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/"
     ]
   ],
   [
@@ -111,12 +101,32 @@
   ],
   [
     [
+      "2026-03-31, 13:04:30",
+      "https://news.ycombinator.com/item?id=47586778"
+    ],
+    [
+      "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 12:50:23",
       "https://news.ycombinator.com/item?id=47586614"
     ],
     [
       "Open source CAD in the browser (Solvespace)",
       "https://solvespace.com/webver.pl"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 12:11:29",
+      "https://news.ycombinator.com/item?id=47586176"
+    ],
+    [
+      "Claude Code users hitting usage limits 'way faster than expected'",
+      "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/"
     ]
   ],
   [
@@ -137,6 +147,16 @@
     [
       "Claude Code's source code has been leaked via a map file in their NPM registry",
       "https://twitter.com/Fried_rice/status/2038894956459290963"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 07:40:18",
+      "https://news.ycombinator.com/item?id=47583959"
+    ],
+    [
+      "Accidentally created my first fork bomb with Claude Code",
+      "https://www.droppedasbaby.com/posts/2602-01/"
     ]
   ],
   [
@@ -201,42 +221,22 @@
   ],
   [
     [
-      "2026-03-30, 18:16:00",
-      "https://news.ycombinator.com/item?id=47577761"
-    ],
-    [
-      "Fedware: Government apps that spy harder than the apps they ban",
-      "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 17:26:10",
-      "https://news.ycombinator.com/item?id=47577177"
-    ],
-    [
-      "Lime (bikes) is a data company",
-      "https://ktoya.me/lime-data-company/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 12:39:56",
-      "https://news.ycombinator.com/item?id=47573519"
-    ],
-    [
-      "Do your own writing",
-      "https://alexhwoods.com/dont-let-ai-write-for-you/"
-    ]
-  ],
-  [
-    [
       "2026-03-30, 07:11:11",
       "https://news.ycombinator.com/item?id=47571330"
     ],
     [
       "Good CTE, Bad CTE",
       "https://boringsql.com/posts/good-cte-bad-cte/"
+    ]
+  ],
+  [
+    [
+      "2026-03-28, 22:42:23",
+      "https://news.ycombinator.com/item?id=47558733"
+    ],
+    [
+      "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+      "https://news.future-shock.ai/the-weight-of-remembering/"
     ]
   ],
   [
