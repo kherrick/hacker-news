@@ -32,6 +32,7 @@
 * [2026-03-28, 16:02:59](https://news.ycombinator.com/item?id=47555814) - [Militarized snowflakes: The accidental beauty of Renaissance star forts](https://bigthink.com/strange-maps/star-forts/)
 * [2026-03-28, 15:44:58](https://news.ycombinator.com/item?id=47555636) - [Show HN: Free, in-browser PDF editor](https://breezepdf.com/?v=2)
 * [2026-03-28, 15:37:17](https://news.ycombinator.com/item?id=47555556) - [I decompiled the White House's new app](https://thereallo.dev/blog/decompiling-the-white-house-app)
+* [2026-03-28, 15:30:40](https://news.ycombinator.com/item?id=47555492) - [Rock Star: Reading the Rosetta Stone](https://www.historytoday.com/archive/feature/original-rock-star)
 * [2026-03-28, 14:49:30](https://news.ycombinator.com/item?id=47555093) - [We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA](https://enlidea.com)
 * [2026-03-28, 14:49:25](https://news.ycombinator.com/item?id=47555090) - [Folk are getting dangerously attached to AI that always tells them they're right](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
 * [2026-03-28, 14:48:14](https://news.ycombinator.com/item?id=47555081) - [The risk of AI isn't making us lazy, but making \"lazy\" look productive](https://news.ycombinator.com/item?id=47555081)
