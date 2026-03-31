@@ -47,6 +47,7 @@
 * [2026-03-30, 11:05:37](https://news.ycombinator.com/item?id=47572771) - [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524)
 * [2026-03-30, 11:02:14](https://news.ycombinator.com/item?id=47572748) - [The stealthy startup that pitched brainless human clones](https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/)
 * [2026-03-30, 10:21:09](https://news.ycombinator.com/item?id=47572530) - [How Reverse Game Theory Could Solve the Housing Shortage](https://www.noemamag.com/the-architecture-of-cooperation/)
+* [2026-03-30, 09:18:47](https://news.ycombinator.com/item?id=47572162) - [We're Pausing Asimov Press](https://www.asimov.press/p/pause)
 * [2026-03-30, 08:52:07](https://news.ycombinator.com/item?id=47572008) - [Apple nailed AI by doing fucking nothing lol](https://xcancel.com/cryptopunk7213/status/2038351931589193953?s=20)
 * [2026-03-30, 08:51:18](https://news.ycombinator.com/item?id=47572000) - [Stripe is down](https://status.stripe.com/)
 * [2026-03-30, 08:51:18](https://news.ycombinator.com/item?id=47572000) - [Stripe Is Down](https://dashboard.stripe.com/login)

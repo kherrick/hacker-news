@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 09:00:40](https://news.ycombinator.com/item?id=47584540) - [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963)
+* [2026-03-31, 08:29:24](https://news.ycombinator.com/item?id=47584304) - [Closed Source AI = Neofeudalism](https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html)
 * [2026-03-31, 07:47:50](https://news.ycombinator.com/item?id=47584009) - [Show HN: Free AI Coding Skills for Rails](https://www.railsreviews.com/skills)
 * [2026-03-31, 07:01:15](https://news.ycombinator.com/item?id=47583712) - [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer)
 * [2026-03-31, 05:39:41](https://news.ycombinator.com/item?id=47583151) - [Show HN: Raincast – Describe an app, get a native desktop app (open source)](https://github.com/tihiera/raincast)
