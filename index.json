@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-03-31, 18:38:29",
-      "https://news.ycombinator.com/item?id=47591630"
+      "2026-03-31, 19:22:58",
+      "https://news.ycombinator.com/item?id=47592183"
     ],
     [
-      "Show HN: My open-world voxel game with a magic system, playable in the browser",
-      "https://kouh.me/wildmagic"
+      "Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology",
+      "https://cerno.sh"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 19:01:29",
+      "https://news.ycombinator.com/item?id=47591928"
+    ],
+    [
+      "GitHub's Historic Uptime",
+      "https://damrnelson.github.io/github-historical-uptime/"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
       "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 16:29:52",
+      "https://news.ycombinator.com/item?id=47589856"
+    ],
+    [
+      "Show HN: How This Graybeard Built the Fastest and Freest Postgres BM25 Search",
+      "https://github.com/timescale/pg_textsearch"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2026-03-31, 15:20:11",
-      "https://news.ycombinator.com/item?id=47588658"
-    ],
-    [
-      "Tell HN: Chrome says \"suspicious download\" when trying to download yt-dlp",
-      "https://news.ycombinator.com/item?id=47588658"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 15:01:35",
       "https://news.ycombinator.com/item?id=47588349"
     ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=47587953"
     ],
     [
-      "Good code will still win",
+      "Slop is not necessarily the future",
       "https://www.greptile.com/blog/ai-slopware-future"
     ]
   ],
@@ -117,6 +127,16 @@
     [
       "RubyGems Fracture Incident Report",
       "https://rubycentral.org/news/rubygems-fracture-incident-report/"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 14:05:42",
+      "https://news.ycombinator.com/item?id=47587597"
+    ],
+    [
+      "Ask HN: Distributed data centers in our basements",
+      "https://news.ycombinator.com/item?id=47587597"
     ]
   ],
   [
@@ -181,26 +201,6 @@
   ],
   [
     [
-      "2026-03-31, 07:01:15",
-      "https://news.ycombinator.com/item?id=47583712"
-    ],
-    [
-      "RamAIn (YC W26) Is Hiring",
-      "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 03:40:45",
-      "https://news.ycombinator.com/item?id=47582482"
-    ],
-    [
-      "Ollama is now powered by MLX on Apple Silicon in preview",
-      "https://ollama.com/blog/mlx"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 02:54:17",
       "https://news.ycombinator.com/item?id=47582220"
     ],
@@ -217,16 +217,6 @@
     [
       "Universal Claude.md – cut Claude output tokens",
       "https://github.com/drona23/claude-token-efficient"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 22:03:01",
-      "https://news.ycombinator.com/item?id=47580271"
-    ],
-    [
-      "South Polar Times",
-      "https://www.laphamsquarterly.org/roundtable/south-polar-times"
     ]
   ],
   [
@@ -271,6 +261,26 @@
   ],
   [
     [
+      "2026-03-28, 01:04:56",
+      "https://news.ycombinator.com/item?id=47550433"
+    ],
+    [
+      "Teenage Engineering's PO-32 acoustic modem and synth implementation",
+      "https://github.com/ericlewis/libpo32"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 13:41:22",
+      "https://news.ycombinator.com/item?id=47542545"
+    ],
+    [
+      "Nematophagous Fungus",
+      "https://en.wikipedia.org/wiki/Nematophagous_fungus"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 12:12:20",
       "https://news.ycombinator.com/item?id=47541746"
     ],
@@ -287,16 +297,6 @@
     [
       "A Primer on Long-Duration Life Support",
       "https://mceglowski.substack.com/p/a-primer-on-long-duration-life-support"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 19:10:26",
-      "https://news.ycombinator.com/item?id=47521813"
-    ],
-    [
-      "A Love Letter to 'Girl Games'",
-      "https://aftermath.site/a-love-letter-to-girl-games/"
     ]
   ]
 ]
