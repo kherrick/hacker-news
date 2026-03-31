@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 20:48:15](https://news.ycombinator.com/item?id=47593285) - [Ministack (Replacement for LocalStack)](https://ministack.org/)
 * [2026-03-31, 20:21:50](https://news.ycombinator.com/item?id=47592939) - [JSSE: A JavaScript Engine Built by an Agent](https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html)
+* [2026-03-31, 20:07:30](https://news.ycombinator.com/item?id=47592755) - [OpenAI raises $122B](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
 * [2026-03-31, 20:07:30](https://news.ycombinator.com/item?id=47592755) - [Accelerating the Next Phase of AI](https://openai.com/index/accelerating-the-next-phase-ai)
 * [2026-03-31, 19:46:43](https://news.ycombinator.com/item?id=47592462) - [I Traced My Traffic Through a Home Tailscale Exit Node](https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/)
 * [2026-03-31, 19:22:58](https://news.ycombinator.com/item?id=47592183) - [Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology](https://cerno.sh)
@@ -34,6 +36,7 @@
 * [2026-03-31, 11:37:52](https://news.ycombinator.com/item?id=47585860) - [In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive](https://www.quantamagazine.org/in-expanding-de-sitter-space-quantum-mechanics-gets-even-more-elusive-20260330/)
 * [2026-03-31, 10:02:34](https://news.ycombinator.com/item?id=47585008) - [7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown](https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026)
 * [2026-03-31, 09:40:12](https://news.ycombinator.com/item?id=47584850) - [Claude Code full source code leaked on NPM](https://github.com/chatgptprojects/claude-code)
+* [2026-03-31, 09:30:43](https://news.ycombinator.com/item?id=47584795) - [Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz](https://responsiblestatecraft.org/iran-strait-of-hormuz/)
 * [2026-03-31, 09:00:40](https://news.ycombinator.com/item?id=47584540) - [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963)
 * [2026-03-31, 08:29:24](https://news.ycombinator.com/item?id=47584304) - [Closed Source AI = Neofeudalism](https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html)
 * [2026-03-31, 07:47:50](https://news.ycombinator.com/item?id=47584009) - [Show HN: Free AI Coding Skills for Rails](https://www.railsreviews.com/skills)
