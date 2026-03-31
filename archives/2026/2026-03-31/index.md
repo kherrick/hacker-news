@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 15:39:45](https://news.ycombinator.com/item?id=47589011) - [Italy blocks US use of Sicily air base for Middle East war](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
+* [2026-03-31, 15:20:11](https://news.ycombinator.com/item?id=47588658) - [Tell HN: Chrome says \"Suspicious Download\" when trying to download yt-dlp](https://news.ycombinator.com/item?id=47588658)
+* [2026-03-31, 15:01:35](https://news.ycombinator.com/item?id=47588349) - [GitHub Monaspace Case Study](https://lettermatic.com/custom/monaspace-case-study)
 * [2026-03-31, 14:30:48](https://news.ycombinator.com/item?id=47587935) - [Oracle slashes 30k jobs with a cold 6 a.m. email](https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/)
+* [2026-03-31, 14:08:37](https://news.ycombinator.com/item?id=47587631) - [RubyGems Fracture Incident Report](https://rubycentral.org/news/rubygems-fracture-incident-report/)
 * [2026-03-31, 14:05:42](https://news.ycombinator.com/item?id=47587597) - [Distributed data centers in our basements](https://news.ycombinator.com/item?id=47587597)
 * [2026-03-31, 13:07:33](https://news.ycombinator.com/item?id=47586814) - [Nobody Is Coming to Save Your Career](https://alifeengineered.substack.com/p/nobody-is-coming-to-save-your-career)
 * [2026-03-31, 12:50:23](https://news.ycombinator.com/item?id=47586614) - [Open source CAD in the browser (Solvespace)](https://solvespace.com/webver.pl)

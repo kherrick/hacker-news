@@ -39,6 +39,7 @@
 * [2026-03-28, 14:49:30](https://news.ycombinator.com/item?id=47555093) - [We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA](https://enlidea.com)
 * [2026-03-28, 14:49:25](https://news.ycombinator.com/item?id=47555090) - [Folk are getting dangerously attached to AI that always tells them they're right](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
 * [2026-03-28, 14:48:14](https://news.ycombinator.com/item?id=47555081) - [The risk of AI isn't making us lazy, but making \"lazy\" look productive](https://news.ycombinator.com/item?id=47555081)
+* [2026-03-28, 14:41:57](https://news.ycombinator.com/item?id=47555035) - [Show HN: Loreline, narrative language transpiled via Haxe: C++/C#/JS/Java/Py/Lua](https://loreline.app/en/docs/technical-overview/)
 * [2026-03-28, 14:30:30](https://news.ycombinator.com/item?id=47554948) - [ICAO issued new power bank restriction on flight](https://www.icao.int/news/new-power-bank-restrictions-will-safeguard-international-aviation)
 * [2026-03-28, 14:09:24](https://news.ycombinator.com/item?id=47554779) - [Behind the Scenes of the Westworld UI](https://vanschneider.com/blog/behind-the-scenes-of-the-westworld-ui/)
 * [2026-03-28, 14:08:33](https://news.ycombinator.com/item?id=47554773) - [AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
