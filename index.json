@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-03-31, 16:27:02",
+      "https://news.ycombinator.com/item?id=47589818"
+    ],
+    [
+      "Cohere Transcribe: Speech Recognition",
+      "https://cohere.com/blog/transcribe"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 16:12:29",
+      "https://news.ycombinator.com/item?id=47589567"
+    ],
+    [
+      "Scotty: A beautiful SSH task runner",
+      "https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 16:05:20",
+      "https://news.ycombinator.com/item?id=47589451"
+    ],
+    [
+      "Show HN: Hyprmoncfg – Terminal-based monitor config manager for Hyprland",
+      "https://paolino.me/hyprmoncfg-monitor-configuration-for-hyprland/"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 16:00:29",
+      "https://news.ycombinator.com/item?id=47589370"
+    ],
+    [
+      "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
+      "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 15:39:45",
       "https://news.ycombinator.com/item?id=47589011"
     ],
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47588658"
     ],
     [
-      "Tell HN: Chrome says \"Suspicious Download\" when trying to download yt-dlp",
+      "Tell HN: Chrome says \"suspicious download\" when trying to download yt-dlp",
       "https://news.ycombinator.com/item?id=47588658"
     ]
   ],
@@ -31,12 +71,32 @@
   ],
   [
     [
+      "2026-03-31, 14:32:26",
+      "https://news.ycombinator.com/item?id=47587953"
+    ],
+    [
+      "Good code will still win",
+      "https://www.greptile.com/blog/ai-slopware-future"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 14:30:48",
       "https://news.ycombinator.com/item?id=47587935"
     ],
     [
-      "Oracle slashes 30k jobs with a cold 6 a.m. email",
+      "Oracle slashes 30k jobs",
       "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 14:25:37",
+      "https://news.ycombinator.com/item?id=47587866"
+    ],
+    [
+      "Microsoft: Copilot is for entertainment purposes only",
+      "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse"
     ]
   ],
   [
@@ -71,26 +131,6 @@
   ],
   [
     [
-      "2026-03-31, 11:37:52",
-      "https://news.ycombinator.com/item?id=47585860"
-    ],
-    [
-      "In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive",
-      "https://www.quantamagazine.org/in-expanding-de-sitter-space-quantum-mechanics-gets-even-more-elusive-20260330/"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 10:02:34",
-      "https://news.ycombinator.com/item?id=47585008"
-    ],
-    [
-      "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
-      "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 09:00:40",
       "https://news.ycombinator.com/item?id=47584540"
     ],
@@ -117,16 +157,6 @@
     [
       "Google's 200M-parameter time-series foundation model with 16k context",
       "https://github.com/google-research/timesfm"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 05:11:24",
-      "https://news.ycombinator.com/item?id=47582984"
-    ],
-    [
-      "GitHub backs down, kills Copilot pull-request ads after backlash",
-      "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/"
     ]
   ],
   [
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2026-03-30, 22:05:21",
-      "https://news.ycombinator.com/item?id=47580297"
-    ],
-    [
-      "Android Developer Verification",
-      "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 19:22:33",
-      "https://news.ycombinator.com/item?id=47578572"
-    ],
-    [
-      "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
-      "https://anishathalye.com/macbook-touchscreen/"
-    ]
-  ],
-  [
-    [
       "2026-03-30, 18:16:00",
       "https://news.ycombinator.com/item?id=47577761"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2026-03-30, 13:28:54",
-      "https://news.ycombinator.com/item?id=47574034"
+      "2026-03-30, 17:26:10",
+      "https://news.ycombinator.com/item?id=47577177"
     ],
     [
-      "How to turn anything into a router",
-      "https://nbailey.ca/post/router/"
+      "Lime (bikes) is a data company",
+      "https://ktoya.me/lime-data-company/"
     ]
   ],
   [
@@ -227,26 +237,6 @@
     [
       "Good CTE, Bad CTE",
       "https://boringsql.com/posts/good-cte-bad-cte/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 01:32:09",
-      "https://news.ycombinator.com/item?id=47569438"
-    ],
-    [
-      "Acceptance of entomophagy among Canadians at an insectarium",
-      "https://www.nature.com/articles/s41598-026-35288-w"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 08:53:37",
-      "https://news.ycombinator.com/item?id=47561470"
-    ],
-    [
-      "30 Years Ago, Robots Learned to Walk Without Falling",
-      "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone"
     ]
   ],
   [
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2026-03-27, 12:12:20",
+      "https://news.ycombinator.com/item?id=47541746"
+    ],
+    [
+      "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
+      "https://github.com/jkool702/forkrun"
+    ]
+  ],
+  [
+    [
       "2026-03-26, 22:37:37",
       "https://news.ycombinator.com/item?id=47536719"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-03-26, 17:00:54",
-      "https://news.ycombinator.com/item?id=47532891"
+      "2026-03-25, 19:10:26",
+      "https://news.ycombinator.com/item?id=47521813"
     ],
     [
-      "Clojure: The Documentary, official trailer [video]",
-      "https://www.youtube.com/watch?v=JJEyffSdBsk"
+      "A Love Letter to 'Girl Games'",
+      "https://aftermath.site/a-love-letter-to-girl-games/"
     ]
   ]
 ]
