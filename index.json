@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-01, 23:35:02",
+      "https://news.ycombinator.com/item?id=47608058"
+    ],
+    [
+      "A new C++ back end for ocamlc",
+      "https://github.com/ocaml/ocaml/pull/14701"
+    ]
+  ],
+  [
+    [
       "2026-04-01, 22:38:25",
       "https://news.ycombinator.com/item?id=47607447"
     ],
@@ -187,16 +197,6 @@
     [
       "Random numbers, Persian code: A mysterious signal transfixes radio sleuths",
       "https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 07:27:13",
-      "https://news.ycombinator.com/item?id=47597935"
-    ],
-    [
-      "CERN levels up with new superconducting karts",
-      "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts"
     ]
   ],
   [
