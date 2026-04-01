@@ -15,6 +15,7 @@
 * [2026-03-28, 21:43:00](https://news.ycombinator.com/item?id=47558372) - [Private equity turned vulnerable elderly people into human ATMs](https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms)
 * [2026-03-28, 21:35:22](https://news.ycombinator.com/item?id=47558305) - [InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer](https://inpharmd.com/jobs/senior-ruby-on-rails-engineer)
 * [2026-03-28, 21:18:06](https://news.ycombinator.com/item?id=47558195) - [Ötzi the Iceman's DNA Reveals a Living Relative 5k Years Later](https://blog.familytreedna.com/otzi-the-iceman-dna/)
+* [2026-03-28, 21:04:06](https://news.ycombinator.com/item?id=47558101) - [Bring Back MiniDV with This Raspberry Pi FireWire Hat](https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/)
 * [2026-03-28, 21:03:23](https://news.ycombinator.com/item?id=47558094) - [Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes](https://github.com/elixir-volt/quickbeam)
 * [2026-03-28, 20:39:01](https://news.ycombinator.com/item?id=47557960) - [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
 * [2026-03-28, 20:28:03](https://news.ycombinator.com/item?id=47557901) - [Google just gave Android power users a sideloading win](https://www.androidauthority.com/android-sideload-carry-over-3652845/)
