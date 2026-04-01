@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-01](index.md)
 
+* [2026-04-01, 21:00:06](https://news.ycombinator.com/item?id=47606495) - [InspectMind AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker)
 * [2026-04-01, 19:52:00](https://news.ycombinator.com/item?id=47605677) - [You're still signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/)
 * [2026-04-01, 19:36:07](https://news.ycombinator.com/item?id=47605494) - [Jax's true calling: Ray-Marching renderers on WebGL](https://benoit.paris/posts/jax-ray-marcher/)
 * [2026-04-01, 19:26:12](https://news.ycombinator.com/item?id=47605374) - [Scientists crack a 20-year nuclear mystery behind the creation of gold](https://www.sciencedaily.com/releases/2026/03/260313002633.htm)
