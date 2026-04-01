@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-04-01, 17:17:24",
+      "https://news.ycombinator.com/item?id=47603737"
+    ],
+    [
+      "AI for American-Produced Cement and Concrete",
+      "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 17:11:31",
+      "https://news.ycombinator.com/item?id=47603657"
+    ],
+    [
+      "NASA Artemis II moon mission live launch broadcast",
+      "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 17:02:19",
+      "https://news.ycombinator.com/item?id=47603534"
+    ],
+    [
+      "A new way to measure poverty shows the US falling behind Europe",
+      "https://www.euronews.com/business/2026/03/29/a-new-way-to-measure-poverty-shows-the-us-falling-behind-europe"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 16:39:46",
+      "https://news.ycombinator.com/item?id=47603231"
+    ],
+    [
+      "What Is Copilot Exactly?",
+      "https://idiallo.com/blog/what-is-copilot-exactly"
+    ]
+  ],
+  [
+    [
       "2026-04-01, 16:24:28",
       "https://news.ycombinator.com/item?id=47602986"
     ],
@@ -47,26 +87,6 @@
     [
       "Ask HN: Who is hiring? (April 2026)",
       "https://news.ycombinator.com/item?id=47601859"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 14:36:51",
-      "https://news.ycombinator.com/item?id=47601555"
-    ],
-    [
-      "Apple Removes iPhone Vibe Coding App from App Store",
-      "https://gizmodo.com/apple-removes-iphone-vibe-coding-app-from-app-store-2000740084"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 14:07:50",
-      "https://news.ycombinator.com/item?id=47601107"
-    ],
-    [
-      "AI has suddenly become more useful to open-source developers",
-      "https://www.zdnet.com/article/maybe-open-source-needs-ai/"
     ]
   ],
   [
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2026-03-31, 20:48:15",
-      "https://news.ycombinator.com/item?id=47593285"
+      "2026-03-30, 14:32:36",
+      "https://news.ycombinator.com/item?id=47574871"
     ],
     [
-      "MiniStack (replacement for LocalStack)",
-      "https://ministack.org/"
+      "Show HN: Zerobox – Sandbox any command with file and network restrictions",
+      "https://github.com/afshinm/zerobox"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2026-03-28, 21:04:06",
-      "https://news.ycombinator.com/item?id=47558101"
-    ],
-    [
-      "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
-      "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/"
-    ]
-  ],
-  [
-    [
       "2026-03-28, 18:39:39",
       "https://news.ycombinator.com/item?id=47557171"
     ],
@@ -257,16 +267,6 @@
     [
       "Ada and Spark on ARM Cortex-M – A Tutorial with Arduino and Nucleo Examples",
       "http://inspirel.com/articles/Ada_On_Cortex.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 22:19:34",
-      "https://news.ycombinator.com/item?id=47549128"
-    ],
-    [
-      "4D Doom",
-      "https://github.com/danieldugas/HYPERHELL"
     ]
   ],
   [
