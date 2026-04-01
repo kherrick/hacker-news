@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-01](index.md)
 
+* [2026-04-01, 19:52:00](https://news.ycombinator.com/item?id=47605677) - [You're still signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/)
 * [2026-04-01, 18:48:30](https://news.ycombinator.com/item?id=47604897) - [Apple at 50](https://www.apple.com/)
 * [2026-04-01, 18:06:00](https://news.ycombinator.com/item?id=47604354) - [TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS](https://github.com/SharpAI/SwiftLM)
 * [2026-04-01, 17:57:40](https://news.ycombinator.com/item?id=47604245) - [Ukrainian Drone Holds Position for 6 Weeks](https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/)
