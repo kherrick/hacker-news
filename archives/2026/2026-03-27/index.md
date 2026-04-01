@@ -42,6 +42,7 @@
 * [2026-03-27, 15:05:56](https://news.ycombinator.com/item?id=47543531) - [Tell HN: GitHub's Dependabot REST API is silently returning incomplete results](https://news.ycombinator.com/item?id=47543531)
 * [2026-03-27, 14:53:43](https://news.ycombinator.com/item?id=47543361) - [Rising Air-Conditioning Use Intensifies Global Warming](https://www.nature.com/articles/s41467-026-69393-1)
 * [2026-03-27, 14:44:42](https://news.ycombinator.com/item?id=47543247) - [Rank the 50 best Apple products](https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products)
+* [2026-03-27, 14:41:03](https://news.ycombinator.com/item?id=47543205) - [Randomness on Apple Platforms (2024)](https://blog.xoria.org/randomness-on-apple-platforms/)
 * [2026-03-27, 14:41:02](https://news.ycombinator.com/item?id=47543204) - [Meow.camera](https://meow.camera/#4258783365322591678)
 * [2026-03-27, 14:40:57](https://news.ycombinator.com/item?id=47543201) - [The Last Gasps of the Rent Seeking Class](https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html)
 * [2026-03-27, 14:40:47](https://news.ycombinator.com/item?id=47543198) - [Interview: Nobonoko, Master of the Minimal Sequencer](https://fi-le.net/nobo/)

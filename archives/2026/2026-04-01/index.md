@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-01](index.md)
 
+* [2026-04-01, 15:50:23](https://news.ycombinator.com/item?id=47602500) - [We Built It with Slide Rules. Then We Forgot How](https://unmitigatedrisk.com/?p=1227)
+* [2026-04-01, 15:34:59](https://news.ycombinator.com/item?id=47602301) - [Marc Andreessen's Dangerously Unexamined Life](https://www.thenation.com/article/society/marc-andreessen-silicon-valley-military-tech/)
+* [2026-04-01, 14:36:51](https://news.ycombinator.com/item?id=47601555) - [Apple Removes iPhone Vibe Coding App from App Store](https://gizmodo.com/apple-removes-iphone-vibe-coding-app-from-app-store-2000740084)
 * [2026-04-01, 14:26:16](https://news.ycombinator.com/item?id=47601405) - [OpenAI Demand Sinks on Secondary Market as Anthropic Runs Hot](https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot)
+* [2026-04-01, 14:19:25](https://news.ycombinator.com/item?id=47601310) - [Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs](https://www.euronews.com/2026/03/31/iran-war-sparks-renewables-boom-as-europeans-rush-to-buy-solar-heat-pumps-and-evs)
 * [2026-04-01, 14:11:58](https://news.ycombinator.com/item?id=47601168) - [OnlyOffice kills Nextcloud partnership for forking its project without approval](https://www.neowin.net/news/onlyoffice-suspends-nextcloud-partnership-over-unapproved-euro-office-fork/)
 * [2026-04-01, 14:07:50](https://news.ycombinator.com/item?id=47601107) - [AI has suddenly become more useful to open-source developers](https://www.zdnet.com/article/maybe-open-source-needs-ai/)
 * [2026-04-01, 13:15:33](https://news.ycombinator.com/item?id=47600434) - [New Patches Allow Building Linux IPv6-Only, Option to Deprecate \"Legacy\" IPv4](https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs)
@@ -12,6 +16,7 @@
 * [2026-04-01, 12:30:18](https://news.ycombinator.com/item?id=47599956) - [Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity](https://sycamore.dev)
 * [2026-04-01, 12:11:30](https://news.ycombinator.com/item?id=47599771) - [Show HN: Baton – A desktop app for developing with AI agents](https://getbaton.dev/)
 * [2026-04-01, 12:00:17](https://news.ycombinator.com/item?id=47599673) - [Wasmer (YC S19) Is Hiring – Rust and DevRel Positions](https://www.workatastartup.com/companies/wasmer)
+* [2026-04-01, 11:09:11](https://news.ycombinator.com/item?id=47599305) - [The Document Foundation ejects its core developers](https://www.collaboraonline.com/blog/tdf-ejects-its-core-developers/)
 * [2026-04-01, 09:00:34](https://news.ycombinator.com/item?id=47598511) - [I Quit. The Clankers Won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/)
 * [2026-04-01, 08:36:16](https://news.ycombinator.com/item?id=47598378) - [Solar panels at Lidl? Plug-in versions set to appear in shops](https://www.thisismoney.co.uk/money/bills/article-15673955/Solar-panels-Lidl-Plug-versions-set-appear-shops-MONTHS.html)
 * [2026-04-01, 07:27:13](https://news.ycombinator.com/item?id=47597935) - [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)
