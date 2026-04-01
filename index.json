@@ -1,11 +1,51 @@
 [
   [
     [
+      "2026-04-01, 18:48:30",
+      "https://news.ycombinator.com/item?id=47604897"
+    ],
+    [
+      "Apple at 50",
+      "https://www.apple.com/"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 18:06:00",
+      "https://news.ycombinator.com/item?id=47604354"
+    ],
+    [
+      "TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS",
+      "https://github.com/SharpAI/SwiftLM"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 17:57:40",
+      "https://news.ycombinator.com/item?id=47604245"
+    ],
+    [
+      "Ukrainian Drone Holds Position for 6 Weeks",
+      "https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 17:55:12",
+      "https://news.ycombinator.com/item?id=47604218"
+    ],
+    [
+      "The AI Marketing BS Index",
+      "https://bastian.rieck.me/blog/2026/bs/"
+    ]
+  ],
+  [
+    [
       "2026-04-01, 17:17:24",
       "https://news.ycombinator.com/item?id=47603737"
     ],
     [
-      "AI for American-Produced Cement and Concrete",
+      "AI for American-produced cement and concrete",
       "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
     ]
   ],
@@ -17,26 +57,6 @@
     [
       "NASA Artemis II moon mission live launch broadcast",
       "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 17:02:19",
-      "https://news.ycombinator.com/item?id=47603534"
-    ],
-    [
-      "A new way to measure poverty shows the US falling behind Europe",
-      "https://www.euronews.com/business/2026/03/29/a-new-way-to-measure-poverty-shows-the-us-falling-behind-europe"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 16:39:46",
-      "https://news.ycombinator.com/item?id=47603231"
-    ],
-    [
-      "What Is Copilot Exactly?",
-      "https://idiallo.com/blog/what-is-copilot-exactly"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Ask HN: Who is hiring? (April 2026)",
       "https://news.ycombinator.com/item?id=47601859"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 13:15:33",
-      "https://news.ycombinator.com/item?id=47600434"
-    ],
-    [
-      "New patches allow building Linux IPv6-only",
-      "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-03-30, 14:32:36",
-      "https://news.ycombinator.com/item?id=47574871"
-    ],
-    [
-      "Show HN: Zerobox – Sandbox any command with file and network restrictions",
-      "https://github.com/afshinm/zerobox"
-    ]
-  ],
-  [
-    [
       "2026-03-30, 12:31:52",
       "https://news.ycombinator.com/item?id=47573450"
     ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2026-03-29, 17:43:52",
+      "https://news.ycombinator.com/item?id=47565350"
+    ],
+    [
+      "An Introduction to Writing Systems and Unicode",
+      "https://r12a.github.io/scripts/tutorial/part2"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 13:25:16",
       "https://news.ycombinator.com/item?id=47562961"
     ],
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2026-03-28, 18:39:39",
-      "https://news.ycombinator.com/item?id=47557171"
+      "2026-03-28, 20:32:01",
+      "https://news.ycombinator.com/item?id=47557921"
     ],
     [
-      "TruffleRuby",
-      "https://chrisseaton.com/truffleruby/"
+      "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
+      "https://github.com/hauntsaninja/git_bayesect"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Randomness on Apple Platforms (2024)",
       "https://blog.xoria.org/randomness-on-apple-platforms/"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 12:11:12",
-      "https://news.ycombinator.com/item?id=47541733"
-    ],
-    [
-      "TinyLoRA – Learning to Reason in 13 Parameters",
-      "https://arxiv.org/abs/2602.04118"
     ]
   ],
   [
