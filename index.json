@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-04-01, 01:18:51",
-      "https://news.ycombinator.com/item?id=47595620"
+      "2026-04-01, 04:00:51",
+      "https://news.ycombinator.com/item?id=47596654"
     ],
     [
-      "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
-      "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security"
+      "I built a 516-panel financial terminal in 3 weeks using AI",
+      "https://neuberg.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 03:27:38",
+      "https://news.ycombinator.com/item?id=47596457"
+    ],
+    [
+      "Analyzing Geekbench 6 under Intel's BOT",
+      "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 01:58:45",
+      "https://news.ycombinator.com/item?id=47595865"
+    ],
+    [
+      "We intercepted the White House app's network traffic",
+      "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 01:12:12",
+      "https://news.ycombinator.com/item?id=47595572"
+    ],
+    [
+      "Neanderthals survived on a knife's edge for 350k years",
+      "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years"
     ]
   ],
   [
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2026-03-31, 19:57:54",
-      "https://news.ycombinator.com/item?id=47592626"
-    ],
-    [
-      "Super Micro Computer Investors Look for Exits",
-      "https://catenaa.com/markets/equities/super-micro-computer-investors-look-for-exits/"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 19:46:43",
       "https://news.ycombinator.com/item?id=47592462"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-03-31, 15:01:35",
-      "https://news.ycombinator.com/item?id=47588349"
-    ],
-    [
-      "GitHub Monaspace Case Study",
-      "https://lettermatic.com/custom/monaspace-case-study"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 14:32:26",
       "https://news.ycombinator.com/item?id=47587953"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-03-31, 07:40:18",
-      "https://news.ycombinator.com/item?id=47583959"
-    ],
-    [
-      "Accidentally created my first fork bomb with Claude Code",
-      "https://www.droppedasbaby.com/posts/2602-01/"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 02:54:17",
       "https://news.ycombinator.com/item?id=47582220"
     ],
@@ -191,12 +191,42 @@
   ],
   [
     [
+      "2026-03-30, 14:39:43",
+      "https://news.ycombinator.com/item?id=47574960"
+    ],
+    [
+      "Inside the 'self-driving' lab revolution",
+      "https://www.nature.com/articles/d41586-026-00974-2"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 02:31:57",
+      "https://news.ycombinator.com/item?id=47569773"
+    ],
+    [
+      "Use string views instead of passing std:wstring by const&",
+      "https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/"
+    ]
+  ],
+  [
+    [
       "2026-03-28, 22:42:23",
       "https://news.ycombinator.com/item?id=47558733"
     ],
     [
       "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
       "https://news.future-shock.ai/the-weight-of-remembering/"
+    ]
+  ],
+  [
+    [
+      "2026-03-28, 21:04:06",
+      "https://news.ycombinator.com/item?id=47558101"
+    ],
+    [
+      "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+      "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/"
     ]
   ],
   [
@@ -217,16 +247,6 @@
     [
       "Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?",
       "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 15:08:22",
-      "https://news.ycombinator.com/item?id=47555273"
-    ],
-    [
-      "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
-      "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-03-27, 13:41:22",
-      "https://news.ycombinator.com/item?id=47542545"
-    ],
-    [
-      "Nematophagous Fungus",
-      "https://en.wikipedia.org/wiki/Nematophagous_fungus"
-    ]
-  ],
-  [
-    [
       "2026-03-27, 12:12:20",
       "https://news.ycombinator.com/item?id=47541746"
     ],
@@ -287,16 +297,6 @@
     [
       "TinyLoRA – Learning to Reason in 13 Parameters",
       "https://arxiv.org/abs/2602.04118"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 01:00:49",
-      "https://news.ycombinator.com/item?id=47537875"
-    ],
-    [
-      "A Primer on Long-Duration Life Support",
-      "https://mceglowski.substack.com/p/a-primer-on-long-duration-life-support"
     ]
   ]
 ]
