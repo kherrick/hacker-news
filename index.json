@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-01, 19:52:00",
+      "https://news.ycombinator.com/item?id=47605677"
+    ],
+    [
+      "You're still signing data structures the wrong way",
+      "https://blog.foks.pub/posts/domain-separation-in-idl/"
+    ]
+  ],
+  [
+    [
       "2026-04-01, 18:48:30",
       "https://news.ycombinator.com/item?id=47604897"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-04-01, 12:30:18",
-      "https://news.ycombinator.com/item?id=47599956"
-    ],
-    [
-      "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
-      "https://sycamore.dev"
-    ]
-  ],
-  [
-    [
       "2026-04-01, 12:00:17",
       "https://news.ycombinator.com/item?id=47599673"
     ],
@@ -147,16 +147,6 @@
     [
       "Random numbers, Persian code: A mysterious signal transfixes radio sleuths",
       "https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 11:09:11",
-      "https://news.ycombinator.com/item?id=47599305"
-    ],
-    [
-      "The Document Foundation ejects its core developers",
-      "https://www.collaboraonline.com/blog/tdf-ejects-its-core-developers/"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
       "https://prismml.com/"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 14:32:36",
+      "https://news.ycombinator.com/item?id=47574871"
+    ],
+    [
+      "Show HN: Zerobox – Sandbox any command with file, network, credential controls",
+      "https://github.com/afshinm/zerobox"
     ]
   ],
   [
