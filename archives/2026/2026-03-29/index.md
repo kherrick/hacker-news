@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-29](index.md)
 
+* [2026-03-29, 22:35:59](https://news.ycombinator.com/item?id=47568146) - [Butterfly-collecting: The history of an insult (2017)](http://lughat.blogspot.com/2017/10/butterfly-collecting-history-of-insult.html)
 * [2026-03-29, 22:28:11](https://news.ycombinator.com/item?id=47568080) - [There is No Spoon. A software engineers primer for demystified ML](https://github.com/dreddnafious/thereisnospoon)
 * [2026-03-29, 22:21:34](https://news.ycombinator.com/item?id=47568028) - [Coding Agents Could Make Free Software Matter Again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/)
 * [2026-03-29, 22:15:06](https://news.ycombinator.com/item?id=47567969) - [Claude Code runs Git reset –hard origin/main against project repo every 10 mins](https://github.com/anthropics/claude-code/issues/40710)
@@ -46,7 +47,9 @@
 * [2026-03-29, 13:55:04](https://news.ycombinator.com/item?id=47563172) - [Patriot Crisis: US Embezzles Switzerland's Fighter Jet Funds](https://clashreport.com/defense/articles/patriot-crisis-us-seizes-switzerlands-fighter-jet-funds-07crgkch8ihr)
 * [2026-03-29, 13:47:32](https://news.ycombinator.com/item?id=47563103) - [Show HN: BreezePDF – Free, in-browser PDF editor](https://breezepdf.com/?v=3)
 * [2026-03-29, 13:32:25](https://news.ycombinator.com/item?id=47563007) - [TSA lines are so out of control that travelers are hiring line-sitters](https://www.washingtonpost.com/travel/2026/03/28/tsa-line-sitters/)
+* [2026-03-29, 13:25:16](https://news.ycombinator.com/item?id=47562961) - [Chess in SQL](https://www.dbpro.app/blog/chess-in-pure-sql)
 * [2026-03-29, 12:24:56](https://news.ycombinator.com/item?id=47562589) - [The Cloud: The dystopian book that changed Germany (2022)](https://www.bbc.com/culture/article/20221101-the-cloud-the-nuclear-novel-that-shaped-germany)
+* [2026-03-29, 11:50:44](https://news.ycombinator.com/item?id=47562342) - [Digitizing photos from the 1998 Game Boy Camera](https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera)
 * [2026-03-29, 11:42:31](https://news.ycombinator.com/item?id=47562288) - [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io)
 * [2026-03-29, 10:10:12](https://news.ycombinator.com/item?id=47561819) - [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma)
 * [2026-03-29, 09:46:58](https://news.ycombinator.com/item?id=47561711) - [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/)
