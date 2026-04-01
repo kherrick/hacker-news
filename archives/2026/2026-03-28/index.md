@@ -18,6 +18,7 @@
 * [2026-03-28, 21:04:06](https://news.ycombinator.com/item?id=47558101) - [Bring Back MiniDV with This Raspberry Pi FireWire Hat](https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/)
 * [2026-03-28, 21:03:23](https://news.ycombinator.com/item?id=47558094) - [Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes](https://github.com/elixir-volt/quickbeam)
 * [2026-03-28, 20:39:01](https://news.ycombinator.com/item?id=47557960) - [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
+* [2026-03-28, 20:32:01](https://news.ycombinator.com/item?id=47557921) - [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect)
 * [2026-03-28, 20:28:03](https://news.ycombinator.com/item?id=47557901) - [Google just gave Android power users a sideloading win](https://www.androidauthority.com/android-sideload-carry-over-3652845/)
 * [2026-03-28, 19:06:47](https://news.ycombinator.com/item?id=47557355) - [Nothing new to see here](https://feld.com/archives/2026/03/nothing-new-to-see-here/)
 * [2026-03-28, 18:58:13](https://news.ycombinator.com/item?id=47557299) - [Hardware Image Compression](https://www.ludicon.com/castano/blog/2026/03/hardware-image-compression/)
