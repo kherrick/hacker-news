@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-01](index.md)
 
+* [2026-04-01, 14:26:16](https://news.ycombinator.com/item?id=47601405) - [OpenAI Demand Sinks on Secondary Market as Anthropic Runs Hot](https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot)
+* [2026-04-01, 14:11:58](https://news.ycombinator.com/item?id=47601168) - [OnlyOffice kills Nextcloud partnership for forking its project without approval](https://www.neowin.net/news/onlyoffice-suspends-nextcloud-partnership-over-unapproved-euro-office-fork/)
+* [2026-04-01, 14:07:50](https://news.ycombinator.com/item?id=47601107) - [AI has suddenly become more useful to open-source developers](https://www.zdnet.com/article/maybe-open-source-needs-ai/)
 * [2026-04-01, 13:15:33](https://news.ycombinator.com/item?id=47600434) - [New Patches Allow Building Linux IPv6-Only, Option to Deprecate \"Legacy\" IPv4](https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs)
 * [2026-04-01, 13:10:29](https://news.ycombinator.com/item?id=47600382) - [Is BGP Safe Yet? No. Test Your ISP](https://isbgpsafeyet.com/)
 * [2026-04-01, 12:30:18](https://news.ycombinator.com/item?id=47599956) - [Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity](https://sycamore.dev)
