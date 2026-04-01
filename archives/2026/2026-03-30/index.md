@@ -60,6 +60,7 @@
 * [2026-03-30, 07:17:06](https://news.ycombinator.com/item?id=47571376) - [I use excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/)
 * [2026-03-30, 07:11:11](https://news.ycombinator.com/item?id=47571330) - [Good CTE, Bad CTE](https://boringsql.com/posts/good-cte-bad-cte/)
 * [2026-03-30, 07:03:18](https://news.ycombinator.com/item?id=47571279) - [I am definitely missing the pre-AI writing era](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
+* [2026-03-30, 06:45:58](https://news.ycombinator.com/item?id=47571183) - [Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)](https://github.com/yannick-cw/korb)
 * [2026-03-30, 06:29:17](https://news.ycombinator.com/item?id=47571064) - [AI and bots have officially taken over the internet](https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html)
 * [2026-03-30, 06:08:53](https://news.ycombinator.com/item?id=47570940) - [15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die](https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803)
 * [2026-03-30, 05:27:18](https://news.ycombinator.com/item?id=47570666) - [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/)
