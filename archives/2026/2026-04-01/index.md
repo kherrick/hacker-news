@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-01](index.md)
 
+* [2026-04-01, 21:59:14](https://news.ycombinator.com/item?id=47607067) - [Swappa.com for GrapheneOS compatible devices – Stay Away](https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away)
+* [2026-04-01, 21:36:41](https://news.ycombinator.com/item?id=47606840) - [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/)
+* [2026-04-01, 21:04:53](https://news.ycombinator.com/item?id=47606560) - [Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)](https://getdull.app)
 * [2026-04-01, 21:00:06](https://news.ycombinator.com/item?id=47606495) - [InspectMind AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker)
 * [2026-04-01, 19:52:00](https://news.ycombinator.com/item?id=47605677) - [You're still signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/)
 * [2026-04-01, 19:36:07](https://news.ycombinator.com/item?id=47605494) - [Jax's true calling: Ray-Marching renderers on WebGL](https://benoit.paris/posts/jax-ray-marcher/)

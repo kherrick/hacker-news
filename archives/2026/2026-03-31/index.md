@@ -43,6 +43,7 @@
 * [2026-03-31, 09:40:12](https://news.ycombinator.com/item?id=47584850) - [Claude Code full source code leaked on NPM](https://github.com/chatgptprojects/claude-code)
 * [2026-03-31, 09:30:43](https://news.ycombinator.com/item?id=47584795) - [Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz](https://responsiblestatecraft.org/iran-strait-of-hormuz/)
 * [2026-03-31, 09:00:40](https://news.ycombinator.com/item?id=47584540) - [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963)
+* [2026-03-31, 08:41:24](https://news.ycombinator.com/item?id=47584386) - [Fast and Gorgeous Erosion Filter](https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html)
 * [2026-03-31, 08:29:24](https://news.ycombinator.com/item?id=47584304) - [Closed Source AI = Neofeudalism](https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html)
 * [2026-03-31, 07:47:50](https://news.ycombinator.com/item?id=47584009) - [Show HN: Free AI Coding Skills for Rails](https://www.railsreviews.com/skills)
 * [2026-03-31, 07:40:18](https://news.ycombinator.com/item?id=47583959) - [Accidentally created my first fork bomb with Claude Code](https://www.droppedasbaby.com/posts/2602-01/)
