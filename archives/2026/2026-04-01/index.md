@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-04-01](index.md)
+
+* [2026-04-01, 01:18:51](https://news.ycombinator.com/item?id=47595620) - [U.S. exempts oil industry from protecting Gulf animals, for 'national security'](https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security)

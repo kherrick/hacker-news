@@ -59,6 +59,7 @@
 * [2026-03-27, 12:46:49](https://news.ycombinator.com/item?id=47542057) - [The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner](https://sightlessscribbles.com/posts/the-paperwork-flood/)
 * [2026-03-27, 12:36:21](https://news.ycombinator.com/item?id=47541969) - [I turned my Kindle into my own personal newspaper](https://manualdousuario.net/en/how-to-kindle-personal-newspaper/)
 * [2026-03-27, 12:12:20](https://news.ycombinator.com/item?id=47541746) - [Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)](https://github.com/jkool702/forkrun)
+* [2026-03-27, 12:11:12](https://news.ycombinator.com/item?id=47541733) - [TinyLoRA – Learning to Reason in 13 Parameters](https://arxiv.org/abs/2602.04118)
 * [2026-03-27, 10:27:28](https://news.ycombinator.com/item?id=47540929) - [Should QA Exist](https://www.rubick.com/should-qa-exist/)
 * [2026-03-27, 10:23:38](https://news.ycombinator.com/item?id=47540903) - [ninja: a small build system with a focus on speed](https://github.com/ninja-build/ninja)
 * [2026-03-27, 10:10:41](https://news.ycombinator.com/item?id=47540833) - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
