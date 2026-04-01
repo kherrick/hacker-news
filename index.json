@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-01, 07:27:13",
+      "https://news.ycombinator.com/item?id=47597935"
+    ],
+    [
+      "CERN levels up with new superconducting karts",
+      "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 07:22:41",
+      "https://news.ycombinator.com/item?id=47597908"
+    ],
+    [
+      "Remembering Magnetic Memories and the Apollo AGC",
+      "https://2earth.github.io/website/20260304.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 06:05:57",
+      "https://news.ycombinator.com/item?id=47597382"
+    ],
+    [
+      "Mad Bugs: Vim vs. Emacs vs. Claude",
+      "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude"
+    ]
+  ],
+  [
+    [
       "2026-04-01, 05:15:37",
       "https://news.ycombinator.com/item?id=47597085"
     ],
@@ -17,16 +47,6 @@
     [
       "Analyzing Geekbench 6 under Intel's BOT",
       "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 01:58:45",
-      "https://news.ycombinator.com/item?id=47595865"
-    ],
-    [
-      "We intercepted the White House app's network traffic",
-      "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "OpenAI closes funding round at an $852B valuation",
       "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 19:46:43",
-      "https://news.ycombinator.com/item?id=47592462"
-    ],
-    [
-      "I traced my traffic through a home Tailscale exit node",
-      "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/"
     ]
   ],
   [
@@ -171,22 +181,12 @@
   ],
   [
     [
-      "2026-03-30, 14:39:43",
-      "https://news.ycombinator.com/item?id=47574960"
+      "2026-03-30, 06:45:58",
+      "https://news.ycombinator.com/item?id=47571183"
     ],
     [
-      "Inside the 'self-driving' lab revolution",
-      "https://www.nature.com/articles/d41586-026-00974-2"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 02:31:57",
-      "https://news.ycombinator.com/item?id=47569773"
-    ],
-    [
-      "Use string views instead of passing std:wstring by const&",
-      "https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/"
+      "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+      "https://github.com/yannick-cw/korb"
     ]
   ],
   [
