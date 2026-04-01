@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-01](index.md)
 
+* [2026-04-01, 22:38:25](https://news.ycombinator.com/item?id=47607447) - [Artemis II lifts off: four astronauts begin 10-day lunar mission](https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates)
 * [2026-04-01, 21:59:14](https://news.ycombinator.com/item?id=47607067) - [Swappa.com for GrapheneOS compatible devices – Stay Away](https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away)
 * [2026-04-01, 21:36:41](https://news.ycombinator.com/item?id=47606840) - [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/)
 * [2026-04-01, 21:04:53](https://news.ycombinator.com/item?id=47606560) - [Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)](https://getdull.app)
@@ -17,6 +18,7 @@
 * [2026-04-01, 17:58:11](https://news.ycombinator.com/item?id=47604253) - [Unsubscribe from the Church of Graphs](https://www.adorableandharmless.com/p/unsubscribe-from-the-church-of-graphs)
 * [2026-04-01, 17:57:40](https://news.ycombinator.com/item?id=47604245) - [Ukrainian Drone Holds Position for 6 Weeks](https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/)
 * [2026-04-01, 17:55:12](https://news.ycombinator.com/item?id=47604218) - [The AI Marketing BS Index](https://bastian.rieck.me/blog/2026/bs/)
+* [2026-04-01, 17:49:54](https://news.ycombinator.com/item?id=47604155) - [SpaceX files to go public](https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html)
 * [2026-04-01, 17:34:16](https://news.ycombinator.com/item?id=47603966) - [Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM](https://flight-viz.com)
 * [2026-04-01, 17:17:24](https://news.ycombinator.com/item?id=47603737) - [AI for American-Produced Cement and Concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
 * [2026-04-01, 17:11:31](https://news.ycombinator.com/item?id=47603657) - [NASA Artemis II moon mission live launch broadcast](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/)
