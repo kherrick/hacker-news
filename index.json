@@ -5,8 +5,38 @@
       "https://news.ycombinator.com/item?id=47605677"
     ],
     [
-      "You're still signing data structures the wrong way",
+      "Signing data structures the wrong way",
       "https://blog.foks.pub/posts/domain-separation-in-idl/"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 19:36:07",
+      "https://news.ycombinator.com/item?id=47605494"
+    ],
+    [
+      "Jax's true calling: Ray-Marching renderers on WebGL",
+      "https://benoit.paris/posts/jax-ray-marcher/"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 19:26:12",
+      "https://news.ycombinator.com/item?id=47605374"
+    ],
+    [
+      "Scientists crack a 20-year nuclear mystery behind the creation of gold",
+      "https://www.sciencedaily.com/releases/2026/03/260313002633.htm"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 19:19:05",
+      "https://news.ycombinator.com/item?id=47605270"
+    ],
+    [
+      "SpaceX confidentially files to go public at $1.75T, reports say",
+      "https://www.theguardian.com/technology/2026/apr/01/spacex-public-offering-stock-market"
     ]
   ],
   [
@@ -31,11 +61,21 @@
   ],
   [
     [
+      "2026-04-01, 17:58:11",
+      "https://news.ycombinator.com/item?id=47604253"
+    ],
+    [
+      "Unsubscribe from the Church of Graphs",
+      "https://www.adorableandharmless.com/p/unsubscribe-from-the-church-of-graphs"
+    ]
+  ],
+  [
+    [
       "2026-04-01, 17:57:40",
       "https://news.ycombinator.com/item?id=47604245"
     ],
     [
-      "Ukrainian Drone Holds Position for 6 Weeks",
+      "Ukrainian drone holds position for 6 weeks",
       "https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/"
     ]
   ],
@@ -47,6 +87,16 @@
     [
       "The AI Marketing BS Index",
       "https://bastian.rieck.me/blog/2026/bs/"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 17:34:16",
+      "https://news.ycombinator.com/item?id=47603966"
+    ],
+    [
+      "Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM",
+      "https://flight-viz.com"
     ]
   ],
   [
@@ -105,7 +155,7 @@
       "https://news.ycombinator.com/item?id=47602565"
     ],
     [
-      "The OpenAI Graveyard: All the Deals and Products That Haven't Happened",
+      "The OpenAI graveyard: All the deals and products that haven't happened",
       "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/"
     ]
   ],
@@ -117,6 +167,16 @@
     [
       "Ask HN: Who is hiring? (April 2026)",
       "https://news.ycombinator.com/item?id=47601859"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 15:01:36",
+      "https://news.ycombinator.com/item?id=47601858"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (April 2026)",
+      "https://news.ycombinator.com/item?id=47601858"
     ]
   ],
   [
@@ -165,38 +225,8 @@
       "https://news.ycombinator.com/item?id=47597119"
     ],
     [
-      "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "Claude wrote a full FreeBSD remote kernel RCE with root shell",
       "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 05:15:37",
-      "https://news.ycombinator.com/item?id=47597085"
-    ],
-    [
-      "Claude Code Unpacked : A visual guide",
-      "https://ccunpacked.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 21:15:01",
-      "https://news.ycombinator.com/item?id=47593556"
-    ],
-    [
-      "A dot a day keeps the clutter away",
-      "https://scottlawsonbc.com/post/dot-system"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 21:01:18",
-      "https://news.ycombinator.com/item?id=47593422"
-    ],
-    [
-      "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-      "https://prismml.com/"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2026-03-30, 06:45:58",
-      "https://news.ycombinator.com/item?id=47571183"
-    ],
-    [
-      "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
-      "https://github.com/yannick-cw/korb"
-    ]
-  ],
-  [
-    [
       "2026-03-29, 17:43:52",
       "https://news.ycombinator.com/item?id=47565350"
     ],
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2026-03-29, 13:25:16",
-      "https://news.ycombinator.com/item?id=47562961"
+      "2026-03-29, 17:38:43",
+      "https://news.ycombinator.com/item?id=47565307"
     ],
     [
-      "Chess in SQL",
-      "https://www.dbpro.app/blog/chess-in-pure-sql"
+      "Windows 95 defenses against installers that overwrite a file with an older one",
+      "https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159"
     ]
   ],
   [
@@ -261,12 +281,12 @@
   ],
   [
     [
-      "2026-03-28, 13:46:27",
-      "https://news.ycombinator.com/item?id=47554557"
+      "2026-03-28, 19:12:37",
+      "https://news.ycombinator.com/item?id=47557385"
     ],
     [
-      "Playing Wolfenstein 3D with one hand in 2026",
-      "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/"
+      "The revenge of the data scientist",
+      "https://hamel.dev/blog/posts/revenge/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Ada and Spark on ARM Cortex-M – A Tutorial with Arduino and Nucleo Examples",
       "http://inspirel.com/articles/Ada_On_Cortex.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 14:41:03",
-      "https://news.ycombinator.com/item?id=47543205"
-    ],
-    [
-      "Randomness on Apple Platforms (2024)",
-      "https://blog.xoria.org/randomness-on-apple-platforms/"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 07:39:40",
-      "https://news.ycombinator.com/item?id=47539945"
-    ],
-    [
-      "Consider the Greenland Shark (2020)",
-      "https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark"
     ]
   ]
 ]
