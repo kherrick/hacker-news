@@ -2,7 +2,6 @@
 
 * [2026-04-01, 07:27:13](https://news.ycombinator.com/item?id=47597935) - [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)
 * [2026-04-01, 07:22:41](https://news.ycombinator.com/item?id=47597908) - [Remembering Magnetic Memories and the Apollo AGC](https://2earth.github.io/website/20260304.html)
-* [2026-04-01, 06:05:57](https://news.ycombinator.com/item?id=47597382) - [Mad Bugs: Vim vs. Emacs vs. Claude](https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude)
 * [2026-04-01, 05:15:37](https://news.ycombinator.com/item?id=47597085) - [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
 * [2026-04-01, 03:27:38](https://news.ycombinator.com/item?id=47596457) - [Analyzing Geekbench 6 under Intel's BOT](https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/)
 * [2026-04-01, 01:12:12](https://news.ycombinator.com/item?id=47595572) - [Neanderthals survived on a knife's edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years)
@@ -20,6 +19,7 @@
 * [2026-03-31, 02:54:17](https://news.ycombinator.com/item?id=47582220) - [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
 * [2026-03-30, 06:45:58](https://news.ycombinator.com/item?id=47571183) - [Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)](https://github.com/yannick-cw/korb)
 * [2026-03-29, 22:35:59](https://news.ycombinator.com/item?id=47568146) - [Butterfly-collecting: The history of an insult (2017)](http://lughat.blogspot.com/2017/10/butterfly-collecting-history-of-insult.html)
+* [2026-03-29, 13:30:47](https://news.ycombinator.com/item?id=47562994) - [Joel Meyerowitz on Photographing Giorgio Morandi's Studio](https://hyperallergic.com/joel-meyerowitz-on-photograpghing-giorgio-morandis-studio/)
 * [2026-03-29, 13:25:16](https://news.ycombinator.com/item?id=47562961) - [Chess in SQL](https://www.dbpro.app/blog/chess-in-pure-sql)
 * [2026-03-29, 11:50:44](https://news.ycombinator.com/item?id=47562342) - [Digitizing photos from the 1998 Game Boy Camera](https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera)
 * [2026-03-28, 22:42:23](https://news.ycombinator.com/item?id=47558733) - [From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem](https://news.future-shock.ai/the-weight-of-remembering/)

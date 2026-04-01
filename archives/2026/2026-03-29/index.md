@@ -47,6 +47,7 @@
 * [2026-03-29, 13:55:04](https://news.ycombinator.com/item?id=47563172) - [Patriot Crisis: US Embezzles Switzerland's Fighter Jet Funds](https://clashreport.com/defense/articles/patriot-crisis-us-seizes-switzerlands-fighter-jet-funds-07crgkch8ihr)
 * [2026-03-29, 13:47:32](https://news.ycombinator.com/item?id=47563103) - [Show HN: BreezePDF – Free, in-browser PDF editor](https://breezepdf.com/?v=3)
 * [2026-03-29, 13:32:25](https://news.ycombinator.com/item?id=47563007) - [TSA lines are so out of control that travelers are hiring line-sitters](https://www.washingtonpost.com/travel/2026/03/28/tsa-line-sitters/)
+* [2026-03-29, 13:30:47](https://news.ycombinator.com/item?id=47562994) - [Joel Meyerowitz on Photographing Giorgio Morandi's Studio](https://hyperallergic.com/joel-meyerowitz-on-photograpghing-giorgio-morandis-studio/)
 * [2026-03-29, 13:25:16](https://news.ycombinator.com/item?id=47562961) - [Chess in SQL](https://www.dbpro.app/blog/chess-in-pure-sql)
 * [2026-03-29, 12:24:56](https://news.ycombinator.com/item?id=47562589) - [The Cloud: The dystopian book that changed Germany (2022)](https://www.bbc.com/culture/article/20221101-the-cloud-the-nuclear-novel-that-shaped-germany)
 * [2026-03-29, 11:50:44](https://news.ycombinator.com/item?id=47562342) - [Digitizing photos from the 1998 Game Boy Camera](https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera)
