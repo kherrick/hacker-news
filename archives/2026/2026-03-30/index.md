@@ -39,6 +39,7 @@
 * [2026-03-30, 14:49:58](https://news.ycombinator.com/item?id=47575089) - [72% of the dollar's purchasing power was destroyed in just four episodes](https://eco3min.fr/en/us-inflation-is-not-linear/)
 * [2026-03-30, 14:45:35](https://news.ycombinator.com/item?id=47575039) - [In Case of Emergency, Make Burrito Bison 3](https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/)
 * [2026-03-30, 14:39:43](https://news.ycombinator.com/item?id=47574960) - [Inside the 'self-driving' lab revolution](https://www.nature.com/articles/d41586-026-00974-2)
+* [2026-03-30, 14:32:36](https://news.ycombinator.com/item?id=47574871) - [Show HN: Zerobox – Sandbox any command with file and network restrictions](https://github.com/afshinm/zerobox)
 * [2026-03-30, 13:51:31](https://news.ycombinator.com/item?id=47574346) - [The ladder is missing rungs – Engineering Progression When AI Ate the Middle](https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/)
 * [2026-03-30, 13:30:00](https://news.ycombinator.com/item?id=47574045) - [Show HN: Phantom – Open-source AI agent on its own VM that rewrites its config](https://github.com/ghostwright/phantom)
 * [2026-03-30, 13:28:54](https://news.ycombinator.com/item?id=47574034) - [How to Turn Anything into a Router](https://nbailey.ca/post/router/)

@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-01](index.md)
 
+* [2026-04-01, 17:17:24](https://news.ycombinator.com/item?id=47603737) - [AI for American-Produced Cement and Concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
+* [2026-04-01, 17:11:31](https://news.ycombinator.com/item?id=47603657) - [NASA Artemis II moon mission live launch broadcast](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/)
+* [2026-04-01, 17:02:19](https://news.ycombinator.com/item?id=47603534) - [A new way to measure poverty shows the US falling behind Europe](https://www.euronews.com/business/2026/03/29/a-new-way-to-measure-poverty-shows-the-us-falling-behind-europe)
+* [2026-04-01, 16:39:46](https://news.ycombinator.com/item?id=47603231) - [What Is Copilot Exactly?](https://idiallo.com/blog/what-is-copilot-exactly)
 * [2026-04-01, 16:24:28](https://news.ycombinator.com/item?id=47602986) - [Show HN: Real-time dashboard for Claude Code agent teams](https://github.com/simple10/agents-observe)
 * [2026-04-01, 16:17:35](https://news.ycombinator.com/item?id=47602879) - [StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)](https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn)
 * [2026-04-01, 16:14:38](https://news.ycombinator.com/item?id=47602832) - [EmDash – a spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/)
