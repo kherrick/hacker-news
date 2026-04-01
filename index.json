@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-04-01, 04:00:51",
-      "https://news.ycombinator.com/item?id=47596654"
+      "2026-04-01, 05:15:37",
+      "https://news.ycombinator.com/item?id=47597085"
     ],
     [
-      "I built a 516-panel financial terminal in 3 weeks using AI",
-      "https://neuberg.ai/"
+      "Claude Code Unpacked : A visual guide",
+      "https://ccunpacked.dev/"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47593285"
     ],
     [
-      "Ministack (Replacement for LocalStack)",
+      "MiniStack (replacement for LocalStack)",
       "https://ministack.org/"
     ]
   ],
@@ -95,28 +95,8 @@
       "https://news.ycombinator.com/item?id=47592462"
     ],
     [
-      "I Traced My Traffic Through a Home Tailscale Exit Node",
+      "I traced my traffic through a home Tailscale exit node",
       "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 19:01:29",
-      "https://news.ycombinator.com/item?id=47591928"
-    ],
-    [
-      "GitHub's Historic Uptime",
-      "https://damrnelson.github.io/github-historical-uptime/"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 17:55:04",
-      "https://news.ycombinator.com/item?id=47591104"
-    ],
-    [
-      "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
-      "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/"
     ]
   ],
   [
@@ -211,6 +191,36 @@
   ],
   [
     [
+      "2026-03-29, 22:35:59",
+      "https://news.ycombinator.com/item?id=47568146"
+    ],
+    [
+      "Butterfly-collecting: The history of an insult (2017)",
+      "http://lughat.blogspot.com/2017/10/butterfly-collecting-history-of-insult.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 13:25:16",
+      "https://news.ycombinator.com/item?id=47562961"
+    ],
+    [
+      "Chess in SQL",
+      "https://www.dbpro.app/blog/chess-in-pure-sql"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 11:50:44",
+      "https://news.ycombinator.com/item?id=47562342"
+    ],
+    [
+      "Digitizing photos from the 1998 Game Boy Camera",
+      "https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera"
+    ]
+  ],
+  [
+    [
       "2026-03-28, 22:42:23",
       "https://news.ycombinator.com/item?id=47558733"
     ],
@@ -277,16 +287,6 @@
     [
       "Back to FreeBSD – Part 2 – Jails",
       "https://hypha.pub/back-to-freebsd-part-2"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 12:12:20",
-      "https://news.ycombinator.com/item?id=47541746"
-    ],
-    [
-      "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
-      "https://github.com/jkool702/forkrun"
     ]
   ],
   [
