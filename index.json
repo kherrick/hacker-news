@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-04-01, 05:21:48",
+      "https://news.ycombinator.com/item?id=47597119"
+    ],
+    [
+      "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md"
+    ]
+  ],
+  [
+    [
       "2026-04-01, 05:15:37",
       "https://news.ycombinator.com/item?id=47597085"
     ],
@@ -171,32 +181,32 @@
   ],
   [
     [
+      "2026-03-30, 14:45:35",
+      "https://news.ycombinator.com/item?id=47575039"
+    ],
+    [
+      "In Case of Emergency, Make Burrito Bison 3",
+      "https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 12:31:52",
+      "https://news.ycombinator.com/item?id=47573450"
+    ],
+    [
+      "Intuiting Pratt Parsing",
+      "https://louis.co.nz/2026/03/26/pratt-parsing.html"
+    ]
+  ],
+  [
+    [
       "2026-03-30, 06:45:58",
       "https://news.ycombinator.com/item?id=47571183"
     ],
     [
       "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
       "https://github.com/yannick-cw/korb"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 22:35:59",
-      "https://news.ycombinator.com/item?id=47568146"
-    ],
-    [
-      "Butterfly-collecting: The history of an insult (2017)",
-      "http://lughat.blogspot.com/2017/10/butterfly-collecting-history-of-insult.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 13:30:47",
-      "https://news.ycombinator.com/item?id=47562994"
-    ],
-    [
-      "Joel Meyerowitz on Photographing Giorgio Morandi's Studio",
-      "https://hyperallergic.com/joel-meyerowitz-on-photograpghing-giorgio-morandis-studio/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "TruffleRuby",
       "https://chrisseaton.com/truffleruby/"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 16:29:16",
-      "https://news.ycombinator.com/item?id=47556074"
-    ],
-    [
-      "Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?",
-      "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/"
     ]
   ],
   [
