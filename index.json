@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-04-01, 13:15:33",
+      "https://news.ycombinator.com/item?id=47600434"
+    ],
+    [
+      "New Patches Allow Building Linux IPv6-Only, Option to Deprecate \"Legacy\" IPv4",
+      "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 13:10:29",
+      "https://news.ycombinator.com/item?id=47600382"
+    ],
+    [
+      "Is BGP Safe Yet? No. Test Your ISP",
+      "https://isbgpsafeyet.com/"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 12:30:18",
+      "https://news.ycombinator.com/item?id=47599956"
+    ],
+    [
+      "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
+      "https://sycamore.dev"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 12:11:30",
+      "https://news.ycombinator.com/item?id=47599771"
+    ],
+    [
+      "Show HN: Baton – A desktop app for developing with AI agents",
+      "https://getbaton.dev/"
+    ]
+  ],
+  [
+    [
       "2026-04-01, 12:00:17",
       "https://news.ycombinator.com/item?id=47599673"
     ],
@@ -21,32 +61,12 @@
   ],
   [
     [
-      "2026-04-01, 08:36:16",
-      "https://news.ycombinator.com/item?id=47598378"
-    ],
-    [
-      "Solar panels at Lidl? Plug-in versions set to appear in shops",
-      "https://www.thisismoney.co.uk/money/bills/article-15673955/Solar-panels-Lidl-Plug-versions-set-appear-shops-MONTHS.html"
-    ]
-  ],
-  [
-    [
       "2026-04-01, 07:27:13",
       "https://news.ycombinator.com/item?id=47597935"
     ],
     [
       "CERN levels up with new superconducting karts",
       "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 07:22:41",
-      "https://news.ycombinator.com/item?id=47597908"
-    ],
-    [
-      "Remembering Magnetic Memories and the Apollo AGC",
-      "https://2earth.github.io/website/20260304.html"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Claude Code Unpacked : A visual guide",
       "https://ccunpacked.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 03:27:38",
-      "https://news.ycombinator.com/item?id=47596457"
-    ],
-    [
-      "Analyzing Geekbench 6 under Intel's BOT",
-      "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-03-31, 16:29:52",
-      "https://news.ycombinator.com/item?id=47589856"
-    ],
-    [
-      "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
-      "https://github.com/timescale/pg_textsearch"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 14:32:26",
       "https://news.ycombinator.com/item?id=47587953"
     ],
@@ -177,16 +177,6 @@
     [
       "Open source CAD in the browser (Solvespace)",
       "https://solvespace.com/webver.pl"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 09:30:43",
-      "https://news.ycombinator.com/item?id=47584795"
-    ],
-    [
-      "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
-      "https://responsiblestatecraft.org/iran-strait-of-hormuz/"
     ]
   ],
   [
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2026-03-29, 11:50:44",
-      "https://news.ycombinator.com/item?id=47562342"
+      "2026-03-29, 02:58:35",
+      "https://news.ycombinator.com/item?id=47560017"
     ],
     [
-      "Digitizing photos from the 1998 Game Boy Camera",
-      "https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera"
+      "6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator",
+      "http://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "TinyLoRA – Learning to Reason in 13 Parameters",
       "https://arxiv.org/abs/2602.04118"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 07:39:40",
+      "https://news.ycombinator.com/item?id=47539945"
+    ],
+    [
+      "Consider the Greenland Shark (2020)",
+      "https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark"
     ]
   ]
 ]
