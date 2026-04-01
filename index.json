@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-01, 01:18:51",
+      "https://news.ycombinator.com/item?id=47595620"
+    ],
+    [
+      "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
+      "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 21:22:48",
       "https://news.ycombinator.com/item?id=47593634"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-03-31, 14:25:37",
-      "https://news.ycombinator.com/item?id=47587866"
-    ],
-    [
-      "Microsoft: Copilot is for entertainment purposes only",
-      "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 13:04:30",
       "https://news.ycombinator.com/item?id=47586778"
     ],
@@ -161,32 +161,12 @@
   ],
   [
     [
-      "2026-03-31, 11:49:03",
-      "https://news.ycombinator.com/item?id=47585974"
-    ],
-    [
-      "Combinators",
-      "https://tinyapl.rubenverg.com/docs/info/combinators"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 09:30:43",
       "https://news.ycombinator.com/item?id=47584795"
     ],
     [
       "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
       "https://responsiblestatecraft.org/iran-strait-of-hormuz/"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 09:00:40",
-      "https://news.ycombinator.com/item?id=47584540"
-    ],
-    [
-      "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "https://twitter.com/Fried_rice/status/2038894956459290963"
     ]
   ],
   [
@@ -217,6 +197,16 @@
     [
       "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
       "https://news.future-shock.ai/the-weight-of-remembering/"
+    ]
+  ],
+  [
+    [
+      "2026-03-28, 18:39:39",
+      "https://news.ycombinator.com/item?id=47557171"
+    ],
+    [
+      "TruffleRuby",
+      "https://chrisseaton.com/truffleruby/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
       "https://github.com/jkool702/forkrun"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 12:11:12",
+      "https://news.ycombinator.com/item?id=47541733"
+    ],
+    [
+      "TinyLoRA – Learning to Reason in 13 Parameters",
+      "https://arxiv.org/abs/2602.04118"
     ]
   ],
   [
