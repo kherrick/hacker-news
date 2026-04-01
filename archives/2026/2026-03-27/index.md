@@ -66,6 +66,7 @@
 * [2026-03-27, 08:57:02](https://news.ycombinator.com/item?id=47540388) - [Telnyx package compromised on PyPI](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026)
 * [2026-03-27, 08:57:02](https://news.ycombinator.com/item?id=47540388) - [Telnyx package compromised on PyPI](https://github.com/team-telnyx/telnyx-python/issues/235)
 * [2026-03-27, 08:55:43](https://news.ycombinator.com/item?id=47540383) - [Suddenly energy independence feels practical:Europeans building mini solar farms](https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho)
+* [2026-03-27, 07:39:40](https://news.ycombinator.com/item?id=47539945) - [Consider the Greenland Shark (2020)](https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark)
 * [2026-03-27, 07:12:26](https://news.ycombinator.com/item?id=47539825) - [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/)
 * [2026-03-27, 07:00:49](https://news.ycombinator.com/item?id=47539767) - [The European AllSky7 fireball network](https://www.allsky7.net/#archive)
 * [2026-03-27, 04:47:15](https://news.ycombinator.com/item?id=47539188) - [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks)

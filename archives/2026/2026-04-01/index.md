@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-01](index.md)
 
+* [2026-04-01, 13:15:33](https://news.ycombinator.com/item?id=47600434) - [New Patches Allow Building Linux IPv6-Only, Option to Deprecate \"Legacy\" IPv4](https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs)
+* [2026-04-01, 13:10:29](https://news.ycombinator.com/item?id=47600382) - [Is BGP Safe Yet? No. Test Your ISP](https://isbgpsafeyet.com/)
+* [2026-04-01, 12:30:18](https://news.ycombinator.com/item?id=47599956) - [Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity](https://sycamore.dev)
+* [2026-04-01, 12:11:30](https://news.ycombinator.com/item?id=47599771) - [Show HN: Baton – A desktop app for developing with AI agents](https://getbaton.dev/)
 * [2026-04-01, 12:00:17](https://news.ycombinator.com/item?id=47599673) - [Wasmer (YC S19) Is Hiring – Rust and DevRel Positions](https://www.workatastartup.com/companies/wasmer)
 * [2026-04-01, 09:00:34](https://news.ycombinator.com/item?id=47598511) - [I Quit. The Clankers Won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/)
 * [2026-04-01, 08:36:16](https://news.ycombinator.com/item?id=47598378) - [Solar panels at Lidl? Plug-in versions set to appear in shops](https://www.thisismoney.co.uk/money/bills/article-15673955/Solar-panels-Lidl-Plug-versions-set-appear-shops-MONTHS.html)
