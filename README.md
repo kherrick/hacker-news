@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-01, 23:35:02](https://news.ycombinator.com/item?id=47608058) - [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)
 * [2026-04-01, 22:38:25](https://news.ycombinator.com/item?id=47607447) - [Artemis II lifts off: four astronauts begin 10-day lunar mission](https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates)
 * [2026-04-01, 21:59:14](https://news.ycombinator.com/item?id=47607067) - [Swappa.com for GrapheneOS compatible devices – Stay Away](https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away)
 * [2026-04-01, 21:36:41](https://news.ycombinator.com/item?id=47606840) - [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/)
@@ -19,7 +20,6 @@
 * [2026-04-01, 15:01:36](https://news.ycombinator.com/item?id=47601858) - [Ask HN: Who wants to be hired? (April 2026)](https://news.ycombinator.com/item?id=47601858)
 * [2026-04-01, 13:10:29](https://news.ycombinator.com/item?id=47600382) - [Is BGP safe yet?](https://isbgpsafeyet.com/)
 * [2026-04-01, 11:39:04](https://news.ycombinator.com/item?id=47599510) - [Random numbers, Persian code: A mysterious signal transfixes radio sleuths](https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html)
-* [2026-04-01, 07:27:13](https://news.ycombinator.com/item?id=47597935) - [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)
 * [2026-04-01, 05:21:48](https://news.ycombinator.com/item?id=47597119) - [Claude wrote a full FreeBSD remote kernel RCE with root shell](https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md)
 * [2026-03-31, 08:41:24](https://news.ycombinator.com/item?id=47584386) - [Fast and Gorgeous Erosion Filter](https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html)
 * [2026-03-30, 14:32:36](https://news.ycombinator.com/item?id=47574871) - [Show HN: Zerobox – Sandbox any command with file, network, credential controls](https://github.com/afshinm/zerobox)
