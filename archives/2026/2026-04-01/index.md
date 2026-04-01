@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-01](index.md)
 
+* [2026-04-01, 12:00:17](https://news.ycombinator.com/item?id=47599673) - [Wasmer (YC S19) Is Hiring – Rust and DevRel Positions](https://www.workatastartup.com/companies/wasmer)
+* [2026-04-01, 09:00:34](https://news.ycombinator.com/item?id=47598511) - [I Quit. The Clankers Won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/)
+* [2026-04-01, 08:36:16](https://news.ycombinator.com/item?id=47598378) - [Solar panels at Lidl? Plug-in versions set to appear in shops](https://www.thisismoney.co.uk/money/bills/article-15673955/Solar-panels-Lidl-Plug-versions-set-appear-shops-MONTHS.html)
 * [2026-04-01, 07:27:13](https://news.ycombinator.com/item?id=47597935) - [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)
 * [2026-04-01, 07:22:41](https://news.ycombinator.com/item?id=47597908) - [Remembering Magnetic Memories and the Apollo AGC](https://2earth.github.io/website/20260304.html)
 * [2026-04-01, 06:05:57](https://news.ycombinator.com/item?id=47597382) - [Mad Bugs: Vim vs. Emacs vs. Claude](https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude)
