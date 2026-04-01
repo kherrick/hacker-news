@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-04-01](index.md)
 
+* [2026-04-01, 16:24:28](https://news.ycombinator.com/item?id=47602986) - [Show HN: Real-time dashboard for Claude Code agent teams](https://github.com/simple10/agents-observe)
+* [2026-04-01, 16:17:35](https://news.ycombinator.com/item?id=47602879) - [StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)](https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn)
+* [2026-04-01, 16:14:38](https://news.ycombinator.com/item?id=47602832) - [EmDash – a spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/)
+* [2026-04-01, 15:55:30](https://news.ycombinator.com/item?id=47602565) - [The OpenAI Graveyard: All the Deals and Products That Haven't Happened](https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/)
 * [2026-04-01, 15:50:23](https://news.ycombinator.com/item?id=47602500) - [We Built It with Slide Rules. Then We Forgot How](https://unmitigatedrisk.com/?p=1227)
 * [2026-04-01, 15:34:59](https://news.ycombinator.com/item?id=47602301) - [Marc Andreessen's Dangerously Unexamined Life](https://www.thenation.com/article/society/marc-andreessen-silicon-valley-military-tech/)
+* [2026-04-01, 15:01:36](https://news.ycombinator.com/item?id=47601859) - [Ask HN: Who is hiring? (April 2026)](https://news.ycombinator.com/item?id=47601859)
 * [2026-04-01, 14:36:51](https://news.ycombinator.com/item?id=47601555) - [Apple Removes iPhone Vibe Coding App from App Store](https://gizmodo.com/apple-removes-iphone-vibe-coding-app-from-app-store-2000740084)
 * [2026-04-01, 14:26:16](https://news.ycombinator.com/item?id=47601405) - [OpenAI Demand Sinks on Secondary Market as Anthropic Runs Hot](https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot)
 * [2026-04-01, 14:19:25](https://news.ycombinator.com/item?id=47601310) - [Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs](https://www.euronews.com/2026/03/31/iran-war-sparks-renewables-boom-as-europeans-rush-to-buy-solar-heat-pumps-and-evs)
@@ -16,6 +21,7 @@
 * [2026-04-01, 12:30:18](https://news.ycombinator.com/item?id=47599956) - [Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity](https://sycamore.dev)
 * [2026-04-01, 12:11:30](https://news.ycombinator.com/item?id=47599771) - [Show HN: Baton – A desktop app for developing with AI agents](https://getbaton.dev/)
 * [2026-04-01, 12:00:17](https://news.ycombinator.com/item?id=47599673) - [Wasmer (YC S19) Is Hiring – Rust and DevRel Positions](https://www.workatastartup.com/companies/wasmer)
+* [2026-04-01, 11:39:04](https://news.ycombinator.com/item?id=47599510) - [Random numbers, Persian code: A mysterious signal transfixes radio sleuths](https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html)
 * [2026-04-01, 11:09:11](https://news.ycombinator.com/item?id=47599305) - [The Document Foundation ejects its core developers](https://www.collaboraonline.com/blog/tdf-ejects-its-core-developers/)
 * [2026-04-01, 09:00:34](https://news.ycombinator.com/item?id=47598511) - [I Quit. The Clankers Won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/)
 * [2026-04-01, 08:36:16](https://news.ycombinator.com/item?id=47598378) - [Solar panels at Lidl? Plug-in versions set to appear in shops](https://www.thisismoney.co.uk/money/bills/article-15673955/Solar-panels-Lidl-Plug-versions-set-appear-shops-MONTHS.html)
