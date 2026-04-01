@@ -129,44 +129,179 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="47602500">
+        <section id="47602986">
           <h3>
-            <a class="item" href="https://unmitigatedrisk.com/?p=1227"
-              >We Built It with Slide Rules. Then We Forgot How</a
+            <a class="item" href="https://github.com/simple10/agents-observe"
+              >Show HN: Real-time dashboard for Claude Code agent teams</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-04-01 @ 15:50:23</span
+              <span>2026-04-01 @ 16:24:28</span
+              ><span class="points-container"
+                >Points: <span class="points">35</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47602986"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>A few interesting learnings from building and using this:</p>
+              <p>
+                - Claude code hooks are blocking - performance degrades rapidly
+                if you have a lot of plugins that use hooks
+              </p>
+              <p>- Hooks provide a lot more useful info than OTEL data</p>
+              <p>- Claude's jsonl files provide the full picture</p>
+              <p>
+                - Lifecycle management of MCP processes started by plugins is a
+                bit kludgy at best
+              </p>
+              <p>
+                The biggest takeaway is how much of a difference it made in
+                claude performance when I switched to background (fire and
+                forget) hooks and removed all other plugins. It's easy to forget
+                how many claude plugins I've installed and how they effect
+                performance.
+              </p>
+              <p>
+                The Agents Observe plugin uses docker to start the API and
+                dashboard service. This is a pattern I'd love to see used more
+                often for security (think Axios hack) reasons. The tricky bit
+                was handling process management across multiple claude instances
+                - the solution was to have the server track active connections
+                then auto shut itself down when not in use. Then the plugin
+                spins it back up when a new session is started.
+              </p>
+              <p>
+                This tool has been incredibly useful for my own daily workflow.
+                Enjoy!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47602879">
+          <h3>
+            <a
+              class="item"
+              href="https://app.uniclaw.ai/arena?tab=costEffectiveness&amp;via=hn"
+              >StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks
+              (300 battles)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-01 @ 16:17:35</span
               ><span class="points-container"
                 >Points: <span class="points">61</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47602500"
+                ><a href="https://news.ycombinator.com/item?id=47602879"
                   >Comments</a
                 ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47602301">
+        <section id="47602832">
           <h3>
-            <a
-              class="item"
-              href="https://www.thenation.com/article/society/marc-andreessen-silicon-valley-military-tech/"
-              >Marc Andreessen's Dangerously Unexamined Life</a
+            <a class="item" href="https://blog.cloudflare.com/emdash-wordpress/"
+              >EmDash – a spiritual successor to WordPress that solves plugin
+              security</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-04-01 @ 15:34:59</span
+              <span>2026-04-01 @ 16:14:38</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">187</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47602301"
+                ><a href="https://news.ycombinator.com/item?id=47602832"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 102</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="47602565">
+          <h3>
+            <a
+              class="item"
+              href="https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/"
+              >The OpenAI Graveyard: All the Deals and Products That Haven't
+              Happened</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-01 @ 15:55:30</span
+              ><span class="points-container"
+                >Points: <span class="points">94</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47602565"
+                  >Comments</a
+                ><span class="descendants">: 58</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47601859">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=47601859"
+              >Ask HN: Who is hiring? (April 2026)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-01 @ 15:01:36</span
+              ><span class="points-container"
+                >Points: <span class="points">82</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47601859"
+                  >Comments</a
+                ><span class="descendants">: 71</span></span
+              >
+            </h4>
+            <div class="text">
+              <i>not</i> an option.
+              <p>
+                Please only post if you personally are part of the hiring
+                company—no recruiting firms or job boards. One post per company.
+                If it isn't a household name, explain what your company does.
+              </p>
+              <p>
+                Please only post if you are actively filling a position and are
+                committed to replying to applicants.
+              </p>
+              <p>
+                Commenters: please don't reply to job posts to complain about
+                something. It's off topic here.
+              </p>
+              <p>
+                Readers: please only email if you are personally interested in
+                the job.
+              </p>
+              <p>
+                Searchers: try
+                <a href="http://nchelluri.github.io/hnjobs/"
+                  >http://nchelluri.github.io/hnjobs/</a
+                >,
+                <a href="https://hnjobs.emilburzo.com"
+                  >https://hnjobs.emilburzo.com</a
+                >, or this (unofficial) Chrome extension:
+                <a
+                  href="https://chromewebstore.google.com/detail/hn-hiring-pro/mpfaljjblphnlloddaplgicpkinikjlp"
+                  >https://chromewebstore.google.com/detail/hn-hiring-pro/mpfal...</a
+                >.
+              </p>
+              <p>
+                Don't miss this other fine thread:
+                <i>Who wants to be hired?</i>
+                <a href="https://news.ycombinator.com/item?id=47601858"
+                  >https://news.ycombinator.com/item?id=47601858</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="47601555">
@@ -181,55 +316,11 @@
             <h4>
               <span>2026-04-01 @ 14:36:51</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47601555"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47601310">
-          <h3>
-            <a
-              class="item"
-              href="https://www.euronews.com/2026/03/31/iran-war-sparks-renewables-boom-as-europeans-rush-to-buy-solar-heat-pumps-and-evs"
-              >Iran war sparks renewables boom as Europeans rush to buy solar,
-              heat pumps, EVs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-01 @ 14:19:25</span
-              ><span class="points-container"
-                >Points: <span class="points">47</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47601310"
-                  >Comments</a
-                ><span class="descendants">: 65</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47601168">
-          <h3>
-            <a
-              class="item"
-              href="https://www.neowin.net/news/onlyoffice-suspends-nextcloud-partnership-over-unapproved-euro-office-fork/"
-              >OnlyOffice kills Nextcloud partnership for forking its project
-              without approval</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-01 @ 14:11:58</span
-              ><span class="points-container"
-                >Points: <span class="points">51</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47601168"
-                  >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -246,11 +337,32 @@
             <h4>
               <span>2026-04-01 @ 14:07:50</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47601107"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 43</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47600434">
+          <h3>
+            <a
+              class="item"
+              href="https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs"
+              >New patches allow building Linux IPv6-only</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-01 @ 13:15:33</span
+              ><span class="points-container"
+                >Points: <span class="points">95</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47600434"
+                  >Comments</a
+                ><span class="descendants">: 102</span></span
               >
             </h4>
           </section>
@@ -258,18 +370,18 @@
         <section id="47600382">
           <h3>
             <a class="item" href="https://isbgpsafeyet.com/"
-              >Is BGP Safe Yet? No. Test Your ISP</a
+              >Is BGP safe yet?</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-04-01 @ 13:10:29</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">187</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47600382"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -285,11 +397,11 @@
             <h4>
               <span>2026-04-01 @ 12:30:18</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47599956"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -311,6 +423,34 @@
             </h4>
           </section>
         </section>
+        <section id="47599510">
+          <h3>
+            <a
+              class="item"
+              href="https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html"
+              >Random numbers, Persian code: A mysterious signal transfixes
+              radio sleuths</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-01 @ 11:39:04</span
+              ><span class="points-container"
+                >Points: <span class="points">65</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47599510"
+                  >Comments</a
+                ><span class="descendants">: 67</span></span
+              >
+            </h4>
+            <div class="text">
+              <a
+                href="https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/"
+                >https://www.wired.com/story/a-mysterious-numbers-station-is-...</a
+              >
+            </div>
+          </section>
+        </section>
         <section id="47599305">
           <h3>
             <a
@@ -323,32 +463,11 @@
             <h4>
               <span>2026-04-01 @ 11:09:11</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47599305"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47598511">
-          <h3>
-            <a
-              class="item"
-              href="https://dbushell.com/2026/04/01/i-quit-the-clankers-won/"
-              >I Quit. The Clankers Won</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-01 @ 09:00:34</span
-              ><span class="points-container"
-                >Points: <span class="points">342</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47598511"
-                  >Comments</a
-                ><span class="descendants">: 379</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -365,11 +484,11 @@
             <h4>
               <span>2026-04-01 @ 07:27:13</span
               ><span class="points-container"
-                >Points: <span class="points">324</span></span
+                >Points: <span class="points">337</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47597935"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -387,11 +506,11 @@
             <h4>
               <span>2026-04-01 @ 05:21:48</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47597119"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -406,11 +525,11 @@
             <h4>
               <span>2026-04-01 @ 05:15:37</span
               ><span class="points-container"
-                >Points: <span class="points">899</span></span
+                >Points: <span class="points">924</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47597085"
                   >Comments</a
-                ><span class="descendants">: 326</span></span
+                ><span class="descendants">: 336</span></span
               >
             </h4>
             <div class="text">
@@ -443,27 +562,6 @@
             </div>
           </section>
         </section>
-        <section id="47595572">
-          <h3>
-            <a
-              class="item"
-              href="https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years"
-              >Neanderthals survived on a knife's edge for 350k years</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-01 @ 01:12:12</span
-              ><span class="points-container"
-                >Points: <span class="points">214</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47595572"
-                  >Comments</a
-                ><span class="descendants">: 173</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="47593556">
           <h3>
             <a class="item" href="https://scottlawsonbc.com/post/dot-system"
@@ -474,11 +572,11 @@
             <h4>
               <span>2026-03-31 @ 21:15:01</span
               ><span class="points-container"
-                >Points: <span class="points">469</span></span
+                >Points: <span class="points">487</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47593556"
                   >Comments</a
-                ><span class="descendants">: 137</span></span
+                ><span class="descendants">: 145</span></span
               >
             </h4>
           </section>
@@ -494,11 +592,11 @@
             <h4>
               <span>2026-03-31 @ 21:01:18</span
               ><span class="points-container"
-                >Points: <span class="points">359</span></span
+                >Points: <span class="points">367</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47593422"
                   >Comments</a
-                ><span class="descendants">: 137</span></span
+                ><span class="descendants">: 140</span></span
               >
             </h4>
           </section>
@@ -513,70 +611,13 @@
             <h4>
               <span>2026-03-31 @ 20:48:15</span
               ><span class="points-container"
-                >Points: <span class="points">291</span></span
+                >Points: <span class="points">296</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47593285"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47587953">
-          <h3>
-            <a
-              class="item"
-              href="https://www.greptile.com/blog/ai-slopware-future"
-              >Slop is not necessarily the future</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-31 @ 14:32:26</span
-              ><span class="points-container"
-                >Points: <span class="points">290</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47587953"
-                  >Comments</a
-                ><span class="descendants">: 463</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47586778">
-          <h3>
-            <a
-              class="item"
-              href="https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/"
-              >The Claude Code Source Leak: fake tools, frustration regexes,
-              undercover mode</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-03-31 @ 13:04:30</span
-              ><span class="points-container"
-                >Points: <span class="points">1316</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47586778"
-                  >Comments</a
-                ><span class="descendants">: 537</span></span
-              >
-            </h4>
-            <div class="text">
-              <i
-                >Claude Code's source code has been leaked via a map file in
-                their NPM registry</i
-              >
-              -
-              <a href="https://news.ycombinator.com/item?id=47584540"
-                >https://news.ycombinator.com/item?id=47584540</a
-              >
-              <p>
-                Also related:
-                <a href="https://www.ccleaks.com">https://www.ccleaks.com</a>
-              </p>
-            </div>
           </section>
         </section>
         <section id="47573450">
@@ -591,11 +632,11 @@
             <h4>
               <span>2026-03-30 @ 12:31:52</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47573450"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -611,11 +652,11 @@
             <h4>
               <span>2026-03-30 @ 06:45:58</span
               ><span class="points-container"
-                >Points: <span class="points">167</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47571183"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
             <div class="text">
@@ -647,11 +688,11 @@
             <h4>
               <span>2026-03-29 @ 13:25:16</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47562961"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -668,11 +709,11 @@
             <h4>
               <span>2026-03-28 @ 21:04:06</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47558101"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -687,11 +728,32 @@
             <h4>
               <span>2026-03-28 @ 18:39:39</span
               ><span class="points-container"
-                >Points: <span class="points">178</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47557171"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 26</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47554557">
+          <h3>
+            <a
+              class="item"
+              href="https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/"
+              >Playing Wolfenstein 3D with one hand in 2026</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-03-28 @ 13:46:27</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47554557"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -709,11 +771,11 @@
             <h4>
               <span>2026-03-28 @ 06:26:42</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47552144"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -728,11 +790,11 @@
             <h4>
               <span>2026-03-27 @ 22:19:34</span
               ><span class="points-container"
-                >Points: <span class="points">264</span></span
+                >Points: <span class="points">266</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47549128"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -749,7 +811,7 @@
             <h4>
               <span>2026-03-27 @ 14:41:03</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47543205"
                   >Comments</a
@@ -768,11 +830,11 @@
             <h4>
               <span>2026-03-27 @ 12:11:12</span
               ><span class="points-container"
-                >Points: <span class="points">226</span></span
+                >Points: <span class="points">227</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47541733"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -789,11 +851,11 @@
             <h4>
               <span>2026-03-27 @ 07:39:40</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47539945"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
