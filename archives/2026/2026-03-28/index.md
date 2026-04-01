@@ -20,6 +20,7 @@
 * [2026-03-28, 20:39:01](https://news.ycombinator.com/item?id=47557960) - [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
 * [2026-03-28, 20:32:01](https://news.ycombinator.com/item?id=47557921) - [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect)
 * [2026-03-28, 20:28:03](https://news.ycombinator.com/item?id=47557901) - [Google just gave Android power users a sideloading win](https://www.androidauthority.com/android-sideload-carry-over-3652845/)
+* [2026-03-28, 19:12:37](https://news.ycombinator.com/item?id=47557385) - [The revenge of the data scientist](https://hamel.dev/blog/posts/revenge/)
 * [2026-03-28, 19:06:47](https://news.ycombinator.com/item?id=47557355) - [Nothing new to see here](https://feld.com/archives/2026/03/nothing-new-to-see-here/)
 * [2026-03-28, 18:58:13](https://news.ycombinator.com/item?id=47557299) - [Hardware Image Compression](https://www.ludicon.com/castano/blog/2026/03/hardware-image-compression/)
 * [2026-03-28, 18:42:08](https://news.ycombinator.com/item?id=47557185) - [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/)

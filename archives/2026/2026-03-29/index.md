@@ -29,6 +29,7 @@
 * [2026-03-29, 17:46:12](https://news.ycombinator.com/item?id=47565365) - [C++26 is done ISO C++ standards meeting, Trip Report](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/)
 * [2026-03-29, 17:43:52](https://news.ycombinator.com/item?id=47565350) - [An Introduction to Writing Systems and Unicode](https://r12a.github.io/scripts/tutorial/part2)
 * [2026-03-29, 17:39:55](https://news.ycombinator.com/item?id=47565316) - [Neovim 0.12.0](https://github.com/neovim/neovim/releases/tag/v0.12.0)
+* [2026-03-29, 17:38:43](https://news.ycombinator.com/item?id=47565307) - [Windows 95 defenses against installers that overwrite a file with an older one](https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159)
 * [2026-03-29, 17:34:20](https://news.ycombinator.com/item?id=47565264) - [Netscape News Feed Straight Out of the Late 00s](https://isp.netscape.com/)
 * [2026-03-29, 17:14:59](https://news.ycombinator.com/item?id=47565075) - [First Western Digital, now Sony: The tech giant suspends SD card sales](https://mashable.com/article/sony-sd-card-sales-suspended-memory-shortage)
 * [2026-03-29, 16:26:55](https://news.ycombinator.com/item?id=47564579) - [The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history](https://www.righto.com/2026/03/ibm-4-pi-computer-history.html)
