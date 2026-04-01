@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-01, 14:26:16",
+      "https://news.ycombinator.com/item?id=47601405"
+    ],
+    [
+      "OpenAI Demand Sinks on Secondary Market as Anthropic Runs Hot",
+      "https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 14:11:58",
+      "https://news.ycombinator.com/item?id=47601168"
+    ],
+    [
+      "OnlyOffice kills Nextcloud partnership for forking its project without approval",
+      "https://www.neowin.net/news/onlyoffice-suspends-nextcloud-partnership-over-unapproved-euro-office-fork/"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 14:07:50",
+      "https://news.ycombinator.com/item?id=47601107"
+    ],
+    [
+      "AI has suddenly become more useful to open-source developers",
+      "https://www.zdnet.com/article/maybe-open-source-needs-ai/"
+    ]
+  ],
+  [
+    [
       "2026-04-01, 13:15:33",
       "https://news.ycombinator.com/item?id=47600434"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-03-31, 21:22:48",
-      "https://news.ycombinator.com/item?id=47593634"
-    ],
-    [
-      "Ordinary Lab Gloves May Have Skewed Microplastic Data",
-      "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 21:15:01",
       "https://news.ycombinator.com/item?id=47593556"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-03-30, 14:45:35",
-      "https://news.ycombinator.com/item?id=47575039"
-    ],
-    [
-      "In Case of Emergency, Make Burrito Bison 3 (2017)",
-      "https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/"
-    ]
-  ],
-  [
-    [
       "2026-03-30, 12:31:52",
       "https://news.ycombinator.com/item?id=47573450"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-03-29, 02:58:35",
-      "https://news.ycombinator.com/item?id=47560017"
-    ],
-    [
-      "6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator",
-      "http://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html"
-    ]
-  ],
-  [
-    [
       "2026-03-28, 21:04:06",
       "https://news.ycombinator.com/item?id=47558101"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-03-28, 01:04:56",
-      "https://news.ycombinator.com/item?id=47550433"
+      "2026-03-28, 06:26:42",
+      "https://news.ycombinator.com/item?id=47552144"
     ],
     [
-      "Teenage Engineering's PO-32 acoustic modem and synth implementation",
-      "https://github.com/ericlewis/libpo32"
+      "Ada and Spark on ARM Cortex-M – A Tutorial with Arduino and Nucleo Examples",
+      "http://inspirel.com/articles/Ada_On_Cortex.html"
     ]
   ],
   [
