@@ -17,6 +17,7 @@
 * [2026-03-28, 21:18:06](https://news.ycombinator.com/item?id=47558195) - [Ötzi the Iceman's DNA Reveals a Living Relative 5k Years Later](https://blog.familytreedna.com/otzi-the-iceman-dna/)
 * [2026-03-28, 21:04:06](https://news.ycombinator.com/item?id=47558101) - [Bring Back MiniDV with This Raspberry Pi FireWire Hat](https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/)
 * [2026-03-28, 21:03:23](https://news.ycombinator.com/item?id=47558094) - [Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes](https://github.com/elixir-volt/quickbeam)
+* [2026-03-28, 21:00:32](https://news.ycombinator.com/item?id=47558073) - [Ariane 6 user's manual [pdf]](https://www.ariane.group/app/uploads/sites/4/2024/10/Mua-6_Issue-2_Revision-0_March-2021.pdf)
 * [2026-03-28, 20:39:01](https://news.ycombinator.com/item?id=47557960) - [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
 * [2026-03-28, 20:32:01](https://news.ycombinator.com/item?id=47557921) - [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect)
 * [2026-03-28, 20:28:03](https://news.ycombinator.com/item?id=47557901) - [Google just gave Android power users a sideloading win](https://www.androidauthority.com/android-sideload-carry-over-3652845/)

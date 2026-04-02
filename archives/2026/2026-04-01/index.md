@@ -10,6 +10,7 @@
 * [2026-04-01, 23:10:02](https://news.ycombinator.com/item?id=47607775) - [\"Special 301\" Comments on Nintendo Game Piracy in Asia and Latin America (1994)](https://archive.gamehistory.org/item/8aa9a6fb-1593-47ce-bdf0-aa79abdcb0e6)
 * [2026-04-01, 22:38:25](https://news.ycombinator.com/item?id=47607447) - [Artemis II lifts off: four astronauts begin 10-day lunar mission](https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates)
 * [2026-04-01, 22:32:04](https://news.ycombinator.com/item?id=47607394) - [SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)](https://github.com/solvespace/solvespace/issues/1036)
+* [2026-04-01, 22:25:14](https://news.ycombinator.com/item?id=47607326) - [The Windows equivalents of the most used Linux commands](http://techkettle.blogspot.com/2026/04/the-windows-equivalents-of-most-used.html)
 * [2026-04-01, 21:59:14](https://news.ycombinator.com/item?id=47607067) - [Swappa.com for GrapheneOS compatible devices – Stay Away](https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away)
 * [2026-04-01, 21:36:41](https://news.ycombinator.com/item?id=47606840) - [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/)
 * [2026-04-01, 21:04:53](https://news.ycombinator.com/item?id=47606560) - [Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)](https://getdull.app)
