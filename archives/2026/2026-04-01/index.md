@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-01](index.md)
 
+* [2026-04-01, 23:45:03](https://news.ycombinator.com/item?id=47608155) - [ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
 * [2026-04-01, 23:35:02](https://news.ycombinator.com/item?id=47608058) - [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)
+* [2026-04-01, 23:22:57](https://news.ycombinator.com/item?id=47607923) - [IPv6 address, as a sentence you can remember](https://sentence2ipv6.tib3rius.com/)
+* [2026-04-01, 23:10:02](https://news.ycombinator.com/item?id=47607775) - [\"Special 301\" Comments on Nintendo Game Piracy in Asia and Latin America (1994)](https://archive.gamehistory.org/item/8aa9a6fb-1593-47ce-bdf0-aa79abdcb0e6)
 * [2026-04-01, 22:38:25](https://news.ycombinator.com/item?id=47607447) - [Artemis II lifts off: four astronauts begin 10-day lunar mission](https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates)
+* [2026-04-01, 22:32:04](https://news.ycombinator.com/item?id=47607394) - [SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)](https://github.com/solvespace/solvespace/issues/1036)
 * [2026-04-01, 21:59:14](https://news.ycombinator.com/item?id=47607067) - [Swappa.com for GrapheneOS compatible devices – Stay Away](https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away)
 * [2026-04-01, 21:36:41](https://news.ycombinator.com/item?id=47606840) - [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/)
 * [2026-04-01, 21:04:53](https://news.ycombinator.com/item?id=47606560) - [Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)](https://getdull.app)
@@ -22,6 +26,7 @@
 * [2026-04-01, 17:49:54](https://news.ycombinator.com/item?id=47604155) - [SpaceX files to go public](https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html)
 * [2026-04-01, 17:34:16](https://news.ycombinator.com/item?id=47603966) - [Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM](https://flight-viz.com)
 * [2026-04-01, 17:17:24](https://news.ycombinator.com/item?id=47603737) - [AI for American-Produced Cement and Concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
+* [2026-04-01, 17:11:31](https://news.ycombinator.com/item?id=47603657) - [NASA’s Artemis II Crew Launches to the Moon](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/)
 * [2026-04-01, 17:11:31](https://news.ycombinator.com/item?id=47603657) - [NASA Artemis II moon mission live launch broadcast](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/)
 * [2026-04-01, 17:02:19](https://news.ycombinator.com/item?id=47603534) - [A new way to measure poverty shows the US falling behind Europe](https://www.euronews.com/business/2026/03/29/a-new-way-to-measure-poverty-shows-the-us-falling-behind-europe)
 * [2026-04-01, 16:39:46](https://news.ycombinator.com/item?id=47603231) - [What Is Copilot Exactly?](https://idiallo.com/blog/what-is-copilot-exactly)
