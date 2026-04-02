@@ -21,21 +21,11 @@
   ],
   [
     [
-      "2026-04-02, 18:31:12",
-      "https://news.ycombinator.com/item?id=47618324"
-    ],
-    [
-      "Ask HN: European Tech Alternatives?",
-      "https://news.ycombinator.com/item?id=47618324"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 18:22:03",
       "https://news.ycombinator.com/item?id=47618189"
     ],
     [
-      "Tailscale's New macOS Home",
+      "Tailscale's new macOS home",
       "https://tailscale.com/blog/macos-notch-escape"
     ]
   ],
@@ -71,12 +61,32 @@
   ],
   [
     [
+      "2026-04-02, 18:13:41",
+      "https://news.ycombinator.com/item?id=47618084"
+    ],
+    [
+      "Cursor 3",
+      "https://cursor.com/blog/cursor-3"
+    ]
+  ],
+  [
+    [
       "2026-04-02, 17:29:03",
       "https://news.ycombinator.com/item?id=47617415"
     ],
     [
       "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
       "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 17:26:49",
+      "https://news.ycombinator.com/item?id=47617376"
+    ],
+    [
+      "OpenAI Acquires TBPN",
+      "https://openai.com/index/openai-acquires-tbpn/"
     ]
   ],
   [
@@ -91,22 +101,22 @@
   ],
   [
     [
-      "2026-04-02, 16:27:23",
-      "https://news.ycombinator.com/item?id=47616622"
-    ],
-    [
-      "EmDash: A Fresh Take on CMS",
-      "https://maciekpalmowski.dev/blog/emdash-a-fresh-take-on-cms/"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 16:10:54",
       "https://news.ycombinator.com/item?id=47616361"
     ],
     [
       "Google releases Gemma 4 open models",
       "https://deepmind.google/models/gemma/gemma-4/"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 15:35:31",
+      "https://news.ycombinator.com/item?id=47615876"
+    ],
+    [
+      "Even GPT-5.2 Can't Count to Five: Zero-Error Horizons in Trustworthy LLMs",
+      "https://arxiv.org/abs/2601.15714"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2026-03-31, 05:11:39",
-      "https://news.ycombinator.com/item?id=47582987"
+      "2026-03-30, 15:28:45",
+      "https://news.ycombinator.com/item?id=47575557"
     ],
     [
-      "Gone (Almost) Phishin'",
-      "https://ma.tt/2026/03/gone-almost-phishin/"
+      "Magic the Gathering Deck Shuffler",
+      "https://mtg.jessitron.honeydemo.io/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Quadratic Micropass Type Inference",
       "https://articles.luminalang.com/a/micropass-inference/"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 09:04:29",
-      "https://news.ycombinator.com/item?id=47540441"
-    ],
-    [
-      "Reinventing the pull request",
-      "https://lubeno.dev/blog/reinventing-the-pull-request"
     ]
   ]
 ]
