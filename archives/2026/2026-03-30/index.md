@@ -10,6 +10,7 @@
 * [2026-03-30, 22:03:01](https://news.ycombinator.com/item?id=47580271) - [South Polar Times](https://www.laphamsquarterly.org/roundtable/south-polar-times)
 * [2026-03-30, 21:40:57](https://news.ycombinator.com/item?id=47580059) - [Agentic AI and the next intelligence explosion](https://arxiv.org/abs/2603.20639)
 * [2026-03-30, 21:32:24](https://news.ycombinator.com/item?id=47579977) - [Tickets Are Prompts](https://dheer.co/tickets-are-prompts/)
+* [2026-03-30, 21:30:04](https://news.ycombinator.com/item?id=47579942) - [Built a cheap DIY fan controller because my motherboard never had working PWM](https://www.himthe.dev/blog/msi-forgot-my-fans)
 * [2026-03-30, 21:18:52](https://news.ycombinator.com/item?id=47579818) - [What we learned building 100 API integrations with OpenCode](https://nango.dev/blog/learned-building-200-api-integrations-with-opencode/)
 * [2026-03-30, 21:12:46](https://news.ycombinator.com/item?id=47579754) - [OpenGridWorks: The Electricity Infrasctructure, Mapped](https://www.opengridworks.com)
 * [2026-03-30, 20:19:43](https://news.ycombinator.com/item?id=47579229) - [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 08:21:35](https://news.ycombinator.com/item?id=47611500) - [Should AI have the right to say 'No' to its owner?](https://github.com/Jang-woo-AnnaSoft/execution-boundaries)
+* [2026-04-02, 08:19:11](https://news.ycombinator.com/item?id=47611481) - [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/)
 * [2026-04-02, 07:17:50](https://news.ycombinator.com/item?id=47611044) - [Telli (YC F24) is hiring engineers, designers, and more [on-site, Berlin]](http://hi.telli.com/join-us)
 * [2026-04-02, 05:33:20](https://news.ycombinator.com/item?id=47610336) - [r/programming bans all discussion of LLM programming](https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/)
 * [2026-04-02, 04:08:12](https://news.ycombinator.com/item?id=47609883) - [Salomi, a research repo on extreme low-bit transformer quantization](https://github.com/OrionsLock/SALOMI)
