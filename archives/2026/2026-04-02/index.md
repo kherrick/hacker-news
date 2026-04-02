@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 05:33:20](https://news.ycombinator.com/item?id=47610336) - [r/programming bans all discussion of LLM programming](https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/)
 * [2026-04-02, 04:08:12](https://news.ycombinator.com/item?id=47609883) - [Salomi, a research repo on extreme low-bit transformer quantization](https://github.com/OrionsLock/SALOMI)
 * [2026-04-02, 04:08:05](https://news.ycombinator.com/item?id=47609882) - [Subscription bombing and how to mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
 * [2026-04-02, 03:45:22](https://news.ycombinator.com/item?id=47609752) - [The future of code search is not regex – 100x faster than ripgrep](https://fff.dmtrkovalenko.dev/)

@@ -11,6 +11,7 @@
 * [2026-03-28, 22:50:49](https://news.ycombinator.com/item?id=47558782) - [Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html)
 * [2026-03-28, 22:42:23](https://news.ycombinator.com/item?id=47558733) - [From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem](https://news.future-shock.ai/the-weight-of-remembering/)
 * [2026-03-28, 22:15:31](https://news.ycombinator.com/item?id=47558581) - [Stop picking my Go version for me](https://blog.howardjohn.info/posts/go-mod-version/)
+* [2026-03-28, 22:06:59](https://news.ycombinator.com/item?id=47558531) - [AI Perfected Chess. Humans Made It Unpredictable Again](https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves)
 * [2026-03-28, 22:00:39](https://news.ycombinator.com/item?id=47558496) - [Goldman Sachs now reckons that oil could take out the 2008 record of $147](https://www.ft.com/content/360ca227-4d2a-41a4-a05f-41baedc0f7d2)
 * [2026-03-28, 21:43:00](https://news.ycombinator.com/item?id=47558372) - [Private equity turned vulnerable elderly people into human ATMs](https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms)
 * [2026-03-28, 21:35:22](https://news.ycombinator.com/item?id=47558305) - [InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer](https://inpharmd.com/jobs/senior-ruby-on-rails-engineer)

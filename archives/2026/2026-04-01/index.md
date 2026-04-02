@@ -58,6 +58,7 @@
 * [2026-04-01, 06:05:57](https://news.ycombinator.com/item?id=47597382) - [Mad Bugs: Vim vs. Emacs vs. Claude](https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude)
 * [2026-04-01, 05:21:48](https://news.ycombinator.com/item?id=47597119) - [Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)](https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md)
 * [2026-04-01, 05:15:37](https://news.ycombinator.com/item?id=47597085) - [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
+* [2026-04-01, 04:14:41](https://news.ycombinator.com/item?id=47596739) - [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/)
 * [2026-04-01, 04:00:51](https://news.ycombinator.com/item?id=47596654) - [I built a 516-panel financial terminal in 3 weeks using AI](https://neuberg.ai/)
 * [2026-04-01, 03:27:38](https://news.ycombinator.com/item?id=47596457) - [Analyzing Geekbench 6 under Intel's BOT](https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/)
 * [2026-04-01, 01:58:45](https://news.ycombinator.com/item?id=47595865) - [We intercepted the White House app's network traffic](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/)
