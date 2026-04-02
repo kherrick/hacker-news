@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 18:50:45](https://news.ycombinator.com/item?id=47618602) - [Zep AI Is Hiring – Building the Agent Context Layer (YC W24)](https://www.ycombinator.com/companies/zep-ai/jobs)
+* [2026-04-02, 18:31:12](https://news.ycombinator.com/item?id=47618324) - [Ask HN: European Tech Alternatives?](https://news.ycombinator.com/item?id=47618324)
+* [2026-04-02, 18:22:03](https://news.ycombinator.com/item?id=47618189) - [Tailscale's New macOS Home](https://tailscale.com/blog/macos-notch-escape)
+* [2026-04-02, 18:21:08](https://news.ycombinator.com/item?id=47618176) - [George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
+* [2026-04-02, 18:16:57](https://news.ycombinator.com/item?id=47618120) - [Hugo's New CSS Powers](https://www.brycewray.com/posts/2026/04/hugos-new-css-powers/)
+* [2026-04-02, 18:13:41](https://news.ycombinator.com/item?id=47618084) - [Cursor 3](https://cursor.com/blog/cursor-3)
+* [2026-04-02, 17:52:11](https://news.ycombinator.com/item?id=47617787) - [Attorney General Pam Bondi Out at DOJ](https://www.npr.org/2026/04/02/g-s1-115077/trump-bondi-attorney-general-departure)
 * [2026-04-02, 17:26:49](https://news.ycombinator.com/item?id=47617376) - [OpenAI Acquires TBPN](https://openai.com/index/openai-acquires-tbpn/)
 * [2026-04-02, 17:00:11](https://news.ycombinator.com/item?id=47617027) - [A forecast of the fair market value of SpaceX's businesses](https://futuresearch.ai/spacex-ipo-valuation/)
 * [2026-04-02, 16:34:39](https://news.ycombinator.com/item?id=47616704) - [Modern SQLite: Features You Didn't Know It Had](https://slicker.me/sqlite/features.htm)
