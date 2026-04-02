@@ -1,22 +1,12 @@
 [
   [
     [
-      "2026-04-02, 21:30:28",
-      "https://news.ycombinator.com/item?id=47620453"
+      "2026-04-02, 22:13:03",
+      "https://news.ycombinator.com/item?id=47620857"
     ],
     [
-      "Iran Says It Hit Oracle Facilities in UAE",
-      "https://gizmodo.com/iran-says-it-hit-oracle-facilities-in-uae-2000741785"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 18:50:45",
-      "https://news.ycombinator.com/item?id=47618602"
-    ],
-    [
-      "Zep AI Is Hiring – Building the Agent Context Layer (YC W24)",
-      "https://www.ycombinator.com/companies/zep-ai/jobs"
+      "ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)",
+      "https://paradedb.notion.site/"
     ]
   ],
   [
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=47618581"
     ],
     [
-      "Amazon to add 3.5% fuel and logistics surcharge as Iran war raises energy prices",
+      "Amazon is adding a fuel surcharge to fees it collects from third-party sellers",
       "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html"
     ]
   ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=47618176"
     ],
     [
-      "George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting",
+      "George Harry Goble has died",
       "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779"
     ]
   ],
@@ -257,6 +247,16 @@
     [
       "Artemis II's toilet is a moon mission milestone",
       "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 19:57:05",
+      "https://news.ycombinator.com/item?id=47592614"
+    ],
+    [
+      "Prefer do notation over Applicative operators when assembling records (2024)",
+      "https://haskellforall.com/2024/05/prefer-do-notation-over-applicative"
     ]
   ],
   [
