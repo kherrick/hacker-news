@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 17:26:49](https://news.ycombinator.com/item?id=47617376) - [OpenAI Acquires TBPN](https://openai.com/index/openai-acquires-tbpn/)
+* [2026-04-02, 17:00:11](https://news.ycombinator.com/item?id=47617027) - [A forecast of the fair market value of SpaceX's businesses](https://futuresearch.ai/spacex-ipo-valuation/)
 * [2026-04-02, 16:34:39](https://news.ycombinator.com/item?id=47616704) - [Modern SQLite: Features You Didn't Know It Had](https://slicker.me/sqlite/features.htm)
 * [2026-04-02, 16:27:23](https://news.ycombinator.com/item?id=47616622) - [EmDash: A Fresh Take on CMS](https://maciekpalmowski.dev/blog/emdash-a-fresh-take-on-cms/)
 * [2026-04-02, 16:10:54](https://news.ycombinator.com/item?id=47616361) - [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
 * [2026-04-02, 15:47:17](https://news.ycombinator.com/item?id=47616050) - [Snow melt-off in American west stuns scientists](https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west)
+* [2026-04-02, 15:35:31](https://news.ycombinator.com/item?id=47615876) - [Even GPT-5.2 Can't Count to Five: Zero-Error Horizons in Trustworthy LLMs](https://arxiv.org/abs/2601.15714)
 * [2026-04-02, 15:29:49](https://news.ycombinator.com/item?id=47615809) - [Inference Engine for Apple Silicon](https://github.com/ondeinference/onde)
 * [2026-04-02, 15:26:18](https://news.ycombinator.com/item?id=47615756) - [Renewables reached nearly 50% of global electricity capacity last year](https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/)
 * [2026-04-02, 15:08:45](https://news.ycombinator.com/item?id=47615490) - [Artemis computer running two instances of MS outlook; they can't figure out why](https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25)

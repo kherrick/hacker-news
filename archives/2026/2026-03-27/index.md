@@ -14,6 +14,7 @@
 * [2026-03-27, 20:57:17](https://news.ycombinator.com/item?id=47548164) - [Researchers find 3,500-year-old loom that reveals textile revolution](https://web.ua.es/en/actualidad-universitaria/2026/marzo2026/23-31/ua-researchers-find-3-500-year-old-loom-that-reveals-key-aspects-of-textile-revolution-in-the-bronze-age.html)
 * [2026-03-27, 20:51:03](https://news.ycombinator.com/item?id=47548087) - [Slovenia becomes first EU country to introduce fuel rationing](https://www.bbc.com/news/articles/c77m4zx6zvmo)
 * [2026-03-27, 20:44:33](https://news.ycombinator.com/item?id=47548013) - [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
+* [2026-03-27, 20:37:22](https://news.ycombinator.com/item?id=47547938) - [Quadratic Micropass Type Inference](https://articles.luminalang.com/a/micropass-inference/)
 * [2026-03-27, 20:30:05](https://news.ycombinator.com/item?id=47547843) - [Agents of Chaos](https://agentsofchaos.baulab.info/report.html)
 * [2026-03-27, 20:10:42](https://news.ycombinator.com/item?id=47547602) - [Colorado House passes bill to limit surveillance pricing and wage setting](https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/)
 * [2026-03-27, 20:02:05](https://news.ycombinator.com/item?id=47547508) - [ISBN Visualization – Annas Archive](https://annas-archive.gd/isbn-visualization?)
