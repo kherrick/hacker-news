@@ -29,6 +29,7 @@
 * [2026-03-31, 15:39:45](https://news.ycombinator.com/item?id=47589011) - [Italy blocks US use of Sicily air base for Middle East war](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
 * [2026-03-31, 15:20:11](https://news.ycombinator.com/item?id=47588658) - [Tell HN: Chrome says \"Suspicious Download\" when trying to download yt-dlp](https://news.ycombinator.com/item?id=47588658)
 * [2026-03-31, 15:01:35](https://news.ycombinator.com/item?id=47588349) - [GitHub Monaspace Case Study](https://lettermatic.com/custom/monaspace-case-study)
+* [2026-03-31, 14:44:33](https://news.ycombinator.com/item?id=47588103) - [On the trail of ancient art, deep in the Sahara](https://www.ft.com/content/524ed21e-5c35-489e-ae0b-90d40b4cf28a)
 * [2026-03-31, 14:32:26](https://news.ycombinator.com/item?id=47587953) - [Good code will still win](https://www.greptile.com/blog/ai-slopware-future)
 * [2026-03-31, 14:30:48](https://news.ycombinator.com/item?id=47587935) - [Oracle slashes 30k jobs with a cold 6 a.m. email](https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/)
 * [2026-03-31, 14:25:37](https://news.ycombinator.com/item?id=47587866) - [Microsoft: Copilot is for entertainment purposes only](https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse)
