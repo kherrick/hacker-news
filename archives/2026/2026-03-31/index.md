@@ -13,6 +13,7 @@
 * [2026-03-31, 20:07:30](https://news.ycombinator.com/item?id=47592755) - [OpenAI raises $122B](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
 * [2026-03-31, 20:07:30](https://news.ycombinator.com/item?id=47592755) - [Accelerating the Next Phase of AI](https://openai.com/index/accelerating-the-next-phase-ai)
 * [2026-03-31, 19:57:54](https://news.ycombinator.com/item?id=47592626) - [Super Micro Computer Investors Look for Exits](https://catenaa.com/markets/equities/super-micro-computer-investors-look-for-exits/)
+* [2026-03-31, 19:57:05](https://news.ycombinator.com/item?id=47592614) - [Prefer do notation over Applicative operators when assembling records (2024)](https://haskellforall.com/2024/05/prefer-do-notation-over-applicative)
 * [2026-03-31, 19:46:43](https://news.ycombinator.com/item?id=47592462) - [I Traced My Traffic Through a Home Tailscale Exit Node](https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/)
 * [2026-03-31, 19:22:58](https://news.ycombinator.com/item?id=47592183) - [Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology](https://cerno.sh)
 * [2026-03-31, 19:01:29](https://news.ycombinator.com/item?id=47591928) - [GitHub's Historic Uptime](https://damrnelson.github.io/github-historical-uptime/)
