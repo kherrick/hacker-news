@@ -39,6 +39,7 @@
 * [2026-03-30, 15:16:35](https://news.ycombinator.com/item?id=47575403) - [CodingFont: A game to help you pick a coding font](https://www.codingfont.com/)
 * [2026-03-30, 15:00:28](https://news.ycombinator.com/item?id=47575212) - [\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"](https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/)
 * [2026-03-30, 14:49:58](https://news.ycombinator.com/item?id=47575089) - [72% of the dollar's purchasing power was destroyed in just four episodes](https://eco3min.fr/en/us-inflation-is-not-linear/)
+* [2026-03-30, 14:47:05](https://news.ycombinator.com/item?id=47575061) - [Show HN: QWERTY mini Pro – Why a 2-row, 16-key keyboard works better](https://k-keyboard.com/Why-2-Row-16-Key-Structure)
 * [2026-03-30, 14:45:35](https://news.ycombinator.com/item?id=47575039) - [In Case of Emergency, Make Burrito Bison 3](https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/)
 * [2026-03-30, 14:39:43](https://news.ycombinator.com/item?id=47574960) - [Inside the 'self-driving' lab revolution](https://www.nature.com/articles/d41586-026-00974-2)
 * [2026-03-30, 14:32:36](https://news.ycombinator.com/item?id=47574871) - [Show HN: Zerobox – Sandbox any command with file and network restrictions](https://github.com/afshinm/zerobox)
