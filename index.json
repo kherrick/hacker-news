@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-04-02, 11:11:56",
-      "https://news.ycombinator.com/item?id=47612784"
+      "2026-04-02, 13:09:09",
+      "https://news.ycombinator.com/item?id=47613981"
     ],
     [
-      "A.I. Helped One Man (and His Brother) Build a $1.8B Company",
-      "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html"
+      "LinkedIn Is Illegally Searching Your Computer",
+      "https://browsergate.eu/"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 11:49:01",
+      "https://news.ycombinator.com/item?id=47613156"
+    ],
+    [
+      "ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026",
+      "https://old.reddit.com/r/reactos/comments/1sa26yu/back_from_chemnitz_linux_days_2026/"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 11:40:41",
+      "https://news.ycombinator.com/item?id=47613078"
+    ],
+    [
+      "Inside Nepal's Fake Rescue Racket",
+      "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 11:04:51",
+      "https://news.ycombinator.com/item?id=47612724"
+    ],
+    [
+      "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "https://lemonade-server.ai"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "Enabling Codex to Analyze Two Decades of Hacker News Data",
       "https://modolap.com/publication/hn-analysis-1"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 10:07:57",
+      "https://news.ycombinator.com/item?id=47612321"
+    ],
+    [
+      "Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries",
+      "https://github.com/razvandimescu/numa"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2026-04-02, 01:48:18",
-      "https://news.ycombinator.com/item?id=47609090"
-    ],
-    [
-      "The Weather Channel – RetroCast",
-      "https://weather.com/retro/"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 00:24:43",
       "https://news.ycombinator.com/item?id=47608495"
     ],
@@ -147,26 +177,6 @@
     [
       "DRAM pricing is killing the hobbyist SBC market",
       "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 21:04:53",
-      "https://news.ycombinator.com/item?id=47606560"
-    ],
-    [
-      "Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",
-      "https://getdull.app"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 19:52:00",
-      "https://news.ycombinator.com/item?id=47605677"
-    ],
-    [
-      "Signing data structures the wrong way",
-      "https://blog.foks.pub/posts/domain-separation-in-idl/"
     ]
   ],
   [
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2026-04-01, 15:01:36",
-      "https://news.ycombinator.com/item?id=47601859"
-    ],
-    [
-      "Ask HN: Who is hiring? (April 2026)",
-      "https://news.ycombinator.com/item?id=47601859"
-    ]
-  ],
-  [
-    [
       "2026-04-01, 04:14:41",
       "https://news.ycombinator.com/item?id=47596739"
     ],
     [
       "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
       "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 16:11:58",
-      "https://news.ycombinator.com/item?id=47589558"
-    ],
-    [
-      "The story of Britain's oldest sweet, the Pontefract Cake (2019)",
-      "https://www.bbc.com/travel/article/20190710-the-strange-story-of-britains-oldest-sweet"
     ]
   ],
   [
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2026-03-30, 16:09:37",
-      "https://news.ycombinator.com/item?id=47576106"
+      "2026-03-30, 11:59:52",
+      "https://news.ycombinator.com/item?id=47573137"
     ],
     [
-      "Reverse Engineering Crazy Taxi, Part 2",
-      "https://wretched.computer/post/crazytaxi2"
+      "Order and Tension",
+      "https://slab.org/2026/03/22/order-and-tension/"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 14:32:04",
+      "https://news.ycombinator.com/item?id=47563486"
+    ],
+    [
+      "Emacs-libgterm: Terminal emulator for Emacs using libghostty-vt",
+      "https://github.com/rwc9u/emacs-libgterm"
     ]
   ],
   [
