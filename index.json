@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-04-02, 11:11:56",
+      "https://news.ycombinator.com/item?id=47612784"
+    ],
+    [
+      "A.I. Helped One Man (and His Brother) Build a $1.8B Company",
+      "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html"
+    ]
+  ],
+  [
+    [
       "2026-04-02, 10:50:00",
       "https://news.ycombinator.com/item?id=47612601"
     ],
     [
       "Sweden goes back to basics, swapping screens for books in the classroom",
       "https://undark.org/2026/04/01/sweden-schools-books/"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 10:42:23",
+      "https://news.ycombinator.com/item?id=47612558"
+    ],
+    [
+      "Enabling Codex to Analyze Two Decades of Hacker News Data",
+      "https://modolap.com/publication/hn-analysis-1"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47611044"
     ],
     [
-      "Telli (YC F24) is hiring engineers, designers, and more [on-site, Berlin]",
+      "Telli (YC F24) is hiring engineers, designers, and more (on-site, Berlin)",
       "http://hi.telli.com/join-us"
     ]
   ],
@@ -67,16 +87,6 @@
     [
       "Subscription bombing and how to mitigate it",
       "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 03:40:49",
-      "https://news.ycombinator.com/item?id=47609725"
-    ],
-    [
-      "Show HN: NASA Artemis II Mission Timeline Tracker",
-      "https://www.sunnywingsvirtual.com/artemis2/timeline.html"
     ]
   ],
   [
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=47609090"
     ],
     [
-      "Weather.com/Retro",
+      "The Weather Channel – RetroCast",
       "https://weather.com/retro/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
       "https://github.com/hauntsaninja/git_bayesect"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 19:12:37",
-      "https://news.ycombinator.com/item?id=47557385"
-    ],
-    [
-      "The revenge of the data scientist",
-      "https://hamel.dev/blog/posts/revenge/"
     ]
   ],
   [
