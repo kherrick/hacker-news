@@ -44,6 +44,7 @@
 * [2026-03-29, 15:22:21](https://news.ycombinator.com/item?id=47563921) - [App that shows real-time lightning on Earth is showing bombings in Middle East](https://maps.blitzortung.org/)
 * [2026-03-29, 15:16:26](https://news.ycombinator.com/item?id=47563886) - [No Kings protests fill streets at over 3,300 rallies in all 50 states](https://www.washingtonpost.com/nation/2026/03/28/no-kings-protests-marches-record-turnout/)
 * [2026-03-29, 14:51:20](https://news.ycombinator.com/item?id=47563655) - [Say No to Palantir in Europe](https://action.wemove.eu/sign/2026-03-palantir-petition-EN)
+* [2026-03-29, 14:32:04](https://news.ycombinator.com/item?id=47563486) - [Emacs-libgterm: Terminal emulator for Emacs using libghostty-vt](https://github.com/rwc9u/emacs-libgterm)
 * [2026-03-29, 14:20:23](https://news.ycombinator.com/item?id=47563384) - [Police used AI facial recognition to wrongly arrest TN woman for crimes in ND](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 * [2026-03-29, 14:14:22](https://news.ycombinator.com/item?id=47563325) - [Show HN: 2.7KB Zig WASM – live globe showing executions at 300 CF edges](https://mcpaas.live/globe)
 * [2026-03-29, 13:55:04](https://news.ycombinator.com/item?id=47563172) - [Patriot Crisis: US Embezzles Switzerland's Fighter Jet Funds](https://clashreport.com/defense/articles/patriot-crisis-us-seizes-switzerlands-fighter-jet-funds-07crgkch8ihr)
