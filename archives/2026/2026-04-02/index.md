@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 21:30:28](https://news.ycombinator.com/item?id=47620453) - [Iran Says It Hit Oracle Facilities in UAE](https://gizmodo.com/iran-says-it-hit-oracle-facilities-in-uae-2000741785)
 * [2026-04-02, 20:24:11](https://news.ycombinator.com/item?id=47619701) - [US Burned 14 Years of Missiles in 30 Days](https://trendytechtribe.com/energy/us-burned-14-years-missiles-30-days)
 * [2026-04-02, 19:09:27](https://news.ycombinator.com/item?id=47618827) - [We sped up bun by 100x](https://vers.sh/blog/git-zig-bun-100x)
 * [2026-04-02, 18:50:45](https://news.ycombinator.com/item?id=47618602) - [Zep AI Is Hiring – Building the Agent Context Layer (YC W24)](https://www.ycombinator.com/companies/zep-ai/jobs)
 * [2026-04-02, 18:49:38](https://news.ycombinator.com/item?id=47618581) - [Amazon to add 3.5% fuel and logistics surcharge as Iran war raises energy prices](https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html)
 * [2026-04-02, 18:31:12](https://news.ycombinator.com/item?id=47618324) - [Ask HN: European Tech Alternatives?](https://news.ycombinator.com/item?id=47618324)
+* [2026-04-02, 18:24:12](https://news.ycombinator.com/item?id=47618221) - [Australia to crack down on gambling ads after years of criticism](https://www.bbc.com/news/articles/c62492e925lo)
 * [2026-04-02, 18:22:03](https://news.ycombinator.com/item?id=47618189) - [Tailscale's New macOS Home](https://tailscale.com/blog/macos-notch-escape)
 * [2026-04-02, 18:21:08](https://news.ycombinator.com/item?id=47618176) - [George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
 * [2026-04-02, 18:16:57](https://news.ycombinator.com/item?id=47618120) - [Hugo's New CSS Powers](https://www.brycewray.com/posts/2026/04/hugos-new-css-powers/)
@@ -55,6 +57,7 @@
 * [2026-04-02, 03:40:49](https://news.ycombinator.com/item?id=47609725) - [Show HN: NASA Artemis II Mission Timeline Tracker](https://www.sunnywingsvirtual.com/artemis2/timeline.html)
 * [2026-04-02, 03:35:33](https://news.ycombinator.com/item?id=47609694) - [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/)
 * [2026-04-02, 03:12:24](https://news.ycombinator.com/item?id=47609564) - [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p)
+* [2026-04-02, 02:37:12](https://news.ycombinator.com/item?id=47609356) - [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/)
 * [2026-04-02, 02:26:05](https://news.ycombinator.com/item?id=47609294) - [The Claude Code Leak](https://build.ms/2026/4/1/the-claude-code-leak/)
 * [2026-04-02, 02:17:51](https://news.ycombinator.com/item?id=47609253) - [Solar Balconies Take Europe by Storm](https://hackaday.com/2026/03/31/solar-balconies-take-europe-by-storm/)
 * [2026-04-02, 02:15:28](https://news.ycombinator.com/item?id=47609241) - [Trinity Large Thinking](https://openrouter.ai/arcee-ai/trinity-large-thinking)
