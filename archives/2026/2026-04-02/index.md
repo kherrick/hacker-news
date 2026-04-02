@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 14:28:52](https://news.ycombinator.com/item?id=47615002) - [Qwen3.6-Plus: Towards Real World Agents](https://qwen.ai/blog?id=qwen3.6)
+* [2026-04-02, 13:18:05](https://news.ycombinator.com/item?id=47614100) - ['Backrooms' and the Rise of the Institutional Gothic](https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/)
 * [2026-04-02, 13:09:09](https://news.ycombinator.com/item?id=47613981) - [LinkedIn Is Illegally Searching Your Computer](https://browsergate.eu/)
 * [2026-04-02, 11:49:01](https://news.ycombinator.com/item?id=47613156) - [ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026](https://old.reddit.com/r/reactos/comments/1sa26yu/back_from_chemnitz_linux_days_2026/)
 * [2026-04-02, 11:40:41](https://news.ycombinator.com/item?id=47613078) - [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket)
 * [2026-04-02, 11:11:56](https://news.ycombinator.com/item?id=47612784) - [A.I. Helped One Man (and His Brother) Build a $1.8B Company](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html)
+* [2026-04-02, 11:11:27](https://news.ycombinator.com/item?id=47612775) - [The SpaceX IPO: retail investor notes](https://report.bearblog.dev/the-spacex-ipo-will-be-the-perfect-storm-of-retail-investor-fallacies/)
 * [2026-04-02, 11:04:51](https://news.ycombinator.com/item?id=47612724) - [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai)
 * [2026-04-02, 10:50:00](https://news.ycombinator.com/item?id=47612601) - [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/)
 * [2026-04-02, 10:42:23](https://news.ycombinator.com/item?id=47612558) - [Enabling Codex to Analyze Two Decades of Hacker News Data](https://modolap.com/publication/hn-analysis-1)
