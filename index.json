@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-02, 17:26:49",
+      "https://news.ycombinator.com/item?id=47617376"
+    ],
+    [
+      "OpenAI Acquires TBPN",
+      "https://openai.com/index/openai-acquires-tbpn/"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 17:00:11",
+      "https://news.ycombinator.com/item?id=47617027"
+    ],
+    [
+      "A forecast of the fair market value of SpaceX's businesses",
+      "https://futuresearch.ai/spacex-ipo-valuation/"
+    ]
+  ],
+  [
+    [
       "2026-04-02, 16:34:39",
       "https://news.ycombinator.com/item?id=47616704"
     ],
@@ -41,12 +61,12 @@
   ],
   [
     [
-      "2026-04-02, 15:29:49",
-      "https://news.ycombinator.com/item?id=47615809"
+      "2026-04-02, 15:35:31",
+      "https://news.ycombinator.com/item?id=47615876"
     ],
     [
-      "Inference Engine for Apple Silicon",
-      "https://github.com/ondeinference/onde"
+      "Even GPT-5.2 Can't Count to Five: Zero-Error Horizons in Trustworthy LLMs",
+      "https://arxiv.org/abs/2601.15714"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=47615002"
     ],
     [
-      "Qwen3.6-Plus: Towards Real World Agents",
+      "Qwen3.6-Plus: Towards real world agents",
       "https://qwen.ai/blog?id=qwen3.6"
     ]
   ],
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=47613981"
     ],
     [
-      "LinkedIn Is Illegally Searching Your Computer",
+      "LinkedIn is illegally searching your computer",
       "https://browsergate.eu/"
     ]
   ],
@@ -127,16 +147,6 @@
     [
       "Inside Nepal's Fake Rescue Racket",
       "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 11:11:27",
-      "https://news.ycombinator.com/item?id=47612775"
-    ],
-    [
-      "The SpaceX IPO: retail investor notes",
-      "https://report.bearblog.dev/the-spacex-ipo-will-be-the-perfect-storm-of-retail-investor-fallacies/"
     ]
   ],
   [
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2026-04-02, 00:24:43",
-      "https://news.ycombinator.com/item?id=47608495"
-    ],
-    [
-      "Quantum computing bombshells that are not April Fools",
-      "https://scottaaronson.blog/?p=9665"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 16:14:38",
-      "https://news.ycombinator.com/item?id=47602832"
-    ],
-    [
-      "EmDash – A spiritual successor to WordPress that solves plugin security",
-      "https://blog.cloudflare.com/emdash-wordpress/"
-    ]
-  ],
-  [
-    [
       "2026-04-01, 04:14:41",
       "https://news.ycombinator.com/item?id=47596739"
     ],
@@ -297,6 +287,16 @@
     [
       "Emacs-libgterm: Terminal emulator for Emacs using libghostty-vt",
       "https://github.com/rwc9u/emacs-libgterm"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 20:37:22",
+      "https://news.ycombinator.com/item?id=47547938"
+    ],
+    [
+      "Quadratic Micropass Type Inference",
+      "https://articles.luminalang.com/a/micropass-inference/"
     ]
   ]
 ]
