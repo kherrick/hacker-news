@@ -36,6 +36,7 @@
 * [2026-03-30, 15:59:01](https://news.ycombinator.com/item?id=47575950) - [Bitwarden Integrates with OneCLI Agent Vault](https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli)
 * [2026-03-30, 15:58:11](https://news.ycombinator.com/item?id=47575935) - [An NSFW Filter for Marginalia Search](https://www.marginalia.nu/log/a_134_nsfw/)
 * [2026-03-30, 15:32:37](https://news.ycombinator.com/item?id=47575616) - [FTC Action Against Match and OkCupid for Deceiving Users, Sharing Personal Data](https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party)
+* [2026-03-30, 15:28:45](https://news.ycombinator.com/item?id=47575557) - [Magic the Gathering Deck Shuffler](https://mtg.jessitron.honeydemo.io/)
 * [2026-03-30, 15:28:32](https://news.ycombinator.com/item?id=47575554) - [An Example of Statistical Investigation of the Text Eugene Onegin – Markov, 1913 [pdf]](https://alpha60.de/research/markov/DavidLink_AnExampleOfStatistical_MarkovTrans_2007.pdf)
 * [2026-03-30, 15:17:51](https://news.ycombinator.com/item?id=47575417) - [Show HN: Coasts – Containerized Hosts for Agents](https://github.com/coast-guard/coasts)
 * [2026-03-30, 15:16:35](https://news.ycombinator.com/item?id=47575403) - [CodingFont: A game to help you pick a coding font](https://www.codingfont.com/)
