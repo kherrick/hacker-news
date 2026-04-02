@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-04-02, 16:34:39",
+      "https://news.ycombinator.com/item?id=47616704"
+    ],
+    [
+      "Modern SQLite: Features You Didn't Know It Had",
+      "https://slicker.me/sqlite/features.htm"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 16:27:23",
+      "https://news.ycombinator.com/item?id=47616622"
+    ],
+    [
+      "EmDash: A Fresh Take on CMS",
+      "https://maciekpalmowski.dev/blog/emdash-a-fresh-take-on-cms/"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 16:10:54",
+      "https://news.ycombinator.com/item?id=47616361"
+    ],
+    [
+      "Google releases Gemma 4 open models",
+      "https://deepmind.google/models/gemma/gemma-4/"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 15:47:17",
+      "https://news.ycombinator.com/item?id=47616050"
+    ],
+    [
+      "Snow melt-off in American west stuns scientists",
+      "https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 15:29:49",
+      "https://news.ycombinator.com/item?id=47615809"
+    ],
+    [
+      "Inference Engine for Apple Silicon",
+      "https://github.com/ondeinference/onde"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 15:26:18",
+      "https://news.ycombinator.com/item?id=47615756"
+    ],
+    [
+      "Renewables reached nearly 50% of global electricity capacity last year",
+      "https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/"
+    ]
+  ],
+  [
+    [
       "2026-04-02, 15:08:45",
       "https://news.ycombinator.com/item?id=47615490"
     ],
@@ -111,16 +171,6 @@
   ],
   [
     [
-      "2026-04-02, 10:07:57",
-      "https://news.ycombinator.com/item?id=47612321"
-    ],
-    [
-      "Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries",
-      "https://github.com/razvandimescu/numa"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 09:14:18",
       "https://news.ycombinator.com/item?id=47611921"
     ],
@@ -161,16 +211,6 @@
   ],
   [
     [
-      "2026-04-02, 04:08:05",
-      "https://news.ycombinator.com/item?id=47609882"
-    ],
-    [
-      "Subscription bombing and how to mitigate it",
-      "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 03:35:33",
       "https://news.ycombinator.com/item?id=47609694"
     ],
@@ -197,36 +237,6 @@
     [
       "Quantum computing bombshells that are not April Fools",
       "https://scottaaronson.blog/?p=9665"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 23:35:02",
-      "https://news.ycombinator.com/item?id=47608058"
-    ],
-    [
-      "A new C++ back end for ocamlc",
-      "https://github.com/ocaml/ocaml/pull/14701"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 21:36:41",
-      "https://news.ycombinator.com/item?id=47606840"
-    ],
-    [
-      "DRAM pricing is killing the hobbyist SBC market",
-      "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 17:11:31",
-      "https://news.ycombinator.com/item?id=47603657"
-    ],
-    [
-      "Artemis II Launch Day Updates",
-      "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/"
     ]
   ],
   [
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2026-03-30, 21:30:04",
-      "https://news.ycombinator.com/item?id=47579942"
+      "2026-03-30, 15:28:32",
+      "https://news.ycombinator.com/item?id=47575554"
     ],
     [
-      "Built a cheap DIY fan controller because my motherboard never had working PWM",
-      "https://www.himthe.dev/blog/msi-forgot-my-fans"
+      "An Example of Statistical Investigation of the Text Eugene Onegin – Markov, 1913 [pdf]",
+      "https://alpha60.de/research/markov/DavidLink_AnExampleOfStatistical_MarkovTrans_2007.pdf"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Emacs-libgterm: Terminal emulator for Emacs using libghostty-vt",
       "https://github.com/rwc9u/emacs-libgterm"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 09:04:29",
-      "https://news.ycombinator.com/item?id=47540441"
-    ],
-    [
-      "Reinventing the Pull Request",
-      "https://lubeno.dev/blog/reinventing-the-pull-request"
     ]
   ]
 ]
