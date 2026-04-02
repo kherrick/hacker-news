@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-02, 10:50:00](https://news.ycombinator.com/item?id=47612601) - [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/)
+* [2026-04-02, 09:14:18](https://news.ycombinator.com/item?id=47611921) - [Significant Raise of Reports](https://lwn.net/Articles/1065620/)
 * [2026-04-02, 09:00:26](https://news.ycombinator.com/item?id=47611809) - [New laws to make it easier to cancel subscriptions and get refunds](https://www.bbc.co.uk/news/articles/cvg0v36ek2go)
 * [2026-04-02, 08:48:44](https://news.ycombinator.com/item?id=47611721) - [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing)
 * [2026-04-02, 08:19:11](https://news.ycombinator.com/item?id=47611481) - [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/)
@@ -14,10 +16,8 @@
 * [2026-04-01, 21:36:41](https://news.ycombinator.com/item?id=47606840) - [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/)
 * [2026-04-01, 21:04:53](https://news.ycombinator.com/item?id=47606560) - [Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)](https://getdull.app)
 * [2026-04-01, 19:52:00](https://news.ycombinator.com/item?id=47605677) - [Signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/)
-* [2026-04-01, 17:49:54](https://news.ycombinator.com/item?id=47604155) - [SpaceX files to go public](https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html)
 * [2026-04-01, 17:17:24](https://news.ycombinator.com/item?id=47603737) - [AI for American-produced cement and concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
 * [2026-04-01, 17:11:31](https://news.ycombinator.com/item?id=47603657) - [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/)
-* [2026-04-01, 16:17:35](https://news.ycombinator.com/item?id=47602879) - [StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)](https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn)
 * [2026-04-01, 16:14:38](https://news.ycombinator.com/item?id=47602832) - [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/)
 * [2026-04-01, 15:01:36](https://news.ycombinator.com/item?id=47601859) - [Ask HN: Who is hiring? (April 2026)](https://news.ycombinator.com/item?id=47601859)
 * [2026-04-01, 04:14:41](https://news.ycombinator.com/item?id=47596739) - [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/)
@@ -27,9 +27,9 @@
 * [2026-03-30, 21:30:04](https://news.ycombinator.com/item?id=47579942) - [Built a cheap DIY fan controller because my motherboard never had working PWM](https://www.himthe.dev/blog/msi-forgot-my-fans)
 * [2026-03-30, 19:23:11](https://news.ycombinator.com/item?id=47578582) - [What Gödel Discovered (2020)](https://stopa.io/post/269)
 * [2026-03-30, 16:09:37](https://news.ycombinator.com/item?id=47576106) - [Reverse Engineering Crazy Taxi, Part 2](https://wretched.computer/post/crazytaxi2)
-* [2026-03-30, 11:59:53](https://news.ycombinator.com/item?id=47573138) - [Set the Line Before It's Crossed](https://nomagicpill.substack.com/p/set-the-line-before-its-crossed)
 * [2026-03-28, 20:32:01](https://news.ycombinator.com/item?id=47557921) - [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect)
 * [2026-03-28, 19:12:37](https://news.ycombinator.com/item?id=47557385) - [The revenge of the data scientist](https://hamel.dev/blog/posts/revenge/)
+* [2026-03-27, 09:04:29](https://news.ycombinator.com/item?id=47540441) - [Reinventing the Pull Request](https://lubeno.dev/blog/reinventing-the-pull-request)
 
 ## [Archives](archives/index.md)
 
