@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-02, 10:50:00",
+      "https://news.ycombinator.com/item?id=47612601"
+    ],
+    [
+      "Sweden goes back to basics, swapping screens for books in the classroom",
+      "https://undark.org/2026/04/01/sweden-schools-books/"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 09:14:18",
+      "https://news.ycombinator.com/item?id=47611921"
+    ],
+    [
+      "Significant Raise of Reports",
+      "https://lwn.net/Articles/1065620/"
+    ]
+  ],
+  [
+    [
       "2026-04-02, 09:00:26",
       "https://news.ycombinator.com/item?id=47611809"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-04-01, 17:49:54",
-      "https://news.ycombinator.com/item?id=47604155"
-    ],
-    [
-      "SpaceX files to go public",
-      "https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html"
-    ]
-  ],
-  [
-    [
       "2026-04-01, 17:17:24",
       "https://news.ycombinator.com/item?id=47603737"
     ],
@@ -167,16 +177,6 @@
     [
       "Artemis II Launch Day Updates",
       "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 16:17:35",
-      "https://news.ycombinator.com/item?id=47602879"
-    ],
-    [
-      "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
-      "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-03-30, 11:59:53",
-      "https://news.ycombinator.com/item?id=47573138"
-    ],
-    [
-      "Set the Line Before It's Crossed",
-      "https://nomagicpill.substack.com/p/set-the-line-before-its-crossed"
-    ]
-  ],
-  [
-    [
       "2026-03-28, 20:32:01",
       "https://news.ycombinator.com/item?id=47557921"
     ],
@@ -297,6 +287,16 @@
     [
       "The revenge of the data scientist",
       "https://hamel.dev/blog/posts/revenge/"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 09:04:29",
+      "https://news.ycombinator.com/item?id=47540441"
+    ],
+    [
+      "Reinventing the Pull Request",
+      "https://lubeno.dev/blog/reinventing-the-pull-request"
     ]
   ]
 ]
