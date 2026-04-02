@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-04-02, 22:29:25",
-      "https://news.ycombinator.com/item?id=47621023"
+      "2026-04-02, 22:32:29",
+      "https://news.ycombinator.com/item?id=47621048"
     ],
     [
-      "The IDE Is Dead. Long Live the ADE",
-      "https://lanes.sh/blog/the-ide-is-dead"
+      "Why Doesn't Anybody Realize We're Going Back to the Moon?",
+      "https://www.theatlantic.com/science/2026/04/artemis-moon-launch-trump/686661/"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2026-04-02, 15:04:44",
-      "https://news.ycombinator.com/item?id=47615449"
-    ],
-    [
-      "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps",
-      "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 14:28:52",
       "https://news.ycombinator.com/item?id=47615002"
     ],
@@ -277,6 +267,16 @@
     [
       "Foxing aspires to be an eBPF-powered replication engine for Linux filesystems",
       "https://codeberg.org/aenertia/foxing"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 14:09:17",
+      "https://news.ycombinator.com/item?id=47574600"
+    ],
+    [
+      "Queueing Requests Queues Your Capacity Problems, Too",
+      "https://pushtoprod.substack.com/p/queueing-requests-queues-your-capacity-problems-too"
     ]
   ],
   [
