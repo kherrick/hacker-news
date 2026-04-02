@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 22:32:29](https://news.ycombinator.com/item?id=47621048) - [Why Doesn't Anybody Realize We're Going Back to the Moon?](https://www.theatlantic.com/science/2026/04/artemis-moon-launch-trump/686661/)
 * [2026-04-02, 22:29:25](https://news.ycombinator.com/item?id=47621023) - [The IDE Is Dead. Long Live the ADE](https://lanes.sh/blog/the-ide-is-dead)
 * [2026-04-02, 22:21:24](https://news.ycombinator.com/item?id=47620933) - [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
 * [2026-04-02, 22:13:03](https://news.ycombinator.com/item?id=47620857) - [ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)](https://paradedb.notion.site/)

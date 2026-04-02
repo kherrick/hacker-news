@@ -48,6 +48,7 @@
 * [2026-03-30, 14:32:36](https://news.ycombinator.com/item?id=47574871) - [Show HN: Zerobox – Sandbox any command with file and network restrictions](https://github.com/afshinm/zerobox)
 * [2026-03-30, 14:30:48](https://news.ycombinator.com/item?id=47574851) - [Foxing aspires to be an eBPF-powered replication engine for Linux filesystems](https://codeberg.org/aenertia/foxing)
 * [2026-03-30, 14:18:47](https://news.ycombinator.com/item?id=47574714) - [BurgerDisk News](https://www.colino.net/wordpress/archives/2026/03/28/burgerdisk-news/)
+* [2026-03-30, 14:09:17](https://news.ycombinator.com/item?id=47574600) - [Queueing Requests Queues Your Capacity Problems, Too](https://pushtoprod.substack.com/p/queueing-requests-queues-your-capacity-problems-too)
 * [2026-03-30, 13:51:31](https://news.ycombinator.com/item?id=47574346) - [The ladder is missing rungs – Engineering Progression When AI Ate the Middle](https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/)
 * [2026-03-30, 13:30:00](https://news.ycombinator.com/item?id=47574045) - [Show HN: Phantom – Open-source AI agent on its own VM that rewrites its config](https://github.com/ghostwright/phantom)
 * [2026-03-30, 13:28:54](https://news.ycombinator.com/item?id=47574034) - [How to Turn Anything into a Router](https://nbailey.ca/post/router/)

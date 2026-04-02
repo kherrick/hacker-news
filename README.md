@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-02, 22:29:25](https://news.ycombinator.com/item?id=47621023) - [The IDE Is Dead. Long Live the ADE](https://lanes.sh/blog/the-ide-is-dead)
+* [2026-04-02, 22:32:29](https://news.ycombinator.com/item?id=47621048) - [Why Doesn't Anybody Realize We're Going Back to the Moon?](https://www.theatlantic.com/science/2026/04/artemis-moon-launch-trump/686661/)
 * [2026-04-02, 22:21:24](https://news.ycombinator.com/item?id=47620933) - [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
 * [2026-04-02, 22:13:03](https://news.ycombinator.com/item?id=47620857) - [ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)](https://paradedb.notion.site/)
 * [2026-04-02, 18:49:38](https://news.ycombinator.com/item?id=47618581) - [Amazon is adding a fuel surcharge to fees it collects from third-party sellers](https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html)
@@ -15,7 +15,6 @@
 * [2026-04-02, 16:00:27](https://news.ycombinator.com/item?id=47616242) - [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
 * [2026-04-02, 15:32:45](https://news.ycombinator.com/item?id=47615844) - [Show HN: A P2P messenger with dual network modes (Fast and Tor)](https://github.com/Realman78/Kiyeovo/)
 * [2026-04-02, 15:08:45](https://news.ycombinator.com/item?id=47615490) - [Artemis computer running two instances of MS outlook; they can't figure out why](https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25)
-* [2026-04-02, 15:04:44](https://news.ycombinator.com/item?id=47615449) - [Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps](https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era)
 * [2026-04-02, 14:28:52](https://news.ycombinator.com/item?id=47615002) - [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6)
 * [2026-04-02, 13:18:05](https://news.ycombinator.com/item?id=47614100) - ['Backrooms' and the Rise of the Institutional Gothic](https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/)
 * [2026-04-02, 13:09:09](https://news.ycombinator.com/item?id=47613981) - [LinkedIn is searching your browser extensions](https://browsergate.eu/)
@@ -28,6 +27,7 @@
 * [2026-03-31, 19:57:05](https://news.ycombinator.com/item?id=47592614) - [Prefer do notation over Applicative operators when assembling records (2024)](https://haskellforall.com/2024/05/prefer-do-notation-over-applicative)
 * [2026-03-30, 15:28:45](https://news.ycombinator.com/item?id=47575557) - [Magic the Gathering Deck Shuffler](https://mtg.jessitron.honeydemo.io/)
 * [2026-03-30, 14:30:48](https://news.ycombinator.com/item?id=47574851) - [Foxing aspires to be an eBPF-powered replication engine for Linux filesystems](https://codeberg.org/aenertia/foxing)
+* [2026-03-30, 14:09:17](https://news.ycombinator.com/item?id=47574600) - [Queueing Requests Queues Your Capacity Problems, Too](https://pushtoprod.substack.com/p/queueing-requests-queues-your-capacity-problems-too)
 * [2026-03-30, 09:38:38](https://news.ycombinator.com/item?id=47572288) - [JSON Canvas Spec (2024)](https://jsoncanvas.org/spec/1.0/)
 * [2026-03-29, 12:53:03](https://news.ycombinator.com/item?id=47562762) - [Significant progress made on Xbox 360 recompilation](https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/)
 
