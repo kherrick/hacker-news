@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-04-02, 20:24:11",
-      "https://news.ycombinator.com/item?id=47619701"
+      "2026-04-02, 21:30:28",
+      "https://news.ycombinator.com/item?id=47620453"
     ],
     [
-      "US Burned 14 Years of Missiles in 30 Days",
-      "https://trendytechtribe.com/energy/us-burned-14-years-missiles-30-days"
+      "Iran Says It Hit Oracle Facilities in UAE",
+      "https://gizmodo.com/iran-says-it-hit-oracle-facilities-in-uae-2000741785"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Amazon to add 3.5% fuel and logistics surcharge as Iran war raises energy prices",
       "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 18:24:12",
+      "https://news.ycombinator.com/item?id=47618221"
+    ],
+    [
+      "Australia to crack down on gambling ads after years of criticism",
+      "https://www.bbc.com/news/articles/c62492e925lo"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-04-02, 15:35:31",
-      "https://news.ycombinator.com/item?id=47615876"
-    ],
-    [
-      "The case for zero-error horizons in trustworthy LLMs",
-      "https://arxiv.org/abs/2601.15714"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 15:32:45",
       "https://news.ycombinator.com/item?id=47615844"
     ],
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2026-04-02, 15:03:08",
-      "https://news.ycombinator.com/item?id=47615434"
-    ],
-    [
-      "Delve allegedly forked an open-source tool and sold it as its own",
-      "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 14:28:52",
       "https://news.ycombinator.com/item?id=47615002"
     ],
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=47613981"
     ],
     [
-      "LinkedIn is illegally searching your computer",
+      "LinkedIn is searching your browser extensions",
       "https://browsergate.eu/"
     ]
   ],
@@ -261,12 +251,32 @@
   ],
   [
     [
+      "2026-04-02, 02:37:12",
+      "https://news.ycombinator.com/item?id=47609356"
+    ],
+    [
+      "Artemis II's toilet is a moon mission milestone",
+      "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/"
+    ]
+  ],
+  [
+    [
       "2026-03-30, 15:28:45",
       "https://news.ycombinator.com/item?id=47575557"
     ],
     [
       "Magic the Gathering Deck Shuffler",
       "https://mtg.jessitron.honeydemo.io/"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 14:30:48",
+      "https://news.ycombinator.com/item?id=47574851"
+    ],
+    [
+      "Foxing aspires to be an eBPF-powered replication engine for Linux filesystems",
+      "https://codeberg.org/aenertia/foxing"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Significant progress made on Xbox 360 recompilation",
       "https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 20:37:22",
-      "https://news.ycombinator.com/item?id=47547938"
-    ],
-    [
-      "Quadratic Micropass Type Inference",
-      "https://articles.luminalang.com/a/micropass-inference/"
     ]
   ]
 ]
