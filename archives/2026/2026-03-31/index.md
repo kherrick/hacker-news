@@ -23,6 +23,7 @@
 * [2026-03-31, 16:27:02](https://news.ycombinator.com/item?id=47589818) - [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe)
 * [2026-03-31, 16:25:43](https://news.ycombinator.com/item?id=47589797) - [Show HN: PhAIL – Real-robot benchmark for AI models](https://phail.ai)
 * [2026-03-31, 16:12:29](https://news.ycombinator.com/item?id=47589567) - [Scotty: A beautiful SSH task runner](https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner)
+* [2026-03-31, 16:11:58](https://news.ycombinator.com/item?id=47589558) - [The story of Britain's oldest sweet, the Pontefract Cake (2019)](https://www.bbc.com/travel/article/20190710-the-strange-story-of-britains-oldest-sweet)
 * [2026-03-31, 16:05:20](https://news.ycombinator.com/item?id=47589451) - [Show HN: Hyprmoncfg – Terminal-based monitor config manager for Hyprland](https://paolino.me/hyprmoncfg-monitor-configuration-for-hyprland/)
 * [2026-03-31, 16:00:29](https://news.ycombinator.com/item?id=47589370) - [Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]](https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf)
 * [2026-03-31, 15:39:45](https://news.ycombinator.com/item?id=47589011) - [Italy blocks US use of Sicily air base for Middle East war](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
