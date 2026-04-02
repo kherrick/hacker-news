@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 22:29:25](https://news.ycombinator.com/item?id=47621023) - [The IDE Is Dead. Long Live the ADE](https://lanes.sh/blog/the-ide-is-dead)
+* [2026-04-02, 22:21:24](https://news.ycombinator.com/item?id=47620933) - [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
 * [2026-04-02, 22:13:03](https://news.ycombinator.com/item?id=47620857) - [ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)](https://paradedb.notion.site/)
 * [2026-04-02, 21:30:28](https://news.ycombinator.com/item?id=47620453) - [Iran Says It Hit Oracle Facilities in UAE](https://gizmodo.com/iran-says-it-hit-oracle-facilities-in-uae-2000741785)
 * [2026-04-02, 20:24:11](https://news.ycombinator.com/item?id=47619701) - [US Burned 14 Years of Missiles in 30 Days](https://trendytechtribe.com/energy/us-burned-14-years-missiles-30-days)
