@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 09:32:13](https://news.ycombinator.com/item?id=47612053) - [I Am Not A Number. In memory of the more than 72,000 Palestinians killed](https://bkhmsi.github.io/i-am-not-a-number/)
+* [2026-04-02, 09:00:26](https://news.ycombinator.com/item?id=47611809) - [New laws to make it easier to cancel subscriptions and get refunds](https://www.bbc.co.uk/news/articles/cvg0v36ek2go)
+* [2026-04-02, 08:48:44](https://news.ycombinator.com/item?id=47611721) - [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing)
 * [2026-04-02, 08:21:35](https://news.ycombinator.com/item?id=47611500) - [Should AI have the right to say 'No' to its owner?](https://github.com/Jang-woo-AnnaSoft/execution-boundaries)
 * [2026-04-02, 08:19:11](https://news.ycombinator.com/item?id=47611481) - [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/)
 * [2026-04-02, 07:17:50](https://news.ycombinator.com/item?id=47611044) - [Telli (YC F24) is hiring engineers, designers, and more [on-site, Berlin]](http://hi.telli.com/join-us)

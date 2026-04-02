@@ -51,6 +51,7 @@
 * [2026-03-31, 05:39:41](https://news.ycombinator.com/item?id=47583151) - [Show HN: Raincast – Describe an app, get a native desktop app (open source)](https://github.com/tihiera/raincast)
 * [2026-03-31, 05:21:59](https://news.ycombinator.com/item?id=47583045) - [Google's 200M-parameter time-series foundation model with 16k context](https://github.com/google-research/timesfm)
 * [2026-03-31, 05:12:35](https://news.ycombinator.com/item?id=47582990) - [Sony halts memory card shipments due to NAND shortage](https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/)
+* [2026-03-31, 05:11:39](https://news.ycombinator.com/item?id=47582987) - [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/)
 * [2026-03-31, 05:11:24](https://news.ycombinator.com/item?id=47582984) - [GitHub backs down, kills Copilot pull-request ads after backlash](https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/)
 * [2026-03-31, 03:43:11](https://news.ycombinator.com/item?id=47582496) - [Show HN: Will AI take my job](https://aijobsreport.org/quiz)
 * [2026-03-31, 03:40:45](https://news.ycombinator.com/item?id=47582482) - [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx)
