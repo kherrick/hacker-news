@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-02, 08:21:35",
+      "https://news.ycombinator.com/item?id=47611500"
+    ],
+    [
+      "Should AI have the right to say 'No' to its owner?",
+      "https://github.com/Jang-woo-AnnaSoft/execution-boundaries"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 08:19:11",
+      "https://news.ycombinator.com/item?id=47611481"
+    ],
+    [
+      "Bringing Clojure programming to Enterprise (2021)",
+      "https://blogit.michelin.io/clojure-programming/"
+    ]
+  ],
+  [
+    [
       "2026-04-02, 07:17:50",
       "https://news.ycombinator.com/item?id=47611044"
     ],
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2026-04-02, 02:15:28",
+      "https://news.ycombinator.com/item?id=47609241"
+    ],
+    [
+      "Trinity Large Thinking",
+      "https://openrouter.ai/arcee-ai/trinity-large-thinking"
+    ]
+  ],
+  [
+    [
       "2026-04-02, 01:48:18",
       "https://news.ycombinator.com/item?id=47609090"
     ],
@@ -97,16 +127,6 @@
     [
       "A new C++ back end for ocamlc",
       "https://github.com/ocaml/ocaml/pull/14701"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 23:22:57",
-      "https://news.ycombinator.com/item?id=47607923"
-    ],
-    [
-      "IPv6 address, as a sentence you can remember",
-      "https://sentence2ipv6.tib3rius.com/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-04-01, 16:17:35",
-      "https://news.ycombinator.com/item?id=47602879"
-    ],
-    [
-      "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
-      "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn"
-    ]
-  ],
-  [
-    [
       "2026-04-01, 16:14:38",
       "https://news.ycombinator.com/item?id=47602832"
     ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2026-03-30, 21:30:04",
+      "https://news.ycombinator.com/item?id=47579942"
+    ],
+    [
+      "Built a cheap DIY fan controller because my motherboard never had working PWM",
+      "https://www.himthe.dev/blog/msi-forgot-my-fans"
+    ]
+  ],
+  [
+    [
       "2026-03-30, 19:23:11",
       "https://news.ycombinator.com/item?id=47578582"
     ],
@@ -247,26 +267,6 @@
     [
       "Reverse Engineering Crazy Taxi, Part 2",
       "https://wretched.computer/post/crazytaxi2"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 14:47:05",
-      "https://news.ycombinator.com/item?id=47575061"
-    ],
-    [
-      "Show HN: QWERTY mini Pro – Why a 2-row, 16-key keyboard works better",
-      "https://k-keyboard.com/Why-2-Row-16-Key-Structure"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 11:59:53",
-      "https://news.ycombinator.com/item?id=47573138"
-    ],
-    [
-      "Set the Line Before It's Crossed",
-      "https://nomagicpill.substack.com/p/set-the-line-before-its-crossed"
     ]
   ],
   [
