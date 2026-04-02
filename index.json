@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-02, 22:29:25",
+      "https://news.ycombinator.com/item?id=47621023"
+    ],
+    [
+      "The IDE Is Dead. Long Live the ADE",
+      "https://lanes.sh/blog/the-ide-is-dead"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 22:21:24",
+      "https://news.ycombinator.com/item?id=47620933"
+    ],
+    [
+      "Memo: A language that remembers only the last 12 lines of code",
+      "https://danieltemkin.com/Esolangs/Memo/"
+    ]
+  ],
+  [
+    [
       "2026-04-02, 22:13:03",
       "https://news.ycombinator.com/item?id=47620857"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=47618221"
     ],
     [
-      "Australia to crack down on gambling ads after years of criticism",
+      "The Australian government has announced gambling advertising reforms",
       "https://www.bbc.com/news/articles/c62492e925lo"
     ]
   ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47618176"
     ],
     [
-      "George Harry Goble has died",
+      "George Goble has died",
       "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "Hugo's New CSS Powers",
       "https://www.brycewray.com/posts/2026/04/hugos-new-css-powers/"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 18:15:19",
-      "https://news.ycombinator.com/item?id=47618100"
-    ],
-    [
-      "Yggdrasil Network",
-      "https://yggdrasil-network.github.io/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Show HN: A P2P messenger with dual network modes (Fast and Tor)",
       "https://github.com/Realman78/Kiyeovo/"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 15:26:18",
-      "https://news.ycombinator.com/item?id=47615756"
-    ],
-    [
-      "Renewables reached nearly 50% of global electricity capacity last year",
-      "https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=47611921"
     ],
     [
-      "Significant Raise of Reports",
+      "Significant raise of reports",
       "https://lwn.net/Articles/1065620/"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=47572288"
     ],
     [
-      "JSON Canvas Spec",
+      "JSON Canvas Spec (2024)",
       "https://jsoncanvas.org/spec/1.0/"
     ]
   ],
