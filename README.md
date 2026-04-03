@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-02, 22:32:29](https://news.ycombinator.com/item?id=47621048) - [Why Doesn't Anybody Realize We're Going Back to the Moon?](https://www.theatlantic.com/science/2026/04/artemis-moon-launch-trump/686661/)
 * [2026-04-02, 22:21:24](https://news.ycombinator.com/item?id=47620933) - [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
 * [2026-04-02, 22:13:03](https://news.ycombinator.com/item?id=47620857) - [ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)](https://paradedb.notion.site/)
 * [2026-04-02, 18:49:38](https://news.ycombinator.com/item?id=47618581) - [Amazon is adding a fuel surcharge to fees it collects from third-party sellers](https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html)
@@ -15,6 +14,7 @@
 * [2026-04-02, 16:00:27](https://news.ycombinator.com/item?id=47616242) - [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
 * [2026-04-02, 15:32:45](https://news.ycombinator.com/item?id=47615844) - [Show HN: A P2P messenger with dual network modes (Fast and Tor)](https://github.com/Realman78/Kiyeovo/)
 * [2026-04-02, 15:08:45](https://news.ycombinator.com/item?id=47615490) - [Artemis computer running two instances of MS outlook; they can't figure out why](https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25)
+* [2026-04-02, 15:04:44](https://news.ycombinator.com/item?id=47615449) - [Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps](https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era)
 * [2026-04-02, 14:28:52](https://news.ycombinator.com/item?id=47615002) - [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6)
 * [2026-04-02, 13:18:05](https://news.ycombinator.com/item?id=47614100) - ['Backrooms' and the Rise of the Institutional Gothic](https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/)
 * [2026-04-02, 13:09:09](https://news.ycombinator.com/item?id=47613981) - [LinkedIn is searching your browser extensions](https://browsergate.eu/)
