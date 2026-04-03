@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-04-03, 17:10:44",
+      "https://news.ycombinator.com/item?id=47629306"
+    ],
+    [
+      "Pharmaceuticals face 100% tariffs in US – unless firms strike a deal",
+      "https://www.bbc.com/news/articles/cx29kke01gpo"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 16:47:46",
+      "https://news.ycombinator.com/item?id=47629013"
+    ],
+    [
+      "Mercurial Dyson – a plan for the disassembly of planet Mercury",
+      "https://github.com/RokoMijic/MercurialDyson/blob/main/written_report.md"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 16:21:32",
+      "https://news.ycombinator.com/item?id=47628608"
+    ],
+    [
+      "If you're running OpenClaw, you probably got hacked in the last week",
+      "https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 15:08:16",
+      "https://news.ycombinator.com/item?id=47627527"
+    ],
+    [
+      "Build your own Dial-up ISP with a Raspberry Pi",
+      "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/"
+    ]
+  ],
+  [
+    [
       "2026-04-03, 14:29:26",
       "https://news.ycombinator.com/item?id=47627061"
     ],
@@ -181,26 +221,6 @@
   ],
   [
     [
-      "2026-04-01, 08:41:49",
-      "https://news.ycombinator.com/item?id=47598413"
-    ],
-    [
-      "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
-      "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 21:43:15",
-      "https://news.ycombinator.com/item?id=47593861"
-    ],
-    [
-      "Maze Algorithms (1997)",
-      "https://www.astrolog.org/labyrnth/algrithm.htm"
-    ]
-  ],
-  [
-    [
       "2026-03-30, 21:18:52",
       "https://news.ycombinator.com/item?id=47579818"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-03-29, 12:53:03",
-      "https://news.ycombinator.com/item?id=47562762"
-    ],
-    [
-      "Significant progress made on Xbox 360 recompilation",
-      "https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/"
-    ]
-  ],
-  [
-    [
       "2026-03-29, 12:07:24",
       "https://news.ycombinator.com/item?id=47562455"
     ],
@@ -257,16 +267,6 @@
     [
       "Show HN: TurboQuant for vector search – 2-4 bit compression",
       "https://github.com/RyanCodrai/py-turboquant"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 10:28:04",
-      "https://news.ycombinator.com/item?id=47561913"
-    ],
-    [
-      "Vector Meson Dominance",
-      "https://johncarlosbaez.wordpress.com/2026/03/29/vector-meson-dominance/"
     ]
   ],
   [
