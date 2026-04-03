@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-04-03, 00:00:19",
-      "https://news.ycombinator.com/item?id=47621792"
-    ],
-    [
-      "Post Mortem: axios NPM supply chain compromise",
-      "https://github.com/axios/axios/issues/10636"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 23:26:01",
       "https://news.ycombinator.com/item?id=47621518"
     ],
@@ -267,6 +257,16 @@
     [
       "Vector Meson Dominance",
       "https://johncarlosbaez.wordpress.com/2026/03/29/vector-meson-dominance/"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 09:39:23",
+      "https://news.ycombinator.com/item?id=47561678"
+    ],
+    [
+      "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
+      "https://www.espressif.com/en/news/ESP32_S31_Release"
     ]
   ],
   [
