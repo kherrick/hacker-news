@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
+* [2026-04-03, 14:15:21](https://news.ycombinator.com/item?id=47626900) - [Grok scored zero on ARC-AGI-3. Every 5-year-old did better](https://aitwerp.com/signals/agi-benchmark-five-year-old-wins/)
+* [2026-04-03, 13:45:02](https://news.ycombinator.com/item?id=47626598) - [Show HN: ctx – an Agentic Development Environment (ADE)](https://ctx.rs)
+* [2026-04-03, 13:28:58](https://news.ycombinator.com/item?id=47626462) - [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)
 * [2026-04-03, 12:33:45](https://news.ycombinator.com/item?id=47625952) - [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/)
 * [2026-04-03, 11:53:32](https://news.ycombinator.com/item?id=47625639) - [TDF ejects its core developers](https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html)
 * [2026-04-03, 11:20:28](https://news.ycombinator.com/item?id=47625385) - [H.264 Streaming Fees: What Changed, Who's Affected, and What It Means](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935)
@@ -12,6 +15,7 @@
 * [2026-04-03, 10:58:51](https://news.ycombinator.com/item?id=47625244) - ['Fatal decision': EU slammed for caving to US pressure on digital rules](https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/)
 * [2026-04-03, 10:40:25](https://news.ycombinator.com/item?id=47625112) - [RiskReady-open-source GRC platform with MCP gateway and human-approved mutations](https://github.com/riskreadyeu/riskready-community)
 * [2026-04-03, 10:01:50](https://news.ycombinator.com/item?id=47624879) - [Switzerland hosts 'CERN of semiconductor research'](https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332)
+* [2026-04-03, 09:52:20](https://news.ycombinator.com/item?id=47624811) - [SSH certificates: the better SSH experience](https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/)
 * [2026-04-03, 09:37:24](https://news.ycombinator.com/item?id=47624741) - [Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/)
 * [2026-04-03, 09:36:33](https://news.ycombinator.com/item?id=47624736) - [NHS staff refusing to use FDP over Palantir ethical concerns](https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272)
 * [2026-04-03, 09:35:16](https://news.ycombinator.com/item?id=47624731) - [April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5)
