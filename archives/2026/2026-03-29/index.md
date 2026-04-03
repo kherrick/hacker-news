@@ -61,6 +61,7 @@
 * [2026-03-29, 10:28:04](https://news.ycombinator.com/item?id=47561913) - [Vector Meson Dominance](https://johncarlosbaez.wordpress.com/2026/03/29/vector-meson-dominance/)
 * [2026-03-29, 10:10:12](https://news.ycombinator.com/item?id=47561819) - [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma)
 * [2026-03-29, 09:46:58](https://news.ycombinator.com/item?id=47561711) - [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/)
+* [2026-03-29, 09:39:23](https://news.ycombinator.com/item?id=47561678) - [ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO](https://www.espressif.com/en/news/ESP32_S31_Release)
 * [2026-03-29, 09:34:20](https://news.ycombinator.com/item?id=47561653) - [What fork() Actually Copies](https://tech.daniellbastos.com.br/posts/what-fork-actually-copies/)
 * [2026-03-29, 09:23:26](https://news.ycombinator.com/item?id=47561606) - [Working on Products People Hate](https://www.seangoedecke.com/working-on-products-people-hate/)
 * [2026-03-29, 08:59:52](https://news.ycombinator.com/item?id=47561496) - [Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown](https://github.com/1st1/lat.md)
