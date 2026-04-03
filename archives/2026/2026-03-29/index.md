@@ -60,6 +60,7 @@
 * [2026-03-29, 11:50:44](https://news.ycombinator.com/item?id=47562342) - [Digitizing photos from the 1998 Game Boy Camera](https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera)
 * [2026-03-29, 11:42:31](https://news.ycombinator.com/item?id=47562288) - [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io)
 * [2026-03-29, 11:25:18](https://news.ycombinator.com/item?id=47562214) - [Free stuff makes us irrational](https://thehustle.co/why-free-stuff-makes-us-irrational)
+* [2026-03-29, 11:10:44](https://news.ycombinator.com/item?id=47562135) - [Show HN: TurboQuant for vector search – 2-4 bit compression](https://github.com/RyanCodrai/py-turboquant)
 * [2026-03-29, 10:28:04](https://news.ycombinator.com/item?id=47561913) - [Vector Meson Dominance](https://johncarlosbaez.wordpress.com/2026/03/29/vector-meson-dominance/)
 * [2026-03-29, 10:10:12](https://news.ycombinator.com/item?id=47561819) - [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma)
 * [2026-03-29, 09:46:58](https://news.ycombinator.com/item?id=47561711) - [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/)
