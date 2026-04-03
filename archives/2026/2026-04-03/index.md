@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
+* [2026-04-03, 17:10:44](https://news.ycombinator.com/item?id=47629306) - [Pharmaceuticals face 100% tariffs in US – unless firms strike a deal](https://www.bbc.com/news/articles/cx29kke01gpo)
+* [2026-04-03, 16:47:46](https://news.ycombinator.com/item?id=47629013) - [Mercurial Dyson – a plan for the disassembly of planet Mercury](https://github.com/RokoMijic/MercurialDyson/blob/main/written_report.md)
+* [2026-04-03, 16:21:32](https://news.ycombinator.com/item?id=47628608) - [If you're running OpenClaw, you probably got hacked in the last week](https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/)
+* [2026-04-03, 15:08:16](https://news.ycombinator.com/item?id=47627527) - [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/)
 * [2026-04-03, 14:45:31](https://news.ycombinator.com/item?id=47627255) - [I prefer OG style websites – what are yours?](https://news.ycombinator.com/item?id=47627255)
 * [2026-04-03, 14:40:12](https://news.ycombinator.com/item?id=47627182) - [U.S. fighter jet shot down in Iran, search underway for crew](https://www.axios.com/2026/04/03/iran-us-fighter-shot-down)
 * [2026-04-03, 14:29:26](https://news.ycombinator.com/item?id=47627061) - [Solar and batteries can power the world](https://nworbmot.org/blog/solar-battery-world.html)
