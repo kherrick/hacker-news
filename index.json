@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-03, 14:15:21",
+      "https://news.ycombinator.com/item?id=47626900"
+    ],
+    [
+      "Grok scored zero on ARC-AGI-3. Every 5-year-old did better",
+      "https://aitwerp.com/signals/agi-benchmark-five-year-old-wins/"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 13:45:02",
+      "https://news.ycombinator.com/item?id=47626598"
+    ],
+    [
+      "Show HN: ctx – an Agentic Development Environment (ADE)",
+      "https://ctx.rs"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 13:28:58",
+      "https://news.ycombinator.com/item?id=47626462"
+    ],
+    [
+      "Big-Endian Testing with QEMU",
+      "https://www.hanshq.net/big-endian-qemu.html"
+    ]
+  ],
+  [
+    [
       "2026-04-03, 12:33:45",
       "https://news.ycombinator.com/item?id=47625952"
     ],
@@ -21,16 +51,6 @@
   ],
   [
     [
-      "2026-04-03, 11:18:10",
-      "https://news.ycombinator.com/item?id=47625366"
-    ],
-    [
-      "United States Code (federal laws) in Git",
-      "https://github.com/nickvido/us-code"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 11:09:58",
       "https://news.ycombinator.com/item?id=47625311"
     ],
@@ -47,6 +67,16 @@
     [
       "Critics say EU risks ceding control of its tech laws under U.S. pressure",
       "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 09:52:20",
+      "https://news.ycombinator.com/item?id=47624811"
+    ],
+    [
+      "SSH certificates: the better SSH experience",
+      "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Show HN: Apfel – The free AI already on your Mac",
       "https://apfel.franzai.com"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 08:59:45",
-      "https://news.ycombinator.com/item?id=47624558"
-    ],
-    [
-      "Proton meet isn't what they told you it was",
-      "https://www.sambent.com/proton-meet-isnt-what-they-told-you/"
     ]
   ],
   [
@@ -201,12 +221,12 @@
   ],
   [
     [
-      "2026-03-31, 21:43:15",
-      "https://news.ycombinator.com/item?id=47593861"
+      "2026-03-30, 21:18:52",
+      "https://news.ycombinator.com/item?id=47579818"
     ],
     [
-      "Maze Algorithms (1997)",
-      "https://www.astrolog.org/labyrnth/algrithm.htm"
+      "What we learned building 100 API integrations with OpenCode",
+      "https://nango.dev/blog/learned-building-200-api-integrations-with-opencode/"
     ]
   ],
   [
@@ -227,16 +247,6 @@
     [
       "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
       "https://chalmovsky.com/2026/03/29/samsung-magician.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 12:53:03",
-      "https://news.ycombinator.com/item?id=47562762"
-    ],
-    [
-      "Significant progress made on Xbox 360 recompilation",
-      "https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A Recipe for Steganogravy",
       "https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 06:56:04",
-      "https://news.ycombinator.com/item?id=47560959"
-    ],
-    [
-      "Show HN: Home Maker: Declare Your Dev Tools in a Makefile",
-      "https://thottingal.in/blog/2026/03/29/home-maker/"
     ]
   ]
 ]
