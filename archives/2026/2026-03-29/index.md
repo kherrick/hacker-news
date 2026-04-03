@@ -58,6 +58,7 @@
 * [2026-03-29, 12:24:56](https://news.ycombinator.com/item?id=47562589) - [The Cloud: The dystopian book that changed Germany (2022)](https://www.bbc.com/culture/article/20221101-the-cloud-the-nuclear-novel-that-shaped-germany)
 * [2026-03-29, 12:07:24](https://news.ycombinator.com/item?id=47562455) - [The True Shape of Io's Steeple Mountain](https://www.weareinquisitive.com/news/hidden-in-the-shadow)
 * [2026-03-29, 11:50:44](https://news.ycombinator.com/item?id=47562342) - [Digitizing photos from the 1998 Game Boy Camera](https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera)
+* [2026-03-29, 11:48:41](https://news.ycombinator.com/item?id=47562325) - [Understanding young news audiences at a time of rapid change](https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change)
 * [2026-03-29, 11:42:31](https://news.ycombinator.com/item?id=47562288) - [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io)
 * [2026-03-29, 11:25:18](https://news.ycombinator.com/item?id=47562214) - [Free stuff makes us irrational](https://thehustle.co/why-free-stuff-makes-us-irrational)
 * [2026-03-29, 11:10:44](https://news.ycombinator.com/item?id=47562135) - [Show HN: TurboQuant for vector search – 2-4 bit compression](https://github.com/RyanCodrai/py-turboquant)

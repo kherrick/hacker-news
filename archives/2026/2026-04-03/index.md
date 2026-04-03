@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
+* [2026-04-03, 17:42:32](https://news.ycombinator.com/item?id=47629676) - [Have mental health labels like ADHD and autism gone too far?](https://www.telegraph.co.uk/health-fitness/wellbeing/mental-health/autism-adhd-rates-mental-health-labels/)
+* [2026-04-03, 17:22:20](https://news.ycombinator.com/item?id=47629433) - [iNaturalist](https://www.inaturalist.org/)
 * [2026-04-03, 17:10:44](https://news.ycombinator.com/item?id=47629306) - [Pharmaceuticals face 100% tariffs in US – unless firms strike a deal](https://www.bbc.com/news/articles/cx29kke01gpo)
+* [2026-04-03, 16:57:09](https://news.ycombinator.com/item?id=47629116) - [Go on Embedded Systems and WebAssembly](https://tinygo.org/)
 * [2026-04-03, 16:47:46](https://news.ycombinator.com/item?id=47629013) - [Mercurial Dyson – a plan for the disassembly of planet Mercury](https://github.com/RokoMijic/MercurialDyson/blob/main/written_report.md)
 * [2026-04-03, 16:21:32](https://news.ycombinator.com/item?id=47628608) - [If you're running OpenClaw, you probably got hacked in the last week](https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/)
 * [2026-04-03, 15:08:16](https://news.ycombinator.com/item?id=47627527) - [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/)
@@ -33,5 +36,6 @@
 * [2026-04-03, 08:15:12](https://news.ycombinator.com/item?id=47624317) - [New Rowhammer attacks give complete control of machines running Nvidia GPUs](https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/)
 * [2026-04-03, 04:09:50](https://news.ycombinator.com/item?id=47623101) - [A Rave Review of Superpowers (For Claude Code)](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/)
 * [2026-04-03, 04:00:56](https://news.ycombinator.com/item?id=47623053) - [Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)](https://mehuleo.github.io/encircle/)
+* [2026-04-03, 02:29:22](https://news.ycombinator.com/item?id=47622616) - [The Technocracy Movement of the 1930s](https://donotresearch.substack.com/p/welcome-to-the-technocracy)
 * [2026-04-03, 02:05:20](https://news.ycombinator.com/item?id=47622490) - [The open web isn't dying. We're killing it](https://ouvre-boite.com/the-open-web-isnt-dying-were-killing-it/)
 * [2026-04-03, 00:00:19](https://news.ycombinator.com/item?id=47621792) - [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)

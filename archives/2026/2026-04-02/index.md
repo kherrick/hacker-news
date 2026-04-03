@@ -17,6 +17,7 @@
 * [2026-04-02, 18:50:45](https://news.ycombinator.com/item?id=47618602) - [Zep AI Is Hiring – Building the Agent Context Layer (YC W24)](https://www.ycombinator.com/companies/zep-ai/jobs)
 * [2026-04-02, 18:49:38](https://news.ycombinator.com/item?id=47618581) - [Amazon to add 3.5% fuel and logistics surcharge as Iran war raises energy prices](https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html)
 * [2026-04-02, 18:31:12](https://news.ycombinator.com/item?id=47618324) - [Ask HN: European Tech Alternatives?](https://news.ycombinator.com/item?id=47618324)
+* [2026-04-02, 18:24:29](https://news.ycombinator.com/item?id=47618223) - [We replaced RAG with a virtual filesystem for our AI documentation assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
 * [2026-04-02, 18:24:12](https://news.ycombinator.com/item?id=47618221) - [Australia to crack down on gambling ads after years of criticism](https://www.bbc.com/news/articles/c62492e925lo)
 * [2026-04-02, 18:22:03](https://news.ycombinator.com/item?id=47618189) - [Tailscale's New macOS Home](https://tailscale.com/blog/macos-notch-escape)
 * [2026-04-02, 18:21:08](https://news.ycombinator.com/item?id=47618176) - [George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
