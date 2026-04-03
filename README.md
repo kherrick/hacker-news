@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-03, 21:46:26](https://news.ycombinator.com/item?id=47632750) - [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos)
 * [2026-04-03, 21:25:55](https://news.ycombinator.com/item?id=47632503) - [Iran Strikes Leave Amazon Availability Zones \"Hard Down\" in Bahrain and Dubai](https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability)
 * [2026-04-03, 21:21:13](https://news.ycombinator.com/item?id=47632460) - [Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers](https://jobs.ashbyhq.com/charge-robotics)
 * [2026-04-03, 20:21:23](https://news.ycombinator.com/item?id=47631732) - [Oracle Files H-1B Visa Petitions Amid Mass Layoffs](https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/)
@@ -15,7 +16,6 @@
 * [2026-04-03, 16:57:09](https://news.ycombinator.com/item?id=47629116) - [Go on Embedded Systems and WebAssembly](https://tinygo.org/)
 * [2026-04-03, 16:00:44](https://news.ycombinator.com/item?id=47628326) - [F-15E jet shot down over Iran](https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran)
 * [2026-04-03, 15:08:16](https://news.ycombinator.com/item?id=47627527) - [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/)
-* [2026-04-03, 13:28:58](https://news.ycombinator.com/item?id=47626462) - [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)
 * [2026-04-03, 12:33:45](https://news.ycombinator.com/item?id=47625952) - [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/)
 * [2026-04-03, 09:52:20](https://news.ycombinator.com/item?id=47624811) - [SSH certificates: the better SSH experience](https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/)
 * [2026-04-03, 09:49:41](https://news.ycombinator.com/item?id=47624804) - [Category Theory Illustrated – Types](https://abuseofnotation.github.io/category-theory-illustrated/06_type/)
