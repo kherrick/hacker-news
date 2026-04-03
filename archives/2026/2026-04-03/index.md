@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
+* [2026-04-03, 14:45:31](https://news.ycombinator.com/item?id=47627255) - [I prefer OG style websites – what are yours?](https://news.ycombinator.com/item?id=47627255)
+* [2026-04-03, 14:40:12](https://news.ycombinator.com/item?id=47627182) - [U.S. fighter jet shot down in Iran, search underway for crew](https://www.axios.com/2026/04/03/iran-us-fighter-shot-down)
+* [2026-04-03, 14:29:26](https://news.ycombinator.com/item?id=47627061) - [Solar and batteries can power the world](https://nworbmot.org/blog/solar-battery-world.html)
+* [2026-04-03, 14:29:12](https://news.ycombinator.com/item?id=47627056) - [Marc Andreessen is wrong about introspection](https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/)
 * [2026-04-03, 14:15:21](https://news.ycombinator.com/item?id=47626900) - [Grok scored zero on ARC-AGI-3. Every 5-year-old did better](https://aitwerp.com/signals/agi-benchmark-five-year-old-wins/)
 * [2026-04-03, 13:45:02](https://news.ycombinator.com/item?id=47626598) - [Show HN: ctx – an Agentic Development Environment (ADE)](https://ctx.rs)
 * [2026-04-03, 13:28:58](https://news.ycombinator.com/item?id=47626462) - [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)
@@ -16,6 +20,7 @@
 * [2026-04-03, 10:40:25](https://news.ycombinator.com/item?id=47625112) - [RiskReady-open-source GRC platform with MCP gateway and human-approved mutations](https://github.com/riskreadyeu/riskready-community)
 * [2026-04-03, 10:01:50](https://news.ycombinator.com/item?id=47624879) - [Switzerland hosts 'CERN of semiconductor research'](https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332)
 * [2026-04-03, 09:52:20](https://news.ycombinator.com/item?id=47624811) - [SSH certificates: the better SSH experience](https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/)
+* [2026-04-03, 09:49:41](https://news.ycombinator.com/item?id=47624804) - [Category Theory Illustrated – Types](https://abuseofnotation.github.io/category-theory-illustrated/06_type/)
 * [2026-04-03, 09:37:24](https://news.ycombinator.com/item?id=47624741) - [Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/)
 * [2026-04-03, 09:36:33](https://news.ycombinator.com/item?id=47624736) - [NHS staff refusing to use FDP over Palantir ethical concerns](https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272)
 * [2026-04-03, 09:35:16](https://news.ycombinator.com/item?id=47624731) - [April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5)
