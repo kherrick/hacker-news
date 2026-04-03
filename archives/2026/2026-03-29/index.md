@@ -56,6 +56,7 @@
 * [2026-03-29, 13:25:16](https://news.ycombinator.com/item?id=47562961) - [Chess in SQL](https://www.dbpro.app/blog/chess-in-pure-sql)
 * [2026-03-29, 12:53:03](https://news.ycombinator.com/item?id=47562762) - [Significant progress made on Xbox 360 recompilation](https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/)
 * [2026-03-29, 12:24:56](https://news.ycombinator.com/item?id=47562589) - [The Cloud: The dystopian book that changed Germany (2022)](https://www.bbc.com/culture/article/20221101-the-cloud-the-nuclear-novel-that-shaped-germany)
+* [2026-03-29, 12:08:24](https://news.ycombinator.com/item?id=47562462) - [A School District Tried to Help Train Waymos to Stop for School Buses](https://www.wired.com/story/a-school-district-tried-to-help-train-waymos-to-stop-for-school-buses-it-didnt-work/)
 * [2026-03-29, 12:07:24](https://news.ycombinator.com/item?id=47562455) - [The True Shape of Io's Steeple Mountain](https://www.weareinquisitive.com/news/hidden-in-the-shadow)
 * [2026-03-29, 11:50:44](https://news.ycombinator.com/item?id=47562342) - [Digitizing photos from the 1998 Game Boy Camera](https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera)
 * [2026-03-29, 11:48:41](https://news.ycombinator.com/item?id=47562325) - [Understanding young news audiences at a time of rapid change](https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change)

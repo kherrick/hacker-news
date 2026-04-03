@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
+* [2026-04-03, 18:20:16](https://news.ycombinator.com/item?id=47630109) - [Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M](https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million)
+* [2026-04-03, 18:03:34](https://news.ycombinator.com/item?id=47629905) - [Show HN: An evidence-rated encyclopedia of peptides](https://www.whatthepeptide.org/)
 * [2026-04-03, 17:42:32](https://news.ycombinator.com/item?id=47629676) - [Have mental health labels like ADHD and autism gone too far?](https://www.telegraph.co.uk/health-fitness/wellbeing/mental-health/autism-adhd-rates-mental-health-labels/)
+* [2026-04-03, 17:29:21](https://news.ycombinator.com/item?id=47629505) - [Solana Drift Protocol drained of $285M via fake token and governance hijack](https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/)
 * [2026-04-03, 17:22:20](https://news.ycombinator.com/item?id=47629433) - [iNaturalist](https://www.inaturalist.org/)
 * [2026-04-03, 17:10:44](https://news.ycombinator.com/item?id=47629306) - [Pharmaceuticals face 100% tariffs in US – unless firms strike a deal](https://www.bbc.com/news/articles/cx29kke01gpo)
 * [2026-04-03, 16:57:09](https://news.ycombinator.com/item?id=47629116) - [Go on Embedded Systems and WebAssembly](https://tinygo.org/)
 * [2026-04-03, 16:47:46](https://news.ycombinator.com/item?id=47629013) - [Mercurial Dyson – a plan for the disassembly of planet Mercury](https://github.com/RokoMijic/MercurialDyson/blob/main/written_report.md)
 * [2026-04-03, 16:21:32](https://news.ycombinator.com/item?id=47628608) - [If you're running OpenClaw, you probably got hacked in the last week](https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/)
+* [2026-04-03, 16:00:44](https://news.ycombinator.com/item?id=47628326) - [F-15E jet shot down over Iran](https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran)
 * [2026-04-03, 15:08:16](https://news.ycombinator.com/item?id=47627527) - [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/)
 * [2026-04-03, 14:45:31](https://news.ycombinator.com/item?id=47627255) - [I prefer OG style websites – what are yours?](https://news.ycombinator.com/item?id=47627255)
 * [2026-04-03, 14:40:12](https://news.ycombinator.com/item?id=47627182) - [U.S. fighter jet shot down in Iran, search underway for crew](https://www.axios.com/2026/04/03/iran-us-fighter-shot-down)
