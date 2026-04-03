@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-04-03, 14:45:31",
-      "https://news.ycombinator.com/item?id=47627255"
-    ],
-    [
-      "I prefer OG style websites – what are yours?",
-      "https://news.ycombinator.com/item?id=47627255"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 14:29:26",
       "https://news.ycombinator.com/item?id=47627061"
     ],
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2026-04-03, 08:15:12",
-      "https://news.ycombinator.com/item?id=47624317"
-    ],
-    [
-      "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-      "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 18:22:03",
       "https://news.ycombinator.com/item?id=47618189"
     ],
@@ -211,12 +191,12 @@
   ],
   [
     [
-      "2026-04-01, 05:28:59",
-      "https://news.ycombinator.com/item?id=47597159"
+      "2026-03-31, 21:43:15",
+      "https://news.ycombinator.com/item?id=47593861"
     ],
     [
-      "Improving my focus by giving up my big monitor",
-      "https://ounapuu.ee/posts/2026/04/01/focus/"
+      "Maze Algorithms (1997)",
+      "https://www.astrolog.org/labyrnth/algrithm.htm"
     ]
   ],
   [
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2026-03-29, 12:53:03",
+      "https://news.ycombinator.com/item?id=47562762"
+    ],
+    [
+      "Significant progress made on Xbox 360 recompilation",
+      "https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 12:07:24",
       "https://news.ycombinator.com/item?id=47562455"
     ],
     [
       "The True Shape of Io's Steeple Mountain",
       "https://www.weareinquisitive.com/news/hidden-in-the-shadow"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 11:10:44",
+      "https://news.ycombinator.com/item?id=47562135"
+    ],
+    [
+      "Show HN: TurboQuant for vector search – 2-4 bit compression",
+      "https://github.com/RyanCodrai/py-turboquant"
     ]
   ],
   [
