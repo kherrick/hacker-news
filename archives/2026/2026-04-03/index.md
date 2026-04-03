@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
 * [2026-04-03, 11:20:28](https://news.ycombinator.com/item?id=47625385) - [H.264 Streaming Fees: What Changed, Who's Affected, and What It Means](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935)
+* [2026-04-03, 11:09:58](https://news.ycombinator.com/item?id=47625311) - [Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux](https://github.com/oven-sh/bun/pull/28801)
 * [2026-04-03, 10:58:51](https://news.ycombinator.com/item?id=47625244) - ['Fatal decision': EU slammed for caving to US pressure on digital rules](https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/)
+* [2026-04-03, 10:40:25](https://news.ycombinator.com/item?id=47625112) - [RiskReady-open-source GRC platform with MCP gateway and human-approved mutations](https://github.com/riskreadyeu/riskready-community)
 * [2026-04-03, 10:01:50](https://news.ycombinator.com/item?id=47624879) - [Switzerland hosts 'CERN of semiconductor research'](https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332)
 * [2026-04-03, 09:37:24](https://news.ycombinator.com/item?id=47624741) - [Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/)
 * [2026-04-03, 09:36:33](https://news.ycombinator.com/item?id=47624736) - [NHS staff refusing to use FDP over Palantir ethical concerns](https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272)
