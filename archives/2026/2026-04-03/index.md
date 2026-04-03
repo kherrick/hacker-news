@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
+* [2026-04-03, 10:01:50](https://news.ycombinator.com/item?id=47624879) - [Switzerland hosts 'CERN of semiconductor research'](https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332)
+* [2026-04-03, 09:37:24](https://news.ycombinator.com/item?id=47624741) - [Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/)
+* [2026-04-03, 09:36:33](https://news.ycombinator.com/item?id=47624736) - [NHS staff refusing to use FDP over Palantir ethical concerns](https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272)
+* [2026-04-03, 09:35:16](https://news.ycombinator.com/item?id=47624731) - [April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5)
+* [2026-04-03, 09:15:34](https://news.ycombinator.com/item?id=47624645) - [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com)
 * [2026-04-03, 08:59:45](https://news.ycombinator.com/item?id=47624558) - [Proton Meet Isn't What They Told You It Was](https://www.sambent.com/proton-meet-isnt-what-they-told-you/)
 * [2026-04-03, 08:15:12](https://news.ycombinator.com/item?id=47624317) - [New Rowhammer attacks give complete control of machines running Nvidia GPUs](https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/)
 * [2026-04-03, 04:09:50](https://news.ycombinator.com/item?id=47623101) - [A Rave Review of Superpowers (For Claude Code)](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/)
