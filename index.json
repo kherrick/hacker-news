@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2026-04-03, 11:09:58",
+      "https://news.ycombinator.com/item?id=47625311"
+    ],
+    [
+      "Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux",
+      "https://github.com/oven-sh/bun/pull/28801"
+    ]
+  ],
+  [
+    [
       "2026-04-03, 10:58:51",
       "https://news.ycombinator.com/item?id=47625244"
     ],
     [
       "'Fatal decision': EU slammed for caving to US pressure on digital rules",
       "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 10:40:25",
+      "https://news.ycombinator.com/item?id=47625112"
+    ],
+    [
+      "RiskReady-open-source GRC platform with MCP gateway and human-approved mutations",
+      "https://github.com/riskreadyeu/riskready-community"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-04-02, 18:21:08",
-      "https://news.ycombinator.com/item?id=47618176"
-    ],
-    [
-      "George Goble has died",
-      "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 18:13:41",
       "https://news.ycombinator.com/item?id=47618084"
     ],
@@ -137,16 +147,6 @@
     [
       "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
       "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 17:26:49",
-      "https://news.ycombinator.com/item?id=47617376"
-    ],
-    [
-      "OpenAI Acquires TBPN",
-      "https://openai.com/index/openai-acquires-tbpn/"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-03-30, 09:38:38",
-      "https://news.ycombinator.com/item?id=47572288"
+      "2026-03-29, 20:55:46",
+      "https://news.ycombinator.com/item?id=47567222"
     ],
     [
-      "JSON Canvas Spec (2024)",
-      "https://jsoncanvas.org/spec/1.0/"
+      "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+      "https://chalmovsky.com/2026/03/29/samsung-magician.html"
     ]
   ],
   [
