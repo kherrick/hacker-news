@@ -32,6 +32,7 @@
 * [2026-03-29, 17:38:43](https://news.ycombinator.com/item?id=47565307) - [Windows 95 defenses against installers that overwrite a file with an older one](https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159)
 * [2026-03-29, 17:34:20](https://news.ycombinator.com/item?id=47565264) - [Netscape News Feed Straight Out of the Late 00s](https://isp.netscape.com/)
 * [2026-03-29, 17:14:59](https://news.ycombinator.com/item?id=47565075) - [First Western Digital, now Sony: The tech giant suspends SD card sales](https://mashable.com/article/sony-sd-card-sales-suspended-memory-shortage)
+* [2026-03-29, 16:37:29](https://news.ycombinator.com/item?id=47564699) - [Researchers uncover 2k-year-old bullet inscribed with ominous message](https://www.gbnews.com/science/archaeology-breakthrough-researchers-uncover-2000-year-old-bullet-ominous-message)
 * [2026-03-29, 16:26:55](https://news.ycombinator.com/item?id=47564579) - [The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history](https://www.righto.com/2026/03/ibm-4-pi-computer-history.html)
 * [2026-03-29, 16:17:30](https://news.ycombinator.com/item?id=47564469) - [The bot situation on the internet is worse than you could imagine](https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why)
 * [2026-03-29, 16:12:22](https://news.ycombinator.com/item?id=47564421) - [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/)
