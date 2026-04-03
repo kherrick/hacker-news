@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
+* [2026-04-03, 19:17:28](https://news.ycombinator.com/item?id=47630893) - [Age Verification on Systemd and Flatpak](https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/)
+* [2026-04-03, 18:55:12](https://news.ycombinator.com/item?id=47630592) - [Async Python Is Secretly Deterministic](https://www.dbos.dev/blog/async-python-is-secretly-deterministic)
+* [2026-04-03, 18:54:11](https://news.ycombinator.com/item?id=47630576) - [How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)](https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/)
+* [2026-04-03, 18:22:07](https://news.ycombinator.com/item?id=47630136) - [Update on the eBay Scam](https://kevquirk.com/update-on-the-ebay-scam)
 * [2026-04-03, 18:20:16](https://news.ycombinator.com/item?id=47630109) - [Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M](https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million)
 * [2026-04-03, 18:03:34](https://news.ycombinator.com/item?id=47629905) - [Show HN: An evidence-rated encyclopedia of peptides](https://www.whatthepeptide.org/)
 * [2026-04-03, 17:42:32](https://news.ycombinator.com/item?id=47629676) - [Have mental health labels like ADHD and autism gone too far?](https://www.telegraph.co.uk/health-fitness/wellbeing/mental-health/autism-adhd-rates-mental-health-labels/)
