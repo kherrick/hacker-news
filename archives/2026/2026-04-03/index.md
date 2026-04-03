@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
+* [2026-04-03, 20:37:17](https://news.ycombinator.com/item?id=47631929) - [Show HN: We're building an AI hedge fund](https://rallies.ai/arena)
+* [2026-04-03, 20:21:23](https://news.ycombinator.com/item?id=47631732) - [Oracle Files H-1B Visa Petitions Amid Mass Layoffs](https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/)
+* [2026-04-03, 20:13:50](https://news.ycombinator.com/item?id=47631648) - [Automatic Textbook Formalization](https://github.com/facebookresearch/repoprover)
+* [2026-04-03, 19:35:02](https://news.ycombinator.com/item?id=47631118) - [Artemis II crew take 'spectacular' image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
+* [2026-04-03, 19:28:06](https://news.ycombinator.com/item?id=47631030) - [Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment](https://ismcpdead.com)
+* [2026-04-03, 19:26:20](https://news.ycombinator.com/item?id=47631011) - [PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free](https://injecguard.github.io/)
 * [2026-04-03, 19:17:28](https://news.ycombinator.com/item?id=47630893) - [Age Verification on Systemd and Flatpak](https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/)
 * [2026-04-03, 18:55:12](https://news.ycombinator.com/item?id=47630592) - [Async Python Is Secretly Deterministic](https://www.dbos.dev/blog/async-python-is-secretly-deterministic)
 * [2026-04-03, 18:54:11](https://news.ycombinator.com/item?id=47630576) - [How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)](https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/)
