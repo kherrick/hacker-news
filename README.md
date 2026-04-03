@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-03, 11:20:28](https://news.ycombinator.com/item?id=47625385) - [H.264 Streaming Fees: What Changed, Who's Affected, and What It Means](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935)
+* [2026-04-03, 10:58:51](https://news.ycombinator.com/item?id=47625244) - ['Fatal decision': EU slammed for caving to US pressure on digital rules](https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/)
 * [2026-04-03, 10:01:50](https://news.ycombinator.com/item?id=47624879) - [Switzerland hosts 'CERN of semiconductor research'](https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332)
 * [2026-04-03, 09:37:24](https://news.ycombinator.com/item?id=47624741) - [Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/)
 * [2026-04-03, 09:36:33](https://news.ycombinator.com/item?id=47624736) - [NHS staff refusing to use FDP over Palantir ethical concerns](https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272)
@@ -17,19 +19,17 @@
 * [2026-04-02, 16:00:27](https://news.ycombinator.com/item?id=47616242) - [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
 * [2026-04-02, 14:28:52](https://news.ycombinator.com/item?id=47615002) - [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6)
 * [2026-04-02, 13:09:09](https://news.ycombinator.com/item?id=47613981) - [LinkedIn is searching your browser extensions](https://browsergate.eu/)
-* [2026-04-02, 11:40:41](https://news.ycombinator.com/item?id=47613078) - [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket)
 * [2026-04-02, 02:37:12](https://news.ycombinator.com/item?id=47609356) - [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/)
 * [2026-04-01, 08:41:49](https://news.ycombinator.com/item?id=47598413) - [C89cc.sh – standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19)
 * [2026-03-31, 21:43:15](https://news.ycombinator.com/item?id=47593861) - [Maze Algorithms (1997)](https://www.astrolog.org/labyrnth/algrithm.htm)
+* [2026-03-30, 13:00:09](https://news.ycombinator.com/item?id=47573728) - [Intel Assured Supply Chain Product Brief](https://www.intel.com/content/www/us/en/content-details/850997/intel-assured-supply-chain-product-brief.html)
 * [2026-03-30, 09:38:38](https://news.ycombinator.com/item?id=47572288) - [JSON Canvas Spec (2024)](https://jsoncanvas.org/spec/1.0/)
 * [2026-03-29, 12:53:03](https://news.ycombinator.com/item?id=47562762) - [Significant progress made on Xbox 360 recompilation](https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/)
 * [2026-03-29, 12:07:24](https://news.ycombinator.com/item?id=47562455) - [The True Shape of Io's Steeple Mountain](https://www.weareinquisitive.com/news/hidden-in-the-shadow)
 * [2026-03-29, 10:28:04](https://news.ycombinator.com/item?id=47561913) - [Vector Meson Dominance](https://johncarlosbaez.wordpress.com/2026/03/29/vector-meson-dominance/)
 * [2026-03-29, 09:39:23](https://news.ycombinator.com/item?id=47561678) - [ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO](https://www.espressif.com/en/news/ESP32_S31_Release)
-* [2026-03-29, 09:23:26](https://news.ycombinator.com/item?id=47561606) - [Working on Products People Hate](https://www.seangoedecke.com/working-on-products-people-hate/)
 * [2026-03-29, 08:44:25](https://news.ycombinator.com/item?id=47561426) - [What Category Theory Teaches Us About DataFrames](https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/)
 * [2026-03-29, 06:56:04](https://news.ycombinator.com/item?id=47560959) - [Show HN: Home Maker: Declare Your Dev Tools in a Makefile](https://thottingal.in/blog/2026/03/29/home-maker/)
-* [2026-03-28, 05:13:42](https://news.ycombinator.com/item?id=47551847) - [The Joy of Numbered Streets](https://humantransit.org/2026/03/the-joy-of-numbered-streets-or-call-it-39th-avenue.html)
 
 ## [Archives](archives/index.md)
 
