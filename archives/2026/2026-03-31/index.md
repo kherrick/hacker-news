@@ -37,6 +37,7 @@
 * [2026-03-31, 14:25:37](https://news.ycombinator.com/item?id=47587866) - [Microsoft: Copilot is for entertainment purposes only](https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse)
 * [2026-03-31, 14:08:37](https://news.ycombinator.com/item?id=47587631) - [RubyGems Fracture Incident Report](https://rubycentral.org/news/rubygems-fracture-incident-report/)
 * [2026-03-31, 14:05:42](https://news.ycombinator.com/item?id=47587597) - [Distributed data centers in our basements](https://news.ycombinator.com/item?id=47587597)
+* [2026-03-31, 13:46:11](https://news.ycombinator.com/item?id=47587339) - [DCJ11Hack+ – DEC PDP/11 based homebrew computer](https://codeberg.org/TechPaula/DCJ11HackPlus)
 * [2026-03-31, 13:13:20](https://news.ycombinator.com/item?id=47586885) - [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/)
 * [2026-03-31, 13:07:33](https://news.ycombinator.com/item?id=47586814) - [Nobody Is Coming to Save Your Career](https://alifeengineered.substack.com/p/nobody-is-coming-to-save-your-career)
 * [2026-03-31, 13:04:30](https://news.ycombinator.com/item?id=47586778) - [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/)
