@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-04-03, 11:20:28",
-      "https://news.ycombinator.com/item?id=47625385"
+      "2026-04-03, 12:33:45",
+      "https://news.ycombinator.com/item?id=47625952"
     ],
     [
-      "H.264 Streaming Fees: What Changed, Who's Affected, and What It Means",
-      "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935"
+      "Show HN: I built a frontpage for personal blogs",
+      "https://text.blogosphere.app/"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 11:53:32",
+      "https://news.ycombinator.com/item?id=47625639"
+    ],
+    [
+      "TDF ejects its core developers",
+      "https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 11:18:10",
+      "https://news.ycombinator.com/item?id=47625366"
+    ],
+    [
+      "United States Code (federal laws) in Git",
+      "https://github.com/nickvido/us-code"
     ]
   ],
   [
@@ -25,38 +45,8 @@
       "https://news.ycombinator.com/item?id=47625244"
     ],
     [
-      "'Fatal decision': EU slammed for caving to US pressure on digital rules",
+      "Critics say EU risks ceding control of its tech laws under U.S. pressure",
       "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 10:40:25",
-      "https://news.ycombinator.com/item?id=47625112"
-    ],
-    [
-      "RiskReady-open-source GRC platform with MCP gateway and human-approved mutations",
-      "https://github.com/riskreadyeu/riskready-community"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 10:01:50",
-      "https://news.ycombinator.com/item?id=47624879"
-    ],
-    [
-      "Switzerland hosts 'CERN of semiconductor research'",
-      "https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 09:37:24",
-      "https://news.ycombinator.com/item?id=47624741"
-    ],
-    [
-      "Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps",
-      "https://only-eu.eu/en/"
     ]
   ],
   [
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=47624558"
     ],
     [
-      "Proton Meet Isn't What They Told You It Was",
+      "Proton meet isn't what they told you it was",
       "https://www.sambent.com/proton-meet-isnt-what-they-told-you/"
     ]
   ],
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=47561678"
     ],
     [
-      "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
+      "ESP32-S31: Dual-Core RISC-V SoC with Wi-Fi 6, Bluetooth 5.4, and Advanced HMI",
       "https://www.espressif.com/en/news/ESP32_S31_Release"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "What Category Theory Teaches Us About DataFrames",
       "https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 06:56:45",
+      "https://news.ycombinator.com/item?id=47560967"
+    ],
+    [
+      "A Recipe for Steganogravy",
+      "https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html"
     ]
   ],
   [
