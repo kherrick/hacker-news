@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-03, 23:22:37",
+      "https://news.ycombinator.com/item?id=47633640"
+    ],
+    [
+      "How to Write Unmaintainable Code (1999)",
+      "https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 22:55:24",
+      "https://news.ycombinator.com/item?id=47633396"
+    ],
+    [
+      "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "https://news.ycombinator.com/item?id=47633396"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 22:26:38",
+      "https://news.ycombinator.com/item?id=47633157"
+    ],
+    [
+      "Fake Fans",
+      "https://www.wordsfromeliza.com/p/fake-fans"
+    ]
+  ],
+  [
+    [
       "2026-04-03, 22:22:18",
       "https://news.ycombinator.com/item?id=47633116"
     ],
@@ -17,6 +47,16 @@
     [
       "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
       "https://github.com/cmc-labo/tinyos-rtos"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 21:42:09",
+      "https://news.ycombinator.com/item?id=47632692"
+    ],
+    [
+      "Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion",
+      "https://github.com/sleep3r/mtproto.zig"
     ]
   ],
   [
@@ -75,7 +115,7 @@
       "https://news.ycombinator.com/item?id=47631118"
     ],
     [
-      "Artemis II crew take 'spectacular' image of Earth",
+      "Artemis II crew take “spectacular” image of Earth",
       "https://www.bbc.com/news/articles/ce8jzr423p9o"
     ]
   ],
@@ -87,6 +127,16 @@
     [
       "Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment",
       "https://ismcpdead.com"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 19:17:28",
+      "https://news.ycombinator.com/item?id=47630893"
+    ],
+    [
+      "Age verification on Systemd and Flatpak",
+      "https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/"
     ]
   ],
   [
@@ -111,22 +161,22 @@
   ],
   [
     [
-      "2026-04-03, 18:22:07",
-      "https://news.ycombinator.com/item?id=47630136"
-    ],
-    [
-      "Update on the eBay Scam",
-      "https://kevquirk.com/update-on-the-ebay-scam"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 18:20:16",
       "https://news.ycombinator.com/item?id=47630109"
     ],
     [
       "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
       "https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 18:03:10",
+      "https://news.ycombinator.com/item?id=47629903"
+    ],
+    [
+      "Why are we still using Markdown?",
+      "https://bgslabs.org/blog/why-are-we-using-markdown/"
     ]
   ],
   [
@@ -211,6 +261,16 @@
   ],
   [
     [
+      "2026-03-31, 18:44:51",
+      "https://news.ycombinator.com/item?id=47591707"
+    ],
+    [
+      "Bourbon waste could provide next-gen supercapacitor components",
+      "https://spectrum.ieee.org/supercapacitor-electrodes-bourbon-waste"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 13:46:11",
       "https://news.ycombinator.com/item?id=47587339"
     ],
@@ -231,72 +291,12 @@
   ],
   [
     [
-      "2026-03-31, 04:34:11",
-      "https://news.ycombinator.com/item?id=47582792"
-    ],
-    [
-      "Linux Running in a PDF (2025)",
-      "https://linux.doompdf.dev/linux.pdf"
-    ]
-  ],
-  [
-    [
       "2026-03-30, 19:11:03",
       "https://news.ycombinator.com/item?id=47578444"
     ],
     [
       "A Taxonomy of Interiors",
       "https://misfitsarchitecture.com/2026/03/29/a-taxonomy-of-interiors/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 20:55:46",
-      "https://news.ycombinator.com/item?id=47567222"
-    ],
-    [
-      "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
-      "https://chalmovsky.com/2026/03/29/samsung-magician.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 11:10:44",
-      "https://news.ycombinator.com/item?id=47562135"
-    ],
-    [
-      "Show HN: TurboQuant for vector search – 2-4 bit compression",
-      "https://github.com/RyanCodrai/py-turboquant"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 09:39:23",
-      "https://news.ycombinator.com/item?id=47561678"
-    ],
-    [
-      "ESP32-S31: Dual-Core RISC-V SoC with Wi-Fi 6, Bluetooth 5.4, and Advanced HMI",
-      "https://www.espressif.com/en/news/ESP32_S31_Release"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 08:44:25",
-      "https://news.ycombinator.com/item?id=47561426"
-    ],
-    [
-      "What Category Theory Teaches Us About DataFrames",
-      "https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 06:56:45",
-      "https://news.ycombinator.com/item?id=47560967"
-    ],
-    [
-      "A Recipe for Steganogravy",
-      "https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html"
     ]
   ]
 ]
