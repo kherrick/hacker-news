@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-04-03, 19:17:28",
-      "https://news.ycombinator.com/item?id=47630893"
+      "2026-04-03, 20:37:17",
+      "https://news.ycombinator.com/item?id=47631929"
     ],
     [
-      "Age Verification on Systemd and Flatpak",
-      "https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/"
+      "Show HN: We're building an AI hedge fund",
+      "https://rallies.ai/arena"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 20:21:23",
+      "https://news.ycombinator.com/item?id=47631732"
+    ],
+    [
+      "Oracle Files H-1B Visa Petitions Amid Mass Layoffs",
+      "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 20:13:50",
+      "https://news.ycombinator.com/item?id=47631648"
+    ],
+    [
+      "Automatic Textbook Formalization",
+      "https://github.com/facebookresearch/repoprover"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 19:35:02",
+      "https://news.ycombinator.com/item?id=47631118"
+    ],
+    [
+      "Artemis II crew take 'spectacular' image of Earth",
+      "https://www.bbc.com/news/articles/ce8jzr423p9o"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 19:28:06",
+      "https://news.ycombinator.com/item?id=47631030"
+    ],
+    [
+      "Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment",
+      "https://ismcpdead.com"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 19:26:20",
+      "https://news.ycombinator.com/item?id=47631011"
+    ],
+    [
+      "PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free",
+      "https://injecguard.github.io/"
     ]
   ],
   [
@@ -51,16 +101,6 @@
   ],
   [
     [
-      "2026-04-03, 17:29:21",
-      "https://news.ycombinator.com/item?id=47629505"
-    ],
-    [
-      "Solana Drift Protocol drained of $285M via fake token and governance hijack",
-      "https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 17:22:20",
       "https://news.ycombinator.com/item?id=47629433"
     ],
@@ -77,16 +117,6 @@
     [
       "Go on Embedded Systems and WebAssembly",
       "https://tinygo.org/"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 16:21:32",
-      "https://news.ycombinator.com/item?id=47628608"
-    ],
-    [
-      "If you're running OpenClaw, you probably got hacked in the last week",
-      "https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-04-03, 09:36:33",
-      "https://news.ycombinator.com/item?id=47624736"
-    ],
-    [
-      "NHS staff refusing to use FDP over Palantir ethical concerns",
-      "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 09:35:16",
       "https://news.ycombinator.com/item?id=47624731"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-04-03, 02:29:22",
-      "https://news.ycombinator.com/item?id=47622616"
-    ],
-    [
-      "The Technocracy Movement of the 1930s",
-      "https://donotresearch.substack.com/p/welcome-to-the-technocracy"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 18:24:29",
       "https://news.ycombinator.com/item?id=47618223"
     ],
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2026-04-02, 18:22:03",
-      "https://news.ycombinator.com/item?id=47618189"
+      "2026-03-31, 13:13:20",
+      "https://news.ycombinator.com/item?id=47586885"
     ],
     [
-      "Tailscale's new macOS home",
-      "https://tailscale.com/blog/macos-notch-escape"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 16:10:54",
-      "https://news.ycombinator.com/item?id=47616361"
-    ],
-    [
-      "Google releases Gemma 4 open models",
-      "https://deepmind.google/models/gemma/gemma-4/"
+      "What changes when you turn a Linux box into a router",
+      "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/"
     ]
   ],
   [
