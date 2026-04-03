@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
+* [2026-04-03, 23:22:37](https://news.ycombinator.com/item?id=47633640) - [How to Write Unmaintainable Code (1999)](https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html)
+* [2026-04-03, 22:55:24](https://news.ycombinator.com/item?id=47633396) - [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
+* [2026-04-03, 22:26:38](https://news.ycombinator.com/item?id=47633157) - [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans)
 * [2026-04-03, 22:22:18](https://news.ycombinator.com/item?id=47633116) - [The house is a work of art: Frank Lloyd Wright](https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition)
 * [2026-04-03, 21:46:26](https://news.ycombinator.com/item?id=47632750) - [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos)
+* [2026-04-03, 21:42:09](https://news.ycombinator.com/item?id=47632692) - [Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion](https://github.com/sleep3r/mtproto.zig)
 * [2026-04-03, 21:25:55](https://news.ycombinator.com/item?id=47632503) - [Iran Strikes Leave Amazon Availability Zones \"Hard Down\" in Bahrain and Dubai](https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability)
 * [2026-04-03, 21:21:13](https://news.ycombinator.com/item?id=47632460) - [Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers](https://jobs.ashbyhq.com/charge-robotics)
 * [2026-04-03, 21:09:24](https://news.ycombinator.com/item?id=47632312) - [The Hardest Document Extraction Problem in Insurance](https://www.furtherai.com/engineering-blogs/hardest-document-extraction-problem-in-insurance)
@@ -21,6 +25,7 @@
 * [2026-04-03, 18:22:07](https://news.ycombinator.com/item?id=47630136) - [Update on the eBay Scam](https://kevquirk.com/update-on-the-ebay-scam)
 * [2026-04-03, 18:20:16](https://news.ycombinator.com/item?id=47630109) - [Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M](https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million)
 * [2026-04-03, 18:03:34](https://news.ycombinator.com/item?id=47629905) - [Show HN: An evidence-rated encyclopedia of peptides](https://www.whatthepeptide.org/)
+* [2026-04-03, 18:03:10](https://news.ycombinator.com/item?id=47629903) - [Why are we still using Markdown?](https://bgslabs.org/blog/why-are-we-using-markdown/)
 * [2026-04-03, 17:42:32](https://news.ycombinator.com/item?id=47629676) - [Have mental health labels like ADHD and autism gone too far?](https://www.telegraph.co.uk/health-fitness/wellbeing/mental-health/autism-adhd-rates-mental-health-labels/)
 * [2026-04-03, 17:29:21](https://news.ycombinator.com/item?id=47629505) - [Solana Drift Protocol drained of $285M via fake token and governance hijack](https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/)
 * [2026-04-03, 17:22:20](https://news.ycombinator.com/item?id=47629433) - [iNaturalist](https://www.inaturalist.org/)
