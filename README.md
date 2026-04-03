@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-03, 04:00:56](https://news.ycombinator.com/item?id=47623053) - [Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)](https://mehuleo.github.io/encircle/)
 * [2026-04-03, 00:00:19](https://news.ycombinator.com/item?id=47621792) - [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)
 * [2026-04-02, 23:26:01](https://news.ycombinator.com/item?id=47621518) - [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
 * [2026-04-02, 23:17:26](https://news.ycombinator.com/item?id=47621448) - [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
@@ -20,14 +21,13 @@
 * [2026-04-02, 11:04:51](https://news.ycombinator.com/item?id=47612724) - [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai)
 * [2026-04-02, 10:50:00](https://news.ycombinator.com/item?id=47612601) - [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/)
 * [2026-04-02, 02:37:12](https://news.ycombinator.com/item?id=47609356) - [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/)
-* [2026-04-02, 00:39:26](https://news.ycombinator.com/item?id=47608602) - [The beginning of programming as we'll know it?](https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/)
 * [2026-04-01, 08:41:49](https://news.ycombinator.com/item?id=47598413) - [C89cc.sh – standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19)
 * [2026-03-31, 21:43:15](https://news.ycombinator.com/item?id=47593861) - [Maze Algorithms (1997)](https://www.astrolog.org/labyrnth/algrithm.htm)
 * [2026-03-31, 19:57:05](https://news.ycombinator.com/item?id=47592614) - [Prefer do notation over Applicative operators when assembling records (2024)](https://haskellforall.com/2024/05/prefer-do-notation-over-applicative)
-* [2026-03-30, 15:28:45](https://news.ycombinator.com/item?id=47575557) - [Magic the Gathering Deck Shuffler](https://mtg.jessitron.honeydemo.io/)
 * [2026-03-30, 09:38:38](https://news.ycombinator.com/item?id=47572288) - [JSON Canvas Spec (2024)](https://jsoncanvas.org/spec/1.0/)
 * [2026-03-29, 12:53:03](https://news.ycombinator.com/item?id=47562762) - [Significant progress made on Xbox 360 recompilation](https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/)
-* [2026-03-29, 11:25:18](https://news.ycombinator.com/item?id=47562214) - [Free stuff makes us irrational](https://thehustle.co/why-free-stuff-makes-us-irrational)
+* [2026-03-29, 12:07:24](https://news.ycombinator.com/item?id=47562455) - [The True Shape of Io's Steeple Mountain](https://www.weareinquisitive.com/news/hidden-in-the-shadow)
+* [2026-03-29, 10:28:04](https://news.ycombinator.com/item?id=47561913) - [Vector Meson Dominance](https://johncarlosbaez.wordpress.com/2026/03/29/vector-meson-dominance/)
 * [2026-03-29, 06:56:04](https://news.ycombinator.com/item?id=47560959) - [Show HN: Home Maker: Declare Your Dev Tools in a Makefile](https://thottingal.in/blog/2026/03/29/home-maker/)
 * [2026-03-28, 05:13:42](https://news.ycombinator.com/item?id=47551847) - [The Joy of Numbered Streets](https://humantransit.org/2026/03/the-joy-of-numbered-streets-or-call-it-39th-avenue.html)
 
