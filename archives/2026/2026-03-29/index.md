@@ -69,6 +69,7 @@
 * [2026-03-29, 08:58:24](https://news.ycombinator.com/item?id=47561489) - [LinkedIn uses 2.4 GB RAM across two tabs](https://news.ycombinator.com/item?id=47561489)
 * [2026-03-29, 08:53:37](https://news.ycombinator.com/item?id=47561470) - [30 Years Ago, Robots Learned to Walk Without Falling](https://spectrum.ieee.org/honda-p2-robot-ieee-milestone)
 * [2026-03-29, 08:48:36](https://news.ycombinator.com/item?id=47561445) - [Solar is winning the energy race](https://www.dw.com/en/solar-is-winning-the-energy-race/a-76517556)
+* [2026-03-29, 08:44:25](https://news.ycombinator.com/item?id=47561426) - [What Category Theory Teaches Us About DataFrames](https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/)
 * [2026-03-29, 08:18:55](https://news.ycombinator.com/item?id=47561297) - [What if AI doesn't need more RAM but better math?](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
 * [2026-03-29, 07:38:58](https://news.ycombinator.com/item?id=47561132) - [Show HN: Public transit systems as data – lines, stations, railcars, and history](https://publictransit.systems)
 * [2026-03-29, 07:00:48](https://news.ycombinator.com/item?id=47560981) - [The road to electric – in charts and data [UK]](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/)
