@@ -67,6 +67,7 @@
 * [2026-03-28, 08:23:26](https://news.ycombinator.com/item?id=47552643) - [Cat Itecture: Better Cat Window Boxes](https://gwern.net/catitecture)
 * [2026-03-28, 08:06:19](https://news.ycombinator.com/item?id=47552562) - [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 * [2026-03-28, 06:26:42](https://news.ycombinator.com/item?id=47552144) - [Ada and Spark on ARM Cortex-M – A Tutorial with Arduino and Nucleo Examples](http://inspirel.com/articles/Ada_On_Cortex.html)
+* [2026-03-28, 05:13:42](https://news.ycombinator.com/item?id=47551847) - [The Joy of Numbered Streets](https://humantransit.org/2026/03/the-joy-of-numbered-streets-or-call-it-39th-avenue.html)
 * [2026-03-28, 02:17:04](https://news.ycombinator.com/item?id=47550878) - [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
 * [2026-03-28, 01:43:49](https://news.ycombinator.com/item?id=47550684) - [Brave Browser unable to block certain ads due to Rust language limitations](https://github.com/brave/brave-browser/issues/43098)
 * [2026-03-28, 01:04:56](https://news.ycombinator.com/item?id=47550433) - [Teenage Engineering's PO-32 acoustic modem and synth implementation](https://github.com/ericlewis/libpo32)

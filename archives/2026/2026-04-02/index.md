@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 23:26:01](https://news.ycombinator.com/item?id=47621518) - [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
+* [2026-04-02, 23:17:26](https://news.ycombinator.com/item?id=47621448) - [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
+* [2026-04-02, 23:16:05](https://news.ycombinator.com/item?id=47621438) - [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
 * [2026-04-02, 22:32:29](https://news.ycombinator.com/item?id=47621048) - [Why Doesn't Anybody Realize We're Going Back to the Moon?](https://www.theatlantic.com/science/2026/04/artemis-moon-launch-trump/686661/)
 * [2026-04-02, 22:29:25](https://news.ycombinator.com/item?id=47621023) - [The IDE Is Dead. Long Live the ADE](https://lanes.sh/blog/the-ide-is-dead)
 * [2026-04-02, 22:21:24](https://news.ycombinator.com/item?id=47620933) - [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
@@ -66,4 +69,5 @@
 * [2026-04-02, 02:17:51](https://news.ycombinator.com/item?id=47609253) - [Solar Balconies Take Europe by Storm](https://hackaday.com/2026/03/31/solar-balconies-take-europe-by-storm/)
 * [2026-04-02, 02:15:28](https://news.ycombinator.com/item?id=47609241) - [Trinity Large Thinking](https://openrouter.ai/arcee-ai/trinity-large-thinking)
 * [2026-04-02, 01:48:18](https://news.ycombinator.com/item?id=47609090) - [Weather.com/Retro](https://weather.com/retro/)
+* [2026-04-02, 00:39:26](https://news.ycombinator.com/item?id=47608602) - [The beginning of programming as we'll know it?](https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/)
 * [2026-04-02, 00:24:43](https://news.ycombinator.com/item?id=47608495) - [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665)
