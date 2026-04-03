@@ -62,6 +62,7 @@
 * [2026-03-29, 10:10:12](https://news.ycombinator.com/item?id=47561819) - [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma)
 * [2026-03-29, 09:46:58](https://news.ycombinator.com/item?id=47561711) - [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/)
 * [2026-03-29, 09:34:20](https://news.ycombinator.com/item?id=47561653) - [What fork() Actually Copies](https://tech.daniellbastos.com.br/posts/what-fork-actually-copies/)
+* [2026-03-29, 09:23:26](https://news.ycombinator.com/item?id=47561606) - [Working on Products People Hate](https://www.seangoedecke.com/working-on-products-people-hate/)
 * [2026-03-29, 08:59:52](https://news.ycombinator.com/item?id=47561496) - [Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown](https://github.com/1st1/lat.md)
 * [2026-03-29, 08:58:24](https://news.ycombinator.com/item?id=47561489) - [LinkedIn uses 2.4 GB RAM across two tabs](https://news.ycombinator.com/item?id=47561489)
 * [2026-03-29, 08:53:37](https://news.ycombinator.com/item?id=47561470) - [30 Years Ago, Robots Learned to Walk Without Falling](https://spectrum.ieee.org/honda-p2-robot-ieee-milestone)
