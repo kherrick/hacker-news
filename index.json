@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-03, 22:22:18",
+      "https://news.ycombinator.com/item?id=47633116"
+    ],
+    [
+      "The house is a work of art: Frank Lloyd Wright",
+      "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition"
+    ]
+  ],
+  [
+    [
       "2026-04-03, 21:46:26",
       "https://news.ycombinator.com/item?id=47632750"
     ],
@@ -27,6 +37,16 @@
     [
       "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
       "https://jobs.ashbyhq.com/charge-robotics"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 21:09:24",
+      "https://news.ycombinator.com/item?id=47632312"
+    ],
+    [
+      "The Hardest Document Extraction Problem in Insurance",
+      "https://www.furtherai.com/engineering-blogs/hardest-document-extraction-problem-in-insurance"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment",
       "https://ismcpdead.com"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 19:26:20",
-      "https://news.ycombinator.com/item?id=47631011"
-    ],
-    [
-      "PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free",
-      "https://injecguard.github.io/"
     ]
   ],
   [
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2026-04-03, 09:49:41",
-      "https://news.ycombinator.com/item?id=47624804"
-    ],
-    [
-      "Category Theory Illustrated – Types",
-      "https://abuseofnotation.github.io/category-theory-illustrated/06_type/"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 09:35:16",
       "https://news.ycombinator.com/item?id=47624731"
     ],
     [
       "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
       "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 09:15:34",
-      "https://news.ycombinator.com/item?id=47624645"
-    ],
-    [
-      "Show HN: Apfel – The free AI already on your Mac",
-      "https://apfel.franzai.com"
     ]
   ],
   [
@@ -245,8 +235,18 @@
       "https://news.ycombinator.com/item?id=47582792"
     ],
     [
-      "You can now run a full Linux operating system inside a 6mb PDF",
-      "https://twitter.com/oliviscusAI/status/2038563166431346865"
+      "Linux Running in a PDF (2025)",
+      "https://linux.doompdf.dev/linux.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 19:11:03",
+      "https://news.ycombinator.com/item?id=47578444"
+    ],
+    [
+      "A Taxonomy of Interiors",
+      "https://misfitsarchitecture.com/2026/03/29/a-taxonomy-of-interiors/"
     ]
   ],
   [
