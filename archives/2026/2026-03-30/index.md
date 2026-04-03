@@ -20,6 +20,7 @@
 * [2026-03-30, 19:23:11](https://news.ycombinator.com/item?id=47578582) - [What Gödel Discovered (2020)](https://stopa.io/post/269)
 * [2026-03-30, 19:22:33](https://news.ycombinator.com/item?id=47578572) - [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/)
 * [2026-03-30, 19:13:05](https://news.ycombinator.com/item?id=47578464) - [William Blake, Remote by the Sea](https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea)
+* [2026-03-30, 19:11:03](https://news.ycombinator.com/item?id=47578444) - [A Taxonomy of Interiors](https://misfitsarchitecture.com/2026/03/29/a-taxonomy-of-interiors/)
 * [2026-03-30, 18:45:17](https://news.ycombinator.com/item?id=47578109) - [How Iran is making a mint from the current war](https://www.economist.com/finance-and-economics/2026/03/29/how-iran-is-making-a-mint-from-donald-trumps-war)
 * [2026-03-30, 18:43:38](https://news.ycombinator.com/item?id=47578086) - [Vulnerability Research Is Cooked](https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/)
 * [2026-03-30, 18:34:47](https://news.ycombinator.com/item?id=47577979) - [A sea of sparks: Seeing radioactivity](https://maurycyz.com/projects/spinthariscope/)

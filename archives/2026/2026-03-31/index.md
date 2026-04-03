@@ -60,6 +60,7 @@
 * [2026-03-31, 05:11:39](https://news.ycombinator.com/item?id=47582987) - [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/)
 * [2026-03-31, 05:11:24](https://news.ycombinator.com/item?id=47582984) - [GitHub backs down, kills Copilot pull-request ads after backlash](https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/)
 * [2026-03-31, 04:34:11](https://news.ycombinator.com/item?id=47582792) - [You can now run a full Linux operating system inside a 6mb PDF](https://twitter.com/oliviscusAI/status/2038563166431346865)
+* [2026-03-31, 04:34:11](https://news.ycombinator.com/item?id=47582792) - [Linux Running in a PDF (2025)](https://linux.doompdf.dev/linux.pdf)
 * [2026-03-31, 03:43:11](https://news.ycombinator.com/item?id=47582496) - [Show HN: Will AI take my job](https://aijobsreport.org/quiz)
 * [2026-03-31, 03:40:45](https://news.ycombinator.com/item?id=47582482) - [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx)
 * [2026-03-31, 03:28:03](https://news.ycombinator.com/item?id=47582418) - [Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly](https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/)

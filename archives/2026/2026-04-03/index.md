@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
+* [2026-04-03, 22:22:18](https://news.ycombinator.com/item?id=47633116) - [The house is a work of art: Frank Lloyd Wright](https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition)
 * [2026-04-03, 21:46:26](https://news.ycombinator.com/item?id=47632750) - [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos)
 * [2026-04-03, 21:25:55](https://news.ycombinator.com/item?id=47632503) - [Iran Strikes Leave Amazon Availability Zones \"Hard Down\" in Bahrain and Dubai](https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability)
 * [2026-04-03, 21:21:13](https://news.ycombinator.com/item?id=47632460) - [Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers](https://jobs.ashbyhq.com/charge-robotics)
+* [2026-04-03, 21:09:24](https://news.ycombinator.com/item?id=47632312) - [The Hardest Document Extraction Problem in Insurance](https://www.furtherai.com/engineering-blogs/hardest-document-extraction-problem-in-insurance)
 * [2026-04-03, 20:37:17](https://news.ycombinator.com/item?id=47631929) - [Show HN: We're building an AI hedge fund](https://rallies.ai/arena)
 * [2026-04-03, 20:21:23](https://news.ycombinator.com/item?id=47631732) - [Oracle Files H-1B Visa Petitions Amid Mass Layoffs](https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/)
 * [2026-04-03, 20:13:50](https://news.ycombinator.com/item?id=47631648) - [Automatic Textbook Formalization](https://github.com/facebookresearch/repoprover)
