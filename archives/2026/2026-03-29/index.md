@@ -74,6 +74,7 @@
 * [2026-03-29, 08:18:55](https://news.ycombinator.com/item?id=47561297) - [What if AI doesn't need more RAM but better math?](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
 * [2026-03-29, 07:38:58](https://news.ycombinator.com/item?id=47561132) - [Show HN: Public transit systems as data – lines, stations, railcars, and history](https://publictransit.systems)
 * [2026-03-29, 07:00:48](https://news.ycombinator.com/item?id=47560981) - [The road to electric – in charts and data [UK]](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/)
+* [2026-03-29, 06:56:45](https://news.ycombinator.com/item?id=47560967) - [A Recipe for Steganogravy](https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html)
 * [2026-03-29, 06:56:04](https://news.ycombinator.com/item?id=47560959) - [Show HN: Home Maker: Declare Your Dev Tools in a Makefile](https://thottingal.in/blog/2026/03/29/home-maker/)
 * [2026-03-29, 06:03:30](https://news.ycombinator.com/item?id=47560768) - [Shipment of KitKat bars stolen en route from Italy to Poland](https://apnews.com/article/nestle-switzerland-candy-bar-stolen-kitkat-51073cce27a0e193651aa7f31aaa506e)
 * [2026-03-29, 05:54:47](https://news.ycombinator.com/item?id=47560724) - [Moretti replication published in AER](https://blog.michaelwiebe.com/p/moretti-replication-published-in)

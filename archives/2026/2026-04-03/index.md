@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
+* [2026-04-03, 12:33:45](https://news.ycombinator.com/item?id=47625952) - [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/)
+* [2026-04-03, 11:53:32](https://news.ycombinator.com/item?id=47625639) - [TDF ejects its core developers](https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html)
 * [2026-04-03, 11:20:28](https://news.ycombinator.com/item?id=47625385) - [H.264 Streaming Fees: What Changed, Who's Affected, and What It Means](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935)
+* [2026-04-03, 11:18:10](https://news.ycombinator.com/item?id=47625366) - [United States Code (federal laws) in Git](https://github.com/nickvido/us-code)
 * [2026-04-03, 11:09:58](https://news.ycombinator.com/item?id=47625311) - [Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux](https://github.com/oven-sh/bun/pull/28801)
 * [2026-04-03, 10:58:51](https://news.ycombinator.com/item?id=47625244) - ['Fatal decision': EU slammed for caving to US pressure on digital rules](https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/)
 * [2026-04-03, 10:40:25](https://news.ycombinator.com/item?id=47625112) - [RiskReady-open-source GRC platform with MCP gateway and human-approved mutations](https://github.com/riskreadyeu/riskready-community)
