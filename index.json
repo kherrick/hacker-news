@@ -1,22 +1,52 @@
 [
   [
     [
-      "2026-04-04, 17:13:39",
-      "https://news.ycombinator.com/item?id=47641057"
+      "2026-04-04, 18:01:11",
+      "https://news.ycombinator.com/item?id=47641555"
     ],
     [
-      "Astronomers Find a Third Galaxy Missing Its Dark Matter",
-      "https://www.universetoday.com/articles/astronomers-find-a-third-galaxy-missing-its-dark-matter-validating-a-violent-cosmic-collision-theory"
+      "US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war",
+      "https://www.msn.com/en-us/money/other/us-deploys-bulk-of-stealthy-long-range-missile-for-iran-war/ar-AA209yKj"
     ]
   ],
   [
     [
-      "2026-04-04, 17:06:29",
-      "https://news.ycombinator.com/item?id=47640984"
+      "2026-04-04, 17:54:52",
+      "https://news.ycombinator.com/item?id=47641487"
     ],
     [
-      "Iran's Network of Cameras Bolsters Air Defenses, Expert Says",
-      "https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8"
+      "Show HN: Running local OpenClaw together with remote agents in an open network",
+      "https://github.com/hybroai/hybro-hub"
+    ]
+  ],
+  [
+    [
+      "2026-04-04, 17:52:55",
+      "https://news.ycombinator.com/item?id=47641464"
+    ],
+    [
+      "Scientists observe an immune signaling complex forming inside cells",
+      "https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research"
+    ]
+  ],
+  [
+    [
+      "2026-04-04, 17:35:40",
+      "https://news.ycombinator.com/item?id=47641277"
+    ],
+    [
+      "Deafness reversed: One injection restores hearing in just weeks – ScienceDaily",
+      "https://www.sciencedaily.com/releases/2026/04/260403044651.htm"
+    ]
+  ],
+  [
+    [
+      "2026-04-04, 17:33:21",
+      "https://news.ycombinator.com/item?id=47641255"
+    ],
+    [
+      "Plague Ships",
+      "https://www.afloat.com.au/feature/plague-ships/"
     ]
   ],
   [
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47640722"
     ],
     [
-      "12,000 AI-generated blog posts added in a single commit",
+      "12k AI-generated blog posts added in a single commit",
       "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849"
     ]
   ],
@@ -67,6 +97,16 @@
     [
       "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
       "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs"
+    ]
+  ],
+  [
+    [
+      "2026-04-04, 15:39:10",
+      "https://news.ycombinator.com/item?id=47639976"
+    ],
+    [
+      "German men 18-45 need military permit for extended stays abroad",
+      "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2026-04-03, 22:23:55",
-      "https://news.ycombinator.com/item?id=47633131"
-    ],
-    [
-      "Run Linux containers on Android, no root required",
-      "https://github.com/ExTV/Podroid"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 19:35:02",
       "https://news.ycombinator.com/item?id=47631118"
     ],
@@ -221,12 +251,12 @@
   ],
   [
     [
-      "2026-04-02, 18:24:29",
-      "https://news.ycombinator.com/item?id=47618223"
+      "2026-04-02, 14:25:52",
+      "https://news.ycombinator.com/item?id=47614956"
     ],
     [
-      "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
+      "Notes from from Butterick's Practical Typography",
+      "https://adamadam.blog/2026/04/01/my-notes-from-buttericks-practical-typography/"
     ]
   ],
   [
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2026-04-01, 15:12:24",
-      "https://news.ycombinator.com/item?id=47601992"
-    ],
-    [
-      "The smallest ELF executable (2021)",
-      "https://nathanotterness.com/2021/10/tiny_elf_modernized.html"
-    ]
-  ],
-  [
-    [
       "2026-04-01, 14:13:34",
       "https://news.ycombinator.com/item?id=47601194"
     ],
@@ -277,26 +297,6 @@
     [
       "The most-disliked people in the publishing industry",
       "https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 05:28:59",
-      "https://news.ycombinator.com/item?id=47597159"
-    ],
-    [
-      "Improving my focus by giving up my big monitor",
-      "https://ounapuu.ee/posts/2026/04/01/focus/"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 10:53:52",
-      "https://news.ycombinator.com/item?id=47585469"
-    ],
-    [
-      "Herbie: Automatically improve imprecise floating point formulas",
-      "https://herbie.uwplse.org/doc/latest/tutorial.html"
     ]
   ]
 ]
