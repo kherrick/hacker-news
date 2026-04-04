@@ -39,6 +39,7 @@
 * [2026-04-01, 15:55:30](https://news.ycombinator.com/item?id=47602565) - [The OpenAI Graveyard: All the Deals and Products That Haven't Happened](https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/)
 * [2026-04-01, 15:50:23](https://news.ycombinator.com/item?id=47602500) - [We Built It with Slide Rules. Then We Forgot How](https://unmitigatedrisk.com/?p=1227)
 * [2026-04-01, 15:34:59](https://news.ycombinator.com/item?id=47602301) - [Marc Andreessen's Dangerously Unexamined Life](https://www.thenation.com/article/society/marc-andreessen-silicon-valley-military-tech/)
+* [2026-04-01, 15:12:24](https://news.ycombinator.com/item?id=47601992) - [The smallest ELF executable (2021)](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
 * [2026-04-01, 15:01:36](https://news.ycombinator.com/item?id=47601859) - [Ask HN: Who is hiring? (April 2026)](https://news.ycombinator.com/item?id=47601859)
 * [2026-04-01, 15:01:36](https://news.ycombinator.com/item?id=47601858) - [Ask HN: Who wants to be hired? (April 2026)](https://news.ycombinator.com/item?id=47601858)
 * [2026-04-01, 14:36:51](https://news.ycombinator.com/item?id=47601555) - [Apple Removes iPhone Vibe Coding App from App Store](https://gizmodo.com/apple-removes-iphone-vibe-coding-app-from-app-store-2000740084)

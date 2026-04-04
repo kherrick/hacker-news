@@ -23,7 +23,7 @@
 * [2026-04-03, 13:28:58](https://news.ycombinator.com/item?id=47626462) - [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)
 * [2026-04-03, 02:29:22](https://news.ycombinator.com/item?id=47622616) - [The Technocracy Movement of the 1930s](https://donotresearch.substack.com/p/welcome-to-the-technocracy)
 * [2026-04-02, 18:24:29](https://news.ycombinator.com/item?id=47618223) - [We replaced RAG with a virtual filesystem for our AI documentation assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
-* [2026-04-01, 19:30:34](https://news.ycombinator.com/item?id=47605425) - [Sequential Optimal Packing for PCB Placement](https://blog.autorouting.com/p/sequential-optimal-packing-for-pcb)
+* [2026-04-01, 15:12:24](https://news.ycombinator.com/item?id=47601992) - [The smallest ELF executable (2021)](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
 * [2026-04-01, 14:13:34](https://news.ycombinator.com/item?id=47601194) - [The Cathedral, the Bazaar, and the Winchester Mystery House](https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html)
 * [2026-04-01, 06:04:12](https://news.ycombinator.com/item?id=47597366) - [The most-disliked people in the publishing industry](https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing)
 * [2026-04-01, 05:28:59](https://news.ycombinator.com/item?id=47597159) - [Improving my focus by giving up my big monitor](https://ounapuu.ee/posts/2026/04/01/focus/)
