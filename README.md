@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-04, 21:28:01](https://news.ycombinator.com/item?id=47643620) - [Seat Pricing Is Dead](http://seatpricing.rip/)
 * [2026-04-04, 20:48:56](https://news.ycombinator.com/item?id=47643217) - [Microsoft to force updates to Windows 11 25H2 for PCs with older OS versions](https://www.tomshardware.com/software/windows/microsoft-forces-updates-to-windows-11-25h2-update-for-pcs-running-on-24h2)
 * [2026-04-04, 19:39:43](https://news.ycombinator.com/item?id=47642569) - [How many products does Microsoft have named 'Copilot'?](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
 * [2026-04-04, 18:23:55](https://news.ycombinator.com/item?id=47641788) - [Iranian missile blitz takes down AWS data centers in Bahrain and Dubai](https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones)
@@ -15,6 +14,7 @@
 * [2026-04-04, 15:14:06](https://news.ycombinator.com/item?id=47639727) - [When legal sports betting surges, so do Americans' financial problems](https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy)
 * [2026-04-04, 14:53:16](https://news.ycombinator.com/item?id=47639567) - [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm)
 * [2026-04-04, 14:48:26](https://news.ycombinator.com/item?id=47639524) - [Author of \"Careless People\" banned from saying anything negative about Meta](https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf)
+* [2026-04-04, 14:20:21](https://news.ycombinator.com/item?id=47639303) - [Show HN: I made open source, zero power PCB hackathon badges](https://github.com/KaiPereira/Overglade-Badges)
 * [2026-04-04, 14:18:06](https://news.ycombinator.com/item?id=47639291) - [The Indie Internet Index – submit your favorite sites](https://iii.social)
 * [2026-04-04, 13:16:33](https://news.ycombinator.com/item?id=47638810) - [Components of a Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
 * [2026-04-04, 12:00:38](https://news.ycombinator.com/item?id=47638270) - [Mbodi AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls)
@@ -29,7 +29,7 @@
 * [2026-04-01, 20:38:24](https://news.ycombinator.com/item?id=47606244) - [Training mRNA Language Models Across 25 Species for $165](https://news.ycombinator.com/item?id=47606244)
 * [2026-04-01, 18:47:48](https://news.ycombinator.com/item?id=47604887) - [Electrical Transformer Manufacturing Is Throttling the Electrified Future](https://www.bloomberg.com/features/2025-bottlenecks-transformers/)
 * [2026-04-01, 14:13:34](https://news.ycombinator.com/item?id=47601194) - [The Cathedral, the Bazaar, and the Winchester Mystery House](https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html)
-* [2026-04-01, 06:04:12](https://news.ycombinator.com/item?id=47597366) - [The most-disliked people in the publishing industry](https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing)
+* [2026-03-31, 18:16:17](https://news.ycombinator.com/item?id=47591367) - [Breaking Enigma with Index of Coincidence on a Commodore 64](https://imapenguin.com/2026/03/breaking-enigma-with-index-of-coincidence-on-a-commodore-64/)
 
 ## [Archives](archives/index.md)
 
