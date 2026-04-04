@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-04, 21:28:01](https://news.ycombinator.com/item?id=47643620) - [Seat Pricing Is Dead](http://seatpricing.rip/)
+* [2026-04-04, 20:48:56](https://news.ycombinator.com/item?id=47643217) - [Microsoft to force updates to Windows 11 25H2 for PCs with older OS versions](https://www.tomshardware.com/software/windows/microsoft-forces-updates-to-windows-11-25h2-update-for-pcs-running-on-24h2)
 * [2026-04-04, 19:39:43](https://news.ycombinator.com/item?id=47642569) - [How many products does Microsoft have named 'Copilot'?](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
 * [2026-04-04, 18:23:55](https://news.ycombinator.com/item?id=47641788) - [Iranian missile blitz takes down AWS data centers in Bahrain and Dubai](https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones)
 * [2026-04-04, 18:06:24](https://news.ycombinator.com/item?id=47641615) - [Sopwith – 1984 Game (2000)](http://www.sopwith.org/)
@@ -9,7 +11,6 @@
 * [2026-04-04, 16:49:40](https://news.ycombinator.com/item?id=47640775) - [Why the most valuable things you know are things you cannot say](https://deadneurons.substack.com/p/why-the-most-valuable-things-you)
 * [2026-04-04, 16:45:54](https://news.ycombinator.com/item?id=47640728) - [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/)
 * [2026-04-04, 16:16:10](https://news.ycombinator.com/item?id=47640380) - [Apple approves driver that lets Nvidia eGPUs work with Arm Macs](https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs)
-* [2026-04-04, 15:39:10](https://news.ycombinator.com/item?id=47639976) - [German men 18-45 need military permit for extended stays abroad](https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677)
 * [2026-04-04, 15:18:58](https://news.ycombinator.com/item?id=47639779) - [Show HN: sllm – Split a GPU node with other developers, unlimited tokens](https://sllm.cloud)
 * [2026-04-04, 15:14:06](https://news.ycombinator.com/item?id=47639727) - [When legal sports betting surges, so do Americans' financial problems](https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy)
 * [2026-04-04, 14:53:16](https://news.ycombinator.com/item?id=47639567) - [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm)
@@ -23,7 +24,6 @@
 * [2026-04-04, 06:30:25](https://news.ycombinator.com/item?id=47636435) - [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function)
 * [2026-04-03, 23:46:51](https://news.ycombinator.com/item?id=47633855) - [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/)
 * [2026-04-03, 22:55:24](https://news.ycombinator.com/item?id=47633396) - [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
-* [2026-04-03, 19:35:02](https://news.ycombinator.com/item?id=47631118) - [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
 * [2026-04-02, 14:25:52](https://news.ycombinator.com/item?id=47614956) - [Notes from from Butterick's Practical Typography](https://adamadam.blog/2026/04/01/my-notes-from-buttericks-practical-typography/)
 * [2026-04-02, 13:54:12](https://news.ycombinator.com/item?id=47614532) - [Ruckus: Racket for iOS](https://ruckus.defn.io/)
 * [2026-04-01, 20:38:24](https://news.ycombinator.com/item?id=47606244) - [Training mRNA Language Models Across 25 Species for $165](https://news.ycombinator.com/item?id=47606244)
