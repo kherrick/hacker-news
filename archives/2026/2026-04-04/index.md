@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-04-04](index.md)
 
+* [2026-04-04, 17:13:39](https://news.ycombinator.com/item?id=47641057) - [Astronomers Find a Third Galaxy Missing Its Dark Matter](https://www.universetoday.com/articles/astronomers-find-a-third-galaxy-missing-its-dark-matter-validating-a-violent-cosmic-collision-theory)
+* [2026-04-04, 17:06:29](https://news.ycombinator.com/item?id=47640984) - [Iran's Network of Cameras Bolsters Air Defenses, Expert Says](https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8)
+* [2026-04-04, 16:45:54](https://news.ycombinator.com/item?id=47640728) - [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/)
+* [2026-04-04, 16:45:31](https://news.ycombinator.com/item?id=47640722) - [12,000 AI-generated blog posts added in a single commit](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
 * [2026-04-04, 16:20:54](https://news.ycombinator.com/item?id=47640431) - [What life looks like on the most remote inhabited island](https://apps.npr.org/life-on-tristan-da-cunha/)
 * [2026-04-04, 16:16:10](https://news.ycombinator.com/item?id=47640380) - [Apple approves driver that lets Nvidia eGPUs work with Arm Macs](https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs)
 * [2026-04-04, 15:39:10](https://news.ycombinator.com/item?id=47639976) - [German men 18-45 need military permit to leave country for longer than 3 months](https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677)
 * [2026-04-04, 15:18:58](https://news.ycombinator.com/item?id=47639779) - [Show HN: sllm – Split a GPU node with other developers, unlimited tokens](https://sllm.cloud)
+* [2026-04-04, 15:14:06](https://news.ycombinator.com/item?id=47639727) - [When legal sports betting surges, so do Americans' financial problems](https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy)
 * [2026-04-04, 14:53:16](https://news.ycombinator.com/item?id=47639567) - [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm)
 * [2026-04-04, 14:48:26](https://news.ycombinator.com/item?id=47639524) - [Author of \"Careless People\" banned from saying anything negative about Meta](https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf)
 * [2026-04-04, 14:18:06](https://news.ycombinator.com/item?id=47639291) - [The Indie Internet Index – submit your favorite sites](https://iii.social)
