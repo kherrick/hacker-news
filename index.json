@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-03, 23:56:32",
+      "https://news.ycombinator.com/item?id=47633947"
+    ],
+    [
+      "The FAA \"Temporary\" Drone Restriction Blatant Attempt to Criminalize Filming ICE",
+      "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 23:26:44",
+      "https://news.ycombinator.com/item?id=47633676"
+    ],
+    [
+      "Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",
+      "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans"
+    ]
+  ],
+  [
+    [
       "2026-04-03, 23:22:37",
       "https://news.ycombinator.com/item?id=47633640"
     ],
@@ -27,6 +47,16 @@
     [
       "Fake Fans",
       "https://www.wordsfromeliza.com/p/fake-fans"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 22:23:55",
+      "https://news.ycombinator.com/item?id=47633131"
+    ],
+    [
+      "Run Linux containers on Android, no root required",
+      "https://github.com/ExTV/Podroid"
     ]
   ],
   [
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=47632503"
     ],
     [
-      "Iran Strikes Leave Amazon Availability Zones \"Hard Down\" in Bahrain and Dubai",
+      "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
       "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability"
     ]
   ],
@@ -77,16 +107,6 @@
     [
       "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
       "https://jobs.ashbyhq.com/charge-robotics"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 21:09:24",
-      "https://news.ycombinator.com/item?id=47632312"
-    ],
-    [
-      "The Hardest Document Extraction Problem in Insurance",
-      "https://www.furtherai.com/engineering-blogs/hardest-document-extraction-problem-in-insurance"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-04-03, 19:28:06",
-      "https://news.ycombinator.com/item?id=47631030"
-    ],
-    [
-      "Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment",
-      "https://ismcpdead.com"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 19:17:28",
       "https://news.ycombinator.com/item?id=47630893"
     ],
@@ -157,16 +167,6 @@
     [
       "How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)",
       "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 18:20:16",
-      "https://news.ycombinator.com/item?id=47630109"
-    ],
-    [
-      "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
-      "https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2026-04-03, 16:21:32",
+      "https://news.ycombinator.com/item?id=47628608"
+    ],
+    [
+      "OpenClaw privilege-escalation bug",
+      "https://nvd.nist.gov/vuln/detail/CVE-2026-33579"
+    ]
+  ],
+  [
+    [
       "2026-04-03, 16:00:44",
       "https://news.ycombinator.com/item?id=47628326"
     ],
@@ -227,16 +237,6 @@
     [
       "Show HN: I built a frontpage for personal blogs",
       "https://text.blogosphere.app/"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 09:52:20",
-      "https://news.ycombinator.com/item?id=47624811"
-    ],
-    [
-      "SSH certificates: the better SSH experience",
-      "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-03-31, 13:46:11",
-      "https://news.ycombinator.com/item?id=47587339"
-    ],
-    [
-      "DCJ11Hack+ – DEC PDP/11 based homebrew computer",
-      "https://codeberg.org/TechPaula/DCJ11HackPlus"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 13:13:20",
       "https://news.ycombinator.com/item?id=47586885"
     ],
     [
       "What changes when you turn a Linux box into a router",
       "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 10:53:52",
+      "https://news.ycombinator.com/item?id=47585469"
+    ],
+    [
+      "Herbie: Automatically improve imprecise floating point formulas",
+      "https://herbie.uwplse.org/doc/latest/tutorial.html"
     ]
   ],
   [
