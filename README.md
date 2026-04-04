@@ -21,15 +21,15 @@
 * [2026-04-03, 16:00:44](https://news.ycombinator.com/item?id=47628326) - [F-15E jet shot down over Iran](https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran)
 * [2026-04-03, 15:08:16](https://news.ycombinator.com/item?id=47627527) - [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/)
 * [2026-04-03, 13:28:58](https://news.ycombinator.com/item?id=47626462) - [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)
+* [2026-04-03, 09:52:20](https://news.ycombinator.com/item?id=47624811) - [SSH certificates: the better SSH experience](https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/)
 * [2026-04-03, 02:29:22](https://news.ycombinator.com/item?id=47622616) - [The Technocracy Movement of the 1930s](https://donotresearch.substack.com/p/welcome-to-the-technocracy)
 * [2026-04-03, 00:00:19](https://news.ycombinator.com/item?id=47621792) - [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)
 * [2026-04-02, 18:24:29](https://news.ycombinator.com/item?id=47618223) - [We replaced RAG with a virtual filesystem for our AI documentation assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
-* [2026-04-02, 02:59:56](https://news.ycombinator.com/item?id=47609492) - [50 years measuring the cleanest air](https://www.csiro.au/en/news/All/News/2026/April/50-years-measuring-the-worlds-cleanest-air)
+* [2026-04-01, 19:30:34](https://news.ycombinator.com/item?id=47605425) - [Sequential Optimal Packing for PCB Placement](https://blog.autorouting.com/p/sequential-optimal-packing-for-pcb)
 * [2026-04-01, 05:28:59](https://news.ycombinator.com/item?id=47597159) - [Improving my focus by giving up my big monitor](https://ounapuu.ee/posts/2026/04/01/focus/)
 * [2026-03-31, 18:44:51](https://news.ycombinator.com/item?id=47591707) - [Bourbon waste could provide next-gen supercapacitor components](https://spectrum.ieee.org/supercapacitor-electrodes-bourbon-waste)
 * [2026-03-31, 13:13:20](https://news.ycombinator.com/item?id=47586885) - [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/)
 * [2026-03-31, 10:53:52](https://news.ycombinator.com/item?id=47585469) - [Herbie: Automatically improve imprecise floating point formulas](https://herbie.uwplse.org/doc/latest/tutorial.html)
-* [2026-03-30, 22:03:01](https://news.ycombinator.com/item?id=47580271) - [South Polar Times](https://www.laphamsquarterly.org/roundtable/south-polar-times)
 
 ## [Archives](archives/index.md)
 
