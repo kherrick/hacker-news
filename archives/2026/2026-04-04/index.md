@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-04](index.md)
 
+* [2026-04-04, 16:20:54](https://news.ycombinator.com/item?id=47640431) - [What life looks like on the most remote inhabited island](https://apps.npr.org/life-on-tristan-da-cunha/)
+* [2026-04-04, 16:16:10](https://news.ycombinator.com/item?id=47640380) - [Apple approves driver that lets Nvidia eGPUs work with Arm Macs](https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs)
 * [2026-04-04, 15:39:10](https://news.ycombinator.com/item?id=47639976) - [German men 18-45 need military permit to leave country for longer than 3 months](https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677)
+* [2026-04-04, 15:18:58](https://news.ycombinator.com/item?id=47639779) - [Show HN: sllm – Split a GPU node with other developers, unlimited tokens](https://sllm.cloud)
 * [2026-04-04, 14:53:16](https://news.ycombinator.com/item?id=47639567) - [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm)
 * [2026-04-04, 14:48:26](https://news.ycombinator.com/item?id=47639524) - [Author of \"Careless People\" banned from saying anything negative about Meta](https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf)
 * [2026-04-04, 14:18:06](https://news.ycombinator.com/item?id=47639291) - [The Indie Internet Index – submit your favorite sites](https://iii.social)
