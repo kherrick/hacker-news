@@ -1,32 +1,52 @@
 [
   [
     [
+      "2026-04-04, 02:44:00",
+      "https://news.ycombinator.com/item?id=47635138"
+    ],
+    [
+      "Europe asks if reviving nuclear is the answer to energy shocks",
+      "https://www.bbc.com/news/articles/c4g8k8vq8gno"
+    ]
+  ],
+  [
+    [
+      "2026-04-04, 02:30:32",
+      "https://news.ycombinator.com/item?id=47635056"
+    ],
+    [
+      "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
+      "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr"
+    ]
+  ],
+  [
+    [
+      "2026-04-04, 02:26:42",
+      "https://news.ycombinator.com/item?id=47635033"
+    ],
+    [
+      "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+      "https://github.com/borski/travel-hacking-toolkit"
+    ]
+  ],
+  [
+    [
+      "2026-04-04, 01:37:02",
+      "https://news.ycombinator.com/item?id=47634690"
+    ],
+    [
+      "Delve Removed from Y Combinator",
+      "https://www.ycombinator.com/companies/delve"
+    ]
+  ],
+  [
+    [
       "2026-04-03, 23:56:32",
       "https://news.ycombinator.com/item?id=47633947"
     ],
     [
-      "The FAA \"Temporary\" Drone Restriction Blatant Attempt to Criminalize Filming ICE",
+      "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
       "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 23:26:44",
-      "https://news.ycombinator.com/item?id=47633676"
-    ],
-    [
-      "Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",
-      "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 23:22:37",
-      "https://news.ycombinator.com/item?id=47633640"
-    ],
-    [
-      "How to Write Unmaintainable Code (1999)",
-      "https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html"
     ]
   ],
   [
@@ -81,26 +101,6 @@
   ],
   [
     [
-      "2026-04-03, 21:42:09",
-      "https://news.ycombinator.com/item?id=47632692"
-    ],
-    [
-      "Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion",
-      "https://github.com/sleep3r/mtproto.zig"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 21:25:55",
-      "https://news.ycombinator.com/item?id=47632503"
-    ],
-    [
-      "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
-      "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 21:21:13",
       "https://news.ycombinator.com/item?id=47632460"
     ],
@@ -117,16 +117,6 @@
     [
       "Oracle Files H-1B Visa Petitions Amid Mass Layoffs",
       "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 20:13:50",
-      "https://news.ycombinator.com/item?id=47631648"
-    ],
-    [
-      "Automatic Textbook Formalization",
-      "https://github.com/facebookresearch/repoprover"
     ]
   ],
   [
@@ -151,32 +141,12 @@
   ],
   [
     [
-      "2026-04-03, 18:55:12",
-      "https://news.ycombinator.com/item?id=47630592"
-    ],
-    [
-      "Async Python Is Secretly Deterministic",
-      "https://www.dbos.dev/blog/async-python-is-secretly-deterministic"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 18:54:11",
       "https://news.ycombinator.com/item?id=47630576"
     ],
     [
-      "How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)",
+      "How to make a sliding, self-locking, and predator-proof chicken coop door (2020)",
       "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 18:03:10",
-      "https://news.ycombinator.com/item?id=47629903"
-    ],
-    [
-      "Why are we still using Markdown?",
-      "https://bgslabs.org/blog/why-are-we-using-markdown/"
     ]
   ],
   [
@@ -187,6 +157,16 @@
     [
       "iNaturalist",
       "https://www.inaturalist.org/"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 17:18:38",
+      "https://news.ycombinator.com/item?id=47629382"
+    ],
+    [
+      "Getting Claude to QA its own work",
+      "https://www.skyvern.com/blog/getting-claude-to-qa-its-own-work/"
     ]
   ],
   [
@@ -205,7 +185,7 @@
       "https://news.ycombinator.com/item?id=47628608"
     ],
     [
-      "OpenClaw privilege-escalation bug",
+      "OpenClaw privilege escalation vulnerability",
       "https://nvd.nist.gov/vuln/detail/CVE-2026-33579"
     ]
   ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2026-04-03, 13:28:58",
+      "https://news.ycombinator.com/item?id=47626462"
+    ],
+    [
+      "Big-Endian Testing with QEMU",
+      "https://www.hanshq.net/big-endian-qemu.html"
+    ]
+  ],
+  [
+    [
       "2026-04-03, 12:33:45",
       "https://news.ycombinator.com/item?id=47625952"
     ],
@@ -241,12 +231,22 @@
   ],
   [
     [
-      "2026-04-03, 09:35:16",
-      "https://news.ycombinator.com/item?id=47624731"
+      "2026-04-03, 02:29:22",
+      "https://news.ycombinator.com/item?id=47622616"
     ],
     [
-      "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
-      "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5"
+      "The Technocracy Movement of the 1930s",
+      "https://donotresearch.substack.com/p/welcome-to-the-technocracy"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 00:00:19",
+      "https://news.ycombinator.com/item?id=47621792"
+    ],
+    [
+      "Post Mortem: axios NPM supply chain compromise",
+      "https://github.com/axios/axios/issues/10636"
     ]
   ],
   [
@@ -257,6 +257,16 @@
     [
       "We replaced RAG with a virtual filesystem for our AI documentation assistant",
       "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 05:28:59",
+      "https://news.ycombinator.com/item?id=47597159"
+    ],
+    [
+      "Improving my focus by giving up my big monitor",
+      "https://ounapuu.ee/posts/2026/04/01/focus/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Herbie: Automatically improve imprecise floating point formulas",
       "https://herbie.uwplse.org/doc/latest/tutorial.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 19:11:03",
-      "https://news.ycombinator.com/item?id=47578444"
-    ],
-    [
-      "A Taxonomy of Interiors",
-      "https://misfitsarchitecture.com/2026/03/29/a-taxonomy-of-interiors/"
     ]
   ]
 ]
