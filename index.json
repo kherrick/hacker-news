@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-04-04, 02:44:00",
-      "https://news.ycombinator.com/item?id=47635138"
-    ],
-    [
-      "Europe asks if reviving nuclear is the answer to energy shocks",
-      "https://www.bbc.com/news/articles/c4g8k8vq8gno"
-    ]
-  ],
-  [
-    [
       "2026-04-04, 02:30:32",
       "https://news.ycombinator.com/item?id=47635056"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=47634690"
     ],
     [
-      "Delve Removed from Y Combinator",
+      "Delve removed from Y Combinator",
       "https://www.ycombinator.com/companies/delve"
     ]
   ],
@@ -91,16 +81,6 @@
   ],
   [
     [
-      "2026-04-03, 21:46:26",
-      "https://news.ycombinator.com/item?id=47632750"
-    ],
-    [
-      "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
-      "https://github.com/cmc-labo/tinyos-rtos"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 21:21:13",
       "https://news.ycombinator.com/item?id=47632460"
     ],
@@ -151,22 +131,22 @@
   ],
   [
     [
+      "2026-04-03, 18:03:10",
+      "https://news.ycombinator.com/item?id=47629903"
+    ],
+    [
+      "Why are we still using Markdown?",
+      "https://bgslabs.org/blog/why-are-we-using-markdown/"
+    ]
+  ],
+  [
+    [
       "2026-04-03, 17:22:20",
       "https://news.ycombinator.com/item?id=47629433"
     ],
     [
       "iNaturalist",
       "https://www.inaturalist.org/"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 17:18:38",
-      "https://news.ycombinator.com/item?id=47629382"
-    ],
-    [
-      "Getting Claude to QA its own work",
-      "https://www.skyvern.com/blog/getting-claude-to-qa-its-own-work/"
     ]
   ],
   [
@@ -221,16 +201,6 @@
   ],
   [
     [
-      "2026-04-03, 12:33:45",
-      "https://news.ycombinator.com/item?id=47625952"
-    ],
-    [
-      "Show HN: I built a frontpage for personal blogs",
-      "https://text.blogosphere.app/"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 02:29:22",
       "https://news.ycombinator.com/item?id=47622616"
     ],
@@ -257,6 +227,26 @@
     [
       "We replaced RAG with a virtual filesystem for our AI documentation assistant",
       "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 15:57:28",
+      "https://news.ycombinator.com/item?id=47602598"
+    ],
+    [
+      "An experimental guide to Answer Engine Optimization",
+      "https://mapledeploy.ca/blog/answer-engine-optimization-guide"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 14:02:33",
+      "https://news.ycombinator.com/item?id=47601033"
+    ],
+    [
+      "New Color Mode Coming to GIMP",
+      "https://www.gimp.org/news/2026/04/01/new-color-mode-coming-to-gimp/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Herbie: Automatically improve imprecise floating point formulas",
       "https://herbie.uwplse.org/doc/latest/tutorial.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 22:03:01",
+      "https://news.ycombinator.com/item?id=47580271"
+    ],
+    [
+      "South Polar Times",
+      "https://www.laphamsquarterly.org/roundtable/south-polar-times"
     ]
   ]
 ]
