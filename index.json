@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-04-04, 06:30:25",
+      "https://news.ycombinator.com/item?id=47636435"
+    ],
+    [
+      "Emotion concepts and their function in a large language model",
+      "https://www.anthropic.com/research/emotion-concepts-function"
+    ]
+  ],
+  [
+    [
       "2026-04-04, 05:47:18",
       "https://news.ycombinator.com/item?id=47636203"
     ],
     [
       "Scientists are working on \"everything vaccines\"",
       "https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines"
+    ]
+  ],
+  [
+    [
+      "2026-04-04, 04:59:08",
+      "https://news.ycombinator.com/item?id=47635929"
+    ],
+    [
+      "Naming rights to street auctioned in San Francisco",
+      "https://paintastreet.com/auction"
     ]
   ],
   [
@@ -121,32 +141,12 @@
   ],
   [
     [
-      "2026-04-03, 19:17:28",
-      "https://news.ycombinator.com/item?id=47630893"
-    ],
-    [
-      "Age verification on Systemd and Flatpak",
-      "https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 18:54:11",
       "https://news.ycombinator.com/item?id=47630576"
     ],
     [
       "How to make a sliding, self-locking, and predator-proof chicken coop door (2020)",
       "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 18:03:10",
-      "https://news.ycombinator.com/item?id=47629903"
-    ],
-    [
-      "Why are we still using Markdown?",
-      "https://bgslabs.org/blog/why-are-we-using-markdown/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-04-03, 09:52:20",
-      "https://news.ycombinator.com/item?id=47624811"
-    ],
-    [
-      "SSH certificates: the better SSH experience",
-      "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 02:29:22",
       "https://news.ycombinator.com/item?id=47622616"
     ],
@@ -247,6 +237,16 @@
     [
       "We replaced RAG with a virtual filesystem for our AI documentation assistant",
       "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 02:59:56",
+      "https://news.ycombinator.com/item?id=47609492"
+    ],
+    [
+      "50 years measuring the cleanest air",
+      "https://www.csiro.au/en/news/All/News/2026/April/50-years-measuring-the-worlds-cleanest-air"
     ]
   ],
   [
