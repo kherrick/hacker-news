@@ -44,6 +44,7 @@
 * [2026-04-01, 15:12:24](https://news.ycombinator.com/item?id=47601992) - [The smallest ELF executable (2021)](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
 * [2026-04-01, 15:01:36](https://news.ycombinator.com/item?id=47601859) - [Ask HN: Who is hiring? (April 2026)](https://news.ycombinator.com/item?id=47601859)
 * [2026-04-01, 15:01:36](https://news.ycombinator.com/item?id=47601858) - [Ask HN: Who wants to be hired? (April 2026)](https://news.ycombinator.com/item?id=47601858)
+* [2026-04-01, 14:37:50](https://news.ycombinator.com/item?id=47601570) - [Csp-toolkit – Python library to parse, analyze, and find bypasses in CSP headers](https://chs.us/2026/03/csp-toolkit/)
 * [2026-04-01, 14:36:51](https://news.ycombinator.com/item?id=47601555) - [Apple Removes iPhone Vibe Coding App from App Store](https://gizmodo.com/apple-removes-iphone-vibe-coding-app-from-app-store-2000740084)
 * [2026-04-01, 14:26:16](https://news.ycombinator.com/item?id=47601405) - [OpenAI Demand Sinks on Secondary Market as Anthropic Runs Hot](https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot)
 * [2026-04-01, 14:19:25](https://news.ycombinator.com/item?id=47601310) - [Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs](https://www.euronews.com/2026/03/31/iran-war-sparks-renewables-boom-as-europeans-rush-to-buy-solar-heat-pumps-and-evs)
