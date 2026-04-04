@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
+* [2026-04-03, 23:56:32](https://news.ycombinator.com/item?id=47633947) - [The FAA \"Temporary\" Drone Restriction Blatant Attempt to Criminalize Filming ICE](https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice)
+* [2026-04-03, 23:26:44](https://news.ycombinator.com/item?id=47633676) - [Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)](https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans)
 * [2026-04-03, 23:22:37](https://news.ycombinator.com/item?id=47633640) - [How to Write Unmaintainable Code (1999)](https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html)
 * [2026-04-03, 22:55:24](https://news.ycombinator.com/item?id=47633396) - [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
 * [2026-04-03, 22:26:38](https://news.ycombinator.com/item?id=47633157) - [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans)
+* [2026-04-03, 22:23:55](https://news.ycombinator.com/item?id=47633131) - [Run Linux containers on Android, no root required](https://github.com/ExTV/Podroid)
 * [2026-04-03, 22:22:18](https://news.ycombinator.com/item?id=47633116) - [The house is a work of art: Frank Lloyd Wright](https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition)
 * [2026-04-03, 21:46:26](https://news.ycombinator.com/item?id=47632750) - [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos)
 * [2026-04-03, 21:42:09](https://news.ycombinator.com/item?id=47632692) - [Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion](https://github.com/sleep3r/mtproto.zig)
@@ -32,6 +35,7 @@
 * [2026-04-03, 17:10:44](https://news.ycombinator.com/item?id=47629306) - [Pharmaceuticals face 100% tariffs in US – unless firms strike a deal](https://www.bbc.com/news/articles/cx29kke01gpo)
 * [2026-04-03, 16:57:09](https://news.ycombinator.com/item?id=47629116) - [Go on Embedded Systems and WebAssembly](https://tinygo.org/)
 * [2026-04-03, 16:47:46](https://news.ycombinator.com/item?id=47629013) - [Mercurial Dyson – a plan for the disassembly of planet Mercury](https://github.com/RokoMijic/MercurialDyson/blob/main/written_report.md)
+* [2026-04-03, 16:21:32](https://news.ycombinator.com/item?id=47628608) - [OpenClaw privilege-escalation bug](https://nvd.nist.gov/vuln/detail/CVE-2026-33579)
 * [2026-04-03, 16:21:32](https://news.ycombinator.com/item?id=47628608) - [If you're running OpenClaw, you probably got hacked in the last week](https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/)
 * [2026-04-03, 16:00:44](https://news.ycombinator.com/item?id=47628326) - [F-15E jet shot down over Iran](https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran)
 * [2026-04-03, 15:08:16](https://news.ycombinator.com/item?id=47627527) - [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/)
