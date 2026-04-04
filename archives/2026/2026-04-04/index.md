@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-04](index.md)
 
+* [2026-04-04, 15:39:10](https://news.ycombinator.com/item?id=47639976) - [German men 18-45 need military permit to leave country for longer than 3 months](https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677)
 * [2026-04-04, 14:53:16](https://news.ycombinator.com/item?id=47639567) - [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm)
 * [2026-04-04, 14:48:26](https://news.ycombinator.com/item?id=47639524) - [Author of \"Careless People\" banned from saying anything negative about Meta](https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf)
+* [2026-04-04, 14:18:06](https://news.ycombinator.com/item?id=47639291) - [The Indie Internet Index – submit your favorite sites](https://iii.social)
+* [2026-04-04, 14:08:09](https://news.ycombinator.com/item?id=47639199) - [No One at Waffle House Remembers FEMA Official Who Says He Teleported In](https://www.nytimes.com/2026/04/03/us/fema-gregg-phillips-waffle-house-teleportation.html)
 * [2026-04-04, 13:49:03](https://news.ycombinator.com/item?id=47639042) - [Trying for 1 month but can't learn pixel art still](https://news.ycombinator.com/item?id=47639042)
 * [2026-04-04, 13:16:33](https://news.ycombinator.com/item?id=47638810) - [Components of a Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
 * [2026-04-04, 12:58:45](https://news.ycombinator.com/item?id=47638685) - [Ask HN: How do you handle clients who don't pay on time?](https://news.ycombinator.com/item?id=47638685)
