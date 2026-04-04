@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
 * [2026-04-03, 23:56:32](https://news.ycombinator.com/item?id=47633947) - [The FAA \"Temporary\" Drone Restriction Blatant Attempt to Criminalize Filming ICE](https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice)
+* [2026-04-03, 23:46:51](https://news.ycombinator.com/item?id=47633855) - [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/)
 * [2026-04-03, 23:26:44](https://news.ycombinator.com/item?id=47633676) - [Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)](https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans)
 * [2026-04-03, 23:22:37](https://news.ycombinator.com/item?id=47633640) - [How to Write Unmaintainable Code (1999)](https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html)
 * [2026-04-03, 22:55:24](https://news.ycombinator.com/item?id=47633396) - [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
