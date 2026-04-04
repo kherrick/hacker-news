@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-04-04, 10:26:21",
+      "https://news.ycombinator.com/item?id=47637757"
+    ],
+    [
+      "Apple: Embarrassingly Simple Self-Distillation Improves Code Generation",
+      "https://arxiv.org/abs/2604.01193"
+    ]
+  ],
+  [
+    [
+      "2026-04-04, 09:15:47",
+      "https://news.ycombinator.com/item?id=47637353"
+    ],
+    [
+      "SQLite in Production: Lessons from Running a Store on a Single File",
+      "https://ultrathink.art/blog/sqlite-in-production-lessons"
+    ]
+  ],
+  [
+    [
       "2026-04-04, 09:04:19",
       "https://news.ycombinator.com/item?id=47637287"
     ],
     [
       "Some Unusual Trees",
       "https://thoughts.wyounas.com/p/some-unusual-trees"
-    ]
-  ],
-  [
-    [
-      "2026-04-04, 06:30:25",
-      "https://news.ycombinator.com/item?id=47636435"
-    ],
-    [
-      "Emotion concepts and their function in a large language model",
-      "https://www.anthropic.com/research/emotion-concepts-function"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2026-04-03, 21:21:13",
-      "https://news.ycombinator.com/item?id=47632460"
-    ],
-    [
-      "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
-      "https://jobs.ashbyhq.com/charge-robotics"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 19:35:02",
       "https://news.ycombinator.com/item?id=47631118"
     ],
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2026-04-03, 12:33:45",
+      "https://news.ycombinator.com/item?id=47625952"
+    ],
+    [
+      "Show HN: I built a frontpage for personal blogs",
+      "https://text.blogosphere.app/"
+    ]
+  ],
+  [
+    [
       "2026-04-03, 02:29:22",
       "https://news.ycombinator.com/item?id=47622616"
     ],
     [
       "The Technocracy Movement of the 1930s",
       "https://donotresearch.substack.com/p/welcome-to-the-technocracy"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 00:00:19",
-      "https://news.ycombinator.com/item?id=47621792"
-    ],
-    [
-      "Post Mortem: axios NPM supply chain compromise",
-      "https://github.com/axios/axios/issues/10636"
     ]
   ],
   [
