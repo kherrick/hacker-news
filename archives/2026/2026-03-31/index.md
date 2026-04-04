@@ -18,6 +18,7 @@
 * [2026-03-31, 19:57:05](https://news.ycombinator.com/item?id=47592614) - [Prefer do notation over Applicative operators when assembling records (2024)](https://haskellforall.com/2024/05/prefer-do-notation-over-applicative)
 * [2026-03-31, 19:46:43](https://news.ycombinator.com/item?id=47592462) - [I Traced My Traffic Through a Home Tailscale Exit Node](https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/)
 * [2026-03-31, 19:22:58](https://news.ycombinator.com/item?id=47592183) - [Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology](https://cerno.sh)
+* [2026-03-31, 19:12:54](https://news.ycombinator.com/item?id=47592068) - [Why Inventing Color TV Was So Difficult [video]](https://www.youtube.com/watch?v=hyjCmIbRRvs)
 * [2026-03-31, 19:01:29](https://news.ycombinator.com/item?id=47591928) - [GitHub's Historic Uptime](https://damrnelson.github.io/github-historical-uptime/)
 * [2026-03-31, 18:44:51](https://news.ycombinator.com/item?id=47591707) - [Bourbon waste could provide next-gen supercapacitor components](https://spectrum.ieee.org/supercapacitor-electrodes-bourbon-waste)
 * [2026-03-31, 18:38:29](https://news.ycombinator.com/item?id=47591630) - [Show HN: My open-world voxel game with a magic system, playable in the browser](https://kouh.me/wildmagic)

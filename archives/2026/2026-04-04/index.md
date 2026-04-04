@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-04-04](index.md)
 
 * [2026-04-04, 12:00:38](https://news.ycombinator.com/item?id=47638270) - [Mbodi AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls)
+* [2026-04-04, 11:57:14](https://news.ycombinator.com/item?id=47638246) - [Jack Dorsey says Block employees now bring prototypes, not slides, to meetings](https://www.businessinsider.com/block-ceo-jack-dorsey-bring-prototypes-not-slide-decks-meetings-2026-4)
+* [2026-04-04, 11:24:30](https://news.ycombinator.com/item?id=47638075) - [The CMS is dead. Long live the CMS](https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms)
 * [2026-04-04, 11:19:55](https://news.ycombinator.com/item?id=47638047) - [Tesla Is Sitting on a Record 50k Unsold EVs](https://insideevs.com/news/791999/tesla-unsold-inventory-record-q1-2026/)
 * [2026-04-04, 10:26:21](https://news.ycombinator.com/item?id=47637757) - [Apple: Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193)
 * [2026-04-04, 09:15:47](https://news.ycombinator.com/item?id=47637353) - [SQLite in Production: Lessons from Running a Store on a Single File](https://ultrathink.art/blog/sqlite-in-production-lessons)
