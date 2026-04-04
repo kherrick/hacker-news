@@ -60,6 +60,7 @@
 * [2026-04-01, 07:27:13](https://news.ycombinator.com/item?id=47597935) - [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)
 * [2026-04-01, 07:22:41](https://news.ycombinator.com/item?id=47597908) - [Remembering Magnetic Memories and the Apollo AGC](https://2earth.github.io/website/20260304.html)
 * [2026-04-01, 06:05:57](https://news.ycombinator.com/item?id=47597382) - [Mad Bugs: Vim vs. Emacs vs. Claude](https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude)
+* [2026-04-01, 06:04:12](https://news.ycombinator.com/item?id=47597366) - [The most-disliked people in the publishing industry](https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing)
 * [2026-04-01, 05:28:59](https://news.ycombinator.com/item?id=47597159) - [Improving my focus by giving up my big monitor](https://ounapuu.ee/posts/2026/04/01/focus/)
 * [2026-04-01, 05:21:48](https://news.ycombinator.com/item?id=47597119) - [Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)](https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md)
 * [2026-04-01, 05:15:37](https://news.ycombinator.com/item?id=47597085) - [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
