@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-04](index.md)
 
+* [2026-04-04, 10:26:21](https://news.ycombinator.com/item?id=47637757) - [Apple: Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193)
+* [2026-04-04, 09:15:47](https://news.ycombinator.com/item?id=47637353) - [SQLite in Production: Lessons from Running a Store on a Single File](https://ultrathink.art/blog/sqlite-in-production-lessons)
 * [2026-04-04, 09:04:19](https://news.ycombinator.com/item?id=47637287) - [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees)
 * [2026-04-04, 06:30:25](https://news.ycombinator.com/item?id=47636435) - [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function)
 * [2026-04-04, 05:47:18](https://news.ycombinator.com/item?id=47636203) - [Scientists are working on \"everything vaccines\"](https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines)
