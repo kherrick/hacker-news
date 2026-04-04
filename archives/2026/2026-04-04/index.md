@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-04](index.md)
 
+* [2026-04-04, 14:53:16](https://news.ycombinator.com/item?id=47639567) - [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm)
 * [2026-04-04, 14:48:26](https://news.ycombinator.com/item?id=47639524) - [Author of \"Careless People\" banned from saying anything negative about Meta](https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf)
 * [2026-04-04, 13:49:03](https://news.ycombinator.com/item?id=47639042) - [Trying for 1 month but can't learn pixel art still](https://news.ycombinator.com/item?id=47639042)
+* [2026-04-04, 13:16:33](https://news.ycombinator.com/item?id=47638810) - [Components of a Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
 * [2026-04-04, 12:58:45](https://news.ycombinator.com/item?id=47638685) - [Ask HN: How do you handle clients who don't pay on time?](https://news.ycombinator.com/item?id=47638685)
 * [2026-04-04, 12:00:38](https://news.ycombinator.com/item?id=47638270) - [Mbodi AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls)
 * [2026-04-04, 11:57:14](https://news.ycombinator.com/item?id=47638246) - [Jack Dorsey says Block employees now bring prototypes, not slides, to meetings](https://www.businessinsider.com/block-ceo-jack-dorsey-bring-prototypes-not-slide-decks-meetings-2026-4)
