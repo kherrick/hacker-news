@@ -6,6 +6,7 @@
 
 * [2026-04-04, 17:13:39](https://news.ycombinator.com/item?id=47641057) - [Astronomers Find a Third Galaxy Missing Its Dark Matter](https://www.universetoday.com/articles/astronomers-find-a-third-galaxy-missing-its-dark-matter-validating-a-violent-cosmic-collision-theory)
 * [2026-04-04, 17:06:29](https://news.ycombinator.com/item?id=47640984) - [Iran's Network of Cameras Bolsters Air Defenses, Expert Says](https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8)
+* [2026-04-04, 16:49:40](https://news.ycombinator.com/item?id=47640775) - [Why the Most Valuable Things You Know Are Things You Cannot Say](https://deadneurons.substack.com/p/why-the-most-valuable-things-you)
 * [2026-04-04, 16:45:54](https://news.ycombinator.com/item?id=47640728) - [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/)
 * [2026-04-04, 16:45:31](https://news.ycombinator.com/item?id=47640722) - [12,000 AI-generated blog posts added in a single commit](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
 * [2026-04-04, 16:20:54](https://news.ycombinator.com/item?id=47640431) - [What life looks like on the most remote inhabited island](https://apps.npr.org/life-on-tristan-da-cunha/)
