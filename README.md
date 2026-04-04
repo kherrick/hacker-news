@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-04, 12:00:38](https://news.ycombinator.com/item?id=47638270) - [Mbodi AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls)
+* [2026-04-04, 11:19:55](https://news.ycombinator.com/item?id=47638047) - [Tesla Is Sitting on a Record 50k Unsold EVs](https://insideevs.com/news/791999/tesla-unsold-inventory-record-q1-2026/)
 * [2026-04-04, 10:26:21](https://news.ycombinator.com/item?id=47637757) - [Apple: Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193)
-* [2026-04-04, 09:15:47](https://news.ycombinator.com/item?id=47637353) - [SQLite in Production: Lessons from Running a Store on a Single File](https://ultrathink.art/blog/sqlite-in-production-lessons)
 * [2026-04-04, 09:04:19](https://news.ycombinator.com/item?id=47637287) - [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees)
 * [2026-04-04, 05:47:18](https://news.ycombinator.com/item?id=47636203) - [Scientists are working on \"everything vaccines\"](https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines)
 * [2026-04-04, 02:30:32](https://news.ycombinator.com/item?id=47635056) - [Gold overtakes U.S. Treasuries as the largest foreign reserve asset](https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr)
@@ -21,7 +22,6 @@
 * [2026-04-03, 16:00:44](https://news.ycombinator.com/item?id=47628326) - [F-15E jet shot down over Iran](https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran)
 * [2026-04-03, 15:08:16](https://news.ycombinator.com/item?id=47627527) - [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/)
 * [2026-04-03, 13:28:58](https://news.ycombinator.com/item?id=47626462) - [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)
-* [2026-04-03, 12:33:45](https://news.ycombinator.com/item?id=47625952) - [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/)
 * [2026-04-03, 02:29:22](https://news.ycombinator.com/item?id=47622616) - [The Technocracy Movement of the 1930s](https://donotresearch.substack.com/p/welcome-to-the-technocracy)
 * [2026-04-02, 18:24:29](https://news.ycombinator.com/item?id=47618223) - [We replaced RAG with a virtual filesystem for our AI documentation assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
 * [2026-04-01, 19:30:34](https://news.ycombinator.com/item?id=47605425) - [Sequential Optimal Packing for PCB Placement](https://blog.autorouting.com/p/sequential-optimal-packing-for-pcb)
