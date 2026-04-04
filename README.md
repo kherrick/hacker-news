@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-04, 12:58:45](https://news.ycombinator.com/item?id=47638685) - [Ask HN: How do you handle clients who don't pay on time?](https://news.ycombinator.com/item?id=47638685)
 * [2026-04-04, 12:00:38](https://news.ycombinator.com/item?id=47638270) - [Mbodi AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls)
 * [2026-04-04, 11:57:14](https://news.ycombinator.com/item?id=47638246) - [Jack Dorsey says Block employees now bring prototypes, not slides, to meetings](https://www.businessinsider.com/block-ceo-jack-dorsey-bring-prototypes-not-slide-decks-meetings-2026-4)
 * [2026-04-04, 11:24:30](https://news.ycombinator.com/item?id=47638075) - [The CMS is dead. Long live the CMS](https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms)
 * [2026-04-04, 10:26:21](https://news.ycombinator.com/item?id=47637757) - [Simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193)
 * [2026-04-04, 09:04:19](https://news.ycombinator.com/item?id=47637287) - [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees)
 * [2026-04-04, 01:37:02](https://news.ycombinator.com/item?id=47634690) - [Delve removed from Y Combinator](https://www.ycombinator.com/companies/delve)
-* [2026-04-03, 23:56:32](https://news.ycombinator.com/item?id=47633947) - [The FAA’s flight restriction for drones is an attempt to criminalize filming ICE](https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice)
 * [2026-04-03, 23:46:51](https://news.ycombinator.com/item?id=47633855) - [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/)
 * [2026-04-03, 22:55:24](https://news.ycombinator.com/item?id=47633396) - [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
 * [2026-04-03, 22:26:38](https://news.ycombinator.com/item?id=47633157) - [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans)

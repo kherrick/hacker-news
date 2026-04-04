@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-04](index.md)
 
+* [2026-04-04, 12:58:45](https://news.ycombinator.com/item?id=47638685) - [Ask HN: How do you handle clients who don't pay on time?](https://news.ycombinator.com/item?id=47638685)
 * [2026-04-04, 12:00:38](https://news.ycombinator.com/item?id=47638270) - [Mbodi AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls)
 * [2026-04-04, 11:57:14](https://news.ycombinator.com/item?id=47638246) - [Jack Dorsey says Block employees now bring prototypes, not slides, to meetings](https://www.businessinsider.com/block-ceo-jack-dorsey-bring-prototypes-not-slide-decks-meetings-2026-4)
 * [2026-04-04, 11:24:30](https://news.ycombinator.com/item?id=47638075) - [The CMS is dead. Long live the CMS](https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms)
