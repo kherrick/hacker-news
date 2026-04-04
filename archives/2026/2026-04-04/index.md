@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-04](index.md)
 
 * [2026-04-04, 19:39:43](https://news.ycombinator.com/item?id=47642569) - [How many products does Microsoft have named 'Copilot'? I mapped every one](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
+* [2026-04-04, 18:23:55](https://news.ycombinator.com/item?id=47641788) - [Iranian missile blitz takes down AWS data centers in Bahrain and Dubai](https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones)
 * [2026-04-04, 18:06:24](https://news.ycombinator.com/item?id=47641615) - [Sopwith](http://www.sopwith.org/)
 * [2026-04-04, 18:01:11](https://news.ycombinator.com/item?id=47641555) - [US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war](https://www.msn.com/en-us/money/other/us-deploys-bulk-of-stealthy-long-range-missile-for-iran-war/ar-AA209yKj)
 * [2026-04-04, 17:54:52](https://news.ycombinator.com/item?id=47641487) - [Show HN: Running local OpenClaw together with remote agents in an open network](https://github.com/hybroai/hybro-hub)
