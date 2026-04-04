@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 23:41:42](https://news.ycombinator.com/item?id=47594936) - [GitHub has DMCA'd nearly all forks of the official Claude-code repo](https://github.com/anthropics/claude-code/forks)
 * [2026-03-31, 21:43:15](https://news.ycombinator.com/item?id=47593861) - [Maze Algorithms (1997)](https://www.astrolog.org/labyrnth/algrithm.htm)
 * [2026-03-31, 21:22:48](https://news.ycombinator.com/item?id=47593634) - [Ordinary Lab Gloves May Have Skewed Microplastic Data](https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386)
 * [2026-03-31, 21:15:01](https://news.ycombinator.com/item?id=47593556) - [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system)
