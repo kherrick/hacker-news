@@ -2,8 +2,6 @@
 
 * [2026-04-04, 06:30:25](https://news.ycombinator.com/item?id=47636435) - [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function)
 * [2026-04-04, 05:47:18](https://news.ycombinator.com/item?id=47636203) - [Scientists are working on \"everything vaccines\"](https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines)
-* [2026-04-04, 04:59:08](https://news.ycombinator.com/item?id=47635929) - [Naming rights to street auctioned in San Francisco](https://paintastreet.com/auction)
-* [2026-04-04, 04:05:29](https://news.ycombinator.com/item?id=47635616) - [Delve sets the record straight on anonymous attacks](https://delve.co/blog/delve-sets-the-record-straight-on-anonymous-attacks)
 * [2026-04-04, 02:30:32](https://news.ycombinator.com/item?id=47635056) - [Gold overtakes U.S. Treasuries as the largest foreign reserve asset](https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr)
 * [2026-04-04, 02:26:42](https://news.ycombinator.com/item?id=47635033) - [Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://github.com/borski/travel-hacking-toolkit)
 * [2026-04-04, 01:37:02](https://news.ycombinator.com/item?id=47634690) - [Delve removed from Y Combinator](https://www.ycombinator.com/companies/delve)
@@ -14,7 +12,9 @@
 * [2026-04-03, 22:22:18](https://news.ycombinator.com/item?id=47633116) - [The house is a work of art: Frank Lloyd Wright](https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition)
 * [2026-04-03, 21:21:13](https://news.ycombinator.com/item?id=47632460) - [Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers](https://jobs.ashbyhq.com/charge-robotics)
 * [2026-04-03, 19:35:02](https://news.ycombinator.com/item?id=47631118) - [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
+* [2026-04-03, 19:17:28](https://news.ycombinator.com/item?id=47630893) - [Age verification on Systemd and Flatpak](https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/)
 * [2026-04-03, 18:54:11](https://news.ycombinator.com/item?id=47630576) - [How to make a sliding, self-locking, and predator-proof chicken coop door (2020)](https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/)
+* [2026-04-03, 18:03:10](https://news.ycombinator.com/item?id=47629903) - [Why are we still using Markdown?](https://bgslabs.org/blog/why-are-we-using-markdown/)
 * [2026-04-03, 17:22:20](https://news.ycombinator.com/item?id=47629433) - [iNaturalist](https://www.inaturalist.org/)
 * [2026-04-03, 16:57:09](https://news.ycombinator.com/item?id=47629116) - [Go on Embedded Systems and WebAssembly](https://tinygo.org/)
 * [2026-04-03, 16:21:32](https://news.ycombinator.com/item?id=47628608) - [OpenClaw privilege escalation vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2026-33579)
