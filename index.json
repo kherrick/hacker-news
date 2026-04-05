@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-05, 06:57:19",
+      "https://news.ycombinator.com/item?id=47646843"
+    ],
+    [
+      "Lisette a little language inspired by Rust that compiles to Go",
+      "https://lisette.run/"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 05:50:04",
+      "https://news.ycombinator.com/item?id=47646472"
+    ],
+    [
+      "Aegis – open-source FPGA silicon",
+      "https://github.com/MidstallSoftware/aegis"
+    ]
+  ],
+  [
+    [
       "2026-04-05, 05:28:41",
       "https://news.ycombinator.com/item?id=47646363"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-04-03, 22:55:24",
-      "https://news.ycombinator.com/item?id=47633396"
-    ],
-    [
-      "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-      "https://news.ycombinator.com/item?id=47633396"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 15:53:45",
       "https://news.ycombinator.com/item?id=47616157"
     ],
@@ -237,16 +247,6 @@
     [
       "Show HN: I built a small app for FSI German Course",
       "https://detawk.com/"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 20:38:24",
-      "https://news.ycombinator.com/item?id=47606244"
-    ],
-    [
-      "Training mRNA Language Models Across 25 Species for $165",
-      "https://news.ycombinator.com/item?id=47606244"
     ]
   ],
   [
