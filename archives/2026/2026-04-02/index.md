@@ -27,6 +27,7 @@
 * [2026-04-02, 17:52:11](https://news.ycombinator.com/item?id=47617787) - [Attorney General Pam Bondi Out at DOJ](https://www.npr.org/2026/04/02/g-s1-115077/trump-bondi-attorney-general-departure)
 * [2026-04-02, 17:29:03](https://news.ycombinator.com/item?id=47617415) - [Good ideas do not need lots of lies in order to gain public acceptance (2008)](https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html)
 * [2026-04-02, 17:26:49](https://news.ycombinator.com/item?id=47617376) - [OpenAI Acquires TBPN](https://openai.com/index/openai-acquires-tbpn/)
+* [2026-04-02, 17:15:33](https://news.ycombinator.com/item?id=47617233) - [The Enigma of Gertrude Stein](https://www.thenation.com/article/culture/gertrude-stein-afterlife-wade-review/)
 * [2026-04-02, 17:00:11](https://news.ycombinator.com/item?id=47617027) - [A forecast of the fair market value of SpaceX's businesses](https://futuresearch.ai/spacex-ipo-valuation/)
 * [2026-04-02, 16:34:39](https://news.ycombinator.com/item?id=47616704) - [Modern SQLite: Features You Didn't Know It Had](https://slicker.me/sqlite/features.htm)
 * [2026-04-02, 16:27:23](https://news.ycombinator.com/item?id=47616622) - [EmDash: A Fresh Take on CMS](https://maciekpalmowski.dev/blog/emdash-a-fresh-take-on-cms/)

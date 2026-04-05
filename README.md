@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-05, 17:20:10](https://news.ycombinator.com/item?id=47651626) - [Reaffirming our commitment to child safety in the face of EuropeanUnion inaction](https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/)
+* [2026-04-05, 18:23:14](https://news.ycombinator.com/item?id=47652324) - [LibreOffice – Let's put an end to the speculation](https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/)
+* [2026-04-05, 17:13:51](https://news.ycombinator.com/item?id=47651540) - [Running Google Gemma 4 Locally with LM Studio's New Headless CLI and Claude Code](https://ai.georgeliu.com/p/running-google-gemma-4-locally-with)
 * [2026-04-05, 17:08:55](https://news.ycombinator.com/item?id=47651479) - [From birds to brains: My path to the fusiform face area (2024)](https://www.kavliprize.org/nancy-kanwisher-autobiography)
+* [2026-04-05, 17:02:38](https://news.ycombinator.com/item?id=47651401) - [With one million displaced, Lebanon turns to digital wallets for aid](https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/)
 * [2026-04-05, 16:21:51](https://news.ycombinator.com/item?id=47650962) - [The Melanesian: Dark-skinned people with blonde hair region of Oceania](https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/)
-* [2026-04-05, 15:58:08](https://news.ycombinator.com/item?id=47650726) - [Codex is switching to API pricing based usage for all users](https://help.openai.com/en/articles/20001106-codex-rate-card)
+* [2026-04-05, 15:58:08](https://news.ycombinator.com/item?id=47650726) - [Codex pricing to align with API token usage, instead of per-message](https://help.openai.com/en/articles/20001106-codex-rate-card)
 * [2026-04-05, 15:38:18](https://news.ycombinator.com/item?id=47650502) - [Computational Physics (2nd Edition)](https://websites.umich.edu/~mejn/cp2/)
-* [2026-04-05, 15:27:17](https://news.ycombinator.com/item?id=47650401) - [StackOverflow: Retiring the Beta Site](https://meta.stackoverflow.com/questions/438628/retiring-the-beta-site)
 * [2026-04-05, 15:18:01](https://news.ycombinator.com/item?id=47650312) - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
 * [2026-04-05, 15:04:00](https://news.ycombinator.com/item?id=47650172) - [Phone-free bars and restaurants on the rise across the U.S.](https://www.axios.com/2026/04/05/phone-free-restaurants-bars-bans-restrictions-offline)
 * [2026-04-05, 14:21:17](https://news.ycombinator.com/item?id=47649742) - [Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs](https://github.com/salmanmohammadi/nanocode/discussions/1)
@@ -25,11 +26,10 @@
 * [2026-04-05, 01:54:29](https://news.ycombinator.com/item?id=47645432) - [Introduction to Computer Music (2009) [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
 * [2026-04-04, 22:57:44](https://news.ycombinator.com/item?id=47644406) - [German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/)
 * [2026-04-03, 22:19:57](https://news.ycombinator.com/item?id=47633086) - [Just 'English with Hanzi'](https://www.oldnorthwhale.com/p/why-modern-chinese-is-just-english)
+* [2026-04-02, 17:15:33](https://news.ycombinator.com/item?id=47617233) - [The Enigma of Gertrude Stein](https://www.thenation.com/article/culture/gertrude-stein-afterlife-wade-review/)
 * [2026-04-02, 12:01:27](https://news.ycombinator.com/item?id=47613272) - [Tracing Goroutines in Realtime with eBPF](https://sazak.io/articles/tracing-goroutines-in-realtime-with-ebpf-2026-03-31)
 * [2026-04-02, 10:11:16](https://news.ycombinator.com/item?id=47612331) - [Baby's Second Garbage Collector](https://www.matheusmoreira.com/articles/babys-second-garbage-collector)
-* [2026-04-01, 23:33:41](https://news.ycombinator.com/item?id=47608040) - [Shared mutable state in Rust (2022)](https://draft.ryhl.io/blog/shared-mutable-state/)
 * [2026-04-01, 22:33:54](https://news.ycombinator.com/item?id=47607408) - [Scientists Figured Out How Eels Reproduce (2022)](https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/)
-* [2026-04-01, 01:31:46](https://news.ycombinator.com/item?id=47595695) - [OpenScreen is an open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen)
 
 ## [Archives](archives/index.md)
 
