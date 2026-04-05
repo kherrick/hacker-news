@@ -2,15 +2,14 @@
 
 * [2026-04-05, 19:01:55](https://news.ycombinator.com/item?id=47652726) - [Bacteria found in the human intestine capable of improving muscle strength](https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength)
 * [2026-04-05, 18:45:53](https://news.ycombinator.com/item?id=47652561) - [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
-* [2026-04-05, 18:37:22](https://news.ycombinator.com/item?id=47652487) - [Show HN: Enter an Instagram/TikTok handle, get a data-backed price for collab](https://priceinfluencer.com)
 * [2026-04-05, 18:23:14](https://news.ycombinator.com/item?id=47652324) - [LibreOffice – Let's put an end to the speculation](https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/)
 * [2026-04-05, 18:23:08](https://news.ycombinator.com/item?id=47652322) - [Music for Programming](https://musicforprogramming.net)
-* [2026-04-05, 18:19:51](https://news.ycombinator.com/item?id=47652290) - [Samsung Raises DRAM Prices Another ~30% for Q2 2026](https://old.reddit.com/user/BuySellRam/comments/1sd9z9k/samsung_raises_dram_prices_another_30_for_q2_2026/)
 * [2026-04-05, 17:27:41](https://news.ycombinator.com/item?id=47651703) - [Microsoft Hasn't Had a Coherent GUI Strategy Since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/)
 * [2026-04-05, 17:13:51](https://news.ycombinator.com/item?id=47651540) - [Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code](https://ai.georgeliu.com/p/running-google-gemma-4-locally-with)
 * [2026-04-05, 17:08:55](https://news.ycombinator.com/item?id=47651479) - [From birds to brains: My path to the fusiform face area (2024)](https://www.kavliprize.org/nancy-kanwisher-autobiography)
 * [2026-04-05, 15:38:18](https://news.ycombinator.com/item?id=47650502) - [Computational Physics (2nd Edition)](https://websites.umich.edu/~mejn/cp2/)
 * [2026-04-05, 15:18:01](https://news.ycombinator.com/item?id=47650312) - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
+* [2026-04-05, 15:04:00](https://news.ycombinator.com/item?id=47650172) - [Phone-free bars and restaurants on the rise across the U.S.](https://www.axios.com/2026/04/05/phone-free-restaurants-bars-bans-restrictions-offline)
 * [2026-04-05, 14:21:17](https://news.ycombinator.com/item?id=47649742) - [Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs](https://github.com/salmanmohammadi/nanocode/discussions/1)
 * [2026-04-05, 14:18:12](https://news.ycombinator.com/item?id=47649721) - [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo)
 * [2026-04-05, 14:16:28](https://news.ycombinator.com/item?id=47649701) - [Perfmon – Consolidate your favorite CLI monitoring tools into a single TUI](https://github.com/sumant1122/Perfmon)
@@ -22,6 +21,7 @@
 * [2026-04-05, 09:57:25](https://news.ycombinator.com/item?id=47647788) - [The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/)
 * [2026-04-05, 08:56:18](https://news.ycombinator.com/item?id=47647455) - [Caveman: Why use many token when few token do trick](https://github.com/JuliusBrussee/caveman)
 * [2026-04-05, 06:57:19](https://news.ycombinator.com/item?id=47646843) - [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)
+* [2026-04-05, 05:50:04](https://news.ycombinator.com/item?id=47646472) - [Aegis – open-source FPGA silicon](https://github.com/MidstallSoftware/aegis)
 * [2026-04-05, 01:54:29](https://news.ycombinator.com/item?id=47645432) - [Introduction to Computer Music (2009) [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
 * [2026-04-05, 00:40:18](https://news.ycombinator.com/item?id=47645025) - [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input](https://contrapunk.com/)
 * [2026-04-04, 09:20:34](https://news.ycombinator.com/item?id=47637377) - [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love)
@@ -29,7 +29,7 @@
 * [2026-04-02, 17:15:33](https://news.ycombinator.com/item?id=47617233) - [The Enigma of Gertrude Stein](https://www.thenation.com/article/culture/gertrude-stein-afterlife-wade-review/)
 * [2026-04-02, 12:01:27](https://news.ycombinator.com/item?id=47613272) - [Tracing Goroutines in Realtime with eBPF](https://sazak.io/articles/tracing-goroutines-in-realtime-with-ebpf-2026-03-31)
 * [2026-04-02, 10:11:16](https://news.ycombinator.com/item?id=47612331) - [Baby's Second Garbage Collector](https://www.matheusmoreira.com/articles/babys-second-garbage-collector)
-* [2026-03-31, 15:35:18](https://news.ycombinator.com/item?id=47588929) - [DNS is Simple. DNS is Hard](https://www.wespiser.com/posts/2026-03-29-dns-simple-dns-hard.html)
+* [2026-04-01, 22:33:54](https://news.ycombinator.com/item?id=47607408) - [Scientists Figured Out How Eels Reproduce (2022)](https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/)
 
 ## [Archives](archives/index.md)
 
