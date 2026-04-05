@@ -1,22 +1,32 @@
 [
   [
     [
-      "2026-04-05, 03:15:20",
-      "https://news.ycombinator.com/item?id=47645810"
+      "2026-04-05, 05:00:34",
+      "https://news.ycombinator.com/item?id=47646241"
     ],
     [
-      "AGI Is Here",
-      "https://breaking-changes.blog/agi-is-here/"
+      "Applying machine learning to identify unrecognized Covid-19 deaths in the US",
+      "https://www.science.org/doi/10.1126/sciadv.aef5697"
     ]
   ],
   [
     [
-      "2026-04-05, 02:53:21",
-      "https://news.ycombinator.com/item?id=47645719"
+      "2026-04-05, 04:18:56",
+      "https://news.ycombinator.com/item?id=47646065"
     ],
     [
-      "Show HN: mailtrim – find what's actually filling your Gmail inbox",
-      "https://news.ycombinator.com/item?id=47645719"
+      "What if the browser built the UI for you?",
+      "https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 03:55:10",
+      "https://news.ycombinator.com/item?id=47645976"
+    ],
+    [
+      "AI that copied musical artist files copyright claim against that artist",
+      "https://twitter.com/VladTheInflator/status/2039577001531768906"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47645468"
     ],
     [
-      "Writing Lisp Is AI Resistant and I'm Sad",
+      "Writing Lisp is AI resistant and I'm sad",
       "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Isseven",
       "https://isseven.app/"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 00:42:42",
-      "https://news.ycombinator.com/item?id=47645037"
-    ],
-    [
-      "Shooting down ideas is not a skill",
-      "https://scottlawsonbc.com/post/shooting-down-ideas"
     ]
   ],
   [
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=47644566"
     ],
     [
-      "Advice to Young People, the Lies I Tell Myself (2024)",
+      "Advice to young people, the lies I tell myself (2024)",
       "https://jxnl.co/writing/2024/06/01/advice-to-young-people/"
     ]
   ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-04-04, 09:04:19",
-      "https://news.ycombinator.com/item?id=47637287"
-    ],
-    [
-      "Some Unusual Trees",
-      "https://thoughts.wyounas.com/p/some-unusual-trees"
-    ]
-  ],
-  [
-    [
       "2026-04-04, 06:30:25",
       "https://news.ycombinator.com/item?id=47636435"
     ],
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2026-04-02, 11:44:01",
+      "https://news.ycombinator.com/item?id=47613118"
+    ],
+    [
+      "Show HN: I built a small app for FSI German Course",
+      "https://detawk.com/"
+    ]
+  ],
+  [
+    [
       "2026-04-02, 09:24:07",
       "https://news.ycombinator.com/item?id=47611993"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-04-01, 20:38:24",
-      "https://news.ycombinator.com/item?id=47606244"
+      "2026-04-01, 18:47:48",
+      "https://news.ycombinator.com/item?id=47604887"
     ],
     [
-      "Training mRNA Language Models Across 25 Species for $165",
-      "https://news.ycombinator.com/item?id=47606244"
+      "Electrical transformer manufacturing is throttling the electrified future",
+      "https://www.bloomberg.com/features/2025-bottlenecks-transformers/"
     ]
   ],
   [
     [
-      "2026-04-01, 18:32:05",
-      "https://news.ycombinator.com/item?id=47604698"
+      "2026-04-01, 09:54:18",
+      "https://news.ycombinator.com/item?id=47598835"
     ],
     [
-      "Functional programming accellerates agentic feature development",
-      "https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai"
+      "Rubysyn: Clarifying Ruby's Syntax and Semantics",
+      "https://github.com/squadette/rubysyn/blob/master/README.md"
     ]
   ],
   [
