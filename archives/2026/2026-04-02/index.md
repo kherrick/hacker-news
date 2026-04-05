@@ -78,6 +78,7 @@
 * [2026-04-02, 02:26:05](https://news.ycombinator.com/item?id=47609294) - [The Claude Code Leak](https://build.ms/2026/4/1/the-claude-code-leak/)
 * [2026-04-02, 02:17:51](https://news.ycombinator.com/item?id=47609253) - [Solar Balconies Take Europe by Storm](https://hackaday.com/2026/03/31/solar-balconies-take-europe-by-storm/)
 * [2026-04-02, 02:15:28](https://news.ycombinator.com/item?id=47609241) - [Trinity Large Thinking](https://openrouter.ai/arcee-ai/trinity-large-thinking)
+* [2026-04-02, 01:53:11](https://news.ycombinator.com/item?id=47609117) - [Ask HN: Is there any interest in a native Qt/C++ Discord client?](https://news.ycombinator.com/item?id=47609117)
 * [2026-04-02, 01:48:18](https://news.ycombinator.com/item?id=47609090) - [Weather.com/Retro](https://weather.com/retro/)
 * [2026-04-02, 00:39:53](https://news.ycombinator.com/item?id=47608604) - [Why LLM-Generated Passwords Are Dangerously Insecure](https://www.irregular.com/publications/vibe-password-generation)
 * [2026-04-02, 00:39:26](https://news.ycombinator.com/item?id=47608602) - [The beginning of programming as we'll know it?](https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/)
