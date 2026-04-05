@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-04-05, 15:18:01",
+      "https://news.ycombinator.com/item?id=47650312"
+    ],
+    [
+      "A tail-call interpreter in (nightly) Rust",
+      "https://www.mattkeeter.com/blog/2026-04-05-tailcall/"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 15:04:00",
+      "https://news.ycombinator.com/item?id=47650172"
+    ],
+    [
+      "Phone-free bars and restaurants on the rise across the U.S.",
+      "https://www.axios.com/2026/04/05/phone-free-restaurants-bars-bans-restrictions-offline"
+    ]
+  ],
+  [
+    [
       "2026-04-05, 14:37:20",
       "https://news.ycombinator.com/item?id=47649917"
     ],
@@ -31,12 +51,32 @@
   ],
   [
     [
+      "2026-04-05, 14:21:17",
+      "https://news.ycombinator.com/item?id=47649742"
+    ],
+    [
+      "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+      "https://github.com/salmanmohammadi/nanocode/discussions/1"
+    ]
+  ],
+  [
+    [
       "2026-04-05, 14:18:12",
       "https://news.ycombinator.com/item?id=47649721"
     ],
     [
       "Artemis II crew see first glimpse of far side of Moon [video]",
       "https://www.bbc.com/news/videos/ce3d5gkd2geo"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 14:16:28",
+      "https://news.ycombinator.com/item?id=47649701"
+    ],
+    [
+      "Perfmon – Consolidate your favorite CLI monitoring tools into a single TUI",
+      "https://github.com/sumant1122/Perfmon"
     ]
   ],
   [
@@ -191,26 +231,6 @@
   ],
   [
     [
-      "2026-04-04, 19:43:54",
-      "https://news.ycombinator.com/item?id=47642601"
-    ],
-    [
-      "Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown",
-      "https://static.laszlokorte.de/escher/"
-    ]
-  ],
-  [
-    [
-      "2026-04-04, 19:39:43",
-      "https://news.ycombinator.com/item?id=47642569"
-    ],
-    [
-      "How many products does Microsoft have named 'Copilot'?",
-      "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html"
-    ]
-  ],
-  [
-    [
       "2026-04-04, 16:57:45",
       "https://news.ycombinator.com/item?id=47640875"
     ],
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2026-04-04, 14:20:21",
-      "https://news.ycombinator.com/item?id=47639303"
+      "2026-04-04, 16:16:10",
+      "https://news.ycombinator.com/item?id=47640380"
     ],
     [
-      "Show HN: I made open source, zero power PCB hackathon badges",
-      "https://github.com/KaiPereira/Overglade-Badges"
+      "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+      "https://twitter.com/__tinygrad__/status/2039213719155310736"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-04-01, 09:54:18",
-      "https://news.ycombinator.com/item?id=47598835"
-    ],
-    [
-      "Rubysyn: Clarifying Ruby's Syntax and Semantics",
-      "https://github.com/squadette/rubysyn/blob/master/README.md"
-    ]
-  ],
-  [
-    [
       "2026-04-01, 01:31:46",
       "https://news.ycombinator.com/item?id=47595695"
     ],
     [
       "OpenScreen is an open-source alternative to Screen Studio",
       "https://github.com/siddharthvaddem/openscreen"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 13:29:53",
-      "https://news.ycombinator.com/item?id=47587089"
-    ],
-    [
-      "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
-      "https://zml.ai/posts/zml-smi/"
     ]
   ]
 ]
