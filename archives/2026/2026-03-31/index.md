@@ -34,6 +34,7 @@
 * [2026-03-31, 16:05:20](https://news.ycombinator.com/item?id=47589451) - [Show HN: Hyprmoncfg – Terminal-based monitor config manager for Hyprland](https://paolino.me/hyprmoncfg-monitor-configuration-for-hyprland/)
 * [2026-03-31, 16:00:29](https://news.ycombinator.com/item?id=47589370) - [Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]](https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf)
 * [2026-03-31, 15:39:45](https://news.ycombinator.com/item?id=47589011) - [Italy blocks US use of Sicily air base for Middle East war](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
+* [2026-03-31, 15:35:18](https://news.ycombinator.com/item?id=47588929) - [DNS is Simple. DNS is Hard](https://www.wespiser.com/posts/2026-03-29-dns-simple-dns-hard.html)
 * [2026-03-31, 15:20:11](https://news.ycombinator.com/item?id=47588658) - [Tell HN: Chrome says \"Suspicious Download\" when trying to download yt-dlp](https://news.ycombinator.com/item?id=47588658)
 * [2026-03-31, 15:01:35](https://news.ycombinator.com/item?id=47588349) - [GitHub Monaspace Case Study](https://lettermatic.com/custom/monaspace-case-study)
 * [2026-03-31, 14:44:33](https://news.ycombinator.com/item?id=47588103) - [On the trail of ancient art, deep in the Sahara](https://www.ft.com/content/524ed21e-5c35-489e-ae0b-90d40b4cf28a)

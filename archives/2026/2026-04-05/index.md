@@ -6,7 +6,11 @@
 
 * [2026-04-05, 19:01:55](https://news.ycombinator.com/item?id=47652726) - [Bacteria found in the human intestine capable of improving muscle strength](https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength)
 * [2026-04-05, 18:45:53](https://news.ycombinator.com/item?id=47652561) - [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
+* [2026-04-05, 18:37:22](https://news.ycombinator.com/item?id=47652487) - [Show HN: Enter an Instagram/TikTok handle, get a data-backed price for collab](https://priceinfluencer.com)
 * [2026-04-05, 18:23:14](https://news.ycombinator.com/item?id=47652324) - [LibreOffice – Let's put an end to the speculation](https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/)
+* [2026-04-05, 18:23:08](https://news.ycombinator.com/item?id=47652322) - [Music for Programming](https://musicforprogramming.net)
+* [2026-04-05, 18:19:51](https://news.ycombinator.com/item?id=47652290) - [Samsung Raises DRAM Prices Another ~30% for Q2 2026](https://old.reddit.com/user/BuySellRam/comments/1sd9z9k/samsung_raises_dram_prices_another_30_for_q2_2026/)
+* [2026-04-05, 17:27:41](https://news.ycombinator.com/item?id=47651703) - [Microsoft Hasn't Had a Coherent GUI Strategy Since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/)
 * [2026-04-05, 17:20:10](https://news.ycombinator.com/item?id=47651626) - [Reaffirming our commitment to child safety in the face of EuropeanUnion inaction](https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/)
 * [2026-04-05, 17:13:51](https://news.ycombinator.com/item?id=47651540) - [Running Google Gemma 4 Locally with LM Studio's New Headless CLI and Claude Code](https://ai.georgeliu.com/p/running-google-gemma-4-locally-with)
 * [2026-04-05, 17:08:55](https://news.ycombinator.com/item?id=47651479) - [From birds to brains: My path to the fusiform face area (2024)](https://www.kavliprize.org/nancy-kanwisher-autobiography)
