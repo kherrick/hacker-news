@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 06:57:19](https://news.ycombinator.com/item?id=47646843) - [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)
+* [2026-04-05, 05:50:04](https://news.ycombinator.com/item?id=47646472) - [Aegis – open-source FPGA silicon](https://github.com/MidstallSoftware/aegis)
 * [2026-04-05, 05:28:41](https://news.ycombinator.com/item?id=47646363) - [Modern Generic SVGA driver for Windows 3.1](https://github.com/PluMGMK/vbesvga.drv)
 * [2026-04-05, 05:00:34](https://news.ycombinator.com/item?id=47646241) - [Applying machine learning to identify unrecognized Covid-19 deaths in the US](https://www.science.org/doi/10.1126/sciadv.aef5697)
 * [2026-04-05, 04:18:56](https://news.ycombinator.com/item?id=47646065) - [What if the browser built the UI for you?](https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/)
