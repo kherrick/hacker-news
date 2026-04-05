@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-04](index.md)
 
+* [2026-04-04, 23:39:44](https://news.ycombinator.com/item?id=47644667) - [Nvim-treesitter (13K+ Stars) is Archived](https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627)
 * [2026-04-04, 23:29:31](https://news.ycombinator.com/item?id=47644610) - [Demand for autism care is soaring](https://economist.com/united-states/2026/04/01/demand-for-autism-care-is-soaring-the-system-is-struggling-to-cope)
 * [2026-04-04, 23:18:54](https://news.ycombinator.com/item?id=47644566) - [Advice to Young People, the Lies I Tell Myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/)
 * [2026-04-04, 22:57:44](https://news.ycombinator.com/item?id=47644406) - [German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/)
