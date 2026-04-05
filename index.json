@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-05, 15:58:08",
+      "https://news.ycombinator.com/item?id=47650726"
+    ],
+    [
+      "Codex is switching to API pricing based usage for all users",
+      "https://help.openai.com/en/articles/20001106-codex-rate-card"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 15:38:18",
+      "https://news.ycombinator.com/item?id=47650502"
+    ],
+    [
+      "Computational Physics (2nd Edition)",
+      "https://websites.umich.edu/~mejn/cp2/"
+    ]
+  ],
+  [
+    [
       "2026-04-05, 15:27:17",
       "https://news.ycombinator.com/item?id=47650401"
     ],
@@ -37,16 +57,6 @@
     [
       "SPF/PC v4 for MS-DOS, FreeDOS, x86",
       "https://github.com/moshix/SPFPC"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 14:27:55",
-      "https://news.ycombinator.com/item?id=47649811"
-    ],
-    [
-      "Japanese, French and Omani Vessels Cross Strait of Hormuz",
-      "https://japantoday.com/category/politics/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-04-04, 16:57:45",
-      "https://news.ycombinator.com/item?id=47640875"
-    ],
-    [
-      "LLM Wiki – example of an \"idea file\"",
-      "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
-    ]
-  ],
-  [
-    [
       "2026-04-04, 16:45:54",
       "https://news.ycombinator.com/item?id=47640728"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-04-04, 16:16:10",
-      "https://news.ycombinator.com/item?id=47640380"
+      "2026-04-02, 12:01:27",
+      "https://news.ycombinator.com/item?id=47613272"
     ],
     [
-      "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-      "https://twitter.com/__tinygrad__/status/2039213719155310736"
+      "Tracing Goroutines in Realtime with eBPF",
+      "https://sazak.io/articles/tracing-goroutines-in-realtime-with-ebpf-2026-03-31"
     ]
   ],
   [
