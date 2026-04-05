@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-04-05, 12:35:00",
+      "https://news.ycombinator.com/item?id=47648744"
+    ],
+    [
+      "Two Planes Destroyed by U.S. During Rescue Operation",
+      "https://www.wsj.com/livecoverage/iran-war-news-2026/card/two-special-operations-mj-130s-destroyed-by-u-s-during-rescue-operation-NbFfOdbvk7dWX1a7ZuW8"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 12:03:17",
+      "https://news.ycombinator.com/item?id=47648499"
+    ],
+    [
+      "Hightouch (YC S19) Is Hiring",
+      "https://hightouch.com/careers#open-positions"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 11:57:25",
+      "https://news.ycombinator.com/item?id=47648452"
+    ],
+    [
+      "Ubuntu now requires more RAM than Windows 11",
+      "https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 11:48:13",
+      "https://news.ycombinator.com/item?id=47648404"
+    ],
+    [
+      "Sad Story of My Google Workspace Account Suspension",
+      "https://zencapital.substack.com/p/sad-story-of-my-google-workspace"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 10:41:06",
+      "https://news.ycombinator.com/item?id=47648048"
+    ],
+    [
+      "Friendica – A Decentralized Social Network",
+      "https://friendi.ca/"
+    ]
+  ],
+  [
+    [
       "2026-04-05, 09:57:25",
       "https://news.ycombinator.com/item?id=47647788"
     ],
@@ -61,16 +111,6 @@
   ],
   [
     [
-      "2026-04-05, 05:28:41",
-      "https://news.ycombinator.com/item?id=47646363"
-    ],
-    [
-      "Modern Generic SVGA driver for Windows 3.1",
-      "https://github.com/PluMGMK/vbesvga.drv"
-    ]
-  ],
-  [
-    [
       "2026-04-05, 01:54:29",
       "https://news.ycombinator.com/item?id=47645432"
     ],
@@ -87,16 +127,6 @@
     [
       "Demonstrating Real Time AV2 Decoding on Consumer Laptops",
       "http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 00:40:18",
-      "https://news.ycombinator.com/item?id=47645025"
-    ],
-    [
-      "Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust",
-      "https://contrapunk.com/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-04-04, 16:16:10",
-      "https://news.ycombinator.com/item?id=47640380"
-    ],
-    [
-      "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-      "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs"
-    ]
-  ],
-  [
-    [
       "2026-04-04, 15:18:58",
       "https://news.ycombinator.com/item?id=47639779"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-04-02, 13:54:12",
-      "https://news.ycombinator.com/item?id=47614532"
-    ],
-    [
-      "Ruckus: Racket for iOS",
-      "https://ruckus.defn.io/"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 11:44:01",
       "https://news.ycombinator.com/item?id=47613118"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2026-04-02, 01:53:11",
-      "https://news.ycombinator.com/item?id=47609117"
+      "2026-04-01, 23:33:41",
+      "https://news.ycombinator.com/item?id=47608040"
     ],
     [
-      "Ask HN: Is there any interest in a native Qt/C++ Discord client?",
-      "https://news.ycombinator.com/item?id=47609117"
+      "Shared mutable state in Rust (2022)",
+      "https://draft.ryhl.io/blog/shared-mutable-state/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Scientists Figured Out How Eels Reproduce (2022)",
       "https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 18:47:48",
-      "https://news.ycombinator.com/item?id=47604887"
-    ],
-    [
-      "Electrical transformer manufacturing is throttling the electrified future",
-      "https://www.bloomberg.com/features/2025-bottlenecks-transformers/"
     ]
   ],
   [
