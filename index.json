@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-05, 22:35:20",
+      "https://news.ycombinator.com/item?id=47654649"
+    ],
+    [
+      "Introducing GEN-1 [video]",
+      "https://www.youtube.com/watch?v=SY2xyrmV44Y"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 22:31:16",
+      "https://news.ycombinator.com/item?id=47654620"
+    ],
+    [
+      "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+      "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/"
+    ]
+  ],
+  [
+    [
       "2026-04-05, 21:42:01",
       "https://news.ycombinator.com/item?id=47654171"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2026-04-05, 20:59:52",
-      "https://news.ycombinator.com/item?id=47653816"
+      "2026-04-05, 21:18:25",
+      "https://news.ycombinator.com/item?id=47653975"
     ],
     [
-      "UK intelligence censored report on global warming and homeland security",
-      "https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security"
+      "Qwen-3.6-Plus is the first model to break 1T tokens processed in a day",
+      "https://twitter.com/openrouter/status/2040239467865489874"
     ]
   ],
   [
@@ -26,7 +46,7 @@
     ],
     [
       "Musician says AI company is cloning her music, filing claims against her",
-      "https://twitter.com/i/status/2040577536136974444"
+      "https://twitter.com/unlimited_ls/status/2040577536136974444"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Gemma 4 on iPhone",
       "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 18:33:38",
+      "https://news.ycombinator.com/item?id=47652442"
+    ],
+    [
+      "OpenJDK: Panama",
+      "https://openjdk.org/projects/panama/"
     ]
   ],
   [
@@ -115,7 +145,7 @@
       "https://news.ycombinator.com/item?id=47650502"
     ],
     [
-      "Computational Physics (2nd Edition)",
+      "Computational Physics (2nd Edition) (2025)",
       "https://websites.umich.edu/~mejn/cp2/"
     ]
   ],
@@ -221,26 +251,6 @@
   ],
   [
     [
-      "2026-04-05, 06:57:19",
-      "https://news.ycombinator.com/item?id=47646843"
-    ],
-    [
-      "Lisette a little language inspired by Rust that compiles to Go",
-      "https://lisette.run/"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 00:40:18",
-      "https://news.ycombinator.com/item?id=47645025"
-    ],
-    [
-      "Show HN: Contrapunk – Real-time counterpoint harmony from guitar input",
-      "https://contrapunk.com/"
-    ]
-  ],
-  [
-    [
       "2026-04-04, 10:00:04",
       "https://news.ycombinator.com/item?id=47637622"
     ],
@@ -257,16 +267,6 @@
     [
       "LÖVE: 2D Game Framework for Lua",
       "https://github.com/love2d/love"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 22:19:57",
-      "https://news.ycombinator.com/item?id=47633086"
-    ],
-    [
-      "Just 'English with Hanzi'",
-      "https://www.oldnorthwhale.com/p/why-modern-chinese-is-just-english"
     ]
   ],
   [
