@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 17:02:38](https://news.ycombinator.com/item?id=47651401) - [With one million displaced, Lebanon turns to digital wallets for aid](https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/)
+* [2026-04-05, 16:21:51](https://news.ycombinator.com/item?id=47650962) - [The Melanesian: Dark-skinned people with blonde hair region of Oceania](https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/)
 * [2026-04-05, 15:58:08](https://news.ycombinator.com/item?id=47650726) - [Codex is switching to API pricing based usage for all users](https://help.openai.com/en/articles/20001106-codex-rate-card)
 * [2026-04-05, 15:38:18](https://news.ycombinator.com/item?id=47650502) - [Computational Physics (2nd Edition)](https://websites.umich.edu/~mejn/cp2/)
 * [2026-04-05, 15:27:17](https://news.ycombinator.com/item?id=47650401) - [StackOverflow: Retiring the Beta Site](https://meta.stackoverflow.com/questions/438628/retiring-the-beta-site)
+* [2026-04-05, 15:25:28](https://news.ycombinator.com/item?id=47650383) - [Program analysis using random interpretation (2005) [pdf]](https://sigplan.org/Awards/Dissertation/2005_gulwani.pdf)
 * [2026-04-05, 15:18:01](https://news.ycombinator.com/item?id=47650312) - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
 * [2026-04-05, 15:04:00](https://news.ycombinator.com/item?id=47650172) - [Phone-free bars and restaurants on the rise across the U.S.](https://www.axios.com/2026/04/05/phone-free-restaurants-bars-bans-restrictions-offline)
 * [2026-04-05, 14:56:18](https://news.ycombinator.com/item?id=47650089) - [EPA Official in Charge of Methane Regs Wrote Oil Industry Argument Against Them](https://www.propublica.org/article/trump-epa-methane-deregulation-aaron-szabo-oil-gas-axpc)

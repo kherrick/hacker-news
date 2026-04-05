@@ -12,6 +12,7 @@
 * [2026-04-03, 22:26:38](https://news.ycombinator.com/item?id=47633157) - [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans)
 * [2026-04-03, 22:23:55](https://news.ycombinator.com/item?id=47633131) - [Run Linux containers on Android, no root required](https://github.com/ExTV/Podroid)
 * [2026-04-03, 22:22:18](https://news.ycombinator.com/item?id=47633116) - [The house is a work of art: Frank Lloyd Wright](https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition)
+* [2026-04-03, 22:19:57](https://news.ycombinator.com/item?id=47633086) - [Just 'English with Hanzi'](https://www.oldnorthwhale.com/p/why-modern-chinese-is-just-english)
 * [2026-04-03, 21:46:26](https://news.ycombinator.com/item?id=47632750) - [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos)
 * [2026-04-03, 21:42:09](https://news.ycombinator.com/item?id=47632692) - [Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion](https://github.com/sleep3r/mtproto.zig)
 * [2026-04-03, 21:25:55](https://news.ycombinator.com/item?id=47632503) - [Iran Strikes Leave Amazon Availability Zones \"Hard Down\" in Bahrain and Dubai](https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability)
