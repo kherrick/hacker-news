@@ -6,6 +6,7 @@
 
 * [2026-04-01, 23:45:03](https://news.ycombinator.com/item?id=47608155) - [ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
 * [2026-04-01, 23:35:02](https://news.ycombinator.com/item?id=47608058) - [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)
+* [2026-04-01, 23:33:41](https://news.ycombinator.com/item?id=47608040) - [Shared mutable state in Rust (2022)](https://draft.ryhl.io/blog/shared-mutable-state/)
 * [2026-04-01, 23:22:57](https://news.ycombinator.com/item?id=47607923) - [IPv6 address, as a sentence you can remember](https://sentence2ipv6.tib3rius.com/)
 * [2026-04-01, 23:10:02](https://news.ycombinator.com/item?id=47607775) - [\"Special 301\" Comments on Nintendo Game Piracy in Asia and Latin America (1994)](https://archive.gamehistory.org/item/8aa9a6fb-1593-47ce-bdf0-aa79abdcb0e6)
 * [2026-04-01, 22:38:25](https://news.ycombinator.com/item?id=47607447) - [Artemis II lifts off: four astronauts begin 10-day lunar mission](https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates)

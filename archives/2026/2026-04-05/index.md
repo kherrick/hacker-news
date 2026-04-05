@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 12:35:00](https://news.ycombinator.com/item?id=47648744) - [Two Planes Destroyed by U.S. During Rescue Operation](https://www.wsj.com/livecoverage/iran-war-news-2026/card/two-special-operations-mj-130s-destroyed-by-u-s-during-rescue-operation-NbFfOdbvk7dWX1a7ZuW8)
+* [2026-04-05, 12:03:17](https://news.ycombinator.com/item?id=47648499) - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)
+* [2026-04-05, 11:57:25](https://news.ycombinator.com/item?id=47648452) - [Ubuntu now requires more RAM than Windows 11](https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/)
+* [2026-04-05, 11:48:13](https://news.ycombinator.com/item?id=47648404) - [Sad Story of My Google Workspace Account Suspension](https://zencapital.substack.com/p/sad-story-of-my-google-workspace)
+* [2026-04-05, 10:41:06](https://news.ycombinator.com/item?id=47648048) - [Friendica – A Decentralized Social Network](https://friendi.ca/)
 * [2026-04-05, 09:57:25](https://news.ycombinator.com/item?id=47647788) - [The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/)
 * [2026-04-05, 08:56:18](https://news.ycombinator.com/item?id=47647455) - [Talk like caveman](https://github.com/JuliusBrussee/caveman)
 * [2026-04-05, 07:01:45](https://news.ycombinator.com/item?id=47646871) - [Dynamics of (Not) Being Perceived: Grief and Relief After Leaving Social Media](https://networkcultures.org/thedigitalgutmensch/2026/04/02/dynamics-of-not-being-perceived-the-grief-relief-after-leaving-social-media/)
