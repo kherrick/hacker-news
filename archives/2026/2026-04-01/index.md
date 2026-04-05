@@ -60,6 +60,7 @@
 * [2026-04-01, 12:00:17](https://news.ycombinator.com/item?id=47599673) - [Wasmer (YC S19) Is Hiring – Rust and DevRel Positions](https://www.workatastartup.com/companies/wasmer)
 * [2026-04-01, 11:39:04](https://news.ycombinator.com/item?id=47599510) - [Random numbers, Persian code: A mysterious signal transfixes radio sleuths](https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html)
 * [2026-04-01, 11:09:11](https://news.ycombinator.com/item?id=47599305) - [The Document Foundation ejects its core developers](https://www.collaboraonline.com/blog/tdf-ejects-its-core-developers/)
+* [2026-04-01, 09:54:18](https://news.ycombinator.com/item?id=47598835) - [Rubysyn: Clarifying Ruby's Syntax and Semantics](https://github.com/squadette/rubysyn/blob/master/README.md)
 * [2026-04-01, 09:00:34](https://news.ycombinator.com/item?id=47598511) - [I Quit. The Clankers Won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/)
 * [2026-04-01, 08:41:49](https://news.ycombinator.com/item?id=47598413) - [C89cc.sh – standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19)
 * [2026-04-01, 08:36:16](https://news.ycombinator.com/item?id=47598378) - [Solar panels at Lidl? Plug-in versions set to appear in shops](https://www.thisismoney.co.uk/money/bills/article-15673955/Solar-panels-Lidl-Plug-versions-set-appear-shops-MONTHS.html)

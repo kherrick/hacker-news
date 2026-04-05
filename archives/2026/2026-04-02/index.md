@@ -46,6 +46,7 @@
 * [2026-04-02, 13:18:05](https://news.ycombinator.com/item?id=47614100) - ['Backrooms' and the Rise of the Institutional Gothic](https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/)
 * [2026-04-02, 13:09:09](https://news.ycombinator.com/item?id=47613981) - [LinkedIn Is Illegally Searching Your Computer](https://browsergate.eu/)
 * [2026-04-02, 11:49:01](https://news.ycombinator.com/item?id=47613156) - [ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026](https://old.reddit.com/r/reactos/comments/1sa26yu/back_from_chemnitz_linux_days_2026/)
+* [2026-04-02, 11:44:01](https://news.ycombinator.com/item?id=47613118) - [Show HN: I built a small app for FSI German Course](https://detawk.com/)
 * [2026-04-02, 11:40:41](https://news.ycombinator.com/item?id=47613078) - [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket)
 * [2026-04-02, 11:11:56](https://news.ycombinator.com/item?id=47612784) - [A.I. Helped One Man (and His Brother) Build a $1.8B Company](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html)
 * [2026-04-02, 11:11:27](https://news.ycombinator.com/item?id=47612775) - [The SpaceX IPO: retail investor notes](https://report.bearblog.dev/the-spacex-ipo-will-be-the-perfect-storm-of-retail-investor-fallacies/)
