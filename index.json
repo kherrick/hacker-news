@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-04-05, 07:01:45",
+      "https://news.ycombinator.com/item?id=47646871"
+    ],
+    [
+      "Dynamics of (Not) Being Perceived: Grief and Relief After Leaving Social Media",
+      "https://networkcultures.org/thedigitalgutmensch/2026/04/02/dynamics-of-not-being-perceived-the-grief-relief-after-leaving-social-media/"
+    ]
+  ],
+  [
+    [
       "2026-04-05, 06:57:19",
       "https://news.ycombinator.com/item?id=47646843"
     ],
     [
       "Lisette a little language inspired by Rust that compiles to Go",
       "https://lisette.run/"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 06:12:30",
+      "https://news.ycombinator.com/item?id=47646566"
+    ],
+    [
+      "Unverified: What Practitioners Post About OCR, Agents, and Tables",
+      "https://idp-software.com/news/idp-accuracy-reckoning-2026/"
     ]
   ],
   [
@@ -41,6 +61,16 @@
   ],
   [
     [
+      "2026-04-05, 01:32:28",
+      "https://news.ycombinator.com/item?id=47645305"
+    ],
+    [
+      "Demonstrating Real Time AV2 Decoding on Consumer Laptops",
+      "http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/"
+    ]
+  ],
+  [
+    [
       "2026-04-05, 00:40:18",
       "https://news.ycombinator.com/item?id=47645025"
     ],
@@ -57,16 +87,6 @@
     [
       "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
       "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop"
-    ]
-  ],
-  [
-    [
-      "2026-04-04, 23:39:44",
-      "https://news.ycombinator.com/item?id=47644667"
-    ],
-    [
-      "Nvim-treesitter (13K+ Stars) is Archived",
-      "https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-04-04, 11:24:30",
-      "https://news.ycombinator.com/item?id=47638075"
-    ],
-    [
-      "The CMS is dead, long live the CMS",
-      "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms"
-    ]
-  ],
-  [
-    [
       "2026-04-04, 10:26:21",
       "https://news.ycombinator.com/item?id=47637757"
     ],
     [
       "Embarrassingly simple self-distillation improves code generation",
       "https://arxiv.org/abs/2604.01193"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 15:53:45",
-      "https://news.ycombinator.com/item?id=47616157"
-    ],
-    [
-      "Software never had a soul",
-      "https://www.jmduke.com/posts/software-never-had-a-soul.html"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "Show HN: I built a small app for FSI German Course",
       "https://detawk.com/"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 06:16:03",
+      "https://news.ycombinator.com/item?id=47610593"
+    ],
+    [
+      "Elizabeth I's Manuscript of Pierre Boaistuau's Histoires Prodigieuses (1559)",
+      "https://publicdomainreview.org/collection/histoires-prodigieuses/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "OpenScreen is an open-source alternative to Screen Studio",
       "https://github.com/siddharthvaddem/openscreen"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 18:16:17",
-      "https://news.ycombinator.com/item?id=47591367"
-    ],
-    [
-      "Breaking Enigma with Index of Coincidence on a Commodore 64",
-      "https://imapenguin.com/2026/03/breaking-enigma-with-index-of-coincidence-on-a-commodore-64/"
     ]
   ],
   [
