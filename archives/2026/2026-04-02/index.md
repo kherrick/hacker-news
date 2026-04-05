@@ -44,6 +44,7 @@
 * [2026-04-02, 14:28:52](https://news.ycombinator.com/item?id=47615002) - [Qwen3.6-Plus: Towards Real World Agents](https://qwen.ai/blog?id=qwen3.6)
 * [2026-04-02, 14:25:52](https://news.ycombinator.com/item?id=47614956) - [Notes from from Butterick's Practical Typography](https://adamadam.blog/2026/04/01/my-notes-from-buttericks-practical-typography/)
 * [2026-04-02, 13:54:12](https://news.ycombinator.com/item?id=47614532) - [Ruckus: Racket for iOS](https://ruckus.defn.io/)
+* [2026-04-02, 13:41:08](https://news.ycombinator.com/item?id=47614364) - [Apple Rich Text Fundamentals](https://paper.pro/apple-rich-text)
 * [2026-04-02, 13:18:05](https://news.ycombinator.com/item?id=47614100) - ['Backrooms' and the Rise of the Institutional Gothic](https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/)
 * [2026-04-02, 13:09:09](https://news.ycombinator.com/item?id=47613981) - [LinkedIn Is Illegally Searching Your Computer](https://browsergate.eu/)
 * [2026-04-02, 11:49:01](https://news.ycombinator.com/item?id=47613156) - [ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026](https://old.reddit.com/r/reactos/comments/1sa26yu/back_from_chemnitz_linux_days_2026/)
