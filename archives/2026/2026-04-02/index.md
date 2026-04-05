@@ -55,6 +55,7 @@
 * [2026-04-02, 11:04:51](https://news.ycombinator.com/item?id=47612724) - [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai)
 * [2026-04-02, 10:50:00](https://news.ycombinator.com/item?id=47612601) - [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/)
 * [2026-04-02, 10:42:23](https://news.ycombinator.com/item?id=47612558) - [Enabling Codex to Analyze Two Decades of Hacker News Data](https://modolap.com/publication/hn-analysis-1)
+* [2026-04-02, 10:11:16](https://news.ycombinator.com/item?id=47612331) - [Baby's Second Garbage Collector](https://www.matheusmoreira.com/articles/babys-second-garbage-collector)
 * [2026-04-02, 10:07:57](https://news.ycombinator.com/item?id=47612321) - [Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries](https://github.com/razvandimescu/numa)
 * [2026-04-02, 09:32:13](https://news.ycombinator.com/item?id=47612053) - [I Am Not A Number. In memory of the more than 72,000 Palestinians killed](https://bkhmsi.github.io/i-am-not-a-number/)
 * [2026-04-02, 09:24:07](https://news.ycombinator.com/item?id=47611993) - [VR Realizes the Cyberspace Metaphor](https://yadin.com/notes/vr-disrupts/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 15:27:17](https://news.ycombinator.com/item?id=47650401) - [StackOverflow: Retiring the Beta Site](https://meta.stackoverflow.com/questions/438628/retiring-the-beta-site)
 * [2026-04-05, 14:56:18](https://news.ycombinator.com/item?id=47650089) - [EPA Official in Charge of Methane Regs Wrote Oil Industry Argument Against Them](https://www.propublica.org/article/trump-epa-methane-deregulation-aaron-szabo-oil-gas-axpc)
 * [2026-04-05, 14:49:41](https://news.ycombinator.com/item?id=47650022) - [Banray.eu: Raising awareness of the terrible idea that is always-on AI glasses](https://banray.eu/en/index.html)
 * [2026-04-05, 14:37:20](https://news.ycombinator.com/item?id=47649917) - [SPF/PC v4 for MS-DOS, FreeDOS, x86](https://github.com/moshix/SPFPC)
