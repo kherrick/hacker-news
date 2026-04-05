@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 17:20:10](https://news.ycombinator.com/item?id=47651626) - [Reaffirming our commitment to child safety in the face of EuropeanUnion inaction](https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/)
+* [2026-04-05, 17:08:55](https://news.ycombinator.com/item?id=47651479) - [From birds to brains: My path to the fusiform face area (2024)](https://www.kavliprize.org/nancy-kanwisher-autobiography)
 * [2026-04-05, 17:02:38](https://news.ycombinator.com/item?id=47651401) - [With one million displaced, Lebanon turns to digital wallets for aid](https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/)
 * [2026-04-05, 16:21:51](https://news.ycombinator.com/item?id=47650962) - [The Melanesian: Dark-skinned people with blonde hair region of Oceania](https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/)
 * [2026-04-05, 15:58:08](https://news.ycombinator.com/item?id=47650726) - [Codex is switching to API pricing based usage for all users](https://help.openai.com/en/articles/20001106-codex-rate-card)
