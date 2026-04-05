@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 05:28:41](https://news.ycombinator.com/item?id=47646363) - [Modern Generic SVGA driver for Windows 3.1](https://github.com/PluMGMK/vbesvga.drv)
 * [2026-04-05, 05:00:34](https://news.ycombinator.com/item?id=47646241) - [Applying machine learning to identify unrecognized Covid-19 deaths in the US](https://www.science.org/doi/10.1126/sciadv.aef5697)
 * [2026-04-05, 04:18:56](https://news.ycombinator.com/item?id=47646065) - [What if the browser built the UI for you?](https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/)
 * [2026-04-05, 03:55:10](https://news.ycombinator.com/item?id=47645976) - [AI that copied musical artist files copyright claim against that artist](https://twitter.com/VladTheInflator/status/2039577001531768906)
