@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 19:01:55](https://news.ycombinator.com/item?id=47652726) - [Bacteria found in the human intestine capable of improving muscle strength](https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength)
+* [2026-04-05, 18:45:53](https://news.ycombinator.com/item?id=47652561) - [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
 * [2026-04-05, 18:23:14](https://news.ycombinator.com/item?id=47652324) - [LibreOffice – Let's put an end to the speculation](https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/)
 * [2026-04-05, 17:20:10](https://news.ycombinator.com/item?id=47651626) - [Reaffirming our commitment to child safety in the face of EuropeanUnion inaction](https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/)
 * [2026-04-05, 17:13:51](https://news.ycombinator.com/item?id=47651540) - [Running Google Gemma 4 Locally with LM Studio's New Headless CLI and Claude Code](https://ai.georgeliu.com/p/running-google-gemma-4-locally-with)
