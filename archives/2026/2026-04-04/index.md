@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2026-04-04](index.md)
 
 * [2026-04-04, 23:29:31](https://news.ycombinator.com/item?id=47644610) - [Demand for autism care is soaring](https://economist.com/united-states/2026/04/01/demand-for-autism-care-is-soaring-the-system-is-struggling-to-cope)
+* [2026-04-04, 23:18:54](https://news.ycombinator.com/item?id=47644566) - [Advice to Young People, the Lies I Tell Myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/)
 * [2026-04-04, 22:57:44](https://news.ycombinator.com/item?id=47644406) - [German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/)
 * [2026-04-04, 21:28:01](https://news.ycombinator.com/item?id=47643620) - [Seat Pricing Is Dead](http://seatpricing.rip/)
 * [2026-04-04, 20:48:56](https://news.ycombinator.com/item?id=47643217) - [Microsoft to force updates to Windows 11 25H2 for PCs with older OS versions](https://www.tomshardware.com/software/windows/microsoft-forces-updates-to-windows-11-25h2-update-for-pcs-running-on-24h2)
+* [2026-04-04, 19:43:54](https://news.ycombinator.com/item?id=47642601) - [Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown](https://static.laszlokorte.de/escher/)
 * [2026-04-04, 19:39:43](https://news.ycombinator.com/item?id=47642569) - [How many products does Microsoft have named 'Copilot'? I mapped every one](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
 * [2026-04-04, 18:23:55](https://news.ycombinator.com/item?id=47641788) - [Iranian missile blitz takes down AWS data centers in Bahrain and Dubai](https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones)
 * [2026-04-04, 18:06:24](https://news.ycombinator.com/item?id=47641615) - [Sopwith](http://www.sopwith.org/)

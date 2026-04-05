@@ -54,6 +54,7 @@
 * [2026-04-02, 10:42:23](https://news.ycombinator.com/item?id=47612558) - [Enabling Codex to Analyze Two Decades of Hacker News Data](https://modolap.com/publication/hn-analysis-1)
 * [2026-04-02, 10:07:57](https://news.ycombinator.com/item?id=47612321) - [Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries](https://github.com/razvandimescu/numa)
 * [2026-04-02, 09:32:13](https://news.ycombinator.com/item?id=47612053) - [I Am Not A Number. In memory of the more than 72,000 Palestinians killed](https://bkhmsi.github.io/i-am-not-a-number/)
+* [2026-04-02, 09:24:07](https://news.ycombinator.com/item?id=47611993) - [VR Realizes the Cyberspace Metaphor](https://yadin.com/notes/vr-disrupts/)
 * [2026-04-02, 09:14:18](https://news.ycombinator.com/item?id=47611921) - [Significant Raise of Reports](https://lwn.net/Articles/1065620/)
 * [2026-04-02, 09:00:26](https://news.ycombinator.com/item?id=47611809) - [New laws to make it easier to cancel subscriptions and get refunds](https://www.bbc.co.uk/news/articles/cvg0v36ek2go)
 * [2026-04-02, 08:48:44](https://news.ycombinator.com/item?id=47611721) - [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing)

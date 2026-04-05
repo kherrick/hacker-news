@@ -32,6 +32,7 @@
 * [2026-04-03, 18:03:10](https://news.ycombinator.com/item?id=47629903) - [Why are we still using Markdown?](https://bgslabs.org/blog/why-are-we-using-markdown/)
 * [2026-04-03, 17:42:32](https://news.ycombinator.com/item?id=47629676) - [Have mental health labels like ADHD and autism gone too far?](https://www.telegraph.co.uk/health-fitness/wellbeing/mental-health/autism-adhd-rates-mental-health-labels/)
 * [2026-04-03, 17:29:21](https://news.ycombinator.com/item?id=47629505) - [Solana Drift Protocol drained of $285M via fake token and governance hijack](https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/)
+* [2026-04-03, 17:27:41](https://news.ycombinator.com/item?id=47629485) - [A case study in testing with 100+ Claude agents in parallel](https://imbue.com/product/mngr_part_2/)
 * [2026-04-03, 17:22:20](https://news.ycombinator.com/item?id=47629433) - [iNaturalist](https://www.inaturalist.org/)
 * [2026-04-03, 17:18:38](https://news.ycombinator.com/item?id=47629382) - [Getting Claude to QA its own work](https://www.skyvern.com/blog/getting-claude-to-qa-its-own-work/)
 * [2026-04-03, 17:10:44](https://news.ycombinator.com/item?id=47629306) - [Pharmaceuticals face 100% tariffs in US – unless firms strike a deal](https://www.bbc.com/news/articles/cx29kke01gpo)

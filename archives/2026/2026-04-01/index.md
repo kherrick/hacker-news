@@ -23,6 +23,7 @@
 * [2026-04-01, 19:19:05](https://news.ycombinator.com/item?id=47605270) - [SpaceX confidentially files to go public at $1.75T, reports say](https://www.theguardian.com/technology/2026/apr/01/spacex-public-offering-stock-market)
 * [2026-04-01, 18:48:30](https://news.ycombinator.com/item?id=47604897) - [Apple at 50](https://www.apple.com/)
 * [2026-04-01, 18:47:48](https://news.ycombinator.com/item?id=47604887) - [Electrical Transformer Manufacturing Is Throttling the Electrified Future](https://www.bloomberg.com/features/2025-bottlenecks-transformers/)
+* [2026-04-01, 18:32:05](https://news.ycombinator.com/item?id=47604698) - [Functional programming accellerates agentic feature development](https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai)
 * [2026-04-01, 18:06:00](https://news.ycombinator.com/item?id=47604354) - [TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS](https://github.com/SharpAI/SwiftLM)
 * [2026-04-01, 17:58:11](https://news.ycombinator.com/item?id=47604253) - [Unsubscribe from the Church of Graphs](https://www.adorableandharmless.com/p/unsubscribe-from-the-church-of-graphs)
 * [2026-04-01, 17:57:40](https://news.ycombinator.com/item?id=47604245) - [Ukrainian Drone Holds Position for 6 Weeks](https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/)
