@@ -63,6 +63,7 @@
 * [2026-04-02, 08:21:35](https://news.ycombinator.com/item?id=47611500) - [Should AI have the right to say 'No' to its owner?](https://github.com/Jang-woo-AnnaSoft/execution-boundaries)
 * [2026-04-02, 08:19:11](https://news.ycombinator.com/item?id=47611481) - [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/)
 * [2026-04-02, 07:17:50](https://news.ycombinator.com/item?id=47611044) - [Telli (YC F24) is hiring engineers, designers, and more [on-site, Berlin]](http://hi.telli.com/join-us)
+* [2026-04-02, 06:16:03](https://news.ycombinator.com/item?id=47610593) - [Elizabeth I's Manuscript of Pierre Boaistuau's Histoires Prodigieuses (1559)](https://publicdomainreview.org/collection/histoires-prodigieuses/)
 * [2026-04-02, 06:15:01](https://news.ycombinator.com/item?id=47610590) - [The East India Company in Japan](https://www.historytoday.com/archive/history-matters/east-india-company-japan)
 * [2026-04-02, 05:33:20](https://news.ycombinator.com/item?id=47610336) - [r/programming bans all discussion of LLM programming](https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/)
 * [2026-04-02, 05:06:12](https://news.ycombinator.com/item?id=47610191) - [I rebuilt the same project after 15 years – what changed in web dev](https://bamwor.com/en/news/rebuilt-same-project-after-15-years)
