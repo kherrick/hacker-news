@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-05, 23:04:29](https://news.ycombinator.com/item?id=47654842) - [Italian TV Copyright-Strikes Nvidia over Nvidia's Own DLSS 5 Footage](https://twitter.com/NikTek/status/2040898312262324362)
 * [2026-04-05, 22:35:20](https://news.ycombinator.com/item?id=47654649) - [Introducing GEN-1 [video]](https://www.youtube.com/watch?v=SY2xyrmV44Y)
 * [2026-04-05, 22:31:16](https://news.ycombinator.com/item?id=47654620) - [In Japan, the robot isn't coming for your job; it's filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
 * [2026-04-05, 21:42:01](https://news.ycombinator.com/item?id=47654171) - [The Mechanics of Steins Gate (2023) [pdf]](https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf)
 * [2026-04-05, 21:18:25](https://news.ycombinator.com/item?id=47653975) - [Qwen-3.6-Plus is the first model to break 1T tokens processed in a day](https://twitter.com/openrouter/status/2040239467865489874)
 * [2026-04-05, 20:19:11](https://news.ycombinator.com/item?id=47653471) - [Musician says AI company is cloning her music, filing claims against her](https://twitter.com/unlimited_ls/status/2040577536136974444)
-* [2026-04-05, 19:01:55](https://news.ycombinator.com/item?id=47652726) - [Bacteria found in the human intestine capable of improving muscle strength](https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength)
 * [2026-04-05, 18:45:53](https://news.ycombinator.com/item?id=47652561) - [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
 * [2026-04-05, 18:33:38](https://news.ycombinator.com/item?id=47652442) - [OpenJDK: Panama](https://openjdk.org/projects/panama/)
 * [2026-04-05, 18:29:47](https://news.ycombinator.com/item?id=47652400) - [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't](https://sschueller.github.io/posts/the-free-market-lie/)
@@ -29,7 +29,7 @@
 * [2026-04-04, 09:20:34](https://news.ycombinator.com/item?id=47637377) - [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love)
 * [2026-04-02, 12:01:27](https://news.ycombinator.com/item?id=47613272) - [Tracing Goroutines in Realtime with eBPF](https://sazak.io/articles/tracing-goroutines-in-realtime-with-ebpf-2026-03-31)
 * [2026-04-02, 10:11:16](https://news.ycombinator.com/item?id=47612331) - [Baby's Second Garbage Collector](https://www.matheusmoreira.com/articles/babys-second-garbage-collector)
-* [2026-04-01, 22:33:54](https://news.ycombinator.com/item?id=47607408) - [Scientists Figured Out How Eels Reproduce (2022)](https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/)
+* [2026-03-31, 22:32:40](https://news.ycombinator.com/item?id=47594345) - [Wavelets on Graphs via Spectral Graph Theory (2009)](https://arxiv.org/abs/0912.3848)
 
 ## [Archives](archives/index.md)
 
