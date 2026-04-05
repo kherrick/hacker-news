@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-05, 09:57:25](https://news.ycombinator.com/item?id=47647788) - [The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/)
 * [2026-04-05, 08:56:18](https://news.ycombinator.com/item?id=47647455) - [Talk like caveman](https://github.com/JuliusBrussee/caveman)
-* [2026-04-05, 07:01:45](https://news.ycombinator.com/item?id=47646871) - [Dynamics of (Not) Being Perceived: Grief and Relief After Leaving Social Media](https://networkcultures.org/thedigitalgutmensch/2026/04/02/dynamics-of-not-being-perceived-the-grief-relief-after-leaving-social-media/)
 * [2026-04-05, 06:57:19](https://news.ycombinator.com/item?id=47646843) - [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)
 * [2026-04-05, 06:12:30](https://news.ycombinator.com/item?id=47646566) - [Unverified: What Practitioners Post About OCR, Agents, and Tables](https://idp-software.com/news/idp-accuracy-reckoning-2026/)
 * [2026-04-05, 05:58:22](https://news.ycombinator.com/item?id=47646504) - [Show HN: OsintRadar – Curated directory for osint tools](https://osintradar.com/)
@@ -21,7 +21,6 @@
 * [2026-04-04, 14:20:21](https://news.ycombinator.com/item?id=47639303) - [Show HN: I made open source, zero power PCB hackathon badges](https://github.com/KaiPereira/Overglade-Badges)
 * [2026-04-04, 14:18:06](https://news.ycombinator.com/item?id=47639291) - [The Indie Internet Index – submit your favorite sites](https://iii.social)
 * [2026-04-04, 13:16:33](https://news.ycombinator.com/item?id=47638810) - [Components of a Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
-* [2026-04-04, 10:26:21](https://news.ycombinator.com/item?id=47637757) - [Embarrassingly simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193)
 * [2026-04-02, 13:54:12](https://news.ycombinator.com/item?id=47614532) - [Ruckus: Racket for iOS](https://ruckus.defn.io/)
 * [2026-04-02, 11:44:01](https://news.ycombinator.com/item?id=47613118) - [Show HN: I built a small app for FSI German Course](https://detawk.com/)
 * [2026-04-02, 01:53:11](https://news.ycombinator.com/item?id=47609117) - [Ask HN: Is there any interest in a native Qt/C++ Discord client?](https://news.ycombinator.com/item?id=47609117)
@@ -29,6 +28,7 @@
 * [2026-04-01, 18:47:48](https://news.ycombinator.com/item?id=47604887) - [Electrical transformer manufacturing is throttling the electrified future](https://www.bloomberg.com/features/2025-bottlenecks-transformers/)
 * [2026-04-01, 09:54:18](https://news.ycombinator.com/item?id=47598835) - [Rubysyn: Clarifying Ruby's Syntax and Semantics](https://github.com/squadette/rubysyn/blob/master/README.md)
 * [2026-04-01, 01:31:46](https://news.ycombinator.com/item?id=47595695) - [OpenScreen is an open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen)
+* [2026-03-31, 16:55:16](https://news.ycombinator.com/item?id=47590230) - [Costco sued for seeking refunds on tariffs customers paid](https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/)
 * [2026-03-31, 13:29:53](https://news.ycombinator.com/item?id=47587089) - [Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs](https://zml.ai/posts/zml-smi/)
 
 ## [Archives](archives/index.md)

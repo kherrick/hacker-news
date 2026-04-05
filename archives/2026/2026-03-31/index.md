@@ -25,6 +25,7 @@
 * [2026-03-31, 18:16:17](https://news.ycombinator.com/item?id=47591367) - [Breaking Enigma with Index of Coincidence on a Commodore 64](https://imapenguin.com/2026/03/breaking-enigma-with-index-of-coincidence-on-a-commodore-64/)
 * [2026-03-31, 17:55:04](https://news.ycombinator.com/item?id=47591104) - [OkCupid gave 3M dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/)
 * [2026-03-31, 16:57:34](https://news.ycombinator.com/item?id=47590261) - [Ask HN: Academic study on AI's impact on software development – want to join?](https://news.ycombinator.com/item?id=47590261)
+* [2026-03-31, 16:55:16](https://news.ycombinator.com/item?id=47590230) - [Costco sued for seeking refunds on tariffs customers paid](https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/)
 * [2026-03-31, 16:29:52](https://news.ycombinator.com/item?id=47589856) - [Show HN: How This Graybeard Built the Fastest and Freest Postgres BM25 Search](https://github.com/timescale/pg_textsearch)
 * [2026-03-31, 16:27:02](https://news.ycombinator.com/item?id=47589818) - [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe)
 * [2026-03-31, 16:25:43](https://news.ycombinator.com/item?id=47589797) - [Show HN: PhAIL – Real-robot benchmark for AI models](https://phail.ai)

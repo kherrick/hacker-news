@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 09:57:25](https://news.ycombinator.com/item?id=47647788) - [The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/)
 * [2026-04-05, 08:56:18](https://news.ycombinator.com/item?id=47647455) - [Talk like caveman](https://github.com/JuliusBrussee/caveman)
 * [2026-04-05, 07:01:45](https://news.ycombinator.com/item?id=47646871) - [Dynamics of (Not) Being Perceived: Grief and Relief After Leaving Social Media](https://networkcultures.org/thedigitalgutmensch/2026/04/02/dynamics-of-not-being-perceived-the-grief-relief-after-leaving-social-media/)
 * [2026-04-05, 06:57:19](https://news.ycombinator.com/item?id=47646843) - [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)
