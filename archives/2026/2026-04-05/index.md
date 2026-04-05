@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 14:56:18](https://news.ycombinator.com/item?id=47650089) - [EPA Official in Charge of Methane Regs Wrote Oil Industry Argument Against Them](https://www.propublica.org/article/trump-epa-methane-deregulation-aaron-szabo-oil-gas-axpc)
+* [2026-04-05, 14:49:41](https://news.ycombinator.com/item?id=47650022) - [Banray.eu: Raising awareness of the terrible idea that is always-on AI glasses](https://banray.eu/en/index.html)
 * [2026-04-05, 14:37:20](https://news.ycombinator.com/item?id=47649917) - [SPF/PC v4 for MS-DOS, FreeDOS, x86](https://github.com/moshix/SPFPC)
 * [2026-04-05, 14:27:55](https://news.ycombinator.com/item?id=47649811) - [Japanese, French and Omani Vessels Cross Strait of Hormuz](https://japantoday.com/category/politics/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz)
+* [2026-04-05, 14:18:12](https://news.ycombinator.com/item?id=47649721) - [Artemis II crew see first glimpse of far side of Moon](https://www.bbc.com/news/videos/ce3d5gkd2geo)
 * [2026-04-05, 13:18:05](https://news.ycombinator.com/item?id=47649148) - [Iguanaworks has closed down. USB Infrared hardware open source maker](http://iguanaworks.net/products/usb-ir-transceiver.html)
 * [2026-04-05, 13:14:38](https://news.ycombinator.com/item?id=47649117) - [Someone at BrowserStack Is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
 * [2026-04-05, 13:14:36](https://news.ycombinator.com/item?id=47649113) - [Finnish sauna heat exposure induces stronger immune cell than cytokine responses](https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract)
