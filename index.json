@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-04-06, 06:49:42",
-      "https://news.ycombinator.com/item?id=47657699"
+      "2026-04-06, 08:03:43",
+      "https://news.ycombinator.com/item?id=47658146"
     ],
     [
-      "SideX – A Tauri-based port of Visual Studio Code",
-      "https://github.com/Sidenai/sidex"
+      "France pulls last gold held in US for $15B gain",
+      "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 04:24:49",
+      "https://news.ycombinator.com/item?id=47656981"
+    ],
+    [
+      "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
+      "https://drop.com/"
     ]
   ],
   [
@@ -51,22 +61,22 @@
   ],
   [
     [
+      "2026-04-06, 02:33:21",
+      "https://news.ycombinator.com/item?id=47656335"
+    ],
+    [
+      "Does coding with LLMs mean more microservices?",
+      "https://ben.page/microservices"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 02:28:40",
       "https://news.ycombinator.com/item?id=47656303"
     ],
     [
       "Case study: recovery of a corrupted 12 TB multi-device pool",
       "https://github.com/kdave/btrfs-progs/issues/1107"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 01:57:59",
-      "https://news.ycombinator.com/item?id=47656114"
-    ],
-    [
-      "We replaced Node.js with Bun for 5x throughput",
-      "https://trigger.dev/blog/firebun"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
       "https://github.com/mohshomis/modo"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 22:31:16",
-      "https://news.ycombinator.com/item?id=47654620"
-    ],
-    [
-      "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
-      "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-04-04, 11:18:44",
-      "https://news.ycombinator.com/item?id=47638043"
+      "2026-04-05, 08:56:18",
+      "https://news.ycombinator.com/item?id=47647455"
     ],
     [
-      "Rendering arbitrary-scale emojis using the Slug algorithm",
-      "https://leduyquang753.name.vn/blog/2026/4/4/rendering-arbitrary-scale-emojis-using-the-slug-algorithm"
+      "Caveman: Why use many token when few token do trick",
+      "https://github.com/JuliusBrussee/caveman"
     ]
   ],
   [
