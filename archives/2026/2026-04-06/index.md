@@ -4,11 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
+* [2026-04-06, 16:40:46](https://news.ycombinator.com/item?id=47663285) - [Why do Macs ask you to press random keys when connecting a new keyboard?](https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/)
+* [2026-04-06, 16:36:00](https://news.ycombinator.com/item?id=47663207) - [Show HN: I Built Paul Graham's Intellectual Captcha Idea](https://mentwire.com/sample)
+* [2026-04-06, 16:32:11](https://news.ycombinator.com/item?id=47663147) - [Launch HN: Freestyle: Sandboxes for AI Coding Agents](https://www.freestyle.sh)
 * [2026-04-06, 16:15:41](https://news.ycombinator.com/item?id=47662857) - [81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone](https://twitter.com/Suzierizzo1/status/2040864617467924865)
+* [2026-04-06, 16:13:47](https://news.ycombinator.com/item?id=47662833) - [Reducto releases Deep Extract](https://reducto.ai/blog/reducto-deep-extract-agent)
 * [2026-04-06, 16:00:29](https://news.ycombinator.com/item?id=47662658) - [sc-im Spreadsheets in Your Terminal](https://github.com/andmarti1424/sc-im)
 * [2026-04-06, 15:57:07](https://news.ycombinator.com/item?id=47662596) - [AI Singer Now Occupies Eleven Spots on iTunes Singles Chart](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
 * [2026-04-06, 15:46:56](https://news.ycombinator.com/item?id=47662442) - [More Americans Are Breaking into the Upper Middle Class](https://www.wsj.com/economy/more-americans-are-breaking-into-the-upper-middle-class-bf8b7cb2)
 * [2026-04-06, 15:40:49](https://news.ycombinator.com/item?id=47662350) - [Anthropic is burning more and more dev goodwill](https://twitter.com/GergelyOrosz/status/2041133254586122605)
+* [2026-04-06, 15:31:20](https://news.ycombinator.com/item?id=47662234) - [A Cryptography Engineer's Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/)
+* [2026-04-06, 15:22:53](https://news.ycombinator.com/item?id=47662116) - [Sky – an Elm-inspired language that compiles to Go](https://github.com/anzellai/sky)
 * [2026-04-06, 14:31:29](https://news.ycombinator.com/item?id=47661439) - [I Won't Download Your App. The Web Version Is A-OK](https://www.0xsid.com/blog/wont-download-your-app)
 * [2026-04-06, 14:16:35](https://news.ycombinator.com/item?id=47661231) - [When Virality Is the Message: The New Age of AI Propaganda](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
 * [2026-04-06, 14:01:09](https://news.ycombinator.com/item?id=47661065) - [The Team Behind a Pro-Iran, Lego-Themed Viral-Video Campaign](https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign)
