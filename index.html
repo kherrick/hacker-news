@@ -129,6 +129,25 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47667672">
+          <h3>
+            <a class="item" href="https://github.com/kitfunso/hippo-memory"
+              >Show HN: Hippo, biologically inspired memory for AI agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-06 @ 21:49:34</span
+              ><span class="points-container"
+                >Points: <span class="points">19</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47667672"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47667459">
           <h3>
             <a
@@ -142,11 +161,11 @@
             <h4>
               <span>2026-04-06 @ 21:33:22</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47667459"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -156,18 +175,18 @@
             <a
               class="item"
               href="https://www.science.org/content/blog-post/ah-peptides-where-begin"
-              >Derek Lowe on "Peptides"</a
+              >Ah, peptides. where to begin?</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-04-06 @ 21:22:03</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47667321"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -244,11 +263,11 @@
             <h4>
               <span>2026-04-06 @ 20:41:41</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47666767"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -266,11 +285,11 @@
             <h4>
               <span>2026-04-06 @ 20:20:54</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47666488"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -286,11 +305,11 @@
             <h4>
               <span>2026-04-06 @ 19:50:16</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">160</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47666024"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
             <div class="text">
@@ -303,26 +322,81 @@
             </div>
           </section>
         </section>
-        <section id="47665902">
+        <section id="47665685">
           <h3>
-            <a
-              class="item"
-              href="https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse"
-              >Wikipedia's AI agent row likely just the beginning of the
-              bot-ocalypse</a
+            <a class="item" href="https://github.com/4RH1T3CT0R7/ttf-doom"
+              >Show HN: TTF-DOOM – A raycaster running inside TrueType font
+              hinting</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-04-06 @ 19:41:39</span
+              <span>2026-04-06 @ 19:25:39</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47665902"
+                ><a href="https://news.ycombinator.com/item?id=47665685"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                The glyph "A" in the font has 16 vertical bar contours. The
+                hinting program reads player coordinates from font variation
+                axes via GETVARIATION, does DDA ray marching against a tile map
+                in the storage area, and repositions bar heights with SCFS. It
+                ends up looking like a crude Wolfenstein-style view.
+              </p>
+              <p>
+                Small visuzlization:
+                <a
+                  href="https://github.com/4RH1T3CT0R7/ttf-doom/blob/main/docs/media/transform.gif"
+                  >https://github.com/4RH1T3CT0R7/ttf-doom/blob/main/docs/media...</a
+                >
+              </p>
+              <p>
+                About 6.5 KB of bytecode total - 13 functions, 795 storage
+                slots, sin/cos lookup tables.
+              </p>
+              <p>
+                JS handles movement, enemies, and shooting, then passes the
+                coordinates to the font through CSS font-variation-settings. The
+                font is basically a weird GPU.
+              </p>
+              <p>
+                The weirdest parts: - TrueType MUL does (a<i>b)/64, not a</i>b.
+                So 1*4=0. The DIV instruction is equally cursed. - No WHILE
+                loops. Everything compiles to recursive FDEFs. FreeType limits
+                call depth to ~64 frames. - SVTCA[0] is Y, SVTCA[1] is X. Of
+                course.
+              </p>
+              <p>
+                There's a small compiler behind this - lexer, parser, codegen -
+                that turns a C-like DSL into TT assembly.
+              </p>
+              <p>
+                Demo GIF:
+                <a
+                  href="https://github.com/4RH1T3CT0R7/ttf-doom/blob/main/docs/media/demo.gif"
+                  >https://github.com/4RH1T3CT0R7/ttf-doom/blob/main/docs/media...</a
+                >
+              </p>
+              <p>
+                Live demo:
+                <a href="https://4rh1t3ct0r7.github.io/ttf-doom/"
+                  >https://4rh1t3ct0r7.github.io/ttf-doom/</a
+                >
+                (Chrome/Edge, WASD+arrows, Space to shoot, Tab for debug
+                overlay)
+              </p>
+              <p>
+                This is a DOOM-style raycaster, not a port of the original
+                engine - similar to DOOMQL and the Excel DOOM. The wall
+                rendering does happen in the font's hinting VM though. Press Tab
+                in the demo to watch the font variation axes change as you move.
+              </p>
+            </div>
           </section>
         </section>
         <section id="47665245">
@@ -335,7 +409,7 @@
             <h4>
               <span>2026-04-06 @ 18:56:57</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47665245"
                   >Comments</a
@@ -361,7 +435,7 @@
             <h4>
               <span>2026-04-06 @ 18:54:09</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47665207"
                   >Comments</a
@@ -381,11 +455,11 @@
             <h4>
               <span>2026-04-06 @ 18:53:15</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47665194"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
             <div class="text">
@@ -467,61 +541,13 @@
             <h4>
               <span>2026-04-06 @ 18:31:03</span
               ><span class="points-container"
-                >Points: <span class="points">423</span></span
+                >Points: <span class="points">438</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47664912"
                   >Comments</a
-                ><span class="descendants">: 354</span></span
+                ><span class="descendants">: 367</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47664647">
-          <h3>
-            <a class="item" href="https://monyatwu.com/blog/iitsocial/"
-              >Got kicked out of uni and had the cops called for a social media
-              website I made</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-06 @ 18:10:41</span
-              ><span class="points-container"
-                >Points: <span class="points">56</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47664647"
-                  >Comments</a
-                ><span class="descendants">: 181</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47664389">
-          <h3>
-            <a
-              class="item"
-              href="https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/"
-              >Intelligent people are better judges of the intelligence of
-              others</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-06 @ 17:52:46</span
-              ><span class="points-container"
-                >Points: <span class="points">84</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47664389"
-                  >Comments</a
-                ><span class="descendants">: 92</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://www.sciencedirect.com/science/article/pii/S0160289625000972"
-                >https://www.sciencedirect.com/science/article/pii/S016028962...</a
-              >
-            </div>
           </section>
         </section>
         <section id="47664205">
@@ -537,11 +563,11 @@
             <h4>
               <span>2026-04-06 @ 17:38:30</span
               ><span class="points-container"
-                >Points: <span class="points">191</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47664205"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -556,11 +582,11 @@
             <h4>
               <span>2026-04-06 @ 17:37:38</span
               ><span class="points-container"
-                >Points: <span class="points">344</span></span
+                >Points: <span class="points">359</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47664186"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -575,11 +601,11 @@
             <h4>
               <span>2026-04-06 @ 16:32:11</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47663147"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 101</span></span
               >
             </h4>
             <div class="text">
@@ -655,11 +681,11 @@
             <h4>
               <span>2026-04-06 @ 16:21:46</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">172</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47662945"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
             <div class="text">
@@ -694,11 +720,11 @@
             <h4>
               <span>2026-04-06 @ 16:13:47</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47662833"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -715,11 +741,11 @@
             <h4>
               <span>2026-04-06 @ 15:57:07</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47662596"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -735,11 +761,11 @@
             <h4>
               <span>2026-04-06 @ 15:31:20</span
               ><span class="points-container"
-                >Points: <span class="points">259</span></span
+                >Points: <span class="points">280</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47662234"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -754,11 +780,11 @@
             <h4>
               <span>2026-04-06 @ 15:22:53</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47662116"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -776,11 +802,11 @@
             <h4>
               <span>2026-04-06 @ 13:52:37</span
               ><span class="points-container"
-                >Points: <span class="points">240</span></span
+                >Points: <span class="points">247</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47660954"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 128</span></span
               >
             </h4>
           </section>
@@ -798,11 +824,11 @@
             <h4>
               <span>2026-04-06 @ 13:50:35</span
               ><span class="points-container"
-                >Points: <span class="points">656</span></span
+                >Points: <span class="points">682</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47660925"
                   >Comments</a
-                ><span class="descendants">: 420</span></span
+                ><span class="descendants">: 435</span></span
               >
             </h4>
           </section>
@@ -819,11 +845,11 @@
             <h4>
               <span>2026-04-06 @ 13:44:01</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">187</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47660853"
                   >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 131</span></span
               >
             </h4>
           </section>
@@ -840,11 +866,11 @@
             <h4>
               <span>2026-04-06 @ 12:53:41</span
               ><span class="points-container"
-                >Points: <span class="points">294</span></span
+                >Points: <span class="points">301</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47660286"
                   >Comments</a
-                ><span class="descendants">: 167</span></span
+                ><span class="descendants">: 168</span></span
               >
             </h4>
           </section>
@@ -861,11 +887,11 @@
             <h4>
               <span>2026-04-06 @ 10:36:57</span
               ><span class="points-container"
-                >Points: <span class="points">407</span></span
+                >Points: <span class="points">508</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47659135"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
           </section>
@@ -880,11 +906,11 @@
             <h4>
               <span>2026-04-04 @ 10:39:32</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47637828"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -899,11 +925,11 @@
             <h4>
               <span>2026-04-04 @ 08:49:12</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47637206"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
             <div class="text">
@@ -941,11 +967,11 @@
             <h4>
               <span>2026-04-04 @ 08:14:53</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47637010"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -970,6 +996,66 @@
                 ><span class="descendants">: 4</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="47636579">
+          <h3>
+            <a class="item" href="https://github.com/roscopeco/anos"
+              >Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and
+              RISC-V</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-04 @ 06:58:03</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47636579"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                LLMs (mostly Claude Code) have been used during development, but
+                I learned early on that it's not _great_ at code at this level,
+                so I've restricted its use to mostly documentation and tests.
+                There's _a little_ AI code in the user space, but I have a
+                strict "no AI code" rule in the kernel itself. I find this helps
+                not only with the quality / functionality of the code, but also
+                with learning - for example, even though I've written multiple
+                kernels in the past, it wasn't until Anos that I _truly_ grokked
+                pagetable management and what was possible with a good VMM
+                interface, and if I'd outsourced that implementation to an LLM I
+                probably wouldn't have learned any of that.
+              </p>
+              <p>
+                In terms of approach, Anos avoids legacy platform features and
+                outdated wiki / tutorial resources, and instead tries to
+                implement as much as possible from manuals and datasheets, and
+                it's definitely worked out well so far. There's no support for
+                legacy platform features or peripherals, with all IO being
+                memory mapped and MSI/MSI-X interrupts (no PIC), for example,
+                which has helped keep the codebase focused and easy to work on.
+                The kernel compiles to about 100KiB on x86-64, with enough
+                features to be able to support multitasking and device drivers
+                in user space.
+              </p>
+              <p>
+                As a hobby project, progress ebbs and flows with pressures of my
+                day job etc, and the main branch has been quiet for the last few
+                months. I have however been working on a USB stack as time
+                allows, and hopefully will soon have at least basic HID support
+                to allow me to take the next step and make Anos interactive.
+              </p>
+              <p>
+                I don't know how useful projects like Anos are any more, given
+                we now live in the age of AI coding, but it's a fun learning
+                experience and helps keep me technically grounded, and I'll
+                carry on with it for as long as those things remain true.
+              </p>
+            </div>
           </section>
         </section>
       </section>
