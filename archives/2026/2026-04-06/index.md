@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
 * [2026-04-06, 21:49:34](https://news.ycombinator.com/item?id=47667672) - [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)
+* [2026-04-06, 21:36:47](https://news.ycombinator.com/item?id=47667504) - [Ask HN: How do you handle marketing as a solo technical founder?](https://news.ycombinator.com/item?id=47667504)
 * [2026-04-06, 21:33:22](https://news.ycombinator.com/item?id=47667459) - [NYC Families Need over $125,000 in Income to Live in Any Borough](https://www.bloomberg.com/news/articles/2026-04-06/nyc-families-need-over-125-000-in-income-to-live-in-any-borough)
 * [2026-04-06, 21:22:03](https://news.ycombinator.com/item?id=47667321) - [Derek Lowe on \"Peptides\"](https://www.science.org/content/blog-post/ah-peptides-where-begin)
 * [2026-04-06, 21:00:00](https://news.ycombinator.com/item?id=47667011) - [HackerRank (YC S11) Is Hiring](https://news.ycombinator.com/item?id=47667011)
