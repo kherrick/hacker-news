@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-06, 14:31:29",
+      "https://news.ycombinator.com/item?id=47661439"
+    ],
+    [
+      "I Won't Download Your App. The Web Version Is A-OK",
+      "https://www.0xsid.com/blog/wont-download-your-app"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 14:16:35",
       "https://news.ycombinator.com/item?id=47661231"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2026-04-06, 14:01:09",
+      "https://news.ycombinator.com/item?id=47661065"
+    ],
+    [
+      "The Team Behind a Pro-Iran, Lego-Themed Viral-Video Campaign",
+      "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 13:52:37",
       "https://news.ycombinator.com/item?id=47660954"
     ],
     [
       "Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab",
       "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 13:44:01",
+      "https://news.ycombinator.com/item?id=47660853"
+    ],
+    [
+      "Book Review: There Is No Antimemetics Division",
+      "https://www.stephendiehl.com/posts/no_antimimetics/"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "What Being Ripped Off Taught Me",
       "https://belief.horse/notes/what-being-ripped-off-taught-me/"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 11:39:03",
-      "https://news.ycombinator.com/item?id=47659609"
-    ],
-    [
-      "Tiny Corp's Exabox",
-      "https://twitter.com/__tinygrad__/status/2040944508402360592"
     ]
   ],
   [
@@ -237,26 +257,6 @@
     [
       "A tail-call interpreter in (nightly) Rust",
       "https://www.mattkeeter.com/blog/2026-04-05-tailcall/"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 12:43:47",
-      "https://news.ycombinator.com/item?id=47648828"
-    ],
-    [
-      "Eight years of wanting, three months of building with AI",
-      "https://lalitm.com/post/building-syntaqlite-ai/"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 08:56:18",
-      "https://news.ycombinator.com/item?id=47647455"
-    ],
-    [
-      "Caveman: Why use many token when few token do trick",
-      "https://github.com/JuliusBrussee/caveman"
     ]
   ],
   [
