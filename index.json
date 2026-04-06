@@ -1,22 +1,102 @@
 [
   [
     [
-      "2026-04-05, 23:04:29",
-      "https://news.ycombinator.com/item?id=47654842"
+      "2026-04-06, 00:50:32",
+      "https://news.ycombinator.com/item?id=47655618"
     ],
     [
-      "Italian TV Copyright-Strikes Nvidia over Nvidia's Own DLSS 5 Footage",
-      "https://twitter.com/NikTek/status/2040898312262324362"
+      "Apex Protocol – An open MCP-based standard for AI agent trading",
+      "https://apexstandard.org/"
     ]
   ],
   [
     [
-      "2026-04-05, 22:35:20",
-      "https://news.ycombinator.com/item?id=47654649"
+      "2026-04-06, 00:29:08",
+      "https://news.ycombinator.com/item?id=47655466"
     ],
     [
-      "Introducing GEN-1 [video]",
-      "https://www.youtube.com/watch?v=SY2xyrmV44Y"
+      "Employers use your personal data to figure out the lowest salary you'll accept",
+      "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 00:20:12",
+      "https://news.ycombinator.com/item?id=47655408"
+    ],
+    [
+      "Show HN: I built a tiny LLM to demystify how language models work",
+      "https://github.com/arman-bd/guppylm"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 00:18:26",
+      "https://news.ycombinator.com/item?id=47655392"
+    ],
+    [
+      "Show HN: YouTube search barely works, I made a search form with advanced filters",
+      "https://playlists.at/youtube/search/"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 00:14:37",
+      "https://news.ycombinator.com/item?id=47655367"
+    ],
+    [
+      "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+      "https://github.com/kessler/gemma-gem"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 00:09:14",
+      "https://news.ycombinator.com/item?id=47655335"
+    ],
+    [
+      "Recall – local multimodal semantic search for your files",
+      "https://github.com/aayu22809/Recall"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 00:07:54",
+      "https://news.ycombinator.com/item?id=47655329"
+    ],
+    [
+      "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
+      "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 23:59:10",
+      "https://news.ycombinator.com/item?id=47655268"
+    ],
+    [
+      "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
+      "https://github.com/mohshomis/modo"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 23:35:59",
+      "https://news.ycombinator.com/item?id=47655078"
+    ],
+    [
+      "Show HN: Mdarena – Benchmark your Claude.md against your own PRs",
+      "https://github.com/HudsonGri/mdarena"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 23:33:01",
+      "https://news.ycombinator.com/item?id=47655058"
+    ],
+    [
+      "OpenAI's fall from grace as investors race to Anthropic",
+      "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic"
     ]
   ],
   [
@@ -37,26 +117,6 @@
     [
       "The Mechanics of Steins Gate (2023) [pdf]",
       "https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 21:18:25",
-      "https://news.ycombinator.com/item?id=47653975"
-    ],
-    [
-      "Qwen-3.6-Plus is the first model to break 1T tokens processed in a day",
-      "https://twitter.com/openrouter/status/2040239467865489874"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 20:19:11",
-      "https://news.ycombinator.com/item?id=47653471"
-    ],
-    [
-      "Musician says AI company is cloning her music, filing claims against her",
-      "https://twitter.com/unlimited_ls/status/2040577536136974444"
     ]
   ],
   [
@@ -85,18 +145,8 @@
       "https://news.ycombinator.com/item?id=47652400"
     ],
     [
-      "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+      "Why Switzerland has 25 Gbit internet and America doesn't",
       "https://sschueller.github.io/posts/the-free-market-lie/"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 18:23:14",
-      "https://news.ycombinator.com/item?id=47652324"
-    ],
-    [
-      "LibreOffice – Let's put an end to the speculation",
-      "https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/"
     ]
   ],
   [
@@ -127,16 +177,6 @@
     [
       "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
       "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 17:08:55",
-      "https://news.ycombinator.com/item?id=47651479"
-    ],
-    [
-      "From birds to brains: My path to the fusiform face area (2024)",
-      "https://www.kavliprize.org/nancy-kanwisher-autobiography"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2026-04-05, 14:16:28",
-      "https://news.ycombinator.com/item?id=47649701"
-    ],
-    [
-      "Perfmon – Consolidate your favorite CLI monitoring tools into a single TUI",
-      "https://github.com/sumant1122/Perfmon"
-    ]
-  ],
-  [
-    [
       "2026-04-05, 13:14:36",
       "https://news.ycombinator.com/item?id=47649113"
     ],
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2026-04-05, 12:03:17",
-      "https://news.ycombinator.com/item?id=47648499"
-    ],
-    [
-      "Hightouch (YC S19) Is Hiring",
-      "https://hightouch.com/careers#open-positions"
-    ]
-  ],
-  [
-    [
       "2026-04-05, 10:41:06",
       "https://news.ycombinator.com/item?id=47648048"
     ],
     [
       "Friendica – A Decentralized Social Network",
       "https://friendi.ca/"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 09:57:25",
-      "https://news.ycombinator.com/item?id=47647788"
-    ],
-    [
-      "The threat is comfortable drift toward not understanding what you're doing",
-      "https://ergosphere.blog/posts/the-machines-are-fine/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-04-04, 10:00:04",
-      "https://news.ycombinator.com/item?id=47637622"
-    ],
-    [
-      "A brief history of instant coffee",
-      "https://worksinprogress.co/issue/a-brief-history-of-instant-coffee/"
-    ]
-  ],
-  [
-    [
       "2026-04-04, 09:20:34",
       "https://news.ycombinator.com/item?id=47637377"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-04-02, 12:01:27",
-      "https://news.ycombinator.com/item?id=47613272"
+      "2026-04-04, 07:29:41",
+      "https://news.ycombinator.com/item?id=47636765"
     ],
     [
-      "Tracing Goroutines in Realtime with eBPF",
-      "https://sazak.io/articles/tracing-goroutines-in-realtime-with-ebpf-2026-03-31"
+      "Endian wars and anti-portability: this again?",
+      "https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/"
     ]
   ],
   [
     [
-      "2026-04-02, 10:11:16",
-      "https://news.ycombinator.com/item?id=47612331"
+      "2026-04-04, 06:34:12",
+      "https://news.ycombinator.com/item?id=47636456"
     ],
     [
-      "Baby's Second Garbage Collector",
-      "https://www.matheusmoreira.com/articles/babys-second-garbage-collector"
+      "Sheets Spreadsheets in Your Terminal",
+      "https://github.com/maaslalani/sheets"
     ]
   ],
   [
