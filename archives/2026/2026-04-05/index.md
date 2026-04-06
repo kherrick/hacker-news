@@ -10,6 +10,7 @@
 * [2026-04-05, 23:04:29](https://news.ycombinator.com/item?id=47654842) - [Italian TV Copyright-Strikes Nvidia over Nvidia's Own DLSS 5 Footage](https://twitter.com/NikTek/status/2040898312262324362)
 * [2026-04-05, 22:35:20](https://news.ycombinator.com/item?id=47654649) - [Introducing GEN-1 [video]](https://www.youtube.com/watch?v=SY2xyrmV44Y)
 * [2026-04-05, 22:31:16](https://news.ycombinator.com/item?id=47654620) - [In Japan, the robot isn't coming for your job; it's filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
+* [2026-04-05, 22:00:59](https://news.ycombinator.com/item?id=47654346) - [The anatomy of SMS delivery: from request to carrier](https://blog.bridgexapi.io/the-anatomy-of-sms-delivery-from-request-to-carrier)
 * [2026-04-05, 21:42:01](https://news.ycombinator.com/item?id=47654171) - [The Mechanics of Steins Gate (2023) [pdf]](https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf)
 * [2026-04-05, 21:18:25](https://news.ycombinator.com/item?id=47653975) - [Qwen-3.6-Plus is the first model to break 1T tokens processed in a day](https://twitter.com/openrouter/status/2040239467865489874)
 * [2026-04-05, 21:14:40](https://news.ycombinator.com/item?id=47653954) - [Policy on adding AI generated content to my software projects](https://joeyh.name/blog/entry/policy_on_adding_AI_generated_content_to_my_software_projects/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
+* [2026-04-06, 23:23:28](https://news.ycombinator.com/item?id=47668727) - [After 20 years I turned off Google Adsense for my websites](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
+* [2026-04-06, 21:52:08](https://news.ycombinator.com/item?id=47667717) - [Anthropic expands partnership w Google and Broadcom for multiple GW of compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
 * [2026-04-06, 21:49:34](https://news.ycombinator.com/item?id=47667672) - [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)
 * [2026-04-06, 21:36:47](https://news.ycombinator.com/item?id=47667504) - [Ask HN: How do you handle marketing as a solo technical founder?](https://news.ycombinator.com/item?id=47667504)
 * [2026-04-06, 21:33:22](https://news.ycombinator.com/item?id=47667459) - [NYC Families Need over $125,000 in Income to Live in Any Borough](https://www.bloomberg.com/news/articles/2026-04-06/nyc-families-need-over-125-000-in-income-to-live-in-any-borough)
