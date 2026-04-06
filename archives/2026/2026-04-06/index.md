@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
+* [2026-04-06, 09:39:17](https://news.ycombinator.com/item?id=47658743) - [Number in man page titles e.g. sleep(3)](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
 * [2026-04-06, 08:03:43](https://news.ycombinator.com/item?id=47658146) - [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/)
 * [2026-04-06, 06:49:42](https://news.ycombinator.com/item?id=47657699) - [SideX – A Tauri-based port of Visual Studio Code](https://github.com/Sidenai/sidex)
 * [2026-04-06, 04:24:49](https://news.ycombinator.com/item?id=47656981) - [Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair](https://drop.com/)

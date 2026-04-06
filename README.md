@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-06, 09:39:17](https://news.ycombinator.com/item?id=47658743) - [Number in man page titles e.g. sleep(3)](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
 * [2026-04-06, 08:03:43](https://news.ycombinator.com/item?id=47658146) - [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/)
 * [2026-04-06, 04:24:49](https://news.ycombinator.com/item?id=47656981) - [Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair](https://drop.com/)
 * [2026-04-06, 03:45:07](https://news.ycombinator.com/item?id=47656758) - [Make your own ColecoVision at home, part 5](https://www.leadedsolder.com/2026/03/24/colecovision-diy-part-5.html)
@@ -22,7 +23,6 @@
 * [2026-04-05, 17:13:51](https://news.ycombinator.com/item?id=47651540) - [Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code](https://ai.georgeliu.com/p/running-google-gemma-4-locally-with)
 * [2026-04-05, 15:38:18](https://news.ycombinator.com/item?id=47650502) - [Computational Physics (2nd Edition) (2025)](https://websites.umich.edu/~mejn/cp2/)
 * [2026-04-05, 15:18:01](https://news.ycombinator.com/item?id=47650312) - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
-* [2026-04-05, 14:21:17](https://news.ycombinator.com/item?id=47649742) - [Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs](https://github.com/salmanmohammadi/nanocode/discussions/1)
 * [2026-04-05, 14:18:12](https://news.ycombinator.com/item?id=47649721) - [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo)
 * [2026-04-05, 12:43:47](https://news.ycombinator.com/item?id=47648828) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
 * [2026-04-05, 08:56:18](https://news.ycombinator.com/item?id=47647455) - [Caveman: Why use many token when few token do trick](https://github.com/JuliusBrussee/caveman)
