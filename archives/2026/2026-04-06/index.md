@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
+* [2026-04-06, 03:32:23](https://news.ycombinator.com/item?id=47656682) - [Winners of the 2026 Kokuyo Design Awards](https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/)
+* [2026-04-06, 03:28:04](https://news.ycombinator.com/item?id=47656659) - [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304)
+* [2026-04-06, 03:22:42](https://news.ycombinator.com/item?id=47656622) - [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
+* [2026-04-06, 03:03:22](https://news.ycombinator.com/item?id=47656501) - [The 1987 game \"The Last Ninja\" was 40 kilobytes](https://twitter.com/exQUIZitely/status/2040777977521398151)
+* [2026-04-06, 02:28:40](https://news.ycombinator.com/item?id=47656303) - [Case study: recovery of a corrupted 12 TB multi-device pool](https://github.com/kdave/btrfs-progs/issues/1107)
+* [2026-04-06, 01:57:59](https://news.ycombinator.com/item?id=47656114) - [We replaced Node.js with Bun for 5x throughput](https://trigger.dev/blog/firebun)
+* [2026-04-06, 01:42:27](https://news.ycombinator.com/item?id=47655978) - [Stamp It All Programs Must Report Their Version – Michael Stapelberg](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
 * [2026-04-06, 00:50:32](https://news.ycombinator.com/item?id=47655618) - [Apex Protocol – An open MCP-based standard for AI agent trading](https://apexstandard.org/)
 * [2026-04-06, 00:29:08](https://news.ycombinator.com/item?id=47655466) - [Employers use your personal data to figure out the lowest salary you'll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb)
 * [2026-04-06, 00:20:12](https://news.ycombinator.com/item?id=47655408) - [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
