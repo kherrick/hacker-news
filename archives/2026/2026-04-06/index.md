@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
+* [2026-04-06, 12:03:00](https://news.ycombinator.com/item?id=47659807) - [Ask HN: How do systems (or people) detect when a text is written by an LLM](https://news.ycombinator.com/item?id=47659807)
+* [2026-04-06, 11:39:03](https://news.ycombinator.com/item?id=47659609) - [Tiny Corp's Exabox](https://twitter.com/__tinygrad__/status/2040944508402360592)
+* [2026-04-06, 11:21:35](https://news.ycombinator.com/item?id=47659461) - [The Intelligence Failure in Iran](https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/)
 * [2026-04-06, 10:54:11](https://news.ycombinator.com/item?id=47659252) - [Is Germany's gold safe in New York ?](https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873)
 * [2026-04-06, 10:33:02](https://news.ycombinator.com/item?id=47659109) - [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/)
 * [2026-04-06, 09:39:17](https://news.ycombinator.com/item?id=47658743) - [Number in man page titles e.g. sleep(3)](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
