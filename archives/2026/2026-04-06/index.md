@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
+* [2026-04-06, 20:20:54](https://news.ycombinator.com/item?id=47666488) - [A macOS kernel bug can cause OpenClaw to stop working after 49.7 days](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking)
 * [2026-04-06, 19:50:16](https://news.ycombinator.com/item?id=47666024) - [Show HN: Ghost Pepper – 100% local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
 * [2026-04-06, 19:41:39](https://news.ycombinator.com/item?id=47665902) - [Wikipedia's AI agent row likely just the beginning of the bot-ocalypse](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
 * [2026-04-06, 18:56:57](https://news.ycombinator.com/item?id=47665245) - [Agent Reading Test](https://agentreadingtest.com)
@@ -12,6 +13,7 @@
 * [2026-04-06, 18:31:03](https://news.ycombinator.com/item?id=47664912) - [The Cult of Vibe Coding Is Insane](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
 * [2026-04-06, 18:10:41](https://news.ycombinator.com/item?id=47664647) - [Got kicked out of uni and had the cops called for a social media website I made](https://monyatwu.com/blog/iitsocial/)
 * [2026-04-06, 17:52:46](https://news.ycombinator.com/item?id=47664389) - [Smart people recognize each other – science proves it](https://comuniq.xyz/post?t=920)
+* [2026-04-06, 17:52:46](https://news.ycombinator.com/item?id=47664389) - [Intelligent people are better judges of the intelligence of others](https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/)
 * [2026-04-06, 17:38:30](https://news.ycombinator.com/item?id=47664205) - [Adobe modifies hosts file to detect whether Creative Cloud is installed](https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/)
 * [2026-04-06, 17:37:38](https://news.ycombinator.com/item?id=47664186) - [Battle for Wesnoth: open-source, turn-based strategy game](https://www.wesnoth.org)
 * [2026-04-06, 16:40:46](https://news.ycombinator.com/item?id=47663285) - [Why do Macs ask you to press random keys when connecting a new keyboard?](https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/)
@@ -34,6 +36,7 @@
 * [2026-04-06, 13:44:01](https://news.ycombinator.com/item?id=47660853) - [Book Review: There Is No Antimemetics Division](https://www.stephendiehl.com/posts/no_antimimetics/)
 * [2026-04-06, 12:59:33](https://news.ycombinator.com/item?id=47660343) - [PostHog (YC W20) Is Hiring](https://news.ycombinator.com/item?id=47660343)
 * [2026-04-06, 12:53:41](https://news.ycombinator.com/item?id=47660286) - [What Being Ripped Off Taught Me](https://belief.horse/notes/what-being-ripped-off-taught-me/)
+* [2026-04-06, 12:50:20](https://news.ycombinator.com/item?id=47660262) - [Show HN: I built a 2-min quiz that shows you how bad you are at estimating](https://www.convexly.app/)
 * [2026-04-06, 12:03:00](https://news.ycombinator.com/item?id=47659807) - [Ask HN: How do systems (or people) detect when a text is written by an LLM](https://news.ycombinator.com/item?id=47659807)
 * [2026-04-06, 11:39:03](https://news.ycombinator.com/item?id=47659609) - [Tiny Corp's Exabox](https://twitter.com/__tinygrad__/status/2040944508402360592)
 * [2026-04-06, 11:21:35](https://news.ycombinator.com/item?id=47659461) - [The Intelligence Failure in Iran](https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/)

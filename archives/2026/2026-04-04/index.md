@@ -51,6 +51,7 @@
 * [2026-04-04, 09:20:34](https://news.ycombinator.com/item?id=47637377) - [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love)
 * [2026-04-04, 09:15:47](https://news.ycombinator.com/item?id=47637353) - [SQLite in Production: Lessons from Running a Store on a Single File](https://ultrathink.art/blog/sqlite-in-production-lessons)
 * [2026-04-04, 09:04:19](https://news.ycombinator.com/item?id=47637287) - [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees)
+* [2026-04-04, 08:49:12](https://news.ycombinator.com/item?id=47637206) - [Show HN: Docking – extensible Linux dock in Python](https://docking.cc)
 * [2026-04-04, 08:31:20](https://news.ycombinator.com/item?id=47637116) - [Signals, the push-pull based algorithm](https://willybrauner.com/journal/signal-the-push-pull-based-algorithm)
 * [2026-04-04, 08:14:53](https://news.ycombinator.com/item?id=47637010) - [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing)
 * [2026-04-04, 08:01:59](https://news.ycombinator.com/item?id=47636937) - [Eighteen Years of Greytrapping – Is the Weirdness Finally Paying Off?](https://nxdomain.no/~peter/eighteen_years_of_greytrapping.html)
