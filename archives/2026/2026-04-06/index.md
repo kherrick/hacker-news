@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
+* [2026-04-06, 18:53:15](https://news.ycombinator.com/item?id=47665194) - [Zooming UIs in 2026: Prezi, impress.js, and why I built something different](https://news.ycombinator.com/item?id=47665194)
+* [2026-04-06, 18:31:03](https://news.ycombinator.com/item?id=47664912) - [The Cult of Vibe Coding Is Insane](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
+* [2026-04-06, 18:10:41](https://news.ycombinator.com/item?id=47664647) - [Got kicked out of uni and had the cops called for a social media website I made](https://monyatwu.com/blog/iitsocial/)
+* [2026-04-06, 17:52:46](https://news.ycombinator.com/item?id=47664389) - [Smart people recognize each other – science proves it](https://comuniq.xyz/post?t=920)
 * [2026-04-06, 17:38:30](https://news.ycombinator.com/item?id=47664205) - [Adobe modifies hosts file to detect whether Creative Cloud is installed](https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/)
 * [2026-04-06, 17:37:38](https://news.ycombinator.com/item?id=47664186) - [Battle for Wesnoth: open-source, turn-based strategy game](https://www.wesnoth.org)
 * [2026-04-06, 16:40:46](https://news.ycombinator.com/item?id=47663285) - [Why do Macs ask you to press random keys when connecting a new keyboard?](https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/)
