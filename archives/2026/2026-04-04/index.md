@@ -51,6 +51,7 @@
 * [2026-04-04, 09:15:47](https://news.ycombinator.com/item?id=47637353) - [SQLite in Production: Lessons from Running a Store on a Single File](https://ultrathink.art/blog/sqlite-in-production-lessons)
 * [2026-04-04, 09:04:19](https://news.ycombinator.com/item?id=47637287) - [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees)
 * [2026-04-04, 08:31:20](https://news.ycombinator.com/item?id=47637116) - [Signals, the push-pull based algorithm](https://willybrauner.com/journal/signal-the-push-pull-based-algorithm)
+* [2026-04-04, 08:14:53](https://news.ycombinator.com/item?id=47637010) - [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing)
 * [2026-04-04, 07:29:41](https://news.ycombinator.com/item?id=47636765) - [Endian wars and anti-portability: this again?](https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/)
 * [2026-04-04, 06:34:12](https://news.ycombinator.com/item?id=47636456) - [Sheets Spreadsheets in Your Terminal](https://github.com/maaslalani/sheets)
 * [2026-04-04, 06:30:25](https://news.ycombinator.com/item?id=47636435) - [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function)
