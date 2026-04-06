@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-04-06, 16:15:41",
+      "https://news.ycombinator.com/item?id=47662857"
+    ],
+    [
+      "81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone",
+      "https://twitter.com/Suzierizzo1/status/2040864617467924865"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 16:00:29",
+      "https://news.ycombinator.com/item?id=47662658"
+    ],
+    [
+      "sc-im Spreadsheets in Your Terminal",
+      "https://github.com/andmarti1424/sc-im"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 15:57:07",
+      "https://news.ycombinator.com/item?id=47662596"
+    ],
+    [
+      "AI Singer Now Occupies Eleven Spots on iTunes Singles Chart",
+      "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 15:46:56",
+      "https://news.ycombinator.com/item?id=47662442"
+    ],
+    [
+      "More Americans Are Breaking into the Upper Middle Class",
+      "https://www.wsj.com/economy/more-americans-are-breaking-into-the-upper-middle-class-bf8b7cb2"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 15:40:49",
+      "https://news.ycombinator.com/item?id=47662350"
+    ],
+    [
+      "Anthropic is burning more and more dev goodwill",
+      "https://twitter.com/GergelyOrosz/status/2041133254586122605"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 14:31:29",
       "https://news.ycombinator.com/item?id=47661439"
     ],
@@ -21,22 +71,22 @@
   ],
   [
     [
-      "2026-04-06, 14:01:09",
-      "https://news.ycombinator.com/item?id=47661065"
-    ],
-    [
-      "The Team Behind a Pro-Iran, Lego-Themed Viral-Video Campaign",
-      "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign"
-    ]
-  ],
-  [
-    [
       "2026-04-06, 13:52:37",
       "https://news.ycombinator.com/item?id=47660954"
     ],
     [
       "Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab",
       "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 13:50:35",
+      "https://news.ycombinator.com/item?id=47660925"
+    ],
+    [
+      "Claude Code is unusable for complex engineering tasks with the Feb updates",
+      "https://github.com/anthropics/claude-code/issues/42796"
     ]
   ],
   [
@@ -67,16 +117,6 @@
     [
       "What Being Ripped Off Taught Me",
       "https://belief.horse/notes/what-being-ripped-off-taught-me/"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 09:39:17",
-      "https://news.ycombinator.com/item?id=47658743"
-    ],
-    [
-      "Number in man page titles e.g. sleep(3)",
-      "https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/"
     ]
   ],
   [
@@ -131,26 +171,6 @@
   ],
   [
     [
-      "2026-04-06, 01:33:00",
-      "https://news.ycombinator.com/item?id=47655905"
-    ],
-    [
-      "Usenet Archives",
-      "https://usenetarchives.com"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 00:29:08",
-      "https://news.ycombinator.com/item?id=47655466"
-    ],
-    [
-      "Employers use your personal data to figure out the lowest salary you'll accept",
-      "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb"
-    ]
-  ],
-  [
-    [
       "2026-04-06, 00:20:12",
       "https://news.ycombinator.com/item?id=47655408"
     ],
@@ -177,16 +197,6 @@
     [
       "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
       "https://github.com/kessler/gemma-gem"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 23:59:10",
-      "https://news.ycombinator.com/item?id=47655268"
-    ],
-    [
-      "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
-      "https://github.com/mohshomis/modo"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
       "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 15:18:01",
-      "https://news.ycombinator.com/item?id=47650312"
-    ],
-    [
-      "A tail-call interpreter in (nightly) Rust",
-      "https://www.mattkeeter.com/blog/2026-04-05-tailcall/"
     ]
   ],
   [
