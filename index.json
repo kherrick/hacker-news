@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-06, 19:50:16",
+      "https://news.ycombinator.com/item?id=47666024"
+    ],
+    [
+      "Show HN: Ghost Pepper – 100% local hold-to-talk speech-to-text for macOS",
+      "https://github.com/matthartman/ghost-pepper"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 19:41:39",
+      "https://news.ycombinator.com/item?id=47665902"
+    ],
+    [
+      "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
+      "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 18:56:57",
+      "https://news.ycombinator.com/item?id=47665245"
+    ],
+    [
+      "Agent Reading Test",
+      "https://agentreadingtest.com"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 18:53:15",
       "https://news.ycombinator.com/item?id=47665194"
     ],
@@ -11,22 +41,22 @@
   ],
   [
     [
-      "2026-04-06, 18:31:03",
-      "https://news.ycombinator.com/item?id=47664912"
+      "2026-04-06, 18:31:39",
+      "https://news.ycombinator.com/item?id=47664921"
     ],
     [
-      "The Cult of Vibe Coding Is Insane",
-      "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane"
+      "Londoners are sick of viral videos telling lies about their city",
+      "https://www.londoncentric.media/p/london-crime-viral-videos-crime"
     ]
   ],
   [
     [
-      "2026-04-06, 18:10:41",
-      "https://news.ycombinator.com/item?id=47664647"
+      "2026-04-06, 18:31:03",
+      "https://news.ycombinator.com/item?id=47664912"
     ],
     [
-      "Got kicked out of uni and had the cops called for a social media website I made",
-      "https://monyatwu.com/blog/iitsocial/"
+      "The cult of vibe coding is insane",
+      "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Reducto releases Deep Extract",
       "https://reducto.ai/blog/reducto-deep-extract-agent"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 16:00:29",
-      "https://news.ycombinator.com/item?id=47662658"
-    ],
-    [
-      "Sc-im: Spreadsheets in your terminal",
-      "https://github.com/andmarti1424/sc-im"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2026-04-05, 17:53:19",
-      "https://news.ycombinator.com/item?id=47652007"
-    ],
-    [
-      "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-      "https://github.com/fikrikarim/parlor"
-    ]
-  ],
-  [
-    [
       "2026-04-05, 17:27:41",
       "https://news.ycombinator.com/item?id=47651703"
     ],
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2026-04-04, 09:20:34",
-      "https://news.ycombinator.com/item?id=47637377"
+      "2026-04-04, 11:40:20",
+      "https://news.ycombinator.com/item?id=47638148"
     ],
     [
-      "LÖVE: 2D Game Framework for Lua",
-      "https://github.com/love2d/love"
-    ]
-  ],
-  [
-    [
-      "2026-04-04, 08:31:20",
-      "https://news.ycombinator.com/item?id=47637116"
-    ],
-    [
-      "Signals, the push-pull based algorithm",
-      "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm"
+      "Show HN: I successfully failed at one-shot-ing a video codec like h.264",
+      "https://github.com/DheerG/libsinter"
     ]
   ],
   [
