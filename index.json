@@ -1,12 +1,72 @@
 [
   [
     [
-      "2026-04-06, 00:50:32",
-      "https://news.ycombinator.com/item?id=47655618"
+      "2026-04-06, 03:32:23",
+      "https://news.ycombinator.com/item?id=47656682"
     ],
     [
-      "Apex Protocol – An open MCP-based standard for AI agent trading",
-      "https://apexstandard.org/"
+      "Winners of the 2026 Kokuyo Design Awards",
+      "https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 03:28:04",
+      "https://news.ycombinator.com/item?id=47656659"
+    ],
+    [
+      "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+      "https://github.com/mikf/gallery-dl/discussions/9304"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 03:22:42",
+      "https://news.ycombinator.com/item?id=47656622"
+    ],
+    [
+      "An open-source 240-antenna array to bounce signals off the Moon",
+      "https://moonrf.com/"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 03:03:22",
+      "https://news.ycombinator.com/item?id=47656501"
+    ],
+    [
+      "The 1987 game \"The Last Ninja\" was 40 kilobytes",
+      "https://twitter.com/exQUIZitely/status/2040777977521398151"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 02:28:40",
+      "https://news.ycombinator.com/item?id=47656303"
+    ],
+    [
+      "Case study: recovery of a corrupted 12 TB multi-device pool",
+      "https://github.com/kdave/btrfs-progs/issues/1107"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 01:57:59",
+      "https://news.ycombinator.com/item?id=47656114"
+    ],
+    [
+      "We replaced Node.js with Bun for 5x throughput",
+      "https://trigger.dev/blog/firebun"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 01:42:27",
+      "https://news.ycombinator.com/item?id=47655978"
+    ],
+    [
+      "Stamp It All Programs Must Report Their Version – Michael Stapelberg",
+      "https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/"
     ]
   ],
   [
@@ -51,16 +111,6 @@
   ],
   [
     [
-      "2026-04-06, 00:09:14",
-      "https://news.ycombinator.com/item?id=47655335"
-    ],
-    [
-      "Recall – local multimodal semantic search for your files",
-      "https://github.com/aayu22809/Recall"
-    ]
-  ],
-  [
-    [
       "2026-04-06, 00:07:54",
       "https://news.ycombinator.com/item?id=47655329"
     ],
@@ -77,26 +127,6 @@
     [
       "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
       "https://github.com/mohshomis/modo"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 23:35:59",
-      "https://news.ycombinator.com/item?id=47655078"
-    ],
-    [
-      "Show HN: Mdarena – Benchmark your Claude.md against your own PRs",
-      "https://github.com/HudsonGri/mdarena"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 23:33:01",
-      "https://news.ycombinator.com/item?id=47655058"
-    ],
-    [
-      "OpenAI's fall from grace as investors race to Anthropic",
-      "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic"
     ]
   ],
   [
@@ -127,16 +157,6 @@
     [
       "Gemma 4 on iPhone",
       "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 18:33:38",
-      "https://news.ycombinator.com/item?id=47652442"
-    ],
-    [
-      "OpenJDK: Panama",
-      "https://openjdk.org/projects/panama/"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2026-04-05, 14:21:17",
-      "https://news.ycombinator.com/item?id=47649742"
-    ],
-    [
-      "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
-      "https://github.com/salmanmohammadi/nanocode/discussions/1"
-    ]
-  ],
-  [
-    [
       "2026-04-05, 14:18:12",
       "https://news.ycombinator.com/item?id=47649721"
     ],
     [
       "Artemis II crew see first glimpse of far side of Moon [video]",
       "https://www.bbc.com/news/videos/ce3d5gkd2geo"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 13:14:36",
-      "https://news.ycombinator.com/item?id=47649113"
-    ],
-    [
-      "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
-      "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2026-04-05, 10:41:06",
-      "https://news.ycombinator.com/item?id=47648048"
-    ],
-    [
-      "Friendica – A Decentralized Social Network",
-      "https://friendi.ca/"
-    ]
-  ],
-  [
-    [
       "2026-04-05, 08:56:18",
       "https://news.ycombinator.com/item?id=47647455"
     ],
     [
       "Caveman: Why use many token when few token do trick",
       "https://github.com/JuliusBrussee/caveman"
+    ]
+  ],
+  [
+    [
+      "2026-04-04, 11:18:44",
+      "https://news.ycombinator.com/item?id=47638043"
+    ],
+    [
+      "Rendering arbitrary-scale emojis using the Slug algorithm",
+      "https://leduyquang753.name.vn/blog/2026/4/4/rendering-arbitrary-scale-emojis-using-the-slug-algorithm"
     ]
   ],
   [
