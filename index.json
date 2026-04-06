@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-06, 06:49:42",
+      "https://news.ycombinator.com/item?id=47657699"
+    ],
+    [
+      "SideX – A Tauri-based port of Visual Studio Code",
+      "https://github.com/Sidenai/sidex"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 03:32:23",
       "https://news.ycombinator.com/item?id=47656682"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=47656501"
     ],
     [
-      "The 1987 game \"The Last Ninja\" was 40 kilobytes",
+      "The 1987 game “The Last Ninja” was 40 kilobytes",
       "https://twitter.com/exQUIZitely/status/2040777977521398151"
     ]
   ],
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2026-04-06, 01:42:27",
-      "https://news.ycombinator.com/item?id=47655978"
+      "2026-04-06, 01:33:00",
+      "https://news.ycombinator.com/item?id=47655905"
     ],
     [
-      "Stamp It All Programs Must Report Their Version – Michael Stapelberg",
-      "https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/"
+      "Usenet Archives",
+      "https://usenetarchives.com"
     ]
   ],
   [
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=47655392"
     ],
     [
-      "Show HN: YouTube search barely works, I made a search form with advanced filters",
+      "Show HN: I made a YouTube search form with advanced filters",
       "https://playlists.at/youtube/search/"
     ]
   ],
@@ -107,16 +117,6 @@
     [
       "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
       "https://github.com/kessler/gemma-gem"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 00:07:54",
-      "https://news.ycombinator.com/item?id=47655329"
-    ],
-    [
-      "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
-      "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2026-04-05, 17:53:19",
+      "https://news.ycombinator.com/item?id=47652007"
+    ],
+    [
+      "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+      "https://github.com/fikrikarim/parlor"
+    ]
+  ],
+  [
+    [
       "2026-04-05, 17:27:41",
       "https://news.ycombinator.com/item?id=47651703"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-04-05, 08:56:18",
-      "https://news.ycombinator.com/item?id=47647455"
-    ],
-    [
-      "Caveman: Why use many token when few token do trick",
-      "https://github.com/JuliusBrussee/caveman"
-    ]
-  ],
-  [
-    [
       "2026-04-04, 11:18:44",
       "https://news.ycombinator.com/item?id=47638043"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-04-04, 07:29:41",
-      "https://news.ycombinator.com/item?id=47636765"
+      "2026-04-04, 08:31:20",
+      "https://news.ycombinator.com/item?id=47637116"
     ],
     [
-      "Endian wars and anti-portability: this again?",
-      "https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/"
+      "Signals, the push-pull based algorithm",
+      "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-03-31, 22:32:40",
-      "https://news.ycombinator.com/item?id=47594345"
+      "2026-04-02, 12:55:56",
+      "https://news.ycombinator.com/item?id=47613827"
     ],
     [
-      "Wavelets on Graphs via Spectral Graph Theory (2009)",
-      "https://arxiv.org/abs/0912.3848"
+      "One ant for $220: The new frontier of wildlife trafficking",
+      "https://www.bbc.com/news/articles/cg4g44zv37qo"
     ]
   ]
 ]
