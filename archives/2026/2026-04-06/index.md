@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
+* [2026-04-06, 12:59:33](https://news.ycombinator.com/item?id=47660343) - [PostHog (YC W20) Is Hiring](https://news.ycombinator.com/item?id=47660343)
+* [2026-04-06, 12:53:41](https://news.ycombinator.com/item?id=47660286) - [What Being Ripped Off Taught Me](https://belief.horse/notes/what-being-ripped-off-taught-me/)
 * [2026-04-06, 12:03:00](https://news.ycombinator.com/item?id=47659807) - [Ask HN: How do systems (or people) detect when a text is written by an LLM](https://news.ycombinator.com/item?id=47659807)
 * [2026-04-06, 11:39:03](https://news.ycombinator.com/item?id=47659609) - [Tiny Corp's Exabox](https://twitter.com/__tinygrad__/status/2040944508402360592)
 * [2026-04-06, 11:21:35](https://news.ycombinator.com/item?id=47659461) - [The Intelligence Failure in Iran](https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/)
