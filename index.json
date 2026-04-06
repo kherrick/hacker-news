@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-06, 09:39:17",
+      "https://news.ycombinator.com/item?id=47658743"
+    ],
+    [
+      "Number in man page titles e.g. sleep(3)",
+      "https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 08:03:43",
       "https://news.ycombinator.com/item?id=47658146"
     ],
@@ -217,16 +227,6 @@
     [
       "A tail-call interpreter in (nightly) Rust",
       "https://www.mattkeeter.com/blog/2026-04-05-tailcall/"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 14:21:17",
-      "https://news.ycombinator.com/item?id=47649742"
-    ],
-    [
-      "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
-      "https://github.com/salmanmohammadi/nanocode/discussions/1"
     ]
   ],
   [
