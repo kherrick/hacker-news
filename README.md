@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-06, 10:54:11](https://news.ycombinator.com/item?id=47659252) - [Is Germany's gold safe in New York ?](https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873)
+* [2026-04-06, 10:33:02](https://news.ycombinator.com/item?id=47659109) - [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/)
 * [2026-04-06, 09:39:17](https://news.ycombinator.com/item?id=47658743) - [Number in man page titles e.g. sleep(3)](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
 * [2026-04-06, 08:03:43](https://news.ycombinator.com/item?id=47658146) - [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/)
 * [2026-04-06, 04:24:49](https://news.ycombinator.com/item?id=47656981) - [Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair](https://drop.com/)
-* [2026-04-06, 03:45:07](https://news.ycombinator.com/item?id=47656758) - [Make your own ColecoVision at home, part 5](https://www.leadedsolder.com/2026/03/24/colecovision-diy-part-5.html)
-* [2026-04-06, 03:28:04](https://news.ycombinator.com/item?id=47656659) - [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304)
 * [2026-04-06, 03:22:42](https://news.ycombinator.com/item?id=47656622) - [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
 * [2026-04-06, 03:03:22](https://news.ycombinator.com/item?id=47656501) - [The 1987 game “The Last Ninja” was 40 kilobytes](https://twitter.com/exQUIZitely/status/2040777977521398151)
 * [2026-04-06, 02:33:21](https://news.ycombinator.com/item?id=47656335) - [Does coding with LLMs mean more microservices?](https://ben.page/microservices)
