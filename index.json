@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-04-06, 21:00:00",
+      "https://news.ycombinator.com/item?id=47667011"
+    ],
+    [
+      "HackerRank (YC S11) Is Hiring",
+      "https://news.ycombinator.com/item?id=47667011"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 20:41:41",
+      "https://news.ycombinator.com/item?id=47666767"
+    ],
+    [
+      "Root Persistence via macOS Recovery Mode Safari",
+      "https://yaseenghanem.com/recovery-unrestricted-write-access/"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 20:20:54",
       "https://news.ycombinator.com/item?id=47666488"
     ],
     [
-      "A macOS kernel bug can cause OpenClaw to stop working after 49.7 days",
+      "A macOS bug that causes TCP networking to stop working after 49.7 days",
       "https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking"
     ]
   ],
@@ -21,12 +41,32 @@
   ],
   [
     [
+      "2026-04-06, 19:41:39",
+      "https://news.ycombinator.com/item?id=47665902"
+    ],
+    [
+      "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
+      "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 18:56:57",
       "https://news.ycombinator.com/item?id=47665245"
     ],
     [
       "Agent Reading Test",
       "https://agentreadingtest.com"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 18:54:09",
+      "https://news.ycombinator.com/item?id=47665207"
+    ],
+    [
+      "SOM: A minimal Smalltalk for teaching of and research on Virtual Machines",
+      "http://som-st.github.io/"
     ]
   ],
   [
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=47664912"
     ],
     [
-      "The cult of vibe coding is insane",
+      "The cult of vibe coding is dogfooding run amok",
       "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane"
     ]
   ],
@@ -85,8 +125,8 @@
       "https://news.ycombinator.com/item?id=47663147"
     ],
     [
-      "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
-      "https://www.freestyle.sh"
+      "Launch HN: Freestyle – Sandboxes for Coding Agents",
+      "https://www.freestyle.sh/"
     ]
   ],
   [
@@ -97,16 +137,6 @@
     [
       "Show HN: GovAuctions lets you browse government auctions at once",
       "https://www.govauctions.app/"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 16:15:41",
-      "https://news.ycombinator.com/item?id=47662857"
-    ],
-    [
-      "81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone",
-      "https://twitter.com/Suzierizzo1/status/2040864617467924865"
     ]
   ],
   [
@@ -151,6 +181,16 @@
   ],
   [
     [
+      "2026-04-06, 14:01:09",
+      "https://news.ycombinator.com/item?id=47661065"
+    ],
+    [
+      "The team behind a pro-Iran, Lego-themed viral-video campaign",
+      "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 13:52:37",
       "https://news.ycombinator.com/item?id=47660954"
     ],
@@ -165,7 +205,7 @@
       "https://news.ycombinator.com/item?id=47660925"
     ],
     [
-      "Claude Code is unusable for complex engineering tasks with the Feb updates",
+      "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
       "https://github.com/anthropics/claude-code/issues/42796"
     ]
   ],
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2026-04-06, 12:59:33",
-      "https://news.ycombinator.com/item?id=47660343"
-    ],
-    [
-      "PostHog (YC W20) Is Hiring",
-      "https://news.ycombinator.com/item?id=47660343"
-    ]
-  ],
-  [
-    [
       "2026-04-06, 12:53:41",
       "https://news.ycombinator.com/item?id=47660286"
     ],
@@ -201,12 +231,12 @@
   ],
   [
     [
-      "2026-04-06, 12:50:20",
-      "https://news.ycombinator.com/item?id=47660262"
+      "2026-04-06, 10:36:57",
+      "https://news.ycombinator.com/item?id=47659135"
     ],
     [
-      "Show HN: I built a 2-min quiz that shows you how bad you are at estimating",
-      "https://www.convexly.app/"
+      "Sam Altman may control our future – can he be trusted?",
+      "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted"
     ]
   ],
   [
@@ -215,7 +245,7 @@
       "https://news.ycombinator.com/item?id=47658146"
     ],
     [
-      "France pulls last gold held in US for $15B gain",
+      "France pulls last gold held in US",
       "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/"
     ]
   ],
@@ -237,36 +267,6 @@
     [
       "Show HN: I built a tiny LLM to demystify how language models work",
       "https://github.com/arman-bd/guppylm"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 18:45:53",
-      "https://news.ycombinator.com/item?id=47652561"
-    ],
-    [
-      "Gemma 4 on iPhone",
-      "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 17:53:19",
-      "https://news.ycombinator.com/item?id=47652007"
-    ],
-    [
-      "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-      "https://github.com/fikrikarim/parlor"
-    ]
-  ],
-  [
-    [
-      "2026-04-04, 09:20:34",
-      "https://news.ycombinator.com/item?id=47637377"
-    ],
-    [
-      "LÖVE: 2D Game Framework for Lua",
-      "https://github.com/love2d/love"
     ]
   ],
   [
