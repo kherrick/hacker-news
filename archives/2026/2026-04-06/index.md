@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
+* [2026-04-06, 14:16:35](https://news.ycombinator.com/item?id=47661231) - [When Virality Is the Message: The New Age of AI Propaganda](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
+* [2026-04-06, 13:52:37](https://news.ycombinator.com/item?id=47660954) - [Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 * [2026-04-06, 12:59:33](https://news.ycombinator.com/item?id=47660343) - [PostHog (YC W20) Is Hiring](https://news.ycombinator.com/item?id=47660343)
 * [2026-04-06, 12:53:41](https://news.ycombinator.com/item?id=47660286) - [What Being Ripped Off Taught Me](https://belief.horse/notes/what-being-ripped-off-taught-me/)
 * [2026-04-06, 12:03:00](https://news.ycombinator.com/item?id=47659807) - [Ask HN: How do systems (or people) detect when a text is written by an LLM](https://news.ycombinator.com/item?id=47659807)
