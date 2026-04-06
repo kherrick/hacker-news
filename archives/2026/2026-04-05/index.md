@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 23:59:10](https://news.ycombinator.com/item?id=47655268) - [Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf](https://github.com/mohshomis/modo)
+* [2026-04-05, 23:35:59](https://news.ycombinator.com/item?id=47655078) - [Show HN: Mdarena – Benchmark your Claude.md against your own PRs](https://github.com/HudsonGri/mdarena)
+* [2026-04-05, 23:33:01](https://news.ycombinator.com/item?id=47655058) - [OpenAI's fall from grace as investors race to Anthropic](https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic)
 * [2026-04-05, 23:04:29](https://news.ycombinator.com/item?id=47654842) - [Italian TV Copyright-Strikes Nvidia over Nvidia's Own DLSS 5 Footage](https://twitter.com/NikTek/status/2040898312262324362)
 * [2026-04-05, 22:35:20](https://news.ycombinator.com/item?id=47654649) - [Introducing GEN-1 [video]](https://www.youtube.com/watch?v=SY2xyrmV44Y)
 * [2026-04-05, 22:31:16](https://news.ycombinator.com/item?id=47654620) - [In Japan, the robot isn't coming for your job; it's filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
