@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
+* [2026-04-06, 21:49:34](https://news.ycombinator.com/item?id=47667672) - [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)
 * [2026-04-06, 21:33:22](https://news.ycombinator.com/item?id=47667459) - [NYC Families Need over $125,000 in Income to Live in Any Borough](https://www.bloomberg.com/news/articles/2026-04-06/nyc-families-need-over-125-000-in-income-to-live-in-any-borough)
 * [2026-04-06, 21:22:03](https://news.ycombinator.com/item?id=47667321) - [Derek Lowe on \"Peptides\"](https://www.science.org/content/blog-post/ah-peptides-where-begin)
 * [2026-04-06, 21:00:00](https://news.ycombinator.com/item?id=47667011) - [HackerRank (YC S11) Is Hiring](https://news.ycombinator.com/item?id=47667011)
@@ -11,6 +12,7 @@
 * [2026-04-06, 20:20:54](https://news.ycombinator.com/item?id=47666488) - [A macOS kernel bug can cause OpenClaw to stop working after 49.7 days](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking)
 * [2026-04-06, 19:50:16](https://news.ycombinator.com/item?id=47666024) - [Show HN: Ghost Pepper – 100% local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
 * [2026-04-06, 19:41:39](https://news.ycombinator.com/item?id=47665902) - [Wikipedia's AI agent row likely just the beginning of the bot-ocalypse](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
+* [2026-04-06, 19:25:39](https://news.ycombinator.com/item?id=47665685) - [Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting](https://github.com/4RH1T3CT0R7/ttf-doom)
 * [2026-04-06, 18:56:57](https://news.ycombinator.com/item?id=47665245) - [Agent Reading Test](https://agentreadingtest.com)
 * [2026-04-06, 18:54:09](https://news.ycombinator.com/item?id=47665207) - [SOM: A minimal Smalltalk for teaching of and research on Virtual Machines](http://som-st.github.io/)
 * [2026-04-06, 18:53:15](https://news.ycombinator.com/item?id=47665194) - [Zooming UIs in 2026: Prezi, impress.js, and why I built something different](https://news.ycombinator.com/item?id=47665194)

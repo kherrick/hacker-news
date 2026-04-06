@@ -57,6 +57,7 @@
 * [2026-04-04, 08:14:53](https://news.ycombinator.com/item?id=47637010) - [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing)
 * [2026-04-04, 08:01:59](https://news.ycombinator.com/item?id=47636937) - [Eighteen Years of Greytrapping – Is the Weirdness Finally Paying Off?](https://nxdomain.no/~peter/eighteen_years_of_greytrapping.html)
 * [2026-04-04, 07:29:41](https://news.ycombinator.com/item?id=47636765) - [Endian wars and anti-portability: this again?](https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/)
+* [2026-04-04, 06:58:03](https://news.ycombinator.com/item?id=47636579) - [Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V](https://github.com/roscopeco/anos)
 * [2026-04-04, 06:34:12](https://news.ycombinator.com/item?id=47636456) - [Sheets Spreadsheets in Your Terminal](https://github.com/maaslalani/sheets)
 * [2026-04-04, 06:30:25](https://news.ycombinator.com/item?id=47636435) - [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function)
 * [2026-04-04, 05:47:18](https://news.ycombinator.com/item?id=47636203) - [Scientists are working on \"everything vaccines\"](https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines)
