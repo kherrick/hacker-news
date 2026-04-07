@@ -21,6 +21,7 @@
 * [2026-04-06, 18:53:15](https://news.ycombinator.com/item?id=47665194) - [Zooming UIs in 2026: Prezi, impress.js, and why I built something different](https://news.ycombinator.com/item?id=47665194)
 * [2026-04-06, 18:31:39](https://news.ycombinator.com/item?id=47664921) - [Londoners are sick of viral videos telling lies about their city](https://www.londoncentric.media/p/london-crime-viral-videos-crime)
 * [2026-04-06, 18:31:03](https://news.ycombinator.com/item?id=47664912) - [The Cult of Vibe Coding Is Insane](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
+* [2026-04-06, 18:24:32](https://news.ycombinator.com/item?id=47664836) - [AI helps add 10k more photos to OldNYC](https://www.danvk.org/2026/03/08/oldnyc-updates.html)
 * [2026-04-06, 18:10:41](https://news.ycombinator.com/item?id=47664647) - [Got kicked out of uni and had the cops called for a social media website I made](https://monyatwu.com/blog/iitsocial/)
 * [2026-04-06, 17:52:46](https://news.ycombinator.com/item?id=47664389) - [Smart people recognize each other – science proves it](https://comuniq.xyz/post?t=920)
 * [2026-04-06, 17:52:46](https://news.ycombinator.com/item?id=47664389) - [Intelligent people are better judges of the intelligence of others](https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/)

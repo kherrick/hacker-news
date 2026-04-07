@@ -53,6 +53,7 @@
 * [2026-04-04, 10:39:32](https://news.ycombinator.com/item?id=47637828) - [Show HN: Tusk for macOS and Gnome](https://shapemachine.xyz/tusk/)
 * [2026-04-04, 10:26:21](https://news.ycombinator.com/item?id=47637757) - [Apple: Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193)
 * [2026-04-04, 10:00:04](https://news.ycombinator.com/item?id=47637622) - [A brief history of instant coffee](https://worksinprogress.co/issue/a-brief-history-of-instant-coffee/)
+* [2026-04-04, 09:52:55](https://news.ycombinator.com/item?id=47637580) - [Emotion Concepts and Their Function in a Large Language Model](https://transformer-circuits.pub/2026/emotions/index.html)
 * [2026-04-04, 09:20:34](https://news.ycombinator.com/item?id=47637377) - [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love)
 * [2026-04-04, 09:15:47](https://news.ycombinator.com/item?id=47637353) - [SQLite in Production: Lessons from Running a Store on a Single File](https://ultrathink.art/blog/sqlite-in-production-lessons)
 * [2026-04-04, 09:04:19](https://news.ycombinator.com/item?id=47637287) - [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees)

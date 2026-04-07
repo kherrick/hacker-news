@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 17:05:25](https://news.ycombinator.com/item?id=47678320) - [Kindle to end store downloads and registering for 1st-5th gen kindles in May](https://www.reddit.com/r/kindle/s/xg8uCdAWU3)
+* [2026-04-07, 16:33:57](https://news.ycombinator.com/item?id=47677885) - [Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP](https://printervention.app/details)
+* [2026-04-07, 16:32:15](https://news.ycombinator.com/item?id=47677853) - [GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5.1)
 * [2026-04-07, 15:54:16](https://news.ycombinator.com/item?id=47677241) - [Good Taste the Only Real Moat Left](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
 * [2026-04-07, 15:47:16](https://news.ycombinator.com/item?id=47677142) - [12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected (2017)](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
 * [2026-04-07, 15:07:38](https://news.ycombinator.com/item?id=47676557) - [Moving fast in hardware: lessons from lab to $100M ARR](https://blog.zacka.io/p/simplify-then-add-lightness-bc4)
@@ -34,6 +37,7 @@
 * [2026-04-07, 08:42:05](https://news.ycombinator.com/item?id=47672318) - [Blackholing My Email](https://www.johnsto.co.uk/blog/blackholing-my-email/)
 * [2026-04-07, 08:38:17](https://news.ycombinator.com/item?id=47672295) - [Every GPU That Mattered](https://sheets.works/data-viz/every-gpu)
 * [2026-04-07, 06:45:08](https://news.ycombinator.com/item?id=47671527) - [Some iPhone Apps Receive Mysterious Update 'From Apple'](https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/)
+* [2026-04-07, 05:58:01](https://news.ycombinator.com/item?id=47671219) - [John Coltrane Illustrates the Mathematics of Jazz](https://www.americanjazzmusicsociety.com/blog/john-coltrane-draws)
 * [2026-04-07, 05:12:25](https://news.ycombinator.com/item?id=47670981) - [Three hundred synths, 3 hardware projects, and one app](https://midi.guide/blog/three-hunded-synths-one-app/)
 * [2026-04-07, 04:58:29](https://news.ycombinator.com/item?id=47670929) - [People Love to Work Hard](https://www.anildash.com/2026/04/06/people-love-to-work-hard/)
 * [2026-04-07, 01:42:40](https://news.ycombinator.com/item?id=47669749) - [Dear Heroku: Uhh What's Going On?](https://judoscale.com/blog/heroku-whats-going-on)
