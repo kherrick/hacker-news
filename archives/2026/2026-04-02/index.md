@@ -7,6 +7,7 @@
 * [2026-04-02, 23:26:01](https://news.ycombinator.com/item?id=47621518) - [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
 * [2026-04-02, 23:17:26](https://news.ycombinator.com/item?id=47621448) - [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
 * [2026-04-02, 23:16:05](https://news.ycombinator.com/item?id=47621438) - [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
+* [2026-04-02, 22:40:29](https://news.ycombinator.com/item?id=47621133) - [Design for the Roller Coaster](https://pointc.co/design-for-the-roller-coaster/)
 * [2026-04-02, 22:32:29](https://news.ycombinator.com/item?id=47621048) - [Why Doesn't Anybody Realize We're Going Back to the Moon?](https://www.theatlantic.com/science/2026/04/artemis-moon-launch-trump/686661/)
 * [2026-04-02, 22:29:25](https://news.ycombinator.com/item?id=47621023) - [The IDE Is Dead. Long Live the ADE](https://lanes.sh/blog/the-ide-is-dead)
 * [2026-04-02, 22:21:24](https://news.ycombinator.com/item?id=47620933) - [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-07, 22:05:54](https://news.ycombinator.com/item?id=47681954) - [Is your app idea worth building?](https://www.build-check.com/)
 * [2026-04-07, 21:41:06](https://news.ycombinator.com/item?id=47681701) - [RSoC 2026: A new CPU scheduler for Redox OS](https://www.redox-os.org/news/rsoc-dwrr/)
+* [2026-04-07, 21:27:03](https://news.ycombinator.com/item?id=47681566) - [USD Purchasing Power in Real Time Since 2000](https://onedollar.today/)
 * [2026-04-07, 21:04:53](https://news.ycombinator.com/item?id=47681361) - [Move Detroit](https://www.movedetroit.com/program)
-* [2026-04-07, 20:56:23](https://news.ycombinator.com/item?id=47681274) - [Bitcoin and Quantum Computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+* [2026-04-07, 20:56:23](https://news.ycombinator.com/item?id=47681274) - [Bitcoin and quantum computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 * [2026-04-07, 20:42:37](https://news.ycombinator.com/item?id=47681112) - [Show HN: An interactive map of Tolkien's Middle-earth](https://middle-earth-interactive-map.web.app/)
 * [2026-04-07, 19:54:06](https://news.ycombinator.com/item?id=47680532) - [Cells for NetBSD: kernel-enforced, jail-like isolation](https://netbsd-cells.petermann-digital.de/)
 * [2026-04-07, 19:44:01](https://news.ycombinator.com/item?id=47680404) - [S3 Files](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
@@ -29,7 +29,7 @@
 * [2026-04-05, 22:32:12](https://news.ycombinator.com/item?id=47654626) - [A whole boss fight in 256 bytes](https://hellmood.111mb.de//A_whole_boss_fight_in_256_bytes.html)
 * [2026-04-05, 16:14:12](https://news.ycombinator.com/item?id=47650887) - [How to get better at guitar](https://www.jakeworth.com/posts/how-to-get-better-at-guitar/)
 * [2026-04-03, 14:42:28](https://news.ycombinator.com/item?id=47627217) - [Running out of disk space in production](https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html)
-* [2026-04-02, 14:31:19](https://news.ycombinator.com/item?id=47615041) - [Developer relations after the cheat code machine](https://sunilpai.dev/posts/developer-relations/)
+* [2026-04-02, 22:40:29](https://news.ycombinator.com/item?id=47621133) - [Design for the Roller Coaster](https://pointc.co/design-for-the-roller-coaster/)
 
 ## [Archives](archives/index.md)
 
