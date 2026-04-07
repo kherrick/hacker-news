@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 11:07:44](https://news.ycombinator.com/item?id=47673360) - [Show HN: Brutalist Concrete Laptop Stand](https://sam-burns.com/posts/concrete-laptop-stand/)
+* [2026-04-07, 10:33:51](https://news.ycombinator.com/item?id=47673072) - [Germany Power Prices Turn Deeply Negative on Renewables Surge](https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge)
+* [2026-04-07, 10:25:12](https://news.ycombinator.com/item?id=47673005) - [We found an undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/)
+* [2026-04-07, 10:08:25](https://news.ycombinator.com/item?id=47672884) - [Identify a London Underground Line just by listening to it](https://tubesoundquiz.com/)
 * [2026-04-07, 09:57:39](https://news.ycombinator.com/item?id=47672818) - [Are We Idiocracy Yet?](https://idiocracy.wtf/)
 * [2026-04-07, 09:51:28](https://news.ycombinator.com/item?id=47672778) - [Breaking the console: a brief history of video game security](https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/)
 * [2026-04-07, 08:42:05](https://news.ycombinator.com/item?id=47672318) - [Blackholing My Email](https://www.johnsto.co.uk/blog/blackholing-my-email/)
