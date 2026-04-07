@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-07, 15:54:16",
+      "https://news.ycombinator.com/item?id=47677241"
+    ],
+    [
+      "Good Taste the Only Real Moat Left",
+      "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 15:47:16",
+      "https://news.ycombinator.com/item?id=47677142"
+    ],
+    [
+      "12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected (2017)",
+      "https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined"
+    ]
+  ],
+  [
+    [
       "2026-04-07, 15:07:38",
       "https://news.ycombinator.com/item?id=47676557"
     ],
@@ -17,6 +37,16 @@
     [
       "Claude Code is locking people out for hours",
       "https://github.com/anthropics/claude-code/issues/44257"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 14:33:48",
+      "https://news.ycombinator.com/item?id=47676044"
+    ],
+    [
+      "Show HN: Finalrun – Spec-driven testing using English and vision for mobile apps",
+      "https://github.com/final-run/finalrun-agent"
     ]
   ],
   [
@@ -41,6 +71,16 @@
   ],
   [
     [
+      "2026-04-07, 13:39:15",
+      "https://news.ycombinator.com/item?id=47675213"
+    ],
+    [
+      "Google open-sources experimental agent orchestration testbed Scion",
+      "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/"
+    ]
+  ],
+  [
+    [
       "2026-04-07, 13:34:33",
       "https://news.ycombinator.com/item?id=47675155"
     ],
@@ -61,12 +101,12 @@
   ],
   [
     [
-      "2026-04-07, 12:27:59",
-      "https://news.ycombinator.com/item?id=47674234"
+      "2026-04-07, 13:19:10",
+      "https://news.ycombinator.com/item?id=47674950"
     ],
     [
-      "\"The new Copilot app for Windows 11 is really just Microsoft Edge\"",
-      "https://twitter.com/TheBobPony/status/2041112541909205001"
+      "An AI robot in my home",
+      "https://allevato.me/2026/04/07/an-ai-robot-in-my-home"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "Show HN: A cartographer's attempt to realistically map Tolkien's world",
       "https://www.intofarlands.com/atlasofarda"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 12:05:23",
-      "https://news.ycombinator.com/item?id=47673928"
-    ],
-    [
-      "Record wind and solar saved UK from gas imports worth £1B in March 2026",
-      "https://www.carbonbrief.org/analysis-record-wind-and-solar-saved-uk-from-gas-imports-worth-1bn-in-march-2026/"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2026-04-07, 05:12:25",
-      "https://news.ycombinator.com/item?id=47670981"
-    ],
-    [
-      "Three hundred synths, 3 hardware projects, and one app",
-      "https://midi.guide/blog/three-hunded-synths-one-app/"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 19:50:16",
-      "https://news.ycombinator.com/item?id=47666024"
-    ],
-    [
-      "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
-      "https://github.com/matthartman/ghost-pepper"
-    ]
-  ],
-  [
-    [
       "2026-04-06, 10:36:57",
       "https://news.ycombinator.com/item?id=47659135"
     ],
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2026-04-04, 17:53:40",
-      "https://news.ycombinator.com/item?id=47641472"
-    ],
-    [
-      "Floating point from scratch: Hard Mode",
-      "https://essenceia.github.io/projects/floating_dragon/"
-    ]
-  ],
-  [
-    [
       "2026-04-04, 09:15:47",
       "https://news.ycombinator.com/item?id=47637353"
     ],
     [
       "SQLite in Production: Lessons from Running a Store on a Single File",
       "https://ultrathink.art/blog/sqlite-in-production-lessons"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 20:04:05",
+      "https://news.ycombinator.com/item?id=47631515"
+    ],
+    [
+      "A new Postcrossing stamp from the USA",
+      "https://www.postcrossing.com/blog/2026/03/31/a-new-postcrossing-stamp-from-the-usa"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Running Out of Disk Space in Production",
       "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 13:06:27",
-      "https://news.ycombinator.com/item?id=47626242"
-    ],
-    [
-      "Second Revision of 6502 Laptop",
-      "https://codeberg.org/TechPaula/LT6502b"
     ]
   ],
   [
