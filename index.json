@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-07, 15:07:38",
+      "https://news.ycombinator.com/item?id=47676557"
+    ],
+    [
+      "Moving fast in hardware: lessons from lab to $100M ARR",
+      "https://blog.zacka.io/p/simplify-then-add-lightness-bc4"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 15:04:23",
+      "https://news.ycombinator.com/item?id=47676521"
+    ],
+    [
+      "Claude Code is locking people out for hours",
+      "https://github.com/anthropics/claude-code/issues/44257"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 14:07:34",
+      "https://news.ycombinator.com/item?id=47675625"
+    ],
+    [
+      "Cloudflare targets 2029 for full post-quantum security",
+      "https://blog.cloudflare.com/post-quantum-roadmap/"
+    ]
+  ],
+  [
+    [
       "2026-04-07, 13:45:26",
       "https://news.ycombinator.com/item?id=47675302"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2026-04-07, 13:41:50",
-      "https://news.ycombinator.com/item?id=47675254"
+      "2026-04-07, 13:34:33",
+      "https://news.ycombinator.com/item?id=47675155"
     ],
     [
-      "NanoClaw's Architecture Is a Masterclass in Doing Less",
-      "https://jonno.nz/posts/nanoclaw-architecture-masterclass-in-doing-less/"
+      "You can't cancel a JavaScript promise (except sometimes you can)",
+      "https://www.inngest.com/blog/hanging-promises-for-control-flow"
     ]
   ],
   [
@@ -27,26 +57,6 @@
     [
       "Dropping Cloudflare for Bunny.net",
       "https://jola.dev/posts/dropping-cloudflare"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 13:08:42",
-      "https://news.ycombinator.com/item?id=47674786"
-    ],
-    [
-      "The best tools for sending an email if you go silent",
-      "https://blog.alcazarsec.com/posts/best-email-dead-mans-switches"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 13:06:28",
-      "https://news.ycombinator.com/item?id=47674749"
-    ],
-    [
-      "Hybrid Attention",
-      "https://news.ycombinator.com/item?id=47674749"
     ]
   ],
   [
@@ -191,42 +201,12 @@
   ],
   [
     [
-      "2026-04-07, 00:48:01",
-      "https://news.ycombinator.com/item?id=47669337"
-    ],
-    [
-      "Solod – A subset of Go that translates to C",
-      "https://github.com/solod-dev/solod"
-    ]
-  ],
-  [
-    [
       "2026-04-06, 19:50:16",
       "https://news.ycombinator.com/item?id=47666024"
     ],
     [
       "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
       "https://github.com/matthartman/ghost-pepper"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 16:32:11",
-      "https://news.ycombinator.com/item?id=47663147"
-    ],
-    [
-      "Launch HN: Freestyle – Sandboxes for Coding Agents",
-      "https://www.freestyle.sh/"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 13:50:35",
-      "https://news.ycombinator.com/item?id=47660925"
-    ],
-    [
-      "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "https://github.com/anthropics/claude-code/issues/42796"
     ]
   ],
   [
@@ -247,6 +227,26 @@
     [
       "Floating point from scratch: Hard Mode",
       "https://essenceia.github.io/projects/floating_dragon/"
+    ]
+  ],
+  [
+    [
+      "2026-04-04, 09:15:47",
+      "https://news.ycombinator.com/item?id=47637353"
+    ],
+    [
+      "SQLite in Production: Lessons from Running a Store on a Single File",
+      "https://ultrathink.art/blog/sqlite-in-production-lessons"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 16:48:33",
+      "https://news.ycombinator.com/item?id=47629021"
+    ],
+    [
+      "Global Physics Photowalk: 2025 winners revealed",
+      "https://www.quantamagazine.org/global-physics-photowalk-2025-winners-revealed-20260401/"
     ]
   ],
   [
