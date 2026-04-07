@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 15:54:16](https://news.ycombinator.com/item?id=47677241) - [Good Taste the Only Real Moat Left](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
+* [2026-04-07, 15:47:16](https://news.ycombinator.com/item?id=47677142) - [12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected (2017)](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
 * [2026-04-07, 15:07:38](https://news.ycombinator.com/item?id=47676557) - [Moving fast in hardware: lessons from lab to $100M ARR](https://blog.zacka.io/p/simplify-then-add-lightness-bc4)
 * [2026-04-07, 15:04:23](https://news.ycombinator.com/item?id=47676521) - [Claude Code is locking people out for hours](https://github.com/anthropics/claude-code/issues/44257)
+* [2026-04-07, 14:33:48](https://news.ycombinator.com/item?id=47676044) - [Show HN: Finalrun – Spec-driven testing using English and vision for mobile apps](https://github.com/final-run/finalrun-agent)
 * [2026-04-07, 14:07:34](https://news.ycombinator.com/item?id=47675625) - [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/)
 * [2026-04-07, 13:45:26](https://news.ycombinator.com/item?id=47675302) - [9 Mothers (YC P26) Is Hiring – Lead Robotics and More](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-04-07, 13:41:50](https://news.ycombinator.com/item?id=47675254) - [NanoClaw's Architecture Is a Masterclass in Doing Less](https://jonno.nz/posts/nanoclaw-architecture-masterclass-in-doing-less/)
+* [2026-04-07, 13:39:15](https://news.ycombinator.com/item?id=47675213) - [Google open-sources experimental agent orchestration testbed Scion](https://www.infoq.com/news/2026/04/google-agent-testbed-scion/)
 * [2026-04-07, 13:34:33](https://news.ycombinator.com/item?id=47675155) - [You can't cancel a JavaScript promise (except sometimes you can)](https://www.inngest.com/blog/hanging-promises-for-control-flow)
 * [2026-04-07, 13:23:05](https://news.ycombinator.com/item?id=47675013) - [Dropping Cloudflare for Bunny.net](https://jola.dev/posts/dropping-cloudflare)
+* [2026-04-07, 13:19:10](https://news.ycombinator.com/item?id=47674950) - [An AI robot in my home](https://allevato.me/2026/04/07/an-ai-robot-in-my-home)
 * [2026-04-07, 13:08:42](https://news.ycombinator.com/item?id=47674786) - [The best tools for sending an email if you go silent](https://blog.alcazarsec.com/posts/best-email-dead-mans-switches)
 * [2026-04-07, 13:06:28](https://news.ycombinator.com/item?id=47674749) - [Hybrid Attention](https://news.ycombinator.com/item?id=47674749)
 * [2026-04-07, 12:27:59](https://news.ycombinator.com/item?id=47674234) - [\"The new Copilot app for Windows 11 is really just Microsoft Edge\"](https://twitter.com/TheBobPony/status/2041112541909205001)
