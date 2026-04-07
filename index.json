@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-04-07, 01:42:40",
-      "https://news.ycombinator.com/item?id=47669749"
+      "2026-04-07, 04:58:29",
+      "https://news.ycombinator.com/item?id=47670929"
     ],
     [
-      "Dear Heroku: Uhh What's Going On?",
-      "https://judoscale.com/blog/heroku-whats-going-on"
+      "People Love to Work Hard",
+      "https://www.anildash.com/2026/04/06/people-love-to-work-hard/"
     ]
   ],
   [
@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-04-06, 21:22:03",
+      "https://news.ycombinator.com/item?id=47667321"
+    ],
+    [
+      "Peptides: where to begin?",
+      "https://www.science.org/content/blog-post/ah-peptides-where-begin"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 21:00:00",
       "https://news.ycombinator.com/item?id=47667011"
     ],
@@ -87,16 +97,6 @@
     [
       "Agent Reading Test",
       "https://agentreadingtest.com"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 18:54:09",
-      "https://news.ycombinator.com/item?id=47665207"
-    ],
-    [
-      "SOM: A minimal Smalltalk for teaching of and research on Virtual Machines",
-      "http://som-st.github.io/"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2026-04-06, 14:01:09",
+      "https://news.ycombinator.com/item?id=47661065"
+    ],
+    [
+      "The team behind a pro-Iran, Lego-themed viral-video campaign",
+      "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 13:52:37",
       "https://news.ycombinator.com/item?id=47660954"
     ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2026-04-04, 17:58:55",
+      "https://news.ycombinator.com/item?id=47641528"
+    ],
+    [
+      "Apollo Guidance Computer Restoration Videos and Press Coverage",
+      "https://www.curiousmarc.com/space/apollo-guidance-computer"
+    ]
+  ],
+  [
+    [
       "2026-04-04, 10:39:32",
       "https://news.ycombinator.com/item?id=47637828"
     ],
@@ -247,16 +267,6 @@
     [
       "The Last Quiet Thing",
       "https://www.terrygodier.com/the-last-quiet-thing"
-    ]
-  ],
-  [
-    [
-      "2026-04-04, 08:01:59",
-      "https://news.ycombinator.com/item?id=47636937"
-    ],
-    [
-      "Eighteen Years of Greytrapping – Is the Weirdness Finally Paying Off?",
-      "https://nxdomain.no/~peter/eighteen_years_of_greytrapping.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Graph-go – zero config, full visibility",
       "https://github.com/guilherme-grimm/graph-go"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 15:40:58",
-      "https://news.ycombinator.com/item?id=47615961"
-    ],
-    [
-      "What happens when a destructor throws",
-      "https://www.sandordargo.com/blog/2026/04/01/when-a-destructor-throws"
     ]
   ]
 ]
