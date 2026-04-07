@@ -1,22 +1,62 @@
 [
   [
     [
-      "2026-04-07, 11:07:44",
-      "https://news.ycombinator.com/item?id=47673360"
+      "2026-04-07, 12:12:15",
+      "https://news.ycombinator.com/item?id=47674027"
     ],
     [
-      "Show HN: Brutalist Concrete Laptop Stand",
-      "https://sam-burns.com/posts/concrete-laptop-stand/"
+      "Show HN: A cartographer's attempt to realistically map Tolkien's world",
+      "https://www.intofarlands.com/atlasofarda"
     ]
   ],
   [
     [
-      "2026-04-07, 10:33:51",
-      "https://news.ycombinator.com/item?id=47673072"
+      "2026-04-07, 12:01:51",
+      "https://news.ycombinator.com/item?id=47673880"
     ],
     [
-      "Germany Power Prices Turn Deeply Negative on Renewables Surge",
-      "https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge"
+      "Show HN: Pion/handoff – Move WebRTC out of browser and into Go",
+      "https://github.com/pion/handoff"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 11:29:02",
+      "https://news.ycombinator.com/item?id=47673541"
+    ],
+    [
+      "LLM may be standardizing human expression – and subtly influencing how we think",
+      "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 11:12:17",
+      "https://news.ycombinator.com/item?id=47673394"
+    ],
+    [
+      "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
+      "https://locker.dev"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 11:10:22",
+      "https://news.ycombinator.com/item?id=47673379"
+    ],
+    [
+      "DeiMOS – A Superoptimizer for the MOS 6502",
+      "https://aransentin.github.io/deimos/"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 11:07:44",
+      "https://news.ycombinator.com/item?id=47673360"
+    ],
+    [
+      "Show HN: Brutalist Concrete Laptop Stand (2024)",
+      "https://sam-burns.com/posts/concrete-laptop-stand/"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2026-04-06, 21:00:00",
-      "https://news.ycombinator.com/item?id=47667011"
-    ],
-    [
-      "HackerRank (YC S11) Is Hiring",
-      "https://news.ycombinator.com/item?id=47667011"
-    ]
-  ],
-  [
-    [
       "2026-04-06, 19:50:16",
       "https://news.ycombinator.com/item?id=47666024"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-04-06, 15:57:07",
-      "https://news.ycombinator.com/item?id=47662596"
-    ],
-    [
-      "AI singer now occupies eleven spots on iTunes singles chart",
-      "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive"
-    ]
-  ],
-  [
-    [
       "2026-04-06, 15:31:20",
       "https://news.ycombinator.com/item?id=47662234"
     ],
@@ -187,16 +207,6 @@
     [
       "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
       "https://github.com/anthropics/claude-code/issues/42796"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 13:44:01",
-      "https://news.ycombinator.com/item?id=47660853"
-    ],
-    [
-      "Book review: There Is No Antimemetics Division",
-      "https://www.stephendiehl.com/posts/no_antimimetics/"
     ]
   ],
   [
@@ -251,26 +261,6 @@
   ],
   [
     [
-      "2026-04-04, 08:14:53",
-      "https://news.ycombinator.com/item?id=47637010"
-    ],
-    [
-      "The Last Quiet Thing",
-      "https://www.terrygodier.com/the-last-quiet-thing"
-    ]
-  ],
-  [
-    [
-      "2026-04-04, 06:58:03",
-      "https://news.ycombinator.com/item?id=47636579"
-    ],
-    [
-      "Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V",
-      "https://github.com/roscopeco/anos"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 14:42:28",
       "https://news.ycombinator.com/item?id=47627217"
     ],
@@ -287,6 +277,16 @@
     [
       "Second Revision of 6502 Laptop",
       "https://codeberg.org/TechPaula/LT6502b"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 17:05:36",
+      "https://news.ycombinator.com/item?id=47617103"
+    ],
+    [
+      "Wi-Fi That Can Withstand a Nuclear Reactor: This receiver chip can take it",
+      "https://spectrum.ieee.org/robotics-in-nuclear-industry"
     ]
   ],
   [
