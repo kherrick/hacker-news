@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-04-07](index.md)
+
+* [2026-04-07, 00:48:01](https://news.ycombinator.com/item?id=47669337) - [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod)
