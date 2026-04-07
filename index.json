@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-07, 08:38:17",
+      "https://news.ycombinator.com/item?id=47672295"
+    ],
+    [
+      "Every GPU That Mattered",
+      "https://sheets.works/data-viz/every-gpu"
+    ]
+  ],
+  [
+    [
       "2026-04-07, 06:45:08",
       "https://news.ycombinator.com/item?id=47671527"
     ],
@@ -37,16 +47,6 @@
     [
       "Solod – A subset of Go that translates to C",
       "https://github.com/solod-dev/solod"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 23:23:28",
-      "https://news.ycombinator.com/item?id=47668727"
-    ],
-    [
-      "After 20 years I turned off Google Adsense for my websites (2025)",
-      "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2026-04-04, 12:33:14",
+      "https://news.ycombinator.com/item?id=47638498"
+    ],
+    [
+      "Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11",
+      "https://adashape.com"
+    ]
+  ],
+  [
+    [
       "2026-04-04, 10:39:32",
       "https://news.ycombinator.com/item?id=47637828"
     ],
@@ -267,16 +277,6 @@
     [
       "VOID: Video Object and Interaction Deletion",
       "https://github.com/Netflix/void-model"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 14:55:25",
-      "https://news.ycombinator.com/item?id=47627361"
-    ],
-    [
-      "Graph-go – zero config, full visibility",
-      "https://github.com/guilherme-grimm/graph-go"
     ]
   ],
   [
