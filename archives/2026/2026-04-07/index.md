@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 22:20:22](https://news.ycombinator.com/item?id=47682098) - [Ex-Meta worker investigated for downloading 30k private Facebook photos](https://www.bbc.com/news/articles/cvg049xz1ygo)
 * [2026-04-07, 22:05:54](https://news.ycombinator.com/item?id=47681954) - [Is your app idea worth building?](https://www.build-check.com/)
 * [2026-04-07, 21:41:06](https://news.ycombinator.com/item?id=47681701) - [RSoC 2026: A new CPU scheduler for Redox OS](https://www.redox-os.org/news/rsoc-dwrr/)
 * [2026-04-07, 21:27:03](https://news.ycombinator.com/item?id=47681566) - [USD Purchasing Power in Real Time Since 2000](https://onedollar.today/)
@@ -31,6 +32,7 @@
 * [2026-04-07, 14:33:48](https://news.ycombinator.com/item?id=47676044) - [Show HN: Finalrun – Spec-driven testing using English and vision for mobile apps](https://github.com/final-run/finalrun-agent)
 * [2026-04-07, 14:24:30](https://news.ycombinator.com/item?id=47675893) - [How a blind man made it possible for others with low vision to build Lego sets](https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4)
 * [2026-04-07, 14:07:34](https://news.ycombinator.com/item?id=47675625) - [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/)
+* [2026-04-07, 13:50:27](https://news.ycombinator.com/item?id=47675372) - [Has electricity decoupled from natural gas prices in Germany?](https://has-electricity-decoupled-yet.strommarktberatung.de)
 * [2026-04-07, 13:45:26](https://news.ycombinator.com/item?id=47675302) - [9 Mothers (YC P26) Is Hiring – Lead Robotics and More](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-04-07, 13:41:50](https://news.ycombinator.com/item?id=47675254) - [NanoClaw's Architecture Is a Masterclass in Doing Less](https://jonno.nz/posts/nanoclaw-architecture-masterclass-in-doing-less/)
 * [2026-04-07, 13:39:15](https://news.ycombinator.com/item?id=47675213) - [Google open-sources experimental agent orchestration testbed Scion](https://www.infoq.com/news/2026/04/google-agent-testbed-scion/)
