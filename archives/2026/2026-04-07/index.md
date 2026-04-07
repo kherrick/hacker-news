@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 21:04:53](https://news.ycombinator.com/item?id=47681361) - [Move Detroit](https://www.movedetroit.com/program)
 * [2026-04-07, 20:56:23](https://news.ycombinator.com/item?id=47681274) - [Bitcoin and Quantum Computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+* [2026-04-07, 20:42:37](https://news.ycombinator.com/item?id=47681112) - [Show HN: An interactive map of Tolkien's Middle-earth](https://middle-earth-interactive-map.web.app/)
 * [2026-04-07, 19:54:06](https://news.ycombinator.com/item?id=47680532) - [Cells for NetBSD: kernel-enforced, jail-like isolation](https://netbsd-cells.petermann-digital.de/)
 * [2026-04-07, 19:44:01](https://news.ycombinator.com/item?id=47680404) - [S3 Files and the changing face of S3](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
 * [2026-04-07, 19:37:05](https://news.ycombinator.com/item?id=47680309) - [Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon](https://github.com/mattmireles/gemma-tuner-multimodal)
@@ -22,6 +24,7 @@
 * [2026-04-07, 15:47:16](https://news.ycombinator.com/item?id=47677142) - [12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected (2017)](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
 * [2026-04-07, 15:07:38](https://news.ycombinator.com/item?id=47676557) - [Moving fast in hardware: lessons from lab to $100M ARR](https://blog.zacka.io/p/simplify-then-add-lightness-bc4)
 * [2026-04-07, 15:04:23](https://news.ycombinator.com/item?id=47676521) - [Claude Code is locking people out for hours](https://github.com/anthropics/claude-code/issues/44257)
+* [2026-04-07, 15:03:18](https://news.ycombinator.com/item?id=47676509) - [Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/)
 * [2026-04-07, 14:33:48](https://news.ycombinator.com/item?id=47676044) - [Show HN: Finalrun – Spec-driven testing using English and vision for mobile apps](https://github.com/final-run/finalrun-agent)
 * [2026-04-07, 14:24:30](https://news.ycombinator.com/item?id=47675893) - [How a blind man made it possible for others with low vision to build Lego sets](https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4)
 * [2026-04-07, 14:07:34](https://news.ycombinator.com/item?id=47675625) - [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/)
@@ -33,6 +36,7 @@
 * [2026-04-07, 13:19:10](https://news.ycombinator.com/item?id=47674950) - [An AI robot in my home](https://allevato.me/2026/04/07/an-ai-robot-in-my-home)
 * [2026-04-07, 13:08:42](https://news.ycombinator.com/item?id=47674786) - [The best tools for sending an email if you go silent](https://blog.alcazarsec.com/posts/best-email-dead-mans-switches)
 * [2026-04-07, 13:06:28](https://news.ycombinator.com/item?id=47674749) - [Hybrid Attention](https://news.ycombinator.com/item?id=47674749)
+* [2026-04-07, 12:57:25](https://news.ycombinator.com/item?id=47674606) - [Show HN: Unicode Steganography](https://steganography.patrickvuscan.com)
 * [2026-04-07, 12:27:59](https://news.ycombinator.com/item?id=47674234) - [\"The new Copilot app for Windows 11 is really just Microsoft Edge\"](https://twitter.com/TheBobPony/status/2041112541909205001)
 * [2026-04-07, 12:12:15](https://news.ycombinator.com/item?id=47674027) - [Show HN: A cartographer's attempt to realistically map Tolkien's world](https://www.intofarlands.com/atlasofarda)
 * [2026-04-07, 12:05:23](https://news.ycombinator.com/item?id=47673928) - [Record wind and solar saved UK from gas imports worth £1B in March 2026](https://www.carbonbrief.org/analysis-record-wind-and-solar-saved-uk-from-gas-imports-worth-1bn-in-march-2026/)
