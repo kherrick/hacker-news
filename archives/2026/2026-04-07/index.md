@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 22:05:54](https://news.ycombinator.com/item?id=47681954) - [Is your app idea worth building?](https://www.build-check.com/)
+* [2026-04-07, 21:41:06](https://news.ycombinator.com/item?id=47681701) - [RSoC 2026: A new CPU scheduler for Redox OS](https://www.redox-os.org/news/rsoc-dwrr/)
 * [2026-04-07, 21:04:53](https://news.ycombinator.com/item?id=47681361) - [Move Detroit](https://www.movedetroit.com/program)
 * [2026-04-07, 20:56:23](https://news.ycombinator.com/item?id=47681274) - [Bitcoin and Quantum Computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 * [2026-04-07, 20:42:37](https://news.ycombinator.com/item?id=47681112) - [Show HN: An interactive map of Tolkien's Middle-earth](https://middle-earth-interactive-map.web.app/)
