@@ -1,22 +1,32 @@
 [
   [
     [
-      "2026-04-07, 19:22:58",
-      "https://news.ycombinator.com/item?id=47680124"
+      "2026-04-07, 19:54:06",
+      "https://news.ycombinator.com/item?id=47680532"
     ],
     [
-      "Why IPv6 is the only way forward",
-      "https://ankshilp.in/posts/for-the-love-of-internet/"
+      "Cells for NetBSD: kernel-enforced, jail-like isolation",
+      "https://netbsd-cells.petermann-digital.de/"
     ]
   ],
   [
     [
-      "2026-04-07, 19:12:16",
-      "https://news.ycombinator.com/item?id=47679979"
+      "2026-04-07, 19:44:01",
+      "https://news.ycombinator.com/item?id=47680404"
     ],
     [
-      "US Labor Force Participation Continues to Slide",
-      "https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/potential-workers-on-the-sidelines-labor-force-participation-continues-to-slide/"
+      "S3 Files and the changing face of S3",
+      "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 19:37:05",
+      "https://news.ycombinator.com/item?id=47680309"
+    ],
+    [
+      "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+      "https://github.com/mattmireles/gemma-tuner-multimodal"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=47677241"
     ],
     [
-      "Good Taste the Only Real Moat Left",
+      "Taste in the age of AI and LLMs",
       "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/"
     ]
   ],
@@ -107,6 +117,16 @@
     [
       "Moving fast in hardware: lessons from lab to $100M ARR",
       "https://blog.zacka.io/p/simplify-then-add-lightness-bc4"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 14:24:30",
+      "https://news.ycombinator.com/item?id=47675893"
+    ],
+    [
+      "How a blind man made it possible for others with low vision to build Lego sets",
+      "https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "We found an undocumented bug in the Apollo 11 guidance computer code",
       "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 10:08:25",
-      "https://news.ycombinator.com/item?id=47672884"
-    ],
-    [
-      "Identify a London Underground Line just by listening to it",
-      "https://tubesoundquiz.com/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Boneyard: Generate pixel-perfect skeleton screens from your real DOM",
       "https://github.com/0xGF/boneyard"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 16:18:42",
-      "https://news.ycombinator.com/item?id=47616475"
-    ],
-    [
-      "Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000",
-      "https://rarehistoricalphotos.com/kursk-submarine-disaster-photos/"
     ]
   ],
   [
