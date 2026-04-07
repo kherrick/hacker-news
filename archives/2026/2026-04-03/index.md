@@ -53,6 +53,7 @@
 * [2026-04-03, 14:15:21](https://news.ycombinator.com/item?id=47626900) - [Grok scored zero on ARC-AGI-3. Every 5-year-old did better](https://aitwerp.com/signals/agi-benchmark-five-year-old-wins/)
 * [2026-04-03, 13:45:02](https://news.ycombinator.com/item?id=47626598) - [Show HN: ctx – an Agentic Development Environment (ADE)](https://ctx.rs)
 * [2026-04-03, 13:28:58](https://news.ycombinator.com/item?id=47626462) - [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)
+* [2026-04-03, 13:06:27](https://news.ycombinator.com/item?id=47626242) - [Second Revision of 6502 Laptop](https://codeberg.org/TechPaula/LT6502b)
 * [2026-04-03, 12:33:45](https://news.ycombinator.com/item?id=47625952) - [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/)
 * [2026-04-03, 11:53:32](https://news.ycombinator.com/item?id=47625639) - [TDF ejects its core developers](https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html)
 * [2026-04-03, 11:20:28](https://news.ycombinator.com/item?id=47625385) - [H.264 Streaming Fees: What Changed, Who's Affected, and What It Means](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935)
