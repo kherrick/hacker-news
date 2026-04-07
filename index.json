@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-07, 17:05:25",
+      "https://news.ycombinator.com/item?id=47678320"
+    ],
+    [
+      "Kindle to end store downloads and registering for 1st-5th gen kindles in May",
+      "https://www.reddit.com/r/kindle/s/xg8uCdAWU3"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 16:33:57",
+      "https://news.ycombinator.com/item?id=47677885"
+    ],
+    [
+      "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP",
+      "https://printervention.app/details"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 16:32:15",
+      "https://news.ycombinator.com/item?id=47677853"
+    ],
+    [
+      "GLM-5.1: Towards Long-Horizon Tasks",
+      "https://z.ai/blog/glm-5.1"
+    ]
+  ],
+  [
+    [
       "2026-04-07, 15:54:16",
       "https://news.ycombinator.com/item?id=47677241"
     ],
@@ -27,16 +57,6 @@
     [
       "Moving fast in hardware: lessons from lab to $100M ARR",
       "https://blog.zacka.io/p/simplify-then-add-lightness-bc4"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 15:04:23",
-      "https://news.ycombinator.com/item?id=47676521"
-    ],
-    [
-      "Claude Code is locking people out for hours",
-      "https://github.com/anthropics/claude-code/issues/44257"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-04-07, 13:19:10",
-      "https://news.ycombinator.com/item?id=47674950"
-    ],
-    [
-      "An AI robot in my home",
-      "https://allevato.me/2026/04/07/an-ai-robot-in-my-home"
-    ]
-  ],
-  [
-    [
       "2026-04-07, 12:12:15",
       "https://news.ycombinator.com/item?id=47674027"
     ],
@@ -127,26 +137,6 @@
     [
       "Show HN: Pion/handoff – Move WebRTC out of browser and into Go",
       "https://github.com/pion/handoff"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 11:29:02",
-      "https://news.ycombinator.com/item?id=47673541"
-    ],
-    [
-      "AI may be making us think and write more alike",
-      "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 11:12:17",
-      "https://news.ycombinator.com/item?id=47673394"
-    ],
-    [
-      "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
-      "https://locker.dev"
     ]
   ],
   [
@@ -221,12 +211,32 @@
   ],
   [
     [
-      "2026-04-06, 10:36:57",
-      "https://news.ycombinator.com/item?id=47659135"
+      "2026-04-07, 05:58:01",
+      "https://news.ycombinator.com/item?id=47671219"
     ],
     [
-      "Sam Altman may control our future – can he be trusted?",
-      "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted"
+      "John Coltrane Illustrates the Mathematics of Jazz",
+      "https://www.americanjazzmusicsociety.com/blog/john-coltrane-draws"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 18:24:32",
+      "https://news.ycombinator.com/item?id=47664836"
+    ],
+    [
+      "AI helps add 10k more photos to OldNYC",
+      "https://www.danvk.org/2026/03/08/oldnyc-updates.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-04, 09:52:55",
+      "https://news.ycombinator.com/item?id=47637580"
+    ],
+    [
+      "Emotion Concepts and Their Function in a Large Language Model",
+      "https://transformer-circuits.pub/2026/emotions/index.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Global Physics Photowalk: 2025 winners revealed",
       "https://www.quantamagazine.org/global-physics-photowalk-2025-winners-revealed-20260401/"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 14:42:28",
-      "https://news.ycombinator.com/item?id=47627217"
-    ],
-    [
-      "Running Out of Disk Space in Production",
-      "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html"
     ]
   ],
   [
