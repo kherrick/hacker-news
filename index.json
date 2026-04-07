@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-07, 00:48:01",
+      "https://news.ycombinator.com/item?id=47669337"
+    ],
+    [
+      "Solod – A Subset of Go That Translates to C",
+      "https://github.com/solod-dev/solod"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 23:23:28",
       "https://news.ycombinator.com/item?id=47668727"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=47667717"
     ],
     [
-      "Anthropic expands partnership w Google and Broadcom for multiple GW of compute",
+      "Anthropic expands partnership with Google and Broadcom for next-gen compute",
       "https://www.anthropic.com/news/google-broadcom-partnership-compute"
     ]
   ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2026-04-06, 18:53:15",
-      "https://news.ycombinator.com/item?id=47665194"
-    ],
-    [
-      "Zooming UIs in 2026: Prezi, impress.js, and why I built something different",
-      "https://news.ycombinator.com/item?id=47665194"
-    ]
-  ],
-  [
-    [
       "2026-04-06, 18:31:03",
       "https://news.ycombinator.com/item?id=47664912"
     ],
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2026-04-06, 16:13:47",
-      "https://news.ycombinator.com/item?id=47662833"
-    ],
-    [
-      "Reducto releases Deep Extract",
-      "https://reducto.ai/blog/reducto-deep-extract-agent"
-    ]
-  ],
-  [
-    [
       "2026-04-06, 15:57:07",
       "https://news.ycombinator.com/item?id=47662596"
     ],
@@ -187,6 +177,16 @@
     [
       "Sky – an Elm-inspired language that compiles to Go",
       "https://github.com/anzellai/sky"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 14:01:09",
+      "https://news.ycombinator.com/item?id=47661065"
+    ],
+    [
+      "The team behind a pro-Iran, Lego-themed viral-video campaign",
+      "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign"
     ]
   ],
   [
@@ -241,32 +241,12 @@
   ],
   [
     [
-      "2026-04-05, 22:00:59",
-      "https://news.ycombinator.com/item?id=47654346"
-    ],
-    [
-      "The anatomy of SMS delivery: from request to carrier",
-      "https://blog.bridgexapi.io/the-anatomy-of-sms-delivery-from-request-to-carrier"
-    ]
-  ],
-  [
-    [
       "2026-04-04, 10:39:32",
       "https://news.ycombinator.com/item?id=47637828"
     ],
     [
       "Show HN: Tusk for macOS and Gnome",
       "https://shapemachine.xyz/tusk/"
-    ]
-  ],
-  [
-    [
-      "2026-04-04, 08:49:12",
-      "https://news.ycombinator.com/item?id=47637206"
-    ],
-    [
-      "Show HN: Docking – Extensible Linux dock in Python",
-      "https://docking.cc"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V",
       "https://github.com/roscopeco/anos"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 15:38:53",
+      "https://news.ycombinator.com/item?id=47627998"
+    ],
+    [
+      "Netflix Void Model: Video Object and Interaction Deletion",
+      "https://github.com/Netflix/void-model"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 15:12:45",
+      "https://news.ycombinator.com/item?id=47627595"
+    ],
+    [
+      "Porting Go's strings package to C",
+      "https://antonz.org/porting-go-strings/"
     ]
   ]
 ]
