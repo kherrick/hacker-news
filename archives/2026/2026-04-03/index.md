@@ -38,6 +38,7 @@
 * [2026-04-03, 17:18:38](https://news.ycombinator.com/item?id=47629382) - [Getting Claude to QA its own work](https://www.skyvern.com/blog/getting-claude-to-qa-its-own-work/)
 * [2026-04-03, 17:10:44](https://news.ycombinator.com/item?id=47629306) - [Pharmaceuticals face 100% tariffs in US – unless firms strike a deal](https://www.bbc.com/news/articles/cx29kke01gpo)
 * [2026-04-03, 16:57:09](https://news.ycombinator.com/item?id=47629116) - [Go on Embedded Systems and WebAssembly](https://tinygo.org/)
+* [2026-04-03, 16:48:33](https://news.ycombinator.com/item?id=47629021) - [Global Physics Photowalk: 2025 winners revealed](https://www.quantamagazine.org/global-physics-photowalk-2025-winners-revealed-20260401/)
 * [2026-04-03, 16:47:46](https://news.ycombinator.com/item?id=47629013) - [Mercurial Dyson – a plan for the disassembly of planet Mercury](https://github.com/RokoMijic/MercurialDyson/blob/main/written_report.md)
 * [2026-04-03, 16:21:32](https://news.ycombinator.com/item?id=47628608) - [OpenClaw privilege-escalation bug](https://nvd.nist.gov/vuln/detail/CVE-2026-33579)
 * [2026-04-03, 16:21:32](https://news.ycombinator.com/item?id=47628608) - [If you're running OpenClaw, you probably got hacked in the last week](https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/)
