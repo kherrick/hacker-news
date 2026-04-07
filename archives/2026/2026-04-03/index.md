@@ -45,6 +45,7 @@
 * [2026-04-03, 15:38:53](https://news.ycombinator.com/item?id=47627998) - [Netflix Void Model: Video Object and Interaction Deletion](https://github.com/Netflix/void-model)
 * [2026-04-03, 15:12:45](https://news.ycombinator.com/item?id=47627595) - [Porting Go's strings package to C](https://antonz.org/porting-go-strings/)
 * [2026-04-03, 15:08:16](https://news.ycombinator.com/item?id=47627527) - [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/)
+* [2026-04-03, 14:55:25](https://news.ycombinator.com/item?id=47627361) - [Graph-go – zero config, full visibility](https://github.com/guilherme-grimm/graph-go)
 * [2026-04-03, 14:45:31](https://news.ycombinator.com/item?id=47627255) - [I prefer OG style websites – what are yours?](https://news.ycombinator.com/item?id=47627255)
 * [2026-04-03, 14:40:12](https://news.ycombinator.com/item?id=47627182) - [U.S. fighter jet shot down in Iran, search underway for crew](https://www.axios.com/2026/04/03/iran-us-fighter-shot-down)
 * [2026-04-03, 14:29:26](https://news.ycombinator.com/item?id=47627061) - [Solar and batteries can power the world](https://nworbmot.org/blog/solar-battery-world.html)

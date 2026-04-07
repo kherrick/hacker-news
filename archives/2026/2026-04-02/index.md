@@ -35,6 +35,7 @@
 * [2026-04-02, 16:00:27](https://news.ycombinator.com/item?id=47616242) - [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
 * [2026-04-02, 15:53:45](https://news.ycombinator.com/item?id=47616157) - [Software never had a soul](https://www.jmduke.com/posts/software-never-had-a-soul.html)
 * [2026-04-02, 15:47:17](https://news.ycombinator.com/item?id=47616050) - [Snow melt-off in American west stuns scientists](https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west)
+* [2026-04-02, 15:40:58](https://news.ycombinator.com/item?id=47615961) - [What happens when a destructor throws](https://www.sandordargo.com/blog/2026/04/01/when-a-destructor-throws)
 * [2026-04-02, 15:35:31](https://news.ycombinator.com/item?id=47615876) - [Even GPT-5.2 Can't Count to Five: Zero-Error Horizons in Trustworthy LLMs](https://arxiv.org/abs/2601.15714)
 * [2026-04-02, 15:32:45](https://news.ycombinator.com/item?id=47615844) - [Show HN: A P2P messenger with dual network modes (Fast and Tor)](https://github.com/Realman78/Kiyeovo/)
 * [2026-04-02, 15:29:49](https://news.ycombinator.com/item?id=47615809) - [Inference Engine for Apple Silicon](https://github.com/ondeinference/onde)

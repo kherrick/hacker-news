@@ -12,6 +12,7 @@
 * [2026-04-04, 20:48:56](https://news.ycombinator.com/item?id=47643217) - [Microsoft to force updates to Windows 11 25H2 for PCs with older OS versions](https://www.tomshardware.com/software/windows/microsoft-forces-updates-to-windows-11-25h2-update-for-pcs-running-on-24h2)
 * [2026-04-04, 19:43:54](https://news.ycombinator.com/item?id=47642601) - [Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown](https://static.laszlokorte.de/escher/)
 * [2026-04-04, 19:39:43](https://news.ycombinator.com/item?id=47642569) - [How many products does Microsoft have named 'Copilot'? I mapped every one](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
+* [2026-04-04, 19:00:01](https://news.ycombinator.com/item?id=47642125) - [Linux extreme performance H1 load generator](https://www.gcannon.org/)
 * [2026-04-04, 18:23:55](https://news.ycombinator.com/item?id=47641788) - [Iranian missile blitz takes down AWS data centers in Bahrain and Dubai](https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones)
 * [2026-04-04, 18:06:24](https://news.ycombinator.com/item?id=47641615) - [Sopwith](http://www.sopwith.org/)
 * [2026-04-04, 18:01:11](https://news.ycombinator.com/item?id=47641555) - [US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war](https://www.msn.com/en-us/money/other/us-deploys-bulk-of-stealthy-long-range-missile-for-iran-war/ar-AA209yKj)
