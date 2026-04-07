@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 20:56:23](https://news.ycombinator.com/item?id=47681274) - [Bitcoin and Quantum Computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 * [2026-04-07, 19:54:06](https://news.ycombinator.com/item?id=47680532) - [Cells for NetBSD: kernel-enforced, jail-like isolation](https://netbsd-cells.petermann-digital.de/)
 * [2026-04-07, 19:44:01](https://news.ycombinator.com/item?id=47680404) - [S3 Files and the changing face of S3](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
 * [2026-04-07, 19:37:05](https://news.ycombinator.com/item?id=47680309) - [Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon](https://github.com/mattmireles/gemma-tuner-multimodal)
 * [2026-04-07, 19:22:58](https://news.ycombinator.com/item?id=47680124) - [Why IPv6 is the only way forward](https://ankshilp.in/posts/for-the-love-of-internet/)
+* [2026-04-07, 19:16:10](https://news.ycombinator.com/item?id=47680023) - [Tailslayer: Library for reducing tail latency in RAM reads](https://github.com/LaurieWired/tailslayer)
 * [2026-04-07, 19:12:16](https://news.ycombinator.com/item?id=47679979) - [US Labor Force Participation Continues to Slide](https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/potential-workers-on-the-sidelines-labor-force-participation-continues-to-slide/)
 * [2026-04-07, 18:18:36](https://news.ycombinator.com/item?id=47679258) - [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
 * [2026-04-07, 18:11:31](https://news.ycombinator.com/item?id=47679155) - [Assessing Claude Mythos Preview's cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)

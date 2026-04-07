@@ -32,6 +32,7 @@
 * [2026-04-05, 17:08:55](https://news.ycombinator.com/item?id=47651479) - [From birds to brains: My path to the fusiform face area (2024)](https://www.kavliprize.org/nancy-kanwisher-autobiography)
 * [2026-04-05, 17:02:38](https://news.ycombinator.com/item?id=47651401) - [With one million displaced, Lebanon turns to digital wallets for aid](https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/)
 * [2026-04-05, 16:21:51](https://news.ycombinator.com/item?id=47650962) - [The Melanesian: Dark-skinned people with blonde hair region of Oceania](https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/)
+* [2026-04-05, 16:14:12](https://news.ycombinator.com/item?id=47650887) - [How to Get Better at Guitar](https://www.jakeworth.com/posts/how-to-get-better-at-guitar/)
 * [2026-04-05, 15:58:08](https://news.ycombinator.com/item?id=47650726) - [Codex is switching to API pricing based usage for all users](https://help.openai.com/en/articles/20001106-codex-rate-card)
 * [2026-04-05, 15:38:18](https://news.ycombinator.com/item?id=47650502) - [Computational Physics (2nd Edition)](https://websites.umich.edu/~mejn/cp2/)
 * [2026-04-05, 15:27:17](https://news.ycombinator.com/item?id=47650401) - [StackOverflow: Retiring the Beta Site](https://meta.stackoverflow.com/questions/438628/retiring-the-beta-site)

@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-07, 20:56:23](https://news.ycombinator.com/item?id=47681274) - [Bitcoin and Quantum Computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 * [2026-04-07, 19:54:06](https://news.ycombinator.com/item?id=47680532) - [Cells for NetBSD: kernel-enforced, jail-like isolation](https://netbsd-cells.petermann-digital.de/)
 * [2026-04-07, 19:44:01](https://news.ycombinator.com/item?id=47680404) - [S3 Files and the changing face of S3](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
 * [2026-04-07, 19:37:05](https://news.ycombinator.com/item?id=47680309) - [Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon](https://github.com/mattmireles/gemma-tuner-multimodal)
+* [2026-04-07, 19:16:10](https://news.ycombinator.com/item?id=47680023) - [Tailslayer: Library for reducing tail latency in RAM reads](https://github.com/LaurieWired/tailslayer)
 * [2026-04-07, 18:18:36](https://news.ycombinator.com/item?id=47679258) - [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
 * [2026-04-07, 18:11:31](https://news.ycombinator.com/item?id=47679155) - [Assessing Claude Mythos Preview's cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
 * [2026-04-07, 18:09:34](https://news.ycombinator.com/item?id=47679121) - [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
@@ -17,7 +19,6 @@
 * [2026-04-07, 13:45:26](https://news.ycombinator.com/item?id=47675302) - [9 Mothers (YC P26) Is Hiring – Lead Robotics and More](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-04-07, 13:39:15](https://news.ycombinator.com/item?id=47675213) - [Google open-sources experimental agent orchestration testbed Scion](https://www.infoq.com/news/2026/04/google-agent-testbed-scion/)
 * [2026-04-07, 13:23:05](https://news.ycombinator.com/item?id=47675013) - [Dropping Cloudflare for Bunny.net](https://jola.dev/posts/dropping-cloudflare)
-* [2026-04-07, 12:12:15](https://news.ycombinator.com/item?id=47674027) - [Show HN: A cartographer's attempt to realistically map Tolkien's world](https://www.intofarlands.com/atlasofarda)
 * [2026-04-07, 11:07:44](https://news.ycombinator.com/item?id=47673360) - [Show HN: Brutalist Concrete Laptop Stand (2024)](https://sam-burns.com/posts/concrete-laptop-stand/)
 * [2026-04-07, 10:25:12](https://news.ycombinator.com/item?id=47673005) - [We found an undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/)
 * [2026-04-07, 08:38:17](https://news.ycombinator.com/item?id=47672295) - [Every GPU That Mattered](https://sheets.works/data-viz/every-gpu)
@@ -25,11 +26,10 @@
 * [2026-04-06, 18:24:32](https://news.ycombinator.com/item?id=47664836) - [AI helps add 10k more photos to OldNYC](https://www.danvk.org/2026/03/08/oldnyc-updates.html)
 * [2026-04-06, 07:56:34](https://news.ycombinator.com/item?id=47658104) - [The Image Boards of Hayao Miyazaki](https://animationobsessive.substack.com/p/the-image-boards-of-hayao-miyazaki)
 * [2026-04-06, 05:22:24](https://news.ycombinator.com/item?id=47657268) - [A truck driver spent 20 years making a scale model of every building in NYC](https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/)
+* [2026-04-05, 16:14:12](https://news.ycombinator.com/item?id=47650887) - [How to Get Better at Guitar](https://www.jakeworth.com/posts/how-to-get-better-at-guitar/)
 * [2026-04-04, 09:52:55](https://news.ycombinator.com/item?id=47637580) - [Emotion Concepts and Their Function in a Large Language Model](https://transformer-circuits.pub/2026/emotions/index.html)
-* [2026-04-04, 09:15:47](https://news.ycombinator.com/item?id=47637353) - [SQLite in Production: Lessons from Running a Store on a Single File](https://ultrathink.art/blog/sqlite-in-production-lessons)
 * [2026-04-03, 20:04:05](https://news.ycombinator.com/item?id=47631515) - [A new Postcrossing stamp from the USA](https://www.postcrossing.com/blog/2026/03/31/a-new-postcrossing-stamp-from-the-usa)
 * [2026-04-03, 15:49:08](https://news.ycombinator.com/item?id=47628163) - [Boneyard: Generate pixel-perfect skeleton screens from your real DOM](https://github.com/0xGF/boneyard)
-* [2026-04-02, 13:53:55](https://news.ycombinator.com/item?id=47614528) - [My Experience as a Rice Farmer](https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html)
 
 ## [Archives](archives/index.md)
 
