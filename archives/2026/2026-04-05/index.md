@@ -57,6 +57,7 @@
 * [2026-04-05, 10:41:06](https://news.ycombinator.com/item?id=47648048) - [Friendica – A Decentralized Social Network](https://friendi.ca/)
 * [2026-04-05, 09:57:25](https://news.ycombinator.com/item?id=47647788) - [The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/)
 * [2026-04-05, 08:56:18](https://news.ycombinator.com/item?id=47647455) - [Talk like caveman](https://github.com/JuliusBrussee/caveman)
+* [2026-04-05, 08:43:18](https://news.ycombinator.com/item?id=47647397) - [Build web apps for smart glasses](https://hub.evenrealities.com/docs/getting-started/overview)
 * [2026-04-05, 07:01:45](https://news.ycombinator.com/item?id=47646871) - [Dynamics of (Not) Being Perceived: Grief and Relief After Leaving Social Media](https://networkcultures.org/thedigitalgutmensch/2026/04/02/dynamics-of-not-being-perceived-the-grief-relief-after-leaving-social-media/)
 * [2026-04-05, 06:57:19](https://news.ycombinator.com/item?id=47646843) - [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)
 * [2026-04-05, 06:12:30](https://news.ycombinator.com/item?id=47646566) - [Unverified: What Practitioners Post About OCR, Agents, and Tables](https://idp-software.com/news/idp-accuracy-reckoning-2026/)
