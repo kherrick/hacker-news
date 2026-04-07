@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-07, 20:56:23",
+      "https://news.ycombinator.com/item?id=47681274"
+    ],
+    [
+      "Bitcoin and Quantum Computing",
+      "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html"
+    ]
+  ],
+  [
+    [
       "2026-04-07, 19:54:06",
       "https://news.ycombinator.com/item?id=47680532"
     ],
@@ -27,6 +37,16 @@
     [
       "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
       "https://github.com/mattmireles/gemma-tuner-multimodal"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 19:16:10",
+      "https://news.ycombinator.com/item?id=47680023"
+    ],
+    [
+      "Tailslayer: Library for reducing tail latency in RAM reads",
+      "https://github.com/LaurieWired/tailslayer"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-04-07, 12:12:15",
-      "https://news.ycombinator.com/item?id=47674027"
-    ],
-    [
-      "Show HN: A cartographer's attempt to realistically map Tolkien's world",
-      "https://www.intofarlands.com/atlasofarda"
-    ]
-  ],
-  [
-    [
       "2026-04-07, 11:07:44",
       "https://news.ycombinator.com/item?id=47673360"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
+      "2026-04-05, 16:14:12",
+      "https://news.ycombinator.com/item?id=47650887"
+    ],
+    [
+      "How to Get Better at Guitar",
+      "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/"
+    ]
+  ],
+  [
+    [
       "2026-04-04, 09:52:55",
       "https://news.ycombinator.com/item?id=47637580"
     ],
     [
       "Emotion Concepts and Their Function in a Large Language Model",
       "https://transformer-circuits.pub/2026/emotions/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-04, 09:15:47",
-      "https://news.ycombinator.com/item?id=47637353"
-    ],
-    [
-      "SQLite in Production: Lessons from Running a Store on a Single File",
-      "https://ultrathink.art/blog/sqlite-in-production-lessons"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Boneyard: Generate pixel-perfect skeleton screens from your real DOM",
       "https://github.com/0xGF/boneyard"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 13:53:55",
-      "https://news.ycombinator.com/item?id=47614528"
-    ],
-    [
-      "My Experience as a Rice Farmer",
-      "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html"
     ]
   ]
 ]
