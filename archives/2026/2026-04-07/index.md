@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 12:12:15](https://news.ycombinator.com/item?id=47674027) - [Show HN: A cartographer's attempt to realistically map Tolkien's world](https://www.intofarlands.com/atlasofarda)
+* [2026-04-07, 12:01:51](https://news.ycombinator.com/item?id=47673880) - [Show HN: Pion/handoff – Move WebRTC out of browser and into Go](https://github.com/pion/handoff)
+* [2026-04-07, 11:29:02](https://news.ycombinator.com/item?id=47673541) - [LLM may be standardizing human expression – and subtly influencing how we think](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
+* [2026-04-07, 11:12:17](https://news.ycombinator.com/item?id=47673394) - [Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead](https://locker.dev)
+* [2026-04-07, 11:10:22](https://news.ycombinator.com/item?id=47673379) - [DeiMOS – A Superoptimizer for the MOS 6502](https://aransentin.github.io/deimos/)
 * [2026-04-07, 11:07:44](https://news.ycombinator.com/item?id=47673360) - [Show HN: Brutalist Concrete Laptop Stand](https://sam-burns.com/posts/concrete-laptop-stand/)
 * [2026-04-07, 10:33:51](https://news.ycombinator.com/item?id=47673072) - [Germany Power Prices Turn Deeply Negative on Renewables Surge](https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge)
 * [2026-04-07, 10:25:12](https://news.ycombinator.com/item?id=47673005) - [We found an undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/)
