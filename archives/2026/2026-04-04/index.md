@@ -18,6 +18,7 @@
 * [2026-04-04, 18:01:11](https://news.ycombinator.com/item?id=47641555) - [US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war](https://www.msn.com/en-us/money/other/us-deploys-bulk-of-stealthy-long-range-missile-for-iran-war/ar-AA209yKj)
 * [2026-04-04, 17:58:55](https://news.ycombinator.com/item?id=47641528) - [Apollo Guidance Computer Restoration Videos and Press Coverage](https://www.curiousmarc.com/space/apollo-guidance-computer)
 * [2026-04-04, 17:54:52](https://news.ycombinator.com/item?id=47641487) - [Show HN: Running local OpenClaw together with remote agents in an open network](https://github.com/hybroai/hybro-hub)
+* [2026-04-04, 17:53:40](https://news.ycombinator.com/item?id=47641472) - [Floating point from scratch: Hard Mode](https://essenceia.github.io/projects/floating_dragon/)
 * [2026-04-04, 17:52:55](https://news.ycombinator.com/item?id=47641464) - [Scientists observe an immune signaling complex forming inside cells](https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research)
 * [2026-04-04, 17:35:40](https://news.ycombinator.com/item?id=47641277) - [Deafness reversed: One injection restores hearing in just weeks – ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260403044651.htm)
 * [2026-04-04, 17:33:21](https://news.ycombinator.com/item?id=47641255) - [Plague Ships](https://www.afloat.com.au/feature/plague-ships/)
