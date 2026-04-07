@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 13:45:26](https://news.ycombinator.com/item?id=47675302) - [9 Mothers (YC P26) Is Hiring – Lead Robotics and More](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
+* [2026-04-07, 13:41:50](https://news.ycombinator.com/item?id=47675254) - [NanoClaw's Architecture Is a Masterclass in Doing Less](https://jonno.nz/posts/nanoclaw-architecture-masterclass-in-doing-less/)
+* [2026-04-07, 13:23:05](https://news.ycombinator.com/item?id=47675013) - [Dropping Cloudflare for Bunny.net](https://jola.dev/posts/dropping-cloudflare)
+* [2026-04-07, 13:08:42](https://news.ycombinator.com/item?id=47674786) - [The best tools for sending an email if you go silent](https://blog.alcazarsec.com/posts/best-email-dead-mans-switches)
+* [2026-04-07, 13:06:28](https://news.ycombinator.com/item?id=47674749) - [Hybrid Attention](https://news.ycombinator.com/item?id=47674749)
+* [2026-04-07, 12:27:59](https://news.ycombinator.com/item?id=47674234) - [\"The new Copilot app for Windows 11 is really just Microsoft Edge\"](https://twitter.com/TheBobPony/status/2041112541909205001)
 * [2026-04-07, 12:12:15](https://news.ycombinator.com/item?id=47674027) - [Show HN: A cartographer's attempt to realistically map Tolkien's world](https://www.intofarlands.com/atlasofarda)
+* [2026-04-07, 12:05:23](https://news.ycombinator.com/item?id=47673928) - [Record wind and solar saved UK from gas imports worth £1B in March 2026](https://www.carbonbrief.org/analysis-record-wind-and-solar-saved-uk-from-gas-imports-worth-1bn-in-march-2026/)
 * [2026-04-07, 12:01:51](https://news.ycombinator.com/item?id=47673880) - [Show HN: Pion/handoff – Move WebRTC out of browser and into Go](https://github.com/pion/handoff)
 * [2026-04-07, 11:29:02](https://news.ycombinator.com/item?id=47673541) - [LLM may be standardizing human expression – and subtly influencing how we think](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
 * [2026-04-07, 11:12:17](https://news.ycombinator.com/item?id=47673394) - [Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead](https://locker.dev)

@@ -32,6 +32,7 @@
 * [2026-04-02, 17:00:11](https://news.ycombinator.com/item?id=47617027) - [A forecast of the fair market value of SpaceX's businesses](https://futuresearch.ai/spacex-ipo-valuation/)
 * [2026-04-02, 16:34:39](https://news.ycombinator.com/item?id=47616704) - [Modern SQLite: Features You Didn't Know It Had](https://slicker.me/sqlite/features.htm)
 * [2026-04-02, 16:27:23](https://news.ycombinator.com/item?id=47616622) - [EmDash: A Fresh Take on CMS](https://maciekpalmowski.dev/blog/emdash-a-fresh-take-on-cms/)
+* [2026-04-02, 16:18:42](https://news.ycombinator.com/item?id=47616475) - [Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000](https://rarehistoricalphotos.com/kursk-submarine-disaster-photos/)
 * [2026-04-02, 16:10:54](https://news.ycombinator.com/item?id=47616361) - [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
 * [2026-04-02, 16:00:27](https://news.ycombinator.com/item?id=47616242) - [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
 * [2026-04-02, 15:53:45](https://news.ycombinator.com/item?id=47616157) - [Software never had a soul](https://www.jmduke.com/posts/software-never-had-a-soul.html)
