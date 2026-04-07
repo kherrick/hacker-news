@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 19:54:06](https://news.ycombinator.com/item?id=47680532) - [Cells for NetBSD: kernel-enforced, jail-like isolation](https://netbsd-cells.petermann-digital.de/)
+* [2026-04-07, 19:44:01](https://news.ycombinator.com/item?id=47680404) - [S3 Files and the changing face of S3](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
+* [2026-04-07, 19:37:05](https://news.ycombinator.com/item?id=47680309) - [Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon](https://github.com/mattmireles/gemma-tuner-multimodal)
 * [2026-04-07, 19:22:58](https://news.ycombinator.com/item?id=47680124) - [Why IPv6 is the only way forward](https://ankshilp.in/posts/for-the-love-of-internet/)
 * [2026-04-07, 19:12:16](https://news.ycombinator.com/item?id=47679979) - [US Labor Force Participation Continues to Slide](https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/potential-workers-on-the-sidelines-labor-force-participation-continues-to-slide/)
 * [2026-04-07, 18:18:36](https://news.ycombinator.com/item?id=47679258) - [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
@@ -18,6 +21,7 @@
 * [2026-04-07, 15:07:38](https://news.ycombinator.com/item?id=47676557) - [Moving fast in hardware: lessons from lab to $100M ARR](https://blog.zacka.io/p/simplify-then-add-lightness-bc4)
 * [2026-04-07, 15:04:23](https://news.ycombinator.com/item?id=47676521) - [Claude Code is locking people out for hours](https://github.com/anthropics/claude-code/issues/44257)
 * [2026-04-07, 14:33:48](https://news.ycombinator.com/item?id=47676044) - [Show HN: Finalrun – Spec-driven testing using English and vision for mobile apps](https://github.com/final-run/finalrun-agent)
+* [2026-04-07, 14:24:30](https://news.ycombinator.com/item?id=47675893) - [How a blind man made it possible for others with low vision to build Lego sets](https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4)
 * [2026-04-07, 14:07:34](https://news.ycombinator.com/item?id=47675625) - [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/)
 * [2026-04-07, 13:45:26](https://news.ycombinator.com/item?id=47675302) - [9 Mothers (YC P26) Is Hiring – Lead Robotics and More](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-04-07, 13:41:50](https://news.ycombinator.com/item?id=47675254) - [NanoClaw's Architecture Is a Masterclass in Doing Less](https://jonno.nz/posts/nanoclaw-architecture-masterclass-in-doing-less/)
