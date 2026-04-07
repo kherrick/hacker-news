@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 19:22:58](https://news.ycombinator.com/item?id=47680124) - [Why IPv6 is the only way forward](https://ankshilp.in/posts/for-the-love-of-internet/)
+* [2026-04-07, 19:12:16](https://news.ycombinator.com/item?id=47679979) - [US Labor Force Participation Continues to Slide](https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/potential-workers-on-the-sidelines-labor-force-participation-continues-to-slide/)
 * [2026-04-07, 18:18:36](https://news.ycombinator.com/item?id=47679258) - [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
 * [2026-04-07, 18:11:31](https://news.ycombinator.com/item?id=47679155) - [Assessing Claude Mythos Preview's cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
 * [2026-04-07, 18:09:34](https://news.ycombinator.com/item?id=47679121) - [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)

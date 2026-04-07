@@ -44,6 +44,7 @@
 * [2026-04-03, 16:21:32](https://news.ycombinator.com/item?id=47628608) - [OpenClaw privilege-escalation bug](https://nvd.nist.gov/vuln/detail/CVE-2026-33579)
 * [2026-04-03, 16:21:32](https://news.ycombinator.com/item?id=47628608) - [If you're running OpenClaw, you probably got hacked in the last week](https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/)
 * [2026-04-03, 16:00:44](https://news.ycombinator.com/item?id=47628326) - [F-15E jet shot down over Iran](https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran)
+* [2026-04-03, 15:49:08](https://news.ycombinator.com/item?id=47628163) - [Boneyard: Generate pixel-perfect skeleton screens from your real DOM](https://github.com/0xGF/boneyard)
 * [2026-04-03, 15:38:53](https://news.ycombinator.com/item?id=47627998) - [Netflix Void Model: Video Object and Interaction Deletion](https://github.com/Netflix/void-model)
 * [2026-04-03, 15:12:45](https://news.ycombinator.com/item?id=47627595) - [Porting Go's strings package to C](https://antonz.org/porting-go-strings/)
 * [2026-04-03, 15:08:16](https://news.ycombinator.com/item?id=47627527) - [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/)

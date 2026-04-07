@@ -57,6 +57,7 @@
 * [2026-04-06, 10:33:02](https://news.ycombinator.com/item?id=47659109) - [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/)
 * [2026-04-06, 09:39:17](https://news.ycombinator.com/item?id=47658743) - [Number in man page titles e.g. sleep(3)](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
 * [2026-04-06, 08:03:43](https://news.ycombinator.com/item?id=47658146) - [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/)
+* [2026-04-06, 07:56:34](https://news.ycombinator.com/item?id=47658104) - [The Image Boards of Hayao Miyazaki](https://animationobsessive.substack.com/p/the-image-boards-of-hayao-miyazaki)
 * [2026-04-06, 06:49:42](https://news.ycombinator.com/item?id=47657699) - [SideX – A Tauri-based port of Visual Studio Code](https://github.com/Sidenai/sidex)
 * [2026-04-06, 05:22:24](https://news.ycombinator.com/item?id=47657268) - [A truck driver spent 20 years making a scale model of every building in NYC](https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/)
 * [2026-04-06, 04:24:49](https://news.ycombinator.com/item?id=47656981) - [Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair](https://drop.com/)
