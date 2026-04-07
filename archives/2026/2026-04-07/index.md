@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 18:18:36](https://news.ycombinator.com/item?id=47679258) - [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
+* [2026-04-07, 18:11:31](https://news.ycombinator.com/item?id=47679155) - [Assessing Claude Mythos Preview's cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
+* [2026-04-07, 18:09:34](https://news.ycombinator.com/item?id=47679121) - [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
+* [2026-04-07, 17:23:43](https://news.ycombinator.com/item?id=47678573) - [Cambodia unveils a statue of famous landmine-sniffing rat Magawa](https://www.bbc.com/news/articles/c0rx7xzd10xo)
 * [2026-04-07, 17:05:25](https://news.ycombinator.com/item?id=47678320) - [Kindle to end store downloads and registering for 1st-5th gen kindles in May](https://www.reddit.com/r/kindle/s/xg8uCdAWU3)
 * [2026-04-07, 16:33:57](https://news.ycombinator.com/item?id=47677885) - [Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP](https://printervention.app/details)
 * [2026-04-07, 16:32:15](https://news.ycombinator.com/item?id=47677853) - [GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5.1)
