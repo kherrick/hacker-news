@@ -129,6 +129,229 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47675302">
+          <h3>
+            <a
+              class="item"
+              href="https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q"
+              >9 Mothers (YC P26) Is Hiring – Lead Robotics and More</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-07 @ 13:45:26</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47675254">
+          <h3>
+            <a
+              class="item"
+              href="https://jonno.nz/posts/nanoclaw-architecture-masterclass-in-doing-less/"
+              >NanoClaw's Architecture Is a Masterclass in Doing Less</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-07 @ 13:41:50</span
+              ><span class="points-container"
+                >Points: <span class="points">32</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47675254"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47675013">
+          <h3>
+            <a class="item" href="https://jola.dev/posts/dropping-cloudflare"
+              >Dropping Cloudflare for Bunny.net</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-07 @ 13:23:05</span
+              ><span class="points-container"
+                >Points: <span class="points">197</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47675013"
+                  >Comments</a
+                ><span class="descendants">: 92</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47674786">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.alcazarsec.com/posts/best-email-dead-mans-switches"
+              >The best tools for sending an email if you go silent</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-07 @ 13:08:42</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47674786"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47674749">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=47674749"
+              >Hybrid Attention</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-07 @ 13:06:28</span
+              ><span class="points-container"
+                >Points: <span class="points">27</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47674749"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>Full attention O(n²): 17.96s / 5.6 tok/s</p>
+              <p>HybridAttention O(n·W + n·D): 0.35s / 286.6 tok/s</p>
+              <p>
+                I have been building a small Rust focused language model from
+                scratch in PyTorch. This is not a finetune. It is byte level,
+                trained from random initialization on a Rust heavy corpus
+                assembled here: https://codeberg.org/JohannaJuntos/Sisyphus
+              </p>
+              <p>Model and training setup</p>
+              <p>
+                The model has 25.6M parameters with a 512 context length. It
+                uses a byte level vocabulary of 256, with 8 layers, 8 heads, and
+                512 dimensional embeddings. Positional embeddings are learned
+                and the embedding and LM head weights are tied.
+              </p>
+              <p>
+                Training ran for 30k steps on a 173.5M byte Rust corpus using a
+                single RTX 4060 Ti 8GB.
+              </p>
+              <p>
+                Final metrics were a train loss of 0.5834, validation loss of
+                0.8217, and perplexity of 2.15. The best validation loss
+                occurred around step 18.5k, which suggests some late overfitting
+                or plateau.
+              </p>
+              <p>Architecture</p>
+              <p>
+                The model is a GPT style decoder, but replaces standard full
+                attention with a HybridAttention block in each layer. This
+                combines local windowed causal attention with a GRU like
+                recurrent state path, along with a learned gate that mixes the
+                two.
+              </p>
+              <p>
+                The local path handles short range syntax, while the recurrent
+                path carries compressed long range state. The gate bias is
+                initialized to favor local attention early in training.
+              </p>
+              <p>Inference uses Triton kernels and custom torch.library ops.</p>
+              <p>Corpus</p>
+              <p>The biggest gain came from corpus expansion.</p>
+              <p>
+                The run started with about 31MB from Rust official sources and
+                major projects such as rustc, cargo, rust analyzer, tokio,
+                serde, ripgrep, clap, and axum. The corpus was expanded to
+                173.5M bytes by cloning the top 500 crates, with 461 successful
+                clones.
+              </p>
+              <p>
+                This expansion had more impact than any architectural change.
+              </p>
+              <p>Inference performance</p>
+              <p>
+                Full attention runs at about 5.6 tokens per second, while
+                HybridAttention with KV cache reaches 286.6 tokens per second.
+                This is about a 51x speedup with no visible quality loss.
+              </p>
+              <p>
+                The KV cache uses a hot window of 64 tokens in VRAM, while older
+                tokens are compressed to 8 bit magnitude and angle and can be
+                selectively promoted back to full precision. This changes the
+                effective complexity from quadratic to near linear for this
+                setup.
+              </p>
+              <p>Quality</p>
+              <p>
+                Surface Rust syntax looks decent, and imports and function
+                signatures are often plausible. Semantics are still weak, and
+                repetition and recursive patterns are common. It looks like
+                Rust, but does not reason well yet.
+              </p>
+              <p>What seems interesting</p>
+              <p>
+                This project combines byte level Rust only pretraining from
+                scratch, a hybrid local attention and recurrent architecture,
+                large scale corpus expansion across the Rust ecosystem, and a
+                practical KV cache paging strategy that delivers large speedups
+                on consumer GPUs.
+              </p>
+              <p>Next steps</p>
+              <p>
+                I plan to run ablations comparing hybrid attention against local
+                only and recurrent only variants, evaluate checkpoints around
+                18.5k versus the final model, and add syntax level validation
+                such as parsing and compiling generated code. I also want to
+                explore scaling context length from 256 up to 2048 and test
+                whether switching from byte level to BPE becomes worthwhile now
+                that the corpus is larger.
+              </p>
+              <p>Questions</p>
+              <p>
+                For small code models, which evaluations have been most useful
+                beyond perplexity?
+              </p>
+              <p>
+                Has anyone seen hybrid local plus recurrent attention work well
+                for code generation?
+              </p>
+              <p>
+                Given this setup, would you prioritize more tokens, longer
+                context, or clean ablations first?
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47674234">
+          <h3>
+            <a
+              class="item"
+              href="https://twitter.com/TheBobPony/status/2041112541909205001"
+              >"The new Copilot app for Windows 11 is really just Microsoft
+              Edge"</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-07 @ 12:27:59</span
+              ><span class="points-container"
+                >Points: <span class="points">82</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47674234"
+                  >Comments</a
+                ><span class="descendants">: 48</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47674027">
           <h3>
             <a class="item" href="https://www.intofarlands.com/atlasofarda"
@@ -140,11 +363,33 @@
             <h4>
               <span>2026-04-07 @ 12:12:15</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47674027"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 16</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47673928">
+          <h3>
+            <a
+              class="item"
+              href="https://www.carbonbrief.org/analysis-record-wind-and-solar-saved-uk-from-gas-imports-worth-1bn-in-march-2026/"
+              >Record wind and solar saved UK from gas imports worth £1B in
+              March 2026</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-07 @ 12:05:23</span
+              ><span class="points-container"
+                >Points: <span class="points">81</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47673928"
+                  >Comments</a
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -159,11 +404,11 @@
             <h4>
               <span>2026-04-07 @ 12:01:51</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47673880"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -173,19 +418,18 @@
             <a
               class="item"
               href="https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
-              >LLM may be standardizing human expression – and subtly
-              influencing how we think</a
+              >AI may be making us think and write more alike</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-04-07 @ 11:29:02</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47673541"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 156</span></span
               >
             </h4>
           </section>
@@ -201,11 +445,11 @@
             <h4>
               <span>2026-04-07 @ 11:12:17</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47673394"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 138</span></span
               >
             </h4>
             <div class="text">
@@ -228,11 +472,11 @@
             <h4>
               <span>2026-04-07 @ 11:10:22</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47673379"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -249,11 +493,11 @@
             <h4>
               <span>2026-04-07 @ 11:07:44</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">338</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47673360"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
           </section>
@@ -271,11 +515,11 @@
             <h4>
               <span>2026-04-07 @ 10:25:12</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">261</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47673005"
                   >Comments</a
-                ><span class="descendants">: 100</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
           </section>
@@ -290,30 +534,11 @@
             <h4>
               <span>2026-04-07 @ 10:08:25</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47672884"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47672818">
-          <h3>
-            <a class="item" href="https://idiocracy.wtf/"
-              >Are We Idiocracy Yet?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-07 @ 09:57:39</span
-              ><span class="points-container"
-                >Points: <span class="points">519</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47672818"
-                  >Comments</a
-                ><span class="descendants">: 401</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -330,11 +555,11 @@
             <h4>
               <span>2026-04-07 @ 09:51:28</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47672778"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -351,11 +576,11 @@
             <h4>
               <span>2026-04-07 @ 08:42:05</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47672318"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -370,11 +595,11 @@
             <h4>
               <span>2026-04-07 @ 08:38:17</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">226</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47672295"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -391,11 +616,11 @@
             <h4>
               <span>2026-04-07 @ 05:12:25</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47670981"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -410,32 +635,11 @@
             <h4>
               <span>2026-04-07 @ 00:48:01</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47669337"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47667321">
-          <h3>
-            <a
-              class="item"
-              href="https://www.science.org/content/blog-post/ah-peptides-where-begin"
-              >Peptides: where to begin?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-06 @ 21:22:03</span
-              ><span class="points-container"
-                >Points: <span class="points">212</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47667321"
-                  >Comments</a
-                ><span class="descendants">: 286</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -451,11 +655,11 @@
             <h4>
               <span>2026-04-06 @ 19:50:16</span
               ><span class="points-container"
-                >Points: <span class="points">419</span></span
+                >Points: <span class="points">429</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47666024"
                   >Comments</a
-                ><span class="descendants">: 187</span></span
+                ><span class="descendants">: 189</span></span
               >
             </h4>
             <div class="text">
@@ -478,7 +682,7 @@
             <h4>
               <span>2026-04-06 @ 16:32:11</span
               ><span class="points-container"
-                >Points: <span class="points">296</span></span
+                >Points: <span class="points">301</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47663147"
                   >Comments</a
@@ -547,86 +751,6 @@
             </div>
           </section>
         </section>
-        <section id="47662945">
-          <h3>
-            <a class="item" href="https://www.govauctions.app/"
-              >Show HN: GovAuctions lets you browse government auctions at
-              once</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-06 @ 16:21:46</span
-              ><span class="points-container"
-                >Points: <span class="points">296</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47662945"
-                  >Comments</a
-                ><span class="descendants">: 84</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                It has historically been extremely tedious though: scanning
-                dozens of janky sites which have interminable page loading
-                times; back buttons take you all the way back to the homepage
-                etc.
-              </p>
-              <p>
-                The site I built - GovAuctions - lets you search every
-                government surplus auction at once. You can filter by location,
-                category, and price, save items to a watchlist, and get alerts
-                when new auctions match what you're looking for.
-              </p>
-              <p>
-                Let me know what you think, if you have any suggestions, and if
-                you find any deals in your area!
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="47662234">
-          <h3>
-            <a class="item" href="https://words.filippo.io/crqc-timeline/"
-              >A cryptography engineer's perspective on quantum computing
-              timelines</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-06 @ 15:31:20</span
-              ><span class="points-container"
-                >Points: <span class="points">517</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47662234"
-                  >Comments</a
-                ><span class="descendants">: 210</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47660954">
-          <h3>
-            <a
-              class="item"
-              href="https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/"
-              >German police name alleged leaders of GandCrab and REvil
-              ransomware groups</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-06 @ 13:52:37</span
-              ><span class="points-container"
-                >Points: <span class="points">316</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47660954"
-                  >Comments</a
-                ><span class="descendants">: 154</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="47660925">
           <h3>
             <a
@@ -640,32 +764,11 @@
             <h4>
               <span>2026-04-06 @ 13:50:35</span
               ><span class="points-container"
-                >Points: <span class="points">1217</span></span
+                >Points: <span class="points">1250</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47660925"
                   >Comments</a
-                ><span class="descendants">: 655</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47660286">
-          <h3>
-            <a
-              class="item"
-              href="https://belief.horse/notes/what-being-ripped-off-taught-me/"
-              >What being ripped off taught me</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-06 @ 12:53:41</span
-              ><span class="points-container"
-                >Points: <span class="points">435</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47660286"
-                  >Comments</a
-                ><span class="descendants">: 211</span></span
+                ><span class="descendants">: 685</span></span
               >
             </h4>
           </section>
@@ -682,32 +785,11 @@
             <h4>
               <span>2026-04-06 @ 10:36:57</span
               ><span class="points-container"
-                >Points: <span class="points">1635</span></span
+                >Points: <span class="points">1761</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47659135"
                   >Comments</a
-                ><span class="descendants">: 674</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47641528">
-          <h3>
-            <a
-              class="item"
-              href="https://www.curiousmarc.com/space/apollo-guidance-computer"
-              >Apollo Guidance Computer restoration videos</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-04 @ 17:58:55</span
-              ><span class="points-container"
-                >Points: <span class="points">78</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47641528"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 721</span></span
               >
             </h4>
           </section>
@@ -724,121 +806,13 @@
             <h4>
               <span>2026-04-04 @ 17:53:40</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47641472"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47638498">
-          <h3>
-            <a class="item" href="https://adashape.com"
-              >Show HN: AdaShape-3D modeler for intuitive 3D printing parts /
-              Windows 11</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-04 @ 12:33:14</span
-              ><span class="points-container"
-                >Points: <span class="points">25</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47638498"
-                  >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                By humanistic I mean a tool that stays out of your way, instead
-                of requiring the user to learn both a complex UX surface as well
-                as a complex theoretical basis before being able to model
-                effectively. The GUI is uncrowded and the modeling affordances
-                are only those which are intuitive to present to the user. Which
-                is sort of backwards compared to most CAD packages where the
-                technical complexity takes the front stage. Here the hierarchy
-                is intentionally reversed.
-              </p>
-              <p>
-                This is still in alpha-stage, but the features are mature enough
-                for feedback and experimentation.
-              </p>
-              <p>
-                TinkerCAD is actually what comes philosophically closest to
-                this, but it's hobbled either by Autodesk's strategy or by
-                technical limitation to be a really good tool beyond certain
-                complexity.
-              </p>
-              <p>
-                The ambition here eventually is to provide a tool that has same
-                intuitive capability as building Lego bricks, while not
-                compromising on engineering qualities.
-              </p>
-              <p>
-                The main intent is to make extrusion based modeling operations
-                super easy, to offer robust STL and STEP import and allow
-                complex modeling via boolean operations.
-              </p>
-              <p>
-                The modeling logic is parametric and volume based - the surface
-                presentation is always a discretized water tight triangle mesh.
-              </p>
-              <p>
-                This is the clearest philosophical differentiator to traditional
-                CAD/CAM packages - or visual editors like Blender. Rather than
-                force the user to nurse surface topology at every stage, the
-                modeler will only permit those operations that result in a
-                correct output.
-              </p>
-              <p>
-                This is not an SDF (signed distance field) modeler. The domain
-                model is fully based on parametric analytic shapes. This means
-                the tessellation is crisp and specific.
-              </p>
-              <p>
-                The modeling data is immutable and serialized to disk while
-                modeling. For the user this gives a perfect undo and zero data
-                loss.
-              </p>
-              <p>
-                It's built for efficiency first - my test workhorse is a
-                Thinkpad T14 Gen 2 i5 with an integrated gpu.
-              </p>
-              <p>
-                It's not supposed to be a replacement for complex surface design
-                tools like Fusion 360 or sculpting software like Nomad Sculpt or
-                Z Brush.
-              </p>
-              <p>
-                You can find a review of current features in the youtube
-                playlist linked below [0] and the link to the latest alpha 0.1.7
-                download from the homepage [1]. The test binary is provided via
-                github release [2] but this is not an open source project.
-              </p>
-              <p>
-                I know some people hate videos over reading and I'm one of you
-                but I don't really have bandwidth to both develop features and
-                write good instruction copy.
-              </p>
-              <p>
-                [0]
-                <a
-                  href="https://www.youtube.com/playlist?list=PLCOf_M8a2MZJqgKXgjod2px0lYOngNfMh"
-                  >https://www.youtube.com/playlist?list=PLCOf_M8a2MZJqgKXgjod2...</a
-                >
-              </p>
-              <p>[1] <a href="https://adashape.com">https://adashape.com</a></p>
-              <p>
-                [2]
-                <a
-                  href="https://github.com/AdaShape/adashape-open-testing/releases/tag/adashape-alpha-0.1.7"
-                  >https://github.com/AdaShape/adashape-open-testing/releases/t...</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="47627217">
@@ -853,11 +827,11 @@
             <h4>
               <span>2026-04-03 @ 14:42:28</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47627217"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -872,7 +846,7 @@
             <h4>
               <span>2026-04-03 @ 13:06:27</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47626242"
                   >Comments</a
@@ -894,11 +868,33 @@
             <h4>
               <span>2026-04-02 @ 17:05:36</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47617103"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47616475">
+          <h3>
+            <a
+              class="item"
+              href="https://rarehistoricalphotos.com/kursk-submarine-disaster-photos/"
+              >Haunting Photos Show the Aftermath of the Kursk Submarine
+              Disaster in 2000</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-02 @ 16:18:42</span
+              ><span class="points-container"
+                >Points: <span class="points">86</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47616475"
+                  >Comments</a
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -915,11 +911,11 @@
             <h4>
               <span>2026-04-02 @ 13:53:55</span
               ><span class="points-container"
-                >Points: <span class="points">238</span></span
+                >Points: <span class="points">279</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47614528"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
