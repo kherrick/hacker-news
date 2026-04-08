@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-04-08, 06:34:54",
-      "https://news.ycombinator.com/item?id=47686187"
+      "2026-04-08, 06:01:00",
+      "https://news.ycombinator.com/item?id=47685945"
     ],
     [
-      "Sonnet 4.6 Elevated Rate of Errors",
-      "https://status.claude.com/incidents/lhws0phdvzz3"
+      "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two",
+      "https://blog.railway.com/p/moving-railways-frontend-off-nextjs"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Protect your shed",
       "https://dylanbutler.dev/blog/protect-your-shed/"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 03:02:56",
-      "https://news.ycombinator.com/item?id=47684506"
-    ],
-    [
-      "LLM scraper bots are overloading acme.com's HTTPS server",
-      "http://acme.com/updates/archive/229.html"
     ]
   ],
   [
@@ -67,6 +57,16 @@
     [
       "US and Iran agree to provisional ceasefire",
       "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 20:56:23",
+      "https://news.ycombinator.com/item?id=47681274"
+    ],
+    [
+      "Bitcoin and quantum computing",
+      "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2026-04-07, 14:24:30",
+      "https://news.ycombinator.com/item?id=47675893"
+    ],
+    [
+      "A blind man made it possible for others with low vision to build Lego sets",
+      "https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4"
+    ]
+  ],
+  [
+    [
       "2026-04-07, 14:07:34",
       "https://news.ycombinator.com/item?id=47675625"
     ],
@@ -181,12 +191,12 @@
   ],
   [
     [
-      "2026-04-07, 11:07:44",
-      "https://news.ycombinator.com/item?id=47673360"
+      "2026-04-07, 08:48:17",
+      "https://news.ycombinator.com/item?id=47672362"
     ],
     [
-      "Show HN: Brutalist Concrete Laptop Stand (2024)",
-      "https://sam-burns.com/posts/concrete-laptop-stand/"
+      "An Arctic Road Trip Brings Vital Underground Networks into View",
+      "https://www.quantamagazine.org/an-arctic-road-trip-brings-vital-underground-networks-into-view-20260406/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "How to get better at guitar",
       "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/"
-    ]
-  ],
-  [
-    [
-      "2026-04-04, 21:44:55",
-      "https://news.ycombinator.com/item?id=47643779"
-    ],
-    [
-      "ACE on a USB-HDMI Adapter",
-      "https://blazelight.dev/blog/ms2160.mdx"
     ]
   ],
   [
