@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
+* [2026-04-08, 12:56:58](https://news.ycombinator.com/item?id=47689550) - [LLM plays an 8-bit Commander X16 game using structured \"smart senses\"](https://pvp-ai.russell-harper.com)
+* [2026-04-08, 12:26:14](https://news.ycombinator.com/item?id=47689237) - [US cities are axing Flock Safety surveillance technology](https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/)
+* [2026-04-08, 12:19:00](https://news.ycombinator.com/item?id=47689174) - [MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU](https://arxiv.org/abs/2604.05091)
+* [2026-04-08, 12:17:57](https://news.ycombinator.com/item?id=47689165) - [Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS](https://github.com/pcruz1905/hls-restream-proxy)
 * [2026-04-08, 11:55:08](https://news.ycombinator.com/item?id=47688947) - [Trier OS – Industrial Operating System](https://github.com/DougTrier/trier-os)
+* [2026-04-08, 11:20:50](https://news.ycombinator.com/item?id=47688678) - [They're Made Out of Meat (1991)](http://www.terrybisson.com/theyre-made-out-of-meat-2/)
 * [2026-04-08, 09:41:56](https://news.ycombinator.com/item?id=47687755) - [Struggle Against the Gods](https://firstthings.com/struggle-against-the-gods/)
 * [2026-04-08, 09:21:38](https://news.ycombinator.com/item?id=47687533) - [I've Sold Out](https://mariozechner.at/posts/2026-04-08-ive-sold-out/)
 * [2026-04-08, 09:13:17](https://news.ycombinator.com/item?id=47687464) - [Mario and Earendil](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/)
