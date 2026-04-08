@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-04-08, 19:23:34",
+      "https://news.ycombinator.com/item?id=47695012"
+    ],
+    [
+      "USB for Software Developers: An introduction to writing userspace USB drivers",
+      "https://werwolv.net/posts/usb_for_sw_devs/"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 19:21:41",
+      "https://news.ycombinator.com/item?id=47694983"
+    ],
+    [
+      "Expanding Swift's IDE Support",
+      "https://swift.org/blog/expanding-swift-ide-support/"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 18:13:22",
       "https://news.ycombinator.com/item?id=47694093"
     ],
     [
-      "One item purchased, Ten emails",
+      "One item purchased, ten emails",
       "https://joshghent.com/online-shopping/"
     ]
   ],
@@ -15,8 +35,18 @@
       "https://news.ycombinator.com/item?id=47694036"
     ],
     [
-      "Show HN: Orange Juice – Small UX improvements that make HN much easier to read",
+      "Show HN: Orange Juice – Small UX improvements that make HN easier to read",
       "http://oj-hn.com/"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 17:44:25",
+      "https://news.ycombinator.com/item?id=47693679"
+    ],
+    [
+      "I've been waiting over a month for Anthropic support to respond",
+      "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47693153"
     ],
     [
-      "Understanding the Kalman Filter with a Simple Radar Example",
+      "Understanding the Kalman filter with a simple radar example",
       "https://kalmanfilter.net"
     ]
   ],
@@ -51,21 +81,11 @@
   ],
   [
     [
-      "2026-04-08, 16:05:54",
-      "https://news.ycombinator.com/item?id=47692102"
-    ],
-    [
-      "Muse Spark – Meta Superintelligence Labs",
-      "https://meta.ai/"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 16:01:32",
       "https://news.ycombinator.com/item?id=47692043"
     ],
     [
-      "Muse Spark: Scaling Towards Personal Superintelligence",
+      "Muse Spark: Scaling towards personal superintelligence",
       "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1"
     ]
   ],
@@ -75,18 +95,8 @@
       "https://news.ycombinator.com/item?id=47691730"
     ],
     [
-      "I Ported Mac OS X to the Nintendo Wii",
+      "I ported Mac OS X to the Nintendo Wii",
       "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 15:00:12",
-      "https://news.ycombinator.com/item?id=47691174"
-    ],
-    [
-      "Show HN: Explore the Silk Roads through an interactive map",
-      "https://www.intofarlands.com/silk-roads-map"
     ]
   ],
   [
@@ -111,6 +121,26 @@
   ],
   [
     [
+      "2026-04-08, 13:06:33",
+      "https://news.ycombinator.com/item?id=47689648"
+    ],
+    [
+      "ML promises to be profoundly weird",
+      "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 12:34:38",
+      "https://news.ycombinator.com/item?id=47689319"
+    ],
+    [
+      "Show HN: Skrun – Deploy any agent skill as an API",
+      "https://github.com/skrun-dev/skrun"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 12:26:14",
       "https://news.ycombinator.com/item?id=47689237"
     ],
@@ -131,21 +161,11 @@
   ],
   [
     [
-      "2026-04-08, 12:17:57",
-      "https://news.ycombinator.com/item?id=47689165"
-    ],
-    [
-      "Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",
-      "https://github.com/pcruz1905/hls-restream-proxy"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 11:20:50",
       "https://news.ycombinator.com/item?id=47688678"
     ],
     [
-      "They're Made Out of Meat (1991)",
+      "They're made out of meat (1991)",
       "http://www.terrybisson.com/theyre-made-out-of-meat-2/"
     ]
   ],
@@ -201,26 +221,6 @@
   ],
   [
     [
-      "2026-04-08, 03:03:33",
-      "https://news.ycombinator.com/item?id=47684514"
-    ],
-    [
-      "Protect your shed",
-      "https://dylanbutler.dev/blog/protect-your-shed/"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 18:18:36",
-      "https://news.ycombinator.com/item?id=47679258"
-    ],
-    [
-      "System Card: Claude Mythos Preview [pdf]",
-      "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf"
-    ]
-  ],
-  [
-    [
       "2026-04-07, 15:07:45",
       "https://news.ycombinator.com/item?id=47676561"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-04-06, 13:58:58",
-      "https://news.ycombinator.com/item?id=47661038"
+      "2026-04-07, 12:57:25",
+      "https://news.ycombinator.com/item?id=47674606"
     ],
     [
-      "Show HN: I built a navigation app that displays weather along the route",
-      "https://navimodo.com/"
+      "Show HN: Unicode Steganography",
+      "https://steganography.patrickvuscan.com"
     ]
   ],
   [
@@ -257,16 +257,6 @@
     [
       "Understanding Traceroute",
       "https://tech.stonecharioteer.com/posts/2026/traceroute/"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 03:06:16",
-      "https://news.ycombinator.com/item?id=47656518"
-    ],
-    [
-      "Your File System Is Already A Graph Database",
-      "https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Union types in C# 15",
       "https://devblogs.microsoft.com/dotnet/csharp-15-union-types/"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 02:49:17",
+      "https://news.ycombinator.com/item?id=47622717"
+    ],
+    [
+      "Science confirms torpedo [baseball] bat works as well as regular bat",
+      "https://news.wsu.edu/press-release/2026/04/02/science-confirms-torpedo-bat-works-as-well-as-regular-bat/"
     ]
   ]
 ]
