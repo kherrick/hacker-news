@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-04-08, 18:13:22",
+      "https://news.ycombinator.com/item?id=47694093"
+    ],
+    [
+      "One item purchased, Ten emails",
+      "https://joshghent.com/online-shopping/"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 18:08:52",
+      "https://news.ycombinator.com/item?id=47694036"
+    ],
+    [
+      "Show HN: Orange Juice – Small UX improvements that make HN much easier to read",
+      "http://oj-hn.com/"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 17:11:46",
       "https://news.ycombinator.com/item?id=47693153"
     ],
     [
       "Understanding the Kalman Filter with a Simple Radar Example",
       "https://kalmanfilter.net"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 17:04:40",
+      "https://news.ycombinator.com/item?id=47693047"
+    ],
+    [
+      "Claude Managed Agents",
+      "https://claude.com/blog/claude-managed-agents"
     ]
   ],
   [
@@ -71,32 +101,12 @@
   ],
   [
     [
-      "2026-04-08, 14:44:23",
-      "https://news.ycombinator.com/item?id=47690950"
-    ],
-    [
-      "Show HN: BAREmail ʕ·ᴥ·ʔ – minimalist Gmail client for bad WiFi",
-      "https://github.com/matt-virgo/baremail"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 14:33:30",
       "https://news.ycombinator.com/item?id=47690797"
     ],
     [
       "Show HN: Go-Bt: Minimalist Behavior Trees for Go",
       "https://github.com/rvitorper/go-bt"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 13:06:33",
-      "https://news.ycombinator.com/item?id=47689648"
-    ],
-    [
-      "The Future of Everything Is Lies, I Guess",
-      "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-04-07, 13:43:04",
-      "https://news.ycombinator.com/item?id=47675271"
-    ],
-    [
-      "A Digital Compute-in-Memory Architecture for NFA Evaluation",
-      "https://dl.acm.org/doi/10.1145/3716368.3735157"
-    ]
-  ],
-  [
-    [
       "2026-04-06, 13:58:58",
       "https://news.ycombinator.com/item?id=47661038"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-04-06, 05:08:20",
-      "https://news.ycombinator.com/item?id=47657204"
+      "2026-04-06, 03:40:31",
+      "https://news.ycombinator.com/item?id=47656730"
     ],
     [
-      "Show HN: We built a camera only robot vacuum for less than 300$ (Well almost)",
-      "https://indraneelpatil.github.io/blog/2026/robot-vacuum/"
+      "Understanding Traceroute",
+      "https://tech.stonecharioteer.com/posts/2026/traceroute/"
     ]
   ],
   [
