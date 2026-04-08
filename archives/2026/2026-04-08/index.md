@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
 * [2026-04-08, 06:34:54](https://news.ycombinator.com/item?id=47686187) - [Sonnet 4.6 Elevated Rate of Errors](https://status.claude.com/incidents/lhws0phdvzz3)
+* [2026-04-08, 06:01:00](https://news.ycombinator.com/item?id=47685945) - [We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two](https://blog.railway.com/p/moving-railways-frontend-off-nextjs)
 * [2026-04-08, 05:34:08](https://news.ycombinator.com/item?id=47685739) - [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s)
 * [2026-04-08, 03:03:33](https://news.ycombinator.com/item?id=47684514) - [Protect Your Shed](https://dylanbutler.dev/blog/protect-your-shed/)
 * [2026-04-08, 03:02:56](https://news.ycombinator.com/item?id=47684506) - [LLM scraper bots are overloading acme.com's HTTPS server](http://acme.com/updates/archive/229.html)

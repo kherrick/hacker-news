@@ -57,6 +57,7 @@
 * [2026-04-07, 10:08:25](https://news.ycombinator.com/item?id=47672884) - [Identify a London Underground Line just by listening to it](https://tubesoundquiz.com/)
 * [2026-04-07, 09:57:39](https://news.ycombinator.com/item?id=47672818) - [Are We Idiocracy Yet?](https://idiocracy.wtf/)
 * [2026-04-07, 09:51:28](https://news.ycombinator.com/item?id=47672778) - [Breaking the console: a brief history of video game security](https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/)
+* [2026-04-07, 08:48:17](https://news.ycombinator.com/item?id=47672362) - [An Arctic Road Trip Brings Vital Underground Networks into View](https://www.quantamagazine.org/an-arctic-road-trip-brings-vital-underground-networks-into-view-20260406/)
 * [2026-04-07, 08:42:05](https://news.ycombinator.com/item?id=47672318) - [Blackholing My Email](https://www.johnsto.co.uk/blog/blackholing-my-email/)
 * [2026-04-07, 08:38:17](https://news.ycombinator.com/item?id=47672295) - [Every GPU That Mattered](https://sheets.works/data-viz/every-gpu)
 * [2026-04-07, 06:45:08](https://news.ycombinator.com/item?id=47671527) - [Some iPhone Apps Receive Mysterious Update 'From Apple'](https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/)
