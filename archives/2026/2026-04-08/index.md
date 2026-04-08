@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
+* [2026-04-08, 19:23:34](https://news.ycombinator.com/item?id=47695012) - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
+* [2026-04-08, 19:21:41](https://news.ycombinator.com/item?id=47694983) - [Expanding Swift's IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
 * [2026-04-08, 18:13:22](https://news.ycombinator.com/item?id=47694093) - [One item purchased, Ten emails](https://joshghent.com/online-shopping/)
 * [2026-04-08, 18:08:52](https://news.ycombinator.com/item?id=47694036) - [Show HN: Orange Juice – Small UX improvements that make HN much easier to read](http://oj-hn.com/)
+* [2026-04-08, 17:44:25](https://news.ycombinator.com/item?id=47693679) - [I've been waiting over a month for Anthropic support to respond](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)
 * [2026-04-08, 17:11:46](https://news.ycombinator.com/item?id=47693153) - [Understanding the Kalman Filter with a Simple Radar Example](https://kalmanfilter.net)
 * [2026-04-08, 17:04:40](https://news.ycombinator.com/item?id=47693047) - [Claude Managed Agents](https://claude.com/blog/claude-managed-agents)
 * [2026-04-08, 16:41:16](https://news.ycombinator.com/item?id=47692661) - [Show HN: TUI-use: Let AI agents control interactive terminal programs](https://github.com/onesuper/tui-use)
@@ -20,6 +23,7 @@
 * [2026-04-08, 14:06:03](https://news.ycombinator.com/item?id=47690415) - [Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters](https://rival.tips/research/model-similarity)
 * [2026-04-08, 13:06:33](https://news.ycombinator.com/item?id=47689648) - [The Future of Everything Is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess)
 * [2026-04-08, 12:56:58](https://news.ycombinator.com/item?id=47689550) - [LLM plays an 8-bit Commander X16 game using structured \"smart senses\"](https://pvp-ai.russell-harper.com)
+* [2026-04-08, 12:34:38](https://news.ycombinator.com/item?id=47689319) - [Show HN: Skrun – Deploy any agent skill as an API](https://github.com/skrun-dev/skrun)
 * [2026-04-08, 12:26:14](https://news.ycombinator.com/item?id=47689237) - [US cities are axing Flock Safety surveillance technology](https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/)
 * [2026-04-08, 12:19:00](https://news.ycombinator.com/item?id=47689174) - [MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU](https://arxiv.org/abs/2604.05091)
 * [2026-04-08, 12:17:57](https://news.ycombinator.com/item?id=47689165) - [Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS](https://github.com/pcruz1905/hls-restream-proxy)

@@ -77,6 +77,7 @@
 * [2026-04-03, 08:15:12](https://news.ycombinator.com/item?id=47624317) - [New Rowhammer attacks give complete control of machines running Nvidia GPUs](https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/)
 * [2026-04-03, 04:09:50](https://news.ycombinator.com/item?id=47623101) - [A Rave Review of Superpowers (For Claude Code)](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/)
 * [2026-04-03, 04:00:56](https://news.ycombinator.com/item?id=47623053) - [Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)](https://mehuleo.github.io/encircle/)
+* [2026-04-03, 02:49:17](https://news.ycombinator.com/item?id=47622717) - [Science confirms torpedo [baseball] bat works as well as regular bat](https://news.wsu.edu/press-release/2026/04/02/science-confirms-torpedo-bat-works-as-well-as-regular-bat/)
 * [2026-04-03, 02:29:22](https://news.ycombinator.com/item?id=47622616) - [The Technocracy Movement of the 1930s](https://donotresearch.substack.com/p/welcome-to-the-technocracy)
 * [2026-04-03, 02:05:20](https://news.ycombinator.com/item?id=47622490) - [The open web isn't dying. We're killing it](https://ouvre-boite.com/the-open-web-isnt-dying-were-killing-it/)
 * [2026-04-03, 01:53:15](https://news.ycombinator.com/item?id=47622436) - [Slightly safer vibecoding by adopting old hacker habits](http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html)
