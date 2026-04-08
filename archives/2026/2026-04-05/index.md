@@ -67,6 +67,7 @@
 * [2026-04-05, 08:43:18](https://news.ycombinator.com/item?id=47647397) - [Build web apps for smart glasses](https://hub.evenrealities.com/docs/getting-started/overview)
 * [2026-04-05, 07:01:45](https://news.ycombinator.com/item?id=47646871) - [Dynamics of (Not) Being Perceived: Grief and Relief After Leaving Social Media](https://networkcultures.org/thedigitalgutmensch/2026/04/02/dynamics-of-not-being-perceived-the-grief-relief-after-leaving-social-media/)
 * [2026-04-05, 06:57:19](https://news.ycombinator.com/item?id=47646843) - [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)
+* [2026-04-05, 06:25:30](https://news.ycombinator.com/item?id=47646646) - [What Does ⍋⍋ Even Mean?](https://blog.wilsonb.com/posts/2023-08-04-what-does-grade-grade-even-mean.html)
 * [2026-04-05, 06:12:30](https://news.ycombinator.com/item?id=47646566) - [Unverified: What Practitioners Post About OCR, Agents, and Tables](https://idp-software.com/news/idp-accuracy-reckoning-2026/)
 * [2026-04-05, 05:58:22](https://news.ycombinator.com/item?id=47646504) - [Show HN: OsintRadar – Curated directory for osint tools](https://osintradar.com/)
 * [2026-04-05, 05:50:04](https://news.ycombinator.com/item?id=47646472) - [Aegis – open-source FPGA silicon](https://github.com/MidstallSoftware/aegis)

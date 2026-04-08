@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
+* [2026-04-08, 20:46:27](https://news.ycombinator.com/item?id=47696035) - [John Deere to Pay $99M in Monumental Right-to-Repair Settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)
 * [2026-04-08, 20:10:51](https://news.ycombinator.com/item?id=47695647) - [The AI Great Leap Forward](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
 * [2026-04-08, 19:23:34](https://news.ycombinator.com/item?id=47695012) - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
 * [2026-04-08, 19:21:41](https://news.ycombinator.com/item?id=47694983) - [Expanding Swift's IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
@@ -39,6 +40,7 @@
 * [2026-04-08, 06:34:54](https://news.ycombinator.com/item?id=47686187) - [Sonnet 4.6 Elevated Rate of Errors](https://status.claude.com/incidents/lhws0phdvzz3)
 * [2026-04-08, 06:01:00](https://news.ycombinator.com/item?id=47685945) - [We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two](https://blog.railway.com/p/moving-railways-frontend-off-nextjs)
 * [2026-04-08, 05:34:08](https://news.ycombinator.com/item?id=47685739) - [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s)
+* [2026-04-08, 04:37:57](https://news.ycombinator.com/item?id=47685320) - [Who is Satoshi nakamoto? My quest to unmask Bitcoin's creator](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 * [2026-04-08, 03:03:33](https://news.ycombinator.com/item?id=47684514) - [Protect Your Shed](https://dylanbutler.dev/blog/protect-your-shed/)
 * [2026-04-08, 03:02:56](https://news.ycombinator.com/item?id=47684506) - [LLM scraper bots are overloading acme.com's HTTPS server](http://acme.com/updates/archive/229.html)
 * [2026-04-08, 02:41:12](https://news.ycombinator.com/item?id=47684326) - [OpenAI says its new model GPT-2 is too dangerous to release (2019)](https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html)
