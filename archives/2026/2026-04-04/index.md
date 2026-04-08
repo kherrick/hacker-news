@@ -10,6 +10,7 @@
 * [2026-04-04, 22:57:44](https://news.ycombinator.com/item?id=47644406) - [German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/)
 * [2026-04-04, 21:44:55](https://news.ycombinator.com/item?id=47643779) - [ACE on a USB→HDMI Adapter](https://blazelight.dev/blog/ms2160.mdx)
 * [2026-04-04, 21:28:01](https://news.ycombinator.com/item?id=47643620) - [Seat Pricing Is Dead](http://seatpricing.rip/)
+* [2026-04-04, 21:00:56](https://news.ycombinator.com/item?id=47643326) - [Hobby CNC machining and resin casting (2015)](https://lcamtuf.coredump.cx/gcnc/)
 * [2026-04-04, 20:48:56](https://news.ycombinator.com/item?id=47643217) - [Microsoft to force updates to Windows 11 25H2 for PCs with older OS versions](https://www.tomshardware.com/software/windows/microsoft-forces-updates-to-windows-11-25h2-update-for-pcs-running-on-24h2)
 * [2026-04-04, 19:43:54](https://news.ycombinator.com/item?id=47642601) - [Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown](https://static.laszlokorte.de/escher/)
 * [2026-04-04, 19:39:43](https://news.ycombinator.com/item?id=47642569) - [How many products does Microsoft have named 'Copilot'? I mapped every one](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)

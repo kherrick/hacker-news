@@ -60,6 +60,7 @@
 * [2026-04-06, 07:56:34](https://news.ycombinator.com/item?id=47658104) - [The Image Boards of Hayao Miyazaki](https://animationobsessive.substack.com/p/the-image-boards-of-hayao-miyazaki)
 * [2026-04-06, 06:49:42](https://news.ycombinator.com/item?id=47657699) - [SideX – A Tauri-based port of Visual Studio Code](https://github.com/Sidenai/sidex)
 * [2026-04-06, 05:22:24](https://news.ycombinator.com/item?id=47657268) - [A truck driver spent 20 years making a scale model of every building in NYC](https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/)
+* [2026-04-06, 05:08:20](https://news.ycombinator.com/item?id=47657204) - [Show HN: We built a camera only robot vacuum for less than 300$ (Well almost)](https://indraneelpatil.github.io/blog/2026/robot-vacuum/)
 * [2026-04-06, 04:24:49](https://news.ycombinator.com/item?id=47656981) - [Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair](https://drop.com/)
 * [2026-04-06, 03:45:07](https://news.ycombinator.com/item?id=47656758) - [Make your own ColecoVision at home, part 5](https://www.leadedsolder.com/2026/03/24/colecovision-diy-part-5.html)
 * [2026-04-06, 03:32:23](https://news.ycombinator.com/item?id=47656682) - [Winners of the 2026 Kokuyo Design Awards](https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/)
