@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-08, 17:11:46",
+      "https://news.ycombinator.com/item?id=47693153"
+    ],
+    [
+      "Understanding the Kalman Filter with a Simple Radar Example",
+      "https://kalmanfilter.net"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 16:41:16",
+      "https://news.ycombinator.com/item?id=47692661"
+    ],
+    [
+      "Show HN: TUI-use: Let AI agents control interactive terminal programs",
+      "https://github.com/onesuper/tui-use"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 16:05:54",
       "https://news.ycombinator.com/item?id=47692102"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2026-04-08, 14:06:48",
-      "https://news.ycombinator.com/item?id=47690434"
-    ],
-    [
-      "Iran demands Bitcoin fees for ships passing Hormuz during ceasefire",
-      "https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 13:06:33",
       "https://news.ycombinator.com/item?id=47689648"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-04-08, 09:13:17",
-      "https://news.ycombinator.com/item?id=47687464"
-    ],
-    [
-      "Mario and Earendil",
-      "https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 08:53:42",
       "https://news.ycombinator.com/item?id=47687273"
     ],
@@ -167,6 +167,16 @@
     [
       "Veracrypt project update",
       "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 06:01:00",
+      "https://news.ycombinator.com/item?id=47685945"
+    ],
+    [
+      "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2",
+      "https://blog.railway.com/p/moving-railways-frontend-off-nextjs"
     ]
   ],
   [
@@ -201,36 +211,6 @@
   ],
   [
     [
-      "2026-04-07, 18:09:34",
-      "https://news.ycombinator.com/item?id=47679121"
-    ],
-    [
-      "Project Glasswing: Securing critical software for the AI era",
-      "https://www.anthropic.com/glasswing"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 17:23:43",
-      "https://news.ycombinator.com/item?id=47678573"
-    ],
-    [
-      "Cambodia unveils statue to honour famous landmine-sniffing rat",
-      "https://www.bbc.com/news/articles/c0rx7xzd10xo"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 16:32:15",
-      "https://news.ycombinator.com/item?id=47677853"
-    ],
-    [
-      "GLM-5.1: Towards Long-Horizon Tasks",
-      "https://z.ai/blog/glm-5.1"
-    ]
-  ],
-  [
-    [
       "2026-04-07, 15:07:45",
       "https://news.ycombinator.com/item?id=47676561"
     ],
@@ -241,22 +221,22 @@
   ],
   [
     [
-      "2026-04-07, 15:03:18",
-      "https://news.ycombinator.com/item?id=47676509"
-    ],
-    [
-      "Lunar Flyby",
-      "https://www.nasa.gov/gallery/lunar-flyby/"
-    ]
-  ],
-  [
-    [
       "2026-04-07, 13:55:14",
       "https://news.ycombinator.com/item?id=47675446"
     ],
     [
       "Audio Reactive LED Strips Are Diabolically Hard",
       "https://scottlawsonbc.com/post/audio-led"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 13:43:04",
+      "https://news.ycombinator.com/item?id=47675271"
+    ],
+    [
+      "A Digital Compute-in-Memory Architecture for NFA Evaluation",
+      "https://dl.acm.org/doi/10.1145/3716368.3735157"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2026-04-05, 21:30:19",
+      "https://news.ycombinator.com/item?id=47654062"
+    ],
+    [
+      "Ask HN: Any interesting niche hobbies?",
+      "https://news.ycombinator.com/item?id=47654062"
+    ]
+  ],
+  [
+    [
       "2026-04-05, 11:28:12",
       "https://news.ycombinator.com/item?id=47648307"
     ],
     [
       "Virtual Mars Traverse: Every inch of Curiosity rover's path since 2012 landing",
       "https://www.rovers.land/"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 02:53:07",
+      "https://news.ycombinator.com/item?id=47645717"
+    ],
+    [
+      "Union types in C# 15",
+      "https://devblogs.microsoft.com/dotnet/csharp-15-union-types/"
     ]
   ]
 ]
