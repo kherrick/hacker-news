@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
+* [2026-04-08, 09:41:56](https://news.ycombinator.com/item?id=47687755) - [Struggle Against the Gods](https://firstthings.com/struggle-against-the-gods/)
+* [2026-04-08, 09:21:38](https://news.ycombinator.com/item?id=47687533) - [I've Sold Out](https://mariozechner.at/posts/2026-04-08-ive-sold-out/)
 * [2026-04-08, 08:53:42](https://news.ycombinator.com/item?id=47687273) - [The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/)
 * [2026-04-08, 08:50:37](https://news.ycombinator.com/item?id=47687248) - [Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones](https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/)
 * [2026-04-08, 07:23:39](https://news.ycombinator.com/item?id=47686549) - [Veracrypt Project Update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)
