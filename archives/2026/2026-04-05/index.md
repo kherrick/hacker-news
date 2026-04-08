@@ -72,6 +72,7 @@
 * [2026-04-05, 03:55:10](https://news.ycombinator.com/item?id=47645976) - [AI that copied musical artist files copyright claim against that artist](https://twitter.com/VladTheInflator/status/2039577001531768906)
 * [2026-04-05, 03:15:20](https://news.ycombinator.com/item?id=47645810) - [AGI Is Here](https://breaking-changes.blog/agi-is-here/)
 * [2026-04-05, 02:53:21](https://news.ycombinator.com/item?id=47645719) - [Show HN: mailtrim – find what's actually filling your Gmail inbox](https://news.ycombinator.com/item?id=47645719)
+* [2026-04-05, 02:53:07](https://news.ycombinator.com/item?id=47645717) - [Explore union types in C# 15](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/)
 * [2026-04-05, 02:01:31](https://news.ycombinator.com/item?id=47645468) - [Writing Lisp Is AI Resistant and I'm Sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 * [2026-04-05, 01:54:29](https://news.ycombinator.com/item?id=47645432) - [Introduction to Computer Music [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
 * [2026-04-05, 01:32:28](https://news.ycombinator.com/item?id=47645305) - [Demonstrating Real Time AV2 Decoding on Consumer Laptops](http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/)
