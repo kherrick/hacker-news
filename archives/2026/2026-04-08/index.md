@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
+* [2026-04-08, 16:05:54](https://news.ycombinator.com/item?id=47692102) - [Muse Spark – Meta Superintelligence Labs](https://meta.ai/)
+* [2026-04-08, 16:01:32](https://news.ycombinator.com/item?id=47692043) - [Muse Spark: Scaling Towards Personal Superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1)
+* [2026-04-08, 15:40:00](https://news.ycombinator.com/item?id=47691730) - [I Ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
 * [2026-04-08, 15:00:12](https://news.ycombinator.com/item?id=47691174) - [Show HN: Explore the Silk Roads through an interactive map](https://www.intofarlands.com/silk-roads-map)
 * [2026-04-08, 14:46:15](https://news.ycombinator.com/item?id=47690977) - [Microsoft Abruptly Terminates VeraCrypt Account, Halting Windows Updates](https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/)
+* [2026-04-08, 14:44:23](https://news.ycombinator.com/item?id=47690950) - [Show HN: BAREmail ʕ·ᴥ·ʔ – minimalist Gmail client for bad WiFi](https://github.com/matt-virgo/baremail)
 * [2026-04-08, 14:33:30](https://news.ycombinator.com/item?id=47690797) - [Show HN: Go-Bt: Minimalist Behavior Trees for Go](https://github.com/rvitorper/go-bt)
+* [2026-04-08, 14:06:48](https://news.ycombinator.com/item?id=47690434) - [Iran demands Bitcoin fees for ships passing Hormuz during ceasefire](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 * [2026-04-08, 14:06:03](https://news.ycombinator.com/item?id=47690415) - [Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters](https://rival.tips/research/model-similarity)
 * [2026-04-08, 13:06:33](https://news.ycombinator.com/item?id=47689648) - [The Future of Everything Is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess)
 * [2026-04-08, 12:56:58](https://news.ycombinator.com/item?id=47689550) - [LLM plays an 8-bit Commander X16 game using structured \"smart senses\"](https://pvp-ai.russell-harper.com)
