@@ -66,6 +66,7 @@
 * [2026-04-06, 03:32:23](https://news.ycombinator.com/item?id=47656682) - [Winners of the 2026 Kokuyo Design Awards](https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/)
 * [2026-04-06, 03:28:04](https://news.ycombinator.com/item?id=47656659) - [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304)
 * [2026-04-06, 03:22:42](https://news.ycombinator.com/item?id=47656622) - [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
+* [2026-04-06, 03:06:16](https://news.ycombinator.com/item?id=47656518) - [Your File System Is Already A Graph Database](https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/)
 * [2026-04-06, 03:03:22](https://news.ycombinator.com/item?id=47656501) - [The 1987 game \"The Last Ninja\" was 40 kilobytes](https://twitter.com/exQUIZitely/status/2040777977521398151)
 * [2026-04-06, 02:33:21](https://news.ycombinator.com/item?id=47656335) - [Does coding with LLMs mean more microservices?](https://ben.page/microservices)
 * [2026-04-06, 02:28:40](https://news.ycombinator.com/item?id=47656303) - [Case study: recovery of a corrupted 12 TB multi-device pool](https://github.com/kdave/btrfs-progs/issues/1107)
