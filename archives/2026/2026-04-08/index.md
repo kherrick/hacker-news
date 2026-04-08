@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
+* [2026-04-08, 20:10:51](https://news.ycombinator.com/item?id=47695647) - [The AI Great Leap Forward](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
 * [2026-04-08, 19:23:34](https://news.ycombinator.com/item?id=47695012) - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
 * [2026-04-08, 19:21:41](https://news.ycombinator.com/item?id=47694983) - [Expanding Swift's IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
 * [2026-04-08, 18:13:22](https://news.ycombinator.com/item?id=47694093) - [One item purchased, Ten emails](https://joshghent.com/online-shopping/)

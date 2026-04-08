@@ -55,6 +55,7 @@
 * [2026-04-05, 13:14:36](https://news.ycombinator.com/item?id=47649113) - [Finnish sauna heat exposure induces stronger immune cell than cytokine responses](https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract)
 * [2026-04-05, 12:43:47](https://news.ycombinator.com/item?id=47648828) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
 * [2026-04-05, 12:35:00](https://news.ycombinator.com/item?id=47648744) - [Two Planes Destroyed by U.S. During Rescue Operation](https://www.wsj.com/livecoverage/iran-war-news-2026/card/two-special-operations-mj-130s-destroyed-by-u-s-during-rescue-operation-NbFfOdbvk7dWX1a7ZuW8)
+* [2026-04-05, 12:08:55](https://news.ycombinator.com/item?id=47648538) - [Pgit: I Imported the Linux Kernel into PostgreSQL](https://oseifert.ch/blog/linux-kernel-pgit)
 * [2026-04-05, 12:03:17](https://news.ycombinator.com/item?id=47648499) - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)
 * [2026-04-05, 11:57:25](https://news.ycombinator.com/item?id=47648452) - [Ubuntu now requires more RAM than Windows 11](https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/)
 * [2026-04-05, 11:54:35](https://news.ycombinator.com/item?id=47648438) - [Common drug tests lead to tens of thousands wrongful arrests a year](https://www.cnn.com/2026/04/05/us/colorado-field-drug-test-law)
