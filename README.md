@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-08, 20:46:27](https://news.ycombinator.com/item?id=47696035) - [John Deere to Pay $99M in Monumental Right-to-Repair Settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)
+* [2026-04-08, 21:33:06](https://news.ycombinator.com/item?id=47696562) - [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
+* [2026-04-08, 20:46:27](https://news.ycombinator.com/item?id=47696035) - [John Deere to pay $99M in right-to-repair settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)
 * [2026-04-08, 19:23:34](https://news.ycombinator.com/item?id=47695012) - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
 * [2026-04-08, 19:21:41](https://news.ycombinator.com/item?id=47694983) - [Expanding Swift's IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
 * [2026-04-08, 18:08:52](https://news.ycombinator.com/item?id=47694036) - [Show HN: Orange Juice – Small UX improvements that make HN easier to read](http://oj-hn.com/)
@@ -20,16 +21,15 @@
 * [2026-04-08, 07:23:39](https://news.ycombinator.com/item?id=47686549) - [Veracrypt project update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)
 * [2026-04-08, 06:01:00](https://news.ycombinator.com/item?id=47685945) - [We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2](https://blog.railway.com/p/moving-railways-frontend-off-nextjs)
 * [2026-04-08, 05:34:08](https://news.ycombinator.com/item?id=47685739) - [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s)
-* [2026-04-08, 04:37:57](https://news.ycombinator.com/item?id=47685320) - [Who is Satoshi nakamoto? My quest to unmask Bitcoin's creator](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+* [2026-04-08, 04:37:57](https://news.ycombinator.com/item?id=47685320) - [Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 * [2026-04-07, 15:07:45](https://news.ycombinator.com/item?id=47676561) - [Teardown of unreleased LG Rollable shows why rollable phones aren't a thing](https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/)
 * [2026-04-07, 13:55:14](https://news.ycombinator.com/item?id=47675446) - [Audio Reactive LED Strips Are Diabolically Hard](https://scottlawsonbc.com/post/audio-led)
 * [2026-04-07, 12:57:25](https://news.ycombinator.com/item?id=47674606) - [Show HN: Unicode Steganography](https://steganography.patrickvuscan.com)
 * [2026-04-06, 03:40:31](https://news.ycombinator.com/item?id=47656730) - [Understanding Traceroute](https://tech.stonecharioteer.com/posts/2026/traceroute/)
 * [2026-04-05, 21:30:19](https://news.ycombinator.com/item?id=47654062) - [Ask HN: Any interesting niche hobbies?](https://news.ycombinator.com/item?id=47654062)
 * [2026-04-05, 12:08:55](https://news.ycombinator.com/item?id=47648538) - [Pgit: I Imported the Linux Kernel into PostgreSQL](https://oseifert.ch/blog/linux-kernel-pgit)
-* [2026-04-05, 06:25:30](https://news.ycombinator.com/item?id=47646646) - [What Does ⍋⍋ Even Mean?](https://blog.wilsonb.com/posts/2023-08-04-what-does-grade-grade-even-mean.html)
-* [2026-04-05, 02:53:07](https://news.ycombinator.com/item?id=47645717) - [Union types in C# 15](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/)
-* [2026-04-03, 02:49:17](https://news.ycombinator.com/item?id=47622717) - [Science confirms torpedo bat works as well as regular bat](https://news.wsu.edu/press-release/2026/04/02/science-confirms-torpedo-bat-works-as-well-as-regular-bat/)
+* [2026-04-05, 06:25:30](https://news.ycombinator.com/item?id=47646646) - [What does ⍋⍋ even mean? (2023)](https://blog.wilsonb.com/posts/2023-08-04-what-does-grade-grade-even-mean.html)
+* [2026-04-03, 02:49:17](https://news.ycombinator.com/item?id=47622717) - [Study investigates how mass distribution of baseball bat affects performance](https://news.wsu.edu/press-release/2026/04/02/science-confirms-torpedo-bat-works-as-well-as-regular-bat/)
 
 ## [Archives](archives/index.md)
 

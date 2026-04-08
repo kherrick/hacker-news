@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
+* [2026-04-08, 21:33:06](https://news.ycombinator.com/item?id=47696562) - [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
 * [2026-04-08, 20:46:27](https://news.ycombinator.com/item?id=47696035) - [John Deere to Pay $99M in Monumental Right-to-Repair Settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)
 * [2026-04-08, 20:10:51](https://news.ycombinator.com/item?id=47695647) - [The AI Great Leap Forward](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
 * [2026-04-08, 19:23:34](https://news.ycombinator.com/item?id=47695012) - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
