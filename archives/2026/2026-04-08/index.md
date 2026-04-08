@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
+* [2026-04-08, 18:13:22](https://news.ycombinator.com/item?id=47694093) - [One item purchased, Ten emails](https://joshghent.com/online-shopping/)
+* [2026-04-08, 18:08:52](https://news.ycombinator.com/item?id=47694036) - [Show HN: Orange Juice – Small UX improvements that make HN much easier to read](http://oj-hn.com/)
 * [2026-04-08, 17:11:46](https://news.ycombinator.com/item?id=47693153) - [Understanding the Kalman Filter with a Simple Radar Example](https://kalmanfilter.net)
+* [2026-04-08, 17:04:40](https://news.ycombinator.com/item?id=47693047) - [Claude Managed Agents](https://claude.com/blog/claude-managed-agents)
 * [2026-04-08, 16:41:16](https://news.ycombinator.com/item?id=47692661) - [Show HN: TUI-use: Let AI agents control interactive terminal programs](https://github.com/onesuper/tui-use)
 * [2026-04-08, 16:05:54](https://news.ycombinator.com/item?id=47692102) - [Muse Spark – Meta Superintelligence Labs](https://meta.ai/)
 * [2026-04-08, 16:01:32](https://news.ycombinator.com/item?id=47692043) - [Muse Spark: Scaling Towards Personal Superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1)
