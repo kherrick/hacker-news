@@ -1,32 +1,52 @@
 [
   [
     [
-      "2026-04-08, 11:55:08",
-      "https://news.ycombinator.com/item?id=47688947"
+      "2026-04-08, 12:56:58",
+      "https://news.ycombinator.com/item?id=47689550"
     ],
     [
-      "Trier OS – Industrial Operating System",
-      "https://github.com/DougTrier/trier-os"
+      "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
+      "https://pvp-ai.russell-harper.com"
     ]
   ],
   [
     [
-      "2026-04-08, 09:41:56",
-      "https://news.ycombinator.com/item?id=47687755"
+      "2026-04-08, 12:26:14",
+      "https://news.ycombinator.com/item?id=47689237"
     ],
     [
-      "Struggle Against the Gods",
-      "https://firstthings.com/struggle-against-the-gods/"
+      "US cities are axing Flock Safety surveillance technology",
+      "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/"
     ]
   ],
   [
     [
-      "2026-04-08, 09:21:38",
-      "https://news.ycombinator.com/item?id=47687533"
+      "2026-04-08, 12:19:00",
+      "https://news.ycombinator.com/item?id=47689174"
     ],
     [
-      "I've sold out",
-      "https://mariozechner.at/posts/2026-04-08-ive-sold-out/"
+      "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+      "https://arxiv.org/abs/2604.05091"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 12:17:57",
+      "https://news.ycombinator.com/item?id=47689165"
+    ],
+    [
+      "Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",
+      "https://github.com/pcruz1905/hls-restream-proxy"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 11:20:50",
+      "https://news.ycombinator.com/item?id=47688678"
+    ],
+    [
+      "They're Made Out of Meat (1991)",
+      "http://www.terrybisson.com/theyre-made-out-of-meat-2/"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Git commands I run before reading any code",
       "https://piechowski.io/post/git-commands-before-reading-code/"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 08:50:37",
+      "https://news.ycombinator.com/item?id=47687248"
+    ],
+    [
+      "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+      "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/"
     ]
   ],
   [
@@ -77,26 +107,6 @@
     [
       "Protect your shed",
       "https://dylanbutler.dev/blog/protect-your-shed/"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 23:36:15",
-      "https://news.ycombinator.com/item?id=47682719"
-    ],
-    [
-      "Xilem – An experimental Rust native UI framework",
-      "https://github.com/linebender/xilem"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 22:41:02",
-      "https://news.ycombinator.com/item?id=47682276"
-    ],
-    [
-      "US and Iran agree to provisional ceasefire",
-      "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Cambodia unveils statue to honour famous landmine-sniffing rat",
       "https://www.bbc.com/news/articles/c0rx7xzd10xo"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 16:33:57",
-      "https://news.ycombinator.com/item?id=47677885"
-    ],
-    [
-      "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP",
-      "https://printervention.app/details"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2026-04-05, 22:32:17",
+      "https://news.ycombinator.com/item?id=47654629"
+    ],
+    [
+      "The Harvard Library Passport",
+      "https://fi-le.net/stamps/"
+    ]
+  ],
+  [
+    [
       "2026-04-05, 20:37:55",
       "https://news.ycombinator.com/item?id=47653642"
     ],
@@ -257,16 +267,6 @@
     [
       "Explore union types in C# 15",
       "https://devblogs.microsoft.com/dotnet/csharp-15-union-types/"
-    ]
-  ],
-  [
-    [
-      "2026-04-04, 10:08:31",
-      "https://news.ycombinator.com/item?id=47637665"
-    ],
-    [
-      "The Clock",
-      "https://blog.senko.net/the-clock"
     ]
   ],
   [
