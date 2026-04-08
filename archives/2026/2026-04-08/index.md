@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
+* [2026-04-08, 17:11:46](https://news.ycombinator.com/item?id=47693153) - [Understanding the Kalman Filter with a Simple Radar Example](https://kalmanfilter.net)
+* [2026-04-08, 16:41:16](https://news.ycombinator.com/item?id=47692661) - [Show HN: TUI-use: Let AI agents control interactive terminal programs](https://github.com/onesuper/tui-use)
 * [2026-04-08, 16:05:54](https://news.ycombinator.com/item?id=47692102) - [Muse Spark – Meta Superintelligence Labs](https://meta.ai/)
 * [2026-04-08, 16:01:32](https://news.ycombinator.com/item?id=47692043) - [Muse Spark: Scaling Towards Personal Superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1)
 * [2026-04-08, 15:40:00](https://news.ycombinator.com/item?id=47691730) - [I Ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)

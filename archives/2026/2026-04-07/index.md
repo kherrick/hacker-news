@@ -38,6 +38,7 @@
 * [2026-04-07, 13:55:14](https://news.ycombinator.com/item?id=47675446) - [Audio Reactive LED Strips Are Diabolically Hard](https://scottlawsonbc.com/post/audio-led)
 * [2026-04-07, 13:50:27](https://news.ycombinator.com/item?id=47675372) - [Has electricity decoupled from natural gas prices in Germany?](https://has-electricity-decoupled-yet.strommarktberatung.de)
 * [2026-04-07, 13:45:26](https://news.ycombinator.com/item?id=47675302) - [9 Mothers (YC P26) Is Hiring – Lead Robotics and More](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
+* [2026-04-07, 13:43:04](https://news.ycombinator.com/item?id=47675271) - [A Digital Compute-in-Memory Architecture for NFA Evaluation](https://dl.acm.org/doi/10.1145/3716368.3735157)
 * [2026-04-07, 13:41:50](https://news.ycombinator.com/item?id=47675254) - [NanoClaw's Architecture Is a Masterclass in Doing Less](https://jonno.nz/posts/nanoclaw-architecture-masterclass-in-doing-less/)
 * [2026-04-07, 13:39:15](https://news.ycombinator.com/item?id=47675213) - [Google open-sources experimental agent orchestration testbed Scion](https://www.infoq.com/news/2026/04/google-agent-testbed-scion/)
 * [2026-04-07, 13:34:33](https://news.ycombinator.com/item?id=47675155) - [You can't cancel a JavaScript promise (except sometimes you can)](https://www.inngest.com/blog/hanging-promises-for-control-flow)

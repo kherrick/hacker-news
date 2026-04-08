@@ -14,6 +14,7 @@
 * [2026-04-05, 22:31:16](https://news.ycombinator.com/item?id=47654620) - [In Japan, the robot isn't coming for your job; it's filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
 * [2026-04-05, 22:00:59](https://news.ycombinator.com/item?id=47654346) - [The anatomy of SMS delivery: from request to carrier](https://blog.bridgexapi.io/the-anatomy-of-sms-delivery-from-request-to-carrier)
 * [2026-04-05, 21:42:01](https://news.ycombinator.com/item?id=47654171) - [The Mechanics of Steins Gate (2023) [pdf]](https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf)
+* [2026-04-05, 21:30:19](https://news.ycombinator.com/item?id=47654062) - [Ask HN: Any interesting niche hobbies?](https://news.ycombinator.com/item?id=47654062)
 * [2026-04-05, 21:18:25](https://news.ycombinator.com/item?id=47653975) - [Qwen-3.6-Plus is the first model to break 1T tokens processed in a day](https://twitter.com/openrouter/status/2040239467865489874)
 * [2026-04-05, 21:14:40](https://news.ycombinator.com/item?id=47653954) - [Policy on adding AI generated content to my software projects](https://joeyh.name/blog/entry/policy_on_adding_AI_generated_content_to_my_software_projects/)
 * [2026-04-05, 20:59:52](https://news.ycombinator.com/item?id=47653816) - [UK intelligence censored report on global warming and homeland security](https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security)
