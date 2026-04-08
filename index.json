@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-08, 21:53:36",
+      "https://news.ycombinator.com/item?id=47696760"
+    ],
+    [
+      "Show HN: Tired of logic in useEffect, I built a class-based React state manager",
+      "https://thales.me/posts/why-i-built-snapstate/"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 21:33:06",
       "https://news.ycombinator.com/item?id=47696562"
     ],
@@ -67,16 +77,6 @@
     [
       "Understanding the Kalman filter with a simple radar example",
       "https://kalmanfilter.net"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 16:41:16",
-      "https://news.ycombinator.com/item?id=47692661"
-    ],
-    [
-      "Show HN: TUI-use: Let AI agents control interactive terminal programs",
-      "https://github.com/onesuper/tui-use"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-04-08, 05:34:08",
-      "https://news.ycombinator.com/item?id=47685739"
-    ],
-    [
-      "Revision Demoparty 2026: Razor1911 [video]",
-      "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 04:37:57",
       "https://news.ycombinator.com/item?id=47685320"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: Unicode Steganography",
       "https://steganography.patrickvuscan.com"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 16:40:46",
+      "https://news.ycombinator.com/item?id=47663285"
+    ],
+    [
+      "Why do Macs ask you to press random keys when connecting a new keyboard?",
+      "https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-04-03, 02:49:17",
-      "https://news.ycombinator.com/item?id=47622717"
+      "2026-04-05, 02:53:07",
+      "https://news.ycombinator.com/item?id=47645717"
     ],
     [
-      "Study investigates how mass distribution of baseball bat affects performance",
-      "https://news.wsu.edu/press-release/2026/04/02/science-confirms-torpedo-bat-works-as-well-as-regular-bat/"
+      "Union types in C# 15",
+      "https://devblogs.microsoft.com/dotnet/csharp-15-union-types/"
     ]
   ]
 ]
