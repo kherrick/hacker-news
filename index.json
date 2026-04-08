@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-08, 11:55:08",
+      "https://news.ycombinator.com/item?id=47688947"
+    ],
+    [
+      "Trier OS – Industrial Operating System",
+      "https://github.com/DougTrier/trier-os"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 09:41:56",
       "https://news.ycombinator.com/item?id=47687755"
     ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=47687533"
     ],
     [
-      "I've Sold Out",
+      "I've sold out",
       "https://mariozechner.at/posts/2026-04-08-ive-sold-out/"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 09:13:17",
+      "https://news.ycombinator.com/item?id=47687464"
+    ],
+    [
+      "Mario and Earendil",
+      "https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=47687273"
     ],
     [
-      "The Git Commands I Run Before Reading Any Code",
+      "Git commands I run before reading any code",
       "https://piechowski.io/post/git-commands-before-reading-code/"
     ]
   ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47686549"
     ],
     [
-      "Veracrypt Project Update",
+      "Veracrypt project update",
       "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "Protect your shed",
       "https://dylanbutler.dev/blog/protect-your-shed/"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 00:59:05",
-      "https://news.ycombinator.com/item?id=47683376"
-    ],
-    [
-      "JSIR: A High-Level IR for JavaScript",
-      "https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "S3 Files",
       "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 19:37:05",
-      "https://news.ycombinator.com/item?id=47680309"
-    ],
-    [
-      "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
-      "https://github.com/mattmireles/gemma-tuner-multimodal"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-04-04, 21:00:56",
-      "https://news.ycombinator.com/item?id=47643326"
+      "2026-04-05, 02:53:07",
+      "https://news.ycombinator.com/item?id=47645717"
     ],
     [
-      "Hobby CNC machining and resin casting (2015)",
-      "https://lcamtuf.coredump.cx/gcnc/"
+      "Explore union types in C# 15",
+      "https://devblogs.microsoft.com/dotnet/csharp-15-union-types/"
     ]
   ],
   [
