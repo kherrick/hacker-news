@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 23:36:15](https://news.ycombinator.com/item?id=47682719) - [Xilem – An experimental Rust native UI framework](https://github.com/linebender/xilem)
+* [2026-04-07, 22:41:02](https://news.ycombinator.com/item?id=47682276) - [US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire)
 * [2026-04-07, 22:20:22](https://news.ycombinator.com/item?id=47682098) - [Ex-Meta worker investigated for downloading 30k private Facebook photos](https://www.bbc.com/news/articles/cvg049xz1ygo)
 * [2026-04-07, 22:05:54](https://news.ycombinator.com/item?id=47681954) - [Is your app idea worth building?](https://www.build-check.com/)
 * [2026-04-07, 21:41:06](https://news.ycombinator.com/item?id=47681701) - [RSoC 2026: A new CPU scheduler for Redox OS](https://www.redox-os.org/news/rsoc-dwrr/)

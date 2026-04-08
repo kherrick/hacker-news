@@ -52,6 +52,7 @@
 * [2026-04-04, 11:18:44](https://news.ycombinator.com/item?id=47638043) - [Rendering arbitrary-scale emojis using the Slug algorithm](https://leduyquang753.name.vn/blog/2026/4/4/rendering-arbitrary-scale-emojis-using-the-slug-algorithm)
 * [2026-04-04, 10:39:32](https://news.ycombinator.com/item?id=47637828) - [Show HN: Tusk for macOS and Gnome](https://shapemachine.xyz/tusk/)
 * [2026-04-04, 10:26:21](https://news.ycombinator.com/item?id=47637757) - [Apple: Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193)
+* [2026-04-04, 10:08:31](https://news.ycombinator.com/item?id=47637665) - [The Clock](https://blog.senko.net/the-clock)
 * [2026-04-04, 10:00:04](https://news.ycombinator.com/item?id=47637622) - [A brief history of instant coffee](https://worksinprogress.co/issue/a-brief-history-of-instant-coffee/)
 * [2026-04-04, 09:52:55](https://news.ycombinator.com/item?id=47637580) - [Emotion Concepts and Their Function in a Large Language Model](https://transformer-circuits.pub/2026/emotions/index.html)
 * [2026-04-04, 09:20:34](https://news.ycombinator.com/item?id=47637377) - [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love)

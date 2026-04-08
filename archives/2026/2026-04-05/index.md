@@ -16,6 +16,7 @@
 * [2026-04-05, 21:18:25](https://news.ycombinator.com/item?id=47653975) - [Qwen-3.6-Plus is the first model to break 1T tokens processed in a day](https://twitter.com/openrouter/status/2040239467865489874)
 * [2026-04-05, 21:14:40](https://news.ycombinator.com/item?id=47653954) - [Policy on adding AI generated content to my software projects](https://joeyh.name/blog/entry/policy_on_adding_AI_generated_content_to_my_software_projects/)
 * [2026-04-05, 20:59:52](https://news.ycombinator.com/item?id=47653816) - [UK intelligence censored report on global warming and homeland security](https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security)
+* [2026-04-05, 20:37:55](https://news.ycombinator.com/item?id=47653642) - [Binary obfuscation used in AAA Games](https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html)
 * [2026-04-05, 20:19:11](https://news.ycombinator.com/item?id=47653471) - [Musician says AI company is cloning her music, filing claims against her](https://twitter.com/unlimited_ls/status/2040577536136974444)
 * [2026-04-05, 20:19:11](https://news.ycombinator.com/item?id=47653471) - [Musician says AI company is cloning her music, filing claims against her](https://twitter.com/i/status/2040577536136974444)
 * [2026-04-05, 19:01:55](https://news.ycombinator.com/item?id=47652726) - [Bacteria found in the human intestine capable of improving muscle strength](https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength)
