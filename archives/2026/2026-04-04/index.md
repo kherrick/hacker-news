@@ -8,6 +8,7 @@
 * [2026-04-04, 23:29:31](https://news.ycombinator.com/item?id=47644610) - [Demand for autism care is soaring](https://economist.com/united-states/2026/04/01/demand-for-autism-care-is-soaring-the-system-is-struggling-to-cope)
 * [2026-04-04, 23:18:54](https://news.ycombinator.com/item?id=47644566) - [Advice to Young People, the Lies I Tell Myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/)
 * [2026-04-04, 22:57:44](https://news.ycombinator.com/item?id=47644406) - [German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/)
+* [2026-04-04, 21:44:55](https://news.ycombinator.com/item?id=47643779) - [ACE on a USB→HDMI Adapter](https://blazelight.dev/blog/ms2160.mdx)
 * [2026-04-04, 21:28:01](https://news.ycombinator.com/item?id=47643620) - [Seat Pricing Is Dead](http://seatpricing.rip/)
 * [2026-04-04, 20:48:56](https://news.ycombinator.com/item?id=47643217) - [Microsoft to force updates to Windows 11 25H2 for PCs with older OS versions](https://www.tomshardware.com/software/windows/microsoft-forces-updates-to-windows-11-25h2-update-for-pcs-running-on-24h2)
 * [2026-04-04, 19:43:54](https://news.ycombinator.com/item?id=47642601) - [Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown](https://static.laszlokorte.de/escher/)
@@ -73,3 +74,4 @@
 * [2026-04-04, 02:30:32](https://news.ycombinator.com/item?id=47635056) - [Gold overtakes U.S. Treasuries as the largest foreign reserve asset](https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr)
 * [2026-04-04, 02:26:42](https://news.ycombinator.com/item?id=47635033) - [Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://github.com/borski/travel-hacking-toolkit)
 * [2026-04-04, 01:37:02](https://news.ycombinator.com/item?id=47634690) - [Delve Removed from Y Combinator](https://www.ycombinator.com/companies/delve)
+* [2026-04-04, 00:59:08](https://news.ycombinator.com/item?id=47634422) - [Native Americans had dice 12,000 years ago](https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426)
