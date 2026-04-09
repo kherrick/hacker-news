@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 17:08:04](https://news.ycombinator.com/item?id=47706268) - [EFF Is Leaving X](https://www.eff.org/deeplinks/2026/04/eff-leaving-x)
+* [2026-04-09, 16:57:36](https://news.ycombinator.com/item?id=47706120) - [EFF Logs Out of X](https://twitter.com/EFF/status/2042278157609480566)
+* [2026-04-09, 16:46:11](https://news.ycombinator.com/item?id=47705952) - [The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy](https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo)
+* [2026-04-09, 16:04:54](https://news.ycombinator.com/item?id=47705413) - [I built a Cargo-like build tool for C/C++](https://github.com/randerson112/craft)
+* [2026-04-09, 15:55:09](https://news.ycombinator.com/item?id=47705324) - [Emperor penguin and Antarctic fur seal now endangered](https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn)
 * [2026-04-09, 15:17:27](https://news.ycombinator.com/item?id=47704881) - [Vercel Claude Code plugin wants to read your prompt](https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry)
 * [2026-04-09, 13:23:50](https://news.ycombinator.com/item?id=47703419) - [Meta removes ads for social media addiction litigation](https://www.axios.com/2026/04/09/meta-social-media-addiction-ads)
 * [2026-04-09, 12:57:10](https://news.ycombinator.com/item?id=47703123) - [How Pizza Tycoon simulated traffic on a 25 MHz CPU](https://pizzalegacy.nl/blog/traffic-system.html)
