@@ -5,28 +5,18 @@
       "https://news.ycombinator.com/item?id=47706268"
     ],
     [
-      "EFF Is Leaving X",
+      "EFF is leaving X",
       "https://www.eff.org/deeplinks/2026/04/eff-leaving-x"
     ]
   ],
   [
     [
-      "2026-04-09, 16:57:36",
-      "https://news.ycombinator.com/item?id=47706120"
+      "2026-04-09, 16:58:49",
+      "https://news.ycombinator.com/item?id=47706141"
     ],
     [
-      "EFF Logs Out of X",
-      "https://twitter.com/EFF/status/2042278157609480566"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 16:46:11",
-      "https://news.ycombinator.com/item?id=47705952"
-    ],
-    [
-      "The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy",
-      "https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo"
+      "Research-Driven Agents: What Happens When Your Agent Reads Before It Codes",
+      "https://blog.skypilot.co/research-driven-agents/"
     ]
   ],
   [
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=47705413"
     ],
     [
-      "I built a Cargo-like build tool for C/C++",
+      "Show HN: I built a Cargo-like build tool for C/C++",
       "https://github.com/randerson112/craft"
     ]
   ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=47704881"
     ],
     [
-      "Vercel Claude Code plugin wants to read your prompt",
+      "The Vercel plugin on Claude Code wants to read your prompts",
       "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry"
     ]
   ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=47702541"
     ],
     [
-      "A WebGPU Implementation of Augmented Vertex Block Descent",
+      "A WebGPU implementation of Augmented Vertex Block Descent",
       "https://github.com/jure/webphysics"
     ]
   ],
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=47701148"
     ],
     [
-      "FreeBSD Laptop Compatibility: Top Laptops to Use with FreeBSD",
+      "Top laptops to use with FreeBSD",
       "https://freebsdfoundation.github.io/freebsd-laptop-testing/"
     ]
   ],
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=47699181"
     ],
     [
-      "Open Source Security at Astral",
+      "Open source security at Astral",
       "https://astral.sh/blog/open-source-security-at-astral"
     ]
   ],
@@ -207,6 +197,16 @@
     [
       "LittleSnitch for Linux",
       "https://obdev.at/products/littlesnitch-linux/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 19:23:34",
+      "https://news.ycombinator.com/item?id=47695012"
+    ],
+    [
+      "USB for Software Developers: An introduction to writing userspace USB drivers",
+      "https://werwolv.net/posts/usb_for_sw_devs/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-04-06, 20:33:03",
+      "https://news.ycombinator.com/item?id=47666639"
+    ],
+    [
+      "The Importance of Being Idle",
+      "https://theamericanscholar.org/the-importance-of-being-idle/"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 17:09:40",
       "https://news.ycombinator.com/item?id=47663743"
     ],
@@ -267,16 +277,6 @@
     [
       "Small Engines",
       "https://scottlocklin.wordpress.com/2026/03/25/very-small-engines/"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 13:08:17",
-      "https://news.ycombinator.com/item?id=47660434"
-    ],
-    [
-      "C# in Unity 2026: Writing more modern code",
-      "https://darkounity.com/blog/c-in-unity-2026-features-most-developers-still-dont-use"
     ]
   ],
   [
