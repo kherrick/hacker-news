@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-09, 12:11:56",
+      "https://news.ycombinator.com/item?id=47702647"
+    ],
+    [
+      "Launch HN: Relvy (YC F24) – On-call runbooks, automated",
+      "https://www.relvy.ai"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 11:23:31",
+      "https://news.ycombinator.com/item?id=47702196"
+    ],
+    [
+      "Show HN: CSS Studio. Design by hand, code by agent",
+      "https://cssstudio.ai"
+    ]
+  ],
+  [
+    [
       "2026-04-09, 10:10:19",
       "https://news.ycombinator.com/item?id=47701572"
     ],
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2026-04-09, 08:55:18",
-      "https://news.ycombinator.com/item?id=47700972"
-    ],
-    [
-      "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
-      "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/"
-    ]
-  ],
-  [
-    [
       "2026-04-09, 07:27:25",
       "https://news.ycombinator.com/item?id=47700388"
     ],
     [
       "Help Keep Thunderbird Alive",
       "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 06:00:55",
-      "https://news.ycombinator.com/item?id=47699814"
-    ],
-    [
-      "Process Manager for Autonomous AI Agents",
-      "https://botctl.dev/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2026-04-06, 03:40:31",
-      "https://news.ycombinator.com/item?id=47656730"
-    ],
-    [
-      "Understanding Traceroute",
-      "https://tech.stonecharioteer.com/posts/2026/traceroute/"
-    ]
-  ],
-  [
-    [
       "2026-04-05, 21:30:19",
       "https://news.ycombinator.com/item?id=47654062"
     ],
@@ -297,6 +287,16 @@
     [
       "Improving storage efficiency in Magic Pocket, Dropbox's immutable blob store",
       "https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 09:42:05",
+      "https://news.ycombinator.com/item?id=47624763"
+    ],
+    [
+      "Tree Calculus",
+      "https://treecalcul.us/"
     ]
   ]
 ]
