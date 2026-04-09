@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-09, 04:11:55](https://news.ycombinator.com/item?id=47699181) - [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
 * [2026-04-09, 00:55:46](https://news.ycombinator.com/item?id=47698082) - [Newly created Polymarket accounts win big on well-timed Iran ceasefire bets](https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire)
 * [2026-04-09, 00:26:08](https://news.ycombinator.com/item?id=47697870) - [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
 * [2026-04-08, 21:33:06](https://news.ycombinator.com/item?id=47696562) - [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
@@ -11,9 +12,7 @@
 * [2026-04-08, 17:11:46](https://news.ycombinator.com/item?id=47693153) - [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net)
 * [2026-04-08, 16:01:32](https://news.ycombinator.com/item?id=47692043) - [Muse Spark: Scaling towards personal superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1)
 * [2026-04-08, 15:40:00](https://news.ycombinator.com/item?id=47691730) - [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
-* [2026-04-08, 14:46:15](https://news.ycombinator.com/item?id=47690977) - [Microsoft terminates VeraCrypt account, halting Windows updates](https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/)
 * [2026-04-08, 13:06:33](https://news.ycombinator.com/item?id=47689648) - [ML promises to be profoundly weird](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess)
-* [2026-04-08, 12:34:38](https://news.ycombinator.com/item?id=47689319) - [Show HN: Skrun – Deploy any agent skill as an API](https://github.com/skrun-dev/skrun)
 * [2026-04-08, 12:26:14](https://news.ycombinator.com/item?id=47689237) - [US cities are axing Flock Safety surveillance technology](https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/)
 * [2026-04-08, 12:19:00](https://news.ycombinator.com/item?id=47689174) - [MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU](https://arxiv.org/abs/2604.05091)
 * [2026-04-08, 11:20:50](https://news.ycombinator.com/item?id=47688678) - [They're made out of meat (1991)](http://www.terrybisson.com/theyre-made-out-of-meat-2/)
@@ -22,14 +21,15 @@
 * [2026-04-08, 06:01:00](https://news.ycombinator.com/item?id=47685945) - [We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2](https://blog.railway.com/p/moving-railways-frontend-off-nextjs)
 * [2026-04-08, 04:37:57](https://news.ycombinator.com/item?id=47685320) - [Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 * [2026-04-07, 17:34:13](https://news.ycombinator.com/item?id=47678690) - [Six (and a half) intuitions for KL divergence](https://www.perfectlynormal.co.uk/blog-kl-divergence)
-* [2026-04-07, 15:07:45](https://news.ycombinator.com/item?id=47676561) - [Teardown of unreleased LG Rollable shows why rollable phones aren't a thing](https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/)
 * [2026-04-07, 13:55:14](https://news.ycombinator.com/item?id=47675446) - [Audio Reactive LED Strips Are Diabolically Hard](https://scottlawsonbc.com/post/audio-led)
 * [2026-04-06, 20:33:03](https://news.ycombinator.com/item?id=47666639) - [The Importance of Being Idle](https://theamericanscholar.org/the-importance-of-being-idle/)
 * [2026-04-06, 20:14:16](https://news.ycombinator.com/item?id=47666398) - [Show HN: A (marginally) useful x86-64 ELF executable in 301 bytes](https://github.com/meribold/btry)
 * [2026-04-06, 14:22:51](https://news.ycombinator.com/item?id=47661297) - [What does it mean to “write like you talk”?](https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you)
 * [2026-04-06, 03:40:31](https://news.ycombinator.com/item?id=47656730) - [Understanding Traceroute](https://tech.stonecharioteer.com/posts/2026/traceroute/)
+* [2026-04-06, 03:32:23](https://news.ycombinator.com/item?id=47656682) - [Winners of the 2026 Kokuyo Design Awards](https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/)
 * [2026-04-05, 21:30:19](https://news.ycombinator.com/item?id=47654062) - [Ask HN: Any interesting niche hobbies?](https://news.ycombinator.com/item?id=47654062)
 * [2026-04-05, 12:08:55](https://news.ycombinator.com/item?id=47648538) - [I imported the full Linux kernel git history into pgit](https://oseifert.ch/blog/linux-kernel-pgit)
+* [2026-04-04, 21:50:53](https://news.ycombinator.com/item?id=47643852) - [Map Gesture Controls - Control maps with your hands](https://sanderdesnaijer.github.io/map-gesture-controls/)
 
 ## [Archives](archives/index.md)
 

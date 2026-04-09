@@ -8,6 +8,7 @@
 * [2026-04-04, 23:29:31](https://news.ycombinator.com/item?id=47644610) - [Demand for autism care is soaring](https://economist.com/united-states/2026/04/01/demand-for-autism-care-is-soaring-the-system-is-struggling-to-cope)
 * [2026-04-04, 23:18:54](https://news.ycombinator.com/item?id=47644566) - [Advice to Young People, the Lies I Tell Myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/)
 * [2026-04-04, 22:57:44](https://news.ycombinator.com/item?id=47644406) - [German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/)
+* [2026-04-04, 21:50:53](https://news.ycombinator.com/item?id=47643852) - [Map Gesture Controls - Control maps with your hands](https://sanderdesnaijer.github.io/map-gesture-controls/)
 * [2026-04-04, 21:44:55](https://news.ycombinator.com/item?id=47643779) - [ACE on a USB→HDMI Adapter](https://blazelight.dev/blog/ms2160.mdx)
 * [2026-04-04, 21:28:01](https://news.ycombinator.com/item?id=47643620) - [Seat Pricing Is Dead](http://seatpricing.rip/)
 * [2026-04-04, 21:00:56](https://news.ycombinator.com/item?id=47643326) - [Hobby CNC machining and resin casting (2015)](https://lcamtuf.coredump.cx/gcnc/)
