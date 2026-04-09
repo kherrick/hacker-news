@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-04-09, 18:53:20",
+      "https://news.ycombinator.com/item?id=47708041"
+    ],
+    [
+      "PicoZ80 – Drop-In Z80 Replacement",
+      "https://eaw.app/picoz80/"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 18:37:45",
+      "https://news.ycombinator.com/item?id=47707762"
+    ],
+    [
+      "Hegel, a universal property-based testing protocol and family of PBT libraries",
+      "https://hegel.dev"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 18:10:33",
+      "https://news.ycombinator.com/item?id=47707269"
+    ],
+    [
+      "What Game Engines Know About Data That Databases Forgot",
+      "https://nockawa.github.io/blog/what-game-engines-know-about-data/"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 18:09:19",
+      "https://news.ycombinator.com/item?id=47707253"
+    ],
+    [
+      "ChatGPT Pro now starts at $100/month",
+      "https://chatgpt.com/pricing/"
+    ]
+  ],
+  [
+    [
       "2026-04-09, 17:08:04",
       "https://news.ycombinator.com/item?id=47706268"
     ],
@@ -21,22 +61,32 @@
   ],
   [
     [
+      "2026-04-09, 16:58:46",
+      "https://news.ycombinator.com/item?id=47706140"
+    ],
+    [
+      "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
+      "https://www.unfolder.app/"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 16:36:56",
+      "https://news.ycombinator.com/item?id=47705834"
+    ],
+    [
+      "Little Snitch comes to Linux, but the core logic is closed source",
+      "https://the.unknown-universe.co.uk/privacy-security/little-snitch-linux/"
+    ]
+  ],
+  [
+    [
       "2026-04-09, 16:04:54",
       "https://news.ycombinator.com/item?id=47705413"
     ],
     [
       "Show HN: I built a Cargo-like build tool for C/C++",
       "https://github.com/randerson112/craft"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 15:55:09",
-      "https://news.ycombinator.com/item?id=47705324"
-    ],
-    [
-      "Emperor penguin and Antarctic fur seal now endangered",
-      "https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn"
     ]
   ],
   [
@@ -67,16 +117,6 @@
     [
       "How Pizza Tycoon simulated traffic on a 25 MHz CPU",
       "https://pizzalegacy.nl/blog/traffic-system.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 12:51:32",
-      "https://news.ycombinator.com/item?id=47703065"
-    ],
-    [
-      "Session is shutting down in 90 days",
-      "https://getsession.org/donate"
     ]
   ],
   [
@@ -127,16 +167,6 @@
     [
       "Wit, unker, Git: The lost medieval pronouns of English intimacy",
       "https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 09:25:28",
-      "https://news.ycombinator.com/item?id=47701233"
-    ],
-    [
-      "Claude mixes up who said what",
-      "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2026-04-08, 19:23:34",
-      "https://news.ycombinator.com/item?id=47695012"
-    ],
-    [
-      "USB for Software Developers: An introduction to writing userspace USB drivers",
-      "https://werwolv.net/posts/usb_for_sw_devs/"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 05:22:42",
       "https://news.ycombinator.com/item?id=47685644"
     ],
@@ -221,42 +241,12 @@
   ],
   [
     [
-      "2026-04-08, 03:35:21",
-      "https://news.ycombinator.com/item?id=47684811"
-    ],
-    [
-      "One Brain to Query: Wiring a 60-Person Company into a Single Slack Bot",
-      "https://merylldindin.com/thoughts/company-brain/"
-    ]
-  ],
-  [
-    [
       "2026-04-07, 19:18:29",
       "https://news.ycombinator.com/item?id=47680061"
     ],
     [
       "Building a framework-agnostic Ruby gem (and making sure it doesn't break)",
       "https://newsletter.masilotti.com/p/on-building-a-framework-agnostic"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 20:33:03",
-      "https://news.ycombinator.com/item?id=47666639"
-    ],
-    [
-      "The Importance of Being Idle",
-      "https://theamericanscholar.org/the-importance-of-being-idle/"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 17:09:40",
-      "https://news.ycombinator.com/item?id=47663743"
-    ],
-    [
-      "Show HN: Moon simulator game, ray-casting",
-      "https://mooncraft2000.com"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Haunted Paper Toys",
       "http://ravensblight.com/papertoys.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 14:21:03",
+      "https://news.ycombinator.com/item?id=47626965"
+    ],
+    [
+      "Aggro Is the Foundation (2022)",
+      "https://radimentary.wordpress.com/2022/11/07/aggro-is-the-foundation/"
     ]
   ],
   [
