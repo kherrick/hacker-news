@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-09, 09:11:37",
+      "https://news.ycombinator.com/item?id=47701100"
+    ],
+    [
+      "Creating the Futurescape for the Fifth Element",
+      "https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 07:27:25",
+      "https://news.ycombinator.com/item?id=47700388"
+    ],
+    [
+      "Help Keep Thunderbird Alive",
+      "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/"
+    ]
+  ],
+  [
+    [
       "2026-04-09, 06:00:55",
       "https://news.ycombinator.com/item?id=47699814"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2026-04-08, 21:33:06",
-      "https://news.ycombinator.com/item?id=47696562"
-    ],
-    [
-      "Show HN: Is Hormuz open yet?",
-      "https://www.ishormuzopenyet.com/"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 20:46:27",
       "https://news.ycombinator.com/item?id=47696035"
     ],
@@ -67,16 +77,6 @@
     [
       "Expanding Swift's IDE Support",
       "https://swift.org/blog/expanding-swift-ide-support/"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 17:44:25",
-      "https://news.ycombinator.com/item?id=47693679"
-    ],
-    [
-      "I've been waiting over a month for Anthropic to respond to my billing issue",
-      "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2026-04-08, 12:26:14",
-      "https://news.ycombinator.com/item?id=47689237"
-    ],
-    [
-      "US cities are axing Flock Safety surveillance technology",
-      "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 12:19:00",
       "https://news.ycombinator.com/item?id=47689174"
     ],
@@ -157,16 +147,6 @@
     [
       "Git commands I run before reading any code",
       "https://piechowski.io/post/git-commands-before-reading-code/"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 07:23:39",
-      "https://news.ycombinator.com/item?id=47686549"
-    ],
-    [
-      "Veracrypt project update",
-      "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/"
     ]
   ],
   [
@@ -227,6 +207,16 @@
     [
       "Show HN: A (marginally) useful x86-64 ELF executable in 301 bytes",
       "https://github.com/meribold/btry"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 13:08:17",
+      "https://news.ycombinator.com/item?id=47660434"
+    ],
+    [
+      "C# in Unity 2026: Features Most Developers Still Don't Use",
+      "https://darkounity.com/blog/c-in-unity-2026-features-most-developers-still-dont-use"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Map Gesture Controls - Control maps with your hands",
       "https://sanderdesnaijer.github.io/map-gesture-controls/"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 20:56:25",
+      "https://news.ycombinator.com/item?id=47632157"
+    ],
+    [
+      "Improving storage efficiency in Magic Pocket, Dropbox's immutable blob store",
+      "https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store"
     ]
   ]
 ]
