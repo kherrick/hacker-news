@@ -51,6 +51,7 @@
 * [2026-04-06, 13:50:35](https://news.ycombinator.com/item?id=47660925) - [Claude Code is unusable for complex engineering tasks with the Feb updates](https://github.com/anthropics/claude-code/issues/42796)
 * [2026-04-06, 13:44:01](https://news.ycombinator.com/item?id=47660853) - [Book Review: There Is No Antimemetics Division](https://www.stephendiehl.com/posts/no_antimimetics/)
 * [2026-04-06, 13:37:34](https://news.ycombinator.com/item?id=47660766) - [Exposing and Understanding Scrolling Transfer Functions (2012) [pdf]](https://direction.bordeaux.inria.fr/~roussel/publications/2012-UIST-scrolling-tf.pdf)
+* [2026-04-06, 13:08:17](https://news.ycombinator.com/item?id=47660434) - [C# in Unity 2026: Features Most Developers Still Don't Use](https://darkounity.com/blog/c-in-unity-2026-features-most-developers-still-dont-use)
 * [2026-04-06, 12:59:33](https://news.ycombinator.com/item?id=47660343) - [PostHog (YC W20) Is Hiring](https://news.ycombinator.com/item?id=47660343)
 * [2026-04-06, 12:53:41](https://news.ycombinator.com/item?id=47660286) - [What Being Ripped Off Taught Me](https://belief.horse/notes/what-being-ripped-off-taught-me/)
 * [2026-04-06, 12:50:20](https://news.ycombinator.com/item?id=47660262) - [Show HN: I built a 2-min quiz that shows you how bad you are at estimating](https://www.convexly.app/)
