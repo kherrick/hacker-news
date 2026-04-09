@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 20:54:35](https://news.ycombinator.com/item?id=47709917) - [Show HN: I built a weather site for the Eastern Caribbean](https://news.ycombinator.com/item?id=47709917)
 * [2026-04-09, 20:17:50](https://news.ycombinator.com/item?id=47709251) - [Netflix Prices Went Up Again – I Bought a DVD Player Instead](https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/)
 * [2026-04-09, 20:12:07](https://news.ycombinator.com/item?id=47709158) - [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
+* [2026-04-09, 20:10:25](https://news.ycombinator.com/item?id=47709130) - [Discovering, detecting, and surgically removing Google's AI watermark](https://github.com/aloshdenny/reverse-SynthID)
 * [2026-04-09, 19:48:26](https://news.ycombinator.com/item?id=47708818) - [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
 * [2026-04-09, 19:48:25](https://news.ycombinator.com/item?id=47708817) - [Maine Is About to Become the First State to Ban Major New Data Centers](https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers)
 * [2026-04-09, 19:29:59](https://news.ycombinator.com/item?id=47708593) - [OpenAI puts Stargate UK on ice, blames energy costs and red tape](https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/)
