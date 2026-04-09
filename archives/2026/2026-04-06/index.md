@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
+* [2026-04-06, 23:33:46](https://news.ycombinator.com/item?id=47668818) - [How Do You Find an Illegal Image Without Looking at It?](https://mahmoud-salem.net/the-invisible-shield)
 * [2026-04-06, 23:23:28](https://news.ycombinator.com/item?id=47668727) - [After 20 years I turned off Google Adsense for my websites](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
 * [2026-04-06, 21:52:08](https://news.ycombinator.com/item?id=47667717) - [Anthropic expands partnership w Google and Broadcom for multiple GW of compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
 * [2026-04-06, 21:49:34](https://news.ycombinator.com/item?id=47667672) - [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)

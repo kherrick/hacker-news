@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 21:09:12](https://news.ycombinator.com/item?id=47710149) - [How Microsoft Abuses Its Users](https://lzon.ca/posts/other/microsoft-user-abuse/)
+* [2026-04-09, 20:59:51](https://news.ycombinator.com/item?id=47710007) - [Moving from WordPress to Jekyll (and static site generators in general)](https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/)
 * [2026-04-09, 20:54:35](https://news.ycombinator.com/item?id=47709917) - [Show HN: I built a weather site for the Eastern Caribbean](https://news.ycombinator.com/item?id=47709917)
 * [2026-04-09, 20:17:50](https://news.ycombinator.com/item?id=47709251) - [Netflix Prices Went Up Again – I Bought a DVD Player Instead](https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/)
 * [2026-04-09, 20:12:07](https://news.ycombinator.com/item?id=47709158) - [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
@@ -14,6 +16,7 @@
 * [2026-04-09, 19:17:05](https://news.ycombinator.com/item?id=47708411) - [Bitmap fonts make computers feel like computers again](https://korigamik.dev/blog/bitmap_fonts/)
 * [2026-04-09, 18:53:20](https://news.ycombinator.com/item?id=47708041) - [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/)
 * [2026-04-09, 18:37:45](https://news.ycombinator.com/item?id=47707762) - [Hegel, a universal property-based testing protocol and family of PBT libraries](https://hegel.dev)
+* [2026-04-09, 18:30:59](https://news.ycombinator.com/item?id=47707632) - [Instant 1.0, a backend for AI-coded apps](https://www.instantdb.com/essays/architecture)
 * [2026-04-09, 18:22:39](https://news.ycombinator.com/item?id=47707477) - [Old laptops in a colo as low cost servers](https://colaptop.pages.dev/)
 * [2026-04-09, 18:10:33](https://news.ycombinator.com/item?id=47707269) - [What Game Engines Know About Data That Databases Forgot](https://nockawa.github.io/blog/what-game-engines-know-about-data/)
 * [2026-04-09, 18:09:19](https://news.ycombinator.com/item?id=47707253) - [ChatGPT Pro now starts at $100/month](https://chatgpt.com/pricing/)
