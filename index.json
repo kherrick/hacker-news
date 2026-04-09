@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-09, 15:17:27",
+      "https://news.ycombinator.com/item?id=47704881"
+    ],
+    [
+      "Vercel Claude Code plugin wants to read your prompt",
+      "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry"
+    ]
+  ],
+  [
+    [
       "2026-04-09, 13:23:50",
       "https://news.ycombinator.com/item?id=47703419"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2026-04-09, 12:52:12",
-      "https://news.ycombinator.com/item?id=47703072"
+      "2026-04-09, 12:51:32",
+      "https://news.ycombinator.com/item?id=47703065"
     ],
     [
-      "Am I German or Autistic?",
-      "https://german.millermanschool.com/"
+      "Session is shutting down in 90 days",
+      "https://getsession.org/donate"
     ]
   ],
   [
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2026-04-09, 11:23:31",
+      "https://news.ycombinator.com/item?id=47702196"
+    ],
+    [
+      "Show HN: CSS Studio. Design by hand, code by agent",
+      "https://cssstudio.ai"
+    ]
+  ],
+  [
+    [
       "2026-04-09, 10:10:19",
       "https://news.ycombinator.com/item?id=47701572"
     ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=47701233"
     ],
     [
-      "Claude mixes up who said what and that's not OK",
+      "Claude mixes up who said what",
       "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html"
     ]
   ],
@@ -105,8 +125,18 @@
       "https://news.ycombinator.com/item?id=47701100"
     ],
     [
-      "Creating the Futurescape for the Fifth Element [2019]",
+      "Creating the Futurescape for the Fifth Element (2019)",
       "https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 08:55:18",
+      "https://news.ycombinator.com/item?id=47700972"
+    ],
+    [
+      "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+      "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-04-08, 16:01:32",
-      "https://news.ycombinator.com/item?id=47692043"
-    ],
-    [
-      "Muse Spark: Scaling towards personal superintelligence",
-      "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 15:40:00",
       "https://news.ycombinator.com/item?id=47691730"
     ],
@@ -181,42 +201,22 @@
   ],
   [
     [
-      "2026-04-08, 13:06:33",
-      "https://news.ycombinator.com/item?id=47689648"
-    ],
-    [
-      "ML promises to be profoundly weird",
-      "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 11:20:50",
-      "https://news.ycombinator.com/item?id=47688678"
-    ],
-    [
-      "They're made out of meat (1991)",
-      "http://www.terrybisson.com/theyre-made-out-of-meat-2/"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 08:53:42",
-      "https://news.ycombinator.com/item?id=47687273"
-    ],
-    [
-      "Git commands I run before reading any code",
-      "https://piechowski.io/post/git-commands-before-reading-code/"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 05:22:42",
       "https://news.ycombinator.com/item?id=47685644"
     ],
     [
       "Introduction to Nintendo DS Programming",
       "https://www.patater.com/files/projects/manual/manual.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 03:35:21",
+      "https://news.ycombinator.com/item?id=47684811"
+    ],
+    [
+      "One Brain to Query: Wiring a 60-Person Company into a Single Slack Bot",
+      "https://merylldindin.com/thoughts/company-brain/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-04-06, 13:08:17",
+      "https://news.ycombinator.com/item?id=47660434"
+    ],
+    [
+      "C# in Unity 2026: Writing more modern code",
+      "https://darkounity.com/blog/c-in-unity-2026-features-most-developers-still-dont-use"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 10:09:00",
       "https://news.ycombinator.com/item?id=47658950"
     ],
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=47645010"
     ],
     [
-      "Dr. Dobb's Developer Library DVD 6",
+      "Dr. Dobb's Developer Library DVD 6 (2010)",
       "https://archive.org/details/DDJDVD6"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 20:56:25",
-      "https://news.ycombinator.com/item?id=47632157"
-    ],
-    [
-      "Improving storage efficiency in Magic Pocket, Dropbox's immutable blob store",
-      "https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store"
     ]
   ],
   [
