@@ -129,6 +129,165 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47706268">
+          <h3>
+            <a
+              class="item"
+              href="https://www.eff.org/deeplinks/2026/04/eff-leaving-x"
+              >EFF Is Leaving X</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-09 @ 17:08:04</span
+              ><span class="points-container"
+                >Points: <span class="points">263</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47706268"
+                  >Comments</a
+                ><span class="descendants">: 211</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47706120">
+          <h3>
+            <a
+              class="item"
+              href="https://twitter.com/EFF/status/2042278157609480566"
+              >EFF Logs Out of X</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-09 @ 16:57:36</span
+              ><span class="points-container"
+                >Points: <span class="points">59</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47706120"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47705952">
+          <h3>
+            <a
+              class="item"
+              href="https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo"
+              >The Pentagon Threatened Pope Leo XIV's Ambassador with the
+              Avignon Papacy</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-09 @ 16:46:11</span
+              ><span class="points-container"
+                >Points: <span class="points">335</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47705952"
+                  >Comments</a
+                ><span class="descendants">: 187</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47705413">
+          <h3>
+            <a class="item" href="https://github.com/randerson112/craft"
+              >I built a Cargo-like build tool for C/C++</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-09 @ 16:04:54</span
+              ><span class="points-container"
+                >Points: <span class="points">36</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47705413"
+                  >Comments</a
+                ><span class="descendants">: 47</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Every time I wanted to start something new I'd spend the first
+                hour writing CMakeLists.txt, figuring out find_package, copying
+                boilerplate from my last project, and googling why my library
+                isn't linking. By the time the project was actually set up I'd
+                lost all momentum.
+              </p>
+              <p>
+                So, I built Craft - a lightweight build and workflow tool for C
+                and C++. Instead of writing CMake, your project configuration
+                goes in a simple craft.toml:
+              </p>
+              <p></p>
+              <pre><code>  [project]
+  name = "my_app"
+  version = "0.1.0"
+  language = "c"
+  c_standard = 99
+
+  [build]
+  type = "executable"
+</code></pre>
+              Run craft build and Craft generates the CMakeLists.txt
+              automatically and builds your project. Want to add dependencies?
+              That's just a simple command:
+              <p></p>
+              <pre><code>  craft add --git https://github.com/raysan5/raylib --links raylib
+  craft add --path ../my_library
+  craft add sfml
+</code></pre>
+              Craft will clone the dependency, regenerate the CMake, and rebuild
+              your project for you.
+              <p>
+                Other Craft features: craft init - adopt an existing C/C++
+                project into Craft or initialize an empty directory. craft
+                template - save any project structure as a template to be
+                initialized later. craft gen - generate header and source files
+                with starter boilerplate code. craft upgrade - keeps itself up
+                to date.
+              </p>
+              <p>
+                CMakeLists.extra.cmake for anything that Craft does not yet
+                handle.
+              </p>
+              <p>Cross platform - macOS, Linux, Windows.</p>
+              <p>
+                It is still early (I just got it to v1.0.0) but I am excited to
+                be able to share it and keep improving it.
+              </p>
+              <p>
+                Would love feedback. Please also feel free to make pull requests
+                if you want to help with development!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47705324">
+          <h3>
+            <a
+              class="item"
+              href="https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn"
+              >Emperor penguin and Antarctic fur seal now endangered</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-09 @ 15:55:09</span
+              ><span class="points-container"
+                >Points: <span class="points">128</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47705324"
+                  >Comments</a
+                ><span class="descendants">: 30</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47704881">
           <h3>
             <a
@@ -141,11 +300,11 @@
             <h4>
               <span>2026-04-09 @ 15:17:27</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">206</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47704881"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -162,11 +321,11 @@
             <h4>
               <span>2026-04-09 @ 13:23:50</span
               ><span class="points-container"
-                >Points: <span class="points">328</span></span
+                >Points: <span class="points">394</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47703419"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
+                ><span class="descendants">: 160</span></span
               >
             </h4>
           </section>
@@ -183,11 +342,11 @@
             <h4>
               <span>2026-04-09 @ 12:57:10</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47703123"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -202,30 +361,11 @@
             <h4>
               <span>2026-04-09 @ 12:51:32</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47703065"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47702791">
-          <h3>
-            <a class="item" href="https://ssta.willhelps.org"
-              >Show HN: 41 years sea surface temperature anomalies</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-09 @ 12:25:57</span
-              ><span class="points-container"
-                >Points: <span class="points">127</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47702791"
-                  >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 128</span></span
               >
             </h4>
           </section>
@@ -240,11 +380,11 @@
             <h4>
               <span>2026-04-09 @ 12:11:56</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47702647"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
             <div class="text">
@@ -336,11 +476,11 @@
             <h4>
               <span>2026-04-09 @ 12:01:31</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47702541"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -357,11 +497,11 @@
             <h4>
               <span>2026-04-09 @ 11:56:56</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47702499"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -376,11 +516,11 @@
             <h4>
               <span>2026-04-09 @ 11:23:31</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47702196"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
             <div class="text">
@@ -413,11 +553,11 @@
             <h4>
               <span>2026-04-09 @ 10:10:19</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47701572"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -434,11 +574,11 @@
             <h4>
               <span>2026-04-09 @ 09:25:28</span
               ><span class="points-container"
-                >Points: <span class="points">324</span></span
+                >Points: <span class="points">352</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47701233"
                   >Comments</a
-                ><span class="descendants">: 284</span></span
+                ><span class="descendants">: 296</span></span
               >
             </h4>
           </section>
@@ -455,11 +595,11 @@
             <h4>
               <span>2026-04-09 @ 09:17:25</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47701148"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -476,11 +616,11 @@
             <h4>
               <span>2026-04-09 @ 09:11:37</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47701100"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -498,11 +638,11 @@
             <h4>
               <span>2026-04-09 @ 08:55:18</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47700972"
                   >Comments</a
-                ><span class="descendants">: 129</span></span
+                ><span class="descendants">: 147</span></span
               >
             </h4>
           </section>
@@ -519,11 +659,11 @@
             <h4>
               <span>2026-04-09 @ 07:27:25</span
               ><span class="points-container"
-                >Points: <span class="points">368</span></span
+                >Points: <span class="points">390</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47700388"
                   >Comments</a
-                ><span class="descendants">: 266</span></span
+                ><span class="descendants">: 280</span></span
               >
             </h4>
           </section>
@@ -540,11 +680,11 @@
             <h4>
               <span>2026-04-09 @ 04:11:55</span
               ><span class="points-container"
-                >Points: <span class="points">306</span></span
+                >Points: <span class="points">315</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47699181"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -561,71 +701,11 @@
             <h4>
               <span>2026-04-09 @ 00:26:08</span
               ><span class="points-container"
-                >Points: <span class="points">1167</span></span
+                >Points: <span class="points">1206</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47697870"
                   >Comments</a
-                ><span class="descendants">: 394</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47695012">
-          <h3>
-            <a class="item" href="https://werwolv.net/posts/usb_for_sw_devs/"
-              >USB for Software Developers: An introduction to writing userspace
-              USB drivers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-08 @ 19:23:34</span
-              ><span class="points-container"
-                >Points: <span class="points">380</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47695012"
-                  >Comments</a
-                ><span class="descendants">: 45</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47693153">
-          <h3>
-            <a class="item" href="https://kalmanfilter.net"
-              >Understanding the Kalman filter with a simple radar example</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-08 @ 17:11:46</span
-              ><span class="points-container"
-                >Points: <span class="points">406</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47693153"
-                  >Comments</a
-                ><span class="descendants">: 55</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47691730">
-          <h3>
-            <a
-              class="item"
-              href="https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html"
-              >I ported Mac OS X to the Nintendo Wii</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-08 @ 15:40:00</span
-              ><span class="points-container"
-                >Points: <span class="points">1789</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47691730"
-                  >Comments</a
-                ><span class="descendants">: 302</span></span
+                ><span class="descendants">: 399</span></span
               >
             </h4>
           </section>
@@ -642,11 +722,11 @@
             <h4>
               <span>2026-04-08 @ 05:22:42</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47685644"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -664,11 +744,11 @@
             <h4>
               <span>2026-04-08 @ 03:35:21</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47684811"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -686,32 +766,11 @@
             <h4>
               <span>2026-04-07 @ 19:18:29</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47680061"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47666639">
-          <h3>
-            <a
-              class="item"
-              href="https://theamericanscholar.org/the-importance-of-being-idle/"
-              >The Importance of Being Idle</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-06 @ 20:33:03</span
-              ><span class="points-container"
-                >Points: <span class="points">277</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47666639"
-                  >Comments</a
-                ><span class="descendants">: 172</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -726,11 +785,11 @@
             <h4>
               <span>2026-04-06 @ 17:09:40</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47663743"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
             <div class="text">
@@ -738,6 +797,27 @@
                 >https://github.com/EngineersNeedArt/Mooncraft2000</a
               >
             </div>
+          </section>
+        </section>
+        <section id="47661977">
+          <h3>
+            <a
+              class="item"
+              href="https://publicdomainreview.org/collection/claude-monet-caricatures/"
+              >Doing Impressions: Monet's Early Caricatures (ca. late 1850s)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-06 @ 15:11:45</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47661977"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="47661972">
@@ -752,11 +832,11 @@
             <h4>
               <span>2026-04-06 @ 15:11:24</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47661972"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -777,7 +857,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47660434"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -792,30 +872,11 @@
             <h4>
               <span>2026-04-06 @ 10:09:00</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">202</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47658950"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47645010">
-          <h3>
-            <a class="item" href="https://archive.org/details/DDJDVD6"
-              >Dr. Dobb's Developer Library DVD 6 (2010)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-05 @ 00:37:57</span
-              ><span class="points-container"
-                >Points: <span class="points">119</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47645010"
-                  >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -828,11 +889,11 @@
             <h4>
               <span>2026-04-03 @ 09:42:05</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47624763"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
