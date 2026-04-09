@@ -84,4 +84,5 @@
 * [2026-04-05, 01:05:19](https://news.ycombinator.com/item?id=47645168) - [Isseven](https://isseven.app/)
 * [2026-04-05, 00:42:42](https://news.ycombinator.com/item?id=47645037) - [Shooting down ideas is not a skill](https://scottlawsonbc.com/post/shooting-down-ideas)
 * [2026-04-05, 00:40:18](https://news.ycombinator.com/item?id=47645025) - [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust](https://contrapunk.com/)
+* [2026-04-05, 00:37:57](https://news.ycombinator.com/item?id=47645010) - [Dr. Dobb's Developer Library DVD 6](https://archive.org/details/DDJDVD6)
 * [2026-04-05, 00:13:55](https://news.ycombinator.com/item?id=47644864) - [AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)
