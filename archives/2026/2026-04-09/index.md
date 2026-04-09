@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
 * [2026-04-09, 22:10:10](https://news.ycombinator.com/item?id=47710907) - [Funerals Keep Africa Poor](https://davidoks.blog/p/how-funerals-keep-africa-poor)
+* [2026-04-09, 22:04:09](https://news.ycombinator.com/item?id=47710845) - [BunnyCDN has been silently losing our production files for 15 months](https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/)
+* [2026-04-09, 21:59:28](https://news.ycombinator.com/item?id=47710782) - [The Training Example Lie Bracket](https://pbement.com/posts/lie_brackets/)
 * [2026-04-09, 21:09:12](https://news.ycombinator.com/item?id=47710149) - [How Microsoft Abuses Its Users](https://lzon.ca/posts/other/microsoft-user-abuse/)
 * [2026-04-09, 20:59:51](https://news.ycombinator.com/item?id=47710007) - [Moving from WordPress to Jekyll (and static site generators in general)](https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/)
 * [2026-04-09, 20:54:35](https://news.ycombinator.com/item?id=47709917) - [Show HN: I built a weather site for the Eastern Caribbean](https://news.ycombinator.com/item?id=47709917)

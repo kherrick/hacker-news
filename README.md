@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-09, 22:10:10](https://news.ycombinator.com/item?id=47710907) - [Funerals Keep Africa Poor](https://davidoks.blog/p/how-funerals-keep-africa-poor)
+* [2026-04-09, 22:10:10](https://news.ycombinator.com/item?id=47710907) - [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor)
+* [2026-04-09, 22:04:09](https://news.ycombinator.com/item?id=47710845) - [BunnyCDN has been silently losing our production files for 15 months](https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/)
+* [2026-04-09, 21:59:28](https://news.ycombinator.com/item?id=47710782) - [The Training Example Lie Bracket](https://pbement.com/posts/lie_brackets/)
 * [2026-04-09, 21:09:12](https://news.ycombinator.com/item?id=47710149) - [Microsoft is employing dark patterns to goad users into paying for storage?](https://lzon.ca/posts/other/microsoft-user-abuse/)
 * [2026-04-09, 20:59:51](https://news.ycombinator.com/item?id=47710007) - [Moving from WordPress to Jekyll (and static site generators in general)](https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/)
 * [2026-04-09, 20:12:07](https://news.ycombinator.com/item?id=47709158) - [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
@@ -27,8 +29,6 @@
 * [2026-04-08, 20:12:38](https://news.ycombinator.com/item?id=47695666) - [Show HN: Druids – Build your own software factory](https://github.com/fulcrumresearch/druids)
 * [2026-04-08, 05:22:42](https://news.ycombinator.com/item?id=47685644) - [Introduction to Nintendo DS Programming](https://www.patater.com/files/projects/manual/manual.html)
 * [2026-04-07, 02:50:58](https://news.ycombinator.com/item?id=47670188) - [Robots Eat Cars](https://telemetry.endeff.com/p/robots-eat-cars)
-* [2026-04-06, 23:33:46](https://news.ycombinator.com/item?id=47668818) - [How Do You Find an Illegal Image Without Looking at It?](https://mahmoud-salem.net/the-invisible-shield)
-* [2026-04-06, 15:11:45](https://news.ycombinator.com/item?id=47661977) - [Doing Impressions: Monet's Early Caricatures (ca. late 1850s)](https://publicdomainreview.org/collection/claude-monet-caricatures/)
 * [2026-04-05, 12:46:02](https://news.ycombinator.com/item?id=47648854) - [Progressive encoding and decoding of 'repeated' protobuffer fields](https://schilk.co/blog/protobuffer-repeat-append/)
 
 ## [Archives](archives/index.md)
