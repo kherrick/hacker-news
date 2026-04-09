@@ -129,6 +129,136 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47702647">
+          <h3>
+            <a class="item" href="https://www.relvy.ai"
+              >Launch HN: Relvy (YC F24) – On-call runbooks, automated</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-09 @ 12:11:56</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47702647"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.relvy.ai">https://www.relvy.ai</a>). Relvy
+              automates on-call runbooks for software engineering teams. It is
+              an AI agent equipped with tools that can analyze telemetry data
+              and code at scale, helping teams debug and resolve production
+              issues in minutes. Here’s a video: [[[<a
+                href="https://www.youtube.com/watch?v=BXr4_XlWXc0"
+                >https://www.youtube.com/watch?v=BXr4_XlWXc0</a
+              >]]]
+              <p>
+                A lot of teams are using AI in some form to reduce their on-call
+                burden. You may be pasting logs into Cursor, or using Claude
+                Code with Datadog’s MCP server to help debug. What we’ve seen is
+                that autonomous root cause analysis is a hard problem for AI.
+                This shows up in benchmarks - Claude Opus 4.6 is currently at
+                36% accuracy on the OpenRCA dataset, in contrast to coding
+                tasks.
+              </p>
+              <p>
+                There are three main reasons for this: (1) Telemetry data volume
+                can drown the model in noise; (2) Data interpretation /
+                reasoning is enterprise context dependent; (3) On-call is a
+                time-constrained, high-stakes problem, with little room for AI
+                to explore during investigation time. Errors that send the user
+                down the wrong path are not easily forgiven.
+              </p>
+              <p>
+                At Relvy, we are tackling these problems by building specialized
+                tools for telemetry data analysis. Our tools can detect
+                anomalies and identify problem slices from dense time series
+                data, do log pattern search, and reason about span trees, all
+                without overwhelming the agent context.
+              </p>
+              <p>
+                Anchoring the agent around runbooks leads to less agentic
+                exploration and more deterministic steps that reflect the most
+                useful steps that an experienced engineer would take. That
+                results in faster analysis, and less cognitive load on engineers
+                to review and understand what the AI did.
+              </p>
+              <p>
+                How it works: Relvy is installed on a local machine via
+                docker-compose (or via helm charts, or sign up on our cloud),
+                connect your stack (observability and code), create your first
+                runbook and have Relvy investigate a recent alert.
+              </p>
+              <p>
+                Each investigation is presented as a notebook in our web UI,
+                with data visualizations that help engineers verify and build
+                trust with the AI. From there on, Relvy can be configured to
+                automatically respond to alerts from Slack
+              </p>
+              <p>
+                Some example runbook steps that Relvy automates: - Check
+                so-and-so dashboard, see if the errors are isolated to a
+                specific shard. - Check if there’s a throughput surge on the APM
+                page, and if so, is it from a few IPs? - Check recent commits to
+                see if anything changed for this endpoint.
+              </p>
+              <p>
+                You can also configure AWS CLI commands that Relvy can run to
+                automate mitigation actions, with human approval.
+              </p>
+              <p>
+                A little bit about us - We did YC back in fall 2024. We started
+                our journey experimenting with continuous log monitoring with
+                small language models - that was too slow. We then invested
+                deeply into solving root cause analysis effectively, and our
+                product today is the result of about a year of work with our
+                early customers.
+              </p>
+              <p>
+                Give us a try today. Happy to hear feedback, or about how you
+                are tackling on-call burden at your company. Appreciate any
+                comments or suggestions!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47702196">
+          <h3>
+            <a class="item" href="https://cssstudio.ai"
+              >Show HN: CSS Studio. Design by hand, code by agent</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-09 @ 11:23:31</span
+              ><span class="points-container"
+                >Points: <span class="points">63</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47702196"
+                  >Comments</a
+                ><span class="descendants">: 56</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Technically, the way this works is you view your site in dev
+                mode and start editing it. In your agent, you can run /studio
+                which then polls (or uses Claude Channels) an MCP server.
+                Changes are streamed as JSON via the MCP, along with some
+                viewport and URL information, and the skill has some
+                instructions on how best to implement them.
+              </p>
+              <p>
+                It contains a lot of the tools you'd expect from a visual
+                editing tool, like text editing, styles and an animation
+                timeline editor.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="47701572">
           <h3>
             <a
@@ -142,11 +272,11 @@
             <h4>
               <span>2026-04-09 @ 10:10:19</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47701572"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -163,11 +293,11 @@
             <h4>
               <span>2026-04-09 @ 09:25:28</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">238</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47701233"
                   >Comments</a
-                ><span class="descendants">: 149</span></span
+                ><span class="descendants">: 227</span></span
               >
             </h4>
           </section>
@@ -184,33 +314,11 @@
             <h4>
               <span>2026-04-09 @ 09:11:37</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47701100"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47700972">
-          <h3>
-            <a
-              class="item"
-              href="https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/"
-              >Reallocating $100/Month Claude Code Spend to Zed and
-              OpenRouter</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-09 @ 08:55:18</span
-              ><span class="points-container"
-                >Points: <span class="points">62</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47700972"
-                  >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -227,30 +335,11 @@
             <h4>
               <span>2026-04-09 @ 07:27:25</span
               ><span class="points-container"
-                >Points: <span class="points">198</span></span
+                >Points: <span class="points">276</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47700388"
                   >Comments</a
-                ><span class="descendants">: 133</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47699814">
-          <h3>
-            <a class="item" href="https://botctl.dev/"
-              >Process Manager for Autonomous AI Agents</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-09 @ 06:00:55</span
-              ><span class="points-container"
-                >Points: <span class="points">52</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47699814"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 179</span></span
               >
             </h4>
           </section>
@@ -267,11 +356,11 @@
             <h4>
               <span>2026-04-09 @ 04:11:55</span
               ><span class="points-container"
-                >Points: <span class="points">234</span></span
+                >Points: <span class="points">267</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47699181"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -288,11 +377,11 @@
             <h4>
               <span>2026-04-09 @ 00:26:08</span
               ><span class="points-container"
-                >Points: <span class="points">896</span></span
+                >Points: <span class="points">1017</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47697870"
                   >Comments</a
-                ><span class="descendants">: 316</span></span
+                ><span class="descendants">: 354</span></span
               >
             </h4>
           </section>
@@ -308,11 +397,11 @@
             <h4>
               <span>2026-04-08 @ 19:23:34</span
               ><span class="points-container"
-                >Points: <span class="points">328</span></span
+                >Points: <span class="points">358</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47695012"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -329,11 +418,11 @@
             <h4>
               <span>2026-04-08 @ 19:21:41</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47694983"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -348,11 +437,11 @@
             <h4>
               <span>2026-04-08 @ 17:11:46</span
               ><span class="points-container"
-                >Points: <span class="points">371</span></span
+                >Points: <span class="points">387</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47693153"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -369,11 +458,11 @@
             <h4>
               <span>2026-04-08 @ 16:01:32</span
               ><span class="points-container"
-                >Points: <span class="points">360</span></span
+                >Points: <span class="points">372</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47692043"
                   >Comments</a
-                ><span class="descendants">: 340</span></span
+                ><span class="descendants">: 350</span></span
               >
             </h4>
             <div class="text">
@@ -393,11 +482,11 @@
             <h4>
               <span>2026-04-08 @ 15:40:00</span
               ><span class="points-container"
-                >Points: <span class="points">1677</span></span
+                >Points: <span class="points">1734</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47691730"
                   >Comments</a
-                ><span class="descendants">: 289</span></span
+                ><span class="descendants">: 296</span></span
               >
             </h4>
           </section>
@@ -414,11 +503,11 @@
             <h4>
               <span>2026-04-08 @ 13:06:33</span
               ><span class="points-container"
-                >Points: <span class="points">530</span></span
+                >Points: <span class="points">556</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47689648"
                   >Comments</a
-                ><span class="descendants">: 526</span></span
+                ><span class="descendants">: 539</span></span
               >
             </h4>
           </section>
@@ -434,11 +523,11 @@
             <h4>
               <span>2026-04-08 @ 12:19:00</span
               ><span class="points-container"
-                >Points: <span class="points">311</span></span
+                >Points: <span class="points">315</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47689174"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -455,11 +544,11 @@
             <h4>
               <span>2026-04-08 @ 11:20:50</span
               ><span class="points-container"
-                >Points: <span class="points">580</span></span
+                >Points: <span class="points">594</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47688678"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 160</span></span
               >
             </h4>
           </section>
@@ -476,11 +565,11 @@
             <h4>
               <span>2026-04-08 @ 08:53:42</span
               ><span class="points-container"
-                >Points: <span class="points">2101</span></span
+                >Points: <span class="points">2129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47687273"
                   >Comments</a
-                ><span class="descendants">: 454</span></span
+                ><span class="descendants">: 456</span></span
               >
             </h4>
           </section>
@@ -497,11 +586,11 @@
             <h4>
               <span>2026-04-08 @ 05:22:42</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47685644"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -518,11 +607,11 @@
             <h4>
               <span>2026-04-08 @ 04:37:57</span
               ><span class="points-container"
-                >Points: <span class="points">540</span></span
+                >Points: <span class="points">564</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47685320"
                   >Comments</a
-                ><span class="descendants">: 665</span></span
+                ><span class="descendants">: 710</span></span
               >
             </h4>
             <div class="text">
@@ -542,11 +631,11 @@
             <h4>
               <span>2026-04-07 @ 17:34:13</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47678690"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -563,11 +652,11 @@
             <h4>
               <span>2026-04-06 @ 20:33:03</span
               ><span class="points-container"
-                >Points: <span class="points">222</span></span
+                >Points: <span class="points">241</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47666639"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 142</span></span
               >
             </h4>
           </section>
@@ -582,11 +671,11 @@
             <h4>
               <span>2026-04-06 @ 17:09:40</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47663743"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
             <div class="text">
@@ -608,11 +697,11 @@
             <h4>
               <span>2026-04-06 @ 13:08:17</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47660434"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -627,32 +716,11 @@
             <h4>
               <span>2026-04-06 @ 10:09:00</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47658950"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47656730">
-          <h3>
-            <a
-              class="item"
-              href="https://tech.stonecharioteer.com/posts/2026/traceroute/"
-              >Understanding Traceroute</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-06 @ 03:40:31</span
-              ><span class="points-container"
-                >Points: <span class="points">142</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47656730"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -667,11 +735,11 @@
             <h4>
               <span>2026-04-05 @ 21:30:19</span
               ><span class="points-container"
-                >Points: <span class="points">411</span></span
+                >Points: <span class="points">430</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47654062"
                   >Comments</a
-                ><span class="descendants">: 603</span></span
+                ><span class="descendants">: 629</span></span
               >
             </h4>
             <div class="text">
@@ -709,11 +777,11 @@
             <h4>
               <span>2026-04-05 @ 12:08:55</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47648538"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -728,11 +796,11 @@
             <h4>
               <span>2026-04-05 @ 00:37:57</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47645010"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -749,11 +817,11 @@
             <h4>
               <span>2026-04-04 @ 21:50:53</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47643852"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -771,11 +839,28 @@
             <h4>
               <span>2026-04-03 @ 20:56:25</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47632157"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47624763">
+          <h3>
+            <a class="item" href="https://treecalcul.us/">Tree Calculus</a>
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-03 @ 09:42:05</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47624763"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
