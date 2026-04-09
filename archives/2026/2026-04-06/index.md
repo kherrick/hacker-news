@@ -60,6 +60,7 @@
 * [2026-04-06, 10:54:11](https://news.ycombinator.com/item?id=47659252) - [Is Germany's gold safe in New York ?](https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873)
 * [2026-04-06, 10:36:57](https://news.ycombinator.com/item?id=47659135) - [Sam Altman may control our future – can he be trusted?](https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted)
 * [2026-04-06, 10:33:02](https://news.ycombinator.com/item?id=47659109) - [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/)
+* [2026-04-06, 10:09:00](https://news.ycombinator.com/item?id=47658950) - [Haunted Paper Toys](http://ravensblight.com/papertoys.html)
 * [2026-04-06, 09:39:17](https://news.ycombinator.com/item?id=47658743) - [Number in man page titles e.g. sleep(3)](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
 * [2026-04-06, 08:03:43](https://news.ycombinator.com/item?id=47658146) - [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/)
 * [2026-04-06, 07:56:34](https://news.ycombinator.com/item?id=47658104) - [The Image Boards of Hayao Miyazaki](https://animationobsessive.substack.com/p/the-image-boards-of-hayao-miyazaki)
