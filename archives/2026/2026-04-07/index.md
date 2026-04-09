@@ -34,6 +34,7 @@
 * [2026-04-07, 15:07:38](https://news.ycombinator.com/item?id=47676557) - [Moving fast in hardware: lessons from lab to $100M ARR](https://blog.zacka.io/p/simplify-then-add-lightness-bc4)
 * [2026-04-07, 15:04:23](https://news.ycombinator.com/item?id=47676521) - [Claude Code is locking people out for hours](https://github.com/anthropics/claude-code/issues/44257)
 * [2026-04-07, 15:03:18](https://news.ycombinator.com/item?id=47676509) - [Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/)
+* [2026-04-07, 14:35:13](https://news.ycombinator.com/item?id=47676065) - [Things I learned from Reddit fashion](https://acesounderglass.com/2026/01/25/things-i-learned-from-reddit-fashion/)
 * [2026-04-07, 14:33:48](https://news.ycombinator.com/item?id=47676044) - [Show HN: Finalrun – Spec-driven testing using English and vision for mobile apps](https://github.com/final-run/finalrun-agent)
 * [2026-04-07, 14:24:30](https://news.ycombinator.com/item?id=47675893) - [How a blind man made it possible for others with low vision to build Lego sets](https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4)
 * [2026-04-07, 14:07:34](https://news.ycombinator.com/item?id=47675625) - [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/)

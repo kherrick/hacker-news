@@ -4,8 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 20:17:50](https://news.ycombinator.com/item?id=47709251) - [Netflix Prices Went Up Again – I Bought a DVD Player Instead](https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/)
+* [2026-04-09, 20:12:07](https://news.ycombinator.com/item?id=47709158) - [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
+* [2026-04-09, 19:48:26](https://news.ycombinator.com/item?id=47708818) - [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
+* [2026-04-09, 19:48:25](https://news.ycombinator.com/item?id=47708817) - [Maine Is About to Become the First State to Ban Major New Data Centers](https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers)
+* [2026-04-09, 19:29:59](https://news.ycombinator.com/item?id=47708593) - [OpenAI puts Stargate UK on ice, blames energy costs and red tape](https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/)
+* [2026-04-09, 19:17:05](https://news.ycombinator.com/item?id=47708411) - [Bitmap fonts make computers feel like computers again](https://korigamik.dev/blog/bitmap_fonts/)
 * [2026-04-09, 18:53:20](https://news.ycombinator.com/item?id=47708041) - [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/)
 * [2026-04-09, 18:37:45](https://news.ycombinator.com/item?id=47707762) - [Hegel, a universal property-based testing protocol and family of PBT libraries](https://hegel.dev)
+* [2026-04-09, 18:22:39](https://news.ycombinator.com/item?id=47707477) - [Old laptops in a colo as low cost servers](https://colaptop.pages.dev/)
 * [2026-04-09, 18:10:33](https://news.ycombinator.com/item?id=47707269) - [What Game Engines Know About Data That Databases Forgot](https://nockawa.github.io/blog/what-game-engines-know-about-data/)
 * [2026-04-09, 18:09:19](https://news.ycombinator.com/item?id=47707253) - [ChatGPT Pro now starts at $100/month](https://chatgpt.com/pricing/)
 * [2026-04-09, 17:08:04](https://news.ycombinator.com/item?id=47706268) - [EFF Is Leaving X](https://www.eff.org/deeplinks/2026/04/eff-leaving-x)
@@ -17,6 +24,7 @@
 * [2026-04-09, 16:04:54](https://news.ycombinator.com/item?id=47705413) - [I built a Cargo-like build tool for C/C++](https://github.com/randerson112/craft)
 * [2026-04-09, 15:55:09](https://news.ycombinator.com/item?id=47705324) - [Emperor penguin and Antarctic fur seal now endangered](https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn)
 * [2026-04-09, 15:17:27](https://news.ycombinator.com/item?id=47704881) - [Vercel Claude Code plugin wants to read your prompt](https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry)
+* [2026-04-09, 13:33:33](https://news.ycombinator.com/item?id=47703528) - [The Future of Everything Is Lies, I Guess: Part 3 – Culture](https://aphyr.com/posts/413-the-future-of-everything-is-lies-i-guess-culture)
 * [2026-04-09, 13:23:50](https://news.ycombinator.com/item?id=47703419) - [Meta removes ads for social media addiction litigation](https://www.axios.com/2026/04/09/meta-social-media-addiction-ads)
 * [2026-04-09, 12:57:10](https://news.ycombinator.com/item?id=47703123) - [How Pizza Tycoon simulated traffic on a 25 MHz CPU](https://pizzalegacy.nl/blog/traffic-system.html)
 * [2026-04-09, 12:52:12](https://news.ycombinator.com/item?id=47703072) - [Am I German or Autistic?](https://german.millermanschool.com/)
