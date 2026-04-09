@@ -55,6 +55,7 @@
 * [2026-04-03, 14:40:12](https://news.ycombinator.com/item?id=47627182) - [U.S. fighter jet shot down in Iran, search underway for crew](https://www.axios.com/2026/04/03/iran-us-fighter-shot-down)
 * [2026-04-03, 14:29:26](https://news.ycombinator.com/item?id=47627061) - [Solar and batteries can power the world](https://nworbmot.org/blog/solar-battery-world.html)
 * [2026-04-03, 14:29:12](https://news.ycombinator.com/item?id=47627056) - [Marc Andreessen is wrong about introspection](https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/)
+* [2026-04-03, 14:21:03](https://news.ycombinator.com/item?id=47626965) - [Aggro Is the Foundation (2022)](https://radimentary.wordpress.com/2022/11/07/aggro-is-the-foundation/)
 * [2026-04-03, 14:15:21](https://news.ycombinator.com/item?id=47626900) - [Grok scored zero on ARC-AGI-3. Every 5-year-old did better](https://aitwerp.com/signals/agi-benchmark-five-year-old-wins/)
 * [2026-04-03, 13:45:02](https://news.ycombinator.com/item?id=47626598) - [Show HN: ctx – an Agentic Development Environment (ADE)](https://ctx.rs)
 * [2026-04-03, 13:28:58](https://news.ycombinator.com/item?id=47626462) - [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)

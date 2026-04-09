@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 18:53:20](https://news.ycombinator.com/item?id=47708041) - [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/)
+* [2026-04-09, 18:37:45](https://news.ycombinator.com/item?id=47707762) - [Hegel, a universal property-based testing protocol and family of PBT libraries](https://hegel.dev)
+* [2026-04-09, 18:10:33](https://news.ycombinator.com/item?id=47707269) - [What Game Engines Know About Data That Databases Forgot](https://nockawa.github.io/blog/what-game-engines-know-about-data/)
+* [2026-04-09, 18:09:19](https://news.ycombinator.com/item?id=47707253) - [ChatGPT Pro now starts at $100/month](https://chatgpt.com/pricing/)
 * [2026-04-09, 17:08:04](https://news.ycombinator.com/item?id=47706268) - [EFF Is Leaving X](https://www.eff.org/deeplinks/2026/04/eff-leaving-x)
 * [2026-04-09, 16:58:49](https://news.ycombinator.com/item?id=47706141) - [Research-Driven Agents: What Happens When Your Agent Reads Before It Codes](https://blog.skypilot.co/research-driven-agents/)
+* [2026-04-09, 16:58:46](https://news.ycombinator.com/item?id=47706140) - [Unfolder for Mac – A 3D model unfolding tool for creating papercraft](https://www.unfolder.app/)
 * [2026-04-09, 16:57:36](https://news.ycombinator.com/item?id=47706120) - [EFF Logs Out of X](https://twitter.com/EFF/status/2042278157609480566)
 * [2026-04-09, 16:46:11](https://news.ycombinator.com/item?id=47705952) - [The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy](https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo)
+* [2026-04-09, 16:36:56](https://news.ycombinator.com/item?id=47705834) - [Little Snitch comes to Linux, but the core logic is closed source](https://the.unknown-universe.co.uk/privacy-security/little-snitch-linux/)
 * [2026-04-09, 16:04:54](https://news.ycombinator.com/item?id=47705413) - [I built a Cargo-like build tool for C/C++](https://github.com/randerson112/craft)
 * [2026-04-09, 15:55:09](https://news.ycombinator.com/item?id=47705324) - [Emperor penguin and Antarctic fur seal now endangered](https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn)
 * [2026-04-09, 15:17:27](https://news.ycombinator.com/item?id=47704881) - [Vercel Claude Code plugin wants to read your prompt](https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry)
