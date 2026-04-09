@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-04-09, 13:23:50",
+      "https://news.ycombinator.com/item?id=47703419"
+    ],
+    [
+      "Meta removes ads for social media addiction litigation",
+      "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 12:57:10",
+      "https://news.ycombinator.com/item?id=47703123"
+    ],
+    [
+      "How Pizza Tycoon simulated traffic on a 25 MHz CPU",
+      "https://pizzalegacy.nl/blog/traffic-system.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 12:52:12",
+      "https://news.ycombinator.com/item?id=47703072"
+    ],
+    [
+      "Am I German or Autistic?",
+      "https://german.millermanschool.com/"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 12:25:57",
+      "https://news.ycombinator.com/item?id=47702791"
+    ],
+    [
+      "Show HN: 41 years sea surface temperature anomalies",
+      "https://ssta.willhelps.org"
+    ]
+  ],
+  [
+    [
       "2026-04-09, 12:11:56",
       "https://news.ycombinator.com/item?id=47702647"
     ],
@@ -11,12 +51,22 @@
   ],
   [
     [
-      "2026-04-09, 11:23:31",
-      "https://news.ycombinator.com/item?id=47702196"
+      "2026-04-09, 12:01:31",
+      "https://news.ycombinator.com/item?id=47702541"
     ],
     [
-      "Show HN: CSS Studio. Design by hand, code by agent",
-      "https://cssstudio.ai"
+      "A WebGPU Implementation of Augmented Vertex Block Descent",
+      "https://github.com/jure/webphysics"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 11:56:56",
+      "https://news.ycombinator.com/item?id=47702499"
+    ],
+    [
+      "Lichess and Take Take Take Sign Cooperation Agreement",
+      "https://lichess.org/@/Lichess/blog/lichess-and-take-take-take-sign-cooperation-agreement/DZS0S0Dy"
     ]
   ],
   [
@@ -37,6 +87,16 @@
     [
       "Claude mixes up who said what and that's not OK",
       "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 09:17:25",
+      "https://news.ycombinator.com/item?id=47701148"
+    ],
+    [
+      "FreeBSD Laptop Compatibility: Top Laptops to Use with FreeBSD",
+      "https://freebsdfoundation.github.io/freebsd-laptop-testing/"
     ]
   ],
   [
@@ -91,16 +151,6 @@
   ],
   [
     [
-      "2026-04-08, 19:21:41",
-      "https://news.ycombinator.com/item?id=47694983"
-    ],
-    [
-      "Expanding Swift's IDE Support",
-      "https://swift.org/blog/expanding-swift-ide-support/"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 17:11:46",
       "https://news.ycombinator.com/item?id=47693153"
     ],
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2026-04-08, 12:19:00",
-      "https://news.ycombinator.com/item?id=47689174"
-    ],
-    [
-      "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
-      "https://arxiv.org/abs/2604.05091"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 11:20:50",
       "https://news.ycombinator.com/item?id=47688678"
     ],
@@ -181,22 +221,12 @@
   ],
   [
     [
-      "2026-04-08, 04:37:57",
-      "https://news.ycombinator.com/item?id=47685320"
+      "2026-04-07, 19:18:29",
+      "https://news.ycombinator.com/item?id=47680061"
     ],
     [
-      "Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator",
-      "https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 17:34:13",
-      "https://news.ycombinator.com/item?id=47678690"
-    ],
-    [
-      "Six (and a half) intuitions for KL divergence",
-      "https://www.perfectlynormal.co.uk/blog-kl-divergence"
+      "Building a framework-agnostic Ruby gem (and making sure it doesn't break)",
+      "https://newsletter.masilotti.com/p/on-building-a-framework-agnostic"
     ]
   ],
   [
@@ -221,12 +251,12 @@
   ],
   [
     [
-      "2026-04-06, 13:08:17",
-      "https://news.ycombinator.com/item?id=47660434"
+      "2026-04-06, 15:11:24",
+      "https://news.ycombinator.com/item?id=47661972"
     ],
     [
-      "C# in Unity 2026: Features Most Developers Still Don't Use",
-      "https://darkounity.com/blog/c-in-unity-2026-features-most-developers-still-dont-use"
+      "Small Engines",
+      "https://scottlocklin.wordpress.com/2026/03/25/very-small-engines/"
     ]
   ],
   [
@@ -241,42 +271,12 @@
   ],
   [
     [
-      "2026-04-05, 21:30:19",
-      "https://news.ycombinator.com/item?id=47654062"
-    ],
-    [
-      "Ask HN: Any interesting niche hobbies?",
-      "https://news.ycombinator.com/item?id=47654062"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 12:08:55",
-      "https://news.ycombinator.com/item?id=47648538"
-    ],
-    [
-      "I imported the full Linux kernel git history into pgit",
-      "https://oseifert.ch/blog/linux-kernel-pgit"
-    ]
-  ],
-  [
-    [
       "2026-04-05, 00:37:57",
       "https://news.ycombinator.com/item?id=47645010"
     ],
     [
       "Dr. Dobb's Developer Library DVD 6",
       "https://archive.org/details/DDJDVD6"
-    ]
-  ],
-  [
-    [
-      "2026-04-04, 21:50:53",
-      "https://news.ycombinator.com/item?id=47643852"
-    ],
-    [
-      "Map Gesture Controls - Control maps with your hands",
-      "https://sanderdesnaijer.github.io/map-gesture-controls/"
     ]
   ],
   [
