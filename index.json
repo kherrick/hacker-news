@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-04-09, 20:54:35",
-      "https://news.ycombinator.com/item?id=47709917"
+      "2026-04-09, 21:09:12",
+      "https://news.ycombinator.com/item?id=47710149"
     ],
     [
-      "Show HN: I built a weather site for the Eastern Caribbean",
-      "https://news.ycombinator.com/item?id=47709917"
+      "How Microsoft Abuses Its Users",
+      "https://lzon.ca/posts/other/microsoft-user-abuse/"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 20:59:51",
+      "https://news.ycombinator.com/item?id=47710007"
+    ],
+    [
+      "Moving from WordPress to Jekyll (and static site generators in general)",
+      "https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=47709130"
     ],
     [
-      "Discovering, detecting, and surgically removing Google's AI watermark",
+      "Reverse engineering Gemini's SynthID detection",
       "https://github.com/aloshdenny/reverse-SynthID"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Maine is about to become the first state to ban major new data centers",
       "https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 19:29:59",
-      "https://news.ycombinator.com/item?id=47708593"
-    ],
-    [
-      "OpenAI puts Stargate UK on ice, blames energy costs and red tape",
-      "https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "Hegel, a universal property-based testing protocol and family of PBT libraries",
       "https://hegel.dev"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 18:30:59",
+      "https://news.ycombinator.com/item?id=47707632"
+    ],
+    [
+      "Instant 1.0, a backend for AI-coded apps",
+      "https://www.instantdb.com/essays/architecture"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
       "https://www.unfolder.app/"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 16:36:56",
-      "https://news.ycombinator.com/item?id=47705834"
-    ],
-    [
-      "Little Snitch comes to Linux, but the core logic is closed source",
-      "https://the.unknown-universe.co.uk/privacy-security/little-snitch-linux/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-04-09, 00:26:08",
-      "https://news.ycombinator.com/item?id=47697870"
-    ],
-    [
-      "LittleSnitch for Linux",
-      "https://obdev.at/products/littlesnitch-linux/index.html"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 20:12:38",
       "https://news.ycombinator.com/item?id=47695666"
     ],
@@ -281,12 +271,12 @@
   ],
   [
     [
-      "2026-04-07, 19:18:29",
-      "https://news.ycombinator.com/item?id=47680061"
+      "2026-04-06, 23:33:46",
+      "https://news.ycombinator.com/item?id=47668818"
     ],
     [
-      "Building a framework-agnostic Ruby gem (and making sure it doesn't break)",
-      "https://newsletter.masilotti.com/p/on-building-a-framework-agnostic"
+      "How Do You Find an Illegal Image Without Looking at It?",
+      "https://mahmoud-salem.net/the-invisible-shield"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Doing Impressions: Monet's Early Caricatures (ca. late 1850s)",
       "https://publicdomainreview.org/collection/claude-monet-caricatures/"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 12:46:02",
+      "https://news.ycombinator.com/item?id=47648854"
+    ],
+    [
+      "Progressive encoding and decoding of 'repeated' protobuffer fields",
+      "https://schilk.co/blog/protobuffer-repeat-append/"
     ]
   ]
 ]
