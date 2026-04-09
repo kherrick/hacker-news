@@ -17,6 +17,7 @@
 * [2026-04-07, 19:44:01](https://news.ycombinator.com/item?id=47680404) - [S3 Files and the changing face of S3](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
 * [2026-04-07, 19:37:05](https://news.ycombinator.com/item?id=47680309) - [Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon](https://github.com/mattmireles/gemma-tuner-multimodal)
 * [2026-04-07, 19:22:58](https://news.ycombinator.com/item?id=47680124) - [Why IPv6 is the only way forward](https://ankshilp.in/posts/for-the-love-of-internet/)
+* [2026-04-07, 19:18:29](https://news.ycombinator.com/item?id=47680061) - [Building a framework-agnostic Ruby gem (and making sure it doesn't break)](https://newsletter.masilotti.com/p/on-building-a-framework-agnostic)
 * [2026-04-07, 19:16:10](https://news.ycombinator.com/item?id=47680023) - [Tailslayer: Library for reducing tail latency in RAM reads](https://github.com/LaurieWired/tailslayer)
 * [2026-04-07, 19:12:16](https://news.ycombinator.com/item?id=47679979) - [US Labor Force Participation Continues to Slide](https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/potential-workers-on-the-sidelines-labor-force-participation-continues-to-slide/)
 * [2026-04-07, 18:18:36](https://news.ycombinator.com/item?id=47679258) - [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)

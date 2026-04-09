@@ -4,10 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 13:23:50](https://news.ycombinator.com/item?id=47703419) - [Meta removes ads for social media addiction litigation](https://www.axios.com/2026/04/09/meta-social-media-addiction-ads)
+* [2026-04-09, 12:57:10](https://news.ycombinator.com/item?id=47703123) - [How Pizza Tycoon simulated traffic on a 25 MHz CPU](https://pizzalegacy.nl/blog/traffic-system.html)
+* [2026-04-09, 12:52:12](https://news.ycombinator.com/item?id=47703072) - [Am I German or Autistic?](https://german.millermanschool.com/)
+* [2026-04-09, 12:25:57](https://news.ycombinator.com/item?id=47702791) - [Show HN: 41 years sea surface temperature anomalies](https://ssta.willhelps.org)
 * [2026-04-09, 12:11:56](https://news.ycombinator.com/item?id=47702647) - [Launch HN: Relvy (YC F24) – On-call runbooks, automated](https://www.relvy.ai)
+* [2026-04-09, 12:01:31](https://news.ycombinator.com/item?id=47702541) - [A WebGPU Implementation of Augmented Vertex Block Descent](https://github.com/jure/webphysics)
+* [2026-04-09, 11:56:56](https://news.ycombinator.com/item?id=47702499) - [Lichess and Take Take Take Sign Cooperation Agreement](https://lichess.org/@/Lichess/blog/lichess-and-take-take-take-sign-cooperation-agreement/DZS0S0Dy)
 * [2026-04-09, 11:23:31](https://news.ycombinator.com/item?id=47702196) - [Show HN: CSS Studio. Design by hand, code by agent](https://cssstudio.ai)
 * [2026-04-09, 10:10:19](https://news.ycombinator.com/item?id=47701572) - [Wit, unker, Git: The lost medieval pronouns of English intimacy](https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us)
 * [2026-04-09, 09:25:28](https://news.ycombinator.com/item?id=47701233) - [Claude mixes up who said what and that's not OK](https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html)
+* [2026-04-09, 09:17:25](https://news.ycombinator.com/item?id=47701148) - [FreeBSD Laptop Compatibility: Top Laptops to Use with FreeBSD](https://freebsdfoundation.github.io/freebsd-laptop-testing/)
 * [2026-04-09, 09:11:37](https://news.ycombinator.com/item?id=47701100) - [Creating the Futurescape for the Fifth Element](https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element)
 * [2026-04-09, 08:55:18](https://news.ycombinator.com/item?id=47700972) - [Reallocating $100/Month Claude Code Spend to Zed and OpenRouter](https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/)
 * [2026-04-09, 07:27:25](https://news.ycombinator.com/item?id=47700388) - [Help Keep Thunderbird Alive](https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/)
