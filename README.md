@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-09, 00:26:08](https://news.ycombinator.com/item?id=47697870) - [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
+* [2026-04-08, 23:53:07](https://news.ycombinator.com/item?id=47697670) - [Automatic registration for US Military draft to begin in December](https://thehill.com/policy/defense/5822914-automatic-registration-military-draft/)
 * [2026-04-08, 21:53:36](https://news.ycombinator.com/item?id=47696760) - [Show HN: Tired of logic in useEffect, I built a class-based React state manager](https://thales.me/posts/why-i-built-snapstate/)
 * [2026-04-08, 21:33:06](https://news.ycombinator.com/item?id=47696562) - [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
 * [2026-04-08, 20:46:27](https://news.ycombinator.com/item?id=47696035) - [John Deere to pay $99M in right-to-repair settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)
@@ -18,18 +20,16 @@
 * [2026-04-08, 11:20:50](https://news.ycombinator.com/item?id=47688678) - [They're made out of meat (1991)](http://www.terrybisson.com/theyre-made-out-of-meat-2/)
 * [2026-04-08, 08:53:42](https://news.ycombinator.com/item?id=47687273) - [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
 * [2026-04-08, 08:50:37](https://news.ycombinator.com/item?id=47687248) - [Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones](https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/)
-* [2026-04-08, 07:23:39](https://news.ycombinator.com/item?id=47686549) - [Veracrypt project update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)
 * [2026-04-08, 06:01:00](https://news.ycombinator.com/item?id=47685945) - [We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2](https://blog.railway.com/p/moving-railways-frontend-off-nextjs)
 * [2026-04-08, 04:37:57](https://news.ycombinator.com/item?id=47685320) - [Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 * [2026-04-07, 15:07:45](https://news.ycombinator.com/item?id=47676561) - [Teardown of unreleased LG Rollable shows why rollable phones aren't a thing](https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/)
 * [2026-04-07, 13:55:14](https://news.ycombinator.com/item?id=47675446) - [Audio Reactive LED Strips Are Diabolically Hard](https://scottlawsonbc.com/post/audio-led)
-* [2026-04-06, 16:40:46](https://news.ycombinator.com/item?id=47663285) - [Why do Macs ask you to press random keys when connecting a new keyboard?](https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/)
+* [2026-04-06, 14:22:51](https://news.ycombinator.com/item?id=47661297) - [What Does It Mean to \"Write Like You Talk\"?](https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you)
 * [2026-04-06, 13:37:34](https://news.ycombinator.com/item?id=47660766) - [Exposing and Understanding Scrolling Transfer Functions (2012) [pdf]](https://direction.bordeaux.inria.fr/~roussel/publications/2012-UIST-scrolling-tf.pdf)
 * [2026-04-06, 03:40:31](https://news.ycombinator.com/item?id=47656730) - [Understanding Traceroute](https://tech.stonecharioteer.com/posts/2026/traceroute/)
 * [2026-04-05, 21:30:19](https://news.ycombinator.com/item?id=47654062) - [Ask HN: Any interesting niche hobbies?](https://news.ycombinator.com/item?id=47654062)
 * [2026-04-05, 12:08:55](https://news.ycombinator.com/item?id=47648538) - [Pgit: I Imported the Linux Kernel into PostgreSQL](https://oseifert.ch/blog/linux-kernel-pgit)
 * [2026-04-05, 06:25:30](https://news.ycombinator.com/item?id=47646646) - [What does ⍋⍋ even mean? (2023)](https://blog.wilsonb.com/posts/2023-08-04-what-does-grade-grade-even-mean.html)
-* [2026-04-05, 02:53:07](https://news.ycombinator.com/item?id=47645717) - [Union types in C# 15](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/)
 
 ## [Archives](archives/index.md)
 

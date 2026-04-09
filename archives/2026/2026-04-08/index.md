@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
+* [2026-04-08, 23:53:07](https://news.ycombinator.com/item?id=47697670) - [Automatic registration for US Military draft to begin in December](https://thehill.com/policy/defense/5822914-automatic-registration-military-draft/)
 * [2026-04-08, 21:53:36](https://news.ycombinator.com/item?id=47696760) - [Show HN: Tired of logic in useEffect, I built a class-based React state manager](https://thales.me/posts/why-i-built-snapstate/)
 * [2026-04-08, 21:33:06](https://news.ycombinator.com/item?id=47696562) - [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
 * [2026-04-08, 20:46:27](https://news.ycombinator.com/item?id=47696035) - [John Deere to Pay $99M in Monumental Right-to-Repair Settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)

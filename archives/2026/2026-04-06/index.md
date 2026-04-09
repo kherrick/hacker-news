@@ -41,6 +41,7 @@
 * [2026-04-06, 15:31:20](https://news.ycombinator.com/item?id=47662234) - [A Cryptography Engineer's Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/)
 * [2026-04-06, 15:22:53](https://news.ycombinator.com/item?id=47662116) - [Sky – an Elm-inspired language that compiles to Go](https://github.com/anzellai/sky)
 * [2026-04-06, 14:31:29](https://news.ycombinator.com/item?id=47661439) - [I Won't Download Your App. The Web Version Is A-OK](https://www.0xsid.com/blog/wont-download-your-app)
+* [2026-04-06, 14:22:51](https://news.ycombinator.com/item?id=47661297) - [What Does It Mean to \"Write Like You Talk\"?](https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you)
 * [2026-04-06, 14:16:35](https://news.ycombinator.com/item?id=47661231) - [When Virality Is the Message: The New Age of AI Propaganda](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
 * [2026-04-06, 14:01:09](https://news.ycombinator.com/item?id=47661065) - [The Team Behind a Pro-Iran, Lego-Themed Viral-Video Campaign](https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign)
 * [2026-04-06, 13:58:58](https://news.ycombinator.com/item?id=47661038) - [Show HN: I built a navigation app that displays weather along the route](https://navimodo.com/)
