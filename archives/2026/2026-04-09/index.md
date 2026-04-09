@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 12:11:56](https://news.ycombinator.com/item?id=47702647) - [Launch HN: Relvy (YC F24) – On-call runbooks, automated](https://www.relvy.ai)
+* [2026-04-09, 11:23:31](https://news.ycombinator.com/item?id=47702196) - [Show HN: CSS Studio. Design by hand, code by agent](https://cssstudio.ai)
 * [2026-04-09, 10:10:19](https://news.ycombinator.com/item?id=47701572) - [Wit, unker, Git: The lost medieval pronouns of English intimacy](https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us)
 * [2026-04-09, 09:25:28](https://news.ycombinator.com/item?id=47701233) - [Claude mixes up who said what and that's not OK](https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html)
 * [2026-04-09, 09:11:37](https://news.ycombinator.com/item?id=47701100) - [Creating the Futurescape for the Fifth Element](https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element)

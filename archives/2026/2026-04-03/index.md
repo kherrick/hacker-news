@@ -69,6 +69,7 @@
 * [2026-04-03, 10:01:50](https://news.ycombinator.com/item?id=47624879) - [Switzerland hosts 'CERN of semiconductor research'](https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332)
 * [2026-04-03, 09:52:20](https://news.ycombinator.com/item?id=47624811) - [SSH certificates: the better SSH experience](https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/)
 * [2026-04-03, 09:49:41](https://news.ycombinator.com/item?id=47624804) - [Category Theory Illustrated – Types](https://abuseofnotation.github.io/category-theory-illustrated/06_type/)
+* [2026-04-03, 09:42:05](https://news.ycombinator.com/item?id=47624763) - [Tree Calculus](https://treecalcul.us/)
 * [2026-04-03, 09:37:24](https://news.ycombinator.com/item?id=47624741) - [Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/)
 * [2026-04-03, 09:36:33](https://news.ycombinator.com/item?id=47624736) - [NHS staff refusing to use FDP over Palantir ethical concerns](https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272)
 * [2026-04-03, 09:35:16](https://news.ycombinator.com/item?id=47624731) - [April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5)

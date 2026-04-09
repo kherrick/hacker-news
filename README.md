@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-09, 12:11:56](https://news.ycombinator.com/item?id=47702647) - [Launch HN: Relvy (YC F24) – On-call runbooks, automated](https://www.relvy.ai)
+* [2026-04-09, 11:23:31](https://news.ycombinator.com/item?id=47702196) - [Show HN: CSS Studio. Design by hand, code by agent](https://cssstudio.ai)
 * [2026-04-09, 10:10:19](https://news.ycombinator.com/item?id=47701572) - [Wit, unker, Git: The lost medieval pronouns of English intimacy](https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us)
 * [2026-04-09, 09:25:28](https://news.ycombinator.com/item?id=47701233) - [Claude mixes up who said what and that's not OK](https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html)
 * [2026-04-09, 09:11:37](https://news.ycombinator.com/item?id=47701100) - [Creating the Futurescape for the Fifth Element [2019]](https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element)
-* [2026-04-09, 08:55:18](https://news.ycombinator.com/item?id=47700972) - [Reallocating $100/Month Claude Code Spend to Zed and OpenRouter](https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/)
 * [2026-04-09, 07:27:25](https://news.ycombinator.com/item?id=47700388) - [Help Keep Thunderbird Alive](https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/)
-* [2026-04-09, 06:00:55](https://news.ycombinator.com/item?id=47699814) - [Process Manager for Autonomous AI Agents](https://botctl.dev/)
 * [2026-04-09, 04:11:55](https://news.ycombinator.com/item?id=47699181) - [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
 * [2026-04-09, 00:26:08](https://news.ycombinator.com/item?id=47697870) - [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
 * [2026-04-08, 19:23:34](https://news.ycombinator.com/item?id=47695012) - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
@@ -24,12 +24,12 @@
 * [2026-04-06, 17:09:40](https://news.ycombinator.com/item?id=47663743) - [Show HN: Moon simulator game, ray-casting](https://mooncraft2000.com)
 * [2026-04-06, 13:08:17](https://news.ycombinator.com/item?id=47660434) - [C# in Unity 2026: Features Most Developers Still Don't Use](https://darkounity.com/blog/c-in-unity-2026-features-most-developers-still-dont-use)
 * [2026-04-06, 10:09:00](https://news.ycombinator.com/item?id=47658950) - [Haunted Paper Toys](http://ravensblight.com/papertoys.html)
-* [2026-04-06, 03:40:31](https://news.ycombinator.com/item?id=47656730) - [Understanding Traceroute](https://tech.stonecharioteer.com/posts/2026/traceroute/)
 * [2026-04-05, 21:30:19](https://news.ycombinator.com/item?id=47654062) - [Ask HN: Any interesting niche hobbies?](https://news.ycombinator.com/item?id=47654062)
 * [2026-04-05, 12:08:55](https://news.ycombinator.com/item?id=47648538) - [I imported the full Linux kernel git history into pgit](https://oseifert.ch/blog/linux-kernel-pgit)
 * [2026-04-05, 00:37:57](https://news.ycombinator.com/item?id=47645010) - [Dr. Dobb's Developer Library DVD 6](https://archive.org/details/DDJDVD6)
 * [2026-04-04, 21:50:53](https://news.ycombinator.com/item?id=47643852) - [Map Gesture Controls - Control maps with your hands](https://sanderdesnaijer.github.io/map-gesture-controls/)
 * [2026-04-03, 20:56:25](https://news.ycombinator.com/item?id=47632157) - [Improving storage efficiency in Magic Pocket, Dropbox's immutable blob store](https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store)
+* [2026-04-03, 09:42:05](https://news.ycombinator.com/item?id=47624763) - [Tree Calculus](https://treecalcul.us/)
 
 ## [Archives](archives/index.md)
 
