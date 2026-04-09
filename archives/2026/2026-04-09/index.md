@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 15:17:27](https://news.ycombinator.com/item?id=47704881) - [Vercel Claude Code plugin wants to read your prompt](https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry)
 * [2026-04-09, 13:23:50](https://news.ycombinator.com/item?id=47703419) - [Meta removes ads for social media addiction litigation](https://www.axios.com/2026/04/09/meta-social-media-addiction-ads)
 * [2026-04-09, 12:57:10](https://news.ycombinator.com/item?id=47703123) - [How Pizza Tycoon simulated traffic on a 25 MHz CPU](https://pizzalegacy.nl/blog/traffic-system.html)
 * [2026-04-09, 12:52:12](https://news.ycombinator.com/item?id=47703072) - [Am I German or Autistic?](https://german.millermanschool.com/)
+* [2026-04-09, 12:51:32](https://news.ycombinator.com/item?id=47703065) - [Session is shutting down in 90 days](https://getsession.org/donate)
 * [2026-04-09, 12:25:57](https://news.ycombinator.com/item?id=47702791) - [Show HN: 41 years sea surface temperature anomalies](https://ssta.willhelps.org)
 * [2026-04-09, 12:11:56](https://news.ycombinator.com/item?id=47702647) - [Launch HN: Relvy (YC F24) – On-call runbooks, automated](https://www.relvy.ai)
 * [2026-04-09, 12:01:31](https://news.ycombinator.com/item?id=47702541) - [A WebGPU Implementation of Augmented Vertex Block Descent](https://github.com/jure/webphysics)

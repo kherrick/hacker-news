@@ -45,6 +45,7 @@
 * [2026-04-08, 05:34:08](https://news.ycombinator.com/item?id=47685739) - [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s)
 * [2026-04-08, 05:22:42](https://news.ycombinator.com/item?id=47685644) - [Introduction to Nintendo DS Programming](https://www.patater.com/files/projects/manual/manual.html)
 * [2026-04-08, 04:37:57](https://news.ycombinator.com/item?id=47685320) - [Who is Satoshi nakamoto? My quest to unmask Bitcoin's creator](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+* [2026-04-08, 03:35:21](https://news.ycombinator.com/item?id=47684811) - [One Brain to Query: Wiring a 60-Person Company into a Single Slack Bot](https://merylldindin.com/thoughts/company-brain/)
 * [2026-04-08, 03:03:33](https://news.ycombinator.com/item?id=47684514) - [Protect Your Shed](https://dylanbutler.dev/blog/protect-your-shed/)
 * [2026-04-08, 03:02:56](https://news.ycombinator.com/item?id=47684506) - [LLM scraper bots are overloading acme.com's HTTPS server](http://acme.com/updates/archive/229.html)
 * [2026-04-08, 02:41:12](https://news.ycombinator.com/item?id=47684326) - [OpenAI says its new model GPT-2 is too dangerous to release (2019)](https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html)
