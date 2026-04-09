@@ -29,6 +29,7 @@
 * [2026-04-06, 17:52:46](https://news.ycombinator.com/item?id=47664389) - [Intelligent people are better judges of the intelligence of others](https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/)
 * [2026-04-06, 17:38:30](https://news.ycombinator.com/item?id=47664205) - [Adobe modifies hosts file to detect whether Creative Cloud is installed](https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/)
 * [2026-04-06, 17:37:38](https://news.ycombinator.com/item?id=47664186) - [Battle for Wesnoth: open-source, turn-based strategy game](https://www.wesnoth.org)
+* [2026-04-06, 17:09:40](https://news.ycombinator.com/item?id=47663743) - [Show HN: Moon simulator game, ray-casting](https://mooncraft2000.com)
 * [2026-04-06, 16:40:46](https://news.ycombinator.com/item?id=47663285) - [Why do Macs ask you to press random keys when connecting a new keyboard?](https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/)
 * [2026-04-06, 16:36:00](https://news.ycombinator.com/item?id=47663207) - [Show HN: I Built Paul Graham's Intellectual Captcha Idea](https://mentwire.com/sample)
 * [2026-04-06, 16:32:11](https://news.ycombinator.com/item?id=47663147) - [Launch HN: Freestyle: Sandboxes for AI Coding Agents](https://www.freestyle.sh)
