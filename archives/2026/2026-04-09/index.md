@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
 * [2026-04-09, 17:08:04](https://news.ycombinator.com/item?id=47706268) - [EFF Is Leaving X](https://www.eff.org/deeplinks/2026/04/eff-leaving-x)
+* [2026-04-09, 16:58:49](https://news.ycombinator.com/item?id=47706141) - [Research-Driven Agents: What Happens When Your Agent Reads Before It Codes](https://blog.skypilot.co/research-driven-agents/)
 * [2026-04-09, 16:57:36](https://news.ycombinator.com/item?id=47706120) - [EFF Logs Out of X](https://twitter.com/EFF/status/2042278157609480566)
 * [2026-04-09, 16:46:11](https://news.ycombinator.com/item?id=47705952) - [The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy](https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo)
 * [2026-04-09, 16:04:54](https://news.ycombinator.com/item?id=47705413) - [I built a Cargo-like build tool for C/C++](https://github.com/randerson112/craft)
