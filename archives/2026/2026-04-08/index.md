@@ -42,6 +42,7 @@
 * [2026-04-08, 08:53:42](https://news.ycombinator.com/item?id=47687273) - [The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/)
 * [2026-04-08, 08:50:37](https://news.ycombinator.com/item?id=47687248) - [Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones](https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/)
 * [2026-04-08, 07:23:39](https://news.ycombinator.com/item?id=47686549) - [Veracrypt Project Update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)
+* [2026-04-08, 07:10:02](https://news.ycombinator.com/item?id=47686431) - [C++: Freestanding Standard Library](https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding)
 * [2026-04-08, 06:34:54](https://news.ycombinator.com/item?id=47686187) - [Sonnet 4.6 Elevated Rate of Errors](https://status.claude.com/incidents/lhws0phdvzz3)
 * [2026-04-08, 06:15:44](https://news.ycombinator.com/item?id=47686046) - [The Art of Risk Management (2017)](https://www.bcg.com/publications/2017/finance-function-excellence-corporate-development-art-risk-management)
 * [2026-04-08, 06:01:00](https://news.ycombinator.com/item?id=47685945) - [We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two](https://blog.railway.com/p/moving-railways-frontend-off-nextjs)

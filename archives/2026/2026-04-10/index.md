@@ -4,11 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-04-10](index.md)
 
+* [2026-04-10, 15:28:24](https://news.ycombinator.com/item?id=47719602) - [You can't trust macOS Privacy and Security settings](https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/)
+* [2026-04-10, 15:20:48](https://news.ycombinator.com/item?id=47719486) - [France to ditch Windows for Linux to reduce reliance on US tech](https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/)
+* [2026-04-10, 15:06:51](https://news.ycombinator.com/item?id=47719274) - [Helium Is Hard to Replace](https://www.construction-physics.com/p/helium-is-hard-to-replace)
+* [2026-04-10, 14:42:04](https://news.ycombinator.com/item?id=47718891) - [Supply chain nightmare: How Rust will be attacked and what we can do to mitigate](https://kerkour.com/rust-supply-chain-nightmare)
 * [2026-04-10, 14:37:29](https://news.ycombinator.com/item?id=47718830) - [CPU-Z and HWMonitor Compromised](https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/)
 * [2026-04-10, 14:35:35](https://news.ycombinator.com/item?id=47718812) - [Why do we tell ourselves scary stories about AI?](https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/)
+* [2026-04-10, 14:27:29](https://news.ycombinator.com/item?id=47718694) - [\"Negative\" views of Broadcom driving VMware migrations, rival says](https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/)
 * [2026-04-10, 14:12:48](https://news.ycombinator.com/item?id=47718470) - [Code is run more than read (2023)](https://olano.dev/blog/code-is-run-more-than-read/)
 * [2026-04-10, 14:11:59](https://news.ycombinator.com/item?id=47718458) - [Tech job relocation market is recovering. The competition is growing faster](https://relocateme.substack.com/p/the-tech-relocation-job-market-is)
+* [2026-04-10, 13:47:17](https://news.ycombinator.com/item?id=47718114) - [US summons bank bosses over cyber risks from Anthropic's latest AI model](https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model)
 * [2026-04-10, 13:38:39](https://news.ycombinator.com/item?id=47717973) - [The effects of caffeine consumption do not decay with a ~5 hour half-life](https://www.lesswrong.com/posts/vefsxkGWkEMmDcZ7v/the-effects-of-caffeine-consumption-do-not-decay-with-a-5)
+* [2026-04-10, 13:29:20](https://news.ycombinator.com/item?id=47717847) - [CPU-Z and HWMonitor compromised](https://www.theregister.com/2026/04/10/cpuid_site_hijacked/)
 * [2026-04-10, 13:08:43](https://news.ycombinator.com/item?id=47717587) - [OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
 * [2026-04-10, 13:06:58](https://news.ycombinator.com/item?id=47717571) - [Jennifer Aniston and Friends Cost Us 377GB and Broke Ext4 Hardlinks](https://blog.discourse.org/2026/04/how-jennifer-aniston-and-friends-cost-us-377gb-and-broke-ext4-hardlinks/)
 * [2026-04-10, 12:03:34](https://news.ycombinator.com/item?id=47716809) - [Intel 486 CPU announced April 10, 1989](https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/)
