@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-04-10](index.md)
 
+* [2026-04-10, 17:27:07](https://news.ycombinator.com/item?id=47721207) - [HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X](https://torrentfreak.com/hbo-obtains-dmca-subpoena-to-unmask-euphoria-spoiler-account-on-x/)
 * [2026-04-10, 17:01:07](https://news.ycombinator.com/item?id=47720918) - [Bild AI (YC W25) Is Hiring a Founding Product Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer)
 * [2026-04-10, 16:53:55](https://news.ycombinator.com/item?id=47720827) - [A compelling title that is cryptic enough to get you to take action on it](https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/)
 * [2026-04-10, 16:45:40](https://news.ycombinator.com/item?id=47720719) - [The difficulty of making sure your website is broken](https://letsencrypt.org/2026/04/10/test-sites.html)
 * [2026-04-10, 16:34:20](https://news.ycombinator.com/item?id=47720579) - [Peers vote to ban pornography depicting sex acts between stepfamily members](https://www.theguardian.com/society/2026/apr/10/porngraphy-depicting-sex-acts-between-stepfamily-members-banned-in-uk)
 * [2026-04-10, 16:22:26](https://news.ycombinator.com/item?id=47720419) - [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+* [2026-04-10, 16:22:13](https://news.ycombinator.com/item?id=47720418) - [Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs](https://twill.ai)
 * [2026-04-10, 15:58:07](https://news.ycombinator.com/item?id=47720060) - [Why I'm Building a Database Engine in C#](https://nockawa.github.io/blog/why-building-database-engine-in-csharp/)
 * [2026-04-10, 15:51:41](https://news.ycombinator.com/item?id=47719975) - [Bluesky April 2026 Outage Post-Mortem](https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2)
 * [2026-04-10, 15:49:52](https://news.ycombinator.com/item?id=47719942) - [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html)

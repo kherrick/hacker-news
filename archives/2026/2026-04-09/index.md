@@ -35,6 +35,7 @@
 * [2026-04-09, 16:36:56](https://news.ycombinator.com/item?id=47705834) - [Little Snitch comes to Linux, but the core logic is closed source](https://the.unknown-universe.co.uk/privacy-security/little-snitch-linux/)
 * [2026-04-09, 16:04:54](https://news.ycombinator.com/item?id=47705413) - [I built a Cargo-like build tool for C/C++](https://github.com/randerson112/craft)
 * [2026-04-09, 15:55:09](https://news.ycombinator.com/item?id=47705324) - [Emperor penguin and Antarctic fur seal now endangered](https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn)
+* [2026-04-09, 15:43:25](https://news.ycombinator.com/item?id=47705187) - [The best seat in town](https://www.torched.la/the-best-seat-in-town/)
 * [2026-04-09, 15:17:27](https://news.ycombinator.com/item?id=47704881) - [Vercel Claude Code plugin wants to read your prompt](https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry)
 * [2026-04-09, 15:12:40](https://news.ycombinator.com/item?id=47704804) - [How NASA Built Artemis II’s Fault-Tolerant Computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
 * [2026-04-09, 13:33:33](https://news.ycombinator.com/item?id=47703528) - [The Future of Everything Is Lies, I Guess: Part 3 – Culture](https://aphyr.com/posts/413-the-future-of-everything-is-lies-i-guess-culture)
