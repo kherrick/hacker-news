@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-04-10, 12:03:34",
+      "https://news.ycombinator.com/item?id=47716809"
+    ],
+    [
+      "Intel 486 CPU announced April 10, 1989",
+      "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 11:47:08",
+      "https://news.ycombinator.com/item?id=47716663"
+    ],
+    [
+      "White House staff told not to place bets on prediction markets",
+      "https://www.bbc.co.uk/news/articles/cgld65x396go"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 11:29:04",
+      "https://news.ycombinator.com/item?id=47716490"
+    ],
+    [
+      "FBI used iPhone notification data to retrieve deleted Signal messages",
+      "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 11:20:51",
       "https://news.ycombinator.com/item?id=47716412"
     ],
     [
       "Microsoft suspends dev accounts for high-profile open source projects",
       "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 11:00:50",
-      "https://news.ycombinator.com/item?id=47716219"
-    ],
-    [
-      "Python Is Dead",
-      "https://calebfenton.substack.com/p/python-is-dead"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-04-09, 20:10:25",
-      "https://news.ycombinator.com/item?id=47709130"
-    ],
-    [
-      "Reverse engineering Gemini's SynthID detection",
-      "https://github.com/aloshdenny/reverse-SynthID"
-    ]
-  ],
-  [
-    [
       "2026-04-09, 19:48:26",
       "https://news.ycombinator.com/item?id=47708818"
     ],
@@ -167,16 +177,6 @@
     [
       "PicoZ80 – Drop-In Z80 Replacement",
       "https://eaw.app/picoz80/"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 18:37:45",
-      "https://news.ycombinator.com/item?id=47707762"
-    ],
-    [
-      "Hegel, a universal property-based testing protocol and family of PBT libraries",
-      "https://hegel.dev"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-04-07, 17:47:46",
+      "https://news.ycombinator.com/item?id=47678844"
+    ],
+    [
+      "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
+      "https://github.com/marimo-team/marimo-pair"
+    ]
+  ],
+  [
+    [
       "2026-04-07, 14:25:23",
       "https://news.ycombinator.com/item?id=47675906"
     ],
@@ -287,16 +297,6 @@
     [
       "War on Raze",
       "https://gist.github.com/chrispsn/af6844b80687462814fc39d4b97399a6"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 18:02:54",
-      "https://news.ycombinator.com/item?id=47664524"
-    ],
-    [
-      "Sorting Performance Rabbit Hole",
-      "https://nibblestew.blogspot.com/2026/04/sorting-performance-rabbit-hole.html"
     ]
   ]
 ]
