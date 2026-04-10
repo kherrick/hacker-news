@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-10, 23:05:48](https://news.ycombinator.com/item?id=47724921) - [Sam Altman's response to Molotov cocktail incident](https://blog.samaltman.com/2279512)
+* [2026-04-10, 23:09:17](https://news.ycombinator.com/item?id=47724957) - [Has Mythos just broken the deal that kept the internet safe?](https://martinalderson.com/posts/has-mythos-just-broken-the-deal-that-kept-the-internet-safe/)
 * [2026-04-10, 22:16:40](https://news.ycombinator.com/item?id=47724352) - [Filing the Corners Off MacBooks](https://kentwalters.com/posts/corners/)
 * [2026-04-10, 21:56:33](https://news.ycombinator.com/item?id=47724118) - [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension)
-* [2026-04-10, 20:24:56](https://news.ycombinator.com/item?id=47723243) - [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
 * [2026-04-10, 19:27:58](https://news.ycombinator.com/item?id=47722562) - [Nowhere Is Safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
 * [2026-04-10, 19:10:22](https://news.ycombinator.com/item?id=47722333) - [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
 * [2026-04-10, 19:03:39](https://news.ycombinator.com/item?id=47722262) - [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
@@ -24,6 +23,7 @@
 * [2026-04-10, 15:06:51](https://news.ycombinator.com/item?id=47719274) - [Helium Is Hard to Replace](https://www.construction-physics.com/p/helium-is-hard-to-replace)
 * [2026-04-10, 13:29:20](https://news.ycombinator.com/item?id=47717847) - [CPU-Z and HWMonitor compromised](https://www.theregister.com/2026/04/10/cpuid_site_hijacked/)
 * [2026-04-09, 15:43:25](https://news.ycombinator.com/item?id=47705187) - [The best seat in town](https://www.torched.la/the-best-seat-in-town/)
+* [2026-04-09, 10:28:28](https://news.ycombinator.com/item?id=47701769) - [The Bra-and-Girdle Maker That Fashioned the Impossible for NASA](https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/)
 * [2026-04-08, 20:25:49](https://news.ycombinator.com/item?id=47695815) - [Simulating a 2D Quadcopter from Scratch](https://mrandri19.github.io/2026/04/03/2d-quadcopter-simulation.html)
 * [2026-04-08, 15:26:03](https://news.ycombinator.com/item?id=47691538) - [What is RISC-V and why it matters to Canonical](https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical)
 * [2026-04-08, 15:20:59](https://news.ycombinator.com/item?id=47691464) - [Vinyl Cache and Varnish Cache](https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html)
