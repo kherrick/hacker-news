@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-10, 06:09:47",
+      "https://news.ycombinator.com/item?id=47714239"
+    ],
+    [
+      "The tool that won't let AI say anything it can't cite",
+      "https://github.com/grainulation/grainulator"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 05:03:22",
+      "https://news.ycombinator.com/item?id=47713839"
+    ],
+    [
+      "YouTube locked my accounts and I can't cancel my subscription",
+      "https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 04:43:05",
       "https://news.ycombinator.com/item?id=47713744"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47713584"
     ],
     [
-      "Hip-hop pioneer, Afrika Bambaataa, dies aged 68",
+      "Afrika Bambaataa, hip-hop pioneer, has died",
       "https://www.bbc.co.uk/news/articles/c2evppm30p7o"
     ]
   ],
@@ -25,28 +45,28 @@
       "https://news.ycombinator.com/item?id=47713113"
     ],
     [
-      "The Raft Consensus Algorithm Explained Through \"Mean Girls\"",
+      "The Raft consensus algorithm explained through \"Mean Girls\" (2019)",
       "https://www.cockroachlabs.com/blog/raft-is-so-fetch/"
     ]
   ],
   [
     [
-      "2026-04-10, 01:09:06",
-      "https://news.ycombinator.com/item?id=47712340"
+      "2026-04-10, 02:01:48",
+      "https://news.ycombinator.com/item?id=47712718"
     ],
     [
-      "Microsoft PhotoDNA scanning problem",
-      "https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/"
+      "I still prefer MCP over skills",
+      "https://david.coffee/i-still-prefer-mcp-over-skills/"
     ]
   ],
   [
     [
-      "2026-04-10, 00:50:43",
-      "https://news.ycombinator.com/item?id=47712222"
+      "2026-04-10, 01:52:58",
+      "https://news.ycombinator.com/item?id=47712656"
     ],
     [
-      "Apple's New iPhone Update Is Restricting Internet Freedom in the UK",
-      "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/"
+      "We've raised $17M to build what comes after Git",
+      "https://blog.gitbutler.com/series-a"
     ]
   ],
   [
@@ -61,32 +81,12 @@
   ],
   [
     [
-      "2026-04-09, 22:03:15",
-      "https://news.ycombinator.com/item?id=47710835"
-    ],
-    [
-      "Show HN: Rust based eBook library for Python, with MIT license",
-      "https://github.com/arc53/fast-ebook"
-    ]
-  ],
-  [
-    [
       "2026-04-09, 21:34:11",
       "https://news.ycombinator.com/item?id=47710466"
     ],
     [
       "Kagi Product Tips – Customize Your Search Results with URL Redirects",
       "https://blog.kagi.com/tips/redirects"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 21:09:12",
-      "https://news.ycombinator.com/item?id=47710149"
-    ],
-    [
-      "Microsoft is employing dark patterns to goad users into paying for storage?",
-      "https://lzon.ca/posts/other/microsoft-user-abuse/"
     ]
   ],
   [
@@ -151,22 +151,22 @@
   ],
   [
     [
+      "2026-04-09, 18:30:59",
+      "https://news.ycombinator.com/item?id=47707632"
+    ],
+    [
+      "Instant 1.0, a backend for AI-coded apps",
+      "https://www.instantdb.com/essays/architecture"
+    ]
+  ],
+  [
+    [
       "2026-04-09, 18:22:39",
       "https://news.ycombinator.com/item?id=47707477"
     ],
     [
       "Old laptops in a colo as low cost servers",
       "https://colaptop.pages.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 17:08:04",
-      "https://news.ycombinator.com/item?id=47706268"
-    ],
-    [
-      "EFF is leaving X",
-      "https://www.eff.org/deeplinks/2026/04/eff-leaving-x"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-04-09, 12:11:56",
-      "https://news.ycombinator.com/item?id=47702647"
-    ],
-    [
-      "Launch HN: Relvy (YC F24) – On-call runbooks, automated",
-      "https://www.relvy.ai"
-    ]
-  ],
-  [
-    [
       "2026-04-09, 12:01:31",
       "https://news.ycombinator.com/item?id=47702541"
     ],
@@ -231,32 +221,22 @@
   ],
   [
     [
-      "2026-04-09, 00:26:08",
-      "https://news.ycombinator.com/item?id=47697870"
-    ],
-    [
-      "LittleSnitch for Linux",
-      "https://obdev.at/products/littlesnitch-linux/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 20:12:38",
-      "https://news.ycombinator.com/item?id=47695666"
-    ],
-    [
-      "Show HN: Druids – Build your own software factory",
-      "https://github.com/fulcrumresearch/druids"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 12:56:58",
       "https://news.ycombinator.com/item?id=47689550"
     ],
     [
       "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
       "https://pvp-ai.russell-harper.com"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 00:17:52",
+      "https://news.ycombinator.com/item?id=47683042"
+    ],
+    [
+      "VFX HQ: Visual Effects Headquarters (2000)",
+      "https://www.vfxhq.com/index.html"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "An AI robot in my home",
       "https://allevato.me/2026/04/07/an-ai-robot-in-my-home"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 02:50:58",
+      "https://news.ycombinator.com/item?id=47670188"
+    ],
+    [
+      "Robots eat cars",
+      "https://telemetry.endeff.com/p/robots-eat-cars"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 13:49:13",
+      "https://news.ycombinator.com/item?id=47660911"
+    ],
+    [
+      "Will I ever own a zettaflop?",
+      "https://geohot.github.io//blog/jekyll/update/2026/01/26/own-a-zettaflop.html"
     ]
   ]
 ]
