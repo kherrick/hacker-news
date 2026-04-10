@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-10](index.md)
 
+* [2026-04-10, 19:03:39](https://news.ycombinator.com/item?id=47722262) - [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
+* [2026-04-10, 18:40:34](https://news.ycombinator.com/item?id=47722011) - [Show HN: A WYSIWYG word processor in Python](https://codeberg.org/chrisecker/miniword)
+* [2026-04-10, 18:39:19](https://news.ycombinator.com/item?id=47721997) - [Show HN: FluidCAD – Parametric CAD with JavaScript](https://fluidcad.io/)
+* [2026-04-10, 18:34:55](https://news.ycombinator.com/item?id=47721946) - [JSON Formatter Chrome Plugin Now Closed and Injecting Adware](https://github.com/callumlocke/json-formatter)
+* [2026-04-10, 17:53:58](https://news.ycombinator.com/item?id=47721516) - [\"Not Even Government Agencies\" - Proton's misleading marketing](https://blog.ppb1701.com/not-even-government-agencies)
 * [2026-04-10, 17:27:07](https://news.ycombinator.com/item?id=47721207) - [HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X](https://torrentfreak.com/hbo-obtains-dmca-subpoena-to-unmask-euphoria-spoiler-account-on-x/)
 * [2026-04-10, 17:01:07](https://news.ycombinator.com/item?id=47720918) - [Bild AI (YC W25) Is Hiring a Founding Product Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer)
 * [2026-04-10, 16:53:55](https://news.ycombinator.com/item?id=47720827) - [A compelling title that is cryptic enough to get you to take action on it](https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/)
