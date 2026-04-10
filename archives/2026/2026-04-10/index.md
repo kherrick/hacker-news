@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-10](index.md)
 
+* [2026-04-10, 14:37:29](https://news.ycombinator.com/item?id=47718830) - [CPU-Z and HWMonitor Compromised](https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/)
+* [2026-04-10, 14:35:35](https://news.ycombinator.com/item?id=47718812) - [Why do we tell ourselves scary stories about AI?](https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/)
+* [2026-04-10, 14:12:48](https://news.ycombinator.com/item?id=47718470) - [Code is run more than read (2023)](https://olano.dev/blog/code-is-run-more-than-read/)
+* [2026-04-10, 14:11:59](https://news.ycombinator.com/item?id=47718458) - [Tech job relocation market is recovering. The competition is growing faster](https://relocateme.substack.com/p/the-tech-relocation-job-market-is)
 * [2026-04-10, 13:38:39](https://news.ycombinator.com/item?id=47717973) - [The effects of caffeine consumption do not decay with a ~5 hour half-life](https://www.lesswrong.com/posts/vefsxkGWkEMmDcZ7v/the-effects-of-caffeine-consumption-do-not-decay-with-a-5)
 * [2026-04-10, 13:08:43](https://news.ycombinator.com/item?id=47717587) - [OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
 * [2026-04-10, 13:06:58](https://news.ycombinator.com/item?id=47717571) - [Jennifer Aniston and Friends Cost Us 377GB and Broke Ext4 Hardlinks](https://blog.discourse.org/2026/04/how-jennifer-aniston-and-friends-cost-us-377gb-and-broke-ext4-hardlinks/)
