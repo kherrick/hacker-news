@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-04-10, 16:34:20",
+      "https://news.ycombinator.com/item?id=47720579"
+    ],
+    [
+      "Peers vote to ban pornography depicting sex acts between stepfamily members",
+      "https://www.theguardian.com/society/2026/apr/10/porngraphy-depicting-sex-acts-between-stepfamily-members-banned-in-uk"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 16:22:26",
+      "https://news.ycombinator.com/item?id=47720419"
+    ],
+    [
+      "Industrial design files for Keychron keyboards and mice",
+      "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 15:58:07",
+      "https://news.ycombinator.com/item?id=47720060"
+    ],
+    [
+      "Why I'm Building a Database Engine in C#",
+      "https://nockawa.github.io/blog/why-building-database-engine-in-csharp/"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 15:51:41",
+      "https://news.ycombinator.com/item?id=47719975"
+    ],
+    [
+      "Bluesky April 2026 Outage Post-Mortem",
+      "https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 15:49:52",
+      "https://news.ycombinator.com/item?id=47719942"
+    ],
+    [
+      "WireGuard makes new Windows release following Microsoft signing resolution",
+      "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 15:37:28",
+      "https://news.ycombinator.com/item?id=47719740"
+    ],
+    [
+      "1D Chess",
+      "https://rowan441.github.io/1dchess/chess.html"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 15:28:24",
       "https://news.ycombinator.com/item?id=47719602"
     ],
@@ -81,52 +141,12 @@
   ],
   [
     [
-      "2026-04-10, 13:08:43",
-      "https://news.ycombinator.com/item?id=47717587"
-    ],
-    [
-      "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
-      "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 12:03:34",
-      "https://news.ycombinator.com/item?id=47716809"
-    ],
-    [
-      "Intel 486 CPU announced April 10, 1989",
-      "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 11:29:04",
       "https://news.ycombinator.com/item?id=47716490"
     ],
     [
       "FBI used iPhone notification data to retrieve deleted Signal messages",
       "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 08:53:33",
-      "https://news.ycombinator.com/item?id=47715339"
-    ],
-    [
-      "Show HN: Keeper – embedded secret store for Go (help me break it)",
-      "https://github.com/agberohq/keeper"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 07:04:17",
-      "https://news.ycombinator.com/item?id=47714573"
-    ],
-    [
-      "Artemis II and the invisible hazard on the way to the Moon",
-      "https://www.ansto.gov.au/news/artemis-ii-and-invisible-hazard-on-way-to-moon-part-1"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-04-09, 19:38:08",
-      "https://news.ycombinator.com/item?id=47708697"
-    ],
-    [
-      "Show HN: QVAC SDK, a universal JavaScript SDK for building local AI applications",
-      "https://news.ycombinator.com/item?id=47708697"
-    ]
-  ],
-  [
-    [
       "2026-04-09, 15:12:40",
       "https://news.ycombinator.com/item?id=47704804"
     ],
@@ -237,16 +247,6 @@
     [
       "C++: Freestanding Standard Library",
       "https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 06:15:44",
-      "https://news.ycombinator.com/item?id=47686046"
-    ],
-    [
-      "The Art of Risk Management (2017)",
-      "https://www.bcg.com/publications/2017/finance-function-excellence-corporate-development-art-risk-management"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-04-07, 13:15:41",
-      "https://news.ycombinator.com/item?id=47674894"
+      "2026-04-07, 02:09:45",
+      "https://news.ycombinator.com/item?id=47669923"
     ],
     [
-      "Model-Based Testing for Dungeons & Dragons",
-      "https://www.loskutoff.com/blog/model-based-testing-dnd/"
+      "Clojure on Fennel Part One: Persistent Data Structures",
+      "https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/"
     ]
   ]
 ]
