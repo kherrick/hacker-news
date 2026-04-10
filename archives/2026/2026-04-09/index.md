@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 22:10:53](https://news.ycombinator.com/item?id=47710919) - [How the Trivy supply chain attack harvested credentials from secrets managers](https://vaultproof.dev/blog/trivy-supply-chain-attack)
 * [2026-04-09, 22:10:10](https://news.ycombinator.com/item?id=47710907) - [Funerals Keep Africa Poor](https://davidoks.blog/p/how-funerals-keep-africa-poor)
 * [2026-04-09, 22:04:09](https://news.ycombinator.com/item?id=47710845) - [BunnyCDN has been silently losing our production files for 15 months](https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/)
 * [2026-04-09, 21:59:28](https://news.ycombinator.com/item?id=47710782) - [The Training Example Lie Bracket](https://pbement.com/posts/lie_brackets/)
@@ -32,6 +33,7 @@
 * [2026-04-09, 16:04:54](https://news.ycombinator.com/item?id=47705413) - [I built a Cargo-like build tool for C/C++](https://github.com/randerson112/craft)
 * [2026-04-09, 15:55:09](https://news.ycombinator.com/item?id=47705324) - [Emperor penguin and Antarctic fur seal now endangered](https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn)
 * [2026-04-09, 15:17:27](https://news.ycombinator.com/item?id=47704881) - [Vercel Claude Code plugin wants to read your prompt](https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry)
+* [2026-04-09, 15:12:40](https://news.ycombinator.com/item?id=47704804) - [How NASA Built Artemis II’s Fault-Tolerant Computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
 * [2026-04-09, 13:33:33](https://news.ycombinator.com/item?id=47703528) - [The Future of Everything Is Lies, I Guess: Part 3 – Culture](https://aphyr.com/posts/413-the-future-of-everything-is-lies-i-guess-culture)
 * [2026-04-09, 13:23:50](https://news.ycombinator.com/item?id=47703419) - [Meta removes ads for social media addiction litigation](https://www.axios.com/2026/04/09/meta-social-media-addiction-ads)
 * [2026-04-09, 12:57:10](https://news.ycombinator.com/item?id=47703123) - [How Pizza Tycoon simulated traffic on a 25 MHz CPU](https://pizzalegacy.nl/blog/traffic-system.html)

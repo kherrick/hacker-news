@@ -53,6 +53,7 @@
 * [2026-04-06, 13:58:58](https://news.ycombinator.com/item?id=47661038) - [Show HN: I built a navigation app that displays weather along the route](https://navimodo.com/)
 * [2026-04-06, 13:52:37](https://news.ycombinator.com/item?id=47660954) - [Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 * [2026-04-06, 13:50:35](https://news.ycombinator.com/item?id=47660925) - [Claude Code is unusable for complex engineering tasks with the Feb updates](https://github.com/anthropics/claude-code/issues/42796)
+* [2026-04-06, 13:49:13](https://news.ycombinator.com/item?id=47660911) - [Will I ever own a zettaflop?](https://geohot.github.io//blog/jekyll/update/2026/01/26/own-a-zettaflop.html)
 * [2026-04-06, 13:44:01](https://news.ycombinator.com/item?id=47660853) - [Book Review: There Is No Antimemetics Division](https://www.stephendiehl.com/posts/no_antimimetics/)
 * [2026-04-06, 13:37:34](https://news.ycombinator.com/item?id=47660766) - [Exposing and Understanding Scrolling Transfer Functions (2012) [pdf]](https://direction.bordeaux.inria.fr/~roussel/publications/2012-UIST-scrolling-tf.pdf)
 * [2026-04-06, 13:08:17](https://news.ycombinator.com/item?id=47660434) - [C# in Unity 2026: Features Most Developers Still Don't Use](https://darkounity.com/blog/c-in-unity-2026-features-most-developers-still-dont-use)
