@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-10](index.md)
 
+* [2026-04-10, 08:44:37](https://news.ycombinator.com/item?id=47715291) - [Scientists invented a fake disease. AI told people it was real](https://www.nature.com/articles/d41586-026-01100-y)
 * [2026-04-10, 08:13:38](https://news.ycombinator.com/item?id=47715088) - [Zero-build privacy policies with Astro](https://www.openpolicy.sh/blog/no-build-astro)
+* [2026-04-10, 07:04:17](https://news.ycombinator.com/item?id=47714573) - [Artemis II and the invisible hazard on the way to the Moon](https://www.ansto.gov.au/news/artemis-ii-and-invisible-hazard-on-way-to-moon-part-1)
 * [2026-04-10, 06:15:46](https://news.ycombinator.com/item?id=47714273) - [Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia](https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia)
 * [2026-04-10, 06:09:47](https://news.ycombinator.com/item?id=47714239) - [The tool that won't let AI say anything it can't cite](https://github.com/grainulation/grainulator)
 * [2026-04-10, 05:03:22](https://news.ycombinator.com/item?id=47713839) - [YouTube locked my accounts and I can't cancel my subscription](https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html)
