@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-04-10](index.md)
 
+* [2026-04-10, 08:13:38](https://news.ycombinator.com/item?id=47715088) - [Zero-build privacy policies with Astro](https://www.openpolicy.sh/blog/no-build-astro)
+* [2026-04-10, 06:15:46](https://news.ycombinator.com/item?id=47714273) - [Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia](https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia)
 * [2026-04-10, 06:09:47](https://news.ycombinator.com/item?id=47714239) - [The tool that won't let AI say anything it can't cite](https://github.com/grainulation/grainulator)
 * [2026-04-10, 05:03:22](https://news.ycombinator.com/item?id=47713839) - [YouTube locked my accounts and I can't cancel my subscription](https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html)
 * [2026-04-10, 04:43:05](https://news.ycombinator.com/item?id=47713744) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer)
 * [2026-04-10, 04:17:28](https://news.ycombinator.com/item?id=47713584) - [Hip-hop pioneer, Afrika Bambaataa, dies aged 68](https://www.bbc.co.uk/news/articles/c2evppm30p7o)
+* [2026-04-10, 04:04:57](https://news.ycombinator.com/item?id=47713495) - [ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity](https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html)
 * [2026-04-10, 03:03:14](https://news.ycombinator.com/item?id=47713113) - [The Raft Consensus Algorithm Explained Through \"Mean Girls\"](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
 * [2026-04-10, 02:01:48](https://news.ycombinator.com/item?id=47712718) - [I still prefer MCP over skills](https://david.coffee/i-still-prefer-mcp-over-skills/)
 * [2026-04-10, 01:52:58](https://news.ycombinator.com/item?id=47712656) - [We've raised $17M to build what comes after Git](https://blog.gitbutler.com/series-a)
