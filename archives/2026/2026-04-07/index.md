@@ -24,6 +24,7 @@
 * [2026-04-07, 18:18:36](https://news.ycombinator.com/item?id=47679258) - [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
 * [2026-04-07, 18:11:31](https://news.ycombinator.com/item?id=47679155) - [Assessing Claude Mythos Preview's cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
 * [2026-04-07, 18:09:34](https://news.ycombinator.com/item?id=47679121) - [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
+* [2026-04-07, 17:47:46](https://news.ycombinator.com/item?id=47678844) - [Show HN: Marimo pair – Reactive Python notebooks as environments for agents](https://github.com/marimo-team/marimo-pair)
 * [2026-04-07, 17:34:13](https://news.ycombinator.com/item?id=47678690) - [Six (and a half) intuitions for KL divergence](https://www.perfectlynormal.co.uk/blog-kl-divergence)
 * [2026-04-07, 17:23:43](https://news.ycombinator.com/item?id=47678573) - [Cambodia unveils a statue of famous landmine-sniffing rat Magawa](https://www.bbc.com/news/articles/c0rx7xzd10xo)
 * [2026-04-07, 17:05:25](https://news.ycombinator.com/item?id=47678320) - [Kindle to end store downloads and registering for 1st-5th gen kindles in May](https://www.reddit.com/r/kindle/s/xg8uCdAWU3)
