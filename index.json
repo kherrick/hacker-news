@@ -1,22 +1,52 @@
 [
   [
     [
-      "2026-04-10, 14:37:29",
-      "https://news.ycombinator.com/item?id=47718830"
+      "2026-04-10, 15:28:24",
+      "https://news.ycombinator.com/item?id=47719602"
     ],
     [
-      "CPU-Z and HWMonitor Compromised",
-      "https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/"
+      "You can't trust macOS Privacy and Security settings",
+      "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/"
     ]
   ],
   [
     [
-      "2026-04-10, 14:35:35",
-      "https://news.ycombinator.com/item?id=47718812"
+      "2026-04-10, 15:20:48",
+      "https://news.ycombinator.com/item?id=47719486"
     ],
     [
-      "Why do we tell ourselves scary stories about AI?",
-      "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/"
+      "France to ditch Windows for Linux to reduce reliance on US tech",
+      "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 15:06:51",
+      "https://news.ycombinator.com/item?id=47719274"
+    ],
+    [
+      "Helium Is Hard to Replace",
+      "https://www.construction-physics.com/p/helium-is-hard-to-replace"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 14:42:04",
+      "https://news.ycombinator.com/item?id=47718891"
+    ],
+    [
+      "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
+      "https://kerkour.com/rust-supply-chain-nightmare"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 14:27:29",
+      "https://news.ycombinator.com/item?id=47718694"
+    ],
+    [
+      "\"Negative\" views of Broadcom driving VMware migrations, rival says",
+      "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/"
     ]
   ],
   [
@@ -31,22 +61,22 @@
   ],
   [
     [
-      "2026-04-10, 14:11:59",
-      "https://news.ycombinator.com/item?id=47718458"
+      "2026-04-10, 13:47:17",
+      "https://news.ycombinator.com/item?id=47718114"
     ],
     [
-      "Tech job relocation market is recovering. The competition is growing faster",
-      "https://relocateme.substack.com/p/the-tech-relocation-job-market-is"
+      "US summons bank bosses over cyber risks from Anthropic's latest AI model",
+      "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model"
     ]
   ],
   [
     [
-      "2026-04-10, 13:38:39",
-      "https://news.ycombinator.com/item?id=47717973"
+      "2026-04-10, 13:29:20",
+      "https://news.ycombinator.com/item?id=47717847"
     ],
     [
-      "The effects of caffeine consumption do not decay with a ~5 hour half-life",
-      "https://www.lesswrong.com/posts/vefsxkGWkEMmDcZ7v/the-effects-of-caffeine-consumption-do-not-decay-with-a-5"
+      "CPU-Z and HWMonitor compromised",
+      "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-04-09, 21:34:11",
-      "https://news.ycombinator.com/item?id=47710466"
-    ],
-    [
-      "Kagi Product Tips – Customize Your Search Results with URL Redirects",
-      "https://blog.kagi.com/tips/redirects"
-    ]
-  ],
-  [
-    [
       "2026-04-09, 20:12:07",
       "https://news.ycombinator.com/item?id=47709158"
     ],
@@ -191,36 +211,6 @@
   ],
   [
     [
-      "2026-04-09, 18:30:59",
-      "https://news.ycombinator.com/item?id=47707632"
-    ],
-    [
-      "Instant 1.0, a backend for AI-coded apps",
-      "https://www.instantdb.com/essays/architecture"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 18:22:39",
-      "https://news.ycombinator.com/item?id=47707477"
-    ],
-    [
-      "Old laptops in a colo as low cost servers",
-      "https://colaptop.pages.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 16:58:46",
-      "https://news.ycombinator.com/item?id=47706140"
-    ],
-    [
-      "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
-      "https://www.unfolder.app/"
-    ]
-  ],
-  [
-    [
       "2026-04-09, 15:12:40",
       "https://news.ycombinator.com/item?id=47704804"
     ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2026-04-08, 07:10:02",
+      "https://news.ycombinator.com/item?id=47686431"
+    ],
+    [
+      "C++: Freestanding Standard Library",
+      "https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 06:15:44",
       "https://news.ycombinator.com/item?id=47686046"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=47680005"
     ],
     [
-      "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
+      "DRAM has a design flaw from 1966. I bypassed it [video]",
       "https://www.youtube.com/watch?v=KKbgulTp3FE"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=47676174"
     ],
     [
-      "Mysteries of Dropbox: Property-Based Testing of a Distributed Sync Service [pdf]",
+      "Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]",
       "https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf"
     ]
   ],
