@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-10](index.md)
 
+* [2026-04-10, 22:16:40](https://news.ycombinator.com/item?id=47724352) - [Filing the Corners Off MacBooks](https://kentwalters.com/posts/corners/)
+* [2026-04-10, 21:56:33](https://news.ycombinator.com/item?id=47724118) - [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension)
 * [2026-04-10, 20:24:56](https://news.ycombinator.com/item?id=47723243) - [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
 * [2026-04-10, 19:58:09](https://news.ycombinator.com/item?id=47722913) - [DOJ Top Antitrust Litigators Exit After Ticketmaster Accord](https://www.bloomberg.com/news/articles/2026-04-08/doj-top-antitrust-litigators-exit-after-ticketmaster-settlement)
 * [2026-04-10, 19:28:09](https://news.ycombinator.com/item?id=47722566) - [DOJ Wants to Scrap Watergate-Era Rule That Makes Presidential Records Public](https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/)

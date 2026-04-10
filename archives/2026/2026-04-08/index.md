@@ -23,6 +23,7 @@
 * [2026-04-08, 16:01:32](https://news.ycombinator.com/item?id=47692043) - [Muse Spark: Scaling Towards Personal Superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1)
 * [2026-04-08, 15:40:00](https://news.ycombinator.com/item?id=47691730) - [I Ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
 * [2026-04-08, 15:26:03](https://news.ycombinator.com/item?id=47691538) - [What is RISC-V and why it matters to Canonical](https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical)
+* [2026-04-08, 15:20:59](https://news.ycombinator.com/item?id=47691464) - [Vinyl Cache and Varnish Cache](https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html)
 * [2026-04-08, 15:00:12](https://news.ycombinator.com/item?id=47691174) - [Show HN: Explore the Silk Roads through an interactive map](https://www.intofarlands.com/silk-roads-map)
 * [2026-04-08, 14:46:15](https://news.ycombinator.com/item?id=47690977) - [Microsoft Abruptly Terminates VeraCrypt Account, Halting Windows Updates](https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/)
 * [2026-04-08, 14:44:23](https://news.ycombinator.com/item?id=47690950) - [Show HN: BAREmail ʕ·ᴥ·ʔ – minimalist Gmail client for bad WiFi](https://github.com/matt-virgo/baremail)
