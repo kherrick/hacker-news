@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-04-10, 19:27:58",
-      "https://news.ycombinator.com/item?id=47722562"
+      "2026-04-10, 19:58:09",
+      "https://news.ycombinator.com/item?id=47722913"
     ],
     [
-      "Nowhere Is Safe",
-      "https://steveblank.com/2026/04/09/nowhere-is-safe/"
+      "DOJ Top Antitrust Litigators Exit After Ticketmaster Accord",
+      "https://www.bloomberg.com/news/articles/2026-04-08/doj-top-antitrust-litigators-exit-after-ticketmaster-settlement"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 19:28:09",
+      "https://news.ycombinator.com/item?id=47722566"
+    ],
+    [
+      "DOJ Wants to Scrap Watergate-Era Rule That Makes Presidential Records Public",
+      "https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Show HN: FluidCAD – Parametric CAD with JavaScript",
       "https://fluidcad.io/"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 18:35:29",
+      "https://news.ycombinator.com/item?id=47721955"
+    ],
+    [
+      "I've Seen a Thousand OpenClaw Deploys. Here's the Truth",
+      "https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2026-04-10, 01:52:58",
-      "https://news.ycombinator.com/item?id=47712656"
-    ],
-    [
-      "We've raised $17M to build what comes after Git",
-      "https://blog.gitbutler.com/series-a"
-    ]
-  ],
-  [
-    [
       "2026-04-09, 15:43:25",
       "https://news.ycombinator.com/item?id=47705187"
     ],
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2026-04-08, 07:10:02",
-      "https://news.ycombinator.com/item?id=47686431"
+      "2026-04-08, 14:05:14",
+      "https://news.ycombinator.com/item?id=47690405"
     ],
     [
-      "C++: Freestanding Standard Library",
-      "https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 21:41:06",
-      "https://news.ycombinator.com/item?id=47681701"
-    ],
-    [
-      "RSoC 2026: A new CPU scheduler for Redox OS",
-      "https://www.redox-os.org/news/rsoc-dwrr/"
+      "A security scanner as fast as a linter – written in Rust",
+      "https://github.com/peaktwilight/foxguard"
     ]
   ],
   [
