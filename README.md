@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-10, 20:24:56](https://news.ycombinator.com/item?id=47723243) - [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
 * [2026-04-10, 19:58:09](https://news.ycombinator.com/item?id=47722913) - [DOJ Top Antitrust Litigators Exit After Ticketmaster Accord](https://www.bloomberg.com/news/articles/2026-04-08/doj-top-antitrust-litigators-exit-after-ticketmaster-settlement)
 * [2026-04-10, 19:28:09](https://news.ycombinator.com/item?id=47722566) - [DOJ Wants to Scrap Watergate-Era Rule That Makes Presidential Records Public](https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/)
 * [2026-04-10, 19:10:22](https://news.ycombinator.com/item?id=47722333) - [Chimpanzees in Uganda locked in vicious 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
@@ -26,7 +27,6 @@
 * [2026-04-10, 04:04:57](https://news.ycombinator.com/item?id=47713495) - [A new trick brings stability to quantum operations](https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html)
 * [2026-04-09, 15:43:25](https://news.ycombinator.com/item?id=47705187) - [The best seat in town](https://www.torched.la/the-best-seat-in-town/)
 * [2026-04-08, 15:26:03](https://news.ycombinator.com/item?id=47691538) - [What is RISC-V and why it matters to Canonical](https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical)
-* [2026-04-08, 14:19:39](https://news.ycombinator.com/item?id=47690609) - [Deterministic Primality Testing for Limited Bit Width](https://www.jeremykun.com/2026/04/07/deterministic-miller-rabin/)
 * [2026-04-08, 14:05:14](https://news.ycombinator.com/item?id=47690405) - [A security scanner as fast as a linter – written in Rust](https://github.com/peaktwilight/foxguard)
 * [2026-04-07, 14:41:08](https://news.ycombinator.com/item?id=47676174) - [Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]](https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf)
 * [2026-04-07, 02:09:45](https://news.ycombinator.com/item?id=47669923) - [Clojure on Fennel Part One: Persistent Data Structures](https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/)
