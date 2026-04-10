@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-10](index.md)
 
+* [2026-04-10, 10:37:33](https://news.ycombinator.com/item?id=47716043) - [France Launches Government Linux Desktop Plan as Windows Exit Begins](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/)
+* [2026-04-10, 08:53:33](https://news.ycombinator.com/item?id=47715339) - [Show HN: Keeper – embedded secret store for Go (help me break it)](https://github.com/agberohq/keeper)
 * [2026-04-10, 08:44:37](https://news.ycombinator.com/item?id=47715291) - [Scientists invented a fake disease. AI told people it was real](https://www.nature.com/articles/d41586-026-01100-y)
 * [2026-04-10, 08:13:38](https://news.ycombinator.com/item?id=47715088) - [Zero-build privacy policies with Astro](https://www.openpolicy.sh/blog/no-build-astro)
 * [2026-04-10, 07:04:17](https://news.ycombinator.com/item?id=47714573) - [Artemis II and the invisible hazard on the way to the Moon](https://www.ansto.gov.au/news/artemis-ii-and-invisible-hazard-on-way-to-moon-part-1)
