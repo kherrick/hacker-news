@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-10](index.md)
 
+* [2026-04-10, 13:38:39](https://news.ycombinator.com/item?id=47717973) - [The effects of caffeine consumption do not decay with a ~5 hour half-life](https://www.lesswrong.com/posts/vefsxkGWkEMmDcZ7v/the-effects-of-caffeine-consumption-do-not-decay-with-a-5)
+* [2026-04-10, 13:08:43](https://news.ycombinator.com/item?id=47717587) - [OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
+* [2026-04-10, 13:06:58](https://news.ycombinator.com/item?id=47717571) - [Jennifer Aniston and Friends Cost Us 377GB and Broke Ext4 Hardlinks](https://blog.discourse.org/2026/04/how-jennifer-aniston-and-friends-cost-us-377gb-and-broke-ext4-hardlinks/)
 * [2026-04-10, 12:03:34](https://news.ycombinator.com/item?id=47716809) - [Intel 486 CPU announced April 10, 1989](https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/)
 * [2026-04-10, 11:47:08](https://news.ycombinator.com/item?id=47716663) - [White House staff told not to place bets on prediction markets](https://www.bbc.co.uk/news/articles/cgld65x396go)
 * [2026-04-10, 11:29:04](https://news.ycombinator.com/item?id=47716490) - [FBI used iPhone notification data to retrieve deleted Signal messages](https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/)
