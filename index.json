@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-04-10, 14:37:29",
+      "https://news.ycombinator.com/item?id=47718830"
+    ],
+    [
+      "CPU-Z and HWMonitor Compromised",
+      "https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 14:35:35",
+      "https://news.ycombinator.com/item?id=47718812"
+    ],
+    [
+      "Why do we tell ourselves scary stories about AI?",
+      "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 14:12:48",
+      "https://news.ycombinator.com/item?id=47718470"
+    ],
+    [
+      "Code is run more than read (2023)",
+      "https://olano.dev/blog/code-is-run-more-than-read/"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 14:11:59",
+      "https://news.ycombinator.com/item?id=47718458"
+    ],
+    [
+      "Tech job relocation market is recovering. The competition is growing faster",
+      "https://relocateme.substack.com/p/the-tech-relocation-job-market-is"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 13:38:39",
       "https://news.ycombinator.com/item?id=47717973"
     ],
@@ -15,18 +55,8 @@
       "https://news.ycombinator.com/item?id=47717587"
     ],
     [
-      "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths",
+      "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
       "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 13:06:58",
-      "https://news.ycombinator.com/item?id=47717571"
-    ],
-    [
-      "Jennifer Aniston and Friends Cost Us 377GB and Broke Ext4 Hardlinks",
-      "https://blog.discourse.org/2026/04/how-jennifer-aniston-and-friends-cost-us-377gb-and-broke-ext4-hardlinks/"
     ]
   ],
   [
@@ -41,32 +71,12 @@
   ],
   [
     [
-      "2026-04-10, 11:47:08",
-      "https://news.ycombinator.com/item?id=47716663"
-    ],
-    [
-      "White House staff told not to place bets on prediction markets",
-      "https://www.bbc.co.uk/news/articles/cgld65x396go"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 11:29:04",
       "https://news.ycombinator.com/item?id=47716490"
     ],
     [
       "FBI used iPhone notification data to retrieve deleted Signal messages",
       "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 10:37:33",
-      "https://news.ycombinator.com/item?id=47716043"
-    ],
-    [
-      "France Launches Government Linux Desktop Plan as Windows Exit Begins",
-      "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/"
     ]
   ],
   [
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=47713495"
     ],
     [
-      "Protected quantum gates using qubit doublons in dynamical optical lattices",
+      "A new trick brings stability to quantum operations",
       "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html"
     ]
   ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-04-09, 18:53:20",
-      "https://news.ycombinator.com/item?id=47708041"
-    ],
-    [
-      "PicoZ80 – Drop-In Z80 Replacement",
-      "https://eaw.app/picoz80/"
-    ]
-  ],
-  [
-    [
       "2026-04-09, 18:30:59",
       "https://news.ycombinator.com/item?id=47707632"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-04-09, 16:58:49",
-      "https://news.ycombinator.com/item?id=47706141"
-    ],
-    [
-      "Research-Driven Agents: When an agent reads before it codes",
-      "https://blog.skypilot.co/research-driven-agents/"
-    ]
-  ],
-  [
-    [
       "2026-04-09, 16:58:46",
       "https://news.ycombinator.com/item?id=47706140"
     ],
@@ -237,6 +227,16 @@
     [
       "How NASA built Artemis II’s fault-tolerant computer",
       "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 14:19:39",
+      "https://news.ycombinator.com/item?id=47690609"
+    ],
+    [
+      "Deterministic Primality Testing for Limited Bit Width",
+      "https://www.jeremykun.com/2026/04/07/deterministic-miller-rabin/"
     ]
   ],
   [
