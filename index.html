@@ -129,6 +129,201 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47722262">
+          <h3>
+            <a
+              class="item"
+              href="https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/"
+              >Watgo – A WebAssembly Toolkit for Go</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-10 @ 19:03:39</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47722262"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47722011">
+          <h3>
+            <a class="item" href="https://codeberg.org/chrisecker/miniword"
+              >Show HN: A WYSIWYG word processor in Python</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-10 @ 18:40:34</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47722011"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Finding a good data structure for a word processor is a
+                difficult problem. My notebook diaries on the problem go back 25
+                years when I was frustrated with using Word for my diploma
+                thesis - it was slow and unstable at that time. I ended up
+                getting pretty hooked on the problem.
+              </p>
+              <p>
+                Right now I’m taking a professional break and decided to finally
+                use the time to push these ideas further, and build MiniWord — a
+                WYSIWYG word processor in Python.
+              </p>
+              <p>
+                My goal is to have a native, non-HTML-based editor that stays
+                simple, fast, and is hackable. So far I am focusing on getting
+                the fundamentals right. What is working yet is:
+              </p>
+              <p>
+                - Real WYSIWYG editing (no HTML layer, no embedded browser) with
+                styles, images and tables.
+              </p>
+              <p>
+                - Clean, simple file format (human-readable, diff-friendly,
+                git-friendly, AI-friendly)
+              </p>
+              <p>- Markdown support</p>
+              <p>- Support for Python-plugins</p>
+              <p><i>Things that I found:</i></p>
+              <p>- B-tree structures are perfect for holding rich text data</p>
+              <p>
+                - A simple text-based file format is incredibly useful — you can
+                diff documents, version them, and even process them with AI
+                tools quite naturally
+              </p>
+              <p><i>What I’d love feedback on:</i></p>
+              <p>- Where do you see real use cases for something like this?</p>
+              <p>
+                - What would be missing for you to take it seriously as a tool
+                or platform?
+              </p>
+              <p>
+                - What kinds of plugins or extensions would actually be worth
+                building?
+              </p>
+              <p>Happy about any thoughts — positive or critical. Greetings</p>
+            </div>
+          </section>
+        </section>
+        <section id="47721997">
+          <h3>
+            <a class="item" href="https://fluidcad.io/"
+              >Show HN: FluidCAD – Parametric CAD with JavaScript</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-10 @ 18:39:19</span
+              ><span class="points-container"
+                >Points: <span class="points">33</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47721997"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                This is a CAD by code project I have been working on on my free
+                time for more than year now.
+              </p>
+              <p>I built it with 3 goals in mind:</p>
+              <p>
+                - It should be familiar to CAD designers who have used other
+                programs. Same workflow, same terminology.
+              </p>
+              <p>
+                - Reduce the mental effort required to create models as much as
+                possible. This is achieved by:
+              </p>
+              <p></p>
+              <pre><code>    - Provide live rendering and visual guidance as you type.
+    - Allow the user to reference existing edges/faces on the scene instead of having to calculate everything.
+    - Provide interactive mouse helpers for features that are hard to write by code: Only 3 interactive modes for now: Edge trimming, Sketch region extrude, Bezier curve drawing.
+    - Implicit coding whenever possible: e.g: There are sensible defaults for most parameters. The program will automatically fuse intersecting objects together so you do not have to worry about what object needs to be fused with what.</code></pre>
+              - It should be reasonably fast: The scene objects are cached and
+              only the updated objects are re-computed.
+              <p>
+                I think I have achieved these goals to a good extent. The
+                program is still in early stages and there are many features I
+                want to add, rewrite but I think it is already usable for simple
+                models.
+              </p>
+              <p>
+                Update to add more details: This is based on Opencascade.js WASM
+                binding. So you get all the good things that come with any brep
+                kernel. Fillets, chamfers, step import and export...
+              </p>
+              <p>
+                The scene is webview but the editing is in your local file. You
+                use your own editor and the environment you are familiar with.
+              </p>
+              <p>
+                One important feature that I think make this stand out among
+                other code based cad software is the ability to transform
+                features not just shapes. More here:
+                <a href="https://fluidcad.io/docs/guides/patterns"
+                  >https://fluidcad.io/docs/guides/patterns</a
+                >
+                You can see it in action in the lantern example:
+                <a href="https://fluidcad.io/docs/tutorials/lantern"
+                  >https://fluidcad.io/docs/tutorials/lantern</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47721946">
+          <h3>
+            <a class="item" href="https://github.com/callumlocke/json-formatter"
+              >JSON Formatter Chrome Plugin Now Closed and Injecting Adware</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-10 @ 18:34:55</span
+              ><span class="points-container"
+                >Points: <span class="points">37</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47721946"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47721516">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.ppb1701.com/not-even-government-agencies"
+              >"Not Even Government Agencies" - Proton's misleading marketing</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-10 @ 17:53:58</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47721516"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47721207">
           <h3>
             <a
@@ -142,11 +337,11 @@
             <h4>
               <span>2026-04-10 @ 17:27:07</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47721207"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -181,11 +376,11 @@
             <h4>
               <span>2026-04-10 @ 16:53:55</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47720827"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -202,11 +397,11 @@
             <h4>
               <span>2026-04-10 @ 16:45:40</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47720719"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -223,11 +418,11 @@
             <h4>
               <span>2026-04-10 @ 16:22:26</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47720419"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -243,11 +438,11 @@
             <h4>
               <span>2026-04-10 @ 16:22:13</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47720418"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
             <div class="text">
@@ -348,27 +543,6 @@
             </div>
           </section>
         </section>
-        <section id="47720060">
-          <h3>
-            <a
-              class="item"
-              href="https://nockawa.github.io/blog/why-building-database-engine-in-csharp/"
-              >Why I'm Building a Database Engine in C#</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-10 @ 15:58:07</span
-              ><span class="points-container"
-                >Points: <span class="points">45</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47720060"
-                  >Comments</a
-                ><span class="descendants">: 19</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="47719975">
           <h3>
             <a
@@ -381,11 +555,11 @@
             <h4>
               <span>2026-04-10 @ 15:51:41</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47719975"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -403,11 +577,11 @@
             <h4>
               <span>2026-04-10 @ 15:49:52</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">265</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47719942"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -422,11 +596,11 @@
             <h4>
               <span>2026-04-10 @ 15:37:28</span
               ><span class="points-container"
-                >Points: <span class="points">306</span></span
+                >Points: <span class="points">347</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47719740"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -443,11 +617,11 @@
             <h4>
               <span>2026-04-10 @ 15:28:24</span
               ><span class="points-container"
-                >Points: <span class="points">325</span></span
+                >Points: <span class="points">350</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47719602"
                   >Comments</a
-                ><span class="descendants">: 114</span></span
+                ><span class="descendants">: 123</span></span
               >
             </h4>
           </section>
@@ -465,11 +639,11 @@
             <h4>
               <span>2026-04-10 @ 15:20:48</span
               ><span class="points-container"
-                >Points: <span class="points">340</span></span
+                >Points: <span class="points">366</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47719486"
                   >Comments</a
-                ><span class="descendants">: 151</span></span
+                ><span class="descendants">: 166</span></span
               >
             </h4>
           </section>
@@ -486,11 +660,11 @@
             <h4>
               <span>2026-04-10 @ 15:06:51</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47719274"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -508,32 +682,11 @@
             <h4>
               <span>2026-04-10 @ 14:42:04</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47718891"
                   >Comments</a
                 ><span class="descendants">: 51</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47718470">
-          <h3>
-            <a
-              class="item"
-              href="https://olano.dev/blog/code-is-run-more-than-read/"
-              >Code is run more than read (2023)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-10 @ 14:12:48</span
-              ><span class="points-container"
-                >Points: <span class="points">103</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47718470"
-                  >Comments</a
-                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -550,11 +703,11 @@
             <h4>
               <span>2026-04-10 @ 13:29:20</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">167</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47717847"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
             <div class="text">
@@ -590,11 +743,11 @@
             <h4>
               <span>2026-04-10 @ 11:29:04</span
               ><span class="points-container"
-                >Points: <span class="points">492</span></span
+                >Points: <span class="points">504</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47716490"
                   >Comments</a
-                ><span class="descendants">: 249</span></span
+                ><span class="descendants">: 257</span></span
               >
             </h4>
           </section>
@@ -616,7 +769,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47714273"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -633,7 +786,7 @@
             <h4>
               <span>2026-04-10 @ 04:04:57</span
               ><span class="points-container"
-                >Points: <span class="points">213</span></span
+                >Points: <span class="points">215</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47713495"
                   >Comments</a
@@ -664,11 +817,11 @@
             <h4>
               <span>2026-04-10 @ 02:01:48</span
               ><span class="points-container"
-                >Points: <span class="points">409</span></span
+                >Points: <span class="points">413</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47712718"
                   >Comments</a
-                ><span class="descendants">: 331</span></span
+                ><span class="descendants">: 335</span></span
               >
             </h4>
           </section>
@@ -683,32 +836,11 @@
             <h4>
               <span>2026-04-10 @ 01:52:58</span
               ><span class="points-container"
-                >Points: <span class="points">284</span></span
+                >Points: <span class="points">287</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47712656"
                   >Comments</a
-                ><span class="descendants">: 624</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47708818">
-          <h3>
-            <a
-              class="item"
-              href="https://arhan.sh/blog/native-instant-space-switching-on-macos/"
-              >Native Instant Space Switching on macOS</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-09 @ 19:48:26</span
-              ><span class="points-container"
-                >Points: <span class="points">615</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47708818"
-                  >Comments</a
-                ><span class="descendants">: 295</span></span
+                ><span class="descendants">: 631</span></span
               >
             </h4>
           </section>
@@ -723,32 +855,11 @@
             <h4>
               <span>2026-04-09 @ 15:43:25</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47705187"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47704804">
-          <h3>
-            <a
-              class="item"
-              href="https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/"
-              >How NASA built Artemis II’s fault-tolerant computer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-09 @ 15:12:40</span
-              ><span class="points-container"
-                >Points: <span class="points">577</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47704804"
-                  >Comments</a
-                ><span class="descendants">: 215</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -765,11 +876,11 @@
             <h4>
               <span>2026-04-08 @ 14:19:39</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47690609"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -786,11 +897,11 @@
             <h4>
               <span>2026-04-08 @ 07:10:02</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47686431"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -805,40 +916,13 @@
             <h4>
               <span>2026-04-07 @ 21:41:06</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47681701"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47680005">
-          <h3>
-            <a class="item" href="https://www.youtube.com/watch?v=KKbgulTp3FE"
-              >DRAM has a design flaw from 1966. I bypassed it [video]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-07 @ 19:14:32</span
-              ><span class="points-container"
-                >Points: <span class="points">372</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47680005"
-                  >Comments</a
-                ><span class="descendants">: 134</span></span
-              >
-            </h4>
-            <div class="text">
-              <i>Tailslayer: Library for reducing tail latency in RAM reads</i>
-              -
-              <a href="https://news.ycombinator.com/item?id=47680023"
-                >https://news.ycombinator.com/item?id=47680023</a
-              >
-              - April 2026 (23 comments)
-            </div>
           </section>
         </section>
         <section id="47676174">
@@ -854,11 +938,11 @@
             <h4>
               <span>2026-04-07 @ 14:41:08</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47676174"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -875,11 +959,11 @@
             <h4>
               <span>2026-04-07 @ 02:09:45</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47669923"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
