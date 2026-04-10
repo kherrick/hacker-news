@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-10, 19:27:58",
+      "https://news.ycombinator.com/item?id=47722562"
+    ],
+    [
+      "Nowhere Is Safe",
+      "https://steveblank.com/2026/04/09/nowhere-is-safe/"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 19:10:22",
+      "https://news.ycombinator.com/item?id=47722333"
+    ],
+    [
+      "Chimpanzees in Uganda locked in vicious 'civil war', say researchers",
+      "https://www.bbc.com/news/articles/cr71lkzv49po"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 19:03:39",
       "https://news.ycombinator.com/item?id=47722262"
     ],
@@ -31,22 +51,22 @@
   ],
   [
     [
+      "2026-04-10, 18:35:21",
+      "https://news.ycombinator.com/item?id=47721953"
+    ],
+    [
+      "AI assistance when contributing to the Linux kernel",
+      "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 18:34:55",
       "https://news.ycombinator.com/item?id=47721946"
     ],
     [
       "JSON Formatter Chrome Plugin Now Closed and Injecting Adware",
       "https://github.com/callumlocke/json-formatter"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 17:53:58",
-      "https://news.ycombinator.com/item?id=47721516"
-    ],
-    [
-      "\"Not Even Government Agencies\" - Proton's misleading marketing",
-      "https://blog.ppb1701.com/not-even-government-agencies"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2026-04-10, 15:20:48",
-      "https://news.ycombinator.com/item?id=47719486"
-    ],
-    [
-      "France to ditch Windows for Linux to reduce reliance on US tech",
-      "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 15:06:51",
       "https://news.ycombinator.com/item?id=47719274"
     ],
     [
       "Helium Is Hard to Replace",
       "https://www.construction-physics.com/p/helium-is-hard-to-replace"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 14:42:04",
-      "https://news.ycombinator.com/item?id=47718891"
-    ],
-    [
-      "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
-      "https://kerkour.com/rust-supply-chain-nightmare"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-04-10, 02:01:48",
-      "https://news.ycombinator.com/item?id=47712718"
-    ],
-    [
-      "I still prefer MCP over skills",
-      "https://david.coffee/i-still-prefer-mcp-over-skills/"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 01:52:58",
       "https://news.ycombinator.com/item?id=47712656"
     ],
@@ -247,6 +237,16 @@
     [
       "The best seat in town",
       "https://www.torched.la/the-best-seat-in-town/"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 15:26:03",
+      "https://news.ycombinator.com/item?id=47691538"
+    ],
+    [
+      "What is RISC-V and why it matters to Canonical",
+      "https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical"
     ]
   ],
   [
