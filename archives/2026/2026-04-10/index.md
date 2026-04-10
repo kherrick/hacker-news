@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-10](index.md)
 
+* [2026-04-10, 11:20:51](https://news.ycombinator.com/item?id=47716412) - [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
+* [2026-04-10, 11:00:50](https://news.ycombinator.com/item?id=47716219) - [Python Is Dead](https://calebfenton.substack.com/p/python-is-dead)
 * [2026-04-10, 10:37:33](https://news.ycombinator.com/item?id=47716043) - [France Launches Government Linux Desktop Plan as Windows Exit Begins](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/)
 * [2026-04-10, 08:53:33](https://news.ycombinator.com/item?id=47715339) - [Show HN: Keeper – embedded secret store for Go (help me break it)](https://github.com/agberohq/keeper)
 * [2026-04-10, 08:44:37](https://news.ycombinator.com/item?id=47715291) - [Scientists invented a fake disease. AI told people it was real](https://www.nature.com/articles/d41586-026-01100-y)
