@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-04-10, 19:03:39",
+      "https://news.ycombinator.com/item?id=47722262"
+    ],
+    [
+      "Watgo – A WebAssembly Toolkit for Go",
+      "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 18:40:34",
+      "https://news.ycombinator.com/item?id=47722011"
+    ],
+    [
+      "Show HN: A WYSIWYG word processor in Python",
+      "https://codeberg.org/chrisecker/miniword"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 18:39:19",
+      "https://news.ycombinator.com/item?id=47721997"
+    ],
+    [
+      "Show HN: FluidCAD – Parametric CAD with JavaScript",
+      "https://fluidcad.io/"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 18:34:55",
+      "https://news.ycombinator.com/item?id=47721946"
+    ],
+    [
+      "JSON Formatter Chrome Plugin Now Closed and Injecting Adware",
+      "https://github.com/callumlocke/json-formatter"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 17:53:58",
+      "https://news.ycombinator.com/item?id=47721516"
+    ],
+    [
+      "\"Not Even Government Agencies\" - Proton's misleading marketing",
+      "https://blog.ppb1701.com/not-even-government-agencies"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 17:27:07",
       "https://news.ycombinator.com/item?id=47721207"
     ],
@@ -57,16 +107,6 @@
     [
       "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
       "https://twill.ai"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 15:58:07",
-      "https://news.ycombinator.com/item?id=47720060"
-    ],
-    [
-      "Why I'm Building a Database Engine in C#",
-      "https://nockawa.github.io/blog/why-building-database-engine-in-csharp/"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2026-04-10, 14:12:48",
-      "https://news.ycombinator.com/item?id=47718470"
-    ],
-    [
-      "Code is run more than read (2023)",
-      "https://olano.dev/blog/code-is-run-more-than-read/"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 13:29:20",
       "https://news.ycombinator.com/item?id=47717847"
     ],
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2026-04-09, 19:48:26",
-      "https://news.ycombinator.com/item?id=47708818"
-    ],
-    [
-      "Native Instant Space Switching on macOS",
-      "https://arhan.sh/blog/native-instant-space-switching-on-macos/"
-    ]
-  ],
-  [
-    [
       "2026-04-09, 15:43:25",
       "https://news.ycombinator.com/item?id=47705187"
     ],
     [
       "The best seat in town",
       "https://www.torched.la/the-best-seat-in-town/"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 15:12:40",
-      "https://news.ycombinator.com/item?id=47704804"
-    ],
-    [
-      "How NASA built Artemis II’s fault-tolerant computer",
-      "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "RSoC 2026: A new CPU scheduler for Redox OS",
       "https://www.redox-os.org/news/rsoc-dwrr/"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 19:14:32",
-      "https://news.ycombinator.com/item?id=47680005"
-    ],
-    [
-      "DRAM has a design flaw from 1966. I bypassed it [video]",
-      "https://www.youtube.com/watch?v=KKbgulTp3FE"
     ]
   ],
   [
