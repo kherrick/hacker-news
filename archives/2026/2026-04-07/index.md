@@ -77,5 +77,6 @@
 * [2026-04-07, 05:12:25](https://news.ycombinator.com/item?id=47670981) - [Three hundred synths, 3 hardware projects, and one app](https://midi.guide/blog/three-hunded-synths-one-app/)
 * [2026-04-07, 04:58:29](https://news.ycombinator.com/item?id=47670929) - [People Love to Work Hard](https://www.anildash.com/2026/04/06/people-love-to-work-hard/)
 * [2026-04-07, 02:50:58](https://news.ycombinator.com/item?id=47670188) - [Robots Eat Cars](https://telemetry.endeff.com/p/robots-eat-cars)
+* [2026-04-07, 02:09:45](https://news.ycombinator.com/item?id=47669923) - [Clojure on Fennel Part One: Persistent Data Structures](https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/)
 * [2026-04-07, 01:42:40](https://news.ycombinator.com/item?id=47669749) - [Dear Heroku: Uhh What's Going On?](https://judoscale.com/blog/heroku-whats-going-on)
 * [2026-04-07, 00:48:01](https://news.ycombinator.com/item?id=47669337) - [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod)
