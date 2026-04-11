@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-11, 09:37:20",
+      "https://news.ycombinator.com/item?id=47729069"
+    ],
+    [
+      "BlueHammer abuses Windows Defender's update process to gain SYSTEM access",
+      "https://hackingpassion.com/bluehammer-windows-defender-zero-day/"
+    ]
+  ],
+  [
+    [
+      "2026-04-11, 08:35:23",
+      "https://news.ycombinator.com/item?id=47728721"
+    ],
+    [
+      "Artemis II is competency porn",
+      "https://lizplank.substack.com/p/artemis-ii-is-competency-porn-and"
+    ]
+  ],
+  [
+    [
       "2026-04-11, 08:25:14",
       "https://news.ycombinator.com/item?id=47728653"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-04-10, 18:35:29",
-      "https://news.ycombinator.com/item?id=47721955"
-    ],
-    [
-      "OpenClaw’s memory is unreliable, and you don’t know when it will break",
-      "https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 18:35:21",
       "https://news.ycombinator.com/item?id=47721953"
     ],
@@ -137,16 +147,6 @@
     [
       "JSON formatter Chrome plugin now closed and injecting adware",
       "https://github.com/callumlocke/json-formatter"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 16:53:55",
-      "https://news.ycombinator.com/item?id=47720827"
-    ],
-    [
-      "A compelling title that is cryptic enough to get you to take action on it",
-      "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-04-10, 12:03:34",
-      "https://news.ycombinator.com/item?id=47716809"
+      "2026-04-09, 12:35:24",
+      "https://news.ycombinator.com/item?id=47702890"
     ],
     [
-      "Intel 486 CPU announced April 10, 1989",
-      "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/"
+      "How Passive Radar Works",
+      "https://www.passiveradar.com/how-passive-radar-works/"
     ]
   ],
   [
