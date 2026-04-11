@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-11](index.md)
 
+* [2026-04-11, 18:07:49](https://news.ycombinator.com/item?id=47732697) - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
 * [2026-04-11, 16:47:28](https://news.ycombinator.com/item?id=47732020) - [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
 * [2026-04-11, 16:43:40](https://news.ycombinator.com/item?id=47731998) - [Phone Trips](http://www.wideweb.com/phonetrips/)
 * [2026-04-11, 16:38:50](https://news.ycombinator.com/item?id=47731960) - [The disturbing white paper Red Hat is trying to erase from the internet](https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/)
