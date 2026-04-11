@@ -25,11 +25,11 @@
 * [2026-04-09, 13:53:58](https://news.ycombinator.com/item?id=47703805) - [PGLite Evangelism](https://substack.com/home/post/p-193415720)
 * [2026-04-09, 10:28:28](https://news.ycombinator.com/item?id=47701769) - [The Bra-and-Girdle Maker That Fashioned the Impossible for NASA](https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/)
 * [2026-04-09, 07:58:00](https://news.ycombinator.com/item?id=47700556) - [A practical guide for setting up Zettelkasten method in Obsidian](https://desktopcommander.app/blog/zettelkasten-obsidian/)
+* [2026-04-09, 01:52:47](https://news.ycombinator.com/item?id=47698455) - [Starfling: A one-tap endless orbital slingshot game in a single HTML file](https://playstarfling.com)
 * [2026-04-09, 00:58:47](https://news.ycombinator.com/item?id=47698111) - [Bevy game development tutorials and in-depth resources](https://taintedcoders.com/)
 * [2026-04-08, 15:26:03](https://news.ycombinator.com/item?id=47691538) - [What is RISC-V and why it matters to Canonical](https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical)
-* [2026-04-08, 15:20:59](https://news.ycombinator.com/item?id=47691464) - [Vinyl Cache and Varnish Cache](https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html)
 * [2026-04-08, 06:06:19](https://news.ycombinator.com/item?id=47685984) - [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86)
-* [2026-04-07, 02:09:45](https://news.ycombinator.com/item?id=47669923) - [Clojure on Fennel Part One: Persistent Data Structures](https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/)
+* [2026-04-07, 10:03:02](https://news.ycombinator.com/item?id=47672853) - [Static code analysis in Kotlin – tools overview](https://blog.allegro.tech/2026/03/static-code-analysis-kotlin.html)
 
 ## [Archives](archives/index.md)
 
