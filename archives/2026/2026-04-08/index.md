@@ -34,6 +34,7 @@
 * [2026-04-08, 14:06:48](https://news.ycombinator.com/item?id=47690434) - [Iran demands Bitcoin fees for ships passing Hormuz during ceasefire](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 * [2026-04-08, 14:06:03](https://news.ycombinator.com/item?id=47690415) - [Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters](https://rival.tips/research/model-similarity)
 * [2026-04-08, 14:05:14](https://news.ycombinator.com/item?id=47690405) - [A security scanner as fast as a linter – written in Rust](https://github.com/peaktwilight/foxguard)
+* [2026-04-08, 13:16:19](https://news.ycombinator.com/item?id=47689793) - [How Much Linear Memory Access Is Enough?](https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/)
 * [2026-04-08, 13:06:33](https://news.ycombinator.com/item?id=47689648) - [The Future of Everything Is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess)
 * [2026-04-08, 12:56:58](https://news.ycombinator.com/item?id=47689550) - [LLM plays an 8-bit Commander X16 game using structured \"smart senses\"](https://pvp-ai.russell-harper.com)
 * [2026-04-08, 12:34:38](https://news.ycombinator.com/item?id=47689319) - [Show HN: Skrun – Deploy any agent skill as an API](https://github.com/skrun-dev/skrun)
