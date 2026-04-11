@@ -2,6 +2,7 @@
 
 * [2026-04-11, 16:47:28](https://news.ycombinator.com/item?id=47732020) - [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
 * [2026-04-11, 16:43:40](https://news.ycombinator.com/item?id=47731998) - [Phone Trips](http://www.wideweb.com/phonetrips/)
+* [2026-04-11, 16:38:50](https://news.ycombinator.com/item?id=47731960) - [The disturbing white paper Red Hat is trying to erase from the internet](https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/)
 * [2026-04-11, 16:24:08](https://news.ycombinator.com/item?id=47731838) - [Keeping a Postgres Queue Healthy](https://planetscale.com/blog/keeping-a-postgres-queue-healthy)
 * [2026-04-11, 16:04:52](https://news.ycombinator.com/item?id=47731707) - [Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom](https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858)
 * [2026-04-11, 15:39:19](https://news.ycombinator.com/item?id=47731506) - [Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/)
@@ -13,7 +14,6 @@
 * [2026-04-11, 13:01:34](https://news.ycombinator.com/item?id=47730194) - [Cirrus Labs to join OpenAI](https://cirruslabs.org/)
 * [2026-04-11, 08:25:14](https://news.ycombinator.com/item?id=47728653) - [France's government is ditching Windows for Linux, says US tech a strategic risk](https://www.xda-developers.com/frances-government-ditching-windows-for-linux/)
 * [2026-04-11, 06:19:25](https://news.ycombinator.com/item?id=47727960) - [Show HN: Pardonned.com – A searchable database of US Pardons](https://news.ycombinator.com/item?id=47727960)
-* [2026-04-11, 05:21:21](https://news.ycombinator.com/item?id=47727659) - [Productive Procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/)
 * [2026-04-11, 00:10:51](https://news.ycombinator.com/item?id=47725583) - [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
 * [2026-04-10, 22:16:40](https://news.ycombinator.com/item?id=47724352) - [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
 * [2026-04-10, 21:56:33](https://news.ycombinator.com/item?id=47724118) - [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension)
