@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-04-11, 20:01:59",
+      "https://news.ycombinator.com/item?id=47733521"
+    ],
+    [
+      "Dark Castle",
+      "https://darkcastle.co.uk/"
+    ]
+  ],
+  [
+    [
+      "2026-04-11, 19:41:46",
+      "https://news.ycombinator.com/item?id=47733385"
+    ],
+    [
+      "Show HN: Editing 2000 photos made me build a macOS bulk photo editor",
+      "https://apps.apple.com/us/app/rapidphoto-batch-crop-edit/id6758485661?mt=12"
+    ]
+  ],
+  [
+    [
       "2026-04-11, 19:15:56",
       "https://news.ycombinator.com/item?id=47733217"
     ],
     [
       "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
+    ]
+  ],
+  [
+    [
+      "2026-04-11, 19:01:00",
+      "https://news.ycombinator.com/item?id=47733106"
+    ],
+    [
+      "One neat trick to end extreme poverty",
+      "https://www.economist.com/finance-and-economics/2026/04/09/one-neat-trick-to-end-extreme-poverty"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Keeping a Postgres Queue Healthy",
       "https://planetscale.com/blog/keeping-a-postgres-queue-healthy"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 16:04:52",
-      "https://news.ycombinator.com/item?id=47731707"
-    ],
-    [
-      "Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom",
-      "https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-04-11, 00:10:51",
-      "https://news.ycombinator.com/item?id=47725583"
-    ],
-    [
-      "Artemis II safely splashes down",
-      "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 22:16:40",
       "https://news.ycombinator.com/item?id=47724352"
     ],
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2026-04-10, 13:16:12",
-      "https://news.ycombinator.com/item?id=47717690"
-    ],
-    [
-      "Cooperative Vectors Introduction",
-      "https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 00:36:21",
       "https://news.ycombinator.com/item?id=47712134"
     ],
     [
       "Mexican surveillance company Grupo Seguritech watches the U.S. border",
       "https://restofworld.org/2026/mexico-seguritech-government-surveillance-profile/"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 12:35:24",
-      "https://news.ycombinator.com/item?id=47702890"
-    ],
-    [
-      "How Passive Radar Works",
-      "https://www.passiveradar.com/how-passive-radar-works/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
       "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 12:16:27",
+      "https://news.ycombinator.com/item?id=47674075"
+    ],
+    [
+      "What Is a Property?",
+      "https://alperenkeles.com/posts/what-is-a-property/"
     ]
   ]
 ]
