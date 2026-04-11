@@ -44,6 +44,7 @@
 * [2026-04-08, 09:41:56](https://news.ycombinator.com/item?id=47687755) - [Struggle Against the Gods](https://firstthings.com/struggle-against-the-gods/)
 * [2026-04-08, 09:21:38](https://news.ycombinator.com/item?id=47687533) - [I've Sold Out](https://mariozechner.at/posts/2026-04-08-ive-sold-out/)
 * [2026-04-08, 09:13:17](https://news.ycombinator.com/item?id=47687464) - [Mario and Earendil](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/)
+* [2026-04-08, 09:11:10](https://news.ycombinator.com/item?id=47687443) - [Volunteers turn a fan's recordings of 10K concerts into an online treasure trove](https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62)
 * [2026-04-08, 08:53:42](https://news.ycombinator.com/item?id=47687273) - [The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/)
 * [2026-04-08, 08:50:37](https://news.ycombinator.com/item?id=47687248) - [Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones](https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/)
 * [2026-04-08, 07:23:39](https://news.ycombinator.com/item?id=47686549) - [Veracrypt Project Update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)

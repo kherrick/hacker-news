@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-11, 06:22:01](https://news.ycombinator.com/item?id=47727974) - [Tesla's supervised self-driving software gets Dutch okay, first in Europe](https://www.reuters.com/business/teslas-self-driving-software-gets-dutch-go-ahead-boost-eu-ambitions-2026-04-10/)
-* [2026-04-11, 05:31:10](https://news.ycombinator.com/item?id=47727711) - [20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
+* [2026-04-11, 05:31:10](https://news.ycombinator.com/item?id=47727711) - [20 years on AWS and never not my job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
 * [2026-04-11, 05:21:21](https://news.ycombinator.com/item?id=47727659) - [Productive Procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/)
 * [2026-04-11, 05:04:17](https://news.ycombinator.com/item?id=47727575) - [Great at gaming? US air traffic control wants you to apply](https://www.bbc.com/news/articles/ce84rvx0e6do)
 * [2026-04-11, 03:31:30](https://news.ycombinator.com/item?id=47727076) - [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)
@@ -9,7 +8,6 @@
 * [2026-04-10, 23:48:07](https://news.ycombinator.com/item?id=47725403) - [Italo Calvino: A traveller in a world of uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
 * [2026-04-10, 22:16:40](https://news.ycombinator.com/item?id=47724352) - [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
 * [2026-04-10, 21:56:33](https://news.ycombinator.com/item?id=47724118) - [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension)
-* [2026-04-10, 19:27:58](https://news.ycombinator.com/item?id=47722562) - [Nowhere is safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
 * [2026-04-10, 19:10:22](https://news.ycombinator.com/item?id=47722333) - [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
 * [2026-04-10, 19:03:39](https://news.ycombinator.com/item?id=47722262) - [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
 * [2026-04-10, 18:35:29](https://news.ycombinator.com/item?id=47721955) - [OpenClaw’s memory is unreliable, and you don’t know when it will break](https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys)
@@ -22,6 +20,7 @@
 * [2026-04-10, 15:37:28](https://news.ycombinator.com/item?id=47719740) - [1D Chess](https://rowan441.github.io/1dchess/chess.html)
 * [2026-04-10, 15:06:51](https://news.ycombinator.com/item?id=47719274) - [Helium is hard to replace](https://www.construction-physics.com/p/helium-is-hard-to-replace)
 * [2026-04-10, 13:29:20](https://news.ycombinator.com/item?id=47717847) - [CPU-Z and HWMonitor compromised](https://www.theregister.com/2026/04/10/cpuid_site_hijacked/)
+* [2026-04-10, 12:03:34](https://news.ycombinator.com/item?id=47716809) - [Intel 486 CPU announced April 10, 1989](https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/)
 * [2026-04-09, 13:53:58](https://news.ycombinator.com/item?id=47703805) - [PGLite Evangelism](https://substack.com/home/post/p-193415720)
 * [2026-04-09, 10:28:28](https://news.ycombinator.com/item?id=47701769) - [The Bra-and-Girdle Maker That Fashioned the Impossible for NASA](https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/)
 * [2026-04-09, 07:58:00](https://news.ycombinator.com/item?id=47700556) - [A practical guide for setting up Zettelkasten method in Obsidian](https://desktopcommander.app/blog/zettelkasten-obsidian/)
@@ -29,6 +28,7 @@
 * [2026-04-09, 00:58:47](https://news.ycombinator.com/item?id=47698111) - [Bevy game development tutorials and in-depth resources](https://taintedcoders.com/)
 * [2026-04-08, 18:03:56](https://news.ycombinator.com/item?id=47693960) - [Flashback to a time when government reports were works of art](https://www.chicagotribune.com/2026/04/08/transportation-library-northwestern/)
 * [2026-04-08, 15:26:03](https://news.ycombinator.com/item?id=47691538) - [What is RISC-V and why it matters to Canonical](https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical)
+* [2026-04-08, 09:11:10](https://news.ycombinator.com/item?id=47687443) - [Volunteers turn a fan's recordings of 10K concerts into an online treasure trove](https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62)
 * [2026-04-08, 06:06:19](https://news.ycombinator.com/item?id=47685984) - [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86)
 
 ## [Archives](archives/index.md)
