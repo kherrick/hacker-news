@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-11, 15:39:19](https://news.ycombinator.com/item?id=47731506) - [Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/)
 * [2026-04-11, 14:32:39](https://news.ycombinator.com/item?id=47730981) - [The Future of Everything Is Lies, I Guess: Annoyances](https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances)
 * [2026-04-11, 14:03:03](https://news.ycombinator.com/item?id=47730712) - [The Problem That Built an Industry](https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/)
 * [2026-04-11, 13:27:16](https://news.ycombinator.com/item?id=47730407) - [South Korea introduces universal basic mobile data access](https://www.theregister.com/2026/04/10/south_korea_data_access_universal/)
@@ -15,7 +16,6 @@
 * [2026-04-10, 21:56:33](https://news.ycombinator.com/item?id=47724118) - [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension)
 * [2026-04-10, 19:10:22](https://news.ycombinator.com/item?id=47722333) - [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
 * [2026-04-10, 18:35:21](https://news.ycombinator.com/item?id=47721953) - [AI assistance when contributing to the Linux kernel](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
-* [2026-04-10, 18:34:55](https://news.ycombinator.com/item?id=47721946) - [JSON formatter Chrome plugin now closed and injecting adware](https://github.com/callumlocke/json-formatter)
 * [2026-04-10, 16:22:26](https://news.ycombinator.com/item?id=47720419) - [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
 * [2026-04-10, 15:49:52](https://news.ycombinator.com/item?id=47719942) - [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html)
 * [2026-04-10, 15:37:28](https://news.ycombinator.com/item?id=47719740) - [1D Chess](https://rowan441.github.io/1dchess/chess.html)
