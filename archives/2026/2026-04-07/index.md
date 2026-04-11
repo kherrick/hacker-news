@@ -32,6 +32,7 @@
 * [2026-04-07, 16:32:15](https://news.ycombinator.com/item?id=47677853) - [GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5.1)
 * [2026-04-07, 15:54:16](https://news.ycombinator.com/item?id=47677241) - [Good Taste the Only Real Moat Left](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
 * [2026-04-07, 15:47:16](https://news.ycombinator.com/item?id=47677142) - [12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected (2017)](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
+* [2026-04-07, 15:29:35](https://news.ycombinator.com/item?id=47676890) - [Sybilproof reputation mechanisms (2005) [pdf]](https://dl.acm.org/doi/pdf/10.1145/1080192.1080202)
 * [2026-04-07, 15:07:45](https://news.ycombinator.com/item?id=47676561) - [Teardown of unreleased LG Rollable shows why rollable phones aren't a thing](https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/)
 * [2026-04-07, 15:07:38](https://news.ycombinator.com/item?id=47676557) - [Moving fast in hardware: lessons from lab to $100M ARR](https://blog.zacka.io/p/simplify-then-add-lightness-bc4)
 * [2026-04-07, 15:04:23](https://news.ycombinator.com/item?id=47676521) - [Claude Code is locking people out for hours](https://github.com/anthropics/claude-code/issues/44257)
