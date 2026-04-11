@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-11, 14:32:39",
+      "https://news.ycombinator.com/item?id=47730981"
+    ],
+    [
+      "The Future of Everything Is Lies, I Guess: Annoyances",
+      "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances"
+    ]
+  ],
+  [
+    [
       "2026-04-11, 14:03:03",
       "https://news.ycombinator.com/item?id=47730712"
     ],
@@ -97,16 +107,6 @@
     [
       "Artemis II safely splashes down",
       "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 23:48:07",
-      "https://news.ycombinator.com/item?id=47725403"
-    ],
-    [
-      "Italo Calvino: A traveller in a world of uncertainty",
-      "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-04-08, 17:36:19",
+      "https://news.ycombinator.com/item?id=47693559"
+    ],
+    [
+      "Surelock: Deadlock-Free Mutexes for Rust",
+      "https://notes.brooklynzelenka.com/Blog/Surelock"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 13:16:19",
       "https://news.ycombinator.com/item?id=47689793"
     ],
@@ -287,16 +297,6 @@
     [
       "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
       "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 15:29:35",
-      "https://news.ycombinator.com/item?id=47676890"
-    ],
-    [
-      "Sybilproof reputation mechanisms (2005) [pdf]",
-      "https://dl.acm.org/doi/pdf/10.1145/1080192.1080202"
     ]
   ]
 ]
