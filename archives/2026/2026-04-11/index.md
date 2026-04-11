@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-11](index.md)
 
+* [2026-04-11, 19:15:56](https://news.ycombinator.com/item?id=47733217) - [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 * [2026-04-11, 18:07:49](https://news.ycombinator.com/item?id=47732697) - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
 * [2026-04-11, 17:34:10](https://news.ycombinator.com/item?id=47732402) - [The APL Programming Language Source Code (2012)](https://computerhistory.org/blog/the-apl-programming-language-source-code/)
 * [2026-04-11, 16:47:28](https://news.ycombinator.com/item?id=47732020) - [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
