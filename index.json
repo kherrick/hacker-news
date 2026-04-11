@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-11, 15:39:19",
+      "https://news.ycombinator.com/item?id=47731506"
+    ],
+    [
+      "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "https://www.v68k.org/advanced-mac-substitute/"
+    ]
+  ],
+  [
+    [
       "2026-04-11, 14:32:39",
       "https://news.ycombinator.com/item?id=47730981"
     ],
@@ -147,16 +157,6 @@
     [
       "AI assistance when contributing to the Linux kernel",
       "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 18:34:55",
-      "https://news.ycombinator.com/item?id=47721946"
-    ],
-    [
-      "JSON formatter Chrome plugin now closed and injecting adware",
-      "https://github.com/callumlocke/json-formatter"
     ]
   ],
   [
