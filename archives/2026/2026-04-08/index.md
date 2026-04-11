@@ -11,6 +11,7 @@
 * [2026-04-08, 20:25:49](https://news.ycombinator.com/item?id=47695815) - [Simulating a 2D Quadcopter from Scratch](https://mrandri19.github.io/2026/04/03/2d-quadcopter-simulation.html)
 * [2026-04-08, 20:12:38](https://news.ycombinator.com/item?id=47695666) - [Show HN: Druids – Build your own software factory](https://github.com/fulcrumresearch/druids)
 * [2026-04-08, 20:10:51](https://news.ycombinator.com/item?id=47695647) - [The AI Great Leap Forward](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
+* [2026-04-08, 19:37:50](https://news.ycombinator.com/item?id=47695213) - [Optimal Strategy for Connect 4](https://2swap.github.io/WeakC4/explanation/)
 * [2026-04-08, 19:23:34](https://news.ycombinator.com/item?id=47695012) - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
 * [2026-04-08, 19:21:41](https://news.ycombinator.com/item?id=47694983) - [Expanding Swift's IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
 * [2026-04-08, 18:13:22](https://news.ycombinator.com/item?id=47694093) - [One item purchased, Ten emails](https://joshghent.com/online-shopping/)
