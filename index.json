@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-04-11, 18:55:43",
-      "https://news.ycombinator.com/item?id=47733066"
-    ],
-    [
-      "New synthesis of astronomical measurements shows Hubble tension is real",
-      "https://noirlab.edu/public/news/noirlab2611/"
-    ]
-  ],
-  [
-    [
       "2026-04-11, 18:07:49",
       "https://news.ycombinator.com/item?id=47732697"
     ],
@@ -267,6 +257,16 @@
     [
       "Surelock: Deadlock-Free Mutexes for Rust",
       "https://notes.brooklynzelenka.com/Blog/Surelock"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 13:16:19",
+      "https://news.ycombinator.com/item?id=47689793"
+    ],
+    [
+      "How much linear memory access is enough?",
+      "https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/"
     ]
   ],
   [
