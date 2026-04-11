@@ -129,6 +129,131 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47730196">
+          <h3>
+            <a
+              class="item"
+              href="https://www.bbc.com/future/article/20260410-how-to-breathe-in-fewer-microplastics-in-your-home"
+              >How to breathe in fewer microplastics in your home</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-11 @ 13:01:36</span
+              ><span class="points-container"
+                >Points: <span class="points">51</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47730196"
+                  >Comments</a
+                ><span class="descendants">: 29</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47729994">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth"
+              >’Abhorrent’: the inside story of the Polymarket gamblers betting
+              millions on war</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-11 @ 12:28:04</span
+              ><span class="points-container"
+                >Points: <span class="points">72</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47729994"
+                  >Comments</a
+                ><span class="descendants">: 27</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47729477">
+          <h3>
+            <a class="item" href="https://www.hormuz-havoc.com/"
+              >Show HN: Hormuz Havoc, a satirical game that got overrun by AI
+              bots in 24 hours</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-11 @ 10:58:36</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47729477"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The interesting part was that within a few hours of sharing it
+                with my friends, some of them set about trying to overrun the
+                leaderboard by launching a swarm of AI bots to learn the game
+                and figure out how to get the highest score. This set off a game
+                of cat-and-mouse as they found vulnerabilities and I tried
+                patching them.
+              </p>
+              <p>
+                Within hours of sharing, someone used the Claude browser
+                extension to read game.js directly. Large parts of the scoring
+                formula, action effect values, and bonus thresholds were sitting
+                in client-side JavaScript - this was a trivial thing even a
+                human could've found, but a human would've still had to play the
+                game, whereas the AI bot just optimised directly against the
+                scoring formula. It meant that the first AI already scored 2.5x
+                higher than the best human player by optimising directly against
+                the source code rather than playing the game.
+              </p>
+              <p>
+                Straightforward fix: moved the entire game engine server-side.
+                The client is now a dumb terminal, it sends an action ID,
+                receives a rendered state. No scoring logic, no bonus
+                thresholds, no action effects exist in the browser. The live
+                score display uses a deliberately different formula as
+                misdirection.
+              </p>
+              <p>
+                This increased the difficulty in finding bot-enabled hacks, so
+                the subsequent bots tried brute-forcing the game, trying to game
+                the RNG functions, and other methods.
+              </p>
+              <p>
+                But the next winning bot found a vulnerability where the same
+                signed session token could be replayed. It would play turn N,
+                observe a bad random event, replay the same token for turn N,
+                get a different RNG outcome, keep the best one. Effectively
+                branching from a single game state to cherry-pick lucky outcomes
+                across 30 turns. Managed to 1.5x the previous bot's high score.
+              </p>
+              <p>
+                The bot's own description: "The key optimisation was token
+                replay. Because the backend let the same signed state be
+                replayed, I could branch from one exact game state repeatedly
+                and continue from the luckiest high-value outcome each turn."
+              </p>
+              <p>
+                Fix here: consume a turn nonce atomically before any randomness
+                is generated.
+              </p>
+              <p>
+                The current state is that the leaderboard is now split into
+                human and AI-assisted. I think the capability of AI bots has
+                flatlined a bit now. Perhaps Claude Mythos might be able to
+                discover the next hackable exploit ¯\_(ツ)_/¯
+              </p>
+              <p>
+                Happy to go deeper on any of the above - or just enjoy the game!
+                Feel free to try your own AI-powered leaderboard attempt too!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="47728653">
           <h3>
             <a
@@ -142,11 +267,11 @@
             <h4>
               <span>2026-04-11 @ 08:25:14</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47728653"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
           </section>
@@ -161,11 +286,11 @@
             <h4>
               <span>2026-04-11 @ 06:19:25</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47727960"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
             <div class="text">
@@ -195,11 +320,11 @@
             <h4>
               <span>2026-04-11 @ 05:31:10</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47727711"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -216,11 +341,11 @@
             <h4>
               <span>2026-04-11 @ 05:21:21</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47727659"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -235,11 +360,11 @@
             <h4>
               <span>2026-04-11 @ 03:31:30</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47727076"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -256,11 +381,11 @@
             <h4>
               <span>2026-04-11 @ 00:10:51</span
               ><span class="points-container"
-                >Points: <span class="points">1014</span></span
+                >Points: <span class="points">1030</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47725583"
                   >Comments</a
-                ><span class="descendants">: 313</span></span
+                ><span class="descendants">: 325</span></span
               >
             </h4>
           </section>
@@ -277,11 +402,11 @@
             <h4>
               <span>2026-04-10 @ 23:48:07</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47725403"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -296,11 +421,11 @@
             <h4>
               <span>2026-04-10 @ 22:16:40</span
               ><span class="points-container"
-                >Points: <span class="points">990</span></span
+                >Points: <span class="points">1031</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47724352"
                   >Comments</a
-                ><span class="descendants">: 474</span></span
+                ><span class="descendants">: 484</span></span
               >
             </h4>
           </section>
@@ -315,11 +440,11 @@
             <h4>
               <span>2026-04-10 @ 21:56:33</span
               ><span class="points-container"
-                >Points: <span class="points">461</span></span
+                >Points: <span class="points">480</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47724118"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -337,11 +462,11 @@
             <h4>
               <span>2026-04-10 @ 19:10:22</span
               ><span class="points-container"
-                >Points: <span class="points">361</span></span
+                >Points: <span class="points">365</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47722333"
                   >Comments</a
-                ><span class="descendants">: 211</span></span
+                ><span class="descendants">: 218</span></span
               >
             </h4>
           </section>
@@ -379,11 +504,11 @@
             <h4>
               <span>2026-04-10 @ 18:35:21</span
               ><span class="points-container"
-                >Points: <span class="points">373</span></span
+                >Points: <span class="points">383</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47721953"
                   >Comments</a
-                ><span class="descendants">: 270</span></span
+                ><span class="descendants">: 279</span></span
               >
             </h4>
           </section>
@@ -398,11 +523,11 @@
             <h4>
               <span>2026-04-10 @ 18:34:55</span
               ><span class="points-container"
-                >Points: <span class="points">236</span></span
+                >Points: <span class="points">238</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47721946"
                   >Comments</a
-                ><span class="descendants">: 115</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -419,129 +544,13 @@
             <h4>
               <span>2026-04-10 @ 16:22:26</span
               ><span class="points-container"
-                >Points: <span class="points">395</span></span
+                >Points: <span class="points">400</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47720419"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47720418">
-          <h3>
-            <a class="item" href="https://twill.ai"
-              >Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back
-              PRs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-10 @ 16:22:13</span
-              ><span class="points-container"
-                >Points: <span class="points">72</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47720418"
-                  >Comments</a
-                ><span class="descendants">: 78</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://twill.ai/">https://twill.ai/</a>). Twill runs
-              coding CLIs like Claude Code and Codex in isolated cloud
-              sandboxes. You hand it work through Slack, GitHub, Linear, our web
-              app or CLI, and it comes back with a PR, a review, a diagnosis, or
-              a follow-up question. It loops you in when it needs your input, so
-              you stay in control.
-              <p>
-                Demo:
-                <a href="https://www.youtube.com/watch?v=oyfTMXVECbs"
-                  >https://www.youtube.com/watch?v=oyfTMXVECbs</a
-                >
-              </p>
-              <p>
-                Before Twill, building with Claude Code locally, we kept hitting
-                three walls
-              </p>
-              <p>
-                1. Parallelization: two tasks that both touch your Docker config
-                or the same infra files are painful to run locally at once, and
-                manual port rebinding and separate build contexts don't scale
-                past a couple of tasks.
-              </p>
-              <p>
-                2. Persistence: close your laptop and the agent stops. We wanted
-                to kick off a batch of tasks before bed and wake up to PRs.
-              </p>
-              <p>
-                3. Trust: giving an autonomous agent full access to your local
-                filesystem and processes is a leap, and a sandbox per task felt
-                safer to run unattended.
-              </p>
-              <p>
-                All three pointed to the same answer: move the agents to the
-                cloud, give each task its own isolated environment.
-              </p>
-              <p>
-                So we built what we wanted. The first version was pure
-                delegation: describe a task, get back a PR. Then multiplayer, so
-                the whole team can talk to the same agent, each in their own
-                thread. Then memory, so "use the existing logger in lib/log.ts,
-                never console.log" becomes a standing instruction on every
-                future task. Then automation: crons for recurring work, event
-                triggers for things like broken CI.
-              </p>
-              <p>
-                This space is crowded. AI labs ship their own coding products
-                (Claude Code, Codex), local IDEs wrap models in your editor, and
-                a wave of startups build custom cloud agents on bespoke
-                harnesses. We take the following path: reuse the lab-native CLIs
-                in cloud sandboxes. Labs will keep pouring RL into their own
-                harnesses, so they only get better over time. That way, no
-                vendor lock-in, and you can pick a different CLI per task or
-                combine them.
-              </p>
-              <p>
-                When you give Twill a task, it spins up a dedicated sandbox,
-                clones your repo, installs dependencies, and invokes the CLI you
-                chose. Each task gets its own filesystem, ports, and process
-                isolation. Secrets are injected at runtime through environment
-                variables. After a task finishes, Twill snapshots the sandbox
-                filesystem so the next run on the same repo starts warm with
-                dependencies already installed. We chose this architecture
-                because every time the labs ship an improvement to their coding
-                harness, Twill picks up the improvement automatically.
-              </p>
-              <p>
-                We’re also open-sourcing agentbox-sdk,
-                <a href="https://github.com/TwillAI/agentbox-sdk"
-                  >https://github.com/TwillAI/agentbox-sdk</a
-                >, an SDK for running and interacting with agent CLIs across
-                sandbox providers.
-              </p>
-              <p>
-                Here’s an example: a three-person team assigned Twill to a
-                Linear backlog ticket about adding a CSV import feature to their
-                Rails app. Twill cloned the repo, set up the dev environment,
-                implemented the feature, ran the test suite, took screenshots
-                and attached them to the PR. The PR needed one round of
-                revision, which they requested through Github. For more complex
-                tasks, Twill asks clarifying questions before writing code and
-                records a browser session video (using Vercel's Webreel) as
-                proof of work.
-              </p>
-              <p>
-                Free tier: 10 credits per month (1 credit = $1 of AI compute at
-                cost, no markup), no credit card. Paid plans start at $50/month
-                for 50 credits, with BYOK support on higher tiers. Free pro tier
-                for open-source projects.
-              </p>
-              <p>
-                We’d love to hear how cloud coding agents fit into your workflow
-                today, and if you try Twill, what worked, what broke, and what’s
-                still missing.
-              </p>
-            </div>
           </section>
         </section>
         <section id="47719942">
@@ -557,11 +566,11 @@
             <h4>
               <span>2026-04-10 @ 15:49:52</span
               ><span class="points-container"
-                >Points: <span class="points">499</span></span
+                >Points: <span class="points">503</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47719942"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 147</span></span
               >
             </h4>
             <div class="text">
@@ -586,11 +595,11 @@
             <h4>
               <span>2026-04-10 @ 15:37:28</span
               ><span class="points-container"
-                >Points: <span class="points">873</span></span
+                >Points: <span class="points">877</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47719740"
                   >Comments</a
-                ><span class="descendants">: 151</span></span
+                ><span class="descendants">: 154</span></span
               >
             </h4>
           </section>
@@ -607,11 +616,11 @@
             <h4>
               <span>2026-04-10 @ 15:06:51</span
               ><span class="points-container"
-                >Points: <span class="points">331</span></span
+                >Points: <span class="points">332</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47719274"
                   >Comments</a
-                ><span class="descendants">: 232</span></span
+                ><span class="descendants">: 235</span></span
               >
             </h4>
           </section>
@@ -628,11 +637,11 @@
             <h4>
               <span>2026-04-10 @ 13:29:20</span
               ><span class="points-container"
-                >Points: <span class="points">354</span></span
+                >Points: <span class="points">358</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47717847"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 93</span></span
               >
             </h4>
             <div class="text">
@@ -667,32 +676,11 @@
             <h4>
               <span>2026-04-10 @ 12:03:34</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">178</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47716809"
                   >Comments</a
                 ><span class="descendants">: 158</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47704013">
-          <h3>
-            <a
-              class="item"
-              href="https://spectrum.ieee.org/spray-paint-color-creator"
-              >A New Way to Spray Paint Color</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-09 @ 14:10:22</span
-              ><span class="points-container"
-                >Points: <span class="points">15</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47704013"
-                  >Comments</a
-                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -709,11 +697,11 @@
             <h4>
               <span>2026-04-09 @ 12:35:24</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47702890"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -731,11 +719,11 @@
             <h4>
               <span>2026-04-09 @ 10:28:28</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47701769"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -753,11 +741,11 @@
             <h4>
               <span>2026-04-09 @ 07:58:00</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47700556"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -773,11 +761,11 @@
             <h4>
               <span>2026-04-09 @ 01:52:47</span
               ><span class="points-container"
-                >Points: <span class="points">288</span></span
+                >Points: <span class="points">312</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47698455"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -792,7 +780,7 @@
             <h4>
               <span>2026-04-09 @ 00:58:47</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47698111"
                   >Comments</a
@@ -811,11 +799,11 @@
             <h4>
               <span>2026-04-08 @ 19:37:50</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47695213"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -833,32 +821,11 @@
             <h4>
               <span>2026-04-08 @ 09:11:10</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47687443"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47685984">
-          <h3>
-            <a
-              class="item"
-              href="https://chipsandcheese.com/p/investigating-split-locks-on-x86"
-              >Investigating Split Locks on x86-64</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-08 @ 06:06:19</span
-              ><span class="points-container"
-                >Points: <span class="points">68</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47685984"
-                  >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -875,7 +842,7 @@
             <h4>
               <span>2026-04-07 @ 15:29:35</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47676890"
                   >Comments</a
