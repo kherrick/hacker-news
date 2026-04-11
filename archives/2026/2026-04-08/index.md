@@ -49,6 +49,7 @@
 * [2026-04-08, 07:10:02](https://news.ycombinator.com/item?id=47686431) - [C++: Freestanding Standard Library](https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding)
 * [2026-04-08, 06:34:54](https://news.ycombinator.com/item?id=47686187) - [Sonnet 4.6 Elevated Rate of Errors](https://status.claude.com/incidents/lhws0phdvzz3)
 * [2026-04-08, 06:15:44](https://news.ycombinator.com/item?id=47686046) - [The Art of Risk Management (2017)](https://www.bcg.com/publications/2017/finance-function-excellence-corporate-development-art-risk-management)
+* [2026-04-08, 06:06:19](https://news.ycombinator.com/item?id=47685984) - [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86)
 * [2026-04-08, 06:01:00](https://news.ycombinator.com/item?id=47685945) - [We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two](https://blog.railway.com/p/moving-railways-frontend-off-nextjs)
 * [2026-04-08, 05:34:08](https://news.ycombinator.com/item?id=47685739) - [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s)
 * [2026-04-08, 05:22:42](https://news.ycombinator.com/item?id=47685644) - [Introduction to Nintendo DS Programming](https://www.patater.com/files/projects/manual/manual.html)
