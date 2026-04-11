@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-04-11, 09:37:20",
-      "https://news.ycombinator.com/item?id=47729069"
-    ],
-    [
-      "BlueHammer abuses Windows Defender's update process to gain SYSTEM access",
-      "https://hackingpassion.com/bluehammer-windows-defender-zero-day/"
-    ]
-  ],
-  [
-    [
       "2026-04-11, 08:35:23",
       "https://news.ycombinator.com/item?id=47728721"
     ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2026-04-10, 16:53:55",
+      "https://news.ycombinator.com/item?id=47720827"
+    ],
+    [
+      "A compelling title that is cryptic enough to get you to take action on it",
+      "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 16:22:26",
       "https://news.ycombinator.com/item?id=47720419"
     ],
@@ -207,6 +207,16 @@
     [
       "CPU-Z and HWMonitor compromised",
       "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 14:10:22",
+      "https://news.ycombinator.com/item?id=47704013"
+    ],
+    [
+      "A New Way to Spray Paint Color",
+      "https://spectrum.ieee.org/spray-paint-color-creator"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
       "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 06:06:19",
-      "https://news.ycombinator.com/item?id=47685984"
-    ],
-    [
-      "Investigating Split Locks on x86-64",
-      "https://chipsandcheese.com/p/investigating-split-locks-on-x86"
     ]
   ],
   [
