@@ -65,3 +65,4 @@
 * [2026-04-09, 00:58:47](https://news.ycombinator.com/item?id=47698111) - [Bevy game development tutorials and in-depth resources](https://taintedcoders.com/)
 * [2026-04-09, 00:55:46](https://news.ycombinator.com/item?id=47698082) - [Newly created Polymarket accounts win big on well-timed Iran ceasefire bets](https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire)
 * [2026-04-09, 00:26:08](https://news.ycombinator.com/item?id=47697870) - [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
+* [2026-04-09, 00:00:33](https://news.ycombinator.com/item?id=47697722) - [Previously unknown verses by Empedocles found on papyrus](https://www.thehistoryblog.com/archives/75792)

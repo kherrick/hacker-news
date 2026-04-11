@@ -46,6 +46,7 @@
 * [2026-04-10, 13:47:17](https://news.ycombinator.com/item?id=47718114) - [US summons bank bosses over cyber risks from Anthropic's latest AI model](https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model)
 * [2026-04-10, 13:38:39](https://news.ycombinator.com/item?id=47717973) - [The effects of caffeine consumption do not decay with a ~5 hour half-life](https://www.lesswrong.com/posts/vefsxkGWkEMmDcZ7v/the-effects-of-caffeine-consumption-do-not-decay-with-a-5)
 * [2026-04-10, 13:29:20](https://news.ycombinator.com/item?id=47717847) - [CPU-Z and HWMonitor compromised](https://www.theregister.com/2026/04/10/cpuid_site_hijacked/)
+* [2026-04-10, 13:16:12](https://news.ycombinator.com/item?id=47717690) - [Cooperative Vectors Introduction](https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction)
 * [2026-04-10, 13:08:43](https://news.ycombinator.com/item?id=47717587) - [OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
 * [2026-04-10, 13:06:58](https://news.ycombinator.com/item?id=47717571) - [Jennifer Aniston and Friends Cost Us 377GB and Broke Ext4 Hardlinks](https://blog.discourse.org/2026/04/how-jennifer-aniston-and-friends-cost-us-377gb-and-broke-ext4-hardlinks/)
 * [2026-04-10, 12:03:34](https://news.ycombinator.com/item?id=47716809) - [Intel 486 CPU announced April 10, 1989](https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/)
