@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-11, 03:31:30",
+      "https://news.ycombinator.com/item?id=47727076"
+    ],
+    [
+      "Quien – A better WHOIS lookup tool",
+      "https://github.com/retlehs/quien/"
+    ]
+  ],
+  [
+    [
       "2026-04-11, 00:10:51",
       "https://news.ycombinator.com/item?id=47725583"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=47725403"
     ],
     [
-      "Italo Calvino: A Traveller in a World of Uncertainty",
+      "Italo Calvino: A traveller in a world of uncertainty",
       "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47724118"
     ],
     [
-      "Installing Every* Firefox Extension",
+      "Installing every* Firefox extension",
       "https://jack.cab/blog/every-firefox-extension"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Watgo – A WebAssembly Toolkit for Go",
       "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 18:40:34",
-      "https://news.ycombinator.com/item?id=47722011"
-    ],
-    [
-      "Show HN: A WYSIWYG word processor in Python",
-      "https://codeberg.org/chrisecker/miniword"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "JSON formatter Chrome plugin now closed and injecting adware",
       "https://github.com/callumlocke/json-formatter"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 17:31:22",
-      "https://news.ycombinator.com/item?id=47721255"
-    ],
-    [
-      "Show HN: Eve – Managed OpenClaw for work",
-      "https://eve.new/login"
     ]
   ],
   [
@@ -201,16 +191,6 @@
   ],
   [
     [
-      "2026-04-10, 15:28:24",
-      "https://news.ycombinator.com/item?id=47719602"
-    ],
-    [
-      "You can't trust macOS Privacy and Security settings",
-      "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 15:06:51",
       "https://news.ycombinator.com/item?id=47719274"
     ],
@@ -257,6 +237,26 @@
     [
       "The Bra-and-Girdle Maker That Fashioned the Impossible for NASA",
       "https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 07:58:00",
+      "https://news.ycombinator.com/item?id=47700556"
+    ],
+    [
+      "A practical guide for setting up Zettelkasten method in Obsidian",
+      "https://desktopcommander.app/blog/zettelkasten-obsidian/"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 00:58:47",
+      "https://news.ycombinator.com/item?id=47698111"
+    ],
+    [
+      "Bevy game development tutorials and in-depth resources",
+      "https://taintedcoders.com/"
     ]
   ],
   [
