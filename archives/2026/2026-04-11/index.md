@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-11](index.md)
 
+* [2026-04-11, 09:37:20](https://news.ycombinator.com/item?id=47729069) - [BlueHammer abuses Windows Defender's update process to gain SYSTEM access](https://hackingpassion.com/bluehammer-windows-defender-zero-day/)
+* [2026-04-11, 08:35:23](https://news.ycombinator.com/item?id=47728721) - [Artemis II is competency porn](https://lizplank.substack.com/p/artemis-ii-is-competency-porn-and)
 * [2026-04-11, 08:25:14](https://news.ycombinator.com/item?id=47728653) - [France's government is ditching Windows for Linux, says US tech a strategic risk](https://www.xda-developers.com/frances-government-ditching-windows-for-linux/)
 * [2026-04-11, 06:50:17](https://news.ycombinator.com/item?id=47728134) - [Moooooonitoring the Cow.txt Herd](https://moooo.farm/)
 * [2026-04-11, 06:22:01](https://news.ycombinator.com/item?id=47727974) - [Tesla's supervised self-driving software gets Dutch okay, first in Europe](https://www.reuters.com/business/teslas-self-driving-software-gets-dutch-go-ahead-boost-eu-ambitions-2026-04-10/)
