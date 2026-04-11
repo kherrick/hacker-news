@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-04-09, 12:35:24",
+      "https://news.ycombinator.com/item?id=47702890"
+    ],
+    [
+      "How Passive Radar Works",
+      "https://www.passiveradar.com/how-passive-radar-works/"
+    ]
+  ],
+  [
+    [
       "2026-04-09, 01:52:47",
       "https://news.ycombinator.com/item?id=47698455"
     ],
@@ -257,16 +267,6 @@
     [
       "Surelock: Deadlock-Free Mutexes for Rust",
       "https://notes.brooklynzelenka.com/Blog/Surelock"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 13:16:19",
-      "https://news.ycombinator.com/item?id=47689793"
-    ],
-    [
-      "How much linear memory access is enough?",
-      "https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/"
     ]
   ],
   [
