@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-11, 20:58:48](https://news.ycombinator.com/item?id=47733971) - [Apple Silicon and Virtual Machines: Beating the 2 VM Limit](https://khronokernel.com/macos/2023/08/08/AS-VM.html)
+* [2026-04-11, 20:08:46](https://news.ycombinator.com/item?id=47733561) - [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269)
 * [2026-04-11, 20:01:59](https://news.ycombinator.com/item?id=47733521) - [Dark Castle](https://darkcastle.co.uk/)
 * [2026-04-11, 19:41:46](https://news.ycombinator.com/item?id=47733385) - [Show HN: Editing 2000 photos made me build a macOS bulk photo editor](https://apps.apple.com/us/app/rapidphoto-batch-crop-edit/id6758485661?mt=12)
 * [2026-04-11, 19:15:56](https://news.ycombinator.com/item?id=47733217) - [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
@@ -13,7 +15,6 @@
 * [2026-04-11, 14:32:39](https://news.ycombinator.com/item?id=47730981) - [The future of everything is lies, I guess – Part 5: Annoyances](https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances)
 * [2026-04-11, 14:03:03](https://news.ycombinator.com/item?id=47730712) - [The Problem That Built an Industry](https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/)
 * [2026-04-11, 13:27:16](https://news.ycombinator.com/item?id=47730407) - [South Korea introduces universal basic mobile data access](https://www.theregister.com/2026/04/10/south_korea_data_access_universal/)
-* [2026-04-11, 13:22:25](https://news.ycombinator.com/item?id=47730370) - [Bitcoin miners are losing on every coin produced as difficulty drops](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 * [2026-04-11, 13:01:34](https://news.ycombinator.com/item?id=47730194) - [Cirrus Labs to join OpenAI](https://cirruslabs.org/)
 * [2026-04-11, 06:19:25](https://news.ycombinator.com/item?id=47727960) - [Show HN: Pardonned.com – A searchable database of US Pardons](https://news.ycombinator.com/item?id=47727960)
 * [2026-04-10, 22:16:40](https://news.ycombinator.com/item?id=47724352) - [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
@@ -27,7 +28,6 @@
 * [2026-04-08, 19:37:50](https://news.ycombinator.com/item?id=47695213) - [Optimal Strategy for Connect 4](https://2swap.github.io/WeakC4/explanation/)
 * [2026-04-08, 18:10:52](https://news.ycombinator.com/item?id=47694064) - [Every plane you see in the sky – you can now follow it from the cockpit in 3D](https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123)
 * [2026-04-08, 17:36:19](https://news.ycombinator.com/item?id=47693559) - [Surelock: Deadlock-Free Mutexes for Rust](https://notes.brooklynzelenka.com/Blog/Surelock)
-* [2026-04-08, 13:16:19](https://news.ycombinator.com/item?id=47689793) - [How much linear memory access is enough?](https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/)
 * [2026-04-08, 09:11:10](https://news.ycombinator.com/item?id=47687443) - [Volunteers turn a fan's recordings of 10K concerts into an online treasure trove](https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62)
 * [2026-04-07, 12:16:27](https://news.ycombinator.com/item?id=47674075) - [What Is a Property?](https://alperenkeles.com/posts/what-is-a-property/)
 

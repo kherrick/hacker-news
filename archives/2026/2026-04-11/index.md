@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-11](index.md)
 
+* [2026-04-11, 20:58:48](https://news.ycombinator.com/item?id=47733971) - [Apple Silicon and Virtual Machines: Beating the 2 VM Limit](https://khronokernel.com/macos/2023/08/08/AS-VM.html)
+* [2026-04-11, 20:08:46](https://news.ycombinator.com/item?id=47733561) - [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269)
 * [2026-04-11, 20:01:59](https://news.ycombinator.com/item?id=47733521) - [Dark Castle](https://darkcastle.co.uk/)
 * [2026-04-11, 19:41:46](https://news.ycombinator.com/item?id=47733385) - [Show HN: Editing 2000 photos made me build a macOS bulk photo editor](https://apps.apple.com/us/app/rapidphoto-batch-crop-edit/id6758485661?mt=12)
 * [2026-04-11, 19:15:56](https://news.ycombinator.com/item?id=47733217) - [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
