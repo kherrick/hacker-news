@@ -18,6 +18,7 @@
 * [2026-04-08, 18:08:52](https://news.ycombinator.com/item?id=47694036) - [Show HN: Orange Juice – Small UX improvements that make HN much easier to read](http://oj-hn.com/)
 * [2026-04-08, 18:03:56](https://news.ycombinator.com/item?id=47693960) - [Flashback to a time when government reports were works of art](https://www.chicagotribune.com/2026/04/08/transportation-library-northwestern/)
 * [2026-04-08, 17:44:25](https://news.ycombinator.com/item?id=47693679) - [I've been waiting over a month for Anthropic support to respond](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)
+* [2026-04-08, 17:36:19](https://news.ycombinator.com/item?id=47693559) - [Surelock: Deadlock-Free Mutexes for Rust](https://notes.brooklynzelenka.com/Blog/Surelock)
 * [2026-04-08, 17:11:46](https://news.ycombinator.com/item?id=47693153) - [Understanding the Kalman Filter with a Simple Radar Example](https://kalmanfilter.net)
 * [2026-04-08, 17:04:40](https://news.ycombinator.com/item?id=47693047) - [Claude Managed Agents](https://claude.com/blog/claude-managed-agents)
 * [2026-04-08, 16:41:16](https://news.ycombinator.com/item?id=47692661) - [Show HN: TUI-use: Let AI agents control interactive terminal programs](https://github.com/onesuper/tui-use)

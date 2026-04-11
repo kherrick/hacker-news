@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-11, 14:32:39](https://news.ycombinator.com/item?id=47730981) - [The Future of Everything Is Lies, I Guess: Annoyances](https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances)
 * [2026-04-11, 14:03:03](https://news.ycombinator.com/item?id=47730712) - [The Problem That Built an Industry](https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/)
 * [2026-04-11, 13:27:16](https://news.ycombinator.com/item?id=47730407) - [South Korea introduces universal basic mobile data access](https://www.theregister.com/2026/04/10/south_korea_data_access_universal/)
 * [2026-04-11, 13:22:25](https://news.ycombinator.com/item?id=47730370) - [Bitcoin miners are losing on every coin produced as difficulty drops](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
@@ -10,7 +11,6 @@
 * [2026-04-11, 06:19:25](https://news.ycombinator.com/item?id=47727960) - [Show HN: Pardonned.com – A searchable database of US Pardons](https://news.ycombinator.com/item?id=47727960)
 * [2026-04-11, 05:21:21](https://news.ycombinator.com/item?id=47727659) - [Productive Procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/)
 * [2026-04-11, 00:10:51](https://news.ycombinator.com/item?id=47725583) - [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
-* [2026-04-10, 23:48:07](https://news.ycombinator.com/item?id=47725403) - [Italo Calvino: A traveller in a world of uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
 * [2026-04-10, 22:16:40](https://news.ycombinator.com/item?id=47724352) - [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
 * [2026-04-10, 21:56:33](https://news.ycombinator.com/item?id=47724118) - [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension)
 * [2026-04-10, 19:10:22](https://news.ycombinator.com/item?id=47722333) - [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
@@ -27,9 +27,9 @@
 * [2026-04-09, 00:58:47](https://news.ycombinator.com/item?id=47698111) - [Bevy game development tutorials and in-depth resources](https://taintedcoders.com/)
 * [2026-04-09, 00:00:33](https://news.ycombinator.com/item?id=47697722) - [Previously unknown verses by Empedocles found on papyrus](https://www.thehistoryblog.com/archives/75792)
 * [2026-04-08, 19:37:50](https://news.ycombinator.com/item?id=47695213) - [Optimal Strategy for Connect 4](https://2swap.github.io/WeakC4/explanation/)
+* [2026-04-08, 17:36:19](https://news.ycombinator.com/item?id=47693559) - [Surelock: Deadlock-Free Mutexes for Rust](https://notes.brooklynzelenka.com/Blog/Surelock)
 * [2026-04-08, 13:16:19](https://news.ycombinator.com/item?id=47689793) - [How Much Linear Memory Access Is Enough?](https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/)
 * [2026-04-08, 09:11:10](https://news.ycombinator.com/item?id=47687443) - [Volunteers turn a fan's recordings of 10K concerts into an online treasure trove](https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62)
-* [2026-04-07, 15:29:35](https://news.ycombinator.com/item?id=47676890) - [Sybilproof reputation mechanisms (2005) [pdf]](https://dl.acm.org/doi/pdf/10.1145/1080192.1080202)
 
 ## [Archives](archives/index.md)
 
