@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-04-09, 01:52:47",
+      "https://news.ycombinator.com/item?id=47698455"
+    ],
+    [
+      "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+      "https://playstarfling.com"
+    ]
+  ],
+  [
+    [
       "2026-04-09, 00:58:47",
       "https://news.ycombinator.com/item?id=47698111"
     ],
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2026-04-08, 15:20:59",
-      "https://news.ycombinator.com/item?id=47691464"
-    ],
-    [
-      "Vinyl Cache and Varnish Cache",
-      "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 06:06:19",
       "https://news.ycombinator.com/item?id=47685984"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-04-07, 02:09:45",
-      "https://news.ycombinator.com/item?id=47669923"
+      "2026-04-07, 10:03:02",
+      "https://news.ycombinator.com/item?id=47672853"
     ],
     [
-      "Clojure on Fennel Part One: Persistent Data Structures",
-      "https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/"
+      "Static code analysis in Kotlin – tools overview",
+      "https://blog.allegro.tech/2026/03/static-code-analysis-kotlin.html"
     ]
   ]
 ]
