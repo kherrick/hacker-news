@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-11](index.md)
 
+* [2026-04-11, 20:01:59](https://news.ycombinator.com/item?id=47733521) - [Dark Castle](https://darkcastle.co.uk/)
+* [2026-04-11, 19:41:46](https://news.ycombinator.com/item?id=47733385) - [Show HN: Editing 2000 photos made me build a macOS bulk photo editor](https://apps.apple.com/us/app/rapidphoto-batch-crop-edit/id6758485661?mt=12)
 * [2026-04-11, 19:15:56](https://news.ycombinator.com/item?id=47733217) - [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+* [2026-04-11, 19:01:00](https://news.ycombinator.com/item?id=47733106) - [One neat trick to end extreme poverty](https://www.economist.com/finance-and-economics/2026/04/09/one-neat-trick-to-end-extreme-poverty)
 * [2026-04-11, 18:07:49](https://news.ycombinator.com/item?id=47732697) - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
 * [2026-04-11, 17:34:10](https://news.ycombinator.com/item?id=47732402) - [The APL Programming Language Source Code (2012)](https://computerhistory.org/blog/the-apl-programming-language-source-code/)
 * [2026-04-11, 16:47:28](https://news.ycombinator.com/item?id=47732020) - [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)

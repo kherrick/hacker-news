@@ -58,6 +58,7 @@
 * [2026-04-07, 13:06:28](https://news.ycombinator.com/item?id=47674749) - [Hybrid Attention](https://news.ycombinator.com/item?id=47674749)
 * [2026-04-07, 12:57:25](https://news.ycombinator.com/item?id=47674606) - [Show HN: Unicode Steganography](https://steganography.patrickvuscan.com)
 * [2026-04-07, 12:27:59](https://news.ycombinator.com/item?id=47674234) - [\"The new Copilot app for Windows 11 is really just Microsoft Edge\"](https://twitter.com/TheBobPony/status/2041112541909205001)
+* [2026-04-07, 12:16:27](https://news.ycombinator.com/item?id=47674075) - [What Is a Property?](https://alperenkeles.com/posts/what-is-a-property/)
 * [2026-04-07, 12:12:15](https://news.ycombinator.com/item?id=47674027) - [Show HN: A cartographer's attempt to realistically map Tolkien's world](https://www.intofarlands.com/atlasofarda)
 * [2026-04-07, 12:05:23](https://news.ycombinator.com/item?id=47673928) - [Record wind and solar saved UK from gas imports worth £1B in March 2026](https://www.carbonbrief.org/analysis-record-wind-and-solar-saved-uk-from-gas-imports-worth-1bn-in-march-2026/)
 * [2026-04-07, 12:01:51](https://news.ycombinator.com/item?id=47673880) - [Show HN: Pion/handoff – Move WebRTC out of browser and into Go](https://github.com/pion/handoff)
