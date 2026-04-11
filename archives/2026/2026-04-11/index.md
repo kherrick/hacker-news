@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-11](index.md)
 
+* [2026-04-11, 14:03:03](https://news.ycombinator.com/item?id=47730712) - [The Problem That Built an Industry](https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/)
 * [2026-04-11, 13:27:16](https://news.ycombinator.com/item?id=47730407) - [South Korea introduces universal basic mobile data access](https://www.theregister.com/2026/04/10/south_korea_data_access_universal/)
 * [2026-04-11, 13:22:25](https://news.ycombinator.com/item?id=47730370) - [Bitcoin miners are losing $19,000 on every BTC produced as difficulty drops 7.8%](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+* [2026-04-11, 13:06:34](https://news.ycombinator.com/item?id=47730229) - [Borges' cartographers and the tacit skill of reading LM output](https://galsapir.github.io/sparse-thoughts/2026/04/11/map-and-territory/)
 * [2026-04-11, 13:01:36](https://news.ycombinator.com/item?id=47730196) - [How to breathe in fewer microplastics in your home](https://www.bbc.com/future/article/20260410-how-to-breathe-in-fewer-microplastics-in-your-home)
 * [2026-04-11, 13:01:34](https://news.ycombinator.com/item?id=47730194) - [Cirrus Labs to join OpenAI shut down Circus CI on Monday, June 1, 2026](https://cirruslabs.org/)
 * [2026-04-11, 12:28:04](https://news.ycombinator.com/item?id=47729994) - [’Abhorrent’: the inside story of the Polymarket gamblers betting millions on war](https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth)
