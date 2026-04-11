@@ -15,6 +15,7 @@
 * [2026-04-08, 19:23:34](https://news.ycombinator.com/item?id=47695012) - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
 * [2026-04-08, 19:21:41](https://news.ycombinator.com/item?id=47694983) - [Expanding Swift's IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
 * [2026-04-08, 18:13:22](https://news.ycombinator.com/item?id=47694093) - [One item purchased, Ten emails](https://joshghent.com/online-shopping/)
+* [2026-04-08, 18:10:52](https://news.ycombinator.com/item?id=47694064) - [Every plane you see in the sky – you can now follow it from the cockpit in 3D](https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123)
 * [2026-04-08, 18:08:52](https://news.ycombinator.com/item?id=47694036) - [Show HN: Orange Juice – Small UX improvements that make HN much easier to read](http://oj-hn.com/)
 * [2026-04-08, 18:03:56](https://news.ycombinator.com/item?id=47693960) - [Flashback to a time when government reports were works of art](https://www.chicagotribune.com/2026/04/08/transportation-library-northwestern/)
 * [2026-04-08, 17:44:25](https://news.ycombinator.com/item?id=47693679) - [I've been waiting over a month for Anthropic support to respond](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)
