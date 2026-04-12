@@ -50,6 +50,7 @@
 * [2026-04-09, 12:52:12](https://news.ycombinator.com/item?id=47703072) - [Am I German or Autistic?](https://german.millermanschool.com/)
 * [2026-04-09, 12:51:32](https://news.ycombinator.com/item?id=47703065) - [Session is shutting down in 90 days](https://getsession.org/donate)
 * [2026-04-09, 12:35:24](https://news.ycombinator.com/item?id=47702890) - [How Passive Radar Works](https://www.passiveradar.com/how-passive-radar-works/)
+* [2026-04-09, 12:35:20](https://news.ycombinator.com/item?id=47702887) - [Most people can't juggle one ball](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball)
 * [2026-04-09, 12:25:57](https://news.ycombinator.com/item?id=47702791) - [Show HN: 41 years sea surface temperature anomalies](https://ssta.willhelps.org)
 * [2026-04-09, 12:11:56](https://news.ycombinator.com/item?id=47702647) - [Launch HN: Relvy (YC F24) – On-call runbooks, automated](https://www.relvy.ai)
 * [2026-04-09, 12:01:31](https://news.ycombinator.com/item?id=47702541) - [A WebGPU Implementation of Augmented Vertex Block Descent](https://github.com/jure/webphysics)

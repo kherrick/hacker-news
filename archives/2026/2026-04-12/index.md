@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-12](index.md)
 
+* [2026-04-12, 17:25:44](https://news.ycombinator.com/item?id=47742200) - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
+* [2026-04-12, 17:06:31](https://news.ycombinator.com/item?id=47742002) - [Reading Is Magic](https://samkriss.substack.com/p/reading-is-magic)
 * [2026-04-12, 17:01:26](https://news.ycombinator.com/item?id=47741953) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2026-04-12, 16:33:19](https://news.ycombinator.com/item?id=47741634) - [Building a SaaS in 2026 Using Only EU Infrastructure](https://eualternative.eu/guides/building-saas-eu-stack/)
+* [2026-04-12, 16:10:51](https://news.ycombinator.com/item?id=47741393) - [Textbooks and Methods of Note-Taking in Early Modern Europe (2008)](https://dash.harvard.edu/server/api/core/bitstreams/7312037d-e342-6bd4-e053-0100007fdf3b/content)
 * [2026-04-12, 14:43:23](https://news.ycombinator.com/item?id=47740315) - [Eternity in six hours: Intergalactic spreading of intelligent life (2013)](https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox)
 * [2026-04-12, 13:21:39](https://news.ycombinator.com/item?id=47739313) - [Seven countries now generate 100% of their electricity from renewable energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html)
 * [2026-04-12, 13:20:58](https://news.ycombinator.com/item?id=47739305) - [Tell HN: OpenAI silently removed Study Mode from ChatGPT](https://news.ycombinator.com/item?id=47739305)
