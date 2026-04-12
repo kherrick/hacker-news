@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-12, 07:13:55",
+      "https://news.ycombinator.com/item?id=47736907"
+    ],
+    [
+      "Pope Leo XIV denounces the 'delusion of omnipotence' he says fuels the Iran war",
+      "https://www.politico.com/news/2026/04/11/pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-fuels-the-us-israeli-war-in-iran-00868142"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 06:00:00",
+      "https://news.ycombinator.com/item?id=47736555"
+    ],
+    [
+      "I run multiple $10K MRR companies on a $20/month tech stack",
+      "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 05:08:03",
       "https://news.ycombinator.com/item?id=47736298"
     ],
@@ -17,16 +37,6 @@
     [
       "Why meaningful days look like nothing while you are living them",
       "https://pilgrima.ge/p/the-grand-line"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 02:57:24",
-      "https://news.ycombinator.com/item?id=47735779"
-    ],
-    [
-      "Building a Z-Machine in the worst possible language – Whitebeard's Realm",
-      "https://whitebeard.blog/posts/building-a-z-machine-in-elm/"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2026-04-11, 18:55:43",
-      "https://news.ycombinator.com/item?id=47733066"
-    ],
-    [
-      "New synthesis of astronomical measurements shows Hubble tension is real",
-      "https://noirlab.edu/public/news/noirlab2611/?nocache=true&lang=en"
-    ]
-  ],
-  [
-    [
       "2026-04-11, 18:07:49",
       "https://news.ycombinator.com/item?id=47732697"
     ],
@@ -147,16 +147,6 @@
     [
       "Small models also found the vulnerabilities that Mythos found",
       "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 16:24:08",
-      "https://news.ycombinator.com/item?id=47731838"
-    ],
-    [
-      "Keeping a Postgres Queue Healthy",
-      "https://planetscale.com/blog/keeping-a-postgres-queue-healthy"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Simplest Hash Functions",
       "https://purplesyringa.moe/blog/simplest-hash-functions/"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 07:27:14",
+      "https://news.ycombinator.com/item?id=47671814"
+    ],
+    [
+      "Network Flow Algorithms",
+      "https://www.networkflowalgs.com/"
     ]
   ]
 ]
