@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47739260"
     ],
     [
-      "Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage",
+      "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
       "https://github.com/anthropics/claude-code/issues/45756"
     ]
   ],
@@ -211,26 +211,6 @@
   ],
   [
     [
-      "2026-04-11, 13:01:34",
-      "https://news.ycombinator.com/item?id=47730194"
-    ],
-    [
-      "Cirrus Labs to join OpenAI",
-      "https://cirruslabs.org/"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 06:19:25",
-      "https://news.ycombinator.com/item?id=47727960"
-    ],
-    [
-      "Show HN: Pardonned.com – A searchable database of US Pardons",
-      "https://news.ycombinator.com/item?id=47727960"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 15:51:21",
       "https://news.ycombinator.com/item?id=47719968"
     ],
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2026-04-07, 13:16:36",
+      "https://news.ycombinator.com/item?id=47674910"
+    ],
+    [
+      "The Miller Principle (2007)",
+      "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/"
+    ]
+  ],
+  [
+    [
       "2026-04-07, 10:44:55",
       "https://news.ycombinator.com/item?id=47673171"
     ],
@@ -297,6 +287,16 @@
     [
       "Tofolli gates are all you need",
       "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 09:39:44",
+      "https://news.ycombinator.com/item?id=47672710"
+    ],
+    [
+      "Floyd's Sampling Algorithm",
+      "https://buttondown.com/jaffray/archive/floyds-sampling-algorithm/"
     ]
   ]
 ]
