@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-12, 21:16:45](https://news.ycombinator.com/item?id=47744598) - [Inventors Who Didn't Invent What They Are Famous for Inventing](https://www.wsj.com/tech/us-famous-inventions-inventors-wrong-3d5b0a0f)
+* [2026-04-12, 22:13:22](https://news.ycombinator.com/item?id=47745120) - [Tech valuations are back to pre-AI boom levels](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels)
+* [2026-04-12, 21:11:24](https://news.ycombinator.com/item?id=47744540) - [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/)
+* [2026-04-12, 20:30:11](https://news.ycombinator.com/item?id=47744132) - [Uncharted island soon to appear on nautical charts](https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html)
 * [2026-04-12, 19:53:08](https://news.ycombinator.com/item?id=47743730) - [Google removes \"Doki Doki Literature Club\" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
 * [2026-04-12, 19:51:06](https://news.ycombinator.com/item?id=47743700) - [European AI. A playbook to own it](https://europe.mistral.ai/)
 * [2026-04-12, 19:44:40](https://news.ycombinator.com/item?id=47743628) - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
@@ -20,7 +22,6 @@
 * [2026-04-12, 10:29:26](https://news.ycombinator.com/item?id=47738094) - [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html)
 * [2026-04-12, 10:01:54](https://news.ycombinator.com/item?id=47737876) - [Doom, Played over Curl](https://github.com/xsawyerx/curl-doom)
 * [2026-04-12, 08:38:11](https://news.ycombinator.com/item?id=47737376) - [Phyphox – Physical Experiments Using a Smartphone](https://phyphox.org/)
-* [2026-04-12, 06:00:00](https://news.ycombinator.com/item?id=47736555) - [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
 * [2026-04-12, 05:45:52](https://news.ycombinator.com/item?id=47736476) - [Anthropic downgraded cache TTL on March 6th](https://github.com/anthropics/claude-code/issues/46829)
 * [2026-04-11, 19:15:56](https://news.ycombinator.com/item?id=47733217) - [Exploiting the most prominent AI agent benchmarks](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 * [2026-04-11, 09:03:34](https://news.ycombinator.com/item?id=47728879) - [Mark's Magic Multiply](https://wren.wtf/shower-thoughts/marks-magic-multiply/)
@@ -29,7 +30,6 @@
 * [2026-04-09, 17:27:39](https://news.ycombinator.com/item?id=47706560) - [A Tour of Oodi](https://blinry.org/oodi/)
 * [2026-04-09, 12:35:20](https://news.ycombinator.com/item?id=47702887) - [Most people can't juggle one ball](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball)
 * [2026-04-07, 13:55:11](https://news.ycombinator.com/item?id=47675444) - [Happy Map](https://pudding.cool/2026/02/happy-map/)
-* [2026-04-07, 13:16:36](https://news.ycombinator.com/item?id=47674910) - [The Miller Principle (2007)](https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/)
 
 ## [Archives](archives/index.md)
 
