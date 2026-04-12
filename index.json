@@ -1,12 +1,92 @@
 [
   [
     [
-      "2026-04-12, 10:46:21",
-      "https://news.ycombinator.com/item?id=47738196"
+      "2026-04-12, 13:21:39",
+      "https://news.ycombinator.com/item?id=47739313"
     ],
     [
-      "What have been the greatest intellectual achievements? (2017)",
-      "https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html"
+      "Seven countries now generate 100% of their electricity from renewable energy",
+      "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 13:20:58",
+      "https://news.ycombinator.com/item?id=47739305"
+    ],
+    [
+      "Tell HN: OpenAI silently removed Study Mode from ChatGPT",
+      "https://news.ycombinator.com/item?id=47739305"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 13:15:31",
+      "https://news.ycombinator.com/item?id=47739260"
+    ],
+    [
+      "Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage",
+      "https://github.com/anthropics/claude-code/issues/45756"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 12:42:25",
+      "https://news.ycombinator.com/item?id=47738978"
+    ],
+    [
+      "We have a 99% email reputation. Gmail disagrees",
+      "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 12:28:57",
+      "https://news.ycombinator.com/item?id=47738883"
+    ],
+    [
+      "Tell HN: docker pull fails in spain due to football cloudflare block",
+      "https://news.ycombinator.com/item?id=47738883"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 12:26:09",
+      "https://news.ycombinator.com/item?id=47738864"
+    ],
+    [
+      "Why AI Sucks at Front End",
+      "https://nerdy.dev/why-ai-sucks-at-front-end"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 12:21:26",
+      "https://news.ycombinator.com/item?id=47738827"
+    ],
+    [
+      "Bring Back Idiomatic Design",
+      "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 11:49:33",
+      "https://news.ycombinator.com/item?id=47738595"
+    ],
+    [
+      "No one owes you supply-chain security",
+      "https://purplesyringa.moe/blog/no-one-owes-you-supply-chain-security/"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 11:38:16",
+      "https://news.ycombinator.com/item?id=47738514"
+    ],
+    [
+      "Internet outage in Iran reaches 1,008 hours",
+      "https://mastodon.social/@netblocks/116384935123261912"
     ]
   ],
   [
@@ -17,6 +97,26 @@
     [
       "JVM Options Explorer",
       "https://chriswhocodes.com/vm-options-explorer.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 10:01:54",
+      "https://news.ycombinator.com/item?id=47737876"
+    ],
+    [
+      "Doom, Played over Curl",
+      "https://github.com/xsawyerx/curl-doom"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 09:16:35",
+      "https://news.ycombinator.com/item?id=47737563"
+    ],
+    [
+      "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+      "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and"
     ]
   ],
   [
@@ -51,42 +151,12 @@
   ],
   [
     [
-      "2026-04-12, 05:08:03",
-      "https://news.ycombinator.com/item?id=47736298"
+      "2026-04-12, 05:45:52",
+      "https://news.ycombinator.com/item?id=47736476"
     ],
     [
-      "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 02:09:13",
-      "https://news.ycombinator.com/item?id=47735581"
-    ],
-    [
-      "How a dancer with ALS used brainwaves to perform live",
-      "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 01:55:48",
-      "https://news.ycombinator.com/item?id=47735535"
-    ],
-    [
-      "The End of Eleventy",
-      "https://brennan.day/the-end-of-eleventy/"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 01:24:25",
-      "https://news.ycombinator.com/item?id=47735405"
-    ],
-    [
-      "Software Preservation Group: C++ History Collection",
-      "https://softwarepreservation.computerhistory.org/c_plus_plus/"
+      "Anthropic downgraded cache TTL on March 6th",
+      "https://github.com/anthropics/claude-code/issues/46829"
     ]
   ],
   [
@@ -131,32 +201,12 @@
   ],
   [
     [
-      "2026-04-11, 18:07:49",
-      "https://news.ycombinator.com/item?id=47732697"
-    ],
-    [
-      "How to build a `Git diff` driver",
-      "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/"
-    ]
-  ],
-  [
-    [
       "2026-04-11, 16:47:28",
       "https://news.ycombinator.com/item?id=47732020"
     ],
     [
       "Small models also found the vulnerabilities that Mythos found",
       "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 15:39:19",
-      "https://news.ycombinator.com/item?id=47731506"
-    ],
-    [
-      "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
-      "https://www.v68k.org/advanced-mac-substitute/"
     ]
   ],
   [
@@ -171,12 +221,12 @@
   ],
   [
     [
-      "2026-04-11, 06:19:25",
-      "https://news.ycombinator.com/item?id=47727960"
+      "2026-04-11, 07:23:14",
+      "https://news.ycombinator.com/item?id=47728323"
     ],
     [
-      "Show HN: Pardonned.com – A searchable database of US Pardons",
-      "https://news.ycombinator.com/item?id=47727960"
+      "Relics of the Heroic Age of Manned Space Flight",
+      "http://heroicrelics.org/index.html"
     ]
   ],
   [
@@ -187,26 +237,6 @@
     [
       "An Interview with Pat Gelsinger",
       "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 19:37:50",
-      "https://news.ycombinator.com/item?id=47695213"
-    ],
-    [
-      "Optimal Strategy for Connect 4",
-      "https://2swap.github.io/WeakC4/explanation/"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 17:36:19",
-      "https://news.ycombinator.com/item?id=47693559"
-    ],
-    [
-      "Surelock: Deadlock-Free Mutexes for Rust",
-      "https://notes.brooklynzelenka.com/Blog/Surelock"
     ]
   ],
   [
@@ -241,26 +271,6 @@
   ],
   [
     [
-      "2026-04-07, 12:30:49",
-      "https://news.ycombinator.com/item?id=47674273"
-    ],
-    [
-      "The Soul of an Old Machine",
-      "https://skalski.dev/the-soul-of-an-old-machine/"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 12:16:27",
-      "https://news.ycombinator.com/item?id=47674075"
-    ],
-    [
-      "What is a property?",
-      "https://alperenkeles.com/posts/what-is-a-property/"
-    ]
-  ],
-  [
-    [
       "2026-04-07, 10:44:55",
       "https://news.ycombinator.com/item?id=47673171"
     ],
@@ -287,16 +297,6 @@
     [
       "Tofolli gates are all you need",
       "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 07:27:14",
-      "https://news.ycombinator.com/item?id=47671814"
-    ],
-    [
-      "Network Flow Algorithms",
-      "https://www.networkflowalgs.com/"
     ]
   ]
 ]
