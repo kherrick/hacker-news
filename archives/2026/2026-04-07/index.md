@@ -59,6 +59,7 @@
 * [2026-04-07, 13:08:42](https://news.ycombinator.com/item?id=47674786) - [The best tools for sending an email if you go silent](https://blog.alcazarsec.com/posts/best-email-dead-mans-switches)
 * [2026-04-07, 13:06:28](https://news.ycombinator.com/item?id=47674749) - [Hybrid Attention](https://news.ycombinator.com/item?id=47674749)
 * [2026-04-07, 12:57:25](https://news.ycombinator.com/item?id=47674606) - [Show HN: Unicode Steganography](https://steganography.patrickvuscan.com)
+* [2026-04-07, 12:47:02](https://news.ycombinator.com/item?id=47674473) - [Stewart Brand on How Progress Happens](https://www.newyorker.com/books/book-currents/stewart-brand-on-how-progress-happens)
 * [2026-04-07, 12:30:49](https://news.ycombinator.com/item?id=47674273) - [The Soul of an Old Machine](https://skalski.dev/the-soul-of-an-old-machine/)
 * [2026-04-07, 12:27:59](https://news.ycombinator.com/item?id=47674234) - [\"The new Copilot app for Windows 11 is really just Microsoft Edge\"](https://twitter.com/TheBobPony/status/2041112541909205001)
 * [2026-04-07, 12:16:27](https://news.ycombinator.com/item?id=47674075) - [What Is a Property?](https://alperenkeles.com/posts/what-is-a-property/)
