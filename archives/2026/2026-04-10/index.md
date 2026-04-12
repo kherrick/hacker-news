@@ -36,6 +36,7 @@
 * [2026-04-10, 15:49:52](https://news.ycombinator.com/item?id=47719942) - [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html)
 * [2026-04-10, 15:37:28](https://news.ycombinator.com/item?id=47719740) - [1D Chess](https://rowan441.github.io/1dchess/chess.html)
 * [2026-04-10, 15:28:24](https://news.ycombinator.com/item?id=47719602) - [You can't trust macOS Privacy and Security settings](https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/)
+* [2026-04-10, 15:21:07](https://news.ycombinator.com/item?id=47719490) - [I gave every train in New York an instrument](https://www.trainjazz.com/)
 * [2026-04-10, 15:20:48](https://news.ycombinator.com/item?id=47719486) - [France to ditch Windows for Linux to reduce reliance on US tech](https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/)
 * [2026-04-10, 15:06:51](https://news.ycombinator.com/item?id=47719274) - [Helium Is Hard to Replace](https://www.construction-physics.com/p/helium-is-hard-to-replace)
 * [2026-04-10, 14:42:04](https://news.ycombinator.com/item?id=47718891) - [Supply chain nightmare: How Rust will be attacked and what we can do to mitigate](https://kerkour.com/rust-supply-chain-nightmare)
