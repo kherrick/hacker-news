@@ -54,6 +54,7 @@
 * [2026-04-07, 13:34:33](https://news.ycombinator.com/item?id=47675155) - [You can't cancel a JavaScript promise (except sometimes you can)](https://www.inngest.com/blog/hanging-promises-for-control-flow)
 * [2026-04-07, 13:23:05](https://news.ycombinator.com/item?id=47675013) - [Dropping Cloudflare for Bunny.net](https://jola.dev/posts/dropping-cloudflare)
 * [2026-04-07, 13:19:10](https://news.ycombinator.com/item?id=47674950) - [An AI robot in my home](https://allevato.me/2026/04/07/an-ai-robot-in-my-home)
+* [2026-04-07, 13:16:36](https://news.ycombinator.com/item?id=47674910) - [The Miller Principle](https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/)
 * [2026-04-07, 13:15:41](https://news.ycombinator.com/item?id=47674894) - [Model-Based Testing for Dungeons & Dragons](https://www.loskutoff.com/blog/model-based-testing-dnd/)
 * [2026-04-07, 13:08:42](https://news.ycombinator.com/item?id=47674786) - [The best tools for sending an email if you go silent](https://blog.alcazarsec.com/posts/best-email-dead-mans-switches)
 * [2026-04-07, 13:06:28](https://news.ycombinator.com/item?id=47674749) - [Hybrid Attention](https://news.ycombinator.com/item?id=47674749)
