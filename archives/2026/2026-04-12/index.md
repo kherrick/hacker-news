@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-12](index.md)
 
+* [2026-04-12, 22:38:45](https://news.ycombinator.com/item?id=47745284) - [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
+* [2026-04-12, 22:30:55](https://news.ycombinator.com/item?id=47745230) - [Sam Altman's home targeted in second attack](https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/)
 * [2026-04-12, 22:13:22](https://news.ycombinator.com/item?id=47745120) - [Tech valuations are back to pre-AI boom levels](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels)
 * [2026-04-12, 21:16:45](https://news.ycombinator.com/item?id=47744598) - [Inventors Who Didn't Invent What They Are Famous for Inventing](https://www.wsj.com/tech/us-famous-inventions-inventors-wrong-3d5b0a0f)
 * [2026-04-12, 21:11:24](https://news.ycombinator.com/item?id=47744540) - [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/)
