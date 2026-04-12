@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-04-12](index.md)
 
+* [2026-04-12, 18:30:29](https://news.ycombinator.com/item?id=47742790) - [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
 * [2026-04-12, 17:25:44](https://news.ycombinator.com/item?id=47742200) - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
 * [2026-04-12, 17:06:31](https://news.ycombinator.com/item?id=47742002) - [Reading Is Magic](https://samkriss.substack.com/p/reading-is-magic)
 * [2026-04-12, 17:01:26](https://news.ycombinator.com/item?id=47741953) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2026-04-12, 16:55:20](https://news.ycombinator.com/item?id=47741889) - [Show HN: Claudraband – Claude Code for the Power User](https://github.com/halfwhey/claudraband)
+* [2026-04-12, 16:38:43](https://news.ycombinator.com/item?id=47741701) - [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/)
 * [2026-04-12, 16:33:19](https://news.ycombinator.com/item?id=47741634) - [Building a SaaS in 2026 Using Only EU Infrastructure](https://eualternative.eu/guides/building-saas-eu-stack/)
+* [2026-04-12, 16:24:46](https://news.ycombinator.com/item?id=47741531) - [Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI](https://github.com/imbue-ai/bouncer)
+* [2026-04-12, 16:24:43](https://news.ycombinator.com/item?id=47741527) - [Ask HN: What Are You Working On? (April 2026)](https://news.ycombinator.com/item?id=47741527)
+* [2026-04-12, 16:17:59](https://news.ycombinator.com/item?id=47741460) - [Investigating How Long-Distance Couples Use Digital Games to Facilitate Intimacy](https://arxiv.org/abs/2505.09509)
 * [2026-04-12, 16:10:51](https://news.ycombinator.com/item?id=47741393) - [Textbooks and Methods of Note-Taking in Early Modern Europe (2008)](https://dash.harvard.edu/server/api/core/bitstreams/7312037d-e342-6bd4-e053-0100007fdf3b/content)
 * [2026-04-12, 14:43:23](https://news.ycombinator.com/item?id=47740315) - [Eternity in six hours: Intergalactic spreading of intelligent life (2013)](https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox)
 * [2026-04-12, 13:21:39](https://news.ycombinator.com/item?id=47739313) - [Seven countries now generate 100% of their electricity from renewable energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html)
