@@ -32,6 +32,7 @@
 * [2026-04-10, 16:22:13](https://news.ycombinator.com/item?id=47720418) - [Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs](https://twill.ai)
 * [2026-04-10, 15:58:07](https://news.ycombinator.com/item?id=47720060) - [Why I'm Building a Database Engine in C#](https://nockawa.github.io/blog/why-building-database-engine-in-csharp/)
 * [2026-04-10, 15:51:41](https://news.ycombinator.com/item?id=47719975) - [Bluesky April 2026 Outage Post-Mortem](https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2)
+* [2026-04-10, 15:51:21](https://news.ycombinator.com/item?id=47719968) - [Compute iOS XNU offset from kernel cache](https://blog.reversesociety.co/blog/2026/kernel-rw-not-enough-extract-offsets-from-xnu-kernelcaches)
 * [2026-04-10, 15:49:52](https://news.ycombinator.com/item?id=47719942) - [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html)
 * [2026-04-10, 15:37:28](https://news.ycombinator.com/item?id=47719740) - [1D Chess](https://rowan441.github.io/1dchess/chess.html)
 * [2026-04-10, 15:28:24](https://news.ycombinator.com/item?id=47719602) - [You can't trust macOS Privacy and Security settings](https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/)

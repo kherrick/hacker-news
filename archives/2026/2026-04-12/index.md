@@ -14,6 +14,7 @@
 * [2026-04-12, 12:21:26](https://news.ycombinator.com/item?id=47738827) - [Bring Back Idiomatic Design](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
 * [2026-04-12, 11:49:33](https://news.ycombinator.com/item?id=47738595) - [No one owes you supply-chain security](https://purplesyringa.moe/blog/no-one-owes-you-supply-chain-security/)
 * [2026-04-12, 11:38:16](https://news.ycombinator.com/item?id=47738514) - [Internet outage in Iran reaches 1,008 hours](https://mastodon.social/@netblocks/116384935123261912)
+* [2026-04-12, 11:10:18](https://news.ycombinator.com/item?id=47738343) - [The Physics of GPS](https://perthirtysix.com/how-does-gps-work)
 * [2026-04-12, 10:46:21](https://news.ycombinator.com/item?id=47738196) - [What have been the greatest intellectual achievements? (2017)](https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html)
 * [2026-04-12, 10:29:26](https://news.ycombinator.com/item?id=47738094) - [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html)
 * [2026-04-12, 10:07:33](https://news.ycombinator.com/item?id=47737928) - [MiniMax M2.7 Is Now Open Source](https://firethering.com/minimax-m2-7-agentic-model/)
