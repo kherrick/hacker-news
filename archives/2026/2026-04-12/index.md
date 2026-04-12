@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-12](index.md)
 
+* [2026-04-12, 19:37:15](https://news.ycombinator.com/item?id=47743553) - [Viktor Orbán concedes defeat after 'painful' election result](https://apnews.com/article/hungary-election-orban-magyar-trump-1a4eb0ba6b94e0c80c3cd18bd36254ab)
 * [2026-04-12, 18:30:29](https://news.ycombinator.com/item?id=47742790) - [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
 * [2026-04-12, 17:25:44](https://news.ycombinator.com/item?id=47742200) - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
 * [2026-04-12, 17:06:31](https://news.ycombinator.com/item?id=47742002) - [Reading Is Magic](https://samkriss.substack.com/p/reading-is-magic)
