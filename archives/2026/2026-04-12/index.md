@@ -7,6 +7,7 @@
 * [2026-04-12, 13:21:39](https://news.ycombinator.com/item?id=47739313) - [Seven countries now generate 100% of their electricity from renewable energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html)
 * [2026-04-12, 13:20:58](https://news.ycombinator.com/item?id=47739305) - [Tell HN: OpenAI silently removed Study Mode from ChatGPT](https://news.ycombinator.com/item?id=47739305)
 * [2026-04-12, 13:15:31](https://news.ycombinator.com/item?id=47739260) - [Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage](https://github.com/anthropics/claude-code/issues/45756)
+* [2026-04-12, 13:06:44](https://news.ycombinator.com/item?id=47739174) - [Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)](https://github.com/rochus-keller/OberonSystem3Native/releases)
 * [2026-04-12, 12:42:25](https://news.ycombinator.com/item?id=47738978) - [We have a 99% email reputation. Gmail disagrees](https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/)
 * [2026-04-12, 12:28:57](https://news.ycombinator.com/item?id=47738883) - [Tell HN: docker pull fails in spain due to football cloudflare block](https://news.ycombinator.com/item?id=47738883)
 * [2026-04-12, 12:26:09](https://news.ycombinator.com/item?id=47738864) - [Why AI Sucks at Front End](https://nerdy.dev/why-ai-sucks-at-front-end)
