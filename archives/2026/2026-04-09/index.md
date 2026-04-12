@@ -27,6 +27,7 @@
 * [2026-04-09, 18:22:39](https://news.ycombinator.com/item?id=47707477) - [Old laptops in a colo as low cost servers](https://colaptop.pages.dev/)
 * [2026-04-09, 18:10:33](https://news.ycombinator.com/item?id=47707269) - [What Game Engines Know About Data That Databases Forgot](https://nockawa.github.io/blog/what-game-engines-know-about-data/)
 * [2026-04-09, 18:09:19](https://news.ycombinator.com/item?id=47707253) - [ChatGPT Pro now starts at $100/month](https://chatgpt.com/pricing/)
+* [2026-04-09, 17:19:10](https://news.ycombinator.com/item?id=47706423) - [An Interview with Pat Gelsinger](https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026)
 * [2026-04-09, 17:08:04](https://news.ycombinator.com/item?id=47706268) - [EFF Is Leaving X](https://www.eff.org/deeplinks/2026/04/eff-leaving-x)
 * [2026-04-09, 16:58:49](https://news.ycombinator.com/item?id=47706141) - [Research-Driven Agents: What Happens When Your Agent Reads Before It Codes](https://blog.skypilot.co/research-driven-agents/)
 * [2026-04-09, 16:58:46](https://news.ycombinator.com/item?id=47706140) - [Unfolder for Mac – A 3D model unfolding tool for creating papercraft](https://www.unfolder.app/)
