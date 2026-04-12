@@ -62,6 +62,7 @@
 * [2026-04-09, 07:58:00](https://news.ycombinator.com/item?id=47700556) - [A practical guide for setting up Zettelkasten method in Obsidian](https://desktopcommander.app/blog/zettelkasten-obsidian/)
 * [2026-04-09, 07:27:25](https://news.ycombinator.com/item?id=47700388) - [Help Keep Thunderbird Alive](https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/)
 * [2026-04-09, 06:00:55](https://news.ycombinator.com/item?id=47699814) - [Process Manager for Autonomous AI Agents](https://botctl.dev/)
+* [2026-04-09, 05:06:20](https://news.ycombinator.com/item?id=47699470) - [The Life and Death of the Book Review](https://libertiesjournal.com/articles/the-life-and-death-of-the-book-review/)
 * [2026-04-09, 04:11:55](https://news.ycombinator.com/item?id=47699181) - [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
 * [2026-04-09, 01:52:47](https://news.ycombinator.com/item?id=47698455) - [Starfling: A one-tap endless orbital slingshot game in a single HTML file](https://playstarfling.com)
 * [2026-04-09, 00:58:47](https://news.ycombinator.com/item?id=47698111) - [Bevy game development tutorials and in-depth resources](https://taintedcoders.com/)
