@@ -9,7 +9,6 @@
 * [2026-04-12, 17:01:26](https://news.ycombinator.com/item?id=47741953) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2026-04-12, 16:55:20](https://news.ycombinator.com/item?id=47741889) - [Show HN: Claudraband – Claude Code for the Power User](https://github.com/halfwhey/claudraband)
 * [2026-04-12, 16:38:43](https://news.ycombinator.com/item?id=47741701) - [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/)
-* [2026-04-12, 16:24:46](https://news.ycombinator.com/item?id=47741531) - [Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI](https://github.com/imbue-ai/bouncer)
 * [2026-04-12, 16:24:43](https://news.ycombinator.com/item?id=47741527) - [Ask HN: What Are You Working On? (April 2026)](https://news.ycombinator.com/item?id=47741527)
 * [2026-04-12, 16:17:59](https://news.ycombinator.com/item?id=47741460) - [Investigating How Long-Distance Couples Use Digital Games to Facilitate Intimacy](https://arxiv.org/abs/2505.09509)
 * [2026-04-12, 16:10:51](https://news.ycombinator.com/item?id=47741393) - [Textbooks and Methods of Note-Taking in Early Modern Europe (2008)](https://dash.harvard.edu/server/api/core/bitstreams/7312037d-e342-6bd4-e053-0100007fdf3b/content)
@@ -30,6 +29,7 @@
 * [2026-04-09, 17:27:39](https://news.ycombinator.com/item?id=47706560) - [A Tour of Oodi](https://blinry.org/oodi/)
 * [2026-04-09, 12:35:20](https://news.ycombinator.com/item?id=47702887) - [Most people can't juggle one ball](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball)
 * [2026-04-07, 13:55:11](https://news.ycombinator.com/item?id=47675444) - [Happy Map](https://pudding.cool/2026/02/happy-map/)
+* [2026-04-07, 13:16:36](https://news.ycombinator.com/item?id=47674910) - [The Miller Principle (2007)](https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/)
 
 ## [Archives](archives/index.md)
 
