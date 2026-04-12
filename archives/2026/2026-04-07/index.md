@@ -81,6 +81,7 @@
 * [2026-04-07, 09:51:28](https://news.ycombinator.com/item?id=47672778) - [Breaking the console: a brief history of video game security](https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/)
 * [2026-04-07, 09:40:57](https://news.ycombinator.com/item?id=47672718) - [Tofolli gates are all you need](https://www.johndcook.com/blog/2026/04/06/tofolli-gates/)
 * [2026-04-07, 09:40:08](https://news.ycombinator.com/item?id=47672714) - [Simplest Hash Functions](https://purplesyringa.moe/blog/simplest-hash-functions/)
+* [2026-04-07, 09:39:44](https://news.ycombinator.com/item?id=47672710) - [Floyd's Sampling Algorithm](https://buttondown.com/jaffray/archive/floyds-sampling-algorithm/)
 * [2026-04-07, 08:48:17](https://news.ycombinator.com/item?id=47672362) - [An Arctic Road Trip Brings Vital Underground Networks into View](https://www.quantamagazine.org/an-arctic-road-trip-brings-vital-underground-networks-into-view-20260406/)
 * [2026-04-07, 08:42:05](https://news.ycombinator.com/item?id=47672318) - [Blackholing My Email](https://www.johnsto.co.uk/blog/blackholing-my-email/)
 * [2026-04-07, 08:38:17](https://news.ycombinator.com/item?id=47672295) - [Every GPU That Mattered](https://sheets.works/data-viz/every-gpu)
