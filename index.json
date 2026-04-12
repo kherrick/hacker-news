@@ -1,32 +1,62 @@
 [
   [
     [
-      "2026-04-12, 02:38:56",
-      "https://news.ycombinator.com/item?id=47735712"
+      "2026-04-12, 05:08:03",
+      "https://news.ycombinator.com/item?id=47736298"
     ],
     [
-      "Anthropic loses appeals court bid to pause supply chain risk label",
-      "https://www.politico.com/news/2026/04/08/d-c-circuit-rejects-anthropic-plea-to-pause-supply-chain-risk-label-00864880"
+      "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional"
     ]
   ],
   [
     [
-      "2026-04-12, 02:37:39",
-      "https://news.ycombinator.com/item?id=47735704"
+      "2026-04-12, 04:49:33",
+      "https://news.ycombinator.com/item?id=47736235"
     ],
     [
-      "We spoke to the man making viral Lego-style AI videos for Iran",
-      "https://www.bbc.com/news/articles/cjd8jrd1vnyo"
+      "US – Iran negotiations end with no deal reached",
+      "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan"
     ]
   ],
   [
     [
-      "2026-04-12, 02:14:44",
-      "https://news.ycombinator.com/item?id=47735606"
+      "2026-04-12, 04:31:13",
+      "https://news.ycombinator.com/item?id=47736172"
     ],
     [
-      "Americans still opt for print books over digital or audio versions",
-      "https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/"
+      "The Brainrot Industrial Complex",
+      "https://jshamsul.com/essays/2026-04-12-brainrot-industrial-complex"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 03:34:13",
+      "https://news.ycombinator.com/item?id=47735927"
+    ],
+    [
+      "Excellence Is a Habit",
+      "https://www.flyingbarron.com/2026/04/excellence-is-habit.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 03:04:05",
+      "https://news.ycombinator.com/item?id=47735810"
+    ],
+    [
+      "Why meaningful days look like nothing while you are living them",
+      "https://pilgrima.ge/p/the-grand-line"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 02:57:24",
+      "https://news.ycombinator.com/item?id=47735779"
+    ],
+    [
+      "Building a Z-Machine in the worst possible language – Whitebeard's Realm",
+      "https://whitebeard.blog/posts/building-a-z-machine-in-elm/"
     ]
   ],
   [
@@ -47,6 +77,16 @@
     [
       "The End of Eleventy",
       "https://brennan.day/the-end-of-eleventy/"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 01:47:07",
+      "https://news.ycombinator.com/item?id=47735507"
+    ],
+    [
+      "Used Graphify to turn incidents into a queryable knowledge graph",
+      "https://github.com/Rootly-AI-Labs/rootly-graphify-importer"
     ]
   ],
   [
@@ -111,32 +151,12 @@
   ],
   [
     [
-      "2026-04-11, 18:55:43",
-      "https://news.ycombinator.com/item?id=47733066"
-    ],
-    [
-      "New synthesis of astronomical measurements shows Hubble tension is real",
-      "https://noirlab.edu/public/news/noirlab2611/?nocache=true&lang=en"
-    ]
-  ],
-  [
-    [
       "2026-04-11, 18:07:49",
       "https://news.ycombinator.com/item?id=47732697"
     ],
     [
       "How to build a `Git diff` driver",
       "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 17:34:10",
-      "https://news.ycombinator.com/item?id=47732402"
-    ],
-    [
-      "The APL programming language source code (2012)",
-      "https://computerhistory.org/blog/the-apl-programming-language-source-code/"
     ]
   ],
   [
@@ -171,26 +191,6 @@
   ],
   [
     [
-      "2026-04-11, 14:32:39",
-      "https://news.ycombinator.com/item?id=47730981"
-    ],
-    [
-      "The future of everything is lies, I guess – Part 5: Annoyances",
-      "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 14:03:03",
-      "https://news.ycombinator.com/item?id=47730712"
-    ],
-    [
-      "The Problem That Built an Industry",
-      "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/"
-    ]
-  ],
-  [
-    [
       "2026-04-11, 13:01:34",
       "https://news.ycombinator.com/item?id=47730194"
     ],
@@ -207,16 +207,6 @@
     [
       "Show HN: Pardonned.com – A searchable database of US Pardons",
       "https://news.ycombinator.com/item?id=47727960"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 05:06:20",
-      "https://news.ycombinator.com/item?id=47699470"
-    ],
-    [
-      "The Life and Death of the Book Review",
-      "https://libertiesjournal.com/articles/the-life-and-death-of-the-book-review/"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2026-04-07, 08:23:16",
-      "https://news.ycombinator.com/item?id=47672187"
+      "2026-04-07, 09:40:57",
+      "https://news.ycombinator.com/item?id=47672718"
     ],
     [
-      "Building Slogbox",
-      "https://alexrios.me/blog/slogbox-devlog/"
+      "Tofolli gates are all you need",
+      "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 09:40:08",
+      "https://news.ycombinator.com/item?id=47672714"
+    ],
+    [
+      "Simplest Hash Functions",
+      "https://purplesyringa.moe/blog/simplest-hash-functions/"
     ]
   ]
 ]
