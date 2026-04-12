@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-12](index.md)
 
+* [2026-04-12, 21:16:45](https://news.ycombinator.com/item?id=47744598) - [Inventors Who Didn't Invent What They Are Famous for Inventing](https://www.wsj.com/tech/us-famous-inventions-inventors-wrong-3d5b0a0f)
 * [2026-04-12, 20:21:58](https://news.ycombinator.com/item?id=47744050) - [Solar panels are creating an unexpected effect by forming rainfall clouds](https://www.ecoportal.net/en/solar-panels-are-creating-rain-clouds/19854/)
 * [2026-04-12, 19:53:08](https://news.ycombinator.com/item?id=47743730) - [Google Removes \"Doki Doki Literature Club\" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
 * [2026-04-12, 19:51:06](https://news.ycombinator.com/item?id=47743700) - [European AI. A playbook to own it](https://europe.mistral.ai/)

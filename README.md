@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-12, 20:21:58](https://news.ycombinator.com/item?id=47744050) - [Solar panels are creating an unexpected effect by forming rainfall clouds](https://www.ecoportal.net/en/solar-panels-are-creating-rain-clouds/19854/)
+* [2026-04-12, 21:16:45](https://news.ycombinator.com/item?id=47744598) - [Inventors Who Didn't Invent What They Are Famous for Inventing](https://www.wsj.com/tech/us-famous-inventions-inventors-wrong-3d5b0a0f)
 * [2026-04-12, 19:53:08](https://news.ycombinator.com/item?id=47743730) - [Google removes \"Doki Doki Literature Club\" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
 * [2026-04-12, 19:51:06](https://news.ycombinator.com/item?id=47743700) - [European AI. A playbook to own it](https://europe.mistral.ai/)
 * [2026-04-12, 19:44:40](https://news.ycombinator.com/item?id=47743628) - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
@@ -29,7 +29,7 @@
 * [2026-04-09, 17:27:39](https://news.ycombinator.com/item?id=47706560) - [A Tour of Oodi](https://blinry.org/oodi/)
 * [2026-04-09, 12:35:20](https://news.ycombinator.com/item?id=47702887) - [Most people can't juggle one ball](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball)
 * [2026-04-07, 13:55:11](https://news.ycombinator.com/item?id=47675444) - [Happy Map](https://pudding.cool/2026/02/happy-map/)
-* [2026-04-07, 09:39:44](https://news.ycombinator.com/item?id=47672710) - [Floyd's Sampling Algorithm](https://buttondown.com/jaffray/archive/floyds-sampling-algorithm/)
+* [2026-04-07, 13:16:36](https://news.ycombinator.com/item?id=47674910) - [The Miller Principle (2007)](https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/)
 
 ## [Archives](archives/index.md)
 
