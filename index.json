@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-12, 18:30:29",
+      "https://news.ycombinator.com/item?id=47742790"
+    ],
+    [
+      "The Closing of the Frontier",
+      "https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 17:25:44",
       "https://news.ycombinator.com/item?id=47742200"
     ],
@@ -31,12 +41,62 @@
   ],
   [
     [
+      "2026-04-12, 16:55:20",
+      "https://news.ycombinator.com/item?id=47741889"
+    ],
+    [
+      "Show HN: Claudraband – Claude Code for the Power User",
+      "https://github.com/halfwhey/claudraband"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 16:38:43",
+      "https://news.ycombinator.com/item?id=47741701"
+    ],
+    [
+      "DIY Soft Drinks",
+      "https://blinry.org/diy-soft-drinks/"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 16:33:19",
       "https://news.ycombinator.com/item?id=47741634"
     ],
     [
       "Building a SaaS in 2026 Using Only EU Infrastructure",
       "https://eualternative.eu/guides/building-saas-eu-stack/"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 16:24:46",
+      "https://news.ycombinator.com/item?id=47741531"
+    ],
+    [
+      "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
+      "https://github.com/imbue-ai/bouncer"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 16:24:43",
+      "https://news.ycombinator.com/item?id=47741527"
+    ],
+    [
+      "Ask HN: What Are You Working On? (April 2026)",
+      "https://news.ycombinator.com/item?id=47741527"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 16:17:59",
+      "https://news.ycombinator.com/item?id=47741460"
+    ],
+    [
+      "Investigating How Long-Distance Couples Use Digital Games to Facilitate Intimacy",
+      "https://arxiv.org/abs/2505.09509"
     ]
   ],
   [
@@ -71,16 +131,6 @@
   ],
   [
     [
-      "2026-04-12, 13:20:58",
-      "https://news.ycombinator.com/item?id=47739305"
-    ],
-    [
-      "Tell HN: OpenAI silently removed Study Mode from ChatGPT",
-      "https://news.ycombinator.com/item?id=47739305"
-    ]
-  ],
-  [
-    [
       "2026-04-12, 13:06:44",
       "https://news.ycombinator.com/item?id=47739174"
     ],
@@ -107,16 +157,6 @@
     [
       "Bring Back Idiomatic Design",
       "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 11:38:16",
-      "https://news.ycombinator.com/item?id=47738514"
-    ],
-    [
-      "Internet outage in Iran reaches 1,008 hours",
-      "https://mastodon.social/@netblocks/116384935123261912"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2026-04-11, 20:08:46",
-      "https://news.ycombinator.com/item?id=47733561"
-    ],
-    [
-      "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "https://zenodo.org/records/19513269"
-    ]
-  ],
-  [
-    [
       "2026-04-11, 19:15:56",
       "https://news.ycombinator.com/item?id=47733217"
     ],
@@ -201,22 +231,12 @@
   ],
   [
     [
-      "2026-04-11, 16:47:28",
-      "https://news.ycombinator.com/item?id=47732020"
+      "2026-04-11, 09:03:34",
+      "https://news.ycombinator.com/item?id=47728879"
     ],
     [
-      "Small models also found the vulnerabilities that Mythos found",
-      "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 15:51:21",
-      "https://news.ycombinator.com/item?id=47719968"
-    ],
-    [
-      "Compute iOS XNU offset from kernel cache",
-      "https://blog.reversesociety.co/blog/2026/kernel-rw-not-enough-extract-offsets-from-xnu-kernelcaches"
+      "Mark's Magic Multiply",
+      "https://wren.wtf/shower-thoughts/marks-magic-multiply/"
     ]
   ],
   [
@@ -237,16 +257,6 @@
     [
       "A Tour of Oodi",
       "https://blinry.org/oodi/"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 17:19:10",
-      "https://news.ycombinator.com/item?id=47706423"
-    ],
-    [
-      "An Interview with Pat Gelsinger",
-      "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The Miller Principle (2007)",
       "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 09:40:57",
-      "https://news.ycombinator.com/item?id=47672718"
-    ],
-    [
-      "Tofolli gates are all you need",
-      "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/"
     ]
   ],
   [
