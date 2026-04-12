@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-12](index.md)
 
+* [2026-04-12, 10:46:21](https://news.ycombinator.com/item?id=47738196) - [What have been the greatest intellectual achievements? (2017)](https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html)
 * [2026-04-12, 10:29:26](https://news.ycombinator.com/item?id=47738094) - [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html)
 * [2026-04-12, 10:07:33](https://news.ycombinator.com/item?id=47737928) - [MiniMax M2.7 Is Now Open Source](https://firethering.com/minimax-m2-7-agentic-model/)
 * [2026-04-12, 09:16:35](https://news.ycombinator.com/item?id=47737563) - [AI Will Be Met with Violence, and Nothing Good Will Come of It](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)

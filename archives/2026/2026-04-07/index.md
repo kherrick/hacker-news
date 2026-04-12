@@ -46,6 +46,7 @@
 * [2026-04-07, 14:07:34](https://news.ycombinator.com/item?id=47675625) - [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/)
 * [2026-04-07, 14:01:41](https://news.ycombinator.com/item?id=47675550) - [Who was \"Not Even Wrong\" first? [2023]](https://www.math.columbia.edu/~woit/wordpress/?p=13455)
 * [2026-04-07, 13:55:14](https://news.ycombinator.com/item?id=47675446) - [Audio Reactive LED Strips Are Diabolically Hard](https://scottlawsonbc.com/post/audio-led)
+* [2026-04-07, 13:55:11](https://news.ycombinator.com/item?id=47675444) - [Happy Map](https://pudding.cool/2026/02/happy-map/)
 * [2026-04-07, 13:50:27](https://news.ycombinator.com/item?id=47675372) - [Has electricity decoupled from natural gas prices in Germany?](https://has-electricity-decoupled-yet.strommarktberatung.de)
 * [2026-04-07, 13:45:26](https://news.ycombinator.com/item?id=47675302) - [9 Mothers (YC P26) Is Hiring – Lead Robotics and More](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-04-07, 13:43:04](https://news.ycombinator.com/item?id=47675271) - [A Digital Compute-in-Memory Architecture for NFA Evaluation](https://dl.acm.org/doi/10.1145/3716368.3735157)
