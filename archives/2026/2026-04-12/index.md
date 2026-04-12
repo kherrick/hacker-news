@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-12](index.md)
 
+* [2026-04-12, 14:43:23](https://news.ycombinator.com/item?id=47740315) - [Eternity in six hours: Intergalactic spreading of intelligent life (2013)](https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox)
 * [2026-04-12, 13:21:39](https://news.ycombinator.com/item?id=47739313) - [Seven countries now generate 100% of their electricity from renewable energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html)
 * [2026-04-12, 13:20:58](https://news.ycombinator.com/item?id=47739305) - [Tell HN: OpenAI silently removed Study Mode from ChatGPT](https://news.ycombinator.com/item?id=47739305)
 * [2026-04-12, 13:15:31](https://news.ycombinator.com/item?id=47739260) - [Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage](https://github.com/anthropics/claude-code/issues/45756)
