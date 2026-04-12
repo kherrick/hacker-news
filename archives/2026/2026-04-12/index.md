@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-12](index.md)
 
+* [2026-04-12, 19:53:08](https://news.ycombinator.com/item?id=47743730) - [Google Removes \"Doki Doki Literature Club\" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
+* [2026-04-12, 19:51:06](https://news.ycombinator.com/item?id=47743700) - [European AI. A playbook to own it](https://europe.mistral.ai/)
+* [2026-04-12, 19:44:40](https://news.ycombinator.com/item?id=47743628) - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
 * [2026-04-12, 19:37:15](https://news.ycombinator.com/item?id=47743553) - [Viktor Orbán concedes defeat after 'painful' election result](https://apnews.com/article/hungary-election-orban-magyar-trump-1a4eb0ba6b94e0c80c3cd18bd36254ab)
 * [2026-04-12, 18:30:29](https://news.ycombinator.com/item?id=47742790) - [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
+* [2026-04-12, 18:19:02](https://news.ycombinator.com/item?id=47742680) - [Apple has removed most of the towns and villages in Lebanon from Apple maps?](https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193)
 * [2026-04-12, 17:25:44](https://news.ycombinator.com/item?id=47742200) - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
 * [2026-04-12, 17:06:31](https://news.ycombinator.com/item?id=47742002) - [Reading Is Magic](https://samkriss.substack.com/p/reading-is-magic)
 * [2026-04-12, 17:01:26](https://news.ycombinator.com/item?id=47741953) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
