@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-12, 07:13:55](https://news.ycombinator.com/item?id=47736907) - [Pope Leo XIV denounces the 'delusion of omnipotence' he says fuels the Iran war](https://www.politico.com/news/2026/04/11/pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-fuels-the-us-israeli-war-in-iran-00868142)
+* [2026-04-12, 06:00:00](https://news.ycombinator.com/item?id=47736555) - [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
 * [2026-04-12, 05:08:03](https://news.ycombinator.com/item?id=47736298) - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional)
 * [2026-04-12, 03:04:05](https://news.ycombinator.com/item?id=47735810) - [Why meaningful days look like nothing while you are living them](https://pilgrima.ge/p/the-grand-line)
-* [2026-04-12, 02:57:24](https://news.ycombinator.com/item?id=47735779) - [Building a Z-Machine in the worst possible language – Whitebeard's Realm](https://whitebeard.blog/posts/building-a-z-machine-in-elm/)
 * [2026-04-12, 02:09:13](https://news.ycombinator.com/item?id=47735581) - [How a dancer with ALS used brainwaves to perform live](https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/)
 * [2026-04-12, 01:55:48](https://news.ycombinator.com/item?id=47735535) - [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
 * [2026-04-12, 01:24:25](https://news.ycombinator.com/item?id=47735405) - [Software Preservation Group: C++ History Collection](https://softwarepreservation.computerhistory.org/c_plus_plus/)
@@ -11,11 +12,9 @@
 * [2026-04-11, 20:08:46](https://news.ycombinator.com/item?id=47733561) - [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269)
 * [2026-04-11, 20:01:59](https://news.ycombinator.com/item?id=47733521) - [Dark Castle](https://darkcastle.co.uk/)
 * [2026-04-11, 19:15:56](https://news.ycombinator.com/item?id=47733217) - [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
-* [2026-04-11, 18:55:43](https://news.ycombinator.com/item?id=47733066) - [New synthesis of astronomical measurements shows Hubble tension is real](https://noirlab.edu/public/news/noirlab2611/?nocache=true&lang=en)
 * [2026-04-11, 18:07:49](https://news.ycombinator.com/item?id=47732697) - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
 * [2026-04-11, 17:34:10](https://news.ycombinator.com/item?id=47732402) - [The APL programming language source code (2012)](https://computerhistory.org/blog/the-apl-programming-language-source-code/)
 * [2026-04-11, 16:47:28](https://news.ycombinator.com/item?id=47732020) - [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
-* [2026-04-11, 16:24:08](https://news.ycombinator.com/item?id=47731838) - [Keeping a Postgres Queue Healthy](https://planetscale.com/blog/keeping-a-postgres-queue-healthy)
 * [2026-04-11, 15:39:19](https://news.ycombinator.com/item?id=47731506) - [Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/)
 * [2026-04-11, 14:03:03](https://news.ycombinator.com/item?id=47730712) - [The Problem That Built an Industry](https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/)
 * [2026-04-11, 13:01:34](https://news.ycombinator.com/item?id=47730194) - [Cirrus Labs to join OpenAI](https://cirruslabs.org/)
@@ -30,6 +29,7 @@
 * [2026-04-07, 10:16:38](https://news.ycombinator.com/item?id=47672941) - [Pijul a FOSS distributed version control system](https://pijul.org/)
 * [2026-04-07, 09:40:57](https://news.ycombinator.com/item?id=47672718) - [Tofolli gates are all you need](https://www.johndcook.com/blog/2026/04/06/tofolli-gates/)
 * [2026-04-07, 09:40:08](https://news.ycombinator.com/item?id=47672714) - [Simplest Hash Functions](https://purplesyringa.moe/blog/simplest-hash-functions/)
+* [2026-04-07, 07:27:14](https://news.ycombinator.com/item?id=47671814) - [Network Flow Algorithms](https://www.networkflowalgs.com/)
 
 ## [Archives](archives/index.md)
 
