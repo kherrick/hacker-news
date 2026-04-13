@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-04-13, 19:54:41",
+      "https://news.ycombinator.com/item?id=47757033"
+    ],
+    [
+      "Google has the same AI adoption curve as John Deere",
+      "https://twitter.com/i/status/2043747998740689171"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 19:18:34",
+      "https://news.ycombinator.com/item?id=47756672"
+    ],
+    [
+      "The Looming College-Enrollment Death Spiral",
+      "https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 19:10:07",
+      "https://news.ycombinator.com/item?id=47756569"
+    ],
+    [
+      "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
+      "https://www.ithihasas.in"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 18:50:08",
+      "https://news.ycombinator.com/item?id=47756321"
+    ],
+    [
+      "How to make Firefox builds 17% faster",
+      "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 18:26:40",
+      "https://news.ycombinator.com/item?id=47756036"
+    ],
+    [
+      "Visualizing CPU Pipelining (2024)",
+      "https://timmastny.com/blog/visualizing-cpu-pipelining/"
+    ]
+  ],
+  [
+    [
       "2026-04-13, 18:08:14",
       "https://news.ycombinator.com/item?id=47755805"
     ],
@@ -21,12 +71,12 @@
   ],
   [
     [
-      "2026-04-13, 16:37:10",
-      "https://news.ycombinator.com/item?id=47754606"
+      "2026-04-13, 17:22:31",
+      "https://news.ycombinator.com/item?id=47755209"
     ],
     [
-      "The Rational Conclusion of Doomerism Is Violence",
-      "https://www.campbellramble.ai/p/the-rational-conclusion"
+      "B-trees and database indexes (2024)",
+      "https://planetscale.com/blog/btrees-and-database-indexes"
     ]
   ],
   [
@@ -151,16 +201,6 @@
   ],
   [
     [
-      "2026-04-13, 11:48:15",
-      "https://news.ycombinator.com/item?id=47750669"
-    ],
-    [
-      "Android now stops you sharing your location in photos",
-      "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/"
-    ]
-  ],
-  [
-    [
       "2026-04-13, 05:45:32",
       "https://news.ycombinator.com/item?id=47748064"
     ],
@@ -187,26 +227,6 @@
     [
       "Taking on CUDA with ROCm: 'One Step After Another'",
       "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 21:11:24",
-      "https://news.ycombinator.com/item?id=47744540"
-    ],
-    [
-      "A perfectable programming language",
-      "https://alok.github.io/lean-pages/perfectable-lean/"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 20:43:08",
-      "https://news.ycombinator.com/item?id=47744255"
-    ],
-    [
-      "I ran Gemma 4 as a local model in Codex CLI",
-      "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4"
     ]
   ],
   [
@@ -241,26 +261,6 @@
   ],
   [
     [
-      "2026-04-12, 16:24:43",
-      "https://news.ycombinator.com/item?id=47741527"
-    ],
-    [
-      "Ask HN: What Are You Working On? (April 2026)",
-      "https://news.ycombinator.com/item?id=47741527"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 12:42:25",
-      "https://news.ycombinator.com/item?id=47738978"
-    ],
-    [
-      "We have a 99% email reputation, but Gmail disagrees",
-      "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/"
-    ]
-  ],
-  [
-    [
       "2026-04-12, 12:21:26",
       "https://news.ycombinator.com/item?id=47738827"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2026-04-11, 11:35:02",
+      "https://news.ycombinator.com/item?id=47729694"
+    ],
+    [
+      "An Introduction to Obsidian",
+      "https://bryanhogan.com/blog/obsidian-introduction"
+    ]
+  ],
+  [
+    [
       "2026-04-11, 06:58:59",
       "https://news.ycombinator.com/item?id=47728192"
     ],
     [
       "Your Startup Is Probably Dead on Arrival",
       "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 15:21:07",
-      "https://news.ycombinator.com/item?id=47719490"
-    ],
-    [
-      "I gave every train in New York an instrument",
-      "https://www.trainjazz.com/"
     ]
   ],
   [
