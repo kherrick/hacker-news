@@ -4,9 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 13:37:33](https://news.ycombinator.com/item?id=47751781) - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/)
+* [2026-04-13, 13:27:51](https://news.ycombinator.com/item?id=47751669) - [They See Your Photos](https://theyseeyourphotos.com/)
+* [2026-04-13, 12:29:39](https://news.ycombinator.com/item?id=47751032) - [AI could be the end of the digital wave, not the next big thing](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
+* [2026-04-13, 12:29:35](https://news.ycombinator.com/item?id=47751029) - [I went to America's worst national parks so you don't have to](https://substack.com/home/post/p-193626949)
+* [2026-04-13, 12:19:49](https://news.ycombinator.com/item?id=47750939) - [The hottest college major [Computer Science] hit a wall. What happened?](https://www.washingtonpost.com/technology/2026/04/13/computer-science-major-ai/)
+* [2026-04-13, 12:12:22](https://news.ycombinator.com/item?id=47750872) - [Servo is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/)
 * [2026-04-13, 12:05:35](https://news.ycombinator.com/item?id=47750821) - [Michigan 'digital age' bills pulled after privacy concerns raised](https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html)
 * [2026-04-13, 11:48:15](https://news.ycombinator.com/item?id=47750669) - [Android now stops you sharing your location in photos](https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/)
 * [2026-04-13, 11:27:12](https://news.ycombinator.com/item?id=47750519) - [Galactic Algorithm](https://en.wikipedia.org/wiki/Galactic_algorithm)
+* [2026-04-13, 10:55:10](https://news.ycombinator.com/item?id=47750259) - [Point Cloud Allemansrätten](https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/)
 * [2026-04-13, 09:26:56](https://news.ycombinator.com/item?id=47749674) - [Show HN: I built a social media management tool in 3 weeks with Claude and Codex](https://github.com/brightbeanxyz/brightbean-studio)
 * [2026-04-13, 08:13:40](https://news.ycombinator.com/item?id=47749222) - [Caffeine, cocaine, and painkillers detected in sharks from The Bahamas](https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880)
 * [2026-04-13, 05:56:49](https://news.ycombinator.com/item?id=47748123) - [The AI Layoff Trap](https://arxiv.org/abs/2603.20617)
