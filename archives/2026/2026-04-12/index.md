@@ -9,6 +9,7 @@
 * [2026-04-12, 22:13:22](https://news.ycombinator.com/item?id=47745120) - [Tech valuations are back to pre-AI boom levels](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels)
 * [2026-04-12, 21:16:45](https://news.ycombinator.com/item?id=47744598) - [Inventors Who Didn't Invent What They Are Famous for Inventing](https://www.wsj.com/tech/us-famous-inventions-inventors-wrong-3d5b0a0f)
 * [2026-04-12, 21:11:24](https://news.ycombinator.com/item?id=47744540) - [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/)
+* [2026-04-12, 20:43:08](https://news.ycombinator.com/item?id=47744255) - [I ran Gemma 4 as a local model in Codex CLI](https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4)
 * [2026-04-12, 20:30:11](https://news.ycombinator.com/item?id=47744132) - [Uncharted island soon to appear on nautical charts](https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html)
 * [2026-04-12, 20:21:58](https://news.ycombinator.com/item?id=47744050) - [Solar panels are creating an unexpected effect by forming rainfall clouds](https://www.ecoportal.net/en/solar-panels-are-creating-rain-clouds/19854/)
 * [2026-04-12, 19:53:08](https://news.ycombinator.com/item?id=47743730) - [Google Removes \"Doki Doki Literature Club\" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
