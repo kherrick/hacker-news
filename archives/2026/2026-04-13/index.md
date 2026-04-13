@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 19:54:41](https://news.ycombinator.com/item?id=47757033) - [Google has the same AI adoption curve as John Deere](https://twitter.com/i/status/2043747998740689171)
+* [2026-04-13, 19:18:34](https://news.ycombinator.com/item?id=47756672) - [The Looming College-Enrollment Death Spiral](https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/)
+* [2026-04-13, 19:10:07](https://news.ycombinator.com/item?id=47756569) - [Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours](https://www.ithihasas.in)
+* [2026-04-13, 18:50:08](https://news.ycombinator.com/item?id=47756321) - [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/)
+* [2026-04-13, 18:26:40](https://news.ycombinator.com/item?id=47756036) - [Visualizing CPU Pipelining (2024)](https://timmastny.com/blog/visualizing-cpu-pipelining/)
 * [2026-04-13, 18:08:14](https://news.ycombinator.com/item?id=47755805) - [Evaluation of Claude Mythos Preview's cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities)
 * [2026-04-13, 17:54:39](https://news.ycombinator.com/item?id=47755629) - [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
+* [2026-04-13, 17:22:31](https://news.ycombinator.com/item?id=47755209) - [B-trees and database indexes (2024)](https://planetscale.com/blog/btrees-and-database-indexes)
 * [2026-04-13, 16:37:10](https://news.ycombinator.com/item?id=47754606) - [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion)
 * [2026-04-13, 16:23:09](https://news.ycombinator.com/item?id=47754379) - [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
 * [2026-04-13, 16:11:07](https://news.ycombinator.com/item?id=47754192) - [Claude Mythos: The System Card](https://thezvi.substack.com/p/claude-mythos-the-system-card)

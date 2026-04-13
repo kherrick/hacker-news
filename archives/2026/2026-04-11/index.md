@@ -30,6 +30,7 @@
 * [2026-04-11, 13:01:36](https://news.ycombinator.com/item?id=47730196) - [How to breathe in fewer microplastics in your home](https://www.bbc.com/future/article/20260410-how-to-breathe-in-fewer-microplastics-in-your-home)
 * [2026-04-11, 13:01:34](https://news.ycombinator.com/item?id=47730194) - [Cirrus Labs to join OpenAI shut down Circus CI on Monday, June 1, 2026](https://cirruslabs.org/)
 * [2026-04-11, 12:28:04](https://news.ycombinator.com/item?id=47729994) - [’Abhorrent’: the inside story of the Polymarket gamblers betting millions on war](https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth)
+* [2026-04-11, 11:35:02](https://news.ycombinator.com/item?id=47729694) - [An Introduction to Obsidian](https://bryanhogan.com/blog/obsidian-introduction)
 * [2026-04-11, 10:58:36](https://news.ycombinator.com/item?id=47729477) - [Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours](https://www.hormuz-havoc.com/)
 * [2026-04-11, 09:37:20](https://news.ycombinator.com/item?id=47729069) - [BlueHammer abuses Windows Defender's update process to gain SYSTEM access](https://hackingpassion.com/bluehammer-windows-defender-zero-day/)
 * [2026-04-11, 09:03:34](https://news.ycombinator.com/item?id=47728879) - [Mark's Magic Multiply](https://wren.wtf/shower-thoughts/marks-magic-multiply/)
