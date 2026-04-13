@@ -1,22 +1,52 @@
 [
   [
     [
+      "2026-04-13, 03:31:02",
+      "https://news.ycombinator.com/item?id=47747248"
+    ],
+    [
+      "Haunt, the 70s text adventure game, is now playable on a website",
+      "https://haunt.madebywindmill.com"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 02:53:10",
+      "https://news.ycombinator.com/item?id=47747017"
+    ],
+    [
+      "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 01:49:32",
+      "https://news.ycombinator.com/item?id=47746610"
+    ],
+    [
+      "All elementary functions from a single binary operator",
+      "https://arxiv.org/abs/2603.21852"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 01:42:37",
+      "https://news.ycombinator.com/item?id=47746577"
+    ],
+    [
+      "State of Homelab 2026",
+      "https://mrlokans.work/posts/state-of-homelab-2026/"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 22:38:45",
       "https://news.ycombinator.com/item?id=47745284"
     ],
     [
       "Taking on CUDA with ROCm: 'One Step After Another'",
       "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 22:13:22",
-      "https://news.ycombinator.com/item?id=47745120"
-    ],
-    [
-      "Tech valuations are back to pre-AI boom levels",
-      "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels"
     ]
   ],
   [
@@ -51,32 +81,12 @@
   ],
   [
     [
-      "2026-04-12, 19:51:06",
-      "https://news.ycombinator.com/item?id=47743700"
-    ],
-    [
-      "European AI. A playbook to own it",
-      "https://europe.mistral.ai/"
-    ]
-  ],
-  [
-    [
       "2026-04-12, 19:44:40",
       "https://news.ycombinator.com/item?id=47743628"
     ],
     [
       "The peril of laziness lost",
       "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 18:30:29",
-      "https://news.ycombinator.com/item?id=47742790"
-    ],
-    [
-      "The Closing of the Frontier",
-      "https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "EasyPost (YC S13) Is Hiring",
       "https://www.easypost.com/careers"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 16:55:20",
-      "https://news.ycombinator.com/item?id=47741889"
-    ],
-    [
-      "Show HN: Claudraband – Claude Code for the Power User",
-      "https://github.com/halfwhey/claudraband"
     ]
   ],
   [
@@ -141,22 +141,22 @@
   ],
   [
     [
-      "2026-04-12, 16:10:51",
-      "https://news.ycombinator.com/item?id=47741393"
-    ],
-    [
-      "Textbooks and Methods of Note-Taking in Early Modern Europe (2008)",
-      "https://dash.harvard.edu/server/api/core/bitstreams/7312037d-e342-6bd4-e053-0100007fdf3b/content"
-    ]
-  ],
-  [
-    [
       "2026-04-12, 13:21:39",
       "https://news.ycombinator.com/item?id=47739313"
     ],
     [
       "Seven countries now generate 100% of their electricity from renewable energy",
       "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 13:15:31",
+      "https://news.ycombinator.com/item?id=47739260"
+    ],
+    [
+      "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+      "https://github.com/anthropics/claude-code/issues/45756"
     ]
   ],
   [
@@ -171,11 +171,21 @@
   ],
   [
     [
+      "2026-04-12, 12:42:25",
+      "https://news.ycombinator.com/item?id=47738978"
+    ],
+    [
+      "We have a 99% email reputation, but Gmail disagrees",
+      "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 12:28:57",
       "https://news.ycombinator.com/item?id=47738883"
     ],
     [
-      "Tell HN: docker pull fails in spain due to football cloudflare block",
+      "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
       "https://news.ycombinator.com/item?id=47738883"
     ]
   ],
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=47738827"
     ],
     [
-      "Bring Back Idiomatic Design",
+      "Bring Back Idiomatic Design (2023)",
       "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design"
     ]
   ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2026-04-12, 10:01:54",
-      "https://news.ycombinator.com/item?id=47737876"
+      "2026-04-12, 09:14:30",
+      "https://news.ycombinator.com/item?id=47737542"
     ],
     [
-      "Doom, Played over Curl",
-      "https://github.com/xsawyerx/curl-doom"
+      "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
+      "https://arxiv.org/abs/2604.07902"
     ]
   ],
   [
@@ -221,12 +231,22 @@
   ],
   [
     [
-      "2026-04-12, 05:45:52",
-      "https://news.ycombinator.com/item?id=47736476"
+      "2026-04-12, 08:25:03",
+      "https://news.ycombinator.com/item?id=47737292"
     ],
     [
-      "Anthropic downgraded cache TTL on March 6th",
-      "https://github.com/anthropics/claude-code/issues/46829"
+      "Is Math Big or Small?",
+      "https://chessapig.github.io/talks/Big-Small"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 01:55:48",
+      "https://news.ycombinator.com/item?id=47735535"
+    ],
+    [
+      "The End of Eleventy",
+      "https://brennan.day/the-end-of-eleventy/"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2026-04-11, 09:03:34",
-      "https://news.ycombinator.com/item?id=47728879"
-    ],
-    [
-      "Mark's Magic Multiply",
-      "https://wren.wtf/shower-thoughts/marks-magic-multiply/"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 15:21:07",
       "https://news.ycombinator.com/item?id=47719490"
     ],
     [
       "I gave every train in New York an instrument",
       "https://www.trainjazz.com/"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 13:16:12",
-      "https://news.ycombinator.com/item?id=47717690"
-    ],
-    [
-      "Cooperative Vectors Introduction",
-      "https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction"
     ]
   ],
   [
