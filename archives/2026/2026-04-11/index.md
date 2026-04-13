@@ -36,6 +36,7 @@
 * [2026-04-11, 08:35:23](https://news.ycombinator.com/item?id=47728721) - [Artemis II is competency porn](https://lizplank.substack.com/p/artemis-ii-is-competency-porn-and)
 * [2026-04-11, 08:25:14](https://news.ycombinator.com/item?id=47728653) - [France's government is ditching Windows for Linux, says US tech a strategic risk](https://www.xda-developers.com/frances-government-ditching-windows-for-linux/)
 * [2026-04-11, 07:23:14](https://news.ycombinator.com/item?id=47728323) - [Relics of the Heroic Age of Manned Space Flight](http://heroicrelics.org/index.html)
+* [2026-04-11, 06:58:59](https://news.ycombinator.com/item?id=47728192) - [Your Startup Is Probably Dead on Arrival](https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/)
 * [2026-04-11, 06:50:17](https://news.ycombinator.com/item?id=47728134) - [Moooooonitoring the Cow.txt Herd](https://moooo.farm/)
 * [2026-04-11, 06:22:01](https://news.ycombinator.com/item?id=47727974) - [Tesla's supervised self-driving software gets Dutch okay, first in Europe](https://www.reuters.com/business/teslas-self-driving-software-gets-dutch-go-ahead-boost-eu-ambitions-2026-04-10/)
 * [2026-04-11, 06:19:25](https://news.ycombinator.com/item?id=47727960) - [Show HN: Pardonned.com – A searchable database of US Pardons](https://news.ycombinator.com/item?id=47727960)

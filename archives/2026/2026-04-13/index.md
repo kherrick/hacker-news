@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 18:08:14](https://news.ycombinator.com/item?id=47755805) - [Evaluation of Claude Mythos Preview's cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities)
+* [2026-04-13, 17:54:39](https://news.ycombinator.com/item?id=47755629) - [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
 * [2026-04-13, 16:37:10](https://news.ycombinator.com/item?id=47754606) - [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion)
 * [2026-04-13, 16:23:09](https://news.ycombinator.com/item?id=47754379) - [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
 * [2026-04-13, 16:11:07](https://news.ycombinator.com/item?id=47754192) - [Claude Mythos: The System Card](https://thezvi.substack.com/p/claude-mythos-the-system-card)
+* [2026-04-13, 16:05:19](https://news.ycombinator.com/item?id=47754100) - [Who's Been Impersonating This ProPublica Reporter?](https://www.propublica.org/article/impersonating-propublica-reporter)
 * [2026-04-13, 15:59:54](https://news.ycombinator.com/item?id=47754002) - [Missouri town fires half its city council over data center deal](https://www.politico.com/news/2026/04/13/missouri-city-council-data-center-00867259)
 * [2026-04-13, 15:44:02](https://news.ycombinator.com/item?id=47753689) - [Building a CLI for All of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/)
 * [2026-04-13, 15:41:08](https://news.ycombinator.com/item?id=47753643) - [Claude.ai down](https://status.claude.com/incidents/6jd2m42f8mld)
