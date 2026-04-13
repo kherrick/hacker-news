@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 15:41:08](https://news.ycombinator.com/item?id=47753643) - [Claude.ai down](https://status.claude.com/incidents/6jd2m42f8mld)
+* [2026-04-13, 15:29:35](https://news.ycombinator.com/item?id=47753446) - [Alpine Divorce: A Hike That Ends a Relationship](https://www.nytimes.com/2026/04/12/style/alpine-divorce-relationships-hike.html)
+* [2026-04-13, 14:53:05](https://news.ycombinator.com/item?id=47752884) - [We May Be Living Through the Most Consequential Hundred Days in Cyber History](https://ringmast4r.substack.com/p/we-may-be-living-through-the-most)
+* [2026-04-13, 14:48:55](https://news.ycombinator.com/item?id=47752819) - [Make Tmux Pretty and Usable](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
+* [2026-04-13, 13:48:24](https://news.ycombinator.com/item?id=47751936) - [Microsoft isn't removing Copilot from Windows 11, it's just renaming it](https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/)
 * [2026-04-13, 13:37:33](https://news.ycombinator.com/item?id=47751781) - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/)
 * [2026-04-13, 13:27:51](https://news.ycombinator.com/item?id=47751669) - [They See Your Photos](https://theyseeyourphotos.com/)
+* [2026-04-13, 13:23:50](https://news.ycombinator.com/item?id=47751621) - [Initial mainline video capture and camera support for Rockchip RK3588](https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html)
 * [2026-04-13, 12:29:39](https://news.ycombinator.com/item?id=47751032) - [AI could be the end of the digital wave, not the next big thing](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
 * [2026-04-13, 12:29:35](https://news.ycombinator.com/item?id=47751029) - [I went to America's worst national parks so you don't have to](https://substack.com/home/post/p-193626949)
 * [2026-04-13, 12:19:49](https://news.ycombinator.com/item?id=47750939) - [The hottest college major [Computer Science] hit a wall. What happened?](https://www.washingtonpost.com/technology/2026/04/13/computer-science-major-ai/)
@@ -16,6 +22,7 @@
 * [2026-04-13, 10:55:10](https://news.ycombinator.com/item?id=47750259) - [Point Cloud Allemansrätten](https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/)
 * [2026-04-13, 09:26:56](https://news.ycombinator.com/item?id=47749674) - [Show HN: I built a social media management tool in 3 weeks with Claude and Codex](https://github.com/brightbeanxyz/brightbean-studio)
 * [2026-04-13, 08:13:40](https://news.ycombinator.com/item?id=47749222) - [Caffeine, cocaine, and painkillers detected in sharks from The Bahamas](https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880)
+* [2026-04-13, 06:24:39](https://news.ycombinator.com/item?id=47748314) - [Programming Used to Be Free](https://purplesyringa.moe/blog/programming-used-to-be-free/)
 * [2026-04-13, 05:56:49](https://news.ycombinator.com/item?id=47748123) - [The AI Layoff Trap](https://arxiv.org/abs/2603.20617)
 * [2026-04-13, 05:45:32](https://news.ycombinator.com/item?id=47748064) - [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)
 * [2026-04-13, 05:39:24](https://news.ycombinator.com/item?id=47748036) - [X Randomly Banning Users for \"Inauthentic Behavior\"](https://old.reddit.com/r/LinusTechTips/comments/1rsdk7i/anybody_here_talking_about_the_massive/)
