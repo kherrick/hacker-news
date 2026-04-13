@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-04-13, 19:54:41",
-      "https://news.ycombinator.com/item?id=47757033"
+      "2026-04-13, 20:36:49",
+      "https://news.ycombinator.com/item?id=47757495"
     ],
     [
-      "Google has the same AI adoption curve as John Deere",
-      "https://twitter.com/i/status/2043747998740689171"
+      "GitHub Stacked PRs",
+      "https://github.github.com/gh-stack/"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 19:37:54",
+      "https://news.ycombinator.com/item?id=47756876"
+    ],
+    [
+      "Just Enough Chimera Linux",
+      "https://www.dwarmstrong.org/chimera-install-zfs/"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 19:28:41",
+      "https://news.ycombinator.com/item?id=47756772"
+    ],
+    [
+      "(AMD) Build AI Agents That Run Locally",
+      "https://amd-gaia.ai/docs"
     ]
   ],
   [
@@ -51,12 +71,12 @@
   ],
   [
     [
-      "2026-04-13, 18:08:14",
-      "https://news.ycombinator.com/item?id=47755805"
+      "2026-04-13, 18:02:36",
+      "https://news.ycombinator.com/item?id=47755734"
     ],
     [
-      "Evaluation of Claude Mythos Preview's cyber capabilities",
-      "https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities"
+      "In Denmark, the spread of solar panels has become a divisive issue",
+      "https://www.theguardian.com/world/2026/mar/20/solar-power-renewable-energy-denmark-backlash-national-elections"
     ]
   ],
   [
@@ -67,6 +87,26 @@
     [
       "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
       "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 17:52:39",
+      "https://news.ycombinator.com/item?id=47755604"
+    ],
+    [
+      "Tax Wrapped 2025",
+      "https://taxwrapped.com"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 17:50:56",
+      "https://news.ycombinator.com/item?id=47755573"
+    ],
+    [
+      "New Orleans's Car-Crash Conspiracy",
+      "https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy"
     ]
   ],
   [
@@ -125,7 +165,7 @@
       "https://news.ycombinator.com/item?id=47752884"
     ],
     [
-      "We May Be Living Through the Most Consequential Hundred Days in Cyber History",
+      "This year’s insane timeline of hacks",
       "https://ringmast4r.substack.com/p/we-may-be-living-through-the-most"
     ]
   ],
@@ -135,7 +175,7 @@
       "https://news.ycombinator.com/item?id=47752819"
     ],
     [
-      "Make Tmux Pretty and Usable (2024)",
+      "Make tmux pretty and usable (2024)",
       "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/"
     ]
   ],
@@ -201,32 +241,12 @@
   ],
   [
     [
-      "2026-04-13, 05:45:32",
-      "https://news.ycombinator.com/item?id=47748064"
-    ],
-    [
-      "The economics of software teams: Why most engineering orgs are flying blind",
-      "https://www.viktorcessan.com/the-economics-of-software-teams/"
-    ]
-  ],
-  [
-    [
       "2026-04-13, 01:49:32",
       "https://news.ycombinator.com/item?id=47746610"
     ],
     [
       "All elementary functions from a single binary operator",
       "https://arxiv.org/abs/2603.21852"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 22:38:45",
-      "https://news.ycombinator.com/item?id=47745284"
-    ],
-    [
-      "Taking on CUDA with ROCm: 'One Step After Another'",
-      "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2026-04-12, 17:25:44",
-      "https://news.ycombinator.com/item?id=47742200"
-    ],
-    [
-      "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-      "https://boringbar.app/"
-    ]
-  ],
-  [
-    [
       "2026-04-12, 16:38:43",
       "https://news.ycombinator.com/item?id=47741701"
     ],
     [
       "DIY Soft Drinks",
       "https://blinry.org/diy-soft-drinks/"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 12:21:26",
-      "https://news.ycombinator.com/item?id=47738827"
-    ],
-    [
-      "Bring Back Idiomatic Design (2023)",
-      "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-04-11, 06:58:59",
-      "https://news.ycombinator.com/item?id=47728192"
+      "2026-04-11, 10:36:15",
+      "https://news.ycombinator.com/item?id=47729350"
     ],
     [
-      "Your Startup Is Probably Dead on Arrival",
-      "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/"
+      "I Just Want Simple S3",
+      "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/"
     ]
   ],
   [
     [
-      "2026-04-09, 12:35:20",
-      "https://news.ycombinator.com/item?id=47702887"
+      "2026-04-11, 06:58:59",
+      "https://news.ycombinator.com/item?id=47728192"
     ],
     [
-      "Most people can't juggle one ball",
-      "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball"
+      "If you started a company two years ago, many assumptions are no longer true",
+      "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/"
     ]
   ]
 ]
