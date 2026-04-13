@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 09:26:56](https://news.ycombinator.com/item?id=47749674) - [Show HN: I built a social media management tool in 3 weeks with Claude and Codex](https://github.com/brightbeanxyz/brightbean-studio)
 * [2026-04-13, 08:13:40](https://news.ycombinator.com/item?id=47749222) - [Caffeine, cocaine, and painkillers detected in sharks from The Bahamas](https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880)
 * [2026-04-13, 05:56:49](https://news.ycombinator.com/item?id=47748123) - [The AI Layoff Trap](https://arxiv.org/abs/2603.20617)
 * [2026-04-13, 05:45:32](https://news.ycombinator.com/item?id=47748064) - [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-13, 09:26:56](https://news.ycombinator.com/item?id=47749674) - [Show HN: I built a social media management tool in 3 weeks with Claude and Codex](https://github.com/brightbeanxyz/brightbean-studio)
 * [2026-04-13, 08:13:40](https://news.ycombinator.com/item?id=47749222) - [Caffeine, cocaine, and painkillers detected in sharks from The Bahamas](https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880)
 * [2026-04-13, 05:45:32](https://news.ycombinator.com/item?id=47748064) - [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)
 * [2026-04-13, 04:26:15](https://news.ycombinator.com/item?id=47747595) - [A Canonical Generalization of OBDD](https://arxiv.org/abs/2604.05537)
@@ -11,7 +12,6 @@
 * [2026-04-12, 20:43:08](https://news.ycombinator.com/item?id=47744255) - [I ran Gemma 4 as a local model in Codex CLI](https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4)
 * [2026-04-12, 19:53:08](https://news.ycombinator.com/item?id=47743730) - [Google removes \"Doki Doki Literature Club\" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
 * [2026-04-12, 19:44:40](https://news.ycombinator.com/item?id=47743628) - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
-* [2026-04-12, 18:55:06](https://news.ycombinator.com/item?id=47743096) - [Zed, A sans for the needs of 21st century (2024)](https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century)
 * [2026-04-12, 17:25:44](https://news.ycombinator.com/item?id=47742200) - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
 * [2026-04-12, 16:38:43](https://news.ycombinator.com/item?id=47741701) - [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/)
 * [2026-04-12, 16:24:43](https://news.ycombinator.com/item?id=47741527) - [Ask HN: What Are You Working On? (April 2026)](https://news.ycombinator.com/item?id=47741527)
