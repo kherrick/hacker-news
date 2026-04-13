@@ -13,6 +13,7 @@
 * [2026-04-12, 20:30:11](https://news.ycombinator.com/item?id=47744132) - [Uncharted island soon to appear on nautical charts](https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html)
 * [2026-04-12, 20:21:58](https://news.ycombinator.com/item?id=47744050) - [Solar panels are creating an unexpected effect by forming rainfall clouds](https://www.ecoportal.net/en/solar-panels-are-creating-rain-clouds/19854/)
 * [2026-04-12, 19:53:08](https://news.ycombinator.com/item?id=47743730) - [Google Removes \"Doki Doki Literature Club\" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
+* [2026-04-12, 19:52:58](https://news.ycombinator.com/item?id=47743728) - [Tracking down a 25% Regression on LLVM RISC-V](https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/)
 * [2026-04-12, 19:51:06](https://news.ycombinator.com/item?id=47743700) - [European AI. A playbook to own it](https://europe.mistral.ai/)
 * [2026-04-12, 19:44:40](https://news.ycombinator.com/item?id=47743628) - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
 * [2026-04-12, 19:37:15](https://news.ycombinator.com/item?id=47743553) - [Viktor Orbán concedes defeat after 'painful' election result](https://apnews.com/article/hungary-election-orban-magyar-trump-1a4eb0ba6b94e0c80c3cd18bd36254ab)

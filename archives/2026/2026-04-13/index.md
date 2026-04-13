@@ -4,10 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 16:37:10](https://news.ycombinator.com/item?id=47754606) - [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion)
+* [2026-04-13, 16:23:09](https://news.ycombinator.com/item?id=47754379) - [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
+* [2026-04-13, 16:11:07](https://news.ycombinator.com/item?id=47754192) - [Claude Mythos: The System Card](https://thezvi.substack.com/p/claude-mythos-the-system-card)
+* [2026-04-13, 15:59:54](https://news.ycombinator.com/item?id=47754002) - [Missouri town fires half its city council over data center deal](https://www.politico.com/news/2026/04/13/missouri-city-council-data-center-00867259)
+* [2026-04-13, 15:44:02](https://news.ycombinator.com/item?id=47753689) - [Building a CLI for All of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/)
 * [2026-04-13, 15:41:08](https://news.ycombinator.com/item?id=47753643) - [Claude.ai down](https://status.claude.com/incidents/6jd2m42f8mld)
+* [2026-04-13, 15:31:06](https://news.ycombinator.com/item?id=47753472) - [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens)
 * [2026-04-13, 15:29:35](https://news.ycombinator.com/item?id=47753446) - [Alpine Divorce: A Hike That Ends a Relationship](https://www.nytimes.com/2026/04/12/style/alpine-divorce-relationships-hike.html)
 * [2026-04-13, 14:53:05](https://news.ycombinator.com/item?id=47752884) - [We May Be Living Through the Most Consequential Hundred Days in Cyber History](https://ringmast4r.substack.com/p/we-may-be-living-through-the-most)
 * [2026-04-13, 14:48:55](https://news.ycombinator.com/item?id=47752819) - [Make Tmux Pretty and Usable](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
+* [2026-04-13, 14:26:02](https://news.ycombinator.com/item?id=47752466) - [MEMS Array Chip Can Project Video the Size of a Grain of Sand](https://spectrum.ieee.org/mems-photonics)
 * [2026-04-13, 13:48:24](https://news.ycombinator.com/item?id=47751936) - [Microsoft isn't removing Copilot from Windows 11, it's just renaming it](https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/)
 * [2026-04-13, 13:37:33](https://news.ycombinator.com/item?id=47751781) - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/)
 * [2026-04-13, 13:27:51](https://news.ycombinator.com/item?id=47751669) - [They See Your Photos](https://theyseeyourphotos.com/)
