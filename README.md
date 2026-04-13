@@ -2,12 +2,11 @@
 
 * [2026-04-13, 16:37:10](https://news.ycombinator.com/item?id=47754606) - [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion)
 * [2026-04-13, 16:23:09](https://news.ycombinator.com/item?id=47754379) - [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
-* [2026-04-13, 16:11:07](https://news.ycombinator.com/item?id=47754192) - [Claude Mythos: The System Card](https://thezvi.substack.com/p/claude-mythos-the-system-card)
 * [2026-04-13, 15:59:54](https://news.ycombinator.com/item?id=47754002) - [Missouri town fires half its city council over data center deal](https://www.politico.com/news/2026/04/13/missouri-city-council-data-center-00867259)
 * [2026-04-13, 15:44:02](https://news.ycombinator.com/item?id=47753689) - [Building a CLI for All of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/)
 * [2026-04-13, 15:31:06](https://news.ycombinator.com/item?id=47753472) - [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens)
 * [2026-04-13, 14:53:05](https://news.ycombinator.com/item?id=47752884) - [We May Be Living Through the Most Consequential Hundred Days in Cyber History](https://ringmast4r.substack.com/p/we-may-be-living-through-the-most)
-* [2026-04-13, 14:48:55](https://news.ycombinator.com/item?id=47752819) - [Make Tmux Pretty and Usable](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
+* [2026-04-13, 14:48:55](https://news.ycombinator.com/item?id=47752819) - [Make Tmux Pretty and Usable (2024)](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
 * [2026-04-13, 14:26:02](https://news.ycombinator.com/item?id=47752466) - [MEMS Array Chip Can Project Video the Size of a Grain of Sand](https://spectrum.ieee.org/mems-photonics)
 * [2026-04-13, 13:48:24](https://news.ycombinator.com/item?id=47751936) - [Microsoft isn't removing Copilot from Windows 11, it's just renaming it](https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/)
 * [2026-04-13, 13:37:33](https://news.ycombinator.com/item?id=47751781) - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/)
@@ -28,6 +27,7 @@
 * [2026-04-12, 12:42:25](https://news.ycombinator.com/item?id=47738978) - [We have a 99% email reputation, but Gmail disagrees](https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/)
 * [2026-04-12, 12:28:57](https://news.ycombinator.com/item?id=47738883) - [Tell HN: Docker pull fails in Spain due to football Cloudflare block](https://news.ycombinator.com/item?id=47738883)
 * [2026-04-12, 12:21:26](https://news.ycombinator.com/item?id=47738827) - [Bring Back Idiomatic Design (2023)](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
+* [2026-04-11, 19:15:56](https://news.ycombinator.com/item?id=47733217) - [Exploiting the most prominent AI agent benchmarks](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 * [2026-04-10, 15:21:07](https://news.ycombinator.com/item?id=47719490) - [I gave every train in New York an instrument](https://www.trainjazz.com/)
 * [2026-04-09, 12:35:20](https://news.ycombinator.com/item?id=47702887) - [Most people can't juggle one ball](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball)
 
