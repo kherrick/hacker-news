@@ -15,6 +15,7 @@
 * [2026-04-12, 19:51:06](https://news.ycombinator.com/item?id=47743700) - [European AI. A playbook to own it](https://europe.mistral.ai/)
 * [2026-04-12, 19:44:40](https://news.ycombinator.com/item?id=47743628) - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
 * [2026-04-12, 19:37:15](https://news.ycombinator.com/item?id=47743553) - [Viktor Orbán concedes defeat after 'painful' election result](https://apnews.com/article/hungary-election-orban-magyar-trump-1a4eb0ba6b94e0c80c3cd18bd36254ab)
+* [2026-04-12, 18:55:06](https://news.ycombinator.com/item?id=47743096) - [Zed, A sans for the needs of 21st century (2024)](https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century)
 * [2026-04-12, 18:30:29](https://news.ycombinator.com/item?id=47742790) - [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
 * [2026-04-12, 18:19:02](https://news.ycombinator.com/item?id=47742680) - [Apple has removed most of the towns and villages in Lebanon from Apple maps?](https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193)
 * [2026-04-12, 17:25:44](https://news.ycombinator.com/item?id=47742200) - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
