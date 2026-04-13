@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 21:25:38](https://news.ycombinator.com/item?id=47758028) - [Stanford report highlights growing disconnect between AI insiders and everyone](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
+* [2026-04-13, 20:42:19](https://news.ycombinator.com/item?id=47757552) - [Show HN: Continual Learning with .md](https://github.com/SunAndClouds/ReadMe)
 * [2026-04-13, 20:36:49](https://news.ycombinator.com/item?id=47757495) - [GitHub Stacked PRs](https://github.github.com/gh-stack/)
 * [2026-04-13, 19:54:41](https://news.ycombinator.com/item?id=47757033) - [Google has the same AI adoption curve as John Deere](https://twitter.com/i/status/2043747998740689171)
 * [2026-04-13, 19:37:54](https://news.ycombinator.com/item?id=47756876) - [Just Enough Chimera Linux](https://www.dwarmstrong.org/chimera-install-zfs/)
