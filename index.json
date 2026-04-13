@@ -1,22 +1,62 @@
 [
   [
     [
-      "2026-04-13, 15:41:08",
-      "https://news.ycombinator.com/item?id=47753643"
+      "2026-04-13, 16:37:10",
+      "https://news.ycombinator.com/item?id=47754606"
     ],
     [
-      "Claude.ai down",
-      "https://status.claude.com/incidents/6jd2m42f8mld"
+      "The Rational Conclusion of Doomerism Is Violence",
+      "https://www.campbellramble.ai/p/the-rational-conclusion"
     ]
   ],
   [
     [
-      "2026-04-13, 15:29:35",
-      "https://news.ycombinator.com/item?id=47753446"
+      "2026-04-13, 16:23:09",
+      "https://news.ycombinator.com/item?id=47754379"
     ],
     [
-      "Alpine Divorce: A Hike That Ends a Relationship",
-      "https://www.nytimes.com/2026/04/12/style/alpine-divorce-relationships-hike.html"
+      "The Future of Everything Is Lies, I Guess: Safety",
+      "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 16:11:07",
+      "https://news.ycombinator.com/item?id=47754192"
+    ],
+    [
+      "Claude Mythos: The System Card",
+      "https://thezvi.substack.com/p/claude-mythos-the-system-card"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 15:59:54",
+      "https://news.ycombinator.com/item?id=47754002"
+    ],
+    [
+      "Missouri town fires half its city council over data center deal",
+      "https://www.politico.com/news/2026/04/13/missouri-city-council-data-center-00867259"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 15:44:02",
+      "https://news.ycombinator.com/item?id=47753689"
+    ],
+    [
+      "Building a CLI for All of Cloudflare",
+      "https://blog.cloudflare.com/cf-cli-local-explorer/"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 15:31:06",
+      "https://news.ycombinator.com/item?id=47753472"
+    ],
+    [
+      "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "https://github.com/sterlingcrispin/nothing-ever-happens"
     ]
   ],
   [
@@ -37,6 +77,16 @@
     [
       "Make Tmux Pretty and Usable",
       "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 14:26:02",
+      "https://news.ycombinator.com/item?id=47752466"
+    ],
+    [
+      "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+      "https://spectrum.ieee.org/mems-photonics"
     ]
   ],
   [
@@ -101,16 +151,6 @@
   ],
   [
     [
-      "2026-04-13, 10:55:10",
-      "https://news.ycombinator.com/item?id=47750259"
-    ],
-    [
-      "Point Cloud Allemansrätten",
-      "https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/"
-    ]
-  ],
-  [
-    [
       "2026-04-13, 09:26:56",
       "https://news.ycombinator.com/item?id=47749674"
     ],
@@ -121,32 +161,12 @@
   ],
   [
     [
-      "2026-04-13, 06:24:39",
-      "https://news.ycombinator.com/item?id=47748314"
-    ],
-    [
-      "Programming Used to Be Free",
-      "https://purplesyringa.moe/blog/programming-used-to-be-free/"
-    ]
-  ],
-  [
-    [
       "2026-04-13, 05:45:32",
       "https://news.ycombinator.com/item?id=47748064"
     ],
     [
       "The economics of software teams: Why most engineering orgs are flying blind",
       "https://www.viktorcessan.com/the-economics-of-software-teams/"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 02:53:10",
-      "https://news.ycombinator.com/item?id=47747017"
-    ],
-    [
-      "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
     ]
   ],
   [
@@ -191,6 +211,16 @@
   ],
   [
     [
+      "2026-04-12, 19:52:58",
+      "https://news.ycombinator.com/item?id=47743728"
+    ],
+    [
+      "Tracking down a 25% Regression on LLVM RISC-V",
+      "https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 17:25:44",
       "https://news.ycombinator.com/item?id=47742200"
     ],
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2026-04-12, 13:06:44",
-      "https://news.ycombinator.com/item?id=47739174"
-    ],
-    [
-      "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
-      "https://github.com/rochus-keller/OberonSystem3Native/releases"
-    ]
-  ],
-  [
-    [
       "2026-04-12, 12:42:25",
       "https://news.ycombinator.com/item?id=47738978"
     ],
@@ -257,26 +277,6 @@
     [
       "Bring Back Idiomatic Design (2023)",
       "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 08:25:03",
-      "https://news.ycombinator.com/item?id=47737292"
-    ],
-    [
-      "Is math big or small?",
-      "https://chessapig.github.io/talks/Big-Small"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 19:15:56",
-      "https://news.ycombinator.com/item?id=47733217"
-    ],
-    [
-      "Exploiting the most prominent AI agent benchmarks",
-      "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"
     ]
   ],
   [
