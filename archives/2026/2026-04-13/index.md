@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 12:05:35](https://news.ycombinator.com/item?id=47750821) - [Michigan 'digital age' bills pulled after privacy concerns raised](https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html)
+* [2026-04-13, 11:48:15](https://news.ycombinator.com/item?id=47750669) - [Android now stops you sharing your location in photos](https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/)
+* [2026-04-13, 11:27:12](https://news.ycombinator.com/item?id=47750519) - [Galactic Algorithm](https://en.wikipedia.org/wiki/Galactic_algorithm)
 * [2026-04-13, 09:26:56](https://news.ycombinator.com/item?id=47749674) - [Show HN: I built a social media management tool in 3 weeks with Claude and Codex](https://github.com/brightbeanxyz/brightbean-studio)
 * [2026-04-13, 08:13:40](https://news.ycombinator.com/item?id=47749222) - [Caffeine, cocaine, and painkillers detected in sharks from The Bahamas](https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880)
 * [2026-04-13, 05:56:49](https://news.ycombinator.com/item?id=47748123) - [The AI Layoff Trap](https://arxiv.org/abs/2603.20617)
