@@ -40,6 +40,7 @@
 * [2026-04-11, 09:03:34](https://news.ycombinator.com/item?id=47728879) - [Mark's Magic Multiply](https://wren.wtf/shower-thoughts/marks-magic-multiply/)
 * [2026-04-11, 08:53:16](https://news.ycombinator.com/item?id=47728823) - [What We Learned Building a Rust Runtime for TypeScript](https://encore.dev/blog/rust-runtime)
 * [2026-04-11, 08:35:23](https://news.ycombinator.com/item?id=47728721) - [Artemis II is competency porn](https://lizplank.substack.com/p/artemis-ii-is-competency-porn-and)
+* [2026-04-11, 08:27:06](https://news.ycombinator.com/item?id=47728662) - [Picasso's Guernica (Gigapixel)](https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59)
 * [2026-04-11, 08:25:14](https://news.ycombinator.com/item?id=47728653) - [France's government is ditching Windows for Linux, says US tech a strategic risk](https://www.xda-developers.com/frances-government-ditching-windows-for-linux/)
 * [2026-04-11, 07:23:14](https://news.ycombinator.com/item?id=47728323) - [Relics of the Heroic Age of Manned Space Flight](http://heroicrelics.org/index.html)
 * [2026-04-11, 06:58:59](https://news.ycombinator.com/item?id=47728192) - [Your Startup Is Probably Dead on Arrival](https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/)
