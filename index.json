@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-14, 08:52:12",
+      "https://news.ycombinator.com/item?id=47762994"
+    ],
+    [
+      "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
+      "https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 08:35:45",
       "https://news.ycombinator.com/item?id=47762901"
     ],
@@ -47,16 +57,6 @@
     [
       "Distributed DuckDB Instance",
       "https://github.com/citguru/openduck"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 06:04:31",
-      "https://news.ycombinator.com/item?id=47761825"
-    ],
-    [
-      "Roblox devs now need a subscription to share their games freely",
-      "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-04-10, 19:33:08",
+      "https://news.ycombinator.com/item?id=47722629"
+    ],
+    [
+      "Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict",
+      "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 13:59:26",
       "https://news.ycombinator.com/item?id=47718284"
     ],
@@ -257,16 +267,6 @@
     [
       "Anastasia (1997) live action reference material",
       "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 09:45:51",
-      "https://news.ycombinator.com/item?id=47715681"
-    ],
-    [
-      "Repository Pattern with Hygienic Macros in Scheme – Lisp",
-      "https://jointhefreeworld.org/blog/articles/lisps/functional-repository-pattern-in-scheme-with-macros/index.html"
     ]
   ],
   [
