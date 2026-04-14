@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 22:33:41](https://news.ycombinator.com/item?id=47711148) - [A soft robot has no problem moving with no motor and no gears](https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears)
 * [2026-04-09, 22:10:53](https://news.ycombinator.com/item?id=47710919) - [How the Trivy supply chain attack harvested credentials from secrets managers](https://vaultproof.dev/blog/trivy-supply-chain-attack)
 * [2026-04-09, 22:10:10](https://news.ycombinator.com/item?id=47710907) - [Funerals Keep Africa Poor](https://davidoks.blog/p/how-funerals-keep-africa-poor)
 * [2026-04-09, 22:04:09](https://news.ycombinator.com/item?id=47710845) - [BunnyCDN has been silently losing our production files for 15 months](https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/)

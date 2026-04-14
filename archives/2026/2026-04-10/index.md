@@ -57,6 +57,7 @@
 * [2026-04-10, 11:47:08](https://news.ycombinator.com/item?id=47716663) - [White House staff told not to place bets on prediction markets](https://www.bbc.co.uk/news/articles/cgld65x396go)
 * [2026-04-10, 11:29:04](https://news.ycombinator.com/item?id=47716490) - [FBI used iPhone notification data to retrieve deleted Signal messages](https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/)
 * [2026-04-10, 11:20:51](https://news.ycombinator.com/item?id=47716412) - [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
+* [2026-04-10, 11:20:38](https://news.ycombinator.com/item?id=47716409) - [A name is succession, legacy and celebration in Japan's Kabuki theater](https://apnews.com/article/kabuki-name-succession-japan-tradition-theater-d1e9621bc91385498314f36e1481b6fd)
 * [2026-04-10, 11:00:50](https://news.ycombinator.com/item?id=47716219) - [Python Is Dead](https://calebfenton.substack.com/p/python-is-dead)
 * [2026-04-10, 10:37:33](https://news.ycombinator.com/item?id=47716043) - [France Launches Government Linux Desktop Plan as Windows Exit Begins](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/)
 * [2026-04-10, 09:01:05](https://news.ycombinator.com/item?id=47715389) - [I shipped a transaction bug, so I built a linter](https://leonh.fr/posts/go-transaction-linter/)

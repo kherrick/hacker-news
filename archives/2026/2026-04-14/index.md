@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 06:41:01](https://news.ycombinator.com/item?id=47762060) - [The Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
+* [2026-04-14, 06:32:45](https://news.ycombinator.com/item?id=47762006) - [Can Claude Fly a Plane?](https://so.long.thanks.fish/can-claude-fly-a-plane/)
+* [2026-04-14, 06:31:44](https://news.ycombinator.com/item?id=47761997) - [Distributed DuckDB Instance](https://github.com/citguru/openduck)
+* [2026-04-14, 06:04:31](https://news.ycombinator.com/item?id=47761825) - [Roblox devs now need a subscription to share their games freely](https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166)
+* [2026-04-14, 05:32:48](https://news.ycombinator.com/item?id=47761625) - [Multi-Agentic Software Development Is a Distributed Systems Problem](https://kirancodes.me/posts/log-distributed-llms.html)
 * [2026-04-14, 05:29:30](https://news.ycombinator.com/item?id=47761613) - [UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism](https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf)
 * [2026-04-14, 05:28:51](https://news.ycombinator.com/item?id=47761609) - [TanStack Start Now Support React Server Components](https://tanstack.com/blog/react-server-components)
 * [2026-04-14, 04:39:11](https://news.ycombinator.com/item?id=47761310) - [Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan (2024)](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
