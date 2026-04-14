@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 23:44:10](https://news.ycombinator.com/item?id=47759416) - [Why it's impossible to measure England's coastline](https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline)
+* [2026-04-13, 23:33:18](https://news.ycombinator.com/item?id=47759341) - [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)
 * [2026-04-13, 21:54:03](https://news.ycombinator.com/item?id=47758347) - [N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?](https://ndaybench.winfunc.com)
+* [2026-04-13, 21:48:00](https://news.ycombinator.com/item?id=47758263) - [Tokens – The New Dopamine Economy](https://www.enfuse.io/blog/vibe-coding-trap)
 * [2026-04-13, 21:25:38](https://news.ycombinator.com/item?id=47758028) - [Stanford report highlights growing disconnect between AI insiders and everyone](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
 * [2026-04-13, 21:02:21](https://news.ycombinator.com/item?id=47757775) - [The tech jobs bust is real. Don't blame AI (yet)](https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)
 * [2026-04-13, 20:45:39](https://news.ycombinator.com/item?id=47757595) - [Mathematical Minimalism](https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/)

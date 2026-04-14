@@ -35,6 +35,7 @@
 * [2026-04-11, 10:36:15](https://news.ycombinator.com/item?id=47729350) - [I Just Want Simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
 * [2026-04-11, 09:37:20](https://news.ycombinator.com/item?id=47729069) - [BlueHammer abuses Windows Defender's update process to gain SYSTEM access](https://hackingpassion.com/bluehammer-windows-defender-zero-day/)
 * [2026-04-11, 09:32:17](https://news.ycombinator.com/item?id=47729046) - [Air Powered Segment Display? [video]](https://www.youtube.com/watch?v=E1BLGpE5zH0)
+* [2026-04-11, 09:20:45](https://news.ycombinator.com/item?id=47728970) - [Write less code, be more responsible](https://blog.orhun.dev/code-responsibly/)
 * [2026-04-11, 09:03:34](https://news.ycombinator.com/item?id=47728879) - [Mark's Magic Multiply](https://wren.wtf/shower-thoughts/marks-magic-multiply/)
 * [2026-04-11, 08:53:16](https://news.ycombinator.com/item?id=47728823) - [What We Learned Building a Rust Runtime for TypeScript](https://encore.dev/blog/rust-runtime)
 * [2026-04-11, 08:35:23](https://news.ycombinator.com/item?id=47728721) - [Artemis II is competency porn](https://lizplank.substack.com/p/artemis-ii-is-competency-porn-and)
