@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 13:46:31](https://news.ycombinator.com/item?id=47765604) - [Rare concert records going on Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
+* [2026-04-14, 13:34:24](https://news.ycombinator.com/item?id=47765458) - [Two Months After I Gave an AI $100 and No Instructions](https://www.sebastian-jais.de/blog/two-months-alma-experiment)
+* [2026-04-14, 11:37:56](https://news.ycombinator.com/item?id=47764265) - [The exponential curve behind open source backlogs](https://armanckeser.com/writing/jellyfin-flow)
 * [2026-04-14, 11:31:19](https://news.ycombinator.com/item?id=47764215) - [Ask HN: I quit my job over weaponized robots to start my own venture](https://news.ycombinator.com/item?id=47764215)
+* [2026-04-14, 11:26:25](https://news.ycombinator.com/item?id=47764164) - [The Case Against Gameplay Loops](https://blog.joeyschutz.com/the-case-against-gameplay-loops/)
 * [2026-04-14, 11:19:10](https://news.ycombinator.com/item?id=47764098) - [NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html)
 * [2026-04-14, 10:33:39](https://news.ycombinator.com/item?id=47763759) - [What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html)
 * [2026-04-14, 08:52:12](https://news.ycombinator.com/item?id=47762994) - [Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It](https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025)
