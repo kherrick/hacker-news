@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-04-14, 15:30:48",
-      "https://news.ycombinator.com/item?id=47766960"
+      "2026-04-14, 16:22:49",
+      "https://news.ycombinator.com/item?id=47767676"
     ],
     [
-      "AI Will Never Be Ethical or Safe",
-      "https://meiert.com/blog/ai-ethics-and-safety/"
+      "5NF and Database Design",
+      "https://kb.databasedesignbook.com/posts/5nf/"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 15:44:15",
+      "https://news.ycombinator.com/item?id=47767160"
+    ],
+    [
+      "For the first time in the U.S., renewables generate more power than natural gas",
+      "https://e360.yale.edu/digest/us-renewables-natural-gas-coal"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 15:42:48",
+      "https://news.ycombinator.com/item?id=47767143"
+    ],
+    [
+      "The Fediverse deserves a dumb graphical client",
+      "https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md"
     ]
   ],
   [
@@ -15,8 +35,18 @@
       "https://news.ycombinator.com/item?id=47766550"
     ],
     [
-      "The Future of Everything Is Lies, I Guess: Work",
+      "The future of everything is lies, I guess: Work",
       "https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 14:48:46",
+      "https://news.ycombinator.com/item?id=47766370"
+    ],
+    [
+      "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
+      "https://github.com/ginlix-ai/langalpha"
     ]
   ],
   [
@@ -71,21 +101,11 @@
   ],
   [
     [
-      "2026-04-14, 08:52:12",
-      "https://news.ycombinator.com/item?id=47762994"
-    ],
-    [
-      "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
-      "https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025"
-    ]
-  ],
-  [
-    [
       "2026-04-14, 08:30:27",
       "https://news.ycombinator.com/item?id=47762864"
     ],
     [
-      "Backblaze has stopped backing up your data",
+      "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
       "https://rareese.com/posts/backblaze/"
     ]
   ],
@@ -107,16 +127,6 @@
     [
       "Distributed DuckDB Instance",
       "https://github.com/citguru/openduck"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 05:46:49",
-      "https://news.ycombinator.com/item?id=47761723"
-    ],
-    [
-      "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
-      "https://github.com/lasect/pg_6502"
     ]
   ],
   [
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2026-04-13, 22:41:19",
+      "https://news.ycombinator.com/item?id=47758870"
+    ],
+    [
+      "Let's Talk Space Toilets",
+      "https://mceglowski.substack.com/p/lets-talk-space-toilets"
+    ]
+  ],
+  [
+    [
       "2026-04-13, 20:36:49",
       "https://news.ycombinator.com/item?id=47757495"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-04-13, 14:48:55",
-      "https://news.ycombinator.com/item?id=47752819"
-    ],
-    [
-      "Make tmux pretty and usable (2024)",
-      "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/"
-    ]
-  ],
-  [
-    [
       "2026-04-11, 09:20:45",
       "https://news.ycombinator.com/item?id=47728970"
     ],
@@ -211,32 +221,22 @@
   ],
   [
     [
-      "2026-04-10, 22:23:03",
-      "https://news.ycombinator.com/item?id=47724408"
-    ],
-    [
-      "The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain",
-      "https://publicdomainreview.org/essay/the-great-majority/"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 19:33:08",
       "https://news.ycombinator.com/item?id=47722629"
     ],
     [
-      "Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict",
+      "Franklin's bad ads for Apple II clones and the beloved impersonator they depict",
       "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/"
     ]
   ],
   [
     [
-      "2026-04-10, 13:59:26",
-      "https://news.ycombinator.com/item?id=47718284"
+      "2026-04-10, 18:43:00",
+      "https://news.ycombinator.com/item?id=47722031"
     ],
     [
-      "Design and implementation of DuckDB internals",
-      "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/"
+      "Carol's Causal Conundrum: a zine intro to causally ordered message delivery",
+      "https://decomposition.al/zines/"
     ]
   ],
   [
