@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 23:44:24](https://news.ycombinator.com/item?id=47759420) - [The Dangers of California's Legislation to Censor 3D Printing](https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing)
 * [2026-04-13, 23:44:10](https://news.ycombinator.com/item?id=47759416) - [Why it's impossible to measure England's coastline](https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline)
 * [2026-04-13, 23:33:18](https://news.ycombinator.com/item?id=47759341) - [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)
 * [2026-04-13, 23:26:04](https://news.ycombinator.com/item?id=47759292) - [The AI revolution in math has arrived](https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/)
