@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-04-14, 19:12:09",
-      "https://news.ycombinator.com/item?id=47770020"
-    ],
-    [
-      "ClawRun – Deploy and manage AI agents in seconds",
-      "https://github.com/clawrun-sh/clawrun"
-    ]
-  ],
-  [
-    [
       "2026-04-14, 18:56:40",
       "https://news.ycombinator.com/item?id=47769796"
     ],
@@ -77,16 +67,6 @@
     [
       "Turn your best AI prompts into one-click tools in Chrome",
       "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 16:59:09",
-      "https://news.ycombinator.com/item?id=47768195"
-    ],
-    [
-      "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
-      "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731"
     ]
   ],
   [
@@ -141,6 +121,16 @@
   ],
   [
     [
+      "2026-04-14, 13:26:53",
+      "https://news.ycombinator.com/item?id=47765374"
+    ],
+    [
+      "Show HN: Kontext CLI – Credential broker for AI coding agents in Go",
+      "https://github.com/kontext-dev/kontext-cli"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 10:33:39",
       "https://news.ycombinator.com/item?id=47763759"
     ],
@@ -167,6 +157,16 @@
     [
       "Introspective Diffusion Language Models",
       "https://introspective-diffusion.github.io/"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 06:31:44",
+      "https://news.ycombinator.com/item?id=47761997"
+    ],
+    [
+      "Distributed DuckDB Instance",
+      "https://github.com/citguru/openduck"
     ]
   ],
   [
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=47759420"
     ],
     [
-      "The Dangers of California's Legislation to Censor 3D Printing",
+      "The dangers of California's legislation to censor 3D printing",
       "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing"
     ]
   ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=47758870"
     ],
     [
-      "Let's Talk Space Toilets",
+      "Let's talk space toilets",
       "https://mceglowski.substack.com/p/lets-talk-space-toilets"
     ]
   ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=47725052"
     ],
     [
-      "The Mouse Programming Language on CP/M",
+      "The Mouse Programming Language on CP/M (2020)",
       "https://techtinkering.com/articles/the-mouse-programming-language-on-cpm/"
     ]
   ],
