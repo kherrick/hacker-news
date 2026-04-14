@@ -20,6 +20,7 @@
 * [2026-04-09, 19:48:25](https://news.ycombinator.com/item?id=47708817) - [Maine Is About to Become the First State to Ban Major New Data Centers](https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers)
 * [2026-04-09, 19:38:08](https://news.ycombinator.com/item?id=47708697) - [Show HN: QVAC SDK, a universal JavaScript SDK for building local AI applications](https://news.ycombinator.com/item?id=47708697)
 * [2026-04-09, 19:29:59](https://news.ycombinator.com/item?id=47708593) - [OpenAI puts Stargate UK on ice, blames energy costs and red tape](https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/)
+* [2026-04-09, 19:20:10](https://news.ycombinator.com/item?id=47708457) - [Rust Threads on the GPU](https://www.vectorware.com/blog/threads-on-gpu/)
 * [2026-04-09, 19:17:05](https://news.ycombinator.com/item?id=47708411) - [Bitmap fonts make computers feel like computers again](https://korigamik.dev/blog/bitmap_fonts/)
 * [2026-04-09, 18:53:20](https://news.ycombinator.com/item?id=47708041) - [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/)
 * [2026-04-09, 18:37:45](https://news.ycombinator.com/item?id=47707762) - [Hegel, a universal property-based testing protocol and family of PBT libraries](https://hegel.dev)
