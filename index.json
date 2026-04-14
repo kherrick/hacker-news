@@ -1,12 +1,72 @@
 [
   [
     [
+      "2026-04-14, 17:47:00",
+      "https://news.ycombinator.com/item?id=47768813"
+    ],
+    [
+      "I wrote to Flock's privacy contact to opt out of their domestic spying program",
+      "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 17:06:49",
+      "https://news.ycombinator.com/item?id=47768306"
+    ],
+    [
+      "Modifying FileZilla to Workaround Bambu 3D Printer's FTP Issue",
+      "https://lantian.pub/en/article/modify-computer/modify-filezilla-workaround-bambu-3d-printer-ftp-issue.lantian/"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 16:59:09",
+      "https://news.ycombinator.com/item?id=47768195"
+    ],
+    [
+      "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
+      "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 16:54:33",
+      "https://news.ycombinator.com/item?id=47768133"
+    ],
+    [
+      "Claude Code Routines",
+      "https://code.claude.com/docs/en/routines"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 16:53:16",
+      "https://news.ycombinator.com/item?id=47768111"
+    ],
+    [
+      "An Oligarchy of Old People",
+      "https://www.theatlantic.com/magazine/2026/05/gerontocracy-wealth-power/686585/"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 16:22:49",
       "https://news.ycombinator.com/item?id=47767676"
     ],
     [
       "5NF and Database Design",
       "https://kb.databasedesignbook.com/posts/5nf/"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 16:16:51",
+      "https://news.ycombinator.com/item?id=47767606"
+    ],
+    [
+      "Show HN: Kelet – Root Cause Analysis agent for your LLM apps",
+      "https://kelet.ai/"
     ]
   ],
   [
@@ -77,16 +137,6 @@
     [
       "The exponential curve behind open source backlogs",
       "https://armanckeser.com/writing/jellyfin-flow"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 11:19:10",
-      "https://news.ycombinator.com/item?id=47764098"
-    ],
-    [
-      "NimConf 2026: Dates Announced, Registrations Open",
-      "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html"
     ]
   ],
   [
@@ -171,32 +221,12 @@
   ],
   [
     [
-      "2026-04-13, 23:33:18",
-      "https://news.ycombinator.com/item?id=47759341"
-    ],
-    [
-      "WiiFin – Jellyfin Client for Nintendo Wii",
-      "https://github.com/fabienmillet/WiiFin"
-    ]
-  ],
-  [
-    [
       "2026-04-13, 22:41:19",
       "https://news.ycombinator.com/item?id=47758870"
     ],
     [
       "Let's Talk Space Toilets",
       "https://mceglowski.substack.com/p/lets-talk-space-toilets"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 20:36:49",
-      "https://news.ycombinator.com/item?id=47757495"
-    ],
-    [
-      "GitHub Stacked PRs",
-      "https://github.github.com/gh-stack/"
     ]
   ],
   [
@@ -211,12 +241,12 @@
   ],
   [
     [
-      "2026-04-11, 09:20:45",
-      "https://news.ycombinator.com/item?id=47728970"
+      "2026-04-10, 23:18:37",
+      "https://news.ycombinator.com/item?id=47725052"
     ],
     [
-      "Write less code, be more responsible",
-      "https://blog.orhun.dev/code-responsibly/"
+      "The Mouse Programming Language on CP/M",
+      "https://techtinkering.com/articles/the-mouse-programming-language-on-cpm/"
     ]
   ],
   [
@@ -257,36 +287,6 @@
     [
       "Nucleus Nouns",
       "https://ben-mini.com/2026/nucleus-nouns"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 07:28:29",
-      "https://news.ycombinator.com/item?id=47714770"
-    ],
-    [
-      "Show HN: Run GUIs as Scripts",
-      "https://github.com/skinnyjames/hokusai-pocket"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 22:33:41",
-      "https://news.ycombinator.com/item?id=47711148"
-    ],
-    [
-      "A soft robot has no problem moving with no motor and no gears",
-      "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 16:02:11",
-      "https://news.ycombinator.com/item?id=47705390"
-    ],
-    [
-      "Lumina – a statically typed web-native language for JavaScript and WASM",
-      "https://github.com/nyigoro/lumina-lang"
     ]
   ],
   [
