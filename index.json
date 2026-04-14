@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-14, 03:32:16",
+      "https://news.ycombinator.com/item?id=47760925"
+    ],
+    [
+      "Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",
+      "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 03:06:27",
+      "https://news.ycombinator.com/item?id=47760764"
+    ],
+    [
+      "A new spam policy for \"back button hijacking\"",
+      "https://developers.google.com/search/blog/2026/04/back-button-hijacking"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 02:25:15",
+      "https://news.ycombinator.com/item?id=47760529"
+    ],
+    [
+      "DaVinci Resolve releases Photo Editor",
+      "https://www.blackmagicdesign.com/products/davinciresolve/photo"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 00:25:08",
       "https://news.ycombinator.com/item?id=47759709"
     ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=47759416"
     ],
     [
-      "Why it's impossible to measure England's coastline",
+      "Why it’s impossible to measure England’s coastline",
       "https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline"
     ]
   ],
@@ -31,52 +61,22 @@
   ],
   [
     [
+      "2026-04-13, 23:26:04",
+      "https://news.ycombinator.com/item?id=47759292"
+    ],
+    [
+      "The AI revolution in math has arrived",
+      "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/"
+    ]
+  ],
+  [
+    [
       "2026-04-13, 21:54:03",
       "https://news.ycombinator.com/item?id=47758347"
     ],
     [
       "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
       "https://ndaybench.winfunc.com"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 21:48:00",
-      "https://news.ycombinator.com/item?id=47758263"
-    ],
-    [
-      "Tokens – The New Dopamine Economy",
-      "https://www.enfuse.io/blog/vibe-coding-trap"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 21:25:38",
-      "https://news.ycombinator.com/item?id=47758028"
-    ],
-    [
-      "Stanford report highlights growing disconnect between AI insiders and everyone",
-      "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 20:45:39",
-      "https://news.ycombinator.com/item?id=47757595"
-    ],
-    [
-      "Mathematical Minimalism",
-      "https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 20:42:19",
-      "https://news.ycombinator.com/item?id=47757552"
-    ],
-    [
-      "Show HN: Continual Learning with .md",
-      "https://github.com/SunAndClouds/ReadMe"
     ]
   ],
   [
@@ -91,31 +91,11 @@
   ],
   [
     [
-      "2026-04-13, 20:29:55",
-      "https://news.ycombinator.com/item?id=47757426"
-    ],
-    [
-      "Ascending into the Realm of Japanese Charts",
-      "https://www.chartography.net/p/ascending-into-the-realm-of-japanese"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 19:37:54",
-      "https://news.ycombinator.com/item?id=47756876"
-    ],
-    [
-      "Just Enough Chimera Linux",
-      "https://www.dwarmstrong.org/chimera-install-zfs/"
-    ]
-  ],
-  [
-    [
       "2026-04-13, 19:28:41",
       "https://news.ycombinator.com/item?id=47756772"
     ],
     [
-      "(AMD) Build AI Agents That Run Locally",
+      "GAIA – Open-source framework for building AI agents that run on local hardware",
       "https://amd-gaia.ai/docs"
     ]
   ],
@@ -171,21 +151,11 @@
   ],
   [
     [
-      "2026-04-13, 17:22:31",
-      "https://news.ycombinator.com/item?id=47755209"
-    ],
-    [
-      "B-trees and database indexes (2024)",
-      "https://planetscale.com/blog/btrees-and-database-indexes"
-    ]
-  ],
-  [
-    [
       "2026-04-13, 15:44:02",
       "https://news.ycombinator.com/item?id=47753689"
     ],
     [
-      "Building a CLI for All of Cloudflare",
+      "Building a CLI for all of Cloudflare",
       "https://blog.cloudflare.com/cf-cli-local-explorer/"
     ]
   ],
@@ -201,12 +171,22 @@
   ],
   [
     [
-      "2026-04-13, 14:26:02",
-      "https://news.ycombinator.com/item?id=47752466"
+      "2026-04-13, 14:48:55",
+      "https://news.ycombinator.com/item?id=47752819"
     ],
     [
-      "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
-      "https://spectrum.ieee.org/mems-photonics"
+      "Make tmux pretty and usable (2024)",
+      "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 13:37:33",
+      "https://news.ycombinator.com/item?id=47751781"
+    ],
+    [
+      "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2026-04-13, 11:48:15",
+      "https://news.ycombinator.com/item?id=47750669"
+    ],
+    [
+      "Android now stops you sharing your location in photos",
+      "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 19:52:58",
       "https://news.ycombinator.com/item?id=47743728"
     ],
@@ -231,21 +221,11 @@
   ],
   [
     [
-      "2026-04-11, 11:35:02",
-      "https://news.ycombinator.com/item?id=47729694"
-    ],
-    [
-      "An Introduction to Obsidian",
-      "https://bryanhogan.com/blog/obsidian-introduction"
-    ]
-  ],
-  [
-    [
       "2026-04-11, 10:36:15",
       "https://news.ycombinator.com/item?id=47729350"
     ],
     [
-      "I Just Want Simple S3",
+      "I just want simple S3",
       "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/"
     ]
   ],
@@ -275,18 +255,8 @@
       "https://news.ycombinator.com/item?id=47728823"
     ],
     [
-      "What We Learned Building a Rust Runtime for TypeScript",
+      "What we learned building a Rust runtime for TypeScript",
       "https://encore.dev/blog/rust-runtime"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 06:58:59",
-      "https://news.ycombinator.com/item?id=47728192"
-    ],
-    [
-      "If you started a company two years ago, many assumptions are no longer true",
-      "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/"
     ]
   ],
   [
@@ -295,8 +265,38 @@
       "https://news.ycombinator.com/item?id=47718284"
     ],
     [
-      "Design and Implementation of DuckDB Internals",
+      "Design and implementation of DuckDB internals",
       "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 09:01:05",
+      "https://news.ycombinator.com/item?id=47715389"
+    ],
+    [
+      "I shipped a transaction bug, so I built a linter",
+      "https://leonh.fr/posts/go-transaction-linter/"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 08:39:51",
+      "https://news.ycombinator.com/item?id=47715256"
+    ],
+    [
+      "Tool to explore regularly sampled time series",
+      "https://github.com/rajivsam/tseda"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 19:20:10",
+      "https://news.ycombinator.com/item?id=47708457"
+    ],
+    [
+      "Rust Threads on the GPU",
+      "https://www.vectorware.com/blog/threads-on-gpu/"
     ]
   ]
 ]
