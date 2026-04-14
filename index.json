@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-04-14, 06:41:01",
+      "https://news.ycombinator.com/item?id=47762060"
+    ],
+    [
+      "The Shinkansen",
+      "https://www.worksinprogress.news/p/the-secret-behind-japans-railways"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 06:32:45",
+      "https://news.ycombinator.com/item?id=47762006"
+    ],
+    [
+      "Can Claude Fly a Plane?",
+      "https://so.long.thanks.fish/can-claude-fly-a-plane/"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 06:31:44",
+      "https://news.ycombinator.com/item?id=47761997"
+    ],
+    [
+      "Distributed DuckDB Instance",
+      "https://github.com/citguru/openduck"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 06:04:31",
+      "https://news.ycombinator.com/item?id=47761825"
+    ],
+    [
+      "Roblox devs now need a subscription to share their games freely",
+      "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 05:32:48",
+      "https://news.ycombinator.com/item?id=47761625"
+    ],
+    [
+      "Multi-Agentic Software Development Is a Distributed Systems Problem",
+      "https://kirancodes.me/posts/log-distributed-llms.html"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 05:29:30",
       "https://news.ycombinator.com/item?id=47761613"
     ],
@@ -31,32 +81,12 @@
   ],
   [
     [
-      "2026-04-14, 03:32:16",
-      "https://news.ycombinator.com/item?id=47760925"
-    ],
-    [
-      "Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",
-      "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/"
-    ]
-  ],
-  [
-    [
       "2026-04-14, 03:06:27",
       "https://news.ycombinator.com/item?id=47760764"
     ],
     [
       "A new spam policy for \"back button hijacking\"",
       "https://developers.google.com/search/blog/2026/04/back-button-hijacking"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 03:04:20",
-      "https://news.ycombinator.com/item?id=47760750"
-    ],
-    [
-      "Sometimes powerful people just do dumb shit",
-      "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/"
     ]
   ],
   [
@@ -91,12 +121,12 @@
   ],
   [
     [
-      "2026-04-13, 23:26:04",
-      "https://news.ycombinator.com/item?id=47759292"
+      "2026-04-13, 21:54:03",
+      "https://news.ycombinator.com/item?id=47758347"
     ],
     [
-      "The AI revolution in math has arrived",
-      "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/"
+      "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
+      "https://ndaybench.winfunc.com"
     ]
   ],
   [
@@ -107,26 +137,6 @@
     [
       "GitHub Stacked PRs",
       "https://github.github.com/gh-stack/"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 19:28:41",
-      "https://news.ycombinator.com/item?id=47756772"
-    ],
-    [
-      "GAIA – Open-source framework for building AI agents that run on local hardware",
-      "https://amd-gaia.ai/docs"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 19:10:07",
-      "https://news.ycombinator.com/item?id=47756569"
-    ],
-    [
-      "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
-      "https://www.ithihasas.in"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-04-12, 19:52:58",
-      "https://news.ycombinator.com/item?id=47743728"
-    ],
-    [
-      "Tracking down a 25% Regression on LLVM RISC-V",
-      "https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/"
-    ]
-  ],
-  [
-    [
       "2026-04-11, 10:36:15",
       "https://news.ycombinator.com/item?id=47729350"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2026-04-11, 08:53:16",
-      "https://news.ycombinator.com/item?id=47728823"
-    ],
-    [
-      "What we learned building a Rust runtime for TypeScript",
-      "https://encore.dev/blog/rust-runtime"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 13:59:26",
       "https://news.ycombinator.com/item?id=47718284"
     ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2026-04-10, 11:20:38",
+      "https://news.ycombinator.com/item?id=47716409"
+    ],
+    [
+      "A name is succession, legacy and celebration in Japan's Kabuki theater",
+      "https://apnews.com/article/kabuki-name-succession-japan-tradition-theater-d1e9621bc91385498314f36e1481b6fd"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 09:01:05",
       "https://news.ycombinator.com/item?id=47715389"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-04-10, 08:39:51",
-      "https://news.ycombinator.com/item?id=47715256"
+      "2026-04-09, 22:33:41",
+      "https://news.ycombinator.com/item?id=47711148"
     ],
     [
-      "Tool to explore regularly sampled time series",
-      "https://github.com/rajivsam/tseda"
+      "A soft robot has no problem moving with no motor and no gears",
+      "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears"
     ]
   ],
   [
