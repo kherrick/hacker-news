@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-04-14, 15:30:48",
+      "https://news.ycombinator.com/item?id=47766960"
+    ],
+    [
+      "AI Will Never Be Ethical or Safe",
+      "https://meiert.com/blog/ai-ethics-and-safety/"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 15:00:45",
+      "https://news.ycombinator.com/item?id=47766550"
+    ],
+    [
+      "The Future of Everything Is Lies, I Guess: Work",
+      "https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 13:46:31",
       "https://news.ycombinator.com/item?id=47765604"
     ],
     [
-      "Rare concert records going on Internet Archive",
+      "Rare concert recordings are landing on the Internet Archive",
       "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/"
     ]
   ],
   [
     [
-      "2026-04-14, 13:34:24",
-      "https://news.ycombinator.com/item?id=47765458"
+      "2026-04-14, 13:26:53",
+      "https://news.ycombinator.com/item?id=47765374"
     ],
     [
-      "Two Months After I Gave an AI $100 and No Instructions",
-      "https://www.sebastian-jais.de/blog/two-months-alma-experiment"
+      "Show HN: Kontext CLI – Credential broker for AI coding agents in Go",
+      "https://github.com/kontext-dev/kontext-cli"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "The exponential curve behind open source backlogs",
       "https://armanckeser.com/writing/jellyfin-flow"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 11:26:25",
-      "https://news.ycombinator.com/item?id=47764164"
-    ],
-    [
-      "The Case Against Gameplay Loops",
-      "https://blog.joeyschutz.com/the-case-against-gameplay-loops/"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47763759"
     ],
     [
-      "What is jj and why should I care?",
+      "jj – the CLI for Jujutsu",
       "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html"
     ]
   ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2026-04-13, 15:31:06",
-      "https://news.ycombinator.com/item?id=47753472"
-    ],
-    [
-      "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "https://github.com/sterlingcrispin/nothing-ever-happens"
-    ]
-  ],
-  [
-    [
       "2026-04-13, 14:48:55",
       "https://news.ycombinator.com/item?id=47752819"
     ],
     [
       "Make tmux pretty and usable (2024)",
       "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 13:37:33",
-      "https://news.ycombinator.com/item?id=47751781"
-    ],
-    [
-      "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "The acyclic e-graph: Cranelift's mid-end optimizer",
       "https://cfallin.org/blog/2026/04/09/aegraph/"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 12:06:43",
+      "https://news.ycombinator.com/item?id=47716840"
+    ],
+    [
+      "Nucleus Nouns",
+      "https://ben-mini.com/2026/nucleus-nouns"
     ]
   ],
   [
