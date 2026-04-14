@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 15:30:48](https://news.ycombinator.com/item?id=47766960) - [AI Will Never Be Ethical or Safe](https://meiert.com/blog/ai-ethics-and-safety/)
+* [2026-04-14, 15:00:45](https://news.ycombinator.com/item?id=47766550) - [The Future of Everything Is Lies, I Guess: Work](https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work)
 * [2026-04-14, 13:46:31](https://news.ycombinator.com/item?id=47765604) - [Rare concert records going on Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
 * [2026-04-14, 13:34:24](https://news.ycombinator.com/item?id=47765458) - [Two Months After I Gave an AI $100 and No Instructions](https://www.sebastian-jais.de/blog/two-months-alma-experiment)
+* [2026-04-14, 13:26:53](https://news.ycombinator.com/item?id=47765374) - [Show HN: Kontext CLI – Credential broker for AI coding agents in Go](https://github.com/kontext-dev/kontext-cli)
 * [2026-04-14, 11:37:56](https://news.ycombinator.com/item?id=47764265) - [The exponential curve behind open source backlogs](https://armanckeser.com/writing/jellyfin-flow)
 * [2026-04-14, 11:31:19](https://news.ycombinator.com/item?id=47764215) - [Ask HN: I quit my job over weaponized robots to start my own venture](https://news.ycombinator.com/item?id=47764215)
 * [2026-04-14, 11:26:25](https://news.ycombinator.com/item?id=47764164) - [The Case Against Gameplay Loops](https://blog.joeyschutz.com/the-case-against-gameplay-loops/)
