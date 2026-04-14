@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 08:35:45](https://news.ycombinator.com/item?id=47762901) - [An AI Vibe Coding Horror Story](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+* [2026-04-14, 08:30:27](https://news.ycombinator.com/item?id=47762864) - [Backblaze has stopped backing up your data](https://rareese.com/posts/backblaze/)
+* [2026-04-14, 07:57:33](https://news.ycombinator.com/item?id=47762641) - [Introspective Diffusion Language Models](https://introspective-diffusion.github.io/)
 * [2026-04-14, 06:41:01](https://news.ycombinator.com/item?id=47762060) - [The Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
 * [2026-04-14, 06:32:45](https://news.ycombinator.com/item?id=47762006) - [Can Claude Fly a Plane?](https://so.long.thanks.fish/can-claude-fly-a-plane/)
 * [2026-04-14, 06:31:44](https://news.ycombinator.com/item?id=47761997) - [Distributed DuckDB Instance](https://github.com/citguru/openduck)
 * [2026-04-14, 06:04:31](https://news.ycombinator.com/item?id=47761825) - [Roblox devs now need a subscription to share their games freely](https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166)
+* [2026-04-14, 05:46:49](https://news.ycombinator.com/item?id=47761723) - [MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres](https://github.com/lasect/pg_6502)
 * [2026-04-14, 05:32:48](https://news.ycombinator.com/item?id=47761625) - [Multi-Agentic Software Development Is a Distributed Systems Problem](https://kirancodes.me/posts/log-distributed-llms.html)
 * [2026-04-14, 05:29:30](https://news.ycombinator.com/item?id=47761613) - [UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism](https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf)
 * [2026-04-14, 05:28:51](https://news.ycombinator.com/item?id=47761609) - [TanStack Start Now Support React Server Components](https://tanstack.com/blog/react-server-components)

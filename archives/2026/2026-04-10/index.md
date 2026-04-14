@@ -60,6 +60,7 @@
 * [2026-04-10, 11:20:38](https://news.ycombinator.com/item?id=47716409) - [A name is succession, legacy and celebration in Japan's Kabuki theater](https://apnews.com/article/kabuki-name-succession-japan-tradition-theater-d1e9621bc91385498314f36e1481b6fd)
 * [2026-04-10, 11:00:50](https://news.ycombinator.com/item?id=47716219) - [Python Is Dead](https://calebfenton.substack.com/p/python-is-dead)
 * [2026-04-10, 10:37:33](https://news.ycombinator.com/item?id=47716043) - [France Launches Government Linux Desktop Plan as Windows Exit Begins](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/)
+* [2026-04-10, 09:45:51](https://news.ycombinator.com/item?id=47715681) - [Repository Pattern with Hygienic Macros in Scheme – Lisp](https://jointhefreeworld.org/blog/articles/lisps/functional-repository-pattern-in-scheme-with-macros/index.html)
 * [2026-04-10, 09:01:05](https://news.ycombinator.com/item?id=47715389) - [I shipped a transaction bug, so I built a linter](https://leonh.fr/posts/go-transaction-linter/)
 * [2026-04-10, 08:53:33](https://news.ycombinator.com/item?id=47715339) - [Show HN: Keeper – embedded secret store for Go (help me break it)](https://github.com/agberohq/keeper)
 * [2026-04-10, 08:44:37](https://news.ycombinator.com/item?id=47715291) - [Scientists invented a fake disease. AI told people it was real](https://www.nature.com/articles/d41586-026-01100-y)
