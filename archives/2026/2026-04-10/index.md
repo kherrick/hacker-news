@@ -18,6 +18,7 @@
 * [2026-04-10, 19:10:22](https://news.ycombinator.com/item?id=47722333) - [Chimpanzees in Uganda locked in vicious 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
 * [2026-04-10, 19:03:39](https://news.ycombinator.com/item?id=47722262) - [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
 * [2026-04-10, 18:48:24](https://news.ycombinator.com/item?id=47722096) - [Molotov cocktail is hurled at home of Sam Altman](https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html)
+* [2026-04-10, 18:43:00](https://news.ycombinator.com/item?id=47722031) - [Carol's Causal Conundrum: a zine intro to causally ordered message delivery](https://decomposition.al/zines/)
 * [2026-04-10, 18:40:34](https://news.ycombinator.com/item?id=47722011) - [Show HN: A WYSIWYG word processor in Python](https://codeberg.org/chrisecker/miniword)
 * [2026-04-10, 18:39:19](https://news.ycombinator.com/item?id=47721997) - [Show HN: FluidCAD – Parametric CAD with JavaScript](https://fluidcad.io/)
 * [2026-04-10, 18:35:29](https://news.ycombinator.com/item?id=47721955) - [I've Seen a Thousand OpenClaw Deploys. Here's the Truth](https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys)

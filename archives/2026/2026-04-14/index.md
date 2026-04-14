@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 16:22:49](https://news.ycombinator.com/item?id=47767676) - [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/)
+* [2026-04-14, 15:44:15](https://news.ycombinator.com/item?id=47767160) - [For the first time in the U.S., renewables generate more power than natural gas](https://e360.yale.edu/digest/us-renewables-natural-gas-coal)
+* [2026-04-14, 15:42:48](https://news.ycombinator.com/item?id=47767143) - [The Fediverse deserves a dumb graphical client](https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md)
 * [2026-04-14, 15:30:48](https://news.ycombinator.com/item?id=47766960) - [AI Will Never Be Ethical or Safe](https://meiert.com/blog/ai-ethics-and-safety/)
 * [2026-04-14, 15:00:45](https://news.ycombinator.com/item?id=47766550) - [The Future of Everything Is Lies, I Guess: Work](https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work)
+* [2026-04-14, 14:48:46](https://news.ycombinator.com/item?id=47766370) - [Show HN: LangAlpha – what if Claude Code was built for Wall Street?](https://github.com/ginlix-ai/langalpha)
 * [2026-04-14, 13:46:31](https://news.ycombinator.com/item?id=47765604) - [Rare concert records going on Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
 * [2026-04-14, 13:34:24](https://news.ycombinator.com/item?id=47765458) - [Two Months After I Gave an AI $100 and No Instructions](https://www.sebastian-jais.de/blog/two-months-alma-experiment)
 * [2026-04-14, 13:26:53](https://news.ycombinator.com/item?id=47765374) - [Show HN: Kontext CLI – Credential broker for AI coding agents in Go](https://github.com/kontext-dev/kontext-cli)
