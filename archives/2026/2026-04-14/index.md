@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 18:14:29](https://news.ycombinator.com/item?id=47769183) - [40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal](https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b)
 * [2026-04-14, 17:47:00](https://news.ycombinator.com/item?id=47768813) - [I wrote to Flock's privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html)
+* [2026-04-14, 17:45:34](https://news.ycombinator.com/item?id=47768788) - [OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)
+* [2026-04-14, 17:43:17](https://news.ycombinator.com/item?id=47768750) - [Show HN: Plain – The full-stack Python framework designed for humans and agents](https://github.com/dropseed/plain)
+* [2026-04-14, 17:09:43](https://news.ycombinator.com/item?id=47768339) - [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
 * [2026-04-14, 17:06:49](https://news.ycombinator.com/item?id=47768306) - [Modifying FileZilla to Workaround Bambu 3D Printer's FTP Issue](https://lantian.pub/en/article/modify-computer/modify-filezilla-workaround-bambu-3d-printer-ftp-issue.lantian/)
 * [2026-04-14, 16:59:09](https://news.ycombinator.com/item?id=47768195) - [Spain to expand internet blocks to tennis, golf, movies broadcasting times](https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731)
 * [2026-04-14, 16:54:33](https://news.ycombinator.com/item?id=47768133) - [Claude Code Routines](https://code.claude.com/docs/en/routines)
@@ -13,6 +17,7 @@
 * [2026-04-14, 16:16:51](https://news.ycombinator.com/item?id=47767606) - [Show HN: Kelet – Root Cause Analysis agent for your LLM apps](https://kelet.ai/)
 * [2026-04-14, 15:44:15](https://news.ycombinator.com/item?id=47767160) - [For the first time in the U.S., renewables generate more power than natural gas](https://e360.yale.edu/digest/us-renewables-natural-gas-coal)
 * [2026-04-14, 15:42:48](https://news.ycombinator.com/item?id=47767143) - [The Fediverse deserves a dumb graphical client](https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md)
+* [2026-04-14, 15:41:01](https://news.ycombinator.com/item?id=47767119) - [Show HN: A memory database that forgets, consolidates, and detects contradiction](https://github.com/yantrikos/yantrikdb-server)
 * [2026-04-14, 15:30:48](https://news.ycombinator.com/item?id=47766960) - [AI Will Never Be Ethical or Safe](https://meiert.com/blog/ai-ethics-and-safety/)
 * [2026-04-14, 15:00:45](https://news.ycombinator.com/item?id=47766550) - [The Future of Everything Is Lies, I Guess: Work](https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work)
 * [2026-04-14, 14:48:46](https://news.ycombinator.com/item?id=47766370) - [Show HN: LangAlpha – what if Claude Code was built for Wall Street?](https://github.com/ginlix-ai/langalpha)
