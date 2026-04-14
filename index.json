@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-04-14, 11:19:10",
+      "https://news.ycombinator.com/item?id=47764098"
+    ],
+    [
+      "NimConf 2026: Dates Announced, Registrations Open",
+      "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 10:33:39",
+      "https://news.ycombinator.com/item?id=47763759"
+    ],
+    [
+      "What is jj and why should I care?",
+      "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 08:52:12",
       "https://news.ycombinator.com/item?id=47762994"
     ],
     [
       "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
       "https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 08:35:45",
-      "https://news.ycombinator.com/item?id=47762901"
-    ],
-    [
-      "An AI Vibe Coding Horror Story",
-      "https://www.tobru.ch/an-ai-vibe-coding-horror-story/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-04-13, 15:44:02",
-      "https://news.ycombinator.com/item?id=47753689"
-    ],
-    [
-      "Building a CLI for all of Cloudflare",
-      "https://blog.cloudflare.com/cf-cli-local-explorer/"
-    ]
-  ],
-  [
-    [
       "2026-04-13, 15:31:06",
       "https://news.ycombinator.com/item?id=47753472"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-04-10, 12:03:16",
-      "https://news.ycombinator.com/item?id=47716805"
-    ],
-    [
-      "Anastasia (1997) live action reference material",
-      "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)"
-    ]
-  ],
-  [
-    [
       "2026-04-09, 22:33:41",
       "https://news.ycombinator.com/item?id=47711148"
     ],
@@ -297,6 +287,16 @@
     [
       "Lumina – a statically typed web-native language for JavaScript and WASM",
       "https://github.com/nyigoro/lumina-lang"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 15:07:13",
+      "https://news.ycombinator.com/item?id=47704729"
+    ],
+    [
+      "The M×N problem of tool calling and open-source models",
+      "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract"
     ]
   ]
 ]
