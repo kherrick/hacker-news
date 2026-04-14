@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-14, 11:19:10](https://news.ycombinator.com/item?id=47764098) - [NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html)
+* [2026-04-14, 10:33:39](https://news.ycombinator.com/item?id=47763759) - [What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html)
 * [2026-04-14, 08:52:12](https://news.ycombinator.com/item?id=47762994) - [Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It](https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025)
-* [2026-04-14, 08:35:45](https://news.ycombinator.com/item?id=47762901) - [An AI Vibe Coding Horror Story](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
 * [2026-04-14, 08:30:27](https://news.ycombinator.com/item?id=47762864) - [Backblaze has stopped backing up your data](https://rareese.com/posts/backblaze/)
 * [2026-04-14, 07:57:33](https://news.ycombinator.com/item?id=47762641) - [Introspective Diffusion Language Models](https://introspective-diffusion.github.io/)
 * [2026-04-14, 06:41:01](https://news.ycombinator.com/item?id=47762060) - [The secrets of the Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
@@ -17,7 +18,6 @@
 * [2026-04-13, 20:36:49](https://news.ycombinator.com/item?id=47757495) - [GitHub Stacked PRs](https://github.github.com/gh-stack/)
 * [2026-04-13, 18:50:08](https://news.ycombinator.com/item?id=47756321) - [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/)
 * [2026-04-13, 17:54:39](https://news.ycombinator.com/item?id=47755629) - [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
-* [2026-04-13, 15:44:02](https://news.ycombinator.com/item?id=47753689) - [Building a CLI for all of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/)
 * [2026-04-13, 15:31:06](https://news.ycombinator.com/item?id=47753472) - [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens)
 * [2026-04-13, 14:48:55](https://news.ycombinator.com/item?id=47752819) - [Make tmux pretty and usable (2024)](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
 * [2026-04-13, 13:37:33](https://news.ycombinator.com/item?id=47751781) - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/)
@@ -26,10 +26,10 @@
 * [2026-04-11, 09:20:45](https://news.ycombinator.com/item?id=47728970) - [Write less code, be more responsible](https://blog.orhun.dev/code-responsibly/)
 * [2026-04-10, 19:33:08](https://news.ycombinator.com/item?id=47722629) - [Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict](https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/)
 * [2026-04-10, 13:59:26](https://news.ycombinator.com/item?id=47718284) - [Design and implementation of DuckDB internals](https://duckdb.org/library/design-and-implementation-of-duckdb-internals/)
-* [2026-04-10, 12:03:16](https://news.ycombinator.com/item?id=47716805) - [Anastasia (1997) live action reference material](https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997))
 * [2026-04-09, 22:33:41](https://news.ycombinator.com/item?id=47711148) - [A soft robot has no problem moving with no motor and no gears](https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears)
 * [2026-04-09, 19:20:10](https://news.ycombinator.com/item?id=47708457) - [Rust Threads on the GPU](https://www.vectorware.com/blog/threads-on-gpu/)
 * [2026-04-09, 16:02:11](https://news.ycombinator.com/item?id=47705390) - [Lumina – a statically typed web-native language for JavaScript and WASM](https://github.com/nyigoro/lumina-lang)
+* [2026-04-09, 15:07:13](https://news.ycombinator.com/item?id=47704729) - [The M×N problem of tool calling and open-source models](https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract)
 
 ## [Archives](archives/index.md)
 

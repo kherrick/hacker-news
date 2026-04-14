@@ -43,6 +43,7 @@
 * [2026-04-09, 15:43:25](https://news.ycombinator.com/item?id=47705187) - [The best seat in town](https://www.torched.la/the-best-seat-in-town/)
 * [2026-04-09, 15:17:27](https://news.ycombinator.com/item?id=47704881) - [Vercel Claude Code plugin wants to read your prompt](https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry)
 * [2026-04-09, 15:12:40](https://news.ycombinator.com/item?id=47704804) - [How NASA Built Artemis II’s Fault-Tolerant Computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
+* [2026-04-09, 15:07:13](https://news.ycombinator.com/item?id=47704729) - [The M×N problem of tool calling and open-source models](https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract)
 * [2026-04-09, 14:48:23](https://news.ycombinator.com/item?id=47704495) - [Metrics SQL: A SQL-based semantic layer for humans and agents](https://www.rilldata.com/blog/introducing-metrics-sql-a-sql-based-semantic-layer-for-humans-and-agents)
 * [2026-04-09, 14:42:43](https://news.ycombinator.com/item?id=47704430) - [Can It Resolve Doom? Game Engine in 2k DNS Records](https://blog.rice.is/post/doom-over-dns/)
 * [2026-04-09, 14:10:22](https://news.ycombinator.com/item?id=47704013) - [A New Way to Spray Paint Color](https://spectrum.ieee.org/spray-paint-color-creator)
