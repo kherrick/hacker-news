@@ -7,6 +7,7 @@
 * [2026-04-10, 23:48:07](https://news.ycombinator.com/item?id=47725403) - [Italo Calvino: A Traveller in a World of Uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
 * [2026-04-10, 23:09:17](https://news.ycombinator.com/item?id=47724957) - [Has Mythos just broken the deal that kept the internet safe?](https://martinalderson.com/posts/has-mythos-just-broken-the-deal-that-kept-the-internet-safe/)
 * [2026-04-10, 23:05:48](https://news.ycombinator.com/item?id=47724921) - [Sam Altman's response to Molotov cocktail incident](https://blog.samaltman.com/2279512)
+* [2026-04-10, 22:23:03](https://news.ycombinator.com/item?id=47724408) - [The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain](https://publicdomainreview.org/essay/the-great-majority/)
 * [2026-04-10, 22:16:40](https://news.ycombinator.com/item?id=47724352) - [Filing the Corners Off MacBooks](https://kentwalters.com/posts/corners/)
 * [2026-04-10, 21:56:33](https://news.ycombinator.com/item?id=47724118) - [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension)
 * [2026-04-10, 20:24:56](https://news.ycombinator.com/item?id=47723243) - [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
