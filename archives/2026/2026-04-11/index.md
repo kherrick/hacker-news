@@ -15,6 +15,7 @@
 * [2026-04-11, 18:55:43](https://news.ycombinator.com/item?id=47733066) - [New synthesis of astronomical measurements shows Hubble tension is real](https://noirlab.edu/public/news/noirlab2611/?nocache=true&lang=en)
 * [2026-04-11, 18:55:43](https://news.ycombinator.com/item?id=47733066) - [New synthesis of astronomical measurements shows Hubble tension is real](https://noirlab.edu/public/news/noirlab2611/)
 * [2026-04-11, 18:07:49](https://news.ycombinator.com/item?id=47732697) - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
+* [2026-04-11, 17:48:02](https://news.ycombinator.com/item?id=47732535) - [The Orange Pi 6 Plus](https://taoofmac.com/space/reviews/2026/04/11/1900)
 * [2026-04-11, 17:34:10](https://news.ycombinator.com/item?id=47732402) - [The APL Programming Language Source Code (2012)](https://computerhistory.org/blog/the-apl-programming-language-source-code/)
 * [2026-04-11, 16:47:28](https://news.ycombinator.com/item?id=47732020) - [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
 * [2026-04-11, 16:43:40](https://news.ycombinator.com/item?id=47731998) - [Phone Trips](http://www.wideweb.com/phonetrips/)

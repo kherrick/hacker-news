@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 19:18:53](https://news.ycombinator.com/item?id=47770124) - [Gas Town: From Clown Show to v1.0](https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec)
+* [2026-04-14, 19:12:09](https://news.ycombinator.com/item?id=47770020) - [ClawRun – Deploy and manage AI agents in seconds](https://github.com/clawrun-sh/clawrun)
+* [2026-04-14, 19:08:32](https://news.ycombinator.com/item?id=47769967) - [California ghost-gun bill wants 3D printers to play cop, EFF says](https://www.theregister.com/2026/04/14/eff_california_3dprinted_firearms/)
 * [2026-04-14, 18:14:29](https://news.ycombinator.com/item?id=47769183) - [40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal](https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b)
 * [2026-04-14, 17:47:00](https://news.ycombinator.com/item?id=47768813) - [I wrote to Flock's privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html)
 * [2026-04-14, 17:45:34](https://news.ycombinator.com/item?id=47768788) - [OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)
