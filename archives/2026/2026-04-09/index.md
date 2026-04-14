@@ -48,6 +48,7 @@
 * [2026-04-09, 15:07:13](https://news.ycombinator.com/item?id=47704729) - [The M×N problem of tool calling and open-source models](https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract)
 * [2026-04-09, 14:48:23](https://news.ycombinator.com/item?id=47704495) - [Metrics SQL: A SQL-based semantic layer for humans and agents](https://www.rilldata.com/blog/introducing-metrics-sql-a-sql-based-semantic-layer-for-humans-and-agents)
 * [2026-04-09, 14:42:43](https://news.ycombinator.com/item?id=47704430) - [Can It Resolve Doom? Game Engine in 2k DNS Records](https://blog.rice.is/post/doom-over-dns/)
+* [2026-04-09, 14:38:40](https://news.ycombinator.com/item?id=47704366) - [Responsive images in Hugo using Render Hooks](https://mijndertstuij.nl/posts/hugo-responsive-images-using-render-hooks/)
 * [2026-04-09, 14:10:22](https://news.ycombinator.com/item?id=47704013) - [A New Way to Spray Paint Color](https://spectrum.ieee.org/spray-paint-color-creator)
 * [2026-04-09, 13:53:58](https://news.ycombinator.com/item?id=47703805) - [PGLite Evangelism](https://substack.com/home/post/p-193415720)
 * [2026-04-09, 13:33:33](https://news.ycombinator.com/item?id=47703528) - [The Future of Everything Is Lies, I Guess: Part 3 – Culture](https://aphyr.com/posts/413-the-future-of-everything-is-lies-i-guess-culture)
