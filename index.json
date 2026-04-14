@@ -1,32 +1,22 @@
 [
   [
     [
-      "2026-04-14, 22:23:15",
-      "https://news.ycombinator.com/item?id=47772245"
-    ],
-    [
-      "Civilization Is Not the Default. Violence Is",
-      "https://apropos.substack.com/p/civilization-is-a-public-good"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 22:18:55",
-      "https://news.ycombinator.com/item?id=47772203"
-    ],
-    [
-      "H.R.8250 – To require operating system providers to verify the age of any user",
-      "https://www.congress.gov/bill/119th-congress/house-bill/8250/all-info"
-    ]
-  ],
-  [
-    [
       "2026-04-14, 22:00:11",
       "https://news.ycombinator.com/item?id=47772048"
     ],
     [
       "Fuck the cloud (2009)",
       "https://ascii.textfiles.com/archives/1717"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 20:42:21",
+      "https://news.ycombinator.com/item?id=47771220"
+    ],
+    [
+      "Free, fast diagnostic tools for DNS, email authentication, and network security",
+      "https://mrdns.com/"
     ]
   ],
   [
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2026-04-14, 13:26:53",
+      "https://news.ycombinator.com/item?id=47765374"
+    ],
+    [
+      "Show HN: Kontext CLI – Credential broker for AI coding agents in Go",
+      "https://github.com/kontext-dev/kontext-cli"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 10:33:39",
       "https://news.ycombinator.com/item?id=47763759"
     ],
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2026-04-14, 06:31:44",
+      "https://news.ycombinator.com/item?id=47761997"
+    ],
+    [
+      "Distributed DuckDB Instance",
+      "https://github.com/citguru/openduck"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 03:06:27",
       "https://news.ycombinator.com/item?id=47760764"
     ],
@@ -187,16 +197,6 @@
     [
       "DaVinci Resolve – Photo",
       "https://www.blackmagicdesign.com/products/davinciresolve/photo"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 00:25:08",
-      "https://news.ycombinator.com/item?id=47759709"
-    ],
-    [
-      "Lean proved this program correct; then I found a bug",
-      "https://kirancodes.me/posts/log-who-watches-the-watchers.html"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "The Orange Pi 6 Plus",
       "https://taoofmac.com/space/reviews/2026/04/11/1900"
+    ]
+  ],
+  [
+    [
+      "2026-04-11, 08:27:06",
+      "https://news.ycombinator.com/item?id=47728662"
+    ],
+    [
+      "Picasso's Guernica (Gigapixel)",
+      "https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The M×N problem of tool calling and open-source models",
       "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 14:38:40",
-      "https://news.ycombinator.com/item?id=47704366"
-    ],
-    [
-      "Responsive images in Hugo using Render Hooks",
-      "https://mijndertstuij.nl/posts/hugo-responsive-images-using-render-hooks/"
     ]
   ]
 ]
