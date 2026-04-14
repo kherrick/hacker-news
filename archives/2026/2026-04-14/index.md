@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 17:47:00](https://news.ycombinator.com/item?id=47768813) - [I wrote to Flock's privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html)
+* [2026-04-14, 17:06:49](https://news.ycombinator.com/item?id=47768306) - [Modifying FileZilla to Workaround Bambu 3D Printer's FTP Issue](https://lantian.pub/en/article/modify-computer/modify-filezilla-workaround-bambu-3d-printer-ftp-issue.lantian/)
+* [2026-04-14, 16:59:09](https://news.ycombinator.com/item?id=47768195) - [Spain to expand internet blocks to tennis, golf, movies broadcasting times](https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731)
+* [2026-04-14, 16:54:33](https://news.ycombinator.com/item?id=47768133) - [Claude Code Routines](https://code.claude.com/docs/en/routines)
+* [2026-04-14, 16:53:16](https://news.ycombinator.com/item?id=47768111) - [An Oligarchy of Old People](https://www.theatlantic.com/magazine/2026/05/gerontocracy-wealth-power/686585/)
 * [2026-04-14, 16:22:49](https://news.ycombinator.com/item?id=47767676) - [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/)
+* [2026-04-14, 16:16:51](https://news.ycombinator.com/item?id=47767606) - [Show HN: Kelet – Root Cause Analysis agent for your LLM apps](https://kelet.ai/)
 * [2026-04-14, 15:44:15](https://news.ycombinator.com/item?id=47767160) - [For the first time in the U.S., renewables generate more power than natural gas](https://e360.yale.edu/digest/us-renewables-natural-gas-coal)
 * [2026-04-14, 15:42:48](https://news.ycombinator.com/item?id=47767143) - [The Fediverse deserves a dumb graphical client](https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md)
 * [2026-04-14, 15:30:48](https://news.ycombinator.com/item?id=47766960) - [AI Will Never Be Ethical or Safe](https://meiert.com/blog/ai-ethics-and-safety/)
