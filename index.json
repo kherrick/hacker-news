@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-14, 20:07:20",
+      "https://news.ycombinator.com/item?id=47770770"
+    ],
+    [
+      "Trusted access for the next era of cyber defense",
+      "https://openai.com/index/scaling-trusted-access-for-cyber-defense/"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 19:18:53",
       "https://news.ycombinator.com/item?id=47770124"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2026-04-14, 19:08:32",
-      "https://news.ycombinator.com/item?id=47769967"
+      "2026-04-14, 18:56:40",
+      "https://news.ycombinator.com/item?id=47769796"
     ],
     [
-      "California ghost-gun bill wants 3D printers to play cop, EFF says",
-      "https://www.theregister.com/2026/04/14/eff_california_3dprinted_firearms/"
+      "Tell HN: Fiverr left customer files public and searchable",
+      "https://news.ycombinator.com/item?id=47769796"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2026-04-14, 16:16:51",
-      "https://news.ycombinator.com/item?id=47767606"
-    ],
-    [
-      "Show HN: Kelet – Root Cause Analysis agent for your LLM apps",
-      "https://kelet.ai/"
-    ]
-  ],
-  [
-    [
       "2026-04-14, 15:41:01",
       "https://news.ycombinator.com/item?id=47767119"
     ],
@@ -137,16 +137,6 @@
     [
       "Rare concert recordings are landing on the Internet Archive",
       "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 13:26:53",
-      "https://news.ycombinator.com/item?id=47765374"
-    ],
-    [
-      "Show HN: Kontext CLI – Credential broker for AI coding agents in Go",
-      "https://github.com/kontext-dev/kontext-cli"
     ]
   ],
   [
@@ -211,12 +201,32 @@
   ],
   [
     [
+      "2026-04-13, 23:44:24",
+      "https://news.ycombinator.com/item?id=47759420"
+    ],
+    [
+      "The Dangers of California's Legislation to Censor 3D Printing",
+      "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing"
+    ]
+  ],
+  [
+    [
       "2026-04-13, 22:41:19",
       "https://news.ycombinator.com/item?id=47758870"
     ],
     [
       "Let's Talk Space Toilets",
       "https://mceglowski.substack.com/p/lets-talk-space-toilets"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 12:40:34",
+      "https://news.ycombinator.com/item?id=47738962"
+    ],
+    [
+      "Troubleshooting Email Delivery to Microsoft Users",
+      "https://rozumem.xyz/posts/14"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Carol's Causal Conundrum: a zine intro to causally ordered message delivery",
       "https://decomposition.al/zines/"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 12:37:27",
-      "https://news.ycombinator.com/item?id=47717192"
-    ],
-    [
-      "The acyclic e-graph: Cranelift's mid-end optimizer",
-      "https://cfallin.org/blog/2026/04/09/aegraph/"
     ]
   ],
   [
