@@ -32,6 +32,7 @@
 * [2026-04-10, 17:31:22](https://news.ycombinator.com/item?id=47721255) - [Show HN: Eve – Managed OpenClaw for work](https://eve.new/login)
 * [2026-04-10, 17:27:07](https://news.ycombinator.com/item?id=47721207) - [HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X](https://torrentfreak.com/hbo-obtains-dmca-subpoena-to-unmask-euphoria-spoiler-account-on-x/)
 * [2026-04-10, 17:14:18](https://news.ycombinator.com/item?id=47721076) - [Understanding Clojure's Persistent Vectors, pt. 1 (2013)](https://hypirion.com/musings/understanding-persistent-vector-pt-1)
+* [2026-04-10, 17:01:26](https://news.ycombinator.com/item?id=47720926) - [Forcing an Inversion of Control on the SaaS Stack](https://www.100x.bot/a/client-side-injection-inversion-of-control-saas)
 * [2026-04-10, 17:01:07](https://news.ycombinator.com/item?id=47720918) - [Bild AI (YC W25) Is Hiring a Founding Product Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer)
 * [2026-04-10, 16:53:55](https://news.ycombinator.com/item?id=47720827) - [A compelling title that is cryptic enough to get you to take action on it](https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/)
 * [2026-04-10, 16:45:40](https://news.ycombinator.com/item?id=47720719) - [The difficulty of making sure your website is broken](https://letsencrypt.org/2026/04/10/test-sites.html)

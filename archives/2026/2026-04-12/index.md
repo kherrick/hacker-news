@@ -20,6 +20,7 @@
 * [2026-04-12, 18:55:06](https://news.ycombinator.com/item?id=47743096) - [Zed, A sans for the needs of 21st century (2024)](https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century)
 * [2026-04-12, 18:30:29](https://news.ycombinator.com/item?id=47742790) - [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
 * [2026-04-12, 18:19:02](https://news.ycombinator.com/item?id=47742680) - [Apple has removed most of the towns and villages in Lebanon from Apple maps?](https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193)
+* [2026-04-12, 17:52:03](https://news.ycombinator.com/item?id=47742430) - [New Modern Greek](https://redas.dev/NewModernGreek/)
 * [2026-04-12, 17:25:44](https://news.ycombinator.com/item?id=47742200) - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
 * [2026-04-12, 17:06:31](https://news.ycombinator.com/item?id=47742002) - [Reading Is Magic](https://samkriss.substack.com/p/reading-is-magic)
 * [2026-04-12, 17:01:26](https://news.ycombinator.com/item?id=47741953) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)

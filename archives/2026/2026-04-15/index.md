@@ -19,6 +19,7 @@
 * [2026-04-15, 12:26:12](https://news.ycombinator.com/item?id=47778087) - [Show HN: Pseudonymizing sensitive data for LLMs without losing context](https://atticsecurity.com/en/blog/why-llms-hate-fake-data-token-proxy/)
 * [2026-04-15, 12:26:11](https://news.ycombinator.com/item?id=47778086) - [Do you even need a database?](https://www.dbpro.app/blog/do-you-even-need-a-database)
 * [2026-04-15, 12:21:47](https://news.ycombinator.com/item?id=47778050) - [Study: Back-to-basics approach can match or outperform AI in language analysis](https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/)
+* [2026-04-15, 12:20:13](https://news.ycombinator.com/item?id=47778038) - [Allbirds, Inc. Announces Expansion into AI Compute Infrastructure](https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility)
 * [2026-04-15, 12:00:44](https://news.ycombinator.com/item?id=47777902) - [Proliferate (YC S25) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
 * [2026-04-15, 11:08:25](https://news.ycombinator.com/item?id=47777449) - [Academic fraud may be the symptom of a more systemic problem](https://www.voxweb.nl/en/academic-fraud-may-be-the-symptom-of-a-much-more-systemic-problem)
 * [2026-04-15, 10:42:28](https://news.ycombinator.com/item?id=47777209) - [Your Backpack Got Worse on Purpose](https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose)
