@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-15](index.md)
 
+* [2026-04-15, 22:29:40](https://news.ycombinator.com/item?id=47786183) - [The Rise of the Em-Dash in Hacker News Comments](https://boazsobrado.com/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/)
+* [2026-04-15, 22:27:54](https://news.ycombinator.com/item?id=47786164) - [I made a terminal pager](https://theleo.zone/posts/pager/)
+* [2026-04-15, 22:05:44](https://news.ycombinator.com/item?id=47785948) - [Ohio prison inmates 'built computers and hid them in ceiling](https://www.bbc.com/news/technology-39576394)
 * [2026-04-15, 21:48:18](https://news.ycombinator.com/item?id=47785738) - [The buns in McDonald's Japan's burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/)
+* [2026-04-15, 21:35:38](https://news.ycombinator.com/item?id=47785582) - [Hacker News CLI](https://pythonhosted.org/hackernews-cli/commands.html)
 * [2026-04-15, 21:21:05](https://news.ycombinator.com/item?id=47785397) - [ChatGPT for Excel](https://chatgpt.com/apps/spreadsheets/)
 * [2026-04-15, 20:49:48](https://news.ycombinator.com/item?id=47785053) - [Does Gas Town 'steal' usage from users' LLM credits to improve itself?](https://github.com/gastownhall/gastown/issues/3649)
 * [2026-04-15, 19:56:36](https://news.ycombinator.com/item?id=47784397) - [One Interface, Every Protocol](https://openbindings.com/blog/one-interface-every-protocol)
@@ -46,6 +50,7 @@
 * [2026-04-15, 12:21:47](https://news.ycombinator.com/item?id=47778050) - [Study: Back-to-basics approach can match or outperform AI in language analysis](https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/)
 * [2026-04-15, 12:20:13](https://news.ycombinator.com/item?id=47778038) - [Allbirds, Inc. Announces Expansion into AI Compute Infrastructure](https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility)
 * [2026-04-15, 12:00:44](https://news.ycombinator.com/item?id=47777902) - [Proliferate (YC S25) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
+* [2026-04-15, 12:00:24](https://news.ycombinator.com/item?id=47777897) - [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html)
 * [2026-04-15, 11:08:25](https://news.ycombinator.com/item?id=47777449) - [Academic fraud may be the symptom of a more systemic problem](https://www.voxweb.nl/en/academic-fraud-may-be-the-symptom-of-a-much-more-systemic-problem)
 * [2026-04-15, 10:42:28](https://news.ycombinator.com/item?id=47777209) - [Your Backpack Got Worse on Purpose](https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose)
 * [2026-04-15, 09:41:19](https://news.ycombinator.com/item?id=47776796) - [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html)
