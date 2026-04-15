@@ -34,6 +34,7 @@
 * [2026-04-11, 11:35:02](https://news.ycombinator.com/item?id=47729694) - [An Introduction to Obsidian](https://bryanhogan.com/blog/obsidian-introduction)
 * [2026-04-11, 10:58:36](https://news.ycombinator.com/item?id=47729477) - [Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours](https://www.hormuz-havoc.com/)
 * [2026-04-11, 10:36:15](https://news.ycombinator.com/item?id=47729350) - [I Just Want Simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
+* [2026-04-11, 10:31:51](https://news.ycombinator.com/item?id=47729327) - [Ask HN: Easiest UX for Seniors](https://news.ycombinator.com/item?id=47729327)
 * [2026-04-11, 09:37:20](https://news.ycombinator.com/item?id=47729069) - [BlueHammer abuses Windows Defender's update process to gain SYSTEM access](https://hackingpassion.com/bluehammer-windows-defender-zero-day/)
 * [2026-04-11, 09:32:17](https://news.ycombinator.com/item?id=47729046) - [Air Powered Segment Display? [video]](https://www.youtube.com/watch?v=E1BLGpE5zH0)
 * [2026-04-11, 09:20:45](https://news.ycombinator.com/item?id=47728970) - [Write less code, be more responsible](https://blog.orhun.dev/code-responsibly/)

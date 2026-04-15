@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 23:41:43](https://news.ycombinator.com/item?id=47772906) - [Apple App Store threatened to remove Grok over deepfakes: Letter](https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677)
 * [2026-04-14, 22:23:15](https://news.ycombinator.com/item?id=47772245) - [Civilization Is Not the Default. Violence Is](https://apropos.substack.com/p/civilization-is-a-public-good)
 * [2026-04-14, 22:18:55](https://news.ycombinator.com/item?id=47772203) - [H.R.8250 – To require operating system providers to verify the age of any user](https://www.congress.gov/bill/119th-congress/house-bill/8250/all-info)
 * [2026-04-14, 22:00:11](https://news.ycombinator.com/item?id=47772048) - [Fuck the cloud (2009)](https://ascii.textfiles.com/archives/1717)
+* [2026-04-14, 21:56:05](https://news.ycombinator.com/item?id=47772012) - [Stop Flock](https://stopflock.com)
 * [2026-04-14, 20:42:21](https://news.ycombinator.com/item?id=47771220) - [Free, fast diagnostic tools for DNS, email authentication, and network security](https://mrdns.com/)
 * [2026-04-14, 20:07:20](https://news.ycombinator.com/item?id=47770770) - [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
 * [2026-04-14, 19:18:53](https://news.ycombinator.com/item?id=47770124) - [Gas Town: From Clown Show to v1.0](https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec)
