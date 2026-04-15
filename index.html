@@ -129,6 +129,270 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47778946">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=47778946"
+              >Vibe Coding Fails</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-15 @ 13:50:04</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47778946"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                let me describe my workflow first - this has been my workflow
+                across hundreds of successful sessions: 1. identify bugs through
+                dogfooding 2. ask claude code to investigate the codebase for
+                three potential root causes. 3. paste the root causes and
+                proposed fixes to claude project where i store all architecture
+                doc and design decision for it to evaluate 4. discuss with
+                claude in project to write detailed task spec - the task spec
+                will have a specified format with all sorts of test 5. give it
+                back to claude code to implement the fix
+              </p>
+              <p>
+                in today's session, the root cause analysis was still great, but
+                the proposed fixes are so bad that i really think that's how
+                most of vibe coded project lost maintainability in the long run.
+              </p>
+              <p>there is two of the root causes and proposed fix:</p>
+              <p>
+                bug: agent asks for user approval, but sometimes the approval
+                popup doesnt show up. i tried sending a message to unstick it.
+                message got silently swallowed. agent looks dead. and i needed
+                to restart the entire thing.
+              </p>
+              <p>
+                claude's evaluation: root cause 1: the approval popup is sent
+                once over a live connection. if the user's ui isn't connected at
+                that moment — page refresh, phone backgrounded, flaky connection
+                — they never see it. no retry, no recovery.
+              </p>
+              <p>this is actually true.</p>
+              <p>
+                proposed fix "let's save approval state to disk so it survives
+                crashes". sounds fine but then the key is by design, if things
+                crashes, the agent will cold-resume from the session log, and it
+                wont pick up the approval state anyway. the fix just add schema
+                complexity and it's completely useless
+              </p>
+              <p>
+                root cause 2: when an approval gets interrupted (daemon crash,
+                user restart), there's an orphan tool_call in the session
+                history with no matching tool_result.
+              </p>
+              <p>
+                proposed fix: "write a synthetic tool_result to keep the session
+                file structurally valid." sounds clean. but i asked: who
+                actually breaks on this? the LLM API? no, it handles missing
+                results. the session replay? no, it reads what's there. the
+                orphan tool_call accurately represents what happened: the tool
+                was called but never completed. that's the truth. writing a fake
+                result to paper over it introduces a new write-coordination
+                concern (when exactly do you write the fake result? what if the
+                daemon crashes during the write?) to solve a problem that
+                doesn't exist. the session file isn't "broken." it's accurate.
+              </p>
+              <p>
+                claude had full architecture docs, the codebase, and over a
+                hundred sessions of project history in context. it still reaches
+                for the complex solution because it LOOKS like good engineering.
+                it never asked "does it even matter after a restart?"
+              </p>
+              <p>
+                i have personally encounterd this preference for seemingly more
+                robust over-engineering multiple times. and i genuinely believe
+                that this is where human operate actually should step in,
+                instead of giving an one-sentence requirement and watches agents
+                to do all sorts of "robust" engineering.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47778933">
+          <h3>
+            <a
+              class="item"
+              href="https://terrypratchett.com/explore-discworld/sam-vimes-boots-theory-of-socio-economic-unfairness/"
+              >Sam Vimes 'Boots' Theory of Socio-Economic Unfairness</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-15 @ 13:48:44</span
+              ><span class="points-container"
+                >Points: <span class="points">39</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47778933"
+                  >Comments</a
+                ><span class="descendants">: 23</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47778920">
+          <h3>
+            <a
+              class="item"
+              href="https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf"
+              >US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI
+              chats [pdf]</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-15 @ 13:47:40</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47778920"
+                  >Comments</a
+                ><span class="descendants">: 21</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47778758">
+          <h3>
+            <a
+              class="item"
+              href="https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs"
+              >The Future of Everything Is Lies, I Guess: New Jobs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-15 @ 13:34:11</span
+              ><span class="points-container"
+                >Points: <span class="points">91</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47778758"
+                  >Comments</a
+                ><span class="descendants">: 43</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47778617">
+          <h3>
+            <a
+              class="item"
+              href="https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/"
+              >MCP as Observability Interface: Connecting AI Agents to Kernel
+              Tracepoints</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-15 @ 13:22:10</span
+              ><span class="points-container"
+                >Points: <span class="points">27</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47778617"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47778475">
+          <h3>
+            <a
+              class="item"
+              href="https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/"
+              >God Sleeps in the Minerals</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-15 @ 13:08:10</span
+              ><span class="points-container"
+                >Points: <span class="points">131</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47778475"
+                  >Comments</a
+                ><span class="descendants">: 37</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47778366">
+          <h3>
+            <a
+              class="item"
+              href="https://social.coop/@cwebber/116408556882122186"
+              >US national level OS-level age verification bill</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-15 @ 12:58:11</span
+              ><span class="points-container"
+                >Points: <span class="points">88</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47778366"
+                  >Comments</a
+                ><span class="descendants">: 65</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47778306">
+          <h3>
+            <a class="item" href="https://tracksuccession.com/explore"
+              >Show HN: Every CEO and CFO change at US public companies, live
+              from SEC</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-15 @ 12:51:04</span
+              ><span class="points-container"
+                >Points: <span class="points">83</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47778306"
+                  >Comments</a
+                ><span class="descendants">: 34</span></span
+              >
+            </h4>
+            <div class="text">
+              Built this solo. It watches SEC filings for executive and board
+              changes, extracts the data, and shows it in real time. 2,100+
+              changes in the last 30 days. The comp data is interesting: average
+              new CEO total comp is $8.4M across 284 appointments. The /explore
+              page is fully open, no login needed.
+            </div>
+          </section>
+        </section>
+        <section id="47778086">
+          <h3>
+            <a
+              class="item"
+              href="https://www.dbpro.app/blog/do-you-even-need-a-database"
+              >Do you even need a database?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-15 @ 12:26:11</span
+              ><span class="points-container"
+                >Points: <span class="points">32</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47778086"
+                  >Comments</a
+                ><span class="descendants">: 54</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47777902">
           <h3>
             <a
@@ -146,6 +410,48 @@
             </h4>
           </section>
         </section>
+        <section id="47777449">
+          <h3>
+            <a
+              class="item"
+              href="https://www.voxweb.nl/en/academic-fraud-may-be-the-symptom-of-a-much-more-systemic-problem"
+              >Academic fraud may be the symptom of a more systemic problem</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-15 @ 11:08:25</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47777449"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47777209">
+          <h3>
+            <a
+              class="item"
+              href="https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose"
+              >Your Backpack Got Worse on Purpose</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-15 @ 10:42:28</span
+              ><span class="points-container"
+                >Points: <span class="points">128</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47777209"
+                  >Comments</a
+                ><span class="descendants">: 119</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47776796">
           <h3>
             <a class="item" href="https://prog21.dadgum.com/30.html"
@@ -156,33 +462,11 @@
             <h4>
               <span>2026-04-15 @ 09:41:19</span
               ><span class="points-container"
-                >Points: <span class="points">233</span></span
+                >Points: <span class="points">278</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47776796"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47776723">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking"
-              >'Seeking connection': video game where players stopped shooting,
-              started talking</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-15 @ 09:31:03</span
-              ><span class="points-container"
-                >Points: <span class="points">44</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47776723"
-                  >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -200,11 +484,11 @@
             <h4>
               <span>2026-04-15 @ 09:24:31</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47776667"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -219,53 +503,11 @@
             <h4>
               <span>2026-04-15 @ 09:11:18</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47776557"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47775653">
-          <h3>
-            <a
-              class="item"
-              href="https://www.maiobarbero.dev/articles/ai-assisted-workflow/"
-              >My AI-Assisted Workflow</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-15 @ 07:08:18</span
-              ><span class="points-container"
-                >Points: <span class="points">70</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47775653"
-                  >Comments</a
-                ><span class="descendants">: 81</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47775633">
-          <h3>
-            <a
-              class="item"
-              href="https://support.claude.com/en/articles/14328960-identity-verification-on-claude"
-              >Claude may require identity verification in some cases</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-15 @ 07:05:13</span
-              ><span class="points-container"
-                >Points: <span class="points">83</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47775633"
-                  >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
@@ -280,33 +522,11 @@
             <h4>
               <span>2026-04-15 @ 07:04:45</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47775628"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47775183">
-          <h3>
-            <a
-              class="item"
-              href="https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network"
-              >Amazon to acquire Globalstar and expand Amazon Leo satellite
-              network</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-15 @ 05:54:29</span
-              ><span class="points-container"
-                >Points: <span class="points">105</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47775183"
-                  >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
           </section>
@@ -324,11 +544,11 @@
             <h4>
               <span>2026-04-15 @ 05:19:06</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">167</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47774971"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -345,52 +565,11 @@
             <h4>
               <span>2026-04-15 @ 04:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">199</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47774789"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47773812">
-          <h3>
-            <a class="item" href="https://calpaterson.com/deps.html"
-              >Dependency cooldowns turn you into a free-rider</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-15 @ 02:03:12</span
-              ><span class="points-container"
-                >Points: <span class="points">153</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47773812"
-                  >Comments</a
-                ><span class="descendants">: 104</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47773788">
-          <h3>
-            <a
-              class="item"
-              href="https://www.stylewarning.com/posts/not-all-elementary/"
-              >Not all elementary functions can be expressed with
-              exp-minus-log</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-15 @ 01:59:18</span
-              ><span class="points-container"
-                >Points: <span class="points">119</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47773788"
-                  >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -401,11 +580,11 @@
             <h4>
               <span>2026-04-14 @ 21:56:05</span
               ><span class="points-container"
-                >Points: <span class="points">821</span></span
+                >Points: <span class="points">861</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47772012"
                   >Comments</a
-                ><span class="descendants">: 211</span></span
+                ><span class="descendants">: 229</span></span
               >
             </h4>
           </section>
@@ -422,7 +601,7 @@
             <h4>
               <span>2026-04-14 @ 17:09:43</span
               ><span class="points-container"
-                >Points: <span class="points">181</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47768339"
                   >Comments</a
@@ -441,11 +620,11 @@
             <h4>
               <span>2026-04-14 @ 16:54:33</span
               ><span class="points-container"
-                >Points: <span class="points">673</span></span
+                >Points: <span class="points">683</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47768133"
                   >Comments</a
-                ><span class="descendants">: 377</span></span
+                ><span class="descendants">: 381</span></span
               >
             </h4>
           </section>
@@ -460,74 +639,11 @@
             <h4>
               <span>2026-04-14 @ 16:22:49</span
               ><span class="points-container"
-                >Points: <span class="points">182</span></span
+                >Points: <span class="points">186</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47767676"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47765604">
-          <h3>
-            <a
-              class="item"
-              href="https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/"
-              >Rare concert recordings are landing on the Internet Archive</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-14 @ 13:46:31</span
-              ><span class="points-container"
-                >Points: <span class="points">676</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47765604"
-                  >Comments</a
-                ><span class="descendants">: 198</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47759420">
-          <h3>
-            <a
-              class="item"
-              href="https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing"
-              >The dangers of California's legislation to censor 3D printing</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-13 @ 23:44:24</span
-              ><span class="points-container"
-                >Points: <span class="points">456</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47759420"
-                  >Comments</a
-                ><span class="descendants">: 397</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47758870">
-          <h3>
-            <a
-              class="item"
-              href="https://mceglowski.substack.com/p/lets-talk-space-toilets"
-              >Let's talk space toilets</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-13 @ 22:41:19</span
-              ><span class="points-container"
-                >Points: <span class="points">201</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47758870"
-                  >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -544,11 +660,11 @@
             <h4>
               <span>2026-04-12 @ 15:30:02</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47740879"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -566,30 +682,11 @@
             <h4>
               <span>2026-04-12 @ 15:26:24</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47740840"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47739278">
-          <h3>
-            <a class="item" href="https://vjay15.github.io/blog/apikeys/"
-              >My adventure in designing API keys</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-12 @ 13:17:45</span
-              ><span class="points-container"
-                >Points: <span class="points">88</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47739278"
-                  >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -606,11 +703,11 @@
             <h4>
               <span>2026-04-11 @ 22:40:42</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47734629"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -627,11 +724,11 @@
             <h4>
               <span>2026-04-11 @ 08:27:06</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47728662"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -646,11 +743,11 @@
             <h4>
               <span>2026-04-11 @ 00:47:06</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47725897"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -668,72 +765,51 @@
             <h4>
               <span>2026-04-10 @ 22:36:24</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">215</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47724571"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47722731">
+        <section id="47708710">
           <h3>
             <a
               class="item"
-              href="https://www.colino.net/wordpress/archives/2026/04/10/pcbway-sponsorship-full-size-sd-module-for-arduino-projects/"
-              >PCBWay sponsorship: full-size SD module for Arduino projects</a
+              href="https://www.bbc.com/travel/article/20260408-a-150-metro-ticket-to-ancient-rome"
+              >Metro stop is Ancient Rome's new attraction</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-04-10 @ 19:41:45</span
+              <span>2026-04-09 @ 19:39:06</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47722731"
+                ><a href="https://news.ycombinator.com/item?id=47708710"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47721076">
+        <section id="47708627">
           <h3>
-            <a
-              class="item"
-              href="https://hypirion.com/musings/understanding-persistent-vector-pt-1"
-              >Understanding Clojure's Persistent Vectors, pt. 1 (2013)</a
+            <a class="item" href="https://pretty.fish/"
+              >Pretty Fish: A better mermaid diagram editor</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-04-10 @ 17:14:18</span
+              <span>2026-04-09 @ 19:32:20</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47721076"
+                ><a href="https://news.ycombinator.com/item?id=47708627"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47707382">
-          <h3>
-            <a class="item" href="https://guide.world/"
-              >Guide.world: A compendium of travel guides</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-09 @ 18:17:32</span
-              ><span class="points-container"
-                >Points: <span class="points">133</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47707382"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
