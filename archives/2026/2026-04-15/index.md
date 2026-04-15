@@ -4,7 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-04-15](index.md)
 
+* [2026-04-15, 13:50:04](https://news.ycombinator.com/item?id=47778946) - [Vibe Coding Fails](https://news.ycombinator.com/item?id=47778946)
+* [2026-04-15, 13:48:44](https://news.ycombinator.com/item?id=47778933) - [Sam Vimes 'Boots' Theory of Socio-Economic Unfairness](https://terrypratchett.com/explore-discworld/sam-vimes-boots-theory-of-socio-economic-unfairness/)
+* [2026-04-15, 13:47:40](https://news.ycombinator.com/item?id=47778920) - [US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
+* [2026-04-15, 13:34:11](https://news.ycombinator.com/item?id=47778758) - [The Future of Everything Is Lies, I Guess: New Jobs](https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs)
+* [2026-04-15, 13:22:10](https://news.ycombinator.com/item?id=47778617) - [MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints](https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/)
+* [2026-04-15, 13:08:10](https://news.ycombinator.com/item?id=47778475) - [God Sleeps in the Minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/)
+* [2026-04-15, 12:58:11](https://news.ycombinator.com/item?id=47778366) - [US national level OS-level age verification bill](https://social.coop/@cwebber/116408556882122186)
+* [2026-04-15, 12:51:04](https://news.ycombinator.com/item?id=47778306) - [Show HN: Every CEO and CFO change at US public companies, live from SEC](https://tracksuccession.com/explore)
+* [2026-04-15, 12:26:11](https://news.ycombinator.com/item?id=47778086) - [Do you even need a database?](https://www.dbpro.app/blog/do-you-even-need-a-database)
 * [2026-04-15, 12:00:44](https://news.ycombinator.com/item?id=47777902) - [Proliferate (YC S25) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
+* [2026-04-15, 11:08:25](https://news.ycombinator.com/item?id=47777449) - [Academic fraud may be the symptom of a more systemic problem](https://www.voxweb.nl/en/academic-fraud-may-be-the-symptom-of-a-much-more-systemic-problem)
+* [2026-04-15, 10:42:28](https://news.ycombinator.com/item?id=47777209) - [Your Backpack Got Worse on Purpose](https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose)
 * [2026-04-15, 09:41:19](https://news.ycombinator.com/item?id=47776796) - [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html)
 * [2026-04-15, 09:31:03](https://news.ycombinator.com/item?id=47776723) - ['Seeking connection': video game where players stopped shooting, started talking](https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking)
 * [2026-04-15, 09:24:31](https://news.ycombinator.com/item?id=47776667) - [Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared](https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows)
