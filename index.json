@@ -1,22 +1,32 @@
 [
   [
     [
-      "2026-04-15, 01:36:22",
-      "https://news.ycombinator.com/item?id=47773640"
+      "2026-04-15, 02:03:12",
+      "https://news.ycombinator.com/item?id=47773812"
     ],
     [
-      "OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports",
-      "https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/"
+      "Dependency cooldowns turn you into a free-rider",
+      "https://calpaterson.com/deps.html"
     ]
   ],
   [
     [
-      "2026-04-15, 01:07:19",
-      "https://news.ycombinator.com/item?id=47773448"
+      "2026-04-15, 01:59:18",
+      "https://news.ycombinator.com/item?id=47773788"
     ],
     [
-      "The FCC just saved Netgear from its router ban for no obvious reason",
-      "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval"
+      "Not all elementary functions can be expressed with exp-minus-log",
+      "https://www.stylewarning.com/posts/not-all-elementary/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 00:20:58",
+      "https://news.ycombinator.com/item?id=47773168"
+    ],
+    [
+      "Don't feel like exercising? Maybe it's the wrong time of day for you",
+      "https://www.bbc.com/news/articles/cd6lzpxwx50o"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "Apple App Store threatened to remove Grok over deepfakes: Letter",
       "https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 22:00:11",
-      "https://news.ycombinator.com/item?id=47772048"
-    ],
-    [
-      "Fuck the cloud (2009)",
-      "https://ascii.textfiles.com/archives/1717"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-04-14, 10:33:39",
-      "https://news.ycombinator.com/item?id=47763759"
-    ],
-    [
-      "jj – the CLI for Jujutsu",
-      "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html"
-    ]
-  ],
-  [
-    [
       "2026-04-14, 08:30:27",
       "https://news.ycombinator.com/item?id=47762864"
     ],
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2026-04-11, 10:31:51",
-      "https://news.ycombinator.com/item?id=47729327"
-    ],
-    [
-      "Ask HN: Easiest UX for Seniors",
-      "https://news.ycombinator.com/item?id=47729327"
-    ]
-  ],
-  [
-    [
       "2026-04-11, 08:27:06",
       "https://news.ycombinator.com/item?id=47728662"
     ],
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2026-04-11, 00:47:06",
+      "https://news.ycombinator.com/item?id=47725897"
+    ],
+    [
+      "Installing OpenBSD on the Pomera DM250 Writerdeck",
+      "https://jcs.org/2026/04/09/openbsd-dm250"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 22:36:24",
       "https://news.ycombinator.com/item?id=47724571"
     ],
     [
-      "A Communist Apple II and Fourteen Years of Not Knowing What You're Testing",
+      "A communist Apple II and fourteen years of not knowing what you're testing",
       "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 21:13:12",
+      "https://news.ycombinator.com/item?id=47723729"
+    ],
+    [
+      "Game: Print Gallery Of An Artist, A brief exploration of recursive spaces",
+      "https://managore.itch.io/print-gallery-of-an-artist"
     ]
   ],
   [
