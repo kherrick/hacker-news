@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-15](index.md)
 
+* [2026-04-15, 17:00:56](https://news.ycombinator.com/item?id=47781912) - [Adaptional (YC S25) Is Hiring Founding AI Engineers](https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer)
+* [2026-04-15, 16:57:37](https://news.ycombinator.com/item?id=47781864) - [Where the Heck Did My Taxes Go?](https://wherethefuckdidmytaxesgo.com/)
+* [2026-04-15, 16:53:16](https://news.ycombinator.com/item?id=47781802) - [The tiniest e-reader in the world, and you can build one yourself](https://www.androidauthority.com/tiny-e-reader-diy-3657661/)
+* [2026-04-15, 16:19:48](https://news.ycombinator.com/item?id=47781286) - [CRISPR takes a bold leap toward silencing Down syndrome's extra chromosome](https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html)
+* [2026-04-15, 15:57:54](https://news.ycombinator.com/item?id=47780971) - [Show HN: Libretto – Making AI browser automations deterministic](https://github.com/saffron-health/libretto)
+* [2026-04-15, 15:43:37](https://news.ycombinator.com/item?id=47780712) - [Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson](https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats)
 * [2026-04-15, 14:50:29](https://news.ycombinator.com/item?id=47779856) - [The Deepfake Nudes Crisis in Schools Is Worse Than You Thought](https://www.wired.com/story/deepfake-nudify-schools-global-crisis/)
 * [2026-04-15, 14:44:00](https://news.ycombinator.com/item?id=47779730) - [Daily Claude outage is upon us. Waiting for Claude Status to update](https://claudestatus.com/)
 * [2026-04-15, 14:02:31](https://news.ycombinator.com/item?id=47779094) - [Gemini Robotics-ER 1.6](https://deepmind.google/blog/gemini-robotics-er-1-6/)

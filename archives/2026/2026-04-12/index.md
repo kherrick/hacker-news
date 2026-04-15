@@ -49,6 +49,7 @@
 * [2026-04-12, 11:10:18](https://news.ycombinator.com/item?id=47738343) - [The Physics of GPS](https://perthirtysix.com/how-does-gps-work)
 * [2026-04-12, 10:46:21](https://news.ycombinator.com/item?id=47738196) - [What have been the greatest intellectual achievements? (2017)](https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html)
 * [2026-04-12, 10:29:26](https://news.ycombinator.com/item?id=47738094) - [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html)
+* [2026-04-12, 10:27:08](https://news.ycombinator.com/item?id=47738081) - [Fix monitor that goes black, off or blinks due to static electricity in chair](https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/)
 * [2026-04-12, 10:07:33](https://news.ycombinator.com/item?id=47737928) - [MiniMax M2.7 Is Now Open Source](https://firethering.com/minimax-m2-7-agentic-model/)
 * [2026-04-12, 10:01:54](https://news.ycombinator.com/item?id=47737876) - [Doom, Played over Curl](https://github.com/xsawyerx/curl-doom)
 * [2026-04-12, 09:16:35](https://news.ycombinator.com/item?id=47737563) - [AI Will Be Met with Violence, and Nothing Good Will Come of It](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)

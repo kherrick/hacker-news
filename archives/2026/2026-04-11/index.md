@@ -34,6 +34,7 @@
 * [2026-04-11, 13:01:34](https://news.ycombinator.com/item?id=47730194) - [Cirrus Labs to join OpenAI shut down Circus CI on Monday, June 1, 2026](https://cirruslabs.org/)
 * [2026-04-11, 12:28:04](https://news.ycombinator.com/item?id=47729994) - [’Abhorrent’: the inside story of the Polymarket gamblers betting millions on war](https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth)
 * [2026-04-11, 11:35:02](https://news.ycombinator.com/item?id=47729694) - [An Introduction to Obsidian](https://bryanhogan.com/blog/obsidian-introduction)
+* [2026-04-11, 11:03:58](https://news.ycombinator.com/item?id=47729507) - [How do Wake-On-LAN works](https://blog.xaner.dev/post/wake-on-lan/)
 * [2026-04-11, 10:58:36](https://news.ycombinator.com/item?id=47729477) - [Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours](https://www.hormuz-havoc.com/)
 * [2026-04-11, 10:36:15](https://news.ycombinator.com/item?id=47729350) - [I Just Want Simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
 * [2026-04-11, 10:31:51](https://news.ycombinator.com/item?id=47729327) - [Ask HN: Easiest UX for Seniors](https://news.ycombinator.com/item?id=47729327)
