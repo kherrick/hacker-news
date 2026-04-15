@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-15](index.md)
 
+* [2026-04-15, 14:50:29](https://news.ycombinator.com/item?id=47779856) - [The Deepfake Nudes Crisis in Schools Is Worse Than You Thought](https://www.wired.com/story/deepfake-nudify-schools-global-crisis/)
+* [2026-04-15, 14:44:00](https://news.ycombinator.com/item?id=47779730) - [Daily Claude outage is upon us. Waiting for Claude Status to update](https://claudestatus.com/)
+* [2026-04-15, 14:02:31](https://news.ycombinator.com/item?id=47779094) - [Gemini Robotics-ER 1.6](https://deepmind.google/blog/gemini-robotics-er-1-6/)
 * [2026-04-15, 13:50:04](https://news.ycombinator.com/item?id=47778946) - [Vibe Coding Fails](https://news.ycombinator.com/item?id=47778946)
 * [2026-04-15, 13:48:44](https://news.ycombinator.com/item?id=47778933) - [Sam Vimes 'Boots' Theory of Socio-Economic Unfairness](https://terrypratchett.com/explore-discworld/sam-vimes-boots-theory-of-socio-economic-unfairness/)
 * [2026-04-15, 13:47:40](https://news.ycombinator.com/item?id=47778920) - [US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
@@ -11,8 +14,11 @@
 * [2026-04-15, 13:22:10](https://news.ycombinator.com/item?id=47778617) - [MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints](https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/)
 * [2026-04-15, 13:08:10](https://news.ycombinator.com/item?id=47778475) - [God Sleeps in the Minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/)
 * [2026-04-15, 12:58:11](https://news.ycombinator.com/item?id=47778366) - [US national level OS-level age verification bill](https://social.coop/@cwebber/116408556882122186)
+* [2026-04-15, 12:51:13](https://news.ycombinator.com/item?id=47778308) - [AI ruling prompts warnings from US lawyers: Your chats could be used against you](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
 * [2026-04-15, 12:51:04](https://news.ycombinator.com/item?id=47778306) - [Show HN: Every CEO and CFO change at US public companies, live from SEC](https://tracksuccession.com/explore)
+* [2026-04-15, 12:26:12](https://news.ycombinator.com/item?id=47778087) - [Show HN: Pseudonymizing sensitive data for LLMs without losing context](https://atticsecurity.com/en/blog/why-llms-hate-fake-data-token-proxy/)
 * [2026-04-15, 12:26:11](https://news.ycombinator.com/item?id=47778086) - [Do you even need a database?](https://www.dbpro.app/blog/do-you-even-need-a-database)
+* [2026-04-15, 12:21:47](https://news.ycombinator.com/item?id=47778050) - [Study: Back-to-basics approach can match or outperform AI in language analysis](https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/)
 * [2026-04-15, 12:00:44](https://news.ycombinator.com/item?id=47777902) - [Proliferate (YC S25) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
 * [2026-04-15, 11:08:25](https://news.ycombinator.com/item?id=47777449) - [Academic fraud may be the symptom of a more systemic problem](https://www.voxweb.nl/en/academic-fraud-may-be-the-symptom-of-a-much-more-systemic-problem)
 * [2026-04-15, 10:42:28](https://news.ycombinator.com/item?id=47777209) - [Your Backpack Got Worse on Purpose](https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose)
