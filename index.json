@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-04-15, 17:00:56",
+      "https://news.ycombinator.com/item?id=47781912"
+    ],
+    [
+      "Adaptional (YC S25) Is Hiring Founding AI Engineers",
+      "https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 16:57:37",
+      "https://news.ycombinator.com/item?id=47781864"
+    ],
+    [
+      "Where the Heck Did My Taxes Go?",
+      "https://wherethefuckdidmytaxesgo.com/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 16:53:16",
+      "https://news.ycombinator.com/item?id=47781802"
+    ],
+    [
+      "The tiniest e-reader in the world, and you can build one yourself",
+      "https://www.androidauthority.com/tiny-e-reader-diy-3657661/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 16:19:48",
+      "https://news.ycombinator.com/item?id=47781286"
+    ],
+    [
+      "CRISPR takes a bold leap toward silencing Down syndrome's extra chromosome",
+      "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 15:57:54",
+      "https://news.ycombinator.com/item?id=47780971"
+    ],
+    [
+      "Show HN: Libretto – Making AI browser automations deterministic",
+      "https://github.com/saffron-health/libretto"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 15:43:37",
+      "https://news.ycombinator.com/item?id=47780712"
+    ],
+    [
+      "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
+      "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 14:44:00",
       "https://news.ycombinator.com/item?id=47779730"
     ],
@@ -21,32 +81,12 @@
   ],
   [
     [
-      "2026-04-15, 13:47:40",
-      "https://news.ycombinator.com/item?id=47778920"
-    ],
-    [
-      "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-      "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 13:34:11",
       "https://news.ycombinator.com/item?id=47778758"
     ],
     [
       "The Future of Everything Is Lies, I Guess: New Jobs",
       "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 13:22:10",
-      "https://news.ycombinator.com/item?id=47778617"
-    ],
-    [
-      "MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints",
-      "https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/"
     ]
   ],
   [
@@ -97,46 +137,6 @@
     [
       "Study: Back-to-basics approach can match or outperform AI in language analysis",
       "https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 12:20:13",
-      "https://news.ycombinator.com/item?id=47778038"
-    ],
-    [
-      "Allbirds, Inc. Announces Expansion into AI Compute Infrastructure",
-      "https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 12:00:44",
-      "https://news.ycombinator.com/item?id=47777902"
-    ],
-    [
-      "Proliferate (YC S25) Is Hiring Founding Engineers",
-      "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 11:08:25",
-      "https://news.ycombinator.com/item?id=47777449"
-    ],
-    [
-      "Academic fraud may be the symptom of a more systemic problem",
-      "https://www.voxweb.nl/en/academic-fraud-may-be-the-symptom-of-a-much-more-systemic-problem"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 10:42:28",
-      "https://news.ycombinator.com/item?id=47777209"
-    ],
-    [
-      "Your Backpack Got Worse on Purpose",
-      "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-04-14, 22:18:55",
-      "https://news.ycombinator.com/item?id=47772203"
-    ],
-    [
-      "H.R.8250 – To require operating system providers to verify the age of any user",
-      "https://www.congress.gov/bill/119th-congress/house-bill/8250/all-info"
-    ]
-  ],
-  [
-    [
       "2026-04-12, 17:52:03",
       "https://news.ycombinator.com/item?id=47742430"
     ],
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2026-04-12, 13:17:45",
-      "https://news.ycombinator.com/item?id=47739278"
+      "2026-04-12, 10:27:08",
+      "https://news.ycombinator.com/item?id=47738081"
     ],
     [
-      "My adventure in designing API keys",
-      "https://vjay15.github.io/blog/apikeys/"
+      "Fix monitor that goes black, off or blinks due to static electricity in chair",
+      "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/"
     ]
   ],
   [
@@ -271,11 +261,21 @@
   ],
   [
     [
+      "2026-04-11, 11:03:58",
+      "https://news.ycombinator.com/item?id=47729507"
+    ],
+    [
+      "How do Wake-On-LAN works",
+      "https://blog.xaner.dev/post/wake-on-lan/"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 17:01:26",
       "https://news.ycombinator.com/item?id=47720926"
     ],
     [
-      "Forcing an Inversion of Control on the SaaS Stack",
+      "Forcing an inversion of control on the SaaS stack",
       "https://www.100x.bot/a/client-side-injection-inversion-of-control-saas"
     ]
   ],
