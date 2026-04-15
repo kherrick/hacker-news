@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2026-04-15](index.md)
 
 * [2026-04-15, 09:41:19](https://news.ycombinator.com/item?id=47776796) - [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html)
+* [2026-04-15, 09:31:03](https://news.ycombinator.com/item?id=47776723) - ['Seeking connection': video game where players stopped shooting, started talking](https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking)
+* [2026-04-15, 09:24:31](https://news.ycombinator.com/item?id=47776667) - [Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared](https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows)
 * [2026-04-15, 09:11:18](https://news.ycombinator.com/item?id=47776557) - [Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm)
 * [2026-04-15, 08:33:58](https://news.ycombinator.com/item?id=47776252) - [Projected warming will exceed the long-term thermal limits of rice cultivation](https://www.nature.com/articles/s43247-025-03108-0)
 * [2026-04-15, 08:05:18](https://news.ycombinator.com/item?id=47776035) - [Anna's Archive Loses $322M Spotify Piracy Case Without a Fight](https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/)
 * [2026-04-15, 07:08:18](https://news.ycombinator.com/item?id=47775653) - [My AI-Assisted Workflow](https://www.maiobarbero.dev/articles/ai-assisted-workflow/)
+* [2026-04-15, 07:05:13](https://news.ycombinator.com/item?id=47775633) - [Claude may require identity verification in some cases](https://support.claude.com/en/articles/14328960-identity-verification-on-claude)
 * [2026-04-15, 07:04:45](https://news.ycombinator.com/item?id=47775628) - [Peter Steinberger – WhatsApp CLI: sync, search, send](https://github.com/steipete/wacli)
 * [2026-04-15, 07:00:18](https://news.ycombinator.com/item?id=47775606) - [MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup)
 * [2026-04-15, 05:54:29](https://news.ycombinator.com/item?id=47775183) - [Amazon to acquire Globalstar and expand Amazon Leo satellite network](https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network)
