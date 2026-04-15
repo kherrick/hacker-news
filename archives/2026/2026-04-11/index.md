@@ -6,6 +6,7 @@
 
 * [2026-04-11, 23:37:43](https://news.ycombinator.com/item?id=47734912) - [Midnight Captain – A midnight commander inspired file manager](https://github.com/duguyue100/midnight-captain)
 * [2026-04-11, 23:30:40](https://news.ycombinator.com/item?id=47734878) - [High-Level Rust: Getting 80% of the Benefits with 20% of the Pain](https://hamy.xyz/blog/2026-01_high-level-rust)
+* [2026-04-11, 22:40:42](https://news.ycombinator.com/item?id=47734629) - [What Is in Road Flares?](https://www.spiegl.org/rocket/flare/flare.html)
 * [2026-04-11, 20:58:48](https://news.ycombinator.com/item?id=47733971) - [Apple Silicon and Virtual Machines: Beating the 2 VM Limit](https://khronokernel.com/macos/2023/08/08/AS-VM.html)
 * [2026-04-11, 20:08:46](https://news.ycombinator.com/item?id=47733561) - [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269)
 * [2026-04-11, 20:01:59](https://news.ycombinator.com/item?id=47733521) - [Dark Castle](https://darkcastle.co.uk/)
