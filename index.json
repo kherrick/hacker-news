@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-04-15, 01:36:22",
+      "https://news.ycombinator.com/item?id=47773640"
+    ],
+    [
+      "OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports",
+      "https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 01:07:19",
+      "https://news.ycombinator.com/item?id=47773448"
+    ],
+    [
+      "The FCC just saved Netgear from its router ban for no obvious reason",
+      "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 23:41:43",
+      "https://news.ycombinator.com/item?id=47772906"
+    ],
+    [
+      "Apple App Store threatened to remove Grok over deepfakes: Letter",
+      "https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 22:00:11",
       "https://news.ycombinator.com/item?id=47772048"
     ],
     [
       "Fuck the cloud (2009)",
       "https://ascii.textfiles.com/archives/1717"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 21:56:05",
+      "https://news.ycombinator.com/item?id=47772012"
+    ],
+    [
+      "Stop Flock",
+      "https://stopflock.com"
     ]
   ],
   [
@@ -27,16 +67,6 @@
     [
       "Trusted access for the next era of cyber defense",
       "https://openai.com/index/scaling-trusted-access-for-cyber-defense/"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 19:18:53",
-      "https://news.ycombinator.com/item?id=47770124"
-    ],
-    [
-      "Gas Town: From Clown Show to v1.0",
-      "https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-04-14, 13:26:53",
-      "https://news.ycombinator.com/item?id=47765374"
-    ],
-    [
-      "Show HN: Kontext CLI – Credential broker for AI coding agents in Go",
-      "https://github.com/kontext-dev/kontext-cli"
-    ]
-  ],
-  [
-    [
       "2026-04-14, 10:33:39",
       "https://news.ycombinator.com/item?id=47763759"
     ],
@@ -167,16 +187,6 @@
     [
       "Introspective Diffusion Language Models",
       "https://introspective-diffusion.github.io/"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 06:31:44",
-      "https://news.ycombinator.com/item?id=47761997"
-    ],
-    [
-      "Distributed DuckDB Instance",
-      "https://github.com/citguru/openduck"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2026-04-11, 10:31:51",
+      "https://news.ycombinator.com/item?id=47729327"
+    ],
+    [
+      "Ask HN: Easiest UX for Seniors",
+      "https://news.ycombinator.com/item?id=47729327"
+    ]
+  ],
+  [
+    [
       "2026-04-11, 08:27:06",
       "https://news.ycombinator.com/item?id=47728662"
     ],
@@ -251,22 +271,22 @@
   ],
   [
     [
-      "2026-04-10, 18:43:00",
-      "https://news.ycombinator.com/item?id=47722031"
+      "2026-04-10, 22:36:24",
+      "https://news.ycombinator.com/item?id=47724571"
     ],
     [
-      "Carol's Causal Conundrum: a zine intro to causally ordered message delivery",
-      "https://decomposition.al/zines/"
+      "A Communist Apple II and Fourteen Years of Not Knowing What You're Testing",
+      "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/"
     ]
   ],
   [
     [
-      "2026-04-10, 12:06:43",
-      "https://news.ycombinator.com/item?id=47716840"
+      "2026-04-10, 17:14:18",
+      "https://news.ycombinator.com/item?id=47721076"
     ],
     [
-      "Nucleus Nouns",
-      "https://ben-mini.com/2026/nucleus-nouns"
+      "Understanding Clojure's Persistent Vectors, pt. 1 (2013)",
+      "https://hypirion.com/musings/understanding-persistent-vector-pt-1"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "guide.world: A compendium of travel guides",
       "https://guide.world/"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 15:50:54",
-      "https://news.ycombinator.com/item?id=47705278"
-    ],
-    [
-      "YouTube now world's largest media company, topping Disney",
-      "https://www.hollywoodreporter.com/business/digital/youtube-worlds-largest-media-company-2025-tops-disney-1236525130/"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 15:07:13",
-      "https://news.ycombinator.com/item?id=47704729"
-    ],
-    [
-      "The M×N problem of tool calling and open-source models",
-      "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract"
     ]
   ]
 ]
