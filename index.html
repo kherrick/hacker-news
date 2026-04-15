@@ -129,92 +129,66 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="47778946">
+        <section id="47779856">
           <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=47778946"
-              >Vibe Coding Fails</a
+            <a
+              class="item"
+              href="https://www.wired.com/story/deepfake-nudify-schools-global-crisis/"
+              >The Deepfake Nudes Crisis in Schools Is Worse Than You Thought</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-04-15 @ 13:50:04</span
+              <span>2026-04-15 @ 14:50:29</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47778946"
+                ><a href="https://news.ycombinator.com/item?id=47779856"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
-            <div class="text">
-              <p>
-                let me describe my workflow first - this has been my workflow
-                across hundreds of successful sessions: 1. identify bugs through
-                dogfooding 2. ask claude code to investigate the codebase for
-                three potential root causes. 3. paste the root causes and
-                proposed fixes to claude project where i store all architecture
-                doc and design decision for it to evaluate 4. discuss with
-                claude in project to write detailed task spec - the task spec
-                will have a specified format with all sorts of test 5. give it
-                back to claude code to implement the fix
-              </p>
-              <p>
-                in today's session, the root cause analysis was still great, but
-                the proposed fixes are so bad that i really think that's how
-                most of vibe coded project lost maintainability in the long run.
-              </p>
-              <p>there is two of the root causes and proposed fix:</p>
-              <p>
-                bug: agent asks for user approval, but sometimes the approval
-                popup doesnt show up. i tried sending a message to unstick it.
-                message got silently swallowed. agent looks dead. and i needed
-                to restart the entire thing.
-              </p>
-              <p>
-                claude's evaluation: root cause 1: the approval popup is sent
-                once over a live connection. if the user's ui isn't connected at
-                that moment — page refresh, phone backgrounded, flaky connection
-                — they never see it. no retry, no recovery.
-              </p>
-              <p>this is actually true.</p>
-              <p>
-                proposed fix "let's save approval state to disk so it survives
-                crashes". sounds fine but then the key is by design, if things
-                crashes, the agent will cold-resume from the session log, and it
-                wont pick up the approval state anyway. the fix just add schema
-                complexity and it's completely useless
-              </p>
-              <p>
-                root cause 2: when an approval gets interrupted (daemon crash,
-                user restart), there's an orphan tool_call in the session
-                history with no matching tool_result.
-              </p>
-              <p>
-                proposed fix: "write a synthetic tool_result to keep the session
-                file structurally valid." sounds clean. but i asked: who
-                actually breaks on this? the LLM API? no, it handles missing
-                results. the session replay? no, it reads what's there. the
-                orphan tool_call accurately represents what happened: the tool
-                was called but never completed. that's the truth. writing a fake
-                result to paper over it introduces a new write-coordination
-                concern (when exactly do you write the fake result? what if the
-                daemon crashes during the write?) to solve a problem that
-                doesn't exist. the session file isn't "broken." it's accurate.
-              </p>
-              <p>
-                claude had full architecture docs, the codebase, and over a
-                hundred sessions of project history in context. it still reaches
-                for the complex solution because it LOOKS like good engineering.
-                it never asked "does it even matter after a restart?"
-              </p>
-              <p>
-                i have personally encounterd this preference for seemingly more
-                robust over-engineering multiple times. and i genuinely believe
-                that this is where human operate actually should step in,
-                instead of giving an one-sentence requirement and watches agents
-                to do all sorts of "robust" engineering.
-              </p>
-            </div>
+          </section>
+        </section>
+        <section id="47779730">
+          <h3>
+            <a class="item" href="https://claudestatus.com/"
+              >Daily Claude outage is upon us. Waiting for Claude Status to
+              update</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-15 @ 14:44:00</span
+              ><span class="points-container"
+                >Points: <span class="points">177</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47779730"
+                  >Comments</a
+                ><span class="descendants">: 150</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47779094">
+          <h3>
+            <a
+              class="item"
+              href="https://deepmind.google/blog/gemini-robotics-er-1-6/"
+              >Gemini Robotics-ER 1.6</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-15 @ 14:02:31</span
+              ><span class="points-container"
+                >Points: <span class="points">91</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47779094"
+                  >Comments</a
+                ><span class="descendants">: 22</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="47778933">
@@ -229,11 +203,11 @@
             <h4>
               <span>2026-04-15 @ 13:48:44</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47778933"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -251,11 +225,11 @@
             <h4>
               <span>2026-04-15 @ 13:47:40</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47778920"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -272,11 +246,11 @@
             <h4>
               <span>2026-04-15 @ 13:34:11</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47778758"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -294,11 +268,11 @@
             <h4>
               <span>2026-04-15 @ 13:22:10</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47778617"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -315,11 +289,11 @@
             <h4>
               <span>2026-04-15 @ 13:08:10</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47778475"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -336,11 +310,33 @@
             <h4>
               <span>2026-04-15 @ 12:58:11</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47778366"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 75</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47778308">
+          <h3>
+            <a
+              class="item"
+              href="https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/"
+              >AI ruling prompts warnings from US lawyers: Your chats could be
+              used against you</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-15 @ 12:51:13</span
+              ><span class="points-container"
+                >Points: <span class="points">72</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47778308"
+                  >Comments</a
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -356,11 +352,11 @@
             <h4>
               <span>2026-04-15 @ 12:51:04</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47778306"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
             <div class="text">
@@ -372,23 +368,46 @@
             </div>
           </section>
         </section>
-        <section id="47778086">
+        <section id="47778087">
           <h3>
             <a
               class="item"
-              href="https://www.dbpro.app/blog/do-you-even-need-a-database"
-              >Do you even need a database?</a
+              href="https://atticsecurity.com/en/blog/why-llms-hate-fake-data-token-proxy/"
+              >Show HN: Pseudonymizing sensitive data for LLMs without losing
+              context</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-04-15 @ 12:26:11</span
+              <span>2026-04-15 @ 12:26:12</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">3</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47778086"
+                ><a href="https://news.ycombinator.com/item?id=47778087"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47778050">
+          <h3>
+            <a
+              class="item"
+              href="https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/"
+              >Study: Back-to-basics approach can match or outperform AI in
+              language analysis</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-15 @ 12:21:47</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47778050"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -422,32 +441,11 @@
             <h4>
               <span>2026-04-15 @ 11:08:25</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47777449"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47777209">
-          <h3>
-            <a
-              class="item"
-              href="https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose"
-              >Your Backpack Got Worse on Purpose</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-15 @ 10:42:28</span
-              ><span class="points-container"
-                >Points: <span class="points">128</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47777209"
-                  >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -462,11 +460,11 @@
             <h4>
               <span>2026-04-15 @ 09:41:19</span
               ><span class="points-container"
-                >Points: <span class="points">278</span></span
+                >Points: <span class="points">313</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47776796"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -484,11 +482,11 @@
             <h4>
               <span>2026-04-15 @ 09:24:31</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47776667"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -503,11 +501,11 @@
             <h4>
               <span>2026-04-15 @ 09:11:18</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">229</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47776557"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
@@ -522,11 +520,11 @@
             <h4>
               <span>2026-04-15 @ 07:04:45</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">179</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47775628"
                   >Comments</a
-                ><span class="descendants">: 120</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -544,11 +542,11 @@
             <h4>
               <span>2026-04-15 @ 05:19:06</span
               ><span class="points-container"
-                >Points: <span class="points">167</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47774971"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -565,11 +563,11 @@
             <h4>
               <span>2026-04-15 @ 04:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">219</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47774789"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
@@ -580,70 +578,11 @@
             <h4>
               <span>2026-04-14 @ 21:56:05</span
               ><span class="points-container"
-                >Points: <span class="points">861</span></span
+                >Points: <span class="points">893</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47772012"
                   >Comments</a
-                ><span class="descendants">: 229</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47768339">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/"
-              >Turn your best AI prompts into one-click tools in Chrome</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-14 @ 17:09:43</span
-              ><span class="points-container"
-                >Points: <span class="points">183</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47768339"
-                  >Comments</a
-                ><span class="descendants">: 100</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47768133">
-          <h3>
-            <a class="item" href="https://code.claude.com/docs/en/routines"
-              >Claude Code Routines</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-14 @ 16:54:33</span
-              ><span class="points-container"
-                >Points: <span class="points">683</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47768133"
-                  >Comments</a
-                ><span class="descendants">: 381</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47767676">
-          <h3>
-            <a class="item" href="https://kb.databasedesignbook.com/posts/5nf/"
-              >5NF and Database Design</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-14 @ 16:22:49</span
-              ><span class="points-container"
-                >Points: <span class="points">186</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47767676"
-                  >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 247</span></span
               >
             </h4>
           </section>
@@ -660,11 +599,11 @@
             <h4>
               <span>2026-04-12 @ 15:30:02</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47740879"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -682,32 +621,31 @@
             <h4>
               <span>2026-04-12 @ 15:26:24</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47740840"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47734629">
+        <section id="47732623">
           <h3>
-            <a
-              class="item"
-              href="https://www.spiegl.org/rocket/flare/flare.html"
-              >What Is in Road Flares?</a
+            <a class="item" href="https://www.youtube.com/watch?v=cltnlks2-uU"
+              >We ran Doom on a 40 year old printer controller (Agfa
+              Compugraphic 9000PS) [video]</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-04-11 @ 22:40:42</span
+              <span>2026-04-11 @ 17:59:14</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47734629"
+                ><a href="https://news.ycombinator.com/item?id=47732623"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -724,11 +662,11 @@
             <h4>
               <span>2026-04-11 @ 08:27:06</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47728662"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -743,7 +681,7 @@
             <h4>
               <span>2026-04-11 @ 00:47:06</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47725897"
                   >Comments</a
@@ -765,11 +703,11 @@
             <h4>
               <span>2026-04-10 @ 22:36:24</span
               ><span class="points-container"
-                >Points: <span class="points">215</span></span
+                >Points: <span class="points">219</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47724571"
                   >Comments</a
-                ><span class="descendants">: 94</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -786,11 +724,11 @@
             <h4>
               <span>2026-04-09 @ 19:39:06</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47708710"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -805,11 +743,11 @@
             <h4>
               <span>2026-04-09 @ 19:32:20</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47708627"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
