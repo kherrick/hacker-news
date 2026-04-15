@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-04-15, 18:16:50",
+      "https://news.ycombinator.com/item?id=47783024"
+    ],
+    [
+      "AI-Assisted Cognition Endangers Human Development",
+      "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 18:11:24",
+      "https://news.ycombinator.com/item?id=47782972"
+    ],
+    [
+      "Kalshi CEO expects US DOJ to prosecute insider trading cases",
+      "https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 17:44:26",
+      "https://news.ycombinator.com/item?id=47782570"
+    ],
+    [
+      "Google Broke Its Promise to Me. Now ICE Has My Data",
+      "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 17:07:36",
+      "https://news.ycombinator.com/item?id=47781998"
+    ],
+    [
+      "CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous",
+      "https://seqpu.com/CPUsArentDead/"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 17:00:56",
       "https://news.ycombinator.com/item?id=47781912"
     ],
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47781864"
     ],
     [
-      "Where the Heck Did My Taxes Go?",
+      "Where did my taxes go?",
       "https://wherethefuckdidmytaxesgo.com/"
     ]
   ],
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2026-04-15, 14:44:00",
-      "https://news.ycombinator.com/item?id=47779730"
-    ],
-    [
-      "Elevated errors on Claude.ai, API, Claude Code",
-      "https://claudestatus.com/"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 14:02:31",
       "https://news.ycombinator.com/item?id=47779094"
     ],
@@ -97,16 +127,6 @@
     [
       "God Sleeps in the Minerals",
       "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 12:51:13",
-      "https://news.ycombinator.com/item?id=47778308"
-    ],
-    [
-      "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
-      "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/"
     ]
   ],
   [
@@ -201,36 +221,6 @@
   ],
   [
     [
-      "2026-04-15, 02:03:12",
-      "https://news.ycombinator.com/item?id=47773812"
-    ],
-    [
-      "Dependency cooldowns turn you into a free-rider",
-      "https://calpaterson.com/deps.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 17:52:03",
-      "https://news.ycombinator.com/item?id=47742430"
-    ],
-    [
-      "New Modern Greek",
-      "https://redas.dev/NewModernGreek/"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 15:30:02",
-      "https://news.ycombinator.com/item?id=47740879"
-    ],
-    [
-      "MIT Radiation Laboratory",
-      "https://www.ll.mit.edu/about/history/mit-radiation-laboratory"
-    ]
-  ],
-  [
-    [
       "2026-04-12, 15:26:24",
       "https://news.ycombinator.com/item?id=47740840"
     ],
@@ -277,6 +267,16 @@
     [
       "Forcing an inversion of control on the SaaS stack",
       "https://www.100x.bot/a/client-side-injection-inversion-of-control-saas"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 05:54:15",
+      "https://news.ycombinator.com/item?id=47714142"
+    ],
+    [
+      "Show HN: GNU Grep as a PHP Extension",
+      "https://github.com/hparadiz/ext-gnu-grep"
     ]
   ],
   [
