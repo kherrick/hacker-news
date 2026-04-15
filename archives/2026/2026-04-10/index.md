@@ -12,6 +12,7 @@
 * [2026-04-10, 22:23:03](https://news.ycombinator.com/item?id=47724408) - [The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain](https://publicdomainreview.org/essay/the-great-majority/)
 * [2026-04-10, 22:16:40](https://news.ycombinator.com/item?id=47724352) - [Filing the Corners Off MacBooks](https://kentwalters.com/posts/corners/)
 * [2026-04-10, 21:56:33](https://news.ycombinator.com/item?id=47724118) - [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension)
+* [2026-04-10, 21:13:12](https://news.ycombinator.com/item?id=47723729) - [Game: Print Gallery Of An Artist, A brief exploration of recursive spaces](https://managore.itch.io/print-gallery-of-an-artist)
 * [2026-04-10, 20:24:56](https://news.ycombinator.com/item?id=47723243) - [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
 * [2026-04-10, 19:58:09](https://news.ycombinator.com/item?id=47722913) - [DOJ Top Antitrust Litigators Exit After Ticketmaster Accord](https://www.bloomberg.com/news/articles/2026-04-08/doj-top-antitrust-litigators-exit-after-ticketmaster-settlement)
 * [2026-04-10, 19:33:08](https://news.ycombinator.com/item?id=47722629) - [Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict](https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/)
