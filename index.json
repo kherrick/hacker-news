@@ -1,6 +1,96 @@
 [
   [
     [
+      "2026-04-15, 13:50:04",
+      "https://news.ycombinator.com/item?id=47778946"
+    ],
+    [
+      "Vibe Coding Fails",
+      "https://news.ycombinator.com/item?id=47778946"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 13:48:44",
+      "https://news.ycombinator.com/item?id=47778933"
+    ],
+    [
+      "Sam Vimes 'Boots' Theory of Socio-Economic Unfairness",
+      "https://terrypratchett.com/explore-discworld/sam-vimes-boots-theory-of-socio-economic-unfairness/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 13:47:40",
+      "https://news.ycombinator.com/item?id=47778920"
+    ],
+    [
+      "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+      "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 13:34:11",
+      "https://news.ycombinator.com/item?id=47778758"
+    ],
+    [
+      "The Future of Everything Is Lies, I Guess: New Jobs",
+      "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 13:22:10",
+      "https://news.ycombinator.com/item?id=47778617"
+    ],
+    [
+      "MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints",
+      "https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 13:08:10",
+      "https://news.ycombinator.com/item?id=47778475"
+    ],
+    [
+      "God Sleeps in the Minerals",
+      "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 12:58:11",
+      "https://news.ycombinator.com/item?id=47778366"
+    ],
+    [
+      "US national level OS-level age verification bill",
+      "https://social.coop/@cwebber/116408556882122186"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 12:51:04",
+      "https://news.ycombinator.com/item?id=47778306"
+    ],
+    [
+      "Show HN: Every CEO and CFO change at US public companies, live from SEC",
+      "https://tracksuccession.com/explore"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 12:26:11",
+      "https://news.ycombinator.com/item?id=47778086"
+    ],
+    [
+      "Do you even need a database?",
+      "https://www.dbpro.app/blog/do-you-even-need-a-database"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 12:00:44",
       "https://news.ycombinator.com/item?id=47777902"
     ],
@@ -11,22 +101,32 @@
   ],
   [
     [
+      "2026-04-15, 11:08:25",
+      "https://news.ycombinator.com/item?id=47777449"
+    ],
+    [
+      "Academic fraud may be the symptom of a more systemic problem",
+      "https://www.voxweb.nl/en/academic-fraud-may-be-the-symptom-of-a-much-more-systemic-problem"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 10:42:28",
+      "https://news.ycombinator.com/item?id=47777209"
+    ],
+    [
+      "Your Backpack Got Worse on Purpose",
+      "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 09:41:19",
       "https://news.ycombinator.com/item?id=47776796"
     ],
     [
       "Want to Write a Compiler? Just Read These Two Papers (2008)",
       "https://prog21.dadgum.com/30.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 09:31:03",
-      "https://news.ycombinator.com/item?id=47776723"
-    ],
-    [
-      "'Seeking connection': video game where players stopped shooting, started talking",
-      "https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking"
     ]
   ],
   [
@@ -51,42 +151,12 @@
   ],
   [
     [
-      "2026-04-15, 07:08:18",
-      "https://news.ycombinator.com/item?id=47775653"
-    ],
-    [
-      "My AI-Assisted Workflow",
-      "https://www.maiobarbero.dev/articles/ai-assisted-workflow/"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 07:05:13",
-      "https://news.ycombinator.com/item?id=47775633"
-    ],
-    [
-      "Claude may require identity verification in some cases",
-      "https://support.claude.com/en/articles/14328960-identity-verification-on-claude"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 07:04:45",
       "https://news.ycombinator.com/item?id=47775628"
     ],
     [
       "Wacli – WhatsApp CLI: sync, search, send",
       "https://github.com/steipete/wacli"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 05:54:29",
-      "https://news.ycombinator.com/item?id=47775183"
-    ],
-    [
-      "Amazon to acquire Globalstar and expand Amazon Leo satellite network",
-      "https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network"
     ]
   ],
   [
@@ -107,26 +177,6 @@
     [
       "Fixing a 20-year-old bug in Enlightenment E16",
       "https://iczelia.net/posts/e16-20-year-old-bug/"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 02:03:12",
-      "https://news.ycombinator.com/item?id=47773812"
-    ],
-    [
-      "Dependency cooldowns turn you into a free-rider",
-      "https://calpaterson.com/deps.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 01:59:18",
-      "https://news.ycombinator.com/item?id=47773788"
-    ],
-    [
-      "Not all elementary functions can be expressed with exp-minus-log",
-      "https://www.stylewarning.com/posts/not-all-elementary/"
     ]
   ],
   [
@@ -171,36 +221,6 @@
   ],
   [
     [
-      "2026-04-14, 13:46:31",
-      "https://news.ycombinator.com/item?id=47765604"
-    ],
-    [
-      "Rare concert recordings are landing on the Internet Archive",
-      "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 23:44:24",
-      "https://news.ycombinator.com/item?id=47759420"
-    ],
-    [
-      "The dangers of California's legislation to censor 3D printing",
-      "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 22:41:19",
-      "https://news.ycombinator.com/item?id=47758870"
-    ],
-    [
-      "Let's talk space toilets",
-      "https://mceglowski.substack.com/p/lets-talk-space-toilets"
-    ]
-  ],
-  [
-    [
       "2026-04-12, 15:30:02",
       "https://news.ycombinator.com/item?id=47740879"
     ],
@@ -217,16 +237,6 @@
     [
       "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
       "https://en.wikipedia.org/wiki/Costasiella_kuroshimae"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 13:17:45",
-      "https://news.ycombinator.com/item?id=47739278"
-    ],
-    [
-      "My adventure in designing API keys",
-      "https://vjay15.github.io/blog/apikeys/"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2026-04-10, 19:41:45",
-      "https://news.ycombinator.com/item?id=47722731"
+      "2026-04-09, 19:39:06",
+      "https://news.ycombinator.com/item?id=47708710"
     ],
     [
-      "PCBWay sponsorship: full-size SD module for Arduino projects",
-      "https://www.colino.net/wordpress/archives/2026/04/10/pcbway-sponsorship-full-size-sd-module-for-arduino-projects/"
+      "Metro stop is Ancient Rome's new attraction",
+      "https://www.bbc.com/travel/article/20260408-a-150-metro-ticket-to-ancient-rome"
     ]
   ],
   [
     [
-      "2026-04-10, 17:14:18",
-      "https://news.ycombinator.com/item?id=47721076"
+      "2026-04-09, 19:32:20",
+      "https://news.ycombinator.com/item?id=47708627"
     ],
     [
-      "Understanding Clojure's Persistent Vectors, pt. 1 (2013)",
-      "https://hypirion.com/musings/understanding-persistent-vector-pt-1"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 18:17:32",
-      "https://news.ycombinator.com/item?id=47707382"
-    ],
-    [
-      "Guide.world: A compendium of travel guides",
-      "https://guide.world/"
+      "Pretty Fish: A better mermaid diagram editor",
+      "https://pretty.fish/"
     ]
   ]
 ]
