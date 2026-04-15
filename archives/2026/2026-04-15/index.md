@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-15](index.md)
 
+* [2026-04-15, 19:31:33](https://news.ycombinator.com/item?id=47784060) - [Show HN: Jeeves – TUI for browsing and resuming AI agent sessions](https://github.com/robinovitch61/jeeves)
+* [2026-04-15, 19:30:52](https://news.ycombinator.com/item?id=47784045) - [Flock employees caught watching kids gymnastic class and pools](https://substack.com/home/post/p-193593234)
+* [2026-04-15, 19:22:10](https://news.ycombinator.com/item?id=47783940) - [Is anyone actually using OpenClaw?](https://news.ycombinator.com/item?id=47783940)
+* [2026-04-15, 19:17:12](https://news.ycombinator.com/item?id=47783873) - [Jury Finds Live Nation Acts as a Monopoly in a Victory for States](https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html)
+* [2026-04-15, 19:06:39](https://news.ycombinator.com/item?id=47783713) - [Live Nation Illegally Monopolized Ticketing Market, Jury Finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds)
+* [2026-04-15, 18:35:45](https://news.ycombinator.com/item?id=47783278) - [Users lose $9.5M to fake Ledger wallet app on the Apple App Store](https://www.web3isgoinggreat.com/?id=fake-ledger-app)
 * [2026-04-15, 18:16:50](https://news.ycombinator.com/item?id=47783024) - [AI-Assisted Cognition Endangers Human Development](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
 * [2026-04-15, 18:11:24](https://news.ycombinator.com/item?id=47782972) - [Kalshi CEO expects US DOJ to prosecute insider trading cases](https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases)
 * [2026-04-15, 17:44:26](https://news.ycombinator.com/item?id=47782570) - [Google Broke Its Promise to Me. Now ICE Has My Data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data)
@@ -14,6 +20,7 @@
 * [2026-04-15, 16:19:48](https://news.ycombinator.com/item?id=47781286) - [CRISPR takes a bold leap toward silencing Down syndrome's extra chromosome](https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html)
 * [2026-04-15, 15:57:54](https://news.ycombinator.com/item?id=47780971) - [Show HN: Libretto – Making AI browser automations deterministic](https://github.com/saffron-health/libretto)
 * [2026-04-15, 15:43:37](https://news.ycombinator.com/item?id=47780712) - [Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson](https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats)
+* [2026-04-15, 15:26:46](https://news.ycombinator.com/item?id=47780456) - [Cal.com is going closed source](https://cal.com/blog/cal-com-goes-closed-source-why)
 * [2026-04-15, 14:50:29](https://news.ycombinator.com/item?id=47779856) - [The Deepfake Nudes Crisis in Schools Is Worse Than You Thought](https://www.wired.com/story/deepfake-nudify-schools-global-crisis/)
 * [2026-04-15, 14:44:00](https://news.ycombinator.com/item?id=47779730) - [Daily Claude outage is upon us. Waiting for Claude Status to update](https://claudestatus.com/)
 * [2026-04-15, 14:02:31](https://news.ycombinator.com/item?id=47779094) - [Gemini Robotics-ER 1.6](https://deepmind.google/blog/gemini-robotics-er-1-6/)
