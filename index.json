@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-04-15, 22:29:40",
+      "https://news.ycombinator.com/item?id=47786183"
+    ],
+    [
+      "The Rise of the Em-Dash in Hacker News Comments",
+      "https://boazsobrado.com/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 22:27:54",
+      "https://news.ycombinator.com/item?id=47786164"
+    ],
+    [
+      "I made a terminal pager",
+      "https://theleo.zone/posts/pager/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 22:05:44",
+      "https://news.ycombinator.com/item?id=47785948"
+    ],
+    [
+      "Ohio prison inmates 'built computers and hid them in ceiling",
+      "https://www.bbc.com/news/technology-39576394"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 21:48:18",
       "https://news.ycombinator.com/item?id=47785738"
     ],
     [
       "The buns in McDonald's Japan's burger photos are all slightly askew",
       "https://www.mcdonalds.co.jp/en/menu/burger/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 21:35:38",
+      "https://news.ycombinator.com/item?id=47785582"
+    ],
+    [
+      "Hacker News CLI",
+      "https://pythonhosted.org/hackernews-cli/commands.html"
     ]
   ],
   [
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47784397"
     ],
     [
-      "One Interface, Every Protocol",
+      "One interface, every protocol",
       "https://openbindings.com/blog/one-interface-every-protocol"
     ]
   ],
@@ -47,16 +87,6 @@
     [
       "PiCore - Raspberry Pi Port of Tiny Core Linux",
       "http://tinycorelinux.net/5.x/armv6/releases/README"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 19:30:52",
-      "https://news.ycombinator.com/item?id=47784045"
-    ],
-    [
-      "Why are Flock employees watching our children?",
-      "https://substack.com/home/post/p-193593234"
     ]
   ],
   [
@@ -121,6 +151,16 @@
   ],
   [
     [
+      "2026-04-15, 16:19:48",
+      "https://news.ycombinator.com/item?id=47781286"
+    ],
+    [
+      "CRISPR takes important step toward silencing Down syndrome’s extra chromosome",
+      "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 15:57:54",
       "https://news.ycombinator.com/item?id=47780971"
     ],
@@ -161,6 +201,16 @@
   ],
   [
     [
+      "2026-04-15, 12:00:24",
+      "https://news.ycombinator.com/item?id=47777897"
+    ],
+    [
+      "Retrofitting JIT Compilers into C Interpreters",
+      "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 09:41:19",
       "https://news.ycombinator.com/item?id=47776796"
     ],
@@ -187,16 +237,6 @@
     [
       "Anna's Archive loses $322M Spotify piracy case without a fight",
       "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 07:04:45",
-      "https://news.ycombinator.com/item?id=47775628"
-    ],
-    [
-      "Wacli – WhatsApp CLI",
-      "https://github.com/steipete/wacli"
     ]
   ],
   [
@@ -245,58 +285,18 @@
       "https://news.ycombinator.com/item?id=47738081"
     ],
     [
-      "Fix monitor that goes black, off or blinks due to static electricity in chair",
+      "Fixing a monitor that goes black, off or blinks due to static electricity (2023)",
       "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/"
     ]
   ],
   [
     [
-      "2026-04-11, 12:17:29",
-      "https://news.ycombinator.com/item?id=47729925"
+      "2026-04-10, 17:01:26",
+      "https://news.ycombinator.com/item?id=47720926"
     ],
     [
-      "Show HN: I rebuilt a 2000s browser strategy game on Cloudflare's edge",
-      "https://kampfinsel.com/"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 11:03:58",
-      "https://news.ycombinator.com/item?id=47729507"
-    ],
-    [
-      "How Wake-On-LAN works (2020)",
-      "https://blog.xaner.dev/post/wake-on-lan/"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 05:54:15",
-      "https://news.ycombinator.com/item?id=47714142"
-    ],
-    [
-      "Show HN: GNU grep as a PHP extension",
-      "https://github.com/hparadiz/ext-gnu-grep"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 19:39:06",
-      "https://news.ycombinator.com/item?id=47708710"
-    ],
-    [
-      "Metro stop is Ancient Rome's new attraction",
-      "https://www.bbc.com/travel/article/20260408-a-150-metro-ticket-to-ancient-rome"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 19:32:20",
-      "https://news.ycombinator.com/item?id=47708627"
-    ],
-    [
-      "Pretty Fish: A better mermaid diagram editor",
-      "https://pretty.fish/"
+      "Forcing an inversion of control on the SaaS stack",
+      "https://www.100x.bot/a/client-side-injection-inversion-of-control-saas"
     ]
   ]
 ]
