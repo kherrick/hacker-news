@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-15, 05:54:29",
+      "https://news.ycombinator.com/item?id=47775183"
+    ],
+    [
+      "Amazon to acquire Globalstar and expand Amazon Leo satellite network",
+      "https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 04:47:00",
+      "https://news.ycombinator.com/item?id=47774789"
+    ],
+    [
+      "Fixing a 20-year-old bug in Enlightenment E16",
+      "https://iczelia.net/posts/e16-20-year-old-bug/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 04:45:37",
+      "https://news.ycombinator.com/item?id=47774781"
+    ],
+    [
+      "Saying goodbye to Agile",
+      "https://lewiscampbell.tech/blog/260414.html"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 02:03:12",
       "https://news.ycombinator.com/item?id=47773812"
     ],
@@ -31,32 +61,12 @@
   ],
   [
     [
-      "2026-04-14, 23:41:43",
-      "https://news.ycombinator.com/item?id=47772906"
-    ],
-    [
-      "Apple App Store threatened to remove Grok over deepfakes: Letter",
-      "https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677"
-    ]
-  ],
-  [
-    [
       "2026-04-14, 21:56:05",
       "https://news.ycombinator.com/item?id=47772012"
     ],
     [
       "Stop Flock",
       "https://stopflock.com"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 20:42:21",
-      "https://news.ycombinator.com/item?id=47771220"
-    ],
-    [
-      "Free, fast diagnostic tools for DNS, email authentication, and network security",
-      "https://mrdns.com/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "I wrote to Flock's privacy contact to opt out of their domestic spying program",
       "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 17:45:34",
-      "https://news.ycombinator.com/item?id=47768788"
-    ],
-    [
-      "OpenSSL 4.0.0",
-      "https://github.com/openssl/openssl/releases/tag/openssl-4.0.0"
     ]
   ],
   [
@@ -141,32 +141,12 @@
   ],
   [
     [
-      "2026-04-14, 14:48:46",
-      "https://news.ycombinator.com/item?id=47766370"
-    ],
-    [
-      "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
-      "https://github.com/ginlix-ai/langalpha"
-    ]
-  ],
-  [
-    [
       "2026-04-14, 13:46:31",
       "https://news.ycombinator.com/item?id=47765604"
     ],
     [
       "Rare concert recordings are landing on the Internet Archive",
       "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 08:30:27",
-      "https://news.ycombinator.com/item?id=47762864"
-    ],
-    [
-      "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
-      "https://rareese.com/posts/backblaze/"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2026-04-12, 13:17:45",
+      "https://news.ycombinator.com/item?id=47739278"
+    ],
+    [
+      "My adventure in designing API keys",
+      "https://vjay15.github.io/blog/apikeys/"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 12:40:34",
       "https://news.ycombinator.com/item?id=47738962"
     ],
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=47728662"
     ],
     [
-      "Picasso's Guernica (Gigapixel)",
+      "Picasso’s Guernica (Gigapixel)",
       "https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59"
     ]
   ],
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2026-04-10, 19:41:45",
+      "https://news.ycombinator.com/item?id=47722731"
+    ],
+    [
+      "PCBWay sponsorship: full-size SD module for Arduino projects",
+      "https://www.colino.net/wordpress/archives/2026/04/10/pcbway-sponsorship-full-size-sd-module-for-arduino-projects/"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 17:14:18",
       "https://news.ycombinator.com/item?id=47721076"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=47707382"
     ],
     [
-      "guide.world: A compendium of travel guides",
+      "Guide.world: A compendium of travel guides",
       "https://guide.world/"
     ]
   ]
