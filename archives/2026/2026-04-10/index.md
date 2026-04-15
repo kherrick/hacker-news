@@ -81,6 +81,7 @@
 * [2026-04-10, 07:04:17](https://news.ycombinator.com/item?id=47714573) - [Artemis II and the invisible hazard on the way to the Moon](https://www.ansto.gov.au/news/artemis-ii-and-invisible-hazard-on-way-to-moon-part-1)
 * [2026-04-10, 06:15:46](https://news.ycombinator.com/item?id=47714273) - [Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia](https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia)
 * [2026-04-10, 06:09:47](https://news.ycombinator.com/item?id=47714239) - [The tool that won't let AI say anything it can't cite](https://github.com/grainulation/grainulator)
+* [2026-04-10, 05:54:15](https://news.ycombinator.com/item?id=47714142) - [Show HN: GNU Grep as a PHP Extension](https://github.com/hparadiz/ext-gnu-grep)
 * [2026-04-10, 05:03:22](https://news.ycombinator.com/item?id=47713839) - [YouTube locked my accounts and I can't cancel my subscription](https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html)
 * [2026-04-10, 04:43:05](https://news.ycombinator.com/item?id=47713744) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer)
 * [2026-04-10, 04:17:28](https://news.ycombinator.com/item?id=47713584) - [Hip-hop pioneer, Afrika Bambaataa, dies aged 68](https://www.bbc.co.uk/news/articles/c2evppm30p7o)
