@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-15](index.md)
 
+* [2026-04-15, 12:00:44](https://news.ycombinator.com/item?id=47777902) - [Proliferate (YC S25) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
 * [2026-04-15, 09:41:19](https://news.ycombinator.com/item?id=47776796) - [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html)
 * [2026-04-15, 09:31:03](https://news.ycombinator.com/item?id=47776723) - ['Seeking connection': video game where players stopped shooting, started talking](https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking)
 * [2026-04-15, 09:24:31](https://news.ycombinator.com/item?id=47776667) - [Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared](https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows)

@@ -30,6 +30,7 @@
 * [2026-04-12, 16:24:43](https://news.ycombinator.com/item?id=47741527) - [Ask HN: What Are You Working On? (April 2026)](https://news.ycombinator.com/item?id=47741527)
 * [2026-04-12, 16:17:59](https://news.ycombinator.com/item?id=47741460) - [Investigating How Long-Distance Couples Use Digital Games to Facilitate Intimacy](https://arxiv.org/abs/2505.09509)
 * [2026-04-12, 16:10:51](https://news.ycombinator.com/item?id=47741393) - [Textbooks and Methods of Note-Taking in Early Modern Europe (2008)](https://dash.harvard.edu/server/api/core/bitstreams/7312037d-e342-6bd4-e053-0100007fdf3b/content)
+* [2026-04-12, 15:30:02](https://news.ycombinator.com/item?id=47740879) - [MIT Radiation Laboratory](https://www.ll.mit.edu/about/history/mit-radiation-laboratory)
 * [2026-04-12, 15:26:24](https://news.ycombinator.com/item?id=47740840) - [Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis](https://en.wikipedia.org/wiki/Costasiella_kuroshimae)
 * [2026-04-12, 14:43:23](https://news.ycombinator.com/item?id=47740315) - [Eternity in six hours: Intergalactic spreading of intelligent life (2013)](https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox)
 * [2026-04-12, 13:21:39](https://news.ycombinator.com/item?id=47739313) - [Seven countries now generate 100% of their electricity from renewable energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html)
