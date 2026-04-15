@@ -15,6 +15,7 @@
 * [2026-04-09, 20:59:51](https://news.ycombinator.com/item?id=47710007) - [Moving from WordPress to Jekyll (and static site generators in general)](https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/)
 * [2026-04-09, 20:54:35](https://news.ycombinator.com/item?id=47709917) - [Show HN: I built a weather site for the Eastern Caribbean](https://news.ycombinator.com/item?id=47709917)
 * [2026-04-09, 20:17:50](https://news.ycombinator.com/item?id=47709251) - [Netflix Prices Went Up Again – I Bought a DVD Player Instead](https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/)
+* [2026-04-09, 20:14:37](https://news.ycombinator.com/item?id=47709203) - [Seed: Adding `vau` with an immutable dynamic environment to Chez Scheme](https://github.com/amirouche/seed)
 * [2026-04-09, 20:12:07](https://news.ycombinator.com/item?id=47709158) - [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
 * [2026-04-09, 20:10:25](https://news.ycombinator.com/item?id=47709130) - [Discovering, detecting, and surgically removing Google's AI watermark](https://github.com/aloshdenny/reverse-SynthID)
 * [2026-04-09, 19:48:26](https://news.ycombinator.com/item?id=47708818) - [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
