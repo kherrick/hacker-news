@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-15, 22:29:40](https://news.ycombinator.com/item?id=47786183) - [The Rise of the Em-Dash in Hacker News Comments](https://boazsobrado.com/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/)
+* [2026-04-15, 23:36:56](https://news.ycombinator.com/item?id=47786791) - [YouTube now lets you turn off Shorts](https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes)
 * [2026-04-15, 22:27:54](https://news.ycombinator.com/item?id=47786164) - [I made a terminal pager](https://theleo.zone/posts/pager/)
-* [2026-04-15, 22:05:44](https://news.ycombinator.com/item?id=47785948) - [Ohio prison inmates 'built computers and hid them in ceiling](https://www.bbc.com/news/technology-39576394)
+* [2026-04-15, 22:05:44](https://news.ycombinator.com/item?id=47785948) - [Ohio prison inmates 'built computers and hid them in ceiling (2017)](https://www.bbc.com/news/technology-39576394)
 * [2026-04-15, 21:48:18](https://news.ycombinator.com/item?id=47785738) - [The buns in McDonald's Japan's burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/)
 * [2026-04-15, 21:35:38](https://news.ycombinator.com/item?id=47785582) - [Hacker News CLI](https://pythonhosted.org/hackernews-cli/commands.html)
 * [2026-04-15, 21:21:05](https://news.ycombinator.com/item?id=47785397) - [ChatGPT for Excel](https://chatgpt.com/apps/spreadsheets/)
@@ -11,7 +11,6 @@
 * [2026-04-15, 19:45:47](https://news.ycombinator.com/item?id=47784244) - [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README)
 * [2026-04-15, 19:22:10](https://news.ycombinator.com/item?id=47783940) - [Ask HN: Who is using OpenClaw?](https://news.ycombinator.com/item?id=47783940)
 * [2026-04-15, 19:06:39](https://news.ycombinator.com/item?id=47783713) - [Live Nation illegally monopolized ticketing market, jury finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds)
-* [2026-04-15, 18:11:24](https://news.ycombinator.com/item?id=47782972) - [Kalshi CEO expects US DOJ to prosecute insider trading cases](https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases)
 * [2026-04-15, 17:44:26](https://news.ycombinator.com/item?id=47782570) - [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data)
 * [2026-04-15, 17:25:52](https://news.ycombinator.com/item?id=47782256) - [The Gemini app is now on Mac](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/)
 * [2026-04-15, 17:00:56](https://news.ycombinator.com/item?id=47781912) - [Adaptional (YC S25) is hiring AI engineers](https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer)
@@ -29,6 +28,7 @@
 * [2026-04-12, 15:26:24](https://news.ycombinator.com/item?id=47740840) - [Costasiella kuroshimae](https://en.wikipedia.org/wiki/Costasiella_kuroshimae)
 * [2026-04-12, 11:24:18](https://news.ycombinator.com/item?id=47738420) - [Golden eagles' return to English skies](https://www.bbc.co.uk/news/articles/cje4zlxqkqdo)
 * [2026-04-12, 10:27:08](https://news.ycombinator.com/item?id=47738081) - [Fixing a monitor that goes black, off or blinks due to static electricity (2023)](https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/)
+* [2026-04-11, 23:17:50](https://news.ycombinator.com/item?id=47734815) - [PBS Nova: Terror in Space (1998)](https://www.pbs.org/wgbh/nova/mir/)
 * [2026-04-10, 17:01:26](https://news.ycombinator.com/item?id=47720926) - [Forcing an inversion of control on the SaaS stack](https://www.100x.bot/a/client-side-injection-inversion-of-control-saas)
 
 ## [Archives](archives/index.md)
