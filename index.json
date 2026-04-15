@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-04-15, 09:31:03",
+      "https://news.ycombinator.com/item?id=47776723"
+    ],
+    [
+      "'Seeking connection': video game where players stopped shooting, started talking",
+      "https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 09:24:31",
+      "https://news.ycombinator.com/item?id=47776667"
+    ],
+    [
+      "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
+      "https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 09:11:18",
       "https://news.ycombinator.com/item?id=47776557"
     ],
@@ -21,22 +41,22 @@
   ],
   [
     [
-      "2026-04-15, 08:33:58",
-      "https://news.ycombinator.com/item?id=47776252"
-    ],
-    [
-      "Projected warming will exceed the long-term thermal limits of rice cultivation",
-      "https://www.nature.com/articles/s43247-025-03108-0"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 07:08:18",
       "https://news.ycombinator.com/item?id=47775653"
     ],
     [
       "My AI-Assisted Workflow",
       "https://www.maiobarbero.dev/articles/ai-assisted-workflow/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 07:05:13",
+      "https://news.ycombinator.com/item?id=47775633"
+    ],
+    [
+      "Claude may require identity verification in some cases",
+      "https://support.claude.com/en/articles/14328960-identity-verification-on-claude"
     ]
   ],
   [
@@ -191,22 +211,22 @@
   ],
   [
     [
+      "2026-04-12, 15:26:24",
+      "https://news.ycombinator.com/item?id=47740840"
+    ],
+    [
+      "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
+      "https://en.wikipedia.org/wiki/Costasiella_kuroshimae"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 13:17:45",
       "https://news.ycombinator.com/item?id=47739278"
     ],
     [
       "My adventure in designing API keys",
       "https://vjay15.github.io/blog/apikeys/"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 05:09:37",
-      "https://news.ycombinator.com/item?id=47736308"
-    ],
-    [
-      "Founders Need to Be Ruthless When Chasing Deals",
-      "https://steveblank.com/2024/04/16/founders-need-to-be-ruthless-when-chasing-deals/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-04-10, 19:41:45",
-      "https://news.ycombinator.com/item?id=47722731"
-    ],
-    [
-      "PCBWay sponsorship: full-size SD module for Arduino projects",
-      "https://www.colino.net/wordpress/archives/2026/04/10/pcbway-sponsorship-full-size-sd-module-for-arduino-projects/"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 17:14:18",
       "https://news.ycombinator.com/item?id=47721076"
     ],
     [
       "Understanding Clojure's Persistent Vectors, pt. 1 (2013)",
       "https://hypirion.com/musings/understanding-persistent-vector-pt-1"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 20:14:37",
-      "https://news.ycombinator.com/item?id=47709203"
-    ],
-    [
-      "Seed: Adding `vau` with an immutable dynamic environment to Chez Scheme",
-      "https://github.com/amirouche/seed"
     ]
   ],
   [
