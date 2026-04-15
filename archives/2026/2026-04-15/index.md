@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-15](index.md)
 
+* [2026-04-15, 19:45:47](https://news.ycombinator.com/item?id=47784244) - [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README)
+* [2026-04-15, 19:31:38](https://news.ycombinator.com/item?id=47784061) - [Farmer Arrested for Speaking Too Long at Datacenter Town Hall Vows to Fight](https://www.404media.co/farmer-arrested-for-speaking-too-long-at-datacenter-town-hall-vows-to-fight/)
 * [2026-04-15, 19:31:33](https://news.ycombinator.com/item?id=47784060) - [Show HN: Jeeves – TUI for browsing and resuming AI agent sessions](https://github.com/robinovitch61/jeeves)
 * [2026-04-15, 19:30:52](https://news.ycombinator.com/item?id=47784045) - [Flock employees caught watching kids gymnastic class and pools](https://substack.com/home/post/p-193593234)
 * [2026-04-15, 19:22:10](https://news.ycombinator.com/item?id=47783940) - [Is anyone actually using OpenClaw?](https://news.ycombinator.com/item?id=47783940)
