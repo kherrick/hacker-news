@@ -69,6 +69,7 @@
 * [2026-04-13, 05:39:24](https://news.ycombinator.com/item?id=47748036) - [X Randomly Banning Users for \"Inauthentic Behavior\"](https://old.reddit.com/r/LinusTechTips/comments/1rsdk7i/anybody_here_talking_about_the_massive/)
 * [2026-04-13, 04:57:48](https://news.ycombinator.com/item?id=47747770) - [The paper computer](https://jsomers.net/blog/the-paper-computer)
 * [2026-04-13, 04:26:15](https://news.ycombinator.com/item?id=47747595) - [A Canonical Generalization of OBDD](https://arxiv.org/abs/2604.05537)
+* [2026-04-13, 03:56:41](https://news.ycombinator.com/item?id=47747407) - [IBM AP-101 general-purpose computer [pdf]](https://gandalfddi.z19.web.core.windows.net/Shuttle/IBM%20AP-101S%20General%20Purpose%20Computer%20With%20Shuttle%20Instruction%20Set.pdf)
 * [2026-04-13, 03:31:02](https://news.ycombinator.com/item?id=47747248) - [Haunt, the 70s text adventure game, is now playable on a website](https://haunt.madebywindmill.com)
 * [2026-04-13, 02:53:10](https://news.ycombinator.com/item?id=47747017) - [Apple's accidental moat: How the \"AI Loser\" may end up winning](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
 * [2026-04-13, 01:49:32](https://news.ycombinator.com/item?id=47746610) - [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
