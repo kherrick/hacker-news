@@ -71,6 +71,7 @@
 * [2026-04-15, 05:19:06](https://news.ycombinator.com/item?id=47774971) - [Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://www.gizmoweek.com/gemma-4-runs-iphone/)
 * [2026-04-15, 04:47:00](https://news.ycombinator.com/item?id=47774789) - [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/)
 * [2026-04-15, 04:45:37](https://news.ycombinator.com/item?id=47774781) - [Saying goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
+* [2026-04-15, 02:39:05](https://news.ycombinator.com/item?id=47774039) - [The Accursèd Alphabetical Clock](https://boat.horse/clock/index.html)
 * [2026-04-15, 02:03:12](https://news.ycombinator.com/item?id=47773812) - [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html)
 * [2026-04-15, 01:59:18](https://news.ycombinator.com/item?id=47773788) - [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
 * [2026-04-15, 01:36:22](https://news.ycombinator.com/item?id=47773640) - [OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports](https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/)
