@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-16](index.md)
 
+* [2026-04-16, 10:57:13](https://news.ycombinator.com/item?id=47791282) - [Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]](https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf)
+* [2026-04-16, 10:44:45](https://news.ycombinator.com/item?id=47791212) - [Codex Hacked a Samsung TV](https://blog.calif.io/p/codex-hacked-a-samsung-tv)
 * [2026-04-16, 07:01:29](https://news.ycombinator.com/item?id=47789607) - [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead)
 * [2026-04-16, 05:07:05](https://news.ycombinator.com/item?id=47788857) - [IPv8 Proposal](https://www.ietf.org/archive/id/draft-thain-ipv8-00.html)
 * [2026-04-16, 05:05:44](https://news.ycombinator.com/item?id=47788845) - [Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan](https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/)
