@@ -1,52 +1,92 @@
 [
   [
     [
+      "2026-04-16, 05:07:05",
+      "https://news.ycombinator.com/item?id=47788857"
+    ],
+    [
+      "IPv8 Proposal",
+      "https://www.ietf.org/archive/id/draft-thain-ipv8-00.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 05:05:44",
+      "https://news.ycombinator.com/item?id=47788845"
+    ],
+    [
+      "Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan",
+      "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 05:01:05",
+      "https://news.ycombinator.com/item?id=47788818"
+    ],
+    [
+      "Airbnb discloses a billion-series Prometheus metrics pipeline",
+      "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 04:22:56",
+      "https://news.ycombinator.com/item?id=47788633"
+    ],
+    [
+      "A Look into NaviDial, Japan's Legacy Phone Service",
+      "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 04:06:39",
+      "https://news.ycombinator.com/item?id=47788542"
+    ],
+    [
+      "Darkbloom – Private inference on idle Macs",
+      "https://darkbloom.dev"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 03:54:21",
+      "https://news.ycombinator.com/item?id=47788473"
+    ],
+    [
+      "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+      "https://github.com/Nightmare-Eclipse/RedSun"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 03:44:38",
+      "https://news.ycombinator.com/item?id=47788424"
+    ],
+    [
+      "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "https://daedal.io/@thomzane/116410863009847575"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 02:28:18",
+      "https://news.ycombinator.com/item?id=47787947"
+    ],
+    [
+      "Show HN: Hiraeth – AWS Emulator",
+      "https://github.com/SethPyle376/hiraeth"
+    ]
+  ],
+  [
+    [
       "2026-04-16, 02:16:50",
       "https://news.ycombinator.com/item?id=47787877"
     ],
     [
-      "Stealth Satellite TV Defeats Iran's Internet Blackout",
+      "Stealth signals are bypassing Iran’s internet blackout",
       "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 02:13:23",
-      "https://news.ycombinator.com/item?id=47787854"
-    ],
-    [
-      "Arguing with Agents",
-      "https://blowmage.com/2026/04/14/arguing-with-agents/"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 01:37:49",
-      "https://news.ycombinator.com/item?id=47787643"
-    ],
-    [
-      "Keycard – inject API keys into subprocesses, never touch shell env",
-      "https://www.keycard.studio/"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 01:25:33",
-      "https://news.ycombinator.com/item?id=47787587"
-    ],
-    [
-      "A Better Ludum Dare; Or, How to Ruin a Legacy",
-      "https://ldjam.com/events/ludum-dare/59/$425291/$425292"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 00:52:33",
-      "https://news.ycombinator.com/item?id=47787368"
-    ],
-    [
-      "Amazon AI Cancelling Webcomics",
-      "http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html"
     ]
   ],
   [
@@ -61,26 +101,6 @@
   ],
   [
     [
-      "2026-04-15, 23:42:06",
-      "https://news.ycombinator.com/item?id=47786836"
-    ],
-    [
-      "The Universal Constraint Engine: Neuromorphic Computing Without Neural Networks",
-      "https://zenodo.org/records/19600206"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 23:36:56",
-      "https://news.ycombinator.com/item?id=47786791"
-    ],
-    [
-      "YouTube now lets you turn off Shorts",
-      "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 22:27:54",
       "https://news.ycombinator.com/item?id=47786164"
     ],
@@ -91,22 +111,22 @@
   ],
   [
     [
-      "2026-04-15, 22:05:44",
-      "https://news.ycombinator.com/item?id=47785948"
+      "2026-04-15, 21:48:18",
+      "https://news.ycombinator.com/item?id=47785738"
     ],
     [
-      "Ohio prison inmates 'built computers and hid them in ceiling (2017)",
-      "https://www.bbc.com/news/technology-39576394"
+      "The buns in McDonald's Japan's burger photos are all slightly askew",
+      "https://www.mcdonalds.co.jp/en/menu/burger/"
     ]
   ],
   [
     [
-      "2026-04-15, 21:35:38",
-      "https://news.ycombinator.com/item?id=47785582"
+      "2026-04-15, 21:21:05",
+      "https://news.ycombinator.com/item?id=47785397"
     ],
     [
-      "Hacker News CLI (2014)",
-      "https://pythonhosted.org/hackernews-cli/commands.html"
+      "ChatGPT for Excel",
+      "https://chatgpt.com/apps/spreadsheets/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "PiCore - Raspberry Pi Port of Tiny Core Linux",
       "http://tinycorelinux.net/5.x/armv6/releases/README"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 19:22:10",
-      "https://news.ycombinator.com/item?id=47783940"
-    ],
-    [
-      "Ask HN: Who is using OpenClaw?",
-      "https://news.ycombinator.com/item?id=47783940"
     ]
   ],
   [
@@ -191,22 +201,22 @@
   ],
   [
     [
+      "2026-04-15, 13:47:40",
+      "https://news.ycombinator.com/item?id=47778920"
+    ],
+    [
+      "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+      "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 13:08:10",
       "https://news.ycombinator.com/item?id=47778475"
     ],
     [
       "God sleeps in the minerals",
       "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 12:26:11",
-      "https://news.ycombinator.com/item?id=47778086"
-    ],
-    [
-      "Do you even need a database?",
-      "https://www.dbpro.app/blog/do-you-even-need-a-database"
     ]
   ],
   [
@@ -221,22 +231,22 @@
   ],
   [
     [
+      "2026-04-15, 11:29:12",
+      "https://news.ycombinator.com/item?id=47777633"
+    ],
+    [
+      "Show HN: SmallDocs - A CLI and webapp for private Markdown reading and sharing",
+      "https://news.ycombinator.com/item?id=47777633"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 08:05:18",
       "https://news.ycombinator.com/item?id=47776035"
     ],
     [
       "Anna's Archive loses $322M Spotify piracy case without a fight",
       "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 18:18:39",
-      "https://news.ycombinator.com/item?id=47769245"
-    ],
-    [
-      "How can I keep from singing?",
-      "https://blog.danieljanus.pl/singing/"
     ]
   ],
   [
@@ -251,11 +261,21 @@
   ],
   [
     [
+      "2026-04-13, 11:22:22",
+      "https://news.ycombinator.com/item?id=47750486"
+    ],
+    [
+      "Too much discussion of the XOR swap trick",
+      "https://heather.cafe/posts/too_much_xor_swap_trick/"
+    ]
+  ],
+  [
+    [
       "2026-04-13, 09:05:45",
       "https://news.ycombinator.com/item?id=47749548"
     ],
     [
-      "Introduction to Spherical Harmonics for Graphics Programmers",
+      "Introduction to spherical harmonics for graphics programmers",
       "https://gpfault.net/posts/sph.html"
     ]
   ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-04-12, 10:27:08",
-      "https://news.ycombinator.com/item?id=47738081"
+      "2026-04-12, 12:00:43",
+      "https://news.ycombinator.com/item?id=47738673"
     ],
     [
-      "Fixing a monitor that goes black, off or blinks due to static electricity (2023)",
-      "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 23:17:50",
-      "https://news.ycombinator.com/item?id=47734815"
-    ],
-    [
-      "PBS Nova: Terror in Space (1998)",
-      "https://www.pbs.org/wgbh/nova/mir/"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 17:02:35",
-      "https://news.ycombinator.com/item?id=47720941"
-    ],
-    [
-      "A Mercury Rover Could Explore the Planet by Sticking to the Terminator",
-      "https://www.universetoday.com/articles/a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator"
+      "Fast and Easy Levenshtein distance using a Trie",
+      "https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie"
     ]
   ]
 ]
