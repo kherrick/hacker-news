@@ -4,11 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-04-16](index.md)
 
+* [2026-04-16, 15:19:54](https://news.ycombinator.com/item?id=47794514) - [Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
+* [2026-04-16, 15:13:13](https://news.ycombinator.com/item?id=47794391) - [We gave an AI a 3 year retail lease and asked it to make a profit](https://andonlabs.com/blog/andon-market-launch)
+* [2026-04-16, 14:51:13](https://news.ycombinator.com/item?id=47793926) - [Laravel raised money and now injects ads directly into your agent](https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/)
+* [2026-04-16, 14:32:24](https://news.ycombinator.com/item?id=47793546) - [Claude Opus 4.7 Model Card](https://anthropic.com/claude-opus-4-7-system-card)
+* [2026-04-16, 14:23:50](https://news.ycombinator.com/item?id=47793411) - [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
 * [2026-04-16, 13:36:27](https://news.ycombinator.com/item?id=47792764) - [Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All](https://qwen.ai/blog?id=qwen3.6-35b-a3b)
 * [2026-04-16, 13:32:13](https://news.ycombinator.com/item?id=47792718) - [The Future of Everything Is Lies, I Guess: Where Do We Go from Here?](https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here)
 * [2026-04-16, 13:21:53](https://news.ycombinator.com/item?id=47792593) - [Cloudflare Email Service: now in public beta. Ready for your agents](https://blog.cloudflare.com/email-for-agents/)
 * [2026-04-16, 13:17:37](https://news.ycombinator.com/item?id=47792538) - [Cloudflare's AI Platform: an inference layer designed for agents](https://blog.cloudflare.com/ai-platform/)
+* [2026-04-16, 13:16:29](https://news.ycombinator.com/item?id=47792525) - [Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh](https://github.com/SeanFDZ/macmind)
 * [2026-04-16, 13:01:36](https://news.ycombinator.com/item?id=47792368) - [Mozilla Thunderbolt](https://www.thunderbolt.io/)
+* [2026-04-16, 12:37:56](https://news.ycombinator.com/item?id=47792122) - [Show HN: Agent-cache – Multi-tier LLM/tool/session caching for Valkey and Redis](https://news.ycombinator.com/item?id=47792122)
 * [2026-04-16, 12:29:33](https://news.ycombinator.com/item?id=47792026) - [Show HN: 48 absurd web projects – one every month](https://news.ycombinator.com/item?id=47792026)
 * [2026-04-16, 12:13:30](https://news.ycombinator.com/item?id=47791871) - [€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs](https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262)
 * [2026-04-16, 12:11:17](https://news.ycombinator.com/item?id=47791855) - [Apple accelerates eco progress with highest-ever recycled materials](https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/)

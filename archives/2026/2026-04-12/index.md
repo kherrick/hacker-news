@@ -58,6 +58,7 @@
 * [2026-04-12, 09:16:35](https://news.ycombinator.com/item?id=47737563) - [AI Will Be Met with Violence, and Nothing Good Will Come of It](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
 * [2026-04-12, 09:14:30](https://news.ycombinator.com/item?id=47737542) - [Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets](https://arxiv.org/abs/2604.07902)
 * [2026-04-12, 09:14:28](https://news.ycombinator.com/item?id=47737541) - [Israel Destroys Villages in Lebanon](https://www.theguardian.com/world/2026/apr/12/how-israeli-offensive-destroyed-entire-villages-in-lebanon)
+* [2026-04-12, 09:05:29](https://news.ycombinator.com/item?id=47737499) - [Modern Microprocessors – A 90-Minute Guide](https://www.lighterra.com/papers/modernmicroprocessors/)
 * [2026-04-12, 09:05:29](https://news.ycombinator.com/item?id=47737499) - [Modern Microprocessors – A 90-Minute Guide](https://www.lighterra.com/articles/)
 * [2026-04-12, 08:38:56](https://news.ycombinator.com/item?id=47737383) - [Apple update looks like Czech mate for locked-out iPhone user](https://www.theregister.com/2026/04/12/ios_passcode_bug/)
 * [2026-04-12, 08:38:11](https://news.ycombinator.com/item?id=47737376) - [Phyphox – Physical Experiments Using a Smartphone](https://phyphox.org/)

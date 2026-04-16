@@ -57,6 +57,7 @@
 * [2026-04-13, 11:22:22](https://news.ycombinator.com/item?id=47750486) - [Too much discussion of the XOR swap trick](https://heather.cafe/posts/too_much_xor_swap_trick/)
 * [2026-04-13, 10:55:10](https://news.ycombinator.com/item?id=47750259) - [Point Cloud Allemansrätten](https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/)
 * [2026-04-13, 09:26:56](https://news.ycombinator.com/item?id=47749674) - [Show HN: I built a social media management tool in 3 weeks with Claude and Codex](https://github.com/brightbeanxyz/brightbean-studio)
+* [2026-04-13, 09:24:44](https://news.ycombinator.com/item?id=47749659) - [Six Characters](https://ajitem.com/blog/iron-core-part-2-six-characters/)
 * [2026-04-13, 09:05:45](https://news.ycombinator.com/item?id=47749548) - [Introduction to Spherical Harmonics for Graphics Programmers](https://gpfault.net/posts/sph.html)
 * [2026-04-13, 08:13:40](https://news.ycombinator.com/item?id=47749222) - [Caffeine, cocaine, and painkillers detected in sharks from The Bahamas](https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880)
 * [2026-04-13, 06:24:39](https://news.ycombinator.com/item?id=47748314) - [Programming Used to Be Free](https://purplesyringa.moe/blog/programming-used-to-be-free/)
