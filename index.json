@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-04-16, 13:36:27",
+      "https://news.ycombinator.com/item?id=47792764"
+    ],
+    [
+      "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
+      "https://qwen.ai/blog?id=qwen3.6-35b-a3b"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 13:32:13",
+      "https://news.ycombinator.com/item?id=47792718"
+    ],
+    [
+      "The Future of Everything Is Lies, I Guess: Where Do We Go from Here?",
+      "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 13:21:53",
+      "https://news.ycombinator.com/item?id=47792593"
+    ],
+    [
+      "Cloudflare Email Service: now in public beta. Ready for your agents",
+      "https://blog.cloudflare.com/email-for-agents/"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 13:17:37",
+      "https://news.ycombinator.com/item?id=47792538"
+    ],
+    [
+      "Cloudflare's AI Platform: an inference layer designed for agents",
+      "https://blog.cloudflare.com/ai-platform/"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 13:01:36",
+      "https://news.ycombinator.com/item?id=47792368"
+    ],
+    [
+      "Mozilla Thunderbolt",
+      "https://www.thunderbolt.io/"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 12:29:33",
+      "https://news.ycombinator.com/item?id=47792026"
+    ],
+    [
+      "Show HN: 48 absurd web projects – one every month",
+      "https://news.ycombinator.com/item?id=47792026"
+    ]
+  ],
+  [
+    [
       "2026-04-16, 12:13:30",
       "https://news.ycombinator.com/item?id=47791871"
     ],
@@ -11,22 +71,12 @@
   ],
   [
     [
-      "2026-04-16, 11:45:47",
-      "https://news.ycombinator.com/item?id=47791665"
+      "2026-04-16, 12:11:17",
+      "https://news.ycombinator.com/item?id=47791855"
     ],
     [
-      "Study: EVs with V2H cut household electricity costs and need for home batteries",
-      "https://adelaide.edu.au/about/news/2026/electric-vehicles-the-key-to-more-efficient-home-energy-use/"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 11:25:05",
-      "https://news.ycombinator.com/item?id=47791507"
-    ],
-    [
-      "The noise we make is hurting animals. Can we learn to shut up?",
-      "https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/"
+      "Apple accelerates eco progress with highest-ever recycled materials",
+      "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/"
     ]
   ],
   [
@@ -37,6 +87,16 @@
     [
       "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
       "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 10:48:00",
+      "https://news.ycombinator.com/item?id=47791236"
+    ],
+    [
+      "AI cybersecurity is not proof of work",
+      "https://antirez.com/news/163"
     ]
   ],
   [
@@ -67,16 +127,6 @@
     [
       "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
       "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 04:22:56",
-      "https://news.ycombinator.com/item?id=47788633"
-    ],
-    [
-      "A Look into NaviDial, Japan's Legacy Phone Service",
-      "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service"
     ]
   ],
   [
@@ -151,26 +201,6 @@
   ],
   [
     [
-      "2026-04-15, 16:19:48",
-      "https://news.ycombinator.com/item?id=47781286"
-    ],
-    [
-      "CRISPR takes important step toward silencing Down syndrome’s extra chromosome",
-      "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 15:57:54",
-      "https://news.ycombinator.com/item?id=47780971"
-    ],
-    [
-      "Show HN: Libretto – Making AI browser automations deterministic",
-      "https://github.com/saffron-health/libretto"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 15:26:46",
       "https://news.ycombinator.com/item?id=47780456"
     ],
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2026-04-15, 12:00:24",
-      "https://news.ycombinator.com/item?id=47777897"
-    ],
-    [
-      "Retrofitting JIT Compilers into C Interpreters",
-      "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 11:59:49",
       "https://news.ycombinator.com/item?id=47777894"
     ],
     [
       "IPv6 traffic crosses the 50% mark",
       "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 02:39:05",
-      "https://news.ycombinator.com/item?id=47774039"
-    ],
-    [
-      "The Accursèd Alphabetical Clock",
-      "https://boat.horse/clock/index.html"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2026-04-13, 09:05:45",
-      "https://news.ycombinator.com/item?id=47749548"
+      "2026-04-13, 05:53:28",
+      "https://news.ycombinator.com/item?id=47748101"
     ],
     [
-      "Introduction to spherical harmonics for graphics programmers",
-      "https://gpfault.net/posts/sph.html"
+      "Fly Drones from the Browser",
+      "https://fpvsim.com/sim"
     ]
   ],
   [
@@ -257,26 +267,6 @@
     [
       "The paper computer",
       "https://jsomers.net/blog/the-paper-computer"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 21:38:15",
-      "https://news.ycombinator.com/item?id=47744824"
-    ],
-    [
-      "The Death of Character in Game Console Interfaces",
-      "https://vale.rocks/posts/game-console-interfaces"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 12:00:43",
-      "https://news.ycombinator.com/item?id=47738673"
-    ],
-    [
-      "Fast and Easy Levenshtein distance using a Trie (2011)",
-      "https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "FIXAPL",
       "https://fixapl.netlify.app/"
+    ]
+  ],
+  [
+    [
+      "2026-04-11, 15:04:31",
+      "https://news.ycombinator.com/item?id=47731254"
+    ],
+    [
+      "Long Instruction Word architectures and the ELI-512",
+      "https://dl.acm.org/doi/10.1145/800046.801649"
     ]
   ]
 ]
