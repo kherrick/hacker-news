@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-16, 17:37:20](https://news.ycombinator.com/item?id=47796830) - [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/)
 * [2026-04-16, 17:12:19](https://news.ycombinator.com/item?id=47796469) - [Codex for Almost Everything](https://openai.com/index/codex-for-almost-everything/)
 * [2026-04-16, 16:53:32](https://news.ycombinator.com/item?id=47796197) - [Japan implements language proficiency requirements for certain visa applicants](https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/)
 * [2026-04-16, 15:19:54](https://news.ycombinator.com/item?id=47794514) - [Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
@@ -19,9 +20,7 @@
 * [2026-04-16, 10:44:45](https://news.ycombinator.com/item?id=47791212) - [Codex Hacked a Samsung TV](https://blog.calif.io/p/codex-hacked-a-samsung-tv)
 * [2026-04-16, 07:01:29](https://news.ycombinator.com/item?id=47789607) - [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead)
 * [2026-04-16, 04:06:39](https://news.ycombinator.com/item?id=47788542) - [Darkbloom – Private inference on idle Macs](https://darkbloom.dev)
-* [2026-04-16, 03:54:21](https://news.ycombinator.com/item?id=47788473) - [RedSun: System user access on Win 11/10 and Server with the April 2026 Update](https://github.com/Nightmare-Eclipse/RedSun)
 * [2026-04-16, 03:44:38](https://news.ycombinator.com/item?id=47788424) - [FSF trying to contact Google about spammer sending 10k+ mails from Gmail account](https://daedal.io/@thomzane/116410863009847575)
-* [2026-04-16, 03:38:45](https://news.ycombinator.com/item?id=47788398) - [North American English Dialects](https://aschmann.net/AmEng/)
 * [2026-04-15, 21:21:05](https://news.ycombinator.com/item?id=47785397) - [ChatGPT for Excel](https://chatgpt.com/apps/spreadsheets/)
 * [2026-04-15, 11:59:49](https://news.ycombinator.com/item?id=47777894) - [IPv6 traffic crosses the 50% mark](https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197)
 * [2026-04-14, 18:08:14](https://news.ycombinator.com/item?id=47769089) - [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
@@ -30,6 +29,7 @@
 * [2026-04-13, 09:24:44](https://news.ycombinator.com/item?id=47749659) - [Six Characters](https://ajitem.com/blog/iron-core-part-2-six-characters/)
 * [2026-04-13, 04:57:48](https://news.ycombinator.com/item?id=47747770) - [The paper computer](https://jsomers.net/blog/the-paper-computer)
 * [2026-04-12, 09:05:29](https://news.ycombinator.com/item?id=47737499) - [Modern Microprocessors – A 90-Minute Guide](https://www.lighterra.com/papers/modernmicroprocessors/)
+* [2026-04-11, 18:54:58](https://news.ycombinator.com/item?id=47733059) - [PCI Express over Fiber [video]](https://www.youtube.com/watch?v=XaDa9bBucEI)
 
 ## [Archives](archives/index.md)
 

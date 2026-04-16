@@ -16,6 +16,7 @@
 * [2026-04-11, 19:01:00](https://news.ycombinator.com/item?id=47733106) - [One neat trick to end extreme poverty](https://www.economist.com/finance-and-economics/2026/04/09/one-neat-trick-to-end-extreme-poverty)
 * [2026-04-11, 18:55:43](https://news.ycombinator.com/item?id=47733066) - [New synthesis of astronomical measurements shows Hubble tension is real](https://noirlab.edu/public/news/noirlab2611/?nocache=true&lang=en)
 * [2026-04-11, 18:55:43](https://news.ycombinator.com/item?id=47733066) - [New synthesis of astronomical measurements shows Hubble tension is real](https://noirlab.edu/public/news/noirlab2611/)
+* [2026-04-11, 18:54:58](https://news.ycombinator.com/item?id=47733059) - [PCI Express over Fiber [video]](https://www.youtube.com/watch?v=XaDa9bBucEI)
 * [2026-04-11, 18:07:49](https://news.ycombinator.com/item?id=47732697) - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
 * [2026-04-11, 17:59:14](https://news.ycombinator.com/item?id=47732623) - [We ran Doom on a 40 year old printer controller (Agfa Compugraphic 9000PS) [video]](https://www.youtube.com/watch?v=cltnlks2-uU)
 * [2026-04-11, 17:48:02](https://news.ycombinator.com/item?id=47732535) - [The Orange Pi 6 Plus](https://taoofmac.com/space/reviews/2026/04/11/1900)
