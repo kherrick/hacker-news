@@ -61,6 +61,7 @@
 * [2026-04-13, 08:13:40](https://news.ycombinator.com/item?id=47749222) - [Caffeine, cocaine, and painkillers detected in sharks from The Bahamas](https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880)
 * [2026-04-13, 06:24:39](https://news.ycombinator.com/item?id=47748314) - [Programming Used to Be Free](https://purplesyringa.moe/blog/programming-used-to-be-free/)
 * [2026-04-13, 05:56:49](https://news.ycombinator.com/item?id=47748123) - [The AI Layoff Trap](https://arxiv.org/abs/2603.20617)
+* [2026-04-13, 05:53:28](https://news.ycombinator.com/item?id=47748101) - [Fly Drones from the Browser](https://fpvsim.com/sim)
 * [2026-04-13, 05:45:32](https://news.ycombinator.com/item?id=47748064) - [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)
 * [2026-04-13, 05:39:24](https://news.ycombinator.com/item?id=47748036) - [X Randomly Banning Users for \"Inauthentic Behavior\"](https://old.reddit.com/r/LinusTechTips/comments/1rsdk7i/anybody_here_talking_about_the_massive/)
 * [2026-04-13, 04:57:48](https://news.ycombinator.com/item?id=47747770) - [The paper computer](https://jsomers.net/blog/the-paper-computer)

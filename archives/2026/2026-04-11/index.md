@@ -26,6 +26,7 @@
 * [2026-04-11, 16:24:08](https://news.ycombinator.com/item?id=47731838) - [Keeping a Postgres Queue Healthy](https://planetscale.com/blog/keeping-a-postgres-queue-healthy)
 * [2026-04-11, 16:04:52](https://news.ycombinator.com/item?id=47731707) - [Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom](https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858)
 * [2026-04-11, 15:39:19](https://news.ycombinator.com/item?id=47731506) - [Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/)
+* [2026-04-11, 15:04:31](https://news.ycombinator.com/item?id=47731254) - [Long Instruction Word architectures and the ELI-512](https://dl.acm.org/doi/10.1145/800046.801649)
 * [2026-04-11, 14:32:39](https://news.ycombinator.com/item?id=47730981) - [The Future of Everything Is Lies, I Guess: Annoyances](https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances)
 * [2026-04-11, 14:12:45](https://news.ycombinator.com/item?id=47730799) - [Rewriting a 20-year-old Python library](https://www.b-list.org/weblog/2026/mar/23/20-year-library/)
 * [2026-04-11, 14:03:03](https://news.ycombinator.com/item?id=47730712) - [The Problem That Built an Industry](https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/)
