@@ -64,6 +64,7 @@
 * [2026-04-12, 08:38:56](https://news.ycombinator.com/item?id=47737383) - [Apple update looks like Czech mate for locked-out iPhone user](https://www.theregister.com/2026/04/12/ios_passcode_bug/)
 * [2026-04-12, 08:38:11](https://news.ycombinator.com/item?id=47737376) - [Phyphox – Physical Experiments Using a Smartphone](https://phyphox.org/)
 * [2026-04-12, 08:25:03](https://news.ycombinator.com/item?id=47737292) - [Is Math Big or Small?](https://chessapig.github.io/talks/Big-Small)
+* [2026-04-12, 07:45:35](https://news.ycombinator.com/item?id=47737041) - [How the Roll Function Works (In APL\\360 and Its Descendants)](https://www.jsoftware.com/papers/roll.htm)
 * [2026-04-12, 07:13:55](https://news.ycombinator.com/item?id=47736907) - [Pope Leo XIV denounces the 'delusion of omnipotence' he says fuels the Iran war](https://www.politico.com/news/2026/04/11/pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-fuels-the-us-israeli-war-in-iran-00868142)
 * [2026-04-12, 06:36:23](https://news.ycombinator.com/item?id=47736738) - [FIXAPL](https://fixapl.netlify.app/)
 * [2026-04-12, 06:00:00](https://news.ycombinator.com/item?id=47736555) - [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
