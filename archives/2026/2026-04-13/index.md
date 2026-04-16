@@ -53,6 +53,7 @@
 * [2026-04-13, 12:05:35](https://news.ycombinator.com/item?id=47750821) - [Michigan 'digital age' bills pulled after privacy concerns raised](https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html)
 * [2026-04-13, 11:48:15](https://news.ycombinator.com/item?id=47750669) - [Android now stops you sharing your location in photos](https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/)
 * [2026-04-13, 11:27:12](https://news.ycombinator.com/item?id=47750519) - [Galactic Algorithm](https://en.wikipedia.org/wiki/Galactic_algorithm)
+* [2026-04-13, 11:22:22](https://news.ycombinator.com/item?id=47750486) - [Too much discussion of the XOR swap trick](https://heather.cafe/posts/too_much_xor_swap_trick/)
 * [2026-04-13, 10:55:10](https://news.ycombinator.com/item?id=47750259) - [Point Cloud Allemansrätten](https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/)
 * [2026-04-13, 09:26:56](https://news.ycombinator.com/item?id=47749674) - [Show HN: I built a social media management tool in 3 weeks with Claude and Codex](https://github.com/brightbeanxyz/brightbean-studio)
 * [2026-04-13, 09:05:45](https://news.ycombinator.com/item?id=47749548) - [Introduction to Spherical Harmonics for Graphics Programmers](https://gpfault.net/posts/sph.html)

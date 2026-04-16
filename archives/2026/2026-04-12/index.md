@@ -44,6 +44,7 @@
 * [2026-04-12, 12:28:57](https://news.ycombinator.com/item?id=47738883) - [Tell HN: docker pull fails in spain due to football cloudflare block](https://news.ycombinator.com/item?id=47738883)
 * [2026-04-12, 12:26:09](https://news.ycombinator.com/item?id=47738864) - [Why AI Sucks at Front End](https://nerdy.dev/why-ai-sucks-at-front-end)
 * [2026-04-12, 12:21:26](https://news.ycombinator.com/item?id=47738827) - [Bring Back Idiomatic Design](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
+* [2026-04-12, 12:00:43](https://news.ycombinator.com/item?id=47738673) - [Fast and Easy Levenshtein distance using a Trie](https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie)
 * [2026-04-12, 11:49:33](https://news.ycombinator.com/item?id=47738595) - [No one owes you supply-chain security](https://purplesyringa.moe/blog/no-one-owes-you-supply-chain-security/)
 * [2026-04-12, 11:38:16](https://news.ycombinator.com/item?id=47738514) - [Internet outage in Iran reaches 1,008 hours](https://mastodon.social/@netblocks/116384935123261912)
 * [2026-04-12, 11:24:18](https://news.ycombinator.com/item?id=47738420) - [Golden eagles' return to English skies gets government backing](https://www.bbc.co.uk/news/articles/cje4zlxqkqdo)

@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-04-16](index.md)
 
+* [2026-04-16, 05:07:05](https://news.ycombinator.com/item?id=47788857) - [IPv8 Proposal](https://www.ietf.org/archive/id/draft-thain-ipv8-00.html)
+* [2026-04-16, 05:05:44](https://news.ycombinator.com/item?id=47788845) - [Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan](https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/)
+* [2026-04-16, 05:01:05](https://news.ycombinator.com/item?id=47788818) - [Airbnb discloses a billion-series Prometheus metrics pipeline](https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45)
+* [2026-04-16, 04:22:56](https://news.ycombinator.com/item?id=47788633) - [A Look into NaviDial, Japan's Legacy Phone Service](https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service)
+* [2026-04-16, 04:06:39](https://news.ycombinator.com/item?id=47788542) - [Darkbloom – Private inference on idle Macs](https://darkbloom.dev)
+* [2026-04-16, 03:54:21](https://news.ycombinator.com/item?id=47788473) - [RedSun: System user access on Win 11/10 and Server with the April 2026 Update](https://github.com/Nightmare-Eclipse/RedSun)
+* [2026-04-16, 03:44:38](https://news.ycombinator.com/item?id=47788424) - [FSF trying to contact Google about spammer sending 10k+ mails from Gmail account](https://daedal.io/@thomzane/116410863009847575)
+* [2026-04-16, 02:28:18](https://news.ycombinator.com/item?id=47787947) - [Show HN: Hiraeth – AWS Emulator](https://github.com/SethPyle376/hiraeth)
 * [2026-04-16, 02:16:50](https://news.ycombinator.com/item?id=47787877) - [Stealth Satellite TV Defeats Iran's Internet Blackout](https://spectrum.ieee.org/iran-internet-blackout-satellite-tv)
 * [2026-04-16, 02:13:23](https://news.ycombinator.com/item?id=47787854) - [Arguing with Agents](https://blowmage.com/2026/04/14/arguing-with-agents/)
 * [2026-04-16, 01:37:49](https://news.ycombinator.com/item?id=47787643) - [Keycard – inject API keys into subprocesses, never touch shell env](https://www.keycard.studio/)
