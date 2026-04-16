@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-04-16, 05:05:44",
-      "https://news.ycombinator.com/item?id=47788845"
-    ],
-    [
-      "Sal Khan's AI revolution hasn't happened yet",
-      "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 05:01:05",
       "https://news.ycombinator.com/item?id=47788818"
     ],
@@ -87,26 +77,6 @@
     [
       "Stop Using Ollama",
       "https://sleepingrobots.com/dreams/stop-using-ollama/"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 02:28:18",
-      "https://news.ycombinator.com/item?id=47787947"
-    ],
-    [
-      "Show HN: Hiraeth – AWS Emulator",
-      "https://github.com/SethPyle376/hiraeth"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 02:16:50",
-      "https://news.ycombinator.com/item?id=47787877"
-    ],
-    [
-      "Stealth signals are bypassing Iran’s internet blackout",
-      "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv"
     ]
   ],
   [
@@ -181,6 +151,16 @@
   ],
   [
     [
+      "2026-04-15, 17:25:52",
+      "https://news.ycombinator.com/item?id=47782256"
+    ],
+    [
+      "The Gemini app is now on Mac",
+      "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 16:19:48",
       "https://news.ycombinator.com/item?id=47781286"
     ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2026-04-15, 02:39:05",
+      "https://news.ycombinator.com/item?id=47774039"
+    ],
+    [
+      "The Accursèd Alphabetical Clock",
+      "https://boat.horse/clock/index.html"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 18:08:14",
       "https://news.ycombinator.com/item?id=47769089"
     ],
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=47738673"
     ],
     [
-      "Fast and Easy Levenshtein distance using a Trie",
+      "Fast and Easy Levenshtein distance using a Trie (2011)",
       "https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 06:36:23",
+      "https://news.ycombinator.com/item?id=47736738"
+    ],
+    [
+      "FIXAPL",
+      "https://fixapl.netlify.app/"
     ]
   ],
   [
