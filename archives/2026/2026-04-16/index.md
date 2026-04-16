@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-16](index.md)
 
+* [2026-04-16, 12:13:30](https://news.ycombinator.com/item?id=47791871) - [€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs](https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262)
+* [2026-04-16, 11:45:47](https://news.ycombinator.com/item?id=47791665) - [Study: EVs with V2H cut household electricity costs and need for home batteries](https://adelaide.edu.au/about/news/2026/electric-vehicles-the-key-to-more-efficient-home-energy-use/)
+* [2026-04-16, 11:25:05](https://news.ycombinator.com/item?id=47791507) - [The noise we make is hurting animals. Can we learn to shut up?](https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/)
 * [2026-04-16, 10:57:13](https://news.ycombinator.com/item?id=47791282) - [Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]](https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf)
 * [2026-04-16, 10:44:45](https://news.ycombinator.com/item?id=47791212) - [Codex Hacked a Samsung TV](https://blog.calif.io/p/codex-hacked-a-samsung-tv)
 * [2026-04-16, 07:01:29](https://news.ycombinator.com/item?id=47789607) - [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead)
