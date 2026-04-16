@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-16, 17:12:19",
+      "https://news.ycombinator.com/item?id=47796469"
+    ],
+    [
+      "Codex for Almost Everything",
+      "https://openai.com/index/codex-for-almost-everything/"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 16:53:32",
+      "https://news.ycombinator.com/item?id=47796197"
+    ],
+    [
+      "Japan implements language proficiency requirements for certain visa applicants",
+      "https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/"
+    ]
+  ],
+  [
+    [
       "2026-04-16, 15:19:54",
       "https://news.ycombinator.com/item?id=47794514"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47792764"
     ],
     [
-      "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
+      "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "https://qwen.ai/blog?id=qwen3.6-35b-a3b"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=47792718"
     ],
     [
-      "The Future of Everything Is Lies, I Guess: Where Do We Go from Here?",
+      "The future of everything is lies, I guess: Where do we go from here?",
       "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here"
     ]
   ],
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2026-04-16, 13:02:03",
+      "https://news.ycombinator.com/item?id=47792374"
+    ],
+    [
+      "Artifacts: Versioned storage that speaks Git",
+      "https://blog.cloudflare.com/artifacts-git-for-agents-beta/"
+    ]
+  ],
+  [
+    [
       "2026-04-16, 13:01:36",
       "https://news.ycombinator.com/item?id=47792368"
     ],
@@ -111,32 +141,12 @@
   ],
   [
     [
-      "2026-04-16, 12:37:56",
-      "https://news.ycombinator.com/item?id=47792122"
-    ],
-    [
-      "Show HN: Agent-cache – Multi-tier LLM/tool/session caching for Valkey and Redis",
-      "https://news.ycombinator.com/item?id=47792122"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 12:13:30",
       "https://news.ycombinator.com/item?id=47791871"
     ],
     [
       "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
       "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 10:57:13",
-      "https://news.ycombinator.com/item?id=47791282"
-    ],
-    [
-      "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
-      "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2026-04-13, 11:22:22",
-      "https://news.ycombinator.com/item?id=47750486"
+      "2026-04-13, 22:57:05",
+      "https://news.ycombinator.com/item?id=47759035"
     ],
     [
-      "Too much discussion of the XOR swap trick",
-      "https://heather.cafe/posts/too_much_xor_swap_trick/"
+      "Show HN: CodeBurn – Analyze Claude Code token usage by task",
+      "https://github.com/AgentSeal/codeburn"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Modern Microprocessors – A 90-Minute Guide",
       "https://www.lighterra.com/papers/modernmicroprocessors/"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 15:04:31",
-      "https://news.ycombinator.com/item?id=47731254"
-    ],
-    [
-      "Long Instruction Word architectures and the ELI-512",
-      "https://dl.acm.org/doi/10.1145/800046.801649"
     ]
   ]
 ]
