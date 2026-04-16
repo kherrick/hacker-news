@@ -53,6 +53,7 @@
 * [2026-04-15, 12:20:13](https://news.ycombinator.com/item?id=47778038) - [Allbirds, Inc. Announces Expansion into AI Compute Infrastructure](https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility)
 * [2026-04-15, 12:00:44](https://news.ycombinator.com/item?id=47777902) - [Proliferate (YC S25) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
 * [2026-04-15, 12:00:24](https://news.ycombinator.com/item?id=47777897) - [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html)
+* [2026-04-15, 11:59:49](https://news.ycombinator.com/item?id=47777894) - [IPv6 traffic crosses the 50% mark](https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197)
 * [2026-04-15, 11:29:12](https://news.ycombinator.com/item?id=47777633) - [Show HN: SmallDocs - A CLI and webapp for private Markdown reading and sharing](https://news.ycombinator.com/item?id=47777633)
 * [2026-04-15, 11:08:25](https://news.ycombinator.com/item?id=47777449) - [Academic fraud may be the symptom of a more systemic problem](https://www.voxweb.nl/en/academic-fraud-may-be-the-symptom-of-a-much-more-systemic-problem)
 * [2026-04-15, 10:42:28](https://news.ycombinator.com/item?id=47777209) - [Your Backpack Got Worse on Purpose](https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose)
