@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-16](index.md)
 
+* [2026-04-16, 17:12:19](https://news.ycombinator.com/item?id=47796469) - [Codex for Almost Everything](https://openai.com/index/codex-for-almost-everything/)
+* [2026-04-16, 16:53:32](https://news.ycombinator.com/item?id=47796197) - [Japan implements language proficiency requirements for certain visa applicants](https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/)
 * [2026-04-16, 15:19:54](https://news.ycombinator.com/item?id=47794514) - [Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
 * [2026-04-16, 15:13:13](https://news.ycombinator.com/item?id=47794391) - [We gave an AI a 3 year retail lease and asked it to make a profit](https://andonlabs.com/blog/andon-market-launch)
 * [2026-04-16, 14:51:13](https://news.ycombinator.com/item?id=47793926) - [Laravel raised money and now injects ads directly into your agent](https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/)
@@ -14,6 +16,7 @@
 * [2026-04-16, 13:21:53](https://news.ycombinator.com/item?id=47792593) - [Cloudflare Email Service: now in public beta. Ready for your agents](https://blog.cloudflare.com/email-for-agents/)
 * [2026-04-16, 13:17:37](https://news.ycombinator.com/item?id=47792538) - [Cloudflare's AI Platform: an inference layer designed for agents](https://blog.cloudflare.com/ai-platform/)
 * [2026-04-16, 13:16:29](https://news.ycombinator.com/item?id=47792525) - [Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh](https://github.com/SeanFDZ/macmind)
+* [2026-04-16, 13:02:03](https://news.ycombinator.com/item?id=47792374) - [Artifacts: Versioned storage that speaks Git](https://blog.cloudflare.com/artifacts-git-for-agents-beta/)
 * [2026-04-16, 13:01:36](https://news.ycombinator.com/item?id=47792368) - [Mozilla Thunderbolt](https://www.thunderbolt.io/)
 * [2026-04-16, 12:37:56](https://news.ycombinator.com/item?id=47792122) - [Show HN: Agent-cache – Multi-tier LLM/tool/session caching for Valkey and Redis](https://news.ycombinator.com/item?id=47792122)
 * [2026-04-16, 12:29:33](https://news.ycombinator.com/item?id=47792026) - [Show HN: 48 absurd web projects – one every month](https://news.ycombinator.com/item?id=47792026)

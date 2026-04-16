@@ -8,6 +8,7 @@
 * [2026-04-13, 23:44:10](https://news.ycombinator.com/item?id=47759416) - [Why it's impossible to measure England's coastline](https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline)
 * [2026-04-13, 23:33:18](https://news.ycombinator.com/item?id=47759341) - [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)
 * [2026-04-13, 23:26:04](https://news.ycombinator.com/item?id=47759292) - [The AI revolution in math has arrived](https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/)
+* [2026-04-13, 22:57:05](https://news.ycombinator.com/item?id=47759035) - [Show HN: CodeBurn – Analyze Claude Code token usage by task](https://github.com/AgentSeal/codeburn)
 * [2026-04-13, 22:41:19](https://news.ycombinator.com/item?id=47758870) - [Let's Talk Space Toilets](https://mceglowski.substack.com/p/lets-talk-space-toilets)
 * [2026-04-13, 21:54:03](https://news.ycombinator.com/item?id=47758347) - [N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?](https://ndaybench.winfunc.com)
 * [2026-04-13, 21:48:00](https://news.ycombinator.com/item?id=47758263) - [Tokens – The New Dopamine Economy](https://www.enfuse.io/blog/vibe-coding-trap)
