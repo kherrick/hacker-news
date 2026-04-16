@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-16](index.md)
 
+* [2026-04-16, 22:17:24](https://news.ycombinator.com/item?id=47800241) - [U.S. to Create High-Tech Manufacturing Zone in Philippines](https://www.wsj.com/world/asia/u-s-to-create-high-tech-manufacturing-zone-in-philippines-017c1668)
+* [2026-04-16, 22:08:53](https://news.ycombinator.com/item?id=47800166) - [New unsealed records reveal Amazon's price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit)
 * [2026-04-16, 21:56:37](https://news.ycombinator.com/item?id=47800033) - [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober)
 * [2026-04-16, 21:14:02](https://news.ycombinator.com/item?id=47799573) - [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
 * [2026-04-16, 21:00:33](https://news.ycombinator.com/item?id=47799454) - [Join Akkari's Founding Team (YC P26) as an Engineer](https://news.ycombinator.com/item?id=47799454)
