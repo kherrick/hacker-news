@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-04-16, 15:19:54",
+      "https://news.ycombinator.com/item?id=47794514"
+    ],
+    [
+      "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+      "https://www.zatanna.ai/kampala"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 15:13:13",
+      "https://news.ycombinator.com/item?id=47794391"
+    ],
+    [
+      "We gave an AI a 3 year retail lease and asked it to make a profit",
+      "https://andonlabs.com/blog/andon-market-launch"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 14:51:13",
+      "https://news.ycombinator.com/item?id=47793926"
+    ],
+    [
+      "Laravel raised money and now injects ads directly into your agent",
+      "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 14:32:24",
+      "https://news.ycombinator.com/item?id=47793546"
+    ],
+    [
+      "Claude Opus 4.7 Model Card",
+      "https://anthropic.com/claude-opus-4-7-system-card"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 14:23:50",
+      "https://news.ycombinator.com/item?id=47793411"
+    ],
+    [
+      "Claude Opus 4.7",
+      "https://www.anthropic.com/news/claude-opus-4-7"
+    ]
+  ],
+  [
+    [
       "2026-04-16, 13:36:27",
       "https://news.ycombinator.com/item?id=47792764"
     ],
@@ -25,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47792593"
     ],
     [
-      "Cloudflare Email Service: now in public beta. Ready for your agents",
+      "Cloudflare Email Service",
       "https://blog.cloudflare.com/email-for-agents/"
     ]
   ],
@@ -41,6 +91,16 @@
   ],
   [
     [
+      "2026-04-16, 13:16:29",
+      "https://news.ycombinator.com/item?id=47792525"
+    ],
+    [
+      "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
+      "https://github.com/SeanFDZ/macmind"
+    ]
+  ],
+  [
+    [
       "2026-04-16, 13:01:36",
       "https://news.ycombinator.com/item?id=47792368"
     ],
@@ -51,12 +111,12 @@
   ],
   [
     [
-      "2026-04-16, 12:29:33",
-      "https://news.ycombinator.com/item?id=47792026"
+      "2026-04-16, 12:37:56",
+      "https://news.ycombinator.com/item?id=47792122"
     ],
     [
-      "Show HN: 48 absurd web projects – one every month",
-      "https://news.ycombinator.com/item?id=47792026"
+      "Show HN: Agent-cache – Multi-tier LLM/tool/session caching for Valkey and Redis",
+      "https://news.ycombinator.com/item?id=47792122"
     ]
   ],
   [
@@ -67,16 +127,6 @@
     [
       "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
       "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 12:11:17",
-      "https://news.ycombinator.com/item?id=47791855"
-    ],
-    [
-      "Apple accelerates eco progress with highest-ever recycled materials",
-      "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/"
     ]
   ],
   [
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2026-04-16, 05:01:05",
-      "https://news.ycombinator.com/item?id=47788818"
-    ],
-    [
-      "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
-      "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 04:06:39",
       "https://news.ycombinator.com/item?id=47788542"
     ],
@@ -171,42 +211,12 @@
   ],
   [
     [
-      "2026-04-15, 22:27:54",
-      "https://news.ycombinator.com/item?id=47786164"
-    ],
-    [
-      "I made a terminal pager",
-      "https://theleo.zone/posts/pager/"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 21:21:05",
       "https://news.ycombinator.com/item?id=47785397"
     ],
     [
       "ChatGPT for Excel",
       "https://chatgpt.com/apps/spreadsheets/"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 17:44:26",
-      "https://news.ycombinator.com/item?id=47782570"
-    ],
-    [
-      "Google broke its promise to me – now ICE has my data",
-      "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 15:26:46",
-      "https://news.ycombinator.com/item?id=47780456"
-    ],
-    [
-      "Cal.com is going closed source",
-      "https://cal.com/blog/cal-com-goes-closed-source-why"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2026-04-13, 05:53:28",
-      "https://news.ycombinator.com/item?id=47748101"
+      "2026-04-13, 09:24:44",
+      "https://news.ycombinator.com/item?id=47749659"
     ],
     [
-      "Fly Drones from the Browser",
-      "https://fpvsim.com/sim"
+      "Six Characters",
+      "https://ajitem.com/blog/iron-core-part-2-six-characters/"
     ]
   ],
   [
@@ -276,17 +286,7 @@
     ],
     [
       "Modern Microprocessors – A 90-Minute Guide",
-      "https://www.lighterra.com/articles/"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 06:36:23",
-      "https://news.ycombinator.com/item?id=47736738"
-    ],
-    [
-      "FIXAPL",
-      "https://fixapl.netlify.app/"
+      "https://www.lighterra.com/papers/modernmicroprocessors/"
     ]
   ],
   [
