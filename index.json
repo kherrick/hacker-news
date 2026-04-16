@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-16, 12:13:30",
+      "https://news.ycombinator.com/item?id=47791871"
+    ],
+    [
+      "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+      "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 11:45:47",
+      "https://news.ycombinator.com/item?id=47791665"
+    ],
+    [
+      "Study: EVs with V2H cut household electricity costs and need for home batteries",
+      "https://adelaide.edu.au/about/news/2026/electric-vehicles-the-key-to-more-efficient-home-energy-use/"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 11:25:05",
+      "https://news.ycombinator.com/item?id=47791507"
+    ],
+    [
+      "The noise we make is hurting animals. Can we learn to shut up?",
+      "https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/"
+    ]
+  ],
+  [
+    [
       "2026-04-16, 10:57:13",
       "https://news.ycombinator.com/item?id=47791282"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-04-16, 00:19:40",
-      "https://news.ycombinator.com/item?id=47787127"
-    ],
-    [
-      "Agent - Native Mac OS X coding ide/harness",
-      "https://github.com/macOS26/Agent"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 22:27:54",
       "https://news.ycombinator.com/item?id=47786164"
     ],
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2026-04-15, 21:48:18",
-      "https://news.ycombinator.com/item?id=47785738"
-    ],
-    [
-      "The buns in McDonald's Japan's burger photos are all slightly askew",
-      "https://www.mcdonalds.co.jp/en/menu/burger/"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 21:21:05",
       "https://news.ycombinator.com/item?id=47785397"
     ],
     [
       "ChatGPT for Excel",
       "https://chatgpt.com/apps/spreadsheets/"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 19:45:47",
-      "https://news.ycombinator.com/item?id=47784244"
-    ],
-    [
-      "PiCore - Raspberry Pi Port of Tiny Core Linux",
-      "http://tinycorelinux.net/5.x/armv6/releases/README"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-04-15, 13:47:40",
-      "https://news.ycombinator.com/item?id=47778920"
-    ],
-    [
-      "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-      "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 12:00:24",
       "https://news.ycombinator.com/item?id=47777897"
     ],
@@ -227,6 +217,16 @@
     [
       "Cybersecurity looks like proof of work now",
       "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 10:59:33",
+      "https://news.ycombinator.com/item?id=47763959"
+    ],
+    [
+      "PHP 8.6 Closure Optimizations",
+      "https://wiki.php.net/rfc/closure-optimizations"
     ]
   ],
   [
