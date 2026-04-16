@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-16](index.md)
 
+* [2026-04-16, 19:40:14](https://news.ycombinator.com/item?id=47798456) - [European civil servants are being forced off WhatsApp](https://www.politico.eu/article/european-civil-servants-new-messaging-services/)
 * [2026-04-16, 19:26:03](https://news.ycombinator.com/item?id=47798258) - [German Dog Commands](https://www.fluentu.com/blog/german/german-dog-commands/)
 * [2026-04-16, 19:00:09](https://news.ycombinator.com/item?id=47797911) - [Europe has \"maybe 6 weeks of jet fuel left\"](https://apnews.com/article/iran-war-europe-jet-fuel-flight-cancellations-birol-6e67fafd493861b3858de5548aa77703)
 * [2026-04-16, 17:37:20](https://news.ycombinator.com/item?id=47796830) - [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/)
