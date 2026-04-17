@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-17](index.md)
 
+* [2026-04-17, 12:01:19](https://news.ycombinator.com/item?id=47804965) - [Isaac Asimov: The Last Question](https://hex.ooo/library/last_question.html)
+* [2026-04-17, 11:22:05](https://news.ycombinator.com/item?id=47804708) - [How Silicon Valley Is Turning Scientists into Exploited Gig Workers](https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/)
 * [2026-04-17, 08:51:38](https://news.ycombinator.com/item?id=47803844) - [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)
 * [2026-04-17, 08:32:54](https://news.ycombinator.com/item?id=47803745) - [How Big Tech wrote secrecy into EU law to hide data centres' environmental toll](https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint)
 * [2026-04-17, 07:20:46](https://news.ycombinator.com/item?id=47803323) - [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/)

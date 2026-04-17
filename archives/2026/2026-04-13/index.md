@@ -35,6 +35,7 @@
 * [2026-04-13, 17:25:50](https://news.ycombinator.com/item?id=47755261) - [A Python Interpreter Written in Python](https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 * [2026-04-13, 17:22:31](https://news.ycombinator.com/item?id=47755209) - [B-trees and database indexes (2024)](https://planetscale.com/blog/btrees-and-database-indexes)
 * [2026-04-13, 16:37:10](https://news.ycombinator.com/item?id=47754606) - [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion)
+* [2026-04-13, 16:36:42](https://news.ycombinator.com/item?id=47754603) - [Average Is All You Need](https://rawquery.dev/blog/average-is-all-you-need)
 * [2026-04-13, 16:23:23](https://news.ycombinator.com/item?id=47754383) - [Circuit Transformations, Loop Fusion, and Inductive Proof](https://natetyoung.github.io/carry_save_fusion/)
 * [2026-04-13, 16:23:09](https://news.ycombinator.com/item?id=47754379) - [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
 * [2026-04-13, 16:11:07](https://news.ycombinator.com/item?id=47754192) - [Claude Mythos: The System Card](https://thezvi.substack.com/p/claude-mythos-the-system-card)
