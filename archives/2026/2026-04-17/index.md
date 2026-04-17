@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-17](index.md)
 
+* [2026-04-17, 21:38:20](https://news.ycombinator.com/item?id=47810872) - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
+* [2026-04-17, 21:00:08](https://news.ycombinator.com/item?id=47810507) - [Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead)
 * [2026-04-17, 19:00:07](https://news.ycombinator.com/item?id=47809347) - [Tesla tells HW3 owner to 'be patient' after 7 years of waiting for FSD](https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/)
 * [2026-04-17, 18:17:01](https://news.ycombinator.com/item?id=47808913) - [All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
 * [2026-04-17, 18:05:12](https://news.ycombinator.com/item?id=47808770) - [NeoGeo AES+: SNK announces reissue of retro console without emulation](https://www.heise.de/en/news/NeoGeo-AES-SNK-announces-reissue-of-retro-console-without-emulation-11262319.html)
@@ -12,6 +14,7 @@
 * [2026-04-17, 17:01:13](https://news.ycombinator.com/item?id=47808047) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering)
 * [2026-04-17, 16:38:44](https://news.ycombinator.com/item?id=47807809) - [Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock](https://github.com/paniclock/paniclock/)
 * [2026-04-17, 16:23:22](https://news.ycombinator.com/item?id=47807619) - [Hyperscalers have already outspent most famous US megaprojects](https://twitter.com/finmoorhouse/status/2044933442236776794)
+* [2026-04-17, 16:19:53](https://news.ycombinator.com/item?id=47807583) - [I'm spending 3 months coding the old way](https://miguelconner.substack.com/p/im-coding-by-hand)
 * [2026-04-17, 16:13:26](https://news.ycombinator.com/item?id=47807503) - [Detecting DOSBox from Within the Box](https://datagirl.xyz/posts/dos_inside_the_box.html)
 * [2026-04-17, 15:47:41](https://news.ycombinator.com/item?id=47807209) - [NASA Force](https://nasaforce.gov/)
 * [2026-04-17, 15:29:36](https://news.ycombinator.com/item?id=47807006) - [Claude Opus 4.7 costs 20–30% more per session](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you)
