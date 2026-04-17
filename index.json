@@ -1,42 +1,42 @@
 [
   [
     [
+      "2026-04-17, 03:36:26",
+      "https://news.ycombinator.com/item?id=47802233"
+    ],
+    [
+      "Discourse Is Not Going Closed Source",
+      "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 02:53:16",
+      "https://news.ycombinator.com/item?id=47802016"
+    ],
+    [
+      "Substrate AI Is Hiring Harness Engineers",
+      "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 02:50:02",
+      "https://news.ycombinator.com/item?id=47801991"
+    ],
+    [
+      "US Bill Mandates On-Device Age Verification",
+      "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 00:37:47",
       "https://news.ycombinator.com/item?id=47801255"
     ],
     [
       "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
       "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 23:29:07",
-      "https://news.ycombinator.com/item?id=47800839"
-    ],
-    [
-      "Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan",
-      "https://www.bbc.com/news/articles/clyrd818gd2o"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 23:17:47",
-      "https://news.ycombinator.com/item?id=47800765"
-    ],
-    [
-      "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
-      "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 23:15:33",
-      "https://news.ycombinator.com/item?id=47800738"
-    ],
-    [
-      "Everything we like is a psyop",
-      "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "A Better R Programming Experience Thanks to Tree-sitter",
       "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 21:00:33",
-      "https://news.ycombinator.com/item?id=47799454"
-    ],
-    [
-      "Join Akkari's Founding Team (YC P26) as an Engineer",
-      "https://news.ycombinator.com/item?id=47799454"
     ]
   ],
   [
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2026-04-16, 13:16:29",
-      "https://news.ycombinator.com/item?id=47792525"
-    ],
-    [
-      "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
-      "https://github.com/SeanFDZ/macmind"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 13:02:03",
       "https://news.ycombinator.com/item?id=47792374"
     ],
@@ -287,6 +267,26 @@
     [
       "Circuit Transformations, Loop Fusion, and Inductive Proof",
       "https://natetyoung.github.io/carry_save_fusion/"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 11:39:12",
+      "https://news.ycombinator.com/item?id=47750600"
+    ],
+    [
+      "ReBot-DevArm: open-source Robotic Arm",
+      "https://github.com/Seeed-Projects/reBot-DevArm"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 07:12:45",
+      "https://news.ycombinator.com/item?id=47748733"
+    ],
+    [
+      "A Git helper tool that breaks large merges into parallelizable tasks",
+      "https://github.com/mwallner/mergetopus"
     ]
   ],
   [
