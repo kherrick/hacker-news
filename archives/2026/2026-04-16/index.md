@@ -29,6 +29,7 @@
 * [2026-04-16, 16:08:05](https://news.ycombinator.com/item?id=47795468) - [Show HN: Marky – A lightweight Markdown viewer for agentic coding](https://github.com/GRVYDEV/marky)
 * [2026-04-16, 15:19:54](https://news.ycombinator.com/item?id=47794514) - [Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
 * [2026-04-16, 15:13:13](https://news.ycombinator.com/item?id=47794391) - [We gave an AI a 3 year retail lease and asked it to make a profit](https://andonlabs.com/blog/andon-market-launch)
+* [2026-04-16, 15:09:07](https://news.ycombinator.com/item?id=47794311) - [The Unix Executable as a Smalltalk Method [video]](https://www.youtube.com/watch?v=sZjPQ7vtLNA)
 * [2026-04-16, 14:51:13](https://news.ycombinator.com/item?id=47793926) - [Laravel raised money and now injects ads directly into your agent](https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/)
 * [2026-04-16, 14:32:24](https://news.ycombinator.com/item?id=47793546) - [Claude Opus 4.7 Model Card](https://anthropic.com/claude-opus-4-7-system-card)
 * [2026-04-16, 14:23:50](https://news.ycombinator.com/item?id=47793411) - [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
