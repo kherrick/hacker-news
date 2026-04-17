@@ -12,6 +12,7 @@
 * [2026-04-14, 21:56:05](https://news.ycombinator.com/item?id=47772012) - [Stop Flock](https://stopflock.com)
 * [2026-04-14, 20:42:21](https://news.ycombinator.com/item?id=47771220) - [Free, fast diagnostic tools for DNS, email authentication, and network security](https://mrdns.com/)
 * [2026-04-14, 20:07:20](https://news.ycombinator.com/item?id=47770770) - [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
+* [2026-04-14, 19:37:51](https://news.ycombinator.com/item?id=47770405) - [Why, After All These Years, MZI-Based Transistorlessness Might Finally Be Here](https://write.as/mnggfj7asl07k)
 * [2026-04-14, 19:18:53](https://news.ycombinator.com/item?id=47770124) - [Gas Town: From Clown Show to v1.0](https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec)
 * [2026-04-14, 19:12:09](https://news.ycombinator.com/item?id=47770020) - [ClawRun – Deploy and manage AI agents in seconds](https://github.com/clawrun-sh/clawrun)
 * [2026-04-14, 19:08:32](https://news.ycombinator.com/item?id=47769967) - [California ghost-gun bill wants 3D printers to play cop, EFF says](https://www.theregister.com/2026/04/14/eff_california_3dprinted_firearms/)
