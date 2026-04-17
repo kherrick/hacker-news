@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-17, 03:59:22",
+      "https://news.ycombinator.com/item?id=47802330"
+    ],
+    [
+      "Bluesky has been dealing with a DDoS attack for nearly a full day",
+      "https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 03:55:54",
+      "https://news.ycombinator.com/item?id=47802312"
+    ],
+    [
+      "Human Accelerated Region 1",
+      "https://en.wikipedia.org/wiki/Human_accelerated_region_1"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 03:36:26",
       "https://news.ycombinator.com/item?id=47802233"
     ],
@@ -35,8 +55,18 @@
       "https://news.ycombinator.com/item?id=47801255"
     ],
     [
-      "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
+      "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
       "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 23:15:33",
+      "https://news.ycombinator.com/item?id=47800738"
+    ],
+    [
+      "Everything we like is a psyop?",
+      "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/"
     ]
   ],
   [
@@ -67,6 +97,16 @@
     [
       "A Better R Programming Experience Thanks to Tree-sitter",
       "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 20:49:35",
+      "https://news.ycombinator.com/item?id=47799322"
+    ],
+    [
+      "The beginning of scarcity in AI",
+      "https://tomtunguz.com/ai-compute-crisis-2026/"
     ]
   ],
   [
@@ -211,26 +251,6 @@
   ],
   [
     [
-      "2026-04-16, 10:48:00",
-      "https://news.ycombinator.com/item?id=47791236"
-    ],
-    [
-      "AI cybersecurity is not proof of work",
-      "https://antirez.com/news/163"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 10:44:45",
-      "https://news.ycombinator.com/item?id=47791212"
-    ],
-    [
-      "Codex Hacked a Samsung TV",
-      "https://blog.calif.io/p/codex-hacked-a-samsung-tv"
-    ]
-  ],
-  [
-    [
       "2026-04-14, 23:20:39",
       "https://news.ycombinator.com/item?id=47772725"
     ],
@@ -241,32 +261,22 @@
   ],
   [
     [
-      "2026-04-14, 06:45:49",
-      "https://news.ycombinator.com/item?id=47762082"
+      "2026-04-13, 23:45:58",
+      "https://news.ycombinator.com/item?id=47759436"
     ],
     [
-      "\"Wretches, Speak Evil of Me\": Goethe and Schiller's Xenions (1896 Edition)",
-      "https://publicdomainreview.org/collection/xenions/"
+      "30 Years of HPC: many hardware advances, little adoption of new languages",
+      "https://chapel-lang.org/blog/posts/30years/"
     ]
   ],
   [
     [
-      "2026-04-13, 22:57:05",
-      "https://news.ycombinator.com/item?id=47759035"
+      "2026-04-13, 17:25:50",
+      "https://news.ycombinator.com/item?id=47755261"
     ],
     [
-      "Show HN: CodeBurn – Analyze Claude Code token usage by task",
-      "https://github.com/AgentSeal/codeburn"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 16:23:23",
-      "https://news.ycombinator.com/item?id=47754383"
-    ],
-    [
-      "Circuit Transformations, Loop Fusion, and Inductive Proof",
-      "https://natetyoung.github.io/carry_save_fusion/"
+      "A Python Interpreter Written in Python",
+      "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A Git helper tool that breaks large merges into parallelizable tasks",
       "https://github.com/mwallner/mergetopus"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 03:56:41",
-      "https://news.ycombinator.com/item?id=47747407"
-    ],
-    [
-      "IBM AP-101 general-purpose computer [pdf]",
-      "https://gandalfddi.z19.web.core.windows.net/Shuttle/IBM%20AP-101S%20General%20Purpose%20Computer%20With%20Shuttle%20Instruction%20Set.pdf"
     ]
   ]
 ]
