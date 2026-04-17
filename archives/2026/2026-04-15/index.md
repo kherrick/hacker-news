@@ -23,6 +23,7 @@
 * [2026-04-15, 19:17:12](https://news.ycombinator.com/item?id=47783873) - [Jury Finds Live Nation Acts as a Monopoly in a Victory for States](https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html)
 * [2026-04-15, 19:06:39](https://news.ycombinator.com/item?id=47783713) - [Live Nation Illegally Monopolized Ticketing Market, Jury Finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds)
 * [2026-04-15, 18:35:45](https://news.ycombinator.com/item?id=47783278) - [Users lose $9.5M to fake Ledger wallet app on the Apple App Store](https://www.web3isgoinggreat.com/?id=fake-ledger-app)
+* [2026-04-15, 18:20:03](https://news.ycombinator.com/item?id=47783062) - [Generating a color spectrum for an image](https://amandahinton.com/blog/generating-a-color-spectrum-for-an-image)
 * [2026-04-15, 18:16:50](https://news.ycombinator.com/item?id=47783024) - [AI-Assisted Cognition Endangers Human Development](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
 * [2026-04-15, 18:11:24](https://news.ycombinator.com/item?id=47782972) - [Kalshi CEO expects US DOJ to prosecute insider trading cases](https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases)
 * [2026-04-15, 17:44:26](https://news.ycombinator.com/item?id=47782570) - [Google Broke Its Promise to Me. Now ICE Has My Data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data)

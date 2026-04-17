@@ -26,6 +26,7 @@
 * [2026-04-16, 17:36:29](https://news.ycombinator.com/item?id=47796818) - [Show HN: Stage – Putting humans back in control of code review](https://stagereview.app/)
 * [2026-04-16, 17:12:19](https://news.ycombinator.com/item?id=47796469) - [Codex for Almost Everything](https://openai.com/index/codex-for-almost-everything/)
 * [2026-04-16, 16:53:32](https://news.ycombinator.com/item?id=47796197) - [Japan implements language proficiency requirements for certain visa applicants](https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/)
+* [2026-04-16, 16:40:49](https://news.ycombinator.com/item?id=47796016) - [Nintendo's Empire of Secrets with Keza MacDonald – Factually with Adam Conover](https://art19.com/shows/factually--with-adam-conover/episodes/5154e9af-8885-4149-9721-173c02c46bb7/)
 * [2026-04-16, 16:08:05](https://news.ycombinator.com/item?id=47795468) - [Show HN: Marky – A lightweight Markdown viewer for agentic coding](https://github.com/GRVYDEV/marky)
 * [2026-04-16, 15:19:54](https://news.ycombinator.com/item?id=47794514) - [Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
 * [2026-04-16, 15:13:13](https://news.ycombinator.com/item?id=47794391) - [We gave an AI a 3 year retail lease and asked it to make a profit](https://andonlabs.com/blog/andon-market-launch)
