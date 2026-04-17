@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-17](index.md)
 
+* [2026-04-17, 15:29:36](https://news.ycombinator.com/item?id=47807006) - [Claude Opus 4.7 costs 20–30% more per session](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you)
+* [2026-04-17, 15:09:14](https://news.ycombinator.com/item?id=47806777) - [NIST gives up enriching most CVEs](https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/)
 * [2026-04-17, 15:04:09](https://news.ycombinator.com/item?id=47806725) - [Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs)
 * [2026-04-17, 14:41:49](https://news.ycombinator.com/item?id=47806484) - [Middle schooler finds coin from Troy in Berlin](https://www.thehistoryblog.com/archives/75848)
 * [2026-04-17, 14:37:16](https://news.ycombinator.com/item?id=47806440) - [Iceye Open Data](https://www.iceye.com/open-data-initiative)
+* [2026-04-17, 14:32:22](https://news.ycombinator.com/item?id=47806379) - [IETF draft-meow-mrrp-00](https://www.ietf.org/archive/id/draft-meow-mrrp-00.html)
 * [2026-04-17, 14:29:11](https://news.ycombinator.com/item?id=47806348) - [Healthchecks.io Now Uses Self-Hosted Object Storage](https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/)
 * [2026-04-17, 14:25:46](https://news.ycombinator.com/item?id=47806304) - [It Is Time to Ban the Sale of Precise Geolocation](https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation)
 * [2026-04-17, 14:09:32](https://news.ycombinator.com/item?id=47806116) - [We Reproduced Anthropic's Mythos Findings with Public Models](https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models)

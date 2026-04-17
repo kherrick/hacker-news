@@ -43,6 +43,7 @@
 * [2026-04-15, 13:47:40](https://news.ycombinator.com/item?id=47778920) - [US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
 * [2026-04-15, 13:34:11](https://news.ycombinator.com/item?id=47778758) - [The Future of Everything Is Lies, I Guess: New Jobs](https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs)
 * [2026-04-15, 13:22:10](https://news.ycombinator.com/item?id=47778617) - [MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints](https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/)
+* [2026-04-15, 13:13:20](https://news.ycombinator.com/item?id=47778524) - [Designing the Transport Typeface](https://www.thamesandhudson.com/blogs/all-news-features/designing-the-transport-typeface-margaret-calvert-on-the-making-of-britain-s-road-signs)
 * [2026-04-15, 13:08:10](https://news.ycombinator.com/item?id=47778475) - [God Sleeps in the Minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/)
 * [2026-04-15, 12:58:11](https://news.ycombinator.com/item?id=47778366) - [US national level OS-level age verification bill](https://social.coop/@cwebber/116408556882122186)
 * [2026-04-15, 12:51:13](https://news.ycombinator.com/item?id=47778308) - [AI ruling prompts warnings from US lawyers: Your chats could be used against you](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
