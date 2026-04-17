@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-17, 22:53:18](https://news.ycombinator.com/item?id=47811442) - [How to Host a Blog on a Subdirectory Instead of a Subdomain](https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/)
+* [2026-04-17, 22:30:28](https://news.ycombinator.com/item?id=47811283) - [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)
 * [2026-04-17, 21:38:20](https://news.ycombinator.com/item?id=47810872) - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
 * [2026-04-17, 21:00:08](https://news.ycombinator.com/item?id=47810507) - [Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead)
 * [2026-04-17, 19:00:07](https://news.ycombinator.com/item?id=47809347) - [Tesla tells HW3 owner to 'be patient' after 7 years of waiting for FSD](https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/)
@@ -20,8 +22,6 @@
 * [2026-04-17, 14:29:11](https://news.ycombinator.com/item?id=47806348) - [Healthchecks.io now uses self-hosted object storage](https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/)
 * [2026-04-17, 14:25:46](https://news.ycombinator.com/item?id=47806304) - [Ban the sale of precise geolocation](https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation)
 * [2026-04-17, 12:01:19](https://news.ycombinator.com/item?id=47804965) - [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html)
-* [2026-04-17, 08:51:38](https://news.ycombinator.com/item?id=47803844) - [Ada, its design, and the language that built the languages](https://www.iqiipi.com/the-quiet-colossus.html)
-* [2026-04-17, 01:38:01](https://news.ycombinator.com/item?id=47801639) - [Solitaire simulator for finding the best strategy: Current record is 8.590%](https://github.com/dacracot/Klondike3-Simulator)
 * [2026-04-16, 17:36:29](https://news.ycombinator.com/item?id=47796818) - [Show HN: Stage – Putting humans back in control of code review](https://stagereview.app/)
 * [2026-04-16, 15:09:07](https://news.ycombinator.com/item?id=47794311) - [The Unix Executable as a Smalltalk Method [video]](https://www.youtube.com/watch?v=sZjPQ7vtLNA)
 * [2026-04-15, 16:59:08](https://news.ycombinator.com/item?id=47781889) - [Introducing: ShaderPad](https://rileyjshaw.com/blog/introducing-shaderpad/)
