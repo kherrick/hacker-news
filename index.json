@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-04-17, 19:00:07",
+      "https://news.ycombinator.com/item?id=47809347"
+    ],
+    [
+      "Tesla tells HW3 owner to 'be patient' after 7 years of waiting for FSD",
+      "https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 18:17:01",
       "https://news.ycombinator.com/item?id=47808913"
     ],
     [
-      "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder",
+      "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
       "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon"
     ]
   ],
@@ -27,6 +37,16 @@
     [
       "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
       "https://github.com/smol-machines/smolvm"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 17:10:17",
+      "https://news.ycombinator.com/item?id=47808174"
+    ],
+    [
+      "Random musings: 80s hardware, cyberdecks",
+      "https://strangelyentangled.com/blog/musings-80s-hardware/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-04-17, 13:55:25",
-      "https://news.ycombinator.com/item?id=47805998"
-    ],
-    [
-      "Scan your website to see how ready it is for AI agents",
-      "https://isitagentready.com"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 12:01:19",
       "https://news.ycombinator.com/item?id=47804965"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2026-04-14, 23:20:39",
-      "https://news.ycombinator.com/item?id=47772725"
+      "2026-04-14, 19:37:51",
+      "https://news.ycombinator.com/item?id=47770405"
     ],
     [
-      "CadQuery is an open-source Python library for building 3D CAD models",
-      "https://cadquery.github.io/"
+      "Why, After All These Years, MZI-Based Transistorlessness Might Finally Be Here",
+      "https://write.as/mnggfj7asl07k"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Webloc: Analysis of Penlink's Ad-Based Geolocation Surveillance Tech",
       "https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 17:25:50",
-      "https://news.ycombinator.com/item?id=47755261"
-    ],
-    [
-      "A Python Interpreter Written in Python",
-      "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
     ]
   ],
   [
