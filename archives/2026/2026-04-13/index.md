@@ -51,6 +51,7 @@
 * [2026-04-13, 14:36:57](https://news.ycombinator.com/item?id=47752639) - [Precision over perception: Why architecture matters in benchmarking](https://www.redhat.com/en/blog/precision-over-perception-why-architecture-matters-benchmarking)
 * [2026-04-13, 14:26:02](https://news.ycombinator.com/item?id=47752466) - [MEMS Array Chip Can Project Video the Size of a Grain of Sand](https://spectrum.ieee.org/mems-photonics)
 * [2026-04-13, 13:48:24](https://news.ycombinator.com/item?id=47751936) - [Microsoft isn't removing Copilot from Windows 11, it's just renaming it](https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/)
+* [2026-04-13, 13:41:25](https://news.ycombinator.com/item?id=47751830) - [The Utopia of the Family Computer](https://mudmapmagazine.com/the-utopia-of-the-family-computer/)
 * [2026-04-13, 13:37:33](https://news.ycombinator.com/item?id=47751781) - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/)
 * [2026-04-13, 13:27:51](https://news.ycombinator.com/item?id=47751669) - [They See Your Photos](https://theyseeyourphotos.com/)
 * [2026-04-13, 13:23:50](https://news.ycombinator.com/item?id=47751621) - [Initial mainline video capture and camera support for Rockchip RK3588](https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html)

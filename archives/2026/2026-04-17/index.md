@@ -4,8 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-04-17](index.md)
 
+* [2026-04-17, 15:04:09](https://news.ycombinator.com/item?id=47806725) - [Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs)
+* [2026-04-17, 14:41:49](https://news.ycombinator.com/item?id=47806484) - [Middle schooler finds coin from Troy in Berlin](https://www.thehistoryblog.com/archives/75848)
+* [2026-04-17, 14:37:16](https://news.ycombinator.com/item?id=47806440) - [Iceye Open Data](https://www.iceye.com/open-data-initiative)
+* [2026-04-17, 14:29:11](https://news.ycombinator.com/item?id=47806348) - [Healthchecks.io Now Uses Self-Hosted Object Storage](https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/)
+* [2026-04-17, 14:25:46](https://news.ycombinator.com/item?id=47806304) - [It Is Time to Ban the Sale of Precise Geolocation](https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation)
+* [2026-04-17, 14:09:32](https://news.ycombinator.com/item?id=47806116) - [We Reproduced Anthropic's Mythos Findings with Public Models](https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models)
+* [2026-04-17, 13:55:25](https://news.ycombinator.com/item?id=47805998) - [Is Your Site Agent-Ready? (By Cloudflare)](https://isitagentready.com)
 * [2026-04-17, 12:01:19](https://news.ycombinator.com/item?id=47804965) - [Isaac Asimov: The Last Question](https://hex.ooo/library/last_question.html)
 * [2026-04-17, 11:22:05](https://news.ycombinator.com/item?id=47804708) - [How Silicon Valley Is Turning Scientists into Exploited Gig Workers](https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/)
+* [2026-04-17, 09:18:16](https://news.ycombinator.com/item?id=47803992) - [Teddy Roosevelt and Abraham Lincoln in the same photo](https://prologue.blogs.archives.gov/2010/11/09/teddy-roosevelt-and-abraham-lincoln-in-the-same-photo/)
 * [2026-04-17, 08:51:38](https://news.ycombinator.com/item?id=47803844) - [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)
 * [2026-04-17, 08:32:54](https://news.ycombinator.com/item?id=47803745) - [How Big Tech wrote secrecy into EU law to hide data centres' environmental toll](https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint)
 * [2026-04-17, 07:20:46](https://news.ycombinator.com/item?id=47803323) - [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/)
