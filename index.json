@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-04-17, 11:22:05",
-      "https://news.ycombinator.com/item?id=47804708"
-    ],
-    [
-      "How Silicon Valley Is Turning Scientists into Exploited Gig Workers",
-      "https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 08:51:38",
       "https://news.ycombinator.com/item?id=47803844"
     ],
@@ -67,16 +57,6 @@
     [
       "Human Accelerated Region 1",
       "https://en.wikipedia.org/wiki/Human_accelerated_region_1"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 03:36:26",
-      "https://news.ycombinator.com/item?id=47802233"
-    ],
-    [
-      "Discourse Is Not Going Closed Source",
-      "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/"
     ]
   ],
   [
@@ -171,6 +151,16 @@
   ],
   [
     [
+      "2026-04-16, 17:36:29",
+      "https://news.ycombinator.com/item?id=47796818"
+    ],
+    [
+      "Show HN: Stage – Putting humans back in control of code review",
+      "https://stagereview.app/"
+    ]
+  ],
+  [
+    [
       "2026-04-16, 17:12:19",
       "https://news.ycombinator.com/item?id=47796469"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2026-04-14, 11:35:25",
+      "https://news.ycombinator.com/item?id=47764240"
+    ],
+    [
+      "The missing catalogue: why finding books in translation is still so hard",
+      "https://blogs.lse.ac.uk/impactofsocialsciences/2026/04/13/the-missing-catalogue-why-finding-books-in-translation-is-still-so-hard/"
+    ]
+  ],
+  [
+    [
       "2026-04-13, 23:45:58",
       "https://news.ycombinator.com/item?id=47759436"
     ],
@@ -247,16 +247,6 @@
     [
       "A Python Interpreter Written in Python",
       "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 16:36:42",
-      "https://news.ycombinator.com/item?id=47754603"
-    ],
-    [
-      "Average Is All You Need",
-      "https://rawquery.dev/blog/average-is-all-you-need"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Git helper tool that breaks large merges into parallelizable tasks",
       "https://github.com/mwallner/mergetopus"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 05:32:33",
+      "https://news.ycombinator.com/item?id=47747986"
+    ],
+    [
+      "Taking a Look at Compression Algorithms – Moncef Abboud",
+      "https://cefboud.com/posts/compression/"
     ]
   ]
 ]
