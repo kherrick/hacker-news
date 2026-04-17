@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-17](index.md)
 
+* [2026-04-17, 17:18:58](https://news.ycombinator.com/item?id=47808268) - [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
 * [2026-04-17, 17:01:13](https://news.ycombinator.com/item?id=47808047) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering)
+* [2026-04-17, 16:38:44](https://news.ycombinator.com/item?id=47807809) - [Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock](https://github.com/paniclock/paniclock/)
 * [2026-04-17, 16:23:22](https://news.ycombinator.com/item?id=47807619) - [Hyperscalers have already outspent most famous US megaprojects](https://twitter.com/finmoorhouse/status/2044933442236776794)
 * [2026-04-17, 15:47:41](https://news.ycombinator.com/item?id=47807209) - [NASA Force](https://nasaforce.gov/)
 * [2026-04-17, 15:29:36](https://news.ycombinator.com/item?id=47807006) - [Claude Opus 4.7 costs 20–30% more per session](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you)
@@ -30,4 +32,5 @@
 * [2026-04-17, 03:36:26](https://news.ycombinator.com/item?id=47802233) - [Discourse Is Not Going Closed Source](https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/)
 * [2026-04-17, 02:53:16](https://news.ycombinator.com/item?id=47802016) - [Substrate AI Is Hiring Harness Engineers](https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer)
 * [2026-04-17, 02:50:02](https://news.ycombinator.com/item?id=47801991) - [US Bill Mandates On-Device Age Verification](https://reclaimthenet.org/us-bill-mandates-on-device-age-verification)
+* [2026-04-17, 01:38:01](https://news.ycombinator.com/item?id=47801639) - [Solitaire simulator for finding the best strategy: Current record is 8.590%](https://github.com/dacracot/Klondike3-Simulator)
 * [2026-04-17, 00:37:47](https://news.ycombinator.com/item?id=47801255) - [Show HN: Spice simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/)

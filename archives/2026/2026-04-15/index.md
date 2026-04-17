@@ -61,6 +61,7 @@
 * [2026-04-15, 09:41:19](https://news.ycombinator.com/item?id=47776796) - [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html)
 * [2026-04-15, 09:31:03](https://news.ycombinator.com/item?id=47776723) - ['Seeking connection': video game where players stopped shooting, started talking](https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking)
 * [2026-04-15, 09:24:31](https://news.ycombinator.com/item?id=47776667) - [Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared](https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows)
+* [2026-04-15, 09:24:06](https://news.ycombinator.com/item?id=47776663) - [Connie Converse was a folk-music genius. Then she vanished](https://www.bbc.com/culture/article/20260413-the-mystery-of-a-missing-folk-music-pioneer)
 * [2026-04-15, 09:11:18](https://news.ycombinator.com/item?id=47776557) - [Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm)
 * [2026-04-15, 08:33:58](https://news.ycombinator.com/item?id=47776252) - [Projected warming will exceed the long-term thermal limits of rice cultivation](https://www.nature.com/articles/s43247-025-03108-0)
 * [2026-04-15, 08:05:18](https://news.ycombinator.com/item?id=47776035) - [Anna's Archive Loses $322M Spotify Piracy Case Without a Fight](https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/)
