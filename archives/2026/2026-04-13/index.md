@@ -12,6 +12,7 @@
 * [2026-04-13, 22:57:05](https://news.ycombinator.com/item?id=47759035) - [Show HN: CodeBurn – Analyze Claude Code token usage by task](https://github.com/AgentSeal/codeburn)
 * [2026-04-13, 22:41:19](https://news.ycombinator.com/item?id=47758870) - [Let's Talk Space Toilets](https://mceglowski.substack.com/p/lets-talk-space-toilets)
 * [2026-04-13, 21:54:03](https://news.ycombinator.com/item?id=47758347) - [N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?](https://ndaybench.winfunc.com)
+* [2026-04-13, 21:51:30](https://news.ycombinator.com/item?id=47758309) - [Webloc: Analysis of Penlink's Ad-Based Geolocation Surveillance Tech](https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/)
 * [2026-04-13, 21:48:00](https://news.ycombinator.com/item?id=47758263) - [Tokens – The New Dopamine Economy](https://www.enfuse.io/blog/vibe-coding-trap)
 * [2026-04-13, 21:25:38](https://news.ycombinator.com/item?id=47758028) - [Stanford report highlights growing disconnect between AI insiders and everyone](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
 * [2026-04-13, 21:02:21](https://news.ycombinator.com/item?id=47757775) - [The tech jobs bust is real. Don't blame AI (yet)](https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)
