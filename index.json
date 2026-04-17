@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-04-17, 17:18:58",
+      "https://news.ycombinator.com/item?id=47808268"
+    ],
+    [
+      "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+      "https://github.com/smol-machines/smolvm"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 17:01:13",
       "https://news.ycombinator.com/item?id=47808047"
     ],
     [
       "Kyber (YC W23) Is Hiring a Head of Engineering",
       "https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 16:38:44",
+      "https://news.ycombinator.com/item?id=47807809"
+    ],
+    [
+      "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
+      "https://github.com/paniclock/paniclock/"
     ]
   ],
   [
@@ -161,12 +181,12 @@
   ],
   [
     [
-      "2026-04-17, 03:55:54",
-      "https://news.ycombinator.com/item?id=47802312"
+      "2026-04-17, 01:38:01",
+      "https://news.ycombinator.com/item?id=47801639"
     ],
     [
-      "Human Accelerated Region 1",
-      "https://en.wikipedia.org/wiki/Human_accelerated_region_1"
+      "Solitaire simulator for finding the best strategy: Current record is 8.590%",
+      "https://github.com/dacracot/Klondike3-Simulator"
     ]
   ],
   [
@@ -181,22 +201,22 @@
   ],
   [
     [
-      "2026-04-16, 19:18:31",
-      "https://news.ycombinator.com/item?id=47798176"
-    ],
-    [
-      "Playdate’s handheld changed how Duke University teaches game design",
-      "https://news.play.date/news/duke-playdate-education/"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 18:39:59",
       "https://news.ycombinator.com/item?id=47797665"
     ],
     [
       "Android CLI: Build Android apps 3x faster using any agent",
       "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 17:36:29",
+      "https://news.ycombinator.com/item?id=47796818"
+    ],
+    [
+      "Show HN: Stage – Putting humans back in control of code review",
+      "https://stagereview.app/"
     ]
   ],
   [
@@ -231,6 +251,16 @@
   ],
   [
     [
+      "2026-04-15, 09:24:06",
+      "https://news.ycombinator.com/item?id=47776663"
+    ],
+    [
+      "Connie Converse was a folk-music genius. Then she vanished",
+      "https://www.bbc.com/culture/article/20260413-the-mystery-of-a-missing-folk-music-pioneer"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 23:20:39",
       "https://news.ycombinator.com/item?id=47772725"
     ],
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2026-04-13, 23:45:58",
-      "https://news.ycombinator.com/item?id=47759436"
-    ],
-    [
-      "Reflections on 30 Years of HPC Programming",
-      "https://chapel-lang.org/blog/posts/30years/"
-    ]
-  ],
-  [
-    [
       "2026-04-13, 17:25:50",
       "https://news.ycombinator.com/item?id=47755261"
     ],
@@ -277,26 +297,6 @@
     [
       "The Utopia of the Family Computer",
       "https://mudmapmagazine.com/the-utopia-of-the-family-computer/"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 12:28:35",
-      "https://news.ycombinator.com/item?id=47751011"
-    ],
-    [
-      "中文 Literacy Speedrun II: Character Cyclotron",
-      "https://blog.kevinzwu.com/character-cyclotron/"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 18:18:56",
-      "https://news.ycombinator.com/item?id=47742677"
-    ],
-    [
-      "Why \"200 OK\" does not mean your system worked",
-      "https://blog.bridgexapi.io/why-200-ok-does-not-mean-your-system-worked"
     ]
   ]
 ]
