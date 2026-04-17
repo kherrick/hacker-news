@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
 * [2026-04-14, 23:41:43](https://news.ycombinator.com/item?id=47772906) - [Apple App Store threatened to remove Grok over deepfakes: Letter](https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677)
+* [2026-04-14, 23:20:39](https://news.ycombinator.com/item?id=47772725) - [CadQuery is an open-source Python library for building 3D CAD models](https://cadquery.github.io/)
 * [2026-04-14, 22:23:15](https://news.ycombinator.com/item?id=47772245) - [Civilization Is Not the Default. Violence Is](https://apropos.substack.com/p/civilization-is-a-public-good)
 * [2026-04-14, 22:18:55](https://news.ycombinator.com/item?id=47772203) - [H.R.8250 – To require operating system providers to verify the age of any user](https://www.congress.gov/bill/119th-congress/house-bill/8250/all-info)
 * [2026-04-14, 22:00:11](https://news.ycombinator.com/item?id=47772048) - [Fuck the cloud (2009)](https://ascii.textfiles.com/archives/1717)
@@ -47,6 +48,7 @@
 * [2026-04-14, 08:35:45](https://news.ycombinator.com/item?id=47762901) - [An AI Vibe Coding Horror Story](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
 * [2026-04-14, 08:30:27](https://news.ycombinator.com/item?id=47762864) - [Backblaze has stopped backing up your data](https://rareese.com/posts/backblaze/)
 * [2026-04-14, 07:57:33](https://news.ycombinator.com/item?id=47762641) - [Introspective Diffusion Language Models](https://introspective-diffusion.github.io/)
+* [2026-04-14, 06:45:49](https://news.ycombinator.com/item?id=47762082) - [\"Wretches, Speak Evil of Me\": Goethe and Schiller's Xenions (1896 Edition)](https://publicdomainreview.org/collection/xenions/)
 * [2026-04-14, 06:41:01](https://news.ycombinator.com/item?id=47762060) - [The Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
 * [2026-04-14, 06:32:45](https://news.ycombinator.com/item?id=47762006) - [Can Claude Fly a Plane?](https://so.long.thanks.fish/can-claude-fly-a-plane/)
 * [2026-04-14, 06:31:44](https://news.ycombinator.com/item?id=47761997) - [Distributed DuckDB Instance](https://github.com/citguru/openduck)
