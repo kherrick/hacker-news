@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-17, 07:20:46",
+      "https://news.ycombinator.com/item?id=47803323"
+    ],
+    [
+      "FIM – Linux framebuffer image viewer",
+      "https://www.nongnu.org/fbi-improved/"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 06:19:45",
+      "https://news.ycombinator.com/item?id=47802971"
+    ],
+    [
+      "PROBoter – Open-source platform for automated PCB analysis",
+      "https://www.schutzwerk.com/en/blog/proboter-01/"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 03:59:22",
       "https://news.ycombinator.com/item?id=47802330"
     ],
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2026-04-16, 20:31:52",
-      "https://news.ycombinator.com/item?id=47799120"
-    ],
-    [
-      "The \"Passive Income\" trap ate a generation of entrepreneurs",
-      "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 19:32:18",
       "https://news.ycombinator.com/item?id=47798345"
     ],
     [
       "Official Clojure Documentary page with Video, Shownotes, and Links",
       "https://clojure.org/about/documentary"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 19:24:50",
-      "https://news.ycombinator.com/item?id=47798244"
-    ],
-    [
-      "GPT‑Rosalind for life sciences research",
-      "https://openai.com/index/introducing-gpt-rosalind/"
     ]
   ],
   [
@@ -177,16 +177,6 @@
     [
       "Codex for almost everything",
       "https://openai.com/index/codex-for-almost-everything/"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 16:08:05",
-      "https://news.ycombinator.com/item?id=47795468"
-    ],
-    [
-      "Show HN: Marky – A lightweight Markdown viewer for agentic coding",
-      "https://github.com/GRVYDEV/marky"
     ]
   ],
   [
@@ -241,16 +231,6 @@
   ],
   [
     [
-      "2026-04-16, 13:02:03",
-      "https://news.ycombinator.com/item?id=47792374"
-    ],
-    [
-      "Artifacts: Versioned storage that speaks Git",
-      "https://blog.cloudflare.com/artifacts-git-for-agents-beta/"
-    ]
-  ],
-  [
-    [
       "2026-04-14, 23:20:39",
       "https://news.ycombinator.com/item?id=47772725"
     ],
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2026-04-13, 18:42:29",
+      "https://news.ycombinator.com/item?id=47756239"
+    ],
+    [
+      "Building a Web Page That Edits Itself",
+      "https://www.patrickweaver.net/blog/one-pager-self-editing-html/"
+    ]
+  ],
+  [
+    [
       "2026-04-13, 17:25:50",
       "https://news.ycombinator.com/item?id=47755261"
     ],
@@ -287,6 +277,16 @@
     [
       "ReBot-DevArm: open-source Robotic Arm",
       "https://github.com/Seeed-Projects/reBot-DevArm"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 11:09:09",
+      "https://news.ycombinator.com/item?id=47750364"
+    ],
+    [
+      "Century-bandwidth antenna reinvented,patented after 18 yrs with decade bandwidth",
+      "https://ieeexplore.ieee.org/document/1715264"
     ]
   ],
   [
