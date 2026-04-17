@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-17, 08:51:38](https://news.ycombinator.com/item?id=47803844) - [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)
 * [2026-04-17, 07:20:46](https://news.ycombinator.com/item?id=47803323) - [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/)
 * [2026-04-17, 06:19:45](https://news.ycombinator.com/item?id=47802971) - [PROBoter – Open-source platform for automated PCB analysis](https://www.schutzwerk.com/en/blog/proboter-01/)
 * [2026-04-17, 03:59:22](https://news.ycombinator.com/item?id=47802330) - [Bluesky has been dealing with a DDoS attack for nearly a full day](https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day)
@@ -16,7 +17,6 @@
 * [2026-04-16, 19:32:18](https://news.ycombinator.com/item?id=47798345) - [Official Clojure Documentary page with Video, Shownotes, and Links](https://clojure.org/about/documentary)
 * [2026-04-16, 19:18:31](https://news.ycombinator.com/item?id=47798176) - [Playdate’s handheld changed how Duke University teaches game design](https://news.play.date/news/duke-playdate-education/)
 * [2026-04-16, 18:39:59](https://news.ycombinator.com/item?id=47797665) - [Android CLI: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)
-* [2026-04-16, 17:37:20](https://news.ycombinator.com/item?id=47796830) - [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/)
 * [2026-04-16, 17:12:19](https://news.ycombinator.com/item?id=47796469) - [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
 * [2026-04-16, 15:19:54](https://news.ycombinator.com/item?id=47794514) - [Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
 * [2026-04-16, 14:23:50](https://news.ycombinator.com/item?id=47793411) - [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
@@ -27,8 +27,8 @@
 * [2026-04-13, 23:45:58](https://news.ycombinator.com/item?id=47759436) - [30 Years of HPC: many hardware advances, little adoption of new languages](https://chapel-lang.org/blog/posts/30years/)
 * [2026-04-13, 18:42:29](https://news.ycombinator.com/item?id=47756239) - [Building a Web Page That Edits Itself](https://www.patrickweaver.net/blog/one-pager-self-editing-html/)
 * [2026-04-13, 17:25:50](https://news.ycombinator.com/item?id=47755261) - [A Python Interpreter Written in Python](https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
+* [2026-04-13, 14:36:57](https://news.ycombinator.com/item?id=47752639) - [Precision over perception: Why architecture matters in benchmarking](https://www.redhat.com/en/blog/precision-over-perception-why-architecture-matters-benchmarking)
 * [2026-04-13, 11:39:12](https://news.ycombinator.com/item?id=47750600) - [ReBot-DevArm: open-source Robotic Arm](https://github.com/Seeed-Projects/reBot-DevArm)
-* [2026-04-13, 11:09:09](https://news.ycombinator.com/item?id=47750364) - [Century-bandwidth antenna reinvented,patented after 18 yrs with decade bandwidth](https://ieeexplore.ieee.org/document/1715264)
 * [2026-04-13, 07:12:45](https://news.ycombinator.com/item?id=47748733) - [A Git helper tool that breaks large merges into parallelizable tasks](https://github.com/mwallner/mergetopus)
 
 ## [Archives](archives/index.md)

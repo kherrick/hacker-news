@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-17](index.md)
 
+* [2026-04-17, 08:51:38](https://news.ycombinator.com/item?id=47803844) - [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)
 * [2026-04-17, 07:20:46](https://news.ycombinator.com/item?id=47803323) - [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/)
 * [2026-04-17, 06:19:45](https://news.ycombinator.com/item?id=47802971) - [PROBoter – Open-source platform for automated PCB analysis](https://www.schutzwerk.com/en/blog/proboter-01/)
 * [2026-04-17, 03:59:22](https://news.ycombinator.com/item?id=47802330) - [Bluesky has been dealing with a DDoS attack for nearly a full day](https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day)

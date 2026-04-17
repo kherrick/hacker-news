@@ -47,6 +47,7 @@
 * [2026-04-13, 15:29:35](https://news.ycombinator.com/item?id=47753446) - [Alpine Divorce: A Hike That Ends a Relationship](https://www.nytimes.com/2026/04/12/style/alpine-divorce-relationships-hike.html)
 * [2026-04-13, 14:53:05](https://news.ycombinator.com/item?id=47752884) - [We May Be Living Through the Most Consequential Hundred Days in Cyber History](https://ringmast4r.substack.com/p/we-may-be-living-through-the-most)
 * [2026-04-13, 14:48:55](https://news.ycombinator.com/item?id=47752819) - [Make Tmux Pretty and Usable](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
+* [2026-04-13, 14:36:57](https://news.ycombinator.com/item?id=47752639) - [Precision over perception: Why architecture matters in benchmarking](https://www.redhat.com/en/blog/precision-over-perception-why-architecture-matters-benchmarking)
 * [2026-04-13, 14:26:02](https://news.ycombinator.com/item?id=47752466) - [MEMS Array Chip Can Project Video the Size of a Grain of Sand](https://spectrum.ieee.org/mems-photonics)
 * [2026-04-13, 13:48:24](https://news.ycombinator.com/item?id=47751936) - [Microsoft isn't removing Copilot from Windows 11, it's just renaming it](https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/)
 * [2026-04-13, 13:37:33](https://news.ycombinator.com/item?id=47751781) - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/)
