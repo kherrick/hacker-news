@@ -24,11 +24,11 @@
 * [2026-04-14, 23:20:39](https://news.ycombinator.com/item?id=47772725) - [CadQuery is an open-source Python library for building 3D CAD models](https://cadquery.github.io/)
 * [2026-04-14, 11:21:17](https://news.ycombinator.com/item?id=47764116) - [Rubens Menin's 150 Years \"Old\" Port Wine](https://neofeed.com.br/finde/o-vinho-do-porto-very-very-old-de-rubens-menin/en/)
 * [2026-04-13, 23:45:58](https://news.ycombinator.com/item?id=47759436) - [30 Years of HPC: many hardware advances, little adoption of new languages](https://chapel-lang.org/blog/posts/30years/)
-* [2026-04-13, 18:42:29](https://news.ycombinator.com/item?id=47756239) - [Building a Web Page That Edits Itself](https://www.patrickweaver.net/blog/one-pager-self-editing-html/)
 * [2026-04-13, 17:25:50](https://news.ycombinator.com/item?id=47755261) - [A Python Interpreter Written in Python](https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 * [2026-04-13, 14:36:57](https://news.ycombinator.com/item?id=47752639) - [Precision over perception: Why architecture matters in benchmarking](https://www.redhat.com/en/blog/precision-over-perception-why-architecture-matters-benchmarking)
+* [2026-04-13, 12:28:35](https://news.ycombinator.com/item?id=47751011) - [中文 Literacy Speedrun II: Character Cyclotron](https://blog.kevinzwu.com/character-cyclotron/)
 * [2026-04-13, 11:39:12](https://news.ycombinator.com/item?id=47750600) - [ReBot-DevArm: open-source Robotic Arm](https://github.com/Seeed-Projects/reBot-DevArm)
-* [2026-04-13, 11:09:09](https://news.ycombinator.com/item?id=47750364) - [Century-bandwidth antenna reinvented,patented after 18 yrs with decade bandwidth](https://ieeexplore.ieee.org/document/1715264)
+* [2026-04-13, 11:09:09](https://news.ycombinator.com/item?id=47750364) - [Century-bandwidth antenna reinvented,patented after 18 yrs with decade bandwidth (2006)](https://ieeexplore.ieee.org/document/1715264)
 * [2026-04-13, 07:12:45](https://news.ycombinator.com/item?id=47748733) - [A Git helper tool that breaks large merges into parallelizable tasks](https://github.com/mwallner/mergetopus)
 
 ## [Archives](archives/index.md)

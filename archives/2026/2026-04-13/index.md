@@ -55,6 +55,7 @@
 * [2026-04-13, 13:23:50](https://news.ycombinator.com/item?id=47751621) - [Initial mainline video capture and camera support for Rockchip RK3588](https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html)
 * [2026-04-13, 12:29:39](https://news.ycombinator.com/item?id=47751032) - [AI could be the end of the digital wave, not the next big thing](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
 * [2026-04-13, 12:29:35](https://news.ycombinator.com/item?id=47751029) - [I went to America's worst national parks so you don't have to](https://substack.com/home/post/p-193626949)
+* [2026-04-13, 12:28:35](https://news.ycombinator.com/item?id=47751011) - [中文 Literacy Speedrun II: Character Cyclotron](https://blog.kevinzwu.com/character-cyclotron/)
 * [2026-04-13, 12:19:49](https://news.ycombinator.com/item?id=47750939) - [The hottest college major [Computer Science] hit a wall. What happened?](https://www.washingtonpost.com/technology/2026/04/13/computer-science-major-ai/)
 * [2026-04-13, 12:12:22](https://news.ycombinator.com/item?id=47750872) - [Servo is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/)
 * [2026-04-13, 12:05:35](https://news.ycombinator.com/item?id=47750821) - [Michigan 'digital age' bills pulled after privacy concerns raised](https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html)
