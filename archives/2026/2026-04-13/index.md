@@ -77,6 +77,7 @@
 * [2026-04-13, 05:53:28](https://news.ycombinator.com/item?id=47748101) - [Fly Drones from the Browser](https://fpvsim.com/sim)
 * [2026-04-13, 05:45:32](https://news.ycombinator.com/item?id=47748064) - [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)
 * [2026-04-13, 05:39:24](https://news.ycombinator.com/item?id=47748036) - [X Randomly Banning Users for \"Inauthentic Behavior\"](https://old.reddit.com/r/LinusTechTips/comments/1rsdk7i/anybody_here_talking_about_the_massive/)
+* [2026-04-13, 05:32:33](https://news.ycombinator.com/item?id=47747986) - [Taking a Look at Compression Algorithms – Moncef Abboud](https://cefboud.com/posts/compression/)
 * [2026-04-13, 04:57:48](https://news.ycombinator.com/item?id=47747770) - [The paper computer](https://jsomers.net/blog/the-paper-computer)
 * [2026-04-13, 04:26:15](https://news.ycombinator.com/item?id=47747595) - [A Canonical Generalization of OBDD](https://arxiv.org/abs/2604.05537)
 * [2026-04-13, 03:56:41](https://news.ycombinator.com/item?id=47747407) - [IBM AP-101 general-purpose computer [pdf]](https://gandalfddi.z19.web.core.windows.net/Shuttle/IBM%20AP-101S%20General%20Purpose%20Computer%20With%20Shuttle%20Instruction%20Set.pdf)
