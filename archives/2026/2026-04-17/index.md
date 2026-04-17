@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-17](index.md)
 
+* [2026-04-17, 17:01:13](https://news.ycombinator.com/item?id=47808047) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering)
+* [2026-04-17, 16:23:22](https://news.ycombinator.com/item?id=47807619) - [Hyperscalers have already outspent most famous US megaprojects](https://twitter.com/finmoorhouse/status/2044933442236776794)
+* [2026-04-17, 15:47:41](https://news.ycombinator.com/item?id=47807209) - [NASA Force](https://nasaforce.gov/)
 * [2026-04-17, 15:29:36](https://news.ycombinator.com/item?id=47807006) - [Claude Opus 4.7 costs 20–30% more per session](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you)
+* [2026-04-17, 15:20:45](https://news.ycombinator.com/item?id=47806899) - [The Gregorio project – GPL tools for typesetting Gregorian chant](https://gregorio-project.github.io/index.html)
 * [2026-04-17, 15:09:14](https://news.ycombinator.com/item?id=47806777) - [NIST gives up enriching most CVEs](https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/)
 * [2026-04-17, 15:04:09](https://news.ycombinator.com/item?id=47806725) - [Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs)
 * [2026-04-17, 14:41:49](https://news.ycombinator.com/item?id=47806484) - [Middle schooler finds coin from Troy in Berlin](https://www.thehistoryblog.com/archives/75848)
