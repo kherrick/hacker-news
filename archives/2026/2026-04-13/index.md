@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 23:45:58](https://news.ycombinator.com/item?id=47759436) - [30 Years of HPC: many hardware advances, little adoption of new languages](https://chapel-lang.org/blog/posts/30years/)
 * [2026-04-13, 23:44:24](https://news.ycombinator.com/item?id=47759420) - [The Dangers of California's Legislation to Censor 3D Printing](https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing)
 * [2026-04-13, 23:44:10](https://news.ycombinator.com/item?id=47759416) - [Why it's impossible to measure England's coastline](https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline)
 * [2026-04-13, 23:33:18](https://news.ycombinator.com/item?id=47759341) - [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)
@@ -30,6 +31,7 @@
 * [2026-04-13, 17:54:39](https://news.ycombinator.com/item?id=47755629) - [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
 * [2026-04-13, 17:52:39](https://news.ycombinator.com/item?id=47755604) - [Tax Wrapped 2025](https://taxwrapped.com)
 * [2026-04-13, 17:50:56](https://news.ycombinator.com/item?id=47755573) - [New Orleans's Car-Crash Conspiracy](https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy)
+* [2026-04-13, 17:25:50](https://news.ycombinator.com/item?id=47755261) - [A Python Interpreter Written in Python](https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 * [2026-04-13, 17:22:31](https://news.ycombinator.com/item?id=47755209) - [B-trees and database indexes (2024)](https://planetscale.com/blog/btrees-and-database-indexes)
 * [2026-04-13, 16:37:10](https://news.ycombinator.com/item?id=47754606) - [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion)
 * [2026-04-13, 16:23:23](https://news.ycombinator.com/item?id=47754383) - [Circuit Transformations, Loop Fusion, and Inductive Proof](https://natetyoung.github.io/carry_save_fusion/)
