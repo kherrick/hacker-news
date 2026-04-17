@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-04-17, 18:17:01",
+      "https://news.ycombinator.com/item?id=47808913"
+    ],
+    [
+      "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder",
+      "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 18:05:12",
+      "https://news.ycombinator.com/item?id=47808770"
+    ],
+    [
+      "NeoGeo AES+: SNK announces reissue of retro console without emulation",
+      "https://www.heise.de/en/news/NeoGeo-AES-SNK-announces-reissue-of-retro-console-without-emulation-11262319.html"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 17:18:58",
       "https://news.ycombinator.com/item?id=47808268"
     ],
     [
       "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
       "https://github.com/smol-machines/smolvm"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 17:10:17",
+      "https://news.ycombinator.com/item?id=47808174"
+    ],
+    [
+      "Random musings: 80s hardware, cyberdecks",
+      "https://strangelyentangled.com/blog/musings-80s-hardware/"
     ]
   ],
   [
@@ -31,12 +61,12 @@
   ],
   [
     [
-      "2026-04-17, 16:23:22",
-      "https://news.ycombinator.com/item?id=47807619"
+      "2026-04-17, 16:13:26",
+      "https://news.ycombinator.com/item?id=47807503"
     ],
     [
-      "Hyperscalers have already outspent most famous US megaprojects",
-      "https://twitter.com/finmoorhouse/status/2044933442236776794"
+      "Detecting DOSBox from Within the Box",
+      "https://datagirl.xyz/posts/dos_inside_the_box.html"
     ]
   ],
   [
@@ -115,7 +145,7 @@
       "https://news.ycombinator.com/item?id=47806348"
     ],
     [
-      "Healthchecks.io Now Uses Self-Hosted Object Storage",
+      "Healthchecks.io now uses self-hosted object storage",
       "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/"
     ]
   ],
@@ -125,7 +155,7 @@
       "https://news.ycombinator.com/item?id=47806304"
     ],
     [
-      "It Is Time to Ban the Sale of Precise Geolocation",
+      "Ban the sale of precise geolocation",
       "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation"
     ]
   ],
@@ -165,7 +195,7 @@
       "https://news.ycombinator.com/item?id=47803844"
     ],
     [
-      "Ada, Its Design, and the Language That Built the Languages",
+      "Ada, its design, and the language that built the languages",
       "https://www.iqiipi.com/the-quiet-colossus.html"
     ]
   ],
@@ -191,52 +221,12 @@
   ],
   [
     [
-      "2026-04-16, 19:32:18",
-      "https://news.ycombinator.com/item?id=47798345"
-    ],
-    [
-      "Official Clojure Documentary page with Video, Shownotes, and Links",
-      "https://clojure.org/about/documentary"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 18:39:59",
-      "https://news.ycombinator.com/item?id=47797665"
-    ],
-    [
-      "Android CLI: Build Android apps 3x faster using any agent",
-      "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 17:36:29",
       "https://news.ycombinator.com/item?id=47796818"
     ],
     [
       "Show HN: Stage – Putting humans back in control of code review",
       "https://stagereview.app/"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 17:12:19",
-      "https://news.ycombinator.com/item?id=47796469"
-    ],
-    [
-      "Codex for almost everything",
-      "https://openai.com/index/codex-for-almost-everything/"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 14:23:50",
-      "https://news.ycombinator.com/item?id=47793411"
-    ],
-    [
-      "Claude Opus 4.7",
-      "https://www.anthropic.com/news/claude-opus-4-7"
     ]
   ],
   [
@@ -281,22 +271,32 @@
   ],
   [
     [
-      "2026-04-13, 17:25:50",
-      "https://news.ycombinator.com/item?id=47755261"
+      "2026-04-13, 23:45:58",
+      "https://news.ycombinator.com/item?id=47759436"
     ],
     [
-      "A Python Interpreter Written in Python",
-      "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
+      "Reflections on 30 years of HPC programming",
+      "https://chapel-lang.org/blog/posts/30years/"
     ]
   ],
   [
     [
-      "2026-04-13, 13:41:25",
-      "https://news.ycombinator.com/item?id=47751830"
+      "2026-04-13, 21:51:30",
+      "https://news.ycombinator.com/item?id=47758309"
     ],
     [
-      "The Utopia of the Family Computer",
-      "https://mudmapmagazine.com/the-utopia-of-the-family-computer/"
+      "Webloc: Analysis of Penlink's Ad-Based Geolocation Surveillance Tech",
+      "https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 16:36:42",
+      "https://news.ycombinator.com/item?id=47754603"
+    ],
+    [
+      "Average is all you need",
+      "https://rawquery.dev/blog/average-is-all-you-need"
     ]
   ]
 ]
