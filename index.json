@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-04-17, 17:01:13",
+      "https://news.ycombinator.com/item?id=47808047"
+    ],
+    [
+      "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 16:23:22",
+      "https://news.ycombinator.com/item?id=47807619"
+    ],
+    [
+      "Hyperscalers have already outspent most famous US megaprojects",
+      "https://twitter.com/finmoorhouse/status/2044933442236776794"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 15:47:41",
+      "https://news.ycombinator.com/item?id=47807209"
+    ],
+    [
+      "NASA Force",
+      "https://nasaforce.gov/"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 15:29:36",
       "https://news.ycombinator.com/item?id=47807006"
     ],
     [
       "Claude Opus 4.7 costs 20–30% more per session",
       "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 15:20:45",
+      "https://news.ycombinator.com/item?id=47806899"
+    ],
+    [
+      "The Gregorio project – GPL tools for typesetting Gregorian chant",
+      "https://gregorio-project.github.io/index.html"
     ]
   ],
   [
@@ -47,16 +87,6 @@
     [
       "Iceye Open Data",
       "https://www.iceye.com/open-data-initiative"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 14:32:22",
-      "https://news.ycombinator.com/item?id=47806379"
-    ],
-    [
-      "IETF draft-meow-mrrp-00",
-      "https://www.ietf.org/archive/id/draft-meow-mrrp-00.html"
     ]
   ],
   [
@@ -141,36 +171,6 @@
   ],
   [
     [
-      "2026-04-17, 02:53:16",
-      "https://news.ycombinator.com/item?id=47802016"
-    ],
-    [
-      "Substrate AI Is Hiring Harness Engineers",
-      "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 00:37:47",
-      "https://news.ycombinator.com/item?id=47801255"
-    ],
-    [
-      "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
-      "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 21:56:37",
-      "https://news.ycombinator.com/item?id=47800033"
-    ],
-    [
-      "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "https://github.com/gainsec/autoprober"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 19:32:18",
       "https://news.ycombinator.com/item?id=47798345"
     ],
@@ -197,16 +197,6 @@
     [
       "Android CLI: Build Android apps 3x faster using any agent",
       "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 17:36:29",
-      "https://news.ycombinator.com/item?id=47796818"
-    ],
-    [
-      "Show HN: Stage – Putting humans back in control of code review",
-      "https://stagereview.app/"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2026-04-14, 11:35:25",
+      "https://news.ycombinator.com/item?id=47764240"
+    ],
+    [
+      "The missing catalogue: why finding books in translation is still so hard",
+      "https://blogs.lse.ac.uk/impactofsocialsciences/2026/04/13/the-missing-catalogue-why-finding-books-in-translation-is-still-so-hard/"
+    ]
+  ],
+  [
+    [
       "2026-04-13, 23:45:58",
       "https://news.ycombinator.com/item?id=47759436"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-04-13, 11:39:12",
-      "https://news.ycombinator.com/item?id=47750600"
+      "2026-04-12, 18:18:56",
+      "https://news.ycombinator.com/item?id=47742677"
     ],
     [
-      "ReBot-DevArm: open-source Robotic Arm",
-      "https://github.com/Seeed-Projects/reBot-DevArm"
+      "Why \"200 OK\" does not mean your system worked",
+      "https://blog.bridgexapi.io/why-200-ok-does-not-mean-your-system-worked"
     ]
   ]
 ]
