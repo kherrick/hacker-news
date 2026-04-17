@@ -41,6 +41,7 @@
 * [2026-04-14, 11:37:56](https://news.ycombinator.com/item?id=47764265) - [The exponential curve behind open source backlogs](https://armanckeser.com/writing/jellyfin-flow)
 * [2026-04-14, 11:31:19](https://news.ycombinator.com/item?id=47764215) - [Ask HN: I quit my job over weaponized robots to start my own venture](https://news.ycombinator.com/item?id=47764215)
 * [2026-04-14, 11:26:25](https://news.ycombinator.com/item?id=47764164) - [The Case Against Gameplay Loops](https://blog.joeyschutz.com/the-case-against-gameplay-loops/)
+* [2026-04-14, 11:21:17](https://news.ycombinator.com/item?id=47764116) - [Rubens Menin's 150 Years \"Old\" Port Wine](https://neofeed.com.br/finde/o-vinho-do-porto-very-very-old-de-rubens-menin/en/)
 * [2026-04-14, 11:19:10](https://news.ycombinator.com/item?id=47764098) - [NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html)
 * [2026-04-14, 10:59:33](https://news.ycombinator.com/item?id=47763959) - [PHP 8.6 Closure Optimizations](https://wiki.php.net/rfc/closure-optimizations)
 * [2026-04-14, 10:33:39](https://news.ycombinator.com/item?id=47763759) - [What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html)
