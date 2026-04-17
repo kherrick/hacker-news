@@ -1,12 +1,92 @@
 [
   [
     [
+      "2026-04-17, 15:04:09",
+      "https://news.ycombinator.com/item?id=47806725"
+    ],
+    [
+      "Claude Design by Anthropic Labs",
+      "https://www.anthropic.com/news/claude-design-anthropic-labs"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 14:41:49",
+      "https://news.ycombinator.com/item?id=47806484"
+    ],
+    [
+      "Middle schooler finds coin from Troy in Berlin",
+      "https://www.thehistoryblog.com/archives/75848"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 14:37:16",
+      "https://news.ycombinator.com/item?id=47806440"
+    ],
+    [
+      "Iceye Open Data",
+      "https://www.iceye.com/open-data-initiative"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 14:29:11",
+      "https://news.ycombinator.com/item?id=47806348"
+    ],
+    [
+      "Healthchecks.io Now Uses Self-Hosted Object Storage",
+      "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 14:25:46",
+      "https://news.ycombinator.com/item?id=47806304"
+    ],
+    [
+      "It Is Time to Ban the Sale of Precise Geolocation",
+      "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 14:09:32",
+      "https://news.ycombinator.com/item?id=47806116"
+    ],
+    [
+      "We Reproduced Anthropic's Mythos Findings with Public Models",
+      "https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 13:55:25",
+      "https://news.ycombinator.com/item?id=47805998"
+    ],
+    [
+      "Is Your Site Agent-Ready? (By Cloudflare)",
+      "https://isitagentready.com"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 12:01:19",
       "https://news.ycombinator.com/item?id=47804965"
     ],
     [
-      "Isaac Asimov: The Last Question",
+      "Isaac Asimov: The Last Question (1956)",
       "https://hex.ooo/library/last_question.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 09:18:16",
+      "https://news.ycombinator.com/item?id=47803992"
+    ],
+    [
+      "Teddy Roosevelt and Abraham Lincoln in the same photo",
+      "https://prologue.blogs.archives.gov/2010/11/09/teddy-roosevelt-and-abraham-lincoln-in-the-same-photo/"
     ]
   ],
   [
@@ -41,16 +121,6 @@
   ],
   [
     [
-      "2026-04-17, 06:19:45",
-      "https://news.ycombinator.com/item?id=47802971"
-    ],
-    [
-      "PROBoter – Open-source platform for automated PCB analysis",
-      "https://www.schutzwerk.com/en/blog/proboter-01/"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 03:55:54",
       "https://news.ycombinator.com/item?id=47802312"
     ],
@@ -67,16 +137,6 @@
     [
       "Substrate AI Is Hiring Harness Engineers",
       "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 02:50:02",
-      "https://news.ycombinator.com/item?id=47801991"
-    ],
-    [
-      "US Bill Mandates On-Device Age Verification",
-      "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification"
     ]
   ],
   [
@@ -107,16 +167,6 @@
     [
       "A Better R Programming Experience Thanks to Tree-sitter",
       "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 20:49:35",
-      "https://news.ycombinator.com/item?id=47799322"
-    ],
-    [
-      "The beginning of scarcity in AI",
-      "https://tomtunguz.com/ai-compute-crisis-2026/"
     ]
   ],
   [
@@ -181,36 +231,6 @@
   ],
   [
     [
-      "2026-04-16, 13:36:27",
-      "https://news.ycombinator.com/item?id=47792764"
-    ],
-    [
-      "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "https://qwen.ai/blog?id=qwen3.6-35b-a3b"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 13:32:13",
-      "https://news.ycombinator.com/item?id=47792718"
-    ],
-    [
-      "The future of everything is lies, I guess: Where do we go from here?",
-      "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 13:17:37",
-      "https://news.ycombinator.com/item?id=47792538"
-    ],
-    [
-      "Cloudflare's AI Platform: an inference layer designed for agents",
-      "https://blog.cloudflare.com/ai-platform/"
-    ]
-  ],
-  [
-    [
       "2026-04-14, 23:20:39",
       "https://news.ycombinator.com/item?id=47772725"
     ],
@@ -251,6 +271,16 @@
   ],
   [
     [
+      "2026-04-13, 13:41:25",
+      "https://news.ycombinator.com/item?id=47751830"
+    ],
+    [
+      "The Utopia of the Family Computer",
+      "https://mudmapmagazine.com/the-utopia-of-the-family-computer/"
+    ]
+  ],
+  [
+    [
       "2026-04-13, 12:28:35",
       "https://news.ycombinator.com/item?id=47751011"
     ],
@@ -267,36 +297,6 @@
     [
       "ReBot-DevArm: open-source Robotic Arm",
       "https://github.com/Seeed-Projects/reBot-DevArm"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 11:09:09",
-      "https://news.ycombinator.com/item?id=47750364"
-    ],
-    [
-      "Century-bandwidth antenna reinvented,patented after 18 yrs with decade bandwidth (2006)",
-      "https://ieeexplore.ieee.org/document/1715264"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 07:12:45",
-      "https://news.ycombinator.com/item?id=47748733"
-    ],
-    [
-      "A Git helper tool that breaks large merges into parallelizable tasks",
-      "https://github.com/mwallner/mergetopus"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 05:32:33",
-      "https://news.ycombinator.com/item?id=47747986"
-    ],
-    [
-      "Taking a Look at Compression Algorithms – Moncef Abboud",
-      "https://cefboud.com/posts/compression/"
     ]
   ]
 ]
