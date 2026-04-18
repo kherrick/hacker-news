@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2026-04-17, 16:19:53",
+      "https://news.ycombinator.com/item?id=47807583"
+    ],
+    [
+      "Spending 3 months coding by hand",
+      "https://miguelconner.substack.com/p/im-coding-by-hand"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 15:47:41",
       "https://news.ycombinator.com/item?id=47807209"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-04-17, 14:29:11",
-      "https://news.ycombinator.com/item?id=47806348"
-    ],
-    [
-      "Healthchecks.io now uses self-hosted object storage",
-      "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 14:25:46",
       "https://news.ycombinator.com/item?id=47806304"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-04-16, 05:43:09",
-      "https://news.ycombinator.com/item?id=47789087"
-    ],
-    [
-      "Ben Lerner's Big Feelings",
-      "https://www.vulture.com/article/ben-lerner-transcription-interview.html"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 18:20:03",
       "https://news.ycombinator.com/item?id=47783062"
     ],
@@ -237,6 +227,16 @@
     [
       "Introducing: ShaderPad",
       "https://rileyjshaw.com/blog/introducing-shaderpad/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 14:14:31",
+      "https://news.ycombinator.com/item?id=47779274"
+    ],
+    [
+      "Making Wax Sealed Letters at Scale",
+      "https://waxletter.com/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-04-15, 09:24:06",
-      "https://news.ycombinator.com/item?id=47776663"
-    ],
-    [
-      "Connie Converse was a folk-music genius. Then she vanished",
-      "https://www.bbc.com/culture/article/20260413-the-mystery-of-a-missing-folk-music-pioneer"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 01:47:46",
       "https://news.ycombinator.com/item?id=47773722"
     ],
     [
       "The GNU libc atanh is correctly rounded",
       "https://inria.hal.science/hal-05591661"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 01:26:06",
+      "https://news.ycombinator.com/item?id=47760135"
+    ],
+    [
+      "Rewriting Every Syscall in a Linux Binary at Load Time",
+      "https://amitlimaye1.substack.com/p/rewriting-every-syscall-in-a-linux"
     ]
   ],
   [
