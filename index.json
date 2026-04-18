@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-18, 16:05:43",
+      "https://news.ycombinator.com/item?id=47816960"
+    ],
+    [
+      "Opus 4.7 to 4.6 Inflation is ~45%",
+      "https://tokens.billchambers.me/leaderboard"
+    ]
+  ],
+  [
+    [
       "2026-04-18, 16:04:59",
       "https://news.ycombinator.com/item?id=47816954"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2026-04-18, 15:24:39",
+      "https://news.ycombinator.com/item?id=47816629"
+    ],
+    [
+      "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+      "https://github.com/drasimwagan/mdv"
+    ]
+  ],
+  [
+    [
       "2026-04-18, 15:24:18",
       "https://news.ycombinator.com/item?id=47816625"
     ],
@@ -35,8 +55,18 @@
       "https://news.ycombinator.com/item?id=47816536"
     ],
     [
-      "Sherry Turkle: \"We're losing the raw, human part of being with each other\"",
+      "Sherry Turkle: \"We're losing the raw human part of being with each other\" (2013)",
       "https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit"
+    ]
+  ],
+  [
+    [
+      "2026-04-18, 15:03:03",
+      "https://news.ycombinator.com/item?id=47816462"
+    ],
+    [
+      "Respect to the Man Chasing AI Immortality, While Freeloading Off Our Platform",
+      "https://blog.mulerun.com/p/ai-immortality-postmortem/"
     ]
   ],
   [
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47815774"
     ],
     [
-      "Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime",
+      "Migrating from DigitalOcean to Hetzner",
       "https://isayeter.com/posts/digitalocean-to-hetzner-migration/"
     ]
   ],
@@ -57,6 +87,16 @@
     [
       "Why Japan has such good railways",
       "https://worksinprogress.co/issue/why-japan-has-such-good-railways/"
+    ]
+  ],
+  [
+    [
+      "2026-04-18, 11:43:57",
+      "https://news.ycombinator.com/item?id=47815127"
+    ],
+    [
+      "The quiet disappearance of the free-range childhood",
+      "https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2026-04-17, 21:38:20",
-      "https://news.ycombinator.com/item?id=47810872"
-    ],
-    [
-      "A simplified model of Fil-C",
-      "https://www.corsix.org/content/simplified-model-of-fil-c"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 18:43:32",
       "https://news.ycombinator.com/item?id=47809190"
     ],
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2026-04-17, 16:38:44",
-      "https://news.ycombinator.com/item?id=47807809"
-    ],
-    [
-      "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
-      "https://github.com/paniclock/paniclock/"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 16:23:22",
-      "https://news.ycombinator.com/item?id=47807619"
-    ],
-    [
-      "Hyperscalers have already outspent most famous US megaprojects",
-      "https://twitter.com/finmoorhouse/status/2044933442236776794"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 16:19:53",
       "https://news.ycombinator.com/item?id=47807583"
     ],
@@ -177,16 +187,6 @@
     [
       "Measuring Claude 4.7's tokenizer costs",
       "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 15:15:24",
-      "https://news.ycombinator.com/item?id=47806845"
-    ],
-    [
-      "Slop Cop",
-      "https://awnist.com/slop-cop"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-04-15, 19:46:16",
+      "https://news.ycombinator.com/item?id=47784250"
+    ],
+    [
+      "Scientists discover \"cleaner ants\" that groom giant ants in Arizona desert",
+      "https://www.sciencedaily.com/releases/2026/04/260414075641.htm"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 18:07:46",
       "https://news.ycombinator.com/item?id=47782925"
     ],
@@ -247,16 +257,6 @@
     [
       "Are the costs of AI agents also rising exponentially? (2025)",
       "https://www.tobyord.com/writing/hourly-costs-for-ai-agents"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 12:57:27",
-      "https://news.ycombinator.com/item?id=47778359"
-    ],
-    [
-      "Binary Encodings for JSON and Variant",
-      "https://jincongho.com/posts/designing-binary-encodings-for-json-and-variant/"
     ]
   ],
   [
