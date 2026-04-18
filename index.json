@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-04-18, 01:15:43",
+      "https://news.ycombinator.com/item?id=47812341"
+    ],
+    [
+      "Show HN: I made a calculator that works over disjoint sets of intervals",
+      "https://victorpoughon.github.io/interval-calculator/"
+    ]
+  ],
+  [
+    [
       "2026-04-18, 01:14:02",
       "https://news.ycombinator.com/item?id=47812331"
     ],
     [
       "Casus Belli Engineering",
       "https://marcosmagueta.com/blog/casus-belli-engineering/"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 22:30:28",
+      "https://news.ycombinator.com/item?id=47811283"
+    ],
+    [
+      "Landmark ancient-genome study shows surprise acceleration of human evolution",
+      "https://www.nature.com/articles/d41586-026-01204-5"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47809190"
     ],
     [
-      "Even \"cat readme.txt\" is not safe",
+      "\"cat readme.txt\" is not safe if you use iTerm2",
       "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not"
     ]
   ],
@@ -77,16 +97,6 @@
     [
       "Hyperscalers have already outspent most famous US megaprojects",
       "https://twitter.com/finmoorhouse/status/2044933442236776794"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 16:19:53",
-      "https://news.ycombinator.com/item?id=47807583"
-    ],
-    [
-      "Spending 3 months coding by hand",
-      "https://miguelconner.substack.com/p/im-coding-by-hand"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-04-17, 14:37:16",
-      "https://news.ycombinator.com/item?id=47806440"
-    ],
-    [
-      "Experiment with ICEYE Open Data",
-      "https://www.iceye.com/open-data-initiative"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 14:29:11",
       "https://news.ycombinator.com/item?id=47806348"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2026-04-16, 16:40:49",
-      "https://news.ycombinator.com/item?id=47796016"
-    ],
-    [
-      "Nintendo's Empire of Secrets with Keza MacDonald – Factually with Adam Conover",
-      "https://art19.com/shows/factually--with-adam-conover/episodes/5154e9af-8885-4149-9721-173c02c46bb7/"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 15:09:07",
       "https://news.ycombinator.com/item?id=47794311"
     ],
     [
-      "The Unix Executable as a Smalltalk Method [video]",
+      "The Unix executable as a Smalltalk method (2025) [video]",
       "https://www.youtube.com/watch?v=sZjPQ7vtLNA"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 05:43:09",
+      "https://news.ycombinator.com/item?id=47789087"
+    ],
+    [
+      "Ben Lerner's Big Feelings",
+      "https://www.vulture.com/article/ben-lerner-transcription-interview.html"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=47778938"
     ],
     [
-      "Towards Trust in Emacs",
+      "Towards trust in Emacs",
       "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-04-13, 21:51:30",
-      "https://news.ycombinator.com/item?id=47758309"
+      "2026-04-13, 18:49:55",
+      "https://news.ycombinator.com/item?id=47756320"
     ],
     [
-      "Webloc: Analysis of Penlink's Ad-Based Geolocation Surveillance Tech",
-      "https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/"
+      "Brunost: The Nynorsk Programming Language",
+      "https://lindbakk.com/blog/introducing-brunost"
     ]
   ]
 ]
