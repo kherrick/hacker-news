@@ -42,6 +42,7 @@
 * [2026-04-15, 14:02:31](https://news.ycombinator.com/item?id=47779094) - [Gemini Robotics-ER 1.6](https://deepmind.google/blog/gemini-robotics-er-1-6/)
 * [2026-04-15, 13:59:07](https://news.ycombinator.com/item?id=47779049) - [I built a 3D printing business and ran it for 8 months](https://www.wespiser.com/posts/2026-04-12-3D-Printing-Biz.html)
 * [2026-04-15, 13:50:04](https://news.ycombinator.com/item?id=47778946) - [Vibe Coding Fails](https://news.ycombinator.com/item?id=47778946)
+* [2026-04-15, 13:49:15](https://news.ycombinator.com/item?id=47778938) - [Towards Trust in Emacs](https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html)
 * [2026-04-15, 13:48:44](https://news.ycombinator.com/item?id=47778933) - [Sam Vimes 'Boots' Theory of Socio-Economic Unfairness](https://terrypratchett.com/explore-discworld/sam-vimes-boots-theory-of-socio-economic-unfairness/)
 * [2026-04-15, 13:47:58](https://news.ycombinator.com/item?id=47778922) - [Are the costs of AI agents also rising exponentially? (2025)](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)
 * [2026-04-15, 13:47:40](https://news.ycombinator.com/item?id=47778920) - [US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)

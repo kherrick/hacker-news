@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-04-18](index.md)
+
+* [2026-04-18, 01:14:02](https://news.ycombinator.com/item?id=47812331) - [Casus Belli Engineering](https://marcosmagueta.com/blog/casus-belli-engineering/)
