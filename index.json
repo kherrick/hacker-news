@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=47819453"
     ],
     [
-      "Any Color You Like: NIST Scientists Create 'Any Wavelength' Lasers",
+      "NIST scientists create 'any wavelength' lasers",
       "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits"
     ]
   ],
@@ -37,16 +37,6 @@
     [
       "College instructor turns to typewriters to curb AI-written work",
       "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 18:38:53",
-      "https://news.ycombinator.com/item?id=47818324"
-    ],
-    [
-      "In the AI propaganda war, Iran is winning",
-      "https://www.economist.com/culture/2026/04/17/in-the-ai-propaganda-war-iran-is-winning"
     ]
   ],
   [
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=47816960"
     ],
     [
-      "Opus 4.7 to 4.6 Inflation is ~45%",
+      "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
       "https://tokens.billchambers.me/leaderboard"
     ]
   ],
@@ -177,6 +167,16 @@
     [
       "Amiga Graphics Archive",
       "https://amiga.lychesis.net/"
+    ]
+  ],
+  [
+    [
+      "2026-04-18, 03:47:57",
+      "https://news.ycombinator.com/item?id=47812973"
+    ],
+    [
+      "A story about how I dug into the PostgreSQL sources to write my own WAL receiver",
+      "https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=47779659"
     ],
     [
-      "Modern Common Lisp with FSET",
+      "Modern Common Lisp with FSet",
       "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html"
     ]
   ],
