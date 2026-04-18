@@ -66,6 +66,7 @@
 * [2026-04-14, 03:32:16](https://news.ycombinator.com/item?id=47760925) - [Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'](https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/)
 * [2026-04-14, 03:06:27](https://news.ycombinator.com/item?id=47760764) - [A new spam policy for \"back button hijacking\"](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
 * [2026-04-14, 03:04:20](https://news.ycombinator.com/item?id=47760750) - [Sometimes powerful people just do dumb shit](https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/)
+* [2026-04-14, 02:45:27](https://news.ycombinator.com/item?id=47760648) - [A Dumb Introduction to Z3](https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/)
 * [2026-04-14, 02:25:15](https://news.ycombinator.com/item?id=47760529) - [DaVinci Resolve releases Photo Editor](https://www.blackmagicdesign.com/products/davinciresolve/photo)
 * [2026-04-14, 01:26:06](https://news.ycombinator.com/item?id=47760135) - [Rewriting Every Syscall in a Linux Binary at Load Time](https://amitlimaye1.substack.com/p/rewriting-every-syscall-in-a-linux)
 * [2026-04-14, 00:25:08](https://news.ycombinator.com/item?id=47759709) - [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
