@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-04-18, 06:40:47",
+      "https://news.ycombinator.com/item?id=47813668"
+    ],
+    [
+      "Category Theory Illustrated – Orders",
+      "https://abuseofnotation.github.io/category-theory-illustrated/04_order/"
+    ]
+  ],
+  [
+    [
+      "2026-04-18, 06:33:29",
+      "https://news.ycombinator.com/item?id=47813631"
+    ],
+    [
+      "Why is IPv6 so complicated?",
+      "https://github.com/becarpenter/misc/blob/main/why6why.md"
+    ]
+  ],
+  [
+    [
+      "2026-04-18, 06:20:04",
+      "https://news.ycombinator.com/item?id=47813566"
+    ],
+    [
+      "Amiga Graphics",
+      "https://amiga.lychesis.net/"
+    ]
+  ],
+  [
+    [
+      "2026-04-18, 05:47:10",
+      "https://news.ycombinator.com/item?id=47813454"
+    ],
+    [
+      "It is incorrect to \"normalize\" // in HTTP URL paths",
+      "https://runxiyu.org/comp/doubleslash/"
+    ]
+  ],
+  [
+    [
+      "2026-04-18, 04:49:38",
+      "https://news.ycombinator.com/item?id=47813223"
+    ],
+    [
+      "What the EU Battery Passport Means for Your Devices",
+      "https://holdmybill.com/blog/eu-battery-passport-explained-2027"
+    ]
+  ],
+  [
+    [
       "2026-04-18, 01:15:43",
       "https://news.ycombinator.com/item?id=47812341"
     ],
@@ -171,32 +221,12 @@
   ],
   [
     [
-      "2026-04-17, 14:25:46",
-      "https://news.ycombinator.com/item?id=47806304"
-    ],
-    [
-      "Ban the sale of precise geolocation",
-      "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 12:01:19",
       "https://news.ycombinator.com/item?id=47804965"
     ],
     [
       "Isaac Asimov: The Last Question (1956)",
       "https://hex.ooo/library/last_question.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 17:36:29",
-      "https://news.ycombinator.com/item?id=47796818"
-    ],
-    [
-      "Show HN: Stage – Putting humans back in control of code review",
-      "https://stagereview.app/"
     ]
   ],
   [
@@ -211,22 +241,12 @@
   ],
   [
     [
-      "2026-04-15, 18:20:03",
-      "https://news.ycombinator.com/item?id=47783062"
+      "2026-04-16, 03:09:50",
+      "https://news.ycombinator.com/item?id=47788207"
     ],
     [
-      "Generating a color spectrum for an image",
-      "https://amandahinton.com/blog/generating-a-color-spectrum-for-an-image"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 16:59:08",
-      "https://news.ycombinator.com/item?id=47781889"
-    ],
-    [
-      "Introducing: ShaderPad",
-      "https://rileyjshaw.com/blog/introducing-shaderpad/"
+      "The simple geometry behind any road",
+      "https://sandboxspirit.com/blog/simple-geometry-of-roads/"
     ]
   ],
   [
@@ -237,16 +257,6 @@
     [
       "Making Wax Sealed Letters at Scale",
       "https://waxletter.com/"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 13:59:07",
-      "https://news.ycombinator.com/item?id=47779049"
-    ],
-    [
-      "I built a 3D printing business and ran it for 8 months",
-      "https://www.wespiser.com/posts/2026-04-12-3D-Printing-Biz.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Are the costs of AI agents also rising exponentially? (2025)",
       "https://www.tobyord.com/writing/hourly-costs-for-ai-agents"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 01:47:46",
-      "https://news.ycombinator.com/item?id=47773722"
-    ],
-    [
-      "The GNU libc atanh is correctly rounded",
-      "https://inria.hal.science/hal-05591661"
     ]
   ],
   [
