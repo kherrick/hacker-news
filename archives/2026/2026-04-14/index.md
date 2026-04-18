@@ -23,6 +23,7 @@
 * [2026-04-14, 17:47:00](https://news.ycombinator.com/item?id=47768813) - [I wrote to Flock's privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html)
 * [2026-04-14, 17:45:34](https://news.ycombinator.com/item?id=47768788) - [OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)
 * [2026-04-14, 17:43:17](https://news.ycombinator.com/item?id=47768750) - [Show HN: Plain – The full-stack Python framework designed for humans and agents](https://github.com/dropseed/plain)
+* [2026-04-14, 17:14:50](https://news.ycombinator.com/item?id=47768390) - [Loonies for Loongsons](https://www.leadedsolder.com/2026/04/14/loongson-ls3a5000-debian-linux.html)
 * [2026-04-14, 17:09:43](https://news.ycombinator.com/item?id=47768339) - [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
 * [2026-04-14, 17:06:49](https://news.ycombinator.com/item?id=47768306) - [Modifying FileZilla to Workaround Bambu 3D Printer's FTP Issue](https://lantian.pub/en/article/modify-computer/modify-filezilla-workaround-bambu-3d-printer-ftp-issue.lantian/)
 * [2026-04-14, 16:59:09](https://news.ycombinator.com/item?id=47768195) - [Spain to expand internet blocks to tennis, golf, movies broadcasting times](https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731)

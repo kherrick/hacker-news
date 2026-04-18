@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-18](index.md)
 
+* [2026-04-18, 10:46:17](https://news.ycombinator.com/item?id=47814832) - [Claude Code Opus 4.7 keeps checking on malware](https://news.ycombinator.com/item?id=47814832)
 * [2026-04-18, 07:56:18](https://news.ycombinator.com/item?id=47814073) - [America Lost the Mandate of Heaven](https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html)
 * [2026-04-18, 06:40:47](https://news.ycombinator.com/item?id=47813668) - [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
 * [2026-04-18, 06:33:29](https://news.ycombinator.com/item?id=47813631) - [Why is IPv6 so complicated?](https://github.com/becarpenter/misc/blob/main/why6why.md)
