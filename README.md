@@ -2,7 +2,6 @@
 
 * [2026-04-18, 20:54:17](https://news.ycombinator.com/item?id=47819453) - [Any Color You Like: NIST Scientists Create 'Any Wavelength' Lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
 * [2026-04-18, 20:42:29](https://news.ycombinator.com/item?id=47819369) - [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
-* [2026-04-18, 20:34:31](https://news.ycombinator.com/item?id=47819305) - [PostgreSQL production incident caused by transaction ID wraparound](https://www.sqlservercentral.com/articles/i-too-have-a-production-story-a-downtime-caused-by-postgres-transaction-id-wraparound-problem)
 * [2026-04-18, 19:19:24](https://news.ycombinator.com/item?id=47818700) - [Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/)
 * [2026-04-18, 19:00:00](https://news.ycombinator.com/item?id=47818485) - [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 * [2026-04-18, 18:36:07](https://news.ycombinator.com/item?id=47818305) - [Traders placed over $1B in perfectly timed bets on the Iran war](https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns)
@@ -26,6 +25,7 @@
 * [2026-04-15, 19:46:16](https://news.ycombinator.com/item?id=47784250) - [Scientists discover \"cleaner ants\" that groom giant ants in Arizona desert](https://www.sciencedaily.com/releases/2026/04/260414075641.htm)
 * [2026-04-15, 18:07:46](https://news.ycombinator.com/item?id=47782925) - [Michael Rabin has died](https://en.wikipedia.org/wiki/Michael_O._Rabin)
 * [2026-04-15, 14:38:38](https://news.ycombinator.com/item?id=47779659) - [Modern Common Lisp with FSET](https://fset.common-lisp.dev/Modern-CL/Top_html/index.html)
+* [2026-04-15, 13:49:15](https://news.ycombinator.com/item?id=47778938) - [Towards trust in Emacs](https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html)
 * [2026-04-15, 02:29:39](https://news.ycombinator.com/item?id=47773969) - [Understanding the FFT Algorithm (2013)](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
 * [2026-04-14, 16:00:49](https://news.ycombinator.com/item?id=47767398) - [It's OK to compare floating-points for equality](https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html)
 * [2026-04-14, 16:00:49](https://news.ycombinator.com/item?id=47767397) - [80386 Memory Pipeline](https://nand2mario.github.io/posts/2026/80386_memory_pipeline/)
