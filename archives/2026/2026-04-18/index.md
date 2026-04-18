@@ -39,6 +39,7 @@
 * [2026-04-18, 06:20:04](https://news.ycombinator.com/item?id=47813566) - [Amiga Graphics](https://amiga.lychesis.net/)
 * [2026-04-18, 05:47:10](https://news.ycombinator.com/item?id=47813454) - [It is incorrect to \"normalize\" // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
 * [2026-04-18, 04:49:38](https://news.ycombinator.com/item?id=47813223) - [What the EU Battery Passport Means for Your Devices](https://holdmybill.com/blog/eu-battery-passport-explained-2027)
+* [2026-04-18, 03:47:57](https://news.ycombinator.com/item?id=47812973) - [A story about how I dug into the PostgreSQL sources to write my own WAL receiver](https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25)
 * [2026-04-18, 03:44:54](https://news.ycombinator.com/item?id=47812964) - [Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG](https://github.com/yapstudios/sfsym)
 * [2026-04-18, 01:15:43](https://news.ycombinator.com/item?id=47812341) - [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)
 * [2026-04-18, 01:14:02](https://news.ycombinator.com/item?id=47812331) - [Casus Belli Engineering](https://marcosmagueta.com/blog/casus-belli-engineering/)
