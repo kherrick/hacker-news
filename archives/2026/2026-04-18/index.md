@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-18](index.md)
 
+* [2026-04-18, 17:12:44](https://news.ycombinator.com/item?id=47817581) - [Graphs That Explain the State of AI in 2026](https://spectrum.ieee.org/state-of-ai-index-2026)
 * [2026-04-18, 17:01:56](https://news.ycombinator.com/item?id=47817473) - [UpCodes (YC S17) Is Hiring SDRs to Help Make Construction More Productive](https://up.codes/careers?utm_source=HN)
 * [2026-04-18, 16:31:25](https://news.ycombinator.com/item?id=47817179) - [The USDA's gardening zones have shifted. (Interactive app and map)](https://apps.npr.org/plant-hardiness-garden-map/)
 * [2026-04-18, 16:26:47](https://news.ycombinator.com/item?id=47817132) - [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)

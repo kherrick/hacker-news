@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-18, 17:12:44](https://news.ycombinator.com/item?id=47817581) - [Graphs That Explain the State of AI in 2026](https://spectrum.ieee.org/state-of-ai-index-2026)
 * [2026-04-18, 17:01:56](https://news.ycombinator.com/item?id=47817473) - [UpCodes (YC S17) Is Hiring SDRs to Help Make Construction More Productive](https://up.codes/careers?utm_source=HN)
 * [2026-04-18, 16:31:25](https://news.ycombinator.com/item?id=47817179) - [The USDA's gardening zones have shifted. (Interactive app and map)](https://apps.npr.org/plant-hardiness-garden-map/)
 * [2026-04-18, 16:26:47](https://news.ycombinator.com/item?id=47817132) - [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
@@ -15,7 +16,6 @@
 * [2026-04-18, 06:20:04](https://news.ycombinator.com/item?id=47813566) - [Amiga Graphics Archive](https://amiga.lychesis.net/)
 * [2026-04-18, 01:15:43](https://news.ycombinator.com/item?id=47812341) - [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)
 * [2026-04-17, 18:17:01](https://news.ycombinator.com/item?id=47808913) - [All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
-* [2026-04-17, 17:18:58](https://news.ycombinator.com/item?id=47808268) - [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
 * [2026-04-17, 16:19:53](https://news.ycombinator.com/item?id=47807583) - [I’m spending months coding the old way](https://miguelconner.substack.com/p/im-coding-by-hand)
 * [2026-04-17, 15:29:36](https://news.ycombinator.com/item?id=47807006) - [Measuring Claude 4.7's tokenizer costs](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you)
 * [2026-04-17, 15:04:09](https://news.ycombinator.com/item?id=47806725) - [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)
