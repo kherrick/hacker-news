@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-18](index.md)
 
+* [2026-04-18, 19:19:50](https://news.ycombinator.com/item?id=47818704) - [Young sons of legendary U.S. marshal ride horseback from Oklahoma to New York](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
+* [2026-04-18, 18:36:07](https://news.ycombinator.com/item?id=47818305) - [Traders placed over $1B in perfectly timed bets on the Iran war](https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns)
+* [2026-04-18, 17:49:22](https://news.ycombinator.com/item?id=47817902) - [Headless Everything for Personal AI](https://interconnected.org/home/2026/04/18/headless)
+* [2026-04-18, 17:21:02](https://news.ycombinator.com/item?id=47817639) - [4-bit floating point FP4](https://www.johndcook.com/blog/2026/04/17/fp4/)
 * [2026-04-18, 17:12:44](https://news.ycombinator.com/item?id=47817581) - [Graphs That Explain the State of AI in 2026](https://spectrum.ieee.org/state-of-ai-index-2026)
 * [2026-04-18, 17:01:56](https://news.ycombinator.com/item?id=47817473) - [UpCodes (YC S17) Is Hiring SDRs to Help Make Construction More Productive](https://up.codes/careers?utm_source=HN)
 * [2026-04-18, 16:31:25](https://news.ycombinator.com/item?id=47817179) - [The USDA's gardening zones have shifted. (Interactive app and map)](https://apps.npr.org/plant-hardiness-garden-map/)
