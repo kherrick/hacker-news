@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-04-18, 19:19:50",
-      "https://news.ycombinator.com/item?id=47818704"
+      "2026-04-18, 20:54:17",
+      "https://news.ycombinator.com/item?id=47819453"
     ],
     [
-      "Young sons of U.S. marshal ride horseback from Oklahoma to New York (2018)",
-      "https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/"
+      "Any Color You Like: NIST Scientists Create 'Any Wavelength' Lasers",
+      "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits"
+    ]
+  ],
+  [
+    [
+      "2026-04-18, 20:42:29",
+      "https://news.ycombinator.com/item?id=47819369"
+    ],
+    [
+      "Optimizing Ruby Path Methods",
+      "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-18, 20:34:31",
+      "https://news.ycombinator.com/item?id=47819305"
+    ],
+    [
+      "PostgreSQL production incident caused by transaction ID wraparound",
+      "https://www.sqlservercentral.com/articles/i-too-have-a-production-story-a-downtime-caused-by-postgres-transaction-id-wraparound-problem"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "College instructor turns to typewriters to curb AI-written work",
       "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
+    ]
+  ],
+  [
+    [
+      "2026-04-18, 18:36:07",
+      "https://news.ycombinator.com/item?id=47818305"
+    ],
+    [
+      "Traders placed over $1B in perfectly timed bets on the Iran war",
+      "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "PgQue: Zero-Bloat Postgres Queue",
       "https://github.com/NikolayS/pgque"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 16:31:25",
-      "https://news.ycombinator.com/item?id=47817179"
-    ],
-    [
-      "The USDA's gardening zones have shifted. (Interactive app and map) (2024)",
-      "https://apps.npr.org/plant-hardiness-garden-map/"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "Why Japan has such good railways",
       "https://worksinprogress.co/issue/why-japan-has-such-good-railways/"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 11:43:57",
-      "https://news.ycombinator.com/item?id=47815127"
-    ],
-    [
-      "The quiet disappearance of the free-range childhood",
-      "https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2026-04-15, 13:49:15",
-      "https://news.ycombinator.com/item?id=47778938"
+      "2026-04-15, 14:38:38",
+      "https://news.ycombinator.com/item?id=47779659"
     ],
     [
-      "Towards trust in Emacs",
-      "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html"
+      "Modern Common Lisp with FSET",
+      "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: Remoroo. trying to fix memory in long-running coding agents",
       "https://www.remoroo.com"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 02:45:27",
-      "https://news.ycombinator.com/item?id=47760648"
-    ],
-    [
-      "A Dumb Introduction to Z3 (2025)",
-      "https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/"
     ]
   ]
 ]
