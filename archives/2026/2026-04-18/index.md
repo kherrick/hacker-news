@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-18](index.md)
 
+* [2026-04-18, 17:01:56](https://news.ycombinator.com/item?id=47817473) - [UpCodes (YC S17) Is Hiring SDRs to Help Make Construction More Productive](https://up.codes/careers?utm_source=HN)
+* [2026-04-18, 16:31:25](https://news.ycombinator.com/item?id=47817179) - [The USDA's gardening zones have shifted. (Interactive app and map)](https://apps.npr.org/plant-hardiness-garden-map/)
+* [2026-04-18, 16:26:47](https://news.ycombinator.com/item?id=47817132) - [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
 * [2026-04-18, 16:05:43](https://news.ycombinator.com/item?id=47816960) - [Opus 4.7 to 4.6 Inflation is ~45%](https://tokens.billchambers.me/leaderboard)
 * [2026-04-18, 16:04:59](https://news.ycombinator.com/item?id=47816954) - [Amazon won't release Fire Sticks that support sideloading anymore](https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/)
 * [2026-04-18, 15:54:37](https://news.ycombinator.com/item?id=47816878) - [Amazon is discontinuing Kindle for PC on June 30th](https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th)

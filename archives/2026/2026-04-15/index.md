@@ -84,6 +84,7 @@
 * [2026-04-15, 04:47:00](https://news.ycombinator.com/item?id=47774789) - [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/)
 * [2026-04-15, 04:45:37](https://news.ycombinator.com/item?id=47774781) - [Saying goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
 * [2026-04-15, 02:39:05](https://news.ycombinator.com/item?id=47774039) - [The Accursèd Alphabetical Clock](https://boat.horse/clock/index.html)
+* [2026-04-15, 02:29:39](https://news.ycombinator.com/item?id=47773969) - [Understanding the FFT Algorithm (2013)](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
 * [2026-04-15, 02:03:12](https://news.ycombinator.com/item?id=47773812) - [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html)
 * [2026-04-15, 01:59:18](https://news.ycombinator.com/item?id=47773788) - [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
 * [2026-04-15, 01:47:46](https://news.ycombinator.com/item?id=47773722) - [The GNU libc atanh is correctly rounded](https://inria.hal.science/hal-05591661)
