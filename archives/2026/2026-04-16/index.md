@@ -51,6 +51,7 @@
 * [2026-04-16, 10:48:00](https://news.ycombinator.com/item?id=47791236) - [AI cybersecurity is not proof of work](https://antirez.com/news/163)
 * [2026-04-16, 10:44:45](https://news.ycombinator.com/item?id=47791212) - [Codex Hacked a Samsung TV](https://blog.calif.io/p/codex-hacked-a-samsung-tv)
 * [2026-04-16, 07:01:29](https://news.ycombinator.com/item?id=47789607) - [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead)
+* [2026-04-16, 05:43:09](https://news.ycombinator.com/item?id=47789087) - [Ben Lerner's Big Feelings](https://www.vulture.com/article/ben-lerner-transcription-interview.html)
 * [2026-04-16, 05:07:05](https://news.ycombinator.com/item?id=47788857) - [IPv8 Proposal](https://www.ietf.org/archive/id/draft-thain-ipv8-00.html)
 * [2026-04-16, 05:05:44](https://news.ycombinator.com/item?id=47788845) - [Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan](https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/)
 * [2026-04-16, 05:01:05](https://news.ycombinator.com/item?id=47788818) - [Airbnb discloses a billion-series Prometheus metrics pipeline](https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45)

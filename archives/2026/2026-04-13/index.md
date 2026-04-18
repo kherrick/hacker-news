@@ -26,6 +26,7 @@
 * [2026-04-13, 19:18:34](https://news.ycombinator.com/item?id=47756672) - [The Looming College-Enrollment Death Spiral](https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/)
 * [2026-04-13, 19:10:07](https://news.ycombinator.com/item?id=47756569) - [Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours](https://www.ithihasas.in)
 * [2026-04-13, 18:50:08](https://news.ycombinator.com/item?id=47756321) - [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/)
+* [2026-04-13, 18:49:55](https://news.ycombinator.com/item?id=47756320) - [Brunost: The Nynorsk Programming Language](https://lindbakk.com/blog/introducing-brunost)
 * [2026-04-13, 18:42:29](https://news.ycombinator.com/item?id=47756239) - [Building a Web Page That Edits Itself](https://www.patrickweaver.net/blog/one-pager-self-editing-html/)
 * [2026-04-13, 18:26:40](https://news.ycombinator.com/item?id=47756036) - [Visualizing CPU Pipelining (2024)](https://timmastny.com/blog/visualizing-cpu-pipelining/)
 * [2026-04-13, 18:08:14](https://news.ycombinator.com/item?id=47755805) - [Evaluation of Claude Mythos Preview's cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities)
