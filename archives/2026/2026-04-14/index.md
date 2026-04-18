@@ -65,4 +65,5 @@
 * [2026-04-14, 03:06:27](https://news.ycombinator.com/item?id=47760764) - [A new spam policy for \"back button hijacking\"](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
 * [2026-04-14, 03:04:20](https://news.ycombinator.com/item?id=47760750) - [Sometimes powerful people just do dumb shit](https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/)
 * [2026-04-14, 02:25:15](https://news.ycombinator.com/item?id=47760529) - [DaVinci Resolve releases Photo Editor](https://www.blackmagicdesign.com/products/davinciresolve/photo)
+* [2026-04-14, 01:26:06](https://news.ycombinator.com/item?id=47760135) - [Rewriting Every Syscall in a Linux Binary at Load Time](https://amitlimaye1.substack.com/p/rewriting-every-syscall-in-a-linux)
 * [2026-04-14, 00:25:08](https://news.ycombinator.com/item?id=47759709) - [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
