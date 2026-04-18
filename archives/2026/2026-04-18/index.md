@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-18](index.md)
 
+* [2026-04-18, 20:54:17](https://news.ycombinator.com/item?id=47819453) - [Any Color You Like: NIST Scientists Create 'Any Wavelength' Lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
+* [2026-04-18, 20:42:29](https://news.ycombinator.com/item?id=47819369) - [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
+* [2026-04-18, 20:34:31](https://news.ycombinator.com/item?id=47819305) - [PostgreSQL production incident caused by transaction ID wraparound](https://www.sqlservercentral.com/articles/i-too-have-a-production-story-a-downtime-caused-by-postgres-transaction-id-wraparound-problem)
 * [2026-04-18, 19:19:50](https://news.ycombinator.com/item?id=47818704) - [Young sons of legendary U.S. marshal ride horseback from Oklahoma to New York](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
 * [2026-04-18, 19:19:24](https://news.ycombinator.com/item?id=47818700) - [Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/)
 * [2026-04-18, 19:00:00](https://news.ycombinator.com/item?id=47818485) - [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
