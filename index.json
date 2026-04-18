@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-18, 15:10:13",
+      "https://news.ycombinator.com/item?id=47816514"
+    ],
+    [
+      "Show HN: Solyto – a free, open-source all-in-one personal management app",
+      "https://solyto.app"
+    ]
+  ],
+  [
+    [
       "2026-04-18, 13:29:04",
       "https://news.ycombinator.com/item?id=47815774"
     ],
@@ -51,32 +61,12 @@
   ],
   [
     [
-      "2026-04-18, 03:44:54",
-      "https://news.ycombinator.com/item?id=47812964"
-    ],
-    [
-      "Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG",
-      "https://github.com/yapstudios/sfsym"
-    ]
-  ],
-  [
-    [
       "2026-04-18, 01:15:43",
       "https://news.ycombinator.com/item?id=47812341"
     ],
     [
       "Show HN: I made a calculator that works over disjoint sets of intervals",
       "https://victorpoughon.github.io/interval-calculator/"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 22:30:28",
-      "https://news.ycombinator.com/item?id=47811283"
-    ],
-    [
-      "Landmark ancient-genome study shows surprise acceleration of human evolution",
-      "https://www.nature.com/articles/d41586-026-01204-5"
     ]
   ],
   [
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2026-04-17, 15:09:14",
-      "https://news.ycombinator.com/item?id=47806777"
-    ],
-    [
-      "NIST gives up enriching most CVEs",
-      "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 15:04:09",
       "https://news.ycombinator.com/item?id=47806725"
     ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2026-04-15, 12:57:27",
+      "https://news.ycombinator.com/item?id=47778359"
+    ],
+    [
+      "Binary Encodings for JSON and Variant",
+      "https://jincongho.com/posts/designing-binary-encodings-for-json-and-variant/"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 16:00:49",
       "https://news.ycombinator.com/item?id=47767398"
     ],
     [
       "It's OK to compare floating-points for equality",
       "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 16:00:49",
+      "https://news.ycombinator.com/item?id=47767397"
+    ],
+    [
+      "80386 Memory Pipeline",
+      "https://nand2mario.github.io/posts/2026/80386_memory_pipeline/"
     ]
   ],
   [
