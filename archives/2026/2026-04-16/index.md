@@ -61,6 +61,7 @@
 * [2026-04-16, 03:44:38](https://news.ycombinator.com/item?id=47788424) - [FSF trying to contact Google about spammer sending 10k+ mails from Gmail account](https://daedal.io/@thomzane/116410863009847575)
 * [2026-04-16, 03:38:45](https://news.ycombinator.com/item?id=47788398) - [North American English Dialects](https://aschmann.net/AmEng/)
 * [2026-04-16, 03:35:11](https://news.ycombinator.com/item?id=47788385) - [Stop Using Ollama](https://sleepingrobots.com/dreams/stop-using-ollama/)
+* [2026-04-16, 03:09:50](https://news.ycombinator.com/item?id=47788207) - [The simple geometry behind any road](https://sandboxspirit.com/blog/simple-geometry-of-roads/)
 * [2026-04-16, 02:28:18](https://news.ycombinator.com/item?id=47787947) - [Show HN: Hiraeth – AWS Emulator](https://github.com/SethPyle376/hiraeth)
 * [2026-04-16, 02:16:50](https://news.ycombinator.com/item?id=47787877) - [Stealth Satellite TV Defeats Iran's Internet Blackout](https://spectrum.ieee.org/iran-internet-blackout-satellite-tv)
 * [2026-04-16, 02:13:23](https://news.ycombinator.com/item?id=47787854) - [Arguing with Agents](https://blowmage.com/2026/04/14/arguing-with-agents/)
