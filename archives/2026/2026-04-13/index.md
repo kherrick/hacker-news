@@ -28,6 +28,7 @@
 * [2026-04-13, 18:50:08](https://news.ycombinator.com/item?id=47756321) - [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/)
 * [2026-04-13, 18:49:55](https://news.ycombinator.com/item?id=47756320) - [Brunost: The Nynorsk Programming Language](https://lindbakk.com/blog/introducing-brunost)
 * [2026-04-13, 18:42:29](https://news.ycombinator.com/item?id=47756239) - [Building a Web Page That Edits Itself](https://www.patrickweaver.net/blog/one-pager-self-editing-html/)
+* [2026-04-13, 18:31:38](https://news.ycombinator.com/item?id=47756108) - [Building a Grow-Only Counter on a Sequentially Consistent KV Store](https://brunocalza.me/blog/2026/04/13/building-a-grow-only-counter-on-a-sequentially-consistent-kv-store.html)
 * [2026-04-13, 18:26:40](https://news.ycombinator.com/item?id=47756036) - [Visualizing CPU Pipelining (2024)](https://timmastny.com/blog/visualizing-cpu-pipelining/)
 * [2026-04-13, 18:08:14](https://news.ycombinator.com/item?id=47755805) - [Evaluation of Claude Mythos Preview's cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities)
 * [2026-04-13, 18:02:36](https://news.ycombinator.com/item?id=47755734) - [In Denmark, the spread of solar panels has become a divisive issue](https://www.theguardian.com/world/2026/mar/20/solar-power-renewable-energy-denmark-backlash-national-elections)
