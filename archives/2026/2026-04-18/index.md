@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-04-18](index.md)
 
 * [2026-04-18, 19:19:50](https://news.ycombinator.com/item?id=47818704) - [Young sons of legendary U.S. marshal ride horseback from Oklahoma to New York](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
+* [2026-04-18, 19:19:24](https://news.ycombinator.com/item?id=47818700) - [Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/)
+* [2026-04-18, 19:00:00](https://news.ycombinator.com/item?id=47818485) - [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 * [2026-04-18, 18:36:07](https://news.ycombinator.com/item?id=47818305) - [Traders placed over $1B in perfectly timed bets on the Iran war](https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns)
 * [2026-04-18, 17:49:22](https://news.ycombinator.com/item?id=47817902) - [Headless Everything for Personal AI](https://interconnected.org/home/2026/04/18/headless)
 * [2026-04-18, 17:21:02](https://news.ycombinator.com/item?id=47817639) - [4-bit floating point FP4](https://www.johndcook.com/blog/2026/04/17/fp4/)
