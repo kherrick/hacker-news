@@ -16,6 +16,7 @@
 * [2026-04-15, 19:56:36](https://news.ycombinator.com/item?id=47784397) - [One Interface, Every Protocol](https://openbindings.com/blog/one-interface-every-protocol)
 * [2026-04-15, 19:56:31](https://news.ycombinator.com/item?id=47784395) - [Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups](https://www.sumida-aquarium.com/special/sokanzu/en/2026/)
 * [2026-04-15, 19:47:34](https://news.ycombinator.com/item?id=47784269) - [In the last 30 years, the number of public companies has been cut in half](https://twitter.com/ToddZywicki/status/2044167534681936085)
+* [2026-04-15, 19:46:16](https://news.ycombinator.com/item?id=47784250) - [Scientists discover \"cleaner ants\" that groom giant ants in Arizona desert](https://www.sciencedaily.com/releases/2026/04/260414075641.htm)
 * [2026-04-15, 19:45:47](https://news.ycombinator.com/item?id=47784244) - [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README)
 * [2026-04-15, 19:31:38](https://news.ycombinator.com/item?id=47784061) - [Farmer Arrested for Speaking Too Long at Datacenter Town Hall Vows to Fight](https://www.404media.co/farmer-arrested-for-speaking-too-long-at-datacenter-town-hall-vows-to-fight/)
 * [2026-04-15, 19:31:33](https://news.ycombinator.com/item?id=47784060) - [Show HN: Jeeves – TUI for browsing and resuming AI agent sessions](https://github.com/robinovitch61/jeeves)
