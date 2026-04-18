@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-04-18, 06:33:29",
-      "https://news.ycombinator.com/item?id=47813631"
-    ],
-    [
-      "Why is IPv6 so complicated?",
-      "https://github.com/becarpenter/misc/blob/main/why6why.md"
-    ]
-  ],
-  [
-    [
       "2026-04-18, 06:20:04",
       "https://news.ycombinator.com/item?id=47813566"
     ],
@@ -37,16 +27,6 @@
     [
       "It is incorrect to \"normalize\" // in HTTP URL paths",
       "https://runxiyu.org/comp/doubleslash/"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 04:49:38",
-      "https://news.ycombinator.com/item?id=47813223"
-    ],
-    [
-      "What the EU Battery Passport Means for Your Devices",
-      "https://holdmybill.com/blog/eu-battery-passport-explained-2027"
     ]
   ],
   [
@@ -221,16 +201,6 @@
   ],
   [
     [
-      "2026-04-17, 12:01:19",
-      "https://news.ycombinator.com/item?id=47804965"
-    ],
-    [
-      "Isaac Asimov: The Last Question (1956)",
-      "https://hex.ooo/library/last_question.html"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 15:09:07",
       "https://news.ycombinator.com/item?id=47794311"
     ],
@@ -247,6 +217,26 @@
     [
       "The simple geometry behind any road",
       "https://sandboxspirit.com/blog/simple-geometry-of-roads/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 18:07:46",
+      "https://news.ycombinator.com/item?id=47782925"
+    ],
+    [
+      "Michael Rabin Has Died",
+      "https://en.wikipedia.org/wiki/Michael_O._Rabin"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 16:59:08",
+      "https://news.ycombinator.com/item?id=47781889"
+    ],
+    [
+      "Introducing: ShaderPad",
+      "https://rileyjshaw.com/blog/introducing-shaderpad/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Are the costs of AI agents also rising exponentially? (2025)",
       "https://www.tobyord.com/writing/hourly-costs-for-ai-agents"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 01:47:46",
+      "https://news.ycombinator.com/item?id=47773722"
+    ],
+    [
+      "The GNU libc atanh is correctly rounded",
+      "https://inria.hal.science/hal-05591661"
     ]
   ],
   [
