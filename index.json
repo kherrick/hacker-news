@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-04-18, 15:54:37",
-      "https://news.ycombinator.com/item?id=47816878"
-    ],
-    [
-      "Amazon is discontinuing Kindle for PC on June 30th",
-      "https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th"
-    ]
-  ],
-  [
-    [
       "2026-04-18, 15:24:39",
       "https://news.ycombinator.com/item?id=47816629"
     ],
@@ -151,12 +141,32 @@
   ],
   [
     [
+      "2026-04-17, 18:43:32",
+      "https://news.ycombinator.com/item?id=47809190"
+    ],
+    [
+      "\"cat readme.txt\" is not safe if you use iTerm2",
+      "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 18:17:01",
       "https://news.ycombinator.com/item?id=47808913"
     ],
     [
       "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
       "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 17:18:58",
+      "https://news.ycombinator.com/item?id=47808268"
+    ],
+    [
+      "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+      "https://github.com/smol-machines/smolvm"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Measuring Claude 4.7's tokenizer costs",
       "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 15:04:09",
-      "https://news.ycombinator.com/item?id=47806725"
-    ],
-    [
-      "Claude Design",
-      "https://www.anthropic.com/news/claude-design-anthropic-labs"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-04-13, 18:49:55",
-      "https://news.ycombinator.com/item?id=47756320"
+      "2026-04-13, 18:31:38",
+      "https://news.ycombinator.com/item?id=47756108"
     ],
     [
-      "Brunost: The Nynorsk Programming Language",
-      "https://lindbakk.com/blog/introducing-brunost"
+      "Building a Grow-Only Counter on a Sequentially Consistent KV Store",
+      "https://brunocalza.me/blog/2026/04/13/building-a-grow-only-counter-on-a-sequentially-consistent-kv-store.html"
     ]
   ]
 ]
