@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-18](index.md)
 
+* [2026-04-18, 13:29:04](https://news.ycombinator.com/item?id=47815774) - [Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
 * [2026-04-18, 12:29:06](https://news.ycombinator.com/item?id=47815395) - [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
 * [2026-04-18, 12:08:31](https://news.ycombinator.com/item?id=47815269) - [Flock Condemns False Child Predator Allegations, Yet Calls Critics Terrorists](https://ipvm.com/reports/flock-allegations-critics)
 * [2026-04-18, 11:43:57](https://news.ycombinator.com/item?id=47815127) - [The quiet disappearance of the free-range childhood](https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/)

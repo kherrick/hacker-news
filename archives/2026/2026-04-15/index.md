@@ -53,6 +53,7 @@
 * [2026-04-15, 13:13:20](https://news.ycombinator.com/item?id=47778524) - [Designing the Transport Typeface](https://www.thamesandhudson.com/blogs/all-news-features/designing-the-transport-typeface-margaret-calvert-on-the-making-of-britain-s-road-signs)
 * [2026-04-15, 13:08:10](https://news.ycombinator.com/item?id=47778475) - [God Sleeps in the Minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/)
 * [2026-04-15, 12:58:11](https://news.ycombinator.com/item?id=47778366) - [US national level OS-level age verification bill](https://social.coop/@cwebber/116408556882122186)
+* [2026-04-15, 12:57:27](https://news.ycombinator.com/item?id=47778359) - [Binary Encodings for JSON and Variant](https://jincongho.com/posts/designing-binary-encodings-for-json-and-variant/)
 * [2026-04-15, 12:51:13](https://news.ycombinator.com/item?id=47778308) - [AI ruling prompts warnings from US lawyers: Your chats could be used against you](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
 * [2026-04-15, 12:51:04](https://news.ycombinator.com/item?id=47778306) - [Show HN: Every CEO and CFO change at US public companies, live from SEC](https://tracksuccession.com/explore)
 * [2026-04-15, 12:26:12](https://news.ycombinator.com/item?id=47778087) - [Show HN: Pseudonymizing sensitive data for LLMs without losing context](https://atticsecurity.com/en/blog/why-llms-hate-fake-data-token-proxy/)

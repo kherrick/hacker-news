@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-18, 13:29:04](https://news.ycombinator.com/item?id=47815774) - [Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
 * [2026-04-18, 12:29:06](https://news.ycombinator.com/item?id=47815395) - [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
 * [2026-04-18, 12:08:31](https://news.ycombinator.com/item?id=47815269) - [Flock Condemns False Child Predator Allegations, Yet Calls Critics Terrorists](https://ipvm.com/reports/flock-allegations-critics)
-* [2026-04-18, 11:43:57](https://news.ycombinator.com/item?id=47815127) - [The quiet disappearance of the free-range childhood](https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/)
 * [2026-04-18, 11:42:37](https://news.ycombinator.com/item?id=47815118) - [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/)
 * [2026-04-18, 06:40:47](https://news.ycombinator.com/item?id=47813668) - [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
 * [2026-04-18, 06:20:04](https://news.ycombinator.com/item?id=47813566) - [Amiga Graphics](https://amiga.lychesis.net/)
@@ -25,7 +25,7 @@
 * [2026-04-15, 18:07:46](https://news.ycombinator.com/item?id=47782925) - [Michael Rabin Has Died](https://en.wikipedia.org/wiki/Michael_O._Rabin)
 * [2026-04-15, 13:49:15](https://news.ycombinator.com/item?id=47778938) - [Towards trust in Emacs](https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html)
 * [2026-04-15, 13:47:58](https://news.ycombinator.com/item?id=47778922) - [Are the costs of AI agents also rising exponentially? (2025)](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)
-* [2026-04-14, 17:14:50](https://news.ycombinator.com/item?id=47768390) - [Loonies for Loongsons](https://www.leadedsolder.com/2026/04/14/loongson-ls3a5000-debian-linux.html)
+* [2026-04-15, 12:57:27](https://news.ycombinator.com/item?id=47778359) - [Binary Encodings for JSON and Variant](https://jincongho.com/posts/designing-binary-encodings-for-json-and-variant/)
 * [2026-04-14, 16:00:49](https://news.ycombinator.com/item?id=47767398) - [It's OK to compare floating-points for equality](https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html)
 * [2026-04-14, 02:45:27](https://news.ycombinator.com/item?id=47760648) - [A Dumb Introduction to Z3](https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/)
 * [2026-04-14, 01:26:06](https://news.ycombinator.com/item?id=47760135) - [Rewriting Every Syscall in a Linux Binary at Load Time](https://amitlimaye1.substack.com/p/rewriting-every-syscall-in-a-linux)
