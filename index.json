@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-04-18, 20:34:31",
-      "https://news.ycombinator.com/item?id=47819305"
-    ],
-    [
-      "PostgreSQL production incident caused by transaction ID wraparound",
-      "https://www.sqlservercentral.com/articles/i-too-have-a-production-story-a-downtime-caused-by-postgres-transaction-id-wraparound-problem"
-    ]
-  ],
-  [
-    [
       "2026-04-18, 19:19:24",
       "https://news.ycombinator.com/item?id=47818700"
     ],
@@ -257,6 +247,16 @@
     [
       "Modern Common Lisp with FSET",
       "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 13:49:15",
+      "https://news.ycombinator.com/item?id=47778938"
+    ],
+    [
+      "Towards trust in Emacs",
+      "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html"
     ]
   ],
   [
