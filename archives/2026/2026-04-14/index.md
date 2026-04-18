@@ -30,6 +30,7 @@
 * [2026-04-14, 16:53:16](https://news.ycombinator.com/item?id=47768111) - [An Oligarchy of Old People](https://www.theatlantic.com/magazine/2026/05/gerontocracy-wealth-power/686585/)
 * [2026-04-14, 16:22:49](https://news.ycombinator.com/item?id=47767676) - [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/)
 * [2026-04-14, 16:16:51](https://news.ycombinator.com/item?id=47767606) - [Show HN: Kelet – Root Cause Analysis agent for your LLM apps](https://kelet.ai/)
+* [2026-04-14, 16:00:49](https://news.ycombinator.com/item?id=47767398) - [It's OK to compare floating-points for equality](https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html)
 * [2026-04-14, 15:44:15](https://news.ycombinator.com/item?id=47767160) - [For the first time in the U.S., renewables generate more power than natural gas](https://e360.yale.edu/digest/us-renewables-natural-gas-coal)
 * [2026-04-14, 15:42:48](https://news.ycombinator.com/item?id=47767143) - [The Fediverse deserves a dumb graphical client](https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md)
 * [2026-04-14, 15:41:01](https://news.ycombinator.com/item?id=47767119) - [Show HN: A memory database that forgets, consolidates, and detects contradiction](https://github.com/yantrikos/yantrikdb-server)

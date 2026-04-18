@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-18, 07:56:18](https://news.ycombinator.com/item?id=47814073) - [America Lost the Mandate of Heaven](https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html)
 * [2026-04-18, 06:40:47](https://news.ycombinator.com/item?id=47813668) - [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
 * [2026-04-18, 06:20:04](https://news.ycombinator.com/item?id=47813566) - [Amiga Graphics](https://amiga.lychesis.net/)
 * [2026-04-18, 05:47:10](https://news.ycombinator.com/item?id=47813454) - [It is incorrect to \"normalize\" // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
@@ -28,6 +27,7 @@
 * [2026-04-15, 13:49:15](https://news.ycombinator.com/item?id=47778938) - [Towards trust in Emacs](https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html)
 * [2026-04-15, 13:47:58](https://news.ycombinator.com/item?id=47778922) - [Are the costs of AI agents also rising exponentially? (2025)](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)
 * [2026-04-15, 01:47:46](https://news.ycombinator.com/item?id=47773722) - [The GNU libc atanh is correctly rounded](https://inria.hal.science/hal-05591661)
+* [2026-04-14, 16:00:49](https://news.ycombinator.com/item?id=47767398) - [It's OK to compare floating-points for equality](https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html)
 * [2026-04-14, 01:26:06](https://news.ycombinator.com/item?id=47760135) - [Rewriting Every Syscall in a Linux Binary at Load Time](https://amitlimaye1.substack.com/p/rewriting-every-syscall-in-a-linux)
 * [2026-04-13, 18:49:55](https://news.ycombinator.com/item?id=47756320) - [Brunost: The Nynorsk Programming Language](https://lindbakk.com/blog/introducing-brunost)
 
