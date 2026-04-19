@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 22:33:31](https://news.ycombinator.com/item?id=47828249) - [Banned by Anthropic](https://bannedbyanthropic.com/)
+* [2026-04-19, 22:19:31](https://news.ycombinator.com/item?id=47828151) - [Reminder: Enable ZRAM on your Linux system to optimize RAM usage](https://www.cnx-software.com/2026/04/15/reminder-enable-zram-on-your-linux-system-to-optimize-ram-usage/)
+* [2026-04-19, 21:56:22](https://news.ycombinator.com/item?id=47827985) - [CEOs admit AI had no impact on employment or productivity](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
 * [2026-04-19, 21:00:49](https://news.ycombinator.com/item?id=47827603) - [C++26: Reflection, Memory Safety, Contracts, and a New Async Model](https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/)
 * [2026-04-19, 20:25:29](https://news.ycombinator.com/item?id=47827383) - [Swiss authorities want to reduce dependency on Microsoft](https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532)
 * [2026-04-19, 20:04:13](https://news.ycombinator.com/item?id=47827215) - [A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)](https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/)
@@ -15,6 +18,7 @@
 * [2026-04-19, 18:13:32](https://news.ycombinator.com/item?id=47826328) - [Uber's AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
 * [2026-04-19, 17:44:44](https://news.ycombinator.com/item?id=47826104) - [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/)
 * [2026-04-19, 17:44:03](https://news.ycombinator.com/item?id=47826100) - [The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/)
+* [2026-04-19, 16:57:41](https://news.ycombinator.com/item?id=47825698) - [Hot Wiring the Lisp Machine](https://scheatkode.com/blog/019d463d-38b3-7e63-80fd-6ed97bd8815e/hot-wiring-the-lisp-machine/)
 * [2026-04-19, 16:36:09](https://news.ycombinator.com/item?id=47825520) - [Show HN: Google Gemini Is Scanning Your Photos – and the EU Said No](https://news.ycombinator.com/item?id=47825520)
 * [2026-04-19, 16:21:31](https://news.ycombinator.com/item?id=47825423) - [PM Carney declares U.S. ties now a 'weakness' in address to Canadians](https://www.ctvnews.ca/politics/article/pm-carney-declares-us-ties-now-a-weakness-in-address-to-canadians/)
 * [2026-04-19, 15:48:40](https://news.ycombinator.com/item?id=47825160) - [Turtle WoW classic server announces shutdown after Blizzard wins injunction](https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/)

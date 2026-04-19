@@ -33,6 +33,7 @@
 * [2026-04-16, 16:53:32](https://news.ycombinator.com/item?id=47796197) - [Japan implements language proficiency requirements for certain visa applicants](https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/)
 * [2026-04-16, 16:40:49](https://news.ycombinator.com/item?id=47796016) - [Nintendo's Empire of Secrets with Keza MacDonald – Factually with Adam Conover](https://art19.com/shows/factually--with-adam-conover/episodes/5154e9af-8885-4149-9721-173c02c46bb7/)
 * [2026-04-16, 16:08:05](https://news.ycombinator.com/item?id=47795468) - [Show HN: Marky – A lightweight Markdown viewer for agentic coding](https://github.com/GRVYDEV/marky)
+* [2026-04-16, 15:37:49](https://news.ycombinator.com/item?id=47794891) - [3D-Printing a Trombone](https://unnamed.website/posts/3d-printing-trombone/)
 * [2026-04-16, 15:19:54](https://news.ycombinator.com/item?id=47794514) - [Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
 * [2026-04-16, 15:13:13](https://news.ycombinator.com/item?id=47794391) - [We gave an AI a 3 year retail lease and asked it to make a profit](https://andonlabs.com/blog/andon-market-launch)
 * [2026-04-16, 15:09:07](https://news.ycombinator.com/item?id=47794311) - [The Unix Executable as a Smalltalk Method [video]](https://www.youtube.com/watch?v=sZjPQ7vtLNA)
