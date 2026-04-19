@@ -6,6 +6,7 @@
 
 * [2026-04-15, 23:42:06](https://news.ycombinator.com/item?id=47786836) - [The Universal Constraint Engine: Neuromorphic Computing Without Neural Networks](https://zenodo.org/records/19600206)
 * [2026-04-15, 23:36:56](https://news.ycombinator.com/item?id=47786791) - [YouTube now lets you turn off Shorts](https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes)
+* [2026-04-15, 22:32:22](https://news.ycombinator.com/item?id=47786211) - [KTaO3-Based Supercurrent Diode](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c05590)
 * [2026-04-15, 22:29:40](https://news.ycombinator.com/item?id=47786183) - [The Rise of the Em-Dash in Hacker News Comments](https://boazsobrado.com/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/)
 * [2026-04-15, 22:27:54](https://news.ycombinator.com/item?id=47786164) - [I made a terminal pager](https://theleo.zone/posts/pager/)
 * [2026-04-15, 22:05:44](https://news.ycombinator.com/item?id=47785948) - [Ohio prison inmates 'built computers and hid them in ceiling](https://www.bbc.com/news/technology-39576394)

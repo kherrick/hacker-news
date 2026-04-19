@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 18:32:12](https://news.ycombinator.com/item?id=47826473) - [Europe has 'maybe six weeks of jet fuel left'](https://www.bbc.com/news/articles/czjw2kz0l22o)
+* [2026-04-19, 18:13:32](https://news.ycombinator.com/item?id=47826328) - [Uber's AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
+* [2026-04-19, 17:44:44](https://news.ycombinator.com/item?id=47826104) - [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/)
+* [2026-04-19, 17:44:03](https://news.ycombinator.com/item?id=47826100) - [The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/)
 * [2026-04-19, 16:36:09](https://news.ycombinator.com/item?id=47825520) - [Show HN: Google Gemini Is Scanning Your Photos – and the EU Said No](https://news.ycombinator.com/item?id=47825520)
 * [2026-04-19, 16:21:31](https://news.ycombinator.com/item?id=47825423) - [PM Carney declares U.S. ties now a 'weakness' in address to Canadians](https://www.ctvnews.ca/politics/article/pm-carney-declares-us-ties-now-a-weakness-in-address-to-canadians/)
 * [2026-04-19, 15:48:40](https://news.ycombinator.com/item?id=47825160) - [Turtle WoW classic server announces shutdown after Blizzard wins injunction](https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/)
