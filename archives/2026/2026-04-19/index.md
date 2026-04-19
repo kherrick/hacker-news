@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 14:34:38](https://news.ycombinator.com/item?id=47824611) - [When moving fast, talking is the first thing to break](https://daverupert.com/2026/04/more-talk-less-grok/)
+* [2026-04-19, 14:24:04](https://news.ycombinator.com/item?id=47824531) - [Matt Mullenweg Overrules Core Committers; Puts Akismet on WP 7's Connector List](https://www.therepository.email/matt-mullenweg-overrules-core-committers-to-put-akismet-on-wordpress-7-0s-connectors-screen)
+* [2026-04-19, 14:14:38](https://news.ycombinator.com/item?id=47824463) - [Vercel April 2026 security incident](https://vercel.com/kb/bulletin/vercel-april-2026-security-incident)
+* [2026-04-19, 14:05:49](https://news.ycombinator.com/item?id=47824403) - [The creative software industry has declared war on Adobe](https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates)
 * [2026-04-19, 13:13:09](https://news.ycombinator.com/item?id=47824068) - [Airline worker arrested after sharing photos of bomb damage in WhatsApp group](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
 * [2026-04-19, 11:17:27](https://news.ycombinator.com/item?id=47823460) - [Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)](https://teamchong.github.io/turboquant-wasm/draw.html)
 * [2026-04-19, 10:55:38](https://news.ycombinator.com/item?id=47823362) - [Why Zip drives dominated the 90s, then vanished almost overnight](https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/)

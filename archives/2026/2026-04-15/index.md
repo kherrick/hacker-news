@@ -38,6 +38,7 @@
 * [2026-04-15, 16:57:37](https://news.ycombinator.com/item?id=47781864) - [Where the Heck Did My Taxes Go?](https://wherethefuckdidmytaxesgo.com/)
 * [2026-04-15, 16:53:16](https://news.ycombinator.com/item?id=47781802) - [The tiniest e-reader in the world, and you can build one yourself](https://www.androidauthority.com/tiny-e-reader-diy-3657661/)
 * [2026-04-15, 16:19:48](https://news.ycombinator.com/item?id=47781286) - [CRISPR takes a bold leap toward silencing Down syndrome's extra chromosome](https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html)
+* [2026-04-15, 16:13:10](https://news.ycombinator.com/item?id=47781191) - [Minimal Viable Programs (2014)](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html)
 * [2026-04-15, 15:57:54](https://news.ycombinator.com/item?id=47780971) - [Show HN: Libretto – Making AI browser automations deterministic](https://github.com/saffron-health/libretto)
 * [2026-04-15, 15:43:37](https://news.ycombinator.com/item?id=47780712) - [Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson](https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats)
 * [2026-04-15, 15:26:46](https://news.ycombinator.com/item?id=47780456) - [Cal.com is going closed source](https://cal.com/blog/cal-com-goes-closed-source-why)
