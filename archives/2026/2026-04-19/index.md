@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 19:35:57](https://news.ycombinator.com/item?id=47826977) - [MAGA Is Winning Its War Against U.S. Science](https://paulkrugman.substack.com/p/maga-is-winning-its-war-against-us)
+* [2026-04-19, 19:21:22](https://news.ycombinator.com/item?id=47826852) - [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
 * [2026-04-19, 18:32:12](https://news.ycombinator.com/item?id=47826473) - [Europe has 'maybe six weeks of jet fuel left'](https://www.bbc.com/news/articles/czjw2kz0l22o)
 * [2026-04-19, 18:13:32](https://news.ycombinator.com/item?id=47826328) - [Uber's AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
 * [2026-04-19, 17:44:44](https://news.ycombinator.com/item?id=47826104) - [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/)
@@ -11,6 +13,7 @@
 * [2026-04-19, 16:36:09](https://news.ycombinator.com/item?id=47825520) - [Show HN: Google Gemini Is Scanning Your Photos – and the EU Said No](https://news.ycombinator.com/item?id=47825520)
 * [2026-04-19, 16:21:31](https://news.ycombinator.com/item?id=47825423) - [PM Carney declares U.S. ties now a 'weakness' in address to Canadians](https://www.ctvnews.ca/politics/article/pm-carney-declares-us-ties-now-a-weakness-in-address-to-canadians/)
 * [2026-04-19, 15:48:40](https://news.ycombinator.com/item?id=47825160) - [Turtle WoW classic server announces shutdown after Blizzard wins injunction](https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/)
+* [2026-04-19, 15:48:13](https://news.ycombinator.com/item?id=47825158) - [Claude Brain](https://github.com/memvid/claude-brain)
 * [2026-04-19, 15:23:39](https://news.ycombinator.com/item?id=47824976) - [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/)
 * [2026-04-19, 15:20:01](https://news.ycombinator.com/item?id=47824945) - [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720)
 * [2026-04-19, 15:09:45](https://news.ycombinator.com/item?id=47824874) - [Russia's doping program is run by the same FSB team that poisoned Navalny](https://theins.press/en/inv/291614)

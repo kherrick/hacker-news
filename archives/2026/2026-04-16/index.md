@@ -59,6 +59,7 @@
 * [2026-04-16, 10:48:00](https://news.ycombinator.com/item?id=47791236) - [AI cybersecurity is not proof of work](https://antirez.com/news/163)
 * [2026-04-16, 10:44:45](https://news.ycombinator.com/item?id=47791212) - [Codex Hacked a Samsung TV](https://blog.calif.io/p/codex-hacked-a-samsung-tv)
 * [2026-04-16, 08:42:05](https://news.ycombinator.com/item?id=47790337) - [The becquerel as an SI unit for request rate](https://entropicthoughts.com/si-units-for-request-rate)
+* [2026-04-16, 07:59:34](https://news.ycombinator.com/item?id=47790041) - [I learned Unity the wrong way](https://darkounity.com/blog/how-i-learned-unity-the-wrong-way)
 * [2026-04-16, 07:01:29](https://news.ycombinator.com/item?id=47789607) - [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead)
 * [2026-04-16, 05:43:09](https://news.ycombinator.com/item?id=47789087) - [Ben Lerner's Big Feelings](https://www.vulture.com/article/ben-lerner-transcription-interview.html)
 * [2026-04-16, 05:07:05](https://news.ycombinator.com/item?id=47788857) - [IPv8 Proposal](https://www.ietf.org/archive/id/draft-thain-ipv8-00.html)
