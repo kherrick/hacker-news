@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-19, 08:45:48",
+      "https://news.ycombinator.com/item?id=47822805"
+    ],
+    [
+      "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+      "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf"
+    ]
+  ],
+  [
+    [
       "2026-04-19, 07:18:44",
       "https://news.ycombinator.com/item?id=47822414"
     ],
@@ -127,16 +137,6 @@
     [
       "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
       "https://github.com/drasimwagan/mdv"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 15:24:18",
-      "https://news.ycombinator.com/item?id=47816625"
-    ],
-    [
-      "Fuzix OS",
-      "https://www.fuzix.org/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-04-15, 14:20:42",
+      "https://news.ycombinator.com/item?id=47779372"
+    ],
+    [
+      "It's cool to care (2025)",
+      "https://alexwlchan.net/2025/cool-to-care/"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 02:29:39",
       "https://news.ycombinator.com/item?id=47773969"
     ],
     [
       "Understanding the FFT Algorithm (2013)",
       "https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 16:00:49",
-      "https://news.ycombinator.com/item?id=47767397"
-    ],
-    [
-      "80386 Memory Pipeline",
-      "https://nand2mario.github.io/posts/2026/80386_memory_pipeline/"
     ]
   ]
 ]
