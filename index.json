@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-19, 22:33:31",
+      "https://news.ycombinator.com/item?id=47828249"
+    ],
+    [
+      "Banned by Anthropic",
+      "https://bannedbyanthropic.com/"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 22:19:31",
+      "https://news.ycombinator.com/item?id=47828151"
+    ],
+    [
+      "Reminder: Enable ZRAM on your Linux system to optimize RAM usage",
+      "https://www.cnx-software.com/2026/04/15/reminder-enable-zram-on-your-linux-system-to-optimize-ram-usage/"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 21:56:22",
+      "https://news.ycombinator.com/item?id=47827985"
+    ],
+    [
+      "CEOs admit AI had no impact on employment or productivity",
+      "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/"
+    ]
+  ],
+  [
+    [
       "2026-04-19, 21:00:49",
       "https://news.ycombinator.com/item?id=47827603"
     ],
@@ -75,8 +105,18 @@
       "https://news.ycombinator.com/item?id=47826100"
     ],
     [
-      "The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips",
+      "The Bromine Chokepoint",
       "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 16:57:41",
+      "https://news.ycombinator.com/item?id=47825698"
+    ],
+    [
+      "Hot Wiring the Lisp Machine",
+      "https://scheatkode.com/blog/019d463d-38b3-7e63-80fd-6ed97bd8815e/hot-wiring-the-lisp-machine/"
     ]
   ],
   [
@@ -97,26 +137,6 @@
     [
       "Vercel April 2026 security incident",
       "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 13:13:09",
-      "https://news.ycombinator.com/item?id=47824068"
-    ],
-    [
-      "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
-      "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 11:17:27",
-      "https://news.ycombinator.com/item?id=47823460"
-    ],
-    [
-      "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
-      "https://teamchong.github.io/turboquant-wasm/draw.html"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-04-19, 02:50:43",
-      "https://news.ycombinator.com/item?id=47821429"
-    ],
-    [
-      "The world in which IPv6 was a good design (2017)",
-      "https://apenwarr.ca/log/20170810"
-    ]
-  ],
-  [
-    [
       "2026-04-18, 17:21:02",
       "https://news.ycombinator.com/item?id=47817639"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-04-17, 14:22:18",
-      "https://news.ycombinator.com/item?id=47806270"
-    ],
-    [
-      "Eliza a Play by Tom Holloway",
-      "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/eliza"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 14:07:28",
       "https://news.ycombinator.com/item?id=47806096"
     ],
@@ -237,6 +237,16 @@
     [
       "Show HN: Shader Lab, like Photoshop but for shaders",
       "https://eng.basement.studio/tools/shader-lab"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 15:37:49",
+      "https://news.ycombinator.com/item?id=47794891"
+    ],
+    [
+      "3D-Printing a Trombone",
+      "https://unnamed.website/posts/3d-printing-trombone/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Prove You Are a Robot: CAPTCHAs for Agents",
       "https://browser-use.com/posts/prove-you-are-a-robot"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 14:20:42",
-      "https://news.ycombinator.com/item?id=47779372"
-    ],
-    [
-      "It's cool to care (2025)",
-      "https://alexwlchan.net/2025/cool-to-care/"
     ]
   ],
   [
