@@ -26,6 +26,7 @@
 * [2026-04-16, 18:39:59](https://news.ycombinator.com/item?id=47797665) - [Android CLI: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)
 * [2026-04-16, 17:37:20](https://news.ycombinator.com/item?id=47796830) - [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/)
 * [2026-04-16, 17:36:29](https://news.ycombinator.com/item?id=47796818) - [Show HN: Stage – Putting humans back in control of code review](https://stagereview.app/)
+* [2026-04-16, 17:32:33](https://news.ycombinator.com/item?id=47796759) - [Shader Lab, like Photoshop but for shaders](https://eng.basement.studio/tools/shader-lab)
 * [2026-04-16, 17:13:50](https://news.ycombinator.com/item?id=47796496) - [Bypassing the kernel for 56ns cross-language IPC](https://github.com/riyaneel/Tachyon/tree/main/docs/adr)
 * [2026-04-16, 17:12:19](https://news.ycombinator.com/item?id=47796469) - [Codex for Almost Everything](https://openai.com/index/codex-for-almost-everything/)
 * [2026-04-16, 16:53:32](https://news.ycombinator.com/item?id=47796197) - [Japan implements language proficiency requirements for certain visa applicants](https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/)
