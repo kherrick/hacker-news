@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 16:36:09](https://news.ycombinator.com/item?id=47825520) - [Show HN: Google Gemini Is Scanning Your Photos – and the EU Said No](https://news.ycombinator.com/item?id=47825520)
 * [2026-04-19, 16:21:31](https://news.ycombinator.com/item?id=47825423) - [PM Carney declares U.S. ties now a 'weakness' in address to Canadians](https://www.ctvnews.ca/politics/article/pm-carney-declares-us-ties-now-a-weakness-in-address-to-canadians/)
 * [2026-04-19, 15:48:40](https://news.ycombinator.com/item?id=47825160) - [Turtle WoW classic server announces shutdown after Blizzard wins injunction](https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/)
 * [2026-04-19, 15:23:39](https://news.ycombinator.com/item?id=47824976) - [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/)

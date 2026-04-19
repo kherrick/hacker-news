@@ -32,6 +32,7 @@
 * [2026-04-18, 15:13:26](https://news.ycombinator.com/item?id=47816536) - [Sherry Turkle: \"We're losing the raw, human part of being with each other\"](https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit)
 * [2026-04-18, 15:10:13](https://news.ycombinator.com/item?id=47816514) - [Show HN: Solyto – a free, open-source all-in-one personal management app](https://solyto.app)
 * [2026-04-18, 15:03:03](https://news.ycombinator.com/item?id=47816462) - [Respect to the Man Chasing AI Immortality, While Freeloading Off Our Platform](https://blog.mulerun.com/p/ai-immortality-postmortem/)
+* [2026-04-18, 14:21:41](https://news.ycombinator.com/item?id=47816146) - [Reverse Engineering ME2's USB with a Heat Gun and a Knife](https://github.com/coremaze/ME2-Writeup)
 * [2026-04-18, 13:29:04](https://news.ycombinator.com/item?id=47815774) - [Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
 * [2026-04-18, 12:29:06](https://news.ycombinator.com/item?id=47815395) - [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
 * [2026-04-18, 12:08:31](https://news.ycombinator.com/item?id=47815269) - [Flock Condemns False Child Predator Allegations, Yet Calls Critics Terrorists](https://ipvm.com/reports/flock-allegations-critics)

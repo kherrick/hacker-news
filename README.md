@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-19, 16:36:09](https://news.ycombinator.com/item?id=47825520) - [Show HN: Google Gemini Is Scanning Your Photos – and the EU Said No](https://news.ycombinator.com/item?id=47825520)
 * [2026-04-19, 15:48:40](https://news.ycombinator.com/item?id=47825160) - [Turtle WoW classic server announces shutdown after Blizzard wins injunction](https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/)
 * [2026-04-19, 15:23:39](https://news.ycombinator.com/item?id=47824976) - [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/)
 * [2026-04-19, 15:20:01](https://news.ycombinator.com/item?id=47824945) - [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720)
-* [2026-04-19, 15:09:45](https://news.ycombinator.com/item?id=47824874) - [Russia's doping program is run by the same FSB team that poisoned Navalny](https://theins.press/en/inv/291614)
 * [2026-04-19, 15:04:45](https://news.ycombinator.com/item?id=47824832) - [Discord Read Receipts Exploit: When, How Often, How Long](https://paul.koeck.dev/writeups/discord-read-receipts)
 * [2026-04-19, 14:43:07](https://news.ycombinator.com/item?id=47824681) - [Notes from the SF Peptide Scene](https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene)
 * [2026-04-19, 14:34:38](https://news.ycombinator.com/item?id=47824611) - [When moving fast, talking is the first thing to break](https://daverupert.com/2026/04/more-talk-less-grok/)
@@ -20,6 +20,7 @@
 * [2026-04-18, 19:00:00](https://news.ycombinator.com/item?id=47818485) - [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 * [2026-04-18, 16:26:47](https://news.ycombinator.com/item?id=47817132) - [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
 * [2026-04-18, 16:05:43](https://news.ycombinator.com/item?id=47816960) - [Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard)
+* [2026-04-18, 14:21:41](https://news.ycombinator.com/item?id=47816146) - [Reverse Engineering ME2's USB with a Heat Gun and a Knife](https://github.com/coremaze/ME2-Writeup)
 * [2026-04-18, 12:29:06](https://news.ycombinator.com/item?id=47815395) - [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
 * [2026-04-17, 17:14:46](https://news.ycombinator.com/item?id=47808231) - [Reading Input from an USB RFID Card Reader](https://kevwe.com/blog/usb-rfid-reader)
 * [2026-04-17, 14:07:28](https://news.ycombinator.com/item?id=47806096) - [Archive of Byte magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09)
@@ -28,7 +29,6 @@
 * [2026-04-16, 17:32:33](https://news.ycombinator.com/item?id=47796759) - [Show HN: Shader Lab, like Photoshop but for shaders](https://eng.basement.studio/tools/shader-lab)
 * [2026-04-16, 14:05:10](https://news.ycombinator.com/item?id=47793161) - [Game devs explain the tricks involved with letting you pause a game](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339)
 * [2026-04-15, 16:13:10](https://news.ycombinator.com/item?id=47781191) - [Minimal Viable Programs (2014)](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html)
-* [2026-04-15, 14:20:42](https://news.ycombinator.com/item?id=47779372) - [It's cool to care (2025)](https://alexwlchan.net/2025/cool-to-care/)
 * [2026-04-15, 11:38:22](https://news.ycombinator.com/item?id=47777715) - [Nanopass Framework: Clean Compiler Creation Language](https://nanopass.org/)
 
 ## [Archives](archives/index.md)
