@@ -7,6 +7,7 @@
 * [2026-04-18, 23:47:45](https://news.ycombinator.com/item?id=47820531) - [NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating](https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/)
 * [2026-04-18, 22:46:13](https://news.ycombinator.com/item?id=47820195) - [Zero-Copy GPU Inference from WebAssembly on Apple Silicon](https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/)
 * [2026-04-18, 22:36:33](https://news.ycombinator.com/item?id=47820134) - [Show HN: Sostactic – polynomial inequalities using sums-of-squares in Lean](https://github.com/mmaaz-git/sostactic)
+* [2026-04-18, 22:24:47](https://news.ycombinator.com/item?id=47820046) - [Dad brains: How fatherhood rewires the male mind](https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare)
 * [2026-04-18, 21:50:48](https://news.ycombinator.com/item?id=47819823) - [My first impressions on ROCm and Strix Halo](https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/)
 * [2026-04-18, 20:54:17](https://news.ycombinator.com/item?id=47819453) - [Any Color You Like: NIST Scientists Create 'Any Wavelength' Lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
 * [2026-04-18, 20:42:29](https://news.ycombinator.com/item?id=47819369) - [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)

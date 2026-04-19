@@ -22,6 +22,7 @@
 * [2026-04-15, 19:31:33](https://news.ycombinator.com/item?id=47784060) - [Show HN: Jeeves – TUI for browsing and resuming AI agent sessions](https://github.com/robinovitch61/jeeves)
 * [2026-04-15, 19:30:52](https://news.ycombinator.com/item?id=47784045) - [Flock employees caught watching kids gymnastic class and pools](https://substack.com/home/post/p-193593234)
 * [2026-04-15, 19:22:10](https://news.ycombinator.com/item?id=47783940) - [Is anyone actually using OpenClaw?](https://news.ycombinator.com/item?id=47783940)
+* [2026-04-15, 19:18:38](https://news.ycombinator.com/item?id=47783890) - [Metatextual Literacy](https://www.jenn.site/metatextual-literacy/)
 * [2026-04-15, 19:17:12](https://news.ycombinator.com/item?id=47783873) - [Jury Finds Live Nation Acts as a Monopoly in a Victory for States](https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html)
 * [2026-04-15, 19:06:39](https://news.ycombinator.com/item?id=47783713) - [Live Nation Illegally Monopolized Ticketing Market, Jury Finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds)
 * [2026-04-15, 18:35:45](https://news.ycombinator.com/item?id=47783278) - [Users lose $9.5M to fake Ledger wallet app on the Apple App Store](https://www.web3isgoinggreat.com/?id=fake-ledger-app)
