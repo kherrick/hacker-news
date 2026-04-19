@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-19, 15:23:39](https://news.ycombinator.com/item?id=47824976) - [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/)
+* [2026-04-19, 14:43:07](https://news.ycombinator.com/item?id=47824681) - [Notes from the SF Peptide Scene](https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene)
 * [2026-04-19, 14:34:38](https://news.ycombinator.com/item?id=47824611) - [When moving fast, talking is the first thing to break](https://daverupert.com/2026/04/more-talk-less-grok/)
 * [2026-04-19, 14:24:04](https://news.ycombinator.com/item?id=47824531) - [Matt Mullenweg Overrules Core Committers; Puts Akismet on WP 7's Connector List](https://www.therepository.email/matt-mullenweg-overrules-core-committers-to-put-akismet-on-wordpress-7-0s-connectors-screen)
 * [2026-04-19, 14:14:38](https://news.ycombinator.com/item?id=47824463) - [Vercel April 2026 security incident](https://vercel.com/kb/bulletin/vercel-april-2026-security-incident)
@@ -10,7 +12,6 @@
 * [2026-04-19, 08:45:48](https://news.ycombinator.com/item?id=47822805) - [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
 * [2026-04-19, 08:33:38](https://news.ycombinator.com/item?id=47822737) - [Binary GCD](https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd)
 * [2026-04-19, 07:38:08](https://news.ycombinator.com/item?id=47822486) - [The seven programming ur-languages (2022)](https://madhadron.com/programming/seven_ur_languages.html)
-* [2026-04-19, 07:05:17](https://news.ycombinator.com/item?id=47822356) - [Keep Pushing: We Get 10 More Days to Reform Section 702](https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702)
 * [2026-04-19, 02:50:43](https://news.ycombinator.com/item?id=47821429) - [The world in which IPv6 was a good design (2017)](https://apenwarr.ca/log/20170810)
 * [2026-04-18, 20:54:17](https://news.ycombinator.com/item?id=47819453) - [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
 * [2026-04-18, 20:42:29](https://news.ycombinator.com/item?id=47819369) - [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
@@ -27,7 +28,6 @@
 * [2026-04-16, 14:05:10](https://news.ycombinator.com/item?id=47793161) - [Game devs explain the tricks involved with letting you pause a game](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339)
 * [2026-04-16, 12:00:00](https://news.ycombinator.com/item?id=47791771) - [Updating Gun Rocket through 10 years of Unity Engine](https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine)
 * [2026-04-15, 16:13:10](https://news.ycombinator.com/item?id=47781191) - [Minimal Viable Programs (2014)](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html)
-* [2026-04-15, 14:38:38](https://news.ycombinator.com/item?id=47779659) - [Modern Common Lisp with FSet](https://fset.common-lisp.dev/Modern-CL/Top_html/index.html)
 * [2026-04-15, 14:20:42](https://news.ycombinator.com/item?id=47779372) - [It's cool to care (2025)](https://alexwlchan.net/2025/cool-to-care/)
 * [2026-04-15, 11:38:22](https://news.ycombinator.com/item?id=47777715) - [Nanopass Framework: Clean Compiler Creation Language](https://nanopass.org/)
 

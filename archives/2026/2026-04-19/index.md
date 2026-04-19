@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 15:23:39](https://news.ycombinator.com/item?id=47824976) - [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/)
+* [2026-04-19, 14:43:07](https://news.ycombinator.com/item?id=47824681) - [Notes from the SF Peptide Scene](https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene)
 * [2026-04-19, 14:34:38](https://news.ycombinator.com/item?id=47824611) - [When moving fast, talking is the first thing to break](https://daverupert.com/2026/04/more-talk-less-grok/)
 * [2026-04-19, 14:24:04](https://news.ycombinator.com/item?id=47824531) - [Matt Mullenweg Overrules Core Committers; Puts Akismet on WP 7's Connector List](https://www.therepository.email/matt-mullenweg-overrules-core-committers-to-put-akismet-on-wordpress-7-0s-connectors-screen)
 * [2026-04-19, 14:14:38](https://news.ycombinator.com/item?id=47824463) - [Vercel April 2026 security incident](https://vercel.com/kb/bulletin/vercel-april-2026-security-incident)
