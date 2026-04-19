@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-04-19, 22:33:31",
-      "https://news.ycombinator.com/item?id=47828249"
+      "2026-04-19, 22:55:47",
+      "https://news.ycombinator.com/item?id=47828420"
     ],
     [
-      "Banned by Anthropic",
-      "https://bannedbyanthropic.com/"
+      "2,100 Swiss municipalities showing which provider handles their official email",
+      "https://mxmap.ch/"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 22:30:19",
+      "https://news.ycombinator.com/item?id=47828225"
+    ],
+    [
+      "Ex-CEO, ex-CFO of bankrupt AI company charged with fraud",
+      "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/"
     ]
   ],
   [
@@ -21,32 +31,12 @@
   ],
   [
     [
-      "2026-04-19, 21:56:22",
-      "https://news.ycombinator.com/item?id=47827985"
-    ],
-    [
-      "CEOs admit AI had no impact on employment or productivity",
-      "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 21:00:49",
       "https://news.ycombinator.com/item?id=47827603"
     ],
     [
       "C++26: Reflection, Memory Safety, Contracts, and a New Async Model",
       "https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 20:25:29",
-      "https://news.ycombinator.com/item?id=47827383"
-    ],
-    [
-      "Swiss authorities want to reduce dependency on Microsoft",
-      "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532"
     ]
   ],
   [
@@ -77,6 +67,16 @@
     [
       "I wrote a CHIP-8 emulator in my own programming language",
       "https://github.com/navid-m/chip8emu"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 19:18:57",
+      "https://news.ycombinator.com/item?id=47826834"
+    ],
+    [
+      "Scientific datasets are riddled with copy-paste errors",
+      "https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2026-04-19, 11:17:27",
+      "https://news.ycombinator.com/item?id=47823460"
+    ],
+    [
+      "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
+      "https://teamchong.github.io/turboquant-wasm/draw.html"
+    ]
+  ],
+  [
+    [
       "2026-04-19, 10:36:29",
       "https://news.ycombinator.com/item?id=47823270"
     ],
@@ -157,6 +167,16 @@
     [
       "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
       "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 08:32:53",
+      "https://news.ycombinator.com/item?id=47822734"
+    ],
+    [
+      "A Brief History of Fish Sauce",
+      "https://www.legalnomads.com/fish-sauce/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-04-18, 17:21:02",
-      "https://news.ycombinator.com/item?id=47817639"
-    ],
-    [
-      "4-bit floating point FP4",
-      "https://www.johndcook.com/blog/2026/04/17/fp4/"
-    ]
-  ],
-  [
-    [
       "2026-04-18, 14:21:41",
       "https://news.ycombinator.com/item?id=47816146"
     ],
@@ -201,12 +211,32 @@
   ],
   [
     [
+      "2026-04-17, 18:20:49",
+      "https://news.ycombinator.com/item?id=47808956"
+    ],
+    [
+      "Show HN: How context engineering works, a runnable reference",
+      "https://github.com/outcomeops/context-engineering"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 17:14:46",
       "https://news.ycombinator.com/item?id=47808231"
     ],
     [
       "Reading Input from an USB RFID Card Reader",
       "https://kevwe.com/blog/usb-rfid-reader"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 14:22:18",
+      "https://news.ycombinator.com/item?id=47806270"
+    ],
+    [
+      "Eliza a Play by Tom Holloway",
+      "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/eliza"
     ]
   ],
   [
@@ -231,42 +261,12 @@
   ],
   [
     [
-      "2026-04-16, 17:32:33",
-      "https://news.ycombinator.com/item?id=47796759"
-    ],
-    [
-      "Show HN: Shader Lab, like Photoshop but for shaders",
-      "https://eng.basement.studio/tools/shader-lab"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 15:37:49",
       "https://news.ycombinator.com/item?id=47794891"
     ],
     [
       "3D-Printing a Trombone",
       "https://unnamed.website/posts/3d-printing-trombone/"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 14:05:10",
-      "https://news.ycombinator.com/item?id=47793161"
-    ],
-    [
-      "Game devs explain the tricks involved with letting you pause a game",
-      "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 07:59:34",
-      "https://news.ycombinator.com/item?id=47790041"
-    ],
-    [
-      "I learned Unity the wrong way",
-      "https://darkounity.com/blog/how-i-learned-unity-the-wrong-way"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=47781950"
     ],
     [
-      "Prove You Are a Robot: CAPTCHAs for Agents",
+      "Prove you are a robot: CAPTCHAs for agents",
       "https://browser-use.com/posts/prove-you-are-a-robot"
     ]
   ],
