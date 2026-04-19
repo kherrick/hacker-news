@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 20:04:13](https://news.ycombinator.com/item?id=47827215) - [A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)](https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/)
+* [2026-04-19, 19:41:24](https://news.ycombinator.com/item?id=47827029) - [Blue Origin's rocket reuse achievement marred by upper stage failure](https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/)
 * [2026-04-19, 19:35:57](https://news.ycombinator.com/item?id=47826977) - [MAGA Is Winning Its War Against U.S. Science](https://paulkrugman.substack.com/p/maga-is-winning-its-war-against-us)
 * [2026-04-19, 19:21:22](https://news.ycombinator.com/item?id=47826852) - [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
 * [2026-04-19, 18:32:12](https://news.ycombinator.com/item?id=47826473) - [Europe has 'maybe six weeks of jet fuel left'](https://www.bbc.com/news/articles/czjw2kz0l22o)
@@ -21,6 +23,7 @@
 * [2026-04-19, 14:43:07](https://news.ycombinator.com/item?id=47824681) - [Notes from the SF Peptide Scene](https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene)
 * [2026-04-19, 14:34:38](https://news.ycombinator.com/item?id=47824611) - [When moving fast, talking is the first thing to break](https://daverupert.com/2026/04/more-talk-less-grok/)
 * [2026-04-19, 14:24:04](https://news.ycombinator.com/item?id=47824531) - [Matt Mullenweg Overrules Core Committers; Puts Akismet on WP 7's Connector List](https://www.therepository.email/matt-mullenweg-overrules-core-committers-to-put-akismet-on-wordpress-7-0s-connectors-screen)
+* [2026-04-19, 14:14:38](https://news.ycombinator.com/item?id=47824463) - [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
 * [2026-04-19, 14:14:38](https://news.ycombinator.com/item?id=47824463) - [Vercel April 2026 security incident](https://vercel.com/kb/bulletin/vercel-april-2026-security-incident)
 * [2026-04-19, 14:05:49](https://news.ycombinator.com/item?id=47824403) - [The creative software industry has declared war on Adobe](https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates)
 * [2026-04-19, 13:13:09](https://news.ycombinator.com/item?id=47824068) - [Airline worker arrested after sharing photos of bomb damage in WhatsApp group](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
