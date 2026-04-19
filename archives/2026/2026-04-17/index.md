@@ -14,6 +14,7 @@
 * [2026-04-17, 18:17:01](https://news.ycombinator.com/item?id=47808913) - [All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
 * [2026-04-17, 18:05:12](https://news.ycombinator.com/item?id=47808770) - [NeoGeo AES+: SNK announces reissue of retro console without emulation](https://www.heise.de/en/news/NeoGeo-AES-SNK-announces-reissue-of-retro-console-without-emulation-11262319.html)
 * [2026-04-17, 17:18:58](https://news.ycombinator.com/item?id=47808268) - [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
+* [2026-04-17, 17:14:46](https://news.ycombinator.com/item?id=47808231) - [Reading Input from an USB RFID Card Reader](https://kevwe.com/blog/usb-rfid-reader)
 * [2026-04-17, 17:10:17](https://news.ycombinator.com/item?id=47808174) - [Random musings: 80s hardware, cyberdecks](https://strangelyentangled.com/blog/musings-80s-hardware/)
 * [2026-04-17, 17:01:13](https://news.ycombinator.com/item?id=47808047) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering)
 * [2026-04-17, 16:38:44](https://news.ycombinator.com/item?id=47807809) - [Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock](https://github.com/paniclock/paniclock/)
