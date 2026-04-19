@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-19, 07:18:44",
+      "https://news.ycombinator.com/item?id=47822414"
+    ],
+    [
+      "The RAM shortage could last years",
+      "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years"
+    ]
+  ],
+  [
+    [
       "2026-04-19, 07:05:17",
       "https://news.ycombinator.com/item?id=47822356"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-04-18, 03:47:57",
-      "https://news.ycombinator.com/item?id=47812973"
-    ],
-    [
-      "I dug into the Postgres sources to write my own WAL receiver",
-      "https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 13:57:27",
       "https://news.ycombinator.com/item?id=47806021"
     ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=47790337"
     ],
     [
-      "The becquerel as an SI unit for request rate",
+      "SI Units for Request Rate (2024)",
       "https://entropicthoughts.com/si-units-for-request-rate"
     ]
   ],
