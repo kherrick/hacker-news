@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-19, 08:45:48](https://news.ycombinator.com/item?id=47822805) - [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
 * [2026-04-19, 07:18:44](https://news.ycombinator.com/item?id=47822414) - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)
 * [2026-04-19, 07:05:17](https://news.ycombinator.com/item?id=47822356) - [Keep Pushing: We Get 10 More Days to Reform Section 702](https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702)
 * [2026-04-19, 02:50:43](https://news.ycombinator.com/item?id=47821429) - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
@@ -13,7 +14,6 @@
 * [2026-04-18, 16:26:47](https://news.ycombinator.com/item?id=47817132) - [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
 * [2026-04-18, 16:05:43](https://news.ycombinator.com/item?id=47816960) - [Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard)
 * [2026-04-18, 15:24:39](https://news.ycombinator.com/item?id=47816629) - [Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data](https://github.com/drasimwagan/mdv)
-* [2026-04-18, 15:24:18](https://news.ycombinator.com/item?id=47816625) - [Fuzix OS](https://www.fuzix.org/)
 * [2026-04-18, 13:29:04](https://news.ycombinator.com/item?id=47815774) - [Migrating from DigitalOcean to Hetzner](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
 * [2026-04-18, 12:29:06](https://news.ycombinator.com/item?id=47815395) - [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
 * [2026-04-18, 11:42:37](https://news.ycombinator.com/item?id=47815118) - [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/)
@@ -28,8 +28,8 @@
 * [2026-04-15, 19:46:16](https://news.ycombinator.com/item?id=47784250) - [Scientists discover “cleaner ants” that groom giant ants in Arizona desert](https://www.sciencedaily.com/releases/2026/04/260414075641.htm)
 * [2026-04-15, 19:18:38](https://news.ycombinator.com/item?id=47783890) - [Metatextual Literacy](https://www.jenn.site/metatextual-literacy/)
 * [2026-04-15, 14:38:38](https://news.ycombinator.com/item?id=47779659) - [Modern Common Lisp with FSet](https://fset.common-lisp.dev/Modern-CL/Top_html/index.html)
+* [2026-04-15, 14:20:42](https://news.ycombinator.com/item?id=47779372) - [It's cool to care (2025)](https://alexwlchan.net/2025/cool-to-care/)
 * [2026-04-15, 02:29:39](https://news.ycombinator.com/item?id=47773969) - [Understanding the FFT Algorithm (2013)](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
-* [2026-04-14, 16:00:49](https://news.ycombinator.com/item?id=47767397) - [80386 Memory Pipeline](https://nand2mario.github.io/posts/2026/80386_memory_pipeline/)
 
 ## [Archives](archives/index.md)
 
