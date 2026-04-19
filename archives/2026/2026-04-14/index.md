@@ -29,6 +29,7 @@
 * [2026-04-14, 16:59:09](https://news.ycombinator.com/item?id=47768195) - [Spain to expand internet blocks to tennis, golf, movies broadcasting times](https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731)
 * [2026-04-14, 16:54:33](https://news.ycombinator.com/item?id=47768133) - [Claude Code Routines](https://code.claude.com/docs/en/routines)
 * [2026-04-14, 16:53:16](https://news.ycombinator.com/item?id=47768111) - [An Oligarchy of Old People](https://www.theatlantic.com/magazine/2026/05/gerontocracy-wealth-power/686585/)
+* [2026-04-14, 16:42:48](https://news.ycombinator.com/item?id=47767975) - [William Cecil's Succession Plan](https://www.historytoday.com/archive/history-matters/william-cecils-succession-plan)
 * [2026-04-14, 16:22:49](https://news.ycombinator.com/item?id=47767676) - [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/)
 * [2026-04-14, 16:16:51](https://news.ycombinator.com/item?id=47767606) - [Show HN: Kelet – Root Cause Analysis agent for your LLM apps](https://kelet.ai/)
 * [2026-04-14, 16:00:49](https://news.ycombinator.com/item?id=47767398) - [It's OK to compare floating-points for equality](https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html)
