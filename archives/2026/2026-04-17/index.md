@@ -32,6 +32,7 @@
 * [2026-04-17, 14:32:22](https://news.ycombinator.com/item?id=47806379) - [IETF draft-meow-mrrp-00](https://www.ietf.org/archive/id/draft-meow-mrrp-00.html)
 * [2026-04-17, 14:29:11](https://news.ycombinator.com/item?id=47806348) - [Healthchecks.io Now Uses Self-Hosted Object Storage](https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/)
 * [2026-04-17, 14:25:46](https://news.ycombinator.com/item?id=47806304) - [It Is Time to Ban the Sale of Precise Geolocation](https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation)
+* [2026-04-17, 14:22:18](https://news.ycombinator.com/item?id=47806270) - [Eliza a Play by Tom Holloway](https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/eliza)
 * [2026-04-17, 14:09:32](https://news.ycombinator.com/item?id=47806116) - [We Reproduced Anthropic's Mythos Findings with Public Models](https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models)
 * [2026-04-17, 14:07:28](https://news.ycombinator.com/item?id=47806096) - [Archive of Byte magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09)
 * [2026-04-17, 13:57:27](https://news.ycombinator.com/item?id=47806021) - [What Are Skiplists Good For?](https://antithesis.com/blog/2026/skiptrees/)

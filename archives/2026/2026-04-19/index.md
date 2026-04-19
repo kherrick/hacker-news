@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 20:25:29](https://news.ycombinator.com/item?id=47827383) - [Swiss authorities want to reduce dependency on Microsoft](https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532)
 * [2026-04-19, 20:04:13](https://news.ycombinator.com/item?id=47827215) - [A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)](https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/)
 * [2026-04-19, 19:41:24](https://news.ycombinator.com/item?id=47827029) - [Blue Origin's rocket reuse achievement marred by upper stage failure](https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/)
 * [2026-04-19, 19:35:57](https://news.ycombinator.com/item?id=47826977) - [MAGA Is Winning Its War Against U.S. Science](https://paulkrugman.substack.com/p/maga-is-winning-its-war-against-us)
