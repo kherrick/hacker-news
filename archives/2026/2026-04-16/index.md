@@ -7,6 +7,7 @@
 * [2026-04-16, 23:29:07](https://news.ycombinator.com/item?id=47800839) - [Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan](https://www.bbc.com/news/articles/clyrd818gd2o)
 * [2026-04-16, 23:17:47](https://news.ycombinator.com/item?id=47800765) - [George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four](https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html)
 * [2026-04-16, 23:15:33](https://news.ycombinator.com/item?id=47800738) - [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
+* [2026-04-16, 23:08:52](https://news.ycombinator.com/item?id=47800689) - [Frank Dudley Beane's Experience with Ergot and Cannabis Indica (1884)](https://publicdomainreview.org/collection/experience-with-ergot-and-cannabis/)
 * [2026-04-16, 22:17:24](https://news.ycombinator.com/item?id=47800241) - [U.S. to Create High-Tech Manufacturing Zone in Philippines](https://www.wsj.com/world/asia/u-s-to-create-high-tech-manufacturing-zone-in-philippines-017c1668)
 * [2026-04-16, 22:08:53](https://news.ycombinator.com/item?id=47800166) - [New unsealed records reveal Amazon's price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit)
 * [2026-04-16, 21:56:37](https://news.ycombinator.com/item?id=47800033) - [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober)
