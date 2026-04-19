@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 22:55:47](https://news.ycombinator.com/item?id=47828420) - [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/)
 * [2026-04-19, 22:33:31](https://news.ycombinator.com/item?id=47828249) - [Banned by Anthropic](https://bannedbyanthropic.com/)
+* [2026-04-19, 22:30:19](https://news.ycombinator.com/item?id=47828225) - [Ex-CEO, ex-CFO of bankrupt AI company charged with fraud](https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/)
 * [2026-04-19, 22:19:31](https://news.ycombinator.com/item?id=47828151) - [Reminder: Enable ZRAM on your Linux system to optimize RAM usage](https://www.cnx-software.com/2026/04/15/reminder-enable-zram-on-your-linux-system-to-optimize-ram-usage/)
 * [2026-04-19, 21:56:22](https://news.ycombinator.com/item?id=47827985) - [CEOs admit AI had no impact on employment or productivity](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
 * [2026-04-19, 21:00:49](https://news.ycombinator.com/item?id=47827603) - [C++26: Reflection, Memory Safety, Contracts, and a New Async Model](https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/)
@@ -13,6 +15,7 @@
 * [2026-04-19, 19:41:24](https://news.ycombinator.com/item?id=47827029) - [Blue Origin's rocket reuse achievement marred by upper stage failure](https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/)
 * [2026-04-19, 19:35:57](https://news.ycombinator.com/item?id=47826977) - [MAGA Is Winning Its War Against U.S. Science](https://paulkrugman.substack.com/p/maga-is-winning-its-war-against-us)
 * [2026-04-19, 19:21:22](https://news.ycombinator.com/item?id=47826852) - [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
+* [2026-04-19, 19:18:57](https://news.ycombinator.com/item?id=47826834) - [Scientific datasets are riddled with copy-paste errors](https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/)
 * [2026-04-19, 18:36:00](https://news.ycombinator.com/item?id=47826502) - [Six Levels of Dark Mode](https://cssence.com/2024/six-levels-of-dark-mode/)
 * [2026-04-19, 18:32:12](https://news.ycombinator.com/item?id=47826473) - [Europe has 'maybe six weeks of jet fuel left'](https://www.bbc.com/news/articles/czjw2kz0l22o)
 * [2026-04-19, 18:13:32](https://news.ycombinator.com/item?id=47826328) - [Uber's AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
@@ -40,6 +43,7 @@
 * [2026-04-19, 09:17:12](https://news.ycombinator.com/item?id=47822940) - [Ask HN: How did you land your first projects as a solo engineer/consultant?](https://news.ycombinator.com/item?id=47822940)
 * [2026-04-19, 08:45:48](https://news.ycombinator.com/item?id=47822805) - [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
 * [2026-04-19, 08:33:38](https://news.ycombinator.com/item?id=47822737) - [Binary GCD](https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd)
+* [2026-04-19, 08:32:53](https://news.ycombinator.com/item?id=47822734) - [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/)
 * [2026-04-19, 07:38:08](https://news.ycombinator.com/item?id=47822486) - [The seven programming ur-languages](https://madhadron.com/programming/seven_ur_languages.html)
 * [2026-04-19, 07:18:44](https://news.ycombinator.com/item?id=47822414) - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)
 * [2026-04-19, 07:05:17](https://news.ycombinator.com/item?id=47822356) - [Keep Pushing: We Get 10 More Days to Reform Section 702](https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702)
