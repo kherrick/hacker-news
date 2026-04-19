@@ -41,6 +41,7 @@
 * [2026-04-17, 08:32:54](https://news.ycombinator.com/item?id=47803745) - [How Big Tech wrote secrecy into EU law to hide data centres' environmental toll](https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint)
 * [2026-04-17, 07:20:46](https://news.ycombinator.com/item?id=47803323) - [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/)
 * [2026-04-17, 06:19:45](https://news.ycombinator.com/item?id=47802971) - [PROBoter – Open-source platform for automated PCB analysis](https://www.schutzwerk.com/en/blog/proboter-01/)
+* [2026-04-17, 06:12:15](https://news.ycombinator.com/item?id=47802930) - [Does your DSL little language need operator precedence?](https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence)
 * [2026-04-17, 03:59:22](https://news.ycombinator.com/item?id=47802330) - [Bluesky has been dealing with a DDoS attack for nearly a full day](https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day)
 * [2026-04-17, 03:55:54](https://news.ycombinator.com/item?id=47802312) - [Human Accelerated Region 1](https://en.wikipedia.org/wiki/Human_accelerated_region_1)
 * [2026-04-17, 03:36:26](https://news.ycombinator.com/item?id=47802233) - [Discourse Is Not Going Closed Source](https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/)
