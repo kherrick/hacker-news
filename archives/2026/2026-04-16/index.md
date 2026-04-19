@@ -16,6 +16,7 @@
 * [2026-04-16, 20:49:35](https://news.ycombinator.com/item?id=47799322) - [The Beginning of Scarcity in AI](https://tomtunguz.com/ai-compute-crisis-2026/)
 * [2026-04-16, 20:31:52](https://news.ycombinator.com/item?id=47799120) - [The \"Passive Income\" trap ate a generation of entrepreneurs](https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/)
 * [2026-04-16, 19:40:14](https://news.ycombinator.com/item?id=47798456) - [European civil servants are being forced off WhatsApp](https://www.politico.eu/article/european-civil-servants-new-messaging-services/)
+* [2026-04-16, 19:34:28](https://news.ycombinator.com/item?id=47798376) - [Pairwise Order of a Sequence of Elements](https://morwenn.github.io//presortedness/2026/04/11/TSB010-pairwise-order-of-a-sequence-of-elements.html)
 * [2026-04-16, 19:32:45](https://news.ycombinator.com/item?id=47798349) - [U.S. set to launch tariff refund system on April 20](https://www.nbcnews.com/business/business-news/us-set-launch-tariff-refund-system-april-20-rcna332018)
 * [2026-04-16, 19:32:18](https://news.ycombinator.com/item?id=47798345) - [Official Clojure Documentary page with Video, Shownotes, and Links](https://clojure.org/about/documentary)
 * [2026-04-16, 19:26:03](https://news.ycombinator.com/item?id=47798258) - [German Dog Commands](https://www.fluentu.com/blog/german/german-dog-commands/)
