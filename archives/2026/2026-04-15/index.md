@@ -34,6 +34,7 @@
 * [2026-04-15, 17:44:26](https://news.ycombinator.com/item?id=47782570) - [Google Broke Its Promise to Me. Now ICE Has My Data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data)
 * [2026-04-15, 17:25:52](https://news.ycombinator.com/item?id=47782256) - [The Gemini app is now on Mac](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/)
 * [2026-04-15, 17:07:36](https://news.ycombinator.com/item?id=47781998) - [CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous](https://seqpu.com/CPUsArentDead/)
+* [2026-04-15, 17:03:39](https://news.ycombinator.com/item?id=47781950) - [Prove You Are a Robot: CAPTCHAs for Agents](https://browser-use.com/posts/prove-you-are-a-robot)
 * [2026-04-15, 17:00:56](https://news.ycombinator.com/item?id=47781912) - [Adaptional (YC S25) Is Hiring Founding AI Engineers](https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer)
 * [2026-04-15, 16:59:08](https://news.ycombinator.com/item?id=47781889) - [Introducing: ShaderPad](https://rileyjshaw.com/blog/introducing-shaderpad/)
 * [2026-04-15, 16:57:37](https://news.ycombinator.com/item?id=47781864) - [Where the Heck Did My Taxes Go?](https://wherethefuckdidmytaxesgo.com/)

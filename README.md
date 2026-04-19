@@ -20,7 +20,6 @@
 * [2026-04-18, 16:26:47](https://news.ycombinator.com/item?id=47817132) - [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
 * [2026-04-18, 16:05:43](https://news.ycombinator.com/item?id=47816960) - [Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard)
 * [2026-04-18, 14:21:41](https://news.ycombinator.com/item?id=47816146) - [Reverse Engineering ME2's USB with a Heat Gun and a Knife](https://github.com/coremaze/ME2-Writeup)
-* [2026-04-18, 12:29:06](https://news.ycombinator.com/item?id=47815395) - [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
 * [2026-04-17, 17:14:46](https://news.ycombinator.com/item?id=47808231) - [Reading Input from an USB RFID Card Reader](https://kevwe.com/blog/usb-rfid-reader)
 * [2026-04-17, 14:22:18](https://news.ycombinator.com/item?id=47806270) - [Eliza a Play by Tom Holloway](https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/eliza)
 * [2026-04-17, 14:07:28](https://news.ycombinator.com/item?id=47806096) - [Archive of BYTE magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09)
@@ -29,6 +28,7 @@
 * [2026-04-16, 14:05:10](https://news.ycombinator.com/item?id=47793161) - [Game devs explain the tricks involved with letting you pause a game](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339)
 * [2026-04-16, 07:59:34](https://news.ycombinator.com/item?id=47790041) - [I learned Unity the wrong way](https://darkounity.com/blog/how-i-learned-unity-the-wrong-way)
 * [2026-04-15, 22:32:22](https://news.ycombinator.com/item?id=47786211) - [KTaO3-Based Supercurrent Diode](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c05590)
+* [2026-04-15, 17:03:39](https://news.ycombinator.com/item?id=47781950) - [Prove You Are a Robot: CAPTCHAs for Agents](https://browser-use.com/posts/prove-you-are-a-robot)
 * [2026-04-15, 11:38:22](https://news.ycombinator.com/item?id=47777715) - [Nanopass Framework: Clean Compiler Creation Language](https://nanopass.org/)
 
 ## [Archives](archives/index.md)
