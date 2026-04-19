@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 21:00:49](https://news.ycombinator.com/item?id=47827603) - [C++26: Reflection, Memory Safety, Contracts, and a New Async Model](https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/)
 * [2026-04-19, 20:25:29](https://news.ycombinator.com/item?id=47827383) - [Swiss authorities want to reduce dependency on Microsoft](https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532)
 * [2026-04-19, 20:04:13](https://news.ycombinator.com/item?id=47827215) - [A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)](https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/)
 * [2026-04-19, 19:41:24](https://news.ycombinator.com/item?id=47827029) - [Blue Origin's rocket reuse achievement marred by upper stage failure](https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/)
 * [2026-04-19, 19:35:57](https://news.ycombinator.com/item?id=47826977) - [MAGA Is Winning Its War Against U.S. Science](https://paulkrugman.substack.com/p/maga-is-winning-its-war-against-us)
 * [2026-04-19, 19:21:22](https://news.ycombinator.com/item?id=47826852) - [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
+* [2026-04-19, 18:36:00](https://news.ycombinator.com/item?id=47826502) - [Six Levels of Dark Mode](https://cssence.com/2024/six-levels-of-dark-mode/)
 * [2026-04-19, 18:32:12](https://news.ycombinator.com/item?id=47826473) - [Europe has 'maybe six weeks of jet fuel left'](https://www.bbc.com/news/articles/czjw2kz0l22o)
 * [2026-04-19, 18:13:32](https://news.ycombinator.com/item?id=47826328) - [Uber's AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
 * [2026-04-19, 17:44:44](https://news.ycombinator.com/item?id=47826104) - [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/)
