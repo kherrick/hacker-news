@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-19, 03:33:49",
+      "https://news.ycombinator.com/item?id=47821603"
+    ],
+    [
+      "Bipartisan Bill to Tighten Controls on Sensitive Chipmaking Equipment",
+      "https://baumgartner.house.gov/2026/04/02/baumgartner-introduces-bipartisan-bill-to-tighten-controls-on-sensitive-chipmaking-equipment/"
+    ]
+  ],
+  [
+    [
       "2026-04-18, 23:47:45",
       "https://news.ycombinator.com/item?id=47820531"
     ],
@@ -17,16 +27,6 @@
     [
       "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
       "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 22:24:47",
-      "https://news.ycombinator.com/item?id=47820046"
-    ],
-    [
-      "Dad brains: How fatherhood rewires the male mind",
-      "https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare"
     ]
   ],
   [
@@ -77,26 +77,6 @@
     [
       "College instructor turns to typewriters to curb AI-written work",
       "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 17:01:56",
-      "https://news.ycombinator.com/item?id=47817473"
-    ],
-    [
-      "UpCodes (YC S17) is hiring SDRs to help make construction more productive",
-      "https://up.codes/careers?utm_source=HN"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 16:50:46",
-      "https://news.ycombinator.com/item?id=47817349"
-    ],
-    [
-      "PgQue: Zero-Bloat Postgres Queue",
-      "https://github.com/NikolayS/pgque"
     ]
   ],
   [
@@ -171,26 +151,6 @@
   ],
   [
     [
-      "2026-04-18, 06:40:47",
-      "https://news.ycombinator.com/item?id=47813668"
-    ],
-    [
-      "Category Theory Illustrated – Orders",
-      "https://abuseofnotation.github.io/category-theory-illustrated/04_order/"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 06:20:04",
-      "https://news.ycombinator.com/item?id=47813566"
-    ],
-    [
-      "Amiga Graphics Archive",
-      "https://amiga.lychesis.net/"
-    ]
-  ],
-  [
-    [
       "2026-04-18, 03:47:57",
       "https://news.ycombinator.com/item?id=47812973"
     ],
@@ -201,12 +161,32 @@
   ],
   [
     [
+      "2026-04-17, 13:57:27",
+      "https://news.ycombinator.com/item?id=47806021"
+    ],
+    [
+      "What Are Skiplists Good For?",
+      "https://antithesis.com/blog/2026/skiptrees/"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 10:32:49",
       "https://news.ycombinator.com/item?id=47804423"
     ],
     [
       "Floating Point Fun on Cortex-M Processors",
       "https://danielmangum.com/posts/floating-point-cortex-m/"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 17:13:50",
+      "https://news.ycombinator.com/item?id=47796496"
+    ],
+    [
+      "Bypassing the kernel for 56ns cross-language IPC",
+      "https://github.com/riyaneel/Tachyon/tree/main/docs/adr"
     ]
   ],
   [
@@ -227,6 +207,16 @@
     [
       "Updating Gun Rocket through 10 years of Unity Engine",
       "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 08:42:05",
+      "https://news.ycombinator.com/item?id=47790337"
+    ],
+    [
+      "The becquerel as an SI unit for request rate",
+      "https://entropicthoughts.com/si-units-for-request-rate"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Understanding the FFT Algorithm (2013)",
       "https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 16:00:49",
+      "https://news.ycombinator.com/item?id=47767398"
+    ],
+    [
+      "It's OK to compare floating-points for equality",
+      "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html"
     ]
   ],
   [
