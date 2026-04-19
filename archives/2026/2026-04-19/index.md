@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 13:13:09](https://news.ycombinator.com/item?id=47824068) - [Airline worker arrested after sharing photos of bomb damage in WhatsApp group](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
 * [2026-04-19, 11:17:27](https://news.ycombinator.com/item?id=47823460) - [Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)](https://teamchong.github.io/turboquant-wasm/draw.html)
 * [2026-04-19, 10:55:38](https://news.ycombinator.com/item?id=47823362) - [Why Zip drives dominated the 90s, then vanished almost overnight](https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/)
 * [2026-04-19, 10:36:29](https://news.ycombinator.com/item?id=47823270) - [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-19, 13:13:09](https://news.ycombinator.com/item?id=47824068) - [Airline worker arrested after sharing photos of bomb damage in WhatsApp group](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
 * [2026-04-19, 11:17:27](https://news.ycombinator.com/item?id=47823460) - [Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)](https://teamchong.github.io/turboquant-wasm/draw.html)
 * [2026-04-19, 10:36:29](https://news.ycombinator.com/item?id=47823270) - [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)
 * [2026-04-19, 09:17:12](https://news.ycombinator.com/item?id=47822940) - [Ask HN: How did you land your first projects as a solo engineer/consultant?](https://news.ycombinator.com/item?id=47822940)
@@ -11,7 +12,6 @@
 * [2026-04-18, 22:46:13](https://news.ycombinator.com/item?id=47820195) - [Zero-Copy GPU Inference from WebAssembly on Apple Silicon](https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/)
 * [2026-04-18, 20:54:17](https://news.ycombinator.com/item?id=47819453) - [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
 * [2026-04-18, 20:42:29](https://news.ycombinator.com/item?id=47819369) - [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
-* [2026-04-18, 19:19:24](https://news.ycombinator.com/item?id=47818700) - [Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/)
 * [2026-04-18, 19:00:00](https://news.ycombinator.com/item?id=47818485) - [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 * [2026-04-18, 16:26:47](https://news.ycombinator.com/item?id=47817132) - [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
 * [2026-04-18, 16:05:43](https://news.ycombinator.com/item?id=47816960) - [Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard)
@@ -22,7 +22,6 @@
 * [2026-04-17, 13:57:27](https://news.ycombinator.com/item?id=47806021) - [What are skiplists good for?](https://antithesis.com/blog/2026/skiptrees/)
 * [2026-04-16, 19:05:20](https://news.ycombinator.com/item?id=47797987) - [Binary Dependencies: Identifying the Hidden Packages We All Depend On](https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/)
 * [2026-04-16, 17:32:33](https://news.ycombinator.com/item?id=47796759) - [Shader Lab, like Photoshop but for shaders](https://eng.basement.studio/tools/shader-lab)
-* [2026-04-16, 17:13:50](https://news.ycombinator.com/item?id=47796496) - [Bypassing the kernel for 56ns cross-language IPC](https://github.com/riyaneel/Tachyon/tree/main/docs/adr)
 * [2026-04-16, 15:08:33](https://news.ycombinator.com/item?id=47794299) - [Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower](https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/)
 * [2026-04-16, 14:05:10](https://news.ycombinator.com/item?id=47793161) - [Game devs explain the tricks involved with letting you pause a game](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339)
 * [2026-04-16, 12:00:00](https://news.ycombinator.com/item?id=47791771) - [Updating Gun Rocket through 10 years of Unity Engine](https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine)
@@ -30,6 +29,7 @@
 * [2026-04-15, 19:18:38](https://news.ycombinator.com/item?id=47783890) - [Metatextual Literacy](https://www.jenn.site/metatextual-literacy/)
 * [2026-04-15, 14:38:38](https://news.ycombinator.com/item?id=47779659) - [Modern Common Lisp with FSet](https://fset.common-lisp.dev/Modern-CL/Top_html/index.html)
 * [2026-04-15, 14:20:42](https://news.ycombinator.com/item?id=47779372) - [It's cool to care (2025)](https://alexwlchan.net/2025/cool-to-care/)
+* [2026-04-15, 11:38:22](https://news.ycombinator.com/item?id=47777715) - [Nanopass Framework: Clean Compiler Creation Language](https://nanopass.org/)
 
 ## [Archives](archives/index.md)
 
