@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2026-04-18, 22:36:33",
-      "https://news.ycombinator.com/item?id=47820134"
+      "2026-04-18, 22:24:47",
+      "https://news.ycombinator.com/item?id=47820046"
     ],
     [
-      "Show HN: Sostactic – polynomial inequalities using sums-of-squares in Lean",
-      "https://github.com/mmaaz-git/sostactic"
+      "Dad brains: How fatherhood rewires the male mind",
+      "https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2026-04-18, 06:40:47",
+      "https://news.ycombinator.com/item?id=47813668"
+    ],
+    [
+      "Category Theory Illustrated – Orders",
+      "https://abuseofnotation.github.io/category-theory-illustrated/04_order/"
+    ]
+  ],
+  [
+    [
       "2026-04-18, 06:20:04",
       "https://news.ycombinator.com/item?id=47813566"
     ],
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=47812973"
     ],
     [
-      "A story about how I dug into the PostgreSQL sources to write my own WAL receiver",
+      "I dug into the Postgres sources to write my own WAL receiver",
       "https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25"
     ]
   ],
@@ -201,12 +211,22 @@
   ],
   [
     [
-      "2026-04-17, 06:12:15",
-      "https://news.ycombinator.com/item?id=47802930"
+      "2026-04-16, 15:08:33",
+      "https://news.ycombinator.com/item?id=47794299"
     ],
     [
-      "Does your DSL little language need operator precedence?",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence"
+      "Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower",
+      "https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 12:00:00",
+      "https://news.ycombinator.com/item?id=47791771"
+    ],
+    [
+      "Updating Gun Rocket through 10 years of Unity Engine",
+      "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine"
     ]
   ],
   [
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2026-04-15, 18:07:46",
-      "https://news.ycombinator.com/item?id=47782925"
+      "2026-04-15, 19:18:38",
+      "https://news.ycombinator.com/item?id=47783890"
     ],
     [
-      "Michael Rabin has died",
-      "https://en.wikipedia.org/wiki/Michael_O._Rabin"
+      "Metatextual Literacy",
+      "https://www.jenn.site/metatextual-literacy/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "80386 Memory Pipeline",
       "https://nand2mario.github.io/posts/2026/80386_memory_pipeline/"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 13:51:31",
-      "https://news.ycombinator.com/item?id=47765662"
-    ],
-    [
-      "Show HN: Remoroo – Trying to fix memory in long-running coding agents",
-      "https://www.remoroo.com"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 18:49:55",
-      "https://news.ycombinator.com/item?id=47756320"
-    ],
-    [
-      "Brunost: The Nynorsk Programming Language",
-      "https://lindbakk.com/blog/introducing-brunost"
     ]
   ]
 ]
