@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-20, 21:32:10](https://news.ycombinator.com/item?id=47841129) - [Jujutsu Megamerges for Fun and Profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
+* [2026-04-20, 21:33:15](https://news.ycombinator.com/item?id=47841149) - [Monero Community Crowdfunding System](https://ccs.getmonero.org/ideas/)
+* [2026-04-20, 21:32:10](https://news.ycombinator.com/item?id=47841129) - [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
 * [2026-04-20, 21:20:52](https://news.ycombinator.com/item?id=47840980) - [OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\"](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
-* [2026-04-20, 21:13:49](https://news.ycombinator.com/item?id=47840851) - [Show HN: Docker Compose for VM's](https://github.com/zeroecco/holos)
+* [2026-04-20, 21:13:49](https://news.ycombinator.com/item?id=47840851) - [Show HN: Holos – QEMU/KVM with a compose-style YAML, GPUs and health checks](https://github.com/zeroecco/holos)
 * [2026-04-20, 20:39:32](https://news.ycombinator.com/item?id=47840219) - [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
 * [2026-04-20, 20:19:13](https://news.ycombinator.com/item?id=47839951) - [AI Resistance: some recent anti-AI stuff that’s worth discussing](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
 * [2026-04-20, 20:07:35](https://news.ycombinator.com/item?id=47839835) - [F-35 is built for the wrong war](https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/)
@@ -24,12 +25,11 @@
 * [2026-04-20, 08:49:22](https://news.ycombinator.com/item?id=47831742) - [Brussels launched an age checking app. Hackers took 2 minutes to break it](https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/)
 * [2026-04-20, 08:26:52](https://news.ycombinator.com/item?id=47831621) - [GitHub's fake star economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)
 * [2026-04-19, 19:19:48](https://news.ycombinator.com/item?id=47826839) - [10 years ago, someone wrote a test for Servo that included an expiry in 2026](https://mastodon.social/@jdm_/116429380667467307)
-* [2026-04-19, 10:09:56](https://news.ycombinator.com/item?id=47823153) - [The Work Runs on Different Maps](https://yusufaytas.com/the-work-runs-on-different-maps)
 * [2026-04-19, 09:50:44](https://news.ycombinator.com/item?id=47823080) - [Anatomy of High-Performance Matrix Multiplication (2008) [pdf]](https://www.cs.utexas.edu/~flame/pubs/GotoTOMS_revision.pdf)
 * [2026-04-19, 07:54:11](https://news.ycombinator.com/item?id=47822549) - [Modern Rendering Culling Techniques](https://krupitskas.com/posts/modern_culling_techniques/)
 * [2026-04-17, 22:12:59](https://news.ycombinator.com/item?id=47811154) - [Kefir C17/C23 Compiler](https://sr.ht/~jprotopopov/kefir/)
 * [2026-04-17, 16:22:36](https://news.ycombinator.com/item?id=47807609) - [Writing string.h functions using string instructions in asm x86-64](https://pmasschelier.github.io/x86_64_strings/)
-* [2026-04-16, 07:59:34](https://news.ycombinator.com/item?id=47790041) - [I learned Unity the wrong way](https://darkounity.com/blog/how-i-learned-unity-the-wrong-way)
+* [2026-04-16, 06:11:40](https://news.ycombinator.com/item?id=47789291) - [Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes](https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html)
 
 ## [Archives](archives/index.md)
 
