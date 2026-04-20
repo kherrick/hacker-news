@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-04-20, 15:36:05",
+      "https://news.ycombinator.com/item?id=47835858"
+    ],
+    [
+      "Kimi K2.6: Advancing Open-Source Coding",
+      "https://twitter.com/Kimi_Moonshot/status/2046249571882500354"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 15:28:13",
+      "https://news.ycombinator.com/item?id=47835735"
+    ],
+    [
+      "Kimi K2.6: Advancing Open-Source Coding",
+      "https://www.kimi.com/blog/kimi-k2-6"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 15:22:01",
+      "https://news.ycombinator.com/item?id=47835646"
+    ],
+    [
+      "I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs",
+      "https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 15:07:40",
+      "https://news.ycombinator.com/item?id=47835423"
+    ],
+    [
+      "Data Center Is Getting a $77M Tax Break to Create One Job",
+      "https://nysfocus.com/2026/04/20/data-center-tax-break-jpmorgan-chase"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 14:05:34",
       "https://news.ycombinator.com/item?id=47834565"
     ],
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47834213"
     ],
     [
-      "Ask HN: How to solve the cold start problem for two-sided marketplace?",
+      "Ask HN: How to solve the cold start problem for a two-sided marketplace?",
       "https://news.ycombinator.com/item?id=47834213"
     ]
   ],
@@ -35,18 +75,8 @@
       "https://news.ycombinator.com/item?id=47834184"
     ],
     [
-      "Show HN: Saunas lower nighttime heart rate more than exercise (n=59,000)",
+      "Sauna effect on heart rate",
       "https://tryterra.co/research/sauna-effect-on-heart-rate"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 13:27:23",
-      "https://news.ycombinator.com/item?id=47834025"
-    ],
-    [
-      "U.S. banks may soon collect citizenship data from customers",
-      "https://www.cnbc.com/2026/04/15/banks-citizenship-data-collection-customer-accounts.html"
     ]
   ],
   [
@@ -121,6 +151,16 @@
   ],
   [
     [
+      "2026-04-20, 07:49:48",
+      "https://news.ycombinator.com/item?id=47831437"
+    ],
+    [
+      "OpenClaw isn't fooling me. I remember MS-DOS",
+      "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 00:56:40",
       "https://news.ycombinator.com/item?id=47829178"
     ],
@@ -147,36 +187,6 @@
     [
       "10 years ago, someone wrote a test for servo that included an expiry in 2026",
       "https://mastodon.social/@jdm_/116429380667467307"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 17:44:03",
-      "https://news.ycombinator.com/item?id=47826100"
-    ],
-    [
-      "The Bromine Chokepoint",
-      "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 15:48:40",
-      "https://news.ycombinator.com/item?id=47825160"
-    ],
-    [
-      "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
-      "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 14:14:38",
-      "https://news.ycombinator.com/item?id=47824463"
-    ],
-    [
-      "Vercel April 2026 security incident",
-      "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-04-17, 22:46:03",
-      "https://news.ycombinator.com/item?id=47811391"
-    ],
-    [
-      "Who Is Blake Whiting?",
-      "https://theamericanscholar.org/who-is-blake-whiting/"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 21:03:09",
       "https://news.ycombinator.com/item?id=47810531"
     ],
@@ -247,16 +247,6 @@
     [
       "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
       "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 09:50:53",
-      "https://news.ycombinator.com/item?id=47804178"
-    ],
-    [
-      "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
-      "https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Epicycles All the Way Down (2025)",
       "https://www.strangeloopcanon.com/p/epicycles-all-the-way-down"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 19:17:34",
+      "https://news.ycombinator.com/item?id=47783878"
+    ],
+    [
+      "Turning a Chinese IoT camera into an owl livestream",
+      "https://blog.alexbeals.com/posts/owl-cam"
     ]
   ]
 ]
