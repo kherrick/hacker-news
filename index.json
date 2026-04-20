@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-04-20, 21:33:15",
+      "https://news.ycombinator.com/item?id=47841149"
+    ],
+    [
+      "Monero Community Crowdfunding System",
+      "https://ccs.getmonero.org/ideas/"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 21:32:10",
       "https://news.ycombinator.com/item?id=47841129"
     ],
     [
-      "Jujutsu Megamerges for Fun and Profit",
+      "Jujutsu megamerges for fun and profit",
       "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47840851"
     ],
     [
-      "Show HN: Docker Compose for VM's",
+      "Show HN: Holos – QEMU/KVM with a compose-style YAML, GPUs and health checks",
       "https://github.com/zeroecco/holos"
     ]
   ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-04-19, 10:09:56",
-      "https://news.ycombinator.com/item?id=47823153"
-    ],
-    [
-      "The Work Runs on Different Maps",
-      "https://yusufaytas.com/the-work-runs-on-different-maps"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 09:50:44",
       "https://news.ycombinator.com/item?id=47823080"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-04-16, 07:59:34",
-      "https://news.ycombinator.com/item?id=47790041"
+      "2026-04-16, 06:11:40",
+      "https://news.ycombinator.com/item?id=47789291"
     ],
     [
-      "I learned Unity the wrong way",
-      "https://darkounity.com/blog/how-i-learned-unity-the-wrong-way"
+      "Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
+      "https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html"
     ]
   ]
 ]
