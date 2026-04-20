@@ -39,6 +39,7 @@
 * [2026-04-16, 15:09:07](https://news.ycombinator.com/item?id=47794311) - [The Unix Executable as a Smalltalk Method [video]](https://www.youtube.com/watch?v=sZjPQ7vtLNA)
 * [2026-04-16, 15:08:33](https://news.ycombinator.com/item?id=47794299) - [Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower](https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/)
 * [2026-04-16, 14:51:13](https://news.ycombinator.com/item?id=47793926) - [Laravel raised money and now injects ads directly into your agent](https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/)
+* [2026-04-16, 14:43:14](https://news.ycombinator.com/item?id=47793758) - [Knitout and Kniterate 3](https://soup.agnescameron.info//2026/04/01/transfers.html)
 * [2026-04-16, 14:32:24](https://news.ycombinator.com/item?id=47793546) - [Claude Opus 4.7 Model Card](https://anthropic.com/claude-opus-4-7-system-card)
 * [2026-04-16, 14:23:50](https://news.ycombinator.com/item?id=47793411) - [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
 * [2026-04-16, 14:05:10](https://news.ycombinator.com/item?id=47793161) - [Game Devs Explain the Tricks Involved with Letting You Pause a Game](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339)

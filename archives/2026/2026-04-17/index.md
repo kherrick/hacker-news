@@ -43,6 +43,7 @@
 * [2026-04-17, 12:01:19](https://news.ycombinator.com/item?id=47804965) - [Isaac Asimov: The Last Question](https://hex.ooo/library/last_question.html)
 * [2026-04-17, 11:22:05](https://news.ycombinator.com/item?id=47804708) - [How Silicon Valley Is Turning Scientists into Exploited Gig Workers](https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/)
 * [2026-04-17, 10:32:49](https://news.ycombinator.com/item?id=47804423) - [Floating Point Fun on Cortex-M Processors](https://danielmangum.com/posts/floating-point-cortex-m/)
+* [2026-04-17, 09:50:53](https://news.ycombinator.com/item?id=47804178) - [Monumental ship burial beneath ancient Norwegian mound predates the Viking Age](https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html)
 * [2026-04-17, 09:18:16](https://news.ycombinator.com/item?id=47803992) - [Teddy Roosevelt and Abraham Lincoln in the same photo](https://prologue.blogs.archives.gov/2010/11/09/teddy-roosevelt-and-abraham-lincoln-in-the-same-photo/)
 * [2026-04-17, 08:51:38](https://news.ycombinator.com/item?id=47803844) - [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)
 * [2026-04-17, 08:32:54](https://news.ycombinator.com/item?id=47803745) - [How Big Tech wrote secrecy into EU law to hide data centres' environmental toll](https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint)
@@ -56,3 +57,4 @@
 * [2026-04-17, 02:50:02](https://news.ycombinator.com/item?id=47801991) - [US Bill Mandates On-Device Age Verification](https://reclaimthenet.org/us-bill-mandates-on-device-age-verification)
 * [2026-04-17, 01:38:01](https://news.ycombinator.com/item?id=47801639) - [Solitaire simulator for finding the best strategy: Current record is 8.590%](https://github.com/dacracot/Klondike3-Simulator)
 * [2026-04-17, 00:37:47](https://news.ycombinator.com/item?id=47801255) - [Show HN: Spice simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/)
+* [2026-04-17, 00:29:37](https://news.ycombinator.com/item?id=47801200) - [Zero-copy protobuf and ConnectRPC for Rust](https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02)
