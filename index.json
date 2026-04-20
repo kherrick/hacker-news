@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-04-20, 15:36:05",
-      "https://news.ycombinator.com/item?id=47835858"
+      "2026-04-20, 17:00:45",
+      "https://news.ycombinator.com/item?id=47837176"
     ],
     [
-      "Kimi K2.6: Advancing Open-Source Coding",
-      "https://twitter.com/Kimi_Moonshot/status/2046249571882500354"
+      "Bloom (YC P26) Is Hiring",
+      "https://www.ycombinator.com/companies/trybloom/jobs"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 16:34:25",
+      "https://news.ycombinator.com/item?id=47836730"
+    ],
+    [
+      "We Accepted Surveillance as Default",
+      "https://vivianvoss.net/blog/why-we-accepted-surveillance"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 16:19:20",
+      "https://news.ycombinator.com/item?id=47836463"
+    ],
+    [
+      "Palantir Wants to Reinstate the Draft",
+      "https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 15:41:02",
+      "https://news.ycombinator.com/item?id=47835928"
+    ],
+    [
+      "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+      "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 15:30:17",
+      "https://news.ycombinator.com/item?id=47835775"
+    ],
+    [
+      "I'm never buying another Kindle, and neither should you",
+      "https://www.androidauthority.com/amazon-kindle-2026-3657863/"
     ]
   ],
   [
@@ -31,12 +71,12 @@
   ],
   [
     [
-      "2026-04-20, 15:07:40",
-      "https://news.ycombinator.com/item?id=47835423"
+      "2026-04-20, 15:18:57",
+      "https://news.ycombinator.com/item?id=47835599"
     ],
     [
-      "Data Center Is Getting a $77M Tax Break to Create One Job",
-      "https://nysfocus.com/2026/04/20/data-center-tax-break-jpmorgan-chase"
+      "Show HN: Alien – Self-hosting with remote management (written in Rust)",
+      "https://news.ycombinator.com/item?id=47835599"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2026-04-20, 12:05:08",
-      "https://news.ycombinator.com/item?id=47833092"
-    ],
-    [
-      "NASA Artemis Posters",
-      "https://www.nasa.gov/gallery/artemis/"
-    ]
-  ],
-  [
-    [
       "2026-04-20, 11:51:04",
       "https://news.ycombinator.com/item?id=47832969"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-04-19, 20:09:09",
-      "https://news.ycombinator.com/item?id=47827259"
-    ],
-    [
-      "Stop trying to engineer your way out of listening to people",
-      "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 19:19:48",
       "https://news.ycombinator.com/item?id=47826839"
     ],
@@ -191,12 +211,12 @@
   ],
   [
     [
-      "2026-04-19, 08:32:53",
-      "https://news.ycombinator.com/item?id=47822734"
+      "2026-04-19, 05:42:48",
+      "https://news.ycombinator.com/item?id=47822066"
     ],
     [
-      "A Brief History of Fish Sauce",
-      "https://www.legalnomads.com/fish-sauce/"
+      "Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded",
+      "https://www.bbc.com/news/articles/c0q92lx8q75o"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-04-17, 20:27:49",
-      "https://news.ycombinator.com/item?id=47810211"
-    ],
-    [
-      "How Motorola’s 2N2222 and 2N3904 transistors became the default NPNs",
-      "https://www.allaboutcircuits.com/news/how-two-motorola-transistors-became-the-worlds-default-npns/"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 20:14:30",
       "https://news.ycombinator.com/item?id=47810101"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
+      "2026-04-17, 13:20:31",
+      "https://news.ycombinator.com/item?id=47805632"
+    ],
+    [
+      "Larry Tesler: A Personal History of Modeless Text Editing and Cut/Copy-Paste (2012)",
+      "https://dl.acm.org/doi/epdf/10.1145/2212877.2212896"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 02:34:54",
       "https://news.ycombinator.com/item?id=47801923"
     ],
     [
       "IPC medley: message-queue peeking, io_uring, and bus1",
       "https://lwn.net/Articles/1065490/"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 00:29:37",
-      "https://news.ycombinator.com/item?id=47801200"
-    ],
-    [
-      "Zero-copy protobuf and ConnectRPC for Rust",
-      "https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Epicycles All the Way Down (2025)",
       "https://www.strangeloopcanon.com/p/epicycles-all-the-way-down"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 19:17:34",
-      "https://news.ycombinator.com/item?id=47783878"
-    ],
-    [
-      "Turning a Chinese IoT camera into an owl livestream",
-      "https://blog.alexbeals.com/posts/owl-cam"
     ]
   ]
 ]
