@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 22:58:35](https://news.ycombinator.com/item?id=47828444) - [Swiss AI Initiative (2023)](https://www.swiss-ai.org)
+* [2026-04-19, 22:56:32](https://news.ycombinator.com/item?id=47828427) - [Got an Old Kindle? It Might Not Work Anymore](https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/)
 * [2026-04-19, 22:55:47](https://news.ycombinator.com/item?id=47828420) - [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/)
 * [2026-04-19, 22:33:31](https://news.ycombinator.com/item?id=47828249) - [Banned by Anthropic](https://bannedbyanthropic.com/)
 * [2026-04-19, 22:30:19](https://news.ycombinator.com/item?id=47828225) - [Ex-CEO, ex-CFO of bankrupt AI company charged with fraud](https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/)
@@ -11,6 +13,7 @@
 * [2026-04-19, 21:56:22](https://news.ycombinator.com/item?id=47827985) - [CEOs admit AI had no impact on employment or productivity](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
 * [2026-04-19, 21:00:49](https://news.ycombinator.com/item?id=47827603) - [C++26: Reflection, Memory Safety, Contracts, and a New Async Model](https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/)
 * [2026-04-19, 20:25:29](https://news.ycombinator.com/item?id=47827383) - [Swiss authorities want to reduce dependency on Microsoft](https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532)
+* [2026-04-19, 20:09:09](https://news.ycombinator.com/item?id=47827259) - [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/)
 * [2026-04-19, 20:04:13](https://news.ycombinator.com/item?id=47827215) - [A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)](https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/)
 * [2026-04-19, 19:41:24](https://news.ycombinator.com/item?id=47827029) - [Blue Origin's rocket reuse achievement marred by upper stage failure](https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/)
 * [2026-04-19, 19:35:57](https://news.ycombinator.com/item?id=47826977) - [MAGA Is Winning Its War Against U.S. Science](https://paulkrugman.substack.com/p/maga-is-winning-its-war-against-us)
