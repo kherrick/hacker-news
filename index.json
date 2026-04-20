@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-20, 07:49:48",
+      "https://news.ycombinator.com/item?id=47831437"
+    ],
+    [
+      "OpenClaw isn't fooling me. I remember MS-DOS",
+      "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 07:07:30",
+      "https://news.ycombinator.com/item?id=47831205"
+    ],
+    [
+      "How Long Poop Stays in Your Body May Impact Your Health, Study Finds",
+      "https://www.sciencealert.com/how-long-poop-stays-in-your-body-may-impact-your-health-study-finds"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 05:05:43",
+      "https://news.ycombinator.com/item?id=47830575"
+    ],
+    [
+      "Stripe's Payment APIs: the first 10 years (2020)",
+      "https://stripe.dev/blog/payment-api-design"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 03:24:21",
       "https://news.ycombinator.com/item?id=47830071"
     ],
@@ -21,32 +51,12 @@
   ],
   [
     [
-      "2026-04-20, 00:21:24",
-      "https://news.ycombinator.com/item?id=47828968"
-    ],
-    [
-      "Show HN: A lightweight way to make agents talk without paying for API usage",
-      "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/"
-    ]
-  ],
-  [
-    [
       "2026-04-20, 00:07:16",
       "https://news.ycombinator.com/item?id=47828896"
     ],
     [
       "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
       "https://github.com/shivampkumar/trellis-mac"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 23:59:51",
-      "https://news.ycombinator.com/item?id=47828853"
-    ],
-    [
-      "Sudo for Windows (2024)",
-      "https://github.com/microsoft/sudo"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2026-04-19, 17:44:44",
-      "https://news.ycombinator.com/item?id=47826104"
-    ],
-    [
-      "Show HN: Faceoff – A terminal UI for following NHL games",
-      "https://www.vincentgregoire.com/faceoff/"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 17:44:03",
       "https://news.ycombinator.com/item?id=47826100"
     ],
@@ -131,32 +131,12 @@
   ],
   [
     [
-      "2026-04-19, 16:57:41",
-      "https://news.ycombinator.com/item?id=47825698"
-    ],
-    [
-      "Hot-wiring the Lisp machine",
-      "https://scheatkode.com/blog/019d463d-38b3-7e63-80fd-6ed97bd8815e/hot-wiring-the-lisp-machine/"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 15:48:40",
       "https://news.ycombinator.com/item?id=47825160"
     ],
     [
       "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
       "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 15:20:01",
-      "https://news.ycombinator.com/item?id=47824945"
-    ],
-    [
-      "Notion leaks email addresses of all editors of any public page",
-      "https://twitter.com/weezerOSINT/status/2045849358462222720"
     ]
   ],
   [
@@ -221,22 +201,32 @@
   ],
   [
     [
-      "2026-04-18, 06:25:38",
-      "https://news.ycombinator.com/item?id=47813597"
+      "2026-04-18, 20:48:35",
+      "https://news.ycombinator.com/item?id=47819410"
     ],
     [
-      "Interesting Map Geometry and Mathematics",
-      "https://www.markrjohnsongames.com/2026/04/11/ultima-ratio-regum-0-11-update-57-interesting-map-geometry-and-mathematics/"
+      "SDF Public Access Unix System",
+      "https://sdf.org/?ssh"
     ]
   ],
   [
     [
-      "2026-04-17, 20:15:40",
-      "https://news.ycombinator.com/item?id=47810109"
+      "2026-04-17, 20:27:49",
+      "https://news.ycombinator.com/item?id=47810211"
     ],
     [
-      "A Common MVP Evolution: Service to System Integration to Product (2017)",
-      "https://www.skmurphy.com/blog/2017/08/07/a-common-evolution-service-to-system-integration-to-product/"
+      "Two Motorola Transistors Became the Default NPNs",
+      "https://www.allaboutcircuits.com/news/how-two-motorola-transistors-became-the-worlds-default-npns/"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 20:14:30",
+      "https://news.ycombinator.com/item?id=47810101"
+    ],
+    [
+      "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
+      "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Knitout and Kniterate 3",
       "https://soup.agnescameron.info//2026/04/01/transfers.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 05:43:09",
+      "https://news.ycombinator.com/item?id=47789087"
+    ],
+    [
+      "Ben Lerner's Big Feelings",
+      "https://www.vulture.com/article/ben-lerner-transcription-interview.html"
     ]
   ],
   [
