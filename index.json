@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-04-20, 17:24:45",
-      "https://news.ycombinator.com/item?id=47837620"
+      "2026-04-20, 19:24:11",
+      "https://news.ycombinator.com/item?id=47839283"
     ],
     [
-      "At Long Last, InfoWars Is Ours",
-      "https://theonion.info/"
+      "Rumor: Anthropic is going to buy Atlassian?",
+      "https://old.reddit.com/r/atlassian/comments/1sob1s2/atlassian_anthropic/"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 18:55:44",
+      "https://news.ycombinator.com/item?id=47838930"
+    ],
+    [
+      "Anduril, Palantir and SpaceX are changing how America wages war",
+      "https://www.economist.com/business/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war"
     ]
   ],
   [
@@ -35,8 +45,18 @@
       "https://news.ycombinator.com/item?id=47837105"
     ],
     [
-      "The Theory of Interstellar Trade [pdf]",
+      "The Theory of Interstellar Trade [pdf] (1978)",
       "https://www.princeton.edu/~pkrugman/interstellar.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 16:37:48",
+      "https://news.ycombinator.com/item?id=47836784"
+    ],
+    [
+      "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
+      "https://words.filippo.io/128-bits/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-04-20, 13:36:11",
-      "https://news.ycombinator.com/item?id=47834134"
-    ],
-    [
-      "AI chatbots could be making you stupider",
-      "https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider"
-    ]
-  ],
-  [
-    [
       "2026-04-20, 12:51:20",
       "https://news.ycombinator.com/item?id=47833558"
     ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2026-04-19, 07:54:11",
+      "https://news.ycombinator.com/item?id=47822549"
+    ],
+    [
+      "Modern Rendering Culling Techniques",
+      "https://krupitskas.com/posts/modern_culling_techniques/"
+    ]
+  ],
+  [
+    [
       "2026-04-19, 05:42:48",
       "https://news.ycombinator.com/item?id=47822066"
     ],
@@ -277,26 +297,6 @@
     [
       "Larry Tesler: A Personal History of Modeless Text Editing and Cut/Copy-Paste (2012)",
       "https://dl.acm.org/doi/epdf/10.1145/2212877.2212896"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 02:34:54",
-      "https://news.ycombinator.com/item?id=47801923"
-    ],
-    [
-      "IPC medley: message-queue peeking, io_uring, and bus1",
-      "https://lwn.net/Articles/1065490/"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 18:19:24",
-      "https://news.ycombinator.com/item?id=47797382"
-    ],
-    [
-      "I Made the \"Next-Level\" Camera and I love it",
-      "https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/"
     ]
   ]
 ]
