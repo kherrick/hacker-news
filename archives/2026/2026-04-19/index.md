@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 23:59:51](https://news.ycombinator.com/item?id=47828853) - [Sudo for Windows](https://github.com/microsoft/sudo)
 * [2026-04-19, 22:58:35](https://news.ycombinator.com/item?id=47828444) - [Swiss AI Initiative (2023)](https://www.swiss-ai.org)
 * [2026-04-19, 22:56:32](https://news.ycombinator.com/item?id=47828427) - [Got an Old Kindle? It Might Not Work Anymore](https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/)
 * [2026-04-19, 22:55:47](https://news.ycombinator.com/item?id=47828420) - [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/)
