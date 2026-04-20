@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 20:39:32](https://news.ycombinator.com/item?id=47840219) - [Tim Cook to become Apple Executive Chairman](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
+* [2026-04-20, 20:35:54](https://news.ycombinator.com/item?id=47840165) - [Tim Cook Stepping Down](https://www.macrumors.com/2026/04/20/tim-cook-stepping-down/)
+* [2026-04-20, 20:19:13](https://news.ycombinator.com/item?id=47839951) - [AI Resistance Is Growing](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+* [2026-04-20, 20:07:35](https://news.ycombinator.com/item?id=47839835) - [F-35 is a masterpiece built for the wrong war](https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/)
 * [2026-04-20, 19:47:10](https://news.ycombinator.com/item?id=47839606) - [NASA had to train Apollo 11's astronauts to not use profanity](https://www.columbian.com/news/2019/may/31/bad-words-led-some-to-swear-off-apollo-program/)
 * [2026-04-20, 19:24:11](https://news.ycombinator.com/item?id=47839283) - [Rumor: Anthropic is going to buy Atlassian?](https://old.reddit.com/r/atlassian/comments/1sob1s2/atlassian_anthropic/)
 * [2026-04-20, 18:55:44](https://news.ycombinator.com/item?id=47838930) - [Anduril, Palantir and SpaceX are changing how America wages war](https://www.economist.com/business/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war)
@@ -40,6 +44,7 @@
 * [2026-04-20, 10:04:40](https://news.ycombinator.com/item?id=47832248) - [M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/)
 * [2026-04-20, 10:00:35](https://news.ycombinator.com/item?id=47832222) - [NSA is using Anthropic's Mythos despite blacklist](https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/)
 * [2026-04-20, 10:00:35](https://news.ycombinator.com/item?id=47832222) - [NSA is using Anthropic's Mythos despite blacklist](https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon)
+* [2026-04-20, 08:49:22](https://news.ycombinator.com/item?id=47831742) - [Brussels launched an age checking app. Hackers took 2 minutes to break it](https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/)
 * [2026-04-20, 08:26:52](https://news.ycombinator.com/item?id=47831621) - [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)
 * [2026-04-20, 07:49:48](https://news.ycombinator.com/item?id=47831437) - [OpenClaw isn't fooling me. I remember MS-DOS](https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/)
 * [2026-04-20, 07:19:27](https://news.ycombinator.com/item?id=47831272) - [IEA: Solar overtakes all energy sources in a major global first](https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/)
