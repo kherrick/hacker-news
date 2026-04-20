@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-04-20, 10:00:35",
+      "https://news.ycombinator.com/item?id=47832222"
+    ],
+    [
+      "NSA is using Anthropic's Mythos despite blacklist",
+      "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 08:26:52",
+      "https://news.ycombinator.com/item?id=47831621"
+    ],
+    [
+      "GitHub's Fake Star Economy",
+      "https://awesomeagents.ai/news/github-fake-stars-investigation/"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 07:49:48",
       "https://news.ycombinator.com/item?id=47831437"
     ],
     [
       "OpenClaw isn't fooling me. I remember MS-DOS",
       "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 07:19:27",
+      "https://news.ycombinator.com/item?id=47831272"
+    ],
+    [
+      "IEA: Solar overtakes all energy sources in a major global first",
+      "https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-04-19, 19:21:22",
-      "https://news.ycombinator.com/item?id=47826852"
-    ],
-    [
-      "I wrote a CHIP-8 emulator in my own programming language",
-      "https://github.com/navid-m/chip8emu"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 19:18:57",
       "https://news.ycombinator.com/item?id=47826834"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2026-04-19, 11:17:27",
-      "https://news.ycombinator.com/item?id=47823460"
-    ],
-    [
-      "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
-      "https://teamchong.github.io/turboquant-wasm/draw.html"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 10:36:29",
       "https://news.ycombinator.com/item?id=47823270"
     ],
     [
       "Changes in the system prompt between Claude Opus 4.6 and 4.7",
       "https://simonwillison.net/2026/Apr/18/opus-system-prompt/"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 08:45:48",
-      "https://news.ycombinator.com/item?id=47822805"
-    ],
-    [
-      "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
-      "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf"
     ]
   ],
   [
@@ -207,6 +207,16 @@
     [
       "SDF Public Access Unix System",
       "https://sdf.org/?ssh"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 21:03:09",
+      "https://news.ycombinator.com/item?id=47810531"
+    ],
+    [
+      "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
+      "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2026-04-16, 18:19:24",
+      "https://news.ycombinator.com/item?id=47797382"
+    ],
+    [
+      "I Made the \"Next-Level\" Camera and I love it",
+      "https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/"
+    ]
+  ],
+  [
+    [
       "2026-04-16, 14:43:14",
       "https://news.ycombinator.com/item?id=47793758"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-04-15, 17:03:39",
-      "https://news.ycombinator.com/item?id=47781950"
-    ],
-    [
-      "Prove you are a robot: CAPTCHAs for agents",
-      "https://browser-use.com/posts/prove-you-are-a-robot"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 15:45:45",
       "https://news.ycombinator.com/item?id=47780743"
     ],
     [
       "Mechanical Keyboard Sounds – A listening Museum",
       "https://sheets.works/data-viz/keyboard-sounds"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 11:38:22",
-      "https://news.ycombinator.com/item?id=47777715"
-    ],
-    [
-      "Nanopass Framework: Clean Compiler Creation Language",
-      "https://nanopass.org/"
     ]
   ]
 ]
