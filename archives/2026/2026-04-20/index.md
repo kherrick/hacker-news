@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 12:12:19](https://news.ycombinator.com/item?id=47833156) - [Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)](https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html)
+* [2026-04-20, 12:05:08](https://news.ycombinator.com/item?id=47833092) - [NASA Artemis Posters](https://www.nasa.gov/gallery/artemis/)
+* [2026-04-20, 11:58:04](https://news.ycombinator.com/item?id=47833026) - [Why macOS27 won't be supporting Intel anymore](https://twitter.com/Lina_Hoshino/status/2046112493320458649)
+* [2026-04-20, 11:42:17](https://news.ycombinator.com/item?id=47832887) - [A Pascal's Wager for AI Doomers](https://pluralistic.net/2026/04/16/pascals-wager/)
 * [2026-04-20, 10:26:35](https://news.ycombinator.com/item?id=47832366) - [Figma's woes compound with Claude Design](https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/)
 * [2026-04-20, 10:04:40](https://news.ycombinator.com/item?id=47832248) - [M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/)
 * [2026-04-20, 10:00:35](https://news.ycombinator.com/item?id=47832222) - [NSA is using Anthropic's Mythos despite blacklist](https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/)
