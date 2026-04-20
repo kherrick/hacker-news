@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 19:47:10](https://news.ycombinator.com/item?id=47839606) - [NASA had to train Apollo 11's astronauts to not use profanity](https://www.columbian.com/news/2019/may/31/bad-words-led-some-to-swear-off-apollo-program/)
 * [2026-04-20, 19:24:11](https://news.ycombinator.com/item?id=47839283) - [Rumor: Anthropic is going to buy Atlassian?](https://old.reddit.com/r/atlassian/comments/1sob1s2/atlassian_anthropic/)
 * [2026-04-20, 18:55:44](https://news.ycombinator.com/item?id=47838930) - [Anduril, Palantir and SpaceX are changing how America wages war](https://www.economist.com/business/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war)
+* [2026-04-20, 18:46:22](https://news.ycombinator.com/item?id=47838788) - [We got 207 tok/s with Qwen3.5-27B on an RTX 3090](https://github.com/Luce-Org/lucebox-hub)
+* [2026-04-20, 18:39:53](https://news.ycombinator.com/item?id=47838703) - [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
 * [2026-04-20, 17:24:45](https://news.ycombinator.com/item?id=47837620) - [At Long Last, InfoWars Is Ours](https://theonion.info/)
 * [2026-04-20, 17:23:58](https://news.ycombinator.com/item?id=47837611) - [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/)
 * [2026-04-20, 17:00:45](https://news.ycombinator.com/item?id=47837176) - [Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)

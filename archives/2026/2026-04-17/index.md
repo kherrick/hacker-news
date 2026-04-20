@@ -26,6 +26,7 @@
 * [2026-04-17, 17:01:13](https://news.ycombinator.com/item?id=47808047) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering)
 * [2026-04-17, 16:38:44](https://news.ycombinator.com/item?id=47807809) - [Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock](https://github.com/paniclock/paniclock/)
 * [2026-04-17, 16:23:22](https://news.ycombinator.com/item?id=47807619) - [Hyperscalers have already outspent most famous US megaprojects](https://twitter.com/finmoorhouse/status/2044933442236776794)
+* [2026-04-17, 16:22:36](https://news.ycombinator.com/item?id=47807609) - [Writing string.h functions using string instructions in asm x86-64](https://pmasschelier.github.io/x86_64_strings/)
 * [2026-04-17, 16:19:53](https://news.ycombinator.com/item?id=47807583) - [I'm spending 3 months coding the old way](https://miguelconner.substack.com/p/im-coding-by-hand)
 * [2026-04-17, 16:13:26](https://news.ycombinator.com/item?id=47807503) - [Detecting DOSBox from Within the Box](https://datagirl.xyz/posts/dos_inside_the_box.html)
 * [2026-04-17, 15:47:41](https://news.ycombinator.com/item?id=47807209) - [NASA Force](https://nasaforce.gov/)
