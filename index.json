@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-20, 17:24:45",
+      "https://news.ycombinator.com/item?id=47837620"
+    ],
+    [
+      "At Long Last, InfoWars Is Ours",
+      "https://theonion.info/"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 17:23:58",
+      "https://news.ycombinator.com/item?id=47837611"
+    ],
+    [
+      "At long last, InfoWars is ours",
+      "https://theonion.com/at-long-last-infowars-is-ours/"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 17:00:45",
       "https://news.ycombinator.com/item?id=47837176"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
-      "2026-04-20, 16:34:25",
-      "https://news.ycombinator.com/item?id=47836730"
+      "2026-04-20, 16:57:10",
+      "https://news.ycombinator.com/item?id=47837105"
     ],
     [
-      "We Accepted Surveillance as Default",
-      "https://vivianvoss.net/blog/why-we-accepted-surveillance"
+      "The Theory of Interstellar Trade [pdf]",
+      "https://www.princeton.edu/~pkrugman/interstellar.pdf"
     ]
   ],
   [
     [
-      "2026-04-20, 16:19:20",
-      "https://news.ycombinator.com/item?id=47836463"
+      "2026-04-20, 16:34:25",
+      "https://news.ycombinator.com/item?id=47836730"
     ],
     [
-      "Palantir Wants to Reinstate the Draft",
-      "https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/"
+      "We accepted surveillance as default",
+      "https://vivianvoss.net/blog/why-we-accepted-surveillance"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47835775"
     ],
     [
-      "I'm never buying another Kindle, and neither should you",
+      "I'm never buying another Kindle",
       "https://www.androidauthority.com/amazon-kindle-2026-3657863/"
     ]
   ],
@@ -121,6 +141,16 @@
   ],
   [
     [
+      "2026-04-20, 13:36:11",
+      "https://news.ycombinator.com/item?id=47834134"
+    ],
+    [
+      "AI chatbots could be making you stupider",
+      "https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 12:51:20",
       "https://news.ycombinator.com/item?id=47833558"
     ],
@@ -135,7 +165,7 @@
       "https://news.ycombinator.com/item?id=47833247"
     ],
     [
-      "Atlassian Enables Default Data Collection to Train AI",
+      "Atlassian enables default data collection to train AI",
       "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8"
     ]
   ],
@@ -191,21 +221,11 @@
   ],
   [
     [
-      "2026-04-20, 00:56:40",
-      "https://news.ycombinator.com/item?id=47829178"
-    ],
-    [
-      "Claude Token Counter, now with model comparisons",
-      "https://simonwillison.net/2026/Apr/20/claude-token-counts/"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 19:19:48",
       "https://news.ycombinator.com/item?id=47826839"
     ],
     [
-      "10 years ago, someone wrote a test for servo that included an expiry in 2026",
+      "10 years ago, someone wrote a test for Servo that included an expiry in 2026",
       "https://mastodon.social/@jdm_/116429380667467307"
     ]
   ],
@@ -215,28 +235,18 @@
       "https://news.ycombinator.com/item?id=47822066"
     ],
     [
-      "Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded",
+      "Chernobyl's last wedding",
       "https://www.bbc.com/news/articles/c0q92lx8q75o"
     ]
   ],
   [
     [
-      "2026-04-18, 20:48:35",
-      "https://news.ycombinator.com/item?id=47819410"
+      "2026-04-17, 22:12:59",
+      "https://news.ycombinator.com/item?id=47811154"
     ],
     [
-      "SDF Public Access Unix System",
-      "https://sdf.org/?ssh"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 06:29:55",
-      "https://news.ycombinator.com/item?id=47813616"
-    ],
-    [
-      "What if database branching was easy?",
-      "https://xata.io/blog/what-if-database-branching-was-easy"
+      "Kefir C17/C23 Compiler",
+      "https://sr.ht/~jprotopopov/kefir/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "I Made the \"Next-Level\" Camera and I love it",
       "https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 15:09:10",
-      "https://news.ycombinator.com/item?id=47794313"
-    ],
-    [
-      "Epicycles All the Way Down (2025)",
-      "https://www.strangeloopcanon.com/p/epicycles-all-the-way-down"
     ]
   ]
 ]
