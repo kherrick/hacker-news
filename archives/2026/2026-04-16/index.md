@@ -37,6 +37,7 @@
 * [2026-04-16, 15:37:49](https://news.ycombinator.com/item?id=47794891) - [3D-Printing a Trombone](https://unnamed.website/posts/3d-printing-trombone/)
 * [2026-04-16, 15:19:54](https://news.ycombinator.com/item?id=47794514) - [Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
 * [2026-04-16, 15:13:13](https://news.ycombinator.com/item?id=47794391) - [We gave an AI a 3 year retail lease and asked it to make a profit](https://andonlabs.com/blog/andon-market-launch)
+* [2026-04-16, 15:09:10](https://news.ycombinator.com/item?id=47794313) - [Epicycles All the Way Down (2025)](https://www.strangeloopcanon.com/p/epicycles-all-the-way-down)
 * [2026-04-16, 15:09:07](https://news.ycombinator.com/item?id=47794311) - [The Unix Executable as a Smalltalk Method [video]](https://www.youtube.com/watch?v=sZjPQ7vtLNA)
 * [2026-04-16, 15:08:33](https://news.ycombinator.com/item?id=47794299) - [Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower](https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/)
 * [2026-04-16, 14:51:13](https://news.ycombinator.com/item?id=47793926) - [Laravel raised money and now injects ads directly into your agent](https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/)

@@ -19,6 +19,7 @@
 * [2026-04-19, 19:41:24](https://news.ycombinator.com/item?id=47827029) - [Blue Origin's rocket reuse achievement marred by upper stage failure](https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/)
 * [2026-04-19, 19:35:57](https://news.ycombinator.com/item?id=47826977) - [MAGA Is Winning Its War Against U.S. Science](https://paulkrugman.substack.com/p/maga-is-winning-its-war-against-us)
 * [2026-04-19, 19:21:22](https://news.ycombinator.com/item?id=47826852) - [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
+* [2026-04-19, 19:19:48](https://news.ycombinator.com/item?id=47826839) - [10 years ago, someone wrote a test for servo that included an expiry in 2026](https://mastodon.social/@jdm_/116429380667467307)
 * [2026-04-19, 19:18:57](https://news.ycombinator.com/item?id=47826834) - [Scientific datasets are riddled with copy-paste errors](https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/)
 * [2026-04-19, 18:36:00](https://news.ycombinator.com/item?id=47826502) - [Six Levels of Dark Mode](https://cssence.com/2024/six-levels-of-dark-mode/)
 * [2026-04-19, 18:32:12](https://news.ycombinator.com/item?id=47826473) - [Europe has 'maybe six weeks of jet fuel left'](https://www.bbc.com/news/articles/czjw2kz0l22o)
