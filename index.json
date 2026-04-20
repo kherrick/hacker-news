@@ -1,22 +1,32 @@
 [
   [
     [
-      "2026-04-20, 19:24:11",
-      "https://news.ycombinator.com/item?id=47839283"
+      "2026-04-20, 19:47:10",
+      "https://news.ycombinator.com/item?id=47839606"
     ],
     [
-      "Rumor: Anthropic is going to buy Atlassian?",
-      "https://old.reddit.com/r/atlassian/comments/1sob1s2/atlassian_anthropic/"
+      "NASA had to train Apollo 11's astronauts to not use profanity",
+      "https://www.columbian.com/news/2019/may/31/bad-words-led-some-to-swear-off-apollo-program/"
     ]
   ],
   [
     [
-      "2026-04-20, 18:55:44",
-      "https://news.ycombinator.com/item?id=47838930"
+      "2026-04-20, 18:46:22",
+      "https://news.ycombinator.com/item?id=47838788"
     ],
     [
-      "Anduril, Palantir and SpaceX are changing how America wages war",
-      "https://www.economist.com/business/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war"
+      "We got 207 tok/s with Qwen3.5-27B on an RTX 3090",
+      "https://github.com/Luce-Org/lucebox-hub"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 18:39:53",
+      "https://news.ycombinator.com/item?id=47838703"
+    ],
+    [
+      "Kimi vendor verifier – verify accuracy of inference providers",
+      "https://www.kimi.com/blog/kimi-vendor-verifier"
     ]
   ],
   [
@@ -95,18 +105,8 @@
       "https://news.ycombinator.com/item?id=47835735"
     ],
     [
-      "Kimi K2.6: Advancing Open-Source Coding",
+      "Kimi K2.6: Advancing open-source coding",
       "https://www.kimi.com/blog/kimi-k2-6"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 15:22:01",
-      "https://news.ycombinator.com/item?id=47835646"
-    ],
-    [
-      "I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs",
-      "https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
       "https://qwen.ai/blog?id=qwen3.6-max-preview"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 13:42:37",
-      "https://news.ycombinator.com/item?id=47834213"
-    ],
-    [
-      "Ask HN: How to solve the cold start problem for a two-sided marketplace?",
-      "https://news.ycombinator.com/item?id=47834213"
     ]
   ],
   [
@@ -281,12 +271,12 @@
   ],
   [
     [
-      "2026-04-17, 20:14:30",
-      "https://news.ycombinator.com/item?id=47810101"
+      "2026-04-17, 16:22:36",
+      "https://news.ycombinator.com/item?id=47807609"
     ],
     [
-      "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
-      "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977"
+      "Writing string.h functions using string instructions in asm x86-64",
+      "https://pmasschelier.github.io/x86_64_strings/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Larry Tesler: A Personal History of Modeless Text Editing and Cut/Copy-Paste (2012)",
       "https://dl.acm.org/doi/epdf/10.1145/2212877.2212896"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 02:34:54",
+      "https://news.ycombinator.com/item?id=47801923"
+    ],
+    [
+      "IPC medley: message-queue peeking, io_uring, and bus1",
+      "https://lwn.net/Articles/1065490/"
     ]
   ]
 ]
