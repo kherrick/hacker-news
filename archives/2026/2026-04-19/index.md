@@ -46,6 +46,7 @@
 * [2026-04-19, 10:55:38](https://news.ycombinator.com/item?id=47823362) - [Why Zip drives dominated the 90s, then vanished almost overnight](https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/)
 * [2026-04-19, 10:36:29](https://news.ycombinator.com/item?id=47823270) - [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)
 * [2026-04-19, 10:09:56](https://news.ycombinator.com/item?id=47823153) - [The Work Runs on Different Maps](https://yusufaytas.com/the-work-runs-on-different-maps)
+* [2026-04-19, 09:50:44](https://news.ycombinator.com/item?id=47823080) - [Anatomy of High-Performance Matrix Multiplication (2008) [pdf]](https://www.cs.utexas.edu/~flame/pubs/GotoTOMS_revision.pdf)
 * [2026-04-19, 09:17:12](https://news.ycombinator.com/item?id=47822940) - [Ask HN: How did you land your first projects as a solo engineer/consultant?](https://news.ycombinator.com/item?id=47822940)
 * [2026-04-19, 08:45:48](https://news.ycombinator.com/item?id=47822805) - [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
 * [2026-04-19, 08:33:38](https://news.ycombinator.com/item?id=47822737) - [Binary GCD](https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd)

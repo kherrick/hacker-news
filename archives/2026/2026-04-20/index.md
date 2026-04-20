@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 21:32:10](https://news.ycombinator.com/item?id=47841129) - [Jujutsu Megamerges for Fun and Profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
+* [2026-04-20, 21:20:52](https://news.ycombinator.com/item?id=47840980) - [OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\"](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
+* [2026-04-20, 21:13:49](https://news.ycombinator.com/item?id=47840851) - [Show HN: Docker Compose for VM's](https://github.com/zeroecco/holos)
 * [2026-04-20, 20:39:32](https://news.ycombinator.com/item?id=47840219) - [Tim Cook to become Apple Executive Chairman](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
 * [2026-04-20, 20:35:54](https://news.ycombinator.com/item?id=47840165) - [Tim Cook Stepping Down](https://www.macrumors.com/2026/04/20/tim-cook-stepping-down/)
 * [2026-04-20, 20:19:13](https://news.ycombinator.com/item?id=47839951) - [AI Resistance Is Growing](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
 * [2026-04-20, 20:07:35](https://news.ycombinator.com/item?id=47839835) - [F-35 is a masterpiece built for the wrong war](https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/)
+* [2026-04-20, 19:51:07](https://news.ycombinator.com/item?id=47839645) - [Soul Player C64 – A real transformer running on a 1 MHz Commodore 64](https://github.com/gizmo64k/soulplayer-c64)
 * [2026-04-20, 19:47:10](https://news.ycombinator.com/item?id=47839606) - [NASA had to train Apollo 11's astronauts to not use profanity](https://www.columbian.com/news/2019/may/31/bad-words-led-some-to-swear-off-apollo-program/)
 * [2026-04-20, 19:24:11](https://news.ycombinator.com/item?id=47839283) - [Rumor: Anthropic is going to buy Atlassian?](https://old.reddit.com/r/atlassian/comments/1sob1s2/atlassian_anthropic/)
 * [2026-04-20, 18:55:44](https://news.ycombinator.com/item?id=47838930) - [Anduril, Palantir and SpaceX are changing how America wages war](https://www.economist.com/business/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war)
