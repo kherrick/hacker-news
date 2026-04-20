@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 19:24:11](https://news.ycombinator.com/item?id=47839283) - [Rumor: Anthropic is going to buy Atlassian?](https://old.reddit.com/r/atlassian/comments/1sob1s2/atlassian_anthropic/)
+* [2026-04-20, 18:55:44](https://news.ycombinator.com/item?id=47838930) - [Anduril, Palantir and SpaceX are changing how America wages war](https://www.economist.com/business/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war)
 * [2026-04-20, 17:24:45](https://news.ycombinator.com/item?id=47837620) - [At Long Last, InfoWars Is Ours](https://theonion.info/)
 * [2026-04-20, 17:23:58](https://news.ycombinator.com/item?id=47837611) - [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/)
 * [2026-04-20, 17:00:45](https://news.ycombinator.com/item?id=47837176) - [Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
 * [2026-04-20, 16:57:10](https://news.ycombinator.com/item?id=47837105) - [The Theory of Interstellar Trade [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf)
+* [2026-04-20, 16:37:48](https://news.ycombinator.com/item?id=47836784) - [Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys](https://words.filippo.io/128-bits/)
 * [2026-04-20, 16:34:25](https://news.ycombinator.com/item?id=47836730) - [We Accepted Surveillance as Default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
 * [2026-04-20, 16:19:20](https://news.ycombinator.com/item?id=47836463) - [Palantir Wants to Reinstate the Draft](https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/)
 * [2026-04-20, 15:41:02](https://news.ycombinator.com/item?id=47835928) - [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
