@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-20, 00:07:16",
+      "https://news.ycombinator.com/item?id=47828896"
+    ],
+    [
+      "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed",
+      "https://github.com/shivampkumar/trellis-mac"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 22:58:35",
+      "https://news.ycombinator.com/item?id=47828444"
+    ],
+    [
+      "Swiss AI Initiative (2023)",
+      "https://www.swiss-ai.org"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 22:56:32",
+      "https://news.ycombinator.com/item?id=47828427"
+    ],
+    [
+      "Got an Old Kindle? It Might Not Work Anymore",
+      "https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/"
+    ]
+  ],
+  [
+    [
       "2026-04-19, 22:55:47",
       "https://news.ycombinator.com/item?id=47828420"
     ],
@@ -21,22 +51,12 @@
   ],
   [
     [
-      "2026-04-19, 22:19:31",
-      "https://news.ycombinator.com/item?id=47828151"
+      "2026-04-19, 20:09:09",
+      "https://news.ycombinator.com/item?id=47827259"
     ],
     [
-      "Reminder: Enable ZRAM on your Linux system to optimize RAM usage",
-      "https://www.cnx-software.com/2026/04/15/reminder-enable-zram-on-your-linux-system-to-optimize-ram-usage/"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 21:00:49",
-      "https://news.ycombinator.com/item?id=47827603"
-    ],
-    [
-      "C++26: Reflection, Memory Safety, Contracts, and a New Async Model",
-      "https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/"
+      "Stop trying to engineer your way out of listening to people",
+      "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)",
       "https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 19:41:24",
-      "https://news.ycombinator.com/item?id=47827029"
-    ],
-    [
-      "Blue Origin's rocket reuse achievement marred by upper stage failure",
-      "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=47826502"
     ],
     [
-      "Six Levels of Dark Mode",
+      "Six Levels of Dark Mode (2024)",
       "https://cssence.com/2024/six-levels-of-dark-mode/"
     ]
   ],
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2026-04-19, 15:48:40",
+      "https://news.ycombinator.com/item?id=47825160"
+    ],
+    [
+      "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+      "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/"
+    ]
+  ],
+  [
+    [
       "2026-04-19, 15:20:01",
       "https://news.ycombinator.com/item?id=47824945"
     ],
@@ -137,6 +157,16 @@
     [
       "Vercel April 2026 security incident",
       "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 14:05:49",
+      "https://news.ycombinator.com/item?id=47824403"
+    ],
+    [
+      "The creative software industry has declared war on Adobe",
+      "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates"
     ]
   ],
   [
@@ -201,12 +231,12 @@
   ],
   [
     [
-      "2026-04-18, 14:21:41",
-      "https://news.ycombinator.com/item?id=47816146"
+      "2026-04-18, 06:25:38",
+      "https://news.ycombinator.com/item?id=47813597"
     ],
     [
-      "Reverse Engineering ME2's USB with a Heat Gun and a Knife",
-      "https://github.com/coremaze/ME2-Writeup"
+      "Interesting Map Geometry and Mathematics",
+      "https://www.markrjohnsongames.com/2026/04/11/ultima-ratio-regum-0-11-update-57-interesting-map-geometry-and-mathematics/"
     ]
   ],
   [
@@ -217,26 +247,6 @@
     [
       "Show HN: How context engineering works, a runnable reference",
       "https://github.com/outcomeops/context-engineering"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 17:14:46",
-      "https://news.ycombinator.com/item?id=47808231"
-    ],
-    [
-      "Reading Input from an USB RFID Card Reader",
-      "https://kevwe.com/blog/usb-rfid-reader"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 14:22:18",
-      "https://news.ycombinator.com/item?id=47806270"
-    ],
-    [
-      "Eliza a Play by Tom Holloway",
-      "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/eliza"
     ]
   ],
   [
@@ -261,26 +271,6 @@
   ],
   [
     [
-      "2026-04-16, 15:37:49",
-      "https://news.ycombinator.com/item?id=47794891"
-    ],
-    [
-      "3D-Printing a Trombone",
-      "https://unnamed.website/posts/3d-printing-trombone/"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 22:32:22",
-      "https://news.ycombinator.com/item?id=47786211"
-    ],
-    [
-      "KTaO3-Based Supercurrent Diode",
-      "https://pubs.acs.org/doi/10.1021/acs.nanolett.5c05590"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 17:03:39",
       "https://news.ycombinator.com/item?id=47781950"
     ],
@@ -297,6 +287,16 @@
     [
       "Nanopass Framework: Clean Compiler Creation Language",
       "https://nanopass.org/"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 14:32:39",
+      "https://news.ycombinator.com/item?id=47766185"
+    ],
+    [
+      "Recovering Windows Live Writer Files",
+      "https://benovermyer.com/blog/2026/04/recovering-windows-live-writer-files/"
     ]
   ]
 ]
