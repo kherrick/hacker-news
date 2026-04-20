@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-17](index.md)
 
 * [2026-04-17, 22:53:18](https://news.ycombinator.com/item?id=47811442) - [How to Host a Blog on a Subdirectory Instead of a Subdomain](https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/)
+* [2026-04-17, 22:46:03](https://news.ycombinator.com/item?id=47811391) - [Who Is Blake Whiting?](https://theamericanscholar.org/who-is-blake-whiting/)
 * [2026-04-17, 22:30:28](https://news.ycombinator.com/item?id=47811283) - [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)
 * [2026-04-17, 21:38:20](https://news.ycombinator.com/item?id=47810872) - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
 * [2026-04-17, 21:03:18](https://news.ycombinator.com/item?id=47810533) - [Show HN: AI Subroutines – Run automation scripts inside your browser tab](https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation)
