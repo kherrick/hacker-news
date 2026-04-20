@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-04-20, 00:56:40",
+      "https://news.ycombinator.com/item?id=47829178"
+    ],
+    [
+      "Claude Token Counter, now with model comparisons",
+      "https://simonwillison.net/2026/Apr/20/claude-token-counts/"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 00:21:24",
+      "https://news.ycombinator.com/item?id=47828968"
+    ],
+    [
+      "Show HN: A lightweight way to make agents talk without paying for API usage",
+      "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 00:07:16",
       "https://news.ycombinator.com/item?id=47828896"
     ],
     [
       "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed",
       "https://github.com/shivampkumar/trellis-mac"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 23:59:51",
+      "https://news.ycombinator.com/item?id=47828853"
+    ],
+    [
+      "Sudo for Windows",
+      "https://github.com/microsoft/sudo"
     ]
   ],
   [
@@ -21,16 +51,6 @@
   ],
   [
     [
-      "2026-04-19, 22:56:32",
-      "https://news.ycombinator.com/item?id=47828427"
-    ],
-    [
-      "Got an Old Kindle? It Might Not Work Anymore",
-      "https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 22:55:47",
       "https://news.ycombinator.com/item?id=47828420"
     ],
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2026-04-19, 22:30:19",
-      "https://news.ycombinator.com/item?id=47828225"
-    ],
-    [
-      "Ex-CEO, ex-CFO of bankrupt AI company charged with fraud",
-      "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 20:09:09",
       "https://news.ycombinator.com/item?id=47827259"
     ],
     [
       "Stop trying to engineer your way out of listening to people",
       "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 20:04:13",
-      "https://news.ycombinator.com/item?id=47827215"
-    ],
-    [
-      "A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)",
-      "https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2026-04-19, 16:57:41",
-      "https://news.ycombinator.com/item?id=47825698"
-    ],
-    [
-      "Hot Wiring the Lisp Machine",
-      "https://scheatkode.com/blog/019d463d-38b3-7e63-80fd-6ed97bd8815e/hot-wiring-the-lisp-machine/"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 15:48:40",
       "https://news.ycombinator.com/item?id=47825160"
     ],
@@ -157,16 +147,6 @@
     [
       "Vercel April 2026 security incident",
       "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 14:05:49",
-      "https://news.ycombinator.com/item?id=47824403"
-    ],
-    [
-      "The creative software industry has declared war on Adobe",
-      "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates"
     ]
   ],
   [
@@ -241,11 +221,21 @@
   ],
   [
     [
+      "2026-04-17, 20:15:40",
+      "https://news.ycombinator.com/item?id=47810109"
+    ],
+    [
+      "A Common MVP Evolution: Service to System Integration to Product (2017)",
+      "https://www.skmurphy.com/blog/2017/08/07/a-common-evolution-service-to-system-integration-to-product/"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 18:20:49",
       "https://news.ycombinator.com/item?id=47808956"
     ],
     [
-      "Show HN: How context engineering works, a runnable reference",
+      "Show HN: A working reference implementation of context engineering",
       "https://github.com/outcomeops/context-engineering"
     ]
   ],
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2026-04-17, 13:57:27",
-      "https://news.ycombinator.com/item?id=47806021"
+      "2026-04-17, 12:32:17",
+      "https://news.ycombinator.com/item?id=47805223"
     ],
     [
-      "What are skiplists good for?",
-      "https://antithesis.com/blog/2026/skiptrees/"
+      "PopOS Linux: Creating a Bootable Backup USB With Encryption",
+      "https://hajo.me/blog/2026/02/16/popos-linux-creating-bootable-backup-USB-with-encryption/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Prove you are a robot: CAPTCHAs for agents",
       "https://browser-use.com/posts/prove-you-are-a-robot"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 15:45:45",
+      "https://news.ycombinator.com/item?id=47780743"
+    ],
+    [
+      "Mechanical Keyboard Sounds – A listening Museum",
+      "https://sheets.works/data-viz/keyboard-sounds"
     ]
   ],
   [
