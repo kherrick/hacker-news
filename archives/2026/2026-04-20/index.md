@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 10:00:35](https://news.ycombinator.com/item?id=47832222) - [NSA is using Anthropic's Mythos despite blacklist](https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/)
+* [2026-04-20, 08:26:52](https://news.ycombinator.com/item?id=47831621) - [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)
 * [2026-04-20, 07:49:48](https://news.ycombinator.com/item?id=47831437) - [OpenClaw isn't fooling me. I remember MS-DOS](https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/)
+* [2026-04-20, 07:19:27](https://news.ycombinator.com/item?id=47831272) - [IEA: Solar overtakes all energy sources in a major global first](https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/)
 * [2026-04-20, 07:07:30](https://news.ycombinator.com/item?id=47831205) - [How Long Poop Stays in Your Body May Impact Your Health, Study Finds](https://www.sciencealert.com/how-long-poop-stays-in-your-body-may-impact-your-health-study-finds)
 * [2026-04-20, 05:05:43](https://news.ycombinator.com/item?id=47830575) - [Stripe's Payment APIs: the first 10 years (2020)](https://stripe.dev/blog/payment-api-design)
 * [2026-04-20, 03:24:21](https://news.ycombinator.com/item?id=47830071) - [A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)](https://github.com/esutcu/planb-lpm)

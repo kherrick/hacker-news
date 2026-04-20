@@ -8,6 +8,7 @@
 * [2026-04-17, 22:30:28](https://news.ycombinator.com/item?id=47811283) - [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)
 * [2026-04-17, 21:38:20](https://news.ycombinator.com/item?id=47810872) - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
 * [2026-04-17, 21:03:18](https://news.ycombinator.com/item?id=47810533) - [Show HN: AI Subroutines – Run automation scripts inside your browser tab](https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation)
+* [2026-04-17, 21:03:09](https://news.ycombinator.com/item?id=47810531) - [Focused microwaves allow 3D printers to fuse circuits onto almost anything](https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/)
 * [2026-04-17, 21:00:08](https://news.ycombinator.com/item?id=47810507) - [Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead)
 * [2026-04-17, 20:27:49](https://news.ycombinator.com/item?id=47810211) - [Two Motorola Transistors Became the Default NPNs](https://www.allaboutcircuits.com/news/how-two-motorola-transistors-became-the-worlds-default-npns/)
 * [2026-04-17, 20:15:40](https://news.ycombinator.com/item?id=47810109) - [A Common MVP Evolution: Service to System Integration to Product (2017)](https://www.skmurphy.com/blog/2017/08/07/a-common-evolution-service-to-system-integration-to-product/)

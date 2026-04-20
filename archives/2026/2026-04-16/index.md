@@ -25,6 +25,7 @@
 * [2026-04-16, 19:05:20](https://news.ycombinator.com/item?id=47797987) - [Binary Dependencies: Identifying the Hidden Packages We All Depend On](https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/)
 * [2026-04-16, 19:00:09](https://news.ycombinator.com/item?id=47797911) - [Europe has \"maybe 6 weeks of jet fuel left\"](https://apnews.com/article/iran-war-europe-jet-fuel-flight-cancellations-birol-6e67fafd493861b3858de5548aa77703)
 * [2026-04-16, 18:39:59](https://news.ycombinator.com/item?id=47797665) - [Android CLI: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)
+* [2026-04-16, 18:19:24](https://news.ycombinator.com/item?id=47797382) - [I Made the \"Next-Level\" Camera and I love it](https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/)
 * [2026-04-16, 17:37:20](https://news.ycombinator.com/item?id=47796830) - [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/)
 * [2026-04-16, 17:36:29](https://news.ycombinator.com/item?id=47796818) - [Show HN: Stage – Putting humans back in control of code review](https://stagereview.app/)
 * [2026-04-16, 17:32:33](https://news.ycombinator.com/item?id=47796759) - [Shader Lab, like Photoshop but for shaders](https://eng.basement.studio/tools/shader-lab)
