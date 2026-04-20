@@ -10,6 +10,7 @@
 * [2026-04-18, 22:24:47](https://news.ycombinator.com/item?id=47820046) - [Dad brains: How fatherhood rewires the male mind](https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare)
 * [2026-04-18, 21:50:48](https://news.ycombinator.com/item?id=47819823) - [My first impressions on ROCm and Strix Halo](https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/)
 * [2026-04-18, 20:54:17](https://news.ycombinator.com/item?id=47819453) - [Any Color You Like: NIST Scientists Create 'Any Wavelength' Lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
+* [2026-04-18, 20:48:35](https://news.ycombinator.com/item?id=47819410) - [SDF Public Access Unix System](https://sdf.org/?ssh)
 * [2026-04-18, 20:42:29](https://news.ycombinator.com/item?id=47819369) - [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
 * [2026-04-18, 20:34:31](https://news.ycombinator.com/item?id=47819305) - [PostgreSQL production incident caused by transaction ID wraparound](https://www.sqlservercentral.com/articles/i-too-have-a-production-story-a-downtime-caused-by-postgres-transaction-id-wraparound-problem)
 * [2026-04-18, 19:19:50](https://news.ycombinator.com/item?id=47818704) - [Young sons of legendary U.S. marshal ride horseback from Oklahoma to New York](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
