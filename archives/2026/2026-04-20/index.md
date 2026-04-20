@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 17:00:45](https://news.ycombinator.com/item?id=47837176) - [Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
+* [2026-04-20, 16:34:25](https://news.ycombinator.com/item?id=47836730) - [We Accepted Surveillance as Default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
+* [2026-04-20, 16:19:20](https://news.ycombinator.com/item?id=47836463) - [Palantir Wants to Reinstate the Draft](https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/)
+* [2026-04-20, 15:41:02](https://news.ycombinator.com/item?id=47835928) - [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 * [2026-04-20, 15:36:05](https://news.ycombinator.com/item?id=47835858) - [Kimi K2.6: Advancing Open-Source Coding](https://twitter.com/Kimi_Moonshot/status/2046249571882500354)
+* [2026-04-20, 15:30:17](https://news.ycombinator.com/item?id=47835775) - [I'm never buying another Kindle, and neither should you](https://www.androidauthority.com/amazon-kindle-2026-3657863/)
 * [2026-04-20, 15:28:13](https://news.ycombinator.com/item?id=47835735) - [Kimi K2.6: Advancing Open-Source Coding](https://www.kimi.com/blog/kimi-k2-6)
 * [2026-04-20, 15:22:01](https://news.ycombinator.com/item?id=47835646) - [I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs](https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic)
+* [2026-04-20, 15:18:57](https://news.ycombinator.com/item?id=47835599) - [Show HN: Alien – Self-hosting with remote management (written in Rust)](https://news.ycombinator.com/item?id=47835599)
 * [2026-04-20, 15:07:40](https://news.ycombinator.com/item?id=47835423) - [Data Center Is Getting a $77M Tax Break to Create One Job](https://nysfocus.com/2026/04/20/data-center-tax-break-jpmorgan-chase)
 * [2026-04-20, 14:05:34](https://news.ycombinator.com/item?id=47834565) - [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview)
 * [2026-04-20, 13:42:37](https://news.ycombinator.com/item?id=47834213) - [Ask HN: How to solve the cold start problem for two-sided marketplace?](https://news.ycombinator.com/item?id=47834213)

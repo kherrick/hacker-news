@@ -43,6 +43,7 @@
 * [2026-04-17, 14:07:28](https://news.ycombinator.com/item?id=47806096) - [Archive of Byte magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09)
 * [2026-04-17, 13:57:27](https://news.ycombinator.com/item?id=47806021) - [What Are Skiplists Good For?](https://antithesis.com/blog/2026/skiptrees/)
 * [2026-04-17, 13:55:25](https://news.ycombinator.com/item?id=47805998) - [Is Your Site Agent-Ready? (By Cloudflare)](https://isitagentready.com)
+* [2026-04-17, 13:20:31](https://news.ycombinator.com/item?id=47805632) - [Larry Tesler: A Personal History of Modeless Text Editing and Cut/Copy-Paste (2012)](https://dl.acm.org/doi/epdf/10.1145/2212877.2212896)
 * [2026-04-17, 12:32:17](https://news.ycombinator.com/item?id=47805223) - [PopOS Linux: Creating a Bootable Backup USB With Encryption](https://hajo.me/blog/2026/02/16/popos-linux-creating-bootable-backup-USB-with-encryption/)
 * [2026-04-17, 12:01:19](https://news.ycombinator.com/item?id=47804965) - [Isaac Asimov: The Last Question](https://hex.ooo/library/last_question.html)
 * [2026-04-17, 11:22:05](https://news.ycombinator.com/item?id=47804708) - [How Silicon Valley Is Turning Scientists into Exploited Gig Workers](https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/)
