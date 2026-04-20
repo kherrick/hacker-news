@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-20, 22:43:29",
+      "https://news.ycombinator.com/item?id=47842021"
+    ],
+    [
+      "Even 'uncensored' models can't say what they want",
+      "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 21:33:15",
       "https://news.ycombinator.com/item?id=47841149"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47840980"
     ],
     [
-      "OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\"",
+      "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
       "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
       "https://github.com/gizmo64k/soulplayer-c64"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 18:46:22",
-      "https://news.ycombinator.com/item?id=47838788"
-    ],
-    [
-      "We got 207 tok/s with Qwen3.5-27B on an RTX 3090",
-      "https://github.com/Luce-Org/lucebox-hub"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=47807609"
     ],
     [
-      "Writing string.h functions using string instructions in asm x86-64",
+      "Writing string.h functions using string instructions in asm x86-64 (2025)",
       "https://pmasschelier.github.io/x86_64_strings/"
     ]
   ],
