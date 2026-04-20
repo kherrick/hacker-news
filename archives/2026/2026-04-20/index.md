@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 17:24:45](https://news.ycombinator.com/item?id=47837620) - [At Long Last, InfoWars Is Ours](https://theonion.info/)
+* [2026-04-20, 17:23:58](https://news.ycombinator.com/item?id=47837611) - [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/)
 * [2026-04-20, 17:00:45](https://news.ycombinator.com/item?id=47837176) - [Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
+* [2026-04-20, 16:57:10](https://news.ycombinator.com/item?id=47837105) - [The Theory of Interstellar Trade [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf)
 * [2026-04-20, 16:34:25](https://news.ycombinator.com/item?id=47836730) - [We Accepted Surveillance as Default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
 * [2026-04-20, 16:19:20](https://news.ycombinator.com/item?id=47836463) - [Palantir Wants to Reinstate the Draft](https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/)
 * [2026-04-20, 15:41:02](https://news.ycombinator.com/item?id=47835928) - [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
@@ -18,6 +21,7 @@
 * [2026-04-20, 13:42:37](https://news.ycombinator.com/item?id=47834213) - [Ask HN: How to solve the cold start problem for two-sided marketplace?](https://news.ycombinator.com/item?id=47834213)
 * [2026-04-20, 13:41:25](https://news.ycombinator.com/item?id=47834195) - [All phones sold in the EU to have replaceable batteries from 2027](https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/)
 * [2026-04-20, 13:40:28](https://news.ycombinator.com/item?id=47834184) - [Show HN: Saunas lower nighttime heart rate more than exercise (n=59,000)](https://tryterra.co/research/sauna-effect-on-heart-rate)
+* [2026-04-20, 13:36:11](https://news.ycombinator.com/item?id=47834134) - [AI chatbots could be making you stupider](https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider)
 * [2026-04-20, 13:27:23](https://news.ycombinator.com/item?id=47834025) - [U.S. banks may soon collect citizenship data from customers](https://www.cnbc.com/2026/04/15/banks-citizenship-data-collection-customer-accounts.html)
 * [2026-04-20, 12:51:20](https://news.ycombinator.com/item?id=47833558) - [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)
 * [2026-04-20, 12:23:39](https://news.ycombinator.com/item?id=47833247) - [Atlassian Enables Default Data Collection to Train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
