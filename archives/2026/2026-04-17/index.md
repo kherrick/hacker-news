@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-17](index.md)
 
+* [2026-04-17, 23:22:38](https://news.ycombinator.com/item?id=47811668) - [Japan's Cherry Blossom Database, 1,200 Years Old, Has a New Keeper](https://www.nytimes.com/2026/04/17/climate/japan-cherry-blossom-database-scientist.html)
 * [2026-04-17, 22:53:18](https://news.ycombinator.com/item?id=47811442) - [How to Host a Blog on a Subdirectory Instead of a Subdomain](https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/)
 * [2026-04-17, 22:46:03](https://news.ycombinator.com/item?id=47811391) - [Who Is Blake Whiting?](https://theamericanscholar.org/who-is-blake-whiting/)
 * [2026-04-17, 22:30:28](https://news.ycombinator.com/item?id=47811283) - [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)
