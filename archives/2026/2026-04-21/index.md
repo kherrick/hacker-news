@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-21](index.md)
 
+* [2026-04-21, 20:28:57](https://news.ycombinator.com/item?id=47854125) - [California has more money than projected after admin miscalculated state budget](https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376)
+* [2026-04-21, 20:27:37](https://news.ycombinator.com/item?id=47854116) - [Zindex – Diagram Infrastructure for Agents](https://zindex.ai/)
+* [2026-04-21, 20:21:40](https://news.ycombinator.com/item?id=47854051) - [I don't want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/)
 * [2026-04-21, 18:50:00](https://news.ycombinator.com/item?id=47852835) - [OpenAI Livestream](https://openai.com/live/)
 * [2026-04-21, 18:00:34](https://news.ycombinator.com/item?id=47852177) - [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
 * [2026-04-21, 17:58:21](https://news.ycombinator.com/item?id=47852155) - [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy)

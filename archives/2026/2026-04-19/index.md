@@ -51,6 +51,7 @@
 * [2026-04-19, 10:56:20](https://news.ycombinator.com/item?id=47823365) - [Clojure: Transducers](https://clojure.org/reference/transducers)
 * [2026-04-19, 10:55:38](https://news.ycombinator.com/item?id=47823362) - [Why Zip drives dominated the 90s, then vanished almost overnight](https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/)
 * [2026-04-19, 10:36:29](https://news.ycombinator.com/item?id=47823270) - [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)
+* [2026-04-19, 10:15:41](https://news.ycombinator.com/item?id=47823179) - [In the UK, EVs are cheaper than petrol cars, thanks to Chinese competition](https://electrek.co/2026/04/18/in-the-uk-evs-are-cheaper-than-petrol-cars-thanks-to-chinese-competition/)
 * [2026-04-19, 10:09:56](https://news.ycombinator.com/item?id=47823153) - [The Work Runs on Different Maps](https://yusufaytas.com/the-work-runs-on-different-maps)
 * [2026-04-19, 10:03:01](https://news.ycombinator.com/item?id=47823135) - [Tim Davis – Probabilistic engineering and the 24-7 employee](https://www.timdavis.com/blog/probabilistic-engineering-and-the-24-7-employee)
 * [2026-04-19, 09:50:44](https://news.ycombinator.com/item?id=47823080) - [Anatomy of High-Performance Matrix Multiplication (2008) [pdf]](https://www.cs.utexas.edu/~flame/pubs/GotoTOMS_revision.pdf)
