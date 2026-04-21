@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-21, 10:33:24",
+      "https://news.ycombinator.com/item?id=47846946"
+    ],
+    [
+      "A type-safe, realtime collaborative Graph Database in a CRDT",
+      "https://codemix.com/graph"
+    ]
+  ],
+  [
+    [
       "2026-04-21, 06:25:50",
       "https://news.ycombinator.com/item?id=47845274"
     ],
@@ -201,22 +211,22 @@
   ],
   [
     [
-      "2026-04-20, 11:51:04",
-      "https://news.ycombinator.com/item?id=47832969"
-    ],
-    [
-      "WebUSB Extension for Firefox",
-      "https://github.com/ArcaneNibble/awawausb"
-    ]
-  ],
-  [
-    [
       "2026-04-20, 08:49:22",
       "https://news.ycombinator.com/item?id=47831742"
     ],
     [
       "Brussels launched an age checking app. Hackers took 2 minutes to break it",
       "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 11:35:23",
+      "https://news.ycombinator.com/item?id=47823549"
+    ],
+    [
+      "High-Fidelity KV Cache Summarization Using Entropy and Low-Rank Reconstruction",
+      "https://jchandra.com/posts/hae-ols/"
     ]
   ],
   [
@@ -281,21 +291,11 @@
   ],
   [
     [
-      "2026-04-17, 22:12:59",
-      "https://news.ycombinator.com/item?id=47811154"
-    ],
-    [
-      "Kefir C17/C23 Compiler",
-      "https://sr.ht/~jprotopopov/kefir/"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 18:25:28",
       "https://news.ycombinator.com/item?id=47797457"
     ],
     [
-      "How a subsea cable is repaired",
+      "How a subsea cable is repaired (2021)",
       "https://www.onesteppower.com/post/subsea-cable-repair"
     ]
   ]
