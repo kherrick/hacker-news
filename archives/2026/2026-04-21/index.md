@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-21](index.md)
 
+* [2026-04-21, 18:50:00](https://news.ycombinator.com/item?id=47852835) - [OpenAI Livestream](https://openai.com/live/)
 * [2026-04-21, 18:00:34](https://news.ycombinator.com/item?id=47852177) - [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
 * [2026-04-21, 17:58:21](https://news.ycombinator.com/item?id=47852155) - [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy)
 * [2026-04-21, 17:40:39](https://news.ycombinator.com/item?id=47851948) - [Meta capturing employee mouse movements, keystrokes for AI training data](https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr)
