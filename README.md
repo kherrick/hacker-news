@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-21, 21:03:04](https://news.ycombinator.com/item?id=47854477) - [Claude Code removed from Anthropic's Pro plan](https://claude.com/pricing)
 * [2026-04-21, 20:28:57](https://news.ycombinator.com/item?id=47854125) - [California has more money than projected after admin miscalculated state budget](https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376)
 * [2026-04-21, 20:27:37](https://news.ycombinator.com/item?id=47854116) - [Zindex – Diagram Infrastructure for Agents](https://zindex.ai/)
 * [2026-04-21, 20:21:40](https://news.ycombinator.com/item?id=47854051) - [I don't want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/)
@@ -15,7 +16,6 @@
 * [2026-04-21, 14:26:52](https://news.ycombinator.com/item?id=47849315) - [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
 * [2026-04-21, 14:11:53](https://news.ycombinator.com/item?id=47849097) - [Show HN: GoModel – an open-source AI gateway in Go](https://github.com/ENTERPILOT/GOModel/)
 * [2026-04-21, 11:58:16](https://news.ycombinator.com/item?id=47847558) - [Show HN: VidStudio, a browser based video editor that doesn't upload your files](https://vidstudio.app/video-editor)
-* [2026-04-21, 11:30:03](https://news.ycombinator.com/item?id=47847324) - [Tim Cook's Impeccable Timing](https://stratechery.com/2026/tim-cooks-impeccable-timing/)
 * [2026-04-21, 11:04:56](https://news.ycombinator.com/item?id=47847179) - [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
 * [2026-04-21, 10:33:24](https://news.ycombinator.com/item?id=47846946) - [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph)
 * [2026-04-20, 17:05:29](https://news.ycombinator.com/item?id=47837260) - [Colorado River disappeared record for 5M years: now we know where it was](https://phys.org/news/2026-04-colorado-river-geological-million-years.html)
@@ -25,9 +25,9 @@
 * [2026-04-20, 14:14:52](https://news.ycombinator.com/item?id=47834689) - [MNT Reform is an open hardware laptop, designed and assembled in Germany](http://mnt.stanleylieber.com/reform/)
 * [2026-04-20, 04:14:48](https://news.ycombinator.com/item?id=47830332) - [Theseus, a Static Windows Emulator](https://neugierig.org/software/blog/2026/04/theseus.html)
 * [2026-04-19, 13:10:51](https://news.ycombinator.com/item?id=47824051) - [Modern Front end Complexity: essential or accidental?](https://binaryigor.com/modern-frontend-complexity.html)
-* [2026-04-19, 10:56:20](https://news.ycombinator.com/item?id=47823365) - [Clojure: Transducers](https://clojure.org/reference/transducers)
 * [2026-04-19, 10:15:41](https://news.ycombinator.com/item?id=47823179) - [In the UK, EVs are cheaper than petrol cars, thanks to Chinese competition](https://electrek.co/2026/04/18/in-the-uk-evs-are-cheaper-than-petrol-cars-thanks-to-chinese-competition/)
 * [2026-04-19, 09:26:04](https://news.ycombinator.com/item?id=47822978) - [Edit store price tags using Flipper Zero](https://github.com/i12bp8/TagTinker)
+* [2026-04-19, 06:52:00](https://news.ycombinator.com/item?id=47822301) - [Show HN: Backlit Keyboard API for Python](https://github.com/itsmeadarsh2008/backlit-kbd)
 * [2026-04-18, 12:41:00](https://news.ycombinator.com/item?id=47815462) - [Running a Minecraft Server and More on a 1960s Univac Computer](https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer)
 * [2026-04-18, 10:53:42](https://news.ycombinator.com/item?id=47814874) - [10 years: Stephen's Sausage Roll still one of the most influential puzzle games](https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/)
 
