@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-04-21, 21:03:04",
-      "https://news.ycombinator.com/item?id=47854477"
+      "2026-04-21, 22:27:17",
+      "https://news.ycombinator.com/item?id=47855448"
     ],
     [
-      "Claude Code removed from Anthropic's Pro plan",
-      "https://claude.com/pricing"
+      "SpaceX Strikes Deal With Cursor for $60 Billion",
+      "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html"
     ]
   ],
   [
@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-04-21, 18:50:00",
+      "https://news.ycombinator.com/item?id=47852835"
+    ],
+    [
+      "ChatGPT Images 2.0",
+      "https://openai.com/index/introducing-chatgpt-images-2-0/"
+    ]
+  ],
+  [
+    [
       "2026-04-21, 18:00:34",
       "https://news.ycombinator.com/item?id=47852177"
     ],
@@ -65,8 +75,8 @@
       "https://news.ycombinator.com/item?id=47851948"
     ],
     [
-      "Meta capturing employee mouse movements, keystrokes for AI training data",
-      "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr"
+      "Meta to start capturing employee mouse movements, keystrokes for AI training",
+      "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/"
     ]
   ],
   [
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2026-04-21, 15:29:16",
+      "https://news.ycombinator.com/item?id=47850212"
+    ],
+    [
+      "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "https://www.brex.com/crabtrap"
+    ]
+  ],
+  [
+    [
       "2026-04-21, 14:26:52",
       "https://news.ycombinator.com/item?id=47849315"
     ],
@@ -181,22 +201,12 @@
   ],
   [
     [
-      "2026-04-20, 17:05:29",
-      "https://news.ycombinator.com/item?id=47837260"
+      "2026-04-20, 18:24:05",
+      "https://news.ycombinator.com/item?id=47838508"
     ],
     [
-      "Colorado River disappeared record for 5M years: now we know where it was",
-      "https://phys.org/news/2026-04-colorado-river-geological-million-years.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 16:35:05",
-      "https://news.ycombinator.com/item?id=47836740"
-    ],
-    [
-      "Show HN: Ctx – a /resume that works across Claude Code and Codex",
-      "https://github.com/dchu917/ctx"
+      "Changes to GitHub Copilot individual plans",
+      "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-04-20, 15:07:04",
-      "https://news.ycombinator.com/item?id=47835411"
-    ],
-    [
-      "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
-      "https://mediator.ai/"
-    ]
-  ],
-  [
-    [
       "2026-04-20, 14:14:52",
       "https://news.ycombinator.com/item?id=47834689"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2026-04-20, 05:30:06",
+      "https://news.ycombinator.com/item?id=47830687"
+    ],
+    [
+      "Fields Medal Video: Maryna Viazovska",
+      "https://www.simonsfoundation.org/2022/07/05/fields-medal-video-maryna-viazovska/"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 04:14:48",
       "https://news.ycombinator.com/item?id=47830332"
     ],
     [
       "Theseus, a Static Windows Emulator",
       "https://neugierig.org/software/blog/2026/04/theseus.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 13:10:51",
-      "https://news.ycombinator.com/item?id=47824051"
-    ],
-    [
-      "Modern Front end Complexity: essential or accidental?",
-      "https://binaryigor.com/modern-frontend-complexity.html"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=47814874"
     ],
     [
-      "10 years: Stephen's Sausage Roll still one of the most influential puzzle games",
+      "Stephen's Sausage Roll remains one of the most influential puzzle games",
       "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/"
     ]
   ]
