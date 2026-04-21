@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-04-21, 06:58:08",
+      "https://news.ycombinator.com/item?id=47845429"
+    ],
+    [
+      "Less human AI agents, please",
+      "https://nial.se/blog/less-human-ai-agents-please/"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 06:25:50",
+      "https://news.ycombinator.com/item?id=47845274"
+    ],
+    [
+      "Using Changesets in a polyglot monorepo",
+      "https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 06:19:15",
+      "https://news.ycombinator.com/item?id=47845231"
+    ],
+    [
+      "Louis Zocchi, inventor of the d100, has died",
+      "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 06:12:41",
+      "https://news.ycombinator.com/item?id=47845187"
+    ],
+    [
+      "A mad undertaking: An undefinitive guide to the Aadam Jacobs collection",
+      "https://aadamjacobscollection.org/"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 05:59:53",
+      "https://news.ycombinator.com/item?id=47845111"
+    ],
+    [
+      "Types and Neural Networks",
+      "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 05:27:35",
+      "https://news.ycombinator.com/item?id=47844890"
+    ],
+    [
+      "Salmon exposed to cocaine and its main byproduct roam more widely",
+      "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust"
+    ]
+  ],
+  [
+    [
       "2026-04-21, 04:31:30",
       "https://news.ycombinator.com/item?id=47844539"
     ],
@@ -71,16 +131,6 @@
   ],
   [
     [
-      "2026-04-20, 21:20:52",
-      "https://news.ycombinator.com/item?id=47840980"
-    ],
-    [
-      "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-      "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/"
-    ]
-  ],
-  [
-    [
       "2026-04-20, 20:39:32",
       "https://news.ycombinator.com/item?id=47840219"
     ],
@@ -111,32 +161,12 @@
   ],
   [
     [
-      "2026-04-20, 17:00:45",
-      "https://news.ycombinator.com/item?id=47837176"
-    ],
-    [
-      "Bloom (YC P26) Is Hiring",
-      "https://www.ycombinator.com/companies/trybloom/jobs"
-    ]
-  ],
-  [
-    [
       "2026-04-20, 16:37:48",
       "https://news.ycombinator.com/item?id=47836784"
     ],
     [
       "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
       "https://words.filippo.io/128-bits/"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 15:41:02",
-      "https://news.ycombinator.com/item?id=47835928"
-    ],
-    [
-      "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/"
     ]
   ],
   [
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2026-04-20, 11:51:04",
-      "https://news.ycombinator.com/item?id=47832969"
-    ],
-    [
-      "WebUSB Extension for Firefox",
-      "https://github.com/ArcaneNibble/awawausb"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 10:04:40",
-      "https://news.ycombinator.com/item?id=47832248"
-    ],
-    [
-      "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
-      "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/"
-    ]
-  ],
-  [
-    [
       "2026-04-20, 08:49:22",
       "https://news.ycombinator.com/item?id=47831742"
     ],
@@ -211,12 +221,22 @@
   ],
   [
     [
-      "2026-04-19, 19:19:48",
-      "https://news.ycombinator.com/item?id=47826839"
+      "2026-04-20, 00:13:39",
+      "https://news.ycombinator.com/item?id=47828927"
     ],
     [
-      "10 years ago, someone wrote a test for Servo that included an expiry in 2026",
-      "https://mastodon.social/@jdm_/116429380667467307"
+      "Corner-Case RCU Implementations",
+      "https://people.kernel.org/paulmck/stupid-rcu-tricks-corner-case-rcu-implementations"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 10:03:01",
+      "https://news.ycombinator.com/item?id=47823135"
+    ],
+    [
+      "Tim Davis – Probabilistic engineering and the 24-7 employee",
+      "https://www.timdavis.com/blog/probabilistic-engineering-and-the-24-7-employee"
     ]
   ],
   [
@@ -235,7 +255,7 @@
       "https://news.ycombinator.com/item?id=47819738"
     ],
     [
-      "Air Is Full of DNA",
+      "Air is full of DNA",
       "https://www.nature.com/articles/d41586-026-01099-2"
     ]
   ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-04-17, 22:12:59",
-      "https://news.ycombinator.com/item?id=47811154"
-    ],
-    [
-      "Kefir C17/C23 Compiler",
-      "https://sr.ht/~jprotopopov/kefir/"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 18:58:36",
       "https://news.ycombinator.com/item?id=47809338"
     ],
@@ -287,16 +297,6 @@
     [
       "How a subsea cable is repaired",
       "https://www.onesteppower.com/post/subsea-cable-repair"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 06:11:40",
-      "https://news.ycombinator.com/item?id=47789291"
-    ],
-    [
-      "Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
-      "https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html"
     ]
   ]
 ]
