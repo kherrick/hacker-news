@@ -33,6 +33,7 @@
 * [2026-04-20, 15:22:01](https://news.ycombinator.com/item?id=47835646) - [I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs](https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic)
 * [2026-04-20, 15:18:57](https://news.ycombinator.com/item?id=47835599) - [Show HN: Alien – Self-hosting with remote management (written in Rust)](https://news.ycombinator.com/item?id=47835599)
 * [2026-04-20, 15:07:40](https://news.ycombinator.com/item?id=47835423) - [Data Center Is Getting a $77M Tax Break to Create One Job](https://nysfocus.com/2026/04/20/data-center-tax-break-jpmorgan-chase)
+* [2026-04-20, 15:07:04](https://news.ycombinator.com/item?id=47835411) - [Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness](https://mediator.ai/)
 * [2026-04-20, 14:05:34](https://news.ycombinator.com/item?id=47834565) - [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview)
 * [2026-04-20, 13:42:37](https://news.ycombinator.com/item?id=47834213) - [Ask HN: How to solve the cold start problem for two-sided marketplace?](https://news.ycombinator.com/item?id=47834213)
 * [2026-04-20, 13:41:25](https://news.ycombinator.com/item?id=47834195) - [All phones sold in the EU to have replaceable batteries from 2027](https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/)
