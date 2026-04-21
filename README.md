@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-21, 10:33:24](https://news.ycombinator.com/item?id=47846946) - [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph)
 * [2026-04-21, 06:25:50](https://news.ycombinator.com/item?id=47845274) - [Using Changesets in a polyglot monorepo](https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/)
 * [2026-04-21, 06:19:15](https://news.ycombinator.com/item?id=47845231) - [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)
 * [2026-04-21, 06:12:41](https://news.ycombinator.com/item?id=47845187) - [A mad undertaking: An undefinitive guide to the Aadam Jacobs collection](https://aadamjacobscollection.org/)
@@ -20,16 +21,15 @@
 * [2026-04-20, 14:05:34](https://news.ycombinator.com/item?id=47834565) - [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview)
 * [2026-04-20, 13:41:25](https://news.ycombinator.com/item?id=47834195) - [All phones sold in the EU to have replaceable batteries from 2027](https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/)
 * [2026-04-20, 12:51:20](https://news.ycombinator.com/item?id=47833558) - [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)
-* [2026-04-20, 11:51:04](https://news.ycombinator.com/item?id=47832969) - [WebUSB Extension for Firefox](https://github.com/ArcaneNibble/awawausb)
 * [2026-04-20, 08:49:22](https://news.ycombinator.com/item?id=47831742) - [Brussels launched an age checking app. Hackers took 2 minutes to break it](https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/)
+* [2026-04-19, 11:35:23](https://news.ycombinator.com/item?id=47823549) - [High-Fidelity KV Cache Summarization Using Entropy and Low-Rank Reconstruction](https://jchandra.com/posts/hae-ols/)
 * [2026-04-19, 09:26:04](https://news.ycombinator.com/item?id=47822978) - [Edit store price tags using Flipper Zero](https://github.com/i12bp8/TagTinker)
 * [2026-04-19, 07:54:11](https://news.ycombinator.com/item?id=47822549) - [Modern Rendering Culling Techniques](https://krupitskas.com/posts/modern_culling_techniques/)
 * [2026-04-19, 07:09:44](https://news.ycombinator.com/item?id=47822372) - [Bullshit About Bullshit Machines [pdf]](https://aphyr.com/data/posts/411/the-future-of-everything-is-lies.pdf)
 * [2026-04-18, 21:38:46](https://news.ycombinator.com/item?id=47819738) - [Air is full of DNA](https://www.nature.com/articles/d41586-026-01099-2)
 * [2026-04-18, 02:51:34](https://news.ycombinator.com/item?id=47812749) - [Ternary Bonsai: Top Intelligence at 1.58 Bits](https://prismml.com/news/ternary-bonsai)
 * [2026-04-17, 23:22:38](https://news.ycombinator.com/item?id=47811668) - [Japan's cherry blossom database, 1,200 years old, has a new keeper](https://www.nytimes.com/2026/04/17/climate/japan-cherry-blossom-database-scientist.html)
-* [2026-04-17, 22:12:59](https://news.ycombinator.com/item?id=47811154) - [Kefir C17/C23 Compiler](https://sr.ht/~jprotopopov/kefir/)
-* [2026-04-16, 18:25:28](https://news.ycombinator.com/item?id=47797457) - [How a subsea cable is repaired](https://www.onesteppower.com/post/subsea-cable-repair)
+* [2026-04-16, 18:25:28](https://news.ycombinator.com/item?id=47797457) - [How a subsea cable is repaired (2021)](https://www.onesteppower.com/post/subsea-cable-repair)
 
 ## [Archives](archives/index.md)
 

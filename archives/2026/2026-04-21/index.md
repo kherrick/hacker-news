@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-21](index.md)
 
+* [2026-04-21, 10:33:24](https://news.ycombinator.com/item?id=47846946) - [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph)
 * [2026-04-21, 06:58:08](https://news.ycombinator.com/item?id=47845429) - [Less human AI agents, please](https://nial.se/blog/less-human-ai-agents-please/)
 * [2026-04-21, 06:25:50](https://news.ycombinator.com/item?id=47845274) - [Using Changesets in a polyglot monorepo](https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/)
 * [2026-04-21, 06:19:15](https://news.ycombinator.com/item?id=47845231) - [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)
