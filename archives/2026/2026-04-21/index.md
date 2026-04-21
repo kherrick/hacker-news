@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-21](index.md)
 
+* [2026-04-21, 22:40:46](https://news.ycombinator.com/item?id=47855616) - [SpaceX Says It Has Agreement to Acquire Cursor for $60B](https://www.bloomberg.com/news/articles/2026-04-21/spacex-says-has-agreement-to-acquire-cursor-for-60-billion)
+* [2026-04-21, 22:36:24](https://news.ycombinator.com/item?id=47855565) - [Claude Code no longer included in Pro tier](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
 * [2026-04-21, 22:27:17](https://news.ycombinator.com/item?id=47855448) - [SpaceX Strikes Deal With Cursor for $60 Billion](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html)
 * [2026-04-21, 21:03:04](https://news.ycombinator.com/item?id=47854477) - [Claude Code removed from Anthropic's Pro plan](https://claude.com/pricing)
 * [2026-04-21, 20:28:57](https://news.ycombinator.com/item?id=47854125) - [California has more money than projected after admin miscalculated state budget](https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376)

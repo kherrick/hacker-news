@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-21, 22:27:17](https://news.ycombinator.com/item?id=47855448) - [SpaceX Strikes Deal With Cursor for $60 Billion](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html)
+* [2026-04-21, 22:40:46](https://news.ycombinator.com/item?id=47855616) - [SpaceX Says It Has Agreement to Acquire Cursor for $60B](https://www.bloomberg.com/news/articles/2026-04-21/spacex-says-has-agreement-to-acquire-cursor-for-60-billion)
+* [2026-04-21, 22:36:24](https://news.ycombinator.com/item?id=47855565) - [Claude Code no longer included in Pro tier](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
 * [2026-04-21, 20:28:57](https://news.ycombinator.com/item?id=47854125) - [California has more money than projected after admin miscalculated state budget](https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376)
 * [2026-04-21, 20:27:37](https://news.ycombinator.com/item?id=47854116) - [Zindex – Diagram Infrastructure for Agents](https://zindex.ai/)
 * [2026-04-21, 20:21:40](https://news.ycombinator.com/item?id=47854051) - [I don't want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/)
@@ -12,8 +13,6 @@
 * [2026-04-21, 17:14:35](https://news.ycombinator.com/item?id=47851634) - [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
 * [2026-04-21, 17:14:26](https://news.ycombinator.com/item?id=47851630) - [Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)](https://github.com/Arc1011/KernelUNO)
 * [2026-04-21, 17:01:15](https://news.ycombinator.com/item?id=47851456) - [Trellis AI (YC W24) Is hiring engineers to build self-improving agents](https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time)
-* [2026-04-21, 16:31:21](https://news.ycombinator.com/item?id=47851077) - [A Periodic Map of Cheese](https://cheesemap.netlify.app/)
-* [2026-04-21, 15:53:22](https://news.ycombinator.com/item?id=47850542) - [Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins](https://github.com/Yus314/kasane)
 * [2026-04-21, 15:29:16](https://news.ycombinator.com/item?id=47850212) - [CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production](https://www.brex.com/crabtrap)
 * [2026-04-21, 14:26:52](https://news.ycombinator.com/item?id=47849315) - [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
 * [2026-04-21, 14:11:53](https://news.ycombinator.com/item?id=47849097) - [Show HN: GoModel – an open-source AI gateway in Go](https://github.com/ENTERPILOT/GOModel/)
@@ -28,6 +27,7 @@
 * [2026-04-19, 10:15:41](https://news.ycombinator.com/item?id=47823179) - [In the UK, EVs are cheaper than petrol cars, thanks to Chinese competition](https://electrek.co/2026/04/18/in-the-uk-evs-are-cheaper-than-petrol-cars-thanks-to-chinese-competition/)
 * [2026-04-19, 09:26:04](https://news.ycombinator.com/item?id=47822978) - [Edit store price tags using Flipper Zero](https://github.com/i12bp8/TagTinker)
 * [2026-04-19, 06:52:00](https://news.ycombinator.com/item?id=47822301) - [Show HN: Backlit Keyboard API for Python](https://github.com/itsmeadarsh2008/backlit-kbd)
+* [2026-04-18, 13:24:42](https://news.ycombinator.com/item?id=47815742) - [The Mystery of Rennes-Le-Château, Part 4: Non-Fiction Meets Fiction](https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/)
 * [2026-04-18, 12:41:00](https://news.ycombinator.com/item?id=47815462) - [Running a Minecraft Server and More on a 1960s Univac Computer](https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer)
 * [2026-04-18, 10:53:42](https://news.ycombinator.com/item?id=47814874) - [Stephen's Sausage Roll remains one of the most influential puzzle games](https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/)
 
