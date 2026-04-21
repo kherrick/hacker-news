@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-21](index.md)
 
+* [2026-04-21, 11:04:56](https://news.ycombinator.com/item?id=47847179) - [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
+* [2026-04-21, 10:57:53](https://news.ycombinator.com/item?id=47847124) - [Apple ignores DMA interoperability requests and contradicts own documentation](https://fsfe.org/news/2026/news-20260420-01.html)
 * [2026-04-21, 10:33:24](https://news.ycombinator.com/item?id=47846946) - [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph)
 * [2026-04-21, 06:58:08](https://news.ycombinator.com/item?id=47845429) - [Less human AI agents, please](https://nial.se/blog/less-human-ai-agents-please/)
 * [2026-04-21, 06:25:50](https://news.ycombinator.com/item?id=47845274) - [Using Changesets in a polyglot monorepo](https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-21, 11:04:56](https://news.ycombinator.com/item?id=47847179) - [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
+* [2026-04-21, 10:57:53](https://news.ycombinator.com/item?id=47847124) - [Apple ignores DMA interoperability requests and contradicts own documentation](https://fsfe.org/news/2026/news-20260420-01.html)
 * [2026-04-21, 10:33:24](https://news.ycombinator.com/item?id=47846946) - [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph)
-* [2026-04-21, 06:25:50](https://news.ycombinator.com/item?id=47845274) - [Using Changesets in a polyglot monorepo](https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/)
 * [2026-04-21, 06:19:15](https://news.ycombinator.com/item?id=47845231) - [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)
-* [2026-04-21, 06:12:41](https://news.ycombinator.com/item?id=47845187) - [A mad undertaking: An undefinitive guide to the Aadam Jacobs collection](https://aadamjacobscollection.org/)
 * [2026-04-21, 05:59:53](https://news.ycombinator.com/item?id=47845111) - [Types and Neural Networks](https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html)
 * [2026-04-21, 05:27:35](https://news.ycombinator.com/item?id=47844890) - [Salmon exposed to cocaine and its main byproduct roam more widely](https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust)
 * [2026-04-21, 04:31:30](https://news.ycombinator.com/item?id=47844539) - [The Beauty of Bonsai Styles](https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles)
