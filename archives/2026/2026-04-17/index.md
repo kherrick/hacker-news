@@ -16,6 +16,7 @@
 * [2026-04-17, 20:15:40](https://news.ycombinator.com/item?id=47810109) - [A Common MVP Evolution: Service to System Integration to Product (2017)](https://www.skmurphy.com/blog/2017/08/07/a-common-evolution-service-to-system-integration-to-product/)
 * [2026-04-17, 20:14:30](https://news.ycombinator.com/item?id=47810101) - [Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery](https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977)
 * [2026-04-17, 19:00:07](https://news.ycombinator.com/item?id=47809347) - [Tesla tells HW3 owner to 'be patient' after 7 years of waiting for FSD](https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/)
+* [2026-04-17, 18:58:36](https://news.ycombinator.com/item?id=47809338) - [Year of the IPv6 Overlay Network](https://www.defined.net/blog/year-of-the-ipv6-overlay-network/)
 * [2026-04-17, 18:43:32](https://news.ycombinator.com/item?id=47809190) - [Even \"cat readme.txt\" is not safe](https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not)
 * [2026-04-17, 18:20:49](https://news.ycombinator.com/item?id=47808956) - [Show HN: How context engineering works, a runnable reference](https://github.com/outcomeops/context-engineering)
 * [2026-04-17, 18:17:01](https://news.ycombinator.com/item?id=47808913) - [All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)

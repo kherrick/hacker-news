@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-04-21](index.md)
+
+* [2026-04-21, 00:48:07](https://news.ycombinator.com/item?id=47843194) - [How to Make a Fast Dynamic Language Interpreter](https://zef-lang.dev/implementation)

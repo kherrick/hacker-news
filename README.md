@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-21, 00:48:07](https://news.ycombinator.com/item?id=47843194) - [How to Make a Fast Dynamic Language Interpreter](https://zef-lang.dev/implementation)
 * [2026-04-20, 22:43:29](https://news.ycombinator.com/item?id=47842021) - [Even 'uncensored' models can't say what they want](https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html)
 * [2026-04-20, 21:33:15](https://news.ycombinator.com/item?id=47841149) - [Monero Community Crowdfunding System](https://ccs.getmonero.org/ideas/)
 * [2026-04-20, 21:32:10](https://news.ycombinator.com/item?id=47841129) - [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
@@ -12,7 +13,6 @@
 * [2026-04-20, 18:39:53](https://news.ycombinator.com/item?id=47838703) - [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
 * [2026-04-20, 17:00:45](https://news.ycombinator.com/item?id=47837176) - [Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
 * [2026-04-20, 16:37:48](https://news.ycombinator.com/item?id=47836784) - [Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys](https://words.filippo.io/128-bits/)
-* [2026-04-20, 16:34:25](https://news.ycombinator.com/item?id=47836730) - [We accepted surveillance as default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
 * [2026-04-20, 15:41:02](https://news.ycombinator.com/item?id=47835928) - [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 * [2026-04-20, 15:28:13](https://news.ycombinator.com/item?id=47835735) - [Kimi K2.6: Advancing open-source coding](https://www.kimi.com/blog/kimi-k2-6)
 * [2026-04-20, 14:05:34](https://news.ycombinator.com/item?id=47834565) - [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview)
@@ -23,11 +23,11 @@
 * [2026-04-20, 11:51:04](https://news.ycombinator.com/item?id=47832969) - [WebUSB Extension for Firefox](https://github.com/ArcaneNibble/awawausb)
 * [2026-04-20, 10:04:40](https://news.ycombinator.com/item?id=47832248) - [M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/)
 * [2026-04-20, 08:49:22](https://news.ycombinator.com/item?id=47831742) - [Brussels launched an age checking app. Hackers took 2 minutes to break it](https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/)
-* [2026-04-20, 08:26:52](https://news.ycombinator.com/item?id=47831621) - [GitHub's fake star economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)
 * [2026-04-19, 19:19:48](https://news.ycombinator.com/item?id=47826839) - [10 years ago, someone wrote a test for Servo that included an expiry in 2026](https://mastodon.social/@jdm_/116429380667467307)
-* [2026-04-19, 09:50:44](https://news.ycombinator.com/item?id=47823080) - [Anatomy of High-Performance Matrix Multiplication (2008) [pdf]](https://www.cs.utexas.edu/~flame/pubs/GotoTOMS_revision.pdf)
 * [2026-04-19, 07:54:11](https://news.ycombinator.com/item?id=47822549) - [Modern Rendering Culling Techniques](https://krupitskas.com/posts/modern_culling_techniques/)
+* [2026-04-18, 02:51:34](https://news.ycombinator.com/item?id=47812749) - [Ternary Bonsai: Top Intelligence at 1.58 Bits](https://prismml.com/news/ternary-bonsai)
 * [2026-04-17, 22:12:59](https://news.ycombinator.com/item?id=47811154) - [Kefir C17/C23 Compiler](https://sr.ht/~jprotopopov/kefir/)
+* [2026-04-17, 18:58:36](https://news.ycombinator.com/item?id=47809338) - [Year of the IPv6 Overlay Network](https://www.defined.net/blog/year-of-the-ipv6-overlay-network/)
 * [2026-04-17, 16:22:36](https://news.ycombinator.com/item?id=47807609) - [Writing string.h functions using string instructions in asm x86-64 (2025)](https://pmasschelier.github.io/x86_64_strings/)
 * [2026-04-16, 06:11:40](https://news.ycombinator.com/item?id=47789291) - [Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes](https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html)
 

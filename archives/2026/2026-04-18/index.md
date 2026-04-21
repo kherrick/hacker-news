@@ -50,5 +50,6 @@
 * [2026-04-18, 04:49:38](https://news.ycombinator.com/item?id=47813223) - [What the EU Battery Passport Means for Your Devices](https://holdmybill.com/blog/eu-battery-passport-explained-2027)
 * [2026-04-18, 03:47:57](https://news.ycombinator.com/item?id=47812973) - [A story about how I dug into the PostgreSQL sources to write my own WAL receiver](https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25)
 * [2026-04-18, 03:44:54](https://news.ycombinator.com/item?id=47812964) - [Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG](https://github.com/yapstudios/sfsym)
+* [2026-04-18, 02:51:34](https://news.ycombinator.com/item?id=47812749) - [Ternary Bonsai: Top Intelligence at 1.58 Bits](https://prismml.com/news/ternary-bonsai)
 * [2026-04-18, 01:15:43](https://news.ycombinator.com/item?id=47812341) - [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)
 * [2026-04-18, 01:14:02](https://news.ycombinator.com/item?id=47812331) - [Casus Belli Engineering](https://marcosmagueta.com/blog/casus-belli-engineering/)
