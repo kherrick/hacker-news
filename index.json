@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-21, 20:28:57",
+      "https://news.ycombinator.com/item?id=47854125"
+    ],
+    [
+      "California has more money than projected after admin miscalculated state budget",
+      "https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 20:27:37",
+      "https://news.ycombinator.com/item?id=47854116"
+    ],
+    [
+      "Zindex – Diagram Infrastructure for Agents",
+      "https://zindex.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 20:21:40",
+      "https://news.ycombinator.com/item?id=47854051"
+    ],
+    [
+      "I don't want your PRs anymore",
+      "https://dpc.pw/posts/i-dont-want-your-prs-anymore/"
+    ]
+  ],
+  [
+    [
       "2026-04-21, 18:00:34",
       "https://news.ycombinator.com/item?id=47852177"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2026-04-21, 16:16:41",
-      "https://news.ycombinator.com/item?id=47850907"
-    ],
-    [
-      "Show HN: Daemons – we pivoted from building agents to cleaning up after them",
-      "https://charlielabs.ai/"
-    ]
-  ],
-  [
-    [
       "2026-04-21, 15:53:22",
       "https://news.ycombinator.com/item?id=47850542"
     ],
@@ -117,16 +137,6 @@
     [
       "Show HN: GoModel – an open-source AI gateway in Go",
       "https://github.com/ENTERPILOT/GOModel/"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 13:08:25",
-      "https://news.ycombinator.com/item?id=47848276"
-    ],
-    [
-      "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-      "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "A type-safe, realtime collaborative Graph Database in a CRDT",
       "https://codemix.com/graph"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 03:43:03",
-      "https://news.ycombinator.com/item?id=47844269"
-    ],
-    [
-      "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "https://docs.openclaw.ai/providers/anthropic"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2026-04-19, 23:13:46",
-      "https://news.ycombinator.com/item?id=47828568"
-    ],
-    [
-      "Slava's Monoid Zoo",
-      "https://factorcode.org/slava/monoids.html"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 13:10:51",
       "https://news.ycombinator.com/item?id=47824051"
     ],
@@ -267,6 +257,16 @@
     [
       "Clojure: Transducers",
       "https://clojure.org/reference/transducers"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 10:15:41",
+      "https://news.ycombinator.com/item?id=47823179"
+    ],
+    [
+      "In the UK, EVs are cheaper than petrol cars, thanks to Chinese competition",
+      "https://electrek.co/2026/04/18/in-the-uk-evs-are-cheaper-than-petrol-cars-thanks-to-chinese-competition/"
     ]
   ],
   [
