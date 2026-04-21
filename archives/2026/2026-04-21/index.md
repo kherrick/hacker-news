@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-21](index.md)
 
+* [2026-04-21, 17:14:35](https://news.ycombinator.com/item?id=47851634) - [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
+* [2026-04-21, 17:01:15](https://news.ycombinator.com/item?id=47851456) - [Trellis AI (YC W24) Is hiring engineers to build self-improving agents](https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time)
+* [2026-04-21, 16:31:21](https://news.ycombinator.com/item?id=47851077) - [A Periodic Map of Cheese](https://cheesemap.netlify.app/)
+* [2026-04-21, 16:16:41](https://news.ycombinator.com/item?id=47850907) - [Show HN: Daemons – we pivoted from building agents to cleaning up after them](https://charlielabs.ai/)
 * [2026-04-21, 15:53:22](https://news.ycombinator.com/item?id=47850542) - [Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins](https://github.com/Yus314/kasane)
 * [2026-04-21, 15:04:24](https://news.ycombinator.com/item?id=47849854) - [Original GrapheneOS responses to WIRED fact checker](https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker)
 * [2026-04-21, 14:48:55](https://news.ycombinator.com/item?id=47849592) - [As Oceans Warm, Great White Sharks Are Overheating](https://e360.yale.edu/digest/great-white-sharks-climate)

@@ -36,6 +36,7 @@
 * [2026-04-19, 15:20:01](https://news.ycombinator.com/item?id=47824945) - [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720)
 * [2026-04-19, 15:09:45](https://news.ycombinator.com/item?id=47824874) - [Russia's doping program is run by the same FSB team that poisoned Navalny](https://theins.press/en/inv/291614)
 * [2026-04-19, 15:04:45](https://news.ycombinator.com/item?id=47824832) - [Discord Read Receipts Exploit: When, How Often, How Long](https://paul.koeck.dev/writeups/discord-read-receipts)
+* [2026-04-19, 14:50:38](https://news.ycombinator.com/item?id=47824738) - [Recommended GPU Repairshop in Europe (Germany)](https://news.ycombinator.com/item?id=47824738)
 * [2026-04-19, 14:43:07](https://news.ycombinator.com/item?id=47824681) - [Notes from the SF Peptide Scene](https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene)
 * [2026-04-19, 14:34:38](https://news.ycombinator.com/item?id=47824611) - [When moving fast, talking is the first thing to break](https://daverupert.com/2026/04/more-talk-less-grok/)
 * [2026-04-19, 14:24:04](https://news.ycombinator.com/item?id=47824531) - [Matt Mullenweg Overrules Core Committers; Puts Akismet on WP 7's Connector List](https://www.therepository.email/matt-mullenweg-overrules-core-committers-to-put-akismet-on-wordpress-7-0s-connectors-screen)
