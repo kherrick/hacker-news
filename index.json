@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-21, 15:53:22",
+      "https://news.ycombinator.com/item?id=47850542"
+    ],
+    [
+      "Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins",
+      "https://github.com/Yus314/kasane"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 15:04:24",
+      "https://news.ycombinator.com/item?id=47849854"
+    ],
+    [
+      "Original GrapheneOS responses to WIRED fact checker",
+      "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker"
+    ]
+  ],
+  [
+    [
       "2026-04-21, 14:48:55",
       "https://news.ycombinator.com/item?id=47849592"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
-      "2026-04-21, 14:41:36",
-      "https://news.ycombinator.com/item?id=47849494"
-    ],
-    [
-      "Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men",
-      "https://www.wired.com/story/ai-generated-maga-girls/"
-    ]
-  ],
-  [
-    [
       "2026-04-21, 14:26:52",
       "https://news.ycombinator.com/item?id=47849315"
     ],
     [
       "Fusion Power Plant Simulator",
       "https://www.fusionenergybase.com/fusion-power-plant-simulator"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 14:19:49",
+      "https://news.ycombinator.com/item?id=47849221"
+    ],
+    [
+      "Your favorite brands got worse on purpose",
+      "https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Tim Cook's Impeccable Timing",
       "https://stratechery.com/2026/tim-cooks-impeccable-timing/"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 11:15:34",
-      "https://news.ycombinator.com/item?id=47847240"
-    ],
-    [
-      "Smoking ban for people born after 2008 in the UK agreed",
-      "https://www.bbc.co.uk/news/articles/cn08jy6w0l5o"
     ]
   ],
   [
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2026-04-20, 18:39:53",
-      "https://news.ycombinator.com/item?id=47838703"
+      "2026-04-20, 17:05:29",
+      "https://news.ycombinator.com/item?id=47837260"
     ],
     [
-      "Kimi vendor verifier – verify accuracy of inference providers",
-      "https://www.kimi.com/blog/kimi-vendor-verifier"
+      "Colorado River disappeared record for 5M years: now we know where it was",
+      "https://phys.org/news/2026-04-colorado-river-geological-million-years.html"
     ]
   ],
   [
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2026-04-19, 08:34:10",
-      "https://news.ycombinator.com/item?id=47822742"
+      "2026-04-19, 10:56:20",
+      "https://news.ycombinator.com/item?id=47823365"
     ],
     [
-      "The purist's guide to phở in Hanoi",
-      "https://connla.substack.com/p/pho-in-hanoi-a-purists-guide"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 21:38:46",
-      "https://news.ycombinator.com/item?id=47819738"
-    ],
-    [
-      "Air is full of DNA",
-      "https://www.nature.com/articles/d41586-026-01099-2"
+      "Clojure: Transducers",
+      "https://clojure.org/reference/transducers"
     ]
   ],
   [
