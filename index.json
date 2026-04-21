@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-21, 21:03:04",
+      "https://news.ycombinator.com/item?id=47854477"
+    ],
+    [
+      "Claude Code removed from Anthropic's Pro plan",
+      "https://claude.com/pricing"
+    ]
+  ],
+  [
+    [
       "2026-04-21, 20:28:57",
       "https://news.ycombinator.com/item?id=47854125"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-04-21, 11:30:03",
-      "https://news.ycombinator.com/item?id=47847324"
-    ],
-    [
-      "Tim Cook's Impeccable Timing",
-      "https://stratechery.com/2026/tim-cooks-impeccable-timing/"
-    ]
-  ],
-  [
-    [
       "2026-04-21, 11:04:56",
       "https://news.ycombinator.com/item?id=47847179"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-04-19, 10:56:20",
-      "https://news.ycombinator.com/item?id=47823365"
-    ],
-    [
-      "Clojure: Transducers",
-      "https://clojure.org/reference/transducers"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 10:15:41",
       "https://news.ycombinator.com/item?id=47823179"
     ],
@@ -277,6 +267,16 @@
     [
       "Edit store price tags using Flipper Zero",
       "https://github.com/i12bp8/TagTinker"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 06:52:00",
+      "https://news.ycombinator.com/item?id=47822301"
+    ],
+    [
+      "Show HN: Backlit Keyboard API for Python",
+      "https://github.com/itsmeadarsh2008/backlit-kbd"
     ]
   ],
   [
