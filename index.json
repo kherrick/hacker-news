@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-21, 00:48:07",
+      "https://news.ycombinator.com/item?id=47843194"
+    ],
+    [
+      "How to Make a Fast Dynamic Language Interpreter",
+      "https://zef-lang.dev/implementation"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 22:43:29",
       "https://news.ycombinator.com/item?id=47842021"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-04-20, 16:34:25",
-      "https://news.ycombinator.com/item?id=47836730"
-    ],
-    [
-      "We accepted surveillance as default",
-      "https://vivianvoss.net/blog/why-we-accepted-surveillance"
-    ]
-  ],
-  [
-    [
       "2026-04-20, 15:41:02",
       "https://news.ycombinator.com/item?id=47835928"
     ],
@@ -231,32 +231,12 @@
   ],
   [
     [
-      "2026-04-20, 08:26:52",
-      "https://news.ycombinator.com/item?id=47831621"
-    ],
-    [
-      "GitHub's fake star economy",
-      "https://awesomeagents.ai/news/github-fake-stars-investigation/"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 19:19:48",
       "https://news.ycombinator.com/item?id=47826839"
     ],
     [
       "10 years ago, someone wrote a test for Servo that included an expiry in 2026",
       "https://mastodon.social/@jdm_/116429380667467307"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 09:50:44",
-      "https://news.ycombinator.com/item?id=47823080"
-    ],
-    [
-      "Anatomy of High-Performance Matrix Multiplication (2008) [pdf]",
-      "https://www.cs.utexas.edu/~flame/pubs/GotoTOMS_revision.pdf"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2026-04-18, 02:51:34",
+      "https://news.ycombinator.com/item?id=47812749"
+    ],
+    [
+      "Ternary Bonsai: Top Intelligence at 1.58 Bits",
+      "https://prismml.com/news/ternary-bonsai"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 22:12:59",
       "https://news.ycombinator.com/item?id=47811154"
     ],
     [
       "Kefir C17/C23 Compiler",
       "https://sr.ht/~jprotopopov/kefir/"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 18:58:36",
+      "https://news.ycombinator.com/item?id=47809338"
+    ],
+    [
+      "Year of the IPv6 Overlay Network",
+      "https://www.defined.net/blog/year-of-the-ipv6-overlay-network/"
     ]
   ],
   [
