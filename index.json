@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-04-21, 18:00:34",
+      "https://news.ycombinator.com/item?id=47852177"
+    ],
+    [
+      "Framework Laptop 13 Pro",
+      "https://frame.work/laptop13pro"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 17:58:21",
+      "https://news.ycombinator.com/item?id=47852155"
+    ],
+    [
+      "Cal.diy: open-source community edition of cal.com",
+      "https://github.com/calcom/cal.diy"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 17:40:39",
+      "https://news.ycombinator.com/item?id=47851948"
+    ],
+    [
+      "Meta capturing employee mouse movements, keystrokes for AI training data",
+      "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 17:33:50",
+      "https://news.ycombinator.com/item?id=47851885"
+    ],
+    [
+      "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+      "https://britannica11.org/"
+    ]
+  ],
+  [
+    [
       "2026-04-21, 17:14:35",
       "https://news.ycombinator.com/item?id=47851634"
     ],
     [
       "The Vercel breach: OAuth attack exposes risk in platform environment variables",
       "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 17:14:26",
+      "https://news.ycombinator.com/item?id=47851630"
+    ],
+    [
+      "Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)",
+      "https://github.com/Arc1011/KernelUNO"
     ]
   ],
   [
@@ -57,16 +107,6 @@
     [
       "Original GrapheneOS responses to WIRED fact checker",
       "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 14:48:55",
-      "https://news.ycombinator.com/item?id=47849592"
-    ],
-    [
-      "As oceans warm, great white sharks are overheating",
-      "https://e360.yale.edu/digest/great-white-sharks-climate"
     ]
   ],
   [
@@ -151,62 +191,12 @@
   ],
   [
     [
-      "2026-04-21, 05:27:35",
-      "https://news.ycombinator.com/item?id=47844890"
-    ],
-    [
-      "Salmon exposed to cocaine and its main byproduct roam more widely",
-      "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 04:31:30",
-      "https://news.ycombinator.com/item?id=47844539"
-    ],
-    [
-      "The Beauty of Bonsai Styles",
-      "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles"
-    ]
-  ],
-  [
-    [
       "2026-04-21, 03:43:03",
       "https://news.ycombinator.com/item?id=47844269"
     ],
     [
       "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
       "https://docs.openclaw.ai/providers/anthropic"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 18:38:22",
-      "https://news.ycombinator.com/item?id=47838680"
-    ],
-    [
-      "Expansion Artifacts",
-      "https://mattstromawn.com/writing/expansion-artifacts/"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 17:39:40",
-      "https://news.ycombinator.com/item?id=47837857"
-    ],
-    [
-      "A History of Erasures Learning to Write Like Leylâ Erbil",
-      "https://thepointmag.com/criticism/a-history-of-erasures/"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 17:05:29",
-      "https://news.ycombinator.com/item?id=47837260"
-    ],
-    [
-      "Colorado River disappeared record for 5M years: now we know where it was",
-      "https://phys.org/news/2026-04-colorado-river-geological-million-years.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Recommended GPU Repairshop in Europe (Germany)",
       "https://news.ycombinator.com/item?id=47824738"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 13:10:51",
+      "https://news.ycombinator.com/item?id=47824051"
+    ],
+    [
+      "Modern Front end Complexity: essential or accidental?",
+      "https://binaryigor.com/modern-frontend-complexity.html"
     ]
   ],
   [
