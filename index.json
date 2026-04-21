@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-21, 18:50:00",
+      "https://news.ycombinator.com/item?id=47852835"
+    ],
+    [
+      "OpenAI Livestream",
+      "https://openai.com/live/"
+    ]
+  ],
+  [
+    [
       "2026-04-21, 18:00:34",
       "https://news.ycombinator.com/item?id=47852177"
     ],
@@ -97,16 +107,6 @@
     [
       "Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins",
       "https://github.com/Yus314/kasane"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 15:04:24",
-      "https://news.ycombinator.com/item?id=47849854"
-    ],
-    [
-      "Original GrapheneOS responses to WIRED fact checker",
-      "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-04-20, 15:27:30",
+      "https://news.ycombinator.com/item?id=47835728"
+    ],
+    [
+      "My practitioner view of program analysis",
+      "https://sawyer.dev/posts/practitioner-program-analysis/"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 15:07:04",
       "https://news.ycombinator.com/item?id=47835411"
     ],
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2026-04-19, 23:13:46",
-      "https://news.ycombinator.com/item?id=47828568"
+      "2026-04-20, 04:14:48",
+      "https://news.ycombinator.com/item?id=47830332"
     ],
     [
-      "Slava's Monoid Zoo",
-      "https://factorcode.org/slava/monoids.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 14:50:38",
-      "https://news.ycombinator.com/item?id=47824738"
-    ],
-    [
-      "Recommended GPU Repairshop in Europe (Germany)",
-      "https://news.ycombinator.com/item?id=47824738"
+      "Theseus, a Static Windows Emulator",
+      "https://neugierig.org/software/blog/2026/04/theseus.html"
     ]
   ],
   [
