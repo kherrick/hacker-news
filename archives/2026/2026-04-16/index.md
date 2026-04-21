@@ -66,6 +66,7 @@
 * [2026-04-16, 08:42:05](https://news.ycombinator.com/item?id=47790337) - [The becquerel as an SI unit for request rate](https://entropicthoughts.com/si-units-for-request-rate)
 * [2026-04-16, 07:59:34](https://news.ycombinator.com/item?id=47790041) - [I learned Unity the wrong way](https://darkounity.com/blog/how-i-learned-unity-the-wrong-way)
 * [2026-04-16, 07:01:29](https://news.ycombinator.com/item?id=47789607) - [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead)
+* [2026-04-16, 06:38:43](https://news.ycombinator.com/item?id=47789445) - [Leonardo, Borgia, and Machiavelli: A Fateful Collusion](https://www.historytoday.com/archive/leonardo-borgia-and-machiavelli-fateful-collusion)
 * [2026-04-16, 06:11:40](https://news.ycombinator.com/item?id=47789291) - [Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes](https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html)
 * [2026-04-16, 05:43:09](https://news.ycombinator.com/item?id=47789087) - [Ben Lerner's Big Feelings](https://www.vulture.com/article/ben-lerner-transcription-interview.html)
 * [2026-04-16, 05:07:05](https://news.ycombinator.com/item?id=47788857) - [IPv8 Proposal](https://www.ietf.org/archive/id/draft-thain-ipv8-00.html)

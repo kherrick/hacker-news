@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-04-21](index.md)
 
+* [2026-04-21, 14:48:55](https://news.ycombinator.com/item?id=47849592) - [As Oceans Warm, Great White Sharks Are Overheating](https://e360.yale.edu/digest/great-white-sharks-climate)
+* [2026-04-21, 14:41:36](https://news.ycombinator.com/item?id=47849494) - [Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men](https://www.wired.com/story/ai-generated-maga-girls/)
+* [2026-04-21, 14:26:52](https://news.ycombinator.com/item?id=47849315) - [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
+* [2026-04-21, 14:11:53](https://news.ycombinator.com/item?id=47849097) - [Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM](https://github.com/ENTERPILOT/GOModel/)
 * [2026-04-21, 13:24:34](https://news.ycombinator.com/item?id=47848487) - [Vera C. Rubin Observatory has Discovered 11,000 New Asteroids](https://www.universetoday.com/articles/the-vera-c-rubin-observatory-has-discovered-11000-new-asteroids-and-its-barely-even-started)
 * [2026-04-21, 13:08:25](https://news.ycombinator.com/item?id=47848276) - [Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)
 * [2026-04-21, 13:02:00](https://news.ycombinator.com/item?id=47848195) - [Tindie store under \"scheduled maintenance\" for days](https://www.tindie.com/)
 * [2026-04-21, 12:36:50](https://news.ycombinator.com/item?id=47847928) - [The abandoned war: Why no one is stopping the genocide in Sudan](https://respublica.media/en/en-sudan-abandoned-war-genocide-no-one-stopping/)
 * [2026-04-21, 11:58:16](https://news.ycombinator.com/item?id=47847558) - [Show HN: VidStudio, a browser based video editor that doesn't upload your files](https://vidstudio.app/video-editor)
 * [2026-04-21, 11:30:03](https://news.ycombinator.com/item?id=47847324) - [Tim Cook's Impeccable Timing](https://stratechery.com/2026/tim-cooks-impeccable-timing/)
+* [2026-04-21, 11:15:34](https://news.ycombinator.com/item?id=47847240) - [Smoking ban for people born after 2008 in the UK agreed](https://www.bbc.co.uk/news/articles/cn08jy6w0l5o)
 * [2026-04-21, 11:04:56](https://news.ycombinator.com/item?id=47847179) - [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
 * [2026-04-21, 10:57:53](https://news.ycombinator.com/item?id=47847124) - [Apple ignores DMA interoperability requests and contradicts own documentation](https://fsfe.org/news/2026/news-20260420-01.html)
 * [2026-04-21, 10:33:24](https://news.ycombinator.com/item?id=47846946) - [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph)
