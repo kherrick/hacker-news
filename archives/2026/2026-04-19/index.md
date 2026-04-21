@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
 * [2026-04-19, 23:59:51](https://news.ycombinator.com/item?id=47828853) - [Sudo for Windows](https://github.com/microsoft/sudo)
+* [2026-04-19, 23:13:46](https://news.ycombinator.com/item?id=47828568) - [Slava's Monoid Zoo](https://factorcode.org/slava/monoids.html)
 * [2026-04-19, 22:58:35](https://news.ycombinator.com/item?id=47828444) - [Swiss AI Initiative (2023)](https://www.swiss-ai.org)
 * [2026-04-19, 22:56:32](https://news.ycombinator.com/item?id=47828427) - [Got an Old Kindle? It Might Not Work Anymore](https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/)
 * [2026-04-19, 22:55:47](https://news.ycombinator.com/item?id=47828420) - [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/)
@@ -53,6 +54,7 @@
 * [2026-04-19, 09:26:04](https://news.ycombinator.com/item?id=47822978) - [Edit store price tags using Flipper Zero](https://github.com/i12bp8/TagTinker)
 * [2026-04-19, 09:17:12](https://news.ycombinator.com/item?id=47822940) - [Ask HN: How did you land your first projects as a solo engineer/consultant?](https://news.ycombinator.com/item?id=47822940)
 * [2026-04-19, 08:45:48](https://news.ycombinator.com/item?id=47822805) - [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
+* [2026-04-19, 08:34:10](https://news.ycombinator.com/item?id=47822742) - [The purist's guide to phở in Hanoi](https://connla.substack.com/p/pho-in-hanoi-a-purists-guide)
 * [2026-04-19, 08:33:38](https://news.ycombinator.com/item?id=47822737) - [Binary GCD](https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd)
 * [2026-04-19, 08:32:53](https://news.ycombinator.com/item?id=47822734) - [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/)
 * [2026-04-19, 07:54:11](https://news.ycombinator.com/item?id=47822549) - [Modern Rendering Culling Techniques](https://krupitskas.com/posts/modern_culling_techniques/)

@@ -36,6 +36,7 @@
 * [2026-04-18, 15:03:03](https://news.ycombinator.com/item?id=47816462) - [Respect to the Man Chasing AI Immortality, While Freeloading Off Our Platform](https://blog.mulerun.com/p/ai-immortality-postmortem/)
 * [2026-04-18, 14:21:41](https://news.ycombinator.com/item?id=47816146) - [Reverse Engineering ME2's USB with a Heat Gun and a Knife](https://github.com/coremaze/ME2-Writeup)
 * [2026-04-18, 13:29:04](https://news.ycombinator.com/item?id=47815774) - [Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
+* [2026-04-18, 12:41:00](https://news.ycombinator.com/item?id=47815462) - [Running a Minecraft Server and More on a 1960s Univac Computer](https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer)
 * [2026-04-18, 12:29:06](https://news.ycombinator.com/item?id=47815395) - [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
 * [2026-04-18, 12:08:31](https://news.ycombinator.com/item?id=47815269) - [Flock Condemns False Child Predator Allegations, Yet Calls Critics Terrorists](https://ipvm.com/reports/flock-allegations-critics)
 * [2026-04-18, 11:43:57](https://news.ycombinator.com/item?id=47815127) - [The quiet disappearance of the free-range childhood](https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/)
