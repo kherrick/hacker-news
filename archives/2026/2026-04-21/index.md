@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-21](index.md)
 
+* [2026-04-21, 18:00:34](https://news.ycombinator.com/item?id=47852177) - [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
+* [2026-04-21, 17:58:21](https://news.ycombinator.com/item?id=47852155) - [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy)
+* [2026-04-21, 17:40:39](https://news.ycombinator.com/item?id=47851948) - [Meta capturing employee mouse movements, keystrokes for AI training data](https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr)
+* [2026-04-21, 17:33:50](https://news.ycombinator.com/item?id=47851885) - [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
 * [2026-04-21, 17:14:35](https://news.ycombinator.com/item?id=47851634) - [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
+* [2026-04-21, 17:14:26](https://news.ycombinator.com/item?id=47851630) - [Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)](https://github.com/Arc1011/KernelUNO)
 * [2026-04-21, 17:01:15](https://news.ycombinator.com/item?id=47851456) - [Trellis AI (YC W24) Is hiring engineers to build self-improving agents](https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time)
 * [2026-04-21, 16:31:21](https://news.ycombinator.com/item?id=47851077) - [A Periodic Map of Cheese](https://cheesemap.netlify.app/)
 * [2026-04-21, 16:16:41](https://news.ycombinator.com/item?id=47850907) - [Show HN: Daemons – we pivoted from building agents to cleaning up after them](https://charlielabs.ai/)
