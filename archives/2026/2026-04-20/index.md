@@ -21,6 +21,7 @@
 * [2026-04-20, 18:39:53](https://news.ycombinator.com/item?id=47838703) - [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
 * [2026-04-20, 17:24:45](https://news.ycombinator.com/item?id=47837620) - [At Long Last, InfoWars Is Ours](https://theonion.info/)
 * [2026-04-20, 17:23:58](https://news.ycombinator.com/item?id=47837611) - [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/)
+* [2026-04-20, 17:05:29](https://news.ycombinator.com/item?id=47837260) - [Colorado River disappeared record for 5M years: now we know where it was](https://phys.org/news/2026-04-colorado-river-geological-million-years.html)
 * [2026-04-20, 17:00:45](https://news.ycombinator.com/item?id=47837176) - [Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
 * [2026-04-20, 16:57:10](https://news.ycombinator.com/item?id=47837105) - [The Theory of Interstellar Trade [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf)
 * [2026-04-20, 16:37:48](https://news.ycombinator.com/item?id=47836784) - [Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys](https://words.filippo.io/128-bits/)
