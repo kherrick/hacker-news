@@ -41,6 +41,7 @@
 * [2026-04-18, 12:08:31](https://news.ycombinator.com/item?id=47815269) - [Flock Condemns False Child Predator Allegations, Yet Calls Critics Terrorists](https://ipvm.com/reports/flock-allegations-critics)
 * [2026-04-18, 11:43:57](https://news.ycombinator.com/item?id=47815127) - [The quiet disappearance of the free-range childhood](https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/)
 * [2026-04-18, 11:42:37](https://news.ycombinator.com/item?id=47815118) - [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/)
+* [2026-04-18, 10:53:42](https://news.ycombinator.com/item?id=47814874) - [10 years: Stephen's Sausage Roll still one of the most influential puzzle games](https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/)
 * [2026-04-18, 10:46:17](https://news.ycombinator.com/item?id=47814832) - [Claude Code Opus 4.7 keeps checking on malware](https://news.ycombinator.com/item?id=47814832)
 * [2026-04-18, 07:56:18](https://news.ycombinator.com/item?id=47814073) - [America Lost the Mandate of Heaven](https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html)
 * [2026-04-18, 06:40:47](https://news.ycombinator.com/item?id=47813668) - [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
