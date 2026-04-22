@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-04-22, 19:21:46",
-      "https://news.ycombinator.com/item?id=47868063"
+      "2026-04-22, 21:26:38",
+      "https://news.ycombinator.com/item?id=47869496"
     ],
     [
-      "New study compares growing corn for energy to solar production. It's no contest",
-      "https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/"
+      "The Neon King of New Orleans",
+      "https://gardenandgun.com/new-orleans-neon-king"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 20:50:21",
+      "https://news.ycombinator.com/item?id=47869130"
+    ],
+    [
+      "Olive CSS: Lisp powered vanilla CSS utility-Class A la Tailwind",
+      "https://codeberg.org/jjba23/olive-css"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 20:27:31",
+      "https://news.ycombinator.com/item?id=47868867"
+    ],
+    [
+      "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 20:24:05",
+      "https://news.ycombinator.com/item?id=47868832"
+    ],
+    [
+      "The Illuminated Man: an unconventional portrait of JG Ballard",
+      "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Surveillance Pricing: Exploiting Information Asymmetries",
       "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/"
-    ]
-  ],
-  [
-    [
-      "2026-04-22, 16:52:43",
-      "https://news.ycombinator.com/item?id=47866153"
-    ],
-    [
-      "Homegrown – An interactive map of every 2025 FBS college football player",
-      "https://torch.football/homegrown"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2026-04-22, 09:22:05",
-      "https://news.ycombinator.com/item?id=47861087"
-    ],
-    [
-      "How does GPS work?",
-      "https://perthirtysix.com/how-the-heck-does-gps-work"
-    ]
-  ],
-  [
-    [
       "2026-04-22, 08:25:32",
       "https://news.ycombinator.com/item?id=47860682"
     ],
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2026-04-22, 06:38:05",
-      "https://news.ycombinator.com/item?id=47859861"
+      "2026-04-21, 13:23:17",
+      "https://news.ycombinator.com/item?id=47848470"
     ],
     [
-      "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
-      "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 23:35:06",
-      "https://news.ycombinator.com/item?id=47842569"
-    ],
-    [
-      "Making RAM at Home [video]",
-      "https://www.youtube.com/watch?v=h6GWikWlAQA"
+      "A Vompeccc Case Study: Spotify as Pure ICR in Emacs",
+      "https://www.chiply.dev/post-vompeccc-spot"
     ]
   ],
   [
