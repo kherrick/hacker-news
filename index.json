@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-04-22, 06:38:05",
-      "https://news.ycombinator.com/item?id=47859861"
+      "2026-04-22, 09:02:46",
+      "https://news.ycombinator.com/item?id=47860961"
     ],
     [
-      "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
-      "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247"
+      "Meta employees are up in arms over a mandatory program to train AI on their",
+      "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 05:28:58",
+      "https://news.ycombinator.com/item?id=47859442"
+    ],
+    [
+      "What Async Promised and What It Delivered",
+      "https://causality.blog/essays/what-async-promised/"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-04-21, 11:58:16",
-      "https://news.ycombinator.com/item?id=47847558"
-    ],
-    [
-      "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
-      "https://vidstudio.app/video-editor"
-    ]
-  ],
-  [
-    [
       "2026-04-21, 11:04:56",
       "https://news.ycombinator.com/item?id=47847179"
     ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-04-20, 11:18:57",
+      "https://news.ycombinator.com/item?id=47832720"
+    ],
+    [
+      "All your agents are going async",
+      "https://zknill.io/posts/all-your-agents-are-going-async/"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 05:21:12",
       "https://news.ycombinator.com/item?id=47830633"
     ],
@@ -227,16 +237,6 @@
     [
       "Hunting a 34 year old pointer bug in EtherSlip",
       "https://www.brutman.com/Adventures_In_Code/EtherSlip_ARP/EtherSlip_ARP.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 17:19:32",
-      "https://news.ycombinator.com/item?id=47825888"
-    ],
-    [
-      "Some secret management belongs in your HTTP proxy",
-      "https://blog.exe.dev/http-proxy-secrets"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-04-18, 12:41:00",
-      "https://news.ycombinator.com/item?id=47815462"
+      "2026-04-19, 00:34:11",
+      "https://news.ycombinator.com/item?id=47820791"
     ],
     [
-      "Running a Minecraft Server and more on a 1960s UNIVAC Computer",
-      "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer"
+      "MuJoCo – Advanced Physics Simulation",
+      "https://github.com/google-deepmind/mujoco"
     ]
   ],
   [
