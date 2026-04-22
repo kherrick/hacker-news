@@ -37,6 +37,7 @@
 * [2026-04-19, 15:48:13](https://news.ycombinator.com/item?id=47825158) - [Claude Brain](https://github.com/memvid/claude-brain)
 * [2026-04-19, 15:23:39](https://news.ycombinator.com/item?id=47824976) - [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/)
 * [2026-04-19, 15:20:01](https://news.ycombinator.com/item?id=47824945) - [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720)
+* [2026-04-19, 15:19:28](https://news.ycombinator.com/item?id=47824943) - [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/)
 * [2026-04-19, 15:09:45](https://news.ycombinator.com/item?id=47824874) - [Russia's doping program is run by the same FSB team that poisoned Navalny](https://theins.press/en/inv/291614)
 * [2026-04-19, 15:04:45](https://news.ycombinator.com/item?id=47824832) - [Discord Read Receipts Exploit: When, How Often, How Long](https://paul.koeck.dev/writeups/discord-read-receipts)
 * [2026-04-19, 14:50:38](https://news.ycombinator.com/item?id=47824738) - [Recommended GPU Repairshop in Europe (Germany)](https://news.ycombinator.com/item?id=47824738)

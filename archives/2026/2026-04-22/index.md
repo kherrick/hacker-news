@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-22](index.md)
 
+* [2026-04-22, 16:29:25](https://news.ycombinator.com/item?id=47865868) - [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
+* [2026-04-22, 16:11:23](https://news.ycombinator.com/item?id=47865661) - [Martin Fowler: Technical, Cognitive, and Intent Debt](https://martinfowler.com/fragments/2026-04-14.html)
+* [2026-04-22, 16:09:56](https://news.ycombinator.com/item?id=47865642) - [Show HN: Broccoli, one shot coding agent on the cloud](https://github.com/besimple-oss/broccoli)
+* [2026-04-22, 16:07:56](https://news.ycombinator.com/item?id=47865622) - [Youth Suicides Declined After Creation of National Hotline](https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html)
 * [2026-04-22, 15:53:33](https://news.ycombinator.com/item?id=47865432) - [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x)
 * [2026-04-22, 14:49:02](https://news.ycombinator.com/item?id=47864454) - [DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser](https://duckdb.org/2026/04/13/announcing-duckdb-152)
 * [2026-04-22, 14:44:32](https://news.ycombinator.com/item?id=47864393) - [Show HN submissions tripled and are now mostly vibe-coded](https://www.adriankrebs.ch/blog/design-slop/)
