@@ -76,3 +76,4 @@
 * [2026-04-19, 04:28:31](https://news.ycombinator.com/item?id=47821801) - [Windows Server 2025 Runs Better on ARM](https://jasoneckert.github.io/myblog/server-2025-arm64/)
 * [2026-04-19, 03:33:49](https://news.ycombinator.com/item?id=47821603) - [Bipartisan Bill to Tighten Controls on Sensitive Chipmaking Equipment](https://baumgartner.house.gov/2026/04/02/baumgartner-introduces-bipartisan-bill-to-tighten-controls-on-sensitive-chipmaking-equipment/)
 * [2026-04-19, 02:50:43](https://news.ycombinator.com/item?id=47821429) - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
+* [2026-04-19, 00:34:11](https://news.ycombinator.com/item?id=47820791) - [MuJoCo – Advanced Physics Simulation](https://github.com/google-deepmind/mujoco)
