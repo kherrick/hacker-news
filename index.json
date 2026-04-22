@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-22, 06:38:05",
+      "https://news.ycombinator.com/item?id=47859861"
+    ],
+    [
+      "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
+      "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247"
+    ]
+  ],
+  [
+    [
       "2026-04-22, 02:49:40",
       "https://news.ycombinator.com/item?id=47858246"
     ],
@@ -17,16 +27,6 @@
     [
       "Kuri – Zig based agent-browser alternative",
       "https://github.com/justrach/kuri"
-    ]
-  ],
-  [
-    [
-      "2026-04-22, 01:25:04",
-      "https://news.ycombinator.com/item?id=47857509"
-    ],
-    [
-      "Global growth in solar \"the largest ever observed for any source\"",
-      "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/"
     ]
   ],
   [
@@ -121,22 +121,22 @@
   ],
   [
     [
-      "2026-04-21, 17:01:15",
-      "https://news.ycombinator.com/item?id=47851456"
-    ],
-    [
-      "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
-      "https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time"
-    ]
-  ],
-  [
-    [
       "2026-04-21, 15:29:16",
       "https://news.ycombinator.com/item?id=47850212"
     ],
     [
       "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
       "https://www.brex.com/crabtrap"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 14:26:52",
+      "https://news.ycombinator.com/item?id=47849315"
+    ],
+    [
+      "Fusion Power Plant Simulator",
+      "https://www.fusionenergybase.com/fusion-power-plant-simulator"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-04-20, 05:21:12",
+      "https://news.ycombinator.com/item?id=47830633"
+    ],
+    [
+      "Rock carving facts – Tanum Sweden",
+      "https://www.tanumworldheritage.se/rock-carving-facts/?lang=en"
+    ]
+  ],
+  [
+    [
       "2026-04-19, 21:57:25",
       "https://news.ycombinator.com/item?id=47827991"
     ],
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2026-04-19, 19:10:21",
-      "https://news.ycombinator.com/item?id=47826768"
-    ],
-    [
-      "Clarus, Moofo, and Lackey",
-      "https://www.storybytes.com/view-moof/articles/mim.html"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 17:19:32",
       "https://news.ycombinator.com/item?id=47825888"
     ],
     [
       "Some secret management belongs in your HTTP proxy",
       "https://blog.exe.dev/http-proxy-secrets"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 11:53:31",
+      "https://news.ycombinator.com/item?id=47823654"
+    ],
+    [
+      "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
+      "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Windows Server 2025 Runs Better on ARM",
       "https://jasoneckert.github.io/myblog/server-2025-arm64/"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 22:08:48",
-      "https://news.ycombinator.com/item?id=47819939"
-    ],
-    [
-      "20000 Gates and 20 MIPS [pdf]",
-      "https://bitsavers.org/pdf/amdahl/history/20000_Gates_and_20_MIPS_199011.pdf"
     ]
   ],
   [
