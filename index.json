@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-04-22, 09:52:52",
+      "https://news.ycombinator.com/item?id=47861270"
+    ],
+    [
+      "Windows 9x Subsystem for Linux",
+      "https://social.hails.org/@hailey/116446826733136456"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 09:22:05",
+      "https://news.ycombinator.com/item?id=47861087"
+    ],
+    [
+      "How the Heck Does GPS Work?",
+      "https://perthirtysix.com/how-the-heck-does-gps-work"
+    ]
+  ],
+  [
+    [
       "2026-04-22, 09:02:46",
       "https://news.ycombinator.com/item?id=47860961"
     ],
     [
       "Meta employees are up in arms over a mandatory program to train AI on their",
       "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 08:33:17",
+      "https://news.ycombinator.com/item?id=47860742"
+    ],
+    [
+      "Irony as Meta staff unhappy about running surveillance software on work PCs",
+      "https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/"
     ]
   ],
   [
@@ -21,16 +51,6 @@
   ],
   [
     [
-      "2026-04-22, 02:49:40",
-      "https://news.ycombinator.com/item?id=47858246"
-    ],
-    [
-      "FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",
-      "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/"
-    ]
-  ],
-  [
-    [
       "2026-04-22, 02:15:38",
       "https://news.ycombinator.com/item?id=47857964"
     ],
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2026-04-21, 23:53:45",
-      "https://news.ycombinator.com/item?id=47856535"
-    ],
-    [
-      "Drunk post: Things I've learned as a senior engineer (2021)",
-      "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as"
-    ]
-  ],
-  [
-    [
       "2026-04-21, 22:13:18",
       "https://news.ycombinator.com/item?id=47855293"
     ],
     [
       "SpaceX says it has agreement to acquire Cursor for $60B",
       "https://twitter.com/spacex/status/2046713419978453374"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 21:03:04",
-      "https://news.ycombinator.com/item?id=47854477"
-    ],
-    [
-      "Claude Code to be removed from Anthropic's Pro plan?",
-      "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-04-19, 21:57:25",
-      "https://news.ycombinator.com/item?id=47827991"
+      "2026-04-19, 12:29:35",
+      "https://news.ycombinator.com/item?id=47823814"
     ],
     [
-      "Hunting a 34 year old pointer bug in EtherSlip",
-      "https://www.brutman.com/Adventures_In_Code/EtherSlip_ARP/EtherSlip_ARP.html"
+      "Context Is Software, Weights Are Hardware",
+      "https://www.aravindjayendran.com/writing/context-is-not-learning"
     ]
   ],
   [
