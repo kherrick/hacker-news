@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-22](index.md)
 
+* [2026-04-22, 19:21:46](https://news.ycombinator.com/item?id=47868063) - [New study compares growing corn for energy to solar production. It's no contest](https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/)
 * [2026-04-22, 18:57:20](https://news.ycombinator.com/item?id=47867755) - [Scores decline again for 13-year-old students in reading and mathematics](https://www.nationsreportcard.gov/highlights/ltt/2023/)
 * [2026-04-22, 18:01:18](https://news.ycombinator.com/item?id=47867048) - [Website streamed live directly from a model](https://flipbook.page/)
 * [2026-04-22, 17:51:17](https://news.ycombinator.com/item?id=47866913) - [Coding Models Are Doing Too Much](https://nrehiew.github.io/blog/minimal_editing/)
@@ -12,12 +13,14 @@
 * [2026-04-22, 17:35:03](https://news.ycombinator.com/item?id=47866697) - [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
 * [2026-04-22, 17:13:19](https://news.ycombinator.com/item?id=47866395) - [Surveillance Pricing: Exploiting Information Asymmetries](https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/)
 * [2026-04-22, 17:10:46](https://news.ycombinator.com/item?id=47866368) - [Anker made its own chip to bring AI to all its products](https://www.theverge.com/tech/916463/anker-thus-chip-announcement)
+* [2026-04-22, 16:52:43](https://news.ycombinator.com/item?id=47866153) - [Homegrown – An interactive map of every 2025 FBS college football player](https://torch.football/homegrown)
 * [2026-04-22, 16:34:21](https://news.ycombinator.com/item?id=47865923) - [Startups Brag They Spend More Money on AI Than Human Employees](https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/)
 * [2026-04-22, 16:29:25](https://news.ycombinator.com/item?id=47865868) - [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
 * [2026-04-22, 16:11:23](https://news.ycombinator.com/item?id=47865661) - [Martin Fowler: Technical, Cognitive, and Intent Debt](https://martinfowler.com/fragments/2026-04-14.html)
 * [2026-04-22, 16:09:56](https://news.ycombinator.com/item?id=47865642) - [Show HN: Broccoli, one shot coding agent on the cloud](https://github.com/besimple-oss/broccoli)
 * [2026-04-22, 16:07:56](https://news.ycombinator.com/item?id=47865622) - [Youth Suicides Declined After Creation of National Hotline](https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html)
 * [2026-04-22, 15:53:33](https://news.ycombinator.com/item?id=47865432) - [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x)
+* [2026-04-22, 15:13:48](https://news.ycombinator.com/item?id=47864785) - [Ping-pong robot beats top-level human players](https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/)
 * [2026-04-22, 14:49:02](https://news.ycombinator.com/item?id=47864454) - [DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser](https://duckdb.org/2026/04/13/announcing-duckdb-152)
 * [2026-04-22, 14:44:32](https://news.ycombinator.com/item?id=47864393) - [Show HN submissions tripled and are now mostly vibe-coded](https://www.adriankrebs.ch/blog/design-slop/)
 * [2026-04-22, 13:28:40](https://news.ycombinator.com/item?id=47863324) - [Treetops glowing during storms captured on film for first time](https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time)
