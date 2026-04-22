@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-04-22, 17:51:17",
+      "https://news.ycombinator.com/item?id=47866913"
+    ],
+    [
+      "Coding Models Are Doing Too Much",
+      "https://nrehiew.github.io/blog/minimal_editing/"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 17:38:57",
+      "https://news.ycombinator.com/item?id=47866750"
+    ],
+    [
+      "Parallel Agents in Zed",
+      "https://zed.dev/blog/parallel-agents"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 17:13:19",
+      "https://news.ycombinator.com/item?id=47866395"
+    ],
+    [
+      "Surveillance Pricing: Exploiting Information Asymmetries",
+      "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 17:10:46",
+      "https://news.ycombinator.com/item?id=47866368"
+    ],
+    [
+      "Anker made its own chip to bring AI to all its products",
+      "https://www.theverge.com/tech/916463/anker-thus-chip-announcement"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 16:34:21",
+      "https://news.ycombinator.com/item?id=47865923"
+    ],
+    [
+      "Startups Brag They Spend More Money on AI Than Human Employees",
+      "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/"
+    ]
+  ],
+  [
+    [
       "2026-04-22, 16:29:25",
       "https://news.ycombinator.com/item?id=47865868"
     ],
@@ -65,7 +115,7 @@
       "https://news.ycombinator.com/item?id=47863324"
     ],
     [
-      "Treetops glowing during storms captured on film for first time",
+      "Ultraviolet corona discharges on treetops",
       "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time"
     ]
   ],
@@ -161,16 +211,6 @@
   ],
   [
     [
-      "2026-04-21, 22:13:18",
-      "https://news.ycombinator.com/item?id=47855293"
-    ],
-    [
-      "SpaceX says it has agreement to acquire Cursor for $60B",
-      "https://twitter.com/spacex/status/2046713419978453374"
-    ]
-  ],
-  [
-    [
       "2026-04-21, 20:52:19",
       "https://news.ycombinator.com/item?id=47854365"
     ],
@@ -201,32 +241,12 @@
   ],
   [
     [
-      "2026-04-20, 18:38:22",
-      "https://news.ycombinator.com/item?id=47838680"
+      "2026-04-20, 21:00:43",
+      "https://news.ycombinator.com/item?id=47840618"
     ],
     [
-      "Expansion Artifacts",
-      "https://mattstromawn.com/writing/expansion-artifacts/"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 15:21:16",
-      "https://news.ycombinator.com/item?id=47835635"
-    ],
-    [
-      "Acetaminophen vs. ibuprofen",
-      "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 11:18:57",
-      "https://news.ycombinator.com/item?id=47832720"
-    ],
-    [
-      "All your agents are going async",
-      "https://zknill.io/posts/all-your-agents-are-going-async/"
+      "Who Killed the Florida Orange?",
+      "https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html"
     ]
   ],
   [
@@ -237,16 +257,6 @@
     [
       "5x5 Pixel font for tiny screens",
       "https://maurycyz.com/projects/mcufont/"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 11:53:31",
-      "https://news.ycombinator.com/item?id=47823654"
-    ],
-    [
-      "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
-      "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Garbage Collection Without Unsafe Code",
       "https://fitzgen.com/2024/02/06/safe-gc.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 04:28:31",
-      "https://news.ycombinator.com/item?id=47821801"
-    ],
-    [
-      "Windows Server 2025 Runs Better on ARM",
-      "https://jasoneckert.github.io/myblog/server-2025-arm64/"
     ]
   ],
   [
