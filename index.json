@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-22, 11:10:49",
+      "https://news.ycombinator.com/item?id=47861881"
+    ],
+    [
+      "Iran claims US exploited networking equipment backdoors during strikes",
+      "https://www.tomshardware.com/tech-industry/cyber-security/iran-claims-us-exploited-networking-equipment-backdoors-during-strikes"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 10:51:09",
+      "https://news.ycombinator.com/item?id=47861703"
+    ],
+    [
+      "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
+      "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/"
+    ]
+  ],
+  [
+    [
       "2026-04-22, 09:52:52",
       "https://news.ycombinator.com/item?id=47861270"
     ],
@@ -37,16 +57,6 @@
     [
       "Irony as Meta staff unhappy about running surveillance software on work PCs",
       "https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/"
-    ]
-  ],
-  [
-    [
-      "2026-04-22, 05:28:58",
-      "https://news.ycombinator.com/item?id=47859442"
-    ],
-    [
-      "What Async Promised and What It Delivered",
-      "https://causality.blog/essays/what-async-promised/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "The Vercel breach: OAuth attack exposes risk in platform environment variables",
       "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 15:29:16",
-      "https://news.ycombinator.com/item?id=47850212"
-    ],
-    [
-      "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "https://www.brex.com/crabtrap"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-04-19, 12:29:35",
-      "https://news.ycombinator.com/item?id=47823814"
-    ],
-    [
-      "Context Is Software, Weights Are Hardware",
-      "https://www.aravindjayendran.com/writing/context-is-not-learning"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 11:53:31",
       "https://news.ycombinator.com/item?id=47823654"
     ],
@@ -257,6 +247,16 @@
     [
       "Edit store price tags using Flipper Zero",
       "https://github.com/i12bp8/TagTinker"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 05:58:16",
+      "https://news.ycombinator.com/item?id=47822117"
+    ],
+    [
+      "Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter",
+      "https://arxiv.org/abs/2604.15039"
     ]
   ],
   [
