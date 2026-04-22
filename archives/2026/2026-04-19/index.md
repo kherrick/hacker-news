@@ -12,6 +12,7 @@
 * [2026-04-19, 22:33:31](https://news.ycombinator.com/item?id=47828249) - [Banned by Anthropic](https://bannedbyanthropic.com/)
 * [2026-04-19, 22:30:19](https://news.ycombinator.com/item?id=47828225) - [Ex-CEO, ex-CFO of bankrupt AI company charged with fraud](https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/)
 * [2026-04-19, 22:19:31](https://news.ycombinator.com/item?id=47828151) - [Reminder: Enable ZRAM on your Linux system to optimize RAM usage](https://www.cnx-software.com/2026/04/15/reminder-enable-zram-on-your-linux-system-to-optimize-ram-usage/)
+* [2026-04-19, 21:57:25](https://news.ycombinator.com/item?id=47827991) - [Hunting a 34 year old pointer bug in EtherSlip (DOS Networking)](https://www.brutman.com/Adventures_In_Code/EtherSlip_ARP/EtherSlip_ARP.html)
 * [2026-04-19, 21:56:22](https://news.ycombinator.com/item?id=47827985) - [CEOs admit AI had no impact on employment or productivity](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
 * [2026-04-19, 21:00:49](https://news.ycombinator.com/item?id=47827603) - [C++26: Reflection, Memory Safety, Contracts, and a New Async Model](https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/)
 * [2026-04-19, 20:25:29](https://news.ycombinator.com/item?id=47827383) - [Swiss authorities want to reduce dependency on Microsoft](https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532)

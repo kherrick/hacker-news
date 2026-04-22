@@ -34,6 +34,7 @@
 * [2026-04-18, 15:13:26](https://news.ycombinator.com/item?id=47816536) - [Sherry Turkle: \"We're losing the raw, human part of being with each other\"](https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit)
 * [2026-04-18, 15:10:13](https://news.ycombinator.com/item?id=47816514) - [Show HN: Solyto – a free, open-source all-in-one personal management app](https://solyto.app)
 * [2026-04-18, 15:03:03](https://news.ycombinator.com/item?id=47816462) - [Respect to the Man Chasing AI Immortality, While Freeloading Off Our Platform](https://blog.mulerun.com/p/ai-immortality-postmortem/)
+* [2026-04-18, 14:45:41](https://news.ycombinator.com/item?id=47816333) - [Optimizing Tail Sampling in OpenTelemetry with Retroactive Sampling](https://victoriametrics.com/blog/kubecon-eu-2026-sampling/index.html)
 * [2026-04-18, 14:21:41](https://news.ycombinator.com/item?id=47816146) - [Reverse Engineering ME2's USB with a Heat Gun and a Knife](https://github.com/coremaze/ME2-Writeup)
 * [2026-04-18, 13:29:04](https://news.ycombinator.com/item?id=47815774) - [Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
 * [2026-04-18, 13:24:42](https://news.ycombinator.com/item?id=47815742) - [The Mystery of Rennes-Le-Château, Part 4: Non-Fiction Meets Fiction](https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/)

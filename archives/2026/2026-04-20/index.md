@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 23:35:06](https://news.ycombinator.com/item?id=47842569) - [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA)
 * [2026-04-20, 22:43:29](https://news.ycombinator.com/item?id=47842021) - [Even 'uncensored' models can't say what they want](https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html)
 * [2026-04-20, 21:33:15](https://news.ycombinator.com/item?id=47841149) - [Monero Community Crowdfunding System](https://ccs.getmonero.org/ideas/)
 * [2026-04-20, 21:32:10](https://news.ycombinator.com/item?id=47841129) - [Jujutsu Megamerges for Fun and Profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
@@ -33,10 +34,12 @@
 * [2026-04-20, 16:19:20](https://news.ycombinator.com/item?id=47836463) - [Palantir Wants to Reinstate the Draft](https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/)
 * [2026-04-20, 15:41:02](https://news.ycombinator.com/item?id=47835928) - [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 * [2026-04-20, 15:36:05](https://news.ycombinator.com/item?id=47835858) - [Kimi K2.6: Advancing Open-Source Coding](https://twitter.com/Kimi_Moonshot/status/2046249571882500354)
+* [2026-04-20, 15:34:45](https://news.ycombinator.com/item?id=47835837) - [A printing press for biological data](https://www.owlposting.com/p/the-printing-press-for-biological)
 * [2026-04-20, 15:30:17](https://news.ycombinator.com/item?id=47835775) - [I'm never buying another Kindle, and neither should you](https://www.androidauthority.com/amazon-kindle-2026-3657863/)
 * [2026-04-20, 15:28:13](https://news.ycombinator.com/item?id=47835735) - [Kimi K2.6: Advancing Open-Source Coding](https://www.kimi.com/blog/kimi-k2-6)
 * [2026-04-20, 15:27:30](https://news.ycombinator.com/item?id=47835728) - [My practitioner view of program analysis](https://sawyer.dev/posts/practitioner-program-analysis/)
 * [2026-04-20, 15:22:01](https://news.ycombinator.com/item?id=47835646) - [I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs](https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic)
+* [2026-04-20, 15:21:16](https://news.ycombinator.com/item?id=47835635) - [Acetaminophen vs. ibuprofen](https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet)
 * [2026-04-20, 15:18:57](https://news.ycombinator.com/item?id=47835599) - [Show HN: Alien – Self-hosting with remote management (written in Rust)](https://news.ycombinator.com/item?id=47835599)
 * [2026-04-20, 15:07:40](https://news.ycombinator.com/item?id=47835423) - [Data Center Is Getting a $77M Tax Break to Create One Job](https://nysfocus.com/2026/04/20/data-center-tax-break-jpmorgan-chase)
 * [2026-04-20, 15:07:04](https://news.ycombinator.com/item?id=47835411) - [Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness](https://mediator.ai/)

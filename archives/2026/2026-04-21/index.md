@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-21](index.md)
 
+* [2026-04-21, 23:53:45](https://news.ycombinator.com/item?id=47856535) - [Drunk Post: Things I've Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
 * [2026-04-21, 22:40:46](https://news.ycombinator.com/item?id=47855616) - [SpaceX Says It Has Agreement to Acquire Cursor for $60B](https://www.bloomberg.com/news/articles/2026-04-21/spacex-says-has-agreement-to-acquire-cursor-for-60-billion)
 * [2026-04-21, 22:36:24](https://news.ycombinator.com/item?id=47855565) - [Claude Code no longer included in Pro tier](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
 * [2026-04-21, 22:27:17](https://news.ycombinator.com/item?id=47855448) - [SpaceX Strikes Deal With Cursor for $60 Billion](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html)
 * [2026-04-21, 22:13:18](https://news.ycombinator.com/item?id=47855293) - [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
+* [2026-04-21, 21:03:04](https://news.ycombinator.com/item?id=47854477) - [Claude Code to be removed from Anthropic's Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
 * [2026-04-21, 21:03:04](https://news.ycombinator.com/item?id=47854477) - [Claude Code removed from Anthropic's Pro plan](https://claude.com/pricing)
 * [2026-04-21, 20:28:57](https://news.ycombinator.com/item?id=47854125) - [California has more money than projected after admin miscalculated state budget](https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376)
 * [2026-04-21, 20:27:37](https://news.ycombinator.com/item?id=47854116) - [Zindex – Diagram Infrastructure for Agents](https://zindex.ai/)
@@ -42,6 +44,7 @@
 * [2026-04-21, 11:04:56](https://news.ycombinator.com/item?id=47847179) - [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
 * [2026-04-21, 10:57:53](https://news.ycombinator.com/item?id=47847124) - [Apple ignores DMA interoperability requests and contradicts own documentation](https://fsfe.org/news/2026/news-20260420-01.html)
 * [2026-04-21, 10:33:24](https://news.ycombinator.com/item?id=47846946) - [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph)
+* [2026-04-21, 10:19:49](https://news.ycombinator.com/item?id=47846861) - [Diverse organic molecules on Mars revealed by the first SAM TMAH experiment](https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/)
 * [2026-04-21, 06:58:08](https://news.ycombinator.com/item?id=47845429) - [Less human AI agents, please](https://nial.se/blog/less-human-ai-agents-please/)
 * [2026-04-21, 06:25:50](https://news.ycombinator.com/item?id=47845274) - [Using Changesets in a polyglot monorepo](https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/)
 * [2026-04-21, 06:19:15](https://news.ycombinator.com/item?id=47845231) - [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)
