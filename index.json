@@ -1,32 +1,22 @@
 [
   [
     [
-      "2026-04-21, 22:40:46",
-      "https://news.ycombinator.com/item?id=47855616"
-    ],
-    [
-      "SpaceX Says It Has Agreement to Acquire Cursor for $60B",
-      "https://www.bloomberg.com/news/articles/2026-04-21/spacex-says-has-agreement-to-acquire-cursor-for-60-billion"
-    ]
-  ],
-  [
-    [
       "2026-04-21, 22:36:24",
       "https://news.ycombinator.com/item?id=47855565"
     ],
     [
-      "Claude Code no longer included in Pro tier",
+      "Claude Code to be removed from Pro Tier?",
       "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a"
     ]
   ],
   [
     [
-      "2026-04-21, 20:28:57",
-      "https://news.ycombinator.com/item?id=47854125"
+      "2026-04-21, 22:13:18",
+      "https://news.ycombinator.com/item?id=47855293"
     ],
     [
-      "California has more money than projected after admin miscalculated state budget",
-      "https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376"
+      "SpaceX says it has agreement to acquire Cursor for $60B",
+      "https://twitter.com/spacex/status/2046713419978453374"
     ]
   ],
   [
@@ -37,16 +27,6 @@
     [
       "Zindex – Diagram Infrastructure for Agents",
       "https://zindex.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 20:21:40",
-      "https://news.ycombinator.com/item?id=47854051"
-    ],
-    [
-      "I don't want your PRs anymore",
-      "https://dpc.pw/posts/i-dont-want-your-prs-anymore/"
     ]
   ],
   [
@@ -127,6 +107,16 @@
     [
       "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
       "https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 15:53:22",
+      "https://news.ycombinator.com/item?id=47850542"
+    ],
+    [
+      "Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins",
+      "https://github.com/Yus314/kasane"
     ]
   ],
   [
@@ -225,7 +215,7 @@
       "https://news.ycombinator.com/item?id=47830687"
     ],
     [
-      "Fields Medal Video: Maryna Viazovska",
+      "Fields Medal Video: Maryna Viazovska (2022)",
       "https://www.simonsfoundation.org/2022/07/05/fields-medal-video-maryna-viazovska/"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Show HN: Backlit Keyboard API for Python",
       "https://github.com/itsmeadarsh2008/backlit-kbd"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 04:28:31",
+      "https://news.ycombinator.com/item?id=47821801"
+    ],
+    [
+      "Windows Server 2025 Runs Better on ARM",
+      "https://jasoneckert.github.io/myblog/server-2025-arm64/"
     ]
   ],
   [
