@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-22](index.md)
 
+* [2026-04-22, 17:51:17](https://news.ycombinator.com/item?id=47866913) - [Coding Models Are Doing Too Much](https://nrehiew.github.io/blog/minimal_editing/)
+* [2026-04-22, 17:38:57](https://news.ycombinator.com/item?id=47866750) - [Parallel Agents in Zed](https://zed.dev/blog/parallel-agents)
+* [2026-04-22, 17:13:19](https://news.ycombinator.com/item?id=47866395) - [Surveillance Pricing: Exploiting Information Asymmetries](https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/)
+* [2026-04-22, 17:10:46](https://news.ycombinator.com/item?id=47866368) - [Anker made its own chip to bring AI to all its products](https://www.theverge.com/tech/916463/anker-thus-chip-announcement)
+* [2026-04-22, 16:34:21](https://news.ycombinator.com/item?id=47865923) - [Startups Brag They Spend More Money on AI Than Human Employees](https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/)
 * [2026-04-22, 16:29:25](https://news.ycombinator.com/item?id=47865868) - [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
 * [2026-04-22, 16:11:23](https://news.ycombinator.com/item?id=47865661) - [Martin Fowler: Technical, Cognitive, and Intent Debt](https://martinfowler.com/fragments/2026-04-14.html)
 * [2026-04-22, 16:09:56](https://news.ycombinator.com/item?id=47865642) - [Show HN: Broccoli, one shot coding agent on the cloud](https://github.com/besimple-oss/broccoli)

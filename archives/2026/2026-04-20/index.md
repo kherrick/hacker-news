@@ -10,6 +10,7 @@
 * [2026-04-20, 21:32:10](https://news.ycombinator.com/item?id=47841129) - [Jujutsu Megamerges for Fun and Profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
 * [2026-04-20, 21:20:52](https://news.ycombinator.com/item?id=47840980) - [OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\"](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
 * [2026-04-20, 21:13:49](https://news.ycombinator.com/item?id=47840851) - [Show HN: Docker Compose for VM's](https://github.com/zeroecco/holos)
+* [2026-04-20, 21:00:43](https://news.ycombinator.com/item?id=47840618) - [Who Killed the Florida Orange?](https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html)
 * [2026-04-20, 20:39:32](https://news.ycombinator.com/item?id=47840219) - [Tim Cook to become Apple Executive Chairman](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
 * [2026-04-20, 20:35:54](https://news.ycombinator.com/item?id=47840165) - [Tim Cook Stepping Down](https://www.macrumors.com/2026/04/20/tim-cook-stepping-down/)
 * [2026-04-20, 20:19:13](https://news.ycombinator.com/item?id=47839951) - [AI Resistance Is Growing](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
