@@ -20,6 +20,7 @@
 * [2026-04-22, 16:52:43](https://news.ycombinator.com/item?id=47866153) - [Homegrown – An interactive map of every 2025 FBS college football player](https://torch.football/homegrown)
 * [2026-04-22, 16:34:21](https://news.ycombinator.com/item?id=47865923) - [Startups Brag They Spend More Money on AI Than Human Employees](https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/)
 * [2026-04-22, 16:29:25](https://news.ycombinator.com/item?id=47865868) - [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
+* [2026-04-22, 16:11:23](https://news.ycombinator.com/item?id=47865661) - [Technical, cognitive, and intent debt](https://martinfowler.com/fragments/2026-04-02.html)
 * [2026-04-22, 16:11:23](https://news.ycombinator.com/item?id=47865661) - [Martin Fowler: Technical, Cognitive, and Intent Debt](https://martinfowler.com/fragments/2026-04-14.html)
 * [2026-04-22, 16:09:56](https://news.ycombinator.com/item?id=47865642) - [Show HN: Broccoli, one shot coding agent on the cloud](https://github.com/besimple-oss/broccoli)
 * [2026-04-22, 16:07:56](https://news.ycombinator.com/item?id=47865622) - [Youth Suicides Declined After Creation of National Hotline](https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html)

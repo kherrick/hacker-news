@@ -40,6 +40,7 @@
 * [2026-04-20, 15:30:17](https://news.ycombinator.com/item?id=47835775) - [I'm never buying another Kindle, and neither should you](https://www.androidauthority.com/amazon-kindle-2026-3657863/)
 * [2026-04-20, 15:28:13](https://news.ycombinator.com/item?id=47835735) - [Kimi K2.6: Advancing Open-Source Coding](https://www.kimi.com/blog/kimi-k2-6)
 * [2026-04-20, 15:27:30](https://news.ycombinator.com/item?id=47835728) - [My practitioner view of program analysis](https://sawyer.dev/posts/practitioner-program-analysis/)
+* [2026-04-20, 15:22:08](https://news.ycombinator.com/item?id=47835647) - [Books are not too expensive](https://www.millersbookreview.com/p/no-books-are-not-remotely-too-expensive)
 * [2026-04-20, 15:22:01](https://news.ycombinator.com/item?id=47835646) - [I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs](https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic)
 * [2026-04-20, 15:21:16](https://news.ycombinator.com/item?id=47835635) - [Acetaminophen vs. ibuprofen](https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet)
 * [2026-04-20, 15:18:57](https://news.ycombinator.com/item?id=47835599) - [Show HN: Alien – Self-hosting with remote management (written in Rust)](https://news.ycombinator.com/item?id=47835599)
