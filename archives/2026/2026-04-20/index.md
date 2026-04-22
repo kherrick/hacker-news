@@ -34,6 +34,7 @@
 * [2026-04-20, 16:35:05](https://news.ycombinator.com/item?id=47836740) - [Show HN: Ctx – a /resume that works across Claude Code and Codex](https://github.com/dchu917/ctx)
 * [2026-04-20, 16:34:25](https://news.ycombinator.com/item?id=47836730) - [We Accepted Surveillance as Default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
 * [2026-04-20, 16:19:20](https://news.ycombinator.com/item?id=47836463) - [Palantir Wants to Reinstate the Draft](https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/)
+* [2026-04-20, 16:12:50](https://news.ycombinator.com/item?id=47836354) - [First per-image PCA decomposition of Kodak suite reveals deliberate curation](https://github.com/PearsonZero/kodak-pcd0992-statistical-characterization)
 * [2026-04-20, 15:41:02](https://news.ycombinator.com/item?id=47835928) - [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 * [2026-04-20, 15:36:05](https://news.ycombinator.com/item?id=47835858) - [Kimi K2.6: Advancing Open-Source Coding](https://twitter.com/Kimi_Moonshot/status/2046249571882500354)
 * [2026-04-20, 15:34:45](https://news.ycombinator.com/item?id=47835837) - [A printing press for biological data](https://www.owlposting.com/p/the-printing-press-for-biological)
