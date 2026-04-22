@@ -68,5 +68,6 @@
 * [2026-04-19, 07:05:17](https://news.ycombinator.com/item?id=47822356) - [Keep Pushing: We Get 10 More Days to Reform Section 702](https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702)
 * [2026-04-19, 06:52:00](https://news.ycombinator.com/item?id=47822301) - [Show HN: Backlit Keyboard API for Python](https://github.com/itsmeadarsh2008/backlit-kbd)
 * [2026-04-19, 05:42:48](https://news.ycombinator.com/item?id=47822066) - [Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded](https://www.bbc.com/news/articles/c0q92lx8q75o)
+* [2026-04-19, 04:28:31](https://news.ycombinator.com/item?id=47821801) - [Windows Server 2025 Runs Better on ARM](https://jasoneckert.github.io/myblog/server-2025-arm64/)
 * [2026-04-19, 03:33:49](https://news.ycombinator.com/item?id=47821603) - [Bipartisan Bill to Tighten Controls on Sensitive Chipmaking Equipment](https://baumgartner.house.gov/2026/04/02/baumgartner-introduces-bipartisan-bill-to-tighten-controls-on-sensitive-chipmaking-equipment/)
 * [2026-04-19, 02:50:43](https://news.ycombinator.com/item?id=47821429) - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
