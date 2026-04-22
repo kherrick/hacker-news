@@ -48,6 +48,7 @@
 * [2026-04-19, 14:05:49](https://news.ycombinator.com/item?id=47824403) - [The creative software industry has declared war on Adobe](https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates)
 * [2026-04-19, 13:13:09](https://news.ycombinator.com/item?id=47824068) - [Airline worker arrested after sharing photos of bomb damage in WhatsApp group](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
 * [2026-04-19, 13:10:51](https://news.ycombinator.com/item?id=47824051) - [Modern Front end Complexity: essential or accidental?](https://binaryigor.com/modern-frontend-complexity.html)
+* [2026-04-19, 12:29:35](https://news.ycombinator.com/item?id=47823814) - [Context Is Software, Weights Are Hardware](https://www.aravindjayendran.com/writing/context-is-not-learning)
 * [2026-04-19, 12:22:45](https://news.ycombinator.com/item?id=47823777) - [Real-Time Visualization of Human Finger Joint Cavitation (2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119470)
 * [2026-04-19, 11:53:31](https://news.ycombinator.com/item?id=47823654) - [Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma](https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics)
 * [2026-04-19, 11:35:23](https://news.ycombinator.com/item?id=47823549) - [High-Fidelity KV Cache Summarization Using Entropy and Low-Rank Reconstruction](https://jchandra.com/posts/hae-ols/)

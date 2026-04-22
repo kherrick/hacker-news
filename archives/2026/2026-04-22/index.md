@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-22](index.md)
 
+* [2026-04-22, 09:52:52](https://news.ycombinator.com/item?id=47861270) - [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456)
+* [2026-04-22, 09:22:05](https://news.ycombinator.com/item?id=47861087) - [How the Heck Does GPS Work?](https://perthirtysix.com/how-the-heck-does-gps-work)
 * [2026-04-22, 09:02:46](https://news.ycombinator.com/item?id=47860961) - [Meta employees are up in arms over a mandatory program to train AI on their](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)
+* [2026-04-22, 08:33:17](https://news.ycombinator.com/item?id=47860742) - [Irony as Meta staff unhappy about running surveillance software on work PCs](https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/)
 * [2026-04-22, 06:38:05](https://news.ycombinator.com/item?id=47859861) - [XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?](https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247)
 * [2026-04-22, 05:28:58](https://news.ycombinator.com/item?id=47859442) - [What Async Promised and What It Delivered](https://causality.blog/essays/what-async-promised/)
 * [2026-04-22, 02:49:40](https://news.ycombinator.com/item?id=47858246) - [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/)
