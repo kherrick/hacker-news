@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-22](index.md)
 
+* [2026-04-22, 18:57:20](https://news.ycombinator.com/item?id=47867755) - [Scores decline again for 13-year-old students in reading and mathematics](https://www.nationsreportcard.gov/highlights/ltt/2023/)
+* [2026-04-22, 18:01:18](https://news.ycombinator.com/item?id=47867048) - [Website streamed live directly from a model](https://flipbook.page/)
 * [2026-04-22, 17:51:17](https://news.ycombinator.com/item?id=47866913) - [Coding Models Are Doing Too Much](https://nrehiew.github.io/blog/minimal_editing/)
+* [2026-04-22, 17:47:07](https://news.ycombinator.com/item?id=47866860) - [Workspace Agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt/)
 * [2026-04-22, 17:38:57](https://news.ycombinator.com/item?id=47866750) - [Parallel Agents in Zed](https://zed.dev/blog/parallel-agents)
+* [2026-04-22, 17:35:03](https://news.ycombinator.com/item?id=47866697) - [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
 * [2026-04-22, 17:13:19](https://news.ycombinator.com/item?id=47866395) - [Surveillance Pricing: Exploiting Information Asymmetries](https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/)
 * [2026-04-22, 17:10:46](https://news.ycombinator.com/item?id=47866368) - [Anker made its own chip to bring AI to all its products](https://www.theverge.com/tech/916463/anker-thus-chip-announcement)
 * [2026-04-22, 16:34:21](https://news.ycombinator.com/item?id=47865923) - [Startups Brag They Spend More Money on AI Than Human Employees](https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/)
@@ -31,6 +35,7 @@
 * [2026-04-22, 09:22:05](https://news.ycombinator.com/item?id=47861087) - [How the Heck Does GPS Work?](https://perthirtysix.com/how-the-heck-does-gps-work)
 * [2026-04-22, 09:02:46](https://news.ycombinator.com/item?id=47860961) - [Meta employees are up in arms over a mandatory program to train AI on their](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)
 * [2026-04-22, 08:33:17](https://news.ycombinator.com/item?id=47860742) - [Irony as Meta staff unhappy about running surveillance software on work PCs](https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/)
+* [2026-04-22, 08:25:32](https://news.ycombinator.com/item?id=47860682) - [You don't need advice from editors on rejected manuscripts](https://twitter.com/orsonscottcard/status/2046702294406680751)
 * [2026-04-22, 06:38:05](https://news.ycombinator.com/item?id=47859861) - [XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?](https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247)
 * [2026-04-22, 05:28:58](https://news.ycombinator.com/item?id=47859442) - [What Async Promised and What It Delivered](https://causality.blog/essays/what-async-promised/)
 * [2026-04-22, 02:49:40](https://news.ycombinator.com/item?id=47858246) - [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/)
