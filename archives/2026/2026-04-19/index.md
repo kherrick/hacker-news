@@ -64,6 +64,7 @@
 * [2026-04-19, 09:23:27](https://news.ycombinator.com/item?id=47822968) - [Why Musicians Are Manufacturing Sold-Out Shows](https://www.bloomberg.com/news/articles/2026-04-17/how-bands-like-cameron-winter-s-geese-are-manufacturing-sold-out-shows)
 * [2026-04-19, 09:17:12](https://news.ycombinator.com/item?id=47822940) - [Ask HN: How did you land your first projects as a solo engineer/consultant?](https://news.ycombinator.com/item?id=47822940)
 * [2026-04-19, 08:45:48](https://news.ycombinator.com/item?id=47822805) - [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
+* [2026-04-19, 08:42:09](https://news.ycombinator.com/item?id=47822783) - [Monitor your Pi / OMP sessions](https://github.com/BlackBeltTechnology/pi-agent-dashboard)
 * [2026-04-19, 08:34:10](https://news.ycombinator.com/item?id=47822742) - [The purist's guide to phở in Hanoi](https://connla.substack.com/p/pho-in-hanoi-a-purists-guide)
 * [2026-04-19, 08:33:38](https://news.ycombinator.com/item?id=47822737) - [Binary GCD](https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd)
 * [2026-04-19, 08:32:53](https://news.ycombinator.com/item?id=47822734) - [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/)
