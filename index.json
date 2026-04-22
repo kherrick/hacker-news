@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-22, 15:53:33",
+      "https://news.ycombinator.com/item?id=47865432"
+    ],
+    [
+      "Windows 9x Subsystem for Linux",
+      "https://codeberg.org/hails/wsl9x"
+    ]
+  ],
+  [
+    [
       "2026-04-22, 14:49:02",
       "https://news.ycombinator.com/item?id=47864454"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=47864393"
     ],
     [
-      "Show HN submissions tripled and are now mostly vibe-coded",
+      "Show HN submissions tripled and now mostly have the same vibe-coded look",
       "https://www.adriankrebs.ch/blog/design-slop/"
     ]
   ],
@@ -27,6 +37,16 @@
     [
       "Treetops glowing during storms captured on film for first time",
       "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 13:19:58",
+      "https://news.ycombinator.com/item?id=47863217"
+    ],
+    [
+      "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "https://qwen.ai/blog?id=qwen3.6-27b"
     ]
   ],
   [
@@ -171,26 +191,6 @@
   ],
   [
     [
-      "2026-04-21, 17:40:39",
-      "https://news.ycombinator.com/item?id=47851948"
-    ],
-    [
-      "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 17:33:50",
-      "https://news.ycombinator.com/item?id=47851885"
-    ],
-    [
-      "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
-      "https://britannica11.org/"
-    ]
-  ],
-  [
-    [
       "2026-04-21, 17:14:35",
       "https://news.ycombinator.com/item?id=47851634"
     ],
@@ -207,6 +207,16 @@
     [
       "Making RAM at Home [video]",
       "https://www.youtube.com/watch?v=h6GWikWlAQA"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 18:38:22",
+      "https://news.ycombinator.com/item?id=47838680"
+    ],
+    [
+      "Expansion Artifacts",
+      "https://mattstromawn.com/writing/expansion-artifacts/"
     ]
   ],
   [
@@ -237,26 +247,6 @@
     [
       "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
       "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 09:23:27",
-      "https://news.ycombinator.com/item?id=47822968"
-    ],
-    [
-      "Why Musicians Are Manufacturing Sold-Out Shows",
-      "https://www.bloomberg.com/news/articles/2026-04-17/how-bands-like-cameron-winter-s-geese-are-manufacturing-sold-out-shows"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 08:42:09",
-      "https://news.ycombinator.com/item?id=47822783"
-    ],
-    [
-      "Monitor your Pi / OMP sessions",
-      "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "MuJoCo – Advanced Physics Simulation",
       "https://github.com/google-deepmind/mujoco"
+    ]
+  ],
+  [
+    [
+      "2026-04-18, 02:26:57",
+      "https://news.ycombinator.com/item?id=47812649"
+    ],
+    [
+      "Bodega Cats of New York",
+      "https://bodegacatsofnewyork.com"
     ]
   ]
 ]
