@@ -49,6 +49,7 @@
 * [2026-04-19, 13:13:09](https://news.ycombinator.com/item?id=47824068) - [Airline worker arrested after sharing photos of bomb damage in WhatsApp group](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
 * [2026-04-19, 13:10:51](https://news.ycombinator.com/item?id=47824051) - [Modern Front end Complexity: essential or accidental?](https://binaryigor.com/modern-frontend-complexity.html)
 * [2026-04-19, 12:22:45](https://news.ycombinator.com/item?id=47823777) - [Real-Time Visualization of Human Finger Joint Cavitation (2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119470)
+* [2026-04-19, 11:53:31](https://news.ycombinator.com/item?id=47823654) - [Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma](https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics)
 * [2026-04-19, 11:35:23](https://news.ycombinator.com/item?id=47823549) - [High-Fidelity KV Cache Summarization Using Entropy and Low-Rank Reconstruction](https://jchandra.com/posts/hae-ols/)
 * [2026-04-19, 11:17:27](https://news.ycombinator.com/item?id=47823460) - [Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)](https://teamchong.github.io/turboquant-wasm/draw.html)
 * [2026-04-19, 10:56:20](https://news.ycombinator.com/item?id=47823365) - [Clojure: Transducers](https://clojure.org/reference/transducers)

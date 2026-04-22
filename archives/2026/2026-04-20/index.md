@@ -67,6 +67,7 @@
 * [2026-04-20, 07:19:27](https://news.ycombinator.com/item?id=47831272) - [IEA: Solar overtakes all energy sources in a major global first](https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/)
 * [2026-04-20, 07:07:30](https://news.ycombinator.com/item?id=47831205) - [How Long Poop Stays in Your Body May Impact Your Health, Study Finds](https://www.sciencealert.com/how-long-poop-stays-in-your-body-may-impact-your-health-study-finds)
 * [2026-04-20, 05:30:06](https://news.ycombinator.com/item?id=47830687) - [Fields Medal Video: Maryna Viazovska](https://www.simonsfoundation.org/2022/07/05/fields-medal-video-maryna-viazovska/)
+* [2026-04-20, 05:21:12](https://news.ycombinator.com/item?id=47830633) - [Rock carving facts – Tanum Sweden](https://www.tanumworldheritage.se/rock-carving-facts/?lang=en)
 * [2026-04-20, 05:05:43](https://news.ycombinator.com/item?id=47830575) - [Stripe's Payment APIs: the first 10 years (2020)](https://stripe.dev/blog/payment-api-design)
 * [2026-04-20, 04:14:48](https://news.ycombinator.com/item?id=47830332) - [Theseus, a Static Windows Emulator](https://neugierig.org/software/blog/2026/04/theseus.html)
 * [2026-04-20, 03:24:21](https://news.ycombinator.com/item?id=47830071) - [A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)](https://github.com/esutcu/planb-lpm)

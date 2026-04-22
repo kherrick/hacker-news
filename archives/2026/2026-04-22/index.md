@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-22](index.md)
 
+* [2026-04-22, 06:38:05](https://news.ycombinator.com/item?id=47859861) - [XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?](https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247)
 * [2026-04-22, 02:49:40](https://news.ycombinator.com/item?id=47858246) - [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/)
 * [2026-04-22, 02:15:38](https://news.ycombinator.com/item?id=47857964) - [Kuri – Zig based agent-browser alternative](https://github.com/justrach/kuri)
 * [2026-04-22, 01:25:04](https://news.ycombinator.com/item?id=47857509) - [Global growth in solar \"the largest ever observed for any source\"](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/)
