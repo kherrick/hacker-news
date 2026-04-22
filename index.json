@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-04-22, 18:57:20",
+      "https://news.ycombinator.com/item?id=47867755"
+    ],
+    [
+      "Scores decline again for 13-year-old students in reading and mathematics",
+      "https://www.nationsreportcard.gov/highlights/ltt/2023/"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 18:01:18",
+      "https://news.ycombinator.com/item?id=47867048"
+    ],
+    [
+      "Website streamed live directly from a model",
+      "https://flipbook.page/"
+    ]
+  ],
+  [
+    [
       "2026-04-22, 17:51:17",
       "https://news.ycombinator.com/item?id=47866913"
     ],
     [
-      "Coding Models Are Doing Too Much",
+      "Over-editing refers to a model modifying code beyond what is necessary",
       "https://nrehiew.github.io/blog/minimal_editing/"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 17:47:07",
+      "https://news.ycombinator.com/item?id=47866860"
+    ],
+    [
+      "Workspace Agents in ChatGPT",
+      "https://openai.com/index/introducing-workspace-agents-in-chatgpt/"
     ]
   ],
   [
@@ -21,32 +51,22 @@
   ],
   [
     [
+      "2026-04-22, 17:35:03",
+      "https://news.ycombinator.com/item?id=47866697"
+    ],
+    [
+      "We found a stable Firefox identifier linking all your private Tor identities",
+      "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/"
+    ]
+  ],
+  [
+    [
       "2026-04-22, 17:13:19",
       "https://news.ycombinator.com/item?id=47866395"
     ],
     [
       "Surveillance Pricing: Exploiting Information Asymmetries",
       "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/"
-    ]
-  ],
-  [
-    [
-      "2026-04-22, 17:10:46",
-      "https://news.ycombinator.com/item?id=47866368"
-    ],
-    [
-      "Anker made its own chip to bring AI to all its products",
-      "https://www.theverge.com/tech/916463/anker-thus-chip-announcement"
-    ]
-  ],
-  [
-    [
-      "2026-04-22, 16:34:21",
-      "https://news.ycombinator.com/item?id=47865923"
-    ],
-    [
-      "Startups Brag They Spend More Money on AI Than Human Employees",
-      "https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/"
     ]
   ],
   [
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=47863324"
     ],
     [
-      "Ultraviolet corona discharges on treetops",
+      "Ultraviolet corona discharges on treetops during storms",
       "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time"
     ]
   ],
@@ -191,6 +211,16 @@
   ],
   [
     [
+      "2026-04-22, 08:25:32",
+      "https://news.ycombinator.com/item?id=47860682"
+    ],
+    [
+      "You don't need advice from editors on rejected manuscripts",
+      "https://twitter.com/orsonscottcard/status/2046702294406680751"
+    ]
+  ],
+  [
+    [
       "2026-04-22, 06:38:05",
       "https://news.ycombinator.com/item?id=47859861"
     ],
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2026-04-21, 18:50:00",
-      "https://news.ycombinator.com/item?id=47852835"
-    ],
-    [
-      "ChatGPT Images 2.0",
-      "https://openai.com/index/introducing-chatgpt-images-2-0/"
-    ]
-  ],
-  [
-    [
       "2026-04-20, 23:35:06",
       "https://news.ycombinator.com/item?id=47842569"
     ],
@@ -251,6 +271,16 @@
   ],
   [
     [
+      "2026-04-20, 17:58:13",
+      "https://news.ycombinator.com/item?id=47838134"
+    ],
+    [
+      "Anonymous credentials: an illustrated primer (Part 2)",
+      "https://blog.cryptographyengineering.com/2026/04/17/anonymous-credentials-an-illustrated-primer-part-2/"
+    ]
+  ],
+  [
+    [
       "2026-04-19, 15:19:28",
       "https://news.ycombinator.com/item?id=47824943"
     ],
@@ -261,41 +291,11 @@
   ],
   [
     [
-      "2026-04-19, 05:58:16",
-      "https://news.ycombinator.com/item?id=47822117"
-    ],
-    [
-      "Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter",
-      "https://arxiv.org/abs/2604.15039"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 04:41:59",
-      "https://news.ycombinator.com/item?id=47821853"
-    ],
-    [
-      "Garbage Collection Without Unsafe Code",
-      "https://fitzgen.com/2024/02/06/safe-gc.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 00:34:11",
-      "https://news.ycombinator.com/item?id=47820791"
-    ],
-    [
-      "MuJoCo – Advanced Physics Simulation",
-      "https://github.com/google-deepmind/mujoco"
-    ]
-  ],
-  [
-    [
       "2026-04-18, 02:26:57",
       "https://news.ycombinator.com/item?id=47812649"
     ],
     [
-      "Bodega Cats of New York",
+      "Bodega cats of New York",
       "https://bodegacatsofnewyork.com"
     ]
   ]
