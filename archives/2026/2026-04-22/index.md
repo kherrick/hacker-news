@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-22](index.md)
 
+* [2026-04-22, 21:26:38](https://news.ycombinator.com/item?id=47869496) - [The Neon King of New Orleans](https://gardenandgun.com/new-orleans-neon-king)
+* [2026-04-22, 20:50:21](https://news.ycombinator.com/item?id=47869130) - [Olive CSS: Lisp powered vanilla CSS utility-Class A la Tailwind](https://codeberg.org/jjba23/olive-css)
+* [2026-04-22, 20:27:31](https://news.ycombinator.com/item?id=47868867) - [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
+* [2026-04-22, 20:24:05](https://news.ycombinator.com/item?id=47868832) - [The Illuminated Man: an unconventional portrait of JG Ballard](https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard)
 * [2026-04-22, 19:21:46](https://news.ycombinator.com/item?id=47868063) - [New study compares growing corn for energy to solar production. It's no contest](https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/)
 * [2026-04-22, 18:57:20](https://news.ycombinator.com/item?id=47867755) - [Scores decline again for 13-year-old students in reading and mathematics](https://www.nationsreportcard.gov/highlights/ltt/2023/)
 * [2026-04-22, 18:01:18](https://news.ycombinator.com/item?id=47867048) - [Website streamed live directly from a model](https://flipbook.page/)

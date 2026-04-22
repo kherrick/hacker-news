@@ -36,6 +36,7 @@
 * [2026-04-21, 14:19:49](https://news.ycombinator.com/item?id=47849221) - [Your favorite brands got worse on purpose](https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose)
 * [2026-04-21, 14:11:53](https://news.ycombinator.com/item?id=47849097) - [Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM](https://github.com/ENTERPILOT/GOModel/)
 * [2026-04-21, 13:24:34](https://news.ycombinator.com/item?id=47848487) - [Vera C. Rubin Observatory has Discovered 11,000 New Asteroids](https://www.universetoday.com/articles/the-vera-c-rubin-observatory-has-discovered-11000-new-asteroids-and-its-barely-even-started)
+* [2026-04-21, 13:23:17](https://news.ycombinator.com/item?id=47848470) - [A Vompeccc Case Study: Spotify as Pure ICR in Emacs](https://www.chiply.dev/post-vompeccc-spot)
 * [2026-04-21, 13:08:25](https://news.ycombinator.com/item?id=47848276) - [Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)
 * [2026-04-21, 13:02:00](https://news.ycombinator.com/item?id=47848195) - [Tindie store under \"scheduled maintenance\" for days](https://www.tindie.com/)
 * [2026-04-21, 12:36:50](https://news.ycombinator.com/item?id=47847928) - [The abandoned war: Why no one is stopping the genocide in Sudan](https://respublica.media/en/en-sudan-abandoned-war-genocide-no-one-stopping/)
