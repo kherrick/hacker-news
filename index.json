@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-04-22, 02:15:38",
+      "https://news.ycombinator.com/item?id=47857964"
+    ],
+    [
+      "Kuri – Zig based agent-browser alternative",
+      "https://github.com/justrach/kuri"
+    ]
+  ],
+  [
+    [
       "2026-04-22, 01:25:04",
       "https://news.ycombinator.com/item?id=47857509"
     ],
@@ -21,31 +31,11 @@
   ],
   [
     [
-      "2026-04-22, 01:21:09",
-      "https://news.ycombinator.com/item?id=47857477"
-    ],
-    [
-      "San Diego rents declined following surge in supply",
-      "https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply"
-    ]
-  ],
-  [
-    [
-      "2026-04-22, 01:19:30",
-      "https://news.ycombinator.com/item?id=47857461"
-    ],
-    [
-      "I'm Sick of AI Everything",
-      "https://news.ycombinator.com/item?id=47857461"
-    ]
-  ],
-  [
-    [
       "2026-04-21, 23:53:45",
       "https://news.ycombinator.com/item?id=47856535"
     ],
     [
-      "Drunk Post: Things I've Learned as a Senior Engineer",
+      "Drunk post: Things I've learned as a senior engineer (2021)",
       "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as"
     ]
   ],
@@ -221,32 +211,32 @@
   ],
   [
     [
-      "2026-04-20, 05:30:06",
-      "https://news.ycombinator.com/item?id=47830687"
-    ],
-    [
-      "Fields Medal Video: Maryna Viazovska (2022)",
-      "https://www.simonsfoundation.org/2022/07/05/fields-medal-video-maryna-viazovska/"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 04:14:48",
-      "https://news.ycombinator.com/item?id=47830332"
-    ],
-    [
-      "Theseus, a Static Windows Emulator",
-      "https://neugierig.org/software/blog/2026/04/theseus.html"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 21:57:25",
       "https://news.ycombinator.com/item?id=47827991"
     ],
     [
-      "Hunting a 34 year old pointer bug in EtherSlip (DOS Networking)",
+      "Hunting a 34 year old pointer bug in EtherSlip",
       "https://www.brutman.com/Adventures_In_Code/EtherSlip_ARP/EtherSlip_ARP.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 19:10:21",
+      "https://news.ycombinator.com/item?id=47826768"
+    ],
+    [
+      "Clarus, Moofo, and Lackey",
+      "https://www.storybytes.com/view-moof/articles/mim.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 17:19:32",
+      "https://news.ycombinator.com/item?id=47825888"
+    ],
+    [
+      "Some secret management belongs in your HTTP proxy",
+      "https://blog.exe.dev/http-proxy-secrets"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2026-04-19, 04:41:59",
+      "https://news.ycombinator.com/item?id=47821853"
+    ],
+    [
+      "Garbage Collection Without Unsafe Code",
+      "https://fitzgen.com/2024/02/06/safe-gc.html"
+    ]
+  ],
+  [
+    [
       "2026-04-19, 04:28:31",
       "https://news.ycombinator.com/item?id=47821801"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-04-18, 14:45:41",
-      "https://news.ycombinator.com/item?id=47816333"
+      "2026-04-18, 22:08:48",
+      "https://news.ycombinator.com/item?id=47819939"
     ],
     [
-      "Optimizing Tail Sampling in OpenTelemetry with Retroactive Sampling",
-      "https://victoriametrics.com/blog/kubecon-eu-2026-sampling/index.html"
+      "20000 Gates and 20 MIPS [pdf]",
+      "https://bitsavers.org/pdf/amdahl/history/20000_Gates_and_20_MIPS_199011.pdf"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=47815462"
     ],
     [
-      "Running a Minecraft Server and More on a 1960s Univac Computer",
+      "Running a Minecraft Server and more on a 1960s UNIVAC Computer",
       "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer"
     ]
   ],
