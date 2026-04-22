@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-04-22](index.md)
 
+* [2026-04-22, 12:30:14](https://news.ycombinator.com/item?id=47862626) - [Columnar Storage Is Normalization](https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/)
+* [2026-04-22, 12:28:00](https://news.ycombinator.com/item?id=47862608) - [The eighth-generation TPU: An architecture deep dive](https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive)
+* [2026-04-22, 12:15:29](https://news.ycombinator.com/item?id=47862497) - [Our eighth generation TPUs: two chips for the agentic era](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/)
+* [2026-04-22, 12:04:30](https://news.ycombinator.com/item?id=47862386) - [3.4M Solar Panels](https://tech.marksblogg.com/american-solar-farms-v2.html)
+* [2026-04-22, 11:58:58](https://news.ycombinator.com/item?id=47862331) - [GitHub CLI now collects pseudoanonymous telemetry](https://cli.github.com/telemetry)
+* [2026-04-22, 11:48:07](https://news.ycombinator.com/item?id=47862230) - [Kernel code removals driven by LLM-created security reports](https://lwn.net/Articles/1068928/)
 * [2026-04-22, 11:10:49](https://news.ycombinator.com/item?id=47861881) - [Iran claims US exploited networking equipment backdoors during strikes](https://www.tomshardware.com/tech-industry/cyber-security/iran-claims-us-exploited-networking-equipment-backdoors-during-strikes)
+* [2026-04-22, 10:54:49](https://news.ycombinator.com/item?id=47861731) - [Nobody Got Fired for Uber's $8M Ledger Mistake?](https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million)
 * [2026-04-22, 10:51:09](https://news.ycombinator.com/item?id=47861703) - [CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes](https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/)
 * [2026-04-22, 09:52:52](https://news.ycombinator.com/item?id=47861270) - [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456)
 * [2026-04-22, 09:22:05](https://news.ycombinator.com/item?id=47861087) - [How the Heck Does GPS Work?](https://perthirtysix.com/how-the-heck-does-gps-work)

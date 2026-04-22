@@ -50,6 +50,7 @@
 * [2026-04-20, 13:40:28](https://news.ycombinator.com/item?id=47834184) - [Show HN: Saunas lower nighttime heart rate more than exercise (n=59,000)](https://tryterra.co/research/sauna-effect-on-heart-rate)
 * [2026-04-20, 13:36:11](https://news.ycombinator.com/item?id=47834134) - [AI chatbots could be making you stupider](https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider)
 * [2026-04-20, 13:27:23](https://news.ycombinator.com/item?id=47834025) - [U.S. banks may soon collect citizenship data from customers](https://www.cnbc.com/2026/04/15/banks-citizenship-data-collection-customer-accounts.html)
+* [2026-04-20, 12:58:55](https://news.ycombinator.com/item?id=47833651) - [I don't chain everything in JavaScript anymore](https://allthingssmitty.com/2026/04/20/why-i-dont-chain-everything-in-javascript-anymore/)
 * [2026-04-20, 12:51:20](https://news.ycombinator.com/item?id=47833558) - [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)
 * [2026-04-20, 12:23:39](https://news.ycombinator.com/item?id=47833247) - [Atlassian Enables Default Data Collection to Train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 * [2026-04-20, 12:12:19](https://news.ycombinator.com/item?id=47833156) - [Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)](https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html)

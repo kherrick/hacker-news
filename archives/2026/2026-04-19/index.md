@@ -61,6 +61,7 @@
 * [2026-04-19, 10:03:01](https://news.ycombinator.com/item?id=47823135) - [Tim Davis – Probabilistic engineering and the 24-7 employee](https://www.timdavis.com/blog/probabilistic-engineering-and-the-24-7-employee)
 * [2026-04-19, 09:50:44](https://news.ycombinator.com/item?id=47823080) - [Anatomy of High-Performance Matrix Multiplication (2008) [pdf]](https://www.cs.utexas.edu/~flame/pubs/GotoTOMS_revision.pdf)
 * [2026-04-19, 09:26:04](https://news.ycombinator.com/item?id=47822978) - [Edit store price tags using Flipper Zero](https://github.com/i12bp8/TagTinker)
+* [2026-04-19, 09:23:27](https://news.ycombinator.com/item?id=47822968) - [Why Musicians Are Manufacturing Sold-Out Shows](https://www.bloomberg.com/news/articles/2026-04-17/how-bands-like-cameron-winter-s-geese-are-manufacturing-sold-out-shows)
 * [2026-04-19, 09:17:12](https://news.ycombinator.com/item?id=47822940) - [Ask HN: How did you land your first projects as a solo engineer/consultant?](https://news.ycombinator.com/item?id=47822940)
 * [2026-04-19, 08:45:48](https://news.ycombinator.com/item?id=47822805) - [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
 * [2026-04-19, 08:34:10](https://news.ycombinator.com/item?id=47822742) - [The purist's guide to phở in Hanoi](https://connla.substack.com/p/pho-in-hanoi-a-purists-guide)
