@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-22](index.md)
 
+* [2026-04-22, 15:53:33](https://news.ycombinator.com/item?id=47865432) - [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x)
 * [2026-04-22, 14:49:02](https://news.ycombinator.com/item?id=47864454) - [DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser](https://duckdb.org/2026/04/13/announcing-duckdb-152)
 * [2026-04-22, 14:44:32](https://news.ycombinator.com/item?id=47864393) - [Show HN submissions tripled and are now mostly vibe-coded](https://www.adriankrebs.ch/blog/design-slop/)
 * [2026-04-22, 13:28:40](https://news.ycombinator.com/item?id=47863324) - [Treetops glowing during storms captured on film for first time](https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time)
+* [2026-04-22, 13:19:58](https://news.ycombinator.com/item?id=47863217) - [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)
 * [2026-04-22, 12:30:14](https://news.ycombinator.com/item?id=47862626) - [Columnar Storage Is Normalization](https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/)
 * [2026-04-22, 12:28:00](https://news.ycombinator.com/item?id=47862608) - [The eighth-generation TPU: An architecture deep dive](https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive)
 * [2026-04-22, 12:15:29](https://news.ycombinator.com/item?id=47862497) - [Our eighth generation TPUs: two chips for the agentic era](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/)
