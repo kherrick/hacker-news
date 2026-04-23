@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-23, 22:45:34](https://news.ycombinator.com/item?id=47883205) - [How tolls saved Britain from pothole hell in the Industrial Revolution](https://www.cam.ac.uk/stories/fixing-the-roads-turnpikes)
 * [2026-04-23, 22:37:01](https://news.ycombinator.com/item?id=47883108) - [U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market](https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0)
 * [2026-04-23, 22:01:59](https://news.ycombinator.com/item?id=47882697) - [Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria)
 * [2026-04-23, 20:53:27](https://news.ycombinator.com/item?id=47881786) - [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/)
@@ -22,7 +23,6 @@
 * [2026-04-23, 09:20:47](https://news.ycombinator.com/item?id=47873694) - [Writing a C Compiler, in Zig (2025)](https://ar-ms.me/thoughts/c-compiler-1-zig/)
 * [2026-04-23, 04:44:19](https://news.ycombinator.com/item?id=47872324) - [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
 * [2026-04-23, 01:59:08](https://news.ycombinator.com/item?id=47871519) - [Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image](https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/)
-* [2026-04-22, 20:27:31](https://news.ycombinator.com/item?id=47868867) - [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
 * [2026-04-22, 16:29:25](https://news.ycombinator.com/item?id=47865868) - [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
 * [2026-04-22, 16:25:28](https://news.ycombinator.com/item?id=47865822) - [Show HN: Agent Vault – Open-source credential proxy and vault for agents](https://github.com/Infisical/agent-vault)
 * [2026-04-21, 21:26:25](https://news.ycombinator.com/item?id=47854710) - [WireGuard for Windows Reaches v1.0](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009580.html)
