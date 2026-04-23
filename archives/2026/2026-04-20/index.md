@@ -33,6 +33,7 @@
 * [2026-04-20, 17:05:29](https://news.ycombinator.com/item?id=47837260) - [Colorado River disappeared record for 5M years: now we know where it was](https://phys.org/news/2026-04-colorado-river-geological-million-years.html)
 * [2026-04-20, 17:00:45](https://news.ycombinator.com/item?id=47837176) - [Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
 * [2026-04-20, 16:57:10](https://news.ycombinator.com/item?id=47837105) - [The Theory of Interstellar Trade [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf)
+* [2026-04-20, 16:41:19](https://news.ycombinator.com/item?id=47836859) - [Modern Board Games: and why you should play them (2022)](https://boardgamegeek.com/blog/10755/blogpost/124992/modern-board-games-and-why-you-should-play-them)
 * [2026-04-20, 16:37:48](https://news.ycombinator.com/item?id=47836784) - [Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys](https://words.filippo.io/128-bits/)
 * [2026-04-20, 16:35:05](https://news.ycombinator.com/item?id=47836740) - [Show HN: Ctx – a /resume that works across Claude Code and Codex](https://github.com/dchu917/ctx)
 * [2026-04-20, 16:34:25](https://news.ycombinator.com/item?id=47836730) - [We Accepted Surveillance as Default](https://vivianvoss.net/blog/why-we-accepted-surveillance)

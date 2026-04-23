@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-23](index.md)
 
+* [2026-04-23, 13:37:48](https://news.ycombinator.com/item?id=47875629) - [US Department of Justice has officially reclassified cannabis as less dangerous](https://www.bbc.com/news/articles/cdxd0xxp0jko)
+* [2026-04-23, 13:17:55](https://news.ycombinator.com/item?id=47875420) - [The end of responsive images](https://piccalil.li/blog/the-end-of-responsive-images/)
+* [2026-04-23, 12:16:16](https://news.ycombinator.com/item?id=47874854) - [Raylib v6.0](https://github.com/raysan5/raylib/releases/tag/6.0)
 * [2026-04-23, 12:12:03](https://news.ycombinator.com/item?id=47874814) - [Surveillance vendors caught abusing access to telcos to track people's locations](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/)
 * [2026-04-23, 12:02:44](https://news.ycombinator.com/item?id=47874734) - [Jiga (YC W21) Is Hiring](https://jiga.io/about-us/)
 * [2026-04-23, 11:53:11](https://news.ycombinator.com/item?id=47874647) - [Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite](https://github.com/russellromney/honker)

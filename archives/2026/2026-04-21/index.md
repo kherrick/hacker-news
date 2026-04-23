@@ -40,6 +40,7 @@
 * [2026-04-21, 13:23:17](https://news.ycombinator.com/item?id=47848470) - [A Vompeccc Case Study: Spotify as Pure ICR in Emacs](https://www.chiply.dev/post-vompeccc-spot)
 * [2026-04-21, 13:08:25](https://news.ycombinator.com/item?id=47848276) - [Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)
 * [2026-04-21, 13:02:00](https://news.ycombinator.com/item?id=47848195) - [Tindie store under \"scheduled maintenance\" for days](https://www.tindie.com/)
+* [2026-04-21, 12:59:59](https://news.ycombinator.com/item?id=47848162) - [A Renaissance gambling dispute spawned probability theory](https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/)
 * [2026-04-21, 12:36:50](https://news.ycombinator.com/item?id=47847928) - [The abandoned war: Why no one is stopping the genocide in Sudan](https://respublica.media/en/en-sudan-abandoned-war-genocide-no-one-stopping/)
 * [2026-04-21, 11:58:16](https://news.ycombinator.com/item?id=47847558) - [Show HN: VidStudio, a browser based video editor that doesn't upload your files](https://vidstudio.app/video-editor)
 * [2026-04-21, 11:30:03](https://news.ycombinator.com/item?id=47847324) - [Tim Cook's Impeccable Timing](https://stratechery.com/2026/tim-cooks-impeccable-timing/)
