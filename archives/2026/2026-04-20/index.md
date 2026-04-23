@@ -11,6 +11,7 @@
 * [2026-04-20, 21:20:52](https://news.ycombinator.com/item?id=47840980) - [OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\"](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
 * [2026-04-20, 21:13:49](https://news.ycombinator.com/item?id=47840851) - [Show HN: Docker Compose for VM's](https://github.com/zeroecco/holos)
 * [2026-04-20, 21:00:43](https://news.ycombinator.com/item?id=47840618) - [Who Killed the Florida Orange?](https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html)
+* [2026-04-20, 20:56:02](https://news.ycombinator.com/item?id=47840520) - [Isopods of the world](https://isopod.site/)
 * [2026-04-20, 20:42:05](https://news.ycombinator.com/item?id=47840252) - [Verus is a tool for verifying the correctness of code written in Rust](https://verus-lang.github.io/verus/guide/)
 * [2026-04-20, 20:39:32](https://news.ycombinator.com/item?id=47840219) - [Tim Cook to become Apple Executive Chairman](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
 * [2026-04-20, 20:35:54](https://news.ycombinator.com/item?id=47840165) - [Tim Cook Stepping Down](https://www.macrumors.com/2026/04/20/tim-cook-stepping-down/)
