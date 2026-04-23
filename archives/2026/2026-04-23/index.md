@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-23](index.md)
 
+* [2026-04-23, 22:37:01](https://news.ycombinator.com/item?id=47883108) - [U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market](https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0)
+* [2026-04-23, 22:01:59](https://news.ycombinator.com/item?id=47882697) - [Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria)
+* [2026-04-23, 20:53:27](https://news.ycombinator.com/item?id=47881786) - [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/)
 * [2026-04-23, 20:48:55](https://news.ycombinator.com/item?id=47881724) - [How the Tech World Turned Evil](https://newrepublic.com/article/208876/tech-world-evil-musk-bezos-thiel)
 * [2026-04-23, 20:14:29](https://news.ycombinator.com/item?id=47881198) - [Using the internet like it's 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
 * [2026-04-23, 19:43:08](https://news.ycombinator.com/item?id=47880697) - [Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge](https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a)
