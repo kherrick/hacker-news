@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-23, 20:14:29",
+      "https://news.ycombinator.com/item?id=47881198"
+    ],
+    [
+      "Using the internet like it's 1999",
+      "https://joshblais.com/blog/using-the-internet-like-its-1999/"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 19:43:08",
+      "https://news.ycombinator.com/item?id=47880697"
+    ],
+    [
+      "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
+      "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 19:09:40",
+      "https://news.ycombinator.com/item?id=47880189"
+    ],
+    [
+      "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
+      "https://www.bbc.com/news/articles/c9d4zgnqpqeo"
+    ]
+  ],
+  [
+    [
       "2026-04-23, 18:55:32",
       "https://news.ycombinator.com/item?id=47879986"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2026-04-23, 18:20:13",
-      "https://news.ycombinator.com/item?id=47879386"
+      "2026-04-23, 18:11:29",
+      "https://news.ycombinator.com/item?id=47879239"
     ],
     [
-      "Middle Eastern News Sites Are U.S. Government Propaganda Ops",
-      "https://theintercept.com/2026/04/20/pentagon-middle-eastern-news-propaganda-iran/"
+      "Astronomers Find the Edge of the Milky Way",
+      "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/"
     ]
   ],
   [
@@ -41,32 +71,12 @@
   ],
   [
     [
-      "2026-04-23, 17:36:23",
-      "https://news.ycombinator.com/item?id=47878737"
-    ],
-    [
-      "People Do Not Yearn for Automation",
-      "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation"
-    ]
-  ],
-  [
-    [
       "2026-04-23, 17:30:05",
       "https://news.ycombinator.com/item?id=47878633"
     ],
     [
       "Palantir employees are starting to wonder if they're the bad guys",
       "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 17:01:01",
-      "https://news.ycombinator.com/item?id=47878208"
-    ],
-    [
-      "'Hairdryer used to trick weather sensor' to win Polymarket bet",
-      "https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "https://socket.dev/blog/bitwarden-cli-compromised"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 13:17:55",
-      "https://news.ycombinator.com/item?id=47875420"
-    ],
-    [
-      "The end of responsive images",
-      "https://piccalil.li/blog/the-end-of-responsive-images/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-04-21, 21:26:25",
+      "https://news.ycombinator.com/item?id=47854710"
+    ],
+    [
+      "WireGuard for Windows Reaches v1.0",
+      "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009580.html"
+    ]
+  ],
+  [
+    [
       "2026-04-21, 14:50:40",
       "https://news.ycombinator.com/item?id=47849628"
     ],
@@ -287,16 +297,6 @@
     [
       "Isopods of the world",
       "https://isopod.site/"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 15:19:28",
-      "https://news.ycombinator.com/item?id=47824943"
-    ],
-    [
-      "5x5 Pixel font for tiny screens",
-      "https://maurycyz.com/projects/mcufont/"
     ]
   ]
 ]
