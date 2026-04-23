@@ -1,12 +1,72 @@
 [
   [
     [
+      "2026-04-23, 12:12:03",
+      "https://news.ycombinator.com/item?id=47874814"
+    ],
+    [
+      "Surveillance vendors caught abusing access to telcos to track people's locations",
+      "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 12:02:44",
+      "https://news.ycombinator.com/item?id=47874734"
+    ],
+    [
+      "Jiga (YC W21) Is Hiring",
+      "https://jiga.io/about-us/"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 11:53:11",
+      "https://news.ycombinator.com/item?id=47874647"
+    ],
+    [
+      "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+      "https://github.com/russellromney/honker"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 11:50:25",
+      "https://news.ycombinator.com/item?id=47874631"
+    ],
+    [
+      "Sneaky spam in conversational replies to blog posts",
+      "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 10:14:46",
+      "https://news.ycombinator.com/item?id=47873966"
+    ],
+    [
+      "Show HN: Built a daily game where you sort historical events chronologically",
+      "https://hisorty.app/"
+    ]
+  ],
+  [
+    [
       "2026-04-23, 09:20:47",
       "https://news.ycombinator.com/item?id=47873694"
     ],
     [
       "Writing a C Compiler, in Zig",
       "https://ar-ms.me/thoughts/c-compiler-1-zig/"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 08:10:09",
+      "https://news.ycombinator.com/item?id=47873323"
+    ],
+    [
+      "Email could have been X.400 times better",
+      "https://buttondown.com/blog/x400-vs-smtp-email"
     ]
   ],
   [
@@ -31,16 +91,6 @@
   ],
   [
     [
-      "2026-04-23, 04:40:31",
-      "https://news.ycombinator.com/item?id=47872306"
-    ],
-    [
-      "MacBook Neo and How the iPad Should Be",
-      "https://craigmod.com/essays/ipad_neo/"
-    ]
-  ],
-  [
-    [
       "2026-04-23, 01:59:08",
       "https://news.ycombinator.com/item?id=47871519"
     ],
@@ -51,42 +101,12 @@
   ],
   [
     [
-      "2026-04-23, 01:09:56",
-      "https://news.ycombinator.com/item?id=47871246"
-    ],
-    [
-      "Fundamental Theorem of Calculus",
-      "https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus/"
-    ]
-  ],
-  [
-    [
       "2026-04-23, 01:02:32",
       "https://news.ycombinator.com/item?id=47871195"
     ],
     [
       "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
       "https://tempest.homemade.systems"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 00:45:01",
-      "https://news.ycombinator.com/item?id=47871077"
-    ],
-    [
-      "OpenAI's response to the Axios developer tool compromise",
-      "https://openai.com/index/axios-developer-tool-compromise/"
-    ]
-  ],
-  [
-    [
-      "2026-04-22, 22:25:28",
-      "https://news.ycombinator.com/item?id=47870108"
-    ],
-    [
-      "Bring Your Agent to Teams",
-      "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-04-22, 14:44:32",
-      "https://news.ycombinator.com/item?id=47864393"
-    ],
-    [
-      "Scoring Show HN submissions for AI design patterns",
-      "https://www.adriankrebs.ch/blog/design-slop/"
-    ]
-  ],
-  [
-    [
       "2026-04-22, 13:28:40",
       "https://news.ycombinator.com/item?id=47863324"
     ],
@@ -197,6 +207,16 @@
     [
       "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
       "https://qwen.ai/blog?id=qwen3.6-27b"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 17:13:29",
+      "https://news.ycombinator.com/item?id=47851613"
+    ],
+    [
+      "Work with the Garage Door Up",
+      "https://notes.andymatuschak.org/Work_with_the_garage_door_up"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2026-04-20, 20:42:05",
-      "https://news.ycombinator.com/item?id=47840252"
-    ],
-    [
-      "Verus is a tool for verifying the correctness of code written in Rust",
-      "https://verus-lang.github.io/verus/guide/"
-    ]
-  ],
-  [
-    [
       "2026-04-20, 17:29:51",
       "https://news.ycombinator.com/item?id=47837698"
     ],
@@ -287,16 +297,6 @@
     [
       "5x5 Pixel font for tiny screens",
       "https://maurycyz.com/projects/mcufont/"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 11:53:32",
-      "https://news.ycombinator.com/item?id=47823655"
-    ],
-    [
-      "Plexus P/20 Emulator",
-      "https://spritetm.github.io/plexus_20_emu/"
     ]
   ]
 ]
