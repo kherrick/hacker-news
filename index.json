@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-23, 09:20:47",
+      "https://news.ycombinator.com/item?id=47873694"
+    ],
+    [
+      "Writing a C Compiler, in Zig",
+      "https://ar-ms.me/thoughts/c-compiler-1-zig/"
+    ]
+  ],
+  [
+    [
       "2026-04-23, 05:14:05",
       "https://news.ycombinator.com/item?id=47872452"
     ],
@@ -27,16 +37,6 @@
     [
       "MacBook Neo and How the iPad Should Be",
       "https://craigmod.com/essays/ipad_neo/"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 02:55:17",
-      "https://news.ycombinator.com/item?id=47871817"
-    ],
-    [
-      "Borrow-checking without type-checking",
-      "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-04-20, 17:29:51",
+      "https://news.ycombinator.com/item?id=47837698"
+    ],
+    [
+      "Highlights from Git 2.54",
+      "https://github.blog/open-source/git/highlights-from-git-2-54/"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 15:22:08",
       "https://news.ycombinator.com/item?id=47835647"
     ],
@@ -287,16 +297,6 @@
     [
       "Plexus P/20 Emulator",
       "https://spritetm.github.io/plexus_20_emu/"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 02:26:57",
-      "https://news.ycombinator.com/item?id=47812649"
-    ],
-    [
-      "Bodega cats of New York",
-      "https://bodegacatsofnewyork.com"
     ]
   ]
 ]
