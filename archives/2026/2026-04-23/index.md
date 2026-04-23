@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-23](index.md)
 
+* [2026-04-23, 17:48:38](https://news.ycombinator.com/item?id=47878905) - [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem)
+* [2026-04-23, 17:36:23](https://news.ycombinator.com/item?id=47878737) - [People Do Not Yearn for Automation](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation)
+* [2026-04-23, 17:30:05](https://news.ycombinator.com/item?id=47878633) - [Palantir Employees Are Starting to Wonder If They're the Bad Guys](https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/)
+* [2026-04-23, 17:01:01](https://news.ycombinator.com/item?id=47878208) - ['Hairdryer used to trick weather sensor' to win $34,000 Polymarket bet](https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/)
+* [2026-04-23, 16:55:13](https://news.ycombinator.com/item?id=47878117) - [MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split)
 * [2026-04-23, 16:21:55](https://news.ycombinator.com/item?id=47877644) - [Incident with Multple GitHub Services](https://www.githubstatus.com/incidents/myrbk7jvvs6p)
 * [2026-04-23, 16:05:30](https://news.ycombinator.com/item?id=47877429) - [If America's So Rich, How'd It Get So Sad?](https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so)
 * [2026-04-23, 15:59:55](https://news.ycombinator.com/item?id=47877366) - [France confirms data breach at government agency that manages citizens' IDs](https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/)
