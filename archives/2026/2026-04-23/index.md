@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-23](index.md)
 
+* [2026-04-23, 18:55:32](https://news.ycombinator.com/item?id=47879986) - [Meta to cut 10% of jobs, or 8k employees](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/)
+* [2026-04-23, 18:20:13](https://news.ycombinator.com/item?id=47879386) - [Middle Eastern News Sites Are U.S. Government Propaganda Ops](https://theintercept.com/2026/04/20/pentagon-middle-eastern-news-propaganda-iran/)
+* [2026-04-23, 18:01:39](https://news.ycombinator.com/item?id=47879092) - [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
 * [2026-04-23, 17:48:38](https://news.ycombinator.com/item?id=47878905) - [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem)
 * [2026-04-23, 17:36:23](https://news.ycombinator.com/item?id=47878737) - [People Do Not Yearn for Automation](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation)
 * [2026-04-23, 17:30:05](https://news.ycombinator.com/item?id=47878633) - [Palantir Employees Are Starting to Wonder If They're the Bad Guys](https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/)
@@ -11,11 +14,13 @@
 * [2026-04-23, 16:55:13](https://news.ycombinator.com/item?id=47878117) - [MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split)
 * [2026-04-23, 16:21:55](https://news.ycombinator.com/item?id=47877644) - [Incident with Multple GitHub Services](https://www.githubstatus.com/incidents/myrbk7jvvs6p)
 * [2026-04-23, 16:05:30](https://news.ycombinator.com/item?id=47877429) - [If America's So Rich, How'd It Get So Sad?](https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so)
+* [2026-04-23, 15:59:55](https://news.ycombinator.com/item?id=47877366) - [French government agency confirms breach as hacker offers to sell data](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/)
 * [2026-04-23, 15:59:55](https://news.ycombinator.com/item?id=47877366) - [France confirms data breach at government agency that manages citizens' IDs](https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/)
 * [2026-04-23, 15:08:54](https://news.ycombinator.com/item?id=47876647) - [To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets](https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force)
 * [2026-04-23, 14:17:08](https://news.ycombinator.com/item?id=47876043) - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://socket.dev/blog/bitwarden-cli-compromised)
 * [2026-04-23, 13:37:48](https://news.ycombinator.com/item?id=47875629) - [US Department of Justice has officially reclassified cannabis as less dangerous](https://www.bbc.com/news/articles/cdxd0xxp0jko)
 * [2026-04-23, 13:17:55](https://news.ycombinator.com/item?id=47875420) - [The end of responsive images](https://piccalil.li/blog/the-end-of-responsive-images/)
+* [2026-04-23, 12:37:18](https://news.ycombinator.com/item?id=47875025) - [I spent years trying to make CSS states predictable](https://tenphi.me/blog/why-i-spent-years-trying-to-make-css-states-predictable/)
 * [2026-04-23, 12:16:16](https://news.ycombinator.com/item?id=47874854) - [Raylib v6.0](https://github.com/raysan5/raylib/releases/tag/6.0)
 * [2026-04-23, 12:12:03](https://news.ycombinator.com/item?id=47874814) - [Surveillance vendors caught abusing access to telcos to track people's locations](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/)
 * [2026-04-23, 12:02:44](https://news.ycombinator.com/item?id=47874734) - [Jiga (YC W21) Is Hiring](https://jiga.io/about-us/)

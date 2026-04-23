@@ -31,6 +31,7 @@
 * [2026-04-21, 15:53:22](https://news.ycombinator.com/item?id=47850542) - [Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins](https://github.com/Yus314/kasane)
 * [2026-04-21, 15:29:16](https://news.ycombinator.com/item?id=47850212) - [CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production](https://www.brex.com/crabtrap)
 * [2026-04-21, 15:04:24](https://news.ycombinator.com/item?id=47849854) - [Original GrapheneOS responses to WIRED fact checker](https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker)
+* [2026-04-21, 14:50:40](https://news.ycombinator.com/item?id=47849628) - [Advanced Packaging Limits Come into Focus](https://semiengineering.com/advanced-packaging-limits-come-into-focus/)
 * [2026-04-21, 14:48:55](https://news.ycombinator.com/item?id=47849592) - [As Oceans Warm, Great White Sharks Are Overheating](https://e360.yale.edu/digest/great-white-sharks-climate)
 * [2026-04-21, 14:41:36](https://news.ycombinator.com/item?id=47849494) - [Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men](https://www.wired.com/story/ai-generated-maga-girls/)
 * [2026-04-21, 14:26:52](https://news.ycombinator.com/item?id=47849315) - [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
