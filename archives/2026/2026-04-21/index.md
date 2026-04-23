@@ -47,6 +47,7 @@
 * [2026-04-21, 10:57:53](https://news.ycombinator.com/item?id=47847124) - [Apple ignores DMA interoperability requests and contradicts own documentation](https://fsfe.org/news/2026/news-20260420-01.html)
 * [2026-04-21, 10:33:24](https://news.ycombinator.com/item?id=47846946) - [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph)
 * [2026-04-21, 10:19:49](https://news.ycombinator.com/item?id=47846861) - [Diverse organic molecules on Mars revealed by the first SAM TMAH experiment](https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/)
+* [2026-04-21, 09:55:49](https://news.ycombinator.com/item?id=47846718) - [A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?](https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/)
 * [2026-04-21, 06:58:08](https://news.ycombinator.com/item?id=47845429) - [Less human AI agents, please](https://nial.se/blog/less-human-ai-agents-please/)
 * [2026-04-21, 06:25:50](https://news.ycombinator.com/item?id=47845274) - [Using Changesets in a polyglot monorepo](https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/)
 * [2026-04-21, 06:19:15](https://news.ycombinator.com/item?id=47845231) - [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)
@@ -57,4 +58,5 @@
 * [2026-04-21, 04:12:12](https://news.ycombinator.com/item?id=47844431) - [A Roblox cheat and one AI tool brought down Vercel's platform](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
 * [2026-04-21, 03:43:03](https://news.ycombinator.com/item?id=47844269) - [Anthropic says OpenClaw-style Claude CLI usage is allowed again](https://docs.openclaw.ai/providers/anthropic)
 * [2026-04-21, 01:46:14](https://news.ycombinator.com/item?id=47843569) - [Prediction markets are breaking the news and becoming their own beat](https://www.niemanlab.org/2026/04/prediction-markets-are-breaking-the-news-and-becoming-their-own-beat/)
+* [2026-04-21, 01:23:23](https://news.ycombinator.com/item?id=47843434) - [The Onion to Take over InfoWars](https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html)
 * [2026-04-21, 00:48:07](https://news.ycombinator.com/item?id=47843194) - [How to Make a Fast Dynamic Language Interpreter](https://zef-lang.dev/implementation)
