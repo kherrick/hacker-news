@@ -24,6 +24,7 @@
 * [2026-04-21, 17:33:50](https://news.ycombinator.com/item?id=47851885) - [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
 * [2026-04-21, 17:14:35](https://news.ycombinator.com/item?id=47851634) - [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
 * [2026-04-21, 17:14:26](https://news.ycombinator.com/item?id=47851630) - [Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)](https://github.com/Arc1011/KernelUNO)
+* [2026-04-21, 17:13:29](https://news.ycombinator.com/item?id=47851613) - [Work with the Garage Door Up](https://notes.andymatuschak.org/Work_with_the_garage_door_up)
 * [2026-04-21, 17:01:15](https://news.ycombinator.com/item?id=47851456) - [Trellis AI (YC W24) Is hiring engineers to build self-improving agents](https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time)
 * [2026-04-21, 16:31:21](https://news.ycombinator.com/item?id=47851077) - [A Periodic Map of Cheese](https://cheesemap.netlify.app/)
 * [2026-04-21, 16:16:41](https://news.ycombinator.com/item?id=47850907) - [Show HN: Daemons – we pivoted from building agents to cleaning up after them](https://charlielabs.ai/)

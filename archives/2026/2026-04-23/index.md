@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-04-23](index.md)
 
+* [2026-04-23, 12:12:03](https://news.ycombinator.com/item?id=47874814) - [Surveillance vendors caught abusing access to telcos to track people's locations](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/)
+* [2026-04-23, 12:02:44](https://news.ycombinator.com/item?id=47874734) - [Jiga (YC W21) Is Hiring](https://jiga.io/about-us/)
+* [2026-04-23, 11:53:11](https://news.ycombinator.com/item?id=47874647) - [Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite](https://github.com/russellromney/honker)
+* [2026-04-23, 11:50:25](https://news.ycombinator.com/item?id=47874631) - [Sneaky spam in conversational replies to blog posts](https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/)
+* [2026-04-23, 10:14:46](https://news.ycombinator.com/item?id=47873966) - [Show HN: Built a daily game where you sort historical events chronologically](https://hisorty.app/)
 * [2026-04-23, 09:20:47](https://news.ycombinator.com/item?id=47873694) - [Writing a C Compiler, in Zig](https://ar-ms.me/thoughts/c-compiler-1-zig/)
+* [2026-04-23, 08:10:09](https://news.ycombinator.com/item?id=47873323) - [Email could have been X.400 times better](https://buttondown.com/blog/x400-vs-smtp-email)
 * [2026-04-23, 05:14:05](https://news.ycombinator.com/item?id=47872452) - [Ars Technica: Our newsroom AI policy](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
 * [2026-04-23, 04:44:19](https://news.ycombinator.com/item?id=47872324) - [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
 * [2026-04-23, 04:40:31](https://news.ycombinator.com/item?id=47872306) - [MacBook Neo and How the iPad Should Be](https://craigmod.com/essays/ipad_neo/)
