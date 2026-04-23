@@ -27,6 +27,7 @@
 * [2026-04-20, 18:24:05](https://news.ycombinator.com/item?id=47838508) - [Changes to GitHub Copilot individual plans](https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/)
 * [2026-04-20, 17:58:13](https://news.ycombinator.com/item?id=47838134) - [Anonymous credentials: an illustrated primer (Part 2)](https://blog.cryptographyengineering.com/2026/04/17/anonymous-credentials-an-illustrated-primer-part-2/)
 * [2026-04-20, 17:39:40](https://news.ycombinator.com/item?id=47837857) - [A History of Erasures Learning to Write Like Leylâ Erbil](https://thepointmag.com/criticism/a-history-of-erasures/)
+* [2026-04-20, 17:29:51](https://news.ycombinator.com/item?id=47837698) - [Highlights from Git 2.54](https://github.blog/open-source/git/highlights-from-git-2-54/)
 * [2026-04-20, 17:24:45](https://news.ycombinator.com/item?id=47837620) - [At Long Last, InfoWars Is Ours](https://theonion.info/)
 * [2026-04-20, 17:23:58](https://news.ycombinator.com/item?id=47837611) - [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/)
 * [2026-04-20, 17:05:29](https://news.ycombinator.com/item?id=47837260) - [Colorado River disappeared record for 5M years: now we know where it was](https://phys.org/news/2026-04-colorado-river-geological-million-years.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-23](index.md)
 
+* [2026-04-23, 09:20:47](https://news.ycombinator.com/item?id=47873694) - [Writing a C Compiler, in Zig](https://ar-ms.me/thoughts/c-compiler-1-zig/)
 * [2026-04-23, 05:14:05](https://news.ycombinator.com/item?id=47872452) - [Ars Technica: Our newsroom AI policy](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
 * [2026-04-23, 04:44:19](https://news.ycombinator.com/item?id=47872324) - [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
 * [2026-04-23, 04:40:31](https://news.ycombinator.com/item?id=47872306) - [MacBook Neo and How the iPad Should Be](https://craigmod.com/essays/ipad_neo/)
