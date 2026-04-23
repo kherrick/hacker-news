@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-23, 20:48:55](https://news.ycombinator.com/item?id=47881724) - [How the Tech World Turned Evil](https://newrepublic.com/article/208876/tech-world-evil-musk-bezos-thiel)
 * [2026-04-23, 20:14:29](https://news.ycombinator.com/item?id=47881198) - [Using the internet like it's 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
 * [2026-04-23, 19:09:40](https://news.ycombinator.com/item?id=47880189) - [Girl, 10, finds rare Mexican axolotl under Welsh bridge](https://www.bbc.com/news/articles/c9d4zgnqpqeo)
 * [2026-04-23, 18:55:32](https://news.ycombinator.com/item?id=47879986) - [Meta to cut 10% of jobs](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/)
+* [2026-04-23, 18:16:55](https://news.ycombinator.com/item?id=47879330) - [GPT-5.5: Mythos-Like Hacking, Open to All](https://xbow.com/blog/mythos-like-hacking-open-to-all)
 * [2026-04-23, 18:11:29](https://news.ycombinator.com/item?id=47879239) - [Astronomers find the edge of the Milky Way](https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/)
 * [2026-04-23, 18:01:39](https://news.ycombinator.com/item?id=47879092) - [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
 * [2026-04-23, 17:48:38](https://news.ycombinator.com/item?id=47878905) - [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem)
@@ -15,7 +17,6 @@
 * [2026-04-23, 14:17:08](https://news.ycombinator.com/item?id=47876043) - [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised)
 * [2026-04-23, 13:58:03](https://news.ycombinator.com/item?id=47875843) - [UK Biobank health data keeps ending up on GitHub](https://biobank.rocher.lc)
 * [2026-04-23, 12:37:18](https://news.ycombinator.com/item?id=47875025) - [I spent years trying to make CSS states predictable](https://tenphi.me/blog/why-i-spent-years-trying-to-make-css-states-predictable/)
-* [2026-04-23, 12:12:03](https://news.ycombinator.com/item?id=47874814) - [Investigation uncovers two sophisticated telecom surveillance campaigns](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/)
 * [2026-04-23, 12:02:44](https://news.ycombinator.com/item?id=47874734) - [Jiga (YC W21) Is Hiring](https://jiga.io/about-us/)
 * [2026-04-23, 11:53:11](https://news.ycombinator.com/item?id=47874647) - [Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite](https://github.com/russellromney/honker)
 * [2026-04-23, 09:20:47](https://news.ycombinator.com/item?id=47873694) - [Writing a C Compiler, in Zig (2025)](https://ar-ms.me/thoughts/c-compiler-1-zig/)
@@ -28,8 +29,7 @@
 * [2026-04-21, 14:50:40](https://news.ycombinator.com/item?id=47849628) - [Advanced Packaging Limits Come into Focus](https://semiengineering.com/advanced-packaging-limits-come-into-focus/)
 * [2026-04-21, 12:59:59](https://news.ycombinator.com/item?id=47848162) - [A Renaissance gambling dispute spawned probability theory](https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/)
 * [2026-04-21, 09:52:09](https://news.ycombinator.com/item?id=47846688) - [Your hex editor should color-code bytes](https://simonomi.dev/blog/color-code-your-bytes/)
-* [2026-04-21, 08:52:33](https://news.ycombinator.com/item?id=47846307) - [A DIY Watch You Can Actually Wear](https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682)
-* [2026-04-20, 20:56:02](https://news.ycombinator.com/item?id=47840520) - [Isopods of the world](https://isopod.site/)
+* [2026-04-21, 08:52:33](https://news.ycombinator.com/item?id=47846307) - [A programmable watch you can actually wear](https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682)
 
 ## [Archives](archives/index.md)
 
