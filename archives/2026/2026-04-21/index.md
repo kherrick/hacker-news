@@ -9,6 +9,7 @@
 * [2026-04-21, 22:36:24](https://news.ycombinator.com/item?id=47855565) - [Claude Code no longer included in Pro tier](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
 * [2026-04-21, 22:27:17](https://news.ycombinator.com/item?id=47855448) - [SpaceX Strikes Deal With Cursor for $60 Billion](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html)
 * [2026-04-21, 22:13:18](https://news.ycombinator.com/item?id=47855293) - [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
+* [2026-04-21, 21:26:25](https://news.ycombinator.com/item?id=47854710) - [WireGuard for Windows Reaches v1.0](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009580.html)
 * [2026-04-21, 21:03:04](https://news.ycombinator.com/item?id=47854477) - [Claude Code to be removed from Anthropic's Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
 * [2026-04-21, 21:03:04](https://news.ycombinator.com/item?id=47854477) - [Claude Code removed from Anthropic's Pro plan](https://claude.com/pricing)
 * [2026-04-21, 20:52:19](https://news.ycombinator.com/item?id=47854365) - [Another Day Has Come](https://daringfireball.net/2026/04/another_day_has_come)
