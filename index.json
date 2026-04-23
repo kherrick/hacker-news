@@ -1,11 +1,41 @@
 [
   [
     [
+      "2026-04-23, 13:37:48",
+      "https://news.ycombinator.com/item?id=47875629"
+    ],
+    [
+      "US Department of Justice has officially reclassified cannabis as less dangerous",
+      "https://www.bbc.com/news/articles/cdxd0xxp0jko"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 13:17:55",
+      "https://news.ycombinator.com/item?id=47875420"
+    ],
+    [
+      "The end of responsive images",
+      "https://piccalil.li/blog/the-end-of-responsive-images/"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 12:16:16",
+      "https://news.ycombinator.com/item?id=47874854"
+    ],
+    [
+      "Raylib v6.0",
+      "https://github.com/raysan5/raylib/releases/tag/6.0"
+    ]
+  ],
+  [
+    [
       "2026-04-23, 12:12:03",
       "https://news.ycombinator.com/item?id=47874814"
     ],
     [
-      "Surveillance vendors caught abusing access to telcos to track people's locations",
+      "Investigation uncovers two sophisticated telecom surveillance campaigns",
       "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/"
     ]
   ],
@@ -35,18 +65,8 @@
       "https://news.ycombinator.com/item?id=47874631"
     ],
     [
-      "Sneaky spam in conversational replies to blog posts",
+      "Spam in conversational replies to blog posts",
       "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 10:14:46",
-      "https://news.ycombinator.com/item?id=47873966"
-    ],
-    [
-      "Show HN: Built a daily game where you sort historical events chronologically",
-      "https://hisorty.app/"
     ]
   ],
   [
@@ -55,18 +75,8 @@
       "https://news.ycombinator.com/item?id=47873694"
     ],
     [
-      "Writing a C Compiler, in Zig",
+      "Writing a C Compiler, in Zig (2025)",
       "https://ar-ms.me/thoughts/c-compiler-1-zig/"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 08:10:09",
-      "https://news.ycombinator.com/item?id=47873323"
-    ],
-    [
-      "Email could have been X.400 times better",
-      "https://buttondown.com/blog/x400-vs-smtp-email"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
       "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 01:02:32",
-      "https://news.ycombinator.com/item?id=47871195"
-    ],
-    [
-      "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
-      "https://tempest.homemade.systems"
     ]
   ],
   [
@@ -191,32 +191,22 @@
   ],
   [
     [
-      "2026-04-22, 13:28:40",
-      "https://news.ycombinator.com/item?id=47863324"
-    ],
-    [
-      "Ultraviolet corona discharges on treetops during storms",
-      "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time"
-    ]
-  ],
-  [
-    [
-      "2026-04-22, 13:19:58",
-      "https://news.ycombinator.com/item?id=47863217"
-    ],
-    [
-      "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "https://qwen.ai/blog?id=qwen3.6-27b"
-    ]
-  ],
-  [
-    [
       "2026-04-21, 17:13:29",
       "https://news.ycombinator.com/item?id=47851613"
     ],
     [
-      "Work with the Garage Door Up",
+      "Work with the garage door up",
       "https://notes.andymatuschak.org/Work_with_the_garage_door_up"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 12:59:59",
+      "https://news.ycombinator.com/item?id=47848162"
+    ],
+    [
+      "A Renaissance gambling dispute spawned probability theory",
+      "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Highlights from Git 2.54",
       "https://github.blog/open-source/git/highlights-from-git-2-54/"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 16:41:19",
+      "https://news.ycombinator.com/item?id=47836859"
+    ],
+    [
+      "Modern Board Games: and why you should play them (2022)",
+      "https://boardgamegeek.com/blog/10755/blogpost/124992/modern-board-games-and-why-you-should-play-them"
     ]
   ],
   [
