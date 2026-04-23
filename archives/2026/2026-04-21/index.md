@@ -52,6 +52,7 @@
 * [2026-04-21, 10:19:49](https://news.ycombinator.com/item?id=47846861) - [Diverse organic molecules on Mars revealed by the first SAM TMAH experiment](https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/)
 * [2026-04-21, 09:55:49](https://news.ycombinator.com/item?id=47846718) - [A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?](https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/)
 * [2026-04-21, 09:52:09](https://news.ycombinator.com/item?id=47846688) - [Your hex editor should color-code bytes](https://simonomi.dev/blog/color-code-your-bytes/)
+* [2026-04-21, 08:52:33](https://news.ycombinator.com/item?id=47846307) - [A DIY Watch You Can Actually Wear](https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682)
 * [2026-04-21, 06:58:08](https://news.ycombinator.com/item?id=47845429) - [Less human AI agents, please](https://nial.se/blog/less-human-ai-agents-please/)
 * [2026-04-21, 06:25:50](https://news.ycombinator.com/item?id=47845274) - [Using Changesets in a polyglot monorepo](https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/)
 * [2026-04-21, 06:19:15](https://news.ycombinator.com/item?id=47845231) - [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)
