@@ -44,6 +44,7 @@
 * [2026-04-21, 11:30:03](https://news.ycombinator.com/item?id=47847324) - [Tim Cook's Impeccable Timing](https://stratechery.com/2026/tim-cooks-impeccable-timing/)
 * [2026-04-21, 11:15:34](https://news.ycombinator.com/item?id=47847240) - [Smoking ban for people born after 2008 in the UK agreed](https://www.bbc.co.uk/news/articles/cn08jy6w0l5o)
 * [2026-04-21, 11:04:56](https://news.ycombinator.com/item?id=47847179) - [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
+* [2026-04-21, 11:01:37](https://news.ycombinator.com/item?id=47847153) - [An amateur historian's favorite books about the Silk Road](https://bookdna.com/best-books/silk-road)
 * [2026-04-21, 10:57:53](https://news.ycombinator.com/item?id=47847124) - [Apple ignores DMA interoperability requests and contradicts own documentation](https://fsfe.org/news/2026/news-20260420-01.html)
 * [2026-04-21, 10:33:24](https://news.ycombinator.com/item?id=47846946) - [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph)
 * [2026-04-21, 10:19:49](https://news.ycombinator.com/item?id=47846861) - [Diverse organic molecules on Mars revealed by the first SAM TMAH experiment](https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/)
