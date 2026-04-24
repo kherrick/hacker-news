@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-04-24, 09:17:57",
+      "https://news.ycombinator.com/item?id=47887683"
+    ],
+    [
+      "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+      "https://www.bbc.com/news/articles/c4gx1n0dl9no"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 08:28:47",
+      "https://news.ycombinator.com/item?id=47887334"
+    ],
+    [
+      "Spinel: Ruby AOT Native Compiler",
+      "https://github.com/matz/spinel"
+    ]
+  ],
+  [
+    [
       "2026-04-24, 07:22:31",
       "https://news.ycombinator.com/item?id=47886773"
     ],
     [
       "Composition Shouldn't be this Hard",
       "https://www.cambra.dev/blog/announcement/"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 06:48:53",
+      "https://news.ycombinator.com/item?id=47886517"
+    ],
+    [
+      "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
+      "https://ynarwal.github.io/how-llms-work/"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-04-23, 15:59:55",
-      "https://news.ycombinator.com/item?id=47877366"
-    ],
-    [
-      "French government agency confirms breach as hacker offers to sell data",
-      "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/"
-    ]
-  ],
-  [
-    [
       "2026-04-23, 14:17:08",
       "https://news.ycombinator.com/item?id=47876043"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2026-04-23, 04:44:19",
-      "https://news.ycombinator.com/item?id=47872324"
-    ],
-    [
-      "I am building a cloud",
-      "https://crawshaw.io/blog/building-a-cloud"
-    ]
-  ],
-  [
-    [
       "2026-04-22, 16:29:25",
       "https://news.ycombinator.com/item?id=47865868"
     ],
@@ -267,16 +277,6 @@
     [
       "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
       "https://github.com/Infisical/agent-vault"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 09:52:09",
-      "https://news.ycombinator.com/item?id=47846688"
-    ],
-    [
-      "Your hex editor should color-code bytes",
-      "https://simonomi.dev/blog/color-code-your-bytes/"
     ]
   ],
   [
