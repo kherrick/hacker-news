@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-24](index.md)
 
+* [2026-04-24, 19:30:46](https://news.ycombinator.com/item?id=47894747) - [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
+* [2026-04-24, 19:01:09](https://news.ycombinator.com/item?id=47894435) - [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/)
 * [2026-04-24, 18:29:53](https://news.ycombinator.com/item?id=47894081) - [SFO Quiet Airport (2025)](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
 * [2026-04-24, 18:23:32](https://news.ycombinator.com/item?id=47894000) - [OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)
 * [2026-04-24, 17:53:37](https://news.ycombinator.com/item?id=47893620) - [CC-Canary: Detect early signs of regressions in Claude Code](https://github.com/delta-hq/cc-canary)
