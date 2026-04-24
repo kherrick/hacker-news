@@ -4,9 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-04-24](index.md)
 
+* [2026-04-24, 18:29:53](https://news.ycombinator.com/item?id=47894081) - [SFO Quiet Airport (2025)](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
+* [2026-04-24, 18:23:32](https://news.ycombinator.com/item?id=47894000) - [OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)
+* [2026-04-24, 17:53:37](https://news.ycombinator.com/item?id=47893620) - [CC-Canary: Detect early signs of regressions in Claude Code](https://github.com/delta-hq/cc-canary)
+* [2026-04-24, 17:39:37](https://news.ycombinator.com/item?id=47893427) - [CSS as a Query Language](https://evdc.me/blog/css-query)
+* [2026-04-24, 17:11:24](https://news.ycombinator.com/item?id=47893060) - [Tariffs Raised Consumers' Prices, but the Refunds Go Only to Businesses](https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html)
 * [2026-04-24, 16:51:46](https://news.ycombinator.com/item?id=47892765) - [Tesla (TSLA) discloses $2B AI hardware company acquisition buried](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/)
+* [2026-04-24, 16:45:10](https://news.ycombinator.com/item?id=47892660) - [Redesigning the Recurse Center application to inspire curious programmers](https://www.recurse.com/blog/192-redesigning-the-recurse-center-application)
 * [2026-04-24, 16:20:15](https://news.ycombinator.com/item?id=47892291) - [SDL Now Supports DOS](https://github.com/libsdl-org/SDL/pull/15377)
+* [2026-04-24, 16:16:49](https://news.ycombinator.com/item?id=47892236) - [Diatec, known for its mechanical keyboard brand FILCO, has ceased operations](https://gigazine.net/gsc_news/en/20260424-filco-diatec/)
 * [2026-04-24, 15:59:19](https://news.ycombinator.com/item?id=47892019) - [I Cancelled Claude: Token Issues, Declining Quality, and Poor Support](https://nickyreinert.de/en/2026/2026-04-24-claude-critics/)
+* [2026-04-24, 15:48:16](https://news.ycombinator.com/item?id=47891872) - [Refuse to let your doctor record you](https://buttondown.com/maiht3k/archive/why-you-should-refuse-to-let-your-doctor-record/)
 * [2026-04-24, 15:44:03](https://news.ycombinator.com/item?id=47891801) - [Why I'm Done Making Desktop Applications (2009)](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
 * [2026-04-24, 14:45:10](https://news.ycombinator.com/item?id=47891019) - [Norway Set to Become Latest Country to Ban Social Media for Under 16s](https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s)
 * [2026-04-24, 14:34:23](https://news.ycombinator.com/item?id=47890873) - [Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817)
