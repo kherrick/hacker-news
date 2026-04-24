@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-04-24, 11:09:36",
+      "https://news.ycombinator.com/item?id=47888557"
+    ],
+    [
+      "UK Biobank leak: Health details of 500 000 people are offered for sale",
+      "https://www.bmj.com/content/393/bmj.s781"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 10:58:45",
+      "https://news.ycombinator.com/item?id=47888465"
+    ],
+    [
+      "Hear your agent suffer through your code",
+      "https://github.com/AndrewVos/endless-toil"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 10:48:14",
+      "https://news.ycombinator.com/item?id=47888372"
+    ],
+    [
+      "How to be anti-social – a guide to incoherent and isolating social experiences",
+      "https://nate.leaflet.pub/3mk4xkaxobc2p"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 10:44:09",
+      "https://news.ycombinator.com/item?id=47888337"
+    ],
+    [
+      "nowhere: an entire website encoded in a URL",
+      "https://hostednowhere.com/"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 10:13:26",
+      "https://news.ycombinator.com/item?id=47888124"
+    ],
+    [
+      "Mounting tar archives as a filesystem in WebAssembly",
+      "https://jeroen.github.io/notes/webassembly-tar/"
+    ]
+  ],
+  [
+    [
       "2026-04-24, 09:17:57",
       "https://news.ycombinator.com/item?id=47887683"
     ],
@@ -51,32 +101,12 @@
   ],
   [
     [
-      "2026-04-24, 05:01:10",
-      "https://news.ycombinator.com/item?id=47885739"
-    ],
-    [
-      "Why Not Venus?",
-      "https://mceglowski.substack.com/p/why-not-venus"
-    ]
-  ],
-  [
-    [
       "2026-04-24, 04:48:54",
       "https://news.ycombinator.com/item?id=47885668"
     ],
     [
       "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
       "https://felixbarbalet.com/familiarity-is-the-enemy/"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 04:38:37",
-      "https://news.ycombinator.com/item?id=47885596"
-    ],
-    [
-      "Ubuntu 26.04",
-      "https://lwn.net/Articles/1069399/"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2026-04-23, 16:21:55",
-      "https://news.ycombinator.com/item?id=47877644"
-    ],
-    [
-      "Incident with multple GitHub services",
-      "https://www.githubstatus.com/incidents/myrbk7jvvs6p"
-    ]
-  ],
-  [
-    [
       "2026-04-23, 14:17:08",
       "https://news.ycombinator.com/item?id=47876043"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2026-04-23, 09:20:47",
-      "https://news.ycombinator.com/item?id=47873694"
-    ],
-    [
-      "Writing a C Compiler, in Zig (2025)",
-      "https://ar-ms.me/thoughts/c-compiler-1-zig/"
-    ]
-  ],
-  [
-    [
       "2026-04-22, 16:29:25",
       "https://news.ycombinator.com/item?id=47865868"
     ],
@@ -287,16 +297,6 @@
     [
       "A programmable watch you can actually wear",
       "https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 03:17:10",
-      "https://news.ycombinator.com/item?id=47844085"
-    ],
-    [
-      "Used La Marzocco machines are coveted by cafe owners and collectors",
-      "https://www.nytimes.com/2026/04/20/dining/la-marzocco-espresso-machine.html"
     ]
   ]
 ]
