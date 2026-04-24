@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-04-24](index.md)
 
+* [2026-04-24, 16:51:46](https://news.ycombinator.com/item?id=47892765) - [Tesla (TSLA) discloses $2B AI hardware company acquisition buried](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/)
+* [2026-04-24, 16:20:15](https://news.ycombinator.com/item?id=47892291) - [SDL Now Supports DOS](https://github.com/libsdl-org/SDL/pull/15377)
+* [2026-04-24, 15:59:19](https://news.ycombinator.com/item?id=47892019) - [I Cancelled Claude: Token Issues, Declining Quality, and Poor Support](https://nickyreinert.de/en/2026/2026-04-24-claude-critics/)
+* [2026-04-24, 15:44:03](https://news.ycombinator.com/item?id=47891801) - [Why I'm Done Making Desktop Applications (2009)](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
 * [2026-04-24, 14:45:10](https://news.ycombinator.com/item?id=47891019) - [Norway Set to Become Latest Country to Ban Social Media for Under 16s](https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s)
 * [2026-04-24, 14:34:23](https://news.ycombinator.com/item?id=47890873) - [Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817)
+* [2026-04-24, 14:31:38](https://news.ycombinator.com/item?id=47890841) - [Show HN: Browser Harness – Gives LLM freedom to complete any browser task](https://github.com/browser-use/browser-harness)
 * [2026-04-24, 14:28:52](https://news.ycombinator.com/item?id=47890799) - [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
+* [2026-04-24, 14:01:43](https://news.ycombinator.com/item?id=47890456) - [Machine Learning Reveals Unknown Transient Phenomena in Historic Images](https://arxiv.org/abs/2604.18799)
 * [2026-04-24, 13:54:53](https://news.ycombinator.com/item?id=47890365) - [Linux 7.1 Removes Drivers for Bus Mouse Support](https://www.phoronix.com/news/Linux-7.1-Input)
 * [2026-04-24, 13:50:15](https://news.ycombinator.com/item?id=47890302) - [Affirm Retooled for Agentic Software Development in One Week](https://medium.com/@affirmtechnology/how-affirm-retooled-its-engineering-organization-for-agentic-software-development-in-one-week-1fd35268fde6)
 * [2026-04-24, 13:36:42](https://news.ycombinator.com/item?id=47890094) - [The pope moves to police AI](https://www.axios.com/2026/04/24/catholics-pope-vatican-artificial-intelligence)
@@ -18,6 +24,7 @@
 * [2026-04-24, 11:27:14](https://news.ycombinator.com/item?id=47888694) - [8087 Emulation on 8086 Systems](https://www.os2museum.com/wp/learn-something-old-every-day-part-xx-8087-emulation-on-8086-systems/)
 * [2026-04-24, 11:09:36](https://news.ycombinator.com/item?id=47888557) - [UK Biobank leak: Health details of 500 000 people are offered for sale](https://www.bmj.com/content/393/bmj.s781)
 * [2026-04-24, 10:58:45](https://news.ycombinator.com/item?id=47888465) - [Hear your agent suffer through your code](https://github.com/AndrewVos/endless-toil)
+* [2026-04-24, 10:54:26](https://news.ycombinator.com/item?id=47888423) - [Show HN: leaf – a terminal Markdown previewer with a GUI-like experience](https://github.com/RivoLink/leaf)
 * [2026-04-24, 10:48:14](https://news.ycombinator.com/item?id=47888372) - [How to be anti-social – a guide to incoherent and isolating social experiences](https://nate.leaflet.pub/3mk4xkaxobc2p)
 * [2026-04-24, 10:44:09](https://news.ycombinator.com/item?id=47888337) - [nowhere: an entire website encoded in a URL](https://hostednowhere.com/)
 * [2026-04-24, 10:13:26](https://news.ycombinator.com/item?id=47888124) - [Mounting tar archives as a filesystem in WebAssembly](https://jeroen.github.io/notes/webassembly-tar/)
@@ -34,3 +41,4 @@
 * [2026-04-24, 03:07:54](https://news.ycombinator.com/item?id=47885014) - [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)
 * [2026-04-24, 03:01:21](https://news.ycombinator.com/item?id=47884971) - [DeepSeek v4](https://api-docs.deepseek.com/)
 * [2026-04-24, 02:26:23](https://news.ycombinator.com/item?id=47884768) - [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
+* [2026-04-24, 00:57:05](https://news.ycombinator.com/item?id=47884225) - [Physicists revive 1990s laser concept to propose a next-generation atomic clock](https://phys.org/news/2026-04-physicists-revive-1990s-laser-concept.html)
