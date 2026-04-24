@@ -1,12 +1,72 @@
 [
   [
     [
+      "2026-04-24, 18:29:53",
+      "https://news.ycombinator.com/item?id=47894081"
+    ],
+    [
+      "SFO Quiet Airport (2025)",
+      "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 18:23:32",
+      "https://news.ycombinator.com/item?id=47894000"
+    ],
+    [
+      "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+      "https://developers.openai.com/api/docs/changelog"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 17:53:37",
+      "https://news.ycombinator.com/item?id=47893620"
+    ],
+    [
+      "CC-Canary: Detect early signs of regressions in Claude Code",
+      "https://github.com/delta-hq/cc-canary"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 17:39:37",
+      "https://news.ycombinator.com/item?id=47893427"
+    ],
+    [
+      "CSS as a Query Language",
+      "https://evdc.me/blog/css-query"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 17:11:24",
+      "https://news.ycombinator.com/item?id=47893060"
+    ],
+    [
+      "Tariffs Raised Consumers' Prices, but the Refunds Go Only to Businesses",
+      "https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html"
+    ]
+  ],
+  [
+    [
       "2026-04-24, 16:51:46",
       "https://news.ycombinator.com/item?id=47892765"
     ],
     [
       "Tesla (TSLA) discloses $2B AI hardware company acquisition buried",
       "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 16:45:10",
+      "https://news.ycombinator.com/item?id=47892660"
+    ],
+    [
+      "Redesigning the Recurse Center application to inspire curious programmers",
+      "https://www.recurse.com/blog/192-redesigning-the-recurse-center-application"
     ]
   ],
   [
@@ -21,12 +81,32 @@
   ],
   [
     [
+      "2026-04-24, 16:16:49",
+      "https://news.ycombinator.com/item?id=47892236"
+    ],
+    [
+      "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
+      "https://gigazine.net/gsc_news/en/20260424-filco-diatec/"
+    ]
+  ],
+  [
+    [
       "2026-04-24, 15:59:19",
       "https://news.ycombinator.com/item?id=47892019"
     ],
     [
       "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
       "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 15:48:16",
+      "https://news.ycombinator.com/item?id=47891872"
+    ],
+    [
+      "Refuse to let your doctor record you",
+      "https://buttondown.com/maiht3k/archive/why-you-should-refuse-to-let-your-doctor-record/"
     ]
   ],
   [
@@ -101,26 +181,6 @@
   ],
   [
     [
-      "2026-04-24, 12:07:30",
-      "https://news.ycombinator.com/item?id=47889110"
-    ],
-    [
-      "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
-      "https://atomicapp.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 11:58:39",
-      "https://news.ycombinator.com/item?id=47889030"
-    ],
-    [
-      "Aspartame is not that bad? (2022)",
-      "https://dynomight.net/aspartame/"
-    ]
-  ],
-  [
-    [
       "2026-04-24, 11:27:14",
       "https://news.ycombinator.com/item?id=47888694"
     ],
@@ -161,42 +221,12 @@
   ],
   [
     [
-      "2026-04-24, 09:17:57",
-      "https://news.ycombinator.com/item?id=47887683"
-    ],
-    [
-      "South Korea police arrest man for posting AI photo of runaway wolf",
-      "https://www.bbc.com/news/articles/c4gx1n0dl9no"
-    ]
-  ],
-  [
-    [
       "2026-04-24, 08:28:47",
       "https://news.ycombinator.com/item?id=47887334"
     ],
     [
       "Spinel: Ruby AOT Native Compiler",
       "https://github.com/matz/spinel"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 07:22:31",
-      "https://news.ycombinator.com/item?id=47886773"
-    ],
-    [
-      "Composition shouldn't be this hard",
-      "https://www.cambra.dev/blog/announcement/"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 06:16:47",
-      "https://news.ycombinator.com/item?id=47886272"
-    ],
-    [
-      "Show HN: Gova – The declarative GUI framework for Go",
-      "https://github.com/NV404/gova"
     ]
   ],
   [
@@ -241,26 +271,6 @@
   ],
   [
     [
-      "2026-04-23, 20:14:29",
-      "https://news.ycombinator.com/item?id=47881198"
-    ],
-    [
-      "Using the internet like it's 1999",
-      "https://joshblais.com/blog/using-the-internet-like-its-1999/"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 18:55:32",
-      "https://news.ycombinator.com/item?id=47879986"
-    ],
-    [
-      "Meta tells staff it will cut 10% of jobs",
-      "https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency"
-    ]
-  ],
-  [
-    [
       "2026-04-23, 18:01:39",
       "https://news.ycombinator.com/item?id=47879092"
     ],
@@ -277,16 +287,6 @@
     [
       "An update on recent Claude Code quality reports",
       "https://www.anthropic.com/engineering/april-23-postmortem"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 16:55:13",
-      "https://news.ycombinator.com/item?id=47878117"
-    ],
-    [
-      "MeshCore development team splits over trademark dispute and AI-generated code",
-      "https://blog.meshcore.io/2026/04/23/the-split"
     ]
   ],
   [
