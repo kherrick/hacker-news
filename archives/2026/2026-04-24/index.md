@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-04-24](index.md)
 
+* [2026-04-24, 20:00:30](https://news.ycombinator.com/item?id=47895080) - [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
 * [2026-04-24, 19:30:46](https://news.ycombinator.com/item?id=47894747) - [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
+* [2026-04-24, 19:28:32](https://news.ycombinator.com/item?id=47894734) - [TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment](https://gdm-tipsv2.github.io/)
+* [2026-04-24, 19:25:15](https://news.ycombinator.com/item?id=47894690) - [Could a Claude Code routine watch my finances?](https://driggsby.com/blog/claude-code-routine-watch-my-finances)
 * [2026-04-24, 19:01:09](https://news.ycombinator.com/item?id=47894435) - [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/)
 * [2026-04-24, 18:29:53](https://news.ycombinator.com/item?id=47894081) - [SFO Quiet Airport (2025)](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
 * [2026-04-24, 18:23:32](https://news.ycombinator.com/item?id=47894000) - [OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)
+* [2026-04-24, 18:06:05](https://news.ycombinator.com/item?id=47893779) - [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
 * [2026-04-24, 17:53:37](https://news.ycombinator.com/item?id=47893620) - [CC-Canary: Detect early signs of regressions in Claude Code](https://github.com/delta-hq/cc-canary)
 * [2026-04-24, 17:39:37](https://news.ycombinator.com/item?id=47893427) - [CSS as a Query Language](https://evdc.me/blog/css-query)
 * [2026-04-24, 17:11:24](https://news.ycombinator.com/item?id=47893060) - [Tariffs Raised Consumers' Prices, but the Refunds Go Only to Businesses](https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html)
