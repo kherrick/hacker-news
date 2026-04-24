@@ -129,6 +129,90 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47892765">
+          <h3>
+            <a
+              class="item"
+              href="https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/"
+              >Tesla (TSLA) discloses $2B AI hardware company acquisition
+              buried</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-24 @ 16:51:46</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47892765"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47892291">
+          <h3>
+            <a class="item" href="https://github.com/libsdl-org/SDL/pull/15377"
+              >SDL Now Supports DOS</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-24 @ 16:20:15</span
+              ><span class="points-container"
+                >Points: <span class="points">68</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47892291"
+                  >Comments</a
+                ><span class="descendants">: 28</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47892019">
+          <h3>
+            <a
+              class="item"
+              href="https://nickyreinert.de/en/2026/2026-04-24-claude-critics/"
+              >I Cancelled Claude: Token Issues, Declining Quality, and Poor
+              Support</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-24 @ 15:59:19</span
+              ><span class="points-container"
+                >Points: <span class="points">317</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47892019"
+                  >Comments</a
+                ><span class="descendants">: 165</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47891801">
+          <h3>
+            <a
+              class="item"
+              href="https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/"
+              >Why I'm Done Making Desktop Applications (2009)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-24 @ 15:44:03</span
+              ><span class="points-container"
+                >Points: <span class="points">76</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47891801"
+                  >Comments</a
+                ><span class="descendants">: 60</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47891019">
           <h3>
             <a
@@ -142,11 +226,11 @@
             <h4>
               <span>2026-04-24 @ 14:45:10</span
               ><span class="points-container"
-                >Points: <span class="points">200</span></span
+                >Points: <span class="points">263</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47891019"
                   >Comments</a
-                ><span class="descendants">: 160</span></span
+                ><span class="descendants">: 219</span></span
               >
             </h4>
           </section>
@@ -161,13 +245,131 @@
             <h4>
               <span>2026-04-24 @ 14:34:23</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47890873"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="47890841">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/browser-use/browser-harness"
+              >Show HN: Browser Harness – Gives LLM freedom to complete any
+              browser task</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-24 @ 14:31:38</span
+              ><span class="points-container"
+                >Points: <span class="points">28</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47890841"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We got tired of browser frameworks restricting the LLM, so we
+                removed the framework and gave the LLM maximum freedom to do
+                whatever it's trained on. We gave the harness the ability to
+                self correct and add new tools if the LLM wants (is pre-trained
+                on) that.
+              </p>
+              <p>
+                Our Browser Use library is tens of thousands of lines of
+                deterministic heuristics wrapping Chrome (CDP websocket).
+                Element extractors, click helpers, target managemenet (SUPER
+                painful), watchdogs (crash handling, file downloads, alerts),
+                cross origin iframes (if you want to click on an element you
+                have to switch the target first, very anoying), etc.
+              </p>
+              <p>
+                Watchdogs specifically are extremely painful but required. If
+                Chrome triggers for example a native file popup the agent is
+                just completely stuck. So the two solutions are to: 1. code
+                those heuristics and edge cases away 1 by 1 and prevent them 2.
+                give LLM a tool to handle the edge case
+              </p>
+              <p>
+                As you can imagine - there are crazy amounts of heuristics like
+                this so you eventually end up with A LOT of tools if you try to
+                go for #2. So you have to make compromises and just code those
+                heuristics away.
+              </p>
+              <p>
+                BUT if the LLM just "knows" CDP well enough to switch the
+                targets when it encounters a cross origin iframe, dismiss the
+                alert when it appears, write its own click helpers, or upload
+                function, you suddenly don't have to worry about any of those
+                edge cases.
+              </p>
+              <p>
+                Turns out LLMs know CDP pretty well these days. So we bitter
+                pilled the harness. The concepts that should survive are: -
+                something that holds and keeps CDP websocket alive (deamon) -
+                extremely basic tools (helpers.py) - skill.md that explains how
+                to use it
+              </p>
+              <p>
+                The new paradigm? SKILL.md + a few python helpers that need to
+                have the ability to change on the fly.
+              </p>
+              <p>
+                One cool example: We forgot to implement upload_file function.
+                Then mid-task the agent wants to upload a file so it grepped
+                helpers.py, saw nothing, wrote the function itself using raw
+                DOM.setFileInputFiles (which we only noticed that later in a git
+                diff). This was a relly magical moment of how powerful LLMs have
+                become.
+              </p>
+              <p>
+                Compared to other approaches (Playwright MCP, browser use CLI,
+                agent-browser, chrome devtools MCP): all of them wrap Chrome in
+                a set of predefined functions for the LLM. The worst failure
+                mode is silent. The LLM's click() returns fine so the LLM thinks
+                it clicked, but on this particular site nothing actually
+                happened. It moves on with a broken model of the world. Browser
+                Harness gives the LLM maximum freedom and perfect context for
+                HOW the tools actually work.
+              </p>
+              <p>
+                Here are a few crazy examples of what browser harness can do: -
+                plays stockfish
+                <a href="https://x.com/shawn_pana/status/2046457374467379347"
+                  >https://x.com/shawn_pana/status/2046457374467379347</a
+                >
+                - sets a world record in tetris
+                <a href="https://x.com/shawn_pana/status/2047120626994012442"
+                  >https://x.com/shawn_pana/status/2047120626994012442</a
+                >
+                - figures out how to draw a heart with js
+                <a
+                  href="https://x.com/mamagnus00/status/2046486159992480198?s=20"
+                  >https://x.com/mamagnus00/status/2046486159992480198?s=20</a
+                >
+              </p>
+              <p>
+                You can super easily install it by telling claude code: `Set up
+                <a href="https://github.com/browser-use/browser-harness"
+                  >https://github.com/browser-use/browser-harness</a
+                >
+                for me.`
+              </p>
+              <p>
+                Repo:
+                <a href="https://github.com/browser-use/browser-harness"
+                  >https://github.com/browser-use/browser-harness</a
+                >
+              </p>
+              <p>What would you call this new paradigm? A dialect?</p>
+            </div>
           </section>
         </section>
         <section id="47890799">
@@ -183,51 +385,31 @@
             <h4>
               <span>2026-04-24 @ 14:28:52</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47890799"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47890365">
+        <section id="47890456">
           <h3>
-            <a class="item" href="https://www.phoronix.com/news/Linux-7.1-Input"
-              >Linux 7.1 Removes Drivers for Bus Mouse Support</a
+            <a class="item" href="https://arxiv.org/abs/2604.18799"
+              >Machine Learning Reveals Unknown Transient Phenomena in Historic
+              Images</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-04-24 @ 13:54:53</span
+              <span>2026-04-24 @ 14:01:43</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47890365"
+                ><a href="https://news.ycombinator.com/item?id=47890456"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47890302">
-          <h3>
-            <a
-              class="item"
-              href="https://medium.com/@affirmtechnology/how-affirm-retooled-its-engineering-organization-for-agentic-software-development-in-one-week-1fd35268fde6"
-              >Affirm Retooled for Agentic Software Development in One Week</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-24 @ 13:50:15</span
-              ><span class="points-container"
-                >Points: <span class="points">27</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47890302"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -243,11 +425,11 @@
             <h4>
               <span>2026-04-24 @ 12:07:30</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47889110"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -264,11 +446,11 @@
             <h4>
               <span>2026-04-24 @ 11:27:14</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47888694"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -283,11 +465,31 @@
             <h4>
               <span>2026-04-24 @ 10:58:45</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47888465"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 68</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47888423">
+          <h3>
+            <a class="item" href="https://github.com/RivoLink/leaf"
+              >Show HN: leaf – a terminal Markdown previewer with a GUI-like
+              experience</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-24 @ 10:54:26</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47888423"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -303,11 +505,11 @@
             <h4>
               <span>2026-04-24 @ 10:48:14</span
               ><span class="points-container"
-                >Points: <span class="points">164</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47888372"
                   >Comments</a
-                ><span class="descendants">: 181</span></span
+                ><span class="descendants">: 185</span></span
               >
             </h4>
           </section>
@@ -324,11 +526,11 @@
             <h4>
               <span>2026-04-24 @ 10:13:26</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47888124"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -346,11 +548,11 @@
             <h4>
               <span>2026-04-24 @ 09:17:57</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47887683"
                   >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 133</span></span
               >
             </h4>
           </section>
@@ -365,40 +567,13 @@
             <h4>
               <span>2026-04-24 @ 08:28:47</span
               ><span class="points-container"
-                >Points: <span class="points">239</span></span
+                >Points: <span class="points">246</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47887334"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47886517">
-          <h3>
-            <a class="item" href="https://ynarwal.github.io/how-llms-work/"
-              >Show HN: How LLMs Work – Interactive visual guide based on
-              Karpathy's lecture</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-24 @ 06:48:53</span
-              ><span class="points-container"
-                >Points: <span class="points">227</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47886517"
-                  >Comments</a
-                ><span class="descendants">: 53</span></span
-              >
-            </h4>
-            <div class="text">
-              All content is based on Andrej Karpathy's "Intro to Large Language
-              Models" lecture (youtube.com/watch?v=7xTGNNLPyMI). I downloaded
-              the transcript and used Claude Code to generate the entire
-              interactive site from it — single HTML file. I find it useful to
-              revisit this content time to time.
-            </div>
           </section>
         </section>
         <section id="47886272">
@@ -411,33 +586,11 @@
             <h4>
               <span>2026-04-24 @ 06:16:47</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47886272"
                   >Comments</a
                 ><span class="descendants">: 19</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47885668">
-          <h3>
-            <a
-              class="item"
-              href="https://felixbarbalet.com/familiarity-is-the-enemy/"
-              >Familiarity is the enemy: On why Enterprise systems have failed
-              for 60 years</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-24 @ 04:48:54</span
-              ><span class="points-container"
-                >Points: <span class="points">88</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47885668"
-                  >Comments</a
-                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -452,11 +605,11 @@
             <h4>
               <span>2026-04-24 @ 03:01:21</span
               ><span class="points-container"
-                >Points: <span class="points">1553</span></span
+                >Points: <span class="points">1592</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47884971"
                   >Comments</a
-                ><span class="descendants">: 1190</span></span
+                ><span class="descendants">: 1244</span></span
               >
             </h4>
             <div class="text">
@@ -479,45 +632,35 @@
             <h4>
               <span>2026-04-24 @ 02:26:23</span
               ><span class="points-container"
-                >Points: <span class="points">242</span></span
+                >Points: <span class="points">244</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47884768"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47882697">
+        <section id="47884225">
           <h3>
-            <a class="item" href="https://github.com/refactoringhq/tolaria"
-              >Show HN: Tolaria – Open-source macOS app to manage Markdown
-              knowledge bases</a
+            <a
+              class="item"
+              href="https://phys.org/news/2026-04-physicists-revive-1990s-laser-concept.html"
+              >Physicists revive 1990s laser concept to propose a
+              next-generation atomic clock</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-04-23 @ 22:01:59</span
+              <span>2026-04-24 @ 00:57:05</span
               ><span class="points-container"
-                >Points: <span class="points">264</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47882697"
+                ><a href="https://news.ycombinator.com/item?id=47884225"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
-            <div class="text">
-              <a href="https://refactoring.fm/">https://refactoring.fm/</a> and
-              I built Tolaria for myself to manage my own knowledge base (10K
-              notes, 300+ articles written in over 6 years of newslettering) and
-              work well with AI.
-              <p>
-                Tolaria is offline-first, file-based, has first-class support
-                for git, and has strong opinions about how you should organize
-                notes (types, relationships, etc).
-              </p>
-              <p>Let me know your thoughts!</p>
-            </div>
           </section>
         </section>
         <section id="47882645">
@@ -533,11 +676,11 @@
             <h4>
               <span>2026-04-23 @ 21:56:15</span
               ><span class="points-container"
-                >Points: <span class="points">543</span></span
+                >Points: <span class="points">571</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47882645"
                   >Comments</a
-                ><span class="descendants">: 575</span></span
+                ><span class="descendants">: 612</span></span
               >
             </h4>
             <div class="text">
@@ -581,11 +724,11 @@
             <h4>
               <span>2026-04-23 @ 20:14:29</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47881198"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 154</span></span
               >
             </h4>
           </section>
@@ -602,11 +745,11 @@
             <h4>
               <span>2026-04-23 @ 18:55:32</span
               ><span class="points-container"
-                >Points: <span class="points">754</span></span
+                >Points: <span class="points">764</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47879986"
                   >Comments</a
-                ><span class="descendants">: 773</span></span
+                ><span class="descendants">: 793</span></span
               >
             </h4>
             <div class="text">
@@ -627,11 +770,11 @@
             <h4>
               <span>2026-04-23 @ 18:01:39</span
               ><span class="points-container"
-                >Points: <span class="points">1485</span></span
+                >Points: <span class="points">1494</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47879092"
                   >Comments</a
-                ><span class="descendants">: 992</span></span
+                ><span class="descendants">: 997</span></span
               >
             </h4>
           </section>
@@ -648,11 +791,11 @@
             <h4>
               <span>2026-04-23 @ 17:48:38</span
               ><span class="points-container"
-                >Points: <span class="points">860</span></span
+                >Points: <span class="points">871</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47878905"
                   >Comments</a
-                ><span class="descendants">: 654</span></span
+                ><span class="descendants">: 659</span></span
               >
             </h4>
           </section>
@@ -668,32 +811,11 @@
             <h4>
               <span>2026-04-23 @ 16:55:13</span
               ><span class="points-container"
-                >Points: <span class="points">260</span></span
+                >Points: <span class="points">264</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47878117"
                   >Comments</a
-                ><span class="descendants">: 141</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47877715">
-          <h3>
-            <a
-              class="item"
-              href="https://drobinin.com/posts/my-phone-replaced-a-brass-plug/"
-              >My phone replaced a brass plug</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-23 @ 16:27:07</span
-              ><span class="points-container"
-                >Points: <span class="points">171</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47877715"
-                  >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
           </section>
@@ -711,11 +833,11 @@
             <h4>
               <span>2026-04-23 @ 14:17:08</span
               ><span class="points-container"
-                >Points: <span class="points">830</span></span
+                >Points: <span class="points">831</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47876043"
                   >Comments</a
-                ><span class="descendants">: 404</span></span
+                ><span class="descendants">: 405</span></span
               >
             </h4>
           </section>
@@ -730,11 +852,11 @@
             <h4>
               <span>2026-04-23 @ 13:58:03</span
               ><span class="points-container"
-                >Points: <span class="points">181</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47875843"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
             <div class="text">
@@ -758,144 +880,6 @@
                 first place). A quarter of the files are genetic/genomics.
                 Tabular data account for another large share and could contain
                 phenotype or health records.
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="47865868">
-          <h3>
-            <a
-              class="item"
-              href="https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/"
-              >Alberta startup sells no-tech tractors for half price</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-22 @ 16:29:25</span
-              ><span class="points-container"
-                >Points: <span class="points">2249</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47865868"
-                  >Comments</a
-                ><span class="descendants">: 761</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47865822">
-          <h3>
-            <a class="item" href="https://github.com/Infisical/agent-vault"
-              >Show HN: Agent Vault – Open-source credential proxy and vault for
-              agents</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-22 @ 16:25:28</span
-              ><span class="points-container"
-                >Points: <span class="points">132</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47865822"
-                  >Comments</a
-                ><span class="descendants">: 44</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://github.com/Infisical/agent-vault"
-                >https://github.com/Infisical/agent-vault</a
-              >, and there's an in-depth description at
-              <a
-                href="https://infisical.com/blog/agent-vault-the-open-source-credential-proxy-and-vault-for-agents"
-                >https://infisical.com/blog/agent-vault-the-open-source-crede...</a
-              >.
-              <p>
-                We built Agent Vault in response to a question that been
-                plaguing the industry: How do we give agents secure access to
-                services without them reading any secrets?
-              </p>
-              <p>
-                Most teams building agents have run into this exact problem:
-                They build an agent or agentic system and come to realize at
-                some point that it needs credentials in order to access any
-                services. The issue is that agents, unlike traditional
-                workloads, are non-deterministic, highly-prone to prompt
-                injection, and thus can easily be manipulated to leaking the
-                credentials that they need to operate. This is the problem of
-                credential exfiltration (not to be confused with data
-                exfiltration).
-              </p>
-              <p>
-                In response to this, some teams we've seen have implemented
-                basic guardrails and security controls to mitigate this risk in
-                their agentic environments including using short-lived access
-                tokens. The more advanced teams have started to converge toward
-                a pattern: credential brokering, the idea being to separate
-                agents from their credentials through some form of egress proxy.
-                In this model, the agent makes a request to a proxy that
-                attaches a credential onto it and brokers it through to the
-                target service. This proxy approach is actually used in
-                Anthropic's Managed Agents architecture blog with it being that
-                "the harness is never made aware of the credentials." We've seen
-                similar credential brokering schemes come out from Vercel and in
-                Cloudflare's latest Outbound Workers.
-              </p>
-              <p>
-                Seeing all this made us think: What if we could create a
-                portable credential brokering service plugged seamlessly into
-                agents' existing workflows in an interface agnostic way, meaning
-                that agents could continue to work with APIs, CLIs, SDKs, MCPs
-                without interference and get the security of credential
-                brokering.
-              </p>
-              <p>
-                This led to Agent Vault - an open source HTTP credential proxy
-                and vault that we're building for AI agents. You can deploy this
-                as a dedicated service and set up your agent's environment to
-                proxy requests through it. Note that in a full deployment, you
-                do need to lock down the network so that all outbound traffic is
-                forced through Agent Vault
-              </p>
-              <p>
-                The Agent Vault (AV) implementation has a few interesting design
-                decisions:
-              </p>
-              <p>
-                - Local Forward Proxy: AV chooses an interface agnostic approach
-                to credential brokering by following a MITM architecture using
-                HTTPS_PROXY as an environment variable set in the agent's
-                environment to redirect traffic through it; this also means that
-                it runs its own CA whose certificate must be configured on the
-                client's trust store.
-              </p>
-              <p>
-                - MITM architecture: Since AV terminates TLS in order to do
-                credential brokering its able to inspect traffic and apply rules
-                to it before establishing a new TLS connection upstream. This
-                makes it a great to be able to extend AV to incorporate
-                firewall-like features to be applied at this proxy layer.
-              </p>
-              <p>
-                - Portable: AV itself is a single Go binary that bundles a
-                server and the CLI; it can be deployed as a Docker container as
-                well. In practice, this means that you can self-host AV on your
-                own infrastructure and it should work more universally than
-                provider specific approaches like that of Vercel and Cloudflare.
-              </p>
-              <p>
-                While the preliminary design of Agent Vault is a bit clunky to
-                work with and we’d wished to have more time to smoothen the
-                developer experience around it, particularly around the
-                configuration setup for agents to start proxying requests
-                through it, we figured it would be best to open source the
-                technology and work with the community to make gradual
-                improvements for it to work seamlessly across all agentic use
-                cases since each has its own nuances.
-              </p>
-              <p>
-                All in all, we believe credential brokering is the right next
-                step for how secrets management should be done for agents and
-                would love to hear your views, questions, feedback!
               </p>
             </div>
           </section>
