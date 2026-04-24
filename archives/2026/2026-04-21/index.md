@@ -27,6 +27,7 @@
 * [2026-04-21, 17:14:26](https://news.ycombinator.com/item?id=47851630) - [Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)](https://github.com/Arc1011/KernelUNO)
 * [2026-04-21, 17:13:29](https://news.ycombinator.com/item?id=47851613) - [Work with the Garage Door Up](https://notes.andymatuschak.org/Work_with_the_garage_door_up)
 * [2026-04-21, 17:01:15](https://news.ycombinator.com/item?id=47851456) - [Trellis AI (YC W24) Is hiring engineers to build self-improving agents](https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time)
+* [2026-04-21, 16:55:04](https://news.ycombinator.com/item?id=47851377) - [You don't want long-lived keys](https://argemma.com/blog/long-lived-keys/)
 * [2026-04-21, 16:31:21](https://news.ycombinator.com/item?id=47851077) - [A Periodic Map of Cheese](https://cheesemap.netlify.app/)
 * [2026-04-21, 16:16:41](https://news.ycombinator.com/item?id=47850907) - [Show HN: Daemons – we pivoted from building agents to cleaning up after them](https://charlielabs.ai/)
 * [2026-04-21, 15:53:22](https://news.ycombinator.com/item?id=47850542) - [Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins](https://github.com/Yus314/kasane)

@@ -15,13 +15,12 @@
 * [2026-04-24, 16:45:10](https://news.ycombinator.com/item?id=47892660) - [Redesigning the Recurse Center application to inspire curious programmers](https://www.recurse.com/blog/192-redesigning-the-recurse-center-application)
 * [2026-04-24, 16:20:15](https://news.ycombinator.com/item?id=47892291) - [SDL Now Supports DOS](https://github.com/libsdl-org/SDL/pull/15377)
 * [2026-04-24, 16:16:49](https://news.ycombinator.com/item?id=47892236) - [Diatec, known for its mechanical keyboard brand FILCO, has ceased operations](https://gigazine.net/gsc_news/en/20260424-filco-diatec/)
-* [2026-04-24, 16:04:41](https://news.ycombinator.com/item?id=47892074) - [Google Plans to Invest Up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
+* [2026-04-24, 16:04:41](https://news.ycombinator.com/item?id=47892074) - [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
 * [2026-04-24, 15:59:19](https://news.ycombinator.com/item?id=47892019) - [I cancelled Claude: Token issues, declining quality, and poor support](https://nickyreinert.de/en/2026/2026-04-24-claude-critics/)
 * [2026-04-24, 15:44:03](https://news.ycombinator.com/item?id=47891801) - [I'm done making desktop applications (2009)](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
 * [2026-04-24, 14:34:23](https://news.ycombinator.com/item?id=47890873) - [Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817)
 * [2026-04-24, 14:31:38](https://news.ycombinator.com/item?id=47890841) - [Show HN: Browser Harness – Gives LLM freedom to complete any browser task](https://github.com/browser-use/browser-harness)
 * [2026-04-24, 14:28:52](https://news.ycombinator.com/item?id=47890799) - [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
-* [2026-04-24, 14:01:43](https://news.ycombinator.com/item?id=47890456) - [ML supports existence of unrecognized transient astronomical phenomena](https://arxiv.org/abs/2604.18799)
 * [2026-04-24, 10:48:14](https://news.ycombinator.com/item?id=47888372) - [How to be anti-social – a guide to incoherent and isolating social experiences](https://nate.leaflet.pub/3mk4xkaxobc2p)
 * [2026-04-24, 08:28:47](https://news.ycombinator.com/item?id=47887334) - [Spinel: Ruby AOT Native Compiler](https://github.com/matz/spinel)
 * [2026-04-24, 03:01:21](https://news.ycombinator.com/item?id=47884971) - [DeepSeek v4](https://api-docs.deepseek.com/)
@@ -30,6 +29,7 @@
 * [2026-04-23, 04:40:31](https://news.ycombinator.com/item?id=47872306) - [MacBook Neo and how the iPad should be](https://craigmod.com/essays/ipad_neo/)
 * [2026-04-22, 14:18:35](https://news.ycombinator.com/item?id=47864056) - [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)
 * [2026-04-21, 17:13:29](https://news.ycombinator.com/item?id=47851613) - [Work with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up)
+* [2026-04-21, 16:55:04](https://news.ycombinator.com/item?id=47851377) - [You don't want long-lived keys](https://argemma.com/blog/long-lived-keys/)
 
 ## [Archives](archives/index.md)
 
