@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-24](index.md)
 
+* [2026-04-24, 21:42:26](https://news.ycombinator.com/item?id=47896163) - [Show HN: I've built a nice home server OS](https://lightwhale.asklandd.dk/)
+* [2026-04-24, 21:01:50](https://news.ycombinator.com/item?id=47895765) - [Google Flow Music](https://www.flowmusic.app/)
 * [2026-04-24, 20:00:30](https://news.ycombinator.com/item?id=47895080) - [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
 * [2026-04-24, 19:55:09](https://news.ycombinator.com/item?id=47895029) - [Tell HN: Claude 4.7 is ignoring stop hooks](https://news.ycombinator.com/item?id=47895029)
 * [2026-04-24, 19:30:46](https://news.ycombinator.com/item?id=47894747) - [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
