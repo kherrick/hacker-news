@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-24, 14:45:10](https://news.ycombinator.com/item?id=47891019) - [Norway Set to Become Latest Country to Ban Social Media for Under 16s](https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s)
 * [2026-04-24, 14:34:23](https://news.ycombinator.com/item?id=47890873) - [Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817)
 * [2026-04-24, 14:28:52](https://news.ycombinator.com/item?id=47890799) - [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
 * [2026-04-24, 13:54:53](https://news.ycombinator.com/item?id=47890365) - [Linux 7.1 Removes Drivers for Bus Mouse Support](https://www.phoronix.com/news/Linux-7.1-Input)
 * [2026-04-24, 13:50:15](https://news.ycombinator.com/item?id=47890302) - [Affirm Retooled for Agentic Software Development in One Week](https://medium.com/@affirmtechnology/how-affirm-retooled-its-engineering-organization-for-agentic-software-development-in-one-week-1fd35268fde6)
-* [2026-04-24, 13:36:42](https://news.ycombinator.com/item?id=47890094) - [The pope moves to police AI](https://www.axios.com/2026/04/24/catholics-pope-vatican-artificial-intelligence)
 * [2026-04-24, 12:07:30](https://news.ycombinator.com/item?id=47889110) - [Show HN: Atomic – Local-first, AI-augmented personal knowledge base](https://atomicapp.ai/)
 * [2026-04-24, 11:27:14](https://news.ycombinator.com/item?id=47888694) - [8087 Emulation on 8086 Systems](https://www.os2museum.com/wp/learn-something-old-every-day-part-xx-8087-emulation-on-8086-systems/)
 * [2026-04-24, 10:58:45](https://news.ycombinator.com/item?id=47888465) - [Hear your agent suffer through your code](https://github.com/AndrewVos/endless-toil)
@@ -15,7 +15,6 @@
 * [2026-04-24, 06:48:53](https://news.ycombinator.com/item?id=47886517) - [Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture](https://ynarwal.github.io/how-llms-work/)
 * [2026-04-24, 06:16:47](https://news.ycombinator.com/item?id=47886272) - [Show HN: Gova – The declarative GUI framework for Go](https://github.com/NV404/gova)
 * [2026-04-24, 04:48:54](https://news.ycombinator.com/item?id=47885668) - [Familiarity is the enemy: On why Enterprise systems have failed for 60 years](https://felixbarbalet.com/familiarity-is-the-enemy/)
-* [2026-04-24, 04:04:42](https://news.ycombinator.com/item?id=47885377) - [Habitual coffee intake shapes the microbiome, modifies physiology and cognition](https://www.nature.com/articles/s41467-026-71264-8)
 * [2026-04-24, 03:01:21](https://news.ycombinator.com/item?id=47884971) - [DeepSeek v4](https://api-docs.deepseek.com/)
 * [2026-04-24, 02:26:23](https://news.ycombinator.com/item?id=47884768) - [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
 * [2026-04-23, 22:01:59](https://news.ycombinator.com/item?id=47882697) - [Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria)
@@ -30,6 +29,7 @@
 * [2026-04-23, 14:17:08](https://news.ycombinator.com/item?id=47876043) - [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised)
 * [2026-04-23, 13:58:03](https://news.ycombinator.com/item?id=47875843) - [UK Biobank health data keeps ending up on GitHub](https://biobank.rocher.lc)
 * [2026-04-22, 16:29:25](https://news.ycombinator.com/item?id=47865868) - [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
+* [2026-04-22, 16:25:28](https://news.ycombinator.com/item?id=47865822) - [Show HN: Agent Vault – Open-source credential proxy and vault for agents](https://github.com/Infisical/agent-vault)
 
 ## [Archives](archives/index.md)
 
