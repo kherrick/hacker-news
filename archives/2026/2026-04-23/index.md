@@ -13,6 +13,7 @@
 * [2026-04-23, 19:43:08](https://news.ycombinator.com/item?id=47880697) - [Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge](https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a)
 * [2026-04-23, 19:09:40](https://news.ycombinator.com/item?id=47880189) - [Girl, 10, finds rare Mexican axolotl under Welsh bridge](https://www.bbc.com/news/articles/c9d4zgnqpqeo)
 * [2026-04-23, 18:55:32](https://news.ycombinator.com/item?id=47879986) - [Meta to cut 10% of jobs, or 8k employees](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/)
+* [2026-04-23, 18:55:32](https://news.ycombinator.com/item?id=47879986) - [Meta tells staff it will cut 10% of jobs](https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency)
 * [2026-04-23, 18:20:13](https://news.ycombinator.com/item?id=47879386) - [Middle Eastern News Sites Are U.S. Government Propaganda Ops](https://theintercept.com/2026/04/20/pentagon-middle-eastern-news-propaganda-iran/)
 * [2026-04-23, 18:16:55](https://news.ycombinator.com/item?id=47879330) - [GPT-5.5: Mythos-Like Hacking, Open to All](https://xbow.com/blog/mythos-like-hacking-open-to-all)
 * [2026-04-23, 18:11:29](https://news.ycombinator.com/item?id=47879239) - [Astronomers Find the Edge of the Milky Way](https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/)
