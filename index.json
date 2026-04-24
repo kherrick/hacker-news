@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=47891801"
     ],
     [
-      "Why I'm Done Making Desktop Applications (2009)",
+      "I'm done making desktop applications (2009)",
       "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/"
     ]
   ],
@@ -91,12 +91,32 @@
   ],
   [
     [
+      "2026-04-24, 12:27:18",
+      "https://news.ycombinator.com/item?id=47889279"
+    ],
+    [
+      "The operating cost of adult and gambling startups",
+      "https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/"
+    ]
+  ],
+  [
+    [
       "2026-04-24, 12:07:30",
       "https://news.ycombinator.com/item?id=47889110"
     ],
     [
       "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
       "https://atomicapp.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 11:58:39",
+      "https://news.ycombinator.com/item?id=47889030"
+    ],
+    [
+      "Aspartame is not that bad? (2022)",
+      "https://dynomight.net/aspartame/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Hear your agent suffer through your code",
       "https://github.com/AndrewVos/endless-toil"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 10:54:26",
-      "https://news.ycombinator.com/item?id=47888423"
-    ],
-    [
-      "Show HN: leaf – a terminal Markdown previewer with a GUI-like experience",
-      "https://github.com/RivoLink/leaf"
     ]
   ],
   [
@@ -167,6 +177,16 @@
     [
       "Spinel: Ruby AOT Native Compiler",
       "https://github.com/matz/spinel"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 07:22:31",
+      "https://news.ycombinator.com/item?id=47886773"
+    ],
+    [
+      "Composition shouldn't be this hard",
+      "https://www.cambra.dev/blog/announcement/"
     ]
   ],
   [
@@ -217,16 +237,6 @@
     [
       "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
       "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 20:53:27",
-      "https://news.ycombinator.com/item?id=47881786"
-    ],
-    [
-      "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
-      "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "https://socket.dev/blog/bitwarden-cli-compromised"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 13:58:03",
-      "https://news.ycombinator.com/item?id=47875843"
-    ],
-    [
-      "UK Biobank health data keeps ending up on GitHub",
-      "https://biobank.rocher.lc"
     ]
   ]
 ]
