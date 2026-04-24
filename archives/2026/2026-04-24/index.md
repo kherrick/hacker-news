@@ -4,10 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-04-24](index.md)
 
+* [2026-04-24, 14:34:23](https://news.ycombinator.com/item?id=47890873) - [Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817)
+* [2026-04-24, 14:28:52](https://news.ycombinator.com/item?id=47890799) - [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
+* [2026-04-24, 13:54:53](https://news.ycombinator.com/item?id=47890365) - [Linux 7.1 Removes Drivers for Bus Mouse Support](https://www.phoronix.com/news/Linux-7.1-Input)
+* [2026-04-24, 13:50:15](https://news.ycombinator.com/item?id=47890302) - [Affirm Retooled for Agentic Software Development in One Week](https://medium.com/@affirmtechnology/how-affirm-retooled-its-engineering-organization-for-agentic-software-development-in-one-week-1fd35268fde6)
+* [2026-04-24, 13:36:42](https://news.ycombinator.com/item?id=47890094) - [The pope moves to police AI](https://www.axios.com/2026/04/24/catholics-pope-vatican-artificial-intelligence)
 * [2026-04-24, 13:05:02](https://news.ycombinator.com/item?id=47889664) - [The Era of Citizens United Could Be Nearing Its End](https://jacobin.com/2026/04/citizens-united-electoral-corruption-case)
 * [2026-04-24, 12:48:56](https://news.ycombinator.com/item?id=47889488) - [The Rich and Powerful Want to Live Forever. What If They Could?](https://www.nytimes.com/2026/04/24/magazine/eternal-life-longevity-world-leaders.html)
 * [2026-04-24, 12:27:18](https://news.ycombinator.com/item?id=47889279) - [The operating cost of adult and gambling startups](https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/)
+* [2026-04-24, 12:07:30](https://news.ycombinator.com/item?id=47889110) - [Show HN: Atomic – Local-first, AI-augmented personal knowledge base](https://atomicapp.ai/)
 * [2026-04-24, 11:58:39](https://news.ycombinator.com/item?id=47889030) - [Aspartame is not that bad?](https://dynomight.net/aspartame/)
+* [2026-04-24, 11:27:14](https://news.ycombinator.com/item?id=47888694) - [8087 Emulation on 8086 Systems](https://www.os2museum.com/wp/learn-something-old-every-day-part-xx-8087-emulation-on-8086-systems/)
 * [2026-04-24, 11:09:36](https://news.ycombinator.com/item?id=47888557) - [UK Biobank leak: Health details of 500 000 people are offered for sale](https://www.bmj.com/content/393/bmj.s781)
 * [2026-04-24, 10:58:45](https://news.ycombinator.com/item?id=47888465) - [Hear your agent suffer through your code](https://github.com/AndrewVos/endless-toil)
 * [2026-04-24, 10:48:14](https://news.ycombinator.com/item?id=47888372) - [How to be anti-social – a guide to incoherent and isolating social experiences](https://nate.leaflet.pub/3mk4xkaxobc2p)
