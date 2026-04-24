@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-04-24, 04:38:37",
+      "https://news.ycombinator.com/item?id=47885596"
+    ],
+    [
+      "Ubuntu 26.04 LTS Released",
+      "https://lwn.net/Articles/1069399/"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 04:04:42",
+      "https://news.ycombinator.com/item?id=47885377"
+    ],
+    [
+      "Habitual coffee intake shapes the microbiome, modifies physiology and cognition",
+      "https://www.nature.com/articles/s41467-026-71264-8"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 03:12:30",
+      "https://news.ycombinator.com/item?id=47885042"
+    ],
+    [
+      "A quick look at Mythos run on Firefox: too much hype?",
+      "https://xark.es/b/mythos-firefox-150"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 03:07:54",
+      "https://news.ycombinator.com/item?id=47885014"
+    ],
+    [
+      "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+      "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 03:01:21",
+      "https://news.ycombinator.com/item?id=47884971"
+    ],
+    [
+      "DeepSeek v4",
+      "https://api-docs.deepseek.com/"
+    ]
+  ],
+  [
+    [
       "2026-04-24, 02:26:23",
       "https://news.ycombinator.com/item?id=47884768"
     ],
@@ -21,6 +71,16 @@
   ],
   [
     [
+      "2026-04-23, 21:56:15",
+      "https://news.ycombinator.com/item?id=47882645"
+    ],
+    [
+      "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+      "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade"
+    ]
+  ],
+  [
+    [
       "2026-04-23, 20:53:27",
       "https://news.ycombinator.com/item?id=47881786"
     ],
@@ -37,16 +97,6 @@
     [
       "Using the internet like it's 1999",
       "https://joshblais.com/blog/using-the-internet-like-its-1999/"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 19:09:40",
-      "https://news.ycombinator.com/item?id=47880189"
-    ],
-    [
-      "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
-      "https://www.bbc.com/news/articles/c9d4zgnqpqeo"
     ]
   ],
   [
@@ -87,16 +137,6 @@
     [
       "An update on recent Claude Code quality reports",
       "https://www.anthropic.com/engineering/april-23-postmortem"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 17:30:05",
-      "https://news.ycombinator.com/item?id=47878633"
-    ],
-    [
-      "Palantir employees are starting to wonder if they're the bad guys",
-      "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/"
     ]
   ],
   [
@@ -201,16 +241,6 @@
   ],
   [
     [
-      "2026-04-23, 01:59:08",
-      "https://news.ycombinator.com/item?id=47871519"
-    ],
-    [
-      "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
-      "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/"
-    ]
-  ],
-  [
-    [
       "2026-04-22, 16:29:25",
       "https://news.ycombinator.com/item?id=47865868"
     ],
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2026-04-21, 21:26:25",
-      "https://news.ycombinator.com/item?id=47854710"
-    ],
-    [
-      "WireGuard for Windows Reaches v1.0",
-      "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009580.html"
-    ]
-  ],
-  [
-    [
       "2026-04-21, 14:50:40",
       "https://news.ycombinator.com/item?id=47849628"
     ],
     [
       "Advanced Packaging Limits Come into Focus",
       "https://semiengineering.com/advanced-packaging-limits-come-into-focus/"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 12:59:59",
-      "https://news.ycombinator.com/item?id=47848162"
-    ],
-    [
-      "A Renaissance gambling dispute spawned probability theory",
-      "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Used La Marzocco machines are coveted by cafe owners and collectors",
       "https://www.nytimes.com/2026/04/20/dining/la-marzocco-espresso-machine.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 20:56:02",
-      "https://news.ycombinator.com/item?id=47840520"
-    ],
-    [
-      "Isopods of the world",
-      "https://isopod.site/"
     ]
   ]
 ]
