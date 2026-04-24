@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-24](index.md)
 
+* [2026-04-24, 09:17:57](https://news.ycombinator.com/item?id=47887683) - [S. Korea police arrest man over AI image of runaway wolf that misled authorities](https://www.bbc.com/news/articles/c4gx1n0dl9no)
+* [2026-04-24, 08:28:47](https://news.ycombinator.com/item?id=47887334) - [Spinel: Ruby AOT Native Compiler](https://github.com/matz/spinel)
 * [2026-04-24, 07:22:31](https://news.ycombinator.com/item?id=47886773) - [Composition Shouldn't be this Hard](https://www.cambra.dev/blog/announcement/)
+* [2026-04-24, 06:48:53](https://news.ycombinator.com/item?id=47886517) - [Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture](https://ynarwal.github.io/how-llms-work/)
 * [2026-04-24, 06:16:47](https://news.ycombinator.com/item?id=47886272) - [Show HN: Gova – The declarative GUI framework for Go](https://github.com/NV404/gova)
 * [2026-04-24, 05:01:10](https://news.ycombinator.com/item?id=47885739) - [Why Not Venus?](https://mceglowski.substack.com/p/why-not-venus)
 * [2026-04-24, 04:48:54](https://news.ycombinator.com/item?id=47885668) - [Familiarity is the enemy: On why Enterprise systems have failed for 60 years](https://felixbarbalet.com/familiarity-is-the-enemy/)
