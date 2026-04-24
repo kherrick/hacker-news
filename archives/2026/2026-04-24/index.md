@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-24](index.md)
 
+* [2026-04-24, 13:05:02](https://news.ycombinator.com/item?id=47889664) - [The Era of Citizens United Could Be Nearing Its End](https://jacobin.com/2026/04/citizens-united-electoral-corruption-case)
+* [2026-04-24, 12:48:56](https://news.ycombinator.com/item?id=47889488) - [The Rich and Powerful Want to Live Forever. What If They Could?](https://www.nytimes.com/2026/04/24/magazine/eternal-life-longevity-world-leaders.html)
+* [2026-04-24, 12:27:18](https://news.ycombinator.com/item?id=47889279) - [The operating cost of adult and gambling startups](https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/)
+* [2026-04-24, 11:58:39](https://news.ycombinator.com/item?id=47889030) - [Aspartame is not that bad?](https://dynomight.net/aspartame/)
 * [2026-04-24, 11:09:36](https://news.ycombinator.com/item?id=47888557) - [UK Biobank leak: Health details of 500 000 people are offered for sale](https://www.bmj.com/content/393/bmj.s781)
 * [2026-04-24, 10:58:45](https://news.ycombinator.com/item?id=47888465) - [Hear your agent suffer through your code](https://github.com/AndrewVos/endless-toil)
 * [2026-04-24, 10:48:14](https://news.ycombinator.com/item?id=47888372) - [How to be anti-social – a guide to incoherent and isolating social experiences](https://nate.leaflet.pub/3mk4xkaxobc2p)
