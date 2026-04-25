@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-25, 08:53:53",
+      "https://news.ycombinator.com/item?id=47899844"
+    ],
+    [
+      "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "https://github.com/nex-crm/wuphf"
+    ]
+  ],
+  [
+    [
       "2026-04-25, 05:56:12",
       "https://news.ycombinator.com/item?id=47899053"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47897706"
     ],
     [
-      "(Blender) Cosmology with Geometry Nodes",
+      "Cosmology with Geometry Nodes",
       "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47897681"
     ],
     [
-      "\"Plain text has been around for decades and it's here to stay.\" – Unsung",
+      "Plain text has been around for decades and it’s here to stay",
       "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/"
     ]
   ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-04-22, 08:55:21",
-      "https://news.ycombinator.com/item?id=47860911"
-    ],
-    [
-      "The Overtom Chess Computer Museum",
-      "https://tluif.home.xs4all.nl/chescom/Engindex.html"
-    ]
-  ],
-  [
-    [
       "2026-04-22, 04:24:32",
       "https://news.ycombinator.com/item?id=47858982"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-04-22, 00:33:47",
-      "https://news.ycombinator.com/item?id=47856997"
+      "2026-04-22, 01:31:17",
+      "https://news.ycombinator.com/item?id=47857563"
     ],
     [
-      "ENIAC's Architects Wove Stories Through Computing",
-      "https://spectrum.ieee.org/eniac-80th-anniversary-weaving"
+      "How to Implement an FPS Counter",
+      "https://vplesko.com/posts/how_to_implement_an_fps_counter.html"
     ]
   ],
   [
