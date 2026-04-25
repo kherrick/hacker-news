@@ -21,7 +21,7 @@
 * [2026-04-23, 08:10:09](https://news.ycombinator.com/item?id=47873323) - [Email could have been X.400 times better](https://buttondown.com/blog/x400-vs-smtp-email)
 * [2026-04-22, 16:57:35](https://news.ycombinator.com/item?id=47866215) - [PCR is a surprisingly near-optimal technology](https://nikomc.com/2026/04/22/pcr/)
 * [2026-04-22, 14:18:35](https://news.ycombinator.com/item?id=47864056) - [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)
-* [2026-04-22, 13:46:23](https://news.ycombinator.com/item?id=47863570) - [1-Bit Hokusai's \"The Great Wave\"](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
+* [2026-04-22, 13:46:23](https://news.ycombinator.com/item?id=47863570) - [1-Bit Hokusai's \"The Great Wave\" (2023)](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
 * [2026-04-22, 12:20:01](https://news.ycombinator.com/item?id=47862541) - [A 3D Body from Eight Questions – No Photo, No GPU](https://clad.you/blog/posts/questionnaire-mlp/)
 * [2026-04-22, 05:44:27](https://news.ycombinator.com/item?id=47859543) - [A Man Who Invented the Future](https://hedgehogreview.com/web-features/thr/posts/the-man-who-invented-the-future)
 * [2026-04-22, 05:38:53](https://news.ycombinator.com/item?id=47859514) - [Panipat: The Rise of the Mughals](https://www.historytoday.com/archive/feature/panipat-rise-mughals)
