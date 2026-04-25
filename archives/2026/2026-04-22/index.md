@@ -38,6 +38,7 @@
 * [2026-04-22, 14:15:44](https://news.ycombinator.com/item?id=47864011) - [The handmade beauty of Machine Age data visualizations](https://resobscura.substack.com/p/the-handmade-beauty-of-machine-age)
 * [2026-04-22, 13:28:40](https://news.ycombinator.com/item?id=47863324) - [Treetops glowing during storms captured on film for first time](https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time)
 * [2026-04-22, 13:19:58](https://news.ycombinator.com/item?id=47863217) - [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)
+* [2026-04-22, 13:18:34](https://news.ycombinator.com/item?id=47863196) - [Larry McMurtry's Tall Tales](https://www.thenation.com/article/culture/larry-mcmurtry-biography/)
 * [2026-04-22, 12:30:14](https://news.ycombinator.com/item?id=47862626) - [Columnar Storage Is Normalization](https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/)
 * [2026-04-22, 12:28:00](https://news.ycombinator.com/item?id=47862608) - [The eighth-generation TPU: An architecture deep dive](https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive)
 * [2026-04-22, 12:20:01](https://news.ycombinator.com/item?id=47862541) - [A 3D Body from Eight Questions – No Photo, No GPU](https://clad.you/blog/posts/questionnaire-mlp/)
