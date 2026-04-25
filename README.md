@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-25, 21:11:11](https://news.ycombinator.com/item?id=47904568) - [The AI Industry Is Discovering That the Public Hates It](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
 * [2026-04-25, 20:17:41](https://news.ycombinator.com/item?id=47904224) - [Can you stop beans from making you gassy?](https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862)
 * [2026-04-25, 19:38:55](https://news.ycombinator.com/item?id=47903945) - [America's Geothermal Breakthrough Could Unlock a 150-Gigawatt Energy Revolution](https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html)
 * [2026-04-25, 19:03:01](https://news.ycombinator.com/item?id=47903690) - [Show HN: Kloak, A secret manager that keeps K8s workload away from secrets](https://getkloak.io/)
@@ -19,6 +18,7 @@
 * [2026-04-25, 05:56:12](https://news.ycombinator.com/item?id=47899053) - [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
 * [2026-04-25, 01:03:09](https://news.ycombinator.com/item?id=47897681) - [Plain text has been around for decades and it’s here to stay](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/)
 * [2026-04-25, 00:58:38](https://news.ycombinator.com/item?id=47897647) - [Replace IBM Quantum back end with /dev/urandom](https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md)
+* [2026-04-24, 19:30:46](https://news.ycombinator.com/item?id=47894747) - [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
 * [2026-04-24, 16:44:57](https://news.ycombinator.com/item?id=47892655) - [Which one is more important: more parameters or more computation? (2021)](https://parl.ai/projects/params_vs_compute/)
 * [2026-04-24, 14:28:52](https://news.ycombinator.com/item?id=47890799) - [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
 * [2026-04-24, 02:01:40](https://news.ycombinator.com/item?id=47884625) - [How Hard Is It to Open a File?](https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/)
