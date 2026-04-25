@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
 * [2026-04-25, 11:16:23](https://news.ycombinator.com/item?id=47900506) - [Lambda Calculus Benchmark for AI](https://victortaelin.github.io/lambench/)
+* [2026-04-25, 11:03:15](https://news.ycombinator.com/item?id=47900451) - [Only One Side Will Be the True Successor to MS-DOS – Windows 2.x](https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/)
 * [2026-04-25, 10:59:29](https://news.ycombinator.com/item?id=47900440) - [A web-based RDP client built with Go WebAssembly and grdp](https://github.com/nakagami/grdpwasm)
 * [2026-04-25, 10:46:14](https://news.ycombinator.com/item?id=47900398) - [Martin Galway's music source files from 1980's Commodore 64 games](https://github.com/MartinGalway/C64_music)
 * [2026-04-25, 08:53:53](https://news.ycombinator.com/item?id=47899844) - [Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf)

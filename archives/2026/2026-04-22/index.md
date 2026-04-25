@@ -36,6 +36,7 @@
 * [2026-04-22, 14:44:32](https://news.ycombinator.com/item?id=47864393) - [Show HN submissions tripled and are now mostly vibe-coded](https://www.adriankrebs.ch/blog/design-slop/)
 * [2026-04-22, 14:18:35](https://news.ycombinator.com/item?id=47864056) - [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)
 * [2026-04-22, 14:15:44](https://news.ycombinator.com/item?id=47864011) - [The handmade beauty of Machine Age data visualizations](https://resobscura.substack.com/p/the-handmade-beauty-of-machine-age)
+* [2026-04-22, 13:46:23](https://news.ycombinator.com/item?id=47863570) - [1-Bit Hokusai's \"The Great Wave\"](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
 * [2026-04-22, 13:28:40](https://news.ycombinator.com/item?id=47863324) - [Treetops glowing during storms captured on film for first time](https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time)
 * [2026-04-22, 13:19:58](https://news.ycombinator.com/item?id=47863217) - [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)
 * [2026-04-22, 13:18:34](https://news.ycombinator.com/item?id=47863196) - [Larry McMurtry's Tall Tales](https://www.thenation.com/article/culture/larry-mcmurtry-biography/)
