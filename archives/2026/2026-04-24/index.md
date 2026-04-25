@@ -23,6 +23,7 @@
 * [2026-04-24, 17:11:24](https://news.ycombinator.com/item?id=47893060) - [Tariffs Raised Consumers' Prices, but the Refunds Go Only to Businesses](https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html)
 * [2026-04-24, 16:51:46](https://news.ycombinator.com/item?id=47892765) - [Tesla (TSLA) discloses $2B AI hardware company acquisition buried](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/)
 * [2026-04-24, 16:45:10](https://news.ycombinator.com/item?id=47892660) - [Redesigning the Recurse Center application to inspire curious programmers](https://www.recurse.com/blog/192-redesigning-the-recurse-center-application)
+* [2026-04-24, 16:44:57](https://news.ycombinator.com/item?id=47892655) - [Which one is more important: more parameters or more computation? (2021)](https://parl.ai/projects/params_vs_compute/)
 * [2026-04-24, 16:20:15](https://news.ycombinator.com/item?id=47892291) - [SDL Now Supports DOS](https://github.com/libsdl-org/SDL/pull/15377)
 * [2026-04-24, 16:16:49](https://news.ycombinator.com/item?id=47892236) - [Diatec, known for its mechanical keyboard brand FILCO, has ceased operations](https://gigazine.net/gsc_news/en/20260424-filco-diatec/)
 * [2026-04-24, 16:04:41](https://news.ycombinator.com/item?id=47892074) - [Google Plans to Invest Up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
