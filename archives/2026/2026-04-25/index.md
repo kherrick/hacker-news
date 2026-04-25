@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
+* [2026-04-25, 22:39:33](https://news.ycombinator.com/item?id=47905283) - [Trump fires all 24 members of the U.S. National Science Foundation](https://www.science.org/content/article/trump-fires-nsf-s-oversight-board)
+* [2026-04-25, 21:51:18](https://news.ycombinator.com/item?id=47904876) - [USB Cheat Sheet](https://fabiensanglard.net/usbcheat/index.html)
 * [2026-04-25, 21:11:11](https://news.ycombinator.com/item?id=47904568) - [The AI Industry Is Discovering That the Public Hates It](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
 * [2026-04-25, 20:17:41](https://news.ycombinator.com/item?id=47904224) - [Can you stop beans from making you gassy?](https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862)
 * [2026-04-25, 20:04:37](https://news.ycombinator.com/item?id=47904138) - [Nicholas Carlini – Black-hat LLMs [video]](https://www.youtube.com/watch?v=1sd26pWhfmg)
