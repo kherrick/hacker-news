@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
+* [2026-04-25, 21:11:11](https://news.ycombinator.com/item?id=47904568) - [The AI Industry Is Discovering That the Public Hates It](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
+* [2026-04-25, 20:17:41](https://news.ycombinator.com/item?id=47904224) - [Can you stop beans from making you gassy?](https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862)
 * [2026-04-25, 20:04:37](https://news.ycombinator.com/item?id=47904138) - [Nicholas Carlini – Black-hat LLMs [video]](https://www.youtube.com/watch?v=1sd26pWhfmg)
 * [2026-04-25, 19:51:46](https://news.ycombinator.com/item?id=47904043) - [The Stanford Freshmen Who Want to Rule the World](https://www.theatlantic.com/ideas/2026/04/stanford-students-power/686920/)
 * [2026-04-25, 19:38:55](https://news.ycombinator.com/item?id=47903945) - [America's Geothermal Breakthrough Could Unlock a 150-Gigawatt Energy Revolution](https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html)

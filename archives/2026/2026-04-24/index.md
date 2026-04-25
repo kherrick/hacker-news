@@ -64,4 +64,5 @@
 * [2026-04-24, 03:01:21](https://news.ycombinator.com/item?id=47884971) - [DeepSeek v4](https://api-docs.deepseek.com/news/news260424)
 * [2026-04-24, 03:01:21](https://news.ycombinator.com/item?id=47884971) - [DeepSeek v4](https://api-docs.deepseek.com/)
 * [2026-04-24, 02:26:23](https://news.ycombinator.com/item?id=47884768) - [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
+* [2026-04-24, 02:01:40](https://news.ycombinator.com/item?id=47884625) - [How Hard Is It to Open a File?](https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/)
 * [2026-04-24, 00:57:05](https://news.ycombinator.com/item?id=47884225) - [Physicists revive 1990s laser concept to propose a next-generation atomic clock](https://phys.org/news/2026-04-physicists-revive-1990s-laser-concept.html)
