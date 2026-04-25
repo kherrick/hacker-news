@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
+* [2026-04-25, 16:54:28](https://news.ycombinator.com/item?id=47902816) - [Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center](https://boilingsteam.com/framework-laptop-13-pro-announced/)
 * [2026-04-25, 15:59:15](https://news.ycombinator.com/item?id=47902416) - [Niri 26.04 was just released (scrollable-tiling Wayland compositor)](https://github.com/niri-wm/niri/releases/tag/v26.04)
 * [2026-04-25, 15:51:11](https://news.ycombinator.com/item?id=47902339) - [What's Missing in the 'Agentic' Story](https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains)
 * [2026-04-25, 14:59:39](https://news.ycombinator.com/item?id=47901993) - [UK to permanently ban future generations from buying cigarettes](https://nypost.com/2026/04/21/world-news/uk-to-permanently-ban-future-generations-from-buying-cigarettes/)

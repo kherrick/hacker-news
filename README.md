@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-25, 16:54:28](https://news.ycombinator.com/item?id=47902816) - [Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center](https://boilingsteam.com/framework-laptop-13-pro-announced/)
 * [2026-04-25, 15:59:15](https://news.ycombinator.com/item?id=47902416) - [Niri 26.04 was just released (scrollable-tiling Wayland compositor)](https://github.com/niri-wm/niri/releases/tag/v26.04)
 * [2026-04-25, 15:51:11](https://news.ycombinator.com/item?id=47902339) - [What's Missing in the 'Agentic' Story](https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains)
 * [2026-04-25, 14:17:31](https://news.ycombinator.com/item?id=47901734) - [GPT 5.5 biosafety bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty/)
@@ -10,7 +11,6 @@
 * [2026-04-25, 11:03:15](https://news.ycombinator.com/item?id=47900451) - [Only One Side Will Be the True Successor to MS-DOS – Windows 2.x](https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/)
 * [2026-04-25, 10:59:29](https://news.ycombinator.com/item?id=47900440) - [A web-based RDP client built with Go WebAssembly and grdp](https://github.com/nakagami/grdpwasm)
 * [2026-04-25, 10:46:14](https://news.ycombinator.com/item?id=47900398) - [Martin Galway's music source files from 1980's Commodore 64 games](https://github.com/MartinGalway/C64_music)
-* [2026-04-25, 08:53:53](https://news.ycombinator.com/item?id=47899844) - [Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf)
 * [2026-04-25, 05:56:12](https://news.ycombinator.com/item?id=47899053) - [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
 * [2026-04-25, 01:24:40](https://news.ycombinator.com/item?id=47897790) - [Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do](https://alash3al.github.io/stash?_v01)
 * [2026-04-25, 01:03:09](https://news.ycombinator.com/item?id=47897681) - [Plain text has been around for decades and it’s here to stay](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/)
