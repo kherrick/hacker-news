@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-04-25, 11:16:23",
+      "https://news.ycombinator.com/item?id=47900506"
+    ],
+    [
+      "Lambda Calculus Benchmark for AI",
+      "https://victortaelin.github.io/lambench/"
+    ]
+  ],
+  [
+    [
+      "2026-04-25, 10:59:29",
+      "https://news.ycombinator.com/item?id=47900440"
+    ],
+    [
+      "A web-based RDP client built with Go WebAssembly and grdp",
+      "https://github.com/nakagami/grdpwasm"
+    ]
+  ],
+  [
+    [
+      "2026-04-25, 10:46:14",
+      "https://news.ycombinator.com/item?id=47900398"
+    ],
+    [
+      "Martin Galway's music source files from 1980's Commodore 64 games",
+      "https://github.com/MartinGalway/C64_music"
+    ]
+  ],
+  [
+    [
       "2026-04-25, 08:53:53",
       "https://news.ycombinator.com/item?id=47899844"
     ],
     [
       "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
       "https://github.com/nex-crm/wuphf"
-    ]
-  ],
-  [
-    [
-      "2026-04-25, 06:56:23",
-      "https://news.ycombinator.com/item?id=47899334"
-    ],
-    [
-      "Escrow Security for iCloud Keychain",
-      "https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-04-24, 16:16:49",
-      "https://news.ycombinator.com/item?id=47892236"
-    ],
-    [
-      "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
-      "https://gigazine.net/gsc_news/en/20260424-filco-diatec/"
-    ]
-  ],
-  [
-    [
       "2026-04-24, 16:04:41",
       "https://news.ycombinator.com/item?id=47892074"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-04-22, 13:18:34",
-      "https://news.ycombinator.com/item?id=47863196"
-    ],
-    [
-      "Larry McMurtry's Tall Tales",
-      "https://www.thenation.com/article/culture/larry-mcmurtry-biography/"
-    ]
-  ],
-  [
-    [
       "2026-04-22, 12:20:01",
       "https://news.ycombinator.com/item?id=47862541"
     ],
@@ -237,6 +237,16 @@
     [
       "A Man Who Invented the Future",
       "https://hedgehogreview.com/web-features/thr/posts/the-man-who-invented-the-future"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 05:38:53",
+      "https://news.ycombinator.com/item?id=47859514"
+    ],
+    [
+      "Panipat: The Rise of the Mughals",
+      "https://www.historytoday.com/archive/feature/panipat-rise-mughals"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Work with the garage door up (2024)",
       "https://notes.andymatuschak.org/Work_with_the_garage_door_up"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 16:55:04",
-      "https://news.ycombinator.com/item?id=47851377"
-    ],
-    [
-      "You don't want long-lived keys",
-      "https://argemma.com/blog/long-lived-keys/"
     ]
   ],
   [
