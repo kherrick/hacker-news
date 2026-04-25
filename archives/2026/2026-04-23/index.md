@@ -44,6 +44,7 @@
 * [2026-04-23, 09:20:47](https://news.ycombinator.com/item?id=47873694) - [Writing a C Compiler, in Zig](https://ar-ms.me/thoughts/c-compiler-1-zig/)
 * [2026-04-23, 08:10:09](https://news.ycombinator.com/item?id=47873323) - [Email could have been X.400 times better](https://buttondown.com/blog/x400-vs-smtp-email)
 * [2026-04-23, 05:14:05](https://news.ycombinator.com/item?id=47872452) - [Ars Technica: Our newsroom AI policy](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
+* [2026-04-23, 05:07:51](https://news.ycombinator.com/item?id=47872418) - [A disabled kea parrot is the alpha male of his circus](https://www.cell.com/current-biology/fulltext/S0960-9822(26)00259-9)
 * [2026-04-23, 04:44:19](https://news.ycombinator.com/item?id=47872324) - [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
 * [2026-04-23, 04:40:31](https://news.ycombinator.com/item?id=47872306) - [MacBook Neo and How the iPad Should Be](https://craigmod.com/essays/ipad_neo/)
 * [2026-04-23, 04:17:14](https://news.ycombinator.com/item?id=47872200) - [A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic](https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/)
