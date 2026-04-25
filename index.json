@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-25, 04:36:27",
+      "https://news.ycombinator.com/item?id=47898680"
+    ],
+    [
+      "Oxford All Souls College General Examination (2025) [pdf]",
+      "https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-04-25, 04:18:01",
+      "https://news.ycombinator.com/item?id=47898597"
+    ],
+    [
+      "Turbo Vision 2.0 – a modern port",
+      "https://github.com/magiblot/tvision"
+    ]
+  ],
+  [
+    [
       "2026-04-25, 01:47:33",
       "https://news.ycombinator.com/item?id=47897891"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2026-04-24, 22:36:38",
-      "https://news.ycombinator.com/item?id=47896670"
-    ],
-    [
-      "FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)",
-      "https://github.com/manankharwar/fusioncore"
-    ]
-  ],
-  [
-    [
       "2026-04-24, 21:42:26",
       "https://news.ycombinator.com/item?id=47896163"
     ],
@@ -101,26 +111,6 @@
   ],
   [
     [
-      "2026-04-24, 17:53:37",
-      "https://news.ycombinator.com/item?id=47893620"
-    ],
-    [
-      "CC-Canary: Detect early signs of regressions in Claude Code",
-      "https://github.com/delta-hq/cc-canary"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 16:20:15",
-      "https://news.ycombinator.com/item?id=47892291"
-    ],
-    [
-      "SDL Now Supports DOS",
-      "https://github.com/libsdl-org/SDL/pull/15377"
-    ]
-  ],
-  [
-    [
       "2026-04-24, 16:16:49",
       "https://news.ycombinator.com/item?id=47892236"
     ],
@@ -141,32 +131,12 @@
   ],
   [
     [
-      "2026-04-24, 15:59:19",
-      "https://news.ycombinator.com/item?id=47892019"
-    ],
-    [
-      "I cancelled Claude: Token issues, declining quality, and poor support",
-      "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/"
-    ]
-  ],
-  [
-    [
       "2026-04-24, 15:44:03",
       "https://news.ycombinator.com/item?id=47891801"
     ],
     [
       "I'm done making desktop applications (2009)",
       "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 14:31:38",
-      "https://news.ycombinator.com/item?id=47890841"
-    ],
-    [
-      "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
-      "https://github.com/browser-use/browser-harness"
     ]
   ],
   [
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2026-04-22, 12:20:01",
+      "https://news.ycombinator.com/item?id=47862541"
+    ],
+    [
+      "A 3D Body from Eight Questions – No Photo, No GPU",
+      "https://clad.you/blog/posts/questionnaire-mlp/"
+    ]
+  ],
+  [
+    [
       "2026-04-22, 08:55:21",
       "https://news.ycombinator.com/item?id=47860911"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2026-04-22, 00:33:47",
+      "https://news.ycombinator.com/item?id=47856997"
+    ],
+    [
+      "ENIAC's Architects Wove Stories Through Computing",
+      "https://spectrum.ieee.org/eniac-80th-anniversary-weaving"
+    ]
+  ],
+  [
+    [
       "2026-04-21, 17:13:29",
       "https://news.ycombinator.com/item?id=47851613"
     ],
@@ -297,6 +287,16 @@
     [
       "You don't want long-lived keys",
       "https://argemma.com/blog/long-lived-keys/"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 14:39:04",
+      "https://news.ycombinator.com/item?id=47849455"
+    ],
+    [
+      "The mail sent to a video game publisher",
+      "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth"
     ]
   ]
 ]
