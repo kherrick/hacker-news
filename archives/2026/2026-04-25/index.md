@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
+* [2026-04-25, 20:04:37](https://news.ycombinator.com/item?id=47904138) - [Nicholas Carlini – Black-hat LLMs [video]](https://www.youtube.com/watch?v=1sd26pWhfmg)
+* [2026-04-25, 19:51:46](https://news.ycombinator.com/item?id=47904043) - [The Stanford Freshmen Who Want to Rule the World](https://www.theatlantic.com/ideas/2026/04/stanford-students-power/686920/)
+* [2026-04-25, 19:38:55](https://news.ycombinator.com/item?id=47903945) - [America's Geothermal Breakthrough Could Unlock a 150-Gigawatt Energy Revolution](https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html)
+* [2026-04-25, 19:03:01](https://news.ycombinator.com/item?id=47903690) - [Show HN: Kloak, A secret manager that keeps K8s workload away from secrets](https://getkloak.io/)
+* [2026-04-25, 17:49:13](https://news.ycombinator.com/item?id=47903190) - [North American Millets Alliance(2023)](https://milletsalliance.org/)
+* [2026-04-25, 17:47:02](https://news.ycombinator.com/item?id=47903173) - [Mine, an IDE for Coalton and Common Lisp](https://coalton-lang.github.io/mine/)
 * [2026-04-25, 17:21:22](https://news.ycombinator.com/item?id=47902993) - [Hokusai and Tesselations](https://dl.ndl.go.jp/pid/1899550/1/11/)
+* [2026-04-25, 17:20:34](https://news.ycombinator.com/item?id=47902987) - [Simulacrum of Knowledge Work](https://blog.happyfellow.dev/simulacrum-of-knowledge-work/)
 * [2026-04-25, 16:54:28](https://news.ycombinator.com/item?id=47902816) - [Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center](https://boilingsteam.com/framework-laptop-13-pro-announced/)
 * [2026-04-25, 16:11:50](https://news.ycombinator.com/item?id=47902525) - [It's OK to Use Agentic to Revive the Projects You Never Were Going to Finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/)
 * [2026-04-25, 15:59:15](https://news.ycombinator.com/item?id=47902416) - [Niri 26.04 was just released (scrollable-tiling Wayland compositor)](https://github.com/niri-wm/niri/releases/tag/v26.04)
