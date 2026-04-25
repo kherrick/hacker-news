@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
+* [2026-04-25, 14:59:39](https://news.ycombinator.com/item?id=47901993) - [UK to permanently ban future generations from buying cigarettes](https://nypost.com/2026/04/21/world-news/uk-to-permanently-ban-future-generations-from-buying-cigarettes/)
+* [2026-04-25, 14:42:05](https://news.ycombinator.com/item?id=47901884) - [Jumping into cold water can stop your heart](https://jorgenmelau.substack.com/p/the-first-sixty-seconds)
+* [2026-04-25, 14:17:31](https://news.ycombinator.com/item?id=47901734) - [GPT 5.5 biosafety bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty/)
+* [2026-04-25, 13:11:18](https://news.ycombinator.com/item?id=47901312) - [HEALPix](https://en.wikipedia.org/wiki/HEALPix)
 * [2026-04-25, 11:16:23](https://news.ycombinator.com/item?id=47900506) - [Lambda Calculus Benchmark for AI](https://victortaelin.github.io/lambench/)
+* [2026-04-25, 11:10:41](https://news.ycombinator.com/item?id=47900478) - [Discret 11, the French TV encryption of the 80s](https://fabiensanglard.net/discret11/)
 * [2026-04-25, 11:03:15](https://news.ycombinator.com/item?id=47900451) - [Only One Side Will Be the True Successor to MS-DOS – Windows 2.x](https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/)
 * [2026-04-25, 10:59:29](https://news.ycombinator.com/item?id=47900440) - [A web-based RDP client built with Go WebAssembly and grdp](https://github.com/nakagami/grdpwasm)
 * [2026-04-25, 10:46:14](https://news.ycombinator.com/item?id=47900398) - [Martin Galway's music source files from 1980's Commodore 64 games](https://github.com/MartinGalway/C64_music)
