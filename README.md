@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-04-25, 05:56:12](https://news.ycombinator.com/item?id=47899053) - [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
-* [2026-04-25, 04:36:27](https://news.ycombinator.com/item?id=47898680) - [Oxford All Souls College General Examination (2025) [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf)
 * [2026-04-25, 04:18:01](https://news.ycombinator.com/item?id=47898597) - [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
 * [2026-04-25, 01:47:33](https://news.ycombinator.com/item?id=47897891) - [Firefox Has Integrated Brave's Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/)
 * [2026-04-25, 01:24:40](https://news.ycombinator.com/item?id=47897790) - [Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do](https://alash3al.github.io/stash?_v01)
@@ -20,6 +19,7 @@
 * [2026-04-23, 08:10:09](https://news.ycombinator.com/item?id=47873323) - [Email could have been X.400 times better](https://buttondown.com/blog/x400-vs-smtp-email)
 * [2026-04-23, 04:40:31](https://news.ycombinator.com/item?id=47872306) - [MacBook Neo and how the iPad should be](https://craigmod.com/essays/ipad_neo/)
 * [2026-04-22, 16:57:35](https://news.ycombinator.com/item?id=47866215) - [PCR is a surprisingly near-optimal technology](https://nikomc.com/2026/04/22/pcr/)
+* [2026-04-22, 15:46:12](https://news.ycombinator.com/item?id=47865283) - [A Powerful New 'QR Code' Untangles Math's Knottiest Knots](https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/)
 * [2026-04-22, 14:18:35](https://news.ycombinator.com/item?id=47864056) - [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)
 * [2026-04-22, 12:20:01](https://news.ycombinator.com/item?id=47862541) - [A 3D Body from Eight Questions – No Photo, No GPU](https://clad.you/blog/posts/questionnaire-mlp/)
 * [2026-04-22, 08:55:21](https://news.ycombinator.com/item?id=47860911) - [The Overtom Chess Computer Museum](https://tluif.home.xs4all.nl/chescom/Engindex.html)
