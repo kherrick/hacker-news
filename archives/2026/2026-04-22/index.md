@@ -56,6 +56,7 @@
 * [2026-04-22, 08:33:17](https://news.ycombinator.com/item?id=47860742) - [Irony as Meta staff unhappy about running surveillance software on work PCs](https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/)
 * [2026-04-22, 08:25:32](https://news.ycombinator.com/item?id=47860682) - [You don't need advice from editors on rejected manuscripts](https://twitter.com/orsonscottcard/status/2046702294406680751)
 * [2026-04-22, 06:38:05](https://news.ycombinator.com/item?id=47859861) - [XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?](https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247)
+* [2026-04-22, 05:44:27](https://news.ycombinator.com/item?id=47859543) - [A Man Who Invented the Future](https://hedgehogreview.com/web-features/thr/posts/the-man-who-invented-the-future)
 * [2026-04-22, 05:28:58](https://news.ycombinator.com/item?id=47859442) - [What Async Promised and What It Delivered](https://causality.blog/essays/what-async-promised/)
 * [2026-04-22, 04:24:32](https://news.ycombinator.com/item?id=47858982) - [Reverse-engineering infrared-based electronic shelf labels](https://www.furrtek.org/?a=esl)
 * [2026-04-22, 04:17:07](https://news.ycombinator.com/item?id=47858939) - [Paraloid B-72](https://en.wikipedia.org/wiki/Paraloid_B-72)

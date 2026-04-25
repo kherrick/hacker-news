@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
 * [2026-04-25, 08:53:53](https://news.ycombinator.com/item?id=47899844) - [Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf)
+* [2026-04-25, 06:56:23](https://news.ycombinator.com/item?id=47899334) - [Escrow Security for iCloud Keychain](https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web)
 * [2026-04-25, 05:56:12](https://news.ycombinator.com/item?id=47899053) - [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
 * [2026-04-25, 04:36:27](https://news.ycombinator.com/item?id=47898680) - [Oxford All Souls College General Examination (2025) [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf)
 * [2026-04-25, 04:18:01](https://news.ycombinator.com/item?id=47898597) - [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
