@@ -21,22 +21,22 @@
   ],
   [
     [
+      "2026-04-25, 16:11:50",
+      "https://news.ycombinator.com/item?id=47902525"
+    ],
+    [
+      "It's OK to Use Agentic to Revive the Projects You Never Were Going to Finish",
+      "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/"
+    ]
+  ],
+  [
+    [
       "2026-04-25, 15:59:15",
       "https://news.ycombinator.com/item?id=47902416"
     ],
     [
       "Niri 26.04: Scrollable-tiling Wayland compositor",
       "https://github.com/niri-wm/niri/releases/tag/v26.04"
-    ]
-  ],
-  [
-    [
-      "2026-04-25, 15:51:11",
-      "https://news.ycombinator.com/item?id=47902339"
-    ],
-    [
-      "What's missing in the 'agentic' story: a well-defined user agent role",
-      "https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2026-04-25, 01:24:40",
-      "https://news.ycombinator.com/item?id=47897790"
-    ],
-    [
-      "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "https://alash3al.github.io/stash?_v01"
-    ]
-  ],
-  [
-    [
       "2026-04-25, 01:03:09",
       "https://news.ycombinator.com/item?id=47897681"
     ],
@@ -207,6 +197,16 @@
     [
       "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "https://kevinlynagh.com/newsletter/2026_04_overthinking/"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 22:41:57",
+      "https://news.ycombinator.com/item?id=47870245"
+    ],
+    [
+      "Lute: A Standalone Runtime for Luau",
+      "https://lute.luau.org/"
     ]
   ],
   [
