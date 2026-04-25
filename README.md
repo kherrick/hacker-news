@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-25, 15:59:15](https://news.ycombinator.com/item?id=47902416) - [Niri 26.04 was just released (scrollable-tiling Wayland compositor)](https://github.com/niri-wm/niri/releases/tag/v26.04)
 * [2026-04-25, 15:51:11](https://news.ycombinator.com/item?id=47902339) - [What's Missing in the 'Agentic' Story](https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains)
-* [2026-04-25, 14:42:05](https://news.ycombinator.com/item?id=47901884) - [Jumping into cold water can stop your heart](https://jorgenmelau.substack.com/p/the-first-sixty-seconds)
 * [2026-04-25, 14:17:31](https://news.ycombinator.com/item?id=47901734) - [GPT 5.5 biosafety bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty/)
 * [2026-04-25, 13:34:46](https://news.ycombinator.com/item?id=47901469) - [A Collection of Chronic Medical Conditions Common in Autistic and ADHD Adults [pdf]](https://allbrainsbelong.org/wp-content/uploads/2023/08/CLINICIAN-GUIDE-Everything-is-Connected-to-Everything-Project-All-Brains-Belong-VT-8.15.23.pdf)
 * [2026-04-25, 13:11:18](https://news.ycombinator.com/item?id=47901312) - [HEALPix](https://en.wikipedia.org/wiki/HEALPix)
@@ -25,7 +25,7 @@
 * [2026-04-22, 14:18:35](https://news.ycombinator.com/item?id=47864056) - [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)
 * [2026-04-22, 13:46:23](https://news.ycombinator.com/item?id=47863570) - [1-Bit Hokusai's \"The Great Wave\" (2023)](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
 * [2026-04-22, 12:20:01](https://news.ycombinator.com/item?id=47862541) - [A 3D Body from Eight Questions – No Photo, No GPU](https://clad.you/blog/posts/questionnaire-mlp/)
-* [2026-04-22, 05:38:53](https://news.ycombinator.com/item?id=47859514) - [Panipat: The Rise of the Mughals](https://www.historytoday.com/archive/feature/panipat-rise-mughals)
+* [2026-04-22, 07:20:23](https://news.ycombinator.com/item?id=47860198) - [The Free Universal Construction Kit](https://fffff.at/free-universal-construction-kit/)
 * [2026-04-22, 04:17:07](https://news.ycombinator.com/item?id=47858939) - [Paraloid B-72](https://en.wikipedia.org/wiki/Paraloid_B-72)
 * [2026-04-22, 02:55:49](https://news.ycombinator.com/item?id=47858294) - [Humpback whales are forming super-groups](https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas)
 * [2026-04-22, 01:31:17](https://news.ycombinator.com/item?id=47857563) - [How to Implement an FPS Counter](https://vplesko.com/posts/how_to_implement_an_fps_counter.html)

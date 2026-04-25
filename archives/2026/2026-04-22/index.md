@@ -58,6 +58,7 @@
 * [2026-04-22, 08:55:21](https://news.ycombinator.com/item?id=47860911) - [The Overtom Chess Computer Museum](https://tluif.home.xs4all.nl/chescom/Engindex.html)
 * [2026-04-22, 08:33:17](https://news.ycombinator.com/item?id=47860742) - [Irony as Meta staff unhappy about running surveillance software on work PCs](https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/)
 * [2026-04-22, 08:25:32](https://news.ycombinator.com/item?id=47860682) - [You don't need advice from editors on rejected manuscripts](https://twitter.com/orsonscottcard/status/2046702294406680751)
+* [2026-04-22, 07:20:23](https://news.ycombinator.com/item?id=47860198) - [The Free Universal Construction Kit](https://fffff.at/free-universal-construction-kit/)
 * [2026-04-22, 06:38:05](https://news.ycombinator.com/item?id=47859861) - [XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?](https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247)
 * [2026-04-22, 05:44:27](https://news.ycombinator.com/item?id=47859543) - [A Man Who Invented the Future](https://hedgehogreview.com/web-features/thr/posts/the-man-who-invented-the-future)
 * [2026-04-22, 05:38:53](https://news.ycombinator.com/item?id=47859514) - [Panipat: The Rise of the Mughals](https://www.historytoday.com/archive/feature/panipat-rise-mughals)
