@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
+* [2026-04-25, 11:16:23](https://news.ycombinator.com/item?id=47900506) - [Lambda Calculus Benchmark for AI](https://victortaelin.github.io/lambench/)
+* [2026-04-25, 10:59:29](https://news.ycombinator.com/item?id=47900440) - [A web-based RDP client built with Go WebAssembly and grdp](https://github.com/nakagami/grdpwasm)
+* [2026-04-25, 10:46:14](https://news.ycombinator.com/item?id=47900398) - [Martin Galway's music source files from 1980's Commodore 64 games](https://github.com/MartinGalway/C64_music)
 * [2026-04-25, 08:53:53](https://news.ycombinator.com/item?id=47899844) - [Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf)
 * [2026-04-25, 06:56:23](https://news.ycombinator.com/item?id=47899334) - [Escrow Security for iCloud Keychain](https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web)
 * [2026-04-25, 05:56:12](https://news.ycombinator.com/item?id=47899053) - [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
