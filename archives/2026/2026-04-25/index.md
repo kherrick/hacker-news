@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
+* [2026-04-25, 04:36:27](https://news.ycombinator.com/item?id=47898680) - [Oxford All Souls College General Examination (2025) [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf)
+* [2026-04-25, 04:18:01](https://news.ycombinator.com/item?id=47898597) - [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
 * [2026-04-25, 01:47:33](https://news.ycombinator.com/item?id=47897891) - [Firefox Has Integrated Brave's Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/)
 * [2026-04-25, 01:08:14](https://news.ycombinator.com/item?id=47897706) - [(Blender) Cosmology with Geometry Nodes](https://www.blender.org/user-stories/cosmology-with-geometry-nodes/)
 * [2026-04-25, 01:03:09](https://news.ycombinator.com/item?id=47897681) - [\"Plain text has been around for decades and it's here to stay.\" – Unsung](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/)

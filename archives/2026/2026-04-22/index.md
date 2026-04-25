@@ -38,6 +38,7 @@
 * [2026-04-22, 13:19:58](https://news.ycombinator.com/item?id=47863217) - [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)
 * [2026-04-22, 12:30:14](https://news.ycombinator.com/item?id=47862626) - [Columnar Storage Is Normalization](https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/)
 * [2026-04-22, 12:28:00](https://news.ycombinator.com/item?id=47862608) - [The eighth-generation TPU: An architecture deep dive](https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive)
+* [2026-04-22, 12:20:01](https://news.ycombinator.com/item?id=47862541) - [A 3D Body from Eight Questions – No Photo, No GPU](https://clad.you/blog/posts/questionnaire-mlp/)
 * [2026-04-22, 12:15:29](https://news.ycombinator.com/item?id=47862497) - [Our eighth generation TPUs: two chips for the agentic era](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/)
 * [2026-04-22, 12:04:30](https://news.ycombinator.com/item?id=47862386) - [3.4M Solar Panels](https://tech.marksblogg.com/american-solar-farms-v2.html)
 * [2026-04-22, 11:58:58](https://news.ycombinator.com/item?id=47862331) - [GitHub CLI now collects pseudoanonymous telemetry](https://cli.github.com/telemetry)
@@ -61,3 +62,4 @@
 * [2026-04-22, 01:25:04](https://news.ycombinator.com/item?id=47857509) - [Global growth in solar \"the largest ever observed for any source\"](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/)
 * [2026-04-22, 01:21:09](https://news.ycombinator.com/item?id=47857477) - [San Diego rents declined following surge in supply](https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply)
 * [2026-04-22, 01:19:30](https://news.ycombinator.com/item?id=47857461) - [I'm Sick of AI Everything](https://news.ycombinator.com/item?id=47857461)
+* [2026-04-22, 00:33:47](https://news.ycombinator.com/item?id=47856997) - [ENIAC's Architects Wove Stories Through Computing](https://spectrum.ieee.org/eniac-80th-anniversary-weaving)

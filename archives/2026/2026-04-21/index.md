@@ -36,6 +36,7 @@
 * [2026-04-21, 14:50:40](https://news.ycombinator.com/item?id=47849628) - [Advanced Packaging Limits Come into Focus](https://semiengineering.com/advanced-packaging-limits-come-into-focus/)
 * [2026-04-21, 14:48:55](https://news.ycombinator.com/item?id=47849592) - [As Oceans Warm, Great White Sharks Are Overheating](https://e360.yale.edu/digest/great-white-sharks-climate)
 * [2026-04-21, 14:41:36](https://news.ycombinator.com/item?id=47849494) - [Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men](https://www.wired.com/story/ai-generated-maga-girls/)
+* [2026-04-21, 14:39:04](https://news.ycombinator.com/item?id=47849455) - [The mail sent to a video game publisher](https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth)
 * [2026-04-21, 14:26:52](https://news.ycombinator.com/item?id=47849315) - [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
 * [2026-04-21, 14:19:49](https://news.ycombinator.com/item?id=47849221) - [Your favorite brands got worse on purpose](https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose)
 * [2026-04-21, 14:11:53](https://news.ycombinator.com/item?id=47849097) - [Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM](https://github.com/ENTERPILOT/GOModel/)
