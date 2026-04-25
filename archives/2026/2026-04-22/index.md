@@ -25,6 +25,7 @@
 * [2026-04-22, 17:10:46](https://news.ycombinator.com/item?id=47866368) - [Anker made its own chip to bring AI to all its products](https://www.theverge.com/tech/916463/anker-thus-chip-announcement)
 * [2026-04-22, 16:57:35](https://news.ycombinator.com/item?id=47866215) - [PCR is a surprisingly near-optimal technology](https://nikomc.com/2026/04/22/pcr/)
 * [2026-04-22, 16:52:43](https://news.ycombinator.com/item?id=47866153) - [Homegrown – An interactive map of every 2025 FBS college football player](https://torch.football/homegrown)
+* [2026-04-22, 16:50:27](https://news.ycombinator.com/item?id=47866127) - [The Joy of Folding Bikes](https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes)
 * [2026-04-22, 16:34:21](https://news.ycombinator.com/item?id=47865923) - [Startups Brag They Spend More Money on AI Than Human Employees](https://www.404media.co/startups-brag-they-spend-more-money-on-ai-than-human-employees/)
 * [2026-04-22, 16:29:25](https://news.ycombinator.com/item?id=47865868) - [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
 * [2026-04-22, 16:25:28](https://news.ycombinator.com/item?id=47865822) - [Show HN: Agent Vault – Open-source credential proxy and vault for agents](https://github.com/Infisical/agent-vault)

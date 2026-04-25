@@ -25,9 +25,9 @@
 * [2026-04-23, 11:47:46](https://news.ycombinator.com/item?id=47874613) - [Commenting and approving pull requests](https://www.jakeworth.com/posts/on-commenting-and-approving-pull-requests/)
 * [2026-04-22, 22:41:57](https://news.ycombinator.com/item?id=47870245) - [Lute: A Standalone Runtime for Luau](https://lute.luau.org/)
 * [2026-04-22, 20:42:06](https://news.ycombinator.com/item?id=47869042) - [Insights into firewood use by early Middle Pleistocene hominins](https://www.sciencedirect.com/science/article/pii/S0277379126001824)
+* [2026-04-22, 16:50:27](https://news.ycombinator.com/item?id=47866127) - [The Joy of Folding Bikes](https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes)
 * [2026-04-22, 13:46:23](https://news.ycombinator.com/item?id=47863570) - [1-Bit Hokusai's \"The Great Wave\" (2023)](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
 * [2026-04-22, 07:20:23](https://news.ycombinator.com/item?id=47860198) - [The Free Universal Construction Kit](https://fffff.at/free-universal-construction-kit/)
-* [2026-04-22, 05:38:53](https://news.ycombinator.com/item?id=47859514) - [Panipat: The rise of the Mughals](https://www.historytoday.com/archive/feature/panipat-rise-mughals)
 * [2026-04-22, 05:28:58](https://news.ycombinator.com/item?id=47859442) - [What async promised and what it delivered](https://causality.blog/essays/what-async-promised/)
 * [2026-04-20, 21:32:47](https://news.ycombinator.com/item?id=47841141) - [Desmond Morris has died](https://www.bbc.com/news/articles/c51y797v200o)
 
