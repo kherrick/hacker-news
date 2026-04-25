@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-04-25, 01:47:33",
+      "https://news.ycombinator.com/item?id=47897891"
+    ],
+    [
+      "Firefox Has Integrated Brave's Adblock Engine",
+      "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/"
+    ]
+  ],
+  [
+    [
+      "2026-04-25, 01:08:14",
+      "https://news.ycombinator.com/item?id=47897706"
+    ],
+    [
+      "(Blender) Cosmology with Geometry Nodes",
+      "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/"
+    ]
+  ],
+  [
+    [
+      "2026-04-25, 01:03:09",
+      "https://news.ycombinator.com/item?id=47897681"
+    ],
+    [
+      "\"Plain text has been around for decades and it's here to stay.\" – Unsung",
+      "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/"
+    ]
+  ],
+  [
+    [
+      "2026-04-25, 00:58:38",
+      "https://news.ycombinator.com/item?id=47897647"
+    ],
+    [
+      "Replace IBM Quantum back end with /dev/urandom",
+      "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md"
+    ]
+  ],
+  [
+    [
       "2026-04-25, 00:11:43",
       "https://news.ycombinator.com/item?id=47897349"
     ],
@@ -31,26 +71,6 @@
   ],
   [
     [
-      "2026-04-24, 21:34:25",
-      "https://news.ycombinator.com/item?id=47896086"
-    ],
-    [
-      "Generalised plusequals",
-      "https://leontrolski.github.io/alt.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 21:01:50",
-      "https://news.ycombinator.com/item?id=47895765"
-    ],
-    [
-      "Google Flow Music",
-      "https://www.flowmusic.app/"
-    ]
-  ],
-  [
-    [
       "2026-04-24, 19:30:46",
       "https://news.ycombinator.com/item?id=47894747"
     ],
@@ -67,26 +87,6 @@
     [
       "The Classic American Diner",
       "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 18:29:53",
-      "https://news.ycombinator.com/item?id=47894081"
-    ],
-    [
-      "SFO Quiet Airport (2025)",
-      "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 18:23:32",
-      "https://news.ycombinator.com/item?id=47894000"
-    ],
-    [
-      "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "https://developers.openai.com/api/docs/changelog"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-04-24, 14:34:23",
-      "https://news.ycombinator.com/item?id=47890873"
-    ],
-    [
-      "Different Language Models Learn Similar Number Representations",
-      "https://arxiv.org/abs/2604.20817"
-    ]
-  ],
-  [
-    [
       "2026-04-24, 14:31:38",
       "https://news.ycombinator.com/item?id=47890841"
     ],
@@ -201,32 +191,12 @@
   ],
   [
     [
-      "2026-04-24, 08:28:47",
-      "https://news.ycombinator.com/item?id=47887334"
-    ],
-    [
-      "Spinel: Ruby AOT Native Compiler",
-      "https://github.com/matz/spinel"
-    ]
-  ],
-  [
-    [
       "2026-04-24, 03:01:21",
       "https://news.ycombinator.com/item?id=47884971"
     ],
     [
       "DeepSeek v4",
-      "https://api-docs.deepseek.com/"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 00:57:05",
-      "https://news.ycombinator.com/item?id=47884225"
-    ],
-    [
-      "Physicists revive 1990s laser concept to propose a next-generation atomic clock",
-      "https://phys.org/news/2026-04-physicists-revive-1990s-laser-concept.html"
+      "https://api-docs.deepseek.com/news/news260424"
     ]
   ],
   [
@@ -237,6 +207,16 @@
     [
       "Email could have been X.400 times better",
       "https://buttondown.com/blog/x400-vs-smtp-email"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 05:07:51",
+      "https://news.ycombinator.com/item?id=47872418"
+    ],
+    [
+      "A disabled kea parrot is the alpha male of his circus",
+      "https://www.cell.com/current-biology/fulltext/S0960-9822(26)00259-9"
     ]
   ],
   [
@@ -267,6 +247,26 @@
     [
       "The Overtom Chess Computer Museum",
       "https://tluif.home.xs4all.nl/chescom/Engindex.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 04:24:32",
+      "https://news.ycombinator.com/item?id=47858982"
+    ],
+    [
+      "Reverse-engineering infrared-based electronic shelf labels",
+      "https://www.furrtek.org/?a=esl"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 04:17:07",
+      "https://news.ycombinator.com/item?id=47858939"
+    ],
+    [
+      "Paraloid B-72",
+      "https://en.wikipedia.org/wiki/Paraloid_B-72"
     ]
   ],
   [
