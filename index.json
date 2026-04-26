@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-04-26, 05:06:58",
+      "https://news.ycombinator.com/item?id=47907543"
+    ],
+    [
+      "AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice",
+      "https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/"
+    ]
+  ],
+  [
+    [
+      "2026-04-26, 03:58:17",
+      "https://news.ycombinator.com/item?id=47907205"
+    ],
+    [
+      "My Homemade PBX (2002)",
+      "https://wandel.ca/homepage/pbx.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-26, 03:44:28",
+      "https://news.ycombinator.com/item?id=47907130"
+    ],
+    [
+      "EU Age Control: The trojan horse for digital IDs",
+      "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/"
+    ]
+  ],
+  [
+    [
+      "2026-04-26, 03:25:02",
+      "https://news.ycombinator.com/item?id=47907018"
+    ],
+    [
+      "GnuPG – post-quantum crypto landing in mainline",
+      "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html"
+    ]
+  ],
+  [
+    [
       "2026-04-26, 02:38:51",
       "https://news.ycombinator.com/item?id=47906770"
     ],
@@ -11,22 +51,22 @@
   ],
   [
     [
-      "2026-04-26, 01:39:32",
-      "https://news.ycombinator.com/item?id=47906485"
-    ],
-    [
-      "Does Internet Advertising Work?",
-      "https://freakonomics.com/podcast/does-advertising-actually-work-part-2-digital-ep-441/"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 00:50:56",
       "https://news.ycombinator.com/item?id=47906253"
     ],
     [
       "Tell HN: An app is silently installing itself on my iPhone every day",
       "https://news.ycombinator.com/item?id=47906253"
+    ]
+  ],
+  [
+    [
+      "2026-04-26, 00:38:01",
+      "https://news.ycombinator.com/item?id=47906161"
+    ],
+    [
+      "The Super Nintendo Cartridges (2024)",
+      "https://fabiensanglard.net/snes_carts/"
     ]
   ],
   [
@@ -51,16 +91,6 @@
   ],
   [
     [
-      "2026-04-25, 22:41:05",
-      "https://news.ycombinator.com/item?id=47905304"
-    ],
-    [
-      "Colorado Adds Open-Source Exemption to Age-Verification Bill",
-      "https://fosstodon.org/@carlrichell/116460505717380644"
-    ]
-  ],
-  [
-    [
       "2026-04-25, 21:51:18",
       "https://news.ycombinator.com/item?id=47904876"
     ],
@@ -77,16 +107,6 @@
     [
       "America's Geothermal Breakthrough",
       "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-25, 19:03:01",
-      "https://news.ycombinator.com/item?id=47903690"
-    ],
-    [
-      "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
-      "https://getkloak.io/"
     ]
   ],
   [
@@ -111,6 +131,16 @@
   ],
   [
     [
+      "2026-04-25, 17:21:22",
+      "https://news.ycombinator.com/item?id=47902993"
+    ],
+    [
+      "Hokusai and Tesselations",
+      "https://dl.ndl.go.jp/pid/1899550/1/11/"
+    ]
+  ],
+  [
+    [
       "2026-04-25, 17:20:34",
       "https://news.ycombinator.com/item?id=47902987"
     ],
@@ -131,42 +161,22 @@
   ],
   [
     [
-      "2026-04-25, 14:17:31",
-      "https://news.ycombinator.com/item?id=47901734"
-    ],
-    [
-      "GPT‑5.5 Bio Bug Bounty",
-      "https://openai.com/index/gpt-5-5-bio-bug-bounty/"
-    ]
-  ],
-  [
-    [
-      "2026-04-25, 11:10:41",
-      "https://news.ycombinator.com/item?id=47900478"
-    ],
-    [
-      "Discret 11, the French TV encryption of the 80s",
-      "https://fabiensanglard.net/discret11/"
-    ]
-  ],
-  [
-    [
-      "2026-04-25, 10:46:14",
-      "https://news.ycombinator.com/item?id=47900398"
-    ],
-    [
-      "Martin Galway's music source files from 1980's Commodore 64 games",
-      "https://github.com/MartinGalway/C64_music"
-    ]
-  ],
-  [
-    [
       "2026-04-25, 05:56:12",
       "https://news.ycombinator.com/item?id=47899053"
     ],
     [
       "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 03:41:09",
+      "https://news.ycombinator.com/item?id=47885239"
+    ],
+    [
+      "Mahjong: A Visual Guide",
+      "https://themahjong.guide/"
     ]
   ],
   [
@@ -181,22 +191,22 @@
   ],
   [
     [
-      "2026-04-24, 02:01:40",
-      "https://news.ycombinator.com/item?id=47884625"
-    ],
-    [
-      "How Hard Is It to Open a File?",
-      "https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/"
-    ]
-  ],
-  [
-    [
       "2026-04-23, 19:33:59",
       "https://news.ycombinator.com/item?id=47880565"
     ],
     [
       "The Long Reply",
       "https://ironicsans.ghost.io/the-long-reply/"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 16:34:40",
+      "https://news.ycombinator.com/item?id=47877811"
+    ],
+    [
+      "Shall We Play a Game?",
+      "https://asteriskmag.com/issues/14/shall-we-play-a-game"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "OpenAI Privacy Filter",
       "https://openai.com/index/introducing-openai-privacy-filter/"
-    ]
-  ],
-  [
-    [
-      "2026-04-22, 22:41:57",
-      "https://news.ycombinator.com/item?id=47870245"
-    ],
-    [
-      "Lute: A Standalone Runtime for Luau",
-      "https://lute.luau.org/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-04-20, 21:32:47",
-      "https://news.ycombinator.com/item?id=47841141"
+      "2026-04-21, 20:37:22",
+      "https://news.ycombinator.com/item?id=47854221"
     ],
     [
-      "Desmond Morris has died",
-      "https://www.bbc.com/news/articles/c51y797v200o"
+      "Per-image PCA characterization of the Kodak image suite (PDF and JSON)",
+      "https://github.com/PearsonZero/kodak-pcd0992-statistical-characterization/tree/main/baseline"
     ]
   ]
 ]
