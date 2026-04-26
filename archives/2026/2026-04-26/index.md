@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 21:24:19](https://news.ycombinator.com/item?id=47914686) - [U.S. Mint Buys Drug Cartel Gold and Sells It as 'American'](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
+* [2026-04-26, 21:23:20](https://news.ycombinator.com/item?id=47914677) - [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/)
+* [2026-04-26, 20:58:31](https://news.ycombinator.com/item?id=47914367) - [Show HN: AI memory with biological decay (52% recall)](https://github.com/sachitrafa/YourMemory)
+* [2026-04-26, 20:56:30](https://news.ycombinator.com/item?id=47914350) - [Sawe smashes two-hour mark to 'move goalposts for marathon running'](https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo)
 * [2026-04-26, 20:45:26](https://news.ycombinator.com/item?id=47914215) - [Human Source License (HSL)](https://github.com/xdgrulez/human-source-license)
+* [2026-04-26, 20:40:50](https://news.ycombinator.com/item?id=47914161) - [MoQ Boy](https://moq.dev/blog/moq-boy/)
 * [2026-04-26, 20:18:37](https://news.ycombinator.com/item?id=47913855) - [Fast16: Cyberweapon that predates Stuxnet by five years](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
 * [2026-04-26, 20:03:12](https://news.ycombinator.com/item?id=47913650) - [A.I. is creating engineers who can't think without it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
 * [2026-04-26, 20:01:59](https://news.ycombinator.com/item?id=47913641) - [If You Stop Hiring Juniors, Your Senior Engineers Own You](https://evalcode.com/posts/if-you-stop-hiring-juniors-your-seniors-own-you/)
