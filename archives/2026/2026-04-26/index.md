@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 20:45:26](https://news.ycombinator.com/item?id=47914215) - [Human Source License (HSL)](https://github.com/xdgrulez/human-source-license)
+* [2026-04-26, 20:18:37](https://news.ycombinator.com/item?id=47913855) - [Fast16: Cyberweapon that predates Stuxnet by five years](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
 * [2026-04-26, 20:03:12](https://news.ycombinator.com/item?id=47913650) - [A.I. is creating engineers who can't think without it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
 * [2026-04-26, 20:01:59](https://news.ycombinator.com/item?id=47913641) - [If You Stop Hiring Juniors, Your Senior Engineers Own You](https://evalcode.com/posts/if-you-stop-hiring-juniors-your-seniors-own-you/)
+* [2026-04-26, 19:44:35](https://news.ycombinator.com/item?id=47913406) - [The 1944 Warsaw Uprising, in Color](https://www.barwypowstania.pl/)
+* [2026-04-26, 19:40:55](https://news.ycombinator.com/item?id=47913349) - [Show HN: Auge Vision from Your Terminal](https://auge.franzai.com/)
 * [2026-04-26, 18:34:31](https://news.ycombinator.com/item?id=47912645) - [Waymo says expecting driverless taxis to stay out of bike lanes is unrealistic](https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo)
 * [2026-04-26, 18:15:59](https://news.ycombinator.com/item?id=47912513) - [Plants can sense the sound of rain, a new study finds](https://news.mit.edu/2026/plants-can-sense-sound-rain-new-study-finds-0422)
+* [2026-04-26, 17:28:58](https://news.ycombinator.com/item?id=47912065) - [If more than 50% press blue, everyone survives. Red pressers always survive](https://shankwiler.com/posts/button-survival-hypothetical/)
 * [2026-04-26, 17:18:14](https://news.ycombinator.com/item?id=47911977) - [Dillo Browser Release 3.3.0](https://dillo-browser.org/release/3.3.0/)
 * [2026-04-26, 16:57:56](https://news.ycombinator.com/item?id=47911780) - [GoDaddy Gave a Domain to a Stranger Without Any Documentation](https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/)
 * [2026-04-26, 16:42:19](https://news.ycombinator.com/item?id=47911644) - [The Visible Zorker: Zork 1](https://eblong.com/infocom/visi/zork1/)
