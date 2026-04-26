@@ -2,12 +2,11 @@
 
 * [2026-04-26, 09:32:22](https://news.ycombinator.com/item?id=47908833) - [Statecharts: hierarchical state machines](https://statecharts.dev/)
 * [2026-04-26, 08:18:09](https://news.ycombinator.com/item?id=47908433) - [Eden AI – European Alternative to OpenRouter](https://www.edenai.co)
-* [2026-04-26, 07:24:07](https://news.ycombinator.com/item?id=47908166) - [APL is more French than English](https://www.jsoftware.com/papers/perlis78.htm)
 * [2026-04-26, 07:22:22](https://news.ycombinator.com/item?id=47908158) - [The Knight Programming Language](https://github.com/knight-lang/knight-lang/tree/master)
 * [2026-04-26, 07:19:20](https://news.ycombinator.com/item?id=47908139) - [Exposing Floating Point – Bartosz Ciechanowski (2019)](https://ciechanow.ski/exposing-floating-point/)
 * [2026-04-26, 07:13:08](https://news.ycombinator.com/item?id=47908105) - [Tip: Web requests should not be measured in Hz [Hertz]](https://mastodon.catgirl.cloud/@sophie/116467789133733136)
 * [2026-04-26, 07:00:10](https://news.ycombinator.com/item?id=47908047) - [Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health)
-* [2026-04-26, 06:24:42](https://news.ycombinator.com/item?id=47907879) - [The West Forgot How to Make Things. Now It's Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
+* [2026-04-26, 06:24:42](https://news.ycombinator.com/item?id=47907879) - [The West forgot how to make things, now it’s forgetting how to code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
 * [2026-04-26, 03:44:28](https://news.ycombinator.com/item?id=47907130) - [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/)
 * [2026-04-26, 03:25:02](https://news.ycombinator.com/item?id=47907018) - [GnuPG – post-quantum crypto landing in mainline](https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html)
 * [2026-04-26, 00:50:56](https://news.ycombinator.com/item?id=47906253) - [Tell HN: An app is silently installing itself on my iPhone every day](https://news.ycombinator.com/item?id=47906253)
@@ -29,6 +28,7 @@
 * [2026-04-23, 00:14:55](https://news.ycombinator.com/item?id=47870901) - [OpenAI Privacy Filter](https://openai.com/index/introducing-openai-privacy-filter/)
 * [2026-04-22, 18:34:21](https://news.ycombinator.com/item?id=47867473) - [Flickr: The first and last great photo platform](https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/)
 * [2026-04-22, 16:50:27](https://news.ycombinator.com/item?id=47866127) - [The Joy of Folding Bikes](https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes)
+* [2026-04-22, 13:12:57](https://news.ycombinator.com/item?id=47863103) - [Cheating at Tetris](https://chalkdustmagazine.com/features/cheating-at-tetris/)
 * [2026-04-22, 07:20:23](https://news.ycombinator.com/item?id=47860198) - [The Free Universal Construction Kit](https://fffff.at/free-universal-construction-kit/)
 
 ## [Archives](archives/index.md)
