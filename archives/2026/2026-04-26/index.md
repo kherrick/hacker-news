@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 18:34:31](https://news.ycombinator.com/item?id=47912645) - [Waymo says expecting driverless taxis to stay out of bike lanes is unrealistic](https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo)
+* [2026-04-26, 18:15:59](https://news.ycombinator.com/item?id=47912513) - [Plants can sense the sound of rain, a new study finds](https://news.mit.edu/2026/plants-can-sense-sound-rain-new-study-finds-0422)
+* [2026-04-26, 17:18:14](https://news.ycombinator.com/item?id=47911977) - [Dillo Browser Release 3.3.0](https://dillo-browser.org/release/3.3.0/)
+* [2026-04-26, 16:57:56](https://news.ycombinator.com/item?id=47911780) - [GoDaddy Gave a Domain to a Stranger Without Any Documentation](https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/)
 * [2026-04-26, 16:42:19](https://news.ycombinator.com/item?id=47911644) - [The Visible Zorker: Zork 1](https://eblong.com/infocom/visi/zork1/)
+* [2026-04-26, 16:27:29](https://news.ycombinator.com/item?id=47911524) - [An AI agent deleted our production database. The agent's confession is below](https://twitter.com/lifeof_jer/status/2048103471019434248)
 * [2026-04-26, 16:02:14](https://news.ycombinator.com/item?id=47911350) - [Clay PCB Tutorial](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial)
 * [2026-04-26, 15:17:34](https://news.ycombinator.com/item?id=47911013) - [Free Textbook on Engineering Thermodynamics](https://thermodynamicsbook.com/)
 * [2026-04-26, 14:18:38](https://news.ycombinator.com/item?id=47910546) - [GitHub unwanted UX change: issue links now open in a popup](https://github.com/orgs/community/discussions/192666)

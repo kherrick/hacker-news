@@ -39,6 +39,7 @@
 * [2026-04-24, 14:28:52](https://news.ycombinator.com/item?id=47890799) - [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
 * [2026-04-24, 14:01:43](https://news.ycombinator.com/item?id=47890456) - [Machine Learning Reveals Unknown Transient Phenomena in Historic Images](https://arxiv.org/abs/2604.18799)
 * [2026-04-24, 13:54:53](https://news.ycombinator.com/item?id=47890365) - [Linux 7.1 Removes Drivers for Bus Mouse Support](https://www.phoronix.com/news/Linux-7.1-Input)
+* [2026-04-24, 13:52:58](https://news.ycombinator.com/item?id=47890339) - [Sloppy Copies](https://www.markround.com/blog/2026/04/19/sloppy-copies/)
 * [2026-04-24, 13:50:15](https://news.ycombinator.com/item?id=47890302) - [Affirm Retooled for Agentic Software Development in One Week](https://medium.com/@affirmtechnology/how-affirm-retooled-its-engineering-organization-for-agentic-software-development-in-one-week-1fd35268fde6)
 * [2026-04-24, 13:36:42](https://news.ycombinator.com/item?id=47890094) - [The pope moves to police AI](https://www.axios.com/2026/04/24/catholics-pope-vatican-artificial-intelligence)
 * [2026-04-24, 13:05:02](https://news.ycombinator.com/item?id=47889664) - [The Era of Citizens United Could Be Nearing Its End](https://jacobin.com/2026/04/citizens-united-electoral-corruption-case)
