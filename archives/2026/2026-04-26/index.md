@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 07:19:20](https://news.ycombinator.com/item?id=47908139) - [Exposing Floating Point – Bartosz Ciechanowski](https://ciechanow.ski/exposing-floating-point/)
+* [2026-04-26, 07:00:10](https://news.ycombinator.com/item?id=47908047) - [Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health)
+* [2026-04-26, 06:24:42](https://news.ycombinator.com/item?id=47907879) - [The West Forgot How to Make Things. Now It's Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
 * [2026-04-26, 05:06:58](https://news.ycombinator.com/item?id=47907543) - [AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice](https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/)
 * [2026-04-26, 03:58:17](https://news.ycombinator.com/item?id=47907205) - [My Homemade PBX (2002)](https://wandel.ca/homepage/pbx.html)
 * [2026-04-26, 03:44:28](https://news.ycombinator.com/item?id=47907130) - [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/)

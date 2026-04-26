@@ -48,6 +48,7 @@
 * [2026-04-23, 10:14:46](https://news.ycombinator.com/item?id=47873966) - [Show HN: Built a daily game where you sort historical events chronologically](https://hisorty.app/)
 * [2026-04-23, 09:20:47](https://news.ycombinator.com/item?id=47873694) - [Writing a C Compiler, in Zig](https://ar-ms.me/thoughts/c-compiler-1-zig/)
 * [2026-04-23, 08:10:09](https://news.ycombinator.com/item?id=47873323) - [Email could have been X.400 times better](https://buttondown.com/blog/x400-vs-smtp-email)
+* [2026-04-23, 07:50:17](https://news.ycombinator.com/item?id=47873192) - [Rediscovering the Handcart](https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/)
 * [2026-04-23, 05:14:05](https://news.ycombinator.com/item?id=47872452) - [Ars Technica: Our newsroom AI policy](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
 * [2026-04-23, 05:07:51](https://news.ycombinator.com/item?id=47872418) - [A disabled kea parrot is the alpha male of his circus](https://www.cell.com/current-biology/fulltext/S0960-9822(26)00259-9)
 * [2026-04-23, 04:44:19](https://news.ycombinator.com/item?id=47872324) - [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
