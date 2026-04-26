@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-26, 09:32:22",
+      "https://news.ycombinator.com/item?id=47908833"
+    ],
+    [
+      "Statecharts: hierarchical state machines",
+      "https://statecharts.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-04-26, 08:18:09",
+      "https://news.ycombinator.com/item?id=47908433"
+    ],
+    [
+      "Eden AI – European Alternative to OpenRouter",
+      "https://www.edenai.co"
+    ]
+  ],
+  [
+    [
       "2026-04-26, 07:24:07",
       "https://news.ycombinator.com/item?id=47908166"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2026-04-26, 05:06:58",
-      "https://news.ycombinator.com/item?id=47907543"
-    ],
-    [
-      "AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice",
-      "https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 03:44:28",
       "https://news.ycombinator.com/item?id=47907130"
     ],
@@ -87,16 +97,6 @@
     [
       "GnuPG – post-quantum crypto landing in mainline",
       "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 02:38:51",
-      "https://news.ycombinator.com/item?id=47906770"
-    ],
-    [
-      "Reviving BrowserID in 2026",
-      "https://wakamoleguy.com/p/reviving-browserid-in-2026"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2026-04-23, 14:18:52",
+      "https://news.ycombinator.com/item?id=47876071"
+    ],
+    [
+      "Show HN: Turning a Gaussian Splat into a videogame",
+      "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/"
+    ]
+  ],
+  [
+    [
       "2026-04-23, 13:34:47",
       "https://news.ycombinator.com/item?id=47875597"
     ],
     [
       "Optimizing Datalog for the GPU",
       "https://dl.acm.org/doi/10.1145/3669940.3707274"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 07:50:17",
-      "https://news.ycombinator.com/item?id=47873192"
-    ],
-    [
-      "Rediscovering the Handcart",
-      "https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/"
     ]
   ],
   [
