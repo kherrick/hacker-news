@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 07:24:07](https://news.ycombinator.com/item?id=47908166) - [APL is more French than English](https://www.jsoftware.com/papers/perlis78.htm)
 * [2026-04-26, 07:19:20](https://news.ycombinator.com/item?id=47908139) - [Exposing Floating Point – Bartosz Ciechanowski](https://ciechanow.ski/exposing-floating-point/)
+* [2026-04-26, 07:13:08](https://news.ycombinator.com/item?id=47908105) - [Tip: Web requests should not be measured in Hz [Hertz]](https://mastodon.catgirl.cloud/@sophie/116467789133733136)
 * [2026-04-26, 07:00:10](https://news.ycombinator.com/item?id=47908047) - [Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health)
 * [2026-04-26, 06:24:42](https://news.ycombinator.com/item?id=47907879) - [The West Forgot How to Make Things. Now It's Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
 * [2026-04-26, 05:06:58](https://news.ycombinator.com/item?id=47907543) - [AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice](https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/)
