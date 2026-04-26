@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-04-26, 07:19:20",
+      "https://news.ycombinator.com/item?id=47908139"
+    ],
+    [
+      "Exposing Floating Point – Bartosz Ciechanowski",
+      "https://ciechanow.ski/exposing-floating-point/"
+    ]
+  ],
+  [
+    [
+      "2026-04-26, 07:00:10",
+      "https://news.ycombinator.com/item?id=47908047"
+    ],
+    [
+      "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+      "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health"
+    ]
+  ],
+  [
+    [
+      "2026-04-26, 06:24:42",
+      "https://news.ycombinator.com/item?id=47907879"
+    ],
+    [
+      "The West Forgot How to Make Things. Now It's Forgetting How to Code",
+      "https://techtrenches.dev/p/the-west-forgot-how-to-make-things"
+    ]
+  ],
+  [
+    [
       "2026-04-26, 05:06:58",
       "https://news.ycombinator.com/item?id=47907543"
     ],
     [
       "AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice",
       "https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 03:58:17",
-      "https://news.ycombinator.com/item?id=47907205"
-    ],
-    [
-      "My Homemade PBX (2002)",
-      "https://wandel.ca/homepage/pbx.html"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-04-25, 17:47:02",
-      "https://news.ycombinator.com/item?id=47903173"
-    ],
-    [
-      "Mine, an IDE for Coalton and Common Lisp",
-      "https://coalton-lang.github.io/mine/"
-    ]
-  ],
-  [
-    [
       "2026-04-25, 17:40:38",
       "https://news.ycombinator.com/item?id=47903126"
     ],
@@ -161,12 +171,22 @@
   ],
   [
     [
-      "2026-04-25, 05:56:12",
-      "https://news.ycombinator.com/item?id=47899053"
+      "2026-04-25, 10:46:14",
+      "https://news.ycombinator.com/item?id=47900398"
     ],
     [
-      "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/"
+      "Martin Galway's music source files from 1980's Commodore 64 games",
+      "https://github.com/MartinGalway/C64_music"
+    ]
+  ],
+  [
+    [
+      "2026-04-25, 04:31:14",
+      "https://news.ycombinator.com/item?id=47898660"
+    ],
+    [
+      "Quirks of Human Anatomy",
+      "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm"
     ]
   ],
   [
@@ -181,31 +201,11 @@
   ],
   [
     [
-      "2026-04-24, 02:07:59",
-      "https://news.ycombinator.com/item?id=47884662"
-    ],
-    [
-      "The George Business, by Roger Zelazny (1980)",
-      "https://www.eternal-flame.org/library/oldlibrary/georgebusiness.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 19:33:59",
-      "https://news.ycombinator.com/item?id=47880565"
-    ],
-    [
-      "The Long Reply",
-      "https://ironicsans.ghost.io/the-long-reply/"
-    ]
-  ],
-  [
-    [
       "2026-04-23, 16:34:40",
       "https://news.ycombinator.com/item?id=47877811"
     ],
     [
-      "Shall We Play a Game?",
+      "The route from Prussian military headquarters to Gary Gygax’s basement",
       "https://asteriskmag.com/issues/14/shall-we-play-a-game"
     ]
   ],
@@ -227,6 +227,16 @@
     [
       "Optimizing Datalog for the GPU",
       "https://dl.acm.org/doi/10.1145/3669940.3707274"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 07:50:17",
+      "https://news.ycombinator.com/item?id=47873192"
+    ],
+    [
+      "Rediscovering the Handcart",
+      "https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The Free Universal Construction Kit",
       "https://fffff.at/free-universal-construction-kit/"
-    ]
-  ],
-  [
-    [
-      "2026-04-22, 05:28:58",
-      "https://news.ycombinator.com/item?id=47859442"
-    ],
-    [
-      "What async promised and what it delivered",
-      "https://causality.blog/essays/what-async-promised/"
     ]
   ],
   [
