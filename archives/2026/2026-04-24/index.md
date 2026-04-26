@@ -66,6 +66,7 @@
 * [2026-04-24, 03:41:09](https://news.ycombinator.com/item?id=47885239) - [Mahjong: A Visual Guide](https://themahjong.guide/)
 * [2026-04-24, 03:12:30](https://news.ycombinator.com/item?id=47885042) - [A quick look at Mythos run on Firefox: too much hype?](https://xark.es/b/mythos-firefox-150)
 * [2026-04-24, 03:07:54](https://news.ycombinator.com/item?id=47885014) - [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)
+* [2026-04-24, 03:07:45](https://news.ycombinator.com/item?id=47885012) - [Dear friend, you have built a Kubernetes (2024)](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
 * [2026-04-24, 03:01:21](https://news.ycombinator.com/item?id=47884971) - [DeepSeek v4](https://api-docs.deepseek.com/news/news260424)
 * [2026-04-24, 03:01:21](https://news.ycombinator.com/item?id=47884971) - [DeepSeek v4](https://api-docs.deepseek.com/)
 * [2026-04-24, 02:26:23](https://news.ycombinator.com/item?id=47884768) - [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
