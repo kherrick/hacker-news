@@ -35,6 +35,7 @@
 * [2026-04-23, 15:53:22](https://news.ycombinator.com/item?id=47877277) - [I spent 6 years building my Kanban as I hated how managers run the boards](https://www.npmjs.com/package/ooko)
 * [2026-04-23, 15:29:50](https://news.ycombinator.com/item?id=47876930) - [Math Is Hard](http://miod.online.fr/software/openbsd/stories/vaxfp.html)
 * [2026-04-23, 15:08:54](https://news.ycombinator.com/item?id=47876647) - [To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets](https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force)
+* [2026-04-23, 14:18:52](https://news.ycombinator.com/item?id=47876071) - [Show HN: Turning a Gaussian Splat into a videogame](https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/)
 * [2026-04-23, 14:17:08](https://news.ycombinator.com/item?id=47876043) - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://socket.dev/blog/bitwarden-cli-compromised)
 * [2026-04-23, 13:58:03](https://news.ycombinator.com/item?id=47875843) - [UK Biobank health data keeps ending up on GitHub](https://biobank.rocher.lc)
 * [2026-04-23, 13:37:48](https://news.ycombinator.com/item?id=47875629) - [US Department of Justice has officially reclassified cannabis as less dangerous](https://www.bbc.com/news/articles/cdxd0xxp0jko)

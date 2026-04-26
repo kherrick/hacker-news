@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 09:32:22](https://news.ycombinator.com/item?id=47908833) - [Statecharts: hierarchical state machines](https://statecharts.dev/)
+* [2026-04-26, 08:18:09](https://news.ycombinator.com/item?id=47908433) - [Eden AI – European Alternative to OpenRouter](https://www.edenai.co)
 * [2026-04-26, 07:24:07](https://news.ycombinator.com/item?id=47908166) - [APL is more French than English](https://www.jsoftware.com/papers/perlis78.htm)
 * [2026-04-26, 07:22:22](https://news.ycombinator.com/item?id=47908158) - [The Knight Programming Language](https://github.com/knight-lang/knight-lang/tree/master)
 * [2026-04-26, 07:19:20](https://news.ycombinator.com/item?id=47908139) - [Exposing Floating Point – Bartosz Ciechanowski](https://ciechanow.ski/exposing-floating-point/)
