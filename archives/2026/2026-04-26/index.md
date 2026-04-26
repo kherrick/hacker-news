@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 13:58:13](https://news.ycombinator.com/item?id=47910388) - [Why SWE-bench Verified no longer measures frontier coding capabilities](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)
+* [2026-04-26, 12:55:53](https://news.ycombinator.com/item?id=47909945) - [QNX on the Commodore 900 – Raiders of the lost hard drive [video]](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/)
 * [2026-04-26, 12:55:26](https://news.ycombinator.com/item?id=47909942) - [At least 10 people tied to sensitive US research have died or disappeared](https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation)
 * [2026-04-26, 10:50:32](https://news.ycombinator.com/item?id=47909226) - [Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
 * [2026-04-26, 09:50:21](https://news.ycombinator.com/item?id=47908912) - [Show HN: A free ESG stock screener that publishes its losses and methodology](https://jumpstartsignal.com/)

@@ -15,6 +15,7 @@
 * [2026-04-24, 19:25:15](https://news.ycombinator.com/item?id=47894690) - [Could a Claude Code routine watch my finances?](https://driggsby.com/blog/claude-code-routine-watch-my-finances)
 * [2026-04-24, 19:19:53](https://news.ycombinator.com/item?id=47894638) - [Show HN: HNswered – watches for replies to your Hacker News posts and comments](https://github.com/adam-s/HNswered)
 * [2026-04-24, 19:01:09](https://news.ycombinator.com/item?id=47894435) - [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/)
+* [2026-04-24, 18:33:35](https://news.ycombinator.com/item?id=47894124) - [The Nintendo Switch Switch (2019)](https://blog.cynthia.re/post/nintendo-switch-ethernet-switch)
 * [2026-04-24, 18:29:53](https://news.ycombinator.com/item?id=47894081) - [SFO Quiet Airport (2025)](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
 * [2026-04-24, 18:24:42](https://news.ycombinator.com/item?id=47894014) - [Mine, a Coalton and Common Lisp IDE](https://coalton-lang.github.io/20260424-mine/)
 * [2026-04-24, 18:23:32](https://news.ycombinator.com/item?id=47894000) - [OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)
