@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-26, 14:18:38",
+      "https://news.ycombinator.com/item?id=47910546"
+    ],
+    [
+      "GitHub unwanted UX change: issue links now open in a popup",
+      "https://github.com/orgs/community/discussions/192666"
+    ]
+  ],
+  [
+    [
       "2026-04-26, 13:58:13",
       "https://news.ycombinator.com/item?id=47910388"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2026-04-26, 12:55:26",
-      "https://news.ycombinator.com/item?id=47909942"
-    ],
-    [
-      "At least 10 people tied to sensitive US research have died or disappeared",
-      "https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 10:50:32",
       "https://news.ycombinator.com/item?id=47909226"
     ],
@@ -47,16 +47,6 @@
     [
       "Statecharts: hierarchical state machines",
       "https://statecharts.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 07:24:07",
-      "https://news.ycombinator.com/item?id=47908166"
-    ],
-    [
-      "APL is more French than English",
-      "https://www.jsoftware.com/papers/perlis78.htm"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "Quirks of Human Anatomy",
       "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 19:19:53",
+      "https://news.ycombinator.com/item?id=47894638"
+    ],
+    [
+      "Show HN: HNswered – watches for replies to your Hacker News posts and comments",
+      "https://github.com/adam-s/HNswered"
     ]
   ],
   [
