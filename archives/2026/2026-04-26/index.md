@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 20:03:12](https://news.ycombinator.com/item?id=47913650) - [A.I. is creating engineers who can't think without it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
+* [2026-04-26, 20:01:59](https://news.ycombinator.com/item?id=47913641) - [If You Stop Hiring Juniors, Your Senior Engineers Own You](https://evalcode.com/posts/if-you-stop-hiring-juniors-your-seniors-own-you/)
 * [2026-04-26, 18:34:31](https://news.ycombinator.com/item?id=47912645) - [Waymo says expecting driverless taxis to stay out of bike lanes is unrealistic](https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo)
 * [2026-04-26, 18:15:59](https://news.ycombinator.com/item?id=47912513) - [Plants can sense the sound of rain, a new study finds](https://news.mit.edu/2026/plants-can-sense-sound-rain-new-study-finds-0422)
 * [2026-04-26, 17:18:14](https://news.ycombinator.com/item?id=47911977) - [Dillo Browser Release 3.3.0](https://dillo-browser.org/release/3.3.0/)

@@ -74,3 +74,4 @@
 * [2026-04-24, 02:07:59](https://news.ycombinator.com/item?id=47884662) - [The George Business, by Roger Zelazny (1980)](https://www.eternal-flame.org/library/oldlibrary/georgebusiness.html)
 * [2026-04-24, 02:01:40](https://news.ycombinator.com/item?id=47884625) - [How Hard Is It to Open a File?](https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/)
 * [2026-04-24, 00:57:05](https://news.ycombinator.com/item?id=47884225) - [Physicists revive 1990s laser concept to propose a next-generation atomic clock](https://phys.org/news/2026-04-physicists-revive-1990s-laser-concept.html)
+* [2026-04-24, 00:03:20](https://news.ycombinator.com/item?id=47883839) - [Magic: The Gathering Took Me from N2 to Japanese Fluency](https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency)
