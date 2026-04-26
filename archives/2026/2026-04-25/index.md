@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
+* [2026-04-25, 23:44:05](https://news.ycombinator.com/item?id=47905768) - [DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles](https://www.lmsys.org/blog/2026-04-25-deepseek-v4/)
+* [2026-04-25, 22:41:05](https://news.ycombinator.com/item?id=47905304) - [Colorado Adds Open-Source Exemption to Age-Verification Bill](https://fosstodon.org/@carlrichell/116460505717380644)
 * [2026-04-25, 22:39:33](https://news.ycombinator.com/item?id=47905283) - [Trump fires all 24 members of the U.S. National Science Foundation](https://www.science.org/content/article/trump-fires-nsf-s-oversight-board)
 * [2026-04-25, 21:51:18](https://news.ycombinator.com/item?id=47904876) - [USB Cheat Sheet](https://fabiensanglard.net/usbcheat/index.html)
 * [2026-04-25, 21:11:11](https://news.ycombinator.com/item?id=47904568) - [The AI Industry Is Discovering That the Public Hates It](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
@@ -14,6 +16,7 @@
 * [2026-04-25, 19:03:01](https://news.ycombinator.com/item?id=47903690) - [Show HN: Kloak, A secret manager that keeps K8s workload away from secrets](https://getkloak.io/)
 * [2026-04-25, 17:49:13](https://news.ycombinator.com/item?id=47903190) - [North American Millets Alliance(2023)](https://milletsalliance.org/)
 * [2026-04-25, 17:47:02](https://news.ycombinator.com/item?id=47903173) - [Mine, an IDE for Coalton and Common Lisp](https://coalton-lang.github.io/mine/)
+* [2026-04-25, 17:40:38](https://news.ycombinator.com/item?id=47903126) - [Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/)
 * [2026-04-25, 17:21:22](https://news.ycombinator.com/item?id=47902993) - [Hokusai and Tesselations](https://dl.ndl.go.jp/pid/1899550/1/11/)
 * [2026-04-25, 17:20:34](https://news.ycombinator.com/item?id=47902987) - [Simulacrum of Knowledge Work](https://blog.happyfellow.dev/simulacrum-of-knowledge-work/)
 * [2026-04-25, 16:54:28](https://news.ycombinator.com/item?id=47902816) - [Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center](https://boilingsteam.com/framework-laptop-13-pro-announced/)
