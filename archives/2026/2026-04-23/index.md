@@ -25,6 +25,7 @@
 * [2026-04-23, 17:30:05](https://news.ycombinator.com/item?id=47878633) - [Palantir Employees Are Starting to Wonder If They're the Bad Guys](https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/)
 * [2026-04-23, 17:01:01](https://news.ycombinator.com/item?id=47878208) - ['Hairdryer used to trick weather sensor' to win $34,000 Polymarket bet](https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/)
 * [2026-04-23, 16:55:13](https://news.ycombinator.com/item?id=47878117) - [MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split)
+* [2026-04-23, 16:34:40](https://news.ycombinator.com/item?id=47877811) - [Shall We Play a Game?](https://asteriskmag.com/issues/14/shall-we-play-a-game)
 * [2026-04-23, 16:27:07](https://news.ycombinator.com/item?id=47877715) - [My phone replaced a brass plug](https://drobinin.com/posts/my-phone-replaced-a-brass-plug/)
 * [2026-04-23, 16:21:55](https://news.ycombinator.com/item?id=47877644) - [Incident with Multple GitHub Services](https://www.githubstatus.com/incidents/myrbk7jvvs6p)
 * [2026-04-23, 16:05:30](https://news.ycombinator.com/item?id=47877429) - [If America's So Rich, How'd It Get So Sad?](https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so)

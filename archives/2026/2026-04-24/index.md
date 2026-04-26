@@ -59,6 +59,7 @@
 * [2026-04-24, 04:48:54](https://news.ycombinator.com/item?id=47885668) - [Familiarity is the enemy: On why Enterprise systems have failed for 60 years](https://felixbarbalet.com/familiarity-is-the-enemy/)
 * [2026-04-24, 04:38:37](https://news.ycombinator.com/item?id=47885596) - [Ubuntu 26.04 LTS Released](https://lwn.net/Articles/1069399/)
 * [2026-04-24, 04:04:42](https://news.ycombinator.com/item?id=47885377) - [Habitual coffee intake shapes the microbiome, modifies physiology and cognition](https://www.nature.com/articles/s41467-026-71264-8)
+* [2026-04-24, 03:41:09](https://news.ycombinator.com/item?id=47885239) - [Mahjong: A Visual Guide](https://themahjong.guide/)
 * [2026-04-24, 03:12:30](https://news.ycombinator.com/item?id=47885042) - [A quick look at Mythos run on Firefox: too much hype?](https://xark.es/b/mythos-firefox-150)
 * [2026-04-24, 03:07:54](https://news.ycombinator.com/item?id=47885014) - [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)
 * [2026-04-24, 03:01:21](https://news.ycombinator.com/item?id=47884971) - [DeepSeek v4](https://api-docs.deepseek.com/news/news260424)
