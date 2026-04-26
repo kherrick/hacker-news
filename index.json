@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-04-26, 07:24:07",
+      "https://news.ycombinator.com/item?id=47908166"
+    ],
+    [
+      "APL is more French than English",
+      "https://www.jsoftware.com/papers/perlis78.htm"
+    ]
+  ],
+  [
+    [
       "2026-04-26, 07:19:20",
       "https://news.ycombinator.com/item?id=47908139"
     ],
     [
-      "Exposing Floating Point – Bartosz Ciechanowski",
+      "Exposing Floating Point – Bartosz Ciechanowski (2019)",
       "https://ciechanow.ski/exposing-floating-point/"
+    ]
+  ],
+  [
+    [
+      "2026-04-26, 07:13:08",
+      "https://news.ycombinator.com/item?id=47908105"
+    ],
+    [
+      "Tip: Web requests should not be measured in Hz [Hertz]",
+      "https://mastodon.catgirl.cloud/@sophie/116467789133733136"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-04-25, 23:44:05",
-      "https://news.ycombinator.com/item?id=47905768"
-    ],
-    [
-      "DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles",
-      "https://www.lmsys.org/blog/2026-04-25-deepseek-v4/"
-    ]
-  ],
-  [
-    [
       "2026-04-25, 21:51:18",
       "https://news.ycombinator.com/item?id=47904876"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-04-25, 17:20:34",
-      "https://news.ycombinator.com/item?id=47902987"
-    ],
-    [
-      "Simulacrum of Knowledge Work",
-      "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/"
-    ]
-  ],
-  [
-    [
       "2026-04-25, 16:11:50",
       "https://news.ycombinator.com/item?id=47902525"
     ],
@@ -197,6 +197,16 @@
     [
       "Mahjong: A Visual Guide",
       "https://themahjong.guide/"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 18:35:14",
+      "https://news.ycombinator.com/item?id=47879648"
+    ],
+    [
+      "Tushonka: Cultivating Soviet Postwar Taste (2010)",
+      "https://www.journal.media-culture.org.au/index.php/mcjournal/article/view/299"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Free Universal Construction Kit",
       "https://fffff.at/free-universal-construction-kit/"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 20:37:22",
-      "https://news.ycombinator.com/item?id=47854221"
-    ],
-    [
-      "Per-image PCA characterization of the Kodak image suite (PDF and JSON)",
-      "https://github.com/PearsonZero/kodak-pcd0992-statistical-characterization/tree/main/baseline"
     ]
   ]
 ]
