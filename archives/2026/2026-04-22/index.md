@@ -16,6 +16,7 @@
 * [2026-04-22, 20:24:05](https://news.ycombinator.com/item?id=47868832) - [The Illuminated Man: an unconventional portrait of JG Ballard](https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard)
 * [2026-04-22, 19:21:46](https://news.ycombinator.com/item?id=47868063) - [New study compares growing corn for energy to solar production. It's no contest](https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/)
 * [2026-04-22, 18:57:20](https://news.ycombinator.com/item?id=47867755) - [Scores decline again for 13-year-old students in reading and mathematics](https://www.nationsreportcard.gov/highlights/ltt/2023/)
+* [2026-04-22, 18:34:21](https://news.ycombinator.com/item?id=47867473) - [Flickr: The First and Last Great Photo Platform](https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/)
 * [2026-04-22, 18:01:18](https://news.ycombinator.com/item?id=47867048) - [Website streamed live directly from a model](https://flipbook.page/)
 * [2026-04-22, 17:51:17](https://news.ycombinator.com/item?id=47866913) - [Coding Models Are Doing Too Much](https://nrehiew.github.io/blog/minimal_editing/)
 * [2026-04-22, 17:47:07](https://news.ycombinator.com/item?id=47866860) - [Workspace Agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt/)
