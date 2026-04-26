@@ -61,6 +61,7 @@
 * [2026-04-24, 06:16:47](https://news.ycombinator.com/item?id=47886272) - [Show HN: Gova – The declarative GUI framework for Go](https://github.com/NV404/gova)
 * [2026-04-24, 06:00:14](https://news.ycombinator.com/item?id=47886157) - [My .config Ship of Theseus](https://shift1w.com/blog/config-of-theseus/)
 * [2026-04-24, 05:01:10](https://news.ycombinator.com/item?id=47885739) - [Why Not Venus?](https://mceglowski.substack.com/p/why-not-venus)
+* [2026-04-24, 04:57:16](https://news.ycombinator.com/item?id=47885719) - [Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core](https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core)
 * [2026-04-24, 04:48:54](https://news.ycombinator.com/item?id=47885668) - [Familiarity is the enemy: On why Enterprise systems have failed for 60 years](https://felixbarbalet.com/familiarity-is-the-enemy/)
 * [2026-04-24, 04:38:37](https://news.ycombinator.com/item?id=47885596) - [Ubuntu 26.04 LTS Released](https://lwn.net/Articles/1069399/)
 * [2026-04-24, 04:04:42](https://news.ycombinator.com/item?id=47885377) - [Habitual coffee intake shapes the microbiome, modifies physiology and cognition](https://www.nature.com/articles/s41467-026-71264-8)
