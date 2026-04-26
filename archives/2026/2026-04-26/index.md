@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 16:02:14](https://news.ycombinator.com/item?id=47911350) - [Clay PCB Tutorial](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial)
 * [2026-04-26, 14:18:38](https://news.ycombinator.com/item?id=47910546) - [GitHub unwanted UX change: issue links now open in a popup](https://github.com/orgs/community/discussions/192666)
 * [2026-04-26, 13:58:13](https://news.ycombinator.com/item?id=47910388) - [Why SWE-bench Verified no longer measures frontier coding capabilities](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)
 * [2026-04-26, 12:55:53](https://news.ycombinator.com/item?id=47909945) - [QNX on the Commodore 900 – Raiders of the lost hard drive [video]](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/)

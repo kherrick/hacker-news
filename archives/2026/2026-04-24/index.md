@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-24](index.md)
 
+* [2026-04-24, 23:41:38](https://news.ycombinator.com/item?id=47897140) - [Databases Were Not Designed for This](https://arpitbhayani.me/blogs/defensive-databases/)
 * [2026-04-24, 22:36:38](https://news.ycombinator.com/item?id=47896670) - [FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)](https://github.com/manankharwar/fusioncore)
 * [2026-04-24, 21:42:26](https://news.ycombinator.com/item?id=47896163) - [Show HN: I've built a nice home server OS](https://lightwhale.asklandd.dk/)
 * [2026-04-24, 21:34:25](https://news.ycombinator.com/item?id=47896086) - [Generalised plusequals](https://leontrolski.github.io/alt.html)

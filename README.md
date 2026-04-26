@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-26, 16:02:14](https://news.ycombinator.com/item?id=47911350) - [Clay PCB Tutorial](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial)
 * [2026-04-26, 14:18:38](https://news.ycombinator.com/item?id=47910546) - [GitHub unwanted UX change: issue links now open in a popup](https://github.com/orgs/community/discussions/192666)
 * [2026-04-26, 13:58:13](https://news.ycombinator.com/item?id=47910388) - [Why SWE-bench Verified no longer measures frontier coding capabilities](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)
 * [2026-04-26, 12:55:53](https://news.ycombinator.com/item?id=47909945) - [QNX on the Commodore 900 – Raiders of the lost hard drive [video]](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/)
@@ -17,8 +18,7 @@
 * [2026-04-25, 19:38:55](https://news.ycombinator.com/item?id=47903945) - [America's Geothermal Breakthrough](https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html)
 * [2026-04-25, 17:40:38](https://news.ycombinator.com/item?id=47903126) - [Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/)
 * [2026-04-25, 16:11:50](https://news.ycombinator.com/item?id=47902525) - [Using coding assistance tools to revive projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/)
-* [2026-04-25, 04:31:14](https://news.ycombinator.com/item?id=47898660) - [Quirks of Human Anatomy](https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm)
-* [2026-04-24, 19:19:53](https://news.ycombinator.com/item?id=47894638) - [Show HN: HNswered – watches for replies to your Hacker News posts and comments](https://github.com/adam-s/HNswered)
+* [2026-04-24, 23:41:38](https://news.ycombinator.com/item?id=47897140) - [Databases Were Not Designed for This](https://arpitbhayani.me/blogs/defensive-databases/)
 * [2026-04-24, 18:33:35](https://news.ycombinator.com/item?id=47894124) - [The Nintendo Switch Switch (2019)](https://blog.cynthia.re/post/nintendo-switch-ethernet-switch)
 * [2026-04-24, 18:24:42](https://news.ycombinator.com/item?id=47894014) - [Mine, a Coalton and Common Lisp IDE](https://coalton-lang.github.io/20260424-mine/)
 * [2026-04-24, 06:00:14](https://news.ycombinator.com/item?id=47886157) - [My .config Ship of Theseus](https://shift1w.com/blog/config-of-theseus/)
