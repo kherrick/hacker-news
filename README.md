@@ -22,7 +22,7 @@
 * [2026-04-26, 10:50:32](https://news.ycombinator.com/item?id=47909226) - [Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
 * [2026-04-26, 09:32:22](https://news.ycombinator.com/item?id=47908833) - [Statecharts: hierarchical state machines](https://statecharts.dev/)
 * [2026-04-26, 00:12:47](https://news.ycombinator.com/item?id=47905984) - [Why has there been so little progress on Alzheimer's disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/)
-* [2026-04-25, 17:40:38](https://news.ycombinator.com/item?id=47903126) - [Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/)
+* [2026-04-25, 02:42:06](https://news.ycombinator.com/item?id=47898142) - [The Last of the Lost Generation](https://porticoquarterly.com/book/the-last-of-the-lost-generation/)
 * [2026-04-24, 04:57:16](https://news.ycombinator.com/item?id=47885719) - [Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core](https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core)
 * [2026-04-24, 03:07:45](https://news.ycombinator.com/item?id=47885012) - [Dear friend, you have built a Kubernetes (2024)](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
 * [2026-04-24, 02:40:39](https://news.ycombinator.com/item?id=47884850) - [XOXO Festival Archive](https://xoxofest.com/)

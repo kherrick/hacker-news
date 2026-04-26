@@ -39,6 +39,7 @@
 * [2026-04-25, 04:36:27](https://news.ycombinator.com/item?id=47898680) - [Oxford All Souls College General Examination (2025) [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf)
 * [2026-04-25, 04:31:14](https://news.ycombinator.com/item?id=47898660) - [Quirks of Human Anatomy](https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm)
 * [2026-04-25, 04:18:01](https://news.ycombinator.com/item?id=47898597) - [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
+* [2026-04-25, 02:42:06](https://news.ycombinator.com/item?id=47898142) - [The Last of the Lost Generation](https://porticoquarterly.com/book/the-last-of-the-lost-generation/)
 * [2026-04-25, 01:47:33](https://news.ycombinator.com/item?id=47897891) - [Firefox Has Integrated Brave's Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/)
 * [2026-04-25, 01:24:40](https://news.ycombinator.com/item?id=47897790) - [Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do](https://alash3al.github.io/stash?_v01)
 * [2026-04-25, 01:08:14](https://news.ycombinator.com/item?id=47897706) - [(Blender) Cosmology with Geometry Nodes](https://www.blender.org/user-stories/cosmology-with-geometry-nodes/)
