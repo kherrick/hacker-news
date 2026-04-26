@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 16:42:19](https://news.ycombinator.com/item?id=47911644) - [The Visible Zorker: Zork 1](https://eblong.com/infocom/visi/zork1/)
 * [2026-04-26, 16:02:14](https://news.ycombinator.com/item?id=47911350) - [Clay PCB Tutorial](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial)
 * [2026-04-26, 15:17:34](https://news.ycombinator.com/item?id=47911013) - [Free Textbook on Engineering Thermodynamics](https://thermodynamicsbook.com/)
 * [2026-04-26, 14:18:38](https://news.ycombinator.com/item?id=47910546) - [GitHub unwanted UX change: issue links now open in a popup](https://github.com/orgs/community/discussions/192666)

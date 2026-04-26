@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-26, 16:42:19](https://news.ycombinator.com/item?id=47911644) - [The Visible Zorker: Zork 1](https://eblong.com/infocom/visi/zork1/)
 * [2026-04-26, 16:02:14](https://news.ycombinator.com/item?id=47911350) - [Clay PCB Tutorial](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial)
 * [2026-04-26, 15:17:34](https://news.ycombinator.com/item?id=47911013) - [Free Textbook on Engineering Thermodynamics](https://thermodynamicsbook.com/)
 * [2026-04-26, 14:18:38](https://news.ycombinator.com/item?id=47910546) - [GitHub unwanted UX change: issue links now open in a popup](https://github.com/orgs/community/discussions/192666)
@@ -27,7 +28,6 @@
 * [2026-04-23, 14:18:52](https://news.ycombinator.com/item?id=47876071) - [Show HN: Turning a Gaussian Splat into a videogame](https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/)
 * [2026-04-23, 00:14:55](https://news.ycombinator.com/item?id=47870901) - [OpenAI Privacy Filter](https://openai.com/index/introducing-openai-privacy-filter/)
 * [2026-04-22, 18:34:21](https://news.ycombinator.com/item?id=47867473) - [Flickr: The first and last great photo platform](https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/)
-* [2026-04-22, 16:50:27](https://news.ycombinator.com/item?id=47866127) - [The Joy of Folding Bikes](https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes)
 * [2026-04-22, 13:12:57](https://news.ycombinator.com/item?id=47863103) - [Cheating at Tetris](https://chalkdustmagazine.com/features/cheating-at-tetris/)
 * [2026-04-22, 07:20:23](https://news.ycombinator.com/item?id=47860198) - [The Free Universal Construction Kit](https://fffff.at/free-universal-construction-kit/)
 
