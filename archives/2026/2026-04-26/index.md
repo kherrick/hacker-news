@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
 * [2026-04-26, 07:24:07](https://news.ycombinator.com/item?id=47908166) - [APL is more French than English](https://www.jsoftware.com/papers/perlis78.htm)
+* [2026-04-26, 07:22:22](https://news.ycombinator.com/item?id=47908158) - [The Knight Programming Language](https://github.com/knight-lang/knight-lang/tree/master)
 * [2026-04-26, 07:19:20](https://news.ycombinator.com/item?id=47908139) - [Exposing Floating Point – Bartosz Ciechanowski](https://ciechanow.ski/exposing-floating-point/)
 * [2026-04-26, 07:13:08](https://news.ycombinator.com/item?id=47908105) - [Tip: Web requests should not be measured in Hz [Hertz]](https://mastodon.catgirl.cloud/@sophie/116467789133733136)
 * [2026-04-26, 07:00:10](https://news.ycombinator.com/item?id=47908047) - [Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health)

@@ -32,6 +32,7 @@
 * [2026-04-23, 16:05:30](https://news.ycombinator.com/item?id=47877429) - [If America's So Rich, How'd It Get So Sad?](https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so)
 * [2026-04-23, 15:59:55](https://news.ycombinator.com/item?id=47877366) - [French government agency confirms breach as hacker offers to sell data](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/)
 * [2026-04-23, 15:59:55](https://news.ycombinator.com/item?id=47877366) - [France confirms data breach at government agency that manages citizens' IDs](https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/)
+* [2026-04-23, 15:53:22](https://news.ycombinator.com/item?id=47877277) - [I spent 6 years building my Kanban as I hated how managers run the boards](https://www.npmjs.com/package/ooko)
 * [2026-04-23, 15:29:50](https://news.ycombinator.com/item?id=47876930) - [Math Is Hard](http://miod.online.fr/software/openbsd/stories/vaxfp.html)
 * [2026-04-23, 15:08:54](https://news.ycombinator.com/item?id=47876647) - [To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets](https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force)
 * [2026-04-23, 14:17:08](https://news.ycombinator.com/item?id=47876043) - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://socket.dev/blog/bitwarden-cli-compromised)
