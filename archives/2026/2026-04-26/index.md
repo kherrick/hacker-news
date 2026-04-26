@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 22:14:59](https://news.ycombinator.com/item?id=47915274) - [Show HN: Startup Equity Adventure Game](https://options-game-polymathrobotics.pythonanywhere.com/)
 * [2026-04-26, 21:24:19](https://news.ycombinator.com/item?id=47914686) - [U.S. Mint Buys Drug Cartel Gold and Sells It as 'American'](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
 * [2026-04-26, 21:23:20](https://news.ycombinator.com/item?id=47914677) - [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/)
+* [2026-04-26, 21:04:39](https://news.ycombinator.com/item?id=47914438) - [Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3](https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca)
+* [2026-04-26, 20:59:07](https://news.ycombinator.com/item?id=47914369) - [Show HN: Tiao, A two-player turn-based board game](https://playtiao.com)
 * [2026-04-26, 20:58:31](https://news.ycombinator.com/item?id=47914367) - [Show HN: AI memory with biological decay (52% recall)](https://github.com/sachitrafa/YourMemory)
 * [2026-04-26, 20:56:30](https://news.ycombinator.com/item?id=47914350) - [Sawe smashes two-hour mark to 'move goalposts for marathon running'](https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo)
 * [2026-04-26, 20:45:26](https://news.ycombinator.com/item?id=47914215) - [Human Source License (HSL)](https://github.com/xdgrulez/human-source-license)
