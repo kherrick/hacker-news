@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 12:55:26](https://news.ycombinator.com/item?id=47909942) - [At least 10 people tied to sensitive US research have died or disappeared](https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation)
+* [2026-04-26, 10:50:32](https://news.ycombinator.com/item?id=47909226) - [Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
 * [2026-04-26, 09:50:21](https://news.ycombinator.com/item?id=47908912) - [Show HN: A free ESG stock screener that publishes its losses and methodology](https://jumpstartsignal.com/)
 * [2026-04-26, 09:32:22](https://news.ycombinator.com/item?id=47908833) - [Statecharts: hierarchical state machines](https://statecharts.dev/)
 * [2026-04-26, 08:18:09](https://news.ycombinator.com/item?id=47908433) - [Eden AI – European Alternative to OpenRouter](https://www.edenai.co)
