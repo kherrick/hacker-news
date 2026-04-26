@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-04-26, 09:50:21",
-      "https://news.ycombinator.com/item?id=47908912"
+      "2026-04-26, 12:55:26",
+      "https://news.ycombinator.com/item?id=47909942"
     ],
     [
-      "Show HN: A free ESG stock screener that publishes its losses and methodology",
-      "https://jumpstartsignal.com/"
+      "At least 10 people tied to sensitive US research have died or disappeared",
+      "https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation"
+    ]
+  ],
+  [
+    [
+      "2026-04-26, 10:50:32",
+      "https://news.ycombinator.com/item?id=47909226"
+    ],
+    [
+      "Asahi Linux Progress Linux 7.0",
+      "https://asahilinux.org/2026/04/progress-report-7-0/"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "APL is more French than English",
       "https://www.jsoftware.com/papers/perlis78.htm"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 07:22:22",
-      "https://news.ycombinator.com/item?id=47908158"
-    ],
-    [
-      "The Knight Programming Language",
-      "https://github.com/knight-lang/knight-lang/tree/master"
     ]
   ],
   [
@@ -161,26 +161,6 @@
   ],
   [
     [
-      "2026-04-25, 17:21:22",
-      "https://news.ycombinator.com/item?id=47902993"
-    ],
-    [
-      "Hokusai and Tesselations",
-      "https://dl.ndl.go.jp/pid/1899550/1/11/"
-    ]
-  ],
-  [
-    [
-      "2026-04-25, 17:20:34",
-      "https://news.ycombinator.com/item?id=47902987"
-    ],
-    [
-      "Simulacrum of Knowledge Work",
-      "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/"
-    ]
-  ],
-  [
-    [
       "2026-04-25, 16:11:50",
       "https://news.ycombinator.com/item?id=47902525"
     ],
@@ -197,6 +177,26 @@
     [
       "Quirks of Human Anatomy",
       "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 18:24:42",
+      "https://news.ycombinator.com/item?id=47894014"
+    ],
+    [
+      "Mine, a Coalton and Common Lisp IDE",
+      "https://coalton-lang.github.io/20260424-mine/"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 06:00:14",
+      "https://news.ycombinator.com/item?id=47886157"
+    ],
+    [
+      "My .config Ship of Theseus",
+      "https://shift1w.com/blog/config-of-theseus/"
     ]
   ],
   [
