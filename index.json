@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-04-26, 21:24:19",
-      "https://news.ycombinator.com/item?id=47914686"
-    ],
-    [
-      "U.S. Mint Buys Drug Cartel Gold and Sells It as 'American'",
-      "https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 21:23:20",
       "https://news.ycombinator.com/item?id=47914677"
     ],
@@ -35,8 +25,18 @@
       "https://news.ycombinator.com/item?id=47914350"
     ],
     [
-      "Sawe smashes two-hour mark to 'move goalposts for marathon running'",
+      "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
       "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo"
+    ]
+  ],
+  [
+    [
+      "2026-04-26, 20:41:06",
+      "https://news.ycombinator.com/item?id=47914165"
+    ],
+    [
+      "I bought Friendster for $30k – Here's what I'm doing with it",
+      "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d"
     ]
   ],
   [
@@ -55,8 +55,8 @@
       "https://news.ycombinator.com/item?id=47913855"
     ],
     [
-      "Fast16: Cyberweapon that predates Stuxnet by five years",
-      "https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/"
+      "Fast16: High-precision software sabotage 5 years before Stuxnet",
+      "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/"
     ]
   ],
   [
@@ -81,32 +81,22 @@
   ],
   [
     [
+      "2026-04-26, 19:42:59",
+      "https://news.ycombinator.com/item?id=47913382"
+    ],
+    [
+      "Chernobyl Wildlife Forty Years On",
+      "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on"
+    ]
+  ],
+  [
+    [
       "2026-04-26, 19:40:55",
       "https://news.ycombinator.com/item?id=47913349"
     ],
     [
       "Show HN: Auge Vision from Your Terminal",
       "https://auge.franzai.com/"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 18:34:31",
-      "https://news.ycombinator.com/item?id=47912645"
-    ],
-    [
-      "Waymo says can't avoid bike lanes because riders want to be dropped off in them",
-      "https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 18:15:59",
-      "https://news.ycombinator.com/item?id=47912513"
-    ],
-    [
-      "Plants can sense the sound of rain, a new study finds",
-      "https://news.mit.edu/2026/plants-can-sense-sound-rain-new-study-finds-0422"
     ]
   ],
   [
@@ -171,32 +161,12 @@
   ],
   [
     [
-      "2026-04-26, 14:18:38",
-      "https://news.ycombinator.com/item?id=47910546"
-    ],
-    [
-      "GitHub unwanted UX change: issue links now open in a popup",
-      "https://github.com/orgs/community/discussions/192666"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 13:58:13",
       "https://news.ycombinator.com/item?id=47910388"
     ],
     [
       "SWE-bench Verified no longer measures frontier coding capabilities",
       "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 12:55:53",
-      "https://news.ycombinator.com/item?id=47909945"
-    ],
-    [
-      "QNX on the Commodore 900 – Raiders of the lost hard drive [video] (2025)",
-      "https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/"
     ]
   ],
   [
@@ -251,12 +221,42 @@
   ],
   [
     [
+      "2026-04-24, 23:41:38",
+      "https://news.ycombinator.com/item?id=47897140"
+    ],
+    [
+      "Agentic AI systems violate the implicit assumptions of database design",
+      "https://arpitbhayani.me/blogs/defensive-databases/"
+    ]
+  ],
+  [
+    [
       "2026-04-24, 13:52:58",
       "https://news.ycombinator.com/item?id=47890339"
     ],
     [
       "Sloppy Copies",
       "https://www.markround.com/blog/2026/04/19/sloppy-copies/"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 04:57:16",
+      "https://news.ycombinator.com/item?id=47885719"
+    ],
+    [
+      "Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
+      "https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 03:07:45",
+      "https://news.ycombinator.com/item?id=47885012"
+    ],
+    [
+      "Dear friend, you have built a Kubernetes (2024)",
+      "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/"
     ]
   ],
   [
