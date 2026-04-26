@@ -57,6 +57,7 @@
 * [2026-04-23, 04:44:19](https://news.ycombinator.com/item?id=47872324) - [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
 * [2026-04-23, 04:40:31](https://news.ycombinator.com/item?id=47872306) - [MacBook Neo and How the iPad Should Be](https://craigmod.com/essays/ipad_neo/)
 * [2026-04-23, 04:17:14](https://news.ycombinator.com/item?id=47872200) - [A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic](https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/)
+* [2026-04-23, 03:05:13](https://news.ycombinator.com/item?id=47871877) - [Orinoco: Young Generation Garbage Collection](https://v8.dev/blog/orinoco-parallel-scavenger)
 * [2026-04-23, 02:55:17](https://news.ycombinator.com/item?id=47871817) - [Borrow-checking without type-checking](https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/)
 * [2026-04-23, 02:52:00](https://news.ycombinator.com/item?id=47871800) - [Flow Map Learning via Nongradient Vector Flow [pdf]](https://openreview.net/pdf?id=C1bkDPqvDW)
 * [2026-04-23, 01:59:08](https://news.ycombinator.com/item?id=47871519) - [Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image](https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/)

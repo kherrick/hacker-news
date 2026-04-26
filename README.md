@@ -26,9 +26,9 @@
 * [2026-04-24, 13:52:58](https://news.ycombinator.com/item?id=47890339) - [Sloppy Copies](https://www.markround.com/blog/2026/04/19/sloppy-copies/)
 * [2026-04-24, 03:41:09](https://news.ycombinator.com/item?id=47885239) - [Mahjong: A Visual Guide](https://themahjong.guide/)
 * [2026-04-23, 14:18:52](https://news.ycombinator.com/item?id=47876071) - [Show HN: Turning a Gaussian Splat into a videogame](https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/)
+* [2026-04-23, 03:05:13](https://news.ycombinator.com/item?id=47871877) - [Orinoco: Young Generation Garbage Collection](https://v8.dev/blog/orinoco-parallel-scavenger)
 * [2026-04-23, 00:14:55](https://news.ycombinator.com/item?id=47870901) - [OpenAI Privacy Filter](https://openai.com/index/introducing-openai-privacy-filter/)
 * [2026-04-22, 18:34:21](https://news.ycombinator.com/item?id=47867473) - [Flickr: The first and last great photo platform](https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/)
-* [2026-04-22, 13:12:57](https://news.ycombinator.com/item?id=47863103) - [Cheating at Tetris](https://chalkdustmagazine.com/features/cheating-at-tetris/)
 * [2026-04-22, 07:20:23](https://news.ycombinator.com/item?id=47860198) - [The Free Universal Construction Kit](https://fffff.at/free-universal-construction-kit/)
 
 ## [Archives](archives/index.md)
