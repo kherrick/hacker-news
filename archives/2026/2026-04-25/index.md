@@ -18,6 +18,7 @@
 * [2026-04-25, 19:38:55](https://news.ycombinator.com/item?id=47903945) - [America's Geothermal Breakthrough Could Unlock a 150-Gigawatt Energy Revolution](https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html)
 * [2026-04-25, 19:03:01](https://news.ycombinator.com/item?id=47903690) - [Show HN: Kloak, A secret manager that keeps K8s workload away from secrets](https://getkloak.io/)
 * [2026-04-25, 18:41:03](https://news.ycombinator.com/item?id=47903541) - [Three constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/)
+* [2026-04-25, 18:25:54](https://news.ycombinator.com/item?id=47903439) - [The Quiet Resurgence of RF Engineering](https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/)
 * [2026-04-25, 17:49:13](https://news.ycombinator.com/item?id=47903190) - [North American Millets Alliance(2023)](https://milletsalliance.org/)
 * [2026-04-25, 17:47:02](https://news.ycombinator.com/item?id=47903173) - [Mine, an IDE for Coalton and Common Lisp](https://coalton-lang.github.io/mine/)
 * [2026-04-25, 17:40:38](https://news.ycombinator.com/item?id=47903126) - [Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/)
