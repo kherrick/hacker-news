@@ -30,6 +30,7 @@
 * [2026-04-25, 14:31:43](https://news.ycombinator.com/item?id=47901819) - [Music of the BBC Microcomputer System](https://www.acornelectron.co.uk/eug/72/a-musi.html)
 * [2026-04-25, 14:17:31](https://news.ycombinator.com/item?id=47901734) - [GPT 5.5 biosafety bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty/)
 * [2026-04-25, 13:34:46](https://news.ycombinator.com/item?id=47901469) - [A Collection of Chronic Medical Conditions Common in Autistic and ADHD Adults [pdf]](https://allbrainsbelong.org/wp-content/uploads/2023/08/CLINICIAN-GUIDE-Everything-is-Connected-to-Everything-Project-All-Brains-Belong-VT-8.15.23.pdf)
+* [2026-04-25, 13:28:29](https://news.ycombinator.com/item?id=47901433) - [Fully Featured Audio DSP Firmware for the Raspberry Pi Pico](https://github.com/WeebLabs/DSPi)
 * [2026-04-25, 13:11:18](https://news.ycombinator.com/item?id=47901312) - [HEALPix](https://en.wikipedia.org/wiki/HEALPix)
 * [2026-04-25, 12:14:26](https://news.ycombinator.com/item?id=47900820) - [The Military Rockets That Launched the Space Age (2023)](https://airandspace.si.edu/stories/editorial/military-rockets-launched-space-age)
 * [2026-04-25, 11:16:23](https://news.ycombinator.com/item?id=47900506) - [Lambda Calculus Benchmark for AI](https://victortaelin.github.io/lambench/)

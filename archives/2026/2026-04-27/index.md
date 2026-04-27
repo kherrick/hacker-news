@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-27](index.md)
 
+* [2026-04-27, 10:56:34](https://news.ycombinator.com/item?id=47919997) - [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
+* [2026-04-27, 10:14:15](https://news.ycombinator.com/item?id=47919725) - [France's Mistral Built a $14B AI Empire by Not Being American](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
+* [2026-04-27, 09:19:06](https://news.ycombinator.com/item?id=47919386) - [Moleskine's AI Lord of the Rings collection can only mock](https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/)
 * [2026-04-27, 08:11:16](https://news.ycombinator.com/item?id=47918961) - [It's OK to abandon your side-project (2024)](https://robbowen.digital/wrote-about/abandoned-side-projects/)
 * [2026-04-27, 07:21:17](https://news.ycombinator.com/item?id=47918657) - [The Mushroom That Makes People Have the Exact Same Hallucination](https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/)
 * [2026-04-27, 02:18:58](https://news.ycombinator.com/item?id=47917026) - [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api)
