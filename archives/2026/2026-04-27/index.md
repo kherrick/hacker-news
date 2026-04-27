@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-27](index.md)
 
+* [2026-04-27, 21:26:25](https://news.ycombinator.com/item?id=47927526) - [NPM Website Is Down](https://status.npmjs.org)
+* [2026-04-27, 20:44:16](https://news.ycombinator.com/item?id=47927070) - [Three men are facing 44 charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
+* [2026-04-27, 20:24:33](https://news.ycombinator.com/item?id=47926861) - [Is my blue your blue?](https://ismy.blue/)
 * [2026-04-27, 19:53:29](https://news.ycombinator.com/item?id=47926480) - [L123: A Lotus 1-2-3–style terminal spreadsheet with modern Excel compatibility](https://github.com/duane1024/l123)
 * [2026-04-27, 19:37:23](https://news.ycombinator.com/item?id=47926286) - [Sebastian Sawe breaks iconic sub-two-hour marathon barrier](https://www.bbc.com/sport/athletics/articles/cp383n09030o)
 * [2026-04-27, 19:35:37](https://news.ycombinator.com/item?id=47926259) - [U.S. companies back Sam Altman's World ID even as much of the world pushes back](https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships/)
