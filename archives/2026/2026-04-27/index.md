@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-04-27](index.md)
 
+* [2026-04-27, 16:58:01](https://news.ycombinator.com/item?id=47924188) - [Canada's first sovereign wealth fund](https://www.cbc.ca/news/politics/sovereign-wealth-fund-carney-major-projects-9.7178238)
+* [2026-04-27, 16:57:34](https://news.ycombinator.com/item?id=47924181) - [Decoupled DiLoCo: Resilient, Distributed AI Training at Scale](https://deepmind.google/blog/decoupled-diloco/)
+* [2026-04-27, 15:45:13](https://news.ycombinator.com/item?id=47923121) - [Supreme Court to Hear Arguments in Landmark Roundup Weedkiller Case](https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html)
 * [2026-04-27, 15:36:12](https://news.ycombinator.com/item?id=47923010) - [Apple is dropping AFP/TimeCapsule support in macOS 27](https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/)
 * [2026-04-27, 15:31:36](https://news.ycombinator.com/item?id=47922957) - [The Woes of Sanitizing SVGs](https://muffin.ink/blog/scratch-svg-sanitization/)
 * [2026-04-27, 15:29:41](https://news.ycombinator.com/item?id=47922940) - [US Supreme Court Reviews Police Use of Cell Location Data to Find Criminals](https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html)
 * [2026-04-27, 15:12:41](https://news.ycombinator.com/item?id=47922712) - [Dutch central bank dithces AWS and chooses Lidl for European Cloud](https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/)
 * [2026-04-27, 14:24:53](https://news.ycombinator.com/item?id=47922079) - [\"Why not just use Lean?\"](https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html)
+* [2026-04-27, 13:55:43](https://news.ycombinator.com/item?id=47921626) - [Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop](https://www.systalyze.com/utilyze)
 * [2026-04-27, 13:34:48](https://news.ycombinator.com/item?id=47921377) - [Tendril – a self-extending agent that builds and registers its own tools](https://github.com/serverless-dna/tendril)
 * [2026-04-27, 13:24:15](https://news.ycombinator.com/item?id=47921262) - [The next phase of the Microsoft OpenAI partnership – OpenAI](https://openai.com/index/next-phase-of-microsoft-partnership/)
 * [2026-04-27, 13:22:42](https://news.ycombinator.com/item?id=47921248) - [Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
