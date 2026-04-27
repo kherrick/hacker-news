@@ -37,6 +37,7 @@
 * [2026-04-25, 11:03:15](https://news.ycombinator.com/item?id=47900451) - [Only One Side Will Be the True Successor to MS-DOS – Windows 2.x](https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/)
 * [2026-04-25, 10:59:29](https://news.ycombinator.com/item?id=47900440) - [A web-based RDP client built with Go WebAssembly and grdp](https://github.com/nakagami/grdpwasm)
 * [2026-04-25, 10:46:14](https://news.ycombinator.com/item?id=47900398) - [Martin Galway's music source files from 1980's Commodore 64 games](https://github.com/MartinGalway/C64_music)
+* [2026-04-25, 09:20:55](https://news.ycombinator.com/item?id=47899989) - [Rust Memory Management: Ownership vs. Reference Counting](https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html)
 * [2026-04-25, 08:53:53](https://news.ycombinator.com/item?id=47899844) - [Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf)
 * [2026-04-25, 06:56:23](https://news.ycombinator.com/item?id=47899334) - [Escrow Security for iCloud Keychain](https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web)
 * [2026-04-25, 06:27:06](https://news.ycombinator.com/item?id=47899199) - [Mystery Cpuid Bit](http://www.os2museum.com/wp/mystery-cpuid-bit/)

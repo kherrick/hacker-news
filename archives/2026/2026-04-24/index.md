@@ -54,6 +54,7 @@
 * [2026-04-24, 10:48:14](https://news.ycombinator.com/item?id=47888372) - [How to be anti-social – a guide to incoherent and isolating social experiences](https://nate.leaflet.pub/3mk4xkaxobc2p)
 * [2026-04-24, 10:44:09](https://news.ycombinator.com/item?id=47888337) - [nowhere: an entire website encoded in a URL](https://hostednowhere.com/)
 * [2026-04-24, 10:13:26](https://news.ycombinator.com/item?id=47888124) - [Mounting tar archives as a filesystem in WebAssembly](https://jeroen.github.io/notes/webassembly-tar/)
+* [2026-04-24, 09:47:21](https://news.ycombinator.com/item?id=47887907) - [Electrostatics and High Voltage Links](http://amasci.com/static/electrostatic1.html)
 * [2026-04-24, 09:17:57](https://news.ycombinator.com/item?id=47887683) - [S. Korea police arrest man over AI image of runaway wolf that misled authorities](https://www.bbc.com/news/articles/c4gx1n0dl9no)
 * [2026-04-24, 08:28:47](https://news.ycombinator.com/item?id=47887334) - [Spinel: Ruby AOT Native Compiler](https://github.com/matz/spinel)
 * [2026-04-24, 07:22:31](https://news.ycombinator.com/item?id=47886773) - [Composition Shouldn't be this Hard](https://www.cambra.dev/blog/announcement/)
