@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
 * [2026-04-25, 23:44:05](https://news.ycombinator.com/item?id=47905768) - [DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles](https://www.lmsys.org/blog/2026-04-25-deepseek-v4/)
+* [2026-04-25, 23:43:19](https://news.ycombinator.com/item?id=47905761) - [Understanding the short circuit in solid-state batteries](https://www.mpie.de/5151287/short-circuit-solid-state-batteries)
 * [2026-04-25, 22:41:05](https://news.ycombinator.com/item?id=47905304) - [Colorado Adds Open-Source Exemption to Age-Verification Bill](https://fosstodon.org/@carlrichell/116460505717380644)
 * [2026-04-25, 22:39:33](https://news.ycombinator.com/item?id=47905283) - [Trump fires all 24 members of the U.S. National Science Foundation](https://www.science.org/content/article/trump-fires-nsf-s-oversight-board)
 * [2026-04-25, 21:51:18](https://news.ycombinator.com/item?id=47904876) - [USB Cheat Sheet](https://fabiensanglard.net/usbcheat/index.html)
@@ -33,6 +34,7 @@
 * [2026-04-25, 13:28:29](https://news.ycombinator.com/item?id=47901433) - [Fully Featured Audio DSP Firmware for the Raspberry Pi Pico](https://github.com/WeebLabs/DSPi)
 * [2026-04-25, 13:11:18](https://news.ycombinator.com/item?id=47901312) - [HEALPix](https://en.wikipedia.org/wiki/HEALPix)
 * [2026-04-25, 12:14:26](https://news.ycombinator.com/item?id=47900820) - [The Military Rockets That Launched the Space Age (2023)](https://airandspace.si.edu/stories/editorial/military-rockets-launched-space-age)
+* [2026-04-25, 11:39:53](https://news.ycombinator.com/item?id=47900649) - [Getting my daily news from a dot matrix printer 2024](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
 * [2026-04-25, 11:16:23](https://news.ycombinator.com/item?id=47900506) - [Lambda Calculus Benchmark for AI](https://victortaelin.github.io/lambench/)
 * [2026-04-25, 11:10:41](https://news.ycombinator.com/item?id=47900478) - [Discret 11, the French TV encryption of the 80s](https://fabiensanglard.net/discret11/)
 * [2026-04-25, 11:03:15](https://news.ycombinator.com/item?id=47900451) - [Only One Side Will Be the True Successor to MS-DOS – Windows 2.x](https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/)

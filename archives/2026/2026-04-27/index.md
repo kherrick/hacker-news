@@ -4,9 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-04-27](index.md)
 
+* [2026-04-27, 13:24:15](https://news.ycombinator.com/item?id=47921262) - [The next phase of the Microsoft OpenAI partnership – OpenAI](https://openai.com/index/next-phase-of-microsoft-partnership/)
+* [2026-04-27, 13:22:42](https://news.ycombinator.com/item?id=47921248) - [Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
+* [2026-04-27, 12:55:39](https://news.ycombinator.com/item?id=47920973) - [Windows 11's second-chance setup dialogs hurt IT, drain productivity](https://www.theregister.com/2026/04/26/windows_second_chance_setup/)
+* [2026-04-27, 12:35:55](https://news.ycombinator.com/item?id=47920787) - [Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac)
+* [2026-04-27, 11:39:49](https://news.ycombinator.com/item?id=47920289) - [Show HN: A terminal spreadsheet editor with Vim keybindings](https://github.com/garritfra/cell)
+* [2026-04-27, 11:08:26](https://news.ycombinator.com/item?id=47920074) - [Men Who Stare at Walls](https://www.alexselimov.com/posts/men_who_stare_at_walls/)
 * [2026-04-27, 10:56:34](https://news.ycombinator.com/item?id=47919997) - [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
+* [2026-04-27, 10:15:17](https://news.ycombinator.com/item?id=47919733) - [FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss](https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher)
 * [2026-04-27, 10:14:15](https://news.ycombinator.com/item?id=47919725) - [France's Mistral Built a $14B AI Empire by Not Being American](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
+* [2026-04-27, 09:57:10](https://news.ycombinator.com/item?id=47919630) - [4TB of voice samples just stolen from 40k AI contractors at Mercor](https://app.oravys.com/blog/mercor-breach-2026)
 * [2026-04-27, 09:19:06](https://news.ycombinator.com/item?id=47919386) - [Moleskine's AI Lord of the Rings collection can only mock](https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/)
+* [2026-04-27, 08:54:57](https://news.ycombinator.com/item?id=47919240) - [Quarkdown – Markdown with Superpowers](https://quarkdown.com/)
 * [2026-04-27, 08:11:16](https://news.ycombinator.com/item?id=47918961) - [It's OK to abandon your side-project (2024)](https://robbowen.digital/wrote-about/abandoned-side-projects/)
 * [2026-04-27, 07:21:17](https://news.ycombinator.com/item?id=47918657) - [The Mushroom That Makes People Have the Exact Same Hallucination](https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/)
 * [2026-04-27, 02:18:58](https://news.ycombinator.com/item?id=47917026) - [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api)
