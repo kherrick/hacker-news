@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-04-27, 01:32:44",
-      "https://news.ycombinator.com/item?id=47916769"
+      "2026-04-27, 02:18:58",
+      "https://news.ycombinator.com/item?id=47917026"
     ],
     [
-      "Show HN: The Unix Magic poster, annotated (updated)",
-      "https://github.com/drio/unixmagic"
+      "The Prompt API",
+      "https://developer.chrome.com/docs/ai/prompt-api"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 01:56:39",
+      "https://news.ycombinator.com/item?id=47916909"
+    ],
+    [
+      "EvanFlow – A TDD driven feedback loop for Claude Code",
+      "https://github.com/evanklem/evanflow"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 01:54:32",
+      "https://news.ycombinator.com/item?id=47916890"
+    ],
+    [
+      "TurboQuant: A First-Principles Walkthrough",
+      "https://arkaung.github.io/interactive-turboquant/"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "FreeBSD Device Drivers Book",
       "https://github.com/ebrandi/FDD-book"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 22:14:59",
-      "https://news.ycombinator.com/item?id=47915274"
-    ],
-    [
-      "Show HN: Startup Equity Adventure Game",
-      "https://options-game-polymathrobotics.pythonanywhere.com/"
     ]
   ],
   [
@@ -181,32 +191,22 @@
   ],
   [
     [
-      "2026-04-26, 13:00:50",
-      "https://news.ycombinator.com/item?id=47909979"
-    ],
-    [
-      "The fastest Linux timestamps",
-      "https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 09:32:22",
-      "https://news.ycombinator.com/item?id=47908833"
-    ],
-    [
-      "Statecharts: hierarchical state machines",
-      "https://statecharts.dev/"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 07:00:39",
       "https://news.ycombinator.com/item?id=47908051"
     ],
     [
       "Self-updating screenshots",
       "https://interblah.net/self-updating-screenshots"
+    ]
+  ],
+  [
+    [
+      "2026-04-26, 02:15:36",
+      "https://news.ycombinator.com/item?id=47906666"
+    ],
+    [
+      "A Guide to CubeSat Mission and Bus Design",
+      "https://pressbooks-dev.oer.hawaii.edu/epet302/"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
+      "2026-04-25, 19:40:10",
+      "https://news.ycombinator.com/item?id=47903959"
+    ],
+    [
+      "Revocation of X.509 Certificates",
+      "https://blog.apnic.net/2026/04/24/revocation-of-x-509-certificates/"
+    ]
+  ],
+  [
+    [
       "2026-04-25, 18:41:03",
       "https://news.ycombinator.com/item?id=47903541"
     ],
     [
       "Three constraints before I build anything",
       "https://jordanlord.co.uk/blog/3-constraints/"
-    ]
-  ],
-  [
-    [
-      "2026-04-25, 14:31:43",
-      "https://news.ycombinator.com/item?id=47901819"
-    ],
-    [
-      "Music of the BBC Microcomputer System",
-      "https://www.acornelectron.co.uk/eug/72/a-musi.html"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-04-24, 02:40:39",
-      "https://news.ycombinator.com/item?id=47884850"
-    ],
-    [
-      "XOXO Festival Archive",
-      "https://xoxofest.com/"
-    ]
-  ],
-  [
-    [
       "2026-04-24, 00:03:20",
       "https://news.ycombinator.com/item?id=47883839"
     ],
@@ -287,6 +277,16 @@
     [
       "Box to save memory in Rust",
       "https://dystroy.org/blog/box-to-save-memory/"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 13:54:31",
+      "https://news.ycombinator.com/item?id=47875795"
+    ],
+    [
+      "Flipdiscs",
+      "https://flipdisc.io"
     ]
   ],
   [
