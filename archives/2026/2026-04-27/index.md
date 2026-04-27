@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-27](index.md)
 
+* [2026-04-27, 19:53:29](https://news.ycombinator.com/item?id=47926480) - [L123: A Lotus 1-2-3–style terminal spreadsheet with modern Excel compatibility](https://github.com/duane1024/l123)
 * [2026-04-27, 19:37:23](https://news.ycombinator.com/item?id=47926286) - [Sebastian Sawe breaks iconic sub-two-hour marathon barrier](https://www.bbc.com/sport/athletics/articles/cp383n09030o)
 * [2026-04-27, 19:35:37](https://news.ycombinator.com/item?id=47926259) - [U.S. companies back Sam Altman's World ID even as much of the world pushes back](https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships/)
 * [2026-04-27, 18:55:06](https://news.ycombinator.com/item?id=47925679) - [Our principles](https://openai.com/index/our-principles/)
