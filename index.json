@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-04-27, 13:24:15",
-      "https://news.ycombinator.com/item?id=47921262"
+      "2026-04-27, 15:36:12",
+      "https://news.ycombinator.com/item?id=47923010"
     ],
     [
-      "The next phase of the Microsoft OpenAI partnership – OpenAI",
-      "https://openai.com/index/next-phase-of-microsoft-partnership/"
+      "Apple is dropping AFP/TimeCapsule support in macOS 27",
+      "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 15:31:36",
+      "https://news.ycombinator.com/item?id=47922957"
+    ],
+    [
+      "The Woes of Sanitizing SVGs",
+      "https://muffin.ink/blog/scratch-svg-sanitization/"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 15:29:41",
+      "https://news.ycombinator.com/item?id=47922940"
+    ],
+    [
+      "US Supreme Court Reviews Police Use of Cell Location Data to Find Criminals",
+      "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 15:12:41",
+      "https://news.ycombinator.com/item?id=47922712"
+    ],
+    [
+      "Dutch central bank dithces AWS and chooses Lidl for European Cloud",
+      "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 14:24:53",
+      "https://news.ycombinator.com/item?id=47922079"
+    ],
+    [
+      "\"Why not just use Lean?\"",
+      "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 13:34:48",
+      "https://news.ycombinator.com/item?id=47921377"
+    ],
+    [
+      "Tendril – a self-extending agent that builds and registers its own tools",
+      "https://github.com/serverless-dna/tendril"
     ]
   ],
   [
@@ -15,18 +65,18 @@
       "https://news.ycombinator.com/item?id=47921248"
     ],
     [
-      "Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI",
+      "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
       "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai"
     ]
   ],
   [
     [
-      "2026-04-27, 12:55:39",
-      "https://news.ycombinator.com/item?id=47920973"
+      "2026-04-27, 13:05:59",
+      "https://news.ycombinator.com/item?id=47921064"
     ],
     [
-      "Windows 11's second-chance setup dialogs hurt IT, drain productivity",
-      "https://www.theregister.com/2026/04/26/windows_second_chance_setup/"
+      "Running Local LLMs Offline on a Ten-Hour Flight",
+      "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/"
     ]
   ],
   [
@@ -55,7 +105,7 @@
       "https://news.ycombinator.com/item?id=47920074"
     ],
     [
-      "Men Who Stare at Walls",
+      "Men who stare at walls",
       "https://www.alexselimov.com/posts/men_who_stare_at_walls/"
     ]
   ],
@@ -77,16 +127,6 @@
     [
       "FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss",
       "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 10:14:15",
-      "https://news.ycombinator.com/item?id=47919725"
-    ],
-    [
-      "France's Mistral Built a $14B AI Empire by Not Being American",
-      "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2026-04-26, 13:58:13",
-      "https://news.ycombinator.com/item?id=47910388"
-    ],
-    [
-      "SWE-bench Verified no longer measures frontier coding capabilities",
-      "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 13:45:03",
       "https://news.ycombinator.com/item?id=47910287"
     ],
@@ -197,16 +227,6 @@
     [
       "Self-updating screenshots",
       "https://interblah.net/self-updating-screenshots"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 02:15:36",
-      "https://news.ycombinator.com/item?id=47906666"
-    ],
-    [
-      "A Guide to CubeSat Mission and Bus Design",
-      "https://pressbooks-dev.oer.hawaii.edu/epet302/"
     ]
   ],
   [
@@ -251,42 +271,22 @@
   ],
   [
     [
-      "2026-04-25, 09:20:55",
-      "https://news.ycombinator.com/item?id=47899989"
+      "2026-04-25, 07:11:55",
+      "https://news.ycombinator.com/item?id=47899399"
     ],
     [
-      "Rust Memory Management: Ownership vs. Reference Counting",
-      "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html"
+      "Managing the Unmanaged Switch",
+      "https://watchmysys.com/blog/2026/03/managing-the-unmanaged-switch/"
     ]
   ],
   [
     [
-      "2026-04-25, 06:27:06",
-      "https://news.ycombinator.com/item?id=47899199"
+      "2026-04-24, 17:45:52",
+      "https://news.ycombinator.com/item?id=47893516"
     ],
     [
-      "Mystery Cpuid Bit",
-      "http://www.os2museum.com/wp/mystery-cpuid-bit/"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 09:47:21",
-      "https://news.ycombinator.com/item?id=47887907"
-    ],
-    [
-      "Electrostatics and High Voltage Links",
-      "http://amasci.com/static/electrostatic1.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 17:02:24",
-      "https://news.ycombinator.com/item?id=47878231"
-    ],
-    [
-      "Box to save memory in Rust",
-      "https://dystroy.org/blog/box-to-save-memory/"
+      "Den stora Älgvandringen – The great moose migration (live)",
+      "https://www.svtplay.se/video/jXv3A5G/den-stora-algvandringen/idag-00-00"
     ]
   ],
   [
