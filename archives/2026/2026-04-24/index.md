@@ -22,6 +22,7 @@
 * [2026-04-24, 18:23:32](https://news.ycombinator.com/item?id=47894000) - [OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)
 * [2026-04-24, 18:06:05](https://news.ycombinator.com/item?id=47893779) - [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
 * [2026-04-24, 17:53:37](https://news.ycombinator.com/item?id=47893620) - [CC-Canary: Detect early signs of regressions in Claude Code](https://github.com/delta-hq/cc-canary)
+* [2026-04-24, 17:45:52](https://news.ycombinator.com/item?id=47893516) - [Den stora Älgvandringen – The great moose migration (live)](https://www.svtplay.se/video/jXv3A5G/den-stora-algvandringen/idag-00-00)
 * [2026-04-24, 17:39:37](https://news.ycombinator.com/item?id=47893427) - [CSS as a Query Language](https://evdc.me/blog/css-query)
 * [2026-04-24, 17:11:24](https://news.ycombinator.com/item?id=47893060) - [Tariffs Raised Consumers' Prices, but the Refunds Go Only to Businesses](https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html)
 * [2026-04-24, 16:51:46](https://news.ycombinator.com/item?id=47892765) - [Tesla (TSLA) discloses $2B AI hardware company acquisition buried](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/)

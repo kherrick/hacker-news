@@ -42,6 +42,7 @@
 * [2026-04-25, 10:46:14](https://news.ycombinator.com/item?id=47900398) - [Martin Galway's music source files from 1980's Commodore 64 games](https://github.com/MartinGalway/C64_music)
 * [2026-04-25, 09:20:55](https://news.ycombinator.com/item?id=47899989) - [Rust Memory Management: Ownership vs. Reference Counting](https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html)
 * [2026-04-25, 08:53:53](https://news.ycombinator.com/item?id=47899844) - [Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf)
+* [2026-04-25, 07:11:55](https://news.ycombinator.com/item?id=47899399) - [Managing the Unmanaged Switch](https://watchmysys.com/blog/2026/03/managing-the-unmanaged-switch/)
 * [2026-04-25, 06:56:23](https://news.ycombinator.com/item?id=47899334) - [Escrow Security for iCloud Keychain](https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web)
 * [2026-04-25, 06:27:06](https://news.ycombinator.com/item?id=47899199) - [Mystery Cpuid Bit](http://www.os2museum.com/wp/mystery-cpuid-bit/)
 * [2026-04-25, 05:56:12](https://news.ycombinator.com/item?id=47899053) - [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)

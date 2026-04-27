@@ -4,8 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-04-27](index.md)
 
+* [2026-04-27, 15:36:12](https://news.ycombinator.com/item?id=47923010) - [Apple is dropping AFP/TimeCapsule support in macOS 27](https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/)
+* [2026-04-27, 15:31:36](https://news.ycombinator.com/item?id=47922957) - [The Woes of Sanitizing SVGs](https://muffin.ink/blog/scratch-svg-sanitization/)
+* [2026-04-27, 15:29:41](https://news.ycombinator.com/item?id=47922940) - [US Supreme Court Reviews Police Use of Cell Location Data to Find Criminals](https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html)
+* [2026-04-27, 15:12:41](https://news.ycombinator.com/item?id=47922712) - [Dutch central bank dithces AWS and chooses Lidl for European Cloud](https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/)
+* [2026-04-27, 14:24:53](https://news.ycombinator.com/item?id=47922079) - [\"Why not just use Lean?\"](https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html)
+* [2026-04-27, 13:34:48](https://news.ycombinator.com/item?id=47921377) - [Tendril – a self-extending agent that builds and registers its own tools](https://github.com/serverless-dna/tendril)
 * [2026-04-27, 13:24:15](https://news.ycombinator.com/item?id=47921262) - [The next phase of the Microsoft OpenAI partnership – OpenAI](https://openai.com/index/next-phase-of-microsoft-partnership/)
 * [2026-04-27, 13:22:42](https://news.ycombinator.com/item?id=47921248) - [Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
+* [2026-04-27, 13:05:59](https://news.ycombinator.com/item?id=47921064) - [Running Local LLMs Offline on a Ten-Hour Flight](https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/)
 * [2026-04-27, 12:55:39](https://news.ycombinator.com/item?id=47920973) - [Windows 11's second-chance setup dialogs hurt IT, drain productivity](https://www.theregister.com/2026/04/26/windows_second_chance_setup/)
 * [2026-04-27, 12:35:55](https://news.ycombinator.com/item?id=47920787) - [Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac)
 * [2026-04-27, 11:39:49](https://news.ycombinator.com/item?id=47920289) - [Show HN: A terminal spreadsheet editor with Vim keybindings](https://github.com/garritfra/cell)
