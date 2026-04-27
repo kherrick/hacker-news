@@ -12,6 +12,7 @@
 * [2026-04-25, 20:17:41](https://news.ycombinator.com/item?id=47904224) - [Can you stop beans from making you gassy?](https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862)
 * [2026-04-25, 20:04:37](https://news.ycombinator.com/item?id=47904138) - [Nicholas Carlini – Black-hat LLMs [video]](https://www.youtube.com/watch?v=1sd26pWhfmg)
 * [2026-04-25, 19:51:46](https://news.ycombinator.com/item?id=47904043) - [The Stanford Freshmen Who Want to Rule the World](https://www.theatlantic.com/ideas/2026/04/stanford-students-power/686920/)
+* [2026-04-25, 19:40:10](https://news.ycombinator.com/item?id=47903959) - [Revocation of X.509 Certificates](https://blog.apnic.net/2026/04/24/revocation-of-x-509-certificates/)
 * [2026-04-25, 19:38:55](https://news.ycombinator.com/item?id=47903945) - [America's Geothermal Breakthrough Could Unlock a 150-Gigawatt Energy Revolution](https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html)
 * [2026-04-25, 19:03:01](https://news.ycombinator.com/item?id=47903690) - [Show HN: Kloak, A secret manager that keeps K8s workload away from secrets](https://getkloak.io/)
 * [2026-04-25, 18:41:03](https://news.ycombinator.com/item?id=47903541) - [Three constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/)

@@ -39,6 +39,7 @@
 * [2026-04-23, 14:18:52](https://news.ycombinator.com/item?id=47876071) - [Show HN: Turning a Gaussian Splat into a videogame](https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/)
 * [2026-04-23, 14:17:08](https://news.ycombinator.com/item?id=47876043) - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://socket.dev/blog/bitwarden-cli-compromised)
 * [2026-04-23, 13:58:03](https://news.ycombinator.com/item?id=47875843) - [UK Biobank health data keeps ending up on GitHub](https://biobank.rocher.lc)
+* [2026-04-23, 13:54:31](https://news.ycombinator.com/item?id=47875795) - [Flipdiscs](https://flipdisc.io)
 * [2026-04-23, 13:37:48](https://news.ycombinator.com/item?id=47875629) - [US Department of Justice has officially reclassified cannabis as less dangerous](https://www.bbc.com/news/articles/cdxd0xxp0jko)
 * [2026-04-23, 13:34:47](https://news.ycombinator.com/item?id=47875597) - [Optimizing Datalog for the GPU](https://dl.acm.org/doi/10.1145/3669940.3707274)
 * [2026-04-23, 13:17:55](https://news.ycombinator.com/item?id=47875420) - [The end of responsive images](https://piccalil.li/blog/the-end-of-responsive-images/)

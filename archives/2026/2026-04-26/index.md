@@ -53,6 +53,7 @@
 * [2026-04-26, 03:44:28](https://news.ycombinator.com/item?id=47907130) - [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/)
 * [2026-04-26, 03:25:02](https://news.ycombinator.com/item?id=47907018) - [GnuPG – post-quantum crypto landing in mainline](https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html)
 * [2026-04-26, 02:38:51](https://news.ycombinator.com/item?id=47906770) - [Reviving BrowserID in 2026](https://wakamoleguy.com/p/reviving-browserid-in-2026)
+* [2026-04-26, 02:15:36](https://news.ycombinator.com/item?id=47906666) - [A Guide to CubeSat Mission and Bus Design](https://pressbooks-dev.oer.hawaii.edu/epet302/)
 * [2026-04-26, 01:39:32](https://news.ycombinator.com/item?id=47906485) - [Does Internet Advertising Work?](https://freakonomics.com/podcast/does-advertising-actually-work-part-2-digital-ep-441/)
 * [2026-04-26, 01:25:13](https://news.ycombinator.com/item?id=47906420) - [When the cheap one is the cool one](https://arun.is/blog/cheap-cool/)
 * [2026-04-26, 00:50:56](https://news.ycombinator.com/item?id=47906253) - [Tell HN: An app is silently installing itself on my iPhone every day](https://news.ycombinator.com/item?id=47906253)
