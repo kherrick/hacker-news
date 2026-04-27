@@ -8,6 +8,7 @@
 * [2026-04-22, 23:31:25](https://news.ycombinator.com/item?id=47870588) - [How to Stop a Data Center in Your Backyard](https://lataco.com/stop-sgv-data-center-building)
 * [2026-04-22, 23:07:47](https://news.ycombinator.com/item?id=47870439) - [Desmond Morris, 98, Dies; Zoologist Saw Links Between Humans and Apes](https://www.nytimes.com/2026/04/20/science/desmond-morris-dead.html)
 * [2026-04-22, 22:41:57](https://news.ycombinator.com/item?id=47870245) - [Lute: A Standalone Runtime for Luau](https://lute.luau.org/)
+* [2026-04-22, 22:31:24](https://news.ycombinator.com/item?id=47870162) - [When Your Digital Life Vanishes](https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes)
 * [2026-04-22, 22:25:28](https://news.ycombinator.com/item?id=47870108) - [Bring your own Agent to MS Teams](https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/)
 * [2026-04-22, 21:26:38](https://news.ycombinator.com/item?id=47869496) - [The Neon King of New Orleans](https://gardenandgun.com/new-orleans-neon-king)
 * [2026-04-22, 20:50:21](https://news.ycombinator.com/item?id=47869130) - [Olive CSS: Lisp powered vanilla CSS utility-Class A la Tailwind](https://codeberg.org/jjba23/olive-css)
