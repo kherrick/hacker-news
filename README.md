@@ -4,7 +4,6 @@
 * [2026-04-27, 20:44:16](https://news.ycombinator.com/item?id=47927070) - [Three men are facing 44 charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
 * [2026-04-27, 20:24:33](https://news.ycombinator.com/item?id=47926861) - [Is my blue your blue?](https://ismy.blue/)
 * [2026-04-27, 19:53:29](https://news.ycombinator.com/item?id=47926480) - [L123: A Lotus 1-2-3–style terminal spreadsheet with modern Excel compatibility](https://github.com/duane1024/l123)
-* [2026-04-27, 18:55:06](https://news.ycombinator.com/item?id=47925679) - [Our principles](https://openai.com/index/our-principles/)
 * [2026-04-27, 17:50:10](https://news.ycombinator.com/item?id=47924877) - [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/)
 * [2026-04-27, 17:45:02](https://news.ycombinator.com/item?id=47924813) - [Easyduino: Open Source PCB Devboards for KiCad](https://github.com/Hanqaqa/Easyduino)
 * [2026-04-27, 16:57:34](https://news.ycombinator.com/item?id=47924181) - [Decoupled DiLoCo: Resilient, Distributed AI Training at Scale](https://deepmind.google/blog/decoupled-diloco/)
@@ -28,6 +27,7 @@
 * [2026-04-25, 21:17:02](https://news.ycombinator.com/item?id=47904615) - [Magic by return of post: How mail order delivered the occult](https://publicdomainreview.org/essay/magic-by-return-of-post/)
 * [2026-04-25, 19:53:41](https://news.ycombinator.com/item?id=47904053) - [Adding a team was the wrong strategic decision](https://learnings.aleixmorgadas.dev/p/adding-a-team-was-the-wrong-strategic)
 * [2026-04-25, 18:25:54](https://news.ycombinator.com/item?id=47903439) - [The quiet resurgence of RF engineering](https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/)
+* [2026-04-25, 14:24:47](https://news.ycombinator.com/item?id=47901776) - [Radar Laboratory – Interactive Radar Phenomenology](https://radarlaboratory.com/)
 * [2026-04-25, 13:28:29](https://news.ycombinator.com/item?id=47901433) - [Fully Featured Audio DSP Firmware for the Raspberry Pi Pico](https://github.com/WeebLabs/DSPi)
 * [2026-04-23, 13:54:31](https://news.ycombinator.com/item?id=47875795) - [Flipdiscs](https://flipdisc.io)
 
