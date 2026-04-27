@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-27, 08:11:16",
+      "https://news.ycombinator.com/item?id=47918961"
+    ],
+    [
+      "It's OK to abandon your side-project (2024)",
+      "https://robbowen.digital/wrote-about/abandoned-side-projects/"
+    ]
+  ],
+  [
+    [
       "2026-04-27, 07:21:17",
       "https://news.ycombinator.com/item?id=47918657"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2026-04-26, 20:40:50",
-      "https://news.ycombinator.com/item?id=47914161"
-    ],
-    [
-      "MoQ Boy",
-      "https://moq.dev/blog/moq-boy/"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 20:18:37",
       "https://news.ycombinator.com/item?id=47913855"
     ],
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-04-26, 16:02:14",
-      "https://news.ycombinator.com/item?id=47911350"
-    ],
-    [
-      "Clay PCB Tutorial",
-      "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 15:17:34",
       "https://news.ycombinator.com/item?id=47911013"
     ],
@@ -161,22 +151,22 @@
   ],
   [
     [
-      "2026-04-26, 14:59:37",
-      "https://news.ycombinator.com/item?id=47910877"
-    ],
-    [
-      "Lessons from building multiplayer browsers",
-      "https://www.alejandro.pe/writing/sail-muddy-lessons"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 13:58:13",
       "https://news.ycombinator.com/item?id=47910388"
     ],
     [
       "SWE-bench Verified no longer measures frontier coding capabilities",
       "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/"
+    ]
+  ],
+  [
+    [
+      "2026-04-26, 12:42:11",
+      "https://news.ycombinator.com/item?id=47909860"
+    ],
+    [
+      "Bob Odenkirk would like to remind you that life is a meaningless farce",
+      "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html"
     ]
   ],
   [
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2026-04-25, 12:14:26",
-      "https://news.ycombinator.com/item?id=47900820"
+      "2026-04-25, 09:20:55",
+      "https://news.ycombinator.com/item?id=47899989"
     ],
     [
-      "The Military Rockets That Launched the Space Age (2023)",
-      "https://airandspace.si.edu/stories/editorial/military-rockets-launched-space-age"
+      "Rust Memory Management: Ownership vs. Reference Counting",
+      "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Quirks of Human Anatomy",
       "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 09:47:21",
+      "https://news.ycombinator.com/item?id=47887907"
+    ],
+    [
+      "Electrostatics and High Voltage Links",
+      "http://amasci.com/static/electrostatic1.html"
     ]
   ],
   [
