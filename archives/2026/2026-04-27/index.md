@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-27](index.md)
 
+* [2026-04-27, 19:37:23](https://news.ycombinator.com/item?id=47926286) - [Sebastian Sawe breaks iconic sub-two-hour marathon barrier](https://www.bbc.com/sport/athletics/articles/cp383n09030o)
+* [2026-04-27, 19:35:37](https://news.ycombinator.com/item?id=47926259) - [U.S. companies back Sam Altman's World ID even as much of the world pushes back](https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships/)
+* [2026-04-27, 18:55:06](https://news.ycombinator.com/item?id=47925679) - [Our principles](https://openai.com/index/our-principles/)
+* [2026-04-27, 18:34:30](https://news.ycombinator.com/item?id=47925425) - [United Wizards of the Coast](https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa)
 * [2026-04-27, 17:50:10](https://news.ycombinator.com/item?id=47924877) - [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/)
 * [2026-04-27, 17:45:02](https://news.ycombinator.com/item?id=47924813) - [Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards](https://github.com/Hanqaqa/Easyduino)
 * [2026-04-27, 17:42:19](https://news.ycombinator.com/item?id=47924775) - [GitHub is having issues now](https://www.githubstatus.com)
@@ -23,6 +27,7 @@
 * [2026-04-27, 13:05:59](https://news.ycombinator.com/item?id=47921064) - [Running Local LLMs Offline on a Ten-Hour Flight](https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/)
 * [2026-04-27, 12:55:39](https://news.ycombinator.com/item?id=47920973) - [Windows 11's second-chance setup dialogs hurt IT, drain productivity](https://www.theregister.com/2026/04/26/windows_second_chance_setup/)
 * [2026-04-27, 12:35:55](https://news.ycombinator.com/item?id=47920787) - [Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac)
+* [2026-04-27, 11:43:59](https://news.ycombinator.com/item?id=47920315) - [China blocks Meta's acquisition of AI startup Manus](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
 * [2026-04-27, 11:39:49](https://news.ycombinator.com/item?id=47920289) - [Show HN: A terminal spreadsheet editor with Vim keybindings](https://github.com/garritfra/cell)
 * [2026-04-27, 11:08:26](https://news.ycombinator.com/item?id=47920074) - [Men Who Stare at Walls](https://www.alexselimov.com/posts/men_who_stare_at_walls/)
 * [2026-04-27, 10:56:34](https://news.ycombinator.com/item?id=47919997) - [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)

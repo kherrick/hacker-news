@@ -52,6 +52,7 @@
 * [2026-04-26, 06:24:42](https://news.ycombinator.com/item?id=47907879) - [The West Forgot How to Make Things. Now It's Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
 * [2026-04-26, 05:06:58](https://news.ycombinator.com/item?id=47907543) - [AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice](https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/)
 * [2026-04-26, 03:58:17](https://news.ycombinator.com/item?id=47907205) - [My Homemade PBX (2002)](https://wandel.ca/homepage/pbx.html)
+* [2026-04-26, 03:52:43](https://news.ycombinator.com/item?id=47907175) - [Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar](https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar)
 * [2026-04-26, 03:44:28](https://news.ycombinator.com/item?id=47907130) - [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/)
 * [2026-04-26, 03:25:02](https://news.ycombinator.com/item?id=47907018) - [GnuPG – post-quantum crypto landing in mainline](https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html)
 * [2026-04-26, 02:38:51](https://news.ycombinator.com/item?id=47906770) - [Reviving BrowserID in 2026](https://wakamoleguy.com/p/reviving-browserid-in-2026)
