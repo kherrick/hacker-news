@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-27, 10:56:34",
+      "https://news.ycombinator.com/item?id=47919997"
+    ],
+    [
+      "Pgbackrest is no longer being maintained",
+      "https://github.com/pgbackrest/pgbackrest"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 10:14:15",
+      "https://news.ycombinator.com/item?id=47919725"
+    ],
+    [
+      "France's Mistral Built a $14B AI Empire by Not Being American",
+      "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 09:19:06",
+      "https://news.ycombinator.com/item?id=47919386"
+    ],
+    [
+      "Moleskine's AI Lord of the Rings collection can only mock",
+      "https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/"
+    ]
+  ],
+  [
+    [
       "2026-04-27, 08:11:16",
       "https://news.ycombinator.com/item?id=47918961"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2026-04-26, 21:23:20",
-      "https://news.ycombinator.com/item?id=47914677"
-    ],
-    [
-      "Butterflies are in decline across North America, a look at the Western Monarch",
-      "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 20:56:30",
       "https://news.ycombinator.com/item?id=47914350"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-04-26, 16:42:19",
-      "https://news.ycombinator.com/item?id=47911644"
-    ],
-    [
-      "The Visible Zorker: Zork 1",
-      "https://eblong.com/infocom/visi/zork1/"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 16:27:29",
       "https://news.ycombinator.com/item?id=47911524"
     ],
@@ -141,22 +151,22 @@
   ],
   [
     [
-      "2026-04-26, 15:17:34",
-      "https://news.ycombinator.com/item?id=47911013"
-    ],
-    [
-      "Show HN: Free textbook on engineering thermodynamics",
-      "https://thermodynamicsbook.com/"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 13:58:13",
       "https://news.ycombinator.com/item?id=47910388"
     ],
     [
       "SWE-bench Verified no longer measures frontier coding capabilities",
       "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/"
+    ]
+  ],
+  [
+    [
+      "2026-04-26, 13:45:03",
+      "https://news.ycombinator.com/item?id=47910287"
+    ],
+    [
+      "Branimir Lambov from IBM on Cassandra",
+      "https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html"
     ]
   ],
   [
@@ -201,22 +211,22 @@
   ],
   [
     [
-      "2026-04-25, 19:40:10",
-      "https://news.ycombinator.com/item?id=47903959"
-    ],
-    [
-      "Revocation of X.509 Certificates",
-      "https://blog.apnic.net/2026/04/24/revocation-of-x-509-certificates/"
-    ]
-  ],
-  [
-    [
       "2026-04-25, 18:41:03",
       "https://news.ycombinator.com/item?id=47903541"
     ],
     [
       "Three constraints before I build anything",
       "https://jordanlord.co.uk/blog/3-constraints/"
+    ]
+  ],
+  [
+    [
+      "2026-04-25, 13:28:29",
+      "https://news.ycombinator.com/item?id=47901433"
+    ],
+    [
+      "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
+      "https://github.com/WeebLabs/DSPi"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Electrostatics and High Voltage Links",
       "http://amasci.com/static/electrostatic1.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 04:57:16",
-      "https://news.ycombinator.com/item?id=47885719"
-    ],
-    [
-      "Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
-      "https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core"
     ]
   ],
   [
