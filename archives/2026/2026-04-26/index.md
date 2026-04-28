@@ -33,6 +33,7 @@
 * [2026-04-26, 15:17:34](https://news.ycombinator.com/item?id=47911013) - [Free Textbook on Engineering Thermodynamics](https://thermodynamicsbook.com/)
 * [2026-04-26, 14:59:37](https://news.ycombinator.com/item?id=47910877) - [Lessons from building multiplayer browsers](https://www.alejandro.pe/writing/sail-muddy-lessons)
 * [2026-04-26, 14:18:38](https://news.ycombinator.com/item?id=47910546) - [GitHub unwanted UX change: issue links now open in a popup](https://github.com/orgs/community/discussions/192666)
+* [2026-04-26, 14:16:08](https://news.ycombinator.com/item?id=47910527) - [HVD Bodedo (2007)](https://www.hvdfonts.com/fonts/hvd-bodedo)
 * [2026-04-26, 13:58:13](https://news.ycombinator.com/item?id=47910388) - [Why SWE-bench Verified no longer measures frontier coding capabilities](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)
 * [2026-04-26, 13:45:03](https://news.ycombinator.com/item?id=47910287) - [Branimir Lambov from IBM on Cassandra](https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html)
 * [2026-04-26, 13:00:50](https://news.ycombinator.com/item?id=47909979) - [The fastest Linux timestamps](https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/)
