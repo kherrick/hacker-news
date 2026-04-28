@@ -1,22 +1,52 @@
 [
   [
     [
-      "2026-04-27, 23:14:26",
-      "https://news.ycombinator.com/item?id=47928554"
+      "2026-04-28, 03:23:25",
+      "https://news.ycombinator.com/item?id=47930150"
     ],
     [
-      "New Integrated by Design FreeBSD Book",
-      "https://vivianvoss.net/blog/integrated-by-design-launch"
+      "Claire's closes all 154 stores in UK and Ireland with loss of 1,300 jobs",
+      "https://www.bbc.com/news/articles/cg4047qnpk2o"
     ]
   ],
   [
     [
-      "2026-04-27, 22:13:17",
-      "https://news.ycombinator.com/item?id=47928088"
+      "2026-04-28, 02:45:33",
+      "https://news.ycombinator.com/item?id=47929961"
     ],
     [
-      "Claude Pro: Opus model will only be available if extra usage is enabled",
-      "https://support.claude.com/en/articles/11940350-claude-code-model-configuration"
+      "Show HN: Waiting for LLMs Suck – Give your user a game",
+      "https://github.com/ftaip/waiting-game"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 01:14:31",
+      "https://news.ycombinator.com/item?id=47929375"
+    ],
+    [
+      "Show HN: AgentSwift – Open-source iOS builder agent",
+      "https://github.com/hpennington/agentswift"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 00:32:04",
+      "https://news.ycombinator.com/item?id=47929035"
+    ],
+    [
+      "Ted Nyman – High Performance Git",
+      "https://gitperf.com/"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 23:14:26",
+      "https://news.ycombinator.com/item?id=47928554"
+    ],
+    [
+      "Integrated by Design",
+      "https://vivianvoss.net/blog/integrated-by-design-launch"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Talkie: a 13B vintage language model from 1930",
       "https://talkie-lm.com/introducing-talkie"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 21:26:25",
-      "https://news.ycombinator.com/item?id=47927526"
-    ],
-    [
-      "NPM website was down",
-      "https://status.npmjs.org"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Is my blue your blue?",
       "https://ismy.blue/"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 19:53:29",
-      "https://news.ycombinator.com/item?id=47926480"
-    ],
-    [
-      "L123: A Lotus 1-2-3–style terminal spreadsheet with modern Excel compatibility",
-      "https://github.com/duane1024/l123"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "The woes of sanitizing SVGs",
       "https://muffin.ink/blog/scratch-svg-sanitization/"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 15:29:41",
-      "https://news.ycombinator.com/item?id=47922940"
-    ],
-    [
-      "US Supreme Court reviews police use of cell location data",
-      "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html"
     ]
   ],
   [
@@ -211,22 +211,12 @@
   ],
   [
     [
-      "2026-04-27, 08:54:57",
-      "https://news.ycombinator.com/item?id=47919240"
+      "2026-04-26, 14:16:08",
+      "https://news.ycombinator.com/item?id=47910527"
     ],
     [
-      "Quarkdown – Markdown with Superpowers",
-      "https://quarkdown.com/"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 10:56:24",
-      "https://news.ycombinator.com/item?id=47909252"
-    ],
-    [
-      "The Secret Life of NaN",
-      "https://anniecherkaev.com/the-secret-life-of-nan"
+      "HVD Bodedo (2007)",
+      "https://www.hvdfonts.com/fonts/hvd-bodedo"
     ]
   ],
   [
@@ -245,28 +235,18 @@
       "https://news.ycombinator.com/item?id=47906942"
     ],
     [
-      "Meetings Are Forcing Functions",
+      "Meetings are forcing functions",
       "https://www.mooreds.com/wordpress/archives/3734"
     ]
   ],
   [
     [
-      "2026-04-25, 21:17:02",
-      "https://news.ycombinator.com/item?id=47904615"
+      "2026-04-25, 22:27:44",
+      "https://news.ycombinator.com/item?id=47905208"
     ],
     [
-      "Magic by return of post: How mail order delivered the occult",
-      "https://publicdomainreview.org/essay/magic-by-return-of-post/"
-    ]
-  ],
-  [
-    [
-      "2026-04-25, 19:53:41",
-      "https://news.ycombinator.com/item?id=47904053"
-    ],
-    [
-      "Adding a team was the wrong strategic decision",
-      "https://learnings.aleixmorgadas.dev/p/adding-a-team-was-the-wrong-strategic"
+      "How I leared what a decoupling capacitor is for, the hard way",
+      "https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor"
     ]
   ],
   [
@@ -277,6 +257,16 @@
     [
       "The quiet resurgence of RF engineering",
       "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/"
+    ]
+  ],
+  [
+    [
+      "2026-04-25, 15:41:54",
+      "https://news.ycombinator.com/item?id=47902269"
+    ],
+    [
+      "Mo RAM, Mo Problems (2025)",
+      "https://fabiensanglard.net/curse/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
       "https://github.com/WeebLabs/DSPi"
+    ]
+  ],
+  [
+    [
+      "2026-04-25, 08:16:19",
+      "https://news.ycombinator.com/item?id=47899669"
+    ],
+    [
+      "Pgrx: Build Postgres Extensions with Rust",
+      "https://github.com/pgcentralfoundation/pgrx"
     ]
   ]
 ]
