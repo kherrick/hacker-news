@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-28](index.md)
 
+* [2026-04-28, 21:17:40](https://news.ycombinator.com/item?id=47940921) - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
 * [2026-04-28, 20:50:08](https://news.ycombinator.com/item?id=47940545) - [BP profits more than double as Iran war sends oil prices higher](https://www.bbc.com/news/articles/c2eveyvgn9no)
 * [2026-04-28, 20:38:21](https://news.ycombinator.com/item?id=47940389) - [I Won a Championship That Doesn't Exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
 * [2026-04-28, 20:30:35](https://news.ycombinator.com/item?id=47940271) - [Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles](https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/)
+* [2026-04-28, 20:26:28](https://news.ycombinator.com/item?id=47940203) - [Show HN: My friend and his AI homies wrote SGI Indy emulator in Rust](https://github.com/techomancer/iris)
 * [2026-04-28, 19:44:52](https://news.ycombinator.com/item?id=47939579) - [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
 * [2026-04-28, 19:24:43](https://news.ycombinator.com/item?id=47939320) - [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/)
 * [2026-04-28, 19:10:14](https://news.ycombinator.com/item?id=47939105) - [C, Just In Time!](https://dyne.org/cjit/)
