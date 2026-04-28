@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 23:48:30](https://news.ycombinator.com/item?id=47916103) - [Voice Modems](https://computer.rip/2026-04-26-voice-modems.html)
 * [2026-04-26, 22:53:06](https://news.ycombinator.com/item?id=47915632) - [FreeBSD Device Drivers Book](https://github.com/ebrandi/FDD-book)
 * [2026-04-26, 22:14:59](https://news.ycombinator.com/item?id=47915274) - [Show HN: Startup Equity Adventure Game](https://options-game-polymathrobotics.pythonanywhere.com/)
+* [2026-04-26, 21:51:54](https://news.ycombinator.com/item?id=47915023) - [Deep under Antarctic ice, a long-predicted cosmic whisper breaks through](https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html)
 * [2026-04-26, 21:24:19](https://news.ycombinator.com/item?id=47914686) - [U.S. Mint Buys Drug Cartel Gold and Sells It as 'American'](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
 * [2026-04-26, 21:23:20](https://news.ycombinator.com/item?id=47914677) - [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/)
 * [2026-04-26, 21:04:39](https://news.ycombinator.com/item?id=47914438) - [Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3](https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca)
@@ -28,6 +30,7 @@
 * [2026-04-26, 17:28:58](https://news.ycombinator.com/item?id=47912065) - [If more than 50% press blue, everyone survives. Red pressers always survive](https://shankwiler.com/posts/button-survival-hypothetical/)
 * [2026-04-26, 17:18:14](https://news.ycombinator.com/item?id=47911977) - [Dillo Browser Release 3.3.0](https://dillo-browser.org/release/3.3.0/)
 * [2026-04-26, 16:57:56](https://news.ycombinator.com/item?id=47911780) - [GoDaddy Gave a Domain to a Stranger Without Any Documentation](https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/)
+* [2026-04-26, 16:45:40](https://news.ycombinator.com/item?id=47911675) - [The predictable failure of the QDay Prize](https://algassert.com/post/2601)
 * [2026-04-26, 16:42:19](https://news.ycombinator.com/item?id=47911644) - [The Visible Zorker: Zork 1](https://eblong.com/infocom/visi/zork1/)
 * [2026-04-26, 16:27:29](https://news.ycombinator.com/item?id=47911524) - [An AI agent deleted our production database. The agent's confession is below](https://twitter.com/lifeof_jer/status/2048103471019434248)
 * [2026-04-26, 16:02:14](https://news.ycombinator.com/item?id=47911350) - [Clay PCB Tutorial](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial)
@@ -61,6 +64,7 @@
 * [2026-04-26, 03:12:04](https://news.ycombinator.com/item?id=47906942) - [Meetings Are Forcing Functions](https://www.mooreds.com/wordpress/archives/3734)
 * [2026-04-26, 02:38:51](https://news.ycombinator.com/item?id=47906770) - [Reviving BrowserID in 2026](https://wakamoleguy.com/p/reviving-browserid-in-2026)
 * [2026-04-26, 02:15:36](https://news.ycombinator.com/item?id=47906666) - [A Guide to CubeSat Mission and Bus Design](https://pressbooks-dev.oer.hawaii.edu/epet302/)
+* [2026-04-26, 02:12:13](https://news.ycombinator.com/item?id=47906651) - [I have officially retired from Emacs](https://nullprogram.com/blog/2026/04/26/)
 * [2026-04-26, 01:39:32](https://news.ycombinator.com/item?id=47906485) - [Does Internet Advertising Work?](https://freakonomics.com/podcast/does-advertising-actually-work-part-2-digital-ep-441/)
 * [2026-04-26, 01:25:13](https://news.ycombinator.com/item?id=47906420) - [When the cheap one is the cool one](https://arun.is/blog/cheap-cool/)
 * [2026-04-26, 00:50:56](https://news.ycombinator.com/item?id=47906253) - [Tell HN: An app is silently installing itself on my iPhone every day](https://news.ycombinator.com/item?id=47906253)
