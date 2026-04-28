@@ -1,32 +1,192 @@
 [
   [
     [
-      "2026-04-28, 10:08:38",
-      "https://news.ycombinator.com/item?id=47932446"
+      "2026-04-28, 17:00:06",
+      "https://news.ycombinator.com/item?id=47937203"
     ],
     [
-      "The Social Edge of Intelligence: Individual Gain, Collective Loss",
-      "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/"
+      "Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)",
+      "https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628"
     ]
   ],
   [
     [
-      "2026-04-28, 10:05:03",
-      "https://news.ycombinator.com/item?id=47932422"
+      "2026-04-28, 16:39:53",
+      "https://news.ycombinator.com/item?id=47936867"
     ],
     [
-      "An Update on GitHub Availability",
-      "https://github.blog/news-insights/company-news/an-update-on-github-availability/"
+      "AI's Economics Don't Make Sense",
+      "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
     ]
   ],
   [
     [
-      "2026-04-28, 06:27:39",
-      "https://news.ycombinator.com/item?id=47931035"
+      "2026-04-28, 16:24:00",
+      "https://news.ycombinator.com/item?id=47936616"
     ],
     [
-      "GTFOBins",
-      "https://gtfobins.org/"
+      "Greece to ban anonymity on social media",
+      "https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 16:17:55",
+      "https://news.ycombinator.com/item?id=47936511"
+    ],
+    [
+      "Laguna XS.2 and M.1",
+      "https://poolside.ai/blog/laguna-a-deeper-dive"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 16:11:02",
+      "https://news.ycombinator.com/item?id=47936411"
+    ],
+    [
+      "Cybersec is a thankless job: expanding workload and shrinking pay packet",
+      "https://www.theregister.com/2026/04/27/from_a_massive_skills_gap/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 16:07:58",
+      "https://news.ycombinator.com/item?id=47936370"
+    ],
+    [
+      "Anthropic Joins the Blender Development Fund as Corporate Patron",
+      "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 16:06:01",
+      "https://news.ycombinator.com/item?id=47936347"
+    ],
+    [
+      "AI uncovers 38 vulnerabilities in largest open source medical record software",
+      "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 15:55:55",
+      "https://news.ycombinator.com/item?id=47936236"
+    ],
+    [
+      "After Spain's blackout, its shift to renewables and grid evolution power on",
+      "https://www.theguardian.com/world/2026/apr/28/blackout-spain-renewable-energy-grid-solar-wind"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 15:54:21",
+      "https://news.ycombinator.com/item?id=47936210"
+    ],
+    [
+      "FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
+      "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 15:49:22",
+      "https://news.ycombinator.com/item?id=47936156"
+    ],
+    [
+      "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+      "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 15:21:00",
+      "https://news.ycombinator.com/item?id=47935853"
+    ],
+    [
+      "Your phone is about to stop being yours",
+      "https://keepandroidopen.org/en/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 13:25:48",
+      "https://news.ycombinator.com/item?id=47934261"
+    ],
+    [
+      "Show HN: Live Sun and Moon Dashboard with NASA Footage",
+      "https://www.lumara-space.app/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 13:13:54",
+      "https://news.ycombinator.com/item?id=47934120"
+    ],
+    [
+      "UAE Leaves OPEC and OPEC+",
+      "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 11:58:14",
+      "https://news.ycombinator.com/item?id=47933257"
+    ],
+    [
+      "GitHub Actions is the weakest link",
+      "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 11:56:04",
+      "https://news.ycombinator.com/item?id=47933236"
+    ],
+    [
+      "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "https://github.com/microsoft/VibeVoice"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 11:54:20",
+      "https://news.ycombinator.com/item?id=47933208"
+    ],
+    [
+      "Localsend: An open-source cross-platform alternative to AirDrop",
+      "https://github.com/localsend/localsend"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 11:31:40",
+      "https://news.ycombinator.com/item?id=47932990"
+    ],
+    [
+      "Period tracking app has been selling data to Meta",
+      "https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 11:24:52",
+      "https://news.ycombinator.com/item?id=47932937"
+    ],
+    [
+      "Who owns the code Claude Code wrote?",
+      "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 09:01:05",
+      "https://news.ycombinator.com/item?id=47932028"
+    ],
+    [
+      "GitHub Copilot code review will start consuming GitHub Actions minutes",
+      "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/"
     ]
   ],
   [
@@ -41,26 +201,6 @@
   ],
   [
     [
-      "2026-04-28, 03:27:40",
-      "https://news.ycombinator.com/item?id=47930170"
-    ],
-    [
-      "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
-      "https://technology.robbyant.com/lingbot-map"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 00:32:04",
-      "https://news.ycombinator.com/item?id=47929035"
-    ],
-    [
-      "High Performance Git",
-      "https://gitperf.com/"
-    ]
-  ],
-  [
-    [
       "2026-04-27, 21:55:48",
       "https://news.ycombinator.com/item?id=47927903"
     ],
@@ -71,122 +211,22 @@
   ],
   [
     [
-      "2026-04-27, 20:44:16",
-      "https://news.ycombinator.com/item?id=47927070"
-    ],
-    [
-      "Three men are facing charges in Toronto SMS Blaster arrests",
-      "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/"
-    ]
-  ],
-  [
-    [
       "2026-04-27, 20:24:33",
       "https://news.ycombinator.com/item?id=47926861"
     ],
     [
-      "Is my blue your blue?",
+      "Is my blue your blue? (2024)",
       "https://ismy.blue/"
     ]
   ],
   [
     [
-      "2026-04-27, 17:45:02",
-      "https://news.ycombinator.com/item?id=47924813"
+      "2026-04-27, 10:42:02",
+      "https://news.ycombinator.com/item?id=47919891"
     ],
     [
-      "Easyduino: Open Source PCB Devboards for KiCad",
-      "https://github.com/Hanqaqa/Easyduino"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 16:03:08",
-      "https://news.ycombinator.com/item?id=47923357"
-    ],
-    [
-      "GitHub Copilot is moving to usage-based billing",
-      "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 15:36:12",
-      "https://news.ycombinator.com/item?id=47923010"
-    ],
-    [
-      "Networking changes coming in macOS 27",
-      "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 15:31:36",
-      "https://news.ycombinator.com/item?id=47922957"
-    ],
-    [
-      "The woes of sanitizing SVGs",
-      "https://muffin.ink/blog/scratch-svg-sanitization/"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 13:22:42",
-      "https://news.ycombinator.com/item?id=47921248"
-    ],
-    [
-      "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 11:08:26",
-      "https://news.ycombinator.com/item?id=47920074"
-    ],
-    [
-      "Men who stare at walls",
-      "https://www.alexselimov.com/posts/men_who_stare_at_walls/"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 10:56:34",
-      "https://news.ycombinator.com/item?id=47919997"
-    ],
-    [
-      "Pgbackrest is no longer being maintained",
-      "https://github.com/pgbackrest/pgbackrest"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 10:15:17",
-      "https://news.ycombinator.com/item?id=47919733"
-    ],
-    [
-      "FDA approves first gene therapy for treatment of genetic hearing loss",
-      "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 09:57:10",
-      "https://news.ycombinator.com/item?id=47919630"
-    ],
-    [
-      "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "https://app.oravys.com/blog/mercor-breach-2026"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 08:54:57",
-      "https://news.ycombinator.com/item?id=47919240"
-    ],
-    [
-      "Quarkdown – Markdown with Superpowers",
-      "https://quarkdown.com/"
+      "PyWry: Cross-Platform Rendering Engine in Python",
+      "https://deeleeramone.github.io/PyWry/"
     ]
   ],
   [
@@ -201,82 +241,52 @@
   ],
   [
     [
-      "2026-04-26, 20:37:19",
-      "https://news.ycombinator.com/item?id=47914118"
+      "2026-04-27, 07:02:25",
+      "https://news.ycombinator.com/item?id=47918549"
     ],
     [
-      "In Kannauj, perfumers have been making monsoon-infused mitti attar for centuries",
-      "https://www.atlasobscura.com/articles/smell-of-rain-kannauj-perfume-mitti-attar-india"
+      "I Spent My Sabbatical Building a Power Meter for Sledgehammers",
+      "https://leblancfg.com/intensity-pad-founder-story.html"
     ]
   ],
   [
     [
-      "2026-04-26, 03:52:43",
-      "https://news.ycombinator.com/item?id=47907175"
+      "2026-04-26, 23:48:30",
+      "https://news.ycombinator.com/item?id=47916103"
     ],
     [
-      "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
-      "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar"
+      "Voice Modems",
+      "https://computer.rip/2026-04-26-voice-modems.html"
     ]
   ],
   [
     [
-      "2026-04-26, 03:12:04",
-      "https://news.ycombinator.com/item?id=47906942"
+      "2026-04-26, 21:51:54",
+      "https://news.ycombinator.com/item?id=47915023"
     ],
     [
-      "Meetings are forcing functions",
-      "https://www.mooreds.com/wordpress/archives/3734"
+      "Deep under Antarctic ice, a long-predicted cosmic whisper breaks through",
+      "https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html"
     ]
   ],
   [
     [
-      "2026-04-25, 22:27:44",
-      "https://news.ycombinator.com/item?id=47905208"
+      "2026-04-26, 16:45:40",
+      "https://news.ycombinator.com/item?id=47911675"
     ],
     [
-      "How I leared what a decoupling capacitor is for, the hard way",
-      "https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor"
+      "The predictable failure of the QDay Prize",
+      "https://algassert.com/post/2601"
     ]
   ],
   [
     [
-      "2026-04-25, 18:25:54",
-      "https://news.ycombinator.com/item?id=47903439"
+      "2026-04-26, 02:12:13",
+      "https://news.ycombinator.com/item?id=47906651"
     ],
     [
-      "The quiet resurgence of RF engineering",
-      "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/"
-    ]
-  ],
-  [
-    [
-      "2026-04-25, 15:41:54",
-      "https://news.ycombinator.com/item?id=47902269"
-    ],
-    [
-      "Mo RAM, Mo Problems (2025)",
-      "https://fabiensanglard.net/curse/"
-    ]
-  ],
-  [
-    [
-      "2026-04-25, 14:24:47",
-      "https://news.ycombinator.com/item?id=47901776"
-    ],
-    [
-      "Radar Laboratory – Interactive Radar Phenomenology",
-      "https://radarlaboratory.com/"
-    ]
-  ],
-  [
-    [
-      "2026-04-25, 13:28:29",
-      "https://news.ycombinator.com/item?id=47901433"
-    ],
-    [
-      "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
-      "https://github.com/WeebLabs/DSPi"
+      "I have officially retired from Emacs",
+      "https://nullprogram.com/blog/2026/04/26/"
     ]
   ],
   [
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=47901064"
     ],
     [
-      "The World's Most Complex Machine",
+      "ASML became the chokepoint for cutting-edge chips",
       "https://worksinprogress.co/issue/the-worlds-most-complex-machine/"
-    ]
-  ],
-  [
-    [
-      "2026-04-25, 08:16:19",
-      "https://news.ycombinator.com/item?id=47899669"
-    ],
-    [
-      "Pgrx: Build Postgres Extensions with Rust",
-      "https://github.com/pgcentralfoundation/pgrx"
     ]
   ]
 ]
