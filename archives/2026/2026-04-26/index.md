@@ -40,6 +40,7 @@
 * [2026-04-26, 14:16:08](https://news.ycombinator.com/item?id=47910527) - [HVD Bodedo (2007)](https://www.hvdfonts.com/fonts/hvd-bodedo)
 * [2026-04-26, 13:58:13](https://news.ycombinator.com/item?id=47910388) - [Why SWE-bench Verified no longer measures frontier coding capabilities](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)
 * [2026-04-26, 13:45:03](https://news.ycombinator.com/item?id=47910287) - [Branimir Lambov from IBM on Cassandra](https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html)
+* [2026-04-26, 13:32:28](https://news.ycombinator.com/item?id=47910201) - [Things C++26 define_static_array can't do](https://quuxplusone.github.io/blog/2026/04/24/define-static-array/)
 * [2026-04-26, 13:00:50](https://news.ycombinator.com/item?id=47909979) - [The fastest Linux timestamps](https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/)
 * [2026-04-26, 12:55:53](https://news.ycombinator.com/item?id=47909945) - [QNX on the Commodore 900 – Raiders of the lost hard drive [video]](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/)
 * [2026-04-26, 12:55:26](https://news.ycombinator.com/item?id=47909942) - [At least 10 people tied to sensitive US research have died or disappeared](https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation)

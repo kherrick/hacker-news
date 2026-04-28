@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-04-28](index.md)
 
+* [2026-04-28, 18:08:13](https://news.ycombinator.com/item?id=47938184) - [Waymo in Portland](https://waymo.com/blog/shorts/waymo-in-portland/)
+* [2026-04-28, 18:01:21](https://news.ycombinator.com/item?id=47938097) - [Claude.ai is unavailable](https://status.claude.com/incidents/9l93x2ht4s5w)
+* [2026-04-28, 17:56:57](https://news.ycombinator.com/item?id=47938036) - [The Americans queueing up to renounce their citizenship](https://www.theguardian.com/us-news/2026/apr/28/americans-queueing-up-renounce-citizenship-dictatorship)
+* [2026-04-28, 17:29:11](https://news.ycombinator.com/item?id=47937641) - [BookStack Moves from GitHub to Codeberg](https://github.com/BookStackApp/BookStack/issues/4551)
 * [2026-04-28, 17:00:06](https://news.ycombinator.com/item?id=47937203) - [Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)](https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628)
 * [2026-04-28, 16:39:53](https://news.ycombinator.com/item?id=47936867) - [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
 * [2026-04-28, 16:24:00](https://news.ycombinator.com/item?id=47936616) - [Greece to ban anonymity on social media](https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media/)
 * [2026-04-28, 16:17:55](https://news.ycombinator.com/item?id=47936511) - [Laguna XS.2 and M.1](https://poolside.ai/blog/laguna-a-deeper-dive)
+* [2026-04-28, 16:15:43](https://news.ycombinator.com/item?id=47936479) - [GitHub RCE Vulnerability: CVE-2026-3854 Breakdown](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854)
 * [2026-04-28, 16:11:02](https://news.ycombinator.com/item?id=47936411) - [Cybersec is a thankless job: expanding workload and shrinking pay packet](https://www.theregister.com/2026/04/27/from_a_massive_skills_gap/)
 * [2026-04-28, 16:07:58](https://news.ycombinator.com/item?id=47936370) - [Anthropic Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/)
 * [2026-04-28, 16:06:01](https://news.ycombinator.com/item?id=47936347) - [AI uncovers 38 vulnerabilities in largest open source medical record software](https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers)
