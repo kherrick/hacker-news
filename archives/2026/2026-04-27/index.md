@@ -48,6 +48,7 @@
 * [2026-04-27, 07:59:37](https://news.ycombinator.com/item?id=47918891) - [Can You Find the Comet?](https://apod.nasa.gov/apod/ap260427.html)
 * [2026-04-27, 07:21:17](https://news.ycombinator.com/item?id=47918657) - [The Mushroom That Makes People Have the Exact Same Hallucination](https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/)
 * [2026-04-27, 07:02:25](https://news.ycombinator.com/item?id=47918549) - [I Spent My Sabbatical Building a Power Meter for Sledgehammers](https://leblancfg.com/intensity-pad-founder-story.html)
+* [2026-04-27, 03:00:54](https://news.ycombinator.com/item?id=47917250) - [Patch applies fake diffs from commit messages](https://samizdat.dev/phantom-patch/)
 * [2026-04-27, 02:18:58](https://news.ycombinator.com/item?id=47917026) - [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api)
 * [2026-04-27, 01:56:39](https://news.ycombinator.com/item?id=47916909) - [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
 * [2026-04-27, 01:54:32](https://news.ycombinator.com/item?id=47916890) - [TurboQuant: A First-Principles Walkthrough](https://arkaung.github.io/interactive-turboquant/)
