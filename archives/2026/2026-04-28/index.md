@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-28](index.md)
 
+* [2026-04-28, 20:50:08](https://news.ycombinator.com/item?id=47940545) - [BP profits more than double as Iran war sends oil prices higher](https://www.bbc.com/news/articles/c2eveyvgn9no)
+* [2026-04-28, 20:38:21](https://news.ycombinator.com/item?id=47940389) - [I Won a Championship That Doesn't Exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
+* [2026-04-28, 20:30:35](https://news.ycombinator.com/item?id=47940271) - [Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles](https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/)
 * [2026-04-28, 19:44:52](https://news.ycombinator.com/item?id=47939579) - [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
 * [2026-04-28, 19:24:43](https://news.ycombinator.com/item?id=47939320) - [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/)
 * [2026-04-28, 19:10:14](https://news.ycombinator.com/item?id=47939105) - [C, Just In Time!](https://dyne.org/cjit/)
@@ -23,6 +26,7 @@
 * [2026-04-28, 16:11:02](https://news.ycombinator.com/item?id=47936411) - [Cybersec is a thankless job: expanding workload and shrinking pay packet](https://www.theregister.com/2026/04/27/from_a_massive_skills_gap/)
 * [2026-04-28, 16:07:58](https://news.ycombinator.com/item?id=47936370) - [Anthropic Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/)
 * [2026-04-28, 16:06:01](https://news.ycombinator.com/item?id=47936347) - [AI uncovers 38 vulnerabilities in largest open source medical record software](https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers)
+* [2026-04-28, 16:03:34](https://news.ycombinator.com/item?id=47936312) - [Show HN: Drive any macOS app in the background without stealing the cursor](https://github.com/trycua/cua)
 * [2026-04-28, 15:58:30](https://news.ycombinator.com/item?id=47936264) - [Warp is now open-source](https://www.warp.dev/blog/warp-is-now-open-source)
 * [2026-04-28, 15:55:55](https://news.ycombinator.com/item?id=47936236) - [After Spain's blackout, its shift to renewables and grid evolution power on](https://www.theguardian.com/world/2026/apr/28/blackout-spain-renewable-energy-grid-solar-wind)
 * [2026-04-28, 15:54:21](https://news.ycombinator.com/item?id=47936210) - [FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger](https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/)
@@ -30,6 +34,7 @@
 * [2026-04-28, 15:21:00](https://news.ycombinator.com/item?id=47935853) - [Your phone is about to stop being yours](https://keepandroidopen.org/en/)
 * [2026-04-28, 13:25:48](https://news.ycombinator.com/item?id=47934261) - [Show HN: Live Sun and Moon Dashboard with NASA Footage](https://www.lumara-space.app/)
 * [2026-04-28, 13:13:54](https://news.ycombinator.com/item?id=47934120) - [UAE Leaves OPEC and OPEC+](https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/)
+* [2026-04-28, 13:02:01](https://news.ycombinator.com/item?id=47933983) - [UAE to leave OPEC](https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d)
 * [2026-04-28, 11:58:14](https://news.ycombinator.com/item?id=47933257) - [GitHub Actions is the weakest link](https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html)
 * [2026-04-28, 11:56:04](https://news.ycombinator.com/item?id=47933236) - [Microsoft VibeVoice: Open-Source Frontier Voice AI](https://github.com/microsoft/VibeVoice)
 * [2026-04-28, 11:54:20](https://news.ycombinator.com/item?id=47933208) - [Localsend: An open-source cross-platform alternative to AirDrop](https://github.com/localsend/localsend)
