@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-28, 22:14:29",
+      "https://news.ycombinator.com/item?id=47941590"
+    ],
+    [
+      "Carrot Disclosure: Forgejo",
+      "https://dustri.org/b/carrot-disclosure-forgejo.html"
+    ]
+  ],
+  [
+    [
       "2026-04-28, 21:17:40",
       "https://news.ycombinator.com/item?id=47940921"
     ],
@@ -27,16 +37,6 @@
     [
       "Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles",
       "https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 20:26:28",
-      "https://news.ycombinator.com/item?id=47940203"
-    ],
-    [
-      "Show HN: My friend and his AI homies wrote SGI Indy emulator in Rust",
-      "https://github.com/techomancer/iris"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-04-28, 11:24:52",
+      "https://news.ycombinator.com/item?id=47932937"
+    ],
+    [
+      "Who owns the code Claude Code wrote?",
+      "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote"
+    ]
+  ],
+  [
+    [
       "2026-04-28, 09:01:05",
       "https://news.ycombinator.com/item?id=47932028"
     ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=47921610"
     ],
     [
-      "A New Type of Neuroplasticity Rewires the Brain After a Single Experience",
+      "Behavioral timescale synaptic plasticity rewires the brain after an experience",
       "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/"
     ]
   ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2026-04-26, 13:32:28",
-      "https://news.ycombinator.com/item?id=47910201"
-    ],
-    [
-      "Things C++26 define_static_array can't do",
-      "https://quuxplusone.github.io/blog/2026/04/24/define-static-array/"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 02:12:13",
       "https://news.ycombinator.com/item?id=47906651"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-04-25, 12:47:32",
-      "https://news.ycombinator.com/item?id=47901064"
+      "2026-04-24, 18:49:26",
+      "https://news.ycombinator.com/item?id=47894312"
     ],
     [
-      "ASML became the chokepoint for cutting-edge chips",
-      "https://worksinprogress.co/issue/the-worlds-most-complex-machine/"
+      "APL\\? (1990)",
+      "https://dl.acm.org/doi/epdf/10.1145/97811.97845"
     ]
   ],
   [
