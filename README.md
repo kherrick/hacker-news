@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-04-28, 06:32:53](https://news.ycombinator.com/item?id=47931068) - [BYD Seal 08 debuts with Blade Battery 2.0: 1,000km range, 5-min charging, 684hp](https://electrek.co/2026/04/27/byd-seal-08-blade-battery-2-1000km-range-beijing-auto-show/)
+* [2026-04-28, 10:08:38](https://news.ycombinator.com/item?id=47932446) - [The Social Edge of Intelligence: Individual Gain, Collective Loss](https://www.theideasletter.org/essay/the-social-edge-of-intelligence/)
+* [2026-04-28, 10:05:03](https://news.ycombinator.com/item?id=47932422) - [An Update on GitHub Availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
 * [2026-04-28, 06:27:39](https://news.ycombinator.com/item?id=47931035) - [GTFOBins](https://gtfobins.org/)
 * [2026-04-28, 04:34:29](https://news.ycombinator.com/item?id=47930493) - [WASM is not quite a stack machine](https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/)
 * [2026-04-28, 03:27:40](https://news.ycombinator.com/item?id=47930170) - [LingBot-Map: Streaming 3D reconstruction with geometric context transformer](https://technology.robbyant.com/lingbot-map)
 * [2026-04-28, 00:32:04](https://news.ycombinator.com/item?id=47929035) - [High Performance Git](https://gitperf.com/)
-* [2026-04-27, 23:14:26](https://news.ycombinator.com/item?id=47928554) - [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch)
 * [2026-04-27, 21:55:48](https://news.ycombinator.com/item?id=47927903) - [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
 * [2026-04-27, 20:44:16](https://news.ycombinator.com/item?id=47927070) - [Three men are facing charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
 * [2026-04-27, 20:24:33](https://news.ycombinator.com/item?id=47926861) - [Is my blue your blue?](https://ismy.blue/)
@@ -18,8 +18,9 @@
 * [2026-04-27, 10:56:34](https://news.ycombinator.com/item?id=47919997) - [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
 * [2026-04-27, 10:15:17](https://news.ycombinator.com/item?id=47919733) - [FDA approves first gene therapy for treatment of genetic hearing loss](https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher)
 * [2026-04-27, 09:57:10](https://news.ycombinator.com/item?id=47919630) - [4TB of voice samples just stolen from 40k AI contractors at Mercor](https://app.oravys.com/blog/mercor-breach-2026)
+* [2026-04-27, 08:54:57](https://news.ycombinator.com/item?id=47919240) - [Quarkdown – Markdown with Superpowers](https://quarkdown.com/)
 * [2026-04-27, 07:59:37](https://news.ycombinator.com/item?id=47918891) - [Can You Find the Comet?](https://apod.nasa.gov/apod/ap260427.html)
-* [2026-04-26, 14:59:37](https://news.ycombinator.com/item?id=47910877) - [Lessons from building multiplayer browsers](https://www.alejandro.pe/writing/sail-muddy-lessons)
+* [2026-04-26, 20:37:19](https://news.ycombinator.com/item?id=47914118) - [In Kannauj, perfumers have been making monsoon-infused mitti attar for centuries](https://www.atlasobscura.com/articles/smell-of-rain-kannauj-perfume-mitti-attar-india)
 * [2026-04-26, 03:52:43](https://news.ycombinator.com/item?id=47907175) - [Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar](https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar)
 * [2026-04-26, 03:12:04](https://news.ycombinator.com/item?id=47906942) - [Meetings are forcing functions](https://www.mooreds.com/wordpress/archives/3734)
 * [2026-04-25, 22:27:44](https://news.ycombinator.com/item?id=47905208) - [How I leared what a decoupling capacitor is for, the hard way](https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor)
@@ -29,7 +30,6 @@
 * [2026-04-25, 13:28:29](https://news.ycombinator.com/item?id=47901433) - [Fully Featured Audio DSP Firmware for the Raspberry Pi Pico](https://github.com/WeebLabs/DSPi)
 * [2026-04-25, 12:47:32](https://news.ycombinator.com/item?id=47901064) - [The World's Most Complex Machine](https://worksinprogress.co/issue/the-worlds-most-complex-machine/)
 * [2026-04-25, 08:16:19](https://news.ycombinator.com/item?id=47899669) - [Pgrx: Build Postgres Extensions with Rust](https://github.com/pgcentralfoundation/pgrx)
-* [2026-04-23, 17:13:25](https://news.ycombinator.com/item?id=47878396) - [First G-SHOCK with a heart rate monitor, also featuring Smartphone Link](https://gshock.casio.com/intl/products/g-lide/gbx-h5600/)
 
 ## [Archives](archives/index.md)
 

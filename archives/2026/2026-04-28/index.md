@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-28](index.md)
 
+* [2026-04-28, 10:08:38](https://news.ycombinator.com/item?id=47932446) - [The Social Edge of Intelligence: Individual Gain, Collective Loss](https://www.theideasletter.org/essay/the-social-edge-of-intelligence/)
+* [2026-04-28, 10:05:03](https://news.ycombinator.com/item?id=47932422) - [An Update on GitHub Availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
 * [2026-04-28, 06:32:53](https://news.ycombinator.com/item?id=47931068) - [BYD Seal 08 debuts with Blade Battery 2.0: 1,000km range, 5-min charging, 684hp](https://electrek.co/2026/04/27/byd-seal-08-blade-battery-2-1000km-range-beijing-auto-show/)
 * [2026-04-28, 06:27:39](https://news.ycombinator.com/item?id=47931035) - [GTFOBins](https://gtfobins.org/)
 * [2026-04-28, 05:35:34](https://news.ycombinator.com/item?id=47930738) - [Vibe Coding Will Break Your Company](https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/)

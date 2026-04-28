@@ -15,6 +15,7 @@
 * [2026-04-26, 20:45:26](https://news.ycombinator.com/item?id=47914215) - [Human Source License (HSL)](https://github.com/xdgrulez/human-source-license)
 * [2026-04-26, 20:41:06](https://news.ycombinator.com/item?id=47914165) - [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
 * [2026-04-26, 20:40:50](https://news.ycombinator.com/item?id=47914161) - [MoQ Boy](https://moq.dev/blog/moq-boy/)
+* [2026-04-26, 20:37:19](https://news.ycombinator.com/item?id=47914118) - [In Kannauj, perfumers have been making monsoon-infused mitti attar for centuries](https://www.atlasobscura.com/articles/smell-of-rain-kannauj-perfume-mitti-attar-india)
 * [2026-04-26, 20:18:37](https://news.ycombinator.com/item?id=47913855) - [Fast16: High-precision software sabotage 5 years before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/)
 * [2026-04-26, 20:18:37](https://news.ycombinator.com/item?id=47913855) - [Fast16: Cyberweapon that predates Stuxnet by five years](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
 * [2026-04-26, 20:03:12](https://news.ycombinator.com/item?id=47913650) - [A.I. is creating engineers who can't think without it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
