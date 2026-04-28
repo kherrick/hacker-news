@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-27](index.md)
 
+* [2026-04-27, 23:14:26](https://news.ycombinator.com/item?id=47928554) - [New Integrated by Design FreeBSD Book](https://vivianvoss.net/blog/integrated-by-design-launch)
+* [2026-04-27, 22:13:17](https://news.ycombinator.com/item?id=47928088) - [Claude Pro: Opus model will only be available if extra usage is enabled](https://support.claude.com/en/articles/11940350-claude-code-model-configuration)
+* [2026-04-27, 21:55:48](https://news.ycombinator.com/item?id=47927903) - [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
 * [2026-04-27, 21:26:25](https://news.ycombinator.com/item?id=47927526) - [NPM Website Is Down](https://status.npmjs.org)
 * [2026-04-27, 20:44:16](https://news.ycombinator.com/item?id=47927070) - [Three men are facing 44 charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
 * [2026-04-27, 20:24:33](https://news.ycombinator.com/item?id=47926861) - [Is my blue your blue?](https://ismy.blue/)
