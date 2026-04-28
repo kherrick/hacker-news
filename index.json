@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-04-28, 18:08:13",
+      "https://news.ycombinator.com/item?id=47938184"
+    ],
+    [
+      "Waymo in Portland",
+      "https://waymo.com/blog/shorts/waymo-in-portland/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 18:01:21",
+      "https://news.ycombinator.com/item?id=47938097"
+    ],
+    [
+      "Claude.ai is unavailable",
+      "https://status.claude.com/incidents/9l93x2ht4s5w"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 17:56:57",
+      "https://news.ycombinator.com/item?id=47938036"
+    ],
+    [
+      "The Americans queueing up to renounce their citizenship",
+      "https://www.theguardian.com/us-news/2026/apr/28/americans-queueing-up-renounce-citizenship-dictatorship"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 17:29:11",
+      "https://news.ycombinator.com/item?id=47937641"
+    ],
+    [
+      "BookStack Moves from GitHub to Codeberg",
+      "https://github.com/BookStackApp/BookStack/issues/4551"
+    ]
+  ],
+  [
+    [
       "2026-04-28, 17:00:06",
       "https://news.ycombinator.com/item?id=47937203"
     ],
@@ -21,22 +61,22 @@
   ],
   [
     [
-      "2026-04-28, 16:24:00",
-      "https://news.ycombinator.com/item?id=47936616"
-    ],
-    [
-      "Greece to ban anonymity on social media",
-      "https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media/"
-    ]
-  ],
-  [
-    [
       "2026-04-28, 16:17:55",
       "https://news.ycombinator.com/item?id=47936511"
     ],
     [
       "Laguna XS.2 and M.1",
       "https://poolside.ai/blog/laguna-a-deeper-dive"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 16:15:43",
+      "https://news.ycombinator.com/item?id=47936479"
+    ],
+    [
+      "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854"
     ]
   ],
   [
@@ -65,7 +105,7 @@
       "https://news.ycombinator.com/item?id=47936347"
     ],
     [
-      "AI uncovers 38 vulnerabilities in largest open source medical record software",
+      "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
       "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers"
     ]
   ],
@@ -97,16 +137,6 @@
     [
       "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
       "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 15:21:00",
-      "https://news.ycombinator.com/item?id=47935853"
-    ],
-    [
-      "Your phone is about to stop being yours",
-      "https://keepandroidopen.org/en/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-04-28, 11:31:40",
-      "https://news.ycombinator.com/item?id=47932990"
-    ],
-    [
-      "Period tracking app has been selling data to Meta",
-      "https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been"
-    ]
-  ],
-  [
-    [
       "2026-04-28, 11:24:52",
       "https://news.ycombinator.com/item?id=47932937"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-04-28, 04:34:29",
-      "https://news.ycombinator.com/item?id=47930493"
-    ],
-    [
-      "WASM is not quite a stack machine",
-      "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/"
-    ]
-  ],
-  [
-    [
       "2026-04-27, 21:55:48",
       "https://news.ycombinator.com/item?id=47927903"
     ],
     [
       "Talkie: a 13B vintage language model from 1930",
       "https://talkie-lm.com/introducing-talkie"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 20:24:33",
-      "https://news.ycombinator.com/item?id=47926861"
-    ],
-    [
-      "Is my blue your blue? (2024)",
-      "https://ismy.blue/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-04-26, 16:45:40",
-      "https://news.ycombinator.com/item?id=47911675"
+      "2026-04-26, 13:32:28",
+      "https://news.ycombinator.com/item?id=47910201"
     ],
     [
-      "The predictable failure of the QDay Prize",
-      "https://algassert.com/post/2601"
+      "Things C++26 define_static_array can't do",
+      "https://quuxplusone.github.io/blog/2026/04/24/define-static-array/"
     ]
   ],
   [
