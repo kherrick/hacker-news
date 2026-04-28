@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-04-28, 19:44:52",
+      "https://news.ycombinator.com/item?id=47939579"
+    ],
+    [
+      "Ghostty is leaving GitHub",
+      "https://mitchellh.com/writing/ghostty-leaving-github"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 19:24:43",
+      "https://news.ycombinator.com/item?id=47939320"
+    ],
+    [
+      "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 19:10:14",
+      "https://news.ycombinator.com/item?id=47939105"
+    ],
+    [
+      "C, Just In Time!",
+      "https://dyne.org/cjit/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 19:08:47",
+      "https://news.ycombinator.com/item?id=47939079"
+    ],
+    [
+      "A playable DOOM MCP app",
+      "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 18:47:09",
+      "https://news.ycombinator.com/item?id=47938756"
+    ],
+    [
+      "Bankruptcies increase 11.9 percent",
+      "https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 18:26:53",
+      "https://news.ycombinator.com/item?id=47938417"
+    ],
+    [
+      "A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
+      "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files"
+    ]
+  ],
+  [
+    [
       "2026-04-28, 18:08:13",
       "https://news.ycombinator.com/item?id=47938184"
     ],
@@ -15,28 +75,18 @@
       "https://news.ycombinator.com/item?id=47938097"
     ],
     [
-      "Claude.ai is unavailable",
+      "Claude.ai unavailable and elevated errors on the API",
       "https://status.claude.com/incidents/9l93x2ht4s5w"
     ]
   ],
   [
     [
-      "2026-04-28, 17:56:57",
-      "https://news.ycombinator.com/item?id=47938036"
+      "2026-04-28, 17:09:41",
+      "https://news.ycombinator.com/item?id=47937349"
     ],
     [
-      "The Americans queueing up to renounce their citizenship",
-      "https://www.theguardian.com/us-news/2026/apr/28/americans-queueing-up-renounce-citizenship-dictatorship"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 17:29:11",
-      "https://news.ycombinator.com/item?id=47937641"
-    ],
-    [
-      "BookStack Moves from GitHub to Codeberg",
-      "https://github.com/BookStackApp/BookStack/issues/4551"
+      "Warp is now Open-Source",
+      "https://github.com/warpdotdev/warp"
     ]
   ],
   [
@@ -47,16 +97,6 @@
     [
       "Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)",
       "https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 16:39:53",
-      "https://news.ycombinator.com/item?id=47936867"
-    ],
-    [
-      "AI's Economics Don't Make Sense",
-      "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
     ]
   ],
   [
@@ -81,26 +121,6 @@
   ],
   [
     [
-      "2026-04-28, 16:11:02",
-      "https://news.ycombinator.com/item?id=47936411"
-    ],
-    [
-      "Cybersec is a thankless job: expanding workload and shrinking pay packet",
-      "https://www.theregister.com/2026/04/27/from_a_massive_skills_gap/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 16:07:58",
-      "https://news.ycombinator.com/item?id=47936370"
-    ],
-    [
-      "Anthropic Joins the Blender Development Fund as Corporate Patron",
-      "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/"
-    ]
-  ],
-  [
-    [
       "2026-04-28, 16:06:01",
       "https://news.ycombinator.com/item?id=47936347"
     ],
@@ -111,12 +131,12 @@
   ],
   [
     [
-      "2026-04-28, 15:55:55",
-      "https://news.ycombinator.com/item?id=47936236"
+      "2026-04-28, 15:58:30",
+      "https://news.ycombinator.com/item?id=47936264"
     ],
     [
-      "After Spain's blackout, its shift to renewables and grid evolution power on",
-      "https://www.theguardian.com/world/2026/apr/28/blackout-spain-renewable-energy-grid-solar-wind"
+      "Warp is now open-source",
+      "https://www.warp.dev/blog/warp-is-now-open-source"
     ]
   ],
   [
@@ -141,22 +161,22 @@
   ],
   [
     [
+      "2026-04-28, 15:21:00",
+      "https://news.ycombinator.com/item?id=47935853"
+    ],
+    [
+      "Your phone is about to stop being yours",
+      "https://keepandroidopen.org/en/"
+    ]
+  ],
+  [
+    [
       "2026-04-28, 13:25:48",
       "https://news.ycombinator.com/item?id=47934261"
     ],
     [
       "Show HN: Live Sun and Moon Dashboard with NASA Footage",
       "https://www.lumara-space.app/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 13:13:54",
-      "https://news.ycombinator.com/item?id=47934120"
-    ],
-    [
-      "UAE Leaves OPEC and OPEC+",
-      "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2026-04-27, 10:42:02",
-      "https://news.ycombinator.com/item?id=47919891"
-    ],
-    [
-      "PyWry: Cross-Platform Rendering Engine in Python",
-      "https://deeleeramone.github.io/PyWry/"
-    ]
-  ],
-  [
-    [
       "2026-04-27, 07:59:37",
       "https://news.ycombinator.com/item?id=47918891"
     ],
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2026-04-27, 07:02:25",
-      "https://news.ycombinator.com/item?id=47918549"
+      "2026-04-27, 03:00:54",
+      "https://news.ycombinator.com/item?id=47917250"
     ],
     [
-      "I Spent My Sabbatical Building a Power Meter for Sledgehammers",
-      "https://leblancfg.com/intensity-pad-founder-story.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 23:48:30",
-      "https://news.ycombinator.com/item?id=47916103"
-    ],
-    [
-      "Voice Modems",
-      "https://computer.rip/2026-04-26-voice-modems.html"
+      "Patch applies fake diffs from commit messages",
+      "https://samizdat.dev/phantom-patch/"
     ]
   ],
   [
