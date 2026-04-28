@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-28](index.md)
 
+* [2026-04-28, 05:35:34](https://news.ycombinator.com/item?id=47930738) - [Vibe Coding Will Break Your Company](https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/)
+* [2026-04-28, 03:27:40](https://news.ycombinator.com/item?id=47930170) - [LingBot-Map: Streaming 3D reconstruction with geometric context transformer](https://technology.robbyant.com/lingbot-map)
 * [2026-04-28, 03:23:25](https://news.ycombinator.com/item?id=47930150) - [Claire's closes all 154 stores in UK and Ireland with loss of 1,300 jobs](https://www.bbc.com/news/articles/cg4047qnpk2o)
 * [2026-04-28, 02:45:33](https://news.ycombinator.com/item?id=47929961) - [Show HN: Waiting for LLMs Suck – Give your user a game](https://github.com/ftaip/waiting-game)
 * [2026-04-28, 01:14:31](https://news.ycombinator.com/item?id=47929375) - [Show HN: AgentSwift – Open-source iOS builder agent](https://github.com/hpennington/agentswift)
