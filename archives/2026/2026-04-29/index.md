@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-29](index.md)
 
+* [2026-04-29, 22:39:34](https://news.ycombinator.com/item?id=47955655) - [> Be Alexandra Elbakyan](https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m)
 * [2026-04-29, 21:58:46](https://news.ycombinator.com/item?id=47955297) - [Germany has become the largest ammunition producer in the world](https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/)
 * [2026-04-29, 21:50:57](https://news.ycombinator.com/item?id=47955226) - [Gooseworks (YC W23) Is Hiring a Founding Growth Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer)
+* [2026-04-29, 21:41:32](https://news.ycombinator.com/item?id=47955118) - [Vera: a programming language designed for machines to write](https://github.com/aallan/vera)
+* [2026-04-29, 21:04:38](https://news.ycombinator.com/item?id=47954638) - [I accidentally made law enforcement shut down their fake honeypot](https://lina.sh/blog/ddos-honeypot)
 * [2026-04-29, 20:20:58](https://news.ycombinator.com/item?id=47954024) - [Alphabet Announces First Quarter 2026 Results](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx)
 * [2026-04-29, 20:03:51](https://news.ycombinator.com/item?id=47953787) - [Pentagon spending on drones jumps from $225M to $55B in one year](https://www.foxnews.com/politics/pentagon-jumps-from-225m-55b-drones-cheap-attacks-overwhelm-us-defenses)
 * [2026-04-29, 19:49:30](https://news.ycombinator.com/item?id=47953541) - [OpenTrafficMap](https://opentrafficmap.org/)

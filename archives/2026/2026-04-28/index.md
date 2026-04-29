@@ -45,6 +45,7 @@
 * [2026-04-28, 13:25:48](https://news.ycombinator.com/item?id=47934261) - [Show HN: Live Sun and Moon Dashboard with NASA Footage](https://www.lumara-space.app/)
 * [2026-04-28, 13:13:54](https://news.ycombinator.com/item?id=47934120) - [UAE Leaves OPEC and OPEC+](https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/)
 * [2026-04-28, 13:02:01](https://news.ycombinator.com/item?id=47933983) - [UAE to leave OPEC](https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d)
+* [2026-04-28, 12:07:55](https://news.ycombinator.com/item?id=47933359) - [DRAM Crunch: Lessons for System Design](https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/)
 * [2026-04-28, 11:58:14](https://news.ycombinator.com/item?id=47933257) - [GitHub Actions is the weakest link](https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html)
 * [2026-04-28, 11:56:04](https://news.ycombinator.com/item?id=47933236) - [Microsoft VibeVoice: Open-Source Frontier Voice AI](https://github.com/microsoft/VibeVoice)
 * [2026-04-28, 11:54:20](https://news.ycombinator.com/item?id=47933208) - [Localsend: An open-source cross-platform alternative to AirDrop](https://github.com/localsend/localsend)
