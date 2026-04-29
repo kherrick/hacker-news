@@ -129,11 +129,198 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47951582">
+          <h3>
+            <a
+              class="item"
+              href="https://deepmind.google/research/publications/231971/"
+              >The Abstraction Fallacy: Why AI can simulate but not instantiate
+              consciousness</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-29 @ 17:30:15</span
+              ><span class="points-container"
+                >Points: <span class="points">58</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47951582"
+                  >Comments</a
+                ><span class="descendants">: 76</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47951007">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing"
+              >Maryland becomes first state to ban surveillance pricing in
+              grocery stores</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-29 @ 16:50:01</span
+              ><span class="points-container"
+                >Points: <span class="points">92</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47951007"
+                  >Comments</a
+                ><span class="descendants">: 44</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47950510">
+          <h3>
+            <a
+              class="item"
+              href="https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies"
+              >FastCGI: 30 years old and still the better protocol for reverse
+              proxies</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-29 @ 16:16:39</span
+              ><span class="points-container"
+                >Points: <span class="points">119</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47950510"
+                  >Comments</a
+                ><span class="descendants">: 24</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47950377">
+          <h3>
+            <a
+              class="item"
+              href="https://cowboystatedaily.com/2026/04/28/court-rules-2nd-amendment-covers-firearms-parts-good-news-for-those-who-build-guns/"
+              >Court Rules 2nd Amendment Covers Firearms Parts Good News Those
+              Who Build Guns</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-29 @ 16:08:02</span
+              ><span class="points-container"
+                >Points: <span class="points">84</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47950377"
+                  >Comments</a
+                ><span class="descendants">: 42</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47950283">
+          <h3>
+            <a
+              class="item"
+              href="https://interfaze.ai/blog/introducing-structured-output-benchmark"
+              >Show HN: A new benchmark for testing LLMs for deterministic
+              outputs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-29 @ 16:01:51</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47950283"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The model may return the schema you want, but with hallucinated
+                values like `invoice_date` being off by 2 months or the
+                transcript array ordered wrongly. The JSON is valid, but the
+                values are not.
+              </p>
+              <p>
+                Structured output today is a big part of using LLMs, especially
+                when building deterministic workflows.
+              </p>
+              <p>
+                Current structured output benchmarks (e.g., JSONSchemaBench)
+                only validate the pass rate for JSON schema and types, and not
+                the actual values within the produced JSON.
+              </p>
+              <p>
+                So we designed the Structured Output Benchmark (SOB) that fixes
+                this by measuring both the JSON schema pass rate, types, and the
+                value accuracy across all three modalities, text, image, and
+                audio.
+              </p>
+              <p>
+                For our test set, every record is paired with a JSON Schema and
+                a ground-truth answer that was verified against the source
+                context manually by a human and an LLM cross-check, so a missing
+                or hallucinated value will be considered to be wrong.
+              </p>
+              <p>
+                Open source is doing pretty well with GLM 4.7 coming in number 2
+                right after GPT 5.4.
+              </p>
+              <p>
+                We noticed the rankings shift across modalities: GLM-4.7 leads
+                text, Gemma-4-31B leads images, Gemini-2.5-Flash leads audio.
+              </p>
+              <p>For example, GPT-5.4 ranks 3rd on text but 9th on images.</p>
+              <p>
+                Model size is not a predictor, either: Qwen3.5-35B and GLM-4.7
+                beat GPT-5 and Claude-Sonnet-4.6 on Value Accuracy. Phi-4 (14B)
+                beats GPT-5 and GPT-5-mini on text.
+              </p>
+              <p>
+                Structured hallucinations are the hardest bug. Such values are
+                type-correct, schema-valid, and plausible, so they slip through
+                most guardrails. For example, in one audio record, the ground
+                truth is "target_market_age": "15 to 35 years", and a model
+                returns "25 to 35". This is invisible without field-level
+                checks.
+              </p>
+              <p>
+                Our goal is to be the best general model for deterministic
+                tasks, and a key aspect of determinism is a controllable and
+                consistent output structure. The first step to making structured
+                output better is to measure it and hold ourselves against the
+                best.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47950156">
+          <h3>
+            <a class="item" href="https://en.wikipedia.org/wiki/SHRDLU"
+              >Shrdlu</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-29 @ 15:54:29</span
+              ><span class="points-container"
+                >Points: <span class="points">46</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47950156"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47950091">
           <h3>
             <a
               class="item"
-              href="https://xcancel.com/GlennMeder/status/2049088498163216560"
+              href="https://x.com/GlennMeder/status/2049088498163216560"
               >Online age verification is the hill to die on</a
             >
           </h3>
@@ -141,11 +328,11 @@
             <h4>
               <span>2026-04-29 @ 15:49:57</span
               ><span class="points-container"
-                >Points: <span class="points">257</span></span
+                >Points: <span class="points">410</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47950091"
                   >Comments</a
-                ><span class="descendants">: 162</span></span
+                ><span class="descendants">: 257</span></span
               >
             </h4>
             <div class="text">
@@ -156,45 +343,40 @@
             </div>
           </section>
         </section>
-        <section id="47949897">
+        <section id="47950022">
           <h3>
             <a
               class="item"
-              href="https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/"
-              >U.S. war in Iran has cost $25B so far, says Pentagon official</a
+              href="https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation"
+              >Third Editor Fired in Elsevier's Citation Cartel Crackdown</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-04-29 @ 15:36:44</span
+              <span>2026-04-29 @ 15:45:25</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47949897"
+                ><a href="https://news.ycombinator.com/item?id=47950022"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47949826">
+        <section id="47949939">
           <h3>
-            <a
-              class="item"
-              href="https://www.texastribune.org/2026/04/28/data-centers-texas-electricians-builders/"
-              >Data center boom strains Texas homebuilders' need for
-              electricians</a
-            >
+            <a class="item" href="https://neal.fun/cursor-camp/">Cursor Camp</a>
           </h3>
           <section>
             <h4>
-              <span>2026-04-29 @ 15:31:33</span
+              <span>2026-04-29 @ 15:39:43</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47949826"
+                ><a href="https://news.ycombinator.com/item?id=47949939"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -211,11 +393,11 @@
             <h4>
               <span>2026-04-29 @ 15:26:01</span
               ><span class="points-container"
-                >Points: <span class="points">227</span></span
+                >Points: <span class="points">245</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47949750"
                   >Comments</a
-                ><span class="descendants">: 167</span></span
+                ><span class="descendants">: 186</span></span
               >
             </h4>
           </section>
@@ -232,11 +414,11 @@
             <h4>
               <span>2026-04-29 @ 15:17:46</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">265</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47949642"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
+                ><span class="descendants">: 156</span></span
               >
             </h4>
           </section>
@@ -254,28 +436,89 @@
             <h4>
               <span>2026-04-29 @ 15:13:44</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47949585"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 37</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47949538">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study"
+              >Making AI chatbots friendly leads to mistakes and support of
+              conspiracy theories</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-29 @ 15:11:12</span
+              ><span class="points-container"
+                >Points: <span class="points">56</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47949538"
+                  >Comments</a
+                ><span class="descendants">: 48</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47949204">
+          <h3>
+            <a class="item" href="https://github.com/GliaX/Stethoscope"
+              >An open-source stethoscope that costs between $2.5 and $5 to
+              produce</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-29 @ 14:47:31</span
+              ><span class="points-container"
+                >Points: <span class="points">83</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47949204"
+                  >Comments</a
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
         </section>
         <section id="47949027">
           <h3>
-            <a class="item" href="https://zed.dev/blog/zed-1-0">Zed is 1.0</a>
+            <a class="item" href="https://zed.dev/blog/zed-1-0">Zed 1.0</a>
           </h3>
           <section>
             <h4>
               <span>2026-04-29 @ 14:34:19</span
               ><span class="points-container"
-                >Points: <span class="points">797</span></span
+                >Points: <span class="points">1020</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47949027"
                   >Comments</a
-                ><span class="descendants">: 278</span></span
+                ><span class="descendants">: 330</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47948664">
+          <h3>
+            <a class="item" href="https://www.youtube.com/watch?v=JNyuX1zoOgU"
+              >How to Build the Future: Demis Hassabis [video]</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-29 @ 14:05:42</span
+              ><span class="points-container"
+                >Points: <span class="points">31</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47948664"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -283,18 +526,18 @@
         <section id="47948603">
           <h3>
             <a class="item" href="https://blog.tangled.org/federation/"
-              >Tangled – We need a federation of forges</a
+              >We need a federation of forges</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-04-29 @ 14:00:59</span
               ><span class="points-container"
-                >Points: <span class="points">359</span></span
+                >Points: <span class="points">413</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47948603"
                   >Comments</a
-                ><span class="descendants">: 187</span></span
+                ><span class="descendants">: 228</span></span
               >
             </h4>
           </section>
@@ -312,11 +555,11 @@
             <h4>
               <span>2026-04-29 @ 13:05:44</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47947834"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -334,33 +577,11 @@
             <h4>
               <span>2026-04-29 @ 12:43:12</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47947525"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47947490">
-          <h3>
-            <a
-              class="item"
-              href="https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/"
-              >He asked AI to count carbs 27000 times. It couldn't give the same
-              answer twice</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-29 @ 12:38:50</span
-              ><span class="points-container"
-                >Points: <span class="points">221</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47947490"
-                  >Comments</a
-                ><span class="descendants">: 280</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -378,7 +599,7 @@
             <h4>
               <span>2026-04-29 @ 12:24:53</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47947369"
                   >Comments</a
@@ -393,28 +614,6 @@
                 add your own if you so desire.
               </p>
             </div>
-          </section>
-        </section>
-        <section id="47947318">
-          <h3>
-            <a
-              class="item"
-              href="https://physicsworld.com/a/coffee-with-a-splash-of-physics-how-to-make-the-most-out-of-your-brew/"
-              >Coffee with a splash of physics: how to make the most out of your
-              brew</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-29 @ 12:18:59</span
-              ><span class="points-container"
-                >Points: <span class="points">83</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47947318"
-                  >Comments</a
-                ><span class="descendants">: 44</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="47947125">
@@ -447,30 +646,11 @@
             <h4>
               <span>2026-04-29 @ 11:25:12</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47946813"
                   >Comments</a
                 ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47945955">
-          <h3>
-            <a class="item" href="https://rip.so"
-              >Show HN: Rip.so – a graveyard for dead internet things</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-29 @ 09:21:32</span
-              ><span class="points-container"
-                >Points: <span class="points">153</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47945955"
-                  >Comments</a
-                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -487,33 +667,11 @@
             <h4>
               <span>2026-04-29 @ 09:14:37</span
               ><span class="points-container"
-                >Points: <span class="points">430</span></span
+                >Points: <span class="points">456</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47945918"
                   >Comments</a
-                ><span class="descendants">: 108</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47944931">
-          <h3>
-            <a
-              class="item"
-              href="https://dl.acm.org/doi/abs/10.1145/3767295.3803591"
-              >Low-Compilation-Cost Register Allocation in LLVM-Based Binary
-              Translation</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-29 @ 06:47:53</span
-              ><span class="points-container"
-                >Points: <span class="points">61</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47944931"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -530,7 +688,7 @@
             <h4>
               <span>2026-04-29 @ 06:38:44</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">146</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47944864"
                   >Comments</a
@@ -551,11 +709,11 @@
             <h4>
               <span>2026-04-29 @ 02:19:11</span
               ><span class="points-container"
-                >Points: <span class="points">542</span></span
+                >Points: <span class="points">566</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47943499"
                   >Comments</a
-                ><span class="descendants">: 309</span></span
+                ><span class="descendants">: 316</span></span
               >
             </h4>
           </section>
@@ -572,11 +730,11 @@
             <h4>
               <span>2026-04-28 @ 23:54:14</span
               ><span class="points-container"
-                >Points: <span class="points">460</span></span
+                >Points: <span class="points">467</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47942437"
                   >Comments</a
-                ><span class="descendants">: 316</span></span
+                ><span class="descendants">: 324</span></span
               >
             </h4>
           </section>
@@ -593,11 +751,11 @@
             <h4>
               <span>2026-04-28 @ 21:17:40</span
               ><span class="points-container"
-                >Points: <span class="points">612</span></span
+                >Points: <span class="points">623</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47940921"
                   >Comments</a
-                ><span class="descendants">: 200</span></span
+                ><span class="descendants">: 205</span></span
               >
             </h4>
           </section>
@@ -614,56 +772,13 @@
             <h4>
               <span>2026-04-28 @ 19:44:52</span
               ><span class="points-container"
-                >Points: <span class="points">3208</span></span
+                >Points: <span class="points">3244</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47939579"
                   >Comments</a
-                ><span class="descendants">: 947</span></span
+                ><span class="descendants">: 960</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="47939320">
-          <h3>
-            <a
-              class="item"
-              href="https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/"
-              >OpenAI models coming to Amazon Bedrock: Interview with OpenAI and
-              AWS CEOs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-28 @ 19:24:43</span
-              ><span class="points-container"
-                >Points: <span class="points">315</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47939320"
-                  >Comments</a
-                ><span class="descendants">: 105</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://aws.amazon.com/bedrock/openai/"
-                >https://aws.amazon.com/bedrock/openai/</a
-              >
-              <p>
-                <a
-                  href="https://www.aboutamazon.com/news/aws/bedrock-openai-models"
-                  >https://www.aboutamazon.com/news/aws/bedrock-openai-models</a
-                >
-              </p>
-              <p>
-                <a href="https://openai.com/index/openai-on-aws/"
-                  >https://openai.com/index/openai-on-aws/</a
-                >
-              </p>
-              <p>
-                <a href="https://x.com/amazon/status/2049178618639839427"
-                  >https://x.com/amazon/status/2049178618639839427</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="47937380">
@@ -678,32 +793,11 @@
             <h4>
               <span>2026-04-28 @ 17:12:30</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47937380"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47936479">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854"
-              >GitHub RCE Vulnerability: CVE-2026-3854 Breakdown</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-28 @ 16:15:43</span
-              ><span class="points-container"
-                >Points: <span class="points">429</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47936479"
-                  >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -719,11 +813,11 @@
             <h4>
               <span>2026-04-28 @ 14:35:59</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47935246"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
             <div class="text">
@@ -794,67 +888,6 @@
                 thread.
               </p>
             </div>
-          </section>
-        </section>
-        <section id="47932937">
-          <h3>
-            <a
-              class="item"
-              href="https://legallayer.substack.com/p/who-owns-the-claude-code-wrote"
-              >Who owns the code Claude Code wrote?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-28 @ 11:24:52</span
-              ><span class="points-container"
-                >Points: <span class="points">521</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47932937"
-                  >Comments</a
-                ><span class="descendants">: 483</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47927903">
-          <h3>
-            <a class="item" href="https://talkie-lm.com/introducing-talkie"
-              >Talkie: a 13B vintage language model from 1930</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-27 @ 21:55:48</span
-              ><span class="points-container"
-                >Points: <span class="points">735</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47927903"
-                  >Comments</a
-                ><span class="descendants">: 314</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47926148">
-          <h3>
-            <a
-              class="item"
-              href="https://ontherow.substack.com/p/withnails-coat-and-i"
-              >Withnail's Coat and I</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-27 @ 19:27:47</span
-              ><span class="points-container"
-                >Points: <span class="points">124</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47926148"
-                  >Comments</a
-                ><span class="descendants">: 19</span></span
-              >
-            </h4>
           </section>
         </section>
       </section>
