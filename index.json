@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-04-28, 22:14:29",
-      "https://news.ycombinator.com/item?id=47941590"
+      "2026-04-29, 00:57:12",
+      "https://news.ycombinator.com/item?id=47942903"
     ],
     [
-      "Carrot Disclosure: Forgejo",
-      "https://dustri.org/b/carrot-disclosure-forgejo.html"
+      "We decreased our LLM costs with Opus",
+      "https://www.mendral.com/blog/frontier-model-lower-costs"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 23:59:57",
+      "https://news.ycombinator.com/item?id=47942492"
+    ],
+    [
+      "Regression: malware reminder on every read still causes subagent refusals",
+      "https://github.com/anthropics/claude-code/issues/49363"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 23:54:14",
+      "https://news.ycombinator.com/item?id=47942437"
+    ],
+    [
+      "How ChatGPT serves ads",
+      "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 23:46:56",
+      "https://news.ycombinator.com/item?id=47942386"
+    ],
+    [
+      "Claude for Creative Work",
+      "https://www.anthropic.com/news/claude-for-creative-work"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 23:43:53",
+      "https://news.ycombinator.com/item?id=47942353"
+    ],
+    [
+      "Apple CMF (Color-Matching Functions) 2026",
+      "https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results"
     ]
   ],
   [
@@ -27,16 +67,6 @@
     [
       "I won a championship that doesn't exist",
       "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 20:30:35",
-      "https://news.ycombinator.com/item?id=47940271"
-    ],
-    [
-      "Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles",
-      "https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/"
     ]
   ],
   [
@@ -81,22 +111,12 @@
   ],
   [
     [
-      "2026-04-28, 18:08:13",
-      "https://news.ycombinator.com/item?id=47938184"
+      "2026-04-28, 17:12:30",
+      "https://news.ycombinator.com/item?id=47937380"
     ],
     [
-      "Waymo in Portland",
-      "https://waymo.com/blog/shorts/waymo-in-portland/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 18:01:21",
-      "https://news.ycombinator.com/item?id=47938097"
-    ],
-    [
-      "Claude.ai unavailable and elevated errors on the API",
-      "https://status.claude.com/incidents/9l93x2ht4s5w"
+      "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+      "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
       "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 16:06:01",
-      "https://news.ycombinator.com/item?id=47936347"
-    ],
-    [
-      "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
-      "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-04-28, 11:58:14",
-      "https://news.ycombinator.com/item?id=47933257"
-    ],
-    [
-      "GitHub Actions is the weakest link",
-      "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html"
-    ]
-  ],
-  [
-    [
       "2026-04-28, 11:56:04",
       "https://news.ycombinator.com/item?id=47933236"
     ],
@@ -241,12 +241,32 @@
   ],
   [
     [
+      "2026-04-27, 14:56:21",
+      "https://news.ycombinator.com/item?id=47922482"
+    ],
+    [
+      "Nonlinearity Affects a Pendulum",
+      "https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/"
+    ]
+  ],
+  [
+    [
       "2026-04-27, 13:54:47",
       "https://news.ycombinator.com/item?id=47921610"
     ],
     [
       "Behavioral timescale synaptic plasticity rewires the brain after an experience",
       "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 12:17:19",
+      "https://news.ycombinator.com/item?id=47920599"
+    ],
+    [
+      "We still don't have a more precise value for \"Big G\"",
+      "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-04-27, 02:32:32",
-      "https://news.ycombinator.com/item?id=47917094"
-    ],
-    [
-      "Parry Parries Again: Reanimating the Famous Paranoid Chatbot (In a Day)",
-      "https://sites.google.com/view/elizagen-org/blog/parry-parries-again"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 02:12:13",
       "https://news.ycombinator.com/item?id=47906651"
     ],
     [
       "I have officially retired from Emacs",
       "https://nullprogram.com/blog/2026/04/26/"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 18:49:26",
-      "https://news.ycombinator.com/item?id=47894312"
-    ],
-    [
-      "APL\\? (1990)",
-      "https://dl.acm.org/doi/epdf/10.1145/97811.97845"
     ]
   ],
   [
