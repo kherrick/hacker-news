@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-29, 07:31:00",
+      "https://news.ycombinator.com/item?id=47945192"
+    ],
+    [
+      "Wire to Replace Signal as Standard in the Bundestag",
+      "https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Replace-Signal-as-Standard-in-the-Bundestag-11275755.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 06:47:53",
+      "https://news.ycombinator.com/item?id=47944931"
+    ],
+    [
+      "Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation",
+      "https://dl.acm.org/doi/abs/10.1145/3767295.3803591"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 06:38:44",
+      "https://news.ycombinator.com/item?id=47944864"
+    ],
+    [
+      "HardenedBSD Is Now Officially on Radicle",
+      "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 02:19:11",
       "https://news.ycombinator.com/item?id=47943499"
     ],
@@ -17,16 +47,6 @@
     [
       "When the Internet Was a Place",
       "https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 00:57:12",
-      "https://news.ycombinator.com/item?id=47942903"
-    ],
-    [
-      "We decreased our LLM costs with Opus",
-      "https://www.mendral.com/blog/frontier-model-lower-costs"
     ]
   ],
   [
@@ -161,12 +181,12 @@
   ],
   [
     [
-      "2026-04-28, 13:25:48",
-      "https://news.ycombinator.com/item?id=47934261"
+      "2026-04-28, 14:35:59",
+      "https://news.ycombinator.com/item?id=47935246"
     ],
     [
-      "Show HN: Live Sun and Moon Dashboard with NASA Footage",
-      "https://www.lumara-space.app/"
+      "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
+      "https://github.com/rocky-data/rocky"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "UAE to leave OPEC",
       "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 11:56:04",
-      "https://news.ycombinator.com/item?id=47933236"
-    ],
-    [
-      "VibeVoice: Open-source frontier voice AI",
-      "https://github.com/microsoft/VibeVoice"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-04-27, 14:56:21",
-      "https://news.ycombinator.com/item?id=47922482"
-    ],
-    [
-      "Nonlinearity Affects a Pendulum",
-      "https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/"
-    ]
-  ],
-  [
-    [
       "2026-04-27, 13:54:47",
       "https://news.ycombinator.com/item?id=47921610"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-04-27, 13:22:52",
-      "https://news.ycombinator.com/item?id=47921251"
-    ],
-    [
-      "Building a Hamiltonian Path Puzzle",
-      "https://www.4rknova.com//blog/2026/04/24/number-trail"
-    ]
-  ],
-  [
-    [
       "2026-04-27, 12:17:19",
       "https://news.ycombinator.com/item?id=47920599"
     ],
     [
       "We still don't have a more precise value for \"Big G\"",
       "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 11:31:20",
+      "https://news.ycombinator.com/item?id=47920214"
+    ],
+    [
+      "Gallium oxide electronics withstand extreme cold",
+      "https://discovery.kaust.edu.sa/en/article/26858/gallium-oxide-electronics-withstand-extreme-cold/"
     ]
   ],
   [
