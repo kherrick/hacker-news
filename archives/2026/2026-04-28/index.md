@@ -8,6 +8,7 @@
 * [2026-04-28, 23:54:14](https://news.ycombinator.com/item?id=47942437) - [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
 * [2026-04-28, 23:46:56](https://news.ycombinator.com/item?id=47942386) - [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)
 * [2026-04-28, 23:43:53](https://news.ycombinator.com/item?id=47942353) - [Apple CMF (Color-Matching Functions) 2026](https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results)
+* [2026-04-28, 22:37:54](https://news.ycombinator.com/item?id=47941807) - [Blaster Beam (Musical Instrument)](https://en.wikipedia.org/wiki/Blaster_beam)
 * [2026-04-28, 22:14:29](https://news.ycombinator.com/item?id=47941590) - [Carrot Disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
 * [2026-04-28, 21:17:40](https://news.ycombinator.com/item?id=47940921) - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
 * [2026-04-28, 20:50:08](https://news.ycombinator.com/item?id=47940545) - [BP profits more than double as Iran war sends oil prices higher](https://www.bbc.com/news/articles/c2eveyvgn9no)
