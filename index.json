@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-29, 02:19:11",
+      "https://news.ycombinator.com/item?id=47943499"
+    ],
+    [
+      "Bugs Rust won't catch",
+      "https://corrode.dev/blog/bugs-rust-wont-catch/"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 01:36:52",
+      "https://news.ycombinator.com/item?id=47943190"
+    ],
+    [
+      "When the Internet Was a Place",
+      "https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 00:57:12",
       "https://news.ycombinator.com/item?id=47942903"
     ],
@@ -27,16 +47,6 @@
     [
       "How ChatGPT serves ads",
       "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 23:46:56",
-      "https://news.ycombinator.com/item?id=47942386"
-    ],
-    [
-      "Claude for Creative Work",
-      "https://www.anthropic.com/news/claude-for-creative-work"
     ]
   ],
   [
@@ -101,32 +111,12 @@
   ],
   [
     [
-      "2026-04-28, 19:08:47",
-      "https://news.ycombinator.com/item?id=47939079"
-    ],
-    [
-      "A playable DOOM MCP app",
-      "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/"
-    ]
-  ],
-  [
-    [
       "2026-04-28, 17:12:30",
       "https://news.ycombinator.com/item?id=47937380"
     ],
     [
       "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
       "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 17:00:06",
-      "https://news.ycombinator.com/item?id=47937203"
-    ],
-    [
-      "Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)",
-      "https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2026-04-27, 19:27:47",
+      "https://news.ycombinator.com/item?id=47926148"
+    ],
+    [
+      "Withnail's Coat and I",
+      "https://ontherow.substack.com/p/withnails-coat-and-i"
+    ]
+  ],
+  [
+    [
       "2026-04-27, 14:56:21",
       "https://news.ycombinator.com/item?id=47922482"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2026-04-27, 13:22:52",
+      "https://news.ycombinator.com/item?id=47921251"
+    ],
+    [
+      "Building a Hamiltonian Path Puzzle",
+      "https://www.4rknova.com//blog/2026/04/24/number-trail"
+    ]
+  ],
+  [
+    [
       "2026-04-27, 12:17:19",
       "https://news.ycombinator.com/item?id=47920599"
     ],
     [
       "We still don't have a more precise value for \"Big G\"",
       "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 03:00:54",
-      "https://news.ycombinator.com/item?id=47917250"
-    ],
-    [
-      "Patch applies fake diffs from commit messages",
-      "https://samizdat.dev/phantom-patch/"
     ]
   ],
   [
