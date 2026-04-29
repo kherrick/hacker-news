@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-29](index.md)
 
+* [2026-04-29, 20:20:58](https://news.ycombinator.com/item?id=47954024) - [Alphabet Announces First Quarter 2026 Results](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx)
+* [2026-04-29, 20:03:51](https://news.ycombinator.com/item?id=47953787) - [Pentagon spending on drones jumps from $225M to $55B in one year](https://www.foxnews.com/politics/pentagon-jumps-from-225m-55b-drones-cheap-attacks-overwhelm-us-defenses)
+* [2026-04-29, 19:49:30](https://news.ycombinator.com/item?id=47953541) - [OpenTrafficMap](https://opentrafficmap.org/)
 * [2026-04-29, 19:32:36](https://news.ycombinator.com/item?id=47953275) - [Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years](https://jivx.com/kyoto-bloom)
 * [2026-04-29, 19:15:52](https://news.ycombinator.com/item?id=47953011) - [\"People who don't use AI will be left behind\"](https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/)
 * [2026-04-29, 18:54:31](https://news.ycombinator.com/item?id=47952722) - [HERMES.md: Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262)
