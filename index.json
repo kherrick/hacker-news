@@ -1,12 +1,72 @@
 [
   [
     [
-      "2026-04-29, 17:30:15",
-      "https://news.ycombinator.com/item?id=47951582"
+      "2026-04-29, 18:54:31",
+      "https://news.ycombinator.com/item?id=47952722"
     ],
     [
-      "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
-      "https://deepmind.google/research/publications/231971/"
+      "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
+      "https://github.com/anthropics/claude-code/issues/53262"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 18:13:53",
+      "https://news.ycombinator.com/item?id=47952181"
+    ],
+    [
+      "Copy Fail – CVE-2026-31431",
+      "https://copy.fail/"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 17:44:21",
+      "https://news.ycombinator.com/item?id=47951786"
+    ],
+    [
+      "Ramp's Sheets AI Exfiltrates Financials",
+      "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 16:58:13",
+      "https://news.ycombinator.com/item?id=47951137"
+    ],
+    [
+      "Laws of UX",
+      "https://lawsofux.com/"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 16:55:49",
+      "https://news.ycombinator.com/item?id=47951098"
+    ],
+    [
+      "Why Software Needs a Third Loop [audio]",
+      "https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 16:54:40",
+      "https://news.ycombinator.com/item?id=47951082"
+    ],
+    [
+      "Rise of the Forward Deployed Engineer",
+      "https://www.hfsresearch.com/research/fde-optional-ai-flywheel-spin/"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 16:51:38",
+      "https://news.ycombinator.com/item?id=47951037"
+    ],
+    [
+      "Virtualisation on Apple Silicon Macs is different",
+      "https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/"
     ]
   ],
   [
@@ -21,6 +81,16 @@
   ],
   [
     [
+      "2026-04-29, 16:20:56",
+      "https://news.ycombinator.com/item?id=47950575"
+    ],
+    [
+      "At Protocol: Building the Social Internet",
+      "https://atproto.com/"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 16:16:39",
       "https://news.ycombinator.com/item?id=47950510"
     ],
@@ -31,32 +101,12 @@
   ],
   [
     [
-      "2026-04-29, 16:08:02",
-      "https://news.ycombinator.com/item?id=47950377"
-    ],
-    [
-      "Court Rules 2nd Amendment Covers Firearms Parts Good News Those Who Build Guns",
-      "https://cowboystatedaily.com/2026/04/28/court-rules-2nd-amendment-covers-firearms-parts-good-news-for-those-who-build-guns/"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 16:01:51",
       "https://news.ycombinator.com/item?id=47950283"
     ],
     [
       "Show HN: A new benchmark for testing LLMs for deterministic outputs",
       "https://interfaze.ai/blog/introducing-structured-output-benchmark"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 15:54:29",
-      "https://news.ycombinator.com/item?id=47950156"
-    ],
-    [
-      "Shrdlu",
-      "https://en.wikipedia.org/wiki/SHRDLU"
     ]
   ],
   [
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2026-04-29, 15:26:01",
-      "https://news.ycombinator.com/item?id=47949750"
-    ],
-    [
-      "Why AI companies want you to be afraid of them",
-      "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 15:17:46",
       "https://news.ycombinator.com/item?id=47949642"
     ],
@@ -117,16 +157,6 @@
     [
       "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
       "https://read.thecoder.cafe/p/linux-broke-postgresql"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 15:11:12",
-      "https://news.ycombinator.com/item?id=47949538"
-    ],
-    [
-      "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
-      "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2026-04-29, 06:38:44",
-      "https://news.ycombinator.com/item?id=47944864"
-    ],
-    [
-      "HardenedBSD Is Now Officially on Radicle",
-      "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 02:19:11",
       "https://news.ycombinator.com/item?id=47943499"
     ],
@@ -277,26 +297,6 @@
     [
       "Ghostty is leaving GitHub",
       "https://mitchellh.com/writing/ghostty-leaving-github"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 17:12:30",
-      "https://news.ycombinator.com/item?id=47937380"
-    ],
-    [
-      "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
-      "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 14:35:59",
-      "https://news.ycombinator.com/item?id=47935246"
-    ],
-    [
-      "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
-      "https://github.com/rocky-data/rocky"
     ]
   ]
 ]
