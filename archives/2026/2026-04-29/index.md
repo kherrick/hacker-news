@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-29](index.md)
 
+* [2026-04-29, 19:32:36](https://news.ycombinator.com/item?id=47953275) - [Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years](https://jivx.com/kyoto-bloom)
+* [2026-04-29, 19:15:52](https://news.ycombinator.com/item?id=47953011) - [\"People who don't use AI will be left behind\"](https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/)
 * [2026-04-29, 18:54:31](https://news.ycombinator.com/item?id=47952722) - [HERMES.md: Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262)
 * [2026-04-29, 18:13:53](https://news.ycombinator.com/item?id=47952181) - [Copy Fail – CVE-2026-31431](https://copy.fail/)
 * [2026-04-29, 17:44:21](https://news.ycombinator.com/item?id=47951786) - [Ramp's Sheets AI Exfiltrates Financials](https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials)
@@ -45,6 +47,7 @@
 * [2026-04-29, 09:21:32](https://news.ycombinator.com/item?id=47945955) - [Show HN: Rip.so – a graveyard for dead internet things](https://rip.so)
 * [2026-04-29, 09:14:37](https://news.ycombinator.com/item?id=47945918) - [Soft launch of open-source code platform for government](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/)
 * [2026-04-29, 09:03:31](https://news.ycombinator.com/item?id=47945861) - [Why Law Is Law-Shaped](https://lawvm.org/why-law-is-law-shaped/)
+* [2026-04-29, 08:43:17](https://news.ycombinator.com/item?id=47945707) - [Why I still reach for Lisp and Scheme instead of Haskell](https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html)
 * [2026-04-29, 08:16:37](https://news.ycombinator.com/item?id=47945522) - [Tell HN: An update from the new Tindie team](https://news.ycombinator.com/item?id=47945522)
 * [2026-04-29, 07:31:00](https://news.ycombinator.com/item?id=47945192) - [Wire to Replace Signal as Standard in the Bundestag](https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Replace-Signal-as-Standard-in-the-Bundestag-11275755.html)
 * [2026-04-29, 06:47:53](https://news.ycombinator.com/item?id=47944931) - [Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation](https://dl.acm.org/doi/abs/10.1145/3767295.3803591)
