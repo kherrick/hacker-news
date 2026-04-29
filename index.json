@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-29, 19:32:36",
+      "https://news.ycombinator.com/item?id=47953275"
+    ],
+    [
+      "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
+      "https://jivx.com/kyoto-bloom"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 19:15:52",
+      "https://news.ycombinator.com/item?id=47953011"
+    ],
+    [
+      "\"People who don't use AI will be left behind\"",
+      "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 18:54:31",
       "https://news.ycombinator.com/item?id=47952722"
     ],
@@ -37,26 +57,6 @@
     [
       "Laws of UX",
       "https://lawsofux.com/"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 16:55:49",
-      "https://news.ycombinator.com/item?id=47951098"
-    ],
-    [
-      "Why Software Needs a Third Loop [audio]",
-      "https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 16:54:40",
-      "https://news.ycombinator.com/item?id=47951082"
-    ],
-    [
-      "Rise of the Forward Deployed Engineer",
-      "https://www.hfsresearch.com/research/fde-optional-ai-flywheel-spin/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-04-29, 12:24:53",
-      "https://news.ycombinator.com/item?id=47947369"
-    ],
-    [
-      "Show HN: Adblock-rust Manager – Firefox extension to enable the Brave ad blocker",
-      "https://github.com/electricant/adblock-rust-manager"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 12:00:17",
       "https://news.ycombinator.com/item?id=47947125"
     ],
@@ -257,6 +247,16 @@
     [
       "Soft launch of open-source code platform for government",
       "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 08:43:17",
+      "https://news.ycombinator.com/item?id=47945707"
+    ],
+    [
+      "Why I still reach for Lisp and Scheme instead of Haskell",
+      "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html"
     ]
   ],
   [
