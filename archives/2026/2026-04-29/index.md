@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-04-29](index.md)
+
+* [2026-04-29, 00:57:12](https://news.ycombinator.com/item?id=47942903) - [We decreased our LLM costs with Opus](https://www.mendral.com/blog/frontier-model-lower-costs)

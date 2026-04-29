@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-28](index.md)
 
+* [2026-04-28, 23:59:57](https://news.ycombinator.com/item?id=47942492) - [Regression: malware reminder on every read still causes subagent refusals](https://github.com/anthropics/claude-code/issues/49363)
+* [2026-04-28, 23:54:14](https://news.ycombinator.com/item?id=47942437) - [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
+* [2026-04-28, 23:46:56](https://news.ycombinator.com/item?id=47942386) - [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)
+* [2026-04-28, 23:43:53](https://news.ycombinator.com/item?id=47942353) - [Apple CMF (Color-Matching Functions) 2026](https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results)
 * [2026-04-28, 22:14:29](https://news.ycombinator.com/item?id=47941590) - [Carrot Disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
 * [2026-04-28, 21:17:40](https://news.ycombinator.com/item?id=47940921) - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
 * [2026-04-28, 20:50:08](https://news.ycombinator.com/item?id=47940545) - [BP profits more than double as Iran war sends oil prices higher](https://www.bbc.com/news/articles/c2eveyvgn9no)
@@ -20,6 +24,7 @@
 * [2026-04-28, 18:01:21](https://news.ycombinator.com/item?id=47938097) - [Claude.ai is unavailable](https://status.claude.com/incidents/9l93x2ht4s5w)
 * [2026-04-28, 17:56:57](https://news.ycombinator.com/item?id=47938036) - [The Americans queueing up to renounce their citizenship](https://www.theguardian.com/us-news/2026/apr/28/americans-queueing-up-renounce-citizenship-dictatorship)
 * [2026-04-28, 17:29:11](https://news.ycombinator.com/item?id=47937641) - [BookStack Moves from GitHub to Codeberg](https://github.com/BookStackApp/BookStack/issues/4551)
+* [2026-04-28, 17:12:30](https://news.ycombinator.com/item?id=47937380) - [Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU](https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md)
 * [2026-04-28, 17:09:41](https://news.ycombinator.com/item?id=47937349) - [Warp is now Open-Source](https://github.com/warpdotdev/warp)
 * [2026-04-28, 17:00:06](https://news.ycombinator.com/item?id=47937203) - [Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)](https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628)
 * [2026-04-28, 16:39:53](https://news.ycombinator.com/item?id=47936867) - [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
