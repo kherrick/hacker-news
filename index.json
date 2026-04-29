@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-04-29, 14:00:59",
+      "https://news.ycombinator.com/item?id=47948603"
+    ],
+    [
+      "Tangled – We need a federation of forges",
+      "https://blog.tangled.org/federation/"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 13:39:54",
+      "https://news.ycombinator.com/item?id=47948331"
+    ],
+    [
+      "Facebook Has a Health Scam Problem",
+      "https://www.nytimes.com/2026/04/27/well/facebook-supplements-health.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 13:05:44",
+      "https://news.ycombinator.com/item?id=47947834"
+    ],
+    [
+      "Improving ICU handovers by learning from Scuderia Ferrari F1 team",
+      "https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 12:43:12",
+      "https://news.ycombinator.com/item?id=47947525"
+    ],
+    [
+      "Letting AI play my game – building an agentic test harness to help play-testing",
+      "https://blog.jeffschomay.com/letting-ai-play-my-game"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 12:38:50",
+      "https://news.ycombinator.com/item?id=47947490"
+    ],
+    [
+      "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+      "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 12:24:53",
+      "https://news.ycombinator.com/item?id=47947369"
+    ],
+    [
+      "Show HN: Adblock-rust Manager – Firefox extension to enable the Brave ad blocker",
+      "https://github.com/electricant/adblock-rust-manager"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 12:18:59",
+      "https://news.ycombinator.com/item?id=47947318"
+    ],
+    [
+      "Coffee with a splash of physics: how to make the most out of your brew",
+      "https://physicsworld.com/a/coffee-with-a-splash-of-physics-how-to-make-the-most-out-of-your-brew/"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 12:00:17",
       "https://news.ycombinator.com/item?id=47947125"
     ],
@@ -21,12 +91,12 @@
   ],
   [
     [
-      "2026-04-29, 11:05:16",
-      "https://news.ycombinator.com/item?id=47946657"
+      "2026-04-29, 11:25:12",
+      "https://news.ycombinator.com/item?id=47946813"
     ],
     [
-      "Two-thirds of babies watch screens – some for eight hours a day",
-      "https://www.thetimes.com/uk/technology-uk/article/babies-and-under-2s-screen-time-6jbdmnjlg"
+      "GitHub – DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
+      "https://github.com/DOS-History/Paterson-Listings"
     ]
   ],
   [
@@ -47,26 +117,6 @@
     [
       "Soft launch of open-source code platform for government",
       "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 09:03:31",
-      "https://news.ycombinator.com/item?id=47945861"
-    ],
-    [
-      "Why Law Is Law-Shaped",
-      "https://lawvm.org/why-law-is-law-shaped/"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 08:16:37",
-      "https://news.ycombinator.com/item?id=47945522"
-    ],
-    [
-      "Tell HN: An update from the new Tindie team",
-      "https://news.ycombinator.com/item?id=47945522"
     ]
   ],
   [
@@ -101,42 +151,12 @@
   ],
   [
     [
-      "2026-04-29, 01:36:52",
-      "https://news.ycombinator.com/item?id=47943190"
-    ],
-    [
-      "When the Internet Was a Place",
-      "https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 23:59:57",
-      "https://news.ycombinator.com/item?id=47942492"
-    ],
-    [
-      "Regression: malware reminder on every read still causes subagent refusals",
-      "https://github.com/anthropics/claude-code/issues/49363"
-    ]
-  ],
-  [
-    [
       "2026-04-28, 23:54:14",
       "https://news.ycombinator.com/item?id=47942437"
     ],
     [
       "How ChatGPT serves ads",
       "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 23:43:53",
-      "https://news.ycombinator.com/item?id=47942353"
-    ],
-    [
-      "Apple CMF (Color-Matching Functions) 2026",
-      "https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results"
     ]
   ],
   [
@@ -197,16 +217,6 @@
     [
       "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
       "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 16:03:34",
-      "https://news.ycombinator.com/item?id=47936312"
-    ],
-    [
-      "Show HN: Drive any macOS app in the background without stealing the cursor",
-      "https://github.com/trycua/cua"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Gallium oxide electronics withstand extreme cold",
       "https://discovery.kaust.edu.sa/en/article/26858/gallium-oxide-electronics-withstand-extreme-cold/"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 04:44:49",
-      "https://news.ycombinator.com/item?id=47885644"
-    ],
-    [
-      "Intel Arc Pro B70 Review",
-      "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/"
     ]
   ]
 ]
