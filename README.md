@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-04-29, 12:00:17](https://news.ycombinator.com/item?id=47947125) - [Stardex Is Hiring a Founding Customer Success Lead](https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead)
+* [2026-04-29, 11:42:46](https://news.ycombinator.com/item?id=47946958) - [HashiCorp co-founder says GitHub 'no longer a place for serious work'](https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/)
+* [2026-04-29, 11:05:16](https://news.ycombinator.com/item?id=47946657) - [Two-thirds of babies watch screens – some for eight hours a day](https://www.thetimes.com/uk/technology-uk/article/babies-and-under-2s-screen-time-6jbdmnjlg)
 * [2026-04-29, 09:21:32](https://news.ycombinator.com/item?id=47945955) - [Show HN: Rip.so – a graveyard for dead internet things](https://rip.so)
 * [2026-04-29, 09:14:37](https://news.ycombinator.com/item?id=47945918) - [Soft launch of open-source code platform for government](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/)
 * [2026-04-29, 09:03:31](https://news.ycombinator.com/item?id=47945861) - [Why Law Is Law-Shaped](https://lawvm.org/why-law-is-law-shaped/)
@@ -21,13 +24,10 @@
 * [2026-04-28, 15:58:30](https://news.ycombinator.com/item?id=47936264) - [Warp is now open-source](https://www.warp.dev/blog/warp-is-now-open-source)
 * [2026-04-28, 15:21:00](https://news.ycombinator.com/item?id=47935853) - [Your phone is about to stop being yours](https://keepandroidopen.org/en/)
 * [2026-04-28, 14:35:59](https://news.ycombinator.com/item?id=47935246) - [Show HN: Rocky – Rust SQL engine with branches, replay, column lineage](https://github.com/rocky-data/rocky)
-* [2026-04-28, 13:02:01](https://news.ycombinator.com/item?id=47933983) - [UAE to leave OPEC](https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d)
-* [2026-04-28, 11:54:20](https://news.ycombinator.com/item?id=47933208) - [Localsend: An open-source cross-platform alternative to AirDrop](https://github.com/localsend/localsend)
 * [2026-04-28, 11:24:52](https://news.ycombinator.com/item?id=47932937) - [Who owns the code Claude Code wrote?](https://legallayer.substack.com/p/who-owns-the-claude-code-wrote)
 * [2026-04-27, 21:55:48](https://news.ycombinator.com/item?id=47927903) - [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
 * [2026-04-27, 19:27:47](https://news.ycombinator.com/item?id=47926148) - [Withnail's Coat and I](https://ontherow.substack.com/p/withnails-coat-and-i)
 * [2026-04-27, 13:54:47](https://news.ycombinator.com/item?id=47921610) - [Behavioral timescale synaptic plasticity rewires the brain after an experience](https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/)
-* [2026-04-27, 12:17:19](https://news.ycombinator.com/item?id=47920599) - [We still don't have a more precise value for \"Big G\"](https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/)
 * [2026-04-27, 11:31:20](https://news.ycombinator.com/item?id=47920214) - [Gallium oxide electronics withstand extreme cold](https://discovery.kaust.edu.sa/en/article/26858/gallium-oxide-electronics-withstand-extreme-cold/)
 * [2026-04-24, 04:44:49](https://news.ycombinator.com/item?id=47885644) - [Intel Arc Pro B70 Review](https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/)
 
