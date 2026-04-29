@@ -41,6 +41,7 @@
 * [2026-04-27, 12:17:19](https://news.ycombinator.com/item?id=47920599) - [We still don't have a more precise value for \"Big G\"](https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/)
 * [2026-04-27, 11:43:59](https://news.ycombinator.com/item?id=47920315) - [China blocks Meta's acquisition of AI startup Manus](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
 * [2026-04-27, 11:39:49](https://news.ycombinator.com/item?id=47920289) - [Show HN: A terminal spreadsheet editor with Vim keybindings](https://github.com/garritfra/cell)
+* [2026-04-27, 11:31:20](https://news.ycombinator.com/item?id=47920214) - [Gallium oxide electronics withstand extreme cold](https://discovery.kaust.edu.sa/en/article/26858/gallium-oxide-electronics-withstand-extreme-cold/)
 * [2026-04-27, 11:08:26](https://news.ycombinator.com/item?id=47920074) - [Men Who Stare at Walls](https://www.alexselimov.com/posts/men_who_stare_at_walls/)
 * [2026-04-27, 10:56:34](https://news.ycombinator.com/item?id=47919997) - [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
 * [2026-04-27, 10:42:02](https://news.ycombinator.com/item?id=47919891) - [PyWry: Cross-Platform Rendering Engine in Python](https://deeleeramone.github.io/PyWry/)
