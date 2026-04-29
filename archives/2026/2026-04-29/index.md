@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-04-29](index.md)
 
+* [2026-04-29, 15:49:57](https://news.ycombinator.com/item?id=47950091) - [Online age verification is the hill to die on](https://xcancel.com/GlennMeder/status/2049088498163216560)
+* [2026-04-29, 15:36:44](https://news.ycombinator.com/item?id=47949897) - [U.S. war in Iran has cost $25B so far, says Pentagon official](https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/)
+* [2026-04-29, 15:31:33](https://news.ycombinator.com/item?id=47949826) - [Data center boom strains Texas homebuilders' need for electricians](https://www.texastribune.org/2026/04/28/data-centers-texas-electricians-builders/)
+* [2026-04-29, 15:26:01](https://news.ycombinator.com/item?id=47949750) - [Why AI companies want you to be afraid of them](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
+* [2026-04-29, 15:17:46](https://news.ycombinator.com/item?id=47949642) - [Mistral Medium 3.5](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5)
+* [2026-04-29, 15:13:44](https://news.ycombinator.com/item?id=47949585) - [Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained](https://read.thecoder.cafe/p/linux-broke-postgresql)
+* [2026-04-29, 14:34:19](https://news.ycombinator.com/item?id=47949027) - [Zed is 1.0](https://zed.dev/blog/zed-1-0)
 * [2026-04-29, 14:00:59](https://news.ycombinator.com/item?id=47948603) - [Tangled – We need a federation of forges](https://blog.tangled.org/federation/)
 * [2026-04-29, 13:39:54](https://news.ycombinator.com/item?id=47948331) - [Facebook Has a Health Scam Problem](https://www.nytimes.com/2026/04/27/well/facebook-supplements-health.html)
 * [2026-04-29, 13:05:44](https://news.ycombinator.com/item?id=47947834) - [Improving ICU handovers by learning from Scuderia Ferrari F1 team](https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari)
