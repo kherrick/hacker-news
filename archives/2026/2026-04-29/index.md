@@ -4,8 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-04-29](index.md)
 
+* [2026-04-29, 18:54:31](https://news.ycombinator.com/item?id=47952722) - [HERMES.md: Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262)
+* [2026-04-29, 18:13:53](https://news.ycombinator.com/item?id=47952181) - [Copy Fail – CVE-2026-31431](https://copy.fail/)
+* [2026-04-29, 17:44:21](https://news.ycombinator.com/item?id=47951786) - [Ramp's Sheets AI Exfiltrates Financials](https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials)
 * [2026-04-29, 17:30:15](https://news.ycombinator.com/item?id=47951582) - [The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness](https://deepmind.google/research/publications/231971/)
+* [2026-04-29, 16:58:13](https://news.ycombinator.com/item?id=47951137) - [Laws of UX](https://lawsofux.com/)
+* [2026-04-29, 16:55:49](https://news.ycombinator.com/item?id=47951098) - [Why Software Needs a Third Loop [audio]](https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop)
+* [2026-04-29, 16:54:40](https://news.ycombinator.com/item?id=47951082) - [Rise of the Forward Deployed Engineer](https://www.hfsresearch.com/research/fde-optional-ai-flywheel-spin/)
+* [2026-04-29, 16:51:38](https://news.ycombinator.com/item?id=47951037) - [Virtualisation on Apple Silicon Macs is different](https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/)
 * [2026-04-29, 16:50:01](https://news.ycombinator.com/item?id=47951007) - [Maryland becomes first state to ban surveillance pricing in grocery stores](https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing)
+* [2026-04-29, 16:20:56](https://news.ycombinator.com/item?id=47950575) - [At Protocol: Building the Social Internet](https://atproto.com/)
 * [2026-04-29, 16:16:39](https://news.ycombinator.com/item?id=47950510) - [FastCGI: 30 years old and still the better protocol for reverse proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
 * [2026-04-29, 16:08:02](https://news.ycombinator.com/item?id=47950377) - [Court Rules 2nd Amendment Covers Firearms Parts Good News Those Who Build Guns](https://cowboystatedaily.com/2026/04/28/court-rules-2nd-amendment-covers-firearms-parts-good-news-for-those-who-build-guns/)
 * [2026-04-29, 16:01:51](https://news.ycombinator.com/item?id=47950283) - [Show HN: A new benchmark for testing LLMs for deterministic outputs](https://interfaze.ai/blog/introducing-structured-output-benchmark)
