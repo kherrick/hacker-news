@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-29, 22:39:34",
+      "https://news.ycombinator.com/item?id=47955655"
+    ],
+    [
+      "> Be Alexandra Elbakyan",
+      "https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 21:58:46",
       "https://news.ycombinator.com/item?id=47955297"
     ],
@@ -17,6 +27,26 @@
     [
       "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
       "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 21:41:32",
+      "https://news.ycombinator.com/item?id=47955118"
+    ],
+    [
+      "Vera: a programming language designed for machines to write",
+      "https://github.com/aallan/vera"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 21:04:38",
+      "https://news.ycombinator.com/item?id=47954638"
+    ],
+    [
+      "I accidentally made law enforcement shut down their fake honeypot",
+      "https://lina.sh/blog/ddos-honeypot"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-04-29, 16:01:51",
-      "https://news.ycombinator.com/item?id=47950283"
-    ],
-    [
-      "Show HN: A new benchmark for testing LLMs for deterministic outputs",
-      "https://interfaze.ai/blog/introducing-structured-output-benchmark"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 15:49:57",
       "https://news.ycombinator.com/item?id=47950091"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-04-29, 12:43:12",
-      "https://news.ycombinator.com/item?id=47947525"
-    ],
-    [
-      "Letting AI play my game – building an agentic test harness to help play-testing",
-      "https://blog.jeffschomay.com/letting-ai-play-my-game"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 11:25:12",
       "https://news.ycombinator.com/item?id=47946813"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-04-29, 02:19:11",
-      "https://news.ycombinator.com/item?id=47943499"
-    ],
-    [
-      "Bugs Rust won't catch",
-      "https://corrode.dev/blog/bugs-rust-wont-catch/"
-    ]
-  ],
-  [
-    [
       "2026-04-28, 22:37:54",
       "https://news.ycombinator.com/item?id=47941807"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-04-28, 21:17:40",
-      "https://news.ycombinator.com/item?id=47940921"
-    ],
-    [
-      "Before GitHub",
-      "https://lucumr.pocoo.org/2026/4/28/before-github/"
-    ]
-  ],
-  [
-    [
       "2026-04-28, 19:44:52",
       "https://news.ycombinator.com/item?id=47939579"
     ],
     [
       "Ghostty is leaving GitHub",
       "https://mitchellh.com/writing/ghostty-leaving-github"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 12:07:55",
+      "https://news.ycombinator.com/item?id=47933359"
+    ],
+    [
+      "DRAM Crunch: Lessons for System Design",
+      "https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/"
     ]
   ],
   [
