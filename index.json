@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-04-29, 20:20:58",
+      "https://news.ycombinator.com/item?id=47954024"
+    ],
+    [
+      "Alphabet Announces First Quarter 2026 Results",
+      "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 20:03:51",
+      "https://news.ycombinator.com/item?id=47953787"
+    ],
+    [
+      "Pentagon spending on drones jumps from $225M to $55B in one year",
+      "https://www.foxnews.com/politics/pentagon-jumps-from-225m-55b-drones-cheap-attacks-overwhelm-us-defenses"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 19:49:30",
+      "https://news.ycombinator.com/item?id=47953541"
+    ],
+    [
+      "OpenTrafficMap",
+      "https://opentrafficmap.org/"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 19:32:36",
       "https://news.ycombinator.com/item?id=47953275"
     ],
     [
       "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
       "https://jivx.com/kyoto-bloom"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 19:15:52",
-      "https://news.ycombinator.com/item?id=47953011"
-    ],
-    [
-      "\"People who don't use AI will be left behind\"",
-      "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-04-29, 15:13:44",
-      "https://news.ycombinator.com/item?id=47949585"
-    ],
-    [
-      "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
-      "https://read.thecoder.cafe/p/linux-broke-postgresql"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 14:47:31",
       "https://news.ycombinator.com/item?id=47949204"
     ],
@@ -197,16 +207,6 @@
     [
       "We need a federation of forges",
       "https://blog.tangled.org/federation/"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 13:05:44",
-      "https://news.ycombinator.com/item?id=47947834"
-    ],
-    [
-      "Improving ICU handovers by learning from Scuderia Ferrari F1 team",
-      "https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-04-28, 23:54:14",
-      "https://news.ycombinator.com/item?id=47942437"
-    ],
-    [
-      "How ChatGPT serves ads",
-      "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/"
-    ]
-  ],
-  [
-    [
       "2026-04-28, 21:17:40",
       "https://news.ycombinator.com/item?id=47940921"
     ],
@@ -297,6 +287,16 @@
     [
       "Ghostty is leaving GitHub",
       "https://mitchellh.com/writing/ghostty-leaving-github"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 14:07:25",
+      "https://news.ycombinator.com/item?id=47921802"
+    ],
+    [
+      "Postgres's lateral joins allow for quite the good eDSL",
+      "https://bensimms.moe/postgres-lateral-makes-quite-a-good-dsl/"
     ]
   ]
 ]
