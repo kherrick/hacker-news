@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-04-30, 07:43:55",
+      "https://news.ycombinator.com/item?id=47959463"
+    ],
+    [
+      "Mozilla's Opposition to Chrome's Prompt API",
+      "https://github.com/mozilla/standards-positions/issues/1213"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 06:30:30",
       "https://news.ycombinator.com/item?id=47958942"
     ],
     [
-      "Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"",
+      "Will you heed my warnings now?",
       "https://scottaaronson.blog/?p=9718"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47957294"
     ],
     [
-      "The Zig project's rationale for their firm anti-AI contribution policy",
+      "The Zig project's rationale for their anti-AI contribution policy",
       "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
       "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 21:41:32",
-      "https://news.ycombinator.com/item?id=47955118"
-    ],
-    [
-      "Vera: a programming language designed for machines to write",
-      "https://github.com/aallan/vera"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-04-29, 14:00:59",
-      "https://news.ycombinator.com/item?id=47948603"
-    ],
-    [
-      "We need a federation of forges",
-      "https://blog.tangled.org/federation/"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 08:43:17",
       "https://news.ycombinator.com/item?id=47945707"
     ],
@@ -257,6 +247,16 @@
     [
       "Creating a Color Palette from an Image",
       "https://amandahinton.com/blog/creating-a-color-palette-from-an-image"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 16:00:13",
+      "https://news.ycombinator.com/item?id=47936288"
+    ],
+    [
+      "A 25-Year-Fight over a 2-Second Sample",
+      "https://www.plagiarismtoday.com/2026/04/20/a-25-year-fight-over-a-2-second-sample/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-04-27, 17:28:18",
-      "https://news.ycombinator.com/item?id=47924575"
+      "2026-04-27, 16:08:34",
+      "https://news.ycombinator.com/item?id=47923429"
     ],
     [
-      "Who Is That Knocking at My (SSH) Door?",
-      "https://sheep.horse/2026/4/who_is_that_knocking_at_my_%28ssh%29_door.html"
+      "\"Parse, don't validate\" through the years with C++",
+      "https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/"
     ]
   ]
 ]
