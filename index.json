@@ -1,12 +1,82 @@
 [
   [
     [
+      "2026-04-30, 17:14:21",
+      "https://news.ycombinator.com/item?id=47965503"
+    ],
+    [
+      "I built a Game Boy emulator in F#",
+      "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 16:53:44",
+      "https://news.ycombinator.com/item?id=47965227"
+    ],
+    [
+      "Kubereboot/Kured: Kubernetes Reboot Daemon",
+      "https://github.com/kubereboot/kured"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 16:48:17",
+      "https://news.ycombinator.com/item?id=47965161"
+    ],
+    [
+      "Show HN: TRiP – a complete transformer engine in C built from scratch just by me",
+      "https://github.com/carlovalenti/TRiP"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 16:43:47",
+      "https://news.ycombinator.com/item?id=47965108"
+    ],
+    [
+      "CopyFail Was Not Disclosed to Distros",
+      "https://www.openwall.com/lists/oss-security/2026/04/30/10"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 16:41:00",
+      "https://news.ycombinator.com/item?id=47965060"
+    ],
+    [
+      "The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'",
+      "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 16:35:58",
+      "https://news.ycombinator.com/item?id=47964996"
+    ],
+    [
+      "Largest Digital Human Rights Conference Suddenly Canceled",
+      "https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 16:29:58",
       "https://news.ycombinator.com/item?id=47964897"
     ],
     [
       "SatoshiGuesser – Roll for Bitcoin",
       "https://github.com/Pathos0925/SatoshiGuesser"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 16:09:26",
+      "https://news.ycombinator.com/item?id=47964617"
+    ],
+    [
+      "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
     ]
   ],
   [
@@ -51,6 +121,16 @@
   ],
   [
     [
+      "2026-04-30, 14:26:38",
+      "https://news.ycombinator.com/item?id=47963026"
+    ],
+    [
+      "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
+      "https://burla-cloud.github.io/examples/airbnb-burla-demo/"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 13:54:20",
       "https://news.ycombinator.com/item?id=47962548"
     ],
@@ -61,32 +141,12 @@
   ],
   [
     [
-      "2026-04-30, 13:45:10",
-      "https://news.ycombinator.com/item?id=47962386"
-    ],
-    [
-      "The FCC is about to ban 21% of its test labs today. I mapped them all",
-      "https://markready.io/blog/fcc-accredited-test-labs-complete-guide"
-    ]
-  ],
-  [
-    [
       "2026-04-30, 13:15:04",
       "https://news.ycombinator.com/item?id=47961934"
     ],
     [
       "The Science Behind Honey's Eternal Shelf Life (2013)",
       "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 13:07:42",
-      "https://news.ycombinator.com/item?id=47961838"
-    ],
-    [
-      "Meta in row after workers who saw smart glasses users having sex lose jobs",
-      "https://www.bbc.com/news/articles/c5y7yvgy0w6o"
     ]
   ],
   [
@@ -131,32 +191,12 @@
   ],
   [
     [
-      "2026-04-30, 07:52:12",
-      "https://news.ycombinator.com/item?id=47959513"
-    ],
-    [
-      "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-      "https://datacenter.fm/"
-    ]
-  ],
-  [
-    [
       "2026-04-30, 07:43:55",
       "https://news.ycombinator.com/item?id=47959463"
     ],
     [
       "Mozilla's opposition to Chrome's Prompt API",
       "https://github.com/mozilla/standards-positions/issues/1213"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 03:24:41",
-      "https://news.ycombinator.com/item?id=47957714"
-    ],
-    [
-      "Biology is a Burrito: A text- and visual-based journey through a living cell",
-      "https://burrito.bio/essays/biology-is-a-burrito"
     ]
   ],
   [
@@ -191,32 +231,12 @@
   ],
   [
     [
-      "2026-04-29, 19:49:30",
-      "https://news.ycombinator.com/item?id=47953541"
-    ],
-    [
-      "OpenTrafficMap",
-      "https://opentrafficmap.org/"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 16:42:13",
       "https://news.ycombinator.com/item?id=47950880"
     ],
     [
       "Because It Doesn't Have To",
       "https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 16:16:39",
-      "https://news.ycombinator.com/item?id=47950510"
-    ],
-    [
-      "FastCGI: 30 years old and still the better protocol for reverse proxies",
-      "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies"
     ]
   ],
   [
@@ -231,22 +251,12 @@
   ],
   [
     [
-      "2026-04-29, 14:34:19",
-      "https://news.ycombinator.com/item?id=47949027"
+      "2026-04-29, 13:15:46",
+      "https://news.ycombinator.com/item?id=47947944"
     ],
     [
-      "Zed 1.0",
-      "https://zed.dev/blog/zed-1-0"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 13:46:26",
-      "https://news.ycombinator.com/item?id=47934544"
-    ],
-    [
-      "Show HN: FusionCore: ROS 2 sensor fusion that outperforms robot_localization",
-      "https://github.com/manankharwar/fusioncore"
+      "10Gb/s Ethernet: what I did to get it working in my home",
+      "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "You can beat the binary search",
       "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 16:08:34",
-      "https://news.ycombinator.com/item?id=47923429"
-    ],
-    [
-      "\"Parse, don't validate\" through the years with C++",
-      "https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/"
     ]
   ]
 ]
