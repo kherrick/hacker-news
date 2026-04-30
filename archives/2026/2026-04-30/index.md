@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-30](index.md)
 
 * [2026-04-30, 20:55:12](https://news.ycombinator.com/item?id=47968112) - [Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell](https://pu.dev/)
+* [2026-04-30, 20:49:21](https://news.ycombinator.com/item?id=47968035) - [SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding](https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html)
 * [2026-04-30, 20:33:48](https://news.ycombinator.com/item?id=47967863) - [Apple reports second quarter results](https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/)
 * [2026-04-30, 20:27:22](https://news.ycombinator.com/item?id=47967786) - [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
 * [2026-04-30, 20:02:35](https://news.ycombinator.com/item?id=47967508) - [The upsell game – Vercel upselling tactics revealed](https://theupsellgame.com/)
