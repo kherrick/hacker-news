@@ -1,22 +1,52 @@
 [
   [
     [
+      "2026-04-30, 16:29:58",
+      "https://news.ycombinator.com/item?id=47964897"
+    ],
+    [
+      "SatoshiGuesser – Roll for Bitcoin",
+      "https://github.com/Pathos0925/SatoshiGuesser"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 15:31:40",
+      "https://news.ycombinator.com/item?id=47964034"
+    ],
+    [
+      "Spain's parliament will act against massive IP blockages by LaLiga",
+      "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 15:20:49",
+      "https://news.ycombinator.com/item?id=47963868"
+    ],
+    [
+      "A 1960s art school experiment that redefined creativity",
+      "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 14:43:02",
+      "https://news.ycombinator.com/item?id=47963316"
+    ],
+    [
+      "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
+      "https://honker.dev/"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 14:36:58",
       "https://news.ycombinator.com/item?id=47963204"
     ],
     [
       "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "https://twitter.com/theo/status/2049645973350363168"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 14:34:36",
-      "https://news.ycombinator.com/item?id=47963163"
-    ],
-    [
-      "The More Young People Use AI, the More They Hate It",
-      "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
     ]
   ],
   [
@@ -115,18 +145,8 @@
       "https://news.ycombinator.com/item?id=47959463"
     ],
     [
-      "Mozilla's Opposition to Chrome's Prompt API",
+      "Mozilla's opposition to Chrome's Prompt API",
       "https://github.com/mozilla/standards-positions/issues/1213"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 04:28:07",
-      "https://news.ycombinator.com/item?id=47958106"
-    ],
-    [
-      "Monad Tutorials Timeline",
-      "https://wiki.haskell.org/Monad_tutorials_timeline"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-04-30, 03:11:51",
-      "https://news.ycombinator.com/item?id=47957627"
-    ],
-    [
-      "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-      "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code"
-    ]
-  ],
-  [
-    [
       "2026-04-30, 02:15:47",
       "https://news.ycombinator.com/item?id=47957294"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-04-30, 00:56:23",
-      "https://news.ycombinator.com/item?id=47956739"
-    ],
-    [
-      "Mike: open-source legal AI",
-      "https://mikeoss.com/"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 19:49:30",
       "https://news.ycombinator.com/item?id=47953541"
     ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2026-04-29, 18:13:53",
-      "https://news.ycombinator.com/item?id=47952181"
+      "2026-04-29, 16:42:13",
+      "https://news.ycombinator.com/item?id=47950880"
     ],
     [
-      "Copy Fail",
-      "https://copy.fail/"
+      "Because It Doesn't Have To",
+      "https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-04-29, 15:39:43",
-      "https://news.ycombinator.com/item?id=47949939"
+      "2026-04-29, 15:16:17",
+      "https://news.ycombinator.com/item?id=47949616"
     ],
     [
-      "Cursor Camp",
-      "https://neal.fun/cursor-camp/"
+      "What can we gain by losing infinity?",
+      "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-04-28, 22:52:22",
-      "https://news.ycombinator.com/item?id=47941931"
+      "2026-04-28, 13:46:26",
+      "https://news.ycombinator.com/item?id=47934544"
     ],
     [
-      "London to Calcutta by Bus (2022)",
-      "https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html"
+      "Show HN: FusionCore: ROS 2 sensor fusion that outperforms robot_localization",
+      "https://github.com/manankharwar/fusioncore"
     ]
   ],
   [
