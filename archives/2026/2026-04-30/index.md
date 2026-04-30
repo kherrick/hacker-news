@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-30](index.md)
 
+* [2026-04-30, 18:45:22](https://news.ycombinator.com/item?id=47966625) - [Does Postgres Scale?](https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres)
+* [2026-04-30, 18:33:03](https://news.ycombinator.com/item?id=47966484) - [The Human Creativity Benchmark – Evaluating Generative AI in Creative Work](https://contralabs.com/research/human-creativity-benchmark)
+* [2026-04-30, 18:14:18](https://news.ycombinator.com/item?id=47966254) - [Full-Text Search with DuckDB](https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html)
+* [2026-04-30, 17:42:11](https://news.ycombinator.com/item?id=47965835) - [Recovering files from beyond the grave using PhotoRec](https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/)
 * [2026-04-30, 17:14:21](https://news.ycombinator.com/item?id=47965503) - [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/)
 * [2026-04-30, 16:53:44](https://news.ycombinator.com/item?id=47965227) - [Kubereboot/Kured: Kubernetes Reboot Daemon](https://github.com/kubereboot/kured)
 * [2026-04-30, 16:48:17](https://news.ycombinator.com/item?id=47965161) - [Show HN: TRiP – a complete transformer engine in C built from scratch just by me](https://github.com/carlovalenti/TRiP)
