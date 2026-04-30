@@ -129,6 +129,91 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47968112">
+          <h3>
+            <a class="item" href="https://pu.dev/"
+              >Show HN: Pu.sh – a full coding-agent harness in 400 lines of
+              shell</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-30 @ 20:55:12</span
+              ><span class="points-container"
+                >Points: <span class="points">32</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47968112"
+                  >Comments</a
+                ><span class="descendants">: 14</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                First cut was 6 KB of shell. Great for one-shots, unusable
+                interactively. I was shocked it actually worked.
+              </p>
+              <p>
+                Started building up -- adding features — but with a self-imposed
+                rule: no new dependencies, and sub 500 LOC. This thing had to be
+                truly portable. Just sh, curl, awk. System primitives only.
+              </p>
+              <p>
+                Which means I did some genuinely disgusting things in awk,
+                including JSON parsing and the OpenAI Responses tool loop with
+                reasoning items carried across turns.
+              </p>
+              <p>
+                It's now ~400 lines. In the box: Anthropic + OpenAI, 7 tools
+                (bash, read, write, edit, grep, find, ls), REPL,
+                auto-compaction, checkpoint/resume, pipe mode, 90 no-API tests.
+                Not in the box: TUI, streaming, images, OAuth, Windows, dignity.
+              </p>
+              <p>Two honest things:</p>
+              <p>
+                1. I stole/modified the system prompt and the architecture.
+                Pi/Claude/Codex wrote the awk. I cannot read most of this code.
+                This wasn't possible for me a year ago.
+              </p>
+              <p>
+                2. Heavily inspired by Pi (pi.dev) — same 7-tool surface, same
+                exact-text edit model. Credit where it's due. Pi is awesome --
+                you should probably use them.
+              </p>
+              <p>
+                The agent loop itself is tiny. Almost everything else in a
+                "real" agent CLI is DX and hardening. You can probably build
+                your own harness exactly how you like it. Mario Zechner's AI
+                Engineer talk on taking back control of your tools nudged me
+                here.
+              </p>
+              <p>
+                The name is because it's a .sh file. The other thing it sounds
+                like is, regrettably, also accurate.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47967863">
+          <h3>
+            <a
+              class="item"
+              href="https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/"
+              >Apple reports second quarter results</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-30 @ 20:33:48</span
+              ><span class="points-container"
+                >Points: <span class="points">67</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47967863"
+                  >Comments</a
+                ><span class="descendants">: 43</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="47967786">
           <h3>
             <a
@@ -141,11 +226,30 @@
             <h4>
               <span>2026-04-30 @ 20:27:22</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">271</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47967786"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 110</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47967508">
+          <h3>
+            <a class="item" href="https://theupsellgame.com/"
+              >The upsell game – Vercel upselling tactics revealed</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-30 @ 20:02:35</span
+              ><span class="points-container"
+                >Points: <span class="points">49</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47967508"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -163,11 +267,11 @@
             <h4>
               <span>2026-04-30 @ 19:42:33</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">244</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47967289"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -185,11 +289,11 @@
             <h4>
               <span>2026-04-30 @ 19:40:20</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">242</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47967262"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -206,7 +310,7 @@
             <h4>
               <span>2026-04-30 @ 19:22:55</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47967069"
                   >Comments</a
@@ -227,33 +331,11 @@
             <h4>
               <span>2026-04-30 @ 18:45:22</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47966625"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47966484">
-          <h3>
-            <a
-              class="item"
-              href="https://contralabs.com/research/human-creativity-benchmark"
-              >The Human Creativity Benchmark – Evaluating Generative AI in
-              Creative Work</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-30 @ 18:33:03</span
-              ><span class="points-container"
-                >Points: <span class="points">14</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47966484"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -270,7 +352,7 @@
             <h4>
               <span>2026-04-30 @ 18:14:18</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47966254"
                   >Comments</a
@@ -291,11 +373,11 @@
             <h4>
               <span>2026-04-30 @ 17:42:11</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47965835"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -312,30 +394,11 @@
             <h4>
               <span>2026-04-30 @ 17:14:21</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">160</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47965503"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47965227">
-          <h3>
-            <a class="item" href="https://github.com/kubereboot/kured"
-              >Kubereboot/Kured: Kubernetes Reboot Daemon</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-30 @ 16:53:44</span
-              ><span class="points-container"
-                >Points: <span class="points">15</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47965227"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -352,11 +415,11 @@
             <h4>
               <span>2026-04-30 @ 16:43:47</span
               ><span class="points-container"
-                >Points: <span class="points">273</span></span
+                >Points: <span class="points">298</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47965108"
                   >Comments</a
-                ><span class="descendants">: 182</span></span
+                ><span class="descendants">: 223</span></span
               >
             </h4>
             <div class="text">
@@ -380,11 +443,32 @@
             <h4>
               <span>2026-04-30 @ 16:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">335</span></span
+                >Points: <span class="points">364</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47965060"
                   >Comments</a
-                ><span class="descendants">: 94</span></span
+                ><span class="descendants">: 103</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47965027">
+          <h3>
+            <a
+              class="item"
+              href="https://www.derekthompson.org/p/why-do-richer-dads-spend-more-time"
+              >American Dads Became the Parents Their Fathers Never Were</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-30 @ 16:38:14</span
+              ><span class="points-container"
+                >Points: <span class="points">66</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47965027"
+                  >Comments</a
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -402,11 +486,11 @@
             <h4>
               <span>2026-04-30 @ 16:09:26</span
               ><span class="points-container"
-                >Points: <span class="points">266</span></span
+                >Points: <span class="points">285</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47964617"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -424,11 +508,11 @@
             <h4>
               <span>2026-04-30 @ 15:31:40</span
               ><span class="points-container"
-                >Points: <span class="points">344</span></span
+                >Points: <span class="points">363</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47964034"
                   >Comments</a
-                ><span class="descendants">: 157</span></span
+                ><span class="descendants">: 161</span></span
               >
             </h4>
           </section>
@@ -445,11 +529,11 @@
             <h4>
               <span>2026-04-30 @ 15:20:49</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47963868"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -465,11 +549,11 @@
             <h4>
               <span>2026-04-30 @ 14:43:02</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47963316"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -487,11 +571,11 @@
             <h4>
               <span>2026-04-30 @ 14:36:58</span
               ><span class="points-container"
-                >Points: <span class="points">777</span></span
+                >Points: <span class="points">833</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47963204"
                   >Comments</a
-                ><span class="descendants">: 445</span></span
+                ><span class="descendants">: 480</span></span
               >
             </h4>
             <div class="text">
@@ -513,32 +597,11 @@
             <h4>
               <span>2026-04-30 @ 13:54:20</span
               ><span class="points-container"
-                >Points: <span class="points">263</span></span
+                >Points: <span class="points">283</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47962548"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47961934">
-          <h3>
-            <a
-              class="item"
-              href="https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/"
-              >The Science Behind Honey's Eternal Shelf Life (2013)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-30 @ 13:15:04</span
-              ><span class="points-container"
-                >Points: <span class="points">57</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47961934"
-                  >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -553,11 +616,11 @@
             <h4>
               <span>2026-04-30 @ 12:24:53</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47961378"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -574,32 +637,11 @@
             <h4>
               <span>2026-04-30 @ 12:17:14</span
               ><span class="points-container"
-                >Points: <span class="points">689</span></span
+                >Points: <span class="points">704</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47961319"
                   >Comments</a
-                ><span class="descendants">: 608</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47960778">
-          <h3>
-            <a
-              class="item"
-              href="https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html"
-              >1.4 GW: battery storage at former Grohnde nuclear power plant</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-30 @ 11:08:34</span
-              ><span class="points-container"
-                >Points: <span class="points">49</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47960778"
-                  >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 642</span></span
               >
             </h4>
           </section>
@@ -616,11 +658,11 @@
             <h4>
               <span>2026-04-30 @ 10:31:17</span
               ><span class="points-container"
-                >Points: <span class="points">263</span></span
+                >Points: <span class="points">265</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47960507"
                   >Comments</a
-                ><span class="descendants">: 164</span></span
+                ><span class="descendants">: 166</span></span
               >
             </h4>
           </section>
@@ -637,11 +679,11 @@
             <h4>
               <span>2026-04-30 @ 07:43:55</span
               ><span class="points-container"
-                >Points: <span class="points">528</span></span
+                >Points: <span class="points">552</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47959463"
                   >Comments</a
-                ><span class="descendants">: 203</span></span
+                ><span class="descendants">: 205</span></span
               >
             </h4>
           </section>
@@ -658,11 +700,11 @@
             <h4>
               <span>2026-04-29 @ 13:15:46</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47947944"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -679,11 +721,11 @@
             <h4>
               <span>2026-04-28 @ 19:13:26</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47939158"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -698,11 +740,11 @@
             <h4>
               <span>2026-04-28 @ 17:41:38</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47937814"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
             <div class="text">
@@ -754,30 +796,30 @@
             <h4>
               <span>2026-04-28 @ 17:26:58</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47937611"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="47933934">
+        <section id="47937033">
           <h3>
-            <a class="item" href="https://pomax.github.io/bezierinfo/"
-              >A Primer on Bézier Curves – So What Makes a Bézier Curve?</a
+            <a class="item" href="https://wideluxx.com"
+              >New mechanical panoramic film camera from Jeff Bridges</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-04-28 @ 12:57:53</span
+              <span>2026-04-28 @ 16:49:12</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47933934"
+                ><a href="https://news.ycombinator.com/item?id=47937033"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -794,11 +836,11 @@
             <h4>
               <span>2026-04-27 @ 17:52:12</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47924912"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
