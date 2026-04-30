@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-04-30, 20:27:22",
+      "https://news.ycombinator.com/item?id=47967786"
+    ],
+    [
+      "Rivian allows you to disable all internet connectivity",
+      "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 19:42:33",
+      "https://news.ycombinator.com/item?id=47967289"
+    ],
+    [
+      "U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets",
+      "https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 19:40:20",
+      "https://news.ycombinator.com/item?id=47967262"
+    ],
+    [
+      "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+      "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 19:22:55",
+      "https://news.ycombinator.com/item?id=47967069"
+    ],
+    [
+      "Follow-up to Carrot disclosure: Forgejo",
+      "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 18:45:22",
       "https://news.ycombinator.com/item?id=47966625"
     ],
@@ -61,21 +101,11 @@
   ],
   [
     [
-      "2026-04-30, 16:48:17",
-      "https://news.ycombinator.com/item?id=47965161"
-    ],
-    [
-      "Show HN: TRiP – a complete transformer engine in C built from scratch just by me",
-      "https://github.com/carlovalenti/TRiP"
-    ]
-  ],
-  [
-    [
       "2026-04-30, 16:43:47",
       "https://news.ycombinator.com/item?id=47965108"
     ],
     [
-      "CopyFail Was Not Disclosed to Distros",
+      "CopyFail was not disclosed to Gentoo developer",
       "https://www.openwall.com/lists/oss-security/2026/04/30/10"
     ]
   ],
@@ -145,7 +175,7 @@
       "https://news.ycombinator.com/item?id=47962548"
     ],
     [
-      "How an Oil Refinery Works",
+      "How an oil refinery works",
       "https://www.construction-physics.com/p/how-an-oil-refinery-works"
     ]
   ],
@@ -181,6 +211,16 @@
   ],
   [
     [
+      "2026-04-30, 11:08:34",
+      "https://news.ycombinator.com/item?id=47960778"
+    ],
+    [
+      "1.4 GW: battery storage at former Grohnde nuclear power plant",
+      "https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 10:31:17",
       "https://news.ycombinator.com/item?id=47960507"
     ],
@@ -196,47 +236,7 @@
     ],
     [
       "Mozilla's opposition to Chrome's Prompt API",
-      "https://github.com/mozilla/standards-positions/issues/1213"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 03:21:04",
-      "https://news.ycombinator.com/item?id=47957688"
-    ],
-    [
-      "Where the goblins came from",
-      "https://openai.com/index/where-the-goblins-came-from/"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 02:15:47",
-      "https://news.ycombinator.com/item?id=47957294"
-    ],
-    [
-      "The Zig project's rationale for their anti-AI contribution policy",
-      "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 01:44:56",
-      "https://news.ycombinator.com/item?id=47957101"
-    ],
-    [
-      "Craig Venter has died",
-      "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 15:16:17",
-      "https://news.ycombinator.com/item?id=47949616"
-    ],
-    [
-      "What can we gain by losing infinity?",
-      "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/"
+      "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313"
     ]
   ],
   [
@@ -247,6 +247,26 @@
     [
       "10Gb/s Ethernet: what I did to get it working in my home",
       "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 19:13:26",
+      "https://news.ycombinator.com/item?id=47939158"
+    ],
+    [
+      "The Church Rock Uranium Mill Spill",
+      "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 17:41:38",
+      "https://news.ycombinator.com/item?id=47937814"
+    ],
+    [
+      "Reverse Engineering SimTower",
+      "https://phulin.me/blog/simtower"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "A Primer on Bézier Curves – So What Makes a Bézier Curve?",
       "https://pomax.github.io/bezierinfo/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 11:53:09",
-      "https://news.ycombinator.com/item?id=47933197"
-    ],
-    [
-      "A statement from members of the Toki Pona community",
-      "https://tokipona.net/wile-pona/"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 21:35:07",
-      "https://news.ycombinator.com/item?id=47927627"
-    ],
-    [
-      "Noctua releases official 3D CAD models for its cooling fans",
-      "https://www.noctua.at/en/3d-cad-models"
     ]
   ],
   [
