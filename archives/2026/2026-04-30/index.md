@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-30](index.md)
 
+* [2026-04-30, 20:27:22](https://news.ycombinator.com/item?id=47967786) - [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
+* [2026-04-30, 19:42:33](https://news.ycombinator.com/item?id=47967289) - [U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets](https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd)
+* [2026-04-30, 19:40:20](https://news.ycombinator.com/item?id=47967262) - [LinkedIn scans for 6,278 extensions and encrypts the results into every request](https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/)
+* [2026-04-30, 19:22:55](https://news.ycombinator.com/item?id=47967069) - [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
 * [2026-04-30, 18:45:22](https://news.ycombinator.com/item?id=47966625) - [Does Postgres Scale?](https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres)
 * [2026-04-30, 18:33:03](https://news.ycombinator.com/item?id=47966484) - [The Human Creativity Benchmark – Evaluating Generative AI in Creative Work](https://contralabs.com/research/human-creativity-benchmark)
 * [2026-04-30, 18:14:18](https://news.ycombinator.com/item?id=47966254) - [Full-Text Search with DuckDB](https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html)
@@ -34,6 +38,7 @@
 * [2026-04-30, 10:49:18](https://news.ycombinator.com/item?id=47960643) - [How to Disable Firefox's New Emoji Picker](https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/)
 * [2026-04-30, 10:31:17](https://news.ycombinator.com/item?id=47960507) - [Granite 4.1: IBM's 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
 * [2026-04-30, 07:52:12](https://news.ycombinator.com/item?id=47959513) - [DataCenter.FM – background noise app featuring the sound of the AI bubble](https://datacenter.fm/)
+* [2026-04-30, 07:43:55](https://news.ycombinator.com/item?id=47959463) - [Mozilla's opposition to Chrome's Prompt API](https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313)
 * [2026-04-30, 07:43:55](https://news.ycombinator.com/item?id=47959463) - [Mozilla's Opposition to Chrome's Prompt API](https://github.com/mozilla/standards-positions/issues/1213)
 * [2026-04-30, 06:30:30](https://news.ycombinator.com/item?id=47958942) - [Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"](https://scottaaronson.blog/?p=9718)
 * [2026-04-30, 04:28:07](https://news.ycombinator.com/item?id=47958106) - [Monad Tutorials Timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
