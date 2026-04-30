@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-30](index.md)
 
+* [2026-04-30, 14:36:58](https://news.ycombinator.com/item?id=47963204) - [Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"](https://twitter.com/theo/status/2049645973350363168)
+* [2026-04-30, 14:34:36](https://news.ycombinator.com/item?id=47963163) - [The More Young People Use AI, the More They Hate It](https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai)
+* [2026-04-30, 13:54:20](https://news.ycombinator.com/item?id=47962548) - [How an Oil Refinery Works](https://www.construction-physics.com/p/how-an-oil-refinery-works)
+* [2026-04-30, 13:45:10](https://news.ycombinator.com/item?id=47962386) - [The FCC is about to ban 21% of its test labs today. I mapped them all](https://markready.io/blog/fcc-accredited-test-labs-complete-guide)
+* [2026-04-30, 13:15:04](https://news.ycombinator.com/item?id=47961934) - [The Science Behind Honey's Eternal Shelf Life (2013)](https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/)
+* [2026-04-30, 13:07:42](https://news.ycombinator.com/item?id=47961838) - [Meta in row after workers who saw smart glasses users having sex lose jobs](https://www.bbc.com/news/articles/c5y7yvgy0w6o)
 * [2026-04-30, 12:24:53](https://news.ycombinator.com/item?id=47961378) - [I aggregated 28 US Government auction sites into one search](https://bidprowl.com)
 * [2026-04-30, 12:17:14](https://news.ycombinator.com/item?id=47961319) - [Belgium stops decommissioning nuclear power plants](https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/)
 * [2026-04-30, 11:40:13](https://news.ycombinator.com/item?id=47961004) - [GCC 16 has been released](https://gcc.gnu.org/gcc-16/changes.html)
