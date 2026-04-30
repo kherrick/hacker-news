@@ -46,6 +46,7 @@
 * [2026-04-29, 14:05:42](https://news.ycombinator.com/item?id=47948664) - [How to Build the Future: Demis Hassabis [video]](https://www.youtube.com/watch?v=JNyuX1zoOgU)
 * [2026-04-29, 14:00:59](https://news.ycombinator.com/item?id=47948603) - [Tangled – We need a federation of forges](https://blog.tangled.org/federation/)
 * [2026-04-29, 13:39:54](https://news.ycombinator.com/item?id=47948331) - [Facebook Has a Health Scam Problem](https://www.nytimes.com/2026/04/27/well/facebook-supplements-health.html)
+* [2026-04-29, 13:15:46](https://news.ycombinator.com/item?id=47947944) - [10Gb/s Ethernet: what I did to get it working in my home](https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did)
 * [2026-04-29, 13:05:44](https://news.ycombinator.com/item?id=47947834) - [Improving ICU handovers by learning from Scuderia Ferrari F1 team](https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari)
 * [2026-04-29, 12:43:12](https://news.ycombinator.com/item?id=47947525) - [Letting AI play my game – building an agentic test harness to help play-testing](https://blog.jeffschomay.com/letting-ai-play-my-game)
 * [2026-04-29, 12:38:50](https://news.ycombinator.com/item?id=47947490) - [He asked AI to count carbs 27000 times. It couldn't give the same answer twice](https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/)
