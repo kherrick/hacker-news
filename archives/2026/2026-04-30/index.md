@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-30](index.md)
 
+* [2026-04-30, 12:24:53](https://news.ycombinator.com/item?id=47961378) - [I aggregated 28 US Government auction sites into one search](https://bidprowl.com)
+* [2026-04-30, 12:17:14](https://news.ycombinator.com/item?id=47961319) - [Belgium stops decommissioning nuclear power plants](https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/)
+* [2026-04-30, 11:40:13](https://news.ycombinator.com/item?id=47961004) - [GCC 16 has been released](https://gcc.gnu.org/gcc-16/changes.html)
+* [2026-04-30, 11:31:27](https://news.ycombinator.com/item?id=47960953) - [For the first time in history, more Americans are moving to EU than vice versa](https://twitter.com/benbawan/status/2049303326999609846)
+* [2026-04-30, 11:08:34](https://news.ycombinator.com/item?id=47960778) - [1.4 GW: battery storage at former Grohnde nuclear power plant](https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html)
+* [2026-04-30, 10:49:18](https://news.ycombinator.com/item?id=47960643) - [How to Disable Firefox's New Emoji Picker](https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/)
 * [2026-04-30, 10:31:17](https://news.ycombinator.com/item?id=47960507) - [Granite 4.1: IBM's 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
 * [2026-04-30, 07:52:12](https://news.ycombinator.com/item?id=47959513) - [DataCenter.FM – background noise app featuring the sound of the AI bubble](https://datacenter.fm/)
 * [2026-04-30, 07:43:55](https://news.ycombinator.com/item?id=47959463) - [Mozilla's Opposition to Chrome's Prompt API](https://github.com/mozilla/standards-positions/issues/1213)
