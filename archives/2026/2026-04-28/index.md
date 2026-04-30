@@ -8,6 +8,7 @@
 * [2026-04-28, 23:54:14](https://news.ycombinator.com/item?id=47942437) - [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
 * [2026-04-28, 23:46:56](https://news.ycombinator.com/item?id=47942386) - [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)
 * [2026-04-28, 23:43:53](https://news.ycombinator.com/item?id=47942353) - [Apple CMF (Color-Matching Functions) 2026](https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results)
+* [2026-04-28, 23:43:07](https://news.ycombinator.com/item?id=47942347) - [A Milestone in Formalization: The Sphere Packing Problem in Dimension 8](https://www.alphaxiv.org/abs/2604.23468)
 * [2026-04-28, 22:52:22](https://news.ycombinator.com/item?id=47941931) - [London to Calcutta by Bus (2022)](https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html)
 * [2026-04-28, 22:37:54](https://news.ycombinator.com/item?id=47941807) - [Blaster Beam (Musical Instrument)](https://en.wikipedia.org/wiki/Blaster_beam)
 * [2026-04-28, 22:14:29](https://news.ycombinator.com/item?id=47941590) - [Carrot Disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
