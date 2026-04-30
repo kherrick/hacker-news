@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-30](index.md)
 
+* [2026-04-30, 20:55:12](https://news.ycombinator.com/item?id=47968112) - [Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell](https://pu.dev/)
+* [2026-04-30, 20:33:48](https://news.ycombinator.com/item?id=47967863) - [Apple reports second quarter results](https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/)
 * [2026-04-30, 20:27:22](https://news.ycombinator.com/item?id=47967786) - [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
+* [2026-04-30, 20:02:35](https://news.ycombinator.com/item?id=47967508) - [The upsell game – Vercel upselling tactics revealed](https://theupsellgame.com/)
 * [2026-04-30, 19:42:33](https://news.ycombinator.com/item?id=47967289) - [U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets](https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd)
 * [2026-04-30, 19:40:20](https://news.ycombinator.com/item?id=47967262) - [LinkedIn scans for 6,278 extensions and encrypts the results into every request](https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/)
 * [2026-04-30, 19:22:55](https://news.ycombinator.com/item?id=47967069) - [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
@@ -17,6 +20,7 @@
 * [2026-04-30, 16:48:17](https://news.ycombinator.com/item?id=47965161) - [Show HN: TRiP – a complete transformer engine in C built from scratch just by me](https://github.com/carlovalenti/TRiP)
 * [2026-04-30, 16:43:47](https://news.ycombinator.com/item?id=47965108) - [CopyFail Was Not Disclosed to Distros](https://www.openwall.com/lists/oss-security/2026/04/30/10)
 * [2026-04-30, 16:41:00](https://news.ycombinator.com/item?id=47965060) - [The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
+* [2026-04-30, 16:38:14](https://news.ycombinator.com/item?id=47965027) - [American Dads Became the Parents Their Fathers Never Were](https://www.derekthompson.org/p/why-do-richer-dads-spend-more-time)
 * [2026-04-30, 16:35:58](https://news.ycombinator.com/item?id=47964996) - [Largest Digital Human Rights Conference Suddenly Canceled](https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/)
 * [2026-04-30, 16:29:58](https://news.ycombinator.com/item?id=47964897) - [SatoshiGuesser – Roll for Bitcoin](https://github.com/Pathos0925/SatoshiGuesser)
 * [2026-04-30, 16:09:26](https://news.ycombinator.com/item?id=47964617) - [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)

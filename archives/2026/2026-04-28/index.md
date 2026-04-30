@@ -32,6 +32,7 @@
 * [2026-04-28, 17:12:30](https://news.ycombinator.com/item?id=47937380) - [Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU](https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md)
 * [2026-04-28, 17:09:41](https://news.ycombinator.com/item?id=47937349) - [Warp is now Open-Source](https://github.com/warpdotdev/warp)
 * [2026-04-28, 17:00:06](https://news.ycombinator.com/item?id=47937203) - [Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)](https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628)
+* [2026-04-28, 16:49:12](https://news.ycombinator.com/item?id=47937033) - [New mechanical panoramic film camera from Jeff Bridges](https://wideluxx.com)
 * [2026-04-28, 16:39:53](https://news.ycombinator.com/item?id=47936867) - [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
 * [2026-04-28, 16:24:00](https://news.ycombinator.com/item?id=47936616) - [Greece to ban anonymity on social media](https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media/)
 * [2026-04-28, 16:23:50](https://news.ycombinator.com/item?id=47936610) - [Creating a Color Palette from an Image](https://amandahinton.com/blog/creating-a-color-palette-from-an-image)
