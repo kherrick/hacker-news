@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-04-30, 14:36:58",
+      "https://news.ycombinator.com/item?id=47963204"
+    ],
+    [
+      "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "https://twitter.com/theo/status/2049645973350363168"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 14:34:36",
+      "https://news.ycombinator.com/item?id=47963163"
+    ],
+    [
+      "The More Young People Use AI, the More They Hate It",
+      "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 13:54:20",
+      "https://news.ycombinator.com/item?id=47962548"
+    ],
+    [
+      "How an Oil Refinery Works",
+      "https://www.construction-physics.com/p/how-an-oil-refinery-works"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 13:45:10",
+      "https://news.ycombinator.com/item?id=47962386"
+    ],
+    [
+      "The FCC is about to ban 21% of its test labs today. I mapped them all",
+      "https://markready.io/blog/fcc-accredited-test-labs-complete-guide"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 13:15:04",
+      "https://news.ycombinator.com/item?id=47961934"
+    ],
+    [
+      "The Science Behind Honey's Eternal Shelf Life (2013)",
+      "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 13:07:42",
+      "https://news.ycombinator.com/item?id=47961838"
+    ],
+    [
+      "Meta in row after workers who saw smart glasses users having sex lose jobs",
+      "https://www.bbc.com/news/articles/c5y7yvgy0w6o"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 12:24:53",
       "https://news.ycombinator.com/item?id=47961378"
     ],
@@ -27,36 +87,6 @@
     [
       "GCC 16 has been released",
       "https://gcc.gnu.org/gcc-16/changes.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 11:31:27",
-      "https://news.ycombinator.com/item?id=47960953"
-    ],
-    [
-      "For the first time in history, more Americans are moving to EU than vice versa",
-      "https://twitter.com/benbawan/status/2049303326999609846"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 11:08:34",
-      "https://news.ycombinator.com/item?id=47960778"
-    ],
-    [
-      "1.4 GW: battery storage at former Grohnde nuclear power plant",
-      "https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 10:49:18",
-      "https://news.ycombinator.com/item?id=47960643"
-    ],
-    [
-      "How to Disable Firefox's New Emoji Picker",
-      "https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-04-30, 01:01:55",
-      "https://news.ycombinator.com/item?id=47956781"
-    ],
-    [
-      "Joby kicks off NYC electric air taxi demos with historic JFK flight",
-      "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/"
-    ]
-  ],
-  [
-    [
       "2026-04-30, 00:56:23",
       "https://news.ycombinator.com/item?id=47956739"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2026-04-29, 18:54:31",
-      "https://news.ycombinator.com/item?id=47952722"
-    ],
-    [
-      "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "https://github.com/anthropics/claude-code/issues/53262"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 18:13:53",
       "https://news.ycombinator.com/item?id=47952181"
     ],
     [
       "Copy Fail",
       "https://copy.fail/"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 16:58:13",
-      "https://news.ycombinator.com/item?id=47951137"
-    ],
-    [
-      "Laws of UX",
-      "https://lawsofux.com/"
     ]
   ],
   [
@@ -231,32 +231,12 @@
   ],
   [
     [
-      "2026-04-29, 14:47:31",
-      "https://news.ycombinator.com/item?id=47949204"
-    ],
-    [
-      "An open-source stethoscope that costs between $2.5 and $5 to produce",
-      "https://github.com/GliaX/Stethoscope"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 14:34:19",
       "https://news.ycombinator.com/item?id=47949027"
     ],
     [
       "Zed 1.0",
       "https://zed.dev/blog/zed-1-0"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 08:43:17",
-      "https://news.ycombinator.com/item?id=47945707"
-    ],
-    [
-      "Why I still reach for Lisp and Scheme instead of Haskell",
-      "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "Noctua releases official 3D CAD models for its cooling fans",
       "https://www.noctua.at/en/3d-cad-models"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 19:02:14",
+      "https://news.ycombinator.com/item?id=47925792"
+    ],
+    [
+      "My Stratum-0 Atomic Clock",
+      "https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 17:52:12",
+      "https://news.ycombinator.com/item?id=47924912"
+    ],
+    [
+      "You can beat the binary search",
+      "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/"
     ]
   ],
   [
