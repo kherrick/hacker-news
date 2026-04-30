@@ -49,6 +49,7 @@
 * [2026-04-28, 13:25:48](https://news.ycombinator.com/item?id=47934261) - [Show HN: Live Sun and Moon Dashboard with NASA Footage](https://www.lumara-space.app/)
 * [2026-04-28, 13:13:54](https://news.ycombinator.com/item?id=47934120) - [UAE Leaves OPEC and OPEC+](https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/)
 * [2026-04-28, 13:02:01](https://news.ycombinator.com/item?id=47933983) - [UAE to leave OPEC](https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d)
+* [2026-04-28, 12:57:53](https://news.ycombinator.com/item?id=47933934) - [A Primer on Bézier Curves – So What Makes a Bézier Curve?](https://pomax.github.io/bezierinfo/)
 * [2026-04-28, 12:29:50](https://news.ycombinator.com/item?id=47933608) - [The Silent Frequency That Makes Old Buildings Feel Haunted](https://scienceblog.com/the-silent-frequency-that-makes-old-buildings-feel-haunted/)
 * [2026-04-28, 12:07:55](https://news.ycombinator.com/item?id=47933359) - [DRAM Crunch: Lessons for System Design](https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/)
 * [2026-04-28, 11:58:14](https://news.ycombinator.com/item?id=47933257) - [GitHub Actions is the weakest link](https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html)
@@ -68,4 +69,5 @@
 * [2026-04-28, 02:55:49](https://news.ycombinator.com/item?id=47930003) - [Consequences of passing too few register parameters to a C function](https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271)
 * [2026-04-28, 02:45:33](https://news.ycombinator.com/item?id=47929961) - [Show HN: Waiting for LLMs Suck – Give your user a game](https://github.com/ftaip/waiting-game)
 * [2026-04-28, 01:14:31](https://news.ycombinator.com/item?id=47929375) - [Show HN: AgentSwift – Open-source iOS builder agent](https://github.com/hpennington/agentswift)
+* [2026-04-28, 01:11:23](https://news.ycombinator.com/item?id=47929354) - [Why isn't AMD's MI300X competitive?](https://newsletter.semianalysis.com/p/mi300x-vs-h100-vs-h200-benchmark-part-1-training)
 * [2026-04-28, 00:32:04](https://news.ycombinator.com/item?id=47929035) - [Ted Nyman – High Performance Git](https://gitperf.com/)
