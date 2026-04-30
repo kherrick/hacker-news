@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-04-30, 18:45:22",
+      "https://news.ycombinator.com/item?id=47966625"
+    ],
+    [
+      "Does Postgres Scale?",
+      "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 18:33:03",
+      "https://news.ycombinator.com/item?id=47966484"
+    ],
+    [
+      "The Human Creativity Benchmark – Evaluating Generative AI in Creative Work",
+      "https://contralabs.com/research/human-creativity-benchmark"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 18:14:18",
+      "https://news.ycombinator.com/item?id=47966254"
+    ],
+    [
+      "Full-Text Search with DuckDB",
+      "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 17:42:11",
+      "https://news.ycombinator.com/item?id=47965835"
+    ],
+    [
+      "Recovering files from beyond the grave using PhotoRec",
+      "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 17:14:21",
       "https://news.ycombinator.com/item?id=47965503"
     ],
@@ -45,28 +85,8 @@
       "https://news.ycombinator.com/item?id=47965060"
     ],
     [
-      "The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'",
+      "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 16:35:58",
-      "https://news.ycombinator.com/item?id=47964996"
-    ],
-    [
-      "Largest Digital Human Rights Conference Suddenly Canceled",
-      "https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 16:29:58",
-      "https://news.ycombinator.com/item?id=47964897"
-    ],
-    [
-      "SatoshiGuesser – Roll for Bitcoin",
-      "https://github.com/Pathos0925/SatoshiGuesser"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-04-30, 14:26:38",
-      "https://news.ycombinator.com/item?id=47963026"
-    ],
-    [
-      "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
-      "https://burla-cloud.github.io/examples/airbnb-burla-demo/"
-    ]
-  ],
-  [
-    [
       "2026-04-30, 13:54:20",
       "https://news.ycombinator.com/item?id=47962548"
     ],
@@ -167,16 +177,6 @@
     [
       "Belgium stops decommissioning nuclear power plants",
       "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 11:40:13",
-      "https://news.ycombinator.com/item?id=47961004"
-    ],
-    [
-      "GCC 16 has been released",
-      "https://gcc.gnu.org/gcc-16/changes.html"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-04-29, 16:42:13",
-      "https://news.ycombinator.com/item?id=47950880"
-    ],
-    [
-      "Because It Doesn't Have To",
-      "https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 15:16:17",
       "https://news.ycombinator.com/item?id=47949616"
     ],
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2026-04-28, 17:26:58",
+      "https://news.ycombinator.com/item?id=47937611"
+    ],
+    [
+      "How Semiconductors Were Made in America",
+      "https://www.siliconimist.com/p/semiconductors-made-in-america"
+    ]
+  ],
+  [
+    [
       "2026-04-28, 12:57:53",
       "https://news.ycombinator.com/item?id=47933934"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2026-04-28, 11:53:09",
+      "https://news.ycombinator.com/item?id=47933197"
+    ],
+    [
+      "A statement from members of the Toki Pona community",
+      "https://tokipona.net/wile-pona/"
+    ]
+  ],
+  [
+    [
       "2026-04-27, 21:35:07",
       "https://news.ycombinator.com/item?id=47927627"
     ],
     [
       "Noctua releases official 3D CAD models for its cooling fans",
       "https://www.noctua.at/en/3d-cad-models"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 19:02:14",
-      "https://news.ycombinator.com/item?id=47925792"
-    ],
-    [
-      "My Stratum-0 Atomic Clock",
-      "https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html"
     ]
   ],
   [
