@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-30](index.md)
 
+* [2026-04-30, 16:29:58](https://news.ycombinator.com/item?id=47964897) - [SatoshiGuesser – Roll for Bitcoin](https://github.com/Pathos0925/SatoshiGuesser)
+* [2026-04-30, 15:31:40](https://news.ycombinator.com/item?id=47964034) - [Spain's parliament will act against massive IP blockages by LaLiga](https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/)
+* [2026-04-30, 15:20:49](https://news.ycombinator.com/item?id=47963868) - [A 1960s art school experiment that redefined creativity](https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/)
+* [2026-04-30, 14:43:02](https://news.ycombinator.com/item?id=47963316) - [Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file](https://honker.dev/)
 * [2026-04-30, 14:36:58](https://news.ycombinator.com/item?id=47963204) - [Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"](https://twitter.com/theo/status/2049645973350363168)
 * [2026-04-30, 14:34:36](https://news.ycombinator.com/item?id=47963163) - [The More Young People Use AI, the More They Hate It](https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai)
 * [2026-04-30, 13:54:20](https://news.ycombinator.com/item?id=47962548) - [How an Oil Refinery Works](https://www.construction-physics.com/p/how-an-oil-refinery-works)
