@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-04-30, 10:31:17",
+      "https://news.ycombinator.com/item?id=47960507"
+    ],
+    [
+      "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+      "https://firethering.com/granite-4-1-ibm-open-source-model-family/"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 07:52:12",
+      "https://news.ycombinator.com/item?id=47959513"
+    ],
+    [
+      "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+      "https://datacenter.fm/"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 07:43:55",
       "https://news.ycombinator.com/item?id=47959463"
     ],
     [
       "Mozilla's Opposition to Chrome's Prompt API",
       "https://github.com/mozilla/standards-positions/issues/1213"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 06:30:30",
-      "https://news.ycombinator.com/item?id=47958942"
-    ],
-    [
-      "Will you heed my warnings now?",
-      "https://scottaaronson.blog/?p=9718"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-04-29, 14:05:42",
-      "https://news.ycombinator.com/item?id=47948664"
-    ],
-    [
-      "How to Build the Future: Demis Hassabis [video]",
-      "https://www.youtube.com/watch?v=JNyuX1zoOgU"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 08:43:17",
       "https://news.ycombinator.com/item?id=47945707"
     ],
@@ -251,22 +251,12 @@
   ],
   [
     [
-      "2026-04-28, 16:00:13",
-      "https://news.ycombinator.com/item?id=47936288"
+      "2026-04-28, 12:57:53",
+      "https://news.ycombinator.com/item?id=47933934"
     ],
     [
-      "A 25-Year-Fight over a 2-Second Sample",
-      "https://www.plagiarismtoday.com/2026/04/20/a-25-year-fight-over-a-2-second-sample/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 12:29:50",
-      "https://news.ycombinator.com/item?id=47933608"
-    ],
-    [
-      "The Silent Frequency That Makes Old Buildings Feel Haunted",
-      "https://scienceblog.com/the-silent-frequency-that-makes-old-buildings-feel-haunted/"
+      "A Primer on Bézier Curves – So What Makes a Bézier Curve?",
+      "https://pomax.github.io/bezierinfo/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Consequences of passing too few register parameters to a C function",
       "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 01:11:23",
+      "https://news.ycombinator.com/item?id=47929354"
+    ],
+    [
+      "Why isn't AMD's MI300X competitive?",
+      "https://newsletter.semianalysis.com/p/mi300x-vs-h100-vs-h200-benchmark-part-1-training"
     ]
   ],
   [
