@@ -23,6 +23,7 @@
 * [2026-04-27, 17:28:18](https://news.ycombinator.com/item?id=47924575) - [Who Is That Knocking at My (SSH) Door?](https://sheep.horse/2026/4/who_is_that_knocking_at_my_%28ssh%29_door.html)
 * [2026-04-27, 16:58:01](https://news.ycombinator.com/item?id=47924188) - [Canada's first sovereign wealth fund](https://www.cbc.ca/news/politics/sovereign-wealth-fund-carney-major-projects-9.7178238)
 * [2026-04-27, 16:57:34](https://news.ycombinator.com/item?id=47924181) - [Decoupled DiLoCo: Resilient, Distributed AI Training at Scale](https://deepmind.google/blog/decoupled-diloco/)
+* [2026-04-27, 16:08:34](https://news.ycombinator.com/item?id=47923429) - [\"Parse, don't validate\" through the years with C++](https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/)
 * [2026-04-27, 16:03:08](https://news.ycombinator.com/item?id=47923357) - [GitHub Copilot is moving to usage-based billing](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/)
 * [2026-04-27, 15:45:13](https://news.ycombinator.com/item?id=47923121) - [Supreme Court to Hear Arguments in Landmark Roundup Weedkiller Case](https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html)
 * [2026-04-27, 15:36:12](https://news.ycombinator.com/item?id=47923010) - [Apple is dropping AFP/TimeCapsule support in macOS 27](https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/)

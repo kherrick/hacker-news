@@ -38,6 +38,7 @@
 * [2026-04-28, 16:07:58](https://news.ycombinator.com/item?id=47936370) - [Anthropic Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/)
 * [2026-04-28, 16:06:01](https://news.ycombinator.com/item?id=47936347) - [AI uncovers 38 vulnerabilities in largest open source medical record software](https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers)
 * [2026-04-28, 16:03:34](https://news.ycombinator.com/item?id=47936312) - [Show HN: Drive any macOS app in the background without stealing the cursor](https://github.com/trycua/cua)
+* [2026-04-28, 16:00:13](https://news.ycombinator.com/item?id=47936288) - [A 25-Year-Fight over a 2-Second Sample](https://www.plagiarismtoday.com/2026/04/20/a-25-year-fight-over-a-2-second-sample/)
 * [2026-04-28, 15:58:30](https://news.ycombinator.com/item?id=47936264) - [Warp is now open-source](https://www.warp.dev/blog/warp-is-now-open-source)
 * [2026-04-28, 15:55:55](https://news.ycombinator.com/item?id=47936236) - [After Spain's blackout, its shift to renewables and grid evolution power on](https://www.theguardian.com/world/2026/apr/28/blackout-spain-renewable-energy-grid-solar-wind)
 * [2026-04-28, 15:54:21](https://news.ycombinator.com/item?id=47936210) - [FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger](https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/)
