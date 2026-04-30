@@ -20,6 +20,7 @@
 * [2026-04-27, 17:50:10](https://news.ycombinator.com/item?id=47924877) - [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/)
 * [2026-04-27, 17:45:02](https://news.ycombinator.com/item?id=47924813) - [Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards](https://github.com/Hanqaqa/Easyduino)
 * [2026-04-27, 17:42:19](https://news.ycombinator.com/item?id=47924775) - [GitHub is having issues now](https://www.githubstatus.com)
+* [2026-04-27, 17:28:18](https://news.ycombinator.com/item?id=47924575) - [Who Is That Knocking at My (SSH) Door?](https://sheep.horse/2026/4/who_is_that_knocking_at_my_%28ssh%29_door.html)
 * [2026-04-27, 16:58:01](https://news.ycombinator.com/item?id=47924188) - [Canada's first sovereign wealth fund](https://www.cbc.ca/news/politics/sovereign-wealth-fund-carney-major-projects-9.7178238)
 * [2026-04-27, 16:57:34](https://news.ycombinator.com/item?id=47924181) - [Decoupled DiLoCo: Resilient, Distributed AI Training at Scale](https://deepmind.google/blog/decoupled-diloco/)
 * [2026-04-27, 16:03:08](https://news.ycombinator.com/item?id=47923357) - [GitHub Copilot is moving to usage-based billing](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/)
