@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-05-01, 00:20:44",
-      "https://news.ycombinator.com/item?id=47970023"
+      "2026-05-01, 02:23:43",
+      "https://news.ycombinator.com/item?id=47970690"
     ],
     [
-      "$500M for Virtual Biology Initiative, Funded by Zuckerbergs",
-      "https://biohub.org/news/virtual-biology-initiative/"
+      "Show HN: Winpodx – run Windows apps on Linux as native windows",
+      "https://github.com/kernalix7/winpodx"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 02:10:46",
+      "https://news.ycombinator.com/item?id=47970622"
+    ],
+    [
+      "OpenWarp",
+      "https://openwarp.zerx.dev"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=47969288"
     ],
     [
-      "The Internet Is Falling Down- CPanel/WHM Authentication Bypass CVE-2026-41940",
+      "CPanel and WHM Authentication Bypass – CVE-2026-41940",
       "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/"
     ]
   ],
@@ -31,31 +41,11 @@
   ],
   [
     [
-      "2026-04-30, 20:55:12",
-      "https://news.ycombinator.com/item?id=47968112"
-    ],
-    [
-      "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
-      "https://pu.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 20:49:21",
-      "https://news.ycombinator.com/item?id=47968035"
-    ],
-    [
-      "SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding",
-      "https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html"
-    ]
-  ],
-  [
-    [
       "2026-04-30, 20:27:22",
       "https://news.ycombinator.com/item?id=47967786"
     ],
     [
-      "Rivian allows you to disable all internet connectivity",
+      "Can I disable all data collection from my vehicle?",
       "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47967508"
     ],
     [
-      "The upsell game – Vercel upselling tactics revealed",
+      "Vercel’s pricing page",
       "https://theupsellgame.com/"
     ]
   ],
@@ -101,16 +91,6 @@
   ],
   [
     [
-      "2026-04-30, 17:42:11",
-      "https://news.ycombinator.com/item?id=47965835"
-    ],
-    [
-      "Recovering files from beyond the grave using PhotoRec",
-      "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/"
-    ]
-  ],
-  [
-    [
       "2026-04-30, 17:14:21",
       "https://news.ycombinator.com/item?id=47965503"
     ],
@@ -125,7 +105,7 @@
       "https://news.ycombinator.com/item?id=47965108"
     ],
     [
-      "CopyFail was not disclosed to distro developers?",
+      "For Linux kernel vulnerabilities, there is no heads-up to distributions",
       "https://www.openwall.com/lists/oss-security/2026/04/30/10"
     ]
   ],
@@ -165,7 +145,7 @@
       "https://news.ycombinator.com/item?id=47963316"
     ],
     [
-      "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
+      "Honker – Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",
       "https://honker.dev/"
     ]
   ],
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2026-04-29, 13:28:47",
+      "https://news.ycombinator.com/item?id=47948152"
+    ],
+    [
+      "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
+      "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 13:15:46",
       "https://news.ycombinator.com/item?id=47947944"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2026-04-29, 11:46:05",
-      "https://news.ycombinator.com/item?id=47946990"
+      "2026-04-29, 00:50:15",
+      "https://news.ycombinator.com/item?id=47942863"
     ],
     [
-      "Compositing and Blending – Exploring the math and intuition behind blend modes",
-      "https://nik.digital/posts/compositing-blending"
+      "Maladaptive Frugality",
+      "https://herbertlui.net/maladaptive-frugality/"
     ]
   ],
   [
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2026-04-28, 21:24:39",
-      "https://news.ycombinator.com/item?id=47941019"
+      "2026-04-28, 19:19:06",
+      "https://news.ycombinator.com/item?id=47939246"
     ],
     [
-      "The Accidental Ancestor – How Verifying Numbers Shaped Modern Hashing",
-      "https://0xkrt26.github.io/math_behind_security/2026/04/28/the-accidental-ancestor-Luhn-algorithm.html"
+      "I Got Sick of Remembering Port Numbers",
+      "https://gregraiz.com/blog/local-vibe/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "New mechanical panoramic film camera from Jeff Bridges",
       "https://wideluxx.com"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 19:26:00",
+      "https://news.ycombinator.com/item?id=47926128"
+    ],
+    [
+      "Show HN: What happens when you load a webpage (Interactive)",
+      "https://toolkit.whysonil.dev/how-it-works/internet-timeline/"
     ]
   ],
   [
