@@ -12,6 +12,7 @@
 * [2026-04-28, 22:52:22](https://news.ycombinator.com/item?id=47941931) - [London to Calcutta by Bus (2022)](https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html)
 * [2026-04-28, 22:37:54](https://news.ycombinator.com/item?id=47941807) - [Blaster Beam (Musical Instrument)](https://en.wikipedia.org/wiki/Blaster_beam)
 * [2026-04-28, 22:14:29](https://news.ycombinator.com/item?id=47941590) - [Carrot Disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
+* [2026-04-28, 21:24:39](https://news.ycombinator.com/item?id=47941019) - [The Accidental Ancestor – How Verifying Numbers Shaped Modern Hashing](https://0xkrt26.github.io/math_behind_security/2026/04/28/the-accidental-ancestor-Luhn-algorithm.html)
 * [2026-04-28, 21:17:40](https://news.ycombinator.com/item?id=47940921) - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
 * [2026-04-28, 20:50:08](https://news.ycombinator.com/item?id=47940545) - [BP profits more than double as Iran war sends oil prices higher](https://www.bbc.com/news/articles/c2eveyvgn9no)
 * [2026-04-28, 20:38:21](https://news.ycombinator.com/item?id=47940389) - [I Won a Championship That Doesn't Exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
