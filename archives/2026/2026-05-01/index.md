@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-01](index.md)
 
+* [2026-05-01, 15:01:08](https://news.ycombinator.com/item?id=47975592) - [whohas – Command-line utility for cross-distro, cross-repository package search](https://github.com/whohas/whohas)
+* [2026-05-01, 14:52:07](https://news.ycombinator.com/item?id=47975472) - [GhostBox – disposable little machines from the Global Free Tier.](https://www.ghost.charity/)
+* [2026-05-01, 14:45:47](https://news.ycombinator.com/item?id=47975392) - [Sally McKee, who coined the term \"the Memory Wall\", has died](https://www.online-tribute.com/SallyMcKee)
 * [2026-05-01, 11:58:11](https://news.ycombinator.com/item?id=47973755) - [Running Adobe's 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854)
 * [2026-05-01, 11:42:12](https://news.ycombinator.com/item?id=47973635) - [A Letter from Dijkstra on APL](https://www.jsoftware.com/papers/Dijkstra_Letter.htm)
 * [2026-05-01, 11:32:48](https://news.ycombinator.com/item?id=47973559) - [Show HN: Site Mogging](https://sitemogging.com)
