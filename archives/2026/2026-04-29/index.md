@@ -16,6 +16,7 @@
 * [2026-04-29, 19:49:30](https://news.ycombinator.com/item?id=47953541) - [OpenTrafficMap](https://opentrafficmap.org/)
 * [2026-04-29, 19:32:36](https://news.ycombinator.com/item?id=47953275) - [Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years](https://jivx.com/kyoto-bloom)
 * [2026-04-29, 19:15:52](https://news.ycombinator.com/item?id=47953011) - [\"People who don't use AI will be left behind\"](https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/)
+* [2026-04-29, 19:00:47](https://news.ycombinator.com/item?id=47952807) - [The end of \"Just ask Sarah\"](https://simme.dev/posts/the-end-of-just-ask-sarah/)
 * [2026-04-29, 18:54:31](https://news.ycombinator.com/item?id=47952722) - [HERMES.md: Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262)
 * [2026-04-29, 18:13:53](https://news.ycombinator.com/item?id=47952181) - [Copy Fail – CVE-2026-31431](https://copy.fail/)
 * [2026-04-29, 17:44:21](https://news.ycombinator.com/item?id=47951786) - [Ramp's Sheets AI Exfiltrates Financials](https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials)
