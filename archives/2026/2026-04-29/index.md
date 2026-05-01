@@ -47,6 +47,7 @@
 * [2026-04-29, 14:05:42](https://news.ycombinator.com/item?id=47948664) - [How to Build the Future: Demis Hassabis [video]](https://www.youtube.com/watch?v=JNyuX1zoOgU)
 * [2026-04-29, 14:00:59](https://news.ycombinator.com/item?id=47948603) - [Tangled – We need a federation of forges](https://blog.tangled.org/federation/)
 * [2026-04-29, 13:39:54](https://news.ycombinator.com/item?id=47948331) - [Facebook Has a Health Scam Problem](https://www.nytimes.com/2026/04/27/well/facebook-supplements-health.html)
+* [2026-04-29, 13:30:27](https://news.ycombinator.com/item?id=47948188) - [How we run iSCSI over the internet](https://scsipub.com/blog/how-we-run-iscsi-over-the-internet)
 * [2026-04-29, 13:28:47](https://news.ycombinator.com/item?id=47948152) - [Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac](https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica)
 * [2026-04-29, 13:15:46](https://news.ycombinator.com/item?id=47947944) - [10Gb/s Ethernet: what I did to get it working in my home](https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did)
 * [2026-04-29, 13:05:44](https://news.ycombinator.com/item?id=47947834) - [Improving ICU handovers by learning from Scuderia Ferrari F1 team](https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari)
