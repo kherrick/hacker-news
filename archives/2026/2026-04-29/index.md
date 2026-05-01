@@ -20,6 +20,7 @@
 * [2026-04-29, 19:00:47](https://news.ycombinator.com/item?id=47952807) - [The end of \"Just ask Sarah\"](https://simme.dev/posts/the-end-of-just-ask-sarah/)
 * [2026-04-29, 18:54:31](https://news.ycombinator.com/item?id=47952722) - [HERMES.md: Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262)
 * [2026-04-29, 18:13:53](https://news.ycombinator.com/item?id=47952181) - [Copy Fail – CVE-2026-31431](https://copy.fail/)
+* [2026-04-29, 18:06:55](https://news.ycombinator.com/item?id=47952096) - [Historic Tennessee Hotel Is Also Home to the Greatest Duck Tradition (2016)](https://www.audubon.org/magazine/tennessees-most-historic-hotel-also-home-greatest-duck-tradition)
 * [2026-04-29, 17:44:21](https://news.ycombinator.com/item?id=47951786) - [Ramp's Sheets AI Exfiltrates Financials](https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials)
 * [2026-04-29, 17:30:15](https://news.ycombinator.com/item?id=47951582) - [The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness](https://deepmind.google/research/publications/231971/)
 * [2026-04-29, 17:09:03](https://news.ycombinator.com/item?id=47951295) - [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously)

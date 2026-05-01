@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-01](index.md)
 
+* [2026-05-01, 20:26:24](https://news.ycombinator.com/item?id=47979839) - [Credit cards are vulnerable to brute force attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
+* [2026-05-01, 20:06:59](https://news.ycombinator.com/item?id=47979583) - [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
 * [2026-05-01, 19:56:18](https://news.ycombinator.com/item?id=47979438) - [Show HN: Destiny – Claude Code's fortune Teller skill](https://github.com/xodn348/destiny)
 * [2026-05-01, 19:35:39](https://news.ycombinator.com/item?id=47979190) - [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
 * [2026-05-01, 19:14:41](https://news.ycombinator.com/item?id=47978892) - [Ubuntu servers taken offline by \"sustained, cross-border attack\"](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/)
+* [2026-05-01, 19:10:56](https://news.ycombinator.com/item?id=47978834) - [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming](https://github.com/microsoft/lib0xc)
 * [2026-05-01, 18:38:55](https://news.ycombinator.com/item?id=47978386) - [A statement about why RightsCon 2026 will not take place in Zambia](https://www.rightscon.org/rc26-statement/)
 * [2026-05-01, 18:37:47](https://news.ycombinator.com/item?id=47978370) - [City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/)
 * [2026-05-01, 17:47:42](https://news.ycombinator.com/item?id=47977748) - [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we)
@@ -34,6 +37,7 @@
 * [2026-05-01, 11:58:11](https://news.ycombinator.com/item?id=47973755) - [Running Adobe's 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854)
 * [2026-05-01, 11:42:12](https://news.ycombinator.com/item?id=47973635) - [A Letter from Dijkstra on APL](https://www.jsoftware.com/papers/Dijkstra_Letter.htm)
 * [2026-05-01, 11:32:48](https://news.ycombinator.com/item?id=47973559) - [Show HN: Site Mogging](https://sitemogging.com)
+* [2026-05-01, 11:31:52](https://news.ycombinator.com/item?id=47973547) - [SpaceX rocket set for unintentional Moon landing – well, a piece of it anyway](https://www.theregister.com/2026/05/01/spacex_debris_landing/)
 * [2026-05-01, 11:08:32](https://news.ycombinator.com/item?id=47973378) - [Apple accidentally left Claude.md files Apple Support app](https://xcancel.com/aaronp613/status/2049986504617820551)
 * [2026-05-01, 11:08:32](https://news.ycombinator.com/item?id=47973378) - [Apple accidentally left Claude.md files Apple Support app](https://x.com/aaronp613/status/2049986504617820551)
 * [2026-05-01, 11:08:20](https://news.ycombinator.com/item?id=47973376) - [Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/)
