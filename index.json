@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-05-01, 11:58:11",
+      "https://news.ycombinator.com/item?id=47973755"
+    ],
+    [
+      "Running Adobe's 1991 PostScript Interpreter in the Browser",
+      "https://www.pagetable.com/?p=1854"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 11:32:48",
+      "https://news.ycombinator.com/item?id=47973559"
+    ],
+    [
+      "Show HN: Site Mogging",
+      "https://sitemogging.com"
+    ]
+  ],
+  [
+    [
       "2026-05-01, 11:08:32",
       "https://news.ycombinator.com/item?id=47973378"
     ],
     [
       "Apple accidentally left Claude.md files Apple Support app",
       "https://xcancel.com/aaronp613/status/2049986504617820551"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 11:08:20",
+      "https://news.ycombinator.com/item?id=47973376"
+    ],
+    [
+      "Your Website Is Not for You",
+      "https://websmith.studio/blog/your-website-is-not-for-you/"
     ]
   ],
   [
@@ -45,8 +75,18 @@
       "https://news.ycombinator.com/item?id=47972807"
     ],
     [
-      "The Rotary Un-Smartphone",
+      "The Rotary Un-Smartphone (2023)",
       "https://skysedge.com/telecom/RUSP/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 09:10:02",
+      "https://news.ycombinator.com/item?id=47972659"
+    ],
+    [
+      "Advanced Quantization Algorithm for LLMs",
+      "https://github.com/intel/auto-round"
     ]
   ],
   [
@@ -81,32 +121,12 @@
   ],
   [
     [
-      "2026-05-01, 07:44:17",
-      "https://news.ycombinator.com/item?id=47972213"
-    ],
-    [
-      "Canonical/Ubuntu have been under DDoS for more than 15h",
-      "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw=="
-    ]
-  ],
-  [
-    [
       "2026-05-01, 02:10:46",
       "https://news.ycombinator.com/item?id=47970622"
     ],
     [
       "OpenWarp",
       "https://openwarp.zerx.dev"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 02:02:11",
-      "https://news.ycombinator.com/item?id=47970578"
-    ],
-    [
-      "The Hearts of the Super Nintendo (2024)",
-      "https://fabiensanglard.net/snes_hearts/"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Can I disable all data collection from my vehicle?",
       "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 18:14:18",
-      "https://news.ycombinator.com/item?id=47966254"
-    ],
-    [
-      "Full-Text Search with DuckDB",
-      "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html"
     ]
   ],
   [
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2026-04-28, 17:41:38",
-      "https://news.ycombinator.com/item?id=47937814"
+      "2026-04-28, 19:19:06",
+      "https://news.ycombinator.com/item?id=47939246"
     ],
     [
-      "Reverse Engineering SimTower",
-      "https://phulin.me/blog/simtower"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 16:49:12",
-      "https://news.ycombinator.com/item?id=47937033"
-    ],
-    [
-      "New mechanical panoramic film camera from Jeff Bridges",
-      "https://wideluxx.com"
+      "I Got Sick of Remembering Port Numbers",
+      "https://gregraiz.com/blog/local-vibe/"
     ]
   ],
   [
