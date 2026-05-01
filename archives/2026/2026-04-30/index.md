@@ -36,6 +36,7 @@
 * [2026-04-30, 14:26:38](https://news.ycombinator.com/item?id=47963026) - [I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens](https://burla-cloud.github.io/examples/airbnb-burla-demo/)
 * [2026-04-30, 13:54:20](https://news.ycombinator.com/item?id=47962548) - [How an Oil Refinery Works](https://www.construction-physics.com/p/how-an-oil-refinery-works)
 * [2026-04-30, 13:45:10](https://news.ycombinator.com/item?id=47962386) - [The FCC is about to ban 21% of its test labs today. I mapped them all](https://markready.io/blog/fcc-accredited-test-labs-complete-guide)
+* [2026-04-30, 13:38:38](https://news.ycombinator.com/item?id=47962269) - [If I could make my own GitHub](https://matduggan.com/if-i-could-make-my-own-github/)
 * [2026-04-30, 13:15:04](https://news.ycombinator.com/item?id=47961934) - [The Science Behind Honey's Eternal Shelf Life (2013)](https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/)
 * [2026-04-30, 13:07:42](https://news.ycombinator.com/item?id=47961838) - [Meta in row after workers who saw smart glasses users having sex lose jobs](https://www.bbc.com/news/articles/c5y7yvgy0w6o)
 * [2026-04-30, 12:24:53](https://news.ycombinator.com/item?id=47961378) - [I aggregated 28 US Government auction sites into one search](https://bidprowl.com)
