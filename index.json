@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-01, 11:08:32",
+      "https://news.ycombinator.com/item?id=47973378"
+    ],
+    [
+      "Apple accidentally left Claude.md files Apple Support app",
+      "https://xcancel.com/aaronp613/status/2049986504617820551"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 10:28:12",
+      "https://news.ycombinator.com/item?id=47973108"
+    ],
+    [
+      "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
+      "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 10:23:52",
+      "https://news.ycombinator.com/item?id=47973084"
+    ],
+    [
+      "A beginner's guide to Sourcehut (2025)",
+      "https://btxx.org/posts/beginners-guide-sourcehut/"
+    ]
+  ],
+  [
+    [
       "2026-05-01, 09:52:15",
       "https://news.ycombinator.com/item?id=47972888"
     ],
@@ -41,42 +71,22 @@
   ],
   [
     [
+      "2026-05-01, 08:14:07",
+      "https://news.ycombinator.com/item?id=47972367"
+    ],
+    [
+      "Our agent found a bug with WireGuard in Google Kubernetes Engine",
+      "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes"
+    ]
+  ],
+  [
+    [
       "2026-05-01, 07:44:17",
       "https://news.ycombinator.com/item?id=47972213"
     ],
     [
       "Canonical/Ubuntu have been under DDoS for more than 15h",
       "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw=="
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 06:21:01",
-      "https://news.ycombinator.com/item?id=47971771"
-    ],
-    [
-      "If I could make my own GitHub",
-      "https://matduggan.com/if-i-could-make-my-own-github/"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 06:20:33",
-      "https://news.ycombinator.com/item?id=47971768"
-    ],
-    [
-      "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
-      "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 03:53:44",
-      "https://news.ycombinator.com/item?id=47971134"
-    ],
-    [
-      "Your Biggest Vulnerability is your Shitty Compensation",
-      "https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/"
     ]
   ],
   [
@@ -117,6 +127,16 @@
     [
       "Can I disable all data collection from my vehicle?",
       "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 18:14:18",
+      "https://news.ycombinator.com/item?id=47966254"
+    ],
+    [
+      "Full-Text Search with DuckDB",
+      "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html"
     ]
   ],
   [
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2026-04-30, 12:17:14",
-      "https://news.ycombinator.com/item?id=47961319"
+      "2026-04-30, 13:38:38",
+      "https://news.ycombinator.com/item?id=47962269"
     ],
     [
-      "Belgium stops decommissioning nuclear power plants",
-      "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/"
+      "If I could make my own GitHub",
+      "https://matduggan.com/if-i-could-make-my-own-github/"
     ]
   ],
   [
@@ -197,16 +217,6 @@
     [
       "Opus 4.7 knows the real Kelsey",
       "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 13:30:27",
-      "https://news.ycombinator.com/item?id=47948188"
-    ],
-    [
-      "How we run iSCSI over the internet",
-      "https://scsipub.com/blog/how-we-run-iscsi-over-the-internet"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Maladaptive Frugality",
       "https://herbertlui.net/maladaptive-frugality/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 19:17:39",
-      "https://news.ycombinator.com/item?id=47939227"
-    ],
-    [
-      "Using a 1978 terminal in 2026 (DEC VT-100)",
-      "https://nikhiljha.com/posts/vt100/"
     ]
   ],
   [
