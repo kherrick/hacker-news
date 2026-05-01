@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-29](index.md)
 
+* [2026-04-29, 23:28:29](https://news.ycombinator.com/item?id=47956055) - [Engineering tough blood clots for rapid haemostasis and enhanced regeneration](https://www.nature.com/articles/s41586-026-10412-y)
 * [2026-04-29, 22:39:34](https://news.ycombinator.com/item?id=47955655) - [> Be Alexandra Elbakyan](https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m)
 * [2026-04-29, 21:58:46](https://news.ycombinator.com/item?id=47955297) - [Germany has become the largest ammunition producer in the world](https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/)
 * [2026-04-29, 21:50:57](https://news.ycombinator.com/item?id=47955226) - [Gooseworks (YC W23) Is Hiring a Founding Growth Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer)

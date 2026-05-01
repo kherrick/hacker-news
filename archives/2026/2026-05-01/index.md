@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-01](index.md)
 
+* [2026-05-01, 17:40:15](https://news.ycombinator.com/item?id=47977659) - [Show HN: My Private GitHub on Postgres](https://github.com/calebwin/gitgres)
+* [2026-05-01, 17:28:45](https://news.ycombinator.com/item?id=47977498) - [AWS stops billing Middle East cloud customers as repairs to war damage drag on](https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/)
+* [2026-05-01, 17:27:03](https://news.ycombinator.com/item?id=47977470) - [Understand Anything](https://github.com/Lum1104/Understand-Anything)
+* [2026-05-01, 17:25:36](https://news.ycombinator.com/item?id=47977450) - [Flock cameras keep telling police a man who doesn't have a warrant has a warrant](https://www.youtube.com/watch?v=nHwxV0Sd9V8)
 * [2026-05-01, 16:17:55](https://news.ycombinator.com/item?id=47976529) - [Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests](https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/)
 * [2026-05-01, 16:08:53](https://news.ycombinator.com/item?id=47976415) - [Uber Torches 2026 AI Budget on Claude Code in Four Months](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
 * [2026-05-01, 15:15:36](https://news.ycombinator.com/item?id=47975785) - [An open letter asking NHS England to keep its code open](https://keepthingsopen.com)
