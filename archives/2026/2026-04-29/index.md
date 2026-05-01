@@ -57,6 +57,7 @@
 * [2026-04-29, 12:00:17](https://news.ycombinator.com/item?id=47947125) - [Stardex Is Hiring a Founding Customer Success Lead](https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead)
 * [2026-04-29, 11:46:05](https://news.ycombinator.com/item?id=47946990) - [Compositing and Blending – Exploring the math and intuition behind blend modes](https://nik.digital/posts/compositing-blending)
 * [2026-04-29, 11:42:46](https://news.ycombinator.com/item?id=47946958) - [HashiCorp co-founder says GitHub 'no longer a place for serious work'](https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/)
+* [2026-04-29, 11:35:40](https://news.ycombinator.com/item?id=47946899) - [New copy of earliest poem in English, written 1,3k years ago, discovered in Rome](https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/)
 * [2026-04-29, 11:25:12](https://news.ycombinator.com/item?id=47946813) - [GitHub – DOS 1.0: Transcription of Tim Paterson's DOS Printouts](https://github.com/DOS-History/Paterson-Listings)
 * [2026-04-29, 11:05:16](https://news.ycombinator.com/item?id=47946657) - [Two-thirds of babies watch screens – some for eight hours a day](https://www.thetimes.com/uk/technology-uk/article/babies-and-under-2s-screen-time-6jbdmnjlg)
 * [2026-04-29, 09:21:32](https://news.ycombinator.com/item?id=47945955) - [Show HN: Rip.so – a graveyard for dead internet things](https://rip.so)

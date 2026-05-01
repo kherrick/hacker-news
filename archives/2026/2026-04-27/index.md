@@ -10,6 +10,7 @@
 * [2026-04-27, 21:35:07](https://news.ycombinator.com/item?id=47927627) - [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models)
 * [2026-04-27, 21:26:25](https://news.ycombinator.com/item?id=47927526) - [NPM Website Is Down](https://status.npmjs.org)
 * [2026-04-27, 20:44:16](https://news.ycombinator.com/item?id=47927070) - [Three men are facing 44 charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
+* [2026-04-27, 20:38:22](https://news.ycombinator.com/item?id=47927011) - [Softmax, can you derive the Jacobian? And should you care?](https://idlemachines.co.uk/essays/softmax)
 * [2026-04-27, 20:24:33](https://news.ycombinator.com/item?id=47926861) - [Is my blue your blue?](https://ismy.blue/)
 * [2026-04-27, 19:53:29](https://news.ycombinator.com/item?id=47926480) - [L123: A Lotus 1-2-3–style terminal spreadsheet with modern Excel compatibility](https://github.com/duane1024/l123)
 * [2026-04-27, 19:37:23](https://news.ycombinator.com/item?id=47926286) - [Sebastian Sawe breaks iconic sub-two-hour marathon barrier](https://www.bbc.com/sport/athletics/articles/cp383n09030o)
