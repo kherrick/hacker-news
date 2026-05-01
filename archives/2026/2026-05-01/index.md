@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-01](index.md)
 
+* [2026-05-01, 19:56:18](https://news.ycombinator.com/item?id=47979438) - [Show HN: Destiny – Claude Code's fortune Teller skill](https://github.com/xodn348/destiny)
+* [2026-05-01, 19:35:39](https://news.ycombinator.com/item?id=47979190) - [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
 * [2026-05-01, 19:14:41](https://news.ycombinator.com/item?id=47978892) - [Ubuntu servers taken offline by \"sustained, cross-border attack\"](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/)
 * [2026-05-01, 18:38:55](https://news.ycombinator.com/item?id=47978386) - [A statement about why RightsCon 2026 will not take place in Zambia](https://www.rightscon.org/rc26-statement/)
 * [2026-05-01, 18:37:47](https://news.ycombinator.com/item?id=47978370) - [City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/)
