@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-01, 20:26:24",
+      "https://news.ycombinator.com/item?id=47979839"
+    ],
+    [
+      "Credit cards are vulnerable to brute force attacks",
+      "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 20:06:59",
+      "https://news.ycombinator.com/item?id=47979583"
+    ],
+    [
+      "Ti-84 Evo",
+      "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo"
+    ]
+  ],
+  [
+    [
       "2026-05-01, 19:56:18",
       "https://news.ycombinator.com/item?id=47979438"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2026-05-01, 18:38:55",
-      "https://news.ycombinator.com/item?id=47978386"
+      "2026-05-01, 19:10:56",
+      "https://news.ycombinator.com/item?id=47978834"
     ],
     [
-      "A statement about why RightsCon 2026 will not take place in Zambia",
-      "https://www.rightscon.org/rc26-statement/"
+      "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+      "https://github.com/microsoft/lib0xc"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Show HN: AI CAD Harness",
       "https://fusion.adam.new/install"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 17:40:15",
-      "https://news.ycombinator.com/item?id=47977659"
-    ],
-    [
-      "Show HN: My Private GitHub on Postgres",
-      "https://github.com/calebwin/gitgres"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-05-01, 14:52:07",
-      "https://news.ycombinator.com/item?id=47975472"
-    ],
-    [
-      "Show HN: GhostBox – Borrow a disposable little machine from the Global Free Tier",
-      "https://www.ghost.charity/"
-    ]
-  ],
-  [
-    [
       "2026-05-01, 14:45:47",
       "https://news.ycombinator.com/item?id=47975392"
     ],
@@ -241,22 +241,32 @@
   ],
   [
     [
+      "2026-05-01, 11:42:12",
+      "https://news.ycombinator.com/item?id=47973635"
+    ],
+    [
+      "A Letter from Dijkstra on APL (1982)",
+      "https://www.jsoftware.com/papers/Dijkstra_Letter.htm"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 11:31:52",
+      "https://news.ycombinator.com/item?id=47973547"
+    ],
+    [
+      "SpaceX rocket set for unintentional Moon landing – well, a piece of it anyway",
+      "https://www.theregister.com/2026/05/01/spacex_debris_landing/"
+    ]
+  ],
+  [
+    [
       "2026-05-01, 11:08:20",
       "https://news.ycombinator.com/item?id=47973376"
     ],
     [
       "Your website is not for you",
       "https://websmith.studio/blog/your-website-is-not-for-you/"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 09:10:02",
-      "https://news.ycombinator.com/item?id=47972659"
-    ],
-    [
-      "Advanced Quantization Algorithm for LLMs",
-      "https://github.com/intel/auto-round"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2026-05-01, 07:44:17",
-      "https://news.ycombinator.com/item?id=47972213"
-    ],
-    [
-      "Canonical/Ubuntu have been under DDoS",
-      "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw=="
-    ]
-  ],
-  [
-    [
       "2026-04-29, 22:56:10",
       "https://news.ycombinator.com/item?id=47955789"
     ],
     [
-      "I've Covered Robots for Years. This One Is Different",
+      "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
       "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/"
     ]
   ],
   [
     [
-      "2026-04-29, 11:35:40",
-      "https://news.ycombinator.com/item?id=47946899"
+      "2026-04-29, 18:06:55",
+      "https://news.ycombinator.com/item?id=47952096"
     ],
     [
-      "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
-      "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/"
+      "Historic Tennessee Hotel Is Also Home to the Greatest Duck Tradition (2016)",
+      "https://www.audubon.org/magazine/tennessees-most-historic-hotel-also-home-greatest-duck-tradition"
     ]
   ]
 ]
