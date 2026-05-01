@@ -129,6 +129,170 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="47972888">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=47972888"
+              >Show HN: Perfect Bluetooth MIDI for Windows</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-01 @ 09:52:15</span
+              ><span class="points-container"
+                >Points: <span class="points">33</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47972888"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I bought a Roland FP-90X piano partly because it had Bluetooth
+                MIDI. On my Windows 11 PC, pairing succeeded, but my DAW
+                couldn't see the keyboard, and notes I sent from the PC never
+                made the piano sing. After a regrettable number of evenings, I'd
+                separated this into three independent bugs stacked on top of
+                each other.
+              </p>
+              <p>
+                The first one is the famous one: Windows only natively exposes
+                BLE-MIDI through the WinRT API, which almost no DAW polls. So
+                even when pairing succeeds, MIDI apps still don't see the
+                device. The usual workaround is MIDIberry + loopMIDI, but I
+                couldn't get that combination to work reliably in my case, and I
+                wanted a single-app solution. The new Windows MIDI Services
+                stack ships with a feature called loopback endpoints: anything
+                written to one comes out the other, and any winmm/WinRT/WMS app
+                sees them as normal MIDI ports. So the app does WinRT BLE-MIDI
+                in, WMS loopback out. That solved direction one, piano to PC.
+              </p>
+              <p>
+                Direction two, PC to piano, still didn't work. NoteOn writes
+                were getting ATT-acked, but the piano stayed silent. I tried
+                both write modes (some BLE-MIDI firmware silently drops one or
+                the other), poked the proprietary ISSC characteristic. Every
+                variant ATT-acked, every variant produced silence. So the bytes
+                were reaching the piano. Something above the GATT layer was
+                discarding them.
+              </p>
+              <p>
+                After ruling out pairing, encryption, write-mode, and
+                proprietary characteristics, the only obvious lever left was the
+                MIDI channel itself. The FP-90X has a panel setting called
+                Transmit Channel, default 1. Yet it turns out the FP-90X
+                actually receives on channel 4 (and it can't be changed). Notes
+                I sent on channel 1 were being GATT-acked and silently dropped
+                at the synth engine because they weren't on the channel the
+                engine was listening to. Zero feedback at any layer. The fix had
+                to live up at the application layer, so I added a Detect button
+                that plays N test notes ascending on each channel from 1 to 16:
+                you count the notes you actually hear, and that number is the
+                receive channel. Saved per BLE MAC, about 75 seconds, done
+                forever per piano.
+              </p>
+              <p>
+                Tech stack: .NET 10, Avalonia for the UI (the BLE/MIDI side is
+                Windows-only but the UI layer is portable),
+                Microsoft.Windows.Devices.Midi2 packages for WMS,
+                Windows.Devices.Midi (WinRT) directly for BLE rather than
+                relying on Korg's older WinMM driver. MIT, single self-contained
+                ~21 MB exe, no installer, no telemetry, no account.
+              </p>
+              <p>
+                I built it for myself and use it with my FP-90X to play through
+                a few apps and Web MIDI sites. Pete from the Microsoft Windows
+                MIDI Services team commented positively on the BLE integration
+                when I shared it on r/synthesizers (<a
+                  href="https://www.reddit.com/r/synthesizers/comments/1szvuiq/comment/oj5ew9b/"
+                  >https://www.reddit.com/r/synthesizers/comments/1szvuiq/comme...</a
+                >).
+              </p>
+              <p>
+                Site (with screenshots):
+                <a
+                  href="https://mayerwin.github.io/Perfect-Bluetooth-MIDI-For-Windows/"
+                  >https://mayerwin.github.io/Perfect-Bluetooth-MIDI-For-Window...</a
+                >
+              </p>
+              <p>
+                Source:
+                <a
+                  href="https://github.com/mayerwin/Perfect-Bluetooth-MIDI-For-Windows"
+                  >https://github.com/mayerwin/Perfect-Bluetooth-MIDI-For-Windo...</a
+                >
+              </p>
+              <p>
+                Long-form technical writeup with the full debugging story:
+                <a
+                  href="https://dev.to/mayerwin/why-your-bluetooth-midi-keyboard-silently-drops-notes-on-windows-2i84"
+                  >https://dev.to/mayerwin/why-your-bluetooth-midi-keyboard-sil...</a
+                >
+              </p>
+              <p>
+                Personally tested with my FP-90X only. The BLE side is generic,
+                so other keyboards (WIDI Master, CME, Yamaha MD-BT01, Korg
+                microKey Air, ROLI Seaboard, etc.) should work, but I haven't
+                confirmed individually. Device test reports, issues, and PRs
+                very welcome.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="47972807">
+          <h3>
+            <a class="item" href="https://skysedge.com/telecom/RUSP/index.html"
+              >The Rotary Un-Smartphone</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-01 @ 09:39:07</span
+              ><span class="points-container"
+                >Points: <span class="points">33</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47972807"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47972511">
+          <h3>
+            <a class="item" href="https://github.com/darrylmorley/whatcable"
+              >Show HN: WhatCable, a tiny menu bar app for inspecting USB-C
+              cables</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-01 @ 08:43:45</span
+              ><span class="points-container"
+                >Points: <span class="points">135</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47972511"
+                  >Comments</a
+                ><span class="descendants">: 37</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                WhatCable sits in your menu bar and reads the cable data your
+                Mac already has access to. Plug in a cable and it tells you in
+                plain English what it can actually do: charging wattage, data
+                speed, display support, Thunderbolt, etc.
+              </p>
+              <p>Built in Swift/SwiftUI. Open source, free, no tracking.</p>
+              <p>
+                GitHub:
+                <a href="https://github.com/darrylmorley/whatcable"
+                  >https://github.com/darrylmorley/whatcable</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="47972447">
           <h3>
             <a class="item" href="https://docs.x.ai/developers/models/grok-4.3"
@@ -139,11 +303,11 @@
             <h4>
               <span>2026-05-01 @ 08:29:31</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47972447"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -160,30 +324,11 @@
             <h4>
               <span>2026-05-01 @ 07:44:17</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47972213"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47971830">
-          <h3>
-            <a class="item" href="https://yadin.com/notes/toasted/"
-              >It’s Toasted</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-01 @ 06:34:54</span
-              ><span class="points-container"
-                >Points: <span class="points">45</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47971830"
-                  >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -193,18 +338,61 @@
             <a
               class="item"
               href="https://matduggan.com/if-i-could-make-my-own-github/"
-              >If I Could Make My Own GitHub</a
+              >If I could make my own GitHub</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-05-01 @ 06:21:01</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47971771"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47971768">
+          <h3>
+            <a
+              class="item"
+              href="https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/"
+              >Apple Says Mac Studio and Mac Mini Will Be in Short Supply for
+              Months</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-01 @ 06:20:33</span
+              ><span class="points-container"
+                >Points: <span class="points">89</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47971768"
+                  >Comments</a
+                ><span class="descendants">: 73</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47971134">
+          <h3>
+            <a
+              class="item"
+              href="https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/"
+              >Your Biggest Vulnerability is your Shitty Compensation</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-01 @ 03:53:44</span
+              ><span class="points-container"
+                >Points: <span class="points">66</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47971134"
+                  >Comments</a
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -215,11 +403,30 @@
             <h4>
               <span>2026-05-01 @ 02:10:46</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47970622"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 87</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47970578">
+          <h3>
+            <a class="item" href="https://fabiensanglard.net/snes_hearts/"
+              >The Hearts of the Super Nintendo (2024)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-01 @ 02:02:11</span
+              ><span class="points-container"
+                >Points: <span class="points">32</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47970578"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -236,33 +443,11 @@
             <h4>
               <span>2026-04-30 @ 22:48:51</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47969288"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47968982">
-          <h3>
-            <a
-              class="item"
-              href="https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html"
-              >Snowball Earth may hide a far stranger climate cycle than anyone
-              expected</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-30 @ 22:18:57</span
-              ><span class="points-container"
-                >Points: <span class="points">90</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47968982"
-                  >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -279,53 +464,11 @@
             <h4>
               <span>2026-04-30 @ 20:27:22</span
               ><span class="points-container"
-                >Points: <span class="points">634</span></span
+                >Points: <span class="points">639</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47967786"
                   >Comments</a
-                ><span class="descendants">: 263</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47966625">
-          <h3>
-            <a
-              class="item"
-              href="https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres"
-              >Does Postgres Scale?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-30 @ 18:45:22</span
-              ><span class="points-container"
-                >Points: <span class="points">141</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47966625"
-                  >Comments</a
-                ><span class="descendants">: 59</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47966254">
-          <h3>
-            <a
-              class="item"
-              href="https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html"
-              >Full-Text Search with DuckDB</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-30 @ 18:14:18</span
-              ><span class="points-container"
-                >Points: <span class="points">140</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47966254"
-                  >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 266</span></span
               >
             </h4>
           </section>
@@ -342,7 +485,7 @@
             <h4>
               <span>2026-04-30 @ 17:14:21</span
               ><span class="points-container"
-                >Points: <span class="points">280</span></span
+                >Points: <span class="points">288</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47965503"
                   >Comments</a
@@ -364,11 +507,11 @@
             <h4>
               <span>2026-04-30 @ 16:43:47</span
               ><span class="points-container"
-                >Points: <span class="points">510</span></span
+                >Points: <span class="points">518</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47965108"
                   >Comments</a
-                ><span class="descendants">: 398</span></span
+                ><span class="descendants">: 409</span></span
               >
             </h4>
             <div class="text">
@@ -392,11 +535,11 @@
             <h4>
               <span>2026-04-30 @ 16:41:00</span
               ><span class="points-container"
-                >Points: <span class="points">607</span></span
+                >Points: <span class="points">615</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47965060"
                   >Comments</a
-                ><span class="descendants">: 201</span></span
+                ><span class="descendants">: 207</span></span
               >
             </h4>
           </section>
@@ -414,11 +557,11 @@
             <h4>
               <span>2026-04-30 @ 16:09:26</span
               ><span class="points-container"
-                >Points: <span class="points">397</span></span
+                >Points: <span class="points">405</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47964617"
                   >Comments</a
-                ><span class="descendants">: 141</span></span
+                ><span class="descendants">: 147</span></span
               >
             </h4>
           </section>
@@ -436,11 +579,11 @@
             <h4>
               <span>2026-04-30 @ 14:36:58</span
               ><span class="points-container"
-                >Points: <span class="points">1172</span></span
+                >Points: <span class="points">1189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47963204"
                   >Comments</a
-                ><span class="descendants">: 641</span></span
+                ><span class="descendants">: 657</span></span
               >
             </h4>
             <div class="text">
@@ -462,30 +605,11 @@
             <h4>
               <span>2026-04-30 @ 13:54:20</span
               ><span class="points-container"
-                >Points: <span class="points">427</span></span
+                >Points: <span class="points">437</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47962548"
                   >Comments</a
-                ><span class="descendants">: 134</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47961378">
-          <h3>
-            <a class="item" href="https://bidprowl.com"
-              >I aggregated 28 US Government auction sites into one search</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-30 @ 12:24:53</span
-              ><span class="points-container"
-                >Points: <span class="points">284</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47961378"
-                  >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 136</span></span
               >
             </h4>
           </section>
@@ -502,11 +626,11 @@
             <h4>
               <span>2026-04-30 @ 12:17:14</span
               ><span class="points-container"
-                >Points: <span class="points">827</span></span
+                >Points: <span class="points">829</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47961319"
                   >Comments</a
-                ><span class="descendants">: 842</span></span
+                ><span class="descendants">: 860</span></span
               >
             </h4>
           </section>
@@ -523,11 +647,32 @@
             <h4>
               <span>2026-04-29 @ 17:09:03</span
               ><span class="points-container"
-                >Points: <span class="points">359</span></span
+                >Points: <span class="points">366</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47951295"
                   >Comments</a
-                ><span class="descendants">: 185</span></span
+                ><span class="descendants">: 192</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="47948188">
+          <h3>
+            <a
+              class="item"
+              href="https://scsipub.com/blog/how-we-run-iscsi-over-the-internet"
+              >How we run iSCSI over the internet</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-04-29 @ 13:30:27</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=47948188"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -544,7 +689,7 @@
             <h4>
               <span>2026-04-29 @ 13:28:47</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47948152"
                   >Comments</a
@@ -566,11 +711,11 @@
             <h4>
               <span>2026-04-29 @ 11:35:40</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47946899"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -585,30 +730,11 @@
             <h4>
               <span>2026-04-29 @ 00:50:15</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47942863"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47939246">
-          <h3>
-            <a class="item" href="https://gregraiz.com/blog/local-vibe/"
-              >I Got Sick of Remembering Port Numbers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-28 @ 19:19:06</span
-              ><span class="points-container"
-                >Points: <span class="points">88</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47939246"
-                  >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -627,28 +753,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47939227"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="47939158">
-          <h3>
-            <a
-              class="item"
-              href="https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill"
-              >The Church Rock Uranium Mill Spill</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-04-28 @ 19:13:26</span
-              ><span class="points-container"
-                >Points: <span class="points">102</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=47939158"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -663,11 +768,11 @@
             <h4>
               <span>2026-04-28 @ 17:41:38</span
               ><span class="points-container"
-                >Points: <span class="points">205</span></span
+                >Points: <span class="points">209</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47937814"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
             <div class="text">
@@ -717,11 +822,11 @@
             <h4>
               <span>2026-04-28 @ 16:49:12</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47937033"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -736,11 +841,11 @@
             <h4>
               <span>2026-04-28 @ 15:51:37</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47936184"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -755,11 +860,11 @@
             <h4>
               <span>2026-04-27 @ 20:38:22</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47927011"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -776,7 +881,7 @@
             <h4>
               <span>2026-04-27 @ 17:52:12</span
               ><span class="points-container"
-                >Points: <span class="points">321</span></span
+                >Points: <span class="points">327</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=47924912"
                   >Comments</a
