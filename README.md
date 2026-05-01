@@ -10,7 +10,6 @@
 * [2026-05-01, 17:47:42](https://news.ycombinator.com/item?id=47977748) - [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we)
 * [2026-05-01, 17:43:53](https://news.ycombinator.com/item?id=47977694) - [Show HN: AI CAD Harness](https://fusion.adam.new/install)
 * [2026-05-01, 17:39:11](https://news.ycombinator.com/item?id=47977645) - [Artemis II Fault Tolerance](https://alearningaday.blog/2026/05/01/artemis-ii-fault-tolerance/)
-* [2026-05-01, 17:34:49](https://news.ycombinator.com/item?id=47977583) - [The X-Files has made me nostalgic for a time I never experienced](https://midnightmurmurations.substack.com/p/the-x-files-has-made-me-nostalgic)
 * [2026-05-01, 17:28:45](https://news.ycombinator.com/item?id=47977498) - [AWS stops billing Middle East cloud customers as repairs to war damage drag on](https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/)
 * [2026-05-01, 17:27:03](https://news.ycombinator.com/item?id=47977470) - [Understand Anything](https://github.com/Lum1104/Understand-Anything)
 * [2026-05-01, 17:18:58](https://news.ycombinator.com/item?id=47977383) - [AI uses less water than the public thinks](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
@@ -30,6 +29,7 @@
 * [2026-05-01, 08:43:45](https://news.ycombinator.com/item?id=47972511) - [Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables](https://github.com/darrylmorley/whatcable)
 * [2026-04-29, 22:56:10](https://news.ycombinator.com/item?id=47955789) - [Eka’s robotic claw feels like we're approaching a ChatGPT moment](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/)
 * [2026-04-29, 18:06:55](https://news.ycombinator.com/item?id=47952096) - [Historic Tennessee Hotel Is Also Home to the Greatest Duck Tradition (2016)](https://www.audubon.org/magazine/tennessees-most-historic-hotel-also-home-greatest-duck-tradition)
+* [2026-04-29, 15:48:18](https://news.ycombinator.com/item?id=47950070) - [The Smelly Baby Problem](https://www.worksinprogress.news/p/how-disposable-diapers-conquered)
 
 ## [Archives](archives/index.md)
 

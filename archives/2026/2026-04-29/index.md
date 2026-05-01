@@ -37,6 +37,7 @@
 * [2026-04-29, 15:54:29](https://news.ycombinator.com/item?id=47950156) - [Shrdlu](https://en.wikipedia.org/wiki/SHRDLU)
 * [2026-04-29, 15:49:57](https://news.ycombinator.com/item?id=47950091) - [Online age verification is the hill to die on](https://xcancel.com/GlennMeder/status/2049088498163216560)
 * [2026-04-29, 15:49:57](https://news.ycombinator.com/item?id=47950091) - [Online age verification is the hill to die on](https://x.com/GlennMeder/status/2049088498163216560)
+* [2026-04-29, 15:48:18](https://news.ycombinator.com/item?id=47950070) - [The Smelly Baby Problem](https://www.worksinprogress.news/p/how-disposable-diapers-conquered)
 * [2026-04-29, 15:45:25](https://news.ycombinator.com/item?id=47950022) - [Third Editor Fired in Elsevier's Citation Cartel Crackdown](https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation)
 * [2026-04-29, 15:39:43](https://news.ycombinator.com/item?id=47949939) - [Cursor Camp](https://neal.fun/cursor-camp/)
 * [2026-04-29, 15:36:44](https://news.ycombinator.com/item?id=47949897) - [U.S. war in Iran has cost $25B so far, says Pentagon official](https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/)
