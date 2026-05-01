@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-01](index.md)
 
 * [2026-05-01, 11:58:11](https://news.ycombinator.com/item?id=47973755) - [Running Adobe's 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854)
+* [2026-05-01, 11:42:12](https://news.ycombinator.com/item?id=47973635) - [A Letter from Dijkstra on APL](https://www.jsoftware.com/papers/Dijkstra_Letter.htm)
 * [2026-05-01, 11:32:48](https://news.ycombinator.com/item?id=47973559) - [Show HN: Site Mogging](https://sitemogging.com)
 * [2026-05-01, 11:08:32](https://news.ycombinator.com/item?id=47973378) - [Apple accidentally left Claude.md files Apple Support app](https://xcancel.com/aaronp613/status/2049986504617820551)
 * [2026-05-01, 11:08:20](https://news.ycombinator.com/item?id=47973376) - [Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/)
