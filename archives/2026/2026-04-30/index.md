@@ -50,6 +50,7 @@
 * [2026-04-30, 07:43:55](https://news.ycombinator.com/item?id=47959463) - [Mozilla's opposition to Chrome's Prompt API](https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313)
 * [2026-04-30, 07:43:55](https://news.ycombinator.com/item?id=47959463) - [Mozilla's Opposition to Chrome's Prompt API](https://github.com/mozilla/standards-positions/issues/1213)
 * [2026-04-30, 06:30:30](https://news.ycombinator.com/item?id=47958942) - [Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"](https://scottaaronson.blog/?p=9718)
+* [2026-04-30, 04:41:35](https://news.ycombinator.com/item?id=47958186) - [The Shadow Glass](https://morrigan-tech.com/blog/the-shadow-glass/)
 * [2026-04-30, 04:28:07](https://news.ycombinator.com/item?id=47958106) - [Monad Tutorials Timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
 * [2026-04-30, 03:24:41](https://news.ycombinator.com/item?id=47957714) - [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
 * [2026-04-30, 03:21:04](https://news.ycombinator.com/item?id=47957688) - [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
