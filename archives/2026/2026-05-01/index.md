@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-05-01](index.md)
 
+* [2026-05-01, 11:58:11](https://news.ycombinator.com/item?id=47973755) - [Running Adobe's 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854)
+* [2026-05-01, 11:32:48](https://news.ycombinator.com/item?id=47973559) - [Show HN: Site Mogging](https://sitemogging.com)
 * [2026-05-01, 11:08:32](https://news.ycombinator.com/item?id=47973378) - [Apple accidentally left Claude.md files Apple Support app](https://xcancel.com/aaronp613/status/2049986504617820551)
+* [2026-05-01, 11:08:20](https://news.ycombinator.com/item?id=47973376) - [Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/)
 * [2026-05-01, 10:28:12](https://news.ycombinator.com/item?id=47973108) - [After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber](https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/)
 * [2026-05-01, 10:23:52](https://news.ycombinator.com/item?id=47973084) - [A beginner's guide to Sourcehut (2025)](https://btxx.org/posts/beginners-guide-sourcehut/)
 * [2026-05-01, 09:52:15](https://news.ycombinator.com/item?id=47972888) - [Show HN: Perfect Bluetooth MIDI for Windows](https://news.ycombinator.com/item?id=47972888)
 * [2026-05-01, 09:39:07](https://news.ycombinator.com/item?id=47972807) - [The Rotary Un-Smartphone](https://skysedge.com/telecom/RUSP/index.html)
+* [2026-05-01, 09:10:02](https://news.ycombinator.com/item?id=47972659) - [Advanced Quantization Algorithm for LLMs](https://github.com/intel/auto-round)
 * [2026-05-01, 08:43:45](https://news.ycombinator.com/item?id=47972511) - [Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables](https://github.com/darrylmorley/whatcable)
 * [2026-05-01, 08:29:31](https://news.ycombinator.com/item?id=47972447) - [Grok 4.3](https://docs.x.ai/developers/models/grok-4.3)
 * [2026-05-01, 08:14:07](https://news.ycombinator.com/item?id=47972367) - [Our agent found a bug with WireGuard in Google Kubernetes Engine](https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes)
