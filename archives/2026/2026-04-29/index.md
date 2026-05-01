@@ -47,6 +47,7 @@
 * [2026-04-29, 14:05:42](https://news.ycombinator.com/item?id=47948664) - [How to Build the Future: Demis Hassabis [video]](https://www.youtube.com/watch?v=JNyuX1zoOgU)
 * [2026-04-29, 14:00:59](https://news.ycombinator.com/item?id=47948603) - [Tangled – We need a federation of forges](https://blog.tangled.org/federation/)
 * [2026-04-29, 13:39:54](https://news.ycombinator.com/item?id=47948331) - [Facebook Has a Health Scam Problem](https://www.nytimes.com/2026/04/27/well/facebook-supplements-health.html)
+* [2026-04-29, 13:28:47](https://news.ycombinator.com/item?id=47948152) - [Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac](https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica)
 * [2026-04-29, 13:15:46](https://news.ycombinator.com/item?id=47947944) - [10Gb/s Ethernet: what I did to get it working in my home](https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did)
 * [2026-04-29, 13:05:44](https://news.ycombinator.com/item?id=47947834) - [Improving ICU handovers by learning from Scuderia Ferrari F1 team](https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari)
 * [2026-04-29, 12:43:12](https://news.ycombinator.com/item?id=47947525) - [Letting AI play my game – building an agentic test harness to help play-testing](https://blog.jeffschomay.com/letting-ai-play-my-game)
@@ -69,3 +70,4 @@
 * [2026-04-29, 02:19:11](https://news.ycombinator.com/item?id=47943499) - [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
 * [2026-04-29, 01:36:52](https://news.ycombinator.com/item?id=47943190) - [When the Internet Was a Place](https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/)
 * [2026-04-29, 00:57:12](https://news.ycombinator.com/item?id=47942903) - [We decreased our LLM costs with Opus](https://www.mendral.com/blog/frontier-model-lower-costs)
+* [2026-04-29, 00:50:15](https://news.ycombinator.com/item?id=47942863) - [Maladaptive Frugality](https://herbertlui.net/maladaptive-frugality/)

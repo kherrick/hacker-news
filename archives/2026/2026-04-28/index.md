@@ -20,6 +20,7 @@
 * [2026-04-28, 20:26:28](https://news.ycombinator.com/item?id=47940203) - [Show HN: My friend and his AI homies wrote SGI Indy emulator in Rust](https://github.com/techomancer/iris)
 * [2026-04-28, 19:44:52](https://news.ycombinator.com/item?id=47939579) - [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
 * [2026-04-28, 19:24:43](https://news.ycombinator.com/item?id=47939320) - [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/)
+* [2026-04-28, 19:19:06](https://news.ycombinator.com/item?id=47939246) - [I Got Sick of Remembering Port Numbers](https://gregraiz.com/blog/local-vibe/)
 * [2026-04-28, 19:13:26](https://news.ycombinator.com/item?id=47939158) - [The Church Rock Uranium Mill Spill](https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill)
 * [2026-04-28, 19:10:14](https://news.ycombinator.com/item?id=47939105) - [C, Just In Time!](https://dyne.org/cjit/)
 * [2026-04-28, 19:08:47](https://news.ycombinator.com/item?id=47939079) - [A playable DOOM MCP app](https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/)

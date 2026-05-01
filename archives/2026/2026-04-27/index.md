@@ -15,6 +15,7 @@
 * [2026-04-27, 19:37:23](https://news.ycombinator.com/item?id=47926286) - [Sebastian Sawe breaks iconic sub-two-hour marathon barrier](https://www.bbc.com/sport/athletics/articles/cp383n09030o)
 * [2026-04-27, 19:35:37](https://news.ycombinator.com/item?id=47926259) - [U.S. companies back Sam Altman's World ID even as much of the world pushes back](https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships/)
 * [2026-04-27, 19:27:47](https://news.ycombinator.com/item?id=47926148) - [Withnail's Coat and I](https://ontherow.substack.com/p/withnails-coat-and-i)
+* [2026-04-27, 19:26:00](https://news.ycombinator.com/item?id=47926128) - [Show HN: What happens when you load a webpage (Interactive)](https://toolkit.whysonil.dev/how-it-works/internet-timeline/)
 * [2026-04-27, 19:02:14](https://news.ycombinator.com/item?id=47925792) - [My Stratum-0 Atomic Clock](https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html)
 * [2026-04-27, 18:55:06](https://news.ycombinator.com/item?id=47925679) - [Our principles](https://openai.com/index/our-principles/)
 * [2026-04-27, 18:34:30](https://news.ycombinator.com/item?id=47925425) - [United Wizards of the Coast](https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa)
