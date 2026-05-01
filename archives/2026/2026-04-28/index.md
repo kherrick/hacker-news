@@ -50,6 +50,7 @@
 * [2026-04-28, 15:58:30](https://news.ycombinator.com/item?id=47936264) - [Warp is now open-source](https://www.warp.dev/blog/warp-is-now-open-source)
 * [2026-04-28, 15:55:55](https://news.ycombinator.com/item?id=47936236) - [After Spain's blackout, its shift to renewables and grid evolution power on](https://www.theguardian.com/world/2026/apr/28/blackout-spain-renewable-energy-grid-solar-wind)
 * [2026-04-28, 15:54:21](https://news.ycombinator.com/item?id=47936210) - [FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger](https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/)
+* [2026-04-28, 15:51:37](https://news.ycombinator.com/item?id=47936184) - [Auto Polo](https://en.wikipedia.org/wiki/Auto_polo)
 * [2026-04-28, 15:49:22](https://news.ycombinator.com/item?id=47936156) - [Google and Pentagon reportedly agree on deal for 'any lawful' use of AI](https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal)
 * [2026-04-28, 15:21:00](https://news.ycombinator.com/item?id=47935853) - [Your phone is about to stop being yours](https://keepandroidopen.org/en/)
 * [2026-04-28, 14:35:59](https://news.ycombinator.com/item?id=47935246) - [Show HN: Rocky – Rust SQL engine with branches, replay, column lineage](https://github.com/rocky-data/rocky)
