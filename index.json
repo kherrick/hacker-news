@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-01, 06:34:54",
+      "https://news.ycombinator.com/item?id=47971830"
+    ],
+    [
+      "Meta's Big Tobacco PR Tactics",
+      "https://yadin.com/notes/toasted/"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 06:20:33",
+      "https://news.ycombinator.com/item?id=47971768"
+    ],
+    [
+      "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
+      "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/"
+    ]
+  ],
+  [
+    [
       "2026-05-01, 02:23:43",
       "https://news.ycombinator.com/item?id=47970690"
     ],
@@ -47,26 +67,6 @@
     [
       "Can I disable all data collection from my vehicle?",
       "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 20:02:35",
-      "https://news.ycombinator.com/item?id=47967508"
-    ],
-    [
-      "Vercel’s pricing page",
-      "https://theupsellgame.com/"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 19:22:55",
-      "https://news.ycombinator.com/item?id=47967069"
-    ],
-    [
-      "Follow-up to Carrot disclosure: Forgejo",
-      "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 15:31:40",
-      "https://news.ycombinator.com/item?id=47964034"
-    ],
-    [
-      "Spain's parliament will act against massive IP blockages by LaLiga",
-      "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2026-04-29, 11:35:40",
+      "https://news.ycombinator.com/item?id=47946899"
+    ],
+    [
+      "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+      "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 00:50:15",
       "https://news.ycombinator.com/item?id=47942863"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2026-04-28, 23:43:07",
-      "https://news.ycombinator.com/item?id=47942347"
-    ],
-    [
-      "A Milestone in Formalization: The Sphere Packing Problem in Dimension 8",
-      "https://www.alphaxiv.org/abs/2604.23468"
-    ]
-  ],
-  [
-    [
       "2026-04-28, 19:19:06",
       "https://news.ycombinator.com/item?id=47939246"
     ],
     [
       "I Got Sick of Remembering Port Numbers",
       "https://gregraiz.com/blog/local-vibe/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 19:17:39",
+      "https://news.ycombinator.com/item?id=47939227"
+    ],
+    [
+      "Using a 1978 terminal in 2026 (DEC VT-100)",
+      "https://nikhiljha.com/posts/vt100/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-04-27, 19:26:00",
-      "https://news.ycombinator.com/item?id=47926128"
+      "2026-04-27, 20:38:22",
+      "https://news.ycombinator.com/item?id=47927011"
     ],
     [
-      "Show HN: What happens when you load a webpage (Interactive)",
-      "https://toolkit.whysonil.dev/how-it-works/internet-timeline/"
+      "Softmax, can you derive the Jacobian? And should you care?",
+      "https://idlemachines.co.uk/essays/softmax"
     ]
   ],
   [
