@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-02, 18:40:19",
+      "https://news.ycombinator.com/item?id=47989154"
+    ],
+    [
+      "Unsigned Sizes: A Five Year Mistake",
+      "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/"
+    ]
+  ],
+  [
+    [
       "2026-05-02, 18:03:42",
       "https://news.ycombinator.com/item?id=47988776"
     ],
@@ -21,11 +31,21 @@
   ],
   [
     [
+      "2026-05-02, 17:40:55",
+      "https://news.ycombinator.com/item?id=47988592"
+    ],
+    [
+      "Do_not_track",
+      "https://donottrack.sh/"
+    ]
+  ],
+  [
+    [
       "2026-05-02, 17:32:29",
       "https://news.ycombinator.com/item?id=47988504"
     ],
     [
-      "Videolan Dav2d",
+      "Dav2d",
       "https://code.videolan.org/videolan/dav2d"
     ]
   ],
@@ -37,6 +57,16 @@
     [
       "Flue is a TypeScript framework for building the next generation of agents",
       "https://flueframework.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 17:25:54",
+      "https://news.ycombinator.com/item?id=47988441"
+    ],
+    [
+      "Welcome to Hell Developer",
+      "https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/"
     ]
   ],
   [
@@ -111,52 +141,12 @@
   ],
   [
     [
-      "2026-05-02, 12:08:51",
-      "https://news.ycombinator.com/item?id=47985704"
-    ],
-    [
-      "Craig Venter of Human Genome Project Dies at 79",
-      "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 10:21:31",
-      "https://news.ycombinator.com/item?id=47985077"
-    ],
-    [
-      "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-      "https://mljar.com/"
-    ]
-  ],
-  [
-    [
       "2026-05-02, 09:30:49",
       "https://news.ycombinator.com/item?id=47984852"
     ],
     [
       "How fast is a macOS VM, and how small could it be?",
       "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 09:08:18",
-      "https://news.ycombinator.com/item?id=47984734"
-    ],
-    [
-      "Show HN: Browser-based light pollution simulator using real photometric data",
-      "https://iesna.eu/?wasm=skyglow_demo"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 08:54:27",
-      "https://news.ycombinator.com/item?id=47984675"
-    ],
-    [
-      "Show HN: Filling PDF forms with AI using client-side tool calling",
-      "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en"
     ]
   ],
   [
@@ -205,18 +195,8 @@
       "https://news.ycombinator.com/item?id=47977026"
     ],
     [
-      "DeepSeek V4–almost on the frontier, a fraction of the price",
+      "DeepSeek V4—almost on the frontier",
       "https://simonwillison.net/2026/Apr/24/deepseek-v4/"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 18:01:14",
-      "https://news.ycombinator.com/item?id=47966084"
-    ],
-    [
-      "SFO Gate Explorer",
-      "https://www.flysfo.com/passengers/services/gate-explorer"
     ]
   ],
   [
@@ -227,6 +207,16 @@
     [
       "Dotcl: Common Lisp Implementation on .NET",
       "https://github.com/dotcl/dotcl"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 14:03:43",
+      "https://news.ycombinator.com/item?id=47962681"
+    ],
+    [
+      "Little Magazines Are Back",
+      "https://wsjfreeexpression.substack.com/p/little-magazines-are-back"
     ]
   ],
   [
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2026-04-29, 15:28:55",
-      "https://news.ycombinator.com/item?id=47949794"
+      "2026-04-29, 19:37:38",
+      "https://news.ycombinator.com/item?id=47953347"
     ],
     [
-      "To Restore an Island Paradise, Add Fungi",
-      "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi"
+      "Why IPv6 is so complicated",
+      "https://github.com/becarpenter/book6/blob/main/01.%20Introduction%20and%20Foreword/Why%20IPv6%20is%20so%20complicated.md"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 16:49:13",
+      "https://news.ycombinator.com/item?id=47950993"
+    ],
+    [
+      "The USB Situation",
+      "https://randsinrepose.com/archives/the-usb-situation/"
     ]
   ],
   [
