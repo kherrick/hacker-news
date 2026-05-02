@@ -29,6 +29,7 @@
 * [2026-05-01, 16:21:23](https://news.ycombinator.com/item?id=47976566) - [Apocalypse Early Warning System](https://ews.kylemcdonald.net/)
 * [2026-05-01, 16:17:55](https://news.ycombinator.com/item?id=47976529) - [Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests](https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/)
 * [2026-05-01, 16:08:53](https://news.ycombinator.com/item?id=47976415) - [Uber Torches 2026 AI Budget on Claude Code in Four Months](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
+* [2026-05-01, 15:45:30](https://news.ycombinator.com/item?id=47976125) - [Using group theory to explore the space of positional encodings for attention](https://blog.janestreet.com/using-group-theory-to-explore-positional-encodings-attention/)
 * [2026-05-01, 15:15:36](https://news.ycombinator.com/item?id=47975785) - [An open letter asking NHS England to keep its code open](https://keepthingsopen.com)
 * [2026-05-01, 15:11:31](https://news.ycombinator.com/item?id=47975729) - [Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down](https://www.theregister.com/2026/05/01/canonical_confirms_ubuntu_infrastructure_under/)
 * [2026-05-01, 15:07:02](https://news.ycombinator.com/item?id=47975676) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=47975676)
