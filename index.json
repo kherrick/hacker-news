@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-02, 13:48:21",
+      "https://news.ycombinator.com/item?id=47986390"
+    ],
+    [
+      "Oil tanker hijacked off Yemen, steers toward Somalia",
+      "https://www.yahoo.com/news/articles/yemen-says-oil-tanker-hijacked-121710980.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 13:15:23",
+      "https://news.ycombinator.com/item?id=47986136"
+    ],
+    [
+      "Refusal in Language Models Is Mediated by a Single Direction",
+      "https://arxiv.org/abs/2406.11717"
+    ]
+  ],
+  [
+    [
       "2026-05-02, 13:07:50",
       "https://news.ycombinator.com/item?id=47986083"
     ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=47985553"
     ],
     [
-      "Becoming a father shrinks your cerebrum",
+      "Becoming a father shrinks your cerebrum (2022)",
       "https://www.economist.com/science-and-technology/2022/10/21/becoming-a-father-shrinks-your-cerebrum"
     ]
   ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-05-01, 19:10:56",
-      "https://news.ycombinator.com/item?id=47978834"
-    ],
-    [
-      "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
-      "https://github.com/microsoft/lib0xc"
-    ]
-  ],
-  [
-    [
       "2026-05-01, 17:47:42",
       "https://news.ycombinator.com/item?id=47977748"
     ],
@@ -257,16 +267,6 @@
     [
       "Bitmap and tilemap generation from a single example",
       "https://github.com/mxgmn/WaveFunctionCollapse"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 03:15:42",
-      "https://news.ycombinator.com/item?id=47957648"
-    ],
-    [
-      "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
-      "https://www.liquid.ai/blog/lfm2-24b-a2b"
     ]
   ],
   [
