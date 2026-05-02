@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-01](index.md)
 
+* [2026-05-01, 23:52:36](https://news.ycombinator.com/item?id=47981856) - [U.S. to Withdraw 5k Troops from Germany, Pentagon Says](https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html)
+* [2026-05-01, 23:24:10](https://news.ycombinator.com/item?id=47981669) - [A Report on Burnout in Open Source Software Communities (2025) [pdf]](https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf)
 * [2026-05-01, 20:26:24](https://news.ycombinator.com/item?id=47979839) - [Credit cards are vulnerable to brute force attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
 * [2026-05-01, 20:06:59](https://news.ycombinator.com/item?id=47979583) - [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
 * [2026-05-01, 19:56:18](https://news.ycombinator.com/item?id=47979438) - [Show HN: Destiny – Claude Code's fortune Teller skill](https://github.com/xodn348/destiny)
