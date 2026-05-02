@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-02](index.md)
 
+* [2026-05-02, 20:03:08](https://news.ycombinator.com/item?id=47989931) - [I Do Not Recommend Bitwarden](https://xn--gckvb8fzb.com/i-do-not-recommend-bitwarden/)
+* [2026-05-02, 19:03:54](https://news.ycombinator.com/item?id=47989372) - [Canonical Under Attack](https://status.canonical.com)
 * [2026-05-02, 18:40:19](https://news.ycombinator.com/item?id=47989154) - [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
 * [2026-05-02, 18:03:42](https://news.ycombinator.com/item?id=47988776) - [NetHack 5.0.0](https://nethack.org/v500/release.html)
 * [2026-05-02, 17:59:18](https://news.ycombinator.com/item?id=47988742) - [California to begin ticketing driverless cars that violate traffic laws](https://www.bbc.com/news/articles/clypjx3rg2go)

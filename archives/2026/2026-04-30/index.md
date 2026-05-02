@@ -64,6 +64,7 @@
 * [2026-04-30, 04:28:07](https://news.ycombinator.com/item?id=47958106) - [Monad Tutorials Timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
 * [2026-04-30, 03:24:41](https://news.ycombinator.com/item?id=47957714) - [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
 * [2026-04-30, 03:21:04](https://news.ycombinator.com/item?id=47957688) - [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
+* [2026-04-30, 03:19:43](https://news.ycombinator.com/item?id=47957680) - [Demonstrating the idea of gamma camera imaging [video]](https://www.youtube.com/watch?v=PyGlHtvihXA)
 * [2026-04-30, 03:15:42](https://news.ycombinator.com/item?id=47957648) - [LFM2-24B-A2B: Scaling Up the LFM2 Architecture](https://www.liquid.ai/blog/lfm2-24b-a2b)
 * [2026-04-30, 03:11:51](https://news.ycombinator.com/item?id=47957627) - [Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)
 * [2026-04-30, 03:11:33](https://news.ycombinator.com/item?id=47957624) - [Functional Programmers need to take a look at Zig](https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html)
