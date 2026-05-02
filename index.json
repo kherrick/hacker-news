@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-02, 10:21:31",
+      "https://news.ycombinator.com/item?id=47985077"
+    ],
+    [
+      "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+      "https://mljar.com/"
+    ]
+  ],
+  [
+    [
       "2026-05-02, 09:30:49",
       "https://news.ycombinator.com/item?id=47984852"
     ],
@@ -45,18 +55,8 @@
       "https://news.ycombinator.com/item?id=47984522"
     ],
     [
-      "Why are there both TMP and TEMP environment variables, and which one is right?",
+      "Why are there both TMP and TEMP environment variables? (2015)",
       "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 08:21:38",
-      "https://news.ycombinator.com/item?id=47984512"
-    ],
-    [
-      "Shadcn/UI: A set of beautifully designed components that you can customize",
-      "https://github.com/shadcn-ui/ui"
     ]
   ],
   [
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=47981669"
     ],
     [
-      "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+      "A report on burnout in open source software communities (2025) [pdf]",
       "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf"
     ]
   ],
@@ -161,6 +161,26 @@
   ],
   [
     [
+      "2026-05-01, 16:52:43",
+      "https://news.ycombinator.com/item?id=47977026"
+    ],
+    [
+      "DeepSeek V4–almost on the frontier, a fraction of the price",
+      "https://simonwillison.net/2026/Apr/24/deepseek-v4/"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 16:21:23",
+      "https://news.ycombinator.com/item?id=47976566"
+    ],
+    [
+      "Apocalypse Early Warning System",
+      "https://ews.kylemcdonald.net/"
+    ]
+  ],
+  [
+    [
       "2026-05-01, 15:07:02",
       "https://news.ycombinator.com/item?id=47975676"
     ],
@@ -177,16 +197,6 @@
     [
       "Ask HN: Who is hiring? (May 2026)",
       "https://news.ycombinator.com/item?id=47975571"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 08:43:45",
-      "https://news.ycombinator.com/item?id=47972511"
-    ],
-    [
-      "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-      "https://github.com/darrylmorley/whatcable"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "The USB Situation",
       "https://randsinrepose.com/archives/the-usb-situation/"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 15:48:18",
-      "https://news.ycombinator.com/item?id=47950070"
-    ],
-    [
-      "The smelly baby problem",
-      "https://www.worksinprogress.news/p/how-disposable-diapers-conquered"
     ]
   ],
   [
