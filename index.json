@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-05-02, 09:30:49",
+      "https://news.ycombinator.com/item?id=47984852"
+    ],
+    [
+      "How fast is a macOS VM, and how small could it be?",
+      "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/"
+    ]
+  ],
+  [
+    [
       "2026-05-02, 09:08:18",
       "https://news.ycombinator.com/item?id=47984734"
     ],
     [
       "Show HN: Browser-based light pollution simulator using real photometric data",
       "https://iesna.eu/?wasm=skyglow_demo"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 08:54:27",
+      "https://news.ycombinator.com/item?id=47984675"
+    ],
+    [
+      "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 08:42:45",
+      "https://news.ycombinator.com/item?id=47984614"
+    ],
+    [
+      "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
+      "https://snewpapers.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 08:23:23",
+      "https://news.ycombinator.com/item?id=47984522"
+    ],
+    [
+      "Why are there both TMP and TEMP environment variables, and which one is right?",
+      "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 08:21:38",
+      "https://news.ycombinator.com/item?id=47984512"
+    ],
+    [
+      "Shadcn/UI: A set of beautifully designed components that you can customize",
+      "https://github.com/shadcn-ui/ui"
     ]
   ],
   [
@@ -71,26 +121,6 @@
   ],
   [
     [
-      "2026-05-02, 02:26:38",
-      "https://news.ycombinator.com/item?id=47982763"
-    ],
-    [
-      "Create an MP4 video of a web page scrolling at a steady speed",
-      "https://github.com/upenn/web-scroll-video"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 02:18:24",
-      "https://news.ycombinator.com/item?id=47982708"
-    ],
-    [
-      "I built the Playwright for desktop apps. 80% token savings",
-      "https://github.com/lahfir/agent-desktop"
-    ]
-  ],
-  [
-    [
       "2026-05-01, 23:24:10",
       "https://news.ycombinator.com/item?id=47981669"
     ],
@@ -131,52 +161,12 @@
   ],
   [
     [
-      "2026-05-01, 16:59:35",
-      "https://news.ycombinator.com/item?id=47977134"
-    ],
-    [
-      "The gay jailbreak technique (2025)",
-      "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 16:52:43",
-      "https://news.ycombinator.com/item?id=47977026"
-    ],
-    [
-      "DeepSeek V4–almost on the frontier, a fraction of the price",
-      "https://simonwillison.net/2026/Apr/24/deepseek-v4/"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 16:21:23",
-      "https://news.ycombinator.com/item?id=47976566"
-    ],
-    [
-      "Apocalypse Early Warning System",
-      "https://ews.kylemcdonald.net/"
-    ]
-  ],
-  [
-    [
       "2026-05-01, 15:07:02",
       "https://news.ycombinator.com/item?id=47975676"
     ],
     [
       "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
       "https://news.ycombinator.com/item?id=47975676"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 15:01:08",
-      "https://news.ycombinator.com/item?id=47975592"
-    ],
-    [
-      "Whohas – Command-line utility for cross-distro, cross-repository package search",
-      "https://github.com/whohas/whohas"
     ]
   ],
   [
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2026-04-30, 00:48:44",
-      "https://news.ycombinator.com/item?id=47956671"
-    ],
-    [
-      "Integer Overflow Checking Cost",
-      "https://danluu.com/integer-overflow/"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 22:56:10",
       "https://news.ycombinator.com/item?id=47955789"
     ],
@@ -257,6 +237,16 @@
     [
       "Artemis II Photo Timeline",
       "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 20:24:49",
+      "https://news.ycombinator.com/item?id=47954074"
+    ],
+    [
+      "Show HN: SimDrive – a browser racing game with your phone as the controller:D",
+      "https://simdrive.xyz/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "To Restore an Island Paradise, Add Fungi",
       "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 14:37:20",
+      "https://news.ycombinator.com/item?id=47949066"
+    ],
+    [
+      "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+      "https://github.com/bruin-data/dac"
     ]
   ]
 ]
