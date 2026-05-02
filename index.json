@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-02, 21:34:49",
+      "https://news.ycombinator.com/item?id=47990789"
+    ],
+    [
+      "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+      "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/"
+    ]
+  ],
+  [
+    [
       "2026-05-02, 21:25:05",
       "https://news.ycombinator.com/item?id=47990708"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-05-02, 15:02:13",
-      "https://news.ycombinator.com/item?id=47987006"
-    ],
-    [
-      "America's Expanding Domestic Surveillance",
-      "https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187"
-    ]
-  ],
-  [
-    [
       "2026-05-02, 13:15:23",
       "https://news.ycombinator.com/item?id=47986136"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-05-01, 16:52:43",
-      "https://news.ycombinator.com/item?id=47977026"
+      "2026-05-01, 15:45:30",
+      "https://news.ycombinator.com/item?id=47976125"
     ],
     [
-      "DeepSeek V4—almost on the frontier",
-      "https://simonwillison.net/2026/Apr/24/deepseek-v4/"
+      "Using group theory to explore the space of positional encodings for attention",
+      "https://blog.janestreet.com/using-group-theory-to-explore-positional-encodings-attention/"
     ]
   ],
   [
