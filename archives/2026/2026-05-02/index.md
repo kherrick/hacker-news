@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-02](index.md)
 
+* [2026-05-02, 11:11:58](https://news.ycombinator.com/item?id=47985353) - [Pushed by Trump policies, top U.S. battery scientist is moving to Singapore](https://www.science.org/content/article/pushed-trump-policies-top-u-s-battery-scientist-moving-singapore)
+* [2026-05-02, 10:42:55](https://news.ycombinator.com/item?id=47985210) - [Show HN: Piruetas – A self-hosted diary app I built for my girlfriend](https://piruet.app)
 * [2026-05-02, 10:21:31](https://news.ycombinator.com/item?id=47985077) - [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/)
 * [2026-05-02, 09:30:49](https://news.ycombinator.com/item?id=47984852) - [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)
 * [2026-05-02, 09:08:18](https://news.ycombinator.com/item?id=47984734) - [Show HN: Browser-based light pollution simulator using real photometric data](https://iesna.eu/?wasm=skyglow_demo)
