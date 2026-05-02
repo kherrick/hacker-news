@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-02](index.md)
 
+* [2026-05-02, 05:04:39](https://news.ycombinator.com/item?id=47983485) - [Show HN: Stop playing my matchstick puzzles, start building your own in seconds](https://mathstick.github.io)
 * [2026-05-02, 04:43:20](https://news.ycombinator.com/item?id=47983385) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
 * [2026-05-02, 04:38:04](https://news.ycombinator.com/item?id=47983352) - [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
 * [2026-05-02, 04:12:35](https://news.ycombinator.com/item?id=47983226) - [Ask Jeeves Shut Down](https://www.ask.com/)

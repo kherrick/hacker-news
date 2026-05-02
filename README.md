@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-05-02, 05:04:39](https://news.ycombinator.com/item?id=47983485) - [Show HN: Stop playing my matchstick puzzles, start building your own in seconds](https://mathstick.github.io)
 * [2026-05-02, 04:43:20](https://news.ycombinator.com/item?id=47983385) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
 * [2026-05-02, 04:38:04](https://news.ycombinator.com/item?id=47983352) - [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
 * [2026-05-02, 04:12:35](https://news.ycombinator.com/item?id=47983226) - [Ask.com has closed](https://www.ask.com/)
@@ -21,6 +22,7 @@
 * [2026-05-01, 15:00:07](https://news.ycombinator.com/item?id=47975571) - [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571)
 * [2026-05-01, 08:43:45](https://news.ycombinator.com/item?id=47972511) - [Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables](https://github.com/darrylmorley/whatcable)
 * [2026-04-30, 08:56:05](https://news.ycombinator.com/item?id=47959907) - [Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity](https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/)
+* [2026-04-30, 06:30:53](https://news.ycombinator.com/item?id=47958944) - [A Gopher Meets a Crab](https://miren.dev/blog/gopher-meets-crab)
 * [2026-04-30, 03:15:42](https://news.ycombinator.com/item?id=47957648) - [LFM2-24B-A2B: Scaling Up the LFM2 Architecture](https://www.liquid.ai/blog/lfm2-24b-a2b)
 * [2026-04-30, 00:48:44](https://news.ycombinator.com/item?id=47956671) - [Integer Overflow Checking Cost](https://danluu.com/integer-overflow/)
 * [2026-04-29, 22:56:10](https://news.ycombinator.com/item?id=47955789) - [Eka’s robotic claw feels like we're approaching a ChatGPT moment](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/)
@@ -28,8 +30,6 @@
 * [2026-04-29, 18:58:37](https://news.ycombinator.com/item?id=47952773) - [Direct electrochemical black coffee quality appraisal using cyclic voltammetry](https://www.nature.com/articles/s41467-026-71526-5)
 * [2026-04-29, 15:48:18](https://news.ycombinator.com/item?id=47950070) - [The smelly baby problem](https://www.worksinprogress.news/p/how-disposable-diapers-conquered)
 * [2026-04-29, 15:28:55](https://news.ycombinator.com/item?id=47949794) - [To Restore an Island Paradise, Add Fungi](https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi)
-* [2026-04-29, 05:13:17](https://news.ycombinator.com/item?id=47944409) - [Tvheadend: Self-Hosted IPTV Server](https://tvheadend.org)
-* [2026-04-28, 19:12:46](https://news.ycombinator.com/item?id=47939149) - [Sourcefeed – a pop-up RSS service](https://www.sourcefeed.app/)
 
 ## [Archives](archives/index.md)
 
