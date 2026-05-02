@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-02](index.md)
 
+* [2026-05-02, 22:45:23](https://news.ycombinator.com/item?id=47991350) - [Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him](https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/)
+* [2026-05-02, 22:16:49](https://news.ycombinator.com/item?id=47991129) - [AWS Lightsail's $0.09/GB Bandwidth Overage Is a Trap for Small Projects](https://galaxycloudsolutions.com/blog/aws-lightsail-vs-galaxy-cloud-solutions/)
 * [2026-05-02, 21:34:49](https://news.ycombinator.com/item?id=47990789) - [Clojurists Together – Q2 2026 Open Source Funding Announcement](https://www.clojuriststogether.org/news/q2-2026-funding-announcement/)
 * [2026-05-02, 21:25:05](https://news.ycombinator.com/item?id=47990708) - [Show HN: State of the Art of Coding Models, According to Hacker News Commenters](https://hnup.date/hn-sota)
 * [2026-05-02, 21:21:27](https://news.ycombinator.com/item?id=47990675) - [The agent harness belongs outside the sandbox](https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox)

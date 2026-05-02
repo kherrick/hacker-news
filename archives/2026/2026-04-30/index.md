@@ -11,6 +11,7 @@
 * [2026-04-30, 20:43:57](https://news.ycombinator.com/item?id=47967974) - [Hackers are actively exploiting a bug in cPanel and WHM](https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/)
 * [2026-04-30, 20:33:48](https://news.ycombinator.com/item?id=47967863) - [Apple reports second quarter results](https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/)
 * [2026-04-30, 20:27:22](https://news.ycombinator.com/item?id=47967786) - [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
+* [2026-04-30, 20:16:34](https://news.ycombinator.com/item?id=47967672) - [Chinese EVs Can Now Project Movies from Their Headlights](https://insideevs.com/news/794295/chinese-ev-headlight-movie-projectors/)
 * [2026-04-30, 20:02:35](https://news.ycombinator.com/item?id=47967508) - [The upsell game – Vercel upselling tactics revealed](https://theupsellgame.com/)
 * [2026-04-30, 19:42:33](https://news.ycombinator.com/item?id=47967289) - [U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets](https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd)
 * [2026-04-30, 19:40:20](https://news.ycombinator.com/item?id=47967262) - [LinkedIn scans for 6,278 extensions and encrypts the results into every request](https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/)

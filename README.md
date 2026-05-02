@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-05-02, 22:45:23](https://news.ycombinator.com/item?id=47991350) - [Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him](https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/)
+* [2026-05-02, 22:16:49](https://news.ycombinator.com/item?id=47991129) - [AWS Lightsail's $0.09/GB Bandwidth Overage Is a Trap for Small Projects](https://galaxycloudsolutions.com/blog/aws-lightsail-vs-galaxy-cloud-solutions/)
 * [2026-05-02, 21:34:49](https://news.ycombinator.com/item?id=47990789) - [Clojurists Together – Q2 2026 Open Source Funding Announcement](https://www.clojuriststogether.org/news/q2-2026-funding-announcement/)
 * [2026-05-02, 21:25:05](https://news.ycombinator.com/item?id=47990708) - [Show HN: State of the Art of Coding Models, According to Hacker News Commenters](https://hnup.date/hn-sota)
 * [2026-05-02, 21:21:27](https://news.ycombinator.com/item?id=47990675) - [The agent harness belongs outside the sandbox](https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox)
@@ -22,12 +24,10 @@
 * [2026-05-02, 08:23:23](https://news.ycombinator.com/item?id=47984522) - [Why are there both TMP and TEMP environment variables? (2015)](https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213)
 * [2026-05-02, 04:38:04](https://news.ycombinator.com/item?id=47983352) - [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
 * [2026-05-02, 00:12:00](https://news.ycombinator.com/item?id=47981979) - [A Physics Engine with Incremental Rollback for Multiplayer Games](https://easel.games/blog/2026-rollback-physics)
-* [2026-05-01, 15:45:30](https://news.ycombinator.com/item?id=47976125) - [Using group theory to explore the space of positional encodings for attention](https://blog.janestreet.com/using-group-theory-to-explore-positional-encodings-attention/)
+* [2026-04-30, 20:16:34](https://news.ycombinator.com/item?id=47967672) - [Chinese EVs Can Now Project Movies from Their Headlights](https://insideevs.com/news/794295/chinese-ev-headlight-movie-projectors/)
 * [2026-04-30, 16:33:24](https://news.ycombinator.com/item?id=47964957) - [Dotcl: Common Lisp Implementation on .NET](https://github.com/dotcl/dotcl)
 * [2026-04-30, 14:03:43](https://news.ycombinator.com/item?id=47962681) - [Little Magazines Are Back](https://wsjfreeexpression.substack.com/p/little-magazines-are-back)
-* [2026-04-30, 13:15:04](https://news.ycombinator.com/item?id=47961935) - [Show HN: Pollen – distributed WASM runtime, no control plane, single binary](https://github.com/sambigeara/pollen)
 * [2026-04-30, 09:12:23](https://news.ycombinator.com/item?id=47960015) - [Inventions for battery reuse and recycling increase seven-fold in last decade](https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade)
-* [2026-04-29, 20:48:17](https://news.ycombinator.com/item?id=47954394) - [Artemis II Photo Timeline](https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003)
 * [2026-04-29, 16:49:13](https://news.ycombinator.com/item?id=47950993) - [The USB Situation](https://randsinrepose.com/archives/the-usb-situation/)
 * [2026-04-29, 13:54:48](https://news.ycombinator.com/item?id=47948526) - [Barman – Backup and Recovery Manager for PostgreSQL](https://github.com/EnterpriseDB/barman)
 
