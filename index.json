@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-05-02, 17:10:35",
-      "https://news.ycombinator.com/item?id=47988268"
+      "2026-05-02, 18:03:42",
+      "https://news.ycombinator.com/item?id=47988776"
     ],
     [
-      "Ask HN: Is the Job Market Actually Bad?",
-      "https://news.ycombinator.com/item?id=47988268"
+      "NetHack 5.0.0",
+      "https://nethack.org/v500/release.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 17:59:18",
+      "https://news.ycombinator.com/item?id=47988742"
+    ],
+    [
+      "California to begin ticketing driverless cars that violate traffic laws",
+      "https://www.bbc.com/news/articles/clypjx3rg2go"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 17:32:29",
+      "https://news.ycombinator.com/item?id=47988504"
+    ],
+    [
+      "Videolan Dav2d",
+      "https://code.videolan.org/videolan/dav2d"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 17:32:07",
+      "https://news.ycombinator.com/item?id=47988501"
+    ],
+    [
+      "Flue is a TypeScript framework for building the next generation of agents",
+      "https://flueframework.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 17:10:18",
+      "https://news.ycombinator.com/item?id=47988261"
+    ],
+    [
+      "Roblox shares plummet 18% as child safety measures weigh on bookings",
+      "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html"
     ]
   ],
   [
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=47987333"
     ],
     [
-      "Uber wants to turn its drivers into a sensor grid for AV companies",
+      "Uber wants to turn its drivers into a sensor grid for self-driving companies",
       "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/"
     ]
   ],
@@ -31,21 +71,11 @@
   ],
   [
     [
-      "2026-05-02, 15:30:37",
-      "https://news.ycombinator.com/item?id=47987278"
-    ],
-    [
-      "Santa Cruz restaurant changes logo after flurry of negative reviews for AI art",
-      "https://www.sfgate.com/food/article/santa-cruz-restaurant-ai-21955920.php"
-    ]
-  ],
-  [
-    [
       "2026-05-02, 15:28:13",
       "https://news.ycombinator.com/item?id=47987256"
     ],
     [
-      "LLMs consistently pick resumes they generate over ones by humans or other models",
+      "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
       "https://arxiv.org/abs/2509.00462"
     ]
   ],
@@ -67,16 +97,6 @@
     [
       "Refusal in Language Models Is Mediated by a Single Direction",
       "https://arxiv.org/abs/2406.11717"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 12:39:52",
-      "https://news.ycombinator.com/item?id=47985901"
-    ],
-    [
-      "An unknown Sega Saturn project has come to light after 29 years",
-      "https://32bits.substack.com/p/under-the-microscope-pyramid-unreleased"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2026-05-02, 04:43:20",
-      "https://news.ycombinator.com/item?id=47983385"
-    ],
-    [
-      "CollectWise (YC F24) Is Hiring",
-      "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer"
-    ]
-  ],
-  [
-    [
       "2026-05-02, 04:38:04",
       "https://news.ycombinator.com/item?id=47983352"
     ],
     [
       "Why does it take so long to release black fan versions?",
       "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 04:12:35",
-      "https://news.ycombinator.com/item?id=47983226"
-    ],
-    [
-      "Ask.com has closed",
-      "https://www.ask.com/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-05-01, 15:07:02",
-      "https://news.ycombinator.com/item?id=47975676"
-    ],
-    [
-      "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "https://news.ycombinator.com/item?id=47975676"
-    ]
-  ],
-  [
-    [
       "2026-04-30, 18:01:14",
       "https://news.ycombinator.com/item?id=47966084"
     ],
@@ -237,6 +227,16 @@
     [
       "Dotcl: Common Lisp Implementation on .NET",
       "https://github.com/dotcl/dotcl"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 13:38:45",
+      "https://news.ycombinator.com/item?id=47962271"
+    ],
+    [
+      "Also-RANS: Asymmetric Numeral Systems for Entropy Coding",
+      "https://fergusfinn.com/blog/understanding-rans/"
     ]
   ],
   [
