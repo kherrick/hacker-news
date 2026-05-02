@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-02](index.md)
 
+* [2026-05-02, 10:21:31](https://news.ycombinator.com/item?id=47985077) - [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/)
 * [2026-05-02, 09:30:49](https://news.ycombinator.com/item?id=47984852) - [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)
 * [2026-05-02, 09:08:18](https://news.ycombinator.com/item?id=47984734) - [Show HN: Browser-based light pollution simulator using real photometric data](https://iesna.eu/?wasm=skyglow_demo)
 * [2026-05-02, 08:54:27](https://news.ycombinator.com/item?id=47984675) - [Show HN: Filling PDF forms with AI using client-side tool calling](https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en)
