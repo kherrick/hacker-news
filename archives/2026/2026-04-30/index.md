@@ -37,6 +37,7 @@
 * [2026-04-30, 14:36:58](https://news.ycombinator.com/item?id=47963204) - [Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"](https://twitter.com/theo/status/2049645973350363168)
 * [2026-04-30, 14:34:36](https://news.ycombinator.com/item?id=47963163) - [The More Young People Use AI, the More They Hate It](https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai)
 * [2026-04-30, 14:26:38](https://news.ycombinator.com/item?id=47963026) - [I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens](https://burla-cloud.github.io/examples/airbnb-burla-demo/)
+* [2026-04-30, 14:03:43](https://news.ycombinator.com/item?id=47962681) - [Little Magazines Are Back](https://wsjfreeexpression.substack.com/p/little-magazines-are-back)
 * [2026-04-30, 13:54:20](https://news.ycombinator.com/item?id=47962548) - [How an Oil Refinery Works](https://www.construction-physics.com/p/how-an-oil-refinery-works)
 * [2026-04-30, 13:45:10](https://news.ycombinator.com/item?id=47962386) - [The FCC is about to ban 21% of its test labs today. I mapped them all](https://markready.io/blog/fcc-accredited-test-labs-complete-guide)
 * [2026-04-30, 13:38:45](https://news.ycombinator.com/item?id=47962271) - [Also-RANS: Asymmetric Numeral Systems for Entropy Coding](https://fergusfinn.com/blog/understanding-rans/)
