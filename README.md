@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-05-02, 20:03:08](https://news.ycombinator.com/item?id=47989931) - [I Do Not Recommend Bitwarden](https://xn--gckvb8fzb.com/i-do-not-recommend-bitwarden/)
+* [2026-05-02, 19:57:26](https://news.ycombinator.com/item?id=47989883) - [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
 * [2026-05-02, 19:03:54](https://news.ycombinator.com/item?id=47989372) - [Canonical Under Attack](https://status.canonical.com)
 * [2026-05-02, 18:40:19](https://news.ycombinator.com/item?id=47989154) - [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
 * [2026-05-02, 18:03:42](https://news.ycombinator.com/item?id=47988776) - [NetHack 5.0.0](https://nethack.org/v500/release.html)
@@ -10,6 +10,7 @@
 * [2026-05-02, 17:32:07](https://news.ycombinator.com/item?id=47988501) - [Flue is a TypeScript framework for building the next generation of agents](https://flueframework.com/)
 * [2026-05-02, 17:25:54](https://news.ycombinator.com/item?id=47988441) - [Welcome to Hell Developer](https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/)
 * [2026-05-02, 17:10:18](https://news.ycombinator.com/item?id=47988261) - [Roblox shares plummet 18% as child safety measures weigh on bookings](https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html)
+* [2026-05-02, 16:40:29](https://news.ycombinator.com/item?id=47987931) - [Modern C++ Programming: Busato](https://github.com/federico-busato/Modern-CPP-Programming)
 * [2026-05-02, 15:38:17](https://news.ycombinator.com/item?id=47987333) - [Uber wants to turn its drivers into a sensor grid for self-driving companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)
 * [2026-05-02, 15:02:13](https://news.ycombinator.com/item?id=47987006) - [America's Expanding Domestic Surveillance](https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187)
 * [2026-05-02, 13:15:23](https://news.ycombinator.com/item?id=47986136) - [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
@@ -24,7 +25,6 @@
 * [2026-04-30, 14:03:43](https://news.ycombinator.com/item?id=47962681) - [Little Magazines Are Back](https://wsjfreeexpression.substack.com/p/little-magazines-are-back)
 * [2026-04-30, 13:15:04](https://news.ycombinator.com/item?id=47961935) - [Show HN: Pollen – distributed WASM runtime, no control plane, single binary](https://github.com/sambigeara/pollen)
 * [2026-04-30, 09:12:23](https://news.ycombinator.com/item?id=47960015) - [Inventions for battery reuse and recycling increase seven-fold in last decade](https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade)
-* [2026-04-30, 03:19:43](https://news.ycombinator.com/item?id=47957680) - [Demonstrating the idea of gamma camera imaging [video]](https://www.youtube.com/watch?v=PyGlHtvihXA)
 * [2026-04-29, 20:48:17](https://news.ycombinator.com/item?id=47954394) - [Artemis II Photo Timeline](https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003)
 * [2026-04-29, 19:37:38](https://news.ycombinator.com/item?id=47953347) - [Why IPv6 is so complicated](https://github.com/becarpenter/book6/blob/main/01.%20Introduction%20and%20Foreword/Why%20IPv6%20is%20so%20complicated.md)
 * [2026-04-29, 16:49:13](https://news.ycombinator.com/item?id=47950993) - [The USB Situation](https://randsinrepose.com/archives/the-usb-situation/)
