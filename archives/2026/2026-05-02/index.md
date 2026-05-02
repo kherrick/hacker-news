@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-02](index.md)
 
+* [2026-05-02, 21:25:05](https://news.ycombinator.com/item?id=47990708) - [Show HN: State of the Art of Coding Models, According to Hacker News Commenters](https://hnup.date/hn-sota)
+* [2026-05-02, 21:21:27](https://news.ycombinator.com/item?id=47990675) - [The agent harness belongs outside the sandbox](https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox)
+* [2026-05-02, 21:14:29](https://news.ycombinator.com/item?id=47990606) - [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/)
+* [2026-05-02, 20:46:30](https://news.ycombinator.com/item?id=47990318) - [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)
+* [2026-05-02, 20:42:20](https://news.ycombinator.com/item?id=47990284) - [Neanderthals ran 'fat factories' 125,000 years ago](https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago)
 * [2026-05-02, 20:03:08](https://news.ycombinator.com/item?id=47989931) - [I Do Not Recommend Bitwarden](https://xn--gckvb8fzb.com/i-do-not-recommend-bitwarden/)
 * [2026-05-02, 19:57:26](https://news.ycombinator.com/item?id=47989883) - [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
 * [2026-05-02, 19:03:54](https://news.ycombinator.com/item?id=47989372) - [Canonical Under Attack](https://status.canonical.com)
@@ -50,4 +55,5 @@
 * [2026-05-02, 02:18:24](https://news.ycombinator.com/item?id=47982708) - [I built the Playwright for desktop apps. 80% token savings](https://github.com/lahfir/agent-desktop)
 * [2026-05-02, 01:46:24](https://news.ycombinator.com/item?id=47982512) - [Job Postings for Software Engineers Are Rapidly Rising](https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/)
 * [2026-05-02, 00:14:33](https://news.ycombinator.com/item?id=47981995) - [Good developers learn to program. Most courses teach a language](https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language)
+* [2026-05-02, 00:12:00](https://news.ycombinator.com/item?id=47981979) - [A Physics Engine with Incremental Rollback for Multiplayer Games](https://easel.games/blog/2026-rollback-physics)
 * [2026-05-02, 00:09:04](https://news.ycombinator.com/item?id=47981961) - [What did you love about VB6?](https://evilgeniuslabs.ca/blog/vb6-modern-dotnet-question)
