@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-02](index.md)
 
+* [2026-05-02, 09:08:18](https://news.ycombinator.com/item?id=47984734) - [Show HN: Browser-based light pollution simulator using real photometric data](https://iesna.eu/?wasm=skyglow_demo)
+* [2026-05-02, 08:18:15](https://news.ycombinator.com/item?id=47984486) - [SKILL.make: Makefile Styled Skill File](https://github.com/Teaonly/SKILL.make)
 * [2026-05-02, 05:04:39](https://news.ycombinator.com/item?id=47983485) - [Show HN: Stop playing my matchstick puzzles, start building your own in seconds](https://mathstick.github.io)
 * [2026-05-02, 04:43:20](https://news.ycombinator.com/item?id=47983385) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
 * [2026-05-02, 04:38:04](https://news.ycombinator.com/item?id=47983352) - [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)

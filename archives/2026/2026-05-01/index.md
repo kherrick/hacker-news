@@ -24,6 +24,7 @@
 * [2026-05-01, 17:25:36](https://news.ycombinator.com/item?id=47977450) - [Flock cameras keep telling police a man who doesn't have a warrant has a warrant](https://www.youtube.com/watch?v=nHwxV0Sd9V8)
 * [2026-05-01, 17:18:58](https://news.ycombinator.com/item?id=47977383) - [AI uses less water than the public thinks](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
 * [2026-05-01, 16:59:35](https://news.ycombinator.com/item?id=47977134) - [The Gay Jailbreak Technique](https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md)
+* [2026-05-01, 16:52:43](https://news.ycombinator.com/item?id=47977026) - [DeepSeek V4–almost on the frontier, a fraction of the price](https://simonwillison.net/2026/Apr/24/deepseek-v4/)
 * [2026-05-01, 16:42:41](https://news.ycombinator.com/item?id=47976856) - [Spotify adds 'Verified' badges to distinguish human artists from AI](https://www.bbc.com/news/articles/c5yerr4m1yno)
 * [2026-05-01, 16:21:23](https://news.ycombinator.com/item?id=47976566) - [Apocalypse Early Warning System](https://ews.kylemcdonald.net/)
 * [2026-05-01, 16:17:55](https://news.ycombinator.com/item?id=47976529) - [Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests](https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/)

@@ -31,6 +31,7 @@
 * [2026-04-29, 16:54:40](https://news.ycombinator.com/item?id=47951082) - [Rise of the Forward Deployed Engineer](https://www.hfsresearch.com/research/fde-optional-ai-flywheel-spin/)
 * [2026-04-29, 16:51:38](https://news.ycombinator.com/item?id=47951037) - [Virtualisation on Apple Silicon Macs is different](https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/)
 * [2026-04-29, 16:50:01](https://news.ycombinator.com/item?id=47951007) - [Maryland becomes first state to ban surveillance pricing in grocery stores](https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing)
+* [2026-04-29, 16:49:13](https://news.ycombinator.com/item?id=47950993) - [The USB Situation](https://randsinrepose.com/archives/the-usb-situation/)
 * [2026-04-29, 16:42:13](https://news.ycombinator.com/item?id=47950880) - [Because It Doesn't Have To](https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html)
 * [2026-04-29, 16:20:56](https://news.ycombinator.com/item?id=47950575) - [At Protocol: Building the Social Internet](https://atproto.com/)
 * [2026-04-29, 16:16:39](https://news.ycombinator.com/item?id=47950510) - [FastCGI: 30 years old and still the better protocol for reverse proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
