@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-02](index.md)
 
+* [2026-05-02, 15:28:13](https://news.ycombinator.com/item?id=47987256) - [LLMs consistently pick resumes they generate over ones by humans or other models](https://arxiv.org/abs/2509.00462)
 * [2026-05-02, 13:48:21](https://news.ycombinator.com/item?id=47986390) - [Oil tanker hijacked off Yemen, steers toward Somalia](https://www.yahoo.com/news/articles/yemen-says-oil-tanker-hijacked-121710980.html)
 * [2026-05-02, 13:15:23](https://news.ycombinator.com/item?id=47986136) - [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
 * [2026-05-02, 13:07:50](https://news.ycombinator.com/item?id=47986083) - [Russia Poisons Wikipedia](https://www.bettedangerous.com/p/russia-poisons-wikipedia)
