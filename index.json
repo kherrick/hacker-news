@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-02, 00:09:04",
+      "https://news.ycombinator.com/item?id=47981961"
+    ],
+    [
+      "What did you love about VB6?",
+      "https://evilgeniuslabs.ca/blog/vb6-modern-dotnet-question"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 23:52:36",
+      "https://news.ycombinator.com/item?id=47981856"
+    ],
+    [
+      "U.S. to Withdraw 5k Troops from Germany, Pentagon Says",
+      "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 23:24:10",
+      "https://news.ycombinator.com/item?id=47981669"
+    ],
+    [
+      "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+      "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf"
+    ]
+  ],
+  [
+    [
       "2026-05-01, 20:26:24",
       "https://news.ycombinator.com/item?id=47979839"
     ],
@@ -17,16 +47,6 @@
     [
       "Ti-84 Evo",
       "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 19:56:18",
-      "https://news.ycombinator.com/item?id=47979438"
-    ],
-    [
-      "Show HN: Destiny – Claude Code's fortune Teller skill",
-      "https://github.com/xodn348/destiny"
     ]
   ],
   [
@@ -95,18 +115,8 @@
       "https://news.ycombinator.com/item?id=47977645"
     ],
     [
-      "Artemis II Fault Tolerance",
+      "Artemis II fault tolerance",
       "https://alearningaday.blog/2026/05/01/artemis-ii-fault-tolerance/"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 17:28:45",
-      "https://news.ycombinator.com/item?id=47977498"
-    ],
-    [
-      "AWS stops billing Middle East cloud customers as repairs to war damage drag on",
-      "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/"
     ]
   ],
   [
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=47977134"
     ],
     [
-      "The Gay Jailbreak Technique",
+      "The gay jailbreak technique",
       "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "Apocalypse Early Warning System",
       "https://ews.kylemcdonald.net/"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 15:15:36",
-      "https://news.ycombinator.com/item?id=47975785"
-    ],
-    [
-      "An open letter asking NHS England to keep its code open",
-      "https://keepthingsopen.com"
     ]
   ],
   [
@@ -231,21 +231,11 @@
   ],
   [
     [
-      "2026-05-01, 11:42:12",
-      "https://news.ycombinator.com/item?id=47973635"
-    ],
-    [
-      "A Letter from Dijkstra on APL (1982)",
-      "https://www.jsoftware.com/papers/Dijkstra_Letter.htm"
-    ]
-  ],
-  [
-    [
       "2026-05-01, 11:31:52",
       "https://news.ycombinator.com/item?id=47973547"
     ],
     [
-      "SpaceX rocket set for unintentional Moon landing – well, a piece of it anyway",
+      "SpaceX rocket set for unintentional moon landing – well, a piece of it anyway",
       "https://www.theregister.com/2026/05/01/spacex_debris_landing/"
     ]
   ],
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2026-04-30, 04:41:35",
-      "https://news.ycombinator.com/item?id=47958186"
-    ],
-    [
-      "The Shadow Glass",
-      "https://morrigan-tech.com/blog/the-shadow-glass/"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 22:56:10",
       "https://news.ycombinator.com/item?id=47955789"
     ],
@@ -281,11 +261,21 @@
   ],
   [
     [
+      "2026-04-29, 20:48:17",
+      "https://news.ycombinator.com/item?id=47954394"
+    ],
+    [
+      "Artemis II Photo Timeline",
+      "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 18:06:55",
       "https://news.ycombinator.com/item?id=47952096"
     ],
     [
-      "Historic Tennessee Hotel Is Also Home to the Greatest Duck Tradition (2016)",
+      "Historic Tennessee hotel is also home to the greatest duck tradition (2016)",
       "https://www.audubon.org/magazine/tennessees-most-historic-hotel-also-home-greatest-duck-tradition"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "The smelly baby problem",
       "https://www.worksinprogress.news/p/how-disposable-diapers-conquered"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 05:13:17",
+      "https://news.ycombinator.com/item?id=47944409"
+    ],
+    [
+      "Tvheadend: Self-Hosted IPTV Server",
+      "https://tvheadend.org"
     ]
   ]
 ]
