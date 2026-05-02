@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-02](index.md)
 
+* [2026-05-02, 18:03:42](https://news.ycombinator.com/item?id=47988776) - [NetHack 5.0.0](https://nethack.org/v500/release.html)
+* [2026-05-02, 17:59:18](https://news.ycombinator.com/item?id=47988742) - [California to begin ticketing driverless cars that violate traffic laws](https://www.bbc.com/news/articles/clypjx3rg2go)
+* [2026-05-02, 17:32:29](https://news.ycombinator.com/item?id=47988504) - [Videolan Dav2d](https://code.videolan.org/videolan/dav2d)
+* [2026-05-02, 17:32:07](https://news.ycombinator.com/item?id=47988501) - [Flue is a TypeScript framework for building the next generation of agents](https://flueframework.com/)
 * [2026-05-02, 17:10:35](https://news.ycombinator.com/item?id=47988268) - [Ask HN: Is the Job Market Actually Bad?](https://news.ycombinator.com/item?id=47988268)
+* [2026-05-02, 17:10:18](https://news.ycombinator.com/item?id=47988261) - [Roblox shares plummet 18% as child safety measures weigh on bookings](https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html)
 * [2026-05-02, 15:38:17](https://news.ycombinator.com/item?id=47987333) - [Uber wants to turn its drivers into a sensor grid for AV companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)
 * [2026-05-02, 15:34:25](https://news.ycombinator.com/item?id=47987304) - [Zugzwang](https://en.wikipedia.org/wiki/Zugzwang)
 * [2026-05-02, 15:30:37](https://news.ycombinator.com/item?id=47987278) - [Santa Cruz restaurant changes logo after flurry of negative reviews for AI art](https://www.sfgate.com/food/article/santa-cruz-restaurant-ai-21955920.php)
