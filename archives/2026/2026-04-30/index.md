@@ -30,6 +30,7 @@
 * [2026-04-30, 16:33:24](https://news.ycombinator.com/item?id=47964957) - [Dotcl: Common Lisp Implementation on .NET](https://github.com/dotcl/dotcl)
 * [2026-04-30, 16:29:58](https://news.ycombinator.com/item?id=47964897) - [SatoshiGuesser – Roll for Bitcoin](https://github.com/Pathos0925/SatoshiGuesser)
 * [2026-04-30, 16:09:26](https://news.ycombinator.com/item?id=47964617) - [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+* [2026-04-30, 15:56:48](https://news.ycombinator.com/item?id=47964404) - [Thoughts on Historical Language Models and Talkie-1930](https://resobscura.substack.com/p/are-vintage-llms-the-start-of-a-new)
 * [2026-04-30, 15:31:40](https://news.ycombinator.com/item?id=47964034) - [Spain's parliament will act against massive IP blockages by LaLiga](https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/)
 * [2026-04-30, 15:20:49](https://news.ycombinator.com/item?id=47963868) - [A 1960s art school experiment that redefined creativity](https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/)
 * [2026-04-30, 14:43:02](https://news.ycombinator.com/item?id=47963316) - [Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file](https://honker.dev/)

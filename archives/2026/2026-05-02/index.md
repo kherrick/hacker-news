@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-02](index.md)
 
+* [2026-05-02, 13:07:50](https://news.ycombinator.com/item?id=47986083) - [Russia Poisons Wikipedia](https://www.bettedangerous.com/p/russia-poisons-wikipedia)
 * [2026-05-02, 12:39:52](https://news.ycombinator.com/item?id=47985901) - [An unknown Sega Saturn project has come to light after 29 years](https://32bits.substack.com/p/under-the-microscope-pyramid-unreleased)
 * [2026-05-02, 12:16:16](https://news.ycombinator.com/item?id=47985750) - [Open Design: Use Your Coding Agent as a Design Engine](https://github.com/nexu-io/open-design)
 * [2026-05-02, 12:13:11](https://news.ycombinator.com/item?id=47985725) - [The Century-Long Pause in Fundamental Physics](https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics)
+* [2026-05-02, 12:08:51](https://news.ycombinator.com/item?id=47985704) - [Craig Venter of Human Genome Project Dies at 79](https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome)
+* [2026-05-02, 11:45:17](https://news.ycombinator.com/item?id=47985553) - [Becoming a father shrinks your cerebrum](https://www.economist.com/science-and-technology/2022/10/21/becoming-a-father-shrinks-your-cerebrum)
 * [2026-05-02, 11:11:58](https://news.ycombinator.com/item?id=47985353) - [Pushed by Trump policies, top U.S. battery scientist is moving to Singapore](https://www.science.org/content/article/pushed-trump-policies-top-u-s-battery-scientist-moving-singapore)
 * [2026-05-02, 10:55:25](https://news.ycombinator.com/item?id=47985271) - [GameStop Preparing Offer for eBay](https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de)
 * [2026-05-02, 10:42:55](https://news.ycombinator.com/item?id=47985210) - [Show HN: Piruetas – A self-hosted diary app I built for my girlfriend](https://piruet.app)
