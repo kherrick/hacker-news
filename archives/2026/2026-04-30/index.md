@@ -46,6 +46,7 @@
 * [2026-04-30, 11:08:34](https://news.ycombinator.com/item?id=47960778) - [1.4 GW: battery storage at former Grohnde nuclear power plant](https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html)
 * [2026-04-30, 10:49:18](https://news.ycombinator.com/item?id=47960643) - [How to Disable Firefox's New Emoji Picker](https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/)
 * [2026-04-30, 10:31:17](https://news.ycombinator.com/item?id=47960507) - [Granite 4.1: IBM's 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
+* [2026-04-30, 08:56:05](https://news.ycombinator.com/item?id=47959907) - [Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity](https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/)
 * [2026-04-30, 07:52:12](https://news.ycombinator.com/item?id=47959513) - [DataCenter.FM – background noise app featuring the sound of the AI bubble](https://datacenter.fm/)
 * [2026-04-30, 07:43:55](https://news.ycombinator.com/item?id=47959463) - [Mozilla's opposition to Chrome's Prompt API](https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313)
 * [2026-04-30, 07:43:55](https://news.ycombinator.com/item?id=47959463) - [Mozilla's Opposition to Chrome's Prompt API](https://github.com/mozilla/standards-positions/issues/1213)

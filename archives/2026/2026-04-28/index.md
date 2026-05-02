@@ -23,6 +23,7 @@
 * [2026-04-28, 19:19:06](https://news.ycombinator.com/item?id=47939246) - [I Got Sick of Remembering Port Numbers](https://gregraiz.com/blog/local-vibe/)
 * [2026-04-28, 19:17:39](https://news.ycombinator.com/item?id=47939227) - [Using a 1978 terminal in 2026 (DEC VT-100)](https://nikhiljha.com/posts/vt100/)
 * [2026-04-28, 19:13:26](https://news.ycombinator.com/item?id=47939158) - [The Church Rock Uranium Mill Spill](https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill)
+* [2026-04-28, 19:12:46](https://news.ycombinator.com/item?id=47939149) - [Sourcefeed – a pop-up RSS service](https://www.sourcefeed.app/)
 * [2026-04-28, 19:10:14](https://news.ycombinator.com/item?id=47939105) - [C, Just In Time!](https://dyne.org/cjit/)
 * [2026-04-28, 19:08:47](https://news.ycombinator.com/item?id=47939079) - [A playable DOOM MCP app](https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/)
 * [2026-04-28, 18:47:09](https://news.ycombinator.com/item?id=47938756) - [Bankruptcies increase 11.9 percent](https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent)
