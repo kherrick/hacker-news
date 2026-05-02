@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-02](index.md)
 
+* [2026-05-02, 13:48:21](https://news.ycombinator.com/item?id=47986390) - [Oil tanker hijacked off Yemen, steers toward Somalia](https://www.yahoo.com/news/articles/yemen-says-oil-tanker-hijacked-121710980.html)
+* [2026-05-02, 13:15:23](https://news.ycombinator.com/item?id=47986136) - [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
 * [2026-05-02, 13:07:50](https://news.ycombinator.com/item?id=47986083) - [Russia Poisons Wikipedia](https://www.bettedangerous.com/p/russia-poisons-wikipedia)
 * [2026-05-02, 12:39:52](https://news.ycombinator.com/item?id=47985901) - [An unknown Sega Saturn project has come to light after 29 years](https://32bits.substack.com/p/under-the-microscope-pyramid-unreleased)
 * [2026-05-02, 12:16:16](https://news.ycombinator.com/item?id=47985750) - [Open Design: Use Your Coding Agent as a Design Engine](https://github.com/nexu-io/open-design)
