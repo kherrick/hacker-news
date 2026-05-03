@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-03, 07:25:20",
+      "https://news.ycombinator.com/item?id=47994327"
+    ],
+    [
+      "Executable installer will stop being released with Python 3.16",
+      "https://www.python.org/downloads/release/pymanager-261/"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 06:33:38",
       "https://news.ycombinator.com/item?id=47994012"
     ],
@@ -27,16 +37,6 @@
     [
       "AI, Intimacy, and the Data You Never Meant to Share",
       "https://fshot.org/techzone/the-algorithm-knows.php"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 02:36:09",
-      "https://news.ycombinator.com/item?id=47992772"
-    ],
-    [
-      "Open source does not imply open community",
-      "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-05-02, 08:37:39",
-      "https://news.ycombinator.com/item?id=47984589"
-    ],
-    [
-      "Dabbling in Erlang, part 2: A minimal introduction (2013)",
-      "https://agis.io/post/dabbling-in-erlang-a-minimal-introduction/"
-    ]
-  ],
-  [
-    [
       "2026-05-02, 00:12:00",
       "https://news.ycombinator.com/item?id=47981979"
     ],
@@ -221,22 +211,22 @@
   ],
   [
     [
-      "2026-04-30, 23:54:36",
-      "https://news.ycombinator.com/item?id=47969850"
-    ],
-    [
-      "Simple and correct snapshot isolation",
-      "https://remy.wang/blog/si.html"
-    ]
-  ],
-  [
-    [
       "2026-04-30, 22:25:16",
       "https://news.ycombinator.com/item?id=47969045"
     ],
     [
       "San Francisco streets with confusingly similar names",
       "https://j-nelson.net/san-francisco-streets-with-similar-names/"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 19:14:41",
+      "https://news.ycombinator.com/item?id=47966975"
+    ],
+    [
+      "Forging ZK proofs to mint arbitrary DUSK tokens",
+      "https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Barman – Backup and Recovery Manager for PostgreSQL",
       "https://github.com/EnterpriseDB/barman"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 19:12:46",
+      "https://news.ycombinator.com/item?id=47939149"
+    ],
+    [
+      "Sourcefeed – a pop-up RSS service",
+      "https://www.sourcefeed.app/"
     ]
   ]
 ]
