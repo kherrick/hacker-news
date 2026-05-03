@@ -69,6 +69,7 @@
 * [2026-04-29, 12:38:50](https://news.ycombinator.com/item?id=47947490) - [He asked AI to count carbs 27000 times. It couldn't give the same answer twice](https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/)
 * [2026-04-29, 12:24:53](https://news.ycombinator.com/item?id=47947369) - [Show HN: Adblock-rust Manager – Firefox extension to enable the Brave ad blocker](https://github.com/electricant/adblock-rust-manager)
 * [2026-04-29, 12:18:59](https://news.ycombinator.com/item?id=47947318) - [Coffee with a splash of physics: how to make the most out of your brew](https://physicsworld.com/a/coffee-with-a-splash-of-physics-how-to-make-the-most-out-of-your-brew/)
+* [2026-04-29, 12:17:24](https://news.ycombinator.com/item?id=47947294) - [Buckets and objects are not enough](https://sagi.org/posts/buckets-and-objects-are-not-enough/)
 * [2026-04-29, 12:00:17](https://news.ycombinator.com/item?id=47947125) - [Stardex Is Hiring a Founding Customer Success Lead](https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead)
 * [2026-04-29, 11:46:05](https://news.ycombinator.com/item?id=47946990) - [Compositing and Blending – Exploring the math and intuition behind blend modes](https://nik.digital/posts/compositing-blending)
 * [2026-04-29, 11:42:46](https://news.ycombinator.com/item?id=47946958) - [HashiCorp co-founder says GitHub 'no longer a place for serious work'](https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/)

@@ -40,6 +40,7 @@
 * [2026-05-01, 15:00:07](https://news.ycombinator.com/item?id=47975570) - [Ask HN: Who wants to be hired? (May 2026)](https://news.ycombinator.com/item?id=47975570)
 * [2026-05-01, 14:52:07](https://news.ycombinator.com/item?id=47975472) - [GhostBox – disposable little machines from the Global Free Tier.](https://www.ghost.charity/)
 * [2026-05-01, 14:45:47](https://news.ycombinator.com/item?id=47975392) - [Sally McKee, who coined the term \"the Memory Wall\", has died](https://www.online-tribute.com/SallyMcKee)
+* [2026-05-01, 14:39:42](https://news.ycombinator.com/item?id=47975322) - [Automatic Brightness in Plasma](https://zamundaaa.github.io/wayland,display/2026/04/24/automatic-brightness.html)
 * [2026-05-01, 13:38:27](https://news.ycombinator.com/item?id=47974682) - [US–Indian space mission maps extreme subsidence in Mexico City](https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html)
 * [2026-05-01, 13:02:30](https://news.ycombinator.com/item?id=47974307) - [Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case](https://arxiv.org/abs/2604.25679)
 * [2026-05-01, 11:58:11](https://news.ycombinator.com/item?id=47973755) - [Running Adobe's 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854)
