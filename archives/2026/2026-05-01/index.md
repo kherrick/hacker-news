@@ -6,6 +6,7 @@
 
 * [2026-05-01, 23:52:36](https://news.ycombinator.com/item?id=47981856) - [U.S. to Withdraw 5k Troops from Germany, Pentagon Says](https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html)
 * [2026-05-01, 23:24:10](https://news.ycombinator.com/item?id=47981669) - [A Report on Burnout in Open Source Software Communities (2025) [pdf]](https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf)
+* [2026-05-01, 21:02:04](https://news.ycombinator.com/item?id=47980279) - [Windows quality update: Progress we've made since March](https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/)
 * [2026-05-01, 20:26:24](https://news.ycombinator.com/item?id=47979839) - [Credit cards are vulnerable to brute force attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
 * [2026-05-01, 20:06:59](https://news.ycombinator.com/item?id=47979583) - [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
 * [2026-05-01, 19:56:18](https://news.ycombinator.com/item?id=47979438) - [Show HN: Destiny – Claude Code's fortune Teller skill](https://github.com/xodn348/destiny)
@@ -52,6 +53,7 @@
 * [2026-05-01, 09:39:07](https://news.ycombinator.com/item?id=47972807) - [The Rotary Un-Smartphone](https://skysedge.com/telecom/RUSP/index.html)
 * [2026-05-01, 09:10:02](https://news.ycombinator.com/item?id=47972659) - [Advanced Quantization Algorithm for LLMs](https://github.com/intel/auto-round)
 * [2026-05-01, 08:43:45](https://news.ycombinator.com/item?id=47972511) - [Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables](https://github.com/darrylmorley/whatcable)
+* [2026-05-01, 08:36:19](https://news.ycombinator.com/item?id=47972481) - [When Dawkins met Claude – Could this AI be conscious?](https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/)
 * [2026-05-01, 08:29:31](https://news.ycombinator.com/item?id=47972447) - [Grok 4.3](https://docs.x.ai/developers/models/grok-4.3)
 * [2026-05-01, 08:14:07](https://news.ycombinator.com/item?id=47972367) - [Our agent found a bug with WireGuard in Google Kubernetes Engine](https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes)
 * [2026-05-01, 07:44:17](https://news.ycombinator.com/item?id=47972213) - [Canonical/Ubuntu have been under DDoS for more than 15h](https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==)

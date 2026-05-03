@@ -6,6 +6,7 @@
 
 * [2026-04-30, 23:54:36](https://news.ycombinator.com/item?id=47969850) - [Simple and Correct Snapshot Isolation](https://remy.wang/blog/si.html)
 * [2026-04-30, 22:48:51](https://news.ycombinator.com/item?id=47969288) - [The Internet Is Falling Down- CPanel/WHM Authentication Bypass CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)
+* [2026-04-30, 22:25:16](https://news.ycombinator.com/item?id=47969045) - [San Francisco streets with confusingly similar names](https://j-nelson.net/san-francisco-streets-with-similar-names/)
 * [2026-04-30, 22:18:57](https://news.ycombinator.com/item?id=47968982) - [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html)
 * [2026-04-30, 20:55:12](https://news.ycombinator.com/item?id=47968112) - [Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell](https://pu.dev/)
 * [2026-04-30, 20:49:21](https://news.ycombinator.com/item?id=47968035) - [SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding](https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html)
@@ -40,6 +41,7 @@
 * [2026-04-30, 14:34:36](https://news.ycombinator.com/item?id=47963163) - [The More Young People Use AI, the More They Hate It](https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai)
 * [2026-04-30, 14:26:38](https://news.ycombinator.com/item?id=47963026) - [I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens](https://burla-cloud.github.io/examples/airbnb-burla-demo/)
 * [2026-04-30, 14:03:43](https://news.ycombinator.com/item?id=47962681) - [Little Magazines Are Back](https://wsjfreeexpression.substack.com/p/little-magazines-are-back)
+* [2026-04-30, 14:01:26](https://news.ycombinator.com/item?id=47962645) - [The IBM Granite 4.1 family of models](https://research.ibm.com/blog/granite-4-1-ai-foundation-models)
 * [2026-04-30, 13:54:20](https://news.ycombinator.com/item?id=47962548) - [How an Oil Refinery Works](https://www.construction-physics.com/p/how-an-oil-refinery-works)
 * [2026-04-30, 13:45:10](https://news.ycombinator.com/item?id=47962386) - [The FCC is about to ban 21% of its test labs today. I mapped them all](https://markready.io/blog/fcc-accredited-test-labs-complete-guide)
 * [2026-04-30, 13:38:45](https://news.ycombinator.com/item?id=47962271) - [Also-RANS: Asymmetric Numeral Systems for Entropy Coding](https://fergusfinn.com/blog/understanding-rans/)
