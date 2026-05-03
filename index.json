@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-05-03, 09:18:25",
-      "https://news.ycombinator.com/item?id=47995065"
-    ],
-    [
-      "Thoth – open-source Local-first AI Assistant",
-      "https://github.com/siddsachar/Thoth"
-    ]
-  ],
-  [
-    [
       "2026-05-03, 09:14:56",
       "https://news.ycombinator.com/item?id=47995037"
     ],
@@ -47,16 +37,6 @@
     [
       "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
       "https://acai.sh/blog/specsmaxxing"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 04:05:28",
-      "https://news.ycombinator.com/item?id=47993235"
-    ],
-    [
-      "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2026-05-01, 16:52:43",
+      "https://news.ycombinator.com/item?id=47977026"
+    ],
+    [
+      "DeepSeek V4 – almost on the frontier",
+      "https://simonwillison.net/2026/Apr/24/deepseek-v4/"
+    ]
+  ],
+  [
+    [
       "2026-05-01, 07:28:55",
       "https://news.ycombinator.com/item?id=47972114"
     ],
@@ -247,6 +237,16 @@
     [
       "Group averages obscure how an individual's brain controls behavior: study",
       "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 19:46:29",
+      "https://news.ycombinator.com/item?id=47967340"
+    ],
+    [
+      "Benchmarking a Bug Scanner",
+      "https://blog.detail.dev/posts/bug-scanner/"
     ]
   ],
   [
