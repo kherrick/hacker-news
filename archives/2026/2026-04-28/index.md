@@ -14,6 +14,7 @@
 * [2026-04-28, 22:14:29](https://news.ycombinator.com/item?id=47941590) - [Carrot Disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
 * [2026-04-28, 21:24:39](https://news.ycombinator.com/item?id=47941019) - [The Accidental Ancestor – How Verifying Numbers Shaped Modern Hashing](https://0xkrt26.github.io/math_behind_security/2026/04/28/the-accidental-ancestor-Luhn-algorithm.html)
 * [2026-04-28, 21:17:40](https://news.ycombinator.com/item?id=47940921) - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
+* [2026-04-28, 21:08:29](https://news.ycombinator.com/item?id=47940789) - [Denuvo has been cracked in all single-player games it previously protected](https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks)
 * [2026-04-28, 20:50:08](https://news.ycombinator.com/item?id=47940545) - [BP profits more than double as Iran war sends oil prices higher](https://www.bbc.com/news/articles/c2eveyvgn9no)
 * [2026-04-28, 20:38:21](https://news.ycombinator.com/item?id=47940389) - [I Won a Championship That Doesn't Exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
 * [2026-04-28, 20:30:35](https://news.ycombinator.com/item?id=47940271) - [Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles](https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/)
