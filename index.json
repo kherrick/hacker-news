@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-05-03, 22:13:20",
+      "https://news.ycombinator.com/item?id=48002136"
+    ],
+    [
+      "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "https://github.com/aattaran/deepclaude"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 22:08:47",
+      "https://news.ycombinator.com/item?id=48002089"
+    ],
+    [
+      "Introduction to Atom",
+      "https://validator.w3.org/feed/docs/atom.html"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 19:31:35",
       "https://news.ycombinator.com/item?id=48000507"
     ],
     [
       "Make Your Own Microforest",
       "https://ambrook.com/offrange/environment/a-forest-in-your-pocket"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 19:23:20",
+      "https://news.ycombinator.com/item?id=48000420"
+    ],
+    [
+      "Flock repeatedly flags 76-year old Grandmother for arrest, erroring zero for \"O\"",
+      "https://guessingheadlights.com/colorado-grandma-keeps-getting-pulled-over-because-police-cameras-cannot-tell-the-difference-between-a-zero-and-the-letter-o/"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Why TUIs Are Back",
       "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 18:17:18",
-      "https://news.ycombinator.com/item?id=47999776"
-    ],
-    [
-      "Talking to Transformers",
-      "https://miraos.org/blog/2026/05/02/talking-to-transformers"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Metal Gear Solid 2's source code has been leaked on 4chan",
       "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 16:35:20",
-      "https://news.ycombinator.com/item?id=47998664"
-    ],
-    [
-      "Underwater robot tracks sperm whale conversations in real time",
-      "https://www.reuters.com/business/environment/underwater-robot-tracks-sperm-whale-conversations-real-time-2026-05-01/"
     ]
   ],
   [
@@ -201,32 +211,22 @@
   ],
   [
     [
-      "2026-05-03, 00:01:14",
-      "https://news.ycombinator.com/item?id=47991802"
-    ],
-    [
-      "A couple million lines of Haskell: Production engineering at Mercury",
-      "https://blog.haskell.org/a-couple-million-lines-of-haskell/"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 12:44:02",
-      "https://news.ycombinator.com/item?id=47985932"
-    ],
-    [
-      "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
-      "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/"
-    ]
-  ],
-  [
-    [
       "2026-05-01, 15:13:56",
       "https://news.ycombinator.com/item?id=47975759"
     ],
     [
       "How did Banksy erect a statue in Central London?",
       "https://www.bbc.co.uk/news/articles/cn4pvyw82exo"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 14:39:42",
+      "https://news.ycombinator.com/item?id=47975322"
+    ],
+    [
+      "Automatic Brightness in Plasma",
+      "https://zamundaaa.github.io/wayland,display/2026/04/24/automatic-brightness.html"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-04-29, 13:40:20",
-      "https://news.ycombinator.com/item?id=47948338"
+      "2026-04-29, 12:17:24",
+      "https://news.ycombinator.com/item?id=47947294"
     ],
     [
-      "Cordouan Lighthouse",
-      "https://en.wikipedia.org/wiki/Cordouan_Lighthouse"
+      "Buckets and objects are not enough",
+      "https://sagi.org/posts/buckets-and-objects-are-not-enough/"
     ]
   ],
   [
