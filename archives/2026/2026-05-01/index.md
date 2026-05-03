@@ -50,6 +50,7 @@
 * [2026-05-01, 10:28:12](https://news.ycombinator.com/item?id=47973108) - [After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber](https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/)
 * [2026-05-01, 10:25:41](https://news.ycombinator.com/item?id=47973093) - [Show HN: Loopsy, a way for terminals and AI agents on different machines to talk](https://github.com/leox255/loopsy)
 * [2026-05-01, 10:23:52](https://news.ycombinator.com/item?id=47973084) - [A beginner's guide to Sourcehut (2025)](https://btxx.org/posts/beginners-guide-sourcehut/)
+* [2026-05-01, 09:56:47](https://news.ycombinator.com/item?id=47972922) - [What Is Z-Angle Memory and Why Is Intel Developing It?](https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/)
 * [2026-05-01, 09:52:15](https://news.ycombinator.com/item?id=47972888) - [Show HN: Perfect Bluetooth MIDI for Windows](https://news.ycombinator.com/item?id=47972888)
 * [2026-05-01, 09:39:07](https://news.ycombinator.com/item?id=47972807) - [The Rotary Un-Smartphone](https://skysedge.com/telecom/RUSP/index.html)
 * [2026-05-01, 09:10:02](https://news.ycombinator.com/item?id=47972659) - [Advanced Quantization Algorithm for LLMs](https://github.com/intel/auto-round)
