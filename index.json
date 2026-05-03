@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-03, 04:05:28",
+      "https://news.ycombinator.com/item?id=47993235"
+    ],
+    [
+      "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 02:53:29",
       "https://news.ycombinator.com/item?id=47992859"
     ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=47992772"
     ],
     [
-      "Open Source Does Not Imply Open Community",
+      "Open source does not imply open community",
       "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 01:38:38",
+      "https://news.ycombinator.com/item?id=47992446"
+    ],
+    [
+      "Care Homes and Hotels in Japan Shut as Expansion Strategy Unravels",
+      "https://www.newsonjapan.com/article/149075.php"
     ]
   ],
   [
@@ -41,42 +61,12 @@
   ],
   [
     [
-      "2026-05-03, 00:31:58",
-      "https://news.ycombinator.com/item?id=47991995"
-    ],
-    [
-      "Am I the only one who hates delivery robots?",
-      "https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban"
-    ]
-  ],
-  [
-    [
       "2026-05-03, 00:01:14",
       "https://news.ycombinator.com/item?id=47991802"
     ],
     [
       "A Couple Million Lines of Haskell: Production Engineering at Mercury",
       "https://blog.haskell.org/a-couple-million-lines-of-haskell/"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 22:45:23",
-      "https://news.ycombinator.com/item?id=47991350"
-    ],
-    [
-      "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
-      "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 22:03:15",
-      "https://news.ycombinator.com/item?id=47991018"
-    ],
-    [
-      "Voice-AI-for-Beginners – A curated learning path for developers",
-      "https://github.com/mahimairaja/voiceai"
     ]
   ],
   [
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2026-05-02, 17:59:18",
-      "https://news.ycombinator.com/item?id=47988742"
-    ],
-    [
-      "California to begin ticketing driverless cars that violate traffic laws",
-      "https://www.bbc.com/news/articles/clypjx3rg2go"
-    ]
-  ],
-  [
-    [
       "2026-05-02, 17:40:55",
       "https://news.ycombinator.com/item?id=47988592"
     ],
@@ -187,26 +167,6 @@
     [
       "Dav2d",
       "https://code.videolan.org/videolan/dav2d"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 13:15:23",
-      "https://news.ycombinator.com/item?id=47986136"
-    ],
-    [
-      "Refusal in Language Models Is Mediated by a Single Direction",
-      "https://arxiv.org/abs/2406.11717"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 12:16:16",
-      "https://news.ycombinator.com/item?id=47985750"
-    ],
-    [
-      "Open Design: Use Your Coding Agent as a Design Engine",
-      "https://github.com/nexu-io/open-design"
     ]
   ],
   [
@@ -241,6 +201,26 @@
   ],
   [
     [
+      "2026-05-01, 21:02:04",
+      "https://news.ycombinator.com/item?id=47980279"
+    ],
+    [
+      "Windows quality update: Progress we've made since March",
+      "https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 08:36:19",
+      "https://news.ycombinator.com/item?id=47972481"
+    ],
+    [
+      "When Dawkins met Claude – Could this AI be conscious?",
+      "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/"
+    ]
+  ],
+  [
+    [
       "2026-05-01, 07:28:55",
       "https://news.ycombinator.com/item?id=47972114"
     ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2026-04-30, 22:25:16",
+      "https://news.ycombinator.com/item?id=47969045"
+    ],
+    [
+      "San Francisco streets with confusingly similar names",
+      "https://j-nelson.net/san-francisco-streets-with-similar-names/"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 14:03:43",
       "https://news.ycombinator.com/item?id=47962681"
     ],
     [
       "Little Magazines Are Back",
       "https://wsjfreeexpression.substack.com/p/little-magazines-are-back"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 14:01:26",
+      "https://news.ycombinator.com/item?id=47962645"
+    ],
+    [
+      "The IBM Granite 4.1 family of models",
+      "https://research.ibm.com/blog/granite-4-1-ai-foundation-models"
     ]
   ],
   [
