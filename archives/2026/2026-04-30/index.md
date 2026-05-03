@@ -24,6 +24,7 @@
 * [2026-04-30, 18:49:20](https://news.ycombinator.com/item?id=47966668) - [Utilyze measures how efficiently your GPU is doing useful work](https://github.com/systalyze/utilyze)
 * [2026-04-30, 18:45:22](https://news.ycombinator.com/item?id=47966625) - [Does Postgres Scale?](https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres)
 * [2026-04-30, 18:33:03](https://news.ycombinator.com/item?id=47966484) - [The Human Creativity Benchmark – Evaluating Generative AI in Creative Work](https://contralabs.com/research/human-creativity-benchmark)
+* [2026-04-30, 18:25:18](https://news.ycombinator.com/item?id=47966392) - [Haskell: Debugging](https://wiki.haskell.org/Debugging)
 * [2026-04-30, 18:14:18](https://news.ycombinator.com/item?id=47966254) - [Full-Text Search with DuckDB](https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html)
 * [2026-04-30, 18:01:14](https://news.ycombinator.com/item?id=47966084) - [SFO Gate Explorer](https://www.flysfo.com/passengers/services/gate-explorer)
 * [2026-04-30, 17:42:11](https://news.ycombinator.com/item?id=47965835) - [Recovering files from beyond the grave using PhotoRec](https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/)
