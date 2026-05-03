@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-03](index.md)
 
+* [2026-05-03, 15:06:16](https://news.ycombinator.com/item?id=47997679) - [Business Owners Are Worst Clients](https://zencapital.substack.com/p/business-owners-are-worst-clients)
+* [2026-05-03, 14:48:32](https://news.ycombinator.com/item?id=47997468) - [Redistricting and the Supreme Court have cut voters out of US House races](https://www.reuters.com/legal/government/how-redistricting-supreme-court-have-cut-voters-out-us-house-races-2026-05-03/)
+* [2026-05-03, 14:43:27](https://news.ycombinator.com/item?id=47997418) - [Mercedes-Benz commits to bringing back physical buttons](https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/)
+* [2026-05-03, 14:36:14](https://news.ycombinator.com/item?id=47997358) - [Utah to hold websites liable for users who mask their location with VPNs](https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law)
+* [2026-05-03, 14:34:01](https://news.ycombinator.com/item?id=47997339) - [Breaking Up with WordPress After Two Decades](https://yusufaytas.com/breaking-up-with-wordpress-after-two-decades)
+* [2026-05-03, 14:02:23](https://news.ycombinator.com/item?id=47997056) - [Alert-Driven Monitoring](https://simpleobservability.com/docs/alert-driven-monitoring)
 * [2026-05-03, 11:19:53](https://news.ycombinator.com/item?id=47995815) - [All Four Sentinel-1 Satellites Are Now Live](https://orbitaltoday.com/2026/05/03/all-four-sentinel-1-satellites-are-now-live-and-europes-earth-watch-just-got-stronger/)
 * [2026-05-03, 10:55:30](https://news.ycombinator.com/item?id=47995649) - [Systemd-manager-TUI: A TUI application for managing systemd services](https://github.com/Matheus-git/systemd-manager-tui)
 * [2026-05-03, 09:26:48](https://news.ycombinator.com/item?id=47995125) - [Investors pile into clean energy as Iran war drives push for energy security](https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a)

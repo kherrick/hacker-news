@@ -15,6 +15,7 @@
 * [2026-05-02, 21:14:29](https://news.ycombinator.com/item?id=47990606) - [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/)
 * [2026-05-02, 20:46:30](https://news.ycombinator.com/item?id=47990318) - [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)
 * [2026-05-02, 20:42:20](https://news.ycombinator.com/item?id=47990284) - [Neanderthals ran 'fat factories' 125,000 years ago](https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago)
+* [2026-05-02, 20:16:27](https://news.ycombinator.com/item?id=47990047) - [Automating Hermitage to see how transactions differ in MySQL and MariaDB](https://theconsensus.dev/p/2026/05/02/automating-hermitage.html)
 * [2026-05-02, 20:03:08](https://news.ycombinator.com/item?id=47989931) - [I Do Not Recommend Bitwarden](https://xn--gckvb8fzb.com/i-do-not-recommend-bitwarden/)
 * [2026-05-02, 19:57:26](https://news.ycombinator.com/item?id=47989883) - [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
 * [2026-05-02, 19:03:54](https://news.ycombinator.com/item?id=47989372) - [Canonical Under Attack](https://status.canonical.com)
