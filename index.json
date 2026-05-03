@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-03, 11:19:53",
+      "https://news.ycombinator.com/item?id=47995815"
+    ],
+    [
+      "All Four Sentinel-1 Satellites Are Now Live",
+      "https://orbitaltoday.com/2026/05/03/all-four-sentinel-1-satellites-are-now-live-and-europes-earth-watch-just-got-stronger/"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 10:55:30",
       "https://news.ycombinator.com/item?id=47995649"
     ],
@@ -37,26 +47,6 @@
     [
       "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
       "https://acai.sh/blog/specsmaxxing"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 02:53:29",
-      "https://news.ycombinator.com/item?id=47992859"
-    ],
-    [
-      "Windows API is Successful Cross-Platform API (2024)",
-      "https://retrocoding.net/windows-api-is-successful-cross-platform-api"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 02:42:43",
-      "https://news.ycombinator.com/item?id=47992802"
-    ],
-    [
-      "AI, Intimacy, and the Data You Never Meant to Share",
-      "https://fshot.org/techzone/the-algorithm-knows.php"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2026-05-01, 13:02:30",
+      "https://news.ycombinator.com/item?id=47974307"
+    ],
+    [
+      "Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case",
+      "https://arxiv.org/abs/2604.25679"
+    ]
+  ],
+  [
+    [
       "2026-05-01, 07:28:55",
       "https://news.ycombinator.com/item?id=47972114"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-04-30, 18:49:20",
+      "https://news.ycombinator.com/item?id=47966668"
+    ],
+    [
+      "Utilyze measures how efficiently your GPU is doing useful work",
+      "https://github.com/systalyze/utilyze"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 09:12:23",
       "https://news.ycombinator.com/item?id=47960015"
     ],
@@ -287,16 +297,6 @@
     [
       "Because it doesn't have to",
       "https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 19:12:46",
-      "https://news.ycombinator.com/item?id=47939149"
-    ],
-    [
-      "Sourcefeed – a pop-up RSS service",
-      "https://www.sourcefeed.app/"
     ]
   ]
 ]
