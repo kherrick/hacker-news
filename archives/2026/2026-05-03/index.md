@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-03](index.md)
 
+* [2026-05-03, 16:29:07](https://news.ycombinator.com/item?id=47998601) - [Uncle Bob: It's Over](https://old.reddit.com/r/vibecoding/comments/1srfqm0/uncle_bob_its_over/)
+* [2026-05-03, 15:55:59](https://news.ycombinator.com/item?id=47998225) - [For thirty years I programmed with Phish on, every day](https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html)
+* [2026-05-03, 15:32:05](https://news.ycombinator.com/item?id=47997947) - [A Desktop Made for One](https://isene.org/2026/05/Audience-of-One.html)
 * [2026-05-03, 15:06:16](https://news.ycombinator.com/item?id=47997679) - [Business Owners Are Worst Clients](https://zencapital.substack.com/p/business-owners-are-worst-clients)
 * [2026-05-03, 14:49:56](https://news.ycombinator.com/item?id=47997486) - [Security Through Obscurity Is Not Bad](https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/)
 * [2026-05-03, 14:48:32](https://news.ycombinator.com/item?id=47997468) - [Redistricting and the Supreme Court have cut voters out of US House races](https://www.reuters.com/legal/government/how-redistricting-supreme-court-have-cut-voters-out-us-house-races-2026-05-03/)
 * [2026-05-03, 14:43:27](https://news.ycombinator.com/item?id=47997418) - [Mercedes-Benz commits to bringing back physical buttons](https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/)
+* [2026-05-03, 14:42:27](https://news.ycombinator.com/item?id=47997403) - [The Hiddn Financial Bubble in AI Infrastructure [pdf]](https://financial-ai-bubble.pagey.site/The-Hidden-Financial-Bubble-in-AI-Infrastructure.pdf)
 * [2026-05-03, 14:36:14](https://news.ycombinator.com/item?id=47997358) - [Utah to hold websites liable for users who mask their location with VPNs](https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law)
 * [2026-05-03, 14:34:01](https://news.ycombinator.com/item?id=47997339) - [Breaking Up with WordPress After Two Decades](https://yusufaytas.com/breaking-up-with-wordpress-after-two-decades)
 * [2026-05-03, 14:13:23](https://news.ycombinator.com/item?id=47997138) - [Porsche will contest Laguna Seca in historic colors of the Apple Computer livery](https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html)

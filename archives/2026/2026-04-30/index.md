@@ -62,6 +62,7 @@
 * [2026-04-30, 11:08:34](https://news.ycombinator.com/item?id=47960778) - [1.4 GW: battery storage at former Grohnde nuclear power plant](https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html)
 * [2026-04-30, 10:49:18](https://news.ycombinator.com/item?id=47960643) - [How to Disable Firefox's New Emoji Picker](https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/)
 * [2026-04-30, 10:31:17](https://news.ycombinator.com/item?id=47960507) - [Granite 4.1: IBM's 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
+* [2026-04-30, 09:28:37](https://news.ycombinator.com/item?id=47960108) - [I Built SpecDD Because AI Kept Forgetting What We Were Building](https://specdd.ai/articles/i-built-specdd-because-ai-kept-forgetting-what-we-were-building/)
 * [2026-04-30, 09:12:23](https://news.ycombinator.com/item?id=47960015) - [Inventions for battery reuse and recycling increase more than 7-fold in last 10y](https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade)
 * [2026-04-30, 08:56:05](https://news.ycombinator.com/item?id=47959907) - [Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity](https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/)
 * [2026-04-30, 07:52:12](https://news.ycombinator.com/item?id=47959513) - [DataCenter.FM – background noise app featuring the sound of the AI bubble](https://datacenter.fm/)
