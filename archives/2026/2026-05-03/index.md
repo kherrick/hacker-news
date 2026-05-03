@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-03](index.md)
 
+* [2026-05-03, 10:55:30](https://news.ycombinator.com/item?id=47995649) - [Systemd-manager-TUI: A TUI application for managing systemd services](https://github.com/Matheus-git/systemd-manager-tui)
+* [2026-05-03, 09:26:48](https://news.ycombinator.com/item?id=47995125) - [Investors pile into clean energy as Iran war drives push for energy security](https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a)
+* [2026-05-03, 09:18:25](https://news.ycombinator.com/item?id=47995065) - [Thoth – open-source Local-first AI Assistant](https://github.com/siddsachar/Thoth)
+* [2026-05-03, 09:14:56](https://news.ycombinator.com/item?id=47995037) - [Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web)
 * [2026-05-03, 07:25:20](https://news.ycombinator.com/item?id=47994327) - [Executable installer will stop being released with Python 3.16](https://www.python.org/downloads/release/pymanager-261/)
 * [2026-05-03, 06:33:38](https://news.ycombinator.com/item?id=47994012) - [Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing)
 * [2026-05-03, 04:05:28](https://news.ycombinator.com/item?id=47993235) - [Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)
