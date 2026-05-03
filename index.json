@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-05-03, 02:53:29",
+      "https://news.ycombinator.com/item?id=47992859"
+    ],
+    [
+      "Windows API is Successful Cross-Platform API (2024)",
+      "https://retrocoding.net/windows-api-is-successful-cross-platform-api"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 02:42:43",
       "https://news.ycombinator.com/item?id=47992802"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=47991802"
     ],
     [
-      "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+      "A couple million lines of Haskell: Production engineering at Mercury",
       "https://blog.haskell.org/a-couple-million-lines-of-haskell/"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=47990318"
     ],
     [
-      "This Month in Ladybird - April 2026",
+      "This Month in Ladybird – April 2026",
       "https://ladybird.org/newsletter/2026-04-30/"
     ]
   ],
@@ -137,16 +147,6 @@
     [
       "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
       "https://github.com/microsoft/vscode/pull/310226"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 18:03:42",
-      "https://news.ycombinator.com/item?id=47988776"
-    ],
-    [
-      "NetHack 5.0.0",
-      "https://nethack.org/v500/release.html"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2026-05-01, 21:02:04",
+      "https://news.ycombinator.com/item?id=47980279"
+    ],
+    [
+      "Windows quality update: Progress we've made since March",
+      "https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/"
+    ]
+  ],
+  [
+    [
       "2026-05-01, 08:36:19",
       "https://news.ycombinator.com/item?id=47972481"
     ],
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2026-04-30, 22:35:36",
+      "https://news.ycombinator.com/item?id=47969142"
+    ],
+    [
+      "Group averages obscure how an individual's brain controls behavior: study",
+      "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 22:25:16",
       "https://news.ycombinator.com/item?id=47969045"
     ],
@@ -225,7 +245,7 @@
       "https://news.ycombinator.com/item?id=47966975"
     ],
     [
-      "Forging ZK proofs to mint arbitrary DUSK tokens",
+      "Unverified Evaluations in Dusk's PLONK",
       "https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/"
     ]
   ],
@@ -237,16 +257,6 @@
     [
       "Little magazines are back",
       "https://wsjfreeexpression.substack.com/p/little-magazines-are-back"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 14:01:26",
-      "https://news.ycombinator.com/item?id=47962645"
-    ],
-    [
-      "The IBM Granite 4.1 family of models",
-      "https://research.ibm.com/blog/granite-4-1-ai-foundation-models"
     ]
   ],
   [
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=47950880"
     ],
     [
-      "Because It Doesn't Have To",
+      "Because it doesn't have to",
       "https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 13:54:48",
-      "https://news.ycombinator.com/item?id=47948526"
-    ],
-    [
-      "Barman – Backup and Recovery Manager for PostgreSQL",
-      "https://github.com/EnterpriseDB/barman"
     ]
   ],
   [
