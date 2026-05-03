@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-30](index.md)
 
+* [2026-04-30, 23:54:36](https://news.ycombinator.com/item?id=47969850) - [Simple and Correct Snapshot Isolation](https://remy.wang/blog/si.html)
 * [2026-04-30, 22:48:51](https://news.ycombinator.com/item?id=47969288) - [The Internet Is Falling Down- CPanel/WHM Authentication Bypass CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)
 * [2026-04-30, 22:18:57](https://news.ycombinator.com/item?id=47968982) - [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html)
 * [2026-04-30, 20:55:12](https://news.ycombinator.com/item?id=47968112) - [Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell](https://pu.dev/)

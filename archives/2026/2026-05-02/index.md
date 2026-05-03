@@ -49,6 +49,7 @@
 * [2026-05-02, 09:08:18](https://news.ycombinator.com/item?id=47984734) - [Show HN: Browser-based light pollution simulator using real photometric data](https://iesna.eu/?wasm=skyglow_demo)
 * [2026-05-02, 08:54:27](https://news.ycombinator.com/item?id=47984675) - [Show HN: Filling PDF forms with AI using client-side tool calling](https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en)
 * [2026-05-02, 08:42:45](https://news.ycombinator.com/item?id=47984614) - [Show HN: Large Scale Article Extract of Newspapers 1730s-1960s](https://snewpapers.com/)
+* [2026-05-02, 08:37:39](https://news.ycombinator.com/item?id=47984589) - [Dabbling in Erlang, part 2: A minimal introduction (2013)](https://agis.io/post/dabbling-in-erlang-a-minimal-introduction/)
 * [2026-05-02, 08:23:23](https://news.ycombinator.com/item?id=47984522) - [Why are there both TMP and TEMP environment variables, and which one is right?](https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213)
 * [2026-05-02, 08:21:38](https://news.ycombinator.com/item?id=47984512) - [Shadcn/UI: A set of beautifully designed components that you can customize](https://github.com/shadcn-ui/ui)
 * [2026-05-02, 08:18:15](https://news.ycombinator.com/item?id=47984486) - [SKILL.make: Makefile Styled Skill File](https://github.com/Teaonly/SKILL.make)

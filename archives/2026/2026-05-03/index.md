@@ -1,0 +1,12 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-05-03](index.md)
+
+* [2026-05-03, 02:53:29](https://news.ycombinator.com/item?id=47992859) - [Windows API Is Successful Cross-Platform API](https://retrocoding.net/windows-api-is-successful-cross-platform-api)
+* [2026-05-03, 02:36:09](https://news.ycombinator.com/item?id=47992772) - [Open Source Does Not Imply Open Community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
+* [2026-05-03, 01:24:09](https://news.ycombinator.com/item?id=47992349) - [Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)
+* [2026-05-03, 01:22:41](https://news.ycombinator.com/item?id=47992338) - [Clandestine network smuggling Starlink tech into Iran to beat internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo)
+* [2026-05-03, 00:31:58](https://news.ycombinator.com/item?id=47991995) - [Am I the only one who hates delivery robots?](https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban)
+* [2026-05-03, 00:01:14](https://news.ycombinator.com/item?id=47991802) - [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
