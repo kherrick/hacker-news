@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-03](index.md)
 
+* [2026-05-03, 11:19:53](https://news.ycombinator.com/item?id=47995815) - [All Four Sentinel-1 Satellites Are Now Live](https://orbitaltoday.com/2026/05/03/all-four-sentinel-1-satellites-are-now-live-and-europes-earth-watch-just-got-stronger/)
 * [2026-05-03, 10:55:30](https://news.ycombinator.com/item?id=47995649) - [Systemd-manager-TUI: A TUI application for managing systemd services](https://github.com/Matheus-git/systemd-manager-tui)
 * [2026-05-03, 09:26:48](https://news.ycombinator.com/item?id=47995125) - [Investors pile into clean energy as Iran war drives push for energy security](https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a)
 * [2026-05-03, 09:18:25](https://news.ycombinator.com/item?id=47995065) - [Thoth – open-source Local-first AI Assistant](https://github.com/siddsachar/Thoth)
