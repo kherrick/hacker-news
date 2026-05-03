@@ -18,6 +18,7 @@
 * [2026-04-30, 19:42:33](https://news.ycombinator.com/item?id=47967289) - [U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets](https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd)
 * [2026-04-30, 19:40:20](https://news.ycombinator.com/item?id=47967262) - [LinkedIn scans for 6,278 extensions and encrypts the results into every request](https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/)
 * [2026-04-30, 19:22:55](https://news.ycombinator.com/item?id=47967069) - [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
+* [2026-04-30, 19:14:41](https://news.ycombinator.com/item?id=47966975) - [Forging ZK proofs to mint arbitrary DUSK tokens](https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/)
 * [2026-04-30, 18:45:22](https://news.ycombinator.com/item?id=47966625) - [Does Postgres Scale?](https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres)
 * [2026-04-30, 18:33:03](https://news.ycombinator.com/item?id=47966484) - [The Human Creativity Benchmark – Evaluating Generative AI in Creative Work](https://contralabs.com/research/human-creativity-benchmark)
 * [2026-04-30, 18:14:18](https://news.ycombinator.com/item?id=47966254) - [Full-Text Search with DuckDB](https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html)
