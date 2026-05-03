@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-03](index.md)
 
+* [2026-05-03, 19:31:35](https://news.ycombinator.com/item?id=48000507) - [Make Your Own Microforest](https://ambrook.com/offrange/environment/a-forest-in-your-pocket)
+* [2026-05-03, 18:54:28](https://news.ycombinator.com/item?id=48000152) - [Statue of a man blinded by a flag put up by Banksy in central London](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/)
 * [2026-05-03, 18:42:28](https://news.ycombinator.com/item?id=48000028) - [Why TUIs Are Back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
 * [2026-05-03, 18:28:06](https://news.ycombinator.com/item?id=47999880) - [The Death of Scrum – Built for a slower world, performed by those who left](https://death-of-scrum.net/)
 * [2026-05-03, 18:17:18](https://news.ycombinator.com/item?id=47999776) - [Talking to Transformers](https://miraos.org/blog/2026/05/02/talking-to-transformers)

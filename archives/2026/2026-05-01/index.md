@@ -58,6 +58,7 @@
 * [2026-05-01, 08:43:45](https://news.ycombinator.com/item?id=47972511) - [Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables](https://github.com/darrylmorley/whatcable)
 * [2026-05-01, 08:36:19](https://news.ycombinator.com/item?id=47972481) - [When Dawkins met Claude – Could this AI be conscious?](https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/)
 * [2026-05-01, 08:29:31](https://news.ycombinator.com/item?id=47972447) - [Grok 4.3](https://docs.x.ai/developers/models/grok-4.3)
+* [2026-05-01, 08:20:03](https://news.ycombinator.com/item?id=47972392) - [Lost in translation: The linguistic challenges facing N. Korean defectors (2025)](https://www.dailynk.com/english/lost-in-translation-the-linguistic-challenges-facing-n-korean-defectors/)
 * [2026-05-01, 08:14:07](https://news.ycombinator.com/item?id=47972367) - [Our agent found a bug with WireGuard in Google Kubernetes Engine](https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes)
 * [2026-05-01, 07:44:17](https://news.ycombinator.com/item?id=47972213) - [Canonical/Ubuntu have been under DDoS for more than 15h](https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==)
 * [2026-05-01, 07:28:55](https://news.ycombinator.com/item?id=47972114) - [A more efficient implementation of Shor's algorithm](https://lwn.net/Articles/1066156/)
