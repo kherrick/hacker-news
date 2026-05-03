@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2026-05-03, 14:48:32",
-      "https://news.ycombinator.com/item?id=47997468"
+      "2026-05-03, 14:49:56",
+      "https://news.ycombinator.com/item?id=47997486"
     ],
     [
-      "Redistricting and the Supreme Court have cut voters out of US House races",
-      "https://www.reuters.com/legal/government/how-redistricting-supreme-court-have-cut-voters-out-us-house-races-2026-05-03/"
+      "Security Through Obscurity Is Not Bad",
+      "https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/"
     ]
   ],
   [
@@ -51,12 +51,42 @@
   ],
   [
     [
+      "2026-05-03, 14:13:23",
+      "https://news.ycombinator.com/item?id=47997138"
+    ],
+    [
+      "Porsche will contest Laguna Seca in historic colors of the Apple Computer livery",
+      "https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 14:02:23",
       "https://news.ycombinator.com/item?id=47997056"
     ],
     [
       "Alert-Driven Monitoring",
       "https://simpleobservability.com/docs/alert-driven-monitoring"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 13:32:56",
+      "https://news.ycombinator.com/item?id=47996797"
+    ],
+    [
+      "I rebuilt my blog's cache. Bots are the audience now",
+      "https://hoeijmakers.net/thirty-years-of-caching-sorted-in-an-afternoon/"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 11:12:29",
+      "https://news.ycombinator.com/item?id=47995757"
+    ],
+    [
+      "Coffee doesn't just wake you up–a biological pathway illuminates health effects",
+      "https://sciencex.com/news/2026-04-coffee-doesnt-key-biological-pathway.html"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "A couple million lines of Haskell: Production engineering at Mercury",
       "https://blog.haskell.org/a-couple-million-lines-of-haskell/"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 21:34:49",
-      "https://news.ycombinator.com/item?id=47990789"
-    ],
-    [
-      "Clojurists Together – Q2 2026 Open Source Funding Announcement",
-      "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-05-02, 09:30:49",
-      "https://news.ycombinator.com/item?id=47984852"
-    ],
-    [
-      "How fast is a macOS VM, and how small could it be?",
-      "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/"
-    ]
-  ],
-  [
-    [
       "2026-05-01, 21:02:04",
       "https://news.ycombinator.com/item?id=47980279"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2026-05-01, 07:28:55",
-      "https://news.ycombinator.com/item?id=47972114"
+      "2026-05-01, 09:56:47",
+      "https://news.ycombinator.com/item?id=47972922"
     ],
     [
-      "A more efficient implementation of Shor's algorithm",
-      "https://lwn.net/Articles/1066156/"
+      "What Is Z-Angle Memory and Why Is Intel Developing It?",
+      "https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Inventions for battery reuse and recycling increase seven-fold in last decade",
       "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 16:42:13",
-      "https://news.ycombinator.com/item?id=47950880"
-    ],
-    [
-      "Because it doesn't have to",
-      "https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html"
     ]
   ]
 ]
