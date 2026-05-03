@@ -59,6 +59,7 @@
 * [2026-04-29, 14:05:42](https://news.ycombinator.com/item?id=47948664) - [How to Build the Future: Demis Hassabis [video]](https://www.youtube.com/watch?v=JNyuX1zoOgU)
 * [2026-04-29, 14:00:59](https://news.ycombinator.com/item?id=47948603) - [Tangled – We need a federation of forges](https://blog.tangled.org/federation/)
 * [2026-04-29, 13:54:48](https://news.ycombinator.com/item?id=47948526) - [Barman – Backup and Recovery Manager for PostgreSQL](https://github.com/EnterpriseDB/barman)
+* [2026-04-29, 13:40:20](https://news.ycombinator.com/item?id=47948338) - [Cordouan Lighthouse](https://en.wikipedia.org/wiki/Cordouan_Lighthouse)
 * [2026-04-29, 13:39:54](https://news.ycombinator.com/item?id=47948331) - [Facebook Has a Health Scam Problem](https://www.nytimes.com/2026/04/27/well/facebook-supplements-health.html)
 * [2026-04-29, 13:30:27](https://news.ycombinator.com/item?id=47948188) - [How we run iSCSI over the internet](https://scsipub.com/blog/how-we-run-iscsi-over-the-internet)
 * [2026-04-29, 13:28:47](https://news.ycombinator.com/item?id=47948152) - [Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac](https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica)

@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-03](index.md)
 
+* [2026-05-03, 17:05:58](https://news.ycombinator.com/item?id=47999006) - [What Chromium versions are major browsers are on?](https://chromium-drift.pages.dev/)
+* [2026-05-03, 17:02:13](https://news.ycombinator.com/item?id=47998946) - [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html)
+* [2026-05-03, 16:58:14](https://news.ycombinator.com/item?id=47998897) - [Largest electric autonomous container ship begins commercial service](https://global.chinadaily.com.cn/a/202604/16/WS69e0ee90a310d6866eb43dd4.html)
+* [2026-05-03, 16:48:11](https://news.ycombinator.com/item?id=47998790) - [Metal Gear Solid 2's Source Code Has Been Leaked on 4Chan](https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/)
 * [2026-05-03, 16:29:07](https://news.ycombinator.com/item?id=47998601) - [Uncle Bob: It's Over](https://old.reddit.com/r/vibecoding/comments/1srfqm0/uncle_bob_its_over/)
 * [2026-05-03, 15:55:59](https://news.ycombinator.com/item?id=47998225) - [For thirty years I programmed with Phish on, every day](https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html)
 * [2026-05-03, 15:32:05](https://news.ycombinator.com/item?id=47997947) - [A Desktop Made for One](https://isene.org/2026/05/Audience-of-One.html)
@@ -17,6 +21,7 @@
 * [2026-05-03, 14:13:23](https://news.ycombinator.com/item?id=47997138) - [Porsche will contest Laguna Seca in historic colors of the Apple Computer livery](https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html)
 * [2026-05-03, 14:02:23](https://news.ycombinator.com/item?id=47997056) - [Alert-Driven Monitoring](https://simpleobservability.com/docs/alert-driven-monitoring)
 * [2026-05-03, 13:32:56](https://news.ycombinator.com/item?id=47996797) - [I rebuilt my blog's cache. Bots are the audience now](https://hoeijmakers.net/thirty-years-of-caching-sorted-in-an-afternoon/)
+* [2026-05-03, 11:57:12](https://news.ycombinator.com/item?id=47996055) - [Show HN: I built a RISC-V emulator that runs DOOM](https://github.com/lalitshankarch/rvcore)
 * [2026-05-03, 11:19:53](https://news.ycombinator.com/item?id=47995815) - [All Four Sentinel-1 Satellites Are Now Live](https://orbitaltoday.com/2026/05/03/all-four-sentinel-1-satellites-are-now-live-and-europes-earth-watch-just-got-stronger/)
 * [2026-05-03, 11:12:29](https://news.ycombinator.com/item?id=47995757) - [Coffee doesn't just wake you up–a biological pathway illuminates health effects](https://sciencex.com/news/2026-04-coffee-doesnt-key-biological-pathway.html)
 * [2026-05-03, 10:55:30](https://news.ycombinator.com/item?id=47995649) - [Systemd-manager-TUI: A TUI application for managing systemd services](https://github.com/Matheus-git/systemd-manager-tui)
